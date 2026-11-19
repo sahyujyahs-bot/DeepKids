@@ -366,14 +366,14 @@
      "what": "Guess which will look darkest. Cover the box lid with black paper and make a small hole in it. Rank the hole, the black paper and white paper from darkest to lightest. Make the hole bigger and rank again. Line the inside of the box with black paper or cloth and rank again. Then say what you think, what you saw and why it happened."
     }
    ],
-   "record": "Fill in the results table. Draw the lid, shading each part as dark as it looked.",
+   "record": "Fill in the results table. Draw the lid, shading each part as dark as it looked, or just write the ranks you gave.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Show your child a sheet of black paper and a sheet of white paper. 2. Show them the closed box. 3. Ask the guess question below. 4. Wait for a guess and a reason.",
-     "say": "Black paper is about the darkest thing we have at home. Soon we will make a small hole in this box. Which do you think will look darker, the black paper or the hole? Why?",
-     "kid": "Here is black paper, and here is a closed box. Soon the box will have a hole in it. Guess which will look darker, the paper or the hole. Then say why you think so.",
+     "say": "Black paper is about the darkest thing we have at home. Soon we will make a small hole in this box. Let's guess which will look darker, the paper or the hole, and why.",
+     "kid": "Look at the black paper and the closed box. Soon the box will have a hole in it. Think about what you guess, and why.",
      "ask": [
       {
        "q": "Which do you think will look darkest: black paper, a small hole in the box, or a big hole? Why?",
@@ -430,7 +430,7 @@
      "mins": 5,
      "do": "1. A grown-up makes the hole bigger with scissors, until it is about 3 centimetres wide, the width of a bottle cap. 2. Put the lid back exactly as before. 3. Look from the same spot. Rank the white strip, the black paper and the big hole. 4. Is the big hole darker or lighter than the small hole was?",
      "say": "Now we change one thing: the size of the hole. Do you think the bigger hole will look darker or less dark? Why?",
-     "kid": "A grown-up makes the hole bigger. Look again from the same spot. Is the big hole as dark as the small one?",
+     "kid": "A grown-up makes the hole bigger. Look again from the same spot and rank the three.",
      "adult": true,
      "parent": "Cut slowly round the hole with the scissors pointing away from you. The bigger hole usually looks less black than the small one. You may see the inside of the box faintly. It may still look darker than the black paper. Either result is fine: write what you see."
     },
@@ -439,7 +439,7 @@
      "mins": 5,
      "do": "1. Open the box. 2. Line the inside with black paper or a black cloth, on the bottom and the sides. 3. Close it again. 4. Look at the big hole from the same spot and rank it again.",
      "say": "Now the inside of the box is black too. Will the big hole look darker than before? Let's see.",
-     "kid": "Line the inside of the box with black paper or cloth. Close it. Look at the big hole again. Is it darker now?",
+     "kid": "Line the inside of the box with black paper or cloth. Close it. Look at the big hole again and rank it.",
      "parent": "With a black inside, each bounce soaks up more light, so the big hole should look darker than before. If you have a phone, take a photo of the lid. In the photo, the hole is usually the darkest spot of all."
     },
     {
@@ -507,14 +507,14 @@
      "what": "Measure a slice of bread. Squeeze it into a hard little ball and measure again. Then hold a big ball and a marble side by side to see how small the Earth would be as a black hole."
     }
    ],
-   "record": "Draw the slice before and the ball after, with their widths written beside them.",
+   "record": "Write down the slice's width before and the ball's width after. You can draw both, or take a photo.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Measure how wide the slice of bread is with the ruler. 2. If you have a kitchen scale, weigh it. 3. Write both numbers down.",
-     "say": "Let's measure this slice. How wide is it? If we squeeze it, what do you think will change, and what will stay the same?",
-     "kid": "Measure the bread slice. Weigh it if you can. If you squeeze it, what will change?",
+     "say": "Let's measure this slice. How wide is it?",
+     "kid": "Measure the bread slice. Weigh it if you can.",
      "ask": [
       {
        "q": "If you squeeze the bread, what will change and what will stay the same?",
@@ -532,7 +532,7 @@
      "mins": 5,
      "do": "1. Your child squeezes the slice in their fist, rolls it and squeezes again, as hard as they can. 2. Measure the ball. 3. Weigh it again, if you have a scale.",
      "say": "Squeeze as hard as you can. Roll it and squeeze again. How wide is it now? Does it weigh the same?",
-     "kid": "Squeeze the bread hard. Roll it. Squeeze again. How wide is it now? Weigh it again.",
+     "kid": "Squeeze the bread hard. Roll it. Squeeze again. Then measure it and weigh it again.",
      "parent": "A slice about 10 centimetres wide usually squeezes to a ball 2 or 3 centimetres wide. The weight stays the same, or within a gram or two, because a few crumbs may fall off. The air in the bread's holes was pushed out, but the bread itself is all still there.",
      "check": {
       "t": "mcq",
@@ -549,9 +549,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Hold up the big ball and say it is the Earth. 2. Hold up the marble beside it. 3. Tell your child what the Earth would look like as a black hole.",
-     "say": "Suppose we squeezed the whole Earth like the bread, until it was as small as this marble. It would become a black hole, with all the Earth's mass in a ball about 2 centimetres wide. Why do you think its gravity would be so strong close to it?",
-     "kid": "This big ball is the Earth. If the whole Earth were squeezed to the size of this marble, it would be a black hole. Why would its gravity be so strong close to it?",
+     "do": "1. Hold up the big ball and say it is the Earth. 2. Hold up the marble beside it. 3. Say what the Earth would become, using the words below.",
+     "say": "Suppose we squeezed the whole Earth like the bread, until it was as small as this marble. It would become a black hole, with all the Earth's mass in a ball about 2 centimetres wide.",
+     "kid": "This big ball is the Earth. Squeeze the whole Earth down to the size of this marble. It would be a black hole.",
      "ask": [
       {
        "q": "Why would a marble-sized Earth have such strong gravity close to it?",
@@ -606,7 +606,7 @@
      "what": "A grown-up is the Sun and a child is the Earth, each holding one end of a scarf. The Earth walks round the Sun. Then the Sun crouches small and turns off its torch, and the Earth keeps going round."
     }
    ],
-   "record": "Draw two pictures: the Earth going round the Sun, and the Earth going round a black hole of the same mass.",
+   "record": "Tell someone at home what happened when the Sun became a black hole and the Earth kept going round. You can draw the two paths if you like.",
    "flow": [
     {
      "id": "s1",
@@ -621,7 +621,7 @@
      "mins": 4,
      "do": "1. The Sun crouches down small, turns off the torch, and keeps holding the scarf with the same grip. 2. The Earth keeps walking round. 3. Ask the question below.",
      "say": "Now I have turned into a black hole. I am much smaller, and I give no light. But I have the same mass, so I pull you just as hard. Are you falling in?",
-     "kid": "The Sun is now a black hole. Small and dark. The pull is the same. Do you fall in?",
+     "kid": "The Sun is now a black hole. Small and dark. The pull is the same. Keep walking.",
      "ask": [
       {
        "q": "Did the Earth fall in when the Sun became a small black hole?",
@@ -648,7 +648,7 @@
      "mins": 2,
      "do": "Stop and talk about what would really change on Earth.",
      "say": "The Earth would keep going round. So what would be the problem for us?",
-     "kid": "The Earth keeps going round. What would be the problem?",
+     "kid": "Think about what the Earth would be like with no light.",
      "parent": "Good answers: no sunlight, so no day, no warmth, and plants could not make their food. The Sun will never become a black hole, because it is not heavy enough. This is only a thought test."
     }
    ],
@@ -695,7 +695,7 @@
      "what": "In a dark room, a child holds a torch and spins slowly, holding hands with a grown-up in dark clothes. A phone filming, or another person watching, sees only the torch going round, and the family works out where the hidden partner is."
     }
    ],
-   "record": "Draw what the film or the watcher showed: the circle the light made, and where you think the hidden partner was.",
+   "record": "Tell someone what the film or the watcher showed, and where the hidden partner was. You can draw the circle the light made instead.",
    "flow": [
     {
      "id": "s1",
@@ -729,7 +729,7 @@
      "mins": 4,
      "do": "If two children are about the same size, let them spin together, one holding a torch, in the same way.",
      "say": "Now two people of the same size spin. Where is the middle of the circle now?",
-     "kid": "Now two children the same size spin. Where is the middle now?",
+     "kid": "Spin with another child of the same size. Watch where the light goes.",
      "adult": true,
      "parent": "With two equal partners, each makes a circle of the same size, round a point halfway between them. With a heavy partner, the middle moves close to the heavy one. Skip this step if only one child is at home."
     },
@@ -737,8 +737,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about how astronomers use the same idea.",
-     "say": "Astronomers watched stars swing round the centre of our galaxy, round a spot where they could see nothing. What do you think they worked out?",
-     "kid": "Stars swing round a dark spot in our galaxy. What must be there?",
+     "say": "Astronomers watched stars swing round the centre of our galaxy, round a spot where they could see nothing.",
+     "kid": "Stars swing round a dark spot in our galaxy. Think back to the spinning. What pulled the light round?",
      "check": {
       "t": "mcq",
       "q": "A star moves fast in a small circle round a spot where nothing can be seen. What does that tell astronomers?",
@@ -803,8 +803,8 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Fold the strip back and forth into 6 pages, like a fan. 2. Page 1: a big cloud of gas and dust. 3. Page 2: a giant blue-white star shining. 4. Page 3: the star swelling up, red and huge. 5. Write one short sentence under each page.",
-     "say": "We are making the life story of a giant star. It starts as a cloud. Gravity pulls the cloud together into a star. Once the star shines, its middle is very hot, and hot gas pushes outwards. Gravity keeps pulling inwards. Near the end of its life, the star swells up and turns red. First, what do you think keeps the star from being squeezed smaller by its own gravity?",
-     "kid": "Fold the paper into 6 pages. Draw a gas cloud, then a giant star, then the star swelling up. Write one line under each.",
+     "say": "We are making the life story of a giant star. It starts as a cloud. Gravity pulls the cloud together into a star. Once the star shines, its middle is very hot, and hot gas pushes outwards. Gravity keeps pulling inwards. Near the end of its life, the star swells up and turns red.",
+     "kid": "Fold the paper into 6 pages. Show a gas cloud, then a giant star, then the star swelling up. Draw them, or tear and stick coloured paper. Write one line under each.",
      "ask": [
       {
        "q": "What keeps a star from being squeezed smaller by its own gravity?",
@@ -820,8 +820,8 @@
      "id": "s2",
      "mins": 20,
      "do": "1. Page 4: the middle of the star collapsing, with a bright flash round it. 2. Page 5: a black dot with hot orange gas swirling round it. 3. Page 6: another star going round the black hole. 4. Write one sentence under each page. 5. Read the whole book aloud to someone.",
-     "say": "When the fuel runs out, the push stops. Gravity wins, and the middle collapses. What is left can be a black hole. How will you draw something that gives out no light?",
-     "kid": "Draw the middle collapsing with a flash. Then a black hole with glowing gas round it. Then a star going round it. Read your book aloud!",
+     "say": "When the fuel runs out, the push stops. Gravity wins, and the middle collapses. What is left can be a black hole. A black hole gives out no light, so we show it as a black dot or a piece of black paper.",
+     "kid": "Show the middle collapsing with a flash. Then a black hole with glowing gas round it. Then a star going round it. Draw or stick paper. Read your book aloud!",
      "wait": "Do this on day 2.",
      "parent": "A black hole cannot be seen, so we draw it as a black circle with the glowing gas around it. Only stars many times heavier than the Sun end as black holes. The Sun will end as a small white dwarf.",
      "check": {
@@ -847,7 +847,7 @@
      "caption": "2. Day 2: the collapse, the black hole, and a star going round it."
     }
    ],
-   "context": "This is the Life of a Giant Star project, over two days. You make a fold-out book of a giant star's life."
+   "context": "This is the Life of a Giant Star project, over two days. You make a fold-out book of a giant star's life. You will find out how a giant star ends as a black hole."
   }
  ],
  "challenges": [
@@ -855,6 +855,7 @@
    "id": "c1",
    "title": "Make the Blackest Black You Can",
    "mins": 30,
+   "context": "You try to build something that looks even blacker than your Blackest Black box. You will find out which idea traps the most light.",
    "problem": "In the Blackest Black experiment, a hole into a closed box looked darker than black paper. Now design something at home that looks even blacker. Then test it against your first box, side by side.",
    "constraints": [
     "Use only things you already have at home.",
@@ -885,8 +886,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the box from the Blackest Black experiment. Ask how they could make a darker black.",
-     "say": "In the Blackest Black experiment, the hole in your box looked darker than black paper. How could you make something even darker? What did that experiment teach you?",
-     "kid": "The hole in your Blackest Black box was blacker than black paper. How could you make something even darker?",
+     "say": "In the Blackest Black experiment, the hole in your box looked darker than black paper. How could you make something even darker?",
+     "kid": "The hole in your Blackest Black box was blacker than black paper. Think about why.",
      "context": "This is the first step of the Blackest Black challenge. You design a light trap that looks even darker than your first box."
     },
     {
@@ -902,8 +903,8 @@
      "id": "s3",
      "mins": 7,
      "do": "Put the new design next to the Blackest Black box. Ask a second person which looks darker.",
-     "say": "Which looks darker? Why do you think your change helped, or did not help?",
-     "kid": "Put them side by side. Which is darker? Why?",
+     "say": "Let's see which looks darker.",
+     "kid": "Put them side by side and look from the same spot.",
      "ask": [
       {
        "q": "Why did your design look darker, or not?",
@@ -1044,9 +1045,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Players take turns, guessing and flipping the cards.",
+     "do": "Take turns. Turn over one place card and one traveller card. Guess if the traveller can escape, then check.",
      "say": "Can a bullet escape the Moon? Guess first, then flip the cards.",
-     "kid": "Turn over a place and a traveller. Can it escape? Guess, then flip!",
+     "kid": "Turn over a place and a traveller. Guess first, then flip.",
      "check": {
       "t": "mcq",
       "q": "Which traveller can escape from the Sun?",
@@ -1064,7 +1065,7 @@
      "mins": 5,
      "do": "Put the black hole card and the light card side by side. Ask the last question.",
      "say": "Light can escape the Moon, the Earth, Jupiter and the Sun. What happens at the edge of a black hole?",
-     "kid": "Light escapes everything else. What about a black hole?",
+     "kid": "Put the black hole card beside the light card. Light escaped every other place.",
      "ask": [
       {
        "q": "Why can't light escape from inside a black hole?",
@@ -1087,7 +1088,7 @@
      "caption": "2. Guess, then flip to check."
     }
    ],
-   "context": "This is the Can It Escape? game. You compare escape speeds with how fast things can travel."
+   "context": "This is the Can It Escape? game. You find out which travellers are fast enough to escape from which places. Escape speed is how fast you must go to get away from a place's pull."
   }
  ],
  "videos": [

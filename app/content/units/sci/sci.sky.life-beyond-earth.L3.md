@@ -219,11 +219,11 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the place cards and the answer cards. 2. Give each player a YES, a NO and an UNKNOWN card. 3. Put the Lake Vida card on top and shuffle the rest under it.  
   *Parent says:* Each card is a place. Some have life, some do not, and for some nobody knows yet. You must decide which, and say why.  
-  *Child mode:* Each card is a place. Does life live there? Yes, no, or nobody knows?
+  *Child mode:* Look at the answer cards: YES, NO and UNKNOWN.
 - **s2 (3 min)**  
   *Parent does:* Play the Lake Vida card first, slowly, to learn the rules. It scores like any other card.  
   *Parent says:* First card. Lake Vida is in Antarctica. Its water is minus 13 degrees and very salty, under thick ice. Could anything live there?  
-  *Child mode:* Lake Vida is very cold and very salty. Can anything live there?
+  *Child mode:* Listen to the card. Then pick one answer card.
   - Check: Lake Vida's water is minus 13 degrees and very salty, under ice. Do living things live there? → **Yes, bacteria live in the salty water**
 - **s3 (12 min)**  
   *Parent does:* Play the other 15 cards. After each card, ask for a reason before giving the point.  
@@ -233,7 +233,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s4 (2 min)**  
   *Parent does:* Add up the scores. Then look at the YES cards together.  
   *Parent says:* Look at the YES cards. What did every one of those places have?  
-  *Child mode:* Look at the YES cards. What did every one of those places have?
+  *Child mode:* Put the YES cards in a row. Look for what they share.
   - Note: Every YES place has liquid water: hot spring water, salty liquid under ice, damp moss, and the liquid in curd and saliva. So no YES card is without liquid water. This is the main idea of the unit.
   - Think: Look at the YES cards again. Is there any YES card without liquid water?
 ### g2 · Hot, Cold, Salty, Dry: a running game (10 min)
@@ -247,12 +247,12 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s2 (7 min)**  
   *Parent does:* Read the creature cards one at a time, but keep the Lake Vida card for last. After each run, turn the card over and ask one question.  
   *Parent says:* Tardigrade in summer moss! Go! Now, what problem does summer give a tardigrade, and what do they do about it?  
-  *Child mode:* Run to the corner. What is hard there? How does the creature cope?
+  *Child mode:* Run to the corner where the creature lives.
   - Note: Good answers name the problem first, then the trick. For example: the moss dries out, so the tardigrade curls into a dry ball and waits for rain. Heat breaks most cells' working parts, so hot-spring microbes have heat-proof parts.
 - **s3 (1 min)**  
   *Parent does:* End with the Lake Vida card, which fits two corners.  
   *Parent says:* Last one. Bacteria in Lake Vida. Which corner? Why could it be two?  
-  *Child mode:* Lake Vida bacteria. Which corner? Could it be two?
+  *Child mode:* Run to the corner for Lake Vida bacteria. Stand between two if you think it fits both.
   - Check: Why does Lake Vida fit both COLD and SALTY? → **Its water is very cold and very salty at the same time**
 
 ## Experiments
@@ -261,7 +261,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **predict:** We will put three cups in the freezer: plain water, water with one spoon of salt, and water with six spoons of salt. Which will freeze first? Will any of them stay liquid all night? Why do you think so?
 - **fair test:** Use three cups that are the same, with the same amount of water, on the same freezer shelf, checked at the same times. Only the amount of salt changes. That way, if one freezes later, the salt is the reason.
 - **safety:** Do not drink the salty water. It is far too salty to be good for you. When you finish, pour it down the sink with plenty of tap water. Very cold steel can stick to wet fingers for a moment, so hold the cups with dry hands or a cloth.
-- **record:** Fill in the table at each check. Write one of these four words: liquid, thin ice on top, slushy, or frozen hard. Next morning, draw the three cups and colour the ice blue and the liquid water green.
+- **record:** Fill in the table at each check. Write one of these four words: liquid, thin ice on top, slushy, or frozen hard. Next morning, take a photo of the three cups. Or draw them and colour the ice blue and the liquid water green.
 - **results table:** Cup | Spoons of salt | My guess | After 1 hour | After 3 hours | Next morning
 - **s1 (8 min)**  
   *Parent does:* 1. Label the cups 0, 1 and 6. 2. Pour half a cup of tap water into each. 3. Add one level teaspoon of salt to cup 1. 4. Add six level teaspoons of salt to cup 6. 5. Stir each cup for one minute.  
@@ -271,7 +271,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s2 (5 min)**  
   *Parent does:* 1. Ask your child to guess what each cup will look like in 1 hour, in 3 hours and next morning. 2. Ask for a reason. 3. Write the guesses in the table.  
   *Parent says:* Which cup will freeze first? Will any of them stay liquid all night? Why do you think so?  
-  *Child mode:* Guess. Which cup will freeze first? Will any stay liquid? Why?
+  *Child mode:* Guess how each cup will look, and say why.
   - Ask: Why do you think the salty cups will be different? (good: The sea is salty, and it does not freeze.; The salt melted the ice when we lifted the ice cube with a thread.; Salt gets in the way of the water turning to ice.)
   - Note: Do not say what will happen. Any reason your child gives is useful, because it shows what they think now.
 - **s3 (2 min)**  
@@ -308,7 +308,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **predict:** We will freeze salty water until it is half ice. Will the ice taste salty, or plain? Will the leftover water be more salty or less salty than at the start? Why do you think so?
 - **fair test:** Taste the salty water before freezing, so you have something to compare. Rinse the ice quickly, so you taste the ice itself and not the salty water on its outside. Taste the ice and the leftover water one after the other, with a sip of plain water between.
 - **safety:** This water is only as salty as the sea, so a small taste is safe. Use clean cups and drinking water, because you will taste it. Take only tiny sips.
-- **record:** Write how salty each one tasted. If you used food colour, draw the cup and show where the colour was strongest.
+- **record:** Write how salty each one tasted. If you used food colour, take a photo of the cup and point to where the colour was strongest.
 - **results table:** What I tasted | My guess | Salty, a little salty, or plain?
 - **s1 (4 min)**  
   *Parent does:* 1. Stir half a level teaspoon of salt into half a cup of drinking water. 2. Add two drops of food colour if you have it. 3. Take a tiny sip and remember how salty it is.  
@@ -317,7 +317,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Then put the cup in the freezer.  
   *Parent says:* When this is half frozen, will the ice taste as salty as this? Saltier? Or plainer? Why do you think so?  
-  *Child mode:* Guess. Will the ice taste salty or plain? Why?
+  *Child mode:* Guess how the ice will taste, and say why.
   - Note: Do not say what will happen. Write down the guess and the reason.
 - **s3 (5 min)**  
   *Parent does:* 1. Check the cup. 2. When there is a layer of ice on top and liquid underneath, take it out.  
@@ -331,15 +331,15 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
   *Child mode:* Taste the ice. Sip plain water. Taste the leftover water. Which is saltier?
   - Note: The ice should taste much less salty than the water you started with. The leftover water should taste clearly saltier than at the start. If you used food colour, the ice is paler and the leftover water is darker. Home ice traps some salty water inside it, so the ice may not taste completely plain.
 - **s5 (7 min)**  
-  *Parent does:* Ask your child to say three things: what they think, what they saw, and why they think it happened. Then draw the half-frozen cup together: ice on top, salty water below, and thin channels of brine inside the ice.  
+  *Parent does:* Ask your child to say three things: what they think, what they saw, and why they think it happened.  
   *Parent says:* So where did the salt go when the water froze? What does that mean for a microbe living in sea ice?  
-  *Child mode:* Where did the salt go? Where could a microbe live in sea ice?
+  *Child mode:* Tell your grown-up what you tasted, and where the salt went.
   - Note: A good answer: the ice was less salty, and the leftover water was saltier, so freezing pushed the salt out of the ice. In real sea ice, this pushed-out salty water collects in thin channels. Because it is so salty, it stays liquid far below zero. Bacteria and tiny algae live in those channels.
   - Check: In sea ice, where do bacteria and algae live? → **In thin channels of very salty liquid water between the ice crystals**
 
 ## Activities
 ### a1 · Lift an Ice Cube with a Thread (10 min)
-- **record:** Draw the ice cube and the thread before and after the salt. Write one sentence about what the salt did.
+- **record:** Take a photo of the ice cube hanging on the thread. Say or write one sentence about what the salt did.
 - **s1 (3 min)**  
   *Parent does:* 1. Put an ice cube on a plate. 2. Lay the thread across the top. 3. Ask your child to lift the ice by the thread.  
   *Parent says:* Can you lift this ice cube with just this thread? Lay it across the top and try.  
@@ -351,14 +351,14 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
   - Note: The salt melts a thin layer of ice under the thread. The cold ice around it then freezes that water again, round the thread, so the thread is stuck in the ice. If it does not work, wait a little longer, up to two minutes, and use a damp thread.
 - **s3 (3 min)**  
   *Parent does:* Ask what the salt did. Ask what the child wonders.  
-  *Parent says:* The salt made the ice melt for a moment. What do you notice? What do you wonder about salt and ice?  
-  *Child mode:* Salt melted the ice. What do you wonder about salt and ice?
+  *Parent says:* What did you notice when you lifted the thread? What do you wonder about salt and ice?  
+  *Child mode:* Say what you noticed. Then say what you wonder.
   - Ask: What do you think salt does to ice? (good: It melts it.; It makes it turn back into water even when cold.; It stops water from staying frozen.)
   - Note: Write down the child's questions. The freezer test answers the main one: does salt keep water liquid in the cold?
 ### a2 · The Life Thermometer: a string from minus 20 to 120 degrees (20 min)
-- **record:** Take a photo or draw the string with the cards. Circle the part of the string where life has been found.
+- **record:** Take a photo of the string with the cards. Point to the part of the string where life has been found, and tell a grown-up what you see.
 - **s1 (8 min)**  
-  *Parent does:* 1. Lay the string along the floor of a corridor. 2. Write numbers on 8 cards: minus 20, 0, 20, 40, 60, 80, 100 and 120. 3. Put them along the string, evenly spaced, about 40 cm apart. 4. Write the 10 place cards listed below, one on each card.  
+  *Parent does:* 1. Lay the string along the floor of a corridor. 2. Write numbers on 8 cards: minus 20, 0, 20, 40, 60, 80, 100 and 120. 3. Put them along the string, evenly spaced, about 40 cm apart. 4. Write the 10 place cards from the list in the note below, one on each card.  
   *Parent says:* This string is a giant thermometer. This end is minus 20 degrees, colder than a freezer. That end is 120 degrees, hotter than boiling water.  
   *Child mode:* Lay out the string. Put the numbers in order, from minus 20 to 120.
   - Note: The 10 place cards are these. Plain water freezes at 0. Your body is at 37. A hot day in many Indian cities is about 45. Boiling water near the sea is 100. A big home freezer is at minus 18. Curd bacteria work best at about 40. Thermus aquaticus lives best at about 70. Lake Vida bacteria live at minus 13. Microbes at deep-sea vents grow at up to about 113. Very salty water freezes at minus 21.
@@ -374,20 +374,20 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
   - Check: Where on the string has life been found? → **From below minus 10 to above 110 degrees**
 ### a3 · Design a Living Thing for Europa (25 min)
 - **problem:** Real scientists think tiny life might live under the ice of Europa, in the cold dry ground of Mars, or in the ocean of Enceladus. Each of these worlds is a hard place to live. On Earth, living things called extremophiles already live in hard places, and each one has a trick for the problem its place gives it. You pick a world, list its problems, and draw a living thing with a trick for each problem.
-- **record:** Draw your living thing, and label each feature with the problem it solves.
+- **record:** Show your living thing, drawn or built, or describe it out loud. Say which problem each feature solves.
 - **s1 (5 min)**  
   *Parent does:* Read the three world cards aloud. Europa: an ocean of dark, salty water under kilometres of ice, very cold, no sunlight. Mars: cold, dry, thin air, strong sunlight that burns living cells, ice under the ground. Enceladus: a small salty ocean under ice, with warm vents on the sea floor.  
   *Parent says:* Choose one world. Real scientists think tiny life might live in places like these. What would be hard about living there?  
-  *Child mode:* Choose Europa, Mars or Enceladus. What would be hard about living there?
+  *Child mode:* Choose one world: Europa, Mars or Enceladus.
 - **s2 (5 min)**  
   *Parent does:* Help your child list three problems their world would give a living thing.  
   *Parent says:* Let's list three problems first. For Europa: it is dark, so there is no sunlight for energy. It is very cold. And the water is salty.  
-  *Child mode:* Write three problems. Dark? Cold? Salty? Dry?
+  *Child mode:* Tell your grown-up three problems this world gives a living thing.
   - Note: Keep each problem real: cold, dark, salty, dry, burning sunlight, no food. Each one has a real Earth creature who deals with it.
 - **s3 (12 min)**  
-  *Parent does:* Your child draws a living thing and labels a feature for each problem.  
+  *Parent does:* Your child makes a living thing, drawn, built from paper or clay, or described out loud, with a feature for each problem.  
   *Parent says:* For each problem, give your creature a way to deal with it. What does a microbe in Lake Vida do about the cold? What could your creature eat if there is no sunlight?  
-  *Child mode:* Draw your creature. Give them one trick for each problem. Label it.
+  *Child mode:* Make your creature with one trick for each problem. Draw it, build it from paper or clay, or describe it out loud.
   - Note: Good features come from real extremophiles. Salt inside their cells so the salty water does not pull water out. Substances that stop ice crystals growing. Taking energy from chemicals at vents, like deep-sea microbes. Curling up dry and waiting, like a tardigrade. A microbe is just as good an answer as a big creature, and more likely.
 - **s4 (3 min)**  
   *Parent does:* Ask how big the creature is, and why.  
@@ -397,19 +397,19 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
   - Think: On Earth, microbes lived alone for billions of years before any animals. What does that suggest about the first life we find elsewhere?
 ### a4 · What Would an Alien Look Like? Ask Five People (20 min)
 - **safety:** Ask only people your family knows. A grown-up makes any phone calls.
-- **record:** Make a tally chart: big creature with a head and eyes, animal-like, plant-like, microbe, other. Then draw a bar chart.
+- **record:** Make a tally chart: big creature with a head and eyes, animal-like, plant-like, microbe, other. Then show the groups as a bar chart: stack coins or buttons in a row for each group, or draw bars.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Your child asks each person two questions and writes the answers.  
   *Parent says:* Ask each person: if we find life on another world, what will it look like? And how big will it be?  
-  *Child mode:* Ask five people. What will alien life look like? How big?
+  *Child mode:* Ask five people the two questions. Write down each answer.
 - **s2 (5 min)**  
   *Parent does:* Make a tally of the answers in groups.  
   *Parent says:* Let's put the answers in groups. How many said a creature with a head and eyes? How many said a microbe?  
-  *Child mode:* Tally the answers. Head and eyes? Animal? Plant? Microbe?
+  *Child mode:* Make one tally mark for each answer, in its group.
 - **s3 (5 min)**  
   *Parent does:* Compare the results with what scientists expect.  
   *Parent says:* Most scientists expect the first alien life we find to be microbes. Why do you think so few people said that?  
-  *Child mode:* Scientists expect microbes first. Why did so few people say that?
+  *Child mode:* Compare your tally with what scientists expect.
   - Note: Films and cartoons show aliens with heads and eyes. Scientists expect microbes because on Earth, microbes lived alone for about 3 billion years before animals appeared, and microbes still live in far more places than animals do.
   - Check: Why do most scientists expect the first alien life we find to be microbes? → **Microbes are the most common life on Earth, and lived alone here for billions of years**
 ### a5 · Paint a Hot Spring's Rings (20 min)
@@ -421,7 +421,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s2 (12 min)**  
   *Parent does:* Your child paints the spring: a blue centre, then rings of green, yellow, orange and brown.  
   *Parent says:* The middle is the hottest, about 70 degrees. It is blue because it is clear, deep water. As the water flows out, it cools, and different microbes live in each ring.  
-  *Child mode:* Paint a blue middle. Then rings of green, yellow, orange, brown.
+  *Child mode:* Paint a blue middle, then rings of green, yellow, orange and brown. Or tear coloured paper into rings.
   - Note: Each colour ring is a mat of different microbes, each living best at a different temperature. The hottest centre has fewer coloured microbes, so you see the deep blue water.
 - **s3 (3 min)**  
   *Parent does:* Label the rings from hottest to coolest.  
@@ -433,12 +433,12 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 ## Projects
 ### p1 · My Field Guide to Extreme Lives (60 min, 3 days)
 - **safety:** A grown-up helps with the stapler.
-- **record:** The finished book. Each page has a drawing, where the creature lives, the problem that place gives them, and how they deal with it.
+- **record:** The finished book. Each page has a picture (drawn or cut out), where the creature lives, the problem that place gives them, and how they deal with it.
 - **schedule:** day 1: Make the book. Write and draw pages for a hot-spring microbe and a deep-sea vent microbe. (20 min); day 2: Write and draw pages for a sea-ice microbe, Lake Vida bacteria, pink salt-loving microbes and a tardigrade. (20 min); day 3: Write the last page: where in the solar system you would look for life, and why. Read the book to someone. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Fold and staple the book. 2. Write the title on the cover. 3. Make the first two pages: Thermus aquaticus and the vent microbes.  
-  *Parent says:* Each page needs four things. A drawing. Where they live. What is hard about that place. And how they deal with it.  
-  *Child mode:* Make your book. Each page: a drawing, a home, a problem, a trick.
+  *Parent says:* Each page needs four things. A picture. Where they live. What is hard about that place. And how they deal with it.  
+  *Child mode:* Make your book. Each page: a picture, a home, a problem, a trick. Draw the picture, or cut one out.
 - **s2 (20 min)**  
   *Parent does:* Make four more pages: sea-ice microbes, Lake Vida bacteria, pink haloarchaea in Lonar Lake, and a tardigrade.  
   *Parent says:* Today you make pages for creatures from cold, salty and dry places. On each page, write the problem first, then how the creature deals with it.  
@@ -448,7 +448,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s3 (20 min)**  
   *Parent does:* 1. Make the last page: Where I would look for life beyond Earth. 2. Read the whole book to a family member.  
   *Parent says:* On the last page, choose Mars, Europa or Enceladus. Which would you send a spacecraft to first? Use what your book shows about where life can live.  
-  *Child mode:* Last page. Where would you look for life? Why? Then read your book to someone.
+  *Child mode:* Finish the last page. Then read your book to someone.
   - Check: Every creature in your book has one thing in common. What is it? → **They all need liquid water**
   - Wait: Day 3
 
@@ -462,20 +462,20 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Talk about why words will not work.  
   *Parent says:* Someone from another world would not know Tamil, Hindi or English. What could we show them that they might understand?  
-  *Child mode:* Aliens do not know our words. What could you draw instead?
+  *Child mode:* Think of ways to show something without any words.
 - **s2 (5 min)**  
   *Parent does:* Read how the Arecibo and Voyager teams solved it.  
   *Parent says:* Real scientists have done this twice. They used counting, pictures, and a map of the planets. Why do you think counting was a good start?  
-  *Child mode:* Scientists used counting and pictures. Why would counting work?
+  *Child mode:* Listen to how the scientists did it.
   - Note: Counting is the same everywhere. Two dots mean two to anyone, in any language, so a message that starts with counting can be understood.
 - **s3 (15 min)**  
-  *Parent does:* Your child designs and draws the message.  
+  *Parent does:* Your child designs the message: drawn, or laid out with coins, buttons or dots.  
   *Parent says:* Now make yours. It must show where we are, what we look like, and one thing we know.  
-  *Child mode:* Draw your message. Where we are. What we look like. One thing we know.
+  *Child mode:* Make your message. Show where we are, what we look like, and one thing we know. Draw it, or lay it out with buttons.
 - **s4 (5 min)**  
   *Parent does:* Show the message to another person at home or a neighbour, without explaining. See what they understand.  
   *Parent says:* Let's test it. Show it to someone who has not seen it, without saying anything. What do they think it says?  
-  *Child mode:* Show it to someone. Don't explain. What do they think it says?
+  *Child mode:* Show it to someone, and do not explain it.
   - Note: Probably not. A being with no eyes could not see a drawing. You could send sounds, as the Voyager record does, or a pattern of radio pulses, as the Arecibo message did.
   - Think: Would a being with no eyes understand a picture? What else could you send?
 ### c2 · Don't Take Earth Germs to Mars (30 min)
@@ -487,7 +487,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 - **s1 (5 min)**  
   *Parent does:* 1. Rub a pinch of turmeric onto your child's hands. 2. Explain that the turmeric stands for microbes.  
   *Parent says:* Pretend this turmeric is Earth microbes. Real microbes are too small to see, so we use turmeric to see where they go.  
-  *Child mode:* The turmeric is pretend microbes. Don't let it touch the lander!
+  *Child mode:* The yellow turmeric on your hands is pretend microbes.
 - **s2 (5 min)**  
   *Parent does:* Try once with bare yellow hands. Look for marks.  
   *Parent says:* First, just pick it up and put it in the box. Now look. Can you see yellow marks?  
@@ -495,12 +495,12 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
   - Note: There will be yellow marks. This shows how easily microbes travel on hands. Wipe the lander and the box clean before the next try. Turmeric can stain cloth and plastic, so use an old cloth.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Your child plans and tries a clean way, checking after each try.  
-  *Parent says:* Now plan a clean way. You can use gloves, tongs or washing. Try it, then check for yellow.  
+  *Parent says:* Now plan a clean way. You can use a plastic bag over your hand, a cloth, tongs or washing. Try it, then check for yellow.  
   *Child mode:* Plan a clean way. Try it. Check for yellow. Try again.
 - **s4 (5 min)**  
   *Parent does:* Talk about why this matters.  
   *Parent says:* Why do space scientists care so much about keeping spacecraft clean?  
-  *Child mode:* Why must spacecraft be so clean?
+  *Child mode:* Think about what a rover might find on Mars.
   - Check: Why are spacecraft to Mars cleaned so carefully? → **So Earth microbes do not travel to Mars, where we might mistake them for Martian life**
 
 ## Worksheets

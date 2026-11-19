@@ -201,7 +201,7 @@ Kavya smiled. That was exactly what engineers do.
 - **Printable score sheet: Score sheet:** Problem card; Fix chosen; Point (1 if it fixes the weak spot)
 - **s1 (2 min)**  
   *Parent does:* Lay out the fix cards and shuffle the problem cards.  
-  *Parent says:* Every problem card is a design that failed a test. Your job is to find the weak spot and fix it.  
+  *Parent says:* Every problem card is a design that failed a test. The weak spot is the part that gave way first. Your job is to find it and fix it.  
   *Child mode:* Each card is a design that failed. Find the weak spot. Pick a fix.
 - **s2 (10 min)**  
   *Parent does:* Take turns: turn over a problem card, name the weak spot and choose a fix.  
@@ -218,9 +218,9 @@ Kavya smiled. That was exactly what engineers do.
 - **Printable cards: 8 purpose cards:** Hold a lemon as high off the table as you can.; Make a bridge between two books that holds a steel tumbler.; Make a shelter that keeps a toy dry when you sprinkle water.; Carry 10 coins across the room with one hand.; Make something that rolls down a slope in a straight line.; Make a scoop that moves 10 dal grains from one bowl to another without using your fingers.; Make a ramp so a ball lands in a bowl.; Hold a book open at one page.
 - **Printable cards: 8 limit cards:** Paper only.; No more than 5 objects.; Steel things only.; One hand only.; Nothing taller than your ruler.; Things from one room only.; No tape.; Only things that are round.
 - **s1 (2 min)**  
-  *Parent does:* Shuffle both piles. Your child draws one of each.  
-  *Parent says:* Every design has a purpose and limits. Let's draw one of each.  
-  *Child mode:* Draw a purpose card. Draw a limit card. Read them.
+  *Parent does:* Shuffle both piles. Your child picks one of each.  
+  *Parent says:* A purpose is what the thing must do. A limit is a rule, like only using paper. Let's pick one of each.  
+  *Child mode:* Pick a purpose card. Pick a limit card. Read them.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Play 3 rounds: build for 3 minutes, test, improve for 1 minute, test again.  
   *Parent says:* Build it! Now test it. What failed? You have one minute to make it better.  
@@ -239,18 +239,18 @@ Kavya smiled. That was exactly what engineers do.
 - **predict:** Guess first. How many coins will your first boat carry before water comes in? Will your third boat carry more, fewer or the same? Why do you think so?
 - **fair test:** Every boat uses one square of foil of the same size, the same kind of coin and the same bucket of water. Coins always go in one at a time, starting from the middle and spreading outwards. Between two boats, change only one thing, so you know what made the difference.
 - **safety:** Fold in the cut edges of the foil, because they can be sharp. Keep coins away from children under 5, who may put them in their mouths.
-- **record:** Fill in the table for each boat. Draw each boat from the side, and mark with an arrow where the water came in first.
+- **record:** Fill in the table for each boat. Draw each boat from the side, or take a photo of it, and mark with an arrow where the water came in first.
 - **results table:** Boat | What I changed | Coins it carried | Where the water came in first
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out one foil square, the coins and the bucket of water. 2. Read out the job and the rules.  
   *Parent says:* Here is your job, the kind a real engineer gets. Build a boat that carries as many coins as possible. The rules: one square of foil per boat, no tape, and coins go in one at a time. How many coins do you think your first boat will carry? Why?  
-  *Child mode:* Your job: make a foil boat that carries lots of coins. Use one square of foil only. No tape. Guess how many coins it will carry. Why do you think so?
-  - Ask: What is the purpose of this boat, and what are the limits? (good: To carry as many coins as possible.; We can only use one square of foil, and no tape.)
+  *Child mode:* Make a foil boat that carries lots of coins. Use one square of foil only. No tape.
+  - Ask: What must the boat do? What are the rules? (good: To carry as many coins as possible.; We can only use one square of foil, and no tape.)
   - Note: Write the guess in the notebook. Any number is fine. Most children guess between 5 and 30.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child draws boat 1 from the side and from above. 2. Label the base and the walls, and write how high the walls will be.  
-  *Parent says:* Engineers draw before they build. Draw your boat. Show how big the base is and how high the walls go.  
-  *Child mode:* Draw your boat first. Show the bottom and the sides. How tall are the sides?
+  *Parent does:* 1. Your child draws boat 1 from the side, or describes it out loud. 2. Say how big the base is and how high the walls will be.  
+  *Parent says:* Engineers plan before they build. Draw your boat, or tell me the plan. Show how big the base is and how high the walls go.  
+  *Child mode:* Draw your boat first, or tell your grown-up your plan. Show the bottom and the sides. How tall are the sides?
 - **s3 (5 min)**  
   *Parent does:* 1. Fold the foil square into boat 1, following the drawing. 2. Pinch the corners tight so there are no holes.  
   *Parent says:* Now build it the way you drew it. Pinch the corners tightly. A hole would let water in.  
@@ -263,9 +263,9 @@ Kavya smiled. That was exactly what engineers do.
   - Ask: Where did the water come in first? Why there? (good: Over the lowest corner.; On the side where the coins were piled.; Through a hole in a fold.)
   - Note: Count the coins up to the last one that went in before water poured in. Dry the coins on the plate. Water often comes in where a wall is lowest, or the boat tips to one side because the coins were not spread evenly.
 - **s5 (5 min)**  
-  *Parent does:* 1. Look at the drawing of boat 1 and the note about where water came in. 2. Choose one change to fix that weak spot. 3. Draw boat 2 with that one change.  
+  *Parent does:* 1. Look at the drawing of boat 1 and the note about where water came in. 2. Choose one change to fix that weak spot. 3. Tell your grown-up the one change you will make for boat 2.  
   *Parent says:* That spot where the water came in is the weak spot. What one change would fix it? Only change one thing, so we know if it helped.  
-  *Child mode:* Where did the water come in? That is the weak spot. Pick one change to fix it. Draw boat 2.
+  *Child mode:* Where did the water come in? That is the weak spot. Pick one change to fix it. Say your change out loud.
   - Ask: Why should we change only one thing? (good: So we know which change made the difference.; If we change two things, we cannot tell which one helped.)
   - Note: Good single changes: make all the walls the same height, make the walls taller, or fold the corners more tightly. With one square of foil, taller walls mean a smaller base, so try it and see which works better. If your child wants to change several things, say they can, but then you won't know which change helped. Let them choose.
 - **s6 (6 min)**  
@@ -291,7 +291,7 @@ Kavya smiled. That was exactly what engineers do.
 - **schedule:** day 1: Make the pastes and join 8 pairs of strips. Label them. Leave them flat to dry overnight. (15 min); day 2: Pull each joint apart slowly. Write what happened and where it broke. (15 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Show the four ways of joining. 2. Ask for a guess and a reason.  
-  *Parent says:* Engineers choose materials for joints too. A joint is often the weak spot. Which of these will hold paper best? Why?  
+  *Parent says:* Engineers choose materials for joints too. A joint is where two pieces are joined, and it is often the weak spot. Which of these will hold paper best? Why?  
   *Child mode:* Look at rice paste, atta paste, tape and water. Which will hold paper best? Why?
   - Ask: Why test plain water too? (good: To see what happens with no paste.; So we know the paste is doing the work.)
 - **s2 (9 min)**  
@@ -313,12 +313,12 @@ Kavya smiled. That was exactly what engineers do.
 - **s5 (5 min)**  
   *Parent does:* Your child says which joint they think is strongest, what they saw in the test, and why.  
   *Parent says:* Which joint was strongest? If the paper tore and the joint held, what does that tell us?  
-  *Child mode:* Which joint held best? If the paper tore, what was the weak spot then?
+  *Child mode:* Which joint held best? Tell your grown-up what you saw.
   - Check: In the paste test, a rice paste joint held, but the paper tore just beside it. Where was the weak spot? → **The paper**
 
 ## Activities
 ### a1 · What Is It For? A kitchen design hunt (10 min)
-- **record:** Draw one object and write its purpose and one clever part of its design.
+- **record:** Write one object's purpose and one clever part of its design. Draw it if you like.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the four objects on the table. 2. For each one, ask: what is it for?  
   *Parent says:* Someone designed each of these. What is each one for?  
@@ -337,13 +337,13 @@ Kavya smiled. That was exactly what engineers do.
   - Think: A baby drinks from a tumbler. What one change would make it better for a baby?
 ### a2 · Take Apart a Pen (15 min)
 - **safety:** Keep the small parts away from babies and small children.
-- **record:** Draw each part in a row and write its job under it.
+- **record:** Write each part's job on a small paper label and put it under the part. Take a photo of the row.
 - **s1 (5 min)**  
   *Parent does:* 1. Unscrew the click pen. 2. Lay every part in a row on the paper.  
   *Parent says:* Let's take it apart carefully and lay the parts in order. How many parts are there?  
   *Child mode:* Unscrew the pen. Lay the parts in a row. Count them.
 - **s2 (6 min)**  
-  *Parent does:* 1. Pick up each part. 2. Ask what it does. 3. Write its job. 4. Look at the cap of the second pen.  
+  *Parent does:* 1. Pick up each part. 2. Ask what it does. 3. Write its job. 4. Look at the tip of the capped pen too. Does it have the same tiny ball?  
   *Parent says:* What does the spring do? What would happen without it? What does the tiny ball at the tip do?  
   *Child mode:* Hold up the spring. What does it do? Look at the tip. What does the tiny ball do?
   - Note: The spring pushes the refill back in after you click. The tiny ball at the tip rolls as you write, spreading ink. Many pen caps have a small hole at the top. One reason is safety: if a child swallows a cap, air can still get through.
@@ -360,9 +360,9 @@ Kavya smiled. That was exactly what engineers do.
   *Parent says:* These all carry water. Walk with each one. Which spills most? Which is easiest to hold?  
   *Child mode:* Carry each one across the room. Which spills? Which is easy to hold?
 - **s2 (6 min)**  
-  *Parent does:* 1. Picture a woman carrying a clay matka on her head. Picture a man with a pole across his shoulders and a pot at each end. 2. Your child draws each one in the notebook. 3. Ask why people chose each design.  
+  *Parent does:* 1. Tell your child about a woman who carries a clay matka on her head. Tell about a man with a pole across his shoulders and a pot at each end. 2. Your child balances the empty pot on their head, with one hand on it. 3. Ask why people chose each design.  
   *Parent says:* Why does a kudam have a narrow neck? Why might someone carry a pot on their head?  
-  *Child mode:* Why does a kudam have a narrow neck? Why carry a pot on your head?
+  *Child mode:* Balance the empty pot on your head. How does it feel? Why would people carry water this way?
   - Note: A narrow neck spills less when the pot sways. Carrying a pot on the head keeps the weight over the middle of the body. Women in Rajasthan and Gujarat carry stacks of pots this way. A pole across the shoulders balances a pot at each end.
 - **s3 (4 min)**  
   *Parent does:* Your child picks the best design for one job: carrying water up stairs to a flat on the fourth floor.  
@@ -371,7 +371,7 @@ Kavya smiled. That was exactly what engineers do.
   - Note: There is a best design for each job. A narrow-necked kudam spills little, a bucket holds a lot, and a bottle is easy to carry up stairs. The unit says no material or design is best for everything.
   - Think: Is there one best design for carrying water, or only a best design for each job?
 ### a4 · Spread the Load: where should the coins go? (15 min)
-- **record:** Write the two numbers and draw where the coins sat in each boat.
+- **record:** Write the two numbers. Say where the coins sat in each boat, or draw it.
 - **s1 (6 min)**  
   *Parent does:* 1. Float boat A. 2. Pile coins at one end only, one at a time. 3. Count until water comes in.  
   *Parent says:* Let's pile all the coins at one end. What do you think will happen?  
@@ -382,8 +382,8 @@ Kavya smiled. That was exactly what engineers do.
   *Child mode:* Now spread the coins all over the bottom. Count again.
 - **s3 (3 min)**  
   *Parent does:* Compare the two numbers.  
-  *Parent says:* Which boat carried more? Why did piling them at one end make the boat sink sooner?  
-  *Child mode:* Which carried more coins? Why?
+  *Parent says:* Which boat carried more? Look at the two numbers.  
+  *Child mode:* Which carried more coins? Say the two numbers.
   - Note: If boat A carries as many coins as boat B, check that the coins really sat at one end, and that both boats are folded the same way.
   - Check: Why does a foil boat with all the coins piled at one end usually sink sooner? → **That end goes down, and water spills in over its edge**
 
@@ -399,9 +399,9 @@ Kavya smiled. That was exactly what engineers do.
   - Ask: Why should the water be shallow? (good: So a small bird can stand in the water.; So a small bird does not fall in and drown.)
   - Note: Bird groups advise a shallow bowl, only a few centimetres deep, with a rough or pebbly bottom for grip. It should be in the shade so the water stays cool, and cleaned and refilled every day.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* 1. Draw the design. 2. Label how deep the water is, what birds stand on and where the bowl will sit.  
-  *Parent says:* Draw your bowl. Show where the birds will stand and how deep the water will be.  
-  *Child mode:* Draw your bowl. Show how deep the water is. Show where birds stand.
+  *Parent does:* 1. Draw the design, or tell your grown-up the plan. 2. Say how deep the water is, what birds stand on and where the bowl will sit.  
+  *Parent says:* Draw your bowl, or describe it. Show where the birds will stand and how deep the water will be.  
+  *Child mode:* Draw or describe your bowl. Say how deep the water is. Say where birds stand.
   - Note: If you cut a plastic bottle, do it yourself and sand or tape the cut edge.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Build the bowl. 2. Put pebbles or an upturned small bowl in it, so birds can stand. 3. Place it in shade on the balcony or ledge where it cannot fall. 4. Fill with water.  
@@ -422,14 +422,14 @@ Kavya smiled. That was exactly what engineers do.
 ## Challenges
 ### c1 · The Phone Stand from One Card (30 min)
 - **problem:** Design a stand that holds a phone upright at a slant, so you can watch a video on a table without holding it.
-- **your turn:** Now invent your own phone stand. Draw it, build it, and test it for one minute. Then make it better.
+- **your turn:** Now invent your own phone stand. Plan it with a sketch or just words, build it, and test it for one minute. Then make it better.
 - **constraints:** Use one piece of card, about as big as a notebook page, cut from a cereal or medicine box.; No tape or glue. You may cut and fold.; It must hold the phone for one whole minute without slipping.
 - **general:** Fold the card into a triangle tube and slot the ends together.; Fold a zigzag that leans back, with a lip folded up at the bottom to stop the phone sliding.; Cut two slots and slide two flat pieces together into a cross-shaped stand.
 - **creative:** Fold a small ledge with a slot for the charging cable.; Make the slant adjustable with two or three fold lines.; Design a stand that folds flat to fit in a school bag.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem and the limits together. Your child draws two ideas.  
-  *Parent says:* Our job is to make a stand that holds a phone up for a minute. We can use one piece of card and no tape. Draw two ideas.  
-  *Child mode:* Make a stand for a phone. One card. No tape. Draw two ideas.
+  *Parent does:* Read the problem and the limits together. Your child sketches two ideas, or just says them.  
+  *Parent says:* Our job is to make a stand that holds a phone up for a minute. We can use one piece of card and no tape. What are two ideas? Sketch them or say them.  
+  *Child mode:* Make a stand for a phone. One card. No tape. Think of two ideas. Sketch them or say them.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Build the best idea. 2. Test it with a book the size of a phone first, then the phone. 3. Time one minute.  
   *Parent says:* Test it with a small book first. If it falls, the phone stays safe. Does it hold for a minute?  
@@ -455,9 +455,9 @@ Kavya smiled. That was exactly what engineers do.
   *Child mode:* Watch the ants. Where do they go? What are they looking for?
   - Note: Ants leave a scent trail for other ants to follow to food. That is why one ant soon becomes many. If no ants come today, try near the kitchen sink, or try again another day.
 - **s2 (5 min)**  
-  *Parent does:* Your child draws two designs that keep the ants out without hurting them.  
-  *Parent says:* We want the ants to stay safe, and the sugar too. Draw two ideas.  
-  *Child mode:* Draw two ways to keep ants out. Don't hurt the ants.
+  *Parent does:* Your child says two ways to keep the ants out without hurting them. The lid, cling film, jar and water can give ideas.  
+  *Parent says:* We want the ants to stay safe, and the sugar too. What are two ideas?  
+  *Child mode:* Think of two ways to keep ants out. Tell them to your grown-up. Don't hurt the ants.
 - **s3 (12 min)**  
   *Parent does:* 1. Build the best design in about 8 minutes. 2. Leave it for one hour near the ants. 3. Look at it after 15, 30, 45 and 60 minutes. Each look takes about a minute.  
   *Parent says:* Let's test it. We'll look every 15 minutes. Did any ant get in?  

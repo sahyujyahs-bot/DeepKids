@@ -442,7 +442,7 @@
      "mins": 3,
      "do": "Play the boiled sweet card together as a practice round, then shuffle it back into the pile.",
      "say": "Let us try one card together first. Here is a clear boiled sweet. It is made of sugar. Is it a crystal? Turn the card over to check.",
-     "kid": "Try one card first. Here is a clear boiled sweet, made of sugar. Is it a crystal or not? Turn the card over to check."
+     "kid": "Practise with one card. Decide, then turn it over to check."
     },
     {
      "id": "s3",
@@ -563,7 +563,7 @@
      "context": "This is the start of Fast or Slow?, a dice game about how crystals start and grow.",
      "do": "Give each player two grids and a pencil, and read the rule card aloud.",
      "say": "Each coloured square is a bit of salt joining a crystal. In the fast round, new crystals start often. In the slow round, they rarely start.",
-     "kid": "Each square is salt joining a crystal. In the fast round, new crystals start often. In the slow round, they start rarely."
+     "kid": "Read the rule card with your grown-up. Take your two grids and a pencil."
     },
     {
      "id": "s2",
@@ -595,7 +595,7 @@
      "mins": 2,
      "do": "Link the game to the Fast Plate or Slow Glass experiment.",
      "say": "In the Fast Plate or Slow Glass experiment, the plate dried fast and the glass dried slowly. Which round was like the plate? Which was like the glass?",
-     "kid": "In the Fast Plate or Slow Glass experiment, the plate dried fast and the glass slowly. Which round was like the plate? Which was like the glass?",
+     "kid": "Match each round to the plate or the glass.",
      "think": "Both rounds used the same amount of salt: 12 squares. How was it shared out differently in each round?"
     }
    ]
@@ -607,7 +607,7 @@
    "title": "Fast Plate or Slow Glass: which grows bigger salt crystals?",
    "mins": 42,
    "days": 7,
-   "context": "In this experiment you make very salty water. You dry the same amount fast on a plate and slowly in a glass. Then you compare the salt crystals.",
+   "context": "You will find out if salt crystals grow bigger when the water dries slowly. You make very salty water and dry the same amount fast on a plate and slowly in a glass. Then you compare the crystals.",
    "question": "Does the speed of drying change the size of salt crystals? Does it change their shape?",
    "predict": "Guess first. The plate will dry within a day or two. The glass will take about a week. Which will grow bigger crystals? Will the crystals be the same shape or different? Why do you think so?",
    "fair_test": "Both use the same salt water, poured from the same tumbler, 2 big spoons each. Both sit side by side on the same shelf. The only difference is the dish: a wide plate spreads the water thin, so it dries fast, and a small glass keeps it deep, so it dries slowly. If you can, use a glass or ceramic plate, so both dishes are made of the same kind of material.",
@@ -668,7 +668,7 @@
     {
      "day": 4,
      "mins": 5,
-     "what": "Look at the glass. Draw what you see. Measure the biggest crystal."
+     "what": "Look at the glass. Count the crystals. Measure the biggest crystal."
     },
     {
      "day": 7,
@@ -676,7 +676,7 @@
      "what": "The glass should be dry or nearly dry. Measure its biggest crystal. Compare the two. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table each time you look. Draw the biggest crystal from the plate and the biggest from the glass, side by side, as big as you can.",
+   "record": "Fill in the table each time you look. Draw the biggest crystal from the plate and the biggest from the glass, side by side, as big as you can. Or take a photo of each.",
    "setup": [
     {
      "art": "A child stirring salt into a steel tumbler of water, with a little salt left at the bottom that will not dissolve.",
@@ -702,7 +702,7 @@
      "context": "This is the start of the Fast Plate or Slow Glass experiment. You will dry salt water in two ways and compare the crystals.",
      "do": "Put a pinch of salt on a dark plate. Look at it with the phone camera zoomed in.",
      "say": "These are salt crystals. Look at their sides. Are they round or flat? We are going to grow new crystals from salt water.",
-     "kid": "Look at salt with the phone zoomed in. Are the sides round or flat? Now we will grow new crystals."
+     "kid": "Zoom in on the salt. Point to one flat side."
     },
     {
      "id": "s2",
@@ -742,7 +742,7 @@
      "mins": 4,
      "do": "Ask your child to predict, and to give a reason. Write it down.",
      "say": "Which dish will grow bigger crystals, the fast plate or the slow glass? Will the crystals be the same shape? Why do you think so?",
-     "kid": "Which will grow bigger crystals, fast or slow? Same shape or not? Why?",
+     "kid": "Guess which dish will grow bigger crystals. Then say why.",
      "ask": [
       {
        "q": "What do you think will happen, and why?",
@@ -768,16 +768,16 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. Look at the glass from the side and from the top. 2. Draw what you see. 3. Measure the biggest crystal you can see.",
+     "do": "1. Look at the glass from the side and from the top. 2. Count the crystals you can see. 3. Measure the biggest crystal you can see.",
      "say": "How many crystals are in the glass? How big is the biggest one now?",
-     "kid": "Look at the glass from the side. Draw the crystals. Measure the biggest one.",
+     "kid": "Look at the glass from the side. Count the crystals. Measure the biggest one.",
      "parent": "Salt often climbs up the inside of the glass as a white crust. That is salt water creeping up and drying. Some crystals may float on top as hollow square shapes, like little steps. These are cubes too, growing faster at their edges.",
      "wait": "Look again on day 7"
     },
     {
      "id": "s8",
      "mins": 5,
-     "do": "1. When the glass is dry or nearly dry, tip out any water left. 2. Put its biggest crystal next to the plate. 3. Measure it. 4. Zoom in on both.",
+     "do": "1. When the glass is dry or nearly dry, tip out any water left. 2. Put its biggest crystal next to the crystals on the plate. 3. Measure it. 4. Zoom in on both.",
      "say": "Put the biggest crystal from the glass next to the crystals on the plate. Which is bigger? Look at their shapes.",
      "kid": "Put the big glass crystal next to the plate grains. Which is bigger? Are the shapes the same?",
      "check": {
@@ -849,7 +849,7 @@
    "title": "Salt, Sugar or Phitkari: does each grow its own shape?",
    "mins": 30,
    "days": 2,
-   "context": "In this experiment you grow phitkari crystals overnight. Then you compare their shape with salt and sugar crystals, to see if each substance has its own shape.",
+   "context": "You will find out if each substance grows its own crystal shape. You grow phitkari crystals overnight. Then you compare them with salt and sugar crystals.",
    "question": "Do all crystals have the same shape, or does each substance grow its own?",
    "predict": "Guess first. Salt makes cubes. Will phitkari crystals be cubes too? Will sugar grains be cubes? Why do you think so?",
    "fair_test": "Look at all three the same way: on the same dark plate, with the same phone camera zoomed in, in the same light. Look at single crystals, not lumps stuck together.",
@@ -900,10 +900,10 @@
     {
      "day": 2,
      "mins": 20,
-     "what": "Take out the phitkari crystals. Compare them with salt and sugar under the phone camera. Draw one of each."
+     "what": "Take out the phitkari crystals. Compare them with salt and sugar under the phone camera. Count the faces on one of each."
     }
    ],
-   "record": "Draw one crystal of salt, one of sugar and one of phitkari, as big as you can. Count the faces you can see on each.",
+   "record": "Draw one crystal of salt, one of sugar and one of phitkari, as big as you can, or take a photo of each. Count the faces you can see on each.",
    "setup": [
     {
      "art": "A grown-up pouring hot water from a kettle onto white phitkari powder in a small glass, a child watching from a safe distance.",
@@ -925,7 +925,7 @@
      "context": "This is the start of the Salt, Sugar or Phitkari experiment. You will grow phitkari crystals and compare three kinds of crystal.",
      "do": "Show your child the phitkari. If it is a lump, crush it to a powder in a mortar or with a spoon in a tumbler.",
      "say": "This is phitkari. It is a crystal too. Salt makes cubes. What shape do you think phitkari will make? Why?",
-     "kid": "This is phitkari. Salt makes cubes. What shape will phitkari make? Why?",
+     "kid": "Look at the phitkari. Salt makes cubes. Make a guess about phitkari.",
      "adult": true,
      "ask": [
       {
@@ -954,15 +954,15 @@
      "mins": 5,
      "do": "1. Look at the glass from the side. 2. Pour the water away down the sink. 3. Tip the crystals onto the dark plate.",
      "say": "Look at the bottom of the glass. What has grown? Tip them out gently.",
-     "kid": "What grew in the glass overnight? Tip the crystals onto the dark plate.",
+     "kid": "Look at the bottom of the glass. Tip the crystals gently onto the dark plate.",
      "parent": "You should see clear crystals, often 2 to 5 millimetres across and some bigger. Good ones look like two pyramids joined at their base, with triangle faces. Ones that grew on the bottom are often flat on one side, like a pyramid cut in half. If you see only a thin white film or fine powder, look closely with the phone: the crystals may be tiny. Overnight growth is not certain, so if little has formed, leave the glass one more night."
     },
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. Put a few salt crystals, a few sugar grains and the phitkari crystals in three small heaps on the plate. 2. Zoom in on single crystals of each. 3. Draw one of each and count its faces.",
+     "do": "1. Put a few salt crystals, a few sugar grains and the phitkari crystals in three small heaps on the plate. 2. Zoom in on single crystals of each. 3. Pick one crystal of each and count its flat faces.",
      "say": "Look at one salt crystal, one sugar grain and one phitkari crystal. What shape are the faces on each? Are they the same?",
-     "kid": "Zoom in on salt, sugar and phitkari. Draw one of each. What shape are the faces?",
+     "kid": "Zoom in on salt, sugar and phitkari. Count the flat faces on one of each. What shape are they?",
      "check": {
       "t": "mcq",
       "q": "You looked at salt, sugar and phitkari crystals. What did you find?",
@@ -994,7 +994,7 @@
    "title": "Crack a Crystal: do the pieces keep the shape?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you press a big salt crystal until it cracks. Then you look at the pieces to see if they have flat sides.",
+   "context": "You will find out if the pieces of a cracked salt crystal still have flat sides. You press a big salt crystal until it cracks. Then you look at the pieces.",
    "materials": [
     {
      "item": "3 or 4 big grains of kal uppu (crystal salt), or a small lump of rock salt (sendha namak)",
@@ -1018,7 +1018,7 @@
      "what": "Look at a big salt crystal. Press it with a spoon until it cracks. Look at the pieces."
     }
    ],
-   "record": "Draw the crystal before you cracked it, and two of its pieces after.",
+   "record": "Take a photo of the crystal before you crack it, and a photo of two of its pieces after. Or draw them.",
    "setup": [
     {
      "art": "A big grain of kal uppu on a steel plate, with a child's finger pointing at one flat shiny face.",
@@ -1039,8 +1039,8 @@
      "mins": 3,
      "context": "This is the start of Crack a Crystal. You look closely at a big salt crystal before you crack it.",
      "do": "Put one big grain of kal uppu on the plate. Turn it in the light from a window.",
-     "say": "Turn this salt crystal in the light. What do you notice about its sides and corners?",
-     "kid": "Turn the salt crystal in the light. What do you notice about its sides and corners?",
+     "say": "This is a salt crystal. Turn it slowly in the light. What do you notice about its sides and corners?",
+     "kid": "Turn the crystal slowly. Point to a flat side and to a corner.",
      "ask": [
       {
        "q": "What do you notice about its sides and corners?",
@@ -1058,7 +1058,7 @@
      "mins": 2,
      "do": "Ask for a guess before cracking.",
      "say": "If we crack it, will the pieces be round, jagged, or flat-sided? Why do you think so?",
-     "kid": "If you crack it, what shape will the pieces be? Why?",
+     "kid": "Guess what the pieces will look like before you crack it.",
      "ask": [
       {
        "q": "What shape will the pieces be, and why?",
@@ -1120,7 +1120,7 @@
      "what": "Pack coins as tightly as you can. Look at the pattern and the edges. Then drop the coins in a jumble and compare."
     }
    ],
-   "record": "Draw the tightly packed coins, and the jumble, side by side.",
+   "record": "Take a photo of the tightly packed coins, and a photo of the jumble, side by side.",
    "setup": [
     {
      "art": "One-rupee coins packed tightly on a plate, each coin touching six others, making a neat honeycomb pattern with straight edges.",
@@ -1188,7 +1188,7 @@
    "title": "The Freezer Frost Hunt (if your fridge has frost)",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look closely at the frost inside a freezer. Frost is made of ice crystals that grow from water in the air.",
+   "context": "You will find out what shapes frost makes. In this activity you look closely at the frost inside a freezer. Frost is made of ice crystals that grow from water in the air.",
    "materials": [
     {
      "item": "a freezer with some frost on its walls or on an ice tray",
@@ -1212,7 +1212,7 @@
      "what": "Scrape a little frost onto a cold dark spoon. Zoom in quickly before it melts."
     }
    ],
-   "record": "Draw the shapes you see in the frost.",
+   "record": "Take a photo of the frost through the lens, or draw the shapes you see.",
    "setup": [
     {
      "art": "An open freezer with white feathery frost on its inner wall, and a hand holding a dark steel spoon.",
@@ -1236,7 +1236,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Talk about how frost is like a snowflake.",
+     "do": "Tell your child that snowflakes are ice crystals too. Then look at the frost again.",
      "say": "Snowflakes form high up in cold clouds, the same way. Their ice crystals are six-sided, so many snowflakes have six arms.",
      "kid": "Snowflakes are ice crystals too. Many grow six arms in cold clouds.",
      "think": "Frost grew without any liquid water. Where did its water come from?"
@@ -1294,7 +1294,7 @@
      "mins": 7,
      "do": "Sort the solids into two groups, and give a clue for each.",
      "say": "The boiled sweet is made of sugar, like kalkandu. Why is one a crystal and the other not?",
-     "kid": "Sort them: crystal or not. The boiled sweet is sugar too. Why is it not a crystal?",
+     "kid": "Sort the solids into two heaps: crystal and not crystal. Say your clue for each heap.",
      "check": {
       "t": "mcq",
       "q": "A clear boiled sweet and a piece of kalkandu are both made of sugar. Why is only the kalkandu a crystal?",
@@ -1353,7 +1353,7 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Look at the thread without lifting it. Draw what you see."
+     "what": "Look at the thread without lifting it. Take a photo of what you see."
     },
     {
      "day": 5,
@@ -1371,7 +1371,7 @@
      "what": "Lift out the thread. Let it dry. Look at the crystals zoomed in, and compare them with shop kalkandu."
     }
    ],
-   "record": "Draw the thread on days 3, 5, 7 and 10. Write the size of the biggest crystal each time.",
+   "record": "Take a photo of the thread on days 3, 5, 7 and 10, or draw it. Write the size of the biggest crystal each time.",
    "setup": [
     {
      "art": "A cotton thread tied to a pencil, being rolled in a saucer of sugar to coat it.",
@@ -1412,9 +1412,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "On days 3, 5 and 7, look at the thread through the glass without lifting it. Draw it, and measure the biggest crystal.",
+     "do": "On days 3, 5 and 7, look at the thread through the glass without lifting it. Take a photo of it, and measure the biggest crystal.",
      "say": "Don't move the jar. What is growing on the thread? Is it growing faster or slower than the salt in the slow glass of the Fast Plate or Slow Glass experiment?",
-     "kid": "Look, but don't move the jar. Draw the thread. How big is the biggest crystal?",
+     "kid": "Look, but don't move the jar. Take a photo of the thread. How big is the biggest crystal?",
      "parent": "Crystals usually show by day 3 and keep growing for a week or more. If a hard crust forms on top, break it gently so the water can keep evaporating. If nothing has grown by day 4, the syrup was not strong enough. A grown-up can pour it back into the pan, add half a cup more sugar, heat it until dissolved, cool it, and try again."
     },
     {
@@ -1469,7 +1469,7 @@
     "Try two glasses, one covered and one open, and see which grows the bigger crystal.",
     "Put the glass inside a closed cardboard box to keep away dust and wind."
    ],
-   "your_turn": "Now design your own way. Draw it, try it for two weeks, and measure your crystal every few days.",
+   "your_turn": "Now design your own way. Tell your plan to your grown-up, or draw it. Try it for two weeks, and measure your crystal every few days.",
    "setup": [
     {
      "art": "A small salt cube being placed with a spoon at the bottom of a glass of clear salt water.",
@@ -1487,7 +1487,7 @@
      "context": "This is the start of the Grow the Biggest Salt Crystal challenge.",
      "do": "Read the problem aloud. Look at the crystals from your slow glass.",
      "say": "Drying salt water on a plate gave only tiny grains. What did the Fast Plate or Slow Glass experiment show about growing big crystals?",
-     "kid": "The problem asks for one big salt crystal. What did the Fast Plate or Slow Glass experiment show about big crystals?"
+     "kid": "Read the problem. Look at the crystals from your slow glass."
     },
     {
      "id": "s2",
@@ -1532,7 +1532,7 @@
     "Put a pinch of each near an ant trail. Ants go to sugar.",
     "Grow crystals from each. Salt water dried slowly grows cubes. Sugar water dries to a sticky patch."
    ],
-   "your_turn": "Now invent your own test. Draw it, try it, and explain why it works.",
+   "your_turn": "Now invent your own test. Tell your plan, try it, and explain why it works.",
    "setup": [
     {
      "art": "Two steel dabbas of white grains with no labels, and a pinch from each on a dark plate.",
@@ -1555,9 +1555,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Zoom in on single grains of each. 2. If you want a second test, a grown-up warms a pinch of each in a spoon.",
-     "say": "Which heap is made of cubes? So which is the salt?",
-     "kid": "Zoom in. Which grains are cubes? That one is salt.",
+     "do": "1. Zoom in on single grains of each. 2. If you want a second test, a grown-up warms a pinch of each in a steel spoon over a low flame. Sugar melts and turns brown. Salt does not.",
+     "say": "Which heap is made of cubes? Do you think that heap is salt or sugar?",
+     "kid": "Zoom in on single grains of each. Which grains are cubes?",
      "adult": true,
      "parent": "Table salt grains are small, so use good light and zoom in close. Only the heating test needs a grown-up. Use a low flame and a steel spoon, and let the spoon cool before anyone touches it."
     },

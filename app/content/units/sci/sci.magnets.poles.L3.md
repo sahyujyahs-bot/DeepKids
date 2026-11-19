@@ -200,7 +200,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **s3 (3 min)**  
   *Parent does:* When everyone is in one chain, stand still and ask where the chain's north and south poles are.  
   *Parent says:* Our whole chain is now one long magnet. Where is its north pole? Where is its south pole?  
-  *Child mode:* You are one long magnet now. Where is its north? Where is its south?
+  *Child mode:* You are one long magnet now. Point to its north end and its south end.
   - Check: Five players join front to back. The chain has a north pole at the front. What is at the very back? → **A south pole**
 ### g2 · Pole Dominoes (15 min)
 - **rules:** Shuffle the cards and give each player 5. Put the rest face down as a pile. Turn over cards from the pile until you get a pole card, and lay it in the middle. Shuffle any Iron cards you turned over back into the pile.; On your turn, add one card at either end of the chain. The half of your card that touches the chain must be unlike the end it touches: N next to S, or S next to N. You may turn the card round to make it fit. Say the rule out loud: unlike poles attract.; If you cannot play, take one card from the pile. Play it at once if it fits. If it does not fit, your turn ends. If the pile is empty, you pass.; An Iron card has no poles and is attracted by both, so you can put it on any end. But it has no pole for the next card to meet, so that end of the chain is closed.; The first player with no cards left wins. If nobody can play and the pile is empty, the player with the fewest cards wins.; Playing alone: deal yourself 5 cards and play as above. Count the cards in your chain when you are stuck and the pile is empty. Try to beat your score.
@@ -216,8 +216,8 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   - Note: If a player is stuck, ask: which pole is at each end of the chain? Which half of your card would touch it? Cards with two matching ends, N | N or S | S, fit only one kind of end. N | S fits both.
 - **s3 (2 min)**  
   *Parent does:* End by asking about the Iron card.  
-  *Parent says:* The Iron card joins any pole, but nothing can join after it. Why does it join, and why does the end close?  
-  *Child mode:* Why does the Iron card join any pole?
+  *Parent says:* The Iron card joins any pole, but nothing can join after it.  
+  *Child mode:* Think about why the Iron card fits at either end.
   - Check: Why can the Iron card join a north pole or a south pole? → **Iron is attracted by both poles**
 
 ## Experiments
@@ -226,39 +226,39 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **predict:** Guess first. Float two magnets with their north poles facing each other, and let go. Will they stay apart, drift away, or end up stuck together? Why do you think so?
 - **fair test:** Use the same two magnets, the same lids and the same tub every time. In the gap test, start each try 15 cm away and move in at the same slow speed. In the let-go test, start each try with the magnets 10 cm apart, and let go gently without pushing. Only change which poles face each other. Do each pairing 3 times, because one try can be a fluke. Switch off the fan, because moving air pushes the lids.
 - **safety:** Keep magnets away from phones, bank cards and small children, who may swallow them.
-- **record:** Fill in the table for each try. Leave the gap column blank for S to S, because you do not do the gap test for S to S, only the let-go test. Then draw what the two boats did after you let go, in three pictures.
+- **record:** Fill in the table for each try. Leave the gap column blank for S to S, because you do not do the gap test for S to S, only the let-go test. Then show what the two boats did after you let go: draw three pictures, take three photos, or tell it to your grown-up.
 - **results table:** Poles facing | Try | Gap when the boat first moved (cm) | What happened after you let go
 - **s1 (5 min)**  
   *Parent does:* 1. Switch off the fan. 2. Fill the tub with water nearly to the top. 3. Lay one magnet in the middle of a lid. 4. Float the lid in the middle of the tub. 5. Wait about a minute until it stops turning.  
   *Parent says:* A magnet that can turn freely settles pointing north and south. Let's see which end turns north.  
-  *Child mode:* Switch off the fan. Put a magnet on a lid. Float the lid in the middle. Wait. Watch it turn.
+  *Child mode:* Watch the lid turn. Where does it stop?
   - Note: Keep the tub a metre from the fridge, the gas cylinder and steel almirahs, because iron nearby can turn the magnet. A full tub stops the lid from hitting the sides. The turning is slow. If the lid drifts to the edge, nudge it back with a pencil.
 - **s2 (4 min)**  
-  *Parent does:* 1. Check north with the phone compass, held at arm's length from the magnet. 2. Label the end pointing north 'N' and the other end 'S'. 3. Label the second magnet by holding its ends near the floating magnet's N end. The end that is pushed away is N.  
+  *Parent does:* 1. Check north with the phone compass, held at arm's length from the magnet. 2. Label the end pointing north 'N' and the other end 'S'. 3. Label the second magnet: hold its ends near the floating magnet's N end. Mark the end that is pushed away N, and the other end S.  
   *Parent says:* The end pointing north is the north pole. Now let's use it to find the north pole of the other magnet.  
-  *Child mode:* Which end points north? Write N on it. The other end is S. Now label the second magnet too.
+  *Child mode:* Write N on the end that points north, and S on the other end. Then label the second magnet.
   - Ask: How can you tell which end of the second magnet is north? (good: The end that pushes the floating N end away is north.; North repels north.)
   - Note: A phone held right next to a magnet gives a wrong reading, so keep it an arm's length away. If your magnets are already marked, check that the marks are right.
 - **s3 (8 min)**  
   *Parent does:* 1. Let the floating magnet settle. 2. Hold the second magnet's S end 15 cm from the floating N end. 3. Move it closer slowly, about 1 cm every 2 seconds. Hold a ruler just above the water, beside the two magnets. 4. Stop when the boat first moves, and read the gap between the two ends. 5. Do it 3 times, then repeat with N facing N.  
   *Parent says:* Let's find out how close a magnet must come before the boat feels its force. First south to north, then north to north.  
-  *Child mode:* Hold the S end far away. Move it closer, very slowly. Stop when the boat moves. Read the gap on the ruler. Write it down.
+  *Child mode:* Move your magnet closer, very slowly. Stop the moment the boat moves. Read the gap on the ruler.
   - Note: Water lets the boat move with very little force, so it often moves at 5 to 10 cm with school bar magnets. Your numbers will be different. With N facing N, the boat often turns as well as moving away. Write down what you see.
 - **s4 (3 min)**  
   *Parent does:* Before the let-go test, ask your child for a guess and a reason. Write it down.  
-  *Parent says:* Now we float both magnets, north facing north, 10 cm apart, and let go. What do you think will happen? Why do you think so?  
-  *Child mode:* Both magnets will float, north facing north. What will happen when you let go? Why?
+  *Parent says:* Next we float both magnets, north facing north, 10 cm apart, and let go.  
+  *Child mode:* Make your guess before you see it.
   - Ask: What do you think the boats will do, and why? (good: Push apart, because like poles repel.; Any guess with a reason is good. The test will tell us.)
 - **s5 (8 min)**  
   *Parent does:* 1. Put the second magnet on the other lid. 2. Hold both lids still, 10 cm apart, north ends facing. 3. Let go gently at the same time. 4. Watch for 1 minute. 5. Do it 3 times, then 3 times with S facing S.  
-  *Parent says:* Let go gently, without pushing. Just watch. What does each boat do first? And then?  
-  *Child mode:* Hold both boats. North faces north. Let go gently. Watch for one minute. What happens first? What happens next?
+  *Parent says:* Let go gently, without pushing. Just watch.  
+  *Child mode:* Hold both boats still, north facing north. Let go gently and watch for one minute.
   - Note: The lids usually push apart, turn, and then drift back together and bump. Sometimes they end up side by side, pointing opposite ways. That is also north facing south. If the boats drift apart and stop, gently nudge one a little closer.
   - Check: Two magnet boats start with their north poles facing. What usually happens after you let go? → **They push apart, one turns round, and they stick together**
 - **s6 (7 min)**  
-  *Parent does:* 1. Look at the table together. 2. Ask your child what the boats did, what they saw, and why they think it happened. 3. Then explain the rule.  
-  *Parent says:* What did the boats do every time? What did you see? Why do you think it happened?  
-  *Child mode:* Say what you found. Say what you saw. Say why you think it happened.
+  *Parent does:* 1. Look at the table together. 2. Ask your child what the boats did each time. 3. Then ask the question below, and explain the rule.  
+  *Parent says:* Look at the table. What did the boats do every time?  
+  *Child mode:* Look at the table. Tell your grown-up what the boats did each time.
   - Ask: Why did the boats end up together, even when they started north facing north? (good: The magnet turned round until south faced north, and unlike poles attract.; Repelling pushes and twists the magnet, so it turns.)
   - Think: The boats pushed apart only for a moment. What does that tell you about magnets that are free to turn?
 ### e2 · The Bumpy Slide: how many poles does a fridge magnet have? (20 min)
@@ -267,12 +267,12 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **predict:** Guess first. Press two bendy fridge magnets face to face and slide one along. Will it slide smoothly, or will you feel bumps? Why do you think so?
 - **fair test:** Slide the same two magnets across the same distance, 5 cm, at the same slow speed, with their edges lined up. Only change the direction: along the length, then across the width. Count the bumps 3 times each way.
 - **safety:** A grown-up does the cutting with the scissors.
-- **record:** Fill in the table. Draw the back of a fridge magnet with the stripes you think are there.
+- **record:** Fill in the table. Draw the magnetic side of a fridge magnet with the stripes you think are there, or tell your grown-up how many stripes you think fit in 5 cm.
 - **results table:** Direction of the slide | Bumps in 5 cm, try 1 | Try 2 | Try 3
 - **s1 (4 min)**  
   *Parent does:* 1. Put one magnet magnetic side up on the table. 2. Lay the other on top, magnetic side down.  
   *Parent says:* The magnetic side of each magnet is the side that holds to the fridge. Let's put the two magnetic sides together.  
-  *Child mode:* Put one magnet flat, magnetic side up. Lay the other on top, magnetic side down.
+  *Child mode:* Lay the two magnets flat, with the two magnetic sides touching.
   - Note: The magnetic side is the plain brown or black side, without the picture. If the two will not stay together, one is upside down.
 - **s2 (6 min)**  
   *Parent does:* 1. Slide the top magnet slowly along its length for 5 cm, then across its width for 5 cm. 2. Count the bumps you feel each way. 3. Do each direction 3 times.  
@@ -283,23 +283,23 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **s3 (4 min)**  
   *Parent does:* 1. Try the printed sides together. 2. Try the paper clip on the printed side, then on the magnetic side.  
   *Parent says:* Does the printed side of the magnet attract anything?  
-  *Child mode:* Try the printed sides together. Try the paper clip on the printed side. Then on the magnetic side.
+  *Child mode:* Which side holds the paper clip better, the printed side or the magnetic side?
   - Note: The printed side hardly attracts anything. The stripes of poles are on the magnetic face only. The paper clip clings to that side. It hardly clings to the printed side.
 - **s4 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts a thin strip, about 1 cm wide, off one magnet. 2. Test the strip on the fridge. 3. Ask your child what they found, what they saw, and why they think it happened.  
-  *Parent says:* If we cut a strip off, will it still be a magnet? Let's see. Then tell me what you found and why.  
-  *Child mode:* Watch the grown-up cut a strip. Does it stick to the fridge? What did you find out?
+  *Parent does:* 1. A grown-up cuts a thin strip, about 1 cm wide, off one magnet. 2. Test the strip on the fridge. 3. Ask the question below.  
+  *Parent says:* If we cut a strip off, will it still be a magnet? Let's see.  
+  *Child mode:* Watch the strip being cut. Hold it to the fridge. Does it stick?
   - Ask: How many poles do you think the fridge magnet has? (good: Many: one for each bump, in stripes.; More than two, because it bumped many times.)
   - Think: The stripes of poles are only on the magnetic face. Which side sticks to a fridge?
 
 ## Activities
 ### a1 · The Push You Can Feel (10 min)
 - **safety:** Keep magnets away from phones, bank cards and small children.
-- **record:** Draw two magnets that attract and two that repel. Use arrows.
+- **record:** Tell your grown-up which way round the magnets were when they pulled and when they pushed, or draw them with arrows.
 - **s1 (4 min)**  
   *Parent does:* 1. Give your child a magnet in each hand. 2. Ask them to bring the ends slowly together. 3. Then turn one magnet round and try again.  
-  *Parent says:* Bring the ends together slowly. What do you feel? Now turn one round. What changes?  
-  *Child mode:* Hold a magnet in each hand. Bring them slowly together. What do you feel? Turn one round. Try again.
+  *Parent says:* Bring the ends together slowly. Now turn one round and try again.  
+  *Child mode:* Feel what the magnets do each time.
   - Ask: What did you feel the two times? (good: One way they pulled together, the other way they pushed apart.; A push I could feel, with nothing touching.)
 - **s2 (4 min)**  
   *Parent does:* 1. Lay one magnet on the table. 2. Push the other magnet towards it, end to end, without touching. 3. Try to chase it to the edge of the table.  
@@ -316,8 +316,8 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **record:** Write what each end of each parcel did with your N end and your S end.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Where your child cannot see, wrap one magnet and the steel bolt in newspaper, so both parcels look the same. Mark them A and B.  
-  *Parent says:* One of these parcels is a magnet. The other is plain steel. Can you find the magnet using only your magnet?  
-  *Child mode:* One parcel hides a magnet. One hides plain steel. Can you find the magnet?
+  *Parent says:* One of these parcels is a magnet. The other is plain steel. They look the same.  
+  *Child mode:* Use your own magnet to find which parcel hides the magnet.
 - **s2 (8 min)**  
   *Parent does:* 1. Let your child test both ends of each parcel with the N end, then the S end, of their magnet. 2. Ask them to write what happens.  
   *Parent says:* Try both ends of each parcel with your north pole, then your south pole. What happens each time?  
@@ -325,56 +325,56 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   - Check: Parcel A is attracted by your N end and by your S end. One end of parcel B is pushed away by your N end. Which parcel is the magnet? → **Parcel B, because it repelled**
 - **s3 (4 min)**  
   *Parent does:* Unwrap the parcels and check.  
-  *Parent says:* Why was the push the only test that could tell us?  
-  *Child mode:* Unwrap them. Were you right? Why was the push the best clue?
+  *Parent says:* Let's open the parcels and see if you were right.  
+  *Child mode:* Unwrap them. Were you right?
   - Ask: Why can't sticking tell you which one is the magnet? (good: Plain steel sticks to both ends of a magnet too.; Only a magnet can repel.)
 ### a3 · Floating Rings on a Pencil (10 min)
 - **safety:** Ring magnets can snap together hard and pinch skin. Keep them away from small children.
-- **record:** Draw the floating rings, and label each face N or S.
+- **record:** Take a photo of your floating rings, or draw them. Mark each face N or S.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand the pencil in the dough. 2. Drop a ring on. 3. Drop the next ring on. If it sticks, take it off, flip it over, and drop it on again.  
   *Parent says:* If the rings face like poles, they will repel. Let's make each ring float above the one below.  
-  *Child mode:* Stand the pencil up. Drop on a ring. Drop on the next. Does it stick? Flip it over!
+  *Child mode:* Make every ring float above the one below. If one sticks, flip it over.
 - **s2 (4 min)**  
   *Parent does:* 1. Press the top ring down and let go. 2. Then lift the top ring off the pencil and hold it above the others with your fingers.  
   *Parent says:* Press the top ring down. What happens? Now lift it off and try to hold it floating without the pencil.  
-  *Child mode:* Press the top ring and let go. Now lift it off. Can it float without the pencil?
+  *Child mode:* Feel the ring push back up. Then try to make it float with no pencil.
   - Note: Without the pencil, the ring tips over and flips to stick, or slides off to one side. The pencil was stopping it from turning.
 - **s3 (2 min)**  
   *Parent does:* Talk about what the pencil does.  
-  *Parent says:* The magnets did the pushing. What did the pencil do?  
-  *Child mode:* The magnets push. What job does the pencil do?
+  *Parent says:* The magnets did the pushing. The pencil did something too.  
+  *Child mode:* Think about the ring when you lifted it off.
   - Ask: Why did the ring flip over without the pencil? (good: It turned round until it could attract.; The pencil stopped it turning.)
-### a4 · Draw the Magnet Inside (15 min)
-- **problem:** Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them. Then you cut the drawing in two, to see which poles appear.
-- **record:** Keep the drawing in your science notebook.
+### a4 · Build the Magnet Inside (15 min)
+- **problem:** Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you lay out toothpicks as the tiny magnets. Then you cut the row in two, to see which poles appear.
+- **record:** Take a photo of your toothpick magnet before and after the cut, or draw it in your science notebook.
 - **s1 (6 min)**  
-  *Parent does:* 1. Draw a long rectangle. 2. Fill it with 20 small arrows, all pointing to the right. 3. Colour each arrow's head red and its tail blue.  
-  *Parent says:* Each arrow is a tiny magnet. The red head is its north, the blue tail is its south. Where do all the red heads come out?  
-  *Child mode:* Draw a long box. Fill it with little arrows, all pointing right. Colour the heads red and the tails blue.
+  *Parent does:* 1. Mark a long box on the table with tape or string. 2. Fill it with 20 toothpicks, all pointing to the right.  
+  *Parent says:* Each toothpick is a tiny magnet. The pointed end is its north, the flat end is its south. Where do all the pointed ends come out?  
+  *Child mode:* Fill the box with toothpicks, all pointing right.
 - **s2 (6 min)**  
-  *Parent does:* 1. Draw a line across the middle of the magnet. 2. Draw the two halves apart. 3. Label N and S on each half.  
-  *Parent says:* Now cut the magnet in your drawing. Look at the arrows next to the cut. What poles do they make?  
-  *Child mode:* Draw a cut across the middle. Draw the two halves apart. Write N and S on each half.
-  - Check: You drew every arrow pointing right, with red heads and blue tails. Cut across the middle. Which pole appears on the left piece, at the cut? → **A north pole, because the red arrow heads come out there**
+  *Parent does:* 1. Push the two halves of the toothpicks apart in the middle. 2. Lay a slip of paper marked N or S at the cut end of each half.  
+  *Parent says:* Now cut the magnet. Look at the toothpicks next to the cut. What poles do they make?  
+  *Child mode:* Pull the two halves apart. Put an N or S slip at each cut end.
+  - Check: Every toothpick points right, with the pointed end as north. Cut across the middle. Which pole appears on the left piece, at the cut? → **A north pole, because the pointed ends come out there**
 - **s3 (3 min)**  
   *Parent does:* Ask what would happen if you kept cutting.  
   *Parent says:* What if we cut each half again, and again?  
-  *Child mode:* What if you cut it again and again? Draw the smallest piece.
+  *Child mode:* Split one half again. Does each new piece still have a pointed end and a flat end?
   - Think: Is there a piece so small that it has only a north pole?
 
 ## Projects
 ### p1 · The Repel Racer (50 min, 2 days)
 - **safety:** A grown-up pushes the skewers through the bottle caps. Skewer points are sharp.
-- **record:** Draw your car. Write the time for each race and what made the car turn or stop.
+- **record:** Take a photo of your car, or draw it. Write the time for each race and what made the car turn or stop.
 - **schedule:** day 1: Build the car and tape a magnet on top. Test it with the other magnet. (30 min); day 2: Build a track with books. Race the car along it by repelling, and time each try. (20 min)
 - **s1 (30 min) · grown-up needed**  
-  *Parent does:* 1. Push skewers through 2 straws for axles. 2. Fix a bottle cap on each end of each skewer. 3. Tape the straws under the matchbox. 4. Tape a bar magnet on top, N end at the back.  
-  *Parent says:* If the back of the car is a north pole, what pole must your hand magnet have to push it?  
-  *Child mode:* Build the car. Tape the magnet on top, N at the back. Push it with your magnet. Which end pushes it?
+  *Parent does:* 1. Push skewers through 2 straws for axles. 2. Fix a bottle cap on each end of each skewer. 3. Tape the straws under the matchbox. 4. Tape a bar magnet on top, N end at the back (use the N end you marked in Magnet Boats).  
+  *Parent says:* If the back of the car is a north pole, which pole of your hand magnet will push it away?  
+  *Child mode:* Build the car. Then find which end of your hand magnet pushes it.
   - Note: The simplest car is a matchbox resting on two round pencils, which roll like logs. Bottle caps work better but need a grown-up to make holes.
 - **s2 (20 min)**  
-  *Parent does:* 1. Make a track 1 metre long with books for walls. 2. Push the car along by repelling, without touching. 3. Time three races.  
+  *Parent does:* 1. Make a track 1 metre long with books for walls. 2. Push the car along by repelling, without touching. 3. Time three races with a phone timer.  
   *Parent says:* Drive it from one end to the other without touching. What happens if you come too close or too fast?  
   *Child mode:* Drive the car down the track with your magnet. No touching! Time it. Try three times.
   - Note: The car often swings round and jumps onto the hand magnet, as the boats did in the Magnet Boats experiment. The book walls help stop it turning.
@@ -383,19 +383,19 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 ## Challenges
 ### c1 · Make a Magnet Hover (30 min)
 - **problem:** Make one magnet float in the air above another magnet, using only repelling. It must not touch the other magnet.
-- **your turn:** Now invent your own way to stop the floating magnet from turning. Draw it, build it, and time how long it hovers.
+- **your turn:** Now invent your own way to stop the floating magnet from turning. Build it and time how long it hovers. Take a photo of it, or draw it.
 - **constraints:** Use magnets and things from home.; The floating magnet must hover with a gap you can slide a sheet of paper through.; It must stay for at least 10 seconds.
 - **general:** Put ring magnets on a pencil, so that like poles face each other. The pencil stops the top ring from turning.; Put bar magnets inside a clear plastic tube or tall glass that just fits them, so they cannot turn round.; Tie a thread to the floating magnet and tape the thread down, so it hovers but cannot flip.
 - **creative:** A toy called the Levitron floats a spinning top above a base magnet. The top spins very fast, and the spin stops it from flipping over. A spinning top on a table stays upright for the same reason.; Some trains, such as the one to Shanghai airport in China, float above their track on magnets. Electricity in those magnets is adjusted many times every second to keep the train steady.; Scientists have floated a magnet above a superconductor, a very cold material that pushes back on magnetic fields.
 - **s1 (5 min)**  
   *Parent does:* Hold one magnet flat on the table. Try to make the other hover above it, north over north, with your fingers off.  
-  *Parent says:* Can you make it hover just by letting go? What does it do?  
-  *Child mode:* Try to make one magnet float above the other. Let go. What happens?
+  *Parent says:* Can you make it hover just by letting go?  
+  *Child mode:* Let go, and watch what the top magnet does.
   - Note: It flips over and sticks, or slides off sideways. The boats did the same thing in the Magnet Boats experiment.
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas before building.  
+  *Parent does:* Ask your child for three ideas before building.  
   *Parent says:* The magnet keeps turning or sliding. How could we stop that?  
-  *Child mode:* Draw three ideas to stop the magnet turning.
+  *Child mode:* Think of three ways to stop the magnet turning. Say them out loud, or sketch the best one.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Build your best idea and test it. Slide paper through the gap. Time it.  
   *Parent says:* Does it hover? Does paper fit through the gap? How long does it stay?  
@@ -404,7 +404,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **s4 (5 min)**  
   *Parent does:* Read the usual and creative solutions together.  
   *Parent says:* In every way that works, something stops the magnet turning. What did that in yours?  
-  *Child mode:* What stopped your magnet from turning?
+  *Child mode:* Look at the solutions. Which one is like yours?
   - Check: Why does a hovering magnet always need something extra, like a pencil or a tube? → **A free magnet turns round and then attracts**
 
 ## Worksheets

@@ -291,8 +291,8 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   - Note: Watch what happens when the STREET LAMP card is played: nobody can find anyone. This is like real fireflies near bright lights. The trickster cards are based on real fireflies, described by the scientist James Lloyd in 1965.
 - **s4 (4 min)**  
   *Parent does:* Switch on the lights. Count the tokens and talk about the game.  
-  *Parent says:* Who found the most partners? Was anyone tricked? Now think about real fireflies. What would happen to them if every field had a bright lamp all night?  
-  *Child mode:* Count your tokens. Were you tricked? Think about real fireflies. What would a bright lamp do to them?
+  *Parent says:* Who found the most partners? Was anyone tricked? Now let's think about real fireflies.  
+  *Child mode:* Count your tokens. Were you tricked?
   - Check: In the game, a bright street lamp stopped everyone finding partners. Why is this a problem for real fireflies? → **Bright light at night hides their flashes, so they can't find partners**
 ### g2 · Deep Dark Sea: a card game of glowing jobs (20 min)
 - **rules:** Each player lays out their own four job mats. Shuffle all 18 cards. Deal 3 to each player. Put the rest face down as the pile.; On your turn, draw the top card. If it is an action card, do what it says, then put it on the discard pile. Your turn is over.; If you drew an animal card, you now hold one more card than at the start. Pick one animal card from your hand, read the card aloud, and say which job the animal's light does. Say how the light helps them. Then turn the card over to check the job on the back. If you were right and your mat for that job is empty, place the card on it. If you were wrong, or that mat is already full, put the card on the discard pile.; Not sure which job it is? The other players may help you before you turn the card over. If you do not want to place any card, put one card from your hand on the discard pile instead, so you always hold 3 cards at the end of your turn.; The first player with a card on all four of their mats wins. When the pile runs out, shuffle the discard pile into a new pile. If the pile runs out a second time, stop. The player with the most mats filled wins. If it is a tie, everyone wins.
@@ -306,10 +306,10 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **s2 (4 min)**  
   *Parent does:* Play the anglerfish card together as a practice.  
   *Parent says:* The anglerfish has a glowing ball dangling from their head, right in front of their mouth. Which job is that?  
-  *Child mode:* Anglerfish. A glowing ball hangs in front of their mouth. Catch, hide, scare or talk?
+  *Child mode:* Find the anglerfish card. Read it, then choose the mat it goes on.
   - Check: An anglerfish dangles a glowing ball in front of their mouth. What is the light for? → **To catch food**
 - **s3 (10 min)**  
-  *Parent does:* Take turns, as in the rules. Draw, read an animal card aloud, and place the card on the right mat.  
+  *Parent does:* Take turns, as in the rules. Take the top card from the pile. If it is an animal card, read the card aloud and place it on the right mat.  
   *Parent says:* Read your card. Which job? And how does the light do that job?  
   *Child mode:* Read your card. Put it on a mat. Say how their light helps.
   - Note: The tricky job is HIDE. It seems strange to hide by glowing. Explain it like this: from below, a fish looks like a dark shape against the faint light above. Belly lights fill in the dark shape, so it disappears. The Atolla jellyfish card is a burglar alarm: their flashes may call a bigger hunter to eat the attacker.
@@ -332,12 +332,12 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **s1 (3 min)**  
   *Parent does:* Show your child a glow stick. Do not snap it yet. Ask what they notice.  
   *Parent says:* This is a glow stick. Inside is a thin glass tube with one liquid, floating in another liquid. When I bend it, the tube cracks, the liquids mix, and they react. That makes light. A firefly makes light by mixing chemicals too. Do you think warm water or cold water will make the glow brighter?  
-  *Child mode:* Look at the glow stick. Inside are two liquids, kept apart. Bend it and they mix. Then it glows! Guess: brighter in warm water, or in cold?
+  *Child mode:* Look at the glow stick. Inside are two liquids, kept apart. Bend it and they mix. Then it glows!
   - Ask: Why do you think warm water, or cold water, will make the glow brighter? (good: Warm things go faster.; Cold makes things slow.; Hot things glow more.)
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Put ice and cold water in the first glass. 2. Put room-temperature water in the second. 3. Put warm water in the third. 4. Fill all three to the same height.  
   *Parent says:* Let's fill three glasses to the same height. One icy, one normal, one warm, like a bath. Feel each one with a finger.  
-  *Child mode:* Help fill three glasses to the same height. One icy. One normal. One warm, for a grown-up to pour. Feel each with one finger.
+  *Child mode:* Help fill three glasses to the same height. One icy, one normal and one warm. A grown-up pours the warm one. Feel each with one finger.
   - Note: The warm water should be just warm enough that you can keep a finger in it comfortably. Never use boiling water.
 - **s3 (3 min)**  
   *Parent does:* Snap all three glow sticks at the same moment. Shake them. Drop one into each glass. Wait 2 minutes.  
@@ -370,7 +370,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **predict:** Guess first. Will the glowing stick feel warmer than the one that is not glowing? Why do you think so?
 - **fair test:** To make it fair, use two glow sticks from the same packet and let them lie side by side on the same cloth. Press each one on the same place on the inside of your wrist, for the same time, a count of twenty. Then test them again in the other order.
 - **safety:** Never cut or bite a glow stick. If one leaks, wash hands and keep it away from eyes. In the extra step, a grown-up lights and watches the diya all the time.
-- **record:** Fill in the table. Draw the two glow sticks and write which one felt warmer, or the same.
+- **record:** Fill in the table. Write which stick felt warmer, or the same. You can also take a photo of the two sticks.
 - **results table:** Stick | Glowing? | On my wrist: warmer, cooler or the same as the room? | Thermometer touching it after 2 minutes (degrees), if you have one
 - **s1 (3 min)**  
   *Parent does:* Lay two glow sticks side by side on a cloth. Snap one and shake it. Do not snap the other.  
@@ -379,7 +379,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **s2 (4 min)**  
   *Parent does:* Your child presses the glowing stick on the inside of a wrist for a count of twenty. Then they press the stick that was not snapped on the same place, for a count of twenty. Then do both again in the other order.  
   *Parent says:* Press the glowing one on your wrist. Count to twenty. Now the one we did not snap. Which is warmer? Now try again, the other way round.  
-  *Child mode:* Press the glowing stick on your wrist and count to twenty. Now do the same with the stick that was not snapped. Which felt warmer?
+  *Child mode:* Press the glowing stick on your wrist and count to twenty. Now do the same with the stick that was not snapped. Notice how each one feels.
   - Check: Which stick felt warmer on your wrist? → **About the same**
 - **s3 (4 min)**  
   *Parent does:* If you have a thermometer, lay it touching each stick for 2 minutes and read it.  
@@ -395,7 +395,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **question:** If we shine a torch on a glow-in-the-dark star for longer, does it glow for longer in the dark?
 - **predict:** Guess. Will a star charged for 60 seconds glow longer than one charged for 10 seconds? Why do you think so?
 - **fair test:** To make it fair, use two stars from the same packet, side by side. Shine the same torch from the same distance. Change only how long you shine it. Finish charging both at the same moment, and watch both at the same time.
-- **record:** Fill in the table. Draw two bars, one for each star.
+- **record:** Fill in the table. Then cut two paper strips, one for each star. Make the strip longer for the star that glowed longer.
 - **results table:** Star | Torch time (seconds) | Brighter at 1 minute? (yes or no) | Minutes until you can no longer see it (stop at 10)
 - **s1 (3 min)**  
   *Parent does:* Keep both stars in a dark drawer for an hour before you start, so they are empty of light.  
@@ -431,8 +431,8 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   *Child mode:* Hold the stick. It has no battery and no wire. Can it make light?
 - **s2 (3 min)**  
   *Parent does:* Your child bends the stick till it clicks, then shakes it.  
-  *Parent says:* Bend it till you hear a click. Shake it. What do you notice?  
-  *Child mode:* Bend it till it clicks. Shake it. What happens?
+  *Parent says:* Bend it till you hear a click. Then shake it.  
+  *Child mode:* Bend it till it clicks. Shake it. Watch the light.
   - Ask: What do you notice? (good: It started glowing.; It got brighter when I shook it.; It isn't warm.)
 - **s3 (3 min)**  
   *Parent does:* Ask your child to hold the glowing stick up and look around the room by its light.  
@@ -447,7 +447,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 ### a2 · Firefly Night Walk (if you live near a park, field or garden) (20 min)
 - **problem:** Fireflies flash light to find a partner, and bright lights can hide their flashes. On this walk you count flashes in a dark spot and next to a bright light, and compare.
 - **safety:** Go only with a grown-up. Wear closed shoes and long trousers. Watch for snakes near grass and water. Do not catch the fireflies.
-- **record:** Make tally marks of flashes. Write the place and the time. Draw one firefly you saw.
+- **record:** Make tally marks of flashes. Write the place and the time. Tell your grown-up about one firefly you saw, or draw it.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Choose a dark place: a garden, a park, a field edge. Go after sunset. Cover your torch with red cloth.  
   *Parent says:* We're going firefly spotting. We'll keep our torch dim and red, so our light doesn't drown theirs.  
@@ -481,8 +481,8 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   *Parent says:* Deep in the sea, below about a thousand metres, it is black all day and all night. Let's make that darkness in a box.  
   *Child mode:* Line the inside of the box with black paper. That is the deep sea. Ask a grown-up to cut a small peephole.
 - **s2 (12 min)**  
-  *Parent does:* Your child draws and cuts out 3 to 5 deep-sea animals. Stick a small glow star, or dab glow paint, only where each animal makes light.  
-  *Parent says:* Let's make an anglerfish, a jellyfish and a hatchetfish. Where does each one glow? Add glow only to those parts.  
+  *Parent does:* Your child makes 3 to 5 deep-sea animals from card. They can draw them first, or just cut simple shapes. Stick a small glow star, or dab glow paint, only where each animal makes light.  
+  *Parent says:* Let's make an anglerfish, a jellyfish and a hatchetfish. The anglerfish glows on the lure, the hatchetfish on the belly, and the jellyfish in a ring. Add glow only to those parts.  
   *Child mode:* Make 3 to 5 sea creatures from card. Add glow only where each one glows.
   - Note: The anglerfish glows on the ball dangling in front of their mouth. The hatchetfish glows along their belly. A jellyfish can glow in a ring. Lanternfish have rows of dots along their sides.
 - **s3 (6 min)**  
@@ -498,7 +498,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   - Check: Our paint glows because we shone a torch on it. Real deep-sea animals have no torch. Where does their light come from? → **They make it with chemistry in their bodies**
 ### a4 · The Vanishing Fish: hiding with belly lights (15 min)
 - **problem:** Seen from below, a fish looks like a dark shape against the faint light from above. A light on the belly can make that dark shape disappear. In this activity you test this with a paper fish and a screen.
-- **record:** Draw the fish before and after. Write: from below, a dark fish shows up because...
+- **record:** Take a photo of the fish before and after the torch, or tell what you saw. Finish the sentence: from below, a dark fish shows up because...
 - **s1 (4 min)**  
   *Parent does:* In a dim room, put the phone on a table with a white screen at low brightness. Lay the paper fish flat on the screen. Look from straight above.  
   *Parent says:* Pretend you are a hungry fish deep in the sea, looking up. The screen is the faint light from far above. What does our little fish look like?  
@@ -523,7 +523,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 ### a5 · Deep Sea Theatre: act out the glowing jobs (15 min)
 - **problem:** Deep-sea animals use light for four jobs: to catch food, to hide, to scare attackers and to talk. In this short play you act out three of these jobs with torches or glow sticks.
 - **safety:** Never cut or bite a glow stick.
-- **record:** Draw your favourite scene.
+- **record:** Tell your grown-up your favourite scene and which light job it showed. You can draw it too.
 - **s1 (4 min)**  
   *Parent does:* Scene 1. One person is an anglerfish, dangling a glow stick on a string in front of their mouth. Another is a small fish.  
   *Parent says:* The anglerfish waits in the dark, very still. Only their lure glows. Little fish, swim towards the light!  
@@ -548,7 +548,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 ### p1 · Firefly Count for Science (if you live near a park, field or garden) (65 min, 3 days)
 - **problem:** Scientists want to know whether fireflies are disappearing. For that they need careful counts, made in the same place at the same time. In this project you count flashes on three evenings.
 - **safety:** Go only with a grown-up. Wear closed shoes. Stay on paths, away from water edges.
-- **record:** Each night write the date, time, weather and your count. On night 3, draw a bar chart.
+- **record:** Each night write the date, time, weather and your count. On night 3, make a bar chart, drawn or built from coins.
 - **schedule:** day 1: Choose a spot and mark it. Count flashes for 3 minutes, 30 minutes after sunset. Write the weather. (15 min); day 2: Same spot, same time. Count for 3 minutes. Write the weather. Ask an older neighbour or relative, if you have one, how many fireflies they saw as a child. (20 min); day 3: Count again. Make a bar chart of your three nights. Write a short report. (30 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Choose a dark spot near home where you might see fireflies. Mark it. Decide the time: about 30 minutes after sunset.  
@@ -566,20 +566,20 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   *Child mode:* Ask someone older. Did they see more fireflies when they were small? Where?
   - Note: Many people say there were more fireflies before. Memories are useful clues, but they are not careful counts. That is why your counts matter.
 - **s4 (10 min)**  
-  *Parent does:* On night 3, draw a bar chart with one bar for each night.  
+  *Parent does:* On night 3, make a bar chart with one bar for each night. Draw it, or stack a coin for each flash.  
   *Parent says:* Let's draw a bar for each night. Which night had the most? What was different that night?  
-  *Child mode:* Draw one bar for each night. Which night had the most flashes? Why, do you think?
+  *Child mode:* Make one bar for each night. Draw it, or stack a coin for each flash.
   - Check: In this made-up example from the firefly count, which night had the most flashes? → **Night 3, after rain**
 - **s5 (10 min)**  
-  *Parent does:* Write a short report: where, when, what you counted and what you think.  
+  *Parent does:* Write or say a short report: where, when, what you counted and what you think.  
   *Parent says:* Let's write a short science report. What do you think? What did you count? Why?  
-  *Child mode:* Write your report: what you think, what you counted, and why.
+  *Child mode:* Write or say your report: what you think, what you counted, and why.
   - Note: A good report: Fireflies like warm, damp nights. I counted 31 flashes after the rain and 9 on the cool windy night. Fireflies may flash more when it is warm and wet. Firefly scientists around the world collect counts like these. Ask if a local nature group collects them.
 
 ## Challenges
 ### c1 · Invent a Deep-Sea Creature (30 min)
 - **problem:** Design an animal that lives 2,000 metres down, in always-dark water. They must find food and stay safe, using light they make themself.
-- **your turn:** Now draw your own creature. Give them a name. Label each light and its job. Then build it from clay or card, and look at it in a dark shoebox or a dark room.
+- **your turn:** Now invent your own creature. Draw it, or shape it from clay or card. Give them a name. Say what each light is for. Then look at it in a dark shoebox or a dark room.
 - **constraints:** Their light must be cold light, made by chemistry, not fire.; They may glow in no more than three places.; Each light must have a job: catch, hide, scare or talk.; No sunlight reaches them, so every light must be made by the animal.
 - **general:** Give them a glowing lure near their mouth, like an anglerfish.; Give them belly lights to hide their shape from hunters below.; Let them squirt glowing liquid to escape, like some shrimp.
 - **creative:** Give them lights that blink in a code only their own kind knows.; Let them keep glowing bacteria in a pocket, and switch them off with a flap of skin, like a flashlight fish.; Let them flash a burglar alarm that calls a bigger hunter.
@@ -588,9 +588,9 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   *Parent says:* Down at 2,000 metres, it is black all the time. Your animal needs food and needs to stay safe. Their only tool is light they make themself.  
   *Child mode:* Your animal lives deep in the dark sea. They need food. They must not be eaten. They can glow.
 - **s2 (10 min)**  
-  *Parent does:* Your child draws the creature and marks up to three lights.  
-  *Parent says:* Draw your creature. Where will they glow? Remember, no more than three lights.  
-  *Child mode:* Draw your animal. Mark up to three glowing spots.
+  *Parent does:* Your child draws the creature, or shapes it from clay or card, and marks up to three lights.  
+  *Parent says:* Draw or shape your creature. Where will they glow? Remember, no more than three lights.  
+  *Child mode:* Draw or shape your animal. Mark up to three glowing spots.
 - **s3 (10 min)**  
   *Parent does:* For each light, your child says or writes its job and how it works.  
   *Parent says:* Tell me about each light. Is it for catching, hiding, scaring or talking? How does it work?  
@@ -602,7 +602,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   *Child mode:* Build your animal. Test it in the dark. What would you change?
 ### c2 · Light the Path, Save the Fireflies (25 min)
 - **problem:** A path through a park needs light, so people can walk home safely at night. But fireflies live in the park. Design lighting that keeps people safe and leaves the fireflies in the dark.
-- **your turn:** Now design your own park lighting. Draw it. Build it with cups and torches. Can you keep the path bright and the firefly corner dark?
+- **your turn:** Now design your own park lighting. Build it with cups and torches, and test it. Can you keep the path bright and the firefly corner dark?
 - **constraints:** People must be able to see the path and their feet.; The fireflies' bushes and grass must stay as dark as possible.; Test your design on a model with torches and a toy path.
 - **general:** Use shades so lights point down at the path only.; Use fewer, dimmer lights, low to the ground.; Switch lights off late at night, or use lights that turn on only when someone walks by.
 - **creative:** Mark the path edges with glow-in-the-dark stones or paint that need no electricity.; Use warm, dim lamps instead of bright white ones.; Leave a dark 'firefly corner' in every park.
@@ -613,7 +613,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **s2 (5 min)**  
   *Parent does:* Point an unshaded torch at the ceiling above the path, so its light spreads all around the room. Look at the fireflies.  
   *Parent says:* Here's an ordinary lamp. What happens to our fireflies?  
-  *Child mode:* Shine the torch all around. Can you still see the fireflies?
+  *Child mode:* Turn on the torch with no shade, pointing at the ceiling. Look at the fireflies.
   - Check: In the Light the Path test, the torch with no shade lit up everything. What happened to the 'fireflies'? → **They became hard to see**
 - **s3 (10 min)**  
   *Parent does:* Your child designs shades from cups, foil or card, and tests them.  
@@ -622,7 +622,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **s4 (5 min)**  
   *Parent does:* Compare designs and pick the best.  
   *Parent says:* Which design kept the path brightest and the firefly bush darkest? Why?  
-  *Child mode:* Which design worked best? Why?
+  *Child mode:* Look at all the designs. Pick the one you think worked best.
   - Note: Good answers are a street lamp that shines on a wall or up into the sky, or a sign left on all night. These lights waste energy. They can also stop fireflies from seeing each other's flashes.
   - Think: Where near our home is there a light that shines where nobody needs it?
 

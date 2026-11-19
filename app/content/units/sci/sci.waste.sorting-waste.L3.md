@@ -215,7 +215,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards and mats. 2. Lay out the three mats. 3. Shuffle the cards.  
   *Parent says:* Each card is something we throw out. Slap the bin it belongs in, as fast as you can.  
-  *Child mode:* Each card is some waste. Slap the right bin, fast!
+  *Child mode:* Slap the right bin mat before anyone else does.
 - **s2 (10 min)**  
   *Parent does:* Play through the pile. Stop on each TRICKY card and talk it over.  
   *Parent says:* This one is tricky. Where does it go, and why?  
@@ -233,7 +233,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **s1 (2 min)**  
   *Parent does:* Cut out the 24 cards, shuffle them and lay them face down.  
   *Parent says:* Each pair is a thing and what happens to it. Find the pairs.  
-  *Child mode:* Find a thing and what happens to it. That is a pair.
+  *Child mode:* A pair is a thing and what happens to it.
 - **s2 (10 min)**  
   *Parent does:* Play until all pairs are found. Ask for the reason each time.  
   *Parent says:* Why does that happen to it? Tell me before you keep the pair.  
@@ -257,7 +257,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the dry things in two matching sets on a plate. 2. Ask your child to guess which ones will still be sellable after sitting in sambar.  
   *Parent says:* We are going to put these in two jars. One jar gets sambar and peels too. Which of these will still be good enough to sell? Why do you think so?  
-  *Child mode:* Look at the newspaper, the box piece and the milk packet. Which will still be good after sitting in sambar? Why?
+  *Child mode:* Look at the newspaper, the box piece and the milk packet. Point to the ones you think will still sell after sitting in sambar.
   - Ask: Why do you think that one will still be good enough to sell? (good: Plastic doesn't soak things up.; Paper gets soggy.; You can wash plastic.; Cardboard is thicker than newspaper.)
   - Note: Write the guesses in the table before you start. Don't explain anything yet. Many children guess that everything can just be washed afterwards.
 - **s2 (5 min)**  
@@ -275,7 +275,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **s4 (4 min)**  
   *Parent does:* 1. With tongs or a spoon, lift each newspaper strip out by one end. 2. Hold each by both ends and pull gently.  
   *Parent says:* Lift the dry strip first, then the strip from the MIXED jar. Now pull each one very gently from both ends. What happens?  
-  *Child mode:* Lift out both newspaper strips. Pull each one gently from both ends. What happens?
+  *Child mode:* Lift out both newspaper strips. Pull each one gently from both ends.
   - Ask: What did you feel when you pulled the soaked strip? (good: It tore straight away.; It was floppy and broke.; The dry one held, the wet one ripped.)
   - Note: The soaked strip usually tears with a very gentle pull, or even when lifted. The dry strip holds. If the soaked strip holds, pull a little harder on both: the soaked one gives way first.
 - **s5 (3 min)**  
@@ -306,15 +306,15 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **predict:** Guess how many seconds each round will take. Will the mixed round take a little longer, twice as long, or much longer? Why do you think so?
 - **fair test:** Use the same 30 things, the same three bowls and the same person sorting in both rounds. Only one thing changes: whether the things are mixed first. Do each round twice and take the faster time, because one try can be lucky or unlucky.
 - **safety:** Wear gloves or use a spoon for the mixed round. Wash hands with soap afterwards.
-- **record:** Write your times in the table. Then draw two bars, one for each round. Make each bar as tall as that round's faster time.
+- **record:** Write your times in the table. Then show the two rounds as two bars, drawn or made from paper strips. Make each bar as long as that round's faster time.
 - **results table:** Round | My guess (seconds) | Try 1 (seconds) | Try 2 (seconds) | Faster try (seconds) | Mistakes found afterwards
 - **s1 (3 min)**  
   *Parent does:* 1. Show the 30 things and the three labelled bowls. 2. Ask for a guess for each round, and a reason.  
   *Parent says:* First you will sort these one at a time, as I hand them to you. Then we mix them all and you sort them again. How long will each round take? Why?  
-  *Child mode:* Guess how long each round will take. Will the mixed round be slower? Why?
+  *Child mode:* Guess how many seconds each round will take.
   - Ask: Why might the mixed round be slower? (good: You have to search for each thing.; Tea leaves stick to the paper.; Things get stuck together.)
 - **s2 (6 min)**  
-  *Parent does:* 1. Start the timer. 2. Hand your child the 30 things one by one, in any order. 3. Stop the timer when the last one is in a bowl. 4. Do it once more and write both times.  
+  *Parent does:* 1. Start the timer. 2. Hand your child the 30 things one by one, in any order. 3. Stop the timer when the last one is in a bowl. 4. Write down the time.  
   *Parent says:* Ready? I'll hand you one thing at a time. Drop it in the right bowl as fast as you can.  
   *Child mode:* Take each thing and drop it in the right bowl. Go fast!
   - Note: Round 1 usually takes under a minute. This is what sorting at the bin feels like.
@@ -323,12 +323,12 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
   *Parent says:* Now we mix it all, the way a single dustbin does. A spoon of water is like the juice from leftovers.  
   *Child mode:* Tip it all in the big bowl. Add a spoon of water. Stir.
 - **s4 (10 min)**  
-  *Parent does:* 1. Your child puts on gloves. 2. Start the timer. 3. They sort the mixed bowl into the three bowls, picking tea leaves off the paper too. 4. Stop when everything is sorted. 5. For the second try, tip everything back into the big bowl, stir again and repeat.  
+  *Parent does:* 1. Your child puts on gloves. 2. Start the timer. 3. They sort the mixed bowl into the three bowls, picking tea leaves off the paper too. 4. Stop when everything is sorted. 5. Write down the time. If you want a second try, tip everything back into the big bowl, stir again and repeat.  
   *Parent says:* Now sort the mixed bowl into the three bowls. Tea leaves stuck to paper count as wet. Pick them off first.  
   *Child mode:* Put on gloves. Sort the mixed bowl into the three bowls. Pick off stuck tea leaves.
   - Note: The mixed round usually takes several times longer. Used tea leaves stick to damp paper and are fiddly to pick off. Some scraps of paper will be too soggy to save. That is a real result too. In the second try the paper is already damp, so it may be even slower.
 - **s5 (5 min)**  
-  *Parent does:* 1. Check each bowl for mistakes and count them. 2. Fill in the table. 3. Draw the two bars.  
+  *Parent does:* 1. Check each bowl for mistakes and count them. 2. Fill in the table. 3. Compare the two times.  
   *Parent says:* Let's check the bowls. Did anything end up in the wrong place? How many times longer did the mixed round take?  
   *Child mode:* Check each bowl. Count the mistakes. Which round was slower? By how much?
   - Check: In the Sorting Race, Round 2 took much longer than Round 1. What made it slower? → **The things were mixed and stuck together, so each had to be found and pulled apart**
@@ -341,7 +341,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **question:** Does a lid really keep ants, flies and smells away from wet waste?
 - **predict:** Which box do you think ants or flies will find first? Will they reach the closed box at all? Why do you think so?
 - **fair test:** Both boxes get the same waste and stand side by side in the same spot for the same time. The only difference is the lid.
-- **record:** Write your counts in the table at each check. Draw both boxes on day 2.
+- **record:** Write your counts in the table at each check. Take a photo of both boxes on day 2, or tell your grown-up what you saw.
 - **results table:** Time | Open box: ants | Open box: flies | Closed box: ants | Closed box: flies | Smell near each box
 - **schedule:** day 1: Set up both boxes side by side. Check and count after 1 hour and after 4 hours. (15 min); day 2: Check and count the next morning. Open the closed box and look inside. Empty both into the wet bin. (5 min)
 - **s1 (3 min)**  
@@ -369,20 +369,20 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 ## Activities
 ### a1 · Set Up a Sorting Station at Home (15 min)
 - **safety:** Do not handle any broken glass or blades yourself. Leave them for a grown-up to wrap.
-- **record:** Draw your sorting station. Then draw three things you threw out today, with an arrow from each one to the right container.
+- **record:** Take a photo of your sorting station. Then name three things you threw out today, and say which container each one goes in.
 - **s1 (3 min)**  
   *Parent does:* Look at where waste is thrown in your home now. Ask your child how many bins there are and what goes in each.  
   *Parent says:* Where do we throw things at home? Is there one bin, or more? Let's make a station with three.  
   *Child mode:* Look at your home's dustbins. How many are there? What goes in each?
 - **s2 (5 min)**  
   *Parent does:* 1. Put the wet bin, the dry box and the danger tin side by side, close to where you cook. 2. Put the danger tin up high, out of small children's reach.  
-  *Parent says:* We keep them together near the stove. Then sorting takes no extra walking. Why should the danger tin go up high?  
-  *Child mode:* Put the wet bin, the dry box and the danger tin side by side. Keep them close to where you cook. Put the danger tin up high.
+  *Parent says:* We will keep all three together near the stove. Why do you think that helps?  
+  *Child mode:* Put the wet bin, the dry box and the danger tin side by side. Keep them close to where you cook. Put the danger tin up high, so small children cannot reach it.
   - Ask: Why put all three together, close to the stove? (good: So it is easy to sort.; So nobody is lazy and uses the wrong one.; Because that is where most waste is made.)
 - **s3 (5 min)**  
-  *Parent does:* Your child writes WET, DRY and DANGER, and draws three examples on each label. Tape the labels on.  
-  *Parent says:* Draw three things for each label, so even someone who can't read knows what goes where.  
-  *Child mode:* Write WET, DRY and DANGER. Draw three things on each label. Tape them on.
+  *Parent does:* Your child writes WET, DRY and DANGER on three labels. They add three examples to each label, drawn or cut from old packets and magazines. Tape the labels on.  
+  *Parent says:* Add three things to each label, so even someone who can't read knows what goes where.  
+  *Child mode:* Write WET, DRY and DANGER. Add three examples to each label, drawn or cut out. Tape them on.
   - Note: Good pictures: peels, tea leaves and eggshells for WET. Newspaper, a milk packet and a bottle for DRY. A battery, a tube light and tablets for DANGER.
 - **s4 (2 min)**  
   *Parent does:* Show the station to everyone at home and agree to try it for a week.  
@@ -404,7 +404,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
   - Note: Common mistakes: tea bags and wet tissues in the dry box, unrinsed packets, and plastic bags of peels in the wet bin. Plastic should not go in the wet bin, because it will not rot.
   - Wait: Do this every evening for seven days.
 - **s3 (5 min)**  
-  *Parent does:* On day 7, count each day's marks. Draw a bar chart with seven bars.  
+  *Parent does:* On day 7, count each day's marks and write the total beside each row.  
   *Parent says:* Did the mistakes go up or down through the week? What was the most common one?  
   *Child mode:* Count the marks for each day. Did they go down? Which mistake happened most?
   - Check: In Sorting Week, you find tea bags in the dry box on four days. What is the best fix? → **Put a small bowl for tea bags right beside the stove, and empty it into the wet bin**
@@ -414,7 +414,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Explain what hazardous waste is. Ask your child to guess three things at home that might be dangerous to throw out.  
   *Parent says:* Some waste can cut, poison or catch fire. Can you think of three things at home like that?  
-  *Child mode:* Some waste can cut, poison or catch fire. Can you think of three?
+  *Child mode:* Think of three things at home that could be dangerous to throw out.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Walk through the kitchen, bathroom and drawers together. Your child points, and you pick up anything dangerous.  
   *Parent says:* Point to anything you think is dangerous. I will pick it up. What makes it dangerous?  
@@ -424,7 +424,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. Wrap glass and blades in thick newspaper. 2. Your child writes on each packet what is inside. 3. Put batteries, medicines and bulbs in the box.  
   *Parent says:* Write on each packet in big letters, like BROKEN GLASS or SHARP. Then the person who picks it up knows to be careful.  
-  *Child mode:* Write on each packet in big letters, like BROKEN GLASS or SHARP. Then the collector knows to be careful.
+  *Child mode:* Write what is inside on each packet, in big letters. Then the collector knows to be careful.
   - Note: Ask your building, your city's waste helpline, or a shop that sells batteries or bulbs where to take the danger box. Many cities have collection days or points for this.
   - Check: Why should old medicines never be flushed down the toilet? → **They can get into rivers and the sea and harm fish and other animals**
 ### a4 · Clean and Safe Walk around the building (25 min)
@@ -433,7 +433,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Before you go, make a tally sheet with five rows: open bins, closed bins, litter, still water, blocked drains.  
   *Parent says:* We are going to be safety inspectors. What could make our building unsafe?  
-  *Child mode:* Make a tally sheet with five rows: open bins, closed bins, litter, still water, blocked drains.
+  *Child mode:* Write the five things to look for on your tally sheet.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Walk around the building, the parking area and the gate. Your child makes a tally mark for each thing they see.  
   *Parent says:* Look for anything that holds still water: cups, tyres, pots, coconut shells. Mosquitoes can breed in them.  
@@ -455,9 +455,9 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
   *Child mode:* List 18 things your family throws out. Sort them into WET, DRY and DANGER.
   - Note: Tricky ones: a used tissue, a chips packet, a pizza box with cheese, a tea bag, a broken toy, an old toothbrush, a used diaper. Tissues and stained food boxes are often collected with wet waste, or as reject waste, which means waste that cannot be composted or recycled. Check your city's rules. Chips packets are dry waste, but many recyclers don't take them.
 - **s2 (25 min)**  
-  *Parent does:* 1. Draw three columns on the chart paper. 2. Colour the headings green, blue and red. 3. Draw or stick all 18 things in the right column.  
+  *Parent does:* 1. Draw three columns on the chart paper. 2. Colour the headings green, blue and red. 3. Help your child draw, stick or write all 18 things in the right column.  
   *Parent says:* Make the pictures big. Someone walking past should understand it without reading.  
-  *Child mode:* Draw three columns. Draw all 18 things in the right column. Make them big.
+  *Child mode:* Draw three columns. Put each of the 18 things in its column: draw it, cut a picture out, or write its name. Make them big.
   - Wait: Do this on day 2.
 - **s3 (15 min)**  
   *Parent does:* 1. Write three rules at the bottom. 2. Show it to your family. 3. If the building agrees, put it up near the bins or the lift.  
@@ -479,9 +479,9 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
   *Parent says:* Where is there room for a bin? Let's measure it.  
   *Child mode:* Find a space for the bin. Measure how wide and how tall it is.
 - **s2 (8 min)**  
-  *Parent does:* Draw a design, with the measurements written on it.  
+  *Parent does:* Your child draws a design with the measurements written on it. If they would rather not draw, they build a quick model from boxes instead.  
   *Parent says:* Draw your bin. Show where wet goes and where dry goes. How will you keep smells in?  
-  *Child mode:* Draw your bin. Show where wet and dry waste go. Add a lid.
+  *Child mode:* Draw your bin, or build a quick model. Show where wet and dry waste go. Add a lid.
 - **s3 (12 min)**  
   *Parent does:* Build it from cardboard and old containers.  
   *Parent says:* Let's build it. Does it fit? Does the lid close?  
@@ -493,7 +493,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
   - Check: In the Small Kitchen Bin challenge, why must the wet part have a lid? → **To keep smells in and keep ants and flies out**
 ### c2 · An Onam Sadya with No Mixed Waste (30 min)
 - **problem:** Your family is serving an Onam sadya, a Kerala feast eaten on banana leaves, to 20 guests at home. Plan how to sort every bit of waste so that nothing ends up mixed.
-- **your turn:** Draw a plan of your home on feast day. Mark where each bin goes and who looks after it. Then use it at your next family festival or party, and check the bins afterwards.
+- **your turn:** Make a plan of your home on feast day, drawn or laid out with real boxes. Mark where each bin goes and who looks after it. Then use it at your next family festival or party, and check the bins afterwards.
 - **constraints:** Guests should not have to think hard about where to throw things.; No waste may be left lying in the open.; Plan for leaves, leftover food, water bottles, paper napkins and anything broken.
 - **general:** Put a big labelled wet bin right where people finish eating, for banana leaves and leftovers.; Serve water in steel tumblers instead of plastic bottles.; Have one person stand by the bins at the end to help guests.
 - **creative:** Ask each guest to fold their banana leaf and carry it to the wet bin themselves, as many families do.; Use cloth napkins that are washed afterwards, so there is no paper to soak.; Make a picture sign at the door showing the three bins, drawn by the children.
@@ -502,9 +502,9 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
   *Parent says:* What will be left after 20 people eat? Let's make a list.  
   *Child mode:* List all the waste a big feast makes.
 - **s2 (12 min)**  
-  *Parent does:* Draw a plan of the home, marking each bin and who looks after it.  
+  *Parent does:* Show your home, marking each bin and who looks after it. Draw it, or place real bins and boxes around a room.  
   *Parent says:* Where do people eat? Where will they throw things? Put the bins where they are needed.  
-  *Child mode:* Draw your home. Mark where each bin goes. Who helps the guests?
+  *Child mode:* Show your home on paper, or place real bins and boxes in a room. Mark where each bin goes. Who looks after each bin?
 - **s3 (10 min)**  
   *Parent does:* Read the usual and creative solutions. Add the best ideas to your plan.  
   *Parent says:* Here are other ideas. Which would work in our home?  

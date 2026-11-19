@@ -608,8 +608,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Take the straw card. Play it together as a practice round, then put it on its mat. Nobody wins a token.",
-     "say": "Let's practise. 'A straw in a glass of tender coconut water looks broken.' Which mat?",
-     "kid": "Practice card: a straw in tender coconut water looks broken. Which mat?",
+     "say": "Let's practise first with the straw card. Nobody wins a token for it.",
+     "kid": "Read the practice card out loud. Then put it on a mat.",
      "check": {
       "t": "mcq",
       "q": "Practice card: a straw in a glass of tender coconut water looks broken. Which mat?",
@@ -740,9 +740,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "At the end, look at one thing without the lens, then with it.",
-     "say": "Here is the salt grain without the lens. And now with it. Did the salt grain change?",
-     "kid": "Look at the salt without the lens. Then with it. Did the salt change size?"
+     "do": "At the end, pick one of the things and look at it without the lens, then with it.",
+     "say": "Here is the thing without the lens. And now with it. Did the thing itself change?",
+     "kid": "Look at the same thing without the lens. Then with it. Did it change size?"
     }
    ],
    "context": "This is a guessing game with a magnifying glass. Players see only a magnified bit of a hidden thing, and guess what it is from the details.",
@@ -1381,7 +1381,7 @@
      "what": "Look at a pencil in an empty glass, then in a glass of water, from the side, from a slant and from straight above. Feel it under the water. Fill in the table."
     }
    ],
-   "record": "Fill in the table. Then draw the pencil as it looked from the side, and as it really is.",
+   "record": "Fill in the table. Then draw the pencil as it looked from the side, and as it really is. Or tell your grown-up the difference.",
    "flow": [
     {
      "id": "s1",
@@ -1412,7 +1412,7 @@
      "mins": 5,
      "do": "1. Look from the side, at the level of the water. 2. Then look from a little above, at a slant. 3. Then look from straight above, down into the glass. 4. Write each result in the water column of the table.",
      "say": "Look from the side. Now from a slant. Now straight down from the top. Where does the pencil look most broken?",
-     "kid": "Look from the side. Then from a slant. Then straight down from the top. Where does it look most broken? Write it in the table.",
+     "kid": "Look from the side, then from a slant, then from straight above. Write what you see in the table.",
      "parent": "From the side, through the curved glass, the underwater part often looks fatter and shifted sideways. From a slant above the water, it looks bent upwards at the surface. From straight above, the break usually almost disappears. How big the break looks depends on your glass, so write down what you really see.",
      "check": {
       "t": "mcq",
@@ -1448,7 +1448,7 @@
      "mins": 5,
      "do": "1. Ask your child to draw two pictures. 2. First, the pencil as it looked from the side. 3. Second, the pencil as it really is. 4. Then add a dotted line for the path of the light, from the bottom of the pencil to the eye.",
      "say": "Let's draw a model, a picture that explains. Draw the pencil as it looked. Then draw it as it really is. Draw how you think the light travels from the bottom of the pencil to your eye.",
-     "kid": "Draw two pictures. The pencil as it looked. The pencil as it really is. Then draw the light going from the pencil to your eye.",
+     "kid": "Draw two pictures: the pencil as it looked, and the pencil as it really is. Then draw the light going from the pencil to your eye. If you would rather not draw, tell your grown-up and they will draw it.",
      "parent": "A good drawing shows the light going straight in the water, bending at the surface, and going straight to the eye. The eye then 'sees' the pencil along that last straight line, too high. Do not correct the drawing yet. The explanation cards come next."
     },
     {
@@ -1460,7 +1460,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the pencil does not really bend. It only looks broken. What I saw: in the water it looked broken, most from a slant and least from straight above. But it felt straight, and it was straight when I pulled it out. Why: the light from the underwater part bends at the top of the water, and my eyes think it came straight."
     }
    ],
-   "context": "This is the broken-pencil test. You put a pencil in a glass, add water, and look from different places. Then you feel it, to find out if it really bends.",
+   "context": "You will find out whether a pencil in water is really bent, or only looks bent. Put a pencil in a glass, add water, and look from different places. Then feel it under the water.",
    "setup": [
     {
      "art": "A clear glass tumbler on a kitchen table with a pencil leaning in it, empty, looking straight.",
@@ -1520,7 +1520,7 @@
      "what": "Make a tiny, a medium and a big drop on a clear ruler lying on newspaper. Compare how big the letters look under each drop, 3 times. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table for the tiny, medium and big drop. Then draw a bar for each drop, as tall as how many times taller it made the letters look.",
+   "record": "Fill in the table for the tiny, medium and big drop. Then make or draw a bar for each drop, as long as how many times taller it made the letters look.",
    "flow": [
     {
      "id": "s1",
@@ -1535,7 +1535,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Dip the tip of a toothpick in the water and touch it to the ruler. This leaves one tiny drop, about the size of a mustard seed. 2. Dip a straw in the water and put a finger over its top end. Lift your finger a little to let out one drop the size of a pea. 3. Let out several drops in one place to make a big drop, as wide as your little fingernail. Keep the drops well apart along the ruler.",
-     "say": "Let's make three drops. One is tiny, like a mustard seed. One is like a pea. One is big, as wide as your little fingernail. Which will make the letters look biggest? Why do you think so?",
+     "say": "Let's make three drops. One is tiny, like a mustard seed. One is like a pea. One is big, as wide as your little fingernail. Which will make the letters look biggest?",
      "kid": "Make three drops on the ruler. One tiny, like a mustard seed. One like a pea. One big, as wide as your little fingernail. Guess first.",
      "ask": [
       {
@@ -1593,9 +1593,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Help your child draw a bar for each drop, as tall as how many times taller it made the letters look.",
+     "do": "Help your child make a bar for each drop, by lining up small things such as dry rice grains. Use as many grains as how many times taller the drop made the letters look. Drawing the bar is fine too.",
      "say": "Let's turn the table into a picture. Each drop gets one bar. The taller the bar, the bigger that drop made the letters look.",
-     "kid": "Draw one bar for each drop. Make it as tall as its 'times taller' number.",
+     "kid": "Make one bar for each drop with rice grains, or draw it. Make it as long as its 'times taller' number.",
      "check": {
       "t": "mcq",
       "q": "In the water-drop test, which drop usually makes the letters look biggest?",
@@ -1649,7 +1649,7 @@
      "parent": "A good answer has all three parts. If your results are like the example chart, it may sound like this. What I think: small, round drops magnify more than big, flat drops. What I saw: through the tiny drop, the letters looked about twice as tall, all 3 times. Through the big drop they looked almost the same. Why: the tiny drop is more curved, so it bends the light more. If your results were different, write what you really saw. Say honestly if it was hard to tell."
     }
    ],
-   "context": "This is the water-drop magnifier test. You put drops of water of different sizes on a clear ruler lying on newspaper, and find out which one makes the letters look biggest.",
+   "context": "You will find out which size of water drop makes letters look biggest. Put three drops of different sizes on a clear ruler lying on newspaper, and look at the letters through each one.",
    "setup": [
     {
      "art": "A clear plastic school ruler lying on a page of newspaper, across a line of small print, with a cup of water beside it.",
@@ -1706,7 +1706,7 @@
      "what": "Hide a coin behind the edge of a cup. Pour in water slowly and watch the coin appear. Draw why it happens."
     }
    ],
-   "record": "Fill in the table. Draw the cup from the side, with the path of the light from the coin to your eye, with and without water.",
+   "record": "Fill in the table. Draw the cup from the side, with the path of the light from the coin to your eye, with and without water. Or take a photo of your string model.",
    "flow": [
     {
      "id": "s1",
@@ -1745,9 +1745,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to draw the cup from the side twice. First empty, with the light from the coin hitting the rim. Then full, with the light bending at the water's surface to reach the eye.",
-     "say": "Let's draw a model. Draw the light going from the coin to your eye. Without water, what stops it? With water, how does it get to you?",
-     "kid": "Draw the cup twice. Empty: the light hits the edge. Full: the light bends at the top and reaches your eye.",
+     "do": "Ask your child to show the light with a piece of string. With the empty cup, pull the string straight from the coin to their eye. It touches the rim. With the full cup, bend the string at the water's top so it reaches their eye.",
+     "say": "Let's show the light with a string. Without water, what stops it? With water, how does it get to you?",
+     "kid": "Use a string as the light. Empty cup: pull it straight from the coin to your eye. It touches the rim. Full cup: bend it at the water's top so it reaches your eye.",
      "ask": [
       {
        "q": "Where does the light bend?",
@@ -1767,7 +1767,7 @@
      "parent": "What I think: water can make a hidden coin appear by bending its light. What I saw: with no water I could not see the coin. With water, the coin came into view, but it had not moved. Why: light from the coin bends at the top of the water, over the edge of the cup, and into my eye."
     }
    ],
-   "context": "This is the appearing-coin test. You hide a coin behind the edge of a cup, keep your head still, and pour in water to make it appear.",
+   "context": "You will find out how water can make a hidden coin appear without moving it. Hide a coin behind the edge of a cup, keep your head still, and pour in water.",
    "setup": [
     {
      "art": "A one-rupee coin stuck with dough to the bottom of a steel cup, near its side.",
@@ -1815,14 +1815,14 @@
      "what": "Look through water at an arrow, a finger and a newspaper. Say what you notice and what you wonder."
     }
    ],
-   "record": "Draw the strangest thing you saw. Write one thing you wonder about it.",
+   "record": "Tell your grown-up the strangest thing you saw, or draw it. Write one thing you wonder about it.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Draw a fat arrow pointing left on a paper. 2. Hold it behind the glass of water, close to the glass. 3. Then slowly move the paper back, away from the glass, while your child watches through the glass.",
      "say": "Look at this arrow through the glass of water. Keep watching while I move it back. Tell me anything you notice.",
-     "kid": "Look at the arrow through the glass of water. A grown-up moves it back slowly. Watch the arrow. What happens?",
+     "kid": "Look at the arrow through the glass of water. A grown-up moves it back slowly. Keep watching.",
      "context": "This is a quick looking activity at the start of the unit. You look at things through water and notice anything strange, before anyone explains.",
      "ask": [
       {
@@ -1840,7 +1840,7 @@
      "mins": 3,
      "do": "1. Ask your child to put a finger into the water, at the side of the glass. 2. Look at it from the side.",
      "say": "Put your finger in the water. Look at it from the side. What do you notice?",
-     "kid": "Put your finger in the water. Look from the side. What looks strange?",
+     "kid": "Put your finger in the water. Look at it from the side.",
      "ask": [
       {
        "q": "What do you notice about your finger?",
@@ -1871,7 +1871,7 @@
      }
     }
    ],
-   "context": "This is a short looking activity to start the unit. You look through water at an arrow, your finger and a newspaper word, and notice what is strange.",
+   "context": "You will look through water at an arrow, your finger and a newspaper word. You will find out three strange things that water does to what you see.",
    "setup": [
     {
      "art": "A big arrow drawn on paper held behind a glass of water, seen through the glass pointing the opposite way.",
@@ -1915,7 +1915,7 @@
      "what": "Look at 8 small things through a magnifying glass. Draw 3 of them, without and with the lens."
     }
    ],
-   "record": "Draw 3 things twice: once as they look to your eye, and once as they look through the lens.",
+   "record": "Draw one thing as it looks through the lens, or tell your grown-up what you found. Write one detail the lens showed you.",
    "flow": [
     {
      "id": "s1",
@@ -1936,9 +1936,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Ask your child to draw three things twice: as they look to the eye, and as they look through the lens.",
-     "say": "Choose your three favourite things. Draw each one as it looks with no lens. Then draw it again, as it looked through the lens.",
-     "kid": "Choose three things. Draw each one twice. Once with no lens. Once through the lens.",
+     "do": "Ask your child to choose three things and look at each through the lens. Then ask them to line the three up from smoothest to bumpiest.",
+     "say": "Choose your three favourite things. Look at each through the lens. Now line them up, smoothest first and bumpiest last.",
+     "kid": "Line your three things up from smoothest to bumpiest. Point to one bump or line you could not see before.",
      "check": {
       "t": "mcq",
       "q": "On the magnifier safari, a salt grain looked like a big cube through the lens. What really happened to the salt grain?",
@@ -1952,7 +1952,7 @@
      }
     }
    ],
-   "context": "This is a safari with a magnifying glass. You look at salt, sugar, leaves, cloth and your fingertip, and find details you cannot see with your eyes alone.",
+   "context": "You will find small details that your eyes alone cannot see. Look at salt, sugar, leaves, cloth and your fingertip through a magnifying glass.",
    "setup": [
     {
      "art": "A child holding a magnifying glass above a fingertip, lifting it slowly towards her eye.",
@@ -1964,7 +1964,7 @@
     },
     {
      "art": "A page with a salt grain drawn small, and beside it the same grain drawn as a big cube.",
-     "caption": "3. Draw each thing twice: with and without the lens."
+     "caption": "3. Line up three things from smoothest to bumpiest."
     }
    ]
   },
@@ -1996,7 +1996,7 @@
      "what": "Use a magnifying glass to throw a picture of a window onto paper. Notice which way up it is."
     }
    ],
-   "record": "Draw the window as it really is, and the picture of it on the paper.",
+   "record": "Take a photo of the picture on the paper, or draw the window and its picture.",
    "flow": [
     {
      "id": "s1",
@@ -2019,7 +2019,7 @@
      "mins": 6,
      "do": "Ask your child to look carefully at the picture, then at the real window.",
      "say": "Look at the picture. Then look at the real window. What is different?",
-     "kid": "Look at the picture. Look at the real window. What is different? Which way up is the picture?",
+     "kid": "Look at the picture. Then look at the real window.",
      "ask": [
       {
        "q": "What is strange about the picture?",
@@ -2043,7 +2043,7 @@
      }
     }
    ],
-   "context": "This activity uses a magnifying glass to throw a small picture of a bright window onto white paper, like a camera does.",
+   "context": "You will find out how a magnifying glass can make a small picture of a bright window on white paper, the way a camera does.",
    "setup": [
     {
      "art": "A dim room with one bright window, a child across the room holding a sheet of white paper facing it.",
@@ -2086,7 +2086,7 @@
      "what": "Hold hands in a line and march from the floor onto a mattress, straight on and at a slant. Watch the line turn."
     }
    ],
-   "record": "Draw the line of people from above, before and after the mattress, with arrows showing which way they walked.",
+   "record": "Lay two pencils for the line of people, before and after the mattress, and take a photo. Or draw them from above, with arrows showing which way they walked.",
    "flow": [
     {
      "id": "s1",
@@ -2126,13 +2126,13 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Ask your child to draw the march from above: the floor, the mattress edge, the line before and after, with arrows.",
-     "say": "Let's draw a model of what we did, looking down from the ceiling. Where did the line turn?",
-     "kid": "Draw the march, as if you were a lizard on the ceiling. Draw arrows. Where did the line turn?",
+     "do": "Ask your child to lay one pencil for the march on the floor. Then lay another for the march on the mattress.",
+     "say": "Let's show what we did with two pencils, as if we were looking down from the ceiling. Where did the line turn?",
+     "kid": "Lay one pencil for the march on the floor. Lay another for the march on the mattress.",
      "think": "What do you think would happen if we marched from the mattress back onto the floor, at a slant?"
     }
    ],
-   "context": "This is an act-it-out model of refraction. A line of people marching from a fast floor onto a slow mattress at a slant turns round, just like light turns when it slows down in water.",
+   "context": "You will find out why light turns when it goes into water. This is an act-it-out model of refraction. A line of people marching from a fast floor onto a slow mattress at a slant turns round, just like light turns when it slows down in water.",
    "setup": [
     {
      "art": "Four children holding hands in a line on a tiled floor, facing a mattress at a slant.",
@@ -2176,7 +2176,7 @@
      "what": "Look at words through a round water bottle. Move them back and see which flip and which do not. Try a marble on a newspaper."
     }
    ],
-   "record": "Write which words flipped and which looked the same. Draw a word looking wide through the bottle.",
+   "record": "Write which words flipped and which looked the same. Draw a word looking wide through the bottle, or take a photo of it.",
    "flow": [
     {
      "id": "s1",
@@ -2223,7 +2223,7 @@
      }
     }
    ],
-   "context": "This activity uses a round water bottle and a marble as lenses. Words seen through the bottle stretch, then flip upside down, and some words flip without seeming to change.",
+   "context": "You will find out what a bottle of water does to words, and why some words look the same when they flip. A round water bottle and a marble work as lenses. Words seen through the bottle stretch, then flip upside down.",
    "setup": [
     {
      "art": "A clear water bottle lying on its side on a table, with the word KID on a card behind it, the word looking tall and stretched.",
@@ -2263,7 +2263,7 @@
      "what": "Look at a torch light through the foot of a wine glass and find arcs and rings, like galaxies bent by gravity."
     }
    ],
-   "record": "Draw the rings and arcs you saw. Write: in space, what bends the light instead of glass?",
+   "record": "Draw the rings and arcs you saw, or take a photo of them. Write: in space, what bends the light instead of glass?",
    "flow": [
     {
      "id": "s1",
@@ -2279,7 +2279,7 @@
      "mins": 6,
      "do": "Slowly slide the glass foot sideways across the torch light, and then hold it exactly in line.",
      "say": "When the light is exactly behind the middle of the glass, what shape does it make? And when it is a little to one side?",
-     "kid": "Watch closely. When the light is behind the middle, what shape do you see? And when it is to one side?",
+     "kid": "Watch closely. Slide the glass until the light is behind the middle. Then move it a little to one side.",
      "parent": "Exactly in line, the light spreads into a bright ring. A little to one side, it becomes one or two bright curved arcs. How clear the ring is depends on your glass. If you only see a smudge, go on to the next step. Space telescopes photograph exactly these shapes. They are called Einstein rings and arcs. In space, the 'glass' is the gravity of a huge galaxy or cluster of galaxies, bending light from galaxies far behind it.",
      "adult": true,
      "ask": [
@@ -2312,7 +2312,7 @@
      }
     }
    ],
-   "context": "This activity uses a wine glass foot to make rings and arcs of light, a model of gravitational lenses: places in space where gravity bends the light of far galaxies.",
+   "context": "You will find out how a glass can bend a torch's light into rings and arcs, as gravity does in space. This activity uses a wine glass foot, a model of gravitational lenses: places in space where gravity bends the light of far galaxies.",
    "setup": [
     {
      "art": "A torch lying on a table, shining towards a child two metres away.",
@@ -2380,7 +2380,7 @@
      "what": "Look at onion skin under the drop. Draw what you see and compare it with the magnifying glass."
     }
    ],
-   "record": "Draw a hair and the onion skin as you saw them through the drop. Under each, write which showed more: the tiny drop or the magnifying glass.",
+   "record": "Write what the hair and the onion skin looked like through the drop. Then write which showed more: the tiny drop or the magnifying glass. You can draw them too.",
    "flow": [
     {
      "id": "s1",
@@ -2401,9 +2401,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Sit facing a bright window or a lamp, so light shines through the thing you look at. 2. Hold a hair or a scrap of newspaper under the drop, very close. 3. Bring your eye very close to the drop, from above. 4. Move the hair up and down slowly until it is sharp. 5. Draw what you see.",
+     "do": "1. Sit facing a bright window or a lamp, so light shines through the thing you look at. 2. Hold a hair or a scrap of newspaper under the drop, very close. 3. Bring your eye very close to the drop, from above. 4. Move the hair up and down slowly until it is sharp. 5. Ask your child to say what they see, or to draw it.",
      "say": "Bring your eye right up to the drop. Move the hair slowly until it looks sharp. How big does it look?",
-     "kid": "Put your eye right up to the drop. Move the hair slowly until it is sharp. Draw what you see.",
+     "kid": "Put your eye right up to the drop. Move the hair slowly until it is sharp. Say what you see, or draw it.",
      "parent": "The view is small and wobbly, but strongly magnified. A tiny drop may make things look 5 to 10 times bigger. Patience helps. Rest your elbows on the table.",
      "wait": "Do the next steps tomorrow."
     },
@@ -2442,7 +2442,7 @@
      "parent": "What I think: a tiny drop of water can work as a strong microscope. What I saw: through the drop, a hair looked much thicker, and onion skin looked like tiny bricks. Your view may be small and wobbly, so write what you really saw. Why: the tiny drop is very round, so it bends light sharply, like Leeuwenhoek's glass beads."
     }
    ],
-   "context": "This is a two-day project. You make a tiny microscope from a drop of water in a hole in foil, like the one Antonie van Leeuwenhoek used to see tiny living things.",
+   "context": "You will find out whether a tiny drop of water can show more than a magnifying glass. This is a two-day project. You make a tiny microscope from a drop of water in a hole in foil, like the one Antonie van Leeuwenhoek used to see tiny living things.",
    "setup": [
     {
      "art": "A card strip with a hole covered by foil, and a grown-up's hand pushing a sharp pencil point through the foil to make a small hole.",
@@ -2487,7 +2487,7 @@
     "Try a drop of cooking oil instead of water. Oil bends light a little more than water.",
     "Make a tiny pinhole in a card with a pin, and look at the print through it, very close. It works without bending light. The hole lets through only a thin beam from each letter, so the blur is small and the print looks sharper."
    ],
-   "your_turn": "Now invent your own magnifier. Draw it, and test it on the tiny print. Can you read every word now? Is it better than the others?",
+   "your_turn": "Now invent your own magnifier. Build it from things at home, or draw your plan, and test it on the tiny print. Can you read every word now? Is it better than the others?",
    "flow": [
     {
      "id": "s1",
@@ -2502,7 +2502,7 @@
      "mins": 10,
      "do": "Help your child test the usual ideas: a drop on plastic, a bottle of water, a marble.",
      "say": "Let's test some ideas. Which one makes the letters biggest? Which is easiest for the reader to use?",
-     "kid": "Test a water drop, a bottle and a marble. Which makes letters biggest? Which is easiest to hold?"
+     "kid": "Test a water drop, a bottle and a marble on the tiny print. Compare them."
     },
     {
      "id": "s3",
@@ -2516,7 +2516,7 @@
      "mins": 5,
      "do": "Ask your child which design they would give to the reader, and why.",
      "say": "Which design would you give the reader? Tell me why, using the word bend.",
-     "kid": "Which design would you give the reader? Say why. Use the word 'bend'."
+     "kid": "Pick the design you would give. Say why it works, using the word 'bend'."
     }
    ],
    "context": "This is a design challenge. With no magnifying glass, you make something from home that helps someone read tiny print.",
@@ -2584,7 +2584,7 @@
      "mins": 6,
      "do": "Talk about why the stick missed, then try a usual or a creative idea.",
      "say": "Why do you think you missed? Remember the pencil that looked broken in water. Now try a new way of aiming.",
-     "kid": "Why did you miss? Think of the pencil that looked broken in water. Try a new way. Count your hits again.",
+     "kid": "Think of the pencil that looked broken in water. Try a new way to aim. Count your hits again.",
      "check": {
       "t": "mcq",
       "q": "In Spear the Coin, looking at a slant, where should you aim to hit the coin?",
@@ -2602,10 +2602,10 @@
      "mins": 5,
      "do": "Ask your child which way worked best, and why.",
      "say": "Which way of aiming gave you the most hits? Why do you think it worked?",
-     "kid": "Which way worked best? Why? Use the word 'bend'."
+     "kid": "Pick the way that gave the most hits. Say why, using the word 'bend'."
     }
    ],
-   "context": "This challenge is like spear fishing. You try to touch a coin at the bottom of a bucket of water by aiming a stick at it and pushing it in with your eyes closed, then invent a better way to aim.",
+   "context": "This challenge is like spear fishing. You will find out why a spear aimed straight at a fish misses. You try to touch a coin at the bottom of a bucket of water by aiming a stick at it and pushing it in with your eyes closed, then invent a better way to aim.",
    "setup": [
     {
      "art": "A bucket of water with a coin on the bottom, and a child kneeling to one side, pointing a long wooden spoon at the coin like a spear.",

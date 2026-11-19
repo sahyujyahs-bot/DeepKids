@@ -338,7 +338,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **predict:** Before you start, guess. If the hidden thing is very small, how many of 20 marbles will come back? If it is big, how many? Why do you think so?
 - **fair test:** Roll every marble the same way: from the same edge, at the same gentle speed, at a different spot along the edge each time. Roll 20 marbles each time. Only the hidden thing changes.
 - **safety:** Pick up every marble afterwards, so nobody slips on them. Marbles are a choking risk for children under 3.
-- **record:** Fill in the table for each hidden thing. Draw the card from above, with arrows showing where the marbles went.
+- **record:** Fill in the table for each hidden thing. Draw the card from above, with arrows showing where the marbles went, or tell a grown-up where they went.
 - **results table:** Hidden thing | Marbles rolled | Went straight through | Turned aside | Came back
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the four tumblers on a smooth floor, about 45 cm apart, in a square. 2. While your child looks away, put the upside-down bowl in the middle. 3. Lay the cardboard on top of the tumblers, so it hides the bowl.  
@@ -369,16 +369,16 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **predict:** Guess first. Will the colour spread if nobody stirs it? In which glass will it spread faster: the hot one or the cold one? Why do you think so?
 - **fair test:** Use two glasses of the same size, with the same amount of water. Wait one minute so both are still. Add one drop to each at the same moment, from the same height. Do not stir or bump the table. Only the water's warmth changes.
 - **safety:** A grown-up pours the hot water. Let the kettle water cool for 2 minutes first, so the glass does not crack. Don't touch the hot glass.
-- **record:** Fill in the table. Draw both glasses at 1, 3 and 5 minutes.
+- **record:** Fill in the table. Draw both glasses at 1, 3 and 5 minutes, or use your photos.
 - **results table:** Glass | After 1 minute | After 3 minutes | After 5 minutes
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the two glasses side by side on the white paper, on a table nobody will bump. 2. Fill one with cold water. 3. A grown-up fills the other with hot water to the same level. 4. Wait one minute until both are still.  
   *Parent says:* This glass is cold and this one is hot. We'll wait one minute so the water stops moving.  
   *Child mode:* Put two clear glasses on white paper. A grown-up fills one with hot water. You fill the other with cold. Wait one minute.
 - **s2 (8 min)**  
-  *Parent does:* 1. Hold the food colour just above the water. 2. Drop one drop into each glass at the same moment. 3. Do not stir. 4. Watch and draw at 1, 3 and 5 minutes.  
+  *Parent does:* 1. Hold the food colour just above the water. 2. Drop one drop into each glass at the same moment. 3. Do not stir. 4. Look at 1, 3 and 5 minutes. Take a photo each time.  
   *Parent says:* One drop in each, at the same time. Now hands off the table. What do you see?  
-  *Child mode:* Drop one drop of colour in each glass at the same time. Don't stir! Watch closely and draw what you see.
+  *Child mode:* Drop one drop of colour in each glass at the same time. Don't stir! Watch closely. Take a photo at 1, 3 and 5 minutes.
   - Ask: Nobody is stirring. So what is moving the colour? (good: The water is moving it.; Water molecules are bumping it.)
   - Note: In the hot glass, the colour usually swirls through most of the water within 2 or 3 minutes. In the cold glass, it sinks in a thin stream and is still patchy after 5 minutes. Most of the hot glass's swirling is warm water rising and cooler water sinking. This is called convection. Molecules bumping alone would take hours to colour the glass, but they do blur the colour's edges.
 - **s3 (7 min)**  
@@ -389,7 +389,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 
 ## Activities
 ### a1 · Pencil Dots: draw an electron cloud (15 min)
-- **record:** Count the dots in each ring and write the numbers. Draw a bar for each ring.
+- **record:** Count the dots in each ring and write the numbers. Say which ring had the most dots.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the paper flat on a table, with the target in the middle. 2. Show your child how to lift the pencil to their ear, close their eyes, and dot.  
   *Parent says:* Look at the target. Lift the pencil up to your ear. Close your eyes. Now bring it down and make a dot where you think the target is.  
@@ -400,7 +400,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Child mode:* Make 50 dots. Look, close your eyes, dot. Count out loud as you go.
   - Note: Some dots will land near the target and a few far away. That is good. If a child peeks, it still works, as long as they bring the pencil down from their ear each time.
 - **s3 (4 min)**  
-  *Parent does:* 1. Put the smallest round thing around the target and draw a ring. 2. Use a bigger one for a second ring, and the biggest for a third. 3. Count the dots in each ring. Count dots outside the third ring with the outer ring.  
+  *Parent does:* 1. Put the smallest round thing around the target and draw a ring. 2. Use a bigger one for a second ring, and the biggest for a third. 3. Count the dots in each ring. Count the dots outside the third ring too, as one more group.  
   *Parent says:* Let's draw rings around the target and count. Which ring has the most dots? Where are the dots packed most tightly?  
   *Child mode:* Draw rings with a bangle and a plate. Count the dots in each ring. Where are they packed most tightly?
 - **s4 (3 min)**  
@@ -411,7 +411,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Think: Your dots were spread out because your hand wobbled. An electron's cloud is not caused by wobbling. In quantum physics, the chance is part of nature itself. Does that seem strange to you?
 ### a2 · A Mustard-Seed Atom: a park-sized model (optional, outdoors) (20 min)
 - **safety:** Go outdoors only with a grown-up, and keep away from traffic.
-- **record:** Draw the park, the seed in the middle and the atom's edge. Write how many steps you walked.
+- **record:** Write how many steps you walked. Then tell a grown-up what you could see at the edge, or draw the park, the seed and the atom's edge.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put a mustard seed on a coin in the middle of an open space. 2. Show your child how tiny it is.  
   *Parent says:* This mustard seed is the nucleus, the centre of our atom. It holds nearly all the atom's weight.  
@@ -433,11 +433,11 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Child mode:* Press your hand on the ground. It feels solid. But it is almost all empty space! You feel electrons pushing back.
   - Think: If everything is almost all empty space, what does 'solid' really mean?
 ### a3 · Dots Make Pictures (20 min)
-- **record:** Draw what the photo looked like up close. Make one picture using only dots.
+- **record:** Tell your grown-up what the photo looked like up close. Then make one picture using only dots.
 - **s1 (5 min)**  
   *Parent does:* 1. Look at a colour newspaper photo through the magnifier. 2. No magnifier? Put a drop of water on a clear plastic sheet and hold it just above the photo. The drop works like a small lens.  
   *Parent says:* From far away it looks like a photo. Look closer. What is it really made of?  
-  *Child mode:* Look at a newspaper photo through a magnifier. What do you see up close? Dots!
+  *Child mode:* Look at a newspaper photo through a magnifier. What is it made of?
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts one small drop of water on a white part of a phone screen. 2. Look through the drop from the side and from above. 3. Wipe the screen dry.  
   *Parent says:* Look through the water drop. What colours can you see? A white screen is really made of tiny red, green and blue dots.  
@@ -456,7 +456,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Think: Everything is made of atoms too small to see, a little like your dots. Is the picture in the dots, or in how they are arranged?
 ### a4 · Pushing Without Touching (10 min)
 - **safety:** Pick up every bit of a popped balloon, as it is a choking risk for small children.
-- **record:** Draw the two magnets with arrows showing the push. Write one sentence about how it felt.
+- **record:** Write one sentence about how the push felt. Draw the magnets with arrows if you like.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold one magnet in each hand. 2. Slowly bring the same ends together, north to north. 3. Feel the push before they touch. 4. Turn one around and feel them pull.  
   *Parent says:* Bring them close slowly. Can you feel them pushing? They haven't even touched.  
@@ -491,7 +491,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Think: Right now, molecules from many things around you are floating in the air. What else might you be breathing in?
 ### a6 · Atoms on a Staircase: why salt turns a flame yellow (15 min)
 - **safety:** Only a grown-up lights the stove and sprinkles the salt. The child watches from at least one metre away. Use dry salt only. No gas stove? Skip step 1.
-- **record:** Draw the flame before and after the salt. Draw a staircase with an electron jumping down one step.
+- **record:** Tell a grown-up what colour the flame went. Draw a staircase with an electron jumping down one step, or act it out again.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Optional, only with a gas stove: 1. The child stands at least one metre from the stove. 2. A grown-up lights one burner on low. 3. The grown-up holds a spoon of dry salt high above the flame. 4. They tip it slowly, so a few grains fall in. No gas stove? Skip to step 2.  
   *Parent says:* Watch the blue flame. Now I'm sprinkling a few grains of salt. What colour do you see?  
@@ -512,7 +512,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 ## Projects
 ### p1 · Make an Honest Carbon Atom (50 min, 2 days)
 - **safety:** Small seeds are a choking risk for children under 3.
-- **record:** Draw your model and label the nucleus, protons, neutrons and electron cloud. Write one sentence about what your model gets wrong.
+- **record:** Take a photo of your model and say the names of its parts, or draw it and label them. Write one sentence about what your model gets wrong.
 - **schedule:** day 1: Build the nucleus from 6 tamarind seeds and 6 chana. Leave the glue to dry overnight. (25 min); day 2: Make the electron cloud from cotton and pen dots. Label the model and explain it to someone. (25 min)
 - **s1 (5 min)**  
   *Parent does:* Look at the 'What an atom is made of' card together. Count out 6 tamarind seeds for protons and 6 chana for neutrons.  
@@ -535,7 +535,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Check: Why is our model a cloud, not rings like planets? → **Electrons have no tracks. We can only say where they are likely to be.**
 - **s5 (10 min)**  
   *Parent does:* 1. Label the parts. 2. Ask your child to say what the model gets wrong. 3. Your child explains the model to someone else in the family.  
-  *Parent says:* Every model is wrong somewhere. If our nucleus were this size, how big would the real cloud be?  
+  *Parent says:* Every model is wrong somewhere. In a real atom, the cloud is tens of thousands of times wider than the nucleus. What does our model get wrong?  
   *Child mode:* Label your model. Then think: what does it get wrong? Explain your atom to someone at home.
   - Note: Good answers: the nucleus is far too big for the cloud. If this ball of seeds were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.
   - Think: Scientists use models they know are not quite right. Why might a wrong model still be useful?
@@ -578,8 +578,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Note: Most children can write readable letters about 2 millimetres tall, and some get to 1 millimetre. If you use a needle, the grown-up holds it.
 - **s3 (8 min)**  
   *Parent does:* Compare your smallest letter with atoms.  
-  *Parent says:* Your letter is about 1 or 2 millimetres tall. About 5 million atoms fit across 1 millimetre. How many atoms tall is your letter?  
-  *Child mode:* About 5 million atoms fit across 1 millimetre. Measure your smallest letter. How many atoms tall is it?
+  *Parent says:* Your letter is about 1 or 2 millimetres tall. About 5 million atoms fit across 1 millimetre. Measure yours and work it out.  
+  *Child mode:* About 5 million atoms fit across 1 millimetre. Measure your smallest letter in millimetres. Then work out its height in atoms.
   - Check: A letter is 2 millimetres tall. About 5 million atoms fit across 1 millimetre. About how many atoms tall is the letter? → **About 10 million**
   - Think: The scientists' letters were only a few atoms tall. What could you build if you could move single atoms?
 

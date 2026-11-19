@@ -234,11 +234,11 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards and put them in a pile with the questions facing up.  
   *Parent says:* In this game, the question is always the same. Does the material itself travel, or only the energy?  
-  *Child mode:* For each card, ask: does the material travel, or only the energy?
+  *Child mode:* Sort each card: wave or not a wave.
 - **s2 (3 min)**  
   *Parent does:* Find the river Kaveri card and play it together as a practice.  
   *Parent says:* The river Kaveri flowing to the sea. Is that a wave? What travels, and what stays?  
-  *Child mode:* A river flowing. Does the water travel? Is it a wave?
+  *Child mode:* Think about what travels in a flowing river.
   - Check: The river Kaveri flows to the sea. Is the flowing a wave? → **No, because the water itself travels to the sea**
 - **s3 (8 min)**  
   *Parent does:* Play the game until the pile is gone.  
@@ -247,7 +247,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s4 (2 min)**  
   *Parent does:* Talk about the two 'You decide' cards.  
   *Parent says:* Is a rumour a wave? What travels, and what stays? Does it matter that the rumour can change as it goes?  
-  *Child mode:* Is a rumour a wave? What travels? What stays?
+  *Child mode:* Think about a rumour passing from person to person.
 ### g2 · Crest and Trough (10 min)
 - **rules:** Stand in a line, side by side. One player is the caller. Shuffle the 8 cards.; The caller turns over a card and reads it out.; Everyone does what the card says. For a wave card, each person moves only after the person next to them.; Anyone who moves too early or walks out of their place swaps with the caller.; The game ends when all 8 cards have been played. If nobody had to swap, the whole line wins together.; With only two players, the caller reads the cards. The other player kneels at one end of a row of soft toys and passes each wave along by tipping each toy over, one after another, then standing it up again. The caller swaps in if a toy is tipped too early.
 - **Printable cards: 8 caller cards:** CREST: stand tall on your toes, arms up; TROUGH: crouch down low; FLAT: stand still, arms by your side; WAVE LEFT: pass a crest to the left, one person at a time; WAVE RIGHT: pass a crest to the right; FAST CROWD: pass the wave as fast as you can; SLOW CROWD: count 'one, two' before you move; REFLECT: the last person sends the wave back
@@ -262,7 +262,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s3 (2 min)**  
   *Parent does:* Ask about the game.  
   *Parent says:* Did anybody move along the line? What moved along the line?  
-  *Child mode:* Did you leave your place? What moved along the line?
+  *Child mode:* Think about where you stood, and what moved.
   - Check: In the game, what decided whether the wave was fast or slow? → **How quickly each person moved after the one next to them**
 
 ## Experiments
@@ -280,7 +280,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s2 (3 min)**  
   *Parent does:* 1. Hold the dosa turner upright in the water at one short end. 2. Push it forward about 2 cm, once, quickly. 3. Ask for a guess and a reason before timing anything.  
   *Parent says:* Watch the bump of water run to the far end and come back. Next we will make the water deeper. Do you think the wave will go faster, slower, or the same? Why?  
-  *Child mode:* Push once. Watch the bump go and come back. Will deeper water be faster or slower? Why?
+  *Child mode:* Push once. Watch the bump go and come back.
   - Ask: Why do you think so? (good: Deeper water is heavier, so it will be slower.; There is more water to push the wave, so faster.; The push is the same, so the same speed.)
   - Note: Do not say which is right. Write down the guess and the reason. Slower, faster and the same are all sensible first ideas.
 - **s3 (9 min)**  
@@ -304,7 +304,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **predict:** Guess: if you make waves at one side of the bucket, will the floating puffed rice be carried to the far side? Why do you think so?
 - **fair test:** Use the same bucket and the same grains for both tests. Make the waves by tapping, not by stirring or blowing, because stirring and blowing push the water itself. Then, as a comparison, blow across the water gently through a straw. Watch for one minute each time.
 - **safety:** Keep a small child away from a full bucket of water, and empty it when you finish.
-- **record:** Draw the bucket from above. Mark where the grains started and where they were after one minute of tapping, and after blowing.
+- **record:** Take a photo of the grains at the start, after tapping and after blowing. Or draw the bucket from above and mark where the grains were each time.
 - **results table:** What I did | My guess: will the grains reach the far side? | What the grains did | Did they reach the far side?
 - **s1 (4 min)**  
   *Parent does:* 1. Fill the bucket nearly to the top and let it go still. 2. Float the puffed rice in a small group in the middle. 3. Stick a bit of tape or a bindi on the rim, in line with the grains, as a marker.  
@@ -328,19 +328,19 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
   - Note: Now the grains sail quickly to the far side. Blowing pushes the top of the water along, like wind making a current. That is different from a wave, which passes through the water and leaves it behind.
 - **s5 (4 min)**  
   *Parent does:* Talk about the two tests. Ask your child what crossed the bucket, what they saw that shows it, and why they think so.  
-  *Parent says:* With tapping, the grains stayed. With blowing, they sailed away. What crossed the bucket when you tapped?  
-  *Child mode:* When you tapped, the grains stayed. When you blew, they sailed away. What crossed the bucket when you tapped?
+  *Parent says:* With tapping, the grains stayed. With blowing, they sailed away. So what did the tapping send across the bucket?  
+  *Child mode:* Tapping left the grains in place. Blowing sent them sailing. Think about why.
   - Note: A strong answer: 'The ripples carried the energy, not the water. The grains bobbed up and down but stayed near the middle. When I blew, I pushed the water itself, so the grains moved across.'
   - Check: Ripples crossed the bucket, but the puffed rice stayed near the middle. What did the ripples carry across? → **Energy from your tapping**
 
 ## Activities
 ### a1 · The Dupatta Wave (8 min)
 - **safety:** Tie the end to a door handle that cannot swing shut on a finger, or have a grown-up hold it.
-- **record:** Draw the dupatta with the bump on it. Draw one arrow to show where the bump goes, and another to show where the peg goes.
+- **record:** Tell your grown-up in one sentence what travelled and what stayed. Or draw the dupatta with one arrow for the bump and one for the peg.
 - **s1 (3 min)**  
   *Parent does:* 1. Tie one end of the dupatta to a door handle. 2. Your child holds the other end, with the dupatta a little slack, just above the floor. 3. Your child flicks their hand up and down once, quickly.  
   *Parent says:* Flick your hand once, up and down, fast. What do you see?  
-  *Child mode:* Hold the end. Flick once, up and down, fast. What happens?
+  *Child mode:* Hold the end. Flick once, up and down, fast.
   - Ask: What did you see? (good: A bump ran along to the door.; It came back to me.)
   - Note: A bump runs to the door handle and comes back. Look carefully: if it went out on top, it comes back underneath. A fixed end turns a pulse upside down as it bounces back.
 - **s2 (3 min)**  
@@ -354,7 +354,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
   *Child mode:* The bump reached the door. The peg stayed. What travelled?
   - Think: Something went from your hand to the door, but the cloth stayed. What was it?
 ### a2 · Spring Toy Waves: a push wave and a shake wave (12 min)
-- **record:** Draw the spring with a push wave and with a shake wave. Draw arrows for which way the coils move and which way the wave goes.
+- **record:** Show your grown-up with the spring. For each wave, point to which way the coils move and which way the wave goes. Or draw it with arrows.
 - **s1 (3 min)**  
   *Parent does:* 1. Sit on a smooth floor facing your child, about 2 metres apart. 2. Stretch the spring toy between you, along the floor. 3. Tape a paper tag to one coil near the middle.  
   *Parent says:* Hold your end still. I will send you a wave.  
@@ -362,7 +362,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s2 (4 min)**  
   *Parent does:* 1. Gather a few coils at your end into a squeeze, then let them go. 2. Watch the squeeze run along. 3. Watch the paper tag.  
   *Parent says:* This is a push wave. Watch the tag. Does it go to the other end, or does it move a little and come back?  
-  *Child mode:* Watch the squeeze run along. Watch the tag. Does it travel?
+  *Child mode:* Watch the squeeze run along. Watch the tag.
   - Note: The tag moves forward a little and back, along the length of the spring. The squeeze travels the whole way. Sound travels through air like this, as squeezes passed from one bit of air to the next.
 - **s3 (3 min)**  
   *Parent does:* Flick your end once, quickly, sideways along the floor.  
@@ -375,7 +375,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
   *Child mode:* Your turn. Send a push wave. Then a shake wave.
   - Check: In both waves, where did the paper tag end up? → **Back near where it started**
 ### a3 · The Family Stadium Wave (10 min)
-- **record:** Draw your row of people with the wave halfway along. Write one sentence on what made the wave fast or slow.
+- **record:** Write one sentence on what made the wave fast or slow. Take a photo of your row if you like.
 - **s1 (3 min)**  
   *Parent does:* 1. Sit in a row. 2. Explain the rule: stand up and raise your arms when the person on your left does, then sit down when they sit. 3. The person at the left end starts.  
   *Parent says:* Stand up as soon as you see the person on your left stand. Sit as soon as they sit. Ready? Go!  
@@ -396,20 +396,20 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **record:** Make a list with two columns: 'The wave' and 'What it travels through'.
 - **s1 (4 min)**  
   *Parent does:* 1. Put a little water in a steel plate on a table. 2. Lay the phone flat on the table, touching the side of the plate. 3. Make the phone buzz: ring it from another phone, or set an alarm.  
-  *Parent says:* Watch the water while the phone buzzes. What do you see?  
-  *Child mode:* Watch the water as the phone buzzes. What do you see?
+  *Parent says:* Watch the water while the phone buzzes. Tiny ripples mean a wave is travelling.  
+  *Child mode:* What does the water do?
   - Note: Very fine ripples may appear on the water, because the buzzing shakes the table and the plate. They are faint. Shine a torch across the water at a slant to see them. If you cannot see any, move on: the next step finds waves that are easier to see. Keep the phone out of the water.
 - **s2 (6 min)**  
   *Parent does:* Walk round the home together and find more waves.  
-  *Parent says:* Let's hunt. Look for things that wave, ripple, shake or sound. For each one, ask: what is the wave travelling through?  
-  *Child mode:* Hunt for waves: ripples, shakes and sounds. What does each one travel through?
+  *Parent says:* Let's hunt. Look for things that wave, ripple, shake or sound.  
+  *Child mode:* Find three waves. For each one, ask: what does it travel through?
   - Note: Ideas: ripples when a tap drips into a full bucket, the pressure cooker whistle, a door slamming that shakes the window, a rope or dupatta shaken, light from the window. Light is a wave too, but it can travel through empty space.
 - **s3 (2 min)**  
   *Parent does:* Read the list together.  
-  *Parent says:* Which of your waves travel through water? Air? Something solid?  
-  *Child mode:* Which waves went through water? Air? Something solid?
+  *Parent says:* Read the list together. Which of your waves travel through water? Air? Something solid?  
+  *Child mode:* Sort your waves: water, air or something solid.
 ### a5 · Draw and Label a Wave (10 min)
-- **record:** Your labelled drawing, with the wavelength measured in centimetres.
+- **record:** Your labelled drawing, or a photo of the dupatta with paper slips. Write the wavelength in centimetres.
 - **s1 (3 min)**  
   *Parent does:* Lay the dupatta on the floor in a wavy shape with three crests.  
   *Parent says:* Here is a wave that is standing still, so we can look at it. The tops are called crests. The bottoms are called troughs. The height is how far a crest rises above the flat middle line.  
@@ -419,9 +419,9 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
   *Parent says:* The distance from one crest to the next is called the wavelength. How long is ours?  
   *Child mode:* Measure from one crest to the next. That is the wavelength.
 - **s3 (4 min)**  
-  *Parent does:* Your child draws the wave and labels it.  
-  *Parent says:* Draw our wave. Label a crest, a trough, the wavelength, and the height.  
-  *Child mode:* Draw the wave. Label crest, trough, wavelength and height.
+  *Parent does:* Your child labels the wave. They can draw it, or put paper slips on the dupatta.  
+  *Parent says:* Show me a crest, a trough, the wavelength and the height.  
+  *Child mode:* Label each part. Draw it, or use paper slips on the dupatta.
   - Check: Where is the wavelength of a wave? → **From one crest to the next crest**
 ### a6 · Tap the Water, Tap the Curd (10 min)
 - **problem:** Waves do not behave the same way in every material. In this activity, you tap a bowl of water and a bowl of set curd. You see how long the waves last in each. Scientists use the same idea to learn what is inside the Earth.
@@ -429,7 +429,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s1 (3 min)**  
   *Parent does:* 1. Put the bowls side by side, with the water and the curd both about 3 cm deep. 2. Shine the torch across them at a slant. 3. Ask for a guess.  
   *Parent says:* I will tap each bowl on the side with the spoon. Will the waves look the same in water and in curd? Why do you think so?  
-  *Child mode:* Will the curd make waves like the water? Why do you think so?
+  *Child mode:* Look at both bowls. Guess how their waves will differ.
 - **s2 (4 min)**  
   *Parent does:* 1. Tap the side of the water bowl once, gently. 2. Count how long the ripples last. 3. Do the same with the curd.  
   *Parent says:* Tap. Count how long the waves keep going.  
@@ -444,7 +444,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 ### p1 · The Straw Wave Machine (45 min, 2 days)
 - **problem:** A wave moves along a row of straws, and each straw only turns on the spot. On day 2, you make some straws heavier with dough. You then see that the material a wave travels through sets how fast it goes, as the depth of the water did in the Tray Test.
 - **safety:** A grown-up cuts the cardboard strips if you use them.
-- **record:** Day 1: draw your machine with a wave on it. Day 2: write how the wave changed when it reached the heavy straws.
+- **record:** Day 1: take a photo of your machine with a wave on it, or draw it. Day 2: write how the wave changed when it reached the heavy straws.
 - **schedule:** day 1: Build the machine: stretch tape sticky side up between two chairs, lay straws across it, and send a twist wave along. (25 min); day 2: Add dough to the ends of the straws on one half. Compare how fast the wave crosses each half. (20 min)
 - **s1 (25 min)**  
   *Parent does:* 1. Put two chairs about 1.5 metres apart. 2. Stretch a long strip of tape between them, sticky side up, held down on each chair with books. 3. Lay a straw across the tape every 3 cm, with its middle on the tape. 4. Press a second strip of tape on top to hold them. 5. Turn the first straw at one end a quarter turn and let go.  
@@ -455,7 +455,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s2 (10 min)**  
   *Parent does:* 1. Make pea-sized balls of dough. 2. On one half of the machine, stick a ball on each end of every straw. 3. Send a wave from the light end.  
   *Parent says:* Now half the straws are heavy at the ends. Before you twist, guess. Will the wave speed up, slow down, or stay the same when it reaches the heavy half? Why do you think so?  
-  *Child mode:* Half the straws have dough on their ends. Will the wave change when it reaches them? Why?
+  *Child mode:* Stick dough balls on the ends of half the straws.
   - Wait: Do this on day 2.
 - **s3 (10 min)**  
   *Parent does:* 1. Watch the wave cross from the light half into the heavy half. 2. Time a wave across each half three times.  
@@ -467,7 +467,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 ## Challenges
 ### c1 · Save the Clay Village (30 min)
 - **problem:** Make a small village of clay or paper houses at one end of a tray of water. Waves from a dosa turner at the other end knock them over. Design something that protects the village.
-- **your turn:** Now design your own wave guard. Draw it first, build it, and test it with three waves. Then make it better and test again.
+- **your turn:** Now design your own wave guard. Say or draw your plan first, then build it and test it with three waves. Then make it better and test again.
 - **constraints:** Use only things from home.; Leave a gap at least 3 cm wide so a paper boat could still reach the village.; Push the waves the same way for every test.
 - **general:** A solid wall across the tray, with a gap for boats. Walls like this are called breakwaters. They protect the harbours in Chennai and Visakhapatnam. The tetrapods along Marine Drive in Mumbai protect the shore in the same way.; A sloping beach at the village end, made from a folded wet towel. Waves lose their energy running up a slope instead of crashing.
 - **creative:** A forest of toothpicks stuck in a strip of dough, like the mangrove forests of the Sundarbans.; A row of sponge pieces that soak up the wave's energy.; A floating line of bottle caps tied with thread.
@@ -477,9 +477,9 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
   *Child mode:* Build three houses. Send three waves. How many fall?
   - Note: If no house falls, make the houses from folded paper, or stand them closer to the water. Then keep the same houses for every test.
 - **s2 (5 min)**  
-  *Parent does:* Draw two ideas for a wave guard.  
-  *Parent says:* A wave carries energy. How could we stop that energy before it reaches the houses? Draw two ideas.  
-  *Child mode:* How can you stop the wave's energy? Draw two ideas.
+  *Parent does:* Think of two ideas for a wave guard. Draw them, or say them aloud.  
+  *Parent says:* A wave carries energy. How could we stop that energy before it reaches the houses? Tell me two ideas.  
+  *Child mode:* Think of two ways to stop the wave's energy. Draw them or say them.
 - **s3 (15 min)**  
   *Parent does:* Build one idea and test it with three waves. Then improve it and test again.  
   *Parent says:* Build it. Test it the same way: same turner, same push. Did fewer houses fall?  
@@ -487,7 +487,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s4 (5 min)**  
   *Parent does:* Compare the ideas.  
   *Parent says:* Which guard worked best? Why do you think it took away the wave's energy?  
-  *Child mode:* Which guard worked best? Why?
+  *Child mode:* Pick the best guard. Say why.
   - Note: Good answers mention blocking the wave, making it break on a slope, or spreading its energy out. Real engineers argue about whether mangrove forests protect coasts from big tsunamis. They do calm everyday waves.
 ### c2 · A Message Along the Dupatta (20 min)
 - **problem:** Your partner is at the door holding the far end of a dupatta, with eyes closed. Send them a message using only waves along the cloth.
@@ -496,9 +496,9 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **general:** One bump means yes, two bumps mean no.; A big bump and a small bump mean different things.
 - **creative:** A fast row of small bumps means 'come here'.; A long, slow wave means 'wait'.
 - **s1 (5 min)**  
-  *Parent does:* Make a code with your child for the four messages.  
+  *Parent does:* Make a code with your child for four messages, such as Yes, No, Come here and Stop.  
   *Parent says:* A wave can carry energy, so it can carry a message. How can we make four messages that feel different?  
-  *Child mode:* Make a wave code. Four messages. Each must feel different.
+  *Child mode:* Make four wave messages. Each one must feel different.
 - **s2 (10 min)**  
   *Parent does:* Take turns sending messages. The receiver keeps eyes closed and says the message.  
   *Parent says:* Close your eyes. Hold the end loosely. What am I saying?  
@@ -506,7 +506,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 - **s3 (5 min)**  
   *Parent does:* Talk about which messages worked.  
   *Parent says:* The message reached the door, but did any of the cloth from my hand get there?  
-  *Child mode:* The message reached the door. Did the cloth travel?
+  *Child mode:* Think about the cloth. Did it travel, or only the wave?
   - Note: No cloth moved from one end to the other, yet the message arrived. Phones send messages on radio waves in a similar way: the pattern of the wave carries the message.
 
 ## Worksheets

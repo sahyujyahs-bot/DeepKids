@@ -226,7 +226,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 - **s2 (3 min)**  
   *Parent does:* Play the card 'Ordinary sunglasses' together as a practice round, then lay it on NOT SAFE. It scores no points.  
   *Parent says:* This is a practice card: ordinary sunglasses. Let's see whether they are safe.  
-  *Child mode:* This is a practice card: ordinary sunglasses. Is it safe or not safe to look at the Sun through them?
+  *Child mode:* Think about this practice card, then choose your answer.
   - Check: Is it safe to look at the Sun through ordinary sunglasses? → **No, they still let through far too much light**
 - **s3 (8 min)**  
   *Parent does:* Take turns to sort the other 19 cards, giving a reason each time.  
@@ -246,7 +246,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 - **s1 (3 min)**  
   *Parent does:* Set up the board. Put every sunbeam on square 0.  
   *Parent says:* You are each a bit of the Sun's energy, just made in the core. The inside of the Sun is crowded, so you will get bumped back. Space is empty, so you will speed along.  
-  *Child mode:* You are a sunbeam in the Sun's core. Get out of the Sun and race to the Earth!
+  *Child mode:* Put your sunbeam on square 0. Be the first to reach the Earth!
 - **s2 (14 min)**  
   *Parent does:* Play the game, taking turns.  
   *Parent says:* Read the card, answer, and roll. Watch out for the bump squares inside the Sun.  
@@ -334,7 +334,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say three things: what they think now, what they saw, and why it happened.  
   *Parent says:* Tell me what you think now, what you saw, and why it happened.  
-  *Child mode:* Say three things: what you think now, what you saw, and why it happened.
+  *Child mode:* Look at the two plates once more. Then tell your grown-up, in your own words, what happened.
   - Note: A good answer: black paper takes in more sunlight than white paper. My ice on black melted in 18 minutes and the ice on white in 27 minutes, and the black paper felt warmer. The black paper absorbed the light and it turned into heat, which melted the ice.
   - Think: Why do people in hot places often paint their roofs white?
 
@@ -346,16 +346,16 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
   *Parent does:* 1. Find a patch of sunlight on the floor. 2. Stand in it with your back to the window for one minute. 3. Step into the shade next to it for one minute.  
   *Parent says:* Stand in the sunlight with your back to the window. Wait a minute. Now step into the shade. What do you notice?  
   *Child mode:* Stand in the sunlight, with your back to the window. Count to 60. Then step into the shade and count to 60 again.
-  - Ask: Where did you feel warmer? Which part of you felt it most? (good: In the sunlight, on my back.; On my hair, because it is dark.)
+  - Ask: Where did you feel warmer, in the sun or in the shade? (good: In the sunlight, on my back.; On my hair, because it is dark.)
 - **s2 (2 min)**  
   *Parent does:* Put your palm flat on the floor, first in the sunny patch, then in the shade.  
   *Parent says:* Now feel the floor in both places. Which is warmer? This sunlight travelled 150 million kilometres from the Sun to get here.  
   *Child mode:* Put your hand flat on the sunny floor. Then put it on the shady floor.
   - Check: The sunny floor is warmer than the shady floor. Where was the warmth made? → **In the floor, when it absorbed the sunlight**
 - **s3 (1 min)**  
-  *Parent does:* Leave your child with a question.  
+  *Parent does:* Ask your child this question. Do not answer it yet. The next activity finds out.  
   *Parent says:* The sunlight felt gentle on your back. Could the same sunlight ever be strong enough to burn paper? We will find out.  
-  *Child mode:* Keep this question in your head until the next activity: could sunlight ever burn paper?
+  *Child mode:* Guess yes or no. Tell your grown-up why you think so.
   - Think: Have you seen a magnifying glass make a small, bright spot? Guess what it does to the sunlight that falls on it, and why that might burn paper.
 ### a2 · The Mirror Sun: a safe picture of the Sun on your wall (20 min)
 - **problem:** You must never look straight at the Sun. But a covered mirror can make a picture of the Sun on a wall, and you can look at that picture for as long as you like. In this activity, you make the picture and measure it.
@@ -373,13 +373,13 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
   - Check: The hole in the paper is square, but the spot on the far wall is round. Why? → **The spot is a picture of the round Sun**
 - **s3 (6 min)**  
   *Parent does:* 1. Measure the width of the round spot on the wall with a ruler. 2. Measure the distance from the mirror to the wall with the tape. 3. Write both numbers down in centimetres.  
-  *Parent says:* Let's measure the spot, and how far it is from the mirror. The spot is a picture of the Sun. Measuring it helps us see how far away the Sun is, compared with how wide it is.  
+  *Parent says:* Let's measure the spot, and how far it is from the mirror. The spot is a picture of the Sun, so we are measuring the Sun's picture.  
   *Child mode:* Measure how wide the round spot is. Then measure from the mirror to the wall. Write both numbers.
   - Note: On a wall 500 cm away, the spot is about 5 cm wide. On a wall 300 cm away it is about 3 cm. Take away the width of the hole, 0.5 cm, from the width of the spot. Then divide the distance by what is left. You should get roughly 100. That means the Sun is about 100 times further away than it is wide. The real number is about 108.
 - **s4 (4 min)**  
   *Parent does:* Ask your child to look at the spot for as long as they like, and say what they notice.  
-  *Parent says:* This spot is the real Sun's light, and it is safe to look at, because it is on a wall. What do you notice? Is it white or yellow?  
-  *Child mode:* You can look at this Sun as long as you like. Is it white or yellow? Does it wobble?
+  *Parent says:* This spot is the real Sun's light, and it is safe to look at, because it is on a wall. What do you notice?  
+  *Child mode:* Look closely at the spot on the wall. Is it white or yellow? Does it wobble?
   - Note: The spot usually looks white, which is the Sun's real colour. It wobbles if the mirror moves. Even large sunspots are too small to see with a hole this small.
   - Think: Why is this picture safe to look at, when the real Sun is not?
 ### a3 · What Has the Sun Changed? A home hunt (12 min)
@@ -398,7 +398,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 - **s3 (2 min)**  
   *Parent does:* Count the finds under each heading.  
   *Parent says:* Every one of these needed energy. All of that energy came in through the window as sunlight.  
-  *Child mode:* Count your finds. Every one needed energy. It all came from the Sun.
+  *Child mode:* Count the finds under each heading. Which heading has the most?
   - Check: A poster by the window has gone pale. What made it go pale? → **Sunlight, mostly the ultraviolet light in it**
 ### a4 · The Sunbeam's Long Trip: act it out (10 min)
 - **problem:** Sunlight takes about 8 minutes to cross space. But the energy inside the Sun takes thousands of years to reach the surface. Inside the Sun, the energy is taken in and sent out again in new directions, so it zigzags. In empty space, it goes straight. In this activity, you act out both trips.
@@ -406,7 +406,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 - **s1 (3 min)**  
   *Parent does:* 1. Pile the cushions close together at one end of the room. This is the inside of the Sun. 2. Put the plant, the dark cloth and the white paper at the other end. This is the Earth.  
   *Parent says:* These cushions are the packed insides of the Sun. Over there is the Earth. You are a bit of energy, just made in the Sun's core.  
-  *Child mode:* The cushions are the inside of the Sun. Over there is the Earth. You are a bit of energy from the core!
+  *Child mode:* Look at the pile and at the far end of the room. You are the energy that will travel from one to the other.
 - **s2 (3 min)**  
   *Parent does:* Your child starts in the middle of the cushions. Each time they touch a cushion, they must turn and go a different way. They zigzag until they get out of the pile.  
   *Parent says:* Inside the Sun, you keep getting taken in and sent out again, in a new direction. Bump, turn, bump, turn. It takes many thousands of years to get out.  
@@ -418,7 +418,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
   *Child mode:* Walk straight to the Earth while everyone counts to 8.
 - **s4 (2 min)**  
   *Parent does:* Your child chooses where to land: on the plant, the dark cloth or the white paper. They act out what happens next.  
-  *Parent says:* Where will you land? On the plant, you become the plant's food. On the dark cloth, you turn into heat. What do you think happens on the white paper?  
+  *Parent says:* Where will you land? On the plant, you become the plant's food. On the dark cloth, you turn into heat. On the white paper, something else happens.  
   *Child mode:* Choose where to land. Then act out what happens to you.
   - Check: The sunbeam lands on the white paper. What happens to most of it? → **It is reflected and bounces away**
 
@@ -457,7 +457,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 - **s1 (5 min)**  
   *Parent does:* Get two equal pieces of chocolate and two equal steel bowls ready, and keep the chocolate in the shade until the race.  
   *Parent says:* The chocolate in plain sunshine will be the one to beat. Can we build something that melts chocolate faster, with no flame and no magnifying glass?  
-  *Child mode:* Get two equal pieces of chocolate ready, in the shade. Can you build a box that makes chocolate go soft faster than plain sunshine?
+  *Child mode:* Get two equal pieces of chocolate ready, and keep them in the shade. They must start the same.
 - **s2 (30 min) · grown-up needed**  
   *Parent does:* Build the cooker. Use foil to reflect light in, black paper to absorb it, and plastic to keep the warm air in.  
   *Parent says:* Think about what you have learned. Foil reflects light. Black absorbs it. How can you send more sunlight onto the bowl, and keep the heat in?  
@@ -482,7 +482,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 - **s1 (5 min)**  
   *Parent does:* Read the problem together.  
   *Parent says:* Thirty people want to watch the eclipse, and there is only one pair of eclipse glasses. How can everyone watch it safely?  
-  *Child mode:* Thirty people want to watch an eclipse. There is one pair of eclipse glasses. How can everyone see safely?
+  *Child mode:* Think about it. How could everyone see the eclipse without looking at the Sun?
 - **s2 (15 min)**  
   *Parent does:* On a sunny day, hold a colander over white paper. Then make the Mirror Sun picture on a wall.  
   *Parent says:* Let's test two ideas today. First, hold the colander in the sun above the paper. What do you see? Then we make the Mirror Sun picture on a wall.  

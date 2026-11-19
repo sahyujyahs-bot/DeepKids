@@ -237,7 +237,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   *Child mode:* Cut out the cards. Mix them up. Share them out.
 - **s2 (10 min)**  
   *Parent does:* Play rounds as in the rules. After each round, ask one question about the cards that were played.  
-  *Parent says:* Jupiter won on width. Is Jupiter also the furthest planet? Which card wins on distance?  
+  *Parent says:* Look at the cards we just played. Is the widest planet also the furthest from the Sun? Which card wins on distance?  
   *Child mode:* Pick width, distance or year. Read your number. Biggest wins!
   - Check: In Planet Top Cards, which card always wins when someone picks 'year'? → **Neptune, because it is furthest from the Sun**
 - **s3 (2 min)**  
@@ -255,8 +255,8 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   *Child mode:* Pick a secret card. Don't show anyone!
 - **s2 (10 min)**  
   *Parent does:* Take turns asking yes-or-no questions and ticking the tally.  
-  *Parent says:* A good first question splits the planets into two equal groups. Which question could do that? Try one.  
-  *Child mode:* Ask yes-or-no questions. Try to split the planets in half each time.
+  *Parent says:* Ask a yes-or-no question about the secret planet. A good one splits the eight planets into two equal groups.  
+  *Child mode:* Ask a yes-or-no question. Listen to the answer, then ask another.
   - Check: Which first question splits the eight planets exactly in half? → **Are you a giant planet?**
 - **s3 (3 min)**  
   *Parent does:* Swap who holds the secret card and play again.  
@@ -286,7 +286,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 - **s3 (2 min)**  
   *Parent does:* Ask your child to guess before you measure anything.  
   *Parent says:* Soon we'll catch the light on squared paper, first 20 cm from the torch and then 40 cm. 40 is twice as far as 20. At 40 cm, will the light cover the same number of squares, twice as many, or four times as many? Why do you think so?  
-  *Child mode:* Guess. At twice as far, will the light cover the same number of squares? Twice as many? Four times as many? Why?
+  *Child mode:* Guess. At twice as far, will the light cover the same number of squares? Twice as many? Four times as many?
   - Ask: Why do you think so? (good: Light spreads out, so it will cover more.; Twice as far, so twice as big.)
   - Note: Most children and many adults guess twice as many. Don't correct the guess. Let the counting answer it.
 - **s4 (6 min)**  
@@ -321,7 +321,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 - **predict:** Guess first. A marble rolls round inside a ring, and then reaches a gap. Will it keep curving round, roll straight out from the middle, or roll straight on the way it was going? Why do you think so?
 - **fair test:** Use the same marble and the same ring every time. Start it in the same place and roll it with about the same speed. Roll it 5 times, because one roll can be a fluke.
 - **safety:** A grown-up does the cutting. Keep marbles away from children under 4, who could choke on them.
-- **record:** Draw the ring from above, and draw the path the marble took after the gap. Write which guess was right.
+- **record:** Write which guess was right. Then draw the path the marble took after the gap, or tell your grown-up what you saw.
 - **results table:** Roll number | Which way did it go? (kept curving, straight out from the middle, straight on)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut away about a quarter of the paper plate's rim, so the ring has a gap. 2. Lay the plate face up in the middle of the newspaper.  
@@ -335,14 +335,14 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   - Ask: Why do you think so? (good: It was going round, so it keeps going round.; Nothing is holding it any more.)
   - Note: Many children, and many adults, guess that it keeps curving. That is a very natural idea. Let the marble answer.
 - **s3 (8 min)**  
-  *Parent does:* 1. Put the marble against the inside of the rim, far from the gap. 2. Flick it along the rim so it rolls fast all the way to the gap. 3. Watch where it goes. 4. When it stops, mark that spot with a pencil. 5. Draw a line from the gap to the mark. 6. Do it 5 times.  
-  *Parent says:* Let's roll it and watch closely. After each roll I'll draw a line from the gap to where it stopped.  
-  *Child mode:* Flick the marble round the inside of the rim. Watch where it goes at the gap. Mark where it stops and draw a line to it. Try 5 times.
+  *Parent does:* 1. Put the marble against the inside of the rim, far from the gap. 2. Flick it along the rim so it rolls fast all the way to the gap. 3. Watch where it goes. 4. When it stops, mark that spot with a pencil dot. 5. Do it 5 times.  
+  *Parent says:* Let's roll it and watch closely. After each roll I'll mark where it stopped.  
+  *Child mode:* Flick the marble round the inside of the rim. Watch where it goes at the gap. Mark where it stops with a pencil dot. Try 5 times.
   - Note: If the marble jumps over the rim, flick it a little more gently. It should roll off in a straight line along the way it was moving at the gap. It does not keep curving, and it does not roll straight out from the middle. The marble slows down on newspaper and its path may bend a little. Judge by the first part of the path, just after the gap.
 - **s4 (3 min)**  
-  *Parent does:* Look at the 5 pencil lines together.  
-  *Parent says:* Look at our lines. Did the marble keep curving, or go straight? So while it was going round, what was making it curve?  
-  *Child mode:* Look at your lines. Did the marble curve or go straight? What made it curve before?
+  *Parent does:* Look at the 5 pencil dots together.  
+  *Parent says:* Look at where the marble stopped each time. Did it keep curving, or go straight? So while it was going round, what was making it curve?  
+  *Child mode:* Look at your dots. Did the marble curve or go straight?
   - Check: While the marble went round, the rim pushed it inwards. What does the same job for the planets? → **The Sun's gravity pulls each planet inwards, so its path keeps curving**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -352,7 +352,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 
 ## Activities
 ### a1 · Planet Line-up: how big is the Earth next to the others? (15 min)
-- **record:** Draw the line-up, with each planet's name and width in centimetres.
+- **record:** Take a photo of the line-up. Then write each planet's name and width in centimetres.
 - **s1 (3 min)**  
   *Parent does:* 1. Roll a ball of dough 1 cm across. 2. Say this is the Earth. 3. Ask your child how big Jupiter would be at this size.  
   *Parent says:* This little ball is our Earth. If the Earth were this big, how big do you think Jupiter would be? As big as a pea? A lemon? A football?  
@@ -375,7 +375,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   - Ask: If the Earth is a ball 1 centimetre wide, the Sun is a ball 109 centimetres wide. About how many Earths would fit in a row across the Sun? (good: About 109, one for every centimetre.; More than a hundred. The Sun is far, far bigger than the Earth.)
 ### a2 · Galileo's Venus Test: a lamp, a ball and two ideas (15 min)
 - **safety:** A lamp bulb can get hot. A grown-up sets it up and keeps fingers off it.
-- **record:** Draw how the ball (Venus) looked when it was nearest you, and how it looked when it was on the far side of the lamp.
+- **record:** Tell your grown-up how the ball (Venus) looked when it was nearest you, and how it looked on the far side of the lamp. You can draw it too.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Put the lamp on a low table or stool. 2. Darken the room. 3. Your child sits on the floor about one and a half metres from the lamp, eyes about level with it.  
   *Parent says:* This lamp is the Sun. You are on the Earth. I will be Venus.  
@@ -383,7 +383,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 - **s2 (5 min)**  
   *Parent does:* 1. Hold the ball at arm's length from the lamp. 2. Walk slowly round the lamp in a circle, keeping the ball level with it. 3. Pause when the ball is nearest your child. 4. Pause again when it is on the far side of the lamp.  
   *Parent says:* Watch the ball as I carry it round the Sun. How much of it is lit? Does it look bigger or smaller?  
-  *Child mode:* Watch the ball. How much is lit? Does it look big or small?
+  *Child mode:* Watch the ball as it goes round the lamp. Look at its shape and its size.
   - Ask: What did the ball look like when it was nearest you? (good: Big, and only a thin crescent was lit.; Mostly dark.)
   - Ask: And when it was on the far side of the lamp? (good: Small, and almost all lit up.)
   - Note: Keep the ball a little to one side when it is behind the lamp, so the lamp does not hide it.
@@ -399,7 +399,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   - Ask: Why did he need a telescope? (good: Venus looks like a dot without one.; The shape is too small to see with just your eyes.)
 ### a3 · Spot a Planet from Your Balcony (15 min)
 - **safety:** On a terrace, a grown-up comes along and everyone stays away from the edge.
-- **record:** Draw what you saw: the planet, anything near it, and which way you were facing.
+- **record:** Tell your grown-up what you saw: which planet, what was near it, and which way you were facing. Or take a photo.
 - **s1 (5 min)**  
   *Parent does:* 1. Open Stellarium Web and let it find your location. 2. Look for Venus, Jupiter, Mars or Saturn above the horizon tonight. 3. Note which direction and how high.  
   *Parent says:* Let's see which planets are up tonight. Venus and Jupiter are the brightest, so they are easiest to see from a city.  
@@ -408,16 +408,16 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* 1. Go to a window, balcony or terrace that faces the direction the sky map showed. 2. Look for a bright dot that shines steadily, without much twinkling. 3. Check it against the map.  
   *Parent says:* Planets shine steadily, while stars twinkle more. Can you find a bright, steady dot?  
-  *Child mode:* Find a bright dot that does not twinkle much. That is a planet!
+  *Child mode:* Find a bright dot that does not twinkle much. Check it on the map.
 - **s3 (3 min)**  
   *Parent does:* Ask your child where the planet's light comes from.  
-  *Parent says:* That planet makes no light of its own. What are we seeing?  
-  *Child mode:* The planet makes no light. So what light are you seeing?
+  *Parent says:* That planet makes no light of its own. Look at it for a moment.  
+  *Child mode:* Look at the planet again. It makes no light of its own.
   - Ask: What light are we seeing? (good: Sunlight bouncing off the planet.; Light from the Sun that hit the planet and came to us.)
   - Note: A good answer: a planet, because the Earth makes no light of its own. It only shines with sunlight bouncing off it, just as the planet you are looking at does. To someone on another planet, the Earth is one more bright dot.
   - Think: Someone standing on that planet could look back and see the Earth as a bright dot too. Would they call the Earth a star or a planet? Why?
 ### a4 · The 3-Metre Solar System (20 min)
-- **record:** Draw the string with the Sun and the eight planets marked, and write each distance in centimetres.
+- **record:** Take a photo of the string with the Sun and the eight planets marked. Then write each distance in centimetres.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the string straight along a corridor or across the hall. 2. Tape the Sun label at one end. 3. Ask your child to guess where the Earth goes, if Neptune is at the far end.  
   *Parent says:* The Sun is here, and Neptune is at the far end, 3 metres away. Where do you think the Earth goes?  
@@ -430,7 +430,7 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 - **s3 (6 min)**  
   *Parent does:* 1. Stand at the Sun end and look along the string. 2. Ask what this means for sunlight.  
   *Parent says:* In the torch test, the light spread out and got dimmer as the paper moved further away. Sunlight spreads out in the same way. Which planets get the most sunlight? Which get almost none?  
-  *Child mode:* In the torch test, the light got dimmer further away. Sunlight does the same. Which planets get lots of sunlight? Which get very little?
+  *Child mode:* Stand at the Sun end and look along the string. Point to planets that get lots of sunlight. Point to planets that get very little.
   - Check: Saturn is about 10 times as far from the Sun as the Earth. How strong is sunlight on Saturn? → **About 100 times weaker**
 ### a5 · How Old Would You Be on Mars? (10 min)
 - **record:** Make a small table: planet, length of its year, and your age there.
@@ -453,15 +453,15 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   *Parent says:* Let's make a guidebook for space travellers. One page for each planet, in order from the Sun.  
   *Child mode:* Fold and staple your booklet. Write one planet name on each page, in order.
 - **s2 (40 min)**  
-  *Parent does:* 1. On each page, write five short lines. The first is how far the planet is from the Sun, compared with the Earth. The second is how wide it is, compared with the Earth. The third is how long its year is. The fourth is how strong its sunlight is, compared with the Earth. To find it, multiply the distance by itself, as in the torch test. The fifth is one thing a visitor would see. 2. Draw the planet.  
+  *Parent does:* 1. On each page, write five short lines. The first is how far the planet is from the Sun, compared with the Earth. The second is how wide it is, compared with the Earth. The third is how long its year is. The fourth is how strong its sunlight is, compared with the Earth. To find it, multiply the distance by itself, as in the torch test. The fifth is one thing a visitor would see. 2. Add a picture of the planet. Draw it, or cut one out of a magazine or a printout.  
   *Parent says:* Use the 3-metre string and the dough planets from the Planet Line-up to help. Jupiter is 5 times as far. 5 times 5 is 25, so sunlight there is 25 times weaker. What would a visitor see on Venus? Thick yellow clouds, and terrible heat.  
-  *Child mode:* Write five facts on each page. How far. How wide. How long a year. How weak the sunlight is. What a visitor sees. Then draw it.
+  *Child mode:* Write five facts on each page. How far. How wide. How long a year. How weak the sunlight is. What a visitor sees. Then add a picture: draw it, or cut one out.
   - Note: For the strength of sunlight compared with the Earth, use these: about 7 times stronger for Mercury, 2 times stronger for Venus, half as strong for Mars, 25 times weaker for Jupiter, 100 times weaker for Saturn, 400 times weaker for Uranus and 900 times weaker for Neptune. These are rounded.
   - Wait: Do three planets a day, over three days.
 - **s3 (15 min)**  
   *Parent does:* 1. Add a last page: 'Why I'm glad I live on the Earth'. 2. Your child reads the guidebook aloud to someone at home.  
   *Parent says:* Now the last page. After visiting all eight, why are you glad to live on the Earth?  
-  *Child mode:* Write the last page. Why are you glad to live on the Earth? Read your book to someone.
+  *Child mode:* Write the last page. Then read your book to someone at home.
   - Ask: Why is the Earth a good place to live? (good: It has liquid water.; It is not too hot or too cold.; It has air we can breathe.)
 
 ## Challenges
@@ -482,8 +482,8 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   - Note: Mars is about one and a half times as far, and one and a half times one and a half is about 2. Saturn is about 10 times as far (9 and a half, rounded), so about 100 squares.
 - **s3 (8 min)**  
   *Parent does:* Ask your child to show the folded panels and explain the plan.  
-  *Parent says:* Show me how your Saturn panel opens out. Why does it need to be so big?  
-  *Child mode:* Show your folded panel. Open it out. Say why it is so big.
+  *Parent says:* Show me how your Saturn panel opens out.  
+  *Child mode:* Show your folded panel. Then open it out.
   - Ask: Why can't one square of panel work at Saturn? (good: Sunlight is about 100 times weaker there.; The light is spread out over many more squares.)
 ### c2 · Keep an Ice Cube Cool in the Sunshine (if you have a sunny windowsill or balcony) (30 min)
 - **problem:** A spacecraft flying close to the Sun gets very hot. Design a sunshade that keeps an ice cube from melting in strong sunlight for as long as possible.
@@ -492,18 +492,18 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 - **general:** Hold a piece of card between the Sun and the ice cube, so it sits in shadow.; Cover the side of the card that faces the Sun with white paper or foil, so it bounces back sunlight.; Leave a gap of air between the shade and the ice cube.
 - **creative:** Use two layers of card with an air gap between them.; Tilt the shade so it bounces sunlight away rather than soaking it up.; The Parker Solar Probe, launched in 2018, flies closer to the Sun than any spacecraft before it. Its heat shield has a white front facing the Sun, so it bounces sunlight away, as the white side of your shade does. The instruments sit in the shield's shadow.
 - **s1 (5 min)**  
-  *Parent does:* 1. Put two ice cubes of the same size on two saucers. 2. Put both in the same sunny spot. 3. Ask your child to guess how much longer a shaded one will last.  
-  *Parent says:* Close to the Sun, spacecraft get hotter and hotter. Let's see if we can protect an ice cube. Which will melt first?  
-  *Child mode:* Put two ice cubes in the sun. Guess which will melt first, and why.
+  *Parent does:* 1. Put two ice cubes of the same size on two saucers, indoors in the shade for now. 2. Say you will build a shade for one of them. 3. Ask your child which will melt first, and why.  
+  *Parent says:* Close to the Sun, spacecraft get hotter and hotter. We will try to protect one ice cube with a shade. Which will melt first, the shaded one or the other?  
+  *Child mode:* Guess which ice cube will melt first, and why.
 - **s2 (20 min)**  
-  *Parent does:* 1. Build a shade from card and foil or white paper over one ice cube, not touching it. 2. Check both every 5 minutes for up to 20 minutes. 3. Write down when each one has melted, or 'still ice at 20 minutes'.  
+  *Parent does:* 1. Build a shade from card and foil or white paper to stand over one ice cube, not touching it. 2. Put both saucers in the same sunny spot, one under the shade. 3. Check both every 5 minutes for up to 20 minutes. 4. Write down when each one has melted, or 'still ice at 20 minutes'.  
   *Parent says:* Let's build our shade. The shiny or white side faces the Sun. Then we check every 5 minutes.  
   *Child mode:* Build a shade over one ice cube. Don't touch the ice. Check every 5 minutes.
   - Note: On a hot afternoon, the bare ice cube may melt in about 15 to 30 minutes. Warm air melts both cubes, so the shade slows the melting but does not stop it. Look at which lasts longer, and by how much. If the sun goes behind a cloud, keep going, because both cubes are in the same light. If there is no direct sun today, try another day.
 - **s3 (5 min)**  
   *Parent does:* Talk about the results.  
-  *Parent says:* Which one lasted longer? Why does the shade work? What does this tell us about Mercury, so close to the Sun?  
-  *Child mode:* Which ice cube lasted longer? Why? What would happen on Mercury?
+  *Parent says:* Which one lasted longer? What does this tell us about Mercury, so close to the Sun?  
+  *Child mode:* Which ice cube lasted longer? What would happen to ice on Mercury?
   - Ask: Why did the shaded ice cube last longer? (good: The shade stopped the sunlight reaching it.; The white side bounced sunlight away.)
 
 ## Worksheets

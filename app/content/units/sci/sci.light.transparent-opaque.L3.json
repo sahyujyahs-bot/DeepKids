@@ -594,7 +594,7 @@
      "mins": 2,
      "do": "1. Lay the three mats on the floor. 2. Shuffle the 24 job cards and put them face down. 3. Put the 24 lamp tokens in a bowl.",
      "say": "Every card is a job. For each job, we choose a material. Should it be transparent, so we see straight through? Translucent, so light comes in but no picture? Or opaque, so no light gets through?",
-     "kid": "Put out the three mats. Mix up the cards. For each job, pick a mat.",
+     "kid": "Look at the three mats. For each job card, you pick the mat that fits.",
      "context": "This is the first step of Clear, Cloudy or Blocked?, a card game about choosing materials for jobs. Here you set up the game."
     },
     {
@@ -602,7 +602,7 @@
      "mins": 3,
      "do": "Find the card 'A bathroom window'. Play it together as a practice round, then shuffle it back into the pile.",
      "say": "Let's practise with one card. 'A bathroom window.' Which mat does it go on?",
-     "kid": "Practice card: a bathroom window. Clear, cloudy or blocked? Say your answer.",
+     "kid": "Read the practice card: a bathroom window. Put it on the mat you choose.",
      "ask": [
       {
        "q": "Why not clear glass?",
@@ -744,7 +744,7 @@
      "mins": 6,
      "do": "1. Take a card, then hold up that thing. 2. Let the guessers shout their guesses. 3. Show each object after the guess. 4. Mark the score sheet.",
      "say": "What is it? And is its shadow dark, pale or almost none?",
-     "kid": "What is it? Is the shadow dark, pale or hardly there? Say both.",
+     "kid": "Look at the shadow on the sheet. Say what you think it is, and how dark it is.",
      "ask": [
       {
        "q": "Why does the glass of water make a pale shadow with a bright line in it?",
@@ -825,7 +825,7 @@
      "what": "Guess the order. Test each material 3 times. Write down the gaps. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart, with one bar for each material. Make each bar as tall as its middle gap.",
+   "record": "Fill in the table. Then make a bar chart, with one bar for each material. Draw it, or cut paper strips as long as each middle gap.",
    "context": "This is the gap test. You lay a material flat on a card of big letters, then slowly lift it. You measure how high you can lift it before the words blur. The higher you can lift it, the more see-through it is.",
    "example_chart": {
     "type": "bar",
@@ -944,7 +944,7 @@
      "mins": 5,
      "do": "Help your child draw a bar chart of the middle values, with one bar for each material.",
      "say": "Let's turn the numbers into a picture. Each material gets a bar. The taller the bar, the higher we could lift it before the word blurred.",
-     "kid": "Draw one bar for each material. Make it as tall as its middle number. Taller means more see-through.",
+     "kid": "Draw one bar for each material, as tall as its middle number. Or cut a paper strip that many centimetres long. Taller means more see-through.",
      "check": {
       "t": "mcq",
       "q": "In the gap test, the plastic bag could be lifted 6 cm and the tissue only 1 cm. Which is more see-through?",
@@ -996,7 +996,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Sort the five materials into transparent, translucent and opaque, using the results.",
-     "say": "Which material never blurred? That one is transparent. Which ones let light through but lost the word? Those are translucent. We tested nothing opaque. What could we add?",
+     "say": "Sort the five materials into transparent and translucent. We tested nothing opaque. What could we add?",
      "parent": "Something opaque to add would be a steel plate, a piece of card or a wooden board. The word would vanish even when the material touches the card, because no light gets through.",
      "kid": "Which one never blurred? That is transparent. Which let light through but lost the word? Those are translucent.",
      "think": "Butter paper let you read the word when it touched the card. Is butter paper transparent or translucent? Use what you found when you lifted it.",
@@ -1060,7 +1060,7 @@
     }
    ],
    "record": "Fill in the table with a score for each spot. 0 means you see nothing of the print. 1 means grey smudges where the print is. 2 means you see the shapes of words but cannot read them. 3 means you can read the words.",
-   "context": "In this experiment you put a drop of water and a drop of oil on plain paper. Then you see whether each spot turns more see-through, and whether it stays that way.",
+   "context": "In this experiment you put a drop of water and a drop of oil on plain paper. You will find out why an oily spot from a bajji makes newspaper clear, and whether it stays that way.",
    "setup": [
     {
      "art": "A sheet of white paper with three pencil circles labelled DRY, WATER and OIL.",
@@ -1124,8 +1124,8 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Lay the paper over the newspaper again. 2. Score each circle again. 3. Compare with the first scores.",
-     "say": "Look again. Which spot changed? Did the water spot go back to white? Why do you think so?",
-     "kid": "Score each circle again. Which one changed? Why?",
+     "say": "Look again. Which spot changed? Which spot looks the same as before?",
+     "kid": "Score each circle again. Compare with your first scores.",
      "ask": [
       {
        "q": "If the water spot went back to white, why?",
@@ -1185,7 +1185,7 @@
     }
    ],
    "record": "Write the number of the smallest row you could read, each time.",
-   "context": "In this experiment you read a chart of letters that get smaller and smaller. You read it with and without sunglasses, outside in bright light and inside in a dim room.",
+   "context": "In this experiment you read a chart of letters that get smaller and smaller. You read it with and without sunglasses, outside in bright light and inside in a dim room. You will find out when sunglasses help and when they do not.",
    "setup": [
     {
      "art": "A sheet of white paper with six rows of letters getting smaller, row 1 big and row 6 tiny, numbered down the side.",
@@ -1224,7 +1224,7 @@
      "mins": 6,
      "do": "1. Go into a dim room, with the curtains closed and one small light on. 2. Hold the chart 3 big steps away. 3. Your child reads it without sunglasses, then with.",
      "say": "Now we're inside, where it's dim. Read the smallest row. Now with the sunglasses.",
-     "kid": "Now read the chart in a dim room. Then with sunglasses. Is it harder?",
+     "kid": "Now read the chart in a dim room. Then read it with sunglasses. Write down the smallest row each time.",
      "check": {
       "t": "mcq",
       "q": "In the dim room, the sunglasses made the letters…",
@@ -1283,8 +1283,8 @@
      "what": "Make your fingers glow with a torch. Then hunt the house for transparent, translucent and opaque things."
     }
    ],
-   "record": "Draw your glowing hand. Then list four things you found for each group.",
-   "context": "This is a short activity to start the unit. You make your fingers glow red with a torch, then hunt the house for things that let light through, scatter it or block it.",
+   "record": "Take a photo of your glowing hand, or tell your grown-up what colour it looked. Then say or list four things you found for each group.",
+   "context": "This is a short activity to start the unit. You make your fingers glow red with a torch, then hunt the house for things that let light through, scatter it or block it. You will find out which things in your home are see-through.",
    "setup": [
     {
      "art": "A child in a dark room holding a torch under their fingertips, which glow red.",
@@ -1305,7 +1305,7 @@
      "mins": 4,
      "do": "1. Make a room as dark as you can. 2. Your child presses the front of the torch against the tips of their fingers and switches it on. 3. Ask what they notice.",
      "say": "Look at your fingers. What do you notice? What do you wonder?",
-     "kid": "Make the room dark. Press the torch under your fingertips. Switch it on. What do you see?",
+     "kid": "Make the room dark. Press the torch under your fingertips. Switch it on. Look at your fingers.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1323,7 +1323,7 @@
      "id": "s2",
      "mins": 9,
      "do": "1. Put out the three labelled trays. 2. Your child collects things from around the house. 3. They hold each one up to a window or the torch. 4. They put it on the TRANSPARENT, TRANSLUCENT or OPAQUE tray.",
-     "say": "Find things around the house. Hold each one up to the light. Can you see clearly through it? Then it is transparent. Does light get through, but no clear picture? Then it is translucent. No light at all? Then it is opaque.",
+     "say": "Find things around the house. Hold each one up to the light. Which tray does it go on? Tell me why.",
      "kid": "Find things in the house. Hold each one up to the light. If you can see clearly through it, it is transparent. If light gets through but no clear picture, it is translucent. If no light gets through, it is opaque.",
      "check": {
       "t": "mcq",
@@ -1378,7 +1378,7 @@
      "what": "Look at a pile of sugar. Stir it into water. Watch the white vanish."
     }
    ],
-   "record": "Draw the sugar before, during and after stirring. Draw the tiny pieces you can't see, too.",
+   "record": "Tell your grown-up what the sugar looked like before, during and after stirring. Then say where you think the sugar went.",
    "context": "In this activity you stir white sugar into water and watch it vanish. It shows why piles of tiny grains look white, but the same sugar dissolved is clear.",
    "setup": [
     {
@@ -1400,7 +1400,7 @@
      "mins": 3,
      "do": "1. Put a little pile of sugar on the dark plate. 2. Look at one grain closely. 3. Then look at the whole pile.",
      "say": "Look at one grain of sugar. It's almost clear, like a tiny bit of glass. So why is the pile white?",
-     "kid": "Look at one sugar grain. It is almost clear. But the pile is white. Why?",
+     "kid": "Look at one sugar grain, then at the whole pile. What colour is each?",
      "context": "This is the first step of the sugar activity. You look at sugar grains and wonder why a pile of clear grains looks white."
     },
     {
@@ -1474,7 +1474,7 @@
      "what": "Compare the two pieces of ice. Look for bubbles. Crush some ice and see it turn white."
     }
    ],
-   "record": "Draw both pieces of ice. Mark where the cloudy parts are. Draw the crushed ice too.",
+   "record": "Take a photo of both pieces of ice, and of the crushed ice. Point to where the cloudy parts are, and tell your grown-up which piece was clearer.",
    "context": "In this 2-day activity you freeze two bowls of water and see why ice is sometimes clear and sometimes cloudy. Then you crush ice and watch it turn white.",
    "setup": [
     {
@@ -1564,7 +1564,7 @@
      "what": "In the evening, switch the lights round so the other room is the bright one. Look again. Then hang a thick quilt."
     }
    ],
-   "record": "Draw the curtain four times: daytime seen from the dim room, daytime seen from the bright room, evening seen from the room that is now dark, and with the thick quilt.",
+   "record": "For each of the four turns, say who could see whom: daytime from the dim room, daytime from the bright room, evening from the dark room, and with the thick quilt. Write one word each time: seen or hidden.",
    "context": "In this 2-day activity you hang a thin curtain in a doorway between a bright room and a dim room. You find out that it hides whoever is on the dim side, and shows whoever is on the bright side.",
    "setup": [
     {
@@ -1651,7 +1651,7 @@
      "what": "Act out light going through glass, being scattered by butter paper, and being stopped by a steel plate."
     }
    ],
-   "record": "Draw yourself as light, going into each material.",
+   "record": "Tell a grown-up what the light did in glass, in butter paper and at the steel plate. Or act all three once more for someone.",
    "context": "In this drama activity, one person acts as light and the others act as the atoms or threads of a material. You act out what happens in transparent, translucent and opaque materials. With two of you, one person is the light and the other stands in for all the atoms.",
    "setup": [
     {
@@ -1673,7 +1673,7 @@
      "mins": 5,
      "do": "1. Hold up the GLASS sign. 2. One person is the 'light'. Everyone else is an 'atom' and stands still, a step apart, with arms folded. If there are only two of you, one atom is enough: the light walks past it again and again. 3. The light walks straight past the atoms from one side of the room to the other.",
      "say": "This is glass. Its atoms cannot catch the light we see, so they keep their arms folded. The light walks straight through. Where does it come out?",
-     "kid": "You are light. Walk straight through the glass atoms. Don't turn. Where do you come out?",
+     "kid": "You are light. Walk straight through the glass atoms. Don't turn.",
      "context": "This is the first step of the Light Party drama. You act out light going straight through glass.",
      "parent": "The gaps between the people are only there so the 'light' can walk through. Real glass has no holes. Its atoms simply cannot absorb the light we see."
     },
@@ -1738,7 +1738,7 @@
      "what": "In a dark room, shine a torch at a wall. Make the animals from a 1930 chart with your hands. Then invent one of your own."
     }
    ],
-   "record": "Draw the outline of the shadow animal you invented. Write one sentence on why your hand made a dark shape.",
+   "record": "Take a photo of the shadow animal you invented, or draw the outline. Say one sentence on why your hand made a dark shape.",
    "context": "In this activity you make shadow animals on a wall with your hands and a torch. The picture shows how to hold your hands. It is a page from an American magazine, Modern Mechanics and Inventions, printed in January 1930. Your hand is opaque, so it blocks the light, and a dark shape with your hand's outline falls on the wall. India has its own shadow-puppet plays too: tholu bommalata in Andhra Pradesh and ravana chhaya in Odisha.",
    "setup": [
     {
@@ -1792,7 +1792,7 @@
      "mins": 5,
      "do": "1. Your child invents an animal that is not on the chart. A peacock, a cow, a crab or a lizard all work. 2. You guess what it is. 3. Then ask why the hand makes a dark shape with that outline.",
      "say": "Invent an animal that is not on the chart. I will guess what it is. Then tell me why the shadow is dark. Why does it have the outline of your hand?",
-     "kid": "Invent your own shadow animal. Let me guess. Why is the shadow dark?",
+     "kid": "Invent your own shadow animal. Let your grown-up guess what it is.",
      "check": {
       "t": "mcq",
       "q": "You hold your hand between a torch and a wall. Why is there a dark shape on the wall?",
@@ -1863,8 +1863,8 @@
      "what": "Let the glue dry. Put the LED light inside in a dark room. Compare the light from each side on the wall."
     }
    ],
-   "record": "Draw what each side of the lantern shows on the wall. Label it transparent, translucent or opaque with holes.",
-   "context": "In this 2-day project you build a lantern, like a Diwali kandil, with a different material on each side. Then you light it with an LED and see how each material changes the light on the wall.",
+   "record": "Take a photo of the wall light from each side, or describe it in words. Then label each side: transparent, translucent or opaque with holes.",
+   "context": "In this 2-day project you build a lantern, like a Diwali kandil, with windows of clear plastic, butter paper and a card with holes. Then you light it with an LED. You will find out which window gives the softest light on the wall.",
    "setup": [
     {
      "art": "A flat cut-out card shape for a box with four square windows, on a table with scissors and glue.",
@@ -1923,7 +1923,7 @@
      "mins": 10,
      "do": "Talk about where each kind of light is useful at home.",
      "say": "Which side would you want for reading? For a baby's night light? For a party?",
-     "kid": "Which side is best for reading? For a sleepy baby? For a party?",
+     "kid": "Pick a side for reading, a baby's night, and a party.",
      "parent": "Good answers: clear for bright reading light, butter paper for a soft night light, the jaali for a pretty pattern. Some children want to make the lantern with all translucent sides next.",
      "context": "This is the last step of the lantern project. You decide which kind of light suits which job."
     }
@@ -1956,9 +1956,9 @@
     "Shake it and listen. Does a full bottle sound different from a half-full one?",
     "If you have a kitchen scale, weigh the bottle. A fuller bottle is heavier."
    ],
-   "your_turn": "Now invent your own container. Draw it, build it, and do the torch test in the dark. Can a friend tell how full it is without opening it?",
+   "your_turn": "Now invent your own container. Plan it, build it, and do the torch test in the dark. Can a friend tell how full it is without opening it?",
    "mins": 30,
-   "context": "This is an engineering challenge. You must make a container that is opaque to keep light out, but still lets you check what is inside.",
+   "context": "This is an engineering challenge. Some medicines and milk spoil in light. You must make a container that is opaque to keep light out, but still lets you check what is inside.",
    "setup": [
     {
      "art": "A clear plastic bottle half full of water on a table, beside black paper, foil and tape.",
@@ -1979,15 +1979,15 @@
      "mins": 5,
      "do": "Read the problem together. Look at a medicine bottle or milk packet at home.",
      "say": "Why do you think this medicine bottle is brown, and this milk packet is not see-through?",
-     "kid": "Look at a medicine bottle or a milk packet. Is it see-through? Why not?",
+     "kid": "Look at a medicine bottle or a milk packet. Can you see through it?",
      "context": "This is the first step of the light-proof container challenge. You find out why some containers are not see-through."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Your child draws a design. 2. They build it from the materials. 3. Fill the bottle halfway with water.",
-     "say": "Draw your idea first. How will you keep the light out? How will you check how full it is?",
-     "kid": "Draw your idea. Build it. Keep light out. Find a way to check how full it is.",
+     "do": "1. Your child plans a design, by sketching it or by laying the materials out on the table. 2. They build it. 3. Fill the bottle halfway with water.",
+     "say": "Plan your idea first. How will you keep the light out? How will you check how full it is?",
+     "kid": "Plan your idea, with a sketch or with the materials on the table. Then build it.",
      "context": "This step of the container challenge is for designing and building."
     },
     {
@@ -1995,8 +1995,8 @@
      "mins": 7,
      "adult": true,
      "do": "1. Make the room dark. 2. Take the lid off. 3. Shine the torch on the covered side, all the way round. 4. Your child looks in through the mouth for any light getting in.",
-     "say": "Is any light getting in? Where? How could you fix it?",
-     "kid": "In the dark, a grown-up shines a torch on the bottle. Look inside. Any light?",
+     "say": "Look through the mouth. Where is light getting in? How could you fix it?",
+     "kid": "In the dark, a grown-up shines a torch on the bottle. Look inside the bottle.",
      "check": {
       "t": "mcq",
       "q": "Light gets in where two pieces of black paper meet. What is the best fix?",
@@ -2047,7 +2047,7 @@
    ],
    "your_turn": "Now invent your own shade. Test it from across the room in the dark. Can you see the bright point? Can you see the door?",
    "mins": 30,
-   "context": "This is a design challenge. You must use translucent materials to make a soft night-light, with no bright point that hurts the eyes.",
+   "context": "This is a design challenge. You will find out which translucent cover makes the softest night-light, with no bright point that hurts the eyes.",
    "setup": [
     {
      "art": "An LED tealight glowing alone on a shelf in a dark room, with a harsh bright point.",
@@ -2076,7 +2076,7 @@
      "mins": 15,
      "do": "1. Your child tries covering the LED with each material. 2. For each one, they check from across the room. 3. They pick the best and improve it.",
      "say": "Try each material over the light. Which hides the bright point but still lights the room?",
-     "kid": "Try each cover. Check from across the room. Which hides the bright point?",
+     "kid": "Cover the light with each material in turn. Stand across the room each time.",
      "check": {
       "t": "mcq",
       "q": "Which cover will best hide the bright point but still let light out?",

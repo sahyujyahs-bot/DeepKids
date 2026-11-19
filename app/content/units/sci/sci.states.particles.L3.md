@@ -198,11 +198,11 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s2 (3 min)**  
   *Parent does:* Play the camphor card together as a practice round. Nobody keeps it.  
   *Parent says:* Practice card. A camphor tablet left on a plate gets smaller every day. Where did the camphor go?  
-  *Child mode:* Practice card. A camphor tablet gets smaller every day. Where did it go?
+  *Child mode:* Practice card. Read it together, then choose your answer below. Nobody keeps this card.
   - Check: A camphor tablet left on a plate gets smaller every day. Where did the camphor go? → **Into the air, as camphor particles**
 - **s3 (8 min)**  
   *Parent does:* 1. Take turns. 2. Read a card, place it, and give a reason. 3. Turn the card over to check.  
-  *Parent says:* Read your card. Where did it go? Tell us what it broke into.  
+  *Parent says:* Read your card. Where did it go?  
   *Child mode:* Read your card. Put it where it went. Say why. Turn the card over to check.
   - Note: Help your child use the word 'particles' in their reasons, for example 'the sugar broke into particles that spread through the tea'. The chappal and eraser cards are about tiny crumbs, not single particles. That is fine. Crumbs are made of particles too.
 - **s4 (2 min)**  
@@ -223,12 +223,12 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s2 (2 min)**  
   *Parent does:* Ask how many beans touch the water now.  
   *Parent says:* How many beans are on the outside, touching the water? Count them.  
-  *Child mode:* Count the beans on the outside. How many touch the water?
+  *Child mode:* Count the beans on the outside edge. Touch each one as you count.
   - Check: A 5 by 5 square has 25 beans. How many touch the water at the start? → **16**
 - **s3 (8 min)**  
-  *Parent does:* 1. Take turns counting, rolling and taking beans. 2. On a 6, pull the grain apart into pieces.  
+  *Parent does:* 1. Take turns. 2. Count the beans that touch the water. 3. Roll the dice, read the dice key card, and take that many beans from the outside. 4. On a 6, pull the grain apart into pieces.  
   *Parent says:* Count the beans that touch the water. Roll the dice. Take only beans that touch the water.  
-  *Child mode:* Count the beans touching the water. Roll the dice. Take beans from the outside only. On a 6, pull your grain apart!
+  *Child mode:* Count the beans touching the water. Roll the dice. Read the key card and take beans from the outside only. On a 6, pull your grain apart!
   - Note: Watch for the first 6. After the grain is pulled apart, every bean touches the water, so the next rolls take many more beans. That is what crushing does to real sugar.
 - **s4 (2 min)**  
   *Parent does:* Talk about the game.  
@@ -241,7 +241,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **question:** When sugar dissolves and we can't see it any more, is it still there? Does it still weigh anything?
 - **predict:** Guess first. We will weigh a bottle of water with some sugar beside it. Then we will dissolve the sugar and weigh it again. Will it be lighter, the same, or heavier? Why do you think so?
 - **fair test:** Everything that was on side A before stays on side A: the bottle, its cap, the water, the sugar and its paper. Nothing is added and nothing is taken away. The only change is that the sugar is dissolved instead of in grains. The bottle stays closed, so nothing can escape.
-- **record:** Fill in the table. Draw the hanger before and after the sugar dissolved, with the pointer.
+- **record:** Fill in the table. Show the hanger before and after the sugar dissolved, with the pointer. Draw it, or take a photo each time.
 - **results table:** What we did | Where the pointer went | What bottle A looked like | How bottle A tasted
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Hang the coat hanger from a door handle, or from a broom handle across two chairs. 2. Tape the straw to the middle of the hanger so it points straight down. 3. Tape the paper on the door or a chair behind the straw tip. 4. Hang one bag from each end of the hanger.  
@@ -261,7 +261,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s4 (3 min)**  
   *Parent does:* Ask your child to predict before anything changes.  
   *Parent says:* Now we will pour the sugar into bottle A and shake it until it disappears. Then everything goes back in bag A. Will side A go up, stay level, or go down? Why do you think so?  
-  *Child mode:* We will dissolve the sugar in bottle A. Then it goes back in the bag. Will side A go up, stay level or go down? Why?
+  *Child mode:* Get ready to dissolve the sugar in bottle A. First, say your guess and why you think so.
   - Ask: What do you think will happen, and why? (good: It will go up, because the sugar disappears.; It will stay level, because the sugar is still inside.; It will go down, because sugar water is heavier.)
   - Note: Any guess with a reason is good. Many children, and many grown-ups, guess that side A will go up. Don't say what will happen.
 - **s5 (5 min)**  
@@ -289,12 +289,12 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **question:** Does the size of the pieces change how fast sugar dissolves?
 - **predict:** Guess first. Which will dissolve first in water: a lump of kalkandu, ordinary sugar grains, or powdered sugar? Which will be last? Why do you think so?
 - **fair test:** Use the same glass, the same amount of water from the same jug, and about the same amount of sugar each time (one level teaspoon). Stir the same way: 5 slow stirs every 30 seconds. Only the size of the pieces changes. Water from one jug is all the same warmth.
-- **record:** Fill in the table. Draw a bar for each kind of sugar, as tall as the number of minutes it took.
+- **record:** Fill in the table. Then show the times as bars, one for each kind of sugar, as tall as the minutes it took. Draw them, or cut a paper strip for each.
 - **results table:** Kind of sugar | My guess (first, second or last) | Time until no pieces are left
 - **s1 (5 min)**  
   *Parent does:* 1. Make powdered sugar: fold 2 teaspoons of sugar inside a sheet of paper and press hard with a rolling pin. 2. Look at the three kinds of sugar side by side. 3. Ask for a guess and a reason.  
   *Parent says:* These are all sugar, in different sizes. Which one will dissolve first? Which last? Why do you think so?  
-  *Child mode:* Crush some sugar with a rolling pin. Look at the lump, the grains and the powder. Which will dissolve first? Why?
+  *Child mode:* Crush some sugar with a rolling pin. Look at the lump, the grains and the powder. Think about which will vanish first.
   - Ask: Which will dissolve first, and why? (good: The powder, because its pieces are smallest.; The lump, because it is one piece.)
 - **s2 (3 min)**  
   *Parent does:* 1. Pour one small cup of water into each glass. 2. Measure 1 level teaspoon of each sugar. For the kalkandu, choose pieces that fill a teaspoon about as full as the sugar.  
@@ -304,7 +304,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s3 (4 min)**  
   *Parent does:* 1. Tip the powdered sugar into glass 1 and start the timer. 2. Stir 5 times slowly every 30 seconds. 3. Stop the timer when no powder is left at the bottom. 4. Write the time.  
   *Parent says:* Go! Stir slowly five times every 30 seconds. Shout stop when you can't see any powder.  
-  *Child mode:* Tip in the powder. Start the timer. Stir 5 times every 30 seconds. Shout stop when it is gone!
+  *Child mode:* Tip in the powder. Start the timer. Stir 5 times every 30 seconds. Shout stop when it is gone, then write the time.
   - Note: Powdered sugar usually goes in well under a minute.
 - **s4 (4 min)**  
   *Parent does:* Do the same with the sugar grains in glass 2.  
@@ -314,13 +314,13 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s5 (15 min)**  
   *Parent does:* 1. Do the same with the kalkandu in glass 3. 2. If pieces are still there after 15 minutes, stop and write 'more than 15 minutes'.  
   *Parent says:* Now the lump. This one may take a while. While we wait, watch the lump closely. Is it getting smaller from the outside, or from the middle?  
-  *Child mode:* Now do the kalkandu. Stir the same way. Watch the lump. Does it shrink from the outside or the middle?
+  *Child mode:* Now do the kalkandu. Stir the same way. Watch the lump closely while you wait.
   - Ask: Is the lump shrinking from the outside or from the middle? (good: From the outside.; Its corners are getting round.)
   - Note: A pea-sized lump often takes 5 to 15 minutes. Its sharp corners go round first, because water reaches the corners from more sides.
 - **s6 (4 min)**  
   *Parent does:* Look at the times together.  
   *Parent says:* Which was fastest? The same amount of sugar went in each glass. So why did the powder win?  
-  *Child mode:* Which was fastest? All three had the same sugar. Why did the powder win?
+  *Child mode:* Look at your three times. Put the glasses in a row, fastest on the left, slowest on the right.
   - Check: Why did the powdered sugar dissolve first? → **Its tiny pieces have much more outside, so water can pull off many particles at once**
 - **s7 (2 min)**  
   *Parent does:* Ask your child to say three things: what they think, what they saw, and why it happened.  
@@ -330,11 +330,11 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 
 ## Activities
 ### a1 · Where Did the Sugar Go? look, wonder and draw (10 min)
-- **record:** Draw what you think the sugar water would look like if you could zoom in very, very close.
+- **record:** Show what you think the sugar water would look like if you could zoom in very, very close. Draw it, or tell your grown-up.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the glass on the table. 2. Let your child drop in the teaspoon of sugar and stir slowly. 3. Both of you watch until the grains are gone.  
-  *Parent says:* Drop the sugar in and stir slowly. Watch it closely. Tell me what you notice about the sugar as it disappears.  
-  *Child mode:* Drop the sugar into the water. Stir slowly. Watch closely. What do you notice?
+  *Parent says:* Drop the sugar in and stir slowly. Watch it closely.  
+  *Child mode:* Drop the sugar into the water. Stir slowly. Watch closely until the grains are gone.
   - Ask: What do you notice about the sugar as it disappears? (good: The grains get smaller.; The water looks wobbly.; Where did it go?)
 - **s2 (3 min)**  
   *Parent does:* Ask where the sugar went, and listen to the whole answer.  
@@ -343,13 +343,13 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   - Note: Common answers are 'it melted', 'it's gone' and 'it's hiding at the bottom'. Don't correct any of them yet. The experiments in this unit will test them. You will see a wobbly shimmer in the water while the sugar dissolves. That is sweet water bending light differently from plain water.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to draw what is in the water, as if they could zoom in very, very close.  
-  *Parent says:* If you could shrink and swim in this water, what would you see? Draw it.  
-  *Child mode:* If you were tiny and swimming in this glass, what would you see? Draw it.
+  *Parent says:* If you could shrink and swim in this water, what would you see?  
+  *Child mode:* Imagine you are tiny and swimming in this glass. Draw what you see, or tell your grown-up.
   - Note: Keep this drawing. At the end of the unit, your child can draw it again and compare.
   - Think: If you can't see the sugar, how could you find out if it is still there?
 ### a2 · Zoom In on a Grain: sugar, salt and kalkandu (15 min)
 - **safety:** Never look at the Sun through a magnifying glass. It can hurt your eyes.
-- **record:** Draw one sugar grain, one salt grain and the kalkandu, as big as you can, with their flat sides and corners.
+- **record:** Show one sugar grain, one salt grain and the kalkandu, with their flat sides and corners. Draw each one as big as you can, or take a close-up photo.
 - **s1 (6 min)**  
   *Parent does:* 1. Sprinkle a few sugar grains and salt grains on the dark paper, apart from each other. 2. Look at them with the magnifying glass, or take a zoomed-in photo with a phone.  
   *Parent says:* Look closely at one sugar grain. What shape is it? Does it have flat sides? Now look at the salt.  
@@ -364,14 +364,14 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s3 (6 min)**  
   *Parent does:* 1. Fold a teaspoon of sugar inside paper. 2. Press and roll hard with the rolling pin. 3. Open it and look at the powder through the magnifying glass. 4. Taste a pinch.  
   *Parent says:* Now we crush it. Is the powder still sugar? How can we tell?  
-  *Child mode:* Crush sugar inside the paper with the rolling pin. Look at the powder. Taste a pinch. Is it still sugar?
+  *Child mode:* Crush sugar inside the paper with the rolling pin. Look at the powder. Taste a pinch.
   - Check: You crushed sugar into powder so fine that the grains are hard to see. Is it still sugar? → **Yes, it is still sweet, just in smaller pieces**
 ### a3 · Sweet at the Bottom: does sugar spread by itself? (15 min)
-- **record:** Draw the glass. Write 'sweet' or 'plain' next to the top and the bottom, before and after stirring.
+- **record:** Write 'sweet' or 'plain' for the top and the bottom of the glass, before and after stirring. You can draw the glass too.
 - **s1 (3 min)**  
   *Parent does:* 1. Fill the tall glass with water and let it stand still for a minute. 2. Gently tip 3 teaspoons of sugar into the water so it sinks to the bottom. 3. Do not stir. Put the glass where nobody will bump it. 4. Wait 30 minutes.  
   *Parent says:* We will leave the sugar at the bottom with no stirring. Will the top of the water get sweet by itself? Why do you think so?  
-  *Child mode:* Tip the sugar in gently. Don't stir! Will the top get sweet by itself? Why?
+  *Child mode:* Tip the sugar in gently. Don't stir! Then wait 30 minutes.
   - Wait: Leave it for 30 minutes
 - **s2 (4 min)**  
   *Parent does:* 1. Dip a clean straw just under the surface. 2. Press a finger tight on the top of the straw and lift it out. 3. Let the drops fall onto a clean spoon. 4. Taste.  
@@ -391,17 +391,17 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   - Note: You may see a shimmering, clear layer at the bottom before stirring. That is the sweet water. It is heavier than plain water, so it stays at the bottom.
 ### a4 · Ask the Ants: can they find sugar we can't see? (10 min)
 - **safety:** Watch the ants, but don't touch them. Some ants bite.
-- **record:** Draw the card with its two drops, and the ants you see at each one after 15 minutes and 30 minutes.
+- **record:** Write down how many ants were at each drop after 15 minutes and after 30 minutes. You can draw the card and the ants too, or take a photo.
 - **s1 (4 min)**  
   *Parent does:* 1. Find a place where ants walk, such as a window sill, the kitchen platform edge or the balcony. 2. Put a drop of sugar water at one end of the card and a drop of plain water at the other. 3. Mark which is which with a pencil. 4. Lay the card near the ants' path.  
   *Parent says:* Both drops look the same. Will the ants be able to tell them apart? Why do you think so?  
-  *Child mode:* Put a drop of sugar water at one end of the card and a drop of plain water at the other. They look the same. Can the ants tell them apart?
+  *Child mode:* Put sugar water at one end of the card and plain water at the other. Mark which is which. Lay the card near the ants' path.
   - Note: Ants need sugar for energy. A colony has many mouths to feed, so ants search all the time and lead each other to good food. If no ants come in 30 minutes, that is not a result: try near the bottom of a balcony wall or a potted plant, or try again another day.
   - Wait: Check after 15 minutes, and again after 30 minutes
 - **s2 (4 min)**  
   *Parent does:* Check the card after 15 minutes, and again after 30 minutes. Count the ants at each drop. If no ants have come, move to another spot and wait again.  
   *Parent says:* Which drop did the ants go to? How did they know, when we can't see the sugar?  
-  *Child mode:* Count the ants at each drop. Which one did they choose?
+  *Child mode:* Count the ants at each drop, after 15 minutes and again after 30 minutes.
   - Check: Suppose the ants gather at the sugar water drop and leave the plain water alone. How did they find it? → **They sensed the sugar particles with their antennae**
 - **s3 (2 min)**  
   *Parent does:* Wipe the card and the place where it lay clean with a wet cloth.  
@@ -412,34 +412,34 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 ## Projects
 ### p1 · The Shrinking Camphor: a 7-day watch (40 min, 7 days)
 - **safety:** Camphor is poisonous if swallowed. A grown-up handles the tablets and keeps them out of reach of small children. Never light the camphor for this project. Wash your hands after touching it.
-- **record:** One sheet with the outlines of the open tablet on days 1, 3, 5 and 7, one inside the other, and the jar tablet on days 1 and 7.
+- **record:** One sheet with the outlines of both tablets on day 1 and day 7, and your photos of the open tablet from days 3 and 5.
 - **schedule:** day 1: Trace both tablets. Put one on an open saucer and one in a closed jar, side by side, high up out of reach. (10 min); day 3: Trace the open tablet again on the same paper. Sniff the air near the saucer. (5 min); day 5: Trace the open tablet again. Look at the tablet in the jar without opening the jar. (5 min); day 7: Trace both tablets. Open the jar and sniff. Compare the two, and explain what happened. (20 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Put both tablets on the paper and trace round each one. Write 'Day 1'. 2. Put one tablet on the saucer. 3. Put the other in the jar and close the lid. 4. Put both on a high shelf, side by side.  
   *Parent says:* Camphor is a solid. We will watch two tablets for a week: one in the open air, and one shut in a jar. Will either of them change? Why do you think so?  
   *Child mode:* Trace both tablets. One goes on the saucer. One goes in the jar. A grown-up puts them up high. Will they change?
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* On day 3 and day 5, trace the open tablet on the same paper, inside the first outline. On day 5, also look at the jar tablet without opening the jar.  
+  *Parent does:* On day 3 and day 5, put the open tablet on its day 1 outline and take a photo. Is it smaller? On day 5, also look at the jar tablet without opening the jar.  
   *Parent says:* Has the open tablet changed? Can you smell camphor near it?  
-  *Child mode:* Trace the open tablet again. Is it smaller? Can you smell it?
+  *Child mode:* Put the open tablet on its first outline. Is it smaller? Can you smell it?
   - Note: In a warm, airy room the open tablet gets noticeably smaller within a few days, and its edges go soft and round. If it is changing slowly, keep going for a few more days.
   - Wait: Do this on day 3 and day 5, about 5 minutes each time
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* On day 7, trace both tablets. Then open the jar and sniff, holding it a little away from your nose.  
   *Parent says:* Compare the two tablets. Then smell inside the jar. Where did the missing camphor from the open tablet go? How do you know?  
-  *Child mode:* Trace both tablets. Open the jar and sniff, not too close. Where did the open tablet's camphor go?
+  *Child mode:* Trace both tablets. Open the jar and sniff, not too close. Then compare the two tablets.
   - Ask: Where did the missing camphor from the open tablet go? How do you know? (good: Into the air, as camphor particles.; We could smell it in the room, and the saucer stayed dry.)
 - **s4 (10 min)**  
   *Parent does:* Talk about why the jar tablet hardly changed.  
   *Parent says:* The jar tablet hardly shrank, but the jar smelled strongly. Why do you think that is?  
-  *Child mode:* Why did the jar tablet stay big? Why did the jar smell so strong?
+  *Child mode:* Look at the jar tablet next to the open one. Think about why the jar smells so strong.
   - Ask: Why did the tablet in the jar hardly shrink? (good: The particles could not get out of the jar.; The air in the jar got full of camphor particles.)
   - Note: In the jar, camphor particles leave the tablet too. But they cannot escape, so the air in the jar fills up with them. Soon as many go back onto the tablet as leave it, so it stops shrinking. That is why the jar smells so strong.
 
 ## Challenges
 ### c1 · Prove It's There, Without Tasting (25 min)
 - **problem:** A friend says the glass of sugar water on the table is just water, because he can't see any sugar. He won't taste it, because he says that's cheating. Find a way to show the sugar is there, without anyone tasting it.
-- **your turn:** Now invent your own test. Draw it, try it, and show your friend the result.
+- **your turn:** Now invent your own test. Say your plan, try it, and show your friend the result.
 - **constraints:** Nobody may taste the water.; You may use only things from home.; Your test must work with a glass that looks exactly like plain water.
 - **general:** Weigh it, if you have a kitchen scale. Take two glasses of the same kind. Fill each to the same mark, one with sugar water and one with plain water. Put them on the scale one at a time. The sugar water weighs a few grams more. Fill both glasses carefully to exactly the same mark, because a small mistake in the amount of water can hide that difference.; Let it dry. Put a few drops of each on a steel plate in a sunny window. The plain water dries to almost nothing. The sugar water dries to a sticky patch.; Rub a drop of each between your finger and thumb, then let it dry. Sugar water makes your fingers sticky.
 - **creative:** With a brush, paint a few lines of each water on black paper. When the lines dry, the sugar lines may shine and feel stiff.; Dip a strip of kitchen paper in each water and let both dry. The sugar strip feels stiffer.; Ask a grown-up to boil a few spoons of each in a small pan until almost dry. The sugar water leaves a sticky, brownish syrup at the bottom.
@@ -448,9 +448,9 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   *Parent says:* A friend says this is just water, and he won't let anyone taste it. How could we show him the sugar is there?  
   *Child mode:* A friend won't believe there is sugar in this glass. Nobody can taste it. How can you show him?
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Try two of the usual ideas. 2. Then try one of the creative ideas, or your own.  
+  *Parent does:* 1. Try two of the usual ideas: weigh it, let it dry, or sticky fingers. 2. Then try one of the creative ideas, or your own.  
   *Parent says:* Pick two ways to try. Which shows the sugar most clearly?  
-  *Child mode:* Pick two tests and try them. Which one shows the sugar best?
+  *Child mode:* Pick two tests: weigh the glasses, dry some drops, or feel a sticky drop. Try them.
   - Note: The boiling test needs a grown-up at the stove. Start the drying test first, on a steel plate in a sunny window. It may take an hour or more, so look at it again at the end, or later in the day.
 - **s3 (5 min)**  
   *Parent does:* Ask your child to explain their best test, as if to the friend.  
@@ -466,7 +466,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s1 (5 min)**  
   *Parent does:* 1. Show your child the jaggery block. 2. Read the problem aloud. 3. Ask them to plan before touching anything.  
   *Parent says:* Think about the Lump, Grains or Powder race, where you timed three kinds of sugar. What made the sugar dissolve fastest? How can we use that for the jaggery?  
-  *Child mode:* Look at the jaggery block. Remember the Lump, Grains or Powder race. What made the sugar dissolve fastest? Make a plan.
+  *Child mode:* Look at the jaggery block. Remember the Lump, Grains or Powder race. What made the sugar dissolve fastest? Tell your grown-up your plan.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Crush or grate the jaggery. 2. Start the timer. 3. Add it to the water and stir, following your plan.  
   *Parent says:* Start the timer. Let's see if your plan beats 10 minutes.  
@@ -475,7 +475,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s3 (10 min)**  
   *Parent does:* 1. Strain the drink. 2. Add a pinch of dry ginger and cardamom. 3. Taste and talk about what worked.  
   *Parent says:* Which part of your plan helped most? Why?  
-  *Child mode:* Strain it. Add the spices. Taste! Which part of your plan helped most?
+  *Child mode:* Strain it. Add the spices. Taste!
   - Ask: Why did crushing the jaggery help so much? (good: Small pieces have more outside, so water reaches more particles at once.)
 
 ## Worksheets

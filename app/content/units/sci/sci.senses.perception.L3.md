@@ -216,7 +216,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s1 (10 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Draw the lines and circles on the front of each card, using the guide on its back. Use a ruler. 3. Shuffle the cards and stack them with the question side up. 4. Give each player 10 tokens and put the spare tokens in the middle. 5. Put the ruler in the middle.  
   *Parent says:* Today you bet on what your eyes tell you. Then the ruler decides. Help me draw the cards first.  
-  *Child mode:* Draw the lines and circles on the cards. Take 10 tokens. The ruler is the judge!
+  *Child mode:* Help draw the cards, or measure for your grown-up. Take 10 tokens. The ruler is the judge!
 - **s2 (15 min)**  
   *Parent does:* Play the 12 cards. On each card, everyone answers and bets. Then one person measures and reads the back.  
   *Parent says:* Look for five seconds. What do you see? How many tokens will you bet?  
@@ -225,8 +225,8 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s3 (3 min)**  
   *Parent does:* Count the tokens. Ask which cards fooled people most.  
   *Parent says:* Which card fooled you most? What did the ruler show about that card?  
-  *Child mode:* Count your tokens. Which card fooled you most? What did the ruler show?
-  - Check: In the game Trust Your Eyes or the Ruler?, a player bets 3 tokens that two equal lines are different, and loses. What is the best lesson for that player? → **Eyes are usually right, but for lengths that matter, measure**
+  *Child mode:* Count your tokens. Point to the card that fooled you most.
+  - Check: A player bets 3 tokens that two lines are different. The lines are really equal, so the player loses. What should the player learn? → **Eyes are usually right, but for lengths that matter, measure**
 ### g2 · Clue Detectives (15 min)
 - **rules:** Each player takes one clue card and keeps it face up. With fewer than 4 players, some clue cards stay unused.; Take turns to be the reader. The reader holds the illusion cards, turns one over, and reads the front out loud. The reader keeps the back hidden and does not answer on that card.; The other players slap the table and say the clue. The first player to say the right clue wins the card. The reader checks the back. A player who says the wrong clue cannot answer again on that card.; If the right clue is on your own clue card, the card is worth 2 points instead of 1.; After all 16 cards, the most points wins. If two players tie, they both win.
 - **Printable cards: 4 clue cards (one for each player):** CLUE: Far away (lines that come together, or being high up in the view); CLUE: Neighbours (the brain compares with what is around); CLUE: Light from above (the brain expects light from the top); CLUE: Pictures in a row (still pictures shown quickly look like movement)
@@ -320,7 +320,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 
 ## Activities
 ### a1 · The Railway Track Trick: two equal strips (8 min)
-- **record:** Draw the tracks and the strips. Write which strip looked longer each time.
+- **record:** Write which strip looked longer each time, or tell your grown-up. You can draw the tracks and the strips too.
 - **s1 (3 min)**  
   *Parent does:* 1. Near the bottom of the page, mark two dots 10 cm apart. 2. About 15 cm higher, in the middle above them, mark two dots 4 cm apart. 3. Join each bottom dot to the top dot above it, using a ruler.  
   *Parent says:* Let's draw some railway tracks. The lines come closer together at the top, like tracks going far away.  
@@ -354,16 +354,16 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s4 (2 min)**  
   *Parent does:* Ask: where does the light come from, most of the time, in our home and outside?  
   *Parent says:* Where does light usually come from? Why might your brain expect that?  
-  *Child mode:* Where does light usually come from? Think of the Sun and lamps. Are they above you or below you?
+  *Child mode:* Think of the Sun and lamps. Are they above you or below you?
   - Note: The Sun and most lamps are above us, so the brain has learned to expect light from above. The scientist V. S. Ramachandran, born in Tamil Nadu, studied this illusion.
 ### a3 · Bird in the Cage: a picture toy from 1825 (20 min)
 - **problem:** A thaumatrope is a card with one picture on each side. You will draw a bird on one side and a cage on the other. Then you will spin the card on rubber bands. What will you see when it spins fast?
 - **safety:** A grown-up makes the holes with the sharp pencil, pushing into an eraser or a lump of atta dough behind the card.
-- **record:** Draw your toy and write what you saw when it spun slowly and when it spun fast.
+- **record:** Tell your grown-up, or write, what you saw when it spun slowly and when it spun fast. You can draw your toy too.
 - **s1 (7 min)**  
   *Parent does:* 1. Draw a small bird in the middle of one side of the card. 2. Turn the card over from top to bottom, like turning a page upwards. 3. Draw a cage in the middle of this side, the right way up as you now see it.  
-  *Parent says:* On one side we draw a bird. On the other side, a cage. The two drawings end up upside down to each other, so they line up when the card spins.  
-  *Child mode:* Draw a bird on one side. Flip the card from top to bottom. Draw a cage on the back.
+  *Parent says:* On one side we draw a bird. On the other side, a cage. Turn the card top to bottom, so the cage is the right way up on its side. Then the two line up when the card spins.  
+  *Child mode:* Draw a bird on one side. Flip the card from top to bottom. Draw a cage on the back. (Or cut a bird and a cage from old magazines and stick them on.)
   - Note: Check before you go on. Hold the card up to a window and flip it from top to bottom. The cage should sit around the bird. If the bird looks upside down in the cage, redraw the cage.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Make a small hole on the left and right edges of the card, halfway down. 2. Loop a rubber band through each hole.  
@@ -372,16 +372,16 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s3 (5 min)**  
   *Parent does:* 1. Hold one rubber band in each hand. 2. Twirl the card round and round to wind up the bands. 3. Pull the bands gently apart so the card spins. 4. Watch it spin slowly, then fast.  
   *Parent says:* Wind it up and let it spin. What do you see when it spins slowly? And when it spins fast?  
-  *Child mode:* Wind it up. Pull gently. Watch it spin. Slow, then fast. What do you see?
+  *Child mode:* Wind it up. Pull gently. Watch it spin, slow and then fast.
   - Ask: When it spins fast, where is the bird? (good: Inside the cage.; The two pictures join into one.)
 - **s4 (3 min)**  
   *Parent does:* Ask why the bird seems to be in the cage.  
   *Parent says:* There are two separate pictures. Why do you see one?  
-  *Child mode:* Two pictures, but you see one. Why do you think that happens?
+  *Child mode:* Tell your grown-up your idea: why does the brain see one picture?
   - Note: The pictures swap many times each second. The brain cannot keep them apart that fast, so it joins them into one. The toy, called a thaumatrope, was sold in London from 1825. People said it worked by 'persistence of vision'. Scientists today say a fading image on the eye is not enough to explain it: the brain joins the pictures.
 ### a4 · The Hole in Your Hand (5 min)
 - **problem:** Each of your eyes sees a slightly different picture. Your brain joins them into one view. In this activity, one eye looks through a tube and the other eye looks at your hand. What will your brain make of these two pictures?
-- **record:** Draw what you saw.
+- **record:** Tell your grown-up what you saw, or draw it.
 - **s1 (2 min)**  
   *Parent does:* 1. Roll the paper into a tube about 3 cm wide. 2. Hold it to the right eye. 3. Keep both eyes open, and look at something across the room.  
   *Parent says:* Look through the tube with one eye. Keep both eyes open.  
@@ -417,7 +417,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s2 (3 min)**  
   *Parent does:* Ask which middle circle looks bigger.  
   *Parent says:* Which middle circle looks bigger? Why do you think so?  
-  *Child mode:* Which middle circle looks bigger? Why?
+  *Child mode:* Look at the two middle circles. Point to the one that looks bigger.
   - Note: Most people see the one ringed by small circles as bigger. This is called the Ebbinghaus illusion, after the German scientist Hermann Ebbinghaus.
 - **s3 (2 min)**  
   *Parent does:* Measure across both middle circles with the ruler.  
@@ -426,7 +426,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
   - Check: Two middle circles are the same size. The one with small circles around it looks bigger. Why? → **The brain judges size by comparing with the neighbours**
 ### a7 · The Two-Dot Movie: Wertheimer's test at home (8 min)
 - **problem:** In 1912 a scientist called Max Wertheimer flashed two lines of light, one after the other. People saw one line moving. You will try something like it with two dots on two pages. Will you see one dot moving?
-- **record:** Draw what you saw, and write whether it looked like two dots or one moving dot.
+- **record:** Write, or tell your grown-up, whether it looked like two dots or one moving dot. You can draw what you saw too.
 - **s1 (3 min)**  
   *Parent does:* 1. Near the bottom corner of one page, draw a dark dot on the left. 2. On the page underneath, at the same height, draw a dot 3 cm to the right.  
   *Parent says:* We'll draw a dot on two pages, in two different places.  
@@ -450,7 +450,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s1 (25 min)**  
   *Parent does:* 1. Choose 4 or 5 illusions from this unit. 2. Draw each one neatly on its own sheet, using a ruler. 3. Write a question card for each, like 'Which line is longer?' 4. Write the answer on the back of the card.  
   *Parent says:* A museum needs good exhibits. Let's make each illusion neat, because a messy drawing might give the trick away.  
-  *Child mode:* Pick 4 or 5 illusions. Draw each one neatly. Write a question for each. Put the answer on the back.
+  *Child mode:* Pick 4 or 5 illusions. Draw each one neatly, or use a card you made for the game. Write a question for each. Put the answer on the back.
 - **s2 (20 min)**  
   *Parent does:* 1. Tape the sheets to a wall or lay them on a table. 2. Invite at least 5 visitors: family, neighbours or friends. 3. Ask each visitor the question. 4. Write their answer first. 5. Then let them measure or check.  
   *Parent says:* Write down each visitor's answer before they measure. Why do you think that matters?  
@@ -472,7 +472,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **general:** Draw the ball a little further along on each page, moving it the same small step each time.; Draw on the last page first, then trace through the page above to place the next ball.
 - **creative:** Squash the ball a little on the page where it hits the ground. Cartoonists do this to show a bounce.; Use smaller steps near the top of the bounce, where a real ball slows down, and bigger steps near the ground.; Add a shadow under the ball that grows as the ball comes down.
 - **s1 (15 min)**  
-  *Parent does:* 1. Plan the bounce on scrap paper: where the ball starts, where it hits the ground, where it ends. 2. Draw the ball in the bottom corner of each page, a small step further each time.  
+  *Parent does:* 1. Plan the bounce on scrap paper: where the ball starts, where it hits the ground, where it ends. 2. Draw the ball in the bottom corner of each page, a small step further each time. (If you do not want to draw, stick a small paper circle on each page, a small step further each time.)  
   *Parent says:* Plan the path first. Then draw the ball a little further along on each page.  
   *Child mode:* Plan the bounce. Then draw the ball a bit further along on each page.
 - **s2 (10 min)**  
@@ -483,11 +483,11 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s3 (5 min)**  
   *Parent does:* Ask where the bounce comes from.  
   *Parent says:* Every page is still. So where does the bounce come from?  
-  *Child mode:* Every drawing is still. So where does the bounce happen?
+  *Child mode:* Think about it, then tell your grown-up your idea.
   - Check: Your flip book has 12 still drawings of a ball. Why does the ball seem to bounce? → **Your brain joins pictures shown quickly into movement**
 ### c2 · Hold the Water Tank in Your Hand: a forced perspective photo (25 min)
 - **problem:** Take a photo in which a small thing looks huge, or a big thing looks tiny. For example, you seem to hold a far-away water tank between two fingers, or a toy elephant seems taller than a person standing behind it.
-- **your turn:** Now plan your own forced perspective photo. Draw it first, then take it. Show it to someone and ask what they see.
+- **your turn:** Now plan your own forced perspective photo. Say or draw what you want to see first, then take it. Show it to someone and ask what they see.
 - **constraints:** Use a phone camera, with a grown-up.; No editing the photo afterwards.; If you use a terrace, stay well away from the edge, with a grown-up.
 - **general:** Put the small thing close to the camera and the big thing far away, so they look the same size in the photo.; Line up the near and far things so they seem to touch.
 - **creative:** Make it look as if a person is standing on your palm.; Take two photos from different spots and see which fools people more.; Hide anything in the background that shows the true distance, like the floor tiles.
@@ -502,7 +502,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **s3 (5 min)**  
   *Parent does:* Show the best photo to someone who did not watch. Ask what they see.  
   *Parent says:* What does your visitor think is happening in the photo? Why were they fooled?  
-  *Child mode:* Show the photo to someone. What do they think? Why were they fooled?
+  *Child mode:* Show the photo to someone who did not watch. Ask what they think is happening.
   - Note: A photo has no depth, so the brain has fewer clues to distance. The floor or the walls often give the trick away. That is why the best photos hide them.
 
 ## Worksheets

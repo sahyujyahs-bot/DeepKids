@@ -171,10 +171,10 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s1 (3 min)**  
   *Parent does:* 1. Shuffle the 12 address cards and deal them all out. 2. Put the fact cards face up in a pile to one side. 3. The youngest player puts the first card in the middle.  
   *Parent says:* Your address tells someone how to find you. Let's make the biggest address ever, from your room out to the whole universe.  
-  *Child mode:* Your address helps people find you. Let's make the biggest address ever!
+  *Child mode:* Look at your cards. Which place is the smallest?
 - **s2 (8 min)**  
   *Parent does:* Players take turns to add a card to the line, smallest on the left. After each card, peek at the backs to check the place and score a point.  
-  *Parent says:* Put down a card where it belongs. Is the solar system bigger or smaller than the Milky Way?  
+  *Parent says:* Put down a card where it belongs.  
   *Child mode:* Put your card in the line, from smallest to biggest. Think hard!
   - Check: Which is bigger: the solar system or the Milky Way? → **The Milky Way**
 - **s3 (6 min)**  
@@ -194,12 +194,12 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **predict:** Before you test it, guess. Which pair of lights will join into one first as you walk away: the pair 1 millimetre apart, 2 millimetres or 3 millimetres? Why do you think so?
 - **fair test:** Use the same card, the same torch and the same dark room for every pair. Take steps of the same size. Change only one thing: which pair you look at. Do each pair twice.
 - **safety:** A grown-up pokes the holes with the needle, pushing into an eraser or cloth, and puts the needle away straight after. Clear the floor before your child walks backwards in the dark.
-- **record:** Fill in the results table. Draw the card as it looks up close, and as it looks from the far end of the room.
+- **record:** Fill in the results table. Draw the card as it looks up close and from the far end of the room, or tell your grown-up what you saw.
 - **results table:** Pair of holes | Gap between the holes | Steps when they became one light (try 1) | Steps (try 2)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child a large photo of the Milky Way on a phone or tablet (search for 'Milky Way night sky photo'). 2. Ask the guess question below. 3. Wait for a guess and a reason.  
-  *Parent says:* In this photo the Milky Way looks like a milky cloud. But it is made of stars. Why do you think we see a glow instead of separate stars?  
-  *Child mode:* The Milky Way looks like a cloud, but it is made of stars. Why do we see a glow? Guess first, then say why.
+  *Parent says:* In this photo the Milky Way looks like a milky cloud. But it is made of stars.  
+  *Child mode:* Look at the photo. Say your guess, then say why you think so.
   - Ask: Why do you think we see a glow, not separate stars? (good: The stars are too far away.; They are too close together to see one by one.; Each star is too faint.)
   - Note: Accept any guess with a reason. Do not explain yet. The test will show it.
 - **s2 (7 min) · grown-up needed**  
@@ -239,12 +239,12 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **predict:** Before you count, guess. From the paper Sun, which way will the thread cross the most rice grains? Will counting still show where the middle is if you can only see a short way? Why do you think so?
 - **fair test:** Keep the rice and the paper Sun in the same place the whole time. Count the same way each time: every grain the thread touches or that lies within one finger-width of it. Change only the direction of the thread, and then its length.
 - **safety:** Rice on the floor is easy to slip on, so spread the newspaper where nobody walks. Sweep up the grains afterwards and put them out for birds.
-- **record:** Fill in the results table. Draw the circle with the Sun and four arrows, and write each count on its arrow.
+- **record:** Fill in the results table. Draw the circle with the Sun and four arrows, and write each count on its arrow. Or just tell your grown-up which direction had the most.
 - **results table:** Direction of the thread | Grains counted with the long thread | Grains counted with the short thread
 - **s1 (4 min)**  
   *Parent does:* 1. Tell your child about William and Caroline Herschel, who counted stars to find the shape of the Milky Way. 2. Ask the guess question below.  
-  *Parent says:* Over 200 years ago, Caroline Herschel and her brother William counted stars in hundreds of patches of sky. They wanted to find the shape of our galaxy from inside it. If you live inside a galaxy, could counting stars tell you where its middle is? Why do you think so?  
-  *Child mode:* Long ago, Caroline and William Herschel counted stars. They wanted to find our galaxy's shape. Could counting stars show where its middle is? Guess first, then say why.
+  *Parent says:* Over 200 years ago, Caroline Herschel and her brother William counted stars in hundreds of patches of sky. They wanted to find the shape of our galaxy from inside it. If you live inside a galaxy, could counting stars tell you where its middle is?  
+  *Child mode:* Long ago, Caroline and William Herschel counted stars in the sky. They wanted to find our galaxy's shape. Say your guess, then say why.
   - Ask: Which way do you think you would count the most stars? (good: Towards the middle, because there is more galaxy that way.; The same everywhere, if we are in the middle.)
   - Note: Accept any guess with a reason. Do not explain yet.
 - **s2 (6 min)**  
@@ -258,14 +258,14 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   *Child mode:* Put the paper Sun halfway between the middle and the edge.
   - Note: The paper Sun should be about 12 centimetres from the middle.
 - **s4 (10 min)**  
-  *Parent does:* 1. Lay the 40 centimetre thread from the paper Sun through the middle of the circle to the edge on the far side. 2. Your child counts the grains that the thread touches or that lie within one finger-width of it. 3. Do the same with the thread pointing away from the middle, and then pointing to each side. 4. Write each count in the table.  
-  *Parent says:* Now you are an astronomer like Caroline Herschel. Count every star within one finger-width of the thread. Which way has the most?  
+  *Parent does:* 1. Lay the 40 centimetre thread from the paper Sun through the middle of the circle to the edge on the far side. 2. Your child counts the grains that the thread touches or that lie within one finger-width of it. 3. Do the same with the thread pointing from the Sun away from the middle, and then pointing to each side. 4. Write each count in the table.  
+  *Parent says:* Now you are an astronomer like Caroline Herschel. Count every star within one finger-width of the thread.  
   *Child mode:* Lay the thread from the Sun to the edge. Count the grains next to it. Do this in four directions. Write each count.
   - Ask: Which direction had the most grains? Why? (good: Towards the middle, because the galaxy goes on longest that way.; Away from the middle had the fewest, because the edge is close.)
   - Note: Expect the most grains towards the middle, the fewest away from it, and in-between counts sideways. The thread towards the middle crosses about three times as much galaxy as the thread away from it.
 - **s5 (5 min)**  
   *Parent does:* 1. Now pretend space is full of dust, so you can only see stars close by. 2. Cut the 40 centimetre thread to the length of your child's hand, about 12 centimetres. 3. Count again in the same four directions, using only the short thread.  
-  *Parent says:* Real space has dust that hides faraway stars. Let's pretend we can only see as far as this short thread. Count again. What do you find now?  
+  *Parent says:* Real space has dust that hides faraway stars. Let's pretend we can only see as far as this short thread. Count again.  
   *Child mode:* Now pretend there is dust. You can only see a short way. Count again with the short thread.
   - Check: With the short thread, the counts in the four directions were: → **about the same in every direction, within a few grains**
 - **s6 (2 min)**  
@@ -280,27 +280,27 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s1 (4 min)**  
   *Parent does:* Show your child a photo of the Milky Way over hills or a desert. Do not say what it is. Ask what they notice.  
   *Parent says:* This photo was taken at night, far from any city. What do you notice? What do you wonder?  
-  *Child mode:* Look at this night photo. What do you notice? What do you wonder?
+  *Child mode:* Look closely at this night photo. Find the pale band.
   - Ask: What do you notice about the pale band? (good: It goes right across the sky.; It looks like a cloud.; It has dark patches in it.)
   - Note: Write down every 'I wonder' question. The unit will answer most of them.
 - **s2 (3 min)**  
   *Parent does:* Zoom in on the pale band with two fingers on the screen.  
-  *Parent says:* Let's zoom in on the band. What is it made of?  
+  *Parent says:* Let's zoom in on the band.  
   *Child mode:* Zoom in on the band with two fingers. What do you see?
   - Note: The band breaks into countless tiny stars. Use a large photo so that it still looks sharp when you zoom in.
   - Check: When you zoomed in, the pale band was made of: → **countless tiny stars**
 - **s3 (3 min)**  
   *Parent does:* Tell your child the name of the band, and ask why they think we cannot see it from home.  
-  *Parent says:* This is the Milky Way. In many Indian languages it is called Akashganga, the Ganga of the sky. Why do you think we can't see it from our balcony?  
-  *Child mode:* This band is the Milky Way, or Akashganga. Why can't we see it from home?
+  *Parent says:* This is the Milky Way. In many Indian languages it is called Akashganga, the Ganga of the sky.  
+  *Child mode:* This band is the Milky Way, or Akashganga. Listen to the name.
   - Ask: Why can't we see the Milky Way from the city? (good: The city lights are too bright.; The sky glows orange at night.)
   - Note: City lights make the sky glow, and that glow drowns out faint light. Most people in big cities have never seen the Milky Way.
 ### a2 · If the Solar System Were a Coin: how big is the Milky Way? (15 min)
-- **record:** Draw the coin. Write how far away the nearest star would be at this size, and how far the Milky Way would stretch.
+- **record:** Write how far away the nearest star would be at this size, and how far the Milky Way would stretch. Draw the coin if you like.
 - **s1 (4 min)**  
   *Parent does:* Put a 1 rupee coin on the table.  
   *Parent says:* Let this coin stand for our whole solar system: the Sun, the Earth and all the planets out to Neptune. Guess how far away the next nearest star would be.  
-  *Child mode:* This coin is the whole solar system: the Sun and all eight planets. How far away is the next star? Guess.
+  *Child mode:* Look at the coin. It is the whole solar system: the Sun and all eight planets.
   - Ask: How far away do you think the nearest star would be at this size? (good: In the next room.; Down the road.; Any guess with a reason is good.)
 - **s2 (4 min)**  
   *Parent does:* Tell your child the answer, and find a place about 90 metres from your door, about 120 big steps away.  
@@ -315,11 +315,11 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s4 (2 min)**  
   *Parent does:* Ask the last question and let your child think.  
   *Parent says:* Andromeda, the nearest big galaxy, is about 25 times as far away as the Milky Way is wide. Compared with their own size, do you think galaxies are close together or far apart?  
-  *Child mode:* Andromeda is about 25 times as far away as the Milky Way is wide. Are galaxies close together or far apart, for their size?
+  *Child mode:* Andromeda is the nearest big galaxy. Tell your grown-up what you think.
   - Note: Stars inside a galaxy are millions of times their own width apart. The nearest big galaxy is only about 25 times the Milky Way's width away. So compared with their size, galaxies are much closer together than stars are.
 ### a3 · Point to the Centre of the Galaxy: find Jyeshtha and Mula (15 min)
 - **safety:** A grown-up stays with the child at night. Keep away from the edge of a terrace without a wall.
-- **record:** Draw the stars you found, with an arrow labelled 'towards the centre of our galaxy'.
+- **record:** Tell your grown-up which stars you found and where the centre of our galaxy is. Or draw them, with an arrow labelled 'towards the centre of our galaxy'.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* On a clear evening between June and August, go to a balcony or terrace that faces south. Turn off the lights behind you and wait five minutes for your eyes to get used to the dark.  
   *Parent says:* Let's find the direction of the centre of our galaxy. First, our eyes need time to get used to the dark.  
@@ -336,16 +336,16 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   *Child mode:* Point just above the end of the tail, a little to the left. The middle of our galaxy is that way. It is very, very far.
   - Check: Why can't we see the centre of the galaxy, even from a dark place? → **Clouds of dust between the stars block its light**
 ### a4 · Sort the Galaxies: spiral, elliptical or irregular? (15 min)
-- **record:** Draw one galaxy of each shape, and write one way to tell each shape apart.
+- **record:** Write one way to tell each shape apart. Draw one galaxy of each shape if you like.
 - **s1 (6 min)**  
   *Parent does:* 1. A grown-up searches for photos of these 12 galaxies (NASA, ESA and Hubble pictures are free to look at) and shows them one at a time, or prints them. 2. Lay out three sheets labelled spiral, elliptical and irregular. 3. Ask your child to sort the galaxies by shape and put each one on a sheet.  
-  *Parent says:* These are photos of real galaxies taken by big telescopes. Sort them by shape. Put each one on a sheet.  
-  *Child mode:* These are real galaxies. Sort them by shape. Put each on a sheet.
+  *Parent says:* These are photos of real galaxies taken by big telescopes. Sort them by shape.  
+  *Child mode:* Put each photo on a sheet. A spiral has curling arms. An elliptical is a smooth ball. An irregular has no clear shape.
   - Note: Spirals: Whirlpool Galaxy (M51), Pinwheel Galaxy (M101), Andromeda Galaxy (M31), NGC 891 (seen edge-on). Ellipticals: M87, M49, M60. Irregulars: Large Magellanic Cloud, Small Magellanic Cloud, NGC 1569, NGC 4449. Do not show the names to your child as hints. Spiral galaxies have curved arms. Elliptical ones are smooth ovals. Irregular ones have no clear shape. A spiral seen edge-on looks like a thin line with a bulge. Children often put it with the ellipticals, which is a good thing to talk about.
 - **s2 (5 min)**  
   *Parent does:* Look at the photos your child found hard to sort. Talk about why.  
-  *Parent says:* Which ones were hard to sort? Why? Could a spiral look different if we saw it from the side?  
-  *Child mode:* Which were hard to sort? Why? Could a spiral look like a line from the side?
+  *Parent says:* Which ones were hard to sort? Why?  
+  *Child mode:* Pick the photo that was hardest. Tell your grown-up why.
   - Check: A spiral galaxy seen from its edge looks like: → **a thin line of light with a bulge in the middle**
 - **s3 (4 min)**  
   *Parent does:* If you like, open Galaxy Zoo on a computer and sort a few real galaxy photos together.  
@@ -359,14 +359,14 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **schedule:** day 1: Draw the Milky Way from above as a kolam of dots: a bright middle, a bar across it, and arms winding out. Mark where the Sun is. (25 min); day 2: Draw the Milky Way from the side, as a thin disc with a bulge. Mark the Sun again, and label the centre. (15 min)
 - **s1 (25 min)**  
   *Parent does:* 1. In the middle of the paper, make a thick oval of dots for the centre. 2. Add a short bar of dots across it. 3. From each end of the bar, draw a curved arm of dots winding outwards. 4. Add two more arms between them. 5. Put the yellow Sun about halfway from the middle to the edge, between two arms.  
-  *Parent says:* Let's draw our galaxy as if we flew far above it. The middle is crowded with stars. The arms curl out. Where does the Sun go?  
+  *Parent says:* Let's make our galaxy as if we flew far above it. The middle is crowded with stars. The arms curl out. Where does the Sun go?  
   *Child mode:* Make a thick bunch of dots in the middle. Add a bar. Curl four arms out. Put the Sun halfway out.
   - Ask: Why do you put the Sun halfway out, and not in the middle? (good: Because the Sun is about halfway between the centre and the edge.; The middle is far away, towards Sagittarius (Dhanu).)
   - Note: Real photos of the Milky Way from above do not exist. Every picture is a drawing made from measurements, like your kolam.
 - **s2 (15 min)**  
-  *Parent does:* 1. Next day, below the first kolam, draw a long, thin line of dots, with a round bulge in the middle. 2. Put the Sun about halfway along, inside the line. 3. Draw arrows from the Sun along the line, and up out of it.  
-  *Parent says:* Now draw our galaxy from the side. It is about 100 times wider than it is thick. Draw arrows from the Sun. Which arrow goes through more stars?  
-  *Child mode:* Draw the galaxy from the side. Make it very thin, with a bulge in the middle. Put the Sun in it. Draw arrows from the Sun. Which arrow crosses more stars?
+  *Parent does:* 1. Next day, below the first kolam, make a long, thin line of dots, with a round bulge in the middle. 2. Put the Sun about halfway along, inside the line. 3. Make an arrow of dots from the Sun along the line, and another up out of it.  
+  *Parent says:* Now make our galaxy from the side. It is about 100 times wider than it is thick. Make arrows from the Sun.  
+  *Child mode:* Make the galaxy from the side. Make it very thin, with a bulge in the middle. Put the Sun in it. Add an arrow along the line and an arrow up.
   - Check: Looking from the Sun, which way would you see more stars? → **Along the disc**
   - Wait: Do this on day 2.
 
@@ -380,16 +380,16 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s1 (5 min)**  
   *Parent does:* Show your child the katori of rice. Ask for a guess.  
   *Parent says:* How many grains of rice do you think are in this katori? How could we find out without counting every grain?  
-  *Child mode:* How many grains are in this katori? Guess. How could you find out without counting them all?
+  *Child mode:* Guess how many grains of rice are in the katori. Say your number out loud.
 - **s2 (15 min)**  
-  *Parent does:* Let your child try one of their own ideas first. If they are stuck, suggest the teaspoon method.  
+  *Parent does:* Let your child try one of their own ideas first. If they are stuck, suggest the teaspoon method. When they have an answer, ask for a second way and try that too.  
   *Parent says:* Try your idea. If you are stuck, count the grains in one teaspoon, then count how many teaspoons fill the katori.  
-  *Child mode:* Try your idea. If you are stuck, count the grains in one teaspoon. Then count how many teaspoons fill the katori.
+  *Child mode:* Try your own idea first. Count carefully.
   - Note: A level teaspoon of raw rice usually holds a few hundred grains, and a katori many thousands. Any careful method is good.
 - **s3 (10 min)**  
   *Parent does:* Compare the answer with the first guess, and with the answer from a second method. Ask how astronomers might do the same with stars.  
-  *Parent says:* How close was your first guess? How close were your two methods to each other? Astronomers count stars in small patches of sky, then multiply. Why might their answer still be uncertain?  
-  *Child mode:* Was your guess close? Do your two methods agree? Astronomers count small patches of sky too. Why could they still be a bit wrong?
+  *Parent says:* How close was your first guess? How close were your two methods to each other? Astronomers count stars in small patches of sky, then multiply.  
+  *Child mode:* Was your guess close? Do your two methods agree? Astronomers count small patches of sky too.
   - Ask: Why is the number of stars in the Milky Way still uncertain? (good: Dust hides some stars.; Some stars are too faint to see.; The patches might not be the same everywhere.)
 
 ## Worksheets

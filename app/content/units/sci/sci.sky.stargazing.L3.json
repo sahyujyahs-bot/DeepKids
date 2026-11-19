@@ -411,7 +411,7 @@
      "mins": 3,
      "do": "1. Lay the board on the floor. 2. Put the Moon token on Ashwini. 3. Shuffle the cards.",
      "say": "This ring is the Moon's path round the sky, split into 27 nakshatras. Each turn is one night, and the Moon moves one space each night.",
-     "kid": "This ring is the Moon's path. It has 27 nakshatras. Each turn is one night. The Moon moves one space.",
+     "kid": "Put the Moon token on Ashwini, the first space. Say the next three names on the ring.",
      "context": "This is the first step of the Moon's Journey game. It is a board game about the Moon moving through the 27 nakshatras."
     },
     {
@@ -419,7 +419,7 @@
      "mins": 3,
      "do": "With the Moon token on Ashwini, find the card that says 'Count on 1 space' and play it together as practice.",
      "say": "This is a practice card. The Moon is on Ashwini tonight. Count one space on the ring. Which nakshatra will it be in tomorrow night?",
-     "kid": "This is a practice card. The Moon is on Ashwini. Count one space on. Which nakshatra is the Moon in tomorrow?",
+     "kid": "This is a practice card. The Moon is on Ashwini. Count one space on the ring.",
      "check": {
       "t": "mcq",
       "q": "The Moon token is on Ashwini tonight. Which nakshatra will the Moon be in tomorrow night?",
@@ -444,7 +444,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Count how many turns the Moon took to go all the way round, one turn for each night.",
-     "say": "How many turns did the Moon take to go all the way round? What does that tell us about the real Moon?",
+     "say": "Let's count how many turns the Moon took to go all the way round.",
      "kid": "Count the turns. How many nights did the Moon take to go all the way round?",
      "ask": [
       {
@@ -515,7 +515,7 @@
      "mins": 2,
      "do": "Lay the cards face down in rows.",
      "say": "Each star pattern has stories from different peoples. Find a star card and a story about those stars.",
-     "kid": "Lay the cards face down. Find a star card and its story.",
+     "kid": "Lay all 20 cards face down in rows. No peeking.",
      "context": "This is the first step of the Same Stars, Many Stories game. It is a memory game matching star patterns with stories from different cultures."
     },
     {
@@ -531,7 +531,7 @@
      "mins": 2,
      "do": "At the end, ask the question below.",
      "say": "Two star groups here had three stories each. Which two were they?",
-     "kid": "Two star groups had three stories each. Which two?",
+     "kid": "Think back over the pairs you made. Which star groups kept turning up?",
      "ask": [
       {
        "q": "Which two star groups had three stories each?",
@@ -570,7 +570,7 @@
     "Where I looked from",
     "Did I see the ladle? (yes, a little, no)",
     "Which paper stars looked closest together",
-    "My quick sketch"
+    "My quick sketch or photo"
    ],
    "materials": [
     {
@@ -606,7 +606,7 @@
      "what": "Guess. Mark the seven stars on the wall. Stretch a thread from the Earth card to each star. Fix each paper star at its real distance. Look from the Earth card, then from the side, and record what you see."
     }
    ],
-   "record": "Fill in the results table for each place you looked from. Draw the model twice: as seen from the Earth card, and as seen from the side.",
+   "record": "Fill in the results table for each place you looked from. Draw the model twice, as seen from the Earth card and from the side, or take a photo from each place.",
    "flow": [
     {
      "id": "s1",
@@ -657,7 +657,7 @@
      "mins": 3,
      "do": "1. Your child kneels behind the chair, closes one eye and looks through the hole in the Earth card. 2. They describe what they see and fill in the first row of the table.",
      "say": "Look through the hole with one eye. What shape do the seven paper stars make?",
-     "kid": "Close one eye. Look through the hole. What shape do the paper stars make? Write it down.",
+     "kid": "Close one eye and look through the hole at the paper stars. Tell your grown-up what you see, then fill in the first row.",
      "ask": [
       {
        "q": "Do the paper stars make the ladle?",
@@ -671,9 +671,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Now your child walks to one side of the model, halfway between the card and the wall. 2. They look at the paper stars from the side. 3. They fill in the second row, and sketch what they see.",
+     "do": "1. Now your child walks to one side of the model, halfway between the card and the wall. 2. They look at the paper stars from the side. 3. They fill in the second row, and sketch what they see or take a photo.",
      "say": "Now you are on a planet out to the side. Look at the seven paper stars. Do they still make a ladle?",
-     "kid": "Walk to the side. Look at the paper stars. Is it still a ladle? Which stars are close together? Sketch it.",
+     "kid": "Walk to the side and look at the paper stars. Point to the ones that are close together. Sketch what you see, or tell your grown-up.",
      "ask": [
       {
        "q": "Which paper stars are far from the others?",
@@ -770,7 +770,7 @@
      "what": "Draw 12 stars, from very dark to very faint. Sit in the dark and count how many you can see after 1, 5, 10 and 15 minutes."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart with one bar for each time.",
+   "record": "Fill in the table. Make a bar chart with one bar for each time: draw it, or stack coins or beans.",
    "flow": [
     {
      "id": "s1",
@@ -786,8 +786,8 @@
      "id": "s2",
      "mins": 2,
      "do": "1. Prop the paper against a wall at the far side of the room, about 2 metres from where your child will sit. 2. Ask the guess question.",
-     "say": "When I switch off the light, you will count the stars you can see. Will you see more as time goes on, or fewer, or the same? Why?",
-     "kid": "Soon the light goes off. You will count the stars. Will you see more, fewer, or the same as time goes on? Why?",
+     "say": "When I switch off the light, you will count the stars you can see. Will you see more as time goes on, or fewer, or the same?",
+     "kid": "Soon the light goes off and you will count the stars. As time goes on, will you see more, fewer, or the same?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -920,7 +920,7 @@
      "what": "Look at your table. Work out how far the Moon moves each night, and how long it would take to go all the way round."
     }
    ],
-   "record": "Fill in the table each night. Draw the star and the Moon each night on one page, so you can see the Moon stepping along.",
+   "record": "Fill in the table each night. Draw the star and the Moon each night on one page, or take a photo each night, so you can see the Moon stepping along.",
    "flow": [
     {
      "id": "s1",
@@ -1015,14 +1015,14 @@
      "what": "Join the dots into your own picture. Then see how the Greeks and Indian astronomers joined the same stars."
     }
    ],
-   "record": "Keep your drawing. Under it, write the name and the story of your picture.",
+   "record": "Keep your picture. Under it, write its name and story, or tell them to a grown-up.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. A grown-up draws the 10 dots on a plain sheet before your child sees it, using the positions in the note. 2. Give your child the sheet without saying what it is. 3. Ask them to join any of the dots into a picture of anything they like.",
      "say": "These dots are real stars that you can see from a balcony or window on winter evenings. Join some of them to make a picture. It can be anything at all.",
-     "kid": "These dots are real stars. Join some of them. Make a picture of anything you like.",
+     "kid": "These dots are real stars. Join some of them with lines, or lay thread along them. What picture do you see? It can be anything.",
      "parent": "Dot positions, in centimetres from the bottom left corner of an upright page, about 14 cm across and 18 cm high: 3 across and 13 up (Betelgeuse). 11 and 13.5 (Bellatrix). 6 and 8 (Alnitak). 7.5 and 8.7 (Alnilam). 9 and 9.4 (Mintaka). 4 and 2.5 (Saiph). 12 and 3 (Rigel). 6.5 and 16.5, 7.5 and 16.5, 7 and 15.5 (the three small stars of the head). There is no right answer to the child's picture. Children often draw a person, a kite, a butterfly or an animal.",
      "context": "This is the first step of the One Sky, Many Pictures activity. You make your own star picture before learning other people's."
     },
@@ -1031,7 +1031,7 @@
      "mins": 4,
      "do": "Tell your child about the two old pictures and draw them on the dots in another colour. The Greek hunter joins Betelgeuse, Bellatrix, the three belt stars, Saiph and Rigel. The Indian Mrigashira, the deer's head, joins the three small dots at the top, and Ardra is the red star Betelgeuse.",
      "say": "The Greeks saw a hunter with a belt of three stars. In India, astronomers saw the head of a deer, Mrigashira, and named the red star Ardra. In Tamil it is Thiruvathirai.",
-     "kid": "The Greeks saw a hunter here. Indian astronomers saw a deer's head. The red star is Ardra.",
+     "kid": "The Greeks saw a hunter here. Indian astronomers saw a deer's head. Point to Ardra, the red star.",
      "ask": [
       {
        "q": "Put your picture beside the Greek hunter and the Indian deer's head. All three are made on the same dots. What is the same in the three pictures, and what is different?",
@@ -1047,7 +1047,7 @@
      "mins": 3,
      "do": "Ask the question below and let your child think.",
      "say": "Three people joined the same stars and made three different pictures. Were the stars different?",
-     "kid": "Three people saw three different pictures. Were the stars different?",
+     "kid": "Look at the three pictures again. Then choose an answer.",
      "parent": "A good answer: they would see a different picture, or none at all. From another planet, the stars would be seen from a different place, so they would line up differently, as the paper stars did in the Thread Saptarishi model.",
      "check": {
       "t": "mcq",
@@ -1102,7 +1102,7 @@
      "what": "On a clear evening, switch off the lights near you, wait 15 minutes, and look for the Saptarishi in the north. In the months when the Saptarishi is not up in the evening, look for Krittika or Orion instead."
     }
    ],
-   "record": "Draw the stars you found, and the buildings or trees below them, so you can find them again.",
+   "record": "Draw the stars you found, and the buildings or trees below them, or write which way you faced and where the stars were, so you can find them again.",
    "flow": [
     {
      "id": "s1",
@@ -1127,7 +1127,7 @@
      "mins": 2,
      "do": "Ask your child what they found.",
      "say": "Which stars did you find? Were they all equally bright?",
-     "kid": "Which stars did you find? Were they all equally bright?",
+     "kid": "Point to each star you found. Which are bright and which are faint?",
      "ask": [
       {
        "q": "If a star looks faint, does that mean it is further away?",
@@ -1149,7 +1149,7 @@
      "caption": "2. On a dark night, look for Arundhati beside Vasishtha."
     }
    ],
-   "context": "This is the Find the Saptarishi activity. You find a real star pattern from your balcony or terrace."
+   "context": "This is the Find the Saptarishi activity. You find the ladle of the Saptarishi in the real sky from your own balcony or terrace."
   },
   {
    "id": "a3",
@@ -1169,14 +1169,14 @@
      "what": "Hear four stories about the same small group of stars. Draw one of them, and make up your own."
     }
    ],
-   "record": "Draw the cluster in the middle of a page and your favourite story round it.",
+   "record": "Draw the cluster in the middle of a page and write your own story round it, or tell the story aloud to a grown-up.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
      "do": "1. Draw a tight group of six or seven dots in the middle of a page. This is Krittika. 2. Read out the four short stories in the note, one by one.",
      "say": "These four stories are all about the same small group of stars. Listen, and tell me what is the same in them.",
-     "kid": "Listen to four stories. They are all about the same few stars. What is the same in them?",
+     "kid": "Look at the dots: this is Krittika. Listen to the four stories about it.",
      "parent": "1. India: the six Krittikas are mothers who cared for the baby Kartikeya, called Murugan in Tamil Nadu. 2. Greece: the Pleiades are seven sisters, and one is hard to see. 3. Many Aboriginal peoples of Australia: seven sisters are chased across the sky by a man. 4. The Maori of New Zealand: when Matariki rises before dawn in midwinter, the new year begins.",
      "context": "This is the first step of the Krittika Round the World activity. You hear how different peoples tell stories about the same star cluster."
     },
@@ -1185,7 +1185,7 @@
      "mins": 4,
      "do": "Talk about what is the same and what is different.",
      "say": "What is the same in these stories? Why do you think so many people saw women or sisters?",
-     "kid": "What is the same in the stories? Why do so many people see sisters?",
+     "kid": "Say what is the same. Then say what is different.",
      "ask": [
       {
        "q": "Why might some stories have six women and some have seven?",
@@ -1200,9 +1200,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child draws one story and makes up their own.",
-     "say": "Now you are a storyteller. Make up your own story about these stars. Who are they? Why are they so close together?",
-     "kid": "Make up your own story about these stars. Who are they? Draw it.",
+     "do": "Your child makes up their own story about the stars, and tells it, acts it out or draws it.",
+     "say": "Now you are a storyteller. Who are these stars? Why are they so close together?",
+     "kid": "Make up your own story about these stars. Tell it, act it out, or draw it.",
      "parent": "A good answer to why the stars are so close together: they really are close, because the stars of Krittika were born together from one cloud of gas and travel together. A story where the sisters stay together fits that best. Unlike the Saptarishi, Krittika is a real group.",
      "think": "Krittika's stars really were born together. Which story fits that best?"
     }
@@ -1214,10 +1214,10 @@
     },
     {
      "art": "Four little panels round the cluster: six mothers with a baby, seven Greek sisters, seven sisters running across an Australian sky, and a Maori family greeting dawn.",
-     "caption": "2. Hear four stories about it, then draw your own."
+     "caption": "2. Hear four stories about it, then make up your own."
     }
    ],
-   "context": "This is the Krittika Round the World activity. You compare stories from four cultures about one star cluster."
+   "context": "This is the Krittika Round the World activity. You hear four stories about one small group of stars, and find out what is the same in all of them."
   },
   {
    "id": "a4",
@@ -1248,7 +1248,7 @@
      "mins": 5,
      "do": "Show your child a printed calendar. Point to where it names the nakshatra for each day.",
      "say": "This calendar tells us which nakshatra the Moon is in each day. Can you find today's?",
-     "kid": "Find today on the calendar. Which nakshatra is the Moon in today?",
+     "kid": "Find today's date. Read out the nakshatra written beside it.",
      "parent": "Many Tamil, Malayalam, Marathi and Bengali calendars print the nakshatra for each day, often in a corner of the date box. If you have no printed calendar, go straight to the next step, where the festivals are listed.",
      "context": "This is the first step of the Festival Stars activity. You find out which festivals are timed by the Moon's nakshatra."
     },
@@ -1265,7 +1265,7 @@
      "mins": 4,
      "do": "Ask the question below.",
      "say": "The Moon visits all 27 nakshatras every month. So why is Onam only once a year?",
-     "kid": "The Moon visits Thiruvonam every month. So why is Onam once a year?",
+     "kid": "Look at the Onam row in your table. Think, then tell your grown-up your idea.",
      "ask": [
       {
        "q": "Why is Onam only once a year?",
@@ -1287,7 +1287,7 @@
      "caption": "2. Make a table of festivals and their nakshatras."
     }
    ],
-   "context": "This is the Festival Stars activity. You find festivals that are timed by the Moon's nakshatra."
+   "context": "This is the Festival Stars activity. You find out which festivals are timed by the Moon's nakshatra, and why each one falls on a single day of the year."
   },
   {
    "id": "a5",
@@ -1353,7 +1353,7 @@
      "caption": "2. Test it in the dark."
     }
    ],
-   "context": "This is the Red Torch activity. You make a red light for stargazing."
+   "context": "This is the Red Torch activity. You make a red light you can read by without spoiling your eyes for stargazing."
   }
  ],
  "projects": [
@@ -1399,9 +1399,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "In daylight, your child draws the skyline from the balcony along the bottom of the page.",
+     "do": "In daylight, your child draws the balcony skyline along the bottom of the page, or sticks a photo there.",
      "say": "Draw what you see from here: the buildings, trees and water tanks. This is the bottom of our sky map.",
-     "kid": "Draw the buildings and trees you see from the balcony. This is the bottom of your map.",
+     "kid": "Draw the buildings and trees you see, or stick a photo. This is the bottom of your map.",
      "parent": "The skyline helps your child find the same stars again. 'Just above the blue water tank' is easy to remember.",
      "context": "This is the first step of the Balcony Sky Map project. You make a map of the stars you can see from home."
     },
@@ -1419,7 +1419,7 @@
      "id": "s3",
      "mins": 15,
      "do": "With a sky app or a star map, help your child name the dots and write the names on the map.",
-     "say": "Let's find out what each dot is. Which ones belong to the same constellation? Is any of them a nakshatra?",
+     "say": "Let's find out what each dot is. Which ones belong to the same constellation?",
      "kid": "Find the name of each dot. Write it on your map. Is any of them a nakshatra?",
      "wait": "Do this on day 3.",
      "ask": [
@@ -1444,7 +1444,7 @@
      "caption": "2. Add the stars at night, then name them."
     }
    ],
-   "context": "This is the Balcony Sky Map project. Over three days you draw a map of the stars you can see from home."
+   "context": "This is the Balcony Sky Map project. Over three days you make a map of the stars you can see from home, and count how many there are."
   }
  ],
  "challenges": [
@@ -1487,9 +1487,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws the shape, names it, and writes a short story and directions.",
+     "do": "Your child shows the shape (draw it, or lay out beans), names it, and writes or says a short story and directions.",
      "say": "What will you call it? What is its story? How would a visitor find it?",
-     "kid": "Name your constellation. Write its story. Write how to find it.",
+     "kid": "Name your constellation. Tell its story. Say how to find it.",
      "ask": [
       {
        "q": "Would your constellation have the same shape from a planet going round another star?",
@@ -1505,7 +1505,7 @@
      "mins": 10,
      "do": "On another evening, give the directions to a family member. Can they find it alone?",
      "say": "Let's test your directions. Can someone at home or a friend find it on their own?",
-     "kid": "Give your directions to someone. Can they find it alone?",
+     "kid": "Tell your directions to someone at home. Watch where they look.",
      "adult": true,
      "wait": "Do this on another clear evening."
     }
@@ -1553,14 +1553,14 @@
      "mins": 5,
      "do": "Plan with your child what words will help a friend find a star without pictures.",
      "say": "Your friend can't see your balcony. What words will help them find the same star?",
-     "kid": "Your friend can't see your balcony. What words will help them find your star?",
+     "kid": "Think of three things you can say to help your friend find your star.",
      "context": "This is the first step of the Find It by Phone challenge. You describe where a star is, using only words."
     },
     {
      "id": "s2",
      "mins": 15,
      "do": "Make the phone call at an agreed time. Your child gives directions using direction, fists and brightness.",
-     "say": "Tell them which way to face. Then how many fists up. Then what is near it.",
+     "say": "Give your friend one clue at a time, and ask if they can see the star yet.",
      "kid": "Tell your friend which way to face. How many fists up? What is near it?",
      "adult": true
     },
@@ -1568,8 +1568,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about what worked and what did not.",
-     "say": "Which words helped most? Why was the Moon a good signpost?",
-     "kid": "Which words helped most? Was the Moon a good signpost? Why?",
+     "say": "Which words helped most? Which did not help?",
+     "kid": "Was the Moon a good signpost? Why or why not?",
      "ask": [
       {
        "q": "Suppose one friend is in Guwahati and another in Pune. Do they see the same stars?",
@@ -1591,7 +1591,7 @@
      "caption": "2. Guide your friend by phone."
     }
    ],
-   "context": "This is the Find It by Phone challenge. You help someone far away find a star, using only words."
+   "context": "This is the Find It by Phone challenge. You help someone far away find a star using only words, and find out which words work best."
   }
  ],
  "videos": [

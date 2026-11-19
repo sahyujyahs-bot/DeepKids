@@ -714,7 +714,7 @@
      "mins": 3,
      "do": "Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Your eye'. Point along the arrows as you say it.",
      "say": "Here is a practice chain. The torch makes light. The light lands on the cat and bounces off the cat. Some of it goes into your eye. So you see the cat.",
-     "kid": "Practice chain: a torch, a cat, your eye. Light goes from the torch to the cat. It bounces into your eye. Which way do the arrows point?",
+     "kid": "Practice chain: a torch, a cat, your eye. Follow the light along the arrows with your finger.",
      "check": {
       "t": "mcq",
       "q": "In the chain 'torch, cat, your eye', which way does the light go between the cat and your eye?",
@@ -749,7 +749,7 @@
      "mins": 3,
      "do": "When a chain is laid, let the next player put a BLOCKER card on one of its arrows. They say which part of the journey is broken.",
      "say": "Blocker time. Put your blocker on an arrow. Tell us which part of the light's journey it breaks.",
-     "kid": "Got a BLOCKER card? Put it on one arrow. Which part of the journey does it break? Say why.",
+     "kid": "Got a BLOCKER card? Put it on one arrow of the chain.",
      "check": {
       "t": "mcq",
       "q": "A 'power cut' blocker is played on the chain 'tubelight, book, your eye'. Which part does it break?",
@@ -837,17 +837,17 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. The SUN throws sock balls gently to the MANGO, one at a time. 2. The MANGO throws each one on in any direction, without aiming. 3. Count the balls that land in the EYE basket.",
+     "do": "1. The SUN throws sock balls gently to the MANGO, one at a time. 2. The MANGO throws each one on in any direction, without aiming.",
      "say": "SUN, send your light. MANGO, bounce it anywhere, don't aim. The EYE can only catch what comes to it. It cannot reach out.",
-     "kid": "SUN, throw the light gently. MANGO, bounce it any way at all. The EYE stays still and catches. How many balls land in the basket?",
+     "kid": "SUN, throw the light gently. MANGO, bounce it any way at all. The EYE stays still and catches.",
      "parent": "Throw softly, with socks, not hard balls. The point is that the EYE catches only a few of the bounced balls. Most go off in other directions, which is why everyone in a room can see the same mango. If no ball lands in the basket in one round, that is a real result: the EYE catches only a few. Use more balls, or stand the basket nearer."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the balls in the EYE basket. If you have a BRAIN, ask them to guess what the thing is from the clue words.",
-     "say": "How many balls did the EYE catch, and how many missed? BRAIN, if you are playing, what do you think the thing is?",
-     "kid": "Count the balls in the basket. How many missed? BRAIN, listen to the clues. What is the thing?",
+     "do": "Count the balls in the EYE basket. If you have a BRAIN, the MANGO says three clue words (for example 'yellow, sweet, juicy') and the BRAIN guesses the thing.",
+     "say": "How many balls did the EYE catch, and how many missed? BRAIN, if you are playing, the MANGO will give you three clue words. What is the thing?",
+     "kid": "Count the balls in the basket. How many missed? BRAIN, listen to the MANGO's three clues and guess the thing.",
      "ask": [
       {
        "q": "Why did the EYE not catch every ball?",
@@ -1474,7 +1474,7 @@
    "title": "The Dark Box: can we see without light?",
    "mins": 20,
    "days": 1,
-   "context": "This is the dark box test. You hide three things in a closed shoebox and look through a small peephole. Then you let in a little light at a time.",
+   "context": "You will find out if your eyes can see anything when no light comes in. You hide three things in a closed shoebox and look through a small peephole. Then you let in a little light at a time.",
    "question": "Can we see anything when there is no light?",
    "predict": "Before you look, guess. What will you see through the peephole when the lid is shut tight? Which of the three objects will you see first when a little light comes in? Why do you think so?",
    "fair_test": "To make it fair, look through the same peephole every time, from the same place. Change only one thing: how far the lid is open. Count slowly to 5 before you answer each time, because your eyes need a moment to settle.",
@@ -1515,7 +1515,7 @@
      "what": "Make the box, guess what you will see, then open the lid a little at a time and record what appears."
     }
    ],
-   "record": "Fill in the table. Then draw what you saw at each step: total dark, a crack of light, half open and fully open.",
+   "record": "Fill in the table. Then show what you saw at each step: total dark, a crack of light, half open and fully open. Draw it, or tell your grown-up and they write it down.",
    "flow": [
     {
      "id": "s1",
@@ -1531,7 +1531,7 @@
      "mins": 2,
      "do": "Ask your child to guess before looking.",
      "say": "When you look through the hole with the lid shut, what do you think you will see? If we let a little light in, what will you see first?",
-     "kid": "Guess first. What will you see with the lid shut? What will you see first when a little light gets in?",
+     "kid": "Guess before you look. Tell your grown-up what you think you will see.",
      "ask": [
       {
        "q": "What do you think you will see with the lid shut?",
@@ -1679,7 +1679,7 @@
    "days": 1,
    "context": "In this test you watch the black circle in the middle of the eye, called the pupil. You measure how big it is in dim light and in bright light.",
    "question": "How does the size of my pupil change in dim light and in bright light?",
-   "predict": "Before you start, guess. Will the pupil be bigger or smaller in dim light? Why do you think so? Draw what you think it will look like in dim light and in bright light.",
+   "predict": "Before you start, guess. Will the pupil be bigger or smaller in dim light? Why do you think so? Say what you think the pupil will look like in dim light and in bright light.",
    "fair_test": "To make it fair, measure the same eye each time, with the same pupil card. Change only one thing: how bright the room is. Wait one full minute in each light before you measure. Measure three times in each light, because one look can be a fluke.",
    "results_table": [
     "How bright is it?",
@@ -1756,7 +1756,7 @@
      "mins": 3,
      "do": "Help your child find the middle value for each light. Then draw a bar chart, with one bar for each kind of light.",
      "say": "Let's turn the numbers into a picture. Each kind of light gets one bar. A taller bar means a bigger pupil.",
-     "kid": "Put your three numbers in order. The middle one is your middle value. Draw one bar for each light. A taller bar means a bigger pupil.",
+     "kid": "Put your three numbers in order. The middle one is your middle value. Make one bar for each light: draw it, or stack coins in one pile for each light. A taller bar means a bigger pupil.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: pupil size in different light",
@@ -1846,7 +1846,7 @@
      "what": "Shine the torch on a toy. Break the light's path in three different places. Record what you can see."
     }
    ],
-   "record": "Fill in the table. Then draw the toy, the torch and your eye. Draw the light's path with arrows, and mark where you broke it each time.",
+   "record": "Fill in the table. Then show the light's path with arrows, and mark where you broke it each time. Draw it, or take a photo of your torch, toy and cup set out in a row.",
    "flow": [
     {
      "id": "s1",
@@ -1929,9 +1929,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child to draw the torch, the toy and an eye, with arrows for the light. Then ask what they think, what they saw, and why.",
-     "say": "Draw the light's path with arrows. Which way do the arrows go? Then tell me what you think, what you saw, and why.",
-     "kid": "Draw the torch, the toy and your eye. Draw arrows for the light. Then say what you think, what you saw, and why it happened.",
+     "do": "Ask your child to set the torch, the toy and a small cup (the eye) in a row, and lay a string from the torch to the toy and from the toy to the cup. Then ask what they think, what they saw, and why.",
+     "say": "Show the light's path with the string. Which way does the light go along it? Then tell me what you think, what you saw, and why.",
+     "kid": "Set the torch, the toy and the cup in a row. Lay the string to show the light's path. Then say what you think, what you saw, and why it happened.",
      "parent": "Look at the arrows. Many children draw an arrow from the eye to the toy. If your child does, ask: 'In the dark room, did your eye send something out? Then why couldn't you see?' A good answer: What I think: to see the toy, light must go from the torch to the toy and then into my eye. What I saw: when the card blocked either part, the toy vanished. Why: the toy makes no light, so it needs to bounce light from the torch into my eye."
     }
    ],
@@ -1979,7 +1979,7 @@
      "what": "Shine a torch across a dark room. Look at the beam from the side. Then spray mist into it."
     }
    ],
-   "record": "Draw the beam before the mist and after the mist. Draw arrows to show where the light goes to reach your eyes.",
+   "record": "Draw the beam before the mist and after the mist, with arrows to show where the light goes to reach your eyes. Or tell your grown-up what you saw.",
    "flow": [
     {
      "id": "s1",
@@ -2020,9 +2020,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask your child to draw the beam before and after the mist, with arrows showing where the light goes.",
-     "say": "Draw what you saw. Then draw arrows. Which way did the light go to reach your eyes?",
-     "kid": "Draw the beam with no mist, and with mist. Add arrows. How did the light get to your eyes?",
+     "do": "Ask your child to trace the light with a finger: from the torch to a drop of mist, then from the drop into their eyes.",
+     "say": "Show me with your finger. Which way did the light go to reach your eyes?",
+     "kid": "Trace the light with your finger: from the torch, to a drop of mist, then into your eyes.",
      "think": "Sunbeams in a dusty room, or through trees on a misty morning, work the same way. Where else have you seen a beam of light?",
      "parent": "A good answer: each drop of mist reflects a little light sideways, into my eyes. Without the drops, the light went straight past me to the wall."
     }
@@ -2070,7 +2070,7 @@
      "what": "Make the card. Find the blind spot in each eye. Measure how far away the card is when the dot vanishes."
     }
    ],
-   "record": "Write how far the card was from your eye when the dot vanished, for your right eye and your left eye. Ask a family member to try too.",
+   "record": "Write how far the card was from your eye when the dot vanished. This was your right eye. For your left eye, turn the card upside down, cover your right eye and stare at the cross with your left eye. Ask a family member to try too.",
    "flow": [
     {
      "id": "s1",
@@ -2093,7 +2093,7 @@
      "mins": 4,
      "do": "Talk about why the dot vanished, and what your child saw in its place.",
      "say": "When the dot vanished, what did you see where it had been? A black hole, or plain white card?",
-     "kid": "When the dot vanished, what was there instead? A hole? Or plain white card?",
+     "kid": "Look at the place where the dot was. Tell your grown-up what you see there.",
      "check": {
       "t": "mcq",
       "q": "When the dot vanished, you saw plain white card, not a hole. Why?",
@@ -2161,7 +2161,7 @@
      "what": "At night, go to the darkest place you can reach. Count stars through a tube, or the small things in a dark room, at 0, 10 and 20 minutes."
     }
    ],
-   "record": "Write the number you counted at the start, after 10 minutes and after 20 minutes. Draw a bar chart.",
+   "record": "Write the number you counted at the start, after 10 minutes and after 20 minutes. Show them as a bar chart, or as piles of coins.",
    "flow": [
     {
      "id": "s1",
@@ -2185,9 +2185,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Back inside, help your child draw a bar chart of the three counts. Then ask what they think, what they saw, and why.",
-     "say": "Let's make a bar for each count. What happened to the number of stars? The sky didn't change, so what did?",
-     "kid": "Draw a bar for each count. Did the number go up? The sky stayed the same. So what changed?",
+     "do": "Back inside, help your child show the three counts as bars. They can draw them, or stack coins in three piles. Then ask what they think, what they saw, and why.",
+     "say": "Let's make a bar for each count. Which bar is the tallest?",
+     "kid": "Make a bar for each count: draw it, or stack coins. Which one is the tallest?",
      "check": {
       "t": "mcq",
       "q": "You counted more stars after 20 minutes in the dark. What changed?",
@@ -2281,7 +2281,7 @@
      "what": "Make the box. Shine three torches at the pinhole. Cover one torch at a time and watch its spot."
     }
    ],
-   "record": "Draw the three spots on the screen. Then draw what happened when you covered each torch.",
+   "record": "Write how many spots you saw, and which spot went out when you covered each torch. You can draw it too.",
    "flow": [
     {
      "id": "s1",
@@ -2368,7 +2368,7 @@
      "what": "At home, take a flash photo in dim light and look for red eyes. If you can, also look for eyeshine with a torch held next to your eyes, on an evening walk or with a pet."
     }
    ],
-   "record": "Draw an animal with eyeshine (or a face with red eyes). Draw an arrow from the torch or flash to the eye, and an arrow bouncing back to you.",
+   "record": "Show how the light goes: from the torch or flash to the eye, and bouncing back to you. Draw an animal with eyeshine (or a face with red eyes) with arrows, or say it out loud to your grown-up.",
    "flow": [
     {
      "id": "s1",
@@ -2446,9 +2446,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Before teaching anything, ask your child to draw themselves looking at a ball, with a lamp in the room. Ask them to add arrows to show how they see the ball.",
+     "do": "Before teaching anything, ask your child to show how they see a ball, with a lamp in the room. They can draw themselves, the ball and the lamp with arrows, or lay out a real ball, a lamp and paper arrows.",
      "say": "Draw yourself looking at a ball. There's a lamp in the room too. Now add arrows to show how you see the ball. There's no right or wrong yet.",
-     "kid": "Draw yourself looking at a ball. Draw a lamp too. Add arrows to show how you see the ball.",
+     "kid": "Draw yourself looking at a ball, with a lamp too, and add arrows to show how you see the ball. Or lay out a real ball, a lamp and paper arrows.",
      "parent": "Do not correct the drawing. Many children draw an arrow from their eye to the ball, or no arrows at all. Both are the ideas people had for thousands of years. Keep the drawing.",
      "context": "This is the first step of the drawing activity. You draw how you think you see a ball, before you learn about it."
     },
@@ -2551,7 +2551,7 @@
      "what": "Test the eye in a dark room with a lamp. Try each pupil size. Label the parts and show the family how it works."
     }
    ],
-   "record": "Draw what you saw on the retina screen with the small, middle and big pupil. Label the parts of your box eye.",
+   "record": "Show what you saw on the retina screen with the small, middle and big pupil: draw it, or take a photo of the screen each time. Label the parts of your box eye.",
    "flow": [
     {
      "id": "s1",
@@ -2566,15 +2566,15 @@
      "id": "s2",
      "mins": 15,
      "adult": true,
-     "do": "1. On the card strip, a grown-up makes three round holes. Make one as small as a pin, one as big as a pea, and one as big as a coin. 2. Your child paints a coloured ring around each hole. This is the iris. 3. Slide the strip into the track. 4. Tape the string to the back of the box and lead it to a drawing of a brain. This is the optic nerve.",
+     "do": "1. On the card strip, a grown-up makes three round holes. Make one as small as a pin, one as big as a pea, and one as big as a coin. 2. Your child paints a coloured ring around each hole. This is the iris. 3. Slide the strip into the track. 4. Tape the string to the back of the box and lead it to a card marked BRAIN. This is the optic nerve.",
      "say": "These three holes are pupils of different sizes. The coloured ring around each is the iris. The string is the optic nerve, which carries signals to the brain.",
-     "kid": "A grown-up makes three holes in the card strip: tiny, middle and big. Paint a coloured ring around each one. That is the iris. Slide the strip into the track. Tape a string from the back of the box to a drawing of a brain."
+     "kid": "A grown-up makes three holes in the card strip: tiny, middle and big. Paint a coloured ring around each one. That is the iris. Slide the strip into the track. Tape a string from the back of the box to a card marked BRAIN."
     },
     {
      "id": "s3",
      "wait": "Leave the paint to dry until tomorrow.",
      "mins": 12,
-     "do": "1. On day 2, make the room dark and switch on a lamp at one end. 2. Your child holds the box with the front pointing at the lamp, and looks at the retina screen. 3. Slide the strip to try each pupil size. Draw what you see each time.",
+     "do": "1. On day 2, make the room dark and switch on a lamp at one end. 2. Your child holds the box with the front pointing at the lamp, and looks at the retina screen. 3. Slide the strip to try each pupil size. Say what you see each time.",
      "say": "Try the tiny pupil first. What's on the retina? Now the big pupil. What's different?",
      "kid": "Point the front of the box at the lamp. Look at the screen at the back. Try the tiny hole, then the middle, then the big one. What changes?",
      "parent": "With the tiny hole, your child may see a dim but sharp glowing picture of the lamp. With the big hole, it is brighter but blurry. A real eye has a lens behind the pupil, which keeps the picture sharp even when the pupil is big. You can find out more about lenses later. The picture on the screen is upside down. The picture on your real retina is upside down too, and your brain sorts it out.",
@@ -2646,7 +2646,7 @@
     "In some towns, people have made solar bottle lights: a clear plastic bottle of water fixed through a hole in a tin roof. The water spreads daylight down into the dark room below.",
     "Use several white boards in a chain, each one bouncing light a bit further round the corner."
    ],
-   "your_turn": "Now design your own way to bring light into the corner. Draw it, build it and test it with the reading card. How many lines can you read now?",
+   "your_turn": "Now design your own way to bring light into the corner. Build it and test it with the reading card. How many lines can you read now? A quick sketch of your plan helps, but you can also just tell your grown-up.",
    "flow": [
     {
      "id": "s1",
@@ -2725,7 +2725,7 @@
     "A light that switches on by itself when someone walks past, then turns off again.",
     "Glow-in-the-dark stickers along the wall, at hand height, like a trail of stars."
    ],
-   "your_turn": "Now design your own night path. Draw a map of the room with your ideas on it. Test it at night with a grown-up. Can someone walk the path with only your design to see by?",
+   "your_turn": "Now design your own night path. Mark your ideas on the path with paper slips or tape. Test it at night with a grown-up. Can someone walk the path with only your design to see by?",
    "flow": [
     {
      "id": "s1",
@@ -2739,9 +2739,9 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Your child draws a map of the room and marks their ideas. 2. Try one idea at a time, like white tape on the step. 3. Check it again in the dark.",
-     "say": "Draw the room and mark your ideas. Then let's try them one at a time and see which ones work.",
-     "kid": "Draw a map of the room. Mark your ideas. Try one at a time in the dark. Which one helps most?",
+     "do": "1. Your child walks the path and puts a paper slip on each place that is hard to see, like the step and the door. 2. Try one idea at a time, like white tape on the step. 3. Check it again in the dark.",
+     "say": "Show me the places that are hard to see, and mark each with a paper slip. Then let's try your ideas one at a time and see which ones work.",
+     "kid": "Walk the path. Put a paper slip on each place that is hard to see. Try one idea at a time in the dark. Which one helps most?",
      "parent": "Remind your child of the dark box test. The white paper showed up first in dim light. The same is true of white tape on a step. Older people often need more light to see than children do, because their lenses let less light through."
     },
     {

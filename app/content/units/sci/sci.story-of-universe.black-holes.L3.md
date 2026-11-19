@@ -182,14 +182,14 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
   *Parent says:* To escape a place, you must go faster than its escape speed. The stronger its gravity, the faster you need to go. Let's guess who can escape from where.  
   *Child mode:* To escape, you must go fast enough. Stronger gravity needs more speed. Let's play!
 - **s2 (12 min)**  
-  *Parent does:* Players take turns, guessing and flipping the cards.  
+  *Parent does:* Take turns. Turn over one place card and one traveller card. Guess if the traveller can escape, then check.  
   *Parent says:* Can a bullet escape the Moon? Guess first, then flip the cards.  
-  *Child mode:* Turn over a place and a traveller. Can it escape? Guess, then flip!
+  *Child mode:* Turn over a place and a traveller. Guess first, then flip.
   - Check: Which traveller can escape from the Sun? → **A beam of light**
 - **s3 (5 min)**  
   *Parent does:* Put the black hole card and the light card side by side. Ask the last question.  
   *Parent says:* Light can escape the Moon, the Earth, Jupiter and the Sun. What happens at the edge of a black hole?  
-  *Child mode:* Light escapes everything else. What about a black hole?
+  *Child mode:* Put the black hole card beside the light card. Light escaped every other place.
   - Ask: Why can't light escape from inside a black hole? (good: The escape speed there is more than the speed of light.; Nothing can go faster than light, so nothing can get out.)
   - Note: This is the heart of the unit. At the edge of a black hole, the escape speed equals the speed of light. Inside, it is even more, and nothing can go faster than light.
 
@@ -199,12 +199,12 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 - **predict:** Before you test it, guess. Which will look darkest: the black paper, a small hole in the box, or a big hole? Why do you think so?
 - **fair test:** Look at everything in the same light, from the same spot, one big step away. Change only one thing at a time: first the size of the hole, then the colour inside the box. Ask a second person to rank them too, because one pair of eyes can be fooled.
 - **safety:** A grown-up makes and widens the hole, pushing the pencil and the scissors away from hands. Never look at the Sun, and keep the box out of direct sunshine.
-- **record:** Fill in the results table. Draw the lid, shading each part as dark as it looked.
+- **record:** Fill in the results table. Draw the lid, shading each part as dark as it looked, or just write the ranks you gave.
 - **results table:** What you look at | My rank (1 is darkest) | Second person's rank | What it looked like
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child a sheet of black paper and a sheet of white paper. 2. Show them the closed box. 3. Ask the guess question below. 4. Wait for a guess and a reason.  
-  *Parent says:* Black paper is about the darkest thing we have at home. Soon we will make a small hole in this box. Which do you think will look darker, the black paper or the hole? Why?  
-  *Child mode:* Here is black paper, and here is a closed box. Soon the box will have a hole in it. Guess which will look darker, the paper or the hole. Then say why you think so.
+  *Parent says:* Black paper is about the darkest thing we have at home. Soon we will make a small hole in this box. Let's guess which will look darker, the paper or the hole, and why.  
+  *Child mode:* Look at the black paper and the closed box. Soon the box will have a hole in it. Think about what you guess, and why.
   - Ask: Which do you think will look darkest: black paper, a small hole in the box, or a big hole? Why? (good: The black paper, because it is black.; The hole, because the inside of the box is dark.; Any guess with a reason is good.)
   - Note: Accept any guess with a reason. Most children and adults say the black paper. Do not explain yet. The test will show it.
 - **s2 (6 min) · grown-up needed**  
@@ -222,12 +222,12 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up makes the hole bigger with scissors, until it is about 3 centimetres wide, the width of a bottle cap. 2. Put the lid back exactly as before. 3. Look from the same spot. Rank the white strip, the black paper and the big hole. 4. Is the big hole darker or lighter than the small hole was?  
   *Parent says:* Now we change one thing: the size of the hole. Do you think the bigger hole will look darker or less dark? Why?  
-  *Child mode:* A grown-up makes the hole bigger. Look again from the same spot. Is the big hole as dark as the small one?
+  *Child mode:* A grown-up makes the hole bigger. Look again from the same spot and rank the three.
   - Note: Cut slowly round the hole with the scissors pointing away from you. The bigger hole usually looks less black than the small one. You may see the inside of the box faintly. It may still look darker than the black paper. Either result is fine: write what you see.
 - **s5 (5 min)**  
   *Parent does:* 1. Open the box. 2. Line the inside with black paper or a black cloth, on the bottom and the sides. 3. Close it again. 4. Look at the big hole from the same spot and rank it again.  
   *Parent says:* Now the inside of the box is black too. Will the big hole look darker than before? Let's see.  
-  *Child mode:* Line the inside of the box with black paper or cloth. Close it. Look at the big hole again. Is it darker now?
+  *Child mode:* Line the inside of the box with black paper or cloth. Close it. Look at the big hole again and rank it.
   - Note: With a black inside, each bounce soaks up more light, so the big hole should look darker than before. If you have a phone, take a photo of the lid. In the photo, the hole is usually the darkest spot of all.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened. Then read the parent note aloud.  
@@ -237,26 +237,26 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 
 ## Activities
 ### a1 · Squeeze the Bread: same stuff, much smaller (15 min)
-- **record:** Draw the slice before and the ball after, with their widths written beside them.
+- **record:** Write down the slice's width before and the ball's width after. You can draw both, or take a photo.
 - **s1 (4 min)**  
   *Parent does:* 1. Measure how wide the slice of bread is with the ruler. 2. If you have a kitchen scale, weigh it. 3. Write both numbers down.  
-  *Parent says:* Let's measure this slice. How wide is it? If we squeeze it, what do you think will change, and what will stay the same?  
-  *Child mode:* Measure the bread slice. Weigh it if you can. If you squeeze it, what will change?
+  *Parent says:* Let's measure this slice. How wide is it?  
+  *Child mode:* Measure the bread slice. Weigh it if you can.
   - Ask: If you squeeze the bread, what will change and what will stay the same? (good: It will get smaller.; It will still be the same bread.; It will weigh the same.)
 - **s2 (5 min)**  
   *Parent does:* 1. Your child squeezes the slice in their fist, rolls it and squeezes again, as hard as they can. 2. Measure the ball. 3. Weigh it again, if you have a scale.  
   *Parent says:* Squeeze as hard as you can. Roll it and squeeze again. How wide is it now? Does it weigh the same?  
-  *Child mode:* Squeeze the bread hard. Roll it. Squeeze again. How wide is it now? Weigh it again.
+  *Child mode:* Squeeze the bread hard. Roll it. Squeeze again. Then measure it and weigh it again.
   - Note: A slice about 10 centimetres wide usually squeezes to a ball 2 or 3 centimetres wide. The weight stays the same, or within a gram or two, because a few crumbs may fall off. The air in the bread's holes was pushed out, but the bread itself is all still there.
   - Check: After squeezing, the bread ball has: → **the same bread, in a smaller space**
 - **s3 (6 min)**  
-  *Parent does:* 1. Hold up the big ball and say it is the Earth. 2. Hold up the marble beside it. 3. Tell your child what the Earth would look like as a black hole.  
-  *Parent says:* Suppose we squeezed the whole Earth like the bread, until it was as small as this marble. It would become a black hole, with all the Earth's mass in a ball about 2 centimetres wide. Why do you think its gravity would be so strong close to it?  
-  *Child mode:* This big ball is the Earth. If the whole Earth were squeezed to the size of this marble, it would be a black hole. Why would its gravity be so strong close to it?
+  *Parent does:* 1. Hold up the big ball and say it is the Earth. 2. Hold up the marble beside it. 3. Say what the Earth would become, using the words below.  
+  *Parent says:* Suppose we squeezed the whole Earth like the bread, until it was as small as this marble. It would become a black hole, with all the Earth's mass in a ball about 2 centimetres wide.  
+  *Child mode:* This big ball is the Earth. Squeeze the whole Earth down to the size of this marble. It would be a black hole.
   - Ask: Why would a marble-sized Earth have such strong gravity close to it? (good: All the Earth's mass would be in a tiny space.; You could get very close to all of that mass.)
   - Note: Nothing in nature can squeeze the Earth like this. Only the collapse of a giant star is strong enough to make a black hole. The marble is to help us imagine how tightly a black hole is packed.
 ### a2 · Swap the Sun: would the Earth fall into a black hole? (act it out) (10 min)
-- **record:** Draw two pictures: the Earth going round the Sun, and the Earth going round a black hole of the same mass.
+- **record:** Tell someone at home what happened when the Sun became a black hole and the Earth kept going round. You can draw the two paths if you like.
 - **s1 (4 min)**  
   *Parent does:* 1. The grown-up stands in the middle as the Sun, holding a lit torch and one end of the scarf. 2. The child holds the other end and walks round in a big circle as the Earth, keeping the scarf tight.  
   *Parent says:* I am the Sun. The scarf is gravity, pulling you towards me. Walk round me, keeping it tight. That is the Earth going round the Sun.  
@@ -264,17 +264,17 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 - **s2 (4 min)**  
   *Parent does:* 1. The Sun crouches down small, turns off the torch, and keeps holding the scarf with the same grip. 2. The Earth keeps walking round. 3. Ask the question below.  
   *Parent says:* Now I have turned into a black hole. I am much smaller, and I give no light. But I have the same mass, so I pull you just as hard. Are you falling in?  
-  *Child mode:* The Sun is now a black hole. Small and dark. The pull is the same. Do you fall in?
+  *Child mode:* The Sun is now a black hole. Small and dark. The pull is the same. Keep walking.
   - Ask: Did the Earth fall in when the Sun became a small black hole? (good: No, the pull was the same.; The Earth kept going round, but it was dark.)
   - Check: If the Sun were swapped for a black hole of the same mass, the Earth would: → **keep going round on the same path, in the dark**
 - **s3 (2 min)**  
   *Parent does:* Stop and talk about what would really change on Earth.  
   *Parent says:* The Earth would keep going round. So what would be the problem for us?  
-  *Child mode:* The Earth keeps going round. What would be the problem?
+  *Child mode:* Think about what the Earth would be like with no light.
   - Note: Good answers: no sunlight, so no day, no warmth, and plants could not make their food. The Sun will never become a black hole, because it is not heavy enough. This is only a thought test.
 ### a3 · The Hidden Partner: find what you cannot see (15 min)
 - **safety:** Spin slowly, at walking speed, and stop if anyone feels dizzy. A grown-up must be one of the spinners.
-- **record:** Draw what the film or the watcher showed: the circle the light made, and where you think the hidden partner was.
+- **record:** Tell someone what the film or the watcher showed, and where the hidden partner was. You can draw the circle the light made instead.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Make the room dark. 2. Prop a phone on a shelf, facing the clear space, and start filming. If another person is at home, they can sit by the wall and watch instead. 3. The child holds a lit torch at chest height, pointing up. 4. The grown-up, in dark clothes, holds the child's other hand.  
   *Parent says:* The torch is a star you can see. I am a hidden partner, like a black hole. We will find where I am using only the light.  
@@ -288,12 +288,12 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* If two children are about the same size, let them spin together, one holding a torch, in the same way.  
   *Parent says:* Now two people of the same size spin. Where is the middle of the circle now?  
-  *Child mode:* Now two children the same size spin. Where is the middle now?
+  *Child mode:* Spin with another child of the same size. Watch where the light goes.
   - Note: With two equal partners, each makes a circle of the same size, round a point halfway between them. With a heavy partner, the middle moves close to the heavy one. Skip this step if only one child is at home.
 - **s4 (3 min)**  
   *Parent does:* Talk about how astronomers use the same idea.  
-  *Parent says:* Astronomers watched stars swing round the centre of our galaxy, round a spot where they could see nothing. What do you think they worked out?  
-  *Child mode:* Stars swing round a dark spot in our galaxy. What must be there?
+  *Parent says:* Astronomers watched stars swing round the centre of our galaxy, round a spot where they could see nothing.  
+  *Child mode:* Stars swing round a dark spot in our galaxy. Think back to the spinning. What pulled the light round?
   - Check: A star moves fast in a small circle round a spot where nothing can be seen. What does that tell astronomers? → **Something very heavy is hidden there**
 
 ## Projects
@@ -302,13 +302,13 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 - **schedule:** day 1: Fold the strip into 6 pages. Draw the first three pages: a cloud of gas, a new giant star shining, and the star swelling up near the end of its life. (20 min); day 2: Draw the last three pages: the middle collapsing with a bright explosion, a black hole with hot gas swirling round it, and a star going round the black hole. Read the book to someone in your family. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Fold the strip back and forth into 6 pages, like a fan. 2. Page 1: a big cloud of gas and dust. 3. Page 2: a giant blue-white star shining. 4. Page 3: the star swelling up, red and huge. 5. Write one short sentence under each page.  
-  *Parent says:* We are making the life story of a giant star. It starts as a cloud. Gravity pulls the cloud together into a star. Once the star shines, its middle is very hot, and hot gas pushes outwards. Gravity keeps pulling inwards. Near the end of its life, the star swells up and turns red. First, what do you think keeps the star from being squeezed smaller by its own gravity?  
-  *Child mode:* Fold the paper into 6 pages. Draw a gas cloud, then a giant star, then the star swelling up. Write one line under each.
+  *Parent says:* We are making the life story of a giant star. It starts as a cloud. Gravity pulls the cloud together into a star. Once the star shines, its middle is very hot, and hot gas pushes outwards. Gravity keeps pulling inwards. Near the end of its life, the star swells up and turns red.  
+  *Child mode:* Fold the paper into 6 pages. Show a gas cloud, then a giant star, then the star swelling up. Draw them, or tear and stick coloured paper. Write one line under each.
   - Ask: What keeps a star from being squeezed smaller by its own gravity? (good: The heat from its burning middle pushes out.; The push from inside balances the pull of gravity.)
 - **s2 (20 min)**  
   *Parent does:* 1. Page 4: the middle of the star collapsing, with a bright flash round it. 2. Page 5: a black dot with hot orange gas swirling round it. 3. Page 6: another star going round the black hole. 4. Write one sentence under each page. 5. Read the whole book aloud to someone.  
-  *Parent says:* When the fuel runs out, the push stops. Gravity wins, and the middle collapses. What is left can be a black hole. How will you draw something that gives out no light?  
-  *Child mode:* Draw the middle collapsing with a flash. Then a black hole with glowing gas round it. Then a star going round it. Read your book aloud!
+  *Parent says:* When the fuel runs out, the push stops. Gravity wins, and the middle collapses. What is left can be a black hole. A black hole gives out no light, so we show it as a black dot or a piece of black paper.  
+  *Child mode:* Show the middle collapsing with a flash. Then a black hole with glowing gas round it. Then a star going round it. Draw or stick paper. Read your book aloud!
   - Note: A black hole cannot be seen, so we draw it as a black circle with the glowing gas around it. Only stars many times heavier than the Sun end as black holes. The Sun will end as a small white dwarf.
   - Check: Which of these stars could become a black hole when it dies? → **A star 30 times as heavy as the Sun**
   - Wait: Do this on day 2.
@@ -322,8 +322,8 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 - **creative:** Pack many black straws or rolled black paper tubes side by side and look at their open ends. Each tube is a tiny trap for light.; Put a crumpled sheet of black paper inside the box, so light bounces in every direction.; Compare a steel tumbler with a paper cup lined with black. Does a shiny inside help or spoil it?
 - **s1 (5 min)**  
   *Parent does:* Show your child the box from the Blackest Black experiment. Ask how they could make a darker black.  
-  *Parent says:* In the Blackest Black experiment, the hole in your box looked darker than black paper. How could you make something even darker? What did that experiment teach you?  
-  *Child mode:* The hole in your Blackest Black box was blacker than black paper. How could you make something even darker?
+  *Parent says:* In the Blackest Black experiment, the hole in your box looked darker than black paper. How could you make something even darker?  
+  *Child mode:* The hole in your Blackest Black box was blacker than black paper. Think about why.
 - **s2 (18 min) · grown-up needed**  
   *Parent does:* Let your child try their own idea first. If they are stuck, suggest a smaller hole, a deeper box or a black cloth inside.  
   *Parent says:* Try your idea. If you are stuck, think: where does the light go, and how could you make it bounce more times inside?  
@@ -331,8 +331,8 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
   - Note: Help with any cutting. Many small changes work: a smaller hole, a longer tube, a cloth lining. A shiny steel tumbler can reflect light back out, so it may look less dark. That is a useful result too.
 - **s3 (7 min)**  
   *Parent does:* Put the new design next to the Blackest Black box. Ask a second person which looks darker.  
-  *Parent says:* Which looks darker? Why do you think your change helped, or did not help?  
-  *Child mode:* Put them side by side. Which is darker? Why?
+  *Parent says:* Let's see which looks darker.  
+  *Child mode:* Put them side by side and look from the same spot.
   - Ask: Why did your design look darker, or not? (good: Less light could get back out.; The light bounced more times and was soaked up.; The shiny inside sent light back out.)
 
 ## Worksheets

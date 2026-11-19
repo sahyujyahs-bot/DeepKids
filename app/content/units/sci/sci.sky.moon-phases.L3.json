@@ -635,56 +635,56 @@
      "title": "16 cards to cut out: 8 Moon shape cards and 8 clue cards",
      "items": [
       {
-       "f": "MOON SHAPE: New Moon. Draw a completely dark circle.",
+       "f": "MOON SHAPE: New Moon. A completely dark circle.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-00.jpg",
         "credit": "NASA, public domain"
        }
       },
       {
-       "f": "MOON SHAPE: Growing crescent. Draw a circle with a thin curved sliver lit on the right.",
+       "f": "MOON SHAPE: Growing crescent. A thin curved sliver lit on the right.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-01.jpg",
         "credit": "NASA, public domain"
        }
       },
       {
-       "f": "MOON SHAPE: Growing half Moon. Draw a circle with the right half lit.",
+       "f": "MOON SHAPE: Growing half Moon. The right half lit.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-02.jpg",
         "credit": "NASA, public domain"
        }
       },
       {
-       "f": "MOON SHAPE: Growing gibbous Moon. Draw a circle lit on the right, with only a thin dark sliver on the left.",
+       "f": "MOON SHAPE: Growing gibbous Moon. Lit on the right, with only a thin dark sliver on the left.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-03.jpg",
         "credit": "NASA, public domain"
        }
       },
       {
-       "f": "MOON SHAPE: Full Moon. Draw a completely lit circle.",
+       "f": "MOON SHAPE: Full Moon. A completely lit circle.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-04.jpg",
         "credit": "NASA, public domain"
        }
       },
       {
-       "f": "MOON SHAPE: Shrinking gibbous Moon. Draw a circle lit on the left, with only a thin dark sliver on the right.",
+       "f": "MOON SHAPE: Shrinking gibbous Moon. Lit on the left, with only a thin dark sliver on the right.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-05.jpg",
         "credit": "NASA, public domain"
        }
       },
       {
-       "f": "MOON SHAPE: Shrinking half Moon. Draw a circle with the left half lit.",
+       "f": "MOON SHAPE: Shrinking half Moon. The left half lit.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-06.jpg",
         "credit": "NASA, public domain"
        }
       },
       {
-       "f": "MOON SHAPE: Shrinking crescent. Draw a circle with a thin curved sliver lit on the left.",
+       "f": "MOON SHAPE: Shrinking crescent. A thin curved sliver lit on the left.",
        "img": {
         "src": "media/cards/moon-phases-g1-0-07.jpg",
         "credit": "NASA, public domain"
@@ -727,7 +727,7 @@
     }
    ],
    "rules": [
-    "Draw each Moon shape on its card, as the card says. Cut out the 16 cards. Shuffle them and lay them face down in a 4 by 4 square.",
+    "Cut out the 16 cards. Shuffle them and lay them face down in a 4 by 4 square.",
     "On your turn, turn over two cards. A pair is one Moon shape card and the clue card that matches it.",
     "If you have a pair, say why they match, keep them and have another turn. If not, turn them back face down.",
     "When all the pairs are found, put the 8 Moon shape cards on the Moon-month ring, in the order the Moon goes through them. Go round the Earth the way the numbers go, from 1 to 8. The player with the most pairs places the first card.",
@@ -737,17 +737,17 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw each Moon shape on its card, as the card says. 2. Cut out the cards and the ring. 3. Shuffle the 16 cards and lay them face down in a 4 by 4 square. 4. Put the ring to one side.",
+     "do": "1. Cut out the cards and the ring. 3. Shuffle the 16 cards and lay them face down in a 4 by 4 square. 4. Put the ring to one side.",
      "say": "This is a memory game about the Moon's shapes. A pair is a Moon shape card and the clue that tells you when you see it.",
-     "kid": "Draw each Moon shape on its card. Mix up the 16 cards. Lay them face down in 4 rows of 4. A pair is one Moon shape card and its clue.",
+     "kid": "Cut out the cards. Mix up the 16 cards. Lay them face down in 4 rows of 4. A pair is one Moon shape card and its clue.",
      "context": "This is the first step of Moon Pairs. It is a memory card game about the Moon's shapes, called phases, and when you can see each one."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Play one practice turn together. Turn over the Full Moon card and the Purnima clue, face up, and match them.",
-     "say": "Here is a practice pair. The full Moon card goes with the Purnima clue. Why does the full Moon rise just as the Sun sets?",
-     "kid": "Practice pair: the full Moon and the Purnima clue. Why does the full Moon rise as the Sun sets?",
+     "say": "Here is a practice pair. The full Moon card goes with the Purnima clue. Turn them over together.",
+     "kid": "Practice pair: the full Moon card and the Purnima clue. Turn them over and match them.",
      "check": {
       "t": "mcq",
       "q": "Why does the full Moon rise just as the Sun sets?",
@@ -773,7 +773,7 @@
      "mins": 3,
      "do": "When all pairs are found, put the 8 Moon shape cards on the ring in order. Start with the new Moon at space 1, next to the Sun.",
      "say": "Now put the Moons round the ring in the order they come. Where does the full Moon go?",
-     "kid": "Put the 8 Moon shape cards round the ring in order. Start with the new Moon next to the Sun. Where does the full Moon go?",
+     "kid": "Put the 8 Moon shape cards round the ring in order. Start with the new Moon next to the Sun.",
      "check": {
       "t": "mcq",
       "q": "On the ring, where does the full Moon go?",
@@ -923,7 +923,7 @@
      "mins": 3,
      "do": "The first time a player catches a solar eclipse, stop and ask this question.",
      "say": "If you catch a solar eclipse, can everyone on Earth see it?",
-     "kid": "You caught a solar eclipse! Can everyone on Earth see it?",
+     "kid": "You caught a solar eclipse! Stop and think about who can see it.",
      "check": {
       "t": "mcq",
       "q": "In a total solar eclipse, who sees the Sun fully covered?",
@@ -946,7 +946,7 @@
      "parent": "They need to know how the Moon and the Earth move, and that the Moon's path is tilted. Eclipses are rare because at most new and full Moons the shadow misses, as with the tilt cards."
     }
    ],
-   "context": "This is a board game about eclipses. Your Moon token goes round the Earth. Each time it reaches or passes a new Moon or a full Moon, you turn a card. The card says whether the Moon passes right through the line from the Sun to the Earth. If it does, you catch an eclipse and make a mark on your tally.",
+   "context": "This is a board game about eclipses. You will find out why eclipses are so rare. Your Moon token goes round the Earth. Each time it reaches or passes a new Moon or a full Moon, you turn a card. The card says whether the Moon passes right through the line from the Sun to the Earth. If it does, you catch an eclipse and make a mark on your tally.",
    "setup": [
     {
      "art": "A paper board with a ring of eight Moon-shape spaces round a drawn Earth, a drawn Sun on the left, three coloured tokens on the new Moon space and a dice.",
@@ -1522,7 +1522,7 @@
    "mins": 25,
    "days": 1,
    "question": "Why does the Moon seem to change shape during the month?",
-   "predict": "Guess first. Draw what you think the ball will look like when it is between you and the lamp. Then draw what it will look like when it is behind you, away from the lamp. Say why you think so.",
+   "predict": "Guess first. Say what you think the ball will look like when it is between you and the lamp. Then say what it will look like when it is behind you, away from the lamp. Say why you think so.",
    "fair_test": "Keep everything the same except where the ball is. Use one lamp that stays still, the same ball, and always hold it at arm's length, a little above your head. Only turn yourself to move the ball round.",
    "results_table": [
     "Where the lamp is",
@@ -1556,7 +1556,7 @@
      "what": "Guess. Make the new Moon, the growing Moons, the full Moon and the shrinking Moons. Try an eclipse. Fill in the table."
     }
    ],
-   "record": "Fill in the table. Then draw the 8 Moon shapes round a circle, in the order you saw them.",
+   "record": "Fill in the table. Then show the 8 Moon shapes in order round a circle: draw them, or lay out 8 coins or buttons, one for each shape, and tell a grown-up the names.",
    "flow": [
     {
      "id": "s1",
@@ -1607,7 +1607,7 @@
      "mins": 4,
      "do": "Keep turning left, all the way round, until your child faces the lamp again.",
      "say": "Keep turning. What happens to the light now? Which side is lit this time?",
-     "kid": "Keep turning left, all the way round. Watch the light shrink. Which side is lit now?",
+     "kid": "Keep turning left, all the way round. Watch the light shrink.",
      "check": {
       "t": "mcq",
       "q": "As you keep turning and the light shrinks, which side of the ball is lit?",
@@ -1638,7 +1638,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the Moon doesn't really change shape. What I saw: half of the ball was always lit, and as I turned, I saw more or less of the lit half. Why: the Sun always lights half the Moon, and as the Moon goes round us we see different amounts of that half."
     }
    ],
-   "context": "In this experiment you use a lamp as the Sun, a ball as the Moon and your head as the Earth. Turning slowly, you make every shape the Moon goes through in a month.",
+   "context": "In this experiment you find out why the Moon seems to change shape. You use a lamp as the Sun, a ball as the Moon and your head as the Earth. Turning slowly, you make every shape the Moon goes through in a month.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example: a filled-in table",
@@ -1734,7 +1734,7 @@
      "what": "Make a solar eclipse and a lunar eclipse with two balls and a torch. Measure the shadows."
     }
    ],
-   "record": "Fill in the table. Draw both eclipses from the side, with the torch, the two balls and the shadows.",
+   "record": "Fill in the table. Take a photo of each eclipse from the side, or draw it with the torch, the two balls and the shadows.",
    "flow": [
     {
      "id": "s1",
@@ -1878,7 +1878,7 @@
      "what": "On Purnima, or the night after, look at the Moon as it rises. Measure it. Measure again two or three hours later."
     }
    ],
-   "record": "Fill in the table. Draw the Moon next to the horizon and high in the sky, both drawn the size you measured.",
+   "record": "Fill in the table. Write what the dal showed each time. Put your two photos side by side, or draw the Moon near the horizon and high in the sky, both the size you measured.",
    "flow": [
     {
      "id": "s1",
@@ -1895,7 +1895,7 @@
      "mins": 5,
      "do": "1. Hold the masoor dal between your finger and thumb. 2. Stretch your arm out straight. 3. Close one eye. 4. Move the dal in front of the Moon and see whether it covers it.",
      "say": "Hold the dal at the end of your straight arm. Close one eye. Can you hide the whole Moon behind it?",
-     "kid": "Hold one dal at the end of your straight arm. Close one eye. Try to hide the Moon behind the dal. Does it fit?",
+     "kid": "Hold one dal at the end of your straight arm. Close one eye. Try to hide the Moon behind the dal.",
      "ask": [
       {
        "q": "Did it fit? Were you surprised?",
@@ -2005,7 +2005,7 @@
      "what": "Walk round a chair as the Moon, always facing it. Count the walls you faced."
     }
    ],
-   "record": "Draw the chair from above, with you at four places round it, and an arrow for the way your nose pointed each time.",
+   "record": "Walk round the chair once more and tell a grown-up which way your nose pointed at four places. Or draw the chair from above with you at four places and an arrow for your nose.",
    "flow": [
     {
      "id": "s1",
@@ -2139,14 +2139,14 @@
      "what": "Lay all your drawings in a row, in date order, and find the pattern."
     }
    ],
-   "record": "One box for each night you looked: the date, the time, the direction you faced, the Moon's shape drawn carefully, and whether it was lit on the left or the right. Leave cloudy nights as a box marked 'cloudy'.",
+   "record": "One box for each night you looked: the date, the time, the direction you faced, the Moon's shape (drawn carefully, or a photo), and whether it was lit on the left or the right. Leave cloudy nights as a box marked 'cloudy'.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Find the date of the next Amavasya on a calendar. 2. Two or three days later, go to a west-facing window or balcony just after sunset. 3. Look low in the sky, where the Sun went down, for a thin crescent. 4. Draw it with the buildings under it, and write the date and time.",
+     "do": "1. Find the date of the next Amavasya on a calendar. 2. Two or three days later, go to a west-facing window or balcony just after sunset. 3. Look low in the sky, where the Sun went down, for a thin crescent. 4. Draw it with the buildings under it, or take a photo, and write the date and time.",
      "say": "We'll keep a Moon diary for about two weeks. Tonight the Moon is a thin crescent, close to where the Sun set. Which side of it is lit?",
-     "kid": "Just after sunset, look west, low down, with a grown-up. Find a thin curved Moon. Draw it, with the buildings under it. Write the date and the time.",
+     "kid": "Just after sunset, look west, low down, with a grown-up. Find a thin curved Moon. Draw it with the buildings under it, or take a photo. Write the date and the time.",
      "adult": true,
      "parent": "A thin crescent sets soon after the Sun, so look within an hour of sunset. In a city, buildings may hide it. Then look again the next evening, when it is higher. Try to look at the same time each evening. In India, the thin evening crescent often lies on its back, like a boat.",
      "context": "This is the first night of the Moon diary. A Moon diary is a record of the Moon's shape, place and time, night after night, so you can find its pattern yourself."
@@ -2154,10 +2154,10 @@
     {
      "id": "s2",
      "mins": 22,
-     "do": "1. Every second evening, go to the same spot at the same time. 2. Draw the Moon's shape. 3. Write the date, the time and the direction you faced. 4. When the Moon is about half, look along the Moon's straight edge with binoculars, if you have them.",
+     "do": "1. Every second evening, go to the same spot at the same time. 2. Draw the Moon's shape, or take a photo. 3. Write the date, the time and the direction you faced. 4. When the Moon is about half, look along the Moon's straight edge with binoculars, if you have them.",
      "wait": "Come back every second evening, at the same time, until Purnima.",
      "say": "We are at the same place, at the same time. Has the Moon grown? Has it moved? Which way are you facing to see it now?",
-     "kid": "Go to the same window at the same time. Draw the Moon again. Has it grown? Which way do you face to see it?",
+     "kid": "Go to the same window at the same time. Look at the Moon again, and draw or photograph it. Has it grown? Which way do you face to see it?",
      "adult": true,
      "ask": [
       {
@@ -2201,7 +2201,7 @@
      "parent": "A year is about 365 days, and a Moon month is about 29 and a half days. So a year holds about 12 and a third Moon months. You would draw 12 Purnimas in most years, and 13 in some."
     }
    ],
-   "context": "This is a diary you keep for about two weeks. Every second evening, you draw the Moon's shape, write the time and the direction, and in the end you find its pattern for yourself.",
+   "context": "This is a diary you keep for about two weeks. You will find out which way the Moon grows and where it moves each evening. Every second evening, you draw or photograph the Moon's shape, write the time and the direction, and in the end you find its pattern for yourself.",
    "setup": [
     {
      "art": "A girl at a balcony just after sunset facing west, drawing a thin crescent Moon lying like a boat above the rooftops in her notebook.",
@@ -2279,7 +2279,7 @@
      "parent": "Everyone in the village could see the same Moon shape for free. So everyone agreed on the day, and nobody needed a printed calendar or a message from far away."
     }
    ],
-   "context": "In this activity you use a calendar to sort festivals into ones set by the Moon and ones set by the Sun.",
+   "context": "In this activity you use a calendar to sort festivals into ones set by the Moon and ones set by the Sun. You will find out why Diwali moves to a new date each year, but Christmas does not.",
    "setup": [
     {
      "art": "A wall calendar page with small Moon signs on some dates, a child's finger on the Diwali square marked with a dark Moon.",
@@ -2324,7 +2324,7 @@
      "what": "Two to five days after Purnima, look for the Moon in the morning sky in the west."
     }
    ],
-   "record": "Draw the crescent with the faint grey circle of earthshine. Draw the daytime Moon in the blue sky, with the time.",
+   "record": "Tell a grown-up what you saw, and the time. Or draw the crescent with the faint grey circle of earthshine, and the daytime Moon in the blue sky.",
    "flow": [
     {
      "id": "s1",
@@ -2393,7 +2393,7 @@
      "what": "Act out the giant crash, the ring of hot rock and the Moon gathering."
     }
    ],
-   "record": "Draw a comic strip in four boxes: the crash, the ring of rock, the Moon gathering, and the Moon today.",
+   "record": "Act the four parts again and take a photo of each: the crash, the ring of rock, the Moon gathering, and the Moon today. Or draw them as a comic strip in four boxes.",
    "flow": [
     {
      "id": "s1",
@@ -2432,7 +2432,7 @@
      "parent": "The Moon's rock matches the Earth's outer rock because the Moon was probably made from it. So in a way the Moon is a piece of the Earth, with some of Theia mixed in."
     }
    ],
-   "context": "This is a short play about how the Moon was probably made: a planet called Theia crashing into the young Earth.",
+   "context": "This is a short play about how the Moon was probably made: a planet called Theia crashing into the young Earth. You will act it out, then find out what clues make scientists think it happened.",
    "setup": [
     {
      "art": "Children choosing roles on a mat: one child wrapped in an orange dupatta as the young glowing Earth, another holding a ball as Theia.",
@@ -2493,7 +2493,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. With a ruler, draw lines across the bigger plate to divide it into 8 equal slices, like a pizza. 2. In each slice, halfway between the centre and the edge, draw one Moon shape, in this order: new, growing crescent, growing half, growing gibbous, full, shrinking gibbous, shrinking half, shrinking crescent. 3. Colour the dark parts black.",
+     "do": "1. With a ruler, draw lines across the bigger plate to divide it into 8 equal slices, like a pizza. 2. In each slice, halfway between the centre and the edge, draw one Moon shape, in this order: new, growing crescent, growing half, growing gibbous, full, shrinking gibbous, shrinking half, shrinking crescent. 3. Colour the dark parts black. Or glue in the 8 Moon shape cards from Moon Pairs, in order.",
      "say": "We'll make a wheel that shows the Moon for any night. First, draw the 8 shapes in order round the plate.",
      "kid": "Divide the big plate into 8 slices. In each slice, draw one Moon shape, in order round the plate. Colour the dark parts black.",
      "parent": "Remember that a growing Moon seen from India is lit on the right, and a shrinking Moon on the left. Under each shape, write how many days after Amavasya it comes: 0, 4, 7, 11, 15, 18, 22, 26.",
@@ -2587,7 +2587,7 @@
      "mins": 6,
      "do": "1. Work out together how many days 12 Moon months take: about 29 and a half days times 12. 2. Compare it with 365 days.",
      "say": "One Moon month is about 29 and a half days. Twelve of them make about 354 days. The Sun's year is 365 days. How many days short are we?",
-     "kid": "Twelve Moon months make about 354 days. The Sun's year is 365 days. How many days short is that? Work it out.",
+     "kid": "Twelve Moon months make about 354 days. The Sun's year is 365 days. Work out the difference on paper or a calculator.",
      "check": {
       "t": "mcq",
       "q": "365 take away 354 is…",
@@ -2667,7 +2667,7 @@
     "Send the signal in a code of long and short flashes, so the rover can 'read' it.",
     "Ask: could the rover send a message back the same way?"
    ],
-   "your_turn": "Now invent your own way. Draw it first, then try it. How many mirrors do you need?",
+   "your_turn": "Now invent your own way. Tell your plan first, or sketch it, then try it. How many mirrors do you need?",
    "flow": [
     {
      "id": "s1",
@@ -2680,9 +2680,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Before trying anything, draw three ideas together.",
-     "say": "Engineers think before they build. Draw three ideas for getting the light round the Moon.",
-     "kid": "Draw three ideas first. How could you get the light round the pot?"
+     "do": "Before trying anything, think of three ideas together and say them out loud.",
+     "say": "Engineers think before they build. Tell me three ideas for getting the light round the Moon.",
+     "kid": "Think of three ideas first and say them out loud. How could you get the light round the pot?"
     },
     {
      "id": "s3",

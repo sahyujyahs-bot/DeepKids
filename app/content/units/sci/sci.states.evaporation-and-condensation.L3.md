@@ -201,9 +201,9 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s3 (3 min)**  
   *Parent does:* Ask your child to pick one card that was hard to sort.  
   *Parent says:* Pick one card that was hard. What question can you ask about the water to tell evaporation from condensation?  
-  *Child mode:* Pick a card that was hard. What question tells you if it is evaporation or condensation?
+  *Child mode:* Pick a card that was hard to sort. Tell your grown-up how you decided.
   - Note: A good question is this one. Is the water leaving something wet and going into the air, which is evaporation? Or is it appearing on something cold, which is condensation?
-  - Check: A misty window in a bus on a rainy day. Is it evaporation or condensation? → **Condensation**
+  - Check: The window of a bus mists up on a rainy day. Is that evaporation or condensation? → **Condensation**
 ### g2 · The Drying Race: a board game (20 min)
 - **rules:** You need a dice from any board game. Or write 1 to 6 on six paper slips and pick one from a bowl.; Each player puts a cloth token on square 1, WET. Two players are enough. Four can play.; On your turn, another player reads you a question card. If you answer correctly, roll the dice and move that many squares.; If your answer is wrong, the reader says the right answer. You move 1 square and do not roll.; A special square works only when your own move ends on it. If a square sends you to another square, do nothing more on the square you are sent to.; Miss a turn means you skip your next turn, and the question card goes to the bottom of the pile.; When the question cards run out, shuffle them and use them again.; The first cloth to reach square 20, DRY, wins. You do not need an exact roll. Going past 20 counts.; Playing alone: race two tokens against each other. Answer for both.
 - **Printable board: A board with 20 squares, from WET to DRY:** Square 1: WET, the start; Square 2: DAMP. Nothing happens here; Square 3: DAMP. Nothing happens here; Square 4: FAN ON! Move forward 2; Square 5: DAMP. Nothing happens here; Square 6: SPREAD WIDE ON THE LINE. Move forward 2; Square 7: DAMP. Nothing happens here; Square 8: RAINY, STILL DAY. Miss a turn; Square 9: DAMP. Nothing happens here; Square 10: LEFT IN A HEAP. Go back 2; Square 11: DAMP. Nothing happens here; Square 12: SUNNY BALCONY. Move forward 3; Square 13: FAN ON! Move forward 2; Square 14: DAMP. Nothing happens here; Square 15: TIED IN A PLASTIC BAG. Go back to square 10; Square 16: DAMP. Nothing happens here; Square 17: RAINY, STILL DAY. Miss a turn; Square 18: NEARLY DRY. Nothing happens here; Square 19: DRY WIND. Move forward 1; Square 20: DRY, the finish
@@ -215,8 +215,8 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
   *Child mode:* Your token is a wet cloth. Get it to DRY first!
 - **s2 (15 min)**  
   *Parent does:* Play the game. When someone lands on a special square, ask why it helps or slows drying.  
-  *Parent says:* You landed on the plastic bag. Why does that send you back?  
-  *Child mode:* Answer the question card, then roll the die and move. When you land on a special square, say why it helps or slows drying.
+  *Parent says:* You landed on the plastic bag square, so you go back.  
+  *Child mode:* Answer a question card. Then roll the die and move.
   - Ask: Why does the plastic bag square send you back? (good: The water vapour can't get out, so the cloth stays wet.; It's like the closed box.)
 - **s3 (2 min)**  
   *Parent does:* Ask the winner to name one square that helped them most.  
@@ -231,7 +231,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **predict:** Guess first. We will put a wet cloth in a box with the lid on, and another in a box with the lid off. Which will dry first? Will the closed one dry at all? Why do you think so?
 - **fair test:** Use two cloth squares cut from the same old cloth, the same size. Wet them both and squeeze each one the same way. Use two boxes of the same kind, side by side in the same place. Only the lid is different.
 - **safety:** Safe to do alone, except cutting the cloth: a grown-up uses the scissors.
-- **record:** Fill in the table. Then draw both boxes at the end, with arrows for water leaving the cloth and landing back on it.
+- **record:** Fill in the table. Then tell your grown-up where the water went in each box. You can also draw both boxes, with arrows for water leaving the cloth and landing back on it.
 - **results table:** Time | Open box: wet, damp or dry? | Closed box: wet, damp or dry? | Drops on the walls or lid of the closed box? Where?
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the old cloth into two squares the same size. 2. Dip both squares in the bowl of water. 3. Squeeze each one tightly, once, until it stops dripping. 4. Lay each one flat at the bottom of a box.  
@@ -241,7 +241,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s2 (3 min)**  
   *Parent does:* 1. Press the lid firmly onto one box. 2. Lay the other lid beside its box. 3. Put both boxes side by side, out of direct sun and not right under a fan. 4. Write down the time.  
   *Parent says:* Now the only difference is the lid. Which cloth will dry first? Will the closed one dry at all? Why do you think so?  
-  *Child mode:* Close one box. Leave the other open. Put them side by side. Write the time. Which will dry first? Why?
+  *Child mode:* Close one box. Leave the other open. Put them side by side. Write the time.
   - Ask: Why do we keep both boxes in the same place? (good: So the only difference is the lid.; If one was in the sun, we wouldn't know if the sun or the lid made the difference.)
   - Note: Wait for a guess and a reason before saying anything. Many children say the closed one will dry too, only more slowly. That is a good guess to test.
 - **s3 (12 min)**  
@@ -253,7 +253,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s4 (6 min)**  
   *Parent does:* 1. When the open cloth is dry, put the bowl of ice on the lid of the closed box. 2. Wait 5 minutes. 3. Look at the inside of the lid, just under the bowl.  
   *Parent says:* The open cloth is dry. Now let's cool the closed box's lid with ice. What do you see under the lid?  
-  *Child mode:* Put the ice bowl on the closed lid. Wait 5 minutes. Look under the lid. What do you see?
+  *Child mode:* Put the ice bowl on the closed lid. Wait 5 minutes. Look under the lid.
   - Note: Drops should show within 5 minutes. If you see none, wait 5 more minutes and tilt the box to the light. On a cool day the drops can be very small. That is still a result. Say what you saw.
   - Check: Drops appeared on the inside of the lid, under the ice. Where did that water come from? → **Water vapour from the wet cloth, in the air of the box, condensed on the cold lid**
 - **s5 (3 min)**  
@@ -293,25 +293,25 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s3 (6 min)**  
   *Parent does:* 1. Put the places in order, from the fastest mist to the slowest. 2. Compare this with the guesses.  
   *Parent says:* Which place was dampest? Was your guess right? Where do you think that water vapour came from?  
-  *Child mode:* Which place misted fastest? Was your guess right? Where did that vapour come from?
+  *Child mode:* Put the places in order, from fastest mist to slowest. Was your guess right?
   - Check: Suppose the tumbler misted fastest in the bathroom just after a bath. Why would that be? → **Hot bath water evaporated, so the bathroom air had a lot of water vapour**
 
 ## Activities
 ### a1 · Under the Lid: where do these drops come from? (8 min)
 - **safety:** The pot, the lid and the drops are hot. A grown-up lifts the lid. Keep your face away from the hot air.
-- **record:** Draw the pot and lid. Draw arrows showing where you think the water went.
+- **record:** Tell your grown-up where you think the water came from and where it went. Or draw the pot and lid, with arrows showing where the water went.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. When the food has finished cooking, lift the lid and turn it over. 2. Show your child the drops underneath.  
   *Parent says:* Look under the lid. There are drops of water. The lid was dry when we put it on. Where did this water come from?  
-  *Child mode:* Look under the lid. See the drops? The lid was dry before. Where did this water come from?
+  *Child mode:* Look under the lid. What do you see?
   - Ask: Where did the water under the lid come from? (good: From the water in the pot.; The water went up as vapour and turned back into drops on the lid.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Tip the lid so the drops run onto a dry steel plate. 2. Wait for them to cool. 3. A grown-up checks they are only warm. 4. Touch them.  
-  *Parent says:* Touch a drop. Is it water? The lid was dry when we put it on. Where do you think this water came from?  
-  *Child mode:* Watch the drops run onto the plate. Let them cool. Touch one. Is it water? Where did it come from?
+  *Parent says:* Be careful, the drops may be hot. We wait until they are only warm.  
+  *Child mode:* Watch the drops run onto the plate. When they are only warm, touch one. Is it water?
   - Note: Don't explain fully yet. It is enough for your child to say the water came up from the pot. The words evaporation and condensation come later, after the Closed Box Test.
 ### a2 · The Bottle That Mists and Then Dries (15 min)
-- **record:** Draw the bottle at the start, when it is misty, and when it is dry again. Write the times.
+- **record:** Write the time the mist appeared and the time the bottle was dry again. Then tell your grown-up where the drops went. You can draw the bottle too.
 - **s1 (5 min)**  
   *Parent does:* 1. Take a cold bottle out of the fridge and stand it on a plate. 2. Watch its outside for 2 minutes.  
   *Parent says:* What is happening to the outside of the bottle? Where is that water coming from?  
@@ -319,12 +319,12 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s2 (10 min)**  
   *Parent does:* 1. Check the bottle every 10 minutes. 2. Note when the mist has gone and the bottle is dry.  
   *Parent says:* The mist is going away. The bottle is warming up. Where do you think the drops are going now?  
-  *Child mode:* Check every 10 minutes. When is the bottle dry again? Where did the drops go?
+  *Child mode:* Check every 10 minutes. Note when the bottle is dry again.
   - Check: First the cold bottle got wet. Later, as it warmed up, it became dry again. What happened to the drops? → **They evaporated back into the air**
   - Wait: Check every 10 minutes. The mist may take 40 minutes to over an hour to go.
 ### a3 · Leave and Land: act out a wet cloth (10 min)
 - **problem:** Water particles are far too small to see. So in this activity, you and your family act them out. Each person is one water particle on a wet cloth. You will see what happens when the particles can walk away, and what happens when they cannot.
-- **record:** Draw what you acted, with arrows for particles leaving and landing back.
+- **record:** Say in your own words what happened with the door open and with the door shut. You can also draw it, with arrows for particles leaving and landing back.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay a dupatta on the floor: it is the wet cloth. 2. Everyone stands on it as a water particle. 3. Each time you clap, one particle steps off and walks out of the open door.  
   *Parent says:* You are water particles in a wet cloth. Each clap, the fastest particle escapes into the air. The door is open, so they wander away.  
@@ -339,7 +339,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s3 (2 min)**  
   *Parent does:* Ask which part was like the open box and which was like the closed box.  
   *Parent says:* Which game was like the open box? Which was like the closed box?  
-  *Child mode:* Which game was the open box? Which was the closed box?
+  *Child mode:* Think back over both games. Say which was the open box and which was the closed box.
   - Check: In the act-out with the door shut, the cloth never got empty. What does that show? → **Particles keep leaving, but just as many come back**
 ### a4 · The AC Pipe Mystery (if your home or a neighbour's has an AC) (15 min)
 - **safety:** Never touch the AC itself or its wires. Look only at the end of the drain pipe, from a safe place, with a grown-up.
@@ -347,7 +347,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. With a grown-up, find the end of the thin drain pipe from the AC. 2. Put the jug under it. 3. Note the time.  
   *Parent says:* The AC is not connected to any tap. So where does this water come from?  
-  *Child mode:* Find the AC's thin pipe with a grown-up. Put the jug under it. Where does this water come from?
+  *Child mode:* Find the AC's thin pipe with a grown-up. Put the jug under it.
   - Note: In many flats the drain pipe ends high on an outside wall. If you cannot reach it safely, skip this activity. Or ask a neighbour whose pipe ends over a bucket.
 - **s2 (10 min)**  
   *Parent does:* After 30 minutes, read how much water is in the jug.  
@@ -361,7 +361,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s1 (10 min)**  
   *Parent does:* Help your child ask: 1. How did you dry clothes when it rained for days? 2. What did you do if a uniform was still wet in the morning? 3. Where in the house did clothes dry best?  
   *Parent says:* When it rained for many days, how did you dry the clothes?  
-  *Child mode:* Ask: how did you dry clothes when it rained for days? Write down what they say.
+  *Child mode:* Ask your older relative this question. Write down what they say.
 - **s2 (5 min)**  
   *Parent does:* Go through each answer and ask which drying idea it uses.  
   *Parent says:* Which of these ways uses warmth? Which uses moving air? Which spreads the cloth out?  
@@ -372,12 +372,12 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **record:** Write each thing you find, and put E for evaporation or C for condensation next to it.
 - **s1 (8 min)**  
   *Parent does:* Walk round the home together. Look in the kitchen, the bathroom, the balcony and near the fridge.  
-  *Parent says:* Let's find water going into the air, and water coming out of the air. Look for wet things drying, and drops on cold things.  
+  *Parent says:* Let's find water going into the air, and water coming out of the air. E means evaporation: a wet thing drying. C means condensation: drops on a cold thing.  
   *Child mode:* Find wet things drying. Find drops on cold things. Write E or C for each.
 - **s2 (2 min)**  
   *Parent does:* Count the E's and the C's. Then look for one thing that shows both.  
-  *Parent says:* Look at your list. Can you find one thing that shows both evaporation and condensation?  
-  *Child mode:* Count your E's and C's. Can you find one thing that shows both?
+  *Parent says:* Look at your list. Are there more E's or more C's?  
+  *Child mode:* Count your E's and C's.
   - Ask: Can one thing show both evaporation and condensation? (good: Yes, a cooking pot: water evaporates from the food and condenses on the lid.; A cold bottle gets wet, then dries again.)
 
 ## Projects
@@ -389,20 +389,20 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
   *Parent says:* Every day we hang the same handkerchief, in the same place, at the same time. So only the weather changes.  
   *Child mode:* Wet the hanky. Squeeze it once. Hang it in the same place every day. Write the time it is dry.
 - **s2 (25 min)**  
-  *Parent does:* Repeat each day for 5 more days, about 5 minutes of work each day.  
+  *Parent does:* Repeat each day for 6 more days, about 5 minutes of work each day.  
   *Parent says:* What is the weather like today? Do you think it will dry faster or slower than yesterday? Why?  
-  *Child mode:* Do it again every day. Guess first: faster or slower than yesterday?
+  *Child mode:* Do it again every day, the same way.
   - Wait: One check a day for 5 more days.
 - **s3 (10 min)**  
   *Parent does:* 1. Draw a line graph: days along the bottom, minutes to dry up the side. 2. Write the weather under each day.  
   *Parent says:* Which day was fastest? Which was slowest? What was the weather on those days?  
-  *Child mode:* Draw a dot for each day. Join the dots. Which day was slowest? What was the weather?
+  *Child mode:* Draw a dot for each day. Join the dots. Or put the days in order, from fastest to slowest.
   - Check: The handkerchief took longest to dry on a rainy, still day. Why? → **The air was humid and still, so water landed back almost as fast as it left**
 
 ## Challenges
 ### c1 · Dry in Two Hours: the rainy-day drying challenge (30 min)
 - **problem:** It is raining, and your hand towel is soaking wet. Make it as dry as you can in 2 hours, inside your home, without an iron, a hair dryer or a clothes dryer.
-- **your turn:** Now invent your own way to dry the towel in 2 hours. Draw it, try it, and compare it with the folded control towel. Which idea dried the towel most?
+- **your turn:** Now invent your own way to dry the towel in 2 hours. Say your plan or draw it. Try it, and compare it with the folded control towel. Which idea dried the towel most?
 - **constraints:** Start with two hand towels, both dipped and squeezed once in the same way.; One towel is the control. It hangs folded on a chair.; Keep both towels in the same room.; You may use only things you find at home.; After 2 hours, compare the two towels by touch.
 - **general:** Spread the towel out wide on a hanger or a string, so more water can escape.; Hang it under a fan, so the damp air is carried away from it.; Roll it in a dry bath towel and press hard first, so the dry towel soaks up water before any evaporation starts.
 - **creative:** Hang it in a zigzag over a string, so no part touches another part.; Hang it near an open window on the side the wind comes from, with another window open on the far side.; A washing machine spins clothes very fast, which throws most of the water out before they are hung up. You cannot spin a towel at home, but pressing it hard inside a dry towel gets out much of the same water.
@@ -412,8 +412,8 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
   *Child mode:* Wet both towels. Squeeze each once. Fold one over a chair. Your idea must beat it!
 - **s2 (8 min)**  
   *Parent does:* List three ideas before trying anything. Think about warmth, moving air, spreading out and dry air.  
-  *Parent says:* Remember the Closed Box Test. What stopped the cloth from drying? How can we do the opposite?  
-  *Child mode:* Think first. Draw three ideas. In the Closed Box Test, what made the cloth in the closed box stay wet? Do the opposite!
+  *Parent says:* Remember the Closed Box Test. The cloth stayed wet there. Which of these four ideas can help a cloth dry indoors?  
+  *Child mode:* Think of three ideas before you try anything. Do the opposite of the closed box. Say them out loud, or draw them.
 - **s3 (10 min)**  
   *Parent does:* Build the best idea, and start the clock.  
   *Parent says:* Let's try your best idea now. We'll check it in 2 hours.  
@@ -432,15 +432,15 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - **s1 (5 min)**  
   *Parent does:* Breathe slowly on the plain mirror and watch it mist.  
   *Parent says:* Why does the mirror mist when you breathe on it?  
-  *Child mode:* Breathe on the mirror. Watch it mist. Why does it happen?
+  *Child mode:* Breathe slowly on the plain mirror. Watch it mist.
 - **s2 (10 min)**  
   *Parent does:* 1. Rub a tiny drop of liquid soap on one half of the mirror with a tissue. 2. Polish it until it looks clear. 3. Leave the other half plain. 4. Breathe on both halves.  
   *Parent says:* Let's rub soap on one half and leave the other half plain. Then breathe on both. Which stays clearer?  
-  *Child mode:* Rub a tiny drop of soap on one half. Polish it. Breathe on both halves. Which stays clear?
+  *Child mode:* Rub a tiny drop of soap on one half. Polish it. Breathe on both halves.
 - **s3 (10 min)**  
   *Parent does:* 1. Stand the mirror in warm water for a minute, then dry it. 2. Straight away, breathe on the plain half. Compare with the first time.  
   *Parent says:* Now we'll try a warm mirror. Will it mist as much? Why do you think so?  
-  *Child mode:* Warm the mirror in warm water. Dry it. Straight away, breathe on the plain half. Does it mist?
+  *Child mode:* Warm the mirror in warm water. Dry it. Straight away, breathe on the plain half.
   - Note: The warm mirror stays clear only for a few seconds, until it cools down. So breathe on it quickly.
   - Check: A warm mirror mists much less when you breathe on it. Why? → **Your breath's water vapour condenses only on things that are cold enough, and the warm mirror is not**
 

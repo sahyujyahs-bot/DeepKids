@@ -783,8 +783,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the Moon card and the Sun card together as a practice round. Then shuffle them back into the light cards.",
-     "say": "Let's practise. Which light is older when it reaches us, the Moon's or the Sun's?",
-     "kid": "Practice round. Which light took longer to reach you, the Moon's or the Sun's? Say your answer.",
+     "say": "Let's practise with two cards, the Moon and the Sun.",
+     "kid": "Practice round. Look at the Moon card and the Sun card. Which one is further from you?",
      "check": {
       "t": "mcq",
       "q": "Which light took longer to reach your eye?",
@@ -920,8 +920,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Sit down together and talk about the game.",
-     "say": "Was light more like a wave or more like a crowd of particles in our game? Scientists found that real light is both at once.",
-     "kid": "Sit down. Was light a wave or a crowd of dots in the game? Real light is both!",
+     "say": "In our game you moved like a wave and like a crowd of dots. Scientists found that real light is both at once.",
+     "kid": "Sit down. Which card felt like a wave? Which felt like a crowd of dots?",
      "think": "The game had a WAVE card and a PARTICLE card. Which fits the stripes from two slits? Which fits the glow star test?"
     }
    ]
@@ -1500,7 +1500,7 @@
      "what": "Go to a long open place. Test the flash and bang from 20, 100 and 200 big steps away. Fill in the table."
     }
    ],
-   "record": "Fill in the table. Then draw the helper far away, with an arrow for the light and an arrow for the sound. Draw the light arrow arriving first.",
+   "record": "Fill in the table. Then tell your grown-up which came first, the flash or the bang, and why. Or draw the helper far away, with an arrow for the light and an arrow for the sound.",
    "setup": [
     {
      "art": "A grown-up holding two steel plates high above their head at one end of a playground, a child standing a short way off.",
@@ -1603,7 +1603,7 @@
      "mins": 5,
      "do": "Come back together. Talk about why the flash arrived first.",
      "say": "The light and the sound left the plates at the very same moment. The light reached you almost at once. The sound took longer. So which one is faster?",
-     "kid": "The light and the sound left together. The light won the race. Which is faster?",
+     "kid": "The flash and the bang left the plates together. Which one reached you first?",
      "ask": [
       {
        "q": "How long did the light take to travel 200 steps?",
@@ -1678,7 +1678,7 @@
      "what": "Put the stars in a closed box at least 1 hour before, and best the night before. Then shine red light and blue light on glow stars and compare how they glow in the dark."
     }
    ],
-   "record": "Fill in the table. Then draw star 1 after the red screen and star 2 after the blue screen. Draw each photon as a dot. Give a blue photon a bright ring and the words 'more energy'. Give a red photon a small ring and the words 'less energy'.",
+   "record": "Fill in the table. Then tell your grown-up which star glowed and why. Or draw star 1 after the red screen and star 2 after the blue screen. Draw each photon as a dot. Give a blue photon a bright ring and the words 'more energy'. Give a red photon a small ring and the words 'less energy'.",
    "setup": [
     {
      "art": "Three glow-in-the-dark star stickers lying on a dark cloth inside a cupboard.",
@@ -1702,7 +1702,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. The night before, or at least 1 hour before, put the 3 glow stars in a closed box or a dark cupboard. 2. Set the phone to full brightness. 3. On the phone, find a plain red picture and a plain blue picture to show full-screen. 4. Make the room dark. Take out the stars and check that none of them glows.",
-     "say": "We need the stars to start with no glow at all. Then any glow comes only from the light we shine on them. Which do you think will make a star glow, red light or blue light? Why?",
+     "say": "We need the stars to start with no glow at all. Then any glow comes only from the light we shine on them. Which colour do you think will make a star glow? Why?",
      "kid": "Your stars have been in a dark box, so they have no glow left. Check them in the dark. Guess: will red or blue light make them glow? Why?",
      "context": "This is the first step of the Glow Star Test. You shine red and blue light on glow-in-the-dark stars to see which colour makes them glow.",
      "parent": "Write down your child's guess and their reason. Don't say which is right. The test will show it."
@@ -1732,7 +1732,7 @@
      "kid": "Now hold the blue screen over star 2. Count to 30. Switch it off. What do you see?",
      "check": {
       "t": "mcq",
-      "q": "Suppose the red screen leaves star 1 dark and the blue screen makes star 2 glow. Why?",
+      "q": "Star 1 stayed dark under the red screen. Star 2 glowed under the blue screen. Why?",
       "options": [
        "Each blue photon carries enough energy, and each red photon does not",
        "Red light is too bright",
@@ -1781,7 +1781,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "kid": "Your grown-up will ask you three questions. Answer in your own words.",
      "parent": "A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the red screen left star 1 dark, even for 2 minutes, but the blue screen made star 2 glow in 30 seconds. Why: light comes in packets called photons. Each blue photon has enough energy, but each red photon does not."
     }
    ]
@@ -1827,7 +1827,7 @@
      "what": "Melt the chocolate with the turning plate removed. Measure the gap between melted spots. Work out the speed with a grown-up."
     }
    ],
-   "record": "Draw the plate of chocolate with its melted spots. Write the gap between two spots. Write the speed you worked out next to the real speed of light.",
+   "record": "Take a photo of the plate of chocolate with its melted spots, or draw it. Write the gap between two spots. Write the speed you worked out next to the real speed of light.",
    "setup": [
     {
      "art": "A grown-up lifting the round glass turning plate out of a microwave oven.",
@@ -1920,8 +1920,8 @@
      "what": "Explore torchlight in a dark room. Say what you notice and what you wonder."
     }
    ],
-   "record": "Write or draw one thing you noticed and one thing you wonder about light.",
-   "context": "This is a short noticing activity to start the unit. In a dark room, you play with a torch and wonder what light is.",
+   "record": "Tell your grown-up one thing you noticed and one thing you wonder about light. They can write it down for you. You can draw it too.",
+   "context": "This is a short noticing activity to start the unit. In a dark room, you play with a torch. You will find out what a beam of light looks like, and what you want to know about light.",
    "setup": [
     {
      "art": "A child in a dark room switching on a torch pointed at the far wall.",
@@ -1942,7 +1942,7 @@
      "mins": 3,
      "do": "1. Close the curtains and switch off the lights. 2. Give your child the torch. 3. Ask them to switch it on and off, pointing at the far wall.",
      "say": "Switch the torch on and off. Watch the wall closely. Does the light take any time to get there?",
-     "kid": "Point the torch at the far wall. Switch it on and off. Does the light take any time to get there?",
+     "kid": "Point the torch at the far wall. Switch it on and off. Watch the wall closely.",
      "context": "This is the first step of Switch On the Dark. You play with a torch in a dark room and notice how light behaves.",
      "ask": [
       {
@@ -1959,7 +1959,7 @@
      "mins": 3,
      "do": "1. Hold the torch steady. 2. Gently shake a little talcum powder, or flap a dusty cloth, in the beam. 3. Look at the beam from the side.",
      "say": "Look at the beam from the side. What shape is it? Light only shows up when it bounces off something, like the specks of powder.",
-     "kid": "Shake a little powder in the beam. Look from the side. What shape is the light?",
+     "kid": "Shake a little powder in the beam. Look at the beam from the side.",
      "ask": [
       {
        "q": "What shape is the beam?",
@@ -2014,10 +2014,6 @@
     {
      "item": "a ruler",
      "qty": 1
-    },
-    {
-     "item": "paper and crayons",
-     "qty": 1
     }
    ],
    "safety": "Never look straight at the Sun, not even for a second. It can hurt your eyes for ever.",
@@ -2028,7 +2024,7 @@
      "what": "Feel how long sunlight takes to reach us. Make a small light-time string for the Moon, the Sun and the planets."
     }
    ],
-   "record": "Write: the sunlight on my arm left the Sun about 8 minutes ago. Draw what you did during the 8-minute wait.",
+   "record": "Write: the sunlight on my arm left the Sun about 8 minutes ago. Then tell your grown-up what it felt like to wait 8 minutes.",
    "context": "This activity helps you feel how long light takes to travel. Sunlight needs about 8 minutes to reach us. You wait 8 minutes and make a string to show light's travel times.",
    "setup": [
     {
@@ -2057,9 +2053,9 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Set a timer for 8 minutes and 20 seconds. 2. Start it. 3. While it runs, your child draws the Sun on one side of a page. 4. They draw themselves on the other side, with a beam of light between the two. 5. When it rings, stop.",
+     "do": "1. Set a timer for 8 minutes and 20 seconds. 2. Start it. 3. While it runs, your child holds up one more finger each minute. 4. When it rings, stop.",
      "say": "The sunlight landing on you now left the Sun about 8 minutes ago. The light leaving the Sun right now, as we press start, will reach you when the timer rings. That's how long its journey takes.",
-     "kid": "Start a timer for 8 minutes and 20 seconds. While you wait, draw the Sun, you, and the light between. When it rings, that is how long sunlight takes!",
+     "kid": "Start a timer for 8 minutes and 20 seconds. While you wait, hold up one more finger each minute. When it rings, that is how long sunlight takes!",
      "check": {
       "t": "mcq",
       "q": "The timer rings after 8 minutes 20 seconds. What has just happened?",
@@ -2130,7 +2126,7 @@
      "what": "Make ripples in an uruli of water. See waves spread, cross and add up. Compare them with rolling marbles."
     }
    ],
-   "record": "Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.",
+   "record": "Tell your grown-up what you saw where the two ripples crossed. Then draw the ripples from two coins crossing each other, if you like.",
    "context": "In this activity, you make ripples in a plate of water to see what a wave is. Scientists once argued whether light is a wave like this, or a stream of tiny particles.",
    "setup": [
     {
@@ -2151,7 +2147,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Put the uruli (a wide, shallow bowl) on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.",
-     "say": "Watch the rings spread out. That is a wave. The water itself only bobs up and down. The movement is what travels outwards.",
+     "say": "Watch the rings spread out. That is a wave. Look at where the water goes, and what travels to the edge.",
      "kid": "Drop one coin in the middle. Watch the rings spread. That is a wave!",
      "context": "This is the first step of Ripples in an Uruli. You make water waves to see what a wave is, so you can compare it with light.",
      "ask": [
@@ -2243,8 +2239,8 @@
      "what": "Act out how Ole Rømer found out light takes time, using a chair for Jupiter and a slow messenger walking for light."
     }
    ],
-   "record": "Write the number you had reached at 'Now!' when you stood close, and when you stood far away. Draw Jupiter, and the Earth near it and far from it.",
-   "context": "In this acting activity, you show how Ole Rømer, an astronomer in 1676, found out that light takes time to travel. He timed Io, a moon of Jupiter.",
+   "record": "Write the number you had reached at 'Now!' when you stood close, and when you stood far away. Then tell your grown-up why Io seemed late.",
+   "context": "In this acting activity, you show how Ole Rømer, an astronomer in 1676, found out that light takes time to travel. He timed Io, a moon of Jupiter. You will find out why the moon seemed late, when it was never late at all.",
    "setup": [
     {
      "art": "A chair labelled Jupiter at one end of a corridor, a grown-up beside it holding a torch and a paper star as Io.",
@@ -2271,9 +2267,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. The observer stands 3 steps from Jupiter, back turned, and counts aloud from 1. 2. At 10, Io flashes the torch, picks up the paper star and walks it to the observer at a slow, steady pace. 3. The observer says 'Now!' when the star arrives, and writes down the number they had reached.",
+     "do": "1. The observer stands 3 steps from Jupiter, back turned, and counts aloud from 1. 2. At 10, Io flashes the torch, picks up the paper star and walks it to the observer at a slow, steady pace. 3. The observer says 'Now!' when the star arrives, and writes down the number they had reached. They keep counting until the star arrives.",
      "say": "In our game, the light from Io is a slow messenger. Close up, the news arrives soon after the flash.",
-     "kid": "Stand close to Jupiter, back turned. Count 1 to 10 aloud. Io flashes at 10 and walks the star to you. Say 'Now!' when it arrives. Which number were you on?",
+     "kid": "Stand close to Jupiter, back turned. Count aloud. Io flashes at 10 and walks the star to you. Keep counting. Say 'Now!' when it arrives. Which number were you on?",
      "parent": "The messenger stands for light. Walking makes the delay big enough to see. Real light is enormously faster, but Jupiter is enormously far away. Count at the same steady pace each time, and walk at the same pace each time."
     },
     {
@@ -2281,7 +2277,7 @@
      "mins": 6,
      "do": "1. The observer moves to the far end of the corridor. 2. Repeat the same count to 10 and the same slow walk. 3. Write down the number the observer had reached at 'Now!', and compare it with the first time.",
      "say": "Now the Earth is far from Jupiter. Io flashes on time, but the message takes longer to arrive. So to the observer, Io seems late!",
-     "kid": "Now stand far away. Count to 10 again. Io flashes and walks the star over. Which number were you on at 'Now!'? Is it bigger? Io seems late!",
+     "kid": "Now stand far away. Count to 10 again. Io flashes and walks the star over. Which number were you on at 'Now!'? Is it bigger than before?",
      "check": {
       "t": "mcq",
       "q": "When the Earth was far from Jupiter, Io seemed late. Why?",
@@ -2435,7 +2431,7 @@
      "what": "Look at a far street light through fine cloth. See a pattern of dots and stripes that only waves can make."
     }
    ],
-   "record": "Draw the pattern you saw around the street light.",
+   "record": "Draw the pattern you saw around the street light, or tell your grown-up what shape it made.",
    "context": "In this activity, you look at a faraway light through a fine cloth. A pattern of dots appears around it. This pattern is a clue that light travels as a wave.",
    "setup": [
     {
@@ -2457,7 +2453,7 @@
      "mins": 5,
      "do": "1. At night, find a single bright light far away, like a street light. 2. Hold the cloth tight, right up close to one eye. 3. Close the other eye. 4. Look at the light through the cloth.",
      "say": "Look closely. Do you see the light as one dot, or as lots of dots in a pattern?",
-     "kid": "Hold the cloth right up to one eye. Look at a far street light. What do you see?",
+     "kid": "Hold the cloth right up to one eye. Close the other eye. Look at a far street light.",
      "context": "This is the first step of The Street-Light Star. You look at a faraway light through fine cloth to find a clue that light is a wave.",
      "adult": true,
      "ask": [
@@ -2523,7 +2519,7 @@
     }
    ],
    "record": "Keep both drawings. Write one sentence under each: what I thought light was.",
-   "context": "In this activity, you draw what you think light is. Scientists use drawings like this, called models, to show things too small or fast to see.",
+   "context": "In this activity, you draw what you think light is. Scientists use drawings like this, called models, to show things too small or fast to see. At the end of the unit you draw it again and see what changed.",
    "setup": [
     {
      "art": "A child drawing a lamp on the left of a page and a wall on the right, with an empty space between.",
@@ -2544,7 +2540,7 @@
      "mins": 7,
      "do": "1. Ask your child to draw a lamp on one side of the page and a wall on the other. 2. Ask them to draw what light looks like on its way, if we could zoom in and slow it down.",
      "say": "If we could slow light down and zoom right in, what would we see between the lamp and the wall? Draw your best idea.",
-     "kid": "Draw a lamp and a wall. What travels from the lamp to the wall? Draw your idea.",
+     "kid": "Draw a lamp and a wall. What travels from the lamp to the wall? Draw your idea, or tell your grown-up.",
      "context": "This is the first step of Draw What Light Is. You draw your idea of what light is, then draw it again at the end of the unit.",
      "parent": "Any idea is good. Some children draw lines, some draw dots, some draw nothing. Keep the drawing to compare later."
     },
@@ -2553,7 +2549,7 @@
      "mins": 8,
      "do": "At the end of the unit, ask your child to draw again. Compare the two drawings.",
      "say": "Now that you know more, draw it again. What did you add? What did you change?",
-     "kid": "Draw it again now. What is different?",
+     "kid": "Draw it again now, or tell your grown-up your new idea. What is different?",
      "ask": [
       {
        "q": "What did you add?",
@@ -2567,7 +2563,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Which drawing best matches what scientists know about light?",
+      "q": "Which idea best matches what scientists know about light?",
       "options": [
        "Tiny packets travelling in straight lines, with a wave pattern",
        "Nothing, light is instant",
@@ -2627,7 +2623,7 @@
     }
    ],
    "record": "Take a photo or draw the finished string. Write the light-time of each peg. Write the nearest star's distance on this string.",
-   "context": "In this 3-day project, you make a long string showing how long light takes to reach each planet from the Sun. Every centimetre is one minute of light travel.",
+   "context": "In this 3-day project, you make a long string showing how long light takes to reach each planet from the Sun. Every centimetre is one minute of light travel. You will see how much further away the outer planets are than the inner ones.",
    "setup": [
     {
      "art": "A child laying a long string along a corridor floor and pegging a yellow card labelled Sun at one end.",
@@ -2698,6 +2694,7 @@
    "id": "c1",
    "title": "Galileo's Lantern Test",
    "mins": 30,
+   "context": "In this challenge, you try Galileo's lantern test with two torches. You find out if you can time light going from one torch to the other.",
    "problem": "In 1638, Galileo suggested a way to find out if light takes time. Two people stand far apart with lanterns. Can you measure light's speed this way, using torches?",
    "constraints": [
     "You may only use two torches, a stopwatch and your helpers.",
@@ -2720,7 +2717,7 @@
     "Hippolyte Fizeau, in 1849, used a fast-spinning wheel with teeth as his clock. Light went through a gap, off a mirror 8 kilometres away, and was blocked by the next tooth on the way back.",
     "Today, scientists fire laser pulses at mirrors that astronauts left on the Moon in 1969. The light comes back after about 2 and a half seconds."
    ],
-   "your_turn": "Now invent your own way to show light is not instant. You can use giant distances, clever clocks or the sky. Draw your idea.",
+   "your_turn": "Now invent your own way to show light is not instant. You can use giant distances, clever clocks or the sky. Tell, act out or draw your idea.",
    "setup": [
     {
      "art": "Two children far apart on a playground at dusk, each holding a torch, one holding a phone stopwatch.",
@@ -2739,9 +2736,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Explain Galileo's plan.",
+     "do": "Read the problem aloud. Then tell your child Galileo's plan.",
      "say": "Galileo wanted to know if light takes time. He said: I uncover my lantern. You uncover yours as soon as you see mine. I time how long until I see yours.",
-     "kid": "Galileo had a plan. I flash. You flash back the moment you see mine. I time it.",
+     "kid": "Today you will test Galileo's plan with two torches. Decide who flashes first and who times.",
      "context": "This is the first step of Galileo's Lantern Test. You try Galileo's 1638 plan for measuring the speed of light, using torches."
     },
     {
@@ -2757,8 +2754,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Talk about what you found. Then read how Rømer, Fizeau and today's scientists solved the problem.",
-     "say": "The time was the same, near or far. So we were not timing the light. We were timing ourselves! Light is far too fast for this test. Rømer used a much longer distance. Fizeau used a much faster clock.",
-     "kid": "Near or far, the time was the same. We timed ourselves, not the light! Light is too fast for this test.",
+     "say": "Look at your times. Were they different near and far? Light is far too fast for this test. Rømer used a much longer distance. Fizeau used a much faster clock.",
+     "kid": "Compare your times from far away and from close up. Are they different?",
      "check": {
       "t": "mcq",
       "q": "In the torch test, the time was about half a second, near or far. What were you really measuring?",
@@ -2774,9 +2771,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to invent and draw their own way to show that light takes time.",
+     "do": "Ask your child to invent their own way to show that light takes time. They can tell it, act it out or draw it.",
      "say": "Now you invent a way. How could you show that light takes time?",
-     "kid": "Now invent your own way to measure light. Draw it."
+     "kid": "Now invent your own way to show that light takes time. Tell it, act it out or draw it."
     }
    ]
   },
@@ -2784,6 +2781,7 @@
    "id": "c2",
    "title": "Send a Message by Light",
    "mins": 30,
+   "context": "In this challenge, you invent a code of short and long flashes and send messages with a torch. You find out what takes the time when you send a message by light.",
    "problem": "Light is the fastest way to send a message. Design a way to send a short message, like 'come for dinner', from one room to another, or from one window to another, using only light.",
    "constraints": [
     "No talking, no phones and no paper notes.",
@@ -2793,6 +2791,7 @@
    "materials": [
     "two torches",
     "paper and pencil to write your code",
+    "a watch or clock to time the messages",
     "two people"
    ],
    "general": [
@@ -2832,9 +2831,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Go to two places where you can see each other but not hear. 2. Send three messages each way. 3. Time how long each one takes.",
+     "do": "1. Go to two places where you can see each other but not hear. 2. Send three messages each way. 3. Time how long each one takes with a watch or clock.",
      "say": "Send your message. How long does it take? The light itself arrives almost instantly. The slow part is flashing and reading.",
-     "kid": "Send three messages. Time each one. Was the light slow, or were you?",
+     "kid": "Send three messages. Time each one with the watch.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2852,7 +2851,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Read together about coloured flashes, glass threads and the heliograph. Then improve your code.",
-     "say": "Kapany showed light could be sent along thin glass threads. Today, the internet travels as light flashing in such threads. How could you make your code faster?",
+     "say": "A scientist called Kapany showed light could be sent along thin glass threads. Today, the internet travels as light flashing in such threads. How could you make your code faster?",
      "kid": "Read about glass threads that carry light. Now make your code faster. Try again!"
     }
    ]

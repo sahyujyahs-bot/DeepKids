@@ -537,7 +537,7 @@
      "mins": 2,
      "do": "1. Lay out the two mats side by side. 2. Take out the card A. Shuffle the other cards and put them face down in a pile. 3. Put the mirror and the stars in the middle.",
      "say": "Each card has a letter or a word. Guess: will it look the same in a mirror, or will it change? Then we test it.",
-     "kid": "Put out the two mats. Mix up the cards. For each card, guess: SAME or CHANGES in a mirror? Then test it!",
+     "kid": "Put the two mats side by side. Shuffle the cards and pile them face down.",
      "context": "This is the first step of Mirror or Not?, a card game about what a mirror does to letters. Here you set up the game."
     },
     {
@@ -545,7 +545,7 @@
      "mins": 3,
      "do": "Play the card A together as a practice round. No stars for this one.",
      "say": "Practice card: the letter A. Same or changes?",
-     "kid": "Practice card: the letter A. Same or changes? Choose, then test it.",
+     "kid": "Take the card A. Guess first. Then stand the mirror beside it and look.",
      "check": {
       "t": "mcq",
       "q": "Stand a mirror beside the letter A. What will you see?",
@@ -573,8 +573,8 @@
      "id": "s4",
      "mins": 3,
      "do": "When someone draws the NOON card, stop and talk about it.",
-     "say": "NOON reads the same backwards. So why does it change in the mirror?",
-     "kid": "NOON reads the same backwards. But look in the mirror. Why does it change?",
+     "say": "Let's look closely at the letter N in the mirror.",
+     "kid": "Stand the mirror beside the NOON card and look at it. Is anything odd?",
      "check": {
       "t": "mcq",
       "q": "NOON reads the same backwards. Why does it still look wrong in a mirror?",
@@ -594,7 +594,7 @@
      "mins": 2,
      "do": "Count the stars. The player with the most wins.",
      "say": "Who has the most stars? Which cards did you guess wrong? What did the mirror do to those letters?",
-     "kid": "Count your stars. Which cards did you guess wrong? What did the mirror do to them?",
+     "kid": "Count your stars. Then pick a card you guessed wrong.",
      "think": "Can you invent a new word that looks the same in a mirror?",
      "context": "This is the last step of Mirror or Not?. You count the stars and talk about the cards.",
      "parent": "Good answers are DAD and NOON, because the D and the N turn round in a mirror. For the invented word, use only letters that look the same in a mirror, like A, H, I, M, O, T, U, V, W, X and Y. The word must also read the same backwards, like WOW or MOM."
@@ -645,8 +645,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Draw the target and stick it on a wall. 2. Put the torch on books so its beam points sideways along the wall, not at the target. 3. Dim the room.",
-     "say": "The torch is pointing the wrong way. We must use mirrors to send its light to the target.",
-     "kid": "The torch does not point at the target. Use mirrors to send the light there!",
+     "say": "The torch is pointing the wrong way. Today we send its light to the target using only mirrors.",
+     "kid": "Look where the torch points. Which way must the light turn to reach the target?",
      "adult": true,
      "parent": "Use plastic mirrors if you can. Remind everyone: the beam must never go into anyone's eyes.",
      "context": "This is the first step of Bounce Relay, a team game where players pass a torch beam from mirror to mirror onto a target."
@@ -685,7 +685,7 @@
      "mins": 4,
      "do": "Add up the points and talk about the game.",
      "say": "What made it hard with three mirrors? Did the spot get dimmer?",
-     "kid": "Add up your points. Was the spot dimmer after three mirrors? Why?",
+     "kid": "Add up your points. Compare the spot after one mirror and after three.",
      "ask": [
       {
        "q": "Why was the spot dimmer after three bounces?",
@@ -1303,7 +1303,7 @@
     }
    ],
    "record": "Fill in the table. Then draw each beam with a ruler: one line in to the mirror, one line out. Fold the paper along the middle line and see if the lines match.",
-   "context": "This is the torch-and-mirror experiment. You shine a thin beam of torchlight at a mirror from the side, and mark where the reflected beam goes.",
+   "context": "You will find out where a beam of light goes after it bounces off a mirror. You shine a thin torch beam at a mirror from the side, and mark where it lands.",
    "setup": [
     {
      "art": "A torch lying on a table with a piece of card taped over its glass, the card having one thin slit, making a thin line of light on the paper.",
@@ -1391,11 +1391,11 @@
      "id": "s5",
      "mins": 3,
      "do": "1. With a ruler, draw each beam as two lines. One line goes from the start mark to the mirror. The other goes from the mirror to the landing mark. 2. Fold the paper along the middle line.",
-     "say": "Each beam makes a V shape. Fold the paper on the middle line. Do the two sides of the V lie on top of each other?",
-     "kid": "Draw each beam as a V. Now fold the paper on the middle line. Do the two sides match?",
+     "say": "Each beam makes a V shape. Fold the paper on the middle line and look at the two sides of the V.",
+     "kid": "Draw each beam as a V with the ruler. Fold the paper on the middle line and look.",
      "check": {
       "t": "mcq",
-      "q": "When you fold the paper, the in-line and the out-line lie on top of each other. What does that show?",
+      "q": "When you fold the paper, the line going in lies right on top of the line going out. What does that show?",
       "options": [
        "Light leaves the mirror at the same angle it came in",
        "Light gets slower after it bounces",
@@ -1458,8 +1458,8 @@
      "what": "Trace the star 3 times, looking only in the mirror. Time each try and count the slips."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each try, showing the number of slips.",
-   "context": "In the mirror drawing race, you trace a star while you can only see your hand in a mirror. A mirror turns everything round from front to back, so your hand has to learn a new way.",
+   "record": "Fill in the table. Show the slips for each try as a stack of coins or blocks, or draw a bar for each.",
+   "context": "You will find out if your hand can learn to trace a star while you only watch it in a mirror. It is hard at first. Does it get easier?",
    "setup": [
     {
      "art": "A star shape drawn with two outlines, one inside the other, on a sheet of paper, with a small mirror standing at the far edge of the paper.",
@@ -1506,7 +1506,7 @@
      "mins": 3,
      "do": "Look at the table together. Did the slips go down from try 1 to try 3?",
      "say": "Look at your numbers. Did your hand get better?",
-     "kid": "Look at your numbers. Did you slip less on try 3?",
+     "kid": "Look at your three numbers. Which try had the most slips? Which had the fewest?",
      "check": {
       "t": "mcq",
       "q": "A child slipped 9 times on try 1, 6 times on try 2 and 3 times on try 3. What does that show?",
@@ -1573,7 +1573,7 @@
     }
    ],
    "record": "Fill in the table. Look for a pattern between how many of the gaps fit in a whole circle and the number of images.",
-   "context": "In this experiment you tape two mirrors together like a book and stand a toy between them. You count how many images of the toy you see as you close the gap.",
+   "context": "You will find out how the gap between two mirrors changes how many toys you see. You tape two mirrors together like a book, stand a toy between them, and count the images as you close the gap.",
    "example_chart": {
     "type": "bar",
     "title": "Images of one toy between two mirrors",
@@ -1692,8 +1692,8 @@
      "what": "Spoon Faces and the Mirror Hunt"
     }
    ],
-   "record": "Draw your face in the inside and the back of the spoon. List your 5 things under 'Shows an image' or 'Only shines'.",
-   "context": "This is a short noticing activity. You look at your face in a spoon, then hunt for other things at home that show your face.",
+   "record": "Tell your grown-up how your face looked on each side of the spoon, or draw it. List your 5 things under 'Shows an image' or 'Only shines'.",
+   "context": "You look at your face in a spoon, then hunt for other things at home that show your face. You will find out which things work like a mirror.",
    "setup": [
     {
      "art": "A child looking at an upside-down reflection of their face in the hollow of a steel spoon.",
@@ -1710,7 +1710,7 @@
      "mins": 3,
      "do": "Give your child a steel spoon. Ask them to look into the hollow side, then the back.",
      "say": "What do you notice about your face? What do you wonder?",
-     "kid": "Look into the inside of the spoon. Now the back. What do you notice? What do you wonder?",
+     "kid": "Look into the inside of the spoon. Now turn it over and look at the back.",
      "ask": [
       {
        "q": "What happened to your face?",
@@ -1774,8 +1774,8 @@
      "what": "Mirror Twins"
     }
    ],
-   "record": "Draw yourself and your mirror twin, each raising one hand. Colour the raised hands.",
-   "context": "Mirror Twins is a copying game. One person moves, and the other copies exactly, as if they were a mirror. It shows what a mirror really turns round.",
+   "record": "Take a photo of you and your mirror twin each raising one hand, or draw it. Point to the raised hands and say which side of the room each is on.",
+   "context": "You will find out which hand a mirror really raises. In Mirror Twins, one person moves and the other copies exactly, as if they were a mirror.",
    "setup": [
     {
      "art": "Two children facing each other, one raising a hand and the other copying like a reflection.",
@@ -1801,7 +1801,7 @@
      "mins": 5,
      "do": "Raise your right hand. Watch which hand the mirror twin raises.",
      "say": "I raised my right hand. Which hand did you raise? Is it on the same side of the room as mine?",
-     "kid": "Your partner raises their right hand. You copy, like a mirror. Which hand did you raise? Is it on the same side of the room?",
+     "kid": "Your partner raises their right hand. You copy, like a mirror. Notice which of your hands goes up, and where it is in the room.",
      "check": {
       "t": "mcq",
       "q": "You face your partner and copy their raised right hand, like a mirror. Which of your hands goes up?",
@@ -1844,7 +1844,7 @@
     }
    ],
    "record": "Write a secret message in mirror writing. Stick it on the fridge for your family to read with a mirror.",
-   "context": "In this activity you learn to write in mirror writing. Mirror writing runs backwards, so it reads properly in a mirror. Ambulances use it.",
+   "context": "You will write secret messages that only a mirror can read. Mirror writing runs backwards, so it reads properly in a mirror. Ambulances use it.",
    "setup": [
     {
      "art": "A child holding a hand mirror upright beside a card with backwards letters, the letters reading the right way in the mirror.",
@@ -1861,7 +1861,7 @@
      "mins": 4,
      "do": "1. Write your child's name in big letters. 2. Stand the mirror upright at the end of the word. 3. Look at the word in the mirror.",
      "say": "Look at your name in the mirror. What happened to it?",
-     "kid": "Write your name big. Hold the mirror at the end of it. What do you see?",
+     "kid": "Write your name big. Stand the mirror at the end of it. Look at your name in the mirror.",
      "ask": [
       {
        "q": "What happened to your name?",
@@ -1888,7 +1888,7 @@
      "mins": 3,
      "do": "Look out for an ambulance, or look up a picture of one. Point at the backwards word on its front.",
      "say": "Why do you think AMBULANCE is written backwards on the front?",
-     "kid": "Look at the front of an ambulance. The word is backwards! Why?",
+     "kid": "Look at the front of an ambulance, or a picture of one. What is odd about the word?",
      "check": {
       "t": "mcq",
       "q": "Why is AMBULANCE written backwards on the front of an ambulance?",
@@ -1941,8 +1941,8 @@
      "what": "Half a Picture: finish it with a mirror"
     }
    ],
-   "record": "Draw the missing half of each picture. Then list the capital letters that look the same in a mirror.",
-   "context": "In this activity you use a mirror to finish half-pictures. The mirror shows the missing half. This is called symmetry.",
+   "record": "Tell your grown-up which pictures the mirror finished. Then list the capital letters that look the same in a mirror.",
+   "context": "You use a mirror to finish half-pictures. You will find out which shapes and letters have two matching halves. This is called symmetry.",
    "setup": [
     {
      "art": "Half a butterfly drawn on paper, with a small mirror standing upright on the straight edge, making a whole butterfly appear.",
@@ -1965,9 +1965,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child draws the missing half of each picture. 2. They check it with the mirror.",
-     "say": "Now draw the missing half yourself. Then check with the mirror. Does it match?",
-     "kid": "Draw the missing half. Check with your mirror. Does it match?",
+     "do": "1. Your child draws the missing half of each picture, or lays buttons or string where the other half should be. 2. They check it with the mirror.",
+     "say": "Now make the missing half yourself. The mirror will tell you if you got it right.",
+     "kid": "Draw the missing half, or copy it with buttons or string. Then check with your mirror. Does it match?",
      "parent": "This links to maths: line symmetry. The edge where the mirror stands is called the line of symmetry.",
      "context": "In the half-picture activity, a mirror on the edge of half a picture makes it look whole. Here you draw the missing halves yourself."
     },
@@ -2023,8 +2023,8 @@
      "what": "The Sunlight Postman"
     }
    ],
-   "record": "Draw where you stood, where the Sun was and where the bright spot landed. Draw the light's path as two straight lines.",
-   "context": "In the Sunlight Postman, you catch sunlight with a mirror at a sunny window or balcony. You send a bright spot onto targets on a shady wall, like delivering light.",
+   "record": "Take a photo of the bright spot on a target. Show with your two arms how the light went: from the Sun to the mirror, then to the spot. Or draw the path as two straight lines.",
+   "context": "You will find out how to aim sunlight with a mirror. You catch sunlight at a sunny window and send the bright spot onto targets on a shady wall, like delivering light.",
    "setup": [
     {
      "art": "A child standing in a sunny spot holding a small mirror, with a bright patch of light landing on a paper target on a shady wall.",
@@ -2039,7 +2039,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Stick 3 paper targets on a shady wall, at different heights. 2. Stand where the sun shines in, with your child. 3. Tilt the mirror until a bright spot appears on the wall.",
+     "do": "1. Stick 3 paper targets on a shady wall, at different heights. 2. Stand where the sun shines in, with your child. 3. Tilt the mirror until a bright spot appears on the wall. Never shine the spot into anyone's eyes.",
      "say": "The mirror catches sunlight and sends it on, like a postman. Can you deliver the spot to the first target?",
      "kid": "Stand where the sun shines in, with a grown-up. Tilt your mirror. Find the bright spot on the wall. Can you move it to a target?",
      "adult": true,
@@ -2125,7 +2125,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Your child takes two big steps back. 2. Does their face still fit between the notes? 3. Try four steps back.",
-     "say": "Step back. Did your face shrink out of the notes, or stay between them?",
+     "say": "Step back and look again at your face in the mirror.",
      "kid": "Take two big steps back. Is your face still between the notes? Try four steps.",
      "check": {
       "t": "mcq",
@@ -2175,8 +2175,8 @@
      "what": "The Endless Corridor"
     }
    ],
-   "record": "Write the biggest number of images you could count. Draw how the far ones looked.",
-   "context": "In the Endless Corridor you hold two mirrors face to face and look at the images going on and on.",
+   "record": "Write the biggest number of images you could count. Say what colour and how bright the far ones looked.",
+   "context": "You will find out how many images two mirrors can make. You hold them face to face and count the images going on and on.",
    "setup": [
     {
      "art": "A child holding a hand mirror facing a wall mirror, with a long tunnel of smaller and smaller copies of the mirror stretching away.",
@@ -2243,7 +2243,7 @@
     }
    ],
    "record": "Keep the drawing. Write one line under it: 'This is me, inside.'",
-   "context": "In this art activity you look at your face in a mirror, then draw yourself as you feel inside.",
+   "context": "In this art activity you look at your face in a mirror, then show how you feel inside. You will find out what a mirror cannot show.",
    "setup": [
     {
      "art": "A child gazing quietly into a mirror on a table, crayons beside them.",
@@ -2259,8 +2259,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Your child looks at their face in the mirror for one quiet minute.",
-     "say": "Look at your face for one minute. Just look.",
-     "kid": "Look at your face in the mirror. Just look, for one minute. Light that bounced off your face and off the mirror is reaching your eyes.",
+     "say": "Look at your face for one minute. Just look. The light that bounced off your face and off the mirror is reaching your eyes.",
+     "kid": "Look at your face in the mirror. Just look, for one minute.",
      "context": "This is the first step of an art activity. You look quietly at your face in a mirror before you draw."
     },
     {
@@ -2268,7 +2268,7 @@
      "mins": 12,
      "do": "1. Draw a big mirror frame on the paper. 2. Inside it, your child draws themselves the way they feel inside, not only how they look.",
      "say": "The mirror shows the outside of you. Now draw what the mirror cannot show: how you feel, what you love, what you dream about.",
-     "kid": "Draw a big mirror frame. Inside it, draw you. Not only your face. Draw how you feel inside.",
+     "kid": "Draw a big mirror frame. Inside it, draw you. Not only your face. Draw how you feel inside. Or tell your grown-up, and pick a colour for each feeling.",
      "parent": "There is no right answer. Ask: what does your drawing show that the real mirror can't? For a quiet extra, read Mirror, a wordless picture book by Jeannie Baker, and look at how its two families mirror each other. A mirror shows how you look from outside, because it only sends back light from your body. It cannot show how you feel or think, because feelings send out no light.",
      "think": "What does a mirror show about you? What can it never show?",
      "context": "In this art activity, you looked at your face in a mirror. Here you draw yourself as you feel inside."
@@ -2298,8 +2298,8 @@
      "what": "Be the Light: act out a bounce"
     }
    ],
-   "record": "Draw the path of the ball, and the path of a child acting as light, as V shapes.",
-   "context": "In this act-it-out activity, you pretend to be light and reflect off a wall like a mirror.",
+   "record": "Lay two strips of tape on the floor to show the V your ball or you made, one for the way in and one for the way out. Or draw it.",
+   "context": "You will find out how light bounces by bouncing a ball, then being the light yourself. You pretend to be light and reflect off a wall like a mirror.",
    "setup": [
     {
      "art": "A child rolling a soft ball at an angle towards a wall, and the ball bouncing away at the same angle.",
@@ -2389,7 +2389,7 @@
      "what": "Make the bead end. Decorate the tube. Look, turn and draw the patterns."
     }
    ],
-   "record": "Draw three patterns you saw. Count the copies of one bead in a pattern. Write how many there were.",
+   "record": "Describe or draw a pattern you saw. Count the copies of one bead in it. Write how many there were.",
    "context": "In this 2-day project you make a kaleidoscope: a tube with three mirrors inside. The mirrors make many copies of a few beads, so you see a pattern like a flower.",
    "setup": [
     {
@@ -2447,9 +2447,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Your child looks through the open end towards a window, and slowly turns the tube. 2. They draw three patterns. 3. They count the copies of one bead.",
+     "do": "1. Your child looks through the open end towards a window, and slowly turns the tube. 2. They pick a pattern they like and describe it to you, or draw it. 3. They count the copies of one bead.",
      "say": "Turn it slowly. Every turn makes a new pattern.",
-     "kid": "Look towards the window. Turn the tube slowly. Draw three patterns. Count the copies of one bead.",
+     "kid": "Look towards the window. Turn the tube slowly. Find a pattern you like and tell your grown-up about it, or draw it. Count the copies of one bead.",
      "parent": "The kaleidoscope was invented by the Scottish scientist David Brewster in 1816. He named it from Greek words meaning 'looking at beautiful shapes'. With three mirrors you usually see the same bead about 6 times in the middle flower. The beads settle in a new place after each shake, so a new pattern appears. The same pattern is very unlikely to come back.",
      "think": "If you shake the beads, will the same pattern ever come back?",
      "context": "This is the last step of the kaleidoscope project. You look through the tube, turn it, and draw the patterns."
@@ -2485,8 +2485,8 @@
     "Bounce the light off the ceiling, if your ceiling is white. It will be dim, but it may reach.",
     "Two mirrors at a right angle send light back the way it came. Bicycle reflectors use the same idea, with many tiny mirror corners."
    ],
-   "your_turn": "Now invent your own way. Draw the path of the light, try it, and count the mirrors. Can you do it with fewer?",
-   "context": "This is a design challenge. A toy hides behind a box, and a torch cannot be moved. You must steer the light round the box using mirrors.",
+   "your_turn": "Now invent your own way. Try it and count the mirrors. Show the path of the light with string, or draw it. Can you do it with fewer?",
+   "context": "This is a design challenge. A toy hides behind a box, and a torch cannot be moved. You will find out how to make light turn a corner, using mirrors.",
    "setup": [
     {
      "art": "A torch on books shining at a cardboard box, with a small toy hidden in the shadow behind the box.",
@@ -2501,9 +2501,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Set up the torch, box and toy. 2. Ask your child to draw a plan of where the light must go.",
+     "do": "1. Set up the torch, box and toy. 2. Ask your child to show the light's path with a string, or a quick drawing.",
      "say": "Light travels in straight lines. So how can we make it go round a corner?",
-     "kid": "Look at the box and the toy. Draw a plan. Where must the light go?",
+     "kid": "Look at the box and the toy. Lay a string from the torch to the toy, round the box. Or draw a plan.",
      "context": "This is the first step of the Light the Hidden Toy challenge. You plan how to steer torchlight round a box using mirrors."
     },
     {
@@ -2565,7 +2565,7 @@
     "Tailors' shops have three mirrors in a fold, so you can see your back and sides at once.",
     "Try a steel tumbler as the second mirror. How clear is the image?"
    ],
-   "your_turn": "Can you see your own left ear? Your own feet from behind? Invent a way, and draw the path of the light.",
+   "your_turn": "Can you see your own left ear? Your own feet from behind? Invent a way, and show the path of the light by pointing or drawing.",
    "context": "This is a puzzle challenge. You use two mirrors to see the back of your own head, which you have never seen directly.",
    "setup": [
     {
@@ -2591,7 +2591,7 @@
      "mins": 6,
      "do": "Hold a piece of paper with a word on it behind your head, with the writing facing the wall mirror. Look at the word in the hand mirror, so the light bounces off both mirrors.",
      "say": "With two mirrors, does the writing look backwards?",
-     "kid": "Hold up a word behind your head, with the writing facing the big mirror. Look in the small mirror. Is it backwards?",
+     "kid": "Hold up a word behind your head, with the writing facing the big mirror. Look in the small mirror. Read the word.",
      "check": {
       "t": "mcq",
       "q": "You look at a word through two mirrors, one bounce after another. How does the word look?",
@@ -2609,9 +2609,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Your child draws the path of the light.",
-     "say": "Draw where the light went, from your head to your eyes.",
-     "kid": "Draw the light's path. Put an arrow on each straight line.",
+     "do": "Your child shows the path of the light with arms or string: from the back of the head, to the big mirror, to the hand mirror, to the eyes. Or they draw it.",
+     "say": "Show where the light went, from your head to your eyes.",
+     "kid": "Point out the light's path with your finger: back of head, big mirror, hand mirror, eyes. Or draw it with an arrow on each line.",
      "context": "This is the last step of the challenge to see the back of your own head. You draw the path the light took."
     }
    ]

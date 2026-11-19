@@ -251,7 +251,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **s3 (2 min)**  
   *Parent does:* Add up the points. Ask the question below.  
   *Parent says:* Why did spoons end up on the bottom of the salt glass and not the sugar glass?  
-  *Child mode:* Count your points. Why did salt end up on the bottom?
+  *Child mode:* Count your points. Which glass got spoons on the bottom square?
   - Check: In the real Full Glass Test, why did salt land on the bottom first? → **The water reached its limit for salt much sooner than its limit for sugar**
 
 ## Experiments
@@ -259,7 +259,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **question:** How many level teaspoons of salt will dissolve in three tablespoons of water? How many of sugar? Is it the same number?
 - **predict:** How many spoons of salt do you think the water will take before the salt stops dissolving? How many of sugar? Will they be the same? Why do you think so?
 - **fair test:** Use the same amount of water in both glasses, from the same tablespoon. Use the same teaspoon, filled level, for both salt and sugar. Stir each spoon the same way, for the same time. Only the thing you add changes.
-- **record:** Fill in the table, a row for each spoon. Draw the two glasses at the end. Then write what you think, what you saw, and why.
+- **record:** Fill in the table, a row for each spoon. Take a photo of the two glasses at the end, or draw them. Then write what you think, what you saw, and why.
 - **results table:** Spoon number | Salt: all gone after stirring? | Sugar: all gone after stirring?
 - **s1 (4 min)**  
   *Parent does:* 1. Put three tablespoons of water in each glass. 2. Label one SALT and one SUGAR. 3. Show your child how to fill a teaspoon and level it with a knife.  
@@ -269,7 +269,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess for each glass and a reason. Write both guesses at the top of the table.  
   *Parent says:* How many spoons of salt do you think this water will take before the salt stops dissolving? How many of sugar? Why do you think so?  
-  *Child mode:* Guess how many spoons of salt will dissolve. Guess for sugar too. Why do you think so? Write your guesses.
+  *Child mode:* Guess how many spoons of salt will dissolve. Guess for sugar too. Write your guesses.
   - Ask: Why do you think salt and sugar will be the same, or different? (good: Salt grains are smaller, so more will fit.; They are both white grains, so they will be the same.; Water has only so much room.)
   - Note: Most children guess the two will be the same, or that salt will go further because its grains look smaller. Do not say what happens. Every reason is useful.
 - **s3 (11 min)**  
@@ -298,12 +298,12 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **predict:** Which glass do you think will dissolve its sugar first: the cold one, the room one or the warm one? Why do you think so?
 - **fair test:** Use the same amount of water in each glass and one level teaspoon of sugar in each. One person does all the stirring, at the same speed, counting stirs. Only the temperature of the water changes. Do it twice, because one try can be a fluke.
 - **safety:** A grown-up makes the warm water and checks it is only bath-warm, never hot enough to hurt a finger.
-- **record:** Fill in the table. Then draw three bars, one for each glass, showing how many stirs it took.
+- **record:** Fill in the table. Then show how many stirs each glass took, with three bars. Or just write the three glasses in order, fastest first.
 - **results table:** Water | How it feels | Try 1: stirs until all gone | Try 2: stirs until all gone
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Pour half a cup of water into each glass. 2. A grown-up makes the warm water. 3. Take the ice cube out of the cold glass.  
   *Parent says:* Feel the outside of each glass. Which is cold, which is warm? Now, which one do you think will dissolve sugar first? Why?  
-  *Child mode:* Feel each glass. Which is cold? Which is warm? Guess which will dissolve sugar first. Why?
+  *Child mode:* Feel each glass. Which is cold? Which is warm? Guess which will dissolve sugar first.
   - Ask: Why do you think that glass will be fastest? (good: Hot tea melts sugar fast.; Warm water is moving more.; Cold makes things slow.)
   - Note: Bath-warm is enough, around 45 to 50 degrees Celsius. It should be comfortable to dip a finger in. Children often say sugar 'melts' in hot water. Accept the guess. The explanation cards make the difference clear later.
 - **s2 (12 min)**  
@@ -349,11 +349,11 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 ## Activities
 ### a1 · Will It Disappear? A kitchen test (15 min)
 - **safety:** Turmeric stains clothes, so wear old clothes.
-- **record:** Draw four columns: Disappeared, Cloudy, Sank, Floated. Write each thing in the right column.
+- **record:** Make four groups on paper: Disappeared, Cloudy, Sank, Floated. Write each thing in the right group.
 - **s1 (3 min)**  
   *Parent does:* 1. Set out the eight things and four cups of water. 2. Ask your child to guess, for each thing, whether it will disappear.  
-  *Parent says:* We are going to put each of these into water. Which ones do you think will disappear? Why do you think so?  
-  *Child mode:* Look at the eight things. Which will disappear in water? Guess for each one. Why?
+  *Parent says:* We are going to put each of these into water. Which ones do you think will disappear?  
+  *Child mode:* Look at the eight things. Which will disappear in water? Guess for each one.
   - Ask: Why do you think the jaggery will disappear? (good: Because it is sweet like sugar.; Because it goes soft when wet.)
   - Note: Do not say what will happen. Write the guesses down.
 - **s2 (8 min)**  
@@ -362,13 +362,13 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   *Child mode:* Add one thing to each cup. Stir for 30 seconds. Wait. Look at the top, the middle and the bottom.
   - Note: Salt and sugar disappear. Jaggery mostly disappears but leaves the water brown and may leave a few bits. Instant coffee dissolves. Tea dust colours the water but the bits stay. Atta makes the water cloudy, then settles. Rava sinks. Turmeric colours the water yellow but slowly settles as a layer. Oil floats. A torch beam shows up clearly in cloudy water. Test the oil last, and wash the cups with a drop of dish-washing liquid afterwards.
 - **s3 (4 min)**  
-  *Parent does:* Sort the things into the four columns. Then teach the two words: soluble and insoluble.  
+  *Parent does:* Sort the things into four groups: disappeared, cloudy, sank and floated. Then teach the two words: soluble and insoluble.  
   *Parent says:* Things that disappeared into the water, like salt, are called soluble. Things that stayed as bits are called insoluble. Which column is soluble?  
-  *Child mode:* Sort them into four columns. Things that disappeared are soluble. Things that stayed as bits are insoluble.
+  *Child mode:* Sort them into four groups by what you saw. Things that disappeared are soluble. Things that stayed as bits are insoluble.
   - Note: Coloured but clear, like coffee, still counts as dissolved. Cloudy, sinking or floating means it has not dissolved.
   - Check: Atta made the water white and cloudy. Did it dissolve? → **No, because the water was cloudy and the atta settled**
 ### a2 · Strain It: can a cloth catch dissolved salt? (15 min)
-- **record:** Draw the cloth after each test. Write: Caught or Went through, for atta and for salt.
+- **record:** Write Caught or Went through, for atta and for salt. You can also take a photo of the cloth after each test.
 - **s1 (2 min)**  
   *Parent does:* Show the two glasses. Ask for a guess for each.  
   *Parent says:* If we pour each of these through a cloth, which will the cloth catch? The atta? The salt? Why do you think so?  
@@ -386,7 +386,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **s4 (3 min)**  
   *Parent does:* Ask your child to explain what happened.  
   *Parent says:* The cloth caught the atta but not the salt. Why do you think that is? How could we get the salt back?  
-  *Child mode:* Why did the cloth catch the atta but not the salt? How could you get the salt back?
+  *Child mode:* Tell your grown-up what the cloth caught and what went through. How could you get the salt back?
   - Note: A strong answer: the atta did not dissolve, so its bits are big enough to catch. The salt dissolved into tiny particles that go through the holes. To get the salt back, leave the water on a plate in a sunny window until it dries.
   - Check: Why did the salt go through the cloth? → **The salt had dissolved into particles much smaller than the cloth's holes**
 ### a3 · Lemonade That Is Sweet to the Last Sip (20 min)
@@ -395,7 +395,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the sugar in the jug. 2. A grown-up pours in the warm water. 3. Your child stirs until the water is clear.  
   *Parent says:* Why are we using warm water first, and not cold? Think about the Cold, Room or Warm test.  
-  *Child mode:* Put the sugar in the jug. A grown-up adds warm water. Stir until it is clear. Why warm water?
+  *Child mode:* Put the sugar in the jug. A grown-up adds warm water. Stir until it is clear.
   - Note: The sugar should be gone in less than a minute. If you kept the syrup from the Full Glass Test, you can use that instead.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the lemons in half. 2. Your child squeezes them through the tea strainer into the jug. 3. Look at what the strainer caught.  
@@ -409,7 +409,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   - Note: Once dissolved and stirred, the sugar stays spread through the drink. The bottom tastes the same as the top, and no grains sit there. Add more sugar or lemon to taste, but stir the sugar into a spoon of warm water first.
   - Check: Why does this lemonade have no sugar on the bottom? → **The sugar dissolved fully in warm water before the cold water went in**
 ### a4 · Oil and Water: will they ever mix? (10 min)
-- **record:** Draw the oil bottle just after shaking, after one minute, and after adding soap.
+- **record:** Tell your grown-up what the oil did just after shaking, after one minute, and after adding soap. Or take a photo each time.
 - **s1 (3 min)**  
   *Parent does:* 1. Add the oil to one bottle and the lemon juice to the other. 2. Ask for a guess. 3. Close the caps and shake hard for ten seconds.  
   *Parent says:* Will the oil mix into the water if we shake it? Will the lemon juice? Why do you think so?  
@@ -427,7 +427,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   - Note: The water turns milky and the oil stays spread out much longer as tiny drops. Soap does not dissolve the oil. It lets very small oil drops stay spread through the water, which is how soap washes oil off a kadai.
 ### a5 · Coffee or Tea Detective (10 min)
 - **safety:** The water is very hot. The child watches from a safe distance, and only the grown-up pours.
-- **record:** Draw the filter with what is left in it, and the cup. Label what dissolved and what did not.
+- **record:** Tell your grown-up what dissolved into the water and what stayed in the filter. Or draw the filter and the cup, and label them.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Let your child watch the grown-up pour hot water over the coffee powder or boil the tea.  
   *Parent says:* The water goes in clear. What colour does it come out? What has the water taken from the powder?  
@@ -444,14 +444,14 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 ## Challenges
 ### c1 · Clean the Muddy Water (30 min)
 - **problem:** You have a glass of water with soil, rava and a spoon of salt mixed in. Make the water as clear as you can, using only things from home. Then say what is still in it.
-- **your turn:** Design your own way to clear the water. Draw it, test it, and compare it with one other way. Then say what the filter could not take out, and how you know.
+- **your turn:** Design your own way to clear the water. Draw it or tell your grown-up the plan. Test it, and compare it with one other way. Then say what the filter could not take out, and how you know.
 - **constraints:** Use only things from home.; No boiling and no chemicals.; You have 30 minutes.; Nobody drinks the water, however clear it looks.
 - **general:** Let it settle for 10 minutes while you build a filter, then pour the clear top water off carefully. Mud sinks when water is left still.; Strain it through a folded cloth in a tea strainer.; Make a bottle filter: cut a plastic bottle in half, turn the top upside down, and fill it with cotton wool, then clean sand, then small stones.
 - **creative:** Let it settle first, then filter only the top water, so the filter does not clog.; Pour it through the same filter twice.; Hang a cloth with one end in the muddy glass and the other in an empty glass below. Water creeps along the cloth and drips out much clearer, but this takes hours.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the muddy glass. Plan two ways to clear it.  
   *Parent says:* There are three things in here: soil, rava and salt. Which ones do you think a filter can catch? Why?  
-  *Child mode:* Look at the muddy water. Soil, rava and salt are in it. Which can you catch? Plan two ways.
+  *Child mode:* Look at the muddy water. Soil, rava and salt are in it. Plan two ways to clear it.
 - **s2 (18 min) · grown-up needed**  
   *Parent does:* Try both ways. Compare the two glasses of water against a white paper.  
   *Parent says:* Hold both glasses in front of white paper. Which one is clearer?  
@@ -471,7 +471,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **s1 (5 min)**  
   *Parent does:* Read the problem. List ideas from what you learned in the Cold, Room or Warm test.  
   *Parent says:* What do we know makes sugar dissolve faster? Let's list ideas before we look at anyone else's.  
-  *Child mode:* What makes sugar dissolve faster? Write three ideas.
+  *Child mode:* What makes sugar dissolve faster? Say or write three ideas.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Test two ideas, timing each one until no grain is left.  
   *Parent says:* Start the timer when the sugar goes in. Stop it when every grain has gone.  

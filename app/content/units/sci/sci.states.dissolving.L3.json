@@ -460,7 +460,7 @@
      "what": "Guess, then add salt and sugar a spoon at a time to the same amount of water until each stops dissolving. Then test the full salt water with sugar."
     }
    ],
-   "record": "Fill in the table, a row for each spoon. Draw the two glasses at the end. Then write what you think, what you saw, and why.",
+   "record": "Fill in the table, a row for each spoon. Take a photo of the two glasses at the end, or draw them. Then write what you think, what you saw, and why.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -529,7 +529,7 @@
      "mins": 3,
      "do": "Ask for a guess for each glass and a reason. Write both guesses at the top of the table.",
      "say": "How many spoons of salt do you think this water will take before the salt stops dissolving? How many of sugar? Why do you think so?",
-     "kid": "Guess how many spoons of salt will dissolve. Guess for sugar too. Why do you think so? Write your guesses.",
+     "kid": "Guess how many spoons of salt will dissolve. Guess for sugar too. Write your guesses.",
      "ask": [
       {
        "q": "Why do you think salt and sugar will be the same, or different?",
@@ -636,7 +636,7 @@
      "what": "Guess, then time a spoon of sugar dissolving in cold, room and warm water, counting stirs. Do it twice."
     }
    ],
-   "record": "Fill in the table. Then draw three bars, one for each glass, showing how many stirs it took.",
+   "record": "Fill in the table. Then show how many stirs each glass took, with three bars. Or just write the three glasses in order, fastest first.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -683,7 +683,7 @@
      "mins": 5,
      "do": "1. Pour half a cup of water into each glass. 2. A grown-up makes the warm water. 3. Take the ice cube out of the cold glass.",
      "say": "Feel the outside of each glass. Which is cold, which is warm? Now, which one do you think will dissolve sugar first? Why?",
-     "kid": "Feel each glass. Which is cold? Which is warm? Guess which will dissolve sugar first. Why?",
+     "kid": "Feel each glass. Which is cold? Which is warm? Guess which will dissolve sugar first.",
      "adult": true,
      "ask": [
       {
@@ -864,7 +864,7 @@
      "what": "Test eight kitchen things in water. Sort them into disappeared, cloudy, sank and floated."
     }
    ],
-   "record": "Draw four columns: Disappeared, Cloudy, Sank, Floated. Write each thing in the right column.",
+   "record": "Make four groups on paper: Disappeared, Cloudy, Sank, Floated. Write each thing in the right group.",
    "setup": [
     {
      "art": "Eight small heaps on a steel plate: salt, sugar, jaggery, atta, rava, turmeric, a spoon of oil and coffee powder, with four clear cups of water behind them.",
@@ -884,8 +884,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Set out the eight things and four cups of water. 2. Ask your child to guess, for each thing, whether it will disappear.",
-     "say": "We are going to put each of these into water. Which ones do you think will disappear? Why do you think so?",
-     "kid": "Look at the eight things. Which will disappear in water? Guess for each one. Why?",
+     "say": "We are going to put each of these into water. Which ones do you think will disappear?",
+     "kid": "Look at the eight things. Which will disappear in water? Guess for each one.",
      "ask": [
       {
        "q": "Why do you think the jaggery will disappear?",
@@ -908,9 +908,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Sort the things into the four columns. Then teach the two words: soluble and insoluble.",
+     "do": "Sort the things into four groups: disappeared, cloudy, sank and floated. Then teach the two words: soluble and insoluble.",
      "say": "Things that disappeared into the water, like salt, are called soluble. Things that stayed as bits are called insoluble. Which column is soluble?",
-     "kid": "Sort them into four columns. Things that disappeared are soluble. Things that stayed as bits are insoluble.",
+     "kid": "Sort them into four groups by what you saw. Things that disappeared are soluble. Things that stayed as bits are insoluble.",
      "parent": "Coloured but clear, like coffee, still counts as dissolved. Cloudy, sinking or floating means it has not dissolved.",
      "check": {
       "t": "mcq",
@@ -961,7 +961,7 @@
      "what": "Strain atta water and salt water through cloth. Look at and taste what comes through."
     }
    ],
-   "record": "Draw the cloth after each test. Write: Caught or Went through, for atta and for salt.",
+   "record": "Write Caught or Went through, for atta and for salt. You can also take a photo of the cloth after each test.",
    "setup": [
     {
      "art": "A folded cotton cloth laid inside a tea strainer over a steel bowl, and cloudy atta water being poured in.",
@@ -1005,7 +1005,7 @@
      "mins": 3,
      "do": "Ask your child to explain what happened.",
      "say": "The cloth caught the atta but not the salt. Why do you think that is? How could we get the salt back?",
-     "kid": "Why did the cloth catch the atta but not the salt? How could you get the salt back?",
+     "kid": "Tell your grown-up what the cloth caught and what went through. How could you get the salt back?",
      "parent": "A strong answer: the atta did not dissolve, so its bits are big enough to catch. The salt dissolved into tiny particles that go through the holes. To get the salt back, leave the water on a plate in a sunny window until it dries.",
      "check": {
       "t": "mcq",
@@ -1082,7 +1082,7 @@
      "mins": 5,
      "do": "1. Put the sugar in the jug. 2. A grown-up pours in the warm water. 3. Your child stirs until the water is clear.",
      "say": "Why are we using warm water first, and not cold? Think about the Cold, Room or Warm test.",
-     "kid": "Put the sugar in the jug. A grown-up adds warm water. Stir until it is clear. Why warm water?",
+     "kid": "Put the sugar in the jug. A grown-up adds warm water. Stir until it is clear.",
      "adult": true,
      "parent": "The sugar should be gone in less than a minute. If you kept the syrup from the Full Glass Test, you can use that instead."
     },
@@ -1121,7 +1121,7 @@
    "title": "Oil and Water: will they ever mix?",
    "mins": 10,
    "days": 1,
-   "context": "Solids are not the only things that can dissolve. Here you test a liquid, oil, to see whether it dissolves in water.",
+   "context": "Solids are not the only things that can dissolve. Here you find out whether a liquid, oil, dissolves in water like salt does.",
    "materials": [
     {
      "item": "two small clear plastic bottles with tight caps, each half full of water",
@@ -1147,7 +1147,7 @@
      "what": "Shake oil with water and lemon juice with water. Watch what happens. Then add a drop of soap."
     }
    ],
-   "record": "Draw the oil bottle just after shaking, after one minute, and after adding soap.",
+   "record": "Tell your grown-up what the oil did just after shaking, after one minute, and after adding soap. Or take a photo each time.",
    "setup": [
     {
      "art": "A clear bottle half full of water with a yellow layer of oil on top, and a second bottle of water with lemon juice.",
@@ -1217,7 +1217,7 @@
      "what": "Watch filter coffee or tea being made. Look at what stays in the filter."
     }
    ],
-   "record": "Draw the filter with what is left in it, and the cup. Label what dissolved and what did not.",
+   "record": "Tell your grown-up what dissolved into the water and what stayed in the filter. Or draw the filter and the cup, and label them.",
    "setup": [
     {
      "art": "A steel South Indian coffee filter with hot water being poured into the top part, dark decoction dripping into the lower part.",
@@ -1489,7 +1489,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "A board game about limits. Each player fills a glass with salt or sugar spoons by rolling a die, but each glass has a different limit.",
+   "context": "A board game about limits. You will see why salt fills a glass sooner than sugar does. Each player fills a glass with salt or sugar spoons by rolling a die, but each glass has a different limit.",
    "printables": [
     {
      "kind": "board",
@@ -1575,7 +1575,7 @@
      "mins": 2,
      "do": "Add up the points. Ask the question below.",
      "say": "Why did spoons end up on the bottom of the salt glass and not the sugar glass?",
-     "kid": "Count your points. Why did salt end up on the bottom?",
+     "kid": "Count your points. Which glass got spoons on the bottom square?",
      "check": {
       "t": "mcq",
       "q": "In the real Full Glass Test, why did salt land on the bottom first?",
@@ -1629,14 +1629,14 @@
     "Pour it through the same filter twice.",
     "Hang a cloth with one end in the muddy glass and the other in an empty glass below. Water creeps along the cloth and drips out much clearer, but this takes hours."
    ],
-   "your_turn": "Design your own way to clear the water. Draw it, test it, and compare it with one other way. Then say what the filter could not take out, and how you know.",
+   "your_turn": "Design your own way to clear the water. Draw it or tell your grown-up the plan. Test it, and compare it with one other way. Then say what the filter could not take out, and how you know.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Look at the muddy glass. Plan two ways to clear it.",
      "say": "There are three things in here: soil, rava and salt. Which ones do you think a filter can catch? Why?",
-     "kid": "Look at the muddy water. Soil, rava and salt are in it. Which can you catch? Plan two ways."
+     "kid": "Look at the muddy water. Soil, rava and salt are in it. Plan two ways to clear it."
     },
     {
      "id": "s2",
@@ -1704,7 +1704,7 @@
      "mins": 5,
      "do": "Read the problem. List ideas from what you learned in the Cold, Room or Warm test.",
      "say": "What do we know makes sugar dissolve faster? Let's list ideas before we look at anyone else's.",
-     "kid": "What makes sugar dissolve faster? Write three ideas."
+     "kid": "What makes sugar dissolve faster? Say or write three ideas."
     },
     {
      "id": "s2",

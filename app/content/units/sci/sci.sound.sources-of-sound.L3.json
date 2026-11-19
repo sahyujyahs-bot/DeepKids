@@ -732,7 +732,7 @@
      "mins": 3,
      "do": "Find the card 'A tabla'. Play it together as a practice round, then shuffle it back into the pile.",
      "say": "Let's practise. 'A tabla.' When you hit a tabla, what vibrates?",
-     "kid": "Practice card: a tabla. What vibrates when you hit it? Say your answer.",
+     "kid": "Practice card: a tabla. Say your answer.",
      "check": {
       "t": "mcq",
       "q": "When you hit a tabla, what vibrates to make the sound?",
@@ -749,7 +749,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Take turns drawing a card and reading it out. 2. The player puts it on a mat and says what is vibrating. 3. Turn the card over to check. 4. Give a token for each right answer.",
-     "say": "Tell me what is vibrating, and where it is. Then check the back.",
+     "say": "Tell me what is vibrating. Then check the back.",
      "kid": "Read your card. What is vibrating? Put it on a mat. Turn it over. If you were right, take a token!",
      "parent": "Tricky cards: the ghatam is a solid clay pot, but the air inside it also vibrates. The shehnai's reed vibrates first, then the air in the tube. Animals are BODY: a male cricket rubs his wings, a mosquito beats her wings, a frog and a dog use vocal folds. A pressure cooker whistle is air vibrating as it rushes out."
     },
@@ -1585,7 +1585,7 @@
      "mins": 3,
      "do": "Look at the table together and compare it with your guess.",
      "say": "What happened when more of the ruler stuck out? Was your guess right?",
-     "kid": "Look at your table. When more of the ruler stuck out, was the sound higher or lower? Was your guess right?",
+     "kid": "Look at your table. Was your guess right?",
      "check": {
       "t": "mcq",
       "q": "When more of the ruler sticks out, it vibrates more slowly. What happens to the sound?",
@@ -1607,7 +1607,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a longer piece of ruler makes a lower sound. What I saw: at 5 cm it buzzed high, and at 25 cm it wobbled slowly and I could hardly hear it. Why: a longer piece vibrates more slowly, and slower vibration sounds lower."
     }
    ],
-   "context": "In this experiment, you press a ruler on a table so part of it sticks out. You flick the end and listen. Then you change how much sticks out, to see what changes the sound.",
+   "context": "In this experiment, you press a ruler on a table so part of it sticks out. You flick the end and listen. Then you change how much sticks out, to find out why a long ruler and a short ruler sound different.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1706,7 +1706,7 @@
      "what": "Ring a steel plate and watch a foil ball jump. Ring a bowl of water and watch the water. Then stop the ring with your hand."
     }
    ],
-   "record": "Fill in the table. Draw the foil ball jumping off the ringing plate.",
+   "record": "Fill in the table. Draw the foil ball jumping off the ringing plate, or tell your grown-up what you saw.",
    "flow": [
     {
      "id": "s1",
@@ -1722,7 +1722,7 @@
      "mins": 4,
      "do": "1. Hold the plate upright by its very edge, with two fingers. 2. Hit it firmly near the rim with the spoon. 3. Watch the foil ball.",
      "say": "Listen to it ring. Now watch the ball. What does it do?",
-     "kid": "Hit the plate with the spoon. Listen. Watch the foil ball. What does it do?",
+     "kid": "Hit the plate with the spoon. Listen. Watch the foil ball.",
      "ask": [
       {
        "q": "What did the foil ball do when the plate rang?",
@@ -1739,7 +1739,7 @@
      "mins": 4,
      "do": "1. Hit the plate again. 2. Then hold it with your whole hand to stop the ring. 3. Let the ball touch it again.",
      "say": "Now let's stop the ring with a hand. Watch the ball this time.",
-     "kid": "Hit it again. Now hold it tight to stop the ring. Does the ball still jump?",
+     "kid": "Hit it again. Now hold it tight to stop the ring. Watch the ball.",
      "check": {
       "t": "mcq",
       "q": "When you held the plate and the ring stopped, what did the foil ball do?",
@@ -1779,7 +1779,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a ringing plate is vibrating, even though it looks still. What I saw: the foil ball jumped away while it rang, and hung still when I held it. Why: the plate vibrates very fast, which pushes the ball and makes the sound."
     }
    ],
-   "context": "A ringing steel plate looks perfectly still. In this experiment, you use a tiny foil ball and a bowl of water to catch its hidden vibration.",
+   "context": "A ringing steel plate looks perfectly still. In this experiment, you use a tiny foil ball and a bowl of water to catch its hidden vibration. You will find out if a ringing plate is really moving.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1868,7 +1868,7 @@
      "what": "Make a balloon drum. Tap it with no dough, a small blob and a big blob. Watch rice dance on it."
     }
    ],
-   "record": "Fill in the table. Draw the drum with rice jumping on it, and the drum with the dough blob.",
+   "record": "Fill in the table. Draw the drum with rice jumping and the drum with the dough, or tell your grown-up what each one did.",
    "flow": [
     {
      "id": "s1",
@@ -1901,7 +1901,7 @@
      "mins": 7,
      "do": "1. Brush the rice off. 2. Press a pea-sized blob of dough in the centre of the skin. Tap the same spot as before and listen. 3. Make it a coin-sized blob. Tap the same spot and listen. 4. Take the dough off and tap that spot again to compare.",
      "say": "A mridangam player presses wet dough on the left side of the drum before playing. Let's find out why.",
-     "kid": "Press a tiny blob of dough in the middle. Tap the same spot. Make the blob bigger. Tap. Now take it off. Tap. What changed?",
+     "kid": "Press a tiny blob of dough in the middle. Tap the same spot. Make the blob bigger. Tap. Now take it off. Tap. Listen each time.",
      "check": {
       "t": "mcq",
       "q": "What did the dough blob do to the drum's sound?",
@@ -1918,7 +1918,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Talk about the tabla and the mridangam together.",
-     "say": "Real tabla and mridangam drums have a heavy black patch called the syahi. Our dough only makes the note lower. The syahi also makes the drum ring with a clear note instead of a thud. C.V. Raman, an Indian scientist, explained how in 1920. But drum makers invented it long before.",
+     "say": "Real tabla and mridangam drums have a heavy black patch called the syahi. Our dough only makes the note lower. The syahi also makes the drum ring with a clear note instead of a thud.",
      "kid": "Real drums have a heavy black patch called syahi. It helps them ring with a clear note. Drum makers invented it long ago.",
      "think": "Drum makers found the syahi without any science lab. They added a thin layer of paste and tapped the drum after each layer. What were they listening for each time?"
     },
@@ -1931,7 +1931,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: dough on a drum makes it sound lower. What I saw: with no dough it went 'tink', and with a big blob it went 'tunk'. Why: the heavy dough makes the skin vibrate more slowly."
     }
    ],
-   "context": "Mridangam players press a blob of wet dough on one skin before they play. In this experiment, you make a balloon drum and find out what the dough does.",
+   "context": "Mridangam players press a blob of wet dough on one skin before they play. In this experiment, you make a balloon drum and find out why the dough is there: what it does to the sound.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -2060,7 +2060,7 @@
      "what": "Pass a push down a line of coins. Then try it with gaps between the coins, like the gaps between particles in space. If you have enough people, also pass a squeeze down a line of people."
     }
    ],
-   "record": "Draw the coin line, with an arrow showing the push travelling. Write one sentence: what travelled, and what stayed?",
+   "record": "Write one sentence: what travelled, and what stayed? Draw the coin line with an arrow for the push, or tell your grown-up.",
    "flow": [
     {
      "id": "s1",
@@ -2076,7 +2076,7 @@
      "mins": 3,
      "do": "1. Space the 5 coins out, with a gap as wide as your palm between each one. 2. Flick the 6th coin in again, with the same gentle flick as before.",
      "say": "Now the coins are far apart, like the few particles in space. What happens?",
-     "kid": "Now leave gaps between the coins. Flick again. Does the push reach the end?",
+     "kid": "Now leave gaps between the coins. Flick again. Watch the far coin.",
      "ask": [
       {
        "q": "Why didn't the push reach the end this time?",
@@ -2101,7 +2101,7 @@
      "mins": 3,
      "do": "Talk about what travelled and what stayed.",
      "say": "What went from one end to the other? Did any coin or person travel all the way?",
-     "kid": "What travelled down the line? Did any coin go all the way? Does sound in air work the same way?",
+     "kid": "Think about the first coin and the last coin. Does sound in air work like this?",
      "check": {
       "t": "mcq",
       "q": "In the coin line, what travelled from one end to the other?",
@@ -2202,7 +2202,7 @@
      }
     }
    ],
-   "context": "In this activity, you tap things in your kitchen to hear what each one sounds like. Then you make a jal tarang, an Indian instrument of bowls with water in them.",
+   "context": "In this activity, you tap things in your kitchen to hear what each one sounds like. Then you make a jal tarang, an Indian instrument of bowls with water in them, and find out how water changes the note.",
    "setup": [
     {
      "art": "A child tapping a clay pot, a steel plate and a plastic box on a kitchen floor with a spoon.",
@@ -2246,7 +2246,7 @@
      "what": "Pluck a band in the air, then over a box. Build a four-string veena."
     }
    ],
-   "record": "Draw your veena. Write which band was highest and which was lowest, and why.",
+   "record": "Write which band was highest and which was lowest, and why. Draw your veena, or take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -2296,7 +2296,7 @@
      "mins": 4,
      "do": "Play your veena. Try to play a short tune or a pattern of notes.",
      "say": "Play us something. What is vibrating when you play?",
-     "kid": "Play a tune on your veena! What is vibrating: the band, the box, or both?",
+     "kid": "Play a tune, or a pattern of notes, on your veena!",
      "think": "The box made the band louder. Your throat, mouth and nose do something like this for your voice. Hum and feel your face and chest buzz."
     }
    ],
@@ -2339,7 +2339,7 @@
      "what": "Make a straw reed. Make it buzz. Cut it shorter and hear the note change."
     }
    ],
-   "record": "Draw your straw shehnai and label the reed. Write what happened when it was cut shorter.",
+   "record": "Write what happened when it was cut shorter. Show your grown-up where the reed is, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -2353,7 +2353,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Put the V end into your mouth, past the cut, about 2 cm in. 2. Close your lips around it. 3. Blow hard, without biting.",
+     "do": "1. Put the V end into your mouth, about 2 cm in. 2. Close your lips around it. 3. Blow hard, without biting.",
      "say": "Blow hard. It may take five or more tries. Move it a little further in or out each time.",
      "kid": "Put the V end in your mouth. Close your lips. Blow hard! Keep trying. It takes practice.",
      "parent": "Most children need several tries. If it won't buzz, flatten the V again, and press lips a little harder. Paper straws usually go soggy and don't work. When it works, it gives a loud, buzzy honk. Single-use plastic straws are no longer sold in India, so use any you already have. If you have none, skip this activity and try the Kitchen Orchestra instead."
@@ -2363,7 +2363,7 @@
      "mins": 3,
      "do": "1. While your child keeps blowing, a grown-up snips a bit off the far end of the straw. 2. Snip again. Listen each time.",
      "say": "Keep blowing. Listen to what happens as the straw gets shorter.",
-     "kid": "Keep blowing! A grown-up will snip the end off. What happens to the note?",
+     "kid": "Keep blowing! A grown-up will snip the end off. Listen.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2426,7 +2426,7 @@
      "what": "Copy how a cricket, a frog and an elephant make their sounds."
     }
    ],
-   "record": "Draw one animal making a sound. Label the part that vibrates.",
+   "record": "Tell your grown-up about one animal: which part of the animal's body vibrates to make the sound? Or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -2535,14 +2535,14 @@
      "what": "Give a concert for the family. Before each piece, explain what vibrates in your instrument."
     }
    ],
-   "record": "Keep the design drawing. Write what you changed on day 2, and why. Make a concert poster.",
+   "record": "Keep your plan. Write what you changed on day 2, and why.",
    "flow": [
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Choose a kind of instrument: string, skin, air or solid. 2. Draw a design and label the part that will vibrate. 3. List what you need.",
-     "say": "Every instrument in the world has a part that vibrates. Which kind will you build? Draw it first, like an inventor.",
-     "kid": "Choose: string, skin, air or solid. Draw your instrument. Label the part that vibrates.",
+     "do": "1. Choose a kind of instrument: string, skin, air or solid. 2. Plan it: draw a design, or lay out the objects you will use, and say which part will vibrate. 3. List what you need.",
+     "say": "Every instrument in the world has a part that vibrates. Which kind will you build? Plan it first, like an inventor.",
+     "kid": "Choose: string, skin, air or solid. Plan your instrument. Show which part vibrates.",
      "context": "This is the first step of the 3-day My Instrument Concert project. You design, build and play your own instrument, then explain how it makes sound."
     },
     {
@@ -2564,7 +2564,7 @@
     {
      "id": "s4",
      "mins": 20,
-     "do": "1. Make a poster for the concert. 2. Invite the family. 3. Before playing, explain what vibrates in your instrument. 4. Play.",
+     "do": "1. Make a poster, or just invite the family aloud. 2. Let your child explain what vibrates, then play.",
      "say": "Welcome to the concert! Before you play, tell us what is vibrating.",
      "kid": "It's your concert! Tell everyone what vibrates in your instrument. Then play!",
      "think": "Every instrument in the world, from a veena to a drum to a flute, is a way of making something vibrate. What would you invent next?"
@@ -2612,7 +2612,7 @@
     "A veena uses a big hollow body, and sometimes a second gourd at the top. Could two boxes help?",
     "Put your ear against the box while someone plucks. Does it sound louder through the box than through the air?"
    ],
-   "your_turn": "Now invent your own way. Draw it, try it, and ask someone to judge which is loudest from across the room.",
+   "your_turn": "Now invent your own way. Try it, and ask someone to judge which is loudest from across the room.",
    "flow": [
     {
      "id": "s1",
@@ -2627,7 +2627,7 @@
      "mins": 5,
      "do": "List three ideas before trying any.",
      "say": "Before trying anything, let's think. What could make the band push more air?",
-     "kid": "Think first, like an engineer. Draw or write three ideas."
+     "kid": "Think first, like an engineer. Say or write three ideas."
     },
     {
      "id": "s3",
@@ -2695,7 +2695,7 @@
     "Many deaf people use phones that vibrate in their pocket. Could a family use a vibrating phone as a doorbell?",
     "A vibration travels well along a tight string. A string from the door to the person's chair could carry a tug."
    ],
-   "your_turn": "Now design your own doorbell. Draw it, build a model, and test it with someone who closes their eyes and covers their ears.",
+   "your_turn": "Now design your own doorbell. Build a model, and test it with someone who closes their eyes and covers their ears.",
    "flow": [
     {
      "id": "s1",
@@ -2724,8 +2724,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Read the usual and the creative ideas together. Then improve your design.",
-     "say": "Evelyn Glennie says hearing is a kind of touch. What do you think she means?",
-     "kid": "A deaf drummer says hearing is a kind of touch. What do you think she means?",
+     "say": "Evelyn Glennie, a deaf drummer, says hearing is a kind of touch.",
+     "kid": "She says hearing is a kind of touch. What do you think she means?",
      "check": {
       "t": "mcq",
       "q": "Evelyn Glennie is deaf, yet she plays drums. How does she feel the music?",

@@ -399,7 +399,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **s1 (10 min)**  
   *Parent does:* 1. Look at India's flag together. 2. Ask why it is easy to remember. 3. Your child makes three quick ideas for their own flag, by sketching or by telling you.  
   *Parent says:* What makes our flag easy to remember? Let's try three quick ideas for your own flag.  
-  *Child mode:* Why is our flag easy to remember? Then sketch three quick ideas for your own flag, or tell them to your grown-up.
+  *Child mode:* Why is our flag easy to remember? Sketch three quick ideas for your own flag, or tell them.
 - **s2 (10 min)**  
   *Parent does:* 1. Choose the best idea. 2. Draw it 15 cm by 10 cm and colour it.  
   *Parent says:* Pick your best idea. Draw it neatly, 15 cm long and 10 cm high.  

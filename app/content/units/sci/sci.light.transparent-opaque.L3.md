@@ -252,11 +252,11 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the three mats on the floor. 2. Shuffle the 24 job cards and put them face down. 3. Put the 24 lamp tokens in a bowl.  
   *Parent says:* Every card is a job. For each job, we choose a material. Should it be transparent, so we see straight through? Translucent, so light comes in but no picture? Or opaque, so no light gets through?  
-  *Child mode:* Put out the three mats. Mix up the cards. For each job, pick a mat.
+  *Child mode:* Look at the three mats. For each job card, you pick the mat that fits.
 - **s2 (3 min)**  
   *Parent does:* Find the card 'A bathroom window'. Play it together as a practice round, then shuffle it back into the pile.  
   *Parent says:* Let's practise with one card. 'A bathroom window.' Which mat does it go on?  
-  *Child mode:* Practice card: a bathroom window. Clear, cloudy or blocked? Say your answer.
+  *Child mode:* Read the practice card: a bathroom window. Put it on the mat you choose.
   - Ask: Why not clear glass? (good: People outside could see in.; We want light, but we want privacy too.)
   - Check: A bathroom window. What does it need? → **Cloudy: translucent**
 - **s3 (13 min)**  
@@ -281,7 +281,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **s2 (6 min)**  
   *Parent does:* 1. Take a card, then hold up that thing. 2. Let the guessers shout their guesses. 3. Show each object after the guess. 4. Mark the score sheet.  
   *Parent says:* What is it? And is its shadow dark, pale or almost none?  
-  *Child mode:* What is it? Is the shadow dark, pale or hardly there? Say both.
+  *Child mode:* Look at the shadow on the sheet. Say what you think it is, and how dark it is.
   - Ask: Why does the glass of water make a pale shadow with a bright line in it? (good: Light goes through the water.; The glass is clear, so most light gets through, but its curved sides bend the light into a bright line.)
   - Check: The steel spoon made a very dark shadow. So the spoon is… → **Opaque**
 - **s3 (4 min)**  
@@ -295,7 +295,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **question:** How see-through is each material? How far can we lift it off a page before we can no longer read the words?
 - **predict:** Before you test, line up the materials. Put the one you think you can lift highest first, and the one that blurs the word soonest last. Why do you think so?
 - **fair test:** To make it fair, change only the material. Use the same card of letters, in the same light, and keep your eyes at the same height every time. Test each material 3 times, because one try can be a fluke.
-- **record:** Fill in the table. Then draw a bar chart, with one bar for each material. Make each bar as tall as its middle gap.
+- **record:** Fill in the table. Then make a bar chart, with one bar for each material. Draw it, or cut paper strips as long as each middle gap.
 - **results table:** Material | Try 1: gap when the words blurred (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
 - **s1 (4 min)**  
   *Parent does:* 1. Write LIGHT on a card in big letters, about 2 cm tall. 2. Cut postcard-sized pieces of the 5 materials. 3. Ask your child to put the materials in a line, from most see-through to least.  
@@ -315,11 +315,11 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **s4 (5 min)**  
   *Parent does:* Help your child draw a bar chart of the middle values, with one bar for each material.  
   *Parent says:* Let's turn the numbers into a picture. Each material gets a bar. The taller the bar, the higher we could lift it before the word blurred.  
-  *Child mode:* Draw one bar for each material. Make it as tall as its middle number. Taller means more see-through.
+  *Child mode:* Draw one bar for each material, as tall as its middle number. Or cut a paper strip that many centimetres long. Taller means more see-through.
   - Check: In the gap test, the plastic bag could be lifted 6 cm and the tissue only 1 cm. Which is more see-through? → **The plastic bag**
 - **s5 (2 min)**  
   *Parent does:* Sort the five materials into transparent, translucent and opaque, using the results.  
-  *Parent says:* Which material never blurred? That one is transparent. Which ones let light through but lost the word? Those are translucent. We tested nothing opaque. What could we add?  
+  *Parent says:* Sort the five materials into transparent and translucent. We tested nothing opaque. What could we add?  
   *Child mode:* Which one never blurred? That is transparent. Which let light through but lost the word? Those are translucent.
   - Note: Something opaque to add would be a steel plate, a piece of card or a wooden board. The word would vanish even when the material touches the card, because no light gets through.
   - Think: Butter paper let you read the word when it touched the card. Is butter paper transparent or translucent? Use what you found when you lifted it.
@@ -354,8 +354,8 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   - Wait: Leave it for 1 hour
 - **s5 (5 min)**  
   *Parent does:* 1. Lay the paper over the newspaper again. 2. Score each circle again. 3. Compare with the first scores.  
-  *Parent says:* Look again. Which spot changed? Did the water spot go back to white? Why do you think so?  
-  *Child mode:* Score each circle again. Which one changed? Why?
+  *Parent says:* Look again. Which spot changed? Which spot looks the same as before?  
+  *Child mode:* Score each circle again. Compare with your first scores.
   - Ask: If the water spot went back to white, why? (good: The water dried up.; Air came back into the gaps.)
   - Note: The water spot usually goes back to white as it dries, because air fills the gaps again. The oil spot stays see-through, because oil does not dry away. Long ago, before glass was cheap, many people used oiled paper in their windows. Butter paper is made from pulp beaten very fine and pressed hard, so its threads pack tightly with few air gaps. That is why it is more translucent than ordinary paper.
 - **s6 (3 min)**  
@@ -382,7 +382,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **s3 (6 min)**  
   *Parent does:* 1. Go into a dim room, with the curtains closed and one small light on. 2. Hold the chart 3 big steps away. 3. Your child reads it without sunglasses, then with.  
   *Parent says:* Now we're inside, where it's dim. Read the smallest row. Now with the sunglasses.  
-  *Child mode:* Now read the chart in a dim room. Then with sunglasses. Is it harder?
+  *Child mode:* Now read the chart in a dim room. Then read it with sunglasses. Write down the smallest row each time.
   - Check: In the dim room, the sunglasses made the letters… → **Harder to read**
 - **s4 (4 min)**  
   *Parent does:* Look at the label on the sunglasses together. Look for 'UV400' or '100% UV protection'.  
@@ -397,16 +397,16 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 
 ## Activities
 ### a1 · Glowing Hands and the See-Through Hunt (15 min)
-- **record:** Draw your glowing hand. Then list four things you found for each group.
+- **record:** Take a photo of your glowing hand, or tell your grown-up what colour it looked. Then say or list four things you found for each group.
 - **s1 (4 min)**  
   *Parent does:* 1. Make a room as dark as you can. 2. Your child presses the front of the torch against the tips of their fingers and switches it on. 3. Ask what they notice.  
   *Parent says:* Look at your fingers. What do you notice? What do you wonder?  
-  *Child mode:* Make the room dark. Press the torch under your fingertips. Switch it on. What do you see?
+  *Child mode:* Make the room dark. Press the torch under your fingertips. Switch it on. Look at your fingers.
   - Ask: What do you notice? (good: My fingers glow red.; Light comes through my hand.; I can see darker lines inside.)
   - Note: The red glow is light passing through skin and blood. Red light gets through best. Don't explain much yet. Let the child wonder.
 - **s2 (9 min)**  
   *Parent does:* 1. Put out the three labelled trays. 2. Your child collects things from around the house. 3. They hold each one up to a window or the torch. 4. They put it on the TRANSPARENT, TRANSLUCENT or OPAQUE tray.  
-  *Parent says:* Find things around the house. Hold each one up to the light. Can you see clearly through it? Then it is transparent. Does light get through, but no clear picture? Then it is translucent. No light at all? Then it is opaque.  
+  *Parent says:* Find things around the house. Hold each one up to the light. Which tray does it go on? Tell me why.  
   *Child mode:* Find things in the house. Hold each one up to the light. If you can see clearly through it, it is transparent. If light gets through but no clear picture, it is translucent. If no light gets through, it is opaque.
   - Check: You hold a plastic carry bag up to the window. Light comes through, but the tree outside looks blurry. Which tray? → **TRANSLUCENT**
 - **s3 (2 min)**  
@@ -414,11 +414,11 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Parent says:* Was anything hard to put on a tray? Why?  
   *Child mode:* Look at your trays. Which thing was hardest to sort? Why?
 ### a2 · Where Did the Sugar Go? (10 min)
-- **record:** Draw the sugar before, during and after stirring. Draw the tiny pieces you can't see, too.
+- **record:** Tell your grown-up what the sugar looked like before, during and after stirring. Then say where you think the sugar went.
 - **s1 (3 min)**  
   *Parent does:* 1. Put a little pile of sugar on the dark plate. 2. Look at one grain closely. 3. Then look at the whole pile.  
   *Parent says:* Look at one grain of sugar. It's almost clear, like a tiny bit of glass. So why is the pile white?  
-  *Child mode:* Look at one sugar grain. It is almost clear. But the pile is white. Why?
+  *Child mode:* Look at one sugar grain, then at the whole pile. What colour is each?
 - **s2 (4 min)**  
   *Parent does:* 1. Tip the sugar into the water. 2. Stir slowly. 3. Watch until the water is clear.  
   *Parent says:* Watch the water while you stir. What happens to the white?  
@@ -432,7 +432,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   - Think: Imagine a plate of this sugar water drying in the sun. What would be left on the plate?
 ### a3 · Cloudy Ice, Clear Ice (15 min, 2 days)
 - **safety:** Only a grown-up boils the water. Wrap ice in a cloth before crushing it, so no sharp bits fly.
-- **record:** Draw both pieces of ice. Mark where the cloudy parts are. Draw the crushed ice too.
+- **record:** Take a photo of both pieces of ice, and of the crushed ice. Point to where the cloudy parts are, and tell your grown-up which piece was clearer.
 - **schedule:** day 1: In the morning a grown-up boils water and leaves it to cool. In the evening, fill one bowl with tap water and one with the boiled, cooled water. Freeze them overnight. (5 min); day 2: Compare the two pieces of ice. Look for bubbles. Crush some ice and see it turn white. (10 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Early in the day, a grown-up boils some water and leaves it to cool completely, with a lid on. 2. In the evening, fill one bowl with tap water and label it TAP. 3. Fill the other with the cooled boiled water and label it BOILED. 4. Put both in the freezer.  
@@ -451,7 +451,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Child mode:* Wrap ice in a cloth. Tap it to crush it. Open it. What colour is it now?
   - Think: Where else have you seen a clear thing turn white when it is broken into tiny pieces?
 ### a4 · Day Curtain, Night Curtain (20 min, 2 days)
-- **record:** Draw the curtain four times: daytime seen from the dim room, daytime seen from the bright room, evening seen from the room that is now dark, and with the thick quilt.
+- **record:** For each of the four turns, say who could see whom: daytime from the dim room, daytime from the bright room, evening from the dark room, and with the thick quilt. Write one word each time: seen or hidden.
 - **schedule:** day 1: In the daytime, hang the thin curtain in a doorway between a bright room and a dim room. Look through it from each side. (10 min); day 2: In the evening, switch the lights round so the other room is the bright one. Look again. Then hang a thick quilt. (10 min)
 - **s1 (5 min)**  
   *Parent does:* 1. In the daytime, hang the thin curtain in a doorway between two rooms. 2. Make one room bright (curtains open, lights on) and the other dim (curtains closed, lights off). 3. One person stands in the bright room, close to the curtain, and waves. The other stands in the dim room and looks.  
@@ -474,11 +474,11 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   - Think: Why do many homes have two curtains, one thin and one thick?
 ### a5 · Act It Out: The Light Party (15 min)
 - **problem:** Light goes straight through some materials. Others scatter it, and others stop it. In this activity, one person is the light. The others are the tiny atoms in a material. You act out what the atoms do to the light.
-- **record:** Draw yourself as light, going into each material.
+- **record:** Tell a grown-up what the light did in glass, in butter paper and at the steel plate. Or act all three once more for someone.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold up the GLASS sign. 2. One person is the 'light'. Everyone else is an 'atom' and stands still, a step apart, with arms folded. If there are only two of you, one atom is enough: the light walks past it again and again. 3. The light walks straight past the atoms from one side of the room to the other.  
   *Parent says:* This is glass. Its atoms cannot catch the light we see, so they keep their arms folded. The light walks straight through. Where does it come out?  
-  *Child mode:* You are light. Walk straight through the glass atoms. Don't turn. Where do you come out?
+  *Child mode:* You are light. Walk straight through the glass atoms. Don't turn.
   - Note: The gaps between the people are only there so the 'light' can walk through. Real glass has no holes. Its atoms simply cannot absorb the light we see.
 - **s2 (5 min)**  
   *Parent does:* 1. Hold up the BUTTER PAPER sign. 2. The atoms stand in a messy cluster. With two of you, the one atom stands still and turns the light each time it passes. 3. When the 'light' reaches an atom, the atom gently turns it to face a new way. 4. The light keeps walking.  
@@ -491,7 +491,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Child mode:* Now the atoms catch you. You can't get through. Turn back to show you were sent back, or sit down to show you were absorbed.
   - Think: In which material did the light walk straight through?
 ### a6 · Hand Shadow Animals (20 min)
-- **record:** Draw the outline of the shadow animal you invented. Write one sentence on why your hand made a dark shape.
+- **record:** Take a photo of the shadow animal you invented, or draw the outline. Say one sentence on why your hand made a dark shape.
 - **s1 (4 min)**  
   *Parent does:* 1. Make the room as dark as you can. 2. Put the torch on a stool about two big steps from a plain wall. 3. Stack books under it so the light is level with your child's hands. Point it at the wall. 4. Before your child puts a hand in the light, ask them to guess.  
   *Parent says:* Your hand will go between the torch and the wall. What do you think we will see on the wall? What shape will it be? Why?  
@@ -506,7 +506,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **s3 (5 min)**  
   *Parent does:* 1. Your child invents an animal that is not on the chart. A peacock, a cow, a crab or a lizard all work. 2. You guess what it is. 3. Then ask why the hand makes a dark shape with that outline.  
   *Parent says:* Invent an animal that is not on the chart. I will guess what it is. Then tell me why the shadow is dark. Why does it have the outline of your hand?  
-  *Child mode:* Invent your own shadow animal. Let me guess. Why is the shadow dark?
+  *Child mode:* Invent your own shadow animal. Let your grown-up guess what it is.
   - Note: In Glowing Hands and the See-Through Hunt, a little red light got through the fingers when the torch was pressed right against them. From two steps away, almost none gets through, so the hand acts as opaque.
   - Check: You hold your hand between a torch and a wall. Why is there a dark shape on the wall? → **Your hand is opaque. It blocks the light, so that part of the wall gets no light.**
 - **s4 (3 min)**  
@@ -519,7 +519,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 ## Projects
 ### p1 · The Three-Light Lantern (60 min, 2 days)
 - **safety:** Use only a battery LED light inside the lantern, never a real flame or diya, because paper burns.
-- **record:** Draw what each side of the lantern shows on the wall. Label it transparent, translucent or opaque with holes.
+- **record:** Take a photo of the wall light from each side, or describe it in words. Then label each side: transparent, translucent or opaque with holes.
 - **schedule:** day 1: Cut a box shape from card with four windows. Cover one window with clear plastic and two with butter paper. Cover the last one with card that has small holes in it, like a jaali. (35 min); day 2: Let the glue dry. Put the LED light inside in a dark room. Compare the light from each side on the wall. (25 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Draw four 10 cm squares in a row on the card. 2. Add one more 10 cm square below the second square, for the bottom. 3. Cut out the shape. 4. A grown-up cuts a 6 cm window in each of the four side squares.  
@@ -539,28 +539,28 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **s4 (10 min)**  
   *Parent does:* Talk about where each kind of light is useful at home.  
   *Parent says:* Which side would you want for reading? For a baby's night light? For a party?  
-  *Child mode:* Which side is best for reading? For a sleepy baby? For a party?
+  *Child mode:* Pick a side for reading, a baby's night, and a party.
   - Note: Good answers: clear for bright reading light, butter paper for a soft night light, the jaali for a pretty pattern. Some children want to make the lantern with all translucent sides next.
 
 ## Challenges
 ### c1 · Keep the Light Out, Let Me See In (30 min)
 - **problem:** Some medicines and milk spoil in light. Design a container that keeps light out, but still lets you check how much is left inside, without opening it.
-- **your turn:** Now invent your own container. Draw it, build it, and do the torch test in the dark. Can a friend tell how full it is without opening it?
+- **your turn:** Now invent your own container. Plan it, build it, and do the torch test in the dark. Can a friend tell how full it is without opening it?
 - **constraints:** Use only things you find at home.; Test it in a dark room. Shine a torch on the covered side and look in through the open mouth. You should see no light inside.; You must be able to tell how full it is, without opening the lid.
 - **general:** Cover the whole bottle in black paper or foil, so it is opaque.; Leave a narrow strip from top to bottom, and cover it with a black paper flap. Lift the flap to see the water level, then close it.; Mark lines on the cover, and pour in water a cup at a time to learn which line each cup reaches.
 - **creative:** Brown and dark-green glass bottles let in less of the light that spoils things. That is why some medicine bottles are brown.; Shake it and listen. Does a full bottle sound different from a half-full one?; If you have a kitchen scale, weigh the bottle. A fuller bottle is heavier.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at a medicine bottle or milk packet at home.  
   *Parent says:* Why do you think this medicine bottle is brown, and this milk packet is not see-through?  
-  *Child mode:* Look at a medicine bottle or a milk packet. Is it see-through? Why not?
+  *Child mode:* Look at a medicine bottle or a milk packet. Can you see through it?
 - **s2 (15 min)**  
-  *Parent does:* 1. Your child draws a design. 2. They build it from the materials. 3. Fill the bottle halfway with water.  
-  *Parent says:* Draw your idea first. How will you keep the light out? How will you check how full it is?  
-  *Child mode:* Draw your idea. Build it. Keep light out. Find a way to check how full it is.
+  *Parent does:* 1. Your child plans a design, by sketching it or by laying the materials out on the table. 2. They build it. 3. Fill the bottle halfway with water.  
+  *Parent says:* Plan your idea first. How will you keep the light out? How will you check how full it is?  
+  *Child mode:* Plan your idea, with a sketch or with the materials on the table. Then build it.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. Make the room dark. 2. Take the lid off. 3. Shine the torch on the covered side, all the way round. 4. Your child looks in through the mouth for any light getting in.  
-  *Parent says:* Is any light getting in? Where? How could you fix it?  
-  *Child mode:* In the dark, a grown-up shines a torch on the bottle. Look inside. Any light?
+  *Parent says:* Look through the mouth. Where is light getting in? How could you fix it?  
+  *Child mode:* In the dark, a grown-up shines a torch on the bottle. Look inside the bottle.
   - Check: Light gets in where two pieces of black paper meet. What is the best fix? → **Overlap the paper so no gap is left, and tape it down**
 - **s4 (3 min)**  
   *Parent does:* Ask a friend or family member to say how full it is without opening the lid.  
@@ -580,7 +580,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **s2 (15 min)**  
   *Parent does:* 1. Your child tries covering the LED with each material. 2. For each one, they check from across the room. 3. They pick the best and improve it.  
   *Parent says:* Try each material over the light. Which hides the bright point but still lights the room?  
-  *Child mode:* Try each cover. Check from across the room. Which hides the bright point?
+  *Child mode:* Cover the light with each material in turn. Stand across the room each time.
   - Check: Which cover will best hide the bright point but still let light out? → **A tube of butter paper**
 - **s3 (7 min)**  
   *Parent does:* Build the final shade and test it in the dark.  

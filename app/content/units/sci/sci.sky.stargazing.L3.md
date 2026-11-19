@@ -161,11 +161,11 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the board on the floor. 2. Put the Moon token on Ashwini. 3. Shuffle the cards.  
   *Parent says:* This ring is the Moon's path round the sky, split into 27 nakshatras. Each turn is one night, and the Moon moves one space each night.  
-  *Child mode:* This ring is the Moon's path. It has 27 nakshatras. Each turn is one night. The Moon moves one space.
+  *Child mode:* Put the Moon token on Ashwini, the first space. Say the next three names on the ring.
 - **s2 (3 min)**  
   *Parent does:* With the Moon token on Ashwini, find the card that says 'Count on 1 space' and play it together as practice.  
   *Parent says:* This is a practice card. The Moon is on Ashwini tonight. Count one space on the ring. Which nakshatra will it be in tomorrow night?  
-  *Child mode:* This is a practice card. The Moon is on Ashwini. Count one space on. Which nakshatra is the Moon in tomorrow?
+  *Child mode:* This is a practice card. The Moon is on Ashwini. Count one space on the ring.
   - Check: The Moon token is on Ashwini tonight. Which nakshatra will the Moon be in tomorrow night? → **Bharani**
 - **s3 (12 min)**  
   *Parent does:* Play the game, taking turns, until the Moon token is back on Ashwini.  
@@ -174,7 +174,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
   - Note: Help with counting round the ring. After Revati comes Ashwini again. If a card asks your child to count spaces and the answer is not clear, count them on the board together.
 - **s4 (2 min)**  
   *Parent does:* Count how many turns the Moon took to go all the way round, one turn for each night.  
-  *Parent says:* How many turns did the Moon take to go all the way round? What does that tell us about the real Moon?  
+  *Parent says:* Let's count how many turns the Moon took to go all the way round.  
   *Child mode:* Count the turns. How many nights did the Moon take to go all the way round?
   - Ask: The Moon took 27 turns to go all the way round the ring. What does that tell us about the real Moon? (good: 27 turns, so the real Moon takes about 27 days to go round the stars.; That is why there are 27 nakshatras.)
 ### g2 · Same Stars, Many Stories: a memory pairs game (15 min)
@@ -183,7 +183,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s1 (2 min)**  
   *Parent does:* Lay the cards face down in rows.  
   *Parent says:* Each star pattern has stories from different peoples. Find a star card and a story about those stars.  
-  *Child mode:* Lay the cards face down. Find a star card and its story.
+  *Child mode:* Lay all 20 cards face down in rows. No peeking.
 - **s2 (11 min)**  
   *Parent does:* Play the game. When a pair is found, ask which people tell that story.  
   *Parent says:* You found a pair. Who tells that story?  
@@ -192,7 +192,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s3 (2 min)**  
   *Parent does:* At the end, ask the question below.  
   *Parent says:* Two star groups here had three stories each. Which two were they?  
-  *Child mode:* Two star groups had three stories each. Which two?
+  *Child mode:* Think back over the pairs you made. Which star groups kept turning up?
   - Ask: Which two star groups had three stories each? (good: Krittika, with the mothers, Matariki and the seven sisters.; Scorpius, with the scorpion, Maui's fishhook and Jyeshtha the eldest.)
 
 ## Experiments
@@ -202,8 +202,8 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **predict:** Before you build it, guess. When you look at the model from the side, will the seven stars still make a ladle? Will they all be the same distance from Earth? Why do you think so?
 - **fair test:** Build the model once, using the real distances, and do not move the paper stars. Change only one thing: where you look from. Look with one eye closed each time, with your eye at the same height as the Earth card.
 - **safety:** A grown-up makes the hole in the card with the pencil, pushing into an eraser or folded cloth, never towards a hand. Keep the threads away from the doorway, so nobody trips on them.
-- **record:** Fill in the results table for each place you looked from. Draw the model twice: as seen from the Earth card, and as seen from the side.
-- **results table:** Where I looked from | Did I see the ladle? (yes, a little, no) | Which paper stars looked closest together | My quick sketch
+- **record:** Fill in the results table for each place you looked from. Draw the model twice, as seen from the Earth card and from the side, or take a photo from each place.
+- **results table:** Where I looked from | Did I see the ladle? (yes, a little, no) | Which paper stars looked closest together | My quick sketch or photo
 - **s1 (3 min)**  
   *Parent does:* 1. On scrap paper, draw seven dots together in the shape of a ladle: four in a bowl and three in a handle. 2. Ask the guess question below and wait for the answer and the reason.  
   *Parent says:* These seven stars make a ladle. If we could fly out into space and look from the side, would they still look like a ladle? Why do you think so?  
@@ -228,12 +228,12 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s5 (3 min)**  
   *Parent does:* 1. Your child kneels behind the chair, closes one eye and looks through the hole in the Earth card. 2. They describe what they see and fill in the first row of the table.  
   *Parent says:* Look through the hole with one eye. What shape do the seven paper stars make?  
-  *Child mode:* Close one eye. Look through the hole. What shape do the paper stars make? Write it down.
+  *Child mode:* Close one eye and look through the hole at the paper stars. Tell your grown-up what you see, then fill in the first row.
   - Ask: Do the paper stars make the ladle? (good: Yes, each paper star sits right on its dot.; It looks just like the picture.)
 - **s6 (5 min)**  
-  *Parent does:* 1. Now your child walks to one side of the model, halfway between the card and the wall. 2. They look at the paper stars from the side. 3. They fill in the second row, and sketch what they see.  
+  *Parent does:* 1. Now your child walks to one side of the model, halfway between the card and the wall. 2. They look at the paper stars from the side. 3. They fill in the second row, and sketch what they see or take a photo.  
   *Parent says:* Now you are on a planet out to the side. Look at the seven paper stars. Do they still make a ladle?  
-  *Child mode:* Walk to the side. Look at the paper stars. Is it still a ladle? Which stars are close together? Sketch it.
+  *Child mode:* Walk to the side and look at the paper stars. Point to the ones that are close together. Sketch what you see, or tell your grown-up.
   - Ask: Which paper stars are far from the others? (good: Kratu and Marichi are further back, near the wall.; Five are in a bunch, and two are far behind.)
   - Check: From the side, what did the seven paper stars look like? → **Five close together, and two much further from Earth**
 - **s7 (3 min)**  
@@ -251,7 +251,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **predict:** Before you start, guess. Will you see more stars, fewer, or the same number as the minutes go by? Why do you think so?
 - **fair test:** Use the same paper, in the same place, with the same tiny bit of light in the room every time. The same person counts each time. Change only one thing: how long you have been in the dark.
 - **safety:** Clear the floor before switching off the light, so nobody trips.
-- **record:** Fill in the table. Draw a bar chart with one bar for each time.
+- **record:** Fill in the table. Make a bar chart with one bar for each time: draw it, or stack coins or beans.
 - **results table:** Minutes in the dark | Number of stars I can see (out of 12)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up draws 12 small stars on the white paper, without your child watching. 2. Make 2 with the black sketch pen, 3 with the pencil pressed hard, 3 pressed medium, and 4 pressed very lightly. 3. Scatter them over the page.  
@@ -260,8 +260,8 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
   - Note: Mixing the stars around the page stops your child from counting them by memory. The faintest ones should be just visible in normal room light.
 - **s2 (2 min)**  
   *Parent does:* 1. Prop the paper against a wall at the far side of the room, about 2 metres from where your child will sit. 2. Ask the guess question.  
-  *Parent says:* When I switch off the light, you will count the stars you can see. Will you see more as time goes on, or fewer, or the same? Why?  
-  *Child mode:* Soon the light goes off. You will count the stars. Will you see more, fewer, or the same as time goes on? Why?
+  *Parent says:* When I switch off the light, you will count the stars you can see. Will you see more as time goes on, or fewer, or the same?  
+  *Child mode:* Soon the light goes off and you will count the stars. As time goes on, will you see more, fewer, or the same?
   - Ask: Why do you think so? (good: My eyes get used to the dark.; When I wake at night I can see more after a while.)
 - **s3 (15 min)**  
   *Parent does:* 1. Set the four alarms and switch off the light, leaving only a thin line of light under the door. A grown-up sits in the room. 2. When each alarm sounds (1, 5, 10 and 15 minutes), your child counts the stars and says the number aloud. 3. The grown-up remembers the number or writes it down by the line of light.  
@@ -280,7 +280,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **predict:** Before you start, guess. If you look at the Moon at the same time tomorrow night, will it be in the same place among the stars, or somewhere else? Why do you think so?
 - **fair test:** Look at the same time each night, from the same spot on the balcony or terrace. Measure with your fist held out at arm's length, the same way every time.
 - **safety:** A grown-up stays with the child on the balcony or terrace at night. Keep away from the edge of a terrace without a wall.
-- **record:** Fill in the table each night. Draw the star and the Moon each night on one page, so you can see the Moon stepping along.
+- **record:** Fill in the table each night. Draw the star and the Moon each night on one page, or take a photo each night, so you can see the Moon stepping along.
 - **results table:** Night and time | Bright star I measured from | Fists from that star to the Moon | Moon east or west of the star | Nakshatra (from a sky app, if you have one)
 - **schedule:** day 1: Find the Moon at 7:30 in the evening. Measure in fists from a bright star nearby. Note the time. (10 min); day 2: At the same time and from the same spot, measure in fists from the same star to the Moon. (7 min); day 3: At the same time and from the same spot, measure in fists from the same star to the Moon again. (7 min); day 4: Look at your table. Work out how far the Moon moves each night, and how long it would take to go all the way round. (6 min)
 - **s1 (3 min)**  
@@ -309,27 +309,27 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 
 ## Activities
 ### a1 · One Sky, Many Pictures: join the dots your own way (12 min)
-- **record:** Keep your drawing. Under it, write the name and the story of your picture.
+- **record:** Keep your picture. Under it, write its name and story, or tell them to a grown-up.
 - **s1 (5 min)**  
   *Parent does:* 1. A grown-up draws the 10 dots on a plain sheet before your child sees it, using the positions in the note. 2. Give your child the sheet without saying what it is. 3. Ask them to join any of the dots into a picture of anything they like.  
   *Parent says:* These dots are real stars that you can see from a balcony or window on winter evenings. Join some of them to make a picture. It can be anything at all.  
-  *Child mode:* These dots are real stars. Join some of them. Make a picture of anything you like.
+  *Child mode:* These dots are real stars. Join some of them with lines, or lay thread along them. What picture do you see? It can be anything.
   - Note: Dot positions, in centimetres from the bottom left corner of an upright page, about 14 cm across and 18 cm high: 3 across and 13 up (Betelgeuse). 11 and 13.5 (Bellatrix). 6 and 8 (Alnitak). 7.5 and 8.7 (Alnilam). 9 and 9.4 (Mintaka). 4 and 2.5 (Saiph). 12 and 3 (Rigel). 6.5 and 16.5, 7.5 and 16.5, 7 and 15.5 (the three small stars of the head). There is no right answer to the child's picture. Children often draw a person, a kite, a butterfly or an animal.
 - **s2 (4 min)**  
   *Parent does:* Tell your child about the two old pictures and draw them on the dots in another colour. The Greek hunter joins Betelgeuse, Bellatrix, the three belt stars, Saiph and Rigel. The Indian Mrigashira, the deer's head, joins the three small dots at the top, and Ardra is the red star Betelgeuse.  
   *Parent says:* The Greeks saw a hunter with a belt of three stars. In India, astronomers saw the head of a deer, Mrigashira, and named the red star Ardra. In Tamil it is Thiruvathirai.  
-  *Child mode:* The Greeks saw a hunter here. Indian astronomers saw a deer's head. The red star is Ardra.
+  *Child mode:* The Greeks saw a hunter here. Indian astronomers saw a deer's head. Point to Ardra, the red star.
   - Ask: Put your picture beside the Greek hunter and the Indian deer's head. All three are made on the same dots. What is the same in the three pictures, and what is different? (good: The dots are the same. Each picture joins them in a different way.; The stars did not change. Only the lines and the story changed.)
 - **s3 (3 min)**  
   *Parent does:* Ask the question below and let your child think.  
   *Parent says:* Three people joined the same stars and made three different pictures. Were the stars different?  
-  *Child mode:* Three people saw three different pictures. Were the stars different?
+  *Child mode:* Look at the three pictures again. Then choose an answer.
   - Note: A good answer: they would see a different picture, or none at all. From another planet, the stars would be seen from a different place, so they would line up differently, as the paper stars did in the Thread Saptarishi model.
   - Check: The Greeks saw a hunter and Indian astronomers saw a deer's head in the same stars. Why? → **People join the same stars into different pictures**
   - Think: If a child on another planet joined these dots, what might they see?
 ### a2 · Find the Saptarishi from Your Balcony (20 min)
 - **safety:** A grown-up stays with the child at night. Keep away from the edge of a terrace without a wall.
-- **record:** Draw the stars you found, and the buildings or trees below them, so you can find them again.
+- **record:** Draw the stars you found, and the buildings or trees below them, or write which way you faced and where the stars were, so you can find them again.
 - **s1 (3 min)**  
   *Parent does:* Check the month. From about February to June, the Saptarishi is up in the north in the evening. From about November to March, Krittika and Orion are high in the evening sky.  
   *Parent says:* Tonight we hunt for a star pattern from home. First, let's find which way is north.  
@@ -343,25 +343,25 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s3 (2 min)**  
   *Parent does:* Ask your child what they found.  
   *Parent says:* Which stars did you find? Were they all equally bright?  
-  *Child mode:* Which stars did you find? Were they all equally bright?
+  *Child mode:* Point to each star you found. Which are bright and which are faint?
   - Ask: If a star looks faint, does that mean it is further away? (good: Not always. Some stars are just less bright.; Maybe, but Kratu is the furthest and he is still bright.)
 ### a3 · Krittika Round the World: one star cluster, many stories (15 min)
-- **record:** Draw the cluster in the middle of a page and your favourite story round it.
+- **record:** Draw the cluster in the middle of a page and write your own story round it, or tell the story aloud to a grown-up.
 - **s1 (6 min)**  
   *Parent does:* 1. Draw a tight group of six or seven dots in the middle of a page. This is Krittika. 2. Read out the four short stories in the note, one by one.  
   *Parent says:* These four stories are all about the same small group of stars. Listen, and tell me what is the same in them.  
-  *Child mode:* Listen to four stories. They are all about the same few stars. What is the same in them?
+  *Child mode:* Look at the dots: this is Krittika. Listen to the four stories about it.
   - Note: 1. India: the six Krittikas are mothers who cared for the baby Kartikeya, called Murugan in Tamil Nadu. 2. Greece: the Pleiades are seven sisters, and one is hard to see. 3. Many Aboriginal peoples of Australia: seven sisters are chased across the sky by a man. 4. The Maori of New Zealand: when Matariki rises before dawn in midwinter, the new year begins.
 - **s2 (4 min)**  
   *Parent does:* Talk about what is the same and what is different.  
   *Parent says:* What is the same in these stories? Why do you think so many people saw women or sisters?  
-  *Child mode:* What is the same in the stories? Why do so many people see sisters?
+  *Child mode:* Say what is the same. Then say what is different.
   - Ask: Why might some stories have six women and some have seven? (good: Some people can see six stars and some can see seven.; One star is very faint.)
   - Note: Nobody knows for sure why the stories are so alike. Some astronomers think the story is very old and was carried round the world. Others think it was made up many times.
 - **s3 (5 min)**  
-  *Parent does:* Your child draws one story and makes up their own.  
-  *Parent says:* Now you are a storyteller. Make up your own story about these stars. Who are they? Why are they so close together?  
-  *Child mode:* Make up your own story about these stars. Who are they? Draw it.
+  *Parent does:* Your child makes up their own story about the stars, and tells it, acts it out or draws it.  
+  *Parent says:* Now you are a storyteller. Who are these stars? Why are they so close together?  
+  *Child mode:* Make up your own story about these stars. Tell it, act it out, or draw it.
   - Note: A good answer to why the stars are so close together: they really are close, because the stars of Krittika were born together from one cloud of gas and travel together. A story where the sisters stay together fits that best. Unlike the Saptarishi, Krittika is a real group.
   - Think: Krittika's stars really were born together. Which story fits that best?
 ### a4 · Festival Stars: which festivals follow the nakshatras? (15 min)
@@ -369,7 +369,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s1 (5 min)**  
   *Parent does:* Show your child a printed calendar. Point to where it names the nakshatra for each day.  
   *Parent says:* This calendar tells us which nakshatra the Moon is in each day. Can you find today's?  
-  *Child mode:* Find today on the calendar. Which nakshatra is the Moon in today?
+  *Child mode:* Find today's date. Read out the nakshatra written beside it.
   - Note: Many Tamil, Malayalam, Marathi and Bengali calendars print the nakshatra for each day, often in a corner of the date box. If you have no printed calendar, go straight to the next step, where the festivals are listed.
 - **s2 (6 min)**  
   *Parent does:* Read out the festivals in the note. Your child fills in the table.  
@@ -379,7 +379,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s3 (4 min)**  
   *Parent does:* Ask the question below.  
   *Parent says:* The Moon visits all 27 nakshatras every month. So why is Onam only once a year?  
-  *Child mode:* The Moon visits Thiruvonam every month. So why is Onam once a year?
+  *Child mode:* Look at the Onam row in your table. Think, then tell your grown-up your idea.
   - Ask: Why is Onam only once a year? (good: Because it also has to be in the month of Chingam.; It needs the right nakshatra and the right month.)
 ### a5 · Make a Red Stargazing Torch (10 min)
 - **record:** Write how many layers of red you used, and whether you could still read your notes with it.
@@ -399,9 +399,9 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **record:** The finished map, with the date, the time, and how many stars you could see.
 - **schedule:** day 1: In daylight, draw the skyline you see from your balcony or window: buildings, trees, water tanks. (15 min); day 2: At 8 in the evening, after 15 minutes in the dark, add the brightest stars and planets you can see above the skyline. (15 min); day 3: Name what you drew, using a sky app or a star map. Add the constellations and nakshatras they belong to. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* In daylight, your child draws the skyline from the balcony along the bottom of the page.  
+  *Parent does:* In daylight, your child draws the balcony skyline along the bottom of the page, or sticks a photo there.  
   *Parent says:* Draw what you see from here: the buildings, trees and water tanks. This is the bottom of our sky map.  
-  *Child mode:* Draw the buildings and trees you see from the balcony. This is the bottom of your map.
+  *Child mode:* Draw the buildings and trees you see, or stick a photo. This is the bottom of your map.
   - Note: The skyline helps your child find the same stars again. 'Just above the blue water tank' is easy to remember.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* At 8 in the evening, with the lights behind you off, wait 15 minutes. Then your child adds each bright dot to the map, in the right place above the skyline.  
@@ -411,7 +411,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
   - Wait: Do this on the evening of day 2.
 - **s3 (15 min)**  
   *Parent does:* With a sky app or a star map, help your child name the dots and write the names on the map.  
-  *Parent says:* Let's find out what each dot is. Which ones belong to the same constellation? Is any of them a nakshatra?  
+  *Parent says:* Let's find out what each dot is. Which ones belong to the same constellation?  
   *Child mode:* Find the name of each dot. Write it on your map. Is any of them a nakshatra?
   - Ask: How many stars could you see? Do you think a child in a village sees more? Why? (good: More, because there are fewer lights.; The city lights hide the faint stars.)
   - Note: No app or star map? Use Orion, Krittika and the Saptarishi from this unit, and call the rest 'bright star' or 'planet'.
@@ -429,14 +429,14 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
   *Parent says:* Find a few bright stars that could make a shape. What does it look like to you?  
   *Child mode:* Pick 3 to 7 bright stars. What shape do they make?
 - **s2 (10 min)**  
-  *Parent does:* Your child draws the shape, names it, and writes a short story and directions.  
+  *Parent does:* Your child shows the shape (draw it, or lay out beans), names it, and writes or says a short story and directions.  
   *Parent says:* What will you call it? What is its story? How would a visitor find it?  
-  *Child mode:* Name your constellation. Write its story. Write how to find it.
+  *Child mode:* Name your constellation. Tell its story. Say how to find it.
   - Ask: Would your constellation have the same shape from a planet going round another star? (good: No, the stars are at different distances, so it would look different.; Only from near Earth.)
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* On another evening, give the directions to a family member. Can they find it alone?  
   *Parent says:* Let's test your directions. Can someone at home or a friend find it on their own?  
-  *Child mode:* Give your directions to someone. Can they find it alone?
+  *Child mode:* Tell your directions to someone at home. Watch where they look.
   - Wait: Do this on another clear evening.
 ### c2 · Find It by Phone: tell a friend where a star is (25 min)
 - **problem:** Your friend lives in another city. Over a phone call, help them find the same bright star or the Moon that you are looking at, at the same time. You may not send any pictures.
@@ -447,15 +447,15 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - **s1 (5 min)**  
   *Parent does:* Plan with your child what words will help a friend find a star without pictures.  
   *Parent says:* Your friend can't see your balcony. What words will help them find the same star?  
-  *Child mode:* Your friend can't see your balcony. What words will help them find your star?
+  *Child mode:* Think of three things you can say to help your friend find your star.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Make the phone call at an agreed time. Your child gives directions using direction, fists and brightness.  
-  *Parent says:* Tell them which way to face. Then how many fists up. Then what is near it.  
+  *Parent says:* Give your friend one clue at a time, and ask if they can see the star yet.  
   *Child mode:* Tell your friend which way to face. How many fists up? What is near it?
 - **s3 (5 min)**  
   *Parent does:* Talk about what worked and what did not.  
-  *Parent says:* Which words helped most? Why was the Moon a good signpost?  
-  *Child mode:* Which words helped most? Was the Moon a good signpost? Why?
+  *Parent says:* Which words helped most? Which did not help?  
+  *Child mode:* Was the Moon a good signpost? Why or why not?
   - Ask: Suppose one friend is in Guwahati and another in Pune. Do they see the same stars? (good: Almost the same, because the stars are so far away.; Yes, the patterns look the same from anywhere on Earth.)
 
 ## Worksheets

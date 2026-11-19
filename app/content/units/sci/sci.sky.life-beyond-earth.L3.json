@@ -531,7 +531,7 @@
      "mins": 3,
      "do": "1. Cut out the place cards and the answer cards. 2. Give each player a YES, a NO and an UNKNOWN card. 3. Put the Lake Vida card on top and shuffle the rest under it.",
      "say": "Each card is a place. Some have life, some do not, and for some nobody knows yet. You must decide which, and say why.",
-     "kid": "Each card is a place. Does life live there? Yes, no, or nobody knows?",
+     "kid": "Look at the answer cards: YES, NO and UNKNOWN.",
      "context": "This is the first step of Could Life Live There?, a card game about where living things can survive."
     },
     {
@@ -539,7 +539,7 @@
      "mins": 3,
      "do": "Play the Lake Vida card first, slowly, to learn the rules. It scores like any other card.",
      "say": "First card. Lake Vida is in Antarctica. Its water is minus 13 degrees and very salty, under thick ice. Could anything live there?",
-     "kid": "Lake Vida is very cold and very salty. Can anything live there?",
+     "kid": "Listen to the card. Then pick one answer card.",
      "check": {
       "t": "mcq",
       "q": "Lake Vida's water is minus 13 degrees and very salty, under ice. Do living things live there?",
@@ -565,7 +565,7 @@
      "mins": 2,
      "do": "Add up the scores. Then look at the YES cards together.",
      "say": "Look at the YES cards. What did every one of those places have?",
-     "kid": "Look at the YES cards. What did every one of those places have?",
+     "kid": "Put the YES cards in a row. Look for what they share.",
      "think": "Look at the YES cards again. Is there any YES card without liquid water?",
      "parent": "Every YES place has liquid water: hot spring water, salty liquid under ice, damp moss, and the liquid in curd and saliva. So no YES card is without liquid water. This is the main idea of the unit."
     }
@@ -685,7 +685,7 @@
      "mins": 7,
      "do": "Read the creature cards one at a time, but keep the Lake Vida card for last. After each run, turn the card over and ask one question.",
      "say": "Tardigrade in summer moss! Go! Now, what problem does summer give a tardigrade, and what do they do about it?",
-     "kid": "Run to the corner. What is hard there? How does the creature cope?",
+     "kid": "Run to the corner where the creature lives.",
      "parent": "Good answers name the problem first, then the trick. For example: the moss dries out, so the tardigrade curls into a dry ball and waits for rain. Heat breaks most cells' working parts, so hot-spring microbes have heat-proof parts."
     },
     {
@@ -693,7 +693,7 @@
      "mins": 1,
      "do": "End with the Lake Vida card, which fits two corners.",
      "say": "Last one. Bacteria in Lake Vida. Which corner? Why could it be two?",
-     "kid": "Lake Vida bacteria. Which corner? Could it be two?",
+     "kid": "Run to the corner for Lake Vida bacteria. Stand between two if you think it fits both.",
      "check": {
       "t": "mcq",
       "q": "Why does Lake Vida fit both COLD and SALTY?",
@@ -775,7 +775,7 @@
      "what": "Set up three cups in the evening, check them after 1 hour and 3 hours, and once more next morning. Then explain what you found."
     }
    ],
-   "record": "Fill in the table at each check. Write one of these four words: liquid, thin ice on top, slushy, or frozen hard. Next morning, draw the three cups and colour the ice blue and the liquid water green.",
+   "record": "Fill in the table at each check. Write one of these four words: liquid, thin ice on top, slushy, or frozen hard. Next morning, take a photo of the three cups. Or draw them and colour the ice blue and the liquid water green.",
    "flow": [
     {
      "id": "s1",
@@ -791,7 +791,7 @@
      "mins": 5,
      "do": "1. Ask your child to guess what each cup will look like in 1 hour, in 3 hours and next morning. 2. Ask for a reason. 3. Write the guesses in the table.",
      "say": "Which cup will freeze first? Will any of them stay liquid all night? Why do you think so?",
-     "kid": "Guess. Which cup will freeze first? Will any stay liquid? Why?",
+     "kid": "Guess how each cup will look, and say why.",
      "ask": [
       {
        "q": "Why do you think the salty cups will be different?",
@@ -948,7 +948,7 @@
      "what": "Make sea-strength salty water and taste it. Freeze it for about 1 to 2 hours until it is half ice. Then taste the ice and the leftover water."
     }
    ],
-   "record": "Write how salty each one tasted. If you used food colour, draw the cup and show where the colour was strongest.",
+   "record": "Write how salty each one tasted. If you used food colour, take a photo of the cup and point to where the colour was strongest.",
    "flow": [
     {
      "id": "s1",
@@ -963,7 +963,7 @@
      "mins": 3,
      "do": "Ask for a guess and a reason. Then put the cup in the freezer.",
      "say": "When this is half frozen, will the ice taste as salty as this? Saltier? Or plainer? Why do you think so?",
-     "kid": "Guess. Will the ice taste salty or plain? Why?",
+     "kid": "Guess how the ice will taste, and say why.",
      "parent": "Do not say what will happen. Write down the guess and the reason."
     },
     {
@@ -986,9 +986,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Ask your child to say three things: what they think, what they saw, and why they think it happened. Then draw the half-frozen cup together: ice on top, salty water below, and thin channels of brine inside the ice.",
+     "do": "Ask your child to say three things: what they think, what they saw, and why they think it happened.",
      "say": "So where did the salt go when the water froze? What does that mean for a microbe living in sea ice?",
-     "kid": "Where did the salt go? Where could a microbe live in sea ice?",
+     "kid": "Tell your grown-up what you tasted, and where the salt went.",
      "parent": "A good answer: the ice was less salty, and the leftover water was saltier, so freezing pushed the salt out of the ice. In real sea ice, this pushed-out salty water collects in thin channels. Because it is so salty, it stays liquid far below zero. Bacteria and tiny algae live in those channels.",
      "check": {
       "t": "mcq",
@@ -1047,7 +1047,7 @@
      "what": "Try to lift an ice cube with a thread. Then add salt and try again."
     }
    ],
-   "record": "Draw the ice cube and the thread before and after the salt. Write one sentence about what the salt did.",
+   "record": "Take a photo of the ice cube hanging on the thread. Say or write one sentence about what the salt did.",
    "flow": [
     {
      "id": "s1",
@@ -1055,7 +1055,7 @@
      "do": "1. Put an ice cube on a plate. 2. Lay the thread across the top. 3. Ask your child to lift the ice by the thread.",
      "say": "Can you lift this ice cube with just this thread? Lay it across the top and try.",
      "kid": "Lay the thread on the ice cube. Can you lift the ice?",
-     "context": "This is a quick puzzle to start the unit on life beyond Earth. You find out what salt does to ice."
+     "context": "This is a quick puzzle to start the unit on life beyond Earth. You will find out what salt does to ice, and why that matters for life in cold places."
     },
     {
      "id": "s2",
@@ -1069,8 +1069,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask what the salt did. Ask what the child wonders.",
-     "say": "The salt made the ice melt for a moment. What do you notice? What do you wonder about salt and ice?",
-     "kid": "Salt melted the ice. What do you wonder about salt and ice?",
+     "say": "What did you notice when you lifted the thread? What do you wonder about salt and ice?",
+     "kid": "Say what you noticed. Then say what you wonder.",
      "ask": [
       {
        "q": "What do you think salt does to ice?",
@@ -1126,12 +1126,12 @@
      "what": "Make a long thermometer on the floor, write 8 number cards and 10 place cards, and put the places and living things on it at their temperatures."
     }
    ],
-   "record": "Take a photo or draw the string with the cards. Circle the part of the string where life has been found.",
+   "record": "Take a photo of the string with the cards. Point to the part of the string where life has been found, and tell a grown-up what you see.",
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Lay the string along the floor of a corridor. 2. Write numbers on 8 cards: minus 20, 0, 20, 40, 60, 80, 100 and 120. 3. Put them along the string, evenly spaced, about 40 cm apart. 4. Write the 10 place cards listed below, one on each card.",
+     "do": "1. Lay the string along the floor of a corridor. 2. Write numbers on 8 cards: minus 20, 0, 20, 40, 60, 80, 100 and 120. 3. Put them along the string, evenly spaced, about 40 cm apart. 4. Write the 10 place cards from the list in the note below, one on each card.",
      "say": "This string is a giant thermometer. This end is minus 20 degrees, colder than a freezer. That end is 120 degrees, hotter than boiling water.",
      "kid": "Lay out the string. Put the numbers in order, from minus 20 to 120.",
      "context": "This is an activity where you make a long thermometer on the floor, and find where on it living things have been found.",
@@ -1199,14 +1199,14 @@
      "what": "Choose Europa, Mars or Enceladus. List the problems a living thing would face there. Draw a living thing whose body solves each one."
     }
    ],
-   "record": "Draw your living thing, and label each feature with the problem it solves.",
+   "record": "Show your living thing, drawn or built, or describe it out loud. Say which problem each feature solves.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Read the three world cards aloud. Europa: an ocean of dark, salty water under kilometres of ice, very cold, no sunlight. Mars: cold, dry, thin air, strong sunlight that burns living cells, ice under the ground. Enceladus: a small salty ocean under ice, with warm vents on the sea floor.",
      "say": "Choose one world. Real scientists think tiny life might live in places like these. What would be hard about living there?",
-     "kid": "Choose Europa, Mars or Enceladus. What would be hard about living there?",
+     "kid": "Choose one world: Europa, Mars or Enceladus.",
      "context": "This is a design activity. You invent a living thing who could survive on another world, using what Earth's extremophiles do."
     },
     {
@@ -1214,15 +1214,15 @@
      "mins": 5,
      "do": "Help your child list three problems their world would give a living thing.",
      "say": "Let's list three problems first. For Europa: it is dark, so there is no sunlight for energy. It is very cold. And the water is salty.",
-     "kid": "Write three problems. Dark? Cold? Salty? Dry?",
+     "kid": "Tell your grown-up three problems this world gives a living thing.",
      "parent": "Keep each problem real: cold, dark, salty, dry, burning sunlight, no food. Each one has a real Earth creature who deals with it."
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "Your child draws a living thing and labels a feature for each problem.",
+     "do": "Your child makes a living thing, drawn, built from paper or clay, or described out loud, with a feature for each problem.",
      "say": "For each problem, give your creature a way to deal with it. What does a microbe in Lake Vida do about the cold? What could your creature eat if there is no sunlight?",
-     "kid": "Draw your creature. Give them one trick for each problem. Label it.",
+     "kid": "Make your creature with one trick for each problem. Draw it, build it from paper or clay, or describe it out loud.",
      "parent": "Good features come from real extremophiles. Salt inside their cells so the salty water does not pull water out. Substances that stop ice crystals growing. Taking energy from chemicals at vents, like deep-sea microbes. Curling up dry and waiting, like a tardigrade. A microbe is just as good an answer as a big creature, and more likely."
     },
     {
@@ -1235,7 +1235,7 @@
      "parent": "It suggests that the first life we find elsewhere will most likely be microbes, as it was on Earth."
     }
    ],
-   "context": "In this activity you design a living thing who could survive on Europa, Mars or Enceladus, using tricks real Earth creatures use.",
+   "context": "In this activity you design a living thing who could survive on Europa, Mars or Enceladus, using tricks real Earth creatures use. You will find out what tricks life would need in a hard place.",
    "setup": [
     {
      "art": "Three cards on a table showing Europa with its cracked ice, red dusty Mars, and Enceladus spraying jets.",
@@ -1270,14 +1270,14 @@
      "what": "Ask five people what an alien would look like. Tally the answers and compare them with what scientists expect."
     }
    ],
-   "record": "Make a tally chart: big creature with a head and eyes, animal-like, plant-like, microbe, other. Then draw a bar chart.",
+   "record": "Make a tally chart: big creature with a head and eyes, animal-like, plant-like, microbe, other. Then show the groups as a bar chart: stack coins or buttons in a row for each group, or draw bars.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
      "do": "Your child asks each person two questions and writes the answers.",
      "say": "Ask each person: if we find life on another world, what will it look like? And how big will it be?",
-     "kid": "Ask five people. What will alien life look like? How big?",
+     "kid": "Ask five people the two questions. Write down each answer.",
      "adult": true,
      "context": "This is a small survey. You find out what people think aliens look like, and compare it with what scientists expect."
     },
@@ -1286,14 +1286,14 @@
      "mins": 5,
      "do": "Make a tally of the answers in groups.",
      "say": "Let's put the answers in groups. How many said a creature with a head and eyes? How many said a microbe?",
-     "kid": "Tally the answers. Head and eyes? Animal? Plant? Microbe?"
+     "kid": "Make one tally mark for each answer, in its group."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Compare the results with what scientists expect.",
      "say": "Most scientists expect the first alien life we find to be microbes. Why do you think so few people said that?",
-     "kid": "Scientists expect microbes first. Why did so few people say that?",
+     "kid": "Compare your tally with what scientists expect.",
      "parent": "Films and cartoons show aliens with heads and eyes. Scientists expect microbes because on Earth, microbes lived alone for about 3 billion years before animals appeared, and microbes still live in far more places than animals do.",
      "check": {
       "t": "mcq",
@@ -1308,7 +1308,7 @@
      }
     }
    ],
-   "context": "In this activity you ask five people what an alien would look like, and compare their answers with what scientists expect.",
+   "context": "In this activity you ask five people what an alien would look like, and compare their answers with what scientists expect. You will find out whether most people picture the same alien that scientists do.",
    "setup": [
     {
      "art": "A girl with a notebook asking an older relative a question on a sofa.",
@@ -1357,7 +1357,7 @@
      "mins": 12,
      "do": "Your child paints the spring: a blue centre, then rings of green, yellow, orange and brown.",
      "say": "The middle is the hottest, about 70 degrees. It is blue because it is clear, deep water. As the water flows out, it cools, and different microbes live in each ring.",
-     "kid": "Paint a blue middle. Then rings of green, yellow, orange, brown.",
+     "kid": "Paint a blue middle, then rings of green, yellow, orange and brown. Or tear coloured paper into rings.",
      "parent": "Each colour ring is a mat of different microbes, each living best at a different temperature. The hottest centre has fewer coloured microbes, so you see the deep blue water."
     },
     {
@@ -1421,14 +1421,14 @@
      "what": "Write the last page: where in the solar system you would look for life, and why. Read the book to someone."
     }
    ],
-   "record": "The finished book. Each page has a drawing, where the creature lives, the problem that place gives them, and how they deal with it.",
+   "record": "The finished book. Each page has a picture (drawn or cut out), where the creature lives, the problem that place gives them, and how they deal with it.",
    "flow": [
     {
      "id": "s1",
      "mins": 20,
      "do": "1. Fold and staple the book. 2. Write the title on the cover. 3. Make the first two pages: Thermus aquaticus and the vent microbes.",
-     "say": "Each page needs four things. A drawing. Where they live. What is hard about that place. And how they deal with it.",
-     "kid": "Make your book. Each page: a drawing, a home, a problem, a trick.",
+     "say": "Each page needs four things. A picture. Where they live. What is hard about that place. And how they deal with it.",
+     "kid": "Make your book. Each page: a picture, a home, a problem, a trick. Draw the picture, or cut one out.",
      "adult": true,
      "context": "This is the first day of a 3-day project. You make a small field guide to living things in the hardest places on Earth."
     },
@@ -1447,7 +1447,7 @@
      "wait": "Day 3",
      "do": "1. Make the last page: Where I would look for life beyond Earth. 2. Read the whole book to a family member.",
      "say": "On the last page, choose Mars, Europa or Enceladus. Which would you send a spacecraft to first? Use what your book shows about where life can live.",
-     "kid": "Last page. Where would you look for life? Why? Then read your book to someone.",
+     "kid": "Finish the last page. Then read your book to someone.",
      "check": {
       "t": "mcq",
       "q": "Every creature in your book has one thing in common. What is it?",
@@ -1487,7 +1487,7 @@
    ],
    "materials": [
     "A4 paper",
-    "pencil, ruler and colours"
+    "pencil, ruler and colours, and a few coins or buttons"
    ],
    "general": [
     "In 1974, scientists sent a radio message from the Arecibo telescope in Puerto Rico. It was a picture made of 1,679 dots, showing numbers, a person and our solar system.",
@@ -1506,7 +1506,7 @@
      "mins": 5,
      "do": "Read the problem together. Talk about why words will not work.",
      "say": "Someone from another world would not know Tamil, Hindi or English. What could we show them that they might understand?",
-     "kid": "Aliens do not know our words. What could you draw instead?",
+     "kid": "Think of ways to show something without any words.",
      "context": "This is a design challenge. You make a message for living beings on another world, without using any words."
     },
     {
@@ -1514,22 +1514,22 @@
      "mins": 5,
      "do": "Read how the Arecibo and Voyager teams solved it.",
      "say": "Real scientists have done this twice. They used counting, pictures, and a map of the planets. Why do you think counting was a good start?",
-     "kid": "Scientists used counting and pictures. Why would counting work?",
+     "kid": "Listen to how the scientists did it.",
      "parent": "Counting is the same everywhere. Two dots mean two to anyone, in any language, so a message that starts with counting can be understood."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "Your child designs and draws the message.",
+     "do": "Your child designs the message: drawn, or laid out with coins, buttons or dots.",
      "say": "Now make yours. It must show where we are, what we look like, and one thing we know.",
-     "kid": "Draw your message. Where we are. What we look like. One thing we know."
+     "kid": "Make your message. Show where we are, what we look like, and one thing we know. Draw it, or lay it out with buttons."
     },
     {
      "id": "s4",
      "mins": 5,
      "do": "Show the message to another person at home or a neighbour, without explaining. See what they understand.",
      "say": "Let's test it. Show it to someone who has not seen it, without saying anything. What do they think it says?",
-     "kid": "Show it to someone. Don't explain. What do they think it says?",
+     "kid": "Show it to someone, and do not explain it.",
      "think": "Would a being with no eyes understand a picture? What else could you send?",
      "parent": "Probably not. A being with no eyes could not see a drawing. You could send sounds, as the Voyager record does, or a pattern of radio pulses, as the Arecibo message did."
     }
@@ -1578,7 +1578,7 @@
      "mins": 5,
      "do": "1. Rub a pinch of turmeric onto your child's hands. 2. Explain that the turmeric stands for microbes.",
      "say": "Pretend this turmeric is Earth microbes. Real microbes are too small to see, so we use turmeric to see where they go.",
-     "kid": "The turmeric is pretend microbes. Don't let it touch the lander!",
+     "kid": "The yellow turmeric on your hands is pretend microbes.",
      "context": "This is an engineering challenge. You find a way to move a lander into a box without leaving pretend microbes on it, the way spacecraft are kept clean."
     },
     {
@@ -1593,7 +1593,7 @@
      "id": "s3",
      "mins": 15,
      "do": "Your child plans and tries a clean way, checking after each try.",
-     "say": "Now plan a clean way. You can use gloves, tongs or washing. Try it, then check for yellow.",
+     "say": "Now plan a clean way. You can use a plastic bag over your hand, a cloth, tongs or washing. Try it, then check for yellow.",
      "kid": "Plan a clean way. Try it. Check for yellow. Try again.",
      "adult": true
     },
@@ -1602,7 +1602,7 @@
      "mins": 5,
      "do": "Talk about why this matters.",
      "say": "Why do space scientists care so much about keeping spacecraft clean?",
-     "kid": "Why must spacecraft be so clean?",
+     "kid": "Think about what a rover might find on Mars.",
      "check": {
       "t": "mcq",
       "q": "Why are spacecraft to Mars cleaned so carefully?",

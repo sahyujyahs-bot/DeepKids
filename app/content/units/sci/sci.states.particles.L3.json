@@ -436,7 +436,7 @@
      "mins": 3,
      "do": "Play the camphor card together as a practice round. Nobody keeps it.",
      "say": "Practice card. A camphor tablet left on a plate gets smaller every day. Where did the camphor go?",
-     "kid": "Practice card. A camphor tablet gets smaller every day. Where did it go?",
+     "kid": "Practice card. Read it together, then choose your answer below. Nobody keeps this card.",
      "check": {
       "t": "mcq",
       "q": "A camphor tablet left on a plate gets smaller every day. Where did the camphor go?",
@@ -453,7 +453,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Take turns. 2. Read a card, place it, and give a reason. 3. Turn the card over to check.",
-     "say": "Read your card. Where did it go? Tell us what it broke into.",
+     "say": "Read your card. Where did it go?",
      "kid": "Read your card. Put it where it went. Say why. Turn the card over to check.",
      "parent": "Help your child use the word 'particles' in their reasons, for example 'the sugar broke into particles that spread through the tea'. The chappal and eraser cards are about tiny crumbs, not single particles. That is fine. Crumbs are made of particles too."
     },
@@ -559,7 +559,7 @@
      "mins": 2,
      "do": "Ask how many beans touch the water now.",
      "say": "How many beans are on the outside, touching the water? Count them.",
-     "kid": "Count the beans on the outside. How many touch the water?",
+     "kid": "Count the beans on the outside edge. Touch each one as you count.",
      "check": {
       "t": "mcq",
       "q": "A 5 by 5 square has 25 beans. How many touch the water at the start?",
@@ -575,9 +575,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Take turns counting, rolling and taking beans. 2. On a 6, pull the grain apart into pieces.",
+     "do": "1. Take turns. 2. Count the beans that touch the water. 3. Roll the dice, read the dice key card, and take that many beans from the outside. 4. On a 6, pull the grain apart into pieces.",
      "say": "Count the beans that touch the water. Roll the dice. Take only beans that touch the water.",
-     "kid": "Count the beans touching the water. Roll the dice. Take beans from the outside only. On a 6, pull your grain apart!",
+     "kid": "Count the beans touching the water. Roll the dice. Read the key card and take beans from the outside only. On a 6, pull your grain apart!",
      "parent": "Watch for the first 6. After the grain is pulled apart, every bean touches the water, so the next rolls take many more beans. That is what crushing does to real sugar."
     },
     {
@@ -669,7 +669,7 @@
      "what": "Make a hanger balance. Balance a bottle of water and a packet of sugar against another bottle. Dissolve the sugar in the closed bottle and weigh again. Taste it."
     }
    ],
-   "record": "Fill in the table. Draw the hanger before and after the sugar dissolved, with the pointer.",
+   "record": "Fill in the table. Show the hanger before and after the sugar dissolved, with the pointer. Draw it, or take a photo each time.",
    "flow": [
     {
      "id": "s1",
@@ -702,7 +702,7 @@
      "mins": 3,
      "do": "Ask your child to predict before anything changes.",
      "say": "Now we will pour the sugar into bottle A and shake it until it disappears. Then everything goes back in bag A. Will side A go up, stay level, or go down? Why do you think so?",
-     "kid": "We will dissolve the sugar in bottle A. Then it goes back in the bag. Will side A go up, stay level or go down? Why?",
+     "kid": "Get ready to dissolve the sugar in bottle A. First, say your guess and why you think so.",
      "ask": [
       {
        "q": "What do you think will happen, and why?",
@@ -864,14 +864,14 @@
      "what": "Dissolve a lump of kalkandu, sugar grains and powdered sugar, one at a time, and time each one."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each kind of sugar, as tall as the number of minutes it took.",
+   "record": "Fill in the table. Then show the times as bars, one for each kind of sugar, as tall as the minutes it took. Draw them, or cut a paper strip for each.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Make powdered sugar: fold 2 teaspoons of sugar inside a sheet of paper and press hard with a rolling pin. 2. Look at the three kinds of sugar side by side. 3. Ask for a guess and a reason.",
      "say": "These are all sugar, in different sizes. Which one will dissolve first? Which last? Why do you think so?",
-     "kid": "Crush some sugar with a rolling pin. Look at the lump, the grains and the powder. Which will dissolve first? Why?",
+     "kid": "Crush some sugar with a rolling pin. Look at the lump, the grains and the powder. Think about which will vanish first.",
      "ask": [
       {
        "q": "Which will dissolve first, and why?",
@@ -896,7 +896,7 @@
      "mins": 4,
      "do": "1. Tip the powdered sugar into glass 1 and start the timer. 2. Stir 5 times slowly every 30 seconds. 3. Stop the timer when no powder is left at the bottom. 4. Write the time.",
      "say": "Go! Stir slowly five times every 30 seconds. Shout stop when you can't see any powder.",
-     "kid": "Tip in the powder. Start the timer. Stir 5 times every 30 seconds. Shout stop when it is gone!",
+     "kid": "Tip in the powder. Start the timer. Stir 5 times every 30 seconds. Shout stop when it is gone, then write the time.",
      "parent": "Powdered sugar usually goes in well under a minute."
     },
     {
@@ -912,7 +912,7 @@
      "mins": 15,
      "do": "1. Do the same with the kalkandu in glass 3. 2. If pieces are still there after 15 minutes, stop and write 'more than 15 minutes'.",
      "say": "Now the lump. This one may take a while. While we wait, watch the lump closely. Is it getting smaller from the outside, or from the middle?",
-     "kid": "Now do the kalkandu. Stir the same way. Watch the lump. Does it shrink from the outside or the middle?",
+     "kid": "Now do the kalkandu. Stir the same way. Watch the lump closely while you wait.",
      "ask": [
       {
        "q": "Is the lump shrinking from the outside or from the middle?",
@@ -929,7 +929,7 @@
      "mins": 4,
      "do": "Look at the times together.",
      "say": "Which was fastest? The same amount of sugar went in each glass. So why did the powder win?",
-     "kid": "Which was fastest? All three had the same sugar. Why did the powder win?",
+     "kid": "Look at your three times. Put the glasses in a row, fastest on the left, slowest on the right.",
      "check": {
       "t": "mcq",
       "q": "Why did the powdered sugar dissolve first?",
@@ -1018,14 +1018,14 @@
      "what": "Watch sugar disappear in water. Guess where it went, and draw what might be in the water."
     }
    ],
-   "record": "Draw what you think the sugar water would look like if you could zoom in very, very close.",
+   "record": "Show what you think the sugar water would look like if you could zoom in very, very close. Draw it, or tell your grown-up.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Put the glass on the table. 2. Let your child drop in the teaspoon of sugar and stir slowly. 3. Both of you watch until the grains are gone.",
-     "say": "Drop the sugar in and stir slowly. Watch it closely. Tell me what you notice about the sugar as it disappears.",
-     "kid": "Drop the sugar into the water. Stir slowly. Watch closely. What do you notice?",
+     "say": "Drop the sugar in and stir slowly. Watch it closely.",
+     "kid": "Drop the sugar into the water. Stir slowly. Watch closely until the grains are gone.",
      "ask": [
       {
        "q": "What do you notice about the sugar as it disappears?",
@@ -1050,13 +1050,13 @@
      "id": "s3",
      "mins": 4,
      "do": "Ask your child to draw what is in the water, as if they could zoom in very, very close.",
-     "say": "If you could shrink and swim in this water, what would you see? Draw it.",
-     "kid": "If you were tiny and swimming in this glass, what would you see? Draw it.",
+     "say": "If you could shrink and swim in this water, what would you see?",
+     "kid": "Imagine you are tiny and swimming in this glass. Draw what you see, or tell your grown-up.",
      "think": "If you can't see the sugar, how could you find out if it is still there?",
      "parent": "Keep this drawing. At the end of the unit, your child can draw it again and compare."
     }
    ],
-   "context": "This is a quick look-and-wonder activity to start the unit. You watch sugar disappear and draw where you think it went.",
+   "context": "This is a quick look-and-wonder activity to start the unit. You will watch sugar disappear and think about where it went.",
    "setup": [
     {
      "art": "A child dropping a teaspoon of sugar into a clear glass of water on a table.",
@@ -1100,7 +1100,7 @@
      "what": "Look at sugar, salt and kalkandu up close. Crush some sugar and taste a pinch of the powder."
     }
    ],
-   "record": "Draw one sugar grain, one salt grain and the kalkandu, as big as you can, with their flat sides and corners.",
+   "record": "Show one sugar grain, one salt grain and the kalkandu, with their flat sides and corners. Draw each one as big as you can, or take a close-up photo.",
    "flow": [
     {
      "id": "s1",
@@ -1133,7 +1133,7 @@
      "mins": 6,
      "do": "1. Fold a teaspoon of sugar inside paper. 2. Press and roll hard with the rolling pin. 3. Open it and look at the powder through the magnifying glass. 4. Taste a pinch.",
      "say": "Now we crush it. Is the powder still sugar? How can we tell?",
-     "kid": "Crush sugar inside the paper with the rolling pin. Look at the powder. Taste a pinch. Is it still sugar?",
+     "kid": "Crush sugar inside the paper with the rolling pin. Look at the powder. Taste a pinch.",
      "check": {
       "t": "mcq",
       "q": "You crushed sugar into powder so fine that the grains are hard to see. Is it still sugar?",
@@ -1189,14 +1189,14 @@
      "what": "Put sugar at the bottom of a tall glass without stirring. Wait 30 minutes. Taste the top and the bottom. Then stir and taste again."
     }
    ],
-   "record": "Draw the glass. Write 'sweet' or 'plain' next to the top and the bottom, before and after stirring.",
+   "record": "Write 'sweet' or 'plain' for the top and the bottom of the glass, before and after stirring. You can draw the glass too.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Fill the tall glass with water and let it stand still for a minute. 2. Gently tip 3 teaspoons of sugar into the water so it sinks to the bottom. 3. Do not stir. Put the glass where nobody will bump it. 4. Wait 30 minutes.",
      "say": "We will leave the sugar at the bottom with no stirring. Will the top of the water get sweet by itself? Why do you think so?",
-     "kid": "Tip the sugar in gently. Don't stir! Will the top get sweet by itself? Why?",
+     "kid": "Tip the sugar in gently. Don't stir! Then wait 30 minutes.",
      "wait": "Leave it for 30 minutes",
      "context": "This is the first step of Sweet at the Bottom. You leave sugar at the bottom of a tall glass to see if it spreads by itself."
     },
@@ -1286,14 +1286,14 @@
      "what": "Put a drop of sugar water and a drop of plain water near an ant trail. Check after 15 minutes and after 30 minutes."
     }
    ],
-   "record": "Draw the card with its two drops, and the ants you see at each one after 15 minutes and 30 minutes.",
+   "record": "Write down how many ants were at each drop after 15 minutes and after 30 minutes. You can draw the card and the ants too, or take a photo.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Find a place where ants walk, such as a window sill, the kitchen platform edge or the balcony. 2. Put a drop of sugar water at one end of the card and a drop of plain water at the other. 3. Mark which is which with a pencil. 4. Lay the card near the ants' path.",
      "say": "Both drops look the same. Will the ants be able to tell them apart? Why do you think so?",
-     "kid": "Put a drop of sugar water at one end of the card and a drop of plain water at the other. They look the same. Can the ants tell them apart?",
+     "kid": "Put sugar water at one end of the card and plain water at the other. Mark which is which. Lay the card near the ants' path.",
      "wait": "Check after 15 minutes, and again after 30 minutes",
      "parent": "Ants need sugar for energy. A colony has many mouths to feed, so ants search all the time and lead each other to good food. If no ants come in 30 minutes, that is not a result: try near the bottom of a balcony wall or a potted plant, or try again another day.",
      "context": "This is the first step of Ask the Ants. You give ants a drop of sugar water and a drop of plain water that look the same."
@@ -1303,7 +1303,7 @@
      "mins": 4,
      "do": "Check the card after 15 minutes, and again after 30 minutes. Count the ants at each drop. If no ants have come, move to another spot and wait again.",
      "say": "Which drop did the ants go to? How did they know, when we can't see the sugar?",
-     "kid": "Count the ants at each drop. Which one did they choose?",
+     "kid": "Count the ants at each drop, after 15 minutes and again after 30 minutes.",
      "check": {
       "t": "mcq",
       "q": "Suppose the ants gather at the sugar water drop and leave the plain water alone. How did they find it?",
@@ -1382,7 +1382,7 @@
      "what": "Trace both tablets. Open the jar and sniff. Compare the two, and explain what happened."
     }
    ],
-   "record": "One sheet with the outlines of the open tablet on days 1, 3, 5 and 7, one inside the other, and the jar tablet on days 1 and 7.",
+   "record": "One sheet with the outlines of both tablets on day 1 and day 7, and your photos of the open tablet from days 3 and 5.",
    "flow": [
     {
      "id": "s1",
@@ -1396,9 +1396,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "On day 3 and day 5, trace the open tablet on the same paper, inside the first outline. On day 5, also look at the jar tablet without opening the jar.",
+     "do": "On day 3 and day 5, put the open tablet on its day 1 outline and take a photo. Is it smaller? On day 5, also look at the jar tablet without opening the jar.",
      "say": "Has the open tablet changed? Can you smell camphor near it?",
-     "kid": "Trace the open tablet again. Is it smaller? Can you smell it?",
+     "kid": "Put the open tablet on its first outline. Is it smaller? Can you smell it?",
      "adult": true,
      "wait": "Do this on day 3 and day 5, about 5 minutes each time",
      "parent": "In a warm, airy room the open tablet gets noticeably smaller within a few days, and its edges go soft and round. If it is changing slowly, keep going for a few more days."
@@ -1408,7 +1408,7 @@
      "mins": 10,
      "do": "On day 7, trace both tablets. Then open the jar and sniff, holding it a little away from your nose.",
      "say": "Compare the two tablets. Then smell inside the jar. Where did the missing camphor from the open tablet go? How do you know?",
-     "kid": "Trace both tablets. Open the jar and sniff, not too close. Where did the open tablet's camphor go?",
+     "kid": "Trace both tablets. Open the jar and sniff, not too close. Then compare the two tablets.",
      "adult": true,
      "ask": [
       {
@@ -1425,7 +1425,7 @@
      "mins": 10,
      "do": "Talk about why the jar tablet hardly changed.",
      "say": "The jar tablet hardly shrank, but the jar smelled strongly. Why do you think that is?",
-     "kid": "Why did the jar tablet stay big? Why did the jar smell so strong?",
+     "kid": "Look at the jar tablet next to the open one. Think about why the jar smells so strong.",
      "ask": [
       {
        "q": "Why did the tablet in the jar hardly shrink?",
@@ -1450,7 +1450,7 @@
     },
     {
      "art": "A sheet of paper with four outlines of the open tablet, each smaller than the last, labelled days 1, 3, 5 and 7.",
-     "caption": "3. Trace the open one on days 3, 5 and 7. Compare."
+     "caption": "3. Check the open one on days 3 and 5. Trace it on day 7. Compare."
     }
    ]
   }
@@ -1482,7 +1482,7 @@
     "Dip a strip of kitchen paper in each water and let both dry. The sugar strip feels stiffer.",
     "Ask a grown-up to boil a few spoons of each in a small pan until almost dry. The sugar water leaves a sticky, brownish syrup at the bottom."
    ],
-   "your_turn": "Now invent your own test. Draw it, try it, and show your friend the result.",
+   "your_turn": "Now invent your own test. Say your plan, try it, and show your friend the result.",
    "flow": [
     {
      "id": "s1",
@@ -1495,9 +1495,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Try two of the usual ideas. 2. Then try one of the creative ideas, or your own.",
+     "do": "1. Try two of the usual ideas: weigh it, let it dry, or sticky fingers. 2. Then try one of the creative ideas, or your own.",
      "say": "Pick two ways to try. Which shows the sugar most clearly?",
-     "kid": "Pick two tests and try them. Which one shows the sugar best?",
+     "kid": "Pick two tests: weigh the glasses, dry some drops, or feel a sticky drop. Try them.",
      "adult": true,
      "parent": "The boiling test needs a grown-up at the stove. Start the drying test first, on a steel plate in a sunny window. It may take an hour or more, so look at it again at the end, or later in the day."
     },
@@ -1556,7 +1556,7 @@
      "mins": 5,
      "do": "1. Show your child the jaggery block. 2. Read the problem aloud. 3. Ask them to plan before touching anything.",
      "say": "Think about the Lump, Grains or Powder race, where you timed three kinds of sugar. What made the sugar dissolve fastest? How can we use that for the jaggery?",
-     "kid": "Look at the jaggery block. Remember the Lump, Grains or Powder race. What made the sugar dissolve fastest? Make a plan.",
+     "kid": "Look at the jaggery block. Remember the Lump, Grains or Powder race. What made the sugar dissolve fastest? Tell your grown-up your plan.",
      "context": "This is the first step of the Quick Panakam challenge. You plan the fastest way to dissolve jaggery for a drink."
     },
     {
@@ -1573,7 +1573,7 @@
      "mins": 10,
      "do": "1. Strain the drink. 2. Add a pinch of dry ginger and cardamom. 3. Taste and talk about what worked.",
      "say": "Which part of your plan helped most? Why?",
-     "kid": "Strain it. Add the spices. Taste! Which part of your plan helped most?",
+     "kid": "Strain it. Add the spices. Taste!",
      "ask": [
       {
        "q": "Why did crushing the jaggery help so much?",

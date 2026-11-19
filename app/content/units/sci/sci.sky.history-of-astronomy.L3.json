@@ -660,15 +660,15 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Cut out the cards. The name is on the front and the time on the back. Read each card's name before turning it over.",
+     "do": "Cut out the cards. The name is on the front and the time on the back. Read each card's name before turning it over. Do not look at the times yet.",
      "say": "Each card is something that comes back again and again. We put them in order, quickest first.",
-     "kid": "Each card is something that comes back. Put them in order. Quickest first.",
+     "kid": "Look at the names on the cards. Which one do you think comes back soonest?",
      "context": "This is the first step of How Long Till It Comes Back?, a card game about the sky's repeats."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Play the game, taking turns.",
+     "do": "Take turns. The player takes the top card, says where it goes in the line, then turns it over to check the time.",
      "say": "Your card is Venus. Does it come back faster or slower than the Moon's month? Faster or slower than a year?",
      "kid": "Say where your card goes in the line. Then turn it over and check the time.",
      "check": {
@@ -780,7 +780,7 @@
      "mins": 2,
      "do": "Ask for a prediction and a reason, and write both down before the timed rounds.",
      "say": "Now we will float it three times in exactly the same way. Will it take exactly the same time each round? Nearly the same? Or very different? Why do you think so?",
-     "kid": "Guess: will the cup sink in the same time every round, nearly the same time, or very different times? Say why.",
+     "kid": "Guess: same time every round, nearly the same, or very different?",
      "ask": [
       {
        "q": "Why do you think the times will be the same, or different?",
@@ -825,7 +825,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three things: what they think, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think about our cup clock now? What did you see that shows it? And why do you think the times were not all exactly the same?",
-     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
+     "kid": "Tell your grown-up what you think, what you saw, and why.",
      "parent": "This is called claim, evidence and reasoning. A good answer has three parts. What I think: the cup clock is nearly steady but not perfect. What I saw: rounds 1 to 3 took 3 minutes 10 seconds, 3 minutes 22 seconds and 3 minutes 5 seconds, so the shortest and longest were 17 seconds apart. Why: small changes in how I put the cup down, and water left in the cup, changed the time a little. That is why astronomers checked their water clocks against the Sun and stars.",
      "check": {
       "t": "mcq",
@@ -840,7 +840,7 @@
      }
     }
    ],
-   "context": "In this experiment you build a sinking cup water clock like the Indian ghati, and test whether it sinks in exactly the same time every round.",
+   "context": "In this experiment you build a sinking cup water clock like the Indian ghati. You will find out whether a clock made of water counts the same time every round.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -935,7 +935,7 @@
      "mins": 5,
      "do": "1. Stand about 2 metres from the wall, facing the two marks. 2. Show how to hold a fist at the end of a straight arm, with one eye closed. 3. Ask for a guess and a reason.",
      "say": "Sky-watchers used their fists as a ruler for the sky. Hold your fist out like this, with one eye closed. My fist is bigger than yours. Who do you think will count more fists between the two marks? Why?",
-     "kid": "Hold your fist out on a straight arm. Close one eye. Who will count more fists between the two marks? Why?",
+     "kid": "Hold your fist out on a straight arm. Close one eye. Guess who will count more fists between the two marks.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -983,7 +983,7 @@
      "parent": "A good answer: I thought I would count more fists. We counted 5 and 4 and a half. My arm is shorter, so my small fist is closer and covers more of the view."
     }
    ],
-   "context": "In this experiment you test the sky-watchers' fist ruler, and find out if a child's fist and a grown-up's fist measure the same.",
+   "context": "In this experiment you test the sky-watchers' fist ruler. You will find out if a child's fist and a grown-up's fist measure the same piece of the view.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1066,7 +1066,7 @@
      "what": "Make a hole near the bottom of a bottle. Mark the water level every 30 seconds as it empties. Measure the gaps."
     }
    ],
-   "record": "Write the gaps between marks in the table. Draw the bottle with its marks.",
+   "record": "Write the gaps between marks in the table. Then say which gap was the biggest and which was the smallest. You can also take a photo of the bottle with its marks.",
    "flow": [
     {
      "id": "s1",
@@ -1088,8 +1088,8 @@
      "id": "s3",
      "mins": 12,
      "do": "1. Hold a finger over the hole and fill the bottle to the top. 2. Stand it in the sink, or beside the bucket, with the hole facing the sink or the bucket. 3. Take your finger away and start the stopwatch. 4. Every 30 seconds, mark the water level on the tape. Stop after 10 marks, or when the bottle is empty.",
-     "say": "Ready? Finger off. Start the timer. Every time I say 'mark', draw a line where the water is.",
-     "kid": "Take your finger off. Every 30 seconds, draw a line at the water.",
+     "say": "Ready? Finger off. Start the timer. Every time I say 'mark', make a line on the tape where the water is.",
+     "kid": "Take your finger off. Every 30 seconds, mark a line at the water level.",
      "parent": "Watch the jet. At first it shoots far. As the water gets lower, it shoots less far, and the level drops more slowly. So the marks get closer together near the bottom. If the hole clogs, poke it again with the pin.",
      "think": "Why does the jet shoot less far when the bottle is nearly empty?"
     },
@@ -1098,7 +1098,7 @@
      "mins": 6,
      "do": "Measure the gaps between the marks with a ruler. Ask your child what they think, what they saw and why.",
      "say": "Let's measure the gaps. What do you notice? Why do you think the water slowed down?",
-     "kid": "Measure each gap. Do they get bigger or smaller? Why?",
+     "kid": "Measure each gap with the ruler. Say the numbers out loud while your grown-up writes them.",
      "check": {
       "t": "mcq",
       "q": "The marks got closer together near the bottom. Why?",
@@ -1113,7 +1113,7 @@
      "parent": "A good answer has three parts. What I think: water runs out more slowly as the bottle empties. What I saw: the first gap was 3 cm and the last was 1 cm. Why: less water is pushing down on the hole."
     }
    ],
-   "context": "In this experiment you make a dripping bottle clock and test whether the water drops by the same amount every 30 seconds.",
+   "context": "In this experiment you make a dripping bottle clock. You will find out whether the water drops by the same amount every 30 seconds, or slows down as the bottle empties.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1213,7 +1213,7 @@
      "mins": 3,
      "do": "Talk about the results.",
      "say": "Were your guesses the same each time? If nobody had a clock, how could people agree on what a minute is, or when to meet?",
-     "kid": "Were your times the same? How could people agree on time with no clocks?",
+     "kid": "Look at your three times. Are they the same?",
      "check": {
       "t": "mcq",
       "q": "Your three guesses of a minute were all different. What does that show?",
@@ -1227,7 +1227,7 @@
      }
     }
    ],
-   "context": "This short activity opens the unit. You find out how steady your own sense of time is.",
+   "context": "This short activity opens the unit. You will find out whether you can feel a minute passing, and why people needed something steadier than that.",
    "setup": [
     {
      "art": "A child sitting with eyes closed on a sofa, a mother beside her holding a phone with a stopwatch running.",
@@ -1266,7 +1266,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw round the plate. 2. Mark the top 'sunrise, 6 o'clock'. 3. Mark the bottom 'sunset, 6 o'clock'. 4. Mark noon on the right and midnight on the left.",
+     "do": "1. Draw round the plate. 2. Mark the top 'sunrise, 6 in the morning'. 3. Mark the bottom 'sunset, 6 in the evening'. 4. Mark noon on the right and midnight on the left.",
      "say": "Old Indian astronomers counted the day from sunrise. They split the whole day and night into 60 parts, called ghatika in Sanskrit and nazhigai in Tamil. Let's draw it.",
      "kid": "Draw a big circle. Sunrise at the top. Sunset at the bottom.",
      "context": "This activity shows the old Indian way of splitting a day into 60 nazhigai of 24 minutes each."
@@ -1283,8 +1283,8 @@
      "id": "s3",
      "mins": 7,
      "do": "1. Work out together: how many nazhigai from sunrise to noon? 2. Colour your sleeping time. 3. Count how many nazhigai you sleep.",
-     "say": "One nazhigai is 24 minutes. Sunrise to noon is 6 hours. How many nazhigai is that? If you sleep from 9 at night to 6 in the morning, how many nazhigai do you sleep?",
-     "kid": "Count the parts from sunrise to noon. Colour your sleep. How many nazhigai do you sleep?",
+     "say": "One nazhigai is 24 minutes. Sunrise to noon is 6 hours. Now think about your sleep. If you sleep from 9 at night to 6 in the morning, how many nazhigai is that?",
+     "kid": "Find noon on your wheel. Show your sleep with colour or tape. Count its parts.",
      "check": {
       "t": "mcq",
       "q": "From sunrise at 6 to noon at 12 is 6 hours. How many nazhigai is that?",
@@ -1299,7 +1299,7 @@
      "parent": "9 at night to 6 in the morning is 9 hours, which is 22 and a half nazhigai."
     }
    ],
-   "context": "In this activity you draw a day as a wheel of 60 nazhigai, the old Indian unit of 24 minutes.",
+   "context": "In this activity you draw a day as a wheel of 60 nazhigai, the old Indian unit of 24 minutes. You will find out how many nazhigai you sleep.",
    "setup": [
     {
      "art": "A child drawing round a steel plate on paper, with 'sunrise' written at the top of the circle.",
@@ -1329,7 +1329,7 @@
      "what": "Touch your thumb to the finger sections of one hand to count to 12. Use the other hand to count lots of 12, up to 60."
     }
    ],
-   "record": "Draw your hand and number its 12 finger sections.",
+   "record": "Write the sum that got you to 60, for example 12 + 12 + 12 + 12 + 12. You can also take a photo of your hands with five fingers up.",
    "flow": [
     {
      "id": "s1",
@@ -1362,11 +1362,11 @@
      "mins": 2,
      "do": "Talk about where we still count in sixties.",
      "say": "The Babylonians counted in sixties. Where do we still count in sixties today?",
-     "kid": "Where do we still count in sixties?",
+     "kid": "Think of one place where we still count in sixties.",
      "parent": "60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a circle. Historians are not sure why the Babylonians chose 60, so this is only one idea."
     }
    ],
-   "context": "This short activity tries one possible way the Babylonians counted to 60 on their hands.",
+   "context": "This short activity tries one possible way the Babylonians counted to 60 on their hands. You will see how two hands can count all the way to 60.",
    "setup": [
     {
      "art": "A child's right hand with the thumb touching the top section of the little finger, small numbers 1 to 12 on the finger sections.",
@@ -1430,7 +1430,7 @@
      "mins": 5,
      "do": "Talk about why the two shadows are different lengths.",
      "say": "It is the same Sun, at the same moment. Why do you think the shadows are different lengths?",
-     "kid": "It is the same Sun at the same time. Why are the shadows different lengths?",
+     "kid": "Think about why the two shadows are different lengths.",
      "check": {
       "t": "mcq",
       "q": "Two cities, one far north of the other, have noon shadows of different lengths at the same moment. What did Eratosthenes say this shows?",
@@ -1444,7 +1444,7 @@
      }
     }
    ],
-   "context": "In this activity, you and someone in another city measure noon shadows at the same time, as Eratosthenes did. It works if your balcony gets sun around midday.",
+   "context": "In this activity, you and someone in another city measure noon shadows at the same time, as Eratosthenes did. You will find out whether the same Sun makes the same shadow in both places. It works if your balcony gets sun around midday.",
    "setup": [
     {
      "art": "A 30 cm stick upright in a lump of dough on a sunny balcony floor, its shadow falling beside a ruler.",
@@ -1499,7 +1499,7 @@
      "parent": "The Babylonian writing is called cuneiform, which means wedge-shaped. Thousands of their sky tablets survive because baked or dried clay lasts a very long time."
     }
    ],
-   "context": "This activity turns tonight's sky into a record, like a Babylonian clay tablet.",
+   "context": "This activity turns tonight's sky into a record, like a Babylonian clay tablet. You will make a note of the sky that someone could read years from now.",
    "setup": [
     {
      "art": "A child at a balcony railing looking up at a half Moon and one bright star over city buildings.",
@@ -1560,7 +1560,7 @@
      "what": "Mark it once more. Measure how far the marks have moved. Talk about how builders long ago used the moving sunset point as a calendar."
     }
    ],
-   "record": "A row of tape marks on the window with dates, and a drawing of the skyline with the marks on it.",
+   "record": "A row of tape marks on the window with dates, and a photo of the window (or a drawing of the skyline) with the marks on it.",
    "flow": [
     {
      "id": "s1",
@@ -1585,8 +1585,8 @@
      "id": "s3",
      "mins": 15,
      "do": "After four weeks, look at the row of marks. Measure the distance between the first and last. Talk about it.",
-     "say": "The marks show the Sun's journey through the year. People long ago used walls, stones and temple doors to mark this, so they knew when the seasons would come. If you kept going for a whole year, what would happen?",
-     "kid": "Look at your marks. The Sun is moving along the skyline. What will it do in a year?",
+     "say": "The marks show the Sun's journey through the year. People long ago used walls, stones and temple doors to mark this, so they knew when the seasons would come.",
+     "kid": "Look at your row of marks. Point to the first and the last. Which way did the Sun's sunset point move?",
      "check": {
       "t": "mcq",
       "q": "Your sunset marks move along the skyline over four weeks. What would happen if you kept marking for a whole year?",
@@ -1642,21 +1642,21 @@
     "Use a smaller cup, which fills sooner.",
     "Mark a line inside the cup and time how long the water takes to reach it, instead of waiting for the cup to sink."
    ],
-   "your_turn": "Design your own clock that measures exactly 1 minute, using only things from the kitchen. Draw it, build it and test it three times.",
+   "your_turn": "Design your own clock that measures exactly 1 minute, using only things from the kitchen. Tell your grown-up your plan, build it and test it three times.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Read the challenge. Ask your child to plan their first try before touching anything.",
      "say": "We need a cup that sinks in 3 minutes, three times in a row. What will you change if it is too slow? What if it is too fast?",
-     "kid": "Make a cup that sinks in 3 minutes. What will you change if it is too slow? What if it is too fast?",
+     "kid": "Make a cup that sinks in 3 minutes. Plan your first try before you start.",
      "context": "This is the start of the 3-Minute Water Clock challenge. You tune a cup clock to sink in exactly 3 minutes."
     },
     {
      "id": "s2",
      "mins": 20,
      "do": "Let your child test and adjust. A grown-up makes or widens the hole each time.",
-     "say": "That took 4 minutes 20 seconds. Too slow or too fast? What will you change?",
+     "say": "Read out your time. Is it too slow or too fast? What will you change?",
      "kid": "Test it. Write the time. Change one thing. Test again.",
      "adult": true,
      "parent": "Changing more than one thing at once makes it hard to know what helped. Encourage one change at a time."
@@ -1702,7 +1702,7 @@
     "You must be able to explain it to a friend in one minute."
    ],
    "materials": [
-    "paper, pencil and crayons"
+    "paper cut into strips, pencil and crayons"
    ],
    "general": [
     "Count how many moon months fit in one year: 7 months is 70 days, which leaves 3 days over.",
@@ -1729,7 +1729,7 @@
      "mins": 15,
      "do": "Let your child design their calendar on paper.",
      "say": "What will you do with the 3 extra days? What happens after 10 years if you just ignore them?",
-     "kid": "What will you do with the extra 3 days? Draw your calendar.",
+     "kid": "Lay out 7 paper strips, one for each month. Decide where the extra 3 days go. You can draw your calendar too.",
      "parent": "If they ignore the 3 days, festivals slip 3 days each year. That is 30 days in 10 years, a whole month. This is the real problem every Moon calendar on Earth has."
     },
     {
@@ -1737,7 +1737,7 @@
      "mins": 5,
      "do": "Your child explains their calendar to you in one minute.",
      "say": "Explain your calendar to me in one minute. Will a festival in the first month stay in the same season?",
-     "kid": "Explain your calendar in one minute.",
+     "kid": "Tell your grown-up how your calendar works.",
      "check": {
       "t": "mcq",
       "q": "On Kuyil, 7 moon months are 70 days, and the year is 73 days. What happens if nobody adds the 3 extra days?",

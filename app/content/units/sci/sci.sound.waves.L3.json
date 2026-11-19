@@ -549,14 +549,14 @@
      "mins": 2,
      "do": "Cut out the cards and put them in a pile with the questions facing up.",
      "say": "In this game, the question is always the same. Does the material itself travel, or only the energy?",
-     "kid": "For each card, ask: does the material travel, or only the energy?"
+     "kid": "Sort each card: wave or not a wave."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Find the river Kaveri card and play it together as a practice.",
      "say": "The river Kaveri flowing to the sea. Is that a wave? What travels, and what stays?",
-     "kid": "A river flowing. Does the water travel? Is it a wave?",
+     "kid": "Think about what travels in a flowing river.",
      "check": {
       "t": "mcq",
       "q": "The river Kaveri flows to the sea. Is the flowing a wave?",
@@ -581,7 +581,7 @@
      "mins": 2,
      "do": "Talk about the two 'You decide' cards.",
      "say": "Is a rumour a wave? What travels, and what stays? Does it matter that the rumour can change as it goes?",
-     "kid": "Is a rumour a wave? What travels? What stays?"
+     "kid": "Think about a rumour passing from person to person."
     }
    ],
    "setup": [
@@ -648,7 +648,7 @@
      "mins": 2,
      "do": "Ask about the game.",
      "say": "Did anybody move along the line? What moved along the line?",
-     "kid": "Did you leave your place? What moved along the line?",
+     "kid": "Think about where you stood, and what moved.",
      "check": {
       "t": "mcq",
       "q": "In the game, what decided whether the wave was fast or slow?",
@@ -744,7 +744,7 @@
      "mins": 3,
      "do": "1. Hold the dosa turner upright in the water at one short end. 2. Push it forward about 2 cm, once, quickly. 3. Ask for a guess and a reason before timing anything.",
      "say": "Watch the bump of water run to the far end and come back. Next we will make the water deeper. Do you think the wave will go faster, slower, or the same? Why?",
-     "kid": "Push once. Watch the bump go and come back. Will deeper water be faster or slower? Why?",
+     "kid": "Push once. Watch the bump go and come back.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -891,7 +891,7 @@
      "what": "Float puffed rice, make waves by tapping, and watch where the grains go. Then blow across the water and compare."
     }
    ],
-   "record": "Draw the bucket from above. Mark where the grains started and where they were after one minute of tapping, and after blowing.",
+   "record": "Take a photo of the grains at the start, after tapping and after blowing. Or draw the bucket from above and mark where the grains were each time.",
    "flow": [
     {
      "id": "s1",
@@ -937,8 +937,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Talk about the two tests. Ask your child what crossed the bucket, what they saw that shows it, and why they think so.",
-     "say": "With tapping, the grains stayed. With blowing, they sailed away. What crossed the bucket when you tapped?",
-     "kid": "When you tapped, the grains stayed. When you blew, they sailed away. What crossed the bucket when you tapped?",
+     "say": "With tapping, the grains stayed. With blowing, they sailed away. So what did the tapping send across the bucket?",
+     "kid": "Tapping left the grains in place. Blowing sent them sailing. Think about why.",
      "check": {
       "t": "mcq",
       "q": "Ripples crossed the bucket, but the puffed rice stayed near the middle. What did the ripples carry across?",
@@ -1015,14 +1015,14 @@
      "what": "Flick a dupatta tied to a door handle. Watch the bump go and come back. Watch a clothes peg in the middle."
     }
    ],
-   "record": "Draw the dupatta with the bump on it. Draw one arrow to show where the bump goes, and another to show where the peg goes.",
+   "record": "Tell your grown-up in one sentence what travelled and what stayed. Or draw the dupatta with one arrow for the bump and one for the peg.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Tie one end of the dupatta to a door handle. 2. Your child holds the other end, with the dupatta a little slack, just above the floor. 3. Your child flicks their hand up and down once, quickly.",
      "say": "Flick your hand once, up and down, fast. What do you see?",
-     "kid": "Hold the end. Flick once, up and down, fast. What happens?",
+     "kid": "Hold the end. Flick once, up and down, fast.",
      "ask": [
       {
        "q": "What did you see?",
@@ -1086,7 +1086,7 @@
      "what": "Stretch a spring toy along the floor. Send a push wave and a shake wave. Watch a paper tag on one coil."
     }
    ],
-   "record": "Draw the spring with a push wave and with a shake wave. Draw arrows for which way the coils move and which way the wave goes.",
+   "record": "Show your grown-up with the spring. For each wave, point to which way the coils move and which way the wave goes. Or draw it with arrows.",
    "flow": [
     {
      "id": "s1",
@@ -1100,7 +1100,7 @@
      "mins": 4,
      "do": "1. Gather a few coils at your end into a squeeze, then let them go. 2. Watch the squeeze run along. 3. Watch the paper tag.",
      "say": "This is a push wave. Watch the tag. Does it go to the other end, or does it move a little and come back?",
-     "kid": "Watch the squeeze run along. Watch the tag. Does it travel?",
+     "kid": "Watch the squeeze run along. Watch the tag.",
      "parent": "The tag moves forward a little and back, along the length of the spring. The squeeze travels the whole way. Sound travels through air like this, as squeezes passed from one bit of air to the next."
     },
     {
@@ -1168,7 +1168,7 @@
      "what": "Make a Mexican wave in a row. Try it quick, then slow. Talk about what set its speed."
     }
    ],
-   "record": "Draw your row of people with the wave halfway along. Write one sentence on what made the wave fast or slow.",
+   "record": "Write one sentence on what made the wave fast or slow. Take a photo of your row if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1248,24 +1248,24 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put a little water in a steel plate on a table. 2. Lay the phone flat on the table, touching the side of the plate. 3. Make the phone buzz: ring it from another phone, or set an alarm.",
-     "say": "Watch the water while the phone buzzes. What do you see?",
-     "kid": "Watch the water as the phone buzzes. What do you see?",
+     "say": "Watch the water while the phone buzzes. Tiny ripples mean a wave is travelling.",
+     "kid": "What does the water do?",
      "parent": "Very fine ripples may appear on the water, because the buzzing shakes the table and the plate. They are faint. Shine a torch across the water at a slant to see them. If you cannot see any, move on: the next step finds waves that are easier to see. Keep the phone out of the water."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Walk round the home together and find more waves.",
-     "say": "Let's hunt. Look for things that wave, ripple, shake or sound. For each one, ask: what is the wave travelling through?",
-     "kid": "Hunt for waves: ripples, shakes and sounds. What does each one travel through?",
+     "say": "Let's hunt. Look for things that wave, ripple, shake or sound.",
+     "kid": "Find three waves. For each one, ask: what does it travel through?",
      "parent": "Ideas: ripples when a tap drips into a full bucket, the pressure cooker whistle, a door slamming that shakes the window, a rope or dupatta shaken, light from the window. Light is a wave too, but it can travel through empty space."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Read the list together.",
-     "say": "Which of your waves travel through water? Air? Something solid?",
-     "kid": "Which waves went through water? Air? Something solid?"
+     "say": "Read the list together. Which of your waves travel through water? Air? Something solid?",
+     "kid": "Sort your waves: water, air or something solid."
     }
    ],
    "setup": [
@@ -1302,7 +1302,7 @@
      "what": "Lay a dupatta in a wave shape on the floor. Draw it. Label the crest, trough, wavelength and height."
     }
    ],
-   "record": "Your labelled drawing, with the wavelength measured in centimetres.",
+   "record": "Your labelled drawing, or a photo of the dupatta with paper slips. Write the wavelength in centimetres.",
    "flow": [
     {
      "id": "s1",
@@ -1321,9 +1321,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Your child draws the wave and labels it.",
-     "say": "Draw our wave. Label a crest, a trough, the wavelength, and the height.",
-     "kid": "Draw the wave. Label crest, trough, wavelength and height.",
+     "do": "Your child labels the wave. They can draw it, or put paper slips on the dupatta.",
+     "say": "Show me a crest, a trough, the wavelength and the height.",
+     "kid": "Label each part. Draw it, or use paper slips on the dupatta.",
      "check": {
       "t": "mcq",
       "q": "Where is the wavelength of a wave?",
@@ -1391,7 +1391,7 @@
      "mins": 3,
      "do": "1. Put the bowls side by side, with the water and the curd both about 3 cm deep. 2. Shine the torch across them at a slant. 3. Ask for a guess.",
      "say": "I will tap each bowl on the side with the spoon. Will the waves look the same in water and in curd? Why do you think so?",
-     "kid": "Will the curd make waves like the water? Why do you think so?"
+     "kid": "Look at both bowls. Guess how their waves will differ."
     },
     {
      "id": "s2",
@@ -1464,7 +1464,7 @@
      "what": "Add dough to the ends of the straws on one half. Compare how fast the wave crosses each half."
     }
    ],
-   "record": "Day 1: draw your machine with a wave on it. Day 2: write how the wave changed when it reached the heavy straws.",
+   "record": "Day 1: take a photo of your machine with a wave on it, or draw it. Day 2: write how the wave changed when it reached the heavy straws.",
    "flow": [
     {
      "id": "s1",
@@ -1488,7 +1488,7 @@
      "mins": 10,
      "do": "1. Make pea-sized balls of dough. 2. On one half of the machine, stick a ball on each end of every straw. 3. Send a wave from the light end.",
      "say": "Now half the straws are heavy at the ends. Before you twist, guess. Will the wave speed up, slow down, or stay the same when it reaches the heavy half? Why do you think so?",
-     "kid": "Half the straws have dough on their ends. Will the wave change when it reaches them? Why?",
+     "kid": "Stick dough balls on the ends of half the straws.",
      "wait": "Do this on day 2."
     },
     {
@@ -1553,7 +1553,7 @@
     "A row of sponge pieces that soak up the wave's energy.",
     "A floating line of bottle caps tied with thread."
    ],
-   "your_turn": "Now design your own wave guard. Draw it first, build it, and test it with three waves. Then make it better and test again.",
+   "your_turn": "Now design your own wave guard. Say or draw your plan first, then build it and test it with three waves. Then make it better and test again.",
    "flow": [
     {
      "id": "s1",
@@ -1566,9 +1566,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw two ideas for a wave guard.",
-     "say": "A wave carries energy. How could we stop that energy before it reaches the houses? Draw two ideas.",
-     "kid": "How can you stop the wave's energy? Draw two ideas."
+     "do": "Think of two ideas for a wave guard. Draw them, or say them aloud.",
+     "say": "A wave carries energy. How could we stop that energy before it reaches the houses? Tell me two ideas.",
+     "kid": "Think of two ways to stop the wave's energy. Draw them or say them."
     },
     {
      "id": "s3",
@@ -1582,7 +1582,7 @@
      "mins": 5,
      "do": "Compare the ideas.",
      "say": "Which guard worked best? Why do you think it took away the wave's energy?",
-     "kid": "Which guard worked best? Why?",
+     "kid": "Pick the best guard. Say why.",
      "parent": "Good answers mention blocking the wave, making it break on a slope, or spreading its energy out. Real engineers argue about whether mangrove forests protect coasts from big tsunamis. They do calm everyday waves."
     }
    ],
@@ -1625,9 +1625,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Make a code with your child for the four messages.",
+     "do": "Make a code with your child for four messages, such as Yes, No, Come here and Stop.",
      "say": "A wave can carry energy, so it can carry a message. How can we make four messages that feel different?",
-     "kid": "Make a wave code. Four messages. Each must feel different."
+     "kid": "Make four wave messages. Each one must feel different."
     },
     {
      "id": "s2",
@@ -1641,7 +1641,7 @@
      "mins": 5,
      "do": "Talk about which messages worked.",
      "say": "The message reached the door, but did any of the cloth from my hand get there?",
-     "kid": "The message reached the door. Did the cloth travel?",
+     "kid": "Think about the cloth. Did it travel, or only the wave?",
      "parent": "No cloth moved from one end to the other, yet the message arrived. Phones send messages on radio waves in a similar way: the pattern of the wave carries the message."
     }
    ],

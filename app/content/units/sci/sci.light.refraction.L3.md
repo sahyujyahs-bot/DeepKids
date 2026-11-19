@@ -271,8 +271,8 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Put the three mats on the floor: BENT, BIG and NEITHER. Mix the cards. Put them face down.
 - **s2 (3 min)**  
   *Parent does:* Take the straw card. Play it together as a practice round, then put it on its mat. Nobody wins a token.  
-  *Parent says:* Let's practise. 'A straw in a glass of tender coconut water looks broken.' Which mat?  
-  *Child mode:* Practice card: a straw in tender coconut water looks broken. Which mat?
+  *Parent says:* Let's practise first with the straw card. Nobody wins a token for it.  
+  *Child mode:* Read the practice card out loud. Then put it on a mat.
   - Check: Practice card: a straw in a glass of tender coconut water looks broken. Which mat? → **BENT**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player draws a card, reads it and puts it on a mat. 2. They say why, using 'bend' or 'straight'. 3. Give one token for each good reason.  
@@ -303,9 +303,9 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Look closely. Say one clue: bumps, lines, colours or holes. Then guess what it is.
   - Note: Good clues: 'tiny cubes' for salt, 'woven threads' for cloth, 'ridges' for a fingertip, 'tiny coloured dots' for a colour newspaper photo. Praise clear clues as much as right guesses.
 - **s3 (5 min)**  
-  *Parent does:* At the end, look at one thing without the lens, then with it.  
-  *Parent says:* Here is the salt grain without the lens. And now with it. Did the salt grain change?  
-  *Child mode:* Look at the salt without the lens. Then with it. Did the salt change size?
+  *Parent does:* At the end, pick one of the things and look at it without the lens, then with it.  
+  *Parent says:* Here is the thing without the lens. And now with it. Did the thing itself change?  
+  *Child mode:* Look at the same thing without the lens. Then with it. Did it change size?
 
 ## Experiments
 ### e1 · The Broken Pencil: is it really bent? (25 min)
@@ -313,7 +313,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **predict:** Before you start, guess. Will the pencil look broken from the side? From a slant? From straight above? Will it feel broken if you touch it under the water? Why do you think so?
 - **fair test:** To make it fair, use the same glass, the same pencil and the same amount of water each time. Change one thing at a time. First change only where you look from. Then change only the liquid: no water, then water.
 - **safety:** A glass tumbler can break, and the pieces are sharp. Use a plastic tumbler or bottle if you have one.
-- **record:** Fill in the table. Then draw the pencil as it looked from the side, and as it really is.
+- **record:** Fill in the table. Then draw the pencil as it looked from the side, and as it really is. Or tell your grown-up the difference.
 - **results table:** Where I looked from | Empty glass: broken or straight? | Glass of water: broken or straight? | How big was the break? (none, small, big)
 - **s1 (4 min)**  
   *Parent does:* 1. Put an empty clear glass on the table. 2. Stand a pencil in it, leaning against the side. 3. Ask your child to look from the side, then from a slant, then from straight above. 4. Write each result in the empty-glass column of the table.  
@@ -327,7 +327,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **s3 (5 min)**  
   *Parent does:* 1. Look from the side, at the level of the water. 2. Then look from a little above, at a slant. 3. Then look from straight above, down into the glass. 4. Write each result in the water column of the table.  
   *Parent says:* Look from the side. Now from a slant. Now straight down from the top. Where does the pencil look most broken?  
-  *Child mode:* Look from the side. Then from a slant. Then straight down from the top. Where does it look most broken? Write it in the table.
+  *Child mode:* Look from the side, then from a slant, then from straight above. Write what you see in the table.
   - Note: From the side, through the curved glass, the underwater part often looks fatter and shifted sideways. From a slant above the water, it looks bent upwards at the surface. From straight above, the break usually almost disappears. How big the break looks depends on your glass, so write down what you really see.
   - Check: In the broken-pencil test, where does the pencil usually look least broken? → **From straight above**
 - **s4 (4 min)**  
@@ -339,7 +339,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child to draw two pictures. 2. First, the pencil as it looked from the side. 3. Second, the pencil as it really is. 4. Then add a dotted line for the path of the light, from the bottom of the pencil to the eye.  
   *Parent says:* Let's draw a model, a picture that explains. Draw the pencil as it looked. Then draw it as it really is. Draw how you think the light travels from the bottom of the pencil to your eye.  
-  *Child mode:* Draw two pictures. The pencil as it looked. The pencil as it really is. Then draw the light going from the pencil to your eye.
+  *Child mode:* Draw two pictures: the pencil as it looked, and the pencil as it really is. Then draw the light going from the pencil to your eye. If you would rather not draw, tell your grown-up and they will draw it.
   - Note: A good drawing shows the light going straight in the water, bending at the surface, and going straight to the eye. The eye then 'sees' the pencil along that last straight line, too high. Do not correct the drawing yet. The explanation cards come next.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -350,7 +350,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **question:** Does a small drop of water or a big drop of water make letters look bigger?
 - **predict:** Before you start, guess. Will a tiny drop, a medium drop or a big drop make the letters under it look biggest? Why do you think so?
 - **fair test:** To make it fair, put all three drops on the same clear ruler, lying on the same newspaper. Only change the size of the drop. Make fresh drops and look 3 times, because one look can be a fluke.
-- **record:** Fill in the table for the tiny, medium and big drop. Then draw a bar for each drop, as tall as how many times taller it made the letters look.
+- **record:** Fill in the table for the tiny, medium and big drop. Then make or draw a bar for each drop, as long as how many times taller it made the letters look.
 - **results table:** Drop | Try 1: how much bigger did the letters look? | Try 2 | Try 3 | About how many times taller (1, 1 and a half, or 2)
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the newspaper flat on the table. 2. Lay the clear ruler on a line of small print. 3. Fill a cup with water.  
@@ -359,7 +359,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Note: The ruler holds each drop about 2 millimetres above the letters. That small gap lets a tiny drop magnify well. If the drops soak into paper, they stop being lenses, so always put them on the plastic.
 - **s2 (4 min)**  
   *Parent does:* 1. Dip the tip of a toothpick in the water and touch it to the ruler. This leaves one tiny drop, about the size of a mustard seed. 2. Dip a straw in the water and put a finger over its top end. Lift your finger a little to let out one drop the size of a pea. 3. Let out several drops in one place to make a big drop, as wide as your little fingernail. Keep the drops well apart along the ruler.  
-  *Parent says:* Let's make three drops. One is tiny, like a mustard seed. One is like a pea. One is big, as wide as your little fingernail. Which will make the letters look biggest? Why do you think so?  
+  *Parent says:* Let's make three drops. One is tiny, like a mustard seed. One is like a pea. One is big, as wide as your little fingernail. Which will make the letters look biggest?  
   *Child mode:* Make three drops on the ruler. One tiny, like a mustard seed. One like a pea. One big, as wide as your little fingernail. Guess first.
   - Ask: Why did you choose that drop? (good: The big one, because it has more water.; The tiny one, because it is rounder.)
   - Note: Most children guess the big drop, because it has more water. That is a good guess to test. Write the guess and the reason down before you look.
@@ -369,9 +369,9 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Look through each drop. Look at the letters beside it too. Which look bigger? Write it down.
   - Note: Through the tiny drop the letters usually look about twice as tall. Through the big, flat drop they look almost the same as beside it. Rough answers are fine. The tiny drop shows only part of a letter, so look at one small part, like the round of an o. If the tiny drop shows nothing clearly, make the drop a little bigger, about the size of a grain of rice.
 - **s4 (5 min)**  
-  *Parent does:* Help your child draw a bar for each drop, as tall as how many times taller it made the letters look.  
+  *Parent does:* Help your child make a bar for each drop, by lining up small things such as dry rice grains. Use as many grains as how many times taller the drop made the letters look. Drawing the bar is fine too.  
   *Parent says:* Let's turn the table into a picture. Each drop gets one bar. The taller the bar, the bigger that drop made the letters look.  
-  *Child mode:* Draw one bar for each drop. Make it as tall as its 'times taller' number.
+  *Child mode:* Make one bar for each drop with rice grains, or draw it. Make it as long as its 'times taller' number.
   - Check: In the water-drop test, which drop usually makes the letters look biggest? → **The tiny, round drop**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to look at each drop from the side, with their eye level with the ruler.  
@@ -387,7 +387,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **question:** Can water make a hidden coin appear, without moving the coin or your eyes?
 - **predict:** Before you start, guess. When water is poured into the cup, will the hidden coin stay hidden, or will you see it? Why do you think so?
 - **fair test:** To make it fair, keep the coin, the cup and your head exactly where they are. Rest your chin on a pile of books so your head does not move. Only change one thing: water or no water.
-- **record:** Fill in the table. Draw the cup from the side, with the path of the light from the coin to your eye, with and without water.
+- **record:** Fill in the table. Draw the cup from the side, with the path of the light from the coin to your eye, with and without water. Or take a photo of your string model.
 - **results table:** What was in the cup | Could I see the coin? (yes, no, a little)
 - **s1 (4 min)**  
   *Parent does:* 1. Stick the coin to the bottom of the cup, near the side, with a little dough. 2. Put the cup on the table. 3. Ask your child to rest their chin on a pile of books and look over the rim.  
@@ -404,9 +404,9 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Note: As the water rises, the coin seems to float up into view. If it does not, move back a little further and try again. Some children shout. That is a good result.
   - Check: In the appearing-coin test, why did the hidden coin appear when water was poured in? → **Light from the coin bent at the water's surface and reached my eye**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to draw the cup from the side twice. First empty, with the light from the coin hitting the rim. Then full, with the light bending at the water's surface to reach the eye.  
-  *Parent says:* Let's draw a model. Draw the light going from the coin to your eye. Without water, what stops it? With water, how does it get to you?  
-  *Child mode:* Draw the cup twice. Empty: the light hits the edge. Full: the light bends at the top and reaches your eye.
+  *Parent does:* Ask your child to show the light with a piece of string. With the empty cup, pull the string straight from the coin to their eye. It touches the rim. With the full cup, bend the string at the water's top so it reaches their eye.  
+  *Parent says:* Let's show the light with a string. Without water, what stops it? With water, how does it get to you?  
+  *Child mode:* Use a string as the light. Empty cup: pull it straight from the coin to your eye. It touches the rim. Full cup: bend it at the water's top so it reaches your eye.
   - Ask: Where does the light bend? (good: At the top of the water.; Where the water meets the air.)
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -416,17 +416,17 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 
 ## Activities
 ### a1 · Look Through Water: three strange things (10 min)
-- **record:** Draw the strangest thing you saw. Write one thing you wonder about it.
+- **record:** Tell your grown-up the strangest thing you saw, or draw it. Write one thing you wonder about it.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a fat arrow pointing left on a paper. 2. Hold it behind the glass of water, close to the glass. 3. Then slowly move the paper back, away from the glass, while your child watches through the glass.  
   *Parent says:* Look at this arrow through the glass of water. Keep watching while I move it back. Tell me anything you notice.  
-  *Child mode:* Look at the arrow through the glass of water. A grown-up moves it back slowly. Watch the arrow. What happens?
+  *Child mode:* Look at the arrow through the glass of water. A grown-up moves it back slowly. Keep watching.
   - Ask: What did the arrow do? (good: It flipped round and pointed the other way.; It got wider, then it turned round.)
   - Note: When the arrow is close, it looks wider. Further back, it suddenly flips and points right. The round glass of water is acting like a lens. Do not explain yet. Just enjoy the surprise.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask your child to put a finger into the water, at the side of the glass. 2. Look at it from the side.  
   *Parent says:* Put your finger in the water. Look at it from the side. What do you notice?  
-  *Child mode:* Put your finger in the water. Look from the side. What looks strange?
+  *Child mode:* Put your finger in the water. Look at it from the side.
   - Ask: What do you notice about your finger? (good: It looks fatter.; It looks cut off or moved at the top of the water.)
 - **s3 (4 min)**  
   *Parent does:* 1. Lay a clear plastic ruler or a clear plastic bag over a word in the newspaper. 2. Put one small drop of water on the plastic, right over the word, using the tip of a spoon. 3. Look at the word through the drop. 4. Ask: what do you notice, and what do you wonder?  
@@ -436,7 +436,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Check: When you looked at a newspaper word through a drop of water, what did you see? → **The word looked bigger**
 ### a2 · Magnifier Safari (20 min)
 - **safety:** Never look at the Sun through a magnifying glass. Never leave a lens lying in the sunshine, because it can start a fire. Watch ants gently and let them go.
-- **record:** Draw 3 things twice: once as they look to your eye, and once as they look through the lens.
+- **record:** Draw one thing as it looks through the lens, or tell your grown-up what you found. Write one detail the lens showed you.
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child how to hold the lens. Start close to the thing, then lift the lens slowly towards the eye until the picture is sharp. 2. Practise on a fingertip.  
   *Parent says:* Hold the lens just above your fingertip. Now lift it slowly towards your eye. Stop when the lines on your finger look big and still sharp.  
@@ -447,13 +447,13 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Look at each thing through the lens. Find one thing you could not see without the lens. Say it out loud.
   - Note: Things to look for: salt grains are little cubes. Sugar grains are rough blocks. A leaf has a net of tiny veins. Cloth is threads woven over and under. A currency note has very tiny printed letters, called microlettering, that you cannot read without a lens. Your fingertip has ridges. With a strong lens and good light, you may see tiny dots along them. These are pores, the openings where sweat comes out.
 - **s3 (6 min)**  
-  *Parent does:* Ask your child to draw three things twice: as they look to the eye, and as they look through the lens.  
-  *Parent says:* Choose your three favourite things. Draw each one as it looks with no lens. Then draw it again, as it looked through the lens.  
-  *Child mode:* Choose three things. Draw each one twice. Once with no lens. Once through the lens.
+  *Parent does:* Ask your child to choose three things and look at each through the lens. Then ask them to line the three up from smoothest to bumpiest.  
+  *Parent says:* Choose your three favourite things. Look at each through the lens. Now line them up, smoothest first and bumpiest last.  
+  *Child mode:* Line your three things up from smoothest to bumpiest. Point to one bump or line you could not see before.
   - Check: On the magnifier safari, a salt grain looked like a big cube through the lens. What really happened to the salt grain? → **It stayed the same size, only the light from it was bent**
 ### a3 · Catch the Window: a picture made by a lens (15 min)
 - **safety:** Point the lens at the window, never at the Sun. Choose a window with no sunshine coming straight in.
-- **record:** Draw the window as it really is, and the picture of it on the paper.
+- **record:** Take a photo of the picture on the paper, or draw the window and its picture.
 - **s1 (3 min)**  
   *Parent does:* 1. Make the room dim, with only one bright window uncovered. 2. Stand across the room from the window. 3. Hold the white paper up, facing the window.  
   *Parent says:* We're going to catch a picture of the window on this paper, using only a lens. Hold the paper facing the window.  
@@ -466,12 +466,12 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **s3 (6 min)**  
   *Parent does:* Ask your child to look carefully at the picture, then at the real window.  
   *Parent says:* Look at the picture. Then look at the real window. What is different?  
-  *Child mode:* Look at the picture. Look at the real window. What is different? Which way up is the picture?
+  *Child mode:* Look at the picture. Then look at the real window.
   - Ask: What is strange about the picture? (good: It is upside down.; It is small.; Left and right are swapped too.)
   - Check: When you caught a picture of a bright window on paper with a magnifying glass, which way up was it? → **Upside down**
 ### a4 · March Like Light (act it out) (15 min)
 - **problem:** Light goes fast in air and more slowly in water and glass. Here, a line of people holding hands is a beam of light. The floor is air, and a mattress is water. You march from the floor onto the mattress. Watch what happens to the line.
-- **record:** Draw the line of people from above, before and after the mattress, with arrows showing which way they walked.
+- **record:** Lay two pencils for the line of people, before and after the mattress, and take a photo. Or draw them from above, with arrows showing which way they walked.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand in a line, side by side, holding hands. 2. Face the mattress straight on. 3. March forward, taking big quick steps on the floor and tiny slow steps once on the mattress.  
   *Parent says:* We are a beam of light. On the floor we march fast. On the mattress, which is like water, we march slowly. First, let's march at it straight on.  
@@ -484,14 +484,14 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Note: The first person on the mattress slows down, while the others are still fast. So the line swings round and changes direction. That is exactly how light turns at the edge of water. With only two people, hold hands and walk side by side: one of you reaches the mattress first. Or roll two toy cars, joined by a taped pencil, at a slant from the floor onto a towel. The first wheel to hit the towel slows, and the cars turn.
   - Check: In the 'march like light' game, why did the line turn when it marched onto the mattress at a slant? → **One end slowed down first, so the line swung round**
 - **s3 (6 min)**  
-  *Parent does:* Ask your child to draw the march from above: the floor, the mattress edge, the line before and after, with arrows.  
-  *Parent says:* Let's draw a model of what we did, looking down from the ceiling. Where did the line turn?  
-  *Child mode:* Draw the march, as if you were a lizard on the ceiling. Draw arrows. Where did the line turn?
+  *Parent does:* Ask your child to lay one pencil for the march on the floor. Then lay another for the march on the mattress.  
+  *Parent says:* Let's show what we did with two pencils, as if we were looking down from the ceiling. Where did the line turn?  
+  *Child mode:* Lay one pencil for the march on the floor. Lay another for the march on the mattress.
   - Think: What do you think would happen if we marched from the mattress back onto the floor, at a slant?
 ### a5 · The Bottle Lens and the Flipping Words (15 min)
 - **problem:** A round bottle of water is curved, like a lens. It bends light. In this activity, you look at words through the bottle. See what the bend does to them.
 - **safety:** Use a plastic bottle, not glass. Never leave a water bottle or marble lying in strong sunshine on paper or cloth. It can focus sunlight and start a fire.
-- **record:** Write which words flipped and which looked the same. Draw a word looking wide through the bottle.
+- **record:** Write which words flipped and which looked the same. Draw a word looking wide through the bottle, or take a photo of it.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the bottle on its side on a table. 2. Hold a word card right behind it. 3. Then slowly move the card away.  
   *Parent says:* Look at your name through the water bottle. Watch as I move it further away. What happens to the letters?  
@@ -511,7 +511,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 ### a6 · A Galaxy in a Wine Glass: gravity's lens (15 min)
 - **problem:** In space, gravity can bend the light of far galaxies. A huge cluster of galaxies does this. Space telescopes photograph it as bright rings and arcs. The thick foot of a wine glass bends light in a similar way. So you can make the same shapes at home.
 - **safety:** A grown-up holds the glass, because it can break.
-- **record:** Draw the rings and arcs you saw. Write: in space, what bends the light instead of glass?
+- **record:** Draw the rings and arcs you saw, or take a photo of them. Write: in space, what bends the light instead of glass?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Switch on a torch and lay it on a table, pointing at your child from about two metres away. 2. Hold the glass on its side by the bowl, with the stem pointing at the torch. 3. Your child looks through the middle of the thick foot, along the stem, at the torch.  
   *Parent says:* Look at the torch through the bottom of this glass. Now I'll move the glass slowly. Tell me what shapes the light makes.  
@@ -519,7 +519,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* Slowly slide the glass foot sideways across the torch light, and then hold it exactly in line.  
   *Parent says:* When the light is exactly behind the middle of the glass, what shape does it make? And when it is a little to one side?  
-  *Child mode:* Watch closely. When the light is behind the middle, what shape do you see? And when it is to one side?
+  *Child mode:* Watch closely. Slide the glass until the light is behind the middle. Then move it a little to one side.
   - Ask: What shapes did you see? (good: A ring of light.; Curved lines, like bananas or eyebrows.; Two little lights instead of one.)
   - Note: Exactly in line, the light spreads into a bright ring. A little to one side, it becomes one or two bright curved arcs. How clear the ring is depends on your glass. If you only see a smudge, go on to the next step. Space telescopes photograph exactly these shapes. They are called Einstein rings and arcs. In space, the 'glass' is the gravity of a huge galaxy or cluster of galaxies, bending light from galaxies far behind it.
 - **s3 (5 min)**  
@@ -532,7 +532,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 ### p1 · Make a Leeuwenhoek Drop Microscope (60 min, 2 days)
 - **problem:** About 350 years ago, Antonie van Leeuwenhoek made tiny glass-bead microscopes. A tiny bead is very curved, so it magnifies strongly. A tiny drop of water is round in the same way. In this project, you use a drop of water as your lens.
 - **safety:** A grown-up cuts the card and makes the hole in the foil. Look at things near a window or a lamp, never at the Sun.
-- **record:** Draw a hair and the onion skin as you saw them through the drop. Under each, write which showed more: the tiny drop or the magnifying glass.
+- **record:** Write what the hair and the onion skin looked like through the drop. Then write which showed more: the tiny drop or the magnifying glass. You can draw them too.
 - **schedule:** day 1: Make the drop microscope. Test it on a hair and on newspaper print. (30 min); day 2: Look at onion skin under the drop. Draw what you see and compare it with the magnifying glass. (30 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Cut a hole about 1 cm wide near one end of the card strip. 2. Tape a piece of foil over the hole. 3. Push the sharp pencil point through the middle of the foil, to make a round hole about 2 to 3 millimetres wide.  
@@ -543,9 +543,9 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent says:* Now let's place our lens. One tiny drop, sitting in the hole.  
   *Child mode:* Dip a toothpick in water. Put a tiny drop in the foil hole. It should sit there, round and shiny.
 - **s3 (15 min)**  
-  *Parent does:* 1. Sit facing a bright window or a lamp, so light shines through the thing you look at. 2. Hold a hair or a scrap of newspaper under the drop, very close. 3. Bring your eye very close to the drop, from above. 4. Move the hair up and down slowly until it is sharp. 5. Draw what you see.  
+  *Parent does:* 1. Sit facing a bright window or a lamp, so light shines through the thing you look at. 2. Hold a hair or a scrap of newspaper under the drop, very close. 3. Bring your eye very close to the drop, from above. 4. Move the hair up and down slowly until it is sharp. 5. Ask your child to say what they see, or to draw it.  
   *Parent says:* Bring your eye right up to the drop. Move the hair slowly until it looks sharp. How big does it look?  
-  *Child mode:* Put your eye right up to the drop. Move the hair slowly until it is sharp. Draw what you see.
+  *Child mode:* Put your eye right up to the drop. Move the hair slowly until it is sharp. Say what you see, or draw it.
   - Note: The view is small and wobbly, but strongly magnified. A tiny drop may make things look 5 to 10 times bigger. Patience helps. Rest your elbows on the table.
   - Wait: Do the next steps tomorrow.
 - **s4 (15 min)**  
@@ -567,7 +567,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 ## Challenges
 ### c1 · Read the Tiny Print (25 min)
 - **problem:** Someone has lost their reading spectacles, and the medicine bottle has tiny writing. Your job is to make something that helps them read it, without using a magnifying glass or spectacles.
-- **your turn:** Now invent your own magnifier. Draw it, and test it on the tiny print. Can you read every word now? Is it better than the others?
+- **your turn:** Now invent your own magnifier. Build it from things at home, or draw your plan, and test it on the tiny print. Can you read every word now? Is it better than the others?
 - **constraints:** You cannot use a magnifying glass, spectacles or a phone camera.; You can only use things you find at home.; It must make the letters look clearly bigger, so the reader can read them.
 - **general:** Put a drop of water on a piece of clear plastic and hold it over the words.; Look through a round glass or bottle of water.; Place a clear glass marble right on the print.
 - **creative:** Stretch cling film over the top of a clear glass tumbler. Press the middle down a little and pour a spoon of water into the dip. Put the tiny print under the glass and look down through the water. The curved pool of water works like a lens. How much it helps depends on how deep the dip is, so try a deeper dip.; Try a drop of cooking oil instead of water. Oil bends light a little more than water.; Make a tiny pinhole in a card with a pin, and look at the print through it, very close. It works without bending light. The hole lets through only a thin beam from each letter, so the blur is small and the print looks sharper.
@@ -578,7 +578,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **s2 (10 min)**  
   *Parent does:* Help your child test the usual ideas: a drop on plastic, a bottle of water, a marble.  
   *Parent says:* Let's test some ideas. Which one makes the letters biggest? Which is easiest for the reader to use?  
-  *Child mode:* Test a water drop, a bottle and a marble. Which makes letters biggest? Which is easiest to hold?
+  *Child mode:* Test a water drop, a bottle and a marble on the tiny print. Compare them.
 - **s3 (5 min)**  
   *Parent does:* Let your child try a creative idea, or invent one.  
   *Parent says:* Now let's try a surprising idea. Or invent your own.  
@@ -586,7 +586,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **s4 (5 min)**  
   *Parent does:* Ask your child which design they would give to the reader, and why.  
   *Parent says:* Which design would you give the reader? Tell me why, using the word bend.  
-  *Child mode:* Which design would you give the reader? Say why. Use the word 'bend'.
+  *Child mode:* Pick the design you would give. Say why it works, using the word 'bend'.
 ### c2 · Spear the Coin (25 min)
 - **problem:** A coin lies at the bottom of a bucket of water. Like a fisher with a spear, you must aim a stick at it from one side, then push it in with your eyes closed. Then work out how to aim better.
 - **your turn:** Now invent your own way of aiming. Try it 5 times. Count your hits. Is it better than the others?
@@ -605,12 +605,12 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **s3 (6 min)**  
   *Parent does:* Talk about why the stick missed, then try a usual or a creative idea.  
   *Parent says:* Why do you think you missed? Remember the pencil that looked broken in water. Now try a new way of aiming.  
-  *Child mode:* Why did you miss? Think of the pencil that looked broken in water. Try a new way. Count your hits again.
+  *Child mode:* Think of the pencil that looked broken in water. Try a new way to aim. Count your hits again.
   - Check: In Spear the Coin, looking at a slant, where should you aim to hit the coin? → **A little below where the coin looks, so the stick goes in more steeply**
 - **s4 (5 min)**  
   *Parent does:* Ask your child which way worked best, and why.  
   *Parent says:* Which way of aiming gave you the most hits? Why do you think it worked?  
-  *Child mode:* Which way worked best? Why? Use the word 'bend'.
+  *Child mode:* Pick the way that gave the most hits. Say why, using the word 'bend'.
 
 ## Worksheets
 ### Bending Light Detective (core) (core, 15 questions)

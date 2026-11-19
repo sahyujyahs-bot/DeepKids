@@ -441,7 +441,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Shuffle and deal the cards. 2. Explain how a round is won, and the shape race.",
+     "do": "1. Shuffle and deal the cards. 2. Explain how a round is won, and the shape race: if two cards show the same shape, the first player to call out that shape wins the round.",
      "say": "Each card is a real galaxy. The one whose light set off longest ago wins, because its light is the oldest.",
      "kid": "Each card is a real galaxy. The oldest light wins the round.",
      "context": "This is the first step of the Old Light game."
@@ -450,11 +450,11 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the first round together as practice, with the Andromeda card and the Pinwheel card.",
-     "say": "Andromeda's light set off 2.5 million years ago. The Pinwheel's set off 21 million years ago. Which wins?",
-     "kid": "Andromeda's light set off 2.5 million years ago. The Pinwheel's light set off 21 million years ago. Which light is older?",
+     "say": "Let's practise with two cards. Andromeda's light set off 2.5 million years ago. The Pinwheel's set off 21 million years ago.",
+     "kid": "Look at both cards. Which number of years is bigger?",
      "check": {
       "t": "mcq",
-      "q": "Which galaxy's light set off longer ago, and so is further away: Andromeda or the Pinwheel?",
+      "q": "Whose light set off longer ago: Andromeda or the Pinwheel?",
       "options": [
        "Andromeda",
        "The Pinwheel",
@@ -476,8 +476,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Find the JADES card and talk about it.",
-     "say": "The JADES card's light set off 13.5 billion years ago. The universe is 13.8 billion years old. How old was the universe when that light set off?",
-     "kid": "How old was the universe when the JADES light set off?",
+     "say": "The JADES card is a very faraway galaxy seen by the Webb telescope. Its light set off 13.5 billion years ago. The universe is 13.8 billion years old.",
+     "kid": "Take 13.5 away from 13.8.",
      "ask": [
       {
        "q": "How old was the universe when that light set off?",
@@ -556,11 +556,11 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Show your child the balloon and the bindis. 2. Ask the guess question below. 3. Wait for a guess and a reason.",
-     "say": "Each bindi will be a galaxy, and the balloon's rubber will be space. When I blow the balloon bigger, will a near bindi and a far bindi move away by the same amount? Why do you think so?",
-     "kid": "Each bindi is a galaxy, and the rubber is space. When the balloon grows, will near and far bindis move the same? Guess first, then say why.",
+     "say": "Each bindi will be a galaxy, and the balloon's rubber will be space. One bindi will be our home, the Milky Way. I will blow the balloon bigger.",
+     "kid": "Each bindi is a galaxy. The rubber is space. Guess first, then say why.",
      "ask": [
       {
-       "q": "Which bindi do you think will move furthest from the home bindi: a near one or a far one? Why?",
+       "q": "When the balloon grows, which will move further from the home bindi: a near bindi or a far bindi? Why?",
        "good": [
         "They will all move the same, because the balloon grows the same everywhere.",
         "The far one, because there is more rubber between them to stretch."
@@ -573,9 +573,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Blow the balloon up to about the size of a big mango, around 10 cm across. 2. Twist the neck and clip it with the peg. 3. Your child sticks the home bindi in the middle of the fat part. 4. They stick three more in a rough line from it, about 3 cm, 6 cm and 9 cm away. 5. They stick the last two anywhere else.",
-     "say": "This first bindi is our home, the Milky Way. Now stick three in a line going away from it, a little further each time. Put the last two anywhere.",
-     "kid": "Stick the home bindi in the middle. Stick three more in a line, each one further away. Put two more anywhere.",
+     "do": "1. Blow the balloon up to about the size of a big mango, around 10 cm across. 2. Twist the neck and clip it with the peg. 3. Your child sticks the home bindi, H, in the middle of the fat part. 4. They stick three more in a rough line: A at 3 cm, B at 6 cm, C at 9 cm. 5. They stick the last two anywhere else. 6. Write each letter next to its bindi with a pen.",
+     "say": "This first bindi, H, is our home, the Milky Way. Now stick A, B and C in a line going away from it, a little further each time. Put the last two anywhere.",
+     "kid": "Stick the home bindi, H, in the middle. Stick A, B and C in a line, each one further away. Put two more anywhere.",
      "adult": true,
      "parent": "Keep the bindis on the fat middle of the balloon, away from the neck, because the rubber near the neck stretches less. Give each bindi a letter on the results table: H for home, then A, B and C along the line, and D and E for the other two.",
      "context": "In this step of the Bindi Balloon experiment, you set up the small balloon."
@@ -593,8 +593,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Unclip the neck, holding it tight. 2. Blow the balloon bigger, to about twice as wide, around 20 cm across. 3. Clip it shut again.",
-     "say": "Watch the bindis while I blow. What do you see them doing?",
-     "kid": "Watch the bindis while the balloon grows. What are they doing?",
+     "say": "Watch the bindis closely while I blow.",
+     "kid": "Watch the bindis while the balloon grows.",
      "adult": true,
      "ask": [
       {
@@ -610,7 +610,7 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "1. Measure the same five gaps again, in the same way. 2. Write them in the table. 3. For each pair, take the small gap from the big gap and write how much further apart they are.",
+     "do": "1. Measure the same five gaps again, in the same way. 2. Write them in the table. 3. For each pair, take the small gap away from the big gap and write how much further apart they are.",
      "say": "Let's measure the same gaps again. Then we can work out how much further apart each pair has gone.",
      "kid": "Measure the same gaps again. Write them down. How much further apart is each pair?",
      "check": {
@@ -631,7 +631,7 @@
      "mins": 4,
      "do": "1. Look at the gaps measured from C. 2. Ask: did the other bindis move away from C as well? 3. Measure one bindi across its middle with the ruler, and compare it with the width you wrote down before.",
      "say": "Now pretend C is home. Did the other bindis move away from C too? And did the bindis themselves get any bigger?",
-     "kid": "Pretend C is home. Did the others move away from C too? Did the bindis get bigger?",
+     "kid": "Pretend C is home. Look at the gaps from C. Then measure one bindi across its middle.",
      "ask": [
       {
        "q": "Was there any bindi that the others did not move away from?",
@@ -646,7 +646,7 @@
     {
      "id": "s7",
      "mins": 4,
-     "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
+     "do": "Listen to your child's three answers, said out loud or written. Do not correct them yet.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
      "kid": "Say or write three things: what you think now, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: when space stretches, far things move apart faster than near things, and there is no centre. What I saw: the bindi 9 cm away moved about three times as far as the one 3 cm away, and the bindis moved away from C as well as from H. Why: there is more rubber between far bindis, so more of it stretches. Now explain: galaxies are moving away from us in the same way. Hubble found that a galaxy twice as far away moves away about twice as fast. Every galaxy would see the same thing, so we are not at the centre."
@@ -693,7 +693,7 @@
      }
     ]
    },
-   "context": "This is the Bindi Balloon experiment. You find out how bindis move when the balloon between them stretches, and whether any bindi is the centre."
+   "context": "You will find out whether bindis that start far apart move apart faster than bindis that start close together, and whether any bindi is the centre."
   },
   {
    "id": "e2",
@@ -727,7 +727,7 @@
      "qty": 1
     },
     {
-     "item": "paper and a pencil for drawing what you see",
+     "item": "paper and a pencil for the results table, and a phone for photos if you like",
      "qty": 1
     }
    ],
@@ -739,17 +739,17 @@
      "what": "Guess what will happen. Draw a spiral on a plate. Look at the plate and an orange from the top, at a slant and from the side, and draw each shape you see. Then compare your drawings with real galaxy photos from the ESA/Hubble website."
     }
    ],
-   "record": "Draw the six shapes you saw in the results table. Then write which model changed shape and which did not.",
+   "record": "Fill in the results table with the six shapes you saw. Draw them, or write round, oval or thin line. Then write which model changed shape and which did not.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Ask the guess question below. 2. Wait for a guess and a reason.",
-     "say": "A spiral galaxy is a flat spinning disc. What shape would it look like if we saw it from the side? Would a ball of stars change shape? Why do you think so?",
-     "kid": "A spiral galaxy is a flat disc. What would it look like from the side? Guess first, then say why.",
+     "say": "A spiral galaxy is a flat spinning disc. We will make one from a paper plate. Guess first, and tell me why.",
+     "kid": "A spiral galaxy is a flat disc, like a plate. Guess first, then say why.",
      "ask": [
       {
-       "q": "What will the disc look like from the side?",
+       "q": "When we see the plate exactly from its side, what shape will it look like?",
        "good": [
         "Still round, because it is a circle.",
         "A thin line, because it is flat."
@@ -770,9 +770,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Stand one big step away from your child. 2. Hold the plate flat facing them. 3. Then tilt it halfway. 4. Then turn it until they see only its edge, at the height of their eyes. 5. At each tilt, your child closes one eye and draws what they see.",
-     "say": "Close one eye. Draw what you see. Now I'll tilt it. Draw again. Now I'll turn it right round to the side.",
-     "kid": "Close one eye. Draw the plate. Draw it again when it tilts. Draw it from the side.",
+     "do": "1. Stand one big step away from your child. 2. Hold the plate flat facing them. 3. Then tilt it halfway. 4. Then turn it until they see only its edge, at the height of their eyes. 5. At each tilt, your child closes one eye and says the shape they see: round, oval or a thin line. Take a photo of each if you like.",
+     "say": "Close one eye. What shape do you see? Now I'll tilt it. What shape now? Now I'll turn it right round to the side.",
+     "kid": "Close one eye. Say the plate's shape. Say it again when it tilts, and again from the side.",
      "check": {
       "t": "mcq",
       "q": "What did the plate look like from the side?",
@@ -788,9 +788,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Do the same with the orange. Hold it in the same three ways, and your child draws it each time.",
+     "do": "Do the same with the orange. Hold it in the same three ways, and your child says its shape each time.",
      "say": "Now the orange. Watch it from the top, at a slant, and from the side. Does its shape change?",
-     "kid": "Now look at the orange the same three ways. Draw it. Does its shape change?",
+     "kid": "Now look at the orange the same three ways. Say its shape each time.",
      "ask": [
       {
        "q": "What happened to the orange's shape?",
@@ -804,15 +804,15 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Look up the Pinwheel (M101), Andromeda (M31) and the Sombrero (M104) on the ESA/Hubble website or in a book. 2. Your child matches each to a plate drawing.",
-     "say": "These are three real spiral galaxies. Which of your drawings looks like each one?",
-     "kid": "Look at three real spiral galaxies. Which drawing matches each one?",
+     "do": "1. Look up the Pinwheel (M101), Andromeda (M31) and the Sombrero (M104) on the ESA/Hubble website or in a book. 2. Your child matches each one to the plate view it looks like: from the top, at a slant, or from the side.",
+     "say": "These are three real spiral galaxies. Which plate view looks like each one?",
+     "kid": "Look at three real spiral galaxies. Which plate view matches each one?",
      "parent": "The Pinwheel is seen from the top, Andromeda at a slant, and the Sombrero almost from the side. All three are spiral galaxies. They only look different because of the direction we see them from."
     },
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
+     "do": "Listen to your child's three answers, said out loud or written. Do not correct them yet.",
      "say": "Tell me three things. What do you think now? What did you see? And why does it happen?",
      "kid": "Say or write three things: what you think now, what you saw, and why it happened.",
      "parent": "A good answer sounds like this. What I think: a spiral galaxy looks round, oval or like a line, depending on where we see it from, but a ball of stars looks round from everywhere. What I saw: the plate changed from a circle to a thin line, but the orange stayed round. Why: the plate is flat and the orange is not. Now explain: astronomers can only photograph each galaxy from one direction, from Earth. So they look for clues, like a bulge or a dark line of dust, to tell a disc seen from the side from a different kind of galaxy."
@@ -832,7 +832,7 @@
      "caption": "3. Do the same with an orange."
     }
    ],
-   "context": "This is the Tilt the Spiral experiment. You find out whether a galaxy looks the same from every direction."
+   "context": "You will find out why the same galaxy can look round in one photo and like a thin line in another."
   }
  ],
  "activities": [
@@ -872,11 +872,11 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Draw 10 equal boxes over the picture, in 2 rows of 5. 2. Show it, and do not say what it is yet. 3. Ask what your child notices and wonders.",
-     "say": "Look at this picture of the sky. What do you notice? What do you wonder?",
-     "kid": "Look at this picture of the sky. What do you notice? What do you wonder?",
+     "say": "Look at this picture of the sky.",
+     "kid": "Look closely at the picture for a little while.",
      "ask": [
       {
-       "q": "What do you notice?",
+       "q": "What do you notice? What do you wonder?",
        "good": [
         "Lots of smudges of different shapes.",
         "Some are spirals and some are just blobs.",
@@ -916,7 +916,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask about the smallest, faintest, reddest smudges.",
+     "do": "Ask your child to find the smallest, faintest, reddest smudges.",
      "say": "Some smudges are tiny, faint and red. Why do you think they look like that?",
      "kid": "Some smudges are tiny, faint and red. Why do you think they look like that?",
      "parent": "Accept any guess now. The tiny red ones are mostly the furthest away. Their light set off billions of years ago, and on the way it was stretched towards red by the expanding universe. The unit comes back to this."
@@ -936,7 +936,7 @@
      "caption": "3. Count one box, then multiply by 10."
     }
    ],
-   "context": "This is the Grain of Sand activity. You count galaxies in a real photo of a tiny patch of sky."
+   "context": "You will find out how many galaxies a real telescope photo shows in a patch of sky as small as a grain of sand."
   },
   {
    "id": "a2",
@@ -960,7 +960,7 @@
      "what": "Squeeze the whole history of the universe into one year. Stick each big event on its date."
     }
    ],
-   "record": "The calendar on the wall, with each event on its date, and a picture for each.",
+   "record": "The calendar on the wall, with each event on its date, and a photo of it.",
    "flow": [
     {
      "id": "s1",
@@ -974,7 +974,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Your child writes each event on a slip and sticks it on its date. Read out the dates from the parent note below.",
-     "say": "Before we stick each one, guess. When in the year do you think the Sun and the Earth were made?",
+     "say": "Before we stick each one, guess where it goes in the year.",
      "kid": "Guess when each thing happened. Then stick it on its date.",
      "ask": [
       {
@@ -1008,9 +1008,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Your child draws a small picture next to each event.",
-     "say": "Draw a little picture for each one. What would the universe have looked like on 9 January?",
-     "kid": "Draw a small picture for each event.",
+     "do": "Your child points at each event in order, from 1 January, and says what was happening in the universe then.",
+     "say": "Start at 1 January and point at each event in order. Tell me what was happening in the universe then.",
+     "kid": "Point at each event in order. Tell what was happening then.",
      "parent": "On 9 January the universe was full of small, young galaxies, and there was no Sun or Earth yet."
     }
    ],
@@ -1028,7 +1028,7 @@
      "caption": "3. See how much happens on the last day."
     }
    ],
-   "context": "In the Universe in One Year activity, the whole 13.8 billion years of the universe is squeezed into one calendar year, so that each day stands for about 38 million years."
+   "context": "In the Universe in One Year activity, the whole 13.8 billion years of the universe is squeezed into one calendar year, so that each day stands for about 38 million years. You will see where the Sun, the Earth and people fit in the year."
   },
   {
    "id": "a3",
@@ -1066,7 +1066,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Ask the guess question below. 2. Stretch the elastic along the ruler until the 8 cm dot reaches 16 cm. 3. Hold it there while your child reads where each dot is now.",
+     "do": "1. Ask your child to guess, and why. 2. Stretch the elastic along the ruler until the 8 cm dot reaches 16 cm. 3. Hold it there while your child reads where each dot is now.",
      "say": "If I stretch it until the last dot reaches 16, where will the dot that was at 2 be? Guess first, and say why.",
      "kid": "Guess where each dot will go. Then read the ruler.",
      "ask": [
@@ -1084,8 +1084,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Work out together how far each dot moved, and what pattern you see.",
-     "say": "The dot at 2 moved 2 centimetres. How far did the dot at 6 move? What is the pattern?",
-     "kid": "How far did each dot move? Find the pattern.",
+     "say": "The dot at 2 moved 2 centimetres. Work out how far the other dots moved. What is the pattern?",
+     "kid": "Work out how far each dot moved. Find the pattern.",
      "check": {
       "t": "mcq",
       "q": "The dot that started at 6 cm ended at 12 cm. How far did it move?",
@@ -1109,7 +1109,7 @@
      "caption": "2. Stretch it to twice its length and read each dot."
     }
    ],
-   "context": "In the Stretch the Elastic activity, you mark dots 2 centimetres apart on a piece of elastic, tape one end down, and stretch it to twice its length."
+   "context": "You will find out whether dots far from the taped end move more than dots near it. You mark dots 2 centimetres apart on a piece of elastic, tape one end down, and stretch it to twice its length."
   },
   {
    "id": "a4",
@@ -1138,7 +1138,7 @@
      "what": "On a dark night, let your eyes get used to the dark, then find the faint smudge of the Andromeda galaxy."
     }
    ],
-   "record": "A drawing of the Great Square and the smudge, with the date, the time and the place.",
+   "record": "A drawing or a few words about the Great Square and the smudge, with the date, the time and the place.",
    "flow": [
     {
      "id": "s1",
@@ -1152,9 +1152,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Find the Great Square: four stars making a big box, in the eastern sky. 2. Find the corner of the square where a line of stars leads away, and follow that line two bright stars along. 3. At the second star, look a little upwards for a faint smudge. 4. Look slightly to one side of the smudge. 5. Draw it by red torchlight.",
-     "say": "Find the big square of four stars. Go to the corner where a line of stars leads away, then two stars along. Now look up a little, slightly to one side.",
-     "kid": "Find the big square of four stars. Go to the corner where a line of stars leads away. Go two stars along, then look up a little.",
+     "do": "1. Find the Great Square: four stars making a big box, in the eastern sky. 2. Find the corner of the square where a line of stars leads away, and follow that line two bright stars along. 3. At the second star, look a little upwards for a faint smudge. 4. Look slightly to one side of the smudge. 5. Draw it by red torchlight, or just tell your grown-up what you see.",
+     "say": "Find the big square of four stars. Go to the corner where a line of stars leads away, then two stars along. Now look up a little, slightly to one side of the smudge. Faint things show up better from the corner of your eye.",
+     "kid": "Find the big square of four stars. Go to the corner where a line of stars leads away. Go two stars along, then look up a little, slightly to one side. Draw the smudge, or tell what you see.",
      "adult": true,
      "parent": "The edge of your eye sees faint things better than the middle, which is why looking slightly to one side helps. With binoculars, the smudge is much easier. If you cannot see it, the sky is not dark enough. Use Stellarium Web to see where it should be.",
      "wait": "Do this on a clear, dark night in a place far from city lights."
@@ -1162,8 +1162,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Talk about what you saw.",
-     "say": "That smudge is a whole galaxy of about a trillion stars. Its light set off two and a half million years ago, long before there were people like us on Earth. So are we seeing Andromeda as it is tonight?",
+     "do": "Talk about what you saw, then ask the question below.",
+     "say": "That smudge is a whole galaxy of about a trillion stars. Its light set off two and a half million years ago, long before there were people like us on Earth.",
      "kid": "That smudge is a galaxy. Its light is two and a half million years old.",
      "ask": [
       {
@@ -1186,7 +1186,7 @@
      "caption": "2. Follow the square, two stars, then up to the smudge."
     }
    ],
-   "context": "This is the Find Andromeda activity, for a night in a dark place. It is not part of the main path, because city lights hide Andromeda."
+   "context": "You will see a whole galaxy with your own eyes, one of the furthest things people can see without a telescope. This activity is for a night in a dark place. It is not part of the main path, because city lights hide Andromeda."
   },
   {
    "id": "a5",
@@ -1235,8 +1235,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the tally marks together.",
-     "say": "Which shape did we see most? Were some photos hard to sort? Why?",
-     "kid": "Count your tally. Which shape did you see most?",
+     "say": "Let's add up each shape. Then let's think about the photos that were hard to sort.",
+     "kid": "Count your tally. Which shape came up most?",
      "ask": [
       {
        "q": "Why might some photos be hard to sort?",
@@ -1304,17 +1304,17 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Fold and staple the book. 2. Your child picks a real spiral galaxy and a real barred spiral. 3. On each page, they draw it and write its name, its shape and when its light set off.",
-     "say": "A field guide helps people tell things apart. Draw this galaxy and write three things: its name, its shape and how old its light is.",
-     "kid": "Draw a galaxy. Write its name, its shape and how old its light is.",
+     "do": "1. Fold and staple the book. 2. Your child picks a real spiral galaxy and a real barred spiral, which has a straight bar of stars across its middle. 3. On each page, they draw it or stick in a printed photo. They also write its name, its shape and when its light set off.",
+     "say": "A field guide helps people tell things apart. Draw this galaxy, or stick in a printed photo of it. Then write three things: its name, its shape and how old its light is.",
+     "kid": "Draw a galaxy, or stick in a photo. Write its name, its shape and how old its light is.",
      "context": "This is the first step of the Galaxy Field Guide project. You make your own book of galaxy shapes."
     },
     {
      "id": "s2",
      "mins": 15,
      "do": "Your child adds an elliptical galaxy and an irregular galaxy, in the same way.",
-     "say": "Now an elliptical and an irregular galaxy. What makes each one different from a spiral?",
-     "kid": "Add an elliptical and an irregular galaxy. How are they different?",
+     "say": "Now an elliptical galaxy, which is a smooth oval ball of stars, and an irregular galaxy, which has no clear shape. What makes each one different from a spiral?",
+     "kid": "Add an elliptical galaxy, a smooth oval. Add an irregular galaxy, with no clear shape. How do they differ from a spiral?",
      "wait": "Do this the next day."
     },
     {
@@ -1381,7 +1381,7 @@
      "mins": 5,
      "do": "Read the problem together, and list the three things the model must show.",
      "say": "Your model must show three things. Far things move apart more. There is no centre. The galaxies don't grow. What could you use?",
-     "kid": "Your model must show three things. What could you use?",
+     "kid": "Pick the things from home you will use. A balloon, stretchy cloth or elastic may help.",
      "context": "This is the first step of the No Centre challenge. You design your own model of the expanding universe."
     },
     {
@@ -1389,7 +1389,7 @@
      "mins": 15,
      "do": "Your child builds and tests their model.",
      "say": "Build it. Then test it. Does it show all three things?",
-     "kid": "Build your model. Test it. Does it show all three?",
+     "kid": "Build your model. Then test the three things one by one.",
      "ask": [
       {
        "q": "Which of the three things is hardest to show?",
@@ -1405,7 +1405,7 @@
      "mins": 10,
      "do": "Your child shows the model to someone who has not done the unit, and asks what they see.",
      "say": "Show it to someone who has not done the unit. Don't explain at first. Can they see all three things?",
-     "kid": "Show it to someone. Can they see all three things?"
+     "kid": "Show your model without explaining it. Ask what they see."
     }
    ],
    "setup": [
@@ -1418,7 +1418,7 @@
      "caption": "2. Build and test your model."
     }
    ],
-   "context": "This is the No Centre challenge. You design your own model of the expanding universe."
+   "context": "You will make a model of the expanding universe from things at home, and find out whether someone else can read it."
   }
  ],
  "videos": [

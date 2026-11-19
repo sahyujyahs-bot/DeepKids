@@ -554,7 +554,7 @@
    "title": "Flash and Answer: the firefly torch game",
    "mins": 20,
    "players": "2 to 4 players, in a dark room or outside after sunset; a grown-up helps",
-   "context": "This is a game where you pretend to be fireflies. Fireflies are beetles that flash light to find a partner of their own kind. Each player gets a secret code card and a torch.",
+   "context": "This is a game where you pretend to be fireflies. Fireflies are beetles that flash light to find a partner of their own kind. Each player gets a secret code card and a torch. You will find out how fireflies find the right partner, and what a bright lamp does to them.",
    "printables": [
     {
      "kind": "cards",
@@ -685,8 +685,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Switch on the lights. Count the tokens and talk about the game.",
-     "say": "Who found the most partners? Was anyone tricked? Now think about real fireflies. What would happen to them if every field had a bright lamp all night?",
-     "kid": "Count your tokens. Were you tricked? Think about real fireflies. What would a bright lamp do to them?",
+     "say": "Who found the most partners? Was anyone tricked? Now let's think about real fireflies.",
+     "kid": "Count your tokens. Were you tricked?",
      "check": {
       "t": "mcq",
       "q": "In the game, a bright street lamp stopped everyone finding partners. Why is this a problem for real fireflies?",
@@ -721,7 +721,7 @@
    "title": "Deep Dark Sea: a card game of glowing jobs",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a card game about the deep sea, where sunlight never reaches. Animals there make their own light for four jobs: to catch food, to hide, to scare attackers and to talk.",
+   "context": "This is a card game about the deep sea, where sunlight never reaches. Animals there make their own light for four jobs: to catch food, to hide, to scare attackers and to talk. You will find out which job most deep-sea lights do.",
    "printables": [
     {
      "kind": "cards",
@@ -859,7 +859,7 @@
      "mins": 4,
      "do": "Play the anglerfish card together as a practice.",
      "say": "The anglerfish has a glowing ball dangling from their head, right in front of their mouth. Which job is that?",
-     "kid": "Anglerfish. A glowing ball hangs in front of their mouth. Catch, hide, scare or talk?",
+     "kid": "Find the anglerfish card. Read it, then choose the mat it goes on.",
      "check": {
       "t": "mcq",
       "q": "An anglerfish dangles a glowing ball in front of their mouth. What is the light for?",
@@ -876,7 +876,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Take turns, as in the rules. Draw, read an animal card aloud, and place the card on the right mat.",
+     "do": "Take turns, as in the rules. Take the top card from the pile. If it is an animal card, read the card aloud and place it on the right mat.",
      "say": "Read your card. Which job? And how does the light do that job?",
      "kid": "Read your card. Put it on a mat. Say how their light helps.",
      "parent": "The tricky job is HIDE. It seems strange to hide by glowing. Explain it like this: from below, a fish looks like a dark shape against the faint light above. Belly lights fill in the dark shape, so it disappears. The Atolla jellyfish card is a burglar alarm: their flashes may call a bigger hunter to eat the attacker."
@@ -1491,7 +1491,7 @@
    "title": "Warm Glow, Cold Glow: does warmth change a glow stick?",
    "mins": 23,
    "days": 2,
-   "context": "This is the glow stick test. You put glow sticks in cold, room-temperature and warm water, then compare how bright they glow. A glow stick makes light with a chemical reaction, a bit like a firefly does.",
+   "context": "This is the glow stick test. You put glow sticks in cold, room-temperature and warm water, then compare how bright they glow. You will find out whether heat changes how bright a glow stick shines. A glow stick makes light with a chemical reaction, a bit like a firefly does.",
    "question": "Does a glow stick glow brighter in cold water or in warm water?",
    "predict": "Before you start, guess. Will the glow stick in warm water be brighter, dimmer or the same as the one in cold water? Say why.",
    "fair_test": "To make it fair, change only one thing: how warm the water is. Use three glow sticks of the same colour and size, from the same packet. Snap them at the same moment. Use the same amount of water in the same kind of glass.",
@@ -1588,7 +1588,7 @@
      "mins": 3,
      "do": "Show your child a glow stick. Do not snap it yet. Ask what they notice.",
      "say": "This is a glow stick. Inside is a thin glass tube with one liquid, floating in another liquid. When I bend it, the tube cracks, the liquids mix, and they react. That makes light. A firefly makes light by mixing chemicals too. Do you think warm water or cold water will make the glow brighter?",
-     "kid": "Look at the glow stick. Inside are two liquids, kept apart. Bend it and they mix. Then it glows! Guess: brighter in warm water, or in cold?",
+     "kid": "Look at the glow stick. Inside are two liquids, kept apart. Bend it and they mix. Then it glows!",
      "context": "This is the first step of the glow stick test. You find out whether warm or cold water changes how bright a glow stick shines.",
      "ask": [
       {
@@ -1606,7 +1606,7 @@
      "mins": 4,
      "do": "1. Put ice and cold water in the first glass. 2. Put room-temperature water in the second. 3. Put warm water in the third. 4. Fill all three to the same height.",
      "say": "Let's fill three glasses to the same height. One icy, one normal, one warm, like a bath. Feel each one with a finger.",
-     "kid": "Help fill three glasses to the same height. One icy. One normal. One warm, for a grown-up to pour. Feel each with one finger.",
+     "kid": "Help fill three glasses to the same height. One icy, one normal and one warm. A grown-up pours the warm one. Feel each with one finger.",
      "adult": true,
      "parent": "The warm water should be just warm enough that you can keep a finger in it comfortably. Never use boiling water."
     },
@@ -1716,7 +1716,7 @@
      "what": "Press a glowing glow stick on your wrist, then one that has not been snapped, and compare. Measure with a thermometer if you have one. Say what you think, what you felt and why."
     }
    ],
-   "record": "Fill in the table. Draw the two glow sticks and write which one felt warmer, or the same.",
+   "record": "Fill in the table. Write which stick felt warmer, or the same. You can also take a photo of the two sticks.",
    "setup": [
     {
      "art": "Two glow sticks side by side on a cloth, one snapped and glowing, one whole.",
@@ -1745,7 +1745,7 @@
      "mins": 4,
      "do": "Your child presses the glowing stick on the inside of a wrist for a count of twenty. Then they press the stick that was not snapped on the same place, for a count of twenty. Then do both again in the other order.",
      "say": "Press the glowing one on your wrist. Count to twenty. Now the one we did not snap. Which is warmer? Now try again, the other way round.",
-     "kid": "Press the glowing stick on your wrist and count to twenty. Now do the same with the stick that was not snapped. Which felt warmer?",
+     "kid": "Press the glowing stick on your wrist and count to twenty. Now do the same with the stick that was not snapped. Notice how each one feels.",
      "check": {
       "t": "mcq",
       "q": "Which stick felt warmer on your wrist?",
@@ -1821,7 +1821,7 @@
      "what": "Keep both stars in the dark for an hour first (this wait is not counted). Charge star A for 10 seconds and star B for 60 seconds, finishing together. Watch which glows brighter and which fades first, for up to 10 minutes."
     }
    ],
-   "record": "Fill in the table. Draw two bars, one for each star.",
+   "record": "Fill in the table. Then cut two paper strips, one for each star. Make the strip longer for the star that glowed longer.",
    "setup": [
     {
      "art": "Two glow-in-the-dark stars on a table, one under a torch beam, and a phone showing a stopwatch.",
@@ -1918,7 +1918,7 @@
    "title": "Snap! A light with no switch",
    "mins": 10,
    "days": 1,
-   "context": "This is a short first activity for the unit. In a dark room, you snap a glow stick and notice everything you can about its light. It works a bit like a firefly.",
+   "context": "This is a short first activity for the unit. In a dark room, you snap a glow stick and notice everything you can about its light. You will see light come from a stick with no battery. A firefly also makes light with chemistry.",
    "materials": [
     {
      "item": "1 glow stick",
@@ -1966,8 +1966,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Your child bends the stick till it clicks, then shakes it.",
-     "say": "Bend it till you hear a click. Shake it. What do you notice?",
-     "kid": "Bend it till it clicks. Shake it. What happens?",
+     "say": "Bend it till you hear a click. Then shake it.",
+     "kid": "Bend it till it clicks. Shake it. Watch the light.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -2036,7 +2036,7 @@
      "what": "After sunset, walk to a dark garden, park or field. Count flashes for one minute in two places."
     }
    ],
-   "record": "Make tally marks of flashes. Write the place and the time. Draw one firefly you saw.",
+   "record": "Make tally marks of flashes. Write the place and the time. Tell your grown-up about one firefly you saw, or draw it.",
    "setup": [
     {
      "art": "A grown-up and a child at the edge of a dark field at dusk, the torch covered with red cloth.",
@@ -2170,8 +2170,8 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child draws and cuts out 3 to 5 deep-sea animals. Stick a small glow star, or dab glow paint, only where each animal makes light.",
-     "say": "Let's make an anglerfish, a jellyfish and a hatchetfish. Where does each one glow? Add glow only to those parts.",
+     "do": "Your child makes 3 to 5 deep-sea animals from card. They can draw them first, or just cut simple shapes. Stick a small glow star, or dab glow paint, only where each animal makes light.",
+     "say": "Let's make an anglerfish, a jellyfish and a hatchetfish. The anglerfish glows on the lure, the hatchetfish on the belly, and the jellyfish in a ring. Add glow only to those parts.",
      "kid": "Make 3 to 5 sea creatures from card. Add glow only where each one glows.",
      "parent": "The anglerfish glows on the ball dangling in front of their mouth. The hatchetfish glows along their belly. A jellyfish can glow in a ring. Lanternfish have rows of dots along their sides."
     },
@@ -2232,7 +2232,7 @@
      "what": "Hold a paper fish against a glowing screen. Make its shape vanish with a torch from the front."
     }
    ],
-   "record": "Draw the fish before and after. Write: from below, a dark fish shows up because...",
+   "record": "Take a photo of the fish before and after the torch, or tell what you saw. Finish the sentence: from below, a dark fish shows up because...",
    "setup": [
     {
      "art": "A paper fish held flat against a dim glowing white screen in a dark room, showing as a darker shape.",
@@ -2324,7 +2324,7 @@
      "what": "Act out three short deep-sea scenes with lights."
     }
    ],
-   "record": "Draw your favourite scene.",
+   "record": "Tell your grown-up your favourite scene and which light job it showed. You can draw it too.",
    "setup": [
     {
      "art": "A family in a dim living room, one person holding a glow stick on a string in front of their face like an anglerfish lure.",
@@ -2425,7 +2425,7 @@
      "what": "Count again. Make a bar chart of your three nights. Write a short report."
     }
    ],
-   "record": "Each night write the date, time, weather and your count. On night 3, draw a bar chart.",
+   "record": "Each night write the date, time, weather and your count. On night 3, make a bar chart, drawn or built from coins.",
    "setup": [
     {
      "art": "A child and a parent marking a spot with a stone at the edge of a garden at dusk.",
@@ -2471,9 +2471,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On night 3, draw a bar chart with one bar for each night.",
+     "do": "On night 3, make a bar chart with one bar for each night. Draw it, or stack a coin for each flash.",
      "say": "Let's draw a bar for each night. Which night had the most? What was different that night?",
-     "kid": "Draw one bar for each night. Which night had the most flashes? Why, do you think?",
+     "kid": "Make one bar for each night. Draw it, or stack a coin for each flash.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: firefly flashes counted in 3 minutes",
@@ -2513,9 +2513,9 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "Write a short report: where, when, what you counted and what you think.",
+     "do": "Write or say a short report: where, when, what you counted and what you think.",
      "say": "Let's write a short science report. What do you think? What did you count? Why?",
-     "kid": "Write your report: what you think, what you counted, and why.",
+     "kid": "Write or say your report: what you think, what you counted, and why.",
      "parent": "A good report: Fireflies like warm, damp nights. I counted 31 flashes after the rain and 9 on the cool windy night. Fireflies may flash more when it is warm and wet. Firefly scientists around the world collect counts like these. Ask if a local nature group collects them."
     }
    ],
@@ -2550,7 +2550,7 @@
     "Let them keep glowing bacteria in a pocket, and switch them off with a flap of skin, like a flashlight fish.",
     "Let them flash a burglar alarm that calls a bigger hunter."
    ],
-   "your_turn": "Now draw your own creature. Give them a name. Label each light and its job. Then build it from clay or card, and look at it in a dark shoebox or a dark room.",
+   "your_turn": "Now invent your own creature. Draw it, or shape it from clay or card. Give them a name. Say what each light is for. Then look at it in a dark shoebox or a dark room.",
    "setup": [
     {
      "art": "A sheet of paper with a sketch of an odd fish, and small arrows pointing to three glowing spots.",
@@ -2577,9 +2577,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws the creature and marks up to three lights.",
-     "say": "Draw your creature. Where will they glow? Remember, no more than three lights.",
-     "kid": "Draw your animal. Mark up to three glowing spots."
+     "do": "Your child draws the creature, or shapes it from clay or card, and marks up to three lights.",
+     "say": "Draw or shape your creature. Where will they glow? Remember, no more than three lights.",
+     "kid": "Draw or shape your animal. Mark up to three glowing spots."
     },
     {
      "id": "s3",
@@ -2635,7 +2635,7 @@
     "Use warm, dim lamps instead of bright white ones.",
     "Leave a dark 'firefly corner' in every park."
    ],
-   "your_turn": "Now design your own park lighting. Draw it. Build it with cups and torches. Can you keep the path bright and the firefly corner dark?",
+   "your_turn": "Now design your own park lighting. Build it with cups and torches, and test it. Can you keep the path bright and the firefly corner dark?",
    "setup": [
     {
      "art": "A paper path on a dark floor with glow-in-the-dark stars scattered in a 'bush' area beside it.",
@@ -2664,7 +2664,7 @@
      "mins": 5,
      "do": "Point an unshaded torch at the ceiling above the path, so its light spreads all around the room. Look at the fireflies.",
      "say": "Here's an ordinary lamp. What happens to our fireflies?",
-     "kid": "Shine the torch all around. Can you still see the fireflies?",
+     "kid": "Turn on the torch with no shade, pointing at the ceiling. Look at the fireflies.",
      "check": {
       "t": "mcq",
       "q": "In the Light the Path test, the torch with no shade lit up everything. What happened to the 'fireflies'?",
@@ -2689,7 +2689,7 @@
      "mins": 5,
      "do": "Compare designs and pick the best.",
      "say": "Which design kept the path brightest and the firefly bush darkest? Why?",
-     "kid": "Which design worked best? Why?",
+     "kid": "Look at all the designs. Pick the one you think worked best.",
      "think": "Where near our home is there a light that shines where nobody needs it?",
      "parent": "Good answers are a street lamp that shines on a wall or up into the sky, or a sign left on all night. These lights waste energy. They can also stop fireflies from seeing each other's flashes."
     }

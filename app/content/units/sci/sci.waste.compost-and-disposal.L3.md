@@ -213,8 +213,8 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
   *Child mode:* You have a compost pot. Keep it sweet, not sour. Mix the cards and start.
 - **s2 (12 min)**  
   *Parent does:* Take turns. After each turn, count the greens and browns in your pot.  
-  *Parent says:* Your pot has three greens and one brown. Is it sweet or sour? Why?  
-  *Child mode:* Count your greens and browns. If you have more greens than browns, your pot goes sour.
+  *Parent says:* Look at your pot. Which do you have more of, greens or browns? Is it sweet or sour?  
+  *Child mode:* Count your greens and browns. Which do you have more of?
   - Ask: Why does a pot with more greens than browns go sour? (good: Too wet.; Not enough air.; The browns soak up the wet and let air in.)
   - Note: When a pot turns sour, ask what would fix it in real life: more browns, and stirring.
 - **s3 (5 min)**  
@@ -229,13 +229,13 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 - **predict:** Before you start, guess. Which jar will smell worse after a week, A with peels alone or B with peels and paper? And why do you think so?
 - **fair test:** Both jars are the same size, hold the same amount of the same peels, get one spoon of soil each, are pressed down the same amount and stand side by side under the same cloth. Only one thing is different: the paper in jar B. So any difference comes from the paper.
 - **safety:** A grown-up cuts the bottles and chops the peels. Never put your nose into a jar. Lift the cloth and waft the smell towards you with your hand. Use a spoon, not fingers, to poke the peels. Wash hands with soap after every check. Keep the jars away from the food and cooking area.
-- **record:** Fill in the table on days 3, 5, 7 and 10. On day 10, draw what the inside of each jar looked like, and draw a bar chart of the day 10 smell scores.
+- **record:** Fill in the table on days 3, 5, 7 and 10. On day 10, draw what the inside of each jar looked like, or take a photo. Write the day 10 smell scores in the table.
 - **results table:** Day | Jar A, peels alone: liquid at the bottom? (yes or no) | Jar A: what it looks like | Jar A: smell (0 none to 5 very bad) | Jar B, peels and paper: liquid at the bottom? | Jar B: what it looks like | Jar B: smell (0 to 5)
 - **schedule:** day 1: Make your guess and give a reason. Set up jars A and B. Cover them and put them side by side in the shade. (23 min); day 3: Look at both jars through the side. Waft the smell. Fill in the table. (4 min); day 5: Look, waft and fill in the table. (4 min); day 7: Look, waft and fill in the table. Look for white threads, with a magnifying glass if you have one. (4 min); day 10: Waft and score both jars a last time. Tip both jars out onto newspaper and look inside. Say what you think, what you saw and why. (15 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the bowl of chopped peels and the pile of torn paper. 2. Explain the two jars. 3. Ask for a guess and a reason, and write both down.  
   *Parent says:* We are going to fill two jars with the same peels. Jar B also gets dry paper mixed in. In a week, which jar do you think will smell worse? Why do you think so?  
-  *Child mode:* Two jars get the same peels. Jar B also gets dry paper. Which jar will smell worse in a week? Why?
+  *Child mode:* Two jars get the same peels. Only jar B gets dry paper. Make your guess.
   - Ask: Which jar do you think will smell worse, and why? (good: Jar A, because it is all wet.; Jar B, because paper rots too.; Any guess with a reason is good.)
   - Note: Write the guess and the reason in the notebook before you start. Don't explain anything yet. The test will answer it.
 - **s2 (8 min) · grown-up needed**  
@@ -268,9 +268,9 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
   - Note: The bottom of jar A is usually a grey or black, slimy, sour layer. That is where there was least air. Jar B is usually more crumbly, with paper strips going soft and brown. Afterwards, put everything into a compost pot or the wet-waste bin, and wash your hands with soap.
   - Check: Jar A had only peels. Jar B had peels and paper. Jar A went slimy and sour. Why? → **The peels in jar A were pressed together, so air could not get in**
 - **s7 (7 min)**  
-  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why. Write them in the notebook. Then draw a bar chart of the day 10 smell scores.  
-  *Parent says:* Tell me what you think now. What did you see and smell? And why do you think it happened? Then let's draw a bar for each jar.  
-  *Child mode:* Say what you think now. Say what you saw and smelled. Then say why it happened. Then draw a bar for each jar.
+  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why. Write them in the notebook. Then build a button tower for each jar, one button for each smell point.  
+  *Parent says:* Tell me what you think now. What did you see and smell? And why do you think it happened? Then let's build a button tower for each jar, one button for each smell point. Use buttons, coins or small stones.  
+  *Child mode:* Say what you think now. Say what you saw and smelled. Then say why it happened. Then build a button tower for each jar. Use one button for each smell point.
   - Ask: What did the paper change? (good: It soaked up the water.; It let air in, so different microbes did the work.; Jar B smelled more like soil.)
   - Note: A strong answer joins the three parts: 'I think the paper helps. Jar A was wet and sour, jar B was drier and smelled like soil. The paper soaked up the water and let air in.' Only now explain aerobic and anaerobic microbes, using the explanation cards.
 ### e2 · Stir or Leave: does stirring a jar of peels change the smell? (40 min, 7 days)
@@ -278,7 +278,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 - **predict:** Guess first. Will the stirred jar smell better, worse or the same as the jar that is left alone? And why do you think so?
 - **fair test:** Both jars are the same size and hold the same amount of the same peels. Each gets one spoon of soil and the same cloth cover, and they stand in the same place. Only one thing is different: jar C is stirred for 10 seconds every day.
 - **safety:** A grown-up chops the peels. Waft the smell, never sniff inside a jar. Wash hands with soap after stirring. Keep the stirring stick with the jars, away from the kitchen.
-- **record:** Fill in the table every day. On day 7, draw a line for each jar's smell score across the week.
+- **record:** Fill in the table every day. On day 7, read each jar's smell scores across the week and say which jar smelled worse.
 - **results table:** Day | Jar C, stirred: smell (0 to 5) | Jar C: liquid at the bottom? | Jar D, not stirred: smell (0 to 5) | Jar D: liquid at the bottom?
 - **schedule:** day 1: Make your guess and give a reason. Set up jars C and D. (15 min); day 2: Stir jar C for 10 seconds. Score both smells. (3 min); day 3: Stir jar C. Score both. (3 min); day 4: Stir jar C. Score both. (3 min); day 5: Stir jar C. Score both. (3 min); day 6: Stir jar C. Score both. (3 min); day 7: Score both a last time. Compare them, and say what you think, what you saw and why. (10 min)
 - **s1 (5 min)**  
@@ -298,37 +298,37 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
   - Note: Jar D often smells sourer by day 4 or 5, with liquid at the bottom. Jar C may smell less, because stirring brings the bottom peels up to the air. The difference is usually smaller than in the Peels Alone or Peels with Paper test, because the peels in jar C are still wet. Right after you stir, jar C can smell stronger for a few minutes. Score it after a minute. If the two jars smell about the same, that is a real result too. It shows that air and dryness both matter.
   - Wait: Stir jar C and score both jars once a day, from day 2 to day 6.
 - **s4 (10 min)**  
-  *Parent does:* 1. On day 7, compare the two jars. 2. Ask your child to say what they think, what they saw, and why. 3. Draw a line for each jar's scores across the week.  
+  *Parent does:* 1. On day 7, compare the two jars. 2. Ask your child to say what they think, what they saw, and why. 3. Read each jar's scores across the week, and point to the day each jar smelled worst.  
   *Parent says:* Which jar smelled worse by the end? What do you think stirring did?  
-  *Child mode:* Which jar smelled worse? What did stirring do? Draw a line for each jar.
+  *Child mode:* Which jar smelled worse? What did stirring do? Point to the day each jar smelled worst.
   - Note: Afterwards, add both jars to a compost pot or the wet-waste bin.
   - Check: One jar of peels was stirred every day. Another jar was left alone. The stirred jar smelled less sour. Why? → **Stirring let air reach the peels at the bottom**
 
 ## Activities
 ### a1 · Two Smells: soil and the kitchen bin (10 min)
 - **safety:** Waft smells towards your nose with your hand. Never put your face into the bin. Wash hands with soap afterwards.
-- **record:** Draw the soil and the bin. Write one word for each smell, and one question you want answered.
+- **record:** Write one word for each smell, and one question you want answered. Draw the soil and the bin if you like.
 - **s1 (3 min)**  
   *Parent does:* 1. Take your child to a potted plant. 2. Show how to waft: wave the air over the soil towards your nose. 3. Ask what it smells like.  
   *Parent says:* Let's smell the soil in this pot. Wave the air towards your nose, like this. What does it smell like?  
-  *Child mode:* Wave the air over the soil towards your nose. What does it smell like?
+  *Child mode:* Wave the air over the soil towards your nose.
   - Ask: What does the soil smell like? (good: Like rain.; Like earth.; Fresh, a bit like mud.)
 - **s2 (3 min)**  
   *Parent does:* 1. Open the wet-waste bin. 2. Waft the smell the same way. 3. Ask what it smells like.  
   *Parent says:* Now smell the bin the same way. What does this smell like?  
-  *Child mode:* Now wave the smell from the bin towards you. What does it smell like?
+  *Child mode:* Now wave the smell from the bin towards you.
   - Ask: What does the bin smell like? (good: Sour.; Like old curd.; Yucky, rotten.)
   - Note: A day-old bin of peels with a lid usually smells a little sour. If yours does not smell, look at the bottom for any liquid.
 - **s3 (4 min)**  
   *Parent does:* 1. Tell your child that soil is made partly from old dead leaves and plants. 2. Ask the puzzle. 3. Write their question in the notebook.  
   *Parent says:* Soil is made partly from old dead leaves and plants. The bin is full of old dead plants too. So why do they smell so different? What do you think?  
-  *Child mode:* Soil is partly made of old dead plants. So is the bin. Why do they smell so different?
+  *Child mode:* Soil is partly made of old dead plants. So is the bin. Think about the two smells.
   - Ask: Why might they smell different? (good: One is older.; The bin has a lid.; Different tiny living things are there.; Any idea with a reason is good.)
   - Note: Don't give the answer. The Peels Alone or Peels with Paper test answers it.
   - Think: Keep your idea. The Peels Alone or Peels with Paper test, with two jars of peels, will help you check it.
 ### a2 · Greens, Browns, or Not in the Pot? (15 min)
 - **safety:** A grown-up handles the battery and any bones. Wash hands with soap afterwards.
-- **record:** Draw the three sheets and write what went on each.
+- **record:** Write what went on each of the three sheets, or take a photo of the sheets.
 - **s1 (3 min)**  
   *Parent does:* Explain the three sheets: greens are wet, fresh plant waste. Browns are dry plant waste and paper. Not in the pot is everything else.  
   *Parent says:* Greens are wet and fresh, like peels. Browns are dry, like old leaves and paper. Some things should not go in a small compost pot at all.  
@@ -346,7 +346,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
   *Child mode:* Greens and browns go to the compost pot. The rest goes in the right bin.
 ### a3 · Where Does Our Garbage Go? (25 min)
 - **safety:** Go with a grown-up to talk to the garbage collector or the building's housekeeping staff. Ask at a time that suits them.
-- **record:** Draw a map of your garbage's journey, from your kitchen to where it ends up.
+- **record:** Tell your grown-up the journey of your garbage, from your kitchen to where it ends up. Draw a map if you like.
 - **s1 (3 min)**  
   *Parent does:* Help your child write three questions to ask.  
   *Parent says:* Let's find out where our garbage goes. What shall we ask the person who collects it?  
@@ -358,15 +358,15 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
   *Child mode:* Say thank you first. Then ask your questions. Write the answers.
   - Note: Many of the people who collect and sort waste are women. Their work keeps the city clean, and it is often hard and dirty because homes mix their waste. Let your child hear that.
 - **s3 (12 min)**  
-  *Parent does:* 1. Find the place they named on a map, together. 2. Look at a photo of it if you can. 3. Your child draws the journey.  
-  *Parent says:* Let's find it on the map. How far does our garbage travel? Now let's draw its journey.  
-  *Child mode:* Find the place on the map. How far is it? Draw the journey.
+  *Parent does:* 1. Find the place they named on a map, together. 2. Look at a photo of it if you can. 3. Your child tells the journey by tracing it on the map with a finger.  
+  *Parent says:* Let's find it on the map. How far does our garbage travel? Now let's trace its journey with a finger.  
+  *Child mode:* Find the place on the map. How far is it? Trace the road with your finger and tell the journey.
   - Note: In many cities wet waste goes to a dump. Some cities, such as Mysuru and Indore, send sorted wet waste to compost or biogas plants. If nobody knows, that is an answer too.
 
 ## Projects
 ### p1 · Our Balcony Compost Pot (75 min, 56 days)
 - **safety:** A grown-up makes the holes. A heated skewer melts holes easily but gets very hot: hold it with a cloth, and keep children back. Wear gloves to stir, and wash hands with soap. Keep cooked food, milk, meat and oil out, so the pot does not bring rats.
-- **record:** Keep a compost diary: the date, what you added, the smell, whether it felt warm, and what you saw. Draw the pot on days 1, 28 and 56.
+- **record:** Keep a compost diary: the date, what you added, the smell, whether it felt warm, and what you saw. Draw the pot on days 1, 28 and 56, or take a photo each time.
 - **schedule:** day 1: Make the holes. Put a layer of browns and 2 handfuls of soil at the bottom. Add the first peels and cover them with twice as much browns. (30 min); day 2: Add today's peels. Cover them with browns. Do this every day. (3 min); day 4: Stir the pot from the bottom up. Do the squeeze test. Stir every 3 or 4 days from now on. (5 min); day 7: Waft the smell. Put a hand on the side: is it warm? Write it down. A small pot may feel slightly warm or not warm at all. (5 min); day 14: Stir, smell and look for white fungus threads, mites and other small helpers. (5 min); day 28: Stop adding peels when the pot is about three-quarters full. Start a second pot if you can. Keep stirring this one. (5 min); day 42: Stir and look. Can you still see peels? Is the bottom turning dark and crumbly? (5 min); day 56: Tip out the compost. Pick out any big pieces to go back in. If it is not dark and crumbly yet, leave it 2 to 4 more weeks. Mix the compost into the soil of a pot and plant a seedling in it. (17 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Heat the tip of a skewer on the stove, holding it with a cloth. 2. Melt about 20 small holes around the sides and bottom of the bucket. 3. Melt about 6 in the lid. 4. Stand the bucket on a tray.  
@@ -393,25 +393,25 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 - **s5 (17 min)**  
   *Parent does:* 1. When the pot has had no new peels for about 4 weeks, tip it out onto newspaper. 2. Pick out any big pieces and put them back in the next pot. 3. Mix the compost into a plant pot, about one part compost to three parts soil. 4. Plant a seedling or some seeds.  
   *Parent says:* Look at it now. Can you find any peels? Smell it. What does it smell like?  
-  *Child mode:* Tip it out. Can you find any peels? Smell it. Now plant something in the compost!
+  *Child mode:* Tip it out onto newspaper. Look and smell. Now plant something in the compost!
   - Note: Ready compost is dark, crumbly and smells like damp earth. In hot weather it can take 6 weeks after the last peels. In cool weather it can take 3 months. Don't use it alone as soil. Mix it with ordinary soil. If it is still lumpy and you can see peels, leave it a few more weeks.
 
 ## Challenges
 ### c1 · The No-Smell Kitchen Composter (35 min)
 - **problem:** Many families in flats want to compost, but they worry about smell and flies. Design a small composter that fits under a kitchen sink or on a balcony and does not smell.
-- **your turn:** Now design your own composter. Draw it with labels: where the air gets in, where the browns go, and how it keeps flies out. Build it and use it for one week. Does it smell?
+- **your turn:** Now design your own composter. Draw it with labels, or tell your grown-up: where the air gets in, where the browns go, and how it keeps flies out. Build it and use it for one week. Does it smell?
 - **constraints:** Use only things you have at home.; It must hold at least 3 days of your family's peels.; It must not smell when you stand next to it, and flies must not get in.; A grown-up must be able to empty it easily.
 - **general:** A bucket with many small air holes, and a cloth under the lid to keep flies out.; Three terracotta pots stacked on top of each other. Fill the top one. When it is full, move it down and start a new top pot. Many families in Bengaluru compost this way.; Keep a box of browns next to the bin, and cover every handful of peels with two handfuls of browns.
 - **creative:** Make a small bin with a tube up the middle, full of holes, so air reaches the centre.; Always keep a thick layer of dry leaves on top, so that no peel shows. Fruit flies gather on peels that show.; Find out about bokashi: food is sealed in a bucket with special microbes and it ferments, like a pickle, instead of rotting. Why does that not smell rotten?
 - **s1 (5 min)**  
   *Parent does:* Remind your child of jar A in the Peels Alone or Peels with Paper test, which had only peels and went sour. Ask what made it smell.  
   *Parent says:* In the Peels Alone or Peels with Paper test, jar A had only peels. It went sour and slimy. What made it smell? So what must our composter do?  
-  *Child mode:* In the Peels Alone or Peels with Paper test, the jar with only peels went sour. What made it smell? What must your composter do?
+  *Child mode:* In the first test, the jar with only peels went sour. What made it smell?
   - Ask: What must a no-smell composter do? (good: Let air in.; Have dry browns to soak up water.; Keep flies out.)
 - **s2 (10 min)**  
-  *Parent does:* Draw three different ideas together, before building anything.  
-  *Parent says:* Engineers draw before they build. Let's draw three ideas. Where does the air get in?  
-  *Child mode:* Draw three ideas. Show where the air gets in. Show how flies stay out.
+  *Parent does:* Draw three different ideas together, or lay them out with the real buckets and pots, before building anything.  
+  *Parent says:* Engineers plan before they build. Let's plan three ideas. Where does the air get in?  
+  *Child mode:* Draw or lay out three ideas. Show where the air gets in. Show how flies stay out.
 - **s3 (20 min) · grown-up needed**  
   *Parent does:* 1. Pick the best idea. 2. Build it, with a grown-up making any holes. 3. Use it for a week. 4. Smell it every day and write down what you find.  
   *Parent says:* Let's build the best idea and use it for a week. Each day, we smell it and write it down. What would you change?  

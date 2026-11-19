@@ -349,7 +349,7 @@
    "title": "Magnet Boats: what does a pushed-away magnet do?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you float two bar magnets on plastic lids in a tub of water. You find their north poles, then test what happens when poles face each other, and what a pushed-away magnet does when you let it go.",
+   "context": "In this experiment you float two bar magnets on plastic lids in a tub of water. You will find out why a magnet that is pushed away does not stay away. First find the north poles. Then test what happens when poles face each other.",
    "question": "When two floating magnets repel each other, do they stay apart?",
    "predict": "Guess first. Float two magnets with their north poles facing each other, and let go. Will they stay apart, drift away, or end up stuck together? Why do you think so?",
    "fair_test": "Use the same two magnets, the same lids and the same tub every time. In the gap test, start each try 15 cm away and move in at the same slow speed. In the let-go test, start each try with the magnets 10 cm apart, and let go gently without pushing. Only change which poles face each other. Do each pairing 3 times, because one try can be a fluke. Switch off the fan, because moving air pushes the lids.",
@@ -394,7 +394,7 @@
      "what": "Float one magnet to find its north pole. Label both magnets. Test north to south, north to north and south to south. Let the boats go and watch what they do."
     }
    ],
-   "record": "Fill in the table for each try. Leave the gap column blank for S to S, because you do not do the gap test for S to S, only the let-go test. Then draw what the two boats did after you let go, in three pictures.",
+   "record": "Fill in the table for each try. Leave the gap column blank for S to S, because you do not do the gap test for S to S, only the let-go test. Then show what the two boats did after you let go: draw three pictures, take three photos, or tell it to your grown-up.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -446,15 +446,15 @@
      "context": "This is the first step of Magnet Boats. You float one magnet so it can turn freely, and find its north pole.",
      "do": "1. Switch off the fan. 2. Fill the tub with water nearly to the top. 3. Lay one magnet in the middle of a lid. 4. Float the lid in the middle of the tub. 5. Wait about a minute until it stops turning.",
      "say": "A magnet that can turn freely settles pointing north and south. Let's see which end turns north.",
-     "kid": "Switch off the fan. Put a magnet on a lid. Float the lid in the middle. Wait. Watch it turn.",
+     "kid": "Watch the lid turn. Where does it stop?",
      "parent": "Keep the tub a metre from the fridge, the gas cylinder and steel almirahs, because iron nearby can turn the magnet. A full tub stops the lid from hitting the sides. The turning is slow. If the lid drifts to the edge, nudge it back with a pencil."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Check north with the phone compass, held at arm's length from the magnet. 2. Label the end pointing north 'N' and the other end 'S'. 3. Label the second magnet by holding its ends near the floating magnet's N end. The end that is pushed away is N.",
+     "do": "1. Check north with the phone compass, held at arm's length from the magnet. 2. Label the end pointing north 'N' and the other end 'S'. 3. Label the second magnet: hold its ends near the floating magnet's N end. Mark the end that is pushed away N, and the other end S.",
      "say": "The end pointing north is the north pole. Now let's use it to find the north pole of the other magnet.",
-     "kid": "Which end points north? Write N on it. The other end is S. Now label the second magnet too.",
+     "kid": "Write N on the end that points north, and S on the other end. Then label the second magnet.",
      "ask": [
       {
        "q": "How can you tell which end of the second magnet is north?",
@@ -471,15 +471,15 @@
      "mins": 8,
      "do": "1. Let the floating magnet settle. 2. Hold the second magnet's S end 15 cm from the floating N end. 3. Move it closer slowly, about 1 cm every 2 seconds. Hold a ruler just above the water, beside the two magnets. 4. Stop when the boat first moves, and read the gap between the two ends. 5. Do it 3 times, then repeat with N facing N.",
      "say": "Let's find out how close a magnet must come before the boat feels its force. First south to north, then north to north.",
-     "kid": "Hold the S end far away. Move it closer, very slowly. Stop when the boat moves. Read the gap on the ruler. Write it down.",
+     "kid": "Move your magnet closer, very slowly. Stop the moment the boat moves. Read the gap on the ruler.",
      "parent": "Water lets the boat move with very little force, so it often moves at 5 to 10 cm with school bar magnets. Your numbers will be different. With N facing N, the boat often turns as well as moving away. Write down what you see."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Before the let-go test, ask your child for a guess and a reason. Write it down.",
-     "say": "Now we float both magnets, north facing north, 10 cm apart, and let go. What do you think will happen? Why do you think so?",
-     "kid": "Both magnets will float, north facing north. What will happen when you let go? Why?",
+     "say": "Next we float both magnets, north facing north, 10 cm apart, and let go.",
+     "kid": "Make your guess before you see it.",
      "ask": [
       {
        "q": "What do you think the boats will do, and why?",
@@ -494,8 +494,8 @@
      "id": "s5",
      "mins": 8,
      "do": "1. Put the second magnet on the other lid. 2. Hold both lids still, 10 cm apart, north ends facing. 3. Let go gently at the same time. 4. Watch for 1 minute. 5. Do it 3 times, then 3 times with S facing S.",
-     "say": "Let go gently, without pushing. Just watch. What does each boat do first? And then?",
-     "kid": "Hold both boats. North faces north. Let go gently. Watch for one minute. What happens first? What happens next?",
+     "say": "Let go gently, without pushing. Just watch.",
+     "kid": "Hold both boats still, north facing north. Let go gently and watch for one minute.",
      "check": {
       "t": "mcq",
       "q": "Two magnet boats start with their north poles facing. What usually happens after you let go?",
@@ -512,9 +512,9 @@
     {
      "id": "s6",
      "mins": 7,
-     "do": "1. Look at the table together. 2. Ask your child what the boats did, what they saw, and why they think it happened. 3. Then explain the rule.",
-     "say": "What did the boats do every time? What did you see? Why do you think it happened?",
-     "kid": "Say what you found. Say what you saw. Say why you think it happened.",
+     "do": "1. Look at the table together. 2. Ask your child what the boats did each time. 3. Then ask the question below, and explain the rule.",
+     "say": "Look at the table. What did the boats do every time?",
+     "kid": "Look at the table. Tell your grown-up what the boats did each time.",
      "ask": [
       {
        "q": "Why did the boats end up together, even when they started north facing north?",
@@ -570,7 +570,7 @@
      "what": "Slide two fridge magnets face to face in two directions. Count the bumps in 5 cm. Cut a strip and test it."
     }
    ],
-   "record": "Fill in the table. Draw the back of a fridge magnet with the stripes you think are there.",
+   "record": "Fill in the table. Draw the magnetic side of a fridge magnet with the stripes you think are there, or tell your grown-up how many stripes you think fit in 5 cm.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -616,7 +616,7 @@
      "context": "This is the first step of the Bumpy Slide. You test whether a bendy fridge magnet acts like a bar magnet.",
      "do": "1. Put one magnet magnetic side up on the table. 2. Lay the other on top, magnetic side down.",
      "say": "The magnetic side of each magnet is the side that holds to the fridge. Let's put the two magnetic sides together.",
-     "kid": "Put one magnet flat, magnetic side up. Lay the other on top, magnetic side down.",
+     "kid": "Lay the two magnets flat, with the two magnetic sides touching.",
      "parent": "The magnetic side is the plain brown or black side, without the picture. If the two will not stay together, one is upside down."
     },
     {
@@ -644,14 +644,14 @@
      "do": "1. Try the printed sides together. 2. Try the paper clip on the printed side, then on the magnetic side.",
      "say": "Does the printed side of the magnet attract anything?",
      "parent": "The printed side hardly attracts anything. The stripes of poles are on the magnetic face only. The paper clip clings to that side. It hardly clings to the printed side.",
-     "kid": "Try the printed sides together. Try the paper clip on the printed side. Then on the magnetic side."
+     "kid": "Which side holds the paper clip better, the printed side or the magnetic side?"
     },
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. A grown-up cuts a thin strip, about 1 cm wide, off one magnet. 2. Test the strip on the fridge. 3. Ask your child what they found, what they saw, and why they think it happened.",
-     "say": "If we cut a strip off, will it still be a magnet? Let's see. Then tell me what you found and why.",
-     "kid": "Watch the grown-up cut a strip. Does it stick to the fridge? What did you find out?",
+     "do": "1. A grown-up cuts a thin strip, about 1 cm wide, off one magnet. 2. Test the strip on the fridge. 3. Ask the question below.",
+     "say": "If we cut a strip off, will it still be a magnet? Let's see.",
+     "kid": "Watch the strip being cut. Hold it to the fridge. Does it stick?",
      "adult": true,
      "ask": [
       {
@@ -673,7 +673,7 @@
    "title": "The Push You Can Feel",
    "mins": 10,
    "days": 1,
-   "context": "This short activity is the way into the unit. You feel two magnets attract and repel with your own hands.",
+   "context": "This short activity is the way into the unit. You will find out that magnets can push as well as pull, and you feel it with your own hands.",
    "materials": [
     {
      "item": "2 bar magnets",
@@ -693,7 +693,7 @@
      "what": "Feel two magnets attract and repel. Chase one magnet across the table with the other, without touching."
     }
    ],
-   "record": "Draw two magnets that attract and two that repel. Use arrows.",
+   "record": "Tell your grown-up which way round the magnets were when they pulled and when they pushed, or draw them with arrows.",
    "setup": [
     {
      "art": "Two hands holding two bar magnets end to end with a small gap.",
@@ -710,8 +710,8 @@
      "mins": 4,
      "context": "This is the first step of The Push You Can Feel. You notice that magnets do two different things.",
      "do": "1. Give your child a magnet in each hand. 2. Ask them to bring the ends slowly together. 3. Then turn one magnet round and try again.",
-     "say": "Bring the ends together slowly. What do you feel? Now turn one round. What changes?",
-     "kid": "Hold a magnet in each hand. Bring them slowly together. What do you feel? Turn one round. Try again.",
+     "say": "Bring the ends together slowly. Now turn one round and try again.",
+     "kid": "Feel what the magnets do each time.",
      "ask": [
       {
        "q": "What did you feel the two times?",
@@ -786,8 +786,8 @@
      "mins": 3,
      "context": "This is the first step of the Wrapped Mystery. A grown-up hides a magnet and a piece of steel in paper.",
      "do": "Where your child cannot see, wrap one magnet and the steel bolt in newspaper, so both parcels look the same. Mark them A and B.",
-     "say": "One of these parcels is a magnet. The other is plain steel. Can you find the magnet using only your magnet?",
-     "kid": "One parcel hides a magnet. One hides plain steel. Can you find the magnet?",
+     "say": "One of these parcels is a magnet. The other is plain steel. They look the same.",
+     "kid": "Use your own magnet to find which parcel hides the magnet.",
      "adult": true
     },
     {
@@ -812,8 +812,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Unwrap the parcels and check.",
-     "say": "Why was the push the only test that could tell us?",
-     "kid": "Unwrap them. Were you right? Why was the push the best clue?",
+     "say": "Let's open the parcels and see if you were right.",
+     "kid": "Unwrap them. Were you right?",
      "ask": [
       {
        "q": "Why can't sticking tell you which one is the magnet?",
@@ -831,7 +831,7 @@
    "title": "Floating Rings on a Pencil",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you make ring magnets float one above another on a pencil. Then you see what the pencil was really doing. You need ring magnets with a hole in the middle. Some school magnet sets have them.",
+   "context": "In this activity you make ring magnets float one above another on a pencil. You will find out why the rings float, and what the pencil is really doing. You need ring magnets with a hole in the middle. Some school magnet sets have them.",
    "materials": [
     {
      "item": "3 or 4 ring magnets with a hole wider than a pencil",
@@ -855,7 +855,7 @@
      "what": "Float ring magnets on a pencil. Then take the pencil away and see what the top ring does."
     }
    ],
-   "record": "Draw the floating rings, and label each face N or S.",
+   "record": "Take a photo of your floating rings, or draw them. Mark each face N or S.",
    "setup": [
     {
      "art": "A pencil standing in a lump of dough with three ring magnets on it, each floating above the one below with a gap.",
@@ -873,22 +873,22 @@
      "context": "This is the first step of Floating Rings. You make magnets float using repelling.",
      "do": "1. Stand the pencil in the dough. 2. Drop a ring on. 3. Drop the next ring on. If it sticks, take it off, flip it over, and drop it on again.",
      "say": "If the rings face like poles, they will repel. Let's make each ring float above the one below.",
-     "kid": "Stand the pencil up. Drop on a ring. Drop on the next. Does it stick? Flip it over!"
+     "kid": "Make every ring float above the one below. If one sticks, flip it over."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Press the top ring down and let go. 2. Then lift the top ring off the pencil and hold it above the others with your fingers.",
      "say": "Press the top ring down. What happens? Now lift it off and try to hold it floating without the pencil.",
-     "kid": "Press the top ring and let go. Now lift it off. Can it float without the pencil?",
+     "kid": "Feel the ring push back up. Then try to make it float with no pencil.",
      "parent": "Without the pencil, the ring tips over and flips to stick, or slides off to one side. The pencil was stopping it from turning."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Talk about what the pencil does.",
-     "say": "The magnets did the pushing. What did the pencil do?",
-     "kid": "The magnets push. What job does the pencil do?",
+     "say": "The magnets did the pushing. The pencil did something too.",
+     "kid": "Think about the ring when you lifted it off.",
      "ask": [
       {
        "q": "Why did the ring flip over without the pencil?",
@@ -903,14 +903,14 @@
   },
   {
    "id": "a4",
-   "title": "Draw the Magnet Inside",
+   "title": "Build the Magnet Inside",
    "mins": 15,
    "days": 1,
-   "context": "In this drawing activity you draw what you think is inside a magnet, and what happens when it is cut in two.",
-   "problem": "Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them. Then you cut the drawing in two, to see which poles appear.",
+   "context": "In this activity you build a model of the inside of a magnet from toothpicks, then cut it in two. You will find out why a cut magnet gives two magnets, and never a lone north pole.",
+   "problem": "Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you lay out toothpicks as the tiny magnets. Then you cut the row in two, to see which poles appear.",
    "materials": [
     {
-     "item": "paper, a pencil, and red and blue crayons",
+     "item": "about 20 toothpicks or matchsticks, tape or string, and paper and a pencil for N and S labels",
      "qty": 1
     }
    ],
@@ -918,45 +918,45 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw a bar magnet full of tiny arrow magnets. Then draw it cut in two and label the new poles."
+     "what": "Lay out a bar magnet full of toothpick magnets. Then pull it in two and label the new poles."
     }
    ],
-   "record": "Keep the drawing in your science notebook.",
+   "record": "Take a photo of your toothpick magnet before and after the cut, or draw it in your science notebook.",
    "setup": [
     {
      "art": "A child's drawing of a long bar magnet filled with small arrows all pointing the same way.",
-     "caption": "1. Draw a bar magnet full of tiny arrow magnets, all pointing one way."
+     "caption": "1. Fill a long box with tiny magnets (toothpicks), all pointing one way."
     },
     {
      "art": "The same drawing cut in two with a dotted line, and new N and S labels on each side of the cut.",
-     "caption": "2. Draw it cut in two. Label the poles on each piece."
+     "caption": "2. Pull it in two. Label the poles on each piece."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "context": "This is the first step of Draw the Magnet Inside. You draw a model of what a magnet is made of.",
-     "do": "1. Draw a long rectangle. 2. Fill it with 20 small arrows, all pointing to the right. 3. Colour each arrow's head red and its tail blue.",
-     "say": "Each arrow is a tiny magnet. The red head is its north, the blue tail is its south. Where do all the red heads come out?",
-     "kid": "Draw a long box. Fill it with little arrows, all pointing right. Colour the heads red and the tails blue."
+     "context": "This is the first step of Build the Magnet Inside. You build a model of what a magnet is made of.",
+     "do": "1. Mark a long box on the table with tape or string. 2. Fill it with 20 toothpicks, all pointing to the right.",
+     "say": "Each toothpick is a tiny magnet. The pointed end is its north, the flat end is its south. Where do all the pointed ends come out?",
+     "kid": "Fill the box with toothpicks, all pointing right."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Draw a line across the middle of the magnet. 2. Draw the two halves apart. 3. Label N and S on each half.",
-     "say": "Now cut the magnet in your drawing. Look at the arrows next to the cut. What poles do they make?",
-     "kid": "Draw a cut across the middle. Draw the two halves apart. Write N and S on each half.",
+     "do": "1. Push the two halves of the toothpicks apart in the middle. 2. Lay a slip of paper marked N or S at the cut end of each half.",
+     "say": "Now cut the magnet. Look at the toothpicks next to the cut. What poles do they make?",
+     "kid": "Pull the two halves apart. Put an N or S slip at each cut end.",
      "check": {
       "t": "mcq",
-      "q": "You drew every arrow pointing right, with red heads and blue tails. Cut across the middle. Which pole appears on the left piece, at the cut?",
+      "q": "Every toothpick points right, with the pointed end as north. Cut across the middle. Which pole appears on the left piece, at the cut?",
       "options": [
-       "A north pole, because the red arrow heads come out there",
-       "A south pole, because the blue tails are there",
+       "A north pole, because the pointed ends come out there",
+       "A south pole, because the flat ends are there",
        "No pole"
       ],
       "a": 0,
-      "why": "The red heads, the north ends, all come out at the right-hand face of the left piece. So a new north pole appears at the cut on that piece, and a new south pole on the other piece. Picking 'no pole' is the most common guess, because the cut seems to be only the inside of the magnet."
+      "why": "The pointed ends, the north ends, all come out at the right-hand face of the left piece. So a new north pole appears at the cut on that piece, and a new south pole on the other piece. Picking 'no pole' is the most common guess, because the cut seems to be only the inside of the magnet."
      }
     },
     {
@@ -964,7 +964,7 @@
      "mins": 3,
      "do": "Ask what would happen if you kept cutting.",
      "say": "What if we cut each half again, and again?",
-     "kid": "What if you cut it again and again? Draw the smallest piece.",
+     "kid": "Split one half again. Does each new piece still have a pointed end and a flat end?",
      "think": "Is there a piece so small that it has only a north pole?"
     }
    ]
@@ -1030,7 +1030,7 @@
      "mins": 3,
      "do": "When everyone is in one chain, stand still and ask where the chain's north and south poles are.",
      "say": "Our whole chain is now one long magnet. Where is its north pole? Where is its south pole?",
-     "kid": "You are one long magnet now. Where is its north? Where is its south?",
+     "kid": "You are one long magnet now. Point to its north end and its south end.",
      "check": {
       "t": "mcq",
       "q": "Five players join front to back. The chain has a north pole at the front. What is at the very back?",
@@ -1130,8 +1130,8 @@
      "id": "s3",
      "mins": 2,
      "do": "End by asking about the Iron card.",
-     "say": "The Iron card joins any pole, but nothing can join after it. Why does it join, and why does the end close?",
-     "kid": "Why does the Iron card join any pole?",
+     "say": "The Iron card joins any pole, but nothing can join after it.",
+     "kid": "Think about why the Iron card fits at either end.",
      "check": {
       "t": "mcq",
       "q": "Why can the Iron card join a north pole or a south pole?",
@@ -1163,7 +1163,7 @@
    "title": "The Repel Racer",
    "mins": 50,
    "days": 2,
-   "context": "In this two-day project you build a small car that you drive without touching it, by pushing it with a magnet's like pole.",
+   "context": "In this two-day project you build a small car that you drive without touching it, by pushing it with a magnet's like pole. You will find out that repelling can move things without touching.",
    "materials": [
     {
      "item": "an empty matchbox or a small cardboard box",
@@ -1200,22 +1200,22 @@
      "what": "Build a track with books. Race the car along it by repelling, and time each try."
     }
    ],
-   "record": "Draw your car. Write the time for each race and what made the car turn or stop.",
+   "record": "Take a photo of your car, or draw it. Write the time for each race and what made the car turn or stop.",
    "flow": [
     {
      "id": "s1",
      "mins": 30,
      "context": "This is the first step of the Repel Racer, a two-day project. You build a car you can drive with a magnet.",
-     "do": "1. Push skewers through 2 straws for axles. 2. Fix a bottle cap on each end of each skewer. 3. Tape the straws under the matchbox. 4. Tape a bar magnet on top, N end at the back.",
-     "say": "If the back of the car is a north pole, what pole must your hand magnet have to push it?",
-     "kid": "Build the car. Tape the magnet on top, N at the back. Push it with your magnet. Which end pushes it?",
+     "do": "1. Push skewers through 2 straws for axles. 2. Fix a bottle cap on each end of each skewer. 3. Tape the straws under the matchbox. 4. Tape a bar magnet on top, N end at the back (use the N end you marked in Magnet Boats).",
+     "say": "If the back of the car is a north pole, which pole of your hand magnet will push it away?",
+     "kid": "Build the car. Then find which end of your hand magnet pushes it.",
      "adult": true,
      "parent": "The simplest car is a matchbox resting on two round pencils, which roll like logs. Bottle caps work better but need a grown-up to make holes."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Make a track 1 metre long with books for walls. 2. Push the car along by repelling, without touching. 3. Time three races.",
+     "do": "1. Make a track 1 metre long with books for walls. 2. Push the car along by repelling, without touching. 3. Time three races with a phone timer.",
      "say": "Drive it from one end to the other without touching. What happens if you come too close or too fast?",
      "kid": "Drive the car down the track with your magnet. No touching! Time it. Try three times.",
      "wait": "Come back tomorrow for the track and the races.",
@@ -1239,7 +1239,7 @@
    "id": "c1",
    "title": "Make a Magnet Hover",
    "mins": 30,
-   "context": "In this challenge you try to make one magnet hover above another, with a gap and no touching. It is harder than it sounds.",
+   "context": "In this challenge you try to make one magnet hover above another, with a gap and no touching. It is harder than it sounds, and you will find out why.",
    "problem": "Make one magnet float in the air above another magnet, using only repelling. It must not touch the other magnet.",
    "constraints": [
     "Use magnets and things from home.",
@@ -1261,23 +1261,23 @@
     "Some trains, such as the one to Shanghai airport in China, float above their track on magnets. Electricity in those magnets is adjusted many times every second to keep the train steady.",
     "Scientists have floated a magnet above a superconductor, a very cold material that pushes back on magnetic fields."
    ],
-   "your_turn": "Now invent your own way to stop the floating magnet from turning. Draw it, build it, and time how long it hovers.",
+   "your_turn": "Now invent your own way to stop the floating magnet from turning. Build it and time how long it hovers. Take a photo of it, or draw it.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of the Hover challenge. First you see the problem.",
      "do": "Hold one magnet flat on the table. Try to make the other hover above it, north over north, with your fingers off.",
-     "say": "Can you make it hover just by letting go? What does it do?",
-     "kid": "Try to make one magnet float above the other. Let go. What happens?",
+     "say": "Can you make it hover just by letting go?",
+     "kid": "Let go, and watch what the top magnet does.",
      "parent": "It flips over and sticks, or slides off sideways. The boats did the same thing in the Magnet Boats experiment."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas before building.",
+     "do": "Ask your child for three ideas before building.",
      "say": "The magnet keeps turning or sliding. How could we stop that?",
-     "kid": "Draw three ideas to stop the magnet turning."
+     "kid": "Think of three ways to stop the magnet turning. Say them out loud, or sketch the best one."
     },
     {
      "id": "s3",
@@ -1293,7 +1293,7 @@
      "mins": 5,
      "do": "Read the usual and creative solutions together.",
      "say": "In every way that works, something stops the magnet turning. What did that in yours?",
-     "kid": "What stopped your magnet from turning?",
+     "kid": "Look at the solutions. Which one is like yours?",
      "check": {
       "t": "mcq",
       "q": "Why does a hovering magnet always need something extra, like a pencil or a tube?",

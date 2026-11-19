@@ -242,13 +242,13 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Child mode:* Pick a rocket. Put it on Sriharikota.
 - **s2 (15 min)**  
   *Parent does:* Take turns rolling and moving. Read the question cards aloud.  
-  *Parent says:* Your turn. Roll! You landed on a question. Here it is.  
+  *Parent says:* Your turn. Roll the die. If you land on a question square, I will read you a card.  
   *Child mode:* Roll the die. Move. Answer the question if you land on one.
   - Note: When a child gets a card wrong, read the answer and ask them to say it back in their own words. That counts as learning, not losing.
 - **s3 (2 min)**  
   *Parent does:* Talk about the game.  
-  *Parent says:* Which squares in the game come from real rockets? What does each one stand for?  
-  *Child mode:* Which squares come from real rockets? What does each one stand for?
+  *Parent says:* Look at the special squares on the board. Which ones come from real rockets?  
+  *Child mode:* Pick one special square. Say what it stands for in a real rocket.
   - Note: The stage squares stand for dropping empty stages. The thick air square stands for the dense air near the ground. The 100 km square is the edge of space. The oxygen leak square is a rocket losing the oxygen it needs to burn fuel.
   - Check: On the board, the oxygen tank leak sends you back. Why would a leak be so bad for a real rocket? → **Without enough oxygen, the fuel cannot burn and the engine stops**
 ### g2 · Real or Space Myth? a quick card game (10 min)
@@ -257,7 +257,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **Printable cards: REAL and MYTH cards: a pair for each of up to 4 players:** REAL; REAL; REAL; REAL; MYTH; MYTH; MYTH; MYTH
 - **s1 (2 min)**  
   *Parent does:* Hand out the REAL and MYTH cards and read the first statement.  
-  *Parent says:* Listen, then hold up REAL or MYTH. Here is the first card.  
+  *Parent says:* Listen, then hold up REAL if it is true, or MYTH if it is not true. Here is the first card.  
   *Child mode:* Hold up REAL or MYTH. Ready?
 - **s2 (6 min)**  
   *Parent does:* Read the cards one at a time. Ask for a reason after each.  
@@ -267,7 +267,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **s3 (2 min)**  
   *Parent does:* Count the points and talk about the trickiest card.  
   *Parent says:* Pick one myth card. What is the true idea? Which test or fact in this unit shows it?  
-  *Child mode:* Count your points. Pick one myth card. What is the true idea?
+  *Child mode:* Count your points. Then pick one myth card.
   - Note: For example, 'a telescope makes things look bigger' is a myth. A telescope mainly collects light, as Half a Lens showed.
   - Check: Why can't you hear a rocket roaring in space? → **Sound needs air to travel, and space has almost none**
 
@@ -277,7 +277,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **predict:** We will cover a lit candle with a small glass, a big glass and a big jar. Under which one will the flame last longest? Why do you think so? Do you think the biggest jar will keep it burning for ever?
 - **fair test:** Use the same candle, the same plate and the same person on the timer every time. Only the size of the glass or jar changes. Start the timer the moment the rim touches the plate. Lift the jar and wave it in the air for half a minute between tries, so it is full of fresh air. Do three tries with each one, because one try can be a fluke.
 - **safety:** A grown-up lights the candle and stays at the table all the time. Tie back long hair and keep sleeves and paper away from the flame. Put the plate on a steady table, away from curtains and fans. The glass may get warm at the top, so the grown-up lifts it by its lower part. Blow the candle out when you finish.
-- **record:** Fill in the table. Then draw three bars, one for each container. Make each bar as tall as the middle one of that container's three times. Write one sentence under the bars that says what the pattern is.
+- **record:** Fill in the table. Then draw three bars, one for each container, or stack small blocks or coins for each one. Make each bar as tall as the middle one of that container's three times. Say or write one sentence that tells what the pattern is.
 - **results table:** Glass or jar | How many small tumblers of water it holds | My guess | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Middle number
 - **s1 (5 min)**  
   *Parent does:* 1. Fill each container with water, using the small steel tumbler, and count the tumblers. 2. Write the numbers in the table. 3. Pour the water out and dry each container well.  
@@ -287,8 +287,8 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **s2 (4 min)**  
   *Parent does:* 1. Show the three dry containers and the unlit candle. 2. Ask your child to guess how long the flame will last under each, and why. 3. Write the guesses down.  
   *Parent says:* I will cover the candle with each of these, one at a time. How long do you think the flame will keep burning under each one? Why do you think so?  
-  *Child mode:* Guess how many seconds the flame will last under each jar. Why?
-  - Ask: Why do you think the flame will last longer under that one? (good: Because it has more air inside.; Because the fire needs air, and the big jar has more.)
+  *Child mode:* Guess how many seconds the flame will last under each one.
+  - Ask: Which one will keep the flame going longest, and why? (good: Because it has more air inside.; Because the fire needs air, and the big jar has more.)
   - Note: Do not explain yet. Some children think the flame will go out at once under every jar. Some think it will burn for ever under a big jar. Both are good guesses to test.
 - **s3 (2 min) · grown-up needed**  
   *Parent does:* 1. Put the plate on a steady table. 2. Put the candle in the middle. 3. Light it, and wait until the flame is its normal size.  
@@ -307,9 +307,9 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Child mode:* Look at your numbers. Which jar kept the flame longest? How much air did it hold?
   - Check: The flame went out under every jar, even though wax was left. Why? → **The flame used up the oxygen in the jar, and too little was left to keep it burning**
 - **s6 (4 min)**  
-  *Parent does:* 1. Ask your child to say or write three things: what they think, what they saw, and why. 2. Then ask the rocket question.  
-  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Now, a rocket's engine is a fire. In space there is no air at all. What must a rocket take with it?  
-  *Child mode:* Say three things: what you think, what you saw, and why. Then answer this: a rocket's engine is a fire. What must it carry into space?
+  *Parent does:* 1. Ask your child to say or write three things: what they think, what they saw, and why. 2. Then read the rocket question below.  
+  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Now think about a rocket. Its engine is a fire, and in space there is no air at all.  
+  *Child mode:* Say three things: what you think, what you saw, and why.
   - Note: The three things are a claim, the evidence for it, and the reason. A good answer: I think a flame needs air, and more air keeps it burning longer. I saw that under the small glass the flame lasted about 8 seconds, and under the big jar about 35 seconds. This is because the flame uses up the oxygen in the air, and a big jar holds more. So a rocket in space must carry its own oxygen, because there is no air there.
   - Check: In space there is no air. What does a rocket carry so that its fuel can burn? → **Its own oxygen, or a chemical full of oxygen**
 ### e2 · Half a Lens: does covering half a magnifying glass cut the picture in half? (25 min)
@@ -317,7 +317,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **predict:** You will make a picture of a window with a magnifying glass. Then you will cover the left half of the lens with a card. What will happen to the picture? Will half of it vanish? Why do you think so?
 - **fair test:** Keep the lens, the paper and the window in the same places all the time. Only change how much of the lens is covered. Look at the same part of the picture each time, such as the window bars. Try each change twice.
 - **safety:** Never look at the Sun through the lens, or point the lens at the Sun. Never leave a magnifying glass lying in sunshine, because it can focus sunlight and start a fire. A grown-up cuts the hole in the card.
-- **record:** Draw the picture three times: with the whole lens open, with half covered, and with only the small hole. Shade each drawing to show how bright it was.
+- **record:** Take a photo of the picture on the paper three times: with the whole lens open, with half covered, and with only the small hole. Then tell a grown-up which was brightest and which was dimmest.
 - **results table:** How much of the lens is open | My guess | Is the whole window still in the picture? | Bright, dimmer or very dim?
 - **s1 (7 min)**  
   *Parent does:* 1. Darken the room, but leave one window open to daylight. 2. Tape the paper to the wall opposite the window, at least 3 metres away. 3. Hold the lens near the paper and slowly move it towards the window until a sharp picture appears.  
@@ -326,9 +326,9 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Note: A common magnifying glass makes a sharp picture about 10 to 20 cm from the paper. The picture is small and upside down, with the sky at the bottom. Resting your elbow on a chair or a pile of books keeps the lens steady.
 - **s2 (4 min)**  
   *Parent does:* 1. Show your child the plain card. 2. Ask what will happen to the picture when the card covers the left half of the lens, and why.  
-  *Parent says:* I am going to cover the left half of the lens with this card. What will happen to the picture? Why do you think so?  
-  *Child mode:* The card will cover half the lens. What will happen to the picture? Why?
-  - Ask: What do you think will happen to the picture? (good: Half of it will disappear.; It will get darker.; It will stay the same.)
+  *Parent says:* I am going to cover the left half of the lens with this card. Before I do, make a guess.  
+  *Child mode:* Look at the card and the lens. Make your guess.
+  - Ask: What will happen to the picture when half the lens is covered, and why? (good: Half of it will disappear.; It will get darker.; It will stay the same.)
   - Note: Most children, and many grown-ups, think half the picture will vanish. Do not say what happens. Any guess with a reason is a good guess.
 - **s3 (5 min)**  
   *Parent does:* 1. Keep the lens still. 2. Slide the card slowly across the left half of the lens. 3. Watch the picture. 4. Do it again with the right half.  
@@ -343,15 +343,15 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Check: When you covered half of the lens, what happened to the picture of the window? → **The whole window stayed, but it was dimmer**
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child to say what they think, what they saw, and why. 2. Then talk about telescopes.  
-  *Parent says:* Tell me what you think, what you saw, and why. Now think about a telescope. Why do you think the biggest telescopes in the world have mirrors many metres wide?  
-  *Child mode:* Say what you think, what you saw, and why. Why are big telescopes so big?
+  *Parent says:* Tell me what you think, what you saw, and why. Now think about the biggest telescopes in the world. Their mirrors are many metres wide.  
+  *Child mode:* Say what you think, what you saw, and why.
   - Note: A good answer: I think a bigger lens collects more light. I saw that with half the lens covered, the whole window was still there, only dimmer. With a small hole it was very dim. This is because each part of the lens catches light from the whole window. So a giant telescope makes bright pictures of faint stars, because it catches so much of their light.
   - Check: Why are the biggest telescopes built with huge mirrors? → **To collect more light, so faint stars and galaxies show up**
 ### e3 · Ice in the Crater: why the Moon's ice lasts in the shadows (25 min)
 - **question:** Chandrayaan-1's data showed ice in dark craters near the Moon's poles. Does ice last longer in shadow than in sunlight, when the air around is the same?
 - **predict:** We will put one ice cube in sunlight and one in the shadow of a book, side by side. Which one will melt first? How much longer do you think the other will last, and why?
 - **fair test:** Use ice cubes from the same tray, so they are the same size. Put them on the same kind of plate, a hand-span apart, in the same room. Only the sunlight changes. Check both at the same times.
-- **record:** Draw both cubes at each check, in two rows. Write the time under each drawing.
+- **record:** Fill in the table at each check. Write big, small or gone for each cube. You can also take a photo of both cubes each time.
 - **results table:** Time (minutes) | Cube in sunlight | Cube in shadow
 - **s1 (5 min)**  
   *Parent does:* 1. Find a patch of sunlight. 2. Stand the book up at the edge of the patch so it casts a shadow beside it. 3. Put one plate in the sun and one in the book's shadow, close together. 4. Ask for a guess.  
@@ -359,22 +359,22 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Child mode:* One ice cube goes in the sun and one in the book's shadow. Which will melt first? Why?
   - Note: Both plates must be in the same air, close together. Only the sunlight is different. This test needs direct sunlight for about half an hour. If it is cloudy, try another day.
 - **s2 (15 min)**  
-  *Parent does:* 1. Put an ice cube on each plate at the same moment. 2. Every 5 minutes, look at both and draw them. 3. Move the book if the shadow moves off the plate.  
+  *Parent does:* 1. Put an ice cube on each plate at the same moment. 2. Every 5 minutes, look at both. Write in the table if each cube is big, small or gone. 3. Move the book if the shadow moves off the plate.  
   *Parent says:* Let's look again. Which cube is smaller? Is the shadow still on its plate?  
-  *Child mode:* Look every 5 minutes. Draw both cubes. Which is smaller?
+  *Child mode:* Look every 5 minutes. Which cube is smaller? Is it big, small or gone?
   - Note: In strong sunlight, the sunny cube shrinks fast and sits in a puddle. The cube in shadow melts too, because the room air is warm, but more slowly. The Sun moves across the sky, so the shadow moves: check it each time.
   - Wait: Check every 5 minutes for about 15 to 20 minutes.
 - **s3 (5 min)**  
   *Parent does:* 1. Talk about what you saw. 2. Then talk about the Moon.  
-  *Parent says:* Which cube lasted longer, and why? The Moon has almost no air to warm things. So what happens to ice on a crater floor where the sunlight never reaches?  
-  *Child mode:* Which cube lasted longer? On the Moon, where could ice stay for a very long time?
+  *Parent says:* Which cube lasted longer, and why? Now think of the Moon. Our book stood for a crater wall.  
+  *Child mode:* Which cube lasted longer? Say why.
   - Note: A good answer: the cube in shadow lasted longer, because sunlight carries energy that warms and melts ice. On the Moon there is almost no air to carry warmth into a dark crater, so its floor stays colder than minus 160 degrees Celsius, and ice can stay there for a very long time. That is why Chandrayaan-3 was sent to land near the south pole.
   - Check: Why can ice last for a very long time on the floor of a dark crater near the Moon's pole? → **Sunlight never reaches the crater floor, and there is almost no air to bring warmth in**
 
 ## Activities
 ### a1 · How Far Is Space? A lime-sized Earth (15 min)
 - **problem:** The Earth is too big to hold in your hand. So you will shrink it to the size of a lime. Then you will find out how thin the air is, how high the space station flies, and how far away the Moon is.
-- **record:** Draw the lime and the grape with the distance between them. Mark the thin layer of air and the space station.
+- **record:** Tell a grown-up three things: how high space begins, how high the space station flies, and how far the Moon is. Use the paper, the coin and the string. Or take a photo of your model.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold up the lime and say it is the Earth. 2. Ask your child to show with their fingers how far above the lime they think space begins.  
   *Parent says:* This lime is our Earth, shrunk down. All the air we breathe is wrapped around it. Show me with your fingers how high the air goes before space begins.  
@@ -383,12 +383,12 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **s2 (4 min)**  
   *Parent does:* 1. Stack the 4 sheets of paper. 2. Show your child how thin the stack is. 3. Hold it against the lime's skin.  
   *Parent says:* On a lime this size, space begins only four sheets of paper above the skin. All the air you have ever breathed is in a layer thinner than this.  
-  *Child mode:* Space begins just four sheets of paper above the lime. That is how thin the air is.
+  *Child mode:* Hold the paper stack against the lime. Look at how thin it is.
   - Note: The Earth is about 12,700 km across, and the lime is 5 cm. So 100 km, where space begins, is about 0.4 mm on the lime. A sheet of notebook paper is about 0.1 mm thick. Most of the air is in the lowest part of that thin layer.
 - **s3 (2 min)**  
   *Parent does:* Hold the coin flat against the lime.  
   *Parent says:* The space station is where astronauts live. On this lime, it flies only as high above the skin as this coin is thick.  
-  *Child mode:* The space station flies about a coin's thickness above the lime.
+  *Child mode:* Hold the coin against the lime. Is it thicker or thinner than the paper stack?
   - Note: The space station is about 400 km up. On a 5 cm lime that is about 1.6 mm, close to the thickness of a coin.
 - **s4 (5 min)**  
   *Parent does:* 1. Give your child the grape. 2. Ask where the Moon should go. 3. Measure 150 cm from the lime and put the grape there.  
@@ -398,7 +398,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Check: On the lime-sized Earth, where does space begin? → **Less than half a millimetre above the lime's skin, about four sheets of paper**
 ### a2 · Spot the Space Station from your window (15 min, 2 days)
 - **safety:** Go on to a terrace only with a grown-up.
-- **record:** Draw the sky from your window, with buildings and trees. Draw the station's path as a line with an arrow, and write the time.
+- **record:** Write the time you saw the station and the direction it moved. Then tell your grown-up what it looked like, or draw its path across the sky.
 - **schedule:** day 1: Look up the next time the space station will pass over your city, and which way to look. (5 min); day 2: Watch for the station at the right time. Draw its path across the sky. (10 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Open the website Spot the Station, spotthestation.nasa.gov. 2. Type your city. 3. Find a pass that is high in the sky, soon after sunset or before sunrise. 4. Note the time and the direction it comes from.  
@@ -432,9 +432,9 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 ### a4 · India in Space: a string timeline (20 min)
 - **record:** Keep the cards in a pile, in order, or stick them along a long strip of paper on the wall.
 - **s1 (8 min)**  
-  *Parent does:* Read out each event and its year, and write and draw one card for each.  
-  *Parent says:* Let's make India's space story. Here are the events. For each one, write the year and draw a small picture.  
-  *Child mode:* Make one card for each event. Write the year. Draw it.
+  *Parent does:* Read out each event and its year. Your child writes one card for each, and may add a small picture.  
+  *Parent says:* Let's make India's space story. Here are the events. For each one, write the year and what happened. You may draw a small picture too.  
+  *Child mode:* Make one card for each event. Write the year and what happened.
   - Note: Events: 1963, the first rocket from Thumba, with its parts carried on bicycles. 1969, ISRO is set up. 1975, Aryabhata, India's first satellite. 1980, SLV-3, India's own rocket, puts Rohini in orbit. 1984, Rakesh Sharma goes to space. 2008, Chandrayaan-1 goes round the Moon. 2014, Mangalyaan reaches Mars. 2017, one rocket launches 104 satellites. 2019, Chandrayaan-2's orbiter reaches the Moon. 2023, Chandrayaan-3 lands near the south pole, and Aditya-L1 sets off to watch the Sun. 2025, Shubhanshu Shukla goes to the space station.
 - **s2 (8 min)**  
   *Parent does:* 1. Mark the string every 20 cm, one mark for each 6 years from 1963. 2. Peg each card at the right place.  
@@ -444,19 +444,19 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **s3 (4 min)**  
   *Parent does:* Look at the whole string.  
   *Parent says:* How many years were there between the bicycle rocket at Thumba and the landing on the Moon?  
-  *Child mode:* How many years from the first Thumba rocket to the Moon landing?
+  *Child mode:* Find the first Thumba card and the Moon landing card. Count the years between them.
   - Note: The first rocket went up in 1963 and Chandrayaan-3 landed in 2023. 2023 take away 1963 is 60 years.
-  - Check: Which came first? → **India's first satellite, Aryabhata**
+  - Check: Which of these came first in India's space story? → **India's first satellite, Aryabhata**
 ### a5 · Drop the Empty Tanks: a rocket in stages (act it out) (10 min)
 - **problem:** A rocket carries a very heavy load of fuel and oxygen. Once a tank is empty, it is only extra weight. In this act-out you will launch a rocket made of three boxes. Then you will find out what the rocket does with each empty box.
-- **record:** Draw the rocket at launch, after the first stage drops, and when the satellite is let go.
+- **record:** Stack the boxes again. Show a grown-up the three moments: at launch, after the first stage drops, and when the satellite is let go. Say what changed each time. Or take a photo at each moment.
 - **s1 (5 min)**  
   *Parent does:* 1. Stack the three boxes and put the satellite on top. 2. Your child carries the rocket slowly up, counting down from 10.  
   *Parent says:* This is a rocket with three stages. Most of its weight is fuel and oxygen. Let's launch it. Ten, nine, eight...  
   *Child mode:* Stack the boxes. Put the satellite on top. Count down and lift!
 - **s2 (5 min)**  
   *Parent does:* 1. After a few steps, your child drops the bottom box. This is the first stage. 2. A few steps later, your child drops the next box, the second stage. 3. Last, your child lets the satellite go from the top box, the last stage.  
-  *Parent says:* The first stage is empty. Drop it! Now the rocket is lighter. Why does that help it go faster?  
+  *Parent says:* The first stage is empty. Drop it! Feel how the rocket is lighter now.  
   *Child mode:* Drop the empty bottom box. Then the next. Let the satellite go.
   - Note: A rocket that kept its empty tanks would waste fuel carrying them. Dropping each stage means the next engine pushes a much lighter rocket. India's PSLV has four stages. The first stage falls into the Bay of Bengal.
   - Check: Why does a rocket drop a stage when its tanks are empty? → **So it does not waste fuel carrying empty tanks**
@@ -464,7 +464,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 ## Projects
 ### p1 · Build Vikram and Pragyan: a Moon lander and rover from boxes (50 min, 2 days)
 - **safety:** A grown-up helps with scissors and makes the holes in the boxes.
-- **record:** Draw your lander and rover and label the parts: legs, ramp, solar panel, wheels.
+- **record:** Show a grown-up your lander and rover. Point to each part and say what it is for: legs, ramp, solar panel, wheels. Or tape on small paper labels.
 - **schedule:** day 1: Build the lander Vikram: a box, four legs, a foil covering and a ramp. (25 min); day 2: Build the rover Pragyan, with six wheels and a flat solar panel. Roll it down the ramp and tell the story of the landing. (25 min)
 - **s1 (25 min) · grown-up needed**  
   *Parent does:* 1. Wrap the bigger box in foil. 2. Tape a straw leg to each bottom corner, splayed out. 3. Tape the card ramp to one side.  
@@ -473,7 +473,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Note: The real lander's legs had shock absorbers to soften the touchdown. Splayed legs give a wide base, like a stool that does not wobble.
 - **s2 (25 min)**  
   *Parent does:* 1. Glue six caps to the matchbox, three on each side. 2. Tape a flat rectangle of foil-covered card on top, as a solar panel. 3. Roll the rover down the ramp.  
-  *Parent says:* Pragyan had six wheels and a solar panel. It ran on sunlight. On the Moon, a day lasts about two weeks of Earth time. What do you think happened to Pragyan when night came?  
+  *Parent says:* Pragyan had six wheels and a solar panel. It ran on sunlight. On the Moon, a day lasts about two weeks of Earth time, and so does the night.  
   *Child mode:* Glue on six wheels. Add a solar panel. Roll down the ramp.
   - Note: Pragyan worked through one lunar day, about 14 Earth days, then went to sleep as night fell. ISRO tried to wake Vikram and Pragyan in the next lunar day, but they did not answer. The Moon's night is colder than minus 120 degrees Celsius.
   - Check: Pragyan had a solar panel. Why did it stop working when night came on the Moon? → **Its solar panel needed sunlight, and the Moon's night lasts about two weeks**
@@ -502,14 +502,14 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Check: Why can nobody steer a Mars rover in real time, like a toy car? → **Radio messages take minutes to travel between Earth and Mars**
 ### c2 · Design a Moon Home that keeps its air in (30 min)
 - **problem:** Design a home on the Moon for two astronauts. It must hold air in, keep people at a safe temperature, and let them get in and out without losing their air.
-- **your turn:** Now design your own Moon home. Draw it, build a model, and explain to your family how it keeps the air in.
+- **your turn:** Now design your own Moon home. Build a model, and explain to your family how it keeps the air in. You may draw a plan first.
 - **constraints:** Draw your design and build a small model from things at home.; Show how the astronauts get air, water and power.; Show how they go in and out without letting the air escape.
 - **general:** Build a sealed dome or cylinder, with a small room called an airlock between two doors, so only one door opens at a time.; Engineers suggest covering the home with a thick layer of Moon soil, to block harmful radiation from the Sun.
 - **creative:** Build the home inside a lava tube, a long cave under the Moon's surface.; Put it near the south pole, where ice in the dark craters could give water, and that water could be split to make oxygen.; Grow plants inside to help clean the air and give food.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together and draw two ideas.  
+  *Parent does:* Read the problem together. Your child says two ideas out loud, or sketches them.  
   *Parent says:* Remember the candle under the jar. A flame inside a closed jar soon runs short of oxygen, and so would people. Where will your astronauts get fresh oxygen?  
-  *Child mode:* Draw two ideas for a Moon home. Where will the air come from?
+  *Child mode:* Think of two ideas for a Moon home. Say them out loud, or sketch them.
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* 1. Build a model of your best idea. 2. Put a blown-up balloon inside to stand for the air. 3. Show the airlock with two doors.  
   *Parent says:* Show me how an astronaut gets in. Which door opens first? Does the air escape?  
@@ -518,7 +518,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **s3 (5 min)**  
   *Parent does:* Read the usual and creative ideas, and compare them with your own.  
   *Parent says:* Here are some ideas engineers have had. Which one would you add to your home?  
-  *Child mode:* Which idea would you add? Why?
+  *Child mode:* Pick one idea and add it to your model.
   - Note: Any idea is good if the child links it to a need. The needs are air, water, warmth and protection from harmful radiation.
   - Check: Why does a Moon home need an airlock with two doors? → **So the air inside does not rush out when someone goes in or out**
 

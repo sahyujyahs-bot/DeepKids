@@ -1719,7 +1719,7 @@
      "what": "Roll marbles at two hidden things. Count what comes back. Guess what each hidden thing is, then look."
     }
    ],
-   "record": "Fill in the table for each hidden thing. Draw the card from above, with arrows showing where the marbles went.",
+   "record": "Fill in the table for each hidden thing. Draw the card from above, with arrows showing where the marbles went, or tell a grown-up where they went.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results: 20 marbles rolled under the card each time",
@@ -1888,7 +1888,7 @@
      "what": "Drop colour into hot and cold water and watch for 5 minutes, without stirring."
     }
    ],
-   "record": "Fill in the table. Draw both glasses at 1, 3 and 5 minutes.",
+   "record": "Fill in the table. Draw both glasses at 1, 3 and 5 minutes, or use your photos.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results: one drop of food colour, no stirring",
@@ -1926,9 +1926,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Hold the food colour just above the water. 2. Drop one drop into each glass at the same moment. 3. Do not stir. 4. Watch and draw at 1, 3 and 5 minutes.",
+     "do": "1. Hold the food colour just above the water. 2. Drop one drop into each glass at the same moment. 3. Do not stir. 4. Look at 1, 3 and 5 minutes. Take a photo each time.",
      "say": "One drop in each, at the same time. Now hands off the table. What do you see?",
-     "kid": "Drop one drop of colour in each glass at the same time. Don't stir! Watch closely and draw what you see.",
+     "kid": "Drop one drop of colour in each glass at the same time. Don't stir! Watch closely. Take a photo at 1, 3 and 5 minutes.",
      "ask": [
       {
        "q": "Nobody is stirring. So what is moving the colour?",
@@ -2003,7 +2003,7 @@
      "what": "Make 50 dots with eyes closed, draw rings and count the dots in each ring."
     }
    ],
-   "record": "Count the dots in each ring and write the numbers. Draw a bar for each ring.",
+   "record": "Count the dots in each ring and write the numbers. Say which ring had the most dots.",
    "flow": [
     {
      "id": "s1",
@@ -2024,7 +2024,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Put the smallest round thing around the target and draw a ring. 2. Use a bigger one for a second ring, and the biggest for a third. 3. Count the dots in each ring. Count dots outside the third ring with the outer ring.",
+     "do": "1. Put the smallest round thing around the target and draw a ring. 2. Use a bigger one for a second ring, and the biggest for a third. 3. Count the dots in each ring. Count the dots outside the third ring too, as one more group.",
      "say": "Let's draw rings around the target and count. Which ring has the most dots? Where are the dots packed most tightly?",
      "kid": "Draw rings with a bangle and a plate. Count the dots in each ring. Where are they packed most tightly?",
      "chart": {
@@ -2092,7 +2092,7 @@
    "title": "A Mustard-Seed Atom: a park-sized model (optional, outdoors)",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you make a giant model of an atom outdoors. A mustard seed is the nucleus. You walk out to find where the atom's edge would be. It shows how empty an atom is.",
+   "context": "In this activity you make a giant model of an atom outdoors. A mustard seed is the nucleus. You walk out to find where the atom's edge would be. You will find out how much of an atom is empty space.",
    "materials": [
     {
      "item": "a few mustard seeds (rai) on a coin or a small plate",
@@ -2115,7 +2115,7 @@
      "what": "Put a mustard seed in the middle of a park and walk out to the edge of the 'atom'."
     }
    ],
-   "record": "Draw the park, the seed in the middle and the atom's edge. Write how many steps you walked.",
+   "record": "Write how many steps you walked. Then tell a grown-up what you could see at the edge, or draw the park, the seed and the atom's edge.",
    "flow": [
     {
      "id": "s1",
@@ -2222,14 +2222,14 @@
      "what": "Look closely at a newspaper photo, a phone screen and salt grains. Then make a dot picture."
     }
    ],
-   "record": "Draw what the photo looked like up close. Make one picture using only dots.",
+   "record": "Tell your grown-up what the photo looked like up close. Then make one picture using only dots.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Look at a colour newspaper photo through the magnifier. 2. No magnifier? Put a drop of water on a clear plastic sheet and hold it just above the photo. The drop works like a small lens.",
      "say": "From far away it looks like a photo. Look closer. What is it really made of?",
-     "kid": "Look at a newspaper photo through a magnifier. What do you see up close? Dots!",
+     "kid": "Look at a newspaper photo through a magnifier. What is it made of?",
      "context": "This is the first step of Dots Make Pictures. You look closely at pictures to find the tiny dots they are made of."
     },
     {
@@ -2309,7 +2309,7 @@
      "what": "Feel magnets push apart without touching. Try rubbed balloons too."
     }
    ],
-   "record": "Draw the two magnets with arrows showing the push. Write one sentence about how it felt.",
+   "record": "Write one sentence about how the push felt. Draw the magnets with arrows if you like.",
    "flow": [
     {
      "id": "s1",
@@ -2470,7 +2470,7 @@
      "what": "Play the staircase game. If you have a gas stove, first watch salt turn the flame yellow."
     }
    ],
-   "record": "Draw the flame before and after the salt. Draw a staircase with an electron jumping down one step.",
+   "record": "Tell a grown-up what colour the flame went. Draw a staircase with an electron jumping down one step, or act it out again.",
    "flow": [
     {
      "id": "s1",
@@ -2568,7 +2568,7 @@
      "what": "Make the electron cloud from cotton and pen dots. Label the model and explain it to someone."
     }
    ],
-   "record": "Draw your model and label the nucleus, protons, neutrons and electron cloud. Write one sentence about what your model gets wrong.",
+   "record": "Take a photo of your model and say the names of its parts, or draw it and label them. Write one sentence about what your model gets wrong.",
    "flow": [
     {
      "id": "s1",
@@ -2616,7 +2616,7 @@
      "id": "s5",
      "mins": 10,
      "do": "1. Label the parts. 2. Ask your child to say what the model gets wrong. 3. Your child explains the model to someone else in the family.",
-     "say": "Every model is wrong somewhere. If our nucleus were this size, how big would the real cloud be?",
+     "say": "Every model is wrong somewhere. In a real atom, the cloud is tens of thousands of times wider than the nucleus. What does our model get wrong?",
      "kid": "Label your model. Then think: what does it get wrong? Explain your atom to someone at home.",
      "parent": "Good answers: the nucleus is far too big for the cloud. If this ball of seeds were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.",
      "think": "Scientists use models they know are not quite right. Why might a wrong model still be useful?"
@@ -2767,8 +2767,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Compare your smallest letter with atoms.",
-     "say": "Your letter is about 1 or 2 millimetres tall. About 5 million atoms fit across 1 millimetre. How many atoms tall is your letter?",
-     "kid": "About 5 million atoms fit across 1 millimetre. Measure your smallest letter. How many atoms tall is it?",
+     "say": "Your letter is about 1 or 2 millimetres tall. About 5 million atoms fit across 1 millimetre. Measure yours and work it out.",
+     "kid": "About 5 million atoms fit across 1 millimetre. Measure your smallest letter in millimetres. Then work out its height in atoms.",
      "check": {
       "t": "mcq",
       "q": "A letter is 2 millimetres tall. About 5 million atoms fit across 1 millimetre. About how many atoms tall is the letter?",

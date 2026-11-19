@@ -276,7 +276,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **predict:** Guess first. Put water, coconut oil, shampoo and honey in order, from fastest to slowest. Then guess: will warm honey be faster, slower or the same as honey at room warmth? Why do you think so?
 - **fair test:** Every liquid gets the same amount, half a level teaspoon, dropped on the same start line. Every lane is on the same tray, at the same slope, with the same finish line. Each lane is used once, so no liquid runs over another's track. The warm honey and the room-warm honey differ only in warmth.
 - **safety:** A grown-up makes the warm water. It should feel comfortably warm on the inside of your wrist, like bath water, never hot from the stove. Do not taste the shampoo.
-- **record:** Fill in the results table. Then draw the tray with each liquid's lane and how far it went.
+- **record:** Fill in the results table. Then draw the tray with each liquid's lane and how far it went, or take a photo of the tray.
 - **results table:** Liquid | My guess (1st to 5th) | Time to the finish line (seconds) | Real place (1st to 5th)
 - **s1 (6 min)**  
   *Parent does:* 1. Spread newspaper on the floor or table. 2. Put the tray on it. 3. Mark a start line 3 centimetres from the top edge, with tape on both sides. 4. Mark a finish line 15 centimetres below it. 5. Mark five spots on the start line, 4 centimetres apart, one for each lane. 6. Put the stack of books under the top end.  
@@ -286,7 +286,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s2 (4 min)**  
   *Parent does:* 1. Show the four liquids. 2. Let your child tip each bottle slowly and look. 3. Ask for a guess and a reason.  
   *Parent says:* Look at how each one moves in its bottle. Which will be fastest down the tray? Which will be slowest? Why do you think so?  
-  *Child mode:* Tip each bottle slowly. Watch it move. Which will win? Which will come last? Why?
+  *Child mode:* Tip each bottle slowly. Watch how it moves.
   - Ask: Put them in order from fastest to slowest. What is your reason? (good: Water first, because it splashes and pours fast.; Honey last, because it is thick and sticky.; Oil before shampoo, because shampoo is thicker.)
   - Note: Write the guesses in the 'My guess' column. Any order with a reason is a good guess. Don't say what will happen.
 - **s3 (8 min)**  
@@ -302,7 +302,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s5 (3 min) · grown-up needed**  
   *Parent does:* 1. Put half a teaspoon of honey in the small steel bowl. 2. Stand the bowl in the big bowl of warm water. 3. Wait 5 minutes.  
   *Parent says:* This honey is warming in the water. Will it be faster, slower, or the same as the honey you raced at room warmth? Why?  
-  *Child mode:* Stand the bowl of honey in warm water. Will the warm honey be faster than the room-warm honey? Why?
+  *Child mode:* Stand the bowl of honey in warm water. Wait 5 minutes.
   - Ask: What do you think the warmth will do, and why? (good: Faster, because warm things melt and get runny.; Slower, because warm honey is stickier.; The same, because it is still honey.)
   - Note: Any guess with a reason is good. A grown-up mixes the warm water from the tap or a kettle with some cold water. It should feel like bath water.
   - Wait: Wait 5 minutes while the honey warms. Look back at the table of results.
@@ -322,7 +322,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **question:** How many drops of water can sit on a coin before they spill? Does soapy water or oil hold as many?
 - **predict:** Guess first. How many drops of plain water will fit on a one-rupee coin before it spills? Will soapy water fit more drops, fewer, or the same? Why do you think so?
 - **fair test:** The same coin is used every time, wiped clean and dry between tries. The drops are all made the same way, with the same dropper or straw, from the same height. Each liquid is tried three times, because one try can be a fluke.
-- **record:** Fill in the table. Draw the coin from the side, with the water dome just before it spilled.
+- **record:** Fill in the table. Draw the coin from the side, with the water dome just before it spilled, or tell your grown-up what the dome looked like.
 - **results table:** Liquid | Try 1 (drops) | Try 2 (drops) | Try 3 (drops) | Middle number
 - **s1 (4 min)**  
   *Parent does:* 1. Put the dry coin on the steel plate. 2. Show how to use the dropper. With a straw, dip it in water, press a finger on the top end, and lift. Lift the finger a little to let one drop fall.  
@@ -332,13 +332,13 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason.  
   *Parent says:* How many drops of water do you think will fit on the coin? Why do you think so?  
-  *Child mode:* How many drops will fit before it spills? Why?
+  *Child mode:* Make your guess before you add any drops.
   - Ask: How many drops will fit, and why? (good: Three, because the coin is small and flat.; Ten, because drops are small.; Lots, because the water can pile up.)
   - Note: Most children guess between 2 and 10. Write the guess down.
 - **s3 (6 min)**  
   *Parent does:* 1. Drop plain water onto the middle of the coin, one drop at a time. 2. Make a tally mark for every drop. 3. Stop when the water spills over the edge. 4. Dry the coin and repeat twice more.  
   *Parent says:* Count out loud. Look at the coin from the side. What shape is the water making?  
-  *Child mode:* Add one drop at a time, and count each drop. Look from the side. What shape is the water?
+  *Child mode:* Add one drop at a time, and count each drop. Look at the coin from the side.
   - Ask: What do you notice about the water as you add drops? (good: It makes a hill.; It goes higher than the edge of the coin.; It wobbles but does not spill.)
   - Note: A one-rupee coin usually holds somewhere between 15 and 40 drops, depending on the coin and the drop size. The water makes a dome that rises well above the edge. That surprises most children.
 - **s4 (5 min)**  
@@ -360,11 +360,11 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 
 ## Activities
 ### a1 · Pour and Watch: water and honey (8 min)
-- **record:** Draw the water stream and the honey stream side by side.
+- **record:** Tell your grown-up one way the two streams were different, or draw them side by side.
 - **s1 (3 min)**  
   *Parent does:* 1. Fill one spoon with water and one with honey. 2. Hold both about 10 centimetres above the plate. 3. Tip them at the same moment.  
   *Parent says:* Watch both spoons. Tell me everything you notice about how each liquid moves.  
-  *Child mode:* Tip both spoons at the same time. Watch closely. What do you notice?
+  *Child mode:* Tip both spoons at the same time. Watch closely.
   - Ask: What do you notice about how each liquid moves? (good: The water fell fast and splashed.; The honey made a long thread.; The honey piled up in loops like a rope.; Why is honey so slow?)
 - **s2 (2 min)**  
   *Parent does:* Pour the honey again, very slowly, from higher up, and watch where it lands.  
@@ -374,11 +374,11 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s3 (3 min)**  
   *Parent does:* Ask why the two are so different, and listen to the whole answer.  
   *Parent says:* Both are liquids. Why do you think the honey is so slow?  
-  *Child mode:* Water and honey are both liquids. Why is honey so slow? What do you think?
+  *Child mode:* Water and honey are both liquids. Why is honey so slow?
   - Note: Common answers are 'honey is heavy', 'honey is sticky' and 'honey is thick'. Don't correct them yet. The syrup race will test some of them.
   - Think: How could you find out which of your kitchen liquids is the slowest of all?
 ### a2 · The Thread Loop: watch soap break the water's skin (10 min)
-- **record:** Draw the loop before and after the soap touched it.
+- **record:** Draw the loop before and after the soap touched it, or take a photo of each.
 - **s1 (3 min)**  
   *Parent does:* 1. Let the water in the plate go completely still. 2. Lay the thread loop gently on the water, so it floats in a wiggly shape.  
   *Parent says:* Lay the loop on the water very gently. Look at its shape.  
@@ -387,7 +387,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s2 (2 min)**  
   *Parent does:* Dip the tip of the toothpick in soap. Ask for a guess before it touches the water.  
   *Parent says:* I will touch soap to the water inside the loop. What will the thread do? Why do you think so?  
-  *Child mode:* Soap will touch the water inside the loop. What will the thread do?
+  *Child mode:* Get ready. Soap will touch the water inside the loop.
   - Ask: What will happen to the loop, and why? (good: It will sink, because soap is heavy.; It will move away from the soap.; Nothing, because soap is only a little.)
 - **s3 (2 min)**  
   *Parent does:* Touch the soapy tip to the water in the middle of the loop, and hold it still.  
@@ -401,7 +401,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   *Child mode:* Rinse the plate. Use fresh water. Try it again.
   - Note: Soap spreads over the whole water, so a second try in the same water does not work. This is a good thing to talk about: a little soap changes the whole surface.
 ### a3 · The Ripple Hunter: find food like a water strider (10 min)
-- **record:** Draw the basin from above, with the ripple rings and the paper squares.
+- **record:** Draw the basin from above, with the ripple rings and the paper squares, or tell your grown-up what the rings did to the paper.
 - **s1 (3 min)**  
   *Parent does:* 1. Let the water go still. 2. Float the paper squares near one edge. 3. Drop one grain of rice onto the far side, from about 10 centimetres up.  
   *Parent says:* Watch the water, and watch the paper squares.  
@@ -454,7 +454,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 ## Projects
 ### p1 · The Kitchen Thickness Ladder: race the foods you eat (45 min, 3 days)
 - **safety:** Use liquids at room warmth, never hot from the stove.
-- **record:** A ladder chart on a long strip of paper, with each liquid's name, picture and time on its own rung.
+- **record:** A ladder chart on a long strip of paper, with each liquid's name and time on its own rung. A small drawing is optional.
 - **schedule:** day 1: Race four kitchen liquids down the tray and time each one. (15 min); day 2: Race four more liquids. Add the syrup race times too. (15 min); day 3: Make the ladder chart, runniest at the top and thickest at the bottom, and explain it to the family. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Set up the tray as in the syrup race. 2. Pick four kitchen liquids. 3. Guess their order. 4. Race each one with half a teaspoon, and time it.  
@@ -468,9 +468,9 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   - Note: A good answer: so the times from both days can be compared fairly.
   - Wait: Do this on day 2
 - **s3 (15 min)**  
-  *Parent does:* 1. Draw a ladder on a long strip of paper. 2. Put the fastest liquid on the top rung, and the slowest at the bottom. 3. Your child explains the ladder to the family.  
+  *Parent does:* 1. Make a ladder on a long strip of paper, with a small slip of paper for each liquid. 2. Put the fastest liquid on the top rung, and the slowest at the bottom. 3. Your child explains the ladder to the family.  
   *Parent says:* Put the fastest at the top and the slowest at the bottom. Then tell everyone what you found.  
-  *Child mode:* Draw a ladder. Fastest at the top. Slowest at the bottom. Explain it to your family.
+  *Child mode:* Make a ladder. Fastest at the top. Slowest at the bottom. Explain it to your family.
   - Note: Good answers name something in the liquid that could thicken it. For example, kanji is thick because of long starch particles from the rice, and sugar syrup is thick because of the sugar dissolved in it.
   - Think: Which liquid was thicker than you guessed? What could be in it that makes it thick?
   - Wait: Do this on day 3
@@ -485,7 +485,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud and set out the thickeners.  
   *Parent says:* We want water to be as slow as honey. What could we add to it? Why do you think it would work?  
-  *Child mode:* Make water as slow as honey. What could you add? Why?
+  *Child mode:* Make water as slow as honey. Choose what to add.
 - **s2 (15 min)**  
   *Parent does:* 1. Try one thickener at a time. 2. After each spoon, race half a teaspoon down the tray. 3. Write down what you added and the time.  
   *Parent says:* Add one spoon, then test. Is it slower now?  
@@ -498,7 +498,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   - Think: Flour particles are long and big. How might that slow the water down?
 ### c2 · The Soap Boat: move a boat without touching it (25 min)
 - **problem:** Design a small boat that moves across a basin of water on its own, with no pushing, blowing or touching. You may use one drop of soap each time.
-- **your turn:** Now design your own boat. Draw it, test it, and measure how far it goes.
+- **your turn:** Now design your own boat. Sketch it or build it from card, test it, and measure how far it goes.
 - **constraints:** The boat must be made from card or paper.; No pushing, blowing or touching the boat after it is placed.; Use fresh water for every try.
 - **general:** Cut a boat shape about 3 centimetres long, with a small notch cut into the back.; Put the boat on the water and touch a soapy toothpick into the notch.; The soap weakens the skin behind the boat, and the stronger skin in front pulls it forward.
 - **creative:** Make the notch on one side, so the boat turns in circles.; Try different shapes: long and thin, round, or a triangle.; Race two boats in two basins, one with a bigger notch than the other, and see which goes further.

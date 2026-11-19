@@ -269,11 +269,11 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s2 (3 min)**  
   *Parent does:* Find the card 'A tabla'. Play it together as a practice round, then shuffle it back into the pile.  
   *Parent says:* Let's practise. 'A tabla.' When you hit a tabla, what vibrates?  
-  *Child mode:* Practice card: a tabla. What vibrates when you hit it? Say your answer.
+  *Child mode:* Practice card: a tabla. Say your answer.
   - Check: When you hit a tabla, what vibrates to make the sound? → **The stretched skin**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns drawing a card and reading it out. 2. The player puts it on a mat and says what is vibrating. 3. Turn the card over to check. 4. Give a token for each right answer.  
-  *Parent says:* Tell me what is vibrating, and where it is. Then check the back.  
+  *Parent says:* Tell me what is vibrating. Then check the back.  
   *Child mode:* Read your card. What is vibrating? Put it on a mat. Turn it over. If you were right, take a token!
   - Note: Tricky cards: the ghatam is a solid clay pot, but the air inside it also vibrates. The shehnai's reed vibrates first, then the air in the tube. Animals are BODY: a male cricket rubs his wings, a mosquito beats her wings, a frog and a dog use vocal folds. A pressure cooker whistle is air vibrating as it rushes out.
 - **s4 (3 min)**  
@@ -332,7 +332,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s4 (3 min)**  
   *Parent does:* Look at the table together and compare it with your guess.  
   *Parent says:* What happened when more of the ruler stuck out? Was your guess right?  
-  *Child mode:* Look at your table. When more of the ruler stuck out, was the sound higher or lower? Was your guess right?
+  *Child mode:* Look at your table. Was your guess right?
   - Check: When more of the ruler sticks out, it vibrates more slowly. What happens to the sound? → **It gets lower, and at the longest it is hard to hear**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -344,7 +344,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **predict:** Guess first. If a small foil ball on a thread touches a ringing plate, will it stay still or move? Why do you think so?
 - **fair test:** Hit the plate the same way each time. Then compare: the foil ball touching the plate while it rings, and touching it after you have stopped it with your hand. Change only whether the plate is ringing.
 - **safety:** Hit the plate firmly but not so hard it hurts anyone's ears. Keep it away from ears.
-- **record:** Fill in the table. Draw the foil ball jumping off the ringing plate.
+- **record:** Fill in the table. Draw the foil ball jumping off the ringing plate, or tell your grown-up what you saw.
 - **results table:** What we did | What the foil ball or water did | Could we hear the ring?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Squeeze the foil into a pea-sized ball. 2. Tape the thread to it. 3. Tape the other end of the thread to the edge of a table, so the ball hangs down. 4. Hold the plate on its edge, upright, so its rim just touches the hanging ball.  
@@ -353,13 +353,13 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s2 (4 min)**  
   *Parent does:* 1. Hold the plate upright by its very edge, with two fingers. 2. Hit it firmly near the rim with the spoon. 3. Watch the foil ball.  
   *Parent says:* Listen to it ring. Now watch the ball. What does it do?  
-  *Child mode:* Hit the plate with the spoon. Listen. Watch the foil ball. What does it do?
+  *Child mode:* Hit the plate with the spoon. Listen. Watch the foil ball.
   - Ask: What did the foil ball do when the plate rang? (good: It jumped away.; It bounced off the plate again and again.)
   - Note: Hold the plate loosely by the edge, or it won't ring. The ball should bounce away clearly. If it doesn't, hit a little harder, or make the ball smaller.
 - **s3 (4 min)**  
   *Parent does:* 1. Hit the plate again. 2. Then hold it with your whole hand to stop the ring. 3. Let the ball touch it again.  
   *Parent says:* Now let's stop the ring with a hand. Watch the ball this time.  
-  *Child mode:* Hit it again. Now hold it tight to stop the ring. Does the ball still jump?
+  *Child mode:* Hit it again. Now hold it tight to stop the ring. Watch the ball.
   - Check: When you held the plate and the ring stopped, what did the foil ball do? → **It hung still, because the plate stopped vibrating**
 - **s4 (5 min)**  
   *Parent does:* 1. Pour water into a steel bowl until it is half full. 2. Shine the torch on the water from the side. 3. Hit the rim of the bowl firmly with the spoon. 4. Look at the water right next to the side of the bowl.  
@@ -377,7 +377,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **predict:** Guess first. With a blob of atta dough in the middle, will the drum sound higher, lower, or the same? Why do you think so?
 - **fair test:** Use the same drum, tapped the same way, on the same spot. Change only one thing: the dough. Tap with no dough, then a small blob, then a bigger blob. Listen to each one three times.
 - **safety:** A grown-up cuts the balloon. Balloons can choke small children, so keep the pieces away from babies.
-- **record:** Fill in the table. Draw the drum with rice jumping on it, and the drum with the dough blob.
+- **record:** Fill in the table. Draw the drum with rice jumping and the drum with the dough, or tell your grown-up what each one did.
 - **results table:** Dough on the skin | Higher or lower than with no dough?
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the neck off the balloon. 2. Stretch the balloon tightly over the top of the tumbler or tin. 3. Hold it with the rubber band. 4. Pull the edges down until the skin is smooth and tight, like a drum.  
@@ -392,11 +392,11 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s3 (7 min)**  
   *Parent does:* 1. Brush the rice off. 2. Press a pea-sized blob of dough in the centre of the skin. Tap the same spot as before and listen. 3. Make it a coin-sized blob. Tap the same spot and listen. 4. Take the dough off and tap that spot again to compare.  
   *Parent says:* A mridangam player presses wet dough on the left side of the drum before playing. Let's find out why.  
-  *Child mode:* Press a tiny blob of dough in the middle. Tap the same spot. Make the blob bigger. Tap. Now take it off. Tap. What changed?
+  *Child mode:* Press a tiny blob of dough in the middle. Tap the same spot. Make the blob bigger. Tap. Now take it off. Tap. Listen each time.
   - Check: What did the dough blob do to the drum's sound? → **Made it lower and deeper**
 - **s4 (4 min)**  
   *Parent does:* Talk about the tabla and the mridangam together.  
-  *Parent says:* Real tabla and mridangam drums have a heavy black patch called the syahi. Our dough only makes the note lower. The syahi also makes the drum ring with a clear note instead of a thud. C.V. Raman, an Indian scientist, explained how in 1920. But drum makers invented it long before.  
+  *Parent says:* Real tabla and mridangam drums have a heavy black patch called the syahi. Our dough only makes the note lower. The syahi also makes the drum ring with a clear note instead of a thud.  
   *Child mode:* Real drums have a heavy black patch called syahi. It helps them ring with a clear note. Drum makers invented it long ago.
   - Think: Drum makers found the syahi without any science lab. They added a thin layer of paste and tapped the drum after each layer. What were they listening for each time?
 - **s5 (4 min)**  
@@ -425,7 +425,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   - Think: Think of something at home that is making no sound right now, such as a steel plate on a shelf. If every sound comes from a vibration, what does the silence tell you about that plate?
 ### a2 · The Coin Line: be the air molecules (15 min)
 - **problem:** Sound crosses a room without any air flying from the drum to your ear. In this activity, coins stand in for air molecules, and a flick stands in for a vibrating drum. You will see a push travel along a line of coins, while the coins in the middle hardly move.
-- **record:** Draw the coin line, with an arrow showing the push travelling. Write one sentence: what travelled, and what stayed?
+- **record:** Write one sentence: what travelled, and what stayed? Draw the coin line with an arrow for the push, or tell your grown-up.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay 5 coins in a straight line on the table, each one touching the next. 2. Hold the 6th coin a hand's width away, in line. 3. Flick it so it slides into the end of the line.  
   *Parent says:* These coins are air molecules. Watch the coin at the far end when I flick this one.  
@@ -434,7 +434,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s2 (3 min)**  
   *Parent does:* 1. Space the 5 coins out, with a gap as wide as your palm between each one. 2. Flick the 6th coin in again, with the same gentle flick as before.  
   *Parent says:* Now the coins are far apart, like the few particles in space. What happens?  
-  *Child mode:* Now leave gaps between the coins. Flick again. Does the push reach the end?
+  *Child mode:* Now leave gaps between the coins. Flick again. Watch the far coin.
   - Ask: Why didn't the push reach the end this time? (good: The coins weren't touching.; The first coin slid a little and stopped before it reached the next one.)
   - Note: If a coin slides all the way to the next one, flick more gently or make the gaps wider.
 - **s3 (5 min)**  
@@ -445,7 +445,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s4 (3 min)**  
   *Parent does:* Talk about what travelled and what stayed.  
   *Parent says:* What went from one end to the other? Did any coin or person travel all the way?  
-  *Child mode:* What travelled down the line? Did any coin go all the way? Does sound in air work the same way?
+  *Child mode:* Think about the first coin and the last coin. Does sound in air work like this?
   - Check: In the coin line, what travelled from one end to the other? → **The push, passed from coin to coin**
   - Think: Real air molecules are not in a neat line, and they never stop zooming about. How is the real air different from our coins?
 ### a3 · Kitchen Orchestra and the Jal Tarang (15 min)
@@ -468,7 +468,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   - Check: You tap tumblers with different amounts of water. Which one sounds lowest? → **The fullest one, because more water makes it vibrate more slowly**
 ### a4 · Rubber-band Veena (20 min)
 - **safety:** Don't stretch bands near your face. A band can snap and sting.
-- **record:** Draw your veena. Write which band was highest and which was lowest, and why.
+- **record:** Write which band was highest and which was lowest, and why. Draw your veena, or take a photo.
 - **s1 (4 min)**  
   *Parent does:* 1. Stretch one rubber band between your thumbs, in the air. 2. Pluck it. 3. Now stretch the same band around the open box. 4. Pluck it again.  
   *Parent says:* Listen to the band alone, then over the box. What changes?  
@@ -487,28 +487,28 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s4 (4 min)**  
   *Parent does:* Play your veena. Try to play a short tune or a pattern of notes.  
   *Parent says:* Play us something. What is vibrating when you play?  
-  *Child mode:* Play a tune on your veena! What is vibrating: the band, the box, or both?
+  *Child mode:* Play a tune, or a pattern of notes, on your veena!
   - Think: The box made the band louder. Your throat, mouth and nose do something like this for your voice. Hum and feel your face and chest buzz.
 ### a5 · Straw Shehnai (10 min)
 - **problem:** A shehnai has a reed, which is a thin flap that vibrates when you blow. The reed makes the air inside the tube vibrate, and the air sets the note. In this activity, you make a reed from a straw, and then you cut the straw shorter to hear how the note changes.
 - **safety:** A grown-up does all the cutting. Each person uses their own straw.
-- **record:** Draw your straw shehnai and label the reed. Write what happened when it was cut shorter.
+- **record:** Write what happened when it was cut shorter. Show your grown-up where the reed is, or draw it.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Flatten one end of the straw by pressing it hard with your teeth or fingers, for about 2 cm. 2. A grown-up cuts the flat end into a V shape, like a pointed arrow tip.  
   *Parent says:* A shehnai has a reed: two thin flaps that slap together when you blow. We'll make one from a straw.  
   *Child mode:* Flatten one end of the straw. Ask a grown-up to cut it into a V shape.
 - **s2 (4 min)**  
-  *Parent does:* 1. Put the V end into your mouth, past the cut, about 2 cm in. 2. Close your lips around it. 3. Blow hard, without biting.  
+  *Parent does:* 1. Put the V end into your mouth, about 2 cm in. 2. Close your lips around it. 3. Blow hard, without biting.  
   *Parent says:* Blow hard. It may take five or more tries. Move it a little further in or out each time.  
   *Child mode:* Put the V end in your mouth. Close your lips. Blow hard! Keep trying. It takes practice.
   - Note: Most children need several tries. If it won't buzz, flatten the V again, and press lips a little harder. Paper straws usually go soggy and don't work. When it works, it gives a loud, buzzy honk. Single-use plastic straws are no longer sold in India, so use any you already have. If you have none, skip this activity and try the Kitchen Orchestra instead.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. While your child keeps blowing, a grown-up snips a bit off the far end of the straw. 2. Snip again. Listen each time.  
   *Parent says:* Keep blowing. Listen to what happens as the straw gets shorter.  
-  *Child mode:* Keep blowing! A grown-up will snip the end off. What happens to the note?
+  *Child mode:* Keep blowing! A grown-up will snip the end off. Listen.
   - Check: As the straw shehnai is cut shorter, what happens to its note? → **It goes higher**
 ### a6 · Animal Sound Makers (15 min)
-- **record:** Draw one animal making a sound. Label the part that vibrates.
+- **record:** Tell your grown-up about one animal: which part of the animal's body vibrates to make the sound? Or draw it.
 - **s1 (4 min)**  
   *Parent does:* 1. Run a fingernail or a card along the teeth of the comb, slowly, then fast. 2. Listen.  
   *Parent says:* A male cricket makes his chirp like this. He rubs a hard scraper on one wing across a row of tiny teeth on the other wing.  
@@ -533,12 +533,12 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 ## Projects
 ### p1 · My Instrument Concert (60 min, 3 days)
 - **safety:** A grown-up does any cutting. Keep the concert at a comfortable loudness.
-- **record:** Keep the design drawing. Write what you changed on day 2, and why. Make a concert poster.
+- **record:** Keep your plan. Write what you changed on day 2, and why.
 - **schedule:** day 1: Choose a kind of instrument: string, skin, air or solid. Draw a design. (15 min); day 2: Build the instrument. Test it. Make one change to make it louder or change its note. (25 min); day 3: Give a concert for the family. Before each piece, explain what vibrates in your instrument. (20 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Choose a kind of instrument: string, skin, air or solid. 2. Draw a design and label the part that will vibrate. 3. List what you need.  
-  *Parent says:* Every instrument in the world has a part that vibrates. Which kind will you build? Draw it first, like an inventor.  
-  *Child mode:* Choose: string, skin, air or solid. Draw your instrument. Label the part that vibrates.
+  *Parent does:* 1. Choose a kind of instrument: string, skin, air or solid. 2. Plan it: draw a design, or lay out the objects you will use, and say which part will vibrate. 3. List what you need.  
+  *Parent says:* Every instrument in the world has a part that vibrates. Which kind will you build? Plan it first, like an inventor.  
+  *Child mode:* Choose: string, skin, air or solid. Plan your instrument. Show which part vibrates.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. Build the instrument from the design. 2. Play it. 3. Ask: is it loud enough? Can it play more than one note?  
   *Parent says:* Let's build it and try it. What do you hear?  
@@ -549,7 +549,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Parent says:* Real instrument makers test and change, again and again. What one change could make yours better?  
   *Child mode:* Make one change. Add a box to make it louder. Or make something tighter or shorter for a higher note. Test it again.
 - **s4 (20 min)**  
-  *Parent does:* 1. Make a poster for the concert. 2. Invite the family. 3. Before playing, explain what vibrates in your instrument. 4. Play.  
+  *Parent does:* 1. Make a poster, or just invite the family aloud. 2. Let your child explain what vibrates, then play.  
   *Parent says:* Welcome to the concert! Before you play, tell us what is vibrating.  
   *Child mode:* It's your concert! Tell everyone what vibrates in your instrument. Then play!
   - Think: Every instrument in the world, from a veena to a drum to a flute, is a way of making something vibrate. What would you invent next?
@@ -557,7 +557,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 ## Challenges
 ### c1 · One Band, Biggest Sound (25 min)
 - **problem:** Using just one rubber band, make the loudest sound you can by plucking it.
-- **your turn:** Now invent your own way. Draw it, try it, and ask someone to judge which is loudest from across the room.
+- **your turn:** Now invent your own way. Try it, and ask someone to judge which is loudest from across the room.
 - **constraints:** Only one rubber band.; You may use anything else from home to hold it or put it on.; No shouting, no banging, no phones: only the plucked band.
 - **general:** Stretch the band over an open box. The box vibrates with it and pushes more air.; Try a bigger hollow thing, like a bucket or a big tin.; Stretch it tighter, so it springs back harder.
 - **creative:** Press the ends of the stretched band against a table top or a door while you pluck it. The table or door may act as a sounding board.; A veena uses a big hollow body, and sometimes a second gourd at the top. Could two boxes help?; Put your ear against the box while someone plucks. Does it sound louder through the box than through the air?
@@ -568,7 +568,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **s2 (5 min)**  
   *Parent does:* List three ideas before trying any.  
   *Parent says:* Before trying anything, let's think. What could make the band push more air?  
-  *Child mode:* Think first, like an engineer. Draw or write three ideas.
+  *Child mode:* Think first, like an engineer. Say or write three ideas.
 - **s3 (10 min)**  
   *Parent does:* 1. Try each idea. 2. The judge stands across the room and says which is loudest.  
   *Parent says:* Try each idea. Our judge will decide which is loudest.  
@@ -581,7 +581,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   - Check: Why does a band sound louder over a hollow box? → **The box vibrates too, and pushes much more air**
 ### c2 · A Doorbell for Someone Who Cannot Hear (30 min)
 - **problem:** Design a doorbell for a person who is deaf. When someone arrives, the person inside must know, without hearing anything.
-- **your turn:** Now design your own doorbell. Draw it, build a model, and test it with someone who closes their eyes and covers their ears.
+- **your turn:** Now design your own doorbell. Build a model, and test it with someone who closes their eyes and covers their ears.
 - **constraints:** It must work without the person hearing a sound.; Use only things from home.; The visitor must be able to work it from outside the door.
 - **general:** A light that flashes, like a torch switched on by the visitor.; Something that moves where the person can see it, like a cloth flag pulled by a string.; A vibration they can feel, like a string tied to a chair or to the bed that the visitor tugs.
 - **creative:** Evelyn Glennie, a great Scottish drummer, is profoundly deaf. She plays barefoot, to feel the music through the floor. Could a knock on the floor work as a doorbell?; Many deaf people use phones that vibrate in their pocket. Could a family use a vibrating phone as a doorbell?; A vibration travels well along a tight string. A string from the door to the person's chair could carry a tug.
@@ -600,8 +600,8 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   - Note: A string tied to the tester's chair or wrist and tugged from the door works well. So does a cushion or table they rest a hand on, which the visitor knocks. Ask the tester what it felt like.
 - **s4 (5 min)**  
   *Parent does:* Read the usual and the creative ideas together. Then improve your design.  
-  *Parent says:* Evelyn Glennie says hearing is a kind of touch. What do you think she means?  
-  *Child mode:* A deaf drummer says hearing is a kind of touch. What do you think she means?
+  *Parent says:* Evelyn Glennie, a deaf drummer, says hearing is a kind of touch.  
+  *Child mode:* She says hearing is a kind of touch. What do you think she means?
   - Check: Evelyn Glennie is deaf, yet she plays drums. How does she feel the music? → **She feels the vibrations through her body and the floor**
 
 ## Worksheets

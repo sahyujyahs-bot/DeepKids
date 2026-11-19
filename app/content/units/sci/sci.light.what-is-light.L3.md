@@ -303,8 +303,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Child mode:* Lay the 8 sections on the floor. NOW is on the left. The oldest light is on the right. Mix up the light cards.
 - **s2 (3 min)**  
   *Parent does:* Play the Moon card and the Sun card together as a practice round. Then shuffle them back into the light cards.  
-  *Parent says:* Let's practise. Which light is older when it reaches us, the Moon's or the Sun's?  
-  *Child mode:* Practice round. Which light took longer to reach you, the Moon's or the Sun's? Say your answer.
+  *Parent says:* Let's practise with two cards, the Moon and the Sun.  
+  *Child mode:* Practice round. Look at the Moon card and the Sun card. Which one is further from you?
   - Ask: Why is the Sun's light older? (good: The Sun is much further away.; Light needs more time for a longer trip.)
   - Check: Which light took longer to reach your eye? → **The Sun's light**
 - **s3 (10 min)**  
@@ -334,8 +334,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   - Check: In the game, the GLASS card makes photons slow down. What does that show about real light? → **Light slows down inside glass**
 - **s3 (4 min)**  
   *Parent does:* Sit down together and talk about the game.  
-  *Parent says:* Was light more like a wave or more like a crowd of particles in our game? Scientists found that real light is both at once.  
-  *Child mode:* Sit down. Was light a wave or a crowd of dots in the game? Real light is both!
+  *Parent says:* In our game you moved like a wave and like a crowd of dots. Scientists found that real light is both at once.  
+  *Child mode:* Sit down. Which card felt like a wave? Which felt like a crowd of dots?
   - Think: The game had a WAVE card and a PARTICLE card. Which fits the stripes from two slits? Which fits the glow star test?
 
 ## Experiments
@@ -344,7 +344,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **predict:** Before you start, guess. Will you see the plates meet and hear the bang together, or will one come first? Will the gap be bigger from 200 steps away than from 100 steps? Why do you think so?
 - **fair test:** To make it fair, the helper makes the flash and the bang at exactly the same moment, every time. Only the distance changes. Do 3 tries at each distance, because one try can be a fluke.
 - **safety:** A grown-up must come. Choose a place away from traffic.
-- **record:** Fill in the table. Then draw the helper far away, with an arrow for the light and an arrow for the sound. Draw the light arrow arriving first.
+- **record:** Fill in the table. Then tell your grown-up which came first, the flash or the bang, and why. Or draw the helper far away, with an arrow for the light and an arrow for the sound.
 - **results table:** Distance (big steps) | Try 1: what came first? | Try 2 | Try 3 | Was there a gap? Tiny, small or big?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Stand about 20 big steps from the helper. 2. The helper holds the plates high and bangs them together 3 times, with a pause between. 3. Watch and listen each time.  
@@ -365,7 +365,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **s4 (5 min)**  
   *Parent does:* Come back together. Talk about why the flash arrived first.  
   *Parent says:* The light and the sound left the plates at the very same moment. The light reached you almost at once. The sound took longer. So which one is faster?  
-  *Child mode:* The light and the sound left together. The light won the race. Which is faster?
+  *Child mode:* The flash and the bang left the plates together. Which one reached you first?
   - Ask: How long did the light take to travel 200 steps? (good: Almost no time.; Less than a millionth of a second.)
   - Ask: What else do you see before you hear? (good: Lightning and thunder.; Fireworks.; A cricket bat hitting a ball far away.)
 - **s5 (5 min)**  
@@ -377,11 +377,11 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **question:** Which makes a glow-in-the-dark star glow, red light or blue light? And if one colour does not work, does shining it for longer help?
 - **predict:** Before you test, guess. Will the red screen make the star glow? Will the blue screen? If one of them does not work, will shining it for 4 times as long help? Why do you think so?
 - **fair test:** To make it fair, use the same kind of glow star each time. Hold each screen 2 centimetres away, at full brightness, for 30 seconds. Keep the room dark. Keep the stars in a closed box from the night before, or for at least 1 hour, so they start with no glow. Glow stars can keep a faint glow for a long time, so a few minutes in the dark is not enough.
-- **record:** Fill in the table. Then draw star 1 after the red screen and star 2 after the blue screen. Draw each photon as a dot. Give a blue photon a bright ring and the words 'more energy'. Give a red photon a small ring and the words 'less energy'.
+- **record:** Fill in the table. Then tell your grown-up which star glowed and why. Or draw star 1 after the red screen and star 2 after the blue screen. Draw each photon as a dot. Give a blue photon a bright ring and the words 'more energy'. Give a red photon a small ring and the words 'less energy'.
 - **results table:** Light used | How bright the screen looked | How long we shone it | Did the star glow afterwards? None, faint or bright
 - **s1 (4 min)**  
   *Parent does:* 1. The night before, or at least 1 hour before, put the 3 glow stars in a closed box or a dark cupboard. 2. Set the phone to full brightness. 3. On the phone, find a plain red picture and a plain blue picture to show full-screen. 4. Make the room dark. Take out the stars and check that none of them glows.  
-  *Parent says:* We need the stars to start with no glow at all. Then any glow comes only from the light we shine on them. Which do you think will make a star glow, red light or blue light? Why?  
+  *Parent says:* We need the stars to start with no glow at all. Then any glow comes only from the light we shine on them. Which colour do you think will make a star glow? Why?  
   *Child mode:* Your stars have been in a dark box, so they have no glow left. Check them in the dark. Guess: will red or blue light make them glow? Why?
   - Note: Write down your child's guess and their reason. Don't say which is right. The test will show it.
 - **s2 (5 min)**  
@@ -395,7 +395,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent says:* Now blue light. To our eyes, the blue screen probably looks dimmer than the red one. Let's see what happens.  
   *Child mode:* Now hold the blue screen over star 2. Count to 30. Switch it off. What do you see?
   - Note: Star 2 should glow softly. The glow is faint, so look in a fully dark room, with your hands cupped round the star. Phone screens differ, and the result is not certain. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it. If star 2 still stays dark, say so honestly and go on to the step with the white torch.
-  - Check: Suppose the red screen leaves star 1 dark and the blue screen makes star 2 glow. Why? → **Each blue photon carries enough energy, and each red photon does not**
+  - Check: Star 1 stayed dark under the red screen. Star 2 glowed under the blue screen. Why? → **Each blue photon carries enough energy, and each red photon does not**
 - **s4 (6 min)**  
   *Parent does:* 1. Hold the red screen over star 1 again, this time for 2 whole minutes. 2. Switch off and look.  
   *Parent says:* Maybe the red light just needs longer. Let's give it four times as long, so four times as much red light. What do you think will happen?  
@@ -410,7 +410,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see? And why do you think it happened?  
-  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
+  *Child mode:* Your grown-up will ask you three questions. Answer in your own words.
   - Note: A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the red screen left star 1 dark, even for 2 minutes, but the blue screen made star 2 glow in 30 seconds. Why: light comes in packets called photons. Each blue photon has enough energy, but each red photon does not.
 ### e3 · Chocolate in the Microwave: measure the speed of light (24 min)
 - **problem:** A wave's speed is its length times the number of waves each second. A microwave oven makes waves of light our eyes cannot see. They travel at the speed of light. In this experiment, chocolate shows how long the waves are. The oven's label says how many waves it makes each second.
@@ -418,7 +418,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **predict:** Before you start, guess. Will the chocolate melt evenly all over, or only in some spots? Why do you think so?
 - **fair test:** Take the turning glass plate out, so the chocolate stays still. Heat in short bursts of 15 seconds, up to about 40 seconds in all, so only the hottest spots melt. Measure between the centres of melted spots, more than once, and take the middle value.
 - **safety:** Only a grown-up uses the microwave. Never run a microwave empty, and never put metal inside. Heat in bursts of 15 seconds only. Melted chocolate can be very hot, so let it cool before touching.
-- **record:** Draw the plate of chocolate with its melted spots. Write the gap between two spots. Write the speed you worked out next to the real speed of light.
+- **record:** Take a photo of the plate of chocolate with its melted spots, or draw it. Write the gap between two spots. Write the speed you worked out next to the real speed of light.
 - **results table:** Try | Distance between two melted spots (cm) | Length of one whole wave: twice that distance (cm)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Look at the sticker on the back or side of the microwave. 2. Find the number with 'MHz' after it, usually 2450 MHz.  
@@ -443,16 +443,16 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 
 ## Activities
 ### a1 · Switch On the Dark: what do you notice about light? (10 min)
-- **record:** Write or draw one thing you noticed and one thing you wonder about light.
+- **record:** Tell your grown-up one thing you noticed and one thing you wonder about light. They can write it down for you. You can draw it too.
 - **s1 (3 min)**  
   *Parent does:* 1. Close the curtains and switch off the lights. 2. Give your child the torch. 3. Ask them to switch it on and off, pointing at the far wall.  
   *Parent says:* Switch the torch on and off. Watch the wall closely. Does the light take any time to get there?  
-  *Child mode:* Point the torch at the far wall. Switch it on and off. Does the light take any time to get there?
+  *Child mode:* Point the torch at the far wall. Switch it on and off. Watch the wall closely.
   - Ask: What did you notice? (good: It looks instant.; The wall lights up the moment I press the switch.)
 - **s2 (3 min)**  
   *Parent does:* 1. Hold the torch steady. 2. Gently shake a little talcum powder, or flap a dusty cloth, in the beam. 3. Look at the beam from the side.  
   *Parent says:* Look at the beam from the side. What shape is it? Light only shows up when it bounces off something, like the specks of powder.  
-  *Child mode:* Shake a little powder in the beam. Look from the side. What shape is the light?
+  *Child mode:* Shake a little powder in the beam. Look at the beam from the side.
   - Ask: What shape is the beam? (good: A straight line.; A cone, getting wider.; It does not bend.)
 - **s3 (4 min)**  
   *Parent does:* 1. Ask your child to try to catch the light in a closed hand, then open it. 2. Switch off the torch. 3. Ask where the light went and what light is made of.  
@@ -463,16 +463,16 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   - Think: Light that already left the torch keeps going. What does it do when it reaches the wall?
 ### a2 · The 8-Minute Wait (25 min)
 - **safety:** Never look straight at the Sun, not even for a second. It can hurt your eyes for ever.
-- **record:** Write: the sunlight on my arm left the Sun about 8 minutes ago. Draw what you did during the 8-minute wait.
+- **record:** Write: the sunlight on my arm left the Sun about 8 minutes ago. Then tell your grown-up what it felt like to wait 8 minutes.
 - **s1 (3 min)**  
   *Parent does:* 1. Find a patch of sunlight indoors, on the floor or a bed. 2. Sit in it with your child. 3. Feel the warmth on your arm.  
   *Parent says:* This warm light on your arm has come all the way from the Sun. The Sun is 15 crore kilometres away. Light is the fastest thing there is. Even so, it took about 8 minutes to get here.  
   *Child mode:* Sit in a patch of sunlight. Feel it on your arm. This light came from the Sun. It took about 8 minutes to get here.
   - Note: Sunlight through a window is safe to sit in. Never let your child look at the Sun itself. No sunlight today, or a flat that gets none? Sit by the brightest window and carry on. The 8 minutes are the same.
 - **s2 (9 min)**  
-  *Parent does:* 1. Set a timer for 8 minutes and 20 seconds. 2. Start it. 3. While it runs, your child draws the Sun on one side of a page. 4. They draw themselves on the other side, with a beam of light between the two. 5. When it rings, stop.  
+  *Parent does:* 1. Set a timer for 8 minutes and 20 seconds. 2. Start it. 3. While it runs, your child holds up one more finger each minute. 4. When it rings, stop.  
   *Parent says:* The sunlight landing on you now left the Sun about 8 minutes ago. The light leaving the Sun right now, as we press start, will reach you when the timer rings. That's how long its journey takes.  
-  *Child mode:* Start a timer for 8 minutes and 20 seconds. While you wait, draw the Sun, you, and the light between. When it rings, that is how long sunlight takes!
+  *Child mode:* Start a timer for 8 minutes and 20 seconds. While you wait, hold up one more finger each minute. When it rings, that is how long sunlight takes!
   - Check: The timer rings after 8 minutes 20 seconds. What has just happened? → **Light that left the Sun when you pressed start has just reached you**
 - **s3 (8 min)**  
   *Parent does:* 1. Lay the string straight on the floor. 2. Put a peg at one end. That is the Sun. 3. Measure 8 centimetres along and put the Earth peg there. 4. Put a Mars peg at about 13 centimetres. 5. Put a Jupiter peg at 43 centimetres.  
@@ -487,10 +487,10 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   - Think: When you see a star tonight, how old is the light you are seeing?
 ### a3 · Ripples in an Uruli: what is a wave? (20 min)
 - **problem:** A wave is a movement that travels, while the water stays put. Scientists once asked whether light is a wave like this. Or is it a stream of tiny particles? In this activity, you make water waves and roll marbles to compare.
-- **record:** Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.
+- **record:** Tell your grown-up what you saw where the two ripples crossed. Then draw the ripples from two coins crossing each other, if you like.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the uruli (a wide, shallow bowl) on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.  
-  *Parent says:* Watch the rings spread out. That is a wave. The water itself only bobs up and down. The movement is what travels outwards.  
+  *Parent says:* Watch the rings spread out. That is a wave. Look at where the water goes, and what travels to the edge.  
   *Child mode:* Drop one coin in the middle. Watch the rings spread. That is a wave!
   - Ask: Does the water travel to the edge, or just the ripple? (good: Just the ripple.; The water bobs up and down in its place.)
 - **s2 (6 min)**  
@@ -510,20 +510,20 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   - Think: Ripples crossing made a pattern. Light through two slits did too. What did Thomas Young decide light is?
 ### a4 · The Late Moon: act out Rømer's discovery (20 min)
 - **problem:** In 1676, Ole Rømer timed Io, a moon of Jupiter. Io came out later when the Earth was further away. Here, a slow messenger stands for light. You act out why the moon seemed late.
-- **record:** Write the number you had reached at 'Now!' when you stood close, and when you stood far away. Draw Jupiter, and the Earth near it and far from it.
+- **record:** Write the number you had reached at 'Now!' when you stood close, and when you stood far away. Then tell your grown-up why Io seemed late.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the chair at one end of the corridor. It is Jupiter. 2. The grown-up plays Io, Jupiter's moon, and stands by the chair with the torch and the paper star. 3. The child is the observer. They stand with their back turned and count aloud, steadily, 1, 2, 3, up to 10. At 10, Io flashes the torch, to show the moon coming out of Jupiter's shadow.  
   *Parent says:* Io goes round Jupiter like clockwork. Every 42 and a half hours, it comes out of Jupiter's shadow. In our game, it comes out every time the count reaches 10. The observer has their back turned, so they cannot see the flash. The news reaches them only when Io walks the paper star over.  
   *Child mode:* The grown-up is Io, Jupiter's moon. Stand with your back turned. Count 1 to 10 aloud, steadily. At 10, Io flashes the torch.
 - **s2 (5 min)**  
-  *Parent does:* 1. The observer stands 3 steps from Jupiter, back turned, and counts aloud from 1. 2. At 10, Io flashes the torch, picks up the paper star and walks it to the observer at a slow, steady pace. 3. The observer says 'Now!' when the star arrives, and writes down the number they had reached.  
+  *Parent does:* 1. The observer stands 3 steps from Jupiter, back turned, and counts aloud from 1. 2. At 10, Io flashes the torch, picks up the paper star and walks it to the observer at a slow, steady pace. 3. The observer says 'Now!' when the star arrives, and writes down the number they had reached. They keep counting until the star arrives.  
   *Parent says:* In our game, the light from Io is a slow messenger. Close up, the news arrives soon after the flash.  
-  *Child mode:* Stand close to Jupiter, back turned. Count 1 to 10 aloud. Io flashes at 10 and walks the star to you. Say 'Now!' when it arrives. Which number were you on?
+  *Child mode:* Stand close to Jupiter, back turned. Count aloud. Io flashes at 10 and walks the star to you. Keep counting. Say 'Now!' when it arrives. Which number were you on?
   - Note: The messenger stands for light. Walking makes the delay big enough to see. Real light is enormously faster, but Jupiter is enormously far away. Count at the same steady pace each time, and walk at the same pace each time.
 - **s3 (6 min)**  
   *Parent does:* 1. The observer moves to the far end of the corridor. 2. Repeat the same count to 10 and the same slow walk. 3. Write down the number the observer had reached at 'Now!', and compare it with the first time.  
   *Parent says:* Now the Earth is far from Jupiter. Io flashes on time, but the message takes longer to arrive. So to the observer, Io seems late!  
-  *Child mode:* Now stand far away. Count to 10 again. Io flashes and walks the star over. Which number were you on at 'Now!'? Is it bigger? Io seems late!
+  *Child mode:* Now stand far away. Count to 10 again. Io flashes and walks the star over. Which number were you on at 'Now!'? Is it bigger than before?
   - Check: When the Earth was far from Jupiter, Io seemed late. Why? → **The light carrying the news had further to travel**
 - **s4 (5 min)**  
   *Parent does:* Tell the real story in a few sentences.  
@@ -556,11 +556,11 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 ### a6 · The Street-Light Star: see light's waves in a cloth (15 min)
 - **problem:** Waves that squeeze through tiny gaps spread out and cross. That makes a pattern. A fine cloth has gaps tiny enough to do this to light. So a pattern is a clue that light is a wave.
 - **safety:** Do it at night only. Never look at the Sun through anything, not even cloth.
-- **record:** Draw the pattern you saw around the street light.
+- **record:** Draw the pattern you saw around the street light, or tell your grown-up what shape it made.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. At night, find a single bright light far away, like a street light. 2. Hold the cloth tight, right up close to one eye. 3. Close the other eye. 4. Look at the light through the cloth.  
   *Parent says:* Look closely. Do you see the light as one dot, or as lots of dots in a pattern?  
-  *Child mode:* Hold the cloth right up to one eye. Look at a far street light. What do you see?
+  *Child mode:* Hold the cloth right up to one eye. Close the other eye. Look at a far street light.
   - Ask: What does the light look like? (good: A cross of dots.; Rows of little lights.; A star shape.)
 - **s2 (5 min)**  
   *Parent does:* 1. Slowly turn the cloth while you keep looking. 2. Then try a different cloth, or a fine tea strainer.  
@@ -578,14 +578,14 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **s1 (7 min)**  
   *Parent does:* 1. Ask your child to draw a lamp on one side of the page and a wall on the other. 2. Ask them to draw what light looks like on its way, if we could zoom in and slow it down.  
   *Parent says:* If we could slow light down and zoom right in, what would we see between the lamp and the wall? Draw your best idea.  
-  *Child mode:* Draw a lamp and a wall. What travels from the lamp to the wall? Draw your idea.
+  *Child mode:* Draw a lamp and a wall. What travels from the lamp to the wall? Draw your idea, or tell your grown-up.
   - Note: Any idea is good. Some children draw lines, some draw dots, some draw nothing. Keep the drawing to compare later.
 - **s2 (8 min)**  
   *Parent does:* At the end of the unit, ask your child to draw again. Compare the two drawings.  
   *Parent says:* Now that you know more, draw it again. What did you add? What did you change?  
-  *Child mode:* Draw it again now. What is different?
+  *Child mode:* Draw it again now, or tell your grown-up your new idea. What is different?
   - Ask: What did you add? (good: Waves.; Tiny dots for photons.; A clock showing it takes time.; Both waves and dots.)
-  - Check: Which drawing best matches what scientists know about light? → **Tiny packets travelling in straight lines, with a wave pattern**
+  - Check: Which idea best matches what scientists know about light? → **Tiny packets travelling in straight lines, with a wave pattern**
 
 ## Projects
 ### p1 · The Light-Minute String (75 min, 3 days)
@@ -614,14 +614,14 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 ## Challenges
 ### c1 · Galileo's Lantern Test (30 min)
 - **problem:** In 1638, Galileo suggested a way to find out if light takes time. Two people stand far apart with lanterns. Can you measure light's speed this way, using torches?
-- **your turn:** Now invent your own way to show light is not instant. You can use giant distances, clever clocks or the sky. Draw your idea.
+- **your turn:** Now invent your own way to show light is not instant. You can use giant distances, clever clocks or the sky. Tell, act out or draw your idea.
 - **constraints:** You may only use two torches, a stopwatch and your helpers.; Stand as far apart as you safely can, at least 50 big steps.; Try it at least 5 times.
 - **general:** Galileo's plan: person A uncovers a lantern. As soon as person B sees it, B uncovers theirs. A times how long until they see B's light.; People take about a quarter of a second to react. Light crosses 100 metres in about a three-millionth of a second. So all you are measuring is how fast people react!; To measure light, you need a very long distance, or a very fast clock, or both.
 - **creative:** Ole Rømer used the whole width of the Earth's path round the Sun as his distance, and Jupiter's moon as his clock.; Hippolyte Fizeau, in 1849, used a fast-spinning wheel with teeth as his clock. Light went through a gap, off a mirror 8 kilometres away, and was blocked by the next tooth on the way back.; Today, scientists fire laser pulses at mirrors that astronauts left on the Moon in 1969. The light comes back after about 2 and a half seconds.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Explain Galileo's plan.  
+  *Parent does:* Read the problem aloud. Then tell your child Galileo's plan.  
   *Parent says:* Galileo wanted to know if light takes time. He said: I uncover my lantern. You uncover yours as soon as you see mine. I time how long until I see yours.  
-  *Child mode:* Galileo had a plan. I flash. You flash back the moment you see mine. I time it.
+  *Child mode:* Today you will test Galileo's plan with two torches. Decide who flashes first and who times.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Stand 50 big steps apart. 2. Person A starts the stopwatch and switches on their torch. 3. Person B switches theirs on the moment they see A's. 4. A stops the stopwatch when they see B's light. 5. Repeat 5 times. Then try from just 5 steps apart.  
   *Parent says:* Let's try it. Then let's try it from very close. Does the time change?  
@@ -629,13 +629,13 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   - Note: Your times will be about half a second both near and far. That is how long the two people take to react. The light's trip is too tiny to see. Galileo found the same thing.
 - **s3 (8 min)**  
   *Parent does:* Talk about what you found. Then read how Rømer, Fizeau and today's scientists solved the problem.  
-  *Parent says:* The time was the same, near or far. So we were not timing the light. We were timing ourselves! Light is far too fast for this test. Rømer used a much longer distance. Fizeau used a much faster clock.  
-  *Child mode:* Near or far, the time was the same. We timed ourselves, not the light! Light is too fast for this test.
+  *Parent says:* Look at your times. Were they different near and far? Light is far too fast for this test. Rømer used a much longer distance. Fizeau used a much faster clock.  
+  *Child mode:* Compare your times from far away and from close up. Are they different?
   - Check: In the torch test, the time was about half a second, near or far. What were you really measuring? → **How fast the people reacted**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to invent and draw their own way to show that light takes time.  
+  *Parent does:* Ask your child to invent their own way to show that light takes time. They can tell it, act it out or draw it.  
   *Parent says:* Now you invent a way. How could you show that light takes time?  
-  *Child mode:* Now invent your own way to measure light. Draw it.
+  *Child mode:* Now invent your own way to show that light takes time. Tell it, act it out or draw it.
 ### c2 · Send a Message by Light (30 min)
 - **problem:** Light is the fastest way to send a message. Design a way to send a short message, like 'come for dinner', from one room to another, or from one window to another, using only light.
 - **your turn:** Now invent your own light code. Teach it to someone in your family and send them a secret message.
@@ -647,13 +647,13 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent says:* Light is the fastest way to send a message. People have sent messages with light for a very long time. Let's invent our own code.  
   *Child mode:* Make a light code. Choose a flash pattern for each word. Try yes, no, come and dinner.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. Go to two places where you can see each other but not hear. 2. Send three messages each way. 3. Time how long each one takes.  
+  *Parent does:* 1. Go to two places where you can see each other but not hear. 2. Send three messages each way. 3. Time how long each one takes with a watch or clock.  
   *Parent says:* Send your message. How long does it take? The light itself arrives almost instantly. The slow part is flashing and reading.  
-  *Child mode:* Send three messages. Time each one. Was the light slow, or were you?
+  *Child mode:* Send three messages. Time each one with the watch.
   - Check: Your light message took 20 seconds to send. What took most of the time? → **Flashing and reading the code**
 - **s3 (10 min)**  
   *Parent does:* Read together about coloured flashes, glass threads and the heliograph. Then improve your code.  
-  *Parent says:* Kapany showed light could be sent along thin glass threads. Today, the internet travels as light flashing in such threads. How could you make your code faster?  
+  *Parent says:* A scientist called Kapany showed light could be sent along thin glass threads. Today, the internet travels as light flashing in such threads. How could you make your code faster?  
   *Child mode:* Read about glass threads that carry light. Now make your code faster. Try again!
 
 ## Worksheets

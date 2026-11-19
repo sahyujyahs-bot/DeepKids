@@ -555,7 +555,7 @@
      "id": "s2",
      "mins": 15,
      "do": "Take turns rolling and moving. Read the question cards aloud.",
-     "say": "Your turn. Roll! You landed on a question. Here it is.",
+     "say": "Your turn. Roll the die. If you land on a question square, I will read you a card.",
      "kid": "Roll the die. Move. Answer the question if you land on one.",
      "parent": "When a child gets a card wrong, read the answer and ask them to say it back in their own words. That counts as learning, not losing."
     },
@@ -563,8 +563,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about the game.",
-     "say": "Which squares in the game come from real rockets? What does each one stand for?",
-     "kid": "Which squares come from real rockets? What does each one stand for?",
+     "say": "Look at the special squares on the board. Which ones come from real rockets?",
+     "kid": "Pick one special square. Say what it stands for in a real rocket.",
      "check": {
       "t": "mcq",
       "q": "On the board, the oxygen tank leak sends you back. Why would a leak be so bad for a real rocket?",
@@ -698,7 +698,7 @@
      "id": "s1",
      "mins": 2,
      "do": "Hand out the REAL and MYTH cards and read the first statement.",
-     "say": "Listen, then hold up REAL or MYTH. Here is the first card.",
+     "say": "Listen, then hold up REAL if it is true, or MYTH if it is not true. Here is the first card.",
      "kid": "Hold up REAL or MYTH. Ready?",
      "context": "This is the start of Real or Space Myth?, a quick game about true and false ideas about space."
     },
@@ -715,7 +715,7 @@
      "mins": 2,
      "do": "Count the points and talk about the trickiest card.",
      "say": "Pick one myth card. What is the true idea? Which test or fact in this unit shows it?",
-     "kid": "Count your points. Pick one myth card. What is the true idea?",
+     "kid": "Count your points. Then pick one myth card.",
      "check": {
       "t": "mcq",
       "q": "Why can't you hear a rocket roaring in space?",
@@ -799,7 +799,7 @@
      "what": "Measure how much each container holds. Guess, then time the candle under each one, three times each. Find the pattern."
     }
    ],
-   "record": "Fill in the table. Then draw three bars, one for each container. Make each bar as tall as the middle one of that container's three times. Write one sentence under the bars that says what the pattern is.",
+   "record": "Fill in the table. Then draw three bars, one for each container, or stack small blocks or coins for each one. Make each bar as tall as the middle one of that container's three times. Say or write one sentence that tells what the pattern is.",
    "flow": [
     {
      "id": "s1",
@@ -815,10 +815,10 @@
      "mins": 4,
      "do": "1. Show the three dry containers and the unlit candle. 2. Ask your child to guess how long the flame will last under each, and why. 3. Write the guesses down.",
      "say": "I will cover the candle with each of these, one at a time. How long do you think the flame will keep burning under each one? Why do you think so?",
-     "kid": "Guess how many seconds the flame will last under each jar. Why?",
+     "kid": "Guess how many seconds the flame will last under each one.",
      "ask": [
       {
-       "q": "Why do you think the flame will last longer under that one?",
+       "q": "Which one will keep the flame going longest, and why?",
        "good": [
         "Because it has more air inside.",
         "Because the fire needs air, and the big jar has more."
@@ -867,9 +867,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Ask your child to say or write three things: what they think, what they saw, and why. 2. Then ask the rocket question.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Now, a rocket's engine is a fire. In space there is no air at all. What must a rocket take with it?",
-     "kid": "Say three things: what you think, what you saw, and why. Then answer this: a rocket's engine is a fire. What must it carry into space?",
+     "do": "1. Ask your child to say or write three things: what they think, what they saw, and why. 2. Then read the rocket question below.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Now think about a rocket. Its engine is a fire, and in space there is no air at all.",
+     "kid": "Say three things: what you think, what you saw, and why.",
      "parent": "The three things are a claim, the evidence for it, and the reason. A good answer: I think a flame needs air, and more air keeps it burning longer. I saw that under the small glass the flame lasted about 8 seconds, and under the big jar about 35 seconds. This is because the flame uses up the oxygen in the air, and a big jar holds more. So a rocket in space must carry its own oxygen, because there is no air there.",
      "check": {
       "t": "mcq",
@@ -971,7 +971,7 @@
      "what": "Make a picture of a window with a lens. Guess, then cover half the lens and then all but a small hole. See what happens to the picture."
     }
    ],
-   "record": "Draw the picture three times: with the whole lens open, with half covered, and with only the small hole. Shade each drawing to show how bright it was.",
+   "record": "Take a photo of the picture on the paper three times: with the whole lens open, with half covered, and with only the small hole. Then tell a grown-up which was brightest and which was dimmest.",
    "flow": [
     {
      "id": "s1",
@@ -986,11 +986,11 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Show your child the plain card. 2. Ask what will happen to the picture when the card covers the left half of the lens, and why.",
-     "say": "I am going to cover the left half of the lens with this card. What will happen to the picture? Why do you think so?",
-     "kid": "The card will cover half the lens. What will happen to the picture? Why?",
+     "say": "I am going to cover the left half of the lens with this card. Before I do, make a guess.",
+     "kid": "Look at the card and the lens. Make your guess.",
      "ask": [
       {
-       "q": "What do you think will happen to the picture?",
+       "q": "What will happen to the picture when half the lens is covered, and why?",
        "good": [
         "Half of it will disappear.",
         "It will get darker.",
@@ -1031,8 +1031,8 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Ask your child to say what they think, what they saw, and why. 2. Then talk about telescopes.",
-     "say": "Tell me what you think, what you saw, and why. Now think about a telescope. Why do you think the biggest telescopes in the world have mirrors many metres wide?",
-     "kid": "Say what you think, what you saw, and why. Why are big telescopes so big?",
+     "say": "Tell me what you think, what you saw, and why. Now think about the biggest telescopes in the world. Their mirrors are many metres wide.",
+     "kid": "Say what you think, what you saw, and why.",
      "parent": "A good answer: I think a bigger lens collects more light. I saw that with half the lens covered, the whole window was still there, only dimmer. With a small hole it was very dim. This is because each part of the lens catches light from the whole window. So a giant telescope makes bright pictures of faint stars, because it catches so much of their light.",
      "check": {
       "t": "mcq",
@@ -1105,7 +1105,7 @@
      "what": "Put one ice cube in sunlight and one in the shadow of a book. Check both every 5 minutes until the sunny one has melted."
     }
    ],
-   "record": "Draw both cubes at each check, in two rows. Write the time under each drawing.",
+   "record": "Fill in the table at each check. Write big, small or gone for each cube. You can also take a photo of both cubes each time.",
    "flow": [
     {
      "id": "s1",
@@ -1119,9 +1119,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Put an ice cube on each plate at the same moment. 2. Every 5 minutes, look at both and draw them. 3. Move the book if the shadow moves off the plate.",
+     "do": "1. Put an ice cube on each plate at the same moment. 2. Every 5 minutes, look at both. Write in the table if each cube is big, small or gone. 3. Move the book if the shadow moves off the plate.",
      "say": "Let's look again. Which cube is smaller? Is the shadow still on its plate?",
-     "kid": "Look every 5 minutes. Draw both cubes. Which is smaller?",
+     "kid": "Look every 5 minutes. Which cube is smaller? Is it big, small or gone?",
      "parent": "In strong sunlight, the sunny cube shrinks fast and sits in a puddle. The cube in shadow melts too, because the room air is warm, but more slowly. The Sun moves across the sky, so the shadow moves: check it each time.",
      "wait": "Check every 5 minutes for about 15 to 20 minutes."
     },
@@ -1129,8 +1129,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Talk about what you saw. 2. Then talk about the Moon.",
-     "say": "Which cube lasted longer, and why? The Moon has almost no air to warm things. So what happens to ice on a crater floor where the sunlight never reaches?",
-     "kid": "Which cube lasted longer? On the Moon, where could ice stay for a very long time?",
+     "say": "Which cube lasted longer, and why? Now think of the Moon. Our book stood for a crater wall.",
+     "kid": "Which cube lasted longer? Say why.",
      "parent": "A good answer: the cube in shadow lasted longer, because sunlight carries energy that warms and melts ice. On the Moon there is almost no air to carry warmth into a dark crater, so its floor stays colder than minus 160 degrees Celsius, and ice can stay there for a very long time. That is why Chandrayaan-3 was sent to land near the south pole.",
      "check": {
       "t": "mcq",
@@ -1153,7 +1153,7 @@
     },
     {
      "art": "The same two saucers 15 minutes later: the sunny one with a small sliver of ice in a puddle, the shaded one with a bigger cube.",
-     "caption": "2. Look every 5 minutes and draw both cubes."
+     "caption": "2. Look every 5 minutes and check both cubes."
     }
    ]
   }
@@ -1193,7 +1193,7 @@
      "what": "Make a lime-sized Earth. Find where space begins, where the space station flies, and where the Moon is."
     }
    ],
-   "record": "Draw the lime and the grape with the distance between them. Mark the thin layer of air and the space station.",
+   "record": "Tell a grown-up three things: how high space begins, how high the space station flies, and how far the Moon is. Use the paper, the coin and the string. Or take a photo of your model.",
    "flow": [
     {
      "id": "s1",
@@ -1209,7 +1209,7 @@
      "mins": 4,
      "do": "1. Stack the 4 sheets of paper. 2. Show your child how thin the stack is. 3. Hold it against the lime's skin.",
      "say": "On a lime this size, space begins only four sheets of paper above the skin. All the air you have ever breathed is in a layer thinner than this.",
-     "kid": "Space begins just four sheets of paper above the lime. That is how thin the air is.",
+     "kid": "Hold the paper stack against the lime. Look at how thin it is.",
      "parent": "The Earth is about 12,700 km across, and the lime is 5 cm. So 100 km, where space begins, is about 0.4 mm on the lime. A sheet of notebook paper is about 0.1 mm thick. Most of the air is in the lowest part of that thin layer."
     },
     {
@@ -1217,7 +1217,7 @@
      "mins": 2,
      "do": "Hold the coin flat against the lime.",
      "say": "The space station is where astronauts live. On this lime, it flies only as high above the skin as this coin is thick.",
-     "kid": "The space station flies about a coin's thickness above the lime.",
+     "kid": "Hold the coin against the lime. Is it thicker or thinner than the paper stack?",
      "parent": "The space station is about 400 km up. On a 5 cm lime that is about 1.6 mm, close to the thickness of a coin."
     },
     {
@@ -1285,7 +1285,7 @@
      "what": "Watch for the station at the right time. Draw its path across the sky."
     }
    ],
-   "record": "Draw the sky from your window, with buildings and trees. Draw the station's path as a line with an arrow, and write the time.",
+   "record": "Write the time you saw the station and the direction it moved. Then tell your grown-up what it looked like, or draw its path across the sky.",
    "flow": [
     {
      "id": "s1",
@@ -1424,7 +1424,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Write and draw 12 events from India's space story. Hang them along a string in the right order and spacing."
+     "what": "Write 12 events from India's space story. Hang them along a string in the right order and spacing."
     }
    ],
    "record": "Keep the cards in a pile, in order, or stick them along a long strip of paper on the wall.",
@@ -1432,9 +1432,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read out each event and its year, and write and draw one card for each.",
-     "say": "Let's make India's space story. Here are the events. For each one, write the year and draw a small picture.",
-     "kid": "Make one card for each event. Write the year. Draw it.",
+     "do": "Read out each event and its year. Your child writes one card for each, and may add a small picture.",
+     "say": "Let's make India's space story. Here are the events. For each one, write the year and what happened. You may draw a small picture too.",
+     "kid": "Make one card for each event. Write the year and what happened.",
      "parent": "Events: 1963, the first rocket from Thumba, with its parts carried on bicycles. 1969, ISRO is set up. 1975, Aryabhata, India's first satellite. 1980, SLV-3, India's own rocket, puts Rohini in orbit. 1984, Rakesh Sharma goes to space. 2008, Chandrayaan-1 goes round the Moon. 2014, Mangalyaan reaches Mars. 2017, one rocket launches 104 satellites. 2019, Chandrayaan-2's orbiter reaches the Moon. 2023, Chandrayaan-3 lands near the south pole, and Aditya-L1 sets off to watch the Sun. 2025, Shubhanshu Shukla goes to the space station.",
      "context": "In this activity you hang India's space story along a string, in order, with the gaps between the years shown."
     },
@@ -1451,10 +1451,10 @@
      "mins": 4,
      "do": "Look at the whole string.",
      "say": "How many years were there between the bicycle rocket at Thumba and the landing on the Moon?",
-     "kid": "How many years from the first Thumba rocket to the Moon landing?",
+     "kid": "Find the first Thumba card and the Moon landing card. Count the years between them.",
      "check": {
       "t": "mcq",
-      "q": "Which came first?",
+      "q": "Which of these came first in India's space story?",
       "options": [
        "Chandrayaan-3 landing on the Moon",
        "India's first satellite, Aryabhata",
@@ -1500,7 +1500,7 @@
      "what": "Stack three boxes as a rocket. Act out a launch, dropping each stage when its fuel runs out, until the satellite reaches orbit."
     }
    ],
-   "record": "Draw the rocket at launch, after the first stage drops, and when the satellite is let go.",
+   "record": "Stack the boxes again. Show a grown-up the three moments: at launch, after the first stage drops, and when the satellite is let go. Say what changed each time. Or take a photo at each moment.",
    "flow": [
     {
      "id": "s1",
@@ -1514,7 +1514,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. After a few steps, your child drops the bottom box. This is the first stage. 2. A few steps later, your child drops the next box, the second stage. 3. Last, your child lets the satellite go from the top box, the last stage.",
-     "say": "The first stage is empty. Drop it! Now the rocket is lighter. Why does that help it go faster?",
+     "say": "The first stage is empty. Drop it! Feel how the rocket is lighter now.",
      "kid": "Drop the empty bottom box. Then the next. Let the satellite go.",
      "parent": "A rocket that kept its empty tanks would waste fuel carrying them. Dropping each stage means the next engine pushes a much lighter rocket. India's PSLV has four stages. The first stage falls into the Bay of Bengal.",
      "check": {
@@ -1593,7 +1593,7 @@
      "what": "Build the rover Pragyan, with six wheels and a flat solar panel. Roll it down the ramp and tell the story of the landing."
     }
    ],
-   "record": "Draw your lander and rover and label the parts: legs, ramp, solar panel, wheels.",
+   "record": "Show a grown-up your lander and rover. Point to each part and say what it is for: legs, ramp, solar panel, wheels. Or tape on small paper labels.",
    "flow": [
     {
      "id": "s1",
@@ -1609,7 +1609,7 @@
      "id": "s2",
      "mins": 25,
      "do": "1. Glue six caps to the matchbox, three on each side. 2. Tape a flat rectangle of foil-covered card on top, as a solar panel. 3. Roll the rover down the ramp.",
-     "say": "Pragyan had six wheels and a solar panel. It ran on sunlight. On the Moon, a day lasts about two weeks of Earth time. What do you think happened to Pragyan when night came?",
+     "say": "Pragyan had six wheels and a solar panel. It ran on sunlight. On the Moon, a day lasts about two weeks of Earth time, and so does the night.",
      "kid": "Glue on six wheels. Add a solar panel. Roll down the ramp.",
      "parent": "Pragyan worked through one lunar day, about 14 Earth days, then went to sleep as night fell. ISRO tried to wake Vikram and Pragyan in the next lunar day, but they did not answer. The Moon's night is colder than minus 120 degrees Celsius.",
      "check": {
@@ -1625,7 +1625,7 @@
      }
     }
    ],
-   "context": "This project makes models of India's Moon lander and rover, and tells the story of their landing.",
+   "context": "This project makes models of India's Moon lander and rover. You will find out why the lander has wide legs and how the rover got its power.",
    "setup": [
     {
      "art": "A foil-covered box with four straw legs and a card ramp, on a table.",
@@ -1736,14 +1736,14 @@
     "Put it near the south pole, where ice in the dark craters could give water, and that water could be split to make oxygen.",
     "Grow plants inside to help clean the air and give food."
    ],
-   "your_turn": "Now design your own Moon home. Draw it, build a model, and explain to your family how it keeps the air in.",
+   "your_turn": "Now design your own Moon home. Build a model, and explain to your family how it keeps the air in. You may draw a plan first.",
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem together and draw two ideas.",
+     "do": "Read the problem together. Your child says two ideas out loud, or sketches them.",
      "say": "Remember the candle under the jar. A flame inside a closed jar soon runs short of oxygen, and so would people. Where will your astronauts get fresh oxygen?",
-     "kid": "Draw two ideas for a Moon home. Where will the air come from?",
+     "kid": "Think of two ideas for a Moon home. Say them out loud, or sketch them.",
      "context": "This is a design challenge. You plan a home on the Moon that keeps its air in."
     },
     {
@@ -1760,7 +1760,7 @@
      "mins": 5,
      "do": "Read the usual and creative ideas, and compare them with your own.",
      "say": "Here are some ideas engineers have had. Which one would you add to your home?",
-     "kid": "Which idea would you add? Why?",
+     "kid": "Pick one idea and add it to your model.",
      "check": {
       "t": "mcq",
       "q": "Why does a Moon home need an airlock with two doors?",
@@ -1778,7 +1778,7 @@
    "setup": [
     {
      "art": "A child's drawing of a dome on grey Moon ground with two doors and a small room between them.",
-     "caption": "1. Draw your Moon home, with an airlock."
+     "caption": "1. Plan your Moon home, with an airlock."
     },
     {
      "art": "A foil-covered box model with a balloon inside and two card doors.",

@@ -274,7 +274,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **s2 (3 min)**  
   *Parent does:* Find the card 'A shirt with a missing button' in the pile. Play it together first as a practice round, and score it as normal.  
   *Parent says:* Let's practise. A shirt with a missing button. Where is the best place for it?  
-  *Child mode:* Practice card: a shirt with a missing button. Where should it go? Choose your answer.
+  *Child mode:* Practice card: a shirt with a missing button. Choose where it goes.
   - Ask: Why is repair better than the kabadiwala here? (good: Sewing on a button is quick, and the shirt works again.; No new shirt has to be made.)
   - Check: A shirt with a missing button. What is the best place for it? → **REPAIR**
 - **s3 (10 min)**  
@@ -286,7 +286,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first. The first to explain the result scores 2 points.  
   *Parent says:* Before we test it, everyone guess. Then let's try it.  
   *Child mode:* A TEST IT card! First, guess what will happen. Then try it.
-  - Ask: The bottle has a number inside a triangle of arrows. What do you think it tells us? (good: Which kind of plastic it is.; It helps people sort plastics for recycling.)
+  - Ask: Look at the number inside the triangle of arrows on a plastic bottle. What do you think it tells us? (good: Which kind of plastic it is.; It helps people sort plastics for recycling.)
   - Note: The number tells sorters which kind of plastic it is. A 1 means PET, the plastic of most drinking bottles. It does not promise that the bottle will be recycled. A good answer to the question: different kinds of plastic cannot be melted together, so they must be sorted first.
   - Think: The number on a bottle tells sorters what kind of plastic it is. Why does a recycler need to know that?
 - **s5 (2 min)**  
@@ -312,7 +312,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **s3 (3 min)**  
   *Parent does:* When someone reaches square 30, stop and talk.  
   *Parent says:* Which snake did you hit most? Which ladder would be easiest to climb in our real home this week?  
-  *Child mode:* Who won? Which ladder can your family really climb this week? Choose one.
+  *Child mode:* Who won? Pick one ladder to try at home this week.
   - Think: In the real world, who slides down the snake when someone throws plastic on the road? Only the thrower, or others too?
 
 ## Experiments
@@ -321,13 +321,13 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **predict:** Before you bury anything, put the four things in a line. Put the one you think will rot fastest first, and the one you think will last longest at the end. Then say why you chose that order.
 - **fair test:** To make it fair, give each thing its own jar, with the same soil, the same water and the same place. Then only the material is different. Cut each piece about the size of a matchbox, so none has a head start.
 - **safety:** Wear gloves or use a spoon when you look closely. Do not sniff the mouldy peel closely, and do not open jars near your face. Wash hands with soap afterwards. A grown-up cuts any plastic bottles.
-- **record:** Fill in the table on days 4, 8 and 14. Draw each jar on day 14. Then draw a bar chart with one bar for each thing, as tall as how much was left.
+- **record:** Fill in the table on days 4, 8 and 14. Take a photo of each jar on day 14, or draw it. Then make a bar chart with one bar for each thing, as tall as how much was left.
 - **results table:** Thing buried | My guess (fastest 1 to slowest 4) | Day 4: how much is left (0 to 5) | Day 8: how much is left (0 to 5) | Day 14: how much is left (0 to 5) | What it looked like on day 14
 - **schedule:** day 1: Make your guesses. Fill four jars with damp soil. Push one thing against the glass in each jar, so you can see it from outside. Cover and label them. (15 min); day 4: Look through the glass. Score how much of each thing is left, from 5 to 0. Add a spoon of water if the soil looks dry. (5 min); day 8: Look and score again. Draw what you see. (5 min); day 14: Score a last time, then tip each jar onto newspaper and look closely. Fill in the table, draw a bar chart and say what you found. (15 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Put the peel, newspaper, cloth and milk packet on a plate. 2. Ask your child to line them up, fastest to rot first.  
-  *Parent says:* We're going to bury these four things and watch them for two weeks. Which do you think will rot first? Put them in a line.  
-  *Child mode:* Look at the four things. Which will rot first? Put them in a line, fastest first.
+  *Parent says:* We're going to bury these four things and watch them for two weeks. Which do you think will rot first?  
+  *Child mode:* Put the four things in a line. The one you think rots fastest goes first.
   - Ask: Why did you put that one first? (good: It is soft and wet.; It came from a plant.; Insects and mould like fruit.; The milk packet is plastic, and plastic lasts.)
 - **s2 (8 min)**  
   *Parent does:* 1. Mix the soil with water until it feels like a squeezed sponge: damp, but no water drips out. 2. Fill each jar three-quarters full. 3. Push one thing down against the glass, so you can see it from outside. Keep its top about 3 cm below the soil. 4. Cover it with soil.  
@@ -342,13 +342,13 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **s4 (10 min)**  
   *Parent does:* On day 4 and day 8, look through the glass with a magnifying glass. Score how much of each thing is left: 5 means all of it, 0 means none. Add a spoon of water to any jar that looks dry.  
   *Parent says:* What has changed? Can you see any white threads or fluffy spots? Those are fungi. They are feeding on the peel.  
-  *Child mode:* Look through the glass. What has changed? Look for white threads. Score how much is left, from 5 down to 0.
+  *Child mode:* Look through the glass with the magnifying glass. Look for white threads. Score how much is left: 5 is all of it, 0 is none.
   - Note: Expect the peel to go brown and then black, with white or green mould. The newspaper goes soft and grey. The cloth looks stained. The milk packet looks just the same. If a jar smells bad, it is too wet. Take the cover off for a day to let it dry a little.
   - Wait: Look again on day 4 and day 8.
 - **s5 (10 min)**  
-  *Parent does:* 1. On day 14, score each jar one last time. 2. Tip each jar onto old newspaper, wearing gloves or using a spoon. 3. Find each thing and look closely. 4. Fill in the table and draw a bar chart.  
+  *Parent does:* 1. On day 14, score each jar one last time. 2. Tip each jar onto old newspaper, wearing gloves or using a spoon. 3. Find each thing and look closely. 4. Fill in the table.  
   *Parent says:* Let's see what's left. Gently, so we don't break anything.  
-  *Child mode:* Wear gloves or use a spoon. Tip out each jar. Find your four things. What do they look like now? Draw a bar for each.
+  *Child mode:* Wear gloves or use a spoon. Tip out each jar. Find your four things. How much of each is left? Tell your grown-up what you see.
   - Check: In the rot jar test, the strip of milk packet looked exactly the same after 14 days. Why? → **Soil microbes have almost no enzymes that can cut plastic molecules**
   - Wait: Do this on day 14.
 - **s6 (5 min)**  
@@ -394,7 +394,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **predict:** Before testing, line up the four bags. Put the one you think will carry most first, and the one you think will tear first at the end. Say why you chose that order.
 - **fair test:** To make it fair, load every bag the same way: one 1-kilogram weight at a time. Lift each bag by its handles the same height, about a hand's width, and hold it for 10 seconds.
 - **safety:** Test over a cushion, so falling weights don't crack the floor or hurt toes. Keep feet out from under the bag. A grown-up lifts any bag holding more than 3 kilograms.
-- **record:** Fill in the table. Draw a bar chart with one bar for each bag, as tall as the kilograms it held.
+- **record:** Fill in the table. Make a bar chart with one bar for each bag, as tall as the kilograms it held. Draw it, or take a photo of your coin stacks.
 - **results table:** Bag | My guess (1 to 4) | Kilograms it held for 10 seconds | What broke first: handle, bottom or side? | Could we still use it after the test? (yes or no)
 - **s1 (3 min)**  
   *Parent does:* 1. Put the four bags in a row. 2. Ask your child to line them up, strongest first.  
@@ -406,9 +406,9 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Child mode:* Add one weight. Lift the bag. Count to ten. Did it hold? Add one more. When it tears, write the last number.
   - Note: A grown-up does the lifting after 3 kilograms. A newspaper bag usually tears first, often at the handles or the pasted bottom. A thin plastic carry bag is often stronger than children expect. That is an honest result, and a good thing to talk about.
 - **s3 (6 min)**  
-  *Parent does:* Draw a bar chart with one bar for each bag.  
+  *Parent does:* Show the numbers as bars. Make one stack of coins or blocks for each bag, one coin for each kilogram. Or draw a bar chart.  
   *Parent says:* Let's turn the numbers into a picture. A taller bar means the bag carried more.  
-  *Child mode:* Draw one bar for each bag. Make it as tall as the kilograms it held.
+  *Child mode:* Make one stack for each bag. Stack one coin for each kilogram it held. Which stack is tallest?
   - Check: In the made-up bag test results, the thin plastic bag held 5 kilograms and the newspaper bag held only 2. Does that mean the plastic bag is the best bag? → **Not by itself: we must also think how many times it is used, and where it ends up**
 - **s4 (6 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -419,15 +419,15 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 
 ## Activities
 ### a1 · Dustbin Detective: one day's waste (15 min)
-- **record:** Count the marks in each column. Draw a bar chart with four bars. Circle the column you could make smaller.
+- **record:** Count the marks in each column. Draw a bar chart with four bars, or write the numbers. Circle the column you could make smaller.
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA. Jars, boxes and old clothes go under COULD BE REUSED. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.  
+  *Parent does:* 1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA, the person who buys them. Jars, boxes and old clothes go under COULD BE REUSED. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.  
   *Parent says:* Today we are waste detectives. Every time anyone throws something out, they make a mark. Tonight we'll see what our home throws out.  
   *Child mode:* Make a sheet with four columns. Stick it by the dustbin. Each time someone throws something out, make a mark.
 - **s2 (6 min)**  
-  *Parent does:* In the evening, count the marks in each column and draw a bar chart.  
+  *Parent does:* In the evening, count the marks in each column and write the number at the bottom.  
   *Parent says:* Let's count. Which column has the most marks? Is that what you expected?  
-  *Child mode:* Count the marks in each column. Draw a bar for each one.
+  *Child mode:* Count the marks in each column. Write the number at the bottom of each.
   - Note: In many Indian homes, the ROTS column and the NOTHING ELSE column are the biggest. Peels and leftovers come from every meal. Wrappers and packets come with almost everything we buy. Any result is fine, because it is your home's own data.
 - **s3 (5 min)**  
   *Parent does:* Look at the NOTHING ELSE column together and choose one thing to reduce this week.  
@@ -435,7 +435,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Child mode:* Look at the NOTHING ELSE column. Choose one thing your family could stop buying. Write it on the fridge.
   - Think: Where do the NOTHING ELSE things go when the garbage van takes them?
 ### a2 · Follow the Bottle (act it out) (15 min)
-- **record:** Draw the two journeys as two roads. Mark where the bottle ends up on each.
+- **record:** Tell someone who was not there about the two journeys. Or draw them as two roads. Say where the bottle ends up on each.
 - **s1 (4 min)**  
   *Parent does:* Put up signs in different rooms. Road 1: SHOP, HOME, DRY WASTE BAG, WASTE PICKER OR KABADIWALA, SCRAP DEALER, FACTORY, T-SHIRT. Road 2: MIXED BAG, DUMPING GROUND, DRAIN, RIVER, SEA.  
   *Parent says:* This bottle is going on a journey. There are two roads it can take. Let's walk both.  
@@ -466,13 +466,13 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **s3 (4 min)**  
   *Parent does:* At home, talk about what you learned.  
   *Parent says:* What surprised you? What could we sort better at home now?  
-  *Child mode:* What surprised you? What will you sort better now?
+  *Child mode:* Tell your grown-up one thing that surprised you.
   - Think: The kabadiwala won't buy chips packets. What happens to them instead?
 ### a4 · No-Sew T-shirt Bag (25 min)
 - **safety:** A grown-up cuts thick parts with the sharp scissors. Children can cut the fringe with help, keeping fingers away from the blades.
-- **record:** Draw your bag. Write what it was before, and one thing you will carry in it.
+- **record:** Take a photo of your bag, or draw it. Write what it was before, and one thing you will carry in it.
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. Lay the T-shirt flat. 2. Cut off both sleeves, just inside the seams. 3. Cut a big scoop around the neck, about 10 cm deep. The shoulders become the handles.  
+  *Parent does:* 1. Lay the T-shirt flat. 2. A grown-up cuts off both sleeves, just inside the seams. 3. A grown-up cuts a big scoop around the neck, about 10 cm deep. The shoulders become the handles.  
   *Parent says:* This T-shirt is too small for anyone. We're going to upcycle it, which means turning it into something more useful.  
   *Child mode:* Lay the T-shirt flat. A grown-up cuts off the sleeves. Then they cut a big scoop at the neck.
 - **s2 (7 min) · grown-up needed**  
@@ -489,7 +489,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Child mode:* Put some things in your bag. Is it strong? Keep it for the bag test.
   - Check: Turning an old T-shirt into a shopping bag is called… → **Upcycling**
 ### a5 · Fold a Newspaper Bag (20 min)
-- **record:** Draw the folding steps in your own way, so you can make another one.
+- **record:** Show someone at home how to fold a bag. Or draw the folding steps in your own way, so you can make another one.
 - **s1 (6 min)**  
   *Parent does:* 1. Fold a double sheet of newspaper in half along its long side, so it is a long strip of four layers. 2. Bring the two short ends together so they overlap by 2 cm. 3. Paste the overlap. You now have a loop. Press it flat into a tube.  
   *Parent says:* Newspapers used to be folded into bags in shops all over India. Let's make one.  
@@ -506,7 +506,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   - Wait: Let it dry for 30 minutes if you used paste. With tape, you can open it at once.
 ### a6 · Microbe Scissors: why peels rot and plastic doesn't (a model) (15 min)
 - **problem:** A peel and a plastic bag are both made of very long chain molecules. A microbe cuts a peel's chain with an enzyme that fits it. But almost no microbe has an enzyme that fits plastic. In this activity, paper chains stand in for the molecules, and you play the microbe.
-- **record:** Draw both chains, and draw which one you could take apart.
+- **record:** Tell your grown-up which chain you could take apart, and why. Or draw both chains.
 - **s1 (6 min)**  
   *Parent does:* 1. Make a chain of 10 linked paper rings. Close each ring with a small piece of tape, and draw a dot on each tape. This is the peel chain. 2. Make a second chain of 10 rings, closed with staples. This is the plastic chain.  
   *Parent says:* Peels and plastic are both made of long chain molecules. These paper chains are giant models of them. The taped joins with a dot are places where a microbe's tool fits.  
@@ -519,12 +519,12 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **s3 (5 min)**  
   *Parent does:* 1. Now the parent is the Sun. Tear the plastic chain into pieces of two or three rings. 2. Then draw a dot on just two plastic rings, and let the microbe try again, slowly.  
   *Parent says:* The Sun cracks plastic into smaller pieces. But are they gone? No. They are still plastic chains, only shorter. Those are microplastics. Now, in 2016 scientists found a real microbe with a key for one kind of plastic. Let's add two dots.  
-  *Child mode:* The Sun breaks the plastic chain into small bits. Are they gone? Now two rings get dots. Can the microbe open them?
+  *Child mode:* The Sun breaks the plastic chain into small bits. Then two rings get dots. Can the microbe open them?
   - Note: This shows three real ideas. Microbes rot what their enzymes fit. Sunlight only breaks plastic into smaller plastic. And a few microbes, like Ideonella sakaiensis, found in Japan in 2016, have begun to evolve enzymes for one plastic, slowly. A good answer to the question: plastic bottles are piled up there, so a microbe that could feed on plastic would have plenty of food and could multiply.
   - Think: Why do you think the plastic-eating microbe was found near a bottle recycling plant?
 ### a7 · Repair Day (30 min)
 - **safety:** A grown-up threads the needle and watches the sewing. Use glue only with a grown-up.
-- **record:** Draw the thing before and after. Write how long the repair took, and how long the thing may now last.
+- **record:** Take a photo of the thing before and after, or draw it. Write how long the repair took, and how long the thing may now last.
 - **s1 (5 min)**  
   *Parent does:* Hunt around the home for one broken thing that could be mended.  
   *Parent says:* Let's find something that's broken but not finished. What could we mend?  
@@ -576,7 +576,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 ## Challenges
 ### c1 · The Zero-Waste Tiffin (30 min)
 - **problem:** Pack a lunch for a picnic or a school day that sends nothing at all to the dustbin. Not one wrapper, packet or paper napkin.
-- **your turn:** Now plan your own zero-waste tiffin. Draw it, pack it, eat it, and check the dustbin afterwards. Did anything end up there?
+- **your turn:** Now plan your own zero-waste tiffin. Plan it, pack it, eat it, and check the dustbin afterwards. Did anything end up there?
 - **constraints:** The food must be filling and tasty.; You can only use things already in your home.; Anything left over must be eaten, reused or composted.
 - **general:** Use a steel tiffin and a refillable bottle, instead of foil, cling film and packets.; Choose fruit and home-made snacks instead of packaged ones.; Wrap chapatis in a cloth napkin.; Take peels home for the compost.
 - **creative:** Wrap food in a clean banana leaf, as many South Indian homes do. It goes back to the soil.; Make a spoon from a thick slice of carrot or a piece of dosa, so there is nothing to wash or throw.; Carry the tiffin in the cloth bag you made in the No-Sew T-shirt Bag activity.
@@ -585,9 +585,9 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Parent says:* Let's count what a normal lunch throws out. Foil? A juice box? A chips packet? A paper napkin?  
   *Child mode:* Think of a usual lunch. Count the things that go in the bin afterwards.
 - **s2 (8 min)**  
-  *Parent does:* Plan a new lunch on paper. For every item, write what it will be carried in.  
+  *Parent does:* Plan a new lunch. For every item, say what it will be carried in. Write a list, or draw it.  
   *Parent says:* Now design a lunch with zero waste. What will carry each thing?  
-  *Child mode:* Draw your lunch plan. For each food, draw what carries it. No packets!
+  *Child mode:* Plan your lunch. For each food, say what carries it. No packets! Write a list or draw it.
 - **s3 (12 min)**  
   *Parent does:* Pack it together and eat it, at home or out.  
   *Parent says:* Let's pack it and eat it. Then we'll check.  
@@ -600,7 +600,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   - Check: In the zero-waste tiffin challenge, which choice reduces waste the most? → **Water in a steel bottle you refill**
 ### c2 · Toy from Trash (40 min)
 - **problem:** Build a toy that moves, using only things that were going to be thrown out.
-- **your turn:** Now invent your own toy from trash. Draw it, build it and test it. Then teach someone else to make it.
+- **your turn:** Now invent your own toy from trash. Plan it, build it and test it. Then teach someone else to make it.
 - **constraints:** It must really move: roll, spin, fly or make a sound.; Use only waste, plus a little tape or glue.; A grown-up does any cutting with a sharp knife or making holes.
 - **general:** A car: a matchbox body, four bottle-cap wheels, and an old pen refill or a straight stick for each axle.; A spinning top: a bottle cap with a short pencil stub pushed through the middle.; A drum: an empty tin with a plastic carry bag stretched over the top and held on with a rubber band.
 - **creative:** Arvind Gupta, an engineer and toy-maker who worked for many years in Pune, has shown how to make hundreds of science toys from waste. His website is free.; A rubber-band car: a rubber band twisted around the axle makes it drive itself.; A spinner made from a card circle coloured in rainbow stripes. Spin it fast and the colours blur to a pale grey-white.
@@ -609,9 +609,9 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Parent says:* Let's collect our building materials from the waste.  
   *Child mode:* Collect clean waste: boxes, caps, card, rubber bands. Put it in a box.
 - **s2 (5 min)**  
-  *Parent does:* Draw an idea for a toy before building.  
+  *Parent does:* Plan a toy before building. Say what it will do and how it will move. Draw it if you like.  
   *Parent says:* Engineers draw first. What will your toy do, and how will it move?  
-  *Child mode:* Draw your toy first. How will it move?
+  *Child mode:* Plan your toy first. How will it move? Tell your grown-up, or draw it.
 - **s3 (22 min) · grown-up needed**  
   *Parent does:* Build it. A grown-up makes holes in the caps with a heated needle or a sharp point, if needed.  
   *Parent says:* Build it. If it doesn't work first time, that's normal. Find what is stopping it.  

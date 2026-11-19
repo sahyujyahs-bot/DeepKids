@@ -254,11 +254,11 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the two mats side by side. 2. Take out the card A. Shuffle the other cards and put them face down in a pile. 3. Put the mirror and the stars in the middle.  
   *Parent says:* Each card has a letter or a word. Guess: will it look the same in a mirror, or will it change? Then we test it.  
-  *Child mode:* Put out the two mats. Mix up the cards. For each card, guess: SAME or CHANGES in a mirror? Then test it!
+  *Child mode:* Put the two mats side by side. Shuffle the cards and pile them face down.
 - **s2 (3 min)**  
   *Parent does:* Play the card A together as a practice round. No stars for this one.  
   *Parent says:* Practice card: the letter A. Same or changes?  
-  *Child mode:* Practice card: the letter A. Same or changes? Choose, then test it.
+  *Child mode:* Take the card A. Guess first. Then stand the mirror beside it and look.
   - Check: Stand a mirror beside the letter A. What will you see? → **An A that looks just the same**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player takes a card, guesses, then tests with the mirror. 2. Give a star for each right guess. 3. For a TEST IT card, everyone tests together.  
@@ -267,13 +267,13 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   - Note: Letters that stay the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y. Words stay the same only if every letter is one of these, and the word reads the same backwards, like MOM, WOW, TOOT, OTTO and YAY. DAD and NOON change, because D and N turn round. The BOX card is a surprise: with the mirror under the word, B, O and X each have a line of symmetry across the middle, so BOX stays BOX. On the ECNALUBMA card, the mirror shows AMBULANCE in the right order, but with B, N, C, E and L turned round. A real ambulance has its letters turned round as well as reversed, so the driver's mirror shows them the right way.
 - **s4 (3 min)**  
   *Parent does:* When someone draws the NOON card, stop and talk about it.  
-  *Parent says:* NOON reads the same backwards. So why does it change in the mirror?  
-  *Child mode:* NOON reads the same backwards. But look in the mirror. Why does it change?
+  *Parent says:* Let's look closely at the letter N in the mirror.  
+  *Child mode:* Stand the mirror beside the NOON card and look at it. Is anything odd?
   - Check: NOON reads the same backwards. Why does it still look wrong in a mirror? → **The letter N turns round in a mirror**
 - **s5 (2 min)**  
   *Parent does:* Count the stars. The player with the most wins.  
   *Parent says:* Who has the most stars? Which cards did you guess wrong? What did the mirror do to those letters?  
-  *Child mode:* Count your stars. Which cards did you guess wrong? What did the mirror do to them?
+  *Child mode:* Count your stars. Then pick a card you guessed wrong.
   - Note: Good answers are DAD and NOON, because the D and the N turn round in a mirror. For the invented word, use only letters that look the same in a mirror, like A, H, I, M, O, T, U, V, W, X and Y. The word must also read the same backwards, like WOW or MOM.
   - Think: Can you invent a new word that looks the same in a mirror?
 ### g2 · Bounce Relay (20 min)
@@ -281,8 +281,8 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **Printable score sheet: Bounce Relay score sheet:** Round 1, one mirror. Points: ____; Round 2, two mirrors. Points: ____; Round 3, three mirrors (points count double). Points: ____; Total: ____
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Draw the target and stick it on a wall. 2. Put the torch on books so its beam points sideways along the wall, not at the target. 3. Dim the room.  
-  *Parent says:* The torch is pointing the wrong way. We must use mirrors to send its light to the target.  
-  *Child mode:* The torch does not point at the target. Use mirrors to send the light there!
+  *Parent says:* The torch is pointing the wrong way. Today we send its light to the target using only mirrors.  
+  *Child mode:* Look where the torch points. Which way must the light turn to reach the target?
   - Note: Use plastic mirrors if you can. Remind everyone: the beam must never go into anyone's eyes.
 - **s2 (5 min)**  
   *Parent does:* Round 1: one player tilts their mirror to land the beam on the target.  
@@ -297,7 +297,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **s4 (4 min)**  
   *Parent does:* Add up the points and talk about the game.  
   *Parent says:* What made it hard with three mirrors? Did the spot get dimmer?  
-  *Child mode:* Add up your points. Was the spot dimmer after three mirrors? Why?
+  *Child mode:* Add up your points. Compare the spot after one mirror and after three.
   - Ask: Why was the spot dimmer after three bounces? (good: Each mirror keeps a little of the light.; The beam spreads out over a longer path.)
 
 ## Experiments
@@ -329,9 +329,9 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   - Note: Expect the landing marks to be close to 5, 10 and 15 cm right of the line. If they are a few centimetres off, that is normal. The torch beam is a bit wide, and the mirror may not stand quite straight.
 - **s5 (3 min)**  
   *Parent does:* 1. With a ruler, draw each beam as two lines. One line goes from the start mark to the mirror. The other goes from the mirror to the landing mark. 2. Fold the paper along the middle line.  
-  *Parent says:* Each beam makes a V shape. Fold the paper on the middle line. Do the two sides of the V lie on top of each other?  
-  *Child mode:* Draw each beam as a V. Now fold the paper on the middle line. Do the two sides match?
-  - Check: When you fold the paper, the in-line and the out-line lie on top of each other. What does that show? → **Light leaves the mirror at the same angle it came in**
+  *Parent says:* Each beam makes a V shape. Fold the paper on the middle line and look at the two sides of the V.  
+  *Child mode:* Draw each beam as a V with the ruler. Fold the paper on the middle line and look.
+  - Check: When you fold the paper, the line going in lies right on top of the line going out. What does that show? → **Light leaves the mirror at the same angle it came in**
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me what you found. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -342,7 +342,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **question:** Is it hard to draw when you can only see your hand in a mirror? Does it get easier with practice?
 - **predict:** Guess how many times your pencil will slip outside the lines on your first try. Then guess for your third try. Why do you think it will change, or stay the same?
 - **fair test:** Use the same star shape each time, and the same mirror in the same place. Only the number of the try changes. Count every time the pencil goes outside the lines.
-- **record:** Fill in the table. Draw a bar for each try, showing the number of slips.
+- **record:** Fill in the table. Show the slips for each try as a stack of coins or blocks, or draw a bar for each.
 - **results table:** Try | Time taken (seconds) | Times the pencil went outside the lines
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a star with two outlines, about 1 cm apart. 2. Stand the mirror at the far side of the paper. 3. Hold a big book up so your child cannot see their hand directly, only in the mirror.  
@@ -357,7 +357,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **s3 (3 min)**  
   *Parent does:* Look at the table together. Did the slips go down from try 1 to try 3?  
   *Parent says:* Look at your numbers. Did your hand get better?  
-  *Child mode:* Look at your numbers. Did you slip less on try 3?
+  *Child mode:* Look at your three numbers. Which try had the most slips? Which had the fewest?
   - Check: A child slipped 9 times on try 1, 6 times on try 2 and 3 times on try 3. What does that show? → **Practice helped the hand learn the mirror's way**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, and why.  
@@ -395,11 +395,11 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 ## Activities
 ### a1 · Spoon Faces and the Mirror Hunt (10 min)
 - **problem:** Your face looks different on the two sides of a spoon. In this activity you look at both sides, and then hunt for other things at home that show your face. Then you find out what those things have in common.
-- **record:** Draw your face in the inside and the back of the spoon. List your 5 things under 'Shows an image' or 'Only shines'.
+- **record:** Tell your grown-up how your face looked on each side of the spoon, or draw it. List your 5 things under 'Shows an image' or 'Only shines'.
 - **s1 (3 min)**  
   *Parent does:* Give your child a steel spoon. Ask them to look into the hollow side, then the back.  
   *Parent says:* What do you notice about your face? What do you wonder?  
-  *Child mode:* Look into the inside of the spoon. Now the back. What do you notice? What do you wonder?
+  *Child mode:* Look into the inside of the spoon. Now turn it over and look at the back.
   - Ask: What happened to your face? (good: It was upside down inside the spoon.; On the back it was the right way up but small.; My nose looked huge.)
   - Note: Don't explain yet. Just collect what your child notices and wonders. The curved spoon bends the image. We come back to flat mirrors next.
 - **s2 (5 min)**  
@@ -414,7 +414,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   - Check: Crumpled foil is shiny, but it shows no clear image of your face. Why? → **Its bumps send light off in all directions**
 ### a2 · Mirror Twins (10 min)
 - **problem:** A mirror seems to swap left and right. In this copying game one person acts as a mirror for the other, and you find out which hand the mirror really raises.
-- **record:** Draw yourself and your mirror twin, each raising one hand. Colour the raised hands.
+- **record:** Take a photo of you and your mirror twin each raising one hand, or draw it. Point to the raised hands and say which side of the room each is on.
 - **s1 (5 min)**  
   *Parent does:* 1. Stand face to face. 2. One person leads with slow moves: lifting a hand, tilting the head, touching an ear. 3. The other copies, like a mirror. 4. Swap after one minute.  
   *Parent says:* You are my mirror. Whatever I do, you do, at the same time. Go slowly, so the mirror can keep up.  
@@ -423,7 +423,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **s2 (5 min)**  
   *Parent does:* Raise your right hand. Watch which hand the mirror twin raises.  
   *Parent says:* I raised my right hand. Which hand did you raise? Is it on the same side of the room as mine?  
-  *Child mode:* Your partner raises their right hand. You copy, like a mirror. Which hand did you raise? Is it on the same side of the room?
+  *Child mode:* Your partner raises their right hand. You copy, like a mirror. Notice which of your hands goes up, and where it is in the room.
   - Check: You face your partner and copy their raised right hand, like a mirror. Which of your hands goes up? → **My left hand, on the same side of the room as theirs**
   - Think: Does a mirror swap left and right, or front and back?
 ### a3 · Secret Mirror Messages (15 min)
@@ -432,7 +432,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **s1 (4 min)**  
   *Parent does:* 1. Write your child's name in big letters. 2. Stand the mirror upright at the end of the word. 3. Look at the word in the mirror.  
   *Parent says:* Look at your name in the mirror. What happened to it?  
-  *Child mode:* Write your name big. Hold the mirror at the end of it. What do you see?
+  *Child mode:* Write your name big. Stand the mirror at the end of it. Look at your name in the mirror.
   - Ask: What happened to your name? (good: It went backwards.; The letters turned round.; It reads from right to left.)
 - **s2 (6 min)**  
   *Parent does:* 1. Now your child writes their name backwards, so it reads properly in the mirror. 2. They start at the right edge and write one letter at a time, turning each letter round. 3. They check in the mirror after each letter.  
@@ -442,7 +442,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **s3 (3 min)**  
   *Parent does:* Look out for an ambulance, or look up a picture of one. Point at the backwards word on its front.  
   *Parent says:* Why do you think AMBULANCE is written backwards on the front?  
-  *Child mode:* Look at the front of an ambulance. The word is backwards! Why?
+  *Child mode:* Look at the front of an ambulance, or a picture of one. What is odd about the word?
   - Check: Why is AMBULANCE written backwards on the front of an ambulance? → **So drivers in front can read it in their mirrors**
 - **s4 (2 min)**  
   *Parent does:* Your child writes one short secret message in mirror writing for the family.  
@@ -450,15 +450,15 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Child mode:* Write a short secret message backwards. Stick it on the fridge. Who can read it?
 ### a4 · Half a Picture: finish it with a mirror (15 min)
 - **problem:** When one half of a shape is the mirror image of the other half, the shape has symmetry. In this activity you use a mirror to finish half-pictures, and you find which capital letters have symmetry.
-- **record:** Draw the missing half of each picture. Then list the capital letters that look the same in a mirror.
+- **record:** Tell your grown-up which pictures the mirror finished. Then list the capital letters that look the same in a mirror.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay out the four half-pictures. 2. Stand the mirror on the straight edge of the half butterfly. 3. Look into the mirror from the drawing's side.  
   *Parent says:* Look, a whole butterfly! The mirror made the other half. Shapes whose two halves match like this have symmetry.  
   *Child mode:* Stand the mirror on the straight edge. Look! A whole butterfly. Try the other half-pictures.
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child draws the missing half of each picture. 2. They check it with the mirror.  
-  *Parent says:* Now draw the missing half yourself. Then check with the mirror. Does it match?  
-  *Child mode:* Draw the missing half. Check with your mirror. Does it match?
+  *Parent does:* 1. Your child draws the missing half of each picture, or lays buttons or string where the other half should be. 2. They check it with the mirror.  
+  *Parent says:* Now make the missing half yourself. The mirror will tell you if you got it right.  
+  *Child mode:* Draw the missing half, or copy it with buttons or string. Then check with your mirror. Does it match?
   - Note: This links to maths: line symmetry. The edge where the mirror stands is called the line of symmetry.
 - **s3 (4 min)**  
   *Parent does:* Write the capital letters A to Z. Your child stands the mirror down the middle of each letter.  
@@ -469,9 +469,9 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 ### a5 · The Sunlight Postman (15 min)
 - **problem:** A mirror can send sunlight to a new place. In this activity you tilt a mirror to deliver a bright spot of light onto targets on a wall.
 - **safety:** A grown-up must be there. Never look at the Sun. Never bounce sunlight into anyone's eyes, or at animals, cars or the road. Bounced sunlight is bright enough to hurt eyes.
-- **record:** Draw where you stood, where the Sun was and where the bright spot landed. Draw the light's path as two straight lines.
+- **record:** Take a photo of the bright spot on a target. Show with your two arms how the light went: from the Sun to the mirror, then to the spot. Or draw the path as two straight lines.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Stick 3 paper targets on a shady wall, at different heights. 2. Stand where the sun shines in, with your child. 3. Tilt the mirror until a bright spot appears on the wall.  
+  *Parent does:* 1. Stick 3 paper targets on a shady wall, at different heights. 2. Stand where the sun shines in, with your child. 3. Tilt the mirror until a bright spot appears on the wall. Never shine the spot into anyone's eyes.  
   *Parent says:* The mirror catches sunlight and sends it on, like a postman. Can you deliver the spot to the first target?  
   *Child mode:* Stand where the sun shines in, with a grown-up. Tilt your mirror. Find the bright spot on the wall. Can you move it to a target?
   - Note: Watch that the spot never goes near anyone's face. The spot moves twice as far as the mirror turns, so small tilts are best. No sun at your window, or a cloudy day? Do the same in a dim room with a torch on a pile of books.
@@ -494,7 +494,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   - Note: The gap on the mirror is about half your child's real face. A 20 cm face fits in about 10 cm of mirror.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child takes two big steps back. 2. Does their face still fit between the notes? 3. Try four steps back.  
-  *Parent says:* Step back. Did your face shrink out of the notes, or stay between them?  
+  *Parent says:* Step back and look again at your face in the mirror.  
   *Child mode:* Take two big steps back. Is your face still between the notes? Try four steps.
   - Note: This surprises many grown-ups. To see your whole body, you need a mirror only half your height, at any distance.
   - Check: You step back from the mirror. Your face in the mirror still fits between the same two notes. What does that show? → **The mirror space you need does not change when you step back**
@@ -504,7 +504,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Child mode:* How tall are you? Halve it. That is the mirror you need to see all of you!
 ### a7 · The Endless Corridor (10 min)
 - **problem:** Two mirrors facing each other make a long line of images. In this activity you count how many you can see, and look closely at the far ones.
-- **record:** Write the biggest number of images you could count. Draw how the far ones looked.
+- **record:** Write the biggest number of images you could count. Say what colour and how bright the far ones looked.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold a hand mirror facing the wall mirror, a little apart. 2. Put a small toy or a lit torch between them. 3. Your child peeks over the edge and counts the copies.  
   *Parent says:* Count the images. Keep going as far as you can. The longer you count, the better!  
@@ -520,17 +520,17 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **record:** Keep the drawing. Write one line under it: 'This is me, inside.'
 - **s1 (3 min)**  
   *Parent does:* Your child looks at their face in the mirror for one quiet minute.  
-  *Parent says:* Look at your face for one minute. Just look.  
-  *Child mode:* Look at your face in the mirror. Just look, for one minute. Light that bounced off your face and off the mirror is reaching your eyes.
+  *Parent says:* Look at your face for one minute. Just look. The light that bounced off your face and off the mirror is reaching your eyes.  
+  *Child mode:* Look at your face in the mirror. Just look, for one minute.
 - **s2 (12 min)**  
   *Parent does:* 1. Draw a big mirror frame on the paper. 2. Inside it, your child draws themselves the way they feel inside, not only how they look.  
   *Parent says:* The mirror shows the outside of you. Now draw what the mirror cannot show: how you feel, what you love, what you dream about.  
-  *Child mode:* Draw a big mirror frame. Inside it, draw you. Not only your face. Draw how you feel inside.
+  *Child mode:* Draw a big mirror frame. Inside it, draw you. Not only your face. Draw how you feel inside. Or tell your grown-up, and pick a colour for each feeling.
   - Note: There is no right answer. Ask: what does your drawing show that the real mirror can't? For a quiet extra, read Mirror, a wordless picture book by Jeannie Baker, and look at how its two families mirror each other. A mirror shows how you look from outside, because it only sends back light from your body. It cannot show how you feel or think, because feelings send out no light.
   - Think: What does a mirror show about you? What can it never show?
 ### a9 · Be the Light: act out a bounce (10 min)
 - **problem:** A ball bounces off a wall at the same angle it came in, and light reflects off a mirror in the same way. In this activity you act out a bounce, first as a ball and then as a beam of light.
-- **record:** Draw the path of the ball, and the path of a child acting as light, as V shapes.
+- **record:** Lay two strips of tape on the floor to show the V your ball or you made, one for the way in and one for the way out. Or draw it.
 - **s1 (4 min)**  
   *Parent does:* 1. Stick a strip of tape on the floor, straight out from the wall. 2. Roll the ball at an angle so it hits the wall where the tape meets it. 3. Watch where it rolls away.  
   *Parent says:* Light reflects off a mirror the way this ball bounces off the wall. It comes in at an angle and leaves at the same angle.  
@@ -545,7 +545,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 ### p1 · Make a Kaleidoscope (45 min, 2 days)
 - **problem:** Two or three mirrors in a narrow gap make many images. In this project you build a kaleidoscope, a tube with three mirrors inside, and you see a few beads turn into a pattern like a flower.
 - **safety:** Use mirror card or plastic mirror sheet, never glass. A grown-up cuts the strips. Small beads are a choking risk for small children, so keep them away from toddlers.
-- **record:** Draw three patterns you saw. Count the copies of one bead in a pattern. Write how many there were.
+- **record:** Describe or draw a pattern you saw. Count the copies of one bead in it. Write how many there were.
 - **schedule:** day 1: Cut three mirror strips. Tape them into a triangle tube. Slide it into the cardboard tube. (25 min); day 2: Make the bead end. Decorate the tube. Look, turn and draw the patterns. (20 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Measure three strips of mirror card, each as long as the tube and about 3 cm wide. 2. A grown-up cuts them. 3. Lay them side by side, shiny side down, with a tiny gap between them. 4. Tape across them.  
@@ -562,23 +562,23 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Child mode:* Make a cling film cup at one end. Drop in a few beads. Cover it and tape it.
   - Check: There are only 6 beads in your kaleidoscope, but you see a flower made of many. Where do the extra beads come from? → **The mirrors make copies of the light from the beads**
 - **s4 (10 min)**  
-  *Parent does:* 1. Your child looks through the open end towards a window, and slowly turns the tube. 2. They draw three patterns. 3. They count the copies of one bead.  
+  *Parent does:* 1. Your child looks through the open end towards a window, and slowly turns the tube. 2. They pick a pattern they like and describe it to you, or draw it. 3. They count the copies of one bead.  
   *Parent says:* Turn it slowly. Every turn makes a new pattern.  
-  *Child mode:* Look towards the window. Turn the tube slowly. Draw three patterns. Count the copies of one bead.
+  *Child mode:* Look towards the window. Turn the tube slowly. Find a pattern you like and tell your grown-up about it, or draw it. Count the copies of one bead.
   - Note: The kaleidoscope was invented by the Scottish scientist David Brewster in 1816. He named it from Greek words meaning 'looking at beautiful shapes'. With three mirrors you usually see the same bead about 6 times in the middle flower. The beads settle in a new place after each shake, so a new pattern appears. The same pattern is very unlikely to come back.
   - Think: If you shake the beads, will the same pattern ever come back?
 
 ## Challenges
 ### c1 · Light the Hidden Toy (25 min)
 - **problem:** A toy is hiding behind a box. A torch is fixed in one place and cannot be moved. Your job is to light up the toy using mirrors.
-- **your turn:** Now invent your own way. Draw the path of the light, try it, and count the mirrors. Can you do it with fewer?
+- **your turn:** Now invent your own way. Try it and count the mirrors. Show the path of the light with string, or draw it. Can you do it with fewer?
 - **constraints:** You cannot move the torch or the box.; The light must not touch anyone's eyes.; Use as few mirrors as you can.
 - **general:** Put one mirror where the torch beam hits, and tilt it to send the light round the side of the box.; If one bounce is not enough, add a second mirror past the corner of the box.; Draw the path first, as straight lines with a corner at each mirror.
 - **creative:** Use the shiny side of a steel plate or a piece of smooth foil as an extra mirror.; Bounce the light off the ceiling, if your ceiling is white. It will be dim, but it may reach.; Two mirrors at a right angle send light back the way it came. Bicycle reflectors use the same idea, with many tiny mirror corners.
 - **s1 (5 min)**  
-  *Parent does:* 1. Set up the torch, box and toy. 2. Ask your child to draw a plan of where the light must go.  
+  *Parent does:* 1. Set up the torch, box and toy. 2. Ask your child to show the light's path with a string, or a quick drawing.  
   *Parent says:* Light travels in straight lines. So how can we make it go round a corner?  
-  *Child mode:* Look at the box and the toy. Draw a plan. Where must the light go?
+  *Child mode:* Look at the box and the toy. Lay a string from the torch to the toy, round the box. Or draw a plan.
 - **s2 (12 min)**  
   *Parent does:* Your child places mirrors, tests, and changes them until the toy is lit.  
   *Parent says:* Try it. If the spot misses, tilt the mirror a tiny bit.  
@@ -594,7 +594,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Child mode:* Explain your best design. Use the words reflect and angle.
 ### c2 · See the Back of Your Own Head (15 min)
 - **problem:** You cannot see the back of your own head directly. Find a way to see it, using mirrors.
-- **your turn:** Can you see your own left ear? Your own feet from behind? Invent a way, and draw the path of the light.
+- **your turn:** Can you see your own left ear? Your own feet from behind? Invent a way, and show the path of the light by pointing or drawing.
 - **constraints:** You may not use a phone camera.; Use only mirrors you have at home.
 - **general:** Stand with your back to the wall mirror. Hold the hand mirror in front of your face. Tilt it until you see the wall mirror in it.; Light from the back of your head goes to the wall mirror, then to the hand mirror, then into your eyes. It bounces off two mirrors.
 - **creative:** Tailors' shops have three mirrors in a fold, so you can see your back and sides at once.; Try a steel tumbler as the second mirror. How clear is the image?
@@ -605,12 +605,12 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **s2 (6 min)**  
   *Parent does:* Hold a piece of paper with a word on it behind your head, with the writing facing the wall mirror. Look at the word in the hand mirror, so the light bounces off both mirrors.  
   *Parent says:* With two mirrors, does the writing look backwards?  
-  *Child mode:* Hold up a word behind your head, with the writing facing the big mirror. Look in the small mirror. Is it backwards?
+  *Child mode:* Hold up a word behind your head, with the writing facing the big mirror. Look in the small mirror. Read the word.
   - Check: You look at a word through two mirrors, one bounce after another. How does the word look? → **The right way round**
 - **s3 (3 min)**  
-  *Parent does:* Your child draws the path of the light.  
-  *Parent says:* Draw where the light went, from your head to your eyes.  
-  *Child mode:* Draw the light's path. Put an arrow on each straight line.
+  *Parent does:* Your child shows the path of the light with arms or string: from the back of the head, to the big mirror, to the hand mirror, to the eyes. Or they draw it.  
+  *Parent says:* Show where the light went, from your head to your eyes.  
+  *Child mode:* Point out the light's path with your finger: back of head, big mirror, hand mirror, eyes. Or draw it with an arrow on each line.
 
 ## Worksheets
 ### Mirror Detective (core) (core, 15 questions)

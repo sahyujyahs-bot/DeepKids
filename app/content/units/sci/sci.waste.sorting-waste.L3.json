@@ -477,7 +477,7 @@
      "mins": 2,
      "do": "1. Cut out the cards and mats. 2. Lay out the three mats. 3. Shuffle the cards.",
      "say": "Each card is something we throw out. Slap the bin it belongs in, as fast as you can.",
-     "kid": "Each card is some waste. Slap the right bin, fast!",
+     "kid": "Slap the right bin mat before anyone else does.",
      "context": "This is the first step of Three Bins Snap, a card game about sorting waste."
     },
     {
@@ -584,7 +584,7 @@
      "mins": 2,
      "do": "Cut out the 24 cards, shuffle them and lay them face down.",
      "say": "Each pair is a thing and what happens to it. Find the pairs.",
-     "kid": "Find a thing and what happens to it. That is a pair.",
+     "kid": "A pair is a thing and what happens to it.",
      "context": "This is the first step of Mix-Up Memory, a memory game about sorted and mixed waste."
     },
     {
@@ -1183,7 +1183,7 @@
    "title": "The Two-Jar Test: what does wet waste do to dry waste?",
    "mins": 40,
    "days": 2,
-   "context": "This is the Two-Jar Test. You put the same dry waste in two jars, add wet waste to one, and find out what the wet waste does to the dry.",
+   "context": "You will find out whether newspaper, cardboard and plastic can still be sold to the kabadiwala (the shop that buys old paper and metal) after wet waste touches them. You put the same dry things in two jars, and add wet waste to one.",
    "question": "If dry waste is thrown in with wet waste for just 15 minutes, can the dry waste still be sold for recycling? Which kinds survive, and which are spoiled?",
    "predict": "Look at the newspaper, the biscuit-box piece and the milk packet. Which of them do you think will still be good enough for the kabadiwala (the shop that buys old paper and metal) after sitting in sambar? Why do you think so?",
    "fair_test": "Both jars get exactly the same dry things, cut to the same size, and wait for the same time. Only one thing is different: one jar also gets wet waste. So any difference must come from the wet waste.",
@@ -1263,7 +1263,7 @@
      "mins": 3,
      "do": "1. Lay the dry things in two matching sets on a plate. 2. Ask your child to guess which ones will still be sellable after sitting in sambar.",
      "say": "We are going to put these in two jars. One jar gets sambar and peels too. Which of these will still be good enough to sell? Why do you think so?",
-     "kid": "Look at the newspaper, the box piece and the milk packet. Which will still be good after sitting in sambar? Why?",
+     "kid": "Look at the newspaper, the box piece and the milk packet. Point to the ones you think will still sell after sitting in sambar.",
      "ask": [
       {
        "q": "Why do you think that one will still be good enough to sell?",
@@ -1310,7 +1310,7 @@
      "mins": 4,
      "do": "1. With tongs or a spoon, lift each newspaper strip out by one end. 2. Hold each by both ends and pull gently.",
      "say": "Lift the dry strip first, then the strip from the MIXED jar. Now pull each one very gently from both ends. What happens?",
-     "kid": "Lift out both newspaper strips. Pull each one gently from both ends. What happens?",
+     "kid": "Lift out both newspaper strips. Pull each one gently from both ends.",
      "ask": [
       {
        "q": "What did you feel when you pulled the soaked strip?",
@@ -1416,7 +1416,7 @@
    "id": "e2",
    "title": "The Sorting Race: sort as you throw, or sort later?",
    "mins": 30,
-   "context": "This is the Sorting Race. You time how long it takes to sort 30 things as you throw them, and how long to sort the same 30 things after they are mixed.",
+   "context": "You will find out whether sorting waste is quicker as you throw it, or after it is mixed. You time how long it takes to sort 30 things each way.",
    "question": "How much longer does it take to sort waste after it has been mixed, compared with sorting each thing as you throw it?",
    "predict": "Guess how many seconds each round will take. Will the mixed round take a little longer, twice as long, or much longer? Why do you think so?",
    "fair_test": "Use the same 30 things, the same three bowls and the same person sorting in both rounds. Only one thing changes: whether the things are mixed first. Do each round twice and take the faster time, because one try can be lucky or unlucky.",
@@ -1451,7 +1451,7 @@
     }
    ],
    "safety": "Wear gloves or use a spoon for the mixed round. Wash hands with soap afterwards.",
-   "record": "Write your times in the table. Then draw two bars, one for each round. Make each bar as tall as that round's faster time.",
+   "record": "Write your times in the table. Then show the two rounds as two bars, drawn or made from paper strips. Make each bar as long as that round's faster time.",
    "setup": [
     {
      "art": "A parent handing a child one bottle cap at a time, while the child drops it into one of three labelled bowls and a phone timer runs.",
@@ -1472,7 +1472,7 @@
      "mins": 3,
      "do": "1. Show the 30 things and the three labelled bowls. 2. Ask for a guess for each round, and a reason.",
      "say": "First you will sort these one at a time, as I hand them to you. Then we mix them all and you sort them again. How long will each round take? Why?",
-     "kid": "Guess how long each round will take. Will the mixed round be slower? Why?",
+     "kid": "Guess how many seconds each round will take.",
      "ask": [
       {
        "q": "Why might the mixed round be slower?",
@@ -1488,7 +1488,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Start the timer. 2. Hand your child the 30 things one by one, in any order. 3. Stop the timer when the last one is in a bowl. 4. Do it once more and write both times.",
+     "do": "1. Start the timer. 2. Hand your child the 30 things one by one, in any order. 3. Stop the timer when the last one is in a bowl. 4. Write down the time.",
      "say": "Ready? I'll hand you one thing at a time. Drop it in the right bowl as fast as you can.",
      "kid": "Take each thing and drop it in the right bowl. Go fast!",
      "parent": "Round 1 usually takes under a minute. This is what sorting at the bin feels like."
@@ -1503,7 +1503,7 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Your child puts on gloves. 2. Start the timer. 3. They sort the mixed bowl into the three bowls, picking tea leaves off the paper too. 4. Stop when everything is sorted. 5. For the second try, tip everything back into the big bowl, stir again and repeat.",
+     "do": "1. Your child puts on gloves. 2. Start the timer. 3. They sort the mixed bowl into the three bowls, picking tea leaves off the paper too. 4. Stop when everything is sorted. 5. Write down the time. If you want a second try, tip everything back into the big bowl, stir again and repeat.",
      "say": "Now sort the mixed bowl into the three bowls. Tea leaves stuck to paper count as wet. Pick them off first.",
      "kid": "Put on gloves. Sort the mixed bowl into the three bowls. Pick off stuck tea leaves.",
      "parent": "The mixed round usually takes several times longer. Used tea leaves stick to damp paper and are fiddly to pick off. Some scraps of paper will be too soggy to save. That is a real result too. In the second try the paper is already damp, so it may be even slower."
@@ -1511,7 +1511,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Check each bowl for mistakes and count them. 2. Fill in the table. 3. Draw the two bars.",
+     "do": "1. Check each bowl for mistakes and count them. 2. Fill in the table. 3. Compare the two times.",
      "say": "Let's check the bowls. Did anything end up in the wrong place? How many times longer did the mixed round take?",
      "kid": "Check each bowl. Count the mistakes. Which round was slower? By how much?",
      "check": {
@@ -1551,7 +1551,7 @@
    "title": "Lid or No Lid: who finds the open bin?",
    "mins": 20,
    "days": 2,
-   "context": "This is the Lid or No Lid test. You leave wet waste in an open box and a closed box, and find out which one ants, flies and smells reach.",
+   "context": "You will find out whether a lid keeps ants and flies away from wet waste. You leave a sweet peel in an open box and in a closed box, and see which one they reach.",
    "question": "Does a lid really keep ants, flies and smells away from wet waste?",
    "predict": "Which box do you think ants or flies will find first? Will they reach the closed box at all? Why do you think so?",
    "fair_test": "Both boxes get the same waste and stand side by side in the same spot for the same time. The only difference is the lid.",
@@ -1589,7 +1589,7 @@
      "what": "Check and count the next morning. Open the closed box and look inside. Empty both into the wet bin."
     }
    ],
-   "record": "Write your counts in the table at each check. Draw both boxes on day 2.",
+   "record": "Write your counts in the table at each check. Take a photo of both boxes on day 2, or tell your grown-up what you saw.",
    "setup": [
     {
      "art": "Two small steel dabbas side by side on a kitchen counter, each holding a piece of banana peel, one with its lid on and one with its lid off.",
@@ -1654,7 +1654,7 @@
    "id": "a1",
    "title": "Set Up a Sorting Station at Home",
    "mins": 15,
-   "context": "This is the Sorting Station activity. You set up three containers in the kitchen, one for each kind of waste, and label them so everyone at home can use them.",
+   "context": "You will make a sorting station that makes sorting easy for everyone at home. You set up three containers in the kitchen, one for each kind of waste, and label them.",
    "materials": [
     {
      "item": "a bucket or bin with a lid for wet waste, such as an old paint bucket or a steel dabba",
@@ -1674,7 +1674,7 @@
     }
    ],
    "safety": "Do not handle any broken glass or blades yourself. Leave them for a grown-up to wrap.",
-   "record": "Draw your sorting station. Then draw three things you threw out today, with an arrow from each one to the right container.",
+   "record": "Take a photo of your sorting station. Then name three things you threw out today, and say which container each one goes in.",
    "setup": [
     {
      "art": "A kitchen corner under the sink with a lidded steel bucket marked WET, a cardboard box marked DRY and a small tin with a red cross.",
@@ -1698,8 +1698,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Put the wet bin, the dry box and the danger tin side by side, close to where you cook. 2. Put the danger tin up high, out of small children's reach.",
-     "say": "We keep them together near the stove. Then sorting takes no extra walking. Why should the danger tin go up high?",
-     "kid": "Put the wet bin, the dry box and the danger tin side by side. Keep them close to where you cook. Put the danger tin up high.",
+     "say": "We will keep all three together near the stove. Why do you think that helps?",
+     "kid": "Put the wet bin, the dry box and the danger tin side by side. Keep them close to where you cook. Put the danger tin up high, so small children cannot reach it.",
      "ask": [
       {
        "q": "Why put all three together, close to the stove?",
@@ -1714,9 +1714,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child writes WET, DRY and DANGER, and draws three examples on each label. Tape the labels on.",
-     "say": "Draw three things for each label, so even someone who can't read knows what goes where.",
-     "kid": "Write WET, DRY and DANGER. Draw three things on each label. Tape them on.",
+     "do": "Your child writes WET, DRY and DANGER on three labels. They add three examples to each label, drawn or cut from old packets and magazines. Tape the labels on.",
+     "say": "Add three things to each label, so even someone who can't read knows what goes where.",
+     "kid": "Write WET, DRY and DANGER. Add three examples to each label, drawn or cut out. Tape them on.",
      "parent": "Good pictures: peels, tea leaves and eggshells for WET. Newspaper, a milk packet and a bottle for DRY. A battery, a tube light and tablets for DANGER."
     },
     {
@@ -1745,7 +1745,7 @@
    "title": "Sorting Week: a tally of mistakes",
    "mins": 25,
    "days": 7,
-   "context": "This is the Sorting Week activity. For seven days you check the bins at home once a day and make a tally mark for each thing in the wrong place.",
+   "context": "You will find out whether mistakes at the bins go down when someone checks them. For seven days you check the bins once a day and make a tally mark for each thing in the wrong place.",
    "materials": [
     {
      "item": "a tally sheet stuck on the wall by the bins, with a pencil on a string",
@@ -1826,7 +1826,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "On day 7, count each day's marks. Draw a bar chart with seven bars.",
+     "do": "On day 7, count each day's marks and write the total beside each row.",
      "say": "Did the mistakes go up or down through the week? What was the most common one?",
      "kid": "Count the marks for each day. Did they go down? Which mistake happened most?",
      "check": {
@@ -1877,7 +1877,7 @@
      "mins": 3,
      "do": "Explain what hazardous waste is. Ask your child to guess three things at home that might be dangerous to throw out.",
      "say": "Some waste can cut, poison or catch fire. Can you think of three things at home like that?",
-     "kid": "Some waste can cut, poison or catch fire. Can you think of three?",
+     "kid": "Think of three things at home that could be dangerous to throw out.",
      "adult": true,
      "context": "This is the first step of the Danger Box activity. You hunt for dangerous waste at home with a grown-up."
     },
@@ -1905,7 +1905,7 @@
      "mins": 7,
      "do": "1. Wrap glass and blades in thick newspaper. 2. Your child writes on each packet what is inside. 3. Put batteries, medicines and bulbs in the box.",
      "say": "Write on each packet in big letters, like BROKEN GLASS or SHARP. Then the person who picks it up knows to be careful.",
-     "kid": "Write on each packet in big letters, like BROKEN GLASS or SHARP. Then the collector knows to be careful.",
+     "kid": "Write what is inside on each packet, in big letters. Then the collector knows to be careful.",
      "adult": true,
      "parent": "Ask your building, your city's waste helpline, or a shop that sells batteries or bulbs where to take the danger box. Many cities have collection days or points for this.",
      "check": {
@@ -1952,7 +1952,7 @@
      "mins": 3,
      "do": "Before you go, make a tally sheet with five rows: open bins, closed bins, litter, still water, blocked drains.",
      "say": "We are going to be safety inspectors. What could make our building unsafe?",
-     "kid": "Make a tally sheet with five rows: open bins, closed bins, litter, still water, blocked drains.",
+     "kid": "Write the five things to look for on your tally sheet.",
      "adult": true,
      "context": "This is the first step of the Clean and Safe Walk. Do this only if you can go round your building or lane with a grown-up."
     },
@@ -2029,7 +2029,7 @@
     },
     {
      "art": "A large poster with three coloured columns, WET in green, DRY in blue and DANGER with a red cross, filled with drawings.",
-     "caption": "2. Draw each thing in its column on a big sheet."
+     "caption": "2. Put each thing in its column on a big sheet."
     },
     {
      "art": "The finished poster taped beside a building's lift, with a neighbour reading it.",
@@ -2049,9 +2049,9 @@
     {
      "id": "s2",
      "mins": 25,
-     "do": "1. Draw three columns on the chart paper. 2. Colour the headings green, blue and red. 3. Draw or stick all 18 things in the right column.",
+     "do": "1. Draw three columns on the chart paper. 2. Colour the headings green, blue and red. 3. Help your child draw, stick or write all 18 things in the right column.",
      "say": "Make the pictures big. Someone walking past should understand it without reading.",
-     "kid": "Draw three columns. Draw all 18 things in the right column. Make them big.",
+     "kid": "Draw three columns. Put each of the 18 things in its column: draw it, cut a picture out, or write its name. Make them big.",
      "wait": "Do this on day 2."
     },
     {
@@ -2130,9 +2130,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Draw a design, with the measurements written on it.",
+     "do": "Your child draws a design with the measurements written on it. If they would rather not draw, they build a quick model from boxes instead.",
      "say": "Draw your bin. Show where wet goes and where dry goes. How will you keep smells in?",
-     "kid": "Draw your bin. Show where wet and dry waste go. Add a lid."
+     "kid": "Draw your bin, or build a quick model. Show where wet and dry waste go. Add a lid."
     },
     {
      "id": "s3",
@@ -2166,7 +2166,7 @@
    "id": "c2",
    "title": "An Onam Sadya with No Mixed Waste",
    "mins": 30,
-   "context": "This is the Festival Feast challenge. Big feasts make a lot of waste quickly. You plan how to keep it sorted.",
+   "context": "You will find out where bins must go so that 20 guests can sort their own waste. Big feasts make a lot of waste quickly, so you plan how to keep it sorted.",
    "problem": "Your family is serving an Onam sadya, a Kerala feast eaten on banana leaves, to 20 guests at home. Plan how to sort every bit of waste so that nothing ends up mixed.",
    "constraints": [
     "Guests should not have to think hard about where to throw things.",
@@ -2187,7 +2187,7 @@
     "Use cloth napkins that are washed afterwards, so there is no paper to soak.",
     "Make a picture sign at the door showing the three bins, drawn by the children."
    ],
-   "your_turn": "Draw a plan of your home on feast day. Mark where each bin goes and who looks after it. Then use it at your next family festival or party, and check the bins afterwards.",
+   "your_turn": "Make a plan of your home on feast day, drawn or laid out with real boxes. Mark where each bin goes and who looks after it. Then use it at your next family festival or party, and check the bins afterwards.",
    "setup": [
     {
      "art": "A long row of guests seated on the floor eating a sadya on banana leaves, with a green bin at the end of the row.",
@@ -2195,7 +2195,7 @@
     },
     {
      "art": "A child's drawn floor plan of a flat with a green bin, a blue box and a red-cross box marked in place.",
-     "caption": "2. Draw a plan showing where each bin goes."
+     "caption": "2. Make a plan showing where each bin goes."
     }
    ],
    "flow": [
@@ -2210,9 +2210,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Draw a plan of the home, marking each bin and who looks after it.",
+     "do": "Show your home, marking each bin and who looks after it. Draw it, or place real bins and boxes around a room.",
      "say": "Where do people eat? Where will they throw things? Put the bins where they are needed.",
-     "kid": "Draw your home. Mark where each bin goes. Who helps the guests?"
+     "kid": "Show your home on paper, or place real bins and boxes in a room. Mark where each bin goes. Who looks after each bin?"
     },
     {
      "id": "s3",

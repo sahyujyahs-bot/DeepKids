@@ -515,7 +515,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Play rounds as in the rules. After each round, ask one question about the cards that were played.",
-     "say": "Jupiter won on width. Is Jupiter also the furthest planet? Which card wins on distance?",
+     "say": "Look at the cards we just played. Is the widest planet also the furthest from the Sun? Which card wins on distance?",
      "kid": "Pick width, distance or year. Read your number. Biggest wins!",
      "check": {
       "t": "mcq",
@@ -637,8 +637,8 @@
      "id": "s2",
      "mins": 10,
      "do": "Take turns asking yes-or-no questions and ticking the tally.",
-     "say": "A good first question splits the planets into two equal groups. Which question could do that? Try one.",
-     "kid": "Ask yes-or-no questions. Try to split the planets in half each time.",
+     "say": "Ask a yes-or-no question about the secret planet. A good one splits the eight planets into two equal groups.",
+     "kid": "Ask a yes-or-no question. Listen to the answer, then ask another.",
      "check": {
       "t": "mcq",
       "q": "Which first question splits the eight planets exactly in half?",
@@ -794,7 +794,7 @@
      "mins": 2,
      "do": "Ask your child to guess before you measure anything.",
      "say": "Soon we'll catch the light on squared paper, first 20 cm from the torch and then 40 cm. 40 is twice as far as 20. At 40 cm, will the light cover the same number of squares, twice as many, or four times as many? Why do you think so?",
-     "kid": "Guess. At twice as far, will the light cover the same number of squares? Twice as many? Four times as many? Why?",
+     "kid": "Guess. At twice as far, will the light cover the same number of squares? Twice as many? Four times as many?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -917,10 +917,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Make a ring with a gap. Guess where the marble goes at the gap. Roll it 5 times and draw its path."
+     "what": "Make a ring with a gap. Guess where the marble goes at the gap. Roll it 5 times and mark where it stops."
     }
    ],
-   "record": "Draw the ring from above, and draw the path the marble took after the gap. Write which guess was right.",
+   "record": "Write which guess was right. Then draw the path the marble took after the gap, or tell your grown-up what you saw.",
    "context": "In this experiment you roll a marble round inside a ring with a gap in it. You find out which way a moving thing goes when nothing turns it any more. The planets move in the same way.",
    "setup": [
     {
@@ -933,7 +933,7 @@
     },
     {
      "art": "The marble leaving the plate at the gap and rolling off in a straight line, with a pencil line drawn from the gap to the spot where it stopped.",
-     "caption": "3. Watch where it goes at the gap. Draw a line to where it stopped."
+     "caption": "3. Watch where it goes at the gap. Mark where it stopped."
     }
    ],
    "example_chart": {
@@ -997,17 +997,17 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Put the marble against the inside of the rim, far from the gap. 2. Flick it along the rim so it rolls fast all the way to the gap. 3. Watch where it goes. 4. When it stops, mark that spot with a pencil. 5. Draw a line from the gap to the mark. 6. Do it 5 times.",
-     "say": "Let's roll it and watch closely. After each roll I'll draw a line from the gap to where it stopped.",
-     "kid": "Flick the marble round the inside of the rim. Watch where it goes at the gap. Mark where it stops and draw a line to it. Try 5 times.",
+     "do": "1. Put the marble against the inside of the rim, far from the gap. 2. Flick it along the rim so it rolls fast all the way to the gap. 3. Watch where it goes. 4. When it stops, mark that spot with a pencil dot. 5. Do it 5 times.",
+     "say": "Let's roll it and watch closely. After each roll I'll mark where it stopped.",
+     "kid": "Flick the marble round the inside of the rim. Watch where it goes at the gap. Mark where it stops with a pencil dot. Try 5 times.",
      "parent": "If the marble jumps over the rim, flick it a little more gently. It should roll off in a straight line along the way it was moving at the gap. It does not keep curving, and it does not roll straight out from the middle. The marble slows down on newspaper and its path may bend a little. Judge by the first part of the path, just after the gap."
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "Look at the 5 pencil lines together.",
-     "say": "Look at our lines. Did the marble keep curving, or go straight? So while it was going round, what was making it curve?",
-     "kid": "Look at your lines. Did the marble curve or go straight? What made it curve before?",
+     "do": "Look at the 5 pencil dots together.",
+     "say": "Look at where the marble stopped each time. Did it keep curving, or go straight? So while it was going round, what was making it curve?",
+     "kid": "Look at your dots. Did the marble curve or go straight?",
      "check": {
       "t": "mcq",
       "q": "While the marble went round, the rim pushed it inwards. What does the same job for the planets?",
@@ -1062,7 +1062,7 @@
      "what": "Guess the sizes. Make the eight planets to the same scale and line them up in order."
     }
    ],
-   "record": "Draw the line-up, with each planet's name and width in centimetres.",
+   "record": "Take a photo of the line-up. Then write each planet's name and width in centimetres.",
    "context": "In this activity you make the eight planets from dough and newspaper, all to the same scale, so you can see how big the Earth really is next to the others.",
    "setup": [
     {
@@ -1167,7 +1167,7 @@
      "what": "Move a ball round a lamp and watch its shape and size change. Then try the old Earth-centred plan and see what is missing."
     }
    ],
-   "record": "Draw how the ball (Venus) looked when it was nearest you, and how it looked when it was on the far side of the lamp.",
+   "record": "Tell your grown-up how the ball (Venus) looked when it was nearest you, and how it looked on the far side of the lamp. You can draw it too.",
    "context": "In this activity you repeat Galileo's test of 1610 with a lamp and a ball. You see why the changing shape of Venus showed that Venus goes round the Sun.",
    "setup": [
     {
@@ -1198,7 +1198,7 @@
      "mins": 5,
      "do": "1. Hold the ball at arm's length from the lamp. 2. Walk slowly round the lamp in a circle, keeping the ball level with it. 3. Pause when the ball is nearest your child. 4. Pause again when it is on the far side of the lamp.",
      "say": "Watch the ball as I carry it round the Sun. How much of it is lit? Does it look bigger or smaller?",
-     "kid": "Watch the ball. How much is lit? Does it look big or small?",
+     "kid": "Watch the ball as it goes round the lamp. Look at its shape and its size.",
      "ask": [
       {
        "q": "What did the ball look like when it was nearest you?",
@@ -1275,8 +1275,8 @@
      "what": "Check which planets are up tonight. Find one from a window, balcony or terrace."
     }
    ],
-   "record": "Draw what you saw: the planet, anything near it, and which way you were facing.",
-   "context": "In this activity you find a real planet in the night sky. You are standing on one planet, looking at another.",
+   "record": "Tell your grown-up what you saw: which planet, what was near it, and which way you were facing. Or take a photo.",
+   "context": "In this activity you find a real planet in the night sky. You are standing on one planet, looking at another. You will see with your own eyes that a planet is a world, not a star.",
    "setup": [
     {
      "art": "A child and a grown-up looking at a sky map on a phone, with planet names on the screen.",
@@ -1302,15 +1302,15 @@
      "mins": 7,
      "do": "1. Go to a window, balcony or terrace that faces the direction the sky map showed. 2. Look for a bright dot that shines steadily, without much twinkling. 3. Check it against the map.",
      "say": "Planets shine steadily, while stars twinkle more. Can you find a bright, steady dot?",
-     "kid": "Find a bright dot that does not twinkle much. That is a planet!",
+     "kid": "Find a bright dot that does not twinkle much. Check it on the map.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Ask your child where the planet's light comes from.",
-     "say": "That planet makes no light of its own. What are we seeing?",
-     "kid": "The planet makes no light. So what light are you seeing?",
+     "say": "That planet makes no light of its own. Look at it for a moment.",
+     "kid": "Look at the planet again. It makes no light of its own.",
      "parent": "A good answer: a planet, because the Earth makes no light of its own. It only shines with sunlight bouncing off it, just as the planet you are looking at does. To someone on another planet, the Earth is one more bright dot.",
      "ask": [
       {
@@ -1351,8 +1351,8 @@
      "what": "Lay a 3-metre string along a corridor or hall. Mark the Sun and each planet at its real spacing."
     }
    ],
-   "record": "Draw the string with the Sun and the eight planets marked, and write each distance in centimetres.",
-   "context": "In this activity you lay out the distances of the planets from the Sun along a 3-metre string, all to the same scale. The Earth is 10 cm from the Sun.",
+   "record": "Take a photo of the string with the Sun and the eight planets marked. Then write each distance in centimetres.",
+   "context": "In this activity you lay out the distances of the planets from the Sun along a 3-metre string, all to the same scale. The Earth is 10 cm from the Sun. You will see how crowded the four inner planets are, and how empty it is further out.",
    "setup": [
     {
      "art": "A 3-metre string laid along a flat's corridor floor, with a paper Sun label taped at one end.",
@@ -1389,7 +1389,7 @@
      "mins": 6,
      "do": "1. Stand at the Sun end and look along the string. 2. Ask what this means for sunlight.",
      "say": "In the torch test, the light spread out and got dimmer as the paper moved further away. Sunlight spreads out in the same way. Which planets get the most sunlight? Which get almost none?",
-     "kid": "In the torch test, the light got dimmer further away. Sunlight does the same. Which planets get lots of sunlight? Which get very little?",
+     "kid": "Stand at the Sun end and look along the string. Point to planets that get lots of sunlight. Point to planets that get very little.",
      "check": {
       "t": "mcq",
       "q": "Saturn is about 10 times as far from the Sun as the Earth. How strong is sunlight on Saturn?",
@@ -1507,7 +1507,7 @@
     }
    ],
    "record": "The finished guidebook, with one page for each planet.",
-   "context": "In this 3-day project you make a guidebook for travellers, with one page for each planet. Each page says what a visitor would find there.",
+   "context": "In this 3-day project you make a guidebook for travellers, with one page for each planet. Each page says what a visitor would find there. You will use what you learned to tell someone else what each world is like.",
    "setup": [
     {
      "art": "Eight sheets of paper folded and stapled into a small booklet, with 'My Planet Guidebook' written on the cover.",
@@ -1534,9 +1534,9 @@
     {
      "id": "s2",
      "mins": 40,
-     "do": "1. On each page, write five short lines. The first is how far the planet is from the Sun, compared with the Earth. The second is how wide it is, compared with the Earth. The third is how long its year is. The fourth is how strong its sunlight is, compared with the Earth. To find it, multiply the distance by itself, as in the torch test. The fifth is one thing a visitor would see. 2. Draw the planet.",
+     "do": "1. On each page, write five short lines. The first is how far the planet is from the Sun, compared with the Earth. The second is how wide it is, compared with the Earth. The third is how long its year is. The fourth is how strong its sunlight is, compared with the Earth. To find it, multiply the distance by itself, as in the torch test. The fifth is one thing a visitor would see. 2. Add a picture of the planet. Draw it, or cut one out of a magazine or a printout.",
      "say": "Use the 3-metre string and the dough planets from the Planet Line-up to help. Jupiter is 5 times as far. 5 times 5 is 25, so sunlight there is 25 times weaker. What would a visitor see on Venus? Thick yellow clouds, and terrible heat.",
-     "kid": "Write five facts on each page. How far. How wide. How long a year. How weak the sunlight is. What a visitor sees. Then draw it.",
+     "kid": "Write five facts on each page. How far. How wide. How long a year. How weak the sunlight is. What a visitor sees. Then add a picture: draw it, or cut one out.",
      "wait": "Do three planets a day, over three days.",
      "parent": "For the strength of sunlight compared with the Earth, use these: about 7 times stronger for Mercury, 2 times stronger for Venus, half as strong for Mars, 25 times weaker for Jupiter, 100 times weaker for Saturn, 400 times weaker for Uranus and 900 times weaker for Neptune. These are rounded."
     },
@@ -1545,7 +1545,7 @@
      "mins": 15,
      "do": "1. Add a last page: 'Why I'm glad I live on the Earth'. 2. Your child reads the guidebook aloud to someone at home.",
      "say": "Now the last page. After visiting all eight, why are you glad to live on the Earth?",
-     "kid": "Write the last page. Why are you glad to live on the Earth? Read your book to someone.",
+     "kid": "Write the last page. Then read your book to someone at home.",
      "ask": [
       {
        "q": "Why is the Earth a good place to live?",
@@ -1619,8 +1619,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Ask your child to show the folded panels and explain the plan.",
-     "say": "Show me how your Saturn panel opens out. Why does it need to be so big?",
-     "kid": "Show your folded panel. Open it out. Say why it is so big.",
+     "say": "Show me how your Saturn panel opens out.",
+     "kid": "Show your folded panel. Then open it out.",
      "ask": [
       {
        "q": "Why can't one square of panel work at Saturn?",
@@ -1676,15 +1676,15 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put two ice cubes of the same size on two saucers. 2. Put both in the same sunny spot. 3. Ask your child to guess how much longer a shaded one will last.",
-     "say": "Close to the Sun, spacecraft get hotter and hotter. Let's see if we can protect an ice cube. Which will melt first?",
-     "kid": "Put two ice cubes in the sun. Guess which will melt first, and why.",
+     "do": "1. Put two ice cubes of the same size on two saucers, indoors in the shade for now. 2. Say you will build a shade for one of them. 3. Ask your child which will melt first, and why.",
+     "say": "Close to the Sun, spacecraft get hotter and hotter. We will try to protect one ice cube with a shade. Which will melt first, the shaded one or the other?",
+     "kid": "Guess which ice cube will melt first, and why.",
      "context": "This is the first step of the ice cube challenge. You put two ice cubes in sunshine to compare."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Build a shade from card and foil or white paper over one ice cube, not touching it. 2. Check both every 5 minutes for up to 20 minutes. 3. Write down when each one has melted, or 'still ice at 20 minutes'.",
+     "do": "1. Build a shade from card and foil or white paper to stand over one ice cube, not touching it. 2. Put both saucers in the same sunny spot, one under the shade. 3. Check both every 5 minutes for up to 20 minutes. 4. Write down when each one has melted, or 'still ice at 20 minutes'.",
      "say": "Let's build our shade. The shiny or white side faces the Sun. Then we check every 5 minutes.",
      "kid": "Build a shade over one ice cube. Don't touch the ice. Check every 5 minutes.",
      "parent": "On a hot afternoon, the bare ice cube may melt in about 15 to 30 minutes. Warm air melts both cubes, so the shade slows the melting but does not stop it. Look at which lasts longer, and by how much. If the sun goes behind a cloud, keep going, because both cubes are in the same light. If there is no direct sun today, try another day."
@@ -1693,8 +1693,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about the results.",
-     "say": "Which one lasted longer? Why does the shade work? What does this tell us about Mercury, so close to the Sun?",
-     "kid": "Which ice cube lasted longer? Why? What would happen on Mercury?",
+     "say": "Which one lasted longer? What does this tell us about Mercury, so close to the Sun?",
+     "kid": "Which ice cube lasted longer? What would happen to ice on Mercury?",
      "ask": [
       {
        "q": "Why did the shaded ice cube last longer?",

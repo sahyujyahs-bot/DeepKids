@@ -518,8 +518,8 @@
      "id": "s2",
      "mins": 12,
      "do": "Take turns. After each turn, count the greens and browns in your pot.",
-     "say": "Your pot has three greens and one brown. Is it sweet or sour? Why?",
-     "kid": "Count your greens and browns. If you have more greens than browns, your pot goes sour.",
+     "say": "Look at your pot. Which do you have more of, greens or browns? Is it sweet or sour?",
+     "kid": "Count your greens and browns. Which do you have more of?",
      "ask": [
       {
        "q": "Why does a pot with more greens than browns go sour?",
@@ -559,7 +559,7 @@
    "title": "Peels Alone or Peels with Paper: which jar smells of earth?",
    "mins": 50,
    "days": 10,
-   "context": "This is the main test of the unit. Two jars hold the same chopped peels. Only one also has dry paper mixed in. You find out what the paper changes.",
+   "context": "This is the main test of the unit. Two jars hold the same chopped peels. Only one also has dry paper mixed in. You will find out why one jar can turn slimy and sour.",
    "question": "Two jars hold the same chopped peels. Jar B also has torn dry newspaper mixed in. Which jar turns slimy and sour, and which smells more like damp soil?",
    "predict": "Before you start, guess. Which jar will smell worse after a week, A with peels alone or B with peels and paper? And why do you think so?",
    "fair_test": "Both jars are the same size, hold the same amount of the same peels, get one spoon of soil each, are pressed down the same amount and stand side by side under the same cloth. Only one thing is different: the paper in jar B. So any difference comes from the paper.",
@@ -634,7 +634,7 @@
      "what": "Waft and score both jars a last time. Tip both jars out onto newspaper and look inside. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table on days 3, 5, 7 and 10. On day 10, draw what the inside of each jar looked like, and draw a bar chart of the day 10 smell scores.",
+   "record": "Fill in the table on days 3, 5, 7 and 10. On day 10, draw what the inside of each jar looked like, or take a photo. Write the day 10 smell scores in the table.",
    "setup": [
     {
      "art": "Two clear plastic bottles with their tops cut off, labelled A and B, on a sheet of newspaper, with a bowl of chopped peels and a pile of torn newspaper beside them.",
@@ -660,7 +660,7 @@
      "context": "This is the first step of the Peels Alone or Peels with Paper test. Here the child makes a guess.",
      "do": "1. Show your child the bowl of chopped peels and the pile of torn paper. 2. Explain the two jars. 3. Ask for a guess and a reason, and write both down.",
      "say": "We are going to fill two jars with the same peels. Jar B also gets dry paper mixed in. In a week, which jar do you think will smell worse? Why do you think so?",
-     "kid": "Two jars get the same peels. Jar B also gets dry paper. Which jar will smell worse in a week? Why?",
+     "kid": "Two jars get the same peels. Only jar B gets dry paper. Make your guess.",
      "ask": [
       {
        "q": "Which jar do you think will smell worse, and why?",
@@ -748,9 +748,9 @@
     {
      "id": "s7",
      "mins": 7,
-     "do": "Ask your child to say three things: what they think now, what they saw, and why. Write them in the notebook. Then draw a bar chart of the day 10 smell scores.",
-     "say": "Tell me what you think now. What did you see and smell? And why do you think it happened? Then let's draw a bar for each jar.",
-     "kid": "Say what you think now. Say what you saw and smelled. Then say why it happened. Then draw a bar for each jar.",
+     "do": "Ask your child to say three things: what they think now, what they saw, and why. Write them in the notebook. Then build a button tower for each jar, one button for each smell point.",
+     "say": "Tell me what you think now. What did you see and smell? And why do you think it happened? Then let's build a button tower for each jar, one button for each smell point. Use buttons, coins or small stones.",
+     "kid": "Say what you think now. Say what you saw and smelled. Then say why it happened. Then build a button tower for each jar. Use one button for each smell point.",
      "ask": [
       {
        "q": "What did the paper change?",
@@ -860,7 +860,7 @@
      "what": "Score both a last time. Compare them, and say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table every day. On day 7, draw a line for each jar's smell score across the week.",
+   "record": "Fill in the table every day. On day 7, read each jar's smell scores across the week and say which jar smelled worse.",
    "setup": [
     {
      "art": "Two cut plastic bottles labelled C and D, each half full of chopped peels, on a balcony ledge.",
@@ -915,9 +915,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. On day 7, compare the two jars. 2. Ask your child to say what they think, what they saw, and why. 3. Draw a line for each jar's scores across the week.",
+     "do": "1. On day 7, compare the two jars. 2. Ask your child to say what they think, what they saw, and why. 3. Read each jar's scores across the week, and point to the day each jar smelled worst.",
      "say": "Which jar smelled worse by the end? What do you think stirring did?",
-     "kid": "Which jar smelled worse? What did stirring do? Draw a line for each jar.",
+     "kid": "Which jar smelled worse? What did stirring do? Point to the day each jar smelled worst.",
      "check": {
       "t": "mcq",
       "q": "One jar of peels was stirred every day. Another jar was left alone. The stirred jar smelled less sour. Why?",
@@ -940,7 +940,7 @@
    "title": "Two Smells: soil and the kitchen bin",
    "mins": 10,
    "days": 1,
-   "context": "This short activity starts the unit. You compare two smells, and find a puzzle the unit answers.",
+   "context": "This short activity starts the unit. You will find out why two things made from old plants smell so different.",
    "materials": [
     {
      "item": "a potted plant",
@@ -963,7 +963,7 @@
      "what": "Smell the soil and the bin. Draw both. Write one question."
     }
    ],
-   "record": "Draw the soil and the bin. Write one word for each smell, and one question you want answered.",
+   "record": "Write one word for each smell, and one question you want answered. Draw the soil and the bin if you like.",
    "setup": [
     {
      "art": "A child bending over a potted plant, wafting the smell of the soil towards their nose with one hand.",
@@ -981,7 +981,7 @@
      "context": "This is the first step of Two Smells. You compare soil and the kitchen bin.",
      "do": "1. Take your child to a potted plant. 2. Show how to waft: wave the air over the soil towards your nose. 3. Ask what it smells like.",
      "say": "Let's smell the soil in this pot. Wave the air towards your nose, like this. What does it smell like?",
-     "kid": "Wave the air over the soil towards your nose. What does it smell like?",
+     "kid": "Wave the air over the soil towards your nose.",
      "ask": [
       {
        "q": "What does the soil smell like?",
@@ -998,7 +998,7 @@
      "mins": 3,
      "do": "1. Open the wet-waste bin. 2. Waft the smell the same way. 3. Ask what it smells like.",
      "say": "Now smell the bin the same way. What does this smell like?",
-     "kid": "Now wave the smell from the bin towards you. What does it smell like?",
+     "kid": "Now wave the smell from the bin towards you.",
      "ask": [
       {
        "q": "What does the bin smell like?",
@@ -1016,7 +1016,7 @@
      "mins": 4,
      "do": "1. Tell your child that soil is made partly from old dead leaves and plants. 2. Ask the puzzle. 3. Write their question in the notebook.",
      "say": "Soil is made partly from old dead leaves and plants. The bin is full of old dead plants too. So why do they smell so different? What do you think?",
-     "kid": "Soil is partly made of old dead plants. So is the bin. Why do they smell so different?",
+     "kid": "Soil is partly made of old dead plants. So is the bin. Think about the two smells.",
      "ask": [
       {
        "q": "Why might they smell different?",
@@ -1038,7 +1038,7 @@
    "title": "Greens, Browns, or Not in the Pot?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you sort real kitchen waste into three groups, to get ready for composting.",
+   "context": "In this activity you sort real kitchen waste into three groups. You will find out which waste can rot into compost and which cannot.",
    "materials": [
     {
      "item": "about 12 real waste items from the kitchen and the house: peels, tea leaves, onion skin, an egg shell, torn newspaper, a dry leaf, a cardboard egg tray piece, a rinsed milk packet, a plastic spoon, a bit of leftover rice, a used battery (kept closed in a box), a chicken bone if your family eats meat",
@@ -1057,7 +1057,7 @@
      "what": "Sort the waste onto three sheets. Explain each choice."
     }
    ],
-   "record": "Draw the three sheets and write what went on each.",
+   "record": "Write what went on each of the three sheets, or take a photo of the sheets.",
    "setup": [
     {
      "art": "Three newspaper sheets on a floor labelled Greens, Browns and Not in the pot, with a pile of kitchen waste beside them.",
@@ -1115,7 +1115,7 @@
    "title": "Where Does Our Garbage Go?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you find out where your family's garbage goes after it leaves your home, by asking the people who carry it.",
+   "context": "In this activity you find out where your family's garbage goes after it leaves your home, by asking the people who carry it. You will find out how far it travels.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1134,7 +1134,7 @@
      "what": "Ask the person who collects the garbage. Find the dump or compost plant on a map. Draw the journey."
     }
    ],
-   "record": "Draw a map of your garbage's journey, from your kitchen to where it ends up.",
+   "record": "Tell your grown-up the journey of your garbage, from your kitchen to where it ends up. Draw a map if you like.",
    "setup": [
     {
      "art": "A child with a notebook and a grown-up talking to a garbage collector beside a pushcart with green and blue bins at a building gate.",
@@ -1142,7 +1142,7 @@
     },
     {
      "art": "A child's drawing of a path from a flat, to a cart, to a truck, to a big garbage hill and a compost plant.",
-     "caption": "2. Draw the journey of your garbage."
+     "caption": "2. Follow the journey of your garbage on a map."
     }
    ],
    "flow": [
@@ -1167,9 +1167,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Find the place they named on a map, together. 2. Look at a photo of it if you can. 3. Your child draws the journey.",
-     "say": "Let's find it on the map. How far does our garbage travel? Now let's draw its journey.",
-     "kid": "Find the place on the map. How far is it? Draw the journey.",
+     "do": "1. Find the place they named on a map, together. 2. Look at a photo of it if you can. 3. Your child tells the journey by tracing it on the map with a finger.",
+     "say": "Let's find it on the map. How far does our garbage travel? Now let's trace its journey with a finger.",
+     "kid": "Find the place on the map. How far is it? Trace the road with your finger and tell the journey.",
      "parent": "In many cities wet waste goes to a dump. Some cities, such as Mysuru and Indore, send sorted wet waste to compost or biogas plants. If nobody knows, that is an answer too."
     }
    ]
@@ -1255,7 +1255,7 @@
      "what": "Tip out the compost. Pick out any big pieces to go back in. If it is not dark and crumbly yet, leave it 2 to 4 more weeks. Mix the compost into the soil of a pot and plant a seedling in it."
     }
    ],
-   "record": "Keep a compost diary: the date, what you added, the smell, whether it felt warm, and what you saw. Draw the pot on days 1, 28 and 56.",
+   "record": "Keep a compost diary: the date, what you added, the smell, whether it felt warm, and what you saw. Draw the pot on days 1, 28 and 56, or take a photo each time.",
    "setup": [
     {
      "art": "A grown-up holding a heated skewer with a cloth, melting small holes in the sides of a plastic bucket, while a child watches from a step back.",
@@ -1335,7 +1335,7 @@
      "mins": 17,
      "do": "1. When the pot has had no new peels for about 4 weeks, tip it out onto newspaper. 2. Pick out any big pieces and put them back in the next pot. 3. Mix the compost into a plant pot, about one part compost to three parts soil. 4. Plant a seedling or some seeds.",
      "say": "Look at it now. Can you find any peels? Smell it. What does it smell like?",
-     "kid": "Tip it out. Can you find any peels? Smell it. Now plant something in the compost!",
+     "kid": "Tip it out onto newspaper. Look and smell. Now plant something in the compost!",
      "parent": "Ready compost is dark, crumbly and smells like damp earth. In hot weather it can take 6 weeks after the last peels. In cool weather it can take 3 months. Don't use it alone as soil. Mix it with ordinary soil. If it is still lumpy and you can see peels, leave it a few more weeks."
     }
    ]
@@ -1372,7 +1372,7 @@
     "Always keep a thick layer of dry leaves on top, so that no peel shows. Fruit flies gather on peels that show.",
     "Find out about bokashi: food is sealed in a bucket with special microbes and it ferments, like a pickle, instead of rotting. Why does that not smell rotten?"
    ],
-   "your_turn": "Now design your own composter. Draw it with labels: where the air gets in, where the browns go, and how it keeps flies out. Build it and use it for one week. Does it smell?",
+   "your_turn": "Now design your own composter. Draw it with labels, or tell your grown-up: where the air gets in, where the browns go, and how it keeps flies out. Build it and use it for one week. Does it smell?",
    "setup": [
     {
      "art": "A child drawing a labelled design of a bucket composter with arrows for air, in a notebook on the kitchen floor.",
@@ -1390,7 +1390,7 @@
      "context": "This is the first step of the No-Smell Kitchen Composter challenge. You start from the problem.",
      "do": "Remind your child of jar A in the Peels Alone or Peels with Paper test, which had only peels and went sour. Ask what made it smell.",
      "say": "In the Peels Alone or Peels with Paper test, jar A had only peels. It went sour and slimy. What made it smell? So what must our composter do?",
-     "kid": "In the Peels Alone or Peels with Paper test, the jar with only peels went sour. What made it smell? What must your composter do?",
+     "kid": "In the first test, the jar with only peels went sour. What made it smell?",
      "ask": [
       {
        "q": "What must a no-smell composter do?",
@@ -1405,9 +1405,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw three different ideas together, before building anything.",
-     "say": "Engineers draw before they build. Let's draw three ideas. Where does the air get in?",
-     "kid": "Draw three ideas. Show where the air gets in. Show how flies stay out."
+     "do": "Draw three different ideas together, or lay them out with the real buckets and pots, before building anything.",
+     "say": "Engineers plan before they build. Let's plan three ideas. Where does the air get in?",
+     "kid": "Draw or lay out three ideas. Show where the air gets in. Show how flies stay out."
     },
     {
      "id": "s3",

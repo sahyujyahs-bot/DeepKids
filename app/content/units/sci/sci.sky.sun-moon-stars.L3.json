@@ -750,7 +750,7 @@
      "mins": 3,
      "do": "Find the card 'The Moon'. Play it together as a practice round. Then shuffle it back into the pile.",
      "say": "Let's practise with one card. 'The Moon.' It looks bright at night. Is it a light source or a reflector?",
-     "kid": "Practice card: the Moon. Is it a light source or a reflector? Say your answer.",
+     "kid": "Practice card: the Moon. Think about it, then choose your answer below.",
      "ask": [
       {
        "q": "If the Moon is a reflector, what is lighting it up?",
@@ -774,7 +774,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns. Each player draws a card, reads it and puts it on a mat. 2. They say where its light comes from. 3. Give one star token for each good reason.",
+     "do": "1. Take turns. Each player takes the top card, reads it and puts it on a mat. 2. They say where its light comes from. 3. Give one star token for each good reason.",
      "say": "When you put your card down, tell me where its light comes from. If it's a reflector, what is lighting it up?",
      "kid": "Take turns. Read your card. Put it on LIGHT SOURCE or REFLECTOR. Say where the light comes from. Good reasons win a ⭐.",
      "parent": "Light sources: the Sun, Sirius, the Pole Star, a firefly, a candle, lightning, a lighthouse lamp, a shooting star and a phone screen. A shooting star is a speck of space dust glowing hot as it rushes into our air. Reflectors: the Moon, Venus, Jupiter, Mars, Saturn's rings, a steel plate, your face, cat's eyes, the Earth seen from the Moon, a road sign and the space station. The space station shines only with sunlight, which is why you see it soon after sunset or before sunrise, when it is sunny up there but dark down here."
@@ -859,9 +859,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Make the night sky. Use black or dark blue chart paper. Dot about 25 stars with a white crayon. Draw the seven stars of the Saptarishi, shaped like a ladle, among them. 2. With a white pencil, draw one dotted line across the middle. This is the path of the Sun, Moon and planets. 3. Cut out the 4 wanderer tokens, or use three beads and a small paper Moon. Put each next to a different star on the path.",
+     "do": "1. Make the night sky. Use black or dark blue chart paper. Make about 25 stars with white crayon dots or small white paper circles. Add the seven stars of the Saptarishi, shaped like a ladle, among them. 2. Lay a white string across the middle, or draw a dotted line with a white pencil. This is the path of the Sun, Moon and planets. 3. Cut out the 4 wanderer tokens, or use three beads and a small paper Moon. Put each next to a different star on the path.",
      "say": "Thousands of years ago, people with no telescopes watched the sky every night. They noticed that a few bright dots moved among the stars. They called them wanderers. Let's see if you can spot a wanderer too.",
-     "kid": "Make the night sky. Dot stars on black paper. Draw one dotted path across it. Put the beads and the paper Moon on the path. Each one goes next to a star. These are the wanderers.",
+     "kid": "Make the night sky. Put white dots or paper circles on black paper for stars. Lay a string across it as the path. Put the beads and the paper Moon on the path. Each one goes next to a star. These are the wanderers.",
      "context": "This is the first step of Spot the Wanderer. It is a memory game about how people first noticed that planets move among the fixed stars."
     },
     {
@@ -886,7 +886,7 @@
      "mins": 5,
      "do": "Talk together about why the planets move and the stars do not.",
      "say": "The stars are so far away that they seem fixed in their patterns. The planets are our neighbours, going round the Sun like the Earth. As we all move, they seem to drift past the faraway stars.",
-     "kid": "Stars are very far away, so they seem fixed. Planets are our neighbours. They go round the Sun, like us. So they seem to wander.",
+     "kid": "Think about which are near and which are far away: the stars or the planets.",
      "check": {
       "t": "mcq",
       "q": "Why do planets seem to wander among the stars?",
@@ -1540,7 +1540,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Go to the longest dim space you have. A building corridor with its lights off, the terrace at dusk, or two rooms in a line all work. 2. Ask your child to guess what will happen as the torch moves away.",
-     "say": "I'm going to walk away with this torch. The torch won't change at all. Do you think it will look the same as I walk away, or different?",
+     "say": "I'm going to walk away with this torch. Do you think it will look the same as I walk away, or different?",
      "kid": "A grown-up will walk away with a torch. Guess first. Will it look the same, smaller or bigger? Brighter or dimmer?",
      "ask": [
       {
@@ -1558,7 +1558,7 @@
      "mins": 9,
      "do": "1. Stand 2 big steps away, holding the torch at chest height, pointing at your child's chest. 2. Your child scores its size and brightness. 3. Walk to 10 steps, then 20, then 40 (or as far as your space allows), pointing the torch towards them each time. 4. At each stop, your child writes the scores in the table.",
      "say": "Look at the torch. How big does it look? As big as a coin, a pea, a grain of rice, or a dot? And how bright, from 5 for dazzling to 1 for just a faint dot?",
-     "kid": "Look at the torch. How big does it look? How bright? Give it a score from 5 to 1. Write it down. Do it again at each stop.",
+     "kid": "At each stop, pick a size. Then give a brightness score from 5 (dazzling) to 1 (faint). Write both in the table.",
      "adult": true,
      "parent": "Keep the torch pointing the same way each time, so the test is fair. Far away, the torch will look smaller and dimmer. In a flat or corridor it will not become as faint as a real star, because a star is far, far further. If your space is shorter, use 2, 5, 10 and 15 steps instead. The darker the space, the more the far torch looks like a star."
     },
@@ -1566,8 +1566,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Walk back to your child. Hold the torch next to them so they can see it has not changed.",
-     "say": "Look, it's exactly the same torch. It didn't shrink. So why did it look so tiny?",
-     "kid": "Look at the torch up close. Did it shrink? No! So why did it look tiny far away?",
+     "say": "Look, it's exactly the same torch. It didn't shrink.",
+     "kid": "Look at the torch up close. Did it shrink?",
      "check": {
       "t": "mcq",
       "q": "The torch looked tiny and dim far away. Why?",
@@ -1584,8 +1584,8 @@
      "id": "s4",
      "mins": 2,
      "do": "1. Ask the question below and wait for your child's answer. 2. Then talk about the stars and the Sun.",
-     "say": "The Sun is a star, like the stars at night. It is the nearest one, so it looks big and bright. The other stars are suns too. They are so far away that they look like tiny dots.",
-     "kid": "The Sun is a star. It is our nearest one. Other stars are suns too. They are just very, very far away.",
+     "say": "The Sun is a star, like the stars at night. It is the nearest one, so it looks big and bright. The stars at night look like tiny dots, just like the far torch.",
+     "kid": "The Sun is a star, and it is our nearest one. Think back to the far torch.",
      "think": "If you could fly far, far away from the Sun, what would it look like?",
      "ask": [
       {
@@ -1691,14 +1691,14 @@
      "what": "Test each object in the dark, with the torch off and then on. Then make a Moon with a ball and the torch."
     }
    ],
-   "record": "Fill in the table. Then draw the ball with its bright side towards the torch.",
+   "record": "Fill in the table. Then take a photo of the ball with its bright side towards the torch, or draw it.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Put the objects on a table. 2. Make the room as dark as you can. 3. Wait a minute for your eyes to get used to the dark. 4. Ask which objects you can still see.",
      "say": "Now it's dark. Which of these can you still see? Which have vanished?",
-     "kid": "Make the room dark. Wait a minute. Which things can you still see? Which have vanished?",
+     "kid": "Wait a minute in the dark so your eyes get used to it. Then point to each thing you can still see.",
      "adult": true,
      "context": "This is the first step of the Own Light or Reflected Light test. You find out which things make their own light by looking at them in the dark.",
      "parent": "Close the curtains and switch off every light, including the hall. In a city flat a little light from street lamps may still creep in. Then the plate and the ball will be faint, not gone. That faint shine is reflected street light, which is part of the answer."
@@ -1708,7 +1708,7 @@
      "mins": 4,
      "do": "1. Switch the torch on. 2. Shine it on each object in turn, from about one big step away. 3. Fill in the table together.",
      "say": "Now let's give them light. Which ones shine now? Where is their light really coming from?",
-     "kid": "Switch on the torch. Shine it on each thing. Which ones shine now? Where does their light come from?",
+     "kid": "Switch on the torch. Shine it on one thing at a time. Watch which ones shine.",
      "ask": [
       {
        "q": "The steel plate shines brightly now. Is it making light?",
@@ -1724,8 +1724,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Hold the torch still, high up, shining across the room. 2. Your child holds the white ball at arm's length, a little above their head. They turn slowly round on the spot, watching the ball.",
-     "say": "This ball is the Moon. The torch is the Sun. Your head is the Earth. Turn slowly and watch the ball. Which side of it is bright?",
-     "kid": "The ball is the Moon. The torch is the Sun. You are the Earth. Hold the ball out. Turn slowly. Which side is bright?",
+     "say": "This ball is the Moon. The torch is the Sun. Your head is the Earth. Turn slowly and watch the ball.",
+     "kid": "The ball is the Moon. The torch is the Sun. You are the Earth. Hold the ball out and turn slowly. Look at the ball all the time.",
      "check": {
       "t": "mcq",
       "q": "Which side of the ball is always bright?",
@@ -1845,7 +1845,7 @@
      "what": "At a time when sunshine comes onto your balcony, terrace or through a window, make the pinhole card. Catch the Sun's picture on paper at three distances. Measure it."
     }
    ],
-   "record": "Fill in the table. Draw the bright spot at each distance, at its real size.",
+   "record": "Fill in the table. Draw the bright spot at each distance, at its real size, or take a photo with a coin beside it.",
    "flow": [
     {
      "id": "s1",
@@ -1862,7 +1862,7 @@
      "mins": 7,
      "do": "1. Find direct sunshine: a balcony, the terrace, or a sunny window with the glass open. 2. Stand with your back to the Sun. 3. Hold the card up so its shadow falls on the white paper, on the floor or on a wall. 4. Find the small bright spot in the middle of the card's shadow. 5. Hold the card 1 metre from the paper and measure the spot.",
      "say": "Look only at the paper, never up. See the bright spot in the card's shadow? That little circle is a picture of the Sun.",
-     "kid": "Back to the Sun! Look only at the paper. Find the bright spot in the shadow. That spot is the Sun's picture.",
+     "kid": "Stand with your back to the Sun. Look only at the paper. Find the bright spot in the shadow.",
      "adult": true,
      "ask": [
       {
@@ -2056,7 +2056,7 @@
      "what": "Guess the distance to the Sun. Build the Earth and Moon. Then pace out where the Sun goes."
     }
    ],
-   "record": "Draw the model, with the sizes and distances written on it.",
+   "record": "Write down the sizes and distances. Then take a photo of your model, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -2096,8 +2096,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Stand by the mustard seed. Talk about how empty space is.",
-     "say": "Is space crowded or empty? The nearest other star in this model would be as far away as London. That's why stars look like tiny dots.",
-     "kid": "Look at all the empty space! The next star would be as far as London. That's why stars look so tiny.",
+     "say": "Is space crowded or empty? Look at all the space between the seed and the ball. Now guess where the nearest other star would be in this model.",
+     "kid": "Look at all the empty space between the seed and the ball.",
      "check": {
       "t": "mcq",
       "q": "In the model, the mustard seed Earth is 24 metres from the football Sun. Where would the nearest other star be?",
@@ -2151,7 +2151,7 @@
      "what": "Dance the Sun, the planets and the Moon. Listen to two pieces from The Planets."
     }
    ],
-   "record": "Draw your dance: who was the Sun, who were the planets, and who went round whom.",
+   "record": "Tell someone at home who was the Sun, who were the planets, and who went round whom. Or draw your dance.",
    "flow": [
     {
      "id": "s1",
@@ -2265,14 +2265,14 @@
      "what": "Draw one last time. Compare all five drawings. Which moved more, the Moon or the planet? If you have binoculars, look at the Moon through them."
     }
    ],
-   "record": "Five drawings, each with the date, the time, the skyline, the Moon and the planet, and the nearby stars.",
+   "record": "Five pictures (photos or drawings), each with the date, the time, the skyline, the Moon, the planet and the nearby stars.",
    "flow": [
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Use the sky map to choose five evenings in a row. On each one, the Moon must be in view from your window or balcony at a fixed time (such as 7:30 pm). 2. Go to that same spot each night, at the same time. 3. Draw the skyline: buildings, the water tank, a tree or a mobile tower. 4. Draw the Moon and the brightest dots near it. 5. Use the sky map to check which bright dot is a planet.",
-     "say": "We'll come back here at the same time for five nights. Draw the skyline first, so we can see if things move. Which dot shines steadily without twinkling?",
-     "kid": "Draw the skyline first: buildings, tanks, trees. Then draw the Moon. Then the brightest dots. Which dot does not twinkle?",
+     "do": "1. Use the sky map to choose five evenings in a row. On each one, the Moon must be in view from your window or balcony at a fixed time (such as 7:30 pm). 2. Go to that same spot each night, at the same time. 3. Take a photo of the sky, with the phone held steady on a railing. Keep a building, the water tank or a tree in the picture. Or draw the skyline, the Moon and the brightest dots. 4. Use the sky map to check which bright dot is a planet.",
+     "say": "We'll come back here at the same time for five nights. We keep the same buildings and trees in every picture, so we can see if things move. Which dot shines steadily without twinkling?",
+     "kid": "Take a photo of the sky. Or draw the skyline, the Moon and the brightest dots. Keep a building in the picture.",
      "adult": true,
      "parent": "Check Stellarium Web before you start. Type your city and the date, and it shows where the Moon is at 7:30 pm. As a rough guide: if you face west, start 2 or 3 days after the new Moon. If you face south, start about 6 days after it. If you face east, start about 11 days after it. From a city you will see only the brightest stars, often fewer than ten near the Moon. That is enough. A bright planet such as Venus or Jupiter is easy to see even from a city when one is up. The sky map tells you which are up this month. If no planet is in your view, follow the Moon alone, and draw one or two bright stars or the skyline next to it.",
      "context": "This is the first night of the five-night sky diary. You draw the Moon and a bright planet from the same place each evening, to see how they move."
@@ -2280,9 +2280,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "On nights 2, 3 and 4, go to the same spot at the same time. Draw the skyline, the Moon, the planet and the nearby stars again.",
+     "do": "On nights 2, 3 and 4, go to the same spot at the same time. Take the same photo again, or draw it again. Say which tree or building the Moon is next to.",
      "say": "Same place, same time. Has the Moon moved? Has its shape changed? What about the planet?",
-     "kid": "Same place. Same time. Draw it all again. Has the Moon moved? Is more of it lit?",
+     "kid": "Same place. Same time. Take your photo, or draw again. Which tree or building is the Moon next to tonight?",
      "adult": true,
      "wait": "Come back each evening at the same time, for 3 more nights.",
      "parent": "If a night is cloudy, skip it and draw on the next clear night. Gaps in the diary are fine. Just write the date on each drawing."
@@ -2290,9 +2290,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "On night 5, draw one last time. Then lay all five drawings side by side and compare them.",
+     "do": "On night 5, take or draw one last picture. Then lay all five pictures side by side (print them, or flick through on the phone).",
      "say": "Look at all five nights. Which moved the most, the Moon or the planet? Did the stars keep their pattern?",
-     "kid": "Put your five drawings in a row. Which moved most? The Moon, or the planet? Did the stars stay still?",
+     "kid": "Put your five pictures in a row. Point to where the Moon is in each one.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2317,15 +2317,15 @@
      "parent": "Through binoculars, Jupiter may show up to four tiny star-like dots in a line beside it. These are its biggest moons, the ones Galileo found in 1610. Binoculars work well from a city, because the Moon and Jupiter are bright. Only point binoculars at the night sky, never anywhere near the Sun."
     }
    ],
-   "context": "In this sky diary you draw the Moon and a bright planet at the same time and place for five evenings. You find out that they wander among the fixed stars.",
+   "context": "In this sky diary you look at the Moon and a bright planet at the same time and place for five evenings, and keep a photo or drawing of each. You find out that they wander among the fixed stars.",
    "setup": [
     {
      "art": "A child on a balcony at dusk drawing the skyline of buildings and a water tank, with a thin crescent Moon and one bright planet above.",
-     "caption": "1. Draw the skyline, the Moon and the bright dots."
+     "caption": "1. Photograph or draw the skyline, the Moon and the bright dots."
     },
     {
      "art": "Five small drawings in a row showing the Moon growing fatter and moving across the sky, with the planet shifting a little.",
-     "caption": "2. Draw again at the same time and place each night."
+     "caption": "2. Do it again at the same time and place each night."
     },
     {
      "art": "A child resting binoculars on a wall, looking at the Moon, with a grown-up beside them.",
@@ -2356,7 +2356,7 @@
      "what": "Feel 8-minute-old sunlight. Make a timeline of when starlight set off."
     }
    ],
-   "record": "Your timeline of starlight, with a picture at each point.",
+   "record": "Your timeline of starlight, with a short note at each point.",
    "flow": [
     {
      "id": "s1",
@@ -2369,9 +2369,9 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Mark points on the line for the Moon, the Sun, Sirius and the Pole Star. Each point is when its light set off. The line is not to scale. 2. At each point, draw what was happening on Earth.",
-     "say": "Light from Sirius that you see tonight set off about 8 and a half years ago. Light from the Pole Star set off a few hundred years ago, when there were no cars or electric lights. What was happening in your life when the light from Sirius left?",
-     "kid": "Make a starlight timeline. Mark when light left the Moon, Sun, Sirius and Pole Star. Draw what was happening then.",
+     "do": "1. Mark points on the line for the Moon, the Sun, Sirius and the Pole Star. Each point is when its light set off. The line is not to scale. 2. At each point, say one thing that was happening on Earth then, and write it beside the point.",
+     "say": "Light from Sirius that you see tonight set off about 8 and a half years ago. Light from the Pole Star set off a few hundred years ago, when there were no cars or electric lights.",
+     "kid": "Make a starlight timeline. Mark when light left the Moon, Sun, Sirius and Pole Star. Say what was happening then.",
      "ask": [
       {
        "q": "What was happening in your life when Sirius's light set off, about 8 and a half years ago?",
@@ -2388,7 +2388,7 @@
      "mins": 3,
      "do": "Talk about what this means when we look at stars.",
      "say": "When you look at a star, you see it as it was when its light set off. Some stars you see might have changed since then.",
-     "kid": "When you see a star, you see its old light. You are looking into the past!",
+     "kid": "Think about the Pole Star. Its light set off a few hundred years ago.",
      "check": {
       "t": "mcq",
       "q": "The light from the Pole Star set off a few hundred years ago. So when you see the Pole Star, you are seeing…",
@@ -2467,7 +2467,7 @@
      "what": "Make a planet from a second torch. Put the first torch in the box and show the family your night sky on the ceiling."
     }
    ],
-   "record": "Draw the patterns you made and label the stars you know. Write one thing your family asked you.",
+   "record": "Take a photo of your box sky on the ceiling, and write the name of each star pattern beside it. Write one thing your family asked you.",
    "flow": [
     {
      "id": "s1",
@@ -2508,7 +2508,7 @@
      "id": "s5",
      "mins": 12,
      "do": "1. Put the first torch inside the box, pointing up at the lid. 2. Make the room dark. 3. Your child shows the family the star patterns on the ceiling. A second person (the grown-up, if there are only two of you) moves the planet dot a little at a time with the second torch.",
-     "say": "Show us your sky. Which stars are suns? Which dot is a wanderer, and where does its light come from?",
+     "say": "Show us your sky. Point out the stars. Then point out the wanderer.",
      "kid": "Switch off the lights. Shine your sky on the ceiling. Show your family the star patterns. A helper makes the planet wander!",
      "check": {
       "t": "mcq",
@@ -2570,13 +2570,13 @@
     "Look at the shadow under a leafy tree. The round bright spots are all pictures of the Sun, made by gaps between the leaves. During an eclipse they turn into crescents.",
     "Cover a small mirror with paper, leaving one small hole. A grown-up angles it to send the Sun's picture onto a shady wall inside the flat, several metres away. Never look into the mirror, and never point it at anyone."
    ],
-   "your_turn": "Now invent your own viewer. Draw it, build it, and measure your Sun's picture. Can you make it bigger and still sharp?",
+   "your_turn": "Now invent your own viewer. Build it, and measure your Sun's picture. Can you make it bigger and still sharp?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together, and the rule that nobody looks at the Sun.",
-     "say": "Our job is to make a picture of the Sun at least 2 centimetres wide. In the Pinhole Sun experiment, what made the Sun's picture bigger?",
+     "say": "Our job is to make a picture of the Sun at least 2 centimetres wide. Remember, nobody looks at the Sun itself.",
      "kid": "Your job: make the Sun's picture 2 centimetres wide. Never look at the Sun! In the Pinhole Sun experiment, what made the picture bigger?",
      "adult": true,
      "context": "This is the first step of the Safe Sun Viewer challenge. You design a viewer that shows a picture of the Sun without anyone looking at the Sun."
@@ -2584,9 +2584,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Before building anything, draw three ideas.",
+     "do": "Before building anything, sketch three ideas, or tell your grown-up three ideas.",
      "say": "Engineers draw before they build. Let's draw three different ideas.",
-     "kid": "Think like an engineer. Draw three ideas before you build any."
+     "kid": "Think like an engineer. Sketch or describe three ideas before you build any."
     },
     {
      "id": "s3",
@@ -2648,7 +2648,7 @@
     "A lamp that switches on only when someone walks past.",
     "Low lights along the edge of the path, instead of one tall bright lamp."
    ],
-   "your_turn": "Now invent your own dark-sky lamp. Draw it, build it, and test it. Can you keep the road bright and the sky dark?",
+   "your_turn": "Now invent your own dark-sky lamp. Build it and test it. Can you keep the road bright and the sky dark?",
    "flow": [
     {
      "id": "s1",
@@ -2663,7 +2663,7 @@
      "mins": 5,
      "do": "Give the ceiling a brightness score from 0 (dark) to 5 (very bright). Check you can read a book on the floor.",
      "say": "Give the ceiling a score from 0 to 5. Can you still read the book on the 'road'?",
-     "kid": "Score the ceiling from 0 for dark to 5 for very bright. Can you read the book on the floor?",
+     "kid": "Score the ceiling from 0 for dark to 5 for very bright. Then try reading the book on the floor.",
      "check": {
       "t": "mcq",
       "q": "Why do city people see fewer stars than village people?",
@@ -2679,7 +2679,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Draw two ideas. 2. Build one from card, cups and foil. 3. Fit it on the torch, or tilt the torch, and score the ceiling again. 4. Check the book can still be read.",
+     "do": "1. Sketch two ideas, or tell your grown-up two ideas. 2. Build one from card, cups and foil. 3. Fit it on the torch, or tilt the torch, and score the ceiling again. 4. Check the book can still be read.",
      "say": "Can you get the ceiling down to a 0 or 1, and still read the book?",
      "kid": "Build a shade. Score the ceiling again. Can you still read the book? Try to get the ceiling to 0!",
      "parent": "The best fix is to tilt the torch so it points down at the floor beside the table, and put a card hood over it, lined with foil. Real street lamps built this way are called full cut-off lamps. The foil reflects the stray light down, so the road can even get brighter."

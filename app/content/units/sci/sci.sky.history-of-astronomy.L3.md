@@ -273,11 +273,11 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **Printable cards: 12 repeat cards to cut out (name on the front, time on the back):** Your heartbeat (back: About 1 second); Your breath (back: About 4 seconds); One nazhigai, the ghati bowl sinking (back: 24 minutes); Day and night, one turn of the Earth (back: 24 hours); The Moon coming back to the same star group, a nakshatra (back: About 27 days); A week (back: 7 days); Full Moon to full Moon (back: About 29 and a half days); The Sun's year and the seasons (back: About 365 days); Venus back in the morning sky (back: About 584 days); Indian calendars adding an extra month (back: About every 2 and a half to 3 years); A similar eclipse coming back (back: About 18 years); Halley's Comet coming back (back: About 76 years)
 - **Printable score sheet: Score sheet:** Player name; Cards placed right
 - **s1 (2 min)**  
-  *Parent does:* Cut out the cards. The name is on the front and the time on the back. Read each card's name before turning it over.  
+  *Parent does:* Cut out the cards. The name is on the front and the time on the back. Read each card's name before turning it over. Do not look at the times yet.  
   *Parent says:* Each card is something that comes back again and again. We put them in order, quickest first.  
-  *Child mode:* Each card is something that comes back. Put them in order. Quickest first.
+  *Child mode:* Look at the names on the cards. Which one do you think comes back soonest?
 - **s2 (10 min)**  
-  *Parent does:* Play the game, taking turns.  
+  *Parent does:* Take turns. The player takes the top card, says where it goes in the line, then turns it over to check the time.  
   *Parent says:* Your card is Venus. Does it come back faster or slower than the Moon's month? Faster or slower than a year?  
   *Child mode:* Say where your card goes in the line. Then turn it over and check the time.
   - Check: Which comes back more often? → **The full Moon**
@@ -308,7 +308,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **s3 (2 min)**  
   *Parent does:* Ask for a prediction and a reason, and write both down before the timed rounds.  
   *Parent says:* Now we will float it three times in exactly the same way. Will it take exactly the same time each round? Nearly the same? Or very different? Why do you think so?  
-  *Child mode:* Guess: will the cup sink in the same time every round, nearly the same time, or very different times? Say why.
+  *Child mode:* Guess: same time every round, nearly the same, or very different?
   - Ask: Why do you think the times will be the same, or different? (good: Same, because it is the same cup and the same hole.; A little different, because I might put it down differently.)
   - Note: Do not say what will happen. Any reason your child gives is good. Write down the guess, so you can compare it with the results.
 - **s4 (18 min)**  
@@ -325,7 +325,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three things: what they think, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What do you think about our cup clock now? What did you see that shows it? And why do you think the times were not all exactly the same?  
-  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Tell your grown-up what you think, what you saw, and why.
   - Note: This is called claim, evidence and reasoning. A good answer has three parts. What I think: the cup clock is nearly steady but not perfect. What I saw: rounds 1 to 3 took 3 minutes 10 seconds, 3 minutes 22 seconds and 3 minutes 5 seconds, so the shortest and longest were 17 seconds apart. Why: small changes in how I put the cup down, and water left in the cup, changed the time a little. That is why astronomers checked their water clocks against the Sun and stars.
   - Check: Your cup sank in slightly different times each round. What did old astronomers do about this in their water clocks? → **They checked them against the Sun and stars, which repeat more steadily**
 ### e2 · The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's? (25 min)
@@ -338,7 +338,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **s1 (5 min)**  
   *Parent does:* 1. Stand about 2 metres from the wall, facing the two marks. 2. Show how to hold a fist at the end of a straight arm, with one eye closed. 3. Ask for a guess and a reason.  
   *Parent says:* Sky-watchers used their fists as a ruler for the sky. Hold your fist out like this, with one eye closed. My fist is bigger than yours. Who do you think will count more fists between the two marks? Why?  
-  *Child mode:* Hold your fist out on a straight arm. Close one eye. Who will count more fists between the two marks? Why?
+  *Child mode:* Hold your fist out on a straight arm. Close one eye. Guess who will count more fists between the two marks.
   - Ask: Why do you think so? (good: You, because my fist is smaller.; The same, because your arm is longer too.)
   - Note: Let the reason come from your child. Many say the child will count more fists, because a child's fist is smaller. Don't correct them.
 - **s2 (8 min)**  
@@ -362,7 +362,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **predict:** Make a mark on the bottle every 30 seconds as it empties. Will the marks be the same distance apart, closer together at the bottom, or further apart? Why do you think so?
 - **fair test:** Use one bottle, one hole, and mark every 30 seconds exactly. Stand the bottle on the same flat place the whole time.
 - **safety:** A grown-up makes the hole with the drawing pin, because pins are sharp.
-- **record:** Write the gaps between marks in the table. Draw the bottle with its marks.
+- **record:** Write the gaps between marks in the table. Then say which gap was the biggest and which was the smallest. You can also take a photo of the bottle with its marks.
 - **results table:** Mark number | Time (seconds) | Gap from the last mark (cm)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Push the drawing pin through the side of the bottle about 3 cm from the bottom. 2. Take the pin out and push it through again to make the hole round. 3. Put a strip of tape from top to bottom on the bottle.  
@@ -375,14 +375,14 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
   *Child mode:* We mark the water level every 30 seconds. Will the gaps between the marks stay the same, get bigger, or get smaller? Why?
 - **s3 (12 min)**  
   *Parent does:* 1. Hold a finger over the hole and fill the bottle to the top. 2. Stand it in the sink, or beside the bucket, with the hole facing the sink or the bucket. 3. Take your finger away and start the stopwatch. 4. Every 30 seconds, mark the water level on the tape. Stop after 10 marks, or when the bottle is empty.  
-  *Parent says:* Ready? Finger off. Start the timer. Every time I say 'mark', draw a line where the water is.  
-  *Child mode:* Take your finger off. Every 30 seconds, draw a line at the water.
+  *Parent says:* Ready? Finger off. Start the timer. Every time I say 'mark', make a line on the tape where the water is.  
+  *Child mode:* Take your finger off. Every 30 seconds, mark a line at the water level.
   - Note: Watch the jet. At first it shoots far. As the water gets lower, it shoots less far, and the level drops more slowly. So the marks get closer together near the bottom. If the hole clogs, poke it again with the pin.
   - Think: Why does the jet shoot less far when the bottle is nearly empty?
 - **s4 (6 min)**  
   *Parent does:* Measure the gaps between the marks with a ruler. Ask your child what they think, what they saw and why.  
   *Parent says:* Let's measure the gaps. What do you notice? Why do you think the water slowed down?  
-  *Child mode:* Measure each gap. Do they get bigger or smaller? Why?
+  *Child mode:* Measure each gap with the ruler. Say the numbers out loud while your grown-up writes them.
   - Note: A good answer has three parts. What I think: water runs out more slowly as the bottle empties. What I saw: the first gap was 3 cm and the last was 1 cm. Why: less water is pushing down on the hole.
   - Check: The marks got closer together near the bottom. Why? → **Less water above the hole pushes less hard, so it flows out more slowly**
 
@@ -402,12 +402,12 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **s3 (3 min)**  
   *Parent does:* Talk about the results.  
   *Parent says:* Were your guesses the same each time? If nobody had a clock, how could people agree on what a minute is, or when to meet?  
-  *Child mode:* Were your times the same? How could people agree on time with no clocks?
+  *Child mode:* Look at your three times. Are they the same?
   - Check: Your three guesses of a minute were all different. What does that show? → **Our own sense of time drifts, so we need something steadier to count with**
 ### a2 · A Day of 60 Nazhigai: draw the old Indian day wheel (20 min)
 - **record:** Keep your day wheel. Write on it how many nazhigai you sleep.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw round the plate. 2. Mark the top 'sunrise, 6 o'clock'. 3. Mark the bottom 'sunset, 6 o'clock'. 4. Mark noon on the right and midnight on the left.  
+  *Parent does:* 1. Draw round the plate. 2. Mark the top 'sunrise, 6 in the morning'. 3. Mark the bottom 'sunset, 6 in the evening'. 4. Mark noon on the right and midnight on the left.  
   *Parent says:* Old Indian astronomers counted the day from sunrise. They split the whole day and night into 60 parts, called ghatika in Sanskrit and nazhigai in Tamil. Let's draw it.  
   *Child mode:* Draw a big circle. Sunrise at the top. Sunset at the bottom.
 - **s2 (8 min)**  
@@ -417,13 +417,13 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
   - Note: It does not need to be exact. Help your child mark 5 big parts in each quarter first, then split each one into 3. That gives 15 in each quarter.
 - **s3 (7 min)**  
   *Parent does:* 1. Work out together: how many nazhigai from sunrise to noon? 2. Colour your sleeping time. 3. Count how many nazhigai you sleep.  
-  *Parent says:* One nazhigai is 24 minutes. Sunrise to noon is 6 hours. How many nazhigai is that? If you sleep from 9 at night to 6 in the morning, how many nazhigai do you sleep?  
-  *Child mode:* Count the parts from sunrise to noon. Colour your sleep. How many nazhigai do you sleep?
+  *Parent says:* One nazhigai is 24 minutes. Sunrise to noon is 6 hours. Now think about your sleep. If you sleep from 9 at night to 6 in the morning, how many nazhigai is that?  
+  *Child mode:* Find noon on your wheel. Show your sleep with colour or tape. Count its parts.
   - Note: 9 at night to 6 in the morning is 9 hours, which is 22 and a half nazhigai.
   - Check: From sunrise at 6 to noon at 12 is 6 hours. How many nazhigai is that? → **15**
 ### a3 · Count to 60 on Two Hands, perhaps the Babylonian way (10 min)
 - **problem:** The Babylonians counted in sixties, and nobody is sure why. One idea is that they counted on their fingers. You will try that idea and see whether it gets you to 60.
-- **record:** Draw your hand and number its 12 finger sections.
+- **record:** Write the sum that got you to 60, for example 12 + 12 + 12 + 12 + 12. You can also take a photo of your hands with five fingers up.
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the three joint sections on each finger, not counting the thumb. 2. Touch each section with the thumb of the same hand, counting 1 to 12.  
   *Parent says:* Each finger has three sections, between the joints. Four fingers have 12 sections. Touch each one with your thumb and count to 12.  
@@ -436,7 +436,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **s3 (2 min)**  
   *Parent does:* Talk about where we still count in sixties.  
   *Parent says:* The Babylonians counted in sixties. Where do we still count in sixties today?  
-  *Child mode:* Where do we still count in sixties?
+  *Child mode:* Think of one place where we still count in sixties.
   - Note: 60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a circle. Historians are not sure why the Babylonians chose 60, so this is only one idea.
 ### a4 · Eratosthenes on the Phone: compare noon shadows with someone in another city (20 min)
 - **problem:** At noon, a stick makes a shadow. Is the shadow the same length in two cities that are far apart from north to south? Eratosthenes found it was not, and he used that to measure the Earth. You will check with someone in another city.
@@ -455,7 +455,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **s3 (5 min)**  
   *Parent does:* Talk about why the two shadows are different lengths.  
   *Parent says:* It is the same Sun, at the same moment. Why do you think the shadows are different lengths?  
-  *Child mode:* It is the same Sun at the same time. Why are the shadows different lengths?
+  *Child mode:* Think about why the two shadows are different lengths.
   - Check: Two cities, one far north of the other, have noon shadows of different lengths at the same moment. What did Eratosthenes say this shows? → **The Earth's ground is curved, so the Sun hits it at different slants**
 ### a5 · Be a Babylonian Sky-Writer: tonight's sky on a dough tablet (15 min)
 - **record:** Keep the dried tablet, and write what each mark means on a paper beside it.
@@ -473,7 +473,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 ## Projects
 ### p1 · The Window Calendar: does the Sun set in the same place every day? (40 min, 28 days)
 - **safety:** Never look straight at the Sun. With a grown-up, mark the place just after the Sun has gone behind the buildings.
-- **record:** A row of tape marks on the window with dates, and a drawing of the skyline with the marks on it.
+- **record:** A row of tape marks on the window with dates, and a photo of the window (or a drawing of the skyline) with the marks on it.
 - **schedule:** day 1: Choose a spot to stand. Put tape on the window glass to mark where the Sun sets. Write the date. (10 min); day 7: Stand on the same spot. Mark the sunset place again. (5 min); day 14: Mark it again. Is it moving? Which way? (5 min); day 21: Mark it again. (5 min); day 28: Mark it once more. Measure how far the marks have moved. Talk about how builders long ago used the moving sunset point as a calendar. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Choose a spot to stand, and mark it on the floor. 2. Wait until the Sun has just gone behind the buildings. Put a small piece of tape on the glass where it went down. 3. Write the date on the tape.  
@@ -488,25 +488,25 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
   - Wait: Do this once a week for four weeks.
 - **s3 (15 min)**  
   *Parent does:* After four weeks, look at the row of marks. Measure the distance between the first and last. Talk about it.  
-  *Parent says:* The marks show the Sun's journey through the year. People long ago used walls, stones and temple doors to mark this, so they knew when the seasons would come. If you kept going for a whole year, what would happen?  
-  *Child mode:* Look at your marks. The Sun is moving along the skyline. What will it do in a year?
+  *Parent says:* The marks show the Sun's journey through the year. People long ago used walls, stones and temple doors to mark this, so they knew when the seasons would come.  
+  *Child mode:* Look at your row of marks. Point to the first and the last. Which way did the Sun's sunset point move?
   - Note: In Mexico, the Maya city of Chichen Itza has buildings lined up with the Sun on special days. In Chennai or Kochi, the sunset point moves by about 50 degrees along the skyline over the year, about five fists at arm's length.
   - Check: Your sunset marks move along the skyline over four weeks. What would happen if you kept marking for a whole year? → **The marks would go to one end, turn back, go to the other end, and return to the start**
 
 ## Challenges
 ### c1 · Make a 3-Minute Water Clock (30 min)
 - **problem:** Old clock makers had to make a ghati bowl that sank in exactly one nazhigai, 24 minutes. Your challenge is smaller: make a cup clock that sinks in exactly 3 minutes, and does it three times in a row, each time within 10 seconds of 3 minutes.
-- **your turn:** Design your own clock that measures exactly 1 minute, using only things from the kitchen. Draw it, build it and test it three times.
+- **your turn:** Design your own clock that measures exactly 1 minute, using only things from the kitchen. Tell your grown-up your plan, build it and test it three times.
 - **constraints:** Use plastic cups, coins, tape, a pin and water.; You may change the hole, the number of coins, or how full the vessel is.; The three final rounds must all be within 10 seconds of 3 minutes.
 - **general:** Start with a small hole and widen it a little at a time, testing after each change.; Keep everything else the same, such as the coins and how you put the cup down.; Write each test's time, so you can see if you are getting closer.
 - **creative:** Put tape over part of the hole to make it a little smaller if you went too far.; Use a smaller cup, which fills sooner.; Mark a line inside the cup and time how long the water takes to reach it, instead of waiting for the cup to sink.
 - **s1 (5 min)**  
   *Parent does:* Read the challenge. Ask your child to plan their first try before touching anything.  
   *Parent says:* We need a cup that sinks in 3 minutes, three times in a row. What will you change if it is too slow? What if it is too fast?  
-  *Child mode:* Make a cup that sinks in 3 minutes. What will you change if it is too slow? What if it is too fast?
+  *Child mode:* Make a cup that sinks in 3 minutes. Plan your first try before you start.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Let your child test and adjust. A grown-up makes or widens the hole each time.  
-  *Parent says:* That took 4 minutes 20 seconds. Too slow or too fast? What will you change?  
+  *Parent says:* Read out your time. Is it too slow or too fast? What will you change?  
   *Child mode:* Test it. Write the time. Change one thing. Test again.
   - Note: Changing more than one thing at once makes it hard to know what helped. Encourage one change at a time.
 - **s3 (5 min)**  
@@ -527,12 +527,12 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - **s2 (15 min)**  
   *Parent does:* Let your child design their calendar on paper.  
   *Parent says:* What will you do with the 3 extra days? What happens after 10 years if you just ignore them?  
-  *Child mode:* What will you do with the extra 3 days? Draw your calendar.
+  *Child mode:* Lay out 7 paper strips, one for each month. Decide where the extra 3 days go. You can draw your calendar too.
   - Note: If they ignore the 3 days, festivals slip 3 days each year. That is 30 days in 10 years, a whole month. This is the real problem every Moon calendar on Earth has.
 - **s3 (5 min)**  
   *Parent does:* Your child explains their calendar to you in one minute.  
   *Parent says:* Explain your calendar to me in one minute. Will a festival in the first month stay in the same season?  
-  *Child mode:* Explain your calendar in one minute.
+  *Child mode:* Tell your grown-up how your calendar works.
   - Check: On Kuyil, 7 moon months are 70 days, and the year is 73 days. What happens if nobody adds the 3 extra days? → **Festivals come 3 days earlier in the seasons each year**
 
 ## Worksheets

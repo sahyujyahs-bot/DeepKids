@@ -418,7 +418,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a sorting card game. Each card shows a way people try to watch the Sun. Players decide whether it is safe or harmful, and say why.",
+   "context": "This is a sorting card game. Each card shows a way people try to watch the Sun. You will find out which ways are safe and which can harm your eyes for ever, and say why.",
    "printables": [
     {
      "kind": "cards",
@@ -550,7 +550,7 @@
      "mins": 3,
      "do": "Play the card 'Ordinary sunglasses' together as a practice round, then lay it on NOT SAFE. It scores no points.",
      "say": "This is a practice card: ordinary sunglasses. Let's see whether they are safe.",
-     "kid": "This is a practice card: ordinary sunglasses. Is it safe or not safe to look at the Sun through them?",
+     "kid": "Think about this practice card, then choose your answer.",
      "check": {
       "t": "mcq",
       "q": "Is it safe to look at the Sun through ordinary sunglasses?",
@@ -754,7 +754,7 @@
      "mins": 3,
      "do": "Set up the board. Put every sunbeam on square 0.",
      "say": "You are each a bit of the Sun's energy, just made in the core. The inside of the Sun is crowded, so you will get bumped back. Space is empty, so you will speed along.",
-     "kid": "You are a sunbeam in the Sun's core. Get out of the Sun and race to the Earth!",
+     "kid": "Put your sunbeam on square 0. Be the first to reach the Earth!",
      "context": "This is the first step of Sunbeam Race, a board game about the journey of sunlight from the Sun's core to the Earth."
     },
     {
@@ -1110,7 +1110,7 @@
      "mins": 4,
      "do": "Ask your child to say three things: what they think now, what they saw, and why it happened.",
      "say": "Tell me what you think now, what you saw, and why it happened.",
-     "kid": "Say three things: what you think now, what you saw, and why it happened.",
+     "kid": "Look at the two plates once more. Then tell your grown-up, in your own words, what happened.",
      "think": "Why do people in hot places often paint their roofs white?",
      "parent": "A good answer: black paper takes in more sunlight than white paper. My ice on black melted in 18 minutes and the ice on white in 27 minutes, and the black paper felt warmer. The black paper absorbed the light and it turned into heat, which melted the ice."
     }
@@ -1180,7 +1180,7 @@
      "kid": "Stand in the sunlight, with your back to the window. Count to 60. Then step into the shade and count to 60 again.",
      "ask": [
       {
-       "q": "Where did you feel warmer? Which part of you felt it most?",
+       "q": "Where did you feel warmer, in the sun or in the shade?",
        "good": [
         "In the sunlight, on my back.",
         "On my hair, because it is dark."
@@ -1210,9 +1210,9 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Leave your child with a question.",
+     "do": "Ask your child this question. Do not answer it yet. The next activity finds out.",
      "say": "The sunlight felt gentle on your back. Could the same sunlight ever be strong enough to burn paper? We will find out.",
-     "kid": "Keep this question in your head until the next activity: could sunlight ever burn paper?",
+     "kid": "Guess yes or no. Tell your grown-up why you think so.",
      "think": "Have you seen a magnifying glass make a small, bright spot? Guess what it does to the sunlight that falls on it, and why that might burn paper."
     }
    ],
@@ -1297,7 +1297,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Measure the width of the round spot on the wall with a ruler. 2. Measure the distance from the mirror to the wall with the tape. 3. Write both numbers down in centimetres.",
-     "say": "Let's measure the spot, and how far it is from the mirror. The spot is a picture of the Sun. Measuring it helps us see how far away the Sun is, compared with how wide it is.",
+     "say": "Let's measure the spot, and how far it is from the mirror. The spot is a picture of the Sun, so we are measuring the Sun's picture.",
      "kid": "Measure how wide the round spot is. Then measure from the mirror to the wall. Write both numbers.",
      "parent": "On a wall 500 cm away, the spot is about 5 cm wide. On a wall 300 cm away it is about 3 cm. Take away the width of the hole, 0.5 cm, from the width of the spot. Then divide the distance by what is left. You should get roughly 100. That means the Sun is about 100 times further away than it is wide. The real number is about 108."
     },
@@ -1305,8 +1305,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Ask your child to look at the spot for as long as they like, and say what they notice.",
-     "say": "This spot is the real Sun's light, and it is safe to look at, because it is on a wall. What do you notice? Is it white or yellow?",
-     "kid": "You can look at this Sun as long as you like. Is it white or yellow? Does it wobble?",
+     "say": "This spot is the real Sun's light, and it is safe to look at, because it is on a wall. What do you notice?",
+     "kid": "Look closely at the spot on the wall. Is it white or yellow? Does it wobble?",
      "think": "Why is this picture safe to look at, when the real Sun is not?",
      "parent": "The spot usually looks white, which is the Sun's real colour. It wobbles if the mirror moves. Even large sunspots are too small to see with a hole this small."
     }
@@ -1385,7 +1385,7 @@
      "mins": 2,
      "do": "Count the finds under each heading.",
      "say": "Every one of these needed energy. All of that energy came in through the window as sunlight.",
-     "kid": "Count your finds. Every one needed energy. It all came from the Sun.",
+     "kid": "Count the finds under each heading. Which heading has the most?",
      "check": {
       "t": "mcq",
       "q": "A poster by the window has gone pale. What made it go pale?",
@@ -1452,7 +1452,7 @@
      "mins": 3,
      "do": "1. Pile the cushions close together at one end of the room. This is the inside of the Sun. 2. Put the plant, the dark cloth and the white paper at the other end. This is the Earth.",
      "say": "These cushions are the packed insides of the Sun. Over there is the Earth. You are a bit of energy, just made in the Sun's core.",
-     "kid": "The cushions are the inside of the Sun. Over there is the Earth. You are a bit of energy from the core!",
+     "kid": "Look at the pile and at the far end of the room. You are the energy that will travel from one to the other.",
      "context": "In this activity you act out the journey that the Sun's energy makes, from the core to the Earth."
     },
     {
@@ -1474,7 +1474,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Your child chooses where to land: on the plant, the dark cloth or the white paper. They act out what happens next.",
-     "say": "Where will you land? On the plant, you become the plant's food. On the dark cloth, you turn into heat. What do you think happens on the white paper?",
+     "say": "Where will you land? On the plant, you become the plant's food. On the dark cloth, you turn into heat. On the white paper, something else happens.",
      "kid": "Choose where to land. Then act out what happens to you.",
      "check": {
       "t": "mcq",
@@ -1655,7 +1655,7 @@
      "mins": 5,
      "do": "Get two equal pieces of chocolate and two equal steel bowls ready, and keep the chocolate in the shade until the race.",
      "say": "The chocolate in plain sunshine will be the one to beat. Can we build something that melts chocolate faster, with no flame and no magnifying glass?",
-     "kid": "Get two equal pieces of chocolate ready, in the shade. Can you build a box that makes chocolate go soft faster than plain sunshine?",
+     "kid": "Get two equal pieces of chocolate ready, and keep them in the shade. They must start the same.",
      "context": "This is the first step of the sun cooker challenge. You build a box that gathers sunlight to melt chocolate."
     },
     {
@@ -1743,7 +1743,7 @@
      "mins": 5,
      "do": "Read the problem together.",
      "say": "Thirty people want to watch the eclipse, and there is only one pair of eclipse glasses. How can everyone watch it safely?",
-     "kid": "Thirty people want to watch an eclipse. There is one pair of eclipse glasses. How can everyone see safely?",
+     "kid": "Think about it. How could everyone see the eclipse without looking at the Sun?",
      "context": "This is the first step of the eclipse party challenge. You plan how a whole building can watch an eclipse without anyone looking at the Sun."
     },
     {

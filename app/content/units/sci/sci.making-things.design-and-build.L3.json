@@ -350,7 +350,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "A card game. Each problem card shows a design that failed a test. Players pick the fix card that mends its weak spot.",
+   "context": "A card game. Each problem card shows a design that failed a test. Players pick the fix card that mends its weak spot. You practise finding exactly what broke.",
    "printables": [
     {
      "kind": "cards",
@@ -407,7 +407,7 @@
      "id": "s1",
      "mins": 2,
      "do": "Lay out the fix cards and shuffle the problem cards.",
-     "say": "Every problem card is a design that failed a test. Your job is to find the weak spot and fix it.",
+     "say": "Every problem card is a design that failed a test. The weak spot is the part that gave way first. Your job is to find it and fix it.",
      "kid": "Each card is a design that failed. Find the weak spot. Pick a fix."
     },
     {
@@ -457,7 +457,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "A building game. Draw a purpose card and a limit card, then build something from household objects in 3 minutes, and test it.",
+   "context": "A building game. Pick a purpose card and a limit card, then build something from household objects in 3 minutes, and test it. You will find out how a limit can give you a new idea.",
    "printables": [
     {
      "kind": "cards",
@@ -500,9 +500,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Shuffle both piles. Your child draws one of each.",
-     "say": "Every design has a purpose and limits. Let's draw one of each.",
-     "kid": "Draw a purpose card. Draw a limit card. Read them."
+     "do": "Shuffle both piles. Your child picks one of each.",
+     "say": "A purpose is what the thing must do. A limit is a rule, like only using paper. Let's pick one of each.",
+     "kid": "Pick a purpose card. Pick a limit card. Read them."
     },
     {
      "id": "s2",
@@ -526,7 +526,7 @@
    "setup": [
     {
      "art": "Two small piles of cards, one labelled PURPOSE and one LIMIT, and a heap of household objects: spoons, paper, tumblers, books.",
-     "caption": "1. Draw a purpose card and a limit card."
+     "caption": "1. Pick a purpose card and a limit card."
     },
     {
      "art": "A child testing a paper tower holding a lemon on top, a sand timer beside it.",
@@ -582,17 +582,17 @@
      "what": "Design, build and test three foil boats, changing one thing each time."
     }
    ],
-   "record": "Fill in the table for each boat. Draw each boat from the side, and mark with an arrow where the water came in first.",
+   "record": "Fill in the table for each boat. Draw each boat from the side, or take a photo of it, and mark with an arrow where the water came in first.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Lay out one foil square, the coins and the bucket of water. 2. Read out the job and the rules.",
      "say": "Here is your job, the kind a real engineer gets. Build a boat that carries as many coins as possible. The rules: one square of foil per boat, no tape, and coins go in one at a time. How many coins do you think your first boat will carry? Why?",
-     "kid": "Your job: make a foil boat that carries lots of coins. Use one square of foil only. No tape. Guess how many coins it will carry. Why do you think so?",
+     "kid": "Make a foil boat that carries lots of coins. Use one square of foil only. No tape.",
      "ask": [
       {
-       "q": "What is the purpose of this boat, and what are the limits?",
+       "q": "What must the boat do? What are the rules?",
        "good": [
         "To carry as many coins as possible.",
         "We can only use one square of foil, and no tape."
@@ -604,9 +604,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child draws boat 1 from the side and from above. 2. Label the base and the walls, and write how high the walls will be.",
-     "say": "Engineers draw before they build. Draw your boat. Show how big the base is and how high the walls go.",
-     "kid": "Draw your boat first. Show the bottom and the sides. How tall are the sides?",
+     "do": "1. Your child draws boat 1 from the side, or describes it out loud. 2. Say how big the base is and how high the walls will be.",
+     "say": "Engineers plan before they build. Draw your boat, or tell me the plan. Show how big the base is and how high the walls go.",
+     "kid": "Draw your boat first, or tell your grown-up your plan. Show the bottom and the sides. How tall are the sides?",
      "context": "This is the planning step of the foil boat test."
     },
     {
@@ -638,9 +638,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Look at the drawing of boat 1 and the note about where water came in. 2. Choose one change to fix that weak spot. 3. Draw boat 2 with that one change.",
+     "do": "1. Look at the drawing of boat 1 and the note about where water came in. 2. Choose one change to fix that weak spot. 3. Tell your grown-up the one change you will make for boat 2.",
      "say": "That spot where the water came in is the weak spot. What one change would fix it? Only change one thing, so we know if it helped.",
-     "kid": "Where did the water come in? That is the weak spot. Pick one change to fix it. Draw boat 2.",
+     "kid": "Where did the water come in? That is the weak spot. Pick one change to fix it. Say your change out loud.",
      "ask": [
       {
        "q": "Why should we change only one thing?",
@@ -787,7 +787,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show the four ways of joining. 2. Ask for a guess and a reason.",
-     "say": "Engineers choose materials for joints too. A joint is often the weak spot. Which of these will hold paper best? Why?",
+     "say": "Engineers choose materials for joints too. A joint is where two pieces are joined, and it is often the weak spot. Which of these will hold paper best? Why?",
      "kid": "Look at rice paste, atta paste, tape and water. Which will hold paper best? Why?",
      "ask": [
       {
@@ -829,7 +829,7 @@
      "mins": 5,
      "do": "Your child says which joint they think is strongest, what they saw in the test, and why.",
      "say": "Which joint was strongest? If the paper tore and the joint held, what does that tell us?",
-     "kid": "Which joint held best? If the paper tore, what was the weak spot then?",
+     "kid": "Which joint held best? Tell your grown-up what you saw.",
      "check": {
       "t": "mcq",
       "q": "In the paste test, a rice paste joint held, but the paper tore just beside it. Where was the weak spot?",
@@ -879,7 +879,7 @@
      "what": "Look at four kitchen objects. Say what each is for, and why its shape and material suit that job."
     }
    ],
-   "record": "Draw one object and write its purpose and one clever part of its design.",
+   "record": "Write one object's purpose and one clever part of its design. Draw it if you like.",
    "flow": [
     {
      "id": "s1",
@@ -931,7 +931,7 @@
    "title": "Take Apart a Pen",
    "mins": 15,
    "days": 1,
-   "context": "Engineers learn by taking things apart. Here you take apart an old click pen and find what each part is for.",
+   "context": "Engineers learn by taking things apart. Here you take apart an old click pen. You will find out how one click makes the tip come out.",
    "materials": [
     {
      "item": "an old click ball pen that can be unscrewed, and a ball pen with a cap",
@@ -950,7 +950,7 @@
      "what": "Unscrew a click pen, lay out the parts, and say what each one does."
     }
    ],
-   "record": "Draw each part in a row and write its job under it.",
+   "record": "Write each part's job on a small paper label and put it under the part. Take a photo of the row.",
    "flow": [
     {
      "id": "s1",
@@ -962,7 +962,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Pick up each part. 2. Ask what it does. 3. Write its job. 4. Look at the cap of the second pen.",
+     "do": "1. Pick up each part. 2. Ask what it does. 3. Write its job. 4. Look at the tip of the capped pen too. Does it have the same tiny ball?",
      "say": "What does the spring do? What would happen without it? What does the tiny ball at the tip do?",
      "kid": "Hold up the spring. What does it do? Look at the tip. What does the tiny ball do?",
      "parent": "The spring pushes the refill back in after you click. The tiny ball at the tip rolls as you write, spreading ink. Many pen caps have a small hole at the top. One reason is safety: if a child swallows a cap, air can still get through."
@@ -1019,9 +1019,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Picture a woman carrying a clay matka on her head. Picture a man with a pole across his shoulders and a pot at each end. 2. Your child draws each one in the notebook. 3. Ask why people chose each design.",
+     "do": "1. Tell your child about a woman who carries a clay matka on her head. Tell about a man with a pole across his shoulders and a pot at each end. 2. Your child balances the empty pot on their head, with one hand on it. 3. Ask why people chose each design.",
      "say": "Why does a kudam have a narrow neck? Why might someone carry a pot on their head?",
-     "kid": "Why does a kudam have a narrow neck? Why carry a pot on your head?",
+     "kid": "Balance the empty pot on your head. How does it feel? Why would people carry water this way?",
      "parent": "A narrow neck spills less when the pot sways. Carrying a pot on the head keeps the weight over the middle of the body. Women in Rajasthan and Gujarat carry stacks of pots this way. A pole across the shoulders balances a pot at each end."
     },
     {
@@ -1068,7 +1068,7 @@
      "what": "Load one boat with coins piled at one end, and the other with coins spread evenly. Then compare how many coins each carried."
     }
    ],
-   "record": "Write the two numbers and draw where the coins sat in each boat.",
+   "record": "Write the two numbers. Say where the coins sat in each boat, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1088,8 +1088,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Compare the two numbers.",
-     "say": "Which boat carried more? Why did piling them at one end make the boat sink sooner?",
-     "kid": "Which carried more coins? Why?",
+     "say": "Which boat carried more? Look at the two numbers.",
+     "kid": "Which carried more coins? Say the two numbers.",
      "check": {
       "t": "mcq",
       "q": "Why does a foil boat with all the coins piled at one end usually sink sooner?",
@@ -1181,9 +1181,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Draw the design. 2. Label how deep the water is, what birds stand on and where the bowl will sit.",
-     "say": "Draw your bowl. Show where the birds will stand and how deep the water will be.",
-     "kid": "Draw your bowl. Show how deep the water is. Show where birds stand.",
+     "do": "1. Draw the design, or tell your grown-up the plan. 2. Say how deep the water is, what birds stand on and where the bowl will sit.",
+     "say": "Draw your bowl, or describe it. Show where the birds will stand and how deep the water will be.",
+     "kid": "Draw or describe your bowl. Say how deep the water is. Say where birds stand.",
      "adult": true,
      "parent": "If you cut a plastic bottle, do it yourself and sand or tape the cut edge."
     },
@@ -1253,14 +1253,14 @@
     "Make the slant adjustable with two or three fold lines.",
     "Design a stand that folds flat to fit in a school bag."
    ],
-   "your_turn": "Now invent your own phone stand. Draw it, build it, and test it for one minute. Then make it better.",
+   "your_turn": "Now invent your own phone stand. Plan it with a sketch or just words, build it, and test it for one minute. Then make it better.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem and the limits together. Your child draws two ideas.",
-     "say": "Our job is to make a stand that holds a phone up for a minute. We can use one piece of card and no tape. Draw two ideas.",
-     "kid": "Make a stand for a phone. One card. No tape. Draw two ideas."
+     "do": "Read the problem and the limits together. Your child sketches two ideas, or just says them.",
+     "say": "Our job is to make a stand that holds a phone up for a minute. We can use one piece of card and no tape. What are two ideas? Sketch them or say them.",
+     "kid": "Make a stand for a phone. One card. No tape. Think of two ideas. Sketch them or say them."
     },
     {
      "id": "s2",
@@ -1337,9 +1337,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child draws two designs that keep the ants out without hurting them.",
-     "say": "We want the ants to stay safe, and the sugar too. Draw two ideas.",
-     "kid": "Draw two ways to keep ants out. Don't hurt the ants."
+     "do": "Your child says two ways to keep the ants out without hurting them. The lid, cling film, jar and water can give ideas.",
+     "say": "We want the ants to stay safe, and the sugar too. What are two ideas?",
+     "kid": "Think of two ways to keep ants out. Tell them to your grown-up. Don't hurt the ants."
     },
     {
      "id": "s3",

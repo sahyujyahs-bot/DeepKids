@@ -419,7 +419,7 @@
     "with friends",
     "alone"
    ],
-   "context": "This is a board game for one to four players. Each player is a comet travelling in towards the Sun and out again. Near the Sun, comets lose ice and drop dust, and the Earth catches the dust as shooting stars.",
+   "context": "This is a board game for one to four players. Each player is a comet travelling in towards the Sun and out again. Near the Sun, comets lose ice and drop dust, and the Earth catches the dust as shooting stars. You will find out where on its path a comet loses most ice.",
    "printables": [
     {
      "kind": "board",
@@ -549,7 +549,7 @@
      "mins": 14,
      "do": "Take turns to roll the dice and move, following the rules. When a comet lands on a yellow square that already has dust on it, ask one question card.",
      "say": "You're on a yellow square, close to the Sun. What happens to your ice? What is your tail doing now?",
-     "kid": "Roll and move. On yellow, lose 2 ice and drop 1 dust. Answer a question if there is dust already.",
+     "kid": "Roll and move. On a yellow square, lose 2 ice and drop 1 dust. If there is dust there already, answer a question card first.",
      "check": {
       "t": "mcq",
       "q": "In The Comet's Journey, where do comets lose the most ice?",
@@ -568,7 +568,7 @@
      "mins": 3,
      "do": "At the end, count the Earth's pile of dust tokens.",
      "say": "The Earth caught all this dust as shooting stars. Where did the dust come from? And what happened to the comets that ran out of ice?",
-     "kid": "Count the Earth's dust. Where did it come from? What happened to the comets?",
+     "kid": "Count the dust in the Earth's pile.",
      "ask": [
       {
        "q": "Where did the Earth's shooting stars come from?",
@@ -589,7 +589,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a fast calling game for two or more players. The caller reads a clue, and the other players hold up the right card as fast as they can.",
+   "context": "This is a fast calling game for two or more players. The caller reads a clue, and the other players hold up the right card as fast as they can. You will learn to tell three easily mixed-up words apart.",
    "printables": [
     {
      "kind": "cards",
@@ -689,7 +689,7 @@
      "mins": 2,
      "do": "Give each player the three answer cards. Read the three meanings aloud.",
      "say": "Meteoroid is in space. Meteor is the light in the sky. Meteorite is the piece that lands.",
-     "kid": "Meteoroid: in space. Meteor: the light. Meteorite: the piece that lands.",
+     "kid": "Look at your three cards. Learn what each one means.",
      "context": "This is the first step of Quick Call. You learn the three answer cards."
     },
     {
@@ -777,7 +777,7 @@
      "what": "Guess what will happen. Put one ice comet in the sun and one in the shade. Measure and look every 10 minutes for 30 minutes. Compare the two."
     }
    ],
-   "record": "Fill in the table. Draw both ice comets at the start and at 30 minutes, showing where the dirt is.",
+   "record": "Fill in the table. Take a photo of both ice comets at the start and at 30 minutes, or draw them, showing where the dirt is.",
    "context": "In this experiment you make two small comets from crushed ice and dirt, then put one in the sun and one in the shade. It shows what happens to a real comet as it comes near the Sun.",
    "setup": [
     {
@@ -859,7 +859,7 @@
      "mins": 3,
      "do": "Ask your child to guess before you move the plates.",
      "say": "One comet will go in the sun, like a comet coming close to the Sun. The other stays in the shade, like a comet far out in the cold. Which one will shrink faster? And as the ice goes, will the comet get cleaner, stay the same, or get darker? Why do you think so?",
-     "kid": "One comet goes in the sun. One stays in the shade. Which shrinks faster? Will it get cleaner or darker? Why?",
+     "kid": "One comet goes in the sun. One stays in the shade. Make your guess and say why.",
      "ask": [
       {
        "q": "Which ice comet will shrink faster, and will it get cleaner or darker? Why do you think so?",
@@ -922,7 +922,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think happens to a comet near the Sun? What did you see that shows it? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why it happened.",
+     "kid": "Look at your table. Tell it in three short sentences.",
      "ask": [
       {
        "q": "What do you think happens to a comet near the Sun? What did you see that shows it? Why did it happen?",
@@ -948,7 +948,7 @@
     "Fan on or off",
     "Which way I walked",
     "Which way the tail pointed",
-    "Drawing"
+    "Photo (optional)"
    ],
    "materials": [
     {
@@ -977,10 +977,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Make a paper comet. Walk it with the fan off, then towards, across and away from the fan. Draw which way the tail points each time."
+     "what": "Make a paper comet. Walk it with the fan off, then towards, across and away from the fan. Say which way the tail points each time."
     }
    ],
-   "record": "Draw a small picture for each walk: the fan, your comet, an arrow for the way you walked, and the tail.",
+   "record": "For each walk, write which way you walked and which way the tail pointed. You can take a photo, or draw one small picture, as well.",
    "context": "In this experiment you make a comet with a tissue-paper tail and walk it near a fan. The fan plays the Sun, which pushes outwards on a comet's tail.",
    "setup": [
     {
@@ -1010,7 +1010,7 @@
      "mins": 3,
      "do": "With the fan off, your child walks slowly across the room holding the comet up.",
      "say": "Fan off. Walk slowly across the room. Where does the tail go?",
-     "kid": "Fan off. Walk slowly. Where does the tail go?",
+     "kid": "Fan off. Walk slowly and watch the tail.",
      "ask": [
       {
        "q": "With the fan off, where did the tail go as you walked?",
@@ -1026,7 +1026,7 @@
      "mins": 3,
      "do": "1. Switch the fan on to a low or middle speed. 2. Ask your child to guess before walking.",
      "say": "Now the fan is the Sun. Soon you will walk slowly away from the fan. Will the tail be behind your hand, or in front of it? Why do you think so?",
-     "kid": "The fan is the Sun. You will walk away from it. Will the tail be behind or in front? Why?",
+     "kid": "The fan is the Sun. You will walk away from it. Make your guess and say why.",
      "adult": true,
      "ask": [
       {
@@ -1042,9 +1042,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. Stand 2 metres from the fan. 2. Walk slowly towards the fan, stopping 1 metre away. 3. Walk slowly sideways, across the fan's air. 4. Walk slowly away from the fan. 5. After each walk, draw which way the tail pointed.",
+     "do": "1. Stand 2 metres from the fan. 2. Walk slowly towards the fan, stopping 1 metre away. 3. Walk slowly sideways, across the fan's air. 4. Walk slowly away from the fan. 5. After each walk, ask which way the tail pointed. Write it in the table, or take a photo.",
      "say": "Walk slowly towards the fan. Now sideways. Now away. Where is the tail each time? Is it behind your hand, or pointing away from the fan?",
-     "kid": "Walk towards the fan. Then sideways. Then away. Draw the tail each time.",
+     "kid": "Walk towards the fan. Then sideways. Then away. Watch the tail each time.",
      "check": {
       "t": "mcq",
       "q": "In the fan and tail test, you walk slowly away from the fan. Where does the tissue tail point?",
@@ -1063,7 +1063,7 @@
      "mins": 3,
      "do": "Tell your child how this fits a real comet.",
      "say": "The Sun pushes on a comet's tail all the time. It pushes with its light, and with a stream of tiny particles called the solar wind. So a comet's tail always points away from the Sun. When the comet is going away from the Sun, its tail goes in front. The real Sun pushes outwards in every direction, not just one way like our fan.",
-     "kid": "The Sun pushes a comet's tail away. So the tail always points away from the Sun. It does this even when the comet is going away.",
+     "kid": "The Sun pushes a comet's tail away. So the tail always points away from the Sun. Even when the comet moves away.",
      "ask": [
       {
        "q": "How is the real Sun different from our fan?",
@@ -1108,7 +1108,7 @@
      "what": "Guess how big the thing that makes a shooting star is. Look at a grain of rava. Work out how fast a shooting star moves, on a map."
     }
    ],
-   "record": "Draw one grain of rava as it looks under the magnifying glass. Next to it, write: most shooting stars are made by grains this size or smaller.",
+   "record": "Draw one grain of rava as it looks under the magnifying glass, or take a photo of it. Next to it, write: most shooting stars are made by grains this size or smaller.",
    "context": "In this activity you guess how big the thing that makes a shooting star is, then look closely at a grain of rava, which is about the right size.",
    "setup": [
     {
@@ -1130,7 +1130,7 @@
      "mins": 3,
      "do": "Ask your child to show with their hands how big the thing that makes a shooting star is.",
      "say": "A shooting star makes a line of light across the sky. What do you think makes it? Show me with your hands how big you think it is. Why do you think so?",
-     "kid": "What makes a shooting star? Show how big it is with your hands. Why?",
+     "kid": "Show with your hands how big you think the thing is.",
      "ask": [
       {
        "q": "What do you think makes a shooting star, and how big is it?",
@@ -1237,7 +1237,7 @@
      "mins": 4,
      "do": "1. Show your child the six nights. 2. Ask them to look at where the dots are each night.",
      "say": "In January 1610, Galileo looked at Jupiter through his small telescope. He saw tiny dots in a line beside it. He drew them every night. These drawings are like his. What do you notice about the dots?",
-     "kid": "Look at the dots beside Jupiter. Look at all six nights. What do you notice?",
+     "kid": "Look at the dots beside Jupiter on all six nights.",
      "ask": [
       {
        "q": "What do the dots beside Jupiter do from night to night?",
@@ -1255,7 +1255,7 @@
      "mins": 3,
      "do": "Ask your child to decide: stars or moons.",
      "say": "Stars stay in the same pattern night after night. Do these dots? Are they faraway stars, or are they going round Jupiter? Why do you think so?",
-     "kid": "Stars stay in the same place. Do these dots? Are they stars or moons? Why?",
+     "kid": "Stars stay in the same place. Do these dots stay?",
      "check": {
       "t": "mcq",
       "q": "In Galileo's drawings, the dots beside Jupiter swap from left to right, and sometimes one is missing. What are they most likely to be?",
@@ -1273,7 +1273,7 @@
      "mins": 5,
      "do": "1. Put the steel plate on the table as Jupiter. 2. Move 4 buttons in circles round it, each at a different distance. 3. Your child crouches so their eyes are level with the table and watches.",
      "say": "Put your eyes level with the table. We see Jupiter's moons from the side like this, almost edge-on. As the buttons go round, what do you see?",
-     "kid": "Put your eyes level with the table. Watch the buttons go round. What do you see?",
+     "kid": "Put your eyes level with the table. Watch the buttons go round.",
      "ask": [
       {
        "q": "What did the buttons look like from the side?",
@@ -1330,8 +1330,8 @@
      "what": "On a Geminid night, let your eyes get used to the dark, then count shooting stars for 30 minutes."
     }
    ],
-   "record": "Make a tally mark for every shooting star in each 10 minutes. Draw the brightest one.",
-   "context": "In this activity you watch for shooting stars on the nights of the Geminid shower in mid-December, from a terrace or balcony, and count them.",
+   "record": "Make a tally mark for every shooting star in each 10 minutes. For the brightest one, write its colour and how long it lasted, or draw it.",
+   "context": "In this activity you watch for shooting stars on the nights of the Geminid shower in mid-December, from a terrace or balcony, and count them. You will find out how many shooting stars a city sky shows in one night.",
    "setup": [
     {
      "art": "A child and a grown-up lying on a mat on a city terrace at night, wrapped in a shawl, looking up, with a notebook beside them.",
@@ -1395,7 +1395,7 @@
      "what": "Read each clue card and put it under the right label."
     }
    ],
-   "record": "Copy the six labels and one clue for each into your notebook.",
+   "record": "Take a photo of your sorted cards, or copy the six labels and one clue for each into your notebook.",
    "context": "In this activity you sort clue cards about the smaller things in the solar system into six groups: moon, asteroid, comet, meteoroid, meteor and meteorite.",
    "setup": [
     {
@@ -1554,7 +1554,7 @@
      "what": "Collect a spoon of dust. Wrap a magnet in plastic and pull out the grains that stick. Look at them up close."
     }
    ],
-   "record": "Draw three grains you found. Write which ones are round.",
+   "record": "Draw three grains you found, or take a photo. Say or write which ones are round.",
    "context": "In this activity you pull grains out of balcony dust with a magnet and look at them closely. Scientists hunt for space dust on rooftops in the same way.",
    "setup": [
     {
@@ -1673,7 +1673,7 @@
      "what": "Look a last time. Compare all four drawings, and check the moons' names on Stellarium Web."
     }
    ],
-   "record": "Four drawings, one for each night, with the date and time, Jupiter as a circle and each dot where you saw it.",
+   "record": "One note for each night, with the date and time. Draw Jupiter as a circle and each dot where you saw it, or write how many dots were on each side.",
    "context": "In this 4-night project you do what Galileo did in 1610. You look at Jupiter through binoculars, draw the tiny dots beside it each night, and see them move.",
    "setup": [
     {
@@ -1699,9 +1699,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Rest the binoculars on a railing or wall. 2. Look at Jupiter. 3. Look for tiny dots in a line on either side of it. 4. Draw Jupiter as a circle and each dot where you see it. 5. Write the date and time.",
+     "do": "1. Rest the binoculars on a railing or wall. 2. Look at Jupiter. 3. Look for tiny dots in a line on either side of it. 4. Draw Jupiter and each dot where you see it. Or write how many dots are on each side. 5. Write the date and time.",
      "say": "Hold very still. Can you see tiny dots in a line next to Jupiter? Draw them just where they are.",
-     "kid": "Rest the binoculars. Look for tiny dots beside Jupiter. Draw them.",
+     "kid": "Rest the binoculars. Look for tiny dots beside Jupiter. Draw them, or count how many are on each side.",
      "adult": true,
      "parent": "On most nights you see two, three or four dots. Holding the binoculars still is the hardest part, so rest them on something. Lying back on a chair with the binoculars on your chest can help.",
      "wait": "Look again tomorrow at the same time."
@@ -1711,7 +1711,7 @@
      "mins": 20,
      "do": "On nights 2 and 3, look again at the same time and draw the dots.",
      "say": "Where are the dots tonight? Have any moved, or gone missing?",
-     "kid": "Look again. Draw the dots. Have they moved?",
+     "kid": "Look again. Draw or count the dots. Have they moved?",
      "adult": true
     },
     {
@@ -1719,7 +1719,7 @@
      "mins": 20,
      "do": "1. On night 4, look again at the same time and draw the dots. 2. Lay the four drawings side by side. 3. Use Stellarium Web to see the names of the moons on those nights.",
      "say": "Look at all four nights. Did the dots stay still, like stars, or move like moons? Galileo saw just this in 1610.",
-     "kid": "Look at all four drawings. Did the dots move? Then they are moons!",
+     "kid": "Look at all four nights side by side. Compare the dots.",
      "ask": [
       {
        "q": "How do you know the dots are moons and not stars?",
@@ -1798,7 +1798,7 @@
      "mins": 5,
      "do": "Ask your child to show the best lander and explain it.",
      "say": "Show me your best lander. What stopped it bouncing?",
-     "kid": "Show your best lander. What stopped the bounce?",
+     "kid": "Show your best lander. Tell what you changed.",
      "ask": [
       {
        "q": "Why is it hard to land on a comet?",
@@ -1856,7 +1856,7 @@
      "mins": 5,
      "do": "Read the problem aloud. Ask your child for one test idea.",
      "say": "A man found a heavy dark stone in his field after a loud bang in the night. How could we find out if it came from space?",
-     "kid": "A heavy dark stone was found in a field. It came after a bang in the night. How could you test if it came from space?",
+     "kid": "Think of a test. How could you find out if the stone came from space?",
      "context": "This is the first step of the space stone challenge. You think of ways to test a stone."
     },
     {
@@ -1870,9 +1870,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask your child to write a plan with three tests.",
+     "do": "Ask your child to tell or write a plan with three tests.",
      "say": "Write three tests. For each one, what result would make you think 'meteorite'?",
-     "kid": "Write three tests. Say what each result would mean.",
+     "kid": "Make a plan with three tests, spoken or written.",
      "ask": [
       {
        "q": "Which of your three tests is the strongest, and why?",

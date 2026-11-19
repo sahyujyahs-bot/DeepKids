@@ -761,7 +761,7 @@
      "mins": 3,
      "do": "Find the card 'A shirt with a missing button' in the pile. Play it together first as a practice round, and score it as normal.",
      "say": "Let's practise. A shirt with a missing button. Where is the best place for it?",
-     "kid": "Practice card: a shirt with a missing button. Where should it go? Choose your answer.",
+     "kid": "Practice card: a shirt with a missing button. Choose where it goes.",
      "ask": [
       {
        "q": "Why is repair better than the kabadiwala here?",
@@ -800,7 +800,7 @@
      "kid": "A TEST IT card! First, guess what will happen. Then try it.",
      "ask": [
       {
-       "q": "The bottle has a number inside a triangle of arrows. What do you think it tells us?",
+       "q": "Look at the number inside the triangle of arrows on a plastic bottle. What do you think it tells us?",
        "good": [
         "Which kind of plastic it is.",
         "It helps people sort plastics for recycling."
@@ -843,7 +843,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game like snakes and ladders, which began in India as Gyan Chaupar, a game about good and bad deeds. In this version, ladders are good ways to deal with waste, and snakes are harmful ones.",
+   "context": "This is a board game like snakes and ladders, which began in India as Gyan Chaupar, a game about good and bad deeds. In this version, ladders are good ways to deal with waste, and snakes are harmful ones. You will find out which ways help and which hurt.",
    "printables": [
     {
      "kind": "board",
@@ -934,7 +934,7 @@
      "mins": 3,
      "do": "When someone reaches square 30, stop and talk.",
      "say": "Which snake did you hit most? Which ladder would be easiest to climb in our real home this week?",
-     "kid": "Who won? Which ladder can your family really climb this week? Choose one.",
+     "kid": "Who won? Pick one ladder to try at home this week.",
      "think": "In the real world, who slides down the snake when someone throws plastic on the road? Only the thrower, or others too?"
     }
    ],
@@ -1634,14 +1634,14 @@
      "what": "Score a last time, then tip each jar onto newspaper and look closely. Fill in the table, draw a bar chart and say what you found."
     }
    ],
-   "record": "Fill in the table on days 4, 8 and 14. Draw each jar on day 14. Then draw a bar chart with one bar for each thing, as tall as how much was left.",
+   "record": "Fill in the table on days 4, 8 and 14. Take a photo of each jar on day 14, or draw it. Then make a bar chart with one bar for each thing, as tall as how much was left.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Put the peel, newspaper, cloth and milk packet on a plate. 2. Ask your child to line them up, fastest to rot first.",
-     "say": "We're going to bury these four things and watch them for two weeks. Which do you think will rot first? Put them in a line.",
-     "kid": "Look at the four things. Which will rot first? Put them in a line, fastest first.",
+     "say": "We're going to bury these four things and watch them for two weeks. Which do you think will rot first?",
+     "kid": "Put the four things in a line. The one you think rots fastest goes first.",
      "ask": [
       {
        "q": "Why did you put that one first?",
@@ -1676,16 +1676,16 @@
      "mins": 10,
      "do": "On day 4 and day 8, look through the glass with a magnifying glass. Score how much of each thing is left: 5 means all of it, 0 means none. Add a spoon of water to any jar that looks dry.",
      "say": "What has changed? Can you see any white threads or fluffy spots? Those are fungi. They are feeding on the peel.",
-     "kid": "Look through the glass. What has changed? Look for white threads. Score how much is left, from 5 down to 0.",
+     "kid": "Look through the glass with the magnifying glass. Look for white threads. Score how much is left: 5 is all of it, 0 is none.",
      "wait": "Look again on day 4 and day 8.",
      "parent": "Expect the peel to go brown and then black, with white or green mould. The newspaper goes soft and grey. The cloth looks stained. The milk packet looks just the same. If a jar smells bad, it is too wet. Take the cover off for a day to let it dry a little."
     },
     {
      "id": "s5",
      "mins": 10,
-     "do": "1. On day 14, score each jar one last time. 2. Tip each jar onto old newspaper, wearing gloves or using a spoon. 3. Find each thing and look closely. 4. Fill in the table and draw a bar chart.",
+     "do": "1. On day 14, score each jar one last time. 2. Tip each jar onto old newspaper, wearing gloves or using a spoon. 3. Find each thing and look closely. 4. Fill in the table.",
      "say": "Let's see what's left. Gently, so we don't break anything.",
-     "kid": "Wear gloves or use a spoon. Tip out each jar. Find your four things. What do they look like now? Draw a bar for each.",
+     "kid": "Wear gloves or use a spoon. Tip out each jar. Find your four things. How much of each is left? Tell your grown-up what you see.",
      "adult": false,
      "wait": "Do this on day 14.",
      "check": {
@@ -1740,7 +1740,7 @@
      "think": "If you buried the same plastic and came back when you were grown up, what would you find?"
     }
    ],
-   "context": "This is the rot jar test. You bury a banana peel, newspaper, cotton cloth and a strip of milk packet in damp soil in clear jars, pressed against the glass. Then you watch for two weeks to see which ones tiny living things eat.",
+   "context": "This is the rot jar test. You bury a banana peel, newspaper, cotton cloth and a strip of milk packet in damp soil in clear jars, pressed against the glass. Then you watch for two weeks to see which ones tiny living things eat. You will find out which things the soil can eat and which it cannot.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: how much was left on day 14 (5 means all of it, 0 means none)",
@@ -1941,7 +1941,7 @@
      "what": "Guess. Test each bag by adding one 1-kilogram weight at a time. Write the results. Draw a bar chart and talk about what 'best' means."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart with one bar for each bag, as tall as the kilograms it held.",
+   "record": "Fill in the table. Make a bar chart with one bar for each bag, as tall as the kilograms it held. Draw it, or take a photo of your coin stacks.",
    "flow": [
     {
      "id": "s1",
@@ -1963,9 +1963,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Draw a bar chart with one bar for each bag.",
+     "do": "Show the numbers as bars. Make one stack of coins or blocks for each bag, one coin for each kilogram. Or draw a bar chart.",
      "say": "Let's turn the numbers into a picture. A taller bar means the bag carried more.",
-     "kid": "Draw one bar for each bag. Make it as tall as the kilograms it held.",
+     "kid": "Make one stack for each bag. Stack one coin for each kilogram it held. Which stack is tallest?",
      "chart": {
       "type": "bar",
       "title": "Made-up example: how many kilograms each bag held",
@@ -2018,7 +2018,7 @@
      "think": "Which bag in your home has been used the most times? Can you count?"
     }
    ],
-   "context": "This is the bag test. You add 1-kilogram weights, such as full 1-litre water bottles, one at a time to four different bags and lift them, to see which carries the most before it tears.",
+   "context": "This is the bag test. You add 1-kilogram weights, such as full 1-litre water bottles, one at a time to four different bags and lift them, to see which carries the most before it tears. You will find out which bag is strongest, and whether strongest means best.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: how many kilograms each bag held",
@@ -2087,12 +2087,12 @@
      "what": "Stick up the tally sheet in the morning. Everyone makes a mark all day. In the evening, count the marks and draw a bar chart."
     }
    ],
-   "record": "Count the marks in each column. Draw a bar chart with four bars. Circle the column you could make smaller.",
+   "record": "Count the marks in each column. Draw a bar chart with four bars, or write the numbers. Circle the column you could make smaller.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA. Jars, boxes and old clothes go under COULD BE REUSED. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.",
+     "do": "1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA, the person who buys them. Jars, boxes and old clothes go under COULD BE REUSED. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.",
      "say": "Today we are waste detectives. Every time anyone throws something out, they make a mark. Tonight we'll see what our home throws out.",
      "kid": "Make a sheet with four columns. Stick it by the dustbin. Each time someone throws something out, make a mark.",
      "context": "This is the first step of Dustbin Detective. For one day, your family makes a mark every time something is thrown out, to see what kinds of waste your home makes."
@@ -2100,9 +2100,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "In the evening, count the marks in each column and draw a bar chart.",
+     "do": "In the evening, count the marks in each column and write the number at the bottom.",
      "say": "Let's count. Which column has the most marks? Is that what you expected?",
-     "kid": "Count the marks in each column. Draw a bar for each one.",
+     "kid": "Count the marks in each column. Write the number at the bottom of each.",
      "parent": "In many Indian homes, the ROTS column and the NOTHING ELSE column are the biggest. Peels and leftovers come from every meal. Wrappers and packets come with almost everything we buy. Any result is fine, because it is your home's own data."
     },
     {
@@ -2114,7 +2114,7 @@
      "think": "Where do the NOTHING ELSE things go when the garbage van takes them?"
     }
    ],
-   "context": "This is a one-day survey of your home's waste. You make a tally mark each time something is thrown out, then count and compare.",
+   "context": "This is a one-day survey of your home's waste. You make a tally mark each time something is thrown out, then count and compare. You will find out what your home throws out most.",
    "setup": [
     {
      "art": "A sheet with four columns, headed with a peel, a kabadiwala's scale, a jar and a crossed-out circle, taped beside a kitchen dustbin with a pencil hanging on a string.",
@@ -2152,7 +2152,7 @@
      "what": "Put signs around the home. Carry a bottle along two journeys and act out what happens at each place."
     }
    ],
-   "record": "Draw the two journeys as two roads. Mark where the bottle ends up on each.",
+   "record": "Tell someone who was not there about the two journeys. Or draw them as two roads. Say where the bottle ends up on each.",
    "flow": [
     {
      "id": "s1",
@@ -2180,7 +2180,7 @@
      "think": "What small thing at home decides which road the bottle takes?"
     }
    ],
-   "context": "This is an act-it-out game. You carry an empty bottle around the home, past signs, to follow the two roads it can take: to a factory, or to the sea.",
+   "context": "This is an act-it-out game. You carry an empty bottle around the home, past signs, to follow the two roads it can take: to a factory, or to the sea. You will find out why it matters which bag a bottle goes into.",
    "setup": [
     {
      "art": "Paper signs taped to doors around a home: a shop, a kabadiwala's cart, a factory and a T-shirt on one road, and a dump hill, a river and a wave on another.",
@@ -2243,11 +2243,11 @@
      "mins": 4,
      "do": "At home, talk about what you learned.",
      "say": "What surprised you? What could we sort better at home now?",
-     "kid": "What surprised you? What will you sort better now?",
+     "kid": "Tell your grown-up one thing that surprised you.",
      "think": "The kabadiwala won't buy chips packets. What happens to them instead?"
     }
    ],
-   "context": "This is a visit to a kabadiwala, a person who buys old newspapers, metal and bottles from homes. You sell a bundle, and ask where it goes next.",
+   "context": "This is a visit to a kabadiwala, a person who buys old newspapers, metal and bottles from homes. You sell a bundle, and ask where it goes next. You will find out what happens to your old paper and bottles.",
    "setup": [
     {
      "art": "A child and a parent carrying a tied bundle of newspapers to a small scrap shop with sacks of bottles and cans outside.",
@@ -2290,12 +2290,12 @@
      "what": "Cut off the sleeves and neck, cut a fringe along the bottom and tie it into a strong bag."
     }
    ],
-   "record": "Draw your bag. Write what it was before, and one thing you will carry in it.",
+   "record": "Take a photo of your bag, or draw it. Write what it was before, and one thing you will carry in it.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Lay the T-shirt flat. 2. Cut off both sleeves, just inside the seams. 3. Cut a big scoop around the neck, about 10 cm deep. The shoulders become the handles.",
+     "do": "1. Lay the T-shirt flat. 2. A grown-up cuts off both sleeves, just inside the seams. 3. A grown-up cuts a big scoop around the neck, about 10 cm deep. The shoulders become the handles.",
      "say": "This T-shirt is too small for anyone. We're going to upcycle it, which means turning it into something more useful.",
      "kid": "Lay the T-shirt flat. A grown-up cuts off the sleeves. Then they cut a big scoop at the neck.",
      "adult": true,
@@ -2378,7 +2378,7 @@
      "what": "Fold and paste a newspaper bag. Let the paste dry for 30 minutes (no waiting if you use tape). Use it for the bag test."
     }
    ],
-   "record": "Draw the folding steps in your own way, so you can make another one.",
+   "record": "Show someone at home how to fold a bag. Or draw the folding steps in your own way, so you can make another one.",
    "flow": [
     {
      "id": "s1",
@@ -2405,7 +2405,7 @@
      "wait": "Let it dry for 30 minutes if you used paste. With tape, you can open it at once."
     }
    ],
-   "context": "This is a making activity. You fold one sheet of old newspaper into a bag, held with flour paste, the way many Indian shops once did.",
+   "context": "This is a making activity. You fold one sheet of old newspaper into a bag, held with flour paste, the way many Indian shops once did. It is a bag with no plastic, and you test it later in the bag test.",
    "setup": [
     {
      "art": "A large sheet of newspaper folded in half lengthwise and its two ends overlapping to make a flat tube.",
@@ -2447,7 +2447,7 @@
      "what": "Make a 'peel chain' and a 'plastic chain' of paper rings. Be a microbe and try to take them apart."
     }
    ],
-   "record": "Draw both chains, and draw which one you could take apart.",
+   "record": "Tell your grown-up which chain you could take apart, and why. Or draw both chains.",
    "flow": [
     {
      "id": "s1",
@@ -2481,12 +2481,12 @@
      "mins": 5,
      "do": "1. Now the parent is the Sun. Tear the plastic chain into pieces of two or three rings. 2. Then draw a dot on just two plastic rings, and let the microbe try again, slowly.",
      "say": "The Sun cracks plastic into smaller pieces. But are they gone? No. They are still plastic chains, only shorter. Those are microplastics. Now, in 2016 scientists found a real microbe with a key for one kind of plastic. Let's add two dots.",
-     "kid": "The Sun breaks the plastic chain into small bits. Are they gone? Now two rings get dots. Can the microbe open them?",
+     "kid": "The Sun breaks the plastic chain into small bits. Then two rings get dots. Can the microbe open them?",
      "parent": "This shows three real ideas. Microbes rot what their enzymes fit. Sunlight only breaks plastic into smaller plastic. And a few microbes, like Ideonella sakaiensis, found in Japan in 2016, have begun to evolve enzymes for one plastic, slowly. A good answer to the question: plastic bottles are piled up there, so a microbe that could feed on plastic would have plenty of food and could multiply.",
      "think": "Why do you think the plastic-eating microbe was found near a bottle recycling plant?"
     }
    ],
-   "context": "This is a model. Two paper chains stand for a peel molecule and a plastic molecule. You pretend to be a microbe that can only cut certain joins.",
+   "context": "This is a model. Two paper chains stand for a peel molecule and a plastic molecule. You pretend to be a microbe that can only cut certain joins. You will see why a peel rots and plastic does not.",
    "setup": [
     {
      "art": "Two paper ring chains on a table: one closed with tape pieces marked with dots, one closed with staples.",
@@ -2527,7 +2527,7 @@
      "what": "Mend one broken thing at home. Then watch a repair person at work, if one is near."
     }
    ],
-   "record": "Draw the thing before and after. Write how long the repair took, and how long the thing may now last.",
+   "record": "Take a photo of the thing before and after, or draw it. Write how long the repair took, and how long the thing may now last.",
    "flow": [
     {
      "id": "s1",
@@ -2568,7 +2568,7 @@
      }
     }
    ],
-   "context": "This is a repair activity. You mend one broken thing at home, and watch a repair person at work if one is near.",
+   "context": "This is a repair activity. You mend one broken thing at home, and watch a repair person at work if one is near. You will find out how much work a repair is, and why it is better than throwing away.",
    "setup": [
     {
      "art": "A child holding up a shirt with one button missing, a spare button and a threaded needle on the table.",
@@ -2739,7 +2739,7 @@
     "Make a spoon from a thick slice of carrot or a piece of dosa, so there is nothing to wash or throw.",
     "Carry the tiffin in the cloth bag you made in the No-Sew T-shirt Bag activity."
    ],
-   "your_turn": "Now plan your own zero-waste tiffin. Draw it, pack it, eat it, and check the dustbin afterwards. Did anything end up there?",
+   "your_turn": "Now plan your own zero-waste tiffin. Plan it, pack it, eat it, and check the dustbin afterwards. Did anything end up there?",
    "flow": [
     {
      "id": "s1",
@@ -2752,9 +2752,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Plan a new lunch on paper. For every item, write what it will be carried in.",
+     "do": "Plan a new lunch. For every item, say what it will be carried in. Write a list, or draw it.",
      "say": "Now design a lunch with zero waste. What will carry each thing?",
-     "kid": "Draw your lunch plan. For each food, draw what carries it. No packets!"
+     "kid": "Plan your lunch. For each food, say what carries it. No packets! Write a list or draw it."
     },
     {
      "id": "s3",
@@ -2784,7 +2784,7 @@
      }
     }
    ],
-   "context": "This is a design challenge. You plan and pack a lunch that sends nothing to the dustbin.",
+   "context": "This is a design challenge. You plan and pack a lunch that sends nothing to the dustbin. You will find out how little waste a lunch can make.",
    "setup": [
     {
      "art": "A usual packed lunch spread out with its waste around it: foil, a juice box with a straw, a chips packet and a paper napkin.",
@@ -2824,7 +2824,7 @@
     "A rubber-band car: a rubber band twisted around the axle makes it drive itself.",
     "A spinner made from a card circle coloured in rainbow stripes. Spin it fast and the colours blur to a pale grey-white."
    ],
-   "your_turn": "Now invent your own toy from trash. Draw it, build it and test it. Then teach someone else to make it.",
+   "your_turn": "Now invent your own toy from trash. Plan it, build it and test it. Then teach someone else to make it.",
    "flow": [
     {
      "id": "s1",
@@ -2837,9 +2837,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw an idea for a toy before building.",
+     "do": "Plan a toy before building. Say what it will do and how it will move. Draw it if you like.",
      "say": "Engineers draw first. What will your toy do, and how will it move?",
-     "kid": "Draw your toy first. How will it move?"
+     "kid": "Plan your toy first. How will it move? Tell your grown-up, or draw it."
     },
     {
      "id": "s3",
@@ -2859,7 +2859,7 @@
      "think": "Your toy was made of waste. Is it still waste?"
     }
    ],
-   "context": "This is an engineering challenge. You build a toy that really moves, using only waste.",
+   "context": "This is an engineering challenge. You build a toy that really moves, using only waste. You will find out how to make things move with nothing but trash.",
    "setup": [
     {
      "art": "A box of clean waste on a floor: matchboxes, bottle caps, old pen refills, rubber bands and pieces of card.",

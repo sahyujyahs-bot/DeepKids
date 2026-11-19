@@ -253,13 +253,13 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s2 (14 min)**  
   *Parent does:* Take turns to roll the dice and move, following the rules. When a comet lands on a yellow square that already has dust on it, ask one question card.  
   *Parent says:* You're on a yellow square, close to the Sun. What happens to your ice? What is your tail doing now?  
-  *Child mode:* Roll and move. On yellow, lose 2 ice and drop 1 dust. Answer a question if there is dust already.
+  *Child mode:* Roll and move. On a yellow square, lose 2 ice and drop 1 dust. If there is dust there already, answer a question card first.
   - Note: For the questions in the say line: on a yellow square your comet loses ice, and the tail is growing. A comet's tail grows near the Sun and points away from it.
   - Check: In The Comet's Journey, where do comets lose the most ice? → **On the yellow squares, closest to the Sun**
 - **s3 (3 min)**  
   *Parent does:* At the end, count the Earth's pile of dust tokens.  
   *Parent says:* The Earth caught all this dust as shooting stars. Where did the dust come from? And what happened to the comets that ran out of ice?  
-  *Child mode:* Count the Earth's dust. Where did it come from? What happened to the comets?
+  *Child mode:* Count the dust in the Earth's pile.
   - Ask: Where did the Earth's shooting stars come from? (good: From the dust the comets dropped near the Sun.; From comets losing bits of themselves.)
 ### g2 · Quick Call: meteoroid, meteor or meteorite? (10 min)
 - **rules:** Each player has three answer cards: meteoroid, meteor and meteorite.; The caller reads one clue card aloud and keeps the answer on the back hidden.; Everyone else holds up the card they think is right, as fast as they can. The first right card scores 2 points. Every other right card scores 1 point. A wrong card scores nothing.; The caller reads the answer and says why.; After 6 clues, swap: the caller becomes a player and another player becomes the caller. With two people, you just swap jobs.; After all 12 clues, add up the points. The most points wins, and a tie is shared.
@@ -269,7 +269,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s1 (2 min)**  
   *Parent does:* Give each player the three answer cards. Read the three meanings aloud.  
   *Parent says:* Meteoroid is in space. Meteor is the light in the sky. Meteorite is the piece that lands.  
-  *Child mode:* Meteoroid: in space. Meteor: the light. Meteorite: the piece that lands.
+  *Child mode:* Look at your three cards. Learn what each one means.
 - **s2 (8 min)**  
   *Parent does:* Read the 12 clues, one at a time. After each, say the answer and why. Swap callers after 6 clues.  
   *Parent says:* Here's the clue. Hold up your card! Why did you pick that one?  
@@ -283,7 +283,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **predict:** Guess first. One ice comet sits in the sun and one in the shade. Which will shrink faster? As the ice goes, will the comet get cleaner, stay the same colour, or get darker? Why do you think so?
 - **fair test:** Make both ice comets the same way, from the same amount of crushed ice and the same amount of dirt, in two bowls of the same size. Put them on the same kind of plate. Change only one thing: one sits in a sunny spot and one in the shade. Measure both at the same times.
 - **safety:** A grown-up crushes the ice with the rolling pin. Wash hands after touching soil. Don't eat the ice comets.
-- **record:** Fill in the table. Draw both ice comets at the start and at 30 minutes, showing where the dirt is.
+- **record:** Fill in the table. Take a photo of both ice comets at the start and at 30 minutes, or draw them, showing where the dirt is.
 - **results table:** Time (minutes) | Sunny comet: height (cm) | Sunny comet: dirt on top (1 a little, 2 some, 3 a dark crust) | Shady comet: height (cm) | Shady comet: dirt on top (1, 2 or 3)
 - **schedule:** day 1: Crush the ice, mix in the dirt, press it into two katoris and freeze overnight. (10 min); day 2: Guess what will happen. Put one ice comet in the sun and one in the shade. Measure and look every 10 minutes for 30 minutes. Compare the two. (47 min)
 - **s1 (10 min) · grown-up needed**  
@@ -300,7 +300,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s3 (3 min)**  
   *Parent does:* Ask your child to guess before you move the plates.  
   *Parent says:* One comet will go in the sun, like a comet coming close to the Sun. The other stays in the shade, like a comet far out in the cold. Which one will shrink faster? And as the ice goes, will the comet get cleaner, stay the same, or get darker? Why do you think so?  
-  *Child mode:* One comet goes in the sun. One stays in the shade. Which shrinks faster? Will it get cleaner or darker? Why?
+  *Child mode:* One comet goes in the sun. One stays in the shade. Make your guess and say why.
   - Ask: Which ice comet will shrink faster, and will it get cleaner or darker? Why do you think so? (good: The sun is warmer, so that one melts faster.; The water will wash the dirt away, so it will get cleaner.; The ice goes but the dirt stays, so it will get darker.)
   - Note: Many children guess the comet will get cleaner, because water washes things. Don't correct the guess. Let the test answer it.
 - **s4 (2 min)**  
@@ -322,7 +322,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think happens to a comet near the Sun? What did you see that shows it? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why it happened.
+  *Child mode:* Look at your table. Tell it in three short sentences.
   - Ask: What do you think happens to a comet near the Sun? What did you see that shows it? Why did it happen? (good: The comet near the Sun loses its ice faster. My sunny comet shrank more. The sun warmed it more.; The dirt stays behind. The sunny comet got a dark crust. The ice went away but the dirt could not.)
 ### e2 · Fan and Tail: does a comet's tail stream out behind it? (20 min)
 - **problem:** Sunlight and a stream of tiny particles from the Sun, called the solar wind, push on a comet's tail. In this test, a fan stands for the Sun that pushes. A lemon is the comet's head, and tissue strips are its tail. You walk the comet in different directions near the fan, and watch which way the tail points.
@@ -330,8 +330,8 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **predict:** Guess first. The fan is the Sun. When you walk slowly away from the fan with your paper comet, will its tail be behind your hand or in front of it? Why do you think so?
 - **fair test:** Use the same paper comet and the same fan speed every time. Walk at the same slow speed. Change only one thing: which way you walk. Walk towards the fan, then across it, then away from it.
 - **safety:** Keep hands, hair and the tissue tail at least one metre from the fan. A grown-up switches the fan on and off.
-- **record:** Draw a small picture for each walk: the fan, your comet, an arrow for the way you walked, and the tail.
-- **results table:** Fan on or off | Which way I walked | Which way the tail pointed | Drawing
+- **record:** For each walk, write which way you walked and which way the tail pointed. You can take a photo, or draw one small picture, as well.
+- **results table:** Fan on or off | Which way I walked | Which way the tail pointed | Photo (optional)
 - **s1 (4 min)**  
   *Parent does:* 1. Push the lemon onto the end of a pencil. 2. Tape 6 tissue strips to one side of the lemon.  
   *Parent says:* This is our comet. The lemon is the head, and the tissue strips are the tail.  
@@ -339,33 +339,33 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s2 (3 min)**  
   *Parent does:* With the fan off, your child walks slowly across the room holding the comet up.  
   *Parent says:* Fan off. Walk slowly across the room. Where does the tail go?  
-  *Child mode:* Fan off. Walk slowly. Where does the tail go?
+  *Child mode:* Fan off. Walk slowly and watch the tail.
   - Ask: With the fan off, where did the tail go as you walked? (good: Behind the comet.; It trailed behind, like hair when you run.)
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. Switch the fan on to a low or middle speed. 2. Ask your child to guess before walking.  
   *Parent says:* Now the fan is the Sun. Soon you will walk slowly away from the fan. Will the tail be behind your hand, or in front of it? Why do you think so?  
-  *Child mode:* The fan is the Sun. You will walk away from it. Will the tail be behind or in front? Why?
+  *Child mode:* The fan is the Sun. You will walk away from it. Make your guess and say why.
   - Ask: When you walk away from the fan, will the tail be behind your hand or in front of it? Why do you think so? (good: Behind, because tails always trail behind.; In front, because the fan blows it.)
   - Note: Most children guess the tail stays behind, because that is what happened with the fan off. Let the test show them.
 - **s4 (7 min)**  
-  *Parent does:* 1. Stand 2 metres from the fan. 2. Walk slowly towards the fan, stopping 1 metre away. 3. Walk slowly sideways, across the fan's air. 4. Walk slowly away from the fan. 5. After each walk, draw which way the tail pointed.  
+  *Parent does:* 1. Stand 2 metres from the fan. 2. Walk slowly towards the fan, stopping 1 metre away. 3. Walk slowly sideways, across the fan's air. 4. Walk slowly away from the fan. 5. After each walk, ask which way the tail pointed. Write it in the table, or take a photo.  
   *Parent says:* Walk slowly towards the fan. Now sideways. Now away. Where is the tail each time? Is it behind your hand, or pointing away from the fan?  
-  *Child mode:* Walk towards the fan. Then sideways. Then away. Draw the tail each time.
+  *Child mode:* Walk towards the fan. Then sideways. Then away. Watch the tail each time.
   - Note: Walk slowly, about one small step each second. If you walk fast, your own movement can beat the fan's air and the tail flops. That is a fair thing to notice.
   - Check: In the fan and tail test, you walk slowly away from the fan. Where does the tissue tail point? → **Away from the fan, in front of the comet**
 - **s5 (3 min)**  
   *Parent does:* Tell your child how this fits a real comet.  
   *Parent says:* The Sun pushes on a comet's tail all the time. It pushes with its light, and with a stream of tiny particles called the solar wind. So a comet's tail always points away from the Sun. When the comet is going away from the Sun, its tail goes in front. The real Sun pushes outwards in every direction, not just one way like our fan.  
-  *Child mode:* The Sun pushes a comet's tail away. So the tail always points away from the Sun. It does this even when the comet is going away.
+  *Child mode:* The Sun pushes a comet's tail away. So the tail always points away from the Sun. Even when the comet moves away.
   - Ask: How is the real Sun different from our fan? (good: The Sun pushes in every direction.; The fan only blows one way.)
 
 ## Activities
 ### a1 · How Small Is a Shooting Star? A grain of rava and a map (12 min)
-- **record:** Draw one grain of rava as it looks under the magnifying glass. Next to it, write: most shooting stars are made by grains this size or smaller.
+- **record:** Draw one grain of rava as it looks under the magnifying glass, or take a photo of it. Next to it, write: most shooting stars are made by grains this size or smaller.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to show with their hands how big the thing that makes a shooting star is.  
   *Parent says:* A shooting star makes a line of light across the sky. What do you think makes it? Show me with your hands how big you think it is. Why do you think so?  
-  *Child mode:* What makes a shooting star? Show how big it is with your hands. Why?
+  *Child mode:* Show with your hands how big you think the thing is.
   - Ask: What do you think makes a shooting star, and how big is it? (good: A star, as big as a house.; A rock, as big as a ball.; Something small burning.)
   - Note: Most children show something big, like a ball or a house. Don't correct them yet.
 - **s2 (4 min)**  
@@ -390,17 +390,17 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the six nights. 2. Ask them to look at where the dots are each night.  
   *Parent says:* In January 1610, Galileo looked at Jupiter through his small telescope. He saw tiny dots in a line beside it. He drew them every night. These drawings are like his. What do you notice about the dots?  
-  *Child mode:* Look at the dots beside Jupiter. Look at all six nights. What do you notice?
+  *Child mode:* Look at the dots beside Jupiter on all six nights.
   - Ask: What do the dots beside Jupiter do from night to night? (good: They move from side to side.; There are not always the same number.; They stay in a line.)
 - **s2 (3 min)**  
   *Parent does:* Ask your child to decide: stars or moons.  
   *Parent says:* Stars stay in the same pattern night after night. Do these dots? Are they faraway stars, or are they going round Jupiter? Why do you think so?  
-  *Child mode:* Stars stay in the same place. Do these dots? Are they stars or moons? Why?
+  *Child mode:* Stars stay in the same place. Do these dots stay?
   - Check: In Galileo's drawings, the dots beside Jupiter swap from left to right, and sometimes one is missing. What are they most likely to be? → **Moons going round Jupiter**
 - **s3 (5 min)**  
   *Parent does:* 1. Put the steel plate on the table as Jupiter. 2. Move 4 buttons in circles round it, each at a different distance. 3. Your child crouches so their eyes are level with the table and watches.  
   *Parent says:* Put your eyes level with the table. We see Jupiter's moons from the side like this, almost edge-on. As the buttons go round, what do you see?  
-  *Child mode:* Put your eyes level with the table. Watch the buttons go round. What do you see?
+  *Child mode:* Put your eyes level with the table. Watch the buttons go round.
   - Ask: What did the buttons look like from the side? (good: They moved left and right in a line.; Sometimes one hid behind the plate.)
   - Note: From the side, a button going round in a circle looks like it moves left and right along a line, exactly like Galileo's dots.
 - **s4 (3 min)**  
@@ -410,7 +410,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Ask: Why did this surprise people in 1610? (good: They thought everything went round the Earth.; These moons went round Jupiter instead.)
 ### a3 · Shooting Star Watch: the Geminids from your terrace (40 min)
 - **safety:** A grown-up must be there on a terrace at night. Stay well away from the edge and from open water tanks.
-- **record:** Make a tally mark for every shooting star in each 10 minutes. Draw the brightest one.
+- **record:** Make a tally mark for every shooting star in each 10 minutes. For the brightest one, write its colour and how long it lasted, or draw it.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. On the night of 13 or 14 December, after 9 pm, go up to the terrace or balcony. 2. Switch off the lights near you. 3. Lie or sit facing the darkest part of the sky. 4. Don't look at a phone for 10 minutes.  
   *Parent says:* Our eyes need time to get used to the dark. Let's not look at any lights for 10 minutes. Then we start counting.  
@@ -423,7 +423,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Ask: Where in the sky did they seem to come from? (good: From one part of the sky.; From near the twin stars, in Gemini.)
   - Note: Geminid meteors seem to come from near two bright stars, Castor and Pollux, in the Gemini group of stars. These stars rise in the east in the evening and are high overhead by midnight. Seeing no meteors is a real result. Write it down too.
 ### a4 · Space Rock Sort: what is it? (12 min)
-- **record:** Copy the six labels and one clue for each into your notebook.
+- **record:** Take a photo of your sorted cards, or copy the six labels and one clue for each into your notebook.
 - **Printable cards: 6 labels:** moon; asteroid; comet; meteoroid; meteor; meteorite
 - **Printable cards: 12 clue cards (clue on the front, answer on the back):** I go round Mars. My name is Phobos. (back: Moon); I am the biggest moon of all, and I go round Jupiter. (back: Moon); I am a lump of rock and metal between Mars and Jupiter. (back: Asteroid); I am Ceres, the biggest object in the belt between Mars and Jupiter. (back: Asteroid); I am ice and dust. Near the Sun I grow a long tail. (back: Comet); I come back about every 76 years. People last saw me in 1986. (back: Comet); I am a grain of dust floating in space. (back: Meteoroid); I am a bit of rock in space, too small to call an asteroid. (back: Meteoroid); I am a streak of light in the sky, gone in a second. (back: Meteor); People call me a shooting star. (back: Meteor); I fell from space and landed in a field. (back: Meteorite); I was found on the ice of Antarctica, with a dark crust from my fall. (back: Meteorite)
 - **s1 (3 min)**  
@@ -442,7 +442,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Ask: Which of the three could you hold in your hand? (good: The meteorite. A meteor is only light, and a meteoroid is still out in space.)
 ### a5 · Magnet Dust Hunt: could any of this dust be from space? (20 min)
 - **safety:** Don't breathe in the dust. Wash hands afterwards.
-- **record:** Draw three grains you found. Write which ones are round.
+- **record:** Draw three grains you found, or take a photo. Say or write which ones are round.
 - **s1 (5 min)**  
   *Parent does:* 1. Sweep about one spoon of dust from a balcony corner or window ledge onto white paper. 2. Put the magnet inside the plastic bag.  
   *Parent says:* Tiny bits of space dust fall on the whole Earth every day. Some of it has iron in it. Let's see what our magnet can pull out of this dust.  
@@ -467,7 +467,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 ## Projects
 ### p1 · Four Nights with Jupiter's Moons (60 min, 4 days)
 - **safety:** Never point binoculars at the Sun. Do this only after sunset. A grown-up stays with the child on a terrace at night.
-- **record:** Four drawings, one for each night, with the date and time, Jupiter as a circle and each dot where you saw it.
+- **record:** One note for each night, with the date and time. Draw Jupiter as a circle and each dot where you saw it, or write how many dots were on each side.
 - **schedule:** day 1: Find Jupiter with Stellarium Web. Look at Jupiter through binoculars and draw the dots beside it. (20 min); day 2: Look again at the same time. Draw the dots. (10 min); day 3: Look again. Draw the dots. (10 min); day 4: Look a last time. Compare all four drawings, and check the moons' names on Stellarium Web. (20 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Open Stellarium Web on a phone and search for Jupiter. 2. Check that Jupiter is above the horizon in the evening. 3. Go out after sunset and find Jupiter. It is usually the brightest dot after the Moon and Venus, and it does not twinkle much.  
@@ -475,19 +475,19 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Child mode:* Find Jupiter on the phone map. Then find it in the sky.
   - Note: Jupiter is in the evening sky for several months most years. If Stellarium shows it rises only after midnight, save this project for later in the year.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. Rest the binoculars on a railing or wall. 2. Look at Jupiter. 3. Look for tiny dots in a line on either side of it. 4. Draw Jupiter as a circle and each dot where you see it. 5. Write the date and time.  
+  *Parent does:* 1. Rest the binoculars on a railing or wall. 2. Look at Jupiter. 3. Look for tiny dots in a line on either side of it. 4. Draw Jupiter and each dot where you see it. Or write how many dots are on each side. 5. Write the date and time.  
   *Parent says:* Hold very still. Can you see tiny dots in a line next to Jupiter? Draw them just where they are.  
-  *Child mode:* Rest the binoculars. Look for tiny dots beside Jupiter. Draw them.
+  *Child mode:* Rest the binoculars. Look for tiny dots beside Jupiter. Draw them, or count how many are on each side.
   - Note: On most nights you see two, three or four dots. Holding the binoculars still is the hardest part, so rest them on something. Lying back on a chair with the binoculars on your chest can help.
   - Wait: Look again tomorrow at the same time.
 - **s3 (20 min) · grown-up needed**  
   *Parent does:* On nights 2 and 3, look again at the same time and draw the dots.  
   *Parent says:* Where are the dots tonight? Have any moved, or gone missing?  
-  *Child mode:* Look again. Draw the dots. Have they moved?
+  *Child mode:* Look again. Draw or count the dots. Have they moved?
 - **s4 (20 min) · grown-up needed**  
   *Parent does:* 1. On night 4, look again at the same time and draw the dots. 2. Lay the four drawings side by side. 3. Use Stellarium Web to see the names of the moons on those nights.  
   *Parent says:* Look at all four nights. Did the dots stay still, like stars, or move like moons? Galileo saw just this in 1610.  
-  *Child mode:* Look at all four drawings. Did the dots move? Then they are moons!
+  *Child mode:* Look at all four nights side by side. Compare the dots.
   - Ask: How do you know the dots are moons and not stars? (good: They changed places each night.; They moved from one side of Jupiter to the other.)
 
 ## Challenges
@@ -510,7 +510,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s3 (5 min)**  
   *Parent does:* Ask your child to show the best lander and explain it.  
   *Parent says:* Show me your best lander. What stopped it bouncing?  
-  *Child mode:* Show your best lander. What stopped the bounce?
+  *Child mode:* Show your best lander. Tell what you changed.
   - Ask: Why is it hard to land on a comet? (good: It pulls so weakly that you bounce off.; Its gravity is very weak.)
 ### c2 · Is This Stone from Space? Plan the tests (20 min)
 - **problem:** A man finds a heavy dark stone in his field near Salem after a loud bang in the night. Plan tests that could show whether it is a meteorite or an ordinary stone.
@@ -521,16 +521,16 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Ask your child for one test idea.  
   *Parent says:* A man found a heavy dark stone in his field after a loud bang in the night. How could we find out if it came from space?  
-  *Child mode:* A heavy dark stone was found in a field. It came after a bang in the night. How could you test if it came from space?
+  *Child mode:* Think of a test. How could you find out if the stone came from space?
 - **s2 (10 min)**  
   *Parent does:* 1. Hold the magnet to each ordinary stone. 2. Feel how heavy each stone is for its size. 3. Look at the outside of each one. This shows what an ordinary stone does, so you know what would be different about a meteorite.  
   *Parent says:* Does the magnet stick to the stone? Does the stone feel heavy for its size? Is the outside smooth and dark, or rough and grey?  
   *Child mode:* Try the magnet. Feel how heavy it is. Look at the outside.
   - Note: Most ordinary stones don't stick to a magnet, but some do, if they have iron minerals in them. So one test is not enough. That is a good lesson.
 - **s3 (5 min)**  
-  *Parent does:* Ask your child to write a plan with three tests.  
+  *Parent does:* Ask your child to tell or write a plan with three tests.  
   *Parent says:* Write three tests. For each one, what result would make you think 'meteorite'?  
-  *Child mode:* Write three tests. Say what each result would mean.
+  *Child mode:* Make a plan with three tests, spoken or written.
   - Ask: Which of your three tests is the strongest, and why? (good: The magnet, because iron is rare in ordinary stones.; Sending it to experts, because they can test what it is made of.)
 
 ## Worksheets

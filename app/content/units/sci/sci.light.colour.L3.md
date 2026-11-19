@@ -293,8 +293,8 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **s2 (3 min)**  
   *Parent does:* Play a practice turn with the question card 'Which colour bends the most in a prism?'.  
   *Parent says:* Practice question. Which colour bends the most in a prism?  
-  *Child mode:* Practice question. Which colour bends the most in a prism? Say your answer.
-  - Check: Rainbow Line-Up practice round: which colour bends the most in a prism? → **Violet**
+  *Child mode:* Say your answer out loud first. Then pick from the choices.
+  - Check: Which colour bends the most in a prism? → **Violet**
 - **s3 (12 min)**  
   *Parent does:* Play until someone fills a whole rainbow strip. The player who reads the question also reads the answer on the back.  
   *Parent says:* Your turn. Listen to the question and answer it. If you're right, take a colour card.  
@@ -336,12 +336,12 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **predict:** Before you start, guess. Will the colours come in a different order with the mirror in water? Will red ever be in the middle? Why do you think so?
 - **fair test:** To make it fair, use the same sunlight, at the same time of day, and the same white paper. Only change the thing that splits the light. Look at each one twice, because a quick look can fool you.
 - **safety:** Never look straight at the Sun, or at its reflection in the mirror. Point the mirror's light at the wall, never at anyone's face. A glass mirror's edges can be sharp, so a grown-up handles it.
-- **record:** Fill in the table. Draw the strips of colours, one under the other, with red on the left each time.
+- **record:** Fill in the table. For each try, write the colours in order, with red first. Or colour a strip for each, one under the other.
 - **results table:** What split the light | Colour at one end | Colours in the middle, in order | Colour at the other end | How many colours I counted
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the glass, the mirror in the tray of water and the prism, if you have one. 2. Ask them to guess whether the colours will come in the same order every time.  
   *Parent says:* We're going to split sunlight in three different ways. Do you think the colours will always come in the same order? Could red ever be in the middle?  
-  *Child mode:* You will split sunlight three ways. Guess first. Will the colours always be in the same order?
+  *Child mode:* You will split sunlight three ways. Make a guess, and say why.
   - Ask: Why do you think that? (good: The colours are inside the sunlight, so they might always be the same.; The mirror is different, so maybe it will be different.)
 - **s2 (6 min)**  
   *Parent does:* 1. Stand the full glass at the edge of the sunny sill. 2. Catch the colours on white paper on the floor. 3. Write the colour at each end and the colours between them in the table. If you cannot tell, write 'could not tell'.  
@@ -372,7 +372,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **predict:** Before you start, guess. Will you see the rainbow better with the Sun in front of you, behind you, or beside you? Why do you think so?
 - **fair test:** To make it fair, use the same spray, the same fine setting and the same time of day. Only change which way you face. Try each direction for one full minute.
 - **safety:** Do this outside with a grown-up. Never look straight at the Sun. Spray away from people's faces and away from electric sockets and wires.
-- **record:** Fill in the table. Draw yourself, the Sun, your shadow and the rainbow in one picture.
+- **record:** Fill in the table. Draw yourself, the Sun, your shadow and the rainbow in one picture. Or take a photo, or tell your grown-up where each one was.
 - **results table:** Where the Sun was | Did I see a rainbow? (yes or no) | Where in the spray was it? | Which colour was on the outside?
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Go to a sunny balcony, terrace or doorstep in the early morning or late afternoon. 2. Set the spray bottle or hose to its finest mist. 3. Ask your child to guess where the Sun must be, and why.  
@@ -425,7 +425,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **s4 (4 min)**  
   *Parent does:* Stop the rainbow disc and look at it again. Then compare all three discs.  
   *Parent says:* Look, the colours are still there! So where did the white come from?  
-  *Child mode:* Stop the disc. Are the colours still there? So where did the white come from?
+  *Child mode:* Stop the disc and look at it again. Then compare it with the other two discs.
   - Note: Many colours. The spinning disc shows that white can be made when many colours reach the eye together.
   - Think: Sunlight is all the colours together. Is the white in sunlight one colour or many?
 - **cer (3 min)**  
@@ -437,7 +437,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 ## Activities
 ### a1 · Catch a Rainbow on the Floor (14 min)
 - **safety:** Never look straight at the Sun. Look only at the paper on the floor.
-- **record:** Draw what you see on the paper. Colour it in the right order. Draw the leaf in red light and in room light. Write one thing you notice and one thing you wonder.
+- **record:** Draw the colours in order, or take a photo. Say or write how the leaf looked in red light and in room light. Write one thing you notice and one thing you wonder.
 - **s1 (3 min)**  
   *Parent does:* 1. Fill a clear glass to the very top with water. 2. Stand it at the edge of a sunny windowsill or table, so sunlight shines through it and down to the floor.  
   *Parent says:* Let's put this glass of water right here in the sunshine. Now don't tell me anything yet. Just look at the floor and the walls.  
@@ -445,21 +445,21 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   - Note: If you see no colours, move the glass right to the edge, so light passes through it and down. Morning or late afternoon sun works best.
 - **s2 (4 min)**  
   *Parent does:* 1. Put white paper on the floor where the light lands. 2. Move the paper slowly back and forth until a strip of colours appears.  
-  *Parent says:* What do you notice? What do you wonder?  
+  *Parent says:* Look closely at the paper. Tell me what you see.  
   *Child mode:* Put white paper on the floor. Move it slowly. Can you see colours? Which colour is at each end?
   - Ask: What do you notice? (good: There are colours on the paper.; Red is at one end and blue or violet is at the other.; The colours are in a row.)
   - Ask: What do you wonder? (good: Where do the colours come from?; Is the water coloured?; Why are they in that order?)
   - Note: The strip is small, about the size of a finger, and often lies at the edge of the glass's shadow. Look along the edges of the shadow. If no window gets direct sun, put the glass on a step or wall in the sun outside, with the paper on the ground below.
   - Check: The glass and water are clear. Sunlight looks white. So where do you think the colours on the paper came from? → **The colours were hiding in the sunlight**
 - **s3 (3 min)**  
-  *Parent does:* Ask your child to draw the colours in order, and to write one thing they notice and one thing they wonder.  
-  *Parent says:* Let's draw what we saw, in the right order. Then tell me one question you want to find out.  
-  *Child mode:* Draw the colours in the order you saw them. Write one question you have.
+  *Parent does:* Ask your child to point to the colours in order and name them, or to draw them. Then ask for one thing they wonder.  
+  *Parent says:* Let's name the colours in the right order. Then tell me one question you want to find out.  
+  *Child mode:* Point to the colours in order and name them. Or draw them. Then say one question you have.
   - Note: No. Without sunlight shining through the glass, there are no colours. So the colours come from the sunlight, not from the glass. You can test this.
   - Think: If you put the glass in the shade, would you still see colours? Why or why not?
 - **s4 (4 min)**  
   *Parent does:* 1. Go to a dim room. Put a green leaf on white paper. 2. Fold red cellophane or a red sweet wrapper two or three times, and hold it over a phone torch. If you have neither, open a plain red picture on a phone at full brightness. Use that screen as the light. 3. Ask your child to guess, then shine the red light on the leaf and the paper. 4. Switch the room light on again.  
-  *Parent says:* This leaf is green and this paper is white. What colour do you think the leaf will look in red light? Why do you think so? Now look. Is the leaf brighter or darker than the paper?  
+  *Parent says:* This leaf is green and this paper is white. What colour do you think the leaf will look in red light? Why do you think so? Now look.  
   *Child mode:* Put a leaf on white paper in a dim room. Guess how it will look in red light. Shine the red light on it. Is the leaf brighter or darker than the paper?
   - Ask: How did the leaf look next to the paper in red light? (good: The paper looked red, but the leaf looked dark.; The leaf did not look green any more.; When the light came on, the leaf was green again.)
   - Note: The white paper looks bright red. The leaf looks much darker, a dull dark red or almost black. It may not look fully black, because cellophane lets a little other light through and a leaf reflects a little red. A darker room and folded cellophane make it clearer. Don't explain yet. The explanation cards come later. If your child says it was the light that changed, that is a good answer.
@@ -491,7 +491,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the red sheet only lets red light through. What I saw: with the red sheet, the green and blue disappeared from the paper. Why: sunlight has all the colours, and the red sheet absorbed most colours except red.
 ### a3 · Bubble and CD Rainbows (15 min)
 - **problem:** Soap bubbles and CDs show rainbow colours too, but they make them in a different way from a prism. Bubbles use a very thin layer of soap. A CD uses tiny grooves. In this activity you look for these colours and find out what they have in common.
-- **record:** Draw a bubble with its colours. Draw the CD's rainbow. Write which one looks most like a prism's rainbow, and why.
+- **record:** Say or write which one looks most like a prism's rainbow, and why. If you like, draw the bubble and the CD's rainbow.
 - **s1 (6 min)**  
   *Parent does:* Blow a big soap bubble slowly. Hold it on the straw if you can. Look at its colours from close up.  
   *Parent says:* What colours do you see on the bubble? Are they the same as the rainbow on the floor?  
@@ -512,13 +512,13 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 ### a4 · Where Does Green End? Counting the colours (15 min)
 - **problem:** Books say a rainbow has seven colours. Each person marks where they think each colour starts and stops on the same strip, and then you compare. Do you all draw the lines in the same places?
 - **safety:** Do not look straight at the Sun.
-- **record:** Write how many colours each person counted. Draw a bar chart with one bar for each person.
+- **record:** Write how many colours each person counted. Show it as a bar chart, or as a stack of coins for each person.
 - **s1 (4 min)**  
   *Parent does:* 1. Use the mirror in a tray of water to make the strip of colours land on white card. Lean the mirror on a book to hold it still. Or open a picture of a rainbow on a phone. 2. Each person in turn lays a sheet of thin paper over the card or the phone, and draws a small line where one colour stops and the next begins. 3. Do not look at each other's sheets.  
   *Parent says:* Draw a small line wherever you think one colour stops and the next begins. Don't peek at anyone else's!  
   *Child mode:* Lay the thin paper over the colours. Draw a line where each colour stops. Do not peek at anyone else's sheet.
 - **s2 (5 min)**  
-  *Parent does:* 1. Count the colours each person marked. 2. Put the strips side by side. 3. Make a bar chart: one bar per person, as tall as the number they counted.  
+  *Parent does:* 1. Count the colours each person marked. 2. Put the strips side by side. 3. Make a bar chart, or a stack of coins for each person, as tall as the number they counted.  
   *Parent says:* How many colours did each of us count? Did we draw our lines in the same places?  
   *Child mode:* Count your colours. How many did others count? Did you all draw your lines in the same places?
   - Check: Three people counted 5, 6 and 7 colours on the same strip. Who is right? → **Each count is a fair way of naming colours that have no edges**
@@ -535,21 +535,21 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 ### a5 · Sky Colour Diary (23 min, 5 days)
 - **problem:** Sunlight holds all the colours. The noon sky looks blue, and the sunset sky looks orange or red. For five days you record both, and then you work out why the colours change.
 - **safety:** Never look straight at the Sun, even at sunset. Look at the sky beside it. Go to the terrace only with a grown-up.
-- **record:** Each day, colour a square for the noon sky and a square for the sunset sky. Write the time and the weather.
+- **record:** Each day, colour a square or take a photo for the noon sky and for the sunset sky. Write the time and the weather.
 - **schedule:** day 1: Draw the noon sky and the sunset sky. (6 min); day 2: Draw the sunset sky again. (3 min); day 3: Draw the sunset sky again. (3 min); day 4: Draw the sunset sky again. (3 min); day 5: Compare all the drawings and explain the colours. (8 min)
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* At noon, look up from a window, balcony or terrace, away from the Sun. Colour a square for the sky. At sunset, look at the sky near the Sun, never at the Sun itself, and colour a second square.  
+  *Parent does:* At noon, look up from a window, balcony or terrace, away from the Sun. Colour a square for the sky, or take a photo. At sunset, look at the sky near the Sun, never at the Sun itself, and colour or photograph it again.  
   *Parent says:* Let's be sky scientists for five days. What colour is the sky now? Let's match it with a colour pencil.  
-  *Child mode:* Look up at the noon sky from a window or balcony. Do not look at the Sun. Colour a square to match. Do it again at sunset.
+  *Child mode:* Look up at the noon sky from a window or balcony. Do not look at the Sun. Colour a square to match, or take a photo. Do it again at sunset.
 - **s2 (9 min) · grown-up needed**  
   *Parent does:* On days 2, 3 and 4, add a sunset square each evening. Write the weather beside it.  
   *Parent says:* Is tonight's sunset the same as yesterday's? Is it a dusty day or a clear one?  
-  *Child mode:* Colour the sunset sky again tonight. Write if it is clear, cloudy or dusty.
+  *Child mode:* Colour or photograph the sunset sky again tonight. Write if it is clear, cloudy or dusty.
   - Wait: Come back each evening for 3 more days
 - **s3 (5 min)**  
   *Parent does:* On day 5, put the squares side by side and talk about the pattern.  
   *Parent says:* At noon the sky is blue. At sunset it is orange and red. Remember, sunlight has all the colours. Why might the blue go missing at sunset?  
-  *Child mode:* Look at your squares. The noon sky is blue. The sunset sky is orange. Where did the blue go?
+  *Child mode:* Put your squares side by side. Point to what changed between noon and sunset.
   - Check: At sunset, sunlight crosses much more air before it reaches you. Air scatters blue light away. What colours are left to reach you? → **Mostly red and orange**
 - **cer (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -561,7 +561,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 ### p1 · Shoebox Spectroscope: the rainbows of lamps (63 min, 3 days)
 - **problem:** A spectroscope is a box that spreads light into its colours so you can study them. Different lamps give different patterns of colours. You build one and compare the Sun's light, a bulb, a tubelight and a candle.
 - **safety:** A grown-up cuts the CD, because the edges can be sharp. Never point the spectroscope at the Sun. Point it at a white wall lit by daylight. A grown-up lights and watches the candle.
-- **record:** Draw the rainbow of each light. Write whether it was smooth, or had bright lines or gaps.
+- **record:** For each light, write whether the rainbow was smooth, or had bright lines or gaps. Draw the one you like best, or take a photo.
 - **schedule:** day 1: Build the spectroscope. Test it on a white wall in daylight. (25 min); day 2: Look at an LED bulb and a candle, and a tubelight or CFL if you can find one. Draw each rainbow. (20 min); day 3: Compare the drawings and give a short 'rainbow show' to the family. (18 min)
 - **s1 (25 min) · grown-up needed**  
   *Parent does:* 1. At one end of the box, a grown-up cuts a hole about 3 cm square. 2. Tape two pieces of card across it, leaving a slit as thin as a coin's edge. 3. At the other end, cut a viewing hole. 4. Tape the piece of CD inside the box at that end, at a slant, with its shiny side towards the slit. 5. Point the slit at a white sunlit wall and look at the CD.  
@@ -569,16 +569,16 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Child mode:* With a grown-up, cut a thin slit at one end of the box. Fix the piece of CD inside the other end. Point the slit at a bright wall and look at the CD.
   - Note: If you see no colours, tilt the box or the CD. The thinner the slit, the sharper the rainbow. A CD's tiny grooves spread light into colours in a different way from a prism. A prism bends violet the most, but a CD turns red the most.
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* Look through the spectroscope at an LED bulb and a candle flame. Add a tubelight or CFL if you can find one. Draw each rainbow in its own box in the notebook.  
+  *Parent does:* Look through the spectroscope at an LED bulb and a candle flame. Add a tubelight or CFL if you can find one. For each light, tick 'smooth' or 'bright lines' in the notebook. Then draw the one you like best.  
   *Parent says:* Is the bulb's rainbow smooth like daylight? Does any lamp show bright lines?  
-  *Child mode:* Look through the spectroscope at a bulb. Then look at a candle, with a grown-up. Then look at a tubelight, if you can find one. Draw each rainbow.
+  *Child mode:* Look through the spectroscope at a bulb. Then look at a candle, with a grown-up. Then look at a tubelight, if you can find one. Say if each rainbow is smooth or has bright lines.
   - Note: Daylight gives a smooth rainbow. An LED bulb or LED tube gives a smooth rainbow with an extra-bright blue part. A candle gives a smooth rainbow that is mostly red, orange and yellow, with little blue. An old-style tubelight or CFL gives a rainbow with a few sharp bright lines, often green, orange-red and blue, because of the mercury vapour and the coating inside it. Many homes now have only LED lights, so the tubelight may not be at home. Look for one at a shop, a school or a relative's home, or skip it.
   - Check: Through a spectroscope, a tubelight or CFL shows a few bright coloured lines instead of a smooth rainbow. What might that tell a scientist? → **The light comes from a particular kind of atom, which makes its own lines**
   - Wait: Come back tomorrow, in the evening, when the lamps are on
 - **s3 (15 min)**  
-  *Parent does:* Lay out the drawings. Ask your child to explain each one to someone at home in a short 'rainbow show'.  
+  *Parent does:* Lay out your notes. Ask your child to explain each light to someone at home in a short 'rainbow show'.  
   *Parent says:* Tell us what you found. Which light had the smoothest rainbow? Which had lines?  
-  *Child mode:* Show someone at home your rainbow drawings. Tell them what you found.
+  *Child mode:* Show someone at home your notes. Tell them what you found.
   - Note: They can learn what the star is made of, because each kind of atom makes its own bright lines.
   - Think: Astronomers look at stars this way. What could they learn from a star's rainbow?
 - **cer (3 min)**  
@@ -590,14 +590,14 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 ## Challenges
 ### c1 · The Biggest Rainbow Indoors (30 min)
 - **problem:** A small child wants to stand inside a rainbow, and it is not raining. Make the biggest, brightest rainbow you can on a wall indoors.
-- **your turn:** Now invent your own way. Draw it, try it, and measure your rainbow. Is it bigger than the others?
+- **your turn:** Now invent your own way. Plan it, try it, and measure your rainbow. Sketch it if that helps. Is it bigger than the others?
 - **constraints:** Use only things you find at home.; No paints, crayons or screens. The rainbow must be made of real light.; Measure your rainbow's width with a ruler each time you try a new idea.
 - **general:** Darken the room and let in just one strip of sunlight, so the rainbow stands out.; Put the white wall or paper further away from the water. The colours spread wider as they travel.; Use a mirror in a tray of water facing the Sun, and aim the colours at the wall.
 - **creative:** Make a slit in a piece of card, like the small hole Newton cut in his window shutter. A thin beam gives cleaner colours.; Try a round glass bowl full of water, like the glass ball of water that Kamal al-Din al-Farisi used as a model raindrop.
 - **s1 (5 min)**  
   *Parent does:* Read the challenge together. Look at the materials you have.  
   *Parent says:* Here's our job. Make the biggest rainbow you can, indoors, with real light. What do you think will make it bigger?  
-  *Child mode:* Your job is to make the biggest rainbow you can indoors, using real light. What could make it bigger?
+  *Child mode:* Look at what you have. What could make the rainbow bigger?
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Try your first idea. 2. Measure the rainbow's width with a ruler. 3. Change one thing, like the distance to the wall, and measure again.  
   *Parent says:* Let's try it and measure. Now let's change just one thing. Why only one?  
@@ -619,11 +619,11 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **s1 (8 min)**  
   *Parent does:* Find out which side of your home faces east, where the Sun rises, and which faces west, where it sets.  
   *Parent says:* Where does the Sun rise at our house? Where does it set? Remember, for a rainbow the Sun must be behind you.  
-  *Child mode:* Where does the Sun rise at your house? Where does it set? The Sun must be behind you for a rainbow.
+  *Child mode:* Use a compass or phone to find east and west at your house.
 - **s2 (12 min)**  
   *Parent does:* Make the forecast card, with a clock and a direction arrow for morning and for evening.  
   *Parent says:* If it rains in the evening, which window should we look out of?  
-  *Child mode:* Draw your card. Show the time and which way to look, morning and evening.
+  *Child mode:* Make your card. Show the time and which way to look, morning and evening. Draw it or write it.
   - Check: It is 5 o'clock in the evening. The Sun is low in the west. Rain is falling. Which way should you look for a rainbow? → **East, with the Sun behind you**
 - **s3 (5 min)**  
   *Parent does:* Stick the card near the right window. Tell the family how to use it.  

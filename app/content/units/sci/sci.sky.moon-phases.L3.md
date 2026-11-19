@@ -272,18 +272,18 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 
 ## Games
 ### g1 · Moon Pairs (20 min)
-- **rules:** Draw each Moon shape on its card, as the card says. Cut out the 16 cards. Shuffle them and lay them face down in a 4 by 4 square.; On your turn, turn over two cards. A pair is one Moon shape card and the clue card that matches it.; If you have a pair, say why they match, keep them and have another turn. If not, turn them back face down.; When all the pairs are found, put the 8 Moon shape cards on the Moon-month ring, in the order the Moon goes through them. Go round the Earth the way the numbers go, from 1 to 8. The player with the most pairs places the first card.; With friends or a parent, the player with the most pairs wins. Playing alone, time yourself finding all 8 pairs and filling the ring. Next time, try to beat your time.
-- **Printable cards: 16 cards to cut out: 8 Moon shape cards and 8 clue cards:** MOON SHAPE: New Moon. Draw a completely dark circle. [picture]; MOON SHAPE: Growing crescent. Draw a circle with a thin curved sliver lit on the right. [picture]; MOON SHAPE: Growing half Moon. Draw a circle with the right half lit. [picture]; MOON SHAPE: Growing gibbous Moon. Draw a circle lit on the right, with only a thin dark sliver on the left. [picture]; MOON SHAPE: Full Moon. Draw a completely lit circle. [picture]; MOON SHAPE: Shrinking gibbous Moon. Draw a circle lit on the left, with only a thin dark sliver on the right. [picture]; MOON SHAPE: Shrinking half Moon. Draw a circle with the left half lit. [picture]; MOON SHAPE: Shrinking crescent. Draw a circle with a thin curved sliver lit on the left. [picture]; CLUE: Amavasya. Diwali lamps shine on this dark night.; CLUE: Seen low in the west just after sunset, two or three days after Amavasya. Look for earthshine.; CLUE: High in the sky at sunset, about a week after Amavasya.; CLUE: Two or three nights before Purnima. Almost round.; CLUE: Purnima. Rises in the east as the Sun sets. The only phase when a lunar eclipse can happen.; CLUE: Two or three nights after Purnima. Rises an hour or two after sunset.; CLUE: Rises around midnight. Still up in the morning sky on the way to school.; CLUE: Seen low in the east just before sunrise, two or three days before Amavasya.
+- **rules:** Cut out the 16 cards. Shuffle them and lay them face down in a 4 by 4 square.; On your turn, turn over two cards. A pair is one Moon shape card and the clue card that matches it.; If you have a pair, say why they match, keep them and have another turn. If not, turn them back face down.; When all the pairs are found, put the 8 Moon shape cards on the Moon-month ring, in the order the Moon goes through them. Go round the Earth the way the numbers go, from 1 to 8. The player with the most pairs places the first card.; With friends or a parent, the player with the most pairs wins. Playing alone, time yourself finding all 8 pairs and filling the ring. Next time, try to beat your time.
+- **Printable cards: 16 cards to cut out: 8 Moon shape cards and 8 clue cards:** MOON SHAPE: New Moon. A completely dark circle. [picture]; MOON SHAPE: Growing crescent. A thin curved sliver lit on the right. [picture]; MOON SHAPE: Growing half Moon. The right half lit. [picture]; MOON SHAPE: Growing gibbous Moon. Lit on the right, with only a thin dark sliver on the left. [picture]; MOON SHAPE: Full Moon. A completely lit circle. [picture]; MOON SHAPE: Shrinking gibbous Moon. Lit on the left, with only a thin dark sliver on the right. [picture]; MOON SHAPE: Shrinking half Moon. The left half lit. [picture]; MOON SHAPE: Shrinking crescent. A thin curved sliver lit on the left. [picture]; CLUE: Amavasya. Diwali lamps shine on this dark night.; CLUE: Seen low in the west just after sunset, two or three days after Amavasya. Look for earthshine.; CLUE: High in the sky at sunset, about a week after Amavasya.; CLUE: Two or three nights before Purnima. Almost round.; CLUE: Purnima. Rises in the east as the Sun sets. The only phase when a lunar eclipse can happen.; CLUE: Two or three nights after Purnima. Rises an hour or two after sunset.; CLUE: Rises around midnight. Still up in the morning sky on the way to school.; CLUE: Seen low in the east just before sunrise, two or three days before Amavasya.
 - **Printable board: A Moon-month ring: a big circle with the Sun on the left, the Earth in the middle and 8 empty card spaces:** Sun (draw it on the left); Earth (draw it in the middle); Space 1: left of the Earth, next to the Sun (the new Moon goes here); Space 2: below and to the left of the Earth; Space 3: below the Earth; Space 4: below and to the right of the Earth; Space 5: right of the Earth, opposite the Sun; Space 6: above and to the right of the Earth; Space 7: above the Earth; Space 8: above and to the left of the Earth
 - **Printable score sheet: Pairs tally and best time:** Player; Pairs won; Time to fill the ring (playing alone)
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw each Moon shape on its card, as the card says. 2. Cut out the cards and the ring. 3. Shuffle the 16 cards and lay them face down in a 4 by 4 square. 4. Put the ring to one side.  
+  *Parent does:* 1. Cut out the cards and the ring. 3. Shuffle the 16 cards and lay them face down in a 4 by 4 square. 4. Put the ring to one side.  
   *Parent says:* This is a memory game about the Moon's shapes. A pair is a Moon shape card and the clue that tells you when you see it.  
-  *Child mode:* Draw each Moon shape on its card. Mix up the 16 cards. Lay them face down in 4 rows of 4. A pair is one Moon shape card and its clue.
+  *Child mode:* Cut out the cards. Mix up the 16 cards. Lay them face down in 4 rows of 4. A pair is one Moon shape card and its clue.
 - **s2 (3 min)**  
   *Parent does:* Play one practice turn together. Turn over the Full Moon card and the Purnima clue, face up, and match them.  
-  *Parent says:* Here is a practice pair. The full Moon card goes with the Purnima clue. Why does the full Moon rise just as the Sun sets?  
-  *Child mode:* Practice pair: the full Moon and the Purnima clue. Why does the full Moon rise as the Sun sets?
+  *Parent says:* Here is a practice pair. The full Moon card goes with the Purnima clue. Turn them over together.  
+  *Child mode:* Practice pair: the full Moon card and the Purnima clue. Turn them over and match them.
   - Check: Why does the full Moon rise just as the Sun sets? → **The full Moon is on the opposite side of the Earth from the Sun**
 - **s3 (9 min)**  
   *Parent does:* 1. Put the practice cards back face down and shuffle the square again. 2. Take turns turning over two cards. 3. Keep a pair only if the player can say why the cards match.  
@@ -293,7 +293,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **s4 (3 min)**  
   *Parent does:* When all pairs are found, put the 8 Moon shape cards on the ring in order. Start with the new Moon at space 1, next to the Sun.  
   *Parent says:* Now put the Moons round the ring in the order they come. Where does the full Moon go?  
-  *Child mode:* Put the 8 Moon shape cards round the ring in order. Start with the new Moon next to the Sun. Where does the full Moon go?
+  *Child mode:* Put the 8 Moon shape cards round the ring in order. Start with the new Moon next to the Sun.
   - Note: Any cycle that starts again counts. Examples are the hours on a clock, the days of the week, the seasons of the year, and the Moon festivals that come round each year.
   - Check: On the ring, where does the full Moon go? → **Space 5, on the far side of the Earth from the Sun**
   - Think: The ring is round, and the month starts again after space 8. What else in your life goes round in a circle like this?
@@ -318,7 +318,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **s3 (3 min)**  
   *Parent does:* The first time a player catches a solar eclipse, stop and ask this question.  
   *Parent says:* If you catch a solar eclipse, can everyone on Earth see it?  
-  *Child mode:* You caught a solar eclipse! Can everyone on Earth see it?
+  *Child mode:* You caught a solar eclipse! Stop and think about who can see it.
   - Check: In a total solar eclipse, who sees the Sun fully covered? → **Only people in a narrow strip where the Moon's dark shadow falls**
 - **s4 (2 min)**  
   *Parent does:* Count the marks on the tally sheet and find the winner. Then count how many times anyone passed new or full Moon without an eclipse.  
@@ -331,10 +331,10 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 ### e1 · Make Every Moon: a ball, a lamp and your head (25 min)
 - **problem:** In this test, a lamp stands for the Sun, a ball stands for the Moon, and your head stands for the Earth. The lamp always lights half of the ball. You turn slowly, as the Moon goes round the Earth, and watch how much of the lit half you can see from where you are.
 - **question:** Why does the Moon seem to change shape during the month?
-- **predict:** Guess first. Draw what you think the ball will look like when it is between you and the lamp. Then draw what it will look like when it is behind you, away from the lamp. Say why you think so.
+- **predict:** Guess first. Say what you think the ball will look like when it is between you and the lamp. Then say what it will look like when it is behind you, away from the lamp. Say why you think so.
 - **fair test:** Keep everything the same except where the ball is. Use one lamp that stays still, the same ball, and always hold it at arm's length, a little above your head. Only turn yourself to move the ball round.
 - **safety:** A bare bulb gets hot. Do not touch it, and keep it away from curtains.
-- **record:** Fill in the table. Then draw the 8 Moon shapes round a circle, in the order you saw them.
+- **record:** Fill in the table. Then show the 8 Moon shapes in order round a circle: draw them, or lay out 8 coins or buttons, one for each shape, and tell a grown-up the names.
 - **results table:** Where the lamp is | What I see (draw it) | Name of the Moon shape | Lit on the left, the right, all or none?
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the lamp at one end of the room, at about the height of your child's head. 2. Push the ball onto the pencil. 3. Make the room as dark as you can, with only the lamp on. 4. Your child stands about 2 big steps from the lamp, facing it.  
@@ -356,7 +356,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **s4 (4 min)**  
   *Parent does:* Keep turning left, all the way round, until your child faces the lamp again.  
   *Parent says:* Keep turning. What happens to the light now? Which side is lit this time?  
-  *Child mode:* Keep turning left, all the way round. Watch the light shrink. Which side is lit now?
+  *Child mode:* Keep turning left, all the way round. Watch the light shrink.
   - Check: As you keep turning and the light shrinks, which side of the ball is lit? → **The left side**
 - **s5 (3 min)**  
   *Parent does:* 1. Your child turns until the lamp is behind them again, for a full Moon. 2. They lower the ball slowly, until it is exactly level with their head.  
@@ -374,7 +374,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **question:** Why can everyone on the night side of the Earth see a lunar eclipse, but only a few people see a total solar eclipse?
 - **predict:** Guess first. Will the small ball's shadow cover the whole big ball? Will the big ball's shadow cover the whole small ball? Say why you think so.
 - **fair test:** Keep the torch, the two balls and the gap between the balls the same. Change only which ball is nearer the torch. Measure the shadow each time with a ruler.
-- **record:** Fill in the table. Draw both eclipses from the side, with the torch, the two balls and the shadows.
+- **record:** Fill in the table. Take a photo of each eclipse from the side, or draw it with the torch, the two balls and the shadows.
 - **results table:** Which eclipse | Which ball's shadow falls on which ball | How wide the dark shadow is (cm) | How much of the other ball is covered
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put the football on a bowl or a roll of tape so it does not roll. 2. Put the torch on a pile of books about 2 metres away, shining at the football. 3. Darken the room.  
@@ -406,7 +406,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **predict:** Guess first. When you measure the rising Moon and the high Moon, will the rising Moon be bigger, smaller or the same? Say why you think so.
 - **fair test:** Use the same masoor dal, held at the same distance from your eye, with your arm straight both times. Change only how high the Moon is.
 - **safety:** Watch from a window or a balcony if you can. On a terrace, go only with a grown-up and stay well away from the edges.
-- **record:** Fill in the table. Draw the Moon next to the horizon and high in the sky, both drawn the size you measured.
+- **record:** Fill in the table. Write what the dal showed each time. Put your two photos side by side, or draw the Moon near the horizon and high in the sky, both the size you measured.
 - **results table:** Time | How high the Moon is | Does it look big or small? | Does the dal cover it exactly, with room to spare, or not quite?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Find the date of Purnima on a calendar. 2. That evening, or the evening after, go to an east-facing window or balcony at sunset. 3. Look east and wait for the Moon to rise.  
@@ -416,7 +416,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **s2 (5 min)**  
   *Parent does:* 1. Hold the masoor dal between your finger and thumb. 2. Stretch your arm out straight. 3. Close one eye. 4. Move the dal in front of the Moon and see whether it covers it.  
   *Parent says:* Hold the dal at the end of your straight arm. Close one eye. Can you hide the whole Moon behind it?  
-  *Child mode:* Hold one dal at the end of your straight arm. Close one eye. Try to hide the Moon behind the dal. Does it fit?
+  *Child mode:* Hold one dal at the end of your straight arm. Close one eye. Try to hide the Moon behind the dal.
   - Ask: Did it fit? Were you surprised? (good: Yes, the tiny dal covered the whole Moon.; I thought the Moon was much bigger than that.)
   - Note: At arm's length, a masoor dal just covers the full Moon, or nearly does. Most people are amazed at how small the Moon really is in the sky. If you have a phone, take a photo without zooming, and keep it.
 - **s3 (10 min) · grown-up needed**  
@@ -439,7 +439,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 
 ## Activities
 ### a1 · Walk Round the Chair: does the Moon spin? (10 min)
-- **record:** Draw the chair from above, with you at four places round it, and an arrow for the way your nose pointed each time.
+- **record:** Walk round the chair once more and tell a grown-up which way your nose pointed at four places. Or draw the chair from above with you at four places and an arrow for your nose.
 - **s1 (3 min)**  
   *Parent does:* 1. Put a chair in the middle of the room. It is the Earth. 2. Stick a sticky note or a bindi on your child's forehead. It marks the Moon's face. 3. Your child stands a big step from the chair, facing it.  
   *Parent says:* You are the Moon. The chair is the Earth. The sticker is the face we always see. Walk all the way round the chair, slowly, and always keep your sticker facing the chair.  
@@ -457,17 +457,17 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
   - Think: What if the Moon spun twice for each trip round the Earth? Try it round the chair. Would we see its far side?
 ### a2 · Moon Diary: from Amavasya to Purnima and beyond (44 min, 16 days)
 - **safety:** Watch from a window or balcony if you can. On a terrace, go only with a grown-up after dark and stay away from the edges. Never point binoculars anywhere near the Sun.
-- **record:** One box for each night you looked: the date, the time, the direction you faced, the Moon's shape drawn carefully, and whether it was lit on the left or the right. Leave cloudy nights as a box marked 'cloudy'.
+- **record:** One box for each night you looked: the date, the time, the direction you faced, the Moon's shape (drawn carefully, or a photo), and whether it was lit on the left or the right. Leave cloudy nights as a box marked 'cloudy'.
 - **schedule:** day 1: Two or three days after Amavasya, just after sunset, look low in the west. Draw the thin crescent, the buildings under it, the date and the time. (6 min); day 3: Go to the same place at the same time. Draw the Moon again. Is it bigger? Has it moved? (4 min); day 5: Look at the same time. The Moon should be about half lit, high in the south. Look along its straight edge with binoculars, if you have them, for mountains and craters. (6 min); day 7: Look at the same time. Draw the Moon. Which direction do you face to see it now? (4 min); day 9: Look at the same time. Draw the gibbous Moon, now lower in the south-east. (4 min); day 11: Look at the same time. Draw the Moon. Is it nearly full? (4 min); day 13: Purnima (check the calendar: it may be a day either side). At sunset look east and watch the full Moon rise. Draw it and note the time. (5 min); day 14: The night after Purnima. At the same time as yesterday, is the Moon up yet? Note when it rises, if you can. (3 min); day 16: Lay all your drawings in a row, in date order, and find the pattern. (8 min)
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. Find the date of the next Amavasya on a calendar. 2. Two or three days later, go to a west-facing window or balcony just after sunset. 3. Look low in the sky, where the Sun went down, for a thin crescent. 4. Draw it with the buildings under it, and write the date and time.  
+  *Parent does:* 1. Find the date of the next Amavasya on a calendar. 2. Two or three days later, go to a west-facing window or balcony just after sunset. 3. Look low in the sky, where the Sun went down, for a thin crescent. 4. Draw it with the buildings under it, or take a photo, and write the date and time.  
   *Parent says:* We'll keep a Moon diary for about two weeks. Tonight the Moon is a thin crescent, close to where the Sun set. Which side of it is lit?  
-  *Child mode:* Just after sunset, look west, low down, with a grown-up. Find a thin curved Moon. Draw it, with the buildings under it. Write the date and the time.
+  *Child mode:* Just after sunset, look west, low down, with a grown-up. Find a thin curved Moon. Draw it with the buildings under it, or take a photo. Write the date and the time.
   - Note: A thin crescent sets soon after the Sun, so look within an hour of sunset. In a city, buildings may hide it. Then look again the next evening, when it is higher. Try to look at the same time each evening. In India, the thin evening crescent often lies on its back, like a boat.
 - **s2 (22 min) · grown-up needed**  
-  *Parent does:* 1. Every second evening, go to the same spot at the same time. 2. Draw the Moon's shape. 3. Write the date, the time and the direction you faced. 4. When the Moon is about half, look along the Moon's straight edge with binoculars, if you have them.  
+  *Parent does:* 1. Every second evening, go to the same spot at the same time. 2. Draw the Moon's shape, or take a photo. 3. Write the date, the time and the direction you faced. 4. When the Moon is about half, look along the Moon's straight edge with binoculars, if you have them.  
   *Parent says:* We are at the same place, at the same time. Has the Moon grown? Has it moved? Which way are you facing to see it now?  
-  *Child mode:* Go to the same window at the same time. Draw the Moon again. Has it grown? Which way do you face to see it?
+  *Child mode:* Go to the same window at the same time. Look at the Moon again, and draw or photograph it. Has it grown? Which way do you face to see it?
   - Ask: Each evening at the same time, where is the Moon compared with last time? (good: Further east, further from where the Sun set.; It started low in the west and moved round to the south.)
   - Note: Each evening at the same time, the growing Moon is further east, because it has moved along its orbit. For the first week it also climbs higher. The half Moon is high in the south at sunset. After that, the Moon is lower each evening, in the south-east and then the east. So you may need a different window as the days pass. Along the straight edge of a half Moon, binoculars show mountains and craters casting long shadows. On cloudy nights, just write 'cloudy'. Gaps are normal, and real scientists have them too.
   - Wait: Come back every second evening, at the same time, until Purnima.
@@ -504,7 +504,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
   - Think: Anyone, anywhere, can look up and see the Moon's shape. What did that give a village that a calendar printed in one place could not?
 ### a4 · Earthshine and the Daytime Moon (15 min, 2 days)
 - **safety:** In the daytime, never look at the Sun, and never point binoculars anywhere near it. Stand where a wall or tree blocks the Sun.
-- **record:** Draw the crescent with the faint grey circle of earthshine. Draw the daytime Moon in the blue sky, with the time.
+- **record:** Tell a grown-up what you saw, and the time. Or draw the crescent with the faint grey circle of earthshine, and the daytime Moon in the blue sky.
 - **schedule:** day 1: Two to four days after Amavasya, just after sunset, look at the crescent Moon for earthshine. (8 min); day 2: Two to five days after Purnima, look for the Moon in the morning sky in the west. (7 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Two to four days after Amavasya, go to a west-facing window or balcony within an hour after sunset. 2. Find the thin crescent Moon low in the west. 3. Look carefully at the dark part. Use binoculars if you have them.  
@@ -520,7 +520,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
   - Think: When you see a thin crescent from Earth, someone on the Moon would see a big, nearly full Earth. What would the Earth look like from the Moon on Purnima?
   - Wait: Wait until two to five days after Purnima.
 ### a5 · Act It Out: the Night the Moon Was Born (15 min)
-- **record:** Draw a comic strip in four boxes: the crash, the ring of rock, the Moon gathering, and the Moon today.
+- **record:** Act the four parts again and take a photo of each: the crash, the ring of rock, the Moon gathering, and the Moon today. Or draw them as a comic strip in four boxes.
 - **s1 (3 min)**  
   *Parent does:* Choose roles. One player is the young Earth, glowing hot. One is Theia, a planet the size of Mars. If there are more of you, the others are lumps of hot rock. If there are only two of you, a dupatta and some cushions or balls are the hot rock.  
   *Parent says:* About four and a half billion years ago, the Earth was young and hot. There was no Moon in its sky. Another planet, Theia, was on a crash course.  
@@ -544,7 +544,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **record:** Write the dates of the next Amavasya and Purnima on your wheel. Write whether the wheel matched the real Moon.
 - **schedule:** day 1: Draw the 8 Moon shapes round the bottom plate. Cut a window in the top plate. Join the plates. Set it to tonight. (35 min); day 2: Count the days since Amavasya again and turn the window to match. Go outside and check the real Moon against the wheel. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. With a ruler, draw lines across the bigger plate to divide it into 8 equal slices, like a pizza. 2. In each slice, halfway between the centre and the edge, draw one Moon shape, in this order: new, growing crescent, growing half, growing gibbous, full, shrinking gibbous, shrinking half, shrinking crescent. 3. Colour the dark parts black.  
+  *Parent does:* 1. With a ruler, draw lines across the bigger plate to divide it into 8 equal slices, like a pizza. 2. In each slice, halfway between the centre and the edge, draw one Moon shape, in this order: new, growing crescent, growing half, growing gibbous, full, shrinking gibbous, shrinking half, shrinking crescent. 3. Colour the dark parts black. Or glue in the 8 Moon shape cards from Moon Pairs, in order.  
   *Parent says:* We'll make a wheel that shows the Moon for any night. First, draw the 8 shapes in order round the plate.  
   *Child mode:* Divide the big plate into 8 slices. In each slice, draw one Moon shape, in order round the plate. Colour the dark parts black.
   - Note: Remember that a growing Moon seen from India is lit on the right, and a shrinking Moon on the left. Under each shape, write how many days after Amavasya it comes: 0, 4, 7, 11, 15, 18, 22, 26.
@@ -575,7 +575,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **s1 (6 min)**  
   *Parent does:* 1. Work out together how many days 12 Moon months take: about 29 and a half days times 12. 2. Compare it with 365 days.  
   *Parent says:* One Moon month is about 29 and a half days. Twelve of them make about 354 days. The Sun's year is 365 days. How many days short are we?  
-  *Child mode:* Twelve Moon months make about 354 days. The Sun's year is 365 days. How many days short is that? Work it out.
+  *Child mode:* Twelve Moon months make about 354 days. The Sun's year is 365 days. Work out the difference on paper or a calculator.
   - Check: 365 take away 354 is… → **11 days**
 - **s2 (6 min)**  
   *Parent does:* Draw a table for 6 years. In each row, write how many days the Moon calendar has drifted.  
@@ -593,7 +593,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
   - Think: The Islamic calendar lets Ramzan move through all the seasons. Some people like that, because everyone gets Ramzan in summer and in winter, in turn. Is drifting through the seasons a problem, or a kind of fairness?
 ### c2 · Talk to the Far Side (25 min)
 - **problem:** A rover has landed on the far side of the Moon. It cannot send messages straight to the Earth, because the whole Moon is in the way. Design a way to get a torch signal from 'the Earth' to a toy 'rover' hidden behind a big pot, which is the Moon.
-- **your turn:** Now invent your own way. Draw it first, then try it. How many mirrors do you need?
+- **your turn:** Now invent your own way. Tell your plan first, or sketch it, then try it. How many mirrors do you need?
 - **constraints:** The torch must stay at 'the Earth', on one side of the room.; You cannot move the pot or the rover.; The light must land on the rover, so it could read the message.
 - **general:** Put a mirror out beyond the Moon, where it can see both the Earth and the rover, to bounce the signal round. China did this in 2018 with a relay satellite called Queqiao, for the Chang'e 4 rover.; Use two mirrors, one after the other, to send the light round a corner.
 - **creative:** Put several relays in a ring round the Moon, so there is always one in the right place.; Send the signal in a code of long and short flashes, so the rover can 'read' it.; Ask: could the rover send a message back the same way?
@@ -602,9 +602,9 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
   *Parent says:* This pot is the Moon. Our rover is on the far side. Try to shine the torch on it from here. Can you?  
   *Child mode:* The pot is the Moon. The toy rover is behind it, on the far side. Shine your torch at it from across the room. Can the light reach it?
 - **s2 (5 min)**  
-  *Parent does:* Before trying anything, draw three ideas together.  
-  *Parent says:* Engineers think before they build. Draw three ideas for getting the light round the Moon.  
-  *Child mode:* Draw three ideas first. How could you get the light round the pot?
+  *Parent does:* Before trying anything, think of three ideas together and say them out loud.  
+  *Parent says:* Engineers think before they build. Tell me three ideas for getting the light round the Moon.  
+  *Child mode:* Think of three ideas first and say them out loud. How could you get the light round the pot?
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. A helper holds a mirror out to one side, beyond the pot, where they can see both the torch and the rover. 2. Shine the torch at the mirror. 3. The helper tilts the mirror slowly until the light lands on the rover.  
   *Parent says:* The mirror is our relay. Tilt it slowly. Can you make the light land on the rover?  

@@ -200,14 +200,14 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - **rules:** Shuffle the 12 galaxy cards and deal them out equally and face down. With 2 players each gets 6 cards, with 3 players 4 cards, with 4 players 3 cards.; Each round, every player turns over the top card of their own pile and reads out its name and when its light set off.; The card whose light set off longest ago wins the round. That galaxy is the furthest away, so we see the oldest view of it.; The winner takes all the cards of that round and puts them in a separate pile of won cards.; Shape race: if two or more cards in a round show the same shape (for example two spirals), nobody compares years. The first player to call out that shape wins the round.; When everyone's pile is used up, count your won cards. The most cards wins. If players have the same number, they share the win.
 - **Printable cards: 12 galaxy cards, each with a name, a shape and when its light set off:** THE MILKY WAY. Barred spiral. We live inside it. Light from its centre set off about 26,000 years ago.; LARGE MAGELLANIC CLOUD. Irregular. A small galaxy close to ours. Its light set off about 160,000 years ago. [picture]; SMALL MAGELLANIC CLOUD. Irregular. Another small galaxy close to ours. Its light set off about 200,000 years ago. [picture]; ANDROMEDA. Spiral, seen at a slant. Our nearest big neighbour. Its light set off about 2.5 million years ago. [picture]; THE CIGAR GALAXY (M82). Irregular, making new stars very fast. Its light set off about 12 million years ago. [picture]; THE PINWHEEL (M101). Spiral, seen from the top. Its light set off about 21 million years ago. [picture]; THE SOMBRERO (M104). Spiral, seen almost from the side. Its light set off about 28 million years ago. [picture]; THE WHIRLPOOL (M51). Spiral, with a small galaxy passing close. Its light set off about 31 million years ago. [picture]; M87. Giant elliptical, with a huge black hole in the middle. Its light set off about 55 million years ago. [picture]; THE CARTWHEEL. A ring-shaped galaxy, hit by a smaller galaxy. Its light set off about 500 million years ago. [picture]; AUDFs01. Small and faint, seen by India's AstroSat. Its light set off about 9.3 billion years ago.; JADES-GS-z14-0. A tiny young galaxy seen by the Webb telescope. Its light set off about 13.5 billion years ago.
 - **s1 (3 min)**  
-  *Parent does:* 1. Shuffle and deal the cards. 2. Explain how a round is won, and the shape race.  
+  *Parent does:* 1. Shuffle and deal the cards. 2. Explain how a round is won, and the shape race: if two cards show the same shape, the first player to call out that shape wins the round.  
   *Parent says:* Each card is a real galaxy. The one whose light set off longest ago wins, because its light is the oldest.  
   *Child mode:* Each card is a real galaxy. The oldest light wins the round.
 - **s2 (3 min)**  
   *Parent does:* Play the first round together as practice, with the Andromeda card and the Pinwheel card.  
-  *Parent says:* Andromeda's light set off 2.5 million years ago. The Pinwheel's set off 21 million years ago. Which wins?  
-  *Child mode:* Andromeda's light set off 2.5 million years ago. The Pinwheel's light set off 21 million years ago. Which light is older?
-  - Check: Which galaxy's light set off longer ago, and so is further away: Andromeda or the Pinwheel? → **The Pinwheel**
+  *Parent says:* Let's practise with two cards. Andromeda's light set off 2.5 million years ago. The Pinwheel's set off 21 million years ago.  
+  *Child mode:* Look at both cards. Which number of years is bigger?
+  - Check: Whose light set off longer ago: Andromeda or the Pinwheel? → **The Pinwheel**
 - **s3 (12 min)**  
   *Parent does:* Play until everyone's pile is used up, then count the won cards.  
   *Parent says:* Your turn. Read your card out loud, then let's see whose light is oldest.  
@@ -215,8 +215,8 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
   - Note: Help with the big numbers. A billion is a thousand million, so 9.3 billion years beats 500 million years.
 - **s4 (2 min)**  
   *Parent does:* Find the JADES card and talk about it.  
-  *Parent says:* The JADES card's light set off 13.5 billion years ago. The universe is 13.8 billion years old. How old was the universe when that light set off?  
-  *Child mode:* How old was the universe when the JADES light set off?
+  *Parent says:* The JADES card is a very faraway galaxy seen by the Webb telescope. Its light set off 13.5 billion years ago. The universe is 13.8 billion years old.  
+  *Child mode:* Take 13.5 away from 13.8.
   - Ask: How old was the universe when that light set off? (good: About 300 million years old.; Very young: 13.8 take away 13.5 is 0.3 billion.)
 
 ## Experiments
@@ -229,14 +229,14 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - **results table:** Pair of bindis | Gap on the small balloon (cm) | Gap on the big balloon (cm) | How much further apart (cm)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the balloon and the bindis. 2. Ask the guess question below. 3. Wait for a guess and a reason.  
-  *Parent says:* Each bindi will be a galaxy, and the balloon's rubber will be space. When I blow the balloon bigger, will a near bindi and a far bindi move away by the same amount? Why do you think so?  
-  *Child mode:* Each bindi is a galaxy, and the rubber is space. When the balloon grows, will near and far bindis move the same? Guess first, then say why.
-  - Ask: Which bindi do you think will move furthest from the home bindi: a near one or a far one? Why? (good: They will all move the same, because the balloon grows the same everywhere.; The far one, because there is more rubber between them to stretch.)
+  *Parent says:* Each bindi will be a galaxy, and the balloon's rubber will be space. One bindi will be our home, the Milky Way. I will blow the balloon bigger.  
+  *Child mode:* Each bindi is a galaxy. The rubber is space. Guess first, then say why.
+  - Ask: When the balloon grows, which will move further from the home bindi: a near bindi or a far bindi? Why? (good: They will all move the same, because the balloon grows the same everywhere.; The far one, because there is more rubber between them to stretch.)
   - Note: Accept any guess with a reason. Do not give the answer. The measuring will show it.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Blow the balloon up to about the size of a big mango, around 10 cm across. 2. Twist the neck and clip it with the peg. 3. Your child sticks the home bindi in the middle of the fat part. 4. They stick three more in a rough line from it, about 3 cm, 6 cm and 9 cm away. 5. They stick the last two anywhere else.  
-  *Parent says:* This first bindi is our home, the Milky Way. Now stick three in a line going away from it, a little further each time. Put the last two anywhere.  
-  *Child mode:* Stick the home bindi in the middle. Stick three more in a line, each one further away. Put two more anywhere.
+  *Parent does:* 1. Blow the balloon up to about the size of a big mango, around 10 cm across. 2. Twist the neck and clip it with the peg. 3. Your child sticks the home bindi, H, in the middle of the fat part. 4. They stick three more in a rough line: A at 3 cm, B at 6 cm, C at 9 cm. 5. They stick the last two anywhere else. 6. Write each letter next to its bindi with a pen.  
+  *Parent says:* This first bindi, H, is our home, the Milky Way. Now stick A, B and C in a line going away from it, a little further each time. Put the last two anywhere.  
+  *Child mode:* Stick the home bindi, H, in the middle. Stick A, B and C in a line, each one further away. Put two more anywhere.
   - Note: Keep the bindis on the fat middle of the balloon, away from the neck, because the rubber near the neck stretches less. Give each bindi a letter on the results table: H for home, then A, B and C along the line, and D and E for the other two.
 - **s3 (7 min)**  
   *Parent does:* 1. Hold one end of the thread on the middle of H. 2. Lay the thread flat along the rubber to the middle of A. 3. Pinch the thread there, lift it off, and hold it against the ruler. 4. Write the gap in the table. 5. Do the same for H to B, H to C, C to A and C to B. 6. Measure how wide one bindi is across its middle, and write it down.  
@@ -245,23 +245,23 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
   - Note: This needs two pairs of hands: one person holds the thread end on the bindi, the other lays it and pinches. Round each gap to the nearest half centimetre. The gaps from C let you look at the balloon from a second bindi later.
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. Unclip the neck, holding it tight. 2. Blow the balloon bigger, to about twice as wide, around 20 cm across. 3. Clip it shut again.  
-  *Parent says:* Watch the bindis while I blow. What do you see them doing?  
-  *Child mode:* Watch the bindis while the balloon grows. What are they doing?
+  *Parent says:* Watch the bindis closely while I blow.  
+  *Child mode:* Watch the bindis while the balloon grows.
   - Ask: What did you see while the balloon grew? (good: All the bindis spread apart.; The far ones seemed to move faster.)
   - Note: Stop before the rubber feels tight, because a nearly full balloon is more likely to burst. If it feels tight before it is twice as wide, stop there. Every gap will then grow by a little less than double, but the far bindis still move the most.
 - **s5 (7 min)**  
-  *Parent does:* 1. Measure the same five gaps again, in the same way. 2. Write them in the table. 3. For each pair, take the small gap from the big gap and write how much further apart they are.  
+  *Parent does:* 1. Measure the same five gaps again, in the same way. 2. Write them in the table. 3. For each pair, take the small gap away from the big gap and write how much further apart they are.  
   *Parent says:* Let's measure the same gaps again. Then we can work out how much further apart each pair has gone.  
   *Child mode:* Measure the same gaps again. Write them down. How much further apart is each pair?
   - Check: Which bindi moved furthest away from the home bindi, H? → **The furthest one, C**
 - **s6 (4 min)**  
   *Parent does:* 1. Look at the gaps measured from C. 2. Ask: did the other bindis move away from C as well? 3. Measure one bindi across its middle with the ruler, and compare it with the width you wrote down before.  
   *Parent says:* Now pretend C is home. Did the other bindis move away from C too? And did the bindis themselves get any bigger?  
-  *Child mode:* Pretend C is home. Did the others move away from C too? Did the bindis get bigger?
+  *Child mode:* Pretend C is home. Look at the gaps from C. Then measure one bindi across its middle.
   - Ask: Was there any bindi that the others did not move away from? (good: No. From every bindi, the others moved away.; None of them is the middle.)
   - Note: The bindis stay the same size because they are stuck on, and only the rubber between them stretches. Galaxies are like this: gravity holds them together, and only the space between them grows. Only the balloon's skin stands for space. The air inside and the room outside are not part of the model.
 - **s7 (4 min)**  
-  *Parent does:* Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.  
+  *Parent does:* Listen to your child's three answers, said out loud or written. Do not correct them yet.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why does it happen?  
   *Child mode:* Say or write three things: what you think now, what you saw, and why it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: when space stretches, far things move apart faster than near things, and there is no centre. What I saw: the bindi 9 cm away moved about three times as far as the one 3 cm away, and the bindis moved away from C as well as from H. Why: there is more rubber between far bindis, so more of it stretches. Now explain: galaxies are moving away from us in the same way. Hubble found that a galaxy twice as far away moves away about twice as fast. Every galaxy would see the same thing, so we are not at the centre.
@@ -270,13 +270,13 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - **predict:** You will draw a spiral on a paper plate, and look at the plate and an orange from different sides. Guess first. When you see the plate exactly from the side, what shape will it look like? Will the orange change shape when you turn it? Why do you think so?
 - **fair test:** Look at both models from the same distance, about one big step away, with one eye closed. Change only one thing: how much the model is tilted. Use the same three tilts for both: from the top, at a slant, and from the side.
 - **safety:** If you cut a circle from a box, a grown-up does the cutting.
-- **record:** Draw the six shapes you saw in the results table. Then write which model changed shape and which did not.
+- **record:** Fill in the results table with the six shapes you saw. Draw them, or write round, oval or thin line. Then write which model changed shape and which did not.
 - **results table:** Model | From the top: shape I saw | At a slant: shape I saw | From the side: shape I saw
 - **s1 (3 min)**  
   *Parent does:* 1. Ask the guess question below. 2. Wait for a guess and a reason.  
-  *Parent says:* A spiral galaxy is a flat spinning disc. What shape would it look like if we saw it from the side? Would a ball of stars change shape? Why do you think so?  
-  *Child mode:* A spiral galaxy is a flat disc. What would it look like from the side? Guess first, then say why.
-  - Ask: What will the disc look like from the side? (good: Still round, because it is a circle.; A thin line, because it is flat.)
+  *Parent says:* A spiral galaxy is a flat spinning disc. We will make one from a paper plate. Guess first, and tell me why.  
+  *Child mode:* A spiral galaxy is a flat disc, like a plate. Guess first, then say why.
+  - Ask: When we see the plate exactly from its side, what shape will it look like? (good: Still round, because it is a circle.; A thin line, because it is flat.)
   - Note: Accept any guess with a reason.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child draws a spiral with two arms on the plate, starting from the middle. 2. They press the ball of dough onto the middle of the plate. 3. They draw the same spiral on the back.  
@@ -284,22 +284,22 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
   *Child mode:* Draw two curly arms from the middle. Press the dough in the middle. That is the bulge.
   - Note: Real spiral galaxies have a bulge on both sides of the disc. If the dough will not stay, use a bottle cap stuck on with tape.
 - **s3 (6 min)**  
-  *Parent does:* 1. Stand one big step away from your child. 2. Hold the plate flat facing them. 3. Then tilt it halfway. 4. Then turn it until they see only its edge, at the height of their eyes. 5. At each tilt, your child closes one eye and draws what they see.  
-  *Parent says:* Close one eye. Draw what you see. Now I'll tilt it. Draw again. Now I'll turn it right round to the side.  
-  *Child mode:* Close one eye. Draw the plate. Draw it again when it tilts. Draw it from the side.
+  *Parent does:* 1. Stand one big step away from your child. 2. Hold the plate flat facing them. 3. Then tilt it halfway. 4. Then turn it until they see only its edge, at the height of their eyes. 5. At each tilt, your child closes one eye and says the shape they see: round, oval or a thin line. Take a photo of each if you like.  
+  *Parent says:* Close one eye. What shape do you see? Now I'll tilt it. What shape now? Now I'll turn it right round to the side.  
+  *Child mode:* Close one eye. Say the plate's shape. Say it again when it tilts, and again from the side.
   - Check: What did the plate look like from the side? → **A thin line with a bump in the middle**
 - **s4 (4 min)**  
-  *Parent does:* Do the same with the orange. Hold it in the same three ways, and your child draws it each time.  
+  *Parent does:* Do the same with the orange. Hold it in the same three ways, and your child says its shape each time.  
   *Parent says:* Now the orange. Watch it from the top, at a slant, and from the side. Does its shape change?  
-  *Child mode:* Now look at the orange the same three ways. Draw it. Does its shape change?
+  *Child mode:* Now look at the orange the same three ways. Say its shape each time.
   - Ask: What happened to the orange's shape? (good: It stayed round every time.; A ball looks round from every side.)
 - **s5 (3 min)**  
-  *Parent does:* 1. Look up the Pinwheel (M101), Andromeda (M31) and the Sombrero (M104) on the ESA/Hubble website or in a book. 2. Your child matches each to a plate drawing.  
-  *Parent says:* These are three real spiral galaxies. Which of your drawings looks like each one?  
-  *Child mode:* Look at three real spiral galaxies. Which drawing matches each one?
+  *Parent does:* 1. Look up the Pinwheel (M101), Andromeda (M31) and the Sombrero (M104) on the ESA/Hubble website or in a book. 2. Your child matches each one to the plate view it looks like: from the top, at a slant, or from the side.  
+  *Parent says:* These are three real spiral galaxies. Which plate view looks like each one?  
+  *Child mode:* Look at three real spiral galaxies. Which plate view matches each one?
   - Note: The Pinwheel is seen from the top, Andromeda at a slant, and the Sombrero almost from the side. All three are spiral galaxies. They only look different because of the direction we see them from.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.  
+  *Parent does:* Listen to your child's three answers, said out loud or written. Do not correct them yet.  
   *Parent says:* Tell me three things. What do you think now? What did you see? And why does it happen?  
   *Child mode:* Say or write three things: what you think now, what you saw, and why it happened.
   - Note: A good answer sounds like this. What I think: a spiral galaxy looks round, oval or like a line, depending on where we see it from, but a ball of stars looks round from everywhere. What I saw: the plate changed from a circle to a thin line, but the orange stayed round. Why: the plate is flat and the orange is not. Now explain: astronomers can only photograph each galaxy from one direction, from Earth. So they look for clues, like a bulge or a dark line of dust, to tell a disc seen from the side from a different kind of galaxy.
@@ -309,9 +309,9 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - **record:** Your count for one box, your total for the picture, and one thing you wonder.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw 10 equal boxes over the picture, in 2 rows of 5. 2. Show it, and do not say what it is yet. 3. Ask what your child notices and wonders.  
-  *Parent says:* Look at this picture of the sky. What do you notice? What do you wonder?  
-  *Child mode:* Look at this picture of the sky. What do you notice? What do you wonder?
-  - Ask: What do you notice? (good: Lots of smudges of different shapes.; Some are spirals and some are just blobs.; A few bright ones have spikes.)
+  *Parent says:* Look at this picture of the sky.  
+  *Child mode:* Look closely at the picture for a little while.
+  - Ask: What do you notice? What do you wonder? (good: Lots of smudges of different shapes.; Some are spirals and some are just blobs.; A few bright ones have spikes.)
   - Note: Write down what your child wonders. The rest of the unit may answer it.
 - **s2 (3 min)**  
   *Parent does:* 1. Tell your child what the picture is. 2. Your child holds a grain of rice at arm's length and looks at the sky past it.  
@@ -324,19 +324,19 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
   *Child mode:* Count the galaxies in one box. Skip the spiky stars. Then multiply by 10.
   - Check: Why do we count one box and multiply by 10? → **Because counting every galaxy would take too long**
 - **s4 (2 min)**  
-  *Parent does:* Ask about the smallest, faintest, reddest smudges.  
+  *Parent does:* Ask your child to find the smallest, faintest, reddest smudges.  
   *Parent says:* Some smudges are tiny, faint and red. Why do you think they look like that?  
   *Child mode:* Some smudges are tiny, faint and red. Why do you think they look like that?
   - Note: Accept any guess now. The tiny red ones are mostly the furthest away. Their light set off billions of years ago, and on the way it was stretched towards red by the expanding universe. The unit comes back to this.
 ### a2 · The Universe in One Year: a calendar on the wall (25 min)
-- **record:** The calendar on the wall, with each event on its date, and a picture for each.
+- **record:** The calendar on the wall, with each event on its date, and a photo of it.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out or hang the 12 months in a row. 2. Explain the rule: the whole 13.8 billion years is squeezed into one year.  
   *Parent says:* The universe is about 13.8 billion years old. Let's squeeze all of it into one year. The Big Bang is the first moment of 1 January. Today is the last moment of 31 December. Each day stands for about 38 million years.  
   *Child mode:* Squeeze the universe's whole life into one year. The Big Bang is 1 January. Now is midnight on 31 December.
 - **s2 (8 min)**  
   *Parent does:* Your child writes each event on a slip and sticks it on its date. Read out the dates from the parent note below.  
-  *Parent says:* Before we stick each one, guess. When in the year do you think the Sun and the Earth were made?  
+  *Parent says:* Before we stick each one, guess where it goes in the year.  
   *Child mode:* Guess when each thing happened. Then stick it on its date.
   - Ask: When do you think the Sun and Earth were made? (good: In January, near the start.; Halfway through the year.)
   - Note: Dates on the one-year calendar: 1 January, the Big Bang. About 9 January, the light set off from the furthest galaxies the Webb telescope has seen. January and February, the Milky Way's oldest stars form. About 1 September, the Sun and Earth form. Late September, the first living things on Earth. 30 December, the dinosaurs die out. 31 December at about 10:25 at night, the light we see tonight sets off from Andromeda. 31 December at about 11:48 at night, the first modern humans.
@@ -346,9 +346,9 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
   *Child mode:* All of human history is in the last minutes of the year. Your life is shorter than a blink.
   - Check: On the one-year calendar, when did the light we see from Andromeda set off? → **On 31 December, late at night**
 - **s4 (7 min)**  
-  *Parent does:* Your child draws a small picture next to each event.  
-  *Parent says:* Draw a little picture for each one. What would the universe have looked like on 9 January?  
-  *Child mode:* Draw a small picture for each event.
+  *Parent does:* Your child points at each event in order, from 1 January, and says what was happening in the universe then.  
+  *Parent says:* Start at 1 January and point at each event in order. Tell me what was happening in the universe then.  
+  *Child mode:* Point at each event in order. Tell what was happening then.
   - Note: On 9 January the universe was full of small, young galaxies, and there was no Sun or Earth yet.
 ### a3 · Stretch the Elastic: does every mark move the same? (15 min)
 - **safety:** Hold the elastic firmly. Do not let it snap back towards anyone's face.
@@ -358,32 +358,32 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
   *Parent says:* These dots are galaxies on a line, 2 centimetres apart. The dot at 0 is home. Let's tape it down.  
   *Child mode:* Mark dots at 0, 2, 4, 6 and 8 cm. The 0 dot is home. Tape it down.
 - **s2 (6 min)**  
-  *Parent does:* 1. Ask the guess question below. 2. Stretch the elastic along the ruler until the 8 cm dot reaches 16 cm. 3. Hold it there while your child reads where each dot is now.  
+  *Parent does:* 1. Ask your child to guess, and why. 2. Stretch the elastic along the ruler until the 8 cm dot reaches 16 cm. 3. Hold it there while your child reads where each dot is now.  
   *Parent says:* If I stretch it until the last dot reaches 16, where will the dot that was at 2 be? Guess first, and say why.  
   *Child mode:* Guess where each dot will go. Then read the ruler.
   - Ask: Where did the dots end up? (good: At 4, 8, 12 and 16.; Every dot doubled its distance from home.)
   - Note: If the elastic is even, the dots land near 4, 8, 12 and 16 cm. Cheap elastic may stretch a little unevenly. Close is good enough.
 - **s3 (5 min)**  
   *Parent does:* Work out together how far each dot moved, and what pattern you see.  
-  *Parent says:* The dot at 2 moved 2 centimetres. How far did the dot at 6 move? What is the pattern?  
-  *Child mode:* How far did each dot move? Find the pattern.
+  *Parent says:* The dot at 2 moved 2 centimetres. Work out how far the other dots moved. What is the pattern?  
+  *Child mode:* Work out how far each dot moved. Find the pattern.
   - Check: The dot that started at 6 cm ended at 12 cm. How far did it move? → **6 cm**
 ### a4 · Find Andromeda, if you can get to a dark place (30 min)
 - **safety:** A grown-up stays with the child at night. Keep away from the edge of any roof without a wall.
-- **record:** A drawing of the Great Square and the smudge, with the date, the time and the place.
+- **record:** A drawing or a few words about the Great Square and the smudge, with the date, the time and the place.
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Around 8 to 9 in the evening, lie on the mat with all lights off. 2. Wait 15 minutes without looking at any screen or white light.  
   *Parent says:* Our eyes need time to see faint things. Let's lie here quietly and wait. No phones, no white lights.  
   *Child mode:* Lie still in the dark. Wait 15 minutes. No phones.
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* 1. Find the Great Square: four stars making a big box, in the eastern sky. 2. Find the corner of the square where a line of stars leads away, and follow that line two bright stars along. 3. At the second star, look a little upwards for a faint smudge. 4. Look slightly to one side of the smudge. 5. Draw it by red torchlight.  
-  *Parent says:* Find the big square of four stars. Go to the corner where a line of stars leads away, then two stars along. Now look up a little, slightly to one side.  
-  *Child mode:* Find the big square of four stars. Go to the corner where a line of stars leads away. Go two stars along, then look up a little.
+  *Parent does:* 1. Find the Great Square: four stars making a big box, in the eastern sky. 2. Find the corner of the square where a line of stars leads away, and follow that line two bright stars along. 3. At the second star, look a little upwards for a faint smudge. 4. Look slightly to one side of the smudge. 5. Draw it by red torchlight, or just tell your grown-up what you see.  
+  *Parent says:* Find the big square of four stars. Go to the corner where a line of stars leads away, then two stars along. Now look up a little, slightly to one side of the smudge. Faint things show up better from the corner of your eye.  
+  *Child mode:* Find the big square of four stars. Go to the corner where a line of stars leads away. Go two stars along, then look up a little, slightly to one side. Draw the smudge, or tell what you see.
   - Note: The edge of your eye sees faint things better than the middle, which is why looking slightly to one side helps. With binoculars, the smudge is much easier. If you cannot see it, the sky is not dark enough. Use Stellarium Web to see where it should be.
   - Wait: Do this on a clear, dark night in a place far from city lights.
 - **s3 (5 min)**  
-  *Parent does:* Talk about what you saw.  
-  *Parent says:* That smudge is a whole galaxy of about a trillion stars. Its light set off two and a half million years ago, long before there were people like us on Earth. So are we seeing Andromeda as it is tonight?  
+  *Parent does:* Talk about what you saw, then ask the question below.  
+  *Parent says:* That smudge is a whole galaxy of about a trillion stars. Its light set off two and a half million years ago, long before there were people like us on Earth.  
   *Child mode:* That smudge is a galaxy. Its light is two and a half million years old.
   - Ask: Are we seeing Andromeda as it is tonight? (good: No, as it was 2.5 million years ago.; We see its old light.)
 ### a5 · Be a Galaxy Zoo sorter: help real astronomers (15 min)
@@ -400,8 +400,8 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
   *Child mode:* Is the galaxy smooth, or does it have arms or a disc? Answer, then make a tally mark.
 - **s3 (2 min)**  
   *Parent does:* Count the tally marks together.  
-  *Parent says:* Which shape did we see most? Were some photos hard to sort? Why?  
-  *Child mode:* Count your tally. Which shape did you see most?
+  *Parent says:* Let's add up each shape. Then let's think about the photos that were hard to sort.  
+  *Child mode:* Count your tally. Which shape came up most?
   - Ask: Why might some photos be hard to sort? (good: Some are blurry because they are so far away.; Some spirals are seen from the side, so you can't see the arms.)
 
 ## Projects
@@ -410,13 +410,13 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - **record:** The finished field guide, with one galaxy shape per page.
 - **schedule:** day 1: Make the book. Draw and describe a spiral and a barred spiral galaxy, one on each page. (15 min); day 2: Draw and describe an elliptical and an irregular galaxy. (15 min); day 3: Add a page on our own galaxy, and a page on 'how to tell which shape it is'. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Fold and staple the book. 2. Your child picks a real spiral galaxy and a real barred spiral. 3. On each page, they draw it and write its name, its shape and when its light set off.  
-  *Parent says:* A field guide helps people tell things apart. Draw this galaxy and write three things: its name, its shape and how old its light is.  
-  *Child mode:* Draw a galaxy. Write its name, its shape and how old its light is.
+  *Parent does:* 1. Fold and staple the book. 2. Your child picks a real spiral galaxy and a real barred spiral, which has a straight bar of stars across its middle. 3. On each page, they draw it or stick in a printed photo. They also write its name, its shape and when its light set off.  
+  *Parent says:* A field guide helps people tell things apart. Draw this galaxy, or stick in a printed photo of it. Then write three things: its name, its shape and how old its light is.  
+  *Child mode:* Draw a galaxy, or stick in a photo. Write its name, its shape and how old its light is.
 - **s2 (15 min)**  
   *Parent does:* Your child adds an elliptical galaxy and an irregular galaxy, in the same way.  
-  *Parent says:* Now an elliptical and an irregular galaxy. What makes each one different from a spiral?  
-  *Child mode:* Add an elliptical and an irregular galaxy. How are they different?
+  *Parent says:* Now an elliptical galaxy, which is a smooth oval ball of stars, and an irregular galaxy, which has no clear shape. What makes each one different from a spiral?  
+  *Child mode:* Add an elliptical galaxy, a smooth oval. Add an irregular galaxy, with no clear shape. How do they differ from a spiral?
   - Wait: Do this the next day.
 - **s3 (15 min)**  
   *Parent does:* 1. Your child adds a page about the Milky Way. 2. They add a last page of tips for telling galaxy shapes apart.  
@@ -435,16 +435,16 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - **s1 (5 min)**  
   *Parent does:* Read the problem together, and list the three things the model must show.  
   *Parent says:* Your model must show three things. Far things move apart more. There is no centre. The galaxies don't grow. What could you use?  
-  *Child mode:* Your model must show three things. What could you use?
+  *Child mode:* Pick the things from home you will use. A balloon, stretchy cloth or elastic may help.
 - **s2 (15 min)**  
   *Parent does:* Your child builds and tests their model.  
   *Parent says:* Build it. Then test it. Does it show all three things?  
-  *Child mode:* Build your model. Test it. Does it show all three?
+  *Child mode:* Build your model. Then test the three things one by one.
   - Ask: Which of the three things is hardest to show? (good: That galaxies don't grow, because dots drawn with a pen stretch too.; No centre, because the elastic is taped down at one end.)
 - **s3 (10 min)**  
   *Parent does:* Your child shows the model to someone who has not done the unit, and asks what they see.  
   *Parent says:* Show it to someone who has not done the unit. Don't explain at first. Can they see all three things?  
-  *Child mode:* Show it to someone. Can they see all three things?
+  *Child mode:* Show your model without explaining it. Ask what they see.
 
 ## Worksheets
 ### Galaxies and the Growing Universe (core) (core, 15 questions)

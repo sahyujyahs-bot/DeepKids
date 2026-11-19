@@ -712,7 +712,7 @@
      "mins": 3,
      "do": "Play one practice pair face up. Show the burr card and the Velcro card side by side.",
      "say": "Here is a pair to practise with: a burdock burr and Velcro. Why does the burr have hooks? And what did Velcro copy?",
-     "kid": "Practice pair: burr and Velcro. Why does the burr have hooks? What did Velcro copy?",
+     "kid": "Look at the burr card and the Velcro card side by side.",
      "ask": [
       {
        "q": "Why does the burr have hooks, and what did Velcro copy?",
@@ -755,7 +755,7 @@
      "mins": 2,
      "do": "Count the points to find the winner. Then ask each player which design they would most like to use in their own invention.",
      "say": "Which design would you most like to borrow for an invention of your own? What would you make with it?",
-     "kid": "Count your points. Playing alone? Write how many turns it took. Which design would you borrow for an invention?",
+     "kid": "Count your points. Playing alone? Write how many turns it took.",
      "think": "Every pair on the cards began with a living thing that has a problem. Before an inventor copies a design, what must they work out first?",
      "parent": "A good answer is: what problem the living thing has, and how exactly its design solves it. Only then can the same idea be built from materials people can make. For example, a burr has the problem of getting its seeds carried away, and its hooks solve it by catching in fur."
     }
@@ -836,9 +836,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Put the two printed lists and the score sheet on the table. 2. Have a die, a pencil and a timer ready.",
+     "do": "1. Put the two printed lists and the score sheet on the table. 2. Have two dice (or one die you roll twice), a pencil and a timer ready.",
      "say": "Inventors often start with a problem, then look at nature for a design. Today the dice will choose the problem and the living thing. You do the inventing.",
-     "kid": "Put out the two lists and your score sheet. Get a die and a pencil. The dice choose a problem and a living thing. You invent!",
+     "kid": "Put out the two lists and your score sheet. Get two dice and a pencil. The dice choose a problem and a living thing.",
      "context": "This is the first step of Design Dice, an inventing game. You join a home problem with a design from nature."
     },
     {
@@ -846,7 +846,7 @@
      "mins": 3,
      "do": "Play one round together as practice. Use problem 1, the warm water bottle, and nature 5, the termite mound.",
      "say": "Practice round. The water bottle gets warm in the sun. The termite mound has thick walls that slow heat. What could we invent?",
-     "kid": "Practice: a warm water bottle, and a termite mound. How could thick walls help a water bottle? Draw your idea.",
+     "kid": "Practice: a warm water bottle, and a termite mound. How could thick walls help a water bottle? Tell your grown-up your idea.",
      "ask": [
       {
        "q": "How could you test if your bottle cover works?",
@@ -871,9 +871,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Take turns to roll both dice. 2. Each player draws an invention in 2 minutes. 3. They explain it. 4. The others score it with the three points on the sheet.",
-     "say": "Roll, draw for two minutes, then tell us about it. Remember the three points: name the design, say how to test it, and could it really be built?",
-     "kid": "Roll both dice. Draw your invention in 2 minutes. Then explain it, with the design and how to test it.",
+     "do": "1. Take turns to roll both dice. 2. Each player has 2 minutes to invent something. They can draw it, build a quick model from things nearby, or just describe it. 3. They explain it. 4. The others score it with the three points on the sheet.",
+     "say": "Roll, invent for two minutes, then tell us about it. Remember the three points: name the design, say how to test it, and could it really be built?",
+     "kid": "Roll both dice. Invent in 2 minutes: draw it, build a quick model, or just describe it. Then explain the design and how to test it.",
      "parent": "Here are some strong answers. A burr-hook strip on the bag strap and a loop strip on the chair, for problem 2. A label rubbed thickly with candle wax, for problem 3. A pointed nose for the toy car, for problem 5. Grooved soft rubber pads on the chappal, like a tree frog's toe pads, for problem 6. Silly but well-explained ideas deserve the first point too."
     },
     {
@@ -1555,14 +1555,14 @@
      "what": "Drip water on four surfaces, tilt them, and do the dust test. Fill in the table."
     }
    ],
-   "record": "Fill in the table. Draw what a drop looked like from the side on each surface: a ball, a dome or a flat puddle.",
+   "record": "Fill in the table. For each surface, write whether a drop looked like a ball, a dome or a flat puddle.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Lay the four surfaces flat on a tray or the floor. They are the water-repelling leaf, the ordinary leaf, the steel plate and the paper. 2. Hold each leaf only by its stalk or its edge. 3. Ask your child to guess what water will do on each.",
      "say": "Don't touch the top of the leaves with your fingers. Your fingers can rub off the leaf's coat of wax. What do you think water will do on each one?",
-     "kid": "Lay out the two leaves, the steel plate and the paper. Hold leaves by the stalk only. Guess: on which one will water roll?",
+     "kid": "Lay out the two leaves, the steel plate and the paper. Hold leaves by the stalk only. Make a guess before you try.",
      "parent": "Touching or rubbing the top of a lotus or chembu leaf wipes off its wax. Then that spot gets wet like any leaf. Old, dusty or bruised leaves work less well. Pick a fresh one.",
      "context": "This is the first step of The Leaf That Water Can't Wet. You set out a lotus-like leaf and three other surfaces to test with water."
     },
@@ -1571,10 +1571,10 @@
      "mins": 5,
      "do": "1. Put 5 drops of water on each surface, spaced apart. 2. Crouch down so your eyes are level with the surface. 3. Look at the drops from the side.",
      "say": "Get your eyes down low and look at the drops from the side. Are they round like balls, like little domes, or flat?",
-     "kid": "Put 5 drops on each one. Get your eyes down low. Look from the side. Balls, domes, or flat puddles?",
+     "kid": "Put 5 drops on each one. Get your eyes down low and look from the side.",
      "ask": [
       {
-       "q": "What do the drops on the chembu leaf look like?",
+       "q": "What do the drops on the water-repelling leaf look like?",
        "good": [
         "Little silver balls.",
         "Like marbles.",
@@ -1701,7 +1701,7 @@
      "qty": 1
     },
     {
-     "item": "a bucket, filled with water to about 2 cm below the rim",
+     "item": "5 sheets of old newspaper, to catch splashes",
      "qty": 5
     },
     {
@@ -1785,7 +1785,7 @@
      "mins": 5,
      "do": "1. Find the middle value for each shape: put its three numbers in order and take the middle one. 2. Draw a bar chart, one bar for each shape.",
      "say": "Each shape gets one bar. The taller the bar, the bigger the splash.",
-     "kid": "Draw one bar for each shape. A taller bar means a bigger splash. Which shape is most like a kingfisher?",
+     "kid": "Draw one bar for each shape, or stack coins to make each bar. A taller bar means a bigger splash.",
      "check": {
       "t": "mcq",
       "q": "Why does the pointed beak shape splash least?",
@@ -1952,8 +1952,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Compare the times. Then talk about how the termite mound and old Indian houses keep cool.",
-     "say": "Thick walls slow down the heat getting in. Termites need this, because their fungus garden grows well only when the nest stays warm but not hot. Old mud houses use thick walls too.",
-     "kid": "Which house kept its ice longest? Thick walls slow down heat. Termite mounds and mud houses have thick walls too!",
+     "say": "Look at the times. Which house kept its ice longest? Termites live in thick-walled mounds, and old mud houses have thick walls too.",
+     "kid": "Look at your table. Was the wall of the house with the longest-lasting ice thick or thin?",
      "check": {
       "t": "mcq",
       "q": "Why did the ice last longer in the thick-walled cup?",
@@ -2053,14 +2053,14 @@
      "what": "Walk through weeds with a fluffy sock and a smooth sock over your shoes. Count and sort the seeds that ride home."
     }
    ],
-   "record": "Write how many seeds stuck to the fluffy sock and how many to the smooth one. Draw the three strangest seeds, as big as you can.",
+   "record": "Write how many seeds stuck to the fluffy sock and how many to the smooth one. Sort the seeds into groups by how they hold on: hooks, spikes or sticky. Take a photo of the strangest one.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Pull the fluffy sock over one shoe, and the smooth sock or plastic bag over the other. 2. Ask your child to guess which will collect more seeds.",
      "say": "Some plants send their seeds travelling on animals. Seeds carried far away get new ground to grow in. Today, you are the animal. Which sock do you think will carry more seeds home, and why?",
-     "kid": "Pull a fluffy sock over one shoe. Put a smooth sock over the other. Which will collect more seeds? Why?",
+     "kid": "Pull a fluffy sock over one shoe. Put a smooth sock over the other. Make a guess.",
      "context": "This is the first step of the Hitchhiker Sock Walk. You get ready to collect seeds that stick to clothes, like burrs."
     },
     {
@@ -2077,7 +2077,7 @@
      "mins": 8,
      "do": "1. Back home, take the socks off carefully. 2. Pick off the seeds and count them for each sock. 3. Look at a few with a magnifying glass.",
      "say": "Let's count. Then look closely. How is each seed holding on? Hooks, spikes, or something sticky?",
-     "kid": "Count the seeds on each sock. Write the numbers down. Look closely. How does each seed hold on?",
+     "kid": "Count the seeds on each sock. Write the numbers down. Then look at a few seeds closely.",
      "ask": [
       {
        "q": "Why did more seeds stick to the fluffy sock?",
@@ -2128,7 +2128,7 @@
    "title": "Zoom In Like an Inventor",
    "mins": 15,
    "days": 1,
-   "context": "This activity is about looking very closely, the way George de Mestral looked at a burr. You use a magnifying glass, or a phone camera zoomed in, to look at Velcro, leaves, feathers and seeds.",
+   "context": "This activity is about looking very closely, the way George de Mestral looked at a burr. You use a magnifying glass, or a phone camera zoomed in, to look at Velcro, leaves, feathers and seeds. You will find out which of them have tiny hooks, hairs or bumps.",
    "materials": [
     {
      "item": "a magnifying glass, or a phone camera that can zoom in",
@@ -2152,7 +2152,7 @@
      "what": "Look at five things very closely. Draw them as big as your page."
     }
    ],
-   "record": "Draw each thing as big as you can, the way it looks zoomed in. Label one feature you can see on each, and say what it might be for.",
+   "record": "For two things, name one feature you can see and say what it might be for. You can draw one of them very big, or take a zoomed-in photo.",
    "flow": [
     {
      "id": "s1",
@@ -2167,15 +2167,15 @@
      "mins": 6,
      "do": "1. Look at the feather. Gently pull two parts of it apart, then stroke them back together. 2. Look at the leaf. 3. Look at the wool.",
      "say": "Pull the feather apart a little, then stroke it from the bottom to the tip. Watch it zip back together. Feathers have tiny hooks too.",
-     "kid": "Pull a feather apart gently. Now stroke it back together. It zips up! Feathers have tiny hooks inside.",
+     "kid": "Pull a feather apart gently. Now stroke it back together. Does it zip up?",
      "parent": "Each feather has rows of branches called barbs. The barbs carry even smaller branches called barbules, and these have tiny hooks that zip them together, like Velcro. A bird needs their feathers zipped into smooth sheets to fly. They re-zip them by running them through their beak. A strong magnifying glass shows the rows. You may not see the hooks themselves, which is fine."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Help your child draw their two favourite things, very big, and label one feature on each.",
-     "say": "Draw it as if it were the size of a house. What feature can you see? What do you think it is for?",
-     "kid": "Draw your two favourite things, really big. Label one feature on each, like hooks, hairs or bumps.",
+     "do": "Help your child pick their two favourite things. They point to one feature on each and say what it might be for. They can also draw it very big, or take a zoomed-in photo.",
+     "say": "Pick your two favourite things. What feature can you see on each? What do you think it is for?",
+     "kid": "Pick your two favourite things. Point to one feature on each, like hooks, hairs or bumps. Tell your grown-up what it might be for.",
      "think": "If a gecko walks on the outside of your window at night, look at their toes from inside. What do you see?"
     }
    ],
@@ -2233,7 +2233,7 @@
      "mins": 5,
      "do": "1. Spread newspaper on the table. Peel the top paper off one whole side of the cardboard, so the wavy layer shows. 2. Dab paint on the flat eraser or sponge. 3. Press it straight down onto the wavy part, then lift it.",
      "say": "This flat pad is like a hard, flat foot. Look at the print it leaves. Where did the paint go?",
-     "kid": "Paint the flat eraser. Press it straight down on the wavy cardboard. Lift it. Where is the paint?",
+     "kid": "Paint the flat eraser. Press it straight down on the wavy cardboard. Lift it and look at the print.",
      "context": "This is the first step of Gecko Toe Prints. You press a flat painted pad onto bumpy cardboard to see how much it touches."
     },
     {
@@ -2241,7 +2241,7 @@
      "mins": 5,
      "do": "1. Load the brush with paint. 2. Press it straight down, bristles first, onto a fresh wavy part, so the bristles splay out. 3. Lift it and compare the two prints.",
      "say": "Now the brush. Its bristles are like a gecko's tiny hairs. Press it straight down, like a stamp. Compare the two prints.",
-     "kid": "Load the brush with paint. Press it straight down, like a stamp. Lift it. Which print has more paint in the dips?",
+     "kid": "Load the brush with paint. Press it straight down, like a stamp. Lift it. Put the two prints side by side.",
      "ask": [
       {
        "q": "What is different about the two prints?",
@@ -2327,7 +2327,7 @@
      "mins": 4,
      "do": "Compare the lists. Talk about why smooth, hard surfaces worked best.",
      "say": "On smooth steel and glass, the film can get extremely close. Then the atoms of the film and the plate pull on each other. On a towel or a rough wall, the film touches only a few tips, so it falls off. Static electricity helps the film cling too. That is the same effect that makes a rubbed balloon stick to a wall.",
-     "kid": "The film clings to smooth glass and steel. It falls off towels and rough walls. Why? It can't get close enough to them.",
+     "kid": "Sort the surfaces into two groups: the film stayed on, or the film fell off.",
      "parent": "Cling film holds on partly by getting very close to smooth surfaces, where atoms attract, and partly by static electricity. A gecko's feet get close even to rough surfaces, using millions of bendy hair tips. Expect the film to cling to the steel, the mirror and usually the plastic box. It falls off the towel and the wall. Results vary with the brand of film and how clean the surface is. The chopping board may hold the film a little.",
      "check": {
       "t": "mcq",
@@ -2390,7 +2390,7 @@
      "what": "A grown-up coats a spoon with soot. Drip water on it and dip it in water."
     }
    ],
-   "record": "Draw a drop on the clean side of the spoon and a drop on the sooty side.",
+   "record": "Say or write what a drop did on the clean side and on the sooty side. Did it roll like a marble or spread out?",
    "flow": [
     {
      "id": "s1",
@@ -2406,7 +2406,7 @@
      "mins": 5,
      "do": "1. Hold the cool spoon by its handle. Don't touch the soot. 2. Drip a few drops on the clean front of the spoon. 3. Drip a few drops on the sooty back. 4. Tilt it a little.",
      "say": "Look at the drops on the clean side and on the sooty side. Tilt it. What happens?",
-     "kid": "Drip water on the clean side. Now on the sooty side. Tilt the spoon. Which drops roll away like marbles?",
+     "kid": "Drip water on the clean side. Now on the sooty side. Tilt the spoon a little.",
      "ask": [
       {
        "q": "What do the drops do on the soot?",
@@ -2423,7 +2423,7 @@
      "mins": 5,
      "do": "Slowly dip the sooty back of the spoon into the glass of water, and look at it from the side.",
      "say": "Dip it slowly into the water. Look closely. Does the black spoon still look black?",
-     "kid": "Dip the sooty spoon slowly into the water. Look from the side. What colour does it look now?",
+     "kid": "Dip the sooty spoon slowly into the water. Look at it from the side.",
      "think": "Lift the spoon out. Is the sooty side wet or dry? Look, but don't touch it.",
      "check": {
       "t": "mcq",
@@ -2472,7 +2472,7 @@
      "what": "Push your hand through water flat, then like a beak. Feel the difference."
     }
    ],
-   "record": "Draw your flat hand and your beak hand. Draw arrows showing how hard the water pushed back on each.",
+   "record": "Give each hand a push score from 1 (a little) to 5 (a lot) for how hard the water pushed back. Tell your grown-up why.",
    "flow": [
     {
      "id": "s1",
@@ -2487,7 +2487,7 @@
      "mins": 3,
      "do": "1. Now press your fingers tightly together into a point, like a kingfisher's beak. 2. Turn your hand so the fingertips point the way you will move. 3. Sweep it through the water at the same speed.",
      "say": "Now make a beak with your fingers, and lead with the tip. Sweep at the same speed. What's different?",
-     "kid": "Make a beak with your fingers. Lead with the tip. Sweep at the same speed. Is it easier?",
+     "kid": "Make a beak with your fingers. Lead with the tip. Sweep at the same speed.",
      "ask": [
       {
        "q": "Which hand was easier to move through the water?",
@@ -2502,8 +2502,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about the kingfisher and the bullet train.",
-     "say": "The flat hand shoves a lot of water at once. The beak hand pushes the water aside a little at a time. Kingfishers dive like your beak hand. A Japanese bullet train copied this shape for its nose.",
-     "kid": "The flat hand shoves lots of water at once. The beak hand parts it slowly. Kingfishers dive like a beak hand!",
+     "say": "The flat hand shoves a lot of water at once. The beak hand pushes the water aside a little at a time. A Japanese bullet train copied this shape for its nose.",
+     "kid": "Which hand is more like a kingfisher's beak when they dive?",
      "check": {
       "t": "mcq",
       "q": "Why was the beak hand easier to move through the water?",
@@ -2607,9 +2607,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Help your child draw the invention and label each part. Next to it, they write what they copied and how they will test it.",
-     "say": "Draw your invention and label every part. Then write one sentence: the idea I copied is... And one more: I will test it by...",
-     "kid": "Draw your invention. Label each part. Write what you copied. Write how you will test it."
+     "do": "Help your child draw the invention, or build a tiny model, and label each part. Next to it, they write what they copied and how they will test it.",
+     "say": "Show your invention, drawn or as a tiny model, and label every part. Then write one sentence: the idea I copied is... And one more: I will test it by...",
+     "kid": "Draw your invention or build a tiny model. Label each part. Write what you copied and how you will test it."
     },
     {
      "id": "s4",
@@ -2674,7 +2674,7 @@
     {
      "id": "s7",
      "mins": 12,
-     "do": "Make an invention poster: its name, the problem, the living thing and its design, a drawing, and the before and after numbers. Show it to the family.",
+     "do": "Make an invention poster: its name, the problem, the living thing and its design, a drawing or photo, and the before and after numbers. Show it to the family.",
      "say": "Give your invention a name. Then tell the family about it, like a real inventor. Don't forget to give credit to the living thing that taught you.",
      "kid": "Name your invention. Make a poster. Show your family. Say which living thing gave you the idea!",
      "think": "Say which living thing gave you your idea. What problem does that living thing have in their own life?"
@@ -2724,7 +2724,7 @@
     "Real Velcro has hundreds of hooks in a small space. Try making your hooks smaller and closer together.",
     "Some fasteners use tiny mushroom shapes on both sides that snap into each other. Could you make one with no loops at all?"
    ],
-   "your_turn": "Now invent your own fastener copied from nature. Draw it, build it and test it with coins. Does it beat your paperclip version?",
+   "your_turn": "Now invent your own fastener copied from nature. Describe it to your grown-up or draw it, then build it and test it with coins. Does it beat your paperclip version?",
    "flow": [
     {
      "id": "s1",
@@ -2823,7 +2823,7 @@
     "Ask a grown-up to make a sooty Lotus Spoon, and compare how drops roll on it and on your tag.",
     "Stick your name tag on a real chembu leaf and compare how drops roll on the leaf and on your tag."
    ],
-   "your_turn": "Now design your own rain-proof tag. Draw it, make it, and test it against the plain paper tag.",
+   "your_turn": "Now design your own rain-proof tag. Describe it to your grown-up or sketch it, then make it and test it against the plain paper tag.",
    "flow": [
     {
      "id": "s1",
@@ -2855,7 +2855,7 @@
      "mins": 6,
      "do": "Compare the tags. Then read the usual solutions and the creative ideas, and try one improvement.",
      "say": "Which tag would you trust on a school bag in the monsoon? Can you make it even better?",
-     "kid": "Which tag is cleanest? Try one idea to make it even better. Test it the same way.",
+     "kid": "Compare the four tags. Try one idea to make the best one even better. Test it the same way.",
      "check": {
       "t": "mcq",
       "q": "Why did the candle-waxed tag stay cleaner than the taped tag?",

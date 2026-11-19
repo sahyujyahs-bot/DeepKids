@@ -687,7 +687,7 @@
    "title": "The Syrup Race: which liquid is slowest, and does warmth change it?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you race five kitchen liquids down a sloping tray and time each one. Then you race warm honey against honey at room warmth.",
+   "context": "In this experiment you race five kitchen liquids down a sloping tray and time each one. Then you race warm honey against honey at room warmth. You will find out which liquid is slowest, and whether warmth makes honey flow faster.",
    "question": "Which kitchen liquid flows slowest down a slope? And does the same honey flow faster when it is warm?",
    "predict": "Guess first. Put water, coconut oil, shampoo and honey in order, from fastest to slowest. Then guess: will warm honey be faster, slower or the same as honey at room warmth? Why do you think so?",
    "fair_test": "Every liquid gets the same amount, half a level teaspoon, dropped on the same start line. Every lane is on the same tray, at the same slope, with the same finish line. Each lane is used once, so no liquid runs over another's track. The warm honey and the room-warm honey differ only in warmth.",
@@ -740,7 +740,7 @@
      "what": "Race water, oil, shampoo and honey down a sloping tray and time each. Then race warm honey against honey at room warmth."
     }
    ],
-   "record": "Fill in the results table. Then draw the tray with each liquid's lane and how far it went.",
+   "record": "Fill in the results table. Then draw the tray with each liquid's lane and how far it went, or take a photo of the tray.",
    "flow": [
     {
      "id": "s1",
@@ -756,7 +756,7 @@
      "mins": 4,
      "do": "1. Show the four liquids. 2. Let your child tip each bottle slowly and look. 3. Ask for a guess and a reason.",
      "say": "Look at how each one moves in its bottle. Which will be fastest down the tray? Which will be slowest? Why do you think so?",
-     "kid": "Tip each bottle slowly. Watch it move. Which will win? Which will come last? Why?",
+     "kid": "Tip each bottle slowly. Watch how it moves.",
      "ask": [
       {
        "q": "Put them in order from fastest to slowest. What is your reason?",
@@ -792,7 +792,7 @@
      "mins": 3,
      "do": "1. Put half a teaspoon of honey in the small steel bowl. 2. Stand the bowl in the big bowl of warm water. 3. Wait 5 minutes.",
      "say": "This honey is warming in the water. Will it be faster, slower, or the same as the honey you raced at room warmth? Why?",
-     "kid": "Stand the bowl of honey in warm water. Will the warm honey be faster than the room-warm honey? Why?",
+     "kid": "Stand the bowl of honey in warm water. Wait 5 minutes.",
      "adult": true,
      "wait": "Wait 5 minutes while the honey warms. Look back at the table of results.",
      "ask": [
@@ -902,7 +902,7 @@
    "title": "How Many Drops Fit on a Coin?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you add drops of water to a coin, one by one, and count how many fit before the water spills. Then you try soapy water and oil.",
+   "context": "In this experiment you add drops of water to a coin, one by one, and count how many fit before the water spills. Then you try soapy water and oil. You will find out whether soap changes how much water a coin can hold.",
    "question": "How many drops of water can sit on a coin before they spill? Does soapy water or oil hold as many?",
    "predict": "Guess first. How many drops of plain water will fit on a one-rupee coin before it spills? Will soapy water fit more drops, fewer, or the same? Why do you think so?",
    "fair_test": "The same coin is used every time, wiped clean and dry between tries. The drops are all made the same way, with the same dropper or straw, from the same height. Each liquid is tried three times, because one try can be a fluke.",
@@ -943,7 +943,7 @@
      "what": "Count how many drops of water, soapy water and oil fit on a coin before they spill. Try each one three times."
     }
    ],
-   "record": "Fill in the table. Draw the coin from the side, with the water dome just before it spilled.",
+   "record": "Fill in the table. Draw the coin from the side, with the water dome just before it spilled, or tell your grown-up what the dome looked like.",
    "flow": [
     {
      "id": "s1",
@@ -959,7 +959,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason.",
      "say": "How many drops of water do you think will fit on the coin? Why do you think so?",
-     "kid": "How many drops will fit before it spills? Why?",
+     "kid": "Make your guess before you add any drops.",
      "ask": [
       {
        "q": "How many drops will fit, and why?",
@@ -977,7 +977,7 @@
      "mins": 6,
      "do": "1. Drop plain water onto the middle of the coin, one drop at a time. 2. Make a tally mark for every drop. 3. Stop when the water spills over the edge. 4. Dry the coin and repeat twice more.",
      "say": "Count out loud. Look at the coin from the side. What shape is the water making?",
-     "kid": "Add one drop at a time, and count each drop. Look from the side. What shape is the water?",
+     "kid": "Add one drop at a time, and count each drop. Look at the coin from the side.",
      "ask": [
       {
        "q": "What do you notice about the water as you add drops?",
@@ -1082,7 +1082,7 @@
    "title": "Pour and Watch: water and honey",
    "mins": 8,
    "days": 1,
-   "context": "This is a quick start to the unit. You pour water and honey from spoons and watch how differently they move.",
+   "context": "This is a quick start to the unit. You pour water and honey from spoons and watch how differently they move. You will see why two liquids can move so differently.",
    "materials": [
     {
      "item": "a steel plate, two teaspoons, a little water and a little honey",
@@ -1096,14 +1096,14 @@
      "what": "Pour water and honey from spoons onto a plate. Say what you notice, and wonder why."
     }
    ],
-   "record": "Draw the water stream and the honey stream side by side.",
+   "record": "Tell your grown-up one way the two streams were different, or draw them side by side.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Fill one spoon with water and one with honey. 2. Hold both about 10 centimetres above the plate. 3. Tip them at the same moment.",
      "say": "Watch both spoons. Tell me everything you notice about how each liquid moves.",
-     "kid": "Tip both spoons at the same time. Watch closely. What do you notice?",
+     "kid": "Tip both spoons at the same time. Watch closely.",
      "ask": [
       {
        "q": "What do you notice about how each liquid moves?",
@@ -1130,7 +1130,7 @@
      "mins": 3,
      "do": "Ask why the two are so different, and listen to the whole answer.",
      "say": "Both are liquids. Why do you think the honey is so slow?",
-     "kid": "Water and honey are both liquids. Why is honey so slow? What do you think?",
+     "kid": "Water and honey are both liquids. Why is honey so slow?",
      "parent": "Common answers are 'honey is heavy', 'honey is sticky' and 'honey is thick'. Don't correct them yet. The syrup race will test some of them.",
      "think": "How could you find out which of your kitchen liquids is the slowest of all?"
     }
@@ -1173,7 +1173,7 @@
      "what": "Float a loop of thread on water. Touch soap inside the loop and watch it change shape."
     }
    ],
-   "record": "Draw the loop before and after the soap touched it.",
+   "record": "Draw the loop before and after the soap touched it, or take a photo of each.",
    "flow": [
     {
      "id": "s1",
@@ -1189,7 +1189,7 @@
      "mins": 2,
      "do": "Dip the tip of the toothpick in soap. Ask for a guess before it touches the water.",
      "say": "I will touch soap to the water inside the loop. What will the thread do? Why do you think so?",
-     "kid": "Soap will touch the water inside the loop. What will the thread do?",
+     "kid": "Get ready. Soap will touch the water inside the loop.",
      "ask": [
       {
        "q": "What will happen to the loop, and why?",
@@ -1267,7 +1267,7 @@
      "what": "Watch ripples spread and make paper squares bob. Then, with eyes closed, feel where a ripple comes from."
     }
    ],
-   "record": "Draw the basin from above, with the ripple rings and the paper squares.",
+   "record": "Draw the basin from above, with the ripple rings and the paper squares, or tell your grown-up what the rings did to the paper.",
    "flow": [
     {
      "id": "s1",
@@ -1474,7 +1474,7 @@
    "title": "The Kitchen Thickness Ladder: race the foods you eat",
    "mins": 45,
    "days": 3,
-   "context": "This 3-day project uses the syrup race tray to test the liquids in your kitchen. At the end you make a ladder chart, from runniest to thickest.",
+   "context": "This 3-day project uses the syrup race tray to test the liquids in your kitchen. At the end you make a ladder chart, from runniest to thickest. You will find out which foods in your kitchen are runniest and which are thickest.",
    "materials": [
     {
      "item": "the race tray, books and stopwatch from the syrup race",
@@ -1507,7 +1507,7 @@
      "what": "Make the ladder chart, runniest at the top and thickest at the bottom, and explain it to the family."
     }
    ],
-   "record": "A ladder chart on a long strip of paper, with each liquid's name, picture and time on its own rung.",
+   "record": "A ladder chart on a long strip of paper, with each liquid's name and time on its own rung. A small drawing is optional.",
    "flow": [
     {
      "id": "s1",
@@ -1530,9 +1530,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Draw a ladder on a long strip of paper. 2. Put the fastest liquid on the top rung, and the slowest at the bottom. 3. Your child explains the ladder to the family.",
+     "do": "1. Make a ladder on a long strip of paper, with a small slip of paper for each liquid. 2. Put the fastest liquid on the top rung, and the slowest at the bottom. 3. Your child explains the ladder to the family.",
      "say": "Put the fastest at the top and the slowest at the bottom. Then tell everyone what you found.",
-     "kid": "Draw a ladder. Fastest at the top. Slowest at the bottom. Explain it to your family.",
+     "kid": "Make a ladder. Fastest at the top. Slowest at the bottom. Explain it to your family.",
      "wait": "Do this on day 3",
      "think": "Which liquid was thicker than you guessed? What could be in it that makes it thick?",
      "parent": "Good answers name something in the liquid that could thicken it. For example, kanji is thick because of long starch particles from the rice, and sugar syrup is thick because of the sugar dissolved in it."
@@ -1584,7 +1584,7 @@
      "mins": 5,
      "do": "Read the problem aloud and set out the thickeners.",
      "say": "We want water to be as slow as honey. What could we add to it? Why do you think it would work?",
-     "kid": "Make water as slow as honey. What could you add? Why?",
+     "kid": "Make water as slow as honey. Choose what to add.",
      "context": "This is the first step of the Slow Down the Water challenge. You plan how to thicken water."
     },
     {
@@ -1642,7 +1642,7 @@
     "Try different shapes: long and thin, round, or a triangle.",
     "Race two boats in two basins, one with a bigger notch than the other, and see which goes further."
    ],
-   "your_turn": "Now design your own boat. Draw it, test it, and measure how far it goes.",
+   "your_turn": "Now design your own boat. Sketch it or build it from card, test it, and measure how far it goes.",
    "flow": [
     {
      "id": "s1",
