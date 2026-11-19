@@ -720,7 +720,7 @@
      "mins": 3,
      "do": "1. Cut out the cards and lay out the five family mats in a row. 2. Shuffle and deal 5 animal cards to each player. 3. Put the question cards in a pile, face down.",
      "say": "Every animal on these cards has a backbone. They belong to five families: fish, amphibians, reptiles, birds and mammals. To put an animal on their family mat, you must answer a question about them.",
-     "kid": "Lay out the five mats: fish, amphibians, reptiles, birds and mammals. Get five animal cards. To place a card, answer a question about it.",
+     "kid": "Get your five animal cards. Answer a question about a card to put it on its mat.",
      "context": "This is the first step of Five Families, a card game about animals with backbones. Here you set up the game."
     },
     {
@@ -728,7 +728,7 @@
      "mins": 4,
      "do": "Play a practice round together with the Rohu fish card and the BREATHE question.",
      "say": "Let's practise. Here is the rohu, the fish you see at the market. How does a rohu breathe?",
-     "kid": "Practice card: the rohu fish. How do they breathe? Say your answer.",
+     "kid": "Practice with the rohu card. Think about it, then answer.",
      "context": "This is a practice round of Five Families. The animal is a rohu fish, and the question is how they breathe.",
      "ask": [
       {
@@ -755,8 +755,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Play the WARM question with the Garden lizard card.",
-     "say": "Here is a garden lizard. Do they make their own heat, or take heat from outside? Think of a garden lizard lying on a wall in the morning sun.",
-     "kid": "Game moment: the garden lizard. Where does their warmth come from?",
+     "say": "Here is a garden lizard. Do they make their own heat, or take heat from outside?",
+     "kid": "Look at the garden lizard card. Pick the answer you think is right.",
      "context": "This is a game moment in Five Families. The question is where a garden lizard gets their warmth.",
      "check": {
       "t": "mcq",
@@ -775,7 +775,7 @@
      "mins": 10,
      "do": "Play the game until all 25 cards are on the mats. Keep score on the score sheet.",
      "say": "Now let's play properly. Take turns. If you are not sure, think about the animal's skin first. Is it scaly, damp, feathery or furry?",
-     "kid": "Now play the game. Take turns with the cards. Not sure? Look at the skin. Scales, damp skin, feathers or fur?",
+     "kid": "Take turns with the cards. Not sure? Read the clues on the family mats.",
      "context": "This is the main part of Five Families. Players answer questions and place animals on their family mats.",
      "parent": "Tricky cards: the purple frog and the caecilian are amphibians. The caecilian looks like a big worm, but they have a backbone. The bat and the dolphin are mammals. The penguin and ostrich are birds, even though they cannot fly. The seahorse is a fish."
     },
@@ -783,8 +783,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Pick up the bat card and ask the question below.",
-     "say": "Let's look at a tricky one. A bat flies, like a bird. Why are they a mammal?",
-     "kid": "Game moment: the bat. They fly. Are they a bird or a mammal?",
+     "say": "Let's look at a tricky one. Pick up the bat card. A bat flies, like a bird. Which family do you think they belong to?",
+     "kid": "Look at the bat card. Do not decide by flying alone. Think about the skin and the babies.",
      "context": "This is a game moment in Five Families about the bat, an animal that flies but is not a bird.",
      "check": {
       "t": "mcq",
@@ -803,7 +803,7 @@
      "mins": 3,
      "do": "Count the points and name a winner. Then ask the question below.",
      "say": "Well played. Now two last questions. Which family was hardest to fill, and why? Which animals surprised you?",
-     "kid": "Count your points. Who won? Which family was hardest? Which animal surprised you?",
+     "kid": "Count your points. Who won? Which family was hardest to fill?",
      "context": "This is the end of Five Families. Players count points and talk about the trickiest family.",
      "ask": [
       {
@@ -822,7 +822,7 @@
    "title": "Sun, Shade and Snow",
    "mins": 15,
    "players": "2 or more players, best outdoors or in a big room",
-   "context": "This is a running game about keeping warm and cool. Some players are lizards, who take heat from outside. Some are sparrows, who make their own heat.",
+   "context": "This is a running game about keeping warm and cool. Some players are lizards, who take heat from outside. Some are sparrows, who make their own heat. You will find out which animal has an easier time in each kind of weather.",
    "printables": [
     {
      "kind": "cards",
@@ -905,19 +905,19 @@
      "mins": 3,
      "do": "1. Mark the SUN corner and the SHADE corner. 2. Give each player a role card. 3. Give each sparrow 2 food tokens.",
      "say": "Lizards take their heat from outside, from the sun. Sparrows make their own heat inside, from food. Let's see how each one copes with the weather.",
-     "kid": "Are you a lizard or a sparrow? Lizards need the sun. Sparrows need food to stay warm.",
+     "kid": "Take your role card. Are you a lizard or a sparrow?",
      "context": "This is the first step of Sun, Shade and Snow, a running game about keeping warm. Here you set up the corners and the roles."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow. Stop after 10 cards (with 2 players, swap roles and do 10 more).",
+     "do": "Show the weather cards one by one. Call out each one loudly. The rules say what each animal does for each card. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow. Stop after 10 cards (with 2 players, swap roles and do 10 more).",
      "say": "Sunny morning! Hot noon! Cold night! Remember, sparrows, you must spend a grain to stay warm in the cold.",
-     "kid": "Listen for the weather. Act it out fast. Sparrows, give a grain in the cold.",
+     "kid": "Listen for the weather card. Act out what your animal does, as fast as you can.",
      "context": "This is the main part of Sun, Shade and Snow. The caller shows weather cards and players act out how their animal copes.",
      "check": {
       "t": "mcq",
-      "q": "Game moment: COLD NIGHT. What does a lizard do?",
+      "q": "On a COLD NIGHT, what does a lizard do?",
       "options": [
        "Runs around to warm up",
        "Stays still and slow until the sun comes",
@@ -931,8 +931,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Stop the game and ask the questions below.",
-     "say": "Who had a harder time in the snow, lizards or sparrows? Who needed more food?",
-     "kid": "Who did better in the cold? Who needed food? Say what you think.",
+     "say": "Let's talk about the game. Who had a harder time in the snow, lizards or sparrows?",
+     "kid": "Think back to the cold cards. What did each animal need?",
      "context": "This is the last step of Sun, Shade and Snow. Players talk about which animal did better in which weather.",
      "ask": [
       {
@@ -1004,10 +1004,10 @@
     {
      "day": 1,
      "mins": 39,
-     "what": "Fill three bottles with warm water. Dress one in a dry sock and one in a wet sock. Measure all three every 5 minutes for 20 minutes. Then draw a chart."
+     "what": "Fill three bottles with warm water. Dress one in a dry sock and one in a wet sock. Measure all three every 5 minutes for 20 minutes. Then show how much each one cooled as a bar chart."
     }
    ],
-   "record": "Fill in the table. Then work out how much each bottle cooled, by taking the last reading away from the first. Draw a bar for each bottle.",
+   "record": "Fill in the table. Then work out how much each bottle cooled, by taking the last reading away from the first. Make a bar for each bottle: draw it, or stack one coin for each degree.",
    "context": "This is the fur coat test. Three bottles of warm water stand in for three warm animals. One has no coat, one has a dry woollen coat, and one has a wet coat. A thermometer shows which one stays warm longest.",
    "example_chart": {
     "type": "bar",
@@ -1053,7 +1053,7 @@
      "mins": 4,
      "do": "Show your child a woollen sweater, shawl or blanket. Ask the questions below.",
      "say": "On a cold morning, we put on a sweater. Does the sweater make heat, like a heater? Or does it do something else?",
-     "kid": "Hold something woollen. Does it make heat? Or does it do something else?",
+     "kid": "Hold the woollen thing. Is it warm, or as cool as the room?",
      "context": "This is the start of the fur coat test. It begins by asking what a sweater, fur or feathers really do.",
      "check": {
       "t": "mcq",
@@ -1072,7 +1072,7 @@
      "mins": 4,
      "do": "1. A grown-up fills the three bottles with the same amount of warm water, using the measuring cup. 2. Put the lids on. 3. Put one bottle into a dry sock. 4. Soak the other sock in tap water, squeeze it until it stops dripping, and put the third bottle in it.",
      "say": "These bottles are our pretend animals. The warm water is their body heat. One has no fur. One has a dry fur coat. One has a wet coat, like a dog that has jumped in a pond.",
-     "kid": "Three bottles are three animals. One has no coat. One has a dry coat. One has a wet coat.",
+     "kid": "Put the lids on. Slip one bottle into the dry sock and one into the wet sock.",
      "context": "This is step 2 of the fur coat test. Here you fill the bottles and dress two of them in socks.",
      "adult": true,
      "parent": "Use water at about 45 °C: hot-bath warm, so you can keep a finger in it. In the next step you measure each bottle at the start. They should all be within one degree. If not, pour a little warm water out of the hottest one. No water thermometer? A digital fever thermometer works if the water starts at about 42 °C, because most read only between 32 and 42 °C. Dip only the tip, and wash it well afterwards. Do not use a steel flask with two walls: it keeps heat in so well that you will see almost no change."
@@ -1091,8 +1091,8 @@
      "id": "s4",
      "mins": 20,
      "do": "Every 5 minutes (at 5, 10, 15 and 20 minutes), measure all three bottles and write the numbers in the table. Between readings, look at the questions below.",
-     "say": "Every five minutes we measure again. While we wait, think. Which animals have the thickest coats? Which animals must not get their fur wet?",
-     "kid": "Measure every 5 minutes, 4 times. While you wait, think. Which animals have thick coats?",
+     "say": "Every five minutes we measure again. While we wait, let's think about real animals and their coats.",
+     "kid": "Measure all three bottles every 5 minutes. Write each number in the table.",
      "context": "This is the waiting part of the fur coat test. You measure all three bottles every 5 minutes for 20 minutes.",
      "ask": [
       {
@@ -1117,9 +1117,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Work out how much each bottle cooled. Take the last reading away from the first. Draw a bar for each bottle.",
+     "do": "Work out how much each bottle cooled. Take the last reading away from the first. Then make a bar for each bottle: draw it, or stack one coin for each degree.",
      "say": "Let's see which bottle lost the least heat. Take the last number away from the first number, for each bottle.",
-     "kid": "For each bottle, take the last number from the first. That is how much it cooled.",
+     "kid": "For each bottle, take the last number away from the first number. Write it in the last column.",
      "context": "This is step 5 of the fur coat test. Here you work out how much each bottle cooled in 20 minutes.",
      "check": {
       "t": "mcq",
@@ -1192,7 +1192,7 @@
      "what": "Fill two tumblers with cool water. Put one in the sun and one in the shade. Measure both every 15 minutes for half an hour. Then compare."
     }
    ],
-   "record": "Fill in the table. Work out how much each tumbler warmed. Draw two bars.",
+   "record": "Fill in the table. Work out how much each tumbler warmed. Make two bars: draw them, or stack one coin for each degree.",
    "context": "This is the lizard on a wall test. Two steel tumblers of cool water stand in for two lizards. One lies in the sun and one hides in the shade. A thermometer shows how much the sun warms them.",
    "example_chart": {
     "type": "bar",
@@ -1232,9 +1232,10 @@
      "id": "s1",
      "mins": 4,
      "do": "Ask your child about the house lizard at home, or show a picture of a lizard basking on a wall. Ask the question below.",
-     "say": "A lizard cannot make much heat of their own. Their body is about as warm as the air or the wall they sit on. In the morning, many lizards lie in the sun. How much do you think the sun can warm something like that?",
-     "kid": "A lizard is as warm as the things around them. How much can the sun warm them? Let's test it.",
+     "say": "In the morning, many lizards lie still on a sunny wall. Later we will test how much the sun can warm something. First, what do you think the lizard is doing?",
+     "kid": "Look at the lizard on the wall. Where are they, and what are they doing?",
      "context": "This is the start of the lizard on a wall test. It begins by thinking about how lizards warm up.",
+     "parent": "A lizard makes very little heat of their own. Their body is about as warm as the air or the wall they sit on. That is why they lie in the sun.",
      "adult": false,
      "ask": [
       {
@@ -1258,9 +1259,9 @@
     {
      "id": "s3",
      "mins": 30,
-     "do": "Measure both tumblers after 15 minutes and after 30 minutes. In between, do something else, like reading the story or playing a game.",
-     "say": "Now we wait. A lizard waits too. They cannot hurry the sun.",
-     "kid": "Now wait. Check at 15 minutes and 30 minutes. Write the numbers.",
+     "do": "Measure both tumblers after 15 minutes and after 30 minutes. In between, do something else, like reading the story or playing a game. After 30 minutes, take the start number away from the last number for each tumbler.",
+     "say": "Now we wait while the sun warms the water. We will measure again at 15 minutes and at 30 minutes.",
+     "kid": "While you wait, set a timer. When it rings, measure both tumblers and write the numbers.",
      "context": "This is the waiting part of the lizard on a wall test. You measure both tumblers twice.",
      "check": {
       "t": "mcq",
@@ -1339,7 +1340,7 @@
      "what": "Look at all three again. Which jelly eggs are still soft and wet? Then say what you found out."
     }
    ],
-   "record": "Draw how each clump looks at the start, after 3 hours and after 1 day.",
+   "record": "Fill in the table. For each place, write a word or two for how the jelly eggs look, such as soft, sticky or crusty. A photo works too.",
    "context": "This is the egg in the air test. Soaked sabja seeds look and feel like frog eggs: tiny black dots in clear jelly. We see what happens to jelly eggs in open air, in water, and inside an eggshell.",
    "setup": [
     {
@@ -1379,7 +1380,7 @@
      "mins": 5,
      "do": "After 3 hours, look at all three. Lift the top half of the eggshell quickly, look, and tape it shut again. Look at all three once more the next day, and open the eggshell then.",
      "say": "Which jelly eggs are still soft and wet? Which are drying out?",
-     "kid": "Look at all three. Which are still wet? Which dried up?",
+     "kid": "Look at each spoonful. Press it gently with a clean finger. Is it soft and wet, or crusty and dry?",
      "context": "This is step 3 of the egg in the air test. You check the jelly eggs after 3 hours and after a day.",
      "check": {
       "t": "mcq",
@@ -1426,7 +1427,7 @@
      "what": "Hold a steel spoon in your fist for 3 minutes. Feel it warm up. Ask where the warmth came from."
     }
    ],
-   "record": "Draw your fist and the spoon. Draw arrows to show which way the warmth moved.",
+   "record": "Tell your grown-up which spoon felt warmer, and which way the warmth moved. Or draw your fist and the spoon, with arrows for the warmth.",
    "context": "This is a short noticing activity. You hold a steel spoon in your fist and feel it warm up. It shows that your body makes heat, and a spoon does not.",
    "setup": [
     {
@@ -1444,15 +1445,15 @@
      "mins": 2,
      "do": "Give your child two steel spoons that have been lying in the room. Ask them to touch both to their cheek.",
      "say": "Touch both spoons to your cheek. How do they feel? Now hold one spoon tight in your fist. Keep the other on the table.",
-     "kid": "Touch both spoons to your cheek. Do they feel cool? Now hold one tight in your fist.",
+     "kid": "Touch both spoons to your cheek. Are they warm or cool? Now hold one tight in your fist.",
      "context": "This is the start of the spoon in your fist. You feel two steel spoons, then hold one in your hand."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Wait 3 minutes. Then ask your child to open the fist and touch both spoons to their cheek again.",
-     "say": "Now open your hand. Touch both spoons to your cheek again. What do you notice? What do you wonder?",
-     "kid": "Open your hand. Touch both spoons to your cheek. What do you notice?",
+     "say": "Now open your hand. Touch both spoons to your cheek again. Tell me about the two spoons.",
+     "kid": "Open your hand. Touch both spoons to your cheek again. Compare them.",
      "context": "This is the noticing step of the spoon in your fist. After 3 minutes, you compare the held spoon with the other one.",
      "ask": [
       {
@@ -1487,7 +1488,7 @@
      "mins": 4,
      "do": "Ask the question below. Then say that this unit is about animals that make their own heat and animals that do not.",
      "say": "Some animals are like your hand. They make their own heat. Others are more like the spoon. They warm up only when something warm is near them, like the sun. Which animals do you think are like the spoon?",
-     "kid": "Some animals make heat, like your hand. Some are like the spoon. They need the sun. Guess which ones.",
+     "kid": "Your hand made heat. The spoon only got heat from your hand. Think about which animals are like the spoon.",
      "context": "This is the last step of the spoon in your fist. It links the spoon to animals that make their own heat and animals that do not.",
      "ask": [
       {
@@ -1514,7 +1515,7 @@
      "qty": 1
     },
     {
-     "item": "a spotting chart with five columns (fish, amphibians, reptiles, birds, mammals), drawn in the notebook in step 1",
+     "item": "a spotting chart with five columns (fish, amphibians, reptiles, birds, mammals), ruled in the notebook in step 1",
      "qty": 1
     }
    ],
@@ -1527,7 +1528,7 @@
     }
    ],
    "record": "Tick every vertebrate you see, in the column for their group. Next to each, write one thing they were doing to keep warm or cool.",
-   "context": "This is a spotting activity for animals with backbones that live around a city home: crows, pigeons, house lizards, dogs, cats, the fish at the market, and people. You sort them into the five groups and watch how each one keeps warm or cool.",
+   "context": "This is a spotting activity for animals with backbones that live around a city home: crows, pigeons, house lizards, dogs, cats, the fish at the market, and people. You sort them into the five groups and watch how each one keeps warm or cool. You will find out which groups live around your home, and which are hard to find.",
    "setup": [
     {
      "art": "A parent and child at a flat's window with a notebook, pointing at a crow on a wire and pigeons on the ledge, a house lizard on the wall inside.",
@@ -1546,9 +1547,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw five columns in the notebook, one for each group: fish, amphibians, reptiles, birds and mammals. Sit at a window or on the balcony together.",
+     "do": "Rule five columns in the notebook and write one group at the top of each: fish, amphibians, reptiles, birds and mammals. Sit at a window or on the balcony together.",
      "say": "Today we are animal spotters. We only count animals with a backbone. For each one, we look at what they are doing to stay warm or cool.",
-     "kid": "You are an animal spotter. Count animals with a backbone. Watch how they keep warm or cool.",
+     "kid": "You are an animal spotter. Look for animals with a backbone. Tick each one on your chart.",
      "context": "This is the start of backbone spotting. You get your chart ready at a window or balcony.",
      "adult": false
     },
@@ -1556,8 +1557,8 @@
      "id": "s2",
      "mins": 20,
      "do": "Watch for about 20 minutes. Tick each vertebrate in the right column and note what they are doing.",
-     "say": "Look, a crow. Which group? Are they in the sun or the shade? Is there a house lizard on a wall? Where are they sitting?",
-     "kid": "Spot an animal. Which group? Tick them. Are they in sun or shade?",
+     "say": "When you see an animal, ask: which group is this animal in? Are they in the sun or in the shade? Keep looking for a house lizard on a wall too.",
+     "kid": "Spot an animal. Tick it in its group's column. Then write what it is doing.",
      "context": "This is the main part of backbone spotting. You spot animals, sort them and watch how they keep warm or cool.",
      "adult": false,
      "ask": [
@@ -1581,9 +1582,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Count the ticks in each column and talk about the questions below.",
+     "do": "Count the ticks in each column together. Talk about which group had the most and the fewest, then ask the question below.",
      "say": "Which group did we see most? Which group was hardest to find? Why do you think that is?",
-     "kid": "Count your ticks. Which group did you see most? Which was hardest to find?",
+     "kid": "Count the ticks in each column. Is any column empty?",
      "context": "This is the last step of backbone spotting. You count what you found and think about why.",
      "check": {
       "t": "mcq",
@@ -1625,8 +1626,8 @@
      "what": "Try three animal ways to keep cool: sweating, panting and flapping ears."
     }
    ],
-   "record": "Write which wrist felt cooler, and why. Draw one animal and their way of keeping cool.",
-   "context": "This activity tries three ways animals keep cool: sweating like people and horses, panting like dogs, and flapping big ears like elephants.",
+   "record": "Write which wrist felt cooler, and why. Then pick one animal and show their way of keeping cool: act it out, or draw it.",
+   "context": "This activity tries three ways animals keep cool: sweating like people and horses, panting like dogs, and flapping big ears like elephants. You will find out why water drying off a body cools it.",
    "setup": [
     {
      "art": "A child with one wet wrist and one dry wrist held up in front of a hand fan.",
@@ -1646,8 +1647,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Dip one wrist in water. Keep the other dry. 2. Fan both wrists for 30 seconds. 3. Ask which feels cooler.",
-     "say": "Let's be people and horses first. We sweat. Wet one wrist and fan both. Which one feels cooler?",
-     "kid": "Wet one wrist. Fan both. Which one feels cooler?",
+     "say": "Let's start with how people cool down. We sweat. Wet one wrist, then fan both.",
+     "kid": "Dip one wrist in the water. Keep the other dry. Fan both for 30 seconds.",
      "context": "This is the first part of cool down like them. You test how wet skin cools, the way sweat does.",
      "check": {
       "t": "mcq",
@@ -1666,7 +1667,7 @@
      "mins": 4,
      "do": "Ask your child to pant for ten seconds with an open mouth, then breathe normally. Does the tongue feel cooler?",
      "say": "Dogs hardly sweat. So they pant. Fast breaths dry the water off their tongue and mouth, and that carries heat away.",
-     "kid": "Dogs can't sweat much. They pant. Pant for ten seconds. Does your tongue feel cooler and drier?",
+     "kid": "Pant for ten seconds like a dog, with your mouth open. Then breathe normally. Does your tongue feel different?",
      "context": "This is the second part of cool down like them. You pant like a dog."
     },
     {
@@ -1685,7 +1686,7 @@
        ]
       },
       {
-       "q": "What does a lizard do?",
+       "q": "What does a lizard do on a hot day?",
        "good": [
         "They go into the shade or a crack in the wall."
        ]
@@ -1745,7 +1746,7 @@
      "mins": 4,
      "do": "A grown-up fills both bottles with the same warm water. Measure the start temperature of each.",
      "say": "The big bottle is an elephant. The small bottle is a mouse. Both start just as warm. Which do you think will cool down faster?",
-     "kid": "The big bottle is an elephant. The small bottle is a mouse. Which will cool faster? Guess.",
+     "kid": "Look at the two bottles. Which one do you think will cool faster?",
      "context": "This is the start of big body, small body. You fill a big and a small bottle with warm water.",
      "adult": true
     },
@@ -1763,7 +1764,7 @@
      "mins": 4,
      "do": "Work out how much each cooled. Ask the questions below.",
      "say": "Which one cooled faster? So which animal needs to make heat faster, to stay warm: the mouse or the elephant?",
-     "kid": "Which bottle cooled faster? Which animal must eat more for their size?",
+     "kid": "Work out how much each bottle cooled. Write it in your table.",
      "context": "This is the last step of big body, small body. You compare how much each bottle cooled.",
      "check": {
       "t": "mcq",
@@ -1854,7 +1855,7 @@
      "mins": 8,
      "do": "On day 3, look at all the numbers together. Ask the questions below.",
      "say": "How much did the air change from morning to evening? How much did your body change?",
-     "kid": "Look at your numbers. Did the air change a lot? Did you?",
+     "kid": "Find the highest and lowest air number, and the highest and lowest body number. Which changed more?",
      "context": "This is the last step of my steady warmth. You compare how much the air and your body changed.",
      "check": {
       "t": "mcq",
@@ -1881,7 +1882,7 @@
      "qty": 1
     },
     {
-     "item": "crayons or colour pencils",
+     "item": "a pencil or pen",
      "qty": 1
     }
    ],
@@ -1897,20 +1898,20 @@
    "setup": [
     {
      "art": "A big sheet of paper divided into five rows, each with a small drawing of a rohu, a frog, a turtle, a sparrow and a cow.",
-     "caption": "1. Draw five rows, one for each group."
+     "caption": "1. Make five rows, one for each animal."
     },
     {
      "art": "A child drawing many tiny eggs in the fish row and one calf with their mother in the cow row.",
-     "caption": "2. Draw how many eggs or babies, and who cares for them."
+     "caption": "2. Write how many eggs or babies, and who cares for them."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "do": "Draw five rows: rohu fish, frog, olive ridley turtle, house sparrow, cow. Read out the facts below and fill in the chart together.",
+     "do": "Make five rows on the paper. Write one animal in each row: rohu fish, frog, olive ridley turtle, house sparrow, cow. Read out the facts and fill in the chart together.",
      "say": "A rohu lays lakhs of eggs and swims away. A frog lays hundreds or thousands of jelly eggs and leaves them. An olive ridley turtle lays about a hundred eggs in the sand and goes back to the sea. A sparrow lays three to five eggs and feeds her chicks. A cow has one calf and feeds them milk for months.",
-     "kid": "Fill in the chart. How many eggs or babies? Who looks after them?",
+     "kid": "For each animal, write how many eggs or babies, and who looks after them.",
      "context": "This is the start of who looks after the babies. You fill in a chart of five animals."
     },
     {
@@ -1918,11 +1919,11 @@
      "mins": 8,
      "do": "Look at the chart together and ask the questions below.",
      "say": "Look at the numbers. Which animals have the most babies? Which ones look after their babies most? Do you see a pattern?",
-     "kid": "Look at the chart. Which animals have many babies? Which ones care for them most? Do you see a pattern?",
+     "kid": "Look down the column for how many. Which animal has the most? Which has the fewest?",
      "context": "This is the pattern step of who looks after the babies. You look for a link between how many babies and how much care.",
      "check": {
       "t": "mcq",
-      "q": "Which is usually true?",
+      "q": "Which is usually true about how many babies an animal has and how much care they get?",
       "options": [
        "Animals with many eggs care for each one a lot",
        "Animals with many eggs usually leave them, and animals with few young care for them",
@@ -1937,7 +1938,7 @@
      "mins": 6,
      "do": "Tell your child about the mugger crocodile, the king cobra and the emperor penguin. Add them to the chart.",
      "say": "There are surprises in every group. A mugger crocodile guards her nest and carries her babies to the water in her mouth. A king cobra builds a nest of leaves. A father emperor penguin holds his egg on his feet for two months.",
-     "kid": "Some reptiles care for babies too. Mugger crocodiles carry babies in their mouths. Add them to the chart.",
+     "kid": "Add three more rows: mugger crocodile, king cobra and emperor penguin. Write who looks after their young.",
      "context": "This is the last step of who looks after the babies. You add some surprising animal parents to the chart."
     }
    ]
@@ -1985,7 +1986,7 @@
      "what": "Build your nest around a small bottle of warm water, which is your egg. Measure how warm it stays after 20 minutes. Compare with a bare bottle."
     }
    ],
-   "record": "Draw your nest and label what you used. Write the egg's temperature at the start and after 20 minutes, with and without your nest.",
+   "record": "List what you used for your nest, or take a photo of it. Write the egg's temperature at the start and after 20 minutes, with and without your nest.",
    "context": "In this two-day project you build a nest around a small bottle of warm water, which stands in for an egg. The nest should keep it warm, the way birds keep their eggs warm. Then you test it with a thermometer.",
    "setup": [
     {
@@ -2005,7 +2006,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Collect dry, soft nest materials at home. Then look out of the windows and balconies for a pigeon nest. Do not touch it.",
+     "do": "Collect dry, soft nest materials at home. Then look out of the windows and balconies for a pigeon nest. Do not touch it. If you cannot find one, that is fine.",
      "say": "Birds must keep their eggs warm, or the babies inside will not grow. So they build nests and sit on them. Let's collect things a bird might use, and look for a real nest.",
      "kid": "Collect soft, dry things. Look for a pigeon nest. Don't touch it.",
      "context": "This is day 1 of nest builder. You collect materials and look for a real nest.",
@@ -2016,7 +2017,7 @@
      "id": "s2",
      "mins": 25,
      "do": "A grown-up fills two small bottles with the same warm water. Build a nest around one bottle. Leave the other bare. Measure both at the start and after 20 minutes.",
-     "say": "Now build a nest around your egg. Think. What kept the bottle warm in the fur coat test?",
+     "say": "Now build a nest around your egg, the small bottle of warm water. What do you think will keep it warm?",
      "kid": "Build a nest round one warm bottle. Leave one bare. Measure both after 20 minutes.",
      "context": "This is day 2 of nest builder. You build a nest and test whether it keeps the egg warm.",
      "adult": true,
@@ -2037,7 +2038,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Compare the two eggs. Improve your nest and test again if you have time.",
-     "say": "How many degrees warmer is your nested egg? How could you make the nest better? A real bird adds one more thing. What is it?",
+     "say": "How many degrees warmer is your nested egg? How could you make the nest better?",
      "kid": "Which egg stayed warmer? How can you make your nest better?",
      "context": "This is the last step of nest builder. You compare and improve your nest.",
      "ask": [
@@ -2080,7 +2081,7 @@
     "Put the cube in a cup, inside a bigger cup, with cotton wool between, like the double walls of a flask.",
     "Try a layer of cotton wool and a layer of foil together."
    ],
-   "your_turn": "Now invent your own ice coat. Draw it, build it and time it. Did it beat the bare ice cube?",
+   "your_turn": "Now invent your own ice coat. Tell your grown-up your plan, build it and time it. Did it beat the bare ice cube?",
    "context": "This is a design challenge. You build a coat that keeps an ice cube from melting, to find out if fur and feathers can keep heat out as well as in.",
    "setup": [
     {
@@ -2097,8 +2098,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Ask the question below. Then let your child choose materials.",
-     "say": "In the Fur Coat Test, the dry woollen sock kept a warm bottle warm. Do you think a woollen sock could keep an ice cube cold? Some people think a sweater would make it melt faster.",
-     "kid": "Will a woollen coat make ice melt faster, or slower? Guess first.",
+     "say": "A dry woollen sock can keep a warm bottle warm. Do you think a woollen sock could keep an ice cube cold?",
+     "kid": "Look at the things from home. Which ones might make a good coat for an ice cube?",
      "context": "This is the start of save the ice cube. You guess whether a coat keeps cold things cold.",
      "check": {
       "t": "mcq",
@@ -2115,8 +2116,8 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Build the coats. Leave one bare cube as the comparison. Put all the cubes out at the same time on a plate each. Check every 10 minutes and note which is melting.",
-     "say": "Let's check. Which one is a puddle? Which one is still a cube?",
+     "do": "Build the coats. Leave one bare cube as the comparison. Put all the cubes out at the same time, each in its own bowl. Check every 10 minutes and note which is melting.",
+     "say": "Let's wrap each cube in a different coat and leave one bare. Every ten minutes, look: which one is a puddle? Which one is still a cube?",
      "kid": "Check every 10 minutes. Which ice cube is melting fastest?",
      "context": "This is the testing part of save the ice cube. You check each cube every 10 minutes.",
      "parent": "A bare cube melts in about 20 to 40 minutes in a warm room, and a wrapped one lasts longer, so keep checking after the bare cube has melted. Bigger cubes (frozen in a small cup) are easier to compare."
@@ -2125,8 +2126,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about the winner and the questions below.",
-     "say": "Which coat won? How is that like a camel's fur in the desert sun?",
-     "kid": "Which coat won? How is a camel's fur like your coat?",
+     "say": "Which coat won? Why do you think it worked best?",
+     "kid": "Which coat kept its ice cube longest? Compare it with the bare cube.",
      "context": "This is the last step of save the ice cube. You talk about which coat worked best and why.",
      "ask": [
       {
@@ -2166,7 +2167,7 @@
     "A clay pot stays cool when wet, like a matka. Could a wet clay pot help?",
     "Some frogs hide in tree holes full of rainwater. Could a small cup of water nearby keep the air damp?"
    ],
-   "your_turn": "Design your own frog hideout. Draw it, build it, and weigh or squeeze the sponge after two hours. Which stayed wettest?",
+   "your_turn": "Design your own frog hideout. Tell your grown-up your plan, build it, and squeeze the sponge after two hours. Which stayed wettest?",
    "context": "This is a design challenge about amphibians. Frogs breathe through damp skin, so they must not dry out. You build a hideout that keeps a wet sponge frog damp in the sun.",
    "setup": [
     {
@@ -2183,8 +2184,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together and look at the materials.",
-     "say": "A frog breathes through their skin, so their skin must stay damp. If it dries out, the frog is in danger. That is why frogs hide in the day and come out in the rain.",
-     "kid": "A frog's skin must stay wet. Build them a damp, shady home.",
+     "say": "A frog breathes partly through their skin, so their skin must stay damp. Today the wet sponge is our frog. We build a home that keeps the sponge damp in the sun.",
+     "kid": "The wet sponge is your frog. Think about how you could keep it damp in the sun.",
      "context": "This is the start of a damp home for a frog. You learn why frogs need damp places.",
      "check": {
       "t": "mcq",
@@ -2201,8 +2202,8 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Build the hideout. Put it and a bare wet sponge in the sun. Wait two hours, doing other things.",
-     "say": "Let's build it and wait. Real frogs wait out the hot day too.",
+     "do": "Soak both sponges and squeeze them until they stop dripping. Build the hideout around one. Put both in the same sunny spot. Wait two hours, doing other things.",
+     "say": "Let's build the hideout. Then we wait and see which sponge stays wetter.",
      "kid": "Build your hideout. Put it in the sun with a bare sponge. Wait two hours.",
      "context": "This is the building part of a damp home for a frog.",
      "wait": "Leave it for two hours"
@@ -2212,7 +2213,7 @@
      "mins": 5,
      "do": "Squeeze each sponge over its own cup. Compare the water.",
      "say": "Which sponge gave more water? If it was the one in your hideout, your hideout kept your frog damp.",
-     "kid": "Squeeze both sponges. Which gave more water?",
+     "kid": "Squeeze each sponge over its own cup. Look at the two cups.",
      "context": "This is the last step of a damp home for a frog. You squeeze the sponges to see which stayed wetter."
     }
    ]

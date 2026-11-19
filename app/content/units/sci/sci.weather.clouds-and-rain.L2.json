@@ -268,7 +268,7 @@
    "title": "The Spray Plate: how many sprays until a drop runs down?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you spray a fine mist onto a steel plate, one spray at a time. You count how many sprays it takes before a drop grows big enough to run down. It shows how a cloud's tiny drops turn into rain.",
+   "context": "In this experiment you spray a fine mist onto a steel plate, one spray at a time. You count how many sprays it takes before a drop grows big enough to run down. You will find out why a cloud's tiny drops do not fall at once, and what has to happen before rain falls.",
    "question": "When tiny drops of mist land on a plate, do they run down straight away? How many sprays does it take before a drop runs down?",
    "predict": "When the plate is sprayed once, will the water run down straight away? How many sprays do you think it will take before a drop runs down? Why do you think so?",
    "fair_test": "We stand the plate the same way each time, and spray from the same distance, one ruler length away. We spray once at a time and count every spray. We wipe the plate dry before each try. We do three tries, because one try can be just by chance.",
@@ -312,7 +312,7 @@
      "what": "First guess how many sprays it will take. Then spray the plate one spray at a time, and count until a drop runs down. Do it three times, and say what you found."
     }
    ],
-   "record": "Write your guess. Make one tally mark for each spray. Circle the mark for the spray when the first drop ran down. Draw the plate after 2 sprays, and again just before the drop ran down.",
+   "record": "Write your guess. Make one tally mark for each spray. Circle the mark for the spray when the first drop ran down. Draw the plate after 2 sprays, and again just before the drop ran down. Or tell your grown-up what the drops looked like, and they write it down.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -366,11 +366,11 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Do this in the kitchen or bathroom, where a wet wall does not matter. 2. Stand the plate on its edge on the tray, leaning against the wall. 3. Turn the nozzle to its finest mist. 4. Show your child the plate and the bottle.",
-     "say": "We are going to spray a fine mist onto this plate, one spray at a time. Will the water run down straight away? How many sprays will it take? Why do you think so?",
-     "kid": "Look at the plate and the spray bottle. Will the water run down at once? Guess how many sprays. Say why.",
+     "say": "We will spray a fine mist onto this plate, one spray at a time. A cloud is made of tiny drops like these. Let us see what they do.",
+     "kid": "Look at the plate and the spray bottle. Think about what the water will do.",
      "ask": [
       {
-       "q": "How many sprays will it take? Why?",
+       "q": "Will the water run down at once? How many sprays will it take? Why?",
        "good": [
         "One, because water always runs down.",
         "Lots, because the mist is tiny.",
@@ -384,8 +384,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Your child holds the bottle one ruler length from the plate. 2. They spray once. 3. You both look closely at the plate from the side.",
-     "say": "Spray once. Now look very closely. What is on the plate? Is anything moving?",
-     "kid": "Spray once. Look very closely at the plate. What do you see? Does anything move?",
+     "say": "Spray once. Now look closely from the side. Is anything moving?",
+     "kid": "Spray once. Look very closely at the plate.",
      "ask": [
       {
        "q": "What do you see on the plate?",
@@ -402,8 +402,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Your child sprays one spray at a time, with a short wait between. 2. You make one tally mark for each spray. 3. Stop when the first drop runs down. 4. Count the marks together.",
-     "say": "Keep spraying, one at a time. I will make a mark for each spray. Watch the drops. Shout stop when one runs down.",
-     "kid": "Spray again, one at a time. Watch the drops grow. Shout stop when one runs down.",
+     "say": "Keep spraying, one at a time. I will make a mark for each spray.",
+     "kid": "Spray again, one at a time. Watch the drops. Shout stop when one runs down.",
      "ask": [
       {
        "q": "What happened to the tiny drops as you kept spraying?",
@@ -420,7 +420,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Wipe the plate completely dry. 2. Do the test again, from the same distance, counting every spray. 3. Dry it and do it a third time. 4. Write all three numbers in the table.",
-     "say": "Let us do it twice more, the same way, in case the first try was just by chance. Did you get the same number each time?",
+     "say": "Let us do it twice more, the same way, in case the first try was just by chance.",
      "kid": "Wipe the plate dry. Do it again. Then once more. Write your three numbers.",
      "ask": [
       {
@@ -436,9 +436,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Ask your child why the tiny drops stayed still and what made one run down. 2. Then tell them that a cloud is made of drops even tinier than the mist. 3. Take one big drop on the tip of a spoon, about as big as a pea. Touch it to the dry plate near the top and watch it run.",
-     "say": "Why did the first sprays not run down? What had to happen first? Now watch one big drop from a spoon. A cloud is made of drops even tinier than the mist.",
-     "kid": "Why did the tiny drops stay still? What made one run down? Now watch one big drop from a spoon on the plate.",
+     "do": "1. Take one big drop on the tip of a spoon, about as big as a pea. 2. Touch it to the dry plate near the top and watch it run. 3. Tell your child that a cloud is made of drops even tinier than the mist. Then ask the question below.",
+     "say": "Now watch one big drop from a spoon. A cloud is made of drops even tinier than this mist.",
+     "kid": "Watch what the big drop from the spoon does on the plate.",
      "ask": [
       {
        "q": "What has to happen in a cloud before rain falls?",
@@ -468,7 +468,7 @@
    "title": "Raindrops in Atta: are all raindrops the same size?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you catch real raindrops in a plate of flour (atta). Each drop makes a little ball of dough, so you can see how big it was. Do it from a balcony or a window. You need a rainy day, so if it is not raining, keep this for the next rainy day.",
+   "context": "In this experiment you catch real raindrops in a plate of flour (atta). You will find out whether all raindrops are the same size. Each drop makes a little ball of dough, so you can see how big it was. Do it from a balcony or a window. You need a rainy day, so if it is not raining, keep this for the next rainy day.",
    "problem": "Rain falls from clouds as drops. In this experiment you catch real raindrops in a plate of flour. Each raindrop that lands in the flour makes one small ball of dough. A bigger raindrop makes a bigger ball. So the size of each dough ball shows you the size of the raindrop that made it.",
    "question": "Are all raindrops the same size, or are some big and some small?",
    "predict": "When we catch raindrops in flour, will all the dough balls be the same size? Why do you think so?",
@@ -508,7 +508,7 @@
      "what": "On a rainy day, hold the flour plate out in the rain for 3 seconds. Leave it indoors for 20 minutes while the balls firm up. Then sieve them out and sort them by size."
     }
    ],
-   "record": "Draw the three circles. Put the dough balls in the right circle and count them. Write the numbers under each circle.",
+   "record": "Put the dough balls in the right circle and count them. Write the number next to each circle.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -554,11 +554,11 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Fill the plate with flour, about one finger deep. 2. Smooth it flat with the back of a spoon. 3. Draw three circles on paper: small, medium, big.",
-     "say": "Each raindrop that lands in the flour will make a little ball of dough. Will all the balls be the same size? Why do you think so?",
-     "kid": "Each raindrop will make a dough ball. Will they all be the same size? Say why.",
+     "say": "Each raindrop that lands in the flour will make a little ball of dough. A bigger drop makes a bigger ball.",
+     "kid": "Think about the dough balls the raindrops will make.",
      "ask": [
       {
-       "q": "Will all the raindrops be the same size?",
+       "q": "Will all the dough balls be the same size? Why do you think so?",
        "good": [
         "Yes, because they all come from the same cloud.",
         "No, because some drops joined more than others."
@@ -588,7 +588,7 @@
      "id": "s4",
      "mins": 10,
      "do": "1. Gently sieve the flour with a tea strainer. 2. Your child sorts the balls onto the three circles. 3. Count the balls in each circle together.",
-     "say": "Let us sieve out the balls. Put each one in the right circle. Which circle has the most?",
+     "say": "Let us sieve out the balls. Put each one in the right circle.",
      "kid": "Sieve out the dough balls. Put each one in a circle. Count them.",
      "ask": [
       {
@@ -603,9 +603,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child why the raindrops were different sizes.",
-     "say": "Why were some raindrops big and some small? Think about the Spray Plate experiment, where tiny drops joined into one big drop.",
-     "kid": "Why were some drops big and some small? Think about the Spray Plate experiment, where tiny drops joined into one big drop.",
+     "do": "Remind your child of the Spray Plate test. Then ask the question below.",
+     "say": "Some dough balls were big and some were small. Think about the Spray Plate, where tiny drops joined.",
+     "kid": "Think about the Spray Plate. What happened to the tiny drops?",
      "ask": [
       {
        "q": "Why are raindrops different sizes?",
@@ -636,7 +636,7 @@
    "id": "a1",
    "title": "Mist in the Torch Beam: do tiny drops fall as fast as big ones?",
    "mins": 10,
-   "context": "In this activity you spray a puff of mist into a torch beam in a dark room, and drop one big drop from a spoon. You watch which falls faster.",
+   "context": "In this activity you spray a puff of mist into a torch beam in a dark room, and drop one big drop from a spoon. You watch which falls faster. You will find out why a cloud's tiny drops can float.",
    "materials": [
     {
      "item": "a spray bottle that makes a fine mist",
@@ -670,11 +670,11 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Close the curtains and switch off the lights. 2. Put the torch on a table so its beam shines sideways across the room.",
-     "say": "I am going to spray a puff of mist into the light. Then I will drop one big drop from a spoon. Which will reach the floor first? Why do you think so?",
-     "kid": "Look at the torch beam. Which will reach the floor first: the mist, or a drop from a spoon? Say why.",
+     "say": "I will spray a puff of mist into the light. Then I will drop one big drop from a spoon, from the same height.",
+     "kid": "Look at the torch beam. Get ready to watch the mist and the spoon drop.",
      "ask": [
       {
-       "q": "Which will reach the floor first?",
+       "q": "Which will reach the floor first, the mist or the spoon drop? Why?",
        "good": [
         "The spoon drop, because it is big.",
         "The same, because both are water."
@@ -686,8 +686,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Spray one puff of mist into the beam, at head height. 2. Count slowly how long you can see it in the light. 3. Then tip one drop off a spoon at the same height, through the beam.",
-     "say": "Watch the mist sparkle. Count with me: one, two, three. Now watch the drop from the spoon. Which was faster?",
-     "kid": "Watch the mist sparkle. Count how long it floats. Now watch the drop from the spoon.",
+     "say": "Watch the mist sparkle. Count with me: one, two, three. Now watch the drop from the spoon.",
+     "kid": "Count how long the mist floats. Then watch the drop from the spoon.",
      "ask": [
       {
        "q": "What did the mist do?",
@@ -702,9 +702,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask your child what this tells us about clouds.",
-     "say": "A cloud is made of drops even tinier than this mist. What does that tell you about why clouds float?",
-     "kid": "Cloud drops are even tinier than the mist. Why do clouds float?",
+     "do": "Tell your child that cloud drops are even tinier than mist. Then ask the question below.",
+     "say": "A cloud is made of drops even tinier than this mist. Think about what you just saw.",
+     "kid": "Cloud drops are even tinier than the mist.",
      "ask": [
       {
        "q": "Why can a cloud float?",
@@ -720,16 +720,16 @@
   },
   {
    "id": "a2",
-   "title": "White or Grey? Draw today's clouds",
+   "title": "White or Grey? Sort today's clouds",
    "mins": 10,
-   "context": "In this activity you look at the sky from a window or balcony. You draw the clouds you see, and sort them into white and grey.",
+   "context": "In this activity you look at the sky from a window or balcony. You sort the clouds you see into white and grey. You will find out which clouds might bring rain.",
    "materials": [
     {
      "item": "a window or balcony with a view of the sky",
      "qty": 1
     },
     {
-     "item": "paper, a pencil, and a grey and a blue crayon",
+     "item": "paper and a pencil",
      "qty": 1
     }
    ],
@@ -741,7 +741,7 @@
     },
     {
      "art": "A sheet of paper divided into two boxes, 'white' and 'grey', with cloud drawings and tally marks in each.",
-     "caption": "2. Draw them. Count them in two boxes."
+     "caption": "2. Sort them. Count them in two boxes."
     }
    ],
    "flow": [
@@ -765,20 +765,20 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Fold the paper to make two boxes. Label one 'white' and the other 'grey'. 2. Your child draws each cloud they see in the right box.",
-     "say": "Draw each cloud in its box. Make a mark for each one. Which box has more?",
-     "kid": "Draw each cloud in the right box. Count them.",
-     "parent": "On a clear day there may be no clouds. Then draw an empty sky, and try again another day."
+     "do": "1. Fold the paper to make two boxes. Label one 'white' and the other 'grey'. 2. Your child points at each cloud and says white or grey. 3. You make a tally mark in that box.",
+     "say": "Point at a cloud and tell me: white or grey? I will make a mark in its box. Which box has more?",
+     "kid": "Point at each cloud. Say white or grey. Count the marks.",
+     "parent": "On a clear day there may be no clouds. Then try again another day."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Ask your child which clouds might rain.",
-     "say": "All clouds are made of tiny water drops. So why are some white and some grey? Which ones might rain?",
-     "kid": "Which clouds might rain today? Why do you think so?",
+     "say": "All clouds are made of tiny water drops. Yet some look white and some look grey.",
+     "kid": "Think about how the white clouds and the grey clouds are different.",
      "ask": [
       {
-       "q": "Which clouds are more likely to rain?",
+       "q": "Which clouds are more likely to rain? Why?",
        "good": [
         "The grey ones, because they are thick and full of water."
        ]
@@ -818,8 +818,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. On a rainy day, sit by a window. 2. If it is not raining, spray a glass window or a mirror until drops form. 3. Look at the small drops and the big ones.",
-     "say": "Look at the drops on the glass. Which ones are moving? Which ones are still?",
-     "kid": "Look at the drops on the glass. Which ones move? Which stay still?",
+     "say": "Look at the drops on the glass. Some are big and some are small.",
+     "kid": "Look at the drops on the glass. Watch which ones stay still.",
      "ask": [
       {
        "q": "Which drops are moving?",
@@ -834,8 +834,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Each of you picks one big drop near the top. 2. Follow it down with a finger held just in front of the glass. 3. Count how many small drops it swallows.",
-     "say": "Pick one big drop to be your racer. Follow it down. Count each small drop it swallows. Does it get faster or slower?",
-     "kid": "Pick a big drop. Follow it down. Count the small drops it swallows.",
+     "say": "Pick one big drop to be your racer. Follow it with your finger. Does it get faster or slower?",
+     "kid": "Count the small drops your racer swallows.",
      "ask": [
       {
        "q": "What happened each time the racer swallowed a drop?",
@@ -851,8 +851,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Write down how many small drops each big drop swallowed. Ask what this shows about raindrops.",
-     "say": "Whose racer swallowed the most? How is this like the drops inside a cloud?",
-     "kid": "Whose drop swallowed the most? How is this like a cloud?",
+     "say": "Compare your numbers. Whose racer swallowed the most?",
+     "kid": "Compare how many drops each racer swallowed.",
      "ask": [
       {
        "q": "How is the window like a cloud?",
@@ -872,7 +872,7 @@
    "title": "Make a Raindrop: a counting card game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a counting card game. Each card has some tiny drops. You join drops until you have exactly 10, and then your raindrop falls.",
+   "context": "This is a counting card game. Each card has some tiny drops. You join drops until you have exactly 10, and then your raindrop falls. You will see how many tiny drops it takes to make one bigger drop.",
    "printables": [
     {
      "kind": "cards",
@@ -915,14 +915,14 @@
      "title": "Raindrop score sheet",
      "items": [
       "Player name",
-      "Raindrops made (draw one raindrop for each)"
+      "Raindrops made (make one tick for each)"
      ]
     }
    ],
    "rules": [
     "Cut out the 30 cards. Shuffle them and put them face down in a pile. This pile is the cloud.",
     "Take turns. On your turn, take the top card from the pile and put it face up in front of you. Add up all your drops.",
-    "When your drops add up to exactly 10, you have made a raindrop. It falls. Draw a raindrop on the score sheet and put those cards aside.",
+    "When your drops add up to exactly 10, you have made a raindrop. It falls. Make a tick on the score sheet and put those cards aside.",
     "If your drops add up to more than 10, the drop is too big and splits. Put the card you just took back under the pile.",
     "If you take a Sun card, choose one of your drop cards to evaporate. Put it back under the pile, with the Sun card. If you have no drop cards, just put the Sun card back under the pile.",
     "When the pile is used up, or after 15 minutes, the player with the most raindrops wins. If you have the same number, you both win."
@@ -943,14 +943,14 @@
      "mins": 3,
      "do": "1. Cut out the cards with your child. 2. Shuffle them into a pile. 3. Read the rules together.",
      "say": "This pile is a cloud. Each card has some tiny drops. Join drops until you have exactly ten. Then your raindrop is heavy enough to fall.",
-     "kid": "This pile is the cloud. Join drops until you have exactly ten. Then your raindrop falls!"
+     "kid": "Take cards from the cloud. Try to make exactly ten."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Take turns taking a card. 2. Add up your drops out loud each turn. 3. Mark each raindrop on the score sheet.",
      "say": "I have three and four. That makes seven. I need three more to make ten. How many do you have?",
-     "kid": "Take a card. Add up your drops out loud. How many more do you need for ten?",
+     "kid": "Take a card. Add up your drops out loud.",
      "ask": [
       {
        "q": "You have 6 drops. How many more do you need to make a raindrop?",
@@ -965,8 +965,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count each player's raindrops. Then ask how many tiny drops make a real raindrop.",
-     "say": "In the game, ten drops made a raindrop. How many tiny cloud drops make a real raindrop?",
-     "kid": "Ten drops made a raindrop in the game. How many in a real cloud?",
+     "say": "In the game, ten tiny drops made a raindrop. Think about a real cloud.",
+     "kid": "Ten drops made a raindrop in the game. Think about a real raindrop.",
      "ask": [
       {
        "q": "How many cloud drops make a real raindrop?",
@@ -985,7 +985,7 @@
    "title": "Float, Join, Fall! A cloud drop moving game",
    "mins": 10,
    "players": "2 to 6 players",
-   "context": "This is a moving game. Everyone is a tiny cloud drop. When a card says 'Bump!', drops join hands. When a card says 'Rain!', the joined drops fall.",
+   "context": "This is a moving game. You will find out why tiny drops float, and what makes them fall. Everyone is a tiny cloud drop. When a card says 'Bump!', drops join hands. When a card says 'Rain!', the joined drops fall.",
    "printables": [
     {
      "kind": "cards",
@@ -1030,7 +1030,7 @@
      "mins": 2,
      "do": "1. Clear a space. 2. Cut out and shuffle the cards. 3. Choose who reads the first card.",
      "say": "You are all tiny cloud drops. Tiny drops are light, so you float slowly. Listen for the cards.",
-     "kid": "You are a tiny cloud drop. Float slowly on tiptoe. Listen to the person reading the cards."
+     "kid": "You are a tiny cloud drop. Float slowly on tiptoe."
     },
     {
      "id": "s2",
@@ -1052,8 +1052,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Sit down together and ask about the game.",
-     "say": "In the game, who fell as rain? Who kept floating? Why?",
-     "kid": "Who fell as rain? Who kept floating? Why?",
+     "say": "In the game, who fell as rain? Who kept floating?",
+     "kid": "Think about who fell and who floated.",
      "ask": [
       {
        "q": "What made a group fall?",
@@ -1073,7 +1073,7 @@
    "title": "Grey Sky, Rainy Day? Four weeks of sky pictures",
    "mins": 77,
    "days": 28,
-   "context": "In this project you draw the sky once a day for four weeks, and mark whether it rained. At the end you count: do grey-cloud days bring more rain than white-cloud days?",
+   "context": "In this project you look at the sky once a day for four weeks, and mark whether it rained. At the end you count: do grey-cloud days bring more rain than white-cloud days?",
    "materials": [
     {
      "item": "a notebook, or 4 sheets of paper each ruled into 7 boxes, one for each day",
@@ -1093,24 +1093,24 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Make the sky book: 28 boxes, one for each day. Draw today's sky and mark rain or no rain."
+     "what": "Make the sky book: 28 boxes, one for each day. Mark today's sky and rain or no rain. Draw the sky, or take a photo of it."
     },
     {
      "day": 2,
      "mins": 2,
-     "what": "From day 2 to day 27, at the same time each day, draw the sky in the day's box. Mark a raindrop if it rained that day."
+     "what": "From day 2 to day 27, at the same time each day, write G, W or C in the day's box. Mark a raindrop if it rained that day."
     },
     {
      "day": 28,
      "mins": 15,
-     "what": "Draw today's sky. Then count: grey days with rain, grey days without, white or clear days with rain, white or clear days without."
+     "what": "Mark today's sky, and draw it or take a photo. Then count: grey days with rain, grey days without, white or clear days with rain, white or clear days without."
     }
    ],
-   "record": "In each box: a quick drawing of the sky (blue for clear, white outlines for white clouds, grey for grey clouds) and a raindrop if it rained that day. At the end, a tally table with four rows.",
+   "record": "In each box: G for grey clouds, W for white clouds or C for clear sky, and a raindrop if it rained that day. On day 1 and day 28, also draw the sky, or take a photo. At the end, a tally table with four rows.",
    "setup": [
     {
      "art": "A notebook page with 7 small boxes, each with a quick crayon drawing of the sky, some with a little raindrop drawn in the corner.",
-     "caption": "1. Each day, draw the sky in one box. Add a raindrop if it rained."
+     "caption": "1. Each day, write G, W or C in one box. Add a raindrop if it rained."
     },
     {
      "art": "A child counting tally marks in a table with four rows: grey and rain, grey and dry, white and rain, white and dry.",
@@ -1121,17 +1121,17 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Make 28 boxes in the notebook. 2. Choose a time each day, such as after school. 3. Draw today's sky in the first box.",
-     "say": "Every day for four weeks, you will draw the sky. At the end we will find out: do grey skies really bring rain?",
-     "kid": "Draw the sky in today's box. Grey, white or blue? Did it rain?",
+     "do": "1. Make 28 boxes in the notebook. 2. Choose a time each day, such as after school. 3. In the first box, write G for grey clouds, W for white clouds or C for clear sky. If the sky is mixed, choose what covers most of it. 4. Draw today's sky on a page of its own, or take a photo.",
+     "say": "Every day for four weeks, you will look at the sky. At the end we will find out: do grey skies really bring rain?",
+     "kid": "Look at the sky. Is it grey, white or clear? Did it rain?",
      "parent": "Choose a month when rain is likely where you live, for example June to September in most of India, or October to December in Chennai."
     },
     {
      "id": "s2",
      "mins": 52,
-     "do": "Each day, your child draws the sky and marks rain or no rain.",
-     "say": "Time for the sky book. What is the sky like today? Did it rain?",
-     "kid": "Look at the sky. Draw it in today's box. Mark a raindrop if it rained.",
+     "do": "Each day, your child looks at the sky. They write G, W or C in the day's box and mark rain or no rain.",
+     "say": "Time for the sky book. What is the sky like today?",
+     "kid": "Write G, W or C in today's box. Mark a raindrop if it rained.",
      "wait": "Do this once a day from day 2 to day 27. It takes about 2 minutes each day."
     },
     {
@@ -1235,9 +1235,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Look at the usual and creative solutions together. Improve the shelter and test again.",
+     "do": "Look at the ideas other people have used. Improve the shelter and test again.",
      "say": "Here are some ideas people use. What one thing would you change? Let us test it again.",
-     "kid": "Look at the ideas. Change one thing. Test it again."
+     "kid": "Pick one idea. Change one thing. Test again."
     }
    ]
   }

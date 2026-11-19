@@ -200,34 +200,34 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - **s1 (3 min)**  
   *Parent does:* 1. Print and cut out the 12 cards, or write the front and back of each on paper or old card. 2. Put out a sheet of paper and a pencil for scoring. 3. Read the rules aloud.  
   *Parent says:* Each card names a tricky thing. You say one sign of life the thing seems to show, and one sign that is missing.  
-  *Child mode:* Read the card. Say one sign of life the thing seems to show. Say one sign that is missing.
+  *Child mode:* Help cut out the cards. Then listen to how the game works.
 - **s2 (10 min)**  
   *Parent does:* Take turns. Read the back of each card aloud and talk about any surprises.  
   *Parent says:* A cloud grows and moves. Which sign is missing? Is a cloud alive?  
-  *Child mode:* Read your card. Say one sign of life the thing seems to show. Say one sign that is missing.
+  *Child mode:* Read your card. Say what it seems to do, what is missing, and if it is alive.
   - Ask: A dry moong seed seems to do nothing. How do we know the seed is alive? (good: Because seeds sprout when you give them water.; Because seeds are resting, not dead.)
   - Note: The surprises are the point: a robot and a phone seem alive but are not, and a seed and a coconut seem not alive but are.
 - **s3 (2 min)**  
   *Parent does:* Count the points. Ask the check question.  
   *Parent says:* Which card surprised you most? Why?  
-  *Child mode:* Count your points. Which card surprised you?
+  *Child mode:* Count your points together.
   - Check: A robot moves and senses walls. Why is the robot not alive? → **The robot does not eat, grow or have young**
 ### g2 · Slow Plant Pairs: a memory game (12 min)
 - **rules:** Mix the 14 cards and lay them face down in two rows of seven.; On your turn, turn over two cards and read them aloud. A parent can read for a child who cannot read yet.; If one is a sign card and the other is the plant doing that sign, keep the pair and have another turn.; If not, turn them face down again in the same places.; When all the cards are taken, the player with the most pairs wins. If two players tie, they both win.
 - **Printable cards: 14 cards: 7 sign cards and 7 plant cards:** Sign: Eats; Plant: A neem leaf making food from sunlight, air and water; Sign: Breathes; Plant: Moong sprouts in a shut dabba turning chuna water milky; Sign: Grows; Plant: A coconut palm growing a new leaf at the top; Sign: Moves (turns or bends, even slowly); Plant: The leaves of a money plant turning to face the window; Sign: Senses (notices touch, light or water); Plant: A karela tendril that touched a string and curled round it; Sign: Gets rid of waste; Plant: The leaves of a tulsi plant letting out water and oxygen; Sign: Has young; Plant: A mango tree making mangoes, each with a seed inside
 - **s1 (3 min)**  
-  *Parent does:* 1. Print and cut out the 14 cards, or write each one on paper or old card. 2. If you like, your child draws a small picture on each plant card. 3. Mix the cards and lay them face down.  
-  *Parent says:* Let's make the cards. You draw a small picture on each plant card.  
-  *Child mode:* Draw a picture on each plant card if you like. Then turn them face down.
+  *Parent does:* 1. Print and cut out the 14 cards, or write each one on paper or old card. 2. Mix the cards and lay them face down in two rows.  
+  *Parent says:* We need 14 cards. Seven name a sign of life. Seven show a plant doing that sign. You will match them.  
+  *Child mode:* Help cut out the cards. Then turn them face down.
 - **s2 (8 min)**  
   *Parent does:* Take turns turning over two cards. Read each card aloud.  
-  *Parent says:* You found Senses and the karela tendril. How does the tendril sense?  
-  *Child mode:* Turn two cards. Do they match? Say why.
+  *Parent says:* Turn over two cards and read them to me. A sign card matches the plant doing that sign.  
+  *Child mode:* Turn two cards. If they match, say why.
   - Ask: How does a money plant move? (good: The leaves turn slowly towards the light.; By growing towards the window.)
 - **s3 (1 min)**  
   *Parent does:* Count the pairs. Ask which sign was hardest to find in a plant.  
   *Parent says:* Which sign is hardest to see in a plant? Why?  
-  *Child mode:* Count your pairs. Which sign is hardest to see?
+  *Child mode:* Count your pairs.
 
 ## Experiments
 ### e1 · Do Still Sprouts Breathe? The chuna water test (30 min, 2 days)
@@ -236,7 +236,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - **predict:** Guess first. Which chuna water will go milky: the one shut in with the sprouts, the one shut in with only a wet cloth, both, or neither? Why do you think so?
 - **fair test:** Both dabbas are the same size, with the same wet cloth, the same amount of chuna water, the same place and the same time. Only one has sprouts. So if one chuna water goes milky and the other does not, the sprouts made the difference.
 - **safety:** Only a grown-up handles the chuna. Chuna can sting eyes and skin, so never taste it and wash hands after touching it. Never drink chuna water. When blowing through the straw, only blow out, never suck in. Do not eat the moong from the test afterwards.
-- **record:** Draw the two dabbas with their glasses, before and after. Colour the water that went milky white.
+- **record:** Draw the two dabbas with their glasses, before and after. Colour the water that went milky white. Or take a photo of the two glasses, or tell your grown-up what you saw.
 - **results table:** Dabba | Chuna water at the start | Chuna water after 3 hours
 - **schedule:** day 1: In the evening, soak the moong in water. Stir the chuna into the jug of water and cover it with a plate. Leave both overnight. (5 min); day 2: Drain the moong. Blow into chuna water to see what milky looks like. Guess which chuna water will go milky. Set up the two dabbas and close them. (15 min); day 2: Three hours later, open both dabbas. Hold the two glasses of chuna water in front of a dark cloth and compare them. Say what you think, what you saw and why. (10 min)
 - **s1 (5 min) · grown-up needed**  
@@ -247,20 +247,20 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   - Wait: Leave the moong and the chuna water overnight.
 - **s2 (3 min)**  
   *Parent does:* 1. Drain the moong into a plate. 2. Let your child look closely and touch them. 3. Ask the questions below.  
-  *Parent says:* Look at the moong now. They are fat from the water, and a few may have a tiny white tip. Are they doing anything? Do you think they are alive?  
-  *Child mode:* Look at the moong. Touch them. Are they doing anything? Are they alive?
+  *Parent says:* Look at the moong now. They are fat from the water, and a few may have a tiny white tip. Do you think they are alive?  
+  *Child mode:* Look closely at the moong. Touch them.
   - Ask: Are the moong doing anything? (good: They are just lying there.; They got fat from the water, and some may have a tiny tail.)
   - Note: Soaked moong swell overnight, and some push out a tiny white root tip. If yours have none, that is fine. Soaked moong are awake and breathing. Don't tell your child that yet.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Pour clear chuna water off the top of the jug into one small glass, about a quarter full. 2. Let your child blow gently through the straw into it for about one minute. 3. Look at the water.  
-  *Parent says:* This clear water has chuna in it. Blow gently into it through the straw. Only blow out, never suck. Watch the water.  
+  *Parent says:* This clear water has chuna in it. Let's see what your breath does to it.  
   *Child mode:* Blow gently through the straw. Only blow out. Watch the water.
   - Ask: What happened to the water? (good: It went milky white.; It turned cloudy, like watery milk.)
   - Note: Practise blowing bubbles in plain water first, so your child only blows out. The water usually turns milky in under a minute. This is because your breath has carbon dioxide in it. If your child keeps blowing for many minutes, the water can go clear again, so stop once it is milky.
 - **s4 (3 min)**  
   *Parent does:* Tell your child what you will do with the two dabbas. Ask for a guess and a reason. Write down the guess.  
   *Parent says:* Your breath turned chuna water milky. Now we shut sprouts in one dabba, and only a wet cloth in the other. Each gets a glass of chuna water. Which water will go milky? Why do you think so?  
-  *Child mode:* Sprouts go in one dabba. Only a wet cloth goes in the other. Which water will go milky? Why?
+  *Child mode:* Guess which glass of chuna water will go milky.
   - Ask: Why do you think so? (good: The sprouts one, because the sprouts are alive and breathe.; Neither, because sprouts have no nose.; Both, because the wet cloth makes it milky.)
   - Note: Every guess is fine, as long as your child gives a reason. Don't hint at the answer.
 - **s5 (5 min) · grown-up needed**  
@@ -271,19 +271,19 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - **s6 (1 min)**  
   *Parent does:* Leave both dabbas shut for three hours. Read the story or play a game while you wait.  
   *Parent says:* Now we wait three hours without opening the lids.  
-  *Child mode:* Now we wait three hours. Don't open the lids.
+  *Child mode:* Don't open the lids. Guess what is happening inside.
   - Wait: Leave both dabbas shut for three hours.
 - **s7 (5 min)**  
   *Parent does:* 1. Open both dabbas. 2. Lift out the glasses carefully. 3. Hold them side by side in front of the dark cloth.  
-  *Parent says:* Look at the two glasses against the dark cloth. What do you see? Is there any difference?  
-  *Child mode:* Hold the glasses in front of the dark cloth. What is different?
+  *Parent says:* Let's see what changed in the two glasses.  
+  *Child mode:* Look closely at both glasses.
   - Ask: Which chuna water changed? (good: The one with the sprouts went milky.; The sprout one has a white skin on top.)
   - Ask: Why did we keep the lids shut for three hours? (good: So the carbon dioxide stayed in the dabba and reached the chuna water.; So no room air got in and mixed with it.)
   - Note: The chuna water in the sprout dabba usually has a white skin on top and looks cloudy. The other one stays clear, or gets only a very thin skin from the air in the dabba. If you cannot see a difference after three hours, close the lids and look again after three more hours.
 - **s8 (4 min)**  
-  *Parent does:* Ask your child to say three things: what they think, what they saw, and why. Then draw the two dabbas together.  
-  *Parent says:* So do still sprouts breathe? Tell me what you think, what you saw, and why.  
-  *Child mode:* Do sprouts breathe? Say what you think. Say what you saw. Say why.
+  *Parent does:* Ask your child to say three things: what they think, what they saw, and why. Then take a photo of the two glasses side by side.  
+  *Parent says:* So do still sprouts breathe? Look at your two glasses and tell me.  
+  *Child mode:* Tell what you think, what you saw, and why.
   - Ask: Why did only one chuna water go milky? (good: Because the sprouts breathed out carbon dioxide, like I did with the straw.; Because the other dabba had nothing alive to breathe.)
   - Note: A strong answer uses the evidence: the chuna water in the sprout dabba went milky, like the glass your child blew into, and the chuna water in the dabba with only a wet cloth stayed clear. Sprouts breathe out carbon dioxide all the time, as you do, even though they lie still.
   - Check: The chuna water went milky in the sprout dabba, but not in the dabba with only a wet cloth. What does this show? → **The sprouts breathed out carbon dioxide**
@@ -293,7 +293,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - **predict:** Guess first. Which chuna water will go more milky: the one in the fridge or the one on the shelf? Why do you think so?
 - **fair test:** Both dabbas get the same amount of sprouts, the same wet cloth and the same amount of chuna water, for the same time. Only the place is different: one is cold and one is warm.
 - **safety:** Only a grown-up handles the chuna and the chuna water. Never taste or drink it, and wash hands after.
-- **record:** Draw the fridge dabba and the shelf dabba with their glasses. Colour how milky each one went.
+- **record:** Draw the fridge dabba and the shelf dabba with their glasses. Colour how milky each one went. Or take a photo of the two glasses, or tell your grown-up what you saw.
 - **results table:** Dabba | Where it stayed | Chuna water after 3 hours
 - **schedule:** day 1: In the evening, soak 1 cup of moong. Make chuna water and cover it. (5 min); day 2: Set up two sprout dabbas. Put one in the fridge and one on a shelf. After three hours, compare the two chuna waters. (20 min)
 - **s1 (5 min) · grown-up needed**  
@@ -303,8 +303,8 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   - Wait: Leave the moong and the chuna water overnight.
 - **s2 (3 min)**  
   *Parent does:* Tell your child the plan. Ask for a guess and a reason.  
-  *Parent says:* Both dabbas will have sprouts this time. One goes in the fridge. One stays on the shelf. Which chuna water will go more milky? Why do you think so?  
-  *Child mode:* One dabba goes in the fridge. One stays out. Which goes more milky? Why?
+  *Parent says:* Both dabbas will have sprouts this time. One goes in the fridge. One stays on the shelf. Which chuna water will go more milky?  
+  *Child mode:* Guess which goes more milky, the fridge dabba or the shelf dabba.
   - Ask: Why do you think so? (good: The shelf one, because cold makes sprouts slow.; The fridge one, because cold makes things cloudy.; The same, because both have sprouts.)
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Lay a wet cloth in each dabba. 2. Share the soaked moong equally between them. 3. Stand a small glass of clear chuna water in each, the same amount. 4. Close both lids tightly. 5. Put one dabba in the fridge and one on a shelf.  
@@ -313,41 +313,41 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   - Wait: Leave both dabbas for three hours.
 - **s4 (6 min)**  
   *Parent does:* 1. Take the fridge dabba out. 2. Open both dabbas. 3. Hold the two glasses side by side in front of the dark cloth.  
-  *Parent says:* Look at the two glasses. Which one is more milky?  
-  *Child mode:* Look at both glasses. Which one is more milky?
+  *Parent says:* Hold both glasses side by side in front of the dark cloth.  
+  *Child mode:* Look closely at both glasses.
   - Ask: Which one went more milky? (good: The shelf one.; The fridge one is still almost clear.)
   - Note: The shelf glass is usually clearly more milky. The fridge glass stays clear or only a little cloudy. Cold slows down breathing in sprouts. If both look the same, leave both for three more hours and look again.
 - **s5 (5 min)**  
   *Parent does:* Ask your child what they think, what they saw and why. Then ask the check question.  
   *Parent says:* Why do you think the chuna water in the fridge went less milky?  
-  *Child mode:* Why was the fridge water less milky? Say what you think.
+  *Child mode:* Tell your grown-up your idea.
   - Ask: Why are fruits and vegetables kept in the fridge? (good: So they breathe slowly and stay fresh longer.; Because cold slows them down.)
   - Note: Picked fruits and vegetables are still alive and still breathing. They use up their stored food as they breathe. In the cold they breathe slowly, so they stay fresh longer.
   - Check: The shelf sprouts made the chuna water more milky than the fridge sprouts. What does this show? → **Sprouts breathe more slowly in the cold**
 
 ## Activities
 ### a1 · Sure or Not Sure? Sorting tricky cases (12 min)
-- **record:** Draw the not-sure bowl and write the test you would do for one thing in it.
+- **record:** Take a photo of the not-sure bowl. Say or write the test you would do for one thing in it.
 - **s1 (2 min)**  
   *Parent does:* 1. Put out the three plates and the bowl. 2. Show your child each label.  
   *Parent says:* This plate is for things that are alive now. This one is for things that were once alive. This one is for things that were never alive. The bowl is for things you are not sure about.  
-  *Child mode:* There are three plates: alive, once alive and never alive. The bowl is for things you are not sure about.
+  *Child mode:* Look at the labels. Which plate would a stone go on?
 - **s2 (6 min)**  
   *Parent does:* 1. Hand your child one thing at a time. 2. Ask which sign of life they can see, or which is missing. 3. Let them put it on a plate or in the bowl.  
   *Parent says:* Where does this go? Which sign of life tells you? If you are not sure, it can go in the bowl.  
-  *Child mode:* Pick up one thing. Which sign of life does it show? Choose a plate or the bowl.
+  *Child mode:* Pick up one thing and put it on a plate or in the bowl.
   - Ask: Why does the phone go on the never alive plate? (good: The phone senses touch, but never eats or grows.; Phones don't have baby phones.)
   - Ask: Where does the cooked rice go? (good: Once alive, because rice grains came from a rice plant, but cooking killed them.)
   - Note: Let the reasons come first and don't correct straight away. The dry moong, the sprout and the potato are alive. Curd is a food full of living bacteria, so it goes on the alive plate or in the bowl. Cotton thread, cooked rice and coconut shell were once alive. The phone, the spoon and the cloud were never alive.
 - **s3 (4 min)**  
   *Parent does:* Pick one thing from the not-sure bowl. Plan a test together.  
   *Parent says:* Let's choose one thing from the bowl. How could we test if it is alive? Which sign of life could we look for?  
-  *Child mode:* Pick one thing from the bowl. How can you test it?
+  *Child mode:* Pick one thing from the bowl. Plan a test with your grown-up.
   - Ask: How could we test the dry moong seed? (good: Give the seeds water and see if they sprout.; Shut the seeds in a dabba with chuna water.)
   - Ask: How could we test the curd? (good: Put a spoon of curd in warm milk and see if more curd grows.)
   - Note: A good test looks for one sign of life the thing can show at home: growing (water a seed), breathing (chuna water), or having young (curd setting milk).
 ### a2 · Ant Watch: which signs of life can you see? (12 min)
-- **record:** Tick the signs you saw. Draw one ant carrying sugar.
+- **record:** Tick the signs you saw. Take a photo of the ants, or tell your grown-up what they did.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw seven lines on a sheet of paper. On each line, write or draw one sign of life: eat, breathe, grow, move, sense, get rid of waste, have young. 2. Find a line of ants in the kitchen, on a windowsill or on the balcony. 3. Put a few grains of sugar on a small paper near them.  
   *Parent says:* Let's give the ants some sugar. Then we watch and look for signs of life.  
@@ -362,63 +362,63 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - **s3 (3 min)**  
   *Parent does:* Count the ticks together. Ask which signs you could not see.  
   *Parent says:* Which signs did you see? Which ones did you not see? Does that mean the ants don't do them?  
-  *Child mode:* Count your ticks. Which signs did you not see?
+  *Child mode:* Count your ticks. Point to a sign you did not see.
   - Ask: You did not see the ants breathe. Are they breathing? (good: Yes, every living being breathes. We just can't see it.)
   - Note: Ants breathe through tiny holes along their sides, too small to see. If you cannot see a sign of life, the sign may still be happening. The chuna water test showed this: the sprouts lay still, but they were breathing.
 ### a3 · The Still Minute: what keeps going when you sit still? (6 min)
-- **record:** Draw yourself sitting still, with arrows to the parts that kept working.
+- **record:** Tell your grown-up, or write, what kept going. Point to where each one is on your body.
 - **s1 (2 min)**  
   *Parent does:* 1. Ask your child to sit cross-legged and be as still as they can. 2. Time one minute. 3. Ask them to count their breaths silently.  
   *Parent says:* Sit as still as a seed for one minute. Don't move at all. Count your breaths in your head.  
-  *Child mode:* Sit as still as a seed. Count your breaths quietly.
+  *Child mode:* Sit cross-legged. Count how many times you breathe in.
   - Note: Most children of seven breathe about 18 to 30 times in a minute when sitting quietly.
 - **s2 (4 min)**  
   *Parent does:* Ask what kept going inside, even though they were still.  
-  *Parent says:* You did not move. But what kept going inside you?  
-  *Child mode:* You sat still. What kept going inside you?
+  *Parent says:* You did not move at all. Now put your hand on your chest. What can you feel?  
+  *Child mode:* Feel your chest with your hand.
   - Ask: What kept going? (good: My breathing.; My heart kept beating.; I blinked.; My tummy made a sound.)
   - Note: Breathing and the heartbeat never stop. Hair and nails keep growing too, very slowly. So being still is not the same as doing nothing. It is the same for sprouts: they lie still, but they keep breathing.
 ### a4 · Sleeping Leaves (if you have a park or a tree-lined road nearby) (15 min)
-- **record:** Draw a small rain tree leaf in the afternoon and after sunset, side by side.
+- **record:** Take a photo of a rain tree leaf in the afternoon and after sunset, and put them side by side. Or tell your grown-up what changed.
 - **s1 (7 min) · grown-up needed**  
-  *Parent does:* 1. In the afternoon, find a rain tree. 2. Look at one small leaf closely. 3. Draw it or take a photo.  
+  *Parent does:* 1. In the afternoon, find a rain tree. 2. Look at one small leaf closely. 3. Take a photo of it, so you can compare later.  
   *Parent says:* This is a rain tree. Look at the tiny leaflets on this leaf. Are they open or closed?  
-  *Child mode:* Look at the tiny leaves. Are they open or closed? Draw them.
+  *Child mode:* Look closely at one leaf. Tell your grown-up what you notice about the tiny leaves.
   - Note: A rain tree is a big shady tree with a wide umbrella shape and feathery leaves made of many small leaflets. Rain trees have fluffy pink flowers in summer. Many Indian cities planted them along roads.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Go back after sunset with a torch. 2. Look at the same leaves. 3. Draw them or photograph them again.  
+  *Parent does:* 1. Go back after sunset with a torch. 2. Look at the same leaves. 3. Take a photo of the same leaf again.  
   *Parent says:* Look at the same leaves now, after sunset. What has changed?  
-  *Child mode:* Look again after sunset. What changed?
+  *Child mode:* Hold the new photo next to the afternoon photo.
   - Ask: What did the leaves do? (good: They folded up.; The little leaves closed together.)
   - Note: Rain tree leaflets fold together in the evening and on cloudy days, and open again in the morning light. This shows a plant sensing light and moving. If there is no rain tree near you, skip this activity.
 
 ## Projects
 ### p1 · The Potato Maze: can a potato shoot find the light? (30 min, 21 days)
 - **safety:** A grown-up cuts the card and the hole. Do not eat the shoots or any green part of the potato, because they can make people sick.
-- **record:** Draw the maze from above on day 1, 7, 14 and 21, with the shoots drawn in.
-- **schedule:** day 1: Make the maze in the shoebox. Put the potato at the far end. Close the lid and put the box by a bright window, hole towards the light. (15 min); day 7: Open the lid quickly. Draw the shoots. Close it again. (5 min); day 14: Look again. Which way are the shoots going? Draw them. (5 min); day 21: Has a shoot come out of the hole? Draw the whole path. (5 min)
+- **record:** Take a photo of the maze from above on day 1, 7, 14 and 21. Or draw the maze and the shoots each time.
+- **schedule:** day 1: Make the maze in the shoebox. Put the potato at the far end. Close the lid and put the box by a bright window, hole towards the light. (15 min); day 7: Open the lid quickly. Take a photo of the shoots. Close it again. (5 min); day 14: Look again. Which way are the shoots going? Take a photo. (5 min); day 21: Has a shoot come out of the hole? Take a photo of the whole path. (5 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Cut a hole the size of a coin in one short end of the shoebox. 2. Tape the two card walls across the box, one from each side, each leaving a gap. 3. Put the potato at the far end, on damp soil or a damp cloth. 4. Close the lid. 5. Put the box by a bright window, hole facing the light.  
-  *Parent says:* The only light comes in through this hole. The potato is at the other end, behind two walls. Will the shoots find the way out?  
-  *Child mode:* The potato sits at the dark end. Light comes in through the hole. Do you think the shoots will find the hole?
+  *Parent says:* The only light comes in through this hole. The potato is at the other end, behind two walls.  
+  *Child mode:* Look at where the potato sits and where the light comes in.
   - Ask: What do you think the shoots will do? Why? (good: Grow round the walls to the hole, because they sense the light.; Grow straight up, because they can't see.)
   - Note: If your potato has no shoots yet, leave the potato in a dark cupboard for two weeks first. Start the project once small shoots have grown.
   - Wait: Leave the box closed for a week.
 - **s2 (5 min)**  
-  *Parent does:* Open the lid quickly, look, draw, and close it again.  
+  *Parent does:* Open the lid quickly, look, take a photo, and close it again.  
   *Parent says:* Look quickly, so we let in only a little light. Which way are the shoots growing?  
-  *Child mode:* Peep in quickly. Which way are the shoots going? Draw them.
+  *Child mode:* Peep in quickly and find the longest shoot. Where is its tip pointing?
   - Note: Shoots usually grow towards the gap in the first wall. If there are no shoots after a week, keep the box somewhere warmer. Check that the soil or cloth is still damp. If it is dry, add one spoon of water.
   - Wait: Leave the box closed for another week.
 - **s3 (5 min)**  
-  *Parent does:* Look again and draw.  
+  *Parent does:* Look again and take a photo.  
   *Parent says:* Have the shoots gone round the first wall?  
-  *Child mode:* Look again. Have the shoots gone round a wall?
+  *Child mode:* Look again. Follow the longest shoot with your finger.
   - Wait: Leave the box closed for one more week.
 - **s4 (5 min)**  
   *Parent does:* Look at the whole path the shoot took. Talk about it.  
   *Parent says:* Did a shoot come out of the hole? How did the potato find the way?  
-  *Child mode:* Did a shoot come out of the hole? How did the potato find the way?
+  *Child mode:* Follow the shoot's path with your finger. Where did it go?
   - Ask: Which signs of life did the potato show? (good: Grew, moved, sensed the light.; Used stored food to grow.)
   - Note: Shoots often reach the hole in two to four weeks. The potato senses the faint light and grows that way, round each wall. The potato also uses up stored food, so the potato gets soft and wrinkly. If no shoot has reached the hole by day 21, leave the box one more week. A slow shoot is a real result too.
 
@@ -432,7 +432,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - **s1 (4 min)**  
   *Parent does:* Read the problem to your child. Ask for ideas before showing any.  
   *Parent says:* Plants move, but too slowly for our eyes. How could we prove this plant moved by tomorrow?  
-  *Child mode:* Plants move very slowly. How can you catch this plant moving?
+  *Child mode:* Think of your own way to catch the plant moving.
   - Ask: What ideas do you have? (good: Take a photo now and tomorrow.; Mark where a leaf is.)
 - **s2 (12 min)**  
   *Parent does:* Help your child set up their idea. Read out the usual and creative ideas if they get stuck.  
@@ -442,7 +442,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - **s3 (4 min)**  
   *Parent does:* The next day, check together and compare.  
   *Parent says:* Did the plant move? How do you know?  
-  *Child mode:* Did the plant move? Show me how you know.
+  *Child mode:* Show your grown-up how you know.
   - Check: A money plant was turned away from the window. Two days later, the leaves face the window again. What does this show? → **The plant sensed the light and moved to face the window**
   - Wait: Check again tomorrow, and again the day after if you see no change.
 

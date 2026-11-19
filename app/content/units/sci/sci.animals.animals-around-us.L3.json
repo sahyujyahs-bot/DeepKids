@@ -476,7 +476,7 @@
    "title": "Who Lives Here?",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a memory card game about animal homes. Each animal card has one matching home card. Four wanderer cards show animals with no fixed home.",
+   "context": "This is a memory card game about animal homes. Each animal card has one matching home card. Four wanderer cards show animals with no fixed home. Matching them shows you what each home is for, and why a few animals have no home at all.",
    "printables": [
     {
      "kind": "cards",
@@ -717,15 +717,15 @@
      "mins": 3,
      "do": "1. Cut out all the cards and tokens. 2. Shuffle the 36 cards together, wanderers too. 3. Lay all the cards face down in rows.",
      "say": "Every animal here has a home, or a special reason for not having one. Let's see who can remember where each home is hiding.",
-     "kid": "Lay all the cards face down. Every animal has a home card. Find the pairs!",
+     "kid": "Lay all the cards face down. Most animals have a home card to match. Four animals have no fixed home. Find the pairs!",
      "context": "This is the first step of Who Lives Here?, a memory card game about animal homes. Here you set up the game."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play a practice round. Turn over the crow card and the stick nest card together.",
+     "do": "Play a practice round. Find the crow card and the stick nest card. Turn them over together to show a pair.",
      "say": "Let's practise. This is a crow, and this is a stick nest. In the city, crows often add wire. What do you think the nest is for?",
-     "kid": "Practice round. A crow and a stick nest. What is the nest for?",
+     "kid": "Practice round. A crow card and a stick nest card make a pair. Think about what a nest is for.",
      "context": "This is a practice round of Who Lives Here?, the animal homes memory game.",
      "ask": [
       {
@@ -749,9 +749,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "When someone turns over a wanderer card, stop and talk about it.",
-     "say": "A wanderer! The tiger has no fixed home. Why might a big animal like a tiger keep moving?",
-     "kid": "A wanderer card! This animal has no fixed home. Why not?",
+     "do": "When someone turns over a wanderer card, stop and read it aloud. Then talk about the tiger, as the question below does.",
+     "say": "A wanderer! This animal has no fixed home. Let's think about the tiger too. Why might a big animal like a tiger keep moving?",
+     "kid": "You found a wanderer card. Read it out loud. Then think about the tiger.",
      "context": "This step of the Who Lives Here? game is about animals that have no fixed home.",
      "check": {
       "t": "mcq",
@@ -770,7 +770,7 @@
      "mins": 2,
      "do": "Count the leaf tokens. Then ask which home was the cleverest, and why.",
      "say": "Count your leaves. Now think. Which home was the cleverest, and why?",
-     "kid": "Count your leaf tokens. Which home was the cleverest? Say why.",
+     "kid": "Count your leaf tokens. The most leaves wins.",
      "context": "This is the last step of Who Lives Here?, the animal homes memory game.",
      "think": "Which animal home near your house could you go and look at tomorrow?"
     }
@@ -781,7 +781,7 @@
    "title": "Day Shift, Night Shift",
    "mins": 15,
    "players": "2 or more players. With 2, one player calls and the other runs, then swap.",
-   "context": "This is a running and sorting game about when animals are busy. Players run to the day side, the night side or the middle line for dawn and dusk.",
+   "context": "This is a running and sorting game about when animals are busy. Players run to the day side, the night side or the middle line for dawn and dusk. You will find out which animals are busy by day, by night, or at dawn and dusk.",
    "printables": [
     {
      "kind": "cards",
@@ -993,9 +993,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Call 'Owl' as the practice card.",
-     "say": "Owl! Where do you run?",
-     "kid": "Owl! Where do you run?",
+     "do": "Call 'Owl' as the practice card. Everyone runs to the sign they think is right.",
+     "say": "Practice round. The animal is an owl. Run to the sign for when you think an owl is busy.",
+     "kid": "Practice round. Run to the sign you think is right.",
      "context": "This is the practice round of Day Shift, Night Shift, the game about when animals are busy.",
      "check": {
       "t": "mcq",
@@ -1023,7 +1023,7 @@
      "mins": 2,
      "do": "Stop the game and ask why many animals are busy at dawn and dusk.",
      "say": "Many animals rest at noon and are busy at dawn and dusk. Why do you think that is? Think of heat, light and enemies.",
-     "kid": "Why are many animals busy at dawn and dusk? Think of heat and light.",
+     "kid": "Think about the noon sun in India. How hot is it? Would you want to run around then?",
      "context": "This step of Day Shift, Night Shift asks why animals choose a time to be busy.",
      "check": {
       "t": "mcq",
@@ -1088,11 +1088,11 @@
     {
      "day": 3,
      "mins": 30,
-     "what": "Watch at the same three times. Add up the visits. Draw a bar chart and say what you found."
+     "what": "Watch at the same three times. Add up the visits. Make a bar chart (draw it or stack coins) and say what you found."
     }
    ],
-   "record": "For each 5-minute watch, draw one tally line every time a bird lands at the bowl. Add up each time of day over the 3 days. Then draw a bar chart with one bar for morning, one for noon and one for evening.",
-   "context": "This is the Busy Times test. You put a bowl of water outside and count how many birds come to it in 5 minutes, at three different times of day, for three days.",
+   "record": "For each 5-minute watch, draw one tally line every time a bird lands at the bowl. Add up each time of day over the 3 days. Then make a bar chart with one bar for morning, one for noon and one for evening. Draw it, or build stacks of coins.",
+   "context": "This is the Busy Times test. You put a bowl of water outside and count how many birds come to it in 5 minutes, at three different times of day, for three days. You will find out which time of day is the busiest for birds.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: bird visits to a water bowl over 3 days",
@@ -1136,7 +1136,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Fill the bowl with fresh water. 2. Put it on a balcony ledge or windowsill, out of reach of cats. 3. Show your child the results table.",
-     "say": "Birds need water, especially in the hot months. We're going to find out when they come to drink. First, what's your guess? Morning, noon or evening?",
+     "say": "Birds need water, especially in the hot months. We're going to find out when they come to drink. We will watch the same spot for the same 5 minutes each time, so the test is fair. First, what's your guess? Morning, noon or evening?",
      "kid": "Put out a bowl of water for birds. Guess when most birds will come. Morning, noon or evening?",
      "context": "This is the first step of the Busy Times test. You put out a bowl of water, then guess when most birds will come to it.",
      "parent": "Keep the bowl in the same place for all 3 days. Birds can take a day or two to find a new water bowl, so the first day may be quiet. That is normal. If no bird has come to the bowl by day 2, count instead every bird you see from the same window in 5 minutes. Crows and pigeons live in almost every Indian town, so you will still have numbers to compare. If you can, put the bowl out the evening before.",
@@ -1174,9 +1174,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On day 3, add the tally marks for each time of day. Draw a bar chart with three bars.",
-     "say": "Let's add up. How many visits in the morning, over all three days? At noon? In the evening? Now draw one bar for each.",
-     "kid": "Add up your lines for morning, noon and evening. Draw one bar for each time.",
+     "do": "On day 3, add the tally marks for each time of day. Make a bar chart with three bars. Draw it, or build three stacks of coins.",
+     "say": "Let's add up. How many visits in the morning, over all three days? At noon? In the evening? Now show them as three bars. Draw one bar for each, or build a stack of coins for each.",
+     "kid": "Add up your lines for morning, noon and evening. Show each total as a bar. Draw it, or build a stack of coins.",
      "context": "This step of the Busy Times test is where you add up your bird counts and draw a bar chart.",
      "check": {
       "t": "mcq",
@@ -1241,7 +1241,7 @@
     }
    ],
    "record": "Write the three temperatures in the table. Put a star next to the coolest place.",
-   "context": "This is the Cool Home Test. You measure how hot it is on open ground in the sun, in the shade, and inside a little hole in the soil, like an animal's burrow.",
+   "context": "This is the Cool Home Test. You measure how hot it is on open ground in the sun, in the shade, and inside a little hole in the soil, like an animal's burrow. You will find out whether a burrow really is cooler than the open ground.",
    "setup": [
     {
      "art": "A digital probe thermometer pushed about 1 cm into bare soil in bright sunshine, with a phone timer showing 5 minutes.",
@@ -1298,7 +1298,7 @@
       "t": "mcq",
       "q": "In one test in a garden, the open sun was 44 °C, the shade 35 °C, and inside the hole 30 °C. Why was the hole coolest?",
       "options": [
-       "The Sun's heat warms the top of the soil first, and soil is slow to let heat through.",
+       "The Sun heats the top of the soil first, and soil passes heat down slowly.",
        "There is ice under the ground.",
        "The thermometer was broken."
       ],
@@ -1366,7 +1366,7 @@
     }
    ],
    "record": "Write the number of ants that crossed the spot in 1 minute: before, with a hand above, just after rubbing, and 3 minutes after rubbing. Next to each number, write what the ants did.",
-   "context": "This is the Ant Trail Test. You put out a pinch of sugar, wait for a line of ants to walk to it, and then rub away a short piece of their path to see what they do.",
+   "context": "This is the Ant Trail Test. You put out a pinch of sugar, wait for a line of ants to walk to it, and then rub away a short piece of their path to see what they do. You will find out how ants know the way to the food.",
    "setup": [
     {
      "art": "A pinch of sugar on a small square of paper on a kitchen floor tile, with a thin line of small black ants walking to it from a gap under a cupboard.",
@@ -1475,7 +1475,7 @@
     }
    ],
    "record": "Make two columns: WHAT I SAW and WHAT THEY WERE DOING. Then circle the animal you want to watch for a whole week.",
-   "context": "This is a short watching activity. You sit at one window or door for 10 minutes and write down every animal you see or hear, and what each one is doing.",
+   "context": "This is a short watching activity. You sit at one window or door for 10 minutes and write down every animal you see or hear, and what each one is doing. You will find out how many animals live close to you, and pick one to follow for a week.",
    "setup": [
     {
      "art": "A child sitting very still on a stool by an open window, a notebook on her knee and a phone timer beside her.",
@@ -1496,7 +1496,7 @@
      "mins": 2,
      "do": "Choose a window or a door with a view of a tree, a wall or a street. Set a timer for 10 minutes.",
      "say": "We're going to be naturalists. A naturalist is someone who studies animals by watching them quietly. For 10 minutes, we'll write down every animal we see or hear.",
-     "kid": "You are a naturalist now. Sit still for 10 minutes. Write every animal you see or hear.",
+     "kid": "You are a naturalist now. That is someone who studies animals by watching. Sit still for 10 minutes. Write down every animal you see or hear, or tell your grown-up to write it.",
      "context": "This is the first step of the Ten-Minute Window Watch. You get ready to watch animals from a window."
     },
     {
@@ -1504,7 +1504,7 @@
      "mins": 10,
      "do": "Watch together, quietly. Help your child look high (sky, wires, roof), low (ground, walls, corners) and listen.",
      "say": "Look up at the sky and the wires. Now look down at the walls and the ground. Now close your eyes and just listen. What can you hear?",
-     "kid": "Look up. Look down. Look at the corners. Then close your eyes and listen.",
+     "kid": "Look up. Look down. Look at the corners. Then close your eyes and listen. Write down each animal and what they are doing.",
      "context": "This is the watching step of the Ten-Minute Window Watch.",
      "parent": "Most children find 2 or 3 animals in the first minute and many more by the end. Count tiny ones too, like ants, flies, spiders and mosquitoes. Count sounds you hear, such as a koel or a dog."
     },
@@ -1513,7 +1513,7 @@
      "mins": 3,
      "do": "Read the list together. Ask what each animal was doing. Circle one animal to watch for a week.",
      "say": "Look how many we found. Which one was doing the most interesting thing? Let's choose one animal to watch all week.",
-     "kid": "Read your list. Which animal was most interesting? Circle them. You will watch them all week.",
+     "kid": "Read your list. Which animal was the most interesting? Circle that animal. You will watch them all week.",
      "context": "This is the last step of the Ten-Minute Window Watch. You look at your list and choose an animal to watch for a week.",
      "check": {
       "t": "mcq",
@@ -1555,11 +1555,11 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Walk around your building, street or park. Find animal homes. Draw them on a map."
+     "what": "Walk around your building, street or park. Find animal homes. Mark them on a map."
     }
    ],
-   "record": "Draw a map of where you walked. Mark every animal home you found with a small picture. Write who you think lives there.",
-   "context": "This is a walk to find animal homes near your house: nests, holes, webs, hives and anthills. Then you draw them on a map of your area.",
+   "record": "Make a map of where you walked. Mark every animal home you found with a small drawing, a photo or its name. Say or write who you think lives there.",
+   "context": "This is a walk to find animal homes near your house: nests, holes, webs, hives and anthills. Then you make a map of your area. You will find out how many animals have a home right near yours.",
    "setup": [
     {
      "art": "A parent and child walking along a lane, the child pointing up at a nest in a tree.",
@@ -1587,9 +1587,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Walk slowly for about 20 minutes. Stop at every home you find. Let your child sketch it quickly.",
+     "do": "Walk slowly for about 20 minutes. Stop at every home you find. Take a photo of it, or help your child remember where it is.",
      "say": "Look up into the trees and under the roof edges. Look along walls for little holes and lines of ants. Look in corners for webs.",
-     "kid": "Look up in the trees. Look at the walls and corners. Draw each home you find.",
+     "kid": "Look up in the trees. Look at the walls and corners. Point out each home you find. Take a photo, or remember where it is.",
      "context": "This is the walking step of the Animal Homes Walk, where you search for animal homes.",
      "adult": true,
      "parent": "Common finds: crow and pigeon nests, sparrow holes in walls, webs in gates and plants, anthills at the base of walls, termite trails of mud on tree trunks, holes in tree trunks, and in some cities giant rock bee hives under water tanks.",
@@ -1608,9 +1608,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "At home, draw a map of the walk on the big sheet. Mark each home with a little picture.",
+     "do": "At home, make a map of the walk on the big sheet. Mark each home with a little picture, a photo or its name.",
      "say": "Let's draw our walk as a map. Where was the anthill? Where was the nest? Who do you think lives in each one?",
-     "kid": "Draw a map of your walk. Draw each home where you found it. Write who lives there.",
+     "kid": "Make a map of your walk. Show each home where you found it. Draw it, stick the photo or write its name. Say who lives there.",
      "context": "This is the map step of the Animal Homes Walk. You draw your area and mark the animal homes you found.",
      "think": "Which part of your area had the most homes? Why do you think so?"
     }
@@ -1640,7 +1640,7 @@
     }
    ],
    "record": "Tick each square when you find the sign. Write where you found it.",
-   "context": "This is a bingo game played on a walk. Instead of finding animals, you find signs that animals have been there, like feathers, footprints and chewed leaves. You draw the bingo grid yourself.",
+   "context": "This is a bingo game played on a walk. Instead of finding animals, you find signs that animals have been there, like feathers, footprints and chewed leaves. You draw the bingo grid yourself. You will find out how much you can learn about animals without seeing them.",
    "setup": [
     {
      "art": "A bingo card with 9 picture squares: a feather, a footprint, a chewed leaf, a web, a line of ants, bird droppings, a nest, a hole and a musical note for a call.",
@@ -1659,7 +1659,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw a grid of 9 squares on paper. Put one sign in each square: feather, footprint, chewed leaf, web, line of ants, bird droppings, nest, hole, animal sound. Explain that we look for signs, not animals.",
+     "do": "Draw a grid of 9 squares on paper. Write one sign in each square: feather, footprint, chewed leaf, web, line of ants, bird droppings, nest, hole, animal sound. Explain that we look for signs, not animals.",
      "say": "Animals are often hiding. But they leave clues. A feather, a footprint, a chewed leaf. Let's find nine clues.",
      "kid": "Animals leave clues. Find nine clues on your bingo card.",
      "context": "This is the first step of Animal Signs Bingo. You learn that animals leave signs you can find."
@@ -1668,7 +1668,7 @@
      "id": "s2",
      "mins": 15,
      "do": "Walk and tick squares. At each find, ask who left it.",
-     "say": "A chewed leaf! Who do you think ate it? A caterpillar? A snail? A goat?",
+     "say": "Found a clue? Who do you think left it? For a chewed leaf, it could be a caterpillar, a snail or a goat.",
      "kid": "Find a clue. Tick it. Say who left it.",
      "context": "This is the walking step of Animal Signs Bingo.",
      "adult": true,
@@ -1724,7 +1724,7 @@
      "what": "Try to build a nest using only a peg as a beak. Test it with an egg."
     }
    ],
-   "record": "Draw your nest. Write how many minutes it took, and whether the egg stayed in.",
+   "record": "Take a photo of your nest, or draw it. Write how many minutes it took, and whether the egg stayed in.",
    "context": "This activity lets you feel how hard it is to be a bird building a nest. You can only use a clothes peg, like a beak, to carry and weave twigs and grass.",
    "setup": [
     {
@@ -1811,7 +1811,7 @@
      "what": "Sort animal cards into town, village and forest. Find the ones that belong in more than one."
     }
    ],
-   "record": "Stick or draw each animal in their place. Draw animals that live in two or three places on the fold lines.",
+   "record": "Stick or write each animal card in the right part. Put animals that live in two or three places on the fold lines.",
    "context": "This is a sorting activity. You decide which animals live in Indian towns, villages and forests, and you find out that many live in more than one place.",
    "setup": [
     {
@@ -1861,7 +1861,7 @@
      "mins": 5,
      "do": "Look at the animals you put on the fold lines. Ask why those animals do well in more than one place.",
      "say": "Look at the animals on the folds. What do they have in common?",
-     "kid": "Look at the animals on the folds. Why can they live in many places?",
+     "kid": "Look at the animals on the folds. What do they eat? Are they shy of people?",
      "context": "This is the last step of Town, Village, Forest.",
      "ask": [
       {
@@ -1898,7 +1898,7 @@
     }
    ],
    "record": "Mark the direction of each animal sound with a small drawing or a letter.",
-   "context": "This is a listening activity. You sit very still with your eyes closed and mark every animal sound you hear on a map, with yourself in the middle.",
+   "context": "This is a listening activity. You sit very still with your eyes closed and mark every animal sound you hear on a map, with yourself in the middle. You will find out how many animals you can hear but cannot see.",
    "setup": [
     {
      "art": "A sheet of paper with a small X in the middle and the word ME, and a child sitting cross-legged on a terrace.",
@@ -1988,7 +1988,7 @@
     {
      "day": 4,
      "mins": 10,
-     "what": "Watch again at the time of day you used on the first day. Draw your animal from life."
+     "what": "Watch again at the time of day you used on the first day. Take a photo of your animal, or describe them to your grown-up."
     },
     {
      "day": 5,
@@ -2003,10 +2003,10 @@
     {
      "day": 7,
      "mins": 25,
-     "what": "Read the whole diary. Find patterns. Draw a timeline of your animal's day. Say your claim, evidence and reasoning."
+     "what": "Read the whole diary. Find patterns. Make a timeline of your animal's day. Say your claim, evidence and reasoning."
     }
    ],
-   "record": "Each day write the date, the time, the weather and what the animal did. On day 7, draw a timeline from morning to night with what your animal does at each time.",
+   "record": "Each day write the date, the time, the weather and what the animal did. On day 7, make a timeline from morning to night with what your animal does at each time. Draw it, or tell it out loud.",
    "context": "In this 7-day project you watch one animal near your home, such as a crow, a pigeon, a squirrel, an ant trail or a gecko, for about 10 minutes every day. At the end you find their habits.",
    "setup": [
     {
@@ -2055,7 +2055,7 @@
      "id": "s3",
      "mins": 50,
      "do": "Days 2 to 6: watch for 10 minutes each day, following the schedule.",
-     "say": "Today, watch at a different time. Is your animal doing the same thing as before, or something new?",
+     "say": "Today, watch again. Is your animal doing the same thing as before, or something new?",
      "kid": "Watch your animal again today. Are they doing the same thing, or something new?",
      "context": "This step of My Animal Week covers the daily watches on days 2 to 6.",
      "wait": "Come back to this each day from day 2 to day 6, for about 10 minutes.",
@@ -2065,9 +2065,9 @@
     {
      "id": "s4",
      "mins": 20,
-     "do": "Day 7: read the diary together. Look for things that happened again and again. Draw a timeline of the animal's day.",
-     "say": "Let's read the whole week. What did your animal do more than once? At what times? Now let's draw their day, from morning to night.",
-     "kid": "Read your whole diary. What happened again and again? Draw your animal's day.",
+     "do": "Day 7: read the diary together. Look for things that happened again and again. Make a timeline of the animal's day. Draw it, or tell it out loud.",
+     "say": "Let's read the whole week. What did your animal do more than once? At what times? Now let's put their day in order, from morning to night. You can draw it, or tell it.",
+     "kid": "Read your whole diary. What happened again and again? Show your animal's day from morning to night. Draw it, or tell it out loud.",
      "context": "This is the day 7 step of My Animal Week, where you look for patterns in your diary.",
      "check": {
       "t": "mcq",
@@ -2123,7 +2123,7 @@
     "Plant a small bush or a pot of flowering plants nearby. Insects come to the plants, and sparrow chicks eat insects.",
     "Put a shallow bowl of water near the box in summer."
    ],
-   "your_turn": "Now design your own sparrow home. Draw it, make it, and hang it with a grown-up. Then watch it every day for a month. Write down any bird that comes.",
+   "your_turn": "Now design your own sparrow home. Plan it on paper or with a paper model, make it, and hang it with a grown-up. Then watch it every day for a month. Write down any bird that comes.",
    "context": "This is a design challenge. You make a nest box for house sparrows, birds that live near people and need small holes to nest in.",
    "setup": [
     {
@@ -2151,9 +2151,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw a design. Check it against each constraint.",
-     "say": "Why do you think the hole must be small?",
-     "kid": "Draw your sparrow home. Check: small hole, shade, no paint inside, rain roof.",
+     "do": "Draw a design, or make a quick paper model. Check it against each constraint.",
+     "say": "Before we build, let's plan. What do sparrows need from their home? Read the rules in the list and check each one.",
+     "kid": "Draw your sparrow home, or make a quick paper model. Then check: small hole, shade, no paint inside, rain roof.",
      "context": "This is the design step of the Sparrow Home challenge.",
      "check": {
       "t": "mcq",
@@ -2209,9 +2209,9 @@
    "creative": [
     "Make a 'pigeon diary' first. Find out what times they come, as Tara did for the crows in the story The Wire Nest. Maybe there is a pattern you can use.",
     "Talk to neighbours and make a building plan, so the birds are not pushed from one flat to the next.",
-    "Draw a poster for your building about watching kindly."
+    "Make a poster for your building about watching kindly."
    ],
-   "your_turn": "Now think of an animal that shares your home or street, such as ants, a gecko, monkeys or a dog. Draw a plan for how you and that animal can share the space safely.",
+   "your_turn": "Now think of an animal that shares your home or street, such as ants, a gecko, monkeys or a dog. Make a plan for how you and that animal can share the space safely. Draw it, or tell it to your family.",
    "context": "This is a thinking challenge. You plan how people and animals that nest in buildings can share the space without anyone being harmed.",
    "setup": [
     {
@@ -2239,9 +2239,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Draw a plan together. Check it against the constraints.",
+     "do": "Make a plan together, using a photo or a drawing of your building. Check it against the constraints.",
      "say": "What would you do first? What if there are already eggs?",
-     "kid": "Draw your plan. What will you do if there are eggs?",
+     "kid": "Make your plan for the AC box. Use a photo or a drawing of your building. Check it against the three rules.",
      "context": "This is the planning step of the Share the Space challenge.",
      "check": {
       "t": "mcq",

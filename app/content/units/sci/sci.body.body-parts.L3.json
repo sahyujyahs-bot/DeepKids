@@ -570,7 +570,7 @@
       "title": "Guard Match",
       "mins": 20,
       "players": "2 to 4 players, or one child playing alone",
-      "context": "This is a matching card game about the outside of your body. Each body part has a guard that protects it, and a way we care for it. Players collect pairs of a guard card and a care card.",
+      "context": "This is a matching card game about the outside of your body. Each body part has a guard that protects it, and a way we care for it. Players collect pairs of a guard card and a care card. You will learn how each part protects itself and how to look after it.",
       "printables": [
         {
           "kind": "cards",
@@ -650,15 +650,15 @@
           "mins": 3,
           "do": "1. Cut out the 30 cards. 2. Lay the 10 PART cards face up in two rows. 3. Shuffle the other 20 cards and lay them face down in rows below.",
           "say": "Every outside part of your body has a guard and a way we care for it. In this game, you find the guard and the care card for each part.",
-          "kid": "Lay the part cards face up. Lay the other cards face down. Find the guard and the care card for each part.",
+          "kid": "Help cut out the cards and lay them out. Which part do you think has the most guards?",
           "context": "This is the first step of Guard Match, a memory card game about body parts, their guards and how we care for them."
         },
         {
           "id": "s2",
           "mins": 3,
           "do": "Play a practice round. Put the Ears card, the Earwax guard card and the 'Wipe the outside only' care card face up together.",
-          "say": "Here is a full match. The part is the ear. The guard is earwax. The care is to wipe the outside only. Why don't we poke inside?",
-          "kid": "Here is a practice match. The part is Ears. The guard is Earwax. The care is 'Wipe the outside only'. Why should we not poke inside the ear? Say your answer.",
+          "say": "Here is a full match. The part is the ear. The guard is earwax. The care is to wipe the outside only.",
+          "kid": "Look at the three cards together. They make one full match.",
           "check": {
             "t": "mcq",
             "q": "What is earwax?",
@@ -677,7 +677,7 @@
           "mins": 10,
           "do": "1. Take turns turning over two cards. 2. Keep a pair if the guard and care card belong to the same part. 3. Explain the guard for a bonus point. 4. Keep score on a scrap of paper.",
           "say": "When you win a pair, tell us how that guard protects its part.",
-          "kid": "Take turns. Turn over two cards. A guard and care card for the same part is a pair. Explain the guard to win a bonus.",
+          "kid": "Look for a guard and a care card for the same part. Try to remember where each card is.",
           "parent": "Good explanations: eyelashes catch dust, and tears wash it away. Nose hairs and mucus trap dust. Enamel is hard, so teeth can chew, and spit washes them. The top layer of skin is dead, so it can rub off without hurting. Thick soles protect feet. For private parts, a good answer is 'my body belongs to me, and I can tell a trusted adult'.",
           "context": "This is the main part of Guard Match. Players take turns finding pairs of cards."
         },
@@ -686,7 +686,7 @@
           "mins": 4,
           "do": "When all pairs are won, count the points. Then point to each PART card and say its care rule together.",
           "say": "Let's finish by saying every care rule together, from head to toe.",
-          "kid": "Count the points. Then touch each part card. Say its care rule out loud.",
+          "kid": "Touch each part card. Can you say its care rule without looking?",
           "check": {
             "t": "mcq",
             "q": "In Guard Match, you turn over the card 'Nose hairs and sticky mucus'. Which part does it guard?",
@@ -707,7 +707,7 @@
       "title": "Guess the Body Part",
       "mins": 15,
       "players": "2 or more players",
-      "context": "This is a guessing game. One player reads a clue in the voice of a body part. The others guess which part it is, and then act out what it does or how to care for it.",
+      "context": "This is a guessing game. One player reads a clue in the voice of a body part. The others guess which part it is, and then act out what it does or how to care for it. You will find out how much you remember about each part.",
       "printables": [
         {
           "kind": "cards",
@@ -787,7 +787,7 @@
           "mins": 2,
           "do": "Shuffle the 12 clue cards. Choose the first reader.",
           "say": "In this game, a body part talks to us. We must guess who it is.",
-          "kid": "A body part is talking. Listen to the clue. Guess who it is.",
+          "kid": "Listen to the clue. Which body part is talking?",
           "context": "This is the first step of Guess the Body Part, a guessing game where body parts describe themselves."
         },
         {
@@ -1526,11 +1526,11 @@
         {
           "day": 6,
           "mins": 12,
-          "what": "Count spots a last time, draw the slices, fill in the table, compare and say what you found."
+          "what": "Count spots a last time, take photos of the bags, fill in the table, compare and say what you found."
         }
       ],
-      "record": "Fill in the table on days 2, 4 and 6. On day 6, draw each slice. Then draw a bar for each slice, as tall as its number of spots.",
-      "context": "This is the bread test. Hands touch slices of bread, after different kinds of washing. The slices sit in sealed bags for a few days. Any germs left on them grow into spots you can see.",
+      "record": "Fill in the table on days 2, 4 and 6. On day 6, take a photo of each bag, or write how each slice looks. Then draw a bar for each slice, as tall as its number of spots.",
+      "context": "This is the bread test. Hands touch slices of bread, after different kinds of washing. The slices sit in sealed bags for a few days. Any germs left on them grow into spots you can see. You will find out whether washing with soap really makes hands cleaner.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: spots on each slice on day 6",
@@ -1648,9 +1648,9 @@
         {
           "id": "s6",
           "mins": 4,
-          "do": "Compare the slices. Which grew the most spots? Which grew the fewest? Did water alone work as well as soap?",
+          "do": "Ask your child to line up the bags from most spots to fewest. Then ask: did water alone work as well as soap?",
           "say": "Was your guess right? What did soap do that water alone didn't?",
-          "kid": "Was your guess right? Which slice is cleanest? Did soap beat water?",
+          "kid": "Line up the bags from most spots to fewest. Which slice is the cleanest?",
           "think": "Before which activities should you always wash your hands with soap? Name at least two.",
           "parent": "Plain water washes off some germs. But many stick in the thin layer of oil and grease on hands. Soap grabs the oil, so water can carry it, and the germs, away. Fuzzy mould spots are fungi, and the colours show different kinds. Small shiny spots may be bacteria. For the last question, good answers are before eating, after the toilet, after playing outside, after touching animals, and after sneezing into your hands."
         },
@@ -1702,8 +1702,8 @@
           "what": "Press tape on three places, stick the strips on dark paper with one plain strip for comparison, look closely and record."
         }
       ],
-      "record": "Stick the three strips on the dark paper and label each one. Fill in the table. Draw what you see through the lens.",
-      "context": "This is the sticky tape test. You press clear tape on your skin, peel it off and stick it on dark paper. Then you look closely at what came off.",
+      "record": "Stick the three strips on the dark paper and label each one. Fill in the table. Say or write what the flakes look like, or take a photo of them through the lens.",
+      "context": "This is the sticky tape test. You press clear tape on your skin, peel it off and stick it on dark paper. Then you look closely at what came off. You will find out whether your skin is flaking off right now.",
       "setup": [
         {
           "art": "A strip of clear tape pressed on the inside of a child's forearm.",
@@ -1722,9 +1722,9 @@
         {
           "id": "s1",
           "mins": 2,
-          "do": "Ask your child to guess: will anything come off on the tape?",
+          "do": "Ask your child to guess what will stick to the tape. Ask if the arm and the elbow will give the same amount.",
           "say": "Your skin looks smooth and whole. Let's see if any of it is coming off.",
-          "kid": "Will anything come off your skin onto tape? Guess first.",
+          "kid": "Guess first: what will come off your skin onto the tape?",
           "context": "This is the first step of the sticky tape test. It shows whether your skin is shedding bits of itself."
         },
         {
@@ -1738,8 +1738,8 @@
           "id": "s3",
           "mins": 3,
           "do": "Look at the strips closely, with a hand lens if you have one. Count roughly how many flakes are on each, and compare them with the plain strip.",
-          "say": "What do you see on the tape? Where did it come from?",
-          "kid": "Look closely. What are the tiny white flakes?",
+          "say": "Which strip has the most flakes? Does any strip have none?",
+          "kid": "Look closely at each strip. Count the flakes: none, a few or lots. Compare with the plain strip.",
           "check": {
             "t": "mcq",
             "q": "The skin strips have tiny white flakes, and the plain strip does not. What are the flakes most likely to be?",
@@ -1815,8 +1815,8 @@
           "what": "Take the eggs out with a spoon, rinse them, feel the shells and say what you found."
         }
       ],
-      "record": "Fill in the table. Draw both eggs on day 2, and label which was smooth and which was rough.",
-      "context": "This is the egg test. Eggshell is a hard mineral, a little like tooth enamel, though not the same. One egg is covered in toothpaste, one is not, and both sit in vinegar, which is an acid, like the acid mouth germs make. It is a rough model, and one try can give a mixed result.",
+      "record": "Fill in the table. On day 2, take a photo of both eggs, or tell a grown-up which was smooth and which was rough.",
+      "context": "This is the egg test. You will find out whether toothpaste can protect a hard shell from acid. Eggshell is a hard mineral, a little like tooth enamel, though not the same. One egg is covered in toothpaste, one is not, and both sit in vinegar, which is an acid, like the acid mouth germs make. It is a rough model, and one try can give a mixed result.",
       "setup": [
         {
           "art": "A grown-up's hands smearing white toothpaste all over a raw egg on a saucer.",
@@ -1835,8 +1835,8 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Show your child the two eggs. Tap them gently. Say that eggshell is a hard mineral, a little like tooth enamel.",
-          "say": "Your teeth have a hard coat called enamel. Mouth germs make acid from sugar, and acid eats enamel. Vinegar is an acid too. Let's see what it does to a hard shell.",
+          "do": "Show your child the two eggs. Tap them gently. Say that eggshell is hard and chalky, a little like tooth enamel.",
+          "say": "Your teeth have a hard coat called enamel. Mouth germs make acid from sugar, and acid eats enamel. Vinegar is an acid too. An acid is a sour liquid that can slowly wear hard things away. Let's see what it does to a hard shell.",
           "kid": "Eggshell is hard, a bit like your teeth. Vinegar is an acid. What will it do?",
           "context": "This is the first step of the egg test. It shows what acid does to a hard shell, and whether toothpaste protects it."
         },
@@ -1844,7 +1844,7 @@
           "id": "s2",
           "mins": 5,
           "do": "Cover one egg completely in toothpaste and leave it on a saucer for one hour. Then wipe off most of the paste gently with a tissue.",
-          "say": "This egg is brushing its teeth. We give the toothpaste time to soak into the shell.",
+          "say": "This egg is brushing its teeth. We give the toothpaste time to coat the shell.",
           "kid": "A grown-up covers one egg in toothpaste. Wait one hour. Then wipe it gently.",
           "adult": true,
           "wait": "Leave it for one hour."
@@ -1854,7 +1854,7 @@
           "mins": 7,
           "do": "Put each egg in its own glass. Pour vinegar over both until they are covered. Watch for one or two minutes.",
           "say": "Look closely at the shells. What is coming off them?",
-          "kid": "Put both eggs in vinegar. Watch. What do you see on the shells?",
+          "kid": "Put both eggs in vinegar. Watch the shells closely for two minutes. Which egg has more bubbles?",
           "adult": true,
           "check": {
             "t": "mcq",
@@ -1874,8 +1874,8 @@
           "id": "s4",
           "mins": 6,
           "do": "Next day, lift each egg out with a spoon and rinse it. Let your child feel both shells.",
-          "say": "Feel both shells. Which is rougher? Which is softer?",
-          "kid": "Lift out the eggs with a spoon. Rinse them. Feel both shells. Which is rough?",
+          "say": "Here are the eggs after one night. Take your time and feel both.",
+          "kid": "Lift out the eggs with a spoon. Rinse them. Feel both shells. Which one is rougher? Which is softer?",
           "wait": "Leave both eggs in the vinegar overnight.",
           "adult": true
         },
@@ -1924,7 +1924,7 @@
         }
       ],
       "record": "Keep the map on the wall. Through the unit, add one care rule next to each part.",
-      "context": "This is a drawing activity. You trace round your child on big paper, then label every part you can see from the outside, with its job.",
+      "context": "This is a map activity. You trace round your child on big paper, then label every part you can see from the outside, with its job. You will see how many outside parts you have, and what each one does.",
       "setup": [
         {
           "art": "A child lying on big paper on the floor, arms a little apart, a parent drawing round them with a crayon.",
@@ -1979,9 +1979,9 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Stick each label on the outline with an arrow. Next to each, your child writes or draws one job that part does.",
+          "do": "Stick each label on the outline with an arrow. Next to each, your child says one job that part does, and writes it. A grown-up can write it for them.",
           "say": "Every part has a job. What does your nose do? What do your nails do?",
-          "kid": "Stick on each label. Next to it, write or draw its job.",
+          "kid": "Stick on each label. Say what that part does. Write it on the label, or ask a grown-up to write it.",
           "parent": "Simple jobs are fine: eyes see, ears hear, nose breathes and smells, skin covers and feels, nails protect fingertips, feet carry us. Children often forget that skin is an organ. Ask, 'What covers all of you?'"
         },
         {
@@ -2027,7 +2027,7 @@
         }
       ],
       "record": "Stick your two thumbprints side by side and circle a ridge fork on each. Stick each person's thumbprint on the paper with their name. Make a tally of loops, whorls and arches.",
-      "context": "This is a fingerprint activity. You take prints with pencil and tape, compare your own two thumbs, and sort the family's prints into three kinds: loops, whorls and arches.",
+      "context": "This is a fingerprint activity. You take prints with pencil and tape, compare your own two thumbs, and sort the family's prints into three kinds: loops, whorls and arches. You will find out whether anyone has the same print as you, even your own other thumb.",
       "setup": [
         {
           "art": "A child rubbing a pencil hard on paper to make a dark patch, then rubbing a fingertip on it.",
@@ -2059,8 +2059,8 @@
           "id": "s2",
           "mins": 4,
           "do": "Look at the print with a hand lens. Show the three kinds: a loop comes in from one side and goes back out the same side. A whorl goes round and round. An arch rises like a small hill.",
-          "say": "Which kind is yours: a loop, a whorl or an arch?",
-          "kid": "Look closely. Is yours a loop, a whorl or an arch?",
+          "say": "Every print is one of three kinds. Let's find out which kind yours is.",
+          "kid": "Look closely at the lines on your print. Which kind does it look like?",
           "check": {
             "t": "mcq",
             "q": "A print has lines that go round and round, like water down a drain. What kind is it?",
@@ -2078,8 +2078,8 @@
           "id": "s3",
           "mins": 5,
           "do": "1. Make a print of your child's left thumb the same way, and stick it next to the right one. 2. Before looking closely, ask your child whether the two prints will match, and why. 3. Use a hand lens to look at the right print. Find a place where a ridge splits in two, like the letter Y, or where a ridge stops. Circle it. 4. Look at the same place on the left print.",
-          "say": "Your two thumbs grew from the same genes. Do you think their prints will match? Why do you think so? Now find a ridge that splits in two, like a Y. Is there one in the same place on your other thumb?",
-          "kid": "Print your left thumb too. Put it next to the right one. Will they match? Find a ridge that splits like a Y. Circle it. Is there one in the same place on the other print?",
+          "say": "Genes are the instructions in your body that guide how you grow. Your two thumbs grew from the same genes. Do you think their prints will match? Why do you think so? Now find a ridge that splits in two, like a Y. Is there one in the same place on your other thumb?",
+          "kid": "Print your left thumb too. Put it next to the right one. Find a ridge that splits like a Y, and circle it. Look at the same place on the other print.",
           "parent": "Genes are the instructions inside your cells that guide how your body grows. The two prints often look like mirror images, and they may be the same kind, such as two whorls. But the small forks and ends will not be in the same places. If a print is smudged, make a darker pencil patch and try again.",
           "check": {
             "t": "mcq",
@@ -2148,8 +2148,8 @@
           "what": "Coat hands in oil and pretend germs (turmeric or glitter). Wash with water only, then with soap, and learn the six steps of handwashing."
         }
       ],
-      "record": "Draw your hands after water only and after soap. Then draw the six steps of handwashing.",
-      "context": "This is a handwashing activity. Turmeric powder or glitter stands in for germs on oily hands. You see what water alone does, then what soap does.",
+      "record": "Take a photo of your hands after water only and after soap, if you like. Then show a grown-up the six steps of handwashing, in order.",
+      "context": "This is a handwashing activity. Turmeric powder or glitter stands in for germs on oily hands. You see what water alone does, then what soap does. You will find out why soap cleans better than water.",
       "setup": [
         {
           "art": "A child's hands rubbed with oil and sprinkled with yellow turmeric powder.",
@@ -2177,8 +2177,8 @@
           "id": "s2",
           "mins": 3,
           "do": "Your child washes in plain water for 20 seconds, then shakes their hands and looks.",
-          "say": "Did water alone get the germs off?",
-          "kid": "Wash with water only for 20 seconds. Look. Is the powder gone?",
+          "say": "First we try plain water. Rub your hands together under it.",
+          "kid": "Wash with water only for 20 seconds. Then look at your hands.",
           "check": {
             "t": "mcq",
             "q": "After water only, most of the powder is still stuck on. Why?",
@@ -2204,8 +2204,8 @@
           "id": "s4",
           "mins": 4,
           "do": "Look at the hands. Where is the powder still stuck? Talk about when to wash with soap. Wash before eating, after the toilet, after playing outside and after touching animals. Wash after sneezing into your hands too.",
-          "say": "When are the most important times to wash with soap?",
-          "kid": "Where is the powder still stuck? Name four times when you must wash with soap.",
+          "say": "The powder shows where hands are hard to wash. Now let's remember when washing really matters.",
+          "kid": "Look at your hands. Where is the powder still stuck?",
           "ask": [
             {
               "q": "When should we always wash hands with soap?",
@@ -2252,7 +2252,7 @@
         },
         {
           "art": "The traced hand with a small drawing of a grown-up's face on each finger and 'My body belongs to me' on the palm.",
-          "caption": "2. Draw a trusted grown-up on each finger."
+          "caption": "2. Write a trusted grown-up's name on each finger."
         },
         {
           "art": "A child standing tall, palm held out, saying 'No!' firmly, with a parent smiling.",
@@ -2274,7 +2274,7 @@
           "mins": 3,
           "do": "Ask your child the question below. Listen to their answer and gently fill gaps.",
           "say": "What would you do if someone said, 'This touch is our secret'?",
-          "kid": "Someone says, 'This touch is our secret.' What do you do?",
+          "kid": "Someone says, 'This touch is our secret.' What would you do? Tell your grown-up.",
           "ask": [
             {
               "q": "What would you do if someone said a touch was a secret?",
@@ -2301,9 +2301,9 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "Your child traces their hand. On each finger, they draw or write one grown-up they trust and could tell anything. On the palm, they write: My body belongs to me.",
+          "do": "Your child traces their hand. On each finger, they write the name of one grown-up they trust and could tell anything. They can draw that person instead, or say the names and let you write them. On the palm, they write: My body belongs to me.",
           "say": "Who are five grown-ups you could tell anything to? Would they listen? Could you reach them?",
-          "kid": "Trace your hand. On each finger, draw a grown-up you trust. On the palm, write: My body belongs to me.",
+          "kid": "Trace your hand. On each finger, write the name of a grown-up you trust. On the palm, write: My body belongs to me.",
           "parent": "Help your child choose people they actually see often. If one does not listen, the child should tell the next one."
         },
         {
@@ -2346,8 +2346,8 @@
           "what": "Count blinks for one minute, then see how eyebrows send drips aside."
         }
       ],
-      "record": "Write how many times you blinked in one minute. Draw where the water drops ran.",
-      "context": "This is an activity about the guards of the eyes. You count how often a person blinks, and see what eyebrows do with water running down the forehead.",
+      "record": "Write how many times the person blinked in one minute. Tell a grown-up where the water drops ran.",
+      "context": "This is an activity about the guards of the eyes. You count how often a person blinks, and see what eyebrows do with water running down the forehead. You will find out how the eyes keep drips and dust out.",
       "setup": [
         {
           "art": "A child watching a parent's eyes and making tally marks while a timer runs.",
@@ -2377,7 +2377,7 @@
           "mins": 5,
           "do": "Your child sits up straight, facing forward, and closes their eyes. Drip a few drops of clean water on the forehead just above one eyebrow, and watch where it runs. Then your child opens their eyes and looks in the mirror at the wet track.",
           "say": "Where does the water go when it reaches the eyebrow?",
-          "kid": "Close your eyes. A grown-up drips water above your eyebrow. Where does it run?",
+          "kid": "Sit still with your eyes closed. A grown-up drips a few drops above your eyebrow. Then look in the mirror.",
           "adult": true,
           "check": {
             "t": "mcq",
@@ -2396,9 +2396,9 @@
         {
           "id": "s3",
           "mins": 3,
-          "do": "Talk about the other eye guards: eyelashes, eyelids and tears. Add 'eye care' to the Outside-Me Map.",
+          "do": "Talk about the other eye guards: eyelashes, eyelids and tears. If you made the Outside-Me Map, add 'eye care' to it.",
           "say": "Name all the guards of your eyes. Which one did you see working today?",
-          "kid": "Name the guards of your eyes: eyelashes, eyelids, tears and eyebrows. Add them to your map."
+          "kid": "Can you name four guards of your eyes? Point to each one on your face."
         }
       ]
     },
@@ -2424,8 +2424,8 @@
           "what": "Act out how earwax traps dust and moves out of the ear."
         }
       ],
-      "record": "Draw a cut-away of the ear with the wax moving outwards, and write 'never poke in' next to it.",
-      "context": "This is a play-acting activity. You act out how earwax traps dust inside the ear and slowly carries it out.",
+      "record": "Write the ear care rule on a card and keep it by the mirror. Then tell someone at home how the wax moves out.",
+      "context": "This is a play-acting activity. You act out how earwax traps dust inside the ear and slowly carries it out. You will see why we never poke things into our ears.",
       "setup": [
         {
           "art": "A long sari laid on the floor like a tunnel, with a cushion at the far end labelled 'eardrum'.",
@@ -2442,7 +2442,7 @@
           "mins": 3,
           "do": "Lay the sari on the floor as the ear canal. Put a cushion at one end as the eardrum. Throw paper balls in as dust.",
           "say": "This is the inside of an ear. Dust is blowing in. Who will stop it reaching the eardrum?",
-          "kid": "The sari is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.",
+          "kid": "Help lay out the sari. It is the ear tube, called the ear canal. The cushion is the eardrum.",
           "context": "This is the first step of the Wax Escalator, an act-it-out about how earwax cleans the ear."
         },
         {
@@ -2466,9 +2466,9 @@
         {
           "id": "s3",
           "mins": 3,
-          "do": "Swap roles. Then talk about how we should care for our ears. Add the ear care rule to the Outside-Me Map.",
+          "do": "Swap roles. Then talk about how we should care for our ears. If you made the Outside-Me Map, add the ear care rule to it.",
           "say": "So what's our ear rule?",
-          "kid": "Swap roles. Then say the ear rule: wipe the outside, never poke in.",
+          "kid": "Swap roles. Then tell your grown-up the rule for looking after ears.",
           "think": "If wax is a guard, why does a doctor sometimes take some out?",
           "parent": "Sometimes wax gets stuck and blocks hearing. Then a doctor removes it safely. Don't use oil, sticks or ear candles at home unless a doctor tells you to."
         }
@@ -2510,7 +2510,7 @@
         {
           "day": 8,
           "mins": 5,
-          "what": "Measure the gap between the skin and the mark. If the mark has faded, draw it again right over the old one."
+          "what": "Measure the gap between the skin and the mark. If the mark has faded, mark it again right over the old one."
         },
         {
           "day": 15,
@@ -2519,7 +2519,7 @@
         }
       ],
       "record": "A table of the date and the gap in millimetres for your thumbnail and a grown-up's. Then a bar chart.",
-      "context": "This is a two-week project. You mark a thumbnail and measure how far the mark moves as the nail grows.",
+      "context": "This is a two-week project. You mark a thumbnail and measure how far the mark moves as the nail grows. You will find out how fast your nails grow, and compare them with a grown-up's.",
       "setup": [
         {
           "art": "A tiny dot of nail paint on a child's thumbnail just above the skin.",
@@ -2547,7 +2547,7 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "On day 8, measure the gap from the skin to the mark, in millimetres. Write it down. If the mark has faded, draw it again right over the old one.",
+          "do": "On day 8, measure the gap from the skin to the mark, in millimetres. Write it down. If the mark has faded, mark it again right over the old one.",
           "say": "How far has the mark moved in one week?",
           "kid": "Measure from your skin to the mark. Write the number in millimetres.",
           "wait": "Come back on day 8."
@@ -2578,7 +2578,7 @@
           "mins": 5,
           "do": "Work out how far the nail grew in two weeks. Guess how far it would grow in a month and in a year. Talk about what it means for care.",
           "say": "If nails grow about 3 millimetres a month, how often should we cut them?",
-          "kid": "How far did your nail grow in two weeks? How far in a year, if it keeps going? How often should you cut your nails?"
+          "kid": "How far did your nail grow in two weeks? Work out how far it would grow in a year. Keep the same speed."
         }
       ]
     }
@@ -2613,7 +2613,7 @@
         "Make it at child height, with a picture of the six handwashing steps beside it."
       ],
       "your_turn": "Draw your design and label each part. Then build it with a grown-up, and test it: how many handwashes does one bottle give?",
-      "context": "This is a design challenge. You build a handwashing station you can use without touching it with dirty hands. It is called a tippy tap.",
+      "context": "This is a design challenge. You build a handwashing station you can use without touching it with dirty hands. It is called a tippy tap. You will find out how many handwashes one bottle gives.",
       "setup": [
         {
           "art": "A grown-up pushing a thick nail or skewer through the plastic near the neck of a bottle to make a small hole.",
@@ -2634,20 +2634,20 @@
           "mins": 5,
           "do": "Read the problem and the ideas together. Talk about how you could tip a bottle without touching it.",
           "say": "In many schools and villages, there is no sink. How could people wash hands without touching a dirty handle?",
-          "kid": "Many places have no sink. How could you wash without touching a dirty tap?",
+          "kid": "Think of a way to tip a bottle without using your hands. Tell your grown-up your ideas.",
           "context": "This is the first step of the tippy tap challenge. You plan a handwashing station worked by your foot."
         },
         {
           "id": "s2",
           "mins": 5,
           "do": "Your child draws a design and labels the parts: the bottle, the stick, the string, the pedal and the soap.",
-          "say": "Draw your design first. Show where the water comes out.",
-          "kid": "Draw your design. Label the bottle, string, pedal and soap."
+          "say": "Plan your design first. Show where the water comes out.",
+          "kid": "Draw your design and label the bottle, string, pedal and soap. Or tell your grown-up the plan, and they write the labels."
         },
         {
           "id": "s3",
           "mins": 15,
-          "do": "A grown-up makes a small hole near the neck of the bottle and keeps the cap on. Fill it with water. Hang it from a chair back, a balcony grille or a stick, over the bucket. Tie a string to a pedal stick on the floor, and hang the soap beside it.",
+          "do": "A grown-up makes a small hole near the neck of the bottle and keeps the cap on. Fill it with water, but only up to below the hole. Hang it from a chair back, a balcony grille or a stick, over the bucket. Tie a string from a pedal stick on the floor to the bottle's neck, so the pedal tips the bottle. Hang the soap beside it.",
           "say": "Now we build it. I'll make the hole, because it needs a sharp tool.",
           "kid": "A grown-up makes the hole. You help hang the bottle and tie the pedal.",
           "adult": true,
@@ -2701,7 +2701,7 @@
         "A slanted forehead, so drips run off to the sides."
       ],
       "your_turn": "Draw your design. Then build it on a box head and test it with drops of water from a spoon. Did the drips miss the eyes?",
-      "context": "This is a design challenge. You protect a robot's camera eyes from drips, copying the way eyebrows and eyelashes protect your eyes.",
+      "context": "This is a design challenge. You protect a robot's camera eyes from drips, copying the way eyebrows and eyelashes protect your eyes. You will find out which shapes keep drips out of the robot's eyes.",
       "setup": [
         {
           "art": "A cardboard box robot head with two bottle-cap eyes.",
@@ -2728,9 +2728,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Your child draws a design and labels each part and its job.",
+          "do": "Your child draws a design and labels each part and its job. Or they lay card pieces on the box head to show their plan.",
           "say": "You can copy your own eyebrows and eyelashes, or invent something new.",
-          "kid": "Draw guards for the robot's eyes. Label each part's job."
+          "kid": "Draw guards for the robot's eyes and label each part's job. Or lay card pieces on the box head to show your plan."
         },
         {
           "id": "s3",

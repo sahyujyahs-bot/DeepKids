@@ -203,43 +203,43 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 ## Games
 ### g1 · Echo Beat Cards (15 min)
 - **rules:** Cut out the 12 cards. Mix them and put them face down in a pile.; One player is the leader. A grown-up or the leader pats a slow, steady beat on their knees to start.; The leader takes the top card secretly and plays its rhythm twice, in time with the beat.; Everyone else copies the rhythm. Each player who copies it right gets 1 point.; The leader puts the card face up with two other cards from the pile. Players point to the card they think was played. Each right guess gets 1 point.; The next player becomes the leader. When everyone has led three times, the player with the most points wins.
-- **Printable cards: 12 rhythm cards to cut out, with the sounds counted on the back:** clap, clap, clap, clap (back: 4 claps); clap, clap, rest, clap (back: 3 claps and 1 silent beat); clap, pat, clap, pat (back: 2 claps and 2 knee pats); pat, pat, clap, rest (back: 2 knee pats, 1 clap and 1 silent beat); clap, clap, pat, pat (back: 2 claps and 2 knee pats); stamp, clap, clap, rest (back: 1 stamp, 2 claps and 1 silent beat); clap, rest, clap, rest (back: 2 claps and 2 silent beats); pat, clap, clap, clap (back: 1 knee pat and 3 claps); stamp, stamp, clap, rest (back: 2 stamps, 1 clap and 1 silent beat); clap, pat, pat, clap (back: 2 claps and 2 knee pats); Say 'ta ka di mi'. Clap on 'ta', pat on the rest. (back: 1 clap and 3 knee pats); Say 'ta ki ta, ta ki ta'. Clap on the first 'ta' of each group, pat the rest. (back: 2 claps and 4 knee pats)
+- **Printable cards: 12 rhythm cards to cut out, with the sounds counted on the back:** clap, clap, clap, clap (back: 4 claps); clap, clap, rest, clap (back: 3 claps and 1 silent beat); clap, pat, clap, pat (back: 2 claps and 2 knee pats); pat, pat, clap, rest (back: 2 knee pats, 1 clap and 1 silent beat); clap, clap, pat, pat (back: 2 claps and 2 knee pats); stamp, clap, clap, rest (back: 1 stamp, 2 claps and 1 silent beat); clap, rest, clap, rest (back: 2 claps and 2 silent beats); pat, clap, clap, clap (back: 1 knee pat and 3 claps); stamp, stamp, clap, rest (back: 2 stamps, 1 clap and 1 silent beat); clap, pat, pat, clap (back: 2 claps and 2 knee pats); Say 'ta ka di mi'. Clap on 'ta', pat on the other three. (back: 1 clap and 3 knee pats); Say 'ta ki ta, ta ki ta'. Clap on the first 'ta' of each group, pat the others. (back: 2 claps and 4 knee pats)
 - **Printable score sheet: Score sheet:** Player name; Copied it right (1 point); Named the card (1 point); Total
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Read one card aloud and play it together, so everyone knows what clap, pat, stamp and rest mean.  
   *Parent says:* A rest is a silent beat. You do nothing, but you still count it. Let's try one card together.  
-  *Child mode:* A rest means a silent beat. Count it, but make no sound.
+  *Child mode:* Play one card with your grown-up. On a rest, stay silent but keep counting.
   - Note: Rests are the hardest part. Nod your head on a rest, so everyone feels the silent beat.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns to lead. 2. Keep a steady beat going on your knees. 3. Write the points on the score sheet.  
-  *Parent says:* Listen to the leader. Copy the rhythm exactly. Then say which card it was.  
-  *Child mode:* Listen. Copy the rhythm. Then point to the card.
+  *Parent says:* Listen to the leader. Then copy the rhythm exactly.  
+  *Child mode:* Copy the rhythm you hear. Then point to the card you think it was.
   - Ask: How did you know which card it was? (good: I counted the claps.; I heard where the rest was.)
   - Note: If a child loses the beat, stop and pat the beat together for a few seconds before trying again.
 - **s3 (2 min)**  
-  *Parent does:* Add up the points. Ask which cards had a rest, and how the players knew when to stay quiet.  
-  *Parent says:* Some cards had a rest in them. How did you know when to stay quiet?  
-  *Child mode:* Some cards had a rest. How did you know when to stay quiet?
+  *Parent does:* Add up the points. Then ask the question below.  
+  *Parent says:* Let's add up the points. Some of the cards had a rest in them.  
+  *Child mode:* Think back to the cards that had a rest.
   - Ask: How did you know when to stay quiet on a rest? (good: I kept counting the beat in my head.; I nodded my head on the rest.)
   - Check: You play 'clap, rest, clap, rest'. How many sounds do you make? → **2**
 ### g2 · Pattern Train: build a rhythm that repeats (15 min)
 - **rules:** Cut out the 20 sound cards and spread them face up.; The first player builds a train of 8 cards in a line. The train must be a pattern that repeats, such as clap, pat, clap, pat, clap, pat, clap, pat.; Everyone checks that the pattern really repeats. If it does not, the builder fixes it.; A grown-up pats a steady beat. Everyone plays the train together, one card on each beat, from the first card to the last.; If everyone plays the whole train without stopping, the builder gets 1 point.; The next player changes the train into a new repeating pattern, by swapping as few cards as they can. Play it again.; After four trains each, the player with the most points wins.
 - **Printable cards: 20 sound cards to cut out:** Clap; Clap; Clap; Clap; Clap; Clap; Pat your knees; Pat your knees; Pat your knees; Pat your knees; Pat your knees; Pat your knees; Stamp; Stamp; Stamp; Stamp; Rest: a silent beat; Rest: a silent beat; Rest: a silent beat; Rest: a silent beat
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 20 cards. 2. Build the first train together: clap, pat, clap, pat, clap, pat, clap, pat.  
-  *Parent says:* A pattern repeats in the same order. Clap, pat, clap, pat. What comes next?  
-  *Child mode:* Clap, pat, clap, pat. What comes next?
+  *Parent does:* 1. Cut out the 20 cards. 2. Lay four cards in a line: clap, pat, clap, pat. 3. Ask your child which card comes next.  
+  *Parent says:* A pattern repeats in the same order. Look at these four cards.  
+  *Child mode:* Which card comes next?
   - Note: Patterns with two parts are easiest, like clap, pat. Patterns with three or four parts, like clap, clap, stamp, rest, are harder.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns to build or change the train. 2. Pat a steady beat while everyone plays it.  
-  *Parent says:* Is this train a pattern that repeats? Let's check, then play it on the beat.  
-  *Child mode:* Build your train. Does it repeat? Now play it on the beat.
+  *Parent says:* Let's check that your train repeats. Then we play it on the beat.  
+  *Child mode:* Build a train of 8 cards. Then play it, one card on each beat.
   - Ask: How do you know your train repeats? (good: The first half is the same as the second half.; Clap, clap, stamp comes again and again.)
   - Note: A train of 8 can hold a 2-part pattern four times, or a 4-part pattern twice. A 3-part pattern does not fit exactly into 8 cards. If your child spots this, praise it.
 - **s3 (2 min)**  
-  *Parent does:* Count the points. Ask which pattern repeated the most times in 8 cards.  
-  *Parent says:* Look at the trains you built. Which pattern repeated the most times in 8 cards?  
-  *Child mode:* Look at the trains. Which pattern repeated the most times?
+  *Parent does:* Count the points. Then ask the question below.  
+  *Parent says:* Let's look at the trains you built.  
+  *Child mode:* Count how many times each pattern came round.
   - Ask: Which pattern repeated the most times in 8 cards? (good: A pattern with two parts, like clap, pat. It repeats four times.; A pattern with four parts repeats only twice.)
   - Check: A train goes: clap, stamp, clap, stamp, clap, stamp, clap. What should the 8th card be? → **Stamp**
 
@@ -248,17 +248,17 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 - **question:** If boxes are all made of card and tapped the same way, does the size of a box change how high or low it sounds?
 - **predict:** Guess first. Which box will make the deepest sound: the smallest, the biggest, or will they all sound the same? Why do you think so?
 - **fair test:** Every box is empty, with its lid taped shut, and lies on the floor on its biggest side. Every tap is the same: one finger, dropped onto the middle of the top. Only the size of the box changes. We tap each box twice, because one tap can sound different by mistake.
-- **record:** Fill in the results table. Draw the four boxes on a ladder: the deepest at the bottom, the highest at the top. Write how many boxes you named right in the eyes-shut round.
+- **record:** Fill in the results table. Line up the four boxes from the deepest sound to the highest, and take a photo, or draw them on a ladder. Write how many boxes you named right in the eyes-shut round.
 - **results table:** Box, from smallest to biggest | My guess: high, middle or low? | The sound word I heard (tik, tok, dum or dhum) | What I heard: high, middle or low?
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the four boxes in a row, from smallest to biggest. 2. Draw the results table with four rows. 3. Ask your child to guess for each box.  
-  *Parent says:* We are going to tap each box in exactly the same way. Which one will make the deepest sound? Why do you think so?  
-  *Child mode:* Look at the four boxes. Which will sound deepest? Why do you think so?
+  *Parent does:* 1. Put the four boxes in a row, from smallest to biggest. 2. Make the results table on paper, with four rows. 3. Ask your child to guess for each box.  
+  *Parent says:* We are going to tap each box in exactly the same way. Which one will make the deepest sound?  
+  *Child mode:* Look at the four boxes. Point to the one you think will sound deepest.
   - Ask: Why do you think so? (good: The big one, because big drums are deep.; The small one, because it is hard.; All the same, because they are all card.)
   - Note: Any guess is fine if it has a reason. Write each guess in the table. Do not explain anything yet.
 - **s2 (2 min)**  
   *Parent does:* 1. Tape each lid shut. 2. Lay each box on the floor on its biggest side. 3. Show the tap: one finger, dropped onto the middle of the top.  
-  *Parent says:* Every box must get the same tap, in the same place. Why do you think that matters?  
+  *Parent says:* Every box gets the same tap, in the same place. Watch how I do it.  
   *Child mode:* Tape the lids shut. Lay each box flat. Tap the middle with one finger.
   - Ask: Why must every tap be the same? (good: So only the box is different.; So it is fair.)
   - Note: A tile or stone floor works well. On a soft mattress the boxes hardly sound at all.
@@ -270,8 +270,8 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   - Note: The matchbox gives a high, short 'tik'. The big carton gives a deep 'dhum', like a big drum. If two boxes sound almost the same, they are probably close in size. Use boxes that are very different.
 - **s4 (2 min)**  
   *Parent does:* 1. Your child rests the fingertips of one hand lightly on the top of the big carton. 2. With the other hand, they slap the side of the carton once with a flat palm. 3. Do the same with the smallest box.  
-  *Parent says:* Put your fingers lightly on top of the big carton. Now slap its side. What do your fingers feel?  
-  *Child mode:* Put your fingers on top of the big box. Slap its side. What do you feel?
+  *Parent says:* Put your fingers lightly on top of the big carton. Now slap its side and notice your fingers.  
+  *Child mode:* Put your fingers on top of the big box. Slap its side.
   - Ask: What did your fingers feel? (good: A buzz.; The box shook a little.; It tickled.)
   - Note: The carton's top buzzes under the fingers. That buzz is the card vibrating. The small box buzzes too, but too fast and too little to feel well.
 - **s5 (3 min)**  
@@ -282,12 +282,12 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 - **s6 (3 min)**  
   *Parent does:* 1. Stand the three steel bowls on a folded towel. 2. Your child taps the rim of each gently with the spoon. 3. Ask which rings lowest and which highest.  
   *Parent says:* These bowls are all the same steel, from one set. Only the size is different. Which rings lowest?  
-  *Child mode:* Tap each bowl with the spoon. Which rings lowest? Which rings highest?
+  *Child mode:* Tap each bowl gently with the spoon. Listen for the lowest and the highest.
   - Note: The biggest bowl rings lowest and the smallest rings highest. This shows the size rule works for steel too, not only card. Tap gently, so the spoon does not dent or chip anything.
 - **s7 (2 min)**  
   *Parent does:* 1. Ask your child what they found, and how they know. 2. Only then, explain why bigger boxes sound lower.  
-  *Parent says:* What did you find out? What did you hear that tells you so? Why do you think the big box sounded deeper?  
-  *Child mode:* What did you find? Which sounded deepest? Why, do you think?
+  *Parent says:* Let's look at your results table together. Then tell me what you found.  
+  *Child mode:* Look at your results table. Tell your grown-up what you found.
   - Ask: What did you find, and how do you know? (good: The bigger the box, the deeper the sound. The carton went dhum and the matchbox went tik.; The biggest bowl rang lowest too.)
   - Note: After your child has said what they think, explain: when you tap a box, its side bends in and springs back again and again. That is vibrating. A big side is floppy, so it vibrates more slowly. Slow vibrations make a low sound.
   - Check: You tap a box and hear a high 'tik'. You want a lower sound. Which box should you tap next, in the same way? → **A much bigger box**
@@ -295,12 +295,12 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 - **question:** Does a lullaby have a slower beat than a dance song? How many beats does each have in 15 seconds?
 - **predict:** Guess first. Which song will give you more pats in 15 seconds, the lullaby or the dance song? About how many for each? Why do you think so?
 - **fair test:** We count for the same time, 15 seconds, for both songs. The same person pats, one pat on each beat. We count each song twice, because one count can go wrong.
-- **record:** Fill in the results table. Draw one bar for each song, as tall as its number of pats.
+- **record:** Fill in the results table. Draw one bar for each song, as tall as its number of pats. Or write the two numbers and circle the bigger one.
 - **results table:** Song | My guess: how many pats? | Pats in 15 seconds, try 1 | Pats in 15 seconds, try 2
 - **s1 (3 min)**  
-  *Parent does:* 1. Choose the lullaby and the dance song. 2. Draw the results table. 3. Ask your child to guess the number of pats for each.  
-  *Parent says:* We will pat along to a lullaby and a dance song for 15 seconds each. Which will give more pats? How many? Why do you think so?  
-  *Child mode:* Which song has a faster beat? Guess how many pats for each. Why?
+  *Parent does:* 1. Choose the lullaby and the dance song. 2. Make the results table on paper. 3. Ask your child to guess the number of pats for each.  
+  *Parent says:* We will pat along to a lullaby and a dance song for 15 seconds each. Which will give more pats? About how many?  
+  *Child mode:* Guess how many pats each song will give. Say a number for each song.
   - Ask: Why do you think so? (good: The dance song, because dancing is fast.; The same, because a beat is a beat.)
   - Note: Fifteen seconds is about as long as it takes to count slowly to fifteen. Write both guesses in the table.
 - **s2 (4 min)**  
@@ -309,7 +309,7 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   *Child mode:* Listen for the steady beat. Pat your knees on every beat.
   - Note: Some children pat on every word instead of every beat. Pat with them until they settle into a steady pulse.
 - **s3 (6 min)**  
-  *Parent does:* 1. Play the lullaby. 2. When the seconds hand of the clock reaches 12, say 'Go'. 3. Make one tally mark for each pat. 4. Say 'Stop' after 15 seconds. 5. Do the same for the dance song.  
+  *Parent does:* 1. Play the lullaby. 2. Start the timer, or wait for the seconds hand of the clock to reach 12. Then say 'Go'. 3. Make one tally mark for each pat. 4. Say 'Stop' after 15 seconds. 5. Do the same for the dance song.  
   *Parent says:* Pat on every beat. I will make a mark each time you pat. Ready? Go!  
   *Child mode:* Pat on every beat until the grown-up says stop.
   - Note: A lullaby usually gives about 15 to 20 pats in 15 seconds. A fast dance song often gives 25 to 35. Your numbers will depend on your songs.
@@ -320,36 +320,36 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   - Note: The two counts for one song should be close. If one is about half the other, your child patted on every other beat that time. That is fine: count again.
 - **s5 (3 min)**  
   *Parent does:* 1. Ask what your child found, and how they know. 2. Then tell them the word for how fast a beat goes: tempo.  
-  *Parent says:* Which song had more pats in 15 seconds? How many more? Why do you think a lullaby is slow?  
-  *Child mode:* Which song had more pats? Why is a lullaby slow?
+  *Parent says:* Let's look at the table. Which song had more pats, and how many more?  
+  *Child mode:* Look at your numbers. Which song had more pats?
   - Ask: Why might a lullaby be slow? (good: To make the baby sleepy.; Slow rocking is calm.)
   - Note: How fast a beat goes is called its tempo. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.
   - Check: You pat along to a slow lullaby for 15 seconds. About how many pats will you make? → **18**
 
 ## Activities
 ### a1 · Name Rhythms: find the beat, then clap your name (8 min)
-- **record:** Write three family names and draw a dot for each clap under each name.
+- **record:** Write three family names. Next to each, write how many claps it has.
 - **s1 (3 min)**  
   *Parent does:* 1. Say 'tick, tick, tick, tick' slowly and evenly, like a clock. 2. March round the room together, one step on each tick.  
   *Parent says:* Let's march like a clock. One step on every tick. Tick, tick, tick, tick.  
-  *Child mode:* March round the room. One step on every tick.
+  *Child mode:* March round the room. Keep your steps as even as the ticks.
   - Ask: Did the ticks get faster or slower, or stay the same? (good: They stayed the same.; Every gap was the same.)
   - Note: Keep your ticks very even, about one each second. This steady pulse is called the beat.
 - **s2 (3 min)**  
   *Parent does:* 1. Say your child's name in parts, clapping on each part. 2. Do the same with three family names. For example, Ka-vya is 2 claps and Mee-nak-shi is 3.  
-  *Parent says:* Now clap your name. One clap for each part. Ka-vya: clap, clap. How many claps is your name?  
-  *Child mode:* Clap your name. One clap for each part. How many claps?
+  *Parent says:* Now clap your name, one clap for each part. Ka-vya has two parts, so it is two claps.  
+  *Child mode:* Clap your name. Count how many claps it has.
   - Note: Clapping the parts of a name gives a pattern of claps. That pattern of claps is called a rhythm. Different names make different rhythms.
 - **s3 (2 min)**  
   *Parent does:* 1. March and say 'tick, tick' again. 2. While the beat goes on, your child claps and says one name after another.  
   *Parent says:* Keep marching on the beat. Now clap names on top of it. Does your marching change?  
-  *Child mode:* Keep marching. Clap names at the same time. Do your feet change?
+  *Child mode:* Keep marching, and clap a name at the same time. Keep your steps steady.
   - Note: The marching stays the same, and the claps change. The steady marching is the beat. The pattern of claps is the rhythm.
   - Check: You march and clap your name at the same time. Which one is the beat? → **Your steady marching steps**
 ### a2 · Ta Ka Di Mi: speak like a drum, and count Adi talam (12 min)
-- **record:** Draw the 8 hand shapes of Adi talam in a circle, numbered 1 to 8.
+- **record:** Write the numbers 1 to 8 in a circle. Next to each, write what your hands do: clap, little finger, ring finger, middle finger or wave. Then show your grown-up the whole round without looking.
 - **s1 (3 min)**  
-  *Parent does:* 1. Pat your knees slowly and evenly together. 2. Say one syllable on each pat: ta, ka, di, mi. 3. Repeat it again and again. 4. Then clap only on 'ta'.  
+  *Parent does:* 1. Pat your knees slowly and evenly together. 2. Say one syllable on each pat: ta, ka, di, mi. 3. Repeat it again and again. 4. Then clap on 'ta' and pat on the other three.  
   *Parent says:* Drummers in South India say their rhythms out loud. Say it with me on every pat: ta, ka, di, mi.  
   *Child mode:* Pat your knees. Say ta, ka, di, mi. One sound on each pat.
   - Note: Speaking drum syllables like this is called konnakol. 'Ta ka di mi' is a group of four.
@@ -361,17 +361,17 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 - **s3 (5 min)**  
   *Parent does:* 1. Show your child Adi talam, slowly. 2. Clap. Touch your little finger to your thumb, then the ring finger, then the middle finger. 3. Clap, then turn your hand over to wave. 4. Clap, and wave again. 5. Do it together four times.  
   *Parent says:* This is Adi talam. Clap, one, two, three. Clap, wave. Clap, wave. That is 8 beats. Then start again.  
-  *Child mode:* Clap. Little finger, ring finger, middle finger. Clap, wave. Clap, wave.
+  *Child mode:* Copy your grown-up. Clap, then touch your thumb to three fingers. Clap and turn your hand over. Clap and turn it over again.
   - Ask: How many beats are in one round? (good: Eight.)
   - Note: The finger counts are done on the palm-up hand, touching each finger to the thumb, or tapping them on the other palm. Many children mix up the waves at first. Slow down and say the beat numbers aloud.
 - **s4 (2 min)**  
   *Parent does:* 1. You keep counting Adi talam. 2. Your child says 'ta ka di mi, ta ka di mi', one syllable on each beat.  
   *Parent says:* I will count the tala. You say ta ka di mi twice in each round. Do they fit?  
-  *Child mode:* Say ta ka di mi twice. Does it fit one round?
+  *Child mode:* Say 'ta ka di mi' twice while your grown-up counts one round.
   - Note: Eight syllables fit exactly into the 8 beats of Adi talam.
   - Check: You say 'ta ka di mi' two times while a grown-up counts one round of Adi talam. How many syllables do you say? → **8**
 ### a3 · Tissue-box Ektara: a one-string instrument (15 min)
-- **record:** Draw your ektara and draw wavy lines on the part that vibrates.
+- **record:** Take a photo of your ektara. Point to the part that vibrates and tell your grown-up how you know. Or draw it, with wavy lines on that part.
 - **s1 (4 min)**  
   *Parent does:* 1. Stretch the rubber band round the box the long way, so it passes over the hole. 2. Slip the pencil under the band near one end of the box, so the band lifts up off the box.  
   *Parent says:* An ektara is a real instrument with just one string. 'Ek' means one, and 'tar' means string. Let's make one.  
@@ -379,8 +379,8 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   - Note: The Baul singers of Bengal sing and dance while they pluck an ektara in a steady beat. A real ektara has a gourd for a body and a bamboo neck.
 - **s2 (4 min)**  
   *Parent does:* 1. Pluck the band over the hole with one finger. 2. Look closely at the band. 3. Rest a fingertip lightly on the box while you pluck.  
-  *Parent says:* Pluck it. Look at the band. What does it look like? Now feel the box while you pluck.  
-  *Child mode:* Pluck the band. Look at it. Then feel the box.
+  *Parent says:* Pluck it and watch the band closely. Now rest a fingertip on the box and pluck again. What do you feel?  
+  *Child mode:* Watch the band as you pluck. Then touch the box while you pluck.
   - Ask: What did the band look like when you plucked it? (good: Blurry.; It was shaking very fast.)
   - Note: The band goes blurry because it is vibrating. The box buzzes a little too, because it vibrates along with the band.
 - **s3 (7 min)**  
@@ -390,35 +390,35 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   - Note: Keeping the plucks steady while singing is hard at first. Pat the beat on your knee to help.
 ### a4 · Bottle Hooter: make a bottle sing (10 min)
 - **safety:** If you use a glass bottle, keep it on a towel on the floor, so it cannot fall and break. Wash the bottle's mouth before another person blows on it.
-- **record:** Draw the bottle with no water, a little water, and half full. Next to each, write 'low', 'middle' or 'high'.
+- **record:** For each hoot (no water, a little water, half full), write 'low', 'middle' or 'high'. Then play the three hoots in order for a grown-up. You can draw the bottles too, if you like.
 - **s1 (4 min)**  
   *Parent does:* 1. A grown-up tries first. 2. Rest your lower lip on the edge of the bottle's mouth. 3. Blow gently, straight across the top, not into the bottle.  
   *Parent says:* Rest your lip on the edge and blow gently across the top, as if you are saying 'poo' very softly.  
-  *Child mode:* Rest your lip on the edge. Blow softly across the top. Keep trying!
+  *Child mode:* Try to make the bottle hoot. Blow softly across the top, not into it.
   - Note: It takes most people several tries. Tilt the bottle a little away from your mouth, and blow more gently, not harder. If your child cannot do it, you hoot and they listen.
 - **s2 (5 min)**  
   *Parent does:* 1. Pour water into the bottle until it is about a quarter full. 2. Hoot again. 3. Fill it to half and hoot again.  
   *Parent says:* Now we put some water in. Will the hoot be higher, lower or the same? Why do you think so?  
-  *Child mode:* Guess first. Then hoot again with water inside. Higher or lower?
+  *Child mode:* Guess first. Then pour in water and hoot again.
   - Ask: What happened to the hoot? (good: It got higher.; More water made it higher.)
   - Note: The hoot goes higher as you add water. The hoot is the air inside the bottle vibrating. Water leaves less air to vibrate, and less air vibrates faster.
 - **s3 (1 min)**  
-  *Parent does:* Ask your child what is vibrating to make the hoot.  
-  *Parent says:* Nothing in the bottle seems to move. So what is vibrating to make the hoot?  
-  *Child mode:* Nothing seems to move. So what is vibrating?
+  *Parent does:* Ask the question below. If your child is stuck, ask what is inside the bottle.  
+  *Parent says:* Nothing in the bottle seems to move. But the hoot must come from something shaking.  
+  *Child mode:* Look inside the bottle. Is it really empty?
   - Check: You blow across an empty bottle and it hoots. What is vibrating? → **The air inside the bottle**
 
 ## Projects
 ### p1 · Our Box Band Concert (40 min, 2 days)
-- **record:** Draw your band and write the name of each instrument, who played it, and whether it sounded high, middle or low.
+- **record:** Take a photo of your band, or draw it. Write the name of each instrument, who played it, and whether it sounded high, middle or low.
 - **schedule:** day 1: Build and decorate the instruments. Choose a song and who plays what. (20 min); day 2: Practise the song on a steady beat with Adi talam, then play the concert for the family. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Tape the boxes shut and decorate them. 2. Make the ektara. 3. Put a handful of rice in the small bottle and screw the cap on tight. 4. Choose a song and who plays what.  
+  *Parent does:* 1. Tape the boxes shut and, if you like, decorate them. 2. Make the ektara. 3. Put a handful of rice in the small bottle and screw the cap on tight. 4. Choose a song and who plays what.  
   *Parent says:* Every band needs a low sound, a high sound and a beat. Which instrument will you play? Which song shall we play?  
-  *Child mode:* Build the instruments. Decorate them. Choose your instrument and a song.
+  *Child mode:* Build the instruments. Choose your instrument and a song. Decorate it if you like.
   - Note: Check the shaker cap is tight, so rice does not spill. A song the whole family knows works best.
 - **s2 (20 min)**  
-  *Parent does:* 1. Count Adi talam together for one round. 2. Play the song, with everyone keeping to the beat. 3. Practise twice. 4. Play the concert.  
+  *Parent does:* 1. Count Adi talam together for one round. 2. Practise the song twice, with everyone keeping to the beat. 3. Play the concert for the family.  
   *Parent says:* First we count the beat. Clap, one, two, three, clap, wave, clap, wave. Now everyone plays on the beat.  
   *Child mode:* Listen for the beat first. Then play on the beat.
   - Ask: What helped the band stay together? (good: Listening to the beat.; Everyone counting the tala.)
@@ -433,12 +433,12 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 - **creative:** Mix the kinds: a big carton for the low sound, a hooting bottle for the middle, and a small steel bowl for the high one.; Stretch rubber bands over boxes of different sizes and compare their twangs.; Tie three steel spoons of different sizes on strings from a coat hanger, and tap them like bells.
 - **s1 (3 min)**  
   *Parent does:* Read the challenge together. Lay out the boxes, bottles, bands and bowls you have.  
-  *Parent says:* We need one high, one middle and one low instrument. Which things do you think will sound lowest? Why?  
-  *Child mode:* Which things will sound lowest? Which highest? Why?
+  *Parent says:* We need one high, one middle and one low instrument. Which of these do you think will sound lowest? Why?  
+  *Child mode:* Look at the things you have. Pick one for low, one for middle and one for high.
 - **s2 (10 min)**  
   *Parent does:* Let your child build and test. Help with tape and with pouring water.  
-  *Parent says:* Try each one. Is it high, middle or low? Change one if two sound the same.  
-  *Child mode:* Try each one. Is it high, middle or low? Change one if two sound the same.
+  *Parent says:* Try each one and listen. Is it high, middle or low?  
+  *Child mode:* Build your three instruments. Listen to each. Change one if two sound the same.
   - Note: Let your child try their own ideas first. If they are stuck, remind them of the Big Box test and the Bottle Hooter.
 - **s3 (7 min)**  
   *Parent does:* 1. A listener shuts their eyes. 2. Your child plays each instrument. 3. The listener says high, middle or low. 4. Then play all three together on one beat.  

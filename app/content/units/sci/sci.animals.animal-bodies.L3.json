@@ -826,7 +826,7 @@
     "After every third animal card, turn over a bonus card. Read the front aloud and give your answer. Check the back. A right answer wins two tokens. If you are wrong, the next player may answer for the two tokens. Then everyone acts out how that animal finds food.",
     "If the tokens run out, keep score with tally marks on paper. When the animal cards run out, the player with the most tokens wins. If two players have the same, they both win."
    ],
-   "context": "Lungs, Gills or Skin? is a card game. You sort animals by how they breathe, and act out how some of them find food.",
+   "context": "Lungs, Gills or Skin? is a card game. You sort animals by how they breathe, and act out how some of them find food. You will find out that animals breathe in four different ways.",
    "setup": [
     {
      "art": "Four paper mats on a floor labelled LUNGS, GILLS, SKIN and AIR PIPES, with a pile of animal cards beside them.",
@@ -847,15 +847,15 @@
      "mins": 3,
      "do": "1. Cut out the cards and tokens. 2. Lay out the four mats. 3. Shuffle the animal cards. 4. Put the tokens in a bowl.",
      "say": "Almost every animal needs oxygen. But they get it in different ways: lungs, gills, damp skin, or tiny air pipes. Let's sort animals by how they breathe.",
-     "kid": "Lay out the four mats. Mix up the animal cards. Animals need oxygen. How does each one get it?",
+     "kid": "Lay out the four mats and mix up the animal cards. Then you will put each animal on the mat for how they breathe.",
      "context": "This is the first step of Lungs, Gills or Skin? Here you set up the game."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Take out the frog card and play that card together as a practice round. Then shuffle it back into the pile.",
-     "say": "Let's try one card together first: the frog. Which mat does the frog card go on? Careful, this one is tricky.",
-     "kid": "Try the frog card together first. Which mat does the frog card go on? It might be two!",
+     "say": "Let's try one card together first: the frog. Careful, this one is tricky.",
+     "kid": "Look at the frog card. Think about where a frog lives and how they breathe. It might be two mats!",
      "check": {
       "t": "mcq",
       "q": "Where does the frog card go?",
@@ -892,11 +892,11 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Count the tokens. Then each player names one animal from the game that surprised them.",
-     "say": "Let's count tokens. Now look at the animals that breathe through their skin, or partly through it. What do their homes have in common?",
-     "kid": "Count your tokens. Look at the animals that breathe through their skin. What do their homes have in common?",
+     "do": "Count the tokens. Then put the skin-breathing animal cards side by side.",
+     "say": "Let's count tokens. Now look at the animals that breathe through their skin, or partly through it.",
+     "kid": "Count your tokens. Then look at where the skin-breathing animals live.",
      "think": "A snake has dry, scaly skin. Could a snake breathe through their skin? Why not?",
-     "context": "This is the end of Lungs, Gills or Skin? You count the tokens and talk about surprises.",
+     "context": "This is the end of Lungs, Gills or Skin? You count the tokens and look at the skin-breathers.",
      "ask": [
       {
        "q": "What do the homes of skin-breathing animals have in common?",
@@ -975,7 +975,7 @@
      "mins": 10,
      "do": "Play rounds of about a minute each. Write the seconds on the sheet. Swap roles so everyone is the bat once.",
      "say": "Bat, call as often as you like. Moth, you must answer every time. Trees, warn the bat if they come close.",
-     "kid": "Bat: call and listen. Moth: always answer. Trees: say 'Tree!' if the bat comes near.",
+     "kid": "Bat: listen to the answers to find the moth. Moth: answer every time. Trees: answer only when the bat is close.",
      "check": {
       "t": "mcq",
       "q": "In Bat and Moth, the blindfolded bat found the moth by listening. What does a real bat listen for?",
@@ -993,8 +993,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about how it felt to find food by sound.",
-     "say": "How did it feel to be the bat? Did it get easier with practice? Ganges river dolphins hunt fish in muddy water the same way, with clicks.",
-     "kid": "Was it hard to be the bat? Did it get easier? River dolphins hunt like this in muddy water.",
+     "say": "How did it feel to be the bat? Did it get easier with practice?",
+     "kid": "Think about the sounds you listened for. Ganges river dolphins hunt fish in muddy water the same way, with clicks.",
      "think": "Moths have ears too. What might a clever moth do when they hear a bat coming?",
      "context": "This is the end of Bat and Moth. You talk about finding food by sound.",
      "parent": "Let your child guess first. Many moths can hear a bat's high sounds. Some drop to the ground or fly in loops to escape, so the bat loses them."
@@ -1624,10 +1624,10 @@
     {
      "day": 1,
      "mins": 33,
-     "what": "Guess first. Count your breaths sitting still, 3 times. Jump for one minute, then count again. Draw a bar chart."
+     "what": "Guess first. Count your breaths sitting still, 3 times. Jump for one minute, then count again. Make a bar chart."
     }
    ],
-   "record": "Fill in the table. Draw two bars: one for resting, one for after jumping. Then write a claim, your evidence and your reasoning.",
+   "record": "Fill in the table. Make two bars, one for resting and one for after jumping. Draw them, or stack blocks. Then write a claim, your evidence and your reasoning.",
    "context": "In this experiment you count your breaths in one minute, sitting still and then just after jumping, to see if exercise changes breathing.",
    "setup": [
     {
@@ -1648,8 +1648,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Sit your child on a chair. 2. Ask them to guess how many breaths they take in one minute. 3. Write the guess at the top of the table.",
-     "say": "Each time your chest goes up and down, that is one breath. How many breaths do you think you take in one minute, sitting still? And after jumping, will it be more or fewer?",
-     "kid": "One breath is one up and one down of your chest. How many breaths in a minute? Guess a number. Write it down.",
+     "say": "Each time your chest goes up and down, that is one breath. How many breaths do you think you take in one minute, sitting still?",
+     "kid": "One breath is one up and one down of your chest. Guess how many breaths you take in one minute. Write your guess down.",
      "ask": [
       {
        "q": "What do you think will happen after jumping? Why?",
@@ -1710,9 +1710,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Find the middle value of each set of three counts: put them in order and take the middle one. 2. Draw two bars, one for sitting still and one for after jumping.",
+     "do": "1. Find the middle value of each set of three counts: put them in order and take the middle one. 2. Make two bars, one for sitting still and one for after jumping. Draw them, or stack blocks or coins, one for every 5 breaths.",
      "say": "Let's turn our numbers into a picture. One bar for resting. One bar for after jumping. The taller the bar, the more breaths in a minute.",
-     "kid": "Put your three numbers in order. The middle one is your middle value. Draw a bar for resting. Draw a bar for after jumping.",
+     "kid": "Put your three numbers in order. The middle one is your middle value. Make a bar for resting and a bar for after jumping. Draw them, or stack blocks.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: breaths in one minute",
@@ -1821,7 +1821,7 @@
      "what": "Pour off the clear limewater. Bubble breath into one glass and room air from a squeezed bottle into the other. Compare, and talk about where the carbon dioxide came from."
     }
    ],
-   "record": "Draw the two glasses after 2 minutes. Write which one turned milky first. Then write your claim, evidence and reasoning.",
+   "record": "Take a photo of the two glasses after 2 minutes, or draw them. Write which one turned milky first. Then write your claim, evidence and reasoning.",
    "context": "In this experiment you use clear limewater, which turns milky when carbon dioxide bubbles through it. You find out whether breathed-out air has more carbon dioxide than room air, and where that carbon dioxide comes from.",
    "setup": [
     {
@@ -1853,8 +1853,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Day 2. 1. Gently pour the clear water from the top of the jug into two glasses, half full each. Leave the white powder behind. 2. Put a straw in glass 1. 3. Push a second straw into the neck of an empty plastic bottle, and press atta dough round the straw so no air leaks. This bottle will push room air into glass 2.",
-     "say": "Look, both glasses are clear. Carbon dioxide turns this water milky. Which kind of air do you think has more carbon dioxide: your breath, or the air in this room? Why do you think so?",
-     "kid": "Look at the two glasses. Both are clear. Guess. Which will turn milky: your breath or room air?",
+     "say": "Look, both glasses are clear. Carbon dioxide turns this water milky. Glass 1 will get your breath. Glass 2 will get room air from the bottle.",
+     "kid": "Look at the two glasses. Both are clear. Glass 1 gets your breath. Glass 2 gets room air.",
      "adult": true,
      "ask": [
       {
@@ -1881,8 +1881,8 @@
      "id": "s4",
      "mins": 10,
      "do": "Compare the glasses and talk about claim, evidence and reasoning.",
-     "say": "What do you see? Which glass turned milky? Why do you think that happened? So which air had more carbon dioxide?",
-     "kid": "Which glass turned milky? Milky means carbon dioxide. Where did the carbon dioxide in your breath come from?",
+     "say": "What do you see? Which glass turned milky? So which air had more carbon dioxide?",
+     "kid": "Look at both glasses. Which one turned milky? Milky means carbon dioxide is in the air that went through.",
      "ask": [
       {
        "q": "Claim: is breathed-out air different from room air?",
@@ -1949,7 +1949,7 @@
      "what": "Find an ant path. Lay out three baits. Count ants every 10 minutes for 30 minutes. Watch how they find the food."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart of ants at 30 minutes. Draw a map of the ant trail you saw.",
+   "record": "Fill in the table. Make a bar chart of ants at 30 minutes, drawn or built from blocks. Take a photo of the ant trail, or tell your grown-up where the ants walked.",
    "context": "In this experiment you put out sugar, salt and biscuit near an ant path, and count how many ants find each one. It shows how ants find food and bring other ants to it.",
    "setup": [
     {
@@ -1970,7 +1970,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares in a row beside the line, each one a hand-length from it and a hand-length apart. 3. Put the sugar, salt and biscuit crumbs on them, one on each.",
-     "say": "Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food. Which one do you think they'll find first?",
+     "say": "Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food.",
      "kid": "Find a line of ants. Put three papers near it. Put sugar on one, salt on one, biscuit on one. Which will ants find first?",
      "adult": true,
      "ask": [
@@ -2023,8 +2023,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about what you saw, using claim, evidence and reasoning.",
-     "say": "So, what do we think? How do ants find food? What did you see that tells you? And why do the other ants arrive in a line?",
-     "kid": "Say what you found. What numbers show it? Why did the ants walk in a line?",
+     "say": "So, what do we think? Let's say what we found, what we saw, and why.",
+     "kid": "Say what you found. Say which numbers show it. Then say why you think it happened.",
      "ask": [
       {
        "q": "Claim?",
@@ -2090,8 +2090,8 @@
      "what": "Breathe on a steel tumbler, a mirror and a tissue, then feel your chest and belly move."
     }
    ],
-   "record": "Draw what you saw on the tumbler and the tissue. Write one thing you noticed and one thing you wonder.",
-   "context": "This is a short noticing activity to start the unit. You breathe on steel, a mirror and a tissue, and notice what your breath does.",
+   "record": "Tell your grown-up what you saw on the tumbler and the tissue, or take a photo. Write one thing you noticed and one thing you wonder.",
+   "context": "This is a short noticing activity to start the unit. You breathe on steel, a mirror and a tissue, and notice what your breath does. You will find out what your breath leaves on cool steel.",
    "setup": [
     {
      "art": "A child breathing out slowly onto a shiny steel tumbler, a misty patch forming on it.",
@@ -2111,15 +2111,15 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Hold the steel tumbler close to your child's mouth. 2. Your child breathes out slowly onto it, three times. 3. Then onto the mirror. 4. Then they hold a tissue strip under their nose and breathe in and out.",
-     "say": "Breathe out slowly onto the steel. What appears? Now hold the tissue under your nose. What does it do when you breathe in? When you breathe out?",
-     "kid": "Breathe out on the steel. What do you see? Hold the tissue under your nose. Watch it move.",
+     "say": "Breathe out slowly onto the steel, then onto the mirror. What appears? Now hold the tissue under your nose and breathe out. What does it do?",
+     "kid": "Breathe out slowly on the steel and on the mirror. Then hold the tissue under your nose and breathe out. Watch what each one does.",
      "ask": [
       {
        "q": "What do you notice?",
        "good": [
         "The steel goes misty.",
         "Little drops of water appear.",
-        "The tissue blows away when I breathe out and comes closer when I breathe in."
+        "The tissue blows away when I breathe out."
        ]
       },
       {
@@ -2151,7 +2151,7 @@
      "mins": 6,
      "do": "1. Your child sits still, one hand on the chest and one on the belly. 2. They breathe normally for ten breaths and notice which hand moves. 3. Then they take three big slow breaths.",
      "say": "Close your eyes. One hand on your chest, one on your belly. Just notice. Which hand moves? Now take a big slow breath in. Where does the air go?",
-     "kid": "Close your eyes. One hand on your chest. One hand on your belly. Breathe. Which hand moves? Now take a big, slow breath.",
+     "kid": "Close your eyes. Put one hand on your chest and one on your belly. Breathe normally and feel which hand moves. Then take a big, slow breath.",
      "context": "This is the step where you feel your chest and belly move as you breathe."
     }
    ]
@@ -2192,7 +2192,7 @@
      "what": "Build the bottle lung, pull the bottom balloon, and compare the model with your own lungs."
     }
    ],
-   "record": "Draw your bottle lung. Label the balloon lung, the windpipe and the diaphragm. Draw arrows showing which way air goes when you pull down.",
+   "record": "Show your grown-up your bottle lung. Point to the balloon lung, the windpipe and the diaphragm. Tell them which way the air goes when you pull down.",
    "context": "In this activity you build a model lung from a bottle and two balloons, to see how a sheet of muscle under the lungs pulls air in.",
    "setup": [
     {
@@ -2222,8 +2222,8 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Your child holds the bottle with one hand. 2. With the other, they pull the knot of the bottom balloon gently down. 3. Watch the inside balloon. 4. Then let go.",
-     "say": "Pull the bottom balloon down, slowly. What happens to the lung? Now let go. What happens? This is what your diaphragm does every time you breathe.",
-     "kid": "Pull the bottom balloon down. What does the inside balloon do? Let go. What happens now?",
+     "say": "Pull the bottom balloon down, slowly. Now let go. This is what your diaphragm does every time you breathe.",
+     "kid": "Pull the bottom balloon down slowly. Watch the balloon inside. Then let go.",
      "ask": [
       {
        "q": "What happened when you pulled down?",
@@ -2258,7 +2258,7 @@
      "mins": 9,
      "do": "1. Your child puts a hand on their belly and breathes in deeply. 2. Compare it with the bottle lung. 3. Talk about what the model gets right and what it gets wrong.",
      "say": "Every model is a little wrong. Real lungs aren't one balloon. They're like a sponge with 480 million tiny bubbles. What else is different in your body?",
-     "kid": "Breathe in deeply. Feel your belly push out. That's your diaphragm pulling down. How is the bottle different from your real lungs?",
+     "kid": "Put a hand on your belly and breathe in deeply. Feel your belly push out. That is your diaphragm pulling down.",
      "ask": [
       {
        "q": "How is the model different from real lungs?",
@@ -2304,7 +2304,7 @@
      "what": "Count how many times a fish opens their gill covers in a minute, and compare with your own breaths."
     }
    ],
-   "record": "Write how many times the fish's gill covers opened in one minute. Draw the fish and colour their gills.",
+   "record": "Write how many times the fish's gill covers opened in one minute. Then tell your grown-up what colour and shape the gills were, or take a photo of them.",
    "context": "In this activity you watch a live fish and count how many times their gill covers open in one minute. If you can, you also look at the red gills of a fish at the market.",
    "setup": [
     {
@@ -2334,8 +2334,8 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Optional: visit a fish market or ask at a fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills.",
-     "say": "Fish sellers lift the gill flap to show how fresh a fish is. Bright red gills mean fresh. Why do you think they're so red?",
+     "do": "Optional: visit a fish market or ask at a fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills. If you cannot go, skip this step.",
+     "say": "Fish sellers lift the gill flap to show how fresh a fish is. Bright red gills mean fresh. Let's look at them closely.",
      "kid": "Look under the flap of a fresh fish. See the red gills? They look like a comb with many thin teeth.",
      "adult": true,
      "ask": [
@@ -2359,8 +2359,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Compare the fish's count with your own breath count from the Breath Count experiment, if you did it.",
-     "say": "A child takes about 20 breaths a minute sitting still. The fish moved water over their gills many more times than that. Why might a fish have to work harder?",
-     "kid": "Was the fish's number bigger or smaller than yours? Why might a fish breathe so fast?",
+     "say": "A child takes about 20 breaths a minute sitting still. Let's put your fish's number next to that.",
+     "kid": "Is the fish's number bigger or smaller than 20?",
      "check": {
       "t": "mcq",
       "q": "A small fish opened their gill covers 80 times a minute. You took 20 breaths. Why might the fish need so many?",
@@ -2410,7 +2410,7 @@
      "what": "Wet a crumpled towel and a frilly cut towel, hang them up, check every 10 minutes for about 30 minutes, and see which dries first."
     }
    ],
-   "record": "Write which towel dried first and how long each took. Draw both and label which is like a gill.",
+   "record": "Write which towel dried first and how long each took. Then write which towel is more like a gill.",
    "context": "In this activity you test why gills and lungs are frilly and folded. You wet two paper towels and see whether a crumpled one or a frilly cut one dries faster.",
    "setup": [
     {
@@ -2431,8 +2431,8 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Take two paper towels the same size. 2. Crumple one tightly into a ball. 3. Cut the other into thin strips, like a comb, leaving the top edge joined. 4. Dip both in water for 5 seconds. Lift them out and let them drip for 10 seconds. Don't squeeze them, or the strips will tear. 5. Hang them side by side on the string, two hand-widths apart (pinch the ball in a clothes peg). If you use a fan, let it blow on both the same.",
-     "say": "Water leaves a wet towel through its surface, the outside that touches the air. Gills and lungs take oxygen in through their surface too. Which towel do you think has more surface touching the air?",
-     "kid": "Crumple one towel into a ball. Cut the other into thin strips. Wet both. Hang them up. Which one has more outside touching the air?",
+     "say": "Water leaves a wet towel through its surface, the outside that touches the air. Gills and lungs take oxygen in through their surface too. Which towel has more surface touching the air?",
+     "kid": "Crumple one towel into a ball. Cut the other into thin strips. Wet both. Hang them up side by side.",
      "ask": [
       {
        "q": "Which towel will dry first? Why?",
@@ -2457,8 +2457,8 @@
      "id": "s3",
      "mins": 7,
      "do": "Talk about what the result means for gills and lungs.",
-     "say": "Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles. Why do you think they have these shapes?",
-     "kid": "The frilly one dried faster. Gills are frilly too. Lungs have millions of tiny bubbles. Why?",
+     "say": "Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles.",
+     "kid": "Look at the two towels again. Which one is more like a gill?",
      "check": {
       "t": "mcq",
       "q": "In the towel test, the frilly towel dried faster than the crumpled ball. What does this tell us about gills?",
@@ -2503,7 +2503,7 @@
     }
    ],
    "record": "Write how many tries it took to find the snack by smell. Write which animal you would like to have the nose of, and why.",
-   "context": "In this activity you try to find a hidden snack only by smell, the way a dog or an ant does. Then you compare your nose with animal noses.",
+   "context": "In this activity you try to find a hidden snack only by smell, the way a dog or an ant does. Then you compare your nose with animal noses. You will find out how good your nose is for finding food.",
    "setup": [
     {
      "art": "Five covered steel bowls in a row on a floor, one hiding a piece of banana, paper covers with small holes.",
@@ -2540,8 +2540,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Talk about animal noses and other senses.",
-     "say": "A dog's nose is far, far better than ours. A dog can follow a smell trail that is days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo. Which sense would help you most to find food in the dark?",
-     "kid": "A dog could find the snack at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?",
+     "say": "A dog's nose is far, far better than ours. A dog can follow a smell trail that is days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo.",
+     "kid": "A dog finds food by smell. A mosquito finds you by your breath. A bat finds food by echoes. Which sense would you pick for finding food in the dark?",
      "check": {
       "t": "mcq",
       "q": "A mosquito finds people in a dark room. Which of these helps them most?",
@@ -2612,7 +2612,7 @@
      "mins": 7,
      "do": "Look at the chart of animal breath-holds together.",
      "say": "The Ganges river dolphin comes up every minute or two. Some whales stay down for over an hour. How do they do it? They store extra oxygen in their blood and muscles, and slow their hearts down.",
-     "kid": "Look at the animals. A river dolphin holds their breath for one or two minutes. Some whales hold for over an hour!",
+     "kid": "Look at the table. Which animal stays under water the longest? Which one is closest to you?",
      "chart": {
       "type": "table",
       "title": "How long some air-breathing animals often stay underwater",
@@ -2702,7 +2702,7 @@
      "mins": 14,
      "do": "1. Set out the foods. 2. Your child tries each tool on each food for 30 seconds. 3. Count how many pieces they collect, or how much juice they drink. 4. Write the best tool for each food.",
      "say": "Each tool is a pretend animal mouth. You have 30 seconds with each one. Which mouth is best for which food?",
-     "kid": "Each tool is an animal mouth. Try each one on each food. You get 30 seconds. Which is best?",
+     "kid": "Try each tool on each food for 30 seconds. Count how many pieces you pick up, or how much you drink.",
      "ask": [
       {
        "q": "Which tool was best at the noodles in the atta?",
@@ -2722,9 +2722,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Match each tool to an animal with a mouth like that tool.",
-     "say": "Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.",
-     "kid": "Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Each tool was best at a different food, just like each beak.",
+     "do": "Say the four animals: butterfly, flamingo, heron and parrot. Your child picks the tool that is most like each animal's mouth. Then check with the note below.",
+     "say": "Four animals have mouths like your tools: a butterfly, a flamingo, a heron and a parrot. Which tool goes with which animal?",
+     "kid": "Match each tool to an animal. Think about the food each animal eats and the mouth they use.",
+     "parent": "Straw: a butterfly's long tongue, sipping nectar. Strainer: a flamingo's beak, sieving tiny food. Tweezers: a heron's long beak, picking up food. Peg: a parrot's strong beak, gripping a nut.",
      "check": {
       "t": "mcq",
       "q": "A flamingo eats tiny shrimps floating in lake water. In the Mouth Tools Buffet, which tool worked like a flamingo's beak?",
@@ -2786,11 +2787,11 @@
     {
      "day": 5,
      "mins": 16,
-     "what": "Draw a line chart of your breaths at each time. Write what you found."
+     "what": "Draw a line chart of your breaths at each time, or tell your grown-up when you breathed fastest and slowest. Write what you found."
     }
    ],
-   "record": "A table of breath counts at different times of day, and a line chart. Write when you breathed fastest and slowest, and why.",
-   "context": "In this 5-day project you keep a diary of how many breaths you take in one minute at different times, like waking up, playing and sleeping, and draw a chart.",
+   "record": "A table of breath counts at different times of day, and a line chart. If you would rather not draw, say to your grown-up when you breathed fastest and slowest, and why.",
+   "context": "In this 5-day project you keep a diary of how many breaths you take in one minute at different times, like waking up, playing and sleeping, and draw a chart. You will find out when you breathe fastest and slowest.",
    "setup": [
     {
      "art": "A child sitting up in bed at dawn with a hand on the chest, a small notebook open on the blanket.",
@@ -2809,9 +2810,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Day 1. 1. Draw a table with columns: day, time, what I was doing, breaths in one minute. 2. Count on waking and before bed.",
+     "do": "Day 1. 1. Make a table in the notebook with columns: day, time, what I was doing, breaths in one minute. 2. Count on waking and before bed.",
      "say": "For five days, you'll be a breath scientist. Each day we'll count your breaths at different times. At the end we'll see when you breathe fastest and slowest.",
-     "kid": "Draw your diary table. Count your breaths when you wake up. Count again before bed.",
+     "kid": "Make your diary table in the notebook. Count your breaths when you wake up. Count again before bed.",
      "context": "This is the first day of My Breath Diary. You make the table and do the first two counts."
     },
     {
@@ -2819,7 +2820,7 @@
      "mins": 24,
      "do": "Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths for one minute while they sleep. On day 4, count a pet or another person at home, with permission, if there is one.",
      "say": "Do today's counts and write them in your diary table. Remember, sit the same way each time, and count for one whole minute.",
-     "kid": "Do today's counts. Write each one in your table. Count for one whole minute.",
+     "kid": "Day 2: count after running about. Day 3: count after climbing stairs. Day 4: count a pet or another person. Write each count in your table.",
      "wait": "Do the next count tomorrow.",
      "parent": "Sleeping breaths are usually slowest. A cat or dog at rest often breathes 20 to 30 times a minute. Small animals breathe faster than big ones.",
      "context": "These are days 2 to 4 of My Breath Diary. You count your breaths at different times each day."
@@ -2828,8 +2829,8 @@
      "id": "s3",
      "mins": 16,
      "do": "Day 5. 1. Draw a line chart with the times along the bottom and breaths up the side. 2. Write a claim, evidence and reasoning.",
-     "say": "Let's draw a line chart. Each dot is one count. When was the line highest? When was it lowest? Why?",
-     "kid": "Draw a dot for each count. Join the dots. When was the line highest? Why?",
+     "say": "Let's make a line chart. Each dot is one count, and the line joins the dots.",
+     "kid": "Draw a dot for each count and join the dots. Or read your table and say when you breathed fastest, and why.",
      "chart": {
       "type": "line",
       "title": "Made-up example: breaths in one minute during a day",
@@ -2873,7 +2874,7 @@
    "constraints": [
     "Your animal must get enough oxygen, even in summer.",
     "Your animal must find food in water too muddy to see through.",
-    "Draw your animal, label every special part, and say what they eat and how."
+    "Draw or model your animal, label every special part, and say what they eat and how."
    ],
    "materials": [
     "paper and coloured pencils",
@@ -2890,7 +2891,7 @@
     "Some fish make weak electricity around their bodies and feel when something disturbs it. Could your animal do that?",
     "Could your animal carry an air bubble with them, like the water spiders that live in silk bubbles underwater?"
    ],
-   "your_turn": "Now design your own river-bottom hunter. Give them a name. Draw them, label them, and explain to your family how they breathe and how they find food.",
+   "your_turn": "Now design your own river-bottom hunter. Give them a name. Draw them or model them from clay, label them, and explain to your family how they breathe and how they find food.",
    "context": "This is a design challenge. You invent an animal that can breathe and find food at the bottom of a dark, muddy river.",
    "setup": [
     {
@@ -2936,9 +2937,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Your child draws the animal and labels each special part.",
-     "say": "Draw your animal. Label every part that helps them breathe or find food. Then give them a name.",
-     "kid": "Draw your animal. Label their breathing parts. Label their food-finding parts. Give them a name.",
+     "do": "Your child draws the animal, or makes a clay model, and labels each special part.",
+     "say": "Draw your animal, or make a clay model. Label every part that helps them breathe or find food. Then give them a name.",
+     "kid": "Make your animal. Label their breathing parts and their food-finding parts. Give them a name.",
      "context": "This is the step where you draw and label your river-bottom hunter."
     },
     {
@@ -2946,7 +2947,7 @@
      "mins": 7,
      "do": "Your child explains the design to someone in the family.",
      "say": "Tell someone at home or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?",
-     "kid": "Show your drawing to someone. Explain how they breathe and find food.",
+     "kid": "Show your animal to someone. Explain how they breathe and find food.",
      "think": "Real Ganges river dolphins are in danger. The river water is getting dirtier, and dams block the places where they swim and hunt. Thinking about what they need, how could people help them?",
      "context": "This is the last step of Design a River-Bottom Hunter. You explain your design to someone."
     }
@@ -2978,7 +2979,7 @@
     "A fish's gills are also folded into many thin threads, so that a lot of water touches a lot of surface. Can your filter give the water more surface?",
     "Flamingos pump water through their beaks with their tongues. Can you help the water through without pushing the leaves through too?"
    ],
-   "your_turn": "Now invent your own filter. Draw it, test it, and time it. Can you beat your best design?",
+   "your_turn": "Now invent your own filter. Build it, test it, and time it. Can you beat your best design?",
    "context": "This is an engineering challenge. You build a filter that catches used tea leaves from water, to see why sieving mouths and gills have so much surface.",
    "setup": [
     {
@@ -2999,8 +3000,8 @@
      "id": "s1",
      "mins": 8,
      "do": "1. A grown-up cuts the top off a plastic bottle to make a funnel. 2. Stir one spoon of used tea leaves into a jug of water. 3. Try the tea strainer first, as the filter to beat.",
-     "say": "Let's start with the tea strainer. Pour slowly. How long did the water take? Did any bits of leaf get into the bowl?",
-     "kid": "A grown-up makes a funnel. Pour the tea water through a tea strainer. Time it. Did leaves get through?",
+     "say": "Let's start with the tea strainer. Pour slowly, and I will time how long the water takes.",
+     "kid": "A grown-up makes a funnel. Pour the tea water through a tea strainer. Look in the bowl. Did any leaves get through?",
      "adult": true,
      "context": "This is the first step of Build a Filter-Feeder's Sieve. You test a tea strainer as the filter to beat."
     },

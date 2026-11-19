@@ -286,7 +286,7 @@
    "title": "The Bucket Test: guess, then find out what floats",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you guess, then put ten things from the kitchen into a bucket of water, one at a time. You see which float and which sink. Then you test a tiny piece of potato and a tiny piece of wood.",
+   "context": "In this experiment you guess, then put ten things from the kitchen into a bucket of water, one at a time. You see which float and which sink. Then you test a tiny piece of potato and a tiny piece of wood. You will find out if heavy things really sink.",
    "question": "Which things float and which sink? Do heavy things always sink, and do small things always float?",
    "predict": "Hold each thing in your hand. Will it float or sink? Why do you think so? Then guess: will a tiny piece of potato do the same as the whole potato, and why?",
    "fair_test": "We use the same bucket of water for every thing. We put each thing in gently, push it to the bottom with a finger, and let go. If it comes back up, it floats. If it stays down, it sinks. We test each thing twice, because one try can give an odd result by chance.",
@@ -362,7 +362,7 @@
      "what": "Feel each thing and guess. Test ten things in the bucket. Then test a tiny piece of potato and a matchstick. Count how many guesses were right."
     }
    ],
-   "record": "Fill in the table as you go. At the end, draw the bucket with the floaters on top and the sinkers on the bottom. Count your right guesses with tally marks.",
+   "record": "Fill in the table as you go. At the end, lay the floaters on one side of the towel and the sinkers on the other, and take a photo. Or draw the bucket with the floaters on top and the sinkers on the bottom. Count your right guesses with tally marks.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -458,8 +458,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Point to each thing in turn. 2. Your child says float or sink, and why. 3. Write each guess in the table.",
-     "say": "Now guess for each one. Will it float or sink? Why do you think so?",
-     "kid": "Guess for each thing. Float or sink? Say why.",
+     "say": "Now it is time to guess. For each thing, tell me what you think will happen, and why.",
+     "kid": "Pick up a thing. Say what you think it will do, and why.",
      "ask": [
       {
        "q": "Will the rolling pin float or sink? Why do you think so?",
@@ -511,8 +511,8 @@
      "id": "s4",
      "mins": 5,
      "do": "1. A grown-up cuts a piece of potato as small as a fingernail. 2. Your child guesses, then drops it in. 3. Then they guess and test a matchstick.",
-     "say": "The whole potato sank. Will a tiny piece float? Why do you think so? Now try it.",
-     "kid": "Guess: will a tiny piece of potato float? Say why. Now drop it in.",
+     "say": "The whole potato sank. Now we try a tiny piece. What do you think it will do, and why?",
+     "kid": "Say what you think the tiny piece will do. Then drop it in.",
      "adult": true,
      "ask": [
       {
@@ -535,8 +535,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Count the right guesses with tally marks. 2. Ask the questions below. 3. Listen before you explain.",
-     "say": "How many guesses were right? Which ones surprised you? So what decides if a thing floats?",
-     "kid": "Count your right guesses. Which ones surprised you? What decides if a thing floats?",
+     "say": "Let us count the right guesses. Which ones surprised you?",
+     "kid": "Count your right guesses with tally marks. Which ones surprised you?",
      "ask": [
       {
        "q": "What decides if a thing floats?",
@@ -548,7 +548,7 @@
       }
      ],
      "parent": "After your child answers, say it plainly. Weight and size do not decide. For a solid lump, what it is made of decides. Imagine equal-sized pieces of wood, water and steel. The wood weighs less than the water, so it floats. The steel weighs more than the water, and so does the potato, so they sink. A steel bowl floats when it sits on the water with its open side up, because the hollow inside is full of air. The bowl and its air together weigh less than the water that would fill the whole space the bowl takes up. A ship floats for the same reason. Push the bowl down so that water pours in, and it sinks.",
-     "think": "A steel spoon sinks. What do you think a steel bowl will do? Try it, setting it gently on the water with the open side up.",
+     "think": "A steel spoon sinks. What do you think a steel bowl will do? Try it with a small steel katori, set gently on the water with the open side up.",
      "context": "This is the last step of the bucket test. You count your right guesses and say what you found."
     }
    ]
@@ -558,7 +558,7 @@
    "title": "The Orange Test: does the peel help an orange float?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you float a whole orange in water. Then you peel it and try again. You also float the peel on its own.",
+   "context": "In this experiment you float a whole orange in water. Then you peel it and try again. You also float the peel on its own. You will find out what the peel does for the orange.",
    "question": "Does an orange float because of its peel?",
    "predict": "The whole orange floats. Will it still float without its peel? Will the peel float on its own? Why do you think so?",
    "fair_test": "We use the same orange and the same bucket of water each time. We push it down and let go each time. We test the peeled orange three times, because it sinks slowly and can be hard to judge.",
@@ -596,7 +596,7 @@
      "what": "Float the whole orange. Peel it. Guess, then test the peeled orange and the peel. Look at the peel closely."
     }
    ],
-   "record": "Draw the whole orange, the peeled orange and the peel in the water, at the place each one ended up.",
+   "record": "Fill in the table. You can also draw each one in the water, at the place it ended up, or take a photo of the bowl.",
    "setup": [
     {
      "art": "A whole orange floating in a clear bowl of water.",
@@ -632,8 +632,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Your child peels the orange over a plate. 2. They look at the inside of the peel. 3. Ask for a guess and a reason.",
-     "say": "Look at the inside of the peel. It is soft and spongy. Now guess. Will the peeled orange float? Why?",
-     "kid": "Peel the orange. Feel the soft white inside of the peel. Will the peeled orange float? Why?",
+     "say": "Feel the inside of the peel. It is soft and spongy. Now take a guess, and say why.",
+     "kid": "Peel the orange. Feel the soft white inside of the peel.",
      "ask": [
       {
        "q": "Will the peeled orange float?",
@@ -683,8 +683,8 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Ask the question below. 2. Wash your hands. Then share a fresh orange and eat it together. Do not eat the orange from the bucket.",
-     "say": "The air in the peel helped the orange float. A life jacket is full of foam with air in it. Why do you think a life jacket helps a person float?",
-     "kid": "Why does a life jacket help a person float? Now eat a fresh orange. Not the one from the bucket.",
+     "say": "The air in the peel helped the orange float. A life jacket is full of foam, and the foam holds air.",
+     "kid": "Wash your hands. Share a fresh orange and eat it. Do not eat the one from the bucket.",
      "ask": [
       {
        "q": "Why does a life jacket help a person float?",
@@ -706,7 +706,7 @@
    "title": "Heavy in the Hand: line up the kitchen",
    "mins": 7,
    "days": 1,
-   "context": "In this activity you hold five things, two at a time, one in each hand. You put them in a line from heaviest to lightest. You will use this line to make your guesses in the bucket test.",
+   "context": "In this activity you hold five things, two at a time, one in each hand. You put them in a line from heaviest to lightest. Then you will see if the heaviest ones are the ones that sink. You will use this line to make your guesses in the bucket test.",
    "materials": [
     {
      "item": "a wooden rolling pin, a potato, a lemon, a steel spoon and a one-rupee coin",
@@ -720,7 +720,7 @@
      "what": "Hold the five things in pairs. Put them in a line from heaviest to lightest."
     }
    ],
-   "record": "Draw your line of five things, the heaviest first.",
+   "record": "Take a photo of your line, the heaviest first. Or say the order out loud to your grown-up.",
    "setup": [
     {
      "art": "A child holding a potato in one hand and a lemon in the other, arms out like a balance.",
@@ -735,7 +735,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Give your child two things at a time, one for each hand. 2. They say which is heavier. 3. Swap until all five are compared.",
+     "do": "1. Give your child two things at a time, one for each hand. 2. They say which is heavier. 3. Swap things around until your child has worked out the order of all five.",
      "say": "Hold one in each hand. Which one pulls your hand down more?",
      "kid": "Hold one thing in each hand. Which is heavier?",
      "ask": [
@@ -753,8 +753,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Your child puts the five things in a line, heaviest first. 2. Ask the question below. 3. Leave the line out for the bucket test.",
-     "say": "Now look at your line. If heavy things sink, which ones will sink? Keep this line for the bucket test.",
-     "kid": "Look at your line. Which ones do you think will sink? Why?",
+     "say": "Now look at your line. Many people think heavy things sink. Keep this line for the bucket test.",
+     "kid": "Look at your line. Push the ones you think will sink to one side.",
      "ask": [
       {
        "q": "Which ones will sink?",
@@ -799,7 +799,7 @@
      "what": "Wash rice or dal. Scoop off what floats. Compare the floaters with the grains that sank."
     }
    ],
-   "record": "Draw a grain that sank and a bit that floated, side by side. Write one way they are different.",
+   "record": "Keep the two piles side by side on the plate and take a photo. Say or write one way they are different.",
    "setup": [
     {
      "art": "A child swishing rice in a steel bowl of water, with tiny flakes floating on top.",
@@ -815,8 +815,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Your child puts the rice in the bowl of water. 2. They swish it with their hand. 3. Wait a few seconds, then look at the top.",
-     "say": "Swish the rice. Now look at the top of the water. Is anything floating?",
-     "kid": "Swish the rice in the water. Look at the top. What floats?",
+     "say": "Swish the rice with your hand. Wait a few seconds. Then look closely at the top of the water.",
+     "kid": "Swish the rice in the water. Look at the top.",
      "ask": [
       {
        "q": "What do you see on top?",
@@ -833,8 +833,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Your child scoops the floaters onto the plate. 2. They put a few sunken grains beside them. 3. Look closely, with a magnifying glass if you have one.",
-     "say": "Put the floaters next to the grains that sank. How are they different?",
-     "kid": "Put the floaters next to the grains that sank. How are they different?",
+     "say": "Put the floaters next to the grains that sank. Look at them closely.",
+     "kid": "Look closely at both piles. How are they different?",
      "ask": [
       {
        "q": "Why do you think these bits floated?",
@@ -865,7 +865,7 @@
    "title": "Push It Down: feel the water push back",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you push a ball down into a bucket of water. You feel the water push back up, and watch the ball jump up when you let go.",
+   "context": "In this activity you push a ball down into a bucket of water. You feel the water push back up, and watch the ball jump up when you let go. You will find out what the water does to the ball.",
    "problem": "Water pushes up on things put into it. You will push a lemon and a ball down into water, and feel how strong the push is. The push has a name: upthrust.",
    "materials": [
     {
@@ -892,7 +892,7 @@
      "what": "Push a lemon, then a ball, down into the water. Feel the push. Let go and watch."
     }
    ],
-   "record": "Draw the ball under the water with an arrow showing which way the water pushed.",
+   "record": "Tell your grown-up which way the water pushed the ball, and point with your hand. Or draw the ball under the water with an arrow.",
    "setup": [
     {
      "art": "Two small hands pushing a plastic ball down into a bucket of water, with water splashing at the edges.",
@@ -924,8 +924,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Your child pushes the ball down slowly with both hands. 2. They notice that it is hard to push, and feel it jump when they let go. 3. They keep their face back from the splash.",
-     "say": "Push the ball down slowly. Does the water push back harder than it did on the lemon? Now let go.",
-     "kid": "Push the ball down slowly. Is it harder than the lemon? Let go and step back.",
+     "say": "Push the ball down slowly. Feel the water push back. Now let go.",
+     "kid": "Push the ball down slowly with both hands. Then let go and step back.",
      "ask": [
       {
        "q": "Was the ball harder to push down than the lemon?",
@@ -957,14 +957,14 @@
    "title": "Float or Sink? Guess, then flip",
    "mins": 15,
    "players": "1 to 4 players",
-   "context": "This is a guessing card game. Each card names a thing. You guess if it floats or sinks and say why, then flip the card to check.",
+   "context": "This is a guessing card game. Each card names a thing. You guess if it floats or sinks and say why, then flip the card to check. You will find out which things trick you.",
    "printables": [
     {
      "kind": "board",
-     "title": "The two-zone board, drawn on a big sheet of paper",
+     "title": "The two-zone board, made on a big sheet of paper",
      "items": [
-      "Top half, coloured blue: FLOAT",
-      "Bottom half, coloured brown, like the bottom of a bucket: SINK"
+      "Top half: write FLOAT. Colour it blue if you like.",
+      "Bottom half: write SINK. Colour it brown if you like, like the bottom of a bucket."
      ]
     },
     {
@@ -1052,7 +1052,7 @@
     }
    ],
    "rules": [
-    "Draw the board: a big sheet with FLOAT at the top and SINK at the bottom.",
+    "Make the board: write FLOAT at the top and SINK at the bottom of a big sheet.",
     "Shuffle the 16 cards and put them face down in a pile.",
     "Take turns. Turn over the top card and read it out. Put it on FLOAT or SINK, and say why.",
     "Then flip the card and read the back. A right guess with a reason scores one tally mark.",
@@ -1061,7 +1061,7 @@
    "setup": [
     {
      "art": "A big sheet of paper, blue on top labelled FLOAT and brown below labelled SINK, with a pile of small cards beside it.",
-     "caption": "1. Draw the board. Shuffle the cards."
+     "caption": "1. Make the board. Shuffle the cards."
     },
     {
      "art": "A child placing a card that says 'A whole coconut' on the FLOAT half and turning it over.",
@@ -1072,19 +1072,19 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the board with your child. 2. Cut out the cards. 3. Read the first card together.",
+     "do": "1. Make the board with your child. 2. Cut out the cards. 3. Read the first card together.",
      "say": "Every card goes on float or sink. Before you put it down, say why you think so.",
-     "kid": "Draw the board. Cut out the cards. Read the first one."
+     "kid": "Write FLOAT and SINK on the board. Cut out the cards. Read the first one."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Take turns with the cards. 2. The player places the card and gives a reason. 3. Flip it and score.",
-     "say": "A whole coconut. It is very heavy. Float or sink? Why?",
+     "say": "Read the card out loud, for example, 'A whole coconut.' Then ask: float or sink? Why?",
      "kid": "Turn over a card. Float or sink? Say why. Then flip it.",
      "ask": [
       {
-       "q": "Why did you put the coconut on float?",
+       "q": "Why did you put the coconut where you did?",
        "good": [
         "Heavy things can float.",
         "It is like the rolling pin."
@@ -1096,9 +1096,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Look at the sink cards together. 2. Ask the question below.",
-     "say": "Look at all the sink cards. What are most of them made of?",
-     "kid": "Look at the sink cards. What are they made of?",
+     "do": "1. Pick out the sink cards and put them in a row. 2. Ask the question below.",
+     "say": "Pick out all the cards that sink. Put them in a row.",
+     "kid": "Look at the row of sink cards.",
      "ask": [
       {
        "q": "What are most of the sinkers made of?",
@@ -1116,7 +1116,7 @@
    "title": "Bob Up, Sink Down: a moving game",
    "mins": 10,
    "players": "2 or more players, with one caller",
-   "context": "This is a moving game. The caller reads out a thing. The players stand up tall if it floats, or crouch down low if it sinks.",
+   "context": "This is a moving game. The caller reads out a thing. The players stand up tall if it floats, or crouch down low if it sinks. You will find out which things trick you.",
    "printables": [
     {
      "kind": "cards",
@@ -1210,8 +1210,8 @@
      "id": "s3",
      "mins": 1,
      "do": "1. At the end, ask the question below.",
-     "say": "Which cards tricked you? Why?",
-     "kid": "Which cards tricked you? Why?",
+     "say": "Some cards are tricky. Let us look back.",
+     "kid": "Think about the cards where you moved the wrong way.",
      "ask": [
       {
        "q": "Which card tricked you?",
@@ -1242,7 +1242,7 @@
     "a one-rupee coin",
     "a bucket of water",
     "sticky tape and a rubber band",
-    "things that float from the bucket test: a lemon, a piece of thermocol, wooden ice-cream sticks",
+    "things that float: a lemon, a piece of thermocol, wooden ice-cream sticks",
     "a small steel katori"
    ],
    "general": [
@@ -1269,8 +1269,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Drop the coin in to show it sinks. 2. Read the rules together. 3. Ask the question below.",
-     "say": "The coin sinks on its own. What could hold it up? Think of the floaters from the bucket test.",
-     "kid": "The coin sinks. What could hold it up?",
+     "say": "The coin sinks on its own. Think of the things that floated in the bucket test.",
+     "kid": "Look at the things on the table. Pick one that might hold the coin up.",
      "ask": [
       {
        "q": "What could you use?",
@@ -1293,8 +1293,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Ask the questions below. 2. Then try two or three coins.",
-     "say": "Which floater held the coin best? Why do you think so?",
-     "kid": "Which floater worked best? Why? Now try two coins.",
+     "say": "Which floater held the coin best?",
+     "kid": "Now try two coins, then three. How many can your floater hold?",
      "ask": [
       {
        "q": "Why did the thermocol hold the coin up?",

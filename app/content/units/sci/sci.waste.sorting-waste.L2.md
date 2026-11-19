@@ -184,7 +184,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 - **s3 (2 min)**  
   *Parent does:* Ask which card was the hardest, and why.  
   *Parent says:* Which card was hardest to sort? What helped you choose?  
-  *Child mode:* Which card was hardest? What helped you?
+  *Child mode:* Tell your grown-up about the hardest card.
 
 ## Experiments
 ### e1 · The Napkin Press Test: is wet waste always wet? (22 min)
@@ -192,12 +192,12 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 - **predict:** Look at the eight things and touch each one. Which ones will leave a wet mark on the napkin? Why do you think so? Then say which bin each one goes in.
 - **fair test:** Every piece is about the size of a one-rupee coin. Every piece sits on the same kind of napkin, under the same heavy book, for the same time, 10 minutes. Only the kind of waste is different.
 - **safety:** Wash hands with soap after touching the waste. Use a peel from today's cooking, not old smelly waste. Leave out glass and sharp tin edges.
-- **record:** Fill in the table. Draw one napkin that has a wet mark and one that does not. Circle the things that go in the wet bin but left no wet mark. Those are the ones that show a wet mark does not decide the bin.
+- **record:** Fill in the table. Take a photo of one napkin that has a wet mark and one that does not, or draw them. Circle the things that go in the wet bin but left no wet mark. Those are the ones that show a wet mark does not decide the bin.
 - **results table:** Thing | My guess: wet mark? | Wet mark: yes or no? | Which bin does it go in?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the eight pieces of waste. 2. Let your child touch each one. 3. Ask the questions below. 4. Write the guesses in the table.  
-  *Parent says:* Touch each one. Which ones will leave a wet mark on a napkin? Why do you think so?  
-  *Child mode:* Touch each thing. Which will leave a wet mark? Why?
+  *Parent says:* Here are eight things. We will press each one on a napkin. A wet mark is a damp patch. Which ones will leave one?  
+  *Child mode:* Touch each thing. Point to the ones you think will leave a wet mark.
   - Ask: Why do you think the onion skin will or will not leave a mark? (good: No mark, because it feels dry and papery.; Maybe a mark, because it comes from an onion, and onions are juicy.)
   - Note: Write the guesses down word for word. Don't say if they are right. The test will show the answer.
 - **s2 (4 min)**  
@@ -206,16 +206,16 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   *Child mode:* Put one piece on each napkin. Cover them. Put the book on top.
   - Note: Put the peel with its inside facing down on the napkin. The folded cloth helps the book press thick and thin pieces equally. If the book is too small, use a steel plate with a full bottle on it.
 - **s3 (10 min)**  
-  *Parent does:* 1. Wait 10 minutes. 2. While you wait, ask the question below. 3. Then lift the book and take the pieces off. 4. Hold each napkin up to the light.  
-  *Parent says:* While we wait, tell me. Which bin does each one go in? Now let's lift the book. Which napkins have a wet mark?  
-  *Child mode:* Wait ten minutes. Say which bin each one goes in. Then lift the book. Look for wet marks.
-  - Ask: Which napkins are wet? (good: The peel, the rice, the tea leaves and the milk packet.; The onion skin and the dry leaf left no mark.)
+  *Parent does:* 1. Wait 10 minutes. 2. While you wait, ask which bin each piece goes in. 3. Then lift the book and take the pieces off. 4. Hold each napkin up to the light.  
+  *Parent says:* While we wait, which bin does each piece go in? Now let's lift the book and look.  
+  *Child mode:* While you wait, say which bin each piece goes in. Then lift the book and look at the napkins.
+  - Ask: Which napkins have a wet mark? (good: The peel, the rice, the tea leaves and the milk packet.; The onion skin and the dry leaf left no mark.)
   - Note: The peel, rice and tea leaves usually leave a clear damp grey patch. The unrinsed milk packet leaves white drops. The onion skin, dry leaf, wrapper and newspaper leave the napkin clean and dry.
   - Check: Why does every piece get the same book and the same time? → **So the test is fair, and only the kind of waste is different**
 - **s4 (4 min)**  
   *Parent does:* 1. Put the napkins in two groups: wet bin and dry bin. 2. Ask your child what they see. 3. Ask them to say what they think, what they saw and why.  
-  *Parent says:* Look at the wet bin group. Did every one leave a wet mark? So what decides the bin? Why do you think so?  
-  *Child mode:* Look at the wet bin group. Are all of them wet? What decides the bin?
+  *Parent says:* So what decides the bin? Why do you think so?  
+  *Child mode:* Look at the napkins in the wet bin group. Did every one leave a mark?
   - Ask: Why does the dry onion skin go in the wet bin? (good: Because it rots, even if it is dry.; Because it comes from a plant, and tiny living beings eat it.)
   - Ask: Why does the wet milk packet go in the dry bin? (good: Because it is plastic, and plastic does not rot.; But we must rinse it first.)
   - Note: A strong answer uses what they saw: 'The onion skin left no mark, but it still goes in the wet bin, because it rots.' Read the card 'Wet waste: waste that rots' only after your child has had their say.
@@ -224,13 +224,13 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 - **predict:** Look at the two bags before you hang them. Which one will be heavier? Which one looks bigger? Why do you think so?
 - **fair test:** Both bags are the same kind of bag, and the waste comes from the same meal. Both bags hang from the same hanger, at the very ends, the same distance from the hook.
 - **safety:** Wash hands with soap after handling the waste. Tie the wet bag shut so nothing drips. Leave glass, tins and other sharp things out of the bags.
-- **record:** Fill in the table. Draw the hanger, and show which side went down.
+- **record:** Fill in the table. Take a photo of the hanger with the bags on it, or draw it, and show which side went down.
 - **results table:** Bag | My guess: heavier? | Which side went down? | Number of things in the bag | How many tumblers it filled
 - **s1 (3 min)**  
   *Parent does:* 1. After one meal, keep the wet waste in one bag and the dry waste in the other. 2. Show both bags to your child. 3. Ask the questions below.  
-  *Parent says:* Here is the waste from our lunch. Which bag will be heavier? Which one looks bigger? Why do you think so?  
-  *Child mode:* Look at the two bags. Which is heavier? Which is bigger? Why?
-  - Ask: Why do you think that bag is heavier? (good: The wet one, because wet things are heavy.; The dry one, because it is bigger.)
+  *Parent says:* Here is the waste from our lunch. Which bag will be heavier? Which one looks bigger?  
+  *Child mode:* Look at the two bags. Point to the one you think is heavier.
+  - Ask: Why did you pick that bag as heavier? (good: The wet one, because wet things are heavy.; The dry one, because it is bigger.)
   - Note: Write the guesses down. Any guess with a reason is good.
 - **s2 (5 min)**  
   *Parent does:* 1. Tie a string loop at each end of the hanger. 2. Hang the hanger from a door handle. 3. Check that it hangs level when empty. 4. Hang the wet bag from one loop and the dry bag from the other.  
@@ -251,17 +251,17 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why.  
   *Parent says:* So which is heavier, and which takes more space? What did you see? Why do you think that is?  
-  *Child mode:* Which was heavier? Which was bigger? Why?
+  *Child mode:* Tell your grown-up what you found out.
   - Ask: Why can a small bag be heavier than a big bag? (good: Because the wet things have a lot of water in them.; Because the packets are light and full of air.)
   - Check: On the hanger, which bag goes down? → **The heavier bag**
 
 ## Activities
 ### a1 · Kitchen Sort: two steel bowls (10 min)
-- **record:** Draw the two bowls and what went in each.
+- **record:** Tell your grown-up what went in each bowl, and count the scraps in each.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the two bowls near the counter, away from the stove. 2. Put a green label by one bowl and a blue label by the other.  
   *Parent says:* Green is for things that rot. Blue is for things that do not rot quickly.  
-  *Child mode:* Green is for things that rot. Blue is for the rest.
+  *Child mode:* Put the green label by one bowl and the blue label by the other.
 - **s2 (6 min)**  
   *Parent does:* 1. As you cook, hand each scrap to your child. 2. Let them choose a bowl. 3. Ask why.  
   *Parent says:* Here is the onion skin. Will it rot? Which bowl?  
@@ -270,30 +270,30 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   - Note: Keep your child away from the stove and knives. Hand them the scraps.
 - **s3 (2 min)**  
   *Parent does:* Empty each bowl into the matching home bin, and wash the bowls.  
-  *Parent says:* Now what is in the green bowl goes in the green bin, and what is in the blue bowl goes in the blue bin.  
+  *Parent says:* The green bowl goes in the green bin. The blue bowl goes in the blue bin.  
   *Child mode:* Empty each bowl into its bin. Wash your hands.
 ### a2 · Watch the Waste Leave: who takes it, and where to? (15 min)
-- **record:** A map with your home in the middle, a green road for wet waste and a blue road for dry waste.
+- **record:** A map with your home in the middle, a green road for wet waste and a blue road for dry waste. Or say it out loud to a grown-up.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. When the collector comes, go to the door with your child. 2. Look at the cart or truck together. 3. Count how many parts it has.  
   *Parent says:* Look at the cart. Does it keep wet and dry waste apart? How many drums or parts can you count?  
-  *Child mode:* Look at the cart. How many parts does it have? Are wet and dry apart?
+  *Child mode:* Count the drums or parts on the cart.
   - Note: Many carts have two drums, and many trucks have two sections. If yours has only one, that is worth noticing too. Greet the collector by name, and thank them.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* Help your child ask the collector one short question, if the collector has time.  
-  *Parent says:* Let's ask where the green drum goes, and where the blue drum goes.  
-  *Child mode:* Ask: where does the wet waste go? Where does the dry waste go?
+  *Parent says:* Let's ask the collector where the wet waste goes, and where the dry waste goes.  
+  *Child mode:* Ask the collector, then listen to the answer.
   - Note: If the collector is busy, ask your building secretary or look on your city's website later. Some cities send wet waste to a compost place and dry waste to a sorting shed.
 - **s3 (7 min)**  
-  *Parent does:* 1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Ask them to draw a green road and a blue road, and the place where each road ends.  
+  *Parent does:* 1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Ask them to draw a green road and a blue road, and the place where each road ends. If they prefer not to draw, they can tell you the way each road goes.  
   *Parent says:* Draw our home in the middle. Where does the green road go? Where does the blue road go? What happens to mixed waste?  
-  *Child mode:* Draw your home. Draw a green road and a blue road. Where do they end?
+  *Child mode:* Draw your home, a green road and a blue road. Or tell your grown-up where each road ends.
   - Ask: What happens at the end of the green road? (good: The peels rot and turn into compost.; The compost helps plants grow.)
 ### a3 · Rinse It, Dry It: getting a milk packet ready (8 min)
-- **record:** Draw the packet before and after rinsing.
+- **record:** Take a photo of the packet before and after rinsing, or tell your grown-up what changed.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Cut the packet fully open along one side with scissors. 2. Let your child pour in a little water and swish it. 3. Pour the water into a plant pot or the sink.  
-  *Parent says:* Why do we rinse it? What would the milk do to the newspapers in the dry bin?  
+  *Parent says:* Let's get this packet ready for the dry bin. Pour in a little water and swish it around.  
   *Child mode:* Pour in a little water. Swish it. Pour it out.
   - Ask: Why do we rinse the milk packet? (good: So the milk does not make the paper wet and smelly.; So it can be sold and recycled.)
   - Note: The milky rinse water can go into a plant pot. A grown-up does the cutting.
@@ -312,17 +312,17 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 - **general:** A green label with a drawn peel, and a blue label with a drawn newspaper.; The words WET and DRY in big letters.
 - **creative:** A label with the question 'Will it rot?' and a tick or a cross.; Labels in English and in the language your family speaks at home, like Tamil, Telugu, Bengali or Marathi.; A drawing of a worm on the green label, to show who eats the waste.
 - **s1 (4 min)**  
-  *Parent does:* Read the challenge. Ask the question below.  
+  *Parent does:* Read the challenge together. Then ask your child the question.  
   *Parent says:* Who at home might find the bins confusing? What would help them?  
-  *Child mode:* Who might put things in the wrong bin? What would help them?
+  *Child mode:* Think of one person at home who might be confused.
 - **s2 (10 min)**  
   *Parent does:* Let your child make the two labels. Help only with cutting and sticking.  
-  *Parent says:* In the Napkin Press Test, the dry onion skin and the dry leaf left no wet mark, but they still went in the wet bin. Which tricky things like these should your label show?  
-  *Child mode:* Make your labels. Show one tricky thing on each.
+  *Parent says:* Remember the Napkin Press Test? The dry onion skin and the dry leaf left no wet mark, but they still went in the wet bin. Which tricky things like these should your label show?  
+  *Child mode:* Make your labels. Draw or stick on a picture of one tricky thing on each.
 - **s3 (6 min)**  
   *Parent does:* 1. Stick the labels on the bins. 2. Give someone at home five things to sort. 3. Watch.  
   *Parent says:* Let's see if your labels work. Did anyone make a mistake? What will you change?  
-  *Child mode:* Watch someone sort five things. Did your labels help? What will you change?
+  *Child mode:* Give someone five things to sort. Watch, but do not help.
 
 ## Worksheets
 ### Wet or Dry? (core) (core, 12 questions)

@@ -263,11 +263,11 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards and tokens. 2. Lay out the four mats. 3. Shuffle the animal cards. 4. Put the tokens in a bowl.  
   *Parent says:* Almost every animal needs oxygen. But they get it in different ways: lungs, gills, damp skin, or tiny air pipes. Let's sort animals by how they breathe.  
-  *Child mode:* Lay out the four mats. Mix up the animal cards. Animals need oxygen. How does each one get it?
+  *Child mode:* Lay out the four mats and mix up the animal cards. Then you will put each animal on the mat for how they breathe.
 - **s2 (3 min)**  
   *Parent does:* Take out the frog card and play that card together as a practice round. Then shuffle it back into the pile.  
-  *Parent says:* Let's try one card together first: the frog. Which mat does the frog card go on? Careful, this one is tricky.  
-  *Child mode:* Try the frog card together first. Which mat does the frog card go on? It might be two!
+  *Parent says:* Let's try one card together first: the frog. Careful, this one is tricky.  
+  *Child mode:* Look at the frog card. Think about where a frog lives and how they breathe. It might be two mats!
   - Check: Where does the frog card go? → **Between LUNGS and SKIN**
 - **s3 (12 min)**  
   *Parent does:* Take turns until all the animal cards are played. After every third animal card, turn over a bonus card. The back of each card shows the answer.  
@@ -276,9 +276,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Note: Answers. Lungs: cow, Ganges river dolphin, crow, python, elephant, sea turtle, bar-headed goose, bat, human baby, whale. Gills: rohu fish, tadpole, crab, prawn, shark, goldfish. Skin: earthworm, lungless salamander. Two ways: frog (lungs and skin), mudskipper (gills and skin). Air pipes: grasshopper, butterfly, ant, mosquito.
   - Check: The Ganges river dolphin lives in water all their life. Where does the dolphin card go? → **LUNGS**
 - **s4 (2 min)**  
-  *Parent does:* Count the tokens. Then each player names one animal from the game that surprised them.  
-  *Parent says:* Let's count tokens. Now look at the animals that breathe through their skin, or partly through it. What do their homes have in common?  
-  *Child mode:* Count your tokens. Look at the animals that breathe through their skin. What do their homes have in common?
+  *Parent does:* Count the tokens. Then put the skin-breathing animal cards side by side.  
+  *Parent says:* Let's count tokens. Now look at the animals that breathe through their skin, or partly through it.  
+  *Child mode:* Count your tokens. Then look at where the skin-breathing animals live.
   - Ask: What do the homes of skin-breathing animals have in common? (good: They are all wet or damp.; Skin can take in oxygen only when it is thin and damp.)
   - Think: A snake has dry, scaly skin. Could a snake breathe through their skin? Why not?
 ### g2 · Bat and Moth (15 min)
@@ -293,12 +293,12 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s2 (10 min)**  
   *Parent does:* Play rounds of about a minute each. Write the seconds on the sheet. Swap roles so everyone is the bat once.  
   *Parent says:* Bat, call as often as you like. Moth, you must answer every time. Trees, warn the bat if they come close.  
-  *Child mode:* Bat: call and listen. Moth: always answer. Trees: say 'Tree!' if the bat comes near.
+  *Child mode:* Bat: listen to the answers to find the moth. Moth: answer every time. Trees: answer only when the bat is close.
   - Check: In Bat and Moth, the blindfolded bat found the moth by listening. What does a real bat listen for? → **Echoes of their own high sounds bouncing off insects**
 - **s3 (2 min)**  
   *Parent does:* Talk about how it felt to find food by sound.  
-  *Parent says:* How did it feel to be the bat? Did it get easier with practice? Ganges river dolphins hunt fish in muddy water the same way, with clicks.  
-  *Child mode:* Was it hard to be the bat? Did it get easier? River dolphins hunt like this in muddy water.
+  *Parent says:* How did it feel to be the bat? Did it get easier with practice?  
+  *Child mode:* Think about the sounds you listened for. Ganges river dolphins hunt fish in muddy water the same way, with clicks.
   - Note: Let your child guess first. Many moths can hear a bat's high sounds. Some drop to the ground or fly in loops to escape, so the bat loses them.
   - Think: Moths have ears too. What might a clever moth do when they hear a bat coming?
 
@@ -307,12 +307,12 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **question:** Do we breathe faster after exercise? How much faster?
 - **predict:** Before you start, guess. How many breaths do you take in one minute while sitting still? Will the number go up, go down or stay the same after one minute of jumping? Why do you think so?
 - **fair test:** To make it fair, count in the same way every time: sit in the same chair, and count for the same time. Only one thing changes: resting or just after jumping. Count 3 times for each, because one count can be wrong by chance.
-- **record:** Fill in the table. Draw two bars: one for resting, one for after jumping. Then write a claim, your evidence and your reasoning.
+- **record:** Fill in the table. Make two bars, one for resting and one for after jumping. Draw them, or stack blocks. Then write a claim, your evidence and your reasoning.
 - **results table:** When I counted | Count 1: breaths in 1 minute | Count 2 | Count 3 | Middle value
 - **s1 (3 min)**  
   *Parent does:* 1. Sit your child on a chair. 2. Ask them to guess how many breaths they take in one minute. 3. Write the guess at the top of the table.  
-  *Parent says:* Each time your chest goes up and down, that is one breath. How many breaths do you think you take in one minute, sitting still? And after jumping, will it be more or fewer?  
-  *Child mode:* One breath is one up and one down of your chest. How many breaths in a minute? Guess a number. Write it down.
+  *Parent says:* Each time your chest goes up and down, that is one breath. How many breaths do you think you take in one minute, sitting still?  
+  *Child mode:* One breath is one up and one down of your chest. Guess how many breaths you take in one minute. Write your guess down.
   - Ask: What do you think will happen after jumping? Why? (good: More breaths, because I will be puffed out.; Faster, because my body needs more air when I move.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child sits still for one minute first, to settle. 2. They put one hand flat on their chest. 3. Start the timer. They count each rise of the chest, quietly. 4. Stop at one minute and write the number. 5. Rest one minute and repeat, until there are 3 counts.  
@@ -325,9 +325,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Child mode:* Jump on the spot for one minute. Then sit down fast. Hand on your chest. Count your breaths for one minute. Write the number.
   - Note: Watch for dizziness and let your child stop early if needed. Count straight away, because breathing slows back down within a few minutes. Wait until breathing feels normal before the next jump.
 - **s4 (5 min)**  
-  *Parent does:* 1. Find the middle value of each set of three counts: put them in order and take the middle one. 2. Draw two bars, one for sitting still and one for after jumping.  
+  *Parent does:* 1. Find the middle value of each set of three counts: put them in order and take the middle one. 2. Make two bars, one for sitting still and one for after jumping. Draw them, or stack blocks or coins, one for every 5 breaths.  
   *Parent says:* Let's turn our numbers into a picture. One bar for resting. One bar for after jumping. The taller the bar, the more breaths in a minute.  
-  *Child mode:* Put your three numbers in order. The middle one is your middle value. Draw a bar for resting. Draw a bar for after jumping.
+  *Child mode:* Put your three numbers in order. The middle one is your middle value. Make a bar for resting and a bar for after jumping. Draw them, or stack blocks.
 - **s5 (5 min)**  
   *Parent does:* Help your child say or write a claim, evidence and reasoning.  
   *Parent says:* Let's explain what we found, like a scientist. First, what do you think? That's your claim. Then, what did you see? That's your evidence. Then, why? That's your reasoning.  
@@ -343,7 +343,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **predict:** Guess first. We will bubble your breath into one glass of limewater, and room air into another. Will they look the same at the end? Why do you think so?
 - **fair test:** Both glasses get the same amount of limewater and the same kind of straw, and air is bubbled in for the same time. Only the kind of air changes: your breath, or room air pushed out of an empty plastic bottle.
 - **safety:** Chuna can burn skin and eyes. Only a grown-up handles it. Never taste chuna or limewater, and never drink it. If any splashes in an eye, rinse the eye with plenty of clean water for several minutes and call a doctor. Blow out through the straw only, never suck. Wash hands afterwards, and pour the limewater down the sink with plenty of tap water.
-- **record:** Draw the two glasses after 2 minutes. Write which one turned milky first. Then write your claim, evidence and reasoning.
+- **record:** Take a photo of the two glasses after 2 minutes, or draw them. Write which one turned milky first. Then write your claim, evidence and reasoning.
 - **results table:** Kind of air | How it looked after 30 seconds | After 1 minute | After 2 minutes
 - **schedule:** day 1: A grown-up stirs one teaspoon of chuna into about a litre of water and leaves it overnight to settle. (5 min); day 2: Pour off the clear limewater. Bubble breath into one glass and room air from a squeezed bottle into the other. Compare, and talk about where the carbon dioxide came from. (20 min)
 - **s1 (5 min) · grown-up needed**  
@@ -354,8 +354,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Wait: Leave the jug overnight so the white powder settles.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Day 2. 1. Gently pour the clear water from the top of the jug into two glasses, half full each. Leave the white powder behind. 2. Put a straw in glass 1. 3. Push a second straw into the neck of an empty plastic bottle, and press atta dough round the straw so no air leaks. This bottle will push room air into glass 2.  
-  *Parent says:* Look, both glasses are clear. Carbon dioxide turns this water milky. Which kind of air do you think has more carbon dioxide: your breath, or the air in this room? Why do you think so?  
-  *Child mode:* Look at the two glasses. Both are clear. Guess. Which will turn milky: your breath or room air?
+  *Parent says:* Look, both glasses are clear. Carbon dioxide turns this water milky. Glass 1 will get your breath. Glass 2 will get room air from the bottle.  
+  *Child mode:* Look at the two glasses. Both are clear. Glass 1 gets your breath. Glass 2 gets room air.
   - Ask: Which glass do you think will turn milky first? Why? (good: The breath one, because we breathe out carbon dioxide.; The breath one, because our body puts used air out.)
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Your child blows gently out through the straw in glass 1, breathing in through the nose. Blow for up to 2 minutes, and rest whenever needed. 2. At the same time, a grown-up puts the bottle's straw into glass 2 and squeezes the bottle, so room air bubbles out. Lift the straw out of the water before letting go, so the bottle refills with room air, not limewater. Do this about 20 times a minute. 3. Check both glasses at 30 seconds, 1 minute and 2 minutes.  
@@ -364,8 +364,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Note: The breath glass usually goes cloudy within 30 seconds to a minute. The room-air glass stays clear, or turns only a little hazy near the end, because room air has only a tiny bit of carbon dioxide. Look at 30 seconds and 1 minute, and stop by 2 minutes. If you keep blowing for longer, the milkiness can clear again, because extra carbon dioxide dissolves the white powder. If your child sucks by mistake, rinse their mouth with plenty of water. A bicycle pump works instead of the bottle, if you have one.
 - **s4 (10 min)**  
   *Parent does:* Compare the glasses and talk about claim, evidence and reasoning.  
-  *Parent says:* What do you see? Which glass turned milky? Why do you think that happened? So which air had more carbon dioxide?  
-  *Child mode:* Which glass turned milky? Milky means carbon dioxide. Where did the carbon dioxide in your breath come from?
+  *Parent says:* What do you see? Which glass turned milky? So which air had more carbon dioxide?  
+  *Child mode:* Look at both glasses. Which one turned milky? Milky means carbon dioxide is in the air that went through.
   - Ask: Claim: is breathed-out air different from room air? (good: Yes. Breathed-out air has more carbon dioxide.)
   - Ask: Evidence? (good: The breath glass went milky in under a minute. The room-air glass stayed clear, or only a little hazy.)
   - Ask: Reasoning? (good: My cells use oxygen and make carbon dioxide. My blood carries it to my lungs, and I breathe it out.)
@@ -375,11 +375,11 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **predict:** Guess first. We will put out three baits: sugar, salt and a crumb of biscuit. Which will the first ant find? Which will have the most ants after 30 minutes? Why do you think so?
 - **fair test:** Put the three baits the same size, the same distance from the ants' path, on the same kind of paper, at the same time. Only the food changes. Count the ants on each bait at 10, 20 and 30 minutes.
 - **safety:** Use common small black ants, not red ants or big biting ants. Watch, don't touch. Clean up the baits afterwards so ants don't come into the kitchen.
-- **record:** Fill in the table. Draw a bar chart of ants at 30 minutes. Draw a map of the ant trail you saw.
+- **record:** Fill in the table. Make a bar chart of ants at 30 minutes, drawn or built from blocks. Take a photo of the ant trail, or tell your grown-up where the ants walked.
 - **results table:** Bait | Ants at 10 minutes | Ants at 20 minutes | Ants at 30 minutes
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares in a row beside the line, each one a hand-length from it and a hand-length apart. 3. Put the sugar, salt and biscuit crumbs on them, one on each.  
-  *Parent says:* Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food. Which one do you think they'll find first?  
+  *Parent says:* Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food.  
   *Child mode:* Find a line of ants. Put three papers near it. Put sugar on one, salt on one, biscuit on one. Which will ants find first?
   - Ask: How do you think an ant knows where food is? (good: They smell it.; They feel it with their feelers.; Other ants show them the way.)
   - Note: Most Indian homes have small ants somewhere. If you cannot see any, leave a pinch of sugar on a paper near a window or balcony crack, and start the test on the day ants come to it. If no ant has found any bait after 10 minutes, wait until one does and start the timer then.
@@ -390,8 +390,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Note: Usually one scout ant finds the sugar or biscuit, by smell or by wandering onto it, goes back towards the nest, and soon a trail of ants arrives. The scout leaves a smell trail, called a pheromone trail, on the way home. Salt usually gets few or no ants. Results vary with the kind of ant, and the bait the ants meet first can get more visits. If one end of the row gets all the ants, repeat with the baits in a different order. Whatever happens is real data.
 - **s3 (5 min)**  
   *Parent does:* Talk about what you saw, using claim, evidence and reasoning.  
-  *Parent says:* So, what do we think? How do ants find food? What did you see that tells you? And why do the other ants arrive in a line?  
-  *Child mode:* Say what you found. What numbers show it? Why did the ants walk in a line?
+  *Parent says:* So, what do we think? Let's say what we found, what we saw, and why.  
+  *Child mode:* Say what you found. Say which numbers show it. Then say why you think it happened.
   - Ask: Claim? (good: Ants find sugar faster than salt, and other ants follow the first one to the food.)
   - Ask: Evidence? (good: More ants were on the sugar than on the salt after 30 minutes.; The ants walked in a line from the sugar to their nest.)
   - Ask: Reasoning? (good: Sugar is energy food. The first ant smelled the sugar and left a smell trail home. The others followed the trail.)
@@ -400,12 +400,12 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 
 ## Activities
 ### a1 · Breath on a Steel Tumbler (10 min)
-- **record:** Draw what you saw on the tumbler and the tissue. Write one thing you noticed and one thing you wonder.
+- **record:** Tell your grown-up what you saw on the tumbler and the tissue, or take a photo. Write one thing you noticed and one thing you wonder.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the steel tumbler close to your child's mouth. 2. Your child breathes out slowly onto it, three times. 3. Then onto the mirror. 4. Then they hold a tissue strip under their nose and breathe in and out.  
-  *Parent says:* Breathe out slowly onto the steel. What appears? Now hold the tissue under your nose. What does it do when you breathe in? When you breathe out?  
-  *Child mode:* Breathe out on the steel. What do you see? Hold the tissue under your nose. Watch it move.
-  - Ask: What do you notice? (good: The steel goes misty.; Little drops of water appear.; The tissue blows away when I breathe out and comes closer when I breathe in.)
+  *Parent says:* Breathe out slowly onto the steel, then onto the mirror. What appears? Now hold the tissue under your nose and breathe out. What does it do?  
+  *Child mode:* Breathe out slowly on the steel and on the mirror. Then hold the tissue under your nose and breathe out. Watch what each one does.
+  - Ask: What do you notice? (good: The steel goes misty.; Little drops of water appear.; The tissue blows away when I breathe out.)
   - Ask: What do you wonder? (good: Where does the water come from?; Does a fish breathe like this?; What is in my breath?)
   - Note: The mist is water. Breath is warm and full of water vapour, a gas. On the cooler steel, the vapour condenses: it turns into tiny drops. If the steel does not mist on a very hot day, cool it under the tap for a minute and dry it. Don't explain more yet.
   - Check: Your breath made the steel tumbler misty. What is the mist? → **Tiny drops of water from your breath**
@@ -413,19 +413,19 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s2 (6 min)**  
   *Parent does:* 1. Your child sits still, one hand on the chest and one on the belly. 2. They breathe normally for ten breaths and notice which hand moves. 3. Then they take three big slow breaths.  
   *Parent says:* Close your eyes. One hand on your chest, one on your belly. Just notice. Which hand moves? Now take a big slow breath in. Where does the air go?  
-  *Child mode:* Close your eyes. One hand on your chest. One hand on your belly. Breathe. Which hand moves? Now take a big, slow breath.
+  *Child mode:* Close your eyes. Put one hand on your chest and one on your belly. Breathe normally and feel which hand moves. Then take a big, slow breath.
 ### a2 · Make a Bottle Lung (25 min)
 - **problem:** Your lungs cannot move by themselves. A sheet of muscle under them, called the diaphragm, pulls down and makes space, and air rushes in. In this activity you build a model lung from a bottle and two balloons, and watch this happen.
 - **safety:** Only a grown-up cuts the bottle. Cover the cut edge with tape so it isn't sharp.
-- **record:** Draw your bottle lung. Label the balloon lung, the windpipe and the diaphragm. Draw arrows showing which way air goes when you pull down.
+- **record:** Show your grown-up your bottle lung. Point to the balloon lung, the windpipe and the diaphragm. Tell them which way the air goes when you pull down.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts off the bottom third of the bottle and tapes the cut edge. 2. Push one balloon into the bottle neck, stretching its mouth over the outside of the neck. 3. Cut the second balloon across its middle and keep the half with the narrow neck. Tie a knot in that neck. 4. Stretch the cut, wide end over the open bottom of the bottle. Hold it with the rubber band, then tape it so it is airtight.  
   *Parent says:* We're going to build a lung. The balloon inside is the lung. The bottle neck is the windpipe. The stretchy balloon at the bottom is the diaphragm, the muscle under your lungs.  
   *Child mode:* A grown-up cuts the bottle. Put one balloon inside the neck. Stretch the other over the bottom. That one is your diaphragm.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child holds the bottle with one hand. 2. With the other, they pull the knot of the bottom balloon gently down. 3. Watch the inside balloon. 4. Then let go.  
-  *Parent says:* Pull the bottom balloon down, slowly. What happens to the lung? Now let go. What happens? This is what your diaphragm does every time you breathe.  
-  *Child mode:* Pull the bottom balloon down. What does the inside balloon do? Let go. What happens now?
+  *Parent says:* Pull the bottom balloon down, slowly. Now let go. This is what your diaphragm does every time you breathe.  
+  *Child mode:* Pull the bottom balloon down slowly. Watch the balloon inside. Then let go.
   - Ask: What happened when you pulled down? (good: The inside balloon filled up with air.; The lung got bigger.)
   - Ask: Why do you think it filled up? (good: Pulling down made more space inside the bottle, and air rushed in through the neck to fill the balloon.)
   - Note: If the inside balloon hardly moves, air is leaking at the bottom seal or the neck. Add more tape and try again.
@@ -433,36 +433,36 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s3 (9 min)**  
   *Parent does:* 1. Your child puts a hand on their belly and breathes in deeply. 2. Compare it with the bottle lung. 3. Talk about what the model gets right and what it gets wrong.  
   *Parent says:* Every model is a little wrong. Real lungs aren't one balloon. They're like a sponge with 480 million tiny bubbles. What else is different in your body?  
-  *Child mode:* Breathe in deeply. Feel your belly push out. That's your diaphragm pulling down. How is the bottle different from your real lungs?
+  *Child mode:* Put a hand on your belly and breathe in deeply. Feel your belly push out. That is your diaphragm pulling down.
   - Ask: How is the model different from real lungs? (good: We have two lungs, not one.; Real lungs are spongy, with millions of tiny bubbles.; Our ribs move too.; There is blood all around real lungs.)
   - Note: Children love finding what's wrong with a model. It's real science thinking: a model shows one idea, not everything.
   - Think: A fish has no diaphragm. Think about how water goes in at the mouth and out under the gill covers. How do they move water over their gills?
 ### a3 · Gill Watch: count a fish's breaths (20 min)
 - **safety:** Stay with a grown-up near a pond. At a fish market, only look, and wash your hands if you touch anything.
-- **record:** Write how many times the fish's gill covers opened in one minute. Draw the fish and colour their gills.
+- **record:** Write how many times the fish's gill covers opened in one minute. Then tell your grown-up what colour and shape the gills were, or take a photo of them.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Find one fish that is calm. 2. Look just behind their eyes at the gill covers, the flaps on each side. 3. Watch their mouth open and shut. 4. Count each time the gill covers open, for one minute, making a tally mark each time.  
   *Parent says:* See the flaps behind their eyes? That's where the water goes out. It comes in at the mouth and goes out there, over the gills. Let's count how many times they open in one minute.  
   *Child mode:* Look behind the fish's eyes. See the flaps? They open and shut. Count each opening for one minute. Make a tally mark each time.
   - Note: Small fish in warm water often open their gill covers 60 to 100 times a minute, much faster than we breathe. Counting is hard, so 30 seconds doubled is fine.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* Optional: visit a fish market or ask at a fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills.  
-  *Parent says:* Fish sellers lift the gill flap to show how fresh a fish is. Bright red gills mean fresh. Why do you think they're so red?  
+  *Parent does:* Optional: visit a fish market or ask at a fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills. If you cannot go, skip this step.  
+  *Parent says:* Fish sellers lift the gill flap to show how fresh a fish is. Bright red gills mean fresh. Let's look at them closely.  
   *Child mode:* Look under the flap of a fresh fish. See the red gills? They look like a comb with many thin teeth.
   - Ask: Why are gills so red? (good: They are full of blood.; Blood comes close to the water there to pick up oxygen.)
   - Ask: Why do they have so many thin parts? (good: To have lots of surface, so they can catch more oxygen.)
 - **s3 (5 min)**  
   *Parent does:* Compare the fish's count with your own breath count from the Breath Count experiment, if you did it.  
-  *Parent says:* A child takes about 20 breaths a minute sitting still. The fish moved water over their gills many more times than that. Why might a fish have to work harder?  
-  *Child mode:* Was the fish's number bigger or smaller than yours? Why might a fish breathe so fast?
+  *Parent says:* A child takes about 20 breaths a minute sitting still. Let's put your fish's number next to that.  
+  *Child mode:* Is the fish's number bigger or smaller than 20?
   - Check: A small fish opened their gill covers 80 times a minute. You took 20 breaths. Why might the fish need so many? → **Water has much less oxygen than air, so the fish moves lots of water**
 ### a4 · Flat or Frilly? The gill shape test (45 min)
 - **problem:** Gills are folded into thin threads, and lungs are made of millions of tiny bubbles. In this activity you test why. You wet two paper towels, and crumple one into a ball and cut the other into frilly strips. Then you see which dries first. Water leaves a towel through the surface that touches the air. In the same way, oxygen enters a gill through its surface.
-- **record:** Write which towel dried first and how long each took. Draw both and label which is like a gill.
+- **record:** Write which towel dried first and how long each took. Then write which towel is more like a gill.
 - **s1 (8 min)**  
   *Parent does:* 1. Take two paper towels the same size. 2. Crumple one tightly into a ball. 3. Cut the other into thin strips, like a comb, leaving the top edge joined. 4. Dip both in water for 5 seconds. Lift them out and let them drip for 10 seconds. Don't squeeze them, or the strips will tear. 5. Hang them side by side on the string, two hand-widths apart (pinch the ball in a clothes peg). If you use a fan, let it blow on both the same.  
-  *Parent says:* Water leaves a wet towel through its surface, the outside that touches the air. Gills and lungs take oxygen in through their surface too. Which towel do you think has more surface touching the air?  
-  *Child mode:* Crumple one towel into a ball. Cut the other into thin strips. Wet both. Hang them up. Which one has more outside touching the air?
+  *Parent says:* Water leaves a wet towel through its surface, the outside that touches the air. Gills and lungs take oxygen in through their surface too. Which towel has more surface touching the air?  
+  *Child mode:* Crumple one towel into a ball. Cut the other into thin strips. Wet both. Hang them up side by side.
   - Ask: Which towel will dry first? Why? (good: The frilly one, because more of it touches the air.; The frilly one, because the ball is all squashed inside.)
 - **s2 (30 min)**  
   *Parent does:* Every 10 minutes, for about 30 minutes, gently touch both towels and note how they feel: wet, damp or dry. Each check takes only a minute, so do something else in between.  
@@ -471,8 +471,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Note: The frilly towel usually dries much faster than the crumpled ball. The crumpled ball may still be damp at the end, and on a humid day both may stay damp longer. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.
 - **s3 (7 min)**  
   *Parent does:* Talk about what the result means for gills and lungs.  
-  *Parent says:* Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles. Why do you think they have these shapes?  
-  *Child mode:* The frilly one dried faster. Gills are frilly too. Lungs have millions of tiny bubbles. Why?
+  *Parent says:* Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles.  
+  *Child mode:* Look at the two towels again. Which one is more like a gill?
   - Check: In the towel test, the frilly towel dried faster than the crumpled ball. What does this tell us about gills? → **Gills are frilly so that lots of surface can take in oxygen fast**
   - Think: Out of water, a fish's gill threads stick together, like the crumpled towel. What happens to their surface then?
 ### a5 · Follow Your Nose: find the hidden smell (15 min)
@@ -484,8 +484,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: What told you which bowl held the snack? (good: The smell was stronger at that bowl.; I sniffed each bowl until one smelled of the snack.)
 - **s2 (5 min)**  
   *Parent does:* Talk about animal noses and other senses.  
-  *Parent says:* A dog's nose is far, far better than ours. A dog can follow a smell trail that is days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo. Which sense would help you most to find food in the dark?  
-  *Child mode:* A dog could find the snack at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?
+  *Parent says:* A dog's nose is far, far better than ours. A dog can follow a smell trail that is days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo.  
+  *Child mode:* A dog finds food by smell. A mosquito finds you by your breath. A bat finds food by echoes. Which sense would you pick for finding food in the dark?
   - Check: A mosquito finds people in a dark room. Which of these helps them most? → **Smelling the carbon dioxide we breathe out, and sensing our warmth**
 ### a6 · How Long Can a Breath Last? (15 min)
 - **safety:** Never hold your breath in water. Hold only as long as is comfortable, and stop at once if you feel dizzy.
@@ -498,7 +498,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s2 (7 min)**  
   *Parent does:* Look at the chart of animal breath-holds together.  
   *Parent says:* The Ganges river dolphin comes up every minute or two. Some whales stay down for over an hour. How do they do it? They store extra oxygen in their blood and muscles, and slow their hearts down.  
-  *Child mode:* Look at the animals. A river dolphin holds their breath for one or two minutes. Some whales hold for over an hour!
+  *Child mode:* Look at the table. Which animal stays under water the longest? Which one is closest to you?
   - Check: A sea turtle can rest under water for hours, but a Ganges river dolphin must come up every minute or two. Why can a resting turtle stay down so long? → **A resting body uses very little oxygen, so one breath lasts a long time**
 ### a7 · Mouth Tools Buffet (20 min)
 - **problem:** An animal's mouth fits the way they get food. In this activity, kitchen tools stand in for animal mouths: a straw, a tea strainer, tweezers and a clothes peg. You find which tool is best at which food.
@@ -506,39 +506,40 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s1 (14 min)**  
   *Parent does:* 1. Set out the foods. 2. Your child tries each tool on each food for 30 seconds. 3. Count how many pieces they collect, or how much juice they drink. 4. Write the best tool for each food.  
   *Parent says:* Each tool is a pretend animal mouth. You have 30 seconds with each one. Which mouth is best for which food?  
-  *Child mode:* Each tool is an animal mouth. Try each one on each food. You get 30 seconds. Which is best?
+  *Child mode:* Try each tool on each food for 30 seconds. Count how many pieces you pick up, or how much you drink.
   - Ask: Which tool was best at the noodles in the atta? (good: The tweezers or sticks, like a long beak poking in mud.)
   - Ask: Which was best at the floating puffed rice? (good: The tea strainer, because the water runs out and the food stays.)
 - **s2 (6 min)**  
-  *Parent does:* Match each tool to an animal with a mouth like that tool.  
-  *Parent says:* Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.  
-  *Child mode:* Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Each tool was best at a different food, just like each beak.
+  *Parent does:* Say the four animals: butterfly, flamingo, heron and parrot. Your child picks the tool that is most like each animal's mouth. Then check with the note below.  
+  *Parent says:* Four animals have mouths like your tools: a butterfly, a flamingo, a heron and a parrot. Which tool goes with which animal?  
+  *Child mode:* Match each tool to an animal. Think about the food each animal eats and the mouth they use.
+  - Note: Straw: a butterfly's long tongue, sipping nectar. Strainer: a flamingo's beak, sieving tiny food. Tweezers: a heron's long beak, picking up food. Peg: a parrot's strong beak, gripping a nut.
   - Check: A flamingo eats tiny shrimps floating in lake water. In the Mouth Tools Buffet, which tool worked like a flamingo's beak? → **The tea strainer**
 
 ## Projects
 ### p1 · My Breath Diary (50 min, 5 days)
-- **record:** A table of breath counts at different times of day, and a line chart. Write when you breathed fastest and slowest, and why.
-- **schedule:** day 1: Make the diary table. Count breaths for one minute on waking and before bed. (10 min); day 2: Count breaths on waking, after running about, and before bed. (8 min); day 3: Count breaths while reading and after climbing stairs. A grown-up also counts your breaths for one minute while you sleep. (8 min); day 4: Count the breaths of a pet or another person at home, with their permission, if there is one. (8 min); day 5: Draw a line chart of your breaths at each time. Write what you found. (16 min)
+- **record:** A table of breath counts at different times of day, and a line chart. If you would rather not draw, say to your grown-up when you breathed fastest and slowest, and why.
+- **schedule:** day 1: Make the diary table. Count breaths for one minute on waking and before bed. (10 min); day 2: Count breaths on waking, after running about, and before bed. (8 min); day 3: Count breaths while reading and after climbing stairs. A grown-up also counts your breaths for one minute while you sleep. (8 min); day 4: Count the breaths of a pet or another person at home, with their permission, if there is one. (8 min); day 5: Draw a line chart of your breaths at each time, or tell your grown-up when you breathed fastest and slowest. Write what you found. (16 min)
 - **s1 (10 min)**  
-  *Parent does:* Day 1. 1. Draw a table with columns: day, time, what I was doing, breaths in one minute. 2. Count on waking and before bed.  
+  *Parent does:* Day 1. 1. Make a table in the notebook with columns: day, time, what I was doing, breaths in one minute. 2. Count on waking and before bed.  
   *Parent says:* For five days, you'll be a breath scientist. Each day we'll count your breaths at different times. At the end we'll see when you breathe fastest and slowest.  
-  *Child mode:* Draw your diary table. Count your breaths when you wake up. Count again before bed.
+  *Child mode:* Make your diary table in the notebook. Count your breaths when you wake up. Count again before bed.
 - **s2 (24 min)**  
   *Parent does:* Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths for one minute while they sleep. On day 4, count a pet or another person at home, with permission, if there is one.  
   *Parent says:* Do today's counts and write them in your diary table. Remember, sit the same way each time, and count for one whole minute.  
-  *Child mode:* Do today's counts. Write each one in your table. Count for one whole minute.
+  *Child mode:* Day 2: count after running about. Day 3: count after climbing stairs. Day 4: count a pet or another person. Write each count in your table.
   - Note: Sleeping breaths are usually slowest. A cat or dog at rest often breathes 20 to 30 times a minute. Small animals breathe faster than big ones.
   - Wait: Do the next count tomorrow.
 - **s3 (16 min)**  
   *Parent does:* Day 5. 1. Draw a line chart with the times along the bottom and breaths up the side. 2. Write a claim, evidence and reasoning.  
-  *Parent says:* Let's draw a line chart. Each dot is one count. When was the line highest? When was it lowest? Why?  
-  *Child mode:* Draw a dot for each count. Join the dots. When was the line highest? Why?
+  *Parent says:* Let's make a line chart. Each dot is one count, and the line joins the dots.  
+  *Child mode:* Draw a dot for each count and join the dots. Or read your table and say when you breathed fastest, and why.
 
 ## Challenges
 ### c1 · Design a River-Bottom Hunter (30 min)
 - **problem:** Invent a new animal who lives at the bottom of a deep, muddy river, like the Ganga. The water is so brown that it is dark even at noon, and in summer it has very little oxygen. Design your animal so that they can breathe and find food there.
-- **your turn:** Now design your own river-bottom hunter. Give them a name. Draw them, label them, and explain to your family how they breathe and how they find food.
-- **constraints:** Your animal must get enough oxygen, even in summer.; Your animal must find food in water too muddy to see through.; Draw your animal, label every special part, and say what they eat and how.
+- **your turn:** Now design your own river-bottom hunter. Give them a name. Draw them or model them from clay, label them, and explain to your family how they breathe and how they find food.
+- **constraints:** Your animal must get enough oxygen, even in summer.; Your animal must find food in water too muddy to see through.; Draw or model your animal, label every special part, and say what they eat and how.
 - **general:** Give them lungs and let them come up to breathe, like the Ganges river dolphin.; Give them gills plus a way to gulp air, like the climbing perch and magur catfish.; Give them whiskers that feel and taste, like a catfish, or echolocation clicks like a dolphin.
 - **creative:** The Ganges river dolphin is nearly blind. They swim on their side, sweeping their long beak through the mud, and find fish with clicks.; Some fish make weak electricity around their bodies and feel when something disturbs it. Could your animal do that?; Could your animal carry an air bubble with them, like the water spiders that live in silk bubbles underwater?
 - **s1 (8 min)**  
@@ -548,25 +549,25 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: How could they get more oxygen? (good: Come up and breathe air.; Have extra big gills.; Gulp air like the climbing perch.)
   - Ask: How could they find food in the dark? (good: Smell or taste the water.; Use whiskers.; Use clicks and echoes.)
 - **s2 (15 min)**  
-  *Parent does:* Your child draws the animal and labels each special part.  
-  *Parent says:* Draw your animal. Label every part that helps them breathe or find food. Then give them a name.  
-  *Child mode:* Draw your animal. Label their breathing parts. Label their food-finding parts. Give them a name.
+  *Parent does:* Your child draws the animal, or makes a clay model, and labels each special part.  
+  *Parent says:* Draw your animal, or make a clay model. Label every part that helps them breathe or find food. Then give them a name.  
+  *Child mode:* Make your animal. Label their breathing parts and their food-finding parts. Give them a name.
 - **s3 (7 min)**  
   *Parent does:* Your child explains the design to someone in the family.  
   *Parent says:* Tell someone at home or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?  
-  *Child mode:* Show your drawing to someone. Explain how they breathe and find food.
+  *Child mode:* Show your animal to someone. Explain how they breathe and find food.
   - Think: Real Ganges river dolphins are in danger. The river water is getting dirtier, and dams block the places where they swim and hunt. Thinking about what they need, how could people help them?
 ### c2 · Build a Filter-Feeder's Sieve (30 min)
 - **problem:** Flamingos and whale sharks sieve tiny bits of food out of the water flowing past them. A good sieve must catch the food and still let the water through quickly. Build a filter that catches the used tea leaves from one jug of water, and lets the water through as fast as possible.
 - **safety:** Only a grown-up cuts the bottle. Cover the cut edge with tape so it isn't sharp.
-- **your turn:** Now invent your own filter. Draw it, test it, and time it. Can you beat your best design?
+- **your turn:** Now invent your own filter. Build it, test it, and time it. Can you beat your best design?
 - **constraints:** Use one jug of water with one spoon of used tea leaves stirred in.; Pour it through your filter into a bowl in one steady pour.; Time how long the water takes to pass through, and look in the bowl for leaves that got through.
 - **general:** A tea strainer lets water through fast, but it may let the finest bits of leaf through.; A cloth catches every bit, but water flows through it slowly.; Two filters, a coarse one first and a fine one second, can catch more without clogging.
 - **creative:** Fold the cloth into pleats, so there is more cloth for the water to pass through in the same funnel.; A fish's gills are also folded into many thin threads, so that a lot of water touches a lot of surface. Can your filter give the water more surface?; Flamingos pump water through their beaks with their tongues. Can you help the water through without pushing the leaves through too?
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the top off a plastic bottle to make a funnel. 2. Stir one spoon of used tea leaves into a jug of water. 3. Try the tea strainer first, as the filter to beat.  
-  *Parent says:* Let's start with the tea strainer. Pour slowly. How long did the water take? Did any bits of leaf get into the bowl?  
-  *Child mode:* A grown-up makes a funnel. Pour the tea water through a tea strainer. Time it. Did leaves get through?
+  *Parent says:* Let's start with the tea strainer. Pour slowly, and I will time how long the water takes.  
+  *Child mode:* A grown-up makes a funnel. Pour the tea water through a tea strainer. Look in the bowl. Did any leaves get through?
 - **s2 (16 min)**  
   *Parent does:* Your child designs, builds and tests two or three filters, timing each pour and checking the bowl for leaves.  
   *Parent says:* Now design your own. A cloth catches everything, but it is slow. How could you make water go through a cloth faster?  

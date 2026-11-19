@@ -855,8 +855,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Take out the Earthworm card. Play it together as a practice round: put it on a mat, turn it over to check, and do not score it. Then shuffle it back into the pile.",
-     "say": "Let's practise with one card: the earthworm. Does an earthworm have a backbone?",
-     "kid": "This is a practice card: the earthworm. Do they have a backbone or not? Say your answer.",
+     "say": "Let's practise with one card: the earthworm. Which mat do you think they go on?",
+     "kid": "This is a practice card: the earthworm. Think about what you know about worms. Then pick a mat.",
      "check": {
       "t": "mcq",
       "q": "Which mat does an earthworm go on?",
@@ -872,12 +872,12 @@
      "id": "s3",
      "mins": 10,
      "do": "Take turns. Take the top card, read the name and put it on a mat. Say why, then turn the card over to check. Help with the six trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.",
-     "say": "Watch out for tricky ones. A name can fool you. A starfish is not a fish. A seahorse is a fish. Look at the animal, not just their name.",
+     "say": "Watch out for tricky ones. A name can fool you. Look at the animal, not just their name.",
      "kid": "Take a card. Put it on a mat. Say why. Watch out: some names are tricks!",
      "parent": "The trick cards say TRICK CARD on the back. Starfish, jellyfish, cuttlefish and silverfish are not fish, and have no backbone. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though they have no legs.",
      "check": {
       "t": "mcq",
-      "q": "You pick up the seahorse card. Which mat does the seahorse go on?",
+      "q": "Which mat does a seahorse go on?",
       "options": [
        "BACKBONE",
        "NO BACKBONE"
@@ -892,15 +892,15 @@
      "do": "When all the cards are placed, count the cards on each mat and write the two numbers on the tally sheet.",
      "say": "Let's count. How many cards on the backbone mat? How many on the no backbone mat?",
      "kid": "Count the cards on each mat. Write the two numbers down.",
-     "think": "Our card game has more backbone animals than real life. In the real world, out of every 100 kinds of animal, about 95 have no backbone. Why do you think the game has so many backbone animals?",
-     "parent": "With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has more backbone animals than real life, because people know them better. That is worth talking about."
+     "think": "In real life, about 95 of every 100 kinds of animal have no backbone. In our game, 9 of the 30 cards have one. Why do you think the game has so many backbone animals?",
+     "parent": "With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has a bigger share of backbone animals than real life, because people know them better. That is worth talking about."
     },
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to say three things: what I think, what I saw, and why.",
+     "do": "Ask your child to tell you three things: what they think now, what they saw, and why.",
      "say": "Tell me three things. What do you think now? What did the cards show? And why do you think so many animals have no backbone?",
-     "kid": "Say three things: what you think now, what the cards showed, and why so many animals have no backbone.",
+     "kid": "Say three things. What do you think now? What did the cards show? Why do so many animals have no backbone?",
      "parent": "A good answer sounds like this. What I think: most animals have no backbone. What I saw: 21 of our 30 cards had no backbone. Why: lots of small animals hold themselves up with shells, armour or water instead of bones."
     }
    ]
@@ -1052,8 +1052,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Answer your child's questions truthfully about the house spider. Turn over the cards each answer rules out.",
-     "say": "Good question. Let's turn over every card that does not fit.",
-     "kid": "Ask a question. Turn over the cards that do not fit.",
+     "say": "I will answer yes or no. After each answer, turn over every card that cannot be my animal.",
+     "kid": "Ask a yes or no question about the body. Turn over the cards that cannot be the animal.",
      "ask": [
       {
        "q": "Which question rules out the most cards at once?",
@@ -1065,7 +1065,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "The secret animal lives on land and has more than 6 legs. They have no feelers and 2 body parts, and no tail with a sting. What animal is this?",
+      "q": "A secret animal lives on land. They have more than 6 legs, no feelers and 2 body parts. They have no tail with a sting. Which animal is it?",
       "options": [
        "An ant",
        "A house spider",
@@ -1088,14 +1088,14 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about which questions were the best.",
-     "say": "Which questions worked best? Why do you think scientists sort minibeasts by counting legs, and not by colour?",
-     "kid": "Which question was best? Why do legs help more than colour?",
+     "say": "Which question worked best in our game? Now think about legs and about colour. Which one helps more?",
+     "kid": "Think back. Which question found the animal fastest?",
      "check": {
       "t": "mcq",
       "q": "Why do scientists count legs to sort small animals, and not use colour?",
       "options": [
        "Colour is too hard to see",
-       "The number of legs stays the same in every animal of a group, but colour can change",
+       "Legs stay the same in a group, but colour can change",
        "Legs are more beautiful",
        "Small animals have no colour"
       ],
@@ -1791,7 +1791,7 @@
      "what": "Put a board on pairs of bottles and pile books on top. Measure how far each pair sinks. Then sit on the board over the capped pairs, and squeeze each capped bottle by hand. Squeeze an open bottle of water and watch the water rise. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw one bar for each pair of bottles under the books. A shorter bar means the bottles kept their shape better. Write what happened in the sitting test and the hand squeeze.",
+   "record": "Fill in the table. Then make one bar for each pair of bottles under the books, drawn or cut from paper. A shorter bar means the bottles kept their shape better. Write what happened in the sitting test and the hand squeeze.",
    "context": "This is the Water Bones experiment. You press down on pairs of plastic bottles: open and empty, capped with air, and capped with water. It shows how an earthworm stays firm with no bones, and why they are full of liquid, not air.",
    "setup": [
     {
@@ -1812,7 +1812,7 @@
     },
     {
      "art": "Two hands squeezing a capped empty bottle, which dents in the middle, next to two hands squeezing a capped bottle full of water, which stays round.",
-     "caption": "5. Squeeze each capped bottle hard. Which one gives?"
+     "caption": "5. Squeeze each capped bottle hard. Which one squashes in?"
     },
     {
      "art": "An open bottle of water held over a sink, two hands squeezing its middle, the water rising up the neck above a pen mark.",
@@ -1847,7 +1847,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Fill two bottles with water right to the top, so almost no air is left. Screw the caps on tight. 2. Screw the caps onto two empty bottles. 3. Leave the last two bottles empty, with no caps.",
+     "do": "1. Fill two bottles with water right to the top, so almost no air is left. Screw the caps on tight. 2. Screw the caps onto two empty bottles, so they stay full of air. 3. Leave the last two bottles empty, with no caps.",
      "say": "An earthworm has no bones, yet they feel firm in your hand. Today we will find out how. Our bottles are pretend worms.",
      "kid": "Fill two bottles to the top with water. Put the caps on tight. Put caps on two empty bottles. Leave two open.",
      "parent": "Thin bottles from packaged drinking water work best, because they squash easily. Fill the water bottles over a sink, right to the brim.",
@@ -1858,7 +1858,7 @@
      "mins": 3,
      "do": "Show your child the three pairs. Ask for a guess and a reason, and write the guess down.",
      "say": "We will put books on each pair, and then you will sit on the board. Which pair do you think will sink the least? Why do you think so?",
-     "kid": "Which pair will sink the least under the books, and under you? Guess. Say why.",
+     "kid": "Guess which pair will sink the least under the books, and under you.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1934,9 +1934,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Hold the capped air bottle in both hands and squeeze its middle as hard as you can. 2. Squeeze the capped water bottle in the same way. 3. Ask which one gives.",
-     "say": "Squeeze the air bottle as hard as you can. Now squeeze the water bottle the same way. Which one gives?",
-     "kid": "Squeeze the capped air bottle hard. Then squeeze the capped water bottle. Which one gives?",
+     "do": "1. Hold the capped air bottle in both hands and squeeze its middle as hard as you can. 2. Squeeze the capped water bottle in the same way. 3. Ask which one squashes in.",
+     "say": "Squeeze the air bottle as hard as you can. Now squeeze the water bottle the same way. Which one squashes in?",
+     "kid": "Squeeze the capped air bottle hard. Then squeeze the capped water bottle the same way. Feel which one squashes in.",
      "check": {
       "t": "mcq",
       "q": "You squeeze a capped bottle of air and a capped bottle of water as hard as you can. What happens?",
@@ -1955,7 +1955,7 @@
      "mins": 3,
      "do": "1. Over the sink, open one water bottle and pour out a little, so the water sits in the neck. 2. Mark the water level with a pen. 3. Squeeze the middle of the bottle with both hands, and watch the water.",
      "say": "Now the cap is off. Squeeze the middle and watch the water in the neck. Where does it go?",
-     "kid": "Open a water bottle over the sink. Mark the water. Squeeze the middle. Where does the water go?",
+     "kid": "Open a water bottle over the sink. Pour out a little, and mark the water with a pen. Squeeze the middle and watch.",
      "check": {
       "t": "mcq",
       "q": "When you squeeze the middle of an open bottle of water, what happens?",
@@ -1972,9 +1972,9 @@
     {
      "id": "s7",
      "mins": 4,
-     "do": "Help your child draw a bar chart of the middle values from the books test, one bar for each pair of bottles.",
+     "do": "Help your child make a bar chart of the middle values from the books test, one bar for each pair of bottles. They can draw the bars, or cut a paper strip as long as each number.",
      "say": "Let's turn our numbers into a picture. One bar for each pair. Here a shorter bar means the bottles kept their shape better.",
-     "kid": "Draw one bar for each pair. A shorter bar means it sank less.",
+     "kid": "Make one bar for each pair. Draw it, or cut a paper strip as long as the number. A shorter bar means it sank less.",
      "check": {
       "t": "mcq",
       "q": "In the made-up Water Bones chart, the open bottles have the tallest bar. What does that mean?",
@@ -2015,9 +2015,9 @@
     {
      "id": "s8",
      "mins": 3,
-     "do": "Ask your child to say or write three sentences: what I think, what I saw, and why.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw, and why.",
      "say": "Tell me three things. What do you think now about how a worm stays firm? What did you see? And why?",
-     "kid": "Say three things: what you think now about how a worm stays firm, what you saw, and why it happened.",
+     "kid": "Say three things. What do you think now about how a worm stays firm? What did you see? Why did it happen?",
      "parent": "A good answer: What I think: a worm stays firm because their liquid is held in tight, and liquid cannot be squeezed. What I saw: under the books, the open bottles sank 5 cm, but both capped pairs hardly sank. When I sat on the board, the air bottles went down about 1 cm, and the water bottles hardly moved. When I squeezed them, the air bottle gave and the water bottle did not. Why: air can be squeezed into less space, but water cannot. So water shut in tight holds its shape."
     }
    ],
@@ -2066,7 +2066,7 @@
      "what": "Make six round tubes, six square tubes and six zigzags from paper. Stand each set of three under a board and add books until it crumples. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw one bar for each shape, as tall as the number of books it held.",
+   "record": "Fill in the table. Then make one bar for each shape, as tall as the number of books it held. Draw it, or lay out books.",
    "context": "This is the Armour Tubes experiment. You make paper columns in three shapes and see which holds up the most books. It shows why the legs of insects, spiders and crabs are hollow tubes of armour.",
    "setup": [
     {
@@ -2120,7 +2120,7 @@
      "mins": 2,
      "do": "Ask your child to guess which shape will hold the most.",
      "say": "Which shape do you think will hold the most books before it crumples? Why?",
-     "kid": "Which shape will hold the most books? Guess, and say why.",
+     "kid": "Guess which shape will hold the most books.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -2167,9 +2167,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Help your child draw a bar chart, one bar for each shape.",
-     "say": "Let's draw one bar for each shape. A taller bar means a stronger shape.",
-     "kid": "Draw one bar for each shape. A taller bar means it held more.",
+     "do": "Help your child make a bar chart, one bar for each shape. They can draw the bars, or lay out as many books as each shape held, in a row.",
+     "say": "Let's make one bar for each shape. A taller bar means a stronger shape.",
+     "kid": "Make one bar for each shape. Draw it, or lay out the books it held. A taller bar means it held more.",
      "check": {
       "t": "mcq",
       "q": "In the made-up Armour Tubes chart, which shape is strongest?",
@@ -2210,9 +2210,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child to say three sentences: what I think, what I saw, and why.",
+     "do": "Ask your child to say three things: what they think now, what they saw, and why.",
      "say": "Tell me three things. What do you think now: why are an ant's legs hollow tubes of armour? What did you see in the test? And why did it happen?",
-     "kid": "Say three things: why you think an ant's legs are hollow tubes, what you saw, and why it happened.",
+     "kid": "Say three things. Why do you think an ant's legs are hollow tubes? What did you see? Why did it happen?",
      "parent": "A good answer might be: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.",
      "think": "Bicycle frames, bamboo and the bones in your legs are all tubes. Why do you think so many strong things are tubes?"
     }
@@ -2268,7 +2268,7 @@
      "what": "Hang a bag from 1, 2 and then 4 suckers on a tile. Add rice until the suckers pop off. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Draw one bar for each number of suckers.",
+   "record": "Fill in the table. Make one bar for each number of suckers, drawn or lined up with buttons.",
    "context": "This is the Many Small Suckers experiment. You hang a bag of rice from rubber suckers on a tile to see how many small grips add up. It shows how a starfish holds on with hundreds of tube feet.",
    "setup": [
     {
@@ -2360,9 +2360,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Help your child draw a bar chart, one bar for each number of suckers.",
-     "say": "Let's draw the bars. What happens to the bars as we add suckers?",
-     "kid": "Draw one bar for each number of suckers. Do the bars grow?",
+     "do": "Help your child make a bar chart, one bar for each number of suckers. They can draw the bars, or line up one button for each cup of rice held.",
+     "say": "Let's make the bars. What happens to the bars as we add suckers?",
+     "kid": "Make one bar for each number of suckers. Draw it, or line up buttons. Do the bars grow?",
      "check": {
       "t": "mcq",
       "q": "In the made-up Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish?",
@@ -2403,9 +2403,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child to say three sentences: what I think, what I saw, and why.",
+     "do": "Ask your child to say three things: what they think now, what they saw, and why.",
      "say": "Tell me three things. What do you think now about many small suckers? What did you see? And why?",
-     "kid": "Say three things: what you think now about many small suckers, what you saw, and why it happened.",
+     "kid": "Say three things. What do you think now about many small suckers? What did you see? Why did it happen?",
      "parent": "A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so they hold on very tightly."
     }
    ],
@@ -2441,7 +2441,7 @@
      "what": "Feel your backbone. Look for animals in the kitchen, the bathroom, at a window and on the balcony or staircase. Tally each kind with and without a backbone. Draw two bars."
     }
    ],
-   "record": "Make two tally columns: BACKBONE and NO BACKBONE. Add a tally mark for each kind of animal you see. Then draw two bars.",
+   "record": "Make two tally columns: BACKBONE and NO BACKBONE. Add a tally mark for each kind of animal you see. Then make two bars, drawn or lined up with buttons.",
    "context": "This is a count of the animals in and around your home. You sort them into animals with a backbone and without one, to see which kind there are more of.",
    "setup": [
     {
@@ -2538,9 +2538,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Count the tally marks in each column. Then draw two bars side by side, one for each group.",
-     "say": "Let's count our marks. Now let's draw one bar for backbone animals, and one for animals without a backbone.",
-     "kid": "Count your marks. Draw two bars. Make each bar as tall as its number.",
+     "do": "Count the tally marks in each column. Then make two bars side by side, one for each group. They can draw the bars, or line up one button for each kind of animal.",
+     "say": "Let's count our marks. Now let's make one bar for backbone animals, and one for animals without a backbone.",
+     "kid": "Count your marks. Make two bars, as tall as the numbers. Draw them, or line up buttons.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: kinds of animal found in and around one flat",
@@ -2564,13 +2564,13 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three things. First, what they think now. Second, what they saw. Third, why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think there were more of one group?",
-     "kid": "Say or write three things: what you think now, what you saw, and why you think there were more of one group.",
+     "kid": "Say or write three things. What do you think now? What did you see? Why were there more of one group?",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: there are more kinds of animal without a backbone. What I saw: we found 9 kinds without a backbone and 4 with one. Why: small animals can live in tiny places, like a crack or a corner, and a home has lots of those. In a very clean flat the two bars may be close. That is a real result too. Talk about where small animals might be hiding that you could not see.",
      "check": {
       "t": "mcq",
-      "q": "In the census, you found 9 kinds of animal without a backbone and 4 kinds with one. What does this show?",
+      "q": "Imagine a census finds 9 kinds of animal without a backbone and 4 kinds with one. What does this show?",
       "options": [
        "Animals with a backbone do not live here",
        "In and around our home, there were more kinds of animal without a backbone",
@@ -2631,7 +2631,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Write this key on paper. 1: Do they have legs? No: worm or snail. Yes: go to 2. 2: Do they have exactly 6 legs? Yes: insect. No: go to 3. 3: Do they have exactly 8 legs? Yes: arachnid, like a spider. No: go to 4. 4: Do they have 10 legs? Yes: crab or prawn. No: go to 5. 5: Do they have lots of legs on a long ringed body? Yes: centipede or millipede.",
+     "do": "Write this key on paper. 1: Do they have legs? No: worm or snail. Yes: go to 2. 2: Do they have exactly 6 legs? Yes: insect. No: go to 3. 3: Do they have exactly 8 legs? Yes: spider group. No: go to 4. 4: Do they have 10 legs? Yes: crab or prawn. No: go to 5. 5: Do they have lots of legs on a long ringed body? Yes: centipede or millipede.",
      "say": "This is a key. It is a list of yes or no questions. Each answer sends you to the next question, until you reach the animal's group.",
      "kid": "This is a key. Answer each question yes or no. Follow the numbers to the animal's group.",
      "context": "This is the first step of the Leg Count Key. You use yes or no questions about legs to find the group a small animal belongs to."
@@ -2678,8 +2678,8 @@
      "mins": 3,
      "do": "Ask your child to add one new question to the key, so the woodlouse has a place.",
      "say": "Can you add one question that would find the woodlouse? Scientists improve their keys like this all the time.",
-     "kid": "Add one new question to the key. Make it find the woodlouse.",
-     "parent": "Any question that works is good. For example: 'Do they have 14 legs and roll into a ball?' or 'Do they have a short body and more than 10 legs?' For the last question, the key would call a starfish a worm or a snail, because they have no legs. A good new question is 'Do they have five arms around a middle?'",
+     "kid": "Think of one new yes or no question that fits the woodlouse. Add it to the key.",
+     "parent": "Any question that works is good. For example: 'Do they have 14 legs and roll into a ball?' or 'Do they have a short body and more than 10 legs?' For the starfish question, the key would call a starfish a worm or a snail, because they have no legs. A good new question is 'Do they have five arms around a middle?'",
      "think": "Would your key work for an animal from the sea, like a starfish? What question would you add for them?"
     }
    ],
@@ -2717,7 +2717,7 @@
      "what": "When you have found a snail: put them on clear plastic or glass. Watch the waves under their foot. Draw what you see. Put them back."
     }
    ],
-   "record": "Draw the snail's foot from underneath, with the waves. Write how many waves you counted at one time.",
+   "record": "Write how many waves you counted at one time. You can also draw the snail's foot from underneath.",
    "context": "In this activity you watch a garden snail from underneath, through clear glass or plastic. You see the waves of muscle that move their one big foot.",
    "setup": [
     {
@@ -2747,7 +2747,7 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Put the snail on the wet plastic. Rest the plastic on two stacks of books, so you can look up at it from underneath. Wait until the snail comes out and starts moving.",
+     "do": "Rest the wet plastic across two stacks of books, so you can look up at it from underneath. Put the snail on top. Wait until the snail comes out and starts moving.",
      "say": "We have to be patient. A snail comes out when they feel safe.",
      "kid": "Put the snail on the wet plastic. Wait quietly until they come out and move.",
      "parent": "If they stay inside their shell, put one drop of water on them and wait a few minutes in the shade."
@@ -2756,8 +2756,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Look up from underneath. Watch the dark stripes moving along the foot. Count how many stripes you can see at one time.",
-     "say": "Look at the dark stripes moving along their foot. Each stripe is a wave of muscle squeezing. The snail rides on these waves and on their slime.",
-     "kid": "Look from underneath. See the dark stripes moving? Count them. Each one is a squeeze of muscle.",
+     "say": "Look at the dark stripes moving along their foot. How many can you see at one time?",
+     "kid": "Look from underneath. See the dark stripes moving? Count how many you can see at one time.",
      "check": {
       "t": "mcq",
       "q": "What moves a snail forward?",
@@ -2782,9 +2782,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child to draw the foot from underneath and say three things: what I think, what I saw and why.",
-     "say": "Draw what you saw. Then tell me: what do you think moves a snail? What did you see? Why does that make sense?",
-     "kid": "Draw the foot from underneath. Then say three things: what you think moves a snail, what you saw, and why that makes sense.",
+     "do": "Ask your child to show with a hand how the stripes moved, or draw the foot from underneath. Then ask for three things: what they think moves a snail, what they saw and why.",
+     "say": "Show me with your hand how the stripes moved, or draw them. Then tell me: what do you think moves a snail? What did you see? Why does that make sense?",
+     "kid": "Show with your hand how the stripes moved, or draw the foot. Then say three things. What do you think moves a snail? What did you see? Why?",
      "parent": "A good answer: What I think: a snail moves by squeezing their foot. What I saw: dark stripes moved along the foot from back to front. Why: each stripe is a squeeze, and the squeezes push the snail along on their slime."
     }
    ]
@@ -2823,7 +2823,7 @@
      "what": "Make a plastic bag jellyfish. Watch it float in water, then lift it out and watch it flop."
     }
    ],
-   "record": "Draw your jellyfish in the bottle and out of the bottle. Write why it changes shape.",
+   "record": "Take a photo of your jellyfish in the bottle and out of the bottle, or draw it. Write why it changes shape.",
    "context": "In this activity you make a model jellyfish from a plastic bag. You see how a body with no bones keeps its shape in water, and flops out of water.",
    "setup": [
     {
@@ -2844,7 +2844,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Lay a thin plastic bag flat. 2. Pinch the middle of the closed end to make a small air bubble. Make it the size of a large marble, so it fits through the bottle neck. 3. Tie it off with thread. 4. A grown-up cuts the rest of the bag into 8 long, thin strips.",
-     "say": "A jellyfish has no bones and no heart, and a net of nerves instead of a brain. About 95 parts in every 100 of their body are water. Let's make one and see how it stays in shape.",
+     "say": "A jellyfish has no bones. About 95 parts in every 100 of their body are water. Let's make one and see how it stays in shape.",
      "kid": "Pinch a small bubble at the top of a plastic bag. Make it the size of a large marble. Tie it. A grown-up cuts the rest into thin strips. These are tentacles.",
      "adult": true,
      "context": "This is the first step of Jellyfish in a Bottle. You make a model jellyfish from a plastic bag."
@@ -2853,7 +2853,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Fill the bottle almost to the top with water. Push the jellyfish in, add water to the very top and close the lid. Turn the bottle slowly.",
-     "say": "Watch the tentacles spread out. The water holds them up, the way the sea holds up a real jellyfish.",
+     "say": "Turn the bottle slowly and watch the tentacles. What do they do?",
      "kid": "Put the jellyfish in the bottle of water. Close the lid. Turn the bottle slowly. Watch it float.",
      "ask": [
       {
@@ -2887,9 +2887,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child to draw the jellyfish in the water and out of it. Then ask for three things: what I think, what I saw and why.",
-     "say": "Draw both pictures. Then tell me what you think, what you saw, and why.",
-     "kid": "Draw it in the water and out of it. Say what you think, what you saw and why.",
+     "do": "Ask your child to take a photo of the jellyfish in the water and out of it, or draw them. Then ask for three things: what they think now, what they saw and why.",
+     "say": "Take a photo of each, in the water and out of it. Then tell me what you think, what you saw, and why.",
+     "kid": "Take a photo of it in the water and out of it. Or draw it. Say what you think, what you saw and why.",
      "parent": "A good answer: What I think: jellyfish need water to hold their shape. What I saw: in the bottle the strips spread out, but in the air they stuck together in a clump. Why: the jellyfish has no skeleton, and the water was holding it up. For the last question, a good answer is about the stinging cells in the tentacles. They can still fire, even when the jellyfish looks dead or flat.",
      "think": "Why might a real jellyfish washed up on a beach still sting you, even if they look like a flat blob?"
     }
@@ -2922,8 +2922,8 @@
      "what": "Wear a paper armour tube on your arm, grow inside it, split it and climb out."
     }
    ],
-   "record": "Draw the three stages: armour on, armour split, new armour.",
-   "context": "This is an act-it-out activity. You wear a paper tube on your arm like a crab's armour, then 'grow' until it splits, to feel why armoured animals must moult.",
+   "record": "Show the three stages with your tubes, or take a photo of each: armour on, armour split, new armour.",
+   "context": "This is an act-it-out activity. You wear a paper tube on your arm like a crab's armour, then 'grow' until it splits, to feel why armoured animals must moult. To moult means to split the old armour and climb out, so a new one can grow.",
    "setup": [
     {
      "art": "A paper tube taped around a child's forearm like a sleeve of armour.",
@@ -2952,7 +2952,7 @@
      "mins": 3,
      "do": "Now your child 'grows'. Slowly push a folded towel or socks inside the tube, next to the arm.",
      "say": "You are growing. Your body gets bigger. But the armour cannot stretch. What happens?",
-     "kid": "Now you grow. A towel goes inside the tube. Feel it get tight.",
+     "kid": "Now you grow. A grown-up slides a towel inside the tube, next to your arm.",
      "ask": [
       {
        "q": "How does it feel when you grow inside the armour?",
@@ -2969,7 +2969,7 @@
      "mins": 3,
      "do": "Let the tube split along the tape. If it does not split, tear it along the tape. Your child slides out. Make a new, bigger tube from fresh paper, but leave it untaped for one minute, as 'soft armour'.",
      "say": "The old armour splits and you climb out. For a while your new armour is soft. A real crab hides at this time, because they are easy to eat.",
-     "kid": "Split the tube. Climb out. Your new armour is soft for a while. Hide!",
+     "kid": "The old tube splits. Slide your arm out. Your new armour is soft for a while. Hide!",
      "check": {
       "t": "mcq",
       "q": "Why does a crab hide after they moult?",
@@ -2986,9 +2986,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask your child to draw the three stages and say why growing is a problem for an animal with armour.",
-     "say": "Draw the three pictures. Why can't armour just grow with the animal, like your bones grow with you?",
-     "kid": "Draw armour on, armour split and new armour. Why can't armour stretch?",
+     "do": "Ask your child to show the three stages in order with the tubes: armour on, armour split, new armour. Then ask why growing is a problem for an animal with armour.",
+     "say": "Show me the three stages in order with your tubes. Then tell me: why can't armour just grow with the animal, like your bones grow with you?",
+     "kid": "Show the three stages with your tubes: armour on, armour split, new armour. Then say why armour cannot stretch.",
      "parent": "Bones are alive and grow from inside, with blood in them. An exoskeleton is a hard outer layer that cannot grow, so it must be replaced."
     }
    ],
@@ -3021,7 +3021,7 @@
      "what": "Find a web in a corner, on a window grill or on a balcony plant. Mist it gently. Look at how it is built and draw it."
     }
    ],
-   "record": "Draw the web. If it is round, write how many spokes it has. Write where the spider was waiting.",
+   "record": "Draw or photograph the web. If it is round, write how many spokes it has. Write where the spider was waiting.",
    "context": "In this activity you find a spider's web in or around your home. You mist it gently so the silk shows up, then look at how it is built and draw it.",
    "setup": [
     {
@@ -3066,9 +3066,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to draw the web and write how many spokes it had.",
-     "say": "Draw the web. A spider spins all of that from silk made inside their own body. Spider silk is one of the toughest threads known.",
-     "kid": "Draw the web. If it is round, write how many spokes it had.",
+     "do": "Ask your child to draw the web or take a photo of it, and say how many spokes it had.",
+     "say": "Draw the web, or take a photo of it. A spider spins all of that from silk made inside their own body. Spider silk is one of the toughest threads known.",
+     "kid": "Draw the web, or take a photo. If it is round, say how many spokes it had.",
      "parent": "Round-web spiders seen on Indian balconies and in gardens include the signature spider, which adds a zigzag band of silk to their web. In houses, the cellar spider makes loose webs in corners and hangs upside down in them. Most house and garden spiders are harmless to people, but they should never be handled. For the last question, spider silk is made of protein. The spider makes it in their body from the insects they eat. They push it out as a liquid that hardens into thread.",
      "think": "The spider made all this silk inside their own small body. What do you think the silk is made from?"
     }
@@ -3104,7 +3104,7 @@
      "what": "Draw and cut out a five-armed star. Find every fold line where the two halves match. Compare with your own body."
     }
    ],
-   "record": "Draw your star with all its fold lines. Draw yourself with your one fold line.",
+   "record": "Write how many fold lines your star has, and how many your own body has. Mark each fold line on your star with a pencil.",
    "context": "In this activity you cut out a five-armed star and find all the lines where it folds into matching halves. You compare a starfish's five matching parts with your own two matching sides.",
    "setup": [
     {
@@ -3136,7 +3136,7 @@
      "mins": 3,
      "do": "Fold the star in half along a line from the tip of one arm through the middle. Check whether the halves match. Open it and try the next arm.",
      "say": "Fold it through one arm and the middle. Do the two halves match? Now try through the next arm. How many fold lines work? And how many work for your body?",
-     "kid": "Fold your star through one arm and the middle. Do the halves match? Try every arm. Count the fold lines.",
+     "kid": "Fold your star through one arm and the middle. Do the halves match? Try every arm. Count the fold lines. Then think: how many does your own body have?",
      "check": {
       "t": "mcq",
       "q": "How is a starfish's body built differently from yours?",
@@ -3203,30 +3203,30 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Build the wormery in layers of soil and sand. Add leaves and peels. Add the worms. Wrap it in dark cloth. Draw the layers."
+     "what": "Build the wormery in layers of soil and sand. Add leaves and peels. Add the worms. Wrap it in dark cloth. Take a photo of the layers."
     },
     {
      "day": 3,
      "mins": 5,
-     "what": "Unwrap and look. Are the layers still sharp? Draw what you see. Mist the top if it is dry."
+     "what": "Unwrap and look. Are the layers still sharp? Take a photo from the same side. Mist the top if it is dry."
     },
     {
      "day": 7,
      "mins": 10,
-     "what": "Look again. Are any leaves pulled down? Are there tunnels against the glass? Draw it."
+     "what": "Look again. Are any leaves pulled down? Are there tunnels against the glass? Take a photo from the same side."
     },
     {
      "day": 10,
      "mins": 5,
-     "what": "Look and draw. Mist the soil if it is dry."
+     "what": "Look and take a photo from the same side. Mist the soil if it is dry."
     },
     {
      "day": 14,
      "mins": 15,
-     "what": "Draw the final layers. Compare all your drawings. Return the worms to the soil where you found them."
+     "what": "Take a last photo. Compare all your photos. Return the worms to the soil where you found them."
     }
    ],
-   "record": "On each day, draw the bottle and its layers in the same way. At the end, put your drawings in a row and write what the worms did.",
+   "record": "On each day, take a photo of the bottle from the same side. You can draw it instead. At the end, look at all of them in a row and write what the worms did.",
    "context": "In this 14-day project you make a see-through home for earthworms, with layers of soil and sand. You watch how the worms mix the layers and pull leaves underground.",
    "setup": [
     {
@@ -3264,9 +3264,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Draw the bottle with its stripes, carefully, on day 1.",
-     "say": "Let's draw it now, so we can compare. Draw every stripe exactly as it is.",
-     "kid": "Draw your bottle. Draw each stripe clearly. You will compare later.",
+     "do": "Take a photo of the bottle on day 1, with every stripe showing. Take each later photo from the same side.",
+     "say": "Let's take a photo now, so we can compare later. Hold the phone in the same place each time.",
+     "kid": "Take a photo of your bottle so every stripe shows. You can draw it instead. You will compare later.",
      "ask": [
       {
        "q": "What do you think the worms will do to the stripes?",
@@ -3281,9 +3281,9 @@
     {
      "id": "s4",
      "mins": 20,
-     "do": "On day 3, 7 and 10, unwrap the bottle, look closely, and draw it again. Mist the top if it is dry.",
+     "do": "On day 3, 7 and 10, unwrap the bottle, look closely, and take another photo from the same side. Mist the top if it is dry.",
      "say": "Look closely against the plastic. Can you see tunnels? Are the stripes still sharp? Are any leaves pulled down?",
-     "kid": "Unwrap the bottle. Look for tunnels and mixed stripes. Draw it. Mist it if it is dry.",
+     "kid": "Unwrap the bottle. Look for tunnels and mixed stripes. Take a photo. Mist it if it is dry.",
      "wait": "Come back on day 3, day 7 and day 10.",
      "check": {
       "t": "mcq",
@@ -3302,9 +3302,9 @@
     {
      "id": "s5",
      "mins": 15,
-     "do": "On day 14, draw the bottle one last time. Lay all the drawings in a row. Then return the worms to the soil where you found them.",
-     "say": "Put your drawings in a row, from day 1 to day 14. What changed? Tell me three things: what you think, what you saw, and why.",
-     "kid": "Put your drawings in a row. What changed? Say what you think, what you saw and why. Then put the worms back in the soil.",
+     "do": "On day 14, take one last photo. Look at all the photos in a row. Then return the worms to the soil where you found them.",
+     "say": "Look at your photos in a row, from day 1 to day 14. What changed? Tell me three things: what you think, what you saw, and why.",
+     "kid": "Look at your photos in a row. What changed? Say what you think, what you saw and why. Then put the worms back in the soil.",
      "adult": true,
      "parent": "A good answer: What I think: worms mix the soil. What I saw: on day 1 the stripes were sharp, and by day 14 they were blurred, with tunnels and leaves pulled down. Why: worms tunnel and eat soil and leaves, carrying them up and down. This lets air and water into the soil and feeds plants.",
      "wait": "Come back on day 14."
@@ -3342,7 +3342,7 @@
     "Snails solve the problem by adding new shell at the open edge. Could you add a new strip at the end of your armour each week?",
     "Real armadillos and pangolins have backbones, but they use overlapping plates or scales. Ask a grown-up to find a picture of a pangolin for ideas."
    ],
-   "your_turn": "Now design your own armour that can grow. Draw it, build it, and test it by slipping a folded cloth under it to 'grow' 2 cm. Does it still cover everything? Does the elbow still bend?",
+   "your_turn": "Now design your own armour that can grow. Plan it, build it, and test it by slipping a folded cloth under it to 'grow' 2 cm. Does it still cover everything? Does the elbow still bend?",
    "context": "This is a design challenge. Animals with armour must moult to grow. Your job is to invent armour that can grow without being thrown away.",
    "setup": [
     {
@@ -3370,9 +3370,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Ask your child to draw at least two ideas before building.",
-     "say": "Draw two ideas first. Engineers always draw before they build.",
-     "kid": "Draw two ideas for armour that can grow.",
+     "do": "Ask your child to show at least two ideas before building. They can draw them or tell them to you.",
+     "say": "Think of two ideas first. Engineers plan before they build.",
+     "kid": "Show two ideas for armour that can grow. Draw them, or tell your grown-up.",
      "ask": [
       {
        "q": "How will your armour get bigger?",
@@ -3452,7 +3452,7 @@
     "Robot makers build soft robots that move like worms and octopus arms. Some are pumped full of air or liquid and then sealed, like the capped bottles in the Water Bones experiment.",
     "Could your worm move along a tube or a hose, the way a worm moves through soil?"
    ],
-   "your_turn": "Now invent your own worm that moves in a new way. Draw it, build it, and measure how far it moves in 10 tries.",
+   "your_turn": "Now invent your own worm that moves in a new way. Plan it, build it, and measure how far it moves in 10 tries.",
    "context": "This is an engineering challenge. Earthworms crawl without legs by squeezing and stretching. Your job is to make a model worm that crawls 30 cm.",
    "setup": [
     {
@@ -3480,9 +3480,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Ask your child to draw two ideas before building.",
-     "say": "Draw two ideas. How will your worm move forward and not slide back?",
-     "kid": "Draw two ideas. How will your worm grip so the worm does not slide back?"
+     "do": "Ask your child to pick two ideas for how the worm will move, from the ideas below or their own. They can say them or sketch them.",
+     "say": "Pick two ideas. How will your worm move forward and not slide back?",
+     "kid": "Think of two ideas. Tell your grown-up how each worm would grip so it does not slide back."
     },
     {
      "id": "s3",
@@ -3506,9 +3506,9 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Try the straw-wrapper worm too. Then talk about which way worked best.",
+     "do": "Try the straw-wrapper worm too. Scrunch the paper cover of a straw down, put it on a plate and add one drop of water. Then talk about which way worked best.",
      "say": "Which worm went furthest? Which one moved most like a real worm? Why?",
-     "kid": "Which worm went furthest? Which one moved most like a real worm?",
+     "kid": "Try the straw-wrapper worm. Then compare your worms. Which went furthest?",
      "parent": "Any honest test is good. A worm that went 10 cm, with a clear reason why, is a great result."
     }
    ]

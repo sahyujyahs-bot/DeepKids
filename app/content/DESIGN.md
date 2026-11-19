@@ -29,7 +29,7 @@ Subjects: Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, Dee
 - **Mukta** (Ek Type): everything you read and tap. Clean, Latin and Devanagari.
 - **Kalam** (Indian Type Foundry): handwriting for notes in the margin: labels, parent tips, deep truths.
 
-**Shape** (the calm look the founder approved in November 2026, everywhere except inside a unit, see below; tokens `--r-card`, `--r-btn`, `--shadow`, `--track` in `:root`)
+**Shape** (the calm look the founder approved in November 2026, everywhere, units included; tokens `--r-card`, `--r-btn`, `--shadow`, `--track` in `:root`)
 - White cards with round corners (20px) and one very soft shadow on the paper; no borders or grey lines around them.
 - Buttons: the one main action is filled margin red; a second action is an ink outline; choices are round pills (chosen = ink).
 - Two choices side by side are a segmented switch: a soft track with the chosen one as a white tab.
@@ -42,18 +42,19 @@ Subjects: Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, Dee
 4. **Left aligned, generous line height**, lines under 70 characters.
 5. **Colour means something:** red is "do this now", turmeric is "today", peacock is "done and growing".
 
-## Inside a unit: the workbook page
-The rest of the app is calm paper. A unit is where the work happens, so it looks like a child's workbook: bolder, with more colour, and made by hand (redesigned November 2026; tokens `--mono`, `--grid`, `--edge`, `--pop` in `:root`, rules under "Inside a unit" in `styles.css`).
+## Inside a unit: the same calm page
+A unit looks like the rest of the app, not like another product (made November 2026, after the first "workbook" look felt like a different site; the founder chose to tone the units down to match the app). It uses the shared look above: the same tokens (`--r-card`, `--r-btn`, `--shadow`, `--track`), the same buttons, pills and type. Its rules sit under "Inside a unit" in `styles.css` and only add what is special to a unit.
 
 **The look**
-- **Grid paper.** The page is squared maths-copy paper (`--grid` lines on Paper), not plain white.
-- **Ink outlines with a hard shadow.** Parts, cards, tiles and the close button have a 2px ink edge (`--edge`), small corners (10 to 14px) and a flat offset shadow with no blur (`--pop`, or the part's own colour). Like stickers and cut-out cards; never a soft grey shadow.
-- **Flat colour blocks.** Three counting tiles under the title (sessions, parts, done) in turmeric, mint and leaf green. Every kind of part keeps its one colour (`FXKC` in `11-units.js`) on its tab, its icon square, its open heading and its card shadows.
-- **Typewriter labels.** Small labels, times and counts are in the phone's own monospace (`--mono`): "FORCES · CLASS 3", "Step 2 of 4 · 11 min". Titles stay Rozha One, reading text stays Mukta.
-- **Tara, the notebook star.** A small hand-drawn star with a third eye (`fxStar()`). She sits beside the counting tiles and cheers on the "Done" card. She is the only mascot inside a unit; IAm stays the guide you ask.
+- **Calm paper.** The page is plain Paper; no grid lines.
+- **White cards, one soft shadow.** Parts, cards, the "What you will learn" card, the count tiles, the lesson-plan panel and the close button are white with round corners (`--r-card`) and `--shadow`. No ink outlines, no hard offset shadows, no borders.
+- **The shared buttons.** One red button (Start or Continue); the second action is an ink outline; the green "Done" tick and "Next" are the one green used for "done and growing". The kinds of part are round pills (like the Library filters).
+- **Colour per kind of part, used softly.** Every kind keeps its one colour (`FXKC` in `11-units.js`) on its pill icon, the small rounded icon square of its row, its step number and its progress bar, the way the app uses subject colours. Done is a green tick square.
+- **Normal labels.** Small labels and counts are in Mukta, sentence case ("Step 2 of 4 · 11 min", "About this unit"). No monospace, no all-caps. Titles stay Rozha One, reading text Mukta.
+- **A little character stays.** The cover picture opens the unit as a rounded card, and Tara, the notebook star with a third eye (`fxStar()`), sits beside the counting tiles and cheers on the "Done" card. She is the only mascot inside a unit; IAm stays the guide you ask.
 
 **How it is laid out**
-- **One page for the whole unit.** Cover picture and title, one red button (Start or Continue), a row of divider tabs (one for each kind of part), then every part as a row, grouped by kind.
+- **One page for the whole unit.** Cover picture and title, one red button (Start or Continue), a row of round pills (one for each kind of part), then every part as a row, grouped by kind.
 - **A part opens in place.** Tapping a row unfolds it on the same page: its heading stays at the top with a thin bar showing how far through it we are, and its cards sit under it in one column. Nothing moves to another screen. The arrow in the heading, the back gesture or Escape folds it away again. The last card says "Done", shows the next part and has one green button to go on.
 - **Every card stands alone.** A slim strip on top holds its number and its own save (heart) and read-aloud buttons.
 - **Activities, experiments, games, projects and challenges** open with one card that says plainly what we are doing and why, then the question, what you need, safety and the how-it's-done pictures, each said once. Then each step is one numbered card with only that step on it (its own picture where there is one, the instruction, a question, a Done tick). The last card asks what you found. The title is only in the part's heading.

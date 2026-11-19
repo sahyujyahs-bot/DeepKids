@@ -253,15 +253,15 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **rules:** Cut out the 22 cards. Shuffle them and put them face down in a pile. Lay the two mats side by side.; On your turn, take the top card and read the front out loud. Do not turn it over.; Everyone says TRUE or TALL TALE. Then the reader puts the card on the mat they think is right.; Turn the card over and read the back. Everyone who said the right answer takes one evidence token.; If you can say how scientists could have found out, take one more token.; If you draw a TEST IT card, everyone does the test together. Everyone who joins in takes a token.; When the cards run out, the player with the most tokens wins. If two players tie, they share the win.
 - **Printable cards: 22 claim cards to cut out:** Crows can recognise one human face and remember it for years. (back: TRUE. Crows scolded a researcher's mask for years, even crows that were never caught.) [picture]; A goldfish forgets everything after three seconds. (back: TALL TALE. Goldfish learn to swim to a sound or a light for food, and remember it for weeks or months.) [picture]; Bumblebees roll little balls just for fun. (back: TRUE. Bumblebees rolled wooden balls again and again, with no food as a prize.) [picture]; Only humans make tools. (back: TALL TALE. Chimpanzees and crows make tools too.); Dogs can tell a happy human face from an angry one in photos. (back: TRUE. Dogs in Vienna learned to tell happy and angry faces, even of strangers.) [picture]; An elephant never forgets anything at all. (back: TALL TALE. Elephants have very good memories, but no animal remembers everything.) [picture]; Rats make a happy chirp when they are tickled. (back: TRUE. The chirp is so high that people hear it only with a special microphone.) [picture]; A crow bent a straight wire into a hook to get food. (back: TRUE. Betty, a New Caledonian crow, did this in 2002.) [picture]; Chimpanzees poke grass stems into termite mounds to fish for termites. (back: TRUE. Jane Goodall saw this in 1960.) [picture]; Pigeons learned to tell paintings by Monet from paintings by Picasso. (back: TRUE. They could even sort new paintings they had never seen.) [picture]; A horse called Hans really could do sums. (back: TALL TALE. Hans could not do sums. He read tiny changes in the faces of the people asking.) [picture]; Bigger brains always mean cleverer animals. (back: TALL TALE. Crows have small brains packed with neurons, and they make tools.); Octopuses have most of their neurons in their arms. (back: TRUE. About two thirds of an octopus's neurons are in their arms.) [picture]; Rooks drop stones into water to raise it and reach a floating worm. (back: TRUE. Rooks did this in a test in 2009.); Young crows learn who is dangerous by watching older crows. (back: TRUE. Young crows learned to scold a 'dangerous' mask from older crows.) [picture]; A dog that looks guilty always knows they did something wrong. (back: TALL TALE. In a test, dogs looked most 'guilty' when they were scolded, even if they had done nothing wrong.) [picture]; Jays remember what food they hid, where, and when. (back: TRUE. Scrub jays in a test remembered all three.) [picture]; Many street dogs in India follow a pointing finger, even untrained. (back: TRUE. Scientists in Kolkata found this in careful tests.); TEST IT: hide a coin under one of three cups while another player looks away. Can they find it by watching your face? (back: No answer to look up. Do the test together, then talk about what happened.); TEST IT: point at something in the room without saying a word. Does everyone look where you point? (back: No answer to look up. Do the test together, then talk about what happened.); TEST IT: everyone shut your eyes and point to where the door is. Then open them. Whose memory was right? (back: No answer to look up. Do the test together, then talk about what happened.); TEST IT: make a happy face, then an angry face, at the nearest person. Can they name each feeling without words? (back: No answer to look up. Do the test together, then talk about what happened.)
 - **Printable board: Two playing mats (write the words big on two sheets of paper):** TRUE: scientists have tested it; TALL TALE: a test showed it is not true
-- **Printable tokens: Evidence tokens:** Cut about 40 small paper circles and draw a magnifying glass on each. If the tokens run out, keep score with tally marks.
+- **Printable tokens: Evidence tokens:** Cut about 40 small paper circles. Dried beans or coins work too. If the tokens run out, keep score with tally marks.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the TRUE and TALL TALE mats on the floor. 2. Shuffle the 22 cards and put them face down. 3. Put the tokens in a bowl. 4. Have three cups and a coin ready for the first TEST IT card.  
-  *Parent says:* Each card says something about an animal's mind. Some are true, and scientists have tested them. Some are tall tales that people believe, but tests showed they are wrong.  
-  *Child mode:* Put the two mats down: TRUE and TALL TALE. Mix up the cards. Put them face down. For each card, decide: true, or a tall tale?
+  *Parent says:* Each card says something about an animal's mind. Some are true, and scientists have tested them. Some are tall tales that people believe, but tests showed they are wrong. Evidence means what a test or careful watching showed.  
+  *Child mode:* Help lay out the two mats and the cards. Then you decide for each card: true, or a tall tale?
 - **s2 (3 min)**  
   *Parent does:* Take the card 'A goldfish forgets everything after three seconds'. Play it as a practice round, then put it back at the bottom of the pile.  
   *Parent says:* Let's practise with one card. 'A goldfish forgets everything after three seconds.' True, or tall tale?  
-  *Child mode:* Practice card: a goldfish forgets everything after three seconds. True or tall tale? Say your answer.
+  *Child mode:* Listen to the card. Say your answer, and why you think so.
   - Ask: How could you test a goldfish's memory? (good: Feed them in one corner every day and see if they swim there.; Teach them a signal and check days later.)
   - Check: A goldfish forgets everything after three seconds. True or tall tale? → **Tall tale**
 - **s3 (10 min)**  
@@ -279,7 +279,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s5 (2 min)**  
   *Parent does:* Count the tokens. Then ask your child for one claim, one piece of evidence and one reason.  
   *Parent says:* Pick one true card. What does it show? What is the evidence? Why does that evidence make it true?  
-  *Child mode:* Count your tokens! Then pick one true card. Say what it shows, and how we know.
+  *Child mode:* Count your tokens. Then pick one true card and tell it to your grown-up.
   - Note: A good answer sounds like this. What I think: crows remember faces. Evidence: crows scolded the mask for years. Why: they must have kept the face in memory.
 ### g2 · Read My Face (15 min)
 - **rules:** Shuffle the 16 feeling cards and put them face down. Keep score on a sheet of paper with tally marks.; The face-maker takes a card and does not show it. They show the feeling with face and body only. No sounds, no words.; The others guess. The first right guess wins a point. The face-maker also wins a point.; Round one is face and body. In round two, the face-maker may only use their face, with hands behind their back. In round three, they may only use their body, with their face turned away.; In each round, every player is the face-maker once. With two players, swap after every card.; After three rounds, the player with the most points wins. If there is a tie, share the win. Then talk about which round was easiest, and why.
@@ -291,7 +291,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s2 (8 min)**  
   *Parent does:* Play three rounds, with every player making one face in each round. Round one: face and body. Round two: face only. Round three: body only, face turned away.  
   *Parent says:* Round one, use your whole body. Round two, only your face. Round three, turn your face away and use only your body.  
-  *Child mode:* Round one: face and body. Round two: face only. Round three: body only. Which is hardest?
+  *Child mode:* Take turns showing feelings in each round. Guess as fast as you can.
   - Check: In Read My Face, which round is usually hardest to guess? → **Body only, with the face turned away**
 - **s3 (3 min)**  
   *Parent does:* Talk about the game. Then tell your child about dogs reading faces.  
@@ -311,17 +311,17 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **predict:** Before you start, guess. Which will need the fewest pieces to raise the water to the line? Which will need the most? Why do you think so?
 - **fair test:** To make it fair, change only what you drop in. Use the same glass, fill it to the same starting line, and use the same top line each time. Drop things in one at a time.
 - **safety:** Keep small stones and marbles away from children under 5.
-- **record:** Fill in the table. Then draw a bar chart with one bar for each thing you dropped in.
+- **record:** Fill in the table. Then draw a bar chart with one bar for each thing you dropped in, or tell your grown-up which took the fewest.
 - **results table:** What we dropped in | Guess: how many to reach the line? | How many it really took | Did it ever reach the line?
 - **s1 (3 min)**  
   *Parent does:* 1. Fill the glass with water until it is about 4 cm below the top. 2. Put a strip of tape at the water level. This is the starting line. 3. Put a second strip 2 cm higher, about two finger-widths. This is the top line. 4. Float the thermocol 'worm' on the water.  
-  *Parent says:* Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. A crow's beak can only reach as far as the top line.  
+  *Parent says:* Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. When the water brings the worm up to the top line, the crow can reach it.  
   *Child mode:* Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the piece of thermocol on the water. This is the 'worm'. Can you bring the worm up to the top line?
   - Note: Use a glass about 6 to 7 cm across. In a wider glass the water rises too slowly, and you will need many more stones. A steel tumbler works too, but a clear glass lets you see the water rise.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess how many of each thing they will need. Write the guesses in the table.  
-  *Parent says:* Which do you think will need the fewest: big stones, small stones or thermocol? Why do you think so? Let's write our guesses down first.  
-  *Child mode:* Guess first. How many big stones? How many small stones? How many bits of thermocol? Why?
+  *Parent says:* Which do you think will need the fewest: big stones, small stones or thermocol? Let's write our guesses down first.  
+  *Child mode:* Guess how many big stones, small stones and bits of thermocol it will take.
   - Ask: Why do you think that one will need the fewest? (good: Big stones take up more room.; Heavy things sink and push the water up.)
 - **s3 (8 min)**  
   *Parent does:* Drop in big stones one at a time, counting, until the worm reaches the top line. Write the number. Empty the glass, refill to the starting line, and do the same with small stones. Then do it with the thermocol pieces. Stop after 20 pieces of thermocol.  
@@ -332,7 +332,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s4 (5 min)**  
   *Parent does:* Help your child draw a bar chart of the numbers, with one bar for each thing.  
   *Parent says:* Let's turn our numbers into a picture. A short bar means it only took a few. The thermocol never got there, so we stop its bar at 20 and write 'never reached'. Which bar is shortest?  
-  *Child mode:* Draw one bar for each thing. A short bar means it took only a few. Which bar is shortest?
+  *Child mode:* Draw one bar for each thing, or just say which took the fewest. A short bar means it took only a few.
 - **s5 (3 min)**  
   *Parent does:* Tell your child what real rooks and crows did in this test.  
   *Parent says:* In 2009, Christopher Bird and Nathan Emery gave rooks a tube like this. The rooks dropped in stones to reach a floating worm. They chose the big stones first. Later, New Caledonian crows passed similar tests. They chose sinking things over floating ones, just as you found out.  
@@ -350,7 +350,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **predict:** Guess how many times out of 10 you will find the coin when your helper knows where it is. Then guess how many when your helper does not know. Why do you think so?
 - **fair test:** Keep everything the same except one thing: whether your helper knows where the coin is. Use the same 3 cups, the same coin and 10 tries each round. Your helper must not speak or point.
 - **safety:** Keep the coin away from children under 5.
-- **record:** Fill in the table. Draw two bars: one for 'helper knows' and one for 'helper does not know'.
+- **record:** Fill in the table. Draw two bars, one for 'helper knows' and one for 'helper does not know', or say which score was higher.
 - **results table:** Round | Does the helper know where the coin is? | Right guesses out of 10
 - **s1 (3 min)**  
   *Parent does:* 1. Put 3 cups upside down in a row. 2. The guesser shuts their eyes. 3. The helper puts the coin under one cup, then sits facing the guesser with hands in lap, saying nothing.  
@@ -370,7 +370,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s4 (2 min)**  
   *Parent does:* Draw two bars, one for each round. Compare them with your guesses.  
   *Parent says:* Let's draw our two scores as bars. Was there a difference? Was it big?  
-  *Child mode:* Draw two bars. One for 'helper knows'. One for 'blind'. Which is taller?
+  *Child mode:* Draw two bars, or just say which score is higher. One is 'helper knows'. One is 'blind'.
   - Note: If you skipped the blind round, draw the second bar at 3, the score luck gives with 3 cups, and compare your first round with it.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why.  
@@ -382,7 +382,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **predict:** Guess how many times out of 10 the dog will pick the right bowl with pointing. Then guess without pointing. Why do you think so?
 - **fair test:** Change only one thing: pointing or no pointing. Use the same two bowls, the same spot and the same treat. Rub the treat on both bowls so the dog cannot just smell which bowl has the treat.
 - **safety:** Only use a pet dog, or a dog whose owner is there and says they are calm. Never test an unknown street dog. A grown-up holds the dog's collar between tries. Wash hands afterwards.
-- **record:** Fill in the table. Draw two bars: one for 'pointing' and one for 'no pointing'.
+- **record:** Fill in the table. Draw two bars, one for 'pointing' and one for 'no pointing', or say which score was higher.
 - **results table:** Round | Pointing or no pointing? | Right choices out of 10
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put the two bowls upside down on the floor, about two big steps apart. 2. Rub a treat on both bowls. 3. The owner holds the dog's collar, a few steps back, and turns them away while you hide a treat under one bowl.  
@@ -401,7 +401,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s4 (5 min)**  
   *Parent does:* Draw two bars. Then talk about what scientists found.  
   *Parent says:* Brian Hare and his team found that most pet dogs follow pointing. In India, Anindita Bhadra's team at IISER Kolkata found that many street dogs follow pointing too, even though nobody trained them. What did our dog do?  
-  *Child mode:* Draw two bars: pointing and no pointing. Most dogs follow pointing. Did yours? Say what you think, what you saw and why.
+  *Child mode:* Draw two bars, pointing and no pointing, or just say which score was higher. Most dogs follow pointing. Did yours?
   - Note: A good answer sounds like this. What I think: our dog reads pointing. What I saw: 8 right with pointing, 5 without. Why: dogs watch where people look and point, because they live so closely with us. If your dog did not follow pointing, that is a real result too. Some dogs do and some don't.
 
 ## Activities
@@ -409,9 +409,9 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **safety:** Watch from a distance. Never go close to street dogs, monkeys or cows.
 - **record:** Put a tally mark for each play sign you see. Circle the one you saw most.
 - **s1 (3 min)**  
-  *Parent does:* Draw the five play signs with your child: play bow, chasing, jumping and twisting, tossing a stick, gentle wrestling.  
-  *Parent says:* Play has signs. A play bow means 'let's play'. Chasing, jumping just for fun, tossing a stick and gentle wrestling are signs too. Let's draw them.  
-  *Child mode:* Draw five play signs. A play bow. Chasing. Jumping for fun. Tossing a stick. Gentle wrestling.
+  *Parent does:* List the five play signs on a sheet and act each one out with your child: play bow, chasing, jumping and twisting, tossing a stick, gentle wrestling.  
+  *Parent says:* Play has signs. In a play bow, a dog stretches their front legs out with their bottom up. It means 'let's play'. Chasing, jumping just for fun, tossing a stick and gentle wrestling are signs too. Let's act them out.  
+  *Child mode:* Act out the five play signs with your grown-up. A play bow. Chasing. Jumping for fun. Tossing a stick. Gentle wrestling.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Watch animals for 10 minutes. Tally each sign you see.  
   *Parent says:* Let's sit very still. Every time you see a play sign, make a mark. Is it play, or is it a real fight? How can you tell?  
@@ -435,11 +435,11 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent does:* The next day, give your child 3 minutes to find them. Count the ones found.  
   *Parent says:* Ready? You have 3 minutes. How many can you find? A Clark's nutcracker hides many thousands of seeds, and finds a lot of them months later, even under snow.  
   *Child mode:* You have 3 minutes. Find the groundnuts! How many did you remember?
-  - Check: In Be a Jay, you had to find 8 groundnuts after one day. A Clark's nutcracker finds a lot of their many thousands of seeds months later. What does this show? → **Some birds have amazing memories for places**
+  - Check: A Clark's nutcracker finds many of their hidden seeds months later. What does this show? → **Some birds have amazing memories for places**
   - Wait: Do this the next day.
 - **s3 (3 min)**  
   *Parent does:* Talk about how your child remembered.  
-  *Parent says:* Which ones did you find first? How did you remember? Did you use the furniture as clues?  
+  *Parent says:* Which ones did you find first? How did you remember?  
   *Child mode:* How did you remember? Did you use landmarks, like the sofa or the door?
   - Note: A good answer is to hide different things, such as a groundnut, a sweet and a raisin. Then ask your child to find the sweet first. That way they must remember what is where, not only where something is.
   - Think: Scrub jays remember what they hid, where they hid it, and when. In this game you only had to remember where. How could you change the game so that you must remember what you hid as well?
@@ -448,7 +448,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **record:** Write how many claps it took each round.
 - **s1 (2 min)**  
   *Parent does:* Explain the game. The learner leaves the room while the trainer picks a secret action, like 'put the spoon on the chair'.  
-  *Parent says:* This is how dog and dolphin trainers teach. Karen Pryor, an American dolphin trainer, made this game famous in her book Don't Shoot the Dog in 1984. No words allowed, only claps.  
+  *Parent says:* Dog and dolphin trainers teach this way. They clap or click when the animal gets a little closer. In this game, no words are allowed, only claps.  
   *Child mode:* Go out of the room for a minute. We will choose a secret action. You must find it. The only clue is a clap.
 - **s2 (10 min)**  
   *Parent does:* The learner comes back and moves around. The trainer claps each time the learner gets a little closer to the action. No words, no pointing. Count the claps. Play 3 rounds and swap roles.  
@@ -462,15 +462,15 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   - Note: A good answer sounds like this. What I think: animals learn in small steps with rewards. What I saw: I got there after 12 claps. Why: each clap told me I was closer.
 ### a4 · Reading a Dog: what are they feeling? (15 min)
 - **safety:** Never touch a dog you do not know. Never run from a dog. If a dog growls, stand still like a tree, arms by your sides, and look away. Tell a grown-up.
-- **record:** Keep your four dog drawings. Label the tail, ears and mouth on each.
+- **record:** Take a photo of your four mood sheets with the dog photos on them. Tell your grown-up what the tail, ears and mouth show for each mood.
 - **s1 (5 min)**  
-  *Parent does:* Draw four dogs together, one on each sheet. Relaxed: loose wagging tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff body, stiff tail, teeth showing. Point out the tail, ears, eyes and mouth on each.  
-  *Parent says:* Dogs read our faces. We can read theirs too. Look at the tail, the ears, the eyes and the mouth.  
-  *Child mode:* Draw four dogs. Relaxed: loose tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff, teeth showing. Which dog is scared?
+  *Parent does:* Write one mood on each of four sheets: Relaxed, Playful, Scared, Angry. Let your child act out each dog. Relaxed: loose wagging tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff body, stiff tail, teeth showing. Point out the tail, ears, eyes and mouth each time.  
+  *Parent says:* Dogs read our faces. We can read theirs too. Look at the tail, the ears, the eyes and the mouth. Now act out each dog.  
+  *Child mode:* Act out each dog with your body. Relaxed: loose tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff, teeth showing.
 - **s2 (6 min)**  
-  *Parent does:* Look at dog photos, or watch your own dog, and name each mood. Match each to one of your drawings.  
+  *Parent does:* Look at dog photos, or watch your own dog. Put each photo on the sheet for its mood.  
   *Parent says:* What do you think this dog is feeling? What tells you?  
-  *Child mode:* Look at each dog. Name their mood. What told you?
+  *Child mode:* Look at each dog. Which mood sheet does it go on? What told you?
   - Check: A dog has their tail tucked between their legs and their ears flat back. What are they probably feeling? → **Scared**
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Practise 'be a tree': stand still, arms by your sides, look at your feet, and breathe slowly.  
@@ -480,7 +480,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 ### a5 · Brain Line-up: is bigger cleverer? (10 min)
 - **problem:** A bigger brain is not always a cleverer one. What matters more is how many neurons are packed into it. Neurons are the tiny cells that pass messages in a brain. Here you line up kitchen things that are the size of four animals' brains. Then you find out which small brain holds a surprising amount.
 - **safety:** Keep the sesame seed away from children under 5.
-- **record:** Draw the line-up. Write the animal next to each object.
+- **record:** Take a photo of your line-up. Say which animal goes with each object.
 - **s1 (4 min)**  
   *Parent does:* Line up the objects from smallest to biggest. Tell your child which brain each one is like.  
   *Parent says:* A honeybee's brain is smaller than a sesame seed. A crow's is about the size of a walnut. A dog's is about the size of a lemon. Ours weighs about as much as a medium cauliflower.  
@@ -494,16 +494,16 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s3 (2 min)**  
   *Parent does:* Ask your child what they now think.  
   *Parent says:* Is the biggest brain the cleverest? What do you think now, and why?  
-  *Child mode:* Is bigger always cleverer? What do you think now? Why?
+  *Child mode:* Tell your grown-up what you think now, and why.
   - Note: A good answer: 'What I think: bigger isn't always cleverer. What I saw: the crow's brain is a walnut, but crows make hooks. Why: crows pack in lots of neurons.'
 ### a6 · Mirror, Mirror: who is that? (10 min)
 - **problem:** Scientists want to know if an animal understands that the animal in a mirror is themself. So they put a mark on the animal's body, where they can only see it in the mirror. If the animal touches the mark on their own body, they know the face in the mirror is theirs. Here you try the same test on yourself.
 - **safety:** Keep paint away from the eyes.
-- **record:** Draw yourself in the mirror with the sticker. Write which animals passed the test.
+- **record:** Say what you did when you saw the sticker. Write which animals passed the test.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to shut their eyes. Put the sticker on their forehead. Then let them look in the mirror.  
-  *Parent says:* Shut your eyes. I'm putting a tiny sticker on your face. Now open your eyes and look in the mirror. What do you do?  
-  *Child mode:* Shut your eyes. A sticker goes on your face. Now look in the mirror. Where is it?
+  *Parent says:* Shut your eyes. I'm putting a tiny sticker on your forehead. Now open your eyes and look in the mirror. What do you do?  
+  *Child mode:* Look in the mirror. Where do you touch to find the sticker?
 - **s2 (5 min)**  
   *Parent does:* Tell your child about the mirror test in animals.  
   *Parent says:* Most children pass this test by about age two. In 1970, Gordon Gallup tried it with chimpanzees. They touched the mark. Later, an Asian elephant called Happy did, and so did magpies, a kind of bird. Dogs mostly don't. But dogs know their own smell, and that may be a fairer test for an animal that thinks with their nose.  
@@ -533,19 +533,19 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s3 (8 min)**  
   *Parent does:* On day 7, draw a line chart with a dot for each day's minutes, joined by a line.  
   *Parent says:* Let's draw our week. Each dot is one day. If the line goes down, the crows came quicker each day.  
-  *Child mode:* Put one dot for each day. Join the dots. Does the line go down?
+  *Child mode:* Put one dot for each day. Join the dots. Or just say if the times got shorter.
   - Check: In Crow Friends, the line went down from 22 minutes on day 1 to 3 minutes on day 7. What is the best explanation? → **The crows learned when and where food comes**
   - Wait: Day 7.
 - **s4 (5 min)**  
   *Parent does:* Ask your child what the crows learned, what the evidence is, and why they think so. Then plan a follow-up test.  
-  *Parent says:* What do you think the crows learned? What is your evidence? How could we test if they learned your cap, your face or just the time?  
-  *Child mode:* What did the crows learn? What is your evidence? How could you test if they know your face?
+  *Parent says:* What do you think the crows learned? What is your evidence?  
+  *Child mode:* How could you test if crows know your face, or only your cap?
   - Note: A good follow-up: wear a different cap, or let someone else come out at the same time, and see if the crows behave differently.
 
 ## Challenges
 ### c1 · Hook It Like Betty (20 min)
 - **problem:** A tiny paper bucket with a sweet inside sits at the bottom of a tall bottle. Lift it out by its handle without tipping the bottle or putting your fingers in.
-- **your turn:** Now invent your own tool. Draw it, make it and test it. How many tries did it take?
+- **your turn:** Now invent your own tool. Make it and test it. Sketch it first if you like. How many tries did it take?
 - **constraints:** You may not tip, shake or cut the bottle.; Your fingers must not go inside the bottle.; You may use only one straight pipe cleaner, or a long strip of kitchen foil rolled tight into a thin stick.
 - **general:** Bend the end of the pipe cleaner into a small hook, and catch the bucket's handle.; Make the hook only about 2 cm long, so it slips easily through the handle.
 - **creative:** Bend a hook at both ends, so you can try again quickly if one misses.; New Caledonian crows also make hooks from twigs, by snapping a branch off just below a fork. Could you make a hook from a forked twig?; Betty held the wire in her beak, with no hands. Try holding your pipe cleaner in a clothes peg, and use only the peg.
@@ -560,17 +560,17 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   - Check: In Hook It Like Betty, why does a straight pipe cleaner fail? → **It has nothing to catch the handle**
 - **s3 (5 min)**  
   *Parent does:* Talk about what Betty did, and compare.  
-  *Parent says:* Betty bent the wire into a hook, and lifted the bucket. Later, scientists found wild crows bend twigs too. So some think Betty used a skill crows already have, in a new way. How many tries did you need?  
+  *Parent says:* Betty bent the wire into a hook and lifted the bucket. Wild crows also bend twigs into hooks. So some scientists think Betty used a skill crows already have. How many tries did you need?  
   *Child mode:* Betty made a hook. Did you? How many tries did it take? Was it harder than you thought?
   - Think: Is making a tool a sign of thinking? What else could explain it?
 ### c2 · Build a Puzzle Feeder (30 min)
 - **problem:** Make a feeder from things at home that a pet, or crows on the balcony, must think about to get a treat. It must be safe, and it must be possible to solve.
-- **your turn:** Now design your own puzzle. Draw it, build it and watch who solves it. Time how long it takes. Does it get faster on the second day?
+- **your turn:** Now design your own puzzle. Sketch it if you like, build it and watch who solves it. Time how long it takes. Does it get faster on the second day?
 - **constraints:** Use only safe things: cardboard, paper, cloth, steel cups. No string loops that could catch a neck or a beak.; The animal must be able to solve the puzzle in under 5 minutes.; No sharp edges, glue or tape where the animal will touch.
 - **general:** Hide treats in an egg tray and cover each one with a crumpled paper ball.; Roll treats inside a towel, so the animal must unroll the towel.; Put a treat under one of three paper cups.
 - **creative:** Bumblebees learned to pull a string to drag a fake flower out from under a plastic sheet. They even learned by watching other bees. Could a bird learn to pull a cloth tab to slide a plate out?; Make a puzzle with two steps, like lifting a flap and then pushing a ball.; Make the puzzle a little harder each day, and time how long it takes.
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* Build a simple puzzle, like the egg tray with paper balls.  
+  *Parent does:* Put a treat in each cup of the egg tray. Cover each one with a crumpled paper ball.  
   *Parent says:* Clever animals get bored. Zoos give them puzzles so their minds stay busy. Let's build one.  
   *Child mode:* Build a puzzle feeder. Hide treats under paper balls in an egg tray.
 - **s2 (10 min) · grown-up needed**  
@@ -581,7 +581,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **s3 (10 min)**  
   *Parent does:* Design a harder puzzle together, with two steps.  
   *Parent says:* How could we make it a bit harder, but still fair? What would a crow find interesting?  
-  *Child mode:* Draw a harder puzzle with two steps. Make sure the animal can still solve it. Build it tomorrow!
+  *Child mode:* Think of a harder puzzle with two steps. Tell your grown-up how it works, or build it. Make sure the animal can still solve it.
 
 ## Worksheets
 ### Animal Minds Detective (core) (core, 15 questions)

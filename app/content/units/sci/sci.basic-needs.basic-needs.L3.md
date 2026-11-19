@@ -239,19 +239,19 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Lay the packing cards face up. 3. Explain the trip.  
   *Parent says:* We are going to an island for three days. There's no shop and no house. You can pack only 8 things. Choose carefully.  
-  *Child mode:* You are going to an island. You can pack 8 things. Choose!
+  *Child mode:* Look at all 24 cards. Which things would you need on an island?
 - **s2 (4 min)**  
   *Parent does:* Each player picks 8 cards and says why they chose each one.  
   *Parent says:* Pick your 8. Tell me why you chose each one. Is it a need or a want?  
   *Child mode:* Pick 8 cards. Say why for each one.
 - **s3 (6 min)**  
   *Parent does:* Turn over the event cards one at a time. Each player checks their boat and changes their points.  
-  *Parent says:* Here comes the weather. Hot sun all day. Who packed water?  
-  *Child mode:* Turn over an event card. Did you pack what you need?
+  *Parent says:* Here comes the weather. I will read an event card. Did you pack what you need?  
+  *Child mode:* Listen to the event card. Check your 8 cards. Change your points.
 - **s4 (2 min)**  
   *Parent does:* Add up the points. Turn your 8 cards over and count the wants. Then talk about it.  
   *Parent says:* Who did best? What would you pack differently next time? Was any want card useful?  
-  *Child mode:* Add up your points. Turn your cards over. How many were wants? What would you change next time?
+  *Child mode:* Add up your points. Turn your cards over and count the wants.
   - Note: There is no single right answer. A teddy bear is not one of the five needs, but a frightened child may sleep better holding one. Doctors and scientists still argue about whether love and comfort are basic needs too. Any answer with a reason is a good answer.
   - Think: The teddy bear is a want. Could comfort ever be a need?
 
@@ -261,7 +261,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **predict:** One bag goes over your dry hand. Another goes over an empty steel tumbler. What will the inside of each bag look like after 15 minutes? Why do you think so?
 - **fair test:** Use two bags of the same kind, clean and dry inside. Both stay in the same room, away from the fan and the sun, for the same 15 minutes. Only one thing is different: one bag holds your hand and one holds an empty tumbler. The tumbler bag shows whether the mist could come from the room's air.
 - **safety:** Plastic bags are only for hands and tumblers. Never put one over the head or face. Keep the band loose, so it does not squeeze the wrist. Take the bag off at once if the hand feels uncomfortable. A grown-up stays near.
-- **record:** Fill in the table at 0, 5, 10 and 15 minutes. Then draw both bags as they looked at the end, with any drops you saw.
+- **record:** Fill in the table at 0, 5, 10 and 15 minutes. Then draw both bags as they looked at the end, with any drops you saw. Or take a photo of each bag and tell your grown-up what you saw.
 - **results table:** Time | Bag on my hand: what I see and feel | Bag on the tumbler: what I see
 - **s1 (3 min)**  
   *Parent does:* 1. Your child washes and dries their hands well with a towel. 2. Wait two minutes. 3. Ask them to touch their palm to their cheek.  
@@ -271,7 +271,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **s2 (4 min)**  
   *Parent does:* 1. Show the two bags and the tumbler. 2. Explain the plan. 3. Ask for a guess and a reason for each bag. 4. Write the guesses down.  
   *Parent says:* One bag will go over your hand. The other goes over this empty tumbler. In 15 minutes, what will each bag look like inside? Why do you think so?  
-  *Child mode:* One bag goes over your hand and one over the empty tumbler. What will each bag look like inside after 15 minutes? Why?
+  *Child mode:* One bag goes over your hand and one over the empty tumbler. What will the inside of each bag look like after 15 minutes?
   - Ask: Why did you guess that? (good: My hand is dry, so nothing will happen.; My hand is warm, so maybe it will make the bag steamy.; The tumbler is not alive, so nothing will come out of it.)
   - Note: Do not hint. Many children guess nothing will happen, because the hand feels dry. Any guess with a reason is good.
 - **s3 (3 min) · grown-up needed**  
@@ -286,12 +286,12 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   - Note: By 5 minutes the hand bag usually looks a little misty near the fingers. By 10 to 15 minutes there are tiny drops, and the hand feels damp. The tumbler bag stays clear. In an AC room or on a cold day it can take 20 minutes, so if both bags are still clear at 15 minutes, keep watching until 20. While you wait, read the five needs cards together.
 - **s5 (5 min)**  
   *Parent does:* 1. Take off both bags. 2. Your child feels the inside of each one with a dry finger. 3. Compare them.  
-  *Parent says:* Take the bags off. Feel inside each one with a dry finger. Which one is wet? Where did that water come from?  
-  *Child mode:* Take off the bags. Feel inside each. Which one is wet? Why?
+  *Parent says:* Take the bags off. Feel inside each one with a dry finger. Which one is wet?  
+  *Child mode:* Take off the bags. Feel inside each one. Which one is wet?
   - Check: The hand bag turned misty, but the tumbler bag stayed clear. Where did the water come from? → **From the skin of the hand**
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
-  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why does it matter for your body?  
+  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
   - Note: ~ For the jumping question: after jumping you breathe faster and your skin gets warm, so the bag usually mists sooner. That is a good thing to test another day.
   - Think: When you jump about, you breathe faster and your skin gets warm. If you did 20 jumps first, would the bag mist faster or slower? Try it another day and see.
@@ -300,7 +300,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **predict:** Which sugar cap will the ants reach: the one on the dry plate, the one inside the water ring, or both? Why do you think so?
 - **fair test:** Both caps hold the same amount of the same sugar. Both stand in the same place, about 30 cm apart, near where ants walk. Both are checked at the same times. Only one thing is different: one cap has a ring of water around it. Nothing may touch the island from outside, or the ants could use it as a bridge.
 - **safety:** Do not kill or hurt the ants. Some ants bite, so watch without touching them. Wash your hands after cleaning up.
-- **record:** Count the ants on each cap at each check and write the numbers in the table. Draw both plates at the last check.
+- **record:** Count the ants on each cap at each check and write the numbers in the table. Draw both plates at the last check, or take a photo of each.
 - **results table:** Time | Ants on the dry-plate sugar | Ants on the water-ring sugar | Ants in the water or at its edge
 - **s1 (5 min)**  
   *Parent does:* 1. Look for ants together: along the kitchen counter, near the sink, by the dustbin or along a window frame. 2. Watch one ant for a minute.  
@@ -310,7 +310,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason, and write it down.  
   *Parent says:* One cap of sugar will sit on a dry plate. The other will sit on a little island in a ring of water. Which sugar will the ants reach first? Will they reach the island at all? Why do you think so?  
-  *Child mode:* Which sugar will the ants reach: the one on the dry plate, the one inside the water ring, or both? Why do you think so?
+  *Child mode:* Which sugar will the ants reach: the one on the dry plate, the one inside the water ring, or both?
   - Ask: Why do you think that? (good: Ants can't swim, so the water will stop them.; Ants are clever and will find a way across.; The ants will smell both, so they will try both.)
   - Note: Do not say what will happen. A child who thinks the ants will get across is making a fair guess. Some ants can cross water if there is a bridge.
 - **s3 (5 min)**  
@@ -347,8 +347,8 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   - Note: Most children hold for 15 to 40 seconds. Do not make it a contest. The point is that the body makes you breathe again very soon.
 - **s2 (3 min)**  
   *Parent does:* Talk about it: you could save a snack, and you can wait for a drink. Why can't you save up air?  
-  *Parent says:* You can save a laddu for later. You can wait an hour for a drink. But you can't wait a minute for air. Why do you think that is?  
-  *Child mode:* You can save a snack for later. Why can't you save up air for later?
+  *Parent says:* You can save a laddu for later. You can wait an hour for a drink. But you can't wait a minute for air.  
+  *Child mode:* You can save a snack and wait for a drink. But you cannot wait for air. Think about why.
   - Ask: Why can't we save up air? (good: My body uses air all the time.; There is no space inside to keep it.; Every part of me needs air every minute.)
   - Note: Do not explain yet. The 'Why we need air' card explains it later. Accept every idea, and ask your child to remember theirs.
 ### a2 · Need or Want? The sorting slips (12 min)
@@ -365,7 +365,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **s3 (4 min)**  
   *Parent does:* Talk about the slips in the middle.  
   *Parent says:* Let's look at the middle ones. When would each one be a need? When would it be a want?  
-  *Child mode:* Look at the middle slips. When is each one a need?
+  *Child mode:* Look at the middle slips. Who might need each one?
   - Check: When is medicine a need? → **When a person is ill and the medicine keeps them well**
 ### a3 · The Mosquito Hunt: find still water at home (15 min)
 - **problem:** Mosquitoes lay their eggs in water that stays still. The young mosquitoes grow in that water for about a week, and then they fly out. If you empty the still water every week, they never get the chance to fly. In this activity you search your home for still water and empty it.
@@ -378,13 +378,13 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   - Note: Young mosquitoes, called larvae or wrigglers, look like tiny threads that wriggle up and down. If you find them, show your child, then empty the water into a drain. Dengue mosquitoes breed in small amounts of clean, still water, even a bottle cap's worth.
 - **s2 (5 min)**  
   *Parent does:* 1. Empty every place you found. 2. Make a weekly checklist and stick it on the fridge.  
-  *Parent says:* Let's empty them all. Then we'll make a list, so we check every week. Why every week?  
-  *Child mode:* Empty them. Make a list. Why check every week?
+  *Parent says:* Let's empty them all. Then we'll make a list, so we check every week.  
+  *Child mode:* Empty them. Then make a list to stick on the fridge.
   - Ask: Why do we need to check every week? (good: Young mosquitoes grow up in about a week, so emptying every week stops them before they fly.; Water collects again when it rains or when we water the plants.)
 ### a4 · The Breeze Path: does air need a way in and a way out? (15 min)
 - **problem:** Air in a room only keeps moving when it has a way in and a way out. A light strip of paper moves when air moves past it, so it shows us the flow. First you watch the strip with one opening. Then you open a second opening across the room and watch it again.
 - **safety:** Stay away from the window edge on high floors. A grown-up opens and closes windows.
-- **record:** Draw the room from above. Draw arrows to show where the air went with one opening, and with two.
+- **record:** Show where the air went with one opening, and with two. Draw the room from above with arrows, or point and tell your grown-up.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Close all windows and doors of one room, and switch off the fan. 2. Open one window. 3. Your child holds the paper strip in the window gap for one minute.  
   *Parent says:* Fresh air must come into a room, and used air must go out. Let's see if air flows with only one window open. Watch the strip.  
@@ -395,21 +395,21 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Child mode:* Now open another window. Hold the strip again. What happens?
   - Note: With one opening, the strip usually hangs or only flutters. With an opening across the room, it often blows steadily, in or out. This is called cross-ventilation. On a still day the difference is small, so try again in the evening, when a breeze often picks up.
 - **s3 (5 min)**  
-  *Parent does:* Talk about the kitchen: where can smoke and steam get out? Then ask why a room with windows on two sides gets fresher air.  
-  *Parent says:* Where does the smoke from cooking go in our kitchen? Is there a way in and a way out for the air? Why would a room with windows on two sides get fresher air?  
+  *Parent does:* Talk about the kitchen: where can smoke and steam get out?  
+  *Parent says:* Where does the smoke from cooking go in our kitchen? Is there a way in and a way out for the air?  
   *Child mode:* Look at the kitchen. How does smoke get out?
   - Check: Why does a room with windows on two sides get fresher air? → **Air can come in one side and go out the other**
 ### a5 · Dress for the Day: clothes for three places (15 min)
-- **record:** Under each drawing, write one reason for the clothes you chose.
+- **record:** Take a photo of your three choices. Tell your grown-up one reason for each, or write it under the place name.
 - **s1 (5 min)**  
   *Parent does:* Your child feels each piece of clothing, holds it up to the light, and breathes through it gently.  
   *Parent says:* Feel each one. Hold it up to the light. Which one lets air through? Which one feels thick and fluffy? Which one is smooth and shiny?  
   *Child mode:* Feel each one. Which lets air through? Which is thick?
   - Note: Cotton lets light and air through, so it feels thin and cool. Wool is thick and fluffy, and it traps still air. A raincoat is smooth and does not let water through. These three differences are why each one suits different weather.
 - **s2 (10 min)**  
-  *Parent does:* Your child draws a child in Jaipur in May, Darjeeling in December and Kochi in the monsoon. They write a reason under each.  
-  *Parent says:* Draw a child in each place. What would keep them comfortable and safe? Write why.  
-  *Child mode:* Draw a child in each place. Write why you chose those clothes.
+  *Parent does:* Your child writes Jaipur in May, Darjeeling in December and Kochi in the monsoon on the three parts of the sheet. They put the best clothes on each part and say why.  
+  *Parent says:* Here are three places. Which clothes would keep a child comfortable and safe in each one? Tell me why.  
+  *Child mode:* Put the right clothes on each place. Say why you chose them.
   - Note: Good reasons: cotton soaks up sweat and lets air pass, so the body cools. Wool traps still air, which slows heat leaving the body. A raincoat stops rain soaking the clothes, because wet clothes make you cold.
 ### a6 · Who Else Lives Here? The other beings in our home (10 min)
 - **safety:** Look, but do not touch insects, spiders or lizards. Do not move a bird's nest.
@@ -427,8 +427,8 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 ## Projects
 ### p1 · Our Home Care Week: one need each day (55 min, 5 days)
 - **safety:** A grown-up handles the gas stove, the exhaust fan, heavy buckets and anything on a balcony ledge.
-- **record:** Each day, write one thing that was already good and one thing you fixed. On day 5, make the poster.
-- **schedule:** day 1: Air day: check that each room has a window that opens and that the kitchen has a window or exhaust fan. Open the windows for 10 minutes. (10 min); day 2: Water day: check that drinking water is covered and taken out with a ladle or tap. (10 min); day 3: Food day: check that food is covered. Stand the sugar dabba in a plate of water if ants come. (10 min); day 4: Clothes day: wash a handkerchief and dry it in the sun. Check that damp towels are hung out to dry. (10 min); day 5: Home day: check the drains and the bin. Then make a poster of the five needs and how our family cares for each. (15 min)
+- **record:** Each day, write one thing that was already good and one thing you fixed. On day 5, make the poster with words, photos or drawings.
+- **schedule:** day 1: Air day: check that each room has a window that opens and that the kitchen has a window or exhaust fan. Open the windows for 10 minutes. (10 min); day 2: Water day: check that drinking water is covered and taken out with a ladle or tap. (10 min); day 3: Food day: check that food is covered. Stand the sugar dabba in a plate of water if ants come. (10 min); day 4: Clothes day: wash a handkerchief and dry it in the sun. Check that damp towels are hung out to dry. (10 min); day 5: Home day: check the drains and the bin. Then make a poster of the five needs and how our family cares for each, using words, photos or drawings. (15 min)
 - **s1 (10 min)**  
   *Parent does:* Air day. Walk through each room with your child. Does each room have a window that opens? Is there a way for kitchen smoke to leave?  
   *Parent says:* Today is air day. Let's check every room. Can fresh air come in? Can used air go out?  
@@ -448,25 +448,25 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Child mode:* Clothes day. Wash a hanky. Dry it in the sun.
   - Note: Sunlight dries clothes fast, and strong sunlight also kills many germs. Damp clothes left folded can smell and grow mould.
 - **s5 (15 min)**  
-  *Parent does:* Home day. Check the drains and the bin together. Then make a poster with the five needs and how your family cares for each one.  
+  *Parent does:* Home day. Check the drains and the bin together. Then make a poster with the five needs and how your family cares for each one. Use words, photos or drawings.  
   *Parent says:* Today is home day. Is the bin covered? Does water drain away? Now let's make our poster.  
   *Child mode:* Home day. Check the bin and the drain. Make the poster.
 
 ## Challenges
 ### c1 · The Clean Water Corner (25 min)
 - **problem:** Design a way to keep a day's drinking water for your family clean. Dust, flies, mosquitoes and dirty hands must not get into it, and everyone must be able to take a drink easily.
-- **your turn:** Now draw your own clean water corner for your home. Label how it keeps out dust, insects and hands. Then set it up with a grown-up and use it for a day.
+- **your turn:** Now draw your own clean water corner for your home, or build it on a table from real things. Say how it keeps out dust, insects and hands. Then set it up with a grown-up and use it for a day.
 - **constraints:** Use only things most homes have, or can buy cheaply.; A child must be able to get a drink without help.; No hand or tumbler may go into the water.
 - **general:** A covered steel pot with a long-handled ladle hanging beside it.; A clay matka or steel container with a small tap near the bottom.; Clean steel bottles filled each morning, one for each person.
 - **creative:** Tie a clean cotton cloth over the mouth of the pot, so even fine dust stays out.; Put a picture label on the ladle hook, so small children know to use it.; Keep the corner on a high shelf away from the stove and the bin.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Ask: how could germs get into drinking water?  
-  *Parent says:* Drinking water can get dirty in many ways. How could germs get into it, even after it was boiled?  
-  *Child mode:* How could germs get into clean water?
+  *Parent does:* Read the problem together. Then ask your child for ideas.  
+  *Parent says:* Drinking water can get dirty in many ways, even after it was boiled. Who has an idea how?  
+  *Child mode:* Think of ways that dust, flies and hands could get into clean water.
 - **s2 (12 min)**  
-  *Parent does:* Your child draws a design and labels how it keeps out dust, insects and hands.  
-  *Parent says:* Draw your water corner. Label how it stops dust, flies and hands getting in.  
-  *Child mode:* Draw your water corner. Label each part.
+  *Parent does:* Your child draws a design and labels how it keeps out dust, insects and hands. Or they build it on a table from real pots, lids and ladles.  
+  *Parent says:* Draw your water corner, or build it on the table. Show how it stops dust, flies and hands getting in.  
+  *Child mode:* Draw or build your water corner. Say what each part does.
 - **s3 (8 min)**  
   *Parent does:* Read the usual and creative ideas. Then set up the design for one day.  
   *Parent says:* Here are some ways other families do it. Which ideas would you add? Let's try yours for a day.  

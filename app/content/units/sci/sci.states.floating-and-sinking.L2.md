@@ -203,24 +203,24 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
 
 ## Games
 ### g1 · Float or Sink? Guess, then flip (15 min)
-- **rules:** Draw the board: a big sheet with FLOAT at the top and SINK at the bottom.; Shuffle the 16 cards and put them face down in a pile.; Take turns. Turn over the top card and read it out. Put it on FLOAT or SINK, and say why.; Then flip the card and read the back. A right guess with a reason scores one tally mark.; When all 16 cards are placed, count the tally marks. Playing alone, try to beat your own score next time.
-- **Printable board: The two-zone board, drawn on a big sheet of paper:** Top half, coloured blue: FLOAT; Bottom half, coloured brown, like the bottom of a bucket: SINK
+- **rules:** Make the board: write FLOAT at the top and SINK at the bottom of a big sheet.; Shuffle the 16 cards and put them face down in a pile.; Take turns. Turn over the top card and read it out. Put it on FLOAT or SINK, and say why.; Then flip the card and read the back. A right guess with a reason scores one tally mark.; When all 16 cards are placed, count the tally marks. Playing alone, try to beat your own score next time.
+- **Printable board: The two-zone board, made on a big sheet of paper:** Top half: write FLOAT. Colour it blue if you like.; Bottom half: write SINK. Colour it brown if you like, like the bottom of a bucket.
 - **Printable cards: 16 thing cards to cut out:** A wooden rolling pin (back: Floats. Wood is lighter than the water that would fill the same space.); A one-rupee coin (back: Sinks. Steel is heavier than the water that would fill the same space.); A lemon (back: Floats. It bobs back up when you push it down.); A raw potato (back: Sinks. Even a tiny piece of potato sinks.); A whole coconut (back: Floats. Coconuts can float across the sea to new islands.) [picture]; An ice cube (back: Floats. Most of the ice stays under the water.); A steel spoon (back: Sinks. Steel is heavier than the water that would fill the same space.); A metal key (back: Sinks. Metal is heavier than the water that would fill the same space.); A glass marble (back: Sinks. Glass is heavier than the water that would fill the same space.); An apple (back: Floats. An apple has lots of air spaces inside.); A piece of thermocol (back: Floats very high. Thermocol is mostly air.); A whole orange (back: Floats. Its peel is full of tiny air pockets.); A peeled orange (back: Usually sinks. Without the peel, it has lost its air pockets.); A wooden matchstick (back: Floats, just like a big piece of wood.); A short piece of candle (back: Floats. Candle wax is lighter than the water that would fill the same space.); A plastic bottle cap (back: Floats. Most bottle caps are made of a plastic lighter than water.)
 - **Printable score sheet: Score sheet:** Player name; Right guesses (tally marks); Total
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the board with your child. 2. Cut out the cards. 3. Read the first card together.  
+  *Parent does:* 1. Make the board with your child. 2. Cut out the cards. 3. Read the first card together.  
   *Parent says:* Every card goes on float or sink. Before you put it down, say why you think so.  
-  *Child mode:* Draw the board. Cut out the cards. Read the first one.
+  *Child mode:* Write FLOAT and SINK on the board. Cut out the cards. Read the first one.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns with the cards. 2. The player places the card and gives a reason. 3. Flip it and score.  
-  *Parent says:* A whole coconut. It is very heavy. Float or sink? Why?  
+  *Parent says:* Read the card out loud, for example, 'A whole coconut.' Then ask: float or sink? Why?  
   *Child mode:* Turn over a card. Float or sink? Say why. Then flip it.
-  - Ask: Why did you put the coconut on float? (good: Heavy things can float.; It is like the rolling pin.)
+  - Ask: Why did you put the coconut where you did? (good: Heavy things can float.; It is like the rolling pin.)
   - Note: The coconut, the peeled orange and the coin catch most players out. Ask what happened in the bucket test: 'What did the rolling pin do?'
 - **s3 (2 min)**  
-  *Parent does:* 1. Look at the sink cards together. 2. Ask the question below.  
-  *Parent says:* Look at all the sink cards. What are most of them made of?  
-  *Child mode:* Look at the sink cards. What are they made of?
+  *Parent does:* 1. Pick out the sink cards and put them in a row. 2. Ask the question below.  
+  *Parent says:* Pick out all the cards that sink. Put them in a row.  
+  *Child mode:* Look at the row of sink cards.
   - Ask: What are most of the sinkers made of? (good: Metal and glass.; Steel.)
 ### g2 · Bob Up, Sink Down: a moving game (10 min)
 - **rules:** Clear a space in the room.; One person is the caller. Everyone else starts standing.; The caller reads the front of a card out loud. The players move: tall for float, low for sink.; The caller reads the back, so everyone can check. Anyone who moved the wrong way says why the card is right.; After 12 cards, a new player becomes the caller.
@@ -236,8 +236,8 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
   - Note: With only one child and one grown-up, the grown-up plays too, and the child is the caller for half the cards.
 - **s3 (1 min)**  
   *Parent does:* 1. At the end, ask the question below.  
-  *Parent says:* Which cards tricked you? Why?  
-  *Child mode:* Which cards tricked you? Why?
+  *Parent says:* Some cards are tricky. Let us look back.  
+  *Child mode:* Think about the cards where you moved the wrong way.
   - Ask: Which card tricked you? (good: The coconut, because it is heavy.; The tiny piece of potato.)
 
 ## Experiments
@@ -245,7 +245,7 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
 - **question:** Which things float and which sink? Do heavy things always sink, and do small things always float?
 - **predict:** Hold each thing in your hand. Will it float or sink? Why do you think so? Then guess: will a tiny piece of potato do the same as the whole potato, and why?
 - **fair test:** We use the same bucket of water for every thing. We put each thing in gently, push it to the bottom with a finger, and let go. If it comes back up, it floats. If it stays down, it sinks. We test each thing twice, because one try can give an odd result by chance.
-- **record:** Fill in the table as you go. At the end, draw the bucket with the floaters on top and the sinkers on the bottom. Count your right guesses with tally marks.
+- **record:** Fill in the table as you go. At the end, lay the floaters on one side of the towel and the sinkers on the other, and take a photo. Or draw the bucket with the floaters on top and the sinkers on the bottom. Count your right guesses with tally marks.
 - **results table:** Thing | Heavy or light in my hand? | My guess: float or sink? | What it did | Was my guess right?
 - **s1 (4 min)**  
   *Parent does:* 1. Fill the bucket half full and put it on a towel. 2. Line up the ten things. 3. Your child holds each one, then sorts them into heavy and light.  
@@ -255,8 +255,8 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
   - Note: This step matters. Your child will use how heavy each thing felt to make their guesses. Write heavy or light in the table.
 - **s2 (4 min)**  
   *Parent does:* 1. Point to each thing in turn. 2. Your child says float or sink, and why. 3. Write each guess in the table.  
-  *Parent says:* Now guess for each one. Will it float or sink? Why do you think so?  
-  *Child mode:* Guess for each thing. Float or sink? Say why.
+  *Parent says:* Now it is time to guess. For each thing, tell me what you think will happen, and why.  
+  *Child mode:* Pick up a thing. Say what you think it will do, and why.
   - Ask: Will the rolling pin float or sink? Why do you think so? (good: It will sink, because it is heavy.; It will sink, because it is big and heavy.; Wood floats, so it will float.)
   - Note: Do not say if a guess is right. Most children say heavy things sink. Any guess with a reason is a good guess.
 - **s3 (8 min)**  
@@ -269,23 +269,23 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
   - Check: The heavy rolling pin floated, and the light coin sank. What does that show? → **How heavy a thing is does not decide if it floats**
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a piece of potato as small as a fingernail. 2. Your child guesses, then drops it in. 3. Then they guess and test a matchstick.  
-  *Parent says:* The whole potato sank. Will a tiny piece float? Why do you think so? Now try it.  
-  *Child mode:* Guess: will a tiny piece of potato float? Say why. Now drop it in.
+  *Parent says:* The whole potato sank. Now we try a tiny piece. What do you think it will do, and why?  
+  *Child mode:* Say what you think the tiny piece will do. Then drop it in.
   - Ask: What did the tiny piece of potato do? (good: It sank, like the whole potato.)
   - Ask: What did the matchstick do? (good: It floated, like the rolling pin.)
   - Note: Many children think a small piece will float. It sinks. If you compared a spoonful of potato with a spoonful of water, the potato would weigh a little more. Push it down if it rests on the top.
 - **s5 (4 min)**  
   *Parent does:* 1. Count the right guesses with tally marks. 2. Ask the questions below. 3. Listen before you explain.  
-  *Parent says:* How many guesses were right? Which ones surprised you? So what decides if a thing floats?  
-  *Child mode:* Count your right guesses. Which ones surprised you? What decides if a thing floats?
+  *Parent says:* Let us count the right guesses. Which ones surprised you?  
+  *Child mode:* Count your right guesses with tally marks. Which ones surprised you?
   - Ask: What decides if a thing floats? (good: Not how heavy it is.; Not how big it is.; What it is made of.)
   - Note: After your child answers, say it plainly. Weight and size do not decide. For a solid lump, what it is made of decides. Imagine equal-sized pieces of wood, water and steel. The wood weighs less than the water, so it floats. The steel weighs more than the water, and so does the potato, so they sink. A steel bowl floats when it sits on the water with its open side up, because the hollow inside is full of air. The bowl and its air together weigh less than the water that would fill the whole space the bowl takes up. A ship floats for the same reason. Push the bowl down so that water pours in, and it sinks.
-  - Think: A steel spoon sinks. What do you think a steel bowl will do? Try it, setting it gently on the water with the open side up.
+  - Think: A steel spoon sinks. What do you think a steel bowl will do? Try it with a small steel katori, set gently on the water with the open side up.
 ### e2 · The Orange Test: does the peel help an orange float? (20 min)
 - **question:** Does an orange float because of its peel?
 - **predict:** The whole orange floats. Will it still float without its peel? Will the peel float on its own? Why do you think so?
 - **fair test:** We use the same orange and the same bucket of water each time. We push it down and let go each time. We test the peeled orange three times, because it sinks slowly and can be hard to judge.
-- **record:** Draw the whole orange, the peeled orange and the peel in the water, at the place each one ended up.
+- **record:** Fill in the table. You can also draw each one in the water, at the place it ended up, or take a photo of the bowl.
 - **results table:** What we tested | My guess: float or sink? | What it did
 - **s1 (3 min)**  
   *Parent does:* 1. Your child puts the whole orange in the water. 2. They push it down and let go.  
@@ -294,8 +294,8 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
   - Ask: What does the whole orange do? (good: It floats.; It floats low, with only the top showing.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child peels the orange over a plate. 2. They look at the inside of the peel. 3. Ask for a guess and a reason.  
-  *Parent says:* Look at the inside of the peel. It is soft and spongy. Now guess. Will the peeled orange float? Why?  
-  *Child mode:* Peel the orange. Feel the soft white inside of the peel. Will the peeled orange float? Why?
+  *Parent says:* Feel the inside of the peel. It is soft and spongy. Now take a guess, and say why.  
+  *Child mode:* Peel the orange. Feel the soft white inside of the peel.
   - Ask: Will the peeled orange float? (good: Yes, because it is lighter now.; No, because the peel was helping.)
   - Note: Children often say it will float better, because it is lighter. Write the guess down.
 - **s3 (6 min)**  
@@ -308,45 +308,45 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
   - Check: The whole orange floated, but the peeled orange sank. Why? → **The peel is full of tiny air pockets, which helped it float**
 - **s4 (5 min)**  
   *Parent does:* 1. Ask the question below. 2. Wash your hands. Then share a fresh orange and eat it together. Do not eat the orange from the bucket.  
-  *Parent says:* The air in the peel helped the orange float. A life jacket is full of foam with air in it. Why do you think a life jacket helps a person float?  
-  *Child mode:* Why does a life jacket help a person float? Now eat a fresh orange. Not the one from the bucket.
+  *Parent says:* The air in the peel helped the orange float. A life jacket is full of foam, and the foam holds air.  
+  *Child mode:* Wash your hands. Share a fresh orange and eat it. Do not eat the one from the bucket.
   - Ask: Why does a life jacket help a person float? (good: It is full of air, like the peel.; It is made of light foam.)
   - Note: An apple has many tiny air spaces between its cells. That is why it floats even without its skin.
   - Think: An apple floats with or without its skin. Where do you think an apple keeps its air?
 
 ## Activities
 ### a1 · Heavy in the Hand: line up the kitchen (7 min)
-- **record:** Draw your line of five things, the heaviest first.
+- **record:** Take a photo of your line, the heaviest first. Or say the order out loud to your grown-up.
 - **s1 (4 min)**  
-  *Parent does:* 1. Give your child two things at a time, one for each hand. 2. They say which is heavier. 3. Swap until all five are compared.  
+  *Parent does:* 1. Give your child two things at a time, one for each hand. 2. They say which is heavier. 3. Swap things around until your child has worked out the order of all five.  
   *Parent says:* Hold one in each hand. Which one pulls your hand down more?  
   *Child mode:* Hold one thing in each hand. Which is heavier?
   - Ask: Which is the heaviest of all? (good: The rolling pin.; The potato.)
   - Note: A wooden rolling pin and a potato are usually the heaviest. The coin is the lightest. Your child can close their eyes to feel the weight better, if they like.
 - **s2 (3 min)**  
   *Parent does:* 1. Your child puts the five things in a line, heaviest first. 2. Ask the question below. 3. Leave the line out for the bucket test.  
-  *Parent says:* Now look at your line. If heavy things sink, which ones will sink? Keep this line for the bucket test.  
-  *Child mode:* Look at your line. Which ones do you think will sink? Why?
+  *Parent says:* Now look at your line. Many people think heavy things sink. Keep this line for the bucket test.  
+  *Child mode:* Look at your line. Push the ones you think will sink to one side.
   - Ask: Which ones will sink? (good: The heavy ones, the rolling pin and the potato.; I am not sure.)
   - Note: Do not correct the guess. The bucket test will show that weight alone does not decide.
 ### a2 · What Floats in the Rice Water? (10 min)
-- **record:** Draw a grain that sank and a bit that floated, side by side. Write one way they are different.
+- **record:** Keep the two piles side by side on the plate and take a photo. Say or write one way they are different.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child puts the rice in the bowl of water. 2. They swish it with their hand. 3. Wait a few seconds, then look at the top.  
-  *Parent says:* Swish the rice. Now look at the top of the water. Is anything floating?  
-  *Child mode:* Swish the rice in the water. Look at the top. What floats?
+  *Parent says:* Swish the rice with your hand. Wait a few seconds. Then look closely at the top of the water.  
+  *Child mode:* Swish the rice in the water. Look at the top.
   - Ask: What do you see on top? (good: Little flakes.; Some grains.; Dust.)
   - Note: Floaters are usually husk flakes, dust, broken bits or empty grains. Some rice has very few. That is a result too: it means the rice is clean and full.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child scoops the floaters onto the plate. 2. They put a few sunken grains beside them. 3. Look closely, with a magnifying glass if you have one.  
-  *Parent says:* Put the floaters next to the grains that sank. How are they different?  
-  *Child mode:* Put the floaters next to the grains that sank. How are they different?
+  *Parent says:* Put the floaters next to the grains that sank. Look at them closely.  
+  *Child mode:* Look closely at both piles. How are they different?
   - Ask: Why do you think these bits floated? (good: They are thin and dry, like paper.; They are empty inside.; They have air in them.)
   - Note: Farmers use the same idea to check seeds. Full, healthy seeds usually sink in water. Empty or damaged seeds float, because they hold air instead of food.
   - Check: Some rice bits floated and most grains sank. What does that tell you? → **The floaters are made differently, or hold air**
 ### a3 · Push It Down: feel the water push back (8 min)
 - **problem:** Water pushes up on things put into it. You will push a lemon and a ball down into water, and feel how strong the push is. The push has a name: upthrust.
-- **record:** Draw the ball under the water with an arrow showing which way the water pushed.
+- **record:** Tell your grown-up which way the water pushed the ball, and point with your hand. Or draw the ball under the water with an arrow.
 - **s1 (3 min)**  
   *Parent does:* 1. Your child pushes the lemon down to the bottom with one finger. 2. Then they let go. 3. Ask the question below.  
   *Parent says:* Push the lemon down with one finger. Do you feel anything pushing back? Now let go.  
@@ -354,8 +354,8 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
   - Ask: What did you feel? (good: A small push up.; The lemon pushed back up.)
 - **s2 (5 min)**  
   *Parent does:* 1. Your child pushes the ball down slowly with both hands. 2. They notice that it is hard to push, and feel it jump when they let go. 3. They keep their face back from the splash.  
-  *Parent says:* Push the ball down slowly. Does the water push back harder than it did on the lemon? Now let go.  
-  *Child mode:* Push the ball down slowly. Is it harder than the lemon? Let go and step back.
+  *Parent says:* Push the ball down slowly. Feel the water push back. Now let go.  
+  *Child mode:* Push the ball down slowly with both hands. Then let go and step back.
   - Ask: Was the ball harder to push down than the lemon? (good: Yes, much harder.; It pushed back hard the whole way down.)
   - Note: The push of water upwards is called upthrust. When you push a ball under, it takes the place of some water, and the water pushes back. A big ball takes the place of a lot of water, so the push is big. Water pushes up on a coin too, but only a little, so the coin sinks.
   - Check: Why did the ball jump up when you let go? → **The water pushed it up**
@@ -371,8 +371,8 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
 - **creative:** Tape the coin to a lemon. Does the lemon still float? Test it and see.; Put the coin in a small steel katori and float the katori. A katori floats because the hollow inside is full of air. The katori and its air together weigh less than the water that would fill all the space the katori takes up.
 - **s1 (4 min)**  
   *Parent does:* 1. Drop the coin in to show it sinks. 2. Read the rules together. 3. Ask the question below.  
-  *Parent says:* The coin sinks on its own. What could hold it up? Think of the floaters from the bucket test.  
-  *Child mode:* The coin sinks. What could hold it up?
+  *Parent says:* The coin sinks on its own. Think of the things that floated in the bucket test.  
+  *Child mode:* Look at the things on the table. Pick one that might hold the coin up.
   - Ask: What could you use? (good: Thermocol, because it floats high.; Wooden sticks, tied together.)
 - **s2 (12 min)**  
   *Parent does:* 1. Your child chooses a floater and fixes the coin to it. 2. They put it in the water and count to ten. 3. If it sinks, they try another way.  
@@ -381,8 +381,8 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
   - Note: Thermocol always works. A raft of sticks works if you use enough sticks. A rolling pin does not work, because it rolls over. A lemon may or may not hold a coin, so it is a real test. Let your child try more than one way.
 - **s3 (4 min)**  
   *Parent does:* 1. Ask the questions below. 2. Then try two or three coins.  
-  *Parent says:* Which floater held the coin best? Why do you think so?  
-  *Child mode:* Which floater worked best? Why? Now try two coins.
+  *Parent says:* Which floater held the coin best?  
+  *Child mode:* Now try two coins, then three. How many can your floater hold?
   - Ask: Why did the thermocol hold the coin up? (good: Thermocol is mostly air.; It floats very high, so it can hold up the coin as well.)
   - Note: A ship is hollow and full of air, like the katori. The whole ship with its air weighs less than the water that would fill all the space the ship takes up. That is why a steel ship floats.
   - Think: A big ship is made of steel, and steel sinks. What do you think holds a ship up?

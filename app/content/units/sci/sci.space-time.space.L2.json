@@ -290,7 +290,7 @@
    "title": "The Bottle Strip Test: how big does a bottle look from far away?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you measure how tall a bottle looks from 1 step, 2 steps and 4 steps away. You use a pencil held out at arm's length, the way artists measure. Then you compare the paper strips.",
+   "context": "In this experiment you find out how tall a bottle looks from 1 step, 2 steps and 4 steps away. You measure it with a pencil held out at arm's length, the way artists do. Then you compare paper strips.",
    "problem": "A bottle looks smaller when you stand farther from it, but you cannot measure that with a ruler. So you use a pencil. Hold the pencil out at arm's length and slide your thumb along it, until the part between the pencil tip and your thumb is as tall as the bottle looks. That length is how tall the bottle looks from where you stand. You do this from three places and compare.",
    "question": "When you stand twice as far from a bottle, how tall does the bottle look?",
    "predict": "When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?",
@@ -394,11 +394,11 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Ask the questions below. 2. Write your child's guess and reason at the top of the paper. 3. Do not say who is right.",
-     "say": "Next you will look at the bottle from 1 step, then from 2 steps, then from 4 steps. Each place is twice as far as the one before. Guess first. When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?",
-     "kid": "From twice as far, how tall will the bottle look? Why?",
+     "say": "Next you will look at the bottle from 1 step, then from 2 steps, then from 4 steps. Each place is twice as far as the one before. Guess first, before we measure. Will the bottle look just as tall, a little shorter, or half as tall?",
+     "kid": "Make a guess. Then say why you think so.",
      "ask": [
       {
-       "q": "From twice as far away, how tall will the bottle look? Why?",
+       "q": "When you stand twice as far away, how tall will the bottle look? Why do you think so?",
        "good": [
         "The same, because it is the same bottle.",
         "A bit smaller, because far things look small.",
@@ -413,8 +413,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Your child stands with toes at the 1-step chappal. 2. Your child holds one arm straight out, with the elbow locked, and closes one eye. 3. Your child holds the pencil upright in that hand and lines up the tip with the top of the bottle. 4. Your child slides the thumbnail down the pencil until it lines up with the bottom of the bottle. 5. Your child keeps the thumb still and lays the pencil on the paper strip. 6. You mark the paper at the pencil tip and at the thumb.",
-     "say": "Hold your arm out straight, like a stick. Close one eye. Put the pencil tip at the top of the bottle. Now slide your thumb down to the bottom. Keep it still, and we'll mark it.",
-     "kid": "Hold your arm out straight. Close one eye. Put the pencil tip at the top of the bottle. Slide your thumb down to the bottom of the bottle. Keep your thumb still.",
+     "say": "Hold your arm out straight, like a stick. Close one eye. Put the pencil tip at the top of the bottle. Now slide your thumb down to the bottom of the bottle. The part of the pencil between the tip and your thumb is how tall the bottle looks. Keep your thumb still, and we'll mark it.",
+     "kid": "Measure how tall the bottle looks, with your pencil and thumb. Keep your thumb still.",
      "parent": "The arm must be straight every time, or the measure changes. If your child finds it hard, you hold your own arm out and measure, and your child checks. Do each place twice. The two marks should be close.",
      "context": "In this step of the bottle strip test, you measure the bottle from 1 step away."
     },
@@ -440,8 +440,8 @@
      "id": "s5",
      "mins": 6,
      "do": "1. Cut out the three marked pieces. 2. Lay them side by side, longest first. 3. Fold the 1-step strip in half and hold it next to the 2-step strip. 4. Count how many 4-step strips fit along the 1-step strip. 5. Fill in the results table. 6. Then read the cards on near and far.",
-     "say": "Let's fold the 1-step strip in half. Is half of it as long as the 2-step strip? How many little 4-step strips fit along the long one? Did the bottle change, or did something else change?",
-     "kid": "Fold the 1-step strip in half. Is the half as long as the 2-step strip? Did the bottle change?",
+     "say": "Let's fold the 1-step strip in half. Is half of it as long as the 2-step strip? Now see how many little 4-step strips fit along the long one.",
+     "kid": "Fold the long strip in half. Hold it next to the 2-step strip. Do they match?",
      "ask": [
       {
        "q": "The bottle never moved. What changed?",
@@ -454,7 +454,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In the bottle strip test, you stood twice as far from the bottle. How tall did the bottle look?",
+      "q": "You stand twice as far from a bottle. How tall does the bottle look?",
       "options": [
        "Just as tall",
        "About half as tall",
@@ -508,7 +508,7 @@
      "what": "Make the mirror tunnel. Count the bindis three times each. Talk about whether the row goes on for ever."
     }
    ],
-   "record": "Write each count in the results table. Draw the tunnel as you saw it, with the bindis getting smaller.",
+   "record": "Write each count in the results table. Draw the tunnel as you saw it, with the bindis getting smaller, or tell your grown-up what the last bindis looked like.",
    "setup": [
     {
      "art": "A child sticking a red bindi on the top edge of a small hand mirror.",
@@ -528,8 +528,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Stick a bindi on the top edge of the hand mirror, on the shiny side. 2. Stand your child about one step from the big mirror. 3. Ask the question below and write the guess.",
-     "say": "We're going to make a tunnel of mirrors. How many bindis do you think you'll see? 2, 10, 100, or more than anyone can count? Why?",
-     "kid": "How many bindis will you see? Why do you think so?",
+     "say": "We're going to make a tunnel of mirrors. Each mirror will show the other mirror, over and over. How many bindis do you think you'll see? 2, 10, 100, or more than anyone can count?",
+     "kid": "Make a guess, then say why you think so.",
      "adult": true,
      "ask": [
       {
@@ -565,7 +565,7 @@
      "mins": 3,
      "do": "1. Ask the questions below. 2. Then read the card on whether space goes on for ever.",
      "say": "Could you count to the end? What did the last bindis look like? Was that really the end, or could you just not see more?",
-     "kid": "Could you see the end? What did the last bindis look like?",
+     "kid": "Think about the last bindis you could see.",
      "ask": [
       {
        "q": "Why could you not count any more bindis?",
@@ -599,7 +599,7 @@
    "title": "Space Hunt: find what is between things",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hunt for spaces in your home: under, inside, around and between things. Do it before the Bottle Strip Test.",
+   "context": "In this activity you hunt for spaces in your home: under, inside, around and between things. You will find out that space is the room around and between things, even where it looks empty. Do it before the Bottle Strip Test.",
    "materials": [
     {
      "item": "two steel tumblers",
@@ -621,7 +621,7 @@
      "what": "Find five spaces in the home. Push two tumblers together and look for the space around them."
     }
    ],
-   "record": "Draw or list five spaces you found.",
+   "record": "Write a list of the five spaces you found, or take a photo of each.",
    "setup": [
     {
      "art": "A child crouching to look at the space under a bed, and another arrow to the gap between her own spread fingers.",
@@ -637,8 +637,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Put two tumblers on the floor, about one hand apart. 2. Point to the gap between them. 3. Ask the question below.",
-     "say": "What is between these two tumblers? Take a guess. What would you call it?",
-     "kid": "What is between the two tumblers?",
+     "say": "Look at the gap between these two tumblers. Take a guess.",
+     "kid": "Look at the gap between the two tumblers. What would you call it?",
      "ask": [
       {
        "q": "What is between the tumblers?",
@@ -656,17 +656,17 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Your child finds five spaces in the home. 2. Give hints if needed. Try between your fingers, under the bed and inside an empty bottle. 3. Also try between the fan blades, and between your child and the wall. 4. Write or draw each one.",
-     "say": "The room between things is called space. Let's hunt for five spaces. Look under, inside, around and between things.",
+     "do": "1. Your child finds five spaces in the home. 2. Give hints if needed. Try between your fingers, under the bed and inside an empty bottle. 3. Also try between the fan blades, and between your child and the wall. 4. Write down each one, or take a photo of it.",
+     "say": "The room between things is called space. Let's hunt for five spaces.",
      "kid": "Find five spaces. Look under, inside, around and between.",
      "parent": "Keep fingers away from the fan blades. Look at the gaps only while the fan is switched off."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Push the two tumblers together until they touch. 2. Ask the questions below. 3. Close the empty bottle with its cap and squeeze it.",
-     "say": "Now the tumblers touch. Is there still space? Where? This bottle looks empty. Squeeze it with the cap on. What is inside?",
-     "kid": "The tumblers touch. Is there still space? Squeeze the shut bottle. What is inside?",
+     "do": "1. Push the two tumblers together until they touch. 2. Ask the first question below. 3. Close the empty bottle with its cap and squeeze it. 4. Ask the second question.",
+     "say": "Now the tumblers touch. Look closely. This bottle looks empty. Squeeze it with the cap on.",
+     "kid": "Look at the touching tumblers. Then squeeze the shut bottle.",
      "ask": [
       {
        "q": "Where is there still space?",
@@ -692,7 +692,7 @@
    "title": "Step It Out: near, nearer, nearest",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you estimate how many steps it is to four places in your home. Then you walk and count. You put the places in order from nearest to farthest.",
+   "context": "In this activity you guess how many steps it is to four places in your home. Then you walk and count, to find out which place is nearest and which is farthest.",
    "materials": [
     {
      "item": "paper and a pencil",
@@ -730,7 +730,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Your child walks to each place heel to toe, counting out loud. 2. Write each count next to the guess.",
-     "say": "Now walk heel to toe, so every step is the same size. Count out loud.",
+     "say": "Now walk heel to toe. Put one foot right in front of the other, so your heel touches your toes. Then every step is the same size. Count out loud.",
      "kid": "Walk heel to toe. Count each step out loud.",
      "parent": "Heel to toe keeps every step the same size, so the counts are fair to compare."
     },
@@ -739,10 +739,10 @@
      "mins": 4,
      "do": "1. Ask your child to put the four places in order, from nearest to farthest. 2. Ask the questions below.",
      "say": "Which place is nearest? Which is farthest? Were your guesses too big, too small, or close?",
-     "kid": "Which is nearest? Which is farthest? Were your guesses close?",
+     "kid": "Put the places in order, nearest first. Were your guesses close?",
      "ask": [
       {
-       "q": "How do you know the kitchen is farther than the door?",
+       "q": "How do you know which place is farther?",
        "good": [
         "It took more steps.",
         "There is more space between me and the kitchen."
@@ -768,7 +768,7 @@
    "title": "Draw Near and Far from the Window",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look out of a window and draw what you see. You notice that far things look smaller, so artists draw them smaller and higher up the page.",
+   "context": "In this activity you look out of a window and find out how much smaller far things look. Then you draw them as big as they look, the way artists do.",
    "materials": [
     {
      "item": "paper",
@@ -786,7 +786,7 @@
      "what": "Look out of the window. Draw one near thing and the same kind of thing far away."
     }
    ],
-   "record": "Your drawing, with 'near' and 'far' written by the two things.",
+   "record": "Your drawing, or your finger-width counts, with 'near' and 'far' written by the two things.",
    "setup": [
     {
      "art": "A window grille with a tree just outside and the same kind of tree tiny on a far hill or road.",
@@ -810,19 +810,19 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Your child draws the near thing and the far thing, each as big as it looks. 2. Then your child colours the drawing.",
-     "say": "Draw them just as big as they look, not as big as they really are.",
-     "kid": "Draw each one as big as it looks."
+     "do": "1. Your child draws the near thing and the far thing, each as big as it looks. 2. A child who would rather not draw holds up a hand at arm's length. Then the child counts the finger-widths each thing is tall.",
+     "say": "Draw them just as big as they look, not as big as they really are. Or hold up your hand at arm's length and count how many finger-widths tall each one looks.",
+     "kid": "Draw each one as big as it looks, or count finger-widths."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "1. Ask the question below. 2. Write 'near' and 'far' by the two things.",
-     "say": "Is the far tree really that small? Why did you draw it small?",
-     "kid": "Is the far one really small? Why did you draw it small?",
+     "say": "Look at your two things again. Is the far one really that small?",
+     "kid": "Is the far one really small, or does it only look small?",
      "ask": [
       {
-       "q": "Why did you draw the far one smaller?",
+       "q": "Why does the far one look smaller?",
        "good": [
         "It looks smaller because it is far away.",
         "It is far, so it takes up less of what I see."
@@ -839,7 +839,7 @@
    "title": "Nearer, Farther: find the hidden tumbler",
    "mins": 15,
    "players": "2 or more players",
-   "context": "This is a hiding game about near and far. One player hides a small steel tumbler. The others look for it, and the hider holds up cards to say nearer or farther.",
+   "context": "This is a hiding game about near and far. One player hides a small steel tumbler. The seeker looks for it, and the hider holds up cards to say nearer or farther. You will find out that nearer means less space between you and the thing.",
    "printables": [
     {
      "kind": "cards",
@@ -884,8 +884,8 @@
     {
      "id": "s2",
      "mins": 11,
-     "do": "1. Play at least four rounds, swapping hider and seeker. 2. Keep count of the cards shown each round.",
-     "say": "Hold up the cards as the seeker walks: 'Nearer', 'Nearer', 'Farther', 'Very near'.",
+     "do": "1. Play at least four rounds, swapping hider and seeker. 2. The hider holds up a card each time the seeker gets nearer or farther. 3. Keep count of the cards shown each round.",
+     "say": "Walk around the room. I will only hold up cards. Go the way they tell you.",
      "kid": "Walk the way the cards tell you. Find the tumbler.",
      "ask": [
       {
@@ -901,8 +901,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Count the cards for each round. 2. Ask the question below.",
-     "say": "Which round used the fewest cards? What did 'Nearer' and 'Farther' tell you about the space between you and the tumbler?",
-     "kid": "Which round used the fewest cards? What did the cards tell you?",
+     "say": "Let's count the cards from each round. Which round needed the fewest?",
+     "kid": "Find the round with the fewest cards.",
      "check": {
       "t": "mcq",
       "q": "In the hiding game, the hider holds up 'Farther'. What should the seeker do?",
@@ -922,7 +922,7 @@
    "title": "Near to Far: a line-up card game",
    "mins": 15,
    "players": "1 to 4 players",
-   "context": "This is a card game about distance. Each card names a place. You line the cards up from nearest to you to farthest, then check the backs.",
+   "context": "This is a card game about distance. Each card names a place. You line the cards up from nearest to you to farthest, then check the backs. You will find out how far away things in the sky really are.",
    "printables": [
     {
      "kind": "cards",
@@ -978,7 +978,7 @@
       },
       {
        "f": "The Andromeda galaxy",
-       "b": "One of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us.",
+       "b": "A galaxy is a huge group of stars. This one is one of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us.",
        "img": {
         "src": "media/cards/space-g2-0-09.jpg",
         "credit": "NASA, public domain"
@@ -1018,7 +1018,7 @@
      "mins": 9,
      "do": "1. Take turns placing cards. 2. When the line is done, turn the cards over from the nearest end. 3. Read each back out loud.",
      "say": "Where does the Moon go? Is the Moon nearer than the Sun, or farther? Why do you think so?",
-     "kid": "Where does the Moon go? Is it nearer than the Sun?",
+     "kid": "Put your card where you think it goes. Say why.",
      "ask": [
       {
        "q": "The Sun and the Moon look about the same size. How can you tell which is farther?",
@@ -1036,7 +1036,7 @@
      "do": "1. Count the cards in the right place. 2. Ask the question below. 3. Read the backs of the two cards together.",
      "say": "Which is farther from us: the nearest star after the Sun, or the Andromeda galaxy? How do you know?",
      "parent": "The Andromeda galaxy is farther. The card backs say its light takes about 2.5 million years to reach us. Light from the nearest other star takes just over 4 years. A longer time for the light means a longer distance.",
-     "kid": "Which is farther: the nearest star or the Andromeda galaxy? How do you know?",
+     "kid": "Read both backs. Which light takes longer to reach us?",
      "check": {
       "t": "mcq",
       "q": "Which of these is farthest from you?",
@@ -1058,7 +1058,7 @@
    "title": "My Room Map: where things are and the space between",
    "days": 2,
    "mins": 30,
-   "context": "In this project you draw a map of your room, the way a bird on the ceiling would see the room. On day 2 you add how many steps are between things.",
+   "context": "In this project you make a map of your room, the way a bird on the ceiling would see the room. You will find out how much of the floor is full of things and how much is empty space. On day 2 you add how many steps are between things.",
    "materials": [
     {
      "item": "a sheet of paper with squares drawn on it, or squared maths paper",
@@ -1078,10 +1078,10 @@
     {
      "day": 2,
      "mins": 15,
-     "what": "Count steps between things. Write the numbers on the map. Colour the empty floor."
+     "what": "Count steps between things. Write the numbers on the map. Count the empty squares."
     }
    ],
-   "record": "The finished map, with step numbers between things and the empty floor coloured in.",
+   "record": "The finished map, with step numbers between things and the two square counts written on it.",
    "setup": [
     {
      "art": "A room seen from above, drawn on squared paper: a rectangle bed, a square cupboard, a door gap and a window.",
@@ -1089,27 +1089,27 @@
     },
     {
      "art": "The same map with arrows between the bed and the door marked '4 steps', and the empty floor coloured light blue.",
-     "caption": "2. Add steps between things. Colour the empty space."
+     "caption": "2. Add steps between things. Count the empty squares."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Stand at the door with your child. 2. Ask what the room would look like to a bird on the ceiling. 3. Your child draws the walls, the door, the bed and two more things on the squared paper.",
-     "say": "Pretend you are a bird on the ceiling, looking down. What shape is the bed from up there? Draw it.",
-     "kid": "Pretend you are a bird on the ceiling. Draw your room from above.",
+     "do": "1. Stand at the door with your child. 2. Ask what the room would look like to a bird on the ceiling. 3. Your child draws the walls, the door, the bed and two more things on the squared paper. Or your child cuts paper shapes for them and lays the shapes on the paper.",
+     "say": "Pretend you are a bird on the ceiling, looking down. What shape is the bed from up there? Show me on the paper.",
+     "kid": "Show your room from above: the walls, the door, the bed and two more things.",
      "context": "This is day 1 of the room map."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Your child writes the numbers on the map with arrows. 3. Your child colours all the empty floor.",
-     "say": "How many steps from the bed to the door? Write it on the map. Now colour all the empty floor. That is the space you can move in.",
-     "kid": "Count steps between things. Write them on the map. Colour the empty floor.",
+     "do": "1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Your child writes the numbers on the map with arrows. 3. Your child counts the empty squares on the map and the squares covered by things, and writes both numbers.",
+     "say": "How many steps from the bed to the door? Write it on the map. Now count the empty squares, and the squares with things on them. The empty ones are the space you can move in.",
+     "kid": "Write the steps on the map. Count the empty squares and the squares with things.",
      "ask": [
       {
-       "q": "On your map, which is bigger: the floor covered by things, or the empty floor?",
+       "q": "On your map, which has more squares: things, or empty floor?",
        "good": [
         "More empty space.",
         "More things. The bed is big."
@@ -1128,7 +1128,7 @@
    "id": "c1",
    "title": "Hide the Cupboard with a Coin",
    "mins": 15,
-   "context": "This is a puzzle challenge. A coin is far smaller than a cupboard. Can you make the coin hide the whole cupboard, without moving the cupboard?",
+   "context": "This is a puzzle challenge. A coin is far smaller than a cupboard. Can you make the coin hide the whole cupboard, without moving the cupboard? You will find out what makes a small thing look big.",
    "problem": "Make a small coin hide a whole cupboard from your view.",
    "constraints": [
     "You may not move the cupboard.",
@@ -1165,7 +1165,7 @@
      "mins": 3,
      "do": "1. Explain the challenge. 2. Ask the question below.",
      "say": "This coin is tiny, and the cupboard is huge. Can you make the coin hide the whole cupboard? You can't move the cupboard.",
-     "kid": "Can a small coin hide the whole cupboard? You can't move the cupboard.",
+     "kid": "Look at the coin and the cupboard. Think how the coin could hide it.",
      "ask": [
       {
        "q": "What could you change?",
@@ -1188,8 +1188,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Ask the question below.",
-     "say": "Did the coin get bigger, or the cupboard smaller? What really changed?",
-     "kid": "Did the coin grow? What changed?",
+     "say": "Look at the coin and the cupboard again. Did either of them change size?",
+     "kid": "Say what you changed to make the coin hide the cupboard.",
      "check": {
       "t": "mcq",
       "q": "How did the small coin hide the big cupboard?",

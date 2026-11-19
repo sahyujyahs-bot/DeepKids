@@ -299,7 +299,7 @@
    "title": "Noticed It Before? A card game",
    "mins": 15,
    "players": "2 to 5 players",
-   "context": "This is a card game about things that are often there but rarely noticed. Each card names one. You stop, notice it, and decide which pile it goes on.",
+   "context": "This is a card game about things that are always there but rarely noticed. You will find out which of them you notice only when you stop and look. Each card names one. You stop, notice it, and decide which pile it goes on.",
    "printables": [
     {
      "kind": "cards",
@@ -371,14 +371,14 @@
      "mins": 2,
      "do": "Cut out the cards and make three paper labels for the piles.",
      "say": "Some things are always there, but we hardly notice them. Let's find out which.",
-     "kid": "Make three piles: 'I was noticing it', 'I notice it now' and 'Hard to notice, even now'."
+     "kid": "Put the three labels on the floor, with room for a pile under each."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Play, taking turns. Ask for a reason each time.",
      "say": "Stop and notice it. Which pile? Why?",
-     "kid": "Pick a card. Stop and notice it. Which pile? Why?",
+     "kid": "Pick a card. Stop for five seconds and notice it. Then put it on a pile.",
      "ask": [
       {
        "q": "Why that pile?",
@@ -393,8 +393,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count each pile together.",
-     "say": "Which pile is biggest? What does that tell us about noticing?",
-     "kid": "Count each pile. Which is biggest?",
+     "say": "Let us count the cards in each pile. Which pile has the most?",
+     "kid": "Count the cards in each pile.",
      "ask": [
       {
        "q": "What does the biggest pile tell us?",
@@ -433,7 +433,7 @@
    "title": "Awake, Dream, Deep Sleep: a moving game",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a moving game. A caller reads a card about a moment in the day or night. Players act out awake, dreaming or deep sleep.",
+   "context": "This is a moving game. You will find out how being awake, dreaming and deep sleep are different. A caller reads a card about a moment in the day or night. Players act out awake, dreaming or deep sleep.",
    "printables": [
     {
      "kind": "cards",
@@ -510,8 +510,8 @@
      "id": "s2",
      "mins": 7,
      "do": "Play through the cards. After each, read the back.",
-     "say": "Listen to the card. Awake, dream or deep sleep? Move!",
-     "kid": "Listen. Awake, dream or deep sleep? Move!",
+     "say": "I will read a card. Move the way it says.",
+     "kid": "Listen to the card. Then walk, float or lie still.",
      "ask": [
       {
        "q": "How did you know it was a dream?",
@@ -526,7 +526,7 @@
      "id": "s3",
      "mins": 1,
      "do": "Finish with everyone lying still.",
-     "say": "Now everyone lies still, as if in deep sleep. But you are not asleep. What are you aware of right now? Deep sleep is different, because then you are aware of almost nothing.",
+     "say": "Everyone lie still, like deep sleep. But you are not really asleep, so you can still notice things. In real deep sleep you notice almost nothing.",
      "kid": "Lie still. What are you aware of now?",
      "check": {
       "t": "mcq",
@@ -559,7 +559,7 @@
    "title": "Busy or Still: do you notice more sounds when you pay attention?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you count how many sounds you notice in two minutes while racing to sort beans, and in two minutes while sitting still and listening. You do it in two rooms.",
+   "context": "In this experiment you count how many sounds you notice in two minutes while racing to sort beans, and in two minutes while sitting still and listening. You do it in two rooms. You will find out why a room can seem full of sounds one minute and quiet the next.",
    "question": "Do you notice more sounds when you sit still and listen than when you are busy with a job?",
    "predict": "Guess first. Will you notice more sounds while you are busy, while you sit still, or the same? Why do you think so?",
    "fair_test": "In each room, use the same two minutes and the same rule: tell all the sounds you noticed straight after, and count each sound once. The sound of the beans themselves does not count. Only one thing changes: a busy job or sitting still and listening. In the still round, keep your eyes on the bowl of beans, as you did in the busy round. Do the second room in the other order, so going second is not what makes the difference.",
@@ -618,7 +618,7 @@
      "mins": 3,
      "do": "Ask the question. Wait for a guess and a reason. Write the guess at the top of the paper.",
      "say": "We are going to count sounds. Will you notice more sounds while you are busy, or while you sit still? Why do you think so?",
-     "kid": "Guess: will you notice more sounds while you are busy, or while you sit still? Why?",
+     "kid": "Guess which way you will notice more sounds.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -634,7 +634,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Mix the rajma and chana in the bowl. 2. Put the two katoris beside it. 3. Draw the results table with two rooms.",
+     "do": "1. Mix the rajma and chana in the bowl. 2. Put the two katoris beside it. 3. Write the results table with two rooms.",
      "say": "In the busy round, you sort rajma into one katori and chana into the other, as fast as you can. In the still round, you only listen.",
      "kid": "In the busy round, sort the rajma into one katori and the chana into the other, as fast as you can.",
      "ask": [
@@ -701,7 +701,7 @@
      "id": "s7",
      "mins": 2,
      "do": "Ask about one steady sound, such as the fan or fridge, that was on in both rounds.",
-     "say": "Was the fan running in the busy round too? Did you notice it then? So did the room change, or did something in you change?",
+     "say": "Was the fan running in the busy round too? Did you notice it then?",
      "kid": "Was the fan on in the busy round too? Did you notice it?",
      "ask": [
       {
@@ -721,7 +721,7 @@
    "title": "Same Lemon, Different Sour: does everyone feel the same sour?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment everyone at home tastes three drops of the same lemon juice. Each person shows with their fingers how sour it felt, without looking at anyone else.",
+   "context": "In this experiment everyone at home tastes three drops of the same lemon juice. Each person shows with their fingers how sour it felt, without looking at anyone else. You will find out whether the same lemon tastes the same to everyone.",
    "question": "If everyone tastes the same lemon juice, will everyone show the same amount of sour?",
    "predict": "Guess first. Will everyone hold up the same number of fingers, or different numbers? Why do you think so?",
    "fair_test": "Use one lemon, three drops on a clean spoon for each person, and the same finger scale from 1 for a little sour to 5 for very sour. Everyone shuts their eyes and shows fingers at the same moment, so nobody copies anyone.",
@@ -815,8 +815,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Look at the table together.",
-     "say": "Did everyone show the same number? If two of us both showed four, did we feel the same sour? How could we check?",
-     "kid": "Did everyone show the same? Can you check someone else's sour?",
+     "say": "Did everyone show the same number? If two of us both showed four, did we feel the same sour?",
+     "kid": "Look at the table. Who showed a different number from you?",
      "ask": [
       {
        "q": "Can we know if two fours feel the same?",
@@ -838,7 +838,7 @@
    "title": "The Sound That Went Away",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a soft, steady sound plays while you draw. Then it stops. You find out whether you notice the stop, and whether you were noticing the sound before.",
+   "context": "In this activity a soft, steady sound plays while you are busy making something. Then it stops. You will find out whether you notice the stop, and whether you were hearing the sound before.",
    "materials": [
     {
      "item": "a phone that can play a soft, steady sound, such as rain or a tanpura drone, on low volume (a ticking clock also works)",
@@ -853,7 +853,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Draw for five minutes with a soft sound playing. A grown-up stops it quietly. Talk about what you noticed."
+     "what": "Draw or fold paper for five minutes with a soft sound playing. A grown-up stops it quietly. Talk about what you noticed."
     }
    ],
    "record": "Write yes or no: I noticed when the sound stopped. Write yes or no: I was hearing it just before it stopped.",
@@ -872,23 +872,23 @@
      "id": "s1",
      "mins": 1,
      "do": "Start a soft, steady sound on the phone. Do not say anything about it.",
-     "say": "Here is some paper. Draw your favourite place for five minutes.",
-     "kid": "Draw your favourite place."
+     "say": "Here is some paper. Make your favourite place for five minutes.",
+     "kid": "Draw your favourite place, or tear and fold the paper to make it."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Let the child draw. After about four minutes, quietly stop the sound.",
-     "say": "Keep drawing.",
-     "kid": "Keep drawing.",
+     "say": "Keep going.",
+     "kid": "Keep working on your place.",
      "parent": "Do not look at the phone when you stop it. Watch the child's face."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "Ask the two questions.",
-     "say": "Did anything change just now? Before it stopped, were you hearing the sound?",
-     "kid": "Did something change? Were you hearing it before?",
+     "say": "Did anything change just now?",
+     "kid": "Tell what you noticed just now.",
      "ask": [
       {
        "q": "Were you hearing the sound before it stopped?",
@@ -907,7 +907,7 @@
    "title": "Watch a Noticer: what does another being notice?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you quietly watch an ant, a crow, a pigeon, a gecko or a fly for five minutes, and draw what they seem to notice.",
+   "context": "In this activity you quietly watch an ant, a crow, a pigeon or a gecko for five minutes. You will find out what a small animal pays attention to, and show what they notice in a drawing or in words.",
    "materials": [
     {
      "item": "a being to watch: ants on the kitchen floor, a crow or pigeon at the window, or a gecko on the wall",
@@ -925,7 +925,7 @@
      "what": "Watch one being for five minutes from a little way off. Draw them, and draw what they turned towards or moved away from."
     }
    ],
-   "record": "A drawing of the being, with arrows to what they noticed.",
+   "record": "A drawing of the being, with arrows to what they noticed, or a sentence the child says and a grown-up writes.",
    "setup": [
     {
      "art": "A girl sitting still a little way from a line of ants on a kitchen floor, watching.",
@@ -949,7 +949,7 @@
      "mins": 5,
      "do": "Watch together for five minutes. Talk in whispers.",
      "say": "What do they turn towards? What do they move away from? What makes them stop?",
-     "kid": "Watch. What do they turn to? What do they run from?",
+     "kid": "Watch quietly. Hold up a finger each time they turn or move away.",
      "ask": [
       {
        "q": "What did they notice?",
@@ -964,9 +964,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "The child draws the being, with arrows to what they noticed.",
-     "say": "Draw them. Draw an arrow to each thing they noticed.",
-     "kid": "Draw them. Add arrows to what they noticed.",
+     "do": "The child draws the being, with arrows to what they noticed, or tells you what they noticed.",
+     "say": "Show me what they noticed. Draw it, or tell me.",
+     "kid": "Draw them with arrows to what they noticed, or tell your grown-up.",
      "think": "Did the being turn or move when you moved? If it did, it noticed you, in its own way."
     }
    ]
@@ -976,7 +976,7 @@
    "title": "Five Things Right Now: a counting-down noticing game",
    "mins": 5,
    "days": 1,
-   "context": "In this activity you notice 5 things you see, 4 you hear, 3 you feel touching you, 2 you smell and 1 you taste, wherever you are.",
+   "context": "In this activity you notice 5 things you see, 4 you hear, 3 you feel touching you, 2 you smell and 1 you taste, wherever you are. You will find out how much was around you that you were not noticing.",
    "materials": [
     {
      "item": "nothing but you, in any room",
@@ -1031,7 +1031,7 @@
    "title": "Draw Last Night's Dream",
    "mins": 10,
    "days": 1,
-   "context": "In this activity, first thing in the morning, you draw a dream you remember and talk about who was noticing it.",
+   "context": "In this activity, first thing in the morning, you draw or tell a dream you remember. You will find out who notices a dream while your body lies still in bed.",
    "materials": [
     {
      "item": "paper and crayons, kept beside the bed",
@@ -1045,7 +1045,7 @@
      "what": "In the morning, before getting up, draw a dream you remember. If you remember none, draw the dream you would like."
     }
    ],
-   "record": "The dream drawing, with one sentence about it.",
+   "record": "The dream drawing or the dream told aloud, with one sentence about it.",
    "setup": [
     {
      "art": "A girl sitting up in bed in the morning drawing on a paper on her knees.",
@@ -1061,8 +1061,8 @@
      "id": "s1",
      "mins": 6,
      "do": "Give the child paper and crayons as soon as they wake.",
-     "say": "Did you have a dream? Draw it before it goes. If no dream comes back, draw a dream you would like.",
-     "kid": "Draw your dream. If you forgot, draw one you would like.",
+     "say": "Did you have a dream? Draw it before it goes, or tell it to me. If no dream comes back, make up one you would like.",
+     "kid": "Draw your dream, or tell it to your grown-up. If you forgot, make up one you would like.",
      "parent": "Dreams fade quickly after waking, so do this before breakfast. Many children remember no dream. That is normal. Almost everyone dreams every night."
     },
     {
@@ -1070,7 +1070,7 @@
      "mins": 4,
      "do": "Talk about the drawing.",
      "say": "In your dream, did it feel real? Your body was lying in bed. So who was noticing the dream?",
-     "kid": "Did it feel real? Who was noticing the dream?",
+     "kid": "Think about your dream. Did it feel real?",
      "ask": [
       {
        "q": "Who was noticing the dream?",
@@ -1090,7 +1090,7 @@
    "title": "My Noticing Diary: five days, five senses",
    "mins": 50,
    "days": 5,
-   "context": "In this project you spend ten minutes a day noticing with one sense, and draw one thing at home you had never noticed before.",
+   "context": "In this project you spend ten minutes a day noticing with one sense, and keep a five-page diary of what you find. You will find out how many things at home you had never noticed.",
    "materials": [
     {
      "item": "five sheets of paper folded and tied with thread into a small book",
@@ -1110,25 +1110,25 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Hearing: sit still at a window for two minutes, then draw the sound you had never noticed before."
+     "what": "Hearing: sit still at a window for two minutes, then tell the sound you had never noticed before."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Touch: feel five surfaces with your eyes shut, and draw the one that surprised you."
+     "what": "Touch: feel five different surfaces with your eyes shut, such as a cloth, a coin, a leaf, a steel spoon and a sponge. Sort them into rough and smooth, and tell which one surprised you."
     },
     {
      "day": 4,
      "mins": 10,
-     "what": "Smell: smell five things in the kitchen with your eyes shut, such as jeera, coffee, coconut, a lemon and soap. Draw your favourite."
+     "what": "Smell: smell five things in the kitchen with your eyes shut, such as jeera, coffee, coconut, a lemon and soap. Tell which you like best, and why."
     },
     {
      "day": 5,
      "mins": 10,
-     "what": "Taste: eat one small piece of fruit very slowly, and draw how the taste changed."
+     "what": "Taste: eat one small piece of fruit very slowly, and say how the taste changed."
     }
    ],
-   "record": "The five-page diary, with one drawing and one sentence a day. The child says the sentence and a grown-up can write it.",
+   "record": "The five-page diary: a drawing or photo on day 1, and one sentence a day. The child says the sentence and a grown-up can write it.",
    "setup": [
     {
      "art": "Five sheets of paper folded and tied with a thread into a little book with 'My Noticing Diary' on the cover.",
@@ -1136,7 +1136,7 @@
     },
     {
      "art": "An open page with a drawing of a crack in a wall shaped like a river, and one sentence under it.",
-     "caption": "2. Each day, draw one new thing you noticed."
+     "caption": "2. Each day, add one new thing you noticed: a drawing or a sentence."
     }
    ],
    "flow": [
@@ -1145,14 +1145,14 @@
      "mins": 10,
      "do": "Day 1. Make the five-page diary. Then do the seeing page.",
      "say": "Today you are a noticing detective. Find one thing in our home that you have never noticed before.",
-     "kid": "Find one thing at home you never noticed. Draw it."
+     "kid": "Find one thing at home you never noticed. Draw it, or take a photo."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "Days 2 and 3. Do the hearing page and the touch page.",
-     "say": "Sit at the window and listen. Which sound is new to you? Now feel things with your eyes shut.",
-     "kid": "Listen at the window. Then feel things with eyes shut. Draw one each day."
+     "do": "Days 2 and 3. Do the hearing page and the touch page. For touch, gather five things with different surfaces.",
+     "say": "Day 2: sit at the window and listen. Which sound is new to you? Day 3: feel things with your eyes shut.",
+     "kid": "Day 2: listen at the window and tell the new sound. Day 3: feel five things with eyes shut and sort them into rough and smooth."
     },
     {
      "id": "s3",
@@ -1165,8 +1165,8 @@
      "id": "s4",
      "mins": 10,
      "do": "Day 5. Do the taste page, then look back at the whole book.",
-     "say": "Eat this piece very slowly. Does the taste change? Which day did you notice the most?",
-     "kid": "Eat it slowly. Does the taste change? Look at your book.",
+     "say": "Eat this piece very slowly. What does it taste like at the start, and at the end?",
+     "kid": "Eat it slowly and notice. Then look through your book.",
      "ask": [
       {
        "q": "Why did you find new things in a home you know so well?",
@@ -1214,7 +1214,7 @@
      "mins": 3,
      "do": "Read the challenge together.",
      "say": "Why do people stop noticing a sign after a few days?",
-     "kid": "Why do people stop noticing a sign?",
+     "kid": "Think of a sign you pass every day. Do you still see it?",
      "ask": [
       {
        "q": "Why?",
@@ -1235,7 +1235,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Put it up. Agree how you will count for three days.",
+     "do": "Count how many times the light is left on this evening, before the sign goes up. Then put the sign up, and count again each evening for three days.",
      "say": "Each evening, we check the light. Will your reminder still work on day three?",
      "kid": "Put it up. Check the light each evening for three days.",
      "think": "What makes something hard to get used to?"

@@ -548,7 +548,7 @@
       "title": "Who Am I? The Life Stage Game",
       "mins": 25,
       "players": "2 to 6 players",
-      "context": "This is a card game about the stages of a human life: baby, child, teenager, adult and older adult. Players read a clue card, decide which stage it describes, and then turn the card over to check.",
+      "context": "This is a card game about the stages of a human life: baby, child, teenager, adult and older adult. Players read a clue card, decide which stage it describes, and then turn the card over to check. You will find out which body changes belong to which stage of life.",
       "printables": [
         {
           "kind": "cards",
@@ -716,8 +716,8 @@
           "id": "s2",
           "mins": 13,
           "do": "Take turns reading cards and placing them. After each card, ask the player to say why.",
-          "say": "Read the card out loud. Which stage is it? Tell us why you think so.",
-          "kid": "Read your card out loud. Which stage is it? Say why.",
+          "say": "Which stage is it? Put the card there, and tell us why you think so.",
+          "kid": "Take the top card. Read it out loud. Put it on the stage you think fits.",
           "ask": [
             {
               "q": "Why does 'My head is one quarter of my whole length' go on BABY?",
@@ -766,32 +766,32 @@
       "title": "Journey to 100",
       "mins": 25,
       "players": "2 to 4 players",
-      "context": "This is a board game like snakes and ladders. Each square is one year of a life, from 1 to 100. Ladders are habits that help a body at every age. Slides are things that harm it.",
+      "context": "This is a board game like snakes and ladders. Each square is one year of a life, from 1 to 100. Ladders are habits that help a body at every age. Slides are things that harm it. You will find out which habits help a body stay healthy for a long life.",
       "printables": [
         {
           "kind": "board",
           "title": "A 10 by 10 board of 100 squares, each row a decade of life",
           "items": [
-            "1: START. Baby years (draw a baby)",
+            "1: START. Baby years (draw or stick on a baby picture)",
             "2",
             "3",
             "4",
             "5",
-            "6: Child years begin (draw toys and school bags)",
+            "6: Child years begin (draw or stick on toys and school bags)",
             "7",
             "8: LADDER up to 24: You play outside every day. Strong bones for life!",
             "9",
             "10: LIFE CARD square",
             "11",
             "12",
-            "13: Teenager years begin (draw a growing door-frame)",
+            "13: Teenager years begin (draw or stick on a growing door-frame)",
             "14: Bottom of the slide from 33",
             "15: LIFE CARD square",
             "16",
             "17",
             "18",
             "19",
-            "20: Adult years begin (draw work and family). LIFE CARD square",
+            "20: Adult years begin (draw or stick on work and family). LIFE CARD square",
             "21",
             "22",
             "23",
@@ -831,7 +831,7 @@
             "57: Top of the ladder from 38",
             "58",
             "59",
-            "60: Older adult years begin (draw grandchildren, walking sticks and books). LIFE CARD square",
+            "60: Older adult years begin (draw or stick on grandchildren, walking sticks and books). LIFE CARD square",
             "61",
             "62",
             "63: LADDER up to 84: You do strength exercises, even at 63.",
@@ -959,7 +959,7 @@
           "mins": 7,
           "do": "When the first player reaches 100, ask every player to tell one thing that happened in their \"life\".",
           "say": "Someone made it to 100. Tell us one ladder you climbed, and one slide you fell down. Which habit would you like to start today?",
-          "kid": "Someone made it to 100! Say one ladder you climbed. Pick one good habit to start today.",
+          "kid": "Someone made it to 100! Say one ladder you climbed and one slide you fell down.",
           "ask": [
             {
               "q": "Which ladders could you start climbing right now, at your age?",
@@ -1619,11 +1619,11 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Guess whose skin will go flat fastest. Test each person 3 times and write down the seconds. Then draw a bar chart."
+          "what": "Guess whose skin will go flat fastest. Test each person 3 times and write down the seconds. Then make a bar chart."
         }
       ],
-      "record": "Fill in the table. Then draw a bar chart. Draw one bar for each person, in order of age. Make each bar as tall as that person's middle value.",
-      "context": "This is the snap-back skin test. You gently pinch the skin on the back of a hand for 3 seconds, let go, and count how long the skin takes to go flat. You compare people of different ages.",
+      "record": "Fill in the table. Then make a bar chart. Make one bar for each person, in order of age. Draw it, or build each bar from buttons, one button for each second. Make each bar as tall as that person's middle value.",
+      "context": "This is the snap-back skin test. You gently pinch the skin on the back of a hand for 3 seconds, let go, and count how long the skin takes to go flat. You compare people of different ages. You will find out if skin springs back more slowly as people get older.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: seconds for pinched skin to go flat",
@@ -1673,7 +1673,7 @@
           "mins": 2,
           "do": "Ask your child to guess, and to line up the people from fastest to slowest.",
           "say": "We will gently pinch the skin on the back of a hand, let go, and count until it goes flat. Whose skin do you think will go flat fastest? Why do you think so?",
-          "kid": "We will pinch skin gently and see how fast it goes flat. Guess whose skin is fastest. Line everyone up, fastest to slowest. Say why.",
+          "kid": "Guess whose skin will go flat fastest. Line everyone up, fastest to slowest. Say why.",
           "context": "This is the first step of the snap-back skin test. Here you guess what will happen before testing."
         },
         {
@@ -1697,9 +1697,9 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "For each person, find the middle value of the three tries. Then draw the bar chart.",
-          "say": "Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try. Then draw one bar for each person, in order of age.",
-          "kid": "Put the 3 numbers in order. The middle one is the one we use. Draw a bar for each person.",
+          "do": "For each person, find the middle value of the three tries. Then make the bar chart.",
+          "say": "Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try. Then make one bar for each person, in order of age. Draw it, or build each bar from buttons, one for each second.",
+          "kid": "Put the 3 numbers in order. The middle one is the one we use. Make a bar for each person. Draw it, or use buttons.",
           "context": "This step of the snap-back skin test is about finding the middle value of three tries and drawing the bar chart."
         },
         {
@@ -1752,11 +1752,11 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Guess who can read tiny print closest. Measure each person's closest sharp reading distance 3 times. Then draw a bar chart."
+          "what": "Guess who can read tiny print closest. Measure each person's closest sharp reading distance 3 times. Then make a bar chart."
         }
       ],
-      "record": "Fill in the table. Then draw a bar chart, one bar for each person in order of age.",
-      "context": "This is the near point test. A person holds a card with tiny print at arm's length, then slowly brings it closer. When the letters go blurry, you measure the distance from the card to their face.",
+      "record": "Fill in the table. Then make a bar chart, one bar for each person in order of age. Draw it, or build each bar from buttons, one button for each 5 centimetres.",
+      "context": "This is the near point test. A person holds a card with tiny print at arm's length, then slowly brings it closer. When the letters go blurry, you measure the distance from the card to their face. You will find out how age changes the closest distance at which a person can read.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: closest distance at which tiny print looks sharp",
@@ -1806,7 +1806,7 @@
           "mins": 2,
           "do": "Ask your child to guess who can read tiny print closest.",
           "say": "Some grown-ups hold a phone far away to read it. Let's measure how close each person in our family can hold tiny print and still read it. Who do you think can hold it closest? Who will need it furthest away? Why do you think so?",
-          "kid": "Some grown-ups hold a phone far away to read it. Guess who can read tiny print closest to their nose. Say why.",
+          "kid": "Guess who can read tiny print closest to their nose. Say why.",
           "context": "This is the first step of the near point test. You guess who can read tiny print closest to their face."
         },
         {
@@ -1821,9 +1821,9 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Draw the bar chart together, then look at the bars.",
-          "say": "Draw one bar for each person, in order of age. Look at the bars. What happens to the distance as people get older?",
-          "kid": "Draw a bar for each person. Look at your bars. What happens as people get older?",
+          "do": "Make the bar chart together, then look at the bars.",
+          "say": "Make one bar for each person, in order of age. Draw it, or use buttons. Look at the bars. What happens to the distance as people get older?",
+          "kid": "Make a bar for each person, in order of age. Look at your bars. What do you see?",
           "check": {
             "t": "mcq",
             "q": "In the near point test, a grandmother of 58 needed the card 60 centimetres away. A child of 8 could read it at 8 centimetres. Why?",
@@ -1889,8 +1889,8 @@
           "what": "Guess who will hear the highest sound. Play four high sounds quietly. Write down who heard each one."
         }
       ],
-      "record": "Fill in the table. Draw a tick for each sound a person heard. Then colour in a bar for each person up to their highest sound.",
-      "context": "This is the high sound test. A grown-up plays quiet beeps that get higher and higher. Everyone raises a hand when they hear one. You find the highest sound each person can hear.",
+      "record": "Fill in the table. Write a tick for each sound a person heard. Then line the people up in order of the highest sound they heard, and say what you notice.",
+      "context": "This is the high sound test. A grown-up plays quiet beeps that get higher and higher. Everyone raises a hand when they hear one. You find the highest sound each person can hear. You will find out if ears hear high sounds less well as people get older.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: the highest sound each person heard",
@@ -1955,7 +1955,7 @@
           "mins": 3,
           "do": "Look at the table together.",
           "say": "Who heard the highest sound? Why do you think older ears miss the highest sounds?",
-          "kid": "Who heard the highest beep? Why might older ears miss it?",
+          "kid": "Look at the table. Who heard the highest beep?",
           "check": {
             "t": "mcq",
             "q": "In the high sound test, a child heard a beep of 15,000 hertz. Her grandfather did not. What is the best reason?",
@@ -2006,8 +2006,8 @@
           "what": "Compare hands of different ages. Say what you notice and wonder."
         }
       ],
-      "record": "Draw around your hand and an elder's hand on one sheet. Write three things you noticed.",
-      "context": "This is a noticing activity to start the unit. You look closely at the hands of people of different ages and say what you notice and what you wonder.",
+      "record": "Take a photo of the hands side by side, or draw around them on one sheet. Say or write three things you noticed.",
+      "context": "This is a noticing activity to start the unit. You look closely at the hands of people of different ages and say what you notice and what you wonder. You will see what is the same and what is different between young and old hands.",
       "setup": [
         {
           "art": "Three hands laid flat side by side on a table: a child's, a parent's and a grandparent's.",
@@ -2019,7 +2019,7 @@
         },
         {
           "art": "Two hand outlines drawn on paper, a small one inside a bigger one, with notes around them.",
-          "caption": "3. Draw around both hands and write what you noticed."
+          "caption": "3. Take a photo of the hands, or draw around them, and say what you noticed."
         }
       ],
       "flow": [
@@ -2028,7 +2028,7 @@
           "mins": 5,
           "do": "1. Lay your hands flat next to your child's, and an elder's if possible. 2. Look in silence for one minute.",
           "say": "Let's just look for one minute, without talking. Then tell me what you notice. There are no wrong answers.",
-          "kid": "Put your hand next to a grown-up's hand. Look for one minute. What do you notice?",
+          "kid": "Put your hand next to a grown-up's hand. Look closely for one minute.",
           "ask": [
             {
               "q": "What do you notice?",
@@ -2054,9 +2054,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Draw around both hands on one sheet. Write three noticings next to them.",
-          "say": "Every hand here was once a baby's hand. Let's draw around them and write down what we noticed. We will find out why during this unit.",
-          "kid": "Draw around your hand and a grown-up's hand. Write three things you noticed.",
+          "do": "Take a photo of the hands side by side, or draw around them on one sheet. Then write down three noticings.",
+          "say": "Every hand here was once a baby's hand. Let's keep a picture of them and write down what we noticed. We will find out why during this unit.",
+          "kid": "Take a photo of the hands, or draw around them. Tell three things you noticed.",
           "think": "An elder's hand was once as small as yours. When did it change?",
           "context": "This is the last step of Hands Across Time. You draw around hands and write what you noticed.",
           "parent": "The hand did not change on one day. It grew a little every day through childhood and the teenage years, and it stopped growing taller in the late teens. After that, the skin changed slowly, a little each year."
@@ -2082,11 +2082,11 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Ask an elder about how their body and life have changed. Write or draw their answers."
+          "what": "Ask an elder about how their body and life have changed. Write down or record their answers."
         }
       ],
-      "record": "Write or draw three of the elder's answers. Add one thing that surprised you.",
-      "context": "In this activity you interview an elder about their life: what their body could do when they were 8, what has changed, and what has got better.",
+      "record": "Write down three of the elder's answers, or record them on a phone. Add one thing that surprised you.",
+      "context": "In this activity you interview an elder about their life: what their body could do when they were 8, what has changed, and what has got better. You will find out how a body changes over a whole life, from someone who has lived it.",
       "setup": [
         {
           "art": "A child sitting cross-legged in front of a grandmother on an oonjal swing, holding a notebook and pencil.",
@@ -2152,8 +2152,8 @@
           "what": "Act out the stages of life with your body, from baby to elder and back."
         }
       ],
-      "record": "Draw yourself in your favourite pose from the parade, and label the life stage.",
-      "context": "This is a movement activity. You act out each life stage with your body, from a curled-up baby to an elder, to feel how bodies change.",
+      "record": "Hold your favourite pose from the parade and let your grown-up take a photo. Say which life stage it shows.",
+      "context": "This is a movement activity. You act out each life stage with your body, from a curled-up baby to an elder, to feel how bodies change. You will find out how a body moves differently at each stage by moving like each one yourself.",
       "setup": [
         {
           "art": "A child curled up small on a mat like a newborn baby.",
@@ -2182,11 +2182,11 @@
           "id": "s2",
           "mins": 4,
           "do": "Stop and talk.",
-          "say": "When you were an elder, you walked slowly and carefully. Why do you think elders do that?",
-          "kid": "Why do elders walk carefully? What could happen if they fell?",
+          "say": "You walked slowly and carefully, like an elder. Why do you think elders do that?",
+          "kid": "Think about what could happen to an elder who falls.",
           "check": {
             "t": "mcq",
-            "q": "In the parade, you walked carefully like an elder. Why do many elders walk carefully on wet floors?",
+            "q": "Why do many elders walk carefully on wet floors?",
             "options": [
               "Their bones are thinner, so a fall can break one more easily",
               "They are always tired",
@@ -2236,7 +2236,7 @@
           "what": "Try everyday tasks with socks on your hands and smeared glasses. Then think about how to help."
         }
       ],
-      "record": "Write which task was hardest, and one idea to make it easier for an elder.",
+      "record": "Say or write which task was hardest, and one idea to make it easier for an elder.",
       "context": "This activity helps you understand elders. You wear thick socks on your hands and smeared glasses to feel a little of what stiff fingers and older eyes can be like, then think of ways to help.",
       "setup": [
         {
@@ -2258,7 +2258,7 @@
           "mins": 8,
           "do": "1. Time how long it takes to pick up 5 coins with bare hands, then with socks on your hands. 2. Try to do up 3 buttons with the socks on. 3. Sitting down, try to read small print through the smeared glasses.",
           "say": "As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can also get cloudy, because the lens inside can cloud over. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.",
-          "kid": "Pick up coins with bare hands. Then with socks on your hands. Try buttons with socks on. Sit down and look through the smeared glasses.",
+          "kid": "Time yourself picking up 5 coins with bare hands. Then do it with socks on your hands. Try 3 buttons with socks on. Sit down and read small print through the smeared glasses.",
           "context": "This is the first step of Socks on Your Hands. You try tasks with thick socks on your hands and smeared glasses."
         },
         {
@@ -2279,7 +2279,7 @@
           ],
           "check": {
             "t": "mcq",
-            "q": "In this activity, you wore thick socks on your hands. Which change in older bodies were the socks a model of?",
+            "q": "Which change in older bodies did the thick socks copy?",
             "options": [
               "Stiffer joints and less sharp touch in the fingers",
               "Growing taller",
@@ -2319,7 +2319,7 @@
           "what": "Model how the body replaces some cells fast, some slowly and some never."
         }
       ],
-      "record": "Draw your body outline and colour the parts that are replaced fast, slowly and never.",
+      "record": "Point to the parts that were swapped fast, swapped slowly and never swapped, and take a photo of your paper body. Tell your grown-up which parts are as old as you.",
       "context": "This is a model activity. Sticky notes stand for cells in a paper body. You replace some notes quickly, some slowly and some never, to see how a body changes while staying the same body.",
       "setup": [
         {
@@ -2339,7 +2339,7 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "1. Draw a big body outline. 2. Label areas: skin, blood, gut, bones, brain, eye lens. 3. Cover each area with a few yellow sticky notes (about 5 notes each).",
+          "do": "1. Draw a big body outline. 2. Label areas: skin, blood, gut, bones, brain, eye lens. 3. Cover each area with a few yellow sticky notes (3 notes each).",
           "say": "Each yellow note is a group of cells. This is you, on the day you were born.",
           "kid": "Cover the body with yellow notes. Each note is a group of cells. This is you as a newborn.",
           "context": "This is the first step of the Sticky-Note Body. You make a paper body covered with paper 'cells'."
@@ -2347,9 +2347,9 @@
         {
           "id": "s2",
           "mins": 7,
-          "do": "Call out time passing. At each call, swap the notes listed. The first time you swap an area, peel off its yellow notes and stick on pink ones. After that, peel the pink notes off and stick them back on as 'new'. One week passes: swap the gut notes. One month passes: swap gut and skin. Four months pass: swap gut, skin and blood. Ten years pass: swap gut, skin, blood and bones. Never swap the brain or eye lens notes.",
+          "do": "Call out time passing. At each call, swap the notes listed. The first time you swap an area, peel off its yellow notes and stick on pink ones. Each later time, peel the pink notes off and stick the same notes back on. One week passes: swap the gut notes. One month passes: swap gut and skin. Four months pass: swap gut, skin and blood. Ten years pass: swap gut, skin, blood and bones. Never swap the brain or eye lens notes.",
           "say": "One week passes. Swap the gut. One month passes. Swap the gut and the skin. Four months pass. Swap gut, skin and blood. Ten years pass. Swap the bones too. What about the brain and the eye lens? We leave them.",
-          "kid": "After a week, swap the gut notes. After a month, swap gut and skin. After four months, swap gut, skin and blood. After ten years, swap all of those and the bones. Never swap the brain or the eye lens.",
+          "kid": "Listen for each time jump. Swap only the notes your grown-up names. Never swap the brain or the eye lens.",
           "parent": "These are rough times. Real cells are replaced a few at a time, all the time, not all at once.",
           "context": "This is the main step of the Sticky-Note Body. You swap paper 'cells' at different speeds."
         },
@@ -2358,7 +2358,7 @@
           "mins": 5,
           "do": "Look at the body together.",
           "say": "Most of this body is new now. Some parts are as old as you. Is it still the same person?",
-          "kid": "Most notes are new now. Some are still old. Is it still you?",
+          "kid": "Look at the paper body. Point to the notes that are still yellow. Which parts are they?",
           "think": "If your body is always changing, what is the 'you' that stays?",
           "context": "This is the last step of the Sticky-Note Body. You look at what is new and what is old.",
           "parent": "There is no single right answer. Some people say it is your memories. Some say it is the way you think and feel. Some say it is your name and your family. The cells in the brain that last a lifetime may be part of it too."
@@ -2393,7 +2393,7 @@
         }
       ],
       "record": "Your finished life line, with each life stage labelled.",
-      "context": "In this activity you make a life line: a long strip of paper with photos or drawings of a person at different ages, from baby to now.",
+      "context": "In this activity you make a life line: a long strip of paper with photos or drawings of a person at different ages, from baby to now. You will see how much one person changes, and how long a life is.",
       "setup": [
         {
           "art": "A long paper strip on the floor marked with years 0, 1, 2, 3 and so on, with baby photos and drawings stuck on the strip.",
@@ -2422,7 +2422,7 @@
           "mins": 10,
           "do": "Make a longer line for an elder, with their help, from girl or boy to now. Label the stages.",
           "say": "Now let's do an elder's life. Their line is much longer. Can you find where they were your age?",
-          "kid": "Make a long line for an elder. Find where they were your age.",
+          "kid": "Make a long line for an elder, with their help. Label each stage.",
           "check": {
             "t": "mcq",
             "q": "On the elder's life line, which stage comes straight after being a teenager?",
@@ -2469,7 +2469,7 @@
         {
           "day": 2,
           "mins": 20,
-          "what": "Draw one page for each age: the elder at that age, next to you now. Add a body change they remember."
+          "what": "Make one page for each age: the elder at that age, next to you now. Use an old photo or a drawing. Add a body change they remember."
         },
         {
           "day": 3,
@@ -2478,7 +2478,7 @@
         }
       ],
       "record": "The finished book, with at least 4 'then and now' pages.",
-      "context": "In this 3-day project you make a book with an elder. Each page shows the elder at some age next to you, with what their body and life were like then.",
+      "context": "In this 3-day project you make a book with an elder. Each page shows the elder at some age next to you, with what their body and life were like then. You will find out how a body and a life change over time, and give the book as a gift.",
       "setup": [
         {
           "art": "An elder and a child at a table folding paper into a small book.",
@@ -2507,9 +2507,9 @@
           "id": "s2",
           "mins": 20,
           "wait": "Come back the next day.",
-          "do": "Draw one page for each age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.",
-          "say": "On each page, draw the elder at that age. Write one way their body was different then.",
-          "kid": "Draw the elder at each age. Write one body change on each page.",
+          "do": "Make one page for each age. Stick on an old photo of the elder, or draw them at that age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.",
+          "say": "On each page, put the elder at that age: a photo or a drawing. Write one way their body was different then.",
+          "kid": "Put the elder at each age on a page. Write one body change on each page.",
           "context": "This is day 2 of the Then and Now Book. You draw the pages."
         },
         {
@@ -2582,9 +2582,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Plan three ideas before building.",
-          "say": "Before we build, let's think like designers. Draw three ideas.",
-          "kid": "Think like a designer. Draw three ideas before you build.",
+          "do": "Ask your child for three ideas before building.",
+          "say": "Before we build, let's think like designers. What three things would help an elder most?",
+          "kid": "Pick three ideas before you build. Say them to your grown-up, or sketch them.",
           "context": "This step of Design an Elder-Friendly Room is for planning ideas before building."
         },
         {
@@ -2630,7 +2630,7 @@
         "Put a wooden spoon handle through a rubber band around the lid, and turn the spoon like a spanner.",
         "Hold a metal lid under warm tap water for a minute. Metal grows very slightly bigger when warm, so the lid loosens."
       ],
-      "your_turn": "Now invent your own jar opener. Draw it, make it and test it. Give the best one to an elder you know.",
+      "your_turn": "Now invent your own jar opener. Plan it, make it and test it. Give the best one to an elder you know.",
       "context": "This is an engineering challenge. You invent ways to open a tight jar lid with less grip, to help elders whose hands have got weaker with age.",
       "setup": [
         {
@@ -2658,7 +2658,7 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "A grown-up closes the jar tightly again before each idea. Try each idea in turn. Give each a score: 1 for hard, 2 for OK, 3 for easy.",
+          "do": "A grown-up closes the jar tightly again before each idea. Try each idea from the list in turn. Give each a score: 1 for hard, 2 for OK, 3 for easy.",
           "say": "Let's test every idea on the same jar, and score it.",
           "kid": "Test each idea on the same jar. Score it 1, 2 or 3.",
           "check": {

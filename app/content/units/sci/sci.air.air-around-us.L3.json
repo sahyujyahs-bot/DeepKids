@@ -381,7 +381,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about hidden air. Each card shows a thing. You win the card if you can say whether air is hiding in it, and where.",
+   "context": "This is a card game about hidden air. Each card shows a thing. You win the card if you can say whether air is hiding in it, and where. You will find out that air hides inside many things that look solid.",
    "printables": [
     {
      "kind": "cards",
@@ -586,16 +586,16 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the cards. 2. Make the two piles. 3. Read the rules together.",
-     "say": "Air hides in lots of places. Turn a card and tell me where the air is hiding in that thing.",
-     "kid": "Turn over a card. Where is the air hiding? Say it!",
+     "say": "Air hides in lots of places. Let's see how many we can find.",
+     "kid": "Turn over a card. Say where the air is hiding in that thing.",
      "context": "This is the first step of Where Is the Air Hiding?, a card game about hidden air."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Play one practice turn together with the sponge card.",
-     "say": "Practice turn. Here is a sponge. Is there air in it? Where?",
-     "kid": "Practice turn. Is there air in a sponge?",
+     "say": "Practice turn. Here is the sponge card. Is there air hiding in a sponge?",
+     "kid": "Look at the sponge card. Think about what a sponge looks like close up.",
      "check": {
       "t": "mcq",
       "q": "Where is the air in a kitchen sponge?",
@@ -613,7 +613,7 @@
      "mins": 12,
      "do": "1. Take turns. 2. Check each answer on the back of the card. 3. Keep score.",
      "say": "Your turn. Where is the air hiding? How could you test it?",
-     "kid": "Your turn. Where is the air hiding? How could you test it?",
+     "kid": "Turn a card. Say where the air is hiding. Then say how you could test it.",
      "parent": "Ask for a test whenever you can, such as squeezing it under water. The spoon, marble and stone are tricky ones. A strong answer says 'no air inside, only around it'."
     },
     {
@@ -621,7 +621,7 @@
      "mins": 2,
      "do": "Finish the game. Then look at the cards that had no air inside.",
      "say": "Look at the cards with no air inside. What do those things have in common?",
-     "kid": "Look at the cards with no air inside. What do they have in common?",
+     "kid": "Put the no-air cards in one pile. Look at them closely. What is the same about them?",
      "think": "Can you find a thing in our home with no air in it at all?",
      "parent": "A good answer to the first question is that they are solid all the way through, so they have no holes or gaps where air could hide. For the think question, a solid thing such as a steel spoon or a glass marble has no air inside. Air is only around it."
     }
@@ -644,7 +644,7 @@
    "title": "The Full Glass: how much of a glass of chana is air?",
    "mins": 30,
    "days": 1,
-   "context": "This is the main investigation of the unit. You fill a glass to the top with grains, then find out how much water still fits in. The water takes the place of the air between the grains.",
+   "context": "This is the main investigation of the unit. You fill a glass to the top with grains, then find out how much water still fits in. The water takes the place of the air between the grains, so you will find out how much of a full glass is really air.",
    "question": "A glass filled to the top with chana looks full. How much water can still go in? Do big grains leave more room for air than small ones?",
    "predict": "Look at the three grains: big chana, middle-sized moong and tiny mustard seeds. You will fill a glass with each one in turn and pour in water. Which glass do you think will take in the most water? Why do you think so?",
    "fair_test": "Use the same two glasses every time: glass A for the grain and glass B for the water. Fill glass A with grain to its tape line, and tap it the same way each time so the grains settle. Fill glass B with water to its tape line each time. Pour slowly from glass B and stop when the water just reaches the tape line on glass A. Only the kind of grain changes.",
@@ -691,14 +691,14 @@
      "what": "Fill a glass with each grain in turn. Pour in water until it reaches the top, and measure how much went in. Compare the three grains."
     }
    ],
-   "record": "Fill in the table. Then draw the glass of chana with water in it, and draw where the air was before the water came.",
+   "record": "Fill in the table. Then draw a glass of chana and mark where the air was before the water came. Or tell your grown-up where the air was.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Stick a strip of tape round both glasses, at the same height, about 2 cm below the rim. 2. Fill glass A with dry chana up to the tape line. 3. Tap the glass gently on the table so the grains settle, then top it up to the line. 4. Fill glass B with water up to its tape line.",
-     "say": "Glass A is full of chana, right up to the line. Is there any room left in it? If we pour in water, what will happen?",
-     "kid": "Fill glass A with chana up to the tape. Tap it and top it up. Fill glass B with water up to the tape. Is glass A full?",
+     "say": "Glass A is full of chana, right up to the line. If we pour water in, what do you think will happen?",
+     "kid": "Fill glass A with chana up to the tape. Tap it and top it up. Fill glass B with water up to the tape.",
      "ask": [
       {
        "q": "Is glass A full?",
@@ -714,8 +714,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Show your child the three grains: chana, moong and mustard seeds. Ask them to guess which glass will take in the most water, and why. Write the guesses in the table.",
-     "say": "We'll do this with big chana, middle-sized moong and tiny mustard seeds. Which glass will take in the most water? Why do you think so?",
-     "kid": "Look at the three grains. Which glass will take the most water? Why?",
+     "say": "We will test big chana, middle-sized moong and tiny mustard seeds. Make your guess first.",
+     "kid": "Look at the three grains. Line them up from the biggest to the smallest.",
      "ask": [
       {
        "q": "Which grain will take in the most water, and why?",
@@ -758,8 +758,8 @@
      "id": "s5",
      "mins": 6,
      "do": "Look at the table together. Ask your child to say, or write, what they think, what they saw, and why.",
-     "say": "What do you think now? What did you see? Why do you think it happened? Was the glass of chana really full?",
-     "kid": "Was the glass of chana really full? Say what you saw, and why you think it happened.",
+     "say": "What do you think now? What did you see? Was the glass of chana really full?",
+     "kid": "Look at your table. Which grain let in the most water, and which the least? Tell your grown-up what you saw.",
      "ask": [
       {
        "q": "Why did the water go into a glass that was already full of chana?",
@@ -797,7 +797,7 @@
    "title": "Squash It: can you squeeze air into less space? Can you squeeze water?",
    "mins": 20,
    "days": 1,
-   "context": "This experiment uses a plastic syringe with no needle. You find out whether air and water can be squashed into less space.",
+   "context": "This experiment uses a plastic syringe with no needle. You find out whether air and water can be squashed into less space. You will find out why a bicycle pump can pack air into a tyre.",
    "question": "If you block the end of a syringe and push the plunger, how far will it go in with air inside? How far with water inside?",
    "predict": "Will the plunger go in further with air or with water inside, or not at all with either? Why do you think so?",
    "fair_test": "Use the same syringe each time. Start with the plunger at the same mark. Block the tip with the same finger, pressed hard. Push as hard as you can each time. Only what is inside changes: air, then water, then half and half.",
@@ -830,7 +830,7 @@
      "what": "Squash air in a syringe, then water, then half air and half water. Record how far the plunger goes."
     }
    ],
-   "record": "Fill in the table. Then draw two syringes. In one, draw dots for air particles far apart. In the other, draw dots for water particles touching.",
+   "record": "Fill in the table. Then show the particles in two syringes. Draw dots far apart for air and dots touching for water, or lay out beans or buttons to show each.",
    "flow": [
     {
      "id": "s1",
@@ -871,9 +871,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Look at the table together. Ask your child to say what they saw, and why they think it happened. Then look together at the drawing of particles in the card 'Air can be squashed'.",
-     "say": "Air squashed, and water hardly did. What does that tell you about the tiny particles inside air and inside water?",
-     "kid": "Air squashed. Water didn't. What does that tell you about their tiny particles?",
+     "do": "Look at the table together. Then act out the particles: stand far apart for air, and shoulder to shoulder for water. Last, look at the drawing of particles in the card 'Air can be squashed'.",
+     "say": "Air squashed, and water hardly did. Let's be the tiny particles. First stand far apart, like air, and try to move closer. Now stand shoulder to shoulder, like water. Can you move closer now?",
+     "kid": "Be the particles. Far apart is air. Shoulder to shoulder is water. In which one can you move closer?",
      "ask": [
       {
        "q": "Why can air be squashed but water hardly at all?",
@@ -933,7 +933,7 @@
      "what": "Try to blow up a balloon inside a bottle. Make a hole and try again."
     }
    ],
-   "record": "Draw the bottle and balloon before and after the hole. Draw where the air is in each.",
+   "record": "Take a photo of the balloon in the bottle before and after the hole, or draw it. Then tell your grown-up where the air is in each.",
    "flow": [
     {
      "id": "s1",
@@ -964,9 +964,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about it together.",
-     "say": "Why did the hole make it easy? And why did the balloon stay big when you covered the hole?",
-     "kid": "Why did the hole help? Why did the balloon stay big?",
+     "do": "Cover the hole again and blow up the balloon. Lift your finger off the hole and watch the balloon. Then talk about it together.",
+     "say": "Let's see what the hole does once more. What happens to the balloon when you lift your finger? Why do you think so?",
+     "kid": "Blow up the balloon, cover the hole, then lift your finger. Watch what the balloon does.",
      "check": {
       "t": "mcq",
       "q": "Why could you blow up the balloon only after the hole was made?",
@@ -1020,14 +1020,14 @@
      "what": "Use a straw and a finger to trap water, then to keep water out."
     }
    ],
-   "record": "Draw the straw in the water two ways: with the top open and with the top closed.",
+   "record": "Show the straw in the water two ways: with the top open and with the top closed. Draw it, or tell your grown-up what you saw each time.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Dip the straw into the water. 2. Put a finger tightly over the top. 3. Lift the straw out and hold it over the glass. 4. Lift the finger.",
      "say": "Put your finger on top and lift the straw out. Does the water stay in? Now lift your finger. What happens?",
-     "kid": "Dip the straw. Cover the top with your finger. Lift it out. Does the water stay?",
+     "kid": "Dip the straw in the water. Cover the top with your finger. Lift the straw out. Watch the water.",
      "parent": "The water stays in the straw while the top is covered, and falls out when the finger lifts. Air cannot get in at the top to take the water's place."
     },
     {
@@ -1043,7 +1043,7 @@
      "mins": 2,
      "do": "Talk about what happened.",
      "say": "In ancient Greece, people did this with a metal jar called a water thief. What did it show them about the air inside an 'empty' jar?",
-     "kid": "People in ancient Greece did this with a metal jar. What did it show about air?",
+     "kid": "Think about the straw. It looked empty before the water went in. Was it?",
      "parent": "A good answer is that a jar that looked empty was full of air. The air kept the water out until it had a way to get out.",
      "check": {
       "t": "mcq",
@@ -1098,7 +1098,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Ask your child to breathe out fully. 2. Wrap the string round their chest, just under the arms. 3. Pinch the string at the point where its end meets the rest of it. 4. Measure that length of string against a ruler.",
+     "do": "1. Ask your child to breathe out fully. 2. Wrap the string round their chest, just under the arms. 3. Pinch the string where its end meets the rest, and take it off. 4. Measure that length of string against a ruler, and write the number down.",
      "say": "Breathe all the way out. I'll measure round your chest. Now guess: how much bigger will it be when you breathe in deeply?",
      "kid": "Breathe all the way out. Your grown-up measures round your chest. Guess: how much bigger after a deep breath?",
      "parent": "Keep the string level and snug, not tight. Write the number down."
@@ -1114,9 +1114,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about it.",
-     "say": "Why does your chest get bigger when you breathe in?",
-     "kid": "Why does your chest get bigger when you breathe in?",
+     "do": "Ask your child to put their hands on their ribs and breathe in and out slowly. Then talk about it.",
+     "say": "Keep your hands on your ribs. Breathe in, then out. What do your ribs do?",
+     "kid": "Put your hands on your ribs. Breathe in and out slowly. What do you feel move?",
      "check": {
       "t": "mcq",
       "q": "Why does your chest grow when you breathe in?",
@@ -1190,8 +1190,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Next day, swirl the bottle until no more bubbles come. 2. Put the bottle and its cap on the scale together. 3. Work out the difference from yesterday's number.",
-     "say": "Now weigh it again. How many grams lighter is it? What went away?",
-     "kid": "Weigh it again. Is it lighter? What went away?",
+     "say": "Now weigh it again. How many grams lighter is it?",
+     "kid": "Put the bottle and its cap on the scale. Read the number. Is it lighter than yesterday?",
      "wait": "Day 2: weigh the bottle again.",
      "parent": "The loss is small, only a few grams, and some of it may be water that dried off. A scale that shows single grams can see it. If your scale shows no change, the loss was too small for it. Write that down honestly.",
      "check": {
@@ -1251,7 +1251,7 @@
      "what": "Cut a lotus stem across, look at the holes, and blow air through them under water."
     }
    ],
-   "record": "Draw the cut slice, with its holes. Write what the holes are for.",
+   "record": "Draw the cut slice with its holes, or just write how many holes you counted. Then write or say what the holes are for.",
    "flow": [
     {
      "id": "s1",
@@ -1273,9 +1273,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about it.",
-     "say": "The lotus's leaves are up in the air. Their stem is down in the mud. How do these tubes help the lotus live?",
-     "kid": "The leaves are in the air. The stem is in mud. How do the tubes help?",
+     "do": "Point to the leaf end and the mud end of the stem. Then talk about it.",
+     "say": "The lotus's leaves are up in the air, and the stem is down in the mud. Where could the air travel?",
+     "kid": "Trace with your finger how air could travel. Start at the leaf end. Finish at the mud end.",
      "check": {
       "t": "mcq",
       "q": "Why does a lotus stem have big holes running along it?",
@@ -1306,7 +1306,7 @@
    "problem": "Air can hide inside things that look solid. In this activity you push things under water and squeeze them, and you look for bubbles to find where air is hiding.",
    "mins": 12,
    "days": 1,
-   "context": "This activity is a hunt for hidden air. You squeeze things under water and look for bubbles.",
+   "context": "This activity is a hunt for hidden air. You squeeze things under water and look for bubbles. You will find out which things have air hiding inside, even ones that look solid.",
    "materials": [
     {
      "item": "a big bowl or bucket of water",
@@ -1329,9 +1329,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Lay out the things. Ask your child to guess which ones have air hiding inside them, and why.",
+     "do": "Lay out the things. Ask your child to guess, and to put them into two piles: 'air inside' and 'no air inside'. Ask why.",
      "say": "Which of these do you think has air hiding inside it? How could we find out?",
-     "kid": "Which things have air hiding inside? Guess. How can we find out?"
+     "kid": "Make two piles: air inside, and no air inside. Put each thing where you think it belongs."
     },
     {
      "id": "s2",
@@ -1346,7 +1346,7 @@
      "mins": 2,
      "do": "Look at the lists together.",
      "say": "Which things gave bubbles, and which gave none? What do the things with bubbles have that the others do not?",
-     "kid": "Which things gave bubbles? What do they have that the others do not?",
+     "kid": "Look at your two lists and your first two piles. Which guesses were wrong?",
      "parent": "A good answer is that the things with bubbles have tiny holes or gaps where air hides, such as the sponge, the bread, the soil and the brick. The spoon and the stone are solid, so they have no gaps for air.",
      "check": {
       "t": "mcq",
@@ -1380,7 +1380,7 @@
    "problem": "A litre of air weighs very little, but a room holds a lot of air. In this project you measure a room and work out how heavy its air is, without using a weighing scale.",
    "mins": 40,
    "days": 2,
-   "context": "In this 2-day project you measure a room in your home and work out how much its air weighs.",
+   "context": "In this 2-day project you measure a room in your home and work out how much its air weighs. You will find out how heavy the air in a room really is.",
    "materials": [
     {
      "item": "a measuring tape, or a string and a 1-metre stick",
@@ -1400,7 +1400,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Measure the length, width and height of one room in metres. Draw a plan."
+     "what": "Measure the length, width and height of one room in metres. Write the numbers down."
     },
     {
      "day": 2,
@@ -1408,13 +1408,13 @@
      "what": "Work out the room's volume and the weight of its air. Compare it with the weight of a person."
     }
    ],
-   "record": "Draw the room as a box and write its length, width and height. Write the number of cubic metres and the weight of the air in kilograms.",
+   "record": "Write the room's length, width and height. Write the number of cubic metres and the weight of the air in kilograms.",
    "flow": [
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Choose a room, such as a bedroom. 2. Measure its length and width along the floor, to the nearest half metre. 3. A grown-up measures the height from floor to ceiling. 4. Draw the room as a box and write the three numbers.",
-     "say": "We're going to weigh the air in this room without a scale. First we need to know how big the room is. Let's measure.",
+     "do": "1. Choose a room, such as a bedroom. 2. Measure its length and width along the floor, to the nearest half metre. 3. A grown-up measures the height from floor to ceiling. 4. Write the three numbers on a page.",
+     "say": "We are going to work out the weight of the air in this room without a scale. First, guess: is it as heavy as a cat, a child or a car? Now we need to know how big the room is. Let's measure.",
      "kid": "Measure the room: how long, how wide, how high. Write each number in metres.",
      "adult": true,
      "parent": "Rounding to the nearest half metre is fine. A small bedroom is often about 3 metres by 3 metres, and about 3 metres high."
@@ -1479,15 +1479,15 @@
     "Pinch the straw between breaths, so the air you have blown in cannot escape.",
     "Use two bags and two straws, and blow with a friend."
    ],
-   "your_turn": "Now design your own breath lifter. Draw it, build it, and see how many books it can lift.",
+   "your_turn": "Now design your own breath lifter. Build it, and see how many books it can lift. You can draw a plan first if you like.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together and draw two ideas.",
+     "do": "Read the problem together. Ask your child to tell or show you two ideas for lifting a book with a bag of air.",
      "say": "Air takes up space. If we blow air into a bag under a book, what will the air do to the book?",
-     "kid": "Air takes up space. What will air in a bag do to a book? Draw two ideas.",
-     "context": "This is an engineering challenge. You lift books using only the air from your breath."
+     "kid": "Think of two ways to lift a book with air. Use a bag, a straw and your breath. Say them, or show them.",
+     "context": "This is an engineering challenge. You lift books using only the air from your breath. You will find out how many books a few breaths can lift."
     },
     {
      "id": "s2",
@@ -1500,9 +1500,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Read the usual and creative ideas. 2. Try to improve your lifter.",
-     "say": "How did air lift something so heavy? What could make your lifter even better?",
-     "kid": "How did air lift the books? How can you make it better?",
+     "do": "1. Read the usual and creative ideas. 2. Try one idea to improve your lifter, and count the books again.",
+     "say": "Which idea do you want to try to make your lifter even better? Try it and count again.",
+     "kid": "Try one change to your lifter. Count how many books it lifts now. Is it more?",
      "check": {
       "t": "mcq",
       "q": "How did your breath lift the books?",
@@ -1559,14 +1559,14 @@
      "do": "1. Fill the bottle. 2. Tip it straight upside down over the bucket. 3. Time how long it takes to empty.",
      "say": "Tip it upside down and time it. Listen. Why does it glug?",
      "kid": "Tip the full bottle upside down. Time it. Listen to the glugs.",
-     "context": "This is a challenge about air and water. You find the fastest way to empty a bottle."
+     "context": "This is a challenge about air and water. You find the fastest way to empty a bottle. You will find out why the water glugs, and how to make it pour faster."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Ask your child why it glugs. 2. Let them try other ways. 3. Then try swirling the bottle as you turn it over. 4. Time each way.",
      "say": "Every glug is a bubble of air going in. How could we let air in more easily?",
-     "kid": "Each glug is air going in. Can you let air in more easily? Try it.",
+     "kid": "Try a new way to tip or hold the bottle. Time each try. Which is fastest?",
      "parent": "Swirling usually empties the bottle much faster than plain glugging, often in about half the time, because the spinning water leaves an open path in the middle for air. Work over a bucket in the bathroom."
     },
     {
@@ -1574,7 +1574,7 @@
      "mins": 5,
      "do": "Compare the times together.",
      "say": "Which way was fastest? Why?",
-     "kid": "Which way was fastest? Why?",
+     "kid": "Line up your times from fastest to slowest. Which way was fastest?",
      "check": {
       "t": "mcq",
       "q": "Why does a bottle of water glug when you tip it straight upside down?",

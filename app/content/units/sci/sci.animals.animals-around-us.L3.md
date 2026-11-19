@@ -245,11 +245,11 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out all the cards and tokens. 2. Shuffle the 36 cards together, wanderers too. 3. Lay all the cards face down in rows.  
   *Parent says:* Every animal here has a home, or a special reason for not having one. Let's see who can remember where each home is hiding.  
-  *Child mode:* Lay all the cards face down. Every animal has a home card. Find the pairs!
+  *Child mode:* Lay all the cards face down. Most animals have a home card to match. Four animals have no fixed home. Find the pairs!
 - **s2 (3 min)**  
-  *Parent does:* Play a practice round. Turn over the crow card and the stick nest card together.  
+  *Parent does:* Play a practice round. Find the crow card and the stick nest card. Turn them over together to show a pair.  
   *Parent says:* Let's practise. This is a crow, and this is a stick nest. In the city, crows often add wire. What do you think the nest is for?  
-  *Child mode:* Practice round. A crow and a stick nest. What is the nest for?
+  *Child mode:* Practice round. A crow card and a stick nest card make a pair. Think about what a nest is for.
   - Ask: Does the crow sleep in their nest every night of the year? (good: No. Only while they have eggs or chicks.; Most of the year they sleep on a branch.)
 - **s3 (10 min)**  
   *Parent does:* Play the game. After each match, let the player say what the home is for.  
@@ -257,14 +257,14 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Child mode:* Your turn. Turn two cards. If they match, say what the home is for.
   - Note: Good answers: the termite mound shelters the termites from heat and keeps the air inside damp and fresh. The web is a trap and a resting place. The hornbill's sealed hole keeps the mother and chicks safe from snakes and monkeys.
 - **s4 (2 min)**  
-  *Parent does:* When someone turns over a wanderer card, stop and talk about it.  
-  *Parent says:* A wanderer! The tiger has no fixed home. Why might a big animal like a tiger keep moving?  
-  *Child mode:* A wanderer card! This animal has no fixed home. Why not?
+  *Parent does:* When someone turns over a wanderer card, stop and read it aloud. Then talk about the tiger, as the question below does.  
+  *Parent says:* A wanderer! This animal has no fixed home. Let's think about the tiger too. Why might a big animal like a tiger keep moving?  
+  *Child mode:* You found a wanderer card. Read it out loud. Then think about the tiger.
   - Check: Why does a tiger have no fixed home? → **They need a big area to find enough food, so they keep moving.**
 - **s5 (2 min)**  
   *Parent does:* Count the leaf tokens. Then ask which home was the cleverest, and why.  
   *Parent says:* Count your leaves. Now think. Which home was the cleverest, and why?  
-  *Child mode:* Count your leaf tokens. Which home was the cleverest? Say why.
+  *Child mode:* Count your leaf tokens. The most leaves wins.
   - Think: Which animal home near your house could you go and look at tomorrow?
 ### g2 · Day Shift, Night Shift (15 min)
 - **rules:** Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or an old sari.; One player is the caller. The caller reads the animal on the front of a card aloud, and keeps the back hidden.; Everyone else runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.; The caller reads the answer on the back. Everyone who was right scores a point. If the back gives two answers, either one scores.; Anyone who can say why that animal is busy at that time scores a bonus point.; Swap the caller after every 6 cards, so everyone calls. When all 24 cards are used, the player with the most points wins.
@@ -275,9 +275,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent says:* Some animals work the day shift, some work the night shift, and some work at dawn and dusk. When I call an animal, run to their shift.  
   *Child mode:* Sun is for day animals. Moon is for night animals. The middle line is for dawn and dusk. Get ready to run!
 - **s2 (3 min)**  
-  *Parent does:* Call 'Owl' as the practice card.  
-  *Parent says:* Owl! Where do you run?  
-  *Child mode:* Owl! Where do you run?
+  *Parent does:* Call 'Owl' as the practice card. Everyone runs to the sign they think is right.  
+  *Parent says:* Practice round. The animal is an owl. Run to the sign for when you think an owl is busy.  
+  *Child mode:* Practice round. Run to the sign you think is right.
   - Check: When is an owl busiest? → **At night, under the moon**
 - **s3 (8 min)**  
   *Parent does:* Call the cards one by one. After each, read the answer and let players explain. Swap the caller after every 6 cards.  
@@ -287,7 +287,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **s4 (2 min)**  
   *Parent does:* Stop the game and ask why many animals are busy at dawn and dusk.  
   *Parent says:* Many animals rest at noon and are busy at dawn and dusk. Why do you think that is? Think of heat, light and enemies.  
-  *Child mode:* Why are many animals busy at dawn and dusk? Think of heat and light.
+  *Child mode:* Think about the noon sun in India. How hot is it? Would you want to run around then?
   - Check: Why are many Indian animals busy at dawn and dusk, but resting at noon? → **Noon is too hot, and dawn and dusk are cooler.**
 
 ## Experiments
@@ -296,12 +296,12 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **predict:** Before you start, guess. Will the most birds come in the morning, at noon, or in the evening? Write your guess, and why you think so.
 - **fair test:** To make it fair, keep everything the same except the time of day. Use the same bowl, in the same place, with fresh water each time. Watch for exactly 5 minutes, sitting in the same spot. Watch on 3 days, because one day might be odd, for example if it rains.
 - **safety:** Put the bowl where you can watch from inside, behind a window or a curtain. Do not lean over balcony railings.
-- **record:** For each 5-minute watch, draw one tally line every time a bird lands at the bowl. Add up each time of day over the 3 days. Then draw a bar chart with one bar for morning, one for noon and one for evening.
+- **record:** For each 5-minute watch, draw one tally line every time a bird lands at the bowl. Add up each time of day over the 3 days. Then make a bar chart with one bar for morning, one for noon and one for evening. Draw it, or build stacks of coins.
 - **results table:** Day | Morning, 7 am: visits | Noon, 12 pm: visits | Evening, 5 pm: visits
-- **schedule:** day 1: Put out the bowl. Guess the busiest time. Watch at 7 am, 12 pm and 5 pm, 5 minutes each time, making tally marks. (20 min); day 2: Watch again at the same three times. Make tally marks. (15 min); day 3: Watch at the same three times. Add up the visits. Draw a bar chart and say what you found. (30 min)
+- **schedule:** day 1: Put out the bowl. Guess the busiest time. Watch at 7 am, 12 pm and 5 pm, 5 minutes each time, making tally marks. (20 min); day 2: Watch again at the same three times. Make tally marks. (15 min); day 3: Watch at the same three times. Add up the visits. Make a bar chart (draw it or stack coins) and say what you found. (30 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Fill the bowl with fresh water. 2. Put it on a balcony ledge or windowsill, out of reach of cats. 3. Show your child the results table.  
-  *Parent says:* Birds need water, especially in the hot months. We're going to find out when they come to drink. First, what's your guess? Morning, noon or evening?  
+  *Parent says:* Birds need water, especially in the hot months. We're going to find out when they come to drink. We will watch the same spot for the same 5 minutes each time, so the test is fair. First, what's your guess? Morning, noon or evening?  
   *Child mode:* Put out a bowl of water for birds. Guess when most birds will come. Morning, noon or evening?
   - Note: Keep the bowl in the same place for all 3 days. Birds can take a day or two to find a new water bowl, so the first day may be quiet. That is normal. If no bird has come to the bowl by day 2, count instead every bird you see from the same window in 5 minutes. Crows and pigeons live in almost every Indian town, so you will still have numbers to compare. If you can, put the bowl out the evening before.
   - Check: Why do we watch at the same spot and for the same 5 minutes each time? → **So the test is fair. Only the time of day changes.**
@@ -316,9 +316,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Child mode:* Now watch at noon, and again at 5 pm. Same place. Same 5 minutes.
   - Wait: Do this at 7 am, 12 pm and 5 pm on days 2 and 3.
 - **s4 (10 min)**  
-  *Parent does:* On day 3, add the tally marks for each time of day. Draw a bar chart with three bars.  
-  *Parent says:* Let's add up. How many visits in the morning, over all three days? At noon? In the evening? Now draw one bar for each.  
-  *Child mode:* Add up your lines for morning, noon and evening. Draw one bar for each time.
+  *Parent does:* On day 3, add the tally marks for each time of day. Make a bar chart with three bars. Draw it, or build three stacks of coins.  
+  *Parent says:* Let's add up. How many visits in the morning, over all three days? At noon? In the evening? Now show them as three bars. Draw one bar for each, or build a stack of coins for each.  
+  *Child mode:* Add up your lines for morning, noon and evening. Show each total as a bar. Draw it, or build a stack of coins.
   - Check: Here are some made-up results: 14 visits in the morning, 3 at noon and 11 in the evening. What do they show? → **Birds drink most in the cool morning and evening, and rest at noon.**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three things: what they think now, what they saw that shows it, and why they think it happened.  
@@ -351,7 +351,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent says:* This hole is like a little burrow. Let's see how warm it is inside.  
   *Child mode:* Dig a small hole, a hand deep. Put the thermometer tip at the bottom. Wait 5 minutes. Read it.
   - Note: In a flower pot the hole is usually only a few degrees cooler than the top, because the pot heats up from the sides. In garden soil the difference is bigger. Write what you really measure. The numbers in the question are made up, to show what a garden might give.
-  - Check: In one test in a garden, the open sun was 44 °C, the shade 35 °C, and inside the hole 30 °C. Why was the hole coolest? → **The Sun's heat warms the top of the soil first, and soil is slow to let heat through.**
+  - Check: In one test in a garden, the open sun was 44 °C, the shade 35 °C, and inside the hole 30 °C. Why was the hole coolest? → **The Sun heats the top of the soil first, and soil passes heat down slowly.**
 - **s5 (5 min)**  
   *Parent does:* Fill in the hole. Then ask your child to say what they think, what they saw, and why.  
   *Parent says:* Let's fill the hole in, so no one trips. Now, like a scientist: what do you think, what did you see, and why?  
@@ -399,45 +399,45 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **s1 (2 min)**  
   *Parent does:* Choose a window or a door with a view of a tree, a wall or a street. Set a timer for 10 minutes.  
   *Parent says:* We're going to be naturalists. A naturalist is someone who studies animals by watching them quietly. For 10 minutes, we'll write down every animal we see or hear.  
-  *Child mode:* You are a naturalist now. Sit still for 10 minutes. Write every animal you see or hear.
+  *Child mode:* You are a naturalist now. That is someone who studies animals by watching. Sit still for 10 minutes. Write down every animal you see or hear, or tell your grown-up to write it.
 - **s2 (10 min)**  
   *Parent does:* Watch together, quietly. Help your child look high (sky, wires, roof), low (ground, walls, corners) and listen.  
   *Parent says:* Look up at the sky and the wires. Now look down at the walls and the ground. Now close your eyes and just listen. What can you hear?  
-  *Child mode:* Look up. Look down. Look at the corners. Then close your eyes and listen.
+  *Child mode:* Look up. Look down. Look at the corners. Then close your eyes and listen. Write down each animal and what they are doing.
   - Note: Most children find 2 or 3 animals in the first minute and many more by the end. Count tiny ones too, like ants, flies, spiders and mosquitoes. Count sounds you hear, such as a koel or a dog.
 - **s3 (3 min)**  
   *Parent does:* Read the list together. Ask what each animal was doing. Circle one animal to watch for a week.  
   *Parent says:* Look how many we found. Which one was doing the most interesting thing? Let's choose one animal to watch all week.  
-  *Child mode:* Read your list. Which animal was most interesting? Circle them. You will watch them all week.
+  *Child mode:* Read your list. Which animal was the most interesting? Circle that animal. You will watch them all week.
   - Check: You saw a crow sitting on a wire for one minute. What can you say for sure? → **The crow sat on the wire this time.**
 ### a2 · Animal Homes Walk and Map (35 min)
 - **safety:** Go with a grown-up. Look but do not touch nests, holes, webs or hives. Do not put your hand into any hole, because snakes and scorpions may hide there. Stay away from bee hives.
-- **record:** Draw a map of where you walked. Mark every animal home you found with a small picture. Write who you think lives there.
+- **record:** Make a map of where you walked. Mark every animal home you found with a small drawing, a photo or its name. Say or write who you think lives there.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Explain the walk. Agree the safety rules together.  
   *Parent says:* We're going on a hunt for animal homes. Nests, holes, webs, hives and anthills. The rule is: we look, we never touch, and we never put a hand in a hole.  
   *Child mode:* Let's hunt for animal homes. Look, but never touch. Never put your hand into a hole.
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* Walk slowly for about 20 minutes. Stop at every home you find. Let your child sketch it quickly.  
+  *Parent does:* Walk slowly for about 20 minutes. Stop at every home you find. Take a photo of it, or help your child remember where it is.  
   *Parent says:* Look up into the trees and under the roof edges. Look along walls for little holes and lines of ants. Look in corners for webs.  
-  *Child mode:* Look up in the trees. Look at the walls and corners. Draw each home you find.
+  *Child mode:* Look up in the trees. Look at the walls and corners. Point out each home you find. Take a photo, or remember where it is.
   - Note: Common finds: crow and pigeon nests, sparrow holes in walls, webs in gates and plants, anthills at the base of walls, termite trails of mud on tree trunks, holes in tree trunks, and in some cities giant rock bee hives under water tanks.
   - Check: You find a neat round hole in an old tree trunk, high up. Who might use it? → **A parakeet, an owl or a barbet, as a nest**
 - **s3 (12 min)**  
-  *Parent does:* At home, draw a map of the walk on the big sheet. Mark each home with a little picture.  
+  *Parent does:* At home, make a map of the walk on the big sheet. Mark each home with a little picture, a photo or its name.  
   *Parent says:* Let's draw our walk as a map. Where was the anthill? Where was the nest? Who do you think lives in each one?  
-  *Child mode:* Draw a map of your walk. Draw each home where you found it. Write who lives there.
+  *Child mode:* Make a map of your walk. Show each home where you found it. Draw it, stick the photo or write its name. Say who lives there.
   - Think: Which part of your area had the most homes? Why do you think so?
 ### a3 · Animal Signs Bingo (20 min)
 - **safety:** Go with a grown-up. Do not touch droppings, dead animals or shed snake skins with bare hands.
 - **record:** Tick each square when you find the sign. Write where you found it.
 - **s1 (2 min)**  
-  *Parent does:* Draw a grid of 9 squares on paper. Put one sign in each square: feather, footprint, chewed leaf, web, line of ants, bird droppings, nest, hole, animal sound. Explain that we look for signs, not animals.  
+  *Parent does:* Draw a grid of 9 squares on paper. Write one sign in each square: feather, footprint, chewed leaf, web, line of ants, bird droppings, nest, hole, animal sound. Explain that we look for signs, not animals.  
   *Parent says:* Animals are often hiding. But they leave clues. A feather, a footprint, a chewed leaf. Let's find nine clues.  
   *Child mode:* Animals leave clues. Find nine clues on your bingo card.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Walk and tick squares. At each find, ask who left it.  
-  *Parent says:* A chewed leaf! Who do you think ate it? A caterpillar? A snail? A goat?  
+  *Parent says:* Found a clue? Who do you think left it? For a chewed leaf, it could be a caterpillar, a snail or a goat.  
   *Child mode:* Find a clue. Tick it. Say who left it.
   - Check: You see white splashes under one branch of a tree, every day. What might it mean? → **Birds roost or sit on that branch often.**
 - **s3 (3 min)**  
@@ -445,7 +445,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent says:* Which clue told us the most about an animal's habits?  
   *Child mode:* Count your ticks. Which clue told you the most about an animal?
 ### a4 · Build a Nest with a Beak (25 min)
-- **record:** Draw your nest. Write how many minutes it took, and whether the egg stayed in.
+- **record:** Take a photo of your nest, or draw it. Write how many minutes it took, and whether the egg stayed in.
 - **s1 (3 min)**  
   *Parent does:* Lay out the materials. Give your child the clothes peg.  
   *Parent says:* Birds have no hands. They build their whole nest with their beak, one piece at a time. Today, the peg is your beak.  
@@ -467,7 +467,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   - Note: A good answer is that building a nest is partly learned. Young birds weave messy nests at first. They get better with practice, just as you did.
   - Think: Young weaver birds weave messy nests at first and better ones later. What does that tell you?
 ### a5 · Town, Village, Forest (20 min)
-- **record:** Stick or draw each animal in their place. Draw animals that live in two or three places on the fold lines.
+- **record:** Stick or write each animal card in the right part. Put animals that live in two or three places on the fold lines.
 - **s1 (3 min)**  
   *Parent does:* Fold the sheet into three. Label the parts Town, Village and Forest.  
   *Parent says:* India's animals live in towns, villages and forests. Let's sort them out. But watch carefully, because some may surprise you.  
@@ -481,7 +481,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **s3 (5 min)**  
   *Parent does:* Look at the animals you put on the fold lines. Ask why those animals do well in more than one place.  
   *Parent says:* Look at the animals on the folds. What do they have in common?  
-  *Child mode:* Look at the animals on the folds. Why can they live in many places?
+  *Child mode:* Look at the animals on the folds. What do they eat? Are they shy of people?
   - Ask: Why can crows and macaques live almost anywhere? (good: They eat many kinds of food.; They are clever and not too shy of people.)
 ### a6 · Sound Map (12 min)
 - **record:** Mark the direction of each animal sound with a small drawing or a letter.
@@ -503,8 +503,8 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 ## Projects
 ### p1 · My Animal Week (90 min, 7 days)
 - **safety:** Watch from a distance. Never touch the animal, their nest or their young. If you watch a street dog, a cow or monkeys, a grown-up must be with you and you keep well away.
-- **record:** Each day write the date, the time, the weather and what the animal did. On day 7, draw a timeline from morning to night with what your animal does at each time.
-- **schedule:** day 1: Choose one animal you can find every day. Make the diary table. Watch for 10 minutes and write down the times. (15 min); day 2: Watch at the same time and place. Add one new detail, such as what they eat or where they go. (10 min); day 3: Watch at a different time of day. Is the animal doing something different? (10 min); day 4: Watch again at the time of day you used on the first day. Draw your animal from life. (10 min); day 5: Watch and count one behaviour with tally marks, such as how many times they eat or call. (10 min); day 6: Watch at dusk or dawn, with a grown-up. Where do they go to rest? (10 min); day 7: Read the whole diary. Find patterns. Draw a timeline of your animal's day. Say your claim, evidence and reasoning. (25 min)
+- **record:** Each day write the date, the time, the weather and what the animal did. On day 7, make a timeline from morning to night with what your animal does at each time. Draw it, or tell it out loud.
+- **schedule:** day 1: Choose one animal you can find every day. Make the diary table. Watch for 10 minutes and write down the times. (15 min); day 2: Watch at the same time and place. Add one new detail, such as what they eat or where they go. (10 min); day 3: Watch at a different time of day. Is the animal doing something different? (10 min); day 4: Watch again at the time of day you used on the first day. Take a photo of your animal, or describe them to your grown-up. (10 min); day 5: Watch and count one behaviour with tally marks, such as how many times they eat or call. (10 min); day 6: Watch at dusk or dawn, with a grown-up. Where do they go to rest? (10 min); day 7: Read the whole diary. Find patterns. Make a timeline of your animal's day. Say your claim, evidence and reasoning. (25 min)
 - **s1 (5 min)**  
   *Parent does:* Help your child choose one animal they can find every day near home. Make the diary table: Date, Time, Weather, What they did.  
   *Parent says:* Real naturalists watch one animal for a long time. That's how they find their habits. Which animal can we find every single day?  
@@ -517,14 +517,14 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   - Check: Which of these is a fact you saw, not a guess? → **The pigeon sat on the ledge from 7:10 to 7:25 with their feathers puffed up.**
 - **s3 (50 min)**  
   *Parent does:* Days 2 to 6: watch for 10 minutes each day, following the schedule.  
-  *Parent says:* Today, watch at a different time. Is your animal doing the same thing as before, or something new?  
+  *Parent says:* Today, watch again. Is your animal doing the same thing as before, or something new?  
   *Child mode:* Watch your animal again today. Are they doing the same thing, or something new?
   - Note: On day 6, watch at dawn or dusk with your child. Many animals go to a roost, a nest or a hiding place then. Children are often amazed to see where their animal sleeps.
   - Wait: Come back to this each day from day 2 to day 6, for about 10 minutes.
 - **s4 (20 min)**  
-  *Parent does:* Day 7: read the diary together. Look for things that happened again and again. Draw a timeline of the animal's day.  
-  *Parent says:* Let's read the whole week. What did your animal do more than once? At what times? Now let's draw their day, from morning to night.  
-  *Child mode:* Read your whole diary. What happened again and again? Draw your animal's day.
+  *Parent does:* Day 7: read the diary together. Look for things that happened again and again. Make a timeline of the animal's day. Draw it, or tell it out loud.  
+  *Parent says:* Let's read the whole week. What did your animal do more than once? At what times? Now let's put their day in order, from morning to night. You can draw it, or tell it.  
+  *Child mode:* Read your whole diary. What happened again and again? Show your animal's day from morning to night. Draw it, or tell it out loud.
   - Check: Your ants were busy on the sugar tin every evening, but you never saw them there in the morning. What is the best claim? → **In my kitchen, the ants come to the sugar mostly in the evening.**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to name one habit of their animal, say what they saw that shows it, and say why they think the animal does that.  
@@ -535,7 +535,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 ## Challenges
 ### c1 · Design a Sparrow Home (45 min)
 - **problem:** House sparrows nest in holes in walls and roofs. Many new buildings have smooth walls with no holes. Design and make a nest box that a pair of sparrows could use.
-- **your turn:** Now design your own sparrow home. Draw it, make it, and hang it with a grown-up. Then watch it every day for a month. Write down any bird that comes.
+- **your turn:** Now design your own sparrow home. Plan it on paper or with a paper model, make it, and hang it with a grown-up. Then watch it every day for a month. Write down any bird that comes.
 - **constraints:** The entrance hole should be about 3 cm wide, a little wider than a one-rupee coin. Bigger holes let in crows and mynas.; The box must be out of reach of cats, and in shade, at least as high as a door.; No paint or glue inside the box, because chicks could swallow it.; The box must keep out rain.
 - **general:** Make a box about 15 cm tall and 12 cm wide, with a 3 cm round hole near the top of the front.; Put a slanting roof on top so rain runs off.; Make a few small holes in the bottom so any water drains out.; Hang it under a balcony roof or a shady wall, facing away from strong afternoon sun.
 - **creative:** Some families make sparrow boxes from old wooden crates, or from clay pots sold for this.; Plant a small bush or a pot of flowering plants nearby. Insects come to the plants, and sparrow chicks eat insects.; Put a shallow bowl of water near the box in summer.
@@ -544,9 +544,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent says:* Sparrows used to nest in the holes of old houses. New buildings are smooth, with no holes. Can we design a home for them?  
   *Child mode:* Sparrows need small holes to nest in. Can you design one?
 - **s2 (10 min)**  
-  *Parent does:* Draw a design. Check it against each constraint.  
-  *Parent says:* Why do you think the hole must be small?  
-  *Child mode:* Draw your sparrow home. Check: small hole, shade, no paint inside, rain roof.
+  *Parent does:* Draw a design, or make a quick paper model. Check it against each constraint.  
+  *Parent says:* Before we build, let's plan. What do sparrows need from their home? Read the rules in the list and check each one.  
+  *Child mode:* Draw your sparrow home, or make a quick paper model. Then check: small hole, shade, no paint inside, rain roof.
   - Check: Why should a sparrow box have a small hole, about 3 cm wide? → **So bigger birds like crows and mynas cannot get in and take the eggs**
 - **s3 (25 min) · grown-up needed**  
   *Parent does:* Make the box. A grown-up cuts the hole. Hang it in shade, high up.  
@@ -559,18 +559,18 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   - Wait: Check the box once a day for a month. Watch from a distance.
 ### c2 · Share the Space (30 min)
 - **problem:** A pair of pigeons keeps trying to nest on the outdoor box of your air conditioner, and the family is unhappy about the mess. Plan a way to share your building with the pigeons that does not harm them.
-- **your turn:** Now think of an animal that shares your home or street, such as ants, a gecko, monkeys or a dog. Draw a plan for how you and that animal can share the space safely.
+- **your turn:** Now think of an animal that shares your home or street, such as ants, a gecko, monkeys or a dog. Make a plan for how you and that animal can share the space safely. Draw it, or tell it to your family.
 - **constraints:** You must not harm any bird, egg or chick.; If there are already eggs or chicks, you must wait until the chicks have flown before changing anything.; Your plan must work for both the family and the birds.
 - **general:** Before any eggs are laid, cover the spot with bird netting, so the pigeons choose somewhere else.; Clean the ledge often and keep it clear. Pigeons choose quiet spots where nobody disturbs them.; Give the birds another safe place, such as a ledge you do not mind them using.
-- **creative:** Make a 'pigeon diary' first. Find out what times they come, as Tara did for the crows in the story The Wire Nest. Maybe there is a pattern you can use.; Talk to neighbours and make a building plan, so the birds are not pushed from one flat to the next.; Draw a poster for your building about watching kindly.
+- **creative:** Make a 'pigeon diary' first. Find out what times they come, as Tara did for the crows in the story The Wire Nest. Maybe there is a pattern you can use.; Talk to neighbours and make a building plan, so the birds are not pushed from one flat to the next.; Make a poster for your building about watching kindly.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together.  
   *Parent says:* Pigeons nest on ledges because their wild relatives nested on cliffs. To a pigeon, our building is a cliff. How can we share it fairly?  
   *Child mode:* Pigeons think our building is a cliff. How can we share it with them?
 - **s2 (15 min)**  
-  *Parent does:* Draw a plan together. Check it against the constraints.  
+  *Parent does:* Make a plan together, using a photo or a drawing of your building. Check it against the constraints.  
   *Parent says:* What would you do first? What if there are already eggs?  
-  *Child mode:* Draw your plan. What will you do if there are eggs?
+  *Child mode:* Make your plan for the AC box. Use a photo or a drawing of your building. Check it against the three rules.
   - Check: You find two pigeon eggs on the AC box. What should you do? → **Leave it until the chicks fly, then cover the spot before the next nesting.**
 - **s3 (10 min)**  
   *Parent does:* Share the plan with the family. Do the 'your turn' part for another animal.  

@@ -277,7 +277,7 @@
    "title": "Solid and Shape: a matching card game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory card game. You match each solid card with a flat shape card. The flat shape must be one of the solid's faces, or a slice cut from it. To keep a pair, you must say why they match.",
+   "context": "This is a memory card game. You will find out that every solid hides flat shapes inside it. You match each solid card with a flat shape card. The flat shape must be one of the solid's faces, or a slice cut from it. To keep a pair, you must say why they match.",
    "printables": [
     {
      "kind": "cards",
@@ -327,8 +327,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the cards. 2. Read the rules aloud. 3. Put a real dice, a matchbox and a tumbler on the table to look at.",
-     "say": "Turn over two cards. If a solid and a flat shape match, tell us how. A face counts, and a slice counts.",
-     "kid": "Turn over two cards. Say how the solid makes the flat shape.",
+     "say": "A face is one flat side of a solid. A slice is the flat shape you see when you cut a solid. Turn over two cards. If a solid and a flat shape match, tell us how.",
+     "kid": "Turn over two cards. Look for a solid and a flat shape that go together.",
      "context": "This is the start of the matching card game."
     },
     {
@@ -353,7 +353,7 @@
      "mins": 2,
      "do": "1. Count the pairs. 2. Ask which solids could match more than one flat shape.",
      "say": "Some solids could match more than one flat shape. Which one, and how?",
-     "kid": "Which solid could match more than one flat shape? How?",
+     "kid": "Think of one solid that can make two different flat shapes.",
      "ask": [
       {
        "q": "Which solid matched more than one flat shape?",
@@ -382,7 +382,7 @@
    "title": "Feely Bag: name the solid by touch",
    "mins": 15,
    "players": "2 or more players",
-   "context": "This is a guessing game. Solid things are hidden in a cloth bag. You feel one without looking, and say what solid shape it is and how many flat faces it has.",
+   "context": "This is a guessing game. You will find out that your hand can tell one solid from another by its faces and edges. Solid things are hidden in a cloth bag. You feel one without looking, and say what solid shape it is and how many flat faces it has.",
    "printables": [
     {
      "kind": "score sheet",
@@ -419,8 +419,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Put 5 solids in the bag while the players are not looking. 2. Read the rules aloud.",
-     "say": "Put your hand in. Don't look. Feel the faces and the edges. What solid is it?",
-     "kid": "Put your hand in the bag. Don't look. What solid is it?",
+     "say": "Put your hand in. Don't look. A face is one flat side. An edge is where two faces meet. Feel for faces and edges. What solid is it?",
+     "kid": "Put your hand in the bag. Feel the thing and name its shape.",
      "context": "This is the start of the feely bag game."
     },
     {
@@ -428,10 +428,10 @@
      "mins": 11,
      "do": "1. Each player takes a turn. 2. After each guess, they pull the thing out to check. 3. Put it back and shake the bag.",
      "say": "How did you know? Was it the flat faces, the edges or the curved side?",
-     "kid": "How did you know? Faces, edges or a curved side?",
+     "kid": "Tell your grown-up what you felt that gave you the clue.",
      "ask": [
       {
-       "q": "How did you know it was a cube?",
+       "q": "How did you know what shape it was?",
        "good": [
         "It had flat square faces.",
         "It had sharp edges and corners."
@@ -443,9 +443,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Add up the points. 2. Ask how a hand can tell a cube from a cylinder.",
+     "do": "1. Add up the points. 2. Give your child a dice and a round tin to feel. 3. Ask how a hand can tell a cube from a cylinder.",
      "say": "How can you tell a cube from a cylinder, just by feeling?",
-     "kid": "How can you tell a cube from a cylinder by touch?",
+     "kid": "Hold the dice in one hand and the tin in the other. Feel how they are different.",
      "ask": [
       {
        "q": "How can you tell a cube from a cylinder by touch?",
@@ -476,10 +476,10 @@
    "title": "Slice and Trace: what flat shapes are hidden inside a solid?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment a grown-up cuts a cucumber, a carrot and a round potato straight across. You trace the flat shape of each cut side on paper. Then you find out what shape you get when you cut a corner off a potato cube.",
+   "context": "In this experiment you find out what flat shapes are hidden inside solid things. A grown-up cuts a cucumber, a carrot and a round potato straight across, and you look at each cut side. Then you find out what shape you get when you cut a corner off a potato cube.",
    "question": "When you cut a solid straight through, what flat shape do you see? Is it the same shape and size wherever you cut?",
    "predict": "If we cut the cucumber, the carrot and the round potato straight across, what shape will each cut side be? Will all the slices be the same size? Why do you think so?",
-   "fair_test": "The grown-up cuts straight down every time, with the knife upright, because a slanting cut changes the shape. We trace every cut side the same way: press it on the paper and draw round it. Only the solid, and the place where we cut, change.",
+   "fair_test": "The grown-up cuts straight down every time, with the knife upright, because a slanting cut changes the shape. We look at every cut side the same way: lay it flat on the paper. Only the solid, and the place where we cut, change.",
    "results_table": [
     "Solid",
     "Where we cut",
@@ -517,10 +517,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Cut the cucumber, the carrot and a round potato across, and trace each cut side. Then cut a corner off a potato cube and trace that."
+     "what": "Cut the cucumber, the carrot and a round potato across, and look at each cut side. Then cut a corner off a potato cube and look at that."
     }
    ],
-   "record": "The traced shapes, in rows: cucumber, carrot, potato and the cube corner. Under each row, write 'same size', 'smaller and smaller' or 'small, big, small'.",
+   "record": "The cucumber circles traced on paper, and the carrot and potato slices lined up in rows beside them. Take a photo if you like. Write what shape the cube corner made. Under each row, write 'same size', 'smaller and smaller' or 'small, big, small'.",
    "example_chart": {
     "type": "table",
     "title": "Example results (made up)",
@@ -563,7 +563,7 @@
     },
     {
      "art": "A child pressing a potato slice flat on paper and drawing round it with a pencil.",
-     "caption": "3. Press the cut side on the paper. Draw round it."
+     "caption": "3. Press a cucumber slice on the paper. Draw round it, or just line the slices up."
     },
     {
      "art": "A rough potato cube with one corner cut off, showing a small triangle where the corner was.",
@@ -576,7 +576,7 @@
      "mins": 3,
      "do": "1. Put the cucumber, the carrot and one round potato on the board. 2. Ask the questions below. 3. Write your child's guesses at the top of the paper. Don't say who is right.",
      "say": "If I cut each of these straight across, what shape will the cut side be? Will every slice be the same size? Why do you think so?",
-     "kid": "Look at the three vegetables. What shape will the cut side be? Will every slice be the same size? Why?",
+     "kid": "Look at the three vegetables. Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "What shape will the cut side be, and will all the slices be the same size? Why?",
@@ -593,9 +593,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Cut the cucumber straight across in three places: one hand-width from each end, and once in the middle. 2. Your child presses each cut side on the paper and draws round it. 3. Write 'cucumber' under the three shapes.",
+     "do": "1. Cut the cucumber straight across in three places: one hand-width from each end, and once in the middle. 2. Your child presses each cut side on the paper and draws round it. If they would rather not draw, they lay the three slices in a row. 3. Write 'cucumber' under the three shapes.",
      "say": "Press the cut side down on the paper and draw round it. Now the next one. Are they the same shape? Are they the same size?",
-     "kid": "Press the slice on the paper. Draw round it. Is the next one the same size?",
+     "kid": "Press each slice on the paper. Draw round it, or lay the slices side by side.",
      "adult": true,
      "ask": [
       {
@@ -612,9 +612,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Cut the carrot straight across at three places: near the thick top, in the middle, and near the thin tip. 2. Your child traces each cut side in a new row, in the same order. 3. Write 'carrot' under the row.",
-     "say": "Now the carrot. Trace the thick end first, then the middle, then near the tip. What happens to the circles?",
-     "kid": "Trace the carrot slices, thick end first. What happens to the circles?",
+     "do": "1. Cut the carrot straight across at three places: near the thick top, in the middle, and near the thin tip. 2. Your child lays the slices in a row on the paper, thick end first. 3. Write 'carrot' under the row.",
+     "say": "Now the carrot. Lay the slices in a row, with the thick end first. Look at the circles. What happens to them?",
+     "kid": "Line up the carrot slices, thick end first. Look at the size of each one.",
      "adult": true,
      "ask": [
       {
@@ -631,9 +631,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Cut the round potato straight across into 5 slices, from top to bottom. 2. Lay them on the plate in order. 3. Your child traces them in a new row, in the same order. 4. Then your child stacks the slices back up.",
-     "say": "Trace the slices in order, from the top of the potato to the bottom. Which circle is the biggest? Now stack the slices back up. What do you get?",
-     "kid": "Trace the potato slices in order. Which is biggest? Now stack them back up.",
+     "do": "1. Cut the round potato straight across into 5 slices, from top to bottom. 2. Lay them on the plate in order. 3. Your child lays them in a row, in the same order. 4. Then your child stacks the slices back up.",
+     "say": "Lay the slices in a row, from the top of the potato to the bottom. Which circle is the biggest? Now stack the slices back up. What do you get?",
+     "kid": "Lay the potato slices in order. Find the biggest. Then stack them back up.",
      "adult": true,
      "ask": [
       {
@@ -650,9 +650,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Cut the second potato into a rough cube by cutting off a slice from each of its 6 sides. 2. Ask your child to guess the shape if you cut off one corner. 3. Cut one corner off, about 1 centimetre in from the tip. 4. Your child traces the cut side.",
+     "do": "1. Cut the second potato into a rough cube by cutting off a slice from each of its 6 sides. 2. Ask your child to guess the shape if you cut off one corner. 3. Cut one corner off, about 1 centimetre in from the tip. 4. Your child looks at the cut side and counts its sides and corners.",
      "say": "This potato is now a cube, with square faces. If I cut off one corner, what shape will the cut side be? Why?",
-     "kid": "This potato is now a cube. A grown-up will cut off one corner. What shape will the cut side be?",
+     "kid": "Guess what shape the cut will make. Then look at it and count its sides and corners.",
      "adult": true,
      "ask": [
       {
@@ -669,9 +669,9 @@
     {
      "id": "s6",
      "mins": 2,
-     "do": "1. Look at all the rows of traced shapes together. 2. Ask the questions below. 3. Then read the card 'Inside every solid are flat slices'.",
-     "say": "Look at all the shapes you traced. Were they flat or solid? Did the same vegetable always give the same size?",
-     "kid": "Look at your shapes. Are they flat? Did the size change?",
+     "do": "1. Look at all the rows together. 2. Ask the questions below. 3. Then read the card 'Inside every solid are flat slices'.",
+     "say": "Look at all your slices. Are the cut sides flat or solid? Did the same vegetable always give the same size?",
+     "kid": "Look at all your rows. Find the biggest slice and the smallest slice.",
      "ask": [
       {
        "q": "What changed the shape and size of the cut side?",
@@ -693,7 +693,7 @@
       "a": 1,
       "why": "A round potato is widest in the middle, so the middle slice is the biggest. The slices near the top and the bottom are small."
      },
-     "parent": "A strong answer uses the traced shapes as evidence: every cut side was flat, and its size depended on where the cut was.",
+     "parent": "A strong answer uses the slices as evidence: every cut side was flat, and its size depended on where the cut was.",
      "context": "This is the last step of the slice and trace test. You look at your results and say what you found."
     }
    ]
@@ -703,7 +703,7 @@
    "title": "Flat Eyes: can a flat creature tell a circle from a square?",
    "mins": 15,
    "days": 1,
-   "context": "A flat creature living on a table top would see every shape on the table from its edge. In this experiment you put your eye level with a table and look at a card circle and a card square, the way she would.",
+   "context": "Pulli is a flat girl who lives on a table top. She sees every shape on the table from its edge. In this experiment you find out whether she can tell a circle from a square. You put your eye level with a table and look at a card circle and a card square, the way she would.",
    "question": "A flat creature like Pulli, who lives on a table top, sees every shape only from its edge. With your eye level with the table, can you tell a circle from a square?",
    "predict": "When your eye is level with the table, what will a card circle and a card square look like? Can you tell them apart? Why do you think so?",
    "fair_test": "The circle and the square are the same width, and cut from the same card. The child keeps their chin on the table edge every time, so the eye stays level. We turn each shape slowly all the way round, and watch the width of the line.",
@@ -738,7 +738,7 @@
      "what": "Cut a card circle and a card square. Look at them with your eye level with the table, and turn them."
     }
    ],
-   "record": "Draw what each shape looked like from the edge. Write 'stays the same' or 'gets wider and narrower' under each.",
+   "record": "Draw what each shape looked like from the edge, or tell your grown-up and ask them to write it down. Write 'stays the same' or 'gets wider and narrower' under each.",
    "setup": [
     {
      "art": "A card circle and a card square of the same width lying flat on a table.",
@@ -769,7 +769,7 @@
      "mins": 2,
      "do": "1. Ask the question below. 2. Write down your child's guess.",
      "say": "When your eye is level with the table, what will the circle and the square look like? Will you be able to tell them apart? Why?",
-     "kid": "When your eye is level with the table, what will you see? Why?",
+     "kid": "Think first. Then tell your grown-up what you guess, and why.",
      "ask": [
       {
        "q": "Will you be able to tell the circle from the square from the edge? Why?",
@@ -820,7 +820,7 @@
       "q": "In the flat eyes test, how could a flat creature tell a circle from a square?",
       "options": [
        "The circle looks taller",
-       "As it turns, the square's line gets wider at the corners, but the circle's line stays the same",
+       "The square's line changes as it turns, but the circle's does not",
        "She can never tell them apart"
       ],
       "a": 1,
@@ -869,7 +869,7 @@
      "mins": 5,
      "do": "1. Give your child 3 minutes to find 4 things that look flat and 4 things that are clearly solid. 2. Write them in two lists.",
      "say": "Find four things that look flat, and four things that are clearly solid. A solid has height, so it stands up off the table.",
-     "kid": "Find four things that look flat. Find four things that are solid.",
+     "kid": "Walk round and collect things. Sort them into flat things and solid things.",
      "ask": [
       {
        "q": "What did you find?",
@@ -887,7 +887,7 @@
      "mins": 5,
      "do": "1. Pick up one sheet of paper and ask the question below. 2. Then stand a ruler next to a notebook of about 100 sheets. 3. Read the height together.",
      "say": "Is this sheet of paper truly flat, with no height at all? Let's look at a pile of 100 sheets. How tall is the pile?",
-     "kid": "Is one sheet of paper truly flat? Look at a pile of 100 sheets.",
+     "kid": "Stand the ruler next to the pile of 100 sheets. Read how tall it is.",
      "ask": [
       {
        "q": "What does the pile tell you about one sheet?",
@@ -917,7 +917,7 @@
    "id": "a2",
    "title": "Open a Box: from solid to flat and back",
    "mins": 15,
-   "context": "In this activity you open an empty box out flat, to see the flat net it was made from. Then you fold it back into a solid box.",
+   "context": "In this activity you find out that a solid box is made from flat pieces. You open an empty box out flat. The flat shape you get is called a net. Then you fold it back into a solid box.",
    "materials": [
     {
      "item": "an empty small box, such as a toothpaste box or a sweet box",
@@ -932,7 +932,7 @@
      "qty": 1
     }
    ],
-   "record": "Trace round the opened-out box on paper. Number its faces. Write how many faces it has.",
+   "record": "A photo of the opened-out box, or a tracing of it on paper. Number its faces. Write how many faces it has.",
    "setup": [
     {
      "art": "A grown-up and a child gently pulling apart the glued flap of a toothpaste box.",
@@ -952,8 +952,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Hold up the closed box. 2. Ask the questions below.",
-     "say": "This box is a solid. How many faces does it have? What do you think it will look like if we open it out flat?",
-     "kid": "How many faces does the box have? What will it look like opened flat?",
+     "say": "This box is a solid. A face is one flat side. How many faces does it have? What do you think it will look like if we open it out flat?",
+     "kid": "Look at the closed box. Guess what it will look like opened flat.",
      "ask": [
       {
        "q": "How many faces does the box have?",
@@ -968,7 +968,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Gently pull apart the glued flap and open the end flaps. 2. Lay the box out flat. 3. Your child traces round it on paper. 4. Number each face.",
+     "do": "1. Gently pull apart the glued flap and open the end flaps. 2. Lay the box out flat. 3. Your child takes a photo of it, or traces round it on paper. 4. Number each face.",
      "say": "Let's open it out without tearing it. Now it's flat. Count the faces. Are they all still here?",
      "kid": "Open the box gently. Lay it flat. Count the faces.",
      "adult": true,
@@ -1010,7 +1010,7 @@
    "id": "a3",
    "title": "Stack It Up: from flat to solid",
    "mins": 10,
-   "context": "In this activity you stack thin, flat-looking things on top of each other, and watch them become a solid with real height.",
+   "context": "In this activity you stack thin, flat-looking things on top of each other, and watch them become a solid with real height. You will find out where that height comes from.",
    "materials": [
     {
      "item": "about 20 coins, or round biscuits",
@@ -1025,7 +1025,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw your two towers. Write how many pieces were in each, and how tall each tower was.",
+   "record": "Write how many pieces were in each tower, and how tall each tower was. Take a photo of the two towers, or draw them.",
    "setup": [
     {
      "art": "A child stacking coins one on top of another into a short tower.",
@@ -1042,7 +1042,7 @@
      "mins": 5,
      "do": "1. Your child stacks 20 coins into a tower. 2. Then your child stacks 20 cards into a second pile. 3. Ask what shape each tower is.",
      "say": "Each coin is a short, flat-looking circle. Stack twenty. What shape have you made? Now stack the cards. What shape is that?",
-     "kid": "Stack twenty coins. What shape is the tower? Now stack the cards.",
+     "kid": "Stack twenty coins into a tower. Then stack twenty cards.",
      "ask": [
       {
        "q": "What solid shapes did the towers make?",
@@ -1081,7 +1081,7 @@
    "title": "A Town for Pulli: design a flat world",
    "days": 2,
    "mins": 30,
-   "context": "In this project you design a town for Pulli, the flat girl who lives on paper. She can only move forward, back, left and right. On day 2 you solve the problems that a flat world brings.",
+   "context": "In this project you make a town for Pulli, the flat girl who lives on paper. She can only move forward, back, left and right. You will find out what problems a flat world brings, and how to fix them on day 2.",
    "materials": [
     {
      "item": "a big sheet of paper, or newspaper with a blank side",
@@ -1100,7 +1100,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw Pulli's town from above: houses with doors, a road, a school and a shop."
+     "what": "Make Pulli's town from above: houses with doors, a road, a school and a shop. Draw it, or lay strips of paper flat on the sheet as walls and roads."
     },
     {
      "day": 2,
@@ -1108,7 +1108,7 @@
      "what": "Slide a coin round the town as Pulli. Solve the problems: doors, passing a friend, and crossing a road."
     }
    ],
-   "record": "The finished town map, with notes on how Pulli gets in and out of her house and how she passes a friend.",
+   "record": "The finished town map or a photo of it, with notes on how Pulli gets in and out of her house and how she passes a friend.",
    "setup": [
     {
      "art": "A town drawn on paper from above: square houses with gaps for doors, a road and a school.",
@@ -1123,9 +1123,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Remind your child that Pulli cannot go over any line. 2. Your child draws a town from above, with at least 3 houses, a road, a school and a shop. 3. Every building needs a door.",
-     "say": "Pulli can't step over a line. So every house needs a gap for a door. Draw her a town she can move round.",
-     "kid": "Draw a town for Pulli. Every house needs a door gap.",
+     "do": "1. Remind your child that Pulli cannot go over any line. 2. Your child makes a town from above, with at least 3 houses, a road, a school and a shop. They can draw it, or lay strips of paper flat on the sheet as walls and roads. 3. Every building needs a door.",
+     "say": "Pulli can't step over a line. So every house needs a gap for a door. Make her a town she can move round.",
+     "kid": "Make a town for Pulli. Every house needs a door gap.",
      "ask": [
       {
        "q": "How does Pulli get into her house?",
@@ -1140,9 +1140,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Your child slides a coin along the roads as Pulli. 2. Put a second coin on the same road, coming the other way. 3. Ask the questions below. 4. Your child changes the drawing to fix each problem.",
+     "do": "1. Your child slides a coin along the roads as Pulli. 2. Put a second coin on the same road, coming the other way. 3. Ask the questions below. 4. Your child changes the town to fix each problem.",
      "say": "Pulli meets her friend on a narrow road. Neither can go over the other. What can they do? If Pulli's door is open, is her house still closed in?",
-     "kid": "Pulli meets a friend on the road. How can they pass?",
+     "kid": "Slide the coin along the road. Then a second coin comes the other way.",
      "ask": [
       {
        "q": "How can Pulli pass her friend on a narrow road?",
@@ -1181,7 +1181,7 @@
    "id": "c1",
    "title": "Hold It Up with One Flat Sheet",
    "mins": 15,
-   "context": "This is a building challenge. A flat sheet of paper flops over. Can you fold or roll it into a solid that holds a steel plate up off the table?",
+   "context": "This is a building challenge. You will find out why a rolled sheet stands up when a flat one cannot. A flat sheet of paper flops over. Can you fold or roll it into a solid that holds a steel plate up off the table?",
    "problem": "A flat sheet of paper flops over, but a sheet rolled into a tube can stand up. Use one sheet of paper to hold a steel plate at least 5 centimetres above the table.",
    "constraints": [
     "Use only one sheet of paper, about the size of a notebook page.",
@@ -1236,7 +1236,7 @@
      "mins": 9,
      "do": "1. Your child tries ways to fold or roll the sheet. 2. Test each one with the plate. 3. Measure the height with the ruler.",
      "say": "Try it. Does it hold the plate? How high is the plate now?",
-     "kid": "Try it. Does it hold the plate? How high?",
+     "kid": "Roll or fold the sheet. Stand it up and put the plate on top.",
      "parent": "A tube rolled from a notebook page, about 6 centimetres wide, usually holds a small steel plate easily. If the plate tips, tape the tube to keep it from unrolling."
     },
     {
@@ -1244,7 +1244,7 @@
      "mins": 3,
      "do": "1. Ask the questions below.",
      "say": "The flat sheet flopped. What changed when you rolled it?",
-     "kid": "What changed when you rolled the sheet?",
+     "kid": "Compare the flat sheet and the rolled sheet. Which one stands up?",
      "check": {
       "t": "mcq",
       "q": "Why could the rolled sheet hold the plate when the flat sheet could not?",

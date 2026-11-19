@@ -184,23 +184,23 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 
 ## Games
 ### g1 · Make a Raindrop: a counting card game (15 min)
-- **rules:** Cut out the 30 cards. Shuffle them and put them face down in a pile. This pile is the cloud.; Take turns. On your turn, take the top card from the pile and put it face up in front of you. Add up all your drops.; When your drops add up to exactly 10, you have made a raindrop. It falls. Draw a raindrop on the score sheet and put those cards aside.; If your drops add up to more than 10, the drop is too big and splits. Put the card you just took back under the pile.; If you take a Sun card, choose one of your drop cards to evaporate. Put it back under the pile, with the Sun card. If you have no drop cards, just put the Sun card back under the pile.; When the pile is used up, or after 15 minutes, the player with the most raindrops wins. If you have the same number, you both win.
+- **rules:** Cut out the 30 cards. Shuffle them and put them face down in a pile. This pile is the cloud.; Take turns. On your turn, take the top card from the pile and put it face up in front of you. Add up all your drops.; When your drops add up to exactly 10, you have made a raindrop. It falls. Make a tick on the score sheet and put those cards aside.; If your drops add up to more than 10, the drop is too big and splits. Put the card you just took back under the pile.; If you take a Sun card, choose one of your drop cards to evaporate. Put it back under the pile, with the Sun card. If you have no drop cards, just put the Sun card back under the pile.; When the pile is used up, or after 15 minutes, the player with the most raindrops wins. If you have the same number, you both win.
 - **Printable cards: 30 drop cards to cut out:** ●  1 tiny drop; ●  1 tiny drop; ●  1 tiny drop; ●  1 tiny drop; ●  1 tiny drop; ●  1 tiny drop; ●  1 tiny drop; ●  1 tiny drop; ● ●  2 tiny drops; ● ●  2 tiny drops; ● ●  2 tiny drops; ● ●  2 tiny drops; ● ●  2 tiny drops; ● ●  2 tiny drops; ● ●  2 tiny drops; ● ●  2 tiny drops; ● ● ●  3 tiny drops; ● ● ●  3 tiny drops; ● ● ●  3 tiny drops; ● ● ●  3 tiny drops; ● ● ●  3 tiny drops; ● ● ●  3 tiny drops; ● ● ● ●  4 tiny drops; ● ● ● ●  4 tiny drops; ● ● ● ●  4 tiny drops; ● ● ● ●  4 tiny drops; Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile.; Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile.; Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile.; Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile.
-- **Printable score sheet: Raindrop score sheet:** Player name; Raindrops made (draw one raindrop for each)
+- **Printable score sheet: Raindrop score sheet:** Player name; Raindrops made (make one tick for each)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards with your child. 2. Shuffle them into a pile. 3. Read the rules together.  
   *Parent says:* This pile is a cloud. Each card has some tiny drops. Join drops until you have exactly ten. Then your raindrop is heavy enough to fall.  
-  *Child mode:* This pile is the cloud. Join drops until you have exactly ten. Then your raindrop falls!
+  *Child mode:* Take cards from the cloud. Try to make exactly ten.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns taking a card. 2. Add up your drops out loud each turn. 3. Mark each raindrop on the score sheet.  
   *Parent says:* I have three and four. That makes seven. I need three more to make ten. How many do you have?  
-  *Child mode:* Take a card. Add up your drops out loud. How many more do you need for ten?
+  *Child mode:* Take a card. Add up your drops out loud.
   - Ask: You have 6 drops. How many more do you need to make a raindrop? (good: 4 more, because 6 and 4 make 10.)
   - Note: Help your child count on from the bigger number. Keep the cards visible so they can check.
 - **s3 (2 min)**  
   *Parent does:* Count each player's raindrops. Then ask how many tiny drops make a real raindrop.  
-  *Parent says:* In the game, ten drops made a raindrop. How many tiny cloud drops make a real raindrop?  
-  *Child mode:* Ten drops made a raindrop in the game. How many in a real cloud?
+  *Parent says:* In the game, ten tiny drops made a raindrop. Think about a real cloud.  
+  *Child mode:* Ten drops made a raindrop in the game. Think about a real raindrop.
   - Ask: How many cloud drops make a real raindrop? (good: About a million.; Far more than ten.)
   - Note: A real raindrop holds about as much water as a million cloud drops. The game uses ten so you can count it.
 ### g2 · Float, Join, Fall! A cloud drop moving game (10 min)
@@ -209,7 +209,7 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 - **s1 (2 min)**  
   *Parent does:* 1. Clear a space. 2. Cut out and shuffle the cards. 3. Choose who reads the first card.  
   *Parent says:* You are all tiny cloud drops. Tiny drops are light, so you float slowly. Listen for the cards.  
-  *Child mode:* You are a tiny cloud drop. Float slowly on tiptoe. Listen to the person reading the cards.
+  *Child mode:* You are a tiny cloud drop. Float slowly on tiptoe.
 - **s2 (6 min)**  
   *Parent does:* 1. Turn over one card at a time and read it out. 2. Everyone acts it out. 3. Pass the pile to the next person after each card.  
   *Parent says:* Bump! Join hands with the drop nearest you. Now you are a bigger drop. Rain! Who is joined up and can fall?  
@@ -217,8 +217,8 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   - Ask: Why can't one drop on its own fall as rain? (good: It is too small and light.; It has to join other drops first.)
 - **s3 (2 min)**  
   *Parent does:* Sit down together and ask about the game.  
-  *Parent says:* In the game, who fell as rain? Who kept floating? Why?  
-  *Child mode:* Who fell as rain? Who kept floating? Why?
+  *Parent says:* In the game, who fell as rain? Who kept floating?  
+  *Child mode:* Think about who fell and who floated.
   - Ask: What made a group fall? (good: It had joined enough drops.; It got big and heavy.)
 
 ## Experiments
@@ -226,36 +226,36 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 - **question:** When tiny drops of mist land on a plate, do they run down straight away? How many sprays does it take before a drop runs down?
 - **predict:** When the plate is sprayed once, will the water run down straight away? How many sprays do you think it will take before a drop runs down? Why do you think so?
 - **fair test:** We stand the plate the same way each time, and spray from the same distance, one ruler length away. We spray once at a time and count every spray. We wipe the plate dry before each try. We do three tries, because one try can be just by chance.
-- **record:** Write your guess. Make one tally mark for each spray. Circle the mark for the spray when the first drop ran down. Draw the plate after 2 sprays, and again just before the drop ran down.
+- **record:** Write your guess. Make one tally mark for each spray. Circle the mark for the spray when the first drop ran down. Draw the plate after 2 sprays, and again just before the drop ran down. Or tell your grown-up what the drops looked like, and they write it down.
 - **results table:** Try | My guess: how many sprays? | Sprays until the first drop ran down | What the drops looked like before that
 - **s1 (3 min)**  
   *Parent does:* 1. Do this in the kitchen or bathroom, where a wet wall does not matter. 2. Stand the plate on its edge on the tray, leaning against the wall. 3. Turn the nozzle to its finest mist. 4. Show your child the plate and the bottle.  
-  *Parent says:* We are going to spray a fine mist onto this plate, one spray at a time. Will the water run down straight away? How many sprays will it take? Why do you think so?  
-  *Child mode:* Look at the plate and the spray bottle. Will the water run down at once? Guess how many sprays. Say why.
-  - Ask: How many sprays will it take? Why? (good: One, because water always runs down.; Lots, because the mist is tiny.; A few, because the drops have to get bigger.)
+  *Parent says:* We will spray a fine mist onto this plate, one spray at a time. A cloud is made of tiny drops like these. Let us see what they do.  
+  *Child mode:* Look at the plate and the spray bottle. Think about what the water will do.
+  - Ask: Will the water run down at once? How many sprays will it take? Why? (good: One, because water always runs down.; Lots, because the mist is tiny.; A few, because the drops have to get bigger.)
   - Note: Don't say if the guess is right. Many children say one spray, because water always runs down. Write the guess down.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child holds the bottle one ruler length from the plate. 2. They spray once. 3. You both look closely at the plate from the side.  
-  *Parent says:* Spray once. Now look very closely. What is on the plate? Is anything moving?  
-  *Child mode:* Spray once. Look very closely at the plate. What do you see? Does anything move?
+  *Parent says:* Spray once. Now look closely from the side. Is anything moving?  
+  *Child mode:* Spray once. Look very closely at the plate.
   - Ask: What do you see on the plate? (good: Tiny dots of water.; The plate looks dull, like when you breathe on it.; Nothing is running down.)
   - Note: After one spray, the plate goes dull and is covered in tiny drops. None of them move. If the bottle shoots a jet, not a mist, turn the nozzle or stand further back.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child sprays one spray at a time, with a short wait between. 2. You make one tally mark for each spray. 3. Stop when the first drop runs down. 4. Count the marks together.  
-  *Parent says:* Keep spraying, one at a time. I will make a mark for each spray. Watch the drops. Shout stop when one runs down.  
-  *Child mode:* Spray again, one at a time. Watch the drops grow. Shout stop when one runs down.
+  *Parent says:* Keep spraying, one at a time. I will make a mark for each spray.  
+  *Child mode:* Spray again, one at a time. Watch the drops. Shout stop when one runs down.
   - Ask: What happened to the tiny drops as you kept spraying? (good: They got bigger.; Two drops touched and became one.; The big drop ran down and took the small ones with it.)
   - Note: Most bottles take somewhere between 5 and 30 sprays, depending on the bottle and the plate. Any number is a real result. Look for drops touching and joining.
 - **s4 (5 min)**  
   *Parent does:* 1. Wipe the plate completely dry. 2. Do the test again, from the same distance, counting every spray. 3. Dry it and do it a third time. 4. Write all three numbers in the table.  
-  *Parent says:* Let us do it twice more, the same way, in case the first try was just by chance. Did you get the same number each time?  
+  *Parent says:* Let us do it twice more, the same way, in case the first try was just by chance.  
   *Child mode:* Wipe the plate dry. Do it again. Then once more. Write your three numbers.
   - Ask: Were the three numbers the same? (good: Close, but not exactly the same.; It always took many sprays, never just one.)
   - Note: The numbers will be close but not the same. That is normal. What matters is that it always takes many sprays before a drop runs down.
 - **s5 (3 min)**  
-  *Parent does:* 1. Ask your child why the tiny drops stayed still and what made one run down. 2. Then tell them that a cloud is made of drops even tinier than the mist. 3. Take one big drop on the tip of a spoon, about as big as a pea. Touch it to the dry plate near the top and watch it run.  
-  *Parent says:* Why did the first sprays not run down? What had to happen first? Now watch one big drop from a spoon. A cloud is made of drops even tinier than the mist.  
-  *Child mode:* Why did the tiny drops stay still? What made one run down? Now watch one big drop from a spoon on the plate.
+  *Parent does:* 1. Take one big drop on the tip of a spoon, about as big as a pea. 2. Touch it to the dry plate near the top and watch it run. 3. Tell your child that a cloud is made of drops even tinier than the mist. Then ask the question below.  
+  *Parent says:* Now watch one big drop from a spoon. A cloud is made of drops even tinier than this mist.  
+  *Child mode:* Watch what the big drop from the spoon does on the plate.
   - Ask: What has to happen in a cloud before rain falls? (good: The tiny drops have to join into a big drop.; The drop has to get heavy enough to fall.)
   - Note: Wait for your child's reason before you explain. The big drop from the spoon usually runs down at once, because it is already big and heavy. If it clings, add a second drop to it. Tiny drops cling on until many have joined.
   - Check: Why did the tiny drops from the first spray stay on the plate? → **They were too small and light to run down**
@@ -265,13 +265,13 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 - **predict:** When we catch raindrops in flour, will all the dough balls be the same size? Why do you think so?
 - **fair test:** We hold the plate out for just 3 seconds, so the drops don't land on top of each other. We use a smooth, flat layer of flour. We sort the balls by size only after they have dried a little.
 - **safety:** A grown-up holds the plate out, and the child stays inside the balcony railing or behind the window grill. Don't do this in a thunderstorm with lightning.
-- **record:** Draw the three circles. Put the dough balls in the right circle and count them. Write the numbers under each circle.
+- **record:** Put the dough balls in the right circle and count them. Write the number next to each circle.
 - **results table:** Size of dough ball | My guess: how many? | How many we found
 - **s1 (4 min)**  
   *Parent does:* 1. Fill the plate with flour, about one finger deep. 2. Smooth it flat with the back of a spoon. 3. Draw three circles on paper: small, medium, big.  
-  *Parent says:* Each raindrop that lands in the flour will make a little ball of dough. Will all the balls be the same size? Why do you think so?  
-  *Child mode:* Each raindrop will make a dough ball. Will they all be the same size? Say why.
-  - Ask: Will all the raindrops be the same size? (good: Yes, because they all come from the same cloud.; No, because some drops joined more than others.)
+  *Parent says:* Each raindrop that lands in the flour will make a little ball of dough. A bigger drop makes a bigger ball.  
+  *Child mode:* Think about the dough balls the raindrops will make.
+  - Ask: Will all the dough balls be the same size? Why do you think so? (good: Yes, because they all come from the same cloud.; No, because some drops joined more than others.)
   - Note: Any guess with a reason is good. Write it down.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. Hold the plate out in the rain, flat. 2. Your child counts to three slowly. 3. Bring it in at once.  
@@ -285,13 +285,13 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   - Wait: Leave the plate for at least 20 minutes before sieving.
 - **s4 (10 min)**  
   *Parent does:* 1. Gently sieve the flour with a tea strainer. 2. Your child sorts the balls onto the three circles. 3. Count the balls in each circle together.  
-  *Parent says:* Let us sieve out the balls. Put each one in the right circle. Which circle has the most?  
+  *Parent says:* Let us sieve out the balls. Put each one in the right circle.  
   *Child mode:* Sieve out the dough balls. Put each one in a circle. Count them.
   - Ask: Which size did you find most of? (good: Small ones.; There were many sizes, not just one.)
 - **s5 (3 min)**  
-  *Parent does:* Ask your child why the raindrops were different sizes.  
-  *Parent says:* Why were some raindrops big and some small? Think about the Spray Plate experiment, where tiny drops joined into one big drop.  
-  *Child mode:* Why were some drops big and some small? Think about the Spray Plate experiment, where tiny drops joined into one big drop.
+  *Parent does:* Remind your child of the Spray Plate test. Then ask the question below.  
+  *Parent says:* Some dough balls were big and some were small. Think about the Spray Plate, where tiny drops joined.  
+  *Child mode:* Think about the Spray Plate. What happened to the tiny drops?
   - Ask: Why are raindrops different sizes? (good: Some drops joined with more drops than others.; A big drop swallowed lots of little ones on the way down.)
   - Note: Raindrops grow by joining, and each drop meets a different number of others, so sizes vary.
   - Check: Why were the raindrops in the flour different sizes? → **Each drop had joined a different number of tiny drops**
@@ -300,22 +300,22 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 ### a1 · Mist in the Torch Beam: do tiny drops fall as fast as big ones? (10 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Close the curtains and switch off the lights. 2. Put the torch on a table so its beam shines sideways across the room.  
-  *Parent says:* I am going to spray a puff of mist into the light. Then I will drop one big drop from a spoon. Which will reach the floor first? Why do you think so?  
-  *Child mode:* Look at the torch beam. Which will reach the floor first: the mist, or a drop from a spoon? Say why.
-  - Ask: Which will reach the floor first? (good: The spoon drop, because it is big.; The same, because both are water.)
+  *Parent says:* I will spray a puff of mist into the light. Then I will drop one big drop from a spoon, from the same height.  
+  *Child mode:* Look at the torch beam. Get ready to watch the mist and the spoon drop.
+  - Ask: Which will reach the floor first, the mist or the spoon drop? Why? (good: The spoon drop, because it is big.; The same, because both are water.)
 - **s2 (4 min)**  
   *Parent does:* 1. Spray one puff of mist into the beam, at head height. 2. Count slowly how long you can see it in the light. 3. Then tip one drop off a spoon at the same height, through the beam.  
-  *Parent says:* Watch the mist sparkle. Count with me: one, two, three. Now watch the drop from the spoon. Which was faster?  
-  *Child mode:* Watch the mist sparkle. Count how long it floats. Now watch the drop from the spoon.
+  *Parent says:* Watch the mist sparkle. Count with me: one, two, three. Now watch the drop from the spoon.  
+  *Child mode:* Count how long the mist floats. Then watch the drop from the spoon.
   - Ask: What did the mist do? (good: It sparkled and drifted slowly.; Some of it floated for a long time.)
   - Note: The drop from the spoon falls in a blink. The mist drifts, and some of it hangs in the beam for several seconds. Wipe the floor after.
 - **s3 (3 min)**  
-  *Parent does:* Ask your child what this tells us about clouds.  
-  *Parent says:* A cloud is made of drops even tinier than this mist. What does that tell you about why clouds float?  
-  *Child mode:* Cloud drops are even tinier than the mist. Why do clouds float?
+  *Parent does:* Tell your child that cloud drops are even tinier than mist. Then ask the question below.  
+  *Parent says:* A cloud is made of drops even tinier than this mist. Think about what you just saw.  
+  *Child mode:* Cloud drops are even tinier than the mist.
   - Ask: Why can a cloud float? (good: Its drops are so tiny that they fall very slowly.; The air holds tiny drops up.)
   - Think: If tiny drops float, how does a cloud ever make rain?
-### a2 · White or Grey? Draw today's clouds (10 min)
+### a2 · White or Grey? Sort today's clouds (10 min)
 - **safety:** Never look straight at the Sun.
 - **s1 (4 min)**  
   *Parent does:* 1. Go to a window or balcony. 2. Look at the sky together, away from the Sun. 3. Point out white clouds and grey clouds.  
@@ -323,48 +323,48 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   *Child mode:* Look at the sky, away from the Sun. Find white clouds. Find grey ones.
   - Ask: What is different about the grey clouds? (good: They look thick and heavy.; Their bottoms are dark.; They look like rain is coming.)
 - **s2 (4 min)**  
-  *Parent does:* 1. Fold the paper to make two boxes. Label one 'white' and the other 'grey'. 2. Your child draws each cloud they see in the right box.  
-  *Parent says:* Draw each cloud in its box. Make a mark for each one. Which box has more?  
-  *Child mode:* Draw each cloud in the right box. Count them.
-  - Note: On a clear day there may be no clouds. Then draw an empty sky, and try again another day.
+  *Parent does:* 1. Fold the paper to make two boxes. Label one 'white' and the other 'grey'. 2. Your child points at each cloud and says white or grey. 3. You make a tally mark in that box.  
+  *Parent says:* Point at a cloud and tell me: white or grey? I will make a mark in its box. Which box has more?  
+  *Child mode:* Point at each cloud. Say white or grey. Count the marks.
+  - Note: On a clear day there may be no clouds. Then try again another day.
 - **s3 (2 min)**  
   *Parent does:* Ask your child which clouds might rain.  
-  *Parent says:* All clouds are made of tiny water drops. So why are some white and some grey? Which ones might rain?  
-  *Child mode:* Which clouds might rain today? Why do you think so?
-  - Ask: Which clouds are more likely to rain? (good: The grey ones, because they are thick and full of water.)
+  *Parent says:* All clouds are made of tiny water drops. Yet some look white and some look grey.  
+  *Child mode:* Think about how the white clouds and the grey clouds are different.
+  - Ask: Which clouds are more likely to rain? Why? (good: The grey ones, because they are thick and full of water.)
   - Note: A thick cloud stops most of the sunlight, so its bottom looks grey. A thick cloud also holds more water, so its drops have more chances to join.
 ### a3 · The Window Race: watch big drops swallow small ones (10 min)
 - **s1 (3 min)**  
   *Parent does:* 1. On a rainy day, sit by a window. 2. If it is not raining, spray a glass window or a mirror until drops form. 3. Look at the small drops and the big ones.  
-  *Parent says:* Look at the drops on the glass. Which ones are moving? Which ones are still?  
-  *Child mode:* Look at the drops on the glass. Which ones move? Which stay still?
+  *Parent says:* Look at the drops on the glass. Some are big and some are small.  
+  *Child mode:* Look at the drops on the glass. Watch which ones stay still.
   - Ask: Which drops are moving? (good: Only the big ones.; The small ones stay still.)
 - **s2 (5 min)**  
   *Parent does:* 1. Each of you picks one big drop near the top. 2. Follow it down with a finger held just in front of the glass. 3. Count how many small drops it swallows.  
-  *Parent says:* Pick one big drop to be your racer. Follow it down. Count each small drop it swallows. Does it get faster or slower?  
-  *Child mode:* Pick a big drop. Follow it down. Count the small drops it swallows.
+  *Parent says:* Pick one big drop to be your racer. Follow it with your finger. Does it get faster or slower?  
+  *Child mode:* Count the small drops your racer swallows.
   - Ask: What happened each time the racer swallowed a drop? (good: It got bigger.; It went faster.)
   - Note: A big drop runs down, joins the small ones in its way, grows and often speeds up. Raindrops grow the same way as they fall through a cloud.
 - **s3 (2 min)**  
   *Parent does:* Write down how many small drops each big drop swallowed. Ask what this shows about raindrops.  
-  *Parent says:* Whose racer swallowed the most? How is this like the drops inside a cloud?  
-  *Child mode:* Whose drop swallowed the most? How is this like a cloud?
+  *Parent says:* Compare your numbers. Whose racer swallowed the most?  
+  *Child mode:* Compare how many drops each racer swallowed.
   - Ask: How is the window like a cloud? (good: In both, small drops join into big drops.; Big drops fall and pick up small ones on the way.)
 
 ## Projects
 ### p1 · Grey Sky, Rainy Day? Four weeks of sky pictures (77 min, 28 days)
 - **safety:** Never look straight at the Sun.
-- **record:** In each box: a quick drawing of the sky (blue for clear, white outlines for white clouds, grey for grey clouds) and a raindrop if it rained that day. At the end, a tally table with four rows.
-- **schedule:** day 1: Make the sky book: 28 boxes, one for each day. Draw today's sky and mark rain or no rain. (10 min); day 2: From day 2 to day 27, at the same time each day, draw the sky in the day's box. Mark a raindrop if it rained that day. (2 min); day 28: Draw today's sky. Then count: grey days with rain, grey days without, white or clear days with rain, white or clear days without. (15 min)
+- **record:** In each box: G for grey clouds, W for white clouds or C for clear sky, and a raindrop if it rained that day. On day 1 and day 28, also draw the sky, or take a photo. At the end, a tally table with four rows.
+- **schedule:** day 1: Make the sky book: 28 boxes, one for each day. Mark today's sky and rain or no rain. Draw the sky, or take a photo of it. (10 min); day 2: From day 2 to day 27, at the same time each day, write G, W or C in the day's box. Mark a raindrop if it rained that day. (2 min); day 28: Mark today's sky, and draw it or take a photo. Then count: grey days with rain, grey days without, white or clear days with rain, white or clear days without. (15 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Make 28 boxes in the notebook. 2. Choose a time each day, such as after school. 3. Draw today's sky in the first box.  
-  *Parent says:* Every day for four weeks, you will draw the sky. At the end we will find out: do grey skies really bring rain?  
-  *Child mode:* Draw the sky in today's box. Grey, white or blue? Did it rain?
+  *Parent does:* 1. Make 28 boxes in the notebook. 2. Choose a time each day, such as after school. 3. In the first box, write G for grey clouds, W for white clouds or C for clear sky. If the sky is mixed, choose what covers most of it. 4. Draw today's sky on a page of its own, or take a photo.  
+  *Parent says:* Every day for four weeks, you will look at the sky. At the end we will find out: do grey skies really bring rain?  
+  *Child mode:* Look at the sky. Is it grey, white or clear? Did it rain?
   - Note: Choose a month when rain is likely where you live, for example June to September in most of India, or October to December in Chennai.
 - **s2 (52 min)**  
-  *Parent does:* Each day, your child draws the sky and marks rain or no rain.  
-  *Parent says:* Time for the sky book. What is the sky like today? Did it rain?  
-  *Child mode:* Look at the sky. Draw it in today's box. Mark a raindrop if it rained.
+  *Parent does:* Each day, your child looks at the sky. They write G, W or C in the day's box and mark rain or no rain.  
+  *Parent says:* Time for the sky book. What is the sky like today?  
+  *Child mode:* Write G, W or C in today's box. Mark a raindrop if it rained.
   - Wait: Do this once a day from day 2 to day 27. It takes about 2 minutes each day.
 - **s3 (15 min)**  
   *Parent does:* 1. Make a table with four rows: grey days with rain, grey days without, white or clear days with rain, white or clear days without. 2. Count each kind of day with tally marks. 3. Ask what the numbers show.  
@@ -395,9 +395,9 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   *Child mode:* Spray 20 times. Count out loud. Is your doll dry?
   - Ask: Where did the drops go? (good: They joined and ran off the roof.; Some soaked into the newspaper.)
 - **s4 (5 min)**  
-  *Parent does:* Look at the usual and creative solutions together. Improve the shelter and test again.  
+  *Parent does:* Look at the ideas other people have used. Improve the shelter and test again.  
   *Parent says:* Here are some ideas people use. What one thing would you change? Let us test it again.  
-  *Child mode:* Look at the ideas. Change one thing. Test it again.
+  *Child mode:* Pick one idea. Change one thing. Test again.
 
 ## Worksheets
 ### Tiny Drops and Raindrops (core) (core, 10 questions)

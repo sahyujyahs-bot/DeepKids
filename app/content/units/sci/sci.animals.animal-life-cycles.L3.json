@@ -585,7 +585,7 @@
    "title": "Who Comes Next? A life cycle card game",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a card game about putting the stages of animal life cycles in order: frog, butterfly, hen, mosquito and grasshopper.",
+   "context": "This is a card game about putting the stages of animal life cycles in order: frog, butterfly, hen, mosquito and grasshopper. You will find out which animals change shape as they grow, and which just get bigger.",
    "printables": [
     {
      "kind": "cards",
@@ -727,8 +727,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 20 stage cards and the 8 question cards. 2. Lay all the stage cards face up and read them together for one minute.",
-     "say": "These cards show five animals at different ages. Before we play, let's read them. Which stages look nothing like the grown-up animal?",
-     "kid": "Read all the cards. Find the stages that look nothing like the grown-up animal. How many can you find?",
+     "say": "These cards show five animals at different ages, from egg to adult. Before we play, let's look at them all.",
+     "kid": "Look at all the cards. Put the ones that look nothing like the grown-up animal in a separate pile.",
      "ask": [
       {
        "q": "Which young animals look nothing like their parents?",
@@ -746,8 +746,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Take out the four hen cards. Ask your child to put them in order, as a practice round.",
-     "say": "Let's practise with the hen. Put these four cards in order, from the very start of their life.",
-     "kid": "Practice round. Put the four hen cards in order. Start with the very beginning.",
+     "say": "Let's practise with the hen. Put her four cards in order, from the very start of her life.",
+     "kid": "Practice round. Lay the four hen cards in a row. Put the first stage on the left.",
      "check": {
       "t": "mcq",
       "q": "In a hen's life cycle, what comes straight after the egg?",
@@ -759,7 +759,7 @@
       "a": 0,
       "why": "A chick hatches straight out of the egg. They already look like a small, fluffy hen, so a hen has no larva and no tadpole. Picking 'larva' usually means thinking every animal changes shape. Only some do, like butterflies and mosquitoes."
      },
-     "parent": "The four hen cards show the egg, the chick hatching, the chick growing and the hen laying an egg. A hen has three stages: egg, chick and adult. The last card shows that the adult starts the cycle again."
+     "parent": "The four hen cards show the egg in a nest, the chick hatching, the chick growing and the hen laying an egg. A hen has three stages: egg, chick and adult. The last card shows that the adult starts the cycle again."
     },
     {
      "id": "s3",
@@ -772,9 +772,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "When the mosquito or grasshopper is completed, stop and compare that animal with the butterfly cards.",
-     "say": "The mosquito has four stages, like the butterfly, with a resting stage called the pupa. The grasshopper has no resting stage. Their babies, called nymphs, look like small grasshoppers without wings.",
-     "kid": "Compare the grasshopper and the butterfly. Which one has a resting stage that doesn't eat?",
+     "do": "When the mosquito or grasshopper is completed, stop and lay their cards next to the butterfly cards.",
+     "say": "The butterfly's chrysalis is a resting stage. The chrysalis does not eat. Scientists call a resting stage a pupa. Now look at the mosquito and grasshopper cards.",
+     "kid": "Put the butterfly, mosquito and grasshopper cards in three rows. Point to any stage that looks like a chrysalis.",
      "check": {
       "t": "mcq",
       "q": "Which animal has a pupa, a resting stage, in their life cycle?",
@@ -792,7 +792,7 @@
      "mins": 2,
      "do": "Count each player's completed animals. Then ask the closing question.",
      "say": "Who won? Now, everyone, tell me. Which animal's life would you most like to live, and why?",
-     "kid": "Who laid down the most animals? They win! Which animal's life would you like to live? Why?",
+     "kid": "Count the animals each player laid down. The most wins. Then pick the animal whose life you like best.",
      "think": "If you were a caterpillar, would you want to become a butterfly? Would you still be you?"
     }
    ]
@@ -802,7 +802,7 @@
    "title": "Grow Up! Three race tracks",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a board race game. Each player is a frog, a butterfly or a hen, and races from egg to adult, meeting real dangers and helps on the way.",
+   "context": "This is a board race game. Each player is a frog, a butterfly or a hen, and races from egg to adult. You will find out what happens to each animal as they grow, and what dangers they meet.",
    "printables": [
     {
      "kind": "board",
@@ -889,7 +889,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Print the board and cut out the counters. 2. Each player chooses frog, butterfly or hen. 3. Put the counters on square 1.",
+     "do": "1. Print the board and cut out the counters. 2. Each player chooses frog, butterfly or hen. 3. Put each counter on square 1 of that animal's track.",
      "say": "Each of you is a baby animal. Your job is to grow up. But be careful, the world is full of hungry animals.",
      "kid": "Pick your animal: frog, butterfly or hen. Put your counter on square 1. Now grow up!",
      "context": "This is the first step of Grow Up!, a race from egg to adult on three tracks."
@@ -897,15 +897,15 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "Take turns rolling and moving. Read every square out loud. On a square that changes the body, the player says what is changing.",
-     "say": "When you land on a square that changes your body, tell us what is happening inside you.",
-     "kid": "Roll and move. Read your square. If your body changes, say how.",
+     "do": "Players take turns to roll and move. Help anyone who finds a square hard to read.",
+     "say": "Read your square out loud. If it is about your body, tell us what is changing.",
+     "kid": "Roll the dice. Move your counter. Do what your square says.",
      "parent": "The frog's square 10 and the butterfly's square 11 are the key ideas. The tadpole does not eat because they live on their own tail. The chrysalis does not eat because the body inside is being rebuilt. Ask: 'Where does the material for your new legs come from?'",
      "check": {
       "t": "mcq",
-      "q": "Hen square 2 says 'Your mother turns your egg: move on 1.' Why does a hen turn her eggs?",
+      "q": "Why does a hen turn her eggs?",
       "options": [
-       "So every side of the egg gets warm, and the chick does not stick to the shell",
+       "So every side of the egg stays warm",
        "So the egg rolls away from danger",
        "So the shell grows harder"
       ],
@@ -917,8 +917,8 @@
      "id": "s3",
      "mins": 4,
      "do": "When someone wins, everyone answers the closing question.",
-     "say": "Our animals are grown up. Tell me one thing your animal can do now that they could not do as a baby.",
-     "kid": "You grew up! Say one thing your adult can do that the baby couldn't.",
+     "say": "Our animals are all grown up. Look back along your track before you answer.",
+     "kid": "You grew up! Think about how your baby looked, and how your adult looks now.",
      "ask": [
       {
        "q": "What can your adult do that your baby could not?",
@@ -1537,7 +1537,7 @@
      "qty": "2"
     },
     {
-     "item": "very hot water: half just-boiled water from a kettle and half cold tap water, enough to cover one egg",
+     "item": "very hot water: just-boiled water from a kettle with a splash of cold tap water added, enough to cover one egg",
      "qty": "about 2 cups"
     },
     {
@@ -1559,11 +1559,11 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess what will happen. Put one egg in very hot water and one in cold water. Watch for bubbles. In one minute, count the trails from each half. Write it down."
+     "what": "Guess what will happen. Put one egg in very hot water and one in cold water. Watch for bubbles. In one minute, count the trails from each half. Write the numbers down."
     }
    ],
-   "record": "Fill in the table. Draw your egg and mark where the bubbles came out.",
-   "context": "This experiment tests whether air can pass through an eggshell. You put one egg in very hot water and one in cold water, and look for bubbles.",
+   "record": "Fill in the table. Then tell your grown-up where on the egg the bubbles came out, or take a photo of it.",
+   "context": "This experiment tests whether air can pass through an eggshell. You will find out how a chick shut inside a shell can breathe. You put one egg in very hot water and one in cold water, and look for bubbles.",
    "setup": [
     {
      "art": "Two clear glasses side by side, one labelled 'hot' with a little steam, one labelled 'cold', each with a whole raw egg at the bottom.",
@@ -1607,8 +1607,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Give your child a raw egg. 2. Ask them to look closely at the shell, with a magnifying glass if you have one.",
-     "say": "A chick grows inside an egg for three weeks. They need to breathe the whole time. But the shell looks solid. How could air get in?",
-     "kid": "Look closely at an eggshell. Can you see any holes? A chick inside needs air. How could they breathe?",
+     "say": "A chick grows inside an egg for three weeks. They need to breathe the whole time. But the shell looks solid.",
+     "kid": "Look closely at the eggshell. Run a finger over it. Can you see or feel any holes?",
      "ask": [
       {
        "q": "How do you think a chick breathes inside an egg?",
@@ -1625,9 +1625,9 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Ask your child to guess, give a reason, and write the guess down.",
-     "say": "We will put one egg in very hot water and one in cold water. What do you think will happen to each egg? Why do you think so?",
-     "kid": "Guess first. What will happen in hot water? In cold water? Why? Write your guess."
+     "do": "Ask your child for a guess and a reason. Write the guess down. A child who cannot write yet can tell you, and you write it.",
+     "say": "We will put one egg in very hot water and one in cold water. What do you think will happen to each egg? Why?",
+     "kid": "Say your guess for each egg, and say why. Your grown-up can write it down."
     },
     {
      "id": "s3",
@@ -1642,15 +1642,15 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Watch the hot egg for one minute. Two people count at once: one counts the trails of bubbles from the round half, the other from the pointed half. 2. If there is only one of you, film the egg for a minute on a phone and count afterwards. 3. Look at the cold egg. 4. Write the numbers in the table.",
-     "say": "Let's count the thin lines of bubbles. Each line is coming out of one tiny hole, or a few. Make a tally mark for each line.",
-     "kid": "Count the lines of bubbles at the round end. Your helper counts at the pointed end, at the same time. Make tally marks. Then look at the cold egg.",
+     "say": "Let's count the thin lines of bubbles. Make a tally mark for each line you see.",
+     "kid": "Count the lines of bubbles at the round end. Your grown-up counts at the pointed end, at the same time. Make tally marks. Then look at the cold egg.",
      "check": {
       "t": "mcq",
       "q": "In the eggshell bubbles experiment, bubbles came out of the egg in very hot water. What does this show?",
       "options": [
        "The shell has tiny holes that let air through",
        "The egg is boiling",
-       "Water is getting into the egg and pushing out bubbles"
+       "Water is pushing bubbles out of the egg"
       ],
       "a": 0,
       "why": "The heat makes the air inside the egg swell. It pushes out through thousands of tiny holes in the shell. The same holes let fresh air in for a growing chick. Picking 'the egg is boiling' usually means thinking bubbles always mean boiling. But the water is not boiling, and the bubbles come from the shell, not the water."
@@ -1659,9 +1659,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child for three short sentences. Write them down if your child would like that.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
-     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "kid": "Be the scientist. Tell your grown-up your answer in three parts.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this (the numbers are made up). What I think: an eggshell has tiny holes that let air through. What I saw: in hot water, about 17 lines of bubbles came from the round half and 6 from the pointed half. In cold water there were none. Why: the heat made the air inside swell and push out through the holes. There is an air pocket at the round end, so more came out there. A chick breathes through the same holes. For the last question, a good answer is about the two thin skins under the shell. They help keep germs and water out. Air can still pass through.",
      "think": "A hen's eggshell has thousands of tiny holes. Why don't germs and water get in more easily? Hint: there is a thin skin under the shell."
     }
@@ -1722,8 +1722,8 @@
      "what": "Rinse the naked egg. Measure it. Shine a torch through it. Gently test its bounce."
     }
    ],
-   "record": "Fill in the table each day. Draw the egg on Day 1 and on Day 3.",
-   "context": "In this experiment, vinegar slowly takes away an egg's shell over two days. You find out what is underneath.",
+   "record": "Fill in the table each day. Take a photo of the egg on Day 1 and on Day 3, or draw it.",
+   "context": "In this experiment, vinegar slowly takes away an egg's shell over two days. You will find out what holds the egg together when the shell is gone.",
    "setup": [
     {
      "art": "A child wrapping a string round the middle of an egg, and a ruler beside it.",
@@ -1772,8 +1772,8 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Put the egg gently in the jar. 2. Pour in vinegar until the egg is covered. 3. Watch for two minutes. 4. Put the lid on loosely.",
-     "say": "Look at the shell. Tiny bubbles are growing on it. What do you think is happening?",
-     "kid": "Put the egg in the jar. Cover it with vinegar. Watch the shell. What do you see?",
+     "say": "Look closely at the shell. Tiny bubbles are starting to grow on it.",
+     "kid": "Put the egg in the jar. Cover it with vinegar. Watch the shell for two minutes.",
      "ask": [
       {
        "q": "What is happening on the shell?",
@@ -1799,8 +1799,8 @@
      "id": "s4",
      "mins": 10,
      "do": "1. Lift the egg out with a spoon and rinse it gently under the tap. 2. Rub off any leftover shell. 3. Measure it with the string again. 4. In a dark room, shine a torch through it. 5. Drop it from 2 cm, about the width of two fingers, onto a tray.",
-     "say": "The shell is gone. What is holding the egg together now? Gently feel it. Now let's shine a light through it.",
-     "kid": "Rinse your egg. Feel it gently. Measure it again. Shine a torch through it. Can you see the yolk?",
+     "say": "The shell is gone, but the egg has not spilled. Gently feel it. Now let's shine a light through it.",
+     "kid": "Rinse your egg and feel it gently. Measure it again. Shine a torch through it. Then drop it onto the tray.",
      "parent": "The egg is held together by its two thin skins, the membranes. It is usually a little bigger, because water from the vinegar soaks in through the skins. With the torch you can often see the yolk as a dark shadow. If bits of shell are still left, put the egg back in fresh vinegar for another day.",
      "check": {
       "t": "mcq",
@@ -1817,9 +1817,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then throw the egg away and wash hands.",
+     "do": "Ask your child for three short sentences. Write them down if your child would like that. Then throw the egg away and wash hands.",
      "say": "Now tell me three things. What do you think now? What did you see? And why did it happen?",
-     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "kid": "Be the scientist. Tell your grown-up your answer in three parts.",
      "parent": "A good answer sounds like this. What I think: an egg has a skin under its shell that holds it together. What I saw: after two days in vinegar the shell was gone, but the egg stayed whole and bounced a little. It also grew from 14 to 15 centimetres around (made-up numbers). Why: the vinegar broke down the shell, but not the skins. Water soaked in through the skins, so the egg got bigger. For the last question, a good answer has two parts. The hard shell protects the egg from knocks and squashing. The soft skins hold the egg together and keep germs out. Each one does a job the other cannot do.",
      "think": "The shell keeps the chick safe, and the skins keep germs out. Why does an egg need both a hard shell and soft skins, and not just one of them?"
     }
@@ -1851,7 +1851,7 @@
      "qty": "enough to fill the tub halfway"
     },
     {
-     "item": "a stone with green slime on it, and a few water plants",
+     "item": "a stone with green slime on it, a few water plants and a stick for climbing out",
      "qty": 1
     },
     {
@@ -1902,10 +1902,10 @@
     {
      "day": 42,
      "mins": 20,
-     "what": "Carry the froglets back to their pond. Draw the line chart of tail length, and say what you think, what you saw and why."
+     "what": "Carry the froglets back to their pond. Draw the line chart of tail length, or read the table out. Then say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table every second day. At the end, draw a line chart of tail length against day.",
+   "record": "Fill in the table every second day. At the end, draw a line chart of tail length against day, or read the table out and say when the tail got shorter.",
    "context": "This is a monsoon experiment that takes six weeks or longer for families who live near a pond, a paddy field or a big rain puddle. You keep a few tadpoles in pond water, measure them every second day, and find out what happens to the tail.",
    "setup": [
     {
@@ -2016,7 +2016,7 @@
      "mins": 5,
      "do": "Look with a magnifying glass at the place where the body meets the tail.",
      "say": "Look closely where the tail starts. Can you see two tiny bumps? Those are the first legs.",
-     "kid": "Look where the tail starts. Can you see two tiny bumps? Those are legs!",
+     "kid": "Use the magnifying glass. Look for tiny bumps where the tail starts. They are legs growing.",
      "wait": "Around day 15",
      "check": {
       "t": "mcq",
@@ -2035,7 +2035,7 @@
      "mins": 10,
      "do": "When front legs appear, check every day. Notice whether the tadpoles eat the spinach. Make sure the stick is there so froglets can climb out.",
      "say": "Watch the tail now. Is it snapping off, or getting shorter a little each day? And are they still eating?",
-     "kid": "Front legs! Now watch the tail. Is it getting shorter? Are they eating?",
+     "kid": "Front legs have popped out. Each day, look at the tail and at the spinach. Write what you see.",
      "wait": "Around day 25 to 35",
      "parent": "Tadpoles usually stop eating while the tail shrinks. Don't worry. Their mouth and gut are being rebuilt, and they live on the material of their own tail. The froglets must be able to climb out, or they can drown, because they now breathe air.",
      "check": {
@@ -2053,9 +2053,9 @@
     {
      "id": "s5",
      "mins": 15,
-     "do": "1. When each froglet has only a tiny tail stub, carry the tub to the pond. 2. Tip the froglets gently onto the mud at the edge. 3. At home, draw a line chart of one tadpole's tail length.",
-     "say": "They're ready. Let's take them back to their pond. Then we'll draw a line chart of what happened to the tail.",
-     "kid": "Take your froglets back to their pond. Let them hop away. Then draw a line chart of tail length.",
+     "do": "1. When each froglet has only a tiny tail stub, carry the tub to the pond. 2. Tip the froglets gently onto the mud at the edge. 3. At home, draw a line chart of one tadpole's tail length. Or read your table out and say when the tail got shorter.",
+     "say": "They're ready. Let's take them back to their pond. Then we'll look at what happened to the tail.",
+     "kid": "Take your froglets back to their pond. Let them hop away. Then show what happened to the tail. Draw a line chart, or read out your table.",
      "adult": true,
      "wait": "Around day 40 to 45",
      "how": "e3",
@@ -2064,9 +2064,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child for three short sentences. Write them down if your child would like that.",
      "say": "Now tell me three things. What do you think happens to a tadpole's tail? What did you see? Why?",
-     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "kid": "Be the scientist. Tell your grown-up your answer in three parts.",
      "parent": "A good answer sounds like this. What I think: the tail doesn't fall off, it goes into the body. What I saw: the tail grew to 18 millimetres, then shrank a little every day, to 8 and then 2. We never found a tail in the tub, and the tadpoles stopped eating. Why: the body breaks the tail down and uses it to build the frog."
     }
    ]
@@ -2106,10 +2106,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Crack an egg onto a plate. Find all its parts. Draw and label them."
+     "what": "Crack an egg onto a plate. Find all its parts. Name each one and say what it does."
     }
    ],
-   "record": "Draw the egg on the plate. Label the shell, the skin, the air pocket, the white, the twisted cords, and the yolk with its white spot.",
+   "record": "Name each part of the egg on the plate: the shell, the skin, the air pocket, the white, the twisted cords, and the yolk with its white spot. You can also draw the egg and label the parts, or take a photo.",
    "context": "This activity opens a hen's egg so you can find every part a growing chick would need. It is a good way to start the unit.",
    "setup": [
     {
@@ -2130,8 +2130,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Give your child a raw egg. 2. Ask them to look at it with a magnifying glass and say what they notice.",
-     "say": "This egg came from a hen. If a rooster had mated with the hen, an egg like this could grow a chick. Look closely. What do you notice? What do you wonder?",
-     "kid": "Look at the egg with a magnifying glass. What do you notice? What do you wonder about?",
+     "say": "This egg came from a hen. A chick can grow inside an egg like this. Look closely at the shell.",
+     "kid": "Turn the egg round in your hands. Look at the shell with a magnifying glass, and feel it.",
      "ask": [
       {
        "q": "What do you notice about the shell?",
@@ -2155,9 +2155,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Find each part with your child. Point with the toothpick. Name it and say its job.",
-     "say": "The yellow ball is the yolk. It is the chick's food. The clear part is the white. It holds water and cushions the yolk. These two white twisted cords are like ropes holding the yolk in the middle. Can you find a tiny white spot on top of the yolk?",
-     "kid": "Find the yellow yolk. It's food for a chick. Find the clear white. It holds water. Find the two twisted cords. Look for a tiny white spot on the yolk.",
+     "do": "Find each part with your child. Point with the toothpick and name each one.",
+     "say": "The yellow ball is the yolk. The clear part is the white. It holds water and cushions the yolk. These two white twisted cords are like ropes holding the yolk in the middle. Can you find a tiny white spot on top of the yolk?",
+     "kid": "Use the toothpick. Point at the yolk, the white and the two cords. Then look for a tiny white spot on the yolk.",
      "parent": "The white spot is called the germinal disc. A chick would begin there if the egg were fertilised. Most shop eggs are not fertilised, so it stays a spot. The twisted cords are called chalazae. Some people think they are the start of a chick, but they only hold the yolk in place.",
      "check": {
       "t": "mcq",
@@ -2181,9 +2181,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask your child to draw the egg and label six parts: shell, skin, air pocket, white, cords and yolk with its spot.",
-     "say": "Draw what you found, like a scientist. Label every part, and write one job next to each.",
-     "kid": "Draw your egg. Label the parts. Write one job for each part.",
+     "do": "Ask your child to point to six parts and name each one: shell, skin, air pocket, white, cords and yolk with its spot. Then ask for one job of each part. Drawing the egg and labelling the parts is another way to do it.",
+     "say": "Show me every part you found, like a scientist. Tell me one job for each part.",
+     "kid": "Point to each part and say its name. Say one job it does. Or draw your egg and label the parts.",
      "think": "Everything a chick needs for three weeks is inside this egg, except two things. What comes in from outside? Hint: think about air and warmth.",
      "parent": "A good answer to the last question has two parts. Air comes in through the tiny holes in the shell. Warmth comes from the hen sitting on the egg."
     }
@@ -2225,7 +2225,7 @@
     }
    ],
    "record": "Your three wheels are the record. On the back of each, write how many stages it has.",
-   "context": "In this activity you make three spinning paper-plate wheels, one each for the life cycles of a frog, a butterfly and a hen.",
+   "context": "In this activity you make three spinning paper-plate wheels, one each for the life cycles of a frog, a butterfly and a hen. Each wheel shows the stages in order, so you can tell the life story by spinning it.",
    "setup": [
     {
      "art": "A paper plate with pencil lines dividing it into four equal parts.",
@@ -2246,15 +2246,15 @@
      "mins": 4,
      "do": "1. On two plates, draw two lines across the middle to make four parts. 2. On the third plate, draw three lines from the middle, like the letter Y, to make three parts.",
      "say": "We'll make three wheels. The frog and butterfly have four stages. The hen has only three.",
-     "kid": "Make four parts on two plates. Make three parts on the third plate. Which animal gets three?",
+     "kid": "Split two plates into four parts each. Split the third plate into three parts.",
      "context": "This is the first step of the Life Cycle Wheels activity. You split three paper plates into parts, one part for each stage."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "Help your child draw one stage in each part, going round like a clock. Butterfly: egg on a leaf, caterpillar, chrysalis, butterfly. Frog: frogspawn, tadpole, froglet, frog. Hen: egg, chick, hen.",
-     "say": "Draw them going round like the hands of a clock. Draw arrows from each stage to the next. What comes after the last one?",
-     "kid": "Draw one stage in each part. Go round like a clock. Draw arrows. After the last stage, the arrow goes back to the first!",
+     "do": "Help your child put one stage in each part, going round like a clock. Butterfly: egg on a leaf, caterpillar, chrysalis, butterfly. Frog: frogspawn, tadpole, froglet, frog. Hen: egg, chick, hen. They can draw each stage, paste in the matching card from the Who Comes Next game, or write its name. Then add an arrow from each stage to the next.",
+     "say": "Put them in order, going round like the hands of a clock. Then add an arrow from each stage to the next. What comes after the last one?",
+     "kid": "Put one stage in each part. Draw it, paste a card, or write its name. After the last stage, the arrow goes back to the first!",
      "check": {
       "t": "mcq",
       "q": "On the butterfly wheel, which stage comes between the caterpillar and the butterfly?",
@@ -2272,7 +2272,7 @@
      "mins": 6,
      "do": "1. Cut three arrows from card. 2. A grown-up pins one in the middle of each plate. 3. Your child spins each and tells the story.",
      "say": "Spin the arrow. Wherever it stops, tell me what this animal is doing and what happens next.",
-     "kid": "Spin the arrow. Where did it stop? Say what the animal does now, and what comes next.",
+     "kid": "Spin the arrow on each wheel. Tell the story from the stage where it stops, all the way round.",
      "adult": true,
      "ask": [
       {
@@ -2310,8 +2310,8 @@
      "what": "Act out a butterfly's life, from egg to flying, as the parent reads."
     }
    ],
-   "record": "Draw yourself in your favourite stage.",
-   "context": "This is an acting activity. The child acts out each stage of a butterfly's life with their whole body, while the parent reads.",
+   "record": "Tell your grown-up which stage was your favourite, and why. You can draw yourself in that stage too.",
+   "context": "This is an acting activity. The child acts out each stage of a butterfly's life with their whole body, while the parent reads. You will find out what a butterfly does at each stage.",
    "setup": [
     {
      "art": "A child curled up small on the floor like an egg.",
@@ -2340,7 +2340,7 @@
      "mins": 4,
      "do": "Your child crawls, munching cushions like leaves. Every so often, call out 'Too tight!' and they wriggle out of an imaginary skin.",
      "say": "You hatch! First, eat your eggshell. Now eat leaves. Eat and eat. Your skin is getting too tight. Wriggle out of it! You are bigger now. Eat more.",
-     "kid": "Hatch! Eat your eggshell. Crawl and munch leaves. Your skin is tight! Wriggle out of it. Keep eating.",
+     "kid": "Crawl and munch on the cushions. When your grown-up calls 'Too tight!', wriggle out of your old skin.",
      "check": {
       "t": "mcq",
       "q": "Why does a caterpillar wriggle out of their skin?",
@@ -2358,7 +2358,7 @@
      "mins": 4,
      "do": "Wrap the sari loosely round your child up to the shoulders. They stand very still for one minute.",
      "say": "Now stop eating. Hang still. You are a chrysalis. From the outside, nothing is happening. Inside, your body is being rebuilt. Waiting cells are growing wings. Stay still and feel your wings growing.",
-     "kid": "Stop eating. Stand very still. You are a chrysalis. Inside, your body is being rebuilt. Feel your wings growing.",
+     "kid": "Stand very still inside the sari for one minute. You are a chrysalis.",
      "parent": "Count slowly to 60 together. Staying still is hard for children. Tell them that a chrysalis looks as if nothing is happening, but it is the busiest stage."
     },
     {
@@ -2366,7 +2366,7 @@
      "mins": 2,
      "do": "Your child wriggles out of the sari, stands, and slowly spreads their arms.",
      "say": "Split your case! Climb out. Your wings are crumpled and wet. Pump them slowly. Wait for them to dry. Now fly, find a flower, and drink.",
-     "kid": "Break out! Your wings are wet and crumpled. Open them slowly. Now fly to a flower.",
+     "kid": "Wriggle out of the sari. Open your arms slowly like wings. Then fly to a flower.",
      "think": "Were you the same you all the way through, egg to butterfly?"
     }
    ]
@@ -2393,8 +2393,8 @@
      "what": "Make a dough caterpillar, squash the dough, and rebuild a butterfly from the same dough."
     }
    ],
-   "record": "Draw the caterpillar, the ball and the butterfly. Write: 'The butterfly was built from the caterpillar.'",
-   "context": "This activity is a hands-on model of metamorphosis. You make a dough caterpillar with tiny folded papers inside, then squash it and rebuild a butterfly from the same dough.",
+   "record": "Take a photo of the caterpillar, the ball and the butterfly. Tell your grown-up the story, and finish with: 'The butterfly was built from the caterpillar.'",
+   "context": "This activity is a hands-on model of metamorphosis. You will find out where a butterfly's body comes from. You make a dough caterpillar with tiny folded papers inside, then squash it and rebuild a butterfly from the same dough.",
    "setup": [
     {
      "art": "A child pressing four tiny folded paper squares into a long dough caterpillar.",
@@ -2414,7 +2414,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Your child rolls the dough into a long caterpillar. 2. Fold four small papers very tiny. 3. Press them inside the caterpillar, two on each side.",
-     "say": "These tiny papers stand for special cells. They have been inside the caterpillar since they hatched, waiting. Scientists call them imaginal discs. 'Imago' is the old word for an adult insect.",
+     "say": "These tiny papers stand for special cells. They have been inside the caterpillar since they hatched, waiting. Scientists call them imaginal discs.",
      "kid": "Roll the dough into a caterpillar. Fold four papers very small. Hide them inside. They are waiting cells. They will become wings.",
      "context": "This is the first step of the Rebuild the Body activity. You make a dough caterpillar with tiny folded papers hidden inside as waiting cells."
     },
@@ -2429,7 +2429,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Find the four papers. 2. Unfold them into wings. 3. Shape the dough into a butterfly body, with a head, six legs and two feelers. 4. Stick the wings on.",
-     "say": "The waiting cells grow fast. They use the broken-down caterpillar as building material. Use all the dough. Nothing is thrown away.",
+     "say": "Now the waiting cells grow into wings. Use all the dough to build the butterfly body. Nothing is thrown away.",
      "kid": "Find the papers. Unfold them into wings. Make a butterfly body from all the dough. Use it all.",
      "check": {
       "t": "mcq",
@@ -2447,8 +2447,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about what the model gets right and what it gets wrong.",
-     "say": "Our model is a bit like the real thing. But in a real chrysalis, some parts of the caterpillar, like bits of the nerves, are kept and changed, not broken down. What else might our model get wrong?",
-     "kid": "Is our model just like a real chrysalis? What is different? Say one thing.",
+     "say": "Our model is a bit like the real thing, but not exactly. In a real chrysalis, some parts of the caterpillar are kept and changed, not broken down. One example is bits of the nerves.",
+     "kid": "Look at your dough butterfly and the paper wings. Is anything about the model not like a real butterfly?",
      "ask": [
       {
        "q": "What does the dough model get wrong?",
@@ -2489,11 +2489,11 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Search a curry leaf or lemon plant for eggs, caterpillars and chrysalises. Draw what you find."
+     "what": "Search a curry leaf or lemon plant for eggs, caterpillars and chrysalises. Count them and take photos."
     }
    ],
-   "record": "Draw each thing you find. Write where on the plant you found each one: top of a leaf, under a leaf, or on a stem.",
-   "context": "This is a hunt for the lime butterfly, a common Indian butterfly. She lays her eggs on curry leaf, lemon and orange plants, which you may find in a pot on a balcony, in a garden or in a park.",
+   "record": "Take a photo of each thing you find, or draw it. Write where on the plant you found each one: top of a leaf, under a leaf, or on a stem.",
+   "context": "This is a hunt for the lime butterfly, a common Indian butterfly. You will find out whether a butterfly family is living on a plant near you. She lays her eggs on curry leaf, lemon and orange plants, which you may find in a pot on a balcony, in a garden or in a park.",
    "setup": [
     {
      "art": "A child and a grown-up bending over a potted curry leaf plant on a balcony, the child holding a magnifying glass.",
@@ -2513,7 +2513,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Go with your child to a curry leaf, lemon or orange plant, on a balcony, in a garden or in a park.",
-     "say": "A butterfly called the lime butterfly chooses these plants for her babies. Her caterpillars can only eat leaves from this plant family. Let's see if a mother has been here.",
+     "say": "A butterfly called the lime butterfly may have visited this plant. Let's see if a mother has been here.",
      "kid": "Find a curry leaf or lemon plant with a grown-up. A lime butterfly lays eggs here. Let's look.",
      "adult": true,
      "context": "This is the first step of the Curry Leaf Hunt. You go outside to look for lime butterfly eggs and caterpillars."
@@ -2547,9 +2547,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask why the butterfly chooses this plant.",
-     "say": "Why did the mother butterfly lay her eggs here and not on the mango tree next door?",
-     "kid": "Why did the mother pick this plant? Say your idea.",
+     "do": "Ask your child to look at the other plants nearby, then ask the question.",
+     "say": "Look at the other plants nearby. The mother butterfly did not lay eggs on them.",
+     "kid": "Think about what the baby caterpillars will need when they hatch.",
      "ask": [
       {
        "q": "Why does the butterfly lay eggs only on certain plants?",
@@ -2593,7 +2593,7 @@
     }
    ],
    "record": "Make a list of every place you checked. Write yes or no for wrigglers. Write what you did.",
-   "context": "This activity looks for mosquito larvae, called wrigglers, in standing water around the home. Mosquitoes have a four-stage life cycle, and stopping them at the wriggler stage protects people from dengue and malaria.",
+   "context": "This activity looks for mosquito larvae, called wrigglers, in standing water around the home. You will find out where mosquito babies could be hiding in your home. Mosquitoes have a four-stage life cycle, and stopping them at the wriggler stage protects people from dengue and malaria.",
    "setup": [
     {
      "art": "A child shining a torch into the water of a plant pot saucer on a balcony.",
@@ -2622,8 +2622,8 @@
      "id": "s2",
      "mins": 5,
      "do": "If you find wrigglers, scoop a spoonful into the glass. Look closely together.",
-     "say": "These are mosquito larvae, called wrigglers. They hang from the top of the water to breathe through a little tube. Curled ones, like commas, are the pupae, called tumblers. In a day or two they become mosquitoes.",
-     "kid": "Look at the wrigglers in the glass. They hang from the top to breathe. Can you find a curled one? That is a pupa.",
+     "say": "These are mosquito larvae, called wrigglers. Watch where in the glass they stay. The curled ones, like commas, are the pupae, called tumblers. In a day or two they become mosquitoes.",
+     "kid": "Look at the wrigglers in the glass. Where in the water do they stay? Can you find a curled one? That is a pupa.",
      "check": {
       "t": "mcq",
       "q": "In the Wriggler Check, why do wrigglers hang at the top of the water?",
@@ -2641,10 +2641,10 @@
      "id": "s3",
      "mins": 5,
      "do": "Tip the water out onto dry ground or into a pot of soil, never into a drain. Scrub the container. Turn buckets upside down.",
-     "say": "With no still water, mosquito eggs cannot grow into adults. That is how families and towns fight dengue and malaria. In 1897, in Secunderabad, a doctor named Ronald Ross found the malaria germ living inside mosquitoes.",
+     "say": "With no still water, mosquito eggs cannot grow into adults. That is how families and towns fight dengue and malaria.",
      "kid": "Tip the water onto soil. Scrub the pot. Turn buckets upside down. You stopped a life cycle!",
      "adult": true,
-     "parent": "Doing this every week stops most home mosquito breeding, because the cycle from egg to adult takes about a week in warm weather. Scrubbing matters, because Aedes mosquito eggs stick to container walls and can survive drying."
+     "parent": "In 1897, in Secunderabad, a doctor named Ronald Ross found the malaria germ living inside mosquitoes. Doing this every week stops most home mosquito breeding, because the cycle from egg to adult takes about a week in warm weather. Scrubbing matters, because Aedes mosquito eggs stick to container walls and can survive drying."
     }
    ],
    "problem": "Mosquito babies live in still water. They are called wrigglers. If we find still water and tip it out, the wrigglers cannot grow into flying mosquitoes. Where could mosquito babies be hiding around your home?"
@@ -2709,7 +2709,7 @@
     {
      "day": 18,
      "mins": 5,
-     "what": "Draw the chrysalis. Keep the cage still. Check it once a day."
+     "what": "Take a photo of the chrysalis, or draw it. Keep the cage still. Check it once a day."
     },
     {
      "day": 28,
@@ -2719,11 +2719,11 @@
     {
      "day": 29,
      "mins": 15,
-     "what": "Make a line chart of the caterpillar's length from the diary. Say what you think, what you saw and why."
+     "what": "Make a line chart of the caterpillar's length from the diary, or read the numbers out. Say what you think, what you saw and why."
     }
    ],
-   "record": "Keep a diary with one line and one number each day: the caterpillar's length in millimetres. At the end, make a line chart of their length.",
-   "context": "This is a four-week project. You raise a lime butterfly from an egg or a tiny caterpillar, keep a daily diary, and let the butterfly go.",
+   "record": "Keep a diary with one line and one number each day: the caterpillar's length in millimetres. At the end, make a line chart of their length, or read the diary numbers out.",
+   "context": "This is a four-week project. You raise a lime butterfly from an egg or a tiny caterpillar, keep a daily diary, and let the butterfly go. You will see the whole change from caterpillar to butterfly with your own eyes.",
    "setup": [
     {
      "art": "A mesh cage on a shady table with a sprig of curry leaves standing in a small cotton-plugged jar of water, and a small caterpillar on a leaf.",
@@ -2814,22 +2814,22 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Draw the chrysalis every second day. Notice its colour. Do not touch it.",
+     "do": "Every second day, take a photo of the chrysalis, or draw it. Notice its colour. Do not touch it.",
      "say": "It looks like nothing is happening. But inside, the caterpillar's body is being broken down, and their waiting cells are building wings, legs and eyes.",
-     "kid": "Draw the chrysalis. Don't touch it. Inside, wings are being built.",
+     "kid": "Look at the chrysalis and notice its colour. Take a photo, or draw it. Don't touch it.",
      "wait": "For about 8 to 12 days"
     },
     {
      "id": "s6",
      "mins": 20,
      "do": "1. When the chrysalis turns dark and you see wing colours, check often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open the cage.",
-     "say": "Here they come. Their wings are soft and crumpled. They are pumping blood into them. Don't help them. They need to do this themself to make their wings strong.",
+     "say": "Here they come. Their wings are soft and crumpled. They are pumping fluid into them. Don't help them. They need to do this themself to make their wings strong.",
      "kid": "The butterfly is coming out! Watch them pump up their wings. Don't help. Wait for them to dry. Then let them go.",
      "adult": true,
      "wait": "Around day 26 to 30",
      "ask": [
       {
-       "q": "Which stage of your butterfly's life did all the growing, and which stage did none?",
+       "q": "Which stage of your butterfly's life did all the growing?",
        "good": [
         "The caterpillar did all the growing, from about 4 to 40 millimetres.",
         "The chrysalis did not eat or grow. Their body was being rebuilt.",
@@ -2842,9 +2842,9 @@
     {
      "id": "s7",
      "mins": 15,
-     "do": "Make a line chart of the caterpillar's length from the diary. Then finish with three sentences: what I think, what I saw and why.",
-     "say": "Let's turn your diary into a line chart. Then tell me what you think, what you saw and why.",
-     "kid": "Draw a line chart from your diary. Then say three things: what you think, what you saw, and why you think it happened.",
+     "do": "Make a line chart of the caterpillar's length from the diary. Or read the diary numbers out and say when the caterpillar grew most. Then finish with three sentences: what I think, what I saw and why.",
+     "say": "Let's look at your diary numbers. Then tell me what you think, what you saw and why.",
+     "kid": "Draw a line chart from your diary, or read the numbers out. Then be the scientist and tell your answer in three parts.",
      "parent": "A good answer sounds like this. What I think: a caterpillar grows fast and then rebuilds into a butterfly. What I saw (made-up numbers): they grew from 4 to 40 millimetres in about two weeks, moulted, then hung still for 10 days, and a butterfly came out. Why: the caterpillar stores up material by eating, and the chrysalis uses it to build the butterfly."
     }
    ]
@@ -2877,7 +2877,7 @@
     "Some seabirds that nest on bare cliff ledges lay very pointed eggs. Scientists think the shape makes the egg roll in a circle instead of off the edge. Roll your boiled egg gently on a tray: does it roll in a circle?",
     "Build a tiny nest from twigs and grass, like a real bird would."
    ],
-   "your_turn": "Now design your own carrier. Draw it, build it, test it with a boiled egg, and improve it. Then test once with a raw egg.",
+   "your_turn": "Now design your own carrier. Plan it out loud or with a quick sketch, build it, test it with a boiled egg, and improve it. Then test once with a raw egg.",
    "context": "This is a design challenge. You build a carrier that keeps a raw egg safe when it is dropped from one metre, and learn how eggshells and nests protect chicks.",
    "setup": [
     {
@@ -2898,24 +2898,24 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Gently press the two ends of a raw egg between your palms, over a bowl. 2. Then look at the shape of the egg.",
-     "say": "An eggshell is very thin, but its curved shape makes it strong. Press gently on the ends. It's hard to crack this way. Now, how could we keep it safe when it falls?",
-     "kid": "Hold an egg over a bowl. Press the two ends gently between your palms. Is it strong? Now design a carrier to keep it safe.",
+     "say": "An eggshell is very thin. Let's find out how strong it is. Press gently on the two ends.",
+     "kid": "Hold the egg over a bowl. Press the two ends gently between your palms. Does it crack?",
      "adult": true,
      "context": "This is the first step of the Egg Lift challenge. You feel how strong an egg's shape is, then design a carrier to protect it."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Draw a design. 2. Build it with a boiled egg inside. 3. Drop it from 1 metre over a tray. 4. Check the egg for cracks. 5. Improve it and try again.",
-     "say": "Draw it first. Then build it. Then test it. If it cracks, that's useful. It shows us what to change.",
-     "kid": "Draw your carrier. Build it. Drop it from 1 metre. Check for cracks. Make it better and try again.",
+     "do": "1. Plan the carrier: tell your plan out loud, or sketch it. 2. Build it with a boiled egg inside. 3. Drop it from 1 metre over a tray. 4. Check the egg for cracks. 5. Improve it and try again.",
+     "say": "Say your plan first, or sketch it. Then build it. Then test it. If it cracks, that's useful. It shows us what to change.",
+     "kid": "Tell your plan or sketch it. Build it. Drop it from 1 metre. Check for cracks. Make it better and try again.",
      "check": {
       "t": "mcq",
       "q": "In the Egg Lift, why does wrapping the egg in something soft help?",
       "options": [
-       "The soft stuff slows the egg down gently when it lands",
-       "The soft stuff makes the egg lighter",
-       "The soft stuff makes the shell thicker"
+       "It slows the egg down gently",
+       "It makes the egg lighter",
+       "It makes the shell thicker"
       ],
       "a": 0,
       "why": "When the box hits the floor, the soft wrapping squashes. That stops the egg slowly, not all at once, so the shell isn't hit so hard. Picking 'lighter' is a natural guess, but the egg weighs the same. What changes is how quickly it stops."
@@ -2925,8 +2925,8 @@
      "id": "s3",
      "mins": 10,
      "do": "Test the best design once with a raw egg. Then talk about how real eggs are kept safe.",
-     "say": "A real hen doesn't drop her eggs. She keeps them in a nest and sits on them. What does a nest do that your carrier also does?",
-     "kid": "Test your best carrier with a raw egg. Did it survive? How does a nest keep eggs safe?",
+     "say": "Now the real test. Drop your best carrier with the raw egg inside. Then open it and look. After that, we will think about real nests.",
+     "kid": "Test your best carrier with a raw egg. Did the egg survive?",
      "adult": true,
      "ask": [
       {
@@ -2953,7 +2953,7 @@
     "No poison sprays allowed."
    ],
    "materials": [
-    "paper and colour pencils",
+    "paper, colour pencils, and paper cups or paper squares to stand for pots",
     "optional: a curry leaf plant, and an ixora, pentas or marigold plant",
     "optional: real pots, soil and seeds or small plants"
    ],
@@ -2967,7 +2967,7 @@
     "Plant a few kinds of host plants, so more kinds of butterflies can raise their young.",
     "Keep a 'butterfly diary' of every visitor, and count them each week."
    ],
-   "your_turn": "Now draw your own butterfly balcony. Label which plant feeds which stage. If you can, plant one pot for real.",
+   "your_turn": "Now plan your own butterfly balcony with paper cups or a drawing. Label which plant feeds which stage. If you can, plant one pot for real.",
    "context": "This is a design challenge. You plan a small balcony garden that feeds a butterfly at every stage of their life cycle.",
    "setup": [
     {
@@ -2987,15 +2987,15 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Ask your child: what does a butterfly need at each stage?",
-     "say": "A butterfly's life has four stages. Each stage needs something different. What does the egg need? The caterpillar? The chrysalis? The adult?",
-     "kid": "What does a butterfly need at each stage? Egg, caterpillar, chrysalis, butterfly. Say one thing for each.",
+     "do": "Go through the four stages with your child, one at a time.",
+     "say": "A butterfly's life has four stages: egg, caterpillar, chrysalis and butterfly. Each stage needs something different.",
+     "kid": "For each stage, say one thing it needs. Start with the egg.",
      "context": "This is the first step of the Butterfly Balcony challenge. You work out what a butterfly needs at each stage of their life.",
      "check": {
       "t": "mcq",
-      "q": "For the Butterfly Balcony, what do lime butterfly caterpillars need?",
+      "q": "What do lime butterfly caterpillars eat?",
       "options": [
-       "Leaves from a curry leaf, lemon or orange plant",
+       "Curry leaf, lemon or orange leaves",
        "Nectar from flowers",
        "Nothing, they don't eat"
       ],
@@ -3006,9 +3006,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Your child draws a plan of 4 to 6 pots and labels each plant with the stage they feed.",
+     "do": "Your child sets out 4 to 6 paper cups or squares on the floor as pots. They write a plant name on a small paper for each, and say which stage it feeds. Drawing a plan is another way to do it.",
      "say": "Put at least one plant for caterpillars and one for adults. Where will the chrysalis hang?",
-     "kid": "Draw your pots. Label each plant. Which stage do they feed? Where will the chrysalis hang?"
+     "kid": "Set out your pots. Put a plant name on each one. Which stage does each plant feed? Where will the chrysalis hang?"
     },
     {
      "id": "s3",

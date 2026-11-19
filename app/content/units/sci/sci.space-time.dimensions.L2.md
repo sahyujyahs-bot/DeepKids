@@ -183,8 +183,8 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **Printable cards: 12 cards: 6 solids and 6 flat shapes:** Solid: a dice [picture]; Solid: a matchbox; Solid: a steel tumbler; Solid: a ladoo; Solid: a birthday cap; Solid: a samosa; Flat shape: a square; Flat shape: a rectangle; Flat shape: a circle; Flat shape: a circle; Flat shape: a circle; Flat shape: a triangle
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Read the rules aloud. 3. Put a real dice, a matchbox and a tumbler on the table to look at.  
-  *Parent says:* Turn over two cards. If a solid and a flat shape match, tell us how. A face counts, and a slice counts.  
-  *Child mode:* Turn over two cards. Say how the solid makes the flat shape.
+  *Parent says:* A face is one flat side of a solid. A slice is the flat shape you see when you cut a solid. Turn over two cards. If a solid and a flat shape match, tell us how.  
+  *Child mode:* Turn over two cards. Look for a solid and a flat shape that go together.
 - **s2 (11 min)**  
   *Parent does:* 1. Play until all the cards are matched. 2. Ask each player to explain their match.  
   *Parent says:* Dice and square? How does a dice make a square? Ladoo and circle? Where is the circle in a ladoo?  
@@ -194,7 +194,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **s3 (2 min)**  
   *Parent does:* 1. Count the pairs. 2. Ask which solids could match more than one flat shape.  
   *Parent says:* Some solids could match more than one flat shape. Which one, and how?  
-  *Child mode:* Which solid could match more than one flat shape? How?
+  *Child mode:* Think of one solid that can make two different flat shapes.
   - Ask: Which solid matched more than one flat shape? (good: The birthday cap. Its round end is a circle, and from the side it looks like a triangle.; Any match you can explain counts.)
   - Check: In the matching card game, how can a ladoo make a circle? → **A slice cut across it is a circle**
 ### g2 · Feely Bag: name the solid by touch (15 min)
@@ -202,18 +202,18 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **Printable score sheet: Feely bag score sheet:** Player's name; What I felt; Solid shape name; How many flat faces; Right? (tick)
 - **s1 (2 min)**  
   *Parent does:* 1. Put 5 solids in the bag while the players are not looking. 2. Read the rules aloud.  
-  *Parent says:* Put your hand in. Don't look. Feel the faces and the edges. What solid is it?  
-  *Child mode:* Put your hand in the bag. Don't look. What solid is it?
+  *Parent says:* Put your hand in. Don't look. A face is one flat side. An edge is where two faces meet. Feel for faces and edges. What solid is it?  
+  *Child mode:* Put your hand in the bag. Feel the thing and name its shape.
 - **s2 (11 min)**  
   *Parent does:* 1. Each player takes a turn. 2. After each guess, they pull the thing out to check. 3. Put it back and shake the bag.  
   *Parent says:* How did you know? Was it the flat faces, the edges or the curved side?  
-  *Child mode:* How did you know? Faces, edges or a curved side?
-  - Ask: How did you know it was a cube? (good: It had flat square faces.; It had sharp edges and corners.)
+  *Child mode:* Tell your grown-up what you felt that gave you the clue.
+  - Ask: How did you know what shape it was? (good: It had flat square faces.; It had sharp edges and corners.)
   - Note: Touch is a good way to find faces and edges, because a hand can feel a thing's length, width and height all at once.
 - **s3 (2 min)**  
-  *Parent does:* 1. Add up the points. 2. Ask how a hand can tell a cube from a cylinder.  
+  *Parent does:* 1. Add up the points. 2. Give your child a dice and a round tin to feel. 3. Ask how a hand can tell a cube from a cylinder.  
   *Parent says:* How can you tell a cube from a cylinder, just by feeling?  
-  *Child mode:* How can you tell a cube from a cylinder by touch?
+  *Child mode:* Hold the dice in one hand and the tin in the other. Feel how they are different.
   - Ask: How can you tell a cube from a cylinder by touch? (good: A cube has flat square faces and sharp edges.; A cylinder has a curved side.)
   - Check: In the feely bag game, you feel a thing with no flat faces and no edges at all. What solid is it? → **A sphere**
 
@@ -221,53 +221,53 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 ### e1 · Slice and Trace: what flat shapes are hidden inside a solid? (20 min)
 - **question:** When you cut a solid straight through, what flat shape do you see? Is it the same shape and size wherever you cut?
 - **predict:** If we cut the cucumber, the carrot and the round potato straight across, what shape will each cut side be? Will all the slices be the same size? Why do you think so?
-- **fair test:** The grown-up cuts straight down every time, with the knife upright, because a slanting cut changes the shape. We trace every cut side the same way: press it on the paper and draw round it. Only the solid, and the place where we cut, change.
+- **fair test:** The grown-up cuts straight down every time, with the knife upright, because a slanting cut changes the shape. We look at every cut side the same way: lay it flat on the paper. Only the solid, and the place where we cut, change.
 - **safety:** Only the grown-up uses the knife. The child keeps both hands on the paper while the grown-up cuts.
-- **record:** The traced shapes, in rows: cucumber, carrot, potato and the cube corner. Under each row, write 'same size', 'smaller and smaller' or 'small, big, small'.
+- **record:** The cucumber circles traced on paper, and the carrot and potato slices lined up in rows beside them. Take a photo if you like. Write what shape the cube corner made. Under each row, write 'same size', 'smaller and smaller' or 'small, big, small'.
 - **results table:** Solid | Where we cut | Shape of the cut side | Small, middle-sized or big?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the cucumber, the carrot and one round potato on the board. 2. Ask the questions below. 3. Write your child's guesses at the top of the paper. Don't say who is right.  
   *Parent says:* If I cut each of these straight across, what shape will the cut side be? Will every slice be the same size? Why do you think so?  
-  *Child mode:* Look at the three vegetables. What shape will the cut side be? Will every slice be the same size? Why?
+  *Child mode:* Look at the three vegetables. Make a guess, and say why you think so.
   - Ask: What shape will the cut side be, and will all the slices be the same size? Why? (good: A circle, because they are round.; The same size, because it's the same vegetable.; Smaller at the ends, because the ends are thin.)
   - Note: Most children guess a circle for all three. Many guess that every slice will be the same size. Any guess with a reason is a good start.
 - **s2 (4 min) · grown-up needed**  
-  *Parent does:* 1. Cut the cucumber straight across in three places: one hand-width from each end, and once in the middle. 2. Your child presses each cut side on the paper and draws round it. 3. Write 'cucumber' under the three shapes.  
+  *Parent does:* 1. Cut the cucumber straight across in three places: one hand-width from each end, and once in the middle. 2. Your child presses each cut side on the paper and draws round it. If they would rather not draw, they lay the three slices in a row. 3. Write 'cucumber' under the three shapes.  
   *Parent says:* Press the cut side down on the paper and draw round it. Now the next one. Are they the same shape? Are they the same size?  
-  *Child mode:* Press the slice on the paper. Draw round it. Is the next one the same size?
+  *Child mode:* Press each slice on the paper. Draw round it, or lay the slices side by side.
   - Ask: Are the three cucumber circles the same size? (good: Almost the same.; Yes, nearly.)
   - Note: A cucumber is nearly a cylinder, so the circles come out nearly the same size. Keep the cuts away from the very ends, where the cucumber gets thinner.
 - **s3 (3 min) · grown-up needed**  
-  *Parent does:* 1. Cut the carrot straight across at three places: near the thick top, in the middle, and near the thin tip. 2. Your child traces each cut side in a new row, in the same order. 3. Write 'carrot' under the row.  
-  *Parent says:* Now the carrot. Trace the thick end first, then the middle, then near the tip. What happens to the circles?  
-  *Child mode:* Trace the carrot slices, thick end first. What happens to the circles?
+  *Parent does:* 1. Cut the carrot straight across at three places: near the thick top, in the middle, and near the thin tip. 2. Your child lays the slices in a row on the paper, thick end first. 3. Write 'carrot' under the row.  
+  *Parent says:* Now the carrot. Lay the slices in a row, with the thick end first. Look at the circles. What happens to them?  
+  *Child mode:* Line up the carrot slices, thick end first. Look at the size of each one.
   - Ask: What happened to the carrot circles? (good: They got smaller.; Smaller and smaller towards the tip.)
   - Note: A carrot is shaped like a long cone, so its circles get smaller towards the tip.
 - **s4 (4 min) · grown-up needed**  
-  *Parent does:* 1. Cut the round potato straight across into 5 slices, from top to bottom. 2. Lay them on the plate in order. 3. Your child traces them in a new row, in the same order. 4. Then your child stacks the slices back up.  
-  *Parent says:* Trace the slices in order, from the top of the potato to the bottom. Which circle is the biggest? Now stack the slices back up. What do you get?  
-  *Child mode:* Trace the potato slices in order. Which is biggest? Now stack them back up.
+  *Parent does:* 1. Cut the round potato straight across into 5 slices, from top to bottom. 2. Lay them on the plate in order. 3. Your child lays them in a row, in the same order. 4. Then your child stacks the slices back up.  
+  *Parent says:* Lay the slices in a row, from the top of the potato to the bottom. Which circle is the biggest? Now stack the slices back up. What do you get?  
+  *Child mode:* Lay the potato slices in order. Find the biggest. Then stack them back up.
   - Ask: Which potato slice was the biggest, and what did the stacked slices make? (good: The middle one.; The potato again.)
   - Note: The top and bottom slices are small, and the middle slice is the biggest. A potato is not a perfect ball, so the shapes may be ovals more than circles. That is fine.
 - **s5 (4 min) · grown-up needed**  
-  *Parent does:* 1. Cut the second potato into a rough cube by cutting off a slice from each of its 6 sides. 2. Ask your child to guess the shape if you cut off one corner. 3. Cut one corner off, about 1 centimetre in from the tip. 4. Your child traces the cut side.  
+  *Parent does:* 1. Cut the second potato into a rough cube by cutting off a slice from each of its 6 sides. 2. Ask your child to guess the shape if you cut off one corner. 3. Cut one corner off, about 1 centimetre in from the tip. 4. Your child looks at the cut side and counts its sides and corners.  
   *Parent says:* This potato is now a cube, with square faces. If I cut off one corner, what shape will the cut side be? Why?  
-  *Child mode:* This potato is now a cube. A grown-up will cut off one corner. What shape will the cut side be?
+  *Child mode:* Guess what shape the cut will make. Then look at it and count its sides and corners.
   - Ask: What shape did the corner make? (good: A triangle.; A shape with three sides.)
   - Note: Most children guess a square, because the cube has square faces. The corner cut makes a triangle, because the knife cuts across three faces that meet at the corner. Cut off only the tip of the corner, or the shape gets more sides.
 - **s6 (2 min)**  
-  *Parent does:* 1. Look at all the rows of traced shapes together. 2. Ask the questions below. 3. Then read the card 'Inside every solid are flat slices'.  
-  *Parent says:* Look at all the shapes you traced. Were they flat or solid? Did the same vegetable always give the same size?  
-  *Child mode:* Look at your shapes. Are they flat? Did the size change?
+  *Parent does:* 1. Look at all the rows together. 2. Ask the questions below. 3. Then read the card 'Inside every solid are flat slices'.  
+  *Parent says:* Look at all your slices. Are the cut sides flat or solid? Did the same vegetable always give the same size?  
+  *Child mode:* Look at all your rows. Find the biggest slice and the smallest slice.
   - Ask: What changed the shape and size of the cut side? (good: Where we cut.; Which vegetable it was.; Cutting the corner made a triangle.)
-  - Note: A strong answer uses the traced shapes as evidence: every cut side was flat, and its size depended on where the cut was.
+  - Note: A strong answer uses the slices as evidence: every cut side was flat, and its size depended on where the cut was.
   - Check: In the slice and trace test, where did the round potato give its biggest slice? → **In the middle**
 ### e2 · Flat Eyes: can a flat creature tell a circle from a square? (15 min)
 - **question:** A flat creature like Pulli, who lives on a table top, sees every shape only from its edge. With your eye level with the table, can you tell a circle from a square?
 - **predict:** When your eye is level with the table, what will a card circle and a card square look like? Can you tell them apart? Why do you think so?
 - **fair test:** The circle and the square are the same width, and cut from the same card. The child keeps their chin on the table edge every time, so the eye stays level. We turn each shape slowly all the way round, and watch the width of the line.
 - **safety:** A grown-up does the cutting with scissors.
-- **record:** Draw what each shape looked like from the edge. Write 'stays the same' or 'gets wider and narrower' under each.
+- **record:** Draw what each shape looked like from the edge, or tell your grown-up and ask them to write it down. Write 'stays the same' or 'gets wider and narrower' under each.
 - **results table:** Shape | What it looked like from the edge | Did the line get wider or narrower as it turned?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Draw round the bowl on the card to make a circle. 2. Draw a square whose sides are as long as the circle is wide. 3. Cut out both shapes.  
@@ -277,7 +277,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **s2 (2 min)**  
   *Parent does:* 1. Ask the question below. 2. Write down your child's guess.  
   *Parent says:* When your eye is level with the table, what will the circle and the square look like? Will you be able to tell them apart? Why?  
-  *Child mode:* When your eye is level with the table, what will you see? Why?
+  *Child mode:* Think first. Then tell your grown-up what you guess, and why.
   - Ask: Will you be able to tell the circle from the square from the edge? Why? (good: No, they will both look like lines.; Yes, because the square has corners.)
 - **s3 (5 min)**  
   *Parent does:* 1. Lay both shapes flat in the middle of the table, a hand apart. 2. Your child rests their chin on the table edge and closes one eye. 3. Ask what they see.  
@@ -291,7 +291,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   *Child mode:* Watch the line as the square turns. Now watch the circle.
   - Ask: Which shape's line changed as it turned? (good: The square got wider and then narrower.; The circle stayed the same.)
   - Note: The square's line grows when a corner points at the eye, and shrinks again. The circle's line stays the same. A strong answer says that walking round a shape gives more clues than one look.
-  - Check: In the flat eyes test, how could a flat creature tell a circle from a square? → **As it turns, the square's line gets wider at the corners, but the circle's line stays the same**
+  - Check: In the flat eyes test, how could a flat creature tell a circle from a square? → **The square's line changes as it turns, but the circle's does not**
 
 ## Activities
 ### a1 · Flat or Solid Hunt: what has height? (10 min)
@@ -299,25 +299,25 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **s1 (5 min)**  
   *Parent does:* 1. Give your child 3 minutes to find 4 things that look flat and 4 things that are clearly solid. 2. Write them in two lists.  
   *Parent says:* Find four things that look flat, and four things that are clearly solid. A solid has height, so it stands up off the table.  
-  *Child mode:* Find four things that look flat. Find four things that are solid.
+  *Child mode:* Walk round and collect things. Sort them into flat things and solid things.
   - Ask: What did you find? (good: A chapati, a paper, a photo, a dosa.; A ball, a tumbler, a box, a pillow.)
   - Note: Good flat-looking finds: a sheet of paper, a photo, a chapati, a playing card, a kolam or rangoli. Good solid finds: a ball, a tumbler, a box, a ladoo.
 - **s2 (5 min)**  
   *Parent does:* 1. Pick up one sheet of paper and ask the question below. 2. Then stand a ruler next to a notebook of about 100 sheets. 3. Read the height together.  
   *Parent says:* Is this sheet of paper truly flat, with no height at all? Let's look at a pile of 100 sheets. How tall is the pile?  
-  *Child mode:* Is one sheet of paper truly flat? Look at a pile of 100 sheets.
+  *Child mode:* Stand the ruler next to the pile of 100 sheets. Read how tall it is.
   - Ask: What does the pile tell you about one sheet? (good: Each sheet has a tiny height.; Paper is a very thin solid.)
   - Note: Most notebooks of 100 sheets are about 1 centimetre thick, without the cover. A notebook with 200 pages has 100 sheets, because each sheet has a page on both sides.
   - Check: A pile of 100 sheets of paper is about 1 centimetre tall. What does that tell you? → **Each sheet has a tiny height, so paper is a very thin solid**
 ### a2 · Open a Box: from solid to flat and back (15 min)
-- **record:** Trace round the opened-out box on paper. Number its faces. Write how many faces it has.
+- **record:** A photo of the opened-out box, or a tracing of it on paper. Number its faces. Write how many faces it has.
 - **s1 (3 min)**  
   *Parent does:* 1. Hold up the closed box. 2. Ask the questions below.  
-  *Parent says:* This box is a solid. How many faces does it have? What do you think it will look like if we open it out flat?  
-  *Child mode:* How many faces does the box have? What will it look like opened flat?
+  *Parent says:* This box is a solid. A face is one flat side. How many faces does it have? What do you think it will look like if we open it out flat?  
+  *Child mode:* Look at the closed box. Guess what it will look like opened flat.
   - Ask: How many faces does the box have? (good: 6.; Top, bottom, front, back and two sides.)
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Gently pull apart the glued flap and open the end flaps. 2. Lay the box out flat. 3. Your child traces round it on paper. 4. Number each face.  
+  *Parent does:* 1. Gently pull apart the glued flap and open the end flaps. 2. Lay the box out flat. 3. Your child takes a photo of it, or traces round it on paper. 4. Number each face.  
   *Parent says:* Let's open it out without tearing it. Now it's flat. Count the faces. Are they all still here?  
   *Child mode:* Open the box gently. Lay it flat. Count the faces.
   - Note: Pull the glued flap slowly, so the card does not tear. The flat shape is called a net. Small flaps that tucked in are not faces.
@@ -329,11 +329,11 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   - Note: Folding is how a flat sheet becomes a solid. Lifting each face up off the floor gives the box its height.
   - Check: In Open a Box, what is the flat shape you get when you open a box out? → **A net**
 ### a3 · Stack It Up: from flat to solid (10 min)
-- **record:** Draw your two towers. Write how many pieces were in each, and how tall each tower was.
+- **record:** Write how many pieces were in each tower, and how tall each tower was. Take a photo of the two towers, or draw them.
 - **s1 (5 min)**  
   *Parent does:* 1. Your child stacks 20 coins into a tower. 2. Then your child stacks 20 cards into a second pile. 3. Ask what shape each tower is.  
   *Parent says:* Each coin is a short, flat-looking circle. Stack twenty. What shape have you made? Now stack the cards. What shape is that?  
-  *Child mode:* Stack twenty coins. What shape is the tower? Now stack the cards.
+  *Child mode:* Stack twenty coins into a tower. Then stack twenty cards.
   - Ask: What solid shapes did the towers make? (good: The coins made a cylinder.; The cards made a cuboid, like a box.)
 - **s2 (5 min)**  
   *Parent does:* 1. Measure each tower with the ruler. 2. Ask the question below.  
@@ -344,17 +344,17 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 
 ## Projects
 ### p1 · A Town for Pulli: design a flat world (30 min, 2 days)
-- **record:** The finished town map, with notes on how Pulli gets in and out of her house and how she passes a friend.
-- **schedule:** day 1: Draw Pulli's town from above: houses with doors, a road, a school and a shop. (15 min); day 2: Slide a coin round the town as Pulli. Solve the problems: doors, passing a friend, and crossing a road. (15 min)
+- **record:** The finished town map or a photo of it, with notes on how Pulli gets in and out of her house and how she passes a friend.
+- **schedule:** day 1: Make Pulli's town from above: houses with doors, a road, a school and a shop. Draw it, or lay strips of paper flat on the sheet as walls and roads. (15 min); day 2: Slide a coin round the town as Pulli. Solve the problems: doors, passing a friend, and crossing a road. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Remind your child that Pulli cannot go over any line. 2. Your child draws a town from above, with at least 3 houses, a road, a school and a shop. 3. Every building needs a door.  
-  *Parent says:* Pulli can't step over a line. So every house needs a gap for a door. Draw her a town she can move round.  
-  *Child mode:* Draw a town for Pulli. Every house needs a door gap.
+  *Parent does:* 1. Remind your child that Pulli cannot go over any line. 2. Your child makes a town from above, with at least 3 houses, a road, a school and a shop. They can draw it, or lay strips of paper flat on the sheet as walls and roads. 3. Every building needs a door.  
+  *Parent says:* Pulli can't step over a line. So every house needs a gap for a door. Make her a town she can move round.  
+  *Child mode:* Make a town for Pulli. Every house needs a door gap.
   - Ask: How does Pulli get into her house? (good: Through the gap in the wall.; She can't climb over, so she needs a door.)
 - **s2 (15 min)**  
-  *Parent does:* 1. Your child slides a coin along the roads as Pulli. 2. Put a second coin on the same road, coming the other way. 3. Ask the questions below. 4. Your child changes the drawing to fix each problem.  
+  *Parent does:* 1. Your child slides a coin along the roads as Pulli. 2. Put a second coin on the same road, coming the other way. 3. Ask the questions below. 4. Your child changes the town to fix each problem.  
   *Parent says:* Pulli meets her friend on a narrow road. Neither can go over the other. What can they do? If Pulli's door is open, is her house still closed in?  
-  *Child mode:* Pulli meets a friend on the road. How can they pass?
+  *Child mode:* Slide the coin along the road. Then a second coin comes the other way.
   - Ask: How can Pulli pass her friend on a narrow road? (good: Make the road wider.; Add a side road for one to wait in.)
   - Ask: What happens to Pulli's house when her door is open? (good: Anyone can come in.; The wall has a gap, so it isn't closed.)
   - Note: Children often find new problems. A door that swings open blocks the room. A drawn road splits the town in two, because Pulli cannot cross its lines. Praise every problem they find. Each one shows what the up direction does for us.
@@ -375,12 +375,12 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **s2 (9 min)**  
   *Parent does:* 1. Your child tries ways to fold or roll the sheet. 2. Test each one with the plate. 3. Measure the height with the ruler.  
   *Parent says:* Try it. Does it hold the plate? How high is the plate now?  
-  *Child mode:* Try it. Does it hold the plate? How high?
+  *Child mode:* Roll or fold the sheet. Stand it up and put the plate on top.
   - Note: A tube rolled from a notebook page, about 6 centimetres wide, usually holds a small steel plate easily. If the plate tips, tape the tube to keep it from unrolling.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask the questions below.  
   *Parent says:* The flat sheet flopped. What changed when you rolled it?  
-  *Child mode:* What changed when you rolled the sheet?
+  *Child mode:* Compare the flat sheet and the rolled sheet. Which one stands up?
   - Check: Why could the rolled sheet hold the plate when the flat sheet could not? → **Rolling made a solid tube with height and width, which stands up**
 
 ## Worksheets

@@ -397,11 +397,11 @@
        "b": "2 claps and 2 knee pats"
       },
       {
-       "f": "Say 'ta ka di mi'. Clap on 'ta', pat on the rest.",
+       "f": "Say 'ta ka di mi'. Clap on 'ta', pat on the other three.",
        "b": "1 clap and 3 knee pats"
       },
       {
-       "f": "Say 'ta ki ta, ta ki ta'. Clap on the first 'ta' of each group, pat the rest.",
+       "f": "Say 'ta ki ta, ta ki ta'. Clap on the first 'ta' of each group, pat the others.",
        "b": "2 claps and 4 knee pats"
       }
      ]
@@ -442,15 +442,15 @@
      "context": "This is the first step of Echo Beat Cards. You cut out rhythm cards and set up the game.",
      "do": "1. Cut out the 12 cards. 2. Read one card aloud and play it together, so everyone knows what clap, pat, stamp and rest mean.",
      "say": "A rest is a silent beat. You do nothing, but you still count it. Let's try one card together.",
-     "kid": "A rest means a silent beat. Count it, but make no sound.",
+     "kid": "Play one card with your grown-up. On a rest, stay silent but keep counting.",
      "parent": "Rests are the hardest part. Nod your head on a rest, so everyone feels the silent beat."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Take turns to lead. 2. Keep a steady beat going on your knees. 3. Write the points on the score sheet.",
-     "say": "Listen to the leader. Copy the rhythm exactly. Then say which card it was.",
-     "kid": "Listen. Copy the rhythm. Then point to the card.",
+     "say": "Listen to the leader. Then copy the rhythm exactly.",
+     "kid": "Copy the rhythm you hear. Then point to the card you think it was.",
      "ask": [
       {
        "q": "How did you know which card it was?",
@@ -465,9 +465,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Add up the points. Ask which cards had a rest, and how the players knew when to stay quiet.",
-     "say": "Some cards had a rest in them. How did you know when to stay quiet?",
-     "kid": "Some cards had a rest. How did you know when to stay quiet?",
+     "do": "Add up the points. Then ask the question below.",
+     "say": "Let's add up the points. Some of the cards had a rest in them.",
+     "kid": "Think back to the cards that had a rest.",
      "ask": [
       {
        "q": "How did you know when to stay quiet on a rest?",
@@ -549,17 +549,17 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Pattern Train. You lay sound cards in a line to build a rhythm that repeats.",
-     "do": "1. Cut out the 20 cards. 2. Build the first train together: clap, pat, clap, pat, clap, pat, clap, pat.",
-     "say": "A pattern repeats in the same order. Clap, pat, clap, pat. What comes next?",
-     "kid": "Clap, pat, clap, pat. What comes next?",
+     "do": "1. Cut out the 20 cards. 2. Lay four cards in a line: clap, pat, clap, pat. 3. Ask your child which card comes next.",
+     "say": "A pattern repeats in the same order. Look at these four cards.",
+     "kid": "Which card comes next?",
      "parent": "Patterns with two parts are easiest, like clap, pat. Patterns with three or four parts, like clap, clap, stamp, rest, are harder."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Take turns to build or change the train. 2. Pat a steady beat while everyone plays it.",
-     "say": "Is this train a pattern that repeats? Let's check, then play it on the beat.",
-     "kid": "Build your train. Does it repeat? Now play it on the beat.",
+     "say": "Let's check that your train repeats. Then we play it on the beat.",
+     "kid": "Build a train of 8 cards. Then play it, one card on each beat.",
      "ask": [
       {
        "q": "How do you know your train repeats?",
@@ -574,9 +574,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the points. Ask which pattern repeated the most times in 8 cards.",
-     "say": "Look at the trains you built. Which pattern repeated the most times in 8 cards?",
-     "kid": "Look at the trains. Which pattern repeated the most times?",
+     "do": "Count the points. Then ask the question below.",
+     "say": "Let's look at the trains you built.",
+     "kid": "Count how many times each pattern came round.",
      "ask": [
       {
        "q": "Which pattern repeated the most times in 8 cards?",
@@ -650,7 +650,7 @@
      "what": "Guess, tap four boxes the same way, feel the big box buzz, play the eyes-shut round, check with steel bowls, and talk about why."
     }
    ],
-   "record": "Fill in the results table. Draw the four boxes on a ladder: the deepest at the bottom, the highest at the top. Write how many boxes you named right in the eyes-shut round.",
+   "record": "Fill in the results table. Line up the four boxes from the deepest sound to the highest, and take a photo, or draw them on a ladder. Write how many boxes you named right in the eyes-shut round.",
    "setup": [
     {
      "art": "Four empty boxes in a row on a floor mat, from a tiny matchbox to a big delivery carton, each with its lid taped shut.",
@@ -674,9 +674,9 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of the Big Box, Small Box test. You guess which box will make the deepest sound before you tap any of them.",
-     "do": "1. Put the four boxes in a row, from smallest to biggest. 2. Draw the results table with four rows. 3. Ask your child to guess for each box.",
-     "say": "We are going to tap each box in exactly the same way. Which one will make the deepest sound? Why do you think so?",
-     "kid": "Look at the four boxes. Which will sound deepest? Why do you think so?",
+     "do": "1. Put the four boxes in a row, from smallest to biggest. 2. Make the results table on paper, with four rows. 3. Ask your child to guess for each box.",
+     "say": "We are going to tap each box in exactly the same way. Which one will make the deepest sound?",
+     "kid": "Look at the four boxes. Point to the one you think will sound deepest.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -693,7 +693,7 @@
      "id": "s2",
      "mins": 2,
      "do": "1. Tape each lid shut. 2. Lay each box on the floor on its biggest side. 3. Show the tap: one finger, dropped onto the middle of the top.",
-     "say": "Every box must get the same tap, in the same place. Why do you think that matters?",
+     "say": "Every box gets the same tap, in the same place. Watch how I do it.",
      "kid": "Tape the lids shut. Lay each box flat. Tap the middle with one finger.",
      "ask": [
       {
@@ -727,8 +727,8 @@
      "id": "s4",
      "mins": 2,
      "do": "1. Your child rests the fingertips of one hand lightly on the top of the big carton. 2. With the other hand, they slap the side of the carton once with a flat palm. 3. Do the same with the smallest box.",
-     "say": "Put your fingers lightly on top of the big carton. Now slap its side. What do your fingers feel?",
-     "kid": "Put your fingers on top of the big box. Slap its side. What do you feel?",
+     "say": "Put your fingers lightly on top of the big carton. Now slap its side and notice your fingers.",
+     "kid": "Put your fingers on top of the big box. Slap its side.",
      "ask": [
       {
        "q": "What did your fingers feel?",
@@ -754,15 +754,15 @@
      "mins": 3,
      "do": "1. Stand the three steel bowls on a folded towel. 2. Your child taps the rim of each gently with the spoon. 3. Ask which rings lowest and which highest.",
      "say": "These bowls are all the same steel, from one set. Only the size is different. Which rings lowest?",
-     "kid": "Tap each bowl with the spoon. Which rings lowest? Which rings highest?",
+     "kid": "Tap each bowl gently with the spoon. Listen for the lowest and the highest.",
      "parent": "The biggest bowl rings lowest and the smallest rings highest. This shows the size rule works for steel too, not only card. Tap gently, so the spoon does not dent or chip anything."
     },
     {
      "id": "s7",
      "mins": 2,
      "do": "1. Ask your child what they found, and how they know. 2. Only then, explain why bigger boxes sound lower.",
-     "say": "What did you find out? What did you hear that tells you so? Why do you think the big box sounded deeper?",
-     "kid": "What did you find? Which sounded deepest? Why, do you think?",
+     "say": "Let's look at your results table together. Then tell me what you found.",
+     "kid": "Look at your results table. Tell your grown-up what you found.",
      "ask": [
       {
        "q": "What did you find, and how do you know?",
@@ -831,7 +831,7 @@
      "what": "Guess, find the beat of each song, count the pats in 15 seconds twice for each song, and compare."
     }
    ],
-   "record": "Fill in the results table. Draw one bar for each song, as tall as its number of pats.",
+   "record": "Fill in the results table. Draw one bar for each song, as tall as its number of pats. Or write the two numbers and circle the bigger one.",
    "setup": [
     {
      "art": "A child sitting cross-legged, patting both knees, while a phone on the floor plays a song.",
@@ -851,9 +851,9 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of the Sleepy Song, Dancing Song test. You guess how many beats each song has in 15 seconds.",
-     "do": "1. Choose the lullaby and the dance song. 2. Draw the results table. 3. Ask your child to guess the number of pats for each.",
-     "say": "We will pat along to a lullaby and a dance song for 15 seconds each. Which will give more pats? How many? Why do you think so?",
-     "kid": "Which song has a faster beat? Guess how many pats for each. Why?",
+     "do": "1. Choose the lullaby and the dance song. 2. Make the results table on paper. 3. Ask your child to guess the number of pats for each.",
+     "say": "We will pat along to a lullaby and a dance song for 15 seconds each. Which will give more pats? About how many?",
+     "kid": "Guess how many pats each song will give. Say a number for each song.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -876,7 +876,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Play the lullaby. 2. When the seconds hand of the clock reaches 12, say 'Go'. 3. Make one tally mark for each pat. 4. Say 'Stop' after 15 seconds. 5. Do the same for the dance song.",
+     "do": "1. Play the lullaby. 2. Start the timer, or wait for the seconds hand of the clock to reach 12. Then say 'Go'. 3. Make one tally mark for each pat. 4. Say 'Stop' after 15 seconds. 5. Do the same for the dance song.",
      "say": "Pat on every beat. I will make a mark each time you pat. Ready? Go!",
      "kid": "Pat on every beat until the grown-up says stop.",
      "parent": "A lullaby usually gives about 15 to 20 pats in 15 seconds. A fast dance song often gives 25 to 35. Your numbers will depend on your songs."
@@ -893,8 +893,8 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Ask what your child found, and how they know. 2. Then tell them the word for how fast a beat goes: tempo.",
-     "say": "Which song had more pats in 15 seconds? How many more? Why do you think a lullaby is slow?",
-     "kid": "Which song had more pats? Why is a lullaby slow?",
+     "say": "Let's look at the table. Which song had more pats, and how many more?",
+     "kid": "Look at your numbers. Which song had more pats?",
      "ask": [
       {
        "q": "Why might a lullaby be slow?",
@@ -940,7 +940,7 @@
      "what": "March to a steady beat, clap family names, then clap names while the beat goes on."
     }
    ],
-   "record": "Write three family names and draw a dot for each clap under each name.",
+   "record": "Write three family names. Next to each, write how many claps it has.",
    "setup": [
     {
      "art": "A girl and her grandmother marching round a small living room, stepping in time.",
@@ -958,7 +958,7 @@
      "context": "This is the first step of Name Rhythms. You march to a steady beat, like a clock ticking.",
      "do": "1. Say 'tick, tick, tick, tick' slowly and evenly, like a clock. 2. March round the room together, one step on each tick.",
      "say": "Let's march like a clock. One step on every tick. Tick, tick, tick, tick.",
-     "kid": "March round the room. One step on every tick.",
+     "kid": "March round the room. Keep your steps as even as the ticks.",
      "ask": [
       {
        "q": "Did the ticks get faster or slower, or stay the same?",
@@ -974,8 +974,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Say your child's name in parts, clapping on each part. 2. Do the same with three family names. For example, Ka-vya is 2 claps and Mee-nak-shi is 3.",
-     "say": "Now clap your name. One clap for each part. Ka-vya: clap, clap. How many claps is your name?",
-     "kid": "Clap your name. One clap for each part. How many claps?",
+     "say": "Now clap your name, one clap for each part. Ka-vya has two parts, so it is two claps.",
+     "kid": "Clap your name. Count how many claps it has.",
      "parent": "Clapping the parts of a name gives a pattern of claps. That pattern of claps is called a rhythm. Different names make different rhythms."
     },
     {
@@ -983,7 +983,7 @@
      "mins": 2,
      "do": "1. March and say 'tick, tick' again. 2. While the beat goes on, your child claps and says one name after another.",
      "say": "Keep marching on the beat. Now clap names on top of it. Does your marching change?",
-     "kid": "Keep marching. Clap names at the same time. Do your feet change?",
+     "kid": "Keep marching, and clap a name at the same time. Keep your steps steady.",
      "parent": "The marching stays the same, and the claps change. The steady marching is the beat. The pattern of claps is the rhythm.",
      "check": {
       "t": "mcq",
@@ -1018,7 +1018,7 @@
      "what": "Say ta ka di mi and ta ki ta on a beat, then count Adi talam with claps, fingers and waves."
     }
    ],
-   "record": "Draw the 8 hand shapes of Adi talam in a circle, numbered 1 to 8.",
+   "record": "Write the numbers 1 to 8 in a circle. Next to each, write what your hands do: clap, little finger, ring finger, middle finger or wave. Then show your grown-up the whole round without looking.",
    "setup": [
     {
      "art": "A girl patting her knees and saying 'ta ka di mi', with the four syllables written above her in a row.",
@@ -1034,7 +1034,7 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Ta Ka Di Mi. You say drum syllables in time with a steady beat.",
-     "do": "1. Pat your knees slowly and evenly together. 2. Say one syllable on each pat: ta, ka, di, mi. 3. Repeat it again and again. 4. Then clap only on 'ta'.",
+     "do": "1. Pat your knees slowly and evenly together. 2. Say one syllable on each pat: ta, ka, di, mi. 3. Repeat it again and again. 4. Then clap on 'ta' and pat on the other three.",
      "say": "Drummers in South India say their rhythms out loud. Say it with me on every pat: ta, ka, di, mi.",
      "kid": "Pat your knees. Say ta, ka, di, mi. One sound on each pat.",
      "parent": "Speaking drum syllables like this is called konnakol. 'Ta ka di mi' is a group of four."
@@ -1052,7 +1052,7 @@
      "mins": 5,
      "do": "1. Show your child Adi talam, slowly. 2. Clap. Touch your little finger to your thumb, then the ring finger, then the middle finger. 3. Clap, then turn your hand over to wave. 4. Clap, and wave again. 5. Do it together four times.",
      "say": "This is Adi talam. Clap, one, two, three. Clap, wave. Clap, wave. That is 8 beats. Then start again.",
-     "kid": "Clap. Little finger, ring finger, middle finger. Clap, wave. Clap, wave.",
+     "kid": "Copy your grown-up. Clap, then touch your thumb to three fingers. Clap and turn your hand over. Clap and turn it over again.",
      "ask": [
       {
        "q": "How many beats are in one round?",
@@ -1068,7 +1068,7 @@
      "mins": 2,
      "do": "1. You keep counting Adi talam. 2. Your child says 'ta ka di mi, ta ka di mi', one syllable on each beat.",
      "say": "I will count the tala. You say ta ka di mi twice in each round. Do they fit?",
-     "kid": "Say ta ka di mi twice. Does it fit one round?",
+     "kid": "Say 'ta ka di mi' twice while your grown-up counts one round.",
      "parent": "Eight syllables fit exactly into the 8 beats of Adi talam.",
      "check": {
       "t": "mcq",
@@ -1089,7 +1089,7 @@
    "title": "Tissue-box Ektara: a one-string instrument",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a one-string instrument from a tissue box and a rubber band, and play a steady beat on it while you sing, like the Baul singers of Bengal.",
+   "context": "In this activity you make a one-string instrument from a tissue box and a rubber band, and play a steady beat on it while you sing, like the Baul singers of Bengal. You will find out which part shakes to make the sound.",
    "materials": [
     {
      "item": "an empty tissue box with a hole in the top, or a shoebox with a hole about the size of a fist cut in the lid by a grown-up",
@@ -1111,7 +1111,7 @@
      "what": "Build the ektara, find out what vibrates, and play a steady beat on it while singing."
     }
    ],
-   "record": "Draw your ektara and draw wavy lines on the part that vibrates.",
+   "record": "Take a photo of your ektara. Point to the part that vibrates and tell your grown-up how you know. Or draw it, with wavy lines on that part.",
    "setup": [
     {
      "art": "A rubber band stretched the long way round a tissue box, right over the hole, with a pencil slipped under the band near one end.",
@@ -1136,8 +1136,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Pluck the band over the hole with one finger. 2. Look closely at the band. 3. Rest a fingertip lightly on the box while you pluck.",
-     "say": "Pluck it. Look at the band. What does it look like? Now feel the box while you pluck.",
-     "kid": "Pluck the band. Look at it. Then feel the box.",
+     "say": "Pluck it and watch the band closely. Now rest a fingertip on the box and pluck again. What do you feel?",
+     "kid": "Watch the band as you pluck. Then touch the box while you pluck.",
      "ask": [
       {
        "q": "What did the band look like when you plucked it?",
@@ -1183,7 +1183,7 @@
      "what": "Learn to hoot an empty bottle, then add water a little at a time and listen."
     }
    ],
-   "record": "Draw the bottle with no water, a little water, and half full. Next to each, write 'low', 'middle' or 'high'.",
+   "record": "For each hoot (no water, a little water, half full), write 'low', 'middle' or 'high'. Then play the three hoots in order for a grown-up. You can draw the bottles too, if you like.",
    "setup": [
     {
      "art": "A child with their lower lip touching the edge of a bottle's mouth, blowing gently straight across the top.",
@@ -1201,7 +1201,7 @@
      "context": "This is the first step of the Bottle Hooter. You learn to make an empty bottle hoot.",
      "do": "1. A grown-up tries first. 2. Rest your lower lip on the edge of the bottle's mouth. 3. Blow gently, straight across the top, not into the bottle.",
      "say": "Rest your lip on the edge and blow gently across the top, as if you are saying 'poo' very softly.",
-     "kid": "Rest your lip on the edge. Blow softly across the top. Keep trying!",
+     "kid": "Try to make the bottle hoot. Blow softly across the top, not into it.",
      "parent": "It takes most people several tries. Tilt the bottle a little away from your mouth, and blow more gently, not harder. If your child cannot do it, you hoot and they listen."
     },
     {
@@ -1209,7 +1209,7 @@
      "mins": 5,
      "do": "1. Pour water into the bottle until it is about a quarter full. 2. Hoot again. 3. Fill it to half and hoot again.",
      "say": "Now we put some water in. Will the hoot be higher, lower or the same? Why do you think so?",
-     "kid": "Guess first. Then hoot again with water inside. Higher or lower?",
+     "kid": "Guess first. Then pour in water and hoot again.",
      "ask": [
       {
        "q": "What happened to the hoot?",
@@ -1224,9 +1224,9 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Ask your child what is vibrating to make the hoot.",
-     "say": "Nothing in the bottle seems to move. So what is vibrating to make the hoot?",
-     "kid": "Nothing seems to move. So what is vibrating?",
+     "do": "Ask the question below. If your child is stuck, ask what is inside the bottle.",
+     "say": "Nothing in the bottle seems to move. But the hoot must come from something shaking.",
+     "kid": "Look inside the bottle. Is it really empty?",
      "check": {
       "t": "mcq",
       "q": "You blow across an empty bottle and it hoots. What is vibrating?",
@@ -1248,7 +1248,7 @@
    "title": "Our Box Band Concert",
    "mins": 40,
    "days": 2,
-   "context": "In this project your family makes a band from boxes, bottles and rubber bands, practises one song on a steady beat, and plays a short concert.",
+   "context": "In this project your family makes a band from boxes, bottles and rubber bands, practises one song on a steady beat, and plays a short concert. You will hear a high sound, a low sound and a steady beat working together.",
    "materials": [
     {
      "item": "a big cardboard carton, for the low drum",
@@ -1287,7 +1287,7 @@
      "what": "Practise the song on a steady beat with Adi talam, then play the concert for the family."
     }
    ],
-   "record": "Draw your band and write the name of each instrument, who played it, and whether it sounded high, middle or low.",
+   "record": "Take a photo of your band, or draw it. Write the name of each instrument, who played it, and whether it sounded high, middle or low.",
    "setup": [
     {
      "art": "A floor covered in home-made instruments: a decorated carton drum, a small box drum, a tissue-box ektara, a rice shaker bottle and a glass bottle.",
@@ -1303,15 +1303,15 @@
      "id": "s1",
      "mins": 20,
      "context": "This is day 1 of Our Box Band Concert. You build the instruments and plan the song.",
-     "do": "1. Tape the boxes shut and decorate them. 2. Make the ektara. 3. Put a handful of rice in the small bottle and screw the cap on tight. 4. Choose a song and who plays what.",
+     "do": "1. Tape the boxes shut and, if you like, decorate them. 2. Make the ektara. 3. Put a handful of rice in the small bottle and screw the cap on tight. 4. Choose a song and who plays what.",
      "say": "Every band needs a low sound, a high sound and a beat. Which instrument will you play? Which song shall we play?",
-     "kid": "Build the instruments. Decorate them. Choose your instrument and a song.",
+     "kid": "Build the instruments. Choose your instrument and a song. Decorate it if you like.",
      "parent": "Check the shaker cap is tight, so rice does not spill. A song the whole family knows works best."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Count Adi talam together for one round. 2. Play the song, with everyone keeping to the beat. 3. Practise twice. 4. Play the concert.",
+     "do": "1. Count Adi talam together for one round. 2. Practise the song twice, with everyone keeping to the beat. 3. Play the concert for the family.",
      "say": "First we count the beat. Clap, one, two, three, clap, wave, clap, wave. Now everyone plays on the beat.",
      "kid": "Listen for the beat first. Then play on the beat.",
      "ask": [
@@ -1374,15 +1374,15 @@
      "mins": 3,
      "context": "This is the first step of A Band of Three. You read the challenge and plan your three instruments.",
      "do": "Read the challenge together. Lay out the boxes, bottles, bands and bowls you have.",
-     "say": "We need one high, one middle and one low instrument. Which things do you think will sound lowest? Why?",
-     "kid": "Which things will sound lowest? Which highest? Why?"
+     "say": "We need one high, one middle and one low instrument. Which of these do you think will sound lowest? Why?",
+     "kid": "Look at the things you have. Pick one for low, one for middle and one for high."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Let your child build and test. Help with tape and with pouring water.",
-     "say": "Try each one. Is it high, middle or low? Change one if two sound the same.",
-     "kid": "Try each one. Is it high, middle or low? Change one if two sound the same.",
+     "say": "Try each one and listen. Is it high, middle or low?",
+     "kid": "Build your three instruments. Listen to each. Change one if two sound the same.",
      "parent": "Let your child try their own ideas first. If they are stuck, remind them of the Big Box test and the Bottle Hooter."
     },
     {

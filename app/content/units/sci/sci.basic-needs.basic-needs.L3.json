@@ -403,7 +403,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each player packs a small boat for a three-day trip to an island. You can pack only 8 cards. Then the weather and event cards show whether you packed what you need.",
+   "context": "This is a card game. Each player packs a small boat for a three-day trip to an island. You can pack only 8 cards. Then the weather and event cards show whether you packed what you need. You will find out which things you really need to stay well, and which are only nice to have.",
    "printables": [
     {
      "kind": "cards",
@@ -571,7 +571,7 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Lay the packing cards face up. 3. Explain the trip.",
      "say": "We are going to an island for three days. There's no shop and no house. You can pack only 8 things. Choose carefully.",
-     "kid": "You are going to an island. You can pack 8 things. Choose!",
+     "kid": "Look at all 24 cards. Which things would you need on an island?",
      "context": "This is the first step of Pack the Boat, a game about needs and wants."
     },
     {
@@ -585,15 +585,15 @@
      "id": "s3",
      "mins": 6,
      "do": "Turn over the event cards one at a time. Each player checks their boat and changes their points.",
-     "say": "Here comes the weather. Hot sun all day. Who packed water?",
-     "kid": "Turn over an event card. Did you pack what you need?"
+     "say": "Here comes the weather. I will read an event card. Did you pack what you need?",
+     "kid": "Listen to the event card. Check your 8 cards. Change your points."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Add up the points. Turn your 8 cards over and count the wants. Then talk about it.",
      "say": "Who did best? What would you pack differently next time? Was any want card useful?",
-     "kid": "Add up your points. Turn your cards over. How many were wants? What would you change next time?",
+     "kid": "Add up your points. Turn your cards over and count the wants.",
      "think": "The teddy bear is a want. Could comfort ever be a need?",
      "parent": "There is no single right answer. A teddy bear is not one of the five needs, but a frightened child may sleep better holding one. Doctors and scientists still argue about whether love and comfort are basic needs too. Any answer with a reason is a good answer."
     }
@@ -606,7 +606,7 @@
    "title": "The Hidden Water Test: does a dry hand give out water?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you put a clear plastic bag over your dry hand, and another over an empty tumbler, and watch what happens inside each one.",
+   "context": "In this experiment you put a clear plastic bag over your dry hand, and another over an empty tumbler, and watch what happens inside each one. You will find out whether your skin gives out water even when it feels dry.",
    "question": "Your hand feels dry. Does it still give out water? If mist appears in the bag, where does it come from?",
    "predict": "One bag goes over your dry hand. Another goes over an empty steel tumbler. What will the inside of each bag look like after 15 minutes? Why do you think so?",
    "fair_test": "Use two bags of the same kind, clean and dry inside. Both stay in the same room, away from the fan and the sun, for the same 15 minutes. Only one thing is different: one bag holds your hand and one holds an empty tumbler. The tumbler bag shows whether the mist could come from the room's air.",
@@ -645,7 +645,7 @@
      "what": "Guess, then put one bag over a dry hand and one over a tumbler. Watch for 15 minutes. Compare and explain."
     }
    ],
-   "record": "Fill in the table at 0, 5, 10 and 15 minutes. Then draw both bags as they looked at the end, with any drops you saw.",
+   "record": "Fill in the table at 0, 5, 10 and 15 minutes. Then draw both bags as they looked at the end, with any drops you saw. Or take a photo of each bag and tell your grown-up what you saw.",
    "setup": [
     {
      "art": "A child drying their hands on a towel, with two clear plastic bags, two hair bands and a steel tumbler on the table.",
@@ -706,7 +706,7 @@
      "mins": 4,
      "do": "1. Show the two bags and the tumbler. 2. Explain the plan. 3. Ask for a guess and a reason for each bag. 4. Write the guesses down.",
      "say": "One bag will go over your hand. The other goes over this empty tumbler. In 15 minutes, what will each bag look like inside? Why do you think so?",
-     "kid": "One bag goes over your hand and one over the empty tumbler. What will each bag look like inside after 15 minutes? Why?",
+     "kid": "One bag goes over your hand and one over the empty tumbler. What will the inside of each bag look like after 15 minutes?",
      "ask": [
       {
        "q": "Why did you guess that?",
@@ -741,8 +741,8 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Take off both bags. 2. Your child feels the inside of each one with a dry finger. 3. Compare them.",
-     "say": "Take the bags off. Feel inside each one with a dry finger. Which one is wet? Where did that water come from?",
-     "kid": "Take off the bags. Feel inside each. Which one is wet? Why?",
+     "say": "Take the bags off. Feel inside each one with a dry finger. Which one is wet?",
+     "kid": "Take off the bags. Feel inside each one. Which one is wet?",
      "check": {
       "t": "mcq",
       "q": "The hand bag turned misty, but the tumbler bag stayed clear. Where did the water come from?",
@@ -759,7 +759,7 @@
      "id": "s6",
      "mins": 5,
      "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it matter for your body?",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say three things: what you think now, what you saw, and why you think it happened.",
      "parent": "~ For the jumping question: after jumping you breathe faster and your skin gets warm, so the bag usually mists sooner. That is a good thing to test another day.",
      "think": "When you jump about, you breathe faster and your skin gets warm. If you did 20 jumps first, would the bag mist faster or slower? Try it another day and see."
@@ -771,7 +771,7 @@
    "title": "The Water Ring: can a moat keep ants off the sugar?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you put out two small caps of sugar where ants walk. One sits on a dry plate. The other sits on a little island in a ring of water. You see which one the ants reach.",
+   "context": "In this experiment you put out two small caps of sugar where ants walk. One sits on a dry plate. The other sits on a little island in a ring of water. You see which one the ants reach. You will find out whether ants will cross water to get to food.",
    "question": "Ants need food, and they come to our kitchens for it. Can a ring of water around the sugar stop them reaching it?",
    "predict": "Which sugar cap will the ants reach: the one on the dry plate, the one inside the water ring, or both? Why do you think so?",
    "fair_test": "Both caps hold the same amount of the same sugar. Both stand in the same place, about 30 cm apart, near where ants walk. Both are checked at the same times. Only one thing is different: one cap has a ring of water around it. Nothing may touch the island from outside, or the ants could use it as a bridge.",
@@ -815,7 +815,7 @@
      "what": "Set up two sugar caps near an ant path, one on a dry plate and one in a water ring. Check at 30 minutes and at 1 to 2 hours. Clean up and explain."
     }
    ],
-   "record": "Count the ants on each cap at each check and write the numbers in the table. Draw both plates at the last check.",
+   "record": "Count the ants on each cap at each check and write the numbers in the table. Draw both plates at the last check, or take a photo of each.",
    "setup": [
     {
      "art": "A line of small ants walking along the edge of a kitchen counter, with a child pointing at them.",
@@ -881,7 +881,7 @@
      "mins": 3,
      "do": "Ask for a guess and a reason, and write it down.",
      "say": "One cap of sugar will sit on a dry plate. The other will sit on a little island in a ring of water. Which sugar will the ants reach first? Will they reach the island at all? Why do you think so?",
-     "kid": "Which sugar will the ants reach: the one on the dry plate, the one inside the water ring, or both? Why do you think so?",
+     "kid": "Which sugar will the ants reach: the one on the dry plate, the one inside the water ring, or both?",
      "ask": [
       {
        "q": "Why do you think that?",
@@ -992,8 +992,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Talk about it: you could save a snack, and you can wait for a drink. Why can't you save up air?",
-     "say": "You can save a laddu for later. You can wait an hour for a drink. But you can't wait a minute for air. Why do you think that is?",
-     "kid": "You can save a snack for later. Why can't you save up air for later?",
+     "say": "You can save a laddu for later. You can wait an hour for a drink. But you can't wait a minute for air.",
+     "kid": "You can save a snack and wait for a drink. But you cannot wait for air. Think about why.",
      "ask": [
       {
        "q": "Why can't we save up air?",
@@ -1013,7 +1013,7 @@
    "title": "Need or Want? The sorting slips",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you sort slips of paper into needs and wants, then argue about the hard ones.",
+   "context": "In this activity you sort slips of paper into needs and wants, then argue about the hard ones. You will find out which things we truly need, and which are only nice to have.",
    "materials": [
     {
      "item": "16 small slips of paper and a pencil",
@@ -1064,7 +1064,7 @@
      "mins": 4,
      "do": "Talk about the slips in the middle.",
      "say": "Let's look at the middle ones. When would each one be a need? When would it be a want?",
-     "kid": "Look at the middle slips. When is each one a need?",
+     "kid": "Look at the middle slips. Who might need each one?",
      "check": {
       "t": "mcq",
       "q": "When is medicine a need?",
@@ -1084,7 +1084,7 @@
    "title": "The Mosquito Hunt: find still water at home",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you search your home and balcony for still water, where mosquitoes could lay their eggs, and empty it.",
+   "context": "In this activity you search your home and balcony for still water, where mosquitoes could lay their eggs, and empty it. You will find out where mosquitoes could grow up in your home.",
    "materials": [
     {
      "item": "a torch",
@@ -1133,8 +1133,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Empty every place you found. 2. Make a weekly checklist and stick it on the fridge.",
-     "say": "Let's empty them all. Then we'll make a list, so we check every week. Why every week?",
-     "kid": "Empty them. Make a list. Why check every week?",
+     "say": "Let's empty them all. Then we'll make a list, so we check every week.",
+     "kid": "Empty them. Then make a list to stick on the fridge.",
      "ask": [
       {
        "q": "Why do we need to check every week?",
@@ -1153,7 +1153,7 @@
    "title": "The Breeze Path: does air need a way in and a way out?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you hold a paper strip at a window to see whether air flows through a room with one opening, and then with two.",
+   "context": "In this activity you hold a paper strip at a window to see whether air flows through a room with one opening, and then with two. You will find out what makes air move through a room.",
    "materials": [
     {
      "item": "a strip of tissue paper or thin newspaper, about 20 cm long, taped to a pencil",
@@ -1172,7 +1172,7 @@
      "what": "Hold a paper strip at a window, first with one opening, then with two. Compare."
     }
    ],
-   "record": "Draw the room from above. Draw arrows to show where the air went with one opening, and with two.",
+   "record": "Show where the air went with one opening, and with two. Draw the room from above with arrows, or point and tell your grown-up.",
    "setup": [
     {
      "art": "A child holding a paper strip on a pencil near an open window, with the room's door closed, the strip hanging down.",
@@ -1204,8 +1204,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Talk about the kitchen: where can smoke and steam get out? Then ask why a room with windows on two sides gets fresher air.",
-     "say": "Where does the smoke from cooking go in our kitchen? Is there a way in and a way out for the air? Why would a room with windows on two sides get fresher air?",
+     "do": "Talk about the kitchen: where can smoke and steam get out?",
+     "say": "Where does the smoke from cooking go in our kitchen? Is there a way in and a way out for the air?",
      "kid": "Look at the kitchen. How does smoke get out?",
      "check": {
       "t": "mcq",
@@ -1227,10 +1227,10 @@
    "title": "Dress for the Day: clothes for three places",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw clothes for a child in three places and weathers, and give a reason for each choice.",
+   "context": "In this activity you pick the right clothes for a child in three places and weathers, and say why. You will find out what each kind of cloth is good at.",
    "materials": [
     {
-     "item": "a sheet of paper folded into three parts, pencils and crayons",
+     "item": "a sheet of paper folded into three parts, and a pencil to write the place names",
      "qty": 1
     },
     {
@@ -1242,10 +1242,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Feel three kinds of clothes. Draw a child dressed for Jaipur in May, Darjeeling in December and Kochi in the monsoon."
+     "what": "Feel three kinds of clothes. Pick the right clothes for Jaipur in May, Darjeeling in December and Kochi in the monsoon."
     }
    ],
-   "record": "Under each drawing, write one reason for the clothes you chose.",
+   "record": "Take a photo of your three choices. Tell your grown-up one reason for each, or write it under the place name.",
    "setup": [
     {
      "art": "A cotton shirt, a woollen sweater and a raincoat laid on a bed side by side.",
@@ -1253,7 +1253,7 @@
     },
     {
      "art": "A sheet folded in three with a child drawn in a cotton shirt in sun, in a sweater and cap in mist, and in a raincoat in rain.",
-     "caption": "2. Draw a child dressed for each place."
+     "caption": "2. Put the right clothes on each place."
     }
    ],
    "flow": [
@@ -1263,15 +1263,15 @@
      "do": "Your child feels each piece of clothing, holds it up to the light, and breathes through it gently.",
      "say": "Feel each one. Hold it up to the light. Which one lets air through? Which one feels thick and fluffy? Which one is smooth and shiny?",
      "kid": "Feel each one. Which lets air through? Which is thick?",
-     "context": "This is a drawing activity about clothes for different weather.",
+     "context": "This is a choosing activity about clothes for different weather.",
      "parent": "Cotton lets light and air through, so it feels thin and cool. Wool is thick and fluffy, and it traps still air. A raincoat is smooth and does not let water through. These three differences are why each one suits different weather."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws a child in Jaipur in May, Darjeeling in December and Kochi in the monsoon. They write a reason under each.",
-     "say": "Draw a child in each place. What would keep them comfortable and safe? Write why.",
-     "kid": "Draw a child in each place. Write why you chose those clothes.",
+     "do": "Your child writes Jaipur in May, Darjeeling in December and Kochi in the monsoon on the three parts of the sheet. They put the best clothes on each part and say why.",
+     "say": "Here are three places. Which clothes would keep a child comfortable and safe in each one? Tell me why.",
+     "kid": "Put the right clothes on each place. Say why you chose them.",
      "parent": "Good reasons: cotton soaks up sweat and lets air pass, so the body cools. Wool traps still air, which slows heat leaving the body. A raincoat stops rain soaking the clothes, because wet clothes make you cold."
     }
    ]
@@ -1337,7 +1337,7 @@
    "title": "Our Home Care Week: one need each day",
    "days": 5,
    "mins": 55,
-   "context": "This is a 5-day project. Each day you check how well your home takes care of one basic need, and fix one thing.",
+   "context": "This is a 5-day project. Each day you check how well your home takes care of one basic need, and fix one thing. By day 5 you will know which need your home looks after best, and which needs more care.",
    "materials": [
     {
      "item": "a chart paper or a large sheet, and sketch pens",
@@ -1377,10 +1377,10 @@
     {
      "day": 5,
      "mins": 15,
-     "what": "Home day: check the drains and the bin. Then make a poster of the five needs and how our family cares for each."
+     "what": "Home day: check the drains and the bin. Then make a poster of the five needs and how our family cares for each, using words, photos or drawings."
     }
    ],
-   "record": "Each day, write one thing that was already good and one thing you fixed. On day 5, make the poster.",
+   "record": "Each day, write one thing that was already good and one thing you fixed. On day 5, make the poster with words, photos or drawings.",
    "setup": [
     {
      "art": "A chart paper on a wall divided into five boxes labelled Air, Water, Food, Clothes and Home, with ticks in two of them.",
@@ -1426,7 +1426,7 @@
     {
      "id": "s5",
      "mins": 15,
-     "do": "Home day. Check the drains and the bin together. Then make a poster with the five needs and how your family cares for each one.",
+     "do": "Home day. Check the drains and the bin together. Then make a poster with the five needs and how your family cares for each one. Use words, photos or drawings.",
      "say": "Today is home day. Is the bin covered? Does water drain away? Now let's make our poster.",
      "kid": "Home day. Check the bin and the drain. Make the poster."
     }
@@ -1462,7 +1462,7 @@
     "Put a picture label on the ladle hook, so small children know to use it.",
     "Keep the corner on a high shelf away from the stove and the bin."
    ],
-   "your_turn": "Now draw your own clean water corner for your home. Label how it keeps out dust, insects and hands. Then set it up with a grown-up and use it for a day.",
+   "your_turn": "Now draw your own clean water corner for your home, or build it on a table from real things. Say how it keeps out dust, insects and hands. Then set it up with a grown-up and use it for a day.",
    "setup": [
     {
      "art": "A child drawing a plan of a kitchen corner with a covered pot, a ladle on a hook and tumblers on a shelf.",
@@ -1477,17 +1477,17 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Ask: how could germs get into drinking water?",
-     "say": "Drinking water can get dirty in many ways. How could germs get into it, even after it was boiled?",
-     "kid": "How could germs get into clean water?",
+     "do": "Read the problem together. Then ask your child for ideas.",
+     "say": "Drinking water can get dirty in many ways, even after it was boiled. Who has an idea how?",
+     "kid": "Think of ways that dust, flies and hands could get into clean water.",
      "context": "This is a design challenge. You plan a way to keep your family's drinking water clean."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child draws a design and labels how it keeps out dust, insects and hands.",
-     "say": "Draw your water corner. Label how it stops dust, flies and hands getting in.",
-     "kid": "Draw your water corner. Label each part."
+     "do": "Your child draws a design and labels how it keeps out dust, insects and hands. Or they build it on a table from real pots, lids and ladles.",
+     "say": "Draw your water corner, or build it on the table. Show how it stops dust, flies and hands getting in.",
+     "kid": "Draw or build your water corner. Say what each part does."
     },
     {
      "id": "s3",

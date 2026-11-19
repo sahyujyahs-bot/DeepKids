@@ -187,44 +187,44 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   *Child mode:* Each card has two things. Which one comes first?
 - **s2 (8 min)**  
   *Parent does:* Take turns reading and answering. Ask for the reason every time.  
-  *Parent says:* Milk or curd? Which comes first? How do you know?  
-  *Child mode:* Say which comes first. Then say why.
+  *Parent says:* Let us try the first card. Milk or curd, which comes first?  
+  *Child mode:* Pick the one you think comes first.
   - Ask: How do you know which comes first? (good: Curd is made from milk.; You need the seed to get the plant.; The ice melted, so the ice was there before the water.)
   - Note: The reason matters more than the answer. A strong reason says how the first thing makes the second, like 'curd is made from milk'.
 - **s3 (2 min)**  
   *Parent does:* Talk about the moon card.  
-  *Parent says:* The moon card said both. Why is that?  
-  *Child mode:* Why can the full moon and the new moon both come first?
+  *Parent says:* The moon card was special, because both can win it. Why is that?  
+  *Child mode:* Think about the full moon and the new moon. Does one of them come first for good?
   - Ask: Why can both the full moon and the new moon come first? (good: They take turns.; They come round again and again, like a wheel.)
   - Note: This card shows things that come round in a cycle. In a cycle, nothing is first for good. This links to the explanation 'A line or a wheel?'
 - **s4 (2 min)**  
   *Parent does:* Count the cards and find the winner.  
   *Parent says:* Pick one card that was hard. Did the first thing make the second thing, or did they take turns? How can you tell?  
-  *Child mode:* Pick a hard card. Did the first thing make the second, or did they take turns?
+  *Child mode:* Pick a card that was hard for you.
   - Note: For milk and curd, the milk turns into the curd, so the milk comes first. For the full moon and the new moon, they take turns, so neither one is first for good.
   - Think: Can you think of two things where the order can go either way?
 ### g2 · Seconds, Minutes, Days or Years? a sorting race (15 min)
 - **rules:** Lay the four mats in a row, from Seconds to Months or years.; Mix the 12 cards and share them out.; Take turns. Put one card on the mat you think is right, and say why.; When all the cards are down, turn them over one by one to check.; Move any card that is on the wrong mat. Each card that was right scores one point.
-- **Printable board: 4 sorting mats to draw on paper:** Seconds; Minutes; Hours or days; Months or years
+- **Printable board: 4 sorting mats to write on paper:** Seconds; Minutes; Hours or days; Months or years
 - **Printable cards: 12 how-long cards to cut out:** A blink (back: Seconds: less than one second.); A sneeze (back: Seconds: about one second.); Brushing your teeth well (back: Minutes: about 2 minutes.); Boiling an egg (back: Minutes: about 10 minutes.); A night's sleep for a child of 7 (back: Hours or days: about 9 to 12 hours.); Warm milk setting into curd (back: Hours or days: several hours, often overnight.); Moong seeds sprouting in a wet cloth (back: Hours or days: about one to two days.); The Moon going from full moon to the next full moon (back: Months or years: about a month, 29 and a half days.) [picture]; A baby growing inside the mother (back: Months or years: about 9 months.); The Earth going once round the Sun (back: Months or years: one year.) [picture]; Milk teeth falling out and grown-up teeth growing in (back: Months or years: about 6 years, from age 6 to 12.); Rice cooking in a pressure cooker (back: Minutes: about 10 to 20 minutes.)
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the four mats on four sheets of paper. 2. Cut out the 12 cards. 3. Lay the mats in a row.  
+  *Parent does:* 1. Write one heading on each of four sheets of paper: Seconds, Minutes, Hours or days, Months or years. 2. Cut out the 12 cards. 3. Lay the mats in a row, shortest time first.  
   *Parent says:* These mats go from very short times to very long times. Where would a blink go?  
-  *Child mode:* Where would a blink go? On the shortest mat?
+  *Child mode:* Read the four mats, from the shortest time to the longest.
 - **s2 (7 min)**  
   *Parent does:* Take turns placing cards. Ask for a reason each time.  
-  *Parent says:* Where does boiling an egg go? Why do you think so?  
-  *Child mode:* Put your card on a mat. Say why.
-  - Ask: Why that mat? (good: You wait for the egg, but not all day.; A baby takes many months to grow.)
+  *Parent says:* Where does boiling an egg go? Which mat?  
+  *Child mode:* Put your card on a mat.
+  - Ask: Why does it go on that mat? (good: You wait for the egg, but not all day.; A baby takes many months to grow.)
 - **s3 (3 min)**  
   *Parent does:* Turn the cards over and check them together. Move any that are wrong.  
   *Parent says:* Let's check the backs together. Which cards were on the wrong mat? What clue on the back shows the right mat?  
   *Child mode:* Turn the cards over. Were any in the wrong place?
   - Check: Which takes the longest? → **The Earth going round the Sun**
 - **s4 (2 min)**  
-  *Parent does:* Count the points.  
-  *Parent says:* Which mat has the most cards? Can you think of one more thing for the emptiest mat?  
-  *Child mode:* Think of one more thing for the emptiest mat.
+  *Parent does:* Count the points, and count the cards on each mat.  
+  *Parent says:* Which mat has the fewest cards? Can you think of one more thing that fits on it?  
+  *Child mode:* Count the cards on each mat. Find the emptiest mat.
 
 ## Experiments
 ### e1 · The Salt Timer: does each spoonful take the same time? (20 min)
@@ -232,7 +232,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **question:** Does one spoon of salt take the same time to run out of a paper cone every time? Do two spoons take twice as long?
 - **predict:** Will one spoon of salt take the same time every try? Will two spoons take twice as long, or less, or more? Why do you think so?
 - **fair test:** We use the same cone, the same salt and the same spoon every time. Each spoon is filled level, not heaped. We start and stop the stopwatch the same way every time. Only one thing changes: one spoon or two. We try each one more than once, because one try can be a lucky or unlucky one.
-- **record:** Fill in the table. Then draw a row of boxes for each try, one box for every 5 seconds, and colour them in.
+- **record:** Fill in the table. If you like, also draw a row of boxes for each try, one box for every 5 seconds, or just say which try was longest.
 - **results table:** Try | Spoons of salt | My guess (seconds) | Time to run out (seconds)
 - **s1 (3 min)**  
   *Parent does:* 1. Roll the paper into a cone and tape it. 2. Snip the tip off so the hole is about 3 millimetres wide, smaller than a peppercorn. 3. Sit the cone in the mouth of the tumbler.  
@@ -242,7 +242,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason before the first try. Write the guesses in the table.  
   *Parent says:* How many seconds will one spoon of salt take to run out? Will it be the same every time? Why do you think so?  
-  *Child mode:* Guess how many seconds one spoon of salt will take to run out. Will it be the same every time? Why?
+  *Child mode:* Guess how many seconds one spoon of salt will take to run out.
   - Ask: Why do you think so? (good: Yes, because it is the same salt and the same hole.; No, because the salt might get stuck.; It will slow down at the end, like water does.)
   - Note: Any guess with a reason is good. Many children think the salt will slow down at the end. Let the test answer it.
 - **s3 (4 min)**  
@@ -263,13 +263,13 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **s6 (2 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they think, what they saw and why.  
   *Parent says:* What did you find out? Which numbers show it? Why do you think it happened?  
-  *Child mode:* What did you find? Which numbers show it?
+  *Child mode:* Look at your table. Which numbers show what you found?
   - Ask: What did you find? (good: One spoon took about the same time each try.; Two spoons took about twice as long as one.; The salt did not slow down at the end.)
   - Check: One spoon took 20 seconds. About how long will two spoons take? → **About 40 seconds**
 - **s7 (2 min)**  
   *Parent does:* Tell your child why the timer works.  
   *Parent says:* The salt ran out at a steady speed. That is why your cone is a real clock. Every clock in the world counts some steady change like this.  
-  *Child mode:* Your salt ran at a steady speed. That makes it a clock.
+  *Child mode:* Your cone is a clock. It counts time in spoonfuls of salt.
   - Note: Sand and salt grains run out at nearly the same speed, however much is left above them. Water is different: it runs out more slowly as the bottle empties. That is why sand timers were so useful.
   - Think: What other steady changes could you use as a clock?
 ### e2 · Which Way Does Time Go? The banana card test with your family (20 min)
@@ -277,16 +277,16 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **question:** When people lay out pictures in order of time, which way do they go?
 - **predict:** Will everyone in the family lay the cards from left to right? Will anyone go another way? Why do you think so?
 - **fair test:** Everyone gets the same four cards, mixed up the same way. We say the same words to everyone: 'Put these in order, from first to last.' We never say left or right. Each person does it alone, without watching the others.
-- **record:** Fill in the table. Draw an arrow for each person showing the way their cards went.
+- **record:** Fill in the table. Write an arrow for each person showing the way their cards went, like this: → or ←.
 - **results table:** Person | Languages they read | My guess | Which way they laid the cards
 - **s1 (5 min)**  
-  *Parent does:* 1. Your child draws four cards: a whole banana, a banana half peeled, a banana half eaten, and only the peel. 2. Mix them up.  
-  *Parent says:* We are going to find out which way people lay out time. First, draw the four banana cards.  
-  *Child mode:* Draw four banana cards: whole, half peeled, half eaten, only the peel.
+  *Parent does:* 1. Your child makes four cards from the squares of paper: a whole banana, a banana half peeled, a banana half eaten, and only the peel. Draw each one, or write the words. 2. Mix them up.  
+  *Parent says:* We are going to find out which way people lay out time. First, make the four banana cards.  
+  *Child mode:* Make four cards: a whole banana, half peeled, half eaten, and only the peel. Draw them, or write the words.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason. Write the guesses in the table.  
   *Parent says:* Will everyone put the cards from left to right? Will anyone go another way? Why do you think so?  
-  *Child mode:* Guess which way each person will lay the cards. Why?
+  *Child mode:* Guess which way each person will lay the cards.
   - Ask: Why do you think so? (good: Left to right, because that is how we read.; Someone who reads Urdu may go another way.; A young child who cannot read yet may put them in a pile.)
 - **s3 (8 min)**  
   *Parent does:* 1. Give each person the mixed cards. 2. Say only: 'Put these in order, from first to last.' 3. Watch where they put the first card and the last card. 4. Ask which languages they read.  
@@ -296,7 +296,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **s4 (3 min)**  
   *Parent does:* Look at the table together.  
   *Parent says:* Which way did most people go? Did anyone go a different way? What might explain it?  
-  *Child mode:* Which way did most people go? Did anyone go another way?
+  *Child mode:* Look at your table. Which way did most people go?
   - Ask: What might explain it? (good: Everyone reads Tamil and English from left to right.; One person reads Urdu, which goes from right to left.; A child who cannot read yet made a pile.)
   - Note: In many Indian homes everyone goes left to right, because Tamil, Hindi, English and most Indian scripts are written left to right. That is a real result. People who read Urdu or Arabic, written right to left, more often lay out time from right to left.
 - **s5 (2 min)**  
@@ -329,19 +329,19 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   *Child mode:* If nothing changed, would you know time had passed?
   - Ask: How would you know? (good: I would not know.; I would still feel hungry.; My heart would still beat.)
   - Note: There is no single right answer. Many grown-ups find this hard too. Tell your child that people have argued about it for thousands of years.
-### a2 · First, Next, Then, Last: draw your morning in four boxes (15 min)
+### a2 · First, Next, Then, Last: put your morning in four boxes (15 min)
 - **s1 (7 min)**  
-  *Parent does:* Your child draws four boxes on a sheet of paper, then draws one thing from this morning in each box.  
-  *Parent says:* Draw four things you did this morning, in the order you did them.  
-  *Child mode:* Draw four things you did this morning, in order.
+  *Parent does:* Your child makes four boxes on a sheet of paper. In each box goes one thing from this morning, as a drawing or a few words.  
+  *Parent says:* Think about this morning. What did you do first, next, then and last?  
+  *Child mode:* Draw or write four things you did this morning, in order.
 - **s2 (4 min)**  
   *Parent does:* 1. Cut the boxes apart. 2. Mix them up. 3. Your child puts them back in order and says each one aloud.  
   *Parent says:* Put them back in order. Say first, next, then and last.  
   *Child mode:* Put them back in order. Say first, next, then, last.
 - **s3 (4 min)**  
   *Parent does:* Ask which two pictures can swap places and which two cannot.  
-  *Parent says:* Could you swap any two pictures and still have a true morning? Which two can never swap?  
-  *Child mode:* Which two pictures can swap? Which two never can?
+  *Parent says:* Could any two swap places and still be a true morning?  
+  *Child mode:* Look at your four boxes. Can any two swap places?
   - Ask: Which can never swap? (good: Waking up must come before everything else.; Eating must come before washing my plate.; Brushing and bathing could swap.)
   - Note: Some orders are fixed, because one thing causes or needs the other. Some are only habits. Both are kinds of before and after.
 ### a3 · How Many Dates Does Today Have? The wall calendar hunt (15 min)
@@ -360,23 +360,23 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   *Child mode:* Count the days in this month. Find the next festival.
 - **s4 (2 min)**  
   *Parent does:* Ask why one day can have more than one date.  
-  *Parent says:* Why do you think one day has more than one date?  
-  *Child mode:* Why does one day have more than one date?
-  - Ask: Why? (good: People count days in different ways.; Some calendars follow the Moon and some follow the Sun.)
-### a4 · Line or Wheel? Draw your week two ways (15 min)
+  *Parent says:* Today has more than one date. Why do you think that is?  
+  *Child mode:* Think of a reason, then tell your grown-up.
+  - Ask: Why can one day have more than one date? (good: People count days in different ways.; Some calendars follow the Moon and some follow the Sun.)
+### a4 · Line or Wheel? Lay out your week two ways (15 min)
 - **s1 (5 min)**  
-  *Parent does:* Your child draws seven boxes in a row and writes one day in each, with something they do on that day.  
-  *Parent says:* Let's draw the week as a line. Monday first. What do you do on each day?  
-  *Child mode:* Draw seven boxes in a row. One box for each day.
+  *Parent does:* Your child writes one day on each scrap, with something they do on that day. Lay the scraps in a row, Monday first.  
+  *Parent says:* Let us lay the week out as a line. Monday first. What do you do on each day?  
+  *Child mode:* Write one day on each scrap. Lay them in a row.
 - **s2 (5 min)**  
-  *Parent does:* Draw round a plate to make a circle. Divide it into seven slices, like a wheel. Fill in the days again.  
-  *Parent says:* Now draw the same week as a wheel. What comes after Sunday on the wheel?  
-  *Child mode:* Now draw the week as a wheel. What comes after Sunday?
+  *Parent does:* Pick up the scraps. Set them in a circle round a plate, in the same order.  
+  *Parent says:* Now lay out the same week as a wheel. What comes after Sunday on the wheel?  
+  *Child mode:* Set the scraps in a circle, round the plate.
 - **s3 (5 min)**  
   *Parent does:* Talk about which picture fits better.  
-  *Parent says:* Which picture is true? The days do come round again. But you will never have last Monday again. What do you think?  
-  *Child mode:* Which picture fits time better? Why?
-  - Ask: Which picture fits better? (good: The wheel, because Monday comes back every week.; The line, because last Monday is gone for good.; Both, because the days come back but I keep growing.)
+  *Parent says:* Which fits time better, the line or the wheel? The days do come round again. But you will never have last Monday again. What do you think?  
+  *Child mode:* Look at your line and your wheel. Tell your grown-up which one you pick, and why.
+  - Ask: Which fits time better, the line or the wheel? (good: The wheel, because Monday comes back every week.; The line, because last Monday is gone for good.; Both, because the days come back but I keep growing.)
   - Note: Both pictures are true of something. Let your child choose one and give a reason.
 ### a5 · The Clock Hunt: do all the clocks at home agree? (10 min)
 - **s1 (5 min)**  
@@ -390,14 +390,14 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Note: Clocks often differ by a minute or more. A phone sets itself from the mobile network, which gets its time from very exact clocks. A microwave clock is set by hand and drifts a little.
 - **s3 (2 min)**  
   *Parent does:* Ask which clock to trust.  
-  *Parent says:* If the clocks disagree, which one would you trust? Why?  
-  *Child mode:* Which clock would you trust? Why?
+  *Parent says:* Some of the clocks showed different times. Which one would you trust? Why?  
+  *Child mode:* Pick the clock you trust most.
   - Ask: If the clocks disagree, which one would you trust, and why? (good: The phone, because it sets itself.; I would check them against each other.)
   - Note: India's official time is kept by atomic clocks at the National Physical Laboratory in New Delhi. Phones get their time from that kind of clock, through the network.
 
 ## Projects
 ### p1 · A Paper-Chain Countdown to a day you are waiting for (39 min, 8 days)
-- **record:** Write the number of loops left each morning. At the end, draw the chain getting shorter.
+- **record:** Write the number of loops left each morning. If you like, take a photo of the chain each day as well.
 - **schedule:** day 1: Count the days on the calendar. Make one loop for each day and join them into a chain. (15 min); day 2: Tear off one loop. Count the loops left. (2 min); day 3: Tear off one loop. Count the loops left. (2 min); day 4: Tear off one loop. Count the loops left. (2 min); day 5: Tear off one loop. Count the loops left. (2 min); day 6: Tear off one loop. Count the loops left. (2 min); day 7: Tear off one loop. Count the loops left. (2 min); day 8: Tear off the last loop. The day has come. Talk about how the wait felt. (12 min)
 - **s1 (5 min)**  
   *Parent does:* Choose a day your child is waiting for, 7 days away. Count the days to it on the calendar.  
@@ -415,13 +415,13 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **s4 (5 min)**  
   *Parent does:* On the day itself, talk about the chain.  
   *Parent says:* Did the wait feel the same every day? Did some days feel longer?  
-  *Child mode:* Did some days feel longer than others?
+  *Child mode:* Think back over the wait. Which day felt the longest?
   - Ask: Did the days feel the same? (good: The last days felt slow because I was excited.; The calendar days were the same length, but they felt different.)
   - Note: Each day lasts the same 24 hours by the clock. How long it feels depends on what we are doing and feeling. Scientists still study why.
 - **s5 (5 min)**  
   *Parent does:* Ask what the chain measured.  
   *Parent says:* What did the chain count? Think about what you tore off each morning.  
-  *Child mode:* What did your chain count?
+  *Child mode:* Think about what each loop stood for.
   - Note: The chain counted days. Each loop stood for one day, which is one spin of the Earth. So the chain counted time in days, in the same way that the salt timer counted time in spoons of salt.
   - Think: Could you make a chain for a whole year? How many loops would it need?
 
@@ -435,8 +435,8 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **s1 (3 min)**  
   *Parent does:* Read the problem aloud. Ask how to start.  
   *Parent says:* We need a timer that runs for one minute. One minute is 60 seconds. How could we start?  
-  *Child mode:* We need a one-minute timer. How could we start?
-  - Ask: How could we start? (good: Time one spoon first.; Keep adding salt until it is one minute.)
+  *Child mode:* We need a timer that runs for 60 seconds. Think of a plan.
+  - Ask: How could you make a salt timer that runs for one minute? (good: Time one spoon first.; Keep adding salt until it is one minute.)
 - **s2 (10 min)**  
   *Parent does:* Your child tries their plan, checking each try with the stopwatch.  
   *Parent says:* Try it. How many seconds did it take? Do we need more salt or less?  
@@ -444,13 +444,13 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Note: If one spoon took 20 seconds, three spoons should take about 60. Let your child work this out by counting on in 20s.
 - **s3 (5 min)**  
   *Parent does:* When it runs for about a minute, mark the fill line and test it three more times.  
-  *Parent says:* Draw a line where the salt comes up to. Now test it three times.  
-  *Child mode:* Draw a fill line. Test it three times.
+  *Parent says:* Mark a line with a pencil where the salt comes up to. Now test it three times.  
+  *Child mode:* Mark a fill line on the cone. Test it three times.
 - **s4 (2 min)**  
   *Parent does:* Ask what makes it fair.  
   *Parent says:* Why is your timer fair for both children?  
-  *Child mode:* Why is your timer fair?
-  - Ask: Why is it fair? (good: It is the same amount of salt every time.; The salt runs at a steady speed, so every turn is the same.)
+  *Child mode:* Tell your grown-up what makes your timer fair.
+  - Ask: Why does a salt timer make turns fair? (good: It is the same amount of salt every time.; The salt runs at a steady speed, so every turn is the same.)
 
 ## Worksheets
 ### Before and after, and the salt timer (core, 10 questions)

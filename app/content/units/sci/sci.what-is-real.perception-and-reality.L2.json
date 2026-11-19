@@ -304,7 +304,7 @@
    "title": "Real or Recorded? Guess what is making the sound behind the door",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment a grown-up makes four sounds behind a closed door. Sometimes the sound is real, and sometimes it is a phone recording of the same sound. You guess which, and count how often your ears were right.",
+   "context": "In this experiment a grown-up makes eight sounds behind a closed door. Four are real, and four are a phone recording of the same sounds. You guess which, and count how often your ears were right. You will find out if ears alone can tell a real sound from a copy.",
    "question": "Behind a closed door, can your ears tell a real sound from a phone recording of the same sound? Which sounds are hardest to tell?",
    "predict": "You will hear 8 sounds from behind the door. 4 will be real and 4 will come from a phone. How many do you think you will get right? Which sound will be hardest? Why do you think so?",
    "fair_test": "Each of the four sounds is made once for real and once from the phone, so every sound gets the same chance. The grown-up plays the phone from the same spot where the real sound is made, and about as loud. A shuffled set of slips decides the order, so nobody can guess from a pattern. The door stays shut every time.",
@@ -453,8 +453,8 @@
      "id": "s2",
      "mins": 2,
      "do": "1. Shuffle the 8 slips face down and put them in a pile. 2. Ask for a guess and a reason.",
-     "say": "You will hear 8 sounds. Four will be real and four will be the phone. How many do you think you will get right? Which sound will be hardest? Why do you think so?",
-     "kid": "How many will you get right? Which sound will be hardest? Say why.",
+     "say": "You will hear 8 sounds. Four will be real and four will be the phone. How many do you think you will get right? Which sound will be hardest?",
+     "kid": "Guess how many of the 8 sounds you will get right. Which sound will be hardest?",
      "ask": [
       {
        "q": "Why do you think that sound will be the hardest?",
@@ -479,7 +479,7 @@
      "id": "s4",
      "mins": 2,
      "do": "1. Open the door. 2. Read out the slips in order: real or phone, and which sound. 3. Your child ticks each right guess and counts the ticks.",
-     "say": "Let's check. Turn one was the spoon on the tumbler, and it was real. Did you write R? How many did you get right altogether?",
+     "say": "Let's check. Look at turn one. Was it real or the phone, and which sound? Did you write the same letter? How many did you get right altogether?",
      "kid": "Open the door. Tick the ones you got right. Count your ticks.",
      "ask": [
       {
@@ -503,9 +503,9 @@
     {
      "id": "s6",
      "mins": 2,
-     "do": "1. Ask what your child thinks now. 2. Ask what they heard. 3. Ask why it happened.",
-     "say": "When the phone played the tumbler, was there a real sound? Was there a tumbler clinking? How did you find out what made each sound?",
-     "kid": "Was the phone's sound real? Was a tumbler clinking? How did you find out?",
+     "do": "1. Ask about a sound the phone played. 2. Ask how your child found out what made each sound. 3. Then ask the question below.",
+     "say": "Think about a time the phone played the tumbler. Was a tumbler really clinking in the room? How did you find out what made each sound?",
+     "kid": "Think about a sound the phone played. Was the tumbler really there?",
      "ask": [
       {
        "q": "How did you find out what really made each sound?",
@@ -535,7 +535,7 @@
    "title": "My Dream Notebook: are my dreams made from my own days?",
    "mins": 30,
    "days": 6,
-   "context": "In this experiment you tell your dreams every morning for five mornings, the way the scientist Mary Calkins wrote hers down. Then you sort what was in each dream: things from your own days, or new things.",
+   "context": "In this experiment you tell your dreams every morning for five mornings, the way the scientist Mary Calkins wrote hers down. Then you sort what was in each dream: things from your own days, or new things. You will find out where your dreams get their ideas.",
    "question": "Are your dreams made of new things, or of people, places and things from your own days? Do you know you are dreaming while you dream?",
    "predict": "Over five mornings, will most things in your dreams come from your own life, or will most be new? Will you know you were dreaming, while you were in the dream? Why do you think so?",
    "fair_test": "Every morning is done the same way. You tell the dream before you get out of bed, and before anyone talks about anything else, because dreams fade fast. The grown-up writes down exactly what you say. Then you sort each thing in the dream with the same two questions every day.",
@@ -549,10 +549,6 @@
    "materials": [
     {
      "item": "a small notebook, kept beside the bed with a pencil",
-     "qty": 1
-    },
-    {
-     "item": "crayons or colour pencils",
      "qty": 1
     }
    ],
@@ -588,7 +584,7 @@
      "what": "Tell any dream, write it and sort the things in it for the last time. Then count everything up and say what you found."
     }
    ],
-   "record": "For each morning, write whether you remembered a dream. Draw the dream. Under it, make two lists: things from my own days, and new things. Tick yes or no for 'Did I know it was a dream while I was in it?'",
+   "record": "For each morning, write whether you remembered a dream. Your grown-up writes down the dream as you tell it. Under it, make two lists: things from my own days, and new things. Tick yes or no for 'Did I know it was a dream while I was in it?'",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -683,7 +679,7 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Read the dream back. 2. For each person, place or thing in it, ask: 'Have you seen this in your own days?' 3. Write it in one of the two lists.",
-     "say": "Your dream had a bus full of cats. Have you been on a bus this week? Have you seen cats? Which list does each one go in?",
+     "say": "Say your dream had a bus full of cats. Have you been on a bus this week? Have you seen cats? Which list does each one go in?",
      "kid": "Look at each thing in your dream. Is it from your days, or new?",
      "parent": "A thing counts as 'from my days' if your child has really seen, done or heard about it. A mix, such as a talking cat, can go in both lists: cats from your days, talking as new."
     },
@@ -706,7 +702,7 @@
      "parent": "Most children find that most things in their dreams come from their own life, mixed up in strange ways, and that they rarely knew they were dreaming. If your child remembered no dreams at all, keep the notebook for a few more mornings.",
      "check": {
       "t": "mcq",
-      "q": "The scientist Mary Calkins wrote her dreams down as soon as she woke. Why?",
+      "q": "Why is it best to write a dream down as soon as you wake up?",
       "options": [
        "Dreams fade fast after waking",
        "Writing makes a dream come true",
@@ -739,7 +735,7 @@
      "what": "Tell a dream. Say what made it feel real, and how you found out it was a dream."
     }
    ],
-   "record": "Draw one picture from the dream. Under it, write or say one word for how it felt.",
+   "record": "Write or say one word for how the dream felt. You can also draw one picture from it, if you like.",
    "setup": [
     {
      "art": "A girl and a grown-up sitting on a mat, the girl waving her arms as she tells a dream.",
@@ -747,16 +743,16 @@
     },
     {
      "art": "The same girl drawing a tiger in a school corridor on a sheet of paper.",
-     "caption": "2. Draw one picture from it."
+     "caption": "2. Say in one word how it felt."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Ask your child to tell a dream they remember. 2. If they remember none, tell one of your own dreams. 3. Ask the two questions below.",
-     "say": "Tell me a dream you remember. While you were in it, did you know it was a dream? What made it feel real?",
-     "kid": "Tell a dream you remember. Did you know it was a dream? What made it feel real?",
+     "do": "1. Ask your child to tell a dream they remember. 2. If they remember none, tell one of your own dreams. 3. Ask the question below.",
+     "say": "Tell me a dream you remember. While you were in it, did you know it was a dream?",
+     "kid": "Tell a dream you remember. Did you know it was a dream while you were in it?",
      "ask": [
       {
        "q": "What made it feel real?",
@@ -771,9 +767,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Ask how your child found out it was a dream. 2. Ask your child to draw one picture from it.",
+     "do": "1. Ask how your child found out it was a dream. 2. Ask your child to say in one word how the dream felt.",
      "say": "How did you find out it was a dream? What was different when you woke up?",
-     "kid": "How did you know it was a dream? Draw one picture from it.",
+     "kid": "Say in one word how the dream felt. You can draw it too, if you like.",
      "ask": [
       {
        "q": "How did you find out it was a dream?",
@@ -784,7 +780,7 @@
        ]
       }
      ],
-     "parent": "Don't explain dreams yet. The unit comes back to your child's answers later. Keep the drawing for the dream notebook."
+     "parent": "Don't explain dreams yet. The unit comes back to your child's answers later."
     }
    ]
   },
@@ -793,7 +789,7 @@
    "title": "Real, Pretend or Puzzling? A sorting mat",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you sort eight things from home into three circles: real, pretend, and puzzling. Then you say why.",
+   "context": "In this activity you sort eight things from home into three circles: real, pretend, and puzzling. Then you say why. You will find out which things are really what they seem.",
    "materials": [
     {
      "item": "a large sheet of paper or three dupattas laid on the floor as circles",
@@ -811,7 +807,7 @@
      "what": "Draw three circles. Sort the eight things. Talk about the puzzling ones."
     }
    ],
-   "record": "Draw the three circles and what you put in each one.",
+   "record": "Take a photo of the three circles with the things in them, or write down what went in each one.",
    "setup": [
     {
      "art": "Three circles drawn on a big sheet of paper on the floor, labelled Real, Pretend and Puzzling.",
@@ -827,7 +823,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Draw three big circles and label them Real, Pretend and Puzzling. 2. Your child puts each of the eight things into a circle. 3. For each one, ask why.",
-     "say": "Put each thing in a circle. Is it real, pretend, or puzzling? Why did you put it there?",
+     "say": "Put each thing in a circle. Real means it is really there. Pretend means it is made up. Puzzling means you are not sure. Why did you put it there?",
      "kid": "Put each thing in a circle: real, pretend or puzzling. Say why.",
      "parent": "There are no wrong places. The reasons matter more than the circles."
     },
@@ -835,8 +831,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Ask about the balloon, the photo and the cartoon. 2. For every thing, ask: 'How could you check?'",
-     "say": "What is inside the balloon? Are the people in the photo really inside it? Is the cartoon tiger real? How could you check each one?",
-     "kid": "What is in the balloon? Are the people in the photo? How could you check?",
+     "say": "What is inside the balloon? Are the people in the photo really inside the paper? Is the cartoon tiger real? How could you check each one?",
+     "kid": "Look at the balloon, the photo and the cartoon. Are they what they seem? How could you check?",
      "ask": [
       {
        "q": "What is inside the balloon?",
@@ -856,7 +852,7 @@
    "title": "Heard, Not Seen: what made that sound?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you sit by a window or an open door and list sounds made by things you cannot see. You guess what made each one, say how sure you are, and check if you can.",
+   "context": "In this activity you sit by a window or an open door and list sounds made by things you cannot see. You guess what made each one, say how sure you are, and check if you can. You will find out how well you can know something from its sound alone.",
    "materials": [
     {
      "item": "a window, a balcony or a front door that opens onto a corridor",
@@ -955,7 +951,7 @@
      "mins": 2,
      "do": "1. Your child reads the word on the card and the time on the clock. 2. They turn away for five seconds. 3. They look back and read both again.",
      "say": "Read the word and the time. Now turn away and count to five. Look back. Are they the same?",
-     "kid": "Read the word and the time. Turn away. Look back. Are they the same?",
+     "kid": "Read the word and the time. Turn away and count to five. Look back.",
      "ask": [
       {
        "q": "Did the word change?",
@@ -969,7 +965,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Explain the dream check. 2. Ask the question below.",
+     "do": "1. Explain the dream check. 2. Ask what they would check.",
      "say": "People who have noticed they were dreaming often say that, in the dream, words and clocks changed when they looked again. Awake, the word stays the same. What would you check tonight, if you thought you were dreaming?",
      "kid": "In dreams, words and clocks may change. When you are awake, they stay the same. What would you check?",
      "parent": "This is what people report about their own dreams, not a proven rule. Some people learn to notice their dreams this way. Scientists call that a lucid dream."
@@ -983,7 +979,7 @@
    "title": "Clue Pairs: what is there, and how do we know?",
    "mins": 15,
    "players": "2 to 4 players, with a parent or with friends",
-   "context": "This is a memory game about things we cannot see. You turn over two cards at a time and look for a pair: something we cannot see, and the clue that tells us it is there.",
+   "context": "This is a memory game about things we cannot see. You turn over two cards at a time and look for a pair: something we cannot see, and the clue that tells us it is there. You will find out how many hidden things we know only by their clues.",
    "printables": [
     {
      "kind": "cards",
@@ -1065,7 +1061,7 @@
     }
    ],
    "rules": [
-    "Before you play, draw a small sketch on each card, so a child who cannot read yet can play too.",
+    "If a child cannot read yet, a grown-up reads each card aloud.",
     "Mix the cards and lay them face down in 4 rows of 4.",
     "On your turn, turn over two cards and read them aloud.",
     "If one card is a thing we cannot see, and the other is the clue that tells us it is there, you have a pair. Say why they go together.",
@@ -1087,16 +1083,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the 16 cards together. 2. Draw a small sketch on each one. 3. Lay them face down in 4 rows of 4.",
-     "say": "Each card is either a thing we cannot see, or a clue that tells us it is there. Let's draw on them first.",
-     "kid": "Cut out the cards. Draw a sketch on each one. Lay them face down."
+     "do": "1. Cut out the 16 cards together. 2. Lay them face down in 4 rows of 4.",
+     "say": "Each card is either a thing we cannot see, or a clue that tells us it is there. Let's cut them out and lay them down.",
+     "kid": "Cut out the cards. Lay them face down in 4 rows of 4."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "1. Take turns. 2. Each player turns over two cards and reads them aloud. 3. Ask why a pair goes together, and let the other players say if they agree.",
      "say": "Is that a thing and its clue? Why do they go together?",
-     "kid": "Turn two cards. Is it a thing and its clue? Say why.",
+     "kid": "Turn over two cards and read them. Do they go together? Say why.",
      "parent": "Some clue cards could fit more than one thing. That is a good thing to talk about. If players cannot agree, decide together which clue fits best."
     },
     {
@@ -1124,7 +1120,7 @@
    "title": "Dream or Awake? Spot the dream sign",
    "mins": 12,
    "players": "2 or more players, with a parent or with friends",
-   "context": "This is a card game about telling dreams from waking life. Each card describes something that happens. You decide: could this happen awake, is it a dream sign, or do you need to check again?",
+   "context": "This is a card game about telling dreams from waking life. Each card describes something that happens. You decide: could this happen awake, is it a dream sign, or do you need to check again? You will learn signs that help you tell a dream from real life.",
    "printables": [
     {
      "kind": "cards",
@@ -1208,7 +1204,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the 12 cards. 2. Explain the three answers: dream sign, awake, check again.",
-     "say": "A dream sign is something that could only happen in a dream. 'Check again' means you need another test first.",
+     "say": "A dream sign is something that could only happen in a dream. Awake means it could really happen. 'Check again' means you need another test first.",
      "kid": "Cut out the cards. Learn the three answers: dream sign, awake, check again."
     },
     {
@@ -1224,7 +1220,7 @@
      "mins": 2,
      "do": "1. Count the cards. 2. Ask the question below.",
      "say": "Which card was hardest? What would you check if you were not sure?",
-     "kid": "Count your cards. Which was hardest? What would you check?",
+     "kid": "Count your cards. Which one was hardest?",
      "check": {
       "t": "mcq",
       "q": "You press the light switch and the light stays off. What should you check?",
@@ -1246,7 +1242,7 @@
    "title": "My Book of Real Things I Cannot See",
    "mins": 32,
    "days": 4,
-   "context": "In this four-day project you make a small book with one page for each thing that is real but hard to see or touch: air, sound, smell, and a dream.",
+   "context": "In this four-day project you make a small book with one page for each thing that is real but hard to see or touch: air, sound, smell, and a dream. You will find out how we know a thing is there, from what it does.",
    "materials": [
     {
      "item": "4 sheets of paper, folded in half and stapled or tied with thread to make a book",
@@ -1265,25 +1261,25 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Air page: blow up a balloon. Draw it. Write the clue that tells you air is inside."
+     "what": "Air page: blow up a balloon. Write the clue that tells you air is inside."
     },
     {
      "day": 2,
      "mins": 8,
-     "what": "Sound page: tap a tumbler with a spoon. Draw the tumbler with shake lines. Write what reached your ears."
+     "what": "Sound page: tap a tumbler with a spoon. Touch the rim while it rings. Write what you felt and what reached your ears."
     },
     {
      "day": 3,
      "mins": 8,
-     "what": "Smell page: crush two elaichi pods in a cup, cover it with a plate, then stand three big steps away. Lift the plate and notice when the smell reaches you. Draw where the smell travelled."
+     "what": "Smell page: crush two elaichi pods in a cup, cover it with a plate, then stand three big steps away. Lift the plate and notice when the smell reaches you. Draw where the smell travelled, or tell it to your grown-up."
     },
     {
      "day": 4,
      "mins": 8,
-     "what": "Dream page: draw a dream. Write one way it was real and one way it was not."
+     "what": "Dream page: pick a dream and tell it. Write one way it was real and one way it was not."
     }
    ],
-   "record": "Each page has a drawing, the name of the thing, and one sentence: 'I know it is there because…'",
+   "record": "Each page has the name of the thing and one sentence: 'I know it is there because…'. On the smell page, draw how the smell travelled, or tell it and your grown-up writes it.",
    "setup": [
     {
      "art": "A small handmade book of folded paper tied with thread, with 'Real Things I Cannot See' on the cover.",
@@ -1291,37 +1287,37 @@
     },
     {
      "art": "An open page showing a balloon drawing and the words 'I know air is inside because the balloon is fat'.",
-     "caption": "2. One page each day: the thing, the clue, a drawing."
+     "caption": "2. One page each day: the thing and the clue."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Make the book together. 2. Blow up the balloon and tie it. 3. Your child draws it and writes the clue.",
+     "do": "1. Make the book together: fold the four sheets in half and tie or staple them. Write the title on the cover. 2. Blow up the balloon and tie it. 3. Your child writes the clue, or says it and you write it.",
      "say": "We cannot see air. What tells us it is inside the balloon?",
-     "kid": "Blow up the balloon. Draw it. Write how you know air is inside."
+     "kid": "Blow up the balloon. Write how you know air is inside."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Your child taps the tumbler with the spoon. 2. They touch the rim lightly while it rings. 3. They draw and write.",
+     "do": "1. Your child taps the tumbler with the spoon. 2. They touch the rim lightly while it rings. 3. They write what they felt.",
      "say": "Touch the rim while it rings. What do you feel? What reached your ears?",
-     "kid": "Tap the tumbler. Touch the rim. Draw it. Write what you felt."
+     "kid": "Tap the tumbler. Touch the rim while it rings. Write what you felt."
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "1. Crush two elaichi pods (or rub a piece of lemon peel) and put them in a cup. Cover it with a plate. 2. Your child stands three big steps away. 3. Lift the plate. 4. Your child says 'now' when the smell reaches them. If it takes long, move a step closer. 5. After your child has answered, say: Tiny bits of the elaichi spread through the air until they reach your nose. That is how a smell travels.",
      "say": "You cannot see the smell. How did it reach your nose?",
-     "kid": "Stand three steps away. Say 'now' when the smell reaches you. Draw how the smell came to you."
+     "kid": "Stand three steps away. Say 'now' when the smell reaches you. Then draw how the smell came to you, or tell your grown-up."
     },
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Your child draws a dream from the dream notebook, or any dream. 2. They write one way it was real and one way it was not.",
+     "do": "1. Your child picks a dream from the dream notebook, or any dream, and tells it. 2. They write one way it was real and one way it was not.",
      "say": "The feeling in your dream was real. Was the thing in it really there? How do you know?",
-     "kid": "Draw a dream. Write one way it was real, and one way it was not."
+     "kid": "Pick a dream. Write one way it was real, and one way it was not."
     }
    ]
   }
@@ -1399,7 +1395,7 @@
      "kid": "Show someone your evidence. Ask what they think now.",
      "check": {
       "t": "mcq",
-      "q": "Why did a bubble come out when you tipped the bottle under water?",
+      "q": "In the bucket test, why does a bubble come out when you tip the bottle under water?",
       "options": [
        "Air was inside, and water pushed it out",
        "The water made a bubble by itself",

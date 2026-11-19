@@ -404,8 +404,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Take turns reading and answering. Ask for the reason every time.",
-     "say": "Milk or curd? Which comes first? How do you know?",
-     "kid": "Say which comes first. Then say why.",
+     "say": "Let us try the first card. Milk or curd, which comes first?",
+     "kid": "Pick the one you think comes first.",
      "ask": [
       {
        "q": "How do you know which comes first?",
@@ -422,8 +422,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about the moon card.",
-     "say": "The moon card said both. Why is that?",
-     "kid": "Why can the full moon and the new moon both come first?",
+     "say": "The moon card was special, because both can win it. Why is that?",
+     "kid": "Think about the full moon and the new moon. Does one of them come first for good?",
      "ask": [
       {
        "q": "Why can both the full moon and the new moon come first?",
@@ -440,7 +440,7 @@
      "mins": 2,
      "do": "Count the cards and find the winner.",
      "say": "Pick one card that was hard. Did the first thing make the second thing, or did they take turns? How can you tell?",
-     "kid": "Pick a hard card. Did the first thing make the second, or did they take turns?",
+     "kid": "Pick a card that was hard for you.",
      "parent": "For milk and curd, the milk turns into the curd, so the milk comes first. For the full moon and the new moon, they take turns, so neither one is first for good.",
      "think": "Can you think of two things where the order can go either way?"
     }
@@ -455,7 +455,7 @@
    "printables": [
     {
      "kind": "board",
-     "title": "4 sorting mats to draw on paper",
+     "title": "4 sorting mats to write on paper",
      "items": [
       "Seconds",
       "Minutes",
@@ -547,19 +547,19 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the four mats on four sheets of paper. 2. Cut out the 12 cards. 3. Lay the mats in a row.",
+     "do": "1. Write one heading on each of four sheets of paper: Seconds, Minutes, Hours or days, Months or years. 2. Cut out the 12 cards. 3. Lay the mats in a row, shortest time first.",
      "say": "These mats go from very short times to very long times. Where would a blink go?",
-     "kid": "Where would a blink go? On the shortest mat?"
+     "kid": "Read the four mats, from the shortest time to the longest."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Take turns placing cards. Ask for a reason each time.",
-     "say": "Where does boiling an egg go? Why do you think so?",
-     "kid": "Put your card on a mat. Say why.",
+     "say": "Where does boiling an egg go? Which mat?",
+     "kid": "Put your card on a mat.",
      "ask": [
       {
-       "q": "Why that mat?",
+       "q": "Why does it go on that mat?",
        "good": [
         "You wait for the egg, but not all day.",
         "A baby takes many months to grow."
@@ -588,9 +588,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Count the points.",
-     "say": "Which mat has the most cards? Can you think of one more thing for the emptiest mat?",
-     "kid": "Think of one more thing for the emptiest mat."
+     "do": "Count the points, and count the cards on each mat.",
+     "say": "Which mat has the fewest cards? Can you think of one more thing that fits on it?",
+     "kid": "Count the cards on each mat. Find the emptiest mat."
     }
    ]
   }
@@ -646,7 +646,7 @@
      "qty": 1
     }
    ],
-   "record": "Fill in the table. Then draw a row of boxes for each try, one box for every 5 seconds, and colour them in.",
+   "record": "Fill in the table. If you like, also draw a row of boxes for each try, one box for every 5 seconds, or just say which try was longest.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -721,7 +721,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason before the first try. Write the guesses in the table.",
      "say": "How many seconds will one spoon of salt take to run out? Will it be the same every time? Why do you think so?",
-     "kid": "Guess how many seconds one spoon of salt will take to run out. Will it be the same every time? Why?",
+     "kid": "Guess how many seconds one spoon of salt will take to run out.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -763,7 +763,7 @@
      "mins": 2,
      "do": "Look at the table together. Ask your child to say what they think, what they saw and why.",
      "say": "What did you find out? Which numbers show it? Why do you think it happened?",
-     "kid": "What did you find? Which numbers show it?",
+     "kid": "Look at your table. Which numbers show what you found?",
      "ask": [
       {
        "q": "What did you find?",
@@ -791,7 +791,7 @@
      "mins": 2,
      "do": "Tell your child why the timer works.",
      "say": "The salt ran out at a steady speed. That is why your cone is a real clock. Every clock in the world counts some steady change like this.",
-     "kid": "Your salt ran at a steady speed. That makes it a clock.",
+     "kid": "Your cone is a clock. It counts time in spoonfuls of salt.",
      "think": "What other steady changes could you use as a clock?",
      "parent": "Sand and salt grains run out at nearly the same speed, however much is left above them. Water is different: it runs out more slowly as the bottle empties. That is why sand timers were so useful."
     }
@@ -802,7 +802,7 @@
    "title": "Which Way Does Time Go? The banana card test with your family",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment your child asks family members to lay four picture cards in order, from first to last. They record which way each person lays out time: left to right, right to left, or another way.",
+   "context": "In this experiment your child asks family members to lay four picture cards in order, from first to last. They record which way each person lays out time: left to right, right to left, or another way. You will find out whether everyone lays out time the same way.",
    "problem": "Everyone can put pictures in order, from first to last, but not everyone lays them down the same way. Some people start on the left and some start on the right. You will ask people in your family to put four banana pictures in order. Then you will see whether the way a person reads, such as Tamil or Urdu, changes the way they lay out time.",
    "question": "When people lay out pictures in order of time, which way do they go?",
    "predict": "Will everyone in the family lay the cards from left to right? Will anyone go another way? Why do you think so?",
@@ -831,7 +831,7 @@
      "qty": 1
     }
    ],
-   "record": "Fill in the table. Draw an arrow for each person showing the way their cards went.",
+   "record": "Fill in the table. Write an arrow for each person showing the way their cards went, like this: → or ←.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -866,7 +866,7 @@
    "setup": [
     {
      "art": "Four small cards: a whole banana, a banana half peeled, a banana half eaten, and only the peel.",
-     "caption": "1. Draw four banana cards."
+     "caption": "1. Make four banana cards."
     },
     {
      "art": "A grandmother laying four banana cards in a row on a table while a girl watches with a notebook.",
@@ -874,23 +874,23 @@
     },
     {
      "art": "A notebook page with arrows: three pointing right and one pointing left.",
-     "caption": "3. Draw an arrow for the way each person went."
+     "caption": "3. Mark an arrow for the way each person went."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Your child draws four cards: a whole banana, a banana half peeled, a banana half eaten, and only the peel. 2. Mix them up.",
-     "say": "We are going to find out which way people lay out time. First, draw the four banana cards.",
-     "kid": "Draw four banana cards: whole, half peeled, half eaten, only the peel."
+     "do": "1. Your child makes four cards from the squares of paper: a whole banana, a banana half peeled, a banana half eaten, and only the peel. Draw each one, or write the words. 2. Mix them up.",
+     "say": "We are going to find out which way people lay out time. First, make the four banana cards.",
+     "kid": "Make four cards: a whole banana, half peeled, half eaten, and only the peel. Draw them, or write the words."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Ask for a guess and a reason. Write the guesses in the table.",
      "say": "Will everyone put the cards from left to right? Will anyone go another way? Why do you think so?",
-     "kid": "Guess which way each person will lay the cards. Why?",
+     "kid": "Guess which way each person will lay the cards.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -915,7 +915,7 @@
      "mins": 3,
      "do": "Look at the table together.",
      "say": "Which way did most people go? Did anyone go a different way? What might explain it?",
-     "kid": "Which way did most people go? Did anyone go another way?",
+     "kid": "Look at your table. Which way did most people go?",
      "ask": [
       {
        "q": "What might explain it?",
@@ -945,7 +945,7 @@
    "id": "a1",
    "title": "Time Clues: what shows that time has passed?",
    "mins": 10,
-   "context": "This short hunt starts the unit. Your child looks around the flat for clues that time has passed, and thinks about how they know.",
+   "context": "This short hunt starts the unit. Your child looks around the flat for clues that time has passed. You will find out how we can tell that time is passing, even though we cannot see it.",
    "materials": [
     {
      "item": "an ice cube on a steel plate, put out at the start",
@@ -1023,9 +1023,9 @@
   },
   {
    "id": "a2",
-   "title": "First, Next, Then, Last: draw your morning in four boxes",
+   "title": "First, Next, Then, Last: put your morning in four boxes",
    "mins": 15,
-   "context": "In this activity your child draws four things they did this morning, cuts them apart, mixes them up, and puts them back in order.",
+   "context": "In this activity your child draws or writes four things they did this morning, cuts them apart, mixes them up, and puts them back in order. You will find out which parts of a morning must stay in order and which can swap.",
    "materials": [
     {
      "item": "a sheet of paper folded into four boxes",
@@ -1054,9 +1054,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "Your child draws four boxes on a sheet of paper, then draws one thing from this morning in each box.",
-     "say": "Draw four things you did this morning, in the order you did them.",
-     "kid": "Draw four things you did this morning, in order."
+     "do": "Your child makes four boxes on a sheet of paper. In each box goes one thing from this morning, as a drawing or a few words.",
+     "say": "Think about this morning. What did you do first, next, then and last?",
+     "kid": "Draw or write four things you did this morning, in order."
     },
     {
      "id": "s2",
@@ -1069,8 +1069,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Ask which two pictures can swap places and which two cannot.",
-     "say": "Could you swap any two pictures and still have a true morning? Which two can never swap?",
-     "kid": "Which two pictures can swap? Which two never can?",
+     "say": "Could any two swap places and still be a true morning?",
+     "kid": "Look at your four boxes. Can any two swap places?",
      "ask": [
       {
        "q": "Which can never swap?",
@@ -1089,7 +1089,7 @@
    "id": "a3",
    "title": "How Many Dates Does Today Have? The wall calendar hunt",
    "mins": 15,
-   "context": "In this activity your child reads the family's wall calendar, or a calendar on the phone, and finds out how many ways today is named.",
+   "context": "In this activity your child reads the family's wall calendar, or a calendar on the phone, and finds out how many ways today is named. You will find out why one day can have more than one date.",
    "materials": [
     {
      "item": "a wall calendar, a diary or a calendar on a phone",
@@ -1137,11 +1137,11 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask why one day can have more than one date.",
-     "say": "Why do you think one day has more than one date?",
-     "kid": "Why does one day have more than one date?",
+     "say": "Today has more than one date. Why do you think that is?",
+     "kid": "Think of a reason, then tell your grown-up.",
      "ask": [
       {
-       "q": "Why?",
+       "q": "Why can one day have more than one date?",
        "good": [
         "People count days in different ways.",
         "Some calendars follow the Moon and some follow the Sun."
@@ -1153,57 +1153,57 @@
   },
   {
    "id": "a4",
-   "title": "Line or Wheel? Draw your week two ways",
+   "title": "Line or Wheel? Lay out your week two ways",
    "mins": 15,
-   "context": "In this activity your child draws the days of the week as a straight line and as a wheel, and talks about which picture fits time better.",
+   "context": "In this activity your child lays the days of the week out as a straight line and then as a wheel, and talks about which fits time better. You will find out whether time is more like a line or more like a wheel.",
    "materials": [
     {
-     "item": "two sheets of paper",
-     "qty": 2
+     "item": "seven small scraps of paper",
+     "qty": 7
     },
     {
-     "item": "crayons",
+     "item": "a pencil or crayon",
      "qty": 1
     },
     {
-     "item": "a steel plate or a lid to draw round",
+     "item": "a steel plate or a lid to set the scraps round",
      "qty": 1
     }
    ],
    "setup": [
     {
      "art": "A long strip of paper with seven boxes for the days of the week, each with a small drawing.",
-     "caption": "1. Draw your week as a line."
+     "caption": "1. Lay your week out as a line."
     },
     {
      "art": "A circle drawn round a steel plate, cut into seven slices like a wheel, one for each day.",
-     "caption": "2. Draw your week as a wheel."
+     "caption": "2. Lay your week out as a wheel."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Your child draws seven boxes in a row and writes one day in each, with something they do on that day.",
-     "say": "Let's draw the week as a line. Monday first. What do you do on each day?",
-     "kid": "Draw seven boxes in a row. One box for each day."
+     "do": "Your child writes one day on each scrap, with something they do on that day. Lay the scraps in a row, Monday first.",
+     "say": "Let us lay the week out as a line. Monday first. What do you do on each day?",
+     "kid": "Write one day on each scrap. Lay them in a row."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw round a plate to make a circle. Divide it into seven slices, like a wheel. Fill in the days again.",
-     "say": "Now draw the same week as a wheel. What comes after Sunday on the wheel?",
-     "kid": "Now draw the week as a wheel. What comes after Sunday?"
+     "do": "Pick up the scraps. Set them in a circle round a plate, in the same order.",
+     "say": "Now lay out the same week as a wheel. What comes after Sunday on the wheel?",
+     "kid": "Set the scraps in a circle, round the plate."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Talk about which picture fits better.",
-     "say": "Which picture is true? The days do come round again. But you will never have last Monday again. What do you think?",
-     "kid": "Which picture fits time better? Why?",
+     "say": "Which fits time better, the line or the wheel? The days do come round again. But you will never have last Monday again. What do you think?",
+     "kid": "Look at your line and your wheel. Tell your grown-up which one you pick, and why.",
      "ask": [
       {
-       "q": "Which picture fits better?",
+       "q": "Which fits time better, the line or the wheel?",
        "good": [
         "The wheel, because Monday comes back every week.",
         "The line, because last Monday is gone for good.",
@@ -1260,8 +1260,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask which clock to trust.",
-     "say": "If the clocks disagree, which one would you trust? Why?",
-     "kid": "Which clock would you trust? Why?",
+     "say": "Some of the clocks showed different times. Which one would you trust? Why?",
+     "kid": "Pick the clock you trust most.",
      "ask": [
       {
        "q": "If the clocks disagree, which one would you trust, and why?",
@@ -1282,7 +1282,7 @@
    "title": "A Paper-Chain Countdown to a day you are waiting for",
    "mins": 39,
    "days": 8,
-   "context": "In this project your child makes a paper chain with one loop for each day until a festival, a birthday or a visit. Each morning they tear off one loop, and watch the wait get shorter.",
+   "context": "In this project your child makes a paper chain with one loop for each day until a festival, a birthday or a visit. Each morning they tear off one loop, and watch the wait get shorter. You will find out how a chain can count time.",
    "materials": [
     {
      "item": "strips of old newspaper or coloured paper, about two fingers wide",
@@ -1339,7 +1339,7 @@
      "what": "Tear off the last loop. The day has come. Talk about how the wait felt."
     }
    ],
-   "record": "Write the number of loops left each morning. At the end, draw the chain getting shorter.",
+   "record": "Write the number of loops left each morning. If you like, take a photo of the chain each day as well.",
    "setup": [
     {
      "art": "A girl gluing paper strips into loops to make a colourful chain, with a calendar open beside her.",
@@ -1378,7 +1378,7 @@
      "mins": 5,
      "do": "On the day itself, talk about the chain.",
      "say": "Did the wait feel the same every day? Did some days feel longer?",
-     "kid": "Did some days feel longer than others?",
+     "kid": "Think back over the wait. Which day felt the longest?",
      "ask": [
       {
        "q": "Did the days feel the same?",
@@ -1395,7 +1395,7 @@
      "mins": 5,
      "do": "Ask what the chain measured.",
      "say": "What did the chain count? Think about what you tore off each morning.",
-     "kid": "What did your chain count?",
+     "kid": "Think about what each loop stood for.",
      "parent": "The chain counted days. Each loop stood for one day, which is one spin of the Earth. So the chain counted time in days, in the same way that the salt timer counted time in spoons of salt.",
      "think": "Could you make a chain for a whole year? How many loops would it need?"
     }
@@ -1448,10 +1448,10 @@
      "mins": 3,
      "do": "Read the problem aloud. Ask how to start.",
      "say": "We need a timer that runs for one minute. One minute is 60 seconds. How could we start?",
-     "kid": "We need a one-minute timer. How could we start?",
+     "kid": "We need a timer that runs for 60 seconds. Think of a plan.",
      "ask": [
       {
-       "q": "How could we start?",
+       "q": "How could you make a salt timer that runs for one minute?",
        "good": [
         "Time one spoon first.",
         "Keep adding salt until it is one minute."
@@ -1471,18 +1471,18 @@
      "id": "s3",
      "mins": 5,
      "do": "When it runs for about a minute, mark the fill line and test it three more times.",
-     "say": "Draw a line where the salt comes up to. Now test it three times.",
-     "kid": "Draw a fill line. Test it three times."
+     "say": "Mark a line with a pencil where the salt comes up to. Now test it three times.",
+     "kid": "Mark a fill line on the cone. Test it three times."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Ask what makes it fair.",
      "say": "Why is your timer fair for both children?",
-     "kid": "Why is your timer fair?",
+     "kid": "Tell your grown-up what makes your timer fair.",
      "ask": [
       {
-       "q": "Why is it fair?",
+       "q": "Why does a salt timer make turns fair?",
        "good": [
         "It is the same amount of salt every time.",
         "The salt runs at a steady speed, so every turn is the same."

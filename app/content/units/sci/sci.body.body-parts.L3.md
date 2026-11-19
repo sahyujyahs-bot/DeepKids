@@ -294,21 +294,21 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 30 cards. 2. Lay the 10 PART cards face up in two rows. 3. Shuffle the other 20 cards and lay them face down in rows below.  
   *Parent says:* Every outside part of your body has a guard and a way we care for it. In this game, you find the guard and the care card for each part.  
-  *Child mode:* Lay the part cards face up. Lay the other cards face down. Find the guard and the care card for each part.
+  *Child mode:* Help cut out the cards and lay them out. Which part do you think has the most guards?
 - **s2 (3 min)**  
   *Parent does:* Play a practice round. Put the Ears card, the Earwax guard card and the 'Wipe the outside only' care card face up together.  
-  *Parent says:* Here is a full match. The part is the ear. The guard is earwax. The care is to wipe the outside only. Why don't we poke inside?  
-  *Child mode:* Here is a practice match. The part is Ears. The guard is Earwax. The care is 'Wipe the outside only'. Why should we not poke inside the ear? Say your answer.
+  *Parent says:* Here is a full match. The part is the ear. The guard is earwax. The care is to wipe the outside only.  
+  *Child mode:* Look at the three cards together. They make one full match.
   - Check: What is earwax? → **a guard that traps dust and moves out by itself**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. Keep a pair if the guard and care card belong to the same part. 3. Explain the guard for a bonus point. 4. Keep score on a scrap of paper.  
   *Parent says:* When you win a pair, tell us how that guard protects its part.  
-  *Child mode:* Take turns. Turn over two cards. A guard and care card for the same part is a pair. Explain the guard to win a bonus.
+  *Child mode:* Look for a guard and a care card for the same part. Try to remember where each card is.
   - Note: Good explanations: eyelashes catch dust, and tears wash it away. Nose hairs and mucus trap dust. Enamel is hard, so teeth can chew, and spit washes them. The top layer of skin is dead, so it can rub off without hurting. Thick soles protect feet. For private parts, a good answer is 'my body belongs to me, and I can tell a trusted adult'.
 - **s4 (4 min)**  
   *Parent does:* When all pairs are won, count the points. Then point to each PART card and say its care rule together.  
   *Parent says:* Let's finish by saying every care rule together, from head to toe.  
-  *Child mode:* Count the points. Then touch each part card. Say its care rule out loud.
+  *Child mode:* Touch each part card. Can you say its care rule without looking?
   - Check: In Guard Match, you turn over the card 'Nose hairs and sticky mucus'. Which part does it guard? → **Nose**
 ### g2 · Guess the Body Part (15 min)
 - **rules:** Shuffle the 12 clue cards and put them in a pile, clue side up. One player is the reader.; The reader reads the top clue in the voice of the body part, without looking at the answer on the back.; The first player to guess right gets the card. If nobody guesses after two tries, the reader turns the card over, says the answer and keeps the card.; Then everyone acts out what that part does, or one way to care for it.; Swap readers after each card. When all 12 cards are read, the player with the most cards wins. If cards are equal, you share the win.
@@ -316,7 +316,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **s1 (2 min)**  
   *Parent does:* Shuffle the 12 clue cards. Choose the first reader.  
   *Parent says:* In this game, a body part talks to us. We must guess who it is.  
-  *Child mode:* A body part is talking. Listen to the clue. Guess who it is.
+  *Child mode:* Listen to the clue. Which body part is talking?
 - **s2 (10 min)**  
   *Parent does:* 1. The reader reads one clue. 2. Players guess. 3. The reader turns the card over to check. 4. Everyone acts out what the part does or one way to care for it. 5. Swap readers.  
   *Parent says:* Read it in the body part's own voice. Then we all show what it does or how to look after it.  
@@ -335,9 +335,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **predict:** Before you start, guess. Which slice will grow the most spots: touched by dirty hands, by hands washed in water only, or by hands washed with soap? Which will grow the fewest? Why do you think so?
 - **fair test:** To make it fair, use slices from the same loaf. Touch each one in the same way for the same time. Give every slice the same few drops of water, and keep all the bags in the same dark cupboard. Only the hands change. Keep one slice untouched, so you can see what bread does on its own.
 - **safety:** Never open the bags once they are sealed. Mould spores can upset breathing. At the end, throw the bags away still sealed, and wash hands.
-- **record:** Fill in the table on days 2, 4 and 6. On day 6, draw each slice. Then draw a bar for each slice, as tall as its number of spots.
+- **record:** Fill in the table on days 2, 4 and 6. On day 6, take a photo of each bag, or write how each slice looks. Then draw a bar for each slice, as tall as its number of spots.
 - **results table:** Slice | Day 2: spots | Day 4: spots | Day 6: spots | What it looks like
-- **schedule:** day 1: Touch the slices, seal and label the bags, and put them in a dark cupboard. (18 min); day 2: Look at the bags without opening them. Count any spots. (3 min); day 4: Look again and count spots. (3 min); day 6: Count spots a last time, draw the slices, fill in the table, compare and say what you found. (12 min)
+- **schedule:** day 1: Touch the slices, seal and label the bags, and put them in a dark cupboard. (18 min); day 2: Look at the bags without opening them. Count any spots. (3 min); day 4: Look again and count spots. (3 min); day 6: Count spots a last time, take photos of the bags, fill in the table, compare and say what you found. (12 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Line up four slices and four bags. 2. Label the bags: Dirty hands, Water only, Soap, Untouched. 3. With a clean spoon, sprinkle 5 drops of clean water on each of the four slices, so all four are equally damp. 4. Ask your child to guess which slice will grow the most spots.  
   *Parent says:* Our hands touch everything, and they pick up tiny living things too small to see. Let's find out what they leave on food.  
@@ -366,9 +366,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Check: On day 6, the slice touched by dirty hands has the most spots. What does that show? → **Hands carry tiny living things we cannot see**
   - Wait: Look on day 2, day 4 and day 6.
 - **s6 (4 min)**  
-  *Parent does:* Compare the slices. Which grew the most spots? Which grew the fewest? Did water alone work as well as soap?  
+  *Parent does:* Ask your child to line up the bags from most spots to fewest. Then ask: did water alone work as well as soap?  
   *Parent says:* Was your guess right? What did soap do that water alone didn't?  
-  *Child mode:* Was your guess right? Which slice is cleanest? Did soap beat water?
+  *Child mode:* Line up the bags from most spots to fewest. Which slice is the cleanest?
   - Note: Plain water washes off some germs. But many stick in the thin layer of oil and grease on hands. Soap grabs the oil, so water can carry it, and the germs, away. Fuzzy mould spots are fungi, and the colours show different kinds. Small shiny spots may be bacteria. For the last question, good answers are before eating, after the toilet, after playing outside, after touching animals, and after sneezing into your hands.
   - Think: Before which activities should you always wash your hands with soap? Name at least two.
 - **s7 (5 min)**  
@@ -382,20 +382,20 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **predict:** Before you start, guess. Will anything stick to the tape? Will the arm and the elbow give the same amount? Why do you think so?
 - **fair test:** To make it fair, use the same length of tape and press for the same time on each place. Use dark paper for every strip, so the flakes show up the same. Stick one strip on the paper without touching skin, to see what plain tape looks like.
 - **safety:** Use gentle tape. Do not press on cuts, rashes or sore skin. Peel slowly.
-- **record:** Stick the three strips on the dark paper and label each one. Fill in the table. Draw what you see through the lens.
+- **record:** Stick the three strips on the dark paper and label each one. Fill in the table. Say or write what the flakes look like, or take a photo of them through the lens.
 - **results table:** Place on the body | How many flakes, roughly: none, a few, lots | What the flakes look like
 - **s1 (2 min)**  
-  *Parent does:* Ask your child to guess: will anything come off on the tape?  
+  *Parent does:* Ask your child to guess what will stick to the tape. Ask if the arm and the elbow will give the same amount.  
   *Parent says:* Your skin looks smooth and whole. Let's see if any of it is coming off.  
-  *Child mode:* Will anything come off your skin onto tape? Guess first.
+  *Child mode:* Guess first: what will come off your skin onto the tape?
 - **s2 (5 min)**  
   *Parent does:* 1. Press a strip of tape on the inside of the forearm for 5 seconds. Peel it slowly and stick it on the dark paper. 2. Do the same on the elbow and the back of the hand. 3. Stick one more strip on the paper without touching skin. 4. Label each strip.  
   *Parent says:* Press, count to five, peel slowly, and stick it down.  
   *Child mode:* Press tape on your arm. Count to five. Peel slowly. Stick it on dark paper. Now try your elbow and your hand. Stick one plain strip beside them, with no skin.
 - **s3 (3 min)**  
   *Parent does:* Look at the strips closely, with a hand lens if you have one. Count roughly how many flakes are on each, and compare them with the plain strip.  
-  *Parent says:* What do you see on the tape? Where did it come from?  
-  *Child mode:* Look closely. What are the tiny white flakes?
+  *Parent says:* Which strip has the most flakes? Does any strip have none?  
+  *Child mode:* Look closely at each strip. Count the flakes: none, a few or lots. Compare with the plain strip.
   - Note: The flakes are tiny and can look like specks of dust or fluff, and some dust does stick too. Look in good light, or shine a torch from the side. If a strip shows very little, say so: that is an honest result. Skin that is oily or freshly bathed may give fewer flakes.
   - Check: The skin strips have tiny white flakes, and the plain strip does not. What are the flakes most likely to be? → **dead skin cells that were ready to fall off**
 - **s4 (2 min)**  
@@ -409,28 +409,28 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **predict:** Before you start, guess. After a night in vinegar, which egg will have the softer, rougher shell: the plain one, or the one covered in toothpaste? Why do you think so?
 - **fair test:** To make it fair, use two eggs of the same kind, two same-sized glasses, and the same amount of vinegar. Only the toothpaste changes. Leave both for the same time.
 - **safety:** A grown-up handles the raw eggs. Wash hands after touching raw egg. Do not eat the eggs afterwards. Vinegar stings eyes, so keep it away from faces.
-- **record:** Fill in the table. Draw both eggs on day 2, and label which was smooth and which was rough.
+- **record:** Fill in the table. On day 2, take a photo of both eggs, or tell a grown-up which was smooth and which was rough.
 - **results table:** Egg | Bubbles? (none, a few, lots) | Shell after one night: smooth or rough? | Shell after one night: hard or soft?
 - **schedule:** day 1: Cover one egg in toothpaste and leave it for an hour. Then put both eggs in vinegar and watch the bubbles. (15 min); day 2: Take the eggs out with a spoon, rinse them, feel the shells and say what you found. (10 min)
 - **s1 (3 min)**  
-  *Parent does:* Show your child the two eggs. Tap them gently. Say that eggshell is a hard mineral, a little like tooth enamel.  
-  *Parent says:* Your teeth have a hard coat called enamel. Mouth germs make acid from sugar, and acid eats enamel. Vinegar is an acid too. Let's see what it does to a hard shell.  
+  *Parent does:* Show your child the two eggs. Tap them gently. Say that eggshell is hard and chalky, a little like tooth enamel.  
+  *Parent says:* Your teeth have a hard coat called enamel. Mouth germs make acid from sugar, and acid eats enamel. Vinegar is an acid too. An acid is a sour liquid that can slowly wear hard things away. Let's see what it does to a hard shell.  
   *Child mode:* Eggshell is hard, a bit like your teeth. Vinegar is an acid. What will it do?
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Cover one egg completely in toothpaste and leave it on a saucer for one hour. Then wipe off most of the paste gently with a tissue.  
-  *Parent says:* This egg is brushing its teeth. We give the toothpaste time to soak into the shell.  
+  *Parent says:* This egg is brushing its teeth. We give the toothpaste time to coat the shell.  
   *Child mode:* A grown-up covers one egg in toothpaste. Wait one hour. Then wipe it gently.
   - Wait: Leave it for one hour.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* Put each egg in its own glass. Pour vinegar over both until they are covered. Watch for one or two minutes.  
   *Parent says:* Look closely at the shells. What is coming off them?  
-  *Child mode:* Put both eggs in vinegar. Watch. What do you see on the shells?
+  *Child mode:* Put both eggs in vinegar. Watch the shells closely for two minutes. Which egg has more bubbles?
   - Note: The toothpaste egg may bubble less, or start later. Results vary with the toothpaste. That is fine: talk about what you see.
   - Check: Tiny bubbles come off the plain egg's shell. What is happening? → **The acid is eating the shell and giving off a gas**
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* Next day, lift each egg out with a spoon and rinse it. Let your child feel both shells.  
-  *Parent says:* Feel both shells. Which is rougher? Which is softer?  
-  *Child mode:* Lift out the eggs with a spoon. Rinse them. Feel both shells. Which is rough?
+  *Parent says:* Here are the eggs after one night. Take your time and feel both.  
+  *Child mode:* Lift out the eggs with a spoon. Rinse them. Feel both shells. Which one is rougher? Which is softer?
   - Wait: Leave both eggs in the vinegar overnight.
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -453,9 +453,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Note: Expect skin, hair, eyes, ears, nose, mouth, teeth, tongue, hands, nails and feet. Name the private parts calmly too: 'the parts covered by your underwear'. Using the correct names, penis and vulva, is normal and helps children stay safe.
   - Check: Which of these is an external organ? → **Skin**
 - **s3 (8 min)**  
-  *Parent does:* Stick each label on the outline with an arrow. Next to each, your child writes or draws one job that part does.  
+  *Parent does:* Stick each label on the outline with an arrow. Next to each, your child says one job that part does, and writes it. A grown-up can write it for them.  
   *Parent says:* Every part has a job. What does your nose do? What do your nails do?  
-  *Child mode:* Stick on each label. Next to it, write or draw its job.
+  *Child mode:* Stick on each label. Say what that part does. Write it on the label, or ask a grown-up to write it.
   - Note: Simple jobs are fine: eyes see, ears hear, nose breathes and smells, skin covers and feels, nails protect fingertips, feet carry us. Children often forget that skin is an organ. Ask, 'What covers all of you?'
 - **s4 (2 min)**  
   *Parent does:* Put the map on the wall. Say you will add a care rule next to each part as the unit goes on.  
@@ -471,13 +471,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Rub your thumb on the pencil patch. Press tape on it. Peel it off. Stick it on white paper.
 - **s2 (4 min)**  
   *Parent does:* Look at the print with a hand lens. Show the three kinds: a loop comes in from one side and goes back out the same side. A whorl goes round and round. An arch rises like a small hill.  
-  *Parent says:* Which kind is yours: a loop, a whorl or an arch?  
-  *Child mode:* Look closely. Is yours a loop, a whorl or an arch?
+  *Parent says:* Every print is one of three kinds. Let's find out which kind yours is.  
+  *Child mode:* Look closely at the lines on your print. Which kind does it look like?
   - Check: A print has lines that go round and round, like water down a drain. What kind is it? → **A whorl**
 - **s3 (5 min)**  
   *Parent does:* 1. Make a print of your child's left thumb the same way, and stick it next to the right one. 2. Before looking closely, ask your child whether the two prints will match, and why. 3. Use a hand lens to look at the right print. Find a place where a ridge splits in two, like the letter Y, or where a ridge stops. Circle it. 4. Look at the same place on the left print.  
-  *Parent says:* Your two thumbs grew from the same genes. Do you think their prints will match? Why do you think so? Now find a ridge that splits in two, like a Y. Is there one in the same place on your other thumb?  
-  *Child mode:* Print your left thumb too. Put it next to the right one. Will they match? Find a ridge that splits like a Y. Circle it. Is there one in the same place on the other print?
+  *Parent says:* Genes are the instructions in your body that guide how you grow. Your two thumbs grew from the same genes. Do you think their prints will match? Why do you think so? Now find a ridge that splits in two, like a Y. Is there one in the same place on your other thumb?  
+  *Child mode:* Print your left thumb too. Put it next to the right one. Find a ridge that splits like a Y, and circle it. Look at the same place on the other print.
   - Note: Genes are the instructions inside your cells that guide how your body grows. The two prints often look like mirror images, and they may be the same kind, such as two whorls. But the small forks and ends will not be in the same places. If a print is smudged, make a darker pencil patch and try again.
   - Check: Your two thumbs grew from the same genes. What did you find when you compared their prints closely? → **The forks and ends of the ridges were in different places**
 - **s4 (8 min)**  
@@ -493,15 +493,15 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Think: What other animals do you think have fingerprints?
 ### a3 · Oily Hands: water or soap? (15 min)
 - **safety:** If you use glitter, keep it away from eyes.
-- **record:** Draw your hands after water only and after soap. Then draw the six steps of handwashing.
+- **record:** Take a photo of your hands after water only and after soap, if you like. Then show a grown-up the six steps of handwashing, in order.
 - **s1 (3 min)**  
   *Parent does:* Rub a few drops of oil over your child's hands. Sprinkle on a pinch of turmeric or glitter. Say the powder is pretend germs.  
   *Parent says:* Hands pick up a thin layer of oil from food, from your face and from things you touch. Germs stick in that oil. Let's pretend this powder is germs.  
   *Child mode:* Rub oil on your hands. Sprinkle on the powder. Pretend it is germs.
 - **s2 (3 min)**  
   *Parent does:* Your child washes in plain water for 20 seconds, then shakes their hands and looks.  
-  *Parent says:* Did water alone get the germs off?  
-  *Child mode:* Wash with water only for 20 seconds. Look. Is the powder gone?
+  *Parent says:* First we try plain water. Rub your hands together under it.  
+  *Child mode:* Wash with water only for 20 seconds. Then look at your hands.
   - Check: After water only, most of the powder is still stuck on. Why? → **Water and oil don't mix, so water slides over the oil**
 - **s3 (5 min)**  
   *Parent does:* Now wash with soap, rubbing for 20 seconds. Teach the six steps. Rub the palms, then the backs of the hands, then between the fingers. Then rub the backs of the fingers, the thumbs, and the fingertips and nails. Then rinse.  
@@ -510,8 +510,8 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Note: Children often wash only their palms. The thumbs, fingertips and backs of the hands are the places most often missed. Watch where the powder stays. Turmeric may leave a faint yellow tint even after soap. That is dye soaked into the skin, so look for the grains of powder instead.
 - **s4 (4 min)**  
   *Parent does:* Look at the hands. Where is the powder still stuck? Talk about when to wash with soap. Wash before eating, after the toilet, after playing outside and after touching animals. Wash after sneezing into your hands too.  
-  *Parent says:* When are the most important times to wash with soap?  
-  *Child mode:* Where is the powder still stuck? Name four times when you must wash with soap.
+  *Parent says:* The powder shows where hands are hard to wash. Now let's remember when washing really matters.  
+  *Child mode:* Look at your hands. Where is the powder still stuck?
   - Ask: When should we always wash hands with soap? (good: Before eating.; After the toilet.; After playing outside.; After touching animals.)
   - Think: Why do you think people most often miss their thumbs and fingertips when washing?
 ### a4 · My Trusted Hand (15 min)
@@ -524,13 +524,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **s2 (3 min)**  
   *Parent does:* Ask your child the question below. Listen to their answer and gently fill gaps.  
   *Parent says:* What would you do if someone said, 'This touch is our secret'?  
-  *Child mode:* Someone says, 'This touch is our secret.' What do you do?
+  *Child mode:* Someone says, 'This touch is our secret.' What would you do? Tell your grown-up.
   - Ask: What would you do if someone said a touch was a secret? (good: Say no.; Get away.; Tell a trusted grown-up.; Keep telling until someone listens.)
   - Check: Someone you know asks you to keep a secret about touching. What should you do? → **Tell a trusted grown-up, even if you promised**
 - **s3 (5 min)**  
-  *Parent does:* Your child traces their hand. On each finger, they draw or write one grown-up they trust and could tell anything. On the palm, they write: My body belongs to me.  
+  *Parent does:* Your child traces their hand. On each finger, they write the name of one grown-up they trust and could tell anything. They can draw that person instead, or say the names and let you write them. On the palm, they write: My body belongs to me.  
   *Parent says:* Who are five grown-ups you could tell anything to? Would they listen? Could you reach them?  
-  *Child mode:* Trace your hand. On each finger, draw a grown-up you trust. On the palm, write: My body belongs to me.
+  *Child mode:* Trace your hand. On each finger, write the name of a grown-up you trust. On the palm, write: My body belongs to me.
   - Note: Help your child choose people they actually see often. If one does not listen, the child should tell the next one.
 - **s4 (3 min)**  
   *Parent does:* Practise together: stand tall, hold out a palm and say 'No!' loudly. Then practise walking away and finding a grown-up.  
@@ -538,7 +538,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Stand tall. Hold up your hand. Say No, loudly. Then walk away and find a grown-up.
   - Note: Children often find this funny. That is fine. Laughing helps it stick.
 ### a5 · Blink Counter and the Eyebrow Test (12 min)
-- **record:** Write how many times you blinked in one minute. Draw where the water drops ran.
+- **record:** Write how many times the person blinked in one minute. Tell a grown-up where the water drops ran.
 - **s1 (4 min)**  
   *Parent does:* Your child watches your eyes for one minute while you chat normally, and makes a tally mark at every blink. Then swap places.  
   *Parent says:* Every blink spreads tears over your eyes and wipes away dust. Count how many times I blink in one minute.  
@@ -547,29 +547,29 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Your child sits up straight, facing forward, and closes their eyes. Drip a few drops of clean water on the forehead just above one eyebrow, and watch where it runs. Then your child opens their eyes and looks in the mirror at the wet track.  
   *Parent says:* Where does the water go when it reaches the eyebrow?  
-  *Child mode:* Close your eyes. A grown-up drips water above your eyebrow. Where does it run?
+  *Child mode:* Sit still with your eyes closed. A grown-up drips a few drops above your eyebrow. Then look in the mirror.
   - Note: Use only a few drops, on the forehead and never in the eyes. If you use too much water, it will run straight through the hairs. A few drops show the steering best.
   - Check: Many drops run along the eyebrow and down the side of the face, not into the eye. What is the eyebrow's job? → **To send sweat and rain away from the eyes**
 - **s3 (3 min)**  
-  *Parent does:* Talk about the other eye guards: eyelashes, eyelids and tears. Add 'eye care' to the Outside-Me Map.  
+  *Parent does:* Talk about the other eye guards: eyelashes, eyelids and tears. If you made the Outside-Me Map, add 'eye care' to it.  
   *Parent says:* Name all the guards of your eyes. Which one did you see working today?  
-  *Child mode:* Name the guards of your eyes: eyelashes, eyelids, tears and eyebrows. Add them to your map.
+  *Child mode:* Can you name four guards of your eyes? Point to each one on your face.
 ### a6 · The Wax Escalator (act it out) (10 min)
 - **problem:** Earwax traps dust and tiny germs. Then it slowly moves out of the ear by itself, helped by your jaw moving when you chew and talk. In this play, you act out that slow journey. Then you see what a cotton bud does to the wax.
-- **record:** Draw a cut-away of the ear with the wax moving outwards, and write 'never poke in' next to it.
+- **record:** Write the ear care rule on a card and keep it by the mirror. Then tell someone at home how the wax moves out.
 - **s1 (3 min)**  
   *Parent does:* Lay the sari on the floor as the ear canal. Put a cushion at one end as the eardrum. Throw paper balls in as dust.  
   *Parent says:* This is the inside of an ear. Dust is blowing in. Who will stop it reaching the eardrum?  
-  *Child mode:* The sari is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.
+  *Child mode:* Help lay out the sari. It is the ear tube, called the ear canal. The cushion is the eardrum.
 - **s2 (4 min)**  
   *Parent does:* Your child plays the wax. They catch the paper balls before they reach the cushion. Each time you pretend to chew or talk loudly, they shuffle one step out of the ear, carrying the dust. Then you pretend to be a cotton bud and gently push the dust and wax back towards the cushion.  
   *Parent says:* Every time I chew or talk, my jaw moves, and the wax moves out a little.  
   *Child mode:* You are the wax. Catch the dust. Each time the grown-up pretends to chew, shuffle one step out. Then the grown-up pretends to be a cotton bud. See what it does to you.
   - Check: In the play, a cotton bud comes in. What does it do to the wax? → **Pushes it back towards the eardrum**
 - **s3 (3 min)**  
-  *Parent does:* Swap roles. Then talk about how we should care for our ears. Add the ear care rule to the Outside-Me Map.  
+  *Parent does:* Swap roles. Then talk about how we should care for our ears. If you made the Outside-Me Map, add the ear care rule to it.  
   *Parent says:* So what's our ear rule?  
-  *Child mode:* Swap roles. Then say the ear rule: wipe the outside, never poke in.
+  *Child mode:* Swap roles. Then tell your grown-up the rule for looking after ears.
   - Note: Sometimes wax gets stuck and blocks hearing. Then a doctor removes it safely. Don't use oil, sticks or ear candles at home unless a doctor tells you to.
   - Think: If wax is a guard, why does a doctor sometimes take some out?
 
@@ -577,13 +577,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
 ### p1 · How Fast Do I Grow? The Nail Tracker (30 min, 15 days)
 - **safety:** A grown-up cuts nails. Do not cut too short, and keep the edges straight.
 - **record:** A table of the date and the gap in millimetres for your thumbnail and a grown-up's. Then a bar chart.
-- **schedule:** day 1: Cut the thumbnails. Make a tiny mark on the nail just above the skin. For now, the gap between the mark and the skin is zero. (10 min); day 8: Measure the gap between the skin and the mark. If the mark has faded, draw it again right over the old one. (5 min); day 15: Measure again. Work out how far the nail grew in two weeks, and guess how far in a month and in a year. (15 min)
+- **schedule:** day 1: Cut the thumbnails. Make a tiny mark on the nail just above the skin. For now, the gap between the mark and the skin is zero. (10 min); day 8: Measure the gap between the skin and the mark. If the mark has faded, mark it again right over the old one. (5 min); day 15: Measure again. Work out how far the nail grew in two weeks, and guess how far in a month and in a year. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Cut both thumbnails. Make a tiny mark on the nail, right at the edge of the skin. Do the same on a grown-up's thumbnail. Write the date.  
   *Parent says:* Nails grow from a living root under the skin. As the nail grows, it pushes the mark slowly outwards, away from the skin.  
   *Child mode:* A grown-up cuts your nails. Make a tiny mark at the bottom of your thumbnail. Do one on a grown-up too.
 - **s2 (5 min)**  
-  *Parent does:* On day 8, measure the gap from the skin to the mark, in millimetres. Write it down. If the mark has faded, draw it again right over the old one.  
+  *Parent does:* On day 8, measure the gap from the skin to the mark, in millimetres. Write it down. If the mark has faded, mark it again right over the old one.  
   *Parent says:* How far has the mark moved in one week?  
   *Child mode:* Measure from your skin to the mark. Write the number in millimetres.
   - Wait: Come back on day 8.
@@ -597,7 +597,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **s4 (5 min)**  
   *Parent does:* Work out how far the nail grew in two weeks. Guess how far it would grow in a month and in a year. Talk about what it means for care.  
   *Parent says:* If nails grow about 3 millimetres a month, how often should we cut them?  
-  *Child mode:* How far did your nail grow in two weeks? How far in a year, if it keeps going? How often should you cut your nails?
+  *Child mode:* How far did your nail grow in two weeks? Work out how far it would grow in a year. Keep the same speed.
 
 ## Challenges
 ### c1 · Build a Tippy Tap (30 min)
@@ -610,13 +610,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **s1 (5 min)**  
   *Parent does:* Read the problem and the ideas together. Talk about how you could tip a bottle without touching it.  
   *Parent says:* In many schools and villages, there is no sink. How could people wash hands without touching a dirty handle?  
-  *Child mode:* Many places have no sink. How could you wash without touching a dirty tap?
+  *Child mode:* Think of a way to tip a bottle without using your hands. Tell your grown-up your ideas.
 - **s2 (5 min)**  
   *Parent does:* Your child draws a design and labels the parts: the bottle, the stick, the string, the pedal and the soap.  
-  *Parent says:* Draw your design first. Show where the water comes out.  
-  *Child mode:* Draw your design. Label the bottle, string, pedal and soap.
+  *Parent says:* Plan your design first. Show where the water comes out.  
+  *Child mode:* Draw your design and label the bottle, string, pedal and soap. Or tell your grown-up the plan, and they write the labels.
 - **s3 (15 min) · grown-up needed**  
-  *Parent does:* A grown-up makes a small hole near the neck of the bottle and keeps the cap on. Fill it with water. Hang it from a chair back, a balcony grille or a stick, over the bucket. Tie a string to a pedal stick on the floor, and hang the soap beside it.  
+  *Parent does:* A grown-up makes a small hole near the neck of the bottle and keeps the cap on. Fill it with water, but only up to below the hole. Hang it from a chair back, a balcony grille or a stick, over the bucket. Tie a string from a pedal stick on the floor to the bottle's neck, so the pedal tips the bottle. Hang the soap beside it.  
   *Parent says:* Now we build it. I'll make the hole, because it needs a sharp tool.  
   *Child mode:* A grown-up makes the hole. You help hang the bottle and tie the pedal.
   - Note: In a flat, it works best on a balcony or in the bathroom, with the bucket underneath. Wipe up any spills.
@@ -636,9 +636,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* Your eyebrows curve and their hairs point sideways. Why would that help?  
   *Child mode:* Look at your eyebrows in the mirror. Which way do the hairs point?
 - **s2 (5 min)**  
-  *Parent does:* Your child draws a design and labels each part and its job.  
+  *Parent does:* Your child draws a design and labels each part and its job. Or they lay card pieces on the box head to show their plan.  
   *Parent says:* You can copy your own eyebrows and eyelashes, or invent something new.  
-  *Child mode:* Draw guards for the robot's eyes. Label each part's job.
+  *Child mode:* Draw guards for the robot's eyes and label each part's job. Or lay card pieces on the box head to show your plan.
 - **s3 (10 min)**  
   *Parent does:* Build the design on the box head. Test it with a spoon of water dripped on the forehead.  
   *Parent says:* Let's test. Where did the water go?  

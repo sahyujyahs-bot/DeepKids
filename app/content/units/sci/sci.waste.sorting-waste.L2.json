@@ -274,7 +274,7 @@
    "title": "Two Roads: a board game about where waste goes",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a board game about sorting waste. Players pick a waste card, say which bin it goes in, and move along the road from home to a clean town.",
+   "context": "This is a board game about sorting waste. Players pick a waste card, say which bin it goes in, and move along the road from home to a clean town. You will practise the question that tells you the bin: will it rot?",
    "printables": [
     {
      "kind": "board",
@@ -454,7 +454,7 @@
      "mins": 2,
      "do": "Ask which card was the hardest, and why.",
      "say": "Which card was hardest to sort? What helped you choose?",
-     "kid": "Which card was hardest? What helped you?"
+     "kid": "Tell your grown-up about the hardest card."
     }
    ]
   }
@@ -465,7 +465,7 @@
    "title": "The Napkin Press Test: is wet waste always wet?",
    "mins": 22,
    "days": 1,
-   "context": "In this experiment you press eight kinds of waste between paper napkins under a heavy book. Then you look for wet marks, and compare them with the bin each thing goes in.",
+   "context": "In this experiment you press eight kinds of waste between paper napkins under a heavy book. Then you look for wet marks, and compare them with the bin each thing goes in. You will find out if a wet mark tells you which bin a thing goes in.",
    "question": "Which kinds of waste leave a wet mark on a paper napkin? Do all the things that go in the wet bin leave a wet mark?",
    "predict": "Look at the eight things and touch each one. Which ones will leave a wet mark on the napkin? Why do you think so? Then say which bin each one goes in.",
    "fair_test": "Every piece is about the size of a one-rupee coin. Every piece sits on the same kind of napkin, under the same heavy book, for the same time, 10 minutes. Only the kind of waste is different.",
@@ -537,7 +537,7 @@
      "what": "Touch the eight pieces and guess which will leave a wet mark. Press them under a book for 10 minutes. Look for wet marks. Sort the pieces into bins."
     }
    ],
-   "record": "Fill in the table. Draw one napkin that has a wet mark and one that does not. Circle the things that go in the wet bin but left no wet mark. Those are the ones that show a wet mark does not decide the bin.",
+   "record": "Fill in the table. Take a photo of one napkin that has a wet mark and one that does not, or draw them. Circle the things that go in the wet bin but left no wet mark. Those are the ones that show a wet mark does not decide the bin.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -612,8 +612,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Lay out the eight pieces of waste. 2. Let your child touch each one. 3. Ask the questions below. 4. Write the guesses in the table.",
-     "say": "Touch each one. Which ones will leave a wet mark on a napkin? Why do you think so?",
-     "kid": "Touch each thing. Which will leave a wet mark? Why?",
+     "say": "Here are eight things. We will press each one on a napkin. A wet mark is a damp patch. Which ones will leave one?",
+     "kid": "Touch each thing. Point to the ones you think will leave a wet mark.",
      "ask": [
       {
        "q": "Why do you think the onion skin will or will not leave a mark?",
@@ -637,12 +637,12 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Wait 10 minutes. 2. While you wait, ask the question below. 3. Then lift the book and take the pieces off. 4. Hold each napkin up to the light.",
-     "say": "While we wait, tell me. Which bin does each one go in? Now let's lift the book. Which napkins have a wet mark?",
-     "kid": "Wait ten minutes. Say which bin each one goes in. Then lift the book. Look for wet marks.",
+     "do": "1. Wait 10 minutes. 2. While you wait, ask which bin each piece goes in. 3. Then lift the book and take the pieces off. 4. Hold each napkin up to the light.",
+     "say": "While we wait, which bin does each piece go in? Now let's lift the book and look.",
+     "kid": "While you wait, say which bin each piece goes in. Then lift the book and look at the napkins.",
      "ask": [
       {
-       "q": "Which napkins are wet?",
+       "q": "Which napkins have a wet mark?",
        "good": [
         "The peel, the rice, the tea leaves and the milk packet.",
         "The onion skin and the dry leaf left no mark."
@@ -666,8 +666,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Put the napkins in two groups: wet bin and dry bin. 2. Ask your child what they see. 3. Ask them to say what they think, what they saw and why.",
-     "say": "Look at the wet bin group. Did every one leave a wet mark? So what decides the bin? Why do you think so?",
-     "kid": "Look at the wet bin group. Are all of them wet? What decides the bin?",
+     "say": "So what decides the bin? Why do you think so?",
+     "kid": "Look at the napkins in the wet bin group. Did every one leave a mark?",
      "ask": [
       {
        "q": "Why does the dry onion skin go in the wet bin?",
@@ -693,7 +693,7 @@
    "title": "The Hanger Balance: is our wet waste or dry waste heavier?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you keep the waste from one meal in two bags, one wet and one dry. You hang them from the two ends of a clothes hanger, and see which side goes down. Then you see which bag takes more space.",
+   "context": "In this experiment you keep the waste from one meal in two bags, one wet and one dry. You hang them from the two ends of a clothes hanger, and see which side goes down. Then you see which bag takes more space. You will find out if the heavier bag is also the bigger one.",
    "question": "After one meal, which is heavier: our wet waste or our dry waste? And which one takes up more space?",
    "predict": "Look at the two bags before you hang them. Which one will be heavier? Which one looks bigger? Why do you think so?",
    "fair_test": "Both bags are the same kind of bag, and the waste comes from the same meal. Both bags hang from the same hanger, at the very ends, the same distance from the hook.",
@@ -732,6 +732,10 @@
     {
      "item": "a steel tumbler",
      "qty": 1
+    },
+    {
+     "item": "a spoon",
+     "qty": 1
     }
    ],
    "safety": "Wash hands with soap after handling the waste. Tie the wet bag shut so nothing drips. Leave glass, tins and other sharp things out of the bags.",
@@ -742,7 +746,7 @@
      "what": "Keep one meal's waste in two bags. Guess which bag is heavier. Hang them on the hanger. Count the things. Fill tumblers to compare space."
     }
    ],
-   "record": "Fill in the table. Draw the hanger, and show which side went down.",
+   "record": "Fill in the table. Take a photo of the hanger with the bags on it, or draw it, and show which side went down.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -786,11 +790,11 @@
      "id": "s1",
      "mins": 3,
      "do": "1. After one meal, keep the wet waste in one bag and the dry waste in the other. 2. Show both bags to your child. 3. Ask the questions below.",
-     "say": "Here is the waste from our lunch. Which bag will be heavier? Which one looks bigger? Why do you think so?",
-     "kid": "Look at the two bags. Which is heavier? Which is bigger? Why?",
+     "say": "Here is the waste from our lunch. Which bag will be heavier? Which one looks bigger?",
+     "kid": "Look at the two bags. Point to the one you think is heavier.",
      "ask": [
       {
-       "q": "Why do you think that bag is heavier?",
+       "q": "Why did you pick that bag as heavier?",
        "good": [
         "The wet one, because wet things are heavy.",
         "The dry one, because it is bigger."
@@ -837,7 +841,7 @@
      "mins": 2,
      "do": "Ask your child to say what they think, what they saw and why.",
      "say": "So which is heavier, and which takes more space? What did you see? Why do you think that is?",
-     "kid": "Which was heavier? Which was bigger? Why?",
+     "kid": "Tell your grown-up what you found out.",
      "ask": [
       {
        "q": "Why can a small bag be heavier than a big bag?",
@@ -868,14 +872,14 @@
    "title": "Kitchen Sort: two steel bowls",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you sort the scraps from cooking into two steel bowls, wet and dry, while a grown-up cooks.",
+   "context": "In this activity you sort the scraps from cooking into two steel bowls, wet and dry, while a grown-up cooks. You will find out which scraps are wet waste and which are dry, one scrap at a time.",
    "materials": [
     {
      "item": "two steel bowls or plates",
      "qty": 2
     },
     {
-     "item": "two slips of paper: one with a green peel drawn on it, one with a blue newspaper drawn on it",
+     "item": "two slips of paper, one green and one blue: write WET and DRY on them, or draw a peel and a newspaper",
      "qty": 2
     },
     {
@@ -890,7 +894,7 @@
      "what": "Sort the cooking waste into a wet bowl and a dry bowl. Then empty the bowls into the home bins."
     }
    ],
-   "record": "Draw the two bowls and what went in each.",
+   "record": "Tell your grown-up what went in each bowl, and count the scraps in each.",
    "setup": [
     {
      "art": "Two steel bowls on a kitchen counter, one marked with a green peel and one with a blue newspaper.",
@@ -907,7 +911,7 @@
      "mins": 2,
      "do": "1. Put the two bowls near the counter, away from the stove. 2. Put a green label by one bowl and a blue label by the other.",
      "say": "Green is for things that rot. Blue is for things that do not rot quickly.",
-     "kid": "Green is for things that rot. Blue is for the rest."
+     "kid": "Put the green label by one bowl and the blue label by the other."
     },
     {
      "id": "s2",
@@ -930,7 +934,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Empty each bowl into the matching home bin, and wash the bowls.",
-     "say": "Now what is in the green bowl goes in the green bin, and what is in the blue bowl goes in the blue bin.",
+     "say": "The green bowl goes in the green bin. The blue bowl goes in the blue bin.",
      "kid": "Empty each bowl into its bin. Wash your hands."
     }
    ]
@@ -958,7 +962,7 @@
      "what": "Watch the waste collector come. Ask one question. Draw the map of where wet and dry waste go."
     }
    ],
-   "record": "A map with your home in the middle, a green road for wet waste and a blue road for dry waste.",
+   "record": "A map with your home in the middle, a green road for wet waste and a blue road for dry waste. Or say it out loud to a grown-up.",
    "setup": [
     {
      "art": "A child and her mother at a flat door, handing two bins to a woman waste collector with a cart that has two drums.",
@@ -975,7 +979,7 @@
      "mins": 5,
      "do": "1. When the collector comes, go to the door with your child. 2. Look at the cart or truck together. 3. Count how many parts it has.",
      "say": "Look at the cart. Does it keep wet and dry waste apart? How many drums or parts can you count?",
-     "kid": "Look at the cart. How many parts does it have? Are wet and dry apart?",
+     "kid": "Count the drums or parts on the cart.",
      "adult": true,
      "parent": "Many carts have two drums, and many trucks have two sections. If yours has only one, that is worth noticing too. Greet the collector by name, and thank them."
     },
@@ -983,17 +987,17 @@
      "id": "s2",
      "mins": 3,
      "do": "Help your child ask the collector one short question, if the collector has time.",
-     "say": "Let's ask where the green drum goes, and where the blue drum goes.",
-     "kid": "Ask: where does the wet waste go? Where does the dry waste go?",
+     "say": "Let's ask the collector where the wet waste goes, and where the dry waste goes.",
+     "kid": "Ask the collector, then listen to the answer.",
      "adult": true,
      "parent": "If the collector is busy, ask your building secretary or look on your city's website later. Some cities send wet waste to a compost place and dry waste to a sorting shed."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Ask them to draw a green road and a blue road, and the place where each road ends.",
+     "do": "1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Ask them to draw a green road and a blue road, and the place where each road ends. If they prefer not to draw, they can tell you the way each road goes.",
      "say": "Draw our home in the middle. Where does the green road go? Where does the blue road go? What happens to mixed waste?",
-     "kid": "Draw your home. Draw a green road and a blue road. Where do they end?",
+     "kid": "Draw your home, a green road and a blue road. Or tell your grown-up where each road ends.",
      "ask": [
       {
        "q": "What happens at the end of the green road?",
@@ -1011,7 +1015,7 @@
    "title": "Rinse It, Dry It: getting a milk packet ready",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you get an empty milk packet ready for the dry bin, by rinsing and drying it.",
+   "context": "In this activity you get an empty milk packet ready for the dry bin, by rinsing and drying it. You will find out why a packet must be rinsed and dry before it goes in the dry bin.",
    "materials": [
     {
      "item": "an empty milk packet, curd packet or oil packet",
@@ -1033,7 +1037,7 @@
      "what": "Rinse the packet. Hang it to dry. Put it in the dry bin the next day."
     }
    ],
-   "record": "Draw the packet before and after rinsing.",
+   "record": "Take a photo of the packet before and after rinsing, or tell your grown-up what changed.",
    "setup": [
     {
      "art": "A child pouring a little water into a cut milk packet over a sink and swishing it.",
@@ -1049,7 +1053,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut the packet fully open along one side with scissors. 2. Let your child pour in a little water and swish it. 3. Pour the water into a plant pot or the sink.",
-     "say": "Why do we rinse it? What would the milk do to the newspapers in the dry bin?",
+     "say": "Let's get this packet ready for the dry bin. Pour in a little water and swish it around.",
      "kid": "Pour in a little water. Swish it. Pour it out.",
      "adult": true,
      "ask": [
@@ -1116,23 +1120,23 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Read the challenge. Ask the question below.",
+     "do": "Read the challenge together. Then ask your child the question.",
      "say": "Who at home might find the bins confusing? What would help them?",
-     "kid": "Who might put things in the wrong bin? What would help them?"
+     "kid": "Think of one person at home who might be confused."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Let your child make the two labels. Help only with cutting and sticking.",
-     "say": "In the Napkin Press Test, the dry onion skin and the dry leaf left no wet mark, but they still went in the wet bin. Which tricky things like these should your label show?",
-     "kid": "Make your labels. Show one tricky thing on each."
+     "say": "Remember the Napkin Press Test? The dry onion skin and the dry leaf left no wet mark, but they still went in the wet bin. Which tricky things like these should your label show?",
+     "kid": "Make your labels. Draw or stick on a picture of one tricky thing on each."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "1. Stick the labels on the bins. 2. Give someone at home five things to sort. 3. Watch.",
      "say": "Let's see if your labels work. Did anyone make a mistake? What will you change?",
-     "kid": "Watch someone sort five things. Did your labels help? What will you change?"
+     "kid": "Give someone five things to sort. Watch, but do not help."
     }
    ]
   }

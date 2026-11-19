@@ -228,22 +228,22 @@ Kavya laughed, and went to fetch the sugarcane.
 - **Printable score sheet: Score sheet:** Player name; Cards won; Challenge cards answered
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Make the two piles. 3. Read the rules together.  
-  *Parent says:* Air hides in lots of places. Turn a card and tell me where the air is hiding in that thing.  
-  *Child mode:* Turn over a card. Where is the air hiding? Say it!
+  *Parent says:* Air hides in lots of places. Let's see how many we can find.  
+  *Child mode:* Turn over a card. Say where the air is hiding in that thing.
 - **s2 (3 min)**  
   *Parent does:* Play one practice turn together with the sponge card.  
-  *Parent says:* Practice turn. Here is a sponge. Is there air in it? Where?  
-  *Child mode:* Practice turn. Is there air in a sponge?
+  *Parent says:* Practice turn. Here is the sponge card. Is there air hiding in a sponge?  
+  *Child mode:* Look at the sponge card. Think about what a sponge looks like close up.
   - Check: Where is the air in a kitchen sponge? → **In its many small holes**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns. 2. Check each answer on the back of the card. 3. Keep score.  
   *Parent says:* Your turn. Where is the air hiding? How could you test it?  
-  *Child mode:* Your turn. Where is the air hiding? How could you test it?
+  *Child mode:* Turn a card. Say where the air is hiding. Then say how you could test it.
   - Note: Ask for a test whenever you can, such as squeezing it under water. The spoon, marble and stone are tricky ones. A strong answer says 'no air inside, only around it'.
 - **s4 (2 min)**  
   *Parent does:* Finish the game. Then look at the cards that had no air inside.  
   *Parent says:* Look at the cards with no air inside. What do those things have in common?  
-  *Child mode:* Look at the cards with no air inside. What do they have in common?
+  *Child mode:* Put the no-air cards in one pile. Look at them closely. What is the same about them?
   - Note: A good answer to the first question is that they are solid all the way through, so they have no holes or gaps where air could hide. For the think question, a solid thing such as a steel spoon or a glass marble has no air inside. Air is only around it.
   - Think: Can you find a thing in our home with no air in it at all?
 
@@ -252,18 +252,18 @@ Kavya laughed, and went to fetch the sugarcane.
 - **question:** A glass filled to the top with chana looks full. How much water can still go in? Do big grains leave more room for air than small ones?
 - **predict:** Look at the three grains: big chana, middle-sized moong and tiny mustard seeds. You will fill a glass with each one in turn and pour in water. Which glass do you think will take in the most water? Why do you think so?
 - **fair test:** Use the same two glasses every time: glass A for the grain and glass B for the water. Fill glass A with grain to its tape line, and tap it the same way each time so the grains settle. Fill glass B with water to its tape line each time. Pour slowly from glass B and stop when the water just reaches the tape line on glass A. Only the kind of grain changes.
-- **record:** Fill in the table. Then draw the glass of chana with water in it, and draw where the air was before the water came.
+- **record:** Fill in the table. Then draw a glass of chana and mark where the air was before the water came. Or tell your grown-up where the air was.
 - **results table:** Grain | My guess: lots of water, some, or a little? | How far the water dropped in glass B (cm) | Did I see bubbles?
 - **s1 (5 min)**  
   *Parent does:* 1. Stick a strip of tape round both glasses, at the same height, about 2 cm below the rim. 2. Fill glass A with dry chana up to the tape line. 3. Tap the glass gently on the table so the grains settle, then top it up to the line. 4. Fill glass B with water up to its tape line.  
-  *Parent says:* Glass A is full of chana, right up to the line. Is there any room left in it? If we pour in water, what will happen?  
-  *Child mode:* Fill glass A with chana up to the tape. Tap it and top it up. Fill glass B with water up to the tape. Is glass A full?
+  *Parent says:* Glass A is full of chana, right up to the line. If we pour water in, what do you think will happen?  
+  *Child mode:* Fill glass A with chana up to the tape. Tap it and top it up. Fill glass B with water up to the tape.
   - Ask: Is glass A full? (good: It looks full, but there are gaps between the grains.; Yes, it's full of chana.)
   - Note: Any answer is fine here. Most children say it is full. The two glasses must be the same, so that a drop in glass B shows how much water went into glass A.
 - **s2 (3 min)**  
   *Parent does:* Show your child the three grains: chana, moong and mustard seeds. Ask them to guess which glass will take in the most water, and why. Write the guesses in the table.  
-  *Parent says:* We'll do this with big chana, middle-sized moong and tiny mustard seeds. Which glass will take in the most water? Why do you think so?  
-  *Child mode:* Look at the three grains. Which glass will take the most water? Why?
+  *Parent says:* We will test big chana, middle-sized moong and tiny mustard seeds. Make your guess first.  
+  *Child mode:* Look at the three grains. Line them up from the biggest to the smallest.
   - Ask: Which grain will take in the most water, and why? (good: Big grains leave big gaps.; Small seeds pack tight, so there's less room.)
   - Note: Most children and many grown-ups guess that big chana leave the most room, because their gaps are bigger. Don't say what will happen. Let the test answer it.
 - **s3 (6 min)**  
@@ -279,8 +279,8 @@ Kavya laughed, and went to fetch the sugarcane.
   - Note: Mustard seeds are small, so the water soaks in slowly. Pour slowly and give it a minute. Most families find the three numbers are close. Big chana leave big gaps, but there are fewer of them. Tiny seeds leave tiny gaps, but many more of them. If your numbers are very different, check that each glass was filled to the line and tapped down the same way.
 - **s5 (6 min)**  
   *Parent does:* Look at the table together. Ask your child to say, or write, what they think, what they saw, and why.  
-  *Parent says:* What do you think now? What did you see? Why do you think it happened? Was the glass of chana really full?  
-  *Child mode:* Was the glass of chana really full? Say what you saw, and why you think it happened.
+  *Parent says:* What do you think now? What did you see? Was the glass of chana really full?  
+  *Child mode:* Look at your table. Which grain let in the most water, and which the least? Tell your grown-up what you saw.
   - Ask: Why did the water go into a glass that was already full of chana? (good: The gaps between the grains were full of air. The water pushed the air out and took its place.; The glass was full of chana and air, not only chana.)
   - Note: A strong answer says: I think the 'full' glass was partly air. I saw bubbles, and a lot of water went in. That is because water can push air out of a space, but it cannot go where a grain is. For the think question, a good answer is a solid thing such as a steel spoon or a glass marble, which has no gaps for air to hide in. Soak the chana overnight to make sundal, and sprout the moong.
   - Think: Is there anything around you that is really full, with no air at all inside?
@@ -289,7 +289,7 @@ Kavya laughed, and went to fetch the sugarcane.
 - **predict:** Will the plunger go in further with air or with water inside, or not at all with either? Why do you think so?
 - **fair test:** Use the same syringe each time. Start with the plunger at the same mark. Block the tip with the same finger, pressed hard. Push as hard as you can each time. Only what is inside changes: air, then water, then half and half.
 - **safety:** Never use a syringe with a needle.
-- **record:** Fill in the table. Then draw two syringes. In one, draw dots for air particles far apart. In the other, draw dots for water particles touching.
+- **record:** Fill in the table. Then show the particles in two syringes. Draw dots far apart for air and dots touching for water, or lay out beans or buttons to show each.
 - **results table:** What is inside | Start mark (ml) | Smallest mark when I push (ml) | What happens when I let go?
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Check the syringe has no needle. 2. Show your child the marks on the side, in millilitres. 3. Pull the plunger back to the 10 ml mark, so the syringe fills with air.  
@@ -308,9 +308,9 @@ Kavya laughed, and went to fetch the sugarcane.
   *Child mode:* Now fill it with water to 10. Push out the bubbles. Block the tip and push hard. Does it move?
   - Note: The plunger should hardly move, perhaps a fraction of a millilitre, because of a tiny bubble or the rubber bending. Some water may squirt past the finger. That is fine. Then try 5 ml of water and 5 ml of air: it squashes only about as much as 5 ml of air would.
 - **s4 (6 min)**  
-  *Parent does:* Look at the table together. Ask your child to say what they saw, and why they think it happened. Then look together at the drawing of particles in the card 'Air can be squashed'.  
-  *Parent says:* Air squashed, and water hardly did. What does that tell you about the tiny particles inside air and inside water?  
-  *Child mode:* Air squashed. Water didn't. What does that tell you about their tiny particles?
+  *Parent does:* Look at the table together. Then act out the particles: stand far apart for air, and shoulder to shoulder for water. Last, look at the drawing of particles in the card 'Air can be squashed'.  
+  *Parent says:* Air squashed, and water hardly did. Let's be the tiny particles. First stand far apart, like air, and try to move closer. Now stand shoulder to shoulder, like water. Can you move closer now?  
+  *Child mode:* Be the particles. Far apart is air. Shoulder to shoulder is water. In which one can you move closer?
   - Ask: Why can air be squashed but water hardly at all? (good: The particles in air are far apart, so they can be pushed closer.; In water the particles are already touching.)
   - Note: A strong answer: air takes up space, but its particles are far apart with empty space between them. Pushing moves them closer. Water's particles already touch, so there is nowhere for them to go. This is why air can be pumped into a tyre.
 
@@ -318,7 +318,7 @@ Kavya laughed, and went to fetch the sugarcane.
 ### a1 · The Balloon That Won't Blow Up: a bottle full of nothing? (10 min)
 - **problem:** A bottle that looks empty has a balloon pushed inside it. In this activity you try to blow up the balloon, and then you find out what is stopping it.
 - **safety:** A grown-up makes the hole with the pin. Throw away any burst balloon pieces, because small children can choke on them.
-- **record:** Draw the bottle and balloon before and after the hole. Draw where the air is in each.
+- **record:** Take a photo of the balloon in the bottle before and after the hole, or draw it. Then tell your grown-up where the air is in each.
 - **s1 (4 min)**  
   *Parent does:* 1. Push the balloon into the bottle. 2. Stretch the balloon's mouth back over the bottle's neck. 3. Ask your child to blow it up.  
   *Parent says:* This bottle is empty. Can you blow up the balloon inside it? Blow as hard as you like.  
@@ -331,18 +331,18 @@ Kavya laughed, and went to fetch the sugarcane.
   *Child mode:* Now there is a hole. Blow again. Cover the hole with your finger. Stop blowing. Watch!
   - Note: With the hole, the balloon blows up easily, because the air in the bottle can get out. With the hole covered, the balloon stays blown up even with its mouth open. No air can get back into the bottle to take its place. Lift the finger and the balloon shrinks.
 - **s3 (2 min)**  
-  *Parent does:* Talk about it together.  
-  *Parent says:* Why did the hole make it easy? And why did the balloon stay big when you covered the hole?  
-  *Child mode:* Why did the hole help? Why did the balloon stay big?
+  *Parent does:* Cover the hole again and blow up the balloon. Lift your finger off the hole and watch the balloon. Then talk about it together.  
+  *Parent says:* Let's see what the hole does once more. What happens to the balloon when you lift your finger? Why do you think so?  
+  *Child mode:* Blow up the balloon, cover the hole, then lift your finger. Watch what the balloon does.
   - Check: Why could you blow up the balloon only after the hole was made? → **The hole let the air in the bottle get out, so the balloon had room**
   - Think: The bottle looked empty. Was it?
 ### a2 · The Straw Water Thief: catch water with air (8 min)
 - **problem:** About 2,500 years ago, thinkers in ancient Greece used a jar called a water thief to show something about air. A drinking straw works in the same way. You will trap water in a straw, and then push a covered straw into water, and you will see what the air inside the straw does.
-- **record:** Draw the straw in the water two ways: with the top open and with the top closed.
+- **record:** Show the straw in the water two ways: with the top open and with the top closed. Draw it, or tell your grown-up what you saw each time.
 - **s1 (3 min)**  
   *Parent does:* 1. Dip the straw into the water. 2. Put a finger tightly over the top. 3. Lift the straw out and hold it over the glass. 4. Lift the finger.  
   *Parent says:* Put your finger on top and lift the straw out. Does the water stay in? Now lift your finger. What happens?  
-  *Child mode:* Dip the straw. Cover the top with your finger. Lift it out. Does the water stay?
+  *Child mode:* Dip the straw in the water. Cover the top with your finger. Lift the straw out. Watch the water.
   - Note: The water stays in the straw while the top is covered, and falls out when the finger lifts. Air cannot get in at the top to take the water's place.
 - **s2 (3 min)**  
   *Parent does:* 1. Now cover the top of the empty straw first. 2. Push the straw down into the water. 3. Look at how far the water goes up inside. 4. Lift the finger, still under water.  
@@ -352,14 +352,14 @@ Kavya laughed, and went to fetch the sugarcane.
 - **s3 (2 min)**  
   *Parent does:* Talk about what happened.  
   *Parent says:* In ancient Greece, people did this with a metal jar called a water thief. What did it show them about the air inside an 'empty' jar?  
-  *Child mode:* People in ancient Greece did this with a metal jar. What did it show about air?
+  *Child mode:* Think about the straw. It looked empty before the water went in. Was it?
   - Note: A good answer is that a jar that looked empty was full of air. The air kept the water out until it had a way to get out.
   - Check: You cover the top of a straw and push it into water. Why does hardly any water go in? → **The air in the straw is in the way, and it can't get out**
 ### a3 · The String Round Your Chest: how much bigger does a breath make you? (10 min)
 - **problem:** Your chest gets bigger when you breathe in. In this activity you measure how much bigger it gets with a piece of string, and you find out why it grows.
 - **record:** Write down both measurements and the difference. Do the same for a grown-up if they agree.
 - **s1 (4 min)**  
-  *Parent does:* 1. Ask your child to breathe out fully. 2. Wrap the string round their chest, just under the arms. 3. Pinch the string at the point where its end meets the rest of it. 4. Measure that length of string against a ruler.  
+  *Parent does:* 1. Ask your child to breathe out fully. 2. Wrap the string round their chest, just under the arms. 3. Pinch the string where its end meets the rest, and take it off. 4. Measure that length of string against a ruler, and write the number down.  
   *Parent says:* Breathe all the way out. I'll measure round your chest. Now guess: how much bigger will it be when you breathe in deeply?  
   *Child mode:* Breathe all the way out. Your grown-up measures round your chest. Guess: how much bigger after a deep breath?
   - Note: Keep the string level and snug, not tight. Write the number down.
@@ -369,9 +369,9 @@ Kavya laughed, and went to fetch the sugarcane.
   *Child mode:* Take a huge breath in. Hold it. Measure again. How much bigger is your chest?
   - Note: A chest often grows by a few centimetres, but it varies a lot. The air going into the lungs takes up space, so the chest must grow to make room for it.
 - **s3 (2 min)**  
-  *Parent does:* Talk about it.  
-  *Parent says:* Why does your chest get bigger when you breathe in?  
-  *Child mode:* Why does your chest get bigger when you breathe in?
+  *Parent does:* Ask your child to put their hands on their ribs and breathe in and out slowly. Then talk about it.  
+  *Parent says:* Keep your hands on your ribs. Breathe in, then out. What do your ribs do?  
+  *Child mode:* Put your hands on your ribs. Breathe in and out slowly. What do you feel move?
   - Check: Why does your chest grow when you breathe in? → **Your lungs fill with air, and air takes up space**
 ### a4 · The Flat Soda Test: does a gas have weight? (15 min, 2 days)
 - **problem:** Soda water fizzes because it has a gas dissolved in it. In this activity you weigh a bottle of soda water before and after the gas escapes, to find out whether a gas has weight.
@@ -385,15 +385,15 @@ Kavya laughed, and went to fetch the sugarcane.
   - Note: Wipe up any fizz that spills, because spilled water would also make the bottle lighter.
 - **s2 (5 min)**  
   *Parent does:* 1. Next day, swirl the bottle until no more bubbles come. 2. Put the bottle and its cap on the scale together. 3. Work out the difference from yesterday's number.  
-  *Parent says:* Now weigh it again. How many grams lighter is it? What went away?  
-  *Child mode:* Weigh it again. Is it lighter? What went away?
+  *Parent says:* Now weigh it again. How many grams lighter is it?  
+  *Child mode:* Put the bottle and its cap on the scale. Read the number. Is it lighter than yesterday?
   - Note: The loss is small, only a few grams, and some of it may be water that dried off. A scale that shows single grams can see it. If your scale shows no change, the loss was too small for it. Write that down honestly.
   - Check: The soda bottle got a few grams lighter after it went flat. Why? → **The gas that fizzed out had weight**
   - Wait: Day 2: weigh the bottle again.
 ### a5 · Air Canals in a Lotus Stem (if you can buy lotus stem) (10 min)
 - **problem:** A lotus grows with her roots in mud, where there is almost no air, but her roots still need oxygen. In this activity you look inside a lotus stem and find out how air gets down to the mud.
 - **safety:** A grown-up does the cutting.
-- **record:** Draw the cut slice, with its holes. Write what the holes are for.
+- **record:** Draw the cut slice with its holes, or just write how many holes you counted. Then write or say what the holes are for.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a thin slice off one end of the lotus stem. 2. Hold the slice up to the light. 3. Count the big holes.  
   *Parent says:* A lotus grows with its roots and this stem deep in the mud at the bottom of a pond. What is the problem with living in mud?  
@@ -405,17 +405,17 @@ Kavya laughed, and went to fetch the sugarcane.
   *Child mode:* Hold the stem under water. Blow gently into a hole with a straw. What comes out?
   - Note: Bubbles should come out of the other end, which shows the holes are open tubes that air can travel along. If nothing comes out, a grown-up cuts off both ends, because the joints of the stem can block the holes.
 - **s3 (2 min)**  
-  *Parent does:* Talk about it.  
-  *Parent says:* The lotus's leaves are up in the air. Their stem is down in the mud. How do these tubes help the lotus live?  
-  *Child mode:* The leaves are in the air. The stem is in mud. How do the tubes help?
+  *Parent does:* Point to the leaf end and the mud end of the stem. Then talk about it.  
+  *Parent says:* The lotus's leaves are up in the air, and the stem is down in the mud. Where could the air travel?  
+  *Child mode:* Trace with your finger how air could travel. Start at the leaf end. Finish at the mud end.
   - Check: Why does a lotus stem have big holes running along it? → **To carry air down to the parts stuck in airless mud**
 ### a6 · Air Hunt at Home: where is the air hiding? (12 min)
 - **problem:** Air can hide inside things that look solid. In this activity you push things under water and squeeze them, and you look for bubbles to find where air is hiding.
 - **record:** Make two lists: 'Air was hiding inside' and 'No bubbles'.
 - **s1 (3 min)**  
-  *Parent does:* Lay out the things. Ask your child to guess which ones have air hiding inside them, and why.  
+  *Parent does:* Lay out the things. Ask your child to guess, and to put them into two piles: 'air inside' and 'no air inside'. Ask why.  
   *Parent says:* Which of these do you think has air hiding inside it? How could we find out?  
-  *Child mode:* Which things have air hiding inside? Guess. How can we find out?
+  *Child mode:* Make two piles: air inside, and no air inside. Put each thing where you think it belongs.
 - **s2 (7 min)**  
   *Parent does:* 1. Push each thing under the water. 2. Squeeze the soft ones. 3. Hold the hard ones still and watch for a while. 4. Write each one in a list.  
   *Parent says:* Push it under and watch closely. Do bubbles come out? Where from?  
@@ -424,7 +424,7 @@ Kavya laughed, and went to fetch the sugarcane.
 - **s3 (2 min)**  
   *Parent does:* Look at the lists together.  
   *Parent says:* Which things gave bubbles, and which gave none? What do the things with bubbles have that the others do not?  
-  *Child mode:* Which things gave bubbles? What do they have that the others do not?
+  *Child mode:* Look at your two lists and your first two piles. Which guesses were wrong?
   - Note: A good answer is that the things with bubbles have tiny holes or gaps where air hides, such as the sponge, the bread, the soil and the brick. The spoon and the stone are solid, so they have no gaps for air.
   - Check: A lump of dry soil gives off bubbles under water. Why? → **The soil has tiny air spaces between its grains**
 
@@ -432,11 +432,11 @@ Kavya laughed, and went to fetch the sugarcane.
 ### p1 · How Heavy Is the Air in Our Room? (40 min, 2 days)
 - **problem:** A litre of air weighs very little, but a room holds a lot of air. In this project you measure a room and work out how heavy its air is, without using a weighing scale.
 - **safety:** A grown-up holds the tape for the height of the room. Don't climb on furniture.
-- **record:** Draw the room as a box and write its length, width and height. Write the number of cubic metres and the weight of the air in kilograms.
-- **schedule:** day 1: Measure the length, width and height of one room in metres. Draw a plan. (20 min); day 2: Work out the room's volume and the weight of its air. Compare it with the weight of a person. (20 min)
+- **record:** Write the room's length, width and height. Write the number of cubic metres and the weight of the air in kilograms.
+- **schedule:** day 1: Measure the length, width and height of one room in metres. Write the numbers down. (20 min); day 2: Work out the room's volume and the weight of its air. Compare it with the weight of a person. (20 min)
 - **s1 (20 min) · grown-up needed**  
-  *Parent does:* 1. Choose a room, such as a bedroom. 2. Measure its length and width along the floor, to the nearest half metre. 3. A grown-up measures the height from floor to ceiling. 4. Draw the room as a box and write the three numbers.  
-  *Parent says:* We're going to weigh the air in this room without a scale. First we need to know how big the room is. Let's measure.  
+  *Parent does:* 1. Choose a room, such as a bedroom. 2. Measure its length and width along the floor, to the nearest half metre. 3. A grown-up measures the height from floor to ceiling. 4. Write the three numbers on a page.  
+  *Parent says:* We are going to work out the weight of the air in this room without a scale. First, guess: is it as heavy as a cat, a child or a car? Now we need to know how big the room is. Let's measure.  
   *Child mode:* Measure the room: how long, how wide, how high. Write each number in metres.
   - Note: Rounding to the nearest half metre is fine. A small bedroom is often about 3 metres by 3 metres, and about 3 metres high.
 - **s2 (20 min)**  
@@ -450,23 +450,23 @@ Kavya laughed, and went to fetch the sugarcane.
 ## Challenges
 ### c1 · Lift the Books With One Breath (25 min)
 - **problem:** Use only your breath to lift a pile of books off the table. How many books can your breath lift?
-- **your turn:** Now design your own breath lifter. Draw it, build it, and see how many books it can lift.
+- **your turn:** Now design your own breath lifter. Build it, and see how many books it can lift. You can draw a plan first if you like.
 - **constraints:** You may use a plastic bag, a straw, tape, books, and a flat board or tray.; You may not touch the books with your hands while they rise.; Blow only with your mouth, not with a pump.
 - **general:** Tape the straw into the mouth of the bag and seal the rest of the mouth with tape. Lay the bag flat under one book. Blow into the straw. The air fills the bag and pushes the book up.; Use a bigger, flat bag so the air pushes on more of the book.
 - **creative:** Put a flat board or a tray on the bag and stack the books on that, so the weight spreads out.; Pinch the straw between breaths, so the air you have blown in cannot escape.; Use two bags and two straws, and blow with a friend.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together and draw two ideas.  
+  *Parent does:* Read the problem together. Ask your child to tell or show you two ideas for lifting a book with a bag of air.  
   *Parent says:* Air takes up space. If we blow air into a bag under a book, what will the air do to the book?  
-  *Child mode:* Air takes up space. What will air in a bag do to a book? Draw two ideas.
+  *Child mode:* Think of two ways to lift a book with air. Use a bag, a straw and your breath. Say them, or show them.
 - **s2 (15 min)**  
   *Parent does:* 1. Tape a straw into the mouth of the bag. 2. Seal the rest of the mouth with tape. 3. Lay the bag flat and put one book on it. 4. Blow. 5. Add books one at a time.  
   *Parent says:* Blow slowly and steadily. Can you lift one book? Two? How many?  
   *Child mode:* Put a book on the bag. Blow into the straw. Add more books!
   - Note: Most children can lift several books, because the air pushes on the whole bottom of the pile. If the bag will not fill, look for leaks at the tape and seal them. Pinch the straw between breaths. Stop if your child feels dizzy.
 - **s3 (5 min)**  
-  *Parent does:* 1. Read the usual and creative ideas. 2. Try to improve your lifter.  
-  *Parent says:* How did air lift something so heavy? What could make your lifter even better?  
-  *Child mode:* How did air lift the books? How can you make it better?
+  *Parent does:* 1. Read the usual and creative ideas. 2. Try one idea to improve your lifter, and count the books again.  
+  *Parent says:* Which idea do you want to try to make your lifter even better? Try it and count again.  
+  *Child mode:* Try one change to your lifter. Count how many books it lifts now. Is it more?
   - Check: How did your breath lift the books? → **The air took up space in the bag and pushed the books up**
 ### c2 · The Bottle Race: empty a bottle of water the fastest (20 min)
 - **problem:** Empty a full 1-litre bottle of water into a bucket as fast as you can, without squeezing the bottle or cutting it.
@@ -481,12 +481,12 @@ Kavya laughed, and went to fetch the sugarcane.
 - **s2 (10 min)**  
   *Parent does:* 1. Ask your child why it glugs. 2. Let them try other ways. 3. Then try swirling the bottle as you turn it over. 4. Time each way.  
   *Parent says:* Every glug is a bubble of air going in. How could we let air in more easily?  
-  *Child mode:* Each glug is air going in. Can you let air in more easily? Try it.
+  *Child mode:* Try a new way to tip or hold the bottle. Time each try. Which is fastest?
   - Note: Swirling usually empties the bottle much faster than plain glugging, often in about half the time, because the spinning water leaves an open path in the middle for air. Work over a bucket in the bathroom.
 - **s3 (5 min)**  
   *Parent does:* Compare the times together.  
   *Parent says:* Which way was fastest? Why?  
-  *Child mode:* Which way was fastest? Why?
+  *Child mode:* Line up your times from fastest to slowest. Which way was fastest?
   - Check: Why does a bottle of water glug when you tip it straight upside down? → **Air must bubble in to take the place of the water going out**
 
 ## Worksheets

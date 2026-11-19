@@ -190,18 +190,18 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Parent says:* When you get closer, I'll hold up 'Nearer'. When you move away, 'Farther'. Use the cards to find the tumbler.  
   *Child mode:* Watch the cards. Nearer means closer. Farther means moving away.
 - **s2 (11 min)**  
-  *Parent does:* 1. Play at least four rounds, swapping hider and seeker. 2. Keep count of the cards shown each round.  
-  *Parent says:* Hold up the cards as the seeker walks: 'Nearer', 'Nearer', 'Farther', 'Very near'.  
+  *Parent does:* 1. Play at least four rounds, swapping hider and seeker. 2. The hider holds up a card each time the seeker gets nearer or farther. 3. Keep count of the cards shown each round.  
+  *Parent says:* Walk around the room. I will only hold up cards. Go the way they tell you.  
   *Child mode:* Walk the way the cards tell you. Find the tumbler.
   - Ask: What does 'nearer' tell you about the space between you and the tumbler? (good: It is getting smaller.; There is less space between us.)
 - **s3 (2 min)**  
   *Parent does:* 1. Count the cards for each round. 2. Ask the question below.  
-  *Parent says:* Which round used the fewest cards? What did 'Nearer' and 'Farther' tell you about the space between you and the tumbler?  
-  *Child mode:* Which round used the fewest cards? What did the cards tell you?
+  *Parent says:* Let's count the cards from each round. Which round needed the fewest?  
+  *Child mode:* Find the round with the fewest cards.
   - Check: In the hiding game, the hider holds up 'Farther'. What should the seeker do? → **Turn and go back the other way**
 ### g2 · Near to Far: a line-up card game (15 min)
 - **rules:** Cut out the ten cards. Shuffle them.; Each player in turn takes a card and puts it in the line, where they think it goes: nearest at one end, farthest at the other.; A player may move one card that is already in the line, if they give a reason.; When all ten are in the line, turn them over and read the backs from nearest to farthest.; Count how many cards were in the right place. Shuffle and play again to beat your count.
-- **Printable cards: 10 distance cards to cut out:** The tip of your nose (back: Nearest of all. It is on your own face.); The door of your room (back: A few steps away.); The nearest shop (back: Usually a short walk, a few minutes away.); A plane high in the sky (back: About 10 kilometres up. That is a walk of about 2 hours, if you could walk straight up.); The International Space Station (back: About 400 kilometres up, in outer space. People live and work on board.) [picture]; From the top of India to the bottom (back: About 3,200 kilometres, from Ladakh in the north to Kanyakumari in the south.); The Moon (back: About 384,000 kilometres away. Light from the Moon takes just over 1 second to reach you.) [picture]; The Sun (back: About 150 million kilometres away. Its light takes about 8 minutes to reach you.) [picture]; The nearest star after the Sun (back: So far that its light takes more than 4 years to reach us.); The Andromeda galaxy (back: One of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us.) [picture]
+- **Printable cards: 10 distance cards to cut out:** The tip of your nose (back: Nearest of all. It is on your own face.); The door of your room (back: A few steps away.); The nearest shop (back: Usually a short walk, a few minutes away.); A plane high in the sky (back: About 10 kilometres up. That is a walk of about 2 hours, if you could walk straight up.); The International Space Station (back: About 400 kilometres up, in outer space. People live and work on board.) [picture]; From the top of India to the bottom (back: About 3,200 kilometres, from Ladakh in the north to Kanyakumari in the south.); The Moon (back: About 384,000 kilometres away. Light from the Moon takes just over 1 second to reach you.) [picture]; The Sun (back: About 150 million kilometres away. Its light takes about 8 minutes to reach you.) [picture]; The nearest star after the Sun (back: So far that its light takes more than 4 years to reach us.); The Andromeda galaxy (back: A galaxy is a huge group of stars. This one is one of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us.) [picture]
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Read the rules out loud. 3. Read each card's front out loud.  
   *Parent says:* Each card is a place. Let's put them in a line, from nearest to us to farthest away.  
@@ -209,12 +209,12 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns placing cards. 2. When the line is done, turn the cards over from the nearest end. 3. Read each back out loud.  
   *Parent says:* Where does the Moon go? Is the Moon nearer than the Sun, or farther? Why do you think so?  
-  *Child mode:* Where does the Moon go? Is it nearer than the Sun?
+  *Child mode:* Put your card where you think it goes. Say why.
   - Ask: The Sun and the Moon look about the same size. How can you tell which is farther? (good: The Sun is much bigger, so it must be farther to look as small.; The back of the card says so.; The card backs: the Sun is about 150 million kilometres away and the Moon about 384,000.)
 - **s3 (4 min)**  
   *Parent does:* 1. Count the cards in the right place. 2. Ask the question below. 3. Read the backs of the two cards together.  
   *Parent says:* Which is farther from us: the nearest star after the Sun, or the Andromeda galaxy? How do you know?  
-  *Child mode:* Which is farther: the nearest star or the Andromeda galaxy? How do you know?
+  *Child mode:* Read both backs. Which light takes longer to reach us?
   - Note: The Andromeda galaxy is farther. The card backs say its light takes about 2.5 million years to reach us. Light from the nearest other star takes just over 4 years. A longer time for the light means a longer distance.
   - Check: Which of these is farthest from you? → **The Sun**
 
@@ -234,14 +234,14 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   - Note: Use your own big steps, and keep them all the same length. You need about 3 metres in a straight line. A hall, a corridor or the space from a bedroom door to the far wall works.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask the questions below. 2. Write your child's guess and reason at the top of the paper. 3. Do not say who is right.  
-  *Parent says:* Next you will look at the bottle from 1 step, then from 2 steps, then from 4 steps. Each place is twice as far as the one before. Guess first. When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?  
-  *Child mode:* From twice as far, how tall will the bottle look? Why?
-  - Ask: From twice as far away, how tall will the bottle look? Why? (good: The same, because it is the same bottle.; A bit smaller, because far things look small.; Half, because it is twice as far.)
+  *Parent says:* Next you will look at the bottle from 1 step, then from 2 steps, then from 4 steps. Each place is twice as far as the one before. Guess first, before we measure. Will the bottle look just as tall, a little shorter, or half as tall?  
+  *Child mode:* Make a guess. Then say why you think so.
+  - Ask: When you stand twice as far away, how tall will the bottle look? Why do you think so? (good: The same, because it is the same bottle.; A bit smaller, because far things look small.; Half, because it is twice as far.)
   - Note: Most children guess 'the same' or 'a bit smaller'. Any guess with a reason is a good start.
 - **s3 (6 min)**  
   *Parent does:* 1. Your child stands with toes at the 1-step chappal. 2. Your child holds one arm straight out, with the elbow locked, and closes one eye. 3. Your child holds the pencil upright in that hand and lines up the tip with the top of the bottle. 4. Your child slides the thumbnail down the pencil until it lines up with the bottom of the bottle. 5. Your child keeps the thumb still and lays the pencil on the paper strip. 6. You mark the paper at the pencil tip and at the thumb.  
-  *Parent says:* Hold your arm out straight, like a stick. Close one eye. Put the pencil tip at the top of the bottle. Now slide your thumb down to the bottom. Keep it still, and we'll mark it.  
-  *Child mode:* Hold your arm out straight. Close one eye. Put the pencil tip at the top of the bottle. Slide your thumb down to the bottom of the bottle. Keep your thumb still.
+  *Parent says:* Hold your arm out straight, like a stick. Close one eye. Put the pencil tip at the top of the bottle. Now slide your thumb down to the bottom of the bottle. The part of the pencil between the tip and your thumb is how tall the bottle looks. Keep your thumb still, and we'll mark it.  
+  *Child mode:* Measure how tall the bottle looks, with your pencil and thumb. Keep your thumb still.
   - Note: The arm must be straight every time, or the measure changes. If your child finds it hard, you hold your own arm out and measure, and your child checks. Do each place twice. The two marks should be close.
 - **s4 (6 min)**  
   *Parent does:* 1. Move to the 2-step chappal and measure the same way. 2. Mark a new piece of the strip. 3. Then measure from the 4-step chappal. 4. Mark a third piece. 5. Write '1', '2' and '4' next to the marks.  
@@ -251,23 +251,23 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   - Note: From 4 steps the mark may be only 2 or 3 centimetres long. That is fine. A small mark is the result you expect.
 - **s5 (6 min) · grown-up needed**  
   *Parent does:* 1. Cut out the three marked pieces. 2. Lay them side by side, longest first. 3. Fold the 1-step strip in half and hold it next to the 2-step strip. 4. Count how many 4-step strips fit along the 1-step strip. 5. Fill in the results table. 6. Then read the cards on near and far.  
-  *Parent says:* Let's fold the 1-step strip in half. Is half of it as long as the 2-step strip? How many little 4-step strips fit along the long one? Did the bottle change, or did something else change?  
-  *Child mode:* Fold the 1-step strip in half. Is the half as long as the 2-step strip? Did the bottle change?
+  *Parent says:* Let's fold the 1-step strip in half. Is half of it as long as the 2-step strip? Now see how many little 4-step strips fit along the long one.  
+  *Child mode:* Fold the long strip in half. Hold it next to the 2-step strip. Do they match?
   - Ask: The bottle never moved. What changed? (good: How far away I stood.; The space between me and the bottle.; Only the distance.)
   - Note: Usually the 2-step strip is close to half the 1-step strip, and about 3 to 5 of the 4-step strips fit along the 1-step one. Steps that are not quite even, or an arm that bends, make it less exact. A strong answer uses the strips as evidence: the bottle was the same, there was more space between your child and the bottle, and the strip was shorter.
-  - Check: In the bottle strip test, you stood twice as far from the bottle. How tall did the bottle look? → **About half as tall**
+  - Check: You stand twice as far from a bottle. How tall does the bottle look? → **About half as tall**
 ### e2 · The Mirror Tunnel: does the row go on for ever? (15 min)
 - **problem:** When two mirrors face each other, each mirror shows the other mirror. You see a row of copies that gets smaller and smaller. You will count how many copies you can see. Then you will ask whether the row really goes on for ever.
 - **question:** In a tunnel of mirrors, how many copies can you count? Does the row go on for ever?
 - **predict:** How many bindis will you be able to count: 2, 10, 100, or never-ending? Why do you think so?
 - **fair test:** Two people count, each three times, holding the mirror in the same place. We count three times because it is easy to lose your place in a long row.
 - **safety:** Glass mirrors break and cut. A grown-up carries the mirrors, and the child holds the hand mirror with both hands.
-- **record:** Write each count in the results table. Draw the tunnel as you saw it, with the bindis getting smaller.
+- **record:** Write each count in the results table. Draw the tunnel as you saw it, with the bindis getting smaller, or tell your grown-up what the last bindis looked like.
 - **results table:** Who counted | Count 1 | Count 2 | Count 3 | What the last copies looked like
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Stick a bindi on the top edge of the hand mirror, on the shiny side. 2. Stand your child about one step from the big mirror. 3. Ask the question below and write the guess.  
-  *Parent says:* We're going to make a tunnel of mirrors. How many bindis do you think you'll see? 2, 10, 100, or more than anyone can count? Why?  
-  *Child mode:* How many bindis will you see? Why do you think so?
+  *Parent says:* We're going to make a tunnel of mirrors. Each mirror will show the other mirror, over and over. How many bindis do you think you'll see? 2, 10, 100, or more than anyone can count?  
+  *Child mode:* Make a guess, then say why you think so.
   - Ask: How many bindis will you see? Why? (good: Lots, because mirrors copy each other.; Two, because there are two mirrors.; For ever, because it keeps going.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child holds the hand mirror with both hands, just under the eyes. 2. The shiny side faces the big mirror. 3. Your child looks over the top edge into the big mirror. 4. Tilt the hand mirror a tiny bit until the tunnel appears. 5. Your child counts the bindis, three times.  
@@ -281,29 +281,29 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - **s4 (3 min)**  
   *Parent does:* 1. Ask the questions below. 2. Then read the card on whether space goes on for ever.  
   *Parent says:* Could you count to the end? What did the last bindis look like? Was that really the end, or could you just not see more?  
-  *Child mode:* Could you see the end? What did the last bindis look like?
+  *Child mode:* Think about the last bindis you could see.
   - Ask: Why could you not count any more bindis? (good: They got too small.; They got too dark.; They were too far down the tunnel.)
   - Note: Each copy looks smaller because it looks farther away, just as the bottle looked smaller from farther away in the Bottle Strip Test. A strong answer says the row faded out, and that you could not tell whether it really ended.
   - Check: In the mirror tunnel, what happened to the bindis farther down the tunnel? → **They got smaller and dimmer**
 
 ## Activities
 ### a1 · Space Hunt: find what is between things (10 min)
-- **record:** Draw or list five spaces you found.
+- **record:** Write a list of the five spaces you found, or take a photo of each.
 - **s1 (2 min)**  
   *Parent does:* 1. Put two tumblers on the floor, about one hand apart. 2. Point to the gap between them. 3. Ask the question below.  
-  *Parent says:* What is between these two tumblers? Take a guess. What would you call it?  
-  *Child mode:* What is between the two tumblers?
+  *Parent says:* Look at the gap between these two tumblers. Take a guess.  
+  *Child mode:* Look at the gap between the two tumblers. What would you call it?
   - Ask: What is between the tumblers? (good: Nothing.; Air.; Space.; A gap.)
   - Note: Every answer is fine for now. Introduce the word: the room between things is called space.
 - **s2 (5 min)**  
-  *Parent does:* 1. Your child finds five spaces in the home. 2. Give hints if needed. Try between your fingers, under the bed and inside an empty bottle. 3. Also try between the fan blades, and between your child and the wall. 4. Write or draw each one.  
-  *Parent says:* The room between things is called space. Let's hunt for five spaces. Look under, inside, around and between things.  
+  *Parent does:* 1. Your child finds five spaces in the home. 2. Give hints if needed. Try between your fingers, under the bed and inside an empty bottle. 3. Also try between the fan blades, and between your child and the wall. 4. Write down each one, or take a photo of it.  
+  *Parent says:* The room between things is called space. Let's hunt for five spaces.  
   *Child mode:* Find five spaces. Look under, inside, around and between.
   - Note: Keep fingers away from the fan blades. Look at the gaps only while the fan is switched off.
 - **s3 (3 min)**  
-  *Parent does:* 1. Push the two tumblers together until they touch. 2. Ask the questions below. 3. Close the empty bottle with its cap and squeeze it.  
-  *Parent says:* Now the tumblers touch. Is there still space? Where? This bottle looks empty. Squeeze it with the cap on. What is inside?  
-  *Child mode:* The tumblers touch. Is there still space? Squeeze the shut bottle. What is inside?
+  *Parent does:* 1. Push the two tumblers together until they touch. 2. Ask the first question below. 3. Close the empty bottle with its cap and squeeze it. 4. Ask the second question.  
+  *Parent says:* Now the tumblers touch. Look closely. This bottle looks empty. Squeeze it with the cap on.  
+  *Child mode:* Look at the touching tumblers. Then squeeze the shut bottle.
   - Ask: Where is there still space? (good: All around the tumblers.; Inside them.; Above them, up to the ceiling.)
   - Ask: What is in the shut bottle? (good: Air. It pushes back when I squeeze.)
   - Note: The capped bottle pushes back because it is full of air. Space in a room is full of air, even where it looks empty.
@@ -315,45 +315,45 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Child mode:* Guess the steps to each place. That guess is an estimate.
 - **s2 (7 min)**  
   *Parent does:* 1. Your child walks to each place heel to toe, counting out loud. 2. Write each count next to the guess.  
-  *Parent says:* Now walk heel to toe, so every step is the same size. Count out loud.  
+  *Parent says:* Now walk heel to toe. Put one foot right in front of the other, so your heel touches your toes. Then every step is the same size. Count out loud.  
   *Child mode:* Walk heel to toe. Count each step out loud.
   - Note: Heel to toe keeps every step the same size, so the counts are fair to compare.
 - **s3 (4 min)**  
   *Parent does:* 1. Ask your child to put the four places in order, from nearest to farthest. 2. Ask the questions below.  
   *Parent says:* Which place is nearest? Which is farthest? Were your guesses too big, too small, or close?  
-  *Child mode:* Which is nearest? Which is farthest? Were your guesses close?
-  - Ask: How do you know the kitchen is farther than the door? (good: It took more steps.; There is more space between me and the kitchen.)
+  *Child mode:* Put the places in order, nearest first. Were your guesses close?
+  - Ask: How do you know which place is farther? (good: It took more steps.; There is more space between me and the kitchen.)
   - Check: It is 4 steps to the door and 9 steps to the kitchen. Which is nearer? → **The door**
 ### a3 · Draw Near and Far from the Window (15 min)
-- **record:** Your drawing, with 'near' and 'far' written by the two things.
+- **record:** Your drawing, or your finger-width counts, with 'near' and 'far' written by the two things.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand at a window with your child. 2. Find two of the same kind of thing: two trees, two buildings, two water tanks or two people.  
   *Parent says:* Can you find two of the same kind of thing, one near and one far? Which looks bigger?  
   *Child mode:* Find two of the same thing, one near, one far.
   - Note: If the window shows only one building, use a long corridor and two people, or two of the same shoes at different distances.
 - **s2 (9 min)**  
-  *Parent does:* 1. Your child draws the near thing and the far thing, each as big as it looks. 2. Then your child colours the drawing.  
-  *Parent says:* Draw them just as big as they look, not as big as they really are.  
-  *Child mode:* Draw each one as big as it looks.
+  *Parent does:* 1. Your child draws the near thing and the far thing, each as big as it looks. 2. A child who would rather not draw holds up a hand at arm's length. Then the child counts the finger-widths each thing is tall.  
+  *Parent says:* Draw them just as big as they look, not as big as they really are. Or hold up your hand at arm's length and count how many finger-widths tall each one looks.  
+  *Child mode:* Draw each one as big as it looks, or count finger-widths.
 - **s3 (2 min)**  
   *Parent does:* 1. Ask the question below. 2. Write 'near' and 'far' by the two things.  
-  *Parent says:* Is the far tree really that small? Why did you draw it small?  
-  *Child mode:* Is the far one really small? Why did you draw it small?
-  - Ask: Why did you draw the far one smaller? (good: It looks smaller because it is far away.; It is far, so it takes up less of what I see.)
+  *Parent says:* Look at your two things again. Is the far one really that small?  
+  *Child mode:* Is the far one really small, or does it only look small?
+  - Ask: Why does the far one look smaller? (good: It looks smaller because it is far away.; It is far, so it takes up less of what I see.)
 
 ## Projects
 ### p1 · My Room Map: where things are and the space between (30 min, 2 days)
-- **record:** The finished map, with step numbers between things and the empty floor coloured in.
-- **schedule:** day 1: Draw your room from above: the walls, the door, the bed and two more things. (15 min); day 2: Count steps between things. Write the numbers on the map. Colour the empty floor. (15 min)
+- **record:** The finished map, with step numbers between things and the two square counts written on it.
+- **schedule:** day 1: Draw your room from above: the walls, the door, the bed and two more things. (15 min); day 2: Count steps between things. Write the numbers on the map. Count the empty squares. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Stand at the door with your child. 2. Ask what the room would look like to a bird on the ceiling. 3. Your child draws the walls, the door, the bed and two more things on the squared paper.  
-  *Parent says:* Pretend you are a bird on the ceiling, looking down. What shape is the bed from up there? Draw it.  
-  *Child mode:* Pretend you are a bird on the ceiling. Draw your room from above.
+  *Parent does:* 1. Stand at the door with your child. 2. Ask what the room would look like to a bird on the ceiling. 3. Your child draws the walls, the door, the bed and two more things on the squared paper. Or your child cuts paper shapes for them and lays the shapes on the paper.  
+  *Parent says:* Pretend you are a bird on the ceiling, looking down. What shape is the bed from up there? Show me on the paper.  
+  *Child mode:* Show your room from above: the walls, the door, the bed and two more things.
 - **s2 (15 min)**  
-  *Parent does:* 1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Your child writes the numbers on the map with arrows. 3. Your child colours all the empty floor.  
-  *Parent says:* How many steps from the bed to the door? Write it on the map. Now colour all the empty floor. That is the space you can move in.  
-  *Child mode:* Count steps between things. Write them on the map. Colour the empty floor.
-  - Ask: On your map, which is bigger: the floor covered by things, or the empty floor? (good: More empty space.; More things. The bed is big.)
+  *Parent does:* 1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Your child writes the numbers on the map with arrows. 3. Your child counts the empty squares on the map and the squares covered by things, and writes both numbers.  
+  *Parent says:* How many steps from the bed to the door? Write it on the map. Now count the empty squares, and the squares with things on them. The empty ones are the space you can move in.  
+  *Child mode:* Write the steps on the map. Count the empty squares and the squares with things.
+  - Ask: On your map, which has more squares: things, or empty floor? (good: More empty space.; More things. The bed is big.)
   - Note: Either answer is fine if your child can point to the evidence on the map.
   - Wait: Do this on the next day.
 
@@ -367,7 +367,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - **s1 (3 min)**  
   *Parent does:* 1. Explain the challenge. 2. Ask the question below.  
   *Parent says:* This coin is tiny, and the cupboard is huge. Can you make the coin hide the whole cupboard? You can't move the cupboard.  
-  *Child mode:* Can a small coin hide the whole cupboard? You can't move the cupboard.
+  *Child mode:* Look at the coin and the cupboard. Think how the coin could hide it.
   - Ask: What could you change? (good: Where I stand.; How near the coin is to my eye.)
 - **s2 (9 min)**  
   *Parent does:* 1. Your child tries ways to hide the cupboard. 2. Then your child looks out of a window and finds a far building that the coin hides.  
@@ -376,8 +376,8 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   - Note: Holding a coin close to the eye hides a lot at once. Walking back from a cupboard also works, but only in a very long hall, so the window is the easy second try.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask the question below.  
-  *Parent says:* Did the coin get bigger, or the cupboard smaller? What really changed?  
-  *Child mode:* Did the coin grow? What changed?
+  *Parent says:* Look at the coin and the cupboard again. Did either of them change size?  
+  *Child mode:* Say what you changed to make the coin hide the cupboard.
   - Check: How did the small coin hide the big cupboard? → **The distances changed, so the cupboard looked smaller than the coin**
 
 ## Worksheets

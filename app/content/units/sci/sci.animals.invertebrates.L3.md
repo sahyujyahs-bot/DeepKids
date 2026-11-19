@@ -279,25 +279,25 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Put the two mats down. Mix the cards and make a face-down pile. For each animal, decide: backbone or not?
 - **s2 (3 min)**  
   *Parent does:* Take out the Earthworm card. Play it together as a practice round: put it on a mat, turn it over to check, and do not score it. Then shuffle it back into the pile.  
-  *Parent says:* Let's practise with one card: the earthworm. Does an earthworm have a backbone?  
-  *Child mode:* This is a practice card: the earthworm. Do they have a backbone or not? Say your answer.
+  *Parent says:* Let's practise with one card: the earthworm. Which mat do you think they go on?  
+  *Child mode:* This is a practice card: the earthworm. Think about what you know about worms. Then pick a mat.
   - Check: Which mat does an earthworm go on? → **NO BACKBONE**
 - **s3 (10 min)**  
   *Parent does:* Take turns. Take the top card, read the name and put it on a mat. Say why, then turn the card over to check. Help with the six trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.  
-  *Parent says:* Watch out for tricky ones. A name can fool you. A starfish is not a fish. A seahorse is a fish. Look at the animal, not just their name.  
+  *Parent says:* Watch out for tricky ones. A name can fool you. Look at the animal, not just their name.  
   *Child mode:* Take a card. Put it on a mat. Say why. Watch out: some names are tricks!
   - Note: The trick cards say TRICK CARD on the back. Starfish, jellyfish, cuttlefish and silverfish are not fish, and have no backbone. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though they have no legs.
-  - Check: You pick up the seahorse card. Which mat does the seahorse go on? → **BACKBONE**
+  - Check: Which mat does a seahorse go on? → **BACKBONE**
 - **s4 (3 min)**  
   *Parent does:* When all the cards are placed, count the cards on each mat and write the two numbers on the tally sheet.  
   *Parent says:* Let's count. How many cards on the backbone mat? How many on the no backbone mat?  
   *Child mode:* Count the cards on each mat. Write the two numbers down.
-  - Note: With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has more backbone animals than real life, because people know them better. That is worth talking about.
-  - Think: Our card game has more backbone animals than real life. In the real world, out of every 100 kinds of animal, about 95 have no backbone. Why do you think the game has so many backbone animals?
+  - Note: With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has a bigger share of backbone animals than real life, because people know them better. That is worth talking about.
+  - Think: In real life, about 95 of every 100 kinds of animal have no backbone. In our game, 9 of the 30 cards have one. Why do you think the game has so many backbone animals?
 - **s5 (2 min)**  
-  *Parent does:* Ask your child to say three things: what I think, what I saw, and why.  
+  *Parent does:* Ask your child to tell you three things: what they think now, what they saw, and why.  
   *Parent says:* Tell me three things. What do you think now? What did the cards show? And why do you think so many animals have no backbone?  
-  *Child mode:* Say three things: what you think now, what the cards showed, and why so many animals have no backbone.
+  *Child mode:* Say three things. What do you think now? What did the cards show? Why do so many animals have no backbone?
   - Note: A good answer sounds like this. What I think: most animals have no backbone. What I saw: 21 of our 30 cards had no backbone. Why: lots of small animals hold themselves up with shells, armour or water instead of bones.
 ### g2 · Guess My Minibeast (15 min)
 - **rules:** Lay all 12 cards face up so everyone can see them.; One player secretly picks one animal and writes their name on a scrap of paper.; The others take turns asking yes or no questions about the animal's body. 'Are they cute?' does not count.; After each answer, turn over every card that it rules out. If only one card is left face up, that is the secret animal.; Whoever names the secret animal first wins that round. With two players, the guesser wins by naming the animal. If nobody has named the animal after 8 questions, the player who picked them wins the round.; Try to find the animal in 4 questions or fewer. Then the next player picks a secret animal. Play until everyone has picked once. The player who won the most rounds wins. A tie is a shared win.
@@ -309,10 +309,10 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* A grown-up has picked a secret animal. Ask yes or no questions about their body. Can you find them in four?
 - **s2 (4 min)**  
   *Parent does:* Answer your child's questions truthfully about the house spider. Turn over the cards each answer rules out.  
-  *Parent says:* Good question. Let's turn over every card that does not fit.  
-  *Child mode:* Ask a question. Turn over the cards that do not fit.
+  *Parent says:* I will answer yes or no. After each answer, turn over every card that cannot be my animal.  
+  *Child mode:* Ask a yes or no question about the body. Turn over the cards that cannot be the animal.
   - Ask: Which question rules out the most cards at once? (good: Do they have more than 6 legs?; Do they live in water?)
-  - Check: The secret animal lives on land and has more than 6 legs. They have no feelers and 2 body parts, and no tail with a sting. What animal is this? → **A house spider**
+  - Check: A secret animal lives on land. They have more than 6 legs, no feelers and 2 body parts. They have no tail with a sting. Which animal is it? → **A house spider**
 - **s3 (6 min)**  
   *Parent does:* Now take turns. Each player picks a secret animal while the others guess.  
   *Parent says:* Your turn to pick a secret animal. We will ask the questions.  
@@ -320,10 +320,10 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Note: Watch whether your child asks about legs first. Leg count splits the cards fastest. If your child asks 'Are they brown?', ask whether that question is about how the animal's body is built or only about colour.
 - **s4 (3 min)**  
   *Parent does:* Talk about which questions were the best.  
-  *Parent says:* Which questions worked best? Why do you think scientists sort minibeasts by counting legs, and not by colour?  
-  *Child mode:* Which question was best? Why do legs help more than colour?
+  *Parent says:* Which question worked best in our game? Now think about legs and about colour. Which one helps more?  
+  *Child mode:* Think back. Which question found the animal fastest?
   - Note: A good answer is the crab and the prawn. They also wear hard armour on the outside and have more than six legs. The woodlouse is a land cousin of crabs and prawns.
-  - Check: Why do scientists count legs to sort small animals, and not use colour? → **The number of legs stays the same in every animal of a group, but colour can change**
+  - Check: Why do scientists count legs to sort small animals, and not use colour? → **Legs stay the same in a group, but colour can change**
   - Think: A woodlouse has 14 legs. Which other animals on the cards do you think they are a cousin of?
 
 ## Experiments
@@ -333,17 +333,17 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **predict:** Before you test, look at three pairs of bottles: open and empty, capped with only air inside, and capped and full of water. Guess which pair will sink the least under a pile of books, and then under you sitting on the board. Say why you think so.
 - **fair test:** To make it fair, use six bottles of the same kind and size. Lay each pair the same way, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each capped pair under the books 3 times, because one try can be a fluke. An open bottle squashes for good, so test the open pair only once and write the same number in all three boxes. For the sitting test, the same child sits in the same place each time.
 - **safety:** In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and stay beside your child, who rests both hands on a sturdy chair. Put the books on gently and keep fingers out from under the board.
-- **record:** Fill in the table. Then draw one bar for each pair of bottles under the books. A shorter bar means the bottles kept their shape better. Write what happened in the sitting test and the hand squeeze.
+- **record:** Fill in the table. Then make one bar for each pair of bottles under the books, drawn or cut from paper. A shorter bar means the bottles kept their shape better. Write what happened in the sitting test and the hand squeeze.
 - **results table:** Pair of bottles | Books: try 1 (cm) | Books: try 2 (cm) | Books: try 3 (cm) | Books: middle value (cm) | Child sitting: try 1 (cm) | Child sitting: try 2 (cm)
 - **s1 (4 min)**  
-  *Parent does:* 1. Fill two bottles with water right to the top, so almost no air is left. Screw the caps on tight. 2. Screw the caps onto two empty bottles. 3. Leave the last two bottles empty, with no caps.  
+  *Parent does:* 1. Fill two bottles with water right to the top, so almost no air is left. Screw the caps on tight. 2. Screw the caps onto two empty bottles, so they stay full of air. 3. Leave the last two bottles empty, with no caps.  
   *Parent says:* An earthworm has no bones, yet they feel firm in your hand. Today we will find out how. Our bottles are pretend worms.  
   *Child mode:* Fill two bottles to the top with water. Put the caps on tight. Put caps on two empty bottles. Leave two open.
   - Note: Thin bottles from packaged drinking water work best, because they squash easily. Fill the water bottles over a sink, right to the brim.
 - **s2 (3 min)**  
   *Parent does:* Show your child the three pairs. Ask for a guess and a reason, and write the guess down.  
   *Parent says:* We will put books on each pair, and then you will sit on the board. Which pair do you think will sink the least? Why do you think so?  
-  *Child mode:* Which pair will sink the least under the books, and under you? Guess. Say why.
+  *Child mode:* Guess which pair will sink the least under the books, and under you.
   - Ask: Why do you think so? (good: The water ones, because they are full.; The capped ones, because nothing can get out.; The open ones will get squashed, because the air can escape.)
   - Note: Any guess is fine, as long as your child gives a reason. Don't explain yet. The test will answer it.
 - **s3 (12 min)**  
@@ -358,31 +358,31 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Ask: Which capped pair went down more when you sat on it? (good: The air ones.; The air bottles went down a little, but the water ones hardly moved.)
   - Note: The air bottles sink a little, from a few millimetres to about 1 cm, and spring back up when your child stands. The water bottles hardly move. Never use the open bottles here: they would squash flat and drop your child. If your bottles are thick and stiff, the difference may be small. The hand squeeze in the next step still shows it.
 - **s5 (3 min)**  
-  *Parent does:* 1. Hold the capped air bottle in both hands and squeeze its middle as hard as you can. 2. Squeeze the capped water bottle in the same way. 3. Ask which one gives.  
-  *Parent says:* Squeeze the air bottle as hard as you can. Now squeeze the water bottle the same way. Which one gives?  
-  *Child mode:* Squeeze the capped air bottle hard. Then squeeze the capped water bottle. Which one gives?
+  *Parent does:* 1. Hold the capped air bottle in both hands and squeeze its middle as hard as you can. 2. Squeeze the capped water bottle in the same way. 3. Ask which one squashes in.  
+  *Parent says:* Squeeze the air bottle as hard as you can. Now squeeze the water bottle the same way. Which one squashes in?  
+  *Child mode:* Squeeze the capped air bottle hard. Then squeeze the capped water bottle the same way. Feel which one squashes in.
   - Check: You squeeze a capped bottle of air and a capped bottle of water as hard as you can. What happens? → **The air bottle dents a little, but the water bottle stays hard**
 - **s6 (3 min)**  
   *Parent does:* 1. Over the sink, open one water bottle and pour out a little, so the water sits in the neck. 2. Mark the water level with a pen. 3. Squeeze the middle of the bottle with both hands, and watch the water.  
   *Parent says:* Now the cap is off. Squeeze the middle and watch the water in the neck. Where does it go?  
-  *Child mode:* Open a water bottle over the sink. Mark the water. Squeeze the middle. Where does the water go?
+  *Child mode:* Open a water bottle over the sink. Pour out a little, and mark the water with a pen. Squeeze the middle and watch.
   - Check: When you squeeze the middle of an open bottle of water, what happens? → **The water rises up the neck, because it has to go somewhere**
 - **s7 (4 min)**  
-  *Parent does:* Help your child draw a bar chart of the middle values from the books test, one bar for each pair of bottles.  
+  *Parent does:* Help your child make a bar chart of the middle values from the books test, one bar for each pair of bottles. They can draw the bars, or cut a paper strip as long as each number.  
   *Parent says:* Let's turn our numbers into a picture. One bar for each pair. Here a shorter bar means the bottles kept their shape better.  
-  *Child mode:* Draw one bar for each pair. A shorter bar means it sank less.
+  *Child mode:* Make one bar for each pair. Draw it, or cut a paper strip as long as the number. A shorter bar means it sank less.
   - Check: In the made-up Water Bones chart, the open bottles have the tallest bar. What does that mean? → **They sank the most, because nothing held their shape**
 - **s8 (3 min)**  
-  *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, and why.  
+  *Parent does:* Ask your child to say or write three things: what they think now, what they saw, and why.  
   *Parent says:* Tell me three things. What do you think now about how a worm stays firm? What did you see? And why?  
-  *Child mode:* Say three things: what you think now about how a worm stays firm, what you saw, and why it happened.
+  *Child mode:* Say three things. What do you think now about how a worm stays firm? What did you see? Why did it happen?
   - Note: A good answer: What I think: a worm stays firm because their liquid is held in tight, and liquid cannot be squeezed. What I saw: under the books, the open bottles sank 5 cm, but both capped pairs hardly sank. When I sat on the board, the air bottles went down about 1 cm, and the water bottles hardly moved. When I squeezed them, the air bottle gave and the water bottle did not. Why: air can be squeezed into less space, but water cannot. So water shut in tight holds its shape.
 ### e2 · Armour Tubes: why are insect legs hollow tubes? (27 min)
 - **problem:** The legs of an ant, a spider and a crab are hollow tubes of armour. In this test, paper shapes stand in for legs. You find out which paper shape holds up the most weight.
 - **question:** Which paper shape holds up the most books: round tubes, square tubes or zigzags?
 - **predict:** Before you test, make the three shapes from the same paper. Guess which shape will hold the most books before it crumples, and say why you think so.
 - **fair test:** To make it fair, use the same size and kind of paper for every shape, and the same amount of tape. Stand three columns of one shape under the board each time. Add books of the same kind gently, one at a time. Test each shape twice, with new paper each time.
-- **record:** Fill in the table. Then draw one bar for each shape, as tall as the number of books it held.
+- **record:** Fill in the table. Then make one bar for each shape, as tall as the number of books it held. Draw it, or lay out books.
 - **results table:** Shape | Try 1: books held | Try 2: books held | Best of the two
 - **s1 (8 min)**  
   *Parent does:* 1. Roll a sheet into a round tube as tall as the short side of the paper, about 21 cm, and tape it. Make six: three for each try. 2. Fold a sheet into four equal strips, the same height, and tape it into a square tube. Make six. 3. Fold a sheet back and forth into a zigzag fan, the same height. Make six.  
@@ -391,7 +391,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess which shape will hold the most.  
   *Parent says:* Which shape do you think will hold the most books before it crumples? Why?  
-  *Child mode:* Which shape will hold the most books? Guess, and say why.
+  *Child mode:* Guess which shape will hold the most books.
   - Ask: Why do you think so? (good: The round one has no weak corners.; The zigzag has lots of folds.; The tube is like a pipe.)
 - **s3 (10 min)**  
   *Parent does:* 1. Stand three columns of one shape in a triangle, a hand's width apart. 2. Lay the board on top. 3. Add books one at a time, gently, until the columns bend or crumple. 4. Write down how many books they held. 5. Test each shape twice, with fresh paper.  
@@ -399,14 +399,14 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Stand three columns under the board. Add books one at a time. When they crumple, count the books.
   - Note: Lower each book gently. Dropping it is not fair, because a falling book pushes harder. If you run out of books before the round tubes crumple, write 'more than' and the number. Square and round tubes can come out close, and sometimes the square one wins. Write what you found.
 - **s4 (4 min)**  
-  *Parent does:* Help your child draw a bar chart, one bar for each shape.  
-  *Parent says:* Let's draw one bar for each shape. A taller bar means a stronger shape.  
-  *Child mode:* Draw one bar for each shape. A taller bar means it held more.
+  *Parent does:* Help your child make a bar chart, one bar for each shape. They can draw the bars, or lay out as many books as each shape held, in a row.  
+  *Parent says:* Let's make one bar for each shape. A taller bar means a stronger shape.  
+  *Child mode:* Make one bar for each shape. Draw it, or lay out the books it held. A taller bar means it held more.
   - Check: In the made-up Armour Tubes chart, which shape is strongest? → **The round tube, because its bar is tallest**
 - **s5 (3 min)**  
-  *Parent does:* Ask your child to say three sentences: what I think, what I saw, and why.  
+  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why.  
   *Parent says:* Tell me three things. What do you think now: why are an ant's legs hollow tubes of armour? What did you see in the test? And why did it happen?  
-  *Child mode:* Say three things: why you think an ant's legs are hollow tubes, what you saw, and why it happened.
+  *Child mode:* Say three things. Why do you think an ant's legs are hollow tubes? What did you see? Why did it happen?
   - Note: A good answer might be: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.
   - Think: Bicycle frames, bamboo and the bones in your legs are all tubes. Why do you think so many strong things are tubes?
 ### e3 · Many Small Suckers: how does a starfish hold on? (25 min)
@@ -415,7 +415,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **predict:** Before you test, guess how many cups of rice one sucker can hold. Then guess for two suckers and four suckers, and say why you think so.
 - **fair test:** To make it fair, use the same kind of sucker each time, on the same clean, smooth tile. Press each sucker on in the same way. Add rice one cup at a time, gently. Test each number of suckers twice.
 - **safety:** Keep your feet out from under the bag, because it drops when the suckers pop off. Hang it low, about knee height.
-- **record:** Fill in the table. Draw one bar for each number of suckers.
+- **record:** Fill in the table. Make one bar for each number of suckers, drawn or lined up with buttons.
 - **results table:** Number of suckers | Try 1: cups held | Try 2: cups held | Best of the two
 - **s1 (3 min)**  
   *Parent does:* 1. Wipe a smooth tile clean and dry. 2. Wet each sucker a little. 3. Press one sucker firmly onto the tile at about knee height. 4. Spread a towel underneath.  
@@ -431,20 +431,20 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Add rice one cup at a time. When the sucker pops off, write how many cups it held. Then try two suckers, then four.
   - Note: Tie each sucker's hook to the bag handle with its own short string, so they share the load. Pour the rice back into its tin afterwards to use again. If four suckers still hold after 12 cups, stop there and write 'more than 12'.
 - **s4 (5 min)**  
-  *Parent does:* Help your child draw a bar chart, one bar for each number of suckers.  
-  *Parent says:* Let's draw the bars. What happens to the bars as we add suckers?  
-  *Child mode:* Draw one bar for each number of suckers. Do the bars grow?
+  *Parent does:* Help your child make a bar chart, one bar for each number of suckers. They can draw the bars, or line up one button for each cup of rice held.  
+  *Parent says:* Let's make the bars. What happens to the bars as we add suckers?  
+  *Child mode:* Make one bar for each number of suckers. Draw it, or line up buttons. Do the bars grow?
   - Check: In the made-up Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish? → **Hundreds of small tube feet together can grip very strongly**
 - **s5 (3 min)**  
-  *Parent does:* Ask your child to say three sentences: what I think, what I saw, and why.  
+  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why.  
   *Parent says:* Tell me three things. What do you think now about many small suckers? What did you see? And why?  
-  *Child mode:* Say three things: what you think now about many small suckers, what you saw, and why it happened.
+  *Child mode:* Say three things. What do you think now about many small suckers? What did you see? Why did it happen?
   - Note: A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so they hold on very tightly.
 
 ## Activities
 ### a1 · Backbone Census: which animals share your home? (25 min)
 - **safety:** Look, don't touch. Never touch spiders, centipedes, scorpions or hairy caterpillars. A grown-up comes along to the balcony, the windows and the staircase. Wash your hands with soap afterwards.
-- **record:** Make two tally columns: BACKBONE and NO BACKBONE. Add a tally mark for each kind of animal you see. Then draw two bars.
+- **record:** Make two tally columns: BACKBONE and NO BACKBONE. Add a tally mark for each kind of animal you see. Then make two bars, drawn or lined up with buttons.
 - **s1 (2 min)**  
   *Parent does:* 1. Ask your child to bend forward. 2. Run a finger gently down the middle of their back, from the neck to the bottom.  
   *Parent says:* Can you feel these bumps? This is your backbone. It is a chain of small bones that holds you up. Today we will find out how many animals around us have one.  
@@ -466,21 +466,21 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Note: Count kinds, not single animals. Twenty ants of the same kind count as one mark. A big black ant and a tiny red ant count as two. Common finds in a flat: ants, houseflies, mosquitoes, tiny fruit flies near fruit, a spider in a corner, a cockroach, a silverfish, a moth, and a snail on a pot after rain. Animals with a backbone: people, a gecko on the wall, a crow, a pigeon or a myna at the window, perhaps a cat or a dog. If you find very few animals, add the ones you see on the way to school or the shop tomorrow.
   - Check: You find 30 small black ants in the kitchen, all the same kind. How many tally marks do they get? → **1 mark**
 - **s5 (4 min)**  
-  *Parent does:* Count the tally marks in each column. Then draw two bars side by side, one for each group.  
-  *Parent says:* Let's count our marks. Now let's draw one bar for backbone animals, and one for animals without a backbone.  
-  *Child mode:* Count your marks. Draw two bars. Make each bar as tall as its number.
+  *Parent does:* Count the tally marks in each column. Then make two bars side by side, one for each group. They can draw the bars, or line up one button for each kind of animal.  
+  *Parent says:* Let's count our marks. Now let's make one bar for backbone animals, and one for animals without a backbone.  
+  *Child mode:* Count your marks. Make two bars, as tall as the numbers. Draw them, or line up buttons.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
+  *Parent does:* Ask your child to say or write three things. First, what they think now. Second, what they saw. Third, why they think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see? And why do you think there were more of one group?  
-  *Child mode:* Say or write three things: what you think now, what you saw, and why you think there were more of one group.
+  *Child mode:* Say or write three things. What do you think now? What did you see? Why were there more of one group?
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: there are more kinds of animal without a backbone. What I saw: we found 9 kinds without a backbone and 4 with one. Why: small animals can live in tiny places, like a crack or a corner, and a home has lots of those. In a very clean flat the two bars may be close. That is a real result too. Talk about where small animals might be hiding that you could not see.
-  - Check: In the census, you found 9 kinds of animal without a backbone and 4 kinds with one. What does this show? → **In and around our home, there were more kinds of animal without a backbone**
+  - Check: Imagine a census finds 9 kinds of animal without a backbone and 4 kinds with one. What does this show? → **In and around our home, there were more kinds of animal without a backbone**
 ### a2 · Leg Count Key: insect, spider, crab or centipede? (15 min)
 - **problem:** A key is a set of yes or no questions. Each answer sends you to the next question, until you reach the animal's group. In this activity you use a key about legs to sort small animals into insects, spiders, crabs and centipedes.
 - **safety:** If you catch a live minibeast to look at, use a clear box and a paintbrush, never your fingers. Look for 5 minutes, then let them go where you found them. Do not catch spiders, scorpions or centipedes. Wash your hands with soap after touching a raw prawn or a dead fly.
 - **record:** For each animal, write the questions you answered and the group you reached.
 - **s1 (2 min)**  
-  *Parent does:* Write this key on paper. 1: Do they have legs? No: worm or snail. Yes: go to 2. 2: Do they have exactly 6 legs? Yes: insect. No: go to 3. 3: Do they have exactly 8 legs? Yes: arachnid, like a spider. No: go to 4. 4: Do they have 10 legs? Yes: crab or prawn. No: go to 5. 5: Do they have lots of legs on a long ringed body? Yes: centipede or millipede.  
+  *Parent does:* Write this key on paper. 1: Do they have legs? No: worm or snail. Yes: go to 2. 2: Do they have exactly 6 legs? Yes: insect. No: go to 3. 3: Do they have exactly 8 legs? Yes: spider group. No: go to 4. 4: Do they have 10 legs? Yes: crab or prawn. No: go to 5. 5: Do they have lots of legs on a long ringed body? Yes: centipede or millipede.  
   *Parent says:* This is a key. It is a list of yes or no questions. Each answer sends you to the next question, until you reach the animal's group.  
   *Child mode:* This is a key. Answer each question yes or no. Follow the numbers to the animal's group.
 - **s2 (6 min)**  
@@ -497,46 +497,46 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **s4 (3 min)**  
   *Parent does:* Ask your child to add one new question to the key, so the woodlouse has a place.  
   *Parent says:* Can you add one question that would find the woodlouse? Scientists improve their keys like this all the time.  
-  *Child mode:* Add one new question to the key. Make it find the woodlouse.
-  - Note: Any question that works is good. For example: 'Do they have 14 legs and roll into a ball?' or 'Do they have a short body and more than 10 legs?' For the last question, the key would call a starfish a worm or a snail, because they have no legs. A good new question is 'Do they have five arms around a middle?'
+  *Child mode:* Think of one new yes or no question that fits the woodlouse. Add it to the key.
+  - Note: Any question that works is good. For example: 'Do they have 14 legs and roll into a ball?' or 'Do they have a short body and more than 10 legs?' For the starfish question, the key would call a starfish a worm or a snail, because they have no legs. A good new question is 'Do they have five arms around a middle?'
   - Think: Would your key work for an animal from the sea, like a starfish? What question would you add for them?
 ### a3 · Snail Foot Window: watch a snail walk from underneath (15 min)
 - **safety:** Wash your hands well with soap and water after touching a snail or their slime. Some snails can carry germs. Never put a snail near your mouth. If you find a large snail with a long cone-shaped shell, that may be the giant African snail. Look, but do not touch them.
-- **record:** Draw the snail's foot from underneath, with the waves. Write how many waves you counted at one time.
+- **record:** Write how many waves you counted at one time. You can also draw the snail's foot from underneath.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. After rain, find a garden snail on a wall or plant. 2. Lift them gently by the shell, not the soft body. 3. Wet a clear plastic lid with a few drops of water.  
   *Parent says:* A snail has no bones and no legs. They walk on one big soft foot. Let's watch that foot from underneath.  
   *Child mode:* Ask a grown-up to help you find a snail after rain. Hold them gently by the shell.
   - Note: You need a live snail for this activity. Do it on a day when you find one. Snails come out after rain, mostly in the monsoon, and often at night. Look on walls, under flowerpot rims and on potted plants. If none turns up, try again in the evening after watering the pots, or after the next rain. Until then, watch an ant walk across a clear lid and count their legs, to compare with a snail's one foot later.
 - **s2 (2 min)**  
-  *Parent does:* Put the snail on the wet plastic. Rest the plastic on two stacks of books, so you can look up at it from underneath. Wait until the snail comes out and starts moving.  
+  *Parent does:* Rest the wet plastic across two stacks of books, so you can look up at it from underneath. Put the snail on top. Wait until the snail comes out and starts moving.  
   *Parent says:* We have to be patient. A snail comes out when they feel safe.  
   *Child mode:* Put the snail on the wet plastic. Wait quietly until they come out and move.
   - Note: If they stay inside their shell, put one drop of water on them and wait a few minutes in the shade.
 - **s3 (5 min)**  
   *Parent does:* Look up from underneath. Watch the dark stripes moving along the foot. Count how many stripes you can see at one time.  
-  *Parent says:* Look at the dark stripes moving along their foot. Each stripe is a wave of muscle squeezing. The snail rides on these waves and on their slime.  
-  *Child mode:* Look from underneath. See the dark stripes moving? Count them. Each one is a squeeze of muscle.
+  *Parent says:* Look at the dark stripes moving along their foot. How many can you see at one time?  
+  *Child mode:* Look from underneath. See the dark stripes moving? Count how many you can see at one time.
   - Check: What moves a snail forward? → **Waves of muscle along their one foot, sliding on slime**
 - **s4 (2 min) · grown-up needed**  
   *Parent does:* Look at the shiny trail they leave. Then put the snail back exactly where you found them.  
   *Parent says:* See the shiny trail? That is their slime. Let's take them home now, where we found them.  
   *Child mode:* Look at the shiny slime trail. Then help put the snail back where you found them. Wash your hands with soap.
 - **s5 (3 min)**  
-  *Parent does:* Ask your child to draw the foot from underneath and say three things: what I think, what I saw and why.  
-  *Parent says:* Draw what you saw. Then tell me: what do you think moves a snail? What did you see? Why does that make sense?  
-  *Child mode:* Draw the foot from underneath. Then say three things: what you think moves a snail, what you saw, and why that makes sense.
+  *Parent does:* Ask your child to show with a hand how the stripes moved, or draw the foot from underneath. Then ask for three things: what they think moves a snail, what they saw and why.  
+  *Parent says:* Show me with your hand how the stripes moved, or draw them. Then tell me: what do you think moves a snail? What did you see? Why does that make sense?  
+  *Child mode:* Show with your hand how the stripes moved, or draw the foot. Then say three things. What do you think moves a snail? What did you see? Why?
   - Note: A good answer: What I think: a snail moves by squeezing their foot. What I saw: dark stripes moved along the foot from back to front. Why: each stripe is a squeeze, and the squeezes push the snail along on their slime.
 ### a4 · Jellyfish in a Bottle (15 min)
 - **problem:** A jellyfish has no bones, no shell and no armour. Their body is mostly water, and the sea holds them up. In this activity you make a model jellyfish from a plastic bag. You watch what the water does to its shape, and then what happens when you take it out.
-- **record:** Draw your jellyfish in the bottle and out of the bottle. Write why it changes shape.
+- **record:** Take a photo of your jellyfish in the bottle and out of the bottle, or draw it. Write why it changes shape.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Lay a thin plastic bag flat. 2. Pinch the middle of the closed end to make a small air bubble. Make it the size of a large marble, so it fits through the bottle neck. 3. Tie it off with thread. 4. A grown-up cuts the rest of the bag into 8 long, thin strips.  
-  *Parent says:* A jellyfish has no bones and no heart, and a net of nerves instead of a brain. About 95 parts in every 100 of their body are water. Let's make one and see how it stays in shape.  
+  *Parent says:* A jellyfish has no bones. About 95 parts in every 100 of their body are water. Let's make one and see how it stays in shape.  
   *Child mode:* Pinch a small bubble at the top of a plastic bag. Make it the size of a large marble. Tie it. A grown-up cuts the rest into thin strips. These are tentacles.
 - **s2 (3 min)**  
   *Parent does:* Fill the bottle almost to the top with water. Push the jellyfish in, add water to the very top and close the lid. Turn the bottle slowly.  
-  *Parent says:* Watch the tentacles spread out. The water holds them up, the way the sea holds up a real jellyfish.  
+  *Parent says:* Turn the bottle slowly and watch the tentacles. What do they do?  
   *Child mode:* Put the jellyfish in the bottle of water. Close the lid. Turn the bottle slowly. Watch it float.
   - Ask: What holds the jellyfish's shape in the water? (good: The water pushes it up.; The water holds the tentacles apart.)
 - **s3 (3 min)**  
@@ -545,14 +545,14 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Take it out. Hold it up. What happens to its tentacles?
   - Check: Out of the water, the plastic jellyfish flops into a clump. What does that tell us about real jellyfish? → **Jellyfish have no skeleton, so the water holds their shape**
 - **s4 (4 min)**  
-  *Parent does:* Ask your child to draw the jellyfish in the water and out of it. Then ask for three things: what I think, what I saw and why.  
-  *Parent says:* Draw both pictures. Then tell me what you think, what you saw, and why.  
-  *Child mode:* Draw it in the water and out of it. Say what you think, what you saw and why.
+  *Parent does:* Ask your child to take a photo of the jellyfish in the water and out of it, or draw them. Then ask for three things: what they think now, what they saw and why.  
+  *Parent says:* Take a photo of each, in the water and out of it. Then tell me what you think, what you saw, and why.  
+  *Child mode:* Take a photo of it in the water and out of it. Or draw it. Say what you think, what you saw and why.
   - Note: A good answer: What I think: jellyfish need water to hold their shape. What I saw: in the bottle the strips spread out, but in the air they stuck together in a clump. Why: the jellyfish has no skeleton, and the water was holding it up. For the last question, a good answer is about the stinging cells in the tentacles. They can still fire, even when the jellyfish looks dead or flat.
   - Think: Why might a real jellyfish washed up on a beach still sting you, even if they look like a flat blob?
 ### a5 · Grow Out of Your Armour: act out a moult (10 min)
 - **problem:** Crabs, spiders and insects wear hard armour on the outside, and armour cannot stretch. In this activity a paper tube on your arm is the armour. A folded towel pushed inside the tube stands for the animal growing. You find out what the animal must do when they get too big for their armour.
-- **record:** Draw the three stages: armour on, armour split, new armour.
+- **record:** Show the three stages with your tubes, or take a photo of each: armour on, armour split, new armour.
 - **s1 (2 min)**  
   *Parent does:* Roll the paper around your child's forearm, a little loose, and tape it into a tube.  
   *Parent says:* This tube is your armour, like a crab's shell. It is hard on the outside, and you are soft inside.  
@@ -560,21 +560,21 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **s2 (3 min)**  
   *Parent does:* Now your child 'grows'. Slowly push a folded towel or socks inside the tube, next to the arm.  
   *Parent says:* You are growing. Your body gets bigger. But the armour cannot stretch. What happens?  
-  *Child mode:* Now you grow. A towel goes inside the tube. Feel it get tight.
+  *Child mode:* Now you grow. A grown-up slides a towel inside the tube, next to your arm.
   - Ask: How does it feel when you grow inside the armour? (good: Tight.; Squashed.; The paper starts to tear.)
 - **s3 (3 min)**  
   *Parent does:* Let the tube split along the tape. If it does not split, tear it along the tape. Your child slides out. Make a new, bigger tube from fresh paper, but leave it untaped for one minute, as 'soft armour'.  
   *Parent says:* The old armour splits and you climb out. For a while your new armour is soft. A real crab hides at this time, because they are easy to eat.  
-  *Child mode:* Split the tube. Climb out. Your new armour is soft for a while. Hide!
+  *Child mode:* The old tube splits. Slide your arm out. Your new armour is soft for a while. Hide!
   - Check: Why does a crab hide after they moult? → **Their new armour is still soft, so they are easy to hurt**
 - **s4 (2 min)**  
-  *Parent does:* Ask your child to draw the three stages and say why growing is a problem for an animal with armour.  
-  *Parent says:* Draw the three pictures. Why can't armour just grow with the animal, like your bones grow with you?  
-  *Child mode:* Draw armour on, armour split and new armour. Why can't armour stretch?
+  *Parent does:* Ask your child to show the three stages in order with the tubes: armour on, armour split, new armour. Then ask why growing is a problem for an animal with armour.  
+  *Parent says:* Show me the three stages in order with your tubes. Then tell me: why can't armour just grow with the animal, like your bones grow with you?  
+  *Child mode:* Show the three stages with your tubes: armour on, armour split, new armour. Then say why armour cannot stretch.
   - Note: Bones are alive and grow from inside, with blood in them. An exoskeleton is a hard outer layer that cannot grow, so it must be replaced.
 ### a6 · Spider Web Hunt (15 min)
 - **safety:** Never touch a spider or the web. Spray from at least an arm's length away, and only a light mist. A grown-up comes along to the balcony and the staircase.
-- **record:** Draw the web. If it is round, write how many spokes it has. Write where the spider was waiting.
+- **record:** Draw or photograph the web. If it is round, write how many spokes it has. Write where the spider was waiting.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Look with your child in window corners, behind cupboards, on balcony grills, along staircase railings and between potted plants. Use the torch in dark corners.  
   *Parent says:* Spiders are not insects. They have 8 legs. Many spiders spin silk webs to catch insects. Let's find one.  
@@ -589,13 +589,13 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent says:* Is it a round web or a tangle? If it is round, count the spokes, the straight threads from the middle. Where is the spider waiting?  
   *Child mode:* Is it round or a tangle? Count the spokes if it is round. Can you see the spider? Do not touch them.
 - **s4 (3 min)**  
-  *Parent does:* Ask your child to draw the web and write how many spokes it had.  
-  *Parent says:* Draw the web. A spider spins all of that from silk made inside their own body. Spider silk is one of the toughest threads known.  
-  *Child mode:* Draw the web. If it is round, write how many spokes it had.
+  *Parent does:* Ask your child to draw the web or take a photo of it, and say how many spokes it had.  
+  *Parent says:* Draw the web, or take a photo of it. A spider spins all of that from silk made inside their own body. Spider silk is one of the toughest threads known.  
+  *Child mode:* Draw the web, or take a photo. If it is round, say how many spokes it had.
   - Note: Round-web spiders seen on Indian balconies and in gardens include the signature spider, which adds a zigzag band of silk to their web. In houses, the cellar spider makes loose webs in corners and hangs upside down in them. Most house and garden spiders are harmless to people, but they should never be handled. For the last question, spider silk is made of protein. The spider makes it in their body from the insects they eat. They push it out as a liquid that hardens into thread.
   - Think: The spider made all this silk inside their own small body. What do you think the silk is made from?
 ### a7 · Five-Arm Fold: the starfish shape (10 min)
-- **record:** Draw your star with all its fold lines. Draw yourself with your one fold line.
+- **record:** Write how many fold lines your star has, and how many your own body has. Mark each fold line on your star with a pencil.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Draw round a tumbler on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Join each dot to the middle circle with two lines. Each pair of lines makes one long thin arm. 5. A grown-up helps cut the star out.  
   *Parent says:* A starfish has five arms, all the same, around a middle. Let's draw one and cut it out.  
@@ -604,7 +604,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **s2 (3 min)**  
   *Parent does:* Fold the star in half along a line from the tip of one arm through the middle. Check whether the halves match. Open it and try the next arm.  
   *Parent says:* Fold it through one arm and the middle. Do the two halves match? Now try through the next arm. How many fold lines work? And how many work for your body?  
-  *Child mode:* Fold your star through one arm and the middle. Do the halves match? Try every arm. Count the fold lines.
+  *Child mode:* Fold your star through one arm and the middle. Do the halves match? Try every arm. Count the fold lines. Then think: how many does your own body have?
   - Check: How is a starfish's body built differently from yours? → **They have five matching parts around a middle**
 - **s3 (3 min)**  
   *Parent does:* Talk about regrowing. Fold one arm of the paper star back under.  
@@ -616,8 +616,8 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 ## Projects
 ### p1 · Bottle Wormery: watch worms mix the soil (60 min, 14 days)
 - **safety:** A grown-up cuts the bottle. Handle worms gently with wet hands, and only for a moment. Wash your hands with soap after touching soil or worms. Keep the wormery out of the sun. After 14 days, put the worms back where you found them, or into a big plant pot or a compost bin.
-- **record:** On each day, draw the bottle and its layers in the same way. At the end, put your drawings in a row and write what the worms did.
-- **schedule:** day 1: Build the wormery in layers of soil and sand. Add leaves and peels. Add the worms. Wrap it in dark cloth. Draw the layers. (25 min); day 3: Unwrap and look. Are the layers still sharp? Draw what you see. Mist the top if it is dry. (5 min); day 7: Look again. Are any leaves pulled down? Are there tunnels against the glass? Draw it. (10 min); day 10: Look and draw. Mist the soil if it is dry. (5 min); day 14: Draw the final layers. Compare all your drawings. Return the worms to the soil where you found them. (15 min)
+- **record:** On each day, take a photo of the bottle from the same side. You can draw it instead. At the end, look at all of them in a row and write what the worms did.
+- **schedule:** day 1: Build the wormery in layers of soil and sand. Add leaves and peels. Add the worms. Wrap it in dark cloth. Take a photo of the layers. (25 min); day 3: Unwrap and look. Are the layers still sharp? Take a photo from the same side. Mist the top if it is dry. (5 min); day 7: Look again. Are any leaves pulled down? Are there tunnels against the glass? Take a photo from the same side. (10 min); day 10: Look and take a photo from the same side. Mist the soil if it is dry. (5 min); day 14: Take a last photo. Compare all your photos. Return the worms to the soil where you found them. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the top off a large bottle. 2. Your child fills it in layers: 4 cm of damp soil, then 2 cm of sand. 3. Repeat soil and sand until the bottle is nearly full. 4. Mist each layer so it is damp, not wet. 5. Put dead leaves and peels on top.  
   *Parent says:* Earthworms mix the soil and pull leaves underground. Let's build a see-through home for them, and watch what they do.  
@@ -628,28 +628,28 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Find a few worms with a grown-up. Wet your hands. Put the worms gently on top. Wrap the bottle in dark cloth.
   - Note: In the monsoon, earthworms are easy to find in damp soil and on wet paths. At other times, many plant nurseries sell compost worms. Compost worms live near the surface, so they mostly mix the top stripes. Soil-digging earthworms mix deeper.
 - **s3 (10 min)**  
-  *Parent does:* Draw the bottle with its stripes, carefully, on day 1.  
-  *Parent says:* Let's draw it now, so we can compare. Draw every stripe exactly as it is.  
-  *Child mode:* Draw your bottle. Draw each stripe clearly. You will compare later.
+  *Parent does:* Take a photo of the bottle on day 1, with every stripe showing. Take each later photo from the same side.  
+  *Parent says:* Let's take a photo now, so we can compare later. Hold the phone in the same place each time.  
+  *Child mode:* Take a photo of your bottle so every stripe shows. You can draw it instead. You will compare later.
   - Ask: What do you think the worms will do to the stripes? (good: Mix them up.; Make tunnels.; Pull the leaves down.)
 - **s4 (20 min)**  
-  *Parent does:* On day 3, 7 and 10, unwrap the bottle, look closely, and draw it again. Mist the top if it is dry.  
+  *Parent does:* On day 3, 7 and 10, unwrap the bottle, look closely, and take another photo from the same side. Mist the top if it is dry.  
   *Parent says:* Look closely against the plastic. Can you see tunnels? Are the stripes still sharp? Are any leaves pulled down?  
-  *Child mode:* Unwrap the bottle. Look for tunnels and mixed stripes. Draw it. Mist it if it is dry.
+  *Child mode:* Unwrap the bottle. Look for tunnels and mixed stripes. Take a photo. Mist it if it is dry.
   - Note: With only a few worms, or with compost worms that stay near the top, the change in two weeks may be small. Tunnels against the plastic and leaves pulled down are the signs to look for. Write down what you really see.
   - Check: Suppose that after a week in the wormery the stripes of soil and sand are blurred and mixed. Who mixed them? → **The earthworms, moving up and down through the soil**
   - Wait: Come back on day 3, day 7 and day 10.
 - **s5 (15 min) · grown-up needed**  
-  *Parent does:* On day 14, draw the bottle one last time. Lay all the drawings in a row. Then return the worms to the soil where you found them.  
-  *Parent says:* Put your drawings in a row, from day 1 to day 14. What changed? Tell me three things: what you think, what you saw, and why.  
-  *Child mode:* Put your drawings in a row. What changed? Say what you think, what you saw and why. Then put the worms back in the soil.
+  *Parent does:* On day 14, take one last photo. Look at all the photos in a row. Then return the worms to the soil where you found them.  
+  *Parent says:* Look at your photos in a row, from day 1 to day 14. What changed? Tell me three things: what you think, what you saw, and why.  
+  *Child mode:* Look at your photos in a row. What changed? Say what you think, what you saw and why. Then put the worms back in the soil.
   - Note: A good answer: What I think: worms mix the soil. What I saw: on day 1 the stripes were sharp, and by day 14 they were blurred, with tunnels and leaves pulled down. Why: worms tunnel and eat soil and leaves, carrying them up and down. This lets air and water into the soil and feeds plants.
   - Wait: Come back on day 14.
 
 ## Challenges
 ### c1 · Armour That Can Grow (30 min)
 - **problem:** Crabs and insects must split their armour to grow, and then they are soft and in danger for a while. Design a suit of armour for a toy, or for your own arm, that can get bigger without being thrown away.
-- **your turn:** Now design your own armour that can grow. Draw it, build it, and test it by slipping a folded cloth under it to 'grow' 2 cm. Does it still cover everything? Does the elbow still bend?
+- **your turn:** Now design your own armour that can grow. Plan it, build it, and test it by slipping a folded cloth under it to 'grow' 2 cm. Does it still cover everything? Does the elbow still bend?
 - **constraints:** The armour must cover the whole arm or toy, with no big gaps.; It must still let the arm bend at the elbow.; It must be able to get at least 2 cm wider around without breaking.; Use only paper, card, tape, string and things from home.
 - **general:** Make overlapping plates, like roof tiles or a woodlouse's back. As the arm grows, the plates slide apart but still overlap.; Make the armour in rings with gaps between them, like the segments of an earthworm or a prawn's tail.; Add a seam with a lace, like a shoe. Loosen the lace as the arm grows.
 - **creative:** A hermit crab does not grow armour at all. They borrow empty snail shells and move into a bigger one when they grow. Could your toy swap armour with a friend?; Snails solve the problem by adding new shell at the open edge. Could you add a new strip at the end of your armour each week?; Real armadillos and pangolins have backbones, but they use overlapping plates or scales. Ask a grown-up to find a picture of a pangolin for ideas.
@@ -658,9 +658,9 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent says:* A crab's armour cannot grow, so they have to break out of it. Can we invent armour that grows with you?  
   *Child mode:* Read the problem: design armour that can grow. Look at how a woodlouse's back is made of plates.
 - **s2 (7 min)**  
-  *Parent does:* Ask your child to draw at least two ideas before building.  
-  *Parent says:* Draw two ideas first. Engineers always draw before they build.  
-  *Child mode:* Draw two ideas for armour that can grow.
+  *Parent does:* Ask your child to show at least two ideas before building. They can draw them or tell them to you.  
+  *Parent says:* Think of two ideas first. Engineers plan before they build.  
+  *Child mode:* Show two ideas for armour that can grow. Draw them, or tell your grown-up.
   - Ask: How will your armour get bigger? (good: The plates slide apart.; I can loosen a lace.; I add a new piece at the end.)
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* Build the best idea from card, paper, tape and string. A grown-up cuts the card.  
@@ -678,7 +678,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Note: There is no single right design. Praise designs that solved one problem well, and ask what a real animal might do instead.
 ### c2 · Crawl Without Legs (30 min)
 - **problem:** An earthworm crawls with no legs and no wheels. Make a model 'worm' that crawls 30 cm across a table, without you pushing the worm directly.
-- **your turn:** Now invent your own worm that moves in a new way. Draw it, build it, and measure how far it moves in 10 tries.
+- **your turn:** Now invent your own worm that moves in a new way. Plan it, build it, and measure how far it moves in 10 tries.
 - **constraints:** No wheels and no legs.; You may pull a string or blow, but you may not push the worm with your fingers.; The worm must be at least 10 cm long.; Use only paper, straws, string, tape, rubber bands, cloth and things from home.
 - **general:** Make an inchworm. Fold a strip of paper into a zigzag. Pull a thread through it to squash it, then let go so it springs out. Tape a little sandpaper or a rubber band under the back end, so it grips while the front slides.; Copy the worm's bristles. Stick short pieces of a toothbrush or stiff paper fringe underneath, all leaning backwards. They slide forwards but catch backwards, so each push moves the worm one way.; Make a sock worm. Put a string through a sock, with a knot at the front. Pull and relax the string. The sock bunches up and stretches out, again and again.
 - **creative:** Scrunch the paper cover of a drinking straw down into a tight wiggly worm. Put it on a plate and add one drop of water. The wet paper swells and opens out, so the worm stretches. A real worm stretches by squeezing the liquid inside, not by soaking it up.; Robot makers build soft robots that move like worms and octopus arms. Some are pumped full of air or liquid and then sealed, like the capped bottles in the Water Bones experiment.; Could your worm move along a tube or a hose, the way a worm moves through soil?
@@ -687,18 +687,18 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent says:* A worm squeezes to stretch forward, then pulls up their back end. Tiny bristles stop them sliding backwards. Can we copy that?  
   *Child mode:* A worm squeezes, stretches, grips and pulls. Can you copy that with paper?
 - **s2 (7 min)**  
-  *Parent does:* Ask your child to draw two ideas before building.  
-  *Parent says:* Draw two ideas. How will your worm move forward and not slide back?  
-  *Child mode:* Draw two ideas. How will your worm grip so the worm does not slide back?
+  *Parent does:* Ask your child to pick two ideas for how the worm will move, from the ideas below or their own. They can say them or sketch them.  
+  *Parent says:* Pick two ideas. How will your worm move forward and not slide back?  
+  *Child mode:* Think of two ideas. Tell your grown-up how each worm would grip so it does not slide back.
 - **s3 (12 min)**  
   *Parent does:* Build the best idea. Test it on a table next to a ruler.  
   *Parent says:* Let's build it and try it. Count how many pulls it takes to go 30 cm.  
   *Child mode:* Build your worm. Try it. Count the pulls to go 30 cm.
   - Check: Why do backward-leaning bristles help a model worm move forward? → **They slide forward easily but catch when pushed backward**
 - **s4 (8 min)**  
-  *Parent does:* Try the straw-wrapper worm too. Then talk about which way worked best.  
+  *Parent does:* Try the straw-wrapper worm too. Scrunch the paper cover of a straw down, put it on a plate and add one drop of water. Then talk about which way worked best.  
   *Parent says:* Which worm went furthest? Which one moved most like a real worm? Why?  
-  *Child mode:* Which worm went furthest? Which one moved most like a real worm?
+  *Child mode:* Try the straw-wrapper worm. Then compare your worms. Which went furthest?
   - Note: Any honest test is good. A worm that went 10 cm, with a clear reason why, is a great result.
 
 ## Worksheets

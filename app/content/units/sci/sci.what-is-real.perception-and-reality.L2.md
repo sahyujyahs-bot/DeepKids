@@ -174,16 +174,16 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 
 ## Games
 ### g1 · Clue Pairs: what is there, and how do we know? (15 min)
-- **rules:** Before you play, draw a small sketch on each card, so a child who cannot read yet can play too.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; If one card is a thing we cannot see, and the other is the clue that tells us it is there, you have a pair. Say why they go together.; If the other players agree that the two cards go together, you keep the pair and have another turn. If you cannot agree, ask a grown-up.; If they are not a pair, turn them back face down. The next player has a turn.; When all the cards are taken, the player with the most pairs wins.
+- **rules:** If a child cannot read yet, a grown-up reads each card aloud.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; If one card is a thing we cannot see, and the other is the clue that tells us it is there, you have a pair. Say why they go together.; If the other players agree that the two cards go together, you keep the pair and have another turn. If you cannot agree, ask a grown-up.; If they are not a pair, turn them back face down. The next player has a turn.; When all the cards are taken, the player with the most pairs wins.
 - **Printable cards: 16 cards to cut out: 8 thing cards and 8 clue cards:** Air inside a balloon (back: Clue Pairs); The balloon is round and fat. (back: Clue Pairs); Wind outside (back: Clue Pairs); Clothes on the balcony line are flapping. (back: Clue Pairs); A pressure cooker in the next flat (back: Clue Pairs); You hear a whistle through the wall. (back: Clue Pairs); Jasmine flowers in the next room (back: Clue Pairs) [picture]; A sweet smell comes through the door. (back: Clue Pairs); Rain in the night (back: Clue Pairs); The road is wet in the morning. (back: Clue Pairs); Air inside an 'empty' bottle (back: Clue Pairs); A bubble comes out when you tip the bottle under water. (back: Clue Pairs); A koel hidden in a tree (back: Clue Pairs) [picture]; You hear 'koo-oo, koo-oo' from the leaves. (back: Clue Pairs); Someone frying vadas in the kitchen (back: Clue Pairs); You hear sizzling and smell hot oil. (back: Clue Pairs)
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the 16 cards together. 2. Draw a small sketch on each one. 3. Lay them face down in 4 rows of 4.  
-  *Parent says:* Each card is either a thing we cannot see, or a clue that tells us it is there. Let's draw on them first.  
-  *Child mode:* Cut out the cards. Draw a sketch on each one. Lay them face down.
+  *Parent does:* 1. Cut out the 16 cards together. 2. Lay them face down in 4 rows of 4.  
+  *Parent says:* Each card is either a thing we cannot see, or a clue that tells us it is there. Let's cut them out and lay them down.  
+  *Child mode:* Cut out the cards. Lay them face down in 4 rows of 4.
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns. 2. Each player turns over two cards and reads them aloud. 3. Ask why a pair goes together, and let the other players say if they agree.  
   *Parent says:* Is that a thing and its clue? Why do they go together?  
-  *Child mode:* Turn two cards. Is it a thing and its clue? Say why.
+  *Child mode:* Turn over two cards and read them. Do they go together? Say why.
   - Note: Some clue cards could fit more than one thing. That is a good thing to talk about. If players cannot agree, decide together which clue fits best.
 - **s3 (2 min)**  
   *Parent does:* 1. Count the pairs. 2. Ask the question below.  
@@ -195,7 +195,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - **Printable cards: 12 scene cards, with the answer on the back:** You open the fridge and it is full of stars. (back: Dream sign: fridges hold food, not stars.); Your school bag talks to you in your teacher's voice. (back: Dream sign: bags cannot talk. (Check: is there a phone inside?)); You read the clock: 7 o'clock. You look again: 3 o'clock. (back: Dream sign. When you are awake, a clock moves on by one minute, not by four hours.); You flap your arms and float up over Kochi. (back: Dream sign: arms cannot lift a person into the air.); Your classroom turns into your aunt's kitchen. (back: Dream sign: rooms do not change into other rooms.); An elephant fits in your pocket. (back: Dream sign: an elephant is far too big for a pocket.); Rain starts, and soon the road is wet. (back: Awake: this happens every monsoon.); You drop a steel tumbler and it clangs on the floor. (back: Awake: you can drop it again and hear the same clang.); A crow takes a piece of your dosa from the windowsill. (back: Awake: crows do this a lot.) [picture]; A neighbour rings the bell with sweets for Pongal. (back: Awake: this can really happen.); On a hot day you see a puddle on the road ahead, but when you get there it is dry. (back: Awake: this is a mirage. Hot air bends light from the sky, so the road looks wet.); You press the light switch again and again, and the light stays off. (back: Check again: it could be a dream, or a power cut. Is the fan off too?)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Explain the three answers: dream sign, awake, check again.  
-  *Parent says:* A dream sign is something that could only happen in a dream. 'Check again' means you need another test first.  
+  *Parent says:* A dream sign is something that could only happen in a dream. Awake means it could really happen. 'Check again' means you need another test first.  
   *Child mode:* Cut out the cards. Learn the three answers: dream sign, awake, check again.
 - **s2 (8 min)**  
   *Parent does:* 1. Take turns reading cards. 2. Each player gives an answer and a reason. 3. Turn the card over to check.  
@@ -205,7 +205,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - **s3 (2 min)**  
   *Parent does:* 1. Count the cards. 2. Ask the question below.  
   *Parent says:* Which card was hardest? What would you check if you were not sure?  
-  *Child mode:* Count your cards. Which was hardest? What would you check?
+  *Child mode:* Count your cards. Which one was hardest?
   - Check: You press the light switch and the light stays off. What should you check? → **Whether the fan and other lights are off too**
 
 ## Experiments
@@ -222,8 +222,8 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   - Note: Record each sound as its own short clip, so you can play any one quickly. Play them back once to check they are clear. Keep the water well away from the phone.
 - **s2 (2 min)**  
   *Parent does:* 1. Shuffle the 8 slips face down and put them in a pile. 2. Ask for a guess and a reason.  
-  *Parent says:* You will hear 8 sounds. Four will be real and four will be the phone. How many do you think you will get right? Which sound will be hardest? Why do you think so?  
-  *Child mode:* How many will you get right? Which sound will be hardest? Say why.
+  *Parent says:* You will hear 8 sounds. Four will be real and four will be the phone. How many do you think you will get right? Which sound will be hardest?  
+  *Child mode:* Guess how many of the 8 sounds you will get right. Which sound will be hardest?
   - Ask: Why do you think that sound will be the hardest? (good: The newspaper sounds the same on a phone.; The voice will be easy, because I know your real voice.; The door makes everything sound soft.)
   - Note: Write the guess and the reason down, word for word. Don't say whether it is likely to be right.
 - **s3 (6 min)**  
@@ -233,7 +233,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   - Note: Use each sound once as real and once as phone, so keep a note of which you have used. Make the same small movements every time, so a rustle or a footstep gives nothing away. Set the phone's loudness so it sounds about as loud as the real thing.
 - **s4 (2 min)**  
   *Parent does:* 1. Open the door. 2. Read out the slips in order: real or phone, and which sound. 3. Your child ticks each right guess and counts the ticks.  
-  *Parent says:* Let's check. Turn one was the spoon on the tumbler, and it was real. Did you write R? How many did you get right altogether?  
+  *Parent says:* Let's check. Look at turn one. Was it real or the phone, and which sound? Did you write the same letter? How many did you get right altogether?  
   *Child mode:* Open the door. Tick the ones you got right. Count your ticks.
   - Ask: Which sound fooled you, or nearly fooled you? (good: The newspaper on the phone sounded real.; The pouring water was hard.; None fooled me, but the voice was close.)
 - **s5 (3 min)**  
@@ -242,16 +242,16 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Child mode:* Now you make the sounds. Your grown-up guesses. Shuffle the slips first.
   - Note: Help your child play the right clip if needed, quietly through the door. It is fine if a grown-up gets fooled. That is part of the result.
 - **s6 (2 min)**  
-  *Parent does:* 1. Ask what your child thinks now. 2. Ask what they heard. 3. Ask why it happened.  
-  *Parent says:* When the phone played the tumbler, was there a real sound? Was there a tumbler clinking? How did you find out what made each sound?  
-  *Child mode:* Was the phone's sound real? Was a tumbler clinking? How did you find out?
+  *Parent does:* 1. Ask about a sound the phone played. 2. Ask how your child found out what made each sound. 3. Then ask the question below.  
+  *Parent says:* Think about a time the phone played the tumbler. Was a tumbler really clinking in the room? How did you find out what made each sound?  
+  *Child mode:* Think about a sound the phone played. Was the tumbler really there?
   - Ask: How did you find out what really made each sound? (good: We opened the door and looked.; We checked the slips.; I could not tell by ears alone. I had to look.)
   - Check: When the phone played the clinking tumbler, what reached your ears? → **A real sound, made by the phone's speaker vibrating**
 ### e2 · My Dream Notebook: are my dreams made from my own days? (30 min, 6 days)
 - **question:** Are your dreams made of new things, or of people, places and things from your own days? Do you know you are dreaming while you dream?
 - **predict:** Over five mornings, will most things in your dreams come from your own life, or will most be new? Will you know you were dreaming, while you were in the dream? Why do you think so?
 - **fair test:** Every morning is done the same way. You tell the dream before you get out of bed, and before anyone talks about anything else, because dreams fade fast. The grown-up writes down exactly what you say. Then you sort each thing in the dream with the same two questions every day.
-- **record:** For each morning, write whether you remembered a dream. Draw the dream. Under it, make two lists: things from my own days, and new things. Tick yes or no for 'Did I know it was a dream while I was in it?'
+- **record:** For each morning, write whether you remembered a dream. Your grown-up writes down the dream as you tell it. Under it, make two lists: things from my own days, and new things. Tick yes or no for 'Did I know it was a dream while I was in it?'
 - **results table:** Morning | Did I remember a dream? | Things from my own days | New things | Did I know it was a dream while I was in it?
 - **schedule:** day 1: In the evening, make the dream notebook. Draw a table for five mornings. Put it beside the bed. (6 min); day 2: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 3: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 4: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 5: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 6: Tell any dream, write it and sort the things in it for the last time. Then count everything up and say what you found. (8 min)
 - **s1 (6 min)**  
@@ -268,7 +268,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   - Wait: Do this every morning for five mornings
 - **s3 (2 min)**  
   *Parent does:* 1. Read the dream back. 2. For each person, place or thing in it, ask: 'Have you seen this in your own days?' 3. Write it in one of the two lists.  
-  *Parent says:* Your dream had a bus full of cats. Have you been on a bus this week? Have you seen cats? Which list does each one go in?  
+  *Parent says:* Say your dream had a bus full of cats. Have you been on a bus this week? Have you seen cats? Which list does each one go in?  
   *Child mode:* Look at each thing in your dream. Is it from your days, or new?
   - Note: A thing counts as 'from my days' if your child has really seen, done or heard about it. A mix, such as a talking cat, can go in both lists: cats from your days, talking as new.
 - **s4 (4 min)**  
@@ -277,33 +277,33 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Child mode:* Count your two lists. Which list is longer? Did you know you were dreaming?
   - Ask: What were your dreams mostly made of? (good: Mostly things from my days, mixed up.; Mostly new things.; People I know, in strange places.)
   - Note: Most children find that most things in their dreams come from their own life, mixed up in strange ways, and that they rarely knew they were dreaming. If your child remembered no dreams at all, keep the notebook for a few more mornings.
-  - Check: The scientist Mary Calkins wrote her dreams down as soon as she woke. Why? → **Dreams fade fast after waking**
+  - Check: Why is it best to write a dream down as soon as you wake up? → **Dreams fade fast after waking**
 
 ## Activities
 ### a1 · Was It Real? Talk about a dream (6 min)
-- **record:** Draw one picture from the dream. Under it, write or say one word for how it felt.
+- **record:** Write or say one word for how the dream felt. You can also draw one picture from it, if you like.
 - **s1 (3 min)**  
-  *Parent does:* 1. Ask your child to tell a dream they remember. 2. If they remember none, tell one of your own dreams. 3. Ask the two questions below.  
-  *Parent says:* Tell me a dream you remember. While you were in it, did you know it was a dream? What made it feel real?  
-  *Child mode:* Tell a dream you remember. Did you know it was a dream? What made it feel real?
+  *Parent does:* 1. Ask your child to tell a dream they remember. 2. If they remember none, tell one of your own dreams. 3. Ask the question below.  
+  *Parent says:* Tell me a dream you remember. While you were in it, did you know it was a dream?  
+  *Child mode:* Tell a dream you remember. Did you know it was a dream while you were in it?
   - Ask: What made it feel real? (good: I could see everything.; I was really scared.; I could hear people talking.)
 - **s2 (3 min)**  
-  *Parent does:* 1. Ask how your child found out it was a dream. 2. Ask your child to draw one picture from it.  
+  *Parent does:* 1. Ask how your child found out it was a dream. 2. Ask your child to say in one word how the dream felt.  
   *Parent says:* How did you find out it was a dream? What was different when you woke up?  
-  *Child mode:* How did you know it was a dream? Draw one picture from it.
+  *Child mode:* Say in one word how the dream felt. You can draw it too, if you like.
   - Ask: How did you find out it was a dream? (good: I woke up in my bed.; The tiger was not there.; My friend did not remember it.)
-  - Note: Don't explain dreams yet. The unit comes back to your child's answers later. Keep the drawing for the dream notebook.
+  - Note: Don't explain dreams yet. The unit comes back to your child's answers later.
 ### a2 · Real, Pretend or Puzzling? A sorting mat (10 min)
-- **record:** Draw the three circles and what you put in each one.
+- **record:** Take a photo of the three circles with the things in them, or write down what went in each one.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw three big circles and label them Real, Pretend and Puzzling. 2. Your child puts each of the eight things into a circle. 3. For each one, ask why.  
-  *Parent says:* Put each thing in a circle. Is it real, pretend, or puzzling? Why did you put it there?  
+  *Parent says:* Put each thing in a circle. Real means it is really there. Pretend means it is made up. Puzzling means you are not sure. Why did you put it there?  
   *Child mode:* Put each thing in a circle: real, pretend or puzzling. Say why.
   - Note: There are no wrong places. The reasons matter more than the circles.
 - **s2 (5 min)**  
   *Parent does:* 1. Ask about the balloon, the photo and the cartoon. 2. For every thing, ask: 'How could you check?'  
-  *Parent says:* What is inside the balloon? Are the people in the photo really inside it? Is the cartoon tiger real? How could you check each one?  
-  *Child mode:* What is in the balloon? Are the people in the photo? How could you check?
+  *Parent says:* What is inside the balloon? Are the people in the photo really inside the paper? Is the cartoon tiger real? How could you check each one?  
+  *Child mode:* Look at the balloon, the photo and the cartoon. Are they what they seem? How could you check?
   - Ask: What is inside the balloon? (good: Air. I can't see it, but the balloon is fat.; Nothing.; My breath.)
   - Note: Good thinking sounds like: 'the photo is real paper, but the people are not in it'. The balloon holds real air that we cannot see. The cartoon is real pictures shown fast, of a pretend tiger.
 ### a3 · Heard, Not Seen: what made that sound? (10 min)
@@ -325,34 +325,34 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - **s1 (2 min)**  
   *Parent does:* 1. Your child reads the word on the card and the time on the clock. 2. They turn away for five seconds. 3. They look back and read both again.  
   *Parent says:* Read the word and the time. Now turn away and count to five. Look back. Are they the same?  
-  *Child mode:* Read the word and the time. Turn away. Look back. Are they the same?
+  *Child mode:* Read the word and the time. Turn away and count to five. Look back.
   - Ask: Did the word change? (good: No, it still says MANGO.; The clock moved on by a minute at most.)
 - **s2 (3 min)**  
-  *Parent does:* 1. Explain the dream check. 2. Ask the question below.  
+  *Parent does:* 1. Explain the dream check. 2. Ask what they would check.  
   *Parent says:* People who have noticed they were dreaming often say that, in the dream, words and clocks changed when they looked again. Awake, the word stays the same. What would you check tonight, if you thought you were dreaming?  
   *Child mode:* In dreams, words and clocks may change. When you are awake, they stay the same. What would you check?
   - Note: This is what people report about their own dreams, not a proven rule. Some people learn to notice their dreams this way. Scientists call that a lucid dream.
 
 ## Projects
 ### p1 · My Book of Real Things I Cannot See (32 min, 4 days)
-- **record:** Each page has a drawing, the name of the thing, and one sentence: 'I know it is there because…'
-- **schedule:** day 1: Air page: blow up a balloon. Draw it. Write the clue that tells you air is inside. (8 min); day 2: Sound page: tap a tumbler with a spoon. Draw the tumbler with shake lines. Write what reached your ears. (8 min); day 3: Smell page: crush two elaichi pods in a cup, cover it with a plate, then stand three big steps away. Lift the plate and notice when the smell reaches you. Draw where the smell travelled. (8 min); day 4: Dream page: draw a dream. Write one way it was real and one way it was not. (8 min)
+- **record:** Each page has the name of the thing and one sentence: 'I know it is there because…'. On the smell page, draw how the smell travelled, or tell it and your grown-up writes it.
+- **schedule:** day 1: Air page: blow up a balloon. Write the clue that tells you air is inside. (8 min); day 2: Sound page: tap a tumbler with a spoon. Touch the rim while it rings. Write what you felt and what reached your ears. (8 min); day 3: Smell page: crush two elaichi pods in a cup, cover it with a plate, then stand three big steps away. Lift the plate and notice when the smell reaches you. Draw where the smell travelled, or tell it to your grown-up. (8 min); day 4: Dream page: pick a dream and tell it. Write one way it was real and one way it was not. (8 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Make the book together. 2. Blow up the balloon and tie it. 3. Your child draws it and writes the clue.  
+  *Parent does:* 1. Make the book together: fold the four sheets in half and tie or staple them. Write the title on the cover. 2. Blow up the balloon and tie it. 3. Your child writes the clue, or says it and you write it.  
   *Parent says:* We cannot see air. What tells us it is inside the balloon?  
-  *Child mode:* Blow up the balloon. Draw it. Write how you know air is inside.
+  *Child mode:* Blow up the balloon. Write how you know air is inside.
 - **s2 (8 min)**  
-  *Parent does:* 1. Your child taps the tumbler with the spoon. 2. They touch the rim lightly while it rings. 3. They draw and write.  
+  *Parent does:* 1. Your child taps the tumbler with the spoon. 2. They touch the rim lightly while it rings. 3. They write what they felt.  
   *Parent says:* Touch the rim while it rings. What do you feel? What reached your ears?  
-  *Child mode:* Tap the tumbler. Touch the rim. Draw it. Write what you felt.
+  *Child mode:* Tap the tumbler. Touch the rim while it rings. Write what you felt.
 - **s3 (8 min)**  
   *Parent does:* 1. Crush two elaichi pods (or rub a piece of lemon peel) and put them in a cup. Cover it with a plate. 2. Your child stands three big steps away. 3. Lift the plate. 4. Your child says 'now' when the smell reaches them. If it takes long, move a step closer. 5. After your child has answered, say: Tiny bits of the elaichi spread through the air until they reach your nose. That is how a smell travels.  
   *Parent says:* You cannot see the smell. How did it reach your nose?  
-  *Child mode:* Stand three steps away. Say 'now' when the smell reaches you. Draw how the smell came to you.
+  *Child mode:* Stand three steps away. Say 'now' when the smell reaches you. Then draw how the smell came to you, or tell your grown-up.
 - **s4 (8 min)**  
-  *Parent does:* 1. Your child draws a dream from the dream notebook, or any dream. 2. They write one way it was real and one way it was not.  
+  *Parent does:* 1. Your child picks a dream from the dream notebook, or any dream, and tells it. 2. They write one way it was real and one way it was not.  
   *Parent says:* The feeling in your dream was real. Was the thing in it really there? How do you know?  
-  *Child mode:* Draw a dream. Write one way it was real, and one way it was not.
+  *Child mode:* Pick a dream. Write one way it was real, and one way it was not.
 
 ## Challenges
 ### c1 · Prove the Bottle Is Not Empty (20 min)
@@ -375,7 +375,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Parent does:* 1. Show your evidence to someone else. 2. Ask what they think is inside now.  
   *Parent says:* What does your evidence show? Did the other person change their mind?  
   *Child mode:* Show someone your evidence. Ask what they think now.
-  - Check: Why did a bubble come out when you tipped the bottle under water? → **Air was inside, and water pushed it out**
+  - Check: In the bucket test, why does a bubble come out when you tip the bottle under water? → **Air was inside, and water pushed it out**
 
 ## Worksheets
 ### Real Sounds, Real Air, Real Dreams? (core) (core, 10 questions)

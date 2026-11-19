@@ -535,7 +535,7 @@
    "title": "True or Tall Tale?",
    "mins": 20,
    "players": "2 or more players",
-   "context": "This is a card game about animal minds. Each card says something about what an animal can do. Players decide whether it is true, with evidence, or a tall tale.",
+   "context": "This is a card game about animal minds. Each card says something about what an animal can do. You will find out which things people say about animals have really been tested. Players decide whether each one is true, with evidence, or a tall tale.",
    "printables": [
     {
      "kind": "cards",
@@ -699,7 +699,7 @@
      "kind": "tokens",
      "title": "Evidence tokens",
      "items": [
-      "Cut about 40 small paper circles and draw a magnifying glass on each. If the tokens run out, keep score with tally marks."
+      "Cut about 40 small paper circles. Dried beans or coins work too. If the tokens run out, keep score with tally marks."
      ]
     }
    ],
@@ -731,8 +731,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the TRUE and TALL TALE mats on the floor. 2. Shuffle the 22 cards and put them face down. 3. Put the tokens in a bowl. 4. Have three cups and a coin ready for the first TEST IT card.",
-     "say": "Each card says something about an animal's mind. Some are true, and scientists have tested them. Some are tall tales that people believe, but tests showed they are wrong.",
-     "kid": "Put the two mats down: TRUE and TALL TALE. Mix up the cards. Put them face down. For each card, decide: true, or a tall tale?",
+     "say": "Each card says something about an animal's mind. Some are true, and scientists have tested them. Some are tall tales that people believe, but tests showed they are wrong. Evidence means what a test or careful watching showed.",
+     "kid": "Help lay out the two mats and the cards. Then you decide for each card: true, or a tall tale?",
      "context": "This is the first step of True or Tall Tale?, a card game about what animals can really do. Here you set up the game."
     },
     {
@@ -740,7 +740,7 @@
      "mins": 3,
      "do": "Take the card 'A goldfish forgets everything after three seconds'. Play it as a practice round, then put it back at the bottom of the pile.",
      "say": "Let's practise with one card. 'A goldfish forgets everything after three seconds.' True, or tall tale?",
-     "kid": "Practice card: a goldfish forgets everything after three seconds. True or tall tale? Say your answer.",
+     "kid": "Listen to the card. Say your answer, and why you think so.",
      "ask": [
       {
        "q": "How could you test a goldfish's memory?",
@@ -773,7 +773,7 @@
       "t": "mcq",
       "q": "Card: 'A horse called Hans really could do sums.' What is the truth?",
       "options": [
-       "True: he tapped the right answers",
+       "True: he really did the sums",
        "Tall tale: he read tiny changes in people's faces",
        "True, but only for small numbers"
       ],
@@ -797,7 +797,7 @@
      "mins": 2,
      "do": "Count the tokens. Then ask your child for one claim, one piece of evidence and one reason.",
      "say": "Pick one true card. What does it show? What is the evidence? Why does that evidence make it true?",
-     "kid": "Count your tokens! Then pick one true card. Say what it shows, and how we know.",
+     "kid": "Count your tokens. Then pick one true card and tell it to your grown-up.",
      "parent": "A good answer sounds like this. What I think: crows remember faces. Evidence: crows scolded the mask for years. Why: they must have kept the face in memory.",
      "context": "This is the last step of True or Tall Tale?. It ends with the child saying what they think, what the evidence is, and why."
     }
@@ -869,7 +869,7 @@
      "mins": 8,
      "do": "Play three rounds, with every player making one face in each round. Round one: face and body. Round two: face only. Round three: body only, face turned away.",
      "say": "Round one, use your whole body. Round two, only your face. Round three, turn your face away and use only your body.",
-     "kid": "Round one: face and body. Round two: face only. Round three: body only. Which is hardest?",
+     "kid": "Take turns showing feelings in each round. Guess as fast as you can.",
      "check": {
       "t": "mcq",
       "q": "In Read My Face, which round is usually hardest to guess?",
@@ -971,7 +971,7 @@
      "what": "Guess how many pieces each will need. Then test big stones, small stones and thermocol. Count and write down the numbers. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart with one bar for each thing you dropped in.",
+   "record": "Fill in the table. Then draw a bar chart with one bar for each thing you dropped in, or tell your grown-up which took the fewest.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how many objects it took to raise the water to the line",
@@ -1015,7 +1015,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Fill the glass with water until it is about 4 cm below the top. 2. Put a strip of tape at the water level. This is the starting line. 3. Put a second strip 2 cm higher, about two finger-widths. This is the top line. 4. Float the thermocol 'worm' on the water.",
-     "say": "Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. A crow's beak can only reach as far as the top line.",
+     "say": "Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. When the water brings the worm up to the top line, the crow can reach it.",
      "kid": "Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the piece of thermocol on the water. This is the 'worm'. Can you bring the worm up to the top line?",
      "parent": "Use a glass about 6 to 7 cm across. In a wider glass the water rises too slowly, and you will need many more stones. A steel tumbler works too, but a clear glass lets you see the water rise.",
      "context": "This is the first step of the thirsty crow test. You set up a glass of water with a floating 'worm' to raise."
@@ -1024,8 +1024,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask your child to guess how many of each thing they will need. Write the guesses in the table.",
-     "say": "Which do you think will need the fewest: big stones, small stones or thermocol? Why do you think so? Let's write our guesses down first.",
-     "kid": "Guess first. How many big stones? How many small stones? How many bits of thermocol? Why?",
+     "say": "Which do you think will need the fewest: big stones, small stones or thermocol? Let's write our guesses down first.",
+     "kid": "Guess how many big stones, small stones and bits of thermocol it will take.",
      "ask": [
       {
        "q": "Why do you think that one will need the fewest?",
@@ -1063,7 +1063,7 @@
      "mins": 5,
      "do": "Help your child draw a bar chart of the numbers, with one bar for each thing.",
      "say": "Let's turn our numbers into a picture. A short bar means it only took a few. The thermocol never got there, so we stop its bar at 20 and write 'never reached'. Which bar is shortest?",
-     "kid": "Draw one bar for each thing. A short bar means it took only a few. Which bar is shortest?",
+     "kid": "Draw one bar for each thing, or just say which took the fewest. A short bar means it took only a few.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: how many objects it took to raise the water to the line",
@@ -1153,7 +1153,7 @@
      "what": "Play 10 rounds with a helper who knows, then (if a third person can help) 10 rounds with a helper who does not know. Compare."
     }
    ],
-   "record": "Fill in the table. Draw two bars: one for 'helper knows' and one for 'helper does not know'.",
+   "record": "Fill in the table. Draw two bars, one for 'helper knows' and one for 'helper does not know', or say which score was higher.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: right guesses out of 10 in the Clever Hans test",
@@ -1231,7 +1231,7 @@
      "mins": 2,
      "do": "Draw two bars, one for each round. Compare them with your guesses.",
      "say": "Let's draw our two scores as bars. Was there a difference? Was it big?",
-     "kid": "Draw two bars. One for 'helper knows'. One for 'blind'. Which is taller?",
+     "kid": "Draw two bars, or just say which score is higher. One is 'helper knows'. One is 'blind'.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: right guesses out of 10 in the Clever Hans test",
@@ -1307,7 +1307,7 @@
      "what": "Play 10 tries with pointing and 10 without. Count and compare."
     }
    ],
-   "record": "Fill in the table. Draw two bars: one for 'pointing' and one for 'no pointing'.",
+   "record": "Fill in the table. Draw two bars, one for 'pointing' and one for 'no pointing', or say which score was higher.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: times the dog chose the bowl with the treat, out of 10",
@@ -1388,7 +1388,7 @@
      "mins": 5,
      "do": "Draw two bars. Then talk about what scientists found.",
      "say": "Brian Hare and his team found that most pet dogs follow pointing. In India, Anindita Bhadra's team at IISER Kolkata found that many street dogs follow pointing too, even though nobody trained them. What did our dog do?",
-     "kid": "Draw two bars: pointing and no pointing. Most dogs follow pointing. Did yours? Say what you think, what you saw and why.",
+     "kid": "Draw two bars, pointing and no pointing, or just say which score was higher. Most dogs follow pointing. Did yours?",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: times the dog chose the bowl with the treat, out of 10",
@@ -1421,10 +1421,10 @@
    "title": "Play Spotters",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you watch animals for signs of play. Play is doing something just for fun when you are safe. You count each sign you see.",
+   "context": "In this activity you watch animals for signs of play. Play is doing something just for fun when you are safe. You will find out which play signs you see most. You count each sign.",
    "materials": [
     {
-     "item": "a paper with the play signs drawn on it, and a pencil",
+     "item": "a paper with the five play signs listed on it, and a pencil",
      "qty": 1
     },
     {
@@ -1444,7 +1444,7 @@
    "setup": [
     {
      "art": "A sheet of paper with five small drawings: a dog doing a play bow, two animals chasing, a jump and twist, an animal tossing a stick, and two animals wrestling gently.",
-     "caption": "1. Draw the five play signs on a sheet."
+     "caption": "1. List the five play signs on a sheet. Act each one out."
     },
     {
      "art": "A child sitting at a balcony grill watching two palm squirrels chase each other along a ledge, a grown-up beside them.",
@@ -1459,9 +1459,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw the five play signs with your child: play bow, chasing, jumping and twisting, tossing a stick, gentle wrestling.",
-     "say": "Play has signs. A play bow means 'let's play'. Chasing, jumping just for fun, tossing a stick and gentle wrestling are signs too. Let's draw them.",
-     "kid": "Draw five play signs. A play bow. Chasing. Jumping for fun. Tossing a stick. Gentle wrestling.",
+     "do": "List the five play signs on a sheet and act each one out with your child: play bow, chasing, jumping and twisting, tossing a stick, gentle wrestling.",
+     "say": "Play has signs. In a play bow, a dog stretches their front legs out with their bottom up. It means 'let's play'. Chasing, jumping just for fun, tossing a stick and gentle wrestling are signs too. Let's act them out.",
+     "kid": "Act out the five play signs with your grown-up. A play bow. Chasing. Jumping for fun. Tossing a stick. Gentle wrestling.",
      "context": "This is the first step of Play Spotters, where you watch animals for signs of play."
     },
     {
@@ -1562,7 +1562,7 @@
      "wait": "Do this the next day.",
      "check": {
       "t": "mcq",
-      "q": "In Be a Jay, you had to find 8 groundnuts after one day. A Clark's nutcracker finds a lot of their many thousands of seeds months later. What does this show?",
+      "q": "A Clark's nutcracker finds many of their hidden seeds months later. What does this show?",
       "options": [
        "Birds have no memory, they just get lucky",
        "Some birds have amazing memories for places",
@@ -1577,7 +1577,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about how your child remembered.",
-     "say": "Which ones did you find first? How did you remember? Did you use the furniture as clues?",
+     "say": "Which ones did you find first? How did you remember?",
      "kid": "How did you remember? Did you use landmarks, like the sofa or the door?",
      "think": "Scrub jays remember what they hid, where they hid it, and when. In this game you only had to remember where. How could you change the game so that you must remember what you hid as well?",
      "context": "This is the last step of Be a Jay. The child explains how they remembered.",
@@ -1628,7 +1628,7 @@
      "id": "s1",
      "mins": 2,
      "do": "Explain the game. The learner leaves the room while the trainer picks a secret action, like 'put the spoon on the chair'.",
-     "say": "This is how dog and dolphin trainers teach. Karen Pryor, an American dolphin trainer, made this game famous in her book Don't Shoot the Dog in 1984. No words allowed, only claps.",
+     "say": "Dog and dolphin trainers teach this way. They clap or click when the animal gets a little closer. In this game, no words are allowed, only claps.",
      "kid": "Go out of the room for a minute. We will choose a secret action. You must find it. The only clue is a clap.",
      "context": "This is the first step of the Training Game, a game about how animals learn with rewards."
     },
@@ -1671,7 +1671,7 @@
    "context": "Dogs read our faces. In this activity you learn to read a dog's face and body, so you can tell if they are happy, scared or angry. This also keeps you safe near dogs.",
    "materials": [
     {
-     "item": "4 sheets of paper and a pencil, to draw four dogs: relaxed, playful, scared, angry",
+     "item": "4 sheets of paper and a pencil, to name the four dog moods: relaxed, playful, scared, angry",
      "qty": 4
     },
     {
@@ -1684,14 +1684,14 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw the four dog moods. Then look at photos or watch a dog."
+     "what": "Act out the four dog moods. Then sort photos or watch a dog."
     }
    ],
-   "record": "Keep your four dog drawings. Label the tail, ears and mouth on each.",
+   "record": "Take a photo of your four mood sheets with the dog photos on them. Tell your grown-up what the tail, ears and mouth show for each mood.",
    "setup": [
     {
      "art": "Four dog drawings in a row: relaxed with a loose tail and soft eyes, playful in a play bow, scared with a tucked tail and flat ears, angry with stiff legs and teeth showing.",
-     "caption": "1. Draw the four dog moods: relaxed, playful, scared, angry."
+     "caption": "1. Learn the four dog moods: relaxed, playful, scared, angry."
     },
     {
      "art": "A child sorting dog photos into four piles on a mat.",
@@ -1706,17 +1706,17 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Draw four dogs together, one on each sheet. Relaxed: loose wagging tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff body, stiff tail, teeth showing. Point out the tail, ears, eyes and mouth on each.",
-     "say": "Dogs read our faces. We can read theirs too. Look at the tail, the ears, the eyes and the mouth.",
-     "kid": "Draw four dogs. Relaxed: loose tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff, teeth showing. Which dog is scared?",
+     "do": "Write one mood on each of four sheets: Relaxed, Playful, Scared, Angry. Let your child act out each dog. Relaxed: loose wagging tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff body, stiff tail, teeth showing. Point out the tail, ears, eyes and mouth each time.",
+     "say": "Dogs read our faces. We can read theirs too. Look at the tail, the ears, the eyes and the mouth. Now act out each dog.",
+     "kid": "Act out each dog with your body. Relaxed: loose tail, soft ears. Playful: front legs down, tail up. Scared: tail tucked, ears flat. Angry: stiff, teeth showing.",
      "context": "This is the first step of Reading a Dog. You learn four dog moods from tails, ears and faces."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Look at dog photos, or watch your own dog, and name each mood. Match each to one of your drawings.",
+     "do": "Look at dog photos, or watch your own dog. Put each photo on the sheet for its mood.",
      "say": "What do you think this dog is feeling? What tells you?",
-     "kid": "Look at each dog. Name their mood. What told you?",
+     "kid": "Look at each dog. Which mood sheet does it go on? What told you?",
      "check": {
       "t": "mcq",
       "q": "A dog has their tail tucked between their legs and their ears flat back. What are they probably feeling?",
@@ -1774,7 +1774,7 @@
      "what": "Line up the brain-sized objects. Guess which animal is cleverest. Learn about neurons."
     }
    ],
-   "record": "Draw the line-up. Write the animal next to each object.",
+   "record": "Take a photo of your line-up. Say which animal goes with each object.",
    "setup": [
     {
      "art": "A sesame seed, a walnut, a lemon and a cauliflower in a row on a steel plate, getting bigger from left to right.",
@@ -1823,7 +1823,7 @@
      "mins": 2,
      "do": "Ask your child what they now think.",
      "say": "Is the biggest brain the cleverest? What do you think now, and why?",
-     "kid": "Is bigger always cleverer? What do you think now? Why?",
+     "kid": "Tell your grown-up what you think now, and why.",
      "parent": "A good answer: 'What I think: bigger isn't always cleverer. What I saw: the crow's brain is a walnut, but crows make hooks. Why: crows pack in lots of neurons.'",
      "context": "This is the last step of Brain Line-up. The child says what they now think about brain size."
     }
@@ -1835,7 +1835,7 @@
    "title": "Mirror, Mirror: who is that?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you try the mirror test on yourself. It is a famous test of whether an animal knows the animal in the mirror is themself.",
+   "context": "In this activity you try the mirror test on yourself. You will find out how scientists check whether an animal knows the face in the mirror is their own.",
    "materials": [
     {
      "item": "a mirror",
@@ -1854,7 +1854,7 @@
      "what": "Put a sticker on your forehead without looking. Use the mirror to find it. Talk about animals and mirrors."
     }
    ],
-   "record": "Draw yourself in the mirror with the sticker. Write which animals passed the test.",
+   "record": "Say what you did when you saw the sticker. Write which animals passed the test.",
    "setup": [
     {
      "art": "A grown-up gently putting a small round sticker on a child's forehead while the child's eyes are shut.",
@@ -1874,8 +1874,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Ask your child to shut their eyes. Put the sticker on their forehead. Then let them look in the mirror.",
-     "say": "Shut your eyes. I'm putting a tiny sticker on your face. Now open your eyes and look in the mirror. What do you do?",
-     "kid": "Shut your eyes. A sticker goes on your face. Now look in the mirror. Where is it?",
+     "say": "Shut your eyes. I'm putting a tiny sticker on your forehead. Now open your eyes and look in the mirror. What do you do?",
+     "kid": "Look in the mirror. Where do you touch to find the sticker?",
      "context": "This is the first step of Mirror, Mirror, a try-it-yourself version of the mirror test."
     },
     {
@@ -1916,7 +1916,7 @@
    "title": "Crow Friends: will the crows learn you?",
    "mins": 53,
    "days": 7,
-   "context": "In this 7-day project you put out a little plain rice at the same place and time each day, wearing the same cap. You time how long the first crow takes to come. Crows are quick learners, so watch if they start waiting for you.",
+   "context": "In this 7-day project you find out whether crows learn who feeds them. Each day you put out a little plain rice at the same place and time, wearing the same cap. You time how long the first crow takes to come.",
    "materials": [
     {
      "item": "a steel plate",
@@ -2018,7 +2018,7 @@
      "mins": 8,
      "do": "On day 7, draw a line chart with a dot for each day's minutes, joined by a line.",
      "say": "Let's draw our week. Each dot is one day. If the line goes down, the crows came quicker each day.",
-     "kid": "Put one dot for each day. Join the dots. Does the line go down?",
+     "kid": "Put one dot for each day. Join the dots. Or just say if the times got shorter.",
      "chart": {
       "type": "line",
       "title": "Made-up example results: minutes until the first crow came, each day",
@@ -2075,8 +2075,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Ask your child what the crows learned, what the evidence is, and why they think so. Then plan a follow-up test.",
-     "say": "What do you think the crows learned? What is your evidence? How could we test if they learned your cap, your face or just the time?",
-     "kid": "What did the crows learn? What is your evidence? How could you test if they know your face?",
+     "say": "What do you think the crows learned? What is your evidence?",
+     "kid": "How could you test if crows know your face, or only your cap?",
      "parent": "A good follow-up: wear a different cap, or let someone else come out at the same time, and see if the crows behave differently.",
      "context": "This is the last step of Crow Friends. The child explains what the crows learned and plans another test."
     }
@@ -2088,7 +2088,7 @@
    "id": "c1",
    "title": "Hook It Like Betty",
    "mins": 20,
-   "context": "In 2002, a crow called Betty bent a straight wire into a hook to lift a bucket of food out of a tube. In this challenge you try the same thing.",
+   "context": "In 2002, a crow called Betty bent a straight wire into a hook to lift a bucket of food out of a tube. In this challenge you find out how a straight stick can become a tool, by trying the same thing.",
    "problem": "A tiny paper bucket with a sweet inside sits at the bottom of a tall bottle. Lift it out by its handle without tipping the bottle or putting your fingers in.",
    "constraints": [
     "You may not tip, shake or cut the bottle.",
@@ -2110,7 +2110,7 @@
     "New Caledonian crows also make hooks from twigs, by snapping a branch off just below a fork. Could you make a hook from a forked twig?",
     "Betty held the wire in her beak, with no hands. Try holding your pipe cleaner in a clothes peg, and use only the peg."
    ],
-   "your_turn": "Now invent your own tool. Draw it, make it and test it. How many tries did it take?",
+   "your_turn": "Now invent your own tool. Make it and test it. Sketch it first if you like. How many tries did it take?",
    "setup": [
     {
      "art": "A tall cut-off plastic bottle with a tiny paper bucket and an upright card handle sitting at the bottom, a straight pipe cleaner lying beside it.",
@@ -2158,7 +2158,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about what Betty did, and compare.",
-     "say": "Betty bent the wire into a hook, and lifted the bucket. Later, scientists found wild crows bend twigs too. So some think Betty used a skill crows already have, in a new way. How many tries did you need?",
+     "say": "Betty bent the wire into a hook and lifted the bucket. Wild crows also bend twigs into hooks. So some scientists think Betty used a skill crows already have. How many tries did you need?",
      "kid": "Betty made a hook. Did you? How many tries did it take? Was it harder than you thought?",
      "think": "Is making a tool a sign of thinking? What else could explain it?",
      "context": "This is the last step of Hook It Like Betty. You compare your tool with Betty's."
@@ -2192,7 +2192,7 @@
     "Make a puzzle with two steps, like lifting a flap and then pushing a ball.",
     "Make the puzzle a little harder each day, and time how long it takes."
    ],
-   "your_turn": "Now design your own puzzle. Draw it, build it and watch who solves it. Time how long it takes. Does it get faster on the second day?",
+   "your_turn": "Now design your own puzzle. Sketch it if you like, build it and watch who solves it. Time how long it takes. Does it get faster on the second day?",
    "setup": [
     {
      "art": "A cardboard egg tray with crumpled paper balls in each cup and a few treats hidden underneath.",
@@ -2211,7 +2211,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Build a simple puzzle, like the egg tray with paper balls.",
+     "do": "Put a treat in each cup of the egg tray. Cover each one with a crumpled paper ball.",
      "say": "Clever animals get bored. Zoos give them puzzles so their minds stay busy. Let's build one.",
      "kid": "Build a puzzle feeder. Hide treats under paper balls in an egg tray.",
      "adult": true,
@@ -2242,7 +2242,7 @@
      "mins": 10,
      "do": "Design a harder puzzle together, with two steps.",
      "say": "How could we make it a bit harder, but still fair? What would a crow find interesting?",
-     "kid": "Draw a harder puzzle with two steps. Make sure the animal can still solve it. Build it tomorrow!",
+     "kid": "Think of a harder puzzle with two steps. Tell your grown-up how it works, or build it. Make sure the animal can still solve it.",
      "context": "This is the last step of Build a Puzzle Feeder. You design a harder puzzle."
     }
    ]

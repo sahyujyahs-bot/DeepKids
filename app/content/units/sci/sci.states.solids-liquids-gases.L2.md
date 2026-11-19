@@ -197,14 +197,14 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   *Child mode:* Draw the three columns. Read the labels. Cut out the cards.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. The player puts it in a column and says why. 3. Read the back and score.  
-  *Parent says:* Honey flows very slowly. Is it a solid or a liquid? Why?  
-  *Child mode:* Turn over a card. Does it keep its shape? Does it flow? Does it spread out? Pick a column.
-  - Ask: Why did you put honey with the liquids? (good: It flows, even if slowly.; It takes the shape of the jar.)
+  *Parent says:* Turn over a card and read it. Which column does it go in, and why?  
+  *Child mode:* Does it keep its shape? Does it flow? Does it spread out? Pick a column.
+  - Ask: Where would you put honey? Why? (good: It flows, even if slowly.; It takes the shape of the jar.)
   - Note: Honey and the kettle gap surprise most children. Honey is a liquid, because it flows and takes the shape of its jar. The clear gap above a kettle is real steam.
 - **s3 (2 min)**  
   *Parent does:* 1. Look at the gas column. 2. Ask the question below.  
   *Parent says:* Look at the gas column. Could you see any of these, apart from the soda bubbles?  
-  *Child mode:* Look at the gas cards. Can you see any of them?
+  *Child mode:* Look at the gas cards. Count how many you can see.
   - Ask: Why are gases hard to see? (good: Most gases are invisible.; We see bubbles because they are inside a liquid.)
 ### g2 · Freeze, Flow, Fly! Be ice, water and steam (10 min)
 - **rules:** Clear a space in the middle of a room.; One person is the caller. Everyone else starts standing close together as 'water'.; The caller reads a card out loud. The players move the way the card says.; The caller reads the back, so everyone can check. Anyone who moved the wrong way sits out one turn.; After 12 cards, a new player becomes the caller.
@@ -212,16 +212,16 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Clear a space. 3. Show the three moves: ice, water and steam.  
   *Parent says:* Ice holds tight and stays put. Water stays close but slides. Steam lets go and spreads out everywhere.  
-  *Child mode:* Ice: hold tight. Water: slide close. Steam: spread out.
+  *Child mode:* Try each move: ice, water, then steam.
 - **s2 (7 min)**  
   *Parent does:* 1. Read each card. 2. Wait for the players to move. 3. Read the back to check.  
-  *Parent says:* Ice in a thin bottle! What do you do?  
-  *Child mode:* Listen to the card. Move like ice, water or steam.
+  *Parent says:* I will read a card. Move the way it says.  
+  *Child mode:* Listen to the card. Then move.
   - Note: With only one child and one grown-up, the grown-up plays too and the child is the caller for half the cards.
 - **s3 (1 min)**  
-  *Parent does:* 1. At the end, ask the question below.  
-  *Parent says:* When you were ice, could you fit into a thin line? When you were water, could you?  
-  *Child mode:* As ice, could you squeeze into a line? As water?
+  *Parent does:* 1. Ask them to line up thin once as ice, then once as water. 2. Ask the question below.  
+  *Parent says:* Let us try once more. First line up thin as ice. Then line up thin as water.  
+  *Child mode:* Try to squeeze into a thin line, first as ice, then as water.
   - Ask: Why could you squeeze into a thin line when you were water, but not when you were ice? (good: Water slides and changes shape.; Ice holds tight and keeps its shape.)
 
 ## Experiments
@@ -229,37 +229,37 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - **question:** When we pour water into a container of a different shape, is there more water, less water, or the same amount?
 - **predict:** Look at the thin bottle and the wide bowl. When the water goes into the thin bottle, will there be more, less or the same? What about the wide bowl? And when we pour it back, will it reach the bindi line? Why do you think so?
 - **fair test:** We use the same water every time, and fill the same tumbler to the same bindi line. We pour slowly over a tray, so no water is lost. We always look at the tumbler at eye level.
-- **record:** Write your guesses at the top. Fill in the table. Draw the water in the tumbler, the thin bottle and the wide bowl, at the heights you saw.
+- **record:** Write your guesses at the top. Fill in the table. Take a photo of the water in the tumbler, the thin bottle and the wide bowl, or draw the heights you saw.
 - **results table:** Container | My guess: more, less or the same? | How did it look in the container? | Poured back: at the bindi, above it, or below it?
 - **s1 (4 min)**  
   *Parent does:* 1. Put the tray on a table. 2. Fill the tumbler about halfway with water. 3. Your child sticks the bindi on the outside, exactly at the top of the water. 4. Show them the thin bottle and the wide bowl.  
-  *Parent says:* This bindi marks how much water we have. Now look at the thin bottle and the wide bowl. If I pour this water into the thin bottle, will there be more, less or the same? What about the bowl? Why do you think so?  
-  *Child mode:* Stick the bindi at the top of the water. Look at the bottle and the bowl. Guess: more, less or the same? Say why.
-  - Ask: Will there be more water in the thin bottle? Why? (good: More, because it will go up high.; The same, because it is the same water.; Less, because the bottle is small.)
+  *Parent says:* This bindi marks how much water we have. We will pour it into the thin bottle, and then into the wide bowl.  
+  *Child mode:* Stick the bindi at the top of the water. Look at the bottle and the bowl.
+  - Ask: Will the thin bottle have more, less or the same water? Why? (good: More, because it will go up high.; The same, because it is the same water.; Less, because the bottle is small.)
   - Note: Don't say if a guess is right. Many children of this age say the thin bottle will have more, because the water will stand taller. Any guess with a reason is good. Write the guesses down.
 - **s2 (5 min)**  
   *Parent does:* 1. Put the funnel in the mouth of the thin bottle. 2. Your child pours all the water from the tumbler into it, slowly. 3. Hold the bottle next to the empty tumbler. 4. Ask the questions below.  
-  *Parent says:* Pour slowly, so we don't lose any water. Now look. How high is the water in the bottle? Does it look like more, or less, than before?  
-  *Child mode:* Pour the water into the bottle, slowly. Look at it. Does it look like more?
+  *Parent says:* Pour slowly, so we don't lose any water. Then hold the bottle next to the empty tumbler and look.  
+  *Child mode:* Pour the water into the bottle, slowly. Look at how high it stands.
   - Ask: How does the water look in the thin bottle? (good: It goes up much higher.; It looks like more water.)
   - Note: In a thin bottle the water stands much higher than it did in the tumbler. Let your child say what they see. Don't explain yet.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child pours the water from the bottle back into the tumbler. 2. They bend down so their eye is level with the bindi. 3. Write the result in the table.  
-  *Parent says:* Now pour it back into the tumbler. Bend down so your eye is level with the bindi. Is the water above the bindi, below it, or right at it?  
-  *Child mode:* Pour it back into the tumbler. Bend down. Look at the bindi. Is the water at the bindi?
-  - Ask: Where is the water now? (good: Right at the bindi.; A tiny bit below, because some drops stayed in the bottle.)
+  *Parent says:* Now pour it back into the tumbler. Bend down so your eye is level with the bindi.  
+  *Child mode:* Pour it back into the tumbler. Bend down and look at the bindi.
+  - Ask: Is the water above the bindi, below it, or at it? (good: Right at the bindi.; A tiny bit below, because some drops stayed in the bottle.)
   - Note: The water comes back to the bindi, or a hair below it, because a few drops cling to the inside of the bottle. Point that out if the water is slightly low.
   - Check: The water went into the thin bottle and came back to the bindi. What does that show? → **It was the same amount of water all along**
 - **s4 (5 min)**  
   *Parent does:* 1. Your child pours the water from the tumbler into the wide bowl. 2. Ask how it looks. 3. Then they pour it back into the tumbler, over the tray. 4. Check the bindi again and write it down.  
-  *Parent says:* Now pour the water into the wide bowl. Does it look like more or less? Now pour it back into the tumbler. Where is the water now?  
-  *Child mode:* Pour the water into the bowl. Does it look like more or less? Now pour it back. Is it at the bindi?
+  *Parent says:* Now pour the water into the wide bowl. Then pour it back into the tumbler, over the tray.  
+  *Child mode:* Pour the water into the bowl and look at it. Then pour it back and look at the bindi.
   - Ask: What happened with the wide bowl? (good: In the bowl it looked like only a little.; Back in the tumbler, it came to the bindi again.)
   - Note: Pouring from a wide bowl can spill. Tip it slowly over the tray, or use the funnel. If a little spills, count it as a drip, not as water that vanished.
 - **s5 (6 min)**  
   *Parent does:* 1. Give your child an ice cube and a steel spoon. 2. They put each one in the tumbler, then in the bowl, then try to push it into the mouth of the bottle. 3. Ask the questions below. 4. Listen to their answer before you explain.  
-  *Parent says:* The water changed its shape for every container. Now try an ice cube and a spoon. Do they change shape? Why could the water get into the bottle when the ice cube cannot?  
-  *Child mode:* Put the ice cube in the tumbler, then in the bowl. Try to push it into the bottle. Try the spoon too. Do they change shape? Why can water get into the bottle, but not the ice?
+  *Parent says:* The water changed its shape for every container. Now try an ice cube and a steel spoon. Does their shape change?  
+  *Child mode:* Put the ice cube in the tumbler, then in the bowl. Try to push it into the bottle. Try the spoon too.
   - Ask: Why did the water fit in the thin bottle but the ice cube did not? (good: Water changes its shape to fit.; The ice cube keeps its own shape, and it is too big.)
   - Note: After your child answers, say it plainly. Water is a liquid. It has no shape of its own, so it takes the shape of whatever holds it, and the amount stays the same. The ice cube and the spoon are solids. They keep their own shape. If your ice cube is small enough to slip into the bottle, look closely: it is still a cube inside.
   - Think: If the ice cube melts, will its water fit in the bottle?
@@ -268,39 +268,39 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - **predict:** What shape will the ice be when we peel off the glove? When it melts on the plate, what shape will the water be? Why do you think so?
 - **fair test:** We put the ice from the glove and one ordinary ice cube from a tray side by side on the same plate, in the same room. We look at both every 10 minutes, so we compare them the same way.
 - **safety:** A grown-up cuts the glove off the ice with scissors. Hold frozen ice with a cloth, because very cold ice can stick to wet fingers.
-- **record:** Draw the ice hand when you first take it out, after 10 minutes and after 20 minutes. Draw the water on the plate at the end.
+- **record:** Take a photo of the ice hand when you first take it out, after 10 minutes and after 20 minutes. Take one of the water on the plate at the end. Or draw them.
 - **results table:** Time | What the ice hand looks like | What the ice cube looks like | What the water on the plate looks like
 - **schedule:** day 1: Fill the glove with water, close it, and lay it flat in the freezer overnight. (5 min); day 2: Peel or cut off the glove. Put the ice hand and an ice cube on a plate. Look every 10 minutes and fill in the table. (20 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Hold the glove open under the tap. 2. Your child fills it with water until the fingers are fat. 3. Squeeze out any big air bubble. 4. Close it tightly with the rubber band. 5. Lay it flat on a plate in the freezer.  
-  *Parent says:* The water is a liquid, so it fills the shape of the glove. What shape will it be after a night in the freezer? Why do you think so?  
-  *Child mode:* Fill the glove with water. Close it tight. Put it in the freezer. Guess what shape it will be.
-  - Ask: What shape will the ice be? (good: A hand, because the water filled the glove.; A lump, because ice is a cube.)
+  *Parent says:* The water is a liquid, so it takes the shape of the glove. Tonight it goes in the freezer.  
+  *Child mode:* Fill the glove with water. Close it tight. Then put it in the freezer.
+  - Ask: What shape will the ice be after a night in the freezer? Why? (good: A hand, because the water filled the glove.; A lump, because ice is a cube.)
   - Note: Lay the glove flat with the fingers spread, so they freeze apart. A home freezer freezes it overnight. A small single-door fridge freezer may need a whole day.
   - Wait: Leave it in the freezer overnight.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Take the glove out of the freezer. 2. Cut the glove open with scissors and peel it off. 3. Put the ice hand on the big plate. 4. Put an ordinary ice cube next to it.  
-  *Parent says:* Look. What shape is the ice? The glove is gone. So what is holding the ice in the shape of a hand?  
-  *Child mode:* Look at the ice. What shape is it? The glove is gone. Is it still a hand?
+  *Parent says:* Look at the ice. The glove is gone.  
+  *Child mode:* Look at the ice. Count its fingers.
   - Ask: Why is it still a hand when the glove is gone? (good: Ice is a solid, so it keeps its shape.; It froze in the glove shape and stays that way.)
   - Note: The ice keeps the shape of the glove, with every finger. A solid keeps its own shape, even after the container is gone.
 - **s3 (10 min)**  
-  *Parent does:* 1. Start the timer. 2. Every 10 minutes, your child looks at the ice hand, the ice cube and the water on the plate. 3. They draw or say what has changed.  
-  *Parent says:* What is happening to the fingers? Where is the water going? What shape is the water on the plate?  
-  *Child mode:* Look every 10 minutes. What is happening to the fingers? What shape is the water?
+  *Parent does:* 1. Start the timer. 2. Every 10 minutes, your child looks at the ice hand, the ice cube and the water on the plate. 3. They say what has changed, or take a photo. Write it in the table.  
+  *Parent says:* What is happening to the fingers? Where is the water going?  
+  *Child mode:* Look every 10 minutes. Compare the ice hand and the ice cube.
   - Ask: What shape is the water on the plate? (good: Flat, spread over the plate.; It took the shape of the plate.)
   - Note: The fingertips round off first. Water spreads flat across the plate, up to the rim. In a warm room the thin fingers may melt off in 20 to 40 minutes. The thick palm takes much longer.
 - **s4 (5 min)**  
   *Parent does:* 1. Ask the questions below. 2. Listen before you explain.  
-  *Parent says:* While it was ice, it kept the shape of a hand. As it melts, what shape is the water? Where did the hand shape go?  
-  *Child mode:* As ice, it was a hand. As water, it spreads flat. Where did the hand shape go?
+  *Parent says:* While it was ice, it kept the shape of a hand. Now it is water, spread flat on the plate.  
+  *Child mode:* As ice, it was a hand. As water, it spreads flat.
   - Ask: Where did the hand shape go? (good: It went away, because water takes the shape of the plate.; The water has no shape of its own.)
   - Note: The hand shape came from the glove. As ice, the water kept it. As soon as it melts, the water has no shape of its own, so it takes the shape of the plate.
   - Check: Why does the melted water spread flat over the plate? → **Because a liquid takes the shape of whatever holds it**
 
 ## Activities
 ### a1 · Three Bags: a solid, a liquid and a gas (10 min)
-- **record:** Draw the three bags, held upside down. Show where the stone, the water and the air are in each bag.
+- **record:** Take a photo of the three bags held upside down, or draw them. Show where the stone, the water and the air are in each bag.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the stone in the first bag and close it. 2. Pour the water into the second bag over the tray, and close it tightly. 3. Your child blows air into the third bag and you tie it quickly.  
   *Parent says:* One bag has a stone, one has water, and one has air. Now guess. When we turn them upside down, what will each one do? Why do you think so?  
@@ -308,51 +308,51 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   - Note: Use thick bags if you have them. Hold the water bag closed at the top and tie it well. Do it over a tray in case it leaks.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child turns each bag upside down, slowly. 2. Then they squeeze one end of each bag gently. 3. Ask the questions below.  
-  *Parent says:* Turn each bag upside down. Where did the stone go? The water? The air? Now squeeze one end gently. What happens?  
-  *Child mode:* Turn each bag over. Where did the stone, the water and the air go? Squeeze one end gently. What happens?
+  *Parent says:* Turn each bag upside down, slowly. Then squeeze one end of each bag gently.  
+  *Child mode:* Turn each bag over. Squeeze one end gently. Watch the stone, the water and the air.
   - Ask: What did the stone, the water and the air do? (good: The stone stayed a stone and fell to the bottom.; The water ran to the new bottom of the bag.; The air stayed everywhere in the bag.)
   - Note: The stone keeps its shape and drops to the lowest point. The water flows to the lowest part and takes the shape of that end of the bag, with a flat top. The air fills the whole bag all the time. Squeeze one end, and the air pushes into the other end.
 - **s3 (3 min)**  
   *Parent does:* 1. Lay the three bags side by side. 2. Ask the question below. 3. Then say the three words: solid, liquid, gas.  
-  *Parent says:* The stone kept its own shape. The water took the shape of the bottom of its bag. The air filled the whole bag. Which one is the solid? The liquid? The gas?  
-  *Child mode:* Which bag has a solid? Which has a liquid? Which has a gas?
-  - Ask: Which one filled the whole bag? (good: The air.; The gas, because a gas spreads out everywhere.)
+  *Parent says:* Look at what each bag did. Which bag has the solid? The liquid? The gas?  
+  *Child mode:* Point to the solid, then the liquid, then the gas.
+  - Ask: How can you tell which bag holds the liquid? (good: The water ran to the new bottom of the bag.; It flowed and took the shape of the bottom.)
   - Note: A solid keeps its own shape. A liquid takes the shape of the bottom of its container. A gas spreads out to fill all of it.
   - Check: Which bag stayed puffed full, even upside down? → **The air bag**
 ### a2 · Where Is the Steam? Look closely at a boiling kettle (8 min)
 - **problem:** When water boils, it turns into steam, which is water as a gas. Most people say steam is white. In this activity you look closely at a boiling kettle to find out where the steam really is.
 - **safety:** Steam burns badly, even though you cannot see it. A grown-up works the stove. The child stands at least one big step away and never puts a hand, a spoon or a face near the spout.
-- **record:** Draw the kettle. Colour the white cloud. Leave the clear gap just above the spout empty, and label it 'steam'.
+- **record:** Take a photo of the kettle from a safe distance, or draw it. Point to the clear gap and the white cloud, and say which one is the real steam.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Boil water in the kettle. 2. Hang or hold something dark behind it. 3. Your child stands at least one big step away. 4. Ask them to guess what they will see.  
   *Parent says:* When the water boils, it turns into steam. What colour do you think steam is? Why?  
-  *Child mode:* Stand one big step back. The water will boil. What colour is steam? Guess and say why.
+  *Child mode:* Stand one big step back and watch the kettle. Guess what colour steam is.
   - Note: Most children say steam is white. Let them guess. Keep them well back from the spout at all times.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. When the kettle is steaming, point to the spout. 2. Ask your child to look at the tiny space just above it, before the white cloud starts.  
-  *Parent says:* Look just above the spout, before the white cloud begins. What do you see there?  
-  *Child mode:* Look just above the spout. Is there a clear gap before the cloud?
+  *Parent says:* Look just above the spout, before the white cloud begins.  
+  *Child mode:* Look just above the spout, then at the cloud. Is there a gap between them?
   - Ask: What do you see in the clear gap just above the spout? (good: Nothing I can see.; It is clear, like air.)
   - Note: There is a small clear gap, usually about one or two finger-widths, between the spout and the white cloud. Real steam is in that gap. It is a gas, and it is invisible.
 - **s3 (2 min)**  
   *Parent does:* 1. Turn off the stove. 2. Ask the question below. 3. Listen, then explain.  
-  *Parent says:* The gap was clear, but the cloud is white. What do you think the white cloud is?  
-  *Child mode:* The gap is clear. The cloud is white. What is the white cloud?
+  *Parent says:* The gap was clear, but the cloud is white.  
+  *Child mode:* The gap is clear. The cloud is white.
   - Ask: What is the white cloud? (good: Water drops.; Steam that cooled down and turned back into water.)
   - Note: Real steam is water as a gas, and you cannot see it. As it rises, it cools in the room air and turns back into tiny drops of liquid water. Those drops make the white cloud. Higher up, the cloud fades as the drops spread into the air.
   - Check: Where is the real steam? → **In the clear gap just above the spout**
 ### a3 · The Home Hunt: solids, liquids and gases (10 min)
-- **record:** The sheet with three columns, with at least 4 solids, 4 liquids and 2 gases drawn or written.
+- **record:** The sheet with three columns, with at least 4 solids, 4 liquids and 2 gases written, drawn or photographed.
 - **s1 (6 min)**  
-  *Parent does:* 1. Walk through the kitchen, bathroom and one more room together. 2. Your child finds 4 solids, 4 liquids and 2 gases. 3. They draw or write each one in its column.  
+  *Parent does:* 1. Walk through the kitchen, bathroom and one more room together. 2. Your child finds 4 solids, 4 liquids and 2 gases. 3. They write each one in its column, or say it and you write it.  
   *Parent says:* Find something that keeps its own shape. That is a solid. Find something that flows. That is a liquid. Now the hard one: can you find a gas?  
-  *Child mode:* Find 4 solids and 4 liquids. Then find 2 gases. Draw each one.
+  *Child mode:* Find 4 solids and 4 liquids. Then find 2 gases. Say each one, and a grown-up writes it in its column.
   - Ask: What gas did you find? (good: The air in my football.; The bubbles in soda.; My breath.)
   - Note: Gases are hard to find, because most are invisible. Hints: the air in a ball or a tyre, the bubbles in soda, the steam from cooking, the air you breathe out. Never open the cooking gas to look.
 - **s2 (4 min)**  
   *Parent does:* 1. Look at the sheet together. 2. Ask the questions below.  
-  *Parent says:* Which column was easiest to fill? Which was hardest? Why were gases so hard to find?  
-  *Child mode:* Which column was easy? Which was hard? Why were gases hard?
+  *Parent says:* Which column was easiest to fill? Which was hardest?  
+  *Child mode:* Count the things in each column. Which has the most? Which has the fewest?
   - Ask: Why were gases hard to find? (good: You can't see most of them.; They spread out, so they are everywhere.)
   - Note: Most gases are invisible, so we find them by what they do: air puffs up a ball, and soda bubbles rise.
 
@@ -362,13 +362,13 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 ### c1 · Move the Water Without a Cup (20 min)
 - **problem:** Put 5 spoons of water in a katori in the kitchen. Get as much of it as you can into an empty katori on the other side of the room. You cannot carry it in a cup, a bowl, a bottle or a spoon.
 - **your turn:** Think of your own way. Test it. Then count how many spoons of water reached the far katori. Can you make your way better?
-- **constraints:** Use only things from home.; No cups, bowls, bottles, spoons or other containers to carry the water.; You may take one hour if you need to.
+- **constraints:** Use only things from home.; No cups, bowls, bottles, spoons or other containers to carry the water.; You may take one hour to move the water. Freezing takes a few hours, so start that earlier.
 - **general:** Soak the water up in a sponge or a cloth, carry it, and squeeze it out.; Try two different cloths. Wet each one with the same amount of water, and see which one carries more.
-- **creative:** Freeze the water in an ice tray, carry the ice cubes in your hand, and let them melt in the far katori. A solid can be carried without a container.; Roll a polythene sheet into a long slope, so the water flows down it into the far katori.
+- **creative:** Freeze the water in an ice tray a few hours before, carry the ice cubes in your hand, and let them melt in the far katori. A solid can be carried without a container.; Roll a polythene sheet into a long slope, so the water flows down it into the far katori.
 - **s1 (4 min)**  
   *Parent does:* 1. Measure 5 spoons of water into the first katori. 2. Read the rules together. 3. Ask the questions below.  
-  *Parent says:* Water has no shape of its own, so it needs something to hold it. What can hold water, without being a cup?  
-  *Child mode:* Water needs something to hold it. What could hold it, if not a cup?
+  *Parent says:* Water has no shape of its own, so it needs something to hold it. We cannot use a cup, a bowl, a bottle or a spoon.  
+  *Child mode:* Look at what is laid out. Pick one thing you think could carry water.
   - Ask: What could you use? (good: A sponge, because it soaks water up.; Freeze it, so it keeps its shape.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child chooses a way and tries it. 2. Let them try a second way if the first one spills a lot.  
@@ -376,9 +376,9 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   *Child mode:* Try your idea. Watch the water.
 - **s3 (6 min)**  
   *Parent does:* 1. Spoon the water out of the far katori and count the spoons. 2. Ask the question below.  
-  *Parent says:* How many spoons got there? Which way lost the least water? Why?  
-  *Child mode:* Count the spoons. Which way lost the least? Why?
-  - Ask: Why did freezing work? (good: Ice is a solid. It keeps its shape, so I could carry it.; It did not need a cup.)
+  *Parent says:* How many spoons got there?  
+  *Child mode:* Count the spoons in the far katori. Which way lost the least?
+  - Ask: If you froze the water, why could you carry it without a cup? (good: Ice is a solid. It keeps its shape, so I could carry it.; It did not need a cup.)
   - Note: Freezing changes the water into a solid, which keeps its own shape and can be held in a hand. If your child did not think of it, ask: what if the water were not a liquid?
 
 ## Worksheets

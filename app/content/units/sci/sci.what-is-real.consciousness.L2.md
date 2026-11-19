@@ -187,16 +187,16 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards and make three paper labels for the piles.  
   *Parent says:* Some things are always there, but we hardly notice them. Let's find out which.  
-  *Child mode:* Make three piles: 'I was noticing it', 'I notice it now' and 'Hard to notice, even now'.
+  *Child mode:* Put the three labels on the floor, with room for a pile under each.
 - **s2 (10 min)**  
   *Parent does:* Play, taking turns. Ask for a reason each time.  
   *Parent says:* Stop and notice it. Which pile? Why?  
-  *Child mode:* Pick a card. Stop and notice it. Which pile? Why?
+  *Child mode:* Pick a card. Stop for five seconds and notice it. Then put it on a pile.
   - Ask: Why that pile? (good: I notice my tongue now, but I wasn't before.; I can't notice my food being digested, even now.)
 - **s3 (3 min)**  
   *Parent does:* Count each pile together.  
-  *Parent says:* Which pile is biggest? What does that tell us about noticing?  
-  *Child mode:* Count each pile. Which is biggest?
+  *Parent says:* Let us count the cards in each pile. Which pile has the most?  
+  *Child mode:* Count the cards in each pile.
   - Ask: What does the biggest pile tell us? (good: Lots of things are there that we don't notice.; We notice things when we pay attention.)
   - Check: You hardly feel your heartbeat, but after running you do. What changed? → **Your heart beats harder and faster, so you notice it**
 ### g2 · Awake, Dream, Deep Sleep: a moving game (10 min)
@@ -208,12 +208,12 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Child mode:* Awake: walk. Dream: float. Deep sleep: lie still.
 - **s2 (7 min)**  
   *Parent does:* Play through the cards. After each, read the back.  
-  *Parent says:* Listen to the card. Awake, dream or deep sleep? Move!  
-  *Child mode:* Listen. Awake, dream or deep sleep? Move!
+  *Parent says:* I will read a card. Move the way it says.  
+  *Child mode:* Listen to the card. Then walk, float or lie still.
   - Ask: How did you know it was a dream? (good: People can't fly on kites.; Strange things felt normal.)
 - **s3 (1 min)**  
   *Parent does:* Finish with everyone lying still.  
-  *Parent says:* Now everyone lies still, as if in deep sleep. But you are not asleep. What are you aware of right now? Deep sleep is different, because then you are aware of almost nothing.  
+  *Parent says:* Everyone lie still, like deep sleep. But you are not really asleep, so you can still notice things. In real deep sleep you notice almost nothing.  
   *Child mode:* Lie still. What are you aware of now?
   - Check: In which state do you remember almost nothing afterwards? → **Deep sleep**
 
@@ -227,11 +227,11 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - **s1 (3 min)**  
   *Parent does:* Ask the question. Wait for a guess and a reason. Write the guess at the top of the paper.  
   *Parent says:* We are going to count sounds. Will you notice more sounds while you are busy, or while you sit still? Why do you think so?  
-  *Child mode:* Guess: will you notice more sounds while you are busy, or while you sit still? Why?
+  *Child mode:* Guess which way you will notice more sounds.
   - Ask: Why do you think so? (good: Still, because I can listen properly.; The same, because the sounds are the same.; Busy, because I will be moving and alert.)
   - Note: Any guess is fine if it has a reason. Do not say what usually happens.
 - **s2 (3 min)**  
-  *Parent does:* 1. Mix the rajma and chana in the bowl. 2. Put the two katoris beside it. 3. Draw the results table with two rooms.  
+  *Parent does:* 1. Mix the rajma and chana in the bowl. 2. Put the two katoris beside it. 3. Write the results table with two rooms.  
   *Parent says:* In the busy round, you sort rajma into one katori and chana into the other, as fast as you can. In the still round, you only listen.  
   *Child mode:* In the busy round, sort the rajma into one katori and the chana into the other, as fast as you can.
   - Ask: What must stay the same in every round? (good: Two minutes each time.; The same room for both rounds.; Tell all the sounds straight after.)
@@ -258,7 +258,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   - Note: Most children notice two or three times as many sounds when still. If busy came out the same or bigger, ask why. Perhaps they listened while sorting. That is a real finding too. Only after the child has said what they saw, read the card on attention.
 - **s7 (2 min)**  
   *Parent does:* Ask about one steady sound, such as the fan or fridge, that was on in both rounds.  
-  *Parent says:* Was the fan running in the busy round too? Did you notice it then? So did the room change, or did something in you change?  
+  *Parent says:* Was the fan running in the busy round too? Did you notice it then?  
   *Child mode:* Was the fan on in the busy round too? Did you notice it?
   - Ask: What changed between the rounds? (good: Where I put my attention.; I was listening in the still round.)
   - Think: The sounds were the same in both rounds. What was different?
@@ -289,8 +289,8 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Child mode:* Say one word for how it felt.
 - **s5 (3 min)**  
   *Parent does:* Look at the table together.  
-  *Parent says:* Did everyone show the same number? If two of us both showed four, did we feel the same sour? How could we check?  
-  *Child mode:* Did everyone show the same? Can you check someone else's sour?
+  *Parent says:* Did everyone show the same number? If two of us both showed four, did we feel the same sour?  
+  *Child mode:* Look at the table. Who showed a different number from you?
   - Ask: Can we know if two fours feel the same? (good: No, I can only feel my own sour.; We can only tell each other in words and fingers.)
   - Note: Numbers usually differ a little. If everyone showed the same, the question still stands: is your four the same as mine? There is no way to check from the outside. That is the point of the test. Only after the child has said what they think, read the card on what it is like to be you.
   - Think: Your sour is yours. How do other people find out about it?
@@ -300,21 +300,21 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - **record:** Write yes or no: I noticed when the sound stopped. Write yes or no: I was hearing it just before it stopped.
 - **s1 (1 min)**  
   *Parent does:* Start a soft, steady sound on the phone. Do not say anything about it.  
-  *Parent says:* Here is some paper. Draw your favourite place for five minutes.  
-  *Child mode:* Draw your favourite place.
+  *Parent says:* Here is some paper. Make your favourite place for five minutes.  
+  *Child mode:* Draw your favourite place, or tear and fold the paper to make it.
 - **s2 (5 min)**  
   *Parent does:* Let the child draw. After about four minutes, quietly stop the sound.  
-  *Parent says:* Keep drawing.  
-  *Child mode:* Keep drawing.
+  *Parent says:* Keep going.  
+  *Child mode:* Keep working on your place.
   - Note: Do not look at the phone when you stop it. Watch the child's face.
 - **s3 (4 min)**  
   *Parent does:* Ask the two questions.  
-  *Parent says:* Did anything change just now? Before it stopped, were you hearing the sound?  
-  *Child mode:* Did something change? Were you hearing it before?
+  *Parent says:* Did anything change just now?  
+  *Child mode:* Tell what you noticed just now.
   - Ask: Were you hearing the sound before it stopped? (good: I forgot about it, but I noticed when it stopped.; No, but the quiet felt different.)
   - Note: Most children notice the stop, yet say they had stopped hearing the sound. This is getting used to it, or habituation. The sound kept reaching their ears all along. That is how they could notice it stop. If your child did not notice the stop, that is a real finding too: they were fully busy with the drawing.
 ### a2 · Watch a Noticer: what does another being notice? (10 min)
-- **record:** A drawing of the being, with arrows to what they noticed.
+- **record:** A drawing of the being, with arrows to what they noticed, or a sentence the child says and a grown-up writes.
 - **s1 (2 min)**  
   *Parent does:* Help the child find a being to watch. Ants, crows, pigeons and geckos are found in most city flats.  
   *Parent says:* Let's find someone to watch. An ant, a crow or a gecko. We watch quietly, so we don't disturb them.  
@@ -322,13 +322,13 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - **s2 (5 min)**  
   *Parent does:* Watch together for five minutes. Talk in whispers.  
   *Parent says:* What do they turn towards? What do they move away from? What makes them stop?  
-  *Child mode:* Watch. What do they turn to? What do they run from?
+  *Child mode:* Watch quietly. Hold up a finger each time they turn or move away.
   - Ask: What did they notice? (good: The crow turned her head when I moved.; The ants went round a drop of water.)
   - Note: If no animal turns up, watch a potted plant instead and talk about how plants notice light over days.
 - **s3 (3 min)**  
-  *Parent does:* The child draws the being, with arrows to what they noticed.  
-  *Parent says:* Draw them. Draw an arrow to each thing they noticed.  
-  *Child mode:* Draw them. Add arrows to what they noticed.
+  *Parent does:* The child draws the being, with arrows to what they noticed, or tells you what they noticed.  
+  *Parent says:* Show me what they noticed. Draw it, or tell me.  
+  *Child mode:* Draw them with arrows to what they noticed, or tell your grown-up.
   - Think: Did the being turn or move when you moved? If it did, it noticed you, in its own way.
 ### a3 · Five Things Right Now: a counting-down noticing game (5 min)
 - **record:** Write how many things you noticed in all.
@@ -342,38 +342,38 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Child mode:* Add them up. Were you noticing them before?
   - Ask: How many in all? (good: 15, because 5 and 4 and 3 and 2 and 1 make 15.)
 ### a4 · Draw Last Night's Dream (10 min)
-- **record:** The dream drawing, with one sentence about it.
+- **record:** The dream drawing or the dream told aloud, with one sentence about it.
 - **s1 (6 min)**  
   *Parent does:* Give the child paper and crayons as soon as they wake.  
-  *Parent says:* Did you have a dream? Draw it before it goes. If no dream comes back, draw a dream you would like.  
-  *Child mode:* Draw your dream. If you forgot, draw one you would like.
+  *Parent says:* Did you have a dream? Draw it before it goes, or tell it to me. If no dream comes back, make up one you would like.  
+  *Child mode:* Draw your dream, or tell it to your grown-up. If you forgot, make up one you would like.
   - Note: Dreams fade quickly after waking, so do this before breakfast. Many children remember no dream. That is normal. Almost everyone dreams every night.
 - **s2 (4 min)**  
   *Parent does:* Talk about the drawing.  
   *Parent says:* In your dream, did it feel real? Your body was lying in bed. So who was noticing the dream?  
-  *Child mode:* Did it feel real? Who was noticing the dream?
+  *Child mode:* Think about your dream. Did it feel real?
   - Ask: Who was noticing the dream? (good: I was.; My mind, while my body slept.)
 
 ## Projects
 ### p1 · My Noticing Diary: five days, five senses (50 min, 5 days)
-- **record:** The five-page diary, with one drawing and one sentence a day. The child says the sentence and a grown-up can write it.
-- **schedule:** day 1: Seeing: find one thing in your home you have never noticed before, and draw it. (10 min); day 2: Hearing: sit still at a window for two minutes, then draw the sound you had never noticed before. (10 min); day 3: Touch: feel five surfaces with your eyes shut, and draw the one that surprised you. (10 min); day 4: Smell: smell five things in the kitchen with your eyes shut, such as jeera, coffee, coconut, a lemon and soap. Draw your favourite. (10 min); day 5: Taste: eat one small piece of fruit very slowly, and draw how the taste changed. (10 min)
+- **record:** The five-page diary: a drawing or photo on day 1, and one sentence a day. The child says the sentence and a grown-up can write it.
+- **schedule:** day 1: Seeing: find one thing in your home you have never noticed before, and draw it. (10 min); day 2: Hearing: sit still at a window for two minutes, then tell the sound you had never noticed before. (10 min); day 3: Touch: feel five different surfaces with your eyes shut, such as a cloth, a coin, a leaf, a steel spoon and a sponge. Sort them into rough and smooth, and tell which one surprised you. (10 min); day 4: Smell: smell five things in the kitchen with your eyes shut, such as jeera, coffee, coconut, a lemon and soap. Tell which you like best, and why. (10 min); day 5: Taste: eat one small piece of fruit very slowly, and say how the taste changed. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Day 1. Make the five-page diary. Then do the seeing page.  
   *Parent says:* Today you are a noticing detective. Find one thing in our home that you have never noticed before.  
-  *Child mode:* Find one thing at home you never noticed. Draw it.
+  *Child mode:* Find one thing at home you never noticed. Draw it, or take a photo.
 - **s2 (20 min)**  
-  *Parent does:* Days 2 and 3. Do the hearing page and the touch page.  
-  *Parent says:* Sit at the window and listen. Which sound is new to you? Now feel things with your eyes shut.  
-  *Child mode:* Listen at the window. Then feel things with eyes shut. Draw one each day.
+  *Parent does:* Days 2 and 3. Do the hearing page and the touch page. For touch, gather five things with different surfaces.  
+  *Parent says:* Day 2: sit at the window and listen. Which sound is new to you? Day 3: feel things with your eyes shut.  
+  *Child mode:* Day 2: listen at the window and tell the new sound. Day 3: feel five things with eyes shut and sort them into rough and smooth.
 - **s3 (10 min)**  
   *Parent does:* Day 4. Do the smell page. Hold each jar or spice near the child's nose, eyes shut.  
   *Parent says:* Smell this with your eyes shut. What is it? Which smell do you like best?  
   *Child mode:* Smell with your eyes shut. Guess each one.
 - **s4 (10 min)**  
   *Parent does:* Day 5. Do the taste page, then look back at the whole book.  
-  *Parent says:* Eat this piece very slowly. Does the taste change? Which day did you notice the most?  
-  *Child mode:* Eat it slowly. Does the taste change? Look at your book.
+  *Parent says:* Eat this piece very slowly. What does it taste like at the start, and at the end?  
+  *Child mode:* Eat it slowly and notice. Then look through your book.
   - Ask: Why did you find new things in a home you know so well? (good: Because I was paying attention.; I had got used to them, so I stopped noticing.)
 
 ## Challenges
@@ -386,14 +386,14 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - **s1 (3 min)**  
   *Parent does:* Read the challenge together.  
   *Parent says:* Why do people stop noticing a sign after a few days?  
-  *Child mode:* Why do people stop noticing a sign?
+  *Child mode:* Think of a sign you pass every day. Do you still see it?
   - Ask: Why? (good: They get used to it.; It never changes, so it fades into the background.)
 - **s2 (12 min)**  
   *Parent does:* The child designs and makes a reminder.  
   *Parent says:* How can you make a sign that keeps being noticed, even on day three?  
   *Child mode:* Make a reminder people will still notice on day three.
 - **s3 (5 min)**  
-  *Parent does:* Put it up. Agree how you will count for three days.  
+  *Parent does:* Count how many times the light is left on this evening, before the sign goes up. Then put the sign up, and count again each evening for three days.  
   *Parent says:* Each evening, we check the light. Will your reminder still work on day three?  
   *Child mode:* Put it up. Check the light each evening for three days.
   - Think: What makes something hard to get used to?

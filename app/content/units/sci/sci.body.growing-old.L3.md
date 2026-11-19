@@ -278,8 +278,8 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Child mode:* Lay the mat on the floor. Mix up the cards. Every person goes through these stages. Each card is a clue to one stage.
 - **s2 (13 min)**  
   *Parent does:* Take turns reading cards and placing them. After each card, ask the player to say why.  
-  *Parent says:* Read the card out loud. Which stage is it? Tell us why you think so.  
-  *Child mode:* Read your card out loud. Which stage is it? Say why.
+  *Parent says:* Which stage is it? Put the card there, and tell us why you think so.  
+  *Child mode:* Take the top card. Read it out loud. Put it on the stage you think fits.
   - Ask: Why does 'My head is one quarter of my whole length' go on BABY? (good: Babies have big heads compared to their bodies.; A grown-up's head is only about one eighth of their length.)
   - Note: Clue cards about reading distance fit ADULT or OLDER ADULT, since the eye lens stiffens from about 40. The back of those cards says so.
 - **s3 (4 min)**  
@@ -295,7 +295,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   - Think: Every elder was once a baby. Are the baby and the elder the same person?
 ### g2 · Journey to 100 (25 min)
 - **rules:** Each player puts a counter on square 1.; On your turn, roll the dice twice and add the two numbers. Move that many squares. Each square is one year of your life.; If you land at the bottom of a ladder, read it out and climb up.; If you land on the top of a slide, read it out and slide down.; When you land on a square ending in 0 or 5, like 10, 15 or 20, take the top life card. If it names an age (like Age 45), it only fits a player whose square is that age or up to 10 more. If it does not fit, put it under the pile and take the next one. Then do what the card says. If the pile runs out, shuffle the used cards.; You do not take a life card when a ladder or slide brings you to a square ending in 0 or 5.; Life card moves do not use ladders or slides: if a card puts you on one, stay there.; The first player to reach 100 wins and tells a story about their "life". You do not need an exact roll: reaching or passing 100 is enough.
-- **Printable board: A 10 by 10 board of 100 squares, each row a decade of life:** 1: START. Baby years (draw a baby); 2; 3; 4; 5; 6: Child years begin (draw toys and school bags); 7; 8: LADDER up to 24: You play outside every day. Strong bones for life!; 9; 10: LIFE CARD square; 11; 12; 13: Teenager years begin (draw a growing door-frame); 14: Bottom of the slide from 33; 15: LIFE CARD square; 16; 17; 18; 19; 20: Adult years begin (draw work and family). LIFE CARD square; 21; 22; 23; 24: Top of the ladder from 8; 25: LIFE CARD square; 26; 27: LADDER up to 45: You walk or cycle to work.; 28; 29; 30: Bottom of the slide from 49. LIFE CARD square; 31; 32; 33: SLIDE down to 14: You start smoking.; 34; 35: LIFE CARD square; 36; 37; 38: LADDER up to 57: You keep learning new things.; 39; 40: LIFE CARD square; 41; 42; 43; 44; 45: Top of the ladder from 27. LIFE CARD square; 46: Bottom of the slide from 67; 47; 48; 49: SLIDE down to 30: You sit all day and never move.; 50: LIFE CARD square; 51; 52: LADDER up to 71: You stay close to friends and family.; 53; 54; 55: LIFE CARD square; 56; 57: Top of the ladder from 38; 58; 59; 60: Older adult years begin (draw grandchildren, walking sticks and books). LIFE CARD square; 61; 62; 63: LADDER up to 84: You do strength exercises, even at 63.; 64; 65: LIFE CARD square; 66; 67: SLIDE down to 46: You feel lonely and stop seeing people.; 68: Bottom of the slide from 87; 69; 70: LIFE CARD square; 71: Top of the ladder from 52; 72; 73; 74; 75: LIFE CARD square; 76: LADDER up to 92: You teach your grandchildren a skill.; 77; 78; 79; 80: LIFE CARD square; 81; 82; 83; 84: Top of the ladder from 63; 85: LIFE CARD square; 86; 87: SLIDE down to 68: You trip on a slippery floor with no mat.; 88; 89; 90: LIFE CARD square; 91; 92: Top of the ladder from 76; 93; 94; 95: LIFE CARD square; 96; 97; 98; 99; 100: FINISH
+- **Printable board: A 10 by 10 board of 100 squares, each row a decade of life:** 1: START. Baby years (draw or stick on a baby picture); 2; 3; 4; 5; 6: Child years begin (draw or stick on toys and school bags); 7; 8: LADDER up to 24: You play outside every day. Strong bones for life!; 9; 10: LIFE CARD square; 11; 12; 13: Teenager years begin (draw or stick on a growing door-frame); 14: Bottom of the slide from 33; 15: LIFE CARD square; 16; 17; 18; 19; 20: Adult years begin (draw or stick on work and family). LIFE CARD square; 21; 22; 23; 24: Top of the ladder from 8; 25: LIFE CARD square; 26; 27: LADDER up to 45: You walk or cycle to work.; 28; 29; 30: Bottom of the slide from 49. LIFE CARD square; 31; 32; 33: SLIDE down to 14: You start smoking.; 34; 35: LIFE CARD square; 36; 37; 38: LADDER up to 57: You keep learning new things.; 39; 40: LIFE CARD square; 41; 42; 43; 44; 45: Top of the ladder from 27. LIFE CARD square; 46: Bottom of the slide from 67; 47; 48; 49: SLIDE down to 30: You sit all day and never move.; 50: LIFE CARD square; 51; 52: LADDER up to 71: You stay close to friends and family.; 53; 54; 55: LIFE CARD square; 56; 57: Top of the ladder from 38; 58; 59; 60: Older adult years begin (draw or stick on grandchildren, walking sticks and books). LIFE CARD square; 61; 62; 63: LADDER up to 84: You do strength exercises, even at 63.; 64; 65: LIFE CARD square; 66; 67: SLIDE down to 46: You feel lonely and stop seeing people.; 68: Bottom of the slide from 87; 69; 70: LIFE CARD square; 71: Top of the ladder from 52; 72; 73; 74; 75: LIFE CARD square; 76: LADDER up to 92: You teach your grandchildren a skill.; 77; 78; 79; 80: LIFE CARD square; 81; 82; 83; 84: Top of the ladder from 63; 85: LIFE CARD square; 86; 87: SLIDE down to 68: You trip on a slippery floor with no mat.; 88; 89; 90: LIFE CARD square; 91; 92: Top of the ladder from 76; 93; 94; 95: LIFE CARD square; 96; 97; 98; 99; 100: FINISH
 - **Printable cards: 20 life cards:** Age 1: You take your first steps. Move ahead 1.; Age 6: Your first milk tooth falls out. Show everyone a gap-toothed smile, then move ahead 1.; Age 13: Growth spurt! Stand up and stretch as tall as you can, then move ahead 3.; Age 18: You stop growing taller. Your growth plates have closed. Move ahead 1.; Age 30: Your bones are at their strongest ever. Move ahead 2.; Age 45: You need reading glasses. Hold this card at arm's length to read it, then move ahead 1.; Age 50: Your first grey hairs appear. Say one thing you know about why hair turns grey, then move ahead 1.; Age 65: You learn to use a new phone. Move ahead 2.; Age 70: Your grandchild asks you for a story. Tell a 30-second story, then move ahead 2.; Age 80: You hear high sounds less well. Everyone speaks in a low voice until your next turn. Move ahead 1.; Any age: You sleep well every night. Move ahead 2.; Any age: You eat sambar, greens and fruit. Move ahead 1.; Any age: You drink clean water. Move ahead 1.; Any age: You skip your vaccine. Miss a turn.; Any age: You help an elder carry their bag. Move ahead 2.; Any age: You sit in the strong sun every day with no hat. Your skin wrinkles faster. Move back 1.; Any age: Your body makes 4 million new cells this second. Clap 4 times, then move ahead 1.; Any age: You learn a new song. Move ahead 1.; Any age: You laugh with a friend. Move ahead 1.; Any age: You spend all day on a screen. Move back 1.
 - **Printable tokens: Counters and a dice:** Counter 1 (a coin or a bottle cap); Counter 2; Counter 3; Counter 4; One dice (from a Ludo set, or cut a paper cube). Roll it twice and add the two numbers
 - **s1 (3 min)**  
@@ -310,7 +310,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **s3 (7 min)**  
   *Parent does:* When the first player reaches 100, ask every player to tell one thing that happened in their "life".  
   *Parent says:* Someone made it to 100. Tell us one ladder you climbed, and one slide you fell down. Which habit would you like to start today?  
-  *Child mode:* Someone made it to 100! Say one ladder you climbed. Pick one good habit to start today.
+  *Child mode:* Someone made it to 100! Say one ladder you climbed and one slide you fell down.
   - Ask: Which ladders could you start climbing right now, at your age? (good: Playing outside.; Sleeping well.; Learning new things.; Helping elders.)
 
 ## Experiments
@@ -319,12 +319,12 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **question:** Does skin spring back more slowly as people get older?
 - **predict:** Before you start, guess. Whose skin will go flat fastest after a gentle pinch? Line up the people you will test, from the one you think is fastest to the one you think is slowest. Why do you think so?
 - **fair test:** To make it fair, keep everything the same except the person's age. Pinch the same place, the back of the hand. Pinch for the same time, 3 seconds. Keep the hand flat on the table. Test each person 3 times, because one try can be a fluke.
-- **record:** Fill in the table. Then draw a bar chart. Draw one bar for each person, in order of age. Make each bar as tall as that person's middle value.
+- **record:** Fill in the table. Then make a bar chart. Make one bar for each person, in order of age. Draw it, or build each bar from buttons, one button for each second. Make each bar as tall as that person's middle value.
 - **results table:** Person | Age (years) | Try 1: seconds to go flat | Try 2: seconds | Try 3: seconds | Middle value (seconds)
 - **s1 (2 min)**  
   *Parent does:* Ask your child to guess, and to line up the people from fastest to slowest.  
   *Parent says:* We will gently pinch the skin on the back of a hand, let go, and count until it goes flat. Whose skin do you think will go flat fastest? Why do you think so?  
-  *Child mode:* We will pinch skin gently and see how fast it goes flat. Guess whose skin is fastest. Line everyone up, fastest to slowest. Say why.
+  *Child mode:* Guess whose skin will go flat fastest. Line everyone up, fastest to slowest. Say why.
 - **s2 (2 min)**  
   *Parent does:* Show how to pinch gently on your own hand first.  
   *Parent says:* Let's practise on my hand first. Rest it flat. Pinch only the loose skin, softly, like picking up a feather. Hold it while we count to three. Then let go.  
@@ -336,9 +336,9 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Child mode:* Ask first. Pinch for three seconds. Let go. Count until the skin is flat. Write the number. Do it 3 times.
   - Note: Young skin goes flat almost at once, so write 'less than 1 second'. Skin of people over 60 can stay up for a few seconds. Between a child and a parent of 35 there may be almost no difference, so test an elder if you can, such as a grandparent or an older neighbour. Skin also goes flat more slowly when a person has not drunk much water, so this is not a perfect test. It is hard to tell by eye exactly when skin is flat, so treat small differences as a guess, and trust only a clear gap.
 - **s4 (6 min)**  
-  *Parent does:* For each person, find the middle value of the three tries. Then draw the bar chart.  
-  *Parent says:* Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try. Then draw one bar for each person, in order of age.  
-  *Child mode:* Put the 3 numbers in order. The middle one is the one we use. Draw a bar for each person.
+  *Parent does:* For each person, find the middle value of the three tries. Then make the bar chart.  
+  *Parent says:* Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try. Then make one bar for each person, in order of age. Draw it, or build each bar from buttons, one for each second.  
+  *Child mode:* Put the 3 numbers in order. The middle one is the one we use. Make a bar for each person. Draw it, or use buttons.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -349,21 +349,21 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **question:** Does the closest distance at which people can read clearly change with age?
 - **predict:** Before you start, guess. Who in your family can read tiny print closest to their nose? Who will need it furthest away? Why do you think so?
 - **fair test:** To make it fair, use the same card with the same tiny print for everyone. Test in the same bright room. Everyone uses both eyes. Someone who wears reading glasses only for reading takes them off. Someone who wears glasses all day for seeing far keeps them on. Test each person 3 times, because one try can be a fluke.
-- **record:** Fill in the table. Then draw a bar chart, one bar for each person in order of age.
+- **record:** Fill in the table. Then make a bar chart, one bar for each person in order of age. Draw it, or build each bar from buttons, one button for each 5 centimetres.
 - **results table:** Person | Age (years) | Try 1: closest sharp distance (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
 - **s1 (2 min)**  
   *Parent does:* Ask your child to guess who can read tiny print closest.  
   *Parent says:* Some grown-ups hold a phone far away to read it. Let's measure how close each person in our family can hold tiny print and still read it. Who do you think can hold it closest? Who will need it furthest away? Why do you think so?  
-  *Child mode:* Some grown-ups hold a phone far away to read it. Guess who can read tiny print closest to their nose. Say why.
+  *Child mode:* Guess who can read tiny print closest to their nose. Say why.
 - **s2 (10 min)**  
   *Parent does:* 1. The person holds the card at arm's length. 2. They bring it slowly towards their face. 3. When the letters blur, they move it back a little until it is just sharp. 4. Measure from cheekbone to card. 5. Repeat 3 times for each person.  
   *Parent says:* Bring it closer, slowly. Tell me the moment the letters go fuzzy. Now move it back just until they are sharp. Hold still while I measure.  
   *Child mode:* Hold the card far away. Bring it closer slowly. Stop when the letters go fuzzy. Move it back until sharp. Measure.
   - Note: Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'. A short-sighted person can read very close without glasses at any age, which would spoil the test, so they keep their glasses on. If nobody at home is over 40, ask a grandparent, a relative or a neighbour to be tested.
 - **s3 (4 min)**  
-  *Parent does:* Draw the bar chart together, then look at the bars.  
-  *Parent says:* Draw one bar for each person, in order of age. Look at the bars. What happens to the distance as people get older?  
-  *Child mode:* Draw a bar for each person. Look at your bars. What happens as people get older?
+  *Parent does:* Make the bar chart together, then look at the bars.  
+  *Parent says:* Make one bar for each person, in order of age. Draw it, or use buttons. Look at the bars. What happens to the distance as people get older?  
+  *Child mode:* Make a bar for each person, in order of age. Look at your bars. What do you see?
   - Check: In the near point test, a grandmother of 58 needed the card 60 centimetres away. A child of 8 could read it at 8 centimetres. Why? → **The grandmother's eye lens has got stiffer, so it cannot focus on near things**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences: what they think now, what they saw, and why they think it happened.  
@@ -376,7 +376,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **predict:** Before you start, guess. Who will hear the highest sound? Will anyone hear sounds the others cannot? Why do you think so?
 - **fair test:** To make it fair, play every sound from the same speaker, at the same quiet volume, from the same distance. Everyone sits in the same quiet room. Each person raises a hand when they hear a sound, without looking at the screen.
 - **safety:** A grown-up controls the volume. Keep it quiet, never loud. Never use earphones for this test. Stop at once if a sound feels uncomfortable.
-- **record:** Fill in the table. Draw a tick for each sound a person heard. Then colour in a bar for each person up to their highest sound.
+- **record:** Fill in the table. Write a tick for each sound a person heard. Then line the people up in order of the highest sound they heard, and say what you notice.
 - **results table:** Person | Age (years) | Heard 4,000 (yes or no) | Heard 8,000 | Heard 12,000 | Heard 15,000 | Highest sound heard
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. On a phone, open an online tone generator, which plays a beep as high or low as you set it. 2. Set the volume low. 3. Set it to 4,000 hertz, a medium-high beep.  
@@ -391,7 +391,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **s3 (3 min)**  
   *Parent does:* Look at the table together.  
   *Parent says:* Who heard the highest sound? Why do you think older ears miss the highest sounds?  
-  *Child mode:* Who heard the highest beep? Why might older ears miss it?
+  *Child mode:* Look at the table. Who heard the highest beep?
   - Check: In the high sound test, a child heard a beep of 15,000 hertz. Her grandfather did not. What is the best reason? → **The tiny hair cells for high sounds wear out first as we age**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences: what they think now, what they saw, and why they think it happened.  
@@ -401,22 +401,22 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 
 ## Activities
 ### a1 · Hands Across Time (10 min)
-- **record:** Draw around your hand and an elder's hand on one sheet. Write three things you noticed.
+- **record:** Take a photo of the hands side by side, or draw around them on one sheet. Say or write three things you noticed.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay your hands flat next to your child's, and an elder's if possible. 2. Look in silence for one minute.  
   *Parent says:* Let's just look for one minute, without talking. Then tell me what you notice. There are no wrong answers.  
-  *Child mode:* Put your hand next to a grown-up's hand. Look for one minute. What do you notice?
+  *Child mode:* Put your hand next to a grown-up's hand. Look closely for one minute.
   - Ask: What do you notice? (good: An older person's skin has more lines.; The veins show more.; My hand is smaller and smoother.; Her nails are thicker.)
   - Ask: What do you wonder? (good: Why do hands get wrinkly?; Was her hand like mine once?; Will mine look like that?)
   - Note: Do not explain anything yet. The aim is for questions to come from your child. Write their 'I wonder' questions down to come back to.
 - **s2 (5 min)**  
-  *Parent does:* Draw around both hands on one sheet. Write three noticings next to them.  
-  *Parent says:* Every hand here was once a baby's hand. Let's draw around them and write down what we noticed. We will find out why during this unit.  
-  *Child mode:* Draw around your hand and a grown-up's hand. Write three things you noticed.
+  *Parent does:* Take a photo of the hands side by side, or draw around them on one sheet. Then write down three noticings.  
+  *Parent says:* Every hand here was once a baby's hand. Let's keep a picture of them and write down what we noticed. We will find out why during this unit.  
+  *Child mode:* Take a photo of the hands, or draw around them. Tell three things you noticed.
   - Note: The hand did not change on one day. It grew a little every day through childhood and the teenage years, and it stopped growing taller in the late teens. After that, the skin changed slowly, a little each year.
   - Think: An elder's hand was once as small as yours. When did it change?
 ### a2 · Interview an Elder (20 min)
-- **record:** Write or draw three of the elder's answers. Add one thing that surprised you.
+- **record:** Write down three of the elder's answers, or record them on a phone. Add one thing that surprised you.
 - **s1 (4 min)**  
   *Parent does:* Choose five questions together from this list. What games did you play at 8? What could your body do then that it cannot now? What can you do now that you could not do then? When did you get your first grey hair? What is the best thing about being older?  
   *Parent says:* Elders remember things that nobody else in the family remembers. Let's pick five questions to ask.  
@@ -431,7 +431,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent says:* What surprised you? Did their body change in the ways we have been learning about?  
   *Child mode:* What surprised you? Did their body change like we learned?
 ### a3 · Life Stage Parade (10 min)
-- **record:** Draw yourself in your favourite pose from the parade, and label the life stage.
+- **record:** Hold your favourite pose from the parade and let your grown-up take a photo. Say which life stage it shows.
 - **s1 (6 min)**  
   *Parent does:* Call out each stage slowly, and move together: newborn, crawling baby, toddler, child running, teenager growing tall, strong adult, elder walking carefully.  
   *Parent says:* Curl up small like a newborn. Now crawl. Now take your first wobbly steps. Now run and jump like a child. Now stretch up tall, a teenager growing fast. Now carry heavy shopping like an adult. Now walk slowly and carefully, like an elder on a wet floor.  
@@ -439,41 +439,41 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   - Note: When acting as elders, keep it respectful. Elders walk carefully because a fall can break thinner bones, not because they are silly.
 - **s2 (4 min)**  
   *Parent does:* Stop and talk.  
-  *Parent says:* When you were an elder, you walked slowly and carefully. Why do you think elders do that?  
-  *Child mode:* Why do elders walk carefully? What could happen if they fell?
+  *Parent says:* You walked slowly and carefully, like an elder. Why do you think elders do that?  
+  *Child mode:* Think about what could happen to an elder who falls.
   - Note: Good ideas are a rubber mat in the bathroom, wiping up spills quickly, a handrail, a night light and no loose rugs. Ask the elder what would help most.
-  - Check: In the parade, you walked carefully like an elder. Why do many elders walk carefully on wet floors? → **Their bones are thinner, so a fall can break one more easily**
+  - Check: Why do many elders walk carefully on wet floors? → **Their bones are thinner, so a fall can break one more easily**
   - Think: What could you change at home to make floors safer for an elder?
 ### a4 · Socks on Your Hands: Trying Tasks Like an Elder (15 min)
 - **safety:** Never walk around while wearing the smeared glasses. Sit down for every task.
-- **record:** Write which task was hardest, and one idea to make it easier for an elder.
+- **record:** Say or write which task was hardest, and one idea to make it easier for an elder.
 - **s1 (8 min)**  
   *Parent does:* 1. Time how long it takes to pick up 5 coins with bare hands, then with socks on your hands. 2. Try to do up 3 buttons with the socks on. 3. Sitting down, try to read small print through the smeared glasses.  
   *Parent says:* As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can also get cloudy, because the lens inside can cloud over. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.  
-  *Child mode:* Pick up coins with bare hands. Then with socks on your hands. Try buttons with socks on. Sit down and look through the smeared glasses.
+  *Child mode:* Time yourself picking up 5 coins with bare hands. Then do it with socks on your hands. Try 3 buttons with socks on. Sit down and read small print through the smeared glasses.
 - **s2 (7 min)**  
   *Parent does:* Think together about ways to help.  
   *Parent says:* What was hardest? Now let's be inventors. How could we make that task easier for an elder?  
   *Child mode:* Which task was hardest? Think of a way to make it easier for an elder.
   - Ask: How could we make buttons easier for stiff fingers? (good: Use big buttons.; Use press studs or velcro.; Help them, but only if they want help.)
   - Note: Gently point out that many elders are proud and capable. Good help means asking first, 'Would you like help?'
-  - Check: In this activity, you wore thick socks on your hands. Which change in older bodies were the socks a model of? → **Stiffer joints and less sharp touch in the fingers**
+  - Check: Which change in older bodies did the thick socks copy? → **Stiffer joints and less sharp touch in the fingers**
 ### a5 · The Sticky-Note Body (15 min)
 - **problem:** Your body makes millions of new cells every second to replace old ones. But not every part is replaced at the same speed. The gut and the skin are replaced fast, blood in a few months, and bones in about ten years. The cells in most of the brain and in the middle of the eye lens are never replaced. In this model, each sticky note stands for a group of cells.
-- **record:** Draw your body outline and colour the parts that are replaced fast, slowly and never.
+- **record:** Point to the parts that were swapped fast, swapped slowly and never swapped, and take a photo of your paper body. Tell your grown-up which parts are as old as you.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw a big body outline. 2. Label areas: skin, blood, gut, bones, brain, eye lens. 3. Cover each area with a few yellow sticky notes (about 5 notes each).  
+  *Parent does:* 1. Draw a big body outline. 2. Label areas: skin, blood, gut, bones, brain, eye lens. 3. Cover each area with a few yellow sticky notes (3 notes each).  
   *Parent says:* Each yellow note is a group of cells. This is you, on the day you were born.  
   *Child mode:* Cover the body with yellow notes. Each note is a group of cells. This is you as a newborn.
 - **s2 (7 min)**  
-  *Parent does:* Call out time passing. At each call, swap the notes listed. The first time you swap an area, peel off its yellow notes and stick on pink ones. After that, peel the pink notes off and stick them back on as 'new'. One week passes: swap the gut notes. One month passes: swap gut and skin. Four months pass: swap gut, skin and blood. Ten years pass: swap gut, skin, blood and bones. Never swap the brain or eye lens notes.  
+  *Parent does:* Call out time passing. At each call, swap the notes listed. The first time you swap an area, peel off its yellow notes and stick on pink ones. Each later time, peel the pink notes off and stick the same notes back on. One week passes: swap the gut notes. One month passes: swap gut and skin. Four months pass: swap gut, skin and blood. Ten years pass: swap gut, skin, blood and bones. Never swap the brain or eye lens notes.  
   *Parent says:* One week passes. Swap the gut. One month passes. Swap the gut and the skin. Four months pass. Swap gut, skin and blood. Ten years pass. Swap the bones too. What about the brain and the eye lens? We leave them.  
-  *Child mode:* After a week, swap the gut notes. After a month, swap gut and skin. After four months, swap gut, skin and blood. After ten years, swap all of those and the bones. Never swap the brain or the eye lens.
+  *Child mode:* Listen for each time jump. Swap only the notes your grown-up names. Never swap the brain or the eye lens.
   - Note: These are rough times. Real cells are replaced a few at a time, all the time, not all at once.
 - **s3 (5 min)**  
   *Parent does:* Look at the body together.  
   *Parent says:* Most of this body is new now. Some parts are as old as you. Is it still the same person?  
-  *Child mode:* Most notes are new now. Some are still old. Is it still you?
+  *Child mode:* Look at the paper body. Point to the notes that are still yellow. Which parts are they?
   - Note: There is no single right answer. Some people say it is your memories. Some say it is the way you think and feel. Some say it is your name and your family. The cells in the brain that last a lifetime may be part of it too.
   - Think: If your body is always changing, what is the 'you' that stays?
 ### a6 · My Life Line (20 min)
@@ -485,22 +485,22 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **s2 (10 min)**  
   *Parent does:* Make a longer line for an elder, with their help, from girl or boy to now. Label the stages.  
   *Parent says:* Now let's do an elder's life. Their line is much longer. Can you find where they were your age?  
-  *Child mode:* Make a long line for an elder. Find where they were your age.
+  *Child mode:* Make a long line for an elder, with their help. Label each stage.
   - Check: On the elder's life line, which stage comes straight after being a teenager? → **Adult**
   - Think: Where on your elder's line were they exactly your age? What were they doing?
 
 ## Projects
 ### p1 · The Then and Now Book (60 min, 3 days)
 - **record:** The finished book, with at least 4 'then and now' pages.
-- **schedule:** day 1: Plan the book with the elder. Ask about their life when they were your age. (20 min); day 2: Draw one page for each age: the elder at that age, next to you now. Add a body change they remember. (20 min); day 3: Finish the book, read it together with the elder, and give it to them as a gift. (20 min)
+- **schedule:** day 1: Plan the book with the elder. Ask about their life when they were your age. (20 min); day 2: Make one page for each age: the elder at that age, next to you now. Use an old photo or a drawing. Add a body change they remember. (20 min); day 3: Finish the book, read it together with the elder, and give it to them as a gift. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Make the book. 2. With the elder, choose 4 ages: 8, 15, 30 and now. 3. Ask what their body could do and what life was like at each age.  
   *Parent says:* We are making a book about the elder's life and yours. Each page will show them at one age, next to you.  
   *Child mode:* Make a book with an elder. Choose 4 ages. Ask what their body and life were like at each.
 - **s2 (20 min)**  
-  *Parent does:* Draw one page for each age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.  
-  *Parent says:* On each page, draw the elder at that age. Write one way their body was different then.  
-  *Child mode:* Draw the elder at each age. Write one body change on each page.
+  *Parent does:* Make one page for each age. Stick on an old photo of the elder, or draw them at that age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.  
+  *Parent says:* On each page, put the elder at that age: a photo or a drawing. Write one way their body was different then.  
+  *Child mode:* Put the elder at each age on a page. Write one body change on each page.
   - Wait: Come back the next day.
 - **s3 (20 min)**  
   *Parent does:* Add a cover. Read the book with the elder. Give it to them.  
@@ -521,9 +521,9 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent says:* Let's list what might be hard for an older body. Eyes, ears, knees, bones. What problem does each one cause in a room?  
   *Child mode:* List what is hard for an older body. Eyes, ears, knees, bones. What problem does each cause?
 - **s2 (5 min)**  
-  *Parent does:* Plan three ideas before building.  
-  *Parent says:* Before we build, let's think like designers. Draw three ideas.  
-  *Child mode:* Think like a designer. Draw three ideas before you build.
+  *Parent does:* Ask your child for three ideas before building.  
+  *Parent says:* Before we build, let's think like designers. What three things would help an elder most?  
+  *Child mode:* Pick three ideas before you build. Say them to your grown-up, or sketch them.
 - **s3 (15 min)**  
   *Parent does:* Build the model and label each idea.  
   *Parent says:* Now build it. Label each thing with the problem it solves.  
@@ -534,7 +534,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Child mode:* Show it to an elder. Ask: would this help you? What would you change?
 ### c2 · The Easy-Open Jar (25 min)
 - **problem:** Many elders find tight jar lids hard to open, because their hands grip less strongly. Invent a way to open a tight jar with less grip.
-- **your turn:** Now invent your own jar opener. Draw it, make it and test it. Give the best one to an elder you know.
+- **your turn:** Now invent your own jar opener. Plan it, make it and test it. Give the best one to an elder you know.
 - **constraints:** You cannot use a knife or anything sharp.; Use only things found at home.; Test each idea by opening the same jar.; A grown-up closes the jar to the same tightness before each idea, so the test stays fair.
 - **general:** Put a wide rubber band around the lid. It gives the hand more grip.; Hold the lid with a rubber glove or a dry cloth.; Tap round the edge of the lid with the back of a spoon to loosen the seal.
 - **creative:** Wrap a belt around the lid and pull the end. The longer handle turns the lid with less force, like a lever.; Put a wooden spoon handle through a rubber band around the lid, and turn the spoon like a spanner.; Hold a metal lid under warm tap water for a minute. Metal grows very slightly bigger when warm, so the lid loosens.
@@ -543,7 +543,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent says:* Elders' hands often grip less strongly, because muscles shrink and joints get stiff. Let's see how hard this jar is.  
   *Child mode:* Try to open the tight jar. Is it hard? Many elders find this hard every day.
 - **s2 (15 min)**  
-  *Parent does:* A grown-up closes the jar tightly again before each idea. Try each idea in turn. Give each a score: 1 for hard, 2 for OK, 3 for easy.  
+  *Parent does:* A grown-up closes the jar tightly again before each idea. Try each idea from the list in turn. Give each a score: 1 for hard, 2 for OK, 3 for easy.  
   *Parent says:* Let's test every idea on the same jar, and score it.  
   *Child mode:* Test each idea on the same jar. Score it 1, 2 or 3.
   - Check: In the Easy-Open Jar challenge, a belt wrapped round the lid made it easier to turn. Why? → **The long end works like a lever, so you need less force**

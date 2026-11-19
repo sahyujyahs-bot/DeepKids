@@ -287,7 +287,7 @@
    "title": "Missing Signs: the tricky case card game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a card game about tricky cases. Each card names a thing. You say one sign of life the thing seems to show, and one sign that is missing. Then you decide: alive or not?",
+   "context": "This is a card game about tricky cases. Each card names a thing. You say one sign of life the thing seems to show, and one sign that is missing. Then you decide: alive or not? You will find out why moving alone does not make something alive.",
    "printables": [
     {
      "kind": "cards",
@@ -367,14 +367,14 @@
      "mins": 3,
      "do": "1. Print and cut out the 12 cards, or write the front and back of each on paper or old card. 2. Put out a sheet of paper and a pencil for scoring. 3. Read the rules aloud.",
      "say": "Each card names a tricky thing. You say one sign of life the thing seems to show, and one sign that is missing.",
-     "kid": "Read the card. Say one sign of life the thing seems to show. Say one sign that is missing."
+     "kid": "Help cut out the cards. Then listen to how the game works."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Take turns. Read the back of each card aloud and talk about any surprises.",
      "say": "A cloud grows and moves. Which sign is missing? Is a cloud alive?",
-     "kid": "Read your card. Say one sign of life the thing seems to show. Say one sign that is missing.",
+     "kid": "Read your card. Say what it seems to do, what is missing, and if it is alive.",
      "ask": [
       {
        "q": "A dry moong seed seems to do nothing. How do we know the seed is alive?",
@@ -391,7 +391,7 @@
      "mins": 2,
      "do": "Count the points. Ask the check question.",
      "say": "Which card surprised you most? Why?",
-     "kid": "Count your points. Which card surprised you?",
+     "kid": "Count your points together.",
      "check": {
       "t": "mcq",
       "q": "A robot moves and senses walls. Why is the robot not alive?",
@@ -455,16 +455,16 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Print and cut out the 14 cards, or write each one on paper or old card. 2. If you like, your child draws a small picture on each plant card. 3. Mix the cards and lay them face down.",
-     "say": "Let's make the cards. You draw a small picture on each plant card.",
-     "kid": "Draw a picture on each plant card if you like. Then turn them face down."
+     "do": "1. Print and cut out the 14 cards, or write each one on paper or old card. 2. Mix the cards and lay them face down in two rows.",
+     "say": "We need 14 cards. Seven name a sign of life. Seven show a plant doing that sign. You will match them.",
+     "kid": "Help cut out the cards. Then turn them face down."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Take turns turning over two cards. Read each card aloud.",
-     "say": "You found Senses and the karela tendril. How does the tendril sense?",
-     "kid": "Turn two cards. Do they match? Say why.",
+     "say": "Turn over two cards and read them to me. A sign card matches the plant doing that sign.",
+     "kid": "Turn two cards. If they match, say why.",
      "ask": [
       {
        "q": "How does a money plant move?",
@@ -480,7 +480,7 @@
      "mins": 1,
      "do": "Count the pairs. Ask which sign was hardest to find in a plant.",
      "say": "Which sign is hardest to see in a plant? Why?",
-     "kid": "Count your pairs. Which sign is hardest to see?"
+     "kid": "Count your pairs."
     }
    ],
    "setup": [
@@ -563,7 +563,7 @@
      "what": "Three hours later, open both dabbas. Hold the two glasses of chuna water in front of a dark cloth and compare them. Say what you think, what you saw and why."
     }
    ],
-   "record": "Draw the two dabbas with their glasses, before and after. Colour the water that went milky white.",
+   "record": "Draw the two dabbas with their glasses, before and after. Colour the water that went milky white. Or take a photo of the two glasses, or tell your grown-up what you saw.",
    "flow": [
     {
      "id": "s1",
@@ -579,8 +579,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Drain the moong into a plate. 2. Let your child look closely and touch them. 3. Ask the questions below.",
-     "say": "Look at the moong now. They are fat from the water, and a few may have a tiny white tip. Are they doing anything? Do you think they are alive?",
-     "kid": "Look at the moong. Touch them. Are they doing anything? Are they alive?",
+     "say": "Look at the moong now. They are fat from the water, and a few may have a tiny white tip. Do you think they are alive?",
+     "kid": "Look closely at the moong. Touch them.",
      "ask": [
       {
        "q": "Are the moong doing anything?",
@@ -597,7 +597,7 @@
      "mins": 4,
      "adult": true,
      "do": "1. Pour clear chuna water off the top of the jug into one small glass, about a quarter full. 2. Let your child blow gently through the straw into it for about one minute. 3. Look at the water.",
-     "say": "This clear water has chuna in it. Blow gently into it through the straw. Only blow out, never suck. Watch the water.",
+     "say": "This clear water has chuna in it. Let's see what your breath does to it.",
      "kid": "Blow gently through the straw. Only blow out. Watch the water.",
      "ask": [
       {
@@ -615,7 +615,7 @@
      "mins": 3,
      "do": "Tell your child what you will do with the two dabbas. Ask for a guess and a reason. Write down the guess.",
      "say": "Your breath turned chuna water milky. Now we shut sprouts in one dabba, and only a wet cloth in the other. Each gets a glass of chuna water. Which water will go milky? Why do you think so?",
-     "kid": "Sprouts go in one dabba. Only a wet cloth goes in the other. Which water will go milky? Why?",
+     "kid": "Guess which glass of chuna water will go milky.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -642,15 +642,15 @@
      "mins": 1,
      "do": "Leave both dabbas shut for three hours. Read the story or play a game while you wait.",
      "say": "Now we wait three hours without opening the lids.",
-     "kid": "Now we wait three hours. Don't open the lids.",
+     "kid": "Don't open the lids. Guess what is happening inside.",
      "wait": "Leave both dabbas shut for three hours."
     },
     {
      "id": "s7",
      "mins": 5,
      "do": "1. Open both dabbas. 2. Lift out the glasses carefully. 3. Hold them side by side in front of the dark cloth.",
-     "say": "Look at the two glasses against the dark cloth. What do you see? Is there any difference?",
-     "kid": "Hold the glasses in front of the dark cloth. What is different?",
+     "say": "Let's see what changed in the two glasses.",
+     "kid": "Look closely at both glasses.",
      "ask": [
       {
        "q": "Which chuna water changed?",
@@ -672,9 +672,9 @@
     {
      "id": "s8",
      "mins": 4,
-     "do": "Ask your child to say three things: what they think, what they saw, and why. Then draw the two dabbas together.",
-     "say": "So do still sprouts breathe? Tell me what you think, what you saw, and why.",
-     "kid": "Do sprouts breathe? Say what you think. Say what you saw. Say why.",
+     "do": "Ask your child to say three things: what they think, what they saw, and why. Then take a photo of the two glasses side by side.",
+     "say": "So do still sprouts breathe? Look at your two glasses and tell me.",
+     "kid": "Tell what you think, what you saw, and why.",
      "ask": [
       {
        "q": "Why did only one chuna water go milky?",
@@ -744,7 +744,7 @@
    "title": "Cold Sprouts: do sprouts breathe more slowly in the fridge?",
    "mins": 25,
    "days": 2,
-   "context": "In this experiment you do the chuna water test again, with two dabbas of sprouts. One dabba goes in the fridge and one stays on the shelf. Then you compare how milky the two chuna waters get.",
+   "context": "In this experiment you do the chuna water test again, with two dabbas of sprouts. One dabba goes in the fridge and one stays on the shelf. Then you compare how milky the two chuna waters get. You will find out whether sprouts breathe less when they are cold.",
    "problem": "Chuna water turns milky when carbon dioxide reaches it. The more carbon dioxide the sprouts breathe out, the more milky the water goes. So how milky each chuna water gets shows how much the sprouts in that dabba breathed.",
    "question": "Do sprouts breathe as much in the cold fridge as on a warm shelf?",
    "predict": "Guess first. Which chuna water will go more milky: the one in the fridge or the one on the shelf? Why do you think so?",
@@ -793,7 +793,7 @@
      "what": "Set up two sprout dabbas. Put one in the fridge and one on a shelf. After three hours, compare the two chuna waters."
     }
    ],
-   "record": "Draw the fridge dabba and the shelf dabba with their glasses. Colour how milky each one went.",
+   "record": "Draw the fridge dabba and the shelf dabba with their glasses. Colour how milky each one went. Or take a photo of the two glasses, or tell your grown-up what you saw.",
    "flow": [
     {
      "id": "s1",
@@ -808,8 +808,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Tell your child the plan. Ask for a guess and a reason.",
-     "say": "Both dabbas will have sprouts this time. One goes in the fridge. One stays on the shelf. Which chuna water will go more milky? Why do you think so?",
-     "kid": "One dabba goes in the fridge. One stays out. Which goes more milky? Why?",
+     "say": "Both dabbas will have sprouts this time. One goes in the fridge. One stays on the shelf. Which chuna water will go more milky?",
+     "kid": "Guess which goes more milky, the fridge dabba or the shelf dabba.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -834,8 +834,8 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Take the fridge dabba out. 2. Open both dabbas. 3. Hold the two glasses side by side in front of the dark cloth.",
-     "say": "Look at the two glasses. Which one is more milky?",
-     "kid": "Look at both glasses. Which one is more milky?",
+     "say": "Hold both glasses side by side in front of the dark cloth.",
+     "kid": "Look closely at both glasses.",
      "ask": [
       {
        "q": "Which one went more milky?",
@@ -852,7 +852,7 @@
      "mins": 5,
      "do": "Ask your child what they think, what they saw and why. Then ask the check question.",
      "say": "Why do you think the chuna water in the fridge went less milky?",
-     "kid": "Why was the fridge water less milky? Say what you think.",
+     "kid": "Tell your grown-up your idea.",
      "ask": [
       {
        "q": "Why are fruits and vegetables kept in the fridge?",
@@ -919,10 +919,10 @@
    "title": "Sure or Not Sure? Sorting tricky cases",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you sort tricky things from the house into alive, once alive and never alive. Then you put the ones you are not sure about in a bowl, and plan a test for one of them.",
+   "context": "In this activity you sort tricky things from the house into alive, once alive and never alive. Then you put the ones you are not sure about in a bowl, and plan a test for one of them. You will find out that some things are alive even when they do nothing.",
    "materials": [
     {
-     "item": "three plates with paper labels: a smiling sprout (alive), a leaf with a tick (once alive), a stone (never alive)",
+     "item": "three plates with paper labels. Write ALIVE, ONCE ALIVE and NEVER ALIVE, or draw a smiling sprout, a leaf with a tick and a stone",
      "qty": 3
     },
     {
@@ -930,7 +930,7 @@
      "qty": 1
     },
     {
-     "item": "tricky things from the house: a dry moong seed, a soaked moong sprout, a spoon of curd in a katori, a potato, a cotton thread, a cooked grain of rice, a phone, a steel spoon, a piece of dry coconut shell, a drawing of a cloud (draw one on paper)",
+     "item": "tricky things from the house: a dry moong seed, a soaked moong sprout, a spoon of curd in a katori, a potato, a cotton thread, a cooked grain of rice, a phone, a steel spoon, a piece of dry coconut shell, a picture of a cloud (a phone photo, or draw one on paper)",
      "qty": "about 10"
     }
    ],
@@ -941,21 +941,21 @@
      "what": "Sort 10 tricky things onto three plates and a not-sure bowl. Plan one test."
     }
    ],
-   "record": "Draw the not-sure bowl and write the test you would do for one thing in it.",
+   "record": "Take a photo of the not-sure bowl. Say or write the test you would do for one thing in it.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "1. Put out the three plates and the bowl. 2. Show your child each label.",
      "say": "This plate is for things that are alive now. This one is for things that were once alive. This one is for things that were never alive. The bowl is for things you are not sure about.",
-     "kid": "There are three plates: alive, once alive and never alive. The bowl is for things you are not sure about."
+     "kid": "Look at the labels. Which plate would a stone go on?"
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "1. Hand your child one thing at a time. 2. Ask which sign of life they can see, or which is missing. 3. Let them put it on a plate or in the bowl.",
      "say": "Where does this go? Which sign of life tells you? If you are not sure, it can go in the bowl.",
-     "kid": "Pick up one thing. Which sign of life does it show? Choose a plate or the bowl.",
+     "kid": "Pick up one thing and put it on a plate or in the bowl.",
      "ask": [
       {
        "q": "Why does the phone go on the never alive plate?",
@@ -978,7 +978,7 @@
      "mins": 4,
      "do": "Pick one thing from the not-sure bowl. Plan a test together.",
      "say": "Let's choose one thing from the bowl. How could we test if it is alive? Which sign of life could we look for?",
-     "kid": "Pick one thing from the bowl. How can you test it?",
+     "kid": "Pick one thing from the bowl. Plan a test with your grown-up.",
      "ask": [
       {
        "q": "How could we test the dry moong seed?",
@@ -1017,7 +1017,7 @@
    "title": "Ant Watch: which signs of life can you see?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you put a few grains of sugar near some ants and watch for five minutes. You tick each sign of life you see.",
+   "context": "In this activity you put a few grains of sugar near some ants and watch for five minutes. You tick each sign of life you see. You will find out which signs of life you can see in a tiny animal.",
    "materials": [
     {
      "item": "a few grains of sugar",
@@ -1043,7 +1043,7 @@
      "what": "Draw seven lines on a sheet of paper, one for each sign of life. Put sugar near ants. Watch for five minutes. Tick each sign of life you see."
     }
    ],
-   "record": "Tick the signs you saw. Draw one ant carrying sugar.",
+   "record": "Tick the signs you saw. Take a photo of the ants, or tell your grown-up what they did.",
    "flow": [
     {
      "id": "s1",
@@ -1075,7 +1075,7 @@
      "mins": 3,
      "do": "Count the ticks together. Ask which signs you could not see.",
      "say": "Which signs did you see? Which ones did you not see? Does that mean the ants don't do them?",
-     "kid": "Count your ticks. Which signs did you not see?",
+     "kid": "Count your ticks. Point to a sign you did not see.",
      "ask": [
       {
        "q": "You did not see the ants breathe. Are they breathing?",
@@ -1117,22 +1117,22 @@
      "what": "Sit still for one minute. Count your breaths. List what kept going."
     }
    ],
-   "record": "Draw yourself sitting still, with arrows to the parts that kept working.",
+   "record": "Tell your grown-up, or write, what kept going. Point to where each one is on your body.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "1. Ask your child to sit cross-legged and be as still as they can. 2. Time one minute. 3. Ask them to count their breaths silently.",
      "say": "Sit as still as a seed for one minute. Don't move at all. Count your breaths in your head.",
-     "kid": "Sit as still as a seed. Count your breaths quietly.",
+     "kid": "Sit cross-legged. Count how many times you breathe in.",
      "parent": "Most children of seven breathe about 18 to 30 times in a minute when sitting quietly."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Ask what kept going inside, even though they were still.",
-     "say": "You did not move. But what kept going inside you?",
-     "kid": "You sat still. What kept going inside you?",
+     "say": "You did not move at all. Now put your hand on your chest. What can you feel?",
+     "kid": "Feel your chest with your hand.",
      "ask": [
       {
        "q": "What kept going?",
@@ -1163,7 +1163,7 @@
    "title": "Sleeping Leaves (if you have a park or a tree-lined road nearby)",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look at the leaves of a rain tree once in the afternoon and once after sunset. Rain tree leaves fold up in the evening.",
+   "context": "In this activity you look at the leaves of a rain tree once in the afternoon and once after sunset. Rain tree leaves fold up in the evening. You will find out whether a tree notices that the day has ended.",
    "materials": [
     {
      "item": "a rain tree in a park or on your road (in many Indian cities, such as Bengaluru, Chennai, Kolkata and Mumbai)",
@@ -1178,26 +1178,26 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Look at rain tree leaves in the afternoon and again after sunset. Draw or photograph both times."
+     "what": "Look at rain tree leaves in the afternoon and again after sunset. Photograph the leaf both times."
     }
    ],
-   "record": "Draw a small rain tree leaf in the afternoon and after sunset, side by side.",
+   "record": "Take a photo of a rain tree leaf in the afternoon and after sunset, and put them side by side. Or tell your grown-up what changed.",
    "flow": [
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. In the afternoon, find a rain tree. 2. Look at one small leaf closely. 3. Draw it or take a photo.",
+     "do": "1. In the afternoon, find a rain tree. 2. Look at one small leaf closely. 3. Take a photo of it, so you can compare later.",
      "say": "This is a rain tree. Look at the tiny leaflets on this leaf. Are they open or closed?",
-     "kid": "Look at the tiny leaves. Are they open or closed? Draw them.",
+     "kid": "Look closely at one leaf. Tell your grown-up what you notice about the tiny leaves.",
      "adult": true,
      "parent": "A rain tree is a big shady tree with a wide umbrella shape and feathery leaves made of many small leaflets. Rain trees have fluffy pink flowers in summer. Many Indian cities planted them along roads."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Go back after sunset with a torch. 2. Look at the same leaves. 3. Draw them or photograph them again.",
+     "do": "1. Go back after sunset with a torch. 2. Look at the same leaves. 3. Take a photo of the same leaf again.",
      "say": "Look at the same leaves now, after sunset. What has changed?",
-     "kid": "Look again after sunset. What changed?",
+     "kid": "Hold the new photo next to the afternoon photo.",
      "adult": true,
      "ask": [
       {
@@ -1262,28 +1262,28 @@
     {
      "day": 7,
      "mins": 5,
-     "what": "Open the lid quickly. Draw the shoots. Close it again."
+     "what": "Open the lid quickly. Take a photo of the shoots. Close it again."
     },
     {
      "day": 14,
      "mins": 5,
-     "what": "Look again. Which way are the shoots going? Draw them."
+     "what": "Look again. Which way are the shoots going? Take a photo."
     },
     {
      "day": 21,
      "mins": 5,
-     "what": "Has a shoot come out of the hole? Draw the whole path."
+     "what": "Has a shoot come out of the hole? Take a photo of the whole path."
     }
    ],
-   "record": "Draw the maze from above on day 1, 7, 14 and 21, with the shoots drawn in.",
+   "record": "Take a photo of the maze from above on day 1, 7, 14 and 21. Or draw the maze and the shoots each time.",
    "flow": [
     {
      "id": "s1",
      "mins": 15,
      "adult": true,
      "do": "1. Cut a hole the size of a coin in one short end of the shoebox. 2. Tape the two card walls across the box, one from each side, each leaving a gap. 3. Put the potato at the far end, on damp soil or a damp cloth. 4. Close the lid. 5. Put the box by a bright window, hole facing the light.",
-     "say": "The only light comes in through this hole. The potato is at the other end, behind two walls. Will the shoots find the way out?",
-     "kid": "The potato sits at the dark end. Light comes in through the hole. Do you think the shoots will find the hole?",
+     "say": "The only light comes in through this hole. The potato is at the other end, behind two walls.",
+     "kid": "Look at where the potato sits and where the light comes in.",
      "ask": [
       {
        "q": "What do you think the shoots will do? Why?",
@@ -1299,18 +1299,18 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Open the lid quickly, look, draw, and close it again.",
+     "do": "Open the lid quickly, look, take a photo, and close it again.",
      "say": "Look quickly, so we let in only a little light. Which way are the shoots growing?",
-     "kid": "Peep in quickly. Which way are the shoots going? Draw them.",
+     "kid": "Peep in quickly and find the longest shoot. Where is its tip pointing?",
      "parent": "Shoots usually grow towards the gap in the first wall. If there are no shoots after a week, keep the box somewhere warmer. Check that the soil or cloth is still damp. If it is dry, add one spoon of water.",
      "wait": "Leave the box closed for another week."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Look again and draw.",
+     "do": "Look again and take a photo.",
      "say": "Have the shoots gone round the first wall?",
-     "kid": "Look again. Have the shoots gone round a wall?",
+     "kid": "Look again. Follow the longest shoot with your finger.",
      "wait": "Leave the box closed for one more week."
     },
     {
@@ -1318,7 +1318,7 @@
      "mins": 5,
      "do": "Look at the whole path the shoot took. Talk about it.",
      "say": "Did a shoot come out of the hole? How did the potato find the way?",
-     "kid": "Did a shoot come out of the hole? How did the potato find the way?",
+     "kid": "Follow the shoot's path with your finger. Where did it go?",
      "ask": [
       {
        "q": "Which signs of life did the potato show?",
@@ -1382,7 +1382,7 @@
      "mins": 4,
      "do": "Read the problem to your child. Ask for ideas before showing any.",
      "say": "Plants move, but too slowly for our eyes. How could we prove this plant moved by tomorrow?",
-     "kid": "Plants move very slowly. How can you catch this plant moving?",
+     "kid": "Think of your own way to catch the plant moving.",
      "ask": [
       {
        "q": "What ideas do you have?",
@@ -1406,7 +1406,7 @@
      "mins": 4,
      "do": "The next day, check together and compare.",
      "say": "Did the plant move? How do you know?",
-     "kid": "Did the plant move? Show me how you know.",
+     "kid": "Show your grown-up how you know.",
      "wait": "Check again tomorrow, and again the day after if you see no change.",
      "check": {
       "t": "mcq",
