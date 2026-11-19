@@ -249,7 +249,7 @@
    "title": "The Layer Test: how many layers hide the drawing?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you pile squares of polythene, tissue and paper on a drawing, one at a time. You count how many layers it takes to hide the drawing. Then you shine a torch behind the pile to see if any light still gets through.",
+   "context": "In this experiment you pile squares of polythene, tissue and paper on a drawing, one at a time. You count how many layers it takes to hide the drawing. Then you shine a torch behind the pile to see if any light still gets through. You will find out if a pile that hides a drawing also stops the light.",
    "question": "How many layers of clear polythene, tissue and white paper does it take to hide a drawing? When the drawing is hidden, does light still get through?",
    "predict": "Which material will hide the drawing with the fewest layers? Which will need the most? Why do you think so?",
    "fair_test": "We use the same drawing, the same window light and squares of the same size every time. We add one layer at a time and look from the same place. We change only the material.",
@@ -301,7 +301,7 @@
      "what": "Pile squares of three materials on a drawing, count the layers that hide it, then test each pile with a torch."
     }
    ],
-   "record": "Fill in the table (a grown-up can write the words, and your child writes the numbers). Then draw a tower of squares for each material, as tall as the number of layers it took.",
+   "record": "Fill in the table (a grown-up can write the words, and your child writes the numbers). Then build a tower of real squares for each material, as tall as the number of layers it took. Take a photo of your three towers.",
    "setup": [
     {
      "art": "A table by a window with a white card showing a thick black sun drawing, and three neat piles of squares: clear polythene, white tissue and white paper, plus a steel plate and a torch.",
@@ -324,9 +324,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Your child draws a sun with a thick black sketch pen on white paper. 2. You cut ten squares of each material. 3. Your child holds one square of each up to the window.",
+     "do": "1. Your child draws a sun with a thick black sketch pen on white paper. A grown-up can draw it if your child prefers. 2. You cut ten squares of each material. 3. Your child holds one square of each up to the window.",
      "say": "Here are three materials: clear polythene, tissue and white paper. Hold one square of each up to the window. What do you see through each one?",
-     "kid": "Draw a big, thick sun. Hold one square of each up to the window. What can you see?",
+     "kid": "Hold one square of each material up to the window. Look through each one.",
      "parent": "Never let your child look at the Sun itself, even through the squares. A window with daylight, or a bright tube light, is enough."
     },
     {
@@ -334,10 +334,10 @@
      "mins": 3,
      "do": "Ask your child to guess how many layers of each material will hide the sun. Write the guesses in the table.",
      "say": "We will pile squares on the sun, one at a time. How many layers of polythene will hide it? How many of tissue, and of paper? Why do you think so?",
-     "kid": "Guess how many layers of each will hide the sun. Why?",
+     "kid": "Say a number of layers for each material. A grown-up writes your guesses in the table.",
      "ask": [
       {
-       "q": "Why do you think paper will need fewer layers than polythene?",
+       "q": "Which material will need the fewest layers? Why do you think so?",
        "good": [
         "Paper is thicker.",
         "I can see through polythene, but not really through paper."
@@ -367,8 +367,8 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Draw the curtains or go to a dim room. 2. Lay the torch on the table with its light pointing up. If you use a phone, lay it face down so its torch points up. 3. Switch it on. 4. Lay the paper pile that hid the sun over the light, and look down at it. 5. Do the same with the tissue pile and the steel plate.",
-     "say": "This paper pile hid the sun completely. Now I put the torch behind it. Do you think any light will get through? Why?",
-     "kid": "The paper pile hid the sun. Will the torch glow through it?",
+     "say": "This paper pile hid the sun completely. Now the torch will shine up from underneath. Do you think any light will get through? Why?",
+     "kid": "Say your guess first. Then look down at the pile.",
      "ask": [
       {
        "q": "Did the paper pile glow?",
@@ -392,7 +392,7 @@
      "mins": 4,
      "do": "Look at the table together. Ask your child what they think, what they saw and why.",
      "say": "Which material hid the sun with the fewest layers? The paper pile hid the sun, but did it stop all the light? What does each layer do to the light?",
-     "kid": "Which hid the sun fastest? Did the paper pile stop all the light? How do you know?",
+     "kid": "Look at your table. Tell your grown-up which material needed the fewest layers.",
      "ask": [
       {
        "q": "What does each layer do to the light?",
@@ -428,7 +428,7 @@
    "title": "The Milk Cloud: how many drops hide the coin?",
    "mins": 18,
    "days": 1,
-   "context": "In this experiment you drop milk into a glass of clear water, a few drops at a time. You count the drops until you can no longer see a coin at the bottom. Then you take half the water out and look again.",
+   "context": "In this experiment you drop milk into a glass of clear water, a few drops at a time. You count the drops until you can no longer see a coin at the bottom. Then you take half the water out and look again. You will find out why cloudy water hides the coin, and why less of it lets the coin show again.",
    "question": "How many drops of milk does it take to hide a coin at the bottom of a glass of water? If we take half the cloudy water out, can we see the coin again?",
    "predict": "How many drops do you think it will take to hide the coin? When we take half the water out, will the coin show again? Why do you think so?",
    "fair_test": "We use the same glass, the same coin and the same window light. We stir the same way after every 5 drops. We always look straight down from the same height.",
@@ -478,7 +478,7 @@
      "what": "Drip milk into water until a coin disappears, then take half out and look again."
     }
    ],
-   "record": "Write how many drops it took. Draw the glass full, with the coin hidden, and half full, with the coin showing or not.",
+   "record": "Write how many drops it took. Take a photo of the glass full and half full, or draw them.",
    "setup": [
     {
      "art": "A clear glass of water on a table by a window, a coin at the bottom, a katori of milk and a teaspoon beside it.",
@@ -502,15 +502,15 @@
      "id": "s1",
      "mins": 2,
      "do": "Fill the glass with water. Drop the coin in. Your child looks straight down at it.",
-     "say": "Look down into the glass. Can you see the coin? Is the water transparent?",
-     "kid": "Look down at the coin. Can you see it clearly?"
+     "say": "Look down into the glass. Can you see the coin clearly? Water you can see clearly through is called transparent.",
+     "kid": "Look straight down. Point to the coin."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Ask your child to guess how many drops of milk will hide the coin. Write it down.",
      "say": "We will drip in milk, five drops at a time. How many drops will hide the coin? Why do you think so?",
-     "kid": "Guess how many drops will hide the coin. Why?",
+     "kid": "Say a number of drops. Tell why you think so.",
      "parent": "Milk is mostly water, with tiny drops of fat and other tiny bits floating in it. These send light off in all directions."
     },
     {
@@ -535,10 +535,10 @@
      "mins": 4,
      "do": "Use the katori to scoop about half the cloudy water into the other tumbler. Do not move the coin. Your child looks straight down into the half-full glass.",
      "say": "The water is just as cloudy as before. But now there is only half as much. Will the coin show again? Why?",
-     "kid": "Now there is half as much water. Can you see the coin?",
+     "kid": "Look straight down into the half-full glass.",
      "ask": [
       {
-       "q": "Why can you see the coin again?",
+       "q": "Can you see the coin now? Why, or why not?",
        "good": [
         "There is less water in the way.",
         "Fewer layers of cloudy water."
@@ -550,9 +550,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Talk about the test.",
+     "do": "Talk about the glass of cloudy water and the pile of paper squares together.",
      "say": "Clear water was transparent. With milk, it became cloudy. A full glass hid the coin, but half a glass did not. How is this like the Layer Test?",
-     "kid": "How is the cloudy water like the pile of paper?",
+     "kid": "Think about the pile of paper squares. What is the same?",
      "check": {
       "t": "mcq",
       "q": "You have a full glass of cloudy, milky water. You cannot see the coin at the bottom. What can you do to see the coin, without adding anything?",
@@ -575,7 +575,7 @@
    "title": "Three Plates: see through, glow or dark?",
    "mins": 10,
    "days": 1,
-   "context": "This is a short activity to start the unit. You hold ten home things up to a window, one at a time. Then you put each one on a plate: see through, glow or dark.",
+   "context": "This is a short activity to start the unit. You hold ten home things up to a window, one at a time. Then you put each one on a plate: see through, glow or dark. You will find out that things fall into three groups by how much light they let through.",
    "materials": [
     {
      "item": "three steel plates, with a paper label on each: an eye for 'see through', a glow for 'glow', and a black circle for 'dark'",
@@ -598,7 +598,7 @@
      "what": "Hold ten things up to the light, and sort them on three plates."
     }
    ],
-   "record": "Draw the three plates and what you put on each.",
+   "record": "Take a photo of your three plates, or tell a grown-up what is on each plate.",
    "setup": [
     {
      "art": "Three steel plates on the floor with labels: an eye, a soft glow and a black circle, and a basket of ten home things beside them.",
@@ -643,7 +643,7 @@
      "mins": 2,
      "do": "Look at the three plates together. Tell your child the three words.",
      "say": "Things on the eye plate are called transparent. Things on the glow plate are called translucent. Things on the dark plate are called opaque. Which plate has the most things?",
-     "kid": "Eye plate: transparent. Glow plate: translucent. Dark plate: opaque.",
+     "kid": "Say the three new words back to your grown-up: transparent, translucent, opaque.",
      "check": {
       "t": "mcq",
       "q": "You hold a paper napkin up to the window. It glows, but you cannot see the window through it. Which plate does it go on?",
@@ -663,7 +663,7 @@
    "title": "Thin Slice, Thick Piece: the cucumber test",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a grown-up cuts a cucumber into a very thin slice, a thick slice and a big chunk. You hold each one up to the window and see which ones let light through.",
+   "context": "In this activity a grown-up cuts a cucumber into a very thin slice, a thick slice and a big chunk. You hold each one up to the window and see which ones let light through. You will find out if the same food can let light through and also stop it.",
    "materials": [
     {
      "item": "a cucumber",
@@ -690,7 +690,7 @@
      "what": "Hold thin and thick pieces of cucumber up to the window."
     }
    ],
-   "record": "Draw the three pieces, and colour the ones that glowed.",
+   "record": "Take a photo of your line of pieces, or tell a grown-up which ones glowed.",
    "setup": [
     {
      "art": "A grown-up cutting a cucumber on a board into a paper-thin slice, a slice as thick as a finger and a big chunk.",
@@ -706,16 +706,16 @@
      "id": "s1",
      "mins": 3,
      "adult": true,
-     "do": "Cut three pieces of cucumber. Make one slice as thin as you can. Make one slice as thick as a finger. Cut one chunk as long as your thumb.",
+     "do": "Cut three pieces of cucumber. Make one slice as thin as you can. Make one slice as thick as a finger. Cut one big chunk as long as your whole hand, with the skin on.",
      "say": "These three pieces are all cucumber. Which ones will let light through? Why do you think so?",
-     "kid": "All three are cucumber. Which will let light through? Why?"
+     "kid": "All three are cucumber. Point to the pieces you think will let light through."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Your child holds each piece up to the window.",
      "say": "Hold up the thin slice. What do you see? Now the thick slice. Now the chunk.",
-     "kid": "Hold each piece up to the window. Which ones glow?",
+     "kid": "Hold each piece up to the window. Then line them up, from most glow to least glow.",
      "ask": [
       {
        "q": "Which pieces glowed?",
@@ -725,14 +725,14 @@
        ]
       }
      ],
-     "parent": "If you have an onion, peel off one thin layer of the white part. Hold it up too, and then hold up the whole onion."
+     "parent": "If you have an onion, peel off one thin layer of the white part. Hold it up too, and then hold up the whole onion. A thick piece may glow only a little. That is fine. Let your child say what they see."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Talk about it. Then eat the cucumber.",
      "say": "Is cucumber translucent or opaque? Can it be both?",
-     "kid": "Is cucumber translucent or opaque? What does it depend on?",
+     "kid": "Is cucumber translucent or opaque? Use the three pieces to show your answer.",
      "ask": [
       {
        "q": "What made the difference?",
@@ -763,7 +763,7 @@
    "title": "Thin or Thick? A card game",
    "mins": 15,
    "players": "2 to 6 players. Take turns being the reader.",
-   "context": "This is a card game. Each card names a thing. You say whether light goes straight through it, glows through it, or is stopped. Then you find the pairs: the thin and thick versions of the same material.",
+   "context": "This is a card game. Each card names a thing. You say whether light goes straight through it, glows through it, or is stopped. At the end you match each thin thing with its thick partner. You will find out that the same material can let light through when it is thin, and stop it when it is thick.",
    "printables": [
     {
      "kind": "cards",
@@ -852,7 +852,7 @@
      "mins": 2,
      "do": "Read the rules together. Practise the three hand signs. Decide who reads first.",
      "say": "Open hands mean see through. Wiggly fingers mean glows. Fists mean dark. Let's try each one.",
-     "kid": "Open hands: see through. Wiggly fingers: glows. Fists: dark."
+     "kid": "Practise all three hand signs."
     },
     {
      "id": "s2",
@@ -860,17 +860,17 @@
      "do": "Play all 12 cards. The reader reads each front, waits for every hand sign and reason, then reads the back. Pass the cards to the next reader.",
      "say": "One paper napkin. Show me with your hands. Why did you choose that?",
      "kid": "Listen to the card. Show your answer with your hands.",
-     "parent": "The gold leaf and the rock slice are the surprises. If your child shows a fist, ask: what happened to the thin cucumber slice?"
+     "parent": "The gold leaf and the rock slice are the surprises. If your child shows a fist for a thin thing, ask: what happens when a thin slice of cucumber is held up to a window?"
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "Lay the cards face up and find the pairs together.",
      "say": "Find a thin thing and a thick thing made of the same material. What is the same about every pair?",
-     "kid": "Find the pairs. What is the same in every pair?",
+     "kid": "Match each thin thing with its thick partner.",
      "check": {
       "t": "mcq",
-      "q": "Two cards say 'one glass of water' and 'the deep sea'. Why is one see through and the other dark?",
+      "q": "A glass of water is see through. The deep sea is dark. Why?",
       "options": [
        "The deep sea has much more water in the way",
        "Sea water is a different colour",
@@ -887,7 +887,7 @@
    "title": "Window, Curtain, Wall: a moving game",
    "mins": 8,
    "players": "1 or more players, and a grown-up to call out. Take turns calling if you like.",
-   "context": "This is a moving game. A grown-up calls out a thing. If light goes straight through it, you are a window. If it glows, you are a curtain. If it stops light, you are a wall.",
+   "context": "This is a moving game. A grown-up calls out a thing. If light goes straight through it, you are a window. If it glows, you are a curtain. If it stops light, you are a wall. You will find out that a thing can be a curtain when there is a little of it and a wall when there is a lot.",
    "printables": [
     {
      "kind": "cards",
@@ -976,7 +976,7 @@
      "mins": 2,
      "do": "Show the three moves. Practise each one twice.",
      "say": "Window: look through your hands. Curtain: sway. Wall: stand stiff. Let's try them.",
-     "kid": "Window: look through your hands. Curtain: sway. Wall: stand stiff."
+     "kid": "Learn the three moves: window, curtain and wall."
     },
     {
      "id": "s2",
@@ -991,7 +991,7 @@
      "mins": 1,
      "do": "Ask one last question.",
      "say": "Which thing made you change from curtain to wall, just by adding more of it?",
-     "kid": "Which thing turned from curtain to wall when there was more of it?",
+     "kid": "Think back over the calls. Find the pair of things.",
      "check": {
       "t": "mcq",
       "q": "The grown-up calls out 'a thin cotton dupatta'. Which move should you make?",
@@ -1013,7 +1013,7 @@
    "title": "The Window Letter: a message only light can show",
    "mins": 25,
    "days": 1,
-   "context": "In this project you write a secret message and hide it under layers of paper. On a table, nobody can read it. Held up to a bright window, the message appears.",
+   "context": "In this project you write a secret message and hide it under layers of paper. On a table, nobody can read it. Held up to a bright window, the message appears. You will find out why paper hides writing on a table but not at a window.",
    "materials": [
     {
      "item": "a sheet of white paper, from an unruled notebook or old printer paper",
@@ -1043,7 +1043,7 @@
      "what": "Write a message, hide it under paper layers, and test it at the window."
     }
    ],
-   "record": "Draw your letter on the table and at the window. Write how many layers you used.",
+   "record": "Write how many sheets hid the message on the table. Take a photo of your letter on the table and at the window.",
    "setup": [
     {
      "art": "A girl writing 'HAPPY PONGAL PAATI' in big, thick black letters on white paper.",
@@ -1051,7 +1051,7 @@
     },
     {
      "art": "The girl gluing two more white sheets over the message, edge to edge, so the letters are hidden.",
-     "caption": "2. Stick two sheets over it. Draw a picture on top."
+     "caption": "2. Stick two sheets over it. Add a name or picture on top."
     },
     {
      "art": "A parent holding the letter up to a bright window, and the dark letters of the message showing through clearly.",
@@ -1077,16 +1077,16 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Your child draws a picture on the top sheet with crayons, lightly, so it doesn't cover all of it.",
-     "say": "Draw a picture on top, so nobody guesses there is a message inside.",
-     "kid": "Draw a picture on top. Keep the message a secret."
+     "do": "Your child makes the top sheet look like an ordinary card. They can draw a light picture with crayons, or just write a name on the front.",
+     "say": "Make the top sheet look like an ordinary card, so nobody guesses there is a message inside.",
+     "kid": "Draw a light picture, or write a name on the front. Keep the message a secret."
     },
     {
      "id": "s4",
      "mins": 6,
      "do": "Hold the letter up to a bright window. Then give it to someone, and show them the trick.",
      "say": "The paper hid your message on the table. Why can we read it at the window?",
-     "kid": "Hold it up to the window. What do you see? Why?",
+     "kid": "Hold it up to the window. Read your message.",
      "ask": [
       {
        "q": "Why does the message show at the window?",
@@ -1116,7 +1116,7 @@
    "id": "c1",
    "title": "The Nap Room: make a shoebox dark",
    "mins": 20,
-   "context": "This is a problem to solve. A shoebox room has a big window cut in its lid. You must make it dark inside, using as few layers as you can.",
+   "context": "This is a problem to solve. A shoebox room has a big window cut in its lid. You must make it dark inside, using as few layers as you can. You will find out which things stop light well, even in one layer.",
    "problem": "A shoebox is a room for a white paper cat. The room has a big window cut in the lid and a peephole at one end. The cat wants an afternoon nap. Cover the window so the room is dark inside, even next to a bright window. Use as few layers as you can.",
    "constraints": [
     "Use only things you already have at home.",
@@ -1160,7 +1160,7 @@
      "mins": 3,
      "do": "Set up the shoebox next to a bright window. Your child looks through the peephole. Read the problem.",
      "say": "Can you see the white paper cat through the peephole? Now we must make the room dark, with as few layers as we can.",
-     "kid": "Look through the peephole. Can you see the cat? Now make it dark.",
+     "kid": "Look through the peephole and find the cat. Then look at the things you can use.",
      "ask": [
       {
        "q": "What could you use?",
@@ -1176,14 +1176,14 @@
      "mins": 12,
      "do": "Let your child try their ideas. Count the layers each time. Help only if asked.",
      "say": "Try your idea. Count the layers. Look through the peephole. Can you still see the cat?",
-     "kid": "Try your idea. Count the layers. Can you still see the cat?"
+     "kid": "Try a cover. Count the layers you used."
     },
     {
      "id": "c-s3",
      "mins": 5,
      "do": "Talk about which way worked best.",
      "say": "Which cover used the fewest layers? Why did it need so few?",
-     "kid": "Which cover used the fewest layers? Why?",
+     "kid": "Line up your covers, fewest layers first.",
      "check": {
       "t": "mcq",
       "q": "You need 8 sheets of newspaper to make the shoebox dark. A friend uses only 1 layer. What might the friend have used?",
