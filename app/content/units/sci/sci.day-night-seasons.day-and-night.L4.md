@@ -418,7 +418,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: Red light usually disturbs animals less than white light and does not spoil your own night vision. Do not shine the torch into the eyes of an animal. If there are no animals, look at how the light attracts insects, and note which light sources are near.
   - Check: Why do we use a red torch and not a white one? → **Red light disturbs animals and our own night vision less**
 - **s4 (7 min)**  
-  *Parent does:* Ask your child to pick one animal they saw or heard. They can describe the animal or draw it. Then ask which sense this animal needs to find the way in the dark.  
+  *Parent does:* Ask your child to pick one animal they saw or heard. They can describe the animal, or draw the animal. Then ask which sense this animal needs to find the way in the dark.  
   *Parent says:* Pick one night creature. Describe the creature or draw it. Which sense helps this creature find the way in the dark?  
   *Child mode:* Pick one night animal. Describe it or draw it. Which sense does this animal use?
   - Ask: How might an animal that is awake at night find food, if there is no light? (good: By hearing.; By smell.; By feeling with whiskers.)
@@ -556,7 +556,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **general:** A paper cup over the torch with the open end facing down, so the light goes only downwards.; A cone of black paper round the torch that points down at the road.
 - **creative:** A cup with a small hole cut in the bottom, so that the light makes a small bright circle on the road.; A lamp that is lower and has a flat top, so less light spills sideways.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* Read the problem together. In a dark room, hold one white card above the torch for the sky, and one at its side for a neighbour's window. Ask which card is brighter.  
+  *Parent does:* Read the problem together. In a dark room, hold one white card above the torch for the sky. Hold another at its side for a neighbour's window. Ask which card is brighter.  
   *Parent says:* This is a street lamp with no shade. In a dark room, look at the sky card and the window card. Which one is brighter? What does the bare lamp do?  
   *Child mode:* Look at the bare torch in the dark. Which card is brighter?
   - Note: A bare lamp lights everything, including the sky card and the window card. Do not shine the torch at anyone's face.

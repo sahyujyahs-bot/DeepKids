@@ -1381,7 +1381,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Ask your child to pick one animal they saw or heard. They can describe the animal or draw it. Then ask which sense this animal needs to find the way in the dark.",
+     "do": "Ask your child to pick one animal they saw or heard. They can describe the animal, or draw the animal. Then ask which sense this animal needs to find the way in the dark.",
      "say": "Pick one night creature. Describe the creature or draw it. Which sense helps this creature find the way in the dark?",
      "kid": "Pick one night animal. Describe it or draw it. Which sense does this animal use?",
      "ask": [
@@ -1963,7 +1963,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. In a dark room, hold one white card above the torch for the sky, and one at its side for a neighbour's window. Ask which card is brighter.",
+     "do": "Read the problem together. In a dark room, hold one white card above the torch for the sky. Hold another at its side for a neighbour's window. Ask which card is brighter.",
      "say": "This is a street lamp with no shade. In a dark room, look at the sky card and the window card. Which one is brighter? What does the bare lamp do?",
      "kid": "Look at the bare torch in the dark. Which card is brighter?",
      "adult": true,
