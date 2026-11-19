@@ -14637,7 +14637,7 @@ function fxItem(u, key, it, i, n) {
       : it.t === "match"
         ? `<ul class="fxlist fxnone">${it.pairs.map(([x, y], i) => `<li>${i + 1}. ${esc(x)} <span class="fxarr">→</span> <b>${letter(y)}. ${esc(y)}</b></li>`).join("")}</ul>`
         : it.t === "order"
-          ? lines(it.items.map(esc), true)
+          ? lines((Array.isArray(it.a) ? it.a : it.items).map(esc), true)
           : it.t === "forces"
             ? lines(it.a.map((f) => `${esc(f.name)}: <b>${esc(f.dir)}</b>`))
             : it.t === "draw"
@@ -14655,7 +14655,7 @@ function fxItem(u, key, it, i, n) {
       : it.t === "sort"
         ? `<div class="fxcats">${it.cats.map((c) => `<b>${esc(c)}</b>`).join("")}</div>${lines(it.items.map((x) => esc(x[0])))}`
         : it.t === "order"
-          ? lines(it.items.slice().sort().map(esc))
+          ? lines((it.items || it.a).slice().sort().map(esc))
           : it.t === "forces"
             ? `<p class="fxsm">Draw an arrow for each:</p>${lines(it.options.map(esc))}`
             : it.t === "perspective"
@@ -14989,11 +14989,12 @@ function fxCards(u) {
         );
         break;
       case "buy":
-        add(
-          "buy",
-          `${fxImg(u, "buy", "")}<div class="fxtxt"><span class="fxeb">🛒 Things that help</span>${u.buy.map((b) => `<div class="fxvoice"><b><a target="_blank" rel="noopener" href="${esc(b.url)}">${esc(b.item)}</a></b><p class="fxsm">${esc(b.why)}${b.plan ? " " + esc(b.plan) : ""}</p>${(b.used_in || []).length ? `<button class="fxb" data-fxbought="${esc(u.id + "|" + b.item)}">${(S.bought || {})[u.id + "|" + b.item] ? "✔ We have it: added to the plan" : "We bought it"}</button>` : ""}</div>`).join("")}</div>`,
-          "",
-        );
+        if (u.buy.length)
+          add(
+            "buy",
+            `${fxImg(u, "buy", "")}<div class="fxtxt"><span class="fxeb">🛒 Things that help</span>${u.buy.map((b) => `<div class="fxvoice"><b><a target="_blank" rel="noopener" href="${esc(b.url)}">${esc(b.item)}</a></b><p class="fxsm">${esc(b.why)}${b.plan ? " " + esc(b.plan) : ""}</p>${(b.used_in || []).length ? `<button class="fxb" data-fxbought="${esc(u.id + "|" + b.item)}">${(S.bought || {})[u.id + "|" + b.item] ? "✔ We have it: added to the plan" : "We bought it"}</button>` : ""}</div>`).join("")}</div>`,
+            "",
+          );
         break;
     }
   }
