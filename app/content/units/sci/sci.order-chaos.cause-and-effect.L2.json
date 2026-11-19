@@ -285,7 +285,7 @@
    "title": "The Domino Gap Test: how far apart can they be?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you stand ten dominoes in a line and push the first one. You try three different gaps between them, and count how many fall each time.",
+   "context": "In this experiment you stand ten dominoes in a line and push the first one. You try three different gaps between them, and count how many fall each time. You will find out how big a gap a falling domino can jump.",
    "question": "How far apart can dominoes stand and still knock each other down, all the way to the end of the line?",
    "predict": "We will try three gaps: one finger wide, half a domino tall, and one whole domino tall. Which gaps will make all ten dominoes fall? Why do you think so?",
    "fair_test": "We change only the gap. We use the same ten dominoes on the same floor each time. We give the first domino the same gentle push with one finger. We switch off the fan, because moving air can knock over light dominoes. We try each gap twice, because one try can go wrong by chance.",
@@ -321,7 +321,7 @@
      "what": "Make the gap strip. Stand up ten dominoes three times, with three different gaps. Push the first one and count how many fall."
     }
    ],
-   "record": "Fill in the results table. Then draw the line of dominoes for the widest gap, showing which ones fell and which stayed up.",
+   "record": "Fill in the results table. Then stand the dominoes as they ended up for the widest gap and take a photo, or draw them, showing which ones fell and which stayed up.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, using empty matchboxes",
@@ -375,9 +375,9 @@
      "id": "s1",
      "mins": 4,
      "context": "This is the first step of the domino gap test. You make a strip of paper to measure the gaps.",
-     "do": "1. Stand one domino on its short end. 2. Hold the paper strip upright beside it, with one end on the floor. 3. Your child marks the strip level with the top of the domino. 4. Cut the strip at the mark. 5. Fold it in half and mark the fold.",
+     "do": "1. Stand one domino on its short end. 2. Hold the paper strip upright beside it, with one end on the floor. 3. Your child marks the strip level with the top of the domino. 4. Tear off the extra paper above the mark. 5. Fold the strip in half and mark the fold.",
      "say": "This strip is exactly as long as a domino is tall. Folded in half, it shows half a domino's height. We will use it to set the gaps.",
-     "kid": "Stand a domino up. Hold the paper strip beside it. Mark how tall the domino is. Cut the paper there. Fold it in half.",
+     "kid": "Stand a domino up. Hold the paper strip beside it. Mark how tall the domino is. Tear off the extra paper. Fold the strip in half.",
      "parent": "Measuring with the strip means the test works with any dominoes, matchboxes or blocks, whatever their size."
     },
     {
@@ -386,7 +386,7 @@
      "context": "In this step of the domino gap test, you guess what will happen.",
      "do": "1. Switch off the fan. 2. Show your child the three gaps: one finger, half the strip and the whole strip. 3. Ask the question below.",
      "say": "We will try three gaps. One finger wide. Half a domino tall. One whole domino tall. For which gaps will all ten fall? Why do you think so?",
-     "kid": "There are three gaps to try. Which gaps will make all ten fall? Why?",
+     "kid": "Look at the three gaps. Think about what will happen to the dominoes.",
      "ask": [
       {
        "q": "Which gaps will make all ten dominoes fall? Why?",
@@ -423,13 +423,13 @@
      "context": "In this step of the domino gap test, you try the widest gap: as wide as a domino is tall.",
      "do": "1. Stand the ten dominoes again, using the whole strip to set each gap. 2. Push the first one gently. 3. Watch where the first domino lands. 4. Count how many fell. 5. Do it once more.",
      "say": "Now each gap is as wide as a domino is tall. Push the first one. Watch where it lands. How many fell this time?",
-     "kid": "Make each gap as wide as the whole strip. Push the first one. Watch where it lands.",
+     "kid": "Make each gap as wide as the whole strip. Push the first one gently.",
      "ask": [
       {
-       "q": "Where did the first domino land? Did it touch the second one?",
+       "q": "Did the first domino reach the top of the second one?",
        "good": [
-        "It lay down flat and just reached the bottom of the next one.",
-        "It did not reach the next one, so that one stayed up."
+        "No. It lay down flat and only reached the bottom of the next one.",
+        "No, so the second one stayed up."
        ]
       }
      ],
@@ -441,7 +441,7 @@
      "context": "This is the last step of the domino gap test. You take one domino out and say what you found.",
      "do": "1. Stand the line again with the half-strip gaps. 2. Take out the fifth domino. 3. Push the first one and count how many fall. 4. Ask your child what they saw, and why they think the chain stopped. 5. Then read the card 'A chain of causes: why the last domino falls'.",
      "say": "This time we take one domino out of the middle. What will happen? Push the first one. How many fell? Why do you think the chain stopped where it did?",
-     "kid": "Take out the fifth domino. Push the first one. Where does the chain stop? Why?",
+     "kid": "Take out the fifth domino. Push the first one. Count how many fall.",
      "ask": [
       {
        "q": "Why did the chain stop?",
@@ -472,7 +472,7 @@
    "title": "The Coin Chain: which coin moves?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put coins in a line, touching each other. You slide one more coin into the end of the line, and watch which coin moves away.",
+   "context": "In this experiment you put coins in a line, touching each other. You slide one more coin into the end of the line, and watch which coin moves away. You will find out how a push travels along a line.",
    "question": "If you slide a coin into one end of a line of coins, which coin will move away?",
    "predict": "When the sliding coin hits the line, which coin will move? The first one, the middle ones, the last one, or all of them? Why do you think so?",
    "fair_test": "All the coins are the same kind, so they are the same size and weight. They touch each other in a straight line. We slide the coin the same way each time, on the same smooth surface. We try each test three times, because one try can go wrong by chance.",
@@ -502,7 +502,7 @@
      "what": "Line up five coins touching. Slide one coin into the end, then two coins. Watch which coins move away."
     }
    ],
-   "record": "Draw the line of coins before and after each test. Draw an arrow on each coin that moved.",
+   "record": "Fill in the results table. Then take a photo of the coins after one test, with the coins that moved set a little apart from the rest.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, on a carrom board",
@@ -545,7 +545,7 @@
      "context": "This is the first step of the coin chain test. You line up the coins and guess.",
      "do": "1. Lay the ruler on the board. 2. Your child puts five coins along its edge, all touching. 3. Take the ruler away gently. 4. Ask the question below.",
      "say": "These five coins are all touching. We will slide another coin into this end. Which coin will move away? Why do you think so?",
-     "kid": "Put five coins in a line, touching. Which coin will move when another coin hits? Why?",
+     "kid": "Put five coins in a line, so they touch. Then guess what will happen.",
      "ask": [
       {
        "q": "Which coin will move away when the sliding coin hits?",
@@ -564,7 +564,7 @@
      "context": "In this step of the coin chain test, you slide one coin into the line.",
      "do": "1. Put a sixth coin about one hand-length from the end of the line, in a straight line with it. 2. Your child flicks it with a finger so it slides straight into the line. 3. Watch which coin moves. 4. Set up again and do it three times.",
      "say": "Flick this coin so it slides straight into the end of the line. Watch carefully. Which coin moved?",
-     "kid": "Flick the coin into the line. Watch closely. Which coin moved away?",
+     "kid": "Flick the coin into the line. Watch closely.",
      "ask": [
       {
        "q": "Which coin moved? What did the middle coins do?",
@@ -591,7 +591,7 @@
      "context": "This is the last step of the coin chain test. You say what you found.",
      "do": "1. Ask your child what they saw, and how they think the push reached the last coin. 2. Then read the card 'A chain of causes: why the last domino falls'.",
      "say": "The middle coins hardly moved. But the last coin flew off. How did the push get to the end?",
-     "kid": "The middle coins hardly moved. How did the push get to the end coin?",
+     "kid": "Look at the coins again. Tell your grown-up what you think happened.",
      "ask": [
       {
        "q": "How did the push get from the first coin to the last coin?",
@@ -613,7 +613,7 @@
    "title": "Do It and See: six actions, six effects",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you do six small actions around the house. After each one, you say what happened because of it.",
+   "context": "In this activity you do six small actions around the house. After each one, you say what happened because of it. You will see that every action makes something happen.",
    "materials": [
     {
      "item": "a steel spoon and a steel plate",
@@ -639,7 +639,7 @@
      "what": "Do six actions and say the effect of each one. Then try to find an action with no effect."
     }
    ],
-   "record": "Draw one action and its effect, with an arrow from the action to the effect.",
+   "record": "Pick one action. Tell your grown-up its cause and its effect, or draw it with an arrow from the cause to the effect.",
    "setup": [
     {
      "art": "A child dropping a steel spoon onto a steel plate, with lines showing the clang.",
@@ -654,7 +654,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Your child does each of these. 1. Drop the spoon onto the plate. 2. Hold the paper strip in front of the fan and switch the fan on. 3. Stir a spoon of sugar into the water and taste it. 4. Breathe on the steel tumbler. 5. Clap once. 6. Switch the light off and on.",
+     "do": "Your child does each of these. 1. Drop the spoon onto the plate. 2. Hold the paper strip in front of the fan and switch the fan on, or blow on the strip. 3. Stir a spoon of sugar into the water and taste it. 4. Breathe on the steel tumbler. 5. Clap once. 6. Switch the light off and on.",
      "say": "Do this, and tell me what happened because of it. What you did is called the cause. What happened is called the effect.",
      "kid": "Do each action. Then say what happened. What you did is the cause. What happened is the effect.",
      "ask": [
@@ -673,7 +673,7 @@
      "mins": 4,
      "do": "1. Ask your child to find an action that has no effect at all. 2. Talk about each one they try.",
      "say": "Can you find an action that has no effect at all? Try something. Now, did anything change, even a tiny bit?",
-     "kid": "Try to find an action with no effect at all. Did anything change, even a little?",
+     "kid": "Try some small actions. Look, listen and feel for any change.",
      "ask": [
       {
        "q": "Was there an action with no effect at all?",
@@ -693,10 +693,10 @@
    "title": "Cause Detectives: what made this happen?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity a grown-up leaves four effects around the house. You find each one and work out what caused it, using clues.",
+   "context": "In this activity a grown-up leaves four things around the house. Each one is an effect, which means something that happened. You find each one and work out its cause from clues. You will learn how to tell what made something happen.",
    "materials": [
     {
-     "item": "a little water, a book, a few crumbs of biscuit and a chappal",
+     "item": "a tumbler, a little water, a book, a few crumbs of biscuit and a chappal",
      "qty": 1
     }
    ],
@@ -707,7 +707,7 @@
      "what": "Find four effects around the house and work out the cause of each, using clues."
     }
    ],
-   "record": "For each effect, draw it and write one word for its cause.",
+   "record": "For each effect, say or write one word for its cause. Take a photo of the clue.",
    "setup": [
     {
      "art": "A small puddle of water on a kitchen floor beside a dripping tumbler.",
@@ -732,7 +732,7 @@
      "mins": 8,
      "do": "1. Your child finds each effect. 2. For each one, ask the questions below.",
      "say": "What do you think caused this? What clue tells you? Could anything else have caused it?",
-     "kid": "What caused this? What clue tells you? Could it be something else?",
+     "kid": "Look closely at each thing. Point to the clue that tells you the cause.",
      "ask": [
       {
        "q": "What caused the crumbs on the plate? How do you know?",
@@ -768,7 +768,7 @@
    "title": "The Ant Message Chain",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you put a drop of sugar water where ants walk. You watch how one ant finding the sugar leads to many ants coming. This works if ants visit your kitchen or balcony.",
+   "context": "In this activity you put a drop of sugar water where ants walk. You watch how one ant finding the sugar leads to many ants coming. You will find out how ants tell each other where food is. This works if ants visit your kitchen or balcony.",
    "materials": [
     {
      "item": "a small piece of paper",
@@ -786,7 +786,7 @@
      "what": "Put sugar water near an ant path. Look at it three times, 10 minutes apart. Count the ants."
     }
    ],
-   "record": "Draw the paper each time you look, with a dot for each ant. Write the time and the number of ants.",
+   "record": "Each time you look, write the time and the number of ants. Then say the chain in order to your grown-up.",
    "setup": [
     {
      "art": "A drop of sugar water on a small square of paper on a kitchen counter, near a line of tiny ants walking along the wall.",
@@ -829,7 +829,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Talk about the chain together. 2. Afterwards, move the paper outside or wipe the sugar away, without hurting the ants.",
-     "say": "First we put down the sugar water. Then one ant found it. Then she left a smell trail. Then many ants came. What started the chain?",
+     "say": "First we put down the sugar water. Then one ant found the sugar. Then she left a smell trail. Then many ants came. What started the chain?",
      "kid": "One ant found the sugar. Then many came. What started the chain?",
      "parent": "Ants sense, think and tell each other where food is. Some scientists say the trail is only an automatic reaction, and others say each ant chooses. Either way, one ant's find was the cause of all the others coming."
     }
@@ -842,7 +842,7 @@
    "title": "Chain Builder: a card game of causes",
    "mins": 15,
    "players": "2 to 4 players, or 1 player building the chains alone",
-   "context": "This is a card game. Each card shows something that happens. You build chains of causes, where each card makes the next one happen.",
+   "context": "This is a card game. Each card shows something that happens. You build chains of causes, where each card makes the next one happen. You will practise telling a cause from its effect.",
    "printables": [
     {
      "kind": "cards",
@@ -965,7 +965,7 @@
      "kid": "Find the card that comes next. Say the link with 'so'.",
      "ask": [
       {
-       "q": "Why can't 'Asha reaches school late' come straight after 'Dark clouds blow in'?",
+       "q": "Why can't 'Asha reaches school late' come right after 'Dark clouds blow in'?",
        "good": [
         "Something has to happen in between.",
         "The clouds don't make her late by themselves. The rain and the water in the lane do."
@@ -979,7 +979,7 @@
      "mins": 3,
      "do": "1. When all the chains are finished, look at the mango chain. 2. Ask the question below.",
      "say": "Look at the mango chain. What does the last card lead to?",
-     "kid": "Look at the last mango card. What does it lead to next?",
+     "kid": "Look at the last mango card. Then look at the first mango card.",
      "ask": [
       {
        "q": "What does the last mango card lead to?",
@@ -1009,7 +1009,7 @@
    "title": "Pass the Push: a human chain game",
    "mins": 10,
    "players": "3 or more players, and one person to time",
-   "context": "This is a game you play with your bodies. Players stand in a line. Each one pats the next person's shoulder only when they feel a pat. You time how long the pat takes to reach the end.",
+   "context": "This is a game you play with your bodies. Players stand in a line. Each one pats the next person's shoulder only when they feel a pat. You time how long the pat takes to reach the end. You will find out how long a push takes to pass along a line of people.",
    "printables": [
     {
      "kind": "score sheet",
@@ -1092,7 +1092,7 @@
    "title": "Tonight's Cause, Tomorrow's Effect: soaking chana",
    "days": 2,
    "mins": 15,
-   "context": "In this project you soak dry chana in water at night. You measure a line of chana before and after, to see an effect that takes all night to happen.",
+   "context": "In this project you soak dry chana in water at night. You measure a line of chana before and after, to see an effect that takes all night to happen. You will find out what a night in water does to dry chana.",
    "materials": [
     {
      "item": "a small handful of dry chana (chickpeas), white or black",
@@ -1119,7 +1119,7 @@
      "what": "Line up the same ten chana and measure again. Compare."
     }
    ],
-   "record": "Write how long the line of ten chana was at night and in the morning. Draw one chana before soaking and one after, each at its real size.",
+   "record": "Write how long the line of ten chana was at night and in the morning. Draw one chana before soaking and one after, each at its real size, or take a photo of each next to the ruler.",
    "setup": [
     {
      "art": "Ten dry chana in a touching line along a ruler, with the length marked.",
@@ -1136,7 +1136,7 @@
      "mins": 8,
      "do": "1. Your child lines up ten dry chana, touching, along a ruler. 2. Write down the length. 3. Put them in a bowl with plenty of water. 4. Ask the question below.",
      "say": "We put these chana in water tonight. What will they look like in the morning? Why do you think so?",
-     "kid": "Line up ten chana. Measure the line. Put them in water. What will happen by morning? Why?",
+     "kid": "Line up ten chana along the ruler. Measure the line. Put them in water.",
      "ask": [
       {
        "q": "What will the chana look like in the morning? Why?",
@@ -1154,7 +1154,7 @@
      "mins": 7,
      "wait": "The next morning",
      "do": "1. Take out the same ten chana. 2. Your child lines them up along the ruler again. 3. Compare the two lengths. 4. Look at how much water is left in the bowl.",
-     "say": "How long is the line now? Is there less water in the bowl? Where did the water go? When did we do the thing that caused this?",
+     "say": "How long is the line now? Is there less water in the bowl? Where did the water go?",
      "kid": "Measure the line again. Is it longer? Where did the water go?",
      "ask": [
       {
@@ -1175,7 +1175,7 @@
    "id": "c1",
    "title": "The Chain Reaction Machine: ring a bell with one push",
    "mins": 25,
-   "context": "This is a design challenge. You build a chain of at least four causes. The last effect must ring a steel bowl or drop a coin into a cup.",
+   "context": "This is a design challenge. You build a chain of at least four causes. The last effect must ring a steel bowl or drop a coin into a cup. You will find out how long a chain of pushes you can make work.",
    "problem": "Make a machine where one gentle push starts a chain of at least four causes, and the last one rings a steel bowl or drops a coin into a cup.",
    "constraints": [
     "You may touch only the first part, once.",
@@ -1199,7 +1199,7 @@
     "Make the marble knock a coin off the edge of a table into a cup.",
     "Add a turn in the domino line, around a corner of a book."
    ],
-   "your_turn": "Draw your machine first, with an arrow from each cause to its effect. Then build it. If it stops, find the link that did not pass the push on, fix it, and try again.",
+   "your_turn": "Plan your machine first. Draw it with an arrow from each cause to its effect, or lay the parts out on the floor in order. Then build it. If it stops, find the link that did not pass the push on, fix it, and try again.",
    "setup": [
     {
      "art": "A drawing on paper of a domino line, a ramp and a steel bowl, with arrows from one to the next.",
@@ -1214,9 +1214,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Read the problem together. 2. Your child draws a plan with arrows.",
-     "say": "One push has to start at least four causes in a row. The last one must ring the bowl. Draw your plan first. Put an arrow from each cause to its effect.",
-     "kid": "Draw your machine. Draw an arrow from each cause to its effect."
+     "do": "1. Read the problem together. 2. Your child plans the machine, with a drawing and arrows or with the parts laid out in order.",
+     "say": "One push has to start at least four causes in a row. The last one must ring the bowl. Plan it first. Draw arrows from each cause to its effect, or lay the parts out in order.",
+     "kid": "Plan your machine. Draw it with arrows, or lay the parts out in order."
     },
     {
      "id": "s2",

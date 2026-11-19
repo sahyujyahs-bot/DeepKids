@@ -185,16 +185,16 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards and read the rules together.  
   *Parent says:* Each card is a race. You say who was faster, and why. Was it the same distance, or the same time?  
-  *Child mode:* Each card is a race. Say who was faster, and why.
+  *Child mode:* Listen to the card. Then say who was faster, and why.
 - **s2 (8 min)**  
   *Parent does:* Play through the pile. After each answer, ask: was the distance the same, or the time?  
   *Parent says:* Was it the same distance or the same time? So who was faster?  
-  *Child mode:* Same distance or same time? Who was faster?
+  *Child mode:* Find what is the same in the race: the distance or the time.
   - Note: The reason matters more than the name. Praise answers that say 'same distance, fewer claps' or 'same time, further'.
 - **s3 (2 min)**  
   *Parent does:* Count the cards and talk about the hardest one.  
   *Parent says:* Which card was hardest? Why?  
-  *Child mode:* Which card was hardest? Why?
+  *Child mode:* Count your cards. Then pick the hardest one.
   - Check: Two children start together and reach the gate together. Who is faster? → **Neither, they have the same speed**
 ### g2 · The Snake Boat Race board game (15 min)
 - **rules:** Each player puts a boat on square 0.; Take turns. Another player reads you the top question card.; If you answer right, row on 3 squares. If not, row on 1 square.; If you land on a square with words, do what it says.; Put the card at the bottom of the pile.; The first boat to reach square 20 wins the race.
@@ -202,18 +202,18 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **Printable cards: 12 question cards, with the answer on the back:** What is speed? (back: How far something goes in a stretch of time.); Two runners race the same distance. How do you know who is faster? (back: The one who takes less time, and finishes first.); Two runners run for the same time. How do you know who is faster? (back: The one who goes further.); Name one thing a fair race needs. (back: The same start line, the same finish line, or the same 'Go!' for everyone.); Name an animal faster than you. (back: For example a dog, a crow or a cheetah.); Name something slower than you. (back: For example a snail, an ant or a tortoise.); Why do tiny quick steps lose to an ordinary walk? (back: Each tiny step goes only a short way.); What is a head start? (back: Starting ahead of the others, closer to the finish.); Which wins a long race: a slow walker with a head start, or a fast walker? (back: Usually the fast walker, who has time to catch up and pass.); What is the fastest thing there is? (back: Light.); Why do rowers in a boat pull at the same moment? (back: So their pulls add up and push the boat forward together.); Say 'faster' or 'slower': a bullock cart compared with a bus. (back: Slower.)
 - **Printable tokens: 4 boat tokens to cut out:** A green boat; A blue boat; A red boat; A yellow boat
 - **s1 (3 min)**  
-  *Parent does:* Draw the board, cut out the boats and the cards, and read the rules.  
+  *Parent does:* Print the board, the boats and the cards from the app. No printer? Lay 21 paper slips in a row, numbered 0 to 20. Use 4 coins as boats. Cut out the cards. Read the rules.  
   *Parent says:* This is a boat race in Kerala. Answer right and your boat rows 3 squares. Answer wrong and it rows only 1.  
   *Child mode:* Answer right and row 3 squares. Answer wrong and row 1.
 - **s2 (10 min)**  
-  *Parent does:* Play until one boat reaches square 20.  
-  *Parent says:* You landed on 'short splashy strokes'. Why do those make a boat slower?  
-  *Child mode:* Why do short splashy strokes make the boat slower?
+  *Parent does:* Play until one boat reaches square 20. Each turn, read a question card to the player, then move their boat.  
+  *Parent says:* Here is your question. Answer it. Right answer, row on 3 squares. Wrong answer, row on 1.  
+  *Child mode:* Answer the card. Then move your boat.
   - Note: When a player lands on square 12 or 14, ask why long pulls help and splashy strokes do not.
 - **s3 (2 min)**  
   *Parent does:* Talk about who won and why.  
-  *Parent says:* Who won? Did the winner answer more cards right? So was that boat faster?  
-  *Child mode:* Who won? Why was that boat faster?
+  *Parent says:* Who won? Did the winner answer more cards right?  
+  *Child mode:* Think about why that boat won.
 
 ## Experiments
 ### e1 · The Step Race: tiny steps, giant steps or my ordinary walk? (20 min)
@@ -221,12 +221,12 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **predict:** Guess first. Which way will take the fewest claps: tiny quick steps, giant steps or your ordinary walk? Why do you think so?
 - **fair test:** Walk the same path every time, from the same start chappal to the same finish chappal. The same person claps every time, at the same steady speed, about one clap each second. Only the kind of step changes. Walk each way three times, because one try can be a fluke, a result that happens by chance.
 - **safety:** Walk, never run, indoors. Move chairs and toys off the path. Walk barefoot rather than in socks on smooth tiles, so you do not slip.
-- **record:** Fill in the results table. Circle the way that took the fewest claps. Draw the two footprint trails: tiny steps and ordinary steps.
+- **record:** Fill in the results table. Circle the way that took the fewest claps. Then tell your grown-up why the tiny steps did not win.
 - **results table:** Way of walking | My guess (1st, 2nd or 3rd) | Try 1 (claps) | Try 2 (claps) | Try 3 (claps) | Steps I took
 - **s1 (3 min)**  
-  *Parent does:* 1. Put one chappal at the start and one about 4 metres away. 2. Draw the results table. 3. Ask your child to guess which way will be fastest, and why.  
+  *Parent does:* 1. Put one chappal at the start and one about 4 metres away. 2. Make a results table on paper, with the six headings from the table above. 3. Ask your child to guess which way will be fastest, and why.  
   *Parent says:* You will walk to the far chappal three ways. Tiny quick steps, giant steps, and your ordinary walk. Which way will take the fewest claps? Why do you think so?  
-  *Child mode:* Which way will be fastest? Tiny steps, giant steps or ordinary walking? Why?
+  *Child mode:* Make a guess before you start. Say why you think so.
   - Ask: Why do you think so? (good: Tiny steps, because my feet move fastest.; Giant steps, because I need fewer steps.; Ordinary walking, because that is how I usually walk.)
   - Note: Any guess is fine, as long as your child gives a reason. Write the guess in the table before the first try.
 - **s2 (2 min)**  
@@ -247,7 +247,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child what they saw, and why they think it happened.  
   *Parent says:* Which way won? Which way had the busiest feet? Why did the busy feet not win?  
-  *Child mode:* Which way won? Why did the tiny steps not win?
+  *Child mode:* Look at your table. Find the way that took the fewest claps.
   - Ask: Why did the tiny steps take more claps? (good: Each step went only a little way.; I needed lots of steps to get there.; My feet were fast but my steps were short.)
   - Ask: Why were giant steps not the fastest? (good: Each giant step took a long time.; I had to balance and go slowly.)
   - Note: This is the heart of the unit. Speed depends on how far each step goes and how often a step comes. The ordinary walk mixes a good length with a good pace. Say the word speed: how far you go in a stretch of time.
@@ -257,12 +257,12 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **predict:** Guess first. The grown-up walks very slowly but starts 4 big steps ahead. Who will win the short race? Who will win the long race? Why do you think so?
 - **fair test:** The grown-up walks at the same slow speed every time: one heel-to-toe step for each clap. You walk your ordinary way every time. Both of you start at the same 'Go!'. The head start stays the same. Only the finish line changes.
 - **safety:** Walk, never run, indoors. Clear the path, and walk barefoot on smooth tiles.
-- **record:** Fill in the table. Draw the path with both start lines, both finish lines and the place where you caught up.
+- **record:** Fill in the table. Take a photo of the path with the marks, or tell your grown-up where you caught up and why.
 - **results table:** Race | My guess: who wins? | Who really won, try 1 | Who really won, try 2
 - **s1 (4 min)**  
   *Parent does:* 1. Put your child's chappal at the back of the path. 2. Take 4 big steps forward and put your own chappal there. 3. Put a slipper 2 of your foot-lengths past your chappal. That is the near finish. 4. Put a cushion 3 big steps past your chappal. That is the far finish.  
   *Parent says:* I walk very slowly, one heel-to-toe step for each clap. But I start 4 big steps ahead of you. Who will win the short race to the slipper? Who will win the long race to the cushion? Why?  
-  *Child mode:* The grown-up is slow but starts ahead. Who wins the short race? Who wins the long one? Why?
+  *Child mode:* Look at the two finish lines. Guess who wins at each one.
   - Ask: Why do you think so? (good: You will win the short race, because you are ahead.; I will win the long one, because I am faster.; You will win both, because you start ahead.)
   - Note: Heel-to-toe means the heel of your front foot touches the toes of your back foot. One step each clap keeps your speed the same every time.
 - **s2 (4 min)**  
@@ -278,7 +278,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **s4 (3 min)**  
   *Parent does:* Look at the table and the catch-up mark. Ask your child what they saw, and why they think it happened.  
   *Parent says:* I won one race and you won the other. Our speeds stayed the same. So what decided who won?  
-  *Child mode:* You won one race and the grown-up won the other. What decided who won?
+  *Child mode:* Look at the catch-up mark. Where are the two finish lines, compared with it?
   - Ask: Why did you win the long race but not the short one? (good: I was catching up all the time, and the long race gave me time to pass.; The short race ended before I caught up.; You had a head start, but I was faster.)
   - Check: A slow walker starts ahead of a fast walker. Where must the finish line be for the fast walker to win? → **Past the place where the fast walker catches up**
 
@@ -286,20 +286,20 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 ### a1 · The Freeze Race: who goes furthest in 4 claps? (8 min)
 - **problem:** Speed can be judged in two fair ways. In one way, everyone goes the same distance, and the one who takes less time is faster. In the other way, everyone moves for the same time, and the one who goes further is faster. In this activity, every way of moving gets the same 4 claps. So the way that takes you furthest is the fastest.
 - **safety:** Hop on a mat or a durrie, not on wet or smooth tiles.
-- **record:** Write C for crawl, H for hop or T for tiptoe on each paper slip. Draw the three slips on a line, with the furthest one circled.
+- **record:** Write C for crawl, H for hop or T for tiptoe on each paper slip. Lay the slips in a row, from nearest to furthest.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the chappal at the start. 2. Ask your child which way will go furthest in 4 claps: crawling, hopping or tiptoeing.  
   *Parent says:* You will move for 4 claps, then freeze. Which way will take you furthest? Why do you think so?  
-  *Child mode:* Crawl, hop or tiptoe for 4 claps. Which goes furthest? Why?
+  *Child mode:* Make a guess. Which way will take you furthest?
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child crawls from the chappal while you clap 4 slow claps. 2. Say 'Freeze!' 3. Put a paper slip by their hands. 4. Do the same for hopping on two feet and for tiptoeing.  
+  *Parent does:* 1. Your child crawls from the chappal while you clap 4 slow claps. 2. Say 'Freeze!' 3. Put a paper slip where they stopped, and write C on it. 4. Do the same for hopping on two feet (write H) and for tiptoeing (write T).  
   *Parent says:* Go! One, two, three, four. Freeze! Put your slip down right there.  
   *Child mode:* Move for 4 claps. Then freeze. Put your slip down.
   - Note: Clap at the same steady pace each time, so the time stays the same.
 - **s3 (2 min)**  
   *Parent does:* Look at the three slips together.  
-  *Parent says:* Every way had the same 4 claps. Which slip is furthest? That way was the fastest.  
-  *Child mode:* Which slip is furthest? That way was the fastest.
+  *Parent says:* Every way had the same 4 claps. Which slip is furthest? So which way was the fastest?  
+  *Child mode:* Look at the three slips. Find the one furthest from the chappal.
   - Ask: How do you know which way was fastest? (good: It went furthest in the same claps.; Its slip is furthest from the chappal.)
   - Note: This is one of the two fair ways to judge speed: keep the time the same, and see who goes further.
 ### a2 · The Clap Clock: can you count seconds? (10 min)
@@ -315,24 +315,24 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
   - Note: Most children clap too fast at first, so 10 claps may take only 5 or 6 seconds. Saying 'one Kochi' between claps slows them down.
 - **s3 (3 min)**  
   *Parent does:* Write down the three results and talk about them.  
-  *Parent says:* How close did you get to 10 seconds? Why does a clock help in a race?  
-  *Child mode:* How close were you? Why does a clock help in a race?
+  *Parent says:* How close did you get to 10 seconds?  
+  *Child mode:* Were your 10 claps faster or slower than 10 seconds on the clock?
   - Ask: Why does it matter that the claps are steady? (good: So every racer gets the same kind of claps.; If the claps speed up, the race is not fair.)
 ### a3 · Faster Than Me? A card sort (10 min)
-- **record:** Write how many cards you sorted right. Then draw a mosquito, and write one sentence on why she is slower than you.
+- **record:** Write how many cards you sorted right. Then write one sentence on why a mosquito is slower than you.
 - **s1 (3 min)**  
   *Parent does:* Write one name on each of the 14 cards. The names are in the note below.  
-  *Parent says:* Each card is a living being or a machine. Is each one faster or slower than you when you run?  
+  *Parent says:* Each card names something that moves or grows. Is each one faster or slower than you when you run?  
   *Child mode:* Is each one faster or slower than you running?
   - Note: The 14 names: a snail, an ant, a tortoise, a mosquito, a bullock cart, a growing bamboo, the hour hand of a clock, a dog running, a crow flying, a cheetah, a cycle on an open road, a train, a raindrop falling and an aeroplane.
 - **s2 (4 min)**  
   *Parent does:* Your child puts each card on one of two sheets, marked FASTER THAN ME and SLOWER THAN ME.  
-  *Parent says:* Put each card on one of the two sheets, FASTER THAN ME or SLOWER THAN ME. Tell me why for each one.  
-  *Child mode:* Put each card on FASTER THAN ME or SLOWER THAN ME. Say why.
+  *Parent says:* Put each card on one of the two sheets, FASTER THAN ME or SLOWER THAN ME. Tell me why for the tricky ones.  
+  *Child mode:* Put each card on FASTER THAN ME or SLOWER THAN ME. Say why for the tricky ones.
 - **s3 (3 min)**  
   *Parent does:* Check together. Slower than a running child: snail, ant, tortoise, mosquito, bullock cart, bamboo, the hour hand. Faster: the dog, crow, cheetah, cycle, train, raindrop and aeroplane.  
   *Parent says:* The mosquito beats her wings hundreds of times each second. Yet you can run away from her. Why?  
-  *Child mode:* A mosquito's wings are very fast. Why is she slow?
+  *Child mode:* Check your sorting. Then think about the mosquito.
   - Ask: Why is the mosquito slow, even with such fast wings? (good: Each wing beat moves her only a tiny way.; Busy wings are not the same as speed.)
   - Note: Some bamboo can grow almost a metre in one day, the fastest growth of any plant. That is still far slower than a snail crawls, but very fast for a plant.
 ### a4 · The Slow Race: who can be last without stopping? (8 min)
@@ -343,38 +343,38 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
   *Parent says:* This race is upside down. The slowest one wins. But you must never stand still. If you stop, you are out.  
   *Child mode:* The slowest one wins. But you must never stop.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child walks the 2 metres in their ordinary way, while you count claps. 2. Then they walk the same 2 metres as slowly as they can, and you count claps again. 3. Swap, and you try too.  
-  *Parent says:* First walk the way you always walk. Then walk as slowly as you can, and keep moving. How many claps did each walk take?  
-  *Child mode:* Move very slowly. Keep moving. Count the claps.
+  *Parent does:* 1. Your child walks the 2 metres in their ordinary way, while you count claps. 2. Then they walk the same 2 metres as slowly as they can, and you count claps again. 3. Swap, and you try too. 4. Whoever takes more claps for the slow walk wins.  
+  *Parent says:* First walk the way you always walk. Then walk as slowly as you can, and keep moving. I will clap and count.  
+  *Child mode:* Walk slowly. Keep your feet moving. The grown-up counts the claps.
   - Note: A slow race shows the same rule from the other side. More claps for the same distance means slower.
 - **s3 (2 min)**  
   *Parent does:* Compare the clap counts of the ordinary walk and the slow walk.  
-  *Parent says:* Both walks were the same 2 metres. Which one took more claps? So which one was slower? How did you stay so slow?  
-  *Child mode:* Which walk took more claps? Which one was slower?
+  *Parent says:* Both walks were the same 2 metres. Which one took more claps? So which one was slower?  
+  *Child mode:* Look at the clap counts for your two walks.
   - Ask: How did you move so slowly? (good: I took tiny steps.; I lifted my feet very slowly.; I did both.)
 
 ## Projects
 ### p1 · The Sprout Race: whose root grows fastest? (30 min, 5 days)
-- **record:** A growth table with the longest root of each seed for each day, and a drawing of the three rows on day 5.
+- **record:** A growth table with the longest root of each seed for each day, and, on day 5, a photo of the three rows or a drawing of them.
 - **schedule:** day 1: Soak 5 seeds of each kind in water overnight, in separate bowls. (5 min); day 2: Lay the seeds on the wet cloth in three rows. Guess which root will grow longest. Measure any roots that have come out. (8 min); day 3: Measure the longest root in each row. Keep the cloth wet. (6 min); day 4: Measure again. Which seed is winning? (6 min); day 5: Measure one last time. Work out how much each root grew from day 4 to day 5. (5 min)
 - **s1 (5 min)**  
   *Parent does:* Day 1: put 5 moong seeds, 5 chana seeds and 5 methi seeds in three bowls, one kind in each bowl. Cover them with water.  
   *Parent says:* These seeds will race, not by running but by growing. Tomorrow we lay them out on a wet cloth.  
   *Child mode:* Soak the seeds tonight. Tomorrow the race begins.
 - **s2 (8 min)**  
-  *Parent does:* Day 2: lay the seeds on the wet cloth in three rows. Ask your child to guess the winner.  
+  *Parent does:* Day 2: lay the seeds on the wet cloth, one kind in each row. Make a table on paper, with one row for each seed and one column for each day. Ask your child to guess the winner.  
   *Parent says:* Which seed's root will grow longest by day 5? Why do you think so?  
-  *Child mode:* Which root will grow longest? Why?
+  *Child mode:* Lay out the seeds, one kind in each row. Then guess which root will win.
   - Note: Keep the plate out of strong sun and keep the cloth damp. Moong usually sprouts first. If a seed does not sprout, leave that seed out of the race.
 - **s3 (12 min)**  
-  *Parent does:* Days 3 to 5: measure the longest root in each row with the ruler and write it in the table.  
+  *Parent does:* Days 3 to 5: measure the longest root in each row, from the seed to the tip of the root, with the ruler. Write it in the table.  
   *Parent says:* How long is the moong root today? How much did it grow since yesterday?  
-  *Child mode:* Measure each root. Write the number in the table.
+  *Child mode:* Measure from the seed to the tip of the root. Write the number in the table.
   - Note: Each seed's root grows towards the wet cloth and away from the light. The seeds sense the water and the pull of the Earth, and grow their roots where they need to.
 - **s4 (5 min)**  
   *Parent does:* Day 5: compare the growth from day 4 to day 5 for each seed.  
   *Parent says:* Which root grew the most in one day? That seed's root was growing fastest.  
-  *Child mode:* Which root grew most in one day? That one was fastest.
+  *Child mode:* How much did each root grow from day 4 to day 5?
   - Check: In one day, the moong root grew 2 centimetres and the chana root grew 1 centimetre. Which was growing faster? → **Moong**
 
 ## Challenges
@@ -386,7 +386,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **creative:** Make a spiral of dough walls, so the marble rolls round and round before it reaches the bottom.; Lay a strip of cloth on part of the path, so the marble rolls more slowly there.
 - **s1 (3 min)**  
   *Parent does:* Tilt the tray on one book. Let the marble roll straight down while you clap.  
-  *Parent says:* Rolling straight down took only about one clap. Can you make it take five?  
+  *Parent says:* First, watch the marble roll straight down. I will clap to count how long it takes. Then you will make it take five claps or more.  
   *Child mode:* Straight down is fast. Can you make it slow?
 - **s2 (12 min)**  
   *Parent does:* Your child builds walls and tests them. Count the claps each time.  
@@ -396,7 +396,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **s3 (5 min)**  
   *Parent does:* Show the best path and talk about why it was slow.  
   *Parent says:* Why did your path take so many claps? Was the marble slower, or did it go further, or both?  
-  *Child mode:* Why did your path take so long?
+  *Child mode:* Show your slowest path. Let the marble go once more.
   - Ask: Why did the zigzag take more claps? (good: The path was longer.; The marble had to go further.; The walls slowed it down at each turn.)
 
 ## Worksheets

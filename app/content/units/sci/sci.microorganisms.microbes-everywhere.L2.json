@@ -298,7 +298,7 @@
    "title": "Three Potato Slices: where do the spots come from?",
    "mins": 28,
    "days": 4,
-   "context": "In this experiment you put three slices of boiled potato in three closed boxes. Your fingers touch one slice, a pinch of soil touches another, and nothing touches the third. Over three or four days you count the spots that grow. This shows where microbes were hiding.",
+   "context": "In this experiment you put three slices of boiled potato in three closed boxes. Your fingers touch one slice, a pinch of soil touches another, and nothing touches the third. Over three or four days you count the spots that grow. You will find out whether your fingers and the soil carry microbes you cannot see.",
    "question": "Our fingers and the soil in a flower pot look like they have nothing alive on them. Do they carry microbes we cannot see?",
    "predict": "Guess first. Which slice will grow the most spots: the finger slice, the soil slice, or the slice nobody touched? Which will grow the fewest? Why do you think so?",
    "fair_test": "All three slices come from the same potato, are the same thickness, sit in the same kind of box, in the same place, for the same number of days. Only one thing is different: what touched each slice. So if the slices grow different numbers of spots, what touched them made the difference. The slice nobody touched shows what grows from the air alone.",
@@ -354,17 +354,17 @@
     {
      "day": 4,
      "mins": 7,
-     "what": "Count one last time. Draw the slices. Say what you think, what you saw and why. A grown-up throws the closed boxes away in a tied bag."
+     "what": "Count one last time. Take a photo of the slices, or draw them. Say what you think, what you saw and why. A grown-up throws the closed boxes away in a tied bag."
     }
    ],
-   "record": "Draw the three slices on day 4, with every spot in its colour. Write the number of spots under each slice.",
+   "record": "On day 4, take a photo of the three slices, or draw them with every spot in its colour. Write the number of spots next to each slice.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "Take the potato that was boiled with its skin on and cooled until you can hold it. Show it to your child.",
      "say": "Look at this boiled potato. Boiling killed almost every microbe inside the potato. Can you see anything living on it?",
-     "kid": "Look at the boiled potato. Can you see anything living on it?",
+     "kid": "Look closely at the boiled potato.",
      "adult": true,
      "ask": [
       {
@@ -391,7 +391,7 @@
      "mins": 4,
      "do": "Tell your child the plan. Ask for a guess and a reason for each slice. Write the guesses on a paper.",
      "say": "You will touch one slice with your fingers. You will sprinkle soil on another. Nobody touches the third. Which one will grow the most spots? Why do you think so?",
-     "kid": "Your fingers touch one slice. Soil goes on one slice. Nobody touches the third. Which grows the most spots? Why?",
+     "kid": "Your fingers touch one slice. Soil goes on one slice. Nobody touches the third. Think of your guess.",
      "ask": [
       {
        "q": "Which slice will grow the most spots, and why?",
@@ -442,9 +442,9 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. On day 4, count the spots one last time. 2. Look closely with a magnifying glass or the phone zoom, through the lid. 3. Draw all three slices. 4. Ask your child to say what they think, what they saw and why.",
+     "do": "1. On day 4, count the spots one last time. 2. Look closely with a magnifying glass or the phone zoom, through the lid. 3. Take a photo of all three slices, or draw them. 4. Ask your child to say what they think, what they saw and why.",
      "say": "So, did your fingers and the soil carry microbes? Tell me what you think, what you saw, and why.",
-     "kid": "Did your fingers carry microbes? Say what you think. Say what you saw. Say why.",
+     "kid": "Count the spots one last time. Then tell your grown-up what you saw, and why you think it happened.",
      "ask": [
       {
        "q": "Why did the finger slice and the soil slice grow spots?",
@@ -527,7 +527,7 @@
    "title": "A Spoon, a Drop or Nothing: how much curd sets the milk?",
    "mins": 20,
    "days": 2,
-   "context": "In this experiment you set up three katoris of warm milk. One gets a spoon of curd, one gets only a drop, and one gets nothing. The next morning you see which ones turned into curd. This shows whether a few curd bacteria can multiply enough to set a whole katori.",
+   "context": "In this experiment you set up three katoris of warm milk. One gets a spoon of curd, one gets only a drop, and one gets nothing. The next morning you see which ones turned into curd. You will find out whether one drop of curd can set a whole katori of milk.",
    "question": "A spoon of curd sets a bowl of milk. Would just one drop of curd be enough?",
    "predict": "Guess first. Which katoris will turn into curd by morning: the spoon one, the drop one, the one with nothing, or more than one? Why do you think so?",
    "fair_test": "All three katoris get the same milk, the same amount, at the same warmth, in the same place, for the same time. Only the amount of curd is different. So any difference in the morning comes from how much curd went in.",
@@ -571,7 +571,7 @@
      "what": "In the morning, tip each katori a little. Which ones set? Say what you think, what you saw and why."
     }
    ],
-   "record": "Draw the three katoris from the side in the morning. Show the curd as thick, a bit thick or runny.",
+   "record": "In the morning, take a photo of the three katoris tipped a little, or draw them. Write thick, a bit thick or runny next to each one.",
    "flow": [
     {
      "id": "s1",
@@ -640,7 +640,7 @@
      "mins": 4,
      "do": "Ask your child to say what they think, what they saw and why. Then let them taste a little of the Spoon curd, if it is fresh.",
      "say": "So, was one drop enough? Tell me what you think, what you saw, and why.",
-     "kid": "Was one drop enough? Say what you think. Say what you saw. Say why.",
+     "kid": "Look at the three katoris again. Tell your grown-up what you saw, and why you think it happened.",
      "ask": [
       {
        "q": "How could one drop set a whole katori?",
@@ -686,7 +686,7 @@
    "title": "Smell the Soil: a smell made by bacteria",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you smell dry soil from a flower pot, then sprinkle water on it and smell again. Much of the earthy smell you notice is made by bacteria that live in the soil. This is the smell people love after the first rain.",
+   "context": "In this activity you smell dry soil from a flower pot, then sprinkle water on it and smell again. Much of the earthy smell you notice is made by bacteria that live in the soil. This is the smell people love after the first rain. You will find out who makes it.",
    "materials": [
     {
      "item": "a flower pot with dry soil on top, or two spoons of dry soil in a steel bowl",
@@ -704,14 +704,14 @@
      "what": "Smell dry soil. Sprinkle water. Smell again. Talk about who made the smell."
     }
    ],
-   "record": "Draw the flower pot. Draw the smell rising from the wet soil, and draw a few tiny bacteria in the soil.",
+   "record": "Tell your grown-up one word for the smell of the dry soil and one word for the wet soil. Then say who made the wet-soil smell.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "1. Choose a pot whose top soil is dry. 2. Ask your child to bend close and smell the dry soil.",
      "say": "Smell the dry soil. Does it have much of a smell?",
-     "kid": "Bend close to the dry soil. Smell it. Does it have much of a smell?",
+     "kid": "Bend close to the dry soil and smell it.",
      "ask": [
       {
        "q": "What does the dry soil smell like?",
@@ -727,7 +727,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason before adding water.",
      "say": "We will sprinkle water on the soil. Will the smell change? Why do you think so?",
-     "kid": "Water goes on the soil next. Will the smell change? Why?",
+     "kid": "Water goes on the soil next. Make a guess, and say why.",
      "ask": [
       {
        "q": "Will the smell change?",
@@ -743,7 +743,7 @@
      "mins": 3,
      "do": "1. Sprinkle a little water over the soil, like the first drops of rain. 2. Wait ten seconds. 3. Smell again.",
      "say": "Sprinkle the water gently, like the first rain. Now smell again. What changed?",
-     "kid": "Sprinkle the water like rain. Wait a moment. Smell again. What changed?",
+     "kid": "Sprinkle the water like rain. Wait a moment. Smell again.",
      "ask": [
       {
        "q": "What does the wet soil smell like?",
@@ -759,8 +759,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Tell your child who makes the smell. Then wash hands.",
-     "say": "Tiny bacteria in the soil make much of that smell. In 1964, Isabel Joy Bear, a scientist in Australia, and her colleague Richard Thomas named the rain smell petrichor. In Kannauj, perfume makers make a scent called mitti attar from baked earth.",
-     "kid": "Bacteria in the soil make much of that smell. You smelled something made by microbes. Wash your hands now.",
+     "say": "Tiny bacteria in the soil make much of that smell. The smell of the first rain has a name: petrichor.",
+     "kid": "You smelled something made by microbes. Wash your hands now.",
      "ask": [
       {
        "q": "Who made the earthy smell?",
@@ -799,14 +799,14 @@
    "title": "Microbe Map of Our Flat",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you walk through your home and mark every place where microbes live. Then you count your marks. You will find that microbes live almost everywhere.",
+   "context": "In this activity you walk through your home and put a sticker on every place where microbes live. Then you count the stickers. You will find out how many places have microbes, and whether any place has none.",
    "materials": [
     {
-     "item": "a big sheet of paper or the back of an old calendar",
+     "item": "a pile of small stickers or torn scraps of paper, about 20",
      "qty": 1
     },
     {
-     "item": "pencils or crayons, and small round stickers or a red crayon for dots",
+     "item": "a pencil and a sheet of paper, to write the number you count",
      "qty": 1
     }
    ],
@@ -814,25 +814,25 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Draw a simple map of the home. Walk round and put a dot wherever microbes live. Count the dots."
+     "what": "Guess how many places you will find. Walk round and put a sticker on every place where microbes live. Count the stickers."
     }
    ],
-   "record": "The map itself, with a dot at every place, and the total number of dots written at the bottom.",
+   "record": "A photo of your stickers around the home, and the number of stickers you counted written on the paper.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Help your child draw a simple map of the home: one box for each room, the balcony and the kitchen.",
-     "say": "Let's draw our home from above, like a bird flying over the roof. One box for each room.",
-     "kid": "Draw your home from above. Draw a box for each room.",
-     "parent": "It does not have to be neat. Boxes and labels are enough."
+     "do": "Give your child the pile of stickers. Ask how many places in your home they think have microbes.",
+     "say": "We will walk round our home and find every place where microbes live. How many places do you think there are?",
+     "kid": "You will put a sticker on every place where microbes live. Guess how many stickers you will use.",
+     "parent": "Any number is a good guess. Write it on the paper so you can check it later."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Walk from room to room together. 2. At each place, ask: do microbes live here? 3. Put a dot on the map for each yes.",
-     "say": "Do microbes live on the door handle? In the flower pot? In the curd? On the pillow? Put a dot for each place.",
-     "kid": "Walk round your home. Put a dot where microbes live.",
+     "do": "1. Walk from room to room together. 2. At each place, ask: do microbes live here? 3. Put a sticker on or beside each place where the answer is yes.",
+     "say": "Do microbes live on the door handle? In the flower pot? In the curd? On the pillow? Put a sticker on each place.",
+     "kid": "Walk round your home. Put a sticker on each place where microbes live.",
      "ask": [
       {
        "q": "Can you find a place in our home with no microbes at all?",
@@ -848,9 +848,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the dots together and write the number at the bottom of the map.",
-     "say": "How many dots did you put? What do all those dots tell you about where microbes live?",
-     "kid": "Count your dots. Write the number at the bottom. What do the dots tell you?",
+     "do": "Count the stickers together and write the number on the paper.",
+     "say": "How many stickers did we use? Is that more or fewer than your guess?",
+     "kid": "Count your stickers and write the number. Was your guess too high or too low?",
      "ask": [
       {
        "q": "What do all the dots on your map tell you about where microbes live?",
@@ -865,11 +865,11 @@
    "setup": [
     {
      "art": "A child drawing a simple map of a flat on a big sheet of paper, with boxes for the kitchen, a bedroom, a bathroom and a balcony.",
-     "caption": "1. Draw a map of your home."
+     "caption": "1. Get a pile of stickers or paper scraps."
     },
     {
      "art": "The same map covered with red dots at the door handle, the tap, a flower pot, a katori of curd and a toothbrush.",
-     "caption": "2. Put a dot wherever microbes live, then count the dots."
+     "caption": "2. Put a sticker wherever microbes live, then count the stickers."
     }
    ]
   },
@@ -878,7 +878,7 @@
    "title": "How Small? Microbes in a full stop",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you draw the smallest dot you can, and compare it with a mustard seed. A microbe is much smaller than either. Hundreds of bacteria could sit side by side across your tiny dot.",
+   "context": "In this activity you make the smallest dot you can with a pencil, and put a mustard seed beside the dot. You will find out how many bacteria could sit in a line across your dot.",
    "materials": [
     {
      "item": "a sharp pencil and a sheet of paper",
@@ -897,17 +897,17 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Draw the smallest dot you can. Put a mustard seed beside the dot. Talk about how many bacteria would fit across each."
+     "what": "Make the smallest dot you can. Put a mustard seed beside the dot. Talk about how many bacteria would fit across each."
     }
    ],
-   "record": "Draw your dot and a mustard seed, and write: about 300 bacteria across my dot, about 1000 across the seed.",
+   "record": "Keep your dot and the mustard seed on the paper. Write or say: about 300 bacteria across my dot, about 1000 across the seed.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Ask your child to draw the smallest dot they can with a sharp pencil. Put one mustard seed next to the dot.",
-     "say": "Draw the tiniest dot you can. Now put a mustard seed next to the dot. Which is smaller?",
-     "kid": "Draw the tiniest dot you can. Put a mustard seed next to the dot. Which is smaller?",
+     "do": "Ask your child to press a sharp pencil on the paper to make the smallest dot they can. Put one mustard seed next to the dot.",
+     "say": "Make the tiniest dot you can with the pencil. Now put a mustard seed next to the dot.",
+     "kid": "Make the tiniest dot you can. Put a mustard seed next to your dot.",
      "ask": [
       {
        "q": "Which is smaller, the dot or the seed?",
@@ -923,7 +923,7 @@
      "mins": 4,
      "do": "Look at both through a magnifying glass or the phone zoom. Then tell your child the numbers.",
      "say": "A microbe is far smaller than your dot. About a thousand bacteria in a line would just reach across this mustard seed. A few hundred would fit across your dot.",
-     "kid": "A microbe is much smaller than your dot. A few hundred bacteria fit across your dot.",
+     "kid": "Look at your dot and the seed through the magnifying glass or phone zoom. A few hundred bacteria fit in a line across your dot.",
      "parent": "A typical bacterium is about one thousandth of a millimetre long. A mustard seed is about one millimetre across, and a fine pencil dot is about a third of a millimetre. These numbers are rough, because bacteria come in different sizes."
     },
     {
@@ -931,7 +931,7 @@
      "mins": 3,
      "do": "Ask the question below and let your child think.",
      "say": "If microbes are that small, how could we ever know they are there?",
-     "kid": "Microbes are too small to see. How could we know they are there?",
+     "kid": "Microbes are too small to see. Think of a way to show they are there.",
      "ask": [
       {
        "q": "How could we know microbes are there?",
@@ -983,14 +983,14 @@
      "what": "In the morning, look at the level, the bubbles and the smell."
     }
    ],
-   "record": "Draw the vessel at night and in the morning, with the batter level and the rubber band marked.",
+   "record": "Take a photo of the vessel at night and again in the morning, with the rubber band showing. Count how many finger-widths the batter rose above the band.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Put a rubber band round the outside of the vessel, at the top of the batter. 2. Let your child smell the batter. 3. Ask for a guess.",
      "say": "The rubber band shows where the batter is now. Smell it. What will the batter look like in the morning? Why do you think so?",
-     "kid": "The band shows where the batter is. Smell it. What will happen by morning? Why?",
+     "kid": "The band shows where the batter is. Smell the batter. Then guess what it will do by morning.",
      "ask": [
       {
        "q": "What will happen by morning?",
@@ -1007,9 +1007,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. In the morning, look at the batter level against the rubber band. 2. Look for bubbles on top and on the sides. 3. Smell it again.",
+     "do": "1. In the morning, look at the batter level against the rubber band. 2. Count how many finger-widths the batter rose above the band. 3. Look for bubbles on top and on the sides. 4. Smell it again.",
      "say": "Where is the batter now? Can you see bubbles? How does it smell?",
-     "kid": "Where is the batter now? Look for bubbles. Smell it again.",
+     "kid": "Count how many fingers high the batter rose. Look for bubbles. Smell it again.",
      "ask": [
       {
        "q": "Why did the batter rise?",
@@ -1130,14 +1130,14 @@
      "mins": 3,
      "do": "1. Cut out the 12 place cards and the answer cards. 2. Give each player three answer cards. 3. Put out a sheet of paper for tally marks. 4. Read the rules aloud.",
      "say": "Each card is a place. You guess: lots of microbes, a few, or almost none.",
-     "kid": "Each card is a place. Guess: lots of microbes, a few, or almost none?"
+     "kid": "You each have three answer cards: Lots, A few and Almost none."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Play all 12 cards. After each card, ask the question below.",
-     "say": "Why do you think this place has so many microbes? Or so few?",
-     "kid": "Read your card. Choose your answer card. Turn the place card over.",
+     "say": "Turn the place card over. Were you right?",
+     "kid": "Listen to the place. Put down the answer card you think is right.",
      "ask": [
       {
        "q": "Why did you choose that answer?",
@@ -1154,8 +1154,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the tally marks. Ask the last question.",
-     "say": "Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live?",
-     "kid": "Count your tally marks. Microbes live in clouds and hot springs. Where can microbes live?",
+     "say": "Count the tally marks. Microbes live in a cloud and in a hot spring.",
+     "kid": "Count your tally marks. Who has the most?",
      "check": {
       "t": "mcq",
       "q": "Scientists found living bacteria in clouds high in the sky. What does this show?",
@@ -1169,7 +1169,7 @@
      },
      "ask": [
       {
-       "q": "Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live?",
+       "q": "What do the cloud and the hot spring tell us about where microbes can live?",
        "good": [
         "Microbes can live in almost every place, even very hot or very high ones.",
         "They live in more places than we can see."
@@ -1272,8 +1272,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the 12 microbe cards and the 3 labels. 2. Put the labels on the floor. 3. Read the rules aloud.",
-     "say": "Each card is a microbe and what that microbe does. Is the microbe a helper, harmless, or a germ?",
-     "kid": "Read each card. Is that microbe a helper, harmless, or a germ?"
+     "say": "Each card names a microbe and what they do. A helper does something good for us. A harmless microbe does nothing to us. A germ can make us ill.",
+     "kid": "Look at the three labels on the floor: Helper, Harmless and Germ. Each microbe card goes by one of them."
     },
     {
      "id": "s2",
@@ -1296,7 +1296,7 @@
      "mins": 3,
      "do": "Count the cards by each label. Ask the question below.",
      "say": "How many helpers did we find? How many germs? What does that tell us about microbes?",
-     "kid": "Count the cards by each label. Are most microbes germs?",
+     "kid": "Count the cards by each label. Which pile is the biggest?",
      "ask": [
       {
        "q": "Are most microbes germs?",
@@ -1337,7 +1337,7 @@
    "title": "The Curd Chain: one starter for a whole week",
    "mins": 35,
    "days": 7,
-   "context": "In this week-long project you set a small katori of curd every night, using a spoon of the curd you made the night before. You keep a chart of each day's curd. The bacteria from the first spoon keep multiplying, katori after katori.",
+   "context": "In this week-long project you set a small katori of curd every night, using a spoon of the curd you made the night before. For each katori you add one link to a paper chain. You will find out how bacteria from one first spoon can keep making curd all week.",
    "materials": [
     {
      "item": "milk, boiled and cooled until warm",
@@ -1352,7 +1352,7 @@
      "qty": 1
     },
     {
-     "item": "a sheet of paper for the chart, and a pencil",
+     "item": "a sheet of paper cut into strips, tape, and a pencil",
      "qty": 1
     }
    ],
@@ -1361,47 +1361,47 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Set the first katori with a spoon of curd. Draw the first ring of the chain on the chart."
+     "what": "Set the first katori with a spoon of curd. Make the first link of the paper chain."
     },
     {
      "day": 2,
      "mins": 5,
-     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain."
     },
     {
      "day": 3,
      "mins": 5,
-     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain."
     },
     {
      "day": 5,
      "mins": 5,
-     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain."
     },
     {
      "day": 6,
      "mins": 5,
-     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain."
     },
     {
      "day": 7,
      "mins": 5,
-     "what": "Eat the last curd. Count the rings on the chart. Talk about where the bacteria in today's curd came from."
+     "what": "Eat the last curd. Count the links in the chain. Talk about where the bacteria in today's curd came from."
     }
    ],
-   "record": "A paper chain chart: one ring for each katori, with a word for the curd (thick, soft or runny) and a taste face.",
+   "record": "A paper chain: one link for each katori, with one word on each link for the curd (thick, soft or runny).",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Warm the milk until it feels like a bath. 2. Pour half a cup into the katori. 3. Your child stirs in one spoon of curd. 4. Cover and leave in a warm place overnight. 5. Draw the first ring on the chart.",
+     "do": "1. Warm the milk until it feels like a bath. 2. Pour half a cup into the katori. 3. Your child stirs in one spoon of curd. 4. Cover and leave in a warm place overnight. 5. Tape a strip of paper into a ring. This is link one of the chain.",
      "say": "This spoon of curd starts our chain. Tomorrow we will use a spoon of this new curd to make the next one.",
-     "kid": "Stir in the spoon of curd. Cover the katori. Draw the first ring on your chart.",
+     "kid": "Stir in the spoon of curd. Cover the katori. Tape a paper strip into a ring. This is the first link of your chain.",
      "adult": true,
      "wait": "Leave overnight. Check tomorrow.",
      "parent": "Warm milk is enough: if you can keep a clean finger in it for ten seconds, it is right. In cold weather, wrap the katori in a towel."
@@ -1409,9 +1409,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Each day: 1. Check the curd and write one word on the chart. 2. Eat most of it with a meal. 3. Save one spoon. 4. Use that spoon to set the next katori.",
+     "do": "Each day: 1. Check the curd and write one word on its link. 2. Eat most of it with a meal. 3. Save one spoon. 4. Use that spoon to set the next katori. 5. Loop a new paper link through the chain for the new katori.",
      "say": "Is today's curd thick? Save one spoon. That spoon carries the bacteria into tomorrow's curd.",
-     "kid": "Is the curd thick? Write it on the chart. Save one spoon for tomorrow.",
+     "kid": "Look at the curd and write one word on its link. Save one spoon for tomorrow's katori. Add a new link.",
      "ask": [
       {
        "q": "Where did the bacteria in today's curd come from?",
@@ -1426,9 +1426,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "On day 7, eat the last curd and count the rings. Ask the questions below.",
-     "say": "Our chain has six rings. The bacteria in today's curd came from the very first spoon, passed from katori to katori. How many times did a spoon from one katori go into the next?",
-     "kid": "Count the rings. How many times did a spoon move bacteria into the next katori?",
+     "do": "On day 7, eat the last curd, write a word on the last link, and count the links. Ask the question below.",
+     "say": "Count the links in our chain. The bacteria in today's curd came from the very first spoon, passed from katori to katori.",
+     "kid": "Count the links in your chain. Each link is one katori.",
      "ask": [
       {
        "q": "How many times did a spoon from one katori go into the next?",
@@ -1448,7 +1448,7 @@
     },
     {
      "art": "A paper chart with six rings joined in a chain, each with a word like thick or soft and a little face.",
-     "caption": "2. Each night, use a spoon of today's curd to set tomorrow's. Add a ring."
+     "caption": "2. Each night, use a spoon of today's curd to set tomorrow's. Add a link."
     }
    ]
   }
@@ -1458,7 +1458,7 @@
    "id": "c1",
    "title": "Keep the Slice Clean",
    "mins": 20,
-   "context": "This is a design challenge. In the Three Potato Slices experiment, spots grew on a boiled potato slice in a few days. Now you invent a way to keep a slice free of spots for as long as you can.",
+   "context": "This is a design challenge. Spots grow on a boiled potato slice in a few days. You will invent a way to keep a slice free of spots for as long as you can, and test if it works.",
    "problem": "Spots grow on a boiled potato slice in a few days in a warm kitchen. How could you keep a slice without spots for the longest time, using only things from home?",
    "constraints": [
     "Use only things from home.",
@@ -1487,7 +1487,7 @@
      "mins": 4,
      "do": "Read the problem to your child. Ask for ideas before showing any.",
      "say": "Spots grow fast on a boiled potato. How could we keep a slice clean for the longest time?",
-     "kid": "Spots grow fast on a potato slice. How can you keep a slice clean?",
+     "kid": "Think of ways to stop spots growing on a potato slice. Any idea is fine.",
      "ask": [
       {
        "q": "What ideas do you have?",
@@ -1513,7 +1513,7 @@
      "mins": 6,
      "do": "For four days, count the spots on both slices through the lid. On day 4, compare. A grown-up throws the closed boxes away.",
      "say": "Which slice has fewer spots? Did your idea work? Why do you think so?",
-     "kid": "Count the spots on both slices. Did your idea work? Why?",
+     "kid": "Count the spots on both slices every day for four days. Which slice has fewer?",
      "ask": [
       {
        "q": "Did your idea keep the slice cleaner?",

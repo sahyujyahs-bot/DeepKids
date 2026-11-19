@@ -188,12 +188,12 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   *Parent does:* 1. Take turns adding cards. 2. Say each new link out loud with 'so'. 3. Check the back of each card.  
   *Parent says:* The rain falls all afternoon, so what happens next? Which card shows the effect?  
   *Child mode:* Find the card that comes next. Say the link with 'so'.
-  - Ask: Why can't 'Asha reaches school late' come straight after 'Dark clouds blow in'? (good: Something has to happen in between.; The clouds don't make her late by themselves. The rain and the water in the lane do.)
+  - Ask: Why can't 'Asha reaches school late' come right after 'Dark clouds blow in'? (good: Something has to happen in between.; The clouds don't make her late by themselves. The rain and the water in the lane do.)
   - Note: If a player's card could fit in a sensible way, even if the back says otherwise, let them explain it. A good reason counts.
 - **s3 (3 min)**  
   *Parent does:* 1. When all the chains are finished, look at the mango chain. 2. Ask the question below.  
   *Parent says:* Look at the mango chain. What does the last card lead to?  
-  *Child mode:* Look at the last mango card. What does it lead to next?
+  *Child mode:* Look at the last mango card. Then look at the first mango card.
   - Ask: What does the last mango card lead to? (good: A ripe mango falls again, so the chain starts again.; It goes round in a circle.)
   - Note: A chain that comes back to the start is called a loop. Many chains in nature are loops: mango, seed, tree, mango.
   - Check: In the dosa chain, what is the cause of the tawa getting hot? → **Amma lighting the gas**
@@ -223,17 +223,17 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - **predict:** We will try three gaps: one finger wide, half a domino tall, and one whole domino tall. Which gaps will make all ten dominoes fall? Why do you think so?
 - **fair test:** We change only the gap. We use the same ten dominoes on the same floor each time. We give the first domino the same gentle push with one finger. We switch off the fan, because moving air can knock over light dominoes. We try each gap twice, because one try can go wrong by chance.
 - **safety:** If you use matchboxes, take all the matches out first. A grown-up keeps the matches away from children.
-- **record:** Fill in the results table. Then draw the line of dominoes for the widest gap, showing which ones fell and which stayed up.
+- **record:** Fill in the results table. Then stand the dominoes as they ended up for the widest gap and take a photo, or draw them, showing which ones fell and which stayed up.
 - **results table:** Gap | First try: how many fell (out of 10)? | Second try: how many fell (out of 10)?
 - **s1 (4 min)**  
-  *Parent does:* 1. Stand one domino on its short end. 2. Hold the paper strip upright beside it, with one end on the floor. 3. Your child marks the strip level with the top of the domino. 4. Cut the strip at the mark. 5. Fold it in half and mark the fold.  
+  *Parent does:* 1. Stand one domino on its short end. 2. Hold the paper strip upright beside it, with one end on the floor. 3. Your child marks the strip level with the top of the domino. 4. Tear off the extra paper above the mark. 5. Fold the strip in half and mark the fold.  
   *Parent says:* This strip is exactly as long as a domino is tall. Folded in half, it shows half a domino's height. We will use it to set the gaps.  
-  *Child mode:* Stand a domino up. Hold the paper strip beside it. Mark how tall the domino is. Cut the paper there. Fold it in half.
+  *Child mode:* Stand a domino up. Hold the paper strip beside it. Mark how tall the domino is. Tear off the extra paper. Fold the strip in half.
   - Note: Measuring with the strip means the test works with any dominoes, matchboxes or blocks, whatever their size.
 - **s2 (3 min)**  
   *Parent does:* 1. Switch off the fan. 2. Show your child the three gaps: one finger, half the strip and the whole strip. 3. Ask the question below.  
   *Parent says:* We will try three gaps. One finger wide. Half a domino tall. One whole domino tall. For which gaps will all ten fall? Why do you think so?  
-  *Child mode:* There are three gaps to try. Which gaps will make all ten fall? Why?
+  *Child mode:* Look at the three gaps. Think about what will happen to the dominoes.
   - Ask: Which gaps will make all ten dominoes fall? Why? (good: The small gaps, because each domino can reach the next one.; The big gap, because the domino falls harder from further away.; All of them, because a push always goes on.)
   - Note: Write down your child's guess and their reason. Do not say who is right. Many children think a bigger gap gives a harder hit.
 - **s3 (7 min)**  
@@ -249,13 +249,13 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - **s5 (6 min)**  
   *Parent does:* 1. Stand the ten dominoes again, using the whole strip to set each gap. 2. Push the first one gently. 3. Watch where the first domino lands. 4. Count how many fell. 5. Do it once more.  
   *Parent says:* Now each gap is as wide as a domino is tall. Push the first one. Watch where it lands. How many fell this time?  
-  *Child mode:* Make each gap as wide as the whole strip. Push the first one. Watch where it lands.
-  - Ask: Where did the first domino land? Did it touch the second one? (good: It lay down flat and just reached the bottom of the next one.; It did not reach the next one, so that one stayed up.)
+  *Child mode:* Make each gap as wide as the whole strip. Push the first one gently.
+  - Ask: Did the first domino reach the top of the second one? (good: No. It lay down flat and only reached the bottom of the next one.; No, so the second one stayed up.)
   - Note: Usually only the first one falls. Lying flat, it just reaches the bottom of the next domino, too low to tip it. If your dominoes slide on a smooth floor, try a rough tile or a table.
 - **s6 (4 min)**  
   *Parent does:* 1. Stand the line again with the half-strip gaps. 2. Take out the fifth domino. 3. Push the first one and count how many fall. 4. Ask your child what they saw, and why they think the chain stopped. 5. Then read the card 'A chain of causes: why the last domino falls'.  
   *Parent says:* This time we take one domino out of the middle. What will happen? Push the first one. How many fell? Why do you think the chain stopped where it did?  
-  *Child mode:* Take out the fifth domino. Push the first one. Where does the chain stop? Why?
+  *Child mode:* Take out the fifth domino. Push the first one. Count how many fall.
   - Ask: Why did the chain stop? (good: The fourth domino had nothing to hit.; There was a big hole, so the push could not get across.; Each domino only falls if the one before it hits it.)
   - Note: Four dominoes fall, then the chain stops at the hole. Let your child explain it before you read the card. A strong answer says that each domino falls only when the one before it hits it.
   - Check: In the domino test, why did the last domino fall when the gaps were small? → **The domino next to it hit it**
@@ -263,18 +263,18 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - **question:** If you slide a coin into one end of a line of coins, which coin will move away?
 - **predict:** When the sliding coin hits the line, which coin will move? The first one, the middle ones, the last one, or all of them? Why do you think so?
 - **fair test:** All the coins are the same kind, so they are the same size and weight. They touch each other in a straight line. We slide the coin the same way each time, on the same smooth surface. We try each test three times, because one try can go wrong by chance.
-- **record:** Draw the line of coins before and after each test. Draw an arrow on each coin that moved.
+- **record:** Fill in the results table. Then take a photo of the coins after one test, with the coins that moved set a little apart from the rest.
 - **results table:** Test | Which coins moved away? | Did the middle coins move?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the ruler on the board. 2. Your child puts five coins along its edge, all touching. 3. Take the ruler away gently. 4. Ask the question below.  
   *Parent says:* These five coins are all touching. We will slide another coin into this end. Which coin will move away? Why do you think so?  
-  *Child mode:* Put five coins in a line, touching. Which coin will move when another coin hits? Why?
+  *Child mode:* Put five coins in a line, so they touch. Then guess what will happen.
   - Ask: Which coin will move away when the sliding coin hits? (good: The first coin, because it gets hit.; All of them, because they all get pushed.; The last coin, because the push goes along.)
   - Note: Write down your child's guess and reason. Most children guess the first coin, or all of them.
 - **s2 (6 min)**  
   *Parent does:* 1. Put a sixth coin about one hand-length from the end of the line, in a straight line with it. 2. Your child flicks it with a finger so it slides straight into the line. 3. Watch which coin moves. 4. Set up again and do it three times.  
   *Parent says:* Flick this coin so it slides straight into the end of the line. Watch carefully. Which coin moved?  
-  *Child mode:* Flick the coin into the line. Watch closely. Which coin moved away?
+  *Child mode:* Flick the coin into the line. Watch closely.
   - Ask: Which coin moved? What did the middle coins do? (good: The last coin slid away.; The middle coins hardly moved at all.)
   - Note: On a smooth board, the coin you flick stops, the middle coins hardly move, and the last coin slides away. If all the coins scatter, the line was not straight or the coins were not touching. Set them up again.
 - **s3 (6 min)**  
@@ -285,15 +285,15 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - **s4 (4 min)**  
   *Parent does:* 1. Ask your child what they saw, and how they think the push reached the last coin. 2. Then read the card 'A chain of causes: why the last domino falls'.  
   *Parent says:* The middle coins hardly moved. But the last coin flew off. How did the push get to the end?  
-  *Child mode:* The middle coins hardly moved. How did the push get to the end coin?
+  *Child mode:* Look at the coins again. Tell your grown-up what you think happened.
   - Ask: How did the push get from the first coin to the last coin? (good: Each coin pushed the next one.; The push went through the coins, like through dominoes.; The coins passed it on without moving much.)
   - Note: The push travels through the coins as a quick squeeze from one to the next. The middle coins pass it on and stay almost still. The last coin has nothing to pass it to, so it moves away.
 
 ## Activities
 ### a1 · Do It and See: six actions, six effects (10 min)
-- **record:** Draw one action and its effect, with an arrow from the action to the effect.
+- **record:** Pick one action. Tell your grown-up its cause and its effect, or draw it with an arrow from the cause to the effect.
 - **s1 (6 min)**  
-  *Parent does:* Your child does each of these. 1. Drop the spoon onto the plate. 2. Hold the paper strip in front of the fan and switch the fan on. 3. Stir a spoon of sugar into the water and taste it. 4. Breathe on the steel tumbler. 5. Clap once. 6. Switch the light off and on.  
+  *Parent does:* Your child does each of these. 1. Drop the spoon onto the plate. 2. Hold the paper strip in front of the fan and switch the fan on, or blow on the strip. 3. Stir a spoon of sugar into the water and taste it. 4. Breathe on the steel tumbler. 5. Clap once. 6. Switch the light off and on.  
   *Parent says:* Do this, and tell me what happened because of it. What you did is called the cause. What happened is called the effect.  
   *Child mode:* Do each action. Then say what happened. What you did is the cause. What happened is the effect.
   - Ask: What was the effect of breathing on the tumbler? (good: The steel went cloudy.; A misty patch came on it, and then it went away.)
@@ -301,11 +301,11 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - **s2 (4 min)**  
   *Parent does:* 1. Ask your child to find an action that has no effect at all. 2. Talk about each one they try.  
   *Parent says:* Can you find an action that has no effect at all? Try something. Now, did anything change, even a tiny bit?  
-  *Child mode:* Try to find an action with no effect at all. Did anything change, even a little?
+  *Child mode:* Try some small actions. Look, listen and feel for any change.
   - Ask: Was there an action with no effect at all? (good: No. Even blinking moves the air a tiny bit.; Waving my hand moved the air.; When I whispered, Amma heard me.)
   - Note: Any action changes something, even if only a little: it moves air, makes a sound or warms what you touch. Let your child test their ideas. There is no need to settle it now.
 ### a2 · Cause Detectives: what made this happen? (12 min)
-- **record:** For each effect, draw it and write one word for its cause.
+- **record:** For each effect, say or write one word for its cause. Take a photo of the clue.
 - **s1 (2 min)**  
   *Parent does:* 1. Before you start, without your child seeing, spill a little water near a tumbler. 2. Leave a book on the floor near a table edge. 3. Leave biscuit crumbs on a plate. 4. Put one chappal upside down by the door.  
   *Parent says:* Something happened in four places in our home. Your job is to find out what caused each one. Look for clues.  
@@ -314,7 +314,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - **s2 (8 min)**  
   *Parent does:* 1. Your child finds each effect. 2. For each one, ask the questions below.  
   *Parent says:* What do you think caused this? What clue tells you? Could anything else have caused it?  
-  *Child mode:* What caused this? What clue tells you? Could it be something else?
+  *Child mode:* Look closely at each thing. Point to the clue that tells you the cause.
   - Ask: What caused the crumbs on the plate? How do you know? (good: Someone ate a biscuit there, because the crumbs are biscuit crumbs.; A biscuit broke on the plate.)
   - Note: Praise the clue more than the answer. 'The tumbler is wet on the outside' is real evidence. Some effects have more than one possible cause, and that is a good thing to notice.
 - **s3 (2 min)**  
@@ -324,7 +324,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   - Ask: Did walking in make the light come on? (good: No, the grown-up pressed the switch.; It only happened at the same time.)
   - Note: This shows that two things can happen together, or one after the other, without one causing the other.
 ### a3 · The Ant Message Chain (15 min)
-- **record:** Draw the paper each time you look, with a dot for each ant. Write the time and the number of ants.
+- **record:** Each time you look, write the time and the number of ants. Then say the chain in order to your grown-up.
 - **s1 (5 min)**  
   *Parent does:* 1. Find a place where you have seen ants, such as a kitchen counter, a window sill or a balcony. 2. Put a drop of sugar water on the paper there. 3. Count the ants on the paper now.  
   *Parent says:* Ants walk here sometimes. Let's put a drop of sugar water on this paper and count the ants. Then we wait.  
@@ -339,23 +339,23 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   - Wait: 10 to 20 minutes later
 - **s3 (5 min)**  
   *Parent does:* 1. Talk about the chain together. 2. Afterwards, move the paper outside or wipe the sugar away, without hurting the ants.  
-  *Parent says:* First we put down the sugar water. Then one ant found it. Then she left a smell trail. Then many ants came. What started the chain?  
+  *Parent says:* First we put down the sugar water. Then one ant found the sugar. Then she left a smell trail. Then many ants came. What started the chain?  
   *Child mode:* One ant found the sugar. Then many came. What started the chain?
   - Note: Ants sense, think and tell each other where food is. Some scientists say the trail is only an automatic reaction, and others say each ant chooses. Either way, one ant's find was the cause of all the others coming.
 
 ## Projects
 ### p1 · Tonight's Cause, Tomorrow's Effect: soaking chana (15 min, 2 days)
-- **record:** Write how long the line of ten chana was at night and in the morning. Draw one chana before soaking and one after, each at its real size.
+- **record:** Write how long the line of ten chana was at night and in the morning. Draw one chana before soaking and one after, each at its real size, or take a photo of each next to the ruler.
 - **schedule:** day 1: Line up ten dry chana and measure the line. Soak them in water overnight. (8 min); day 2: Line up the same ten chana and measure again. Compare. (7 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Your child lines up ten dry chana, touching, along a ruler. 2. Write down the length. 3. Put them in a bowl with plenty of water. 4. Ask the question below.  
   *Parent says:* We put these chana in water tonight. What will they look like in the morning? Why do you think so?  
-  *Child mode:* Line up ten chana. Measure the line. Put them in water. What will happen by morning? Why?
+  *Child mode:* Line up ten chana along the ruler. Measure the line. Put them in water.
   - Ask: What will the chana look like in the morning? Why? (good: Bigger, because they drink the water.; Softer, because water goes inside.; The same, because they are hard.)
   - Note: Many homes soak chana overnight before cooking. Use plenty of water, at least three times as much as the chana.
 - **s2 (7 min)**  
   *Parent does:* 1. Take out the same ten chana. 2. Your child lines them up along the ruler again. 3. Compare the two lengths. 4. Look at how much water is left in the bowl.  
-  *Parent says:* How long is the line now? Is there less water in the bowl? Where did the water go? When did we do the thing that caused this?  
+  *Parent says:* How long is the line now? Is there less water in the bowl? Where did the water go?  
   *Child mode:* Measure the line again. Is it longer? Where did the water go?
   - Ask: The cause happened last night. Why could we only see the effect this morning? (good: The chana drink the water slowly.; It takes many hours for water to get inside.)
   - Note: The line of ten is usually much longer in the morning, because the seeds have soaked up water. Cook the chana afterwards, so nothing is wasted.
@@ -364,14 +364,14 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 ## Challenges
 ### c1 · The Chain Reaction Machine: ring a bell with one push (25 min)
 - **problem:** Make a machine where one gentle push starts a chain of at least four causes, and the last one rings a steel bowl or drops a coin into a cup.
-- **your turn:** Draw your machine first, with an arrow from each cause to its effect. Then build it. If it stops, find the link that did not pass the push on, fix it, and try again.
+- **your turn:** Plan your machine first. Draw it with an arrow from each cause to its effect, or lay the parts out on the floor in order. Then build it. If it stops, find the link that did not pass the push on, fix it, and try again.
 - **constraints:** You may touch only the first part, once.; There must be at least four steps, each causing the next.; Use things from home, and put everything back afterwards.
 - **general:** A line of dominoes falls onto one end of a ruler resting on a pencil, like a see-saw. The other end lifts up and taps the steel bowl.; The last domino pushes a marble down a ramp made from a book. The marble rolls into a steel tumbler and rings it.
 - **creative:** Make the dominoes a little bigger each time, for example a small matchbox, then a bigger box, then a thin book. Each one can knock over one a little bigger than itself.; Make the marble knock a coin off the edge of a table into a cup.; Add a turn in the domino line, around a corner of a book.
 - **s1 (5 min)**  
-  *Parent does:* 1. Read the problem together. 2. Your child draws a plan with arrows.  
-  *Parent says:* One push has to start at least four causes in a row. The last one must ring the bowl. Draw your plan first. Put an arrow from each cause to its effect.  
-  *Child mode:* Draw your machine. Draw an arrow from each cause to its effect.
+  *Parent does:* 1. Read the problem together. 2. Your child plans the machine, with a drawing and arrows or with the parts laid out in order.  
+  *Parent says:* One push has to start at least four causes in a row. The last one must ring the bowl. Plan it first. Draw arrows from each cause to its effect, or lay the parts out in order.  
+  *Child mode:* Plan your machine. Draw it with arrows, or lay the parts out in order.
 - **s2 (15 min)**  
   *Parent does:* 1. Your child builds the machine. 2. Test it. 3. When it stops, look for the link that failed. 4. Fix it and try again.  
   *Parent says:* Where did the chain stop? Which link did not pass the push on? What could you change there?  

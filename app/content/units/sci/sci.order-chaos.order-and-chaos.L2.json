@@ -291,7 +291,7 @@
    "title": "The Paper Leaf Test: where will it land?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you cut two leaf shapes from the same paper. You crumple one into a ball and keep the other flat. You drop each one ten times from the same height, and mark where it lands.",
+   "context": "In this experiment you cut two leaf shapes from the same paper. You crumple one into a ball and keep the other flat. You drop each one ten times from the same height, and mark where it lands. You will find out which one lands in the same place each time.",
    "question": "If we drop a flat paper leaf and a paper ball from the same height, will each land in the same place every time?",
    "predict": "Look at the flat leaf and the paper ball. When we drop them ten times each, which one will land inside the plate circle more often? Why do you think so?",
    "fair_test": "Both come from the same sheet of paper and are the same size, so they weigh the same. We drop both from the same height, holding them over the same spot. We switch off the fan and close the windows, so moving air does not spoil the test. We drop each one ten times, because one drop can be a fluke.",
@@ -330,7 +330,7 @@
      "what": "Cut two paper leaves. Crumple one. Drop each one ten times and mark where it lands."
     }
    ],
-   "record": "Fill in the results table with a tick for inside and a cross for outside. Count the ticks for the ball and for the leaf. Draw the newspaper with all the crosses on it.",
+   "record": "Fill in the results table with a tick for inside and a cross for outside. Count the ticks for the ball and for the leaf. Take a photo of the newspaper with all the crosses on it, or draw it.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -381,7 +381,7 @@
      "context": "This is the first step of the paper leaf test. You make the paper leaf and the paper ball.",
      "do": "1. Fold the notebook paper in half. 2. Draw a leaf about as long as your child's hand on it. 3. Cut through both layers, so you get two leaves the same size. 4. Your child crumples one leaf into a tight ball.",
      "say": "These two leaves came from the same paper, and they are the same size. So they weigh the same. Now crumple one into a tight ball. Keep the other one flat.",
-     "kid": "Cut two paper leaves the same size. Crumple one into a ball. Keep one flat.",
+     "kid": "Crumple one leaf into a tight ball. Keep the other one flat.",
      "parent": "Folding the paper before cutting gives two leaves of exactly the same size and weight. That makes it a fair test."
     },
     {
@@ -389,8 +389,8 @@
      "mins": 3,
      "context": "In this step of the paper leaf test, you set up the target and guess.",
      "do": "1. Switch off the fan and close the windows. 2. Lay two sheets of newspaper side by side on the floor. 3. Put a steel plate in the middle and draw around it. 4. Ask the question below.",
-     "say": "We will drop the ball and the flat leaf ten times each, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?",
-     "kid": "Drop the ball and the leaf ten times each over the circle. Which one will land inside more often? Why?",
+     "say": "We will drop the ball and the flat leaf ten times each, from up high, over the middle of the circle. Think about where each one will land.",
+     "kid": "Look at the ball and the flat leaf. Make your guess.",
      "ask": [
       {
        "q": "Which one will land inside the circle more often, the ball or the flat leaf? Why?",
@@ -416,12 +416,12 @@
      "id": "s4",
      "mins": 5,
      "context": "In this step of the paper leaf test, you drop the flat paper leaf ten times.",
-     "do": "1. Your child holds the flat leaf by the tip, flat side down, high over the middle of the circle. 2. Let go. 3. Mark where it comes to rest with a blue cross. 4. Do it ten times in all, holding it the same way each time.",
+     "do": "1. Your child holds the flat leaf by the tip, flat side down, high over the middle of the circle. 2. Let go. 3. Mark where it first lands with a blue cross. 4. Do it ten times in all, holding it the same way each time.",
      "say": "Now the flat leaf. Hold it flat, by the tip, in the same place. Let go. Watch how it falls. Make a blue cross where it lands.",
      "kid": "Hold the flat leaf the same way each time. Let go. Watch it fall. Mark where it lands.",
      "ask": [
       {
-       "q": "How did the leaf fall? Was it the same as the ball?",
+       "q": "How did the leaf fall, compared with the ball?",
        "good": [
         "It swung from side to side.",
         "It turned over and slid sideways.",
@@ -436,8 +436,8 @@
      "mins": 3,
      "context": "This is the last step of the paper leaf test. You count and say what you found.",
      "do": "1. Count the red crosses inside the circle. 2. Count the blue crosses inside the circle. 3. Ask your child what they think, what they saw and why. 4. Then read the card on why a falling leaf never lands in the same place twice.",
-     "say": "How many red crosses are inside the circle? How many blue ones? Did the leaf ever land in the same place twice? Why do you think the ball and the leaf were so different?",
-     "kid": "Count the red crosses inside. Count the blue ones. Why were they so different?",
+     "say": "How many red crosses are inside the circle? How many blue ones? Did the leaf ever land in the same place twice?",
+     "kid": "Count the red crosses inside the circle. Then count the blue ones.",
      "ask": [
       {
        "q": "Why did the ball land near the same spot, but the leaf did not?",
@@ -468,7 +468,7 @@
    "title": "The Splash Test: is any splash the same as another?",
    "mins": 18,
    "days": 1,
-   "context": "In this experiment you let drops of yellow haldi water fall onto white paper. You drop them from the same height and look at each splash. Then you drop from higher up.",
+   "context": "In this experiment you let drops of yellow haldi water fall onto white paper. You drop them from the same height and look at each splash. Then you drop from higher up. You will find out if any two splashes can match.",
    "question": "If the same kind of drop falls from the same height, will its splash look the same each time?",
    "predict": "We will drop four drops from the same height. Will the four splashes look the same? Will a drop from higher up make a bigger or smaller splash? Why do you think so?",
    "fair_test": "We use the same haldi water, the same dropper and the same paper every time. For the first four drops we use the same height, measured with a ruler. Only the height changes for the last drops.",
@@ -512,7 +512,7 @@
      "what": "Drop haldi water from the same height four times, then from higher up. Compare the splashes."
     }
    ],
-   "record": "Fill in the results table. Draw a circle around each splash and write its height beside it. Then you can compare the splash from high up with the others.",
+   "record": "Fill in the results table. Circle each splash with a pencil and write its height beside it. Then compare the high splash with the others.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -573,8 +573,8 @@
      "mins": 3,
      "context": "This is the first step of the splash test. You get ready and guess.",
      "do": "1. Stir a pinch of haldi into half a small cup of water. 2. Spread newspaper on the floor and put a white sheet on top. 3. Ask the questions below.",
-     "say": "We will drop four drops of this yellow water from the same height. Will the four splashes look the same? Why do you think so?",
-     "kid": "Four drops will fall from the same height. Will the splashes look the same? Why?",
+     "say": "We will drop four drops of this yellow water from the same height. Think about how the splashes will look.",
+     "kid": "Make your guess about the four splashes.",
      "ask": [
       {
        "q": "Will the four splashes look the same? Why?",
@@ -600,8 +600,8 @@
      "mins": 4,
      "context": "In this step of the splash test, you look closely at the four splashes and count.",
      "do": "1. Your child counts the little dots around each splash. 2. Write the numbers in the table. 3. Ask the question below.",
-     "say": "Count the little dots around each splash. Are the numbers the same? Are the dots in the same places?",
-     "kid": "Count the little dots around each splash. Are any two splashes the same?",
+     "say": "Count the little dots around each splash. Look at where the dots are.",
+     "kid": "Count the little dots around each splash.",
      "ask": [
       {
        "q": "Are any two splashes exactly the same?",
@@ -629,8 +629,8 @@
      "mins": 2,
      "context": "This is the last step of the splash test. You say what you found.",
      "do": "1. Ask your child what they think, what they saw and why. 2. Then read the card on why no two splashes are the same.",
-     "say": "It was the same water and the same height. Why do you think the splashes were not all the same? Why was the high one different?",
-     "kid": "Same water, same height. Why were the splashes different?",
+     "say": "It was the same water and the same height. Look at all the splashes again. Why was the high one different from the others?",
+     "kid": "Look at all the splashes again. Think about what was different.",
      "ask": [
       {
        "q": "Why were the splashes different?",
@@ -652,7 +652,7 @@
    "title": "Shake and Tip: can the beans land the same way twice?",
    "mins": 7,
    "days": 1,
-   "context": "In this activity you shake ten rajma beans in a tumbler and tip them onto a plate, twice. Then you put them in a neat row. You see which one you can make again: the heap or the row.",
+   "context": "In this activity you shake ten rajma beans in a tumbler and tip them onto a plate, twice. Then you put them in a neat row. You will find out which one you can make again: the heap or the row.",
    "materials": [
     {
      "item": "ten rajma beans, or ten chana, buttons or small pebbles",
@@ -671,10 +671,10 @@
     {
      "day": 1,
      "mins": 7,
-     "what": "Shake and tip ten beans twice and draw them. Then line them up in a row."
+     "what": "Shake and tip ten beans twice and take a photo each time. Then line them up in a row."
     }
    ],
-   "record": "Draw the beans after the first tip, after the second tip and in the neat row.",
+   "record": "Take a photo of the beans after the first tip, after the second tip and in the neat row. Or draw them.",
    "setup": [
     {
      "art": "A child's hand covering the top of a steel tumbler with ten rajma beans inside, shaking it.",
@@ -682,7 +682,7 @@
     },
     {
      "art": "Rajma beans scattered unevenly across a steel plate next to a tipped tumbler.",
-     "caption": "2. Tip them onto a plate. Draw where they are."
+     "caption": "2. Tip them onto a plate. Take a photo of where they are."
     },
     {
      "art": "Ten rajma beans in a straight neat row on a steel plate.",
@@ -693,17 +693,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Your child puts ten beans in the tumbler, covers it with a hand and shakes it. 2. Tip the beans onto the plate. 3. Your child draws where they landed.",
-     "say": "Shake the tumbler and tip the beans onto the plate. Look at where they landed. Draw them quickly.",
-     "kid": "Shake the beans. Tip them out. Draw where they landed.",
+     "do": "1. Your child puts ten beans in the tumbler, covers it with a hand and shakes it. 2. Tip the beans onto the plate. 3. Take a photo of the beans with your phone. If you have no phone, your child draws them.",
+     "say": "Shake the tumbler and tip the beans onto the plate. Look at where they landed. Now I take a photo.",
+     "kid": "Shake the beans. Tip them out. Look at where they landed.",
      "parent": "Just let your child look at where the beans landed. Do not explain anything yet."
     },
     {
      "id": "s2",
      "mins": 2,
-     "do": "1. Put the beans back in the tumbler. 2. Before tipping, ask the question below. 3. Shake and tip again, and compare with the drawing.",
-     "say": "Can you make them land in exactly the same places as last time? Try it. Look at your drawing. Is it the same?",
-     "kid": "Can the beans land the same way again? Try it. Look at your drawing.",
+     "do": "1. Put the beans back in the tumbler. 2. Before tipping, ask the question below. 3. Shake and tip again, and compare with the first photo.",
+     "say": "Put the beans back and shake again. Tip them onto the plate. Now look at the first photo.",
+     "kid": "Shake and tip the beans again. Look at the first photo.",
      "ask": [
       {
        "q": "Did the beans land the same way as last time?",
@@ -719,7 +719,7 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Your child lines the ten beans up in a straight row. 2. Mix them up, and ask your child to make the row again.",
-     "say": "Now put them in a straight row. Now I mix them up. Can you make the row again? Which could you make the same again, the row or the heap?",
+     "say": "Now put them in a straight row. Now I mix them up. Can you make the row again?",
      "kid": "Line the beans up in a row. Can you make the row again?",
      "ask": [
       {
@@ -740,14 +740,14 @@
    "title": "Draw a Kolam: a pattern with a rule",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw a simple kolam on paper. You make a grid of dots and loop a line around them. Then you draw it a second time and see if it comes out the same.",
+   "context": "In this activity you draw a simple kolam on paper. You make a grid of dots and loop a line around them. Then you draw it a second time and see if it comes out the same. You will find out what order means.",
    "materials": [
     {
      "item": "two sheets of paper, or a doorstep and rice flour or chalk",
      "qty": 2
     },
     {
-     "item": "a pencil, or a sketch pen",
+     "item": "a pencil or sketch pen, or a piece of string and nine buttons or beans",
      "qty": 1
     }
    ],
@@ -784,7 +784,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Show the rule: the line goes around each dot and never touches a dot. 2. Your child draws a line that loops around all nine dots, joining up where it started. 3. Any loop pattern is fine, as long as the rule is kept.",
+     "do": "1. Show the rule: the line goes around each dot and never touches a dot. 2. Your child draws a line that loops around all nine dots, joining up where it started. 3. Any loop pattern is fine, as long as the rule is kept. A child who does not like drawing can lay a piece of string around nine buttons or beans instead.",
      "say": "Here is the rule. The line goes around every dot. It never touches a dot. Can you make one line that goes around all nine?",
      "kid": "The line goes around every dot. It never touches a dot. Try it.",
      "parent": "A simple shape to start with: draw a wavy line that weaves between the rows, then join it up at the ends. If it goes wrong, start again on new dots. It takes a few tries."
@@ -793,8 +793,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Your child makes nine new dots next to the first kolam. 2. Your child draws the same kolam again. 3. Compare the two kolams.",
-     "say": "Now draw the same kolam again, next to the first one. Is it the same? How did you know where the line goes?",
-     "kid": "Draw the same kolam again. Is it the same? How did you know?",
+     "say": "Now make the same kolam again, next to the first one. Is it the same?",
+     "kid": "Make the same kolam again, next to the first one.",
      "ask": [
       {
        "q": "How could you draw the same kolam again?",
@@ -827,7 +827,7 @@
      "what": "Let a tap drip slowly onto a steel plate. Watch and listen to each drop."
     }
    ],
-   "record": "Draw two splashes you saw. Write one way they were different.",
+   "record": "Tell your grown-up about two splashes you saw. Say one way they were different.",
    "setup": [
     {
      "art": "A kitchen tap turned on so it drips slowly onto a steel plate in the sink.",
@@ -843,11 +843,11 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put a steel plate in the sink under the tap. 2. Turn the tap on so it drips slowly, about one drop each second.",
-     "say": "Watch the drops. Listen too. Does every drop make the same splash and the same sound?",
-     "kid": "Watch each drop. Listen. Is every splash the same?",
+     "say": "Watch the drops. Listen too.",
+     "kid": "Watch each drop. Listen to each one.",
      "ask": [
       {
-       "q": "Is every drop the same?",
+       "q": "Does every splash look and sound the same?",
        "good": [
         "The drops come at a steady beat, but the splashes look different.",
         "Some splash higher than others."
@@ -859,8 +859,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Ask the question below. 2. Turn off the tap. Save the water in the plate for a plant.",
-     "say": "The drops fall one after the other, at a steady beat. That part has a pattern. Do the splashes have a pattern too? Which part is neat, and which part is messy?",
-     "kid": "The drops come one after another. Do the splashes look the same too?",
+     "say": "The drops fall one after the other, at a steady beat. That part has a pattern. Do the splashes have a pattern too?",
+     "kid": "Think about which part is neat and which part is messy.",
      "ask": [
       {
        "q": "Which part is neat and which part is messy?",
@@ -881,7 +881,7 @@
    "title": "Same Again or Never Twice? a card game",
    "mins": 15,
    "players": "2 to 4 players, or 1 player sorting alone",
-   "context": "This is a quick card game. Each card shows something that happens. You decide if it can happen the same way again, or if it never happens the same way twice.",
+   "context": "This is a quick card game. Each card shows something that happens. You decide if it can happen the same way again, or if it never happens the same way twice. You will see which things follow a rule you can repeat.",
    "printables": [
     {
      "kind": "cards",
@@ -1023,8 +1023,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Count the points. 2. Ask the question below.",
-     "say": "Look at the 'Never twice' cards. Do they follow rules too, or is it all luck?",
-     "kid": "Look at the 'Never twice' cards. Do they follow rules too?",
+     "say": "Pick a 'Never twice' card, like the leaf or the splash.",
+     "kid": "Think about the 'Never twice' card you picked.",
      "ask": [
       {
        "q": "Do the 'Never twice' things follow rules?",
@@ -1042,7 +1042,7 @@
    "title": "Copy My Clap: a rhythm game",
    "mins": 8,
    "players": "2 or more players",
-   "context": "This is a clapping game. One player claps a pattern and the others copy it. Then the leader drums freely, with no pattern, and the others try to copy that too.",
+   "context": "This is a clapping game. One player claps a pattern and the others copy it. Then the leader drums freely, with no pattern, and the others try to copy that too. You will find out why a pattern is easy to copy.",
    "printables": [
     {
      "kind": "cards",
@@ -1111,8 +1111,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Ask the question below.",
-     "say": "Which ones were easy to copy, and which were hard? Why?",
-     "kid": "Which claps were easy to copy? Which were hard? Why?",
+     "say": "Which ones were easy to copy, and which were hard?",
+     "kid": "Think about the easy claps and the hard ones.",
      "ask": [
       {
        "q": "Why was the pattern easy to copy, but the free drumming hard?",
@@ -1133,7 +1133,7 @@
    "title": "My Never-Twice Diary: three days of watching",
    "days": 3,
    "mins": 21,
-   "context": "In this project you keep a small diary for three days. Each day, you find one thing that happens the same way every time, and one thing that never happens the same way twice.",
+   "context": "In this project you keep a small diary for three days. Each day, you find one thing that happens the same way every time, and one thing that never happens the same way twice. You will find out how much around you follows a rule.",
    "materials": [
     {
      "item": "three sheets of paper folded into a little book, or three pages of a notebook",
@@ -1148,12 +1148,12 @@
     {
      "day": 1,
      "mins": 7,
-     "what": "Find and draw one thing that happens the same way every time, and one that never does."
+     "what": "Find one thing that happens the same way every time, and one that never does. Write their names."
     },
     {
      "day": 2,
      "mins": 7,
-     "what": "Look out of the window at the sky. Draw the clouds in the morning and again in the evening."
+     "what": "Look out of the window at the sky. Take a photo of the clouds in the morning and again in the evening, or draw them."
     },
     {
      "day": 3,
@@ -1161,7 +1161,7 @@
      "what": "Find two new things in the kitchen. Then read the whole diary and sort the things into 'has a rule' and 'messy'."
     }
    ],
-   "record": "Each page has two boxes: 'Same every time' and 'Never twice'. Draw one thing in each box and write one word about it.",
+   "record": "Each page has two boxes: 'Same every time' and 'Never twice'. Write the name of one thing in each box, and one word about it. Draw it too if you like.",
    "setup": [
     {
      "art": "A small homemade booklet with three pages, each split into two boxes labelled 'Same every time' and 'Never twice'.",
@@ -1176,17 +1176,17 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds and draws one thing for each box.",
+     "do": "1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds one thing for each box and writes its name. Drawing it is optional.",
      "say": "Today, find one thing that happens the same way every time, and one thing that never does. Look around the house.",
-     "kid": "Find one thing that is the same every time. Find one that never is. Draw them."
+     "kid": "Find one thing that is the same every time. Find one that never is. Write their names."
     },
     {
      "id": "s2",
      "mins": 7,
      "wait": "The next day",
-     "do": "1. In the morning, your child draws the clouds from a window. 2. In the evening, your child draws them again.",
-     "say": "Look out of the window. Draw the clouds. We will look again this evening. Will they be the same?",
-     "kid": "Draw the clouds this morning. Look again this evening. Are they the same?",
+     "do": "1. In the morning, take a photo of the clouds from a window, or your child draws them. 2. In the evening, do the same again.",
+     "say": "Look out of the window at the clouds. We will look again this evening.",
+     "kid": "Look at the clouds this morning. Look again this evening.",
      "ask": [
       {
        "q": "Were the clouds the same in the evening?",
@@ -1202,7 +1202,7 @@
      "id": "s3",
      "mins": 7,
      "wait": "The next day",
-     "do": "1. Your child finds two new things in the kitchen. 2. Then your child reads the whole diary aloud.",
+     "do": "1. Your child finds two new things in the kitchen. 2. Then your child reads the whole diary aloud and says for each thing if it has a rule or is messy.",
      "say": "Find two things in the kitchen today. Is each one the same every time, or never the same twice? Then let's read your whole diary. Which things have a rule, and which are messy?",
      "kid": "Find two things in the kitchen. Same every time, or never twice? Then read your diary. Which things have a rule?",
      "ask": [
@@ -1263,8 +1263,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Remind your child of the flat leaf's score from the paper leaf test. 2. Ask the question below.",
-     "say": "The flat leaf landed in a new place each time. We cannot crumple it. How could we change it so it lands in the circle more often?",
-     "kid": "How could you change the flat leaf so it lands in the circle?",
+     "say": "The flat leaf landed in a new place each time. We cannot crumple it.",
+     "kid": "Think about how you could change the flat leaf.",
      "ask": [
       {
        "q": "How could you make it land in the circle more often?",
@@ -1289,7 +1289,7 @@
      "mins": 4,
      "do": "1. Compare the scores. 2. Ask the question below.",
      "say": "Which design landed in the circle most often? Why do you think it worked?",
-     "kid": "Which design was best? Why do you think it worked?",
+     "kid": "Compare how many landed inside for each design.",
      "ask": [
       {
        "q": "Why did your best design work?",

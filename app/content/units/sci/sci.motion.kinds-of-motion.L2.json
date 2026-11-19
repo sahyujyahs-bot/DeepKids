@@ -254,7 +254,7 @@
    "title": "Round or Back and Forth? Keys on a string, seen from two places",
    "mins": 20,
    "days": 1,
-   "context": "This is the main experiment of the unit. You make a bunch of keys go round and round on a string. Then you watch them from above, from the side, and as a shadow on the wall.",
+   "context": "This is the main experiment of the unit. You make a bunch of keys go round and round on a string. Then you watch them from above, from the side, and as a shadow on the wall. You will find out why a round path can look like a swing.",
    "question": "Keys go round and round in a circle on a string. What path do you see when you watch from the side, with your eyes at the same height as the keys?",
    "predict": "Guess first. From the side, will you see a circle, a straight line, or something else? Why do you think so?",
    "fair_test": "We use the same string, the same keys and the same slow speed every time. Only the place we watch from changes. We count 10 rounds each time, so we can compare the counts.",
@@ -294,7 +294,7 @@
      "what": "Make the keys go round, guess, watch from above and from the side, count, and play the shadow game."
     }
    ],
-   "record": "Draw the keys seen from above, with their path. Then draw them seen from the side, with their path. Write the two counts.",
+   "record": "Draw the keys seen from above, with their path. Then draw them seen from the side, with their path. Or tell your grown-up what you saw, and they write it down. Write the two counts.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -356,8 +356,8 @@
      "id": "s2",
      "mins": 2,
      "do": "1. Keep the keys going round. 2. Ask for a guess and a reason. 3. Write the guess down.",
-     "say": "If you get down low and look from the side, what will you see? A circle, a line, or something else? Why do you think so?",
-     "kid": "Guess. From the side, what path will the keys make? Why?",
+     "say": "If you get down low and look from the side, what will you see? A circle, a line, or something else?",
+     "kid": "Get ready to look from the side. Guess what path the keys will make.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -374,8 +374,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Your child stands next to you and looks straight down at the keys. 2. Keep the keys going round. 3. Count 10 rounds together, out loud.",
-     "say": "Look straight down from the top. What path do the keys make? Count each time they come back to your side.",
-     "kid": "Look down at the keys. What shape do they make? Count 10 rounds.",
+     "say": "Look straight down from the top. Count each time the keys come back to your side.",
+     "kid": "Look straight down at the keys. Count 10 rounds out loud.",
      "ask": [
       {
        "q": "What path did you see from the top?",
@@ -390,7 +390,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Your child lies on the floor 2 big steps away, chin on hands. Then their eyes are as low as the keys. Sitting on the floor also works. 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds.",
-     "say": "Now put your eyes as low as the keys. Say tick each time they reach the left end. What path do you see now?",
+     "say": "Now put your eyes as low as the keys. Say tick each time they reach the left end.",
      "kid": "Lie down and look at the keys from the side. Say 'tick' each time they reach the left end.",
      "ask": [
       {
@@ -408,16 +408,16 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Make the room dim. 2. Put the phone torch on a table, shining at a plain wall. 3. Hold the keys between the torch and the wall, close to the wall and as high as the torch. 4. Your child looks only at the shadow. 5. Make the keys go round, then swing them back and forth, in any order.",
-     "say": "Look only at the shadow on the wall. Am I making the keys go round, or swing back and forth? Tell me which.",
-     "kid": "Look only at the shadow. Are the keys going round or swinging? Can you tell?",
+     "say": "I will make the keys move. Look only at the shadow on the wall. Tell me which one I am making: round, or swinging.",
+     "kid": "Watch only the shadow, not the keys. Can you tell which it is?",
      "parent": "The shadow of keys going round and the shadow of keys swinging look almost the same. A sharp-eyed child may notice that a swing's shadow rises a little at each end. That is a good find. Let your child try the shadow game on you too."
     },
     {
      "id": "s6",
      "mins": 3,
      "do": "1. Fill in the table together. 2. Ask what your child saw, and why it looked different.",
-     "say": "From the top you saw a circle. From the side you saw back and forth. Were the keys doing two things, or one thing?",
-     "kid": "From the top you saw a circle. From the side you saw back and forth. Did the keys change what they were doing?",
+     "say": "From the top you saw a circle. From the side you saw back and forth. That is strange. Let us think about it.",
+     "kid": "Look at your table. Were the keys doing two things, or one thing?",
      "ask": [
       {
        "q": "Why did the keys look different?",
@@ -448,7 +448,7 @@
    "title": "Eyes Shut, Walk Straight: can you stay on the line?",
    "mins": 18,
    "days": 1,
-   "context": "In this experiment you walk along a straight line, first with your eyes open and then with your eyes shut. You find out how far you drift from the line.",
+   "context": "In this experiment you walk along a straight line, first with your eyes open and then with your eyes shut. You find out how far you drift from the line, and why your eyes matter for walking straight.",
    "question": "Can you walk 8 steps along a straight line with your eyes shut, and stay on it?",
    "predict": "Guess first. With your eyes shut, will you stay on the line, or drift off it? If you drift, which way? Why do you think so?",
    "fair_test": "We use the same line, the same start and the same 8 steps every time. Only the eyes change: open or shut. We try eyes open 2 times and eyes shut 3 times, because one try on its own can come out well or badly by chance.",
@@ -479,7 +479,7 @@
      "what": "Guess, walk the line twice with eyes open and three times with eyes shut, mark each stop, and measure in hand-widths."
     }
    ],
-   "record": "Draw the line. Draw a dot for each place you stopped: blue for eyes open, red for eyes shut.",
+   "record": "Lay your paper slips in a row, from the try closest to the line to the try farthest from it. Write each gap in hand-widths in the table.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -543,8 +543,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Ask for a guess and a reason, and write it down.",
-     "say": "You will walk the line first with your eyes open, then with your eyes shut. Will you stay on the line with your eyes shut? Why do you think so?",
-     "kid": "With your eyes shut, will you stay on the line? Why?",
+     "say": "You will walk the line first with your eyes open, then with your eyes shut. Will you stay on the line with your eyes shut?",
+     "kid": "Guess. With your eyes shut, will you stay on the line, or drift off it?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -587,8 +587,8 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Fill in the table together. 2. Compare eyes open with eyes shut. 3. Ask why.",
-     "say": "Which tries stayed closest to the line? Why do you think your eyes help you walk straight?",
-     "kid": "Look at the table. When did you stay closest? Why?",
+     "say": "Which tries stayed closest to the line?",
+     "kid": "Look at the table. Compare eyes open with eyes shut.",
      "ask": [
       {
        "q": "Why do your eyes help?",
@@ -621,7 +621,7 @@
    "title": "Path Hunt: straight, round, or back and forth?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hunt round your home for things that move. For each one, you draw its path in the air with your finger and add a tick to the right column.",
+   "context": "In this activity you hunt round your home for things that move. For each one, you draw its path in the air with your finger and add a tick to the right column. You will find out which paths are the most common at home.",
    "materials": [
     {
      "item": "a sheet of paper with three columns: STRAIGHT, ROUND, BACK AND FORTH",
@@ -640,7 +640,7 @@
      "what": "Find moving things, draw each path in the air, and tick the columns."
     }
    ],
-   "record": "Tick one column for each thing you find. Draw one thing from each column.",
+   "record": "Tick one column for each thing you find. Then tell your grown-up one thing you found in each column.",
    "setup": [
     {
      "art": "A sheet of paper with three columns headed STRAIGHT, ROUND and BACK AND FORTH, with a straight arrow, a circle and a two-headed arrow at the top.",
@@ -660,7 +660,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Draw three columns on paper. 2. Draw a straight arrow, a circle and a two-headed arrow at the top. 3. Read the words together.",
-     "say": "Here are the three paths: straight, round, and back and forth. Draw each one in the air with your finger.",
+     "say": "Here are the three paths: straight, round, and back and forth. We will hunt for things that move in each one.",
      "kid": "Draw each path in the air. Straight. Round. Back and forth."
     },
     {
@@ -706,7 +706,7 @@
    "title": "Who Starts It? Watch from the window and sort",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you watch from a window and around your home. For each moving thing, you ask: did it start by itself, did a push or pull start it, or does it have a motor?",
+   "context": "In this activity you watch from a window and around your home. For each moving thing, you ask: did it start by itself, did a push or pull start it, or does it have a motor? You will find out that not every moving thing starts moving in the same way.",
    "materials": [
     {
      "item": "a window that looks out on a road, a tree or other buildings",
@@ -728,7 +728,7 @@
      "what": "Watch for 5 minutes, sort each moving thing, then add things inside the home."
     }
    ],
-   "record": "Draw one thing in each column.",
+   "record": "Say one thing from each column to your grown-up, or write it.",
    "setup": [
     {
      "art": "A girl and an adult at a window with a grille, looking out at a crow on a wire, clothes moving on a line and an auto on the road.",
@@ -750,12 +750,12 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Watch from the window together for 5 minutes. 2. For each moving thing, ask what started it. 3. Your child draws or writes it in a column.",
-     "say": "Look, a crow flew off the wire. Did anything push the crow? Which column is that?",
-     "kid": "Find a moving thing. What started it? Put it in a column.",
+     "do": "1. Watch from the window together for 5 minutes. 2. For each moving thing, ask what started it. 3. Your child says it, and you write it in a column.",
+     "say": "Let us find something that moves. It could be a crow, a leaf or an auto. Did anything push it?",
+     "kid": "Find a moving thing. Which column does it go in?",
      "ask": [
       {
-       "q": "What started the clothes on the line moving?",
+       "q": "If a leaf or a cloth moves in the wind, what started it moving?",
        "good": [
         "The wind pushed them.",
         "The air moved them."
@@ -767,7 +767,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Add things from inside the home: the fan, a ball, an ant, the door, you. 2. Talk about any that are hard to sort.",
+     "do": "1. Add things from inside the home: the fan, a ball, the door, you, and an ant if you can find one. 2. Talk about any that are hard to sort.",
      "say": "Now the fan. Does it move by itself, or is it moved? What happens to the fan in a power cut?",
      "kid": "Now look inside your home: the fan, a ball, an ant, and you. Which column does each one go in?",
      "ask": [
@@ -817,7 +817,7 @@
      "what": "Flick the ruler with a long end sticking out, then with a short end sticking out. Then feel your throat while you hum."
     }
    ],
-   "record": "Draw the ruler on the table. At the end that sticks out, draw one arrow pointing up and one arrow pointing down.",
+   "record": "Show your grown-up with your hand how the free end of the ruler moves. You can also draw it, with one arrow up and one arrow down.",
    "setup": [
     {
      "art": "A ruler lying on a table with half of it sticking out over the edge, and a girl's hand pressing the part on the table down firmly.",
@@ -849,8 +849,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Slide the ruler so only a short part sticks out. 2. Flick again. 3. Compare the long end and the short end.",
-     "say": "Now only a little part sticks out. Flick it. Is it faster or slower? Is the buzz higher or lower?",
-     "kid": "Make the end short. Flick it. Faster or slower?",
+     "say": "Now only a little part sticks out. Flick it again and listen.",
+     "kid": "Is it faster or slower than before? Is the buzz higher or lower?",
      "parent": "A long free end moves back and forth slowly enough to see. A short end moves so fast it blurs, and the buzz sounds higher."
     },
     {
@@ -881,7 +881,7 @@
    "title": "Three Paths: the card game",
    "mins": 10,
    "players": "A child and a grown-up. More children can join and take turns.",
-   "context": "This is a card game. The grown-up reads what each card shows. The player draws its path in the air, then puts the card on the STRAIGHT, ROUND or BACK AND FORTH mat.",
+   "context": "This is a card game. The grown-up reads what each card shows. The player shows its path in the air with a finger, or acts it out, then puts the card on the STRAIGHT, ROUND or BACK AND FORTH mat.",
    "printables": [
     {
      "kind": "cards",
@@ -958,7 +958,7 @@
    "rules": [
     "Cut out the three mats and lay them on the floor.",
     "The grown-up reads the front of one card out loud.",
-    "The player draws the path in the air with a finger, then puts the card on a mat.",
+    "The player shows the path in the air with a finger, or acts it out, then puts the card on a mat.",
     "The grown-up reads the back. If the player is right, the player keeps the card. If the back names two paths, the player must say which part moves in each path.",
     "If the player gives a good reason for a different mat, the player keeps the card too.",
     "A card that is wrong goes back to the bottom of the pile. After 12 cards have been tried, count the cards each player kept. The most cards wins. If you play alone, try to keep more than 8."
@@ -978,15 +978,15 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the three mats and lay them on the floor. 2. Draw each path in the air together.",
-     "say": "Here are three mats. Draw a straight line in the air. Now a circle. Now back and forth.",
+     "say": "Here are three mats, one for each path: straight, round, and back and forth.",
      "kid": "Draw each path in the air. Straight. Round. Back and forth."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Read the cards one by one. 2. Your child draws the path in the air and puts the card on a mat.",
-     "say": "A seat on a giant wheel. Draw its path in the air. Which mat does it go on?",
-     "kid": "Listen. Draw the path in the air. Put the card on a mat.",
+     "do": "1. Read the cards one by one. 2. Your child shows the path in the air, or acts it out, and puts the card on a mat.",
+     "say": "A seat on a giant wheel. Which mat does it go on?",
+     "kid": "Show the path in the air, or act it out. Then put the card on a mat.",
      "ask": [
       {
        "q": "Why does the cycle card fit two mats?",
@@ -1117,14 +1117,14 @@
      "mins": 2,
      "do": "Teach the three hand signs and practise each one.",
      "say": "Hands on your chest means the thing moves by itself. Pushing palms means a push or pull. Rolling fists means a motor.",
-     "kid": "Learn the three signs: hands on your chest, pushing palms, and rolling fists."
+     "kid": "Practise the three signs until you can show each one fast."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "1. Deal the cards. 2. The reader reads a card and the others show a sign. 3. Read the back and give points. 4. Next player reads.",
-     "say": "A kite in the sky at Sankranti. What starts it moving? Show your sign!",
-     "kid": "Listen. What starts it moving? Show your sign fast!",
+     "say": "A kite in the sky at Sankranti. What starts it moving?",
+     "kid": "Listen to the card. Then show your sign as fast as you can.",
      "ask": [
       {
        "q": "Why did you show pushing palms for the kite?",
@@ -1140,8 +1140,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Count the points. Then ask the question below.",
-     "say": "Mustard seedlings lean to the window by themselves. Why do many people not notice that plants move?",
-     "kid": "Count your points. Plants move by themselves. Why do we not notice?",
+     "say": "Count your points. Then I have one question about plants.",
+     "kid": "Count your points.",
      "check": {
       "t": "mcq",
       "q": "A fish swims to the top of the pond for food. What starts the fish moving?",
@@ -1214,12 +1214,12 @@
     {
      "day": 4,
      "mins": 5,
-     "what": "Look at the seedlings from the side. Which way do they lean? Draw them. Then turn the cup halfway round."
+     "what": "Look at the seedlings from the side. Which way do they lean? Draw them, or take a photo. Then turn the cup halfway round."
     },
     {
      "day": 5,
      "mins": 5,
-     "what": "Look again. Which way do they lean now? Draw them."
+     "what": "Look again. Which way do they lean now? Draw them, or take a photo."
     },
     {
      "day": 6,
@@ -1227,7 +1227,7 @@
      "what": "Talk about what happened. Did the seedlings move by themselves?"
     }
    ],
-   "record": "Draw the seedlings on day 4 and day 5, with an arrow pointing to the window.",
+   "record": "Draw the seedlings on day 4 and day 5, with an arrow pointing to the window. Or take a photo each day.",
    "setup": [
     {
      "art": "A small steel cup with wet cotton inside and tiny round mustard seeds sprinkled on top.",
@@ -1255,9 +1255,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. When the shoots are about 2 cm tall, put the cup on the window sill. 2. The next day, look from the side together. 3. Your child draws them.",
-     "say": "Look at the seedlings from the side. Are they standing straight? Which way are they leaning?",
-     "kid": "Look from the side. Which way do the seedlings lean?",
+     "do": "1. When the shoots are about 2 cm tall, put the cup on the window sill. 2. The next day, look from the side together. 3. Your child draws them, or takes a photo.",
+     "say": "Look at the seedlings from the side. Are they standing straight?",
+     "kid": "Look from the side. Draw the seedlings, or take a photo.",
      "ask": [
       {
        "q": "Which way are they leaning?",
@@ -1274,15 +1274,15 @@
      "mins": 5,
      "do": "1. Turn the cup halfway round, so the seedlings now lean away from the window. 2. Ask for a guess.",
      "say": "Now they lean away from the window. What will they do by tomorrow? Why do you think so?",
-     "kid": "Turn the cup round. What will the seedlings do by tomorrow?",
+     "kid": "Turn the cup round. Then make a guess.",
      "wait": "Leave the cup for 1 more day"
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Look from the side again. 2. Compare with yesterday's drawing.",
-     "say": "Which way do they lean now? Who moved them?",
-     "kid": "Look again. Which way do they lean now?",
+     "do": "1. Look from the side again. 2. Compare with yesterday's drawing or photo.",
+     "say": "Compare with yesterday. Which way do they lean now?",
+     "kid": "Look again. Is it the same as yesterday, or different?",
      "ask": [
       {
        "q": "Did the seedlings move by themselves?",
@@ -1369,15 +1369,15 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Your child tries one idea. 2. Then a second idea.",
-     "say": "Try your first idea. Now try another one. Which circle is rounder?",
-     "kid": "Try one way. Now try another way. Which is rounder?",
+     "say": "Try your first idea. Now try another one.",
+     "kid": "Try one way, then another way. Which circle is rounder?",
      "parent": "Holding the middle of a string still is the hardest part. A grown-up can hold the middle while the child pulls the pencil round."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Compare the circles and ask why one worked better.",
-     "say": "Which circle came out rounder? What kept the pencil going round the same middle?",
+     "say": "Look at both circles. What kept the pencil going round the same middle?",
      "kid": "Which circle is rounder? Why?",
      "check": {
       "t": "mcq",

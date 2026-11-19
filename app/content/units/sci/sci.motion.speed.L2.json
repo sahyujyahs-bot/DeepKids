@@ -331,7 +331,7 @@
      "what": "Guess, then walk the same path with tiny steps, giant steps and an ordinary walk, three times each, while a grown-up claps."
     }
    ],
-   "record": "Fill in the results table. Circle the way that took the fewest claps. Draw the two footprint trails: tiny steps and ordinary steps.",
+   "record": "Fill in the results table. Circle the way that took the fewest claps. Then tell your grown-up why the tiny steps did not win.",
    "setup": [
     {
      "art": "A hallway with one chappal at each end, about 4 metres apart, and a girl standing behind the first chappal.",
@@ -354,9 +354,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put one chappal at the start and one about 4 metres away. 2. Draw the results table. 3. Ask your child to guess which way will be fastest, and why.",
+     "do": "1. Put one chappal at the start and one about 4 metres away. 2. Make a results table on paper, with the six headings from the table above. 3. Ask your child to guess which way will be fastest, and why.",
      "say": "You will walk to the far chappal three ways. Tiny quick steps, giant steps, and your ordinary walk. Which way will take the fewest claps? Why do you think so?",
-     "kid": "Which way will be fastest? Tiny steps, giant steps or ordinary walking? Why?",
+     "kid": "Make a guess before you start. Say why you think so.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -398,7 +398,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child what they saw, and why they think it happened.",
      "say": "Which way won? Which way had the busiest feet? Why did the busy feet not win?",
-     "kid": "Which way won? Why did the tiny steps not win?",
+     "kid": "Look at your table. Find the way that took the fewest claps.",
      "ask": [
       {
        "q": "Why did the tiny steps take more claps?",
@@ -472,7 +472,7 @@
      "what": "Guess, then race a slow grown-up with a head start, over a short race and a long race."
     }
    ],
-   "record": "Fill in the table. Draw the path with both start lines, both finish lines and the place where you caught up.",
+   "record": "Fill in the table. Take a photo of the path with the marks, or tell your grown-up where you caught up and why.",
    "setup": [
     {
      "art": "A hallway from above: a child's chappal at the back, a grown-up's chappal 4 big steps ahead, a slipper 2 foot-lengths beyond that, and a cushion 3 big steps further on.",
@@ -493,7 +493,7 @@
      "mins": 4,
      "do": "1. Put your child's chappal at the back of the path. 2. Take 4 big steps forward and put your own chappal there. 3. Put a slipper 2 of your foot-lengths past your chappal. That is the near finish. 4. Put a cushion 3 big steps past your chappal. That is the far finish.",
      "say": "I walk very slowly, one heel-to-toe step for each clap. But I start 4 big steps ahead of you. Who will win the short race to the slipper? Who will win the long race to the cushion? Why?",
-     "kid": "The grown-up is slow but starts ahead. Who wins the short race? Who wins the long one? Why?",
+     "kid": "Look at the two finish lines. Guess who wins at each one.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -527,7 +527,7 @@
      "mins": 3,
      "do": "Look at the table and the catch-up mark. Ask your child what they saw, and why they think it happened.",
      "say": "I won one race and you won the other. Our speeds stayed the same. So what decided who won?",
-     "kid": "You won one race and the grown-up won the other. What decided who won?",
+     "kid": "Look at the catch-up mark. Where are the two finish lines, compared with it?",
      "ask": [
       {
        "q": "Why did you win the long race but not the short one?",
@@ -579,7 +579,7 @@
      "what": "Crawl, hop and tiptoe for 4 claps each, and mark where you freeze."
     }
    ],
-   "record": "Write C for crawl, H for hop or T for tiptoe on each paper slip. Draw the three slips on a line, with the furthest one circled.",
+   "record": "Write C for crawl, H for hop or T for tiptoe on each paper slip. Lay the slips in a row, from nearest to furthest.",
    "setup": [
     {
      "art": "A boy crawling from a chappal on the floor while his mother claps.",
@@ -600,12 +600,12 @@
      "mins": 2,
      "do": "1. Put the chappal at the start. 2. Ask your child which way will go furthest in 4 claps: crawling, hopping or tiptoeing.",
      "say": "You will move for 4 claps, then freeze. Which way will take you furthest? Why do you think so?",
-     "kid": "Crawl, hop or tiptoe for 4 claps. Which goes furthest? Why?"
+     "kid": "Make a guess. Which way will take you furthest?"
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child crawls from the chappal while you clap 4 slow claps. 2. Say 'Freeze!' 3. Put a paper slip by their hands. 4. Do the same for hopping on two feet and for tiptoeing.",
+     "do": "1. Your child crawls from the chappal while you clap 4 slow claps. 2. Say 'Freeze!' 3. Put a paper slip where they stopped, and write C on it. 4. Do the same for hopping on two feet (write H) and for tiptoeing (write T).",
      "say": "Go! One, two, three, four. Freeze! Put your slip down right there.",
      "kid": "Move for 4 claps. Then freeze. Put your slip down.",
      "parent": "Clap at the same steady pace each time, so the time stays the same."
@@ -614,8 +614,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Look at the three slips together.",
-     "say": "Every way had the same 4 claps. Which slip is furthest? That way was the fastest.",
-     "kid": "Which slip is furthest? That way was the fastest.",
+     "say": "Every way had the same 4 claps. Which slip is furthest? So which way was the fastest?",
+     "kid": "Look at the three slips. Find the one furthest from the chappal.",
      "ask": [
       {
        "q": "How do you know which way was fastest?",
@@ -679,8 +679,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Write down the three results and talk about them.",
-     "say": "How close did you get to 10 seconds? Why does a clock help in a race?",
-     "kid": "How close were you? Why does a clock help in a race?",
+     "say": "How close did you get to 10 seconds?",
+     "kid": "Were your 10 claps faster or slower than 10 seconds on the clock?",
      "ask": [
       {
        "q": "Why does it matter that the claps are steady?",
@@ -698,7 +698,7 @@
    "title": "Faster Than Me? A card sort",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you sort cards of living beings and machines into two groups: faster than you running, and slower than you running. Then you turn the cards over to check.",
+   "context": "In this activity you sort cards of living beings and machines into two groups: faster than you running, and slower than you running. Then a grown-up tells you the answers so you can check. You find out how fast everyday things really are, compared with you.",
    "materials": [
     {
      "item": "14 small cards cut from old paper, with one name on each (listed in the steps)",
@@ -716,7 +716,7 @@
      "what": "Sort 14 cards into faster and slower than you, then check the answers."
     }
    ],
-   "record": "Write how many cards you sorted right. Then draw a mosquito, and write one sentence on why she is slower than you.",
+   "record": "Write how many cards you sorted right. Then write one sentence on why a mosquito is slower than you.",
    "setup": [
     {
      "art": "Fourteen small paper cards on a floor mat, with words like snail, crow, cheetah and bamboo.",
@@ -733,22 +733,22 @@
      "mins": 3,
      "do": "Write one name on each of the 14 cards. The names are in the note below.",
      "parent": "The 14 names: a snail, an ant, a tortoise, a mosquito, a bullock cart, a growing bamboo, the hour hand of a clock, a dog running, a crow flying, a cheetah, a cycle on an open road, a train, a raindrop falling and an aeroplane.",
-     "say": "Each card is a living being or a machine. Is each one faster or slower than you when you run?",
+     "say": "Each card names something that moves or grows. Is each one faster or slower than you when you run?",
      "kid": "Is each one faster or slower than you running?"
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Your child puts each card on one of two sheets, marked FASTER THAN ME and SLOWER THAN ME.",
-     "say": "Put each card on one of the two sheets, FASTER THAN ME or SLOWER THAN ME. Tell me why for each one.",
-     "kid": "Put each card on FASTER THAN ME or SLOWER THAN ME. Say why."
+     "say": "Put each card on one of the two sheets, FASTER THAN ME or SLOWER THAN ME. Tell me why for the tricky ones.",
+     "kid": "Put each card on FASTER THAN ME or SLOWER THAN ME. Say why for the tricky ones."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Check together. Slower than a running child: snail, ant, tortoise, mosquito, bullock cart, bamboo, the hour hand. Faster: the dog, crow, cheetah, cycle, train, raindrop and aeroplane.",
      "say": "The mosquito beats her wings hundreds of times each second. Yet you can run away from her. Why?",
-     "kid": "A mosquito's wings are very fast. Why is she slow?",
+     "kid": "Check your sorting. Then think about the mosquito.",
      "ask": [
       {
        "q": "Why is the mosquito slow, even with such fast wings?",
@@ -767,7 +767,7 @@
    "title": "The Slow Race: who can be last without stopping?",
    "mins": 8,
    "days": 1,
-   "context": "In this activity the slowest walker wins. You must keep moving all the time and never stand still. Many Indian schools have a slow cycle race on sports day, where the last cyclist to finish without putting a foot down wins.",
+   "context": "In this activity the slowest walker wins, but you must keep moving and never stand still. You find out how to tell, by counting claps, which walk was slower.",
    "problem": "Speed works both ways. If you take more time to go the same distance, you are slower. In this race the slowest walker wins, but you must keep moving the whole time. You walk the same 2 metres twice, once ordinarily and once very slowly. Then you count the claps for each.",
    "materials": [
     {
@@ -808,17 +808,17 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child walks the 2 metres in their ordinary way, while you count claps. 2. Then they walk the same 2 metres as slowly as they can, and you count claps again. 3. Swap, and you try too.",
-     "say": "First walk the way you always walk. Then walk as slowly as you can, and keep moving. How many claps did each walk take?",
-     "kid": "Move very slowly. Keep moving. Count the claps.",
+     "do": "1. Your child walks the 2 metres in their ordinary way, while you count claps. 2. Then they walk the same 2 metres as slowly as they can, and you count claps again. 3. Swap, and you try too. 4. Whoever takes more claps for the slow walk wins.",
+     "say": "First walk the way you always walk. Then walk as slowly as you can, and keep moving. I will clap and count.",
+     "kid": "Walk slowly. Keep your feet moving. The grown-up counts the claps.",
      "parent": "A slow race shows the same rule from the other side. More claps for the same distance means slower."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Compare the clap counts of the ordinary walk and the slow walk.",
-     "say": "Both walks were the same 2 metres. Which one took more claps? So which one was slower? How did you stay so slow?",
-     "kid": "Which walk took more claps? Which one was slower?",
+     "say": "Both walks were the same 2 metres. Which one took more claps? So which one was slower?",
+     "kid": "Look at the clap counts for your two walks.",
      "ask": [
       {
        "q": "How did you move so slowly?",
@@ -936,14 +936,14 @@
      "mins": 2,
      "do": "Cut out the cards and read the rules together.",
      "say": "Each card is a race. You say who was faster, and why. Was it the same distance, or the same time?",
-     "kid": "Each card is a race. Say who was faster, and why."
+     "kid": "Listen to the card. Then say who was faster, and why."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Play through the pile. After each answer, ask: was the distance the same, or the time?",
      "say": "Was it the same distance or the same time? So who was faster?",
-     "kid": "Same distance or same time? Who was faster?",
+     "kid": "Find what is the same in the race: the distance or the time.",
      "parent": "The reason matters more than the name. Praise answers that say 'same distance, fewer claps' or 'same time, further'."
     },
     {
@@ -951,14 +951,14 @@
      "mins": 2,
      "do": "Count the cards and talk about the hardest one.",
      "say": "Which card was hardest? Why?",
-     "kid": "Which card was hardest? Why?",
+     "kid": "Count your cards. Then pick the hardest one.",
      "check": {
       "t": "mcq",
       "q": "Two children start together and reach the gate together. Who is faster?",
       "options": [
        "Neither, they have the same speed",
-       "Thenmozhi",
-       "Arjun"
+       "The first child",
+       "The second child"
       ],
       "a": 0,
       "why": "They went the same distance in the same time, so they have the same speed."
@@ -1087,24 +1087,24 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw the board, cut out the boats and the cards, and read the rules.",
+     "do": "Print the board, the boats and the cards from the app. No printer? Lay 21 paper slips in a row, numbered 0 to 20. Use 4 coins as boats. Cut out the cards. Read the rules.",
      "say": "This is a boat race in Kerala. Answer right and your boat rows 3 squares. Answer wrong and it rows only 1.",
      "kid": "Answer right and row 3 squares. Answer wrong and row 1."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Play until one boat reaches square 20.",
-     "say": "You landed on 'short splashy strokes'. Why do those make a boat slower?",
-     "kid": "Why do short splashy strokes make the boat slower?",
+     "do": "Play until one boat reaches square 20. Each turn, read a question card to the player, then move their boat.",
+     "say": "Here is your question. Answer it. Right answer, row on 3 squares. Wrong answer, row on 1.",
+     "kid": "Answer the card. Then move your boat.",
      "parent": "When a player lands on square 12 or 14, ask why long pulls help and splashy strokes do not."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Talk about who won and why.",
-     "say": "Who won? Did the winner answer more cards right? So was that boat faster?",
-     "kid": "Who won? Why was that boat faster?"
+     "say": "Who won? Did the winner answer more cards right?",
+     "kid": "Think about why that boat won."
     }
    ]
   }
@@ -1115,7 +1115,7 @@
    "title": "The Sprout Race: whose root grows fastest?",
    "mins": 30,
    "days": 5,
-   "context": "In this project you race three kinds of seeds: moong, chana and methi. Each day you measure their roots. Speed is not only for runners. Growing has a speed too.",
+   "context": "In this project you race three kinds of seeds: moong, chana and methi. Each day you measure their roots, and you find out which root grows fastest. Speed is not only for runners. Growing has a speed too.",
    "materials": [
     {
      "item": "a small handful each of whole moong, whole chana and methi seeds",
@@ -1165,7 +1165,7 @@
      "what": "Measure one last time. Work out how much each root grew from day 4 to day 5."
     }
    ],
-   "record": "A growth table with the longest root of each seed for each day, and a drawing of the three rows on day 5.",
+   "record": "A growth table with the longest root of each seed for each day, and, on day 5, a photo of the three rows or a drawing of them.",
    "setup": [
     {
      "art": "Three small steel katoris with moong, chana and methi soaking in water.",
@@ -1191,17 +1191,17 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Day 2: lay the seeds on the wet cloth in three rows. Ask your child to guess the winner.",
+     "do": "Day 2: lay the seeds on the wet cloth, one kind in each row. Make a table on paper, with one row for each seed and one column for each day. Ask your child to guess the winner.",
      "say": "Which seed's root will grow longest by day 5? Why do you think so?",
-     "kid": "Which root will grow longest? Why?",
+     "kid": "Lay out the seeds, one kind in each row. Then guess which root will win.",
      "parent": "Keep the plate out of strong sun and keep the cloth damp. Moong usually sprouts first. If a seed does not sprout, leave that seed out of the race."
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "Days 3 to 5: measure the longest root in each row with the ruler and write it in the table.",
+     "do": "Days 3 to 5: measure the longest root in each row, from the seed to the tip of the root, with the ruler. Write it in the table.",
      "say": "How long is the moong root today? How much did it grow since yesterday?",
-     "kid": "Measure each root. Write the number in the table.",
+     "kid": "Measure from the seed to the tip of the root. Write the number in the table.",
      "parent": "Each seed's root grows towards the wet cloth and away from the light. The seeds sense the water and the pull of the Earth, and grow their roots where they need to."
     },
     {
@@ -1209,7 +1209,7 @@
      "mins": 5,
      "do": "Day 5: compare the growth from day 4 to day 5 for each seed.",
      "say": "Which root grew the most in one day? That seed's root was growing fastest.",
-     "kid": "Which root grew most in one day? That one was fastest.",
+     "kid": "How much did each root grow from day 4 to day 5?",
      "check": {
       "t": "mcq",
       "q": "In one day, the moong root grew 2 centimetres and the chana root grew 1 centimetre. Which was growing faster?",
@@ -1273,7 +1273,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Tilt the tray on one book. Let the marble roll straight down while you clap.",
-     "say": "Rolling straight down took only about one clap. Can you make it take five?",
+     "say": "First, watch the marble roll straight down. I will clap to count how long it takes. Then you will make it take five claps or more.",
      "kid": "Straight down is fast. Can you make it slow?"
     },
     {
@@ -1289,7 +1289,7 @@
      "mins": 5,
      "do": "Show the best path and talk about why it was slow.",
      "say": "Why did your path take so many claps? Was the marble slower, or did it go further, or both?",
-     "kid": "Why did your path take so long?",
+     "kid": "Show your slowest path. Let the marble go once more.",
      "ask": [
       {
        "q": "Why did the zigzag take more claps?",

@@ -180,18 +180,18 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 place cards and the answer cards. 2. Give each player three answer cards. 3. Put out a sheet of paper for tally marks. 4. Read the rules aloud.  
   *Parent says:* Each card is a place. You guess: lots of microbes, a few, or almost none.  
-  *Child mode:* Each card is a place. Guess: lots of microbes, a few, or almost none?
+  *Child mode:* You each have three answer cards: Lots, A few and Almost none.
 - **s2 (10 min)**  
   *Parent does:* Play all 12 cards. After each card, ask the question below.  
-  *Parent says:* Why do you think this place has so many microbes? Or so few?  
-  *Child mode:* Read your card. Choose your answer card. Turn the place card over.
+  *Parent says:* Turn the place card over. Were you right?  
+  *Child mode:* Listen to the place. Put down the answer card you think is right.
   - Ask: Why did you choose that answer? (good: Because there is food and it is warm.; Because it is very hot there.; Because boiling kills them.)
   - Note: Children are often surprised by the cloud and the hot spring. Microbes live in more places than any other kind of living being.
 - **s3 (2 min)**  
   *Parent does:* Count the tally marks. Ask the last question.  
-  *Parent says:* Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live?  
-  *Child mode:* Count your tally marks. Microbes live in clouds and hot springs. Where can microbes live?
-  - Ask: Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live? (good: Microbes can live in almost every place, even very hot or very high ones.; They live in more places than we can see.)
+  *Parent says:* Count the tally marks. Microbes live in a cloud and in a hot spring.  
+  *Child mode:* Count your tally marks. Who has the most?
+  - Ask: What do the cloud and the hot spring tell us about where microbes can live? (good: Microbes can live in almost every place, even very hot or very high ones.; They live in more places than we can see.)
   - Check: Scientists found living bacteria in clouds high in the sky. What does this show? → **Microbes can float in the air and live high up**
 ### g2 · Helper or Germ? A sorting race (12 min)
 - **rules:** Put the three sorting labels on the floor: Helper, Harmless and Germ.; Mix the 12 microbe cards and deal them out, front side up.; On your turn, read one card aloud and put the card by the label you think is right.; When all 12 cards are down, turn each one over to check. Move any card that is by the wrong label.; Count how many cards are by each label. The goal is for everyone, together, to sort all 12 cards correctly.
@@ -199,8 +199,8 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **Printable cards: 3 sorting labels:** Helper; Harmless; Germ
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 microbe cards and the 3 labels. 2. Put the labels on the floor. 3. Read the rules aloud.  
-  *Parent says:* Each card is a microbe and what that microbe does. Is the microbe a helper, harmless, or a germ?  
-  *Child mode:* Read each card. Is that microbe a helper, harmless, or a germ?
+  *Parent says:* Each card names a microbe and what they do. A helper does something good for us. A harmless microbe does nothing to us. A germ can make us ill.  
+  *Child mode:* Look at the three labels on the floor: Helper, Harmless and Germ. Each microbe card goes by one of them.
 - **s2 (7 min)**  
   *Parent does:* Take turns to place the cards. Then turn them all over and check together.  
   *Parent says:* Read your card aloud. Where does the microbe go? Why?  
@@ -209,7 +209,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **s3 (3 min)**  
   *Parent does:* Count the cards by each label. Ask the question below.  
   *Parent says:* How many helpers did we find? How many germs? What does that tell us about microbes?  
-  *Child mode:* Count the cards by each label. Are most microbes germs?
+  *Child mode:* Count the cards by each label. Which pile is the biggest?
   - Ask: Are most microbes germs? (good: No, most are helpers or harmless.; Only a few are germs.)
   - Check: In the sorting game, most cards were helpers. What does that tell us? → **Most microbes are helpful or harmless**
 
@@ -219,13 +219,13 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **predict:** Guess first. Which slice will grow the most spots: the finger slice, the soil slice, or the slice nobody touched? Which will grow the fewest? Why do you think so?
 - **fair test:** All three slices come from the same potato, are the same thickness, sit in the same kind of box, in the same place, for the same number of days. Only one thing is different: what touched each slice. So if the slices grow different numbers of spots, what touched them made the difference. The slice nobody touched shows what grows from the air alone.
 - **safety:** Keep the boxes closed once the spots grow. Never sniff or open them wide, because mould spores can upset breathing, especially for anyone with asthma. A grown-up cuts the potato and throws away the boxes, tied in a bag. Wash hands with soap after touching the soil and after the test.
-- **record:** Draw the three slices on day 4, with every spot in its colour. Write the number of spots under each slice.
+- **record:** On day 4, take a photo of the three slices, or draw them with every spot in its colour. Write the number of spots next to each slice.
 - **results table:** Slice | Spots on day 2 | Spots on day 3 | Spots on day 4
-- **schedule:** day 1: Cut three slices. Guess which slice will grow the most spots. Touch one slice with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place. Wash hands. (15 min); day 2: Look through the lids. Count any spots on each slice and write the numbers down. (3 min); day 3: Count the spots again. Look for colours and fuzz. (3 min); day 4: Count one last time. Draw the slices. Say what you think, what you saw and why. A grown-up throws the closed boxes away in a tied bag. (7 min)
+- **schedule:** day 1: Cut three slices. Guess which slice will grow the most spots. Touch one slice with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place. Wash hands. (15 min); day 2: Look through the lids. Count any spots on each slice and write the numbers down. (3 min); day 3: Count the spots again. Look for colours and fuzz. (3 min); day 4: Count one last time. Take a photo of the slices, or draw them. Say what you think, what you saw and why. A grown-up throws the closed boxes away in a tied bag. (7 min)
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Take the potato that was boiled with its skin on and cooled until you can hold it. Show it to your child.  
   *Parent says:* Look at this boiled potato. Boiling killed almost every microbe inside the potato. Can you see anything living on it?  
-  *Child mode:* Look at the boiled potato. Can you see anything living on it?
+  *Child mode:* Look closely at the boiled potato.
   - Ask: Do you see anything living on the potato? (good: No, it looks clean.; Nothing, just potato.)
   - Note: Boiling takes about 20 minutes, so boil the potato earlier, or use one left from a meal. Keep it aside before anyone touches it. Boiling kills almost all microbes, so the slices start nearly empty of life.
 - **s2 (3 min) · grown-up needed**  
@@ -236,7 +236,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **s3 (4 min)**  
   *Parent does:* Tell your child the plan. Ask for a guess and a reason for each slice. Write the guesses on a paper.  
   *Parent says:* You will touch one slice with your fingers. You will sprinkle soil on another. Nobody touches the third. Which one will grow the most spots? Why do you think so?  
-  *Child mode:* Your fingers touch one slice. Soil goes on one slice. Nobody touches the third. Which grows the most spots? Why?
+  *Child mode:* Your fingers touch one slice. Soil goes on one slice. Nobody touches the third. Think of your guess.
   - Ask: Which slice will grow the most spots, and why? (good: The soil one, because soil is dirty.; The finger one, because I played outside.; None of them, because my hands are clean.)
   - Note: Every guess is fine, as long as your child gives a reason. Don't say what you expect.
 - **s4 (4 min)**  
@@ -258,9 +258,9 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
   - Note: If you used katoris, lift the plate only a little, look quickly, and put it back. Count shiny dots and fuzzy patches as spots.
   - Wait: Look again tomorrow, and the day after.
 - **s7 (5 min)**  
-  *Parent does:* 1. On day 4, count the spots one last time. 2. Look closely with a magnifying glass or the phone zoom, through the lid. 3. Draw all three slices. 4. Ask your child to say what they think, what they saw and why.  
+  *Parent does:* 1. On day 4, count the spots one last time. 2. Look closely with a magnifying glass or the phone zoom, through the lid. 3. Take a photo of all three slices, or draw them. 4. Ask your child to say what they think, what they saw and why.  
   *Parent says:* So, did your fingers and the soil carry microbes? Tell me what you think, what you saw, and why.  
-  *Child mode:* Did your fingers carry microbes? Say what you think. Say what you saw. Say why.
+  *Child mode:* Count the spots one last time. Then tell your grown-up what you saw, and why you think it happened.
   - Ask: Why did the finger slice and the soil slice grow spots? (good: Because microbes were on my fingers and in the soil, and they multiplied on the potato.; Because each spot grew from a few microbes we could not see.)
   - Ask: Why did the slice nobody touched grow the fewest spots? (good: Because nothing touched it, so only a few microbes from the air got in.; Because it was closed straight away.)
   - Note: Usually the soil slice grows the most spots, in many colours, often with grey or green fuzz. The finger slice grows spots near where the fingers pressed. The Nobody slice grows the fewest: maybe none, maybe one or two from the air. A spot on the Nobody slice is not a failure. It shows that microbes float in the air too.
@@ -275,7 +275,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **predict:** Guess first. Which katoris will turn into curd by morning: the spoon one, the drop one, the one with nothing, or more than one? Why do you think so?
 - **fair test:** All three katoris get the same milk, the same amount, at the same warmth, in the same place, for the same time. Only the amount of curd is different. So any difference in the morning comes from how much curd went in.
 - **safety:** A grown-up boils the milk and checks that the milk is warm, not hot, before a child touches the katoris.
-- **record:** Draw the three katoris from the side in the morning. Show the curd as thick, a bit thick or runny.
+- **record:** In the morning, take a photo of the three katoris tipped a little, or draw them. Write thick, a bit thick or runny next to each one.
 - **results table:** Katori | In the evening | Next morning: thick, a bit thick, or runny?
 - **schedule:** day 1: In the evening, pour warm milk into three katoris. Add a spoon of curd to one, a drop to one and nothing to one. Guess which ones will turn into curd. Cover and leave in a warm place. (12 min); day 2: In the morning, tip each katori a little. Which ones set? Say what you think, what you saw and why. (8 min)
 - **s1 (4 min) · grown-up needed**  
@@ -309,109 +309,109 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why. Then let them taste a little of the Spoon curd, if it is fresh.  
   *Parent says:* So, was one drop enough? Tell me what you think, what you saw, and why.  
-  *Child mode:* Was one drop enough? Say what you think. Say what you saw. Say why.
+  *Child mode:* Look at the three katoris again. Tell your grown-up what you saw, and why you think it happened.
   - Ask: How could one drop set a whole katori? (good: Because the few bacteria in the drop multiplied all night.; Because they split into two again and again until there were millions.)
   - Note: A strong answer uses the evidence: the drop katori set, the nothing katori did not, so the curd bacteria in the drop must have multiplied. Do not let anyone taste the Nothing katori.
   - Check: Suppose the Drop katori set into curd, but the Nothing katori stayed runny. Why? → **The drop had a few curd bacteria, and they multiplied all night**
 
 ## Activities
 ### a1 · Smell the Soil: a smell made by bacteria (10 min)
-- **record:** Draw the flower pot. Draw the smell rising from the wet soil, and draw a few tiny bacteria in the soil.
+- **record:** Tell your grown-up one word for the smell of the dry soil and one word for the wet soil. Then say who made the wet-soil smell.
 - **s1 (2 min)**  
   *Parent does:* 1. Choose a pot whose top soil is dry. 2. Ask your child to bend close and smell the dry soil.  
   *Parent says:* Smell the dry soil. Does it have much of a smell?  
-  *Child mode:* Bend close to the dry soil. Smell it. Does it have much of a smell?
+  *Child mode:* Bend close to the dry soil and smell it.
   - Ask: What does the dry soil smell like? (good: Not much.; A little dusty.)
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason before adding water.  
   *Parent says:* We will sprinkle water on the soil. Will the smell change? Why do you think so?  
-  *Child mode:* Water goes on the soil next. Will the smell change? Why?
+  *Child mode:* Water goes on the soil next. Make a guess, and say why.
   - Ask: Will the smell change? (good: Yes, it will smell like rain.; No, water has no smell.)
 - **s3 (3 min)**  
   *Parent does:* 1. Sprinkle a little water over the soil, like the first drops of rain. 2. Wait ten seconds. 3. Smell again.  
   *Parent says:* Sprinkle the water gently, like the first rain. Now smell again. What changed?  
-  *Child mode:* Sprinkle the water like rain. Wait a moment. Smell again. What changed?
+  *Child mode:* Sprinkle the water like rain. Wait a moment. Smell again.
   - Ask: What does the wet soil smell like? (good: Like the first rain.; Earthy, like a garden.)
   - Note: The earthy smell comes mostly from a substance called geosmin. Soil bacteria make geosmin. Rain and sprinkled water lift tiny amounts into the air. Human noses can smell geosmin even when there is very, very little. If the soil has very little smell, try a dry clay diya or matka, which often smells earthy when wet.
 - **s4 (3 min)**  
   *Parent does:* Tell your child who makes the smell. Then wash hands.  
-  *Parent says:* Tiny bacteria in the soil make much of that smell. In 1964, Isabel Joy Bear, a scientist in Australia, and her colleague Richard Thomas named the rain smell petrichor. In Kannauj, perfume makers make a scent called mitti attar from baked earth.  
-  *Child mode:* Bacteria in the soil make much of that smell. You smelled something made by microbes. Wash your hands now.
+  *Parent says:* Tiny bacteria in the soil make much of that smell. The smell of the first rain has a name: petrichor.  
+  *Child mode:* You smelled something made by microbes. Wash your hands now.
   - Ask: Who made the earthy smell? (good: Tiny bacteria in the soil.; Microbes.)
   - Check: Much of the earthy smell of wet soil is made by whom? → **Bacteria living in the soil**
 ### a2 · Microbe Map of Our Flat (12 min)
-- **record:** The map itself, with a dot at every place, and the total number of dots written at the bottom.
+- **record:** A photo of your stickers around the home, and the number of stickers you counted written on the paper.
 - **s1 (3 min)**  
-  *Parent does:* Help your child draw a simple map of the home: one box for each room, the balcony and the kitchen.  
-  *Parent says:* Let's draw our home from above, like a bird flying over the roof. One box for each room.  
-  *Child mode:* Draw your home from above. Draw a box for each room.
-  - Note: It does not have to be neat. Boxes and labels are enough.
+  *Parent does:* Give your child the pile of stickers. Ask how many places in your home they think have microbes.  
+  *Parent says:* We will walk round our home and find every place where microbes live. How many places do you think there are?  
+  *Child mode:* You will put a sticker on every place where microbes live. Guess how many stickers you will use.
+  - Note: Any number is a good guess. Write it on the paper so you can check it later.
 - **s2 (6 min)**  
-  *Parent does:* 1. Walk from room to room together. 2. At each place, ask: do microbes live here? 3. Put a dot on the map for each yes.  
-  *Parent says:* Do microbes live on the door handle? In the flower pot? In the curd? On the pillow? Put a dot for each place.  
-  *Child mode:* Walk round your home. Put a dot where microbes live.
+  *Parent does:* 1. Walk from room to room together. 2. At each place, ask: do microbes live here? 3. Put a sticker on or beside each place where the answer is yes.  
+  *Parent says:* Do microbes live on the door handle? In the flower pot? In the curd? On the pillow? Put a sticker on each place.  
+  *Child mode:* Walk round your home. Put a sticker on each place where microbes live.
   - Ask: Can you find a place in our home with no microbes at all? (good: The inside of a sealed new tin of food.; Water that has just boiled.; I could not find one.)
   - Note: Good places to check: door handles, the tap, the sponge, the flower pots, the curd, the idli or dosa batter, the dustbin, the pillow, the toothbrush, the pet's bowl, and your own hands and mouth. Almost no place is free of microbes. A sealed tin of food and water that has just boiled have almost none alive.
 - **s3 (3 min)**  
-  *Parent does:* Count the dots together and write the number at the bottom of the map.  
-  *Parent says:* How many dots did you put? What do all those dots tell you about where microbes live?  
-  *Child mode:* Count your dots. Write the number at the bottom. What do the dots tell you?
+  *Parent does:* Count the stickers together and write the number on the paper.  
+  *Parent says:* How many stickers did we use? Is that more or fewer than your guess?  
+  *Child mode:* Count your stickers and write the number. Was your guess too high or too low?
   - Ask: What do all the dots on your map tell you about where microbes live? (good: Microbes live almost everywhere in our home.; Even places that look clean have microbes.)
 ### a3 · How Small? Microbes in a full stop (10 min)
-- **record:** Draw your dot and a mustard seed, and write: about 300 bacteria across my dot, about 1000 across the seed.
+- **record:** Keep your dot and the mustard seed on the paper. Write or say: about 300 bacteria across my dot, about 1000 across the seed.
 - **s1 (3 min)**  
-  *Parent does:* Ask your child to draw the smallest dot they can with a sharp pencil. Put one mustard seed next to the dot.  
-  *Parent says:* Draw the tiniest dot you can. Now put a mustard seed next to the dot. Which is smaller?  
-  *Child mode:* Draw the tiniest dot you can. Put a mustard seed next to the dot. Which is smaller?
+  *Parent does:* Ask your child to press a sharp pencil on the paper to make the smallest dot they can. Put one mustard seed next to the dot.  
+  *Parent says:* Make the tiniest dot you can with the pencil. Now put a mustard seed next to the dot.  
+  *Child mode:* Make the tiniest dot you can. Put a mustard seed next to your dot.
   - Ask: Which is smaller, the dot or the seed? (good: The dot.; The seed is a bit bigger.)
 - **s2 (4 min)**  
   *Parent does:* Look at both through a magnifying glass or the phone zoom. Then tell your child the numbers.  
   *Parent says:* A microbe is far smaller than your dot. About a thousand bacteria in a line would just reach across this mustard seed. A few hundred would fit across your dot.  
-  *Child mode:* A microbe is much smaller than your dot. A few hundred bacteria fit across your dot.
+  *Child mode:* Look at your dot and the seed through the magnifying glass or phone zoom. A few hundred bacteria fit in a line across your dot.
   - Note: A typical bacterium is about one thousandth of a millimetre long. A mustard seed is about one millimetre across, and a fine pencil dot is about a third of a millimetre. These numbers are rough, because bacteria come in different sizes.
 - **s3 (3 min)**  
   *Parent does:* Ask the question below and let your child think.  
   *Parent says:* If microbes are that small, how could we ever know they are there?  
-  *Child mode:* Microbes are too small to see. How could we know they are there?
+  *Child mode:* Microbes are too small to see. Think of a way to show they are there.
   - Ask: How could we know microbes are there? (good: Use a microscope.; Let them grow into a spot we can see, like on the potato.; See what they do, like making curd.)
 ### a4 · The Rising Batter (if your family makes idli or dosa batter) (10 min, 2 days)
-- **record:** Draw the vessel at night and in the morning, with the batter level and the rubber band marked.
+- **record:** Take a photo of the vessel at night and again in the morning, with the rubber band showing. Count how many finger-widths the batter rose above the band.
 - **schedule:** day 1: At night, mark the level of the fresh batter. Smell it. Guess what will happen. (4 min); day 2: In the morning, look at the level, the bubbles and the smell. (6 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Put a rubber band round the outside of the vessel, at the top of the batter. 2. Let your child smell the batter. 3. Ask for a guess.  
   *Parent says:* The rubber band shows where the batter is now. Smell it. What will the batter look like in the morning? Why do you think so?  
-  *Child mode:* The band shows where the batter is. Smell it. What will happen by morning? Why?
+  *Child mode:* The band shows where the batter is. Smell the batter. Then guess what it will do by morning.
   - Ask: What will happen by morning? (good: It will go up.; It will stay the same.; It will smell sour.)
   - Note: Leave enough space in the vessel, because the batter can nearly double in a warm kitchen.
   - Wait: Leave the batter overnight in its usual warm place.
 - **s2 (6 min)**  
-  *Parent does:* 1. In the morning, look at the batter level against the rubber band. 2. Look for bubbles on top and on the sides. 3. Smell it again.  
+  *Parent does:* 1. In the morning, look at the batter level against the rubber band. 2. Count how many finger-widths the batter rose above the band. 3. Look for bubbles on top and on the sides. 4. Smell it again.  
   *Parent says:* Where is the batter now? Can you see bubbles? How does it smell?  
-  *Child mode:* Where is the batter now? Look for bubbles. Smell it again.
+  *Child mode:* Count how many fingers high the batter rose. Look for bubbles. Smell it again.
   - Ask: Why did the batter rise? (good: Microbes made gas bubbles in the batter.; Tiny living beings were working all night.)
   - Note: Bacteria and yeasts in the batter eat some of the starch and sugar. They make gas, which lifts the batter, and acid, which makes the batter sour. Most of these microbes came in on the urad dal and rice. In cold weather the batter rises less.
 
 ## Projects
 ### p1 · The Curd Chain: one starter for a whole week (35 min, 7 days)
 - **safety:** A grown-up warms the milk and checks that the milk is warm, not hot, before the child adds the starter.
-- **record:** A paper chain chart: one ring for each katori, with a word for the curd (thick, soft or runny) and a taste face.
-- **schedule:** day 1: Set the first katori with a spoon of curd. Draw the first ring of the chain on the chart. (5 min); day 2: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. (5 min); day 3: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 4: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 5: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 6: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 7: Eat the last curd. Count the rings on the chart. Talk about where the bacteria in today's curd came from. (5 min)
+- **record:** A paper chain: one link for each katori, with one word on each link for the curd (thick, soft or runny).
+- **schedule:** day 1: Set the first katori with a spoon of curd. Make the first link of the paper chain. (5 min); day 2: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain. (5 min); day 3: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain. (5 min); day 4: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain. (5 min); day 5: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain. (5 min); day 6: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a link to the paper chain. (5 min); day 7: Eat the last curd. Count the links in the chain. Talk about where the bacteria in today's curd came from. (5 min)
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Warm the milk until it feels like a bath. 2. Pour half a cup into the katori. 3. Your child stirs in one spoon of curd. 4. Cover and leave in a warm place overnight. 5. Draw the first ring on the chart.  
+  *Parent does:* 1. Warm the milk until it feels like a bath. 2. Pour half a cup into the katori. 3. Your child stirs in one spoon of curd. 4. Cover and leave in a warm place overnight. 5. Tape a strip of paper into a ring. This is link one of the chain.  
   *Parent says:* This spoon of curd starts our chain. Tomorrow we will use a spoon of this new curd to make the next one.  
-  *Child mode:* Stir in the spoon of curd. Cover the katori. Draw the first ring on your chart.
+  *Child mode:* Stir in the spoon of curd. Cover the katori. Tape a paper strip into a ring. This is the first link of your chain.
   - Note: Warm milk is enough: if you can keep a clean finger in it for ten seconds, it is right. In cold weather, wrap the katori in a towel.
   - Wait: Leave overnight. Check tomorrow.
 - **s2 (5 min)**  
-  *Parent does:* Each day: 1. Check the curd and write one word on the chart. 2. Eat most of it with a meal. 3. Save one spoon. 4. Use that spoon to set the next katori.  
+  *Parent does:* Each day: 1. Check the curd and write one word on its link. 2. Eat most of it with a meal. 3. Save one spoon. 4. Use that spoon to set the next katori. 5. Loop a new paper link through the chain for the new katori.  
   *Parent says:* Is today's curd thick? Save one spoon. That spoon carries the bacteria into tomorrow's curd.  
-  *Child mode:* Is the curd thick? Write it on the chart. Save one spoon for tomorrow.
+  *Child mode:* Look at the curd and write one word on its link. Save one spoon for tomorrow's katori. Add a new link.
   - Ask: Where did the bacteria in today's curd come from? (good: From yesterday's spoon.; From the very first spoon, again and again.)
   - Note: Put the saved spoon of curd in a clean cup, then rinse the katori with hot water and set the next katori. If one day's curd is runny or smells bad, start again with fresh curd from the shop.
 - **s3 (5 min)**  
-  *Parent does:* On day 7, eat the last curd and count the rings. Ask the questions below.  
-  *Parent says:* Our chain has six rings. The bacteria in today's curd came from the very first spoon, passed from katori to katori. How many times did a spoon from one katori go into the next?  
-  *Child mode:* Count the rings. How many times did a spoon move bacteria into the next katori?
+  *Parent does:* On day 7, eat the last curd, write a word on the last link, and count the links. Ask the question below.  
+  *Parent says:* Count the links in our chain. The bacteria in today's curd came from the very first spoon, passed from katori to katori.  
+  *Child mode:* Count the links in your chain. Each link is one katori.
   - Ask: How many times did a spoon from one katori go into the next? (good: Five times.; Every night from day 2 to day 6.)
   - Note: Six katoris were set, one each night for six nights. The first spoon came from outside, so a saved spoon went into the next katori five times. Many families in India keep a curd going for years, sharing a spoon of starter with neighbours.
 
@@ -425,7 +425,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **s1 (4 min)**  
   *Parent does:* Read the problem to your child. Ask for ideas before showing any.  
   *Parent says:* Spots grow fast on a boiled potato. How could we keep a slice clean for the longest time?  
-  *Child mode:* Spots grow fast on a potato slice. How can you keep a slice clean?
+  *Child mode:* Think of ways to stop spots growing on a potato slice. Any idea is fine.
   - Ask: What ideas do you have? (good: Put the slice in the fridge.; Put salt on the slice.; Close the box quickly.)
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Read out the usual and creative ideas. 2. Your child picks one. 3. The grown-up cuts two slices. 4. Set up one slice with the idea and one plain slice, each in a closed box.  
@@ -435,7 +435,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **s3 (6 min)**  
   *Parent does:* For four days, count the spots on both slices through the lid. On day 4, compare. A grown-up throws the closed boxes away.  
   *Parent says:* Which slice has fewer spots? Did your idea work? Why do you think so?  
-  *Child mode:* Count the spots on both slices. Did your idea work? Why?
+  *Child mode:* Count the spots on both slices every day for four days. Which slice has fewer?
   - Ask: Did your idea keep the slice cleaner? (good: Yes, the fridge slice had no spots.; No, both slices grew spots.)
   - Note: Cold, salt and dryness usually slow spots the most. An idea that does not work is still a good result, because now you know.
   - Wait: Count the spots each day for four days.

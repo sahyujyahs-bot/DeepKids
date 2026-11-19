@@ -309,7 +309,7 @@
    "title": "The Coin Test: can you guess the toss?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you try to guess ten coin tosses, one at a time. Then you and a grown-up each toss a coin 20 times and count the heads. You find out what you can and cannot guess.",
+   "context": "In this experiment you try to guess ten coin tosses, one at a time. Then you and a grown-up each toss a coin 20 times and count the heads. You will find out why one toss is hard to guess, but the heads in 20 tosses are easy to guess.",
    "question": "Can we guess how one coin toss will land? Can we guess how many heads will come in 20 tosses?",
    "predict": "Before you start: how many of your ten guesses will be right? And in 20 tosses, how many heads will come? Why do you think so?",
    "fair_test": "Everyone uses the same kind of coin and tosses it the same way: shake it in a covered tumbler and tip it onto the bed. Nobody looks inside or chooses how it lands. We toss 20 times each, because a few tosses can give an odd result by chance. Two people toss, so we can see if the counts come out close.",
@@ -399,16 +399,16 @@
      "mins": 2,
      "do": "1. Show your child a coin. 2. Agree that the side with the lions is heads and the number side is tails. 3. Show how to toss. Drop the coin in the tumbler and cover it with a hand. Shake three times and tip it onto the bed.",
      "say": "This side, with the lions, is heads. This side, with the number, is tails. Watch how we toss. Shake, shake, shake, and tip.",
-     "kid": "The lions side is heads. The number side is tails. Shake the tumbler three times. Tip it onto the bed.",
+     "kid": "Watch how your grown-up tosses. Then try one toss yourself.",
      "parent": "Tipping onto a bed or towel stops the coin rolling away under the furniture. A shaken coin cannot be steered, so the toss is fair.",
      "context": "This is the first step of the coin test. You learn how to toss fairly."
     },
     {
      "id": "s2",
      "mins": 2,
-     "do": "1. Ask the two questions below. 2. Write down your child's guesses and reasons at the top of the paper.",
+     "do": "1. Ask how many of ten guesses will be right, and how many heads will come in 20 tosses. 2. Write down your child's guesses and reasons at the top of the paper.",
      "say": "Before each toss, you will say heads or tails. Out of ten guesses, how many will you get right? And if we toss 20 times, how many heads will come? Why do you think so?",
-     "kid": "How many of your ten guesses will you get right? In 20 tosses, how many heads will come? Why?",
+     "kid": "Think about it. Then tell your grown-up your guesses and why.",
      "ask": [
       {
        "q": "How many of your ten guesses will be right? Why?",
@@ -453,8 +453,8 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Count the heads and tails on each sheet. 2. Fill in the results table. 3. Ask the questions below. 4. Then read the cards on why nobody can know one toss, and why many tosses give close to half.",
-     "say": "How many heads did you get? How many did I get? Were they close to 10? Could you guess each toss? Why was the total easier to guess than one toss?",
-     "kid": "Count your heads. Count mine. Are they close to 10? Why?",
+     "say": "How many heads did you get? How many did I get? Were they close to 10? Could you guess each toss?",
+     "kid": "Count your heads. Count your grown-up's heads. Are they close to 10?",
      "ask": [
       {
        "q": "Why could we guess the total better than one toss?",
@@ -486,7 +486,7 @@
    "title": "The Six Test: is a six half and half?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you roll a die 30 times. You keep a tally of how many times you roll a six, and how many times you roll something else.",
+   "context": "In this experiment you roll a die 30 times. You keep a tally of sixes and of other numbers. You will find out whether a six comes as often as all the other numbers together.",
    "question": "When we roll a die, does a six come up as often as all the other numbers together?",
    "predict": "In 30 rolls, which will come up more: a six, or not a six? Or will they be the same? Why do you think so?",
    "fair_test": "We use one die and roll it the same way each time, onto the same bed or tray. We roll 30 times, because a few rolls can give an odd result by chance. Nobody blows on the die or chooses how it lands.",
@@ -516,7 +516,7 @@
      "what": "Roll a die 30 times and tally sixes and not-sixes."
     }
    ],
-   "record": "Draw two rows, 'six' and 'not six'. Make a tally line for every roll. Write the two totals. Draw a bar for each total.",
+   "record": "Draw two rows, 'six' and 'not six'. Make a tally line for every roll. Write the two totals.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results",
@@ -557,7 +557,7 @@
      "mins": 3,
      "do": "1. Give your child the die. 2. Ask them to count the faces and the numbers on them. 3. Ask the question below.",
      "say": "How many faces does this die have? How many of them show a six? If we roll 30 times, will we get more sixes, or more not-sixes, or the same? Why do you think so?",
-     "kid": "Count the faces of the die. How many show a six? In 30 rolls, which will come up more: a six, or not a six? Why?",
+     "kid": "Look at the die. Count its faces. How many faces show a six?",
      "ask": [
       {
        "q": "Which will come up more in 30 rolls: six, or not six? Why?",
@@ -592,9 +592,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Count each row. 2. Draw a bar for each total. 3. Ask the questions below. 4. Then read the card on likely, unlikely, certain and impossible.",
-     "say": "How many sixes did you get? How many not-sixes? Which is likely, and which is unlikely? Why do you think there were so many more not-sixes?",
-     "kid": "Count each row. Which is likely? Which is unlikely? Why?",
+     "do": "1. Count each row. 2. Write the two totals. 3. Ask the questions below. 4. Then read the card on likely, unlikely, certain and impossible.",
+     "say": "How many sixes did you get? How many not-sixes? Which is likely, and which is unlikely?",
+     "kid": "Count each row. Which row is longer?",
      "ask": [
       {
        "q": "Why were there so many more not-sixes?",
@@ -627,7 +627,7 @@
    "title": "Sure or Not Sure? A spoon and a coin",
    "mins": 6,
    "days": 1,
-   "context": "In this activity you drop a spoon and toss a coin. You say what you are sure will happen and what you are not sure about. Do it before the coin test.",
+   "context": "In this activity you drop a spoon and toss a coin. You will find out the difference between what you are sure of and what nobody can know. Do it before the coin test.",
    "materials": [
     {
      "item": "a coin",
@@ -662,15 +662,15 @@
      "mins": 2,
      "do": "1. Hold a spoon above the bed. 2. Ask your child where it will go when you let go. 3. Let go.",
      "say": "If I let go of this spoon, what will happen? Are you sure? Let's see.",
-     "kid": "Will the spoon fall if I let go? Are you sure?",
+     "kid": "Watch the spoon. Tell what you think will happen.",
      "parent": "Your child is sure the spoon will fall, and is right. Do not explain anything yet."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "1. Show your child a coin. 2. Ask whether it will land lions up. 3. Toss it onto the bed.",
-     "say": "Now look at this coin. Will it land with the lions up? Are you as sure as you were about the spoon?",
-     "kid": "Will the coin land lions up? Are you sure?",
+     "say": "Now look at this coin. Will it land with the lions side up? Are you as sure as you were about the spoon?",
+     "kid": "Look at the coin. Tell what you think will happen.",
      "ask": [
       {
        "q": "Why were you sure about the spoon, but not the coin?",
@@ -687,7 +687,7 @@
      "mins": 2,
      "do": "1. Ask your child to name one more thing at home they are sure about. 2. Then one thing they are not sure about.",
      "say": "Tell me one thing in our home that you are sure will happen today. Now tell me one thing you are not sure about.",
-     "kid": "Say one thing you are sure of. Say one thing you are not sure of.",
+     "kid": "Look around the room. Pick one thing you are sure about and one you are not.",
      "ask": [
       {
        "q": "What are you not sure about today?",
@@ -707,7 +707,7 @@
    "title": "The Slips Game: what is likely to come out?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you fold ten paper slips. Eight have a star and two are blank. You pick one without looking, ten times, and see which kind comes out more.",
+   "context": "In this activity you fold ten paper slips. Eight have a star and two are blank. You pick one without looking, ten times, and see which kind comes out more. Then you change the slips to make the game fair.",
    "materials": [
     {
      "item": "a sheet of paper cut into ten slips the same size",
@@ -749,8 +749,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut ten slips the same size. 2. Your child draws a star on eight of them. 3. Leave two blank. 4. Fold them all the same way and put them in the tumbler.",
-     "say": "Draw a star on eight slips. Leave two blank. Fold them all the same, so you cannot tell them apart.",
-     "kid": "Draw stars on eight slips. Leave two blank. Fold them all.",
+     "say": "We need ten slips. Eight get a star and two stay blank. Fold them all the same, so you cannot tell them apart.",
+     "kid": "Draw a star on eight slips. A dot or a tick is fine too. Leave two blank.",
      "parent": "Folding them the same way stops anyone from feeling which is which."
     },
     {
@@ -758,7 +758,7 @@
      "mins": 2,
      "do": "1. Ask the question below.",
      "say": "If you pick one slip without looking, will it more likely be a star or a blank? Why do you think so?",
-     "kid": "Which are you more likely to pick: a star or a blank? Why?",
+     "kid": "Think about the ten slips. Then say your guess.",
      "ask": [
       {
        "q": "Which is more likely: a star or a blank? Why?",
@@ -780,9 +780,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Count the tally. 2. Ask the question below. 3. Take out three star slips and add three blank slips. 4. Pick ten more times.",
+     "do": "1. Count the tally. 2. Ask the question below. 3. Take out three star slips and add three blank slips. 4. Pick ten more times and tally again.",
      "say": "You win on a star. I win on a blank. Is that fair? How can we make it fair? Let's try with five of each.",
-     "kid": "Is this game fair? How could we make it fair?",
+     "kid": "Think about who is more likely to win. Then try the new slips.",
      "ask": [
       {
        "q": "How can we make the game fair?",
@@ -812,7 +812,7 @@
    "title": "Toss Ten Coins at Once",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you shake ten coins together and tip them out. You count the heads. You do it five times and see what number comes up most.",
+   "context": "In this activity you shake ten coins together and tip them out. You count the heads. You do it five times. You will find out if the number of heads is the same every time.",
    "materials": [
     {
      "item": "ten coins of any value",
@@ -851,7 +851,7 @@
      "mins": 2,
      "do": "1. Put ten coins in a small tin or box (a dabba). 2. Ask the question below.",
      "say": "When we tip out ten coins, how many will land heads? Will it be the same every time? Why do you think so?",
-     "kid": "How many of ten coins will land heads? Why?",
+     "kid": "Look at the ten coins. Make a guess.",
      "ask": [
       {
        "q": "How many will land heads?",
@@ -866,7 +866,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Your child shakes the coins and tips them out. 2. Your child counts the heads. 3. You write the number. 4. Do it five times.",
-     "say": "Shake and tip. Push the heads to one side. How many? Let's do it five times.",
+     "say": "Shake and tip. Push the coins with the lions side up to one side. How many? Let's do it five times.",
      "kid": "Shake and tip. Count the heads. Do it five times.",
      "parent": "Expect numbers like 4, 5 and 6 most often, and sometimes 3 or 7. Ten heads at once is very rare."
     },
@@ -875,7 +875,7 @@
      "mins": 1,
      "do": "1. Look at the five numbers. 2. Ask the question below.",
      "say": "Look at our numbers. Were they all the same? Which numbers were they close to?",
-     "kid": "Were the numbers the same each time? What were they close to?",
+     "kid": "Look at your five numbers. Are they all the same?",
      "ask": [
       {
        "q": "What were the numbers close to?",
@@ -895,7 +895,7 @@
    "title": "Certain, Likely, Unlikely, Impossible: a card game",
    "mins": 15,
    "players": "2 to 4 players, or 1 player sorting alone",
-   "context": "This is a card game about chance. Each card says something that might happen. You decide whether it is certain, likely, unlikely or impossible.",
+   "context": "This is a card game about chance. Each card says something that might happen. You decide whether it is certain, likely, unlikely or impossible. You will find out which things you can be sure of, and which you cannot.",
    "printables": [
     {
      "kind": "cards",
@@ -1002,7 +1002,7 @@
      "mins": 2,
      "do": "1. Cut out the cards together. 2. Read the rules out loud. 3. Put the four sign cards in a row, from impossible to certain.",
      "say": "Each card is something that might happen. Is it certain, likely, unlikely or impossible? Put down your sign, and we turn them over together.",
-     "kid": "Read the card. Is it certain, likely, unlikely or impossible? Put down a sign."
+     "kid": "Look at the four signs. Which one means it will happen for sure?"
     },
     {
      "id": "s2",
@@ -1036,7 +1036,7 @@
      "mins": 2,
      "do": "1. Count the points. 2. Ask the question below.",
      "say": "Which card was the hardest to decide? Why?",
-     "kid": "Which card was the hardest? Why?",
+     "kid": "Find the card you found hardest. Read it again.",
      "ask": [
       {
        "q": "Why is a coin standing on its edge unlikely, and not impossible?",
@@ -1105,8 +1105,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Draw the two tracks, or use the printed board. 2. Use buttons or coins as counters. 3. Let your child choose to be Player A or Player B.",
-     "say": "Player A moves on a six. Player B moves on any other number. Which player do you want to be? Why?",
-     "kid": "Pick Player A or Player B. Why that one?",
+     "say": "In this race, Player A moves on a six. Player B moves on any other number. Which one do you want to be?",
+     "kid": "Pick A or B.",
      "ask": [
       {
        "q": "Which player do you think will win? Why?",
@@ -1123,7 +1123,7 @@
      "mins": 7,
      "do": "1. Take turns rolling. 2. Move the right counter after each roll. 3. Play until one counter reaches Finish.",
      "say": "Roll. Is it a six? Then A moves. Any other number? Then B moves.",
-     "kid": "Roll the die. On a six, A moves. On any other number, B moves.",
+     "kid": "Roll the die. Watch whose counter moves.",
      "parent": "B almost always wins, often by a long way. A six comes only about once in six rolls."
     },
     {
@@ -1131,7 +1131,7 @@
      "mins": 2,
      "do": "1. Ask the questions below.",
      "say": "Who won? Was the game fair? Why not? How could we change the rules so each player has the same chance?",
-     "kid": "Was it fair? How could we make it fair?",
+     "kid": "Look at where the two counters ended. Why did one get further?",
      "ask": [
       {
        "q": "How could we make the game fair?",
@@ -1148,7 +1148,7 @@
      "mins": 4,
      "do": "1. Play again with the new rules: A moves on 1, 2 or 3, and B moves on 4, 5 or 6.",
      "say": "Now each player has three numbers. Who will win this time? Can you tell before we start?",
-     "kid": "Play again. Each player has three numbers now. Who will win?",
+     "kid": "Play again with the new rules. See who wins.",
      "check": {
       "t": "mcq",
       "q": "Player A moves on 1, 2 or 3. Player B moves on 4, 5 or 6. Is the game fair?",
@@ -1171,7 +1171,7 @@
    "title": "One Hundred Tosses: a three-day count",
    "days": 3,
    "mins": 30,
-   "context": "In this project you toss a coin 100 times in all, over three days. Each day you add your tosses to the total. You watch how close the heads count gets to half.",
+   "context": "In this project you toss a coin 100 times in all, over three days. Each day you add your tosses to the total. You will find out if the heads count stays close to half as you add more tosses.",
    "materials": [
     {
      "item": "a coin and a steel tumbler",
@@ -1182,7 +1182,7 @@
      "qty": 1
     },
     {
-     "item": "a pencil and a crayon",
+     "item": "a pencil",
      "qty": 1
     }
    ],
@@ -1220,7 +1220,7 @@
      "mins": 10,
      "do": "1. Your child tosses 30 times and keeps a tally. 2. Write the heads and tails totals for day 1.",
      "say": "Today we toss 30 times. Tomorrow 30 more, then 40 more. How many heads will we have out of 100? Why do you think so?",
-     "kid": "Toss 30 times. Tally heads and tails. How many heads out of 100 will you get? Why?",
+     "kid": "Toss 30 times. Make a tally line for each toss.",
      "ask": [
       {
        "q": "How many heads will come out of 100? Why?",
@@ -1244,7 +1244,7 @@
      "mins": 10,
      "do": "1. Your child tosses 40 more times. 2. Add up all the heads and all the tails. 3. Ask the questions below.",
      "say": "Forty more, and we reach 100. How many heads out of 100? Was it close to 50? Was any single day exactly half?",
-     "kid": "Toss 40 more. Add up all the heads. Is it close to 50?",
+     "kid": "Toss 40 more. Then add up all your heads and tails.",
      "wait": "The next day",
      "ask": [
       {
@@ -1265,7 +1265,7 @@
    "id": "c1",
    "title": "The Fair Chooser Challenge: choose fairly among three",
    "mins": 20,
-   "context": "This is a design challenge. A coin is a fair way to choose between two people. But what if three children all want to go first?",
+   "context": "This is a design challenge. A coin is a fair way to choose between two people. But what if three children all want to go first? You will make a fair way to choose one of three.",
    "problem": "Make a fair way to choose one of three children, so each has the same chance, using things at home.",
    "constraints": [
     "Each of the three children must have the same chance.",
@@ -1306,7 +1306,7 @@
      "mins": 4,
      "do": "1. Explain the problem. 2. Ask the question below.",
      "say": "A coin has two sides, so it can choose between two people. How could we choose fairly among three?",
-     "kid": "A coin has two sides. How can you choose fairly among three children?",
+     "kid": "Think of things at home that could choose one of three children.",
      "ask": [
       {
        "q": "How could you give three children the same chance?",
@@ -1322,7 +1322,7 @@
      "mins": 12,
      "do": "1. Your child makes a chooser. 2. Your child tests it 12 times. 3. Your child tallies who is chosen.",
      "say": "Make your chooser. Use it 12 times. Make a tally line for whoever is chosen.",
-     "kid": "Make your chooser. Test it 12 times. Tally who is chosen.",
+     "kid": "Build your chooser from things at home. Then try it out.",
      "parent": "With 12 tries, each child should be chosen about 4 times, often between 2 and 6. A chooser that picks one child 9 or more times is probably not fair."
     },
     {
@@ -1330,7 +1330,7 @@
      "mins": 4,
      "do": "1. Look at the tally. 2. Ask the questions below.",
      "say": "Was each child chosen about the same number of times? If not, why? How could you make it fairer?",
-     "kid": "Was each child chosen about the same? How could it be fairer?",
+     "kid": "Count each child's tally. Look for a child chosen far more often.",
      "check": {
       "t": "mcq",
       "q": "You roll a die to choose among three children. Which rule is fair?",

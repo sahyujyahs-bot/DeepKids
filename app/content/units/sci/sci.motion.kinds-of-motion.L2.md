@@ -177,17 +177,17 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 
 ## Games
 ### g1 · Three Paths: the card game (10 min)
-- **rules:** Cut out the three mats and lay them on the floor.; The grown-up reads the front of one card out loud.; The player draws the path in the air with a finger, then puts the card on a mat.; The grown-up reads the back. If the player is right, the player keeps the card. If the back names two paths, the player must say which part moves in each path.; If the player gives a good reason for a different mat, the player keeps the card too.; A card that is wrong goes back to the bottom of the pile. After 12 cards have been tried, count the cards each player kept. The most cards wins. If you play alone, try to keep more than 8.
+- **rules:** Cut out the three mats and lay them on the floor.; The grown-up reads the front of one card out loud.; The player shows the path in the air with a finger, or acts it out, then puts the card on a mat.; The grown-up reads the back. If the player is right, the player keeps the card. If the back names two paths, the player must say which part moves in each path.; If the player gives a good reason for a different mat, the player keeps the card too.; A card that is wrong goes back to the bottom of the pile. After 12 cards have been tried, count the cards each player kept. The most cards wins. If you play alone, try to keep more than 8.
 - **Printable cards: 12 moving cards:** A Mumbai local train on a straight track (back: STRAIGHT); A seat on a giant wheel at a mela (back: ROUND) [picture]; A cradle rocking in the hall (back: BACK AND FORTH); A lift going up (back: STRAIGHT); The tip of a ceiling fan blade (back: ROUND); A toothbrush scrubbing teeth (back: BACK AND FORTH); A drawer sliding open (back: STRAIGHT); The hands of a clock (back: ROUND); An oar rowing a boat across a river (back: BACK AND FORTH); A coconut falling from a tree (back: STRAIGHT, straight down) [picture]; A cycle on a straight road (back: STRAIGHT for the cycle, ROUND for the wheels); A sewing machine needle (back: BACK AND FORTH, up and down)
 - **Printable tokens: 3 mats:** STRAIGHT mat; ROUND mat; BACK AND FORTH mat
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the three mats and lay them on the floor. 2. Draw each path in the air together.  
-  *Parent says:* Here are three mats. Draw a straight line in the air. Now a circle. Now back and forth.  
+  *Parent says:* Here are three mats, one for each path: straight, round, and back and forth.  
   *Child mode:* Draw each path in the air. Straight. Round. Back and forth.
 - **s2 (7 min)**  
-  *Parent does:* 1. Read the cards one by one. 2. Your child draws the path in the air and puts the card on a mat.  
-  *Parent says:* A seat on a giant wheel. Draw its path in the air. Which mat does it go on?  
-  *Child mode:* Listen. Draw the path in the air. Put the card on a mat.
+  *Parent does:* 1. Read the cards one by one. 2. Your child shows the path in the air, or acts it out, and puts the card on a mat.  
+  *Parent says:* A seat on a giant wheel. Which mat does it go on?  
+  *Child mode:* Show the path in the air, or act it out. Then put the card on a mat.
   - Ask: Why does the cycle card fit two mats? (good: The cycle goes straight, but the wheels go round.; Different parts move in different paths.)
   - Note: Some cards fit two mats. Praise a reason that says which part moves which way. Children take turns with the cards.
 - **s3 (1 min)**  
@@ -201,17 +201,17 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - **s1 (2 min)**  
   *Parent does:* Teach the three hand signs and practise each one.  
   *Parent says:* Hands on your chest means the thing moves by itself. Pushing palms means a push or pull. Rolling fists means a motor.  
-  *Child mode:* Learn the three signs: hands on your chest, pushing palms, and rolling fists.
+  *Child mode:* Practise the three signs until you can show each one fast.
 - **s2 (7 min)**  
   *Parent does:* 1. Deal the cards. 2. The reader reads a card and the others show a sign. 3. Read the back and give points. 4. Next player reads.  
-  *Parent says:* A kite in the sky at Sankranti. What starts it moving? Show your sign!  
-  *Child mode:* Listen. What starts it moving? Show your sign fast!
+  *Parent says:* A kite in the sky at Sankranti. What starts it moving?  
+  *Child mode:* Listen to the card. Then show your sign as fast as you can.
   - Ask: Why did you show pushing palms for the kite? (good: The wind pushes it.; The string pulls it.)
   - Note: The seedlings card surprises many children. Plants move by themselves, but slowly, over hours and days.
 - **s3 (1 min)**  
   *Parent does:* Count the points. Then ask the question below.  
-  *Parent says:* Mustard seedlings lean to the window by themselves. Why do many people not notice that plants move?  
-  *Child mode:* Count your points. Plants move by themselves. Why do we not notice?
+  *Parent says:* Count your points. Then I have one question about plants.  
+  *Child mode:* Count your points.
   - Ask: Why do many people not notice that plants move by themselves? (good: Plants move very slowly, over hours and days.; We would have to watch for a whole day to see a plant move.)
   - Check: A fish swims to the top of the pond for food. What starts the fish moving? → **The fish, on her own**
 
@@ -221,7 +221,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - **predict:** Guess first. From the side, will you see a circle, a straight line, or something else? Why do you think so?
 - **fair test:** We use the same string, the same keys and the same slow speed every time. Only the place we watch from changes. We count 10 rounds each time, so we can compare the counts.
 - **safety:** Keep the keys going slowly, and keep everyone's face at least one big step away from them.
-- **record:** Draw the keys seen from above, with their path. Then draw them seen from the side, with their path. Write the two counts.
+- **record:** Draw the keys seen from above, with their path. Then draw them seen from the side, with their path. Or tell your grown-up what you saw, and they write it down. Write the two counts.
 - **results table:** Where I watched from | My guess | The path I saw | How many I counted
 - **s1 (3 min)**  
   *Parent does:* 1. Tie the keys to one end of the string. 2. Hold the other end so the keys hang just below your knee. 3. Move your hand in a tiny, slow circle until the keys go round in a circle about the size of a plate.  
@@ -230,30 +230,30 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Note: Small, steady hand circles make a neat circle. If the keys start to swing back and forth instead, stop them and start again with a smaller circle.
 - **s2 (2 min)**  
   *Parent does:* 1. Keep the keys going round. 2. Ask for a guess and a reason. 3. Write the guess down.  
-  *Parent says:* If you get down low and look from the side, what will you see? A circle, a line, or something else? Why do you think so?  
-  *Child mode:* Guess. From the side, what path will the keys make? Why?
+  *Parent says:* If you get down low and look from the side, what will you see? A circle, a line, or something else?  
+  *Child mode:* Get ready to look from the side. Guess what path the keys will make.
   - Ask: Why do you think so? (good: A circle, because they go round.; A line, because I will only see one side.; I don't know. I will have to look.)
   - Note: Write the guess in your child's own words. Do not explain yet.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child stands next to you and looks straight down at the keys. 2. Keep the keys going round. 3. Count 10 rounds together, out loud.  
-  *Parent says:* Look straight down from the top. What path do the keys make? Count each time they come back to your side.  
-  *Child mode:* Look down at the keys. What shape do they make? Count 10 rounds.
+  *Parent says:* Look straight down from the top. Count each time the keys come back to your side.  
+  *Child mode:* Look straight down at the keys. Count 10 rounds out loud.
   - Ask: What path did you see from the top? (good: A circle.; Round and round.)
 - **s4 (5 min)**  
   *Parent does:* 1. Your child lies on the floor 2 big steps away, chin on hands. Then their eyes are as low as the keys. Sitting on the floor also works. 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds.  
-  *Parent says:* Now put your eyes as low as the keys. Say tick each time they reach the left end. What path do you see now?  
+  *Parent says:* Now put your eyes as low as the keys. Say tick each time they reach the left end.  
   *Child mode:* Lie down and look at the keys from the side. Say 'tick' each time they reach the left end.
   - Ask: What path did you see from the side? (good: They go side to side.; Back and forth, like a swing.; A straight line.)
   - Note: From the side, the keys seem to go only left and right, like a swing. While you count 10 rounds, your child should count about 10 ticks. One round looks like one back and forth.
 - **s5 (3 min)**  
   *Parent does:* 1. Make the room dim. 2. Put the phone torch on a table, shining at a plain wall. 3. Hold the keys between the torch and the wall, close to the wall and as high as the torch. 4. Your child looks only at the shadow. 5. Make the keys go round, then swing them back and forth, in any order.  
-  *Parent says:* Look only at the shadow on the wall. Am I making the keys go round, or swing back and forth? Tell me which.  
-  *Child mode:* Look only at the shadow. Are the keys going round or swinging? Can you tell?
+  *Parent says:* I will make the keys move. Look only at the shadow on the wall. Tell me which one I am making: round, or swinging.  
+  *Child mode:* Watch only the shadow, not the keys. Can you tell which it is?
   - Note: The shadow of keys going round and the shadow of keys swinging look almost the same. A sharp-eyed child may notice that a swing's shadow rises a little at each end. That is a good find. Let your child try the shadow game on you too.
 - **s6 (3 min)**  
   *Parent does:* 1. Fill in the table together. 2. Ask what your child saw, and why it looked different.  
-  *Parent says:* From the top you saw a circle. From the side you saw back and forth. Were the keys doing two things, or one thing?  
-  *Child mode:* From the top you saw a circle. From the side you saw back and forth. Did the keys change what they were doing?
+  *Parent says:* From the top you saw a circle. From the side you saw back and forth. That is strange. Let us think about it.  
+  *Child mode:* Look at your table. Were the keys doing two things, or one thing?
   - Ask: Why did the keys look different? (good: They went round all the time. I looked from a different place.; From the side I could not see them come closer and go away.)
   - Note: Now explain. From the side, you cannot see the keys coming towards you and going away. You only see them go left and right. So a round motion seen from the side looks like a back-and-forth motion.
   - Check: The keys went round in a circle on the string. What did you see from the side, with your eyes low? → **Back and forth, like a swing**
@@ -263,7 +263,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - **predict:** Guess first. With your eyes shut, will you stay on the line, or drift off it? If you drift, which way? Why do you think so?
 - **fair test:** We use the same line, the same start and the same 8 steps every time. Only the eyes change: open or shut. We try eyes open 2 times and eyes shut 3 times, because one try on its own can come out well or badly by chance.
 - **safety:** Clear the floor first. A grown-up walks beside the child all the time and stops them before any wall, door or corner.
-- **record:** Draw the line. Draw a dot for each place you stopped: blue for eyes open, red for eyes shut.
+- **record:** Lay your paper slips in a row, from the try closest to the line to the try farthest from it. Write each gap in hand-widths in the table.
 - **results table:** Try | Eyes open or shut | How many hand-widths from the line I stopped
 - **s1 (3 min)**  
   *Parent does:* 1. Find a straight tile line, or stick down a strip of tape. 2. Clear the floor around it. 3. Show your child where to start.  
@@ -272,8 +272,8 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Note: A tile line in a hall or corridor works well. You need about 8 small steps of clear floor, plus a little more at the end.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason, and write it down.  
-  *Parent says:* You will walk the line first with your eyes open, then with your eyes shut. Will you stay on the line with your eyes shut? Why do you think so?  
-  *Child mode:* With your eyes shut, will you stay on the line? Why?
+  *Parent says:* You will walk the line first with your eyes open, then with your eyes shut. Will you stay on the line with your eyes shut?  
+  *Child mode:* Guess. With your eyes shut, will you stay on the line, or drift off it?
   - Ask: Why do you think so? (good: Yes, because I know where the line is.; No, because I can't see it.; I might go a bit to one side.)
 - **s3 (4 min)**  
   *Parent does:* 1. Your child walks 8 steps along the line with eyes open. 2. Put a slip of paper on the floor at their toes. 3. Measure the gap from the slip to the line, counting in widths of your child's hand. 4. Do it twice.  
@@ -288,8 +288,8 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Note: Most people drift off the line with their eyes shut, often by a hand-width or more in 8 steps. Some walk almost straight one time and drift the next. Both are real results.
 - **s5 (3 min)**  
   *Parent does:* 1. Fill in the table together. 2. Compare eyes open with eyes shut. 3. Ask why.  
-  *Parent says:* Which tries stayed closest to the line? Why do you think your eyes help you walk straight?  
-  *Child mode:* Look at the table. When did you stay closest? Why?
+  *Parent says:* Which tries stayed closest to the line?  
+  *Child mode:* Look at the table. Compare eyes open with eyes shut.
   - Ask: Why do your eyes help? (good: I can see the line.; I can see when I start to turn, and fix it.)
   - Note: Now explain. With eyes open, you see every tiny turn and fix it straight away. With eyes shut, tiny turns add up and nothing tells you to fix them. Scientists tested people walking with their eyes covered in a big field, and many walked in circles.
   - Check: Why did you drift off the line with your eyes shut? → **I could not see my small turns to fix them**
@@ -298,10 +298,10 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 ## Activities
 ### a1 · Path Hunt: straight, round, or back and forth? (10 min)
 - **safety:** Watch the ceiling fan and the mixie from a distance. Never touch moving blades.
-- **record:** Tick one column for each thing you find. Draw one thing from each column.
+- **record:** Tick one column for each thing you find. Then tell your grown-up one thing you found in each column.
 - **s1 (2 min)**  
   *Parent does:* 1. Draw three columns on paper. 2. Draw a straight arrow, a circle and a two-headed arrow at the top. 3. Read the words together.  
-  *Parent says:* Here are the three paths: straight, round, and back and forth. Draw each one in the air with your finger.  
+  *Parent says:* Here are the three paths: straight, round, and back and forth. We will hunt for things that move in each one.  
   *Child mode:* Draw each path in the air. Straight. Round. Back and forth.
 - **s2 (6 min)**  
   *Parent does:* 1. Walk round the home together. 2. For each moving thing, your child draws its path in the air. 3. They tick the right column.  
@@ -315,26 +315,26 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   *Child mode:* Count the ticks. Which column has the most?
   - Check: Water falls from a tap into a bucket. What path does the water take? → **Straight**
 ### a2 · Who Starts It? Watch from the window and sort (12 min)
-- **record:** Draw one thing in each column.
+- **record:** Say one thing from each column to your grown-up, or write it.
 - **s1 (2 min)**  
   *Parent does:* 1. Draw the three columns on paper. 2. Explain each one with an example.  
   *Parent says:* Some things start moving by themselves, like you. Some need a push or a pull. Some have a motor or an engine inside.  
   *Child mode:* There are three columns: by themselves, pushed or pulled, and motor or engine.
 - **s2 (6 min)**  
-  *Parent does:* 1. Watch from the window together for 5 minutes. 2. For each moving thing, ask what started it. 3. Your child draws or writes it in a column.  
-  *Parent says:* Look, a crow flew off the wire. Did anything push the crow? Which column is that?  
-  *Child mode:* Find a moving thing. What started it? Put it in a column.
-  - Ask: What started the clothes on the line moving? (good: The wind pushed them.; The air moved them.)
+  *Parent does:* 1. Watch from the window together for 5 minutes. 2. For each moving thing, ask what started it. 3. Your child says it, and you write it in a column.  
+  *Parent says:* Let us find something that moves. It could be a crow, a leaf or an auto. Did anything push it?  
+  *Child mode:* Find a moving thing. Which column does it go in?
+  - Ask: If a leaf or a cloth moves in the wind, what started it moving? (good: The wind pushed them.; The air moved them.)
   - Note: Crows, pigeons, people and dogs move by themselves. Leaves, clothes on a line and a kite are moved by the wind. Autos, buses, scooters and lifts have engines or motors.
 - **s3 (4 min)**  
-  *Parent does:* 1. Add things from inside the home: the fan, a ball, an ant, the door, you. 2. Talk about any that are hard to sort.  
+  *Parent does:* 1. Add things from inside the home: the fan, a ball, the door, you, and an ant if you can find one. 2. Talk about any that are hard to sort.  
   *Parent says:* Now the fan. Does it move by itself, or is it moved? What happens to the fan in a power cut?  
   *Child mode:* Now look inside your home: the fan, a ball, an ant, and you. Which column does each one go in?
   - Ask: Which one was hardest to sort? Why? (good: The fan, because nobody pushes it but it needs electricity.; A plant, because plants move very slowly.)
   - Note: There is no single right answer for a fan. It has a motor, so nobody pushes it, but it stops when the power goes. Praise a good reason.
   - Check: Which of these has a motor or an engine that starts it moving? → **An auto**
 ### a3 · Buzz the Ruler: back and forth too fast to see (8 min)
-- **record:** Draw the ruler on the table. At the end that sticks out, draw one arrow pointing up and one arrow pointing down.
+- **record:** Show your grown-up with your hand how the free end of the ruler moves. You can also draw it, with one arrow up and one arrow down.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the ruler on the table with about half sticking out. 2. Your child presses down hard on the end that is on the table. 3. They flick the free end down.  
   *Parent says:* Press this end down hard. Now flick the other end. What does it do?  
@@ -342,8 +342,8 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Ask: What path does the end of the ruler take? (good: Up and down, back and forth.; It goes up and down very fast.)
 - **s2 (3 min)**  
   *Parent does:* 1. Slide the ruler so only a short part sticks out. 2. Flick again. 3. Compare the long end and the short end.  
-  *Parent says:* Now only a little part sticks out. Flick it. Is it faster or slower? Is the buzz higher or lower?  
-  *Child mode:* Make the end short. Flick it. Faster or slower?
+  *Parent says:* Now only a little part sticks out. Flick it again and listen.  
+  *Child mode:* Is it faster or slower than before? Is the buzz higher or lower?
   - Note: A long free end moves back and forth slowly enough to see. A short end moves so fast it blurs, and the buzz sounds higher.
 - **s3 (2 min)**  
   *Parent does:* 1. Your child puts two fingers gently on the front of their throat. 2. They hum.  
@@ -354,8 +354,8 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 
 ## Projects
 ### p1 · The Seedlings Who Lean to the Light (25 min, 6 days)
-- **record:** Draw the seedlings on day 4 and day 5, with an arrow pointing to the window.
-- **schedule:** day 1: Put wet cotton in the cup and sprinkle the seeds on top. Keep it in the middle of a room, away from the window. (5 min); day 2: Check the seeds. Add a few drops of water if the cotton feels dry. (3 min); day 3: Look for tiny shoots. When most are about 2 cm tall, put the cup on the window sill. (3 min); day 4: Look at the seedlings from the side. Which way do they lean? Draw them. Then turn the cup halfway round. (5 min); day 5: Look again. Which way do they lean now? Draw them. (5 min); day 6: Talk about what happened. Did the seedlings move by themselves? (4 min)
+- **record:** Draw the seedlings on day 4 and day 5, with an arrow pointing to the window. Or take a photo each day.
+- **schedule:** day 1: Put wet cotton in the cup and sprinkle the seeds on top. Keep it in the middle of a room, away from the window. (5 min); day 2: Check the seeds. Add a few drops of water if the cotton feels dry. (3 min); day 3: Look for tiny shoots. When most are about 2 cm tall, put the cup on the window sill. (3 min); day 4: Look at the seedlings from the side. Which way do they lean? Draw them, or take a photo. Then turn the cup halfway round. (5 min); day 5: Look again. Which way do they lean now? Draw them, or take a photo. (5 min); day 6: Talk about what happened. Did the seedlings move by themselves? (4 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Put wet cotton in the cup. 2. Your child sprinkles a pinch of seeds on top. 3. Keep it in the middle of a room.  
   *Parent says:* These seeds will grow into tiny plants. Sprinkle them on the wet cotton. We keep the cup away from the window for now.  
@@ -363,20 +363,20 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Note: Mustard seeds usually sprout in 1 to 2 days in a warm room. Methi takes 2 to 3 days. In a cold room, wait a day or two longer.
   - Wait: Check every day until shoots are about 2 cm tall
 - **s2 (5 min)**  
-  *Parent does:* 1. When the shoots are about 2 cm tall, put the cup on the window sill. 2. The next day, look from the side together. 3. Your child draws them.  
-  *Parent says:* Look at the seedlings from the side. Are they standing straight? Which way are they leaning?  
-  *Child mode:* Look from the side. Which way do the seedlings lean?
+  *Parent does:* 1. When the shoots are about 2 cm tall, put the cup on the window sill. 2. The next day, look from the side together. 3. Your child draws them, or takes a photo.  
+  *Parent says:* Look at the seedlings from the side. Are they standing straight?  
+  *Child mode:* Look from the side. Draw the seedlings, or take a photo.
   - Ask: Which way are they leaning? (good: Towards the window.; To the light.)
   - Wait: Leave the cup on the window sill for 1 day
 - **s3 (5 min)**  
   *Parent does:* 1. Turn the cup halfway round, so the seedlings now lean away from the window. 2. Ask for a guess.  
   *Parent says:* Now they lean away from the window. What will they do by tomorrow? Why do you think so?  
-  *Child mode:* Turn the cup round. What will the seedlings do by tomorrow?
+  *Child mode:* Turn the cup round. Then make a guess.
   - Wait: Leave the cup for 1 more day
 - **s4 (5 min)**  
-  *Parent does:* 1. Look from the side again. 2. Compare with yesterday's drawing.  
-  *Parent says:* Which way do they lean now? Who moved them?  
-  *Child mode:* Look again. Which way do they lean now?
+  *Parent does:* 1. Look from the side again. 2. Compare with yesterday's drawing or photo.  
+  *Parent says:* Compare with yesterday. Which way do they lean now?  
+  *Child mode:* Look again. Is it the same as yesterday, or different?
   - Ask: Did the seedlings move by themselves? (good: Yes, they turned back to the light.; Yes, but very slowly.)
   - Note: The seedlings sense where the light comes from. The shaded side of each stem grows faster than the lit side, so the stem bends towards the light. They move by themselves, just too slowly to watch.
   - Check: You turn the cup so the seedlings lean away from the window. What happens the next day? → **They lean back towards the window**
@@ -395,12 +395,12 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Ask: What does a circle need? (good: A middle point.; Every bit the same distance from the middle.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child tries one idea. 2. Then a second idea.  
-  *Parent says:* Try your first idea. Now try another one. Which circle is rounder?  
-  *Child mode:* Try one way. Now try another way. Which is rounder?
+  *Parent says:* Try your first idea. Now try another one.  
+  *Child mode:* Try one way, then another way. Which circle is rounder?
   - Note: Holding the middle of a string still is the hardest part. A grown-up can hold the middle while the child pulls the pencil round.
 - **s3 (3 min)**  
   *Parent does:* Compare the circles and ask why one worked better.  
-  *Parent says:* Which circle came out rounder? What kept the pencil going round the same middle?  
+  *Parent says:* Look at both circles. What kept the pencil going round the same middle?  
   *Child mode:* Which circle is rounder? Why?
   - Check: You tie a pencil to a string and hold the other end still. Why does the pencil go round in a circle? → **The string keeps it the same distance from the middle**
 

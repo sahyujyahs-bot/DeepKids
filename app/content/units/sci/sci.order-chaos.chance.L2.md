@@ -194,7 +194,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Read the rules out loud. 3. Put the four sign cards in a row, from impossible to certain.  
   *Parent says:* Each card is something that might happen. Is it certain, likely, unlikely or impossible? Put down your sign, and we turn them over together.  
-  *Child mode:* Read the card. Is it certain, likely, unlikely or impossible? Put down a sign.
+  *Child mode:* Look at the four signs. Which one means it will happen for sure?
 - **s2 (11 min)**  
   *Parent does:* 1. Take turns reading a card. 2. Everyone puts down a sign. 3. Turn the signs over and read the back. 4. Give points.  
   *Parent says:* You roll one die and get a six. Which sign? Why did you choose that?  
@@ -204,7 +204,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s3 (2 min)**  
   *Parent does:* 1. Count the points. 2. Ask the question below.  
   *Parent says:* Which card was the hardest to decide? Why?  
-  *Child mode:* Which card was the hardest? Why?
+  *Child mode:* Find the card you found hardest. Read it again.
   - Ask: Why is a coin standing on its edge unlikely, and not impossible? (good: It can happen, but it almost never does.; A coin has a thin edge, so it could stay standing.)
 ### g2 · The Six Race: is this game fair? (15 min)
 - **rules:** Put both counters on Start.; Take turns to roll one die. It does not matter who rolls: the counters move by the rules below.; First rules: if the die shows a six, Player A moves one square. If it shows any other number, Player B moves one square.; The first counter to reach Finish wins.; Play once with the first rules. Then talk about whether it was fair.; New rules: Player A moves on 1, 2 or 3. Player B moves on 4, 5 or 6. Play again.
@@ -212,24 +212,24 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **Printable tokens: 2 counters:** Player A counter; Player B counter
 - **s1 (2 min)**  
   *Parent does:* 1. Draw the two tracks, or use the printed board. 2. Use buttons or coins as counters. 3. Let your child choose to be Player A or Player B.  
-  *Parent says:* Player A moves on a six. Player B moves on any other number. Which player do you want to be? Why?  
-  *Child mode:* Pick Player A or Player B. Why that one?
+  *Parent says:* In this race, Player A moves on a six. Player B moves on any other number. Which one do you want to be?  
+  *Child mode:* Pick A or B.
   - Ask: Which player do you think will win? Why? (good: B, because B moves on five numbers.; A, because six is the best number.)
   - Note: If your child picks A because 'six is the best', let them. The game will show what happens.
 - **s2 (7 min)**  
   *Parent does:* 1. Take turns rolling. 2. Move the right counter after each roll. 3. Play until one counter reaches Finish.  
   *Parent says:* Roll. Is it a six? Then A moves. Any other number? Then B moves.  
-  *Child mode:* Roll the die. On a six, A moves. On any other number, B moves.
+  *Child mode:* Roll the die. Watch whose counter moves.
   - Note: B almost always wins, often by a long way. A six comes only about once in six rolls.
 - **s3 (2 min)**  
   *Parent does:* 1. Ask the questions below.  
   *Parent says:* Who won? Was the game fair? Why not? How could we change the rules so each player has the same chance?  
-  *Child mode:* Was it fair? How could we make it fair?
+  *Child mode:* Look at where the two counters ended. Why did one get further?
   - Ask: How could we make the game fair? (good: Give each player three numbers.; A moves on 1, 2, 3 and B on 4, 5, 6.; A moves on odd numbers, B on even numbers.)
 - **s4 (4 min)**  
   *Parent does:* 1. Play again with the new rules: A moves on 1, 2 or 3, and B moves on 4, 5 or 6.  
   *Parent says:* Now each player has three numbers. Who will win this time? Can you tell before we start?  
-  *Child mode:* Play again. Each player has three numbers now. Who will win?
+  *Child mode:* Play again with the new rules. See who wins.
   - Note: Now either player can win. Nobody can say who will win before the game starts. That is what a fair game of chance is like.
   - Check: Player A moves on 1, 2 or 3. Player B moves on 4, 5 or 6. Is the game fair? → **Yes, each player has three faces of the die**
 
@@ -243,12 +243,12 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s1 (2 min)**  
   *Parent does:* 1. Show your child a coin. 2. Agree that the side with the lions is heads and the number side is tails. 3. Show how to toss. Drop the coin in the tumbler and cover it with a hand. Shake three times and tip it onto the bed.  
   *Parent says:* This side, with the lions, is heads. This side, with the number, is tails. Watch how we toss. Shake, shake, shake, and tip.  
-  *Child mode:* The lions side is heads. The number side is tails. Shake the tumbler three times. Tip it onto the bed.
+  *Child mode:* Watch how your grown-up tosses. Then try one toss yourself.
   - Note: Tipping onto a bed or towel stops the coin rolling away under the furniture. A shaken coin cannot be steered, so the toss is fair.
 - **s2 (2 min)**  
-  *Parent does:* 1. Ask the two questions below. 2. Write down your child's guesses and reasons at the top of the paper.  
+  *Parent does:* 1. Ask how many of ten guesses will be right, and how many heads will come in 20 tosses. 2. Write down your child's guesses and reasons at the top of the paper.  
   *Parent says:* Before each toss, you will say heads or tails. Out of ten guesses, how many will you get right? And if we toss 20 times, how many heads will come? Why do you think so?  
-  *Child mode:* How many of your ten guesses will you get right? In 20 tosses, how many heads will come? Why?
+  *Child mode:* Think about it. Then tell your grown-up your guesses and why.
   - Ask: How many of your ten guesses will be right? Why? (good: All ten, because I will think hard.; About five, because it could be either.; I don't know, because nobody can see inside the tumbler.)
   - Note: Write the guesses down and do not say who is right. Many children expect to get most guesses right, or expect 20 heads if they 'want' heads.
 - **s3 (5 min)**  
@@ -264,8 +264,8 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
   - Note: Count the tosses as you go so you stop at 20. Bundles of five make counting easy at the end.
 - **s5 (5 min)**  
   *Parent does:* 1. Count the heads and tails on each sheet. 2. Fill in the results table. 3. Ask the questions below. 4. Then read the cards on why nobody can know one toss, and why many tosses give close to half.  
-  *Parent says:* How many heads did you get? How many did I get? Were they close to 10? Could you guess each toss? Why was the total easier to guess than one toss?  
-  *Child mode:* Count your heads. Count mine. Are they close to 10? Why?
+  *Parent says:* How many heads did you get? How many did I get? Were they close to 10? Could you guess each toss?  
+  *Child mode:* Count your heads. Count your grown-up's heads. Are they close to 10?
   - Ask: Why could we guess the total better than one toss? (good: Heads and tails each came about the same number of times.; Each toss was a surprise, but they evened out.; Half of 20 is 10, and we got close to 10.)
   - Note: Counts between 7 and 13 are normal for 20 tosses. If one count is far from 10, such as 5 or 15, toss 20 more and add them in. A strong answer uses both sheets as evidence: neither total was far from 10, but nobody could guess each toss.
   - Check: In the coin test, you tossed 20 times. What did the heads count come out close to? → **10**
@@ -273,12 +273,12 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **question:** When we roll a die, does a six come up as often as all the other numbers together?
 - **predict:** In 30 rolls, which will come up more: a six, or not a six? Or will they be the same? Why do you think so?
 - **fair test:** We use one die and roll it the same way each time, onto the same bed or tray. We roll 30 times, because a few rolls can give an odd result by chance. Nobody blows on the die or chooses how it lands.
-- **record:** Draw two rows, 'six' and 'not six'. Make a tally line for every roll. Write the two totals. Draw a bar for each total.
+- **record:** Draw two rows, 'six' and 'not six'. Make a tally line for every roll. Write the two totals.
 - **results table:**  | Tally | Total
 - **s1 (3 min)**  
   *Parent does:* 1. Give your child the die. 2. Ask them to count the faces and the numbers on them. 3. Ask the question below.  
   *Parent says:* How many faces does this die have? How many of them show a six? If we roll 30 times, will we get more sixes, or more not-sixes, or the same? Why do you think so?  
-  *Child mode:* Count the faces of the die. How many show a six? In 30 rolls, which will come up more: a six, or not a six? Why?
+  *Child mode:* Look at the die. Count its faces. How many faces show a six?
   - Ask: Which will come up more in 30 rolls: six, or not six? Why? (good: Not six, because five faces are not six.; The same, because it is either six or not six.; Six, because I want a six.)
   - Note: Write the guess and the reason down. 'The same, because it either comes or it doesn't' is a very common idea. The test will answer it.
 - **s2 (12 min)**  
@@ -288,9 +288,9 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
   - Ask: After ten rolls, which row is longer? (good: The not-six row.; The not-six row, by a lot.)
   - Note: A die that falls on the floor can be rolled again. If you have no die, use a six-sided pencil with numbers written on its sides. Roll it gently across the table and read the side facing up.
 - **s3 (5 min)**  
-  *Parent does:* 1. Count each row. 2. Draw a bar for each total. 3. Ask the questions below. 4. Then read the card on likely, unlikely, certain and impossible.  
-  *Parent says:* How many sixes did you get? How many not-sixes? Which is likely, and which is unlikely? Why do you think there were so many more not-sixes?  
-  *Child mode:* Count each row. Which is likely? Which is unlikely? Why?
+  *Parent does:* 1. Count each row. 2. Write the two totals. 3. Ask the questions below. 4. Then read the card on likely, unlikely, certain and impossible.  
+  *Parent says:* How many sixes did you get? How many not-sixes? Which is likely, and which is unlikely?  
+  *Child mode:* Count each row. Which row is longer?
   - Ask: Why were there so many more not-sixes? (good: Five faces are not six, and only one is six.; A six is only one face out of six.)
   - Note: Usually 2 to 8 sixes come up in 30 rolls, and many more not-sixes. A strong answer counts the faces: one six against five other faces.
   - Check: In the six test, why did not-six come up many more times than six? → **Five of the six faces are not six**
@@ -301,30 +301,30 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s1 (2 min)**  
   *Parent does:* 1. Hold a spoon above the bed. 2. Ask your child where it will go when you let go. 3. Let go.  
   *Parent says:* If I let go of this spoon, what will happen? Are you sure? Let's see.  
-  *Child mode:* Will the spoon fall if I let go? Are you sure?
+  *Child mode:* Watch the spoon. Tell what you think will happen.
   - Note: Your child is sure the spoon will fall, and is right. Do not explain anything yet.
 - **s2 (2 min)**  
   *Parent does:* 1. Show your child a coin. 2. Ask whether it will land lions up. 3. Toss it onto the bed.  
-  *Parent says:* Now look at this coin. Will it land with the lions up? Are you as sure as you were about the spoon?  
-  *Child mode:* Will the coin land lions up? Are you sure?
+  *Parent says:* Now look at this coin. Will it land with the lions side up? Are you as sure as you were about the spoon?  
+  *Child mode:* Look at the coin. Tell what you think will happen.
   - Ask: Why were you sure about the spoon, but not the coin? (good: The spoon always falls down.; The coin can land either way.; I can't see how the coin will land.)
 - **s3 (2 min)**  
   *Parent does:* 1. Ask your child to name one more thing at home they are sure about. 2. Then one thing they are not sure about.  
   *Parent says:* Tell me one thing in our home that you are sure will happen today. Now tell me one thing you are not sure about.  
-  *Child mode:* Say one thing you are sure of. Say one thing you are not sure of.
+  *Child mode:* Look around the room. Pick one thing you are sure about and one you are not.
   - Ask: What are you not sure about today? (good: Whether it will rain.; Which crow will come to the window.; What is for dinner.)
   - Note: Good answers for 'sure': the fan turns when switched on, water runs from the tap. For 'not sure': rain, how many crows come to the window, a game's winner.
 ### a2 · The Slips Game: what is likely to come out? (12 min)
 - **record:** Tally stars and blanks for ten picks. Then tally again with 5 of each.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut ten slips the same size. 2. Your child draws a star on eight of them. 3. Leave two blank. 4. Fold them all the same way and put them in the tumbler.  
-  *Parent says:* Draw a star on eight slips. Leave two blank. Fold them all the same, so you cannot tell them apart.  
-  *Child mode:* Draw stars on eight slips. Leave two blank. Fold them all.
+  *Parent says:* We need ten slips. Eight get a star and two stay blank. Fold them all the same, so you cannot tell them apart.  
+  *Child mode:* Draw a star on eight slips. A dot or a tick is fine too. Leave two blank.
   - Note: Folding them the same way stops anyone from feeling which is which.
 - **s2 (2 min)**  
   *Parent does:* 1. Ask the question below.  
   *Parent says:* If you pick one slip without looking, will it more likely be a star or a blank? Why do you think so?  
-  *Child mode:* Which are you more likely to pick: a star or a blank? Why?
+  *Child mode:* Think about the ten slips. Then say your guess.
   - Ask: Which is more likely: a star or a blank? Why? (good: A star, because there are more stars.; A blank, because I want a blank.)
 - **s3 (4 min)**  
   *Parent does:* 1. Shake the tumbler. 2. Your child picks one slip without looking and opens it. 3. Make a tally line. 4. Put the slip back, folded. 5. Do this ten times.  
@@ -332,9 +332,9 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
   *Child mode:* Shake. Pick one without looking. Star or blank? Put it back.
   - Note: Putting the slip back each time keeps the chances the same for every pick. Expect about 8 stars, often between 6 and 10.
 - **s4 (3 min)**  
-  *Parent does:* 1. Count the tally. 2. Ask the question below. 3. Take out three star slips and add three blank slips. 4. Pick ten more times.  
+  *Parent does:* 1. Count the tally. 2. Ask the question below. 3. Take out three star slips and add three blank slips. 4. Pick ten more times and tally again.  
   *Parent says:* You win on a star. I win on a blank. Is that fair? How can we make it fair? Let's try with five of each.  
-  *Child mode:* Is this game fair? How could we make it fair?
+  *Child mode:* Think about who is more likely to win. Then try the new slips.
   - Ask: How can we make the game fair? (good: Put in the same number of stars and blanks.; Five stars and five blanks.)
   - Note: With five of each, stars and blanks come out about the same number of times. That is a fair game.
   - Check: A tumbler has 8 star slips and 2 blank slips. You pick one without looking. What is most likely? → **A star**
@@ -343,17 +343,17 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s1 (2 min)**  
   *Parent does:* 1. Put ten coins in a small tin or box (a dabba). 2. Ask the question below.  
   *Parent says:* When we tip out ten coins, how many will land heads? Will it be the same every time? Why do you think so?  
-  *Child mode:* How many of ten coins will land heads? Why?
+  *Child mode:* Look at the ten coins. Make a guess.
   - Ask: How many will land heads? (good: About five, half of ten.; I can't know for sure.)
 - **s2 (5 min)**  
   *Parent does:* 1. Your child shakes the coins and tips them out. 2. Your child counts the heads. 3. You write the number. 4. Do it five times.  
-  *Parent says:* Shake and tip. Push the heads to one side. How many? Let's do it five times.  
+  *Parent says:* Shake and tip. Push the coins with the lions side up to one side. How many? Let's do it five times.  
   *Child mode:* Shake and tip. Count the heads. Do it five times.
   - Note: Expect numbers like 4, 5 and 6 most often, and sometimes 3 or 7. Ten heads at once is very rare.
 - **s3 (1 min)**  
   *Parent does:* 1. Look at the five numbers. 2. Ask the question below.  
   *Parent says:* Look at our numbers. Were they all the same? Which numbers were they close to?  
-  *Child mode:* Were the numbers the same each time? What were they close to?
+  *Child mode:* Look at your five numbers. Are they all the same?
   - Ask: What were the numbers close to? (good: Close to five.; Half of ten.)
 
 ## Projects
@@ -363,7 +363,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s1 (10 min)**  
   *Parent does:* 1. Your child tosses 30 times and keeps a tally. 2. Write the heads and tails totals for day 1.  
   *Parent says:* Today we toss 30 times. Tomorrow 30 more, then 40 more. How many heads will we have out of 100? Why do you think so?  
-  *Child mode:* Toss 30 times. Tally heads and tails. How many heads out of 100 will you get? Why?
+  *Child mode:* Toss 30 times. Make a tally line for each toss.
   - Ask: How many heads will come out of 100? Why? (good: About 50, half of 100.; Close to 50, but not exactly.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child tosses 30 more times. 2. Add the new heads to day 1's heads, and the new tails to day 1's tails.  
@@ -373,7 +373,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s3 (10 min)**  
   *Parent does:* 1. Your child tosses 40 more times. 2. Add up all the heads and all the tails. 3. Ask the questions below.  
   *Parent says:* Forty more, and we reach 100. How many heads out of 100? Was it close to 50? Was any single day exactly half?  
-  *Child mode:* Toss 40 more. Add up all the heads. Is it close to 50?
+  *Child mode:* Toss 40 more. Then add up all your heads and tails.
   - Ask: Was the total closer to half than one day's count? (good: Yes, the days went up and down, but the total was near 50.; One day had more heads, another had more tails, and they evened out.)
   - Note: Totals between 40 and 60 heads are normal for 100 tosses. The point to notice is that each day's count wobbles, but the total out of 100 is close to half.
   - Wait: The next day
@@ -388,17 +388,17 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **s1 (4 min)**  
   *Parent does:* 1. Explain the problem. 2. Ask the question below.  
   *Parent says:* A coin has two sides, so it can choose between two people. How could we choose fairly among three?  
-  *Child mode:* A coin has two sides. How can you choose fairly among three children?
+  *Child mode:* Think of things at home that could choose one of three children.
   - Ask: How could you give three children the same chance? (good: Three slips with names in a tumbler.; Give each child two numbers on a die.)
 - **s2 (12 min)**  
   *Parent does:* 1. Your child makes a chooser. 2. Your child tests it 12 times. 3. Your child tallies who is chosen.  
   *Parent says:* Make your chooser. Use it 12 times. Make a tally line for whoever is chosen.  
-  *Child mode:* Make your chooser. Test it 12 times. Tally who is chosen.
+  *Child mode:* Build your chooser from things at home. Then try it out.
   - Note: With 12 tries, each child should be chosen about 4 times, often between 2 and 6. A chooser that picks one child 9 or more times is probably not fair.
 - **s3 (4 min)**  
   *Parent does:* 1. Look at the tally. 2. Ask the questions below.  
   *Parent says:* Was each child chosen about the same number of times? If not, why? How could you make it fairer?  
-  *Child mode:* Was each child chosen about the same? How could it be fairer?
+  *Child mode:* Count each child's tally. Look for a child chosen far more often.
   - Check: You roll a die to choose among three children. Which rule is fair? → **1 or 2 chooses the first child, 3 or 4 the second, 5 or 6 the third**
 
 ## Worksheets

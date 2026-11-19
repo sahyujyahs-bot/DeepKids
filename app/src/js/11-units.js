@@ -1003,7 +1003,7 @@ function fxDraw(open, cards) {
     fxShow(`<div class="fxpage"><header class="fxhd"><button class="fxround" data-fx="close" aria-label="Close this unit">${icon("close")}</button><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}</div>
     <div class="fxtitle"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><span class="fxlab">About this unit</span><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
     <div class="fxtiles"><span><b>${SD}</b>${it ? "session" : "day"}${SD === 1 ? "" : "s"}</span><span><b>${SL.length}</b>parts</span><span><b>${done}</b>done</span>${fxStar()}</div>${ref ? `<p class="fxmeta">${esc(ref)}</p>` : ""}</div></header>
-    <div class="fxcols"><div class="fxlist">${fxLearn(u)}${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
+    <div class="fxcols"><div class="fxcol">${fxLearn(u)}${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
     ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${fxKC(SL[cont].kind)[0]}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
     <div class="fxjump">${groups.map((g) => `<button data-fx="jump" data-g="${g}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}${FXKC[g][4]}</button>`).join("")}</div>
     ${groups
