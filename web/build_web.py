@@ -51,7 +51,26 @@ shutil.copy(os.path.join(ROOT, 'app/content/welcome.json'), os.path.join(PUB, 'w
 shutil.copy(os.path.join(WEB, 'src/privacy.html'), os.path.join(PUB, 'privacy.html'))  # linked from Google sign-in's consent screen
 # lesson media (explainer videos) are served as files next to the app
 MED = os.path.join(os.path.dirname(WEB), 'app', 'content', 'media')
-if os.path.isdir(MED): shutil.copytree(MED, os.path.join(PUB, 'media'), dirs_exist_ok=True)
+# The site host allows 20,000 files, and the unit pictures are over 21,000. So the pictures (media/img/<unit>/<name>) are
+# not copied one by one: each unit's pictures are joined into one pack file (media/pack/<unit>.bin) with a small
+# index (media/pack/<unit>.json, name -> [start, length]). The service worker (src/sw.js) answers a request for
+# media/img/<unit>/<name> by reading that picture's bytes out of the pack, so the app's picture links do not change.
+shutil.rmtree(os.path.join(PUB, 'media', 'img'), ignore_errors=True)
+if os.path.isdir(MED): shutil.copytree(MED, os.path.join(PUB, 'media'), dirs_exist_ok=True, ignore=shutil.ignore_patterns('img'))
+PACK = os.path.join(PUB, 'media', 'pack')
+shutil.rmtree(PACK, ignore_errors=True)
+os.makedirs(PACK)
+for unit in sorted(os.listdir(os.path.join(MED, 'img'))):
+    src = os.path.join(MED, 'img', unit)
+    if not os.path.isdir(src): continue
+    index, pos = {}, 0
+    with open(os.path.join(PACK, unit + '.bin'), 'wb') as out:
+        for name in sorted(os.listdir(src)):
+            data = open(os.path.join(src, name), 'rb').read()
+            index[name] = [pos, len(data)]
+            out.write(data)
+            pos += len(data)
+    open(os.path.join(PACK, unit + '.json'), 'w').write(json.dumps(index, separators=(',', ':')))
 # subtopic units load one file each when opened
 UNITS = os.path.join(os.path.dirname(WEB), 'app', 'units')
 shutil.rmtree(os.path.join(PUB, 'units'), ignore_errors=True)
