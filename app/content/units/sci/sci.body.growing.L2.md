@@ -165,30 +165,30 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 ## Games
 ### g1 · Taller, Shorter or Same? (15 min)
 - **rules:** Mix the cards and put them face down in a pile.; One player reads the front of the top card aloud, and keeps the back hidden.; Everyone shows an answer at the same time: hand held high for taller, hand held low for shorter, hand flat in front for the same.; Turn the card over and read the back aloud. Everyone with the right answer gets one point.; Take turns reading. When the pile is finished, the player with the most points wins. If two players have the same number, they both win.
-- **Printable cards: 14 cards to cut out, with the answer on the back:** A baby of 1, and a child of 7. Is the child taller, shorter or the same? (back: Taller. A child of 7 is often about 45 centimetres taller than a baby of 1.); A girl of 7, and the same girl at 8. Taller, shorter or the same at 8? (back: Taller. Children grow about 5 to 6 centimetres a year.); A woman of 30, and the same woman at 40. Taller, shorter or the same at 40? (back: The same. Adults have stopped getting taller.); You at bedtime, and you the next morning. Taller, shorter or the same in the morning? (back: Taller, a little. The discs in your backbone fill up again at night.); A newborn baby, and the same baby at 1. Taller, shorter or the same at 1? (back: Taller. A baby grows about 25 centimetres in the first year.); A grandfather at 40, and the same grandfather at 80. Taller, shorter or the same at 80? (back: Often a little shorter. Many older people lose a little height.); A girl of 12, and the same girl at 13. Taller, shorter or the same at 13? (back: Taller. Many girls have their growth spurt around this age.); A man of 20, and the same man at 25. Taller, shorter or the same at 25? (back: The same. Most men stop getting taller at about 17 or 18.); An astronaut on Earth, and the same astronaut in space. Taller, shorter or the same in space? (back: Taller, by a few centimetres. Nothing presses the discs in the backbone together in space.); You in the morning, and you after a long day of play. Taller, shorter or the same after play? (back: Shorter, a little. Standing and running press the discs in your backbone.); A toddler of 2, and the same toddler at 3. Taller, shorter or the same at 3? (back: Taller. A toddler grows about 8 centimetres in a year.); A grown-up's height this year, and next year. Taller, shorter or the same next year? (back: The same. Grown-ups do not get taller.); Two children of 7. One eats well and is healthy. The other is often ill and hungry. After a year, is the child who eats well usually taller, shorter or the same as the other? (back: Taller. Food and good health help a body grow.); A child of 5, and the same child at 10. Taller, shorter or the same at 10? (back: Taller. Five years of growing is often about 25 to 30 centimetres.)
+- **Printable cards: 14 cards to cut out, with the answer on the back:** A baby of 1, and a child of 7. Is the child taller, shorter or the same? (back: Taller. A child of 7 is often about 45 centimetres taller than a baby of 1.); A girl of 7, and the same girl at 8. Taller, shorter or the same at 8? (back: Taller. Children grow about 5 to 6 centimetres a year.); A woman of 30, and the same woman at 40. Taller, shorter or the same at 40? (back: The same. Adults have stopped getting taller.); You at bedtime, and you the next morning. Taller, shorter or the same in the morning? (back: Taller, a little. The discs in your backbone fill up again at night.); A newborn baby, and the same baby at 1. Taller, shorter or the same at 1? (back: Taller. A baby grows about 25 centimetres in the first year.); A grandfather at 40, and the same grandfather at 80. Taller, shorter or the same at 80? (back: Often a little shorter. Many older people lose a little height.); A girl of 12, and the same girl at 13. Taller, shorter or the same at 13? (back: Taller. Many girls have their growth spurt around this age.); A man of 20, and the same man at 25. Taller, shorter or the same at 25? (back: The same. Most men stop getting taller at about 17 or 18.); An astronaut on Earth, and the same astronaut in space. Taller, shorter or the same in space? (back: Taller, by a few centimetres. Nothing presses the discs in the backbone together in space.); You in the morning, and you after a long day of play. Taller, shorter or the same after play? (back: Shorter, a little. Standing and running press the discs in your backbone.); A toddler of 2, and the same toddler at 3. Taller, shorter or the same at 3? (back: Taller. A toddler grows about 8 centimetres in a year.); A grown-up's height this year, and next year. Taller, shorter or the same next year? (back: The same. Grown-ups do not get taller.); Two children of 7. One eats well and is healthy. The other is often ill and hungry. After a year, is the one who eats well taller, shorter or the same? (back: Taller. Food and good health help a body grow.); A child of 5, and the same child at 10. Taller, shorter or the same at 10? (back: Taller. Five years of growing is often about 25 to 30 centimetres.)
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Show the three hand signs.  
   *Parent says:* Hand up high means taller. Hand down low means shorter. Hand flat means the same.  
   *Child mode:* Hand up means taller. Hand low means shorter. Flat means the same.
 - **s2 (11 min)**  
   *Parent does:* Take turns reading the cards. Everyone shows a hand sign. Read the back aloud.  
-  *Parent says:* A woman of 30, and the same woman at 40. Show me! Now let's read the back.  
+  *Parent says:* A woman of 30, and the same woman at 40. Is she taller, shorter or the same at 40? Show me! Now let's read the back.  
   *Child mode:* Read a card. Show your hand. Read the back.
   - Ask: Which people on the cards had stopped getting taller? (good: The woman of 30 and the man of 20.; Grown-ups, because adults have stopped getting taller.)
   - Note: Let your child explain each answer in their own words before you turn the card.
 - **s3 (2 min)**  
   *Parent does:* Count the points and talk.  
-  *Parent says:* Which people on the cards were still growing? Which had stopped?  
-  *Child mode:* Count your points. Who was still growing?
+  *Parent says:* Let's count the points. Who got the most?  
+  *Child mode:* Count your points.
   - Check: Which of these people is still growing taller? → **A girl of 9**
 ### g2 · Grow to Grown-up: a board game (20 min)
 - **rules:** Each player puts a button or a coin on Start. Put the growing cards face down in a pile.; On your turn, roll a dice and move that many squares. If you have no dice, write 1, 2 and 3 on three small papers, fold them, and pick one each turn.; If you land on square 3, 6, 9, 12, 15 or 18 by moving, take a growing card and do what it says. If a card moves you onto another card square, do not take a second card. You cannot move back past Start.; When the card pile is finished, mix the used cards and make a new pile.; The first player to reach or pass Finish has grown up and wins. The others keep playing until everyone has grown up.
 - **Printable board: A track of 20 squares to draw on paper:** Start: newborn, 50 cm; Square 1; Square 2; Square 3: 1 year old, 75 cm. Take a card; Square 4; Square 5; Square 6: toddler. Take a card; Square 7; Square 8; Square 9: 7 years old, about 120 cm. Take a card; Square 10; Square 11; Square 12: Take a card; Square 13: teenager; Square 14; Square 15: Take a card; Square 16; Square 17; Square 18: Take a card; Finish: grown-up, about 155 cm
 - **Printable cards: 12 growing cards to cut out:** Babies grow about 25 centimetres in their first year, faster than at any other time. Move 3 squares.; In deep sleep your body makes growth hormone, which helps bones grow. You slept well. Move 1 square.; You ate dal, rice and greens. Your body built new bone. Move 1 square.; You had a fever for a week. Growing slowed down. Miss a turn.; Growth spurt! Many teenagers grow very fast for a year or two. Move 3 squares.; Children lose their first milk tooth at about 6 or 7 years. Move 1 square.; A whole year of slow, steady growing: about 6 centimetres. Move 1 square.; You stood and played all day. The discs in your backbone were squashed a little. Move back 1 square.; You slept all night. The discs in your backbone filled up again. Move 1 square.; You grew out of your school uniform. Move 1 square.; You drank milk and ate ragi. Your body built new bone and muscle. Move 1 square.; A grown-up measured you and drew a new line on the door. Move 1 square.
 - **s1 (4 min)**  
-  *Parent does:* Draw the track of 20 squares on paper. Cut out the growing cards and put them face down.  
-  *Parent says:* This is a life, from a newborn to a grown-up. Let's draw it.  
-  *Child mode:* Draw 20 squares. Write Start and Finish. Put the cards in a pile.
+  *Parent does:* Draw the track of 20 squares on paper, or lay out 20 small pieces of paper in a winding line. Cut out the growing cards and put them face down.  
+  *Parent says:* This is a life, from a newborn to a grown-up. Let's make the track.  
+  *Child mode:* Help make the 20 squares. Mark Start and Finish. Put the cards in a pile.
 - **s2 (13 min)**  
   *Parent does:* Play. Read each growing card aloud when someone takes one.  
   *Parent says:* You landed on square 6. Take a growing card. What does it say?  
@@ -198,7 +198,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s3 (3 min)**  
   *Parent does:* Talk about the game.  
   *Parent says:* Which card helped you grow the most? Which slowed you down? Is that true in real life?  
-  *Child mode:* Which card helped you grow most?
+  *Child mode:* Pick the card that helped you grow most.
 
 ## Experiments
 ### e1 · Bedtime Tall, Morning Tall: are you taller when you wake up? (25 min, 2 days)
@@ -209,9 +209,9 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **results table:** Person | Bedtime mark (blue) | Morning mark (red) | Which mark is higher? | How many millimetres apart?
 - **schedule:** day 1: At bedtime: tape the strip on the wall, guess, then mark everyone's height three times in blue. (12 min); day 2: In the morning, as soon as you get up: mark everyone again in red. Then measure the gaps and talk about them. (13 min)
 - **s1 (3 min)**  
-  *Parent does:* Ask your child the question, and wait for a guess and a reason. Write the guess at the top of the strip.  
+  *Parent does:* Ask your child the question, and wait for a guess and a reason. Write the guess on a scrap of paper, to look at in the morning.  
   *Parent says:* Tonight we will measure you. Tomorrow morning we will measure you again. Will you be taller, shorter or the same? Why do you think so?  
-  *Child mode:* Guess. In the morning, will you be taller, shorter or the same? Why?
+  *Child mode:* Guess: in the morning, will you be taller, shorter or the same?
   - Ask: Why do you think so? (good: The same, because I do not grow in one night.; Taller, because I grow while I sleep.; Shorter, because I am tired in the morning.)
   - Note: Any guess is fine, as long as there is a reason. Do not say what will happen.
 - **s2 (3 min)**  
@@ -233,13 +233,13 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s5 (5 min)**  
   *Parent does:* 1. Look at the blue and red lines for each person. 2. Put the ruler's zero on the middle blue line. 3. Count the tiny lines up to the middle red line. Each tiny line is one millimetre. 4. Write the numbers in the table.  
   *Parent says:* Which line is higher, the blue one or the red one? Let's count the tiny lines between them. Each one is a millimetre.  
-  *Child mode:* Which line is higher? Count the tiny lines between them.
+  *Child mode:* Count the tiny lines between the blue line and the red line.
   - Ask: Who changed the most? (good: The grown-up changed more than me.)
   - Note: Usually the red morning line is higher, often by 4 to 10 millimetres for a child, and often more for a grown-up. If the lines are the same for your child, look at the grown-up's lines. Then try again tomorrow night, standing very still and pressing the book firmly.
 - **s6 (3 min)**  
   *Parent does:* Ask your child what they think, what they saw, and why it happened.  
   *Parent says:* Was your guess right? You did not grow a whole centimetre in one night. So why was the morning line higher?  
-  *Child mode:* Was your guess right? Why was the red line higher?
+  *Child mode:* Look at your guess. Was it right?
   - Ask: Why was the morning line higher? (good: Something in me got squashed in the day and came back at night.; Lying down all night made me longer.)
   - Note: A strong answer uses the lines: 'My red line was 6 millimetres higher than my blue line.' Now read the card on why you are taller in the morning.
   - Check: You are measured at bedtime and again the next morning. What usually happens? → **You are a little taller in the morning**
@@ -252,7 +252,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s1 (2 min)**  
   *Parent does:* Ask for a guess and a reason.  
   *Parent says:* Stretch your arms out wide. Is that longer than you are tall, or shorter, or the same? Why do you think so?  
-  *Child mode:* Stretch your arms wide. Is that longer than you are tall? Why?
+  *Child mode:* Stretch your arms wide. Guess: is that longer, shorter or the same as your height?
   - Ask: Why do you think so? (good: Longer, because my arms look long.; Shorter, because I am tall.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child stands with their back to the wall, arms straight out at shoulder height. 2. A grown-up holds the string end at one middle fingertip. 3. Stretch the string to the other middle fingertip and cut it. 4. Label it 'arm span'.  
@@ -272,7 +272,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s5 (2 min)**  
   *Parent does:* Talk about what you found.  
   *Parent says:* Was your guess right? Whose two strings were closest, and whose were furthest apart?  
-  *Child mode:* Was your guess right? Are your two strings close?
+  *Child mode:* Look at your two strings. Are they close in length?
   - Check: You measure the arm span and the height of everyone in a family. What will you most likely find? → **Arm span and height are close for most people**
 
 ## Activities
@@ -285,18 +285,18 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s2 (5 min)**  
   *Parent does:* Your child tries them on. Look together at the sleeves, the length, the waist and the chappal heels.  
   *Parent says:* Where is it too short? Where is it too tight? Show me with your finger.  
-  *Child mode:* Put them on. Where are they too short? Where are they tight?
+  *Child mode:* Put them on. Point to the places that are too short or too tight.
   - Ask: Which part of you grew the most? (good: My arms. The sleeves are short.; My legs. The frock is too short now.; My feet stick out of the chappals.)
   - Note: Most children find the sleeves and the length too short. Arms and legs grow a lot in childhood.
 - **s3 (3 min)**  
   *Parent does:* Talk about it.  
   *Parent says:* You grew all this, but you never saw yourself grow. How did the clothes show it?  
-  *Child mode:* You did not see yourself grow. How did the clothes show it?
+  *Child mode:* Think about how the old clothes show that you grew.
   - Check: A girl of 7 tries on a frock she wore when she was 4. The sleeves stop above her wrists. What does this show? → **Her arms have grown longer**
 ### a2 · Feet in a Row: is the oldest foot the biggest? (15 min)
 - **record:** Glue or tape the feet in a row on the floor or in your notebook, with names and ages.
 - **s1 (7 min)**  
-  *Parent does:* 1. Each person stands barefoot on paper. 2. Your child draws round the foot. 3. Cut out each outline and write the name and age on it.  
+  *Parent does:* 1. Each person stands barefoot on paper. 2. Your child draws round the foot, or a grown-up does. 3. Cut out each outline and write the name and age on it.  
   *Parent says:* Stand still while I draw round your foot. Now you draw round mine.  
   *Child mode:* Draw round each person's foot. Cut it out. Write their name and age.
 - **s2 (4 min)**  
@@ -314,16 +314,16 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s1 (4 min)**  
   *Parent does:* Wrap three 1-kilogram packets in the towel. Give the bundle to your child to hold.  
   *Parent says:* Most babies weigh about 3 kilograms when they are born. Hold this bundle. That is how heavy you were.  
-  *Child mode:* Hold the bundle. You were about this heavy when you were born.
+  *Child mode:* Hold the bundle carefully, like a baby.
 - **s2 (4 min)**  
   *Parent does:* If you have a bathroom scale, weigh your child. If not, ask how many packets they think they weigh.  
-  *Parent says:* How many packets do you think you weigh now? Let's check.  
-  *Child mode:* How many packets do you weigh now? Guess, then check.
+  *Parent says:* How many of these 1-kilogram packets do you think you weigh now? Let's check.  
+  *Child mode:* Guess how many packets you weigh. Then check.
   - Note: Many 7-year-olds weigh about 18 to 25 kilograms, so about 6 to 8 times their birth weight. Every child is different. Do not compare children's weights in a way that hurts.
 - **s3 (2 min)**  
   *Parent does:* Talk about it.  
   *Parent says:* Where did all that extra weight come from?  
-  *Child mode:* Where did all your extra weight come from?
+  *Child mode:* Think about how your body got so much bigger.
   - Ask: Where did it come from? (good: From food and milk.; My body made it out of the food I ate.)
 ### a4 · My Birth Numbers: ask the family (10 min)
 - **record:** Tape your birth-length string on a sheet of paper and write: 'I was ___ centimetres long. Now I am ___ centimetres. I am ___ baby strings long.'
@@ -338,8 +338,8 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Child mode:* Lie down next to the string. That is how long you were.
 - **s3 (2 min)**  
   *Parent does:* Your child stays lying down. Move the birth-length string along the floor beside them, end to end, from feet to head. Count how many string lengths it takes.  
-  *Parent says:* How many of these baby strings does it take to make you now?  
-  *Child mode:* How many baby strings make you now?
+  *Parent says:* How many of these baby strings fit end to end along you now?  
+  *Child mode:* Count how many baby strings fit from your feet to your head.
   - Ask: How many? (good: More than two.; Two and a bit.)
   - Note: A child of 120 centimetres is a bit more than two 50-centimetre strings.
 
@@ -349,8 +349,8 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **schedule:** day 1: Tape the chart on the wall. In the morning, measure your height. Draw a line and write the date. (10 min); day 31: In the morning, measure again. Draw a line, write the date, and measure the gap from last month. (10 min); day 61: Measure for the third time. Measure how much you grew in two months, and guess how much you will grow in a year. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Tape the strip so it does not move. 2. In the morning, measure your child the same way as in the Bedtime Tall, Morning Tall experiment: barefoot, against the wall, with a flat book on the head. 3. Draw a line and write the date and the time.  
-  *Parent says:* We will measure you once a month, always in the morning. Why do we always choose the morning?  
-  *Child mode:* Stand straight. Draw your line. Write the date.
+  *Parent says:* We will measure you once a month, always in the morning.  
+  *Child mode:* Stand straight and still against the wall. Then write the date next to your line.
   - Ask: Why do we always measure in the morning? (good: Because I am taller in the morning, so it must be the same time each month.)
 - **s2 (10 min)**  
   *Parent does:* One month later, measure again in the morning. Measure the gap between the lines in millimetres.  
@@ -375,7 +375,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s1 (3 min)**  
   *Parent does:* Read the challenge with your child.  
   *Parent says:* Babies cannot stand up, and they wriggle. How do you think nurses measure them?  
-  *Child mode:* Babies cannot stand. How can we measure them lying down?
+  *Child mode:* Think about how to measure someone who is lying down.
 - **s2 (12 min)**  
   *Parent does:* Your child builds a way to measure, and measures the toy three times.  
   *Parent says:* Try your idea. Measure three times. Are the answers the same?  
@@ -384,7 +384,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - **s3 (5 min)**  
   *Parent does:* Compare the three answers and improve the design.  
   *Parent says:* Were your three answers the same? What made them different?  
-  *Child mode:* Were your answers the same? What can you change?
+  *Child mode:* Look at your three numbers. Change one thing to make them match.
   - Check: You measure a doll three times and get 30, 34 and 31 centimetres. What should you do? → **Find out what changed, and make your way of measuring the same each time**
 
 ## Worksheets

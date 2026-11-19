@@ -830,7 +830,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Your child stays lying down. Move the birth-length string along the floor beside them, end to end, from feet to head. Count how many string lengths it takes.",
-     "say": "How many of these baby strings does it take to make you now?",
+     "say": "How many of these baby strings fit end to end along you now?",
      "kid": "Count how many baby strings fit from your feet to your head.",
      "ask": [
       {
