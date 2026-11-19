@@ -283,7 +283,7 @@
    "title": "The Foil Bowl: can dark silver shine again without rubbing?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you put a dark silver anklet, toe ring or coin into hot soda water twice: once with no foil, then on foil. You see which bowl takes the black away.",
+   "context": "In this experiment you put a dark silver anklet, toe ring or coin into hot soda water twice: once with no foil, then on foil. You find out if dark silver can shine again without any rubbing.",
    "question": "A dark silver thing sits in hot water with cooking soda. Will the black go away? Does it matter if the silver touches aluminium foil?",
    "predict": "Will the black go away in the bowl with no foil, in the bowl with foil, in both or in neither? Why do you think so?",
    "fair_test": "We use the same silver thing in both bowls, the same soda and salt, and the same amount of water from the same pan, poured hot just before the silver goes in. The silver stays 5 minutes in each. Only one thing changes: foil or no foil. So any difference comes from the foil.",
@@ -335,7 +335,7 @@
      "what": "Look at the dark silver and guess what will happen. Then put it in the bowl with no foil for five minutes, and in the bowl with foil for five minutes, and compare."
     }
    ],
-   "record": "Draw the silver three times: before the test, after the bowl with no foil, and after the bowl with foil. Colour each drawing the colour you saw.",
+   "record": "Take a photo of the silver three times: before the test, after the bowl with no foil, and after the bowl with foil. Or draw it each time, and colour each drawing the colour you saw.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, with a dark silver toe ring",
@@ -384,7 +384,7 @@
      "mins": 3,
      "do": "1. Put the dark silver on a steel plate. 2. Your child looks at it closely and touches it. 3. Ask what the dark colour might be.",
      "say": "This was bright silver once. Now it is dark. What do you think the dark part is? Where did it come from?",
-     "kid": "Look at the dark silver. It was shiny once. What is the dark part?",
+     "kid": "Look closely at the dark silver and touch it. It was shiny once.",
      "ask": [
       {
        "q": "What do you think the dark part is?",
@@ -400,9 +400,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Show both bowls, one lined with foil. 2. Ask for a guess and a reason. 3. Write the guesses in the table.",
-     "say": "Both bowls will get hot water with soda. One has foil in it. In which bowl will the dark go away? Why do you think so?",
-     "kid": "Both bowls get hot soda water. One has foil. In which bowl will the dark go away? Why?",
+     "do": "1. Show the two empty bowls and the foil. 2. Ask for a guess and a reason. 3. Write the guesses in the table.",
+     "say": "Both bowls will get hot water with soda. One will have foil in it. In which bowl will the dark go away?",
+     "kid": "Point to the bowl where you think the dark will go away.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -427,9 +427,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. A grown-up pours 1 cup of hot water into the bowl with no foil, and lowers the silver in with a spoon. 2. Start a 5-minute timer. 3. Your child watches and draws the silver as it is now.",
-     "say": "Watch the silver closely. Is the dark going away? Draw it while we wait.",
-     "kid": "Watch the silver in the bowl with no foil. Draw it. Is it changing?",
+     "do": "1. A grown-up pours 1 cup of hot water into the bowl with no foil, and lowers the silver in with a spoon. 2. Start a 5-minute timer. 3. Your child watches and tells you the colour of the silver now. Take a photo for later.",
+     "say": "Watch the silver closely. Is the dark going away? What colour is it now?",
+     "kid": "Watch the silver in the bowl with no foil. Tell your grown-up its colour.",
      "adult": true,
      "parent": "The fizz is gas let out by the soda in the hot water, and it settles quickly. Usually very little happens in this bowl. The silver stays dark. That is the result we need, so let your child see it clearly."
     },
@@ -446,8 +446,8 @@
      "id": "s6",
      "mins": 5,
      "do": "1. A grown-up lifts the silver out and rinses it under the tap. 2. Dry it with a cloth. 3. Your child says what they think, what they saw and why.",
-     "say": "What happened? Which bowl took the dark away? Why do you think the foil mattered?",
-     "kid": "Which bowl made the silver shine? What did you see? Why do you think that happened?",
+     "say": "What happened in each bowl? Why do you think the foil mattered?",
+     "kid": "Tell your grown-up what you saw in each bowl.",
      "ask": [
       {
        "q": "The soda water was the same in both bowls. So what made the difference?",
@@ -486,7 +486,7 @@
    "title": "Tamarind or Water: which brings back the shine on brass?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you rub one half of a dull brass or copper thing with tamarind and the other half with plain water. You see which half shines.",
+   "context": "In this experiment you rub one half of a dull brass or copper thing with tamarind and the other half with plain water. You find out why people clean brass lamps with tamarind.",
    "question": "A brass lamp or copper vessel has gone dull and brown. Will rubbing with tamarind pulp or with plain water bring back the shine?",
    "predict": "Which half will shine more: the tamarind half, the water half, or will they be the same? Why do you think so?",
    "fair_test": "We use one dull brass or copper thing, so both halves are the same metal. We rub both halves 20 times with the same cloth, pushing just as hard each time. Only one thing changes: tamarind or plain water.",
@@ -524,7 +524,7 @@
      "what": "Soak the tamarind, then rub each half 20 times and compare the shine."
     }
    ],
-   "record": "Draw the brass thing with its two halves. Colour the shiny half and the dull half.",
+   "record": "Take a photo of the two halves side by side. Or draw the brass thing, and colour the shiny half and the dull half.",
    "setup": [
     {
      "art": "A dull brown brass lamp on newspaper, with a paper strip tied around its middle to mark two halves.",
@@ -544,8 +544,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Put the tamarind in warm water to soak. 2. Put the brass thing on newspaper and mark two halves with a paper strip. 3. Ask for a guess and a reason.",
-     "say": "This brass was shiny once. One half gets tamarind. The other gets plain water. Which will shine? Why do you think so?",
-     "kid": "One half gets tamarind. One half gets water. Which will shine? Why?",
+     "say": "This brass was shiny once. One half gets tamarind. The other gets plain water. Which half will shine?",
+     "kid": "Point to the half you think will shine.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -569,16 +569,16 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Rinse the whole thing under the tap. 2. Dry it with a clean cloth. 3. Hold it in the light and compare the halves.",
-     "say": "Look at both halves in the light. Which one shines? What colour is it now?",
-     "kid": "Rinse it. Dry it. Which half shines?",
+     "say": "Look at both halves in the light. What colour is each one now?",
+     "kid": "Point to the half that shines more.",
      "parent": "The tamarind half usually turns bright, often a pinkish gold on copper and a yellow gold on brass. The water half stays dull. If neither half changes, the brass may have a clear coating (lacquer) on it. Try another brass or copper thing."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child to say what they think, what they saw and why. Then compare it with the Foil Bowl experiment.",
-     "say": "Why did tamarind work but not water? In the Foil Bowl experiment, the silver stayed and only the sulfur left. Here, where did the dull layer go?",
-     "kid": "Why did tamarind work? Where did the dull layer go?",
+     "do": "Ask your child to say what they saw and why. Then compare it with the Foil Bowl experiment.",
+     "say": "Tamarind worked and water did not. Why do you think so? Remember the Foil Bowl, where the silver stayed and only the sulfur left.",
+     "kid": "Tell your grown-up what you saw on each half.",
      "ask": [
       {
        "q": "Where did the dull layer go?",
@@ -612,7 +612,7 @@
    "title": "The Element Hunt: what at home is made of just one element?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you hunt around the home for things made mostly of one element. Then you count how many you found, and how many things are made of many elements.",
+   "context": "In this activity you hunt around the home for things made mostly of one element. You find out how many things around you are made of just one element.",
    "materials": [
     {
      "item": "a steel plate or tray to collect things on",
@@ -657,16 +657,17 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Your child collects things on a tray. 2. Give clues for the ones that are hard to find.",
-     "say": "Find a pencil, something copper, and something silver or gold. Bring salt, sugar and a steel spoon too.",
-     "kid": "Find foil, a pencil, something copper and something silver or gold. Bring salt, sugar and a steel spoon too.",
+     "say": "Go and collect things from around the home. I will give you clues if you get stuck.",
+     "kid": "Bring back foil, a pencil, salt, sugar and a steel spoon. Find something copper, and something silver or gold.",
      "parent": "Mostly one element: aluminium foil, the copper bottom of a vessel or a copper wire, a silver coin or anklet, a gold ornament (22-carat gold is mostly gold, with a little copper or silver). Two or more elements: a pencil (carbon and clay in the core, and wood), salt, sugar, water, a steel spoon, a brass lamp, plastic, paper. It is fine if you cannot find everything. Do not let your child take apart any cable or plug."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "1. Name each thing together. 2. Your child puts it in the One element column or the Two or more column.",
-     "say": "Salt is two elements joined: sodium and chlorine. A steel spoon is iron mixed with others. Which column?",
+     "say": "Pick up one thing at a time. Which column does it go in? Why?",
      "kid": "Put each thing in a column. One element, or two or more?",
+     "parent": "Salt is sodium and chlorine joined. A steel spoon is iron mixed with other elements. Tell your child these only after they choose.",
      "ask": [
       {
        "q": "Where does a pencil go?",
@@ -680,9 +681,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Count each column. 2. Ask which column is longer, and why.",
-     "say": "How many in each column? Which is longer? Why do you think most things are made of two or more elements?",
-     "kid": "Count each column. Which has more?",
+     "do": "1. Count each column. 2. Ask which column has more things.",
+     "say": "Let's count each column. How many things are in each?",
+     "kid": "Which column has more things?",
      "check": {
       "t": "mcq",
       "q": "Why were more things in the Two or more column?",
@@ -703,14 +704,14 @@
    "title": "Dot Pictures: draw an element and a mix",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw what you would see if you could zoom in on gold, water and salt. Each kind of atom gets its own colour of dot.",
+   "context": "In this activity you draw what you would see if you could zoom in on gold, water and salt. Each kind of atom gets its own colour of dot. You find out how a picture of an element differs from a picture of joined elements.",
    "materials": [
     {
      "item": "paper",
      "qty": 1
     },
     {
-     "item": "crayons or sketch pens in at least five colours",
+     "item": "crayons or sketch pens in at least five colours, or small things in five kinds, such as lentils, rice, beads and buttons",
      "qty": 1
     }
    ],
@@ -721,7 +722,7 @@
      "what": "Draw three zoomed-in circles with coloured dots: gold, water and salt."
     }
    ],
-   "record": "Three circles: one of all-yellow dots, one of red and blue dot groups, one of green and purple dots in rows, each labelled.",
+   "record": "Three circles, drawn or made from small things: one of all-yellow dots, one of red and blue dot groups, one of green and purple dots in rows, each labelled.",
    "setup": [
     {
      "art": "A sheet with three big empty circles labelled gold, water and salt, and a row of crayons.",
@@ -736,22 +737,22 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Draw three big circles. 2. Label them gold, water and salt.",
+     "do": "1. Draw three big circles, or set out three plates. 2. Label them gold, water and salt.",
      "say": "These circles are like a magic magnifying glass. They show the atoms inside each thing.",
-     "kid": "Draw three big circles. Write gold, water and salt."
+     "kid": "Make three big circles. Write gold, water and salt."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child fills the gold circle with yellow dots only, packed close.",
-     "say": "Gold is an element. It has just one kind of atom. So what colour dots go in the gold circle?",
-     "kid": "Gold has one kind of atom. Use only yellow dots. Pack them close.",
+     "do": "1. Your child fills the gold circle with yellow dots only, or one kind of small thing, packed close.",
+     "say": "Gold is an element. It has just one kind of atom. So how many colours of dots go in the gold circle?",
+     "kid": "Gold has one kind of atom. Use only one colour. Pack the dots close.",
      "parent": "Packed close shows that gold is a solid. In a real gold ring there are far more atoms than anyone could ever draw."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Water: draw small groups of one red dot with two blue dots stuck to it. 2. Salt: draw green and purple dots taking turns in rows.",
+     "do": "1. Water: make small groups of one red dot with two blue dots stuck to it. 2. Salt: make green and purple dots taking turns in rows. Beads or lentils work as dots too.",
      "say": "Water is oxygen and hydrogen joined. Use red for oxygen and blue for hydrogen. Salt is sodium and chlorine, taking turns in rows.",
      "kid": "Water: one red dot and two blue dots, stuck together. Salt: green and purple dots, taking turns.",
      "parent": "In water, each group of three is one tiny bit of water. In salt, the two kinds of atoms sit in a neat grid, which is why salt grains have flat sides."
@@ -759,9 +760,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask the questions below.",
-     "say": "Which circle has only one colour? That one is the element. How are the other two different?",
-     "kid": "Which circle has one colour? That is the element.",
+     "do": "Ask the question below.",
+     "say": "Look at your three circles. How many colours are in each one?",
+     "kid": "Count the colours in each circle.",
      "ask": [
       {
        "q": "Which circle shows an element?",
@@ -779,7 +780,7 @@
    "title": "The Pencil Mystery: is there lead in a pencil?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you look closely at what a pencil leaves on paper. You find out that it is carbon, not lead.",
+   "context": "In this activity you look closely at what a pencil leaves on paper. You find out what the black part of a pencil really is.",
    "materials": [
     {
      "item": "a soft pencil, such as 2B or HB",
@@ -833,8 +834,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Tell your child how pencil lead got its name: people long ago thought the black stuff was the metal lead. Then ask the question below.",
-     "say": "People once called this black stuff lead. A chemist tested it and found it was carbon. So why do we still say pencil lead?",
-     "kid": "It is not lead. It is carbon. Why do we still call it lead?",
+     "say": "People once thought this black stuff was the metal lead. A chemist later tested it and found it was carbon.",
+     "kid": "Listen. Then tell your grown-up: is there real lead in your pencil?",
      "ask": [
       {
        "q": "Why do we still say pencil lead?",
@@ -853,7 +854,7 @@
    "title": "The Ornament Survey: which ones go dark?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you ask the grown-ups in your home or building about their oldest ornaments. You count which ones have stayed shiny and which have gone dark.",
+   "context": "In this activity you ask the grown-ups in your home or building about their oldest ornaments. You count which ones have stayed shiny and which have gone dark. You find out which metals stay shiny for years.",
    "materials": [
     {
      "item": "a sheet of paper with three columns (Gold, Silver, Other metal) and two rows (Shiny, Dark)",
@@ -888,7 +889,7 @@
      "mins": 8,
      "do": "1. Your child asks two or three grown-ups to show an old ornament. 2. They ask how old it is, and if it has gone dark. 3. They make a tally mark.",
      "say": "Ask: What is your oldest ornament? Is it gold or silver? Has it gone dark?",
-     "kid": "Ask a grown-up: what is your oldest ornament? Is it gold or silver? Is it dark?",
+     "kid": "Ask your questions. Make a tally mark for each ornament.",
      "parent": "Fake gold, plated jewellery and German silver are not real gold or silver. Put them in Other metal. If nobody at home has old ornaments, ask a neighbour or a relative."
     },
     {
@@ -896,7 +897,7 @@
      "mins": 7,
      "do": "1. Count the tally marks. 2. Ask the questions below.",
      "say": "Look at your tallies. Which kind of ornament stays shiny? Which goes dark?",
-     "kid": "Count your marks. Which ones stay shiny?",
+     "kid": "Count your marks in each column.",
      "ask": [
       {
        "q": "What do you notice about the gold ornaments compared with the silver ones?",
@@ -927,7 +928,7 @@
    "title": "Element or Not? A card sorting game",
    "mins": 15,
    "players": "2 to 4 players (a parent and a child are enough)",
-   "context": "This is a sorting game. Each card names something. Players decide if it is one element, or two or more elements, then turn the card over to check.",
+   "context": "This is a sorting game. Each card names something. Players decide if it is one element, or two or more elements, then turn the card over to check. You find out which things are one element and which are not.",
    "printables": [
     {
      "kind": "cards",
@@ -1043,15 +1044,15 @@
      "mins": 10,
      "do": "1. Take turns reading a card and putting it on a half. 2. Turn it over to check. 3. Talk about any surprises.",
      "say": "Read your card. One element, or two or more? Why do you think so?",
-     "kid": "Read a card. Is it one element, or two or more? Say why.",
+     "kid": "Read the top card. Put it on a half. Say why.",
      "parent": "Children are often surprised that water, salt and steel are not elements, and that a diamond is. Ask them how they decided."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the cards left on the mat, then ask the question below.",
-     "say": "These cards stayed on the mat because someone guessed wrong. What is the right answer for each one? Why do you think most things are made of two or more elements?",
-     "kid": "Look at the cards left on the mat. What is the right answer for each one?",
+     "do": "Ask which card surprised them most, then ask the question below.",
+     "say": "Which card surprised you most? Why?",
+     "kid": "Pick the card that surprised you most. Tell your grown-up why.",
      "check": {
       "t": "mcq",
       "q": "A steel tumbler is…",
@@ -1071,7 +1072,7 @@
    "title": "Where Do I Live? An element memory game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game. Each pair is an element and a place where you can find it. Find the pairs.",
+   "context": "This is a memory game. Each pair is an element and a place where you can find it. You find out where elements hide at home.",
    "printables": [
     {
      "kind": "cards",
@@ -1134,8 +1135,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the question below.",
-     "say": "Which element did you find most places for?",
-     "kid": "Which element did you find the most places for?",
+     "say": "Which element did you find the most places for? Tell me them all.",
+     "kid": "Pick one element. Name every place you found it.",
      "check": {
       "t": "mcq",
       "q": "A balloon that floats up is filled with which element?",
@@ -1157,7 +1158,7 @@
    "title": "My Element Book: one element a day",
    "mins": 36,
    "days": 5,
-   "context": "In this project you make a small book with one page for each element. Each day you find, draw and write about one element.",
+   "context": "In this project you make a small book with one page for each element. Each day you find one element, show it and write about it. By day five you have your own element book to read to someone.",
    "materials": [
     {
      "item": "6 sheets of paper, folded and stapled into a book: a cover and five pages",
@@ -1172,17 +1173,17 @@
     {
      "day": 1,
      "mins": 6,
-     "what": "Gold: draw a gold ornament at home. Write one thing about gold, such as why it stays shiny."
+     "what": "Gold: draw or take a photo of a gold ornament at home. Write one thing about gold, such as why it stays shiny."
     },
     {
      "day": 2,
      "mins": 6,
-     "what": "Silver: draw something silver. Write what makes it go dark."
+     "what": "Silver: draw something silver, or stick a note about where you saw it. Write what makes it go dark."
     },
     {
      "day": 3,
      "mins": 6,
-     "what": "Iron: draw an iron tawa or gate. Write what makes it rust."
+     "what": "Iron: list three iron things you can find at home. Write what makes iron rust."
     },
     {
      "day": 4,
@@ -1192,10 +1193,10 @@
     {
      "day": 5,
      "mins": 12,
-     "what": "Oxygen: draw yourself breathing. Write one fact about oxygen. Make a cover and read the whole book together."
+     "what": "Oxygen: breathe in and out ten times and count. Write one fact about oxygen. Make a cover and read the whole book together."
     }
    ],
-   "record": "A five-page book, with a drawing, the element's name and one sentence on each page.",
+   "record": "A five-page book, with the element's name, one sentence, and a drawing, photo or list on each page.",
    "setup": [
     {
      "art": "Six sheets of paper folded and stapled into a small book, with Gold written on the first page.",
@@ -1203,23 +1204,23 @@
     },
     {
      "art": "An open page with a drawing of gold earrings and the sentence 'Gold stays shiny for hundreds of years'.",
-     "caption": "2. Each day, draw one element and write one sentence."
+     "caption": "2. Each day, find one element. Draw it or stick a photo, and write one sentence."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "do": "Each day, your child finds that day's element at home, draws it and writes one sentence.",
-     "say": "Today's element is gold. Where do we have gold? Draw it. What is one thing you know about gold?",
-     "kid": "Find today's element. Draw it. Write one thing about it."
+     "do": "Each day, your child finds that day's element at home, shows it on the page and writes one sentence.",
+     "say": "Name today's element, for example gold. Where do we have it at home? What is one thing you know about it?",
+     "kid": "Find today's element. Draw it, take a photo or make a list. Write one thing about it."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "On day 5, make a cover and read the whole book together.",
-     "say": "Read me your book. Which of your five elements is a gas? Which ones are metals?",
-     "kid": "Make a cover. Read your book out loud. Which element is a gas? Which are metals?",
+     "say": "Read me your book. Which of your five elements are metals?",
+     "kid": "Make a cover. Read your book out loud. Point to the metals.",
      "check": {
       "t": "mcq",
       "q": "Which element in your book is a gas?",
@@ -1280,7 +1281,7 @@
      "mins": 5,
      "do": "1. Talk about what makes silver go dark. 2. Your child thinks of ways to keep sulfur away.",
      "say": "Silver goes dark when sulfur in the air reaches it. How could we stop the air reaching the silver?",
-     "kid": "Sulfur in the air makes silver dark. How can you keep the air away?"
+     "kid": "Think of ways to keep the air away. Tell your grown-up your ideas."
     },
     {
      "id": "s2",
@@ -1295,7 +1296,7 @@
      "mins": 5,
      "do": "1. After a week, or after a day if you used egg yolk, compare the two silver things. 2. Your child says which way worked and why.",
      "say": "Which one stayed brighter? Why do you think your box worked, or did not?",
-     "kid": "Which one is brighter? Why?",
+     "kid": "Look at both silver things. Point to the brighter one.",
      "wait": "Leave it for one week, or one day if you used egg yolk.",
      "check": {
       "t": "mcq",

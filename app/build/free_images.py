@@ -10,11 +10,13 @@ Only public domain, CC0 and CC BY pictures are offered (never share-alike, non-c
       ("house crow", "neem tree", "honey bee").
   python3 app/build/free_images.py slot <unit id> <key> <id from a search>
       a picture for a card in the unit player (key as in fxImg: term.0, expl.2, setup.e1.0, flow.e1, intro…),
-      saved to app/content/media/img/<unit id>/<key>.jpg and recorded in <unit id>.art.json with its credit
+      saved to app/content/media/img/<unit id>/<key>.webp and recorded in <unit id>.art.json with its credit
   python3 app/build/free_images.py card <unit id> <game id> <printable no> <item no> <id from a search>
       a picture on a printed card's front, saved to app/content/media/cards/ and set as the item's img
       (a text item becomes {"f": text, "img": …})"""
 import fcntl, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import picture
 
 APP = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 API = 'https://commons.wikimedia.org/w/api.php'
@@ -139,7 +141,7 @@ def fetch(pid, dst):
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     try:
         open(tmp, 'wb').write(fetch_url(x['big']))
-        subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', tmp, '-vf', 'scale=min(900\\,iw):-2', '-q:v', '5', dst], check=True)
+        picture.save(tmp, dst)
     finally:
         if os.path.exists(tmp): os.remove(tmp)
     return x
@@ -164,8 +166,8 @@ def main(a):
         f = unit_file(uid)[:-5] + '.art.json'
         art = json.load(open(f)) if os.path.exists(f) else {}
         if key in art: raise SystemExit(f'{key} already has a picture; leave it')
-        x = fetch(title, os.path.join(APP, 'content', 'media', 'img', uid, key + '.jpg'))
-        art[key] = {'src': f'media/img/{uid}/{key}.jpg', 'credit': x['credit']}
+        x = fetch(title, os.path.join(APP, 'content', 'media', 'img', uid, key + '.webp'))
+        art[key] = {'src': f'media/img/{uid}/{key}.webp', 'credit': x['credit']}
         json.dump(dict(sorted(art.items())), open(f, 'w'), indent=1, ensure_ascii=False)
         print('ok', key, x['credit'])
     elif a[0] == 'card':

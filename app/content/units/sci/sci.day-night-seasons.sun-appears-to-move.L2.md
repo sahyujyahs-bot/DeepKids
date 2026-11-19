@@ -200,7 +200,7 @@ Kutti was already lying in the new patch.
 - **Printable cards: 8 time cards for the caller, with where the Sun is on the back:** Sunrise (back: The Sun is very low, by the East sign. The shadow is very long and points to West.); 8 in the morning (back: The Sun is low in the east. The shadow is long and points west.); 10 in the morning (back: The Sun is higher in the east. The shadow is shorter, pointing west.); Noon (back: The Sun is high overhead. The shadow curls up at the person's feet.); 2 in the afternoon (back: The Sun is a little way towards the west. The shadow is short and points east.); 4 in the afternoon (back: The Sun is lower in the west. The shadow is longer, pointing east.); Sunset (back: The Sun is very low, by the West sign. The shadow is very long and points to East.); Midnight (back: There is no Sun in the sky, so there is no sunshine and no shadow from the Sun. The shadow player hides.)
 - **Printable cards: 2 signs for the walls:** EAST; WEST
 - **s1 (2 min) · grown-up needed**  
-  *Parent does:* 1. Tape up the signs. 2. Move furniture so there is space on the floor. 3. Choose who stands and who is the shadow.  
+  *Parent does:* 1. Tape up the signs. 2. Move furniture so there is space on the floor. 3. Choose who stands and who is the shadow. 4. Get the paper Sun from The Sun on a Stick, or a yellow plate.  
   *Parent says:* One of you stands. The other is the shadow: lie on the floor with your feet touching your partner's feet.  
   *Child mode:* One of you stands. One of you is the shadow, on the floor.
   - Note: Clear the floor first, so nobody bumps into furniture.
@@ -222,12 +222,12 @@ Kutti was already lying in the new patch.
 - **predict:** Guess first. In 20 minutes, will the sun patch stay still, or move? If it moves, which way will it go? Why do you think so?
 - **fair test:** Nobody touches the window, the door or the curtain during the test. We always mark the same corner of the patch. We mark it every 5 minutes by the clock, so the gaps are the same. The same child measures in finger widths every time.
 - **safety:** Never look straight at the Sun. Look only at the patch of light on the floor.
-- **record:** Fill in the table. Draw the patch with five small numbered dots at its corner, from mark 1 to mark 5.
+- **record:** Fill in the table. Take a photo of the five coins on the floor, or draw the patch with five numbered dots.
 - **results table:** Clock time | Mark number | Finger widths from the first mark
 - **s1 (3 min)**  
   *Parent does:* 1. Find a sun patch on the floor, or on a wall. 2. Pick one corner of the patch that has a sharp edge. 3. Ask your child for a guess and a reason.  
   *Parent says:* Look at this patch of sunlight. Nobody will touch the window. In 20 minutes, will the patch stay here, or move? Why do you think so?  
-  *Child mode:* Look at the patch of sunlight. Will it stay still, or move? Why do you think so?
+  *Child mode:* Look at the patch of sunlight. Will it stay still, or move?
   - Ask: Why do you think so? (good: It will stay, because the window is not moving.; It will move, because the Sun moves.; It will move a little, because the shadows change in the day.)
   - Note: Any guess with a reason is a good start. Do not explain anything yet. If a curtain makes the edge fuzzy, use the sharp shadow of one grill bar or the window frame instead.
 - **s2 (2 min)**  
@@ -235,7 +235,7 @@ Kutti was already lying in the new patch.
   *Parent says:* Put this coin right at the corner of the patch. What is the time now? Write it next to mark 1.  
   *Child mode:* Put coin 1 right at the corner. Tell your grown-up the time to write down.
 - **s3 (20 min)**  
-  *Parent does:* 1. Every 5 minutes, your child puts the next coin at the same corner. 2. Write the time each time. 3. While you wait, read the story Kutti Follows the Sunshine aloud, or draw the patch.  
+  *Parent does:* 1. Every 5 minutes, your child puts the next coin at the same corner. 2. Write the time each time. 3. While you wait, read the story Kutti Follows the Sunshine aloud, or play a quiet game nearby.  
   *Parent says:* Five minutes have passed. Where is the corner now? Put the next coin there. Is it in the same place as before?  
   *Child mode:* Every 5 minutes, put the next coin at the corner. Is it moving?
   - Ask: Which way is the corner moving? (good: Towards the window.; Away from the window.; Sideways, towards the wall.; It is going the same way each time.)
@@ -244,26 +244,26 @@ Kutti was already lying in the new patch.
 - **s4 (5 min)**  
   *Parent does:* 1. Count the finger widths from coin 1 to coin 5. 2. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Count the finger widths from the first coin to the last. Nobody touched the window. So what made the patch move?  
-  *Child mode:* Count the finger widths from coin 1 to coin 5. What made the patch move?
+  *Child mode:* Count the finger widths from coin 1 to coin 5. Say what you saw.
   - Ask: What did you see? What do you think made the patch move? (good: The patch moved, even though nobody touched the window.; It moved the same way every time.; The sunlight is coming in at a new slant, because the Sun seems to move.)
   - Note: Let your child give a reason before you explain. Then read the card "Why the Sun seems to move: the Earth turns". It says that the Earth, with your home on it, is turning.
-  - Check: You mark a sun patch every 5 minutes. Nobody touches the window. What will you see? → **The patch moves a little each time**
+  - Check: You mark a sun patch every 5 minutes and nobody touches the window. What do you see? → **The patch moves a little each time**
 ### e2 · Shadow Footsteps: how long is your shadow in the morning, at noon and in the evening? (on a sunny terrace or in the building compound) (20 min)
 - **question:** Is your shadow the same length all day, or does it change between morning, noon and evening?
 - **predict:** Guess first. When will your shadow be longest: in the morning, at noon or in the evening? When will it be shortest? Why do you think so?
 - **fair test:** We stand on the same spot each time, with our back straight and our arms down. We count in the same child's footsteps, heel touching toe.
 - **safety:** Never look straight at the Sun. A grown-up comes along to the terrace or the compound. At noon in summer, keep each visit short, wear a cap and drink water.
-- **record:** Fill in the table, and draw yourself three times with your shadow, the right length and pointing the right way.
+- **record:** Fill in the table. Take a photo of yourself with your shadow each time, or draw yourself three times with the shadow the right length.
 - **results table:** Time | My guess: long or short? | My shadow in footsteps | It points towards
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the results table. 2. Ask for a guess and a reason for each time of day.  
+  *Parent does:* 1. Make the results table on paper. 2. Ask for a guess and a reason for each time of day.  
   *Parent says:* We will measure your shadow in footsteps three times today: morning, noon and evening. When will it be longest? Why do you think so?  
   *Child mode:* When will your shadow be longest? Morning, noon or evening? Why?
   - Note: This test needs an open sunny place. A grown-up fills in the table. If you have no open sunny place, skip this test or do it at a park or on a relative's terrace.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. At about 8 in the morning, draw a cross on the ground with chalk. 2. Your child stands on the cross. 3. Put a stone where the shadow of the head ends. 4. Your child walks heel to toe from the cross to the stone and counts the footsteps. 5. Note a building or tree the shadow points at.  
   *Parent says:* Stand on the cross and keep still. I will put a stone where your shadow ends. Now walk from the cross to the stone, heel to toe, and count. What is the shadow pointing at?  
-  *Child mode:* Stand on the cross. Keep still. Then walk to the stone, heel to toe, and count your steps.
+  *Child mode:* Stand on the cross. Keep still. Then walk to the stone, heel to toe, and count your steps. Say what the shadow points at.
   - Note: A child's shadow at 8 in the morning is often 8 to 15 of the child's own footsteps. The exact number depends on the month and the city.
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* 1. Go back around noon, when your shadow looks shortest (about 12 to 12:30 in most of India, earlier in the east). 2. Your child stands on the same cross. 3. Mark the end of the shadow with a stone and count again.  
@@ -280,24 +280,24 @@ Kutti was already lying in the new patch.
   - Wait: Come back at about 5 in the evening
 - **s5 (2 min)**  
   *Parent does:* Look at the table together. Ask what your child thinks, what they saw and why.  
-  *Parent says:* Your body was the same height all day. What changed your shadow?  
+  *Parent says:* Look at the table. Which time had the longest shadow, and which had the shortest?  
   *Child mode:* You did not grow or shrink. So why did your shadow change?
   - Check: Your shadow is 12 footsteps long in the morning. What is it likely to be at noon? → **About 2 footsteps**
 
 ## Activities
 ### a1 · Sunny Rooms: where is the sunlight coming in now? (10 min)
-- **record:** A simple map of your home with a yellow sun beside each room that had sunlight in the morning, and an orange sun for the afternoon.
+- **record:** Your room slips on the floor, with a coin on each room that had sunlight in the morning and a button on each room that had sunlight in the afternoon. Take a photo.
 - **s1 (2 min)**  
-  *Parent does:* 1. Help your child draw a box for each room. 2. Write the room names.  
-  *Parent says:* Let us draw our home. One box for each room.  
-  *Child mode:* Draw a box for each room in your home.
+  *Parent does:* 1. Help your child write each room's name on a slip of paper. 2. Lay the slips on the floor, in the same order as the rooms.  
+  *Parent says:* Let us make a paper slip for each room.  
+  *Child mode:* Write the name of each room on a slip of paper.
 - **s2 (4 min)**  
-  *Parent does:* 1. Walk round every room together. 2. Look for sun patches on floors, walls and beds. 3. Your child draws a yellow sun on each sunny room.  
+  *Parent does:* 1. Walk round every room together. 2. Look for sun patches on floors, walls and beds. 3. Back at the slips, your child puts a coin on each sunny room.  
   *Parent says:* Let us find every place where sunlight is coming in. Look at the floors and the walls. Do not look at the Sun itself.  
-  *Child mode:* Find every room with sunlight in it. Draw a yellow sun there.
+  *Child mode:* Find every room with sunlight. Then put a coin on its slip.
   - Ask: Which rooms have sunlight now? Why only those? (good: The balcony and the bedroom, because their windows face the Sun.; Rooms on one side of the flat.)
 - **s3 (4 min)**  
-  *Parent does:* 1. In the afternoon, walk round again. 2. Your child draws an orange sun in each sunny room. 3. Compare the two times.  
+  *Parent does:* 1. In the afternoon, walk round again. 2. Your child puts a button on the slip of each sunny room. 3. Compare the two times.  
   *Parent says:* It is afternoon now. Guess first: will the sunshine be in the same rooms as this morning? Now let us check.  
   *Child mode:* Guess first. Is the sunshine in the same rooms now? Go and check.
   - Note: If your home gets no direct sunlight, look at the building opposite instead: which side of it is lit in the morning, and which in the afternoon?
@@ -322,21 +322,21 @@ Kutti was already lying in the new patch.
   - Check: You put your East sign on your bedroom wall. Where should your West sign go? → **On the opposite wall**
 ### a3 · Draw the Sun's Path from Your Window (12 min)
 - **safety:** Never look straight at the Sun. Use the shadows to find where it is.
-- **record:** A drawing of your view with three yellow suns, each with its time, joined by a curved arrow.
+- **record:** Your drawing of the view with three yellow paper suns, each with its time, joined by a curved arrow.
 - **s1 (4 min)**  
-  *Parent does:* 1. Choose a window or the balcony. 2. Your child draws the buildings, trees and tanks along the bottom of the paper.  
-  *Parent says:* Draw what you can see from here, along the bottom of the page. Draw the tall things carefully.  
-  *Child mode:* Draw what you see along the bottom of the page.
+  *Parent does:* 1. Choose a window or the balcony. 2. Your child draws the buildings, trees and tanks along the bottom, or cuts them from paper.  
+  *Parent says:* Show what you can see from here, along the bottom of the page. You can draw it, or cut it from paper.  
+  *Child mode:* Show what you see along the bottom of the page. Draw it or cut it from paper.
 - **s2 (2 min) · grown-up needed**  
-  *Parent does:* 1. Stand with your child at the window. 2. Look at the buildings and the shadows. 3. The Sun is on the side away from the shadows. 4. Your child draws a small sun there and writes the time.  
-  *Parent says:* Do not look at the Sun. Look at the buildings and the shadows. The Sun is on the side away from the shadows. Draw a small sun there.  
-  *Child mode:* Do not look at the Sun. Find the shadows. The Sun is on the other side. Draw a sun there.
+  *Parent does:* 1. Stand with your child at the window. 2. Look at the buildings and the shadows. 3. The Sun is on the side away from the shadows. 4. Your child puts a yellow paper sun on the page there and writes the time beside it.  
+  *Parent says:* Do not look at the Sun. Look at the buildings and the shadows. The Sun is on the side away from the shadows. Put a yellow sun there.  
+  *Child mode:* Do not look at the Sun. Find the shadows. The Sun is on the other side. Put a yellow sun there.
 - **s3 (6 min)**  
   *Parent does:* 1. Come back around noon and in the afternoon. 2. Mark the Sun each time. 3. Join the three suns with a curved arrow.  
-  *Parent says:* Before you draw, guess: will the Sun be higher or lower than this morning? Now draw it. Join your suns with a curve.  
-  *Child mode:* Guess first. Higher or lower? Draw the new sun. Join the suns.
-  - Note: Around noon in most of India, the Sun is very high, so draw it near the top of the paper. Do not lean over the balcony railing to look up. The pattern to look for is: low in the morning, high at noon, low in the afternoon.
-  - Check: You drew the Sun at 9 in the morning and at noon. Where will your 3 o'clock sun go? → **Lower down, on the other side from the morning sun**
+  *Parent says:* Before you place it, guess: will the Sun be higher or lower than this morning? Now put a sun there. Join your suns with a curve.  
+  *Child mode:* Guess first. Higher or lower? Place the new sun. Join the suns.
+  - Note: Around noon in most of India, the Sun is very high, so put it near the top of the paper. Do not lean over the balcony railing to look up. The pattern to look for is: low in the morning, high at noon, low in the afternoon.
+  - Check: You marked the Sun at 9 in the morning and at noon. Where will your 3 o'clock sun go? → **Lower down, on the other side from the morning sun**
   - Wait: Come back around noon, then in the afternoon
 ### a4 · Who Follows the Sun at Home? Ask the family (12 min)
 - **record:** A small table: who you asked, what they dry or keep in the sun, and when they move it.
@@ -352,15 +352,15 @@ Kutti was already lying in the new patch.
 - **s3 (2 min)**  
   *Parent does:* Ask your child what all the answers have in common.  
   *Parent says:* Why do people need to move their drying things? What does that tell us about the sunshine?  
-  *Child mode:* Why do people move their drying things?
+  *Child mode:* Look at all the answers. What is the same in every one?
   - Ask: Why do people move them? (good: Because the sunshine moves to another place.; Because the Sun seems to move across the sky, so the shadows move too.)
   - Check: At 9 in the morning, washing is put in a sunny corner of the terrace. At 3 in the afternoon, the corner is in shade. Why? → **The Sun has moved across the sky, so the shadows have moved**
 ### a5 · The Sun on a Stick: show the path from sunrise to sunset (10 min)
-- **record:** A drawing of the arch your Sun travelled, with the times written along it.
+- **record:** A photo of your Sun held low by East, high in the middle and low by West. Or draw the arch it travelled, with the times.
 - **s1 (3 min)**  
-  *Parent does:* Your child colours the paper plate yellow and tapes it to the stick.  
-  *Parent says:* Make your Sun. Colour it bright yellow.  
-  *Child mode:* Colour your Sun. Tape it to the stick.
+  *Parent does:* Your child makes the paper plate yellow, with crayons or yellow paper, and tapes it to the stick.  
+  *Parent says:* Make your Sun. Make it bright yellow.  
+  *Child mode:* Make your Sun yellow. Tape it to the stick.
 - **s2 (5 min)**  
   *Parent does:* 1. Call out times in a mixed order: breakfast, sunrise, lunch, evening play, sunset, mid-morning. 2. Your child holds the Sun at the right place each time.  
   *Parent says:* Breakfast time! Where is the Sun? Now lunchtime! Now sunset! Show me.  
@@ -369,7 +369,7 @@ Kutti was already lying in the new patch.
 - **s3 (2 min)**  
   *Parent does:* Ask your child where their own shadow would be for two of the times.  
   *Parent says:* If the Sun is here, low by the East sign, where would your shadow point?  
-  *Child mode:* The Sun is by the East sign. Where does your shadow point?
+  *Child mode:* The Sun is low by the East sign. Point your arm the way your shadow goes.
   - Check: You hold your paper Sun low, near the West sign. What time of day are you showing? → **Evening**
 
 ## Projects
@@ -382,7 +382,7 @@ Kutti was already lying in the new patch.
   *Child mode:* Pick the sharpest corner of the sun patch.
 - **s2 (10 min)**  
   *Parent does:* 1. Stick the first strip at the corner and write the time. 2. Every half hour, stick the next strip at the corner and write the time. 3. Leave the strips in place.  
-  *Parent says:* It is half past nine. Stick a strip at the corner and write the time.  
+  *Parent says:* Stick a strip at the corner of the patch now. Write the time on it.  
   *Child mode:* Stick a strip at the corner. Write the time on it.
   - Wait: Every half hour for two hours
 - **s3 (12 min)**  
@@ -393,8 +393,8 @@ Kutti was already lying in the new patch.
   - Wait: The next sunny day
 - **s4 (3 min)**  
   *Parent does:* Ask your child how good the floor clock was.  
-  *Parent says:* Was your floor clock right? Why does a sun patch work like a clock?  
-  *Child mode:* Was your floor clock right? Why does it work?
+  *Parent says:* Was your floor clock right? How close was it?  
+  *Child mode:* How close was your guess to the real time?
   - Note: Over a few weeks, the patch drifts a little, because the Sun's path changes with the seasons. Over two days, the floor clock is usually right to within a few minutes.
   - Check: A floor clock worked on Monday and again on Tuesday. Why can a sun patch tell the time? → **The Sun seems to move across the sky the same way every day**
 
@@ -417,7 +417,7 @@ Kutti was already lying in the new patch.
 - **s3 (5 min)**  
   *Parent does:* Ask your child which torch place was hardest, and why.  
   *Parent says:* Which Sun was hardest to block: morning, noon or evening? Why?  
-  *Child mode:* Which Sun was hardest to block? Why?
+  *Child mode:* Say which torch place was hardest. Point to where light got in.
   - Check: You put a flat roof over the toy. When does the torch still shine on the toy? → **When the torch is low at one side**
 
 ## Worksheets

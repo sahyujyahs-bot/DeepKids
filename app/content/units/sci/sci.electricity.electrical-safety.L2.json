@@ -295,7 +295,7 @@
    "id": "e1",
    "title": "The Dry Hands Test: how dry are your hands, really?",
    "mins": 20,
-   "context": "In this experiment your child wets their hand and dries it in four different ways. After each way, they press the hand on newspaper. Wet skin leaves dark, damp prints. So the paper shows which way really dries a hand before it touches a switch.",
+   "context": "In this experiment your child wets their hand and dries it in four different ways. After each way, they press the hand on newspaper. Wet skin leaves dark, damp prints. You will find out whether a hand that feels dry really is dry, before it touches a switch.",
    "question": "After you wash your hands, which way of drying them leaves no water on your skin: shaking, wiping on your clothes, or a towel?",
    "predict": "Which way will leave no wet print on the paper? Why do you think so?",
    "fair_test": "We use the same hand and the same bowl of water every time. We dip the hand for the same count of 3. We press it on a fresh part of the paper for a count of 3. We dry for about the same time each way: five hard shakes, or a count of 10 on the clothes or the towel. Only one thing changes: the way we dry the hand.",
@@ -324,7 +324,7 @@
      "qty": 1
     }
    ],
-   "record": "Fill in the table. Draw round each wet print with a pencil before it dries, and write under it how you dried your hand.",
+   "record": "Fill in the table with how many wet fingerprints each way left. You can also take a photo of each print before it dries.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -388,7 +388,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the newspaper flat on a table. 2. Fill a steel bowl with tap water. 3. Put the towel nearby. 4. Draw a results table on paper, with one row for each way of drying.",
+     "do": "1. Lay the newspaper flat on a table. 2. Fill a steel bowl with tap water. 3. Put the towel nearby. 4. Make a results table on paper. Give it one row for each way of drying, and a space for the wet fingerprints.",
      "say": "We are going to find out how dry your hands really are. The newspaper will tell us. Wet skin leaves dark, damp marks on it.",
      "kid": "Put out the bowl, the towel and the paper. Wet skin leaves dark marks on paper."
     },
@@ -396,8 +396,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Show the four ways of drying. Ask for a guess and a reason for each one. Write the guesses in the table.",
-     "say": "We will try four ways. Not dried, shaken five times, wiped on your clothes, and rubbed with a towel. Which ones will leave a wet print? Why do you think so?",
-     "kid": "Which ways will leave wet prints? Why do you think so?",
+     "say": "We will try four ways. Not dried, shaken five times, wiped on your clothes, and rubbed with a towel. Which ones will leave a wet print?",
+     "kid": "Guess which of the four ways will leave a wet print.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -413,38 +413,38 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Your child dips one hand for a count of 3. 2. They lift it out and do not dry it. 3. They say if it feels wet. 4. They press it flat on the paper for a count of 3, then lift. 5. Draw round the prints at once.",
+     "do": "1. Your child dips one hand for a count of 3. 2. They lift it out and do not dry it. 3. They say if it feels wet. 4. They press it flat on the paper for a count of 3, then lift. 5. Count the wet fingerprints at once.",
      "say": "First, no drying at all. Does it feel wet? Press it flat on the paper. One, two, three. Lift. What do you see?",
-     "kid": "Dip your hand. Do not dry it. Press it on the paper. Count to 3. Lift.",
-     "parent": "Damp patches fade within a minute, so draw round them quickly. If the marks are hard to see, hold the paper up to the window. Wet paper looks see-through."
+     "kid": "Dip your hand. Do not dry it. Press it on the paper. Count to 3. Lift. Count the dark marks.",
+     "parent": "Damp patches fade within a minute, so count them quickly, or take a photo. If the marks are hard to see, hold the paper up to the window. Wet paper looks see-through."
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Dip the same hand again. 2. Shake it hard five times. 3. Ask if it feels wet. 4. Press on a fresh part of the paper. 5. Draw round the prints. Count the wet fingerprints.",
+     "do": "1. Dip the same hand again. 2. Shake it hard five times. 3. Ask if it feels wet. 4. Press on a fresh part of the paper. 5. Count the wet fingerprints.",
      "say": "Now dip and shake, five times. Does it feel wet now? Press it on a new part of the paper. How many wet fingerprints can you count?",
      "kid": "Dip your hand. Shake it five times. Press it on new paper. Count the wet fingers."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Dip again. 2. Wipe the hand on your clothes, front and back, for a count of 10. 3. Ask if it feels wet. 4. Press on fresh paper. 5. Draw round and count.",
+     "do": "1. Dip again. 2. Wipe the hand on your clothes, front and back, for a count of 10. 3. Ask if it feels wet. 4. Press on fresh paper. 5. Count the wet fingerprints.",
      "say": "Now dip and wipe on your clothes, front and back. Count to ten. Does it feel dry? Press it. What does the paper say?",
      "kid": "Dip your hand. Wipe it on your clothes. Count to 10. Press it on new paper."
     },
     {
      "id": "s6",
      "mins": 3,
-     "do": "1. Dip again. 2. Rub the hand with the towel, front, back and between the fingers, for a count of 10. 3. Press on fresh paper. 4. Draw round and count.",
+     "do": "1. Dip again. 2. Rub the hand with the towel, front, back and between the fingers, for a count of 10. 3. Press on fresh paper. 4. Count the wet fingerprints.",
      "say": "Last, dip and use the towel. Rub the front, the back and between your fingers. Count to ten. Press it. What happens this time?",
      "kid": "Dip your hand. Rub it with the towel. Count to 10. Press it on new paper."
     },
     {
      "id": "s7",
      "mins": 4,
-     "do": "Ask what your child thinks, what they saw, and why. Then tell them why this matters for switches.",
-     "say": "Which way left no wet prints? Did any hand feel dry but leave a print? Water carries electricity, and wet skin lets it into your body. So we dry our hands with a towel before we touch any switch.",
-     "kid": "Which way left no wet prints? Did your hand feel dry but still leave a print?",
+     "do": "Ask what your child saw, and why they think it happened. Then tell them: water carries electricity, and wet skin lets it into your body. So we dry our hands with a towel before we touch any switch.",
+     "say": "Look at all four prints. Which way left no wet prints? Did any hand feel dry but still leave a print?",
+     "kid": "Compare the four prints. Which way dried best?",
      "ask": [
       {
        "q": "What did you find?",
@@ -481,7 +481,7 @@
    "id": "e2",
    "title": "The Spill Test: how far does one tumbler of water run?",
    "mins": 17,
-   "context": "In this experiment your child knocks over half a tumbler of water on the floor and on a towel, and measures how far it runs. A paper drawing of an extension board sits nearby, to see whether the spill reaches it. This shows why drinks must stay far from sockets and chargers.",
+   "context": "In this experiment your child knocks over half a tumbler of water on the floor and on a towel, and measures how far it runs. A piece of paper stands in for an extension board, to see whether the spill reaches it. You will find out how far a spill can travel, and why drinks must stay far from sockets and chargers.",
    "question": "If a half-full tumbler of water falls over, how far will the water run?",
    "predict": "How many hand spans will the water run on the smooth floor? Will it reach the paper board two hand spans away? Why do you think so?",
    "fair_test": "We use the same tumbler and the same amount of water each time. We knock it over the same way each time, with an elbow, while it is standing upright. Only the place changes: the smooth floor or a folded towel.",
@@ -518,7 +518,7 @@
     }
    ],
    "safety": "Do this on a floor with no switches, sockets or wires nearby. Wipe the floor dry straight after each spill, so nobody slips.",
-   "record": "Fill in the table. Draw the floor, the paper board and the puddle from above.",
+   "record": "Fill in the table. You can also take a photo of the puddle, or draw it from above.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -561,17 +561,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Choose a smooth floor with no sockets or wires near. 2. Your child draws an extension board on paper. 3. Put it two hand spans away from where the tumbler will stand.",
+     "do": "1. Choose a smooth floor with no sockets or wires near. 2. Your child tears a hand-sized piece of paper to be the pretend extension board. 3. Put it two hand spans away from where the tumbler will stand. 4. Make a table with two rows, floor and towel, and a space for hand spans.",
      "say": "This paper is a pretend extension board. Real ones sit on the floor or on tables, with chargers and plugs in them. Let's see if a spill could reach it.",
-     "kid": "Draw an extension board on paper. Put it two hand spans away.",
+     "kid": "Put the pretend board two hand spans from where the tumbler will stand.",
      "parent": "A hand span is the stretch from the tip of the thumb to the tip of the little finger, with the hand spread wide. Use your child's hand every time."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Fill the tumbler half full. Ask for a guess and a reason.",
-     "say": "If this tumbler falls over, how far will the water go? Will it reach the board? Why do you think so?",
-     "kid": "How far will the water run? Will it reach the board? Why?",
+     "say": "If this tumbler falls over, how far will the water go? Will it reach the board?",
+     "kid": "Guess how far the water will run.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -603,7 +603,7 @@
      "mins": 4,
      "do": "Wipe up. Ask what your child thinks, what they saw, and why.",
      "say": "Where did the water go furthest? Did it reach the board? If that board had been real, the water could have carried electricity out of it. So where should we keep our drinks?",
-     "kid": "Where did the water go furthest? Where should drinks go?",
+     "kid": "Look at both wet patches. Which one is bigger?",
      "ask": [
       {
        "q": "Where should drinks go?",
@@ -624,7 +624,7 @@
    "id": "a1",
    "title": "Birds on the Wire: a window watch",
    "mins": 15,
-   "context": "In this activity your child looks out of a window or balcony at the electric wires outside. They count the birds sitting on them, and draw how each bird sits. Then you talk about why the birds are safe and people are not.",
+   "context": "In this activity your child looks out of a window or balcony at the electric wires outside. They count the birds on the wires and look at how each bird sits. You will find out why the birds are not hurt, and why a person would be.",
    "materials": [
     {
      "item": "a window or balcony with a view of electric wires or cables",
@@ -635,7 +635,7 @@
      "qty": 1
     }
    ],
-   "record": "A drawing of the wire and every bird you saw sitting there, and a tally of how many birds you saw.",
+   "record": "A tally of how many birds you saw. If your child drew them, a drawing of the wire and the birds.",
    "setup": [
     {
      "art": "A child at a flat's window looking at electric wires with crows and pigeons sitting on them.",
@@ -653,14 +653,14 @@
      "do": "Find a window or balcony where you can see wires. Count the birds on them for two minutes.",
      "say": "Let's watch the wires for two minutes. Make a tally mark for every bird you see sitting on a wire.",
      "kid": "Watch the wires. Make a mark for every bird you see.",
-     "parent": "Crows, pigeons, mynas and sparrows often sit on wires. Early morning and evening are good times. If you cannot see any wires from home, draw the crows you remember seeing on wires."
+     "parent": "Crows, pigeons, mynas and sparrows often sit on wires. Early morning and evening are good times. If you cannot see any wires from home, try again on a walk, or look at a photo of birds on a wire."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child draws the wire and the birds. Ask them to look closely at the feet.",
-     "say": "Draw the wire and each bird. Look at their feet. How many wires does each bird touch?",
-     "kid": "Draw the birds. How many wires does each bird touch?",
+     "do": "Your child looks closely at the birds' feet. They can draw the wire and the birds, or point and tell you what they see.",
+     "say": "Look at each bird's feet. Draw the wire and the birds, or just tell me what you see.",
+     "kid": "Look at the birds' feet. Draw them, or tell your grown-up.",
      "ask": [
       {
        "q": "How many wires does each bird touch?",
@@ -674,9 +674,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask for your child's idea first. Then explain.",
-     "say": "Why do you think the birds are safe? Each bird touches only one wire. So the electricity has no path through the bird. A person on a ladder touches the ground too. Then the electricity can go through them.",
-     "kid": "Why are the birds safe? Why would a person not be safe?",
+     "do": "Ask for your child's idea first. Then explain: each bird touches only one wire, so the electricity has no path through the bird. A person on a ladder also touches the ground, so the electricity can go through them.",
+     "say": "Why do you think the birds are safe on the wire?",
+     "kid": "Say your idea. Why are the birds not hurt?",
      "ask": [
       {
        "q": "Why would a person on a ladder not be safe?",
@@ -694,7 +694,7 @@
    "id": "a2",
    "title": "Safety Helpers in Our Home",
    "mins": 15,
-   "context": "In this activity a grown-up shows your child the things in your home that keep electricity where it belongs: the plastic on wires, the plastic body of a plug, the shutters inside a socket, and the main switch. Your child looks but does not touch, then draws each helper.",
+   "context": "In this activity a grown-up shows your child the things in your home that keep electricity where it belongs: the plastic on wires, the plastic body of a plug, the shutters inside a socket, and the main switch. You will find out what stops electricity from hurting us. Your child looks but does not touch, then photographs or draws each helper.",
    "materials": [
     {
      "item": "an unplugged machine with a plug, such as a mixer or table fan",
@@ -709,7 +709,7 @@
      "qty": 1
     }
    ],
-   "record": "A page of drawings, one for each safety helper, with a sentence saying what it does.",
+   "record": "A photo or drawing of each safety helper, with a sentence saying what it does.",
    "setup": [
     {
      "art": "A mother holding an unplugged plug and pointing to its plastic body and metal pins while a girl watches.",
@@ -730,8 +730,8 @@
      "mins": 4,
      "adult": true,
      "do": "1. Unplug a mixer or table fan. 2. Show the plug and wire. 3. Point to the plastic body, the metal pins and the plastic cover on the wire.",
-     "say": "The metal pins carry the electricity. The plastic body is for holding. The plastic cover on the wire keeps the electricity inside. Why do you think the part you hold is plastic, not metal?",
-     "kid": "Look at the plug. Which part is metal? Which part is plastic?",
+     "say": "The metal pins carry the electricity. The plastic cover on the wire keeps the electricity inside. Why do you think the part you hold is plastic, not metal?",
+     "kid": "Look at the plug. Point to the metal part and the plastic part.",
      "ask": [
       {
        "q": "Why is the part you hold plastic?",
@@ -749,7 +749,7 @@
      "adult": true,
      "do": "Shine a torch at a socket. Look for small plastic shutters behind the holes. Your child looks only.",
      "say": "Many new sockets have little plastic doors inside. They open only when a plug's pins push in together. They stop a small child poking a pin in. Can you see them?",
-     "kid": "Look at the socket with the torch. Can you see little doors? Do not touch.",
+     "kid": "Look into the socket with the torch. Do not touch.",
      "parent": "Not every socket has shutters. Older ones often do not. If yours do not, that is a reason to keep small children well away."
     },
     {
@@ -764,9 +764,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Your child draws each helper and says what it does. You write the sentence.",
-     "say": "Draw each helper we found. Tell me what it does, and I will write it down.",
-     "kid": "Draw each safety helper. Say what it does."
+     "do": "Your child takes a photo of each helper with your phone, or draws it, and says what it does. You write the sentence.",
+     "say": "Take a photo of each helper we found, or draw it. Tell me what it does, and I will write it down.",
+     "kid": "Photograph or draw each safety helper. Say what it does."
     }
    ]
   },
@@ -801,8 +801,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Lay a dupatta on the floor as a pretend wire. Read the first card: 'You see a wire lying on the road after a storm.'",
-     "say": "Here is a fallen wire after a storm. What would you do? Show me.",
-     "kid": "A wire is lying on the road. What do you do? Show it.",
+     "say": "Here is a fallen wire after a storm. Show me what you would do.",
+     "kid": "Act out what you would do. Then say it out loud.",
      "ask": [
       {
        "q": "What would you do?",
@@ -819,8 +819,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Read the card: 'You see sparks and smell burning from a socket.'",
-     "say": "The socket is sparking. What would you do?",
-     "kid": "Sparks come from a socket. What do you do?",
+     "say": "The socket is sparking and there is a burning smell. Show me what you would do.",
+     "kid": "Act out what you do. Use your whole body.",
      "ask": [
       {
        "q": "What would you do?",
@@ -837,8 +837,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Read the card: 'Your friend is touching a machine and cannot let go.'",
-     "say": "Your friend is stuck to a machine. What would you do? Would you pull them away?",
-     "kid": "Your friend is stuck to a machine. What do you do?",
+     "say": "Your friend is touching a machine and cannot let go. Show me what you would do.",
+     "kid": "Show how you would help your friend without touching them.",
      "ask": [
       {
        "q": "Would you pull them away?",
@@ -853,8 +853,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Read the card: 'Your kite is caught on an electric wire.'",
-     "say": "Your kite is stuck on a wire. What would you do?",
-     "kid": "Your kite is stuck on a wire. What do you do?",
+     "say": "Your kite is stuck on a wire. Show me what you would do.",
+     "kid": "Show what you do with the kite string.",
      "ask": [
       {
        "q": "What would you do?",
@@ -870,8 +870,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Read the card: 'A baby is crawling towards a socket.'",
-     "say": "A baby is crawling near a socket. What would you do?",
-     "kid": "A baby crawls to a socket. What do you do?",
+     "say": "A baby is crawling towards a socket. Show me what you would do.",
+     "kid": "Show how you keep the baby safe.",
      "ask": [
       {
        "q": "What would you do?",
@@ -892,7 +892,7 @@
    "title": "Safe Steps: a snakes and ladders game about electricity",
    "mins": 20,
    "players": "2 to 4 players. A grown-up plays too.",
-   "context": "This is a board game like snakes and ladders, a game first played in India. Some squares show a safe thing to do, with a ladder up. Others show a dangerous thing, with a snake down. Each time you land on one, you say why it is safe or dangerous.",
+   "context": "This is a board game like snakes and ladders, a game first played in India. Some squares show a safe thing to do, with a ladder up. Others show a dangerous thing, with a snake down. You will practise telling safe from dangerous, by saying why each time you land on one.",
    "printables": [
     {
      "kind": "board",
@@ -950,16 +950,16 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Cut out the 25 squares and lay them in 5 rows of 5. Draw a line from each ladder square and each snake square to the square it leads to.",
+     "do": "Cut out the 25 squares and lay them in 5 rows of 5. Join each ladder or snake square to the square where it ends, with a pencil line or string. Find a dice and one button or coin for each player.",
      "say": "Let us build the board. The ladders are safe things to do. The snakes are dangerous things.",
      "kid": "Lay out the squares. Ladders are safe. Snakes are dangerous."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Play. Each time a player lands on a special square, they say why.",
-     "say": "You landed on a snake. Read it. Why is that dangerous?",
-     "kid": "Read your square. Say why it is safe or dangerous.",
+     "do": "Take turns to roll the dice and move. Each time a player lands on a special square, they read it and say why.",
+     "say": "Read your square aloud. Is it a safe thing or a dangerous thing? Why?",
+     "kid": "Roll the dice and move. Read the square you land on.",
      "ask": [
       {
        "q": "Why is touching a switch after your bath dangerous?",
@@ -981,11 +981,11 @@
      "id": "s3",
      "mins": 2,
      "do": "After the game, ask which snake would be most dangerous in real life.",
-     "say": "Which snake would be the most dangerous in real life? Why?",
-     "kid": "Which snake is the most dangerous in real life? Why?",
+     "say": "Look at all the snake squares. Which one would be the most dangerous in real life? Why?",
+     "kid": "Pick the snake square you think is worst.",
      "check": {
       "t": "mcq",
-      "q": "In the Safe Steps game, one snake square says you pull a friend away from a machine that is giving a shock. Why is that a snake?",
+      "q": "Why is it dangerous to pull a friend away from a machine that is giving them a shock?",
       "options": [
        "The electricity can flow into you too",
        "Your friend will be cross",
@@ -1002,7 +1002,7 @@
    "title": "Live Wire Freeze: a moving game",
    "mins": 10,
    "players": "1 or more children, and a grown-up who calls the cards",
-   "context": "This is a moving game. Players walk or dance round the room. The caller reads a card. If the card shows something dangerous, everyone freezes and shouts the safe thing to do. If it is safe, everyone keeps moving.",
+   "context": "This is a moving game. Players walk or dance round the room. The caller reads a card. If the card shows something dangerous, everyone freezes and shouts the safe thing to do. If it is safe, everyone keeps moving. You will practise knowing the safe thing to do at once.",
    "printables": [
     {
      "kind": "cards",
@@ -1080,7 +1080,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Read the cards one by one. After each, read the back aloud.",
+     "do": "Read the cards one by one. After each, read the back aloud. On a safe card, such as the one about the cells in a remote, ask why it is safe.",
      "say": "Someone pokes a key into a socket. Freeze! What do we shout?",
      "kid": "Listen to the card. Freeze or keep moving?",
      "ask": [
@@ -1102,7 +1102,7 @@
    "title": "A Safety Picture Book for a Little One",
    "mins": 30,
    "days": 2,
-   "context": "In this project your child makes a small picture book of electricity safety rules for a younger child: a little brother, sister, cousin or neighbour. Teaching a rule is a good way to understand it.",
+   "context": "In this project your child makes a small picture book of electricity safety rules for a younger child: a little brother, sister, cousin or neighbour. You will find out that teaching a rule is a good way to understand it.",
    "materials": [
     {
      "item": "two sheets of paper, folded and stapled to make an eight-page book",
@@ -1144,16 +1144,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Fold and staple the book. Help your child choose six rules.",
+     "do": "Fold and staple the book. Help your child choose six rules from this unit. For example: dry hands before a switch, drinks far from plugs, never touch a fallen wire.",
      "say": "Which six rules matter most for a little child? Let's choose them together.",
      "kid": "Choose six rules for a little child."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws one rule on each page, with a green tick for safe and a red cross for danger.",
-     "say": "Draw one rule on each page. A green tick for the safe way, a red cross for the dangerous way.",
-     "kid": "Draw one rule on each page. Use a tick or a cross."
+     "do": "Your child makes one page for each rule. They draw it, or stick on a photo or a picture cut from an old newspaper. A green tick means the safe way and a red cross means the dangerous way.",
+     "say": "Make one page for each rule. Draw it, or stick on a picture. Put a green tick for the safe way, and a red cross for the dangerous way.",
+     "kid": "Make a page for each rule. Draw it, or use a picture."
     },
     {
      "id": "s3",
@@ -1188,7 +1188,7 @@
    "title": "The Safe Homework Corner",
    "mins": 20,
    "context": "This is a planning challenge. A homework corner has a table, a lamp with a plug, a phone charger, a water bottle and a cup of paint water. Where should everything go, so nothing wet can reach the plugs?",
-   "problem": "Draw a plan of a homework corner where the lamp and the charger are safe from spills.",
+   "problem": "Plan a homework corner where the lamp and the charger are safe from spills. Use paper cut-outs on a table plan.",
    "constraints": [
     "There is only one extension board, and at the start it sits on the floor under the table.",
     "The water bottle and the paint water must stay within reach while the child works.",
@@ -1208,7 +1208,7 @@
     "Do painting on a different table, away from the lamp.",
     "Stick a 'dry hands' sign with a towel hook next to the switch."
    ],
-   "your_turn": "Now plan your own homework corner, or the place where you do this unit. Draw where each thing goes, and mark the path a spill would take.",
+   "your_turn": "Now plan your own homework corner, or the place where you do this unit. Move things to where they go, and show the path a spill would take with an arrow, or a piece of string.",
    "setup": [
     {
      "art": "A plan of a table seen from above, with paper cut-outs of a lamp, a charger, a water bottle and a cup of paint water.",
@@ -1223,9 +1223,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Read the problem aloud. Draw the table from above.",
+     "do": "Read the problem aloud. Draw the table from above on paper, or use a real table.",
      "say": "This homework corner has a lamp, a charger, a water bottle and paint water. What could go wrong?",
-     "kid": "What could go wrong at this homework table?",
+     "kid": "Point to the things that water could reach.",
      "ask": [
       {
        "q": "What could go wrong?",
@@ -1239,7 +1239,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child cuts out the things and moves them on the plan until they are happy. Then draws them in.",
+     "do": "Your child cuts out the things and moves them on the plan until they are happy. Then take a photo of the plan.",
      "say": "Move the things around. Where would a spill go? Where is the safest place for each?",
      "kid": "Move the things around. Where would a spill go?",
      "parent": "If you did the Spill Test, remind your child how far half a tumbler ran."
@@ -1249,7 +1249,7 @@
      "mins": 6,
      "do": "Talk about the usual answers and the creative ones. Then your child plans their own corner.",
      "say": "Here are some ideas other people use. Which one would best stop a spill from reaching a plug? Why? Now plan your own corner.",
-     "kid": "Which idea best keeps a spill away from the plugs? Now plan your own corner."
+     "kid": "Pick the idea you like best. Then plan your own corner."
     }
    ]
   }

@@ -198,21 +198,21 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **s2 (12 min)**  
   *Parent does:* Take turns being the breaker and the fixer. After each round, ask how they found the fault.  
   *Parent says:* How did you find it? Where did you look first?  
-  *Child mode:* How did you find it?
+  *Child mode:* Tell what clue helped you find it.
   - Ask: What do you check first when the bulb is dark? (good: Every place where metal touches metal.; Both ends of the cell, then the bulb.)
   - Note: Good detectives follow the path round with a finger and check each join. The TURN THE CELL card is a trick, because the bulb still lights. Ask your child why it still lights.
   - Check: The bulb is dark. Both wires are on the cell, and the bulb is screwed in. What should you check next? → **Whether the wires are on different ends of the cell**
 ### g2 · Light or Dark? a drawing game (10 min)
-- **rules:** Mix the cards and put them face down.; The drawer takes a card, reads the front quietly and draws that circuit.; The others say 'light' or 'dark', and give a reason.; Turn the card over to check. One point for the right answer and one point for a good reason.; If anyone is unsure, build the circuit with the real kit to see.
+- **rules:** Mix the cards and put them face down.; The drawer takes a card, reads the front quietly and draws that circuit. A player who does not like to draw lays out the parts on the table instead, without clipping them.; The others say 'light' or 'dark', and give a reason.; Turn the card over to check. One point for the right answer and one point for a good reason.; If anyone is unsure, build the circuit with the real kit to see.
 - **Printable cards: 10 drawing cards:** Draw a cell and a bulb joined by one wire. (back: Dark. There is no way back to the cell.); Draw a cell with a wire from each end to the bulb. (back: Light. It is a complete ring.); Draw two wires, both on the bump of the cell, going to the bulb. (back: Dark. There is no path to the flat end.); Draw a circuit with one wire curled like a snake. (back: Light. The shape does not matter.); Draw a circuit with a gap between one wire and the bulb. (back: Dark. Electricity cannot cross a gap.); Draw a circuit with the cell turned upside down. (back: Light. The bulb lights either way round.); Draw a circuit with very long, wiggly wires round the page. (back: Light. The path is still complete.); Draw a circuit with no cell, only wires and a bulb. (back: Dark. Nothing pushes the electricity.); Draw a circuit with both wires on the flat end of the cell. (back: Dark. There is no path to the bump.); Draw a circuit with the two wires crossed in an X. (back: Light. Covered wires can cross.)
 - **s1 (2 min)**  
   *Parent does:* Read one card and draw it yourself, to show how to play.  
   *Parent says:* I will draw a circuit. Will this bulb light or stay dark? Tell me why.  
-  *Child mode:* Look at the drawing. Light or dark? Why?
+  *Child mode:* Look at the drawing. Follow the path with your finger.
 - **s2 (8 min)**  
   *Parent does:* Take turns drawing. After each answer, ask for the reason before you turn the card.  
-  *Parent says:* Why do you think it will be dark? Show me with your finger where the path breaks.  
-  *Child mode:* Show the path with your finger. Where does it break?
+  *Parent says:* Why do you think so? Show me with your finger how the path goes.  
+  *Child mode:* Follow the path with your finger. Is there a break?
   - Ask: How can you tell from a drawing if the bulb will light? (good: Follow the path from one end of the cell, through the bulb, to the other end.; Look for gaps.)
   - Note: A drawing with no cell, or both wires on one end, catches many children. Let them build it to see for themselves.
 
@@ -222,7 +222,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **predict:** Before each test, guess: will the bulb light or stay dark? Why do you think so?
 - **fair test:** We use the same cell, the same two wires and the same bulb for every test. We change only one thing each time. After each test we put the circuit back to straight wires and check that the bulb still lights, so we know nothing else has gone wrong.
 - **safety:** Use only small AA cells. Never use a wall socket, a plug or a phone charger. If a wire or the cell gets warm, unclip it at once. Warmth means the two ends of the cell are joined to each other with no bulb in between.
-- **record:** Fill in the table with the six tests: 1 straight wires, 2 coiled wire, 3 crossed wires, 4 knotted wire, 5 both wires on the flat end, 6 bulb unscrewed. Draw a sun for light and a dark circle for dark. Then count the suns.
+- **record:** Fill in the table with the six tests: 1 straight wires, 2 coiled wire, 3 crossed wires, 4 knotted wire, 5 both wires on the flat end, 6 bulb unscrewed. Write L for light and D for dark. Then count the Ls.
 - **results table:** Test | My guess: light or dark? | What happened: light or dark?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Wrap the rubber band along the cell, over both ends. 2. Tuck the bare end of one wire under the band at the bump. 3. Tuck the other wire under the band at the flat end. 4. Clip the far ends to the two screws of the bulb holder.  
@@ -230,9 +230,9 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   *Child mode:* Put one wire on the bump of the cell. Put the other on the flat end. Join both to the bulb.
   - Note: Press the bare metal ends firmly under the band, so metal touches metal. If the bulb only glows faintly, that is fine in a dim room. A bulb marked 2.5 V glows dimmer on one cell than one marked 1.5 V. If it does not light at all, try a fresh cell and check the bulb is screwed in.
 - **s2 (3 min)**  
-  *Parent does:* 1. Draw the table with six rows. 2. Write test 1, straight wires: it lit. 3. Ask for a guess and a reason for test 2.  
+  *Parent does:* 1. Rule a table on paper with six rows. 2. Write test 1, straight wires: it lit. 3. Ask for a guess and a reason for test 2.  
   *Parent says:* Test 1 is our straight circuit. It lights. Now I will wind one wire round a pencil. Will the bulb light or stay dark? Why do you think so?  
-  *Child mode:* Will a coiled wire still light the bulb? Why do you think so?
+  *Child mode:* Guess. Will a coiled wire still light the bulb?
   - Ask: Why do you think so? (good: It will stay dark, because the coil is like a knot.; It will light, because the wire is still joined.; It might be dimmer, because the path is twisty.)
   - Note: Write the guess in the table before you test. Do not say what you think will happen. Any guess with a reason is a good guess.
 - **s3 (4 min)**  
@@ -253,7 +253,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **s6 (5 min)**  
   *Parent does:* 1. Count the tests that lit and the tests that stayed dark. 2. Ask what your child found, and why. 3. Ask the check question.  
   *Parent says:* How many tests lit the bulb? How many stayed dark? What was the same about the ones that stayed dark?  
-  *Child mode:* Count the suns. Count the dark circles. Why did two stay dark?
+  *Child mode:* Count the tests that lit. Count the tests that stayed dark.
   - Ask: Why did the coiled and knotted wires still light the bulb? (good: The metal inside was still one piece.; The path from the cell to the bulb and back was still joined.)
   - Ask: Why did the bulb go dark in tests 5 and 6? (good: Both wires were on the same end, so there was no path to the other end.; The bulb was loose, so there was a gap.)
   - Note: First let your child say what they found and how they know. Then say it plainly: the bulb lights when one end of the cell joins the bulb and the bulb joins the other end, metal touching metal. The shape of the wires makes no difference. A wire on the wrong end, or a loose bulb, leaves a gap.
@@ -263,7 +263,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **predict:** Guess first. If we turn the cell round, will the bulb light, stay dark or get dimmer? Why do you think so?
 - **fair test:** We use the same cell, wires and bulb each time. We only turn the cell round, or swap the wires at the bulb. We look at the bulb in the same spot in the room, so the brightness is easy to compare.
 - **safety:** A grown-up takes the cells out of the remote and puts them back. Keep any button cells far away from small children.
-- **record:** Draw the circuit three times: as it was, with the cell turned round, and with the wires swapped at the bulb. Draw rays round each bulb that lit.
+- **record:** Fill in the table. Write what the bulb did as it was, with the cell turned round, and with the wires swapped at the bulb. Take a photo of each, if you can.
 - **results table:** Test | My guess | What happened
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Build the circuit with a rubber band on the cell. 2. Check that the bulb lights. 3. Ask for a guess and a reason.  
@@ -273,7 +273,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **s2 (5 min)**  
   *Parent does:* 1. Take the wire ends out from under the band. 2. Turn the cell round. 3. Tuck each wire back under the band at the end now beside it. 4. Look at the bulb. 5. Then swap the two clips at the bulb holder and look again.  
   *Parent says:* Now the electricity has to go round the other way. Look at the bulb. Is it lit? Is it as bright?  
-  *Child mode:* Turn the cell round. Is the bulb lit? Now swap the clips at the bulb.
+  *Child mode:* Turn the cell round and look at the bulb. Then swap the clips at the bulb and look again.
   - Note: The bulb lights just the same both ways. A plain bulb does not care which way the electricity flows through it.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Open the remote's cell cover. 2. Show the + and − marks inside. 3. Turn one cell round and press a button. 4. Put it back the right way.  
@@ -283,14 +283,14 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **s4 (3 min)**  
   *Parent does:* Ask what your child found, and why. Then ask the check question.  
   *Parent says:* What happened when we turned the cell round in our circuit? What happened in the remote? Why are they different?  
-  *Child mode:* What did the bulb do? What did the remote do?
+  *Child mode:* Which one surprised you? Tell your grown-up why.
   - Ask: Why did the bulb light both ways? (good: Both ends of the cell were still joined to the bulb.; The bulb does not mind which way the electricity goes.)
   - Check: You turn the cell round in a bulb circuit. What happens? → **The bulb lights just the same**
 
 ## Activities
 ### a1 · Your First Circuit: make the bulb shine (15 min)
 - **safety:** Use only AA cells, never a wall socket or a charger. If a wire or the cell gets warm, unclip it.
-- **record:** Draw your circuit. Colour the wires. Draw arrows from the bump of the cell, through the bulb and back to the flat end.
+- **record:** Draw your circuit. Colour the wires. Draw arrows from the bump of the cell, through the bulb and back to the flat end. Or take a photo and show the path with your finger.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Lay out the cell, the bulb in its holder and two wires. 2. Name each part together. 3. Show the bump and the flat end of the cell.  
   *Parent says:* This is a cell. It has a bump at one end and a flat end at the other. This is a bulb in a holder. These are two wires.  
@@ -305,17 +305,17 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **s3 (3 min)**  
   *Parent does:* 1. Ask your child to trace the path with a finger. 2. Lift one wire off the cell. 3. Put it back.  
   *Parent says:* Put your finger on the bump of the cell. Follow the path all the way. Where does your finger end up? Now watch when I lift this wire.  
-  *Child mode:* Follow the path with your finger. Where do you end up? Now lift one wire.
+  *Child mode:* Trace the path with your finger. Then watch the bulb.
   - Ask: Why did the bulb go out when the wire came off? (good: There was a gap.; The path did not go all the way round any more.)
 - **s4 (4 min)**  
-  *Parent does:* Your child draws the circuit and adds arrows going round.  
-  *Parent says:* Draw what you built. Add arrows to show where the electricity goes.  
-  *Child mode:* Draw your circuit. Draw arrows going round.
+  *Parent does:* Your child draws the circuit and adds arrows going round. Or your child points along the path and tells you the way round.  
+  *Parent says:* Draw what you built, with arrows to show where the electricity goes. Or point along the path and tell me.  
+  *Child mode:* Show the way the electricity goes round. Draw it, or point and tell.
   - Note: Accept any drawing that shows a ring: cell, wire, bulb, wire, back to the cell. Many children draw only one wire at first. Ask them to check against the real circuit.
   - Check: Which circuit will make the bulb shine? → **A wire from the bump to the bulb, and a wire from the bulb to the flat end**
 ### a2 · Look Inside a Bulb: the thin wire that glows (10 min)
 - **safety:** Look at the glowing bulb for a few seconds only. Hold the bulb by its metal base, not the glass, because the glass gets warm.
-- **record:** Draw the bulb large. Label the glass, the filament, the two thick wires, the tip and the metal side.
+- **record:** Draw the bulb large. Label the glass, the filament, the two thick wires, the tip and the metal side. Or point to each part on the real bulb and say its name.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the bulb up to a window. 2. Look through the magnifying glass or the phone camera. 3. Find the parts together.  
   *Parent says:* Look inside the glass. Can you see two thicker wires? Can you see a tiny coil joining them?  
@@ -328,9 +328,9 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   - Ask: Why is the glass warm? (good: The coil is hot.; The glowing wire makes heat.)
   - Note: A small torch bulb on one AA cell gets warm, not hot. Only the filament glows. It glows because it is very hot.
 - **s3 (3 min)**  
-  *Parent does:* Your child draws and labels the bulb.  
-  *Parent says:* Draw the bulb big. Label the glass, the coil, the two thick wires, the tip and the side.  
-  *Child mode:* Draw the bulb. Label the parts.
+  *Parent does:* Your child draws and labels the bulb. Or your child points to each part on the real bulb and says its name.  
+  *Parent says:* Draw the bulb big and label the glass, the coil, the two thick wires, the tip and the side. Or point to each part and say its name.  
+  *Child mode:* Name the parts of the bulb. Draw them, or point and say.
   - Check: Which part of a bulb glows? → **The thin coiled wire, called the filament**
 ### a3 · Count the Twos: why cells, bulbs and plugs need two (12 min)
 - **problem:** Your bulb circuit needed two wires. One wire took the electricity to the bulb, and the other wire brought it back to the cell. Do other things that use electricity also have two metal parts? Count the metal ends on a cell, a bulb and some plugs, and see.
@@ -348,15 +348,15 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   - Note: Indian plugs have two or three pins. The third, thicker pin is the earth pin. It is there for safety and is not part of the path that runs the appliance. The other two are the way in and the way back.
 - **s3 (4 min)**  
   *Parent does:* 1. Look at the tallies together. 2. Ask for the pattern and the reason.  
-  *Parent says:* Look at our table. What number keeps coming up? Why do you think every one has at least two?  
-  *Child mode:* What number keeps coming up? Why?
+  *Parent says:* Look at our table. What number keeps coming up?  
+  *Child mode:* Look at the tallies. Which number do you see most?
   - Ask: Why does every plug have at least two pins? (good: The electricity needs a way in and a way back.; It is a circuit, like our bulb.)
   - Check: Why does a phone charger plug have two pins? → **Electricity goes in through one and back through the other**
 
 ## Projects
 ### p1 · A Lighthouse with a Light on Top (40 min, 2 days)
 - **safety:** Only a grown-up uses scissors to make holes. Use only AA cells. Unclip the cell when you finish, so it does not run down.
-- **record:** Draw your lighthouse, and draw the hidden wires inside it with dotted lines.
+- **record:** Take a photo of your lit lighthouse and tell your grown-up where the hidden wires run. Or draw it, with the hidden wires as dotted lines.
 - **schedule:** day 1: Decorate the tube and fix the bulb at the top. (20 min); day 2: Run the wires down inside, join the cell at the bottom, and test the light. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* Day 1: 1. Decorate the tube with stripes or windows. 2. A grown-up cuts a hole in the bottom of the paper cup. 3. Push the bulb holder into the cup and tape it on top of the tube.  
@@ -365,27 +365,27 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   - Note: The lighthouse at Mamallapuram, near Chennai, is a real one that visitors can climb. A picture of it is good to copy from.
 - **s2 (15 min)**  
   *Parent does:* Day 2: 1. Clip the two long wires to the bulb holder. 2. Push them down inside the tube. 3. Put the rubber band on the cell. 4. Tuck one wire at the bump and one at the flat end.  
-  *Parent says:* The wires go down inside, where nobody can see them. Will the bulb still light with the wires bent and hidden? Why?  
+  *Parent says:* The wires go down inside, where nobody can see them. Join them to the cell.  
   *Child mode:* Push the wires down inside. Join them to the cell. Will it light?
   - Ask: Will the bulb light with the wires hidden and bent? Why? (good: Yes, because the path is still joined.; Yes, the shape does not matter.)
   - Note: If the bulb does not light, play detective: check every join where metal touches metal, and check that the wires are on different ends of the cell.
 - **s3 (5 min)**  
   *Parent does:* Switch off the room light and look at the lighthouse. Then unclip the cell.  
-  *Parent says:* Switch off the light. Our lighthouse is shining. The wires inside are bent and hidden. Why does it still work?  
+  *Parent says:* Switch off the light. Our lighthouse is shining.  
   *Child mode:* Switch off the room light. Look at your lighthouse shine.
   - Check: The lighthouse wires are hidden and bent inside the tube. Why does the bulb still light? → **The metal path from the cell to the bulb and back is unbroken**
 
 ## Challenges
 ### c1 · The Foil Wire Challenge (20 min)
 - **problem:** Light the bulb with no bought wires. You may use kitchen foil, paper and tape. The bulb must stay lit for one minute without anyone holding the joins.
-- **your turn:** Now design your own foil circuit. Draw it first. Build it, then let go and count to 60. Is the bulb still lit?
+- **your turn:** Now design your own foil circuit. Lay it out first, or draw it. Build it, then let go and count to 60. Is the bulb still lit?
 - **constraints:** No bought wires.; Only one AA cell.; Nobody holds the joins once it is built.
 - **general:** Fold a strip of foil lengthwise four times to make a strong foil wire.; Tape one foil wire to each end of the cell, pressing the foil flat against the metal.; Wrap the other end of each foil wire round a screw on the bulb holder.
 - **creative:** Tape the foil wires onto a strip of cardboard, so they do not tear and do not touch each other.; Hold the foil on the cell with a rubber band instead of tape, so the joins press tightly.; With a loose bulb, wrap one foil wire round the metal side and stand the bulb's tip on the other foil wire.
 - **s1 (5 min)**  
-  *Parent does:* 1. Read the problem together. 2. Draw two ideas before building.  
-  *Parent says:* We have no wires today. Could foil do the job of a wire? Why do you think so? Let's draw two ideas first.  
-  *Child mode:* No wires today. Can foil be a wire? Draw two ideas.
+  *Parent does:* 1. Read the problem together. 2. Ask for two ideas for joining the cell to the bulb with foil. 3. Lay each idea out on the table without taping it.  
+  *Parent says:* We have no wires today. Could foil do the job of a wire? Why do you think so? Let's lay out two ideas first.  
+  *Child mode:* Show two ways to join the cell to the bulb with foil. Lay them out, or draw them.
 - **s2 (12 min)**  
   *Parent does:* 1. Build the best idea. 2. Let go and count to 60. 3. If it goes dark, find the loose join and improve it.  
   *Parent says:* Build it, then let go. Count to sixty with me. Is it still lit?  

@@ -183,13 +183,13 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 
 ## Games
 ### g1 · Power Cut! a card game: what keeps working? (12 min)
-- **rules:** Shuffle the 24 appliance cards and the 4 Power Cut cards together, with the appliance names face up and the backs hidden. Put them in one pile.; Take turns. On your turn, take the top card.; If it is an appliance, say 'plug' or 'cell' before you turn it over. Turn it over to check. If you were right, keep the card in front of you. If you were wrong, put it in the out pile.; If it is a Power Cut card, every player checks their cards. Every plug appliance stops working and goes to the out pile. Cell and charged battery cards stay.; When the pile is finished, count your cards. The player with the most cards still working wins.
+- **rules:** Shuffle the 24 appliance cards and the 4 Power Cut cards together, with the appliance names face up and the backs hidden. Put them in one pile.; Take turns. On your turn, take the top card.; If it is an appliance, say 'plug', 'cell' or 'battery' before you turn it over. Turn it over to check. If you were right, keep the card in front of you. If you were wrong, put it in the out pile.; If it is a Power Cut card, every player checks their cards. Every plug appliance stops working and goes to the out pile. Cell and charged battery cards stay.; When the pile is finished, count your cards. The player with the most cards still working wins.
 - **Printable cards: 24 appliance cards:** Ceiling fan (back: Plug: stops in a power cut); Fridge (back: Plug: stops in a power cut); Mixie (back: Plug: stops in a power cut); TV (back: Plug: stops in a power cut); Tube light (back: Plug: stops in a power cut); Geyser (back: Plug: stops in a power cut); Iron (back: Plug: stops in a power cut); Washing machine (back: Plug: stops in a power cut); Water pump (back: Plug: stops in a power cut); Lift (back: Plug: stops in a power cut); Wi-Fi box (back: Plug: stops in a power cut); Electric kettle (back: Plug: stops in a power cut); Torch (back: Cell: keeps working); Wall clock (back: Cell: keeps working); TV remote (back: Cell: keeps working); Toy car (back: Cell: keeps working); Kitchen weighing scale (back: Cell: keeps working); Small radio (back: Cell: keeps working); Wrist watch (back: Cell: keeps working); Thermometer for fever (back: Cell: keeps working); Mobile phone (back: Charged battery: keeps working); Laptop (back: Charged battery: keeps working); Emergency lamp (back: Charged battery: keeps working); Power bank (back: Charged battery: keeps working)
 - **Printable cards: 4 Power Cut cards:** POWER CUT!; POWER CUT!; POWER CUT!; POWER CUT!
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Read the rules together. Show one plug card and one cell card.  
-  *Parent says:* Each card is a thing in a home. Before you turn it over, say plug or cell. Then check the back.  
-  *Child mode:* Take a card. Say plug or cell. Then turn it over.
+  *Parent says:* Each card is a thing in a home. Before you turn it over, say plug, cell or battery. Then check the back.  
+  *Child mode:* Take a card. Say plug, cell or battery. Then turn it over.
   - Note: Print the appliance cards two-sided, so the answer is on the back.
 - **s2 (8 min)**  
   *Parent does:* Play. When a Power Cut card comes up, ask everyone why their plug cards stopped.  
@@ -199,8 +199,8 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   - Note: The phone, laptop, emergency lamp and power bank have batteries that are charged from the wall. They keep working until their battery runs down.
 - **s3 (2 min)**  
   *Parent does:* Count the working cards. Ask which kind of card was safest to keep.  
-  *Parent says:* Count your cards. Which kind of card was safest to keep in this game? Why?  
-  *Child mode:* Count your cards. Which kind lasted best?
+  *Parent says:* Count the cards you still have. Look at what kinds they are.  
+  *Child mode:* Count your cards. Which kind do you have most of?
   - Ask: Which cards lasted through every power cut? (good: The cell ones.; The ones that carry their own electricity.)
 ### g2 · Act the Appliance: light, sound, heat, cold or movement? (10 min)
 - **rules:** Mix the cards and put them face down.; The actor takes the top card, reads it secretly, and acts it out without words.; The others guess the appliance. Then they say its job: light, sound, heat, cold or movement.; Turn the card over to check the job. One point for the right appliance and one point for the right job.; Take turns being the actor. The first player to 6 points wins.
@@ -212,7 +212,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - **s2 (8 min)**  
   *Parent does:* Take turns acting. After each guess, ask what job electricity is doing.  
   *Parent says:* You guessed the fridge. What job is electricity doing in a fridge: light, sound, heat, cold or movement?  
-  *Child mode:* What job does electricity do in it?
+  *Child mode:* What job does electricity do inside that appliance?
   - Ask: Which appliances do two jobs? (good: The TV makes light and sound.; The hair dryer makes heat and blows air.)
   - Note: A fridge's hum is a sound, but its job is to make cold. Accept a good reason for a second job.
 
@@ -222,7 +222,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - **predict:** Guess first. Will an old cell that cannot light the torch make the clock tick? Why do you think so?
 - **fair test:** We use the same torch and the same clock for every cell. We watch the clock's second hand for the same time, 10 seconds, for every cell. We also try new cells in both, so we know the torch and the clock work.
 - **safety:** If a cell has a white or green crust, or feels wet, do not touch it with bare hands. Put it in a paper bag for e-waste, and wash your hands. Never open a cell or put it in your mouth. Keep button cells away from small children.
-- **record:** Fill in the table with a tick or a cross for the torch and the clock. Then colour each cell's sticker: green if it ran both, yellow if it ran only the clock, red if it ran nothing.
+- **record:** Fill in the table with a tick or a cross for the torch and the clock. Then sort the cells into three piles: ran both, ran only the clock, ran nothing.
 - **results table:** Cell number | Did the torch light? | Did the clock tick?
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Collect the old cells together. 2. Stick a numbered sticker on each one. 3. Check each cell for crust or leaks.  
@@ -232,7 +232,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - **s2 (3 min)**  
   *Parent does:* 1. Put the new cell or cells in the torch, and one new cell in the clock, to show both work. 2. Ask for a guess and a reason. 3. Write the guess.  
   *Parent says:* The new cell lights the torch and runs the clock. Now, will an old cell run the clock? Why do you think so?  
-  *Child mode:* Will an old cell run the clock? Why do you think so?
+  *Child mode:* Will an old cell make the clock tick?
   - Ask: Why do you think so? (good: No, because it is dead.; Maybe, because the clock is small.; Some might, because they are not all the same age.)
   - Note: Any guess is fine. Write it down and do not say what will happen. If your torch takes two cells, you will test the old cells two at a time in it (1 and 2, then 3 and 4, then 5 and 6). Then you test each cell alone in the clock.
 - **s3 (5 min)**  
@@ -249,7 +249,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - **s5 (4 min)**  
   *Parent does:* 1. Count the ticks in each column. 2. Sort the cells into three groups: ran both, ran only the clock, ran nothing. 3. Ask what your child found, and why. 4. Ask the check question.  
   *Parent says:* How many cells lit the torch? How many ran the clock? What did you find out? Why do you think that happened?  
-  *Child mode:* Count your ticks. Which worked with more cells, the torch or the clock? Why?
+  *Child mode:* Count your ticks. Which worked with more cells, the torch or the clock?
   - Ask: Why did some cells run the clock but not the torch? (good: They had a little electricity left.; The torch needs a lot and the clock needs a little.)
   - Note: Wait for your child to say what they found and how they know. Then say it plainly: the old cells still held some electricity. The torch needs a lot every second, so it stopped. The clock needs very little, so it kept going. If every cell ran both, your cells were not so old. If none ran the clock, they were truly used up. Both are real results. Put the cells that ran only the clock in a clock or a remote. Take the cells that ran nothing to an e-waste box.
   - Check: A cell cannot light the torch, but it makes the clock tick. What does that show? → **The cell still has a little electricity**
@@ -257,18 +257,18 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - **question:** Does a phone's battery go down faster when the phone is resting, or when it plays a video with its torch on?
 - **predict:** Guess first. Will the battery number drop more in the 8 minutes of resting, or in the 8 minutes of video with the torch on? Why do you think so?
 - **fair test:** We use the same phone, not charging, for both tests. Each test lasts exactly 8 minutes on a timer. We read the battery number at the start and at the end of each test.
-- **record:** Write the battery number before and after each test. Draw a bar for how much it dropped in each test.
+- **record:** Write the battery number before and after each test. Then take the small number away from the big one to see how much it dropped.
 - **results table:** Test | Battery at the start | Battery at the end | How much it dropped
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Find the battery number on the phone. 2. Show it to your child. 3. Ask for a guess and a reason.  
   *Parent says:* This number shows how full the phone's battery is. A hundred means full. Which will make it drop more: resting, or playing a video with the torch on? Why?  
-  *Child mode:* This number shows how full the battery is. Which will empty it faster: resting, or playing a video with the torch on?
+  *Child mode:* Find the battery number. Guess which empties the battery faster.
   - Note: Take the phone off the charger first. On many phones you see the number by pulling down from the top of the screen or in the battery settings.
 - **s2 (8 min)**  
   *Parent does:* 1. Write the battery number. 2. Lock the phone and put it face down. 3. Set the timer for 8 minutes. 4. Write the number again.  
-  *Parent says:* The phone is resting now. While we wait, let's draw what the phone is doing. After 8 minutes, read the number again.  
+  *Parent says:* The phone is resting now. We wait 8 minutes, and then we read the number again.  
   *Child mode:* Write the number. Let the phone rest. Read it again after 8 minutes.
-  - Note: Use the 8 minutes for the drawing, or play the Power Cut card game. The number may not move at all. That is a result too.
+  - Note: Use the 8 minutes to play the Power Cut card game, or just wait. The number may not move at all. That is a result too.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Write the number. 2. Play a cartoon at full brightness. 3. Switch on the phone's torch. 4. After 8 minutes, write the number again.  
   *Parent says:* Now the phone has two jobs: playing a video and shining its torch. Watch for 8 minutes, then read the number.  
@@ -277,14 +277,14 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - **s4 (2 min)**  
   *Parent does:* Work out each drop together. Ask what your child found and why. Then ask the check question.  
   *Parent says:* How much did the number drop in each test? Which job used more electricity? Why do you think so?  
-  *Child mode:* Which test made the number drop more? Why?
+  *Child mode:* Which test made the number drop more?
   - Ask: Why did the video and torch empty the battery faster? (good: The torch and the screen need lots of electricity.; The phone was doing more work.)
   - Check: A phone's battery drops 3 points in a video test and 0 points while resting. What does that show? → **Making light and pictures uses more electricity than resting**
 
 ## Activities
 ### a1 · Listen to the Electricity: what goes quiet when a switch goes off? (12 min)
 - **safety:** Only the grown-up presses the switches. Children do not touch switches, plugs or sockets with wet hands.
-- **record:** Draw each thing in the box for its job. A thing that does two jobs goes in two boxes.
+- **record:** Write each thing on a slip of paper and put it in the box for its job. A thing that does two jobs goes in two boxes, so write it twice.
 - **s1 (3 min)**  
   *Parent does:* 1. Sit together with eyes shut for one minute. 2. Ask your child to count the sounds they hear.  
   *Parent says:* Shut your eyes. Listen to our home for one minute. How many sounds can you hear? Which ones come from electricity?  
@@ -297,17 +297,17 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   *Child mode:* Something went quiet. What was it? What job did it do?
   - Note: Switch the fridge off at its own wall switch for only a few seconds, then back on. Its hum may take a moment to stop. A light makes no sound, so ask your child to open their eyes for that one.
 - **s3 (3 min)**  
-  *Parent does:* 1. Your child draws each thing in its job box. 2. Count how many things are in each box. 3. Ask the check question.  
-  *Parent says:* Draw each thing in the box for its job. Which box has the most?  
-  *Child mode:* Draw each thing in its box. Which box has the most?
+  *Parent does:* 1. Your child writes each thing on a slip and puts it in its job box. 2. Count how many things are in each box. 3. Ask the check question.  
+  *Parent says:* Put each thing in the box for its job. Which box has the most?  
+  *Child mode:* Put each thing in its job box. Which box has the most?
   - Check: A fan uses electricity to do which job? → **Make movement**
 ### a2 · Follow the Wire: from your fan back to the power station (15 min)
 - **safety:** Look only. Never touch a meter box, a pole, a fallen wire or a wire that sparks. Tell a grown-up at once if you see one.
-- **record:** Draw the path on a long strip of paper: the fan, the switch, the meter, the street pole, the tall towers and a power station at the end.
+- **record:** Draw the path on a long strip of paper: the fan, the switch, the meter, the street pole, the tall towers and a power station at the end. Or write each name on a slip of paper and lay the slips in order.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand under the fan. 2. Show the switch on the switchboard that turns it on. 3. Ask where the electricity comes into the switch from.  
   *Parent says:* When I press this switch, the fan turns. Where do you think the electricity comes from before the switch?  
-  *Child mode:* Where does the fan's electricity come from? Guess.
+  *Child mode:* Look at the switch. Guess where the electricity comes from.
   - Ask: Where does the electricity come from? (good: From the wall.; From wires in the wall.; From outside the building.)
   - Note: Many children say the switch or the wall makes it. Don't correct the guess yet. The walk will answer it.
 - **s2 (6 min) · grown-up needed**  
@@ -316,12 +316,12 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   *Child mode:* Look at the meter. Now look outside. Can you see the wires?
   - Note: In many flats the meters are in a room on the ground floor. Looking from the doorway is enough. In some cities the wires run under the ground, so you may see only a box on the pavement.
 - **s3 (6 min)**  
-  *Parent does:* 1. Tell your child that the wires go back to a power station. 2. Name what power stations use: coal, falling water, wind or sunlight. 3. Your child draws the whole path.  
-  *Parent says:* The wires go all the way back to a power station, often very far away. Some power stations burn coal. Some use falling water, wind or sunlight. Draw the path.  
-  *Child mode:* Draw the path from the power station to your fan.
+  *Parent does:* 1. Tell your child that the wires go back to a power station. 2. Name what power stations use: coal, falling water, wind or sunlight. 3. Your child draws the whole path, or lays name slips in order.  
+  *Parent says:* The wires go all the way back to a power station, often very far away. Some power stations burn coal. Some use falling water, wind or sunlight. Now make the path.  
+  *Child mode:* Make the path from the power station to your fan. Draw it, or lay name slips in order.
   - Check: Where is mains electricity made? → **In a power station**
 ### a3 · Before the Wires: ask an older person about life without electricity (15 min)
-- **record:** On the Then side, draw how a job was done without electricity. On the Now side, draw the appliance that does it today.
+- **record:** On the Then side, show how a job was done without electricity. On the Now side, show the appliance that does it today. Draw it, write it, or take a photo.
 - **s1 (2 min)**  
   *Parent does:* Help your child choose four questions to ask. Suggest these: How did you get light at night? How did you keep cool? How did you grind food? How did you keep milk fresh?  
   *Parent says:* Before we call, let's choose four questions. What would you like to know about life without electricity?  
@@ -333,9 +333,9 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   *Child mode:* Ask your questions. Listen well. What did they use?
   - Note: Typical answers are oil lamps or kerosene lanterns, hand fans, a grinding stone, boiling milk twice a day, and a clay pot for cool water. Some older people got electricity only as adults.
 - **s3 (5 min)**  
-  *Parent does:* Your child draws the then-and-now chart and says which old ways did not need electricity.  
-  *Parent says:* Draw each job: how it was done then, and how it is done now. Look at your chart. Which old way did not need electricity?  
-  *Child mode:* Draw then and now. Which old way did not need electricity?
+  *Parent does:* Your child fills in the then-and-now chart and says which old ways did not need electricity.  
+  *Parent says:* Fill in each job: how it was done then, and how it is done now. You can draw it, write it, or take a photo.  
+  *Child mode:* Fill in then and now for each job. Draw it, write it, or take a photo.
   - Ask: Which old way did not need electricity at all? (good: The grinding stone. It needed only arms.; The hand fan.; The clay pot kept water cool.)
   - Think: Which of the old ways do people still use today?
 
@@ -363,14 +363,14 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 ## Challenges
 ### c1 · Light the Dinner Table in a Power Cut (20 min)
 - **problem:** In a power cut, a torch lights only one small circle. Find a way to light up a whole dinner table using only things that carry their own electricity.
-- **your turn:** Try three ways. In which one can everyone see their plate? Draw your best design.
+- **your turn:** Try three ways. In which one can everyone see their plate? Draw your best design, or take a photo of it.
 - **constraints:** Use only a torch or a phone torch, and things from home.; Nothing may be plugged into the wall.; No candles or diyas, because we are testing electric light.
 - **general:** An emergency lamp has a battery that is charged from the wall before the power cut.; Many homes have an inverter, a big battery that is filled from the mains and runs fans and lights in a power cut.; Solar lamps fill their battery from sunlight during the day.
 - **creative:** Stand a full water bottle on the phone's torch. The water spreads the light all around, like a lamp.; Shine the torch at a white ceiling, so the light bounces down over the table.; Cover the torch with a thin white cloth, so the beam spreads wider.
 - **s1 (4 min)**  
   *Parent does:* Switch off the room lights in the evening. Shine one torch at the table. Ask for ideas before showing any.  
   *Parent says:* The torch lights only one plate. How could we spread the light over the whole table, without using electricity from the wall?  
-  *Child mode:* The torch lights one plate. How can you light them all?
+  *Child mode:* Think of ways to spread the light over every plate.
   - Ask: What could you try? (good: Point it at the ceiling.; Use a mirror or a steel plate.; Put something over it.)
 - **s2 (12 min)**  
   *Parent does:* Your child tries three ideas, one at a time. Count how many plates you can see for each.  
@@ -378,9 +378,9 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   *Child mode:* Try an idea. Count the plates you can see.
   - Note: The water bottle on a phone torch works well. A bottle with a little milk in the water spreads the light even more. Keep the phone dry.
 - **s3 (4 min)**  
-  *Parent does:* Talk about which way worked best and why. Your child draws the best design.  
+  *Parent does:* Talk about which way worked best and why. Your child shows the best design, by drawing it or taking a photo.  
   *Parent says:* Which way lit the most plates? Why do you think it worked?  
-  *Child mode:* Which way worked best? Draw it.
+  *Child mode:* Which way worked best? Draw it, or take a photo.
   - Check: Why does the water bottle lamp still work in a power cut? → **The phone carries its own charged battery**
 
 ## Worksheets

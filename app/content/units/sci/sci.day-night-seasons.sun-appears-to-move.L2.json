@@ -297,7 +297,7 @@
    "title": "Morning, Noon or Evening? Shadow clue cards",
    "mins": 12,
    "players": "2 to 5 players",
-   "context": "This is a card game about shadows. Each card describes a shadow. You must say whether it is morning, noon or evening, and give a reason.",
+   "context": "This is a card game about shadows. Each card describes a shadow. You must say whether it is morning, noon or evening, and give a reason. You will find out how a shadow tells you the time of day.",
    "printables": [
     {
      "kind": "cards",
@@ -428,7 +428,7 @@
    "title": "Be My Shadow: a moving game",
    "mins": 10,
    "players": "2 or more players, in pairs",
-   "context": "This is a moving game. One player stands still as a person. Their partner lies down on the floor as the person's shadow, and must be the right length and point the right way for the time on the card.",
+   "context": "This is a moving game. One player stands still as a person. Their partner lies down on the floor as the person's shadow, and must be the right length and point the right way for the time on the card. You will feel why shadows are long or short at different times.",
    "printables": [
     {
      "kind": "cards",
@@ -499,7 +499,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Tape up the signs. 2. Move furniture so there is space on the floor. 3. Choose who stands and who is the shadow.",
+     "do": "1. Tape up the signs. 2. Move furniture so there is space on the floor. 3. Choose who stands and who is the shadow. 4. Get the paper Sun from The Sun on a Stick, or a yellow plate.",
      "say": "One of you stands. The other is the shadow: lie on the floor with your feet touching your partner's feet.",
      "kid": "One of you stands. One of you is the shadow, on the floor.",
      "adult": true,
@@ -584,7 +584,7 @@
      "what": "Guess first. Then mark the corner of the sun patch five times, 5 minutes apart, and count how far it moved."
     }
    ],
-   "record": "Fill in the table. Draw the patch with five small numbered dots at its corner, from mark 1 to mark 5.",
+   "record": "Fill in the table. Take a photo of the five coins on the floor, or draw the patch with five numbered dots.",
    "setup": [
     {
      "art": "A bright rectangle of sunlight with grill stripes on a tiled floor, coming in through a balcony door.",
@@ -609,7 +609,7 @@
      "mins": 3,
      "do": "1. Find a sun patch on the floor, or on a wall. 2. Pick one corner of the patch that has a sharp edge. 3. Ask your child for a guess and a reason.",
      "say": "Look at this patch of sunlight. Nobody will touch the window. In 20 minutes, will the patch stay here, or move? Why do you think so?",
-     "kid": "Look at the patch of sunlight. Will it stay still, or move? Why do you think so?",
+     "kid": "Look at the patch of sunlight. Will it stay still, or move?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -632,7 +632,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Every 5 minutes, your child puts the next coin at the same corner. 2. Write the time each time. 3. While you wait, read the story Kutti Follows the Sunshine aloud, or draw the patch.",
+     "do": "1. Every 5 minutes, your child puts the next coin at the same corner. 2. Write the time each time. 3. While you wait, read the story Kutti Follows the Sunshine aloud, or play a quiet game nearby.",
      "say": "Five minutes have passed. Where is the corner now? Put the next coin there. Is it in the same place as before?",
      "kid": "Every 5 minutes, put the next coin at the corner. Is it moving?",
      "ask": [
@@ -654,7 +654,7 @@
      "mins": 5,
      "do": "1. Count the finger widths from coin 1 to coin 5. 2. Ask your child to say what they think, what they saw, and why.",
      "say": "Count the finger widths from the first coin to the last. Nobody touched the window. So what made the patch move?",
-     "kid": "Count the finger widths from coin 1 to coin 5. What made the patch move?",
+     "kid": "Count the finger widths from coin 1 to coin 5. Say what you saw.",
      "ask": [
       {
        "q": "What did you see? What do you think made the patch move?",
@@ -667,7 +667,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "You mark a sun patch every 5 minutes. Nobody touches the window. What will you see?",
+      "q": "You mark a sun patch every 5 minutes and nobody touches the window. What do you see?",
       "options": [
        "The patch moves a little each time",
        "The patch stays exactly where it was",
@@ -685,7 +685,7 @@
    "title": "Shadow Footsteps: how long is your shadow in the morning, at noon and in the evening? (on a sunny terrace or in the building compound)",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you stand in the same sunny spot three times in one day. Each time, you count how many of your own footsteps long your shadow is, and see which way it points.",
+   "context": "In this experiment you stand in the same sunny spot three times in one day. Each time, you count how many of your own footsteps long your shadow is, and see which way it points. You will find out whether your shadow stays the same all day.",
    "question": "Is your shadow the same length all day, or does it change between morning, noon and evening?",
    "predict": "Guess first. When will your shadow be longest: in the morning, at noon or in the evening? When will it be shortest? Why do you think so?",
    "fair_test": "We stand on the same spot each time, with our back straight and our arms down. We count in the same child's footsteps, heel touching toe.",
@@ -721,7 +721,7 @@
      "what": "Count how many footsteps long your shadow is at about 8 in the morning, around noon and at about 5 in the evening. Each count takes about 5 minutes. Then compare."
     }
    ],
-   "record": "Fill in the table, and draw yourself three times with your shadow, the right length and pointing the right way.",
+   "record": "Fill in the table. Take a photo of yourself with your shadow each time, or draw yourself three times with the shadow the right length.",
    "setup": [
     {
      "art": "A girl standing on a chalk cross on a sunny terrace in the morning, with a long shadow stretching away from her.",
@@ -740,7 +740,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the results table. 2. Ask for a guess and a reason for each time of day.",
+     "do": "1. Make the results table on paper. 2. Ask for a guess and a reason for each time of day.",
      "say": "We will measure your shadow in footsteps three times today: morning, noon and evening. When will it be longest? Why do you think so?",
      "kid": "When will your shadow be longest? Morning, noon or evening? Why?",
      "parent": "This test needs an open sunny place. A grown-up fills in the table. If you have no open sunny place, skip this test or do it at a park or on a relative's terrace."
@@ -750,7 +750,7 @@
      "mins": 5,
      "do": "1. At about 8 in the morning, draw a cross on the ground with chalk. 2. Your child stands on the cross. 3. Put a stone where the shadow of the head ends. 4. Your child walks heel to toe from the cross to the stone and counts the footsteps. 5. Note a building or tree the shadow points at.",
      "say": "Stand on the cross and keep still. I will put a stone where your shadow ends. Now walk from the cross to the stone, heel to toe, and count. What is the shadow pointing at?",
-     "kid": "Stand on the cross. Keep still. Then walk to the stone, heel to toe, and count your steps.",
+     "kid": "Stand on the cross. Keep still. Then walk to the stone, heel to toe, and count your steps. Say what the shadow points at.",
      "adult": true,
      "parent": "A child's shadow at 8 in the morning is often 8 to 15 of the child's own footsteps. The exact number depends on the month and the city."
     },
@@ -788,7 +788,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Look at the table together. Ask what your child thinks, what they saw and why.",
-     "say": "Your body was the same height all day. What changed your shadow?",
+     "say": "Look at the table. Which time had the longest shadow, and which had the shortest?",
      "kid": "You did not grow or shrink. So why did your shadow change?",
      "check": {
       "t": "mcq",
@@ -818,7 +818,7 @@
      "qty": 1
     },
     {
-     "item": "paper and a pencil",
+     "item": "paper and a pencil, a few coins and a few buttons",
      "qty": 1
     }
    ],
@@ -826,19 +826,19 @@
     {
      "day": 1,
      "mins": 6,
-     "what": "In the morning, find every room with sunlight coming in, and draw a quick map."
+     "what": "In the morning, write a paper slip for each room and find every room with sunlight coming in."
     },
     {
      "day": 1,
      "mins": 4,
-     "what": "In the afternoon, check every room again and mark the map."
+     "what": "In the afternoon, check every room again and mark the slips."
     }
    ],
-   "record": "A simple map of your home with a yellow sun beside each room that had sunlight in the morning, and an orange sun for the afternoon.",
+   "record": "Your room slips on the floor, with a coin on each room that had sunlight in the morning and a button on each room that had sunlight in the afternoon. Take a photo.",
    "setup": [
     {
      "art": "A simple child's map of a flat with boxes for rooms: kitchen, bedroom, hall, balcony.",
-     "caption": "1. Draw a box for each room."
+     "caption": "1. Write a paper slip for each room."
     },
     {
      "art": "A child standing at a bedroom doorway, pointing at a bright patch of sunlight on the bed.",
@@ -846,23 +846,23 @@
     },
     {
      "art": "The same map with yellow suns by the balcony and bedroom, and orange suns by the kitchen.",
-     "caption": "3. Mark the map in the morning and again in the afternoon."
+     "caption": "3. Put a coin on the sunny rooms in the morning and a button in the afternoon."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Help your child draw a box for each room. 2. Write the room names.",
-     "say": "Let us draw our home. One box for each room.",
-     "kid": "Draw a box for each room in your home."
+     "do": "1. Help your child write each room's name on a slip of paper. 2. Lay the slips on the floor, in the same order as the rooms.",
+     "say": "Let us make a paper slip for each room.",
+     "kid": "Write the name of each room on a slip of paper."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Walk round every room together. 2. Look for sun patches on floors, walls and beds. 3. Your child draws a yellow sun on each sunny room.",
+     "do": "1. Walk round every room together. 2. Look for sun patches on floors, walls and beds. 3. Back at the slips, your child puts a coin on each sunny room.",
      "say": "Let us find every place where sunlight is coming in. Look at the floors and the walls. Do not look at the Sun itself.",
-     "kid": "Find every room with sunlight in it. Draw a yellow sun there.",
+     "kid": "Find every room with sunlight. Then put a coin on its slip.",
      "ask": [
       {
        "q": "Which rooms have sunlight now? Why only those?",
@@ -876,7 +876,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. In the afternoon, walk round again. 2. Your child draws an orange sun in each sunny room. 3. Compare the two times.",
+     "do": "1. In the afternoon, walk round again. 2. Your child puts a button on the slip of each sunny room. 3. Compare the two times.",
      "say": "It is afternoon now. Guess first: will the sunshine be in the same rooms as this morning? Now let us check.",
      "kid": "Guess first. Is the sunshine in the same rooms now? Go and check.",
      "check": {
@@ -978,7 +978,7 @@
    "context": "In this activity you draw the view from one window or the balcony, and mark where the Sun is at three times of day. You use the brightness and the shadows to find it, never by looking at the Sun.",
    "materials": [
     {
-     "item": "paper and crayons, with yellow",
+     "item": "paper and crayons, and 3 small yellow paper circles",
      "qty": 1
     },
     {
@@ -1008,7 +1008,7 @@
      "what": "Mark it again in the afternoon, and join the three suns with a curved line."
     }
    ],
-   "record": "A drawing of your view with three yellow suns, each with its time, joined by a curved arrow.",
+   "record": "Your drawing of the view with three yellow paper suns, each with its time, joined by a curved arrow.",
    "setup": [
     {
      "art": "A child drawing the row of buildings and a water tank seen from a balcony, along the bottom of a sheet of paper.",
@@ -1023,27 +1023,27 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Choose a window or the balcony. 2. Your child draws the buildings, trees and tanks along the bottom of the paper.",
-     "say": "Draw what you can see from here, along the bottom of the page. Draw the tall things carefully.",
-     "kid": "Draw what you see along the bottom of the page."
+     "do": "1. Choose a window or the balcony. 2. Your child draws the buildings, trees and tanks along the bottom, or cuts them from paper.",
+     "say": "Show what you can see from here, along the bottom of the page. You can draw it, or cut it from paper.",
+     "kid": "Show what you see along the bottom of the page. Draw it or cut it from paper."
     },
     {
      "id": "s2",
      "mins": 2,
-     "do": "1. Stand with your child at the window. 2. Look at the buildings and the shadows. 3. The Sun is on the side away from the shadows. 4. Your child draws a small sun there and writes the time.",
-     "say": "Do not look at the Sun. Look at the buildings and the shadows. The Sun is on the side away from the shadows. Draw a small sun there.",
-     "kid": "Do not look at the Sun. Find the shadows. The Sun is on the other side. Draw a sun there.",
+     "do": "1. Stand with your child at the window. 2. Look at the buildings and the shadows. 3. The Sun is on the side away from the shadows. 4. Your child puts a yellow paper sun on the page there and writes the time beside it.",
+     "say": "Do not look at the Sun. Look at the buildings and the shadows. The Sun is on the side away from the shadows. Put a yellow sun there.",
+     "kid": "Do not look at the Sun. Find the shadows. The Sun is on the other side. Put a yellow sun there.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "1. Come back around noon and in the afternoon. 2. Mark the Sun each time. 3. Join the three suns with a curved arrow.",
-     "say": "Before you draw, guess: will the Sun be higher or lower than this morning? Now draw it. Join your suns with a curve.",
-     "kid": "Guess first. Higher or lower? Draw the new sun. Join the suns.",
+     "say": "Before you place it, guess: will the Sun be higher or lower than this morning? Now put a sun there. Join your suns with a curve.",
+     "kid": "Guess first. Higher or lower? Place the new sun. Join the suns.",
      "check": {
       "t": "mcq",
-      "q": "You drew the Sun at 9 in the morning and at noon. Where will your 3 o'clock sun go?",
+      "q": "You marked the Sun at 9 in the morning and at noon. Where will your 3 o'clock sun go?",
       "options": [
        "Lower down, on the other side from the morning sun",
        "Higher than the noon sun",
@@ -1053,7 +1053,7 @@
       "why": "After noon, the Sun seems to sink again, towards the west. So at 3 o'clock it is lower than at noon, on the opposite side from the morning sun."
      },
      "wait": "Come back around noon, then in the afternoon",
-     "parent": "Around noon in most of India, the Sun is very high, so draw it near the top of the paper. Do not lean over the balcony railing to look up. The pattern to look for is: low in the morning, high at noon, low in the afternoon."
+     "parent": "Around noon in most of India, the Sun is very high, so put it near the top of the paper. Do not lean over the balcony railing to look up. The pattern to look for is: low in the morning, high at noon, low in the afternoon."
     }
    ]
   },
@@ -1112,7 +1112,7 @@
      "mins": 2,
      "do": "Ask your child what all the answers have in common.",
      "say": "Why do people need to move their drying things? What does that tell us about the sunshine?",
-     "kid": "Why do people move their drying things?",
+     "kid": "Look at all the answers. What is the same in every one?",
      "ask": [
       {
        "q": "Why do people move them?",
@@ -1141,7 +1141,7 @@
    "title": "The Sun on a Stick: show the path from sunrise to sunset",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you make a paper Sun on a stick and show its path across a wall, from your East sign to your West sign, while a grown-up calls out times of the day.",
+   "context": "In this activity you make a paper Sun on a stick and show its path across a wall, from your East sign to your West sign, while a grown-up calls out times of the day. You will see that the Sun's path goes low, then high, then low again.",
    "materials": [
     {
      "item": "a paper plate or a round of yellow paper",
@@ -1167,7 +1167,7 @@
      "what": "Make the paper Sun, then move it to the right place for each time called out."
     }
    ],
-   "record": "A drawing of the arch your Sun travelled, with the times written along it.",
+   "record": "A photo of your Sun held low by East, high in the middle and low by West. Or draw the arch it travelled, with the times.",
    "setup": [
     {
      "art": "A yellow paper plate Sun taped to a ruler, held by a child.",
@@ -1182,9 +1182,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Your child colours the paper plate yellow and tapes it to the stick.",
-     "say": "Make your Sun. Colour it bright yellow.",
-     "kid": "Colour your Sun. Tape it to the stick."
+     "do": "Your child makes the paper plate yellow, with crayons or yellow paper, and tapes it to the stick.",
+     "say": "Make your Sun. Make it bright yellow.",
+     "kid": "Make your Sun yellow. Tape it to the stick."
     },
     {
      "id": "s2",
@@ -1207,7 +1207,7 @@
      "mins": 2,
      "do": "Ask your child where their own shadow would be for two of the times.",
      "say": "If the Sun is here, low by the East sign, where would your shadow point?",
-     "kid": "The Sun is by the East sign. Where does your shadow point?",
+     "kid": "The Sun is low by the East sign. Point your arm the way your shadow goes.",
      "check": {
       "t": "mcq",
       "q": "You hold your paper Sun low, near the West sign. What time of day are you showing?",
@@ -1279,7 +1279,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Stick the first strip at the corner and write the time. 2. Every half hour, stick the next strip at the corner and write the time. 3. Leave the strips in place.",
-     "say": "It is half past nine. Stick a strip at the corner and write the time.",
+     "say": "Stick a strip at the corner of the patch now. Write the time on it.",
      "kid": "Stick a strip at the corner. Write the time on it.",
      "wait": "Every half hour for two hours"
     },
@@ -1296,8 +1296,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Ask your child how good the floor clock was.",
-     "say": "Was your floor clock right? Why does a sun patch work like a clock?",
-     "kid": "Was your floor clock right? Why does it work?",
+     "say": "Was your floor clock right? How close was it?",
+     "kid": "How close was your guess to the real time?",
      "check": {
       "t": "mcq",
       "q": "A floor clock worked on Monday and again on Tuesday. Why can a sun patch tell the time?",
@@ -1374,7 +1374,7 @@
      "mins": 5,
      "do": "Ask your child which torch place was hardest, and why.",
      "say": "Which Sun was hardest to block: morning, noon or evening? Why?",
-     "kid": "Which Sun was hardest to block? Why?",
+     "kid": "Say which torch place was hardest. Point to where light got in.",
      "check": {
       "t": "mcq",
       "q": "You put a flat roof over the toy. When does the torch still shine on the toy?",

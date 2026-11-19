@@ -202,17 +202,17 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - **s2 (5 min)**  
   *Parent does:* Turn over a covering rule first, such as 'Feathers'. Each player lays down the cards that fit.  
   *Parent says:* The rule is feathers. Which of your animals have feathers? How do you know?  
-  *Child mode:* The rule is feathers. Put down every animal with feathers.
-  - Ask: A fruit bat has fur and wings. Why does the fruit bat card not go down for the rule 'Feathers'? (good: A bat has fur, not feathers.; Only birds have feathers.)
+  *Child mode:* Look at your cards. Put down every animal with feathers.
+  - Ask: The fruit bat has wings. Why does the fruit bat card not go down for the rule 'Feathers'? (good: A bat has fur, not feathers.; Only birds have feathers.)
 - **s3 (5 min)**  
   *Parent does:* Keep playing. Turn over leg rules and food rules. Read the back of any card a player is unsure about.  
-  *Parent says:* The rule is 'eats both'. Look at the back if you are not sure. Who eats plant food and animal food?  
-  *Child mode:* The rule is 'eats both'. Who eats plants and animals? Check the back.
+  *Parent says:* The rule is 'eats both'. That means an animal who eats plant food and animal food. Look at the back if you are not sure.  
+  *Child mode:* Read the backs of your cards. Put down every animal who eats both.
   - Note: The 'eats both' group is the crow, the hen, the ant and you. Children often put the cow there, because a cow gives milk. Ask what the cow eats, not what the cow gives.
 - **s4 (2 min)**  
   *Parent does:* At the end, find the hen card and put it on the floor. Then ask the question below.  
   *Parent says:* The hen fits three rules: feathers, 2 legs and eats both. Did the hen change, or did the rule change?  
-  *Child mode:* The hen fits three different rules. Did the hen change, or the rule?
+  *Child mode:* Count the rules the hen fits. Is it still the same hen?
   - Check: Which rule puts the hen in the same group as you? → **2 legs**
 ### g2 · Three Clues: guess the animal (10 min)
 - **rules:** One player picks an animal card from the 16 animal cards of the game Find My Group, and hides the card.; The other players take turns. Each picks a question card and asks it.; The hider answers only 'yes' or 'no'.; After each answer, the asker may guess the animal. A wrong guess counts as a question. A right guess ends the round.; Count how many questions it took. Then swap, so someone else hides. Try to guess in fewer questions than the round before.; Put the question cards back after each round. If all 9 are used and nobody has guessed, the hider shows the card and a new round starts.
@@ -224,14 +224,14 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - **s2 (6 min)**  
   *Parent does:* Play 3 or 4 rounds, taking turns to hide.  
   *Parent says:* Which question helps you more: 'Do you have feathers?' or 'Do you eat other animals?'  
-  *Child mode:* Which question helps most? Pick it and ask.
+  *Child mode:* Pick a question card and ask it. Try to guess in fewer questions each round.
   - Note: A good first question splits the cards into two big groups, like 'Do you eat other animals?' About half the cards say yes. A question about one rare feature, like feathers, often gets a 'no' and tells less.
 - **s3 (2 min)**  
-  *Parent does:* Ask which question was most useful.  
+  *Parent does:* Ask which question was most useful. Then ask the check question.  
   *Parent says:* Which question helped you most? Why?  
-  *Child mode:* Which question helped you most? Why?
+  *Child mode:* Think about the question that ruled out the most animals.
   - Ask: Which question helped you most? Why? (good: Do you eat other animals? About half the cards say yes, so it cuts the cards into two big groups.; A question that animals answer differently helps most, because it rules out many animals at once.)
-  - Check: The animal has scales and 4 legs. Which animal is this? → **Gecko**
+  - Check: A hider says yes to scales and yes to 4 legs. Which animal is hiding? → **Gecko**
 
 ## Experiments
 ### e1 · Ant Lunch: do ants eat plant food, animal food, or both? (20 min)
@@ -239,12 +239,12 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - **predict:** Guess first. Will the ants come to the banana, the rice, the dead insect, or more than one? Why do you think so?
 - **fair test:** We put the three foods out at the same time, each the same distance from the ants. The pieces are all small. We count the ants on each food at the same times. If one spot gets all the ants, we swap the foods round on another day and try again, to check the spot was not the reason.
 - **safety:** Use the small ants of your kitchen, not big red ants, which can bite. Watch the ants, but don't touch them. Pick up the dead insect with a tissue, and wash your hands afterwards. Throw the food away at the end and wipe the spot.
-- **record:** Draw the paper with the three foods on it. Draw a dot for each ant you counted on each food after 10 minutes. Write P next to plant food and A next to animal food.
+- **record:** Fill in the results table with the number of ants on each food after 5 and 10 minutes. Write P next to plant food and A next to animal food. You can also take a photo of each food with its ants.
 - **results table:** Food | Plant food or animal food? | Ants after 5 minutes | Ants after 10 minutes
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the three foods. 2. Ask which are plant food and which is animal food. 3. Ask for a guess and a reason. 4. Write the guess down.  
   *Parent says:* The banana and the rice come from plants. The mosquito is an animal. Which will the ants come to? Why do you think so?  
-  *Child mode:* Banana and rice come from plants. The mosquito is an animal. Which will the ants eat? Why?
+  *Child mode:* Banana and rice come from plants. The mosquito is an animal. Which food will the ants come to?
   - Ask: Why do you think so? (good: Ants like sweet things, so the banana.; Ants carry dead insects, I have seen it.; They might like all of them.)
   - Note: Do not say what will happen. Every guess with a reason is a good guess. The test will answer it.
 - **s2 (4 min)**  
@@ -255,13 +255,13 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - **s3 (10 min)**  
   *Parent does:* 1. After 5 minutes, count the ants on each food and write the numbers. 2. Count again at 10 minutes. 3. Watch what the ants do at each food.  
   *Parent says:* How many ants are on the banana? On the rice? On the mosquito? What are they doing there?  
-  *Child mode:* Count the ants on each food. Write the numbers. What are the ants doing?
+  *Child mode:* Count the ants on each food. Write the numbers in the table.
   - Ask: What are the ants doing? (good: Drinking the banana juice.; Pulling a leg off the mosquito.; Carrying bits away in a line.)
   - Note: Many kitchen ants come to both the banana and the dead insect, and fewer come to plain rice. Kinds of ants differ, so your numbers may be different. If almost all the ants went to the food nearest their line, do the test again on another day with the foods swapped round. If no ants came after 10 minutes, leave the paper and count again in one hour. Whatever you find is a real result.
 - **s4 (3 min)**  
   *Parent does:* Ask your child which foods the ants came to, what the ants did there, and why they think so. Then wipe up the food.  
   *Parent says:* Was your guess right? Which foods did the ants come to? So which food group are our ants in?  
-  *Child mode:* Was your guess right? Which foods did the ants eat? Which food group are they in?
+  *Child mode:* Was your guess right? Which foods did the ants come to?
   - Ask: Which food group are our ants in? (good: Eats both, because they came to the banana and the mosquito.; Omnivores.)
   - Check: In the ant test, ants came to the banana and to the dead mosquito. What does that tell you? → **Ants eat both plant food and animal food**
 
@@ -270,17 +270,17 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - **s1 (4 min)**  
   *Parent does:* 1. Spread out the 16 cards. 2. Your child sorts them by covering onto the plates. 3. Ask who is with the hen.  
   *Parent says:* Sort every animal by what covers their body. Who is on the same plate as the hen?  
-  *Child mode:* Sort the animals by their covering. Who is with the hen?
+  *Child mode:* Put each animal on the plate that matches what covers their body.
   - Note: The crow, the hen and the parrot all have feathers, so they sit on the same plate. The butterfly has tiny scales on the wings and a hard outer case. The butterfly can go on either the scales plate or the hard case plate, if your child says why.
 - **s2 (3 min)**  
   *Parent does:* Mix the cards. Your child sorts them by legs. Ask who is with the hen now.  
   *Parent says:* Now sort them by legs. Who is with the hen this time?  
-  *Child mode:* Now sort by legs. Who is with the hen now?
+  *Child mode:* Mix the cards. Put each animal on a plate by how many legs they have.
   - Ask: Who is with the hen now? (good: The crow, the parrot, the fruit bat and me.; Me! I have 2 legs too.)
 - **s3 (3 min)**  
   *Parent does:* Mix the cards again. Your child sorts them by food, using the backs. Then ask the check question.  
-  *Parent says:* Now sort them by food. Read the backs. Did the hen change, or did the rule change?  
-  *Child mode:* Sort by food now. Read the backs. Did the hen change?
+  *Parent says:* Now sort them by food. Read the backs. Who sits with the hen this time?  
+  *Child mode:* Read the back of each card. Put each animal on a plate by what they eat.
   - Check: The hen sat with different animals each time. Why? → **Each rule made new groups**
 ### a2 · Same and Different Hoops (12 min)
 - **s1 (2 min)**  
@@ -290,12 +290,12 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - **s2 (5 min)**  
   *Parent does:* Your child says features of the crow and the hen. Your child writes each on a slip, or you write it for them. Your child puts each slip in the crow side, the hen side, or the middle.  
   *Parent says:* Tell me one thing about the crow. Does the hen have that too? Then where does the slip go?  
-  *Child mode:* Say one thing about the crow. Does the hen have that too? Put the slip in the right place.
+  *Child mode:* Write one thing about the crow on a slip. Put the slip on the crow side, the hen side or the middle.
   - Note: The middle can hold feathers, a beak, 2 legs, 2 wings, lays eggs and eats both. The crow side can hold flies far, and black and grey. The hen side can hold flies only a short way, and a red comb on the head.
 - **s3 (5 min)**  
   *Parent does:* Clear the hoops. Now put the 'you' card and the cow card in the hoops, and compare again.  
   *Parent says:* Now compare yourself and a cow. What do you share? What is only yours?  
-  *Child mode:* Now compare you and a cow. What do you both have?
+  *Child mode:* Put the 'you' card and the cow card in the hoops. Make slips and put them in place.
   - Ask: What is in the middle? (good: Hair.; We both drink milk as babies.; Eyes and ears.)
   - Check: Which feature goes in the middle for you and a cow? → **Hair**
 ### a3 · Crow Menu: a week of watching (if a crow visits your window or balcony) (15 min, 5 days)
@@ -304,7 +304,7 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
   *Parent does:* 1. Make a table with 5 columns, one for each day. 2. Watch the crow from the window for 3 minutes, and write what they eat. Your child writes, or you write for them.  
   *Parent says:* Let's watch quietly. What does the crow eat today?  
   *Child mode:* Watch the crow for 3 minutes. Write what they eat.
-  - Note: Watch from inside, so the crow is not scared away. If no crow comes, a myna works too. Name the table after that bird.
+  - Note: Watch from inside, so the crow is not scared away. If no crow comes, watch a myna instead and write the bird's name on the table.
   - Wait: Watch again tomorrow.
 - **s2 (9 min)**  
   *Parent does:* On days 2, 3 and 4, watch for 3 minutes each day and add to the table.  
@@ -315,13 +315,13 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - **s3 (3 min)**  
   *Parent does:* Read the whole table together. Mark each food P for plant or A for animal.  
   *Parent says:* Look at all the foods. How many came from plants? How many were animals? So which group is the crow in?  
-  *Child mode:* Mark each food P or A. Which group is the crow in?
+  *Child mode:* Write P next to each plant food and A next to each animal food.
   - Check: A crow ate rice, a banana and a moth this week. Which food group is the crow in? → **Eats both**
 
 ## Projects
 ### p1 · Our Home Animal Grid (25 min, 2 days)
 - **record:** The grid itself, with at least 6 animals, including a person.
-- **schedule:** day 1: Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row about your child. Then add any animal you can see from the window. (12 min); day 2: Add the animals you found today. Colour each food box: green for plants, red for animals, both colours for both. (13 min)
+- **schedule:** day 1: Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row about your child. Then add any animal you can see from the window. Write each animal's name. (12 min); day 2: Add the animals you found today. Mark each food box: P for plants, A for animals, P and A for both. (13 min)
 - **s1 (12 min)**  
   *Parent does:* 1. Draw a grid with 4 columns: animal, covering, legs, food. 2. Fill in the first row about your child. 3. Add any animal you can see from the window.  
   *Parent says:* The first row is you. What covers your body? How many legs? What do you eat?  
@@ -329,31 +329,31 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
   - Note: Animals that are nearly always about: ants, a housefly, a mosquito, a crow, a pigeon and a gecko. A mosquito has 6 legs, like every insect.
   - Wait: Leave the grid for tomorrow.
 - **s2 (13 min)**  
-  *Parent does:* 1. Add the animals your child found today. 2. Colour each food box: green for plants, red for animals, half and half for both.  
-  *Parent says:* Look down the food column. Which colour do you see most? Which animals are like you?  
-  *Child mode:* Colour each food box. Which animals eat both, like you?
-  - Check: On your grid, which animal has 6 legs? → **The housefly**
+  *Parent does:* 1. Add the animals your child found today. 2. Mark each food box: P for plants, A for animals, P and A for both.  
+  *Parent says:* Look down the food column. Which letter do you see most? Which animals are like you?  
+  *Child mode:* Mark each food box P, A or both. Which animals eat both, like you?
+  - Check: Which of these animals has 6 legs? → **The housefly**
 
 ## Challenges
 ### c1 · Feed the Rescue Centre (20 min)
 - **problem:** A small animal rescue centre in Mysuru is caring for a cow, a shikra (a small hawk), a star tortoise, a crow and a green parrot. The centre has only three food trays. How can the trays be filled so that every animal gets food they eat?
-- **your turn:** Draw your three trays and the food on each one. Draw lines from each animal to their tray. Then add a new animal, a gecko, and say which tray the gecko needs.
+- **your turn:** Write each food on a slip and put the slips on your three trays. Put each animal next to their tray. Then add a new animal, a gecko, and say which tray the gecko needs.
 - **constraints:** There are only three trays.; Every animal must get food they eat.; Foods to choose from: grass, fruit, seeds, cooked rice, small pieces of meat, and insects.
 - **general:** Make one tray for each food group: a plant tray, a meat tray, and a tray with both.; Put the cow, the tortoise and the parrot at the plant tray, the shikra at the meat tray, and the crow at the tray with both.
-- **creative:** The crow eats both, so the crow could share the plant tray and the meat tray. Then the third tray can hold water.; Draw the food on each tray as a picture label, so a helper who cannot read knows which tray is which.
+- **creative:** The crow eats both, so the crow could share the plant tray and the meat tray. Then the third tray can hold water.; Put one real food, like a grain of rice, on each tray as a label, so a helper who cannot read knows which tray is which.
 - **s1 (3 min)**  
-  *Parent does:* Read the problem to your child. Show the five animal pictures.  
+  *Parent does:* Read the problem to your child. Lay out the five animal cards and slips.  
   *Parent says:* A small rescue centre has five animals and only three trays. What does each animal eat?  
-  *Child mode:* Five animals, three trays. What does each animal eat?
+  *Child mode:* Look at the five animals. Think about what each one eats.
 - **s2 (12 min)**  
-  *Parent does:* Your child draws three trays, fills them, and draws a line from each animal to a tray.  
+  *Parent does:* Your child writes each food on a slip and puts the slips on the three plates. Then your child puts each animal card next to their tray.  
   *Parent says:* Which foods go on each tray? Which animal goes to which tray?  
-  *Child mode:* Draw three trays. Fill them. Draw a line from each animal to a tray.
+  *Child mode:* Put each food slip on a tray. Then put each animal next to a tray they can eat from.
   - Note: A shikra eats lizards, small birds and mice, so the shikra needs the meat. A star tortoise eats grass, flowers and fruit. The gecko eats insects, so the gecko needs the meat tray. Let your child decide, and ask for a reason each time.
 - **s3 (5 min)**  
   *Parent does:* Your child explains the plan. Ask the check question.  
   *Parent says:* Tell me your plan. Why does each animal go to that tray?  
-  *Child mode:* Say your plan. Why does each animal go there?
+  *Child mode:* Tell your grown-up why each animal sits by that tray.
   - Check: Which animal can eat from both the plant tray and the meat tray? → **The crow**
 
 ## Worksheets

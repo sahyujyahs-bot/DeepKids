@@ -302,7 +302,7 @@
    "title": "The Sweater and the Coconut Oil: does a sweater warm things up?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you take two small katoris of coconut oil that have been in the fridge, so the oil is white and hard. You wrap one in a sweater and leave one bare. Then you watch which oil melts first.",
+   "context": "You will find out whether a sweater makes warmth. Take two small katoris of coconut oil that have been in the fridge, so the oil is white and hard. Wrap one in a sweater and leave one bare. Then watch which oil melts first.",
    "question": "If a sweater makes warmth, the oil inside it should melt first. Does it?",
    "predict": "Guess first. Which oil will melt first: the bare one, or the one wrapped in the sweater? Why do you think so?",
    "fair_test": "Both katoris are the same, with the same amount of oil, and both come out of the fridge at the same time. They sit on the same table, out of the sun and away from the fan. Only the sweater is different. We check both at the same times.",
@@ -331,7 +331,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons for drawing",
+     "item": "paper and a pencil, to fill in the table",
      "qty": 1
     }
    ],
@@ -342,7 +342,7 @@
      "what": "An hour before, put two katoris of coconut oil in the fridge. Then guess which oil will melt first, wrap one katori in a sweater, and check both at 10, 20 and 30 minutes. While you wait, do the Make It or Keep It warmth hunt."
     }
    ],
-   "record": "Draw the two katoris at each check. Colour the hard oil white and the runny oil yellow.",
+   "record": "At each check, write 'hard' or 'runny' for each katori in the table. You can also take a photo of both katoris.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -377,7 +377,7 @@
      "mins": 3,
      "do": "1. Take both katoris out of the fridge. 2. Let your child tilt them gently and look at the oil. 3. Hand them the sweater to hold.",
      "say": "Look at the oil. It is white and hard, because the fridge made it cold. Now hold the sweater. We call sweaters warm clothes. What do you think a sweater does?",
-     "kid": "Look at the oil. It is white and hard. Now hold the sweater. What does a sweater do?",
+     "kid": "Tilt a katori and look at the oil. Then feel the sweater in your hands.",
      "ask": [
       {
        "q": "What do you think a sweater does?",
@@ -395,7 +395,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason. Write the guess in the table.",
      "say": "We will wrap one katori in the sweater and leave the other bare. Which oil will melt first? Why do you think so?",
-     "kid": "Which oil will melt first, the bare one or the wrapped one? Why?",
+     "kid": "Pick the katori that you think will melt first.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -418,7 +418,7 @@
     {
      "id": "s4",
      "mins": 30,
-     "do": "1. At 10 minutes, open the sweater just enough to peep in, then close it. 2. Tilt each katori a little. Is there runny oil? 3. Draw both. 4. Do the same at 20 and 30 minutes.",
+     "do": "1. At 10 minutes, open the sweater just enough to peep in, then close it. 2. Tilt each katori a little. Is there runny oil? 3. Write 'hard' or 'runny' for each katori in the table. A photo of both works too. 4. Do the same at 20 and 30 minutes.",
      "say": "Time to peep. Tilt the bare katori. Is the oil runny? Now peep into the sweater, quickly. Is that oil runny?",
      "kid": "Peep into both katoris. Tilt them gently. Which oil is runny?",
      "parent": "While you wait between checks, do the Make It or Keep It warmth hunt. In a warm room, the bare oil usually turns clear at the edges within about 10 to 15 minutes. It is mostly runny by about 20 to 30 minutes. The wrapped oil stays white much longer. If it is still hard at 30 minutes, that is your answer: the sweater slowed the melting. You can look again later. In a cooler room, keep checking until the bare oil has melted."
@@ -428,7 +428,7 @@
      "mins": 5,
      "do": "Put the two katoris side by side, both open. Ask what your child saw, and why. Then ask the check question.",
      "say": "Which oil melted first? What did the sweater do to the cold oil? Did it warm it up, or keep it cold?",
-     "kid": "Which oil melted first? Did the sweater warm the oil, or keep it cold?",
+     "kid": "Look at both katoris side by side. Tell your grown-up which oil melted first.",
      "ask": [
       {
        "q": "Why did the bare oil melt first?",
@@ -456,7 +456,7 @@
      "mins": 2,
      "do": "Ask your child to put the same sweater on for two minutes, then feel inside it.",
      "say": "Now put the sweater on. Wait two minutes. Does it feel warm now? The sweater makes no warmth. So where is this warmth coming from?",
-     "kid": "Put the sweater on. Wait two minutes. Is it warm? Where does the warmth come from?",
+     "kid": "Put the sweater on and wait two minutes. Then feel the inside of it.",
      "ask": [
       {
        "q": "Where does the warmth come from?",
@@ -475,7 +475,7 @@
    "title": "The Warm Spot Race: where does ice melt fastest?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put a small ice cube in each of four places. One cube sits in your own hand, and three sit on steel plates. Then you watch which ice cube melts first.",
+   "context": "You will find out which place melts ice fastest. Put one small ice cube in your own hand, and three more on steel plates in three different places. Then watch which melts first.",
    "question": "Which place melts ice fastest: your hand, a sunny spot, the table or the floor?",
    "predict": "Guess first. Which ice cube will melt first, and which last? Why do you think so?",
    "fair_test": "The four ice cubes are the same size and come from the same tray. All four go to their places at the same moment. Only the place is different.",
@@ -555,7 +555,7 @@
      "mins": 3,
      "do": "1. Choose four places with your child: your child's hand, a sunny spot, the table and the floor in the shade. 2. Take four ice cubes of the same size from the freezer tray, only when everyone is ready.",
      "say": "We will race four ice cubes. One sits in your hand, one in a sunny spot, one on the table and one on the floor. Which one will melt first? Which last? Why?",
-     "kid": "Four ice cubes: one in your hand, one in a sunny spot, one on the table and one on the floor. Which will melt first? Which will melt last? Why?",
+     "kid": "Point to the place where you think the ice will melt first. Then point to the place where it will melt last.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -572,7 +572,7 @@
      "mins": 12,
      "do": "1. Put the cubes in their places at the same time. 2. Your child holds one cube in a closed hand, over a plate. 3. Every 2 minutes, look at all four. 4. Write the order they melt in.",
      "say": "Hold the ice cube in your closed hand, over the plate. Every 2 minutes we look at all four. Which one has melted?",
-     "kid": "Hold the ice in your hand. Every 2 minutes, check all four ice cubes. Which one has melted?",
+     "kid": "Hold the ice in your closed hand. Every 2 minutes, look at all four cubes.",
      "parent": "The cube in the hand, or the one in strong sun, usually melts first, in a few minutes. The cubes on the table and the floor are slower, and they may melt at nearly the same time. If so, give them the same number. If the hand gets too cold, swap hands. Stop at 20 minutes and compare how much ice is left on each plate."
     },
     {
@@ -580,7 +580,7 @@
      "mins": 5,
      "do": "Talk about the order together. Ask what your child found, and why.",
      "say": "Which ice cube melted first? Which melted last? What does the ice in your hand tell us about how warm your hand is?",
-     "kid": "Which ice melted first? What does that tell you about how warm your hand is?",
+     "kid": "Tell your grown-up the order the ice cubes melted in.",
      "ask": [
       {
        "q": "Why did the ice in your hand melt so fast?",
@@ -611,7 +611,7 @@
    "title": "Make It or Keep It? A warmth hunt at home",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you walk round your home and find warm things. For each one, you decide: does it make warmth, or does it only keep warmth in?",
+   "context": "You will find out which things at home make warmth, and which only keep warmth in. Walk round your home and find warm things. For each one, decide: does it make warmth, or only keep it in?",
    "materials": [
     {
      "item": "a sheet of paper with two columns: 'Makes warmth' and 'Keeps warmth in'",
@@ -629,7 +629,7 @@
      "what": "Find 6 or more warm things at home and sort them into two columns: 'Makes warmth' and 'Keeps warmth in'."
     }
    ],
-   "record": "Draw each thing in its column. Count how many are in each column.",
+   "record": "Write each thing's name in its column. A photo of each thing works too. Count how many are in each column.",
    "setup": [
     {
      "art": "A sheet of paper with two columns headed 'Makes warmth' and 'Keeps warmth in', with a small sun drawn in the first column and a folded blanket in the second.",
@@ -646,7 +646,7 @@
      "mins": 2,
      "do": "Show the two columns: 'Makes warmth' and 'Keeps warmth in'. Do one example together: a quilt.",
      "say": "Some things make warmth. Some things only keep warmth in. Think of a quilt on the bed. Is it warm by itself, or does it keep your warmth in?",
-     "kid": "Look at a quilt. Does it make warmth, or keep it in?",
+     "kid": "Imagine a quilt on a bed with nobody under it. Is it warm?",
      "ask": [
       {
        "q": "Does a quilt make warmth?",
@@ -660,9 +660,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Walk round the home together. 2. Find at least 6 warm things or things that keep warmth in. 3. Your child draws each one in a column.",
+     "do": "1. Walk round the home together. 2. Find at least 6 warm things or things that keep warmth in. 3. Your child writes each one in a column, or tells you and you write it.",
      "say": "Let's hunt. Look in the kitchen, the bedroom and at the windows. What makes warmth? What keeps warmth in?",
-     "kid": "Hunt for warm things at home. Draw each one under 'Makes warmth' or 'Keeps warmth in'.",
+     "kid": "Hunt for warm things at home. Write each one under 'Makes warmth' or 'Keeps warmth in'.",
      "parent": "Things that make warmth: sunlight at a window, the gas stove (look, don't touch), an iron box, a kettle, a pet, a family member. Things that keep warmth in: a quilt, a sweater, a cap, socks, a pot lid, a cloth over chapatis, a flask. Never touch the stove or a hot iron."
     },
     {
@@ -690,7 +690,7 @@
    "title": "Haa and Whoo: warm breath, cool breath",
    "mins": 5,
    "days": 1,
-   "context": "In this activity you breathe on your hand in two ways. Your breath feels warm one way and cool the other way.",
+   "context": "You will find out why your breath feels warm one way and cool another way. Breathe on your hand in two ways, and feel the difference.",
    "materials": [
     {
      "item": "your own hand and your own breath",
@@ -704,7 +704,7 @@
      "what": "Breathe 'haa' and blow 'whoo' on your hand, and talk about the difference."
     }
    ],
-   "record": "Draw your mouth open wide for haa and small and round for whoo. Write warm or cool under each.",
+   "record": "Say or write 'warm' or 'cool' for haa and for whoo. You can also draw your mouth open wide for haa and small and round for whoo.",
    "setup": [
     {
      "art": "A child holding a palm close to a wide-open mouth, breathing out softly, with a soft orange cloud.",
@@ -721,7 +721,7 @@
      "mins": 2,
      "do": "Show your child how to hold a palm near their mouth and breathe out slowly with the mouth wide open, saying 'haa'.",
      "say": "Hold your palm near your mouth. Open wide and breathe out slowly: haa. How does it feel?",
-     "kid": "Open your mouth wide. Breathe 'haa' on your palm. Warm or cool?",
+     "kid": "Open your mouth wide. Breathe out slowly on your palm: haa.",
      "ask": [
       {
        "q": "How does it feel?",
@@ -752,9 +752,9 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Ask the check question.",
-     "say": "So which way would you breathe to warm cold hands?",
-     "kid": "Which way warms cold hands: haa or whoo?",
+     "do": "Ask your child to act it out. Then ask the check question.",
+     "say": "Your hands are cold on a winter morning. Show me how you would breathe on them.",
+     "kid": "Pretend your hands are cold. Show how you would breathe on them.",
      "check": {
       "t": "mcq",
       "q": "Which breath would warm your cold hands?",
@@ -774,7 +774,7 @@
    "title": "Where Is My Body Warmest? A touch map",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you touch the back of your hand to different parts of your body. You find the warm parts and the cooler parts, and mark them on a drawing of yourself.",
+   "context": "You will find out which parts of your body are warm and which are cooler. Touch the back of your hand to different parts of your body. Then mark the warm and cooler parts on a body outline.",
    "materials": [
     {
      "item": "a sheet of paper. Draw a simple body outline on it: a round head, a body, two arms and two legs.",
@@ -792,7 +792,7 @@
      "what": "Feel seven parts of your body and colour them red for warm and blue for cooler."
     }
    ],
-   "record": "Colour the body outline: red for the warmest parts, blue for the cooler parts.",
+   "record": "Colour the body outline: red for the warmest parts, blue for the cooler parts. Or point to each part and say warm or cooler.",
    "setup": [
     {
      "art": "A child pressing the back of one hand gently against their neck.",
@@ -817,7 +817,7 @@
      "mins": 2,
      "do": "Your child colours the outline. If they do not see a pattern, tell them this. The cool parts are the ones that stick out, where more air touches them.",
      "say": "Colour the warm parts red and the cool parts blue. Which parts are cool? Do you see a pattern?",
-     "kid": "Colour warm parts red. Colour cool parts blue. Do you see a pattern?",
+     "kid": "Colour warm parts red and cool parts blue. Or point to each part and say warm or cool. Do you see a pattern?",
      "ask": [
       {
        "q": "Which parts were coolest?",
@@ -833,7 +833,7 @@
      "mins": 1,
      "do": "Ask the check question.",
      "say": "On a cold morning, which parts would need a cap and socks?",
-     "kid": "Which parts need a cap and socks on a cold day?",
+     "kid": "Point to the body parts you would cover on a cold morning.",
      "check": {
       "t": "mcq",
       "q": "Why do your toes feel cooler than your tummy?",
@@ -855,7 +855,7 @@
    "title": "Makes It, Keeps It or Cools It? A sorting card game",
    "mins": 15,
    "players": "2 to 4 players, or a parent and a child.",
-   "context": "This is a card game. Each card shows something from daily life. Players decide: does it make warmth, keep warmth in, or cool you down?",
+   "context": "You will practise telling apart three kinds of things: things that make warmth, things that only keep warmth in, and things that cool you down. Each card shows one thing from daily life.",
    "printables": [
     {
      "kind": "cards",
@@ -1005,14 +1005,14 @@
      "mins": 2,
      "do": "Lay out the labels and read the rules together.",
      "say": "Each card is something from daily life. You decide: does it make warmth, keep warmth in, or cool you down? Then turn it over to check.",
-     "kid": "Read your card. Does it make warmth, keep warmth in, or cool you down?"
+     "kid": "Take the top card. Put it by the label you think is right."
     },
     {
      "id": "s2",
      "mins": 11,
-     "do": "Play. After each card, ask the player for their reason.",
-     "say": "Suppose the card says a woollen cap. Does a cap make warmth? Where does the warmth under a cap come from?",
-     "kid": "Why did you put it there? Say your reason.",
+     "do": "Play. After each card, ask the player for their reason. For a woollen cap, ask the question below.",
+     "say": "Why did you put it by that label? For example, where does the warmth under a cap come from?",
+     "kid": "Tell the other players why you chose that label.",
      "ask": [
       {
        "q": "Where does the warmth under a cap come from?",
@@ -1028,8 +1028,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Here is one last card to think about. A cat is asleep in a sunny spot. What is making warmth there?",
-     "kid": "A cat sleeps in a sunny spot. What makes warmth there?",
+     "say": "Here is one last card to think about. Picture a cat asleep in a sunny spot.",
+     "kid": "Name every warm thing you can see in your picture.",
      "check": {
       "t": "mcq",
       "q": "A cat sleeps in a sunny spot. What makes warmth there?",
@@ -1051,14 +1051,14 @@
    "title": "My Book of Warm Things: two days",
    "mins": 30,
    "days": 2,
-   "context": "In this project you make a small book. Six pages each show one thing that warms you up, and say whether it makes warmth or keeps it in. The last page is about you.",
+   "context": "In this project you make a small book that shows what makes warmth and what only keeps it in. Six pages each show one warm thing and say 'makes' or 'keeps'. The last page is about you.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled or tied with thread",
      "qty": 3
     },
     {
-     "item": "crayons and a pencil",
+     "item": "crayons, a pencil, glue, old newspapers or magazines, and scraps of cloth or wool",
      "qty": 1
     }
    ],
@@ -1066,12 +1066,12 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Make the book. Draw three things that make warmth: one from the sky, one from the kitchen, and one living body."
+     "what": "Make the book. Draw or stick in three things that make warmth: one from the sky, one from the kitchen, and one living body."
     },
     {
      "day": 2,
      "mins": 15,
-     "what": "Draw three things that keep warmth in. On the last page, draw yourself and write 'I make my own warmth'."
+     "what": "Add three things that keep warmth in. On the last page, draw yourself or stick in a photo, and write 'I make my own warmth'."
     }
    ],
    "record": "A book with seven pages. Six pages have 'makes' or 'keeps' written on them, and the last page is you.",
@@ -1082,19 +1082,19 @@
     },
     {
      "art": "An open page with a drawing of a hen sitting on eggs and the word 'makes' written under it.",
-     "caption": "2. Draw one warm thing on each page. Write makes or keeps."
+     "caption": "2. Draw one warm thing on each page, or stick in a picture. Write makes or keeps."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 15,
-     "do": "Day 1: help your child make the book and draw three things that make warmth.",
-     "say": "Draw three things that make warmth. One from the sky, one from the kitchen, and one living body. Write 'makes' under each.",
-     "kid": "Draw three things that make warmth. Write 'makes' under each.",
+     "do": "Day 1: help your child make the book. Then they draw, or cut out and stick in, three things that make warmth.",
+     "say": "Make three pages about things that make warmth. Pick one from the sky, one from the kitchen, and one living body. Draw each one, or cut out a picture and stick it in. Write 'makes' under each.",
+     "kid": "Make three 'makes' pages. Draw each thing, or stick in a picture.",
      "ask": [
       {
-       "q": "Which living body did you draw?",
+       "q": "Which living body did you pick?",
        "good": [
         "Me.",
         "Our dog.",
@@ -1106,9 +1106,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Day 2: help your child draw three things that keep warmth in, and a last page of themselves.",
-     "say": "Now draw three things that keep warmth in. Write 'keeps' under each. On the last page, draw yourself. Who makes your warmth?",
-     "kid": "Draw three things that keep warmth in. Then draw yourself.",
+     "do": "Day 2: help your child make three pages about things that keep warmth in, and a last page about themselves.",
+     "say": "Now make three pages about things that keep warmth in. Stick a scrap of cloth or wool on a page if you can, or draw the thing. Write 'keeps' under each. On the last page, draw yourself or stick in a photo of you.",
+     "kid": "Make three 'keeps' pages. Then make a last page about you.",
      "ask": [
       {
        "q": "Who makes the warmth inside your sweater?",
@@ -1152,7 +1152,7 @@
     "Stack it between other hot dosas, so they keep each other warm.",
     "Rinse the dabba with warm water first, so the steel is not cold."
    ],
-   "your_turn": "Make your own dosa keeper. After 20 minutes, touch both dosas. Is yours warmer than the bare one? Draw your design.",
+   "your_turn": "Make your own dosa keeper. After 20 minutes, touch both dosas. Is yours warmer than the bare one? Tell your grown-up how you wrapped it, or draw your design.",
    "setup": [
     {
      "art": "Two dosas on a counter: one on a bare plate, and one being wrapped in a cotton cloth by a girl.",
@@ -1169,7 +1169,7 @@
      "mins": 3,
      "do": "Read the problem. Ask for ideas before showing any.",
      "say": "Someone will eat in 20 minutes. How can we keep this dosa warm without the stove?",
-     "kid": "How can you keep a dosa warm for 20 minutes?",
+     "kid": "Look around for things that could keep a dosa warm.",
      "ask": [
       {
        "q": "What could you use?",
@@ -1194,7 +1194,7 @@
      "mins": 20,
      "do": "Wait 20 minutes. Do another activity meanwhile. Then touch both dosas.",
      "say": "Touch the bare dosa. Now touch yours. Which is warmer? Why?",
-     "kid": "Touch both dosas. Which is warmer? Why?",
+     "kid": "Touch the bare dosa. Then touch yours.",
      "ask": [
       {
        "q": "Why did your dosa stay warmer?",
@@ -1251,7 +1251,7 @@
     "Ask someone at home to hold your hands in theirs.",
     "Pull socks over your hands like gloves."
    ],
-   "your_turn": "Which idea warmed your hands best? Which ideas made warmth, and which only kept it in? Draw your best idea.",
+   "your_turn": "Which idea warmed your hands best? Which ideas made warmth, and which only kept it in? Show your grown-up your best idea, or draw it.",
    "setup": [
     {
      "art": "A child holding a frosty steel tumbler of cold water in both hands.",
@@ -1292,7 +1292,7 @@
      "mins": 3,
      "do": "Talk about which ideas made warmth and which kept it in. Ask the check question.",
      "say": "Which ideas made new warmth? Which ones only kept your warmth in?",
-     "kid": "Which ideas made warmth? Which only kept it in?",
+     "kid": "Sort the ideas you tried into two groups: made warmth, and kept warmth in.",
      "check": {
       "t": "mcq",
       "q": "Pulling socks over your hands warms them. Why?",

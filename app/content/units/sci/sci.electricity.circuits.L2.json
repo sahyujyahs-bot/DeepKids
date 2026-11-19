@@ -266,7 +266,7 @@
    "title": "The Shape Test: does it matter how the wires lie?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you build a circuit with a cell, two wires and a bulb. Then you change the wires: coil one, cross them, knot one. You also try two wrong joins. Before each test, you guess whether the bulb will light.",
+   "context": "In this experiment you find out what a bulb really needs to light. You build a circuit with a cell, two wires and a bulb. Then you coil, cross and knot the wires, and try two wrong joins. Before each test, you guess whether the bulb will light.",
    "question": "Does the bulb still light if the wires are coiled, crossed or knotted? What does the bulb really need to light?",
    "predict": "Before each test, guess: will the bulb light or stay dark? Why do you think so?",
    "fair_test": "We use the same cell, the same two wires and the same bulb for every test. We change only one thing each time. After each test we put the circuit back to straight wires and check that the bulb still lights, so we know nothing else has gone wrong.",
@@ -312,7 +312,7 @@
      "what": "Build the circuit, then guess and test six ways of joining it. Count how many lit."
     }
    ],
-   "record": "Fill in the table with the six tests: 1 straight wires, 2 coiled wire, 3 crossed wires, 4 knotted wire, 5 both wires on the flat end, 6 bulb unscrewed. Draw a sun for light and a dark circle for dark. Then count the suns.",
+   "record": "Fill in the table with the six tests: 1 straight wires, 2 coiled wire, 3 crossed wires, 4 knotted wire, 5 both wires on the flat end, 6 bulb unscrewed. Write L for light and D for dark. Then count the Ls.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: results of the Shape Test",
@@ -366,9 +366,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Draw the table with six rows. 2. Write test 1, straight wires: it lit. 3. Ask for a guess and a reason for test 2.",
+     "do": "1. Rule a table on paper with six rows. 2. Write test 1, straight wires: it lit. 3. Ask for a guess and a reason for test 2.",
      "say": "Test 1 is our straight circuit. It lights. Now I will wind one wire round a pencil. Will the bulb light or stay dark? Why do you think so?",
-     "kid": "Will a coiled wire still light the bulb? Why do you think so?",
+     "kid": "Guess. Will a coiled wire still light the bulb?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -418,7 +418,7 @@
      "mins": 5,
      "do": "1. Count the tests that lit and the tests that stayed dark. 2. Ask what your child found, and why. 3. Ask the check question.",
      "say": "How many tests lit the bulb? How many stayed dark? What was the same about the ones that stayed dark?",
-     "kid": "Count the suns. Count the dark circles. Why did two stay dark?",
+     "kid": "Count the tests that lit. Count the tests that stayed dark.",
      "ask": [
       {
        "q": "Why did the coiled and knotted wires still light the bulb?",
@@ -455,7 +455,7 @@
    "title": "Which Way Round? Turning the cell and the bulb",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you find out whether a bulb cares which way round the cell is. You turn the cell round, then swap the wires at the bulb, and watch the bulb each time.",
+   "context": "In this experiment you find out whether a bulb cares which way round the cell is, and why a TV remote does. You turn the cell round, then swap the wires at the bulb, and watch the bulb each time.",
    "question": "Does the bulb still light if we turn the cell round, so the electricity goes the other way?",
    "predict": "Guess first. If we turn the cell round, will the bulb light, stay dark or get dimmer? Why do you think so?",
    "fair_test": "We use the same cell, wires and bulb each time. We only turn the cell round, or swap the wires at the bulb. We look at the bulb in the same spot in the room, so the brightness is easy to compare.",
@@ -497,7 +497,7 @@
      "what": "Build the circuit, turn the cell round, swap the wires at the bulb, and compare with a remote."
     }
    ],
-   "record": "Draw the circuit three times: as it was, with the cell turned round, and with the wires swapped at the bulb. Draw rays round each bulb that lit.",
+   "record": "Fill in the table. Write what the bulb did as it was, with the cell turned round, and with the wires swapped at the bulb. Take a photo of each, if you can.",
    "setup": [
     {
      "art": "A circuit on a table with the cell's bump pointing left, the red wire on the bump, and a glowing bulb.",
@@ -535,7 +535,7 @@
      "mins": 5,
      "do": "1. Take the wire ends out from under the band. 2. Turn the cell round. 3. Tuck each wire back under the band at the end now beside it. 4. Look at the bulb. 5. Then swap the two clips at the bulb holder and look again.",
      "say": "Now the electricity has to go round the other way. Look at the bulb. Is it lit? Is it as bright?",
-     "kid": "Turn the cell round. Is the bulb lit? Now swap the clips at the bulb.",
+     "kid": "Turn the cell round and look at the bulb. Then swap the clips at the bulb and look again.",
      "parent": "The bulb lights just the same both ways. A plain bulb does not care which way the electricity flows through it."
     },
     {
@@ -552,7 +552,7 @@
      "mins": 3,
      "do": "Ask what your child found, and why. Then ask the check question.",
      "say": "What happened when we turned the cell round in our circuit? What happened in the remote? Why are they different?",
-     "kid": "What did the bulb do? What did the remote do?",
+     "kid": "Which one surprised you? Tell your grown-up why.",
      "ask": [
       {
        "q": "Why did the bulb light both ways?",
@@ -583,7 +583,7 @@
    "title": "Your First Circuit: make the bulb shine",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you get a cell, a bulb in a holder and two wires. Your job is to make the bulb shine. Then you trace the path of the electricity with your finger.",
+   "context": "In this activity you find out how to make a bulb shine, and why it needs a complete ring. You get a cell, a bulb in a holder and two wires. Then you trace the path of the electricity with your finger.",
    "materials": [
     {
      "item": "one AA cell, 1.5 volts. A new one, or one that still lights a torch well.",
@@ -617,7 +617,7 @@
      "what": "Make the bulb shine, trace the path with a finger, make a gap, and draw the circuit."
     }
    ],
-   "record": "Draw your circuit. Colour the wires. Draw arrows from the bump of the cell, through the bulb and back to the flat end.",
+   "record": "Draw your circuit. Colour the wires. Draw arrows from the bump of the cell, through the bulb and back to the flat end. Or take a photo and show the path with your finger.",
    "setup": [
     {
      "art": "An AA cell with a rubber band along it, a bulb in a holder and two wires lying apart on a table.",
@@ -664,7 +664,7 @@
      "mins": 3,
      "do": "1. Ask your child to trace the path with a finger. 2. Lift one wire off the cell. 3. Put it back.",
      "say": "Put your finger on the bump of the cell. Follow the path all the way. Where does your finger end up? Now watch when I lift this wire.",
-     "kid": "Follow the path with your finger. Where do you end up? Now lift one wire.",
+     "kid": "Trace the path with your finger. Then watch the bulb.",
      "ask": [
       {
        "q": "Why did the bulb go out when the wire came off?",
@@ -678,9 +678,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Your child draws the circuit and adds arrows going round.",
-     "say": "Draw what you built. Add arrows to show where the electricity goes.",
-     "kid": "Draw your circuit. Draw arrows going round.",
+     "do": "Your child draws the circuit and adds arrows going round. Or your child points along the path and tells you the way round.",
+     "say": "Draw what you built, with arrows to show where the electricity goes. Or point along the path and tell me.",
+     "kid": "Show the way the electricity goes round. Draw it, or point and tell.",
      "parent": "Accept any drawing that shows a ring: cell, wire, bulb, wire, back to the cell. Many children draw only one wire at first. Ask them to check against the real circuit.",
      "check": {
       "t": "mcq",
@@ -701,7 +701,7 @@
    "title": "Look Inside a Bulb: the thin wire that glows",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look closely at a torch bulb with a magnifying glass or a phone camera. You find the parts inside. Then you light the bulb and see which part glows.",
+   "context": "In this activity you find out which part of a bulb makes the light. You look closely at a torch bulb with a magnifying glass or a phone camera. Then you light the bulb and see which part glows.",
    "materials": [
     {
      "item": "a spare torch bulb (the one from your circuit is fine)",
@@ -729,7 +729,7 @@
      "what": "Look at a bulb up close, draw it, light it and find the part that glows."
     }
    ],
-   "record": "Draw the bulb large. Label the glass, the filament, the two thick wires, the tip and the metal side.",
+   "record": "Draw the bulb large. Label the glass, the filament, the two thick wires, the tip and the metal side. Or point to each part on the real bulb and say its name.",
    "setup": [
     {
      "art": "A child looking at a torch bulb through a magnifying glass, with the tiny coiled filament and two thick wires visible inside.",
@@ -770,9 +770,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Your child draws and labels the bulb.",
-     "say": "Draw the bulb big. Label the glass, the coil, the two thick wires, the tip and the side.",
-     "kid": "Draw the bulb. Label the parts.",
+     "do": "Your child draws and labels the bulb. Or your child points to each part on the real bulb and says its name.",
+     "say": "Draw the bulb big and label the glass, the coil, the two thick wires, the tip and the side. Or point to each part and say its name.",
+     "kid": "Name the parts of the bulb. Draw them, or point and say.",
      "check": {
       "t": "mcq",
       "q": "Which part of a bulb glows?",
@@ -792,7 +792,7 @@
    "title": "Count the Twos: why cells, bulbs and plugs need two",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you hunt round your home for things that use electricity. You count their metal ends: on cells, bulbs and plugs. You look for a pattern.",
+   "context": "In this activity you find out why a cell, a bulb and a plug each have two metal parts. You hunt round your home for things that use electricity. You count their metal ends and look for a pattern.",
    "problem": "Your bulb circuit needed two wires. One wire took the electricity to the bulb, and the other wire brought it back to the cell. Do other things that use electricity also have two metal parts? Count the metal ends on a cell, a bulb and some plugs, and see.",
    "materials": [
     {
@@ -856,8 +856,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Look at the tallies together. 2. Ask for the pattern and the reason.",
-     "say": "Look at our table. What number keeps coming up? Why do you think every one has at least two?",
-     "kid": "What number keeps coming up? Why?",
+     "say": "Look at our table. What number keeps coming up?",
+     "kid": "Look at the tallies. Which number do you see most?",
      "ask": [
       {
        "q": "Why does every plug have at least two pins?",
@@ -891,7 +891,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a detective game for 2 or more players with a real circuit. One player secretly makes one fault, so the bulb goes dark. The other player finds it and fixes it.",
+   "context": "This is a detective game for 2 or more players with a real circuit. One player secretly makes one fault, so the bulb goes dark. The other player finds it and fixes it. You will learn where a circuit can break.",
    "printables": [
     {
      "kind": "cards",
@@ -974,7 +974,7 @@
      "mins": 12,
      "do": "Take turns being the breaker and the fixer. After each round, ask how they found the fault.",
      "say": "How did you find it? Where did you look first?",
-     "kid": "How did you find it?",
+     "kid": "Tell what clue helped you find it.",
      "ask": [
       {
        "q": "What do you check first when the bulb is dark?",
@@ -1007,7 +1007,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick drawing game. One player draws a circuit from a card. The others say light or dark, and why. Then you build it to check.",
+   "context": "This is a quick game. One player draws a circuit from a card, or lays it out with loose parts. The others say light or dark, and why. You will learn to tell from a picture whether a bulb will light. Then you build it to check.",
    "printables": [
     {
      "kind": "cards",
@@ -1058,7 +1058,7 @@
    ],
    "rules": [
     "Mix the cards and put them face down.",
-    "The drawer takes a card, reads the front quietly and draws that circuit.",
+    "The drawer takes a card, reads the front quietly and draws that circuit. A player who does not like to draw lays out the parts on the table instead, without clipping them.",
     "The others say 'light' or 'dark', and give a reason.",
     "Turn the card over to check. One point for the right answer and one point for a good reason.",
     "If anyone is unsure, build the circuit with the real kit to see."
@@ -1079,14 +1079,14 @@
      "mins": 2,
      "do": "Read one card and draw it yourself, to show how to play.",
      "say": "I will draw a circuit. Will this bulb light or stay dark? Tell me why.",
-     "kid": "Look at the drawing. Light or dark? Why?"
+     "kid": "Look at the drawing. Follow the path with your finger."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Take turns drawing. After each answer, ask for the reason before you turn the card.",
-     "say": "Why do you think it will be dark? Show me with your finger where the path breaks.",
-     "kid": "Show the path with your finger. Where does it break?",
+     "say": "Why do you think so? Show me with your finger how the path goes.",
+     "kid": "Follow the path with your finger. Is there a break?",
      "ask": [
       {
        "q": "How can you tell from a drawing if the bulb will light?",
@@ -1107,7 +1107,7 @@
    "title": "A Lighthouse with a Light on Top",
    "mins": 40,
    "days": 2,
-   "context": "In this project you build a paper lighthouse, like the one at Mamallapuram in Tamil Nadu. A bulb shines at the top. The wires run up inside, out of sight, so the cell can sit at the bottom.",
+   "context": "In this project you build a paper lighthouse, like the one at Mamallapuram in Tamil Nadu. A bulb shines at the top. The wires run up inside, out of sight, so the cell can sit at the bottom. You will find out whether the bulb still lights with its wires hidden and bent.",
    "materials": [
     {
      "item": "an empty toilet roll tube, or a sheet of thick paper rolled into a tube",
@@ -1154,7 +1154,7 @@
      "what": "Run the wires down inside, join the cell at the bottom, and test the light."
     }
    ],
-   "record": "Draw your lighthouse, and draw the hidden wires inside it with dotted lines.",
+   "record": "Take a photo of your lit lighthouse and tell your grown-up where the hidden wires run. Or draw it, with the hidden wires as dotted lines.",
    "setup": [
     {
      "art": "A toilet roll tube painted in red and white stripes, with a small bulb in its holder taped on top inside a cut-down paper cup.",
@@ -1183,7 +1183,7 @@
      "id": "s2",
      "mins": 15,
      "do": "Day 2: 1. Clip the two long wires to the bulb holder. 2. Push them down inside the tube. 3. Put the rubber band on the cell. 4. Tuck one wire at the bump and one at the flat end.",
-     "say": "The wires go down inside, where nobody can see them. Will the bulb still light with the wires bent and hidden? Why?",
+     "say": "The wires go down inside, where nobody can see them. Join them to the cell.",
      "kid": "Push the wires down inside. Join them to the cell. Will it light?",
      "ask": [
       {
@@ -1200,7 +1200,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Switch off the room light and look at the lighthouse. Then unclip the cell.",
-     "say": "Switch off the light. Our lighthouse is shining. The wires inside are bent and hidden. Why does it still work?",
+     "say": "Switch off the light. Our lighthouse is shining.",
      "kid": "Switch off the room light. Look at your lighthouse shine.",
      "check": {
       "t": "mcq",
@@ -1222,7 +1222,7 @@
    "id": "c1",
    "title": "The Foil Wire Challenge",
    "mins": 20,
-   "context": "This is a design challenge. You have no bought wires. Can you light the bulb using kitchen foil as the wires?",
+   "context": "This is a design challenge. You have no bought wires. You will find out whether kitchen foil can carry electricity like a wire, and light the bulb.",
    "problem": "Light the bulb with no bought wires. You may use kitchen foil, paper and tape. The bulb must stay lit for one minute without anyone holding the joins.",
    "constraints": [
     "No bought wires.",
@@ -1247,7 +1247,7 @@
     "Hold the foil on the cell with a rubber band instead of tape, so the joins press tightly.",
     "With a loose bulb, wrap one foil wire round the metal side and stand the bulb's tip on the other foil wire."
    ],
-   "your_turn": "Now design your own foil circuit. Draw it first. Build it, then let go and count to 60. Is the bulb still lit?",
+   "your_turn": "Now design your own foil circuit. Lay it out first, or draw it. Build it, then let go and count to 60. Is the bulb still lit?",
    "setup": [
     {
      "art": "A long strip of kitchen foil being folded lengthwise into a narrow foil wire by a child's hands.",
@@ -1262,9 +1262,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Read the problem together. 2. Draw two ideas before building.",
-     "say": "We have no wires today. Could foil do the job of a wire? Why do you think so? Let's draw two ideas first.",
-     "kid": "No wires today. Can foil be a wire? Draw two ideas."
+     "do": "1. Read the problem together. 2. Ask for two ideas for joining the cell to the bulb with foil. 3. Lay each idea out on the table without taping it.",
+     "say": "We have no wires today. Could foil do the job of a wire? Why do you think so? Let's lay out two ideas first.",
+     "kid": "Show two ways to join the cell to the bulb with foil. Lay them out, or draw them."
     },
     {
      "id": "s2",

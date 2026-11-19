@@ -194,20 +194,20 @@ Amma and Ammamma looked at each other and smiled.
 - **rules:** Cut out the 25 squares. Lay them in 5 rows of 5, with square 1 at the bottom left. Lay every row from left to right, and put each new row above the one before.; Each player needs a button or a coin as a counter. You also need one dice, or six paper slips marked 1 to 6 to pick from.; Everyone starts on square 1. Take turns to roll the dice and move your counter.; If you land on a ladder square, read the square aloud. Say why it is safe. Then climb to the square the ladder leads to.; If you land on a snake square, read the square aloud. Say why it is dangerous. Then slide down to the square the snake leads to.; On a plain square, say one electricity rule you know. If you do not know one, just rest.; If you cannot say why, the grown-up helps, and you still move.; The first player to reach square 25, or to roll past it, wins.
 - **Printable board: Board of 25 squares, 5 rows of 5:** Square 1: Start.; Square 2: Plain square. Say one electricity rule you know, or just rest.; Square 3: You dry your hands on a towel before you press the fan switch. Climb the ladder to square 11.; Square 4: Plain square. Say one electricity rule you know, or just rest.; Square 5: You poke a hairpin at a socket. Slide down the snake to square 1.; Square 6: Plain square. Say one electricity rule you know, or just rest.; Square 7: You tell a grown-up that the iron's wire is cracked. Climb the ladder to square 14.; Square 8: Plain square. Say one electricity rule you know, or just rest.; Square 9: You pull a plug out by its wire. Slide down the snake to square 4.; Square 10: You keep your juice on a different table from the charger. Climb the ladder to square 16.; Square 11: Plain square. Say one electricity rule you know, or just rest.; Square 12: Plain square. Say one electricity rule you know, or just rest.; Square 13: You touch the light switch straight after your bath. Slide down the snake to square 6.; Square 14: Plain square. Say one electricity rule you know, or just rest.; Square 15: You let go of your kite when it gets stuck on a wire. Climb the ladder to square 21.; Square 16: Plain square. Say one electricity rule you know, or just rest.; Square 17: You use your phone while it charges in the bathroom. Slide down the snake to square 8.; Square 18: You call a grown-up when you see sparks. Climb the ladder to square 23.; Square 19: You pull a friend away from a machine that is giving a shock. Slide down the snake to square 14.; Square 20: You touch a wire lying on the road after the rain. Slide down the snake to square 12.; Square 21: Plain square. Say one electricity rule you know, or just rest.; Square 22: You call a grown-up when your little cousin plays with a plug. Climb the ladder to square 24.; Square 23: Plain square. Say one electricity rule you know, or just rest.; Square 24: Plain square. Say one electricity rule you know, or just rest.; Square 25: Finish. You are a safety expert.
 - **s1 (6 min)**  
-  *Parent does:* Cut out the 25 squares and lay them in 5 rows of 5. Draw a line from each ladder square and each snake square to the square it leads to.  
+  *Parent does:* Cut out the 25 squares and lay them in 5 rows of 5. Join each ladder or snake square to the square where it ends, with a pencil line or string. Find a dice and one button or coin for each player.  
   *Parent says:* Let us build the board. The ladders are safe things to do. The snakes are dangerous things.  
   *Child mode:* Lay out the squares. Ladders are safe. Snakes are dangerous.
 - **s2 (12 min)**  
-  *Parent does:* Play. Each time a player lands on a special square, they say why.  
-  *Parent says:* You landed on a snake. Read it. Why is that dangerous?  
-  *Child mode:* Read your square. Say why it is safe or dangerous.
+  *Parent does:* Take turns to roll the dice and move. Each time a player lands on a special square, they read it and say why.  
+  *Parent says:* Read your square aloud. Is it a safe thing or a dangerous thing? Why?  
+  *Child mode:* Roll the dice and move. Read the square you land on.
   - Ask: Why is touching a switch after your bath dangerous? (good: My hands are wet.; Water lets electricity into my body.)
   - Ask: Why is it good to tell a grown-up about a cracked wire? (good: The metal shows through.; Someone could get a shock.)
 - **s3 (2 min)**  
   *Parent does:* After the game, ask which snake would be most dangerous in real life.  
-  *Parent says:* Which snake would be the most dangerous in real life? Why?  
-  *Child mode:* Which snake is the most dangerous in real life? Why?
-  - Check: In the Safe Steps game, one snake square says you pull a friend away from a machine that is giving a shock. Why is that a snake? → **The electricity can flow into you too**
+  *Parent says:* Look at all the snake squares. Which one would be the most dangerous in real life? Why?  
+  *Child mode:* Pick the snake square you think is worst.
+  - Check: Why is it dangerous to pull a friend away from a machine that is giving them a shock? → **The electricity can flow into you too**
 ### g2 · Live Wire Freeze: a moving game (10 min)
 - **rules:** The grown-up is the caller. Everyone else walks, hops or dances round the room.; The caller reads a card aloud.; If it is dangerous, everyone freezes and shouts the safe thing to do.; If it is safe, everyone keeps moving.; Anyone who freezes on a safe card, or keeps moving on a danger card, says why the card is safe or dangerous. Then they carry on.; When all 10 cards have been read, the game is over. Shuffle the cards and play again if you like.
 - **Printable cards: Caller cards to cut out:** Someone pokes a key into a socket. (back: Danger. Freeze and shout: Never poke anything into a socket.); Someone dries their hands on a towel, then switches on the light. (back: Safe. Keep moving.); A kite is stuck on a wire, and someone pulls the string. (back: Danger. Freeze and shout: Let go. Leave the kite.); Someone changes the cells in the TV remote. (back: Safe. Keep moving. Cells are weak and safe to hold.); Water is spilled next to the extension board. (back: Danger. Freeze and shout: Move away. Call a grown-up.); A grown-up holds the plug by its plastic body to unplug the mixer. (back: Safe. Keep moving.); Someone sees a wire with the copper showing. (back: Danger. Freeze and shout: Do not touch. Tell a grown-up.); Crows sit on the wire outside. (back: Safe for the crows. Keep moving. They touch only one wire.); A wire is lying in a puddle after the rain. (back: Danger. Freeze and shout: Stay far away.); Someone reads a book under a lamp, with their water bottle on the floor far away. (back: Safe. Keep moving.)
@@ -216,7 +216,7 @@ Amma and Ammamma looked at each other and smiled.
   *Parent says:* When I read a danger card, freeze like a statue and shout what to do. When it is safe, keep moving.  
   *Child mode:* Move round. Freeze if it is danger. Shout the safe thing to do.
 - **s2 (8 min)**  
-  *Parent does:* Read the cards one by one. After each, read the back aloud.  
+  *Parent does:* Read the cards one by one. After each, read the back aloud. On a safe card, such as the one about the cells in a remote, ask why it is safe.  
   *Parent says:* Someone pokes a key into a socket. Freeze! What do we shout?  
   *Child mode:* Listen to the card. Freeze or keep moving?
   - Ask: Why are cells in the remote safe? (good: They are weak.; The wall is much stronger than a cell.)
@@ -226,39 +226,39 @@ Amma and Ammamma looked at each other and smiled.
 - **question:** After you wash your hands, which way of drying them leaves no water on your skin: shaking, wiping on your clothes, or a towel?
 - **predict:** Which way will leave no wet print on the paper? Why do you think so?
 - **fair test:** We use the same hand and the same bowl of water every time. We dip the hand for the same count of 3. We press it on a fresh part of the paper for a count of 3. We dry for about the same time each way: five hard shakes, or a count of 10 on the clothes or the towel. Only one thing changes: the way we dry the hand.
-- **record:** Fill in the table. Draw round each wet print with a pencil before it dries, and write under it how you dried your hand.
+- **record:** Fill in the table with how many wet fingerprints each way left. You can also take a photo of each print before it dries.
 - **results table:** How I dried my hand | My guess: wet print? | Did my hand feel wet? | Wet fingerprints (0 to 5) | Wet palm print?
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay the newspaper flat on a table. 2. Fill a steel bowl with tap water. 3. Put the towel nearby. 4. Draw a results table on paper, with one row for each way of drying.  
+  *Parent does:* 1. Lay the newspaper flat on a table. 2. Fill a steel bowl with tap water. 3. Put the towel nearby. 4. Make a results table on paper. Give it one row for each way of drying, and a space for the wet fingerprints.  
   *Parent says:* We are going to find out how dry your hands really are. The newspaper will tell us. Wet skin leaves dark, damp marks on it.  
   *Child mode:* Put out the bowl, the towel and the paper. Wet skin leaves dark marks on paper.
 - **s2 (2 min)**  
   *Parent does:* Show the four ways of drying. Ask for a guess and a reason for each one. Write the guesses in the table.  
-  *Parent says:* We will try four ways. Not dried, shaken five times, wiped on your clothes, and rubbed with a towel. Which ones will leave a wet print? Why do you think so?  
-  *Child mode:* Which ways will leave wet prints? Why do you think so?
+  *Parent says:* We will try four ways. Not dried, shaken five times, wiped on your clothes, and rubbed with a towel. Which ones will leave a wet print?  
+  *Child mode:* Guess which of the four ways will leave a wet print.
   - Ask: Why do you think so? (good: Shaking gets rid of the water, so no print.; Clothes soak up water like a towel.; Only the towel, because it is made for drying.)
   - Note: Write each guess down before you start. Many children guess that shaking or a wipe on clothes is enough. That is a good guess. Let the paper answer it.
 - **s3 (3 min)**  
-  *Parent does:* 1. Your child dips one hand for a count of 3. 2. They lift it out and do not dry it. 3. They say if it feels wet. 4. They press it flat on the paper for a count of 3, then lift. 5. Draw round the prints at once.  
+  *Parent does:* 1. Your child dips one hand for a count of 3. 2. They lift it out and do not dry it. 3. They say if it feels wet. 4. They press it flat on the paper for a count of 3, then lift. 5. Count the wet fingerprints at once.  
   *Parent says:* First, no drying at all. Does it feel wet? Press it flat on the paper. One, two, three. Lift. What do you see?  
-  *Child mode:* Dip your hand. Do not dry it. Press it on the paper. Count to 3. Lift.
-  - Note: Damp patches fade within a minute, so draw round them quickly. If the marks are hard to see, hold the paper up to the window. Wet paper looks see-through.
+  *Child mode:* Dip your hand. Do not dry it. Press it on the paper. Count to 3. Lift. Count the dark marks.
+  - Note: Damp patches fade within a minute, so count them quickly, or take a photo. If the marks are hard to see, hold the paper up to the window. Wet paper looks see-through.
 - **s4 (3 min)**  
-  *Parent does:* 1. Dip the same hand again. 2. Shake it hard five times. 3. Ask if it feels wet. 4. Press on a fresh part of the paper. 5. Draw round the prints. Count the wet fingerprints.  
+  *Parent does:* 1. Dip the same hand again. 2. Shake it hard five times. 3. Ask if it feels wet. 4. Press on a fresh part of the paper. 5. Count the wet fingerprints.  
   *Parent says:* Now dip and shake, five times. Does it feel wet now? Press it on a new part of the paper. How many wet fingerprints can you count?  
   *Child mode:* Dip your hand. Shake it five times. Press it on new paper. Count the wet fingers.
 - **s5 (3 min)**  
-  *Parent does:* 1. Dip again. 2. Wipe the hand on your clothes, front and back, for a count of 10. 3. Ask if it feels wet. 4. Press on fresh paper. 5. Draw round and count.  
+  *Parent does:* 1. Dip again. 2. Wipe the hand on your clothes, front and back, for a count of 10. 3. Ask if it feels wet. 4. Press on fresh paper. 5. Count the wet fingerprints.  
   *Parent says:* Now dip and wipe on your clothes, front and back. Count to ten. Does it feel dry? Press it. What does the paper say?  
   *Child mode:* Dip your hand. Wipe it on your clothes. Count to 10. Press it on new paper.
 - **s6 (3 min)**  
-  *Parent does:* 1. Dip again. 2. Rub the hand with the towel, front, back and between the fingers, for a count of 10. 3. Press on fresh paper. 4. Draw round and count.  
+  *Parent does:* 1. Dip again. 2. Rub the hand with the towel, front, back and between the fingers, for a count of 10. 3. Press on fresh paper. 4. Count the wet fingerprints.  
   *Parent says:* Last, dip and use the towel. Rub the front, the back and between your fingers. Count to ten. Press it. What happens this time?  
   *Child mode:* Dip your hand. Rub it with the towel. Count to 10. Press it on new paper.
 - **s7 (4 min)**  
-  *Parent does:* Ask what your child thinks, what they saw, and why. Then tell them why this matters for switches.  
-  *Parent says:* Which way left no wet prints? Did any hand feel dry but leave a print? Water carries electricity, and wet skin lets it into your body. So we dry our hands with a towel before we touch any switch.  
-  *Child mode:* Which way left no wet prints? Did your hand feel dry but still leave a print?
+  *Parent does:* Ask what your child saw, and why they think it happened. Then tell them: water carries electricity, and wet skin lets it into your body. So we dry our hands with a towel before we touch any switch.  
+  *Parent says:* Look at all four prints. Which way left no wet prints? Did any hand feel dry but still leave a print?  
+  *Child mode:* Compare the four prints. Which way dried best?
   - Ask: What did you find? (good: Shaking still left wet prints.; My hand felt dry after I wiped it on my clothes, but some fingers were wet.; Only the towel left no prints.)
   - Ask: So what will you do before touching a switch? (good: Dry my hands with a towel first.; Use a towel, not my clothes.)
   - Note: Most children find that shaking leaves clear wet prints, and that a quick wipe on clothes often leaves damp fingertips even when the hand feels dry. A towel for a count of 10 usually leaves no print. If your child's clothes dried the hand well, that is a real result too. Point out that in a hurry, people rarely wipe for a full count of 10.
@@ -268,17 +268,17 @@ Amma and Ammamma looked at each other and smiled.
 - **predict:** How many hand spans will the water run on the smooth floor? Will it reach the paper board two hand spans away? Why do you think so?
 - **fair test:** We use the same tumbler and the same amount of water each time. We knock it over the same way each time, with an elbow, while it is standing upright. Only the place changes: the smooth floor or a folded towel.
 - **safety:** Do this on a floor with no switches, sockets or wires nearby. Wipe the floor dry straight after each spill, so nobody slips.
-- **record:** Fill in the table. Draw the floor, the paper board and the puddle from above.
+- **record:** Fill in the table. You can also take a photo of the puddle, or draw it from above.
 - **results table:** Where we spilled it | My guess (hand spans) | How far it ran (hand spans) | Did it reach the paper board?
 - **s1 (3 min)**  
-  *Parent does:* 1. Choose a smooth floor with no sockets or wires near. 2. Your child draws an extension board on paper. 3. Put it two hand spans away from where the tumbler will stand.  
+  *Parent does:* 1. Choose a smooth floor with no sockets or wires near. 2. Your child tears a hand-sized piece of paper to be the pretend extension board. 3. Put it two hand spans away from where the tumbler will stand. 4. Make a table with two rows, floor and towel, and a space for hand spans.  
   *Parent says:* This paper is a pretend extension board. Real ones sit on the floor or on tables, with chargers and plugs in them. Let's see if a spill could reach it.  
-  *Child mode:* Draw an extension board on paper. Put it two hand spans away.
+  *Child mode:* Put the pretend board two hand spans from where the tumbler will stand.
   - Note: A hand span is the stretch from the tip of the thumb to the tip of the little finger, with the hand spread wide. Use your child's hand every time.
 - **s2 (2 min)**  
   *Parent does:* Fill the tumbler half full. Ask for a guess and a reason.  
-  *Parent says:* If this tumbler falls over, how far will the water go? Will it reach the board? Why do you think so?  
-  *Child mode:* How far will the water run? Will it reach the board? Why?
+  *Parent says:* If this tumbler falls over, how far will the water go? Will it reach the board?  
+  *Child mode:* Guess how far the water will run.
   - Ask: Why do you think so? (good: Not far, because it is only half a tumbler.; Far, because water runs on a smooth floor.; It will stop quickly, because it is a small amount.)
 - **s3 (4 min)**  
   *Parent does:* 1. Stand the tumbler up, with the paper board two hand spans in front of it. 2. Your child kneels and knocks it over towards the board with an elbow. 3. Wait until the water stops moving. 4. Measure the longest run in hand spans. 5. Did it touch the paper board?  
@@ -292,41 +292,41 @@ Amma and Ammamma looked at each other and smiled.
 - **s5 (4 min)**  
   *Parent does:* Wipe up. Ask what your child thinks, what they saw, and why.  
   *Parent says:* Where did the water go furthest? Did it reach the board? If that board had been real, the water could have carried electricity out of it. So where should we keep our drinks?  
-  *Child mode:* Where did the water go furthest? Where should drinks go?
+  *Child mode:* Look at both wet patches. Which one is bigger?
   - Ask: Where should drinks go? (good: Far away from the extension board.; On a different table from the charger.; Not on the floor next to the plugs.)
   - Note: The towel soaks up the water, so the spill stays small. A smooth floor or table lets it run. If your child's spill did not reach the board, move the board one hand span closer and try again. The point is that a spill can travel.
 
 ## Activities
 ### a1 · Birds on the Wire: a window watch (15 min)
-- **record:** A drawing of the wire and every bird you saw sitting there, and a tally of how many birds you saw.
+- **record:** A tally of how many birds you saw. If your child drew them, a drawing of the wire and the birds.
 - **s1 (5 min)**  
   *Parent does:* Find a window or balcony where you can see wires. Count the birds on them for two minutes.  
   *Parent says:* Let's watch the wires for two minutes. Make a tally mark for every bird you see sitting on a wire.  
   *Child mode:* Watch the wires. Make a mark for every bird you see.
-  - Note: Crows, pigeons, mynas and sparrows often sit on wires. Early morning and evening are good times. If you cannot see any wires from home, draw the crows you remember seeing on wires.
+  - Note: Crows, pigeons, mynas and sparrows often sit on wires. Early morning and evening are good times. If you cannot see any wires from home, try again on a walk, or look at a photo of birds on a wire.
 - **s2 (5 min)**  
-  *Parent does:* Your child draws the wire and the birds. Ask them to look closely at the feet.  
-  *Parent says:* Draw the wire and each bird. Look at their feet. How many wires does each bird touch?  
-  *Child mode:* Draw the birds. How many wires does each bird touch?
+  *Parent does:* Your child looks closely at the birds' feet. They can draw the wire and the birds, or point and tell you what they see.  
+  *Parent says:* Look at each bird's feet. Draw the wire and the birds, or just tell me what you see.  
+  *Child mode:* Look at the birds' feet. Draw them, or tell your grown-up.
   - Ask: How many wires does each bird touch? (good: Just one.; Both feet are on the same wire.)
 - **s3 (5 min)**  
-  *Parent does:* Ask for your child's idea first. Then explain.  
-  *Parent says:* Why do you think the birds are safe? Each bird touches only one wire. So the electricity has no path through the bird. A person on a ladder touches the ground too. Then the electricity can go through them.  
-  *Child mode:* Why are the birds safe? Why would a person not be safe?
+  *Parent does:* Ask for your child's idea first. Then explain: each bird touches only one wire, so the electricity has no path through the bird. A person on a ladder also touches the ground, so the electricity can go through them.  
+  *Parent says:* Why do you think the birds are safe on the wire?  
+  *Child mode:* Say your idea. Why are the birds not hurt?
   - Ask: Why would a person on a ladder not be safe? (good: The ladder and their feet touch the ground.; The electricity could go through them to the ground.)
   - Note: Big birds with wide wings, such as peacocks or eagles, can be killed if their wings touch two wires at once. Never let your child pull at a kite or string caught on a wire.
 ### a2 · Safety Helpers in Our Home (15 min)
-- **record:** A page of drawings, one for each safety helper, with a sentence saying what it does.
+- **record:** A photo or drawing of each safety helper, with a sentence saying what it does.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Unplug a mixer or table fan. 2. Show the plug and wire. 3. Point to the plastic body, the metal pins and the plastic cover on the wire.  
-  *Parent says:* The metal pins carry the electricity. The plastic body is for holding. The plastic cover on the wire keeps the electricity inside. Why do you think the part you hold is plastic, not metal?  
-  *Child mode:* Look at the plug. Which part is metal? Which part is plastic?
+  *Parent says:* The metal pins carry the electricity. The plastic cover on the wire keeps the electricity inside. Why do you think the part you hold is plastic, not metal?  
+  *Child mode:* Look at the plug. Point to the metal part and the plastic part.
   - Ask: Why is the part you hold plastic? (good: Electricity does not go through plastic easily.; So it does not go into your hand.)
   - Note: Only you handle the plug. Always hold a plug by its plastic body, never pull it out by the wire.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Shine a torch at a socket. Look for small plastic shutters behind the holes. Your child looks only.  
   *Parent says:* Many new sockets have little plastic doors inside. They open only when a plug's pins push in together. They stop a small child poking a pin in. Can you see them?  
-  *Child mode:* Look at the socket with the torch. Can you see little doors? Do not touch.
+  *Child mode:* Look into the socket with the torch. Do not touch.
   - Note: Not every socket has shutters. Older ones often do not. If yours do not, that is a reason to keep small children well away.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* Show your child the main switch box from where they stand. Do not open it.  
@@ -334,37 +334,37 @@ Amma and Ammamma looked at each other and smiled.
   *Child mode:* This box can turn off all the electricity. Only grown-ups use it.
   - Note: Many Indian homes now have small switches called MCBs, and some have a safety switch called an RCCB or ELCB. An RCCB switches off in a fraction of a second if electricity leaks, for example through a person. Ask an electrician whether your home has one.
 - **s4 (4 min)**  
-  *Parent does:* Your child draws each helper and says what it does. You write the sentence.  
-  *Parent says:* Draw each helper we found. Tell me what it does, and I will write it down.  
-  *Child mode:* Draw each safety helper. Say what it does.
+  *Parent does:* Your child takes a photo of each helper with your phone, or draws it, and says what it does. You write the sentence.  
+  *Parent says:* Take a photo of each helper we found, or draw it. Tell me what it does, and I will write it down.  
+  *Child mode:* Photograph or draw each safety helper. Say what it does.
 ### a3 · What Do We Do If...? an act-out (15 min)
 - **record:** Your child tells someone else in the family the three steps: do not touch, move away, call a grown-up.
 - **s1 (3 min)**  
   *Parent does:* Lay a dupatta on the floor as a pretend wire. Read the first card: 'You see a wire lying on the road after a storm.'  
-  *Parent says:* Here is a fallen wire after a storm. What would you do? Show me.  
-  *Child mode:* A wire is lying on the road. What do you do? Show it.
+  *Parent says:* Here is a fallen wire after a storm. Show me what you would do.  
+  *Child mode:* Act out what you would do. Then say it out loud.
   - Ask: What would you do? (good: Do not touch it.; Walk far away from it.; Tell a grown-up.)
   - Note: Fallen wires can still carry electricity. Water around them can carry it too. Keep well back, and tell the electricity board.
 - **s2 (3 min)**  
   *Parent does:* Read the card: 'You see sparks and smell burning from a socket.'  
-  *Parent says:* The socket is sparking. What would you do?  
-  *Child mode:* Sparks come from a socket. What do you do?
+  *Parent says:* The socket is sparking and there is a burning smell. Show me what you would do.  
+  *Child mode:* Act out what you do. Use your whole body.
   - Ask: What would you do? (good: Move away.; Call a grown-up to switch off the main switch.; Never throw water on it.)
   - Note: Never throw water on an electrical fire. Switch off the main switch first.
 - **s3 (3 min)**  
   *Parent does:* Read the card: 'Your friend is touching a machine and cannot let go.'  
-  *Parent says:* Your friend is stuck to a machine. What would you do? Would you pull them away?  
-  *Child mode:* Your friend is stuck to a machine. What do you do?
+  *Parent says:* Your friend is touching a machine and cannot let go. Show me what you would do.  
+  *Child mode:* Show how you would help your friend without touching them.
   - Ask: Would you pull them away? (good: No, the electricity could go into me too.; I would shout for a grown-up to switch it off.)
 - **s4 (3 min)**  
   *Parent does:* Read the card: 'Your kite is caught on an electric wire.'  
-  *Parent says:* Your kite is stuck on a wire. What would you do?  
-  *Child mode:* Your kite is stuck on a wire. What do you do?
+  *Parent says:* Your kite is stuck on a wire. Show me what you would do.  
+  *Child mode:* Show what you do with the kite string.
   - Ask: What would you do? (good: Let go of the string.; Leave the kite there.; Never climb or pull it.)
 - **s5 (3 min)**  
   *Parent does:* Read the card: 'A baby is crawling towards a socket.'  
-  *Parent says:* A baby is crawling near a socket. What would you do?  
-  *Child mode:* A baby crawls to a socket. What do you do?
+  *Parent says:* A baby is crawling towards a socket. Show me what you would do.  
+  *Child mode:* Show how you keep the baby safe.
   - Ask: What would you do? (good: Pick up a toy to call the baby away.; Call a grown-up at once.)
   - Note: Finish by asking your child to say the three steps aloud: do not touch, move away, call a grown-up.
 
@@ -373,13 +373,13 @@ Amma and Ammamma looked at each other and smiled.
 - **record:** The finished book, and one sentence about what the younger child asked.
 - **schedule:** day 1: Choose six rules. Draw one rule on each page. (15 min); day 2: Write a few words under each picture. Read the book to a younger child. (15 min)
 - **s1 (5 min)**  
-  *Parent does:* Fold and staple the book. Help your child choose six rules.  
+  *Parent does:* Fold and staple the book. Help your child choose six rules from this unit. For example: dry hands before a switch, drinks far from plugs, never touch a fallen wire.  
   *Parent says:* Which six rules matter most for a little child? Let's choose them together.  
   *Child mode:* Choose six rules for a little child.
 - **s2 (10 min)**  
-  *Parent does:* Your child draws one rule on each page, with a green tick for safe and a red cross for danger.  
-  *Parent says:* Draw one rule on each page. A green tick for the safe way, a red cross for the dangerous way.  
-  *Child mode:* Draw one rule on each page. Use a tick or a cross.
+  *Parent does:* Your child makes one page for each rule. They draw it, or stick on a photo or a picture cut from an old newspaper. A green tick means the safe way and a red cross means the dangerous way.  
+  *Parent says:* Make one page for each rule. Draw it, or stick on a picture. Put a green tick for the safe way, and a red cross for the dangerous way.  
+  *Child mode:* Make a page for each rule. Draw it, or use a picture.
 - **s3 (8 min)**  
   *Parent does:* Your child says a few words for each page. Write them, or let your child write one or two words.  
   *Parent says:* What do you want the page to say? Keep it short, so a little one understands.  
@@ -393,25 +393,25 @@ Amma and Ammamma looked at each other and smiled.
 
 ## Challenges
 ### c1 · The Safe Homework Corner (20 min)
-- **problem:** Draw a plan of a homework corner where the lamp and the charger are safe from spills.
-- **your turn:** Now plan your own homework corner, or the place where you do this unit. Draw where each thing goes, and mark the path a spill would take.
+- **problem:** Plan a homework corner where the lamp and the charger are safe from spills. Use paper cut-outs on a table plan.
+- **your turn:** Now plan your own homework corner, or the place where you do this unit. Move things to where they go, and show the path a spill would take with an arrow, or a piece of string.
 - **constraints:** There is only one extension board, and at the start it sits on the floor under the table.; The water bottle and the paint water must stay within reach while the child works.; The lamp's wire must not stretch across where people walk.
 - **general:** Keep the water bottle and paint water at the far end of the table, away from the lamp and the plugs.; Lift the extension board off the floor, onto a dry shelf, so a spill on the floor cannot reach it.; Put the paint water in a wide, low bowl that is hard to knock over.
 - **creative:** Put the drinks on a tray with a rim, so a spill stays on the tray.; Do painting on a different table, away from the lamp.; Stick a 'dry hands' sign with a towel hook next to the switch.
 - **s1 (4 min)**  
-  *Parent does:* Read the problem aloud. Draw the table from above.  
+  *Parent does:* Read the problem aloud. Draw the table from above on paper, or use a real table.  
   *Parent says:* This homework corner has a lamp, a charger, a water bottle and paint water. What could go wrong?  
-  *Child mode:* What could go wrong at this homework table?
+  *Child mode:* Point to the things that water could reach.
   - Ask: What could go wrong? (good: The paint water could spill on the charger.; Water could run down to the extension board.)
 - **s2 (10 min)**  
-  *Parent does:* Your child cuts out the things and moves them on the plan until they are happy. Then draws them in.  
+  *Parent does:* Your child cuts out the things and moves them on the plan until they are happy. Then take a photo of the plan.  
   *Parent says:* Move the things around. Where would a spill go? Where is the safest place for each?  
   *Child mode:* Move the things around. Where would a spill go?
   - Note: If you did the Spill Test, remind your child how far half a tumbler ran.
 - **s3 (6 min)**  
   *Parent does:* Talk about the usual answers and the creative ones. Then your child plans their own corner.  
   *Parent says:* Here are some ideas other people use. Which one would best stop a spill from reaching a plug? Why? Now plan your own corner.  
-  *Child mode:* Which idea best keeps a spill away from the plugs? Now plan your own corner.
+  *Child mode:* Pick the idea you like best. Then plan your own corner.
 
 ## Worksheets
 ### Water, wires and the Dry Hands Test (core, 10 questions)

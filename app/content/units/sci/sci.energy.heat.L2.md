@@ -195,17 +195,17 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - **s1 (2 min)**  
   *Parent does:* Lay out the labels and read the rules together.  
   *Parent says:* Each card is something from daily life. You decide: does it make warmth, keep warmth in, or cool you down? Then turn it over to check.  
-  *Child mode:* Read your card. Does it make warmth, keep warmth in, or cool you down?
+  *Child mode:* Take the top card. Put it by the label you think is right.
 - **s2 (11 min)**  
-  *Parent does:* Play. After each card, ask the player for their reason.  
-  *Parent says:* Suppose the card says a woollen cap. Does a cap make warmth? Where does the warmth under a cap come from?  
-  *Child mode:* Why did you put it there? Say your reason.
+  *Parent does:* Play. After each card, ask the player for their reason. For a woollen cap, ask the question below.  
+  *Parent says:* Why did you put it by that label? For example, where does the warmth under a cap come from?  
+  *Child mode:* Tell the other players why you chose that label.
   - Ask: Where does the warmth under a cap come from? (good: From my head. The cap keeps it in.; From my body.)
   - Note: The hen card is 'makes warmth', because her body makes it. Her feathers keep it in. If a child says both, that is a very good answer: give them the card.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Here is one last card to think about. A cat is asleep in a sunny spot. What is making warmth there?  
-  *Child mode:* A cat sleeps in a sunny spot. What makes warmth there?
+  *Parent says:* Here is one last card to think about. Picture a cat asleep in a sunny spot.  
+  *Child mode:* Name every warm thing you can see in your picture.
   - Check: A cat sleeps in a sunny spot. What makes warmth there? → **The Sun and the cat's own body**
 
 ## Experiments
@@ -213,18 +213,18 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - **question:** If a sweater makes warmth, the oil inside it should melt first. Does it?
 - **predict:** Guess first. Which oil will melt first: the bare one, or the one wrapped in the sweater? Why do you think so?
 - **fair test:** Both katoris are the same, with the same amount of oil, and both come out of the fridge at the same time. They sit on the same table, out of the sun and away from the fan. Only the sweater is different. We check both at the same times.
-- **record:** Draw the two katoris at each check. Colour the hard oil white and the runny oil yellow.
+- **record:** At each check, write 'hard' or 'runny' for each katori in the table. You can also take a photo of both katoris.
 - **results table:** Katori | My guess | At 10 minutes | At 20 minutes | At 30 minutes
 - **s1 (3 min)**  
   *Parent does:* 1. Take both katoris out of the fridge. 2. Let your child tilt them gently and look at the oil. 3. Hand them the sweater to hold.  
   *Parent says:* Look at the oil. It is white and hard, because the fridge made it cold. Now hold the sweater. We call sweaters warm clothes. What do you think a sweater does?  
-  *Child mode:* Look at the oil. It is white and hard. Now hold the sweater. What does a sweater do?
+  *Child mode:* Tilt a katori and look at the oil. Then feel the sweater in your hands.
   - Ask: What do you think a sweater does? (good: It makes you warm.; It keeps the warm in.; Any answer is fine here. The test will check it.)
   - Note: Coconut oil is white and hard when it is cooler than about 24 degrees, and a clear liquid when it is warmer. In a warm home the oil in the bottle is already runny, and an hour in the fridge makes it hard. If your room is cooler than about 24 degrees, the oil will not melt on the table. Then use two steel tumblers of the same warm tap water instead. Wrap one in the sweater, and feel which one is warmer after 30 minutes.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason. Write the guess in the table.  
   *Parent says:* We will wrap one katori in the sweater and leave the other bare. Which oil will melt first? Why do you think so?  
-  *Child mode:* Which oil will melt first, the bare one or the wrapped one? Why?
+  *Child mode:* Pick the katori that you think will melt first.
   - Ask: Why do you think so? (good: The wrapped one, because sweaters are warm.; The bare one, because the sweater keeps the cold in.)
   - Note: Most children guess the sweater one, because sweaters are 'warm'. Do not say what will happen.
 - **s3 (3 min)**  
@@ -233,21 +233,21 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Child mode:* Wrap one katori all round in the sweater. Leave the other bare. Start the timer.
   - Note: Keep both out of sunlight and away from the fan, so only the sweater is different.
 - **s4 (30 min)**  
-  *Parent does:* 1. At 10 minutes, open the sweater just enough to peep in, then close it. 2. Tilt each katori a little. Is there runny oil? 3. Draw both. 4. Do the same at 20 and 30 minutes.  
+  *Parent does:* 1. At 10 minutes, open the sweater just enough to peep in, then close it. 2. Tilt each katori a little. Is there runny oil? 3. Write 'hard' or 'runny' for each katori in the table. A photo of both works too. 4. Do the same at 20 and 30 minutes.  
   *Parent says:* Time to peep. Tilt the bare katori. Is the oil runny? Now peep into the sweater, quickly. Is that oil runny?  
   *Child mode:* Peep into both katoris. Tilt them gently. Which oil is runny?
   - Note: While you wait between checks, do the Make It or Keep It warmth hunt. In a warm room, the bare oil usually turns clear at the edges within about 10 to 15 minutes. It is mostly runny by about 20 to 30 minutes. The wrapped oil stays white much longer. If it is still hard at 30 minutes, that is your answer: the sweater slowed the melting. You can look again later. In a cooler room, keep checking until the bare oil has melted.
 - **s5 (5 min)**  
   *Parent does:* Put the two katoris side by side, both open. Ask what your child saw, and why. Then ask the check question.  
   *Parent says:* Which oil melted first? What did the sweater do to the cold oil? Did it warm it up, or keep it cold?  
-  *Child mode:* Which oil melted first? Did the sweater warm the oil, or keep it cold?
+  *Child mode:* Look at both katoris side by side. Tell your grown-up which oil melted first.
   - Ask: Why did the bare oil melt first? (good: The room was warmer than the oil, and the room's warmth got in.; The sweater stopped the warmth getting in, so that oil stayed hard.)
   - Note: Wait for your child's own claim and reason first. Then say it plainly: the room's warmth was moving into both katoris. The sweater slowed it down. A sweater makes no warmth. It only slows heat moving in or out.
   - Check: The oil in the sweater stayed hard for longer. What does that show? → **The sweater slowed the room's warmth from getting in.**
 - **s6 (2 min)**  
   *Parent does:* Ask your child to put the same sweater on for two minutes, then feel inside it.  
   *Parent says:* Now put the sweater on. Wait two minutes. Does it feel warm now? The sweater makes no warmth. So where is this warmth coming from?  
-  *Child mode:* Put the sweater on. Wait two minutes. Is it warm? Where does the warmth come from?
+  *Child mode:* Put the sweater on and wait two minutes. Then feel the inside of it.
   - Ask: Where does the warmth come from? (good: From me.; From my body. The sweater keeps it in.)
   - Think: If you wrapped a hot dosa in a cloth, what would the cloth do?
 ### e2 · The Warm Spot Race: where does ice melt fastest? (20 min)
@@ -259,33 +259,33 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - **s1 (3 min)**  
   *Parent does:* 1. Choose four places with your child: your child's hand, a sunny spot, the table and the floor in the shade. 2. Take four ice cubes of the same size from the freezer tray, only when everyone is ready.  
   *Parent says:* We will race four ice cubes. One sits in your hand, one in a sunny spot, one on the table and one on the floor. Which one will melt first? Which last? Why?  
-  *Child mode:* Four ice cubes: one in your hand, one in a sunny spot, one on the table and one on the floor. Which will melt first? Which will melt last? Why?
+  *Child mode:* Point to the place where you think the ice will melt first. Then point to the place where it will melt last.
   - Ask: Why do you think so? (good: My hand, because I am warm.; The sunny spot, because the Sun is hot.)
   - Note: Keep the tray in the freezer until you start. If no sunlight comes into your home, use a spot next to a warm machine instead, such as a television or a wifi box that has been on for a while.
 - **s2 (12 min)**  
   *Parent does:* 1. Put the cubes in their places at the same time. 2. Your child holds one cube in a closed hand, over a plate. 3. Every 2 minutes, look at all four. 4. Write the order they melt in.  
   *Parent says:* Hold the ice cube in your closed hand, over the plate. Every 2 minutes we look at all four. Which one has melted?  
-  *Child mode:* Hold the ice in your hand. Every 2 minutes, check all four ice cubes. Which one has melted?
+  *Child mode:* Hold the ice in your closed hand. Every 2 minutes, look at all four cubes.
   - Note: The cube in the hand, or the one in strong sun, usually melts first, in a few minutes. The cubes on the table and the floor are slower, and they may melt at nearly the same time. If so, give them the same number. If the hand gets too cold, swap hands. Stop at 20 minutes and compare how much ice is left on each plate.
 - **s3 (5 min)**  
   *Parent does:* Talk about the order together. Ask what your child found, and why.  
   *Parent says:* Which ice cube melted first? Which melted last? What does the ice in your hand tell us about how warm your hand is?  
-  *Child mode:* Which ice melted first? What does that tell you about how warm your hand is?
+  *Child mode:* Tell your grown-up the order the ice cubes melted in.
   - Ask: Why did the ice in your hand melt so fast? (good: My hand is warmer than the room.; My body makes warmth, and it went into the ice.)
   - Check: Why does ice melt faster in your hand than on the table? → **Your body makes warmth, so your hand is warmer than the table.**
 
 ## Activities
 ### a1 · Make It or Keep It? A warmth hunt at home (10 min)
-- **record:** Draw each thing in its column. Count how many are in each column.
+- **record:** Write each thing's name in its column. A photo of each thing works too. Count how many are in each column.
 - **s1 (2 min)**  
   *Parent does:* Show the two columns: 'Makes warmth' and 'Keeps warmth in'. Do one example together: a quilt.  
   *Parent says:* Some things make warmth. Some things only keep warmth in. Think of a quilt on the bed. Is it warm by itself, or does it keep your warmth in?  
-  *Child mode:* Look at a quilt. Does it make warmth, or keep it in?
+  *Child mode:* Imagine a quilt on a bed with nobody under it. Is it warm?
   - Ask: Does a quilt make warmth? (good: No, it keeps my warmth in.; It is only warm when I am under it.)
 - **s2 (6 min)**  
-  *Parent does:* 1. Walk round the home together. 2. Find at least 6 warm things or things that keep warmth in. 3. Your child draws each one in a column.  
+  *Parent does:* 1. Walk round the home together. 2. Find at least 6 warm things or things that keep warmth in. 3. Your child writes each one in a column, or tells you and you write it.  
   *Parent says:* Let's hunt. Look in the kitchen, the bedroom and at the windows. What makes warmth? What keeps warmth in?  
-  *Child mode:* Hunt for warm things at home. Draw each one under 'Makes warmth' or 'Keeps warmth in'.
+  *Child mode:* Hunt for warm things at home. Write each one under 'Makes warmth' or 'Keeps warmth in'.
   - Note: Things that make warmth: sunlight at a window, the gas stove (look, don't touch), an iron box, a kettle, a pet, a family member. Things that keep warmth in: a quilt, a sweater, a cap, socks, a pot lid, a cloth over chapatis, a flask. Never touch the stove or a hot iron.
 - **s3 (2 min)**  
   *Parent does:* Count each column together. Ask the check question.  
@@ -293,11 +293,11 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Child mode:* Count each column. Which column has more?
   - Check: Which one makes its own warmth? → **A dog asleep on the mat**
 ### a2 · Haa and Whoo: warm breath, cool breath (5 min)
-- **record:** Draw your mouth open wide for haa and small and round for whoo. Write warm or cool under each.
+- **record:** Say or write 'warm' or 'cool' for haa and for whoo. You can also draw your mouth open wide for haa and small and round for whoo.
 - **s1 (2 min)**  
   *Parent does:* Show your child how to hold a palm near their mouth and breathe out slowly with the mouth wide open, saying 'haa'.  
   *Parent says:* Hold your palm near your mouth. Open wide and breathe out slowly: haa. How does it feel?  
-  *Child mode:* Open your mouth wide. Breathe 'haa' on your palm. Warm or cool?
+  *Child mode:* Open your mouth wide. Breathe out slowly on your palm: haa.
   - Ask: How does it feel? (good: Warm.; Warm and a bit wet.)
 - **s2 (2 min)**  
   *Parent does:* Now ask your child to make their lips small and round, and blow hard on the same palm.  
@@ -306,12 +306,12 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   - Ask: Why does it feel different? (good: It comes out fast.; It feels like a fan.)
   - Note: Both breaths come from inside your warm body. Slow 'haa' breath reaches your hand still warm. Fast 'whoo' breath drags cooler room air along with it. Moving air also carries warmth off your skin, like a fan does. If your child is stuck, ask what a fan does to your skin on a hot day.
 - **s3 (1 min)**  
-  *Parent does:* Ask the check question.  
-  *Parent says:* So which way would you breathe to warm cold hands?  
-  *Child mode:* Which way warms cold hands: haa or whoo?
+  *Parent does:* Ask your child to act it out. Then ask the check question.  
+  *Parent says:* Your hands are cold on a winter morning. Show me how you would breathe on them.  
+  *Child mode:* Pretend your hands are cold. Show how you would breathe on them.
   - Check: Which breath would warm your cold hands? → **A slow 'haa' with your mouth wide open**
 ### a3 · Where Is My Body Warmest? A touch map (8 min)
-- **record:** Colour the body outline: red for the warmest parts, blue for the cooler parts.
+- **record:** Colour the body outline: red for the warmest parts, blue for the cooler parts. Or point to each part and say warm or cooler.
 - **s1 (5 min)**  
   *Parent does:* Help your child touch the back of one hand to each part in turn. Try the forehead, neck, tummy (lift the shirt a little), nose, ears, fingers and feet.  
   *Parent says:* Touch the back of your hand to your neck. Warm or cool? Now your nose. Now your tummy. Now your toes.  
@@ -320,41 +320,41 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - **s2 (2 min)**  
   *Parent does:* Your child colours the outline. If they do not see a pattern, tell them this. The cool parts are the ones that stick out, where more air touches them.  
   *Parent says:* Colour the warm parts red and the cool parts blue. Which parts are cool? Do you see a pattern?  
-  *Child mode:* Colour warm parts red. Colour cool parts blue. Do you see a pattern?
+  *Child mode:* Colour warm parts red and cool parts blue. Or point to each part and say warm or cool. Do you see a pattern?
   - Ask: Which parts were coolest? (good: My nose, ears, fingers and toes.; The parts that stick out.)
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* On a cold morning, which parts would need a cap and socks?  
-  *Child mode:* Which parts need a cap and socks on a cold day?
+  *Child mode:* Point to the body parts you would cover on a cold morning.
   - Check: Why do your toes feel cooler than your tummy? → **Toes stick out and lose warmth faster.**
 
 ## Projects
 ### p1 · My Book of Warm Things: two days (30 min, 2 days)
 - **record:** A book with seven pages. Six pages have 'makes' or 'keeps' written on them, and the last page is you.
-- **schedule:** day 1: Make the book. Draw three things that make warmth: one from the sky, one from the kitchen, and one living body. (15 min); day 2: Draw three things that keep warmth in. On the last page, draw yourself and write 'I make my own warmth'. (15 min)
+- **schedule:** day 1: Make the book. Draw or stick in three things that make warmth: one from the sky, one from the kitchen, and one living body. (15 min); day 2: Add three things that keep warmth in. On the last page, draw yourself or stick in a photo, and write 'I make my own warmth'. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* Day 1: help your child make the book and draw three things that make warmth.  
-  *Parent says:* Draw three things that make warmth. One from the sky, one from the kitchen, and one living body. Write 'makes' under each.  
-  *Child mode:* Draw three things that make warmth. Write 'makes' under each.
-  - Ask: Which living body did you draw? (good: Me.; Our dog.; A hen keeping her eggs warm.)
+  *Parent does:* Day 1: help your child make the book. Then they draw, or cut out and stick in, three things that make warmth.  
+  *Parent says:* Make three pages about things that make warmth. Pick one from the sky, one from the kitchen, and one living body. Draw each one, or cut out a picture and stick it in. Write 'makes' under each.  
+  *Child mode:* Make three 'makes' pages. Draw each thing, or stick in a picture.
+  - Ask: Which living body did you pick? (good: Me.; Our dog.; A hen keeping her eggs warm.)
 - **s2 (15 min)**  
-  *Parent does:* Day 2: help your child draw three things that keep warmth in, and a last page of themselves.  
-  *Parent says:* Now draw three things that keep warmth in. Write 'keeps' under each. On the last page, draw yourself. Who makes your warmth?  
-  *Child mode:* Draw three things that keep warmth in. Then draw yourself.
+  *Parent does:* Day 2: help your child make three pages about things that keep warmth in, and a last page about themselves.  
+  *Parent says:* Now make three pages about things that keep warmth in. Stick a scrap of cloth or wool on a page if you can, or draw the thing. Write 'keeps' under each. On the last page, draw yourself or stick in a photo of you.  
+  *Child mode:* Make three 'keeps' pages. Then make a last page about you.
   - Ask: Who makes the warmth inside your sweater? (good: I do.; My body, from my food.)
 
 ## Challenges
 ### c1 · Keep a Dosa Warm for 20 Minutes (30 min)
 - **problem:** Someone at home will eat in 20 minutes. Keep one hot dosa or chapati warm, without putting it back on the stove.
 - **safety:** A grown-up makes the dosas and hands them over. A dosa straight from the tawa can burn fingers, so wait until it is safe to hold.
-- **your turn:** Make your own dosa keeper. After 20 minutes, touch both dosas. Is yours warmer than the bare one? Draw your design.
+- **your turn:** Make your own dosa keeper. After 20 minutes, touch both dosas. Is yours warmer than the bare one? Tell your grown-up how you wrapped it, or draw your design.
 - **constraints:** Use only things from home.; No stove, oven or electricity after the dosa is made.; Leave a second dosa bare on a plate, so you can compare.
 - **general:** Wrap the dosa in a clean cotton cloth, the way many families wrap chapatis.; Put it in a steel dabba and close the lid.; Use a hot case (an insulated box for rotis), if your home has one.
 - **creative:** Put the dosa in a dabba, then wrap the whole dabba in a towel.; Stack it between other hot dosas, so they keep each other warm.; Rinse the dabba with warm water first, so the steel is not cold.
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Ask for ideas before showing any.  
   *Parent says:* Someone will eat in 20 minutes. How can we keep this dosa warm without the stove?  
-  *Child mode:* How can you keep a dosa warm for 20 minutes?
+  *Child mode:* Look around for things that could keep a dosa warm.
   - Ask: What could you use? (good: A cloth.; A box with a lid.; My sweater, but a clean cloth is better for food.)
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. The grown-up makes two dosas. 2. Your child wraps one in their own way. 3. The other goes on a bare plate.  
@@ -363,7 +363,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - **s3 (20 min)**  
   *Parent does:* Wait 20 minutes. Do another activity meanwhile. Then touch both dosas.  
   *Parent says:* Touch the bare dosa. Now touch yours. Which is warmer? Why?  
-  *Child mode:* Touch both dosas. Which is warmer? Why?
+  *Child mode:* Touch the bare dosa. Then touch yours.
   - Ask: Why did your dosa stay warmer? (good: The cloth kept its heat in.; The heat could not get out fast.)
 - **s4 (3 min)**  
   *Parent does:* Ask the check question.  
@@ -372,7 +372,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   - Check: Why did the wrapped dosa stay warm? → **The cloth slowed its heat from leaving.**
 ### c2 · Warm Your Cold Hands, No Fire Allowed (15 min)
 - **problem:** After holding a cold tumbler, your hands are cold. Find ways to warm them up in one minute, without fire, a heater or hot water.
-- **your turn:** Which idea warmed your hands best? Which ideas made warmth, and which only kept it in? Draw your best idea.
+- **your turn:** Which idea warmed your hands best? Which ideas made warmth, and which only kept it in? Show your grown-up your best idea, or draw it.
 - **constraints:** No stove, heater, hot water or hair dryer.; Try each idea for one minute.; Cool your hands on the cold tumbler again before each new idea.
 - **general:** Rub your hands together fast.; Tuck your hands under your arms.; Sit on your hands for a minute.
 - **creative:** Jump up and down for a minute, then feel your hands.; Ask someone at home to hold your hands in theirs.; Pull socks over your hands like gloves.
@@ -389,7 +389,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - **s3 (3 min)**  
   *Parent does:* Talk about which ideas made warmth and which kept it in. Ask the check question.  
   *Parent says:* Which ideas made new warmth? Which ones only kept your warmth in?  
-  *Child mode:* Which ideas made warmth? Which only kept it in?
+  *Child mode:* Sort the ideas you tried into two groups: made warmth, and kept warmth in.
   - Check: Pulling socks over your hands warms them. Why? → **The socks keep your body's warmth in.**
 
 ## Worksheets

@@ -1,8 +1,8 @@
 /* DeepKids service worker
    1. /_blob/<id> serves a photo or file from the family's private Supabase storage, adding their sign-in token.
    2. The app shell is cached so DeepKids opens on a weak connection (network first, cache as fallback). */
-const SHELL="dk-shell-8d28fb98857cddc979";
-const PICS="dk-pics-8d28fb98857cddc979";
+const SHELL="dk-shell-8d28fb988548a4c979";
+const PICS="dk-pics-8d28fb988548a4c979";
 const PIDX={};
 let AUTH={token:"",base:"",key:""};
 self.addEventListener("install",e=>{self.skipWaiting();e.waitUntil(caches.open(SHELL).then(c=>c.addAll(["/","/index.html","/config.js","/platform.js","/vendor/supabase-2.118.0.js","/manifest.webmanifest"]).catch(()=>{})))});
@@ -20,7 +20,7 @@ async function pic(path){const [,,,unit,name]=path.split("/").map(decodeURICompo
     const at=idx[name];if(!at)return new Response("Not found",{status:404});
     const r=await fetch("/media/pack/"+encodeURIComponent(unit)+".bin",{headers:{Range:"bytes="+at[0]+"-"+(at[0]+at[1]-1)}});
     if(!r.ok)throw 0;let buf=await r.arrayBuffer();if(r.status===200)buf=buf.slice(at[0],at[0]+at[1]);
-    const res=new Response(buf,{status:200,headers:{"content-type":name.endsWith(".svg")?"image/svg+xml":"image/jpeg","cache-control":"public, max-age=86400"}});cache.put(path,res.clone());return res}
+    const res=new Response(buf,{status:200,headers:{"content-type":name.endsWith(".svg")?"image/svg+xml":name.endsWith(".webp")?"image/webp":"image/jpeg","cache-control":"public, max-age=86400"}});cache.put(path,res.clone());return res}
   catch(err){delete PIDX[unit];return new Response("Not found",{status:404})}}
 self.addEventListener("fetch",e=>{const u=new URL(e.request.url);if(u.origin!==location.origin||e.request.method!=="GET")return;
   if(u.pathname.startsWith("/_blob/")){e.respondWith(blob(e.request,e.clientId));return}

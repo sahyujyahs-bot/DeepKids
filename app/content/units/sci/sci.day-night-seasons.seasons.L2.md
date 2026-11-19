@@ -218,18 +218,18 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. If you have a map of India, put it where everyone can see. 3. Find Kochi, Chennai and Delhi on it together.  
   *Parent says:* Today we are going on trips all over India. Each card is a place and a month. Can you guess the weather before you pack?  
-  *Child mode:* Each card is a place and a month. Guess the weather. Then pack!
+  *Child mode:* Find Kochi, Chennai and Delhi on the map, if you have one.
   - Note: A map helps a lot. Any school atlas or a map on a phone will do.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns to pick a card. 2. The player says the season and two things to pack. 3. Turn the card and give the points.  
   *Parent says:* Where are you going? What month? So what will the weather be like there? What will you pack?  
   *Child mode:* Read your card. Say the season. Name two things to pack.
-  - Ask: The Chennai in May card and the Chennai in November card have different weather. Why? (good: May is summer there and very hot.; November is when Chennai gets its big rain.)
+  - Ask: Chennai is very hot in May but very rainy in November. Why? (good: May is summer there and very hot.; November is when Chennai gets its big rain.)
   - Note: Children often guess that it is cold in every city in January and rainy everywhere in July. Let the backs of the cards correct them, then point to the places on the map.
 - **s3 (3 min)**  
-  *Parent does:* Count the points. Then ask which card was hardest to guess, and what two things you need to know to guess a place's weather.  
+  *Parent does:* Count the points together. Then ask the two questions.  
   *Parent says:* Which card was hardest to guess? To guess the weather, what two things do you need to know?  
-  *Child mode:* Which card was hardest? What two things tell you the weather?
+  *Child mode:* Think about the card that fooled you most.
   - Note: A good answer is the place and the month. One place has different weather in different months. Two places can also have different weather in the same month. For example, Chennai is hot in May but rainy in November, and Mumbai is rainy in August.
   - Check: Chennai gets its big rains in November. When does Mumbai get its big rains? → **June to September**
 ### g2 · Three Piles: a season sorting race (15 min)
@@ -237,9 +237,9 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **Printable cards: 18 clue cards to cut out, with the season on the back:** Mangoes and jackfruit piled up on the fruit cart (back: Summer); Frogs croaking all night by the puddles (back: Monsoon) [picture]; You can see your breath on a cold morning in Delhi (back: Winter); Gulmohar trees covered in red flowers (back: Summer) [picture]; Wet clothes take two days to dry (back: Monsoon); Kites fill the sky over Ahmedabad for Uttarayan (back: Winter); Neer mor, cool buttermilk, given out at a street stall in Madurai (back: Summer); Peacocks dancing with their tails spread (back: Monsoon) [picture]; Fog on the road so thick you cannot see the bus (back: Winter); The fan on full speed all night (back: Summer); Green moss growing on the building wall (back: Monsoon); Pongal rice boiling over in a new pot in Tamil Nadu (back: Winter); Yellow konna flowers for Vishu in Kerala (back: Summer); Hot roasted corn sold under an umbrella (back: Monsoon); Sweaters and blankets out of the cupboard (back: Winter); The koel calling 'koo-oo' from the trees (back: Summer) [picture]; Snake boat races on the backwaters of Kerala (back: Monsoon); Groundnut chikki and til laddoos for Makar Sankranti (back: Winter)
 - **Printable board: Three pile mats: Summer, Monsoon, Winter:** Summer; Monsoon; Winter
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 18 cards. 2. Draw three big boxes on three sheets of paper and label them Summer, Monsoon and Winter. 3. Read a few cards aloud, so your child knows the words.  
+  *Parent does:* 1. Cut out the 18 cards. 2. Write Summer, Monsoon and Winter in big letters on three sheets of paper. 3. Read a few cards aloud, so your child knows the words.  
   *Parent says:* Each card is a clue from one season. Can you tell which one? Let us read a few first.  
-  *Child mode:* Each card is a clue. Which season is it from?
+  *Child mode:* Listen to the clues. Notice the words you do not know.
   - Note: Explain any word your child does not know: neer mor is thin spiced buttermilk, Uttarayan is the kite festival in January, and konna is the golden shower tree.
 - **s2 (6 min)**  
   *Parent does:* 1. Split the cards into two piles. 2. Say 'Go!' 3. Each player sorts their cards onto the mats. 4. Turn all the cards over and score.  
@@ -248,7 +248,7 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **s3 (6 min)**  
   *Parent does:* Look at any card that went on the wrong mat. Talk about why.  
   *Parent says:* This one went on the wrong mat. What made you think of that season? Where would it go where you live?  
-  *Child mode:* Look at the cards on the wrong mat. Why did you put them there?
+  *Child mode:* Pick one card that went wrong. What made you think of that season?
   - Note: Some cards depend on where you live. Fog and seeing your breath belong to winter in the north, but rarely happen in Chennai. That is a good thing to notice, not a mistake.
   - Check: Frogs are croaking all night by the puddles. Which season is it? → **Monsoon**
 
@@ -257,27 +257,27 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **question:** In the same sunshine, does ice melt faster under a black cloth or under a white cloth?
 - **predict:** Guess first. Which ice cube will melt first: the one under the black cloth, the one under the white cloth, or will they melt at the same time? Why do you think so?
 - **fair test:** We use two ice cubes from the same tray, so they are the same size. We use two plates that are the same. The two cloths are about the same size and thickness. Both plates sit side by side in the same patch of sun for the same time. Only the colour of the cloth is different.
-- **record:** Fill in the results table. Draw the two plates after 15 minutes, with the ice you saw on each.
+- **record:** Fill in the results table. Take a photo of the two plates after 15 minutes, or draw them, with the ice you saw on each.
 - **results table:** Which cloth | My guess: melts first or last? | How does the ice look after 15 minutes? | Spoons of water on the plate
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the results table on paper. 2. Show your child the two cloths and the ice. 3. Ask for a guess and a reason.  
+  *Parent does:* 1. Rule the results table on paper. 2. Show your child the two cloths and the ice. 3. Ask for a guess and a reason.  
   *Parent says:* We will put one ice cube under a black cloth and one under a white cloth, in the sun. Which one will melt first? Why do you think so?  
-  *Child mode:* One ice cube goes under black cloth, one under white. Which melts first? Why?
+  *Child mode:* One ice cube goes under the black cloth and one under the white cloth. Guess which melts first.
   - Ask: Why do you think so? (good: The black one, because black things get hot in the sun.; The white one, because white is brighter.; The same, because the sun is the same for both.)
   - Note: Any guess is fine if it has a reason. Do not explain yet. Let the ice answer.
 - **s2 (3 min)**  
   *Parent does:* 1. Find a spot in direct sunshine. 2. Put the two plates side by side, a hand apart. 3. Put one ice cube on each plate. 4. Lay the black cloth over one cube and the white cloth over the other. 5. Note the time.  
-  *Parent says:* Both plates are in the same sun. Only the cloth is different. Why does that matter?  
+  *Parent says:* Both plates are in the same sun. Only the colour of the cloth is different. That makes it a fair test.  
   *Child mode:* Put both plates in the sun. Cover one ice cube with black and one with white.
   - Note: Sunlight through a closed window works well. If the sun is behind clouds today, keep the ice in the freezer and try on the next sunny morning. On a terrace, stay with your child.
 - **s3 (15 min)**  
   *Parent does:* 1. Wait. 2. After 10 minutes, your child lays a palm gently on top of each cloth, one after the other. 3. Write down which one feels warmer. 4. Keep waiting until 15 minutes have passed since you put the ice out.  
   *Parent says:* Do not lift the cloths yet. Touch the top of each one gently. Which feels warmer?  
-  *Child mode:* Touch the top of each cloth. Which one is warmer?
+  *Child mode:* Touch the top of each cloth gently. Feel the difference.
   - Ask: Which cloth felt warmer? (good: The black one.; The black one was quite hot. The white one was only a little warm.)
   - Note: In good sun, the black cloth feels clearly warmer within a few minutes. While you wait, read the explanation card India's three big seasons, or play one round of Three Piles.
 - **s4 (4 min)**  
-  *Parent does:* 1. After 15 minutes, lift both cloths. 2. Look at the two ice cubes and the water on each plate. 3. Draw what you see.  
+  *Parent does:* 1. After 15 minutes, lift both cloths. 2. Look at the two ice cubes and the water on each plate. 3. Say what you see, and what is different.  
   *Parent says:* Let us lift the cloths. Look at both ice cubes. What do you see?  
   *Child mode:* Lift both cloths. Look at the ice. Which is smaller?
   - Note: In strong sun, the ice under the black cloth is usually much smaller, or gone, with more water round it. The ice under the white cloth is still clearly there. If both are still large, cover them again and wait 10 more minutes. If both are already gone, try again next time with bigger cubes, or lift the cloths after 8 minutes.
@@ -288,8 +288,8 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
   - Note: The cloths soak up a little meltwater, so count only the water on the plate, and lift the cloth to let it drip first. Both cloths do this, so the test stays fair. There will be only a few spoons of water, so also compare how big each ice cube looks.
 - **s6 (3 min)**  
   *Parent does:* Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Why a black cloth gets hotter in the sun.  
-  *Parent says:* Was your guess right? Both cloths had the same sun. So why did the black one melt its ice faster?  
-  *Child mode:* Was your guess right? Both cloths had the same sun. Why did the ice under the black cloth melt more?
+  *Parent says:* Look at your table. Was your guess right?  
+  *Child mode:* Look at your table. Think about what you felt and what you saw.
   - Ask: Why did the ice melt faster under the black cloth? (good: The black cloth took in more sunlight and got hotter.; The white cloth sent the light back, so it stayed cooler.)
   - Note: A strong answer uses the evidence: 'The black cloth felt hotter, and its plate had more spoons of water.' Then add the words: black absorbs, or takes in, most of the light, and white reflects, or sends back, most of it.
   - Check: You are going to the beach in Chennai in May. Which shirt will keep you coolest in the sun? → **A loose white cotton shirt**
@@ -298,7 +298,7 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **predict:** Guess first. After half an hour, will the papad in the damp box still snap, or will it bend? Why do you think so?
 - **fair test:** We break one papad into two halves, so both start the same. Both boxes are the same and both are closed. Neither half touches any water. The only difference is the cup of warm water in one box.
 - **safety:** A grown-up pours the hot water. Keep fingers away from the hot cup.
-- **record:** Fill in the results table. Draw the two halves: one snapped and one bent, or however they came out.
+- **record:** Fill in the results table. Take a photo of the two halves, or write how each one felt when you bent it.
 - **results table:** Which box | My guess: snap or bend? | What happened when I bent it after 30 minutes?
 - **s1 (3 min)**  
   *Parent does:* 1. Take a crisp papad. 2. Your child snaps a tiny corner to hear the crack. 3. Ask for a guess and a reason.  
@@ -313,25 +313,25 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **s3 (30 min)**  
   *Parent does:* Leave both boxes closed for 30 minutes. Play a game or read the story while you wait.  
   *Parent says:* Now we wait half an hour. What do you think is happening in the damp box?  
-  *Child mode:* Wait 30 minutes. What is happening in the box?
+  *Child mode:* Wait 30 minutes. Do not open the lids.
   - Note: Papads differ. If the half from the damp box still snaps after 30 minutes, close the box and wait 30 more minutes before you bend it again.
 - **s4 (5 min)**  
   *Parent does:* 1. Open both boxes. 2. Look at the inside of the lids. 3. Your child bends each papad half gently.  
   *Parent says:* Look under the lids first. What do you see? Now bend each half. Which one snaps?  
-  *Child mode:* Look under the lids. Now bend each half. Which one snaps?
+  *Child mode:* Look under both lids. Then bend each half gently.
   - Ask: What was under the lid of the damp box? (good: Drops of water.; The lid was wet inside.)
   - Note: The half from the dry box should still snap. The half from the damp box should bend or feel leathery, or at least be less snappy. The drops under the lid show that the air carried water.
 - **s5 (3 min)**  
   *Parent does:* Ask your child what they saw, and why they think it happened.  
   *Parent says:* The papad never touched the water. So how did it get soft?  
-  *Child mode:* The papad never touched the water. How did it go soft?
+  *Child mode:* Think about the water cup and the air in the box.
   - Ask: Where did the water come from? (good: From the air in the box.; The hot water went into the air, and the papad soaked it up.)
   - Note: This is why papads, biscuits and salt go soft or lumpy in the monsoon. Monsoon air is humid: it holds a lot of water you cannot see.
   - Check: In Mumbai in July, an open packet of biscuits is left on the table. What will happen to the biscuits? → **They will go soft**
 
 ## Activities
 ### a1 · What Changed? Spot the season in old family photos (10 min)
-- **record:** Draw one photo, and circle the clue that shows its season.
+- **record:** For each photo, say one clue and write down the season it shows.
 - **s1 (3 min)**  
   *Parent does:* 1. Find three photos on your phone, one from April or May, one from July or August, and one from December or January. 2. Do not say the months yet.  
   *Parent says:* Here are three photos of us. They were taken at different times of the year. Look carefully.  
@@ -346,51 +346,51 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **s3 (2 min)**  
   *Parent does:* Ask what changes from one season to the next.  
   *Parent says:* What changed between these photos? Name three things.  
-  *Child mode:* Name three things that changed.
+  *Child mode:* Think about the clothes, the sky and the roads.
   - Check: In a photo, a boy is wearing a raincoat and there are puddles on the road. Which season is it? → **Monsoon**
 ### a2 · Phone a Faraway Family: what season is it there? (15 min)
-- **record:** Make two columns: 'Here' and 'There'. Write or draw the answers to the three questions in each column.
+- **record:** Make two columns: 'Here' and 'There'. Write the answers to the three questions in each column, in a few words.
 - **s1 (4 min)**  
   *Parent does:* 1. Choose who to call. 2. Help your child write three questions: Is it hot or cool today? Is it raining? What are you wearing?  
   *Parent says:* Let us call someone who lives far away. What would you like to ask them about their weather?  
   *Child mode:* Who shall we call? Write three questions about their weather.
   - Note: Grandparents, cousins and family friends in other cities are perfect. If nobody lives far away, look up today's weather for another city on a phone together.
 - **s2 (7 min)**  
-  *Parent does:* Make the call. Your child asks the three questions and listens. Write down or draw the answers.  
+  *Parent does:* Make the call. Your child asks the three questions and listens. Write down each answer in a few words.  
   *Parent says:* Ask your questions. Listen carefully to the answers.  
-  *Child mode:* Ask your three questions. Listen. Draw the answers.
+  *Child mode:* Ask your three questions. Listen to each answer.
 - **s3 (4 min)**  
   *Parent does:* Compare 'Here' and 'There'. Find both places on a map if you have one.  
   *Parent says:* Is their weather the same as ours today? Why might it be different?  
-  *Child mode:* Is their weather the same as ours? Why not?
+  *Child mode:* Look at your two columns. What is the same? What is different?
   - Ask: Why might the weather be different there? (good: They live far away.; The monsoon reaches some places first.; They live up in the mountains, where it is colder.)
   - Note: A good answer says the place is far away, or in the mountains, or by the sea. It is fine if the child just notices the difference.
-### a3 · My Window in Three Seasons: a drawing (15 min)
+### a3 · My Window in Three Seasons: what would you see? (15 min)
 - **record:** Keep the drawing. Label each part with the season and the months.
 - **s1 (3 min)**  
   *Parent does:* Look out of the window together for two minutes. Name what you see.  
   *Parent says:* Look out of the window. What can you see? A tree, a road, the sky, a shop?  
   *Child mode:* Look out of the window. What can you see?
 - **s2 (10 min)**  
-  *Parent does:* Your child draws the same view three times, one in each part of the paper.  
+  *Parent does:* Your child draws the same view three times, one in each part of the paper. If drawing is hard, they can write or say a few words for each part instead.  
   *Parent says:* Now draw this view three times. What would it look like in summer? In the monsoon? In winter?  
-  *Child mode:* Draw the view three times: summer, monsoon and winter.
+  *Child mode:* Draw the view three times: summer, monsoon and winter. Or tell it in words.
   - Note: Ask about details: Would the tree look the same? Would people carry umbrellas? Would the sky be bright, grey or misty?
 - **s3 (2 min)**  
   *Parent does:* Look at the three pictures together.  
   *Parent says:* What changed in your three pictures? What stayed the same?  
-  *Child mode:* What changed? What stayed the same?
+  *Child mode:* Look at your three views side by side.
   - Ask: What stayed the same in all three? (good: The building and the road.; The tree is still there, but with different leaves or flowers.)
 ### a4 · One Minute of Listening: what does the season sound like? (5 min)
-- **record:** Write or draw each sound you heard. Put a star next to the ones that belong to one season.
+- **record:** Write each sound you heard, or say them to a grown-up who writes them down. Put a star next to the ones that belong to one season.
 - **s1 (2 min)**  
   *Parent does:* 1. Sit by the window. 2. Set the timer for one minute. 3. Close your eyes and listen.  
-  *Parent says:* Close your eyes. Listen for one minute. Count every sound you hear on your fingers.  
-  *Child mode:* Close your eyes. Listen for one minute. Count the sounds.
+  *Parent says:* Close your eyes and listen for one minute. Put up a finger for every sound you hear.  
+  *Child mode:* Eyes closed. Listen. One finger for each sound.
 - **s2 (3 min)**  
   *Parent does:* Name the sounds. Decide which ones belong to one season.  
   *Parent says:* What did you hear? Which sounds only come in one season?  
-  *Child mode:* What did you hear? Which sounds come in only one season?
+  *Child mode:* Name each sound you heard. Pick the ones that belong to one season.
   - Note: Season sounds include the koel's 'koo-oo' in summer, rain and frogs in the monsoon, and kite-flying shouts in Gujarat in January. A fan or a cooler running is a summer sound too.
 ### a5 · The Papad Weather Test: is today's air damp or dry? (5 min)
 - **record:** Write the date, the season, and whether the papad snapped or bent.
@@ -418,14 +418,14 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
   *Child mode:* Colour hot months orange, rainy months blue, cool months green.
   - Note: Use your own city. In Chennai, colour October to December blue. In Mumbai, June to September. In Bengaluru, rain falls in many months, with the most in September and October. There is no single right answer for all of India.
 - **s3 (15 min)**  
-  *Parent does:* On day 2, ask the people you live with, or call a relative, about each month. Draw one festival, food or piece of clothing in each box.  
+  *Parent does:* On day 2, ask the people you live with, or call a relative, about each month. Write a word or draw one festival, food or piece of clothing in each box.  
   *Parent says:* Let us ask our family and friends. What do we eat, wear or celebrate in each month?  
-  *Child mode:* Ask your family. What happens in each month? Draw one thing in each box.
+  *Child mode:* Ask your family what happens in each month. Write a word or draw one thing in each box.
   - Note: Festivals that move with the moon calendar, like Deepavali or Eid, can fall in different months in different years. Draw them where they fall this year.
 - **s4 (5 min)**  
   *Parent does:* Count the boxes of each colour. Write the numbers at the bottom.  
   *Parent says:* How many orange months? How many blue? How many green? Which season is longest here?  
-  *Child mode:* Count the orange, blue and green months. Which season is longest?
+  *Child mode:* Count the boxes of each colour.
   - Check: In Mumbai, the monsoon lasts from June to September. How many months is that? → **4 months**
 
 ## Challenges
@@ -439,7 +439,7 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **s1 (3 min)**  
   *Parent does:* Read the challenge with your child. Show the things they may use.  
   *Parent says:* Damp air made the papad soft. How could you keep the damp air away from it? Why do you think that will work?  
-  *Child mode:* Damp air makes papads soft. How can you keep the damp air out? Why?
+  *Child mode:* Think of a way to keep damp air away from the papad.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Your child builds the design for one papad half. A grown-up puts the hot water cup in the big dabba. Put the protected half and the bare half inside, not touching the cup, and close the lid.  
   *Parent says:* Build your idea. Then put it in the damp box and close the lid.  
@@ -447,11 +447,11 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - **s3 (30 min)**  
   *Parent does:* Wait 30 minutes with the lid closed. Play a game or read the story while you wait.  
   *Parent says:* Which half do you think will stay crisp?  
-  *Child mode:* Wait 30 minutes. Which half will stay crisp?
+  *Child mode:* Wait 30 minutes with the lid closed.
 - **s4 (8 min)**  
   *Parent does:* Take out both halves and bend each one. Talk about what worked.  
   *Parent says:* Does it snap? What kept the damp air out? What would you change?  
-  *Child mode:* Bend both halves. Which one snaps? What worked?
+  *Child mode:* Bend both halves. Listen for the snap.
   - Note: A tight lid or a sealed bag usually works best, because the damp air cannot get in. The bare half shows what damp air does. If both halves still snap, your papad may take longer to go soft: wait 30 more minutes.
 
 ## Worksheets

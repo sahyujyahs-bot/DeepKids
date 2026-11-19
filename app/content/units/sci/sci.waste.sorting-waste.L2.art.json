@@ -1,166 +1,166 @@
 {
  "expl.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/expl.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/expl.0.webp",
   "drawn": true
  },
  "expl.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/expl.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/expl.1.webp",
   "drawn": true
  },
  "expl.2": {
-  "src": "media/img/sci.waste.sorting-waste.L2/expl.2.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/expl.2.webp",
   "drawn": true
  },
  "expl.3": {
-  "src": "media/img/sci.waste.sorting-waste.L2/expl.3.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/expl.3.webp",
   "drawn": true
  },
  "flow.a1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/flow.a1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/flow.a1.webp",
   "drawn": true
  },
  "flow.a3": {
-  "src": "media/img/sci.waste.sorting-waste.L2/flow.a3.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/flow.a3.webp",
   "drawn": true
  },
  "flow.c1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/flow.c1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/flow.c1.webp",
   "drawn": true
  },
  "flow.e1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/flow.e1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/flow.e1.webp",
   "drawn": true
  },
  "flow.e2": {
-  "src": "media/img/sci.waste.sorting-waste.L2/flow.e2.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/flow.e2.webp",
   "drawn": true
  },
  "flow.g1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/flow.g1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/flow.g1.webp",
   "drawn": true
  },
  "intro": {
-  "src": "media/img/sci.waste.sorting-waste.L2/intro.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/intro.webp",
   "credit": "Illustration made with OpenArt (Seedream 4.5) from a DeepKids brief"
  },
  "setup.a1.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.a1.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.a1.0.webp",
   "drawn": true
  },
  "setup.a1.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.a1.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.a1.1.webp",
   "drawn": true
  },
  "setup.a2.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.a2.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.a2.0.webp",
   "drawn": true
  },
  "setup.a2.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.a2.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.a2.1.webp",
   "drawn": true
  },
  "setup.a3.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.a3.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.a3.0.webp",
   "drawn": true
  },
  "setup.a3.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.a3.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.a3.1.webp",
   "drawn": true
  },
  "setup.c1.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.c1.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.c1.0.webp",
   "drawn": true
  },
  "setup.c1.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.c1.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.c1.1.webp",
   "drawn": true
  },
  "setup.e1.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.e1.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.e1.0.webp",
   "drawn": true
  },
  "setup.e1.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.e1.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.e1.1.webp",
   "drawn": true
  },
  "setup.e2.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.e2.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.e2.0.webp",
   "drawn": true
  },
  "setup.e2.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.e2.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.e2.1.webp",
   "drawn": true
  },
  "setup.e2.2": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.e2.2.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.e2.2.webp",
   "drawn": true
  },
  "setup.g1.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.g1.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.g1.0.webp",
   "drawn": true
  },
  "setup.g1.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/setup.g1.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/setup.g1.1.webp",
   "drawn": true
  },
  "spot.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/spot.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/spot.1.webp",
   "drawn": true
  },
  "spot.2": {
-  "src": "media/img/sci.waste.sorting-waste.L2/spot.2.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/spot.2.webp",
   "drawn": true
  },
  "spot.4": {
-  "src": "media/img/sci.waste.sorting-waste.L2/spot.4.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/spot.4.webp",
   "drawn": true
  },
  "story.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/story.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/story.0.webp",
   "credit": "Illustration made with OpenArt (Seedream 4.5) from a DeepKids brief"
  },
  "summary": {
-  "src": "media/img/sci.waste.sorting-waste.L2/summary.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/summary.webp",
   "drawn": true
  },
  "term.0": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.0.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.0.webp",
   "drawn": true
  },
  "term.1": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.1.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.1.webp",
   "credit": "Simon Speed, CC0, via Wikimedia Commons"
  },
  "term.10": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.10.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.10.webp",
   "drawn": true
  },
  "term.2": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.2.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.2.webp",
   "drawn": true
  },
  "term.3": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.3.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.3.webp",
   "drawn": true
  },
  "term.4": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.4.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.4.webp",
   "drawn": true
  },
  "term.5": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.5.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.5.webp",
   "credit": "R K, CC BY, via iNaturalist"
  },
  "term.6": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.6.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.6.webp",
   "drawn": true
  },
  "term.7": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.7.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.7.webp",
   "drawn": true
  },
  "term.8": {
-  "src": "media/img/sci.waste.sorting-waste.L2/term.8.jpg",
+  "src": "media/img/sci.waste.sorting-waste.L2/term.8.webp",
   "drawn": true
  }
 }

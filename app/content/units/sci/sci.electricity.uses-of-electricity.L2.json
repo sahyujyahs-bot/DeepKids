@@ -262,7 +262,7 @@
    "title": "The Tired Cell Test: can a cell that fails the torch still run a clock?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you collect old cells that your family thinks are used up. You try each one in a torch and in a wall clock. A torch needs a lot of electricity. A clock needs very little.",
+   "context": "A cell is the small battery you put in a torch or a remote. In this experiment you collect old cells that your family thinks are used up. You try each one in a torch and in a wall clock. A torch needs a lot of electricity. A clock needs very little. You will find out if a cell that is \"dead\" still has some electricity left.",
    "question": "Old cells cannot light a torch any more. Do they still hold any electricity? Can they still run a wall clock?",
    "predict": "Guess first. Will an old cell that cannot light the torch make the clock tick? Why do you think so?",
    "fair_test": "We use the same torch and the same clock for every cell. We watch the clock's second hand for the same time, 10 seconds, for every cell. We also try new cells in both, so we know the torch and the clock work.",
@@ -305,7 +305,7 @@
      "what": "Number the old cells, guess, test each one in the torch and in the clock, and count the results."
     }
    ],
-   "record": "Fill in the table with a tick or a cross for the torch and the clock. Then colour each cell's sticker: green if it ran both, yellow if it ran only the clock, red if it ran nothing.",
+   "record": "Fill in the table with a tick or a cross for the torch and the clock. Then sort the cells into three piles: ran both, ran only the clock, ran nothing.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results for 6 old cells",
@@ -362,7 +362,7 @@
      "mins": 3,
      "do": "1. Put the new cell or cells in the torch, and one new cell in the clock, to show both work. 2. Ask for a guess and a reason. 3. Write the guess.",
      "say": "The new cell lights the torch and runs the clock. Now, will an old cell run the clock? Why do you think so?",
-     "kid": "Will an old cell run the clock? Why do you think so?",
+     "kid": "Will an old cell make the clock tick?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -406,7 +406,7 @@
      "mins": 4,
      "do": "1. Count the ticks in each column. 2. Sort the cells into three groups: ran both, ran only the clock, ran nothing. 3. Ask what your child found, and why. 4. Ask the check question.",
      "say": "How many cells lit the torch? How many ran the clock? What did you find out? Why do you think that happened?",
-     "kid": "Count your ticks. Which worked with more cells, the torch or the clock? Why?",
+     "kid": "Count your ticks. Which worked with more cells, the torch or the clock?",
      "ask": [
       {
        "q": "Why did some cells run the clock but not the torch?",
@@ -436,7 +436,7 @@
    "title": "The Phone Battery Race: which job uses up the battery faster?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you watch a phone's battery number. First the phone rests with its screen off. Then it plays a video with its torch on. A phone battery is a store of electricity that is filled from the wall.",
+   "context": "In this experiment you watch a phone's battery number. First the phone rests with its screen off. Then it plays a video with its torch on. A phone battery is a store of electricity that is filled from the wall. You will find out which uses up more of it: resting, or showing a video and light.",
    "question": "Does a phone's battery go down faster when the phone is resting, or when it plays a video with its torch on?",
    "predict": "Guess first. Will the battery number drop more in the 8 minutes of resting, or in the 8 minutes of video with the torch on? Why do you think so?",
    "fair_test": "We use the same phone, not charging, for both tests. Each test lasts exactly 8 minutes on a timer. We read the battery number at the start and at the end of each test.",
@@ -467,7 +467,7 @@
      "what": "Read the battery, let the phone rest for 8 minutes, then play a video with the torch on for 8 minutes, and compare the drops."
     }
    ],
-   "record": "Write the battery number before and after each test. Draw a bar for how much it dropped in each test.",
+   "record": "Write the battery number before and after each test. Then take the small number away from the big one to see how much it dropped.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results",
@@ -502,7 +502,7 @@
      "mins": 2,
      "do": "1. Find the battery number on the phone. 2. Show it to your child. 3. Ask for a guess and a reason.",
      "say": "This number shows how full the phone's battery is. A hundred means full. Which will make it drop more: resting, or playing a video with the torch on? Why?",
-     "kid": "This number shows how full the battery is. Which will empty it faster: resting, or playing a video with the torch on?",
+     "kid": "Find the battery number. Guess which empties the battery faster.",
      "adult": true,
      "parent": "Take the phone off the charger first. On many phones you see the number by pulling down from the top of the screen or in the battery settings."
     },
@@ -510,9 +510,9 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Write the battery number. 2. Lock the phone and put it face down. 3. Set the timer for 8 minutes. 4. Write the number again.",
-     "say": "The phone is resting now. While we wait, let's draw what the phone is doing. After 8 minutes, read the number again.",
+     "say": "The phone is resting now. We wait 8 minutes, and then we read the number again.",
      "kid": "Write the number. Let the phone rest. Read it again after 8 minutes.",
-     "parent": "Use the 8 minutes for the drawing, or play the Power Cut card game. The number may not move at all. That is a result too."
+     "parent": "Use the 8 minutes to play the Power Cut card game, or just wait. The number may not move at all. That is a result too."
     },
     {
      "id": "s3",
@@ -528,7 +528,7 @@
      "mins": 2,
      "do": "Work out each drop together. Ask what your child found and why. Then ask the check question.",
      "say": "How much did the number drop in each test? Which job used more electricity? Why do you think so?",
-     "kid": "Which test made the number drop more? Why?",
+     "kid": "Which test made the number drop more?",
      "ask": [
       {
        "q": "Why did the video and torch empty the battery faster?",
@@ -559,14 +559,14 @@
    "title": "Listen to the Electricity: what goes quiet when a switch goes off?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you sit very still with your eyes shut and listen to your home. A grown-up switches things off one at a time at their switches. You say what went quiet, and what job that thing was doing.",
+   "context": "In this activity you sit very still with your eyes shut and listen to your home. You will find out how many different jobs electricity does around you. A grown-up switches things off one at a time at their switches. You say what went quiet, and what job that thing was doing.",
    "materials": [
     {
      "item": "a quiet room near the kitchen, with the fan and lights on",
      "qty": 1
     },
     {
-     "item": "a sheet of paper with five boxes: Light, Sound, Heat, Cold, Movement",
+     "item": "a sheet of paper with five boxes: Light, Sound, Heat, Cold, Movement, and small slips of paper",
      "qty": 1
     },
     {
@@ -579,10 +579,10 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Listen with eyes shut while a grown-up switches things off. Name each thing and its job, and draw it in a box."
+     "what": "Listen with eyes shut while a grown-up switches things off. Name each thing and its job, and put it in a box."
     }
    ],
-   "record": "Draw each thing in the box for its job. A thing that does two jobs goes in two boxes.",
+   "record": "Write each thing on a slip of paper and put it in the box for its job. A thing that does two jobs goes in two boxes, so write it twice.",
    "setup": [
     {
      "art": "A boy sitting cross-legged on the floor with his eyes shut, while a ceiling fan turns above him and a fridge stands in the kitchen behind.",
@@ -590,7 +590,7 @@
     },
     {
      "art": "A mother pressing a switch on a switchboard while the boy points up at the fan slowing down, and a paper with five boxes lies beside him.",
-     "caption": "2. A grown-up switches one thing off. What went quiet? Draw it in a box."
+     "caption": "2. A grown-up switches one thing off. What went quiet? Put it in a box."
     }
    ],
    "flow": [
@@ -624,9 +624,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Your child draws each thing in its job box. 2. Count how many things are in each box. 3. Ask the check question.",
-     "say": "Draw each thing in the box for its job. Which box has the most?",
-     "kid": "Draw each thing in its box. Which box has the most?",
+     "do": "1. Your child writes each thing on a slip and puts it in its job box. 2. Count how many things are in each box. 3. Ask the check question.",
+     "say": "Put each thing in the box for its job. Which box has the most?",
+     "kid": "Put each thing in its job box. Which box has the most?",
      "check": {
       "t": "mcq",
       "q": "A fan uses electricity to do which job?",
@@ -646,7 +646,7 @@
    "title": "Follow the Wire: from your fan back to the power station",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you follow the path of mains electricity backwards, from the fan in your room to the wires on the street. Then you draw the whole path, out to the power station.",
+   "context": "In this activity you follow the path of mains electricity backwards, from the fan in your room to the wires on the street. You will find out where the electricity in your fan really comes from. Then you make the whole path, out to the power station.",
    "materials": [
     {
      "item": "a window or balcony where you can see poles, wires or a building's meter box",
@@ -662,10 +662,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Follow the fan's wire to the switchboard, find the meter, look at the street wires, and draw the path to the power station."
+     "what": "Follow the fan's wire to the switchboard, find the meter, look at the street wires, and make the path to the power station."
     }
    ],
-   "record": "Draw the path on a long strip of paper: the fan, the switch, the meter, the street pole, the tall towers and a power station at the end.",
+   "record": "Draw the path on a long strip of paper: the fan, the switch, the meter, the street pole, the tall towers and a power station at the end. Or write each name on a slip of paper and lay the slips in order.",
    "setup": [
     {
      "art": "A girl and her mother on a balcony, pointing at black wires running from a pole to their building.",
@@ -673,7 +673,7 @@
     },
     {
      "art": "A long strip of paper with a drawing from left to right: a fan, a switch, a meter, a pole, a tall tower and a power station.",
-     "caption": "2. Draw the whole path, from the power station to your fan."
+     "caption": "2. Make the whole path, from the power station to your fan."
     }
    ],
    "flow": [
@@ -682,7 +682,7 @@
      "mins": 3,
      "do": "1. Stand under the fan. 2. Show the switch on the switchboard that turns it on. 3. Ask where the electricity comes into the switch from.",
      "say": "When I press this switch, the fan turns. Where do you think the electricity comes from before the switch?",
-     "kid": "Where does the fan's electricity come from? Guess.",
+     "kid": "Look at the switch. Guess where the electricity comes from.",
      "ask": [
       {
        "q": "Where does the electricity come from?",
@@ -707,9 +707,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Tell your child that the wires go back to a power station. 2. Name what power stations use: coal, falling water, wind or sunlight. 3. Your child draws the whole path.",
-     "say": "The wires go all the way back to a power station, often very far away. Some power stations burn coal. Some use falling water, wind or sunlight. Draw the path.",
-     "kid": "Draw the path from the power station to your fan.",
+     "do": "1. Tell your child that the wires go back to a power station. 2. Name what power stations use: coal, falling water, wind or sunlight. 3. Your child draws the whole path, or lays name slips in order.",
+     "say": "The wires go all the way back to a power station, often very far away. Some power stations burn coal. Some use falling water, wind or sunlight. Now make the path.",
+     "kid": "Make the path from the power station to your fan. Draw it, or lay name slips in order.",
      "check": {
       "t": "mcq",
       "q": "Where is mains electricity made?",
@@ -729,7 +729,7 @@
    "title": "Before the Wires: ask an older person about life without electricity",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you ask a grandparent or an older neighbour how people did their jobs before their home had electricity. You make a picture chart: then and now.",
+   "context": "In this activity you ask a grandparent or an older neighbour how people did their jobs before their home had electricity. You make a then-and-now chart, to find out which old ways needed no electricity at all.",
    "materials": [
     {
      "item": "a grandparent, an older relative or an older neighbour, in person or on a phone call",
@@ -748,10 +748,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Ask four questions about life before electricity, then draw a then-and-now chart."
+     "what": "Ask four questions about life before electricity, then make a then-and-now chart."
     }
    ],
-   "record": "On the Then side, draw how a job was done without electricity. On the Now side, draw the appliance that does it today.",
+   "record": "On the Then side, show how a job was done without electricity. On the Now side, show the appliance that does it today. Draw it, write it, or take a photo.",
    "setup": [
     {
      "art": "A girl holding a phone on a video call with an old woman who is showing a palm-leaf fan.",
@@ -759,7 +759,7 @@
     },
     {
      "art": "A folded paper with Then on one side, showing a kerosene lamp and a grinding stone, and Now on the other, showing a bulb and a mixie.",
-     "caption": "2. Draw a then-and-now chart."
+     "caption": "2. Make a then-and-now chart."
     }
    ],
    "flow": [
@@ -783,9 +783,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child draws the then-and-now chart and says which old ways did not need electricity.",
-     "say": "Draw each job: how it was done then, and how it is done now. Look at your chart. Which old way did not need electricity?",
-     "kid": "Draw then and now. Which old way did not need electricity?",
+     "do": "Your child fills in the then-and-now chart and says which old ways did not need electricity.",
+     "say": "Fill in each job: how it was done then, and how it is done now. You can draw it, write it, or take a photo.",
+     "kid": "Fill in then and now for each job. Draw it, write it, or take a photo.",
      "ask": [
       {
        "q": "Which old way did not need electricity at all?",
@@ -810,7 +810,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game for 2 to 4 players. You collect appliance cards for your home. When a Power Cut card comes up, every plug appliance stops and you lose it. Cell appliances keep working.",
+   "context": "This is a card game for 2 to 4 players. You collect appliance cards for your home. When a Power Cut card comes up, every plug appliance stops and you lose it. Appliances with a cell or a charged battery keep working. You will find out which things still work when the power goes.",
    "printables": [
     {
      "kind": "cards",
@@ -928,7 +928,7 @@
    "rules": [
     "Shuffle the 24 appliance cards and the 4 Power Cut cards together, with the appliance names face up and the backs hidden. Put them in one pile.",
     "Take turns. On your turn, take the top card.",
-    "If it is an appliance, say 'plug' or 'cell' before you turn it over. Turn it over to check. If you were right, keep the card in front of you. If you were wrong, put it in the out pile.",
+    "If it is an appliance, say 'plug', 'cell' or 'battery' before you turn it over. Turn it over to check. If you were right, keep the card in front of you. If you were wrong, put it in the out pile.",
     "If it is a Power Cut card, every player checks their cards. Every plug appliance stops working and goes to the out pile. Cell and charged battery cards stay.",
     "When the pile is finished, count your cards. The player with the most cards still working wins."
    ],
@@ -947,8 +947,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Cut out the cards. Read the rules together. Show one plug card and one cell card.",
-     "say": "Each card is a thing in a home. Before you turn it over, say plug or cell. Then check the back.",
-     "kid": "Take a card. Say plug or cell. Then turn it over.",
+     "say": "Each card is a thing in a home. Before you turn it over, say plug, cell or battery. Then check the back.",
+     "kid": "Take a card. Say plug, cell or battery. Then turn it over.",
      "parent": "Print the appliance cards two-sided, so the answer is on the back."
     },
     {
@@ -972,8 +972,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the working cards. Ask which kind of card was safest to keep.",
-     "say": "Count your cards. Which kind of card was safest to keep in this game? Why?",
-     "kid": "Count your cards. Which kind lasted best?",
+     "say": "Count the cards you still have. Look at what kinds they are.",
+     "kid": "Count your cards. Which kind do you have most of?",
      "ask": [
       {
        "q": "Which cards lasted through every power cut?",
@@ -994,7 +994,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is an acting game. One player acts out an appliance without words. The others guess the appliance, then say what job electricity does in it.",
+   "context": "This is an acting game. One player acts out an appliance without words. The others guess the appliance, then say what job electricity does in it. You will find out that each appliance turns electricity into light, sound, heat, cold or movement.",
    "printables": [
     {
      "kind": "cards",
@@ -1097,7 +1097,7 @@
      "mins": 8,
      "do": "Take turns acting. After each guess, ask what job electricity is doing.",
      "say": "You guessed the fridge. What job is electricity doing in a fridge: light, sound, heat, cold or movement?",
-     "kid": "What job does electricity do in it?",
+     "kid": "What job does electricity do inside that appliance?",
      "ask": [
       {
        "q": "Which appliances do two jobs?",
@@ -1118,7 +1118,7 @@
    "title": "Our Electricity Week: read the meter for five days",
    "mins": 25,
    "days": 5,
-   "context": "In this project you read your home's electricity meter every evening for five days, with a grown-up. The meter counts how much electricity your home uses, in units.",
+   "context": "In this project you read your home's electricity meter every evening for five days, with a grown-up. The meter counts how much electricity your home uses, in units. You will find out which days use the most electricity, and why.",
    "materials": [
     {
      "item": "your home's electricity meter, or the last electricity bill if you cannot reach the meter",
@@ -1240,7 +1240,7 @@
     "Shine the torch at a white ceiling, so the light bounces down over the table.",
     "Cover the torch with a thin white cloth, so the beam spreads wider."
    ],
-   "your_turn": "Try three ways. In which one can everyone see their plate? Draw your best design.",
+   "your_turn": "Try three ways. In which one can everyone see their plate? Draw your best design, or take a photo of it.",
    "setup": [
     {
      "art": "A dark dining table with a single narrow torch beam lighting only one plate.",
@@ -1257,7 +1257,7 @@
      "mins": 4,
      "do": "Switch off the room lights in the evening. Shine one torch at the table. Ask for ideas before showing any.",
      "say": "The torch lights only one plate. How could we spread the light over the whole table, without using electricity from the wall?",
-     "kid": "The torch lights one plate. How can you light them all?",
+     "kid": "Think of ways to spread the light over every plate.",
      "ask": [
       {
        "q": "What could you try?",
@@ -1280,9 +1280,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Talk about which way worked best and why. Your child draws the best design.",
+     "do": "Talk about which way worked best and why. Your child shows the best design, by drawing it or taking a photo.",
      "say": "Which way lit the most plates? Why do you think it worked?",
-     "kid": "Which way worked best? Draw it.",
+     "kid": "Which way worked best? Draw it, or take a photo.",
      "check": {
       "t": "mcq",
       "q": "Why does the water bottle lamp still work in a power cut?",

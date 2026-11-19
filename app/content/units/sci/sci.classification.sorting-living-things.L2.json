@@ -323,7 +323,7 @@
    "title": "Find My Group: a card game with three kinds of rule",
    "mins": 15,
    "players": "2 to 4 players, with a grown-up to start",
-   "context": "This is a card game with 16 animal cards and 12 rule cards. A rule card is turned over, and players lay down every animal card in their hand that fits the rule.",
+   "context": "This is a card game with 16 animal cards and 12 rule cards. A rule card is turned over, and players lay down every animal card in their hand that fits the rule. You will find out that one animal can fit many different rules.",
    "printables": [
     {
      "kind": "cards",
@@ -508,10 +508,10 @@
      "mins": 5,
      "do": "Turn over a covering rule first, such as 'Feathers'. Each player lays down the cards that fit.",
      "say": "The rule is feathers. Which of your animals have feathers? How do you know?",
-     "kid": "The rule is feathers. Put down every animal with feathers.",
+     "kid": "Look at your cards. Put down every animal with feathers.",
      "ask": [
       {
-       "q": "A fruit bat has fur and wings. Why does the fruit bat card not go down for the rule 'Feathers'?",
+       "q": "The fruit bat has wings. Why does the fruit bat card not go down for the rule 'Feathers'?",
        "good": [
         "A bat has fur, not feathers.",
         "Only birds have feathers."
@@ -523,8 +523,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Keep playing. Turn over leg rules and food rules. Read the back of any card a player is unsure about.",
-     "say": "The rule is 'eats both'. Look at the back if you are not sure. Who eats plant food and animal food?",
-     "kid": "The rule is 'eats both'. Who eats plants and animals? Check the back.",
+     "say": "The rule is 'eats both'. That means an animal who eats plant food and animal food. Look at the back if you are not sure.",
+     "kid": "Read the backs of your cards. Put down every animal who eats both.",
      "parent": "The 'eats both' group is the crow, the hen, the ant and you. Children often put the cow there, because a cow gives milk. Ask what the cow eats, not what the cow gives."
     },
     {
@@ -532,7 +532,7 @@
      "mins": 2,
      "do": "At the end, find the hen card and put it on the floor. Then ask the question below.",
      "say": "The hen fits three rules: feathers, 2 legs and eats both. Did the hen change, or did the rule change?",
-     "kid": "The hen fits three different rules. Did the hen change, or the rule?",
+     "kid": "Count the rules the hen fits. Is it still the same hen?",
      "check": {
       "t": "mcq",
       "q": "Which rule puts the hen in the same group as you?",
@@ -552,7 +552,7 @@
    "title": "Three Clues: guess the animal",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a guessing game. One player thinks of an animal. The others ask about the covering, the legs and the food until they guess.",
+   "context": "This is a guessing game. One player thinks of an animal. The others ask about the covering, the legs and the food until they guess. You will find out which questions help you guess fastest.",
    "printables": [
     {
      "kind": "cards",
@@ -601,18 +601,18 @@
      "mins": 6,
      "do": "Play 3 or 4 rounds, taking turns to hide.",
      "say": "Which question helps you more: 'Do you have feathers?' or 'Do you eat other animals?'",
-     "kid": "Which question helps most? Pick it and ask.",
+     "kid": "Pick a question card and ask it. Try to guess in fewer questions each round.",
      "parent": "A good first question splits the cards into two big groups, like 'Do you eat other animals?' About half the cards say yes. A question about one rare feature, like feathers, often gets a 'no' and tells less."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask which question was most useful.",
+     "do": "Ask which question was most useful. Then ask the check question.",
      "say": "Which question helped you most? Why?",
-     "kid": "Which question helped you most? Why?",
+     "kid": "Think about the question that ruled out the most animals.",
      "check": {
       "t": "mcq",
-      "q": "The animal has scales and 4 legs. Which animal is this?",
+      "q": "A hider says yes to scales and yes to 4 legs. Which animal is hiding?",
       "options": [
        "Rat snake",
        "Gecko",
@@ -640,7 +640,7 @@
    "title": "Ant Lunch: do ants eat plant food, animal food, or both?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put three foods near the ants in your home: banana, rice and a dead insect. Then you watch which foods the ants come to.",
+   "context": "In this experiment you put three foods near the ants in your home: banana, rice and a dead insect. Then you watch which foods the ants come to. You will find out what ants really eat.",
    "question": "Do the ants in our home eat plant food, animal food, or both?",
    "predict": "Guess first. Will the ants come to the banana, the rice, the dead insect, or more than one? Why do you think so?",
    "fair_test": "We put the three foods out at the same time, each the same distance from the ants. The pieces are all small. We count the ants on each food at the same times. If one spot gets all the ants, we swap the foods round on another day and try again, to check the spot was not the reason.",
@@ -688,7 +688,7 @@
      "what": "Guess. Put out the three foods near the ants. Count the ants after 5 and 10 minutes. Say what you found."
     }
    ],
-   "record": "Draw the paper with the three foods on it. Draw a dot for each ant you counted on each food after 10 minutes. Write P next to plant food and A next to animal food.",
+   "record": "Fill in the results table with the number of ants on each food after 5 and 10 minutes. Write P next to plant food and A next to animal food. You can also take a photo of each food with its ants.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results: ants on each food",
@@ -739,7 +739,7 @@
      "mins": 3,
      "do": "1. Show your child the three foods. 2. Ask which are plant food and which is animal food. 3. Ask for a guess and a reason. 4. Write the guess down.",
      "say": "The banana and the rice come from plants. The mosquito is an animal. Which will the ants come to? Why do you think so?",
-     "kid": "Banana and rice come from plants. The mosquito is an animal. Which will the ants eat? Why?",
+     "kid": "Banana and rice come from plants. The mosquito is an animal. Which food will the ants come to?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -765,7 +765,7 @@
      "mins": 10,
      "do": "1. After 5 minutes, count the ants on each food and write the numbers. 2. Count again at 10 minutes. 3. Watch what the ants do at each food.",
      "say": "How many ants are on the banana? On the rice? On the mosquito? What are they doing there?",
-     "kid": "Count the ants on each food. Write the numbers. What are the ants doing?",
+     "kid": "Count the ants on each food. Write the numbers in the table.",
      "ask": [
       {
        "q": "What are the ants doing?",
@@ -807,7 +807,7 @@
      "mins": 3,
      "do": "Ask your child which foods the ants came to, what the ants did there, and why they think so. Then wipe up the food.",
      "say": "Was your guess right? Which foods did the ants come to? So which food group are our ants in?",
-     "kid": "Was your guess right? Which foods did the ants eat? Which food group are they in?",
+     "kid": "Was your guess right? Which foods did the ants come to?",
      "ask": [
       {
        "q": "Which food group are our ants in?",
@@ -837,7 +837,7 @@
    "id": "a1",
    "title": "Who Sits With the Hen? Sort the same cards three ways",
    "mins": 10,
-   "context": "In this activity you sort the same animal cards three times: by covering, by legs and by food. You watch which animals sit with the hen each time.",
+   "context": "In this activity you sort the same animal cards three times: by covering, by legs and by food. You will find out that the hen sits with different animals under each rule.",
    "materials": [
     {
      "item": "the 16 animal cards from the game Find My Group",
@@ -868,7 +868,7 @@
      "mins": 4,
      "do": "1. Spread out the 16 cards. 2. Your child sorts them by covering onto the plates. 3. Ask who is with the hen.",
      "say": "Sort every animal by what covers their body. Who is on the same plate as the hen?",
-     "kid": "Sort the animals by their covering. Who is with the hen?",
+     "kid": "Put each animal on the plate that matches what covers their body.",
      "parent": "The crow, the hen and the parrot all have feathers, so they sit on the same plate. The butterfly has tiny scales on the wings and a hard outer case. The butterfly can go on either the scales plate or the hard case plate, if your child says why."
     },
     {
@@ -876,7 +876,7 @@
      "mins": 3,
      "do": "Mix the cards. Your child sorts them by legs. Ask who is with the hen now.",
      "say": "Now sort them by legs. Who is with the hen this time?",
-     "kid": "Now sort by legs. Who is with the hen now?",
+     "kid": "Mix the cards. Put each animal on a plate by how many legs they have.",
      "ask": [
       {
        "q": "Who is with the hen now?",
@@ -891,8 +891,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Mix the cards again. Your child sorts them by food, using the backs. Then ask the check question.",
-     "say": "Now sort them by food. Read the backs. Did the hen change, or did the rule change?",
-     "kid": "Sort by food now. Read the backs. Did the hen change?",
+     "say": "Now sort them by food. Read the backs. Who sits with the hen this time?",
+     "kid": "Read the back of each card. Put each animal on a plate by what they eat.",
      "check": {
       "t": "mcq",
       "q": "The hen sat with different animals each time. Why?",
@@ -911,7 +911,7 @@
    "id": "a2",
    "title": "Same and Different Hoops",
    "mins": 12,
-   "context": "In this activity you make two overlapping hoops on the floor with dupattas or string. You compare a crow and a hen, then yourself and a cow.",
+   "context": "In this activity you make two overlapping hoops on the floor with dupattas or string. You compare a crow and a hen, then yourself and a cow. You will find out what two animals share and how they differ.",
    "materials": [
     {
      "item": "2 dupattas, two long pieces of string, or chalk",
@@ -949,7 +949,7 @@
      "mins": 5,
      "do": "Your child says features of the crow and the hen. Your child writes each on a slip, or you write it for them. Your child puts each slip in the crow side, the hen side, or the middle.",
      "say": "Tell me one thing about the crow. Does the hen have that too? Then where does the slip go?",
-     "kid": "Say one thing about the crow. Does the hen have that too? Put the slip in the right place.",
+     "kid": "Write one thing about the crow on a slip. Put the slip on the crow side, the hen side or the middle.",
      "parent": "The middle can hold feathers, a beak, 2 legs, 2 wings, lays eggs and eats both. The crow side can hold flies far, and black and grey. The hen side can hold flies only a short way, and a red comb on the head."
     },
     {
@@ -957,7 +957,7 @@
      "mins": 5,
      "do": "Clear the hoops. Now put the 'you' card and the cow card in the hoops, and compare again.",
      "say": "Now compare yourself and a cow. What do you share? What is only yours?",
-     "kid": "Now compare you and a cow. What do you both have?",
+     "kid": "Put the 'you' card and the cow card in the hoops. Make slips and put them in place.",
      "ask": [
       {
        "q": "What is in the middle?",
@@ -987,7 +987,7 @@
    "title": "Crow Menu: a week of watching (if a crow visits your window or balcony)",
    "mins": 15,
    "days": 5,
-   "context": "In this activity you watch a crow at your window for a few minutes each day, and write down everything you see the crow eat.",
+   "context": "In this activity you watch a crow at your window for a few minutes each day, and write down everything you see the crow eat. You will find out what a crow really eats, one day at a time.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1043,7 +1043,7 @@
      "say": "Let's watch quietly. What does the crow eat today?",
      "kid": "Watch the crow for 3 minutes. Write what they eat.",
      "wait": "Watch again tomorrow.",
-     "parent": "Watch from inside, so the crow is not scared away. If no crow comes, a myna works too. Name the table after that bird."
+     "parent": "Watch from inside, so the crow is not scared away. If no crow comes, watch a myna instead and write the bird's name on the table."
     },
     {
      "id": "s2",
@@ -1059,7 +1059,7 @@
      "mins": 3,
      "do": "Read the whole table together. Mark each food P for plant or A for animal.",
      "say": "Look at all the foods. How many came from plants? How many were animals? So which group is the crow in?",
-     "kid": "Mark each food P or A. Which group is the crow in?",
+     "kid": "Write P next to each plant food and A next to each animal food.",
      "check": {
       "t": "mcq",
       "q": "A crow ate rice, a banana and a moth this week. Which food group is the crow in?",
@@ -1081,14 +1081,14 @@
    "title": "Our Home Animal Grid",
    "mins": 25,
    "days": 2,
-   "context": "In this two-day project you make a big chart of the animals you can find in and around your home. For each one you fill in the covering, the legs and the food.",
+   "context": "In this two-day project you make a big chart of the animals you can find in and around your home. For each one you fill in the covering, the legs and the food. You will find out which animals live around you and how they are alike.",
    "materials": [
     {
      "item": "a big sheet of paper or two sheets taped together",
      "qty": 1
     },
     {
-     "item": "a ruler and crayons",
+     "item": "a ruler and a pencil",
      "qty": 1
     }
    ],
@@ -1096,12 +1096,12 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row about your child. Then add any animal you can see from the window."
+     "what": "Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row about your child. Then add any animal you can see from the window. Write each animal's name."
     },
     {
      "day": 2,
      "mins": 13,
-     "what": "Add the animals you found today. Colour each food box: green for plants, red for animals, both colours for both."
+     "what": "Add the animals you found today. Mark each food box: P for plants, A for animals, P and A for both."
     }
    ],
    "record": "The grid itself, with at least 6 animals, including a person.",
@@ -1112,7 +1112,7 @@
     },
     {
      "art": "The finished chart with rows for a person, a crow, an ant, a gecko, a pigeon and a housefly, and green and red food boxes.",
-     "caption": "2. Fill in each animal you found, and colour the food box."
+     "caption": "2. Fill in each animal you found, and mark the food box P, A or both."
     }
    ],
    "flow": [
@@ -1128,12 +1128,12 @@
     {
      "id": "s2",
      "mins": 13,
-     "do": "1. Add the animals your child found today. 2. Colour each food box: green for plants, red for animals, half and half for both.",
-     "say": "Look down the food column. Which colour do you see most? Which animals are like you?",
-     "kid": "Colour each food box. Which animals eat both, like you?",
+     "do": "1. Add the animals your child found today. 2. Mark each food box: P for plants, A for animals, P and A for both.",
+     "say": "Look down the food column. Which letter do you see most? Which animals are like you?",
+     "kid": "Mark each food box P, A or both. Which animals eat both, like you?",
      "check": {
       "t": "mcq",
-      "q": "On your grid, which animal has 6 legs?",
+      "q": "Which of these animals has 6 legs?",
       "options": [
        "The gecko",
        "The housefly",
@@ -1151,7 +1151,7 @@
    "id": "c1",
    "title": "Feed the Rescue Centre",
    "mins": 20,
-   "context": "This is a planning challenge. You plan the food trays for five animals at a small animal rescue centre.",
+   "context": "This is a planning challenge. You plan the food trays for five animals at a small animal rescue centre. You will find out how to feed animals who eat different things from just three trays.",
    "problem": "A small animal rescue centre in Mysuru is caring for a cow, a shikra (a small hawk), a star tortoise, a crow and a green parrot. The centre has only three food trays. How can the trays be filled so that every animal gets food they eat?",
    "constraints": [
     "There are only three trays.",
@@ -1159,8 +1159,9 @@
     "Foods to choose from: grass, fruit, seeds, cooked rice, small pieces of meat, and insects."
    ],
    "materials": [
-    "paper and crayons",
-    "the crow, cow, parrot and star tortoise cards from Find My Group, if you have them. Draw the hawk yourself."
+    "3 plates or bowls, to be the trays",
+    "small paper slips and a pencil",
+    "the crow, cow, parrot and star tortoise cards from Find My Group. For the shikra, write its name on a slip."
    ],
    "general": [
     "Make one tray for each food group: a plant tray, a meat tray, and a tray with both.",
@@ -1168,9 +1169,9 @@
    ],
    "creative": [
     "The crow eats both, so the crow could share the plant tray and the meat tray. Then the third tray can hold water.",
-    "Draw the food on each tray as a picture label, so a helper who cannot read knows which tray is which."
+    "Put one real food, like a grain of rice, on each tray as a label, so a helper who cannot read knows which tray is which."
    ],
-   "your_turn": "Draw your three trays and the food on each one. Draw lines from each animal to their tray. Then add a new animal, a gecko, and say which tray the gecko needs.",
+   "your_turn": "Write each food on a slip and put the slips on your three trays. Put each animal next to their tray. Then add a new animal, a gecko, and say which tray the gecko needs.",
    "setup": [
     {
      "art": "Five animals in a row at a rescue centre: a cow, a small grey hawk, a star tortoise, a crow and a green parrot.",
@@ -1178,23 +1179,23 @@
     },
     {
      "art": "Three drawn trays: one with grass, fruit and seeds, one with meat pieces, and one with rice and insects, with lines to each animal.",
-     "caption": "2. Draw three trays and the food on each. Draw a line from each animal to a tray."
+     "caption": "2. Put food slips on three plates. Put each animal next to their tray."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read the problem to your child. Show the five animal pictures.",
+     "do": "Read the problem to your child. Lay out the five animal cards and slips.",
      "say": "A small rescue centre has five animals and only three trays. What does each animal eat?",
-     "kid": "Five animals, three trays. What does each animal eat?"
+     "kid": "Look at the five animals. Think about what each one eats."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child draws three trays, fills them, and draws a line from each animal to a tray.",
+     "do": "Your child writes each food on a slip and puts the slips on the three plates. Then your child puts each animal card next to their tray.",
      "say": "Which foods go on each tray? Which animal goes to which tray?",
-     "kid": "Draw three trays. Fill them. Draw a line from each animal to a tray.",
+     "kid": "Put each food slip on a tray. Then put each animal next to a tray they can eat from.",
      "parent": "A shikra eats lizards, small birds and mice, so the shikra needs the meat. A star tortoise eats grass, flowers and fruit. The gecko eats insects, so the gecko needs the meat tray. Let your child decide, and ask for a reason each time."
     },
     {
@@ -1202,7 +1203,7 @@
      "mins": 5,
      "do": "Your child explains the plan. Ask the check question.",
      "say": "Tell me your plan. Why does each animal go to that tray?",
-     "kid": "Say your plan. Why does each animal go there?",
+     "kid": "Tell your grown-up why each animal sits by that tray.",
      "check": {
       "t": "mcq",
       "q": "Which animal can eat from both the plant tray and the meat tray?",

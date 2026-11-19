@@ -277,7 +277,7 @@
    "title": "The Dough Test: squash it, freeze it, cook it. Can it go back?",
    "mins": 28,
    "days": 1,
-   "context": "In this experiment you make three equal pieces of atta dough. You squash one, put one in the freezer and a grown-up cooks one on a hot tawa. Then you try to make each one a soft ball again.",
+   "context": "In this experiment you make three equal pieces of atta dough. You squash one, put one in the freezer and a grown-up cooks one on a hot tawa. Then you try to make each one a soft ball again. You will find out which of these changes dough can go back from.",
    "question": "We can change dough by squashing it, by cooling it and by heating it. Which of these changes can we undo?",
    "predict": "Look at the three pieces of dough. After we squash one, freeze one and cook one, which ones can you roll back into a soft ball? Why do you think so?",
    "fair_test": "All three pieces come from the same ball of dough, and they are the same size. We try to undo each change in the same way, by rolling it in our hands. We check every piece only after it has warmed up or cooled down to the warmth of the room.",
@@ -330,7 +330,7 @@
      "what": "Make three equal pieces of dough. Squash one, freeze one and cook one. Try to roll each one back into a soft ball."
     }
    ],
-   "record": "Fill in the results table. Draw each piece after its change, and write 'went back' or 'did not go back' under it.",
+   "record": "Fill in the results table. Write 'went back' or 'did not go back' for each piece. You can also take a photo of each piece after its change.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -392,9 +392,9 @@
      "id": "s1",
      "mins": 4,
      "context": "This is the first step of the dough test. You make the dough and guess.",
-     "do": "1. Make a soft dough the size of a lemon, or use dough left from cooking. 2. Cut it into three equal pieces. 3. Ask the questions below.",
-     "say": "These three pieces are the same dough. I will squash one, freeze one and cook one. Afterwards, which ones can you roll back into a soft ball? Why do you think so?",
-     "kid": "Look at the three pieces. One gets squashed. One gets frozen. One gets cooked. Which can go back to a soft ball? Why?",
+     "do": "1. Make a soft dough the size of a lemon, or use dough left from cooking. 2. Cut it into three equal pieces and call them piece 1, piece 2 and piece 3. 3. Ask the question below.",
+     "say": "These three pieces are the same dough. I will squash one, freeze one and cook one. Then we will try to roll each one back into a soft ball.",
+     "kid": "Look at the three pieces. One gets squashed, one gets frozen and one gets cooked. Think about what each one will be like afterwards.",
      "ask": [
       {
        "q": "Which pieces will go back to a soft ball? Why?",
@@ -421,8 +421,8 @@
      "mins": 5,
      "context": "In this step of the dough test, you squash piece 1 and try to undo it.",
      "do": "1. Your child squashes piece 1 flat with a palm. 2. Then rolls it into a long snake. 3. Then rolls it back into a ball. 4. Ask the questions below.",
-     "say": "Squash it flat. Now roll it into a long snake. Now can you make it a ball again? Is it still dough?",
-     "kid": "Squash piece 1 flat. Roll it into a snake. Now roll it into a ball again. Is it still dough?",
+     "say": "Squash piece 1 flat. Now roll it into a long snake. Now roll it back into a ball.",
+     "kid": "Squash piece 1 flat. Roll it into a snake. Then roll it back into a ball. Look at it and feel it.",
      "ask": [
       {
        "q": "Is it the same dough as before? How do you know?",
@@ -440,8 +440,8 @@
      "adult": true,
      "context": "In this step of the dough test, a grown-up cooks piece 3 on a hot tawa.",
      "do": "1. Roll piece 3 into a small, thin disc. 2. Heat the tawa. 3. Cook the disc for about one minute on each side. 4. Put it on the plate to cool for 2 minutes.",
-     "say": "Stand back from the stove and watch. What is happening to the dough on the tawa? What colour is it turning?",
-     "kid": "Stand back from the stove. Watch the dough on the tawa. What do you see?",
+     "say": "Stand back from the stove and watch the dough on the tawa. Look at its colour and at its top.",
+     "kid": "Stand back from the stove. Watch the dough on the tawa closely.",
      "ask": [
       {
        "q": "What is happening to the dough?",
@@ -459,8 +459,8 @@
      "mins": 4,
      "context": "In this step of the dough test, you try to undo the cooked piece.",
      "do": "1. When the cooked piece is cool, your child tries to roll it into a soft ball. 2. Tear off a small bit and put it in the bowl of water for 3 minutes. 3. Squeeze the wet bit.",
-     "say": "Can you roll the cooked piece into a soft ball, like the first one? Let's try water too. Does water turn it back into dough?",
-     "kid": "Try to roll the cooked piece into a ball. Put a bit in water. Squeeze it. Is it dough again?",
+     "say": "Try to roll the cooked piece into a soft ball, like the first one. Then we will put a bit in water.",
+     "kid": "Try to roll the cooked piece into a ball. Put a bit in water for 3 minutes. Then squeeze it and feel it.",
      "ask": [
       {
        "q": "Did the cooked piece become dough again?",
@@ -494,9 +494,9 @@
      "id": "s7",
      "mins": 2,
      "context": "This is the last step of the dough test. You say what you found.",
-     "do": "1. Put the three pieces side by side. 2. Ask your child which changes could be undone, what they saw, and why they think so. 3. Then read the cards on reversible and irreversible changes.",
-     "say": "Look at all three. Which changes could you undo? What did you see that tells you? Why do you think the tawa changed the dough for good?",
-     "kid": "Look at the three pieces. Which changes could you undo? Which could you not? Why?",
+     "do": "1. Put the three pieces side by side. 2. Fill in the last column of the results table together. 3. Ask the question below. 4. Then read the cards on reversible and irreversible changes.",
+     "say": "Look at all three pieces. Which changes could you undo? What did you see that tells you?",
+     "kid": "Point to the pieces that went back to a soft ball. Then point to the one that did not.",
      "ask": [
       {
        "q": "Why couldn't the cooked piece go back?",
@@ -515,7 +515,7 @@
    "title": "The Bend Test: does it spring back, stay bent or break?",
    "mins": 18,
    "days": 1,
-   "context": "In this experiment you gently bend six things from home: a plastic ruler, a broom stick, a strip of foil, a paper clip, an eraser and a toothpick. You watch what each one does when you let go.",
+   "context": "In this experiment you gently bend six things from home: a plastic ruler, a broom stick, a strip of foil, a paper clip, an eraser and a toothpick. You watch what each one does when you let go. You will find out which things spring back, which stay bent and which break.",
    "question": "When we bend things and let go, which ones spring back, which stay bent and which break?",
    "predict": "Look at the six things. Which will spring back? Which will stay bent? Which will break? Why do you think so?",
    "fair_test": "We bend each thing gently, in the middle, and hold it for a count of five. Then we let go and look. We try each thing two times, because one try can go wrong by chance.",
@@ -631,8 +631,8 @@
      "mins": 3,
      "context": "This is the first step of the bend test. You guess what each thing will do.",
      "do": "1. Put the six things in a row. 2. Your child writes or says a guess for each one. 3. Ask the questions below.",
-     "say": "When you bend these and let go, some may spring back, some may stay bent and some may break. What will each one do? Why do you think so?",
-     "kid": "Look at the six things. Will each one spring back, stay bent or break? Why?",
+     "say": "When you bend these and let go, some may spring back, some may stay bent and some may break. What do you think each one will do?",
+     "kid": "Look at the six things. Think about what each one will do when you bend it and let go.",
      "ask": [
       {
        "q": "Which one will break? Why?",
@@ -648,27 +648,27 @@
      "id": "s2",
      "mins": 9,
      "context": "In this step of the bend test, you bend each thing and let go.",
-     "do": "1. Your child bends each thing gently in the middle. 2. Hold it bent while you both count to five. 3. Let go and look. 4. Tick the right box. 5. Do each one twice.",
+     "do": "1. Your child bends each thing gently in the middle. 2. Hold it bent while you both count to five. 3. Let go and look. 4. Tick the right box. 5. Do each one twice. A toothpick that breaks is finished, so tick 'Broke'. 6. For the paper clip, open the outside loop a little and let go. Then open it a lot and let go.",
      "say": "Bend it gently. One, two, three, four, five. Let go. Did it spring back, stay bent or break?",
      "kid": "Bend it gently. Count to five. Let go. What did it do? Tick a box.",
      "ask": [
       {
-       "q": "Did any thing do something different from your guess? What did it do?",
+       "q": "Which thing did something you did not guess? What did it do?",
        "good": [
         "The broom stick sprang back. I thought it would break.",
         "The foil stayed bent even after a little bend."
        ]
       }
      ],
-     "parent": "The ruler, broom stick and eraser spring back. The foil stays bent. The toothpick bends a little, then snaps. For the paper clip, first open the outside loop a little and let go. It springs back. Then open it a lot. It stays bent."
+     "parent": "The ruler, broom stick and eraser spring back. The foil stays bent. The toothpick bends a little, then snaps. The paper clip springs back from a small bend and stays bent after a big one."
     },
     {
      "id": "s3",
      "mins": 3,
      "context": "In this step of the bend test, you count your results.",
      "do": "1. Count how many things sprang back, stayed bent and broke. 2. Your child writes the three numbers. 3. Ask the questions below.",
-     "say": "How many sprang back? How many stayed bent? How many broke? Which of these changes can be undone?",
-     "kid": "Count the ticks. How many sprang back? Stayed bent? Broke?",
+     "say": "Let's count the ticks. How many sprang back? How many stayed bent? How many broke?",
+     "kid": "Count the ticks in each column. Write the three numbers.",
      "ask": [
       {
        "q": "Which changes can be undone?",
@@ -684,9 +684,9 @@
      "id": "s4",
      "mins": 3,
      "context": "This is the last step of the bend test. You say what you found.",
-     "do": "1. Ask your child what was different about the two bends of the paper clip, and why they think so. 2. Then read the card 'Why some things spring back and others stay bent'.",
-     "say": "The same paper clip sprang back once and stayed bent once. What was different? Why do you think that happened?",
-     "kid": "The paper clip sprang back once, and stayed bent once. What was different?",
+     "do": "1. Ask your child to show you both bends of the paper clip, and to say what was different. 2. Then read the card 'Why some things spring back and others stay bent'.",
+     "say": "The same paper clip sprang back once and stayed bent once. What was different about the two bends?",
+     "kid": "Show your grown-up how you bent the paper clip the first time. Then show how you bent it the second time.",
      "ask": [
       {
        "q": "Why did the paper clip stay bent the second time?",
@@ -707,7 +707,7 @@
    "title": "Crumple and Flatten: can paper go back?",
    "mins": 5,
    "days": 1,
-   "context": "In this activity you crumple a sheet of paper into a ball, then open it out and press it flat. You look closely to see if it is the same as before.",
+   "context": "In this activity you crumple a sheet of paper into a ball, then open it out and press it flat. You look closely to see if it is the same as before. You will find out if crumpling paper can be fully undone.",
    "materials": [
     {
      "item": "two sheets of paper of the same kind, such as old notebook pages",
@@ -721,7 +721,7 @@
      "what": "Crumple one sheet. Flatten it again. Compare it with a sheet you did not crumple."
     }
    ],
-   "record": "Draw the flattened sheet. Draw the lines you can see on it.",
+   "record": "Count the crease lines you can see on the flattened sheet. Then tell your grown-up if the change was undone, and why. You can also take a photo of the two sheets side by side.",
    "setup": [
     {
      "art": "Two hands crumpling a sheet of notebook paper into a tight ball.",
@@ -736,9 +736,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Give your child one sheet of paper. 2. Ask them to crumple it into the tightest ball they can.",
-     "say": "Crumple this into a tight ball. Squash it as hard as you can. What has changed about the paper?",
-     "kid": "Crumple the paper into a tight ball. Squash it hard. What changed?",
+     "do": "1. Give your child one sheet of paper. 2. Ask them to crumple it into the tightest ball they can. 3. Ask the question below.",
+     "say": "Crumple this into a tight ball. Squash it as hard as you can.",
+     "kid": "Crumple the paper into a tight ball. Squash it hard. Look at it and feel it.",
      "ask": [
       {
        "q": "What has changed?",
@@ -753,9 +753,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Your child opens the ball and presses it flat with both hands. 2. Put it beside a sheet that was not crumpled. 3. Ask the questions below.",
-     "say": "Now open it and make it flat again. Put it next to a sheet that was not crumpled. Is it the same as before? What do you notice?",
-     "kid": "Open the ball. Press it flat. Put it next to a sheet you did not crumple. Is it the same?",
+     "do": "1. Your child opens the ball and presses it flat with both hands. 2. Put it beside a sheet that was not crumpled. 3. Ask your child to count the biggest crease lines, up to ten. 4. Ask the questions below.",
+     "say": "Now open it and make it flat again. Put it next to a sheet that was not crumpled. Look closely at the lines.",
+     "kid": "Open the ball. Press it flat. Put it next to a sheet you did not crumple. Count the biggest lines on it.",
      "ask": [
       {
        "q": "Did the change get undone?",
@@ -775,7 +775,7 @@
    "title": "Squeeze It: sponge, bread and a ball of foil",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you squeeze three soft things in your fist: a kitchen sponge, a slice of bread and a loose ball of foil. Then you open your hand and watch what each one does.",
+   "context": "In this activity you squeeze three soft things in your fist: a kitchen sponge, a slice of bread and a loose ball of foil. Then you open your hand and watch what each one does. You will find out which soft things spring back and which stay squashed.",
    "materials": [
     {
      "item": "a kitchen sponge",
@@ -797,7 +797,7 @@
      "what": "Squeeze a sponge, a slice of bread and a foil ball. Watch which ones spring back."
     }
    ],
-   "record": "Draw each one before and after you squeezed it.",
+   "record": "Put the things that sprang back on one side of the plate and the things that stayed squashed on the other side. Take a photo.",
    "setup": [
     {
      "art": "A kitchen sponge, a slice of bread and a loose ball of foil on a steel plate.",
@@ -812,12 +812,12 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Put the three things on a plate. 2. Ask your child to guess.",
-     "say": "You are going to squeeze each of these as hard as you can. Which ones will spring back to their shape? Why do you think so?",
-     "kid": "Which ones will spring back after a squeeze? Why?",
+     "do": "1. Put the three things on a plate. 2. Ask the question below.",
+     "say": "You are going to squeeze each of these as hard as you can. Then you will open your hand and watch.",
+     "kid": "Look at the sponge, the bread and the foil ball. Feel how soft each one is.",
      "ask": [
       {
-       "q": "Which will spring back?",
+       "q": "Which ones will spring back after a squeeze? Why do you think so?",
        "good": [
         "The sponge, because it is springy.",
         "The bread, because it is soft too."
@@ -829,9 +829,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child squeezes each one hard in a fist for a count of five. 2. Opens the hand. 3. Watches for a few seconds.",
-     "say": "Squeeze the sponge. Now open your hand. Now the bread. Now the foil. What did each one do?",
-     "kid": "Squeeze each one hard. Count to five. Open your hand. Watch.",
+     "do": "1. Your child squeezes each one hard in a fist for a count of five. 2. Opens the hand. 3. Watches for a few seconds. 4. Puts the ones that sprang back on one side of the plate, and the ones that stayed squashed on the other.",
+     "say": "Squeeze the sponge. Now open your hand and watch. Now the bread. Now the foil.",
+     "kid": "Squeeze each one hard. Count to five. Open your hand and watch. Then sort them on the plate.",
      "ask": [
       {
        "q": "What did each one do?",
@@ -847,9 +847,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Ask the questions below.",
-     "say": "The sponge and the bread both looked soft and full of holes. Why do you think only one sprang back?",
-     "kid": "The sponge and the bread both have holes. Why did only one spring back?",
+     "do": "1. Your child tries to pull the squashed bread back into a slice. 2. Ask the questions below.",
+     "say": "Try to pull the squashed bread back into a slice. The sponge and the bread both have holes. Why do you think only the sponge sprang back?",
+     "kid": "Pull the squashed bread gently. Look at the holes in the bread and in the sponge.",
      "ask": [
       {
        "q": "Can we undo the squashed bread?",
@@ -868,7 +868,7 @@
    "title": "Batter to Dosa: watch breakfast change for good",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you watch a grown-up make a dosa, an uttapam or a cheela. You see runny batter turn into a solid dosa on a hot tawa, and ask whether it can go back.",
+   "context": "In this activity you watch a grown-up make a dosa, an uttapam or a cheela. You see runny batter turn into a solid dosa on a hot tawa. You will find out if the dosa can go back to batter.",
    "materials": [
     {
      "item": "dosa batter, or any batter your family uses (besan for cheela, or rava for uttapam)",
@@ -891,7 +891,7 @@
      "what": "Watch batter turn into a dosa. Put a spoon of batter in the fridge and compare it with the dosa."
     }
    ],
-   "record": "Draw the batter, then the dosa. Draw an arrow from the batter to the dosa. Then draw an arrow going back from the dosa to the batter, and cross it out.",
+   "record": "Take a photo of a spoon of batter next to a piece of dosa. Then tell your grown-up which way the change goes, and why the dosa cannot go back. You can draw the batter, the dosa and an arrow instead.",
    "setup": [
     {
      "art": "A ladle pouring white dosa batter in a circle on a hot black tawa.",
@@ -907,11 +907,11 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Before cooking, put one spoon of batter in a katori. 2. Put it in the fridge. 3. Ask the question below.",
-     "say": "This batter is runny. When it goes on the hot tawa, what will happen? And will cold make this spoonful change too? Why do you think so?",
-     "kid": "Feel how runny the batter is. What will the hot tawa do to it?",
+     "say": "This batter is runny. I am putting one spoon in the fridge, to see later what cold does to it.",
+     "kid": "Dip a finger in the batter. Feel how runny it is.",
      "ask": [
       {
-       "q": "What will the hot tawa do?",
+       "q": "What will the hot tawa do to the batter? Why do you think so?",
        "good": [
         "It will make it hard and crispy.",
         "It will cook it into a dosa."
@@ -924,8 +924,8 @@
      "mins": 5,
      "adult": true,
      "do": "1. A grown-up pours and spreads the batter on the hot tawa. 2. Your child watches from an arm's length away. 3. Point out the bubbles, the edges going brown and the top going dry.",
-     "say": "Watch the edges. Watch the top. What is happening to the runny batter?",
-     "kid": "Watch from far back. What is the batter doing on the hot tawa?",
+     "say": "Watch the edges of the batter. Watch the top.",
+     "kid": "Watch from far back. Look at the bubbles and the colour.",
      "ask": [
       {
        "q": "What changed?",
@@ -941,9 +941,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Take the batter out of the fridge. 2. Put it beside a cooled piece of dosa. 3. Ask the questions below.",
-     "say": "The cold batter is still runny batter. Can we turn this dosa back into batter? What could we try?",
-     "kid": "Is the cold batter still batter? Can the dosa turn back into batter?",
+     "do": "1. Take the batter out of the fridge. 2. Put it beside a cooled piece of dosa. 3. Your child mashes a small piece of the dosa with a spoon of water. 4. Ask the question below.",
+     "say": "The cold batter is still runny batter. Now let's try to turn the dosa back into batter. Mash a bit of it with water.",
+     "kid": "Touch the cold batter. Then mash a bit of dosa with water and feel it.",
      "ask": [
       {
        "q": "Can the dosa become batter again?",
@@ -962,7 +962,7 @@
    "title": "The Home Hunt: can it go back?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you walk around your home and look for things that have been squashed, bent, twisted, stretched, heated or cooled. For each one, you decide if the change can be undone.",
+   "context": "In this activity you walk around your home and look for things that have been squashed, bent, twisted, stretched, heated or cooled. For each one, you decide if the change can be undone. You will find out what the changes that cannot go back have in common.",
    "materials": [
     {
      "item": "paper and a pencil",
@@ -976,7 +976,7 @@
      "what": "Find six changes at home. Sort them into 'can go back' and 'cannot go back'."
     }
    ],
-   "record": "Make two columns: 'Can go back' and 'Cannot go back'. Draw each thing you find in the right column.",
+   "record": "Make two columns: 'Can go back' and 'Cannot go back'. Write each thing you find in the right column, or put the thing itself there if it is small.",
    "setup": [
     {
      "art": "A sheet of paper with two columns headed 'Can go back' and 'Cannot go back', with small drawings in each.",
@@ -991,16 +991,16 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Draw two columns: 'Can go back' and 'Cannot go back'. 2. Give one example of each.",
+     "do": "1. Fold a sheet of paper in half. Write 'Can go back' on one side and 'Cannot go back' on the other. 2. Give one example of each.",
      "say": "Ice cubes can melt and freeze again, so they go in 'can go back'. A burnt matchstick can never be a new match again, so it goes in 'cannot go back'.",
      "kid": "Make two columns. 'Can go back' and 'Cannot go back'."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Walk around the home together. 2. Look in the kitchen, on the clothes line and in the cupboard. 3. Your child draws each change in a column.",
+     "do": "1. Walk around the home together. 2. Look in the kitchen, on the clothes line and in the cupboard. 3. Your child writes each change in a column. A small thing can be put on the paper instead.",
      "say": "Look around. What has been squashed, bent, twisted, heated or cooled? Can that change be undone?",
-     "kid": "Find six changes at home. Can each one go back? Draw it in the right column.",
+     "kid": "Find six changes at home. Can each one go back? Write it in the right column, or put the thing there.",
      "ask": [
       {
        "q": "What did you find?",
@@ -1017,8 +1017,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Look at the two columns together. 2. Ask the questions below.",
-     "say": "Look at the 'cannot go back' column. How many of these were heated?",
-     "kid": "Look at 'cannot go back'. How many were heated?",
+     "say": "Let's look at the 'cannot go back' column together.",
+     "kid": "Count the things in 'cannot go back'. Point to the ones that were heated.",
      "ask": [
       {
        "q": "What do many 'cannot go back' things have in common?",
@@ -1039,7 +1039,7 @@
    "title": "Undo or Not? a card game",
    "mins": 15,
    "players": "2 to 4 players, or 1 player sorting alone",
-   "context": "This is a quick card game. Each card shows a change. You decide if the change can be undone or not, and hold up the right sign.",
+   "context": "This is a quick card game. Each card shows a change. You decide if the change can be undone or not, and hold up the right sign. You will also find out what most changes that cannot go back have in common.",
    "printables": [
     {
      "kind": "cards",
@@ -1144,13 +1144,13 @@
      "mins": 2,
      "do": "1. Cut out the cards together. 2. Read the rules out loud.",
      "say": "Each card is a change. If the change can be undone, hold up 'Can go back'. If it cannot, hold up 'Cannot go back'.",
-     "kid": "Each card is a change. Can it go back? Hold up your sign."
+     "kid": "Help to cut out the cards. Then pick up your two signs."
     },
     {
      "id": "s2",
      "mins": 11,
-     "do": "1. Take turns reading a card. 2. Everyone holds up a sign. 3. Read the back and give points.",
-     "say": "Maize kernels popped into popcorn. Can it go back? Hold up your sign. Why?",
+     "do": "1. Start with the popcorn card, then take turns reading cards. 2. Everyone holds up a sign. 3. Read the back and give points.",
+     "say": "Maize kernels popped into popcorn. Can it go back? Hold up your sign.",
      "kid": "Read a card. Hold up a sign. Check the back.",
      "ask": [
       {
@@ -1176,9 +1176,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Count the points. 2. Ask the question below.",
-     "say": "Look at the 'Cannot go back' cards. What do most of them have in common?",
-     "kid": "Look at the 'Cannot go back' cards. What is the same about them?",
+     "do": "1. Count the points. 2. Put all the 'Cannot go back' cards in a row. 3. Ask the question below.",
+     "say": "Let's look at all the 'Cannot go back' cards together.",
+     "kid": "Put the 'Cannot go back' cards in a row. Read what is on each one.",
      "ask": [
       {
        "q": "What do most of them have in common?",
@@ -1240,8 +1240,8 @@
    "rules": [
     "Cut out the 8 call cards. The caller shuffles them.",
     "Players stand in a space with room to move.",
-    "The caller turns over a card and shouts the word on the front. The players act it out, as the back says.",
-    "When the caller shouts 'Cooked!', every player freezes in their shape. Nothing can undo it for that round.",
+    "The caller turns over a card and shouts the word on the front and reads the back out loud. The players act it out.",
+    "When the caller shouts 'Cooked!', every player freezes in their shape. The caller counts slowly to ten, and nothing can undo it until then. That ends the round.",
     "A player who moves after 'Cooked!' becomes the next caller.",
     "Shuffle and play again."
    ],
@@ -1273,9 +1273,9 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "1. Ask the question below.",
-     "say": "After 'Freezer!', you could go soft again. After 'Cooked!', you could not move. Why is that?",
-     "kid": "Why could you undo 'Freezer!' but not 'Cooked!'?",
+     "do": "1. Call 'Freezer!', 'Warm hands!' and 'Cooked!' once more. 2. Ask the question below.",
+     "say": "Do it once more. After 'Freezer!', you can go soft again. After 'Cooked!', you cannot move.",
+     "kid": "Act out 'Freezer!' and 'Warm hands!' again. Then act out 'Cooked!'.",
      "ask": [
       {
        "q": "Why is 'Cooked!' different?",
@@ -1295,7 +1295,7 @@
    "title": "My Change Diary: three days of changes",
    "days": 3,
    "mins": 21,
-   "context": "In this project you keep a small diary for three days. Each day, you find one change you can undo and one you cannot, and draw them.",
+   "context": "In this project you keep a small diary for three days. Each day, you find one change you can undo and one you cannot, and write them down. You will find out how many changes around you can go back, and how many cannot.",
    "materials": [
     {
      "item": "three sheets of paper folded into a little book, or three pages of a notebook",
@@ -1310,7 +1310,7 @@
     {
      "day": 1,
      "mins": 7,
-     "what": "Find and draw one change you can undo, and one you cannot. Write one word for each."
+     "what": "Find one change you can undo, and one you cannot. Write the name of each, and one word to say why."
     },
     {
      "day": 2,
@@ -1323,7 +1323,7 @@
      "what": "Find two new changes. Then read the whole diary aloud to someone at home."
     }
    ],
-   "record": "Each page has two boxes: 'I can undo it' and 'I cannot undo it'. Draw a change in each box and write one word under it.",
+   "record": "Each page has two boxes: 'I can undo it' and 'I cannot undo it'. In each box, write the name of a change and one word to say why. On one day, you can draw the change or take a photo instead.",
    "setup": [
     {
      "art": "A small homemade booklet with three pages, each split into two boxes.",
@@ -1331,22 +1331,22 @@
     },
     {
      "art": "A page with a drawing of an ice cube in one box and a dosa in the other.",
-     "caption": "2. Each day, draw one change you can undo and one you cannot."
+     "caption": "2. Each day, write one change you can undo and one you cannot."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds and draws today's two changes.",
+     "do": "1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds today's two changes and writes each in its box.",
      "say": "Today, find one change you can undo and one you cannot. Look in the kitchen first.",
-     "kid": "Find one change you can undo. Find one you cannot. Draw them."
+     "kid": "Find one change you can undo. Find one you cannot. Write each in its box."
     },
     {
      "id": "s2",
      "mins": 7,
      "wait": "The next day",
-     "do": "1. Your child finds two new changes. 2. Ask for one made by cooling.",
+     "do": "1. Your child finds two new changes and writes them, or takes a photo of each. 2. Ask for one made by cooling.",
      "say": "Can you find a change made by cooling today? Can it be undone?",
      "kid": "Find two new changes. Can you find one made by cooling?",
      "ask": [
@@ -1367,7 +1367,7 @@
      "do": "1. Your child finds two more changes. 2. Then reads the whole diary aloud to someone at home.",
      "say": "Read me your diary. Which of your changes could be undone, and which could not? How do you know?",
      "kid": "Find two more changes. Then read your diary to someone at home.",
-     "parent": "Praise the reasons more than the drawings. 'I can't undo it because the heat made it a new thing' is a strong reason."
+     "parent": "Praise the reasons more than the neat writing. 'I can't undo it because the heat made it a new thing' is a strong reason."
     }
    ]
   }
@@ -1377,7 +1377,7 @@
    "id": "c1",
    "title": "The Folded Paper Bridge: how many coins can it hold?",
    "mins": 20,
-   "context": "This is a design challenge. A flat sheet of paper laid across two tumblers sags when you put a coin on it. You change its shape by bending and folding, to make it hold as many coins as you can.",
+   "context": "This is a design challenge. A flat sheet of paper laid across two tumblers sags when you put a coin on it. You change its shape by bending and folding, to make it hold as many coins as you can. You will find out whether folding makes paper stronger.",
    "problem": "Make one sheet of paper hold as many coins as you can between two steel tumblers. You may only bend and fold the paper. Bending and folding change only the shape of the paper. A new shape can make a thing stiffer, and that is what you will test.",
    "constraints": [
     "Use one sheet of paper the size of a notebook page.",
@@ -1414,8 +1414,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Lay a flat sheet across the two tumblers. 2. Put one coin in the middle. 3. Ask the question below.",
-     "say": "Look, the flat paper sags with one coin. We cannot use glue or tape. How could bending or folding make it stronger?",
-     "kid": "The flat paper sags with one coin. How could folding make it stronger?",
+     "say": "Look, the flat paper sags with one coin. We cannot use glue or tape. We can only bend and fold.",
+     "kid": "Look at how the flat paper sags with one coin.",
      "ask": [
       {
        "q": "How could you make it stronger?",
@@ -1430,7 +1430,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Your child folds a new sheet in their own way. 2. Lays it across. 3. Adds coins one at a time and counts until it sags. 4. Tries a second design.",
+     "do": "1. Your child folds a new sheet in their own way. 2. Lays it across. 3. Adds coins one at a time and counts until it sags. 4. Writes down how many coins it held. 5. Tries a second design.",
      "say": "Add coins one at a time. Count them. Stop when the paper sags down.",
      "kid": "Fold your paper. Lay it across. Add coins one by one. Count.",
      "parent": "A sheet folded like a hand fan, with folds about as wide as a finger, usually holds many coins. Let your child find this out."
@@ -1438,9 +1438,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Compare the counts. 2. Ask the questions below.",
-     "say": "It was the same paper every time. Nothing was added. Why did folding make it stronger? Can the folding be undone?",
-     "kid": "It was the same paper. Why did folding help? Can you unfold it?",
+     "do": "1. Compare the counts. 2. Your child unfolds the best bridge. 3. Ask the questions below.",
+     "say": "It was the same paper every time. Nothing was added. Look at which bridge held the most coins.",
+     "kid": "Compare how many coins each bridge held. Then unfold your best bridge.",
      "ask": [
       {
        "q": "Can the folding be undone?",

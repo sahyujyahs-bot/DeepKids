@@ -184,12 +184,12 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns reading a card and putting it on a half. 2. Turn it over to check. 3. Talk about any surprises.  
   *Parent says:* Read your card. One element, or two or more? Why do you think so?  
-  *Child mode:* Read a card. Is it one element, or two or more? Say why.
+  *Child mode:* Read the top card. Put it on a half. Say why.
   - Note: Children are often surprised that water, salt and steel are not elements, and that a diamond is. Ask them how they decided.
 - **s3 (2 min)**  
-  *Parent does:* Look at the cards left on the mat, then ask the question below.  
-  *Parent says:* These cards stayed on the mat because someone guessed wrong. What is the right answer for each one? Why do you think most things are made of two or more elements?  
-  *Child mode:* Look at the cards left on the mat. What is the right answer for each one?
+  *Parent does:* Ask which card surprised them most, then ask the question below.  
+  *Parent says:* Which card surprised you most? Why?  
+  *Child mode:* Pick the card that surprised you most. Tell your grown-up why.
   - Check: A steel tumbler is… → **Iron mixed with other elements**
 ### g2 · Where Do I Live? An element memory game (15 min)
 - **rules:** Cut out the 16 cards.; Mix the cards and lay them face down in four rows of four.; On your turn, turn over two cards. If one is an element and the other is a place where that element is found, keep the pair.; When you keep a pair, say one more place where that element is found.; If the two cards do not match, turn them face down again.; When all the pairs are found, the player with the most pairs wins. If players tie, they all win.
@@ -205,8 +205,8 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   - Note: More places: aluminium in pressure cookers and window frames, copper in old vessels, iron in gates and kadais, carbon in charcoal and soot, oxygen dissolved in water, which fish take in through their gills.
 - **s3 (2 min)**  
   *Parent does:* Ask the question below.  
-  *Parent says:* Which element did you find most places for?  
-  *Child mode:* Which element did you find the most places for?
+  *Parent says:* Which element did you find the most places for? Tell me them all.  
+  *Child mode:* Pick one element. Name every place you found it.
   - Check: A balloon that floats up is filled with which element? → **Helium**
 
 ## Experiments
@@ -216,18 +216,18 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - **predict:** Will the black go away in the bowl with no foil, in the bowl with foil, in both or in neither? Why do you think so?
 - **fair test:** We use the same silver thing in both bowls, the same soda and salt, and the same amount of water from the same pan, poured hot just before the silver goes in. The silver stays 5 minutes in each. Only one thing changes: foil or no foil. So any difference comes from the foil.
 - **safety:** Only a grown-up pours the hot water and lifts the silver out with a spoon. Keep faces back from the steam. Do not use silver with stones, pearls or a dark design that was made dark on purpose, called oxidised silver, because this method takes that dark finish off too.
-- **record:** Draw the silver three times: before the test, after the bowl with no foil, and after the bowl with foil. Colour each drawing the colour you saw.
+- **record:** Take a photo of the silver three times: before the test, after the bowl with no foil, and after the bowl with foil. Or draw it each time, and colour each drawing the colour you saw.
 - **results table:** Bowl | My guess | What colour was the silver after 5 minutes? | Any smell?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the dark silver on a steel plate. 2. Your child looks at it closely and touches it. 3. Ask what the dark colour might be.  
   *Parent says:* This was bright silver once. Now it is dark. What do you think the dark part is? Where did it come from?  
-  *Child mode:* Look at the dark silver. It was shiny once. What is the dark part?
+  *Child mode:* Look closely at the dark silver and touch it. It was shiny once.
   - Ask: What do you think the dark part is? (good: Dirt.; The silver has gone bad.; Something from the air stuck to it.)
   - Note: Every answer is fine for now. Many children think it is dirt. Washing with soap will not take tarnish off, which is a clue that it is not ordinary dirt.
 - **s2 (3 min)**  
-  *Parent does:* 1. Show both bowls, one lined with foil. 2. Ask for a guess and a reason. 3. Write the guesses in the table.  
-  *Parent says:* Both bowls will get hot water with soda. One has foil in it. In which bowl will the dark go away? Why do you think so?  
-  *Child mode:* Both bowls get hot soda water. One has foil. In which bowl will the dark go away? Why?
+  *Parent does:* 1. Show the two empty bowls and the foil. 2. Ask for a guess and a reason. 3. Write the guesses in the table.  
+  *Parent says:* Both bowls will get hot water with soda. One will have foil in it. In which bowl will the dark go away?  
+  *Child mode:* Point to the bowl where you think the dark will go away.
   - Ask: Why do you think so? (good: Hot water cleans things, so both.; The foil is shiny, so it will make the silver shiny.; Soda cleans things, so both bowls.)
   - Note: Most children guess both bowls, because hot soda water sounds like a cleaner. That is a good, sensible guess. The test will show if it is right.
 - **s3 (3 min) · grown-up needed**  
@@ -236,9 +236,9 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   *Child mode:* Press the foil into one bowl. Add soda and salt to both bowls.
   - Note: Keep the lid on the pan, so the second cup of water is as hot as the first. Water that has just boiled works best. Hot tap water is not hot enough.
 - **s4 (5 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up pours 1 cup of hot water into the bowl with no foil, and lowers the silver in with a spoon. 2. Start a 5-minute timer. 3. Your child watches and draws the silver as it is now.  
-  *Parent says:* Watch the silver closely. Is the dark going away? Draw it while we wait.  
-  *Child mode:* Watch the silver in the bowl with no foil. Draw it. Is it changing?
+  *Parent does:* 1. A grown-up pours 1 cup of hot water into the bowl with no foil, and lowers the silver in with a spoon. 2. Start a 5-minute timer. 3. Your child watches and tells you the colour of the silver now. Take a photo for later.  
+  *Parent says:* Watch the silver closely. Is the dark going away? What colour is it now?  
+  *Child mode:* Watch the silver in the bowl with no foil. Tell your grown-up its colour.
   - Note: The fizz is gas let out by the soda in the hot water, and it settles quickly. Usually very little happens in this bowl. The silver stays dark. That is the result we need, so let your child see it clearly.
 - **s5 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pours 1 cup of hot water into the foil bowl. 2. A grown-up moves the silver into this bowl with a spoon, so that it lies on the foil. 3. Start another 5-minute timer. 4. Watch, and smell gently from a little way back.  
@@ -247,8 +247,8 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   - Note: The dark usually fades within a few minutes, starting where the silver touches the foil. A faint smell of boiled eggs is normal. If the silver is very dark, turn it over halfway, or leave it a few more minutes.
 - **s6 (5 min)**  
   *Parent does:* 1. A grown-up lifts the silver out and rinses it under the tap. 2. Dry it with a cloth. 3. Your child says what they think, what they saw and why.  
-  *Parent says:* What happened? Which bowl took the dark away? Why do you think the foil mattered?  
-  *Child mode:* Which bowl made the silver shine? What did you see? Why do you think that happened?
+  *Parent says:* What happened in each bowl? Why do you think the foil mattered?  
+  *Child mode:* Tell your grown-up what you saw in each bowl.
   - Ask: The soda water was the same in both bowls. So what made the difference? (good: The foil.; It had to touch the foil.)
   - Ask: Where do you think the dark part went? (good: To the foil.; Into the water.; Into the smell.)
   - Note: This is the main idea of the unit. Tell your child now: the dark layer was silver joined with sulfur. The foil, which is aluminium, took the sulfur. The same silver atoms stayed on the anklet. Scrubbing rubs a little silver off with the black. The foil bowl keeps all the silver.
@@ -258,12 +258,12 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - **question:** A brass lamp or copper vessel has gone dull and brown. Will rubbing with tamarind pulp or with plain water bring back the shine?
 - **predict:** Which half will shine more: the tamarind half, the water half, or will they be the same? Why do you think so?
 - **fair test:** We use one dull brass or copper thing, so both halves are the same metal. We rub both halves 20 times with the same cloth, pushing just as hard each time. Only one thing changes: tamarind or plain water.
-- **record:** Draw the brass thing with its two halves. Colour the shiny half and the dull half.
+- **record:** Take a photo of the two halves side by side. Or draw the brass thing, and colour the shiny half and the dull half.
 - **results table:** Half | My guess | Shiny, a little shiny or dull?
 - **s1 (5 min)**  
   *Parent does:* 1. Put the tamarind in warm water to soak. 2. Put the brass thing on newspaper and mark two halves with a paper strip. 3. Ask for a guess and a reason.  
-  *Parent says:* This brass was shiny once. One half gets tamarind. The other gets plain water. Which will shine? Why do you think so?  
-  *Child mode:* One half gets tamarind. One half gets water. Which will shine? Why?
+  *Parent says:* This brass was shiny once. One half gets tamarind. The other gets plain water. Which half will shine?  
+  *Child mode:* Point to the half you think will shine.
   - Ask: Why do you think so? (good: Tamarind is sour, and sour things clean.; Water washes things, so both.; Rubbing makes things shine, so both.)
 - **s2 (7 min)**  
   *Parent does:* 1. Squeeze the soaked tamarind into a soft pulp. 2. Your child rubs one half 20 times with tamarind on a cloth. 3. They rub the other half 20 times with a cloth dipped in water.  
@@ -272,13 +272,13 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   - Note: Wash hands afterwards. If there is a cut on the hand, tamarind may sting.
 - **s3 (4 min)**  
   *Parent does:* 1. Rinse the whole thing under the tap. 2. Dry it with a clean cloth. 3. Hold it in the light and compare the halves.  
-  *Parent says:* Look at both halves in the light. Which one shines? What colour is it now?  
-  *Child mode:* Rinse it. Dry it. Which half shines?
+  *Parent says:* Look at both halves in the light. What colour is each one now?  
+  *Child mode:* Point to the half that shines more.
   - Note: The tamarind half usually turns bright, often a pinkish gold on copper and a yellow gold on brass. The water half stays dull. If neither half changes, the brass may have a clear coating (lacquer) on it. Try another brass or copper thing.
 - **s4 (4 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw and why. Then compare it with the Foil Bowl experiment.  
-  *Parent says:* Why did tamarind work but not water? In the Foil Bowl experiment, the silver stayed and only the sulfur left. Here, where did the dull layer go?  
-  *Child mode:* Why did tamarind work? Where did the dull layer go?
+  *Parent does:* Ask your child to say what they saw and why. Then compare it with the Foil Bowl experiment.  
+  *Parent says:* Tamarind worked and water did not. Why do you think so? Remember the Foil Bowl, where the silver stayed and only the sulfur left.  
+  *Child mode:* Tell your grown-up what you saw on each half.
   - Ask: Where did the dull layer go? (good: Into the tamarind.; It washed off.; The sour juice took it away.)
   - Note: Here the dull layer is washed away into the tamarind water, so a very thin bit of metal goes with it. In the foil bowl, the silver stayed on the anklet. These are two different ways to get a shine back.
   - Check: What took the dull layer off the brass? → **The sour tamarind**
@@ -292,40 +292,41 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   *Child mode:* An element has just one kind of atom. Foil is the element aluminium. Find more!
 - **s2 (6 min)**  
   *Parent does:* 1. Your child collects things on a tray. 2. Give clues for the ones that are hard to find.  
-  *Parent says:* Find a pencil, something copper, and something silver or gold. Bring salt, sugar and a steel spoon too.  
-  *Child mode:* Find foil, a pencil, something copper and something silver or gold. Bring salt, sugar and a steel spoon too.
+  *Parent says:* Go and collect things from around the home. I will give you clues if you get stuck.  
+  *Child mode:* Bring back foil, a pencil, salt, sugar and a steel spoon. Find something copper, and something silver or gold.
   - Note: Mostly one element: aluminium foil, the copper bottom of a vessel or a copper wire, a silver coin or anklet, a gold ornament (22-carat gold is mostly gold, with a little copper or silver). Two or more elements: a pencil (carbon and clay in the core, and wood), salt, sugar, water, a steel spoon, a brass lamp, plastic, paper. It is fine if you cannot find everything. Do not let your child take apart any cable or plug.
 - **s3 (4 min)**  
   *Parent does:* 1. Name each thing together. 2. Your child puts it in the One element column or the Two or more column.  
-  *Parent says:* Salt is two elements joined: sodium and chlorine. A steel spoon is iron mixed with others. Which column?  
+  *Parent says:* Pick up one thing at a time. Which column does it go in? Why?  
   *Child mode:* Put each thing in a column. One element, or two or more?
   - Ask: Where does a pencil go? (good: Two or more: the core has carbon and clay, and the outside is wood.; Two or more, because it is made of different things.)
+  - Note: Salt is sodium and chlorine joined. A steel spoon is iron mixed with other elements. Tell your child these only after they choose.
 - **s4 (3 min)**  
-  *Parent does:* 1. Count each column. 2. Ask which column is longer, and why.  
-  *Parent says:* How many in each column? Which is longer? Why do you think most things are made of two or more elements?  
-  *Child mode:* Count each column. Which has more?
+  *Parent does:* 1. Count each column. 2. Ask which column has more things.  
+  *Parent says:* Let's count each column. How many things are in each?  
+  *Child mode:* Which column has more things?
   - Note: Most homes find many more things in the Two or more column. Elements are usually joined with others. Pure elements like gold, copper and aluminium are mostly things people have made pure on purpose.
   - Check: Why were more things in the Two or more column? → **Most things are elements joined together**
 ### a2 · Dot Pictures: draw an element and a mix (15 min)
-- **record:** Three circles: one of all-yellow dots, one of red and blue dot groups, one of green and purple dots in rows, each labelled.
+- **record:** Three circles, drawn or made from small things: one of all-yellow dots, one of red and blue dot groups, one of green and purple dots in rows, each labelled.
 - **s1 (2 min)**  
-  *Parent does:* 1. Draw three big circles. 2. Label them gold, water and salt.  
+  *Parent does:* 1. Draw three big circles, or set out three plates. 2. Label them gold, water and salt.  
   *Parent says:* These circles are like a magic magnifying glass. They show the atoms inside each thing.  
-  *Child mode:* Draw three big circles. Write gold, water and salt.
+  *Child mode:* Make three big circles. Write gold, water and salt.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child fills the gold circle with yellow dots only, packed close.  
-  *Parent says:* Gold is an element. It has just one kind of atom. So what colour dots go in the gold circle?  
-  *Child mode:* Gold has one kind of atom. Use only yellow dots. Pack them close.
+  *Parent does:* 1. Your child fills the gold circle with yellow dots only, or one kind of small thing, packed close.  
+  *Parent says:* Gold is an element. It has just one kind of atom. So how many colours of dots go in the gold circle?  
+  *Child mode:* Gold has one kind of atom. Use only one colour. Pack the dots close.
   - Note: Packed close shows that gold is a solid. In a real gold ring there are far more atoms than anyone could ever draw.
 - **s3 (5 min)**  
-  *Parent does:* 1. Water: draw small groups of one red dot with two blue dots stuck to it. 2. Salt: draw green and purple dots taking turns in rows.  
+  *Parent does:* 1. Water: make small groups of one red dot with two blue dots stuck to it. 2. Salt: make green and purple dots taking turns in rows. Beads or lentils work as dots too.  
   *Parent says:* Water is oxygen and hydrogen joined. Use red for oxygen and blue for hydrogen. Salt is sodium and chlorine, taking turns in rows.  
   *Child mode:* Water: one red dot and two blue dots, stuck together. Salt: green and purple dots, taking turns.
   - Note: In water, each group of three is one tiny bit of water. In salt, the two kinds of atoms sit in a neat grid, which is why salt grains have flat sides.
 - **s4 (4 min)**  
-  *Parent does:* Ask the questions below.  
-  *Parent says:* Which circle has only one colour? That one is the element. How are the other two different?  
-  *Child mode:* Which circle has one colour? That is the element.
+  *Parent does:* Ask the question below.  
+  *Parent says:* Look at your three circles. How many colours are in each one?  
+  *Child mode:* Count the colours in each circle.
   - Ask: Which circle shows an element? (good: Gold.; The one with only yellow dots.)
 ### a3 · The Pencil Mystery: is there lead in a pencil? (12 min)
 - **problem:** People call the black part of a pencil 'lead', as if it were the metal lead. But it is not lead. It is graphite, which is a form of the element carbon. Look at what a pencil leaves on paper, and you will see why people long ago thought it was a metal.
@@ -342,35 +343,35 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   - Note: Graphite feels slippery because it is made of thin flat layers of carbon atoms that slide over each other.
 - **s3 (5 min)**  
   *Parent does:* Tell your child how pencil lead got its name: people long ago thought the black stuff was the metal lead. Then ask the question below.  
-  *Parent says:* People once called this black stuff lead. A chemist tested it and found it was carbon. So why do we still say pencil lead?  
-  *Child mode:* It is not lead. It is carbon. Why do we still call it lead?
+  *Parent says:* People once thought this black stuff was the metal lead. A chemist later tested it and found it was carbon.  
+  *Child mode:* Listen. Then tell your grown-up: is there real lead in your pencil?
   - Ask: Why do we still say pencil lead? (good: Because people called it that long ago.; The old name stayed.)
 ### a4 · The Ornament Survey: which ones go dark? (15 min)
 - **record:** The survey sheet with tally marks, and one sentence: what goes dark, and what stays shiny.
 - **s1 (8 min)**  
   *Parent does:* 1. Your child asks two or three grown-ups to show an old ornament. 2. They ask how old it is, and if it has gone dark. 3. They make a tally mark.  
   *Parent says:* Ask: What is your oldest ornament? Is it gold or silver? Has it gone dark?  
-  *Child mode:* Ask a grown-up: what is your oldest ornament? Is it gold or silver? Is it dark?
+  *Child mode:* Ask your questions. Make a tally mark for each ornament.
   - Note: Fake gold, plated jewellery and German silver are not real gold or silver. Put them in Other metal. If nobody at home has old ornaments, ask a neighbour or a relative.
 - **s2 (7 min)**  
   *Parent does:* 1. Count the tally marks. 2. Ask the questions below.  
   *Parent says:* Look at your tallies. Which kind of ornament stays shiny? Which goes dark?  
-  *Child mode:* Count your marks. Which ones stay shiny?
+  *Child mode:* Count your marks in each column.
   - Ask: What do you notice about the gold ornaments compared with the silver ones? (good: The gold ones are shiny, but many silver ones are dark.; Gold stays shiny. Silver goes dark.)
   - Check: A grandmother has worn her gold earrings for 50 years. What do they look like now? → **Still shiny**
 
 ## Projects
 ### p1 · My Element Book: one element a day (36 min, 5 days)
-- **record:** A five-page book, with a drawing, the element's name and one sentence on each page.
-- **schedule:** day 1: Gold: draw a gold ornament at home. Write one thing about gold, such as why it stays shiny. (6 min); day 2: Silver: draw something silver. Write what makes it go dark. (6 min); day 3: Iron: draw an iron tawa or gate. Write what makes it rust. (6 min); day 4: Carbon: make a pencil patch on the page. Write that diamond is carbon too. (6 min); day 5: Oxygen: draw yourself breathing. Write one fact about oxygen. Make a cover and read the whole book together. (12 min)
+- **record:** A five-page book, with the element's name, one sentence, and a drawing, photo or list on each page.
+- **schedule:** day 1: Gold: draw or take a photo of a gold ornament at home. Write one thing about gold, such as why it stays shiny. (6 min); day 2: Silver: draw something silver, or stick a note about where you saw it. Write what makes it go dark. (6 min); day 3: Iron: list three iron things you can find at home. Write what makes iron rust. (6 min); day 4: Carbon: make a pencil patch on the page. Write that diamond is carbon too. (6 min); day 5: Oxygen: breathe in and out ten times and count. Write one fact about oxygen. Make a cover and read the whole book together. (12 min)
 - **s1 (6 min)**  
-  *Parent does:* Each day, your child finds that day's element at home, draws it and writes one sentence.  
-  *Parent says:* Today's element is gold. Where do we have gold? Draw it. What is one thing you know about gold?  
-  *Child mode:* Find today's element. Draw it. Write one thing about it.
+  *Parent does:* Each day, your child finds that day's element at home, shows it on the page and writes one sentence.  
+  *Parent says:* Name today's element, for example gold. Where do we have it at home? What is one thing you know about it?  
+  *Child mode:* Find today's element. Draw it, take a photo or make a list. Write one thing about it.
 - **s2 (6 min)**  
   *Parent does:* On day 5, make a cover and read the whole book together.  
-  *Parent says:* Read me your book. Which of your five elements is a gas? Which ones are metals?  
-  *Child mode:* Make a cover. Read your book out loud. Which element is a gas? Which are metals?
+  *Parent says:* Read me your book. Which of your five elements are metals?  
+  *Child mode:* Make a cover. Read your book out loud. Point to the metals.
   - Note: The gas is oxygen. The metals are gold, silver and iron. Carbon is neither. It is a black solid that is not a metal.
   - Check: Which element in your book is a gas? → **Oxygen**
 
@@ -384,7 +385,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - **s1 (5 min)**  
   *Parent does:* 1. Talk about what makes silver go dark. 2. Your child thinks of ways to keep sulfur away.  
   *Parent says:* Silver goes dark when sulfur in the air reaches it. How could we stop the air reaching the silver?  
-  *Child mode:* Sulfur in the air makes silver dark. How can you keep the air away?
+  *Child mode:* Think of ways to keep the air away. Tell your grown-up your ideas.
 - **s2 (10 min)**  
   *Parent does:* 1. Your child builds a silver box. 2. Put one silver thing inside it. 3. Put the other in an open katori in the same room.  
   *Parent says:* Build your box. Then put one coin in it and one in the katori, side by side.  
@@ -393,7 +394,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - **s3 (5 min)**  
   *Parent does:* 1. After a week, or after a day if you used egg yolk, compare the two silver things. 2. Your child says which way worked and why.  
   *Parent says:* Which one stayed brighter? Why do you think your box worked, or did not?  
-  *Child mode:* Which one is brighter? Why?
+  *Child mode:* Look at both silver things. Point to the brighter one.
   - Check: Why does a closed box help silver stay bright? → **Less air with sulfur reaches the silver**
   - Wait: Leave it for one week, or one day if you used egg yolk.
 

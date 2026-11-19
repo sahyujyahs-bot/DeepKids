@@ -183,20 +183,20 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Read the rules out loud.  
   *Parent says:* Each card is a change. If the change can be undone, hold up 'Can go back'. If it cannot, hold up 'Cannot go back'.  
-  *Child mode:* Each card is a change. Can it go back? Hold up your sign.
+  *Child mode:* Help to cut out the cards. Then pick up your two signs.
 - **s2 (11 min)**  
-  *Parent does:* 1. Take turns reading a card. 2. Everyone holds up a sign. 3. Read the back and give points.  
-  *Parent says:* Maize kernels popped into popcorn. Can it go back? Hold up your sign. Why?  
+  *Parent does:* 1. Start with the popcorn card, then take turns reading cards. 2. Everyone holds up a sign. 3. Read the back and give points.  
+  *Parent says:* Maize kernels popped into popcorn. Can it go back? Hold up your sign.  
   *Child mode:* Read a card. Hold up a sign. Check the back.
   - Ask: Why can't popcorn go back? (good: Heat changed the kernel for good.; It burst open and became a new shape and material.)
   - Check: Which change can be undone? → **Ghee that went hard in the fridge**
 - **s3 (2 min)**  
-  *Parent does:* 1. Count the points. 2. Ask the question below.  
-  *Parent says:* Look at the 'Cannot go back' cards. What do most of them have in common?  
-  *Child mode:* Look at the 'Cannot go back' cards. What is the same about them?
+  *Parent does:* 1. Count the points. 2. Put all the 'Cannot go back' cards in a row. 3. Ask the question below.  
+  *Parent says:* Let's look at all the 'Cannot go back' cards together.  
+  *Child mode:* Put the 'Cannot go back' cards in a row. Read what is on each one.
   - Ask: What do most of them have in common? (good: They were heated.; Most of them were cooked or burnt.)
 ### g2 · Be the Dough: an action game (10 min)
-- **rules:** Cut out the 8 call cards. The caller shuffles them.; Players stand in a space with room to move.; The caller turns over a card and shouts the word on the front. The players act it out, as the back says.; When the caller shouts 'Cooked!', every player freezes in their shape. Nothing can undo it for that round.; A player who moves after 'Cooked!' becomes the next caller.; Shuffle and play again.
+- **rules:** Cut out the 8 call cards. The caller shuffles them.; Players stand in a space with room to move.; The caller turns over a card and shouts the word on the front and reads the back out loud. The players act it out.; When the caller shouts 'Cooked!', every player freezes in their shape. The caller counts slowly to ten, and nothing can undo it until then. That ends the round.; A player who moves after 'Cooked!' becomes the next caller.; Shuffle and play again.
 - **Printable cards: 8 call cards to cut out:** Squash! (back: Crouch down low and flat. You can stand up again.); Bend! (back: Bend over sideways like a ruler. You can stand straight again.); Twist! (back: Twist your body round like a wet towel. You can untwist.); Stretch! (back: Stretch up tall like a rubber band. You can shrink back.); Freezer! (back: Go stiff and still, like frozen dough. When the caller says 'Warm hands!', go soft again.); Warm hands! (back: Go soft and floppy again, like dough warming up.); Spring back! (back: Jump back to how you started.); Cooked! (back: Freeze in the shape you are in now. Cooked dough cannot go back, so stay still until the round ends.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the call cards. 2. Clear a space. 3. Read the rules.  
@@ -207,9 +207,9 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
   *Parent says:* Squash! Stretch! Freezer! Warm hands! Twist! Cooked!  
   *Child mode:* Listen to the caller. Act out each change.
 - **s3 (1 min)**  
-  *Parent does:* 1. Ask the question below.  
-  *Parent says:* After 'Freezer!', you could go soft again. After 'Cooked!', you could not move. Why is that?  
-  *Child mode:* Why could you undo 'Freezer!' but not 'Cooked!'?
+  *Parent does:* 1. Call 'Freezer!', 'Warm hands!' and 'Cooked!' once more. 2. Ask the question below.  
+  *Parent says:* Do it once more. After 'Freezer!', you can go soft again. After 'Cooked!', you cannot move.  
+  *Child mode:* Act out 'Freezer!' and 'Warm hands!' again. Then act out 'Cooked!'.
   - Ask: Why is 'Cooked!' different? (good: Freezing can be undone by warming. Cooking cannot be undone.; Heat made the dough a new material.)
 
 ## Experiments
@@ -218,12 +218,12 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 - **predict:** Look at the three pieces of dough. After we squash one, freeze one and cook one, which ones can you roll back into a soft ball? Why do you think so?
 - **fair test:** All three pieces come from the same ball of dough, and they are the same size. We try to undo each change in the same way, by rolling it in our hands. We check every piece only after it has warmed up or cooled down to the warmth of the room.
 - **safety:** Only a grown-up uses the stove and the hot tawa. Let the cooked piece cool for 2 minutes on the plate before your child touches it.
-- **record:** Fill in the results table. Draw each piece after its change, and write 'went back' or 'did not go back' under it.
+- **record:** Fill in the results table. Write 'went back' or 'did not go back' for each piece. You can also take a photo of each piece after its change.
 - **results table:** Piece | What we did to it | My guess: can it go back? | What it looked and felt like | Did it become a soft ball again?
 - **s1 (4 min)**  
-  *Parent does:* 1. Make a soft dough the size of a lemon, or use dough left from cooking. 2. Cut it into three equal pieces. 3. Ask the questions below.  
-  *Parent says:* These three pieces are the same dough. I will squash one, freeze one and cook one. Afterwards, which ones can you roll back into a soft ball? Why do you think so?  
-  *Child mode:* Look at the three pieces. One gets squashed. One gets frozen. One gets cooked. Which can go back to a soft ball? Why?
+  *Parent does:* 1. Make a soft dough the size of a lemon, or use dough left from cooking. 2. Cut it into three equal pieces and call them piece 1, piece 2 and piece 3. 3. Ask the question below.  
+  *Parent says:* These three pieces are the same dough. I will squash one, freeze one and cook one. Then we will try to roll each one back into a soft ball.  
+  *Child mode:* Look at the three pieces. One gets squashed, one gets frozen and one gets cooked. Think about what each one will be like afterwards.
   - Ask: Which pieces will go back to a soft ball? Why? (good: The squashed one, because I can roll it again.; Not the frozen one, because it will be hard like ice.; Not the cooked one, because a roti is not dough.)
   - Note: Write your child's guess for each piece in the table. Do not say which guess is right. Many children think the frozen piece will stay hard for ever.
 - **s2 (2 min)**  
@@ -233,20 +233,20 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
   - Note: If you have no freezer, use the fridge for 30 minutes. The dough will get firmer, but not as stiff.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child squashes piece 1 flat with a palm. 2. Then rolls it into a long snake. 3. Then rolls it back into a ball. 4. Ask the questions below.  
-  *Parent says:* Squash it flat. Now roll it into a long snake. Now can you make it a ball again? Is it still dough?  
-  *Child mode:* Squash piece 1 flat. Roll it into a snake. Now roll it into a ball again. Is it still dough?
+  *Parent says:* Squash piece 1 flat. Now roll it into a long snake. Now roll it back into a ball.  
+  *Child mode:* Squash piece 1 flat. Roll it into a snake. Then roll it back into a ball. Look at it and feel it.
   - Ask: Is it the same dough as before? How do you know? (good: Yes, it is still soft and sticky.; Yes, nothing was added. Only the shape changed.)
   - Note: The dough goes back to a ball every time. Let your child squash and roll it two or three times.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. Roll piece 3 into a small, thin disc. 2. Heat the tawa. 3. Cook the disc for about one minute on each side. 4. Put it on the plate to cool for 2 minutes.  
-  *Parent says:* Stand back from the stove and watch. What is happening to the dough on the tawa? What colour is it turning?  
-  *Child mode:* Stand back from the stove. Watch the dough on the tawa. What do you see?
+  *Parent says:* Stand back from the stove and watch the dough on the tawa. Look at its colour and at its top.  
+  *Child mode:* Stand back from the stove. Watch the dough on the tawa closely.
   - Ask: What is happening to the dough? (good: It is getting brown spots.; It is puffing up a little.; It is getting dry and stiff.)
   - Note: Use a medium flame. The disc stiffens, gets brown spots and may puff. It is now a small roti. Keep your child at arm's length from the stove.
 - **s5 (4 min)**  
   *Parent does:* 1. When the cooked piece is cool, your child tries to roll it into a soft ball. 2. Tear off a small bit and put it in the bowl of water for 3 minutes. 3. Squeeze the wet bit.  
-  *Parent says:* Can you roll the cooked piece into a soft ball, like the first one? Let's try water too. Does water turn it back into dough?  
-  *Child mode:* Try to roll the cooked piece into a ball. Put a bit in water. Squeeze it. Is it dough again?
+  *Parent says:* Try to roll the cooked piece into a soft ball, like the first one. Then we will put a bit in water.  
+  *Child mode:* Try to roll the cooked piece into a ball. Put a bit in water for 3 minutes. Then squeeze it and feel it.
   - Ask: Did the cooked piece become dough again? (good: No. It tore and would not roll.; No. In water it went soggy, but not sticky like dough.)
   - Note: The roti tears or folds but will not become a smooth, sticky ball. In water it goes soft and soggy, but it does not become dough. Let your child decide that for themselves.
 - **s6 (5 min)**  
@@ -256,9 +256,9 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
   - Ask: What happened to the frozen piece in your hands? (good: It was stiff and cold, then it went soft.; It rolled into a ball again.)
   - Note: The water in the dough froze, so the disc went stiff. Warm hands melt it, and in about 3 to 5 minutes the dough is soft again. If it is still hard, wait 2 minutes more.
 - **s7 (2 min)**  
-  *Parent does:* 1. Put the three pieces side by side. 2. Ask your child which changes could be undone, what they saw, and why they think so. 3. Then read the cards on reversible and irreversible changes.  
-  *Parent says:* Look at all three. Which changes could you undo? What did you see that tells you? Why do you think the tawa changed the dough for good?  
-  *Child mode:* Look at the three pieces. Which changes could you undo? Which could you not? Why?
+  *Parent does:* 1. Put the three pieces side by side. 2. Fill in the last column of the results table together. 3. Ask the question below. 4. Then read the cards on reversible and irreversible changes.  
+  *Parent says:* Look at all three pieces. Which changes could you undo? What did you see that tells you?  
+  *Child mode:* Point to the pieces that went back to a soft ball. Then point to the one that did not.
   - Ask: Why couldn't the cooked piece go back? (good: The heat made it into roti, which is a new material.; The heat changed what was inside it, not only its shape.)
   - Note: A strong answer uses what your child saw: 'The squashed one and the frozen one became soft balls again. The cooked one tore and went soggy.' Only after that, explain that heat can make a new material.
 ### e2 · The Bend Test: does it spring back, stay bent or break? (18 min)
@@ -270,114 +270,114 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 - **results table:** Thing | My guess | Sprang back | Stayed bent | Broke
 - **s1 (3 min)**  
   *Parent does:* 1. Put the six things in a row. 2. Your child writes or says a guess for each one. 3. Ask the questions below.  
-  *Parent says:* When you bend these and let go, some may spring back, some may stay bent and some may break. What will each one do? Why do you think so?  
-  *Child mode:* Look at the six things. Will each one spring back, stay bent or break? Why?
+  *Parent says:* When you bend these and let go, some may spring back, some may stay bent and some may break. What do you think each one will do?  
+  *Child mode:* Look at the six things. Think about what each one will do when you bend it and let go.
   - Ask: Which one will break? Why? (good: The toothpick, because it is thin and dry.; The broom stick, because it is thin.)
   - Note: Write the guesses in the table. Do not say which are right.
 - **s2 (9 min)**  
-  *Parent does:* 1. Your child bends each thing gently in the middle. 2. Hold it bent while you both count to five. 3. Let go and look. 4. Tick the right box. 5. Do each one twice.  
+  *Parent does:* 1. Your child bends each thing gently in the middle. 2. Hold it bent while you both count to five. 3. Let go and look. 4. Tick the right box. 5. Do each one twice. A toothpick that breaks is finished, so tick 'Broke'. 6. For the paper clip, open the outside loop a little and let go. Then open it a lot and let go.  
   *Parent says:* Bend it gently. One, two, three, four, five. Let go. Did it spring back, stay bent or break?  
   *Child mode:* Bend it gently. Count to five. Let go. What did it do? Tick a box.
-  - Ask: Did any thing do something different from your guess? What did it do? (good: The broom stick sprang back. I thought it would break.; The foil stayed bent even after a little bend.)
-  - Note: The ruler, broom stick and eraser spring back. The foil stays bent. The toothpick bends a little, then snaps. For the paper clip, first open the outside loop a little and let go. It springs back. Then open it a lot. It stays bent.
+  - Ask: Which thing did something you did not guess? What did it do? (good: The broom stick sprang back. I thought it would break.; The foil stayed bent even after a little bend.)
+  - Note: The ruler, broom stick and eraser spring back. The foil stays bent. The toothpick bends a little, then snaps. The paper clip springs back from a small bend and stays bent after a big one.
 - **s3 (3 min)**  
   *Parent does:* 1. Count how many things sprang back, stayed bent and broke. 2. Your child writes the three numbers. 3. Ask the questions below.  
-  *Parent says:* How many sprang back? How many stayed bent? How many broke? Which of these changes can be undone?  
-  *Child mode:* Count the ticks. How many sprang back? Stayed bent? Broke?
+  *Parent says:* Let's count the ticks. How many sprang back? How many stayed bent? How many broke?  
+  *Child mode:* Count the ticks in each column. Write the three numbers.
   - Ask: Which changes can be undone? (good: The things that sprang back undid the bend by themselves.; I can bend the foil straight again, but a broken toothpick cannot be joined.)
   - Note: Bending the foil can be undone by bending it back, though it may keep a faint line. Snapping cannot be undone.
 - **s4 (3 min)**  
-  *Parent does:* 1. Ask your child what was different about the two bends of the paper clip, and why they think so. 2. Then read the card 'Why some things spring back and others stay bent'.  
-  *Parent says:* The same paper clip sprang back once and stayed bent once. What was different? Why do you think that happened?  
-  *Child mode:* The paper clip sprang back once, and stayed bent once. What was different?
+  *Parent does:* 1. Ask your child to show you both bends of the paper clip, and to say what was different. 2. Then read the card 'Why some things spring back and others stay bent'.  
+  *Parent says:* The same paper clip sprang back once and stayed bent once. What was different about the two bends?  
+  *Child mode:* Show your grown-up how you bent the paper clip the first time. Then show how you bent it the second time.
   - Ask: Why did the paper clip stay bent the second time? (good: I bent it much further.; A big bend changes it more than a small bend.)
   - Note: A strong answer says the size of the bend mattered. Only after your child has said this, explain the tiny particles sliding into new places.
 
 ## Activities
 ### a1 · Crumple and Flatten: can paper go back? (5 min)
-- **record:** Draw the flattened sheet. Draw the lines you can see on it.
+- **record:** Count the crease lines you can see on the flattened sheet. Then tell your grown-up if the change was undone, and why. You can also take a photo of the two sheets side by side.
 - **s1 (2 min)**  
-  *Parent does:* 1. Give your child one sheet of paper. 2. Ask them to crumple it into the tightest ball they can.  
-  *Parent says:* Crumple this into a tight ball. Squash it as hard as you can. What has changed about the paper?  
-  *Child mode:* Crumple the paper into a tight ball. Squash it hard. What changed?
+  *Parent does:* 1. Give your child one sheet of paper. 2. Ask them to crumple it into the tightest ball they can. 3. Ask the question below.  
+  *Parent says:* Crumple this into a tight ball. Squash it as hard as you can.  
+  *Child mode:* Crumple the paper into a tight ball. Squash it hard. Look at it and feel it.
   - Ask: What has changed? (good: Its shape. It is a ball now.; It is smaller.)
   - Note: Let your child notice that the shape and the size of the paper changed. Do not explain anything yet.
 - **s2 (3 min)**  
-  *Parent does:* 1. Your child opens the ball and presses it flat with both hands. 2. Put it beside a sheet that was not crumpled. 3. Ask the questions below.  
-  *Parent says:* Now open it and make it flat again. Put it next to a sheet that was not crumpled. Is it the same as before? What do you notice?  
-  *Child mode:* Open the ball. Press it flat. Put it next to a sheet you did not crumple. Is it the same?
+  *Parent does:* 1. Your child opens the ball and presses it flat with both hands. 2. Put it beside a sheet that was not crumpled. 3. Ask your child to count the biggest crease lines, up to ten. 4. Ask the questions below.  
+  *Parent says:* Now open it and make it flat again. Put it next to a sheet that was not crumpled. Look closely at the lines.  
+  *Child mode:* Open the ball. Press it flat. Put it next to a sheet you did not crumple. Count the biggest lines on it.
   - Ask: Did the change get undone? (good: The shape went back, but the lines stayed.; Some of it went back and some did not.)
   - Note: The sheet is flat again, but it is covered in crease lines that do not go away. Let your child decide whether the change was undone. Both 'yes' and 'partly' are good answers if they give a reason. Your child may suggest pressing it under a heavy book or ironing it. These can make the lines fainter, but they rarely take them away completely.
   - Think: Can you think of a way to get the lines out?
 ### a2 · Squeeze It: sponge, bread and a ball of foil (8 min)
-- **record:** Draw each one before and after you squeezed it.
+- **record:** Put the things that sprang back on one side of the plate and the things that stayed squashed on the other side. Take a photo.
 - **s1 (2 min)**  
-  *Parent does:* 1. Put the three things on a plate. 2. Ask your child to guess.  
-  *Parent says:* You are going to squeeze each of these as hard as you can. Which ones will spring back to their shape? Why do you think so?  
-  *Child mode:* Which ones will spring back after a squeeze? Why?
-  - Ask: Which will spring back? (good: The sponge, because it is springy.; The bread, because it is soft too.)
+  *Parent does:* 1. Put the three things on a plate. 2. Ask the question below.  
+  *Parent says:* You are going to squeeze each of these as hard as you can. Then you will open your hand and watch.  
+  *Child mode:* Look at the sponge, the bread and the foil ball. Feel how soft each one is.
+  - Ask: Which ones will spring back after a squeeze? Why do you think so? (good: The sponge, because it is springy.; The bread, because it is soft too.)
   - Note: Many children think the bread will spring back like the sponge.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child squeezes each one hard in a fist for a count of five. 2. Opens the hand. 3. Watches for a few seconds.  
-  *Parent says:* Squeeze the sponge. Now open your hand. Now the bread. Now the foil. What did each one do?  
-  *Child mode:* Squeeze each one hard. Count to five. Open your hand. Watch.
+  *Parent does:* 1. Your child squeezes each one hard in a fist for a count of five. 2. Opens the hand. 3. Watches for a few seconds. 4. Puts the ones that sprang back on one side of the plate, and the ones that stayed squashed on the other.  
+  *Parent says:* Squeeze the sponge. Now open your hand and watch. Now the bread. Now the foil.  
+  *Child mode:* Squeeze each one hard. Count to five. Open your hand and watch. Then sort them on the plate.
   - Ask: What did each one do? (good: The sponge sprang back.; The bread stayed squashed in a small lump.; The foil stayed squashed.)
   - Note: The sponge springs back almost at once. The bread and the foil stay squashed. The bread has lost the air from its holes, and its soft walls stick together.
 - **s3 (2 min)**  
-  *Parent does:* 1. Ask the questions below.  
-  *Parent says:* The sponge and the bread both looked soft and full of holes. Why do you think only one sprang back?  
-  *Child mode:* The sponge and the bread both have holes. Why did only one spring back?
+  *Parent does:* 1. Your child tries to pull the squashed bread back into a slice. 2. Ask the questions below.  
+  *Parent says:* Try to pull the squashed bread back into a slice. The sponge and the bread both have holes. Why do you think only the sponge sprang back?  
+  *Child mode:* Pull the squashed bread gently. Look at the holes in the bread and in the sponge.
   - Ask: Can we undo the squashed bread? (good: No, it stays a lump.; We could pull it apart, but it won't be a slice again.)
   - Note: A good answer is that the sponge is springy, but the soft walls of the bread stick together when they are squashed. Two things can look alike and still act very differently when squashed. Then eat the bread, or give it to the crows at the window.
 ### a3 · Batter to Dosa: watch breakfast change for good (10 min)
 - **safety:** Your child watches from at least an arm's length from the hot tawa, and does not touch it.
-- **record:** Draw the batter, then the dosa. Draw an arrow from the batter to the dosa. Then draw an arrow going back from the dosa to the batter, and cross it out.
+- **record:** Take a photo of a spoon of batter next to a piece of dosa. Then tell your grown-up which way the change goes, and why the dosa cannot go back. You can draw the batter, the dosa and an arrow instead.
 - **s1 (2 min)**  
   *Parent does:* 1. Before cooking, put one spoon of batter in a katori. 2. Put it in the fridge. 3. Ask the question below.  
-  *Parent says:* This batter is runny. When it goes on the hot tawa, what will happen? And will cold make this spoonful change too? Why do you think so?  
-  *Child mode:* Feel how runny the batter is. What will the hot tawa do to it?
-  - Ask: What will the hot tawa do? (good: It will make it hard and crispy.; It will cook it into a dosa.)
+  *Parent says:* This batter is runny. I am putting one spoon in the fridge, to see later what cold does to it.  
+  *Child mode:* Dip a finger in the batter. Feel how runny it is.
+  - Ask: What will the hot tawa do to the batter? Why do you think so? (good: It will make it hard and crispy.; It will cook it into a dosa.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pours and spreads the batter on the hot tawa. 2. Your child watches from an arm's length away. 3. Point out the bubbles, the edges going brown and the top going dry.  
-  *Parent says:* Watch the edges. Watch the top. What is happening to the runny batter?  
-  *Child mode:* Watch from far back. What is the batter doing on the hot tawa?
+  *Parent says:* Watch the edges of the batter. Watch the top.  
+  *Child mode:* Watch from far back. Look at the bubbles and the colour.
   - Ask: What changed? (good: It went from runny to solid.; It went brown and crisp at the edges.; Little holes came on the top.)
   - Note: Heat makes the batter set into a solid dosa, and the brown colour is a new material forming. It is the same with besan cheela or rava uttapam.
 - **s3 (3 min)**  
-  *Parent does:* 1. Take the batter out of the fridge. 2. Put it beside a cooled piece of dosa. 3. Ask the questions below.  
-  *Parent says:* The cold batter is still runny batter. Can we turn this dosa back into batter? What could we try?  
-  *Child mode:* Is the cold batter still batter? Can the dosa turn back into batter?
+  *Parent does:* 1. Take the batter out of the fridge. 2. Put it beside a cooled piece of dosa. 3. Your child mashes a small piece of the dosa with a spoon of water. 4. Ask the question below.  
+  *Parent says:* The cold batter is still runny batter. Now let's try to turn the dosa back into batter. Mash a bit of it with water.  
+  *Child mode:* Touch the cold batter. Then mash a bit of dosa with water and feel it.
   - Ask: Can the dosa become batter again? (good: No. Even if I mash it with water, it is mashed dosa, not batter.; No, the heat changed it for good.)
   - Note: Cooling the batter changed it very little. Heating it changed it for good.
 ### a4 · The Home Hunt: can it go back? (12 min)
-- **record:** Make two columns: 'Can go back' and 'Cannot go back'. Draw each thing you find in the right column.
+- **record:** Make two columns: 'Can go back' and 'Cannot go back'. Write each thing you find in the right column, or put the thing itself there if it is small.
 - **s1 (2 min)**  
-  *Parent does:* 1. Draw two columns: 'Can go back' and 'Cannot go back'. 2. Give one example of each.  
+  *Parent does:* 1. Fold a sheet of paper in half. Write 'Can go back' on one side and 'Cannot go back' on the other. 2. Give one example of each.  
   *Parent says:* Ice cubes can melt and freeze again, so they go in 'can go back'. A burnt matchstick can never be a new match again, so it goes in 'cannot go back'.  
   *Child mode:* Make two columns. 'Can go back' and 'Cannot go back'.
 - **s2 (8 min)**  
-  *Parent does:* 1. Walk around the home together. 2. Look in the kitchen, on the clothes line and in the cupboard. 3. Your child draws each change in a column.  
+  *Parent does:* 1. Walk around the home together. 2. Look in the kitchen, on the clothes line and in the cupboard. 3. Your child writes each change in a column. A small thing can be put on the paper instead.  
   *Parent says:* Look around. What has been squashed, bent, twisted, heated or cooled? Can that change be undone?  
-  *Child mode:* Find six changes at home. Can each one go back? Draw it in the right column.
+  *Child mode:* Find six changes at home. Can each one go back? Write it in the right column, or put the thing there.
   - Ask: What did you find? (good: Ironed clothes: they can get creased again.; A cooked papad cannot go back.; Ghee is solid in the fridge and melts when warmed.)
   - Note: Good finds: a coiled phone charger wire, a squeezed toothpaste tube, ice in the freezer, ghee or coconut oil, cooked rice, a roasted papad, popcorn, a melted and set candle, a twisted hair tie.
 - **s3 (2 min)**  
   *Parent does:* 1. Look at the two columns together. 2. Ask the questions below.  
-  *Parent says:* Look at the 'cannot go back' column. How many of these were heated?  
-  *Child mode:* Look at 'cannot go back'. How many were heated?
+  *Parent says:* Let's look at the 'cannot go back' column together.  
+  *Child mode:* Count the things in 'cannot go back'. Point to the ones that were heated.
   - Ask: What do many 'cannot go back' things have in common? (good: Lots of them were cooked or burnt.; Heat made them.)
   - Note: Most changes that cannot be undone in a home come from heat, or from breaking or tearing.
 
 ## Projects
 ### p1 · My Change Diary: three days of changes (21 min, 3 days)
-- **record:** Each page has two boxes: 'I can undo it' and 'I cannot undo it'. Draw a change in each box and write one word under it.
-- **schedule:** day 1: Find and draw one change you can undo, and one you cannot. Write one word for each. (7 min); day 2: Find two new changes. Try to find one that was made by cooling. (7 min); day 3: Find two new changes. Then read the whole diary aloud to someone at home. (7 min)
+- **record:** Each page has two boxes: 'I can undo it' and 'I cannot undo it'. In each box, write the name of a change and one word to say why. On one day, you can draw the change or take a photo instead.
+- **schedule:** day 1: Find one change you can undo, and one you cannot. Write the name of each, and one word to say why. (7 min); day 2: Find two new changes. Try to find one that was made by cooling. (7 min); day 3: Find two new changes. Then read the whole diary aloud to someone at home. (7 min)
 - **s1 (7 min)**  
-  *Parent does:* 1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds and draws today's two changes.  
+  *Parent does:* 1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds today's two changes and writes each in its box.  
   *Parent says:* Today, find one change you can undo and one you cannot. Look in the kitchen first.  
-  *Child mode:* Find one change you can undo. Find one you cannot. Draw them.
+  *Child mode:* Find one change you can undo. Find one you cannot. Write each in its box.
 - **s2 (7 min)**  
-  *Parent does:* 1. Your child finds two new changes. 2. Ask for one made by cooling.  
+  *Parent does:* 1. Your child finds two new changes and writes them, or takes a photo of each. 2. Ask for one made by cooling.  
   *Parent says:* Can you find a change made by cooling today? Can it be undone?  
   *Child mode:* Find two new changes. Can you find one made by cooling?
   - Ask: What change did cooling make? (good: Water froze into ice.; Ghee went hard.; Melted candle wax went hard.)
@@ -386,7 +386,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
   *Parent does:* 1. Your child finds two more changes. 2. Then reads the whole diary aloud to someone at home.  
   *Parent says:* Read me your diary. Which of your changes could be undone, and which could not? How do you know?  
   *Child mode:* Find two more changes. Then read your diary to someone at home.
-  - Note: Praise the reasons more than the drawings. 'I can't undo it because the heat made it a new thing' is a strong reason.
+  - Note: Praise the reasons more than the neat writing. 'I can't undo it because the heat made it a new thing' is a strong reason.
   - Wait: The day after
 
 ## Challenges
@@ -398,18 +398,18 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 - **creative:** Roll the paper into a tube and lay it across.; Make narrower folds, and see if more folds hold more coins.; Fold the paper into a box shape with a flat top.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay a flat sheet across the two tumblers. 2. Put one coin in the middle. 3. Ask the question below.  
-  *Parent says:* Look, the flat paper sags with one coin. We cannot use glue or tape. How could bending or folding make it stronger?  
-  *Child mode:* The flat paper sags with one coin. How could folding make it stronger?
+  *Parent says:* Look, the flat paper sags with one coin. We cannot use glue or tape. We can only bend and fold.  
+  *Child mode:* Look at how the flat paper sags with one coin.
   - Ask: How could you make it stronger? (good: Fold it lots of times.; Make it thicker by folding it.; Roll it up.)
 - **s2 (12 min)**  
-  *Parent does:* 1. Your child folds a new sheet in their own way. 2. Lays it across. 3. Adds coins one at a time and counts until it sags. 4. Tries a second design.  
+  *Parent does:* 1. Your child folds a new sheet in their own way. 2. Lays it across. 3. Adds coins one at a time and counts until it sags. 4. Writes down how many coins it held. 5. Tries a second design.  
   *Parent says:* Add coins one at a time. Count them. Stop when the paper sags down.  
   *Child mode:* Fold your paper. Lay it across. Add coins one by one. Count.
   - Note: A sheet folded like a hand fan, with folds about as wide as a finger, usually holds many coins. Let your child find this out.
 - **s3 (4 min)**  
-  *Parent does:* 1. Compare the counts. 2. Ask the questions below.  
-  *Parent says:* It was the same paper every time. Nothing was added. Why did folding make it stronger? Can the folding be undone?  
-  *Child mode:* It was the same paper. Why did folding help? Can you unfold it?
+  *Parent does:* 1. Compare the counts. 2. Your child unfolds the best bridge. 3. Ask the questions below.  
+  *Parent says:* It was the same paper every time. Nothing was added. Look at which bridge held the most coins.  
+  *Child mode:* Compare how many coins each bridge held. Then unfold your best bridge.
   - Ask: Can the folding be undone? (good: I can unfold it, but the fold lines stay.; Partly. The shape goes back, the lines don't.)
   - Ask: Why did folding make the paper hold more coins? (good: Folding made the paper stiffer. It is still the same paper, and only its shape changed.; The folds make the paper hard to bend, so it sags less.)
   - Note: Bending and folding changed only the paper's shape. The new shape made it stiffer. This is why steel sheets for roofs are made wavy.

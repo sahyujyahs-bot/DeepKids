@@ -341,7 +341,7 @@
    "title": "Pack for the Trip: a season and place card game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a packing game. Each card names a place in India and a month. You say what the weather will be like there, and what you would pack.",
+   "context": "This is a packing game. Each card names a place in India and a month. You will find out that the weather depends on both the place and the month. Say the season, then what you would pack.",
    "printables": [
     {
      "kind": "cards",
@@ -429,7 +429,7 @@
      "mins": 2,
      "do": "1. Cut out the 12 cards. 2. If you have a map of India, put it where everyone can see. 3. Find Kochi, Chennai and Delhi on it together.",
      "say": "Today we are going on trips all over India. Each card is a place and a month. Can you guess the weather before you pack?",
-     "kid": "Each card is a place and a month. Guess the weather. Then pack!",
+     "kid": "Find Kochi, Chennai and Delhi on the map, if you have one.",
      "parent": "A map helps a lot. Any school atlas or a map on a phone will do."
     },
     {
@@ -440,7 +440,7 @@
      "kid": "Read your card. Say the season. Name two things to pack.",
      "ask": [
       {
-       "q": "The Chennai in May card and the Chennai in November card have different weather. Why?",
+       "q": "Chennai is very hot in May but very rainy in November. Why?",
        "good": [
         "May is summer there and very hot.",
         "November is when Chennai gets its big rain."
@@ -452,9 +452,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the points. Then ask which card was hardest to guess, and what two things you need to know to guess a place's weather.",
+     "do": "Count the points together. Then ask the two questions.",
      "say": "Which card was hardest to guess? To guess the weather, what two things do you need to know?",
-     "kid": "Which card was hardest? What two things tell you the weather?",
+     "kid": "Think about the card that fooled you most.",
      "parent": "A good answer is the place and the month. One place has different weather in different months. Two places can also have different weather in the same month. For example, Chennai is hot in May but rainy in November, and Mumbai is rainy in August.",
      "check": {
       "t": "mcq",
@@ -475,7 +475,7 @@
    "title": "Three Piles: a season sorting race",
    "mins": 15,
    "players": "2 players, or 1 player against the clock",
-   "context": "This is a sorting race. Each card shows one clue from the year. You sort the cards into three piles: summer, monsoon and winter.",
+   "context": "This is a sorting race. Each card shows one clue from the year. You will find out which clues belong to summer, the monsoon and winter, and which clues depend on where you live.",
    "printables": [
     {
      "kind": "cards",
@@ -603,9 +603,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 18 cards. 2. Draw three big boxes on three sheets of paper and label them Summer, Monsoon and Winter. 3. Read a few cards aloud, so your child knows the words.",
+     "do": "1. Cut out the 18 cards. 2. Write Summer, Monsoon and Winter in big letters on three sheets of paper. 3. Read a few cards aloud, so your child knows the words.",
      "say": "Each card is a clue from one season. Can you tell which one? Let us read a few first.",
-     "kid": "Each card is a clue. Which season is it from?",
+     "kid": "Listen to the clues. Notice the words you do not know.",
      "parent": "Explain any word your child does not know: neer mor is thin spiced buttermilk, Uttarayan is the kite festival in January, and konna is the golden shower tree."
     },
     {
@@ -620,7 +620,7 @@
      "mins": 6,
      "do": "Look at any card that went on the wrong mat. Talk about why.",
      "say": "This one went on the wrong mat. What made you think of that season? Where would it go where you live?",
-     "kid": "Look at the cards on the wrong mat. Why did you put them there?",
+     "kid": "Pick one card that went wrong. What made you think of that season?",
      "parent": "Some cards depend on where you live. Fog and seeing your breath belong to winter in the north, but rarely happen in Chennai. That is a good thing to notice, not a mistake.",
      "check": {
       "t": "mcq",
@@ -686,7 +686,7 @@
      "what": "Guess, set the ice under the two cloths in the sun, feel the cloths, look after 15 minutes, count the spoons of water, and talk about why."
     }
    ],
-   "record": "Fill in the results table. Draw the two plates after 15 minutes, with the ice you saw on each.",
+   "record": "Fill in the results table. Take a photo of the two plates after 15 minutes, or draw them, with the ice you saw on each.",
    "setup": [
     {
      "art": "Two steel plates side by side on a sunny windowsill, each with one ice cube from the same tray.",
@@ -709,9 +709,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the results table on paper. 2. Show your child the two cloths and the ice. 3. Ask for a guess and a reason.",
+     "do": "1. Rule the results table on paper. 2. Show your child the two cloths and the ice. 3. Ask for a guess and a reason.",
      "say": "We will put one ice cube under a black cloth and one under a white cloth, in the sun. Which one will melt first? Why do you think so?",
-     "kid": "One ice cube goes under black cloth, one under white. Which melts first? Why?",
+     "kid": "One ice cube goes under the black cloth and one under the white cloth. Guess which melts first.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -728,7 +728,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Find a spot in direct sunshine. 2. Put the two plates side by side, a hand apart. 3. Put one ice cube on each plate. 4. Lay the black cloth over one cube and the white cloth over the other. 5. Note the time.",
-     "say": "Both plates are in the same sun. Only the cloth is different. Why does that matter?",
+     "say": "Both plates are in the same sun. Only the colour of the cloth is different. That makes it a fair test.",
      "kid": "Put both plates in the sun. Cover one ice cube with black and one with white.",
      "parent": "Sunlight through a closed window works well. If the sun is behind clouds today, keep the ice in the freezer and try on the next sunny morning. On a terrace, stay with your child."
     },
@@ -737,7 +737,7 @@
      "mins": 15,
      "do": "1. Wait. 2. After 10 minutes, your child lays a palm gently on top of each cloth, one after the other. 3. Write down which one feels warmer. 4. Keep waiting until 15 minutes have passed since you put the ice out.",
      "say": "Do not lift the cloths yet. Touch the top of each one gently. Which feels warmer?",
-     "kid": "Touch the top of each cloth. Which one is warmer?",
+     "kid": "Touch the top of each cloth gently. Feel the difference.",
      "ask": [
       {
        "q": "Which cloth felt warmer?",
@@ -752,7 +752,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. After 15 minutes, lift both cloths. 2. Look at the two ice cubes and the water on each plate. 3. Draw what you see.",
+     "do": "1. After 15 minutes, lift both cloths. 2. Look at the two ice cubes and the water on each plate. 3. Say what you see, and what is different.",
      "say": "Let us lift the cloths. Look at both ice cubes. What do you see?",
      "kid": "Lift both cloths. Look at the ice. Which is smaller?",
      "parent": "In strong sun, the ice under the black cloth is usually much smaller, or gone, with more water round it. The ice under the white cloth is still clearly there. If both are still large, cover them again and wait 10 more minutes. If both are already gone, try again next time with bigger cubes, or lift the cloths after 8 minutes."
@@ -769,8 +769,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Why a black cloth gets hotter in the sun.",
-     "say": "Was your guess right? Both cloths had the same sun. So why did the black one melt its ice faster?",
-     "kid": "Was your guess right? Both cloths had the same sun. Why did the ice under the black cloth melt more?",
+     "say": "Look at your table. Was your guess right?",
+     "kid": "Look at your table. Think about what you felt and what you saw.",
      "ask": [
       {
        "q": "Why did the ice melt faster under the black cloth?",
@@ -835,7 +835,7 @@
      "what": "Guess, set up the two boxes, wait 30 minutes while doing something else, then test the two halves and talk about why."
     }
    ],
-   "record": "Fill in the results table. Draw the two halves: one snapped and one bent, or however they came out.",
+   "record": "Fill in the results table. Take a photo of the two halves, or write how each one felt when you bent it.",
    "setup": [
     {
      "art": "A crisp roasted papad being broken into two halves over a plate.",
@@ -873,7 +873,7 @@
      "mins": 30,
      "do": "Leave both boxes closed for 30 minutes. Play a game or read the story while you wait.",
      "say": "Now we wait half an hour. What do you think is happening in the damp box?",
-     "kid": "Wait 30 minutes. What is happening in the box?",
+     "kid": "Wait 30 minutes. Do not open the lids.",
      "parent": "Papads differ. If the half from the damp box still snaps after 30 minutes, close the box and wait 30 more minutes before you bend it again."
     },
     {
@@ -881,7 +881,7 @@
      "mins": 5,
      "do": "1. Open both boxes. 2. Look at the inside of the lids. 3. Your child bends each papad half gently.",
      "say": "Look under the lids first. What do you see? Now bend each half. Which one snaps?",
-     "kid": "Look under the lids. Now bend each half. Which one snaps?",
+     "kid": "Look under both lids. Then bend each half gently.",
      "ask": [
       {
        "q": "What was under the lid of the damp box?",
@@ -898,7 +898,7 @@
      "mins": 3,
      "do": "Ask your child what they saw, and why they think it happened.",
      "say": "The papad never touched the water. So how did it get soft?",
-     "kid": "The papad never touched the water. How did it go soft?",
+     "kid": "Think about the water cup and the air in the box.",
      "ask": [
       {
        "q": "Where did the water come from?",
@@ -930,7 +930,7 @@
    "title": "What Changed? Spot the season in old family photos",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look at family photos taken in different months. You spot the clues that show the season.",
+   "context": "In this activity you look at family photos taken in different months. You will find out how a photo can show you the season, even without a date.",
    "materials": [
     {
      "item": "a grown-up's phone with photos from a few different months of the year, or a family photo album",
@@ -944,7 +944,7 @@
      "what": "Look at three photos from different months and find the season clues in each."
     }
    ],
-   "record": "Draw one photo, and circle the clue that shows its season.",
+   "record": "For each photo, say one clue and write down the season it shows.",
    "setup": [
     {
      "art": "A mother and a girl looking at a phone together, with three small photos on the screen: a sunny beach, a rainy street and a family in sweaters.",
@@ -987,7 +987,7 @@
      "mins": 2,
      "do": "Ask what changes from one season to the next.",
      "say": "What changed between these photos? Name three things.",
-     "kid": "Name three things that changed.",
+     "kid": "Think about the clothes, the sky and the roads.",
      "check": {
       "t": "mcq",
       "q": "In a photo, a boy is wearing a raincoat and there are puddles on the road. Which season is it?",
@@ -1007,7 +1007,7 @@
    "title": "Phone a Faraway Family: what season is it there?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you call a relative or friend who lives in another part of India. You ask about their weather today, and compare it with yours.",
+   "context": "In this activity you call a relative or friend who lives in another part of India. You will find out whether the weather is the same there on the same day. Ask about their weather today, and compare it with yours.",
    "materials": [
     {
      "item": "a phone, and a relative or family friend who lives in another city or state",
@@ -1025,7 +1025,7 @@
      "what": "Write three questions, make the call, and compare their weather with yours."
     }
    ],
-   "record": "Make two columns: 'Here' and 'There'. Write or draw the answers to the three questions in each column.",
+   "record": "Make two columns: 'Here' and 'There'. Write the answers to the three questions in each column, in a few words.",
    "setup": [
     {
      "art": "A girl on a video call with her aunt, who stands in bright sun while the girl's window shows rain.",
@@ -1048,16 +1048,16 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Make the call. Your child asks the three questions and listens. Write down or draw the answers.",
+     "do": "Make the call. Your child asks the three questions and listens. Write down each answer in a few words.",
      "say": "Ask your questions. Listen carefully to the answers.",
-     "kid": "Ask your three questions. Listen. Draw the answers."
+     "kid": "Ask your three questions. Listen to each answer."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "Compare 'Here' and 'There'. Find both places on a map if you have one.",
      "say": "Is their weather the same as ours today? Why might it be different?",
-     "kid": "Is their weather the same as ours? Why not?",
+     "kid": "Look at your two columns. What is the same? What is different?",
      "ask": [
       {
        "q": "Why might the weather be different there?",
@@ -1074,10 +1074,10 @@
   },
   {
    "id": "a3",
-   "title": "My Window in Three Seasons: a drawing",
+   "title": "My Window in Three Seasons: what would you see?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw the view from your window three times: once in summer, once in the monsoon and once in winter.",
+   "context": "In this activity you picture the view from your window in summer, in the monsoon and in winter. You will find out which parts of the view change with the season and which stay the same. You can draw it, or tell it in words.",
    "materials": [
     {
      "item": "a sheet of paper folded into three parts",
@@ -1117,9 +1117,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws the same view three times, one in each part of the paper.",
+     "do": "Your child draws the same view three times, one in each part of the paper. If drawing is hard, they can write or say a few words for each part instead.",
      "say": "Now draw this view three times. What would it look like in summer? In the monsoon? In winter?",
-     "kid": "Draw the view three times: summer, monsoon and winter.",
+     "kid": "Draw the view three times: summer, monsoon and winter. Or tell it in words.",
      "parent": "Ask about details: Would the tree look the same? Would people carry umbrellas? Would the sky be bright, grey or misty?"
     },
     {
@@ -1127,7 +1127,7 @@
      "mins": 2,
      "do": "Look at the three pictures together.",
      "say": "What changed in your three pictures? What stayed the same?",
-     "kid": "What changed? What stayed the same?",
+     "kid": "Look at your three views side by side.",
      "ask": [
       {
        "q": "What stayed the same in all three?",
@@ -1145,7 +1145,7 @@
    "title": "One Minute of Listening: what does the season sound like?",
    "mins": 5,
    "days": 1,
-   "context": "In this activity you sit by a window, close your eyes and listen for one minute. You count the sounds that tell you the season.",
+   "context": "In this activity you sit by a window, close your eyes and listen for one minute. You will find out which sounds belong to only one season.",
    "materials": [
     {
      "item": "a window you can open or sit near",
@@ -1163,7 +1163,7 @@
      "what": "Listen for one minute and count the season sounds."
     }
    ],
-   "record": "Write or draw each sound you heard. Put a star next to the ones that belong to one season.",
+   "record": "Write each sound you heard, or say them to a grown-up who writes them down. Put a star next to the ones that belong to one season.",
    "setup": [
     {
      "art": "A boy sitting by an open window with his eyes closed and a hand cupped behind one ear.",
@@ -1171,7 +1171,7 @@
     },
     {
      "art": "A list on paper with small drawings: a bird, rain drops, a fan and a horn, with stars next to the bird and the rain.",
-     "caption": "2. Draw the sounds you heard."
+     "caption": "2. List the sounds you heard."
     }
    ],
    "flow": [
@@ -1179,15 +1179,15 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Sit by the window. 2. Set the timer for one minute. 3. Close your eyes and listen.",
-     "say": "Close your eyes. Listen for one minute. Count every sound you hear on your fingers.",
-     "kid": "Close your eyes. Listen for one minute. Count the sounds."
+     "say": "Close your eyes and listen for one minute. Put up a finger for every sound you hear.",
+     "kid": "Eyes closed. Listen. One finger for each sound."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Name the sounds. Decide which ones belong to one season.",
      "say": "What did you hear? Which sounds only come in one season?",
-     "kid": "What did you hear? Which sounds come in only one season?",
+     "kid": "Name each sound you heard. Pick the ones that belong to one season.",
      "parent": "Season sounds include the koel's 'koo-oo' in summer, rain and frogs in the monsoon, and kite-flying shouts in Gujarat in January. A fan or a cooler running is a summer sound too."
     }
    ]
@@ -1197,7 +1197,7 @@
    "title": "The Papad Weather Test: is today's air damp or dry?",
    "mins": 5,
    "days": 1,
-   "context": "In this activity you leave a piece of crisp papad on a plate in the room. If it goes soft, the air is humid. Try it in different seasons.",
+   "context": "In this activity you leave a piece of crisp papad on a plate in the room. You will find out whether today's air is damp or dry. If the papad goes soft, the air is humid. Try it in different seasons.",
    "materials": [
     {
      "item": "a small piece of crisp papad: a ready-roasted one, or an uncooked one that a grown-up has roasted in a microwave and let cool",
@@ -1252,7 +1252,7 @@
    "title": "Our Family Season Calendar",
    "mins": 40,
    "days": 2,
-   "context": "In this project you make a big calendar of the year for your home. You mark the seasons where you live, and the family's festivals, foods and clothes for each month.",
+   "context": "In this project you make a big calendar of the year for your home. You will find out which season is longest where you live. You mark the seasons, and the family's festivals, foods and clothes for each month.",
    "materials": [
     {
      "item": "a big sheet of paper, or four sheets taped together",
@@ -1291,7 +1291,7 @@
     },
     {
      "art": "Small drawings in the boxes: kites in January, mangoes in May, an umbrella in July, a lamp for Deepavali in October or November.",
-     "caption": "3. Draw one family thing in each month."
+     "caption": "3. Write or draw one family thing in each month."
     }
    ],
    "flow": [
@@ -1313,9 +1313,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "On day 2, ask the people you live with, or call a relative, about each month. Draw one festival, food or piece of clothing in each box.",
+     "do": "On day 2, ask the people you live with, or call a relative, about each month. Write a word or draw one festival, food or piece of clothing in each box.",
      "say": "Let us ask our family and friends. What do we eat, wear or celebrate in each month?",
-     "kid": "Ask your family. What happens in each month? Draw one thing in each box.",
+     "kid": "Ask your family what happens in each month. Write a word or draw one thing in each box.",
      "parent": "Festivals that move with the moon calendar, like Deepavali or Eid, can fall in different months in different years. Draw them where they fall this year."
     },
     {
@@ -1323,7 +1323,7 @@
      "mins": 5,
      "do": "Count the boxes of each colour. Write the numbers at the bottom.",
      "say": "How many orange months? How many blue? How many green? Which season is longest here?",
-     "kid": "Count the orange, blue and green months. Which season is longest?",
+     "kid": "Count the boxes of each colour.",
      "check": {
       "t": "mcq",
       "q": "In Mumbai, the monsoon lasts from June to September. How many months is that?",
@@ -1344,7 +1344,7 @@
    "id": "c1",
    "title": "Keep the Papad Crisp in the Monsoon",
    "mins": 46,
-   "context": "This is a design challenge. In the monsoon, damp air makes papads go soft. Your job is to design a way to keep a papad crisp in a damp box.",
+   "context": "This is a design challenge. In the monsoon, damp air makes papads go soft. Your job is to design a way to keep a papad crisp in a damp box. A damp box is a closed dabba with a cup of hot water inside.",
    "problem": "Can you keep half a papad crisp for 30 minutes inside a damp box, like the one in the Damp Box test? The other half of the papad sits in the same box with no protection, to compare.",
    "constraints": [
     "Use only things from home: a dabba, a plastic bag, a rubber band, paper, a spoon of uncooked rice or salt.",
@@ -1389,7 +1389,7 @@
      "mins": 3,
      "do": "Read the challenge with your child. Show the things they may use.",
      "say": "Damp air made the papad soft. How could you keep the damp air away from it? Why do you think that will work?",
-     "kid": "Damp air makes papads soft. How can you keep the damp air out? Why?"
+     "kid": "Think of a way to keep damp air away from the papad."
     },
     {
      "id": "s2",
@@ -1404,14 +1404,14 @@
      "mins": 30,
      "do": "Wait 30 minutes with the lid closed. Play a game or read the story while you wait.",
      "say": "Which half do you think will stay crisp?",
-     "kid": "Wait 30 minutes. Which half will stay crisp?"
+     "kid": "Wait 30 minutes with the lid closed."
     },
     {
      "id": "s4",
      "mins": 8,
      "do": "Take out both halves and bend each one. Talk about what worked.",
      "say": "Does it snap? What kept the damp air out? What would you change?",
-     "kid": "Bend both halves. Which one snaps? What worked?",
+     "kid": "Bend both halves. Listen for the snap.",
      "parent": "A tight lid or a sealed bag usually works best, because the damp air cannot get in. The bare half shows what damp air does. If both halves still snap, your papad may take longer to go soft: wait 30 more minutes."
     }
    ],
