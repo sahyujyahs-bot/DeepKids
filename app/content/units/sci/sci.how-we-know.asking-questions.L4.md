@@ -1,7 +1,7 @@
 # Two ideas, one question: how to tell explanations apart
 `sci.how-we-know.asking-questions.L4`
 
-**Summary.** A steel tumbler of ice water is wet on the outside. One friend says the water leaked through the steel. Another says it came from the air. Both friends saw exactly the same drops. In this unit your child learns to split what they see from what they think it means. They list the rival ideas, and ask the one question that the ideas answer differently. They test the tumbler with coloured water, search for a pattern in arm spans and heights, and meet Jocelyn Bell, who used the same kind of question to find a signal from space.
+**Summary.** Drops of water appear on the outside of a cold tumbler. Where do they come from? In this unit you will tell what you saw from what you think, write two rival explanations and a test to tell them apart, and measure arm span and height to check an old claim.
 
 **Intro.** *Fill a steel tumbler with ice water and wait ten minutes. The outside is wet. Nobody poured water there. Where did it come from?* Ask three people and you may hear three answers. One says it leaked through the steel. One says it came from the ice. One says it came out of the air. All three looked at the same wet tumbler. They saw the same drops and told three different stories. In this unit you learn how to tell stories apart. You ask what each story would predict, and then you look for the one result that the stories disagree about.
 

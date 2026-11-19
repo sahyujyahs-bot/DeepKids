@@ -1,7 +1,7 @@
 # Sun, Moon and stars: why the Sun is a star and the Moon is not
 `sci.sky.sun-moon-stars.L3`
 
-**Summary.** The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light, while the Moon and the planets only reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. A torch carried far down a long corridor looks like a tiny dot, even though the torch has not changed. In the same way, a huge light can look tiny when it is far away.
+**Summary.** The Sun is a star, so why does it look huge while other stars look like tiny dots? In this unit you will test a near lamp and a far lamp, find out whether a Moon in your room makes its own light, and keep a five-night sky diary.
 
 **Intro.** *Hold up one finger at arm's length. You can hide the whole Moon behind it. But the Moon is about 3,500 kilometres wide, wider than India. How can a finger hide something so big?* Tonight, look up from a window, a balcony or the terrace. From a city you may see only a few dozen stars, because street lights brighten the sky. Some of them twinkle. One or two bright dots may shine steadily. In the daytime the Sun is the brightest light, so bright that you must never look at it. Here is the question for this unit. Is the Sun a different kind of thing from the stars? Or is it the same kind of thing, just much closer?
 

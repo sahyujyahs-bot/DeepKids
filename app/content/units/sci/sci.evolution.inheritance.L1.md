@@ -1,7 +1,7 @@
 # Alike and different: how children get features from their parents
 `sci.evolution.inheritance.L1`
 
-**Summary.** Peas from one pod are all green and round, like every pea from that plant. Yet no two of them are the same size. Children are like that too. A child is the same kind of being as their parents and gets many features from them, and still comes out as someone new. Your child opens pea pods to see what is alike and what is different, then looks at old family photos to find features passed down.
+**Summary.** Peas in one pod are all green and round, yet no two are the same size. In this unit you will open pea pods and look at what is alike and what is different, then play a game that makes babies for two make-believe creatures.
 
 **Intro.** *Hold a pea pod in your hand. Before you open it, guess: are all the peas inside the same?* Every person is like other people in many ways. We all have two eyes, a nose and a beating heart. And every person is a little different. Some of your features are like one parent's, some are like your other parent's, and some are all your own. In this unit we open pea pods, the homes of pea plant babies. Then we look at family photos, to see which features children get from their parents.
 

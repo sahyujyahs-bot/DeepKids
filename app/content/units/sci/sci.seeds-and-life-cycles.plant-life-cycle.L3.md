@@ -1,7 +1,7 @@
 # A plant's life cycle: how a seed grows into a plant that makes new seeds
 `sci.seeds-and-life-cycles.plant-life-cycle.L3`
 
-**Summary.** Every fruit in your kitchen was once a flower, and every seed inside can grow into a new plant. A life cycle is all the stages of a living thing's life, until they make young of their own. A flowering plant goes from seed to seedling to grown plant. Then they flower. Each flower can grow into a fruit, and the fruit holds new seeds. Your child opens kitchen fruits to find the seeds and the flower's leftovers, and can grow moong from seed to seed in two to three months. Then the unit follows the idea further: plants built mostly from air and water, plants that measure the length of the night, and bamboo that flowers only once, after about 48 years.
+**Summary.** Every fruit in your kitchen was once a flower. How does a flower become a fruit, and what is inside? In this unit you will open fruits to find the seeds and the flower's leftovers, tag a flower and watch it change, and grow moong from seed to seed.
 
 **Intro.** *Look at a tomato, or a brinjal. See the little green star, or the green cap, at the top? Where do you think it came from? Here is a clue. Not long ago, this whole tomato was a small yellow flower.* Every fruit in your kitchen was once a flower. Every seed inside can grow into a plant that makes flowers again. Put a moong seed in a pot today. In two to three months, if they get sun and water, they will give you back a whole handful of moong. Which part of a flower turns into the fruit? And why does the plant end up exactly where they started, as seeds?
 

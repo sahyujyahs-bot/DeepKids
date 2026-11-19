@@ -1,7 +1,7 @@
 # Day and night: why the Sun reaches Guwahati before Mumbai
 `sci.day-night-seasons.day-and-night.L4`
 
-**Summary.** All of India uses one clock, yet the Sun rises over Guwahati about an hour before it rises over Mumbai. You check this with sunrise and sunset times from five cities. The sunrise times look untidy, but the noon times follow a neat pattern: the Sun is highest about 4 minutes later for every degree you go west. You measure circles on an orange that stands in for the Earth, and find that a person in Chennai is carried much faster than a person near the Arctic, though both make one turn a day. Then you find out how long a day is on other planets, why our own day is slowly getting longer, and how animals find their way in the dark.
+**Summary.** The Sun reaches Guwahati long before Mumbai, yet both clocks say the same time. How? In this unit you will compare noon in five cities, spin an orange Earth to see how fast places move, and work out how long a day lasts on other planets.
 
 **Intro.** *Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are about an hour apart. Did the Sun visit Guwahati first?* The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this unit you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.
 

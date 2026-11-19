@@ -1,7 +1,7 @@
 # Alike and different: features we inherit and skills we learn
 `sci.evolution.inheritance.L2`
 
-**Summary.** Practice will not make your thumb longer. Practice will make your throwing better. That is the difference between a feature you inherit and a skill you learn. Features like eye colour and curly hair come from genes, tiny instructions you get from both parents. Skills like speaking Telugu or drawing a kolam come from practice and from the people around you, and a parent cannot pass them on at birth. Your child tests this with paper balls, a bucket and a strip of paper, then asks the family what they inherited and what they learned.
+**Summary.** Eye colour comes from your parents, but speaking Telugu or drawing a kolam does not. Why? In this unit you will test with paper balls and a bucket whether practice can change a skill, ask your family what they inherited and what they learned, and sort things in a game.
 
 **Intro.** *Hold out your thumb. Can you make it longer by practising? Now think of throwing a ball. Can you get better at that by practising?* Some things about you came from your parents before you were born. Other things you learned after you were born. They feel the same, because they are all part of you. In this unit you find out which is which. You test it with a bucket, a few paper balls and a strip of paper. Then you ask your family what they inherited, what they learned, and who taught them.
 

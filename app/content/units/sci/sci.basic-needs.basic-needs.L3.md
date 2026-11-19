@@ -1,7 +1,7 @@
 # Our basic needs: why we need air, water, food, clothes and a home every day
 `sci.basic-needs.basic-needs.L3`
 
-**Summary.** You breathe about 20 times a minute, and you cannot stop for long. Every person needs air, water and food to stay alive, and clothes and a home to stay safe and well. These five are our basic needs. We need them again and again because the body keeps using them up: every breath carries used air out, and your skin lets water out even when you feel dry. Toys, phones and sweets are wants. They are nice to have, but we can live without them.
+**Summary.** Your hand looks dry, but is it giving out water? In this unit you will test a dry hand to find out, sort things into needs and wants, hold your breath to feel why air matters, and see whether a ring of water can keep ants off sugar.
 
 **Intro.** *Sit down and take a normal breath. Now hold it and count slowly. Stop as soon as you want to. Soon your body makes you breathe again. You can save a snack for later. Why can't you save up a breath?* Your body uses air every few seconds, water every few hours and food a few times a day. In this unit you find out why. You test whether your dry hand is giving out water. You find out whether a ring of water can keep hungry ants away from sugar. You sort needs from wants, and argue about the hard ones. And you learn the simple ways families in India keep air, water, food, clothes and homes clean and safe.
 

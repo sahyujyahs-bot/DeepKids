@@ -1,7 +1,7 @@
 # Family: who we are to each other, and the work that keeps a home going
 `sci.family.family.L3`
 
-**Summary.** Every family runs on hours of cooking, washing and caring each day, and most of that work is never paid. In this unit you name your relatives and find that English has one word, uncle, for four different relations. You count and time every job done in your home for one evening, and draw a pictograph of who did what. You learn what parents and guardians must give a child, how girls and women were kept out of school and other rights, and how that is changing. You also meet animal families, where a father, a group or even another kind of bird raises the young.
+**Summary.** English has one word, uncle, for four different relations. Why? In this unit you will find the relation words in your home language, count and time every job done in your home for one evening, draw a family tree of three generations, and play a game about who raises animal babies.
 
 **Intro.** *Who in your home works the most? Before you answer, think about yesterday. Who cooked, washed the vessels, folded clothes, and put the baby to sleep?* A family is a group of people who look after each other. Some families are big, with grandparents, aunts and cousins under one roof. Some are small, with one parent and one child. In every family, someone cooks, cleans, shops and cares for the youngest and the oldest. This work takes many hours, and in most homes nobody is paid for it. In this unit you find out exactly how many minutes of work your own home needs in one evening, and who does it.
 

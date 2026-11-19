@@ -3,7 +3,7 @@
  "title": "Healthy food and drink: why we need water, and where it hides",
  "level": 1,
  "summary": {
-  "text": "Squeeze a piece of cucumber in a clean hanky, and drops of water run out. Squeeze a biscuit, and nothing comes. Your body needs food to grow and move, and water every single day. Your child finds out which foods hold water inside, and why we feel thirsty. They also find out that liking a food can change, one small taste at a time.",
+  "text": "Squeeze a piece of cucumber in a clean hanky and water runs out. Squeeze a biscuit and nothing comes. In this unit you will squeeze different foods to find which hold water, sort foods into wet, damp and dry, and make a crunchy kosambari salad.",
   "art": "A child's hands twisting a white hanky over a small glass, with drops falling in, and a row of foods on a steel plate: cucumber, watermelon, banana, biscuit."
  },
  "intro": {
@@ -219,7 +219,7 @@
    "title": "The Squeeze Test: which foods have water inside?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you squeeze small pieces of food in a clean hanky. Some foods drip water. Some stay dry. You guess first, then you find out.",
+   "context": "In this experiment you squeeze small pieces of food in a clean hanky. Some foods drip water. Some stay dry. You guess first, then you find out. You will see for yourself which foods hide water, even when they feel dry.",
    "question": "Which foods from our kitchen have water inside them, and which have almost none?",
    "predict": "Look at each food and touch it. Which ones do you think have water inside? Which are dry inside? Why do you think so?",
    "fair_test": "Each piece of food is about one big spoonful. A grown-up mashes or crushes each one with a fork or the back of a spoon first. We press each one on paper for the same count of ten. We squeeze each one in the same hanky, as hard as we can, and dry the hanky between foods.",
@@ -282,7 +282,7 @@
      "what": "Guess, then do the paper test and the squeeze test on six foods."
     }
    ],
-   "record": "Draw the six foods in a row. Draw drops under each food that dripped. Draw a cross under each food that stayed dry.",
+   "record": "Line up the six foods from most drops to none. Take a photo, or tell your grown-up the order. Or draw a drop under each food that dripped.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -351,7 +351,7 @@
      "mins": 4,
      "do": "1. Put the six foods in a row on the steel plate. 2. Let your child touch each food. 3. Ask them to guess which foods are wet inside.",
      "say": "Here are six foods. Touch each one. Which ones do you think have water inside? Why do you think so?",
-     "kid": "Touch each food. Which ones have water inside? Guess. Say why.",
+     "kid": "Touch each food. Guess which ones have water inside.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -369,7 +369,7 @@
      "mins": 5,
      "do": "1. Put six paper squares (napkin, tissue or newspaper) on the table. 2. A grown-up mashes or crushes each food. 3. Spoon each food onto its own square and press. 4. Count to ten together. 5. Lift the food and look at the paper.",
      "say": "Press the food down on the paper. Let's count to ten. Now lift it. Is the paper wet?",
-     "kid": "Press the food on the paper. Count to ten. Lift it. Is the paper wet?",
+     "kid": "Press the food on the paper. Count to ten. Lift it and look at the paper.",
      "ask": [
       {
        "q": "Which papers got wet?",
@@ -387,7 +387,7 @@
      "mins": 9,
      "do": "1. Put the mashed cucumber in the middle of the hanky. 2. Gather the corners and twist them over the glass. 3. Squeeze hard. 4. Pat the hanky dry with a napkin, wipe the glass, and do the same with each food.",
      "say": "Now the squeeze test. Hold the hanky over the glass. Twist and squeeze as hard as you can. What comes out?",
-     "kid": "Put the food in the hanky. Twist it over the glass. Squeeze hard! What comes out?",
+     "kid": "Put the food in the hanky. Twist it over the glass. Squeeze hard!",
      "ask": [
       {
        "q": "What came out of the cucumber?",
@@ -430,7 +430,7 @@
      "mins": 3,
      "do": "1. Ask your child what they get when they eat a cucumber. 2. Eat the leftover foods together, so nothing is wasted.",
      "say": "So when you eat a cucumber, what does your body get? Now let's eat our test foods.",
-     "kid": "What do you get when you eat cucumber? Now eat the foods!",
+     "kid": "Now eat the foods you tested.",
      "ask": [
       {
        "q": "What does your body get when you eat a cucumber?",
@@ -451,7 +451,7 @@
    "title": "The Feely Bag: guess the fruit or vegetable",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you put your hand into a cloth bag and feel a fruit or vegetable you cannot see. You guess what it is by touch.",
+   "context": "In this activity you put your hand into a cloth bag and feel a fruit or vegetable you cannot see. You guess what it is by touch. You will find out how much your hands can tell you about food, and which food holds the most water.",
    "materials": [
     {
      "item": "a cloth bag, a pillow cover or a dupatta tied into a bag",
@@ -469,7 +469,7 @@
      "what": "Guess five fruits and vegetables by touch. Then squeeze a piece of each to find the wettest. Then pick one to eat today."
     }
    ],
-   "record": "Draw the food that gave the most drops when you squeezed it.",
+   "record": "Tell your grown-up which food gave the most drops. Or take a photo of it.",
    "setup": [
     {
      "art": "A grown-up putting a lemon, an onion, a banana, a tomato and a carrot into a cloth pillow cover, while a child covers their eyes.",
@@ -486,7 +486,7 @@
      "mins": 6,
      "do": "1. Put the five foods in the bag while your child is not looking. 2. Your child puts one hand in and feels one food. 3. They say what they feel, then guess, then pull it out. 4. Do the same for each food.",
      "say": "Put your hand in the bag. Hold one thing. Is it smooth or bumpy? Hard or soft? What do you think it is?",
-     "kid": "Feel one thing in the bag. Is it smooth or bumpy? Hard or soft? Guess!",
+     "kid": "Feel one thing in the bag. Then guess what it is!",
      "ask": [
       {
        "q": "What does it feel like?",
@@ -514,7 +514,7 @@
    "title": "Make Kosambari: a crunchy salad from Karnataka",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you help make kosambari, a salad of soaked moong dal, cucumber and carrot. It is made in Karnataka for festivals and everyday meals. You find out which parts are wet and which were dry before soaking.",
+   "context": "In this activity you help make kosambari, a salad of soaked moong dal, cucumber and carrot. It is made in Karnataka for festivals and everyday meals. You will find out how dry dal turns soft by soaking up water, and which parts of the salad hold water.",
    "materials": [
     {
      "item": "split yellow moong dal, soaked in water for 2 hours, and a few dry grains kept aside",
@@ -544,7 +544,7 @@
      "what": "Soak the dal 2 hours before. Then make and eat the kosambari together."
     }
    ],
-   "record": "Draw your bowl of kosambari. Colour the parts that had water inside.",
+   "record": "Point to the parts of your kosambari that hold water, and tell your grown-up how you know. Or draw the bowl and colour those parts.",
    "setup": [
     {
      "art": "A small cup of dry yellow moong dal next to a bowl of the same dal soaked and swollen in water.",
@@ -561,7 +561,7 @@
      "mins": 4,
      "do": "1. Show your child a few dry moong dal grains next to the soaked dal. 2. Let them press one of each between finger and thumb.",
      "say": "Press a dry dal grain. Now press a soaked one. What is different? Where did the water go?",
-     "kid": "Press a dry dal. Press a soaked dal. Which is soft? Where did the water go?",
+     "kid": "Press a dry dal grain. Press a soaked one. Which one is soft?",
      "ask": [
       {
        "q": "Where did the water go?",
@@ -597,7 +597,7 @@
    "title": "My Water Tumbler: drops on a chart",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you keep a chart for one day. Every time you drink water, you draw a drop. You also draw what you were doing when you felt thirsty.",
+   "context": "In this activity you keep a chart for one day. Every time you drink water, you make a drop on the chart. You will find out how much you drink in a day, and what makes you thirsty. If you do not like drawing, a tick is fine.",
    "materials": [
     {
      "item": "a sheet of paper and crayons",
@@ -612,44 +612,44 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Draw a drop for every drink of water, from morning to bedtime. Count them at night."
+     "what": "Make a drop for every drink of water, from morning to bedtime. Count them at night."
     }
    ],
-   "record": "Your chart of drops, with a small picture of what you were doing when you felt thirsty.",
+   "record": "Your chart of drops, with a word beside each drop for what you were doing when you felt thirsty.",
    "setup": [
     {
      "art": "A sheet of paper with a big tumbler drawn on it, and a child drawing a blue drop beside it.",
-     "caption": "1. Draw your tumbler at the top of the paper."
+     "caption": "1. Write your name at the top of the paper."
     },
     {
      "art": "The same sheet at bedtime, with seven blue drops and a small drawing of a child playing in the sun.",
-     "caption": "2. Draw a drop every time you drink. Count them at night."
+     "caption": "2. Make a drop every time you drink. Count them at night."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Help your child draw their tumbler at the top of a sheet. 2. Stick the sheet on the fridge or a wall.",
-     "say": "Today we will draw a drop each time you drink water. Let's stick the chart where you can reach it.",
-     "kid": "Draw your tumbler. Each time you drink water today, draw a drop.",
+     "do": "1. Help your child write their name at the top of a sheet. 2. Stick the sheet on the fridge or a wall.",
+     "say": "Today we will make a drop each time you drink water. Let's stick the chart where you can reach it.",
+     "kid": "Write your name on the chart. Each time you drink water today, make a drop.",
      "parent": "Count a full tumbler or a good few gulps from a bottle as one drop."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Each time your child drinks water, they draw a drop. When they say they are thirsty, ask what they were doing. They draw a small picture of it next to the drop.",
-     "say": "You're thirsty? What were you just doing? Draw it next to your drop.",
-     "kid": "Thirsty? Drink, then draw a drop. Draw what you were doing.",
-     "wait": "Draw the drops through the day.",
+     "do": "Each time your child drinks water, they make a drop on the chart. When they say they are thirsty, ask what they were doing. Write one word for it next to the drop, such as running.",
+     "say": "You're thirsty? What were you just doing? I will write it next to your drop.",
+     "kid": "Thirsty? Drink water, then make a drop. Tell what you were doing.",
+     "wait": "Make a drop for each drink through the day.",
      "parent": "Children usually feel thirsty after running about, after a hot walk, and after salty food."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "At bedtime, count the drops together. Look at the small drawings.",
+     "do": "At bedtime, count the drops together. Read the words beside them.",
      "say": "How many drops did you draw today? When did you feel most thirsty?",
-     "kid": "Count your drops. When were you most thirsty?",
+     "kid": "Count your drops. Read the words beside them.",
      "ask": [
       {
        "q": "When did you feel most thirsty?",
@@ -671,7 +671,7 @@
    "title": "Wet, Damp or Dry? A food sorting game",
    "mins": 15,
    "players": "1 to 4 players and a grown-up",
-   "context": "This is a sorting game about water in food. Each card names a food. Players decide if it is Wet, Damp or Dry, and the back of the card gives the answer.",
+   "context": "This is a sorting game about water in food. Each card names a food. Players decide if it is Wet, Damp or Dry, and the back of the card gives the answer. You will find out which foods hide the most water.",
    "printables": [
     {
      "kind": "cards",
@@ -773,16 +773,16 @@
     },
     {
      "kind": "board",
-     "title": "Three baskets to draw on a big sheet",
+     "title": "Three baskets: three bowls with paper labels",
      "items": [
-      "A blue basket with three drops on it: 'Wet: runs or drips, mostly water'",
-      "A green basket with one drop on it: 'Damp: soft, with some water held inside'",
-      "A brown basket with a cross on it: 'Dry: hard or crunchy, almost no water'"
+      "A bowl labelled with three drops: 'Wet: runs or drips, mostly water'",
+      "A bowl labelled with one drop: 'Damp: soft, with some water held inside'",
+      "A bowl labelled with a cross: 'Dry: hard or crunchy, almost no water'"
      ]
     }
    ],
    "rules": [
-    "Draw the three baskets on a big sheet. Mix the cards and put them face down in a pile.",
+    "Put out three bowls and label them Wet, Damp and Dry on slips of paper. Mix the cards and put them face down in a pile.",
     "Take turns. Turn over the top card and say the food. A grown-up can read the card aloud.",
     "Say which basket it goes in, and why. Point to the basket.",
     "The grown-up reads the back of the card. If you were right, put the card in that basket and make a tick for yourself on paper.",
@@ -792,7 +792,7 @@
    "setup": [
     {
      "art": "A big sheet on the floor with a blue, a green and a brown basket drawn on it, and a pile of food cards beside it.",
-     "caption": "1. Draw three baskets. Mix the cards."
+     "caption": "1. Set out three baskets. Mix the cards."
     },
     {
      "art": "A child holding a card that says 'Watermelon' over the blue basket.",
@@ -803,7 +803,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 18 cards. 2. Draw the three baskets. 3. Mix the cards and stack them face down.",
+     "do": "1. Cut out the 18 cards. 2. Put out the three labelled bowls. 3. Mix the cards and stack them face down.",
      "say": "This game is about water hiding in food. Wet foods run or drip. Damp foods are soft, with water held inside. Dry foods are hard or crunchy.",
      "kid": "Wet foods run or drip. Damp foods are soft. Dry foods are hard or crunchy. Let's sort!"
     },
@@ -831,7 +831,7 @@
      "mins": 2,
      "do": "Count the cards. Then ask which basket holds the foods that help most on a hot day.",
      "say": "Which basket would you pick from on a hot day? Why?",
-     "kid": "On a hot day, which basket would you pick from? Why?",
+     "kid": "Think of a hot day. Which basket would you pick from?",
      "ask": [
       {
        "q": "Why that basket?",
@@ -951,8 +951,8 @@
      "id": "s2",
      "mins": 11,
      "do": "Play the cards in turn. After each card, ask how the water got in or out.",
-     "say": "You played in the sun. How did the water leave your body?",
-     "kid": "Read your card. Take out or put in beans. How did the water move?",
+     "say": "After each card, I will ask: did water leave your body, or come back in? How?",
+     "kid": "Read your card. Take out or put in beans.",
      "check": {
       "t": "mcq",
       "q": "A player ate a biscuit. How many beans do they put in?",
@@ -969,9 +969,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "At the end, ask which cards took the most water away, and which brought the most back.",
+     "do": "At the end, put the cards in two piles: cards that took water away, and cards that gave it back. Ask which cards gave the most back.",
      "say": "Which cards made you lose the most water? Which gave the most back?",
-     "kid": "Which cards took the most water? Which gave the most back?",
+     "kid": "Sort the cards into two piles: took water away, and gave water back.",
      "ask": [
       {
        "q": "Which cards gave the most back?",
@@ -990,7 +990,7 @@
    "title": "Ten Tiny Tastes: can I learn to like a food?",
    "mins": 37,
    "days": 10,
-   "context": "In this project you pick one food you do not like yet. For ten days, you taste a tiny bit of it, as small as a pea. You colour a face each day to show how it tasted.",
+   "context": "In this project you pick one food you do not like yet. For ten days, you taste a tiny bit of it, as small as a pea. You will find out if tasting a food again and again can change how you feel about it. Each day you say how it tasted: yuck, okay or nice. A grown-up writes your word in a circle. You can draw a face instead if you like.",
    "materials": [
     {
      "item": "one food your family often eats that your child does not like yet, for example karela, bhindi, raw tomato, curd or a green vegetable",
@@ -1001,7 +1001,7 @@
      "qty": 1
     },
     {
-     "item": "crayons",
+     "item": "a pencil or crayons",
      "qty": 1
     }
    ],
@@ -1009,55 +1009,55 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Pick the food. Draw 10 circles. Taste a pea-sized bit and draw a face in circle 1."
+     "what": "Pick the food. A grown-up draws 10 circles. Taste a pea-sized bit and write your word in circle 1."
     },
     {
      "day": 2,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 2."
+     "what": "Taste a tiny bit again. Write your word in circle 2."
     },
     {
      "day": 3,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 3."
+     "what": "Taste a tiny bit again. Write your word in circle 3."
     },
     {
      "day": 4,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 4."
+     "what": "Taste a tiny bit again. Write your word in circle 4."
     },
     {
      "day": 5,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 5."
+     "what": "Taste a tiny bit again. Write your word in circle 5."
     },
     {
      "day": 6,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 6."
+     "what": "Taste a tiny bit again. Write your word in circle 6."
     },
     {
      "day": 7,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 7."
+     "what": "Taste a tiny bit again. Write your word in circle 7."
     },
     {
      "day": 8,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 8."
+     "what": "Taste a tiny bit again. Write your word in circle 8."
     },
     {
      "day": 9,
      "mins": 3,
-     "what": "Taste a tiny bit again. Draw a face in circle 9."
+     "what": "Taste a tiny bit again. Write your word in circle 9."
     },
     {
      "day": 10,
      "mins": 8,
-     "what": "Taste for the tenth time. Draw the last face. Look at all ten faces together."
+     "what": "Taste for the tenth time. Write the last word. Look at all ten words together."
     }
    ],
-   "record": "The ten faces, one for each taste.",
+   "record": "The ten words, one for each taste.",
    "setup": [
     {
      "art": "A sheet of paper with ten empty circles in two rows, and a small steel spoon holding a pea-sized piece of cooked karela.",
@@ -1065,37 +1065,37 @@
     },
     {
      "art": "The same sheet with faces drawn in the circles: frowning faces at the start, then flat faces, then a small smile in the last circle.",
-     "caption": "2. Each day, taste and draw a face. Look at how the faces change."
+     "caption": "2. Each day, taste and say how it was. Look at how the answers change."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Let your child pick one food they do not like yet, from your usual meals. 2. Draw 10 circles together. 3. Put a pea-sized bit on a spoon. 4. Your child tastes it and draws a face in circle 1.",
+     "do": "1. Let your child pick one food they do not like yet, from your usual meals. 2. Draw 10 circles on a sheet. 3. Put a pea-sized bit on a spoon. 4. Your child tastes it and says yuck, okay or nice. Write that word in circle 1.",
      "say": "Pick a food you don't like yet. Just taste a bit as small as a pea. You don't have to eat more.",
-     "kid": "Pick a food you don't like yet. Taste a tiny bit. Then draw a face.",
+     "kid": "Pick a food you don't like yet. Taste a tiny bit. Then say how it was.",
      "parent": "Never push, bribe or praise heavily for eating it. Leann Birch found that pressure can make children like a food less. Spitting it into a napkin is allowed. The tasting is the whole job."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Give a pea-sized taste at a calm moment, for example at the start of a meal. Your child draws a face in the next circle.",
-     "say": "Here is today's tiny taste. How was it? Draw your face.",
-     "kid": "Taste a tiny bit. How was it? Draw a face.",
+     "do": "Give a pea-sized taste at a calm moment, for example at the start of a meal. Your child says yuck, okay or nice, and you write it in the next circle.",
+     "say": "Here is today's tiny taste. How was it: yuck, okay or nice?",
+     "kid": "Taste a tiny bit. Say yuck, okay or nice.",
      "wait": "Taste again every day, on days 2 to 9.",
      "parent": "Serve the food the same way each time, so the taste is the same. It is fine to eat it alongside a food your child likes."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Give the tenth taste. 2. Draw the last face. 3. Look at all ten faces in a row.",
-     "say": "Look at your ten faces. Did they change? Why do you think they changed, or stayed the same?",
-     "kid": "Look at your ten faces. Did they change? Why?",
+     "do": "1. Give the tenth taste. 2. Write the last word. 3. Read all ten words in a row.",
+     "say": "Look at your ten words. Did they change? Why do you think they changed, or stayed the same?",
+     "kid": "Look at your ten words. Did they change?",
      "wait": "Come back on day 10.",
      "ask": [
       {
-       "q": "Why do you think the faces changed?",
+       "q": "Why do you think the words changed?",
        "good": [
         "My tongue got used to it.",
         "It didn't taste so strange any more."
@@ -1109,7 +1109,7 @@
        ]
       }
      ],
-     "parent": "Many children's faces go from frowning to flat over ten tastes, and some reach a smile. Some do not change, and that is a real result too. Everyone has a few foods they never come to like."
+     "parent": "Many children go from yuck to okay over ten tastes, and some reach nice. Some do not change, and that is a real result too. Everyone has a few foods they never come to like."
     }
    ]
   }
@@ -1119,7 +1119,7 @@
    "id": "c1",
    "title": "A Tiffin for a Hot School Day",
    "mins": 20,
-   "context": "This is a planning challenge. On a hot day at school, there is no fridge, and you get thirsty. Can you plan a tiffin that helps?",
+   "context": "This is a planning challenge. On a hot day at school, there is no fridge, and you get thirsty. Can you plan a tiffin that helps? You will plan a tiffin with food, some water inside the food, and a drink.",
    "problem": "Plan a tiffin for a hot day. It must give you food so you can play, some water inside the food, and a drink. It must stay fresh until lunch without a fridge.",
    "constraints": [
     "Use foods your family has at home.",
@@ -1128,7 +1128,7 @@
    ],
    "materials": [
     "your tiffin box and bottle",
-    "paper and crayons",
+    "paper and a pencil, if you want to write a list",
     "foods from the kitchen"
    ],
    "general": [
@@ -1141,11 +1141,11 @@
     "Wrap the bottle in a wet cotton cloth. When the water dries off the cloth, it takes some heat from the bottle. So the bottle stays cooler.",
     "Pack a bottle of lemon water with a pinch of salt and a little sugar, for a drink that tastes good and replaces some of the water you sweat out."
    ],
-   "your_turn": "Now plan your own tiffin. Draw it. Pack it on a real day, and see if it worked by lunchtime.",
+   "your_turn": "Now plan your own tiffin. Lay the foods out in the box, or tell your grown-up what you will pack. Pack it on a real day, and see if it worked by lunchtime.",
    "setup": [
     {
      "art": "A child drawing a round tiffin box with three sections on paper, with cucumber, curd rice and an orange drawn inside.",
-     "caption": "1. Draw your tiffin. Put in one wet food."
+     "caption": "1. Plan your tiffin. Put in one wet food."
     },
     {
      "art": "An open steel tiffin with curd rice, cucumber slices and orange pieces, next to a water bottle wrapped in a damp cloth.",
@@ -1158,7 +1158,7 @@
      "mins": 5,
      "do": "Read the problem aloud. Ask your child what goes wrong with a tiffin on a hot day.",
      "say": "On a hot day at school, what goes wrong with a tiffin? What do you need most?",
-     "kid": "On a hot day, what goes wrong with a tiffin? What do you need?",
+     "kid": "Think of a hot day at school, with no fridge.",
      "ask": [
       {
        "q": "What goes wrong?",
@@ -1173,9 +1173,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws a tiffin with one wet food, one other food and a drink. Ask why they chose each one.",
-     "say": "Draw your tiffin. Which food has water inside? Why did you pick it?",
-     "kid": "Draw your tiffin. Put in one wet food and a drink. Why those?",
+     "do": "Your child lays out, in the tiffin box, one wet food, one other food and a drink. Ask why they chose each one.",
+     "say": "Lay out your tiffin. Which food has water inside? Why did you pick it?",
+     "kid": "Lay out your tiffin. Put in one wet food and a drink. Say why you chose them.",
      "parent": "Curd rice, idli and fruit keep well for a few hours. Very milky or creamy foods, and buttermilk, spoil faster in the heat."
     },
     {

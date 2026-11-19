@@ -1,7 +1,7 @@
 # Living things need each other: how plants and animals help each other live
 `sci.ecology.interdependence.L3`
 
-**Summary.** A tomato is warm and wet inside, yet her seeds do not sprout there. The juice holds them back until the fruit is eaten or rots away. So the tomato plant needs an animal to eat her fruit and carry her seeds away. Plants and animals need each other like this everywhere. Plants give animals food, shelter and the oxygen they breathe. Animals carry pollen from flower to flower, carry seeds to new places and feed the soil with their droppings. Some partners, like the fig tree and the tiny fig wasp, cannot live without each other. Because lives are joined like this, near and far, harming one kind of living thing can harm many others.
+**Summary.** Why do seeds not sprout inside a tomato? In this unit you will test whether tomato juice stops seeds sprouting, work out where the seeds of a fruit bowl would go, and play a memory game of who helps whom among plants and animals.
 
 **Intro.** *Cut a ripe tomato in half and look at the seeds in the wet jelly. Seeds sprout when they are warm and wet, and the inside of a tomato is both. So why don't the seeds sprout inside the tomato?* The answer has to do with who eats tomatoes, guavas and mangoes, and why. In this unit you test it with tomato seeds. You find out how plants feed and shelter animals, and how animals help plants in return, by carrying their pollen and their seeds. You also meet a tree that needs a wasp smaller than a grain of rice, and a flower in Madagascar that needed a moth nobody had ever seen.
 

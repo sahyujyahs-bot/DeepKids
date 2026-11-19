@@ -1,7 +1,7 @@
 # A sense of self: how your body knows its own touch, voice and likes
 `sci.mind.sense-of-self.L2`
 
-**Summary.** Why can't you tickle yourself? When you stroke your own foot, it hardly tickles. When someone else does the same, you laugh. Your brain knows which touches you are making, a moment before they land. In this unit you test that, hear your own voice the way others hear it, and find out which of your likes have changed since you were small.
+**Summary.** Why can you not tickle yourself? Your brain knows your own touch a moment before it lands. In this unit you will run a fair tickle test, hear your own voice the way others hear it, and play a game about what is you and what is not.
 
 **Intro.** *Can you tickle yourself?* Take off one sock. Stroke the bottom of your foot gently with your own finger, five times. Now ask someone at home to do the same, the same way. Which one made you want to laugh? Keep your answer in mind. Soon you will test it properly.
 

@@ -1,7 +1,7 @@
 # How animals learn: by trying, and by copying others
 `sci.animal-behaviour.animal-learning.L3`
 
-**Summary.** Watch someone tap a box twice before opening it, and you will probably tap it too, even if the tap does nothing. Animals learn in three main ways: from what happened before, by watching others, and by working things out. A dog learns a trick because the trick brought a treat, or because she watched her owner do it first. Crows learn from other crows which people are dangerous, and some crows use one stick to reach another stick. Young chimpanzees learn to fish for termites by watching their mothers for years. You will test whether people copy a step that does nothing, and compare your results with what chimpanzees did.
+**Summary.** A young chimpanzee learns to fish for termites by watching. Do people copy only what works, or every step? In this unit you will run a fair test to see whether people copy a step that does nothing, and play a game about how animals learn.
 
 **Intro.** *Try this with a grown-up. Put a sweet inside a clear box and close the lid. Tap the lid twice with a spoon, then open it and take the sweet out. Put the sweet back and say, 'Your turn.' Did they tap the lid too? The tap did nothing, so why would anyone copy it?* Learning means changing what you do because of what you have seen or what has happened to you. Every animal learns, from a bee to an elephant. Some animals mostly learn alone, by trying. Others learn a lot by watching. In this unit you find out how dogs, crows and chimpanzees learn, and you test how closely people copy.
 

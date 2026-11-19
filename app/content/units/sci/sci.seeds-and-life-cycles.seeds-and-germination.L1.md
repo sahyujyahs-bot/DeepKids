@@ -1,7 +1,7 @@
 # Seeds: how a seed grows into a new plant
 `sci.seeds-and-life-cycles.seeds-and-germination.L1`
 
-**Summary.** Plant a chana seed, and for days nothing shows above the soil. But under the soil, the seed is busy. A seed is a tiny living plant. When a seed gets water, a root grows first, down into the soil. Then a shoot comes up into the light. Your child plants five chana seeds and gently digs one up each day to see what is happening underneath.
+**Summary.** What does a seed do first when it starts to grow: send up a shoot or send down a root? In this unit you will feel different seeds, plant one in a clear cup to peek at it each day, and play a root down, shoot up game.
 
 **Intro.** *Hold a dry chana seed. Is this hard little ball alive? Could a whole plant come out of this seed?* Many plants you know, from the tulsi on the balcony to the big neem tree on the road, began as a seed. Seeds look like small stones. But put a seed in damp soil, and a new plant grows out of the seed. In this unit we plant seeds and watch. We also peek under the soil, to find out what a seed does before we can see anything.
 

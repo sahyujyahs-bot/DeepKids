@@ -1,7 +1,7 @@
 # Choosing the right material: grip for a tray, slip for a slide
 `sci.materials.using-materials.L2`
 
-**Summary.** Put a steel katori on a tilted plastic sheet, and it slides off. Put it on rubber, and it stays, even when the board is steep. A material is right for a job when it has the properties the job needs. Your child tests five materials as a mat for a tray, and measures how high the board can go before the katori slides. Then they use the same results to choose a material for a slide. For a slide, the best material is the one that grips least.
+**Summary.** A steel katori slides off a tilted plastic sheet but stays on rubber. Why? In this unit you will tilt a board with five materials on it and measure how high it goes before the katori slides. You will then use your results to choose the best material for a tray mat and for a slide.
 
 **Intro.** *Put a steel tumbler on a steel plate. Tilt the plate more and more. Now put a rubber band round the tumbler's bottom and try again. What changes?* Without the rubber band, the tumbler slides. With the rubber band, it stays on until the plate is much steeper. The tumbler is the same. Only the material it stands on is different. Every job needs a material with the right properties. A tray of tumblers needs grip. A slide in the park needs the opposite. Before you read on, guess. Which material in your home grips best?
 

@@ -1,7 +1,7 @@
 # Magnet poles: why two magnets attract or repel
 `sci.magnets.poles.L3`
 
-**Summary.** Hold two magnets end to end. One way round, they snap together. Turn one round, and they push each other apart. Every magnet has two ends where its force is strongest, called poles: a north pole and a south pole. A north pole and a south pole attract each other. Two north poles, or two south poles, repel each other. Iron that is not a magnet is attracted by both poles, so only a magnet can repel a magnet. Cut a magnet in two, and each piece has its own north and south pole. Nobody has ever found a north pole on its own. In this unit you float two magnets on water. You push one away and see what it does while it is free to turn.
+**Summary.** Two magnets can push each other apart without touching. Which ends push and which pull? In this unit you will float magnets on boats to see what they do, find how many poles a fridge magnet has, and tell a true magnet from plain iron.
 
 **Intro.** *Try this. Hold one bar magnet in each hand. Bring their ends slowly together. Now turn one magnet round and try again. One way, they jump together. The other way, you feel a push, though nothing is touching. Why does the same magnet do two different things?* The answer is in the two ends of every magnet, its poles. In this unit you find which end is north and which is south, and you learn the rule for when magnets attract and when they repel. Then you float two magnets on water, push one away, and watch what it does next. A French scholar called Petrus Peregrinus did the same test with magnet stones in 1269.
 

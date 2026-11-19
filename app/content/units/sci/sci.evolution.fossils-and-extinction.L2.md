@@ -1,7 +1,7 @@
 # Fossils: how rocks keep traces of dinosaurs and other old life
 `sci.evolution.fossils-and-extinction.L2`
 
-**Summary.** A shell can lie inside a rock on a hill, far from any sea. It is a fossil: a trace of a being who lived long ago, kept in rock. Fossils show that dinosaurs lived on Earth for a very long time, and that the big ones died out about 66 million years ago. After them, mammals and birds spread into new kinds, and much later humans came. Your child presses hard and soft things into dough to see which leave a clear print, and digs down through a pile of old newspapers to see why deeper means older.
+**Summary.** How can a shell lie inside a rock on a hill far from the sea? In this unit you will press hard and soft things into dough to see which leave a clear print, dig down through a pile of old newspapers, and play a game of fossil clues.
 
 **Intro.** *Nobody has ever seen a living dinosaur with a big tail and teeth. So how do we know they were real?* We know from fossils. A fossil is a bone, a tooth, a shell, a footprint or a leaf print from long ago, kept in rock. Fossils are found in India too: dinosaur eggs in Gujarat, sea shells around Ariyalur in Tamil Nadu, and a stone tree trunk at Sattanur. In this unit you find out which things leave a fossil, and how we tell which fossils are older.
 

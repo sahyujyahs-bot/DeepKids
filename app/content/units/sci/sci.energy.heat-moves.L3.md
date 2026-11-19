@@ -1,7 +1,7 @@
 # How heat moves: why a steel spoon in hot tea gets hot
 `sci.energy.heat-moves.L3`
 
-**Summary.** Leave a steel spoon standing in hot tea, and in a minute or two its handle is warm, though only the bottom touched the tea. Heat has travelled up through the solid steel. Heat always moves from a hotter thing to a cooler one, and through a solid it passes from each tiny part to the part next to it. This is called conduction. In this unit your child puts butter dots along a steel ladle in hot water and times them as they melt, one after another. They find that heat reaches the near dots fast, the far dots slowly, and the farthest dot perhaps never.
+**Summary.** Why does the top of a steel spoon in hot tea get hot? In this unit you will watch heat climb a steel ladle, find out whether your hand or the plate melts the ice, and play a board game about how heat moves.
 
 **Intro.** *Stand a steel spoon in a cup of hot tea for two minutes. Touch the top of the handle. It is warm, though it never touched the tea. How did the heat get up there?* No hot tea climbed up the spoon. Only the bottom of the spoon is in the tea. Yet the handle warms, slowly, from the bottom up. In this unit you find out how heat travels through a solid, and how fast. You time butter melting along a ladle, you hold ice in your fist, and you find out why a dosa tawa has a wooden handle.
 

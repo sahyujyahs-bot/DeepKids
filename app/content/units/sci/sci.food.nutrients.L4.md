@@ -1,7 +1,7 @@
 # A burning groundnut and a food label: what the numbers say about your food
 `sci.food.nutrients.L4`
 
-**Summary.** Hold a groundnut in a flame and it keeps burning on its own for about a minute. Yet the school chart calls groundnuts a body-building food, not an energy food. Your child burns a groundnut, a cashew and a piece of dry coconut under a tumbler of water, measures the heat with a thermometer, and works out how much heat was lost. They cook rice and find that 100 grams of cooked rice holds only about a third of the energy in 100 grams of raw rice. They learn to read a food label, including the many names of sugar, and meet Wilbur Atwater, who showed that a living body follows the same energy rules as a fire.
+**Summary.** A groundnut can burn, so how much heat does a food hold? In this unit you will burn nuts under a tumbler of water and measure the heat, read four food packets, see where the energy goes when rice is cooked, and guess a food from its label.
 
 **Intro.** *A groundnut burns like a tiny candle, but a grain of rice does not. What does a groundnut have inside that a grain of rice has much less of?* The food on your plate is fuel for your body, the way wood is fuel for a stove. Scientists measure that fuel in kilocalories. In this unit you burn real foods under a tumbler of water and measure the heat they give out. You cook rice and weigh it before and after. Then you read the label on a packet, and find out what its numbers say and what they leave out.
 

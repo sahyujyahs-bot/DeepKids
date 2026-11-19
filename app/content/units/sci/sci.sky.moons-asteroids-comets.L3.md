@@ -1,7 +1,7 @@
 # Moons, asteroids and comets: the smaller worlds, and why shooting stars glow
 `sci.sky.moons-asteroids-comets.L3`
 
-**Summary.** A shooting star is not a star. Most are grains of space dust, about as small as a grain of rava, burning up high in our air. Many of these grains were left behind by comets. A comet is a lump of ice, dust and rock. Near the Sun, some of its ice turns to gas, and the gas and dust stream away as a long tail. Asteroids are lumps of rock and metal, and most of them go round the Sun between Mars and Jupiter. Most planets have moons too. Mars has two small moons, and Jupiter and Saturn have dozens each.
+**Summary.** A shooting star is not a star, so what is it? In this unit you will compare a grain of rava with a map to see how small it is, make ice comets and watch what the sun does to them, and sort space rocks.
 
 **Intro.** *Have you ever seen a shooting star? It is not a star at all. Most shooting stars are made by grains of dust no bigger than a grain of rava. So how can something so small make a light you can see from 100 kilometres away?* In this unit you find out. You meet the smaller worlds of the solar system: moons, asteroids and comets. You make a comet from ice and dirt, and watch what happens to it in the sun. And you find out where the dust that makes shooting stars comes from.
 

@@ -1,7 +1,7 @@
 # Stored energy: how energy waits in a twist, a height, food and a cell
 `sci.energy.stored-energy.L3`
 
-**Summary.** Wind up a toy, and it moves later, after you have let go. In between, the energy waits in the toy. This is called stored energy. Energy can wait in the shape of a thing, such as a twisted rubber band or a coiled clock spring. It can wait in height, such as water in the tank on the roof. And it waits in food, fuel and cells, in how their tiny particles are joined. A store can give its energy back all at once, like a jumping toy, or slowly, like a clock that ticks for a week.
+**Summary.** Where is energy while it waits? In this unit you will build a roll-back jar, test whether more turns make it roll back further, check if a tired cell that dims a torch is really empty, and see why the water tank sits on the roof.
 
 **Intro.** *Roll a jar away from you along the floor and let go. It slows down and stops. Then, with nobody touching it, it rolls back to you. What made it come back?* The jar has a rubber band and a small weight inside. Rolling the jar away twisted the band. The twist held energy, and the energy brought the jar back. In this unit you build this roll-back jar and find out how many turns make it come back furthest. You also test a torch cell that seems finished, read the energy on food packets, and find energy waiting all over your home.
 

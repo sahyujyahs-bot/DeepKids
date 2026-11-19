@@ -1,7 +1,7 @@
 # What materials are like, and why smooth things shine
 `sci.materials.properties.L1`
 
-**Summary.** Breathe on a cold steel plate, and for a moment it goes dull. A few seconds later it shines again. Your child touches, presses, bends and looks at things around the home. They find words for what a material is like: hard or soft, rough or smooth, bendy or stiff, shiny or dull. With a torch, they find that the shiny things all have a very smooth surface.
+**Summary.** Breathe on a cold steel plate and it goes dull for a moment, then shines again. In this unit you will hunt for hard, soft, rough and smooth things, shine a torch on things to see which are shiny, and make crayon rubbings.
 
 **Intro.** *Look at a steel plate. Now breathe 'haaa' on it. Where did the shine go?* The plate was shiny. Your breath made a misty patch, and the patch looked dull. Then the mist went away, and the shine came back. The plate was steel all the time. In this unit you find out what makes a thing shiny or dull. You also find out how things feel when you touch, press and bend them.
 

@@ -1,7 +1,7 @@
 # Springs that keep time: stiffness, bouncing and the favourite beat
 `sci.forces.stretching-springs.L4`
 
-**Summary.** Hang a bottle on rubber bands and make it bounce. A big bounce takes exactly as long as a small bounce, yet four times the weight makes every bounce twice as slow. Then shake the top end of the bands at just the right beat, and tiny movements of your hand make the bottle swing wildly. You will measure how stiff springs are, time their bounces, find a spring's favourite beat, and learn why a rubber band warms up when you stretch it and why a paper clip snaps after many bends.
+**Summary.** Hang four times the load on a spring and it bounces half as fast, but a bigger bounce does not change the time. In this unit you will time bounces fairly, find which shake builds the biggest bounce, and rank stretchy things by how stiff they are.
 
 **Intro.** *Hang a bottle on a rubber band and pull it down a little. Let go and count ten bounces. Now pull it down much further and count ten bounces again. Which takes longer, the small bounces or the big bounces?* Most people guess that the big bounces take longer, because the bottle has further to go. You will find out for yourself. This is a clue to something strange about springs. They keep time. Each spring, with its load, has its own beat, and nothing you do to start it changes that beat. In this unit, you will time bounces, learn what does change the beat, and find out what happens when you push a spring in time with its beat, and out of time with it.
 

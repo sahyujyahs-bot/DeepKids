@@ -1,7 +1,7 @@
 # What is light? Energy that spreads out, warms things and has a family you cannot see
 `sci.light.what-is-light.L4`
 
-**Summary.** A tar road is too hot to walk on at noon, while a whitewashed wall beside it stays much cooler, yet the same sunlight falls on both. A lamp across the street looks dim, although the lamp has not changed at all. A TV remote sends out light that your eyes cannot see, but a phone camera can. In this unit your child measures how a torch beam thins out as it travels, races ice cubes on black and white paper, and finds the invisible light of a remote control. They learn that light is energy, that it spreads out and turns into heat when a surface takes it in, and that the light we see is one thin slice of a long family of waves.
+**Summary.** A tar road is too hot to walk on at noon, but a whitewashed wall beside it stays cool. Why? In this unit you will measure how a torch beam thins out, race ice cubes on black and white paper, and find a TV remote's invisible light with a phone camera.
 
 **Intro.** *A tar road at noon is hot enough to burn bare feet (do not try it). A whitewashed wall beside it stays cool. The same Sun shines on both. Why is the road so hot? Where did the light go when it landed on the road?* Light does not just let us see. It carries energy, and when a surface takes the light in, that energy turns into heat. A lamp far away looks dim for a different reason. Its light spreads out over a wider and wider space, so each patch of your eye gets less. In this unit you will measure how fast a torch beam thins out, race ice cubes on black paper and white paper, and use a phone camera to catch light your eyes cannot see. You will also meet the long family of waves that light belongs to, from radio to X-rays.
 

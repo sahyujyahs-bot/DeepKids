@@ -3,7 +3,7 @@
  "title": "Start, stop, faster, slower: how a push changes moving things",
  "level": 1,
  "summary": {
-  "text": "Tap a rolling ball from behind, and it goes faster. Tap it from the front, and it slows down or stops. A push or a pull is called a force. Your child taps, flicks and watches, and finds that the side of the push decides what happens.",
+  "text": "Tap a rolling ball from behind and it goes faster. Tap it from the front and it slows or stops. In this unit you will watch a ceiling fan start and stop, test taps on a ball, and flick a bottle cap to see if a bigger flick goes further.",
   "art": "A girl kneeling on a tiled floor, tapping a rolling ball gently with a rolled-up newspaper, while a grown-up rolls the ball towards her."
  },
  "intro": {
@@ -219,7 +219,7 @@
    "title": "The Tap Test: can one tap make a ball faster, slower or stop?",
    "mins": 20,
    "days": 1,
-   "context": "This is the main experiment of the unit. A grown-up rolls a ball slowly across the floor. You tap the ball with a rolled-up newspaper three ways: when it is still, from behind when it is rolling, and from the front when it is rolling. What does the same gentle tap do each time?",
+   "context": "This is the main experiment of the unit. You will find out what one gentle tap does to a ball. A grown-up rolls a ball slowly across the floor. You tap the ball with a rolled-up newspaper three ways: when it is still, from behind when it is rolling, and from the front when it is rolling. What does the same gentle tap do each time?",
    "question": "What happens when you tap a rolling ball from behind? What happens when you tap it from the front?",
    "predict": "Guess first. If you tap a rolling ball from behind, will it go faster, slower, or stop? If you tap it from the front, what will it do? Why do you think so?",
    "fair_test": "We use the same ball, the same rolled newspaper and the same gentle tap every time. The grown-up rolls the ball just as slowly each time. Only the side we tap from changes. We try each side 3 times, because one try might be luck.",
@@ -253,7 +253,7 @@
      "what": "Guess, tap a still ball, tap a rolling ball from behind and from the front, then try to stop it with just one tap."
     }
    ],
-   "record": "Draw the ball and the newspaper for each tap. Draw a cheetah next to the tap that made the ball faster and a snail next to the tap that made it slower.",
+   "record": "Fill in the last column of the table with what the ball did for each tap. If you like, add a small drawing, or tell a grown-up what you saw.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -311,9 +311,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Hold up the ball. 2. Ask for both guesses and the reasons. 3. Your child draws the guesses, and a grown-up writes them in the table.",
+     "do": "1. Hold up the ball. 2. Ask for both guesses and the reasons. 3. Your child says the guesses, and a grown-up writes them in the table.",
      "say": "If you tap a rolling ball from behind, what will it do? If you tap it from the front, what will it do? Why do you think so?",
-     "kid": "Guess. If you tap the rolling ball from behind, will it go faster, go slower or stop? What if you tap it from the front? Why?",
+     "kid": "Guess what the rolling ball will do when you tap it from behind. Then guess what it will do when you tap it from the front.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -391,7 +391,7 @@
      "mins": 2,
      "do": "Ask what was the same and what was different. Then ask the check question.",
      "say": "Was the tap the same each time? What was different? What did a tap from behind do? And from the front?",
-     "kid": "Was your tap the same each time? What changed? What did each tap do?",
+     "kid": "Think back. What stayed the same each time? What changed?",
      "ask": [
       {
        "q": "What was different?",
@@ -421,7 +421,7 @@
    "title": "The Flick Test: does a bigger flick send a bottle cap further?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you flick a bottle cap across a tiled floor, first gently and then harder. You count how many tiles it goes over before it stops.",
+   "context": "In this experiment you flick a bottle cap across a tiled floor, first gently and then harder. You count how many tiles it goes over before it stops. You will find out if a harder flick sends it further.",
    "question": "Does a harder flick make a bottle cap go faster and further?",
    "predict": "Guess first. Will a hard flick send the cap further than a gentle flick? How many tiles do you think each one will go? Why do you think so?",
    "fair_test": "We use the same cap, the same finger and the same starting line every time. Only how hard we flick changes. We flick 3 times for each, because one flick might be luck.",
@@ -452,7 +452,7 @@
      "what": "Guess, flick gently 3 times, flick hard 3 times, and count the tiles each time."
     }
    ],
-   "record": "Draw a row of tiles. Put a small dot where the cap stopped after the gentle flicks and a big dot where it stopped after the hard flicks.",
+   "record": "Write the number of tiles for each flick in the table. You can also draw a row of tiles with a dot where the cap stopped, or tell a grown-up what you found.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -493,7 +493,7 @@
      "mins": 3,
      "do": "1. Put tape on the floor as a start line. 2. Show a gentle flick and a hard flick. 3. Ask for a guess and a reason.",
      "say": "We will flick the cap gently, then hard. Which one will go further? How many tiles? Why do you think so?",
-     "kid": "Which will send the cap further, a gentle flick or a hard flick? Why?",
+     "kid": "Guess which flick will send the cap further.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -533,8 +533,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask why the cap stopped at all, then the check question.",
-     "say": "Nobody stopped the cap. Why did it stop? What was pushing against it?",
-     "kid": "Nobody stopped the cap. Why did it stop?",
+     "say": "Nobody touched the cap after the flick. What was pushing against it?",
+     "kid": "The cap stopped on its own. Think about the floor it slid on.",
      "ask": [
       {
        "q": "Why did the cap stop?",
@@ -565,7 +565,7 @@
    "title": "The Ceiling Fan Watch: start, faster, slower, stop",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you watch a ceiling fan start, speed up, slow down and stop. You find out that the fan keeps turning for a while after it is switched off.",
+   "context": "In this activity you watch a ceiling fan start, speed up, slow down and stop. You will find out if the fan stops the moment it is switched off.",
    "materials": [
     {
      "item": "a ceiling fan with a switch and a speed knob",
@@ -580,7 +580,7 @@
      "what": "Watch the fan start, speed up, slow down and stop, and count how long it keeps turning after it is switched off."
     }
    ],
-   "record": "Draw the fan four times: still, slow, fast, and slowing down. Draw lines round the fast one to show it is fast.",
+   "record": "Write down how many seconds the fan kept turning after it was switched off. Tell a grown-up what the fan did first, next and last. If you like, draw it.",
    "setup": [
     {
      "art": "A grown-up pointing to a ceiling fan switch on the wall while a boy sits on a mat across the room, looking up at the still fan.",
@@ -614,7 +614,7 @@
      "mins": 2,
      "do": "Turn the speed knob up, then down.",
      "say": "Now I turn the knob up. What happens? Now down. What happens?",
-     "kid": "The knob is turned up. What does the fan do? Now the knob is turned down. What does the fan do?",
+     "kid": "Watch the fan while the grown-up turns the knob up, and then down.",
      "ask": [
       {
        "q": "What happened?",
@@ -628,7 +628,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Switch the fan off. 2. Count together, one, two, three, until the blades stop.",
+     "do": "1. Switch the fan off. 2. Count together, one, two, three, until the blades stop. 3. Write down the number.",
      "say": "Now I switch it off. Is it still turning? Let's count until it stops.",
      "kid": "The fan is off. Is it still turning? Count until it stops.",
      "ask": [
@@ -646,8 +646,8 @@
      "id": "s4",
      "mins": 1,
      "do": "Ask the check question.",
-     "say": "The fan was off, but it kept turning. What slowed it down in the end?",
-     "kid": "What slowed the fan down in the end?",
+     "say": "The fan did stop in the end. Let's work out why.",
+     "kid": "Think about what finally stopped the fan.",
      "check": {
       "t": "mcq",
       "q": "A fan keeps turning after you switch it off, and then it stops. Why does it stop?",
@@ -667,7 +667,7 @@
    "title": "Window Watch: who starts and who stops?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look out of a window or a balcony for 5 minutes. You spot things that start, stop, speed up and slow down: autos, scooters, people, crows and pigeons.",
+   "context": "In this activity you look out of a window or a balcony for 5 minutes. You spot things that start, stop, speed up and slow down: autos, scooters, people, crows and pigeons. Then you find out what pushed each one.",
    "materials": [
     {
      "item": "a window or a balcony with a view of a road, a path or the sky",
@@ -689,7 +689,7 @@
      "what": "Watch for 5 minutes, put a tick in a box for each change you see, then talk about what pushed each one."
     }
    ],
-   "record": "Keep your paper with ticks in the four boxes. Draw one thing you saw stop.",
+   "record": "Keep your paper with ticks in the four boxes. Tell a grown-up one thing you saw stop and what pushed against it.",
    "setup": [
     {
      "art": "A girl and a grown-up at a flat window, looking down at a road with autos, a scooter and a bus stopping at a stop.",
@@ -714,7 +714,7 @@
      "mins": 4,
      "do": "Pick a bus or an auto that your child saw slow down. Ask what pushed against it. Then pick one more thing that slowed down.",
      "say": "The bus stopped. What pushed against it? Now pick one more thing that slowed down. What pushed against that?",
-     "kid": "What pushed against the bus to stop it?",
+     "kid": "Pick something you saw slow down. Think about what pushed against it.",
      "ask": [
       {
        "q": "What pushed against a bus or an auto to slow it down?",
@@ -730,7 +730,7 @@
      "id": "s3",
      "mins": 1,
      "do": "Ask the check question.",
-     "say": "Here is a question about the auto we saw.",
+     "say": "Here is one last question, about an auto at a red light.",
      "kid": "Here is a question.",
      "check": {
       "t": "mcq",
@@ -752,7 +752,7 @@
    "title": "Soft Stop, Hard Stop: catch the rolling ball",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you roll a ball into different things: a pillow, a big book standing up, and a paper tent. Which one stops the ball? Which one only slows it down?",
+   "context": "In this activity you roll a ball into different things: a pillow, a big book standing up, and a paper tent. You will find out which one stops the ball and which one only slows it down.",
    "materials": [
     {
      "item": "a ball",
@@ -778,7 +778,7 @@
      "what": "Roll the ball into each thing in turn and see whether it stops, slows or bounces back."
     }
    ],
-   "record": "Draw the three stoppers. Next to each, draw what the ball did: a stop hand, a snail, or a curved arrow going back.",
+   "record": "Lay the three stoppers in a row. Next to each, put a paper slip that says STOPPED, SLOWED or BOUNCED BACK, or say it to a grown-up.",
    "setup": [
     {
      "art": "A pillow, a book standing open and a paper tent in a row on a tiled floor, with a ball ready to roll at them.",
@@ -811,7 +811,7 @@
      "mins": 6,
      "do": "Your child rolls the ball into each stopper, at the same gentle speed, twice each.",
      "say": "Roll it into the paper tent. What happened? Now the pillow. Now the book.",
-     "kid": "Roll the ball into each one. What happens?",
+     "kid": "Roll the ball into each one. Watch closely.",
      "ask": [
       {
        "q": "What did each one do?",
@@ -828,8 +828,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "The paper tent fell over. Why did the ball keep going?",
-     "kid": "Why did the ball keep going past the paper?",
+     "say": "The paper tent fell over and the ball kept going. Let's think about why.",
+     "kid": "Think about the paper tent and the ball.",
      "check": {
       "t": "mcq",
       "q": "The ball knocked over the paper tent and kept rolling, but slower. Why?",
@@ -851,7 +851,7 @@
    "title": "Which Way to Push?",
    "mins": 10,
    "players": "1 to 4 players and a grown-up who reads the cards. With two people, the grown-up reads and the child plays.",
-   "context": "This is a card game. Each card shows something moving and what you want it to do. You put a paper arrow down to show which way to push: the same way it is moving, or against it.",
+   "context": "This is a card game. Each card shows something moving and what you want it to do. You put a paper arrow down to show which way to push: the same way it is moving, or against it. You will find out which push speeds a thing up and which push slows it or stops it.",
    "printables": [
     {
      "kind": "cards",
@@ -938,7 +938,7 @@
      "kid": "Listen to the card. Pick an arrow. Say why.",
      "ask": [
       {
-       "q": "Why the red arrow?",
+       "q": "Why that arrow?",
        "good": [
         "To stop it you push against it.",
         "Like my tap from the front in the Tap Test."
@@ -972,7 +972,7 @@
    "title": "Cheetah, Snail, Statue",
    "mins": 8,
    "players": "2 or more players. One player is the caller. A grown-up is the caller first.",
-   "context": "This is a moving game. The caller holds up a card, and the players start walking, walk faster, walk slower or stop. Then you say what your feet did.",
+   "context": "This is a moving game. The caller holds up a card, and the players start walking, walk faster, walk slower or stop. Then you say what your feet did. You will find out how your feet push to start and to stop.",
    "printables": [
     {
      "kind": "cards",
@@ -1027,7 +1027,7 @@
      "mins": 6,
      "do": "Hold up the cards in any order, about every 10 seconds. After each STATUE, ask what their feet did. After 4 STATUEs, swap callers.",
      "say": "Statue! Freeze! What did your feet do to stop you?",
-     "kid": "Freeze! What did your feet do to stop you?",
+     "kid": "Do what the card says. When you freeze, notice what your feet did.",
      "ask": [
       {
        "q": "What did your feet do to stop?",
@@ -1066,7 +1066,7 @@
    "title": "My Start and Stop Book",
    "mins": 18,
    "days": 3,
-   "context": "In this project you make a small book over 3 days. Each day you find things that start, stop, go faster or go slower, and draw them.",
+   "context": "In this project you make a small book over 3 days. Each page shows something that starts, stops, goes faster or goes slower, and what pushed it. At the end you read your book to someone at home.",
    "materials": [
     {
      "item": "2 sheets of paper, folded in half and tied with thread into a little book",
@@ -1075,26 +1075,30 @@
     {
      "item": "crayons",
      "qty": 1
+    },
+    {
+     "item": "an old newspaper or magazine, scissors and glue or tape",
+     "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
      "mins": 6,
-     "what": "Make the book. Draw two things you saw START and STOP today, and what pushed them."
+     "what": "Make the book. Draw or tell two things you saw START and STOP today, and what pushed them."
     },
     {
      "day": 2,
      "mins": 6,
-     "what": "Draw two things you saw go FASTER and SLOWER, and what pushed them."
+     "what": "Cut out and stick in two pictures of things going FASTER and SLOWER, and say what pushed them."
     },
     {
      "day": 3,
      "mins": 6,
-     "what": "Draw yourself starting and stopping. Read the book to someone in the family."
+     "what": "Act out starting and stopping. Read the book to someone in the family."
     }
    ],
-   "record": "The finished book, with a drawing and a push arrow on every page.",
+   "record": "The finished book, with something to look at and a push arrow on every page.",
    "setup": [
     {
      "art": "Two sheets of paper folded and tied with thread into a little book, titled 'Start and Stop'.",
@@ -1109,25 +1113,25 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Make the book. 2. A grown-up writes START and STOP on the first two pages. 3. Your child draws one thing for each.",
-     "say": "What did you see start today? What did you see stop? Draw them. Draw an arrow for the push.",
-     "kid": "Draw something that started and something that stopped. Add an arrow for the push.",
+     "do": "1. Make the book. 2. A grown-up writes START and STOP on the first two pages. 3. Your child draws one thing for each, or tells a grown-up, who writes a short line.",
+     "say": "What did you see start today? What did you see stop? Draw each one, or tell me and I will write it. Then add an arrow for the push.",
+     "kid": "Show something that started and something that stopped. Draw it, or tell your grown-up. Add an arrow for the push.",
      "parent": "Good ideas: a mixie starting, a ball stopping, a door being pushed open, a bus stopping."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "A grown-up writes FASTER and SLOWER on the next pages. Your child draws one thing for each.",
-     "say": "What did you see go faster today? What went slower? What pushed them?",
-     "kid": "Draw something going faster and something going slower.",
+     "do": "A grown-up writes FASTER and SLOWER on the next pages. Your child finds one picture for each in an old newspaper or magazine, cuts it out and sticks it on. With no picture, they tell a grown-up, who writes a line.",
+     "say": "Find a picture of something going faster and one going slower. What pushed each one?",
+     "kid": "Cut out a picture of something going faster and one going slower. Stick them in. Add an arrow for the push.",
      "wait": "Do this on day 2."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Your child draws themself starting and stopping, then reads the book to someone.",
-     "say": "Draw yourself starting to walk and stopping. Now read your book to someone in the family.",
-     "kid": "Draw yourself starting and stopping. Read your book to someone.",
+     "do": "Your child acts out starting and stopping while a grown-up takes a photo or writes a line on the last page. Then your child reads the book to someone.",
+     "say": "Show me how you start walking and how you stop. Now read your book to someone in the family.",
+     "kid": "Act out starting and stopping. Then read your book to someone.",
      "wait": "Do this on day 3.",
      "check": {
       "t": "mcq",
@@ -1149,7 +1153,7 @@
    "id": "c1",
    "title": "Stop the Ball on the Line",
    "mins": 15,
-   "context": "This is a design challenge. A ball rolls down a slope. You must make it stop on a line drawn on the floor, without touching it.",
+   "context": "This is a design challenge. A ball rolls down a slope. You must make it stop on a line marked on the floor, without touching it. You will find out how to make a rolling ball stop exactly where you want.",
    "problem": "A ball rolls down a slope made of a tray leaning on two books. Can you make the ball stop on a line, about one big step from the bottom, without anyone touching it?",
    "constraints": [
     "Nobody may touch the ball once it starts.",
@@ -1213,8 +1217,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Why did the ball stop sooner on the towel?",
-     "kid": "Why did the towel help?",
+     "say": "Let's work out why the towel helped.",
+     "kid": "Think about the towel and the ball.",
      "check": {
       "t": "mcq",
       "q": "The ball stopped sooner on a towel than on the bare floor. Why?",

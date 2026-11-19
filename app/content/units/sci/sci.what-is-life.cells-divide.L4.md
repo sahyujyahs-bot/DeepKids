@@ -1,7 +1,7 @@
 # One cell, then two: how you grew and how your body stays new
 `sci.what-is-life.cells-divide.L4`
 
-**Summary.** You started as one cell, smaller than the dot of a pencil. Today you are made of about 30 to 40 trillion cells. No one added them from outside. Each cell copied the instructions inside her, and then split in two. The same copying goes on today. The lining of your gut is replaced in days, and your skin in weeks. In this unit you cut the tip off a young root to find where plants really grow, and you work out how a body can be rebuilt all the time and still be yours.
+**Summary.** You started as one cell smaller than a pencil dot, and now you have about 30 to 40 trillion. Where did they all come from? In this unit you will cut the tip off a young root, fold paper to see how fast doubling grows, and catch some of your own skin cells.
 
 **Intro.** *Look at a young root of a moong sprout, about one finger-joint long. Tomorrow it will be much longer. Where does the new length come from? Does the whole root stretch like a rubber band, or does the root grow in one small place?* Think about your own skin as well. Every day, some of it rubs off on your clothes and in the bath. Yet your skin never wears thin. Something is making new skin as fast as the old skin leaves. In this unit you find out where new cells come from, how one cell becomes two, and how that made you.
 

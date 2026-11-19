@@ -1,7 +1,7 @@
 # Air, sea water and soil: what each is made of, and how smoke turns rain into acid rain
 `sci.chemistry.chemistry-of-earth-and-space.L4`
 
-**Summary.** River water is fresh, and every river runs into the sea. Yet the sea is salty. Your child finds out why with a plate, a pinch of salt and five days of sunshine. Air, sea water and soil are each a mixture, and each has a recipe. Clean rain picks up a gas from the air and becomes a weak acid. Over millions of years that weak acid has broken rock into soil and carried salts to the sea. Smoke from coal and fuel makes rain a much stronger acid, called acid rain. Your child burns match heads under a jar to see how, and tests which stones a sour drop can mark.
+**Summary.** The rivers that fill the sea are fresh, so why is the sea salty? In this unit you will mix a bottle of sea water by its recipe, count out one hundred grains of air, and test which stones a drop of acid marks.
 
 **Intro.** *River water is fresh. Every river runs into the sea, all day and all night. So why is the sea salty?* People asked this question for a very long time. The answer starts in the air, passes through a raindrop and ends in the sea. In this unit you mix a bottle of sea water by its recipe. You count out the recipe of air in rice and dal. You dry fresh-tasting water on a plate for five days, and then taste the plate. You also find out what smoke does to rain, and what that rain does to marble.
 

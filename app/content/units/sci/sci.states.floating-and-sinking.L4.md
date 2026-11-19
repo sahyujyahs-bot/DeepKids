@@ -1,7 +1,7 @@
 # Floating and sinking: why a steel ship floats and a pebble sinks
 `sci.states.floating-and-sinking.L4`
 
-**Summary.** A loaded steel ship can weigh tens of thousands of tonnes and still float, while a pebble that fits in your hand sinks at once. A ball of kitchen foil sinks, but the same foil folded into a small boat floats and carries coins. Your child tests why, with foil boats, a potato in salty water and a bottle that dives. They learn what density is, why a hollow shape floats, and why salty water holds things up better than fresh water. They also learn why ice floats, how submarines and fish rise and sink, and how a pattern like 'heavy things sink' is tested before anyone trusts it.
+**Summary.** A steel ship floats, but a small pebble sinks. A ball of foil sinks, but the same foil folded into a boat floats. Why? In this unit you will build foil boats that carry coins, sort ten kitchen things, and find when a potato floats in salty water.
 
 **Intro.** *Drop a ball of kitchen foil into a bucket of water. It sinks. Now fold the same piece of foil into a little boat and set it on the water. It floats. It is the same foil, with the same weight. What changed?* Nothing was added and nothing was taken away. Only the shape changed. A boat shape holds a big pocket of air, and the pocket pushes aside a lot of water. In this unit you find out how much water a thing must push aside to float. You test foil boats with coins, you float a potato in salty water, and you make a bottle diver that sinks and rises when you squeeze it.
 

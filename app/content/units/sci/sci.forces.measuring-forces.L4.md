@@ -1,7 +1,7 @@
 # Measuring forces with care: arrows, sagging lines and how sure a number can be
 `sci.forces.measuring-forces.L4`
 
-**Summary.** A bottle that weighs only 5 newtons hangs in the middle of a washing line. Pull the line as flat as you can, and each end of the line pulls with 13 newtons or more. How can the ends pull harder than the whole bottle weighs? You will test this with a rubber-band gauge that you calibrate yourself, then ask how sure any measurement can be. You will also measure how strongly a water surface holds on to a coin, which is only a few thousandths of a newton, and meet forces that change when things move.
+**Summary.** A line holding a weight must pull harder as it gets flatter. How much harder? In this unit you will test a sagging line, draw force arrows around your house, read one pull ten times to see how the numbers spread, and play a game about which way a net force goes.
 
 **Intro.** *Hang a heavy wet shirt in the middle of a washing line. Now try to pull the line so tight that the shirt does not dip at all. You can pull as hard as you like, and the line still sags. Why can you never get it perfectly straight?* This looks like a small puzzle, but it hides a big idea. A force has a direction as well as a size. The same weight can need a small pull or a huge pull, depending on the angle of the line that holds it. In this unit, you will draw forces as arrows and measure the sagging line with a gauge that you test yourself. Then you will ask a harder question. How much can we trust any number that a tool gives us?
 

@@ -1,7 +1,7 @@
 # Animals without backbones: how soft bodies hold their shape
 `sci.animals.invertebrates.L3`
 
-**Summary.** About 95 out of every 100 kinds of animal have no backbone. Worms, snails, crabs, spiders, insects, starfish and jellyfish have no bones at all. They hold their soft bodies in shape in other ways. A worm uses liquid held tight inside them, and a snail grows a shell. Crabs, spiders and insects wear hard armour on the outside, and the sea holds up a jellyfish. These animals also feel, remember and decide, each with a body very different from ours.
+**Summary.** Most animals have no backbone at all, so how does a soft worm keep its shape? In this unit you will count the animals that share your home, test how water keeps a worm firm, tell insects from spiders by counting legs, and make a jellyfish in a bottle.
 
 **Intro.** *Bend forward and ask someone to run a finger gently down the middle of your back. Can you feel the row of bumps? Now think of an earthworm. Where are their bumps?* The bumps you felt are your backbone. It is a chain of small bones that holds you up. A worm has no backbone at all. Neither does a snail, a spider or an ant. Yet a worm can push through hard soil, and an ant can carry a crumb heavier than themself. So how do they hold their bodies up? And here is a surprise. If you counted every kind of animal on Earth, most of them would have no backbone.
 

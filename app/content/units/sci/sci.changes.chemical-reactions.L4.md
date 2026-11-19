@@ -1,7 +1,7 @@
 # Chemical reactions: how vinegar, baking soda and rusting iron make new substances
 `sci.changes.chemical-reactions.L4`
 
-**Summary.** Stir baking soda into water and dry the water away, and the baking soda comes back. Stir baking soda into vinegar, and it fizzes. When that liquid is dried, the white powder left behind is no longer baking soda. A chemical reaction has made new substances. Your child tests this leftover powder and learns five signs of a reaction. They also watch steel wool rust inside an upturned glass, and measure how much of the air the rusting uses.
+**Summary.** Dry baking soda out of water and it comes back. Dry it out of vinegar and it does not. Why? In this unit you will try six mixes and look for signs of a reaction, test the powder left after the fizz, and build atom models of water and rust.
 
 **Intro.** *A new iron tawa is grey and hard. Leave it wet for a week, and brown flakes cover it. Nobody painted it. So where did the brown flakes come from?* The iron joined with oxygen, a gas in the air, and with water. Together they made a new substance called rust. Rust is brown and crumbly, but iron is grey and hard. A change that makes a new substance is called a chemical reaction. In this unit you make vinegar and baking soda fizz. Then you test whether the baking soda is still there after the fizz. You also find out how much of the air a piece of rusting steel uses up.
 

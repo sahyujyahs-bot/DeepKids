@@ -1,7 +1,7 @@
 # Friction: how hard is the grip, and what decides it?
 `sci.forces.friction.L4`
 
-**Summary.** Load a box with more weight and it needs a harder pull to move. Turn the same box onto its narrow side, so less of it touches the floor, and the pull barely changes. Friction grows with how hard two things press together, not with how big the touching face is. That is because two surfaces really touch only at tiny spots, and pressing harder makes more spots touch. Three turns of thread round a pencil can hold a bottle of water, because each turn makes the grip several times stronger. Scientists still cannot work out friction from atoms alone.
+**Summary.** Wind a thread round a bottle and each extra turn makes the grip stronger. How many turns does it take to hold it? In this unit you will pull things with a rubber band gauge, see how pressing harder changes friction, and compare sliding with rolling on marbles.
 
 **Intro.** *Try this. Lay your hand flat on a table and press down gently. Slide your hand along. Now press down hard and slide again. When was it harder to slide, and why do you think so?* At a harbour, one person can stop a huge boat with a rope wound round an iron post. Nobody's arm is strong enough to do that alone. In this unit you will find out how the rope and the post do it. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.
 

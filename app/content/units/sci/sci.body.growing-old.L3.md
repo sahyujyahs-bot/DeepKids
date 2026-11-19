@@ -1,7 +1,7 @@
 # Growing old: how a body changes from baby to elder
 `sci.body.growing-old.L3`
 
-**Summary.** A grandmother holds her phone far from her face to read it, while a child reads it close up. Every person goes through the same stages: baby, child, teenager, adult and older adult. As the years pass, hair turns grey, skin springs back more slowly, and the lens in the eye gets stiffer. Your body makes millions of new cells every second, but some parts, like the middle of the eye lens, are never replaced. Scientists still argue about why bodies age at all.
+**Summary.** How does a body change from a baby to an elder? In this unit you will test how close people of different ages can read, try the snap-back skin test, compare hands across time, and interview an elder about how they have changed.
 
 **Intro.** *Look at the back of your hand. Now look at the back of the hand of the oldest person you know, or a photo of one. What is different? What is the same?* Every grandparent you know was once a baby. They had no teeth. They could not walk. Their head was huge compared to their body. One day you will be as old as them. Your hair may turn white, and your skin may fold into soft lines. Why does a body change like this? And how much of you is new, and how much is as old as you are?
 

@@ -1,7 +1,7 @@
 # The solar system: eight planets, one Sun, and Earth is one of them
 `sci.sky.solar-system.L3`
 
-**Summary.** The Earth is a planet. It is one of eight planets that go round the Sun. In order from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. The first four are small and rocky. The last four are giants, made mostly of gas and ice. All eight are lit and warmed by the same Sun. Its light spreads out as it travels, so the further a planet is, the weaker its sunlight. Neptune gets about 900 times less sunlight than the Earth. The Earth is at a distance where water can stay liquid, and that is part of why life could begin here.
+**Summary.** Neptune goes round the same Sun as the Earth, so why is it so cold and dim there? In this unit you will test how light spreads out with distance, line up the planets in a 3-metre model, and roll a marble to see what keeps a planet going round.
 
 **Intro.** *Stand in a sunny patch by a window and hold out your hand. Feel the warmth. That warmth came from the Sun. The same Sun is shining on seven other planets right now. Do they all feel the same warmth as your hand?* In this unit you find out whether all the planets get the same warmth from the Sun. You meet the eight planets and learn that the Earth is one of them. With a phone torch and a sheet of squared paper, you measure how light spreads out as it travels. That test shows why Mercury is scorching and Neptune is freezing and dark. You also hear how Galileo looked at Venus through a telescope and found that not everything goes round the Earth.
 

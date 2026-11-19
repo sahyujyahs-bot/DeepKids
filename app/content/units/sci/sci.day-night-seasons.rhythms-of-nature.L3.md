@@ -1,7 +1,7 @@
 # Rhythms of nature: how plants and birds keep time
 `sci.day-night-seasons.rhythms-of-nature.L3`
 
-**Summary.** A bean plant lifts their leaves in the morning and lowers them at night, even inside a dark box. They keep time with a clock inside their body. Many living things have one. It runs on a rhythm of about 24 hours, and sunlight sets it right each morning. Flowers use their clocks to open when their visitors come: the lotus at dawn, jasmine in the evening, pavazhamalli at night. Over the year, living things also read the length of the day. Shorter days tell barn swallows to fly to India for the winter, and longer nights tell sevanthi plants to flower. So nature keeps a daily rhythm and a yearly rhythm, and living things get ready for each change before it comes.
+**Summary.** A bean plant folds its leaves at night. Does it need to see the morning to know when? In this unit you will grow beans and record their leaves through the day, test them in a dark box, and make a flower clock.
 
 **Intro.** *Look at a bean plant at noon, and their leaves are spread out flat. Look again at bedtime, and the same leaves hang down. Put the plant in a dark box, where no light can reach. Will the leaves still lift in the morning? How could a plant tell when morning is coming, without seeing the sky?* People have noticed these daily movements for thousands of years. Gardeners called them the 'sleep' of leaves. In this unit you grow a bean plant and test them yourself. You find out that living things carry a clock inside them. You also find out how birds know when to fly thousands of kilometres, and how flowers know when to open.
 

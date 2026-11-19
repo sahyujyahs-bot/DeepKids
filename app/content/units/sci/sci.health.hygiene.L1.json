@@ -9,7 +9,7 @@
  ],
  "playtest": "Walked through every card, game, activity and experiment as a parent reading aloud in a flat. Fixed: the three videos had no checked address, so they are left out. The hand wash now has the same six parts everywhere. Wash Time now says who keeps a tied card and what happens with no cards. The Back Teeth Race has a paper substitute for a dice and plain wording. The tongue test schedule matches its steps and its check. The cloth test uses a new square for each place. A repeated 20-second check, a second biscuit question, a plaque fill-in and a doubled crow joke were replaced. Nothing needs to be bought.",
  "summary": {
-  "text": "Eat a biscuit, swish some water round your mouth, and look in a mirror. The front teeth look clean, but crumbs still sit in the grooves of the back teeth. Tiny living beings in your mouth eat those crumbs. Your child finds out what water, soap, a bath and a toothbrush each take away, and why. They learn when to wash their hands, how to brush the back teeth, and why we do it every day.",
+  "text": "After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this unit you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.",
   "art": "A child holding a small mirror and a torch, looking at their own back teeth, with a half-eaten biscuit and a toothbrush on the table."
  },
  "intro": {
@@ -265,7 +265,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about when to wash our hands with soap. Each card shows a moment in the day. If it is a time to wash, everyone pretends to wash their hands, as fast as they can.",
+   "context": "This is a card game about when to wash our hands with soap. You will find out which moments in the day need soap, and which do not. Each card shows a moment. If it is a time to wash, everyone pretends to wash their hands, as fast as they can.",
    "printables": [
     {
      "kind": "cards",
@@ -362,14 +362,14 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Mix them and stack them face down. 3. Explain the rules.",
      "say": "Each card shows a moment in the day. If it is a time to wash your hands, rub your hands as fast as you can. If not, keep very still.",
-     "kid": "Turn a card. Is it a time to wash? Rub your hands fast! If not, keep still."
+     "kid": "Listen to how the game works. Then you are ready to play."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Take turns to turn a card and read it. Everyone washes or keeps still. Read the back to check.",
      "say": "Is this a time to wash? Why? Let's read the back.",
-     "kid": "Wash or keep still? Say why. Read the back.",
+     "kid": "Rub your hands fast if it is a time to wash. Keep still if it is not.",
      "check": {
       "t": "mcq",
       "q": "The card says 'After stroking a dog or a cat'. Wash or keep still?",
@@ -399,7 +399,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a race along a path of 20 teeth. Some squares help you, because you cleaned well. Some send you back, because food was left behind. The first to reach the last tooth wins.",
+   "context": "This is a race along a path of 20 teeth. Some squares help you, because you cleaned well. Some send you back, because food was left behind. The first to reach the last tooth wins. You will see which habits help your back teeth and which do not.",
    "printables": [
     {
      "kind": "board",
@@ -439,7 +439,7 @@
     }
    ],
    "rules": [
-    "Draw the 20 squares as a winding path of teeth on a big sheet. Write or draw what each square says.",
+    "Draw the 20 squares as a winding path of teeth on a big sheet. Write what each square says. Or write each square on its own bit of paper and lay them in a line.",
     "Each player puts their token on square 1.",
     "Take turns to throw a dice (from a ludo set). No dice? Write 1, 2 and 3 on three bits of paper, fold them, and pick one each turn. Move that many squares.",
     "If you land on a square with a message, a grown-up reads it, and you do what it says.",
@@ -461,16 +461,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw the path and write the squares. 2. Cut out the tokens. 3. Find a dice.",
+     "do": "1. Make the path and write the squares. 2. Cut out the tokens. 3. Find a dice.",
      "say": "This is a race along 20 teeth. Good cleaning helps you forward. Food left behind sends you back.",
-     "kid": "Draw the path of teeth. Pick a token. Find a dice."
+     "kid": "Make the path of teeth. Pick a token. Find a dice."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Play, taking turns. When someone lands on a message, ask why it helps or why it sends them back.",
-     "say": "You landed on 'You only brushed the front teeth'. Why does that send you back?",
-     "kid": "Throw the dice. Move. Do what the square says. Say why.",
+     "say": "Read your square aloud. Why does it help you, or send you back?",
+     "kid": "Throw the dice. Move. Do what the square says.",
      "check": {
       "t": "mcq",
       "q": "Why does 'Crumbs stuck in a groove' make you miss a turn?",
@@ -488,7 +488,7 @@
      "mins": 1,
      "do": "The first to reach square 20 wins.",
      "say": "You reached the clean back tooth! What helped you most on the way?",
-     "kid": "Who reached the clean tooth first? What helped most?"
+     "kid": "Keep playing until someone reaches the clean tooth. Then name the square that helped you most."
     }
    ]
   }
@@ -781,7 +781,7 @@
      "qty": 1
     },
     {
-     "item": "a sheet of paper and two crayons of different colours",
+     "item": "a sheet of paper and a pencil",
      "qty": 1
     }
    ],
@@ -792,7 +792,7 @@
      "what": "Look at the teeth. Eat a biscuit, rinse with water, then brush. Look at the teeth again after each step."
     }
    ],
-   "record": "A tooth map: draw a big U shape for the teeth. Use one colour to mark where crumbs were after rinsing. Use a second colour to mark where crumbs were after brushing.",
+   "record": "A results table on paper. The rows are front teeth, tops of the back teeth, and between the teeth. The columns are after eating, after the rinse, and after brushing. In each box write crumbs or clean. A grown-up can write for you.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -845,7 +845,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Shine the torch into your child's mouth while they hold the mirror. 2. Find the front teeth and the back teeth together. 3. Draw a big U on the paper. Mark F at the front and B at each back end.",
+     "do": "1. Shine the torch into your child's mouth while they hold the mirror. 2. Find the front teeth and the back teeth together. 3. On the paper, write three rows down the side: front teeth, tops of the back teeth, between the teeth.",
      "say": "Let's look inside your mouth. These are your front teeth. They are thin and smooth. These are your back teeth. Look at the tops. What do you see?",
      "kid": "Look in the mirror. Find your front teeth. Now find your back teeth. Look at their tops.",
      "ask": [
@@ -865,7 +865,7 @@
      "mins": 3,
      "do": "Ask your child to guess before they eat. Wait for a guess and a reason.",
      "say": "Soon you will eat a biscuit. Then you will swish water round your mouth. Will the water wash all the crumbs away? Where might crumbs stay? Why do you think so?",
-     "kid": "You will eat a biscuit, then swish water. Will the water clean every tooth? Guess. Say why.",
+     "kid": "Guess: after you eat the biscuit and swish water, will every tooth be clean?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -881,9 +881,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child eats the biscuit and chews it well. 2. No drinking yet. 3. Shine the torch and look at the front teeth, the tops of the back teeth, and between the teeth.",
+     "do": "1. Your child eats the biscuit and chews it well. 2. No drinking yet. 3. Shine the torch and look at the front teeth, the tops of the back teeth, and between the teeth. 4. Write crumbs or clean for each place in the after eating column.",
      "say": "Eat the biscuit and chew it well. Don't drink anything yet. Now open wide. Where can you see crumbs?",
-     "kid": "Eat the biscuit. Chew it well. Don't drink yet. Open wide. Where are the crumbs?",
+     "kid": "Eat the biscuit and chew it well. Do not drink yet. Then open wide for the torch.",
      "ask": [
       {
        "q": "Where are the crumbs?",
@@ -899,9 +899,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Your child takes a big sip of water. 2. They swish it hard round the mouth while you count to ten. 3. They spit it into the sink. 4. Do it once more. 5. Look again with the torch. 6. Colour any crumbs on the tooth map in the first colour.",
+     "do": "1. Your child takes a big sip of water. 2. They swish it hard round the mouth while you count to ten. 3. They spit it into the sink. 4. Do it once more. 5. Look again with the torch. 6. Write crumbs or clean for each place in the after the rinse column.",
      "say": "Take a big sip. Swish it all round while I count to ten. Spit. Once more. Now open wide. What has gone, and what is still there?",
-     "kid": "Take a big sip. Swish it round. Count to ten. Spit. Do it again. Look. What is still there?",
+     "kid": "Take a big sip. Swish it round. Count to ten. Spit. Do it again. Then open wide for the torch.",
      "ask": [
       {
        "q": "What did the water clean? What did it leave?",
@@ -917,7 +917,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Your child brushes with their toothbrush and a little water, or a smear of toothpaste. 2. Remind them to put the bristles on top of the back teeth. 3. Brush gently for about one minute. 4. Look again. 5. Colour anything left in the second colour.",
+     "do": "1. Your child brushes with their toothbrush and a little water, or a smear of toothpaste. 2. Remind them to put the bristles on top of the back teeth. 3. Brush gently for about one minute. 4. Look again. 5. Write crumbs or clean for each place in the after brushing column.",
      "say": "Now brush. Put the bristles right on top of the back teeth. Brush gently, back and forth. Now let's look. What is left?",
      "kid": "Brush your teeth. Put the bristles on top of the back teeth. Brush gently. Now look. What is left?",
      "ask": [
@@ -935,9 +935,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say what they think, what they saw, and why. Then read the tooth map together.",
-     "say": "So what do you think now? What did you see? Why do you think the water left crumbs in the grooves, and the brush took them out?",
-     "kid": "What did you find out? What did you see? Why did the brush work better at the back?",
+     "do": "Ask your child to say what they think, what they saw, and why. Then read the results table together.",
+     "say": "So what do you think now? What did you see?",
+     "kid": "Look at your results table. Tell a grown-up what you found.",
      "ask": [
       {
        "q": "Why did the brush clean the grooves?",
@@ -957,7 +957,7 @@
        "On the tongue"
       ],
       "a": 1,
-      "why": "Water runs over the smooth front teeth and washes them. It flows over the grooves of the back teeth without reaching inside, so crumbs stay there. If you picked the front teeth, look again at the tooth map: the front teeth were clean after the rinse."
+      "why": "Water runs over the smooth front teeth and washes them. It flows over the grooves of the back teeth without reaching inside, so crumbs stay there. If you picked the front teeth, look again at your results table: the front teeth were clean after the rinse."
      },
      "think": "Tiny living beings in your mouth eat leftover crumbs. Where in your mouth would they find the most food?"
     }
@@ -998,7 +998,7 @@
      "what": "Wipe three places before the bath and three after. Compare the cloths."
     }
    ],
-   "record": "Lay the six cloth squares on paper in two rows: before the bath and after the bath. Draw them, or keep them dry in an envelope.",
+   "record": "Lay the six cloth squares on paper in two rows: before the bath and after the bath. Take a photo of the rows, or keep the squares dry in an envelope.",
    "setup": [
     {
      "art": "A grown-up wiping the back of a child's neck with a small damp white cloth square, with two more squares on a sheet of paper.",
@@ -1015,7 +1015,7 @@
      "mins": 3,
      "do": "Before the bath, ask your child to guess. Wait for a guess and a reason.",
      "say": "Your skin looks clean. If I wipe it with a white cloth, will the cloth get dirty? Where might it get most dirty? Why do you think so?",
-     "kid": "Your skin looks clean. Will a white cloth get dirty on it? Guess. Say why.",
+     "kid": "Guess: will a white cloth get dirty when it wipes your clean-looking skin?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1048,8 +1048,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Look at the two rows together. Ask your child what they think, what they see, and why.",
-     "say": "Look at the two rows. Which cloths are dirtier? What do you think the bath took away? Why?",
-     "kid": "Look at both rows. Which cloths are dirty? What did the bath take away?",
+     "say": "Look at the two rows. What is different? Why do you think so?",
+     "kid": "Put the two rows side by side. Compare the cloths from before and after.",
      "ask": [
       {
        "q": "What did the bath wash off?",
@@ -1098,7 +1098,7 @@
      "qty": 1
     },
     {
-     "item": "a crayon",
+     "item": "a pencil",
      "qty": 1
     }
    ],
@@ -1106,7 +1106,7 @@
     {
      "day": 1,
      "mins": 6,
-     "what": "The night before, guess. In the morning, feel the back teeth before brushing. Brush. Feel again. Colour the boxes."
+     "what": "The night before, guess. In the morning, feel the back teeth before brushing. Brush. Feel again. Write in the boxes."
     },
     {
      "day": 2,
@@ -1114,7 +1114,7 @@
      "what": "Do the same again. Has the fuzz come back?"
     }
    ],
-   "record": "Two rows of two boxes. Draw a wavy line in a box for fuzzy, and a smooth line for smooth.",
+   "record": "Two rows of two boxes. Write fuzzy or smooth in each box. A grown-up can write for you.",
    "setup": [
     {
      "art": "A sleepy child just out of bed, running their tongue over their teeth with a puzzled face.",
@@ -1131,7 +1131,7 @@
      "mins": 2,
      "do": "The night before, ask your child to guess. Wait for a guess and a reason.",
      "say": "Tomorrow morning, before you brush, feel your back teeth with your tongue. Will they feel smooth or fuzzy? And after you brush? Why do you think so?",
-     "kid": "Tomorrow morning, feel your teeth with your tongue. Smooth or fuzzy? Guess. Say why.",
+     "kid": "Guess: tomorrow morning, will your back teeth feel smooth or fuzzy?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1146,18 +1146,18 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. On the first morning, before brushing, your child runs their tongue over the back teeth. 2. They draw a wavy or smooth line. 3. They brush. 4. They feel again and draw again.",
+     "do": "1. On the first morning, before brushing, your child runs their tongue over the back teeth. 2. They say smooth or fuzzy, and you write it in a box. 3. They brush. 4. They feel again, and you write it in the next box.",
      "say": "Before you brush, run your tongue over your back teeth. Smooth or fuzzy? Now brush. Feel again. Smooth or fuzzy?",
-     "kid": "Feel your back teeth with your tongue. Smooth or fuzzy? Draw it. Now brush. Feel again. Draw it.",
+     "kid": "Feel your back teeth with your tongue. Say smooth or fuzzy. Now brush. Feel again. Say smooth or fuzzy.",
      "wait": "Do the next step tomorrow morning, before brushing.",
      "parent": "Most people feel a soft fuzz in the morning, mainly near the gums. After brushing, the teeth feel smooth and squeaky."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. On the second morning, feel the back teeth again before brushing. 2. Draw it. 3. Brush and feel again. 4. Talk about what you found.",
-     "say": "You brushed last night. Is the fuzz back this morning? What do you think the fuzz is? Why does it come back?",
-     "kid": "Feel your back teeth again. Is the fuzz back? What do you think the fuzz is?",
+     "do": "1. On the second morning, feel the back teeth again before brushing. 2. Write it in the box. 3. Brush and feel again. 4. Talk about what you found.",
+     "say": "You brushed last night. Is the fuzz back this morning?",
+     "kid": "Feel your back teeth again before you brush. Is the fuzz back?",
      "ask": [
       {
        "q": "Why did the fuzz come back?",
@@ -1189,7 +1189,7 @@
    "title": "The Six-Part Hand Wash, with a song",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you learn to wash every part of your hands with soap, while you sing Happy Birthday twice.",
+   "context": "In this activity you learn to wash every part of your hands with soap, while you sing Happy Birthday twice. You will find out which parts of your hands are easiest to forget.",
    "materials": [
     {
      "item": "soap (a bar or liquid soap)",
@@ -1211,7 +1211,7 @@
      "what": "Learn the six parts of a hand wash. Wash while singing Happy Birthday twice."
     }
    ],
-   "record": "Draw your two hands. Colour the part that is easiest to forget.",
+   "record": "Teach the six parts to someone at home. Tell them which part is easiest to forget.",
    "setup": [
     {
      "art": "Two soapy hands rubbing palm to palm, then one palm rubbing over the back of the other hand.",
@@ -1231,8 +1231,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Wet your hands and your child's hands. 2. Rub soap until it foams. 3. Show the six parts slowly: palms, backs, between the fingers, backs of the fingers, thumbs, and fingertips scratched against the palm.",
-     "say": "Watch my hands. Palms together. Backs of the hands. Fingers in between each other. Backs of the fingers. Each thumb. Now the fingertips. Scratch them against the palm.",
-     "kid": "Wet your hands. Rub on soap. Palms. Backs. Between the fingers. Backs of the fingers. Thumbs. Fingertips.",
+     "say": "Watch my hands. Palms together. Backs of the hands. Fingers laced together. Backs of the fingers, curled into the other palm. Each thumb. Now the fingertips. Scratch them against the palm.",
+     "kid": "Copy my hands, one part at a time. Say the name of each part as you rub it.",
      "parent": "The thumbs, the fingertips and the backs of the hands are the parts most people forget."
     },
     {
@@ -1256,8 +1256,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about when to wash hands with soap.",
-     "say": "When do you think we should wash our hands with soap? Why then?",
-     "kid": "When should you wash your hands? Say as many times as you can.",
+     "say": "Think about your day, from waking up to bedtime. Which times need soap?",
+     "kid": "Think about your day. Say as many times as you can.",
      "ask": [
       {
        "q": "When do we wash our hands?",
@@ -1278,7 +1278,7 @@
    "title": "What Hides Under Your Nails?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a grown-up gently cleans under your nails onto white paper. You see what was hiding there. Then you scrub your nails and look again.",
+   "context": "In this activity a grown-up gently cleans under your nails onto white paper. You will find out if hands that look clean hide dirt. Then you scrub your nails and look again.",
    "safety": "A grown-up holds the toothpick and the nail cutter.",
    "materials": [
     {
@@ -1305,7 +1305,7 @@
      "what": "Clean under the nails onto paper. Scrub. Look again. Trim the nails."
     }
    ],
-   "record": "Circle the grey bits on the paper with a crayon, and write the date.",
+   "record": "Keep the paper. A grown-up writes the date and the number of grey bits on it.",
    "setup": [
     {
      "art": "A grown-up gently running a toothpick under a child's fingernail, over a sheet of white paper with tiny grey bits on it.",
@@ -1323,7 +1323,7 @@
      "adult": true,
      "do": "1. Do this after your child has played. 2. Hold your child's hand over the white paper. 3. Gently run the toothpick under each nail, without pushing in. 4. Look at the paper.",
      "say": "Your nails look clean. What do you think is hiding under them? Let's see. Now look at the paper.",
-     "kid": "Ask a grown-up to help. Hold your hand over the paper. What falls out from under your nails?",
+     "kid": "Hold your hand still over the paper while a grown-up cleans under your nails.",
      "ask": [
       {
        "q": "What can you see on the paper?",
@@ -1369,14 +1369,10 @@
    "title": "Who Else Keeps Clean?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you watch for animals keeping clean, and act out how each one does it. Humans are one of many animals who keep clean.",
+   "context": "In this activity you act out how animals keep clean, and watch for a bird or an ant cleaning herself. You will find out that every animal has a different way to stay clean, just as we use soap.",
    "materials": [
     {
      "item": "a window or balcony where crows, pigeons or sparrows come, if you have one",
-     "qty": 1
-    },
-    {
-     "item": "paper and crayons",
      "qty": 1
     }
    ],
@@ -1387,7 +1383,7 @@
      "what": "Act out five animals keeping clean. Watch for a bird or an ant cleaning, if one is there."
     }
    ],
-   "record": "Draw one animal keeping clean, and yourself keeping clean.",
+   "record": "Act out your favourite animal for someone at home, and say how that animal keeps clean.",
    "setup": [
     {
      "art": "A child licking the back of their hand and wiping their face, pretending to be a cat, while a grown-up laughs.",
@@ -1403,7 +1399,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Name each animal. 2. Ask your child to guess how that animal keeps clean. 3. Then tell them, and you both act it out.",
-     "say": "How do you think a cat keeps clean? She licks her fur. A sparrow rolls in dry dust. An elephant sprays water with her trunk. An ant pulls her feelers through a tiny comb on her front leg.",
+     "say": "How do you think a cat keeps clean? Guess first. Then I will tell you. A cat licks her fur. A sparrow rolls in dry dust. An elephant sprays water with her trunk. An ant pulls her feelers through a tiny comb on her front leg.",
      "kid": "How does a cat keep clean? Act it out. Now a sparrow in the dust. Now an elephant spraying water.",
      "ask": [
       {
@@ -1420,10 +1416,10 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Draw what you saw, or draw an animal you acted out.",
+     "do": "1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Tell your child what you saw, or act out an animal again.",
      "say": "Let's watch the window for a little while. Can you see a bird combing their feathers with their beak?",
-     "kid": "Look out of the window. Is a bird combing their feathers with their beak? Draw what you see.",
-     "parent": "Crows and pigeons often preen on ledges. If no bird comes, that is fine: draw an animal you acted out. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days."
+     "kid": "Look out of the window. Is a bird combing her feathers with her beak? Tell a grown-up what you see.",
+     "parent": "Crows and pigeons often preen on ledges. If no bird comes, that is fine: act out an animal again. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days."
     }
    ]
   },
@@ -1446,7 +1442,7 @@
      "what": "Say what each thing is for. Sort them into 'only mine' and 'we can share'."
     }
    ],
-   "record": "Draw your own toothbrush and towel, with your name on them.",
+   "record": "Write your name on a strip of tape. Stick it on your own toothbrush and your own towel.",
    "setup": [
     {
      "art": "A toothbrush, a towel, a comb, a bar of soap, a nail cutter and a mug laid out on a mat.",
@@ -1463,7 +1459,7 @@
      "mins": 4,
      "do": "1. Lay out the things. 2. Your child picks each one up and says what it is for.",
      "say": "What is this for? And this? Which part of your body does each one keep clean?",
-     "kid": "Pick up each thing. What is it for? Which part of you does it clean?",
+     "kid": "Pick up each thing. What is it for? Which part of you does it look after?",
      "ask": [
       {
        "q": "What is a nail cutter for?",
@@ -1479,7 +1475,7 @@
      "mins": 4,
      "do": "Your child sorts the things into 'only mine' and 'we can share'. Talk about each choice.",
      "say": "Which of these should only you use? Which can the family share? Why?",
-     "kid": "Put each thing in a group: only mine, or we can share. Say why.",
+     "kid": "Put each thing in a group: only mine, or we can share.",
      "ask": [
       {
        "q": "Why should only you use your toothbrush?",
@@ -1490,7 +1486,7 @@
        ]
       }
      ],
-     "parent": "A toothbrush should never be shared, because it carries the bacteria and any blood from one mouth to another. Towels are best kept one each. A bucket, mug and soap bar are usually shared, and are rinsed after use."
+     "parent": "A toothbrush should never be shared, because it carries the bacteria and any blood from one mouth to another. Towels, combs and nail cutters are best kept one each. A bucket, mug and soap bar are usually shared, and are rinsed after use."
     }
    ]
   }
@@ -1501,7 +1497,7 @@
    "title": "My Clean Week chart",
    "mins": 28,
    "days": 7,
-   "context": "In this project you colour a chart every day for a week. It shows when you brushed, bathed and washed your hands before meals.",
+   "context": "In this project you colour a chart every day for a week. It shows when you brushed, bathed and washed your hands before meals. You will find out which job you forget most.",
    "problem": "It is easy to forget a clean-up job. A chart shows which jobs you remember and which ones you forget. For one week, you colour a box each time you brush, have a bath, or wash your hands before a meal. At the end you count the boxes in each row.",
    "materials": [
     {
@@ -1517,7 +1513,7 @@
     {
      "day": 1,
      "mins": 6,
-     "what": "Draw the chart. Draw a picture at the start of each row. Colour today's boxes."
+     "what": "Draw the chart. Write or draw a label at the start of each row. Colour today's boxes."
     },
     {
      "day": 2,
@@ -1565,9 +1561,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Draw a grid with your child: seven boxes across, one for each day, and four rows. 2. The four rows are brush in the morning, brush at night, have a bath, and wash hands before a meal. They draw a small picture at the start of each row. 3. Colour today's boxes at bedtime.",
+     "do": "1. Draw a grid with your child: seven boxes across, one for each day, and four rows. 2. The four rows are brush in the morning, brush at night, have a bath, and wash hands before a meal. They write the name of each row at its start, or draw a small picture. 3. Colour today's boxes at bedtime.",
      "say": "This chart shows a whole week of keeping clean. Each night we colour what you did today.",
-     "kid": "Draw a picture for each row. Tonight, colour what you did today."
+     "kid": "Write or draw a label for each row. Tonight, colour what you did today."
     },
     {
      "id": "s2",
@@ -1650,7 +1646,7 @@
      "mins": 5,
      "do": "1. Tell your child how long they brushed. 2. Talk about ideas for knowing when two minutes are up.",
      "say": "You brushed for this long. Dentists say about two minutes. How could you know when two minutes are up, without looking at a clock?",
-     "kid": "How long did you brush? How could you know when two minutes are up?",
+     "kid": "Listen to how long you brushed. Think of a way to know when two minutes are up.",
      "ask": [
       {
        "q": "What is your idea?",

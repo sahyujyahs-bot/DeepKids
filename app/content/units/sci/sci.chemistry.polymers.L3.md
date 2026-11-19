@@ -1,7 +1,7 @@
 # Polymers: the very long molecules in plastic, rubber, silk and wool
 `sci.chemistry.polymers.L3`
 
-**Summary.** White glue pours off a spoon like a thick liquid. Stir in a little borax water, and the same glue becomes slime you can hold, stretch and bounce. Glue, plastic, rubber, silk, wool and your own hair are made of polymers: molecules that are very long chains of small pieces joined end to end. Long chains tangle, and chains tied to each other at a few places can turn a runny liquid into something you can hold. In this unit you make slime and test how the number of ties changes it.
+**Summary.** White glue pours like a liquid, yet a little borax water turns it into slime you can stretch. Why? In this unit you will make slime, test how much borax gives the firmest slime, and stretch a plastic milk packet strip to see whether every part stretches the same.
 
 **Intro.** *Hold a spoonful of white glue over a plate and tip it slowly. Watch it drip. Glue flows like a liquid. Today the same glue will become something you can pick up and roll into a ball. What could change inside it?* Water and glue are both liquids, but glue drips slowly and makes threads. That is a clue about what glue is made of. Its molecules are not small and round like water molecules. They are very long chains. In this unit you find out what happens when long chains tangle, and when they are tied to each other.
 

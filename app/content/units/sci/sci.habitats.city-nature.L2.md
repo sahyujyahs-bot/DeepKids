@@ -1,7 +1,7 @@
 # Nature in the city: the birds, trees and animals who share our streets
 `sci.habitats.city-nature.L2`
 
-**Summary.** On a quiet holiday morning you hear birds that you never hear on a busy school day. They were there all along. A city is a habitat: crows, pigeons, koels, squirrels, street dogs, bees and neem trees all live in it with us. Your child tests how well soft words are heard over loud noise, and finds out why many city birds sing differently.
+**Summary.** On a quiet holiday morning you hear birds you never notice on a busy school day. In this unit you will test whether a soft voice can be heard over traffic noise, call across a noisy game, and watch from a window to see who shares your street.
 
 **Intro.** *On a quiet holiday morning, you may hear birds you never hear on a busy school day. Were the birds hiding on the busy days?* The birds were not hiding. The noise of buses, autos and horns covered their songs, so we did not hear them. A town or a city is a habitat, a place where living beings find what they need. Crows, pigeons, squirrels, street dogs, bees and trees all live in it with us. In this unit we meet them, and we test what noise does to a voice. Then we find out what many city birds do about the noise.
 

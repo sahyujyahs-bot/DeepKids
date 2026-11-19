@@ -1,7 +1,7 @@
 # Soil: made from broken rock and dead plants, and mixed by worms
 `sci.planet-earth.soil-and-crops.L3`
 
-**Summary.** A handful of soil looks like one brown material, but it is a mix. Most of it is rock, broken into grains so small you can hardly see them. Some of it is humus, the dark remains of dead leaves, roots and animals. Air and water fill the gaps between the grains, and earthworms and countless tiny living things live there. Different rocks make different soils, so farmers in India grow rice in river soil, ragi in red soil and cotton in black soil.
+**Summary.** What is a handful of soil really made of? In this unit you will look at, feel and smell soil, shake it in a jar and watch it settle into layers, and test whether worm tunnels help rain soak into packed soil.
 
 **Intro.** *Put a spoon of soil from a flower pot into a glass of water and stir it. Some grains sink at once. The water turns cloudy and stays cloudy. Small dark bits float on top. Why does soil come apart like this in water?* Soil comes apart in water because it was never one thing. It is a mix of rock grains of different sizes and pieces of plants that were once alive. In this unit you shake soil in a jar and watch it sort itself into layers. You find out how rock becomes sand and clay, how dead leaves become humus, and how earthworms mix it all. You also find out why different soils in India grow different crops.
 

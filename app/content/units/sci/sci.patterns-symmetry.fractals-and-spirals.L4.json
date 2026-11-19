@@ -3,7 +3,7 @@
  "title": "Fractals and spirals: how rough a coast is, and how leaves turn round a plant stem",
  "level": 4,
  "summary": {
-  "text": "Your child draws a straight line and a crinkly coast on squared paper, and counts the boxes each one touches as the boxes get smaller. Each time the boxes are halved, the straight line touches twice as many. A page that is coloured in completely would need 4 times as many. The coast's count goes up by a number in between, and that gives the coast a roughness number between 1 and 2. Then your child tags the leaves on a real plant stem and finds that each leaf turns a fraction of a circle from the last, such as two fifths. These fractions get closer and closer to an angle called the golden angle. Along the way your child folds a paper dragon, draws a line that grows without end inside a small page, and learns why a snail's shell keeps the same shape.",
+  "text": "How long is a crinkly coast, and what number says how rough it is? In this unit you will count the squared-paper boxes a drawn coast touches as the boxes get smaller, grow a Koch curve, and measure how far each leaf turns round a real plant stem.",
   "art": "A crinkly hand-drawn coastline on squared paper beside a potted plant with numbered paper tags on the leaves and a coiled snail shell."
  },
  "intro": {

@@ -1,7 +1,7 @@
 # The pH scale, stomach acid and antacids: why does the burning go away?
 `sci.chemistry.acids-and-bases.L4`
 
-**Summary.** After a heavy feast, some grown-ups feel a burning in the chest. They chew a chalky tablet, and the burning fades in minutes. The tablet is a base, and it is fighting an acid that the stomach makes on purpose. Your child races different powders against a glass of acid, counts how many scoops each one needs, and learns what the numbers on the pH scale really mean. They find out why every step on the scale is ten times bigger than the last, and why the stomach does not burn itself. They also meet the two doctors who proved that a bacterium can live in stomach acid.
+**Summary.** Your stomach makes strong acid, so why does a spoonful of antacid stop the burning? In this unit you will test which powder cancels the same acid with the fewest scoops, find out if fruit salt is an acid or a base, and place liquids on the pH ladder.
 
 **Intro.** *After a big wedding feast, a grown-up chews a white tablet, and the burning in their chest goes away within minutes. The burning is in the chest, but the tablet goes down into the stomach. So how did it stop the burn?* A burning in the chest after a meal is called heartburn. It has nothing to do with the heart. Acid from the stomach has splashed up into the food pipe, and the food pipe has no shield against it. A tablet that stops the burning must change that acid. In this unit you make a glass of 'stomach acid' with vinegar and cabbage water. Then you race different powders to see which one beats it. You also learn to read the pH scale with real numbers, and you find out why the stomach does not burn itself.
 

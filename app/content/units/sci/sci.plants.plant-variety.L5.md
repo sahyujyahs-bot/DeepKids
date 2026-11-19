@@ -1,7 +1,7 @@
 # How plants are grouped: by the way they make new plants
 `sci.plants.plant-variety.L5`
 
-**Summary.** Ferns and mosses never make a flower or a seed, yet new ferns and mosses keep appearing on wet walls. They grow from spores, single cells far too small to see one by one. Scientists group plants by how they make new plants: mosses and ferns make spores, conifers make seeds on cones, and flowering plants make seeds inside fruits. Your child tests how far spores and seeds travel in moving air, builds a key and a family tree of plant groups, and learns what botanists still argue about, such as where flowers came from.
+**Summary.** Ferns and mosses never make a flower or a seed, yet new ones keep appearing on wet walls. How? In this unit you will fan spores and seeds to see which travel farther, split a dhania seed, and build a key and a family tree for the main plant groups.
 
 **Intro.** *Look under the leaf of a fern, if you can find one in a pot or on an old wall. You may see rows of brown dots. A fern never makes a flower, a fruit or a seed. So how does a new fern grow?* The brown dots are packets of spores. A spore is a single cell, much smaller than a grain of sugar. When the packets dry, they burst and throw the spores into the air. If one lands somewhere damp, a new fern can grow. Mosses do the same. Pine trees and deodars make seeds, but on cones, not in fruits. Most plants you know, from rice to the neem tree, make seeds inside fruits. In this unit you find out why these differences matter so much that scientists use them to group all plants.
 

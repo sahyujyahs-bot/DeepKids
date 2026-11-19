@@ -1,7 +1,7 @@
 # Bones and joints: the hard frame inside you, and where it bends
 `sci.body.skeleton.L2`
 
-**Summary.** Press on your shin, then on your tummy. One feels hard and one feels soft. The hard part is bone. A grown-up has about 206 bones inside. A place where two bones meet is a joint, and that is where you bend. Your child shines a torch on the wall and moves one joint at a time, to find which joints can draw a circle and which can only draw a line.
+**Summary.** Why can your shoulder draw a circle when your elbow can only draw a line? In this unit you will shine a torch on the wall to trace how each joint moves, hunt for bones you can feel just under your skin, and play a game sorting bone, bend and soft.
 
 **Intro.** *Bend one finger slowly. How many places does it bend? Why does it not bend everywhere, like a piece of string?* Hold out your hand and wiggle your fingers. Now press the back of one finger. It feels hard inside. That hard part is bone. Your finger can only bend in a few places. In this unit you find your bones by feeling them. You find your joints, where bones meet. Then you test which joints can move in a circle.
 

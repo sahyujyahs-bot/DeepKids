@@ -1,7 +1,7 @@
 # The Sun appears to move: sunlight and shadows from morning to evening
 `sci.day-night-seasons.sun-appears-to-move.L2`
 
-**Summary.** A patch of sunlight on the floor creeps slowly across the room, even when nobody touches the window. In this unit your child marks a sun patch every 5 minutes and watches it move. They count their own shadow in footsteps in the morning, at noon and in the evening, and find it long, then short, then long again. They learn that the Sun rises in the east, is highest around noon and sets in the west. And they learn that the Sun only appears to move, because the Earth, with our home on it, is turning.
+**Summary.** A patch of sunlight creeps across the floor, though nobody moves the window. Why? In this unit you will mark the sun patch every 5 minutes, measure your own shadow in footsteps in the morning, at noon and in the evening, and work out east and west from your home.
 
 **Intro.** *In the morning, your shadow on the road is longer than you are. At lunchtime it hides near your feet. Why does it change?* Your body stayed the same size all day. Your shadow did not. A shadow is the dark patch where your body blocks the sunlight. So if the shadow changed, something about the sunlight changed. In this unit we watch the sunlight and the shadows from morning to evening. We find out how the Sun seems to move across the sky, and why.
 

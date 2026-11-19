@@ -1,7 +1,7 @@
 # Wind: why air moves, and how it lifts kites and turns windmills
 `sci.weather.wind-and-air.L3`
 
-**Summary.** Open the fridge door and cold air pours out over your feet, though nobody is blowing. Cold air is heavier than the same amount of warm air, so it slides down and under the warm air. Wind starts the same way, outdoors. The Sun warms the land more than the sea, the warm air over the land rises, and cooler sea air slides in under it. That is the sea breeze. Moving air is real stuff with weight, so it pushes on whatever it meets. Its push holds up a kite and turns the blades of a windmill.
+**Summary.** Nobody pushes the air, yet it moves. What makes wind blow? In this unit you will open the fridge to see where the air goes, test whether soil or water warms faster in the sun, and fly a tiny thread kite at home.
 
 **Intro.** *Switch off the fan and shut the windows. The air in the room is still. Now hold a strip of tissue paper and walk fast across the room. The tissue streams out behind you. Where did that wind come from?* Wind is air moving past you. You can make it by moving through still air, or a fan can push the air past you. But outdoors, nobody is pushing. So what moves the air? In this unit you find out by opening a fridge and watching where its cold air goes. You find out why the sea breeze reaches coastal towns in the afternoon, how a kite stays up on a thread, and how a paper windmill can lift a load. You also meet the people who argued about why the great winds over the oceans blow.
 

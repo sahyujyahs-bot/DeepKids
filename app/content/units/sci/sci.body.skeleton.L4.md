@@ -1,7 +1,7 @@
 # Skeletons and muscles: what bones do, and how muscles move them
 `sci.body.skeleton.L4`
 
-**Summary.** The muscle that bends your elbow is joined to your forearm only about 4 centimetres from the elbow. When a string is tied that close to a hinge, it has to be pulled very hard to hold up a weight far away. So when you lift a 1 kilogram bag of rice, that muscle pulls with about 8 kilograms of force. Your child tests this with a ruler, a rubber band and five coins. They also name the main bones and find out what bone is made of. Then they compare our inside skeleton with the outside skeleton of a crab or an ant.
+**Summary.** When you lift a bag of rice, the muscle in your arm pulls much harder than the weight of the bag. Why? In this unit you will test a ruler arm with a rubber band and coins, name twelve bones on a real body, and sort animals by where their skeleton is.
 
 **Intro.** *Bend your elbow and hold a 1 kilogram bag of rice in your hand. How hard is the muscle in your upper arm pulling: with 1 kilogram of force, with less, or with more?* Most people guess 1 kilogram. The real answer is about 8 kilograms. The reason is the place where the muscle is joined to the bone. In this unit you build a ruler arm and measure what changes when the muscle is tied in different places. You name twelve bones on a real body. You freeze one slab of plain ice and one slab of ice with torn paper inside, and drop them, to find out why a bone does not shatter like chalk. You also meet animals who wear their skeleton on the outside, and animals who have no hard skeleton at all.
 

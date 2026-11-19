@@ -1,7 +1,7 @@
 # Where food comes from: tracing a meal back to plants and the Sun
 `sci.food.where-food-comes-from.L3`
 
-**Summary.** Almost every food on your plate was made by something alive, mostly by plants. Even curd goes back, through bacteria and a cow, to the grass the cow ate. Only salt and water come from the non-living Earth. Follow almost any food back far enough and you reach a plant using sunlight. Indian families have also kept old knowledge about food, like the six tastes, and science agrees with some of it.
+**Summary.** Curd comes from milk, milk comes from a cow, and a cow eats grass. So where does your dinner really start? In this unit you will sort foods by where they come from, turn milk into curd, sprout moong, and trace a meal back to the Sun.
 
 **Intro.** *Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?* Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a dairy, a tree or a fishing boat. Before the farm there was a seed. This unit follows food back, step by step, to where it begins. On the way, you split open a seed and find a tiny plant inside. You find out what turns milk into curd overnight. And you meet deep-sea animals whose food chain does not start with sunlight.
 

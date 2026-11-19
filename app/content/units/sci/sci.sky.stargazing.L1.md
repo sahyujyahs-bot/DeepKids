@@ -1,7 +1,7 @@
 # Stargazing: the Moon, bright stars and planets, and why the Moon seems to follow you
 `sci.sky.stargazing.L1`
 
-**Summary.** Ride in a bus at night, and the Moon seems to come along with you. The trees rush past, but the Moon keeps up. In this unit your child walks past a window and finds out why: the Moon is so far away that a few steps hardly change where it is. Your child also learns to tell the Moon, stars, planets and aeroplanes apart. Stars are faraway suns that twinkle, because moving air shakes their light. Planets shine with sunlight, usually without twinkling.
+**Summary.** Why does the Moon seem to follow you when you walk? In this unit you will draw the Moon's face, test the following with a strip at a window, sort Moon, star, planet and plane cards, and learn to tell a twinkling star from a steady planet.
 
 **Intro.** *Have you ever looked at the Moon from a moving bus, car or auto? What did the Moon do?* Most children say the Moon followed them. The trees and lamp posts rushed past, but the Moon stayed beside the window. Is the Moon really following you? In this unit you test it at your own window. You also find out which bright dots in the night sky are stars, which are planets, and which are aeroplanes.
 

@@ -1,7 +1,7 @@
 # Our environment: the living and non-living world around us, and how we care for it
 `sci.environment.caring.L3`
 
-**Summary.** Put a few moong seeds on damp cotton in a clear box and close the lid. Add no water for a week. The seedlings stay green, while seedlings in an open box dry out. Everything around a living thing is their environment. It has living parts, such as plants, animals, microbes and people, and non-living parts, such as air, water, soil, light and warmth. Some things in it are natural, and some are made by people. All these parts keep changing each other. Earth works like the closed box: sunlight comes in, but the same water and air go round and round, so what we pour or throw out stays in our shared home.
+**Summary.** Can moong seedlings live in a closed box? In this unit you will test seedlings with the lid on, survey the living and non-living things outside your window, and follow your kitchen water and rubbish to see where they go.
 
 **Intro.** *Can a plant live inside a closed box, with no new water and no new air? Say what you think, and why. In England, a man named David Latimer planted a bottle garden in 1960. He last watered it in 1972 and closed it with a cork. News reports say the plants were still growing more than forty years later.* In this unit you look at everything around you: the living things, the non-living things, and the things people have made. You find out how they change each other. You shut moong seeds in a box and see whether they can live with the lid on. You follow your kitchen water and your rubbish to find where they really go when we say they have gone 'away'. And you hear about eight people who lived for two years inside a sealed glass building.
 

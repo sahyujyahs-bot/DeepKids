@@ -1,7 +1,7 @@
 # Can animals count, wait and plan?
 `sci.animals.animal-minds.L4`
 
-**Summary.** Hide five yellow balls behind one screen and two behind another. In tests like this, a chick only a few days old, who has never been taught about numbers, goes to the screen hiding more. How can a mind with no number words know which pile is bigger? You will test your own sense of 'how many', and your own patience, the way scientists test chicks, bees, crows and a parrot named Alex. Scientists agree that many animals can tell more from less. They still argue about whether any of them truly count or plan for tomorrow.
+**Summary.** Can a chick, a bee or a crow tell which pile is bigger, or wait for a better reward? In this unit you will flash dots to find where your own quick counting stops, compare piles of different sizes, and play a game about waiting for more seeds.
 
 **Intro.** *I will show a card for one second. It has three dots. How many did you see? Now a card with nine dots. How many now? Which answer came without counting?* Most people know three at once, and do not need to count. With nine dots, you start to guess. Bees, chicks, fish and crows seem to have the same sort of quick feeling for 'how many'. They have no number words at all. In this unit you will find out how far your own quick feeling goes. Then you will see how scientists test the same thing in animals who cannot answer us.
 

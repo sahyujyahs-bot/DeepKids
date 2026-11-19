@@ -1,7 +1,7 @@
 # What is it made of? Where materials come from
 `sci.materials.what-is-it-made-of.L3`
 
-**Summary.** Trace anything back to where it came from, and you always reach something nature made. A steel spoon began as rock dug from a mine. A plastic bucket began as oil deep underground. Some things are natural, like a stone, a mango or a crow's feather. Other things are made by people, but never from nothing. People take natural raw materials and change them by cutting, spinning, melting, baking and mixing. Your child makes paper, salt, milk plastic, plant colours and a clay diya with their own hands. Then they zoom in: natural and made things are built from the same few kinds of atoms, and those atoms were made long ago inside stars.
+**Summary.** Your shirt, your chair and your pencil all came from somewhere. Where? In this unit you will trace objects back to where they came from, make salt from salty water with the Sun, make new paper from old paper, and turn milk into plastic.
 
 **Intro.** *Pick up anything near you: a pencil, a spoon, a button. What was it before it was this? And what was it before that? How far back can you go?* The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Trace any object back far enough, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.
 

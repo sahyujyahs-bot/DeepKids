@@ -1,7 +1,7 @@
 # What is light, and how fast does it travel?
 `sci.light.what-is-light.L3`
 
-**Summary.** Light looks as if it arrives instantly, but it takes time to travel. It is energy that crosses even empty space, at about 3 lakh kilometres every second, so sunlight takes about 8 minutes to reach us. Light spreads like a wave, but its energy comes in tiny packets called photons. A blue packet carries more energy than a red one. A glow-in-the-dark star needs packets with enough energy, so a blue phone screen can make it glow and a red screen cannot, even if you shine it for minutes. Scientists can predict what light will do very well, but they still argue about what it really is.
+**Summary.** The sunlight you see right now left the Sun about 8 minutes ago. How do we know light takes time to travel? In this unit you will test what you notice about light, work out how old some light is, and act out how Rømer found a late moon.
 
 **Intro.** *Go into a dark room with a torch. Switch it on. Did the light take any time to reach the far wall? Or was it there at once?* It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. When the Earth was far from Jupiter, the moon appeared minutes later than expected. The moon was not late at all. Its light had further to travel. In this unit, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why blue light can make a glow-in-the-dark star glow when red light cannot.
 

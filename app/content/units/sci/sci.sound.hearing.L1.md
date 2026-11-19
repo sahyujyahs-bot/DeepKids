@@ -1,7 +1,7 @@
 # Our ears: hearing sounds from near and far
 `sci.sound.hearing.L1`
 
-**Summary.** Shut your eyes, and you can still tell if Amma is calling from the next room or from right beside you. Your ears catch sounds from every side, near and far. The ear flap catches a sound, and it goes down the ear hole to the eardrum inside. A sound gets softer as it travels further away. Your child tests if their ears can tell near from far, and may find that a soft sound close by can sound far away.
+**Summary.** How can you tell a sound is near or far with your eyes shut? In this unit you will listen at a window, look at your own ears, test your hearing of near and far sounds, and find a hidden song by listening for where it is loudest.
 
 **Intro.** *Close your eyes. Somebody says your name. Without looking, can you point to them? Can you tell if they are near or far?* Your eyes are shut, yet you know where the voice is. Your ears found out. Ears catch sounds from in front, from the sides and even from behind you. In this unit you look at your ears, listen for near and far sounds, and test if your ears can be tricked.
 

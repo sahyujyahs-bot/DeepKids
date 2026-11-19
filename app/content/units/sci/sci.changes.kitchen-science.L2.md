@@ -1,7 +1,7 @@
 # Science in the kitchen: how cooking changes rice, butter and milk
 `sci.changes.kitchen-science.L2`
 
-**Summary.** Ten grains of boiled rice make a much longer line than ten dry grains. Your child soaks some grains in cold water and boils others for the same time, and finds that heat lets the water go deep inside each grain. Then they melt a spoon of butter and watch it set again, while a grown-up heats another spoon until it becomes ghee, which never turns back into butter. They also find out how tiny living beings called bacteria turn milk into curd. Some kitchen changes can go back, and some stay changed for ever.
+**Summary.** Ten boiled grains of rice make a longer line than ten dry ones. Why? In this unit you will line up grains soaked in cold water and boiled in hot, melt butter and watch it set again, and play a card game sorting changes that can go back from those that cannot.
 
 **Intro.** *Put one dry grain of rice next to one grain of cooked rice from lunch. Which one is bigger? Where did the extra size come from?* Every day, cooking changes the food in your kitchen. Hard rice turns soft. Butter turns runny in a warm pan. Milk turns into thick curd overnight. In this unit you test what heat and water do to rice grains. You melt butter and watch a grown-up turn butter into ghee. You find out that tiny living beings called bacteria turn milk into curd. And you sort kitchen changes into ones that can go back and ones that cannot.
 

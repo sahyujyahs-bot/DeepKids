@@ -1,7 +1,7 @@
 # Evaporation and condensation: where water goes when things dry
 `sci.states.evaporation-and-condensation.L3`
 
-**Summary.** A puddle on the balcony is gone by the afternoon, but its water still exists. It has evaporated: it has turned into water vapour, a gas we cannot see, and mixed into the air. When water vapour touches something cold, it turns back into drops of water. This is condensation, and it is why a cold bottle from the fridge gets wet on the outside. Both happen at the same time at every wet surface. A wet thing dries only when more water leaves it than lands back on it. That is why clothes dry slowly when the air is already damp.
+**Summary.** A puddle on the balcony is gone by the afternoon. Where did the water go? In this unit you will find where the drops under a pot lid come from, test whether a wet cloth can dry inside a closed box, and hunt for the dampest air in your home.
 
 **Intro.** *In Chennai in November, a washed school uniform can stay damp on the line for two days. In May, the same uniform dries in about an hour. The cloth is the same, and so is the water in it. So what is different?* The answer is in the air around the cloth. In this unit you find out where water goes when something dries, and how it comes back as drops on cold things. You test it yourself with two wet cloths, one in an open box and one in a closed box. By the end you can say why a monsoon day dries clothes so slowly.
 

@@ -1,7 +1,7 @@
 # Five ways to build an animal: sponges, stingers, shells, armour and stars, and the octopus with three hearts and clever arms
 `sci.animals.invertebrates.L5`
 
-**Summary.** An octopus belongs to the same big group of animals as a garden snail. Yet she has three hearts, blue blood and about 500 million nerve cells, and most of those nerve cells are in her arms. How does a body like that work? Your child sorts animals without backbones into five big groups: sponges, cnidarians, molluscs, arthropods and echinoderms. Each group builds a body in a different way, from a sponge with no nerve cells at all to a starfish with a ring of nerves and no brain. Then your child tests, with a coin and a plate of chana, whether a hand works faster when a boss orders every move or when the hand works things out by touch.
+**Summary.** An octopus has three hearts and most of her nerve cells in her arms. So who is in charge, her brain or her arms? In this unit you will sort animals without backbones into five groups, and test with a coin and chana whether a hand works better when ordered or left to feel.
 
 **Intro.** *Shut your eyes and do up a shirt button. Your fingers find the hole and push the button through. Did you tell each finger where to bend?* You did not. You only decided to do up the button, and your hand did the rest by feel. An octopus has eight arms with no bones, and each arm can bend at any point along its length. Could one brain give orders for every bend of all eight arms at once? In this unit you meet five big groups of animals without backbones. Each group runs a body in a different way. Then you test how the octopus might share the work between her brain and her arms.
 

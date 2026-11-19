@@ -1,7 +1,7 @@
 # Cause and effect: how one push knocks down a whole line
 `sci.order-chaos.cause-and-effect.L2`
 
-**Summary.** Push the first domino in a line, and the last one falls too, even though you never touched it. Each domino falls because the one before it hits it. What makes something happen is called the cause. What happens is called the effect. In a line of dominoes, every domino is the effect of the one before and the cause of the next. If one gap is too wide, the chain of causes stops there, and the rest of the line stays standing.
+**Summary.** You push only the first domino in a line, yet the last one falls. How does your push get all the way along? In this unit you will build domino lines and test how far apart they can stand, push a chain of coins, and play detective to find what caused things.
 
 **Intro.** *Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?* Things around us happen because of something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this unit you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.
 

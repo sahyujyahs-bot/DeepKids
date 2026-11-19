@@ -1,7 +1,7 @@
 # Finding out: planning a test and watching slow changes
 `sci.how-we-know.asking-questions.L3`
 
-**Summary.** A cut apple slice turns brown, but nobody can see it happen. Look at it every ten minutes and draw it each time, and the change shows up clearly. To find something out, a scientist first makes a plan: the question, what to look at, what to compare, how often to look, and how to write it down. Some questions need one look. Others need many looks over minutes, days or years. In this unit you plan your own investigation, keep a record, and hear how Tycho Brahe's nightly measurements showed that even the sky can change.
+**Summary.** A cut apple turns brown, yet nobody can see it happen. How can you catch a change that is too slow to watch? In this unit you will look at an apple every ten minutes, plan your own apple test, and follow a banana for five days.
 
 **Intro.** *Cut a slice of apple and put it on a plate. Now stare at it for one whole minute without looking away. Did it change? Leave it on the plate, and look again in half an hour.* In half an hour the cut side has gone yellow or brown. Yet in the minute you stared, you saw nothing happen. The change was real, but too slow for one look. To catch a slow change, you need a plan: look again and again at set times, and write down what you see each time. That is how scientists watch things that change slowly, from a cut apple to a growing child to a star.
 

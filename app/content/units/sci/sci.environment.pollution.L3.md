@@ -1,7 +1,7 @@
 # Pollution: what makes air, water and land dirty, and where it comes from
 `sci.environment.pollution.L3`
 
-**Summary.** Air can look clear and still carry dust and smoke too small to see one by one. Pollution means harmful things added to air, water or land faster than nature can clear them away. Most of it comes from everyday things: vehicles, burning rubbish, building work, cooking smoke, sewage and plastic. In this unit you catch the air's dust on a sticky card at your window and count it. You find out how your nose catches dust all day, why dust on a leaf is a problem for the plant, and why soil holds back mud but lets salt through to the water underground.
+**Summary.** What is in the air at your window that you cannot see? In this unit you will wipe a window grill with a white cloth, catch dust on a sticky card and count the specks, and see where dust sits on a leaf.
 
 **Intro.** *Wet a white cloth and wipe the window grill on the side that faces the road. Then wipe a shelf inside a closed cupboard. Look at the two cloths. Where did the black on the first cloth come from?* Nobody poured dirt on the window grill. It came out of the air, a tiny speck at a time, over days. In this unit you find out what those specks are, where they come from, and where else they land, including inside your own nose.
 

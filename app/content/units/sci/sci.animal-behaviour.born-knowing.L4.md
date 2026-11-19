@@ -1,7 +1,7 @@
 # Reflexes, instincts and imprinting: what animals can do without lessons
 `sci.animal-behaviour.born-knowing.L4`
 
-**Summary.** A gosling who hatches beside a man will follow that man, and not her own mother. She was born knowing how to follow, but not knowing whom. Animals, including humans, are born with reflexes, fixed patterns of movement and instincts. Each one waits for a trigger, and the trigger is often very simple. Your child tests what cold water on the face does to their heartbeat. They also test which drawn face people find cuter. They learn how a duckling fixes on a parent on the first day of life.
+**Summary.** A newly hatched duckling follows the first moving thing it sees, with no lessons. How can an animal know things it was never taught? In this unit you will find three reflexes in yourself, test what cold water on the face does to your heartbeat, and judge which drawn face is cuter.
 
 **Intro.** *A goose is rolling a stray egg back to her nest with her beak. A scientist takes the egg away halfway. The goose goes on with the rolling movement, all the way to the nest, with no egg under her beak. Why did she not stop?* The goose was born able to make this rolling movement. A round thing lying near her nest sets the movement off. Once the movement starts, it runs to the end. Your body has patterns like this too. A blink, a swallow and a yawn each wait for a trigger. In this unit you find the triggers for three of your own reflexes. You test whether cold water on your face changes your heartbeat. You also meet the ducklings who follow the first moving thing they see.
 

@@ -1,7 +1,7 @@
 # Water: where it comes from and what we use it for
 `sci.water.water-sources-and-uses.L1`
 
-**Summary.** Put dry poha in a little water, and in a few minutes it goes soft. Put the same poha in oil, and it stays hard. Water gets inside things, and oil does not. That is one reason water can do so many jobs: we drink it, cook with it, wash with it, and plants and other animals need it too. Your child tests poha in water and in oil. They find every place water is used at home. They also find out how different animals drink.
+**Summary.** When you pour water on poha it goes soft, but oil does not. Why? In this unit you will hunt for water at home, test poha with water, oil and nothing, and play a game about the jobs water does for us.
 
 **Intro.** *Turn on the tap and fill a tumbler. Where was this water yesterday?* The water in our tap came through pipes from a tank, a well, a lake or a river. Before that, it fell as rain. All day long, we use water for many jobs. We drink it. We cook rice and dal in it. We wash our hands, our plates and our clothes with it. We pour it on plants, and we leave some out for birds. In this unit we ask: what jobs does water do, and why is water so good at them?
 

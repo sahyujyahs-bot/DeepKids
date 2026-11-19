@@ -1,7 +1,7 @@
 # Changes we can undo and changes we can't: squashing, bending, heating and cooling
 `sci.changes.reversible-and-irreversible.L2`
 
-**Summary.** Squash a ball of atta dough flat, and you can roll it back into a ball. Cook it on a hot tawa, and it can never be dough again. Your child squashes, bends, twists, cools and heats things from the kitchen, and sorts what happens into two kinds. A reversible change can be undone, like bending a ruler or freezing dough. An irreversible change cannot be undone, like snapping a toothpick or cooking a roti. Heating often makes a change that cannot be undone.
+**Summary.** You can squash dough and roll it into a ball again, but a cooked roti never goes back to dough. In this unit you will squash, freeze and cook dough, crumple paper and squeeze a sponge, then sort each change into one that can be undone and one that cannot.
 
 **Intro.** *Crumple a sheet of paper into a tight ball. Now open it out and press it flat. Is it the same as before?* Things around us change shape all the time. We squash them, bend them, twist them, stretch them, heat them and cool them. Some changes can be undone, and the thing goes back to how it was. Some can never be undone. You are going to test which is which, starting with a ball of dough.
 

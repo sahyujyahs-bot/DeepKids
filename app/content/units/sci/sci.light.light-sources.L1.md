@@ -1,7 +1,7 @@
 # Light sources: things that make their own light
 `sci.light.light-sources.L1`
 
-**Summary.** Switch off a torch in a dark room, and the dark comes back at once. Some things make their own light: the Sun, a fire, a lamp, a torch, a phone screen, even a firefly. Scientists call them light sources. Other things, like a steel spoon or a mirror, only look bright when light falls on them. In a dark room, your child finds out which is which, and that a lamp gives light only while it is working.
+**Summary.** Switch off a torch in a dark room and the dark comes back at once. Which things make their own light? In this unit you will test things in a dark room, sort cards of light makers, and go on a little lights hunt at night.
 
 **Intro.** *Switch off the lights in a room at night. Hold your hand in front of your face. Can you see it?* In the dark, you cannot see your hand, even though it is right there. Now switch on a torch. You can see your hand again. The torch made light, and the light let you see. In this unit you find out which things make their own light, and which things only look bright.
 

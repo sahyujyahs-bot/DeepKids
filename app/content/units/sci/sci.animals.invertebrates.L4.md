@@ -1,7 +1,7 @@
 # Animals without backbones: how they breathe with no lungs
 `sci.animals.invertebrates.L4`
 
-**Summary.** An ant has no lungs, an earthworm has no nose and a crab keeps her gills under her shell. Yet every one of them takes in oxygen all day long. In the Colour Cubes experiment, food colour creeps only a few millimetres into a jelly cube. Oxygen drifts through a body in that same slow way. So a thick body needs help: skin that stays thin and wet, gills that water is pushed over, air tubes that reach every part, or lungs. This unit follows the air into worms, ants, crabs, snails and spiders, and shows why that slow drift has given them such different bodies.
+**Summary.** A worm has no lungs, and a prawn has no lungs either. So how do they breathe? In this unit you will watch colour creep into jelly, test whether more outside dissolves sugar faster, and walk like an oxygen particle on its way to the middle of a body.
 
 **Intro.** *Take a deep breath and feel your chest rise. Now think of an ant. An ant has no lungs and no chest. A crab has no nose. An earthworm has no lungs and no nose. All three breathe all day long. How?* Here is a clue. Your body is made of billions of tiny cells, and every cell needs oxygen all the time. In you, blood carries the oxygen round. But an ant's blood does not carry most of her oxygen, and a worm has no lungs at all. In this unit you will watch how slowly colour creeps into jelly. Oxygen drifts into a body just as slowly. Then you will see why that slow drift has given a worm, an ant, a crab and a spider such different bodies.
 

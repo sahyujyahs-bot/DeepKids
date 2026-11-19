@@ -1,7 +1,7 @@
 # Animal life cycles compared: how many young, how much care, how long a life
 `sci.animals.animal-life-cycles.L4`
 
-**Summary.** A house mouse lives about two years and an Asian elephant about sixty, yet most mammals get roughly the same number of heartbeats in a whole life. Your child lays out animal lives on a string, plays a dice game of many young against few, and sorts mammals, birds, insects and amphibians by how they begin, grow and have young of their own. They learn why some babies are born ready and some helpless, why many insects change their whole body shape, and how scientists work out the age of a shark or a clam. They also learn why a pattern like 'big animals live long' needs its exceptions checked.
+**Summary.** Do big animals really live longer than small ones, and do all animals begin life the same way? In this unit you will lay out a lifespan line in string, test whether many young or a few cared-for young survive better, and sort sixteen animals.
 
 **Intro.** *A grown mayfly may live for only a day. A hen lives for about eight years. A giant tortoise can live for more than a hundred years. They all began as an egg. Why do lives that start the same way end up so different in length?* Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.
 

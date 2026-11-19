@@ -1,7 +1,7 @@
 # Sorting living things: groups by what we can see
 `sci.classification.sorting-living-things.L1`
 
-**Summary.** A crow, a hen and a peacock all have feathers and a beak, so they go in one group. A bat has wings but no feathers, so the bat goes in another. Your child sorts leaves, animal cards and the family, and learns that a good rule is one everyone can check. Then they test two leaves from one plant, and find that even the most alike pair is not exactly the same.
+**Summary.** A crow, a hen and a peacock go in one group, but a bat goes in another. Why? In this unit you will sort leaves, animal cards and your own family into groups, and check whether two leaves from one plant are exactly the same.
 
 **Intro.** *Bring two steel spoons from the same set. Are they the same? Now pick two leaves from one plant. Are they the same too?* Two spoons from one set were made by a machine to look the same. Two leaves grew on a plant. Ask your child to look at both pairs and guess which pair is more alike, and why. Don't give the answer. In this unit we sort living beings into groups by what we can see, and then we test whether two leaves in one group can ever be exactly the same.
 

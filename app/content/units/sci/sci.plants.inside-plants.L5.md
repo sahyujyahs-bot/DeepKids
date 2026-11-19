@@ -1,7 +1,7 @@
 # Inside a stem: two sets of pipes, growth rings and tissues
 `sci.plants.inside-plants.L5`
 
-**Summary.** Most of a tree trunk is made of dead cells, yet the tree is alive. Take away one thin strip of bark all the way round the trunk, and the whole tree slowly dies. Why? Most plants have two sets of pipes. Xylem pipes are dead and hollow, and they carry water up from the roots. Phloem pipes are alive, and they carry sugar from the leaves to every part that needs food. In a tree the phloem lies just under the bark, and a thin layer called the cambium adds new wood every year, which makes the growth rings. Your child maps these pipes with dye in a root, a stem and a leaf stalk, reads a tree's rings, and learns how skin, packing and pipes work together as tissues.
+**Summary.** Cut a thin strip of bark all the way round a trunk and the whole tree slowly dies, though most of the trunk is dead. Why? In this unit you will map the water and food pipes in a stem, test which part of a twig carries water, and read a tree's rings.
 
 **Intro.** *Peel a banana slowly. Long pale strings stay stuck to the fruit. They run from the stalk end to the tip. What are these strings for?* Look for the same kind of string in a leaf stalk and on a peeled orange. In the first activity, String Hunt, you pull them out and compare them. Then, in Pipe Maps, you use coloured water to test what at least some of the strings do.
 

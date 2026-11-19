@@ -1,7 +1,7 @@
 # Dissolving: what water takes in, and how much
 `sci.states.dissolving.L3`
 
-**Summary.** Stir salt into water and it disappears, but stir in atta and the water only turns cloudy. Things that disappear into water like salt are called soluble. Things that stay as bits, like atta, sand or oil, are called insoluble. Water can dissolve only so much of each thing. In this unit your child finds that a few spoons of water take only two or three spoons of salt, but more than ten of sugar. Then they make lemonade the clever way, by dissolving the sugar first.
+**Summary.** Salt disappears in water, but atta only makes it cloudy. Where does the salt go? In this unit you will test kitchen things in water, count how many spoons of salt and sugar a glass of water can take, and make lemonade that is sweet to the last sip.
 
 **Intro.** *Put a spoon of salt in one glass of water and a spoon of atta in another. Stir both. One goes clear, and one goes cloudy. Why does water swallow up one and not the other?* When salt disappears into water, we say it dissolves. Atta does not dissolve. It floats about as tiny bits and slowly sinks. In this unit you test what dissolves from your own kitchen. You count how many spoons of salt and sugar a little water can take before it is full. You find out whether a strainer can catch dissolved salt. And you make lemonade that is sweet right to the last sip.
 

@@ -1,7 +1,7 @@
 # Inside a cell: why your cells need a transport system and a bacterium does not
 `sci.what-is-life.inside-a-cell.L5`
 
-**Summary.** A bacterium has no nucleus, no Golgi body and no tracks, and she is fully alive. Your cells have all of these parts. Why do they need them? One of your cells is about ten times as wide as a bacterium, and drifting is too slow to move large things across her. Your child times colour drifting into potato and finds the rule behind this. Then they follow a protein from the rough ER through the Golgi body to its address, meet the lysosomes that take worn parts to pieces, and the skeleton of fibres that a cell rebuilds every few minutes. Last comes the evidence that mitochondria were once free-living bacteria.
+**Summary.** Your cells need a transport system inside them, but a tiny bacterium does not. Why? In this unit you will time how far colour drifts into a potato over 1, 4 and 16 hours, walk a coin to see wandering against walking straight, and send proteins to the right place in a cell.
 
 **Intro.** *A bacterium is alive. She eats, grows and makes copies of herself. Yet she has no nucleus, no Golgi body, no lysosomes and no tracks. Your cells have all of them. So what are these parts for, if a living cell can do without them? Say what you think, and why.* Here is one clue. A bacterium is about 2 micrometres long. A micrometre is one thousandth of a millimetre. A cell from your skin is about 20 micrometres wide, so she is ten times as wide as the bacterium. In the Potato Colour Test you will find out what that extra size does to a cell. You will measure how far colour drifts in 1 hour, 4 hours and 16 hours. The answer explains why your cells have tracks and motors, and it is a clue to the other parts too.
 

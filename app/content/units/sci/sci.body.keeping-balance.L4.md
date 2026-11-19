@@ -1,7 +1,7 @@
 # Two pushes make a steady level: sugar, breath, pulse and pupils
 `sci.body.keeping-balance.L4`
 
-**Summary.** A small bottle of cola holds about six teaspoons of sugar. All the blood in a grown-up holds only about one teaspoon. Yet after the cola, the sugar in the blood hardly changes. The body does it with two opposite pushes. One hormone pulls sugar out of the blood, and another puts it back. In this unit you build a bottle that keeps its own water level, time how fast your pulse and breathing come back to rest after exercise, and watch your pupils change size before you can decide anything. Keeping a level steady turns out to be a lot of work.
+**Summary.** Your blood sugar, breathing and pulse stay steady, but nothing is standing still. Two opposite pushes work all the time. In this unit you will build a bottle that keeps its own water level, test how fast your pulse and breathing recover, and play a game to keep sugar in the green.
 
 **Intro.** *Stand on one leg for 20 seconds and look at your foot. It seems still, but it is not. Your ankle is shaking a little, left, right, left. Why does a thing that looks still need so much movement?* Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this unit you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.
 

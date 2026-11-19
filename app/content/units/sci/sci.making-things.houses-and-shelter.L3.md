@@ -1,7 +1,7 @@
 # Houses and shelter: what keeps a home standing, dry and safe
 `sci.making-things.houses-and-shelter.L3`
 
-**Summary.** Push the top of a square frame sideways, and it leans over and folds flat. Push a triangle frame made of the same strips, and it keeps its shape. That is why roofs, towers and bridges are full of triangles. A shelter keeps us safe from rain, sun, heat, cold, wind and animals. People build it from what is close by: mud, bamboo, stone, grass, wood or brick. So a house in rainy Kerala has a steep tiled roof, and a house in dry Ladakh has a flat mud roof. New designs use less material and stand up better to floods and earthquakes. Safety rules keep builders and families from getting hurt.
+**Summary.** Why does a square frame lean over when you push it, but a triangle frame stays firm? In this unit you will push-test both frames, find how steep a roof should be to shed rain, and hunt for triangles around you.
 
 **Intro.** *Make a square from four strips of card, joined at the corners with pins. Lay it flat and push one side gently. It leans over and squashes flat. Now make a triangle from three strips and push it the same way. Why does the triangle not lean?* Every home has to stay standing. Wind pushes on it, its own heavy roof presses down on it, and sometimes the ground shakes. In this unit you test frames, roofs and tiles at home, and find out how builders all over India make houses that stand up, keep the rain out and keep people safe. You also meet houses made of mud, bamboo, stone and grass, and the people who are designing new ones.
 

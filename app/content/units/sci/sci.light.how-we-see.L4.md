@@ -1,7 +1,7 @@
 # How we see: light goes straight, a lens makes a sharp picture, and two eyes build depth
 `sci.light.how-we-see.L4`
 
-**Summary.** Hold a finger up at arm's length and close one eye, then the other. The finger jumps sideways against the wall, though it never moved. Your child tests whether light can ever go round a corner, makes a lens form an upside-down picture of a window, and measures how far a pencil seems to jump when it is near and when it is far. The jump is how the brain works out distance. Nobody yet knows how two flat pictures from two eyes become one solid world.
+**Summary.** Close one eye and judging distance gets harder. Why? In this unit you will test whether light can go round a corner, make a sharp picture of a window with a lens, find how close you can focus, and try the near pencil, far pencil depth test.
 
 **Intro.** *Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger really move, or did something else change?* The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this unit you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.
 

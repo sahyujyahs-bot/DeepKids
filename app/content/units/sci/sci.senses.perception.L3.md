@@ -1,7 +1,7 @@
 # Illusions: how your brain can be fooled about what you see
 `sci.senses.perception.L3`
 
-**Summary.** Two lines can both be 10 cm long, yet one looks clearly longer than the other. A ruler shows they are equal, and nothing is wrong with the eyes. Seeing is done by the eyes and the brain together. The eyes catch light, and the brain works out sizes, distances, shapes and movement from clues, like what is around a thing and where shadows fall. An illusion is a time when those clues lead the brain to the wrong answer. Even after you know the answer, most illusions still fool you. Touch can be fooled too. Some animals, like butterflies with eyespots and the great bowerbird, use illusions to startle a hunter or to attract a mate.
+**Summary.** Two lines can both be 10 cm long, yet one looks longer. Why does the brain get fooled? In this unit you will test how much the arrow-lines trick fools different people, try crossed fingers on a pea, and make a spinning picture toy from 1825.
 
 **Intro.** *Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line is longer? Now measure both with a ruler.* Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this unit you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.
 

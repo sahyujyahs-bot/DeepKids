@@ -1,7 +1,7 @@
 # Homes near our home: a tree, a pond, a park and under a stone
 `sci.habitats.local-environments.L1`
 
-**Summary.** Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers half of some wet soil with a plate. A few hours later, the soil under the plate is still damp and dark, like a small home. Right next to it, the open soil is dry.
+**Summary.** Lift a stone and the ground under it is dark, damp and cool. Who lives there? In this unit you will play a memory game of homes, cover wet soil with a plate to see what happens, and feel which places are damp or dry.
 
 **Intro.** *Touch the floor in a sunny spot. Now touch the floor under a bucket or a doormat. Do they feel the same?* They do not. The floor in the sun is usually warm and dry. The floor under the bucket is often cooler and a little damp. The ground under a stone in a park is cool and damp in the same way. Lift a stone and you may find earthworms, ants and pill bugs. We will visit homes near our home, and then make a small one.
 
@@ -172,15 +172,15 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   *Child mode:* The cards are like stones. Lift two. Find a living being and their home.
 - **s2 (6 min)**  
   *Parent does:* Take turns lifting two cards. When a pair fits, ask why. If your child is unsure, give a hint from the notes below.  
-  *Parent says:* You found the earthworm and the stone. Why does an earthworm live under a stone?  
+  *Parent says:* You found the earthworm and the stone. They are a pair.  
   *Child mode:* Lift two cards. Do they go together? Say why.
   - Ask: Why does an earthworm live under a stone? (good: It is damp there.; The earthworm's skin needs to stay wet.; The sun cannot dry the soil there.)
   - Ask: Why does a squirrel build a nest high in a tree? (good: To be safe from cats and dogs.; It is high up and safe.)
   - Note: Accept any true pair with a reason. Earthworm: lives in damp soil under stones, and breathes through damp skin. Squirrel: builds a nest high in a tree, safe from cats. Tadpole: lives in a pond and grows into a frog. Grasshopper: hides and eats in the grass. Honeybee: drinks nectar from flowers. Peepal seedling: grows in a wall crack, from a seed a bird dropped. An earthworm also lives under the grass in the park.
 - **s3 (2 min)**  
   *Parent does:* Count the pairs. Lay all the place cards in a row. Put each living being card under the place where they live.  
-  *Parent says:* Look at all the homes. Which one is the darkest and dampest?  
-  *Child mode:* Count your pairs. Which home is the darkest and dampest?
+  *Parent says:* Look at all the homes in the row. Think about which one gets no sun and keeps the water in.  
+  *Child mode:* Count your pairs. Then look at all the homes.
   - Check: Which home is dark, damp and cool? → **Under a stone**
 ### g2 · Pill Bug Says: a crawling game (10 min)
 - **rules:** The child is a pill bug and crawls on hands and knees.; The grown-up turns over a place card and reads the front aloud.; In a dry, bright place, the pill bug crawls fast.; In a damp, dark place, the pill bug slows down and rests under the cloth that hangs over the table or chair.; If the card says someone touches you, the grown-up taps your shoulder. Roll up into a ball.; After all 8 cards, talk about it: were you resting in damp places or in dry places?
@@ -191,13 +191,13 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   *Child mode:* You are a pill bug. Listen to each place. Dry and bright? Crawl fast. Damp and dark? Rest.
 - **s2 (6 min)**  
   *Parent does:* Read one card at a time. Wait for your child to move before you read the back.  
-  *Parent says:* The hot floor in the sun! What does a pill bug do here?  
-  *Child mode:* Listen to the place. How does a pill bug move here?
+  *Parent says:* The hot floor in the sun! Move like a pill bug.  
+  *Child mode:* Move the way a pill bug would move here.
   - Ask: Why does a pill bug crawl fast on a dry, sunny floor? (good: The sun would dry the pill bug out.; To get to a damp place quickly.)
   - Note: Real pill bugs do this. Scientists found that they walk faster in dry places and slow down in damp ones.
 - **s3 (2 min)**  
   *Parent does:* Sit together. Ask where the pill bug ended up resting.  
-  *Parent says:* Where did you rest? If you crawl fast in the dry and slow in the damp, where do you end up?  
+  *Parent says:* You crawled fast in the dry and slowly in the damp. So where did you end up?  
   *Child mode:* Where did you rest most? Was it damp or dry there?
   - Check: Where does a pill bug spend the day? → **Under a damp stone or pot**
   - Think: Did the pill bug choose the damp place, or just end up there? What do you think?
@@ -212,9 +212,9 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 - **results table:** Which half | Dark or pale? | Wet or dry to touch? | Cool or warm? | Mark on the tissue?
 - **s1 (5 min)**  
   *Parent does:* 1. Pour about half a cup of water slowly over the soil, until the whole top is dark and damp. 2. Let your child touch the soil. 3. Lay the plate flat on one half.  
-  *Parent says:* Feel the soil. It is all wet now. This plate is like a stone. What will the soil be like under the plate in three hours? And in the sun? Why do you think so?  
-  *Child mode:* Feel the wet soil. Put the plate on one half. The plate is like a stone. What will happen? Why?
-  - Ask: What do you think the soil under the plate will be like? Why? (good: Still wet, because the sun can't reach it.; Cool, because it's in the shade.)
+  *Parent says:* Feel the soil. It is all wet now. This plate is like a stone. Now let us guess what will happen.  
+  *Child mode:* Feel the wet soil. Put the plate on one half. The plate is like a stone.
+  - Ask: After three hours in the sun, what will the soil under the plate be like? Why? (good: Still wet, because the sun can't reach it.; Cool, because it's in the shade.)
   - Note: Write down your child's guess and their reason. Use a pot with a plant that can take a few hours of sun, or a tub of soil with no plant.
 - **s2 (2 min)**  
   *Parent does:* Put the pot in the sunniest window or on the balcony. Look at the clock together and note the time.  
@@ -231,7 +231,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 - **s4 (5 min)**  
   *Parent does:* Ask your child to say three things: what they think happened, what they saw, and why. Then look back at their guess together.  
   *Parent says:* Tell me what you found. What did you see and feel? Why do you think the plate made a difference? Was your guess right?  
-  *Child mode:* Say what you found. What did you see and feel? Why did the plate make a difference?
+  *Child mode:* Say what you found, and why the plate made a difference.
   - Ask: Who would like to live under the plate? Who would like the soil in the sun? (good: An earthworm would like the soil under the plate.; Pill bugs and ants would live under the plate.; Nobody small would like the hot dry soil.)
   - Check: Why did the soil under the plate stay damp? → **The plate kept the sun off and held the water in**
   - Think: A plate is not a home. But the damp, dark place under it could become one. Who might find it first?
@@ -239,20 +239,20 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 ## Activities
 ### a1 · Feel the Places: damp or dry, dark or bright, cool or warm? (10 min)
 - **safety:** Under the kitchen sink, touch only the floor. Keep away from the cleaning bottles.
-- **record:** A table of the five places, with a sun or a moon for bright or dark, and a drop for damp.
+- **record:** A table of the five places. A grown-up writes each place, and you tick bright or dark and damp or dry.
 - **s1 (6 min)**  
   *Parent does:* Visit five places with your child. Try a sunny windowsill, under the kitchen sink and under the doormat. Then try a corner of the bathroom floor and the soil in a plant pot. Your child touches each one.  
-  *Parent says:* Touch this place. Is it damp or dry? Is it dark or bright? Is it cool or warm?  
+  *Parent says:* Touch this place. How does it feel? Look at it. How does it look?  
   *Child mode:* Touch each place. Damp or dry? Dark or bright? Cool or warm?
-  - Note: Draw a sun or a moon for bright or dark, and a drop for damp.
+  - Note: Write each place in a table. Tick bright or dark, and damp or dry. A sun, a moon and a drop can stand for these if your child likes.
 - **s2 (4 min)**  
   *Parent does:* Look at the table together. Ask which place a pill bug would choose, and which place a sunbathing lizard would choose.  
   *Parent says:* A pill bug needs damp and dark. A garden lizard likes to warm up in the sun. Which place would each one choose?  
-  *Child mode:* Which place would a pill bug like? Which place would a lizard in the sun like?
+  *Child mode:* Point to the place a pill bug would like. Point to the place a lizard would like.
   - Ask: Which place in our home is most like the ground under a stone? (good: Under the doormat.; Under the sink, because it is dark and damp.)
   - Think: Our home has many small places. Could each one be home to someone different?
 ### a2 · One Tree, Many Homes (if a tree is near) (15 min)
-- **record:** Your ticked card, and a drawing of your tree with every home you found.
+- **record:** Your ticked card. Tell a grown-up where on the tree each home was, high up or low down.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Stand with your child near one tree, or at a window that looks at a tree. Look at the top branches, then the trunk and bark, then the roots. Tick each thing you find.  
   *Parent says:* Let's look at this one tree, from the top to the bottom. Who lives here? Who comes to visit?  
@@ -261,34 +261,35 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 - **s2 (5 min)**  
   *Parent does:* Count the ticks together. Ask which homes were high up and which were low down.  
   *Parent says:* How many different living beings did we find on one tree? Which ones lived high up? Which lived down low?  
-  *Child mode:* Count your ticks. Who lived high up? Who lived low down?
+  *Child mode:* Count your ticks. Point to who lived high up and who lived low down.
   - Ask: Is the tree a living being too? (good: Yes, the tree is alive.; Yes, the tree grows and drinks water.)
   - Think: If this tree was cut down, where would all these living beings go?
 ### a3 · Plants in the Cracks (10 min)
-- **record:** A drawing of one plant in a crack, with the sun or the shade drawn beside it.
+- **record:** A photo or a drawing of one plant in a crack. Say if the crack is in sun or shade.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* Walk slowly with your child round the building, the staircase or the compound wall. Look in cracks for small plants, moss and grass.  
   *Parent says:* Plants can live in very small places. Let's find plants growing in cracks. Is this crack sunny or shady?  
   *Child mode:* Find a plant growing in a crack. Is the crack sunny or shady?
   - Note: Peepal and banyan seedlings, small ferns, moss and grass are common finds. Moss grows most on damp, shady walls.
 - **s2 (4 min)**  
-  *Parent does:* Ask how a seed got into a crack so high. Then your child draws one plant growing in a crack.  
-  *Parent says:* Birds eat the small figs of peepal and banyan trees. The seeds come out in their droppings. How could a seed get into a crack high on a wall?  
-  *Child mode:* How did a seed get into this crack? Draw the plant that grows in this crack.
+  *Parent does:* Ask how a seed got into a crack so high. Then your child photographs or draws one plant growing in a crack.  
+  *Parent says:* Look at this crack, high on the wall. There is hardly any soil here.  
+  *Child mode:* Take a photo of one plant in a crack, or draw the plant.
   - Ask: How could a peepal seed get into a crack high on a wall? (good: A bird ate a fig and dropped the seed there.; In the bird's droppings.)
+  - Note: If your child is stuck: birds eat the small figs of peepal and banyan trees, and the seeds come out in their droppings.
   - Think: A crack has only a little soil. What does the plant need that the crack gives? A good answer is a little soil to hold their roots, and rainwater that runs into the crack.
 ### a4 · Pond Watch (if you pass a pond, a lake or a temple tank) (15 min)
 - **safety:** Stay well back from the edge and hold a grown-up's hand. Do not lean over the water or go down slippery steps.
-- **record:** Your ticked card, and a drawing of the pond in three layers: under the water, on top, and in the air.
+- **record:** Your ticked card, with a star beside each living being who lives in the water all the time.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Stand with your child well back from the edge. Look under the water first, then on top, then in the air above. Tick what you see.  
-  *Parent says:* Let's look under the water first. Now look on top of the water. Now look in the air. Who lives here?  
-  *Child mode:* Look under the water. Look on top. Look in the air. Who lives here?
+  *Parent says:* We will look in three places: under the water, on top of the water, and in the air. Who do you see?  
+  *Child mode:* Look under the water, then on top, then in the air. Tick each one you find.
   - Note: Fish, tadpoles, pond skaters, dragonflies, lotus or water lilies, egrets and ducks are common.
 - **s2 (5 min)**  
-  *Parent does:* Count the ticks together. Ask which beings live in the water all the time, and which only come to visit.  
-  *Parent says:* Who lives in the water all the time? Who only comes to visit?  
-  *Child mode:* Who lives in the water all the time? Who only visits?
+  *Parent does:* Count the ticks together. Put a star by each being who lives in the water all the time.  
+  *Parent says:* Some of these live in the water all the time. Some only come to visit. Let us find out which.  
+  *Child mode:* Count your ticks. Put a star by each one who lives in the water.
   - Ask: Why does an egret come to the pond? (good: To catch fish.; To find food.)
   - Think: Without the pond, where would the fish and the tadpoles live?
 
@@ -296,23 +297,23 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 ### p1 · A Stone Home on the Balcony (20 min, 3 days)
 - **problem:** A stone makes a dark, damp, cool place on the ground. In this project, a tile does the job of a stone. You lay it on wet soil, then lift it each morning to see which small animals have moved in.
 - **safety:** A grown-up lifts the tile and keeps fingers out from under it, in case of a centipede or a scorpion.
-- **record:** A drawing for each morning of what you found under the tile, with a tally of any ants or other small animals.
-- **schedule:** day 1: Wet the soil. Lay the tile flat on it in a shady corner of the balcony or a window ledge inside the grill. (8 min); day 2: Lift the tile slowly. Look, count and draw. Put it back gently. (6 min); day 3: Lift the tile again. Look, count and draw. Compare with yesterday. (6 min)
+- **record:** A tally of the ants and other small animals under the tile each morning, and one photo or drawing of what you found.
+- **schedule:** day 1: Wet the soil. Lay the tile flat on it in a shady corner of the balcony or a window ledge inside the grill. (8 min); day 2: Lift the tile slowly. Look, count and make a tally. Put it back gently. (6 min); day 3: Lift the tile again. Look, count and make a tally. Compare with yesterday. Take a photo or draw what you found. (6 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Pour water on the soil until it is dark. 2. Lay the tile flat on top. 3. Put it in a shady corner, out of reach of pets.  
   *Parent says:* We are making a stone home. Small animals look for dark, damp places. Let's see who finds this one.  
   *Child mode:* Wet the soil. Lay the tile flat on top. This is a stone home.
   - Ask: Who do you think might come? Why? (good: Ants, because there are ants on the balcony.; A pill bug, because they like damp places.)
 - **s2 (6 min)**  
-  *Parent does:* Lift the tile slowly. Look, count and draw what you see. Put the tile back gently, the same way.  
+  *Parent does:* Lift the tile slowly. Look, and make a tally mark for each small animal. Put the tile back gently, the same way.  
   *Parent says:* Lift it slowly. Is the soil still damp? Has anyone moved in? Let's count them.  
-  *Child mode:* Lift the tile slowly. Is anyone there? Count them. Put the tile back gently.
+  *Child mode:* Lift the tile slowly. Count who is there. Put the tile back gently.
   - Note: Ants come most often. If nobody has come, that is a result too. Keep the soil damp with a little water.
   - Wait: Come back tomorrow morning.
 - **s3 (6 min)**  
-  *Parent does:* Lift the tile again. Count and draw. Compare with yesterday's drawing.  
+  *Parent does:* Lift the tile again. Make a tally. Compare with yesterday's tally. Then take a photo, or draw what you found.  
   *Parent says:* Are there more today, or fewer, or the same? Why do you think so?  
-  *Child mode:* Count again. More, fewer or the same as yesterday? Why?
+  *Child mode:* Count again. Look at yesterday's tally.
   - Note: Put the tile back the same way.
   - Think: When we stop the project, should we leave the stone home there?
   - Wait: Come back the next morning.
@@ -320,14 +321,14 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 ## Challenges
 ### c1 · Make a Water Place for Birds on a Hot Day (20 min)
 - **problem:** Make a place where small birds can drink and bathe safely on a hot day, using things from home.
-- **your turn:** Draw your water place. Put it out, and watch for two days. Who came? Which birds drank, and which bathed?
+- **your turn:** Plan your water place: draw it, or tell a grown-up where it will go and what you will use. Put it out, and watch for two days. Who came? Which birds drank, and which bathed?
 - **constraints:** The water must be shallow, no deeper than the first knuckle of your finger, so small birds can stand in it.; It must be in the shade, so the water stays cool.; It must be safe from cats, and not fall off a ledge.; The water must be changed every day, so mosquitoes cannot lay eggs in it.
 - **general:** A wide, shallow clay or steel plate filled with a little water.; Put it in a shady spot where you can see it from inside.
 - **creative:** Put a flat stone in the middle, so the smallest birds have somewhere to stand.; Put the plate on a high shelf inside the grill, where cats cannot reach.; Put a plant pot beside the water, so birds have a place to rest before they drink.
 - **s1 (5 min)**  
   *Parent does:* Talk about the problem. Look at the balcony or window ledge together. Find a shady, safe spot.  
   *Parent says:* Birds need water on hot days. Where could a small bird drink safely here? What would keep the water cool?  
-  *Child mode:* Birds need water on hot days. Where could a bird drink safely?
+  *Child mode:* Point to a safe, shady spot where a bird could drink.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Your child chooses a plate and a stone and sets them up. Pour in water no deeper than the first knuckle of a finger.  
   *Parent says:* Why should the water be shallow? Why should it be in the shade?  
@@ -336,7 +337,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 - **s3 (5 min)**  
   *Parent does:* Watch from inside for a few minutes at different times. Note which birds come.  
   *Parent says:* Who came to our water place? Did they drink, or did they bathe?  
-  *Child mode:* Watch from inside. Who came? Did they drink or bathe?
+  *Child mode:* Watch from inside. Note which birds come.
   - Think: We made a small new habitat. What else could we add to it? A good answer is a plant pot for shade, or a flat stone to stand on.
   - Wait: Watch over the next two days.
 

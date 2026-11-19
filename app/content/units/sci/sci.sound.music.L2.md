@@ -1,7 +1,7 @@
 # Home-made instruments: high and low sounds, and keeping a steady beat
 `sci.sound.music.L2`
 
-**Summary.** Tap a big carton and it booms. Tap a matchbox and it ticks. Both are made of card, so why do they sound so different? When you tap a box, its sides vibrate: they move in and out very fast. A big side vibrates more slowly, and slow vibrations make low sounds. In this unit you make instruments from boxes, bottles and rubber bands, and you test which ones sound high and which sound low. You also learn to keep a beat, a steady pulse like a clock ticking, and to clap a rhythm on top of it. When everyone follows one beat, all the different sounds fit together into music.
+**Summary.** A big carton booms when you tap it, and a matchbox ticks, though both are card. Why do they sound so different? In this unit you will make instruments from boxes, bottles and rubber bands, test which sound high and which low, and clap steady beats and the rhythm of your name.
 
 **Intro.** *Find an empty matchbox and a big empty carton. Tap the middle of each one with one finger. Listen. Both are made of card. So why does one tick and the other boom?* In this unit you find out. You make a drum from a box, a hooter from a bottle and a one-string instrument from a rubber band. You test big and small boxes to see which sounds high and which sounds low. Then you learn to keep a steady beat, like drummers all over India do, so that a whole family band can play together.
 

@@ -1,7 +1,7 @@
 # What is life? Why every test for life has an exception
 `sci.what-is-life.signs-of-life.L4`
 
-**Summary.** A candle flame uses up wax, needs air, grows bigger and spreads to a new wick. Yet nobody calls a flame alive. A mule almost never has young, and a seed can wait for centuries without doing anything. Yet both are alive. So every simple test for life has an exception, and scientists still argue about the best definition. In this unit your child tests their own rule for life against hard cases, watches a beetroot cell lose its colour when it is heated, and finds that a living thing stays different from its surroundings by working at it all the time.
+**Summary.** A candle flame uses air, grows and spreads, yet it is not alive. A seed can wait for centuries doing nothing, yet it is alive. So what is life? In this unit you will write your own test for life and try to fool it, and heat beetroot to see colour leak out.
 
 **Intro.** *A candle flame uses up wax. It needs air, because it goes out under a glass. It grows when you add a wick, and it spreads to a new wick. Is a flame alive? And what about a mule, who almost never has young, or a dry seed that does nothing at all?* Every simple test for life gets fooled by something. A flame passes many tests and is not alive. A seed fails many tests and is alive. Scientists know this, and they have tried for a hundred years to write a better test. In this unit you will write your own rule, break it, and mend it. You will also see what happens inside a living cell when it is heated, and why staying warm in a cool room is hard work.
 

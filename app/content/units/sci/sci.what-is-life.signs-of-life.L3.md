@@ -1,7 +1,7 @@
 # Signs of life: how we tell what is alive
 `sci.what-is-life.signs-of-life.L3`
 
-**Summary.** A dry moong seed does nothing you can see, while a car zooms, drinks petrol and puffs out smoke. Yet the seed is alive and the car is not. Scientists tell living from non-living things with seven signs, called the life processes: nutrition, respiration, growth, movement, sensing, excretion and reproduction. One sign alone is not enough, because a cloud grows and a car moves. Only living things do all seven, by themselves, over their lives. A dry seed is alive but resting, and in this unit you wake some up and compare them with boiled ones.
+**Summary.** A dry moong seed does nothing, while a car moves and puffs out smoke. Yet the seed is alive and the car is not. In this unit you will test a seed, a cloud and a car against seven signs of life, wake up seeds, and blow up a balloon with yeast.
 
 **Intro.** *Hold a dry moong seed in your palm. The seed does not move, does not eat and does not seem to breathe. Now push a toy car across the floor. It zooms. Which one is alive?* Most people say the seed is alive. But ask them why, and it gets hard. The car moves, and the seed does not. A real car even drinks petrol, sucks in air and puffs out smoke. So what does a living thing do that a car never can? Scientists have a list of seven things to look for. In this unit you will test every one of them, on a seed, a cloud and a car.
 

@@ -1,7 +1,7 @@
 # How toys move: rolling, bouncing, spinning and winding up
 `sci.forces.how-toys-work.L1`
 
-**Summary.** A ball rolls down a slope, but a book stays put. A paper cup rolls too, yet it curves round in a circle instead of going straight. Your child tests what rolls, drops a ball from high and low, twists a string, spins a home-made top and pushes a book on pencils. They find that round things roll, that a rolling thing's own shape steers it, that a ball squashes and springs back when it bounces, and that a top stands up only while it spins. Every toy starts moving with a push or a pull, from a hand, a slope or a spring inside.
+**Summary.** A ball rolls down a slope, but a book stays put. Why? In this unit you will test what rolls and what slides, drop a ball from high and low to see how it bounces, and make a string that winds up and lets go.
 
 **Intro.** *Lean a tray on two books. Put a ball at the top and let go. Now put a book at the top and let go. What happens to each one?* The ball rolled down. The book stayed where it was. Nobody pushed either of them, and both were on the same slope. So why did only the ball move? In this unit you find out how toys move. Some roll, some bounce, some spin, and some wind up and go. You test each one with things from home.
 
@@ -200,7 +200,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 - **s2 (8 min)**  
   *Parent does:* Take turns. After a few rolls, ask what helps the ball go straight.  
   *Parent says:* Which rolls hit the most bottles? What did you do with your hand on those rolls?  
-  *Child mode:* Roll the ball. What helped it go straight?
+  *Child mode:* Roll the ball. Think about what you did on your best roll.
   - Ask: What helps the ball hit the bottles? (good: Rolling it straight from the middle.; A bigger push so it doesn't stop.)
   - Note: A bigger push sends the ball faster, so it knocks down more bottles. A ball let go at an angle rolls off to the side.
 - **s3 (2 min)**  
@@ -214,10 +214,10 @@ Ammamma clapped, and Tara wrote it in her science book.
 - **question:** Which things will roll down the slope, and which will stay still or slide? Will a paper cup roll the same way as a bottle? How steep must the slope be before a book slides?
 - **predict:** Guess first, for each thing. Will it roll, stay still, or slide? Will the cup go straight like the bottle? Why do you think so?
 - **fair test:** We use the same slope for every thing. We put each thing at the top and let go, without any push. We try the bottle and the cup twice, because one try can be a fluke.
-- **record:** Look at your folded paper. Each thing is now on the part where it belongs: roll, stay or slide. Draw each thing in its part, if it is not drawn there already.
+- **record:** Look at your folded paper. Each thing is now on the part where it belongs: roll, stay or slide. Take a photo of it, or write each thing's name in its part.
 - **results table:** Thing | My guess: roll, stay or slide? | What it did
 - **s1 (3 min)**  
-  *Parent does:* 1. Lean the tray on two books on a bare floor. 2. Clear about two big steps of floor in front of it. 3. Put the eight things beside the slope. Keep the other two books handy. 4. Fold the sheet of paper into three parts. At the top of the parts draw a ball for roll, a box for stay and a sliding book for slide.  
+  *Parent does:* 1. Lean the tray on two books on a bare floor. 2. Clear about two big steps of floor in front of it. 3. Put the eight things beside the slope. Keep the other two books handy. 4. Fold the sheet of paper into three parts. Write ROLL, STAY and SLIDE at the top of the parts.  
   *Parent says:* Here is our slope. We will put each of these things at the top and let go. We won't push them at all.  
   *Child mode:* Look at the slope. Look at all the things. We will let go of each one.
   - Note: Bare tiles or stone work best. A carpet stops things too soon.
@@ -248,7 +248,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 - **s6 (2 min)**  
   *Parent does:* Ask your child what they found. Then ask the check question.  
   *Parent says:* What did you find out? Which things rolled? Why did the cup go round, and the bottle go straight?  
-  *Child mode:* What rolled? Why did the cup go round?
+  *Child mode:* Tell your grown-up one thing that rolled and one thing that did not.
   - Ask: Why did the cup curve? (good: One end is big and one end is small.; The wide end goes further.)
   - Note: Wait for your child's own words first. Then say it plainly: round things roll. The cup's wide end goes further on each turn than its narrow end, so the cup turns. The bottle is the same at both ends, so it goes straight.
   - Check: You let go of a book and a ball at the top of a slope. What happens? → **The ball rolls, and the book stays still**
@@ -256,7 +256,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 - **question:** Will a ball dropped from high up bounce higher than one dropped from low down? Will it ever bounce back as high as your hand?
 - **predict:** Guess first. Which drop will make the higher bounce? Will the ball come back up to your hand? Why do you think so?
 - **fair test:** We use the same ball and the same floor each time. We let go of the ball, without throwing it. We drop it three times from each height, because one try can be a fluke.
-- **record:** Draw the wall, the two drop marks and the two bounce marks. Draw an arrow down from each drop mark, and an arrow up to its bounce mark.
+- **record:** Look at the four bindis on the wall. Take a photo of them, or draw the wall with an arrow down from each drop mark and an arrow up to its bounce mark.
 - **results table:** Dropped from | My guess: high or low bounce? | How high it bounced (where the bindi is)
 - **s1 (2 min)**  
   *Parent does:* 1. Stick one bindi on the wall at your child's knee height. 2. Stick another at your own shoulder height.  
@@ -276,8 +276,8 @@ Ammamma clapped, and Tara wrote it in her science book.
   - Note: Let go of the ball. Don't throw it down. Your child sees the top of the bounce best by crouching at the side. The marks will not be exact, and that is fine.
 - **s4 (3 min)**  
   *Parent does:* Look at all four bindis together. Ask your child what they see.  
-  *Parent says:* Look at the shoulder bindi and the bounce bindi under it. Did the ball ever come back up to my hand?  
-  *Child mode:* Did the ball come back up to the hand?
+  *Parent says:* Look at the shoulder bindi and the bounce bindi under it. Where did the bounce stop?  
+  *Child mode:* Point to the shoulder bindi. Then point to the bounce bindi under it.
   - Ask: Did the ball come back as high as it fell from? (good: No, always a bit lower.; It never got back to the hand.)
 - **s5 (2 min)**  
   *Parent does:* Ask what your child found, and why. Then ask the check question.  
@@ -288,7 +288,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 
 ## Activities
 ### a1 · Toy Hunt: how does each toy move? (10 min)
-- **record:** Draw three of your toys. Next to each one, draw a hand, a foot or a slope to show what started it moving.
+- **record:** Sort your five toys into groups by how they moved: roll, bounce, spin or slide. Tell your grown-up what started each one: a hand, a foot or a slope.
 - **s1 (2 min)**  
   *Parent does:* Ask your child to bring five toys or things that move. Lay them on the floor.  
   *Parent says:* Bring me five toys that can move. Let's lay them out here.  
@@ -301,11 +301,11 @@ Ammamma clapped, and Tara wrote it in her science book.
   - Note: A bangle on its edge rolls. A doll slides or falls. Some toys do two things: a ball can roll and bounce.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Here is one more toy to think about.  
-  *Child mode:* Think about this toy.
+  *Parent says:* Here is one more question, about a toy car.  
+  *Child mode:* Think about the toy car.
   - Check: A toy car is lying still on the floor. What will make it move? → **A push or a pull**
 ### a2 · Twist and Let Go: a string that winds up (10 min)
-- **record:** Draw the sock hanging on the string. Draw curly arrows round it to show it spinning.
+- **record:** Tell your grown-up how long the sock spun after ten twists, and after twenty. You can draw the sock with curly arrows round it too.
 - **s1 (2 min)**  
   *Parent does:* 1. Tie the string to the sock that has the ball inside. 2. Your child holds the top of the string up high and keeps their arm still.  
   *Parent says:* Hold the string up high and keep your arm still. I will twist the sock round and round.  
@@ -323,11 +323,11 @@ Ammamma clapped, and Tara wrote it in her science book.
   - Ask: What did more twists do? (good: It spun for longer.; It went faster and longer.)
 - **s4 (1 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* A wind-up toy has a spring inside that you twist with a key. What do you think more turns of the key will do?  
+  *Parent says:* A wind-up toy has a spring inside that you twist with a key. It works like your twisted string. Here is a question about one.  
   *Child mode:* Answer this one.
   - Check: Zainab and Lakshmi have the same kind of wind-up toy. Zainab winds hers with three turns. Lakshmi winds hers with ten turns. Whose toy goes further? → **Lakshmi's toy**
 ### a3 · Book on Rollers: push it on round pencils (10 min)
-- **record:** Draw the book on the floor, and then the book on its pencils. Put a big arrow by the one that was easier to push.
+- **record:** Tell your grown-up which push was easier, and why. Take a photo of the book on its pencils.
 - **s1 (2 min)**  
   *Parent does:* Your child pushes the heavy book across the floor with one finger.  
   *Parent says:* Push this book with just one finger. Is it easy or hard?  
@@ -345,7 +345,7 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Child mode:* Answer this one.
   - Check: You need to move a heavy box across the floor. What would help most? → **Putting round rods under it**
 ### a4 · Pull-Back Car: short pull, long pull (10 min)
-- **record:** Draw the car and two chappals. Write or draw which pull went further.
+- **record:** Count the big steps from where the car started to each chappal. Say which pull went further, and write the two numbers.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child presses the car down and pulls it back one hand length. 2. Let go. 3. Put a chappal where it stops.  
   *Parent says:* Pull it back just a little, one hand long. Let go. Where did it stop? Let's mark it.  
@@ -365,20 +365,20 @@ Ammamma clapped, and Tara wrote it in her science book.
 ## Projects
 ### p1 · Make a Colour Top (20 min)
 - **safety:** A grown-up makes the hole in the card with a sharp pencil point, with an eraser or a lump of atta dough under the card.
-- **record:** Draw your top before spinning. Then draw what the colours looked like while it spun.
+- **record:** Tell your grown-up what happened when you stood the top still, and what colour you saw while it spun. A grown-up can write it down. You can draw the spinning colours too.
 - **s1 (6 min)**  
   *Parent does:* 1. Your child draws round the katori on the card. 2. Cut out the circle. 3. Fold the circle in half, then in half again, and open it. The middle is where the folds cross.  
   *Parent says:* Draw round the katori. Now cut out the circle. Fold it in half, then in half again. Where the folds cross is the middle.  
-  *Child mode:* Draw round the katori. Cut it out. Fold it to find the middle.
+  *Child mode:* Make a circle and find its middle.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Your child colours one half red and the other half yellow. 2. A grown-up makes a hole at the middle with a sharp pencil point. 3. Push the short pencil through, so a little of its point sticks out below.  
   *Parent says:* Colour one half red and one half yellow. Now I'll make a hole right in the middle, and push the pencil through.  
-  *Child mode:* Colour half red, half yellow. A grown-up makes the hole.
+  *Child mode:* Colour your circle in two halves.
   - Note: The hole must be at the very middle, or the top wobbles and falls at once. Keep the card about two finger-widths above the pencil point. If the card slips on the pencil, wrap a little tape round the pencil under the card.
 - **s3 (6 min)**  
   *Parent does:* 1. Your child tries to stand the top on its point without spinning. 2. Then twist the pencil top fast between finger and thumb, and let go on the plate. 3. Watch the colours.  
   *Parent says:* First try to stand it up without spinning. What happens? Now spin it hard. What colour do you see while it spins?  
-  *Child mode:* Stand it still. Does it fall? Now spin it. What colour do you see?
+  *Child mode:* Does it stand up on its own? Now spin it and watch.
   - Ask: What did the colours do? (good: They went orange.; The red and yellow mixed together.)
   - Note: When the top is still, it falls over at once. When it spins, it stands up. The red and yellow look orange because the eye sees them one after the other, too fast to tell apart. Try drawing a dot near the edge of the card too: when the top spins, the dot looks like a ring.
 - **s4 (3 min)**  
@@ -390,14 +390,14 @@ Ammamma clapped, and Tara wrote it in her science book.
 ## Challenges
 ### c1 · Make the Cup Roll Straight (15 min)
 - **problem:** You want to send a paper cup rolling straight to a teddy, three steps away. But the cup keeps curving round. How can you make it roll straight?
-- **your turn:** Find one way to make the cup roll straight. Draw it, and say what you changed.
+- **your turn:** Find one way to make the cup roll straight. Build it, test it, and tell your grown-up what you changed. You can take a photo or draw it.
 - **constraints:** The cup must roll, not slide.; You may use paper cups, tape and paper.; Let go from the same slope each time.
 - **general:** Wheels on a car are all the same size, so the car goes straight.; A bottle is the same width at both ends, so it rolls straight.
 - **creative:** Tape two cups together, wide end to wide end.; Tape two cups narrow end to narrow end.; Roll a sheet of paper into a tube and slip the cup inside it, so the outside is the same width all along.
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Sit the teddy three steps from the slope. Roll one cup to show how it curves.  
   *Parent says:* The cup curves away from the teddy. Why does it curve? How could you make it go straight?  
-  *Child mode:* The cup curves. How can you make it go straight?
+  *Child mode:* Watch the cup curve. Think about its two ends.
   - Ask: What makes the cup curve? (good: One end is big and one is small.; The wide end goes further.)
 - **s2 (9 min)**  
   *Parent does:* Your child tries their ideas. Help with taping only if asked.  

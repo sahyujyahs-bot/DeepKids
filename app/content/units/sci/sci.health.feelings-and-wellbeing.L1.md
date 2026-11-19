@@ -1,7 +1,7 @@
 # Feelings: naming them, and what helps when we feel sad or angry
 `sci.health.feelings-and-wellbeing.L1`
 
-**Summary.** Happy, sad, angry, scared and calm are all feelings, and every person has every one of them. Your child names their feelings, and draws a face for each one, six times in one day. They find out whether one feeling stays all day or many feelings come and go. They also try things that help when they feel sad or angry: a slow breath, a hug, watching a settling bottle, and saying the feeling out loud.
+**Summary.** Can you feel happy, sad and angry all in one day? In this unit you will name your feelings and say how big they are, keep a chart of your feelings through a day, and try things that help when you feel sad or angry.
 
 **Intro.** *Put your hand on your tummy and close your eyes. What are you feeling right now? Can you give it a name?* A feeling is something you notice inside you. Happy is a feeling. So are sad, angry, scared and calm. Every person has all of these, and so do many other animals. In this unit you give your feelings names. You draw your feelings through one whole day. And you find out what helps when you feel sad or angry.
 
@@ -161,13 +161,13 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 
 ## Games
 ### g1 · What Would You Feel? A feelings card game (15 min)
-- **rules:** Cut out the six feeling cards. Draw the face on each one, using the hint on its back. Lay them in a row, face up. Mix the 16 story cards and put them face down in a pile.; Take turns. The player whose turn it is gives the top story card to another player to read aloud. A child who cannot read yet gives it to the grown-up.; The player says what they would feel, and puts a finger on that feeling card.; The player shows the feeling with their face and body for three counts.; Everyone else says what they would feel. It is fine to feel something different.; The reader reads the back of the story card. Put the card face up in a used pile.; When all 16 story cards are used, each player picks one used card that gave a sad, cross or scared feeling, and says what would help. Then the game is over. Nobody wins or loses: you all named your feelings.
+- **rules:** Cut out the six feeling cards. Read the hint on the back of each one and make that face yourself. Lay them in a row, face up. Mix the 16 story cards and put them face down in a pile.; Take turns. The player whose turn it is gives the top story card to another player to read aloud. A child who cannot read yet gives it to the grown-up.; The player says what they would feel, and puts a finger on that feeling card.; The player shows the feeling with their face and body for three counts.; Everyone else says what they would feel. It is fine to feel something different.; The reader reads the back of the story card. Put the card face up in a used pile.; When all 16 story cards are used, each player picks one used card that gave a sad, cross or scared feeling, and says what would help. Then the game is over. Nobody wins or loses: you all named your feelings.
 - **Printable cards: 16 story cards to cut out:** Your ice cream falls on the floor. (back: Many children feel sad or cross. Some laugh!); Your best friend comes to play. (back: Most children feel happy or excited.); A loud thunderclap wakes you up at night. (back: Many children feel scared. Some feel excited by storms.); Someone takes your crayons without asking. (back: Most children feel angry. That is fair: it was not kind.); A grown-up you love gives you a big hug. (back: Most children feel happy, warm or calm.); You lose a race at school. (back: Many children feel sad or cross. Some feel proud they tried.); You are going on a train to see your cousins tomorrow. (back: Most children feel excited. Some feel a bit nervous too.); Your kite string snaps and the kite floats away. (back: Many children feel sad. Some feel cross.); You learn to ride a cycle without help. (back: Most children feel proud and happy.); A big dog runs towards you, barking. (back: Many children feel scared. Children who love dogs may feel happy.); Another child tears your drawing. (back: Most children feel angry, and sad too. Two feelings can come at once.); It is your birthday, and everyone sings for you. (back: Most children feel happy. Some feel shy too.); A grown-up goes out, and you are not allowed to go with them. (back: Many children feel sad or cross.); You lie on the bed and listen to the rain. (back: Many children feel calm, or sleepy.); You can't find your favourite toy anywhere. (back: Many children feel worried, then cross.); Your friend shares her lunch when you forgot yours. (back: Most children feel happy and thankful.)
-- **Printable cards: 6 feeling cards to cut out and draw:** Happy (back: A smiling face with bright eyes.); Sad (back: A face with the mouth turned down and a tear.); Angry (back: A face with eyebrows pulled down and lips pressed tight.); Scared (back: A face with wide eyes and raised eyebrows.); Calm (back: A face with soft eyes and a small, quiet smile.); Excited (back: A face with a big open smile and eyebrows up.)
+- **Printable cards: 6 feeling cards to cut out:** Happy (back: A smiling face with bright eyes.); Sad (back: A face with the mouth turned down and a tear.); Angry (back: A face with eyebrows pulled down and lips pressed tight.); Scared (back: A face with wide eyes and raised eyebrows.); Calm (back: A face with soft eyes and a small, quiet smile.); Excited (back: A face with a big open smile and eyebrows up.)
 - **s1 (2 min)**  
-  *Parent does:* Cut out the cards. Draw the face on each of the six feeling cards, using the hint on its back. Lay them in a row and read each name aloud together.  
-  *Parent says:* These are six feelings: happy, sad, angry, scared, calm and excited. Let's draw each face, and then make that face ourselves.  
-  *Child mode:* Here are six feelings. Say each name. Make each face.
+  *Parent does:* Cut out the cards. Read each name aloud and the hint on its back, and make the face together. Lay the six feeling cards in a row. (Your child can draw the face on each card if they like.)  
+  *Parent says:* These are six feelings: happy, sad, angry, scared, calm and excited. Let's make each face with our own faces.  
+  *Child mode:* Say each name. Make each face.
 - **s2 (10 min)**  
   *Parent does:* Play the game by the rules. Read each story card aloud.  
   *Parent says:* Listen: someone takes your crayons without asking. What would you feel? Point to the face. Now show it!  
@@ -190,7 +190,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 - **s2 (2 min)**  
   *Parent does:* Ask which statue was hardest to do, and which helper call made your child feel calmest.  
   *Parent says:* Which statue was hardest to do? Which helper made you feel calmest?  
-  *Child mode:* Which statue was hardest? Which helper made you calm?
+  *Child mode:* Think back over the game. Which statue was hardest to do?
   - Ask: Which helper made you calm? (good: Blowing on the rasam.; Lying down with my eyes closed.)
 
 ## Experiments
@@ -198,41 +198,41 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 - **question:** In one day, do I have one feeling all day, or many different feelings? When a sad or cross feeling comes, does it stay?
 - **predict:** How many different feelings do you think you will draw today? Will one feeling stay all day? Why do you think so?
 - **fair test:** We stop at the same six times in the day: waking up, breakfast, mid-morning, lunch, late afternoon and bedtime. Each time, you name the feeling yourself. Nobody tells you what you feel. Any feeling is a right answer.
-- **record:** The chart of six faces, with a small picture next to any sad, cross or scared face showing what helped.
-- **results table:** Time | My feeling (draw the face) | How big? small, middle or big | What was happening? | If it was sad, cross or scared: what helped?
+- **record:** The chart of six faces or words, with a word next to any sad, cross or scared one showing what helped.
+- **results table:** Time | My feeling (draw the face or write the word) | How big? small, middle or big | What was happening? | If it was sad, cross or scared: what helped?
 - **schedule:** day 1: Make the chart, guess how many feelings will come, and draw the first face when you wake up or soon after. (10 min); day 1: Stop five more times in the day, at breakfast, mid-morning, lunch, late afternoon and bedtime, and draw a face each time. If a face is sad, cross or scared, try one thing that helps, like a slow breath or a hug. (13 min); day 2: Look at the whole chart. Count the different feelings. Did any feeling stay all day? Compare with your guess. (10 min)
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw six big circles on the paper. 2. Under them, write the six times: wake up, breakfast, mid-morning, lunch, afternoon, bedtime. 3. Tape the chart where your child can reach it.  
-  *Parent says:* Today we are going to be feeling scientists. Six times today, we will stop and ask what you are feeling. You will draw a face for it in a circle.  
-  *Child mode:* Today you are a feeling scientist. Six times today, you stop. You ask: what am I feeling? You draw the face.
+  *Parent does:* 1. Draw six big circles on the paper (or ask your child to). 2. Under them, write the six times: wake up, breakfast, mid-morning, lunch, afternoon, bedtime. 3. Tape the chart where your child can reach it.  
+  *Parent says:* Today we are going to be feeling scientists. Six times today, we will stop and ask what you are feeling. You will put a face or a word for it in a circle.  
+  *Child mode:* Six times today, you stop and notice what you feel.
   - Note: The fridge door or a wall at child height works well. Write the times small, under the circles. Your child does the drawing.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess. Write their guess at the top of the chart.  
   *Parent says:* How many different feelings do you think you will draw today? Will you feel the same thing all day? Why do you think so?  
-  *Child mode:* Guess how many feelings you will draw today. One? Six? Why do you think so?
+  *Child mode:* Guess how many different feelings you will have today. One? Six?
   - Ask: Why do you think so? (good: I am happy today, so I will be happy all day.; I get cross when I have to stop playing.; I don't know. Maybe three.)
   - Note: Many children guess one or two feelings, often 'happy all day'. Any guess is fine. Write it down, because you will compare it with the chart tomorrow.
 - **s3 (3 min)**  
-  *Parent does:* 1. Do the first check now. 2. Your child stands still, puts one hand on their tummy and closes their eyes. 3. They name the feeling, then draw its face in circle 1.  
+  *Parent does:* 1. Do the first check now. 2. Your child stands still, puts one hand on their tummy and closes their eyes. 3. They name the feeling, then draw its face (or write its name) in circle 1.  
   *Parent says:* Stand still. Put your hand on your tummy. Close your eyes. What are you feeling right now? Is it small, middle or big?  
-  *Child mode:* Stand still. Hand on your tummy. Close your eyes. What do you feel? Is it small, middle or big? Draw its face.
+  *Child mode:* Stand still, hand on your tummy, eyes closed. Listen to your body. Then draw the face, or write the word, in circle 1.
   - Ask: What are you feeling? How big is it? (good: Sleepy, a big sleepy.; Happy, a middle happy.; A little bit cross.)
   - Note: Let your child choose the word. If they are stuck, offer three: 'Happy, sleepy or cross?' Do not tell them what they feel. Show 'how big' with your hands: close together, a bit apart, wide apart.
 - **s4 (10 min)**  
-  *Parent does:* 1. Stop at breakfast, mid-morning, lunch, late afternoon and bedtime. 2. Each time, your child names the feeling and draws the face. 3. Ask what was happening, and write one word next to the circle.  
+  *Parent does:* 1. Stop at breakfast, mid-morning, lunch, late afternoon and bedtime. 2. Each time, your child names the feeling and draws the face, or writes the word. 3. Ask what was happening, and write one word next to the circle.  
   *Parent says:* Time to stop again. Hand on your tummy. What are you feeling now? What is happening just now?  
-  *Child mode:* Stop again. Hand on your tummy. What do you feel now? Draw it.
+  *Child mode:* Stop again. Hand on your tummy. Draw the face, or write the word.
   - Note: A phone alarm helps you remember. If you miss one time, do it as soon as you remember. Feelings in the middle of a cross moment are the most useful ones to draw.
   - Wait: Do the other five checks through the day, about 2 minutes each
 - **s5 (3 min)**  
-  *Parent does:* If your child draws a sad, cross or scared face, try one thing that helps together. Then ask how the feeling is now. Draw what helped next to the circle.  
+  *Parent does:* If your child draws a sad, cross or scared face, try one thing that helps together. Then ask how the feeling is now. Write one word for what helped next to the circle.  
   *Parent says:* That is a cross face. Shall we try something that helps? Five slow breaths, a hug, or telling me what happened? How does the feeling feel now?  
-  *Child mode:* Is it a sad, cross or scared face? Try one helper. A slow breath, a hug, or telling someone. Is the feeling smaller now?
+  *Child mode:* Pick one helper: a slow breath, a hug, or telling someone. Then notice if the feeling is smaller.
   - Note: Do not hurry the feeling away. The point is to notice what happens to it. If no sad or cross face comes today, that is a real result too.
 - **s6 (5 min)**  
   *Parent does:* Next day, look at the whole chart together. Count how many different faces there are. Read out the guess from yesterday.  
   *Parent says:* Look at your chart. How many different feelings did you draw? What was your guess? Did any feeling stay all day?  
-  *Child mode:* Look at your chart. Count the different faces. Did any feeling stay all day? Was your guess right?
+  *Child mode:* Look at your chart. Count the different faces. Was your guess right?
   - Ask: Did any feeling stay all day? (good: No. I was happy, then cross, then calm.; Happy came back two times, but other feelings came in between.)
   - Ask: What happened to the cross or sad face? (good: It went away after a hug.; The next face was a happy one.; It was small by lunch.)
   - Note: Most children draw several different feelings in a day. If your child drew the same face six times, ask whether it was the same size each time, or try the chart again on a school day or a busy day.
@@ -245,26 +245,26 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 
 ## Activities
 ### a1 · Name It, Size It: how big is my feeling? (10 min)
-- **record:** Draw your three biggest feelings from the stories. Next to each one, draw a small, middle or big circle to show how big it was.
+- **record:** Pick the three stories that gave you the biggest feelings. A grown-up writes each feeling's name and its size: small, middle or big.
 - **s1 (2 min)**  
   *Parent does:* Show the three sizes with your hands: hands nearly touching for small, a little apart for middle, wide apart for big.  
   *Parent says:* Feelings have names, and they have sizes too. Small is like this. Middle is like this. Big is like this.  
-  *Child mode:* Feelings have names. They have sizes too. Small, middle, big. Show me with your hands.
+  *Child mode:* Show small, middle and big with your hands.
   - Note: Sizing a feeling helps a child notice that the same feeling can be small or big, and can change size.
 - **s2 (6 min)**  
   *Parent does:* Tell these stories one at a time: your balloon bursts. Your friend says, 'I will not play with you.' You are told it is bedtime while you are still playing. Your teacher gives you a gold star. A cousin you love goes home after the holidays. The lights go out in a power cut.  
   *Parent says:* Listen to this. Your balloon bursts. What would you feel? How big is it? Show me.  
-  *Child mode:* Listen to the story. What would you feel? Say the name. Show how big.
+  *Child mode:* Listen to the story. Picture it happening to you.
   - Ask: What would you feel? How big? (good: Sad, a big sad.; Cross, a middle cross.; Scared, a small scared.)
   - Note: There is no wrong answer. One child feels sad about the burst balloon and another feels cross. Some stories bring two feelings at once, like sad and angry.
 - **s3 (2 min)**  
   *Parent does:* Ask whether a big feeling can become a small feeling, and what could help.  
   *Parent says:* Can a big feeling become a small feeling? What could help it get smaller?  
-  *Child mode:* Can a big feeling get small? What could help?
+  *Child mode:* Think of a time when a big feeling got smaller.
   - Ask: What could help? (good: A hug.; Taking slow breaths.; Waiting a bit.; Telling someone.)
 ### a2 · The Settling Bottle: watch it, and breathe (15 min)
 - **problem:** When you feel very cross or upset, it can seem as if everything inside you is swirling. A settling bottle is a bottle of water with rava in it. The rava swirls when you shake the bottle, and it sinks when you hold the bottle still. In this activity you watch the rava settle and breathe slowly. This gives your feeling time to settle too.
-- **record:** Draw the bottle just after shaking, and again when it has settled.
+- **record:** Take a photo of the bottle just after shaking, and again when it has settled. Or tell your grown-up what the rava did each time.
 - **s1 (5 min)**  
   *Parent does:* 1. Fill the bottle almost to the top with water. 2. Your child adds one spoon of rava or tea leaves, and a pinch of glitter if you like. 3. Close the cap tightly.  
   *Parent says:* We are making a settling bottle. Pour in the rava. Now let's close it tight.  
@@ -277,14 +277,14 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   - Ask: What happens when you keep it still? (good: The rava sinks to the bottom.; The water gets much clearer.; It takes a few breaths.)
   - Note: Count the breaths together. Most children take about four to six slow breaths before the rava has sunk. If it settles too fast, shake and breathe again.
 - **s3 (5 min)**  
-  *Parent does:* Talk about when to use it. Keep the bottle in a place your child can reach.  
+  *Parent does:* Tell your child they can use the bottle when a feeling is big. Keep it where they can reach it.  
   *Parent says:* When you feel very cross or upset, you can shake the bottle, watch it, and breathe. How do you feel after watching it settle?  
-  *Child mode:* When a feeling is big, shake the bottle. Watch it. Breathe slowly. How do you feel now?
+  *Child mode:* When a feeling is big, shake the bottle. Watch it. Breathe slowly.
   - Ask: How do you feel after watching it? (good: Calm.; Slow.; A bit sleepy.)
   - Note: The bottle does not change a feeling by itself. Watching it gives your child something to look at while they breathe slowly, and gives the feeling time to change. Some children like it; some prefer a hug. Both are fine.
 ### a3 · Tiger Body, Cat Body: feel your heart and breath change (10 min)
 - **problem:** When you feel angry or scared, your heart beats fast and your breath comes quickly. In this activity you make your heart beat fast by stomping like a tiger. Then you slow it down with slow breaths, like a sleepy cat. You find out that slow breathing helps your body calm down.
-- **record:** Draw yourself as a tiger and as a cat. Draw a big heart next to the tiger and a small, slow heart next to the cat.
+- **record:** Tell a grown-up what your heart did after the tiger and after the cat. Tap a fast beat and a slow beat on the table to show it.
 - **s1 (3 min)**  
   *Parent does:* Your child stomps on the spot and roars like an angry tiger while you count to 30.  
   *Parent says:* Be an angry tiger! Stomp and roar while I count to thirty.  
@@ -303,7 +303,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 - **s4 (2 min)**  
   *Parent does:* Your child feels their chest again. Then explain the link to feelings.  
   *Parent says:* Feel your heart again. Is it faster or slower now? When you feel angry or scared, your heart beats fast like the tiger's, even sitting still. Slow breaths help your body calm down.  
-  *Child mode:* Feel your heart again. Is it slower? Angry feelings make your heart fast too. Slow breaths help it calm down.
+  *Child mode:* Feel your heart again. Angry feelings make a heart fast too. Slow breaths help it calm down.
   - Note: Be honest with your child: the tiger heart came from stomping, not from anger. But anger and fear also make the heart beat fast and the breath quick, and slow breathing helps the body settle.
   - Check: You lay down like a cat and breathed slowly. What is your heart doing now? → **Beating slower**
 ### a4 · My Helping Hand: five things that help me (15 min)
@@ -313,9 +313,9 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   *Parent says:* Spread your fingers on the paper. I will draw round your hand.  
   *Child mode:* Spread your fingers. Keep your hand still while it is drawn.
 - **s2 (8 min)**  
-  *Parent does:* Your child draws one helper on each finger. Offer ideas only if they are stuck.  
-  *Parent says:* When you feel sad or angry, what helps you? Draw one thing on each finger.  
-  *Child mode:* What helps when you feel sad or angry? Draw one thing on each finger.
+  *Parent does:* Your child draws or writes one helper on each finger. A grown-up can write the words. Offer ideas only if they are stuck.  
+  *Parent says:* When you feel sad or angry, what helps you? Draw or write one thing on each finger.  
+  *Child mode:* Think of five helpers. Put one on each finger: draw it, or write a word.
   - Ask: What helps you? (good: A hug.; Slow breaths.; Telling someone.; Playing with a toy.; A drink of water.; Crying.)
   - Note: Ideas, if needed: slow breaths, a hug, telling someone, a drink of water, a rest, a quiet corner, the settling bottle, crying. Leave out hitting or throwing things: tell your child gently that these hurt people and keep anger going.
 - **s3 (4 min)**  
@@ -325,22 +325,22 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 
 ## Projects
 ### p1 · One Week of Feelings and Helpers (30 min, 7 days)
-- **record:** Seven pages, each with one feeling face and one helper drawing.
-- **schedule:** day 1: Make a feelings book of seven pages. On page 1, draw today's biggest feeling and what helped. If it was a happy feeling, draw what caused it. (5 min); day 2: Draw today's biggest feeling and what helped. (3 min); day 3: Draw today's biggest feeling and what helped. (3 min); day 4: Draw today's biggest feeling and what helped. (3 min); day 5: Draw today's biggest feeling and what helped. (3 min); day 6: Draw today's biggest feeling and what helped. (3 min); day 7: Draw the last page. Look at the whole week. Which helper did you use most? Which worked best? (10 min)
+- **record:** Seven pages, each with one feeling (a face or a word) and a line about what helped.
+- **schedule:** day 1: Make a feelings book of seven pages. On page 1, draw or write today's biggest feeling. A grown-up writes one line about what helped, or what caused a happy feeling. (5 min); day 2: Draw or write today's biggest feeling. A grown-up writes one line about what helped. (3 min); day 3: Draw or write today's biggest feeling. A grown-up writes one line about what helped. (3 min); day 4: Draw or write today's biggest feeling. A grown-up writes one line about what helped. (3 min); day 5: Draw or write today's biggest feeling. A grown-up writes one line about what helped. (3 min); day 6: Draw or write today's biggest feeling. A grown-up writes one line about what helped. (3 min); day 7: Do the last page. Look at the whole week. Which helper did you use most? Which worked best? (10 min)
 - **s1 (5 min)**  
-  *Parent does:* Make a feelings book of seven pages. On page 1, your child draws today's biggest feeling and what helped. If it was a happy feeling, they draw what caused it.  
-  *Parent says:* What was the biggest feeling you had today? Draw its face. Did anything help? Draw that next to it.  
-  *Child mode:* What was your biggest feeling today? Draw the face. What helped? Draw that too.
-  - Note: Happy days count too: draw what made the happy feeling. On a hard day, keep it short and gentle.
+  *Parent does:* Make a feelings book of seven pages. On page 1, your child draws the face of today's biggest feeling, or writes its name. You write one line next to it about what helped.  
+  *Parent says:* What was the biggest feeling you had today? Did anything help? I will write it next to your face.  
+  *Child mode:* Pick your biggest feeling today. Draw its face, or write its name.
+  - Note: Happy days count too: write what made the happy feeling. On a hard day, keep it short and gentle.
 - **s2 (15 min)**  
   *Parent does:* Each evening for the next five days, do one page.  
   *Parent says:* Time for your feelings book. What was your biggest feeling today? What helped?  
-  *Child mode:* Feelings book time. Biggest feeling today? What helped?
+  *Child mode:* Feelings book time. Add today's page.
   - Wait: Do one page each evening, about 3 minutes
 - **s3 (10 min)**  
-  *Parent does:* On day 7, draw the last page. Then lay all the pages out and look at them together.  
+  *Parent does:* On day 7, do the last page. Then lay all the pages out and look at them together.  
   *Parent says:* Look at your whole week. Which feeling came most? Which helper did you use most? Which one worked best for you?  
-  *Child mode:* Look at your week. Which feeling came most? Which helper worked best?
+  *Child mode:* Lay out your seven pages. Count which feeling shows up most.
   - Ask: Which helper worked best? (good: Hugs, because they make me warm.; Telling a grown-up, because then they know.; The settling bottle.)
   - Note: There is no right helper. Different helpers work for different children, and for different feelings.
 
@@ -354,7 +354,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Ask who the box is for and what helps them.  
   *Parent says:* Who at home would you like to make a cheer-up box for? When they feel sad, what helps them?  
-  *Child mode:* Who is your box for? What helps them when they are sad?
+  *Child mode:* Pick who your box is for.
   - Ask: What helps them? (good: A grandparent likes old photos.; A younger brother likes his soft elephant.; My mother likes it when I hug her.)
 - **s2 (12 min)**  
   *Parent does:* Your child decorates the box. Then they fill it: one thing to look at, one to touch and one to do.  

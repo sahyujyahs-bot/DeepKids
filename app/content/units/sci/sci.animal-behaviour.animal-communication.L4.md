@@ -1,7 +1,7 @@
 # How animals send messages: smell, colour, sound, touch and echoes
 `sci.animal-behaviour.animal-communication.L4`
 
-**Summary.** A female silk moth sits still on a leaf and makes no sound. Yet a male moth finds her in the dark. She gives off a smell called a pheromone, and his feathery antennae catch it. Animals, including humans, send messages in four ways: by smell, by sight, by sound and by touch. Your child tests how long a smell message lasts after the sender has left the room. They also find a steel plate with their eyes covered, using only echoes, as bats and dolphins do.
+**Summary.** A female silk moth sits silent on a leaf, yet a male finds her in the dark. How does her message reach him? In this unit you will spot animal signals at the window, test how long a smell message lasts, and find a steel plate by echoes alone.
 
 **Intro.** *A tigress sprays a tree and walks away. Three days later, another tiger sniffs the tree and learns that she lives here. How did a message pass between two animals who never met?* The tigress left a smell on the bark, and the smell stayed after she had gone. A smell is one way to send a message. A peacock uses colour. A frog uses a call. A monkey uses her fingers. Each way works well in some places and badly in others. In this unit you leave smell marks on paper and test how long they last. You also cover your eyes and find a steel plate by listening for echoes, as a bat finds a moth.
 

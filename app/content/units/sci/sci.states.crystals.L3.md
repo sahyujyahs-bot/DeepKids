@@ -1,7 +1,7 @@
 # Crystals: how salt and sugar grow their own flat faces
 `sci.states.crystals.L3`
 
-**Summary.** Leave salty water to dry, and the salt comes back as tiny cubes, though nobody cut them. A crystal is a solid whose particles join in the same pattern again and again, so it grows flat faces and sharp corners. Each substance has its own shape: salt makes cubes, phitkari makes two pyramids joined at the base, and sugar makes slanted blocks. In this unit your child dries the same salt water fast on a plate and slowly in a glass, and finds out what decides a crystal's size and what decides its shape. They also crack a crystal, grow their own kalkandu on a thread, and learn about the giant crystals of a cave in Mexico.
+**Summary.** Dry some salt water and tiny cubes of salt appear, though nobody cut them. How? In this unit you will dry salt water fast on a plate and slowly in a glass, compare the shapes of salt, sugar and phitkari, and crack a crystal.
 
 **Intro.** *Look at a grain of kal uppu, the big crystal salt used in many South Indian kitchens. Its sides are flat and smooth, like a tiny window. Nobody in the salt pan cut or polished it. So where did those flat sides come from?* Salt from the sea is dried in the sun at salt pans, like the ones at Thoothukudi in Tamil Nadu. The salt grains grow there by themselves. In this unit you grow salt crystals at home, fast on a plate and slowly in a glass. You look at them closely, crack one open, and compare salt with sugar and phitkari. By the end you will know what gives a crystal its flat faces, and what makes one crystal big and another tiny.
 

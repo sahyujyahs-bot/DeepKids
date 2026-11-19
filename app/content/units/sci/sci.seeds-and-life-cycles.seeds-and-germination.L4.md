@@ -1,7 +1,7 @@
 # Waking seeds: why seeds from one packet do not wake together
 `sci.seeds-and-life-cycles.seeds-and-germination.L4`
 
-**Summary.** Thirty moong seeds from one packet lie on the same wet cloth, in the same warm room. Some have a white root by the next morning. Some wake a day later, and a few wait for days. Your child counts the wake-ups every few hours and draws the waking curve. Then your child tests how deep a tiny seed and a big seed can be sown, what happens to a shoot that never finds light, and why a hard seed coat is like a locked door.
+**Summary.** Thirty moong seeds lie on the same wet cloth in the same warm room, yet some sprout by morning and a few wait for days. Why do they not wake together? In this unit you will count the wake-ups and draw a curve, sow seeds at three depths, and grow seedlings in the dark.
 
 **Intro.** *Put 30 moong seeds from one packet on a wet cloth. Leave them in a warm room. Look again after 12 hours. Some seeds already have a white root. Others have not moved at all. They had the same water, the same warmth and the same air. Why did they not wake together?* A packet of seeds looks like a crowd of identical things. But no two seeds are exactly alike, and every seed has their own way of waking. In this unit you count the wake-ups hour by hour. You also find out how deep a seed can be buried, why a seedling in the dark grows long and pale, and what a tamarind seed needs before water can get in. In the end you will see why a packet that wakes all at once might be a bad thing for the seeds.
 

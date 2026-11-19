@@ -1,7 +1,7 @@
 # Fertilisers, medicines, fuels and paints: how chemistry makes them, and why the amount matters
 `sci.chemistry.chemistry-in-industry.L4`
 
-**Summary.** The nitrogen in a bag of urea fertiliser was taken from the air. The gas in an LPG cylinder and the wax of a candle both came from crude oil. Chemical factories change a few raw materials into fertilisers, medicines, fuels and paints. The raw materials are air, water, rocks, crude oil and living beings. Each of these products helps in the right amount and harms in too large an amount. Your child mixes three paints to find what keeps colour on a surface. They also give the same drops of colour to a small glass and a big pot. This shows why a child's dose of medicine is smaller.
+**Summary.** A tablet that cures a grown-up can harm a small child. Why does the amount matter so much? In this unit you will find a fuel, a medicine, a paint and a plant food at home, test three paints, and compare one dose in two bodies.
 
 **Intro.** *A farmer's urea, a paracetamol tablet, the gas in a cylinder and the paint on a wall look nothing alike. Where does each of them come from?* None of the four is dug up or picked ready to use. People make each one by chemical reactions, starting from air, rock, crude oil or a plant. In this unit you find a fuel, a medicine, a paint and a plant food in your own home. You mix three paints and test which one stays on. You line up things made from crude oil, from cooking gas to candle wax. You also test why the same dose is weak in a big body and strong in a small one.
 

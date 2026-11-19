@@ -1,7 +1,7 @@
 # Growing up: how a body grows from baby to grown-up, and how we measure growing
 `sci.body.growing.L2`
 
-**Summary.** Are you taller when you wake up than when you go to bed? A newborn baby is about 50 centimetres long. By the age of 7, most children are more than twice as tall. Children grow about 5 to 6 centimetres a year, and stop getting taller in their teens. Your child marks their height on the wall at bedtime and again in the morning, and finds that height changes in a single night.
+**Summary.** Are you taller when you wake up than when you go to bed? In this unit you will measure your height carefully at both times and compare, try on old clothes to see how you have grown, and play a game of taller, shorter or the same.
 
 **Intro.** *Are you the same height at bedtime as when you wake up in the morning?* Find a shirt or frock you wore three years ago. Try it on. The sleeves stop above your wrists, and it feels tight. You grew, but you never saw yourself growing. Growing happens too slowly to watch. So people measure, and write the numbers down. In this unit you learn how a body grows from a baby to a grown-up. You also learn to measure yourself carefully. Then you test a strange idea: that you are taller in the morning.
 

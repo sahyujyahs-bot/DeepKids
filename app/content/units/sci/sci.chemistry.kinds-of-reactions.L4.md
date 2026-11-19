@@ -1,7 +1,7 @@
 # Kinds of chemical reactions: joining, splitting, swapping and burning
 `sci.chemistry.kinds-of-reactions.L4`
 
-**Summary.** Squeeze lemon juice into hot milk, and white curds appear within seconds. Squeeze more lemon into the leftover liquid, and nothing happens. Pour in a spoon of fresh milk, and curds appear again. A reaction stops when one of its reactants is used up. Chemists sort reactions into kinds by what the atoms do: joining, splitting, swapping and burning. Your child makes curds and finds out which reactant ran out. They also split baking soda with heat, set plaster with water, and turn soap into a white solid with vinegar.
+**Summary.** Squeeze lemon into milk and curds form, and a second squeeze makes no more. Why does it stop? In this unit you will find out which ran out, heat a powder to see if it splits, and build one reaction each of four kinds.
 
 **Intro.** *A cook squeezes lemon juice into hot milk to make paneer. The milk was a liquid, and the lemon juice was a liquid. So where did the solid curds come from?* The curds were in the milk all along, as tiny clusters too small to see. The acid in the lemon juice changed them, so they stuck together and came out as a solid. That is one kind of chemical reaction. In this unit you meet four kinds. In a joining reaction, two substances become one. In a splitting reaction, one substance becomes two or more. In a swapping reaction, substances exchange parts. In burning, a fuel reacts with oxygen and gives out heat and light. You make curds, heat baking soda under a cold lid, mix plaster and shake soap with vinegar.
 

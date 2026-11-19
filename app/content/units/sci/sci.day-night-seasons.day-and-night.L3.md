@@ -1,7 +1,7 @@
 # Day and night: how the spinning Earth makes them
 `sci.day-night-seasons.day-and-night.L3`
 
-**Summary.** The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We cannot feel the spin. But a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.
+**Summary.** The Sun seems to cross the sky, but it is not really moving. So what makes day and night? In this unit you will show day and night with a ball and a torch, follow a shadow stick, and swing a pendulum to see the Earth turn.
 
 **Intro.** *Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?* In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. When it is afternoon here, it is night for children in America. The Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?
 

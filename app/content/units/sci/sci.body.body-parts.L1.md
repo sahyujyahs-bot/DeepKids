@@ -1,7 +1,7 @@
 # Body parts: what each part of your body helps you do
 `sci.body.body-parts.L1`
 
-**Summary.** Tape your thumb down, and a grain of rice becomes very hard to pick up. Your fingers are all still there, but they need the thumb to press against. Every part of your body helps you do something: eyes see, legs walk, and joints like the elbow and knee let you bend. Many jobs need two or more parts working together. All people have the same kinds of parts, but each body is a little different. In this unit you name your body parts, tape your thumb and try everyday jobs, and find out what your elbow does.
+**Summary.** Tape your thumb down and a grain of rice becomes very hard to pick up. In this unit you will name your body parts and what they do, try everyday jobs with a taped thumb, and find out what your elbow does.
 
 **Intro.** *Touch your nose. Now try to touch your right elbow with your right hand. Can you?* Almost nobody can touch their elbow with the hand on the same arm. The elbow bends only one way, so the hand cannot get round to it. Every part of your body helps you do some things. In this unit you name your body parts, find what each one does, and tape your thumb down to see which jobs get hard.
 

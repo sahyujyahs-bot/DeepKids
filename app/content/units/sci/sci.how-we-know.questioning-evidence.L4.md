@@ -1,7 +1,7 @@
 # Luck or cause: when two things happen together, what does it show?
 `sci.how-we-know.questioning-evidence.L4`
 
-**Summary.** On a hot beach in Kerala, the more ice golas a cart sold in a day, the more people went home sunburnt. Do golas burn skin? Your child will flip a coin 200 times to see how often luck alone makes a pattern, and measure okra pods to see what a pattern can and cannot tell us. Then they learn four ways to test a pattern fairly: look for a hidden third thing, compare with a group that did not get the thing, let a coin choose the groups, and hide who got what. They also meet John Snow, the doctor who used a map and a comparison to find out what was really making people ill in London in 1854.
+**Summary.** Longer okra pods have more seeds, but does one cause the other? In this unit you will look for a hidden third thing in a table, toss a coin to see how often chance alone looks special, and play a card game that sorts cause from chance.
 
 **Intro.** *On a Kerala beach, a doctor counted the people who came to her tent with sunburn each day. A gola seller counted the golas he sold. On the days he sold more golas, she saw more sunburn. A man in the crowd said, "Ban the golas!" Was he right?* The two counts really did rise and fall together. That was true. But the idea that golas burn skin may still be wrong. You may already know three questions to ask about any claim. Who says so? How do they know? Who is missing? This time you ask a harder question. When two things go together, what is really going on? You will use a coin, okra pods and some cups of squash to find out.
 

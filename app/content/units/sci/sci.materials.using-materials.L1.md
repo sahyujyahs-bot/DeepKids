@@ -1,7 +1,7 @@
 # Using the right material: why a spoon is steel and a raincoat is plastic
 `sci.materials.using-materials.L1`
 
-**Summary.** A paper spoon goes soft in wet food, so most spoons are steel. A raincoat must keep water out and bend when you move, so many raincoats are plastic. Your child makes spoons from newspaper and card, tests them against a steel spoon, and wraps biscuits to see which material keeps the rain out.
+**Summary.** Why is a spoon made of steel and not paper? In this unit you will make paper spoons and test them against a steel one, wrap biscuits in different materials to see which keeps the rain out, and play a game matching jobs to materials.
 
 **Intro.** *We eat with steel spoons, not paper spoons. We wear plastic raincoats, not paper raincoats. Why?* Everything is made of a material. Wood, metal, plastic, glass, cloth and paper are materials. Each thing has a job to do. A spoon carries food. A raincoat keeps you dry. People choose a material that can do the job. In this unit you test spoons made of different materials, and find out which one lasts.
 

@@ -1,7 +1,7 @@
 # The immune system: the defence that learns and remembers
 `sci.body.immune-system.L4`
 
-**Summary.** You catch chickenpox once, but you catch a cold again and again. Your body has two defences. The first is quick and the same every time. The second is slow on the first meeting with a germ, but it picks out a cell that fits that one germ, makes many copies, and keeps a memory. Your child does the Key Shop test to see how a body can pick a matching cell from many, and the Spread and Shield test to see why vaccinating some people protects others. They learn how a vaccine gives the slow first lesson safely, and how the blisters on the hand of a dairymaid, Sarah Nelmes, led to the first vaccine.
+**Summary.** The second time you meet a germ, your body fights it faster than the first time. How does it remember? In this unit you will read a vaccination card, play the Key Shop to see how many random cells it takes to find one that fits, and test how protecting some squares protects all.
 
 **Intro.** *Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would an injection from one day in your first weeks still matter now?* That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this unit you find out how a body can learn without a teacher, and how doctors found a way to use that.
 

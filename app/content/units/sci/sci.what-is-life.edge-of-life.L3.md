@@ -1,7 +1,7 @@
 # The edge of life: deciding whether a tricky case is alive
 `sci.what-is-life.edge-of-life.L3`
 
-**Summary.** A candle flame moves, grows, takes in air and lights new flames, yet scientists say it is not alive. A dry seed does none of these things, yet scientists say the seed is alive. In this unit you test tricky cases against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. You find that a flame and your own cells do the same chemistry, and that a crystal grows only by adding salt to its outside. Scientists still argue about viruses, and nobody yet knows how life first began.
+**Summary.** A candle flame moves, grows and takes in air, but it is not alive. A dry seed does nothing, but it is alive. How can that be? In this unit you will grow a crystal garden, test whether dry seeds and dried yeast are alive, and act out a virus.
 
 **Intro.** *A candle flame moves. It grows. It needs air, and it can light a new flame. A dry seed does none of these things. Yet scientists say the seed is alive and the flame is not. Why?* In this unit you test six puzzling things against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. Each one shows some signs and lacks others. By the end you will know which signs matter most, and why scientists still argue about where life begins.
 

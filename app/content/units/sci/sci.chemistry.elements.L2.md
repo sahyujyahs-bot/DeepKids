@@ -1,7 +1,7 @@
 # Elements: things made of just one kind of atom
 `sci.chemistry.elements.L2`
 
-**Summary.** A silver anklet that has gone black can shine again without any rubbing. Lay it on aluminium foil in hot water with cooking soda, and the black fades. The black was silver joined with another element, sulfur, and the foil takes the sulfur away. Gold, silver, iron, copper, carbon and oxygen are elements, each made of just one kind of atom. Water, salt and sugar are not elements. Each one is made of two or more elements joined together.
+**Summary.** A black silver anklet can shine again without any rubbing. How? In this unit you will lay dark silver on foil in hot water with cooking soda and watch the shine come back, hunt at home for things made of just one element, and play a card sorting game.
 
 **Intro.** *Find an old silver anklet, toe ring or coin that has gone dark. Next to it, put a gold earring that has been worn for years. Why did the silver go dark, but not the gold?* Gold, silver, iron and copper are metals that people have used for thousands of years. Each is an element, a substance made of just one kind of atom. Atoms are the tiny pieces that everything is made of, far too small to see. In this unit you hunt for elements at home, make dark silver shine again, and find out why gold stays shiny.
 

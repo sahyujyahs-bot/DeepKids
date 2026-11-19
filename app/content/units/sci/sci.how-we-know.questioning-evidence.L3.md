@@ -1,7 +1,7 @@
 # Questioning the evidence: says who, and how do they know?
 `sci.how-we-know.questioning-evidence.L3`
 
-**Summary.** People can feel very sure and still be wrong. You will test this at home: ask your family questions about things in your own flat, ask how sure they are, and then go and check. Then you will learn three questions to ask about anything you hear: Says who? How do they know? Who is missing? They help you tell a claim that was checked from a story that only sounds true.
+**Summary.** People can feel very sure and still be wrong. How can you tell? In this unit you will ask your family questions about your flat, ask how sure they are, and go and check. You will also learn three questions to ask about any claim.
 
 **Intro.** *An aunt says, "Our wall clock has all twelve numbers on it. I see it every day." An uncle says, "No, it only has 12, 3, 6 and 9." Both of them are completely sure. They cannot both be right.* Feeling sure cannot settle it. Looking at the clock can. In this unit you find out how often people are sure and wrong, and how to check a claim before you believe it.
 

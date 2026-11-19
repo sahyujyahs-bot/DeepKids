@@ -3,7 +3,7 @@
  "title": "Pushes and pulls: what makes things start to move",
  "level": 1,
  "summary": {
-  "text": "A ball on the floor stays still until something pushes or pulls it. Your child pushes boxes, pulls toys, opens doors and watches ants, and finds that every push or pull can start a thing moving. A bigger push sends a thing further, and a heavy thing needs a bigger push. A push moves a thing away from you, and a pull moves it towards you. Scientists call both of them a force.",
+  "text": "A ball on the floor stays still until something pushes or pulls it. In this unit you will push a box and see how far it slides, pull a toy train, and play a quick card game to tell a push from a pull.",
   "art": "A girl kneeling on a tiled floor giving a lunch box a big push, with a chappal beside the place where it stopped."
  },
  "intro": {
@@ -220,7 +220,7 @@
    "title": "Little Push, Big Push: how far will the box slide?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you push a lunch box across a smooth floor, once gently and once hard. You mark where it stops each time. Then you fill the box with rice and push it again.",
+   "context": "In this experiment you push a lunch box across a smooth floor, once gently and once hard. You mark where it stops each time. Then you fill the box with rice and push it again. You will find out if a bigger push sends the box further. You will also find out if a full box slides as far as an empty one.",
    "question": "Will a big push send the box further than a gentle push? Will a full box slide as far as an empty one?",
    "predict": "Guess first. Will the gentle push or the big push send the box further? Will the full box go as far as the empty one? Why do you think so?",
    "fair_test": "We use the same box, the same floor and the same start line every time. We let go of the box at the start line each time. We try each push twice, because one try can be luck.",
@@ -258,7 +258,7 @@
      "what": "Guess, push the empty box gently and hard, then push the full box, and mark where it stops each time."
     }
    ],
-   "record": "Draw the start line and the marks. Draw a small box at each place it stopped. Count the foot steps and write the number, or a grown-up writes it.",
+   "record": "Take a photo of the floor with the marks. Count the foot steps for each push and write the number, or a grown-up writes it.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results",
@@ -312,9 +312,9 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Ask your child to guess before any pushes. Write or draw their guesses in the table.",
-     "say": "You will give the box a gentle push, and then a big push. Which one will send it further? Why do you think so?",
-     "kid": "Gentle push or big push: which goes further? Why?",
+     "do": "Ask your child to guess before any pushes. Write their guesses in the table, or ask your child to point to near or far.",
+     "say": "You will give the box a gentle push, and then a big push. Which one will send it further?",
+     "kid": "Make your guess. Which push sends the box further?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -372,8 +372,8 @@
      "id": "s6",
      "mins": 2,
      "do": "Ask what your child found, and why. Then ask the check question.",
-     "say": "What did the big push do? What did the full box do? Why do you think that happened?",
-     "kid": "What did the big push do? What did the full box do? Why?",
+     "say": "Look at the marks. What did the big push do? What did the full box do? Why do you think that happened?",
+     "kid": "Point to the marks for the big push and for the full box.",
      "ask": [
       {
        "q": "What did you find?",
@@ -403,14 +403,14 @@
    "title": "The Pull-Along Train: does a longer train need a bigger pull?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you pull a train of boxes on a string. A rubber band in the string shows how big your pull is. Then you add more boxes and pull again.",
+   "context": "In this experiment you pull a train of boxes on a string. A rubber band in the string shows how big your pull is. Then you add more boxes and pull again. You will find out if more boxes need a bigger pull.",
    "question": "A rubber band stretches more when you pull harder, so the length of the stretch shows how big the pull is. Does a train of three boxes need a bigger pull than one box?",
    "predict": "Guess first. Will one box or three boxes need a bigger pull? Will the rubber band stretch more or less? Why do you think so?",
    "fair_test": "We use the same rubber band, the same string and the same floor each time. We pull slowly each time. Each box has one book inside, so every box weighs about the same.",
    "results_table": [
     "Train",
     "My guess: short or long stretch?",
-    "How long the rubber band got (draw it)"
+    "How long the rubber band got (mark on the paper strip)"
    ],
    "materials": [
     {
@@ -442,7 +442,7 @@
      "what": "Pull one box, then two, then three, and mark how long the rubber band stretches each time."
     }
    ],
-   "record": "Draw the rubber band for one box, two boxes and three boxes, as long as it really got.",
+   "record": "Lay the three marks side by side and take a photo. Measure each mark in finger widths and write the numbers, or a grown-up writes them.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results",
@@ -493,16 +493,16 @@
      "id": "s2",
      "mins": 3,
      "do": "Your child pulls slowly until the box starts to slide. Lay the paper strip beside the band and mark how long it got.",
-     "say": "Pull slowly. Watch the band. Stop when the box starts to move. How long did the band get? Let's mark it.",
-     "kid": "Pull slowly. Watch the band. Stop when the box moves. Let's mark it.",
+     "say": "Pull slowly. Stop the moment the box starts to slide. Then we mark how long the band got.",
+     "kid": "Watch the band stretch as you pull. Stop when the box slides.",
      "parent": "The band stretches most just before the box starts to slide. That moment is the one to mark."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Ask your child to guess before adding boxes.",
-     "say": "Now we add two more boxes, each with a book. Will the band stretch more, or less, or the same? Why do you think so?",
-     "kid": "Three boxes now. Will the band stretch more or less? Why?",
+     "say": "Now we add two more boxes, each with a book. Will the band stretch more, less or the same?",
+     "kid": "Make your guess. Will three boxes stretch the band more, less or the same?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -518,7 +518,7 @@
      "mins": 5,
      "do": "1. Tie on a second box and pull. Mark the band. 2. Tie on a third box and pull. Mark the band.",
      "say": "Two boxes now. Pull slowly and watch. Now three boxes. Is the band longer or shorter than before?",
-     "kid": "Pull two boxes. Watch the band. Now pull three. Is it longer?",
+     "kid": "Pull two boxes, then three. Mark the band each time.",
      "ask": [
       {
        "q": "What did the band do?",
@@ -535,7 +535,7 @@
      "mins": 2,
      "do": "Look at the three marks together. Then ask the check question.",
      "say": "Look at the three marks. What do they tell you about the pull?",
-     "kid": "Look at the marks. Which train needed the biggest pull?",
+     "kid": "Point to the longest mark. Which train made it?",
      "check": {
       "t": "mcq",
       "q": "The rubber band stretched longest for three boxes. What does that tell us?",
@@ -557,7 +557,7 @@
    "title": "Push Hands, Pull Hands: watch the home",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you watch what people do at home and in the kitchen. For each job, you show a push with your palm or a pull with your fist.",
+   "context": "In this activity you watch what people do at home and in the kitchen. For each job, you show a push with your palm or a pull with your fist. You will find out how to tell a push from a pull by which way the thing moves.",
    "materials": [
     {
      "item": "nothing to buy: just the jobs people do at home",
@@ -571,7 +571,7 @@
      "what": "Watch or do jobs at home and show push or pull with your hands."
     }
    ],
-   "record": "Draw one push and one pull you saw at home.",
+   "record": "Tell a grown-up one push and one pull you saw at home, and a grown-up writes them down.",
    "setup": [
     {
      "art": "A child showing an open palm pushing forward for PUSH, and a closed fist pulling back towards the chest for PULL.",
@@ -593,9 +593,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Do one job at a time while your child watches. 2. Try the fridge, a drawer, a switch, a curtain and the washing line. 3. Your child shows a sign for each.",
-     "say": "Watch me. Am I pushing or pulling? Show me the sign. How do you know?",
-     "kid": "Watch. Push or pull? Show the sign. How do you know?",
+     "do": "1. Do one job at a time while your child watches. 2. Try the fridge door, a drawer, a light switch, a curtain and a cloth on the washing line. 3. Your child shows a sign for each.",
+     "say": "Watch me. Am I pushing or pulling? Show me the sign.",
+     "kid": "Watch the job. Show the sign for push or pull.",
      "ask": [
       {
        "q": "How do you know opening the fridge is a pull?",
@@ -632,7 +632,7 @@
    "title": "The Two-Sided Door: push it shut, pull it shut",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you close the same door twice: once by pushing it from one side, and once by pulling it from the other side. You watch which way the door swings each time.",
+   "context": "In this activity you close the same door twice: once by pushing it from one side, and once by pulling it from the other side. You watch which way the door swings each time. You will find out if a push and a pull make the door go different ways.",
    "materials": [
     {
      "item": "an inside door at home, such as a bedroom or bathroom door, with a handle on both sides",
@@ -647,7 +647,7 @@
      "what": "Close the door by pushing from one side, then by pulling from the other side, and compare."
     }
    ],
-   "record": "Draw the door from above, as a bird looking down would. Draw yourself pushing on one side, and pulling on the other.",
+   "record": "Take a photo of the door from each side where you stood. Or point to where you stood each time, and tell a grown-up which way the door swung.",
    "setup": [
     {
      "art": "A girl inside a bedroom pushing a half-open door shut with her palm flat on the door, while a grown-up watches.",
@@ -663,8 +663,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Open the door halfway. 2. Your child stands on the side where the door will move away from them. 3. They push the door slowly shut, with a flat hand in the middle.",
-     "say": "Put your flat hand on the door. Push it slowly until it shuts. Did the door move away from you or towards you?",
-     "kid": "Put your flat hand on the door. Push it slowly shut. Did it move away from you?",
+     "say": "Put your flat hand in the middle of the door. Push it slowly until it shuts. Did the door move away from you or towards you?",
+     "kid": "Push the door shut. Watch which way it goes.",
      "adult": true,
      "parent": "Stand by the door edge yourself, so small fingers stay away from the gap."
     },
@@ -672,8 +672,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Open the door halfway again. 2. Your child goes to the other side and holds the handle. 3. They pull the door slowly shut.",
-     "say": "Now go to the other side. Hold the handle and pull the door slowly until it shuts. Which way did the door swing this time?",
-     "kid": "Go to the other side. Pull the handle slowly. Which way did the door swing?",
+     "say": "Now go to the other side. Hold the handle and pull the door slowly until it shuts.",
+     "kid": "Hold the handle. Pull the door slowly shut. Watch which way it goes.",
      "adult": true,
      "ask": [
       {
@@ -690,11 +690,11 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask what changed and what stayed the same. Then ask the check question.",
-     "say": "The door went the same way both times. So why did we call it a push once and a pull once?",
-     "kid": "Same door, same way. Why was it a push once and a pull once?",
+     "say": "Look: the door went the same way both times. But we used two different words.",
+     "kid": "Think about where you stood each time.",
      "ask": [
       {
-       "q": "Why?",
+       "q": "Why was one a push and the other a pull?",
        "good": [
         "Because I was on a different side.",
         "From one side it went away from me. From the other side it came towards me."
@@ -721,7 +721,7 @@
    "title": "Ant Helpers: who pushes, who pulls?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you put a few grains of sugar or a biscuit crumb near a line of ants. You watch how the ants move the food: by pushing, by pulling, or both.",
+   "context": "In this activity you put a few grains of sugar or a biscuit crumb near a line of ants. You watch how the ants move the food: by pushing, by pulling, or both. You will see how tiny ants move food that is heavy for one ant.",
    "materials": [
     {
      "item": "a few grains of sugar, a grain of cooked rice, or a small biscuit crumb",
@@ -739,7 +739,7 @@
      "what": "Put food near an ant line and watch how the ants move the food."
     }
    ],
-   "record": "Draw an ant pulling food, and an ant pushing food.",
+   "record": "Tell a grown-up which ants pulled and which pushed, and a grown-up writes it. Or take a photo of the ants with the crumb.",
    "setup": [
     {
      "art": "A line of small ants walking along the edge of a kitchen floor tile, and a child's hand placing a biscuit crumb near them.",
@@ -764,7 +764,7 @@
      "mins": 6,
      "do": "Watch together. Use the magnifying glass if you have one.",
      "say": "Look at the ants. Is one pulling the crumb towards herself? Is one pushing from behind? How can you tell?",
-     "kid": "Watch the ants. Who is pulling? Who is pushing?",
+     "kid": "Watch closely. Point to any ant that pulls or pushes the crumb.",
      "ask": [
       {
        "q": "What are the ants doing?",
@@ -802,7 +802,7 @@
    "title": "The Bedsheet Ride: your body pushes and pulls",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you find the pushes and pulls your own body makes. You jump, push a wall, and ride on a bedsheet while a grown-up pulls it. Then you try to pull the grown-up.",
+   "context": "In this activity you find the pushes and pulls your own body makes. You jump, push a wall, and ride on a bedsheet while a grown-up pulls it. Then you try to pull the grown-up. You will feel what your body pushes on, and find out why a heavier person is harder to pull.",
    "materials": [
     {
      "item": "an old bedsheet or a big dupatta",
@@ -821,7 +821,7 @@
      "what": "Jump, push and pull with your body, and ride on the bedsheet."
     }
    ],
-   "record": "Draw yourself on the bedsheet ride, and draw who is pulling.",
+   "record": "Take a photo of the bedsheet ride. Or tell a grown-up who pulled whom, and which was harder.",
    "setup": [
     {
      "art": "A boy jumping on the spot with his knees bent, and a girl pushing a wall with both hands.",
@@ -841,8 +841,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Your child jumps on the spot three times, then pushes a wall with both hands.",
-     "say": "Jump three times. What do your feet push on? Now push the wall with both hands. The wall does not move, because it is far too heavy for your push. You still feel your arms push.",
-     "kid": "Jump three times. Your feet push the floor. Now push the wall.",
+     "say": "Jump three times. What do your feet push on? Now push the wall with both hands. The wall does not move, but you still feel your arms push.",
+     "kid": "Jump three times. Then push the wall with both hands.",
      "ask": [
       {
        "q": "What did your feet push when you jumped?",
@@ -858,19 +858,19 @@
      "mins": 3,
      "do": "1. Spread the bedsheet on the floor. 2. Your child sits on one end. 3. Hold the other end and pull slowly in a straight line.",
      "say": "Sit on the sheet and hold on. I'm going to pull it slowly. Am I pulling you towards me, or pushing you away?",
-     "kid": "Sit on the sheet. Hold on. Is the grown-up pulling you or pushing you?",
+     "kid": "Sit on the sheet and hold on. Feel which way you go.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Swap. You sit on the sheet. Your child pulls.",
-     "say": "Now you pull me. Lean back and pull hard. Can you move me? Why is it harder?",
-     "kid": "Now you pull the grown-up. Pull hard. Can you move them? Why is it hard?",
+     "say": "Now you pull me. Lean back and pull hard. Can you move me?",
+     "kid": "Now you pull the grown-up. Lean back and pull as hard as you can.",
      "adult": true,
      "ask": [
       {
-       "q": "Why was it harder to pull me?",
+       "q": "Why was it hard to pull me?",
        "good": [
         "You are heavier than me.",
         "A heavy thing needs a bigger pull."
@@ -906,18 +906,18 @@
    "title": "Push or Pull? The quick-hands card game",
    "mins": 10,
    "players": "2 or more people. One person calls and the others play. With 2 people, one calls and one plays.",
-   "context": "This is a card game. The caller reads an action. The players race to show the push sign or the pull sign.",
+   "context": "This is a card game. The caller reads an action. The players race to show the push sign or the pull sign. You will find out which actions are pushes and which are pulls.",
    "printables": [
     {
      "kind": "cards",
      "title": "12 action cards",
      "items": [
       {
-       "f": "Pull a tissue out of its box",
+       "f": "Take a tissue out of its box",
        "b": "PULL. The tissue comes towards you."
       },
       {
-       "f": "Push a cycle along the road",
+       "f": "Walk behind a cycle and move it along the road",
        "b": "PUSH. The cycle goes away from you."
       },
       {
@@ -925,15 +925,15 @@
        "b": "PUSH. Your foot sends the ball away."
       },
       {
-       "f": "Pull a toy car on a string",
+       "f": "Bring a toy car to you with its string",
        "b": "PULL. The car comes towards you."
       },
       {
-       "f": "Push a swing",
+       "f": "Start a swing for a friend sitting on it",
        "b": "PUSH. The swing goes away from you."
       },
       {
-       "f": "Pull a suitcase on wheels behind you",
+       "f": "Walk with a suitcase on wheels following behind you",
        "b": "PULL. The suitcase follows you."
       },
       {
@@ -941,7 +941,7 @@
        "b": "PUSH. Your finger presses it away."
       },
       {
-       "f": "Draw water from a well with a rope",
+       "f": "Get a bucket of water up from a well with a rope",
        "b": "PULL. The bucket comes up towards you."
       },
       {
@@ -995,8 +995,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Play all 12 cards. After each card, ask how the player knew.",
-     "say": "Pull a tissue out of its box. Push or pull? Show me. How do you know?",
-     "kid": "Listen to the card. Show push or pull. Say how you know.",
+     "say": "Take a tissue out of its box. Push or pull? Show me.",
+     "kid": "Listen to the card. Show push or pull.",
      "ask": [
       {
        "q": "How do you know?",
@@ -1016,7 +1016,7 @@
      "kid": "Answer the last one.",
      "check": {
       "t": "mcq",
-      "q": "You pull a dupatta off the washing line. Is that a push or a pull?",
+      "q": "You take a dupatta off the washing line. Is that a push or a pull?",
       "options": [
        "A pull",
        "A push",
@@ -1033,7 +1033,7 @@
    "title": "Sock Ball Golf: get it in the box",
    "mins": 12,
    "players": "1 or more players.",
-   "context": "This is a moving game. You push a ball made of rolled-up socks with a rolled newspaper stick. You try to get it into a box in as few pushes as you can.",
+   "context": "This is a moving game. You push a ball made of rolled-up socks with a rolled newspaper stick. You try to get it into a box in as few pushes as you can. You will find out how to choose a small push or a big push.",
    "printables": [
     {
      "kind": "score sheet",
@@ -1042,7 +1042,7 @@
       "Hole 1: from the door to a box lying on its side. Pushes: ____",
       "Hole 2: under a chair, then into the box. Pushes: ____",
       "Hole 3: round a pillow, then into the box. Pushes: ____",
-      "Hole 4: your own hole. Draw it here. Pushes: ____",
+      "Hole 4: your own hole. Write what you chose here. Pushes: ____",
       "Total pushes: ____"
      ]
     }
@@ -1080,7 +1080,7 @@
      "mins": 8,
      "do": "Play the holes. Count the pushes and write them on the score sheet.",
      "say": "The box is far away. Will you use a big push or a small push first? Why? Now you're close. What kind of push now?",
-     "kid": "Big push or small push? Why? Count each push.",
+     "kid": "Choose a big push or a small push. Count each push.",
      "ask": [
       {
        "q": "Why did you use a small push near the box?",
@@ -1133,7 +1133,7 @@
    "title": "Make a Pull-Along Toy",
    "mins": 25,
    "days": 2,
-   "context": "In this project you turn an empty box into a pull-along toy, like a train, a cart or an animal. On the second day you test it on different floors, and add a push stick.",
+   "context": "In this project you turn an empty box into a pull-along toy, like a train, a cart or an animal. On the second day you test it on different floors, and add a push stick. You will find out which floor is easier to pull on.",
    "materials": [
     {
      "item": "an empty small box, such as a toothpaste box, a juice carton or a sweet box",
@@ -1164,7 +1164,7 @@
      "what": "Pull the toy on tiles and on a mat, then push it with the stick."
     }
    ],
-   "record": "Draw your toy. Draw an arrow from the toy to you for the pull, and from you to the toy for the push.",
+   "record": "Draw your toy. Draw an arrow from the toy to you for the pull, and from you to the toy for the push. Or tell a grown-up which way the toy moved each time.",
    "setup": [
     {
      "art": "A juice carton decorated as a yellow and black tiger, with a string tied through a hole in the front.",
@@ -1191,7 +1191,7 @@
      "mins": 7,
      "do": "Your child pulls the toy on tiles, then on a mat or carpet, and says which was easier.",
      "say": "Pull your toy on the tiles. Now pull it on the mat. Which was easier? Why do you think so?",
-     "kid": "Pull your toy on the tiles. Now on the mat. Which was easier?",
+     "kid": "Pull your toy on the tiles, then on the mat. Feel how hard you pull each time.",
      "ask": [
       {
        "q": "Which floor was easier?",
@@ -1207,8 +1207,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Tape the old pencil to the back of the toy as a push stick. Your child pushes the toy with it.",
-     "say": "Now push the toy with the stick. Is the toy going away from you or towards you? So is it a push or a pull?",
-     "kid": "Push the toy with the stick. Is it going away from you? Push or pull?",
+     "say": "Now use the stick to move the toy along the floor. Which way does the toy go?",
+     "kid": "Move the toy with the stick. Watch which way it goes.",
      "check": {
       "t": "mcq",
       "q": "You poke the toy with the stick and it moves away from you. Is that a push or a pull?",
@@ -1229,7 +1229,7 @@
    "id": "c1",
    "title": "Bring Teddy Home",
    "mins": 15,
-   "context": "This is a design challenge. A soft toy sits at the far end of a table. You must bring it to you without walking round and without climbing up.",
+   "context": "This is a design challenge. A soft toy sits at the far end of a table. You must bring it to you without walking round and without climbing up. You will find a way to pull something that is out of your reach.",
    "problem": "Your teddy sits at the far end of a table, just out of reach. You must stay standing at this end. How can you bring the teddy to you?",
    "constraints": [
     "You must stay where you are standing.",
@@ -1269,7 +1269,7 @@
      "mins": 3,
      "do": "Read the problem. Spread a spare bedsheet on a smooth table. Sit the teddy at the far end, just out of reach.",
      "say": "Teddy is over there. You have to stay here, and you can't climb up. How can you bring Teddy to you?",
-     "kid": "Teddy is far away. Stay here. How can you get Teddy?",
+     "kid": "Look at the things on the list. Which could reach Teddy?",
      "ask": [
       {
        "q": "What could you use?",
@@ -1284,8 +1284,8 @@
      "id": "s2",
      "mins": 9,
      "do": "Your child tries their ideas. Help only if asked.",
-     "say": "Try your idea. Did it work? Is your hanger pulling Teddy towards you, or pushing Teddy away?",
-     "kid": "Try your idea. Is it a push or a pull? Did it work?",
+     "say": "Try your idea. Did it work? Is your idea pulling Teddy towards you, or pushing Teddy away?",
+     "kid": "Try your idea. Watch which way Teddy moves.",
      "parent": "Pulling the bedsheet works well and surprises many children. If an idea fails, ask what could make it work."
     },
     {
@@ -1293,7 +1293,7 @@
      "mins": 3,
      "do": "Ask which way worked best, and why. Then the check question.",
      "say": "Which way was easiest? Why?",
-     "kid": "Which way was easiest? Why?",
+     "kid": "Think about the ways you tried. Which was easiest?",
      "check": {
       "t": "mcq",
       "q": "You pull the bedsheet towards you, and the teddy comes too. Why?",

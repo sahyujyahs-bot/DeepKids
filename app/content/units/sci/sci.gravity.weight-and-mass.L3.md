@@ -1,7 +1,7 @@
 # Weight and mass: what a scale really measures
 `sci.gravity.weight-and-mass.L3`
 
-**Summary.** A bottle of water with holes in it stops leaking while it falls, though gravity still pulls it. Weight is the pull of gravity on a thing, measured in newtons. Mass is how much matter it has, measured in kilograms. We cannot sense gravity itself, only the push of the floor, a chair or water holding us up. So in a lift, in water or while falling we feel heavier or lighter, though gravity is the same.
+**Summary.** A bottle of water with holes stops leaking while it falls, even though gravity still pulls on it. Why? In this unit you will weigh things with a forcemeter, weigh a stone in water, hang a forcemeter in a lift, and find out who is really holding you up.
 
 **Intro.** *Hold a full water bottle on your flat palm and feel it press down. Now let it drop onto a cushion. While it was falling, nothing was holding it up. Was it still heavy?* In 1907, Albert Einstein worked in an office in Bern, a city in Switzerland, checking other people's inventions. One day he had a sudden thought. A person falling freely from a roof would not feel their own weight. Years later, he called it the happiest thought of his life. Why would falling make weight disappear, and is the weight really gone? You will drop a leaking bottle of water to find out.
 

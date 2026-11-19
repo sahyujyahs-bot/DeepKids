@@ -1,7 +1,7 @@
 # Why you pant when you run: how blood and breath deliver oxygen to every cell
 `sci.body.heart-blood-breath.L4`
 
-**Summary.** Run up a flight of stairs and two things happen that you did not ask for. You start to pant, and your heart starts to thump. Nobody gave either of them an order. In this unit you count your pulse and your breaths in eight situations, and find that they rise and fall together. Then you follow the oxygen from your nose, through very thin walls in the lungs, into red blood cells, and out to every cell in your body.
+**Summary.** Why do you pant and feel your heart pound when you run? In this unit you will find your pulse and count your breaths, test what changes them, and watch how fast the pink comes back to cold fingers. You will also play a card game on pulse and breathing.
 
 **Intro.** *Sit still and count how many times you breathe in one minute. Then count how many times your heart beats. Which number is bigger, and by how much?* Most people find that their heart beats about four times for every breath. Now jump on the spot for one minute and count both again. Both numbers go up, and both go up together. Why would a heart and a pair of lungs, so far apart, speed up at the same moment?
 

@@ -1,7 +1,7 @@
 # Two matching halves: symmetry in butterflies, leaves and faces
 `sci.patterns-symmetry.symmetry-in-nature.L1`
 
-**Summary.** A butterfly's left wings have the same shape and spots as her right wings, flipped over. When the two halves of a shape match like this, we say the shape has symmetry. Your child stands a small mirror on the middle line of a butterfly picture, a leaf, a spoon, a chappal and a photo of a face. With half of a butterfly and the mirror, the whole butterfly appears. With a chappal, the mirror makes a shape no chappal has. Half a face and the mirror make a face that looks like the person, but not quite, because the two halves of a living being nearly match but never exactly. Then your child makes symmetric art of their own.
+**Summary.** If you hold a mirror on half a butterfly, can you make a whole butterfly? In this unit you will test butterflies, leaves, spoons and faces with a mirror, play a copy-me mirror game, and build the missing half of a butterfly from dal.
 
 **Intro.** *Look at this butterfly. Is her left side the same as her right side?* Show your child a butterfly, in a book, on a phone or at a balcony plant. Ask them to look at the wings on one side, then the other. What do they notice? Ask: if you could only see one side, could you draw the other side? Why do you think so? Don't answer yet. This unit finds out, with a mirror.
 

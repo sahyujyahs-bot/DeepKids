@@ -1,7 +1,7 @@
 # Magnetic metals: why a magnet attracts one coin and not another
 `sci.magnets.magnets-and-materials.L5`
 
-**Summary.** A magnet lifts a one-rupee coin and a two-rupee coin. It leaves a golden five-rupee coin and a ten-rupee coin on the table. All four are metal, so why does the magnet attract only two? Each coin is an alloy, which is a mixture of metals, and each alloy answers a magnet in its own way. Your child tests every coin in the house, and checks whether colour, shine or a name can tell them which metals are magnetic. They find that a one-rupee coin and a steel plate are both mostly iron, yet the magnet attracts only the coin. The reason is the way the iron atoms are packed. Being magnetic is something many atoms do together.
+**Summary.** A magnet lifts a one-rupee coin and a two-rupee coin, but leaves a five-rupee coin and a ten-rupee coin on the table. All four are metal, so why? In this unit you will test every coin in the house, and check whether colour or shine can tell you which metals are magnetic.
 
 **Intro.** *Put a one-rupee coin and a golden five-rupee coin on the table. Now think about a magnet. Which coin will the magnet lift: both, one, or neither? Say what you think, and why.* Many people expect a magnet to attract every metal. Others expect it to attract every coin, or none. In the first activity, Four Coins and a Magnet, you test four coins and see. Then you test every coin in the house. In this unit you find out which metals are magnetic, and how to test them fairly. You also find out why two things made mostly of iron can give a magnet two different answers.
 

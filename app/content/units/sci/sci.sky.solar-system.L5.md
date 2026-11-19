@@ -1,7 +1,7 @@
 # The solar system: planets, their satellites, and the true distances between them
 `sci.sky.solar-system.L5`
 
-**Summary.** Ganymede, a moon of Jupiter, is wider than the planet Mercury. So size is not what makes a world a planet or a satellite. What the world goes round makes the difference. A planet goes round the Sun, and a satellite goes round a planet. Pluto was called a planet for 76 years, and has been a dwarf planet since 2006. Your child balances heavy and light dough balls on a pencil, and finds the point that two worlds both go round. They build a ball twice as wide and count the extra dough. They set a marble Earth and a peppercorn Moon the right distance apart, and work out where the Sun belongs on the same scale. They also work out how heavy a hidden ball is, from the wobble of a ball they can see.
+**Summary.** Ganymede, a moon of Jupiter, is wider than the planet Mercury. So what makes a world a planet and not a moon? In this unit you will balance heavy and light dough balls to find the point they go round, and set a marble Earth and a peppercorn Moon at the true distance.
 
 **Intro.** *Ganymede is a moon of Jupiter, and it is wider than the planet Mercury. Pluto was a planet when your grandparents went to school, and today it is not. If size is not the test, what makes one world a planet and another a satellite?* In this unit you find the answer, and you test it with your own hands. First you set a marble Earth and a peppercorn Moon the right distance apart. Then you balance two dough balls on a pencil, to find the point that two worlds both go round. You also find out how much more dough a ball needs when it is twice as wide. At the end you can say why Pluto's name changed, and where the solar system ends.
 

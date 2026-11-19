@@ -1,7 +1,7 @@
 # How animals move, and how their mouths fit their food
 `sci.animals.animal-bodies.L2`
 
-**Summary.** A frog's back legs are longer than the rest of her body, but they stay folded up until she jumps. Animals move by pushing on something: legs push on the ground, wings push on air, and fins and webbed feet push on water. Snakes and earthworms have no legs, so they push with their whole body. Your child tests how far they can jump with straight legs, a small bend and a big bend in the knees. Then they find out how teeth and beaks fit the food each animal eats, from a cow's grinding teeth to a kingfisher's long, sharp beak.
+**Summary.** Do bent knees really help you jump farther? In this unit you will crouch and jump to test it, find how legs, wings and fins push on ground, air and water, and match teeth and beaks to the food an animal eats.
 
 **Intro.** *A frog sitting still looks as if she has short legs. Then she jumps, and her back legs open out longer than her whole body. Where were those long legs hiding, and why do they fold up like that?* Every animal that moves has to push on something. A crow's wings push on the air. A fish's tail pushes on the water. Your feet push on the floor. Animals also have mouths shaped for their food: sharp beaks, flat teeth, pointed teeth or no teeth at all. In this unit you test your own jump, crawl like a snake, flap like a bird, and grind a leaf the way a cow chews grass.
 

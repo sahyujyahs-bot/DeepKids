@@ -1,7 +1,7 @@
 # My family: who lives with us, and how we know each other
 `sci.family.family.L1`
 
-**Summary.** With your eyes shut, can you find your mother or your grandmother just by sniffing a shirt she wore? You may find at least one person. Every person has their own smell, and much of it is made by tiny living beings on their skin. People who live together pass these tiny beings to each other. In this unit your child sniffs family shirts in a fair test, passes a smell down a line of hands, and meets families of many kinds, in people and other animals.
+**Summary.** With your eyes shut, can you find your mother or grandmother just by sniffing a shirt she wore? In this unit you will try that in a fair test, pass a smell along a line of hands, and listen to stories of families of many kinds.
 
 **Intro.** *Close your eyes. Someone in your family hugs you. Can you tell who it is without looking?* You know your family by their faces and their voices. Your nose knows them too. Every person has their own smell. In this unit you find out if you can tell your family apart by smell alone. You also meet many kinds of families, in people and in other animals.
 
@@ -147,49 +147,49 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 
 ## Games
 ### g1 · Family Line-Up: who comes first? (12 min)
-- **rules:** Cut out the 10 cards. Shuffle them and put them face down. Everyone is on the same team: the goal is to make each line together.; The youngest player is the first caller. The caller turns over a card. A grown-up reads it out.; Everyone lines up in that order. Talk, check and swap places until everyone agrees. If two people tie, they stand side by side.; The caller draws the line on the record sheet as stick people. With two players, the line has two people, and that is fine.; The person at the front of the line is the next caller.; After 5 cards, look at the record sheet. Is the line the same every time? The game ends there.
+- **rules:** Cut out the 10 cards. Shuffle them and put them face down. Everyone is on the same team: the goal is to make each line together.; The youngest player is the first caller. The caller turns over a card. A grown-up reads it out.; Everyone lines up in that order. Talk, check and swap places until everyone agrees. If two people tie, they stand side by side.; The caller writes the names in line order on the record sheet. With two players, the line has two people, and that is fine.; The person at the front of the line is the next caller.; After 5 cards, look at the record sheet. Is the line the same every time? The game ends there.
 - **Printable cards: 10 line-up cards to cut out:** Line up from youngest to oldest. (back: Ask each person how old they are, if you do not know.); Line up from shortest to tallest. (back: Stand back to back to check.); Line up by who woke up first this morning. (back: The first one awake goes at the front.); Line up from the smallest hand to the biggest hand. (back: Put palms together to check.); Line up by who has the longest hair. (back: Shortest hair at the front, longest at the back.); Line up by who has lived in this home the longest. (back: The person who came first goes at the front.); Line up from the smallest foot to the biggest foot. (back: Stand side by side and look down.); Line up by who fell asleep first last night. (back: The first one asleep goes at the front.); Line up from the softest voice to the loudest voice. (back: Everyone says 'hello' one at a time.); Line up by whose name has the most letters. (back: Count the letters in each name.)
-- **Printable score sheet: Line-up record: 5 lines:** Line 1: the card was ____________. Draw the stick people in the order they stood.; Line 2: the card was ____________. Draw the stick people in the order they stood.; Line 3: the card was ____________. Draw the stick people in the order they stood.; Line 4: the card was ____________. Draw the stick people in the order they stood.; Line 5: the card was ____________. Draw the stick people in the order they stood.
+- **Printable score sheet: Line-up record: 5 lines:** Line 1: the card was ____________. Write the names in the order they stood.; Line 2: the card was ____________. Write the names in the order they stood.; Line 3: the card was ____________. Write the names in the order they stood.; Line 4: the card was ____________. Write the names in the order they stood.; Line 5: the card was ____________. Write the names in the order they stood.
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Gather everyone who is at home in the biggest room. 3. Put the cards face down.  
   *Parent says:* Today the whole family plays a lining-up game. Do you think the youngest person will always be at the front? Why?  
-  *Child mode:* Everyone lines up in a different order each time. Guess who will be first.
+  *Child mode:* We will line up in different ways. Who do you think will be first?
   - Ask: Will the oldest person always be the tallest? (good: Yes, grown-ups are tall.; No, a grandparent can be shorter than a parent.)
   - Note: Any guess is fine. Write it down. Many children guess that oldest and tallest are the same.
 - **s2 (2 min)**  
   *Parent does:* 1. Your child turns over the first card and you read it aloud. 2. Everyone lines up. 3. If you are only two, stand in a line of two.  
-  *Parent says:* Line up from youngest to oldest. Who goes at the front? Who goes at the back?  
-  *Child mode:* Line up from youngest to oldest. Where do you stand?
+  *Parent says:* Here is the first card. Line up as it says. Who goes at the front? Who goes at the back?  
+  *Child mode:* Where do you stand in this line?
   - Note: Let your child do the sorting. Help only with ages if needed.
 - **s3 (4 min)**  
-  *Parent does:* 1. Play three more cards. 2. After each line, your child draws it as stick people on the record sheet.  
-  *Parent says:* Now line up from shortest to tallest. Is the line the same as before, or did someone move?  
-  *Child mode:* Now line up by height. Did someone move?
-  - Ask: Who moved when we lined up by height instead of age? (good: Somebody moved, because the oldest is not always the tallest.; The person at the front changed.)
+  *Parent does:* 1. Play three more cards. 2. After each line, your child writes the names in order on the record sheet.  
+  *Parent says:* Read the next card and line up. Is the line the same as before, or did someone move?  
+  *Child mode:* Line up again for the new card. Watch who moves.
+  - Ask: Who moved when we lined up for the new card? (good: Somebody moved, because each card sorts by something different.; The person at the front changed.)
 - **s4 (2 min)**  
-  *Parent does:* 1. Play one card that is not about bodies, like who woke first. 2. Draw that line too.  
-  *Parent says:* Who woke up first this morning? Line up! Is this line like the others?  
-  *Child mode:* Who woke up first today? Line up!
+  *Parent does:* 1. Play the fifth card. 2. Write that line too.  
+  *Parent says:* Read the last card and line up. Is this line like the others?  
+  *Child mode:* Line up for the last card.
 - **s5 (2 min)**  
   *Parent does:* 1. Lay the record sheet on the floor. 2. Look at all the lines together.  
   *Parent says:* Look at all our lines. Is the same person always at the front? Or is each person first at something?  
-  *Child mode:* Look at all the lines. Is anyone always first?
+  *Child mode:* Look at all five lines on the sheet.
   - Ask: Why are the lines different? (good: Each line sorts by a different thing.; The oldest is not always the tallest.)
   - Note: The point is that every person in a family is first at something. Sorting by different features gives different orders.
-  - Check: The oldest person is at the back when we line up by age. Is the oldest person always at the back of the line? → **No, it depends on what we line up by**
+  - Check: Is the oldest person always at the back of the line? → **No, it depends on what we line up by**
 
 ## Experiments
 ### e1 · Whose Cloth Is This? Can you find your family by smell alone? (22 min, 2 days)
 - **question:** Can I tell who wore a shirt just by smelling it, with my eyes covered?
 - **predict:** Guess first. Whose shirt will you know most easily by smell? Whose will be hardest? Why do you think so?
 - **fair test:** Every shirt goes in the same kind of steel tumbler, so the tumblers give no clue. Your eyes are covered, so you cannot see the shirt. Your hands stay in your lap, so your fingers give no clue. Nobody wears perfume the night before. We add one clean, washed shirt, to see what 'nobody' smells like. We do two rounds, because one right guess could be luck.
-- **record:** Draw one tumbler for each shirt. Under each, draw the face of the person you guessed. Put a tick when you were right.
+- **record:** Fill in the results table: whose shirt it was, your two guesses, and a tick when you were right both times.
 - **results table:** Whose shirt (written under the tumbler) | My guess, round 1 | My guess, round 2 | Right both times?
 - **schedule:** day 1: In the evening: everyone puts on a cotton shirt or vest for bed. No perfume, no new soap. (2 min); day 2: In the morning: put each shirt in a tumbler. Cover your child's eyes. Your child sniffs each tumbler and guesses whose shirt it is. Do this twice and write down the guesses. (20 min)
 - **s1 (2 min)**  
   *Parent does:* 1. In the evening, tell everyone about the test. 2. Each person puts on a cotton T-shirt, vest or nightie for bed. 3. Ask everyone not to use perfume or scented powder tonight.  
-  *Parent says:* Tomorrow we test your nose. Everyone sleeps in a cotton shirt tonight. Whose shirt do you think you will know best? Why?  
-  *Child mode:* Everyone wears a cotton shirt to bed tonight. Tomorrow we sniff them. Whose shirt will you know best? Why?
+  *Parent says:* Tomorrow we test your nose. Everyone sleeps in a cotton shirt tonight. Then you will try to tell whose shirt is whose.  
+  *Child mode:* Everyone wears a cotton shirt to bed tonight. Tomorrow we sniff them.
   - Ask: Whose shirt will be easiest to know by smell? (good: The person I hug the most.; The person whose hair oil I know.)
   - Note: Write down the guess and the reason. Say nothing yet. Children often guess the person they hug most.
 - **s2 (4 min)**  
@@ -211,12 +211,12 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 - **s5 (4 min)**  
   *Parent does:* 1. Take the dupatta off. 2. Mix the tumblers again while your child turns away. 3. Cover the eyes again and do round 2. 4. Write the second guesses.  
   *Parent says:* Now we do it all again in a new order. One right guess could be luck. Two right guesses is a real clue.  
-  *Child mode:* Let's do it again in a new order. One right guess could be luck. Two right guesses is a real clue.
+  *Child mode:* Sniff again, in a new order. Do you still think the same?
   - Note: Keep the chits under the tumblers as you mix them.
 - **s6 (4 min)**  
   *Parent does:* 1. Take off the dupatta. 2. Lift each tumbler and read the chit together. 3. Your child puts a tick in the results table for each right guess.  
   *Parent says:* Let's look under the tumblers. Whose shirts did you know both times? Which ones were hard? Why do you think so?  
-  *Child mode:* Look under each tumbler. Which ones did you get right? Which were hard?
+  *Child mode:* Look under each tumbler. Which ones did you get right?
   - Ask: Which shirt was hardest to know, and why? (good: The clean shirt, because it smelled of nothing.; A shirt from someone I do not sit close to.)
   - Note: Often a child gets at least one person right both times, usually someone close. If your child got none right, that is a real result too. Smells on a shirt are faint. Try again with shirts worn for two nights, or let a grown-up be the sniffer. Wash the shirts afterwards.
   - Check: What did you use to find whose shirt it was? → **My nose**
@@ -226,81 +226,81 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 - **predict:** Guess first. Will the last person in the line smell of garlic? Why do you think so?
 - **fair test:** Everyone washes and dries their hands first, so they start the same. Everyone shakes hands the same way, for the count of three. Everyone smells their own palm the same way.
 - **safety:** Only a grown-up crushes the garlic and rubs it on a palm, for a few seconds. Keep garlic away from eyes. If the skin stings, wash at once. Everyone washes their hands with soap at the end.
-- **record:** Draw the line of people, and the spoon and cloth if you used them. Colour each hand: dark green for a strong smell, light green for a little, no colour for none.
+- **record:** Fill in the results table: the place in the line, the name (or spoon, or cloth), and strong, a little or none.
 - **results table:** Place in the line | Name (or spoon, or cloth) | Garlic smell: strong, a little, or none?
 - **s1 (2 min)**  
   *Parent does:* 1. Everyone washes hands with soap and dries them. 2. Stand in a line. If you are only two, the line is: grown-up, child, steel spoon, cotton cloth. 3. Ask for a guess.  
-  *Parent says:* A grown-up will put garlic on one hand. Then we pass it down the line. Will the last one in the line smell of garlic? Why?  
-  *Child mode:* One person gets garlic on their hand. We shake hands down the line. Will the last person smell of garlic? Why?
+  *Parent says:* A grown-up will put garlic on one hand. Then we shake hands down the line, one after another. Guess what will happen at the end.  
+  *Child mode:* One person gets garlic on their hand. Think about the last person in the line.
   - Ask: Will the last person smell of garlic? (good: Yes, it will pass along.; No, it will be used up by then.)
 - **s2 (2 min) · grown-up needed**  
   *Parent does:* 1. The grown-up stands first in the line. 2. The grown-up crushes the garlic clove with the back of the spoon. 3. The grown-up rubs it on one palm for a few seconds.  
   *Parent says:* Smell the garlic. Now the first person rubs it on their palm.  
-  *Child mode:* Smell the garlic. The first person rubs it on their palm.
+  *Child mode:* Sniff the garlic first, so you know its smell.
   - Note: A grown-up crushes the garlic. Use the clove in cooking afterwards.
 - **s3 (3 min)**  
   *Parent does:* 1. The first person shakes hands with the second, for a count of three. 2. The second shakes with the third. 3. Go to the end of the line. If you are only two: after the handshake, your child holds the steel spoon in that same hand for a count of three. Then press the spoon on the cotton cloth for a count of three.  
   *Parent says:* Shake hands, one, two, three. Now pass it on to the next person.  
-  *Child mode:* Shake hands. Count one, two, three. Pass it on.
+  *Child mode:* Shake the next hand gently. Count one, two, three.
   - Note: Use the same hand each time. With only two people, the spoon and cloth are the end of the line. Their smell may be very faint, and that is a result too.
 - **s4 (3 min)**  
   *Parent does:* 1. Everyone sniffs their own palm, then the spoon and the cloth if you used them. 2. Each says strong, a little, or none. 3. Your child records it.  
   *Parent says:* Everyone sniffs their own palm. Is the garlic smell strong, a little, or none? Who has the most? Who has the least?  
-  *Child mode:* Sniff your palm. Is the garlic smell strong, a little, or none?
+  *Child mode:* Sniff your own palm. Take your time.
   - Ask: Why did the smell get weaker down the line? (good: Each hand got a little less than the hand before.; Each handshake passed on only some of the garlic.)
   - Note: Usually the first two in the line smell clearly of garlic and the end of the line smells faintly or not at all.
   - Check: Who smelled most strongly of garlic? → **The first person**
 - **s5 (2 min)**  
   *Parent does:* 1. Everyone washes hands with soap. 2. Talk about microbes.  
   *Parent says:* The garlic smell passed from hand to hand. Garlic is not a microbe. Still, its smell shows how tiny things you cannot see can pass along a line of hands. Microbes on our skin pass from hand to hand in the same way. People who live together pass them to each other every day.  
-  *Child mode:* Tiny microbes pass from hand to hand too. Now wash with soap!
+  *Child mode:* Wash your hands well with soap.
 
 ## Activities
 ### a1 · My Home Picture: who lives with me, and who lives far away (10 min)
-- **record:** The folded drawing, with a name under each person.
+- **record:** The folded page, with a name for each person.
 - **s1 (1 min)**  
-  *Parent does:* 1. Fold the page in half. 2. On the left half, your child draws a big house.  
-  *Parent says:* Let's draw your family. Who lives in our home with you?  
-  *Child mode:* Draw a big house on this side. Who lives here with you?
+  *Parent does:* 1. Fold the page in half. 2. On the left half, your child writes 'Home'. On the right half, 'Far away'.  
+  *Parent says:* We will make a page about your family. Left is home. Right is far away.  
+  *Child mode:* Write the two titles. Which side is for people who live here with you?
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child draws each person who lives in the home, inside the house. 2. You write each name under the drawing.  
-  *Parent says:* Draw each person who sleeps in our home. Who looks after you when you are sick?  
-  *Child mode:* Draw everyone who lives here. Draw pets too, if you have any.
+  *Parent does:* 1. Your child names each person who lives in the home. 2. You write each name on the left half. Your child can draw that person too, if they like.  
+  *Parent says:* Who sleeps in our home? Tell me each person, and I will write the name.  
+  *Child mode:* Say everyone who lives here. Pets count too. Draw them, or just tell me.
   - Ask: Who looks after you when you are sick? (good: My mother and my grandmother.; My father makes me rasam.)
   - Note: Let your child decide who to include. A house help, a pet or a plant may appear. Ask about them warmly.
 - **s3 (4 min)**  
-  *Parent does:* 1. On the right half, your child draws family who live somewhere else. 2. Draw a line from each one to how you keep in touch: a phone, a bus, a train or a letter.  
+  *Parent does:* 1. On the right half, write the name of each family member who lives somewhere else. 2. Next to each name, write how you keep in touch: a phone call, a visit by bus or train, or a letter.  
   *Parent says:* Who is in our family but lives far away? How do we talk to them?  
-  *Child mode:* Draw family who live far away. How do you talk to them?
+  *Child mode:* Name family who live far away. How do you keep in touch?
   - Ask: Is someone far away still part of your family? (good: Yes, my aunt is my family even far away.; Yes, because we call her.)
 - **s4 (1 min)**  
   *Parent does:* 1. Look at the whole page together.  
-  *Parent says:* Look at your family. Some are near and some are far. All of them are your family.  
-  *Child mode:* Look! Your family, near and far.
+  *Parent says:* Look at your page. Some of your family are near and some are far. All of them are your family.  
+  *Child mode:* Point to the person you see most. Then point to the person you see least.
 ### a2 · Families of Many Kinds: listen and match (10 min)
-- **record:** Count the beans in each bowl. Draw one family from the list that is not like yours.
+- **record:** Count the beans in each bowl. Tell a grown-up about one family that is not like yours. Say one thing that is the same as yours.
 - **s1 (1 min)**  
   *Parent does:* 1. Put the two bowls in front of your child. 2. Say which bowl is 'like my family' and which is 'not like my family'.  
   *Parent says:* I will read about six families. Listen for who looks after the child.  
-  *Child mode:* Listen to six families. Who looks after the child?
+  *Child mode:* Listen to six families. After each one, drop a bean in a bowl.
 - **s2 (7 min)**  
   *Parent does:* 1. Read each family slowly. 2. After each, ask who looks after the child. 3. Your child drops a bean in one bowl.  
-  *Parent says:* Family 1: Meenakshi lives in Madurai with her Paati, Thatha, Amma, Appa, aunt, uncle and two cousins. Family 2: Joyita lives in Kolkata with just her Baba. Family 3: Kayal was adopted by Revathi in Chennai. Family 4: Tenzin lives in Gangtok with her mother and her grandmother. Family 5: Lakshmi lives in Mysuru with her Amma. Her Appa works in another city and comes home each month. Family 6: Farhan lives in Pune with his two Phuphis, his aunts, who raise him.  
-  *Child mode:* Listen to each family. Who looks after the child? Is that family like yours?
+  *Parent says:* Family 1: Meenakshi lives in Madurai with her Paati, Thatha, Amma, Appa, aunt, uncle and two cousins. Family 2: Joyita lives in Kolkata with just her Baba. Family 3: Kayal was adopted by Revathi in Chennai. This means Kayal joined Revathi's family as her daughter, for always. Family 4: Tenzin lives in Gangtok with her mother and her grandmother. Family 5: Lakshmi lives in Mysuru with her Amma. Her Appa works in another city and comes home each month. Family 6: Farhan lives in Pune with his two Phuphis, his aunts, who raise him.  
+  *Child mode:* Drop a bean in the bowl that fits. Is that family like yours?
   - Ask: In Joyita's family, who looks after Joyita? (good: Her Baba.; Her father.)
   - Ask: Is Kayal's family a real family? (good: Yes, Revathi is her mother.; Yes, because they love each other.)
   - Note: Read one family at a time and wait for an answer before the next. There are no wrong bowls: the bowls show how your child sees their own family.
 - **s3 (2 min)**  
   *Parent does:* 1. Count the beans in each bowl together.  
-  *Parent says:* How many families are like ours? How many are different? Every one of them is a real family.  
-  *Child mode:* Count the beans in each bowl. Every one is a real family.
+  *Parent says:* How many families are like ours? How many are different?  
+  *Child mode:* Count the beans in each bowl.
   - Check: Which of these is a real family? → **Every one of the six families**
 ### a3 · Elephant Family Walk (8 min)
-- **record:** Draw your elephant family walk, with the leader at the front.
+- **record:** Take a photo of your elephant family walk, or tell a grown-up who walked where, and why the young ones were in the middle.
 - **s1 (2 min)**  
   *Parent does:* 1. Explain the elephant family. 2. Choose the oldest grown-up at home to be the leader.  
   *Parent says:* Asian elephants live in families of mothers, daughters, aunts and young ones. Often an older female leads the way to water. In our game, the oldest grown-up is the leader. She or he leads!  
-  *Child mode:* Elephant families stay together. An older female often leads. In our game, the oldest grown-up leads.
+  *Child mode:* Who is the oldest grown-up at home? In our game, that person leads.
   - Note: This is true of Asian elephants in India. T. N. C. Vidya and her team in Bengaluru study elephant families in Nagarahole forest. Grown-up male elephants leave their family and mostly live alone or in small groups.
 - **s2 (3 min)**  
   *Parent does:* 1. Everyone lines up behind the leader. 2. Each person holds the back of the shirt of the person in front, like a trunk holding a tail. 3. Walk slowly round the home.  
@@ -309,47 +309,47 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
   - Note: Holding the tail is only for the game. Real baby elephants walk close beside their mothers.
 - **s3 (3 min)**  
   *Parent does:* 1. The leader calls 'Tiger!' 2. The grown-ups stand close around the youngest child, arms out like a wall. If there is only one grown-up, stand close to your child, arms out. 3. Then walk on.  
-  *Parent says:* Tiger! Quick, the young ones go in the middle. The grown-ups stand around them. Why do you think elephants do this?  
-  *Child mode:* Tiger! The little ones go in the middle. Why?
+  *Parent says:* Tiger! Quick, the young ones go in the middle. The grown-ups stand around them.  
+  *Child mode:* Tiger! If you are small, go to the middle.
   - Ask: Why do the young ones go in the middle? (good: So the tiger cannot reach them.; The big elephants keep them safe.)
   - Note: Elephant families do gather around their calves when there is danger.
 ### a4 · Who Else Lives in Our Home? A hunt for other living beings (10 min)
-- **record:** A list with a little drawing for each living being found, and where.
+- **record:** A list of each living being found, and where, written by a grown-up. Add a photo if you like.
 - **s1 (1 min)**  
   *Parent does:* 1. Give your child the paper and pencil.  
   *Parent says:* Our family is not the only family living here. Let's find who else lives in our home.  
   *Child mode:* Who else lives in our home? Let's look!
 - **s2 (6 min)**  
-  *Parent does:* 1. Walk round the home together. 2. Look near the kitchen, in corners, behind the fridge with the torch, on the walls at night, and at the windows. 3. Your child draws each living being found.  
+  *Parent does:* 1. Walk round the home together. 2. Look near the kitchen, in corners, behind the fridge with the torch, on the walls at night, and at the windows. 3. Your child says each living being found. You write it on the list, with where it was.  
   *Parent says:* Look near the kitchen floor. Are there ants? Look up at the wall. Is there a lizard? Is there a plant at the window?  
-  *Child mode:* Look on the floor, up the walls and at the window. Draw what you find.
+  *Child mode:* Look on the floor, up the walls and at the window. Say what you find.
   - Ask: What other living beings share our home? (good: Ants in the kitchen.; A lizard on the wall.; Our tulsi plant.)
   - Note: Ants and a potted plant are found in most homes. A house lizard, a spider or a crow at the window are common too. Do not touch any of them.
 - **s3 (3 min)**  
   *Parent does:* 1. Show the bowl of curd. 2. Explain that curd is full of living microbes.  
-  *Parent says:* This curd is full of living microbes, too small to see. They turned the milk into curd. And millions of microbes live on our skin too. So is our home only for people?  
-  *Child mode:* Curd is full of tiny living microbes. So are we! How many living beings live here?
+  *Parent says:* This curd is full of living microbes, too small to see. They turned the milk into curd. Millions of microbes live on our skin too.  
+  *Child mode:* Look at the curd. You cannot see the microbes, but they are in it. Your skin has some too.
   - Ask: Is our home only for people? (good: No, ants and the lizard live here too.; No, microbes live everywhere.)
 
 ## Projects
 ### p1 · Who Looked After Me as a Baby? A three-day memory book (30 min, 3 days)
-- **record:** A three-page memory book, with a drawing and a sentence on each page, written by a grown-up.
-- **schedule:** day 1: Look at a baby photo. Ask a grown-up: what did I eat as a baby? Draw it. (10 min); day 2: Ask a grown-up: what song did someone sing to me? Sing it together and draw it. (10 min); day 3: Ask a grown-up, or call a relative who lives far away: who held me at night? Draw it and finish the cover. (10 min)
+- **record:** A three-page memory book, with a sentence on each page written by a grown-up.
+- **schedule:** day 1: Look at a baby photo. Ask a grown-up: what did I eat as a baby? A grown-up writes the answer on page 1. (10 min); day 2: Ask a grown-up: what song did someone sing to me? Sing it together. Write the first line on page 2, or record it on a phone. (10 min); day 3: Ask a grown-up, or call a relative who lives far away: who held me at night? Draw that person holding you, or tell it to a grown-up who writes it. Then finish the cover. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Look at a baby photo together. 2. Your child asks one person: what did I eat when I was a baby? 3. Your child draws it. 4. Write the answer under the drawing.  
-  *Parent says:* Look, this is you as a baby! You could not walk or talk. Who fed you? Ask a grown-up what you ate.  
-  *Child mode:* Look, that is you as a baby! Ask: what did I eat? Draw it.
-  - Ask: What did you eat as a baby? (good: Milk, then ragi porridge.; Mashed rice and dal.)
+  *Parent does:* 1. Look at a baby photo together. 2. Your child asks one person: what did I eat when I was a baby? 3. Your child says what they think they ate first. 4. Write the real answer on page 1.  
+  *Parent says:* Look, this is you as a baby! You could not walk or talk, so someone had to feed you.  
+  *Child mode:* That is you as a baby! Ask a grown-up what you ate.
+  - Ask: What do you think you ate as a baby? (good: Milk, then ragi porridge.; Mashed rice and dal.)
   - Note: If your child joined the family later, ask about the first days together instead.
 - **s2 (10 min)**  
-  *Parent does:* 1. On day two, your child asks another person: what song did someone sing to me? 2. Sing it together. 3. Draw it.  
+  *Parent does:* 1. On day two, your child asks another person: what song did someone sing to me? 2. Sing it together. 3. Write the first line on page 2, or record the song on a phone.  
   *Parent says:* Who sang you to sleep? Ask a grown-up. Can they sing it now?  
-  *Child mode:* Ask: who sang to me? Sing it together. Draw it.
+  *Child mode:* Ask who sang to you. Then sing it together.
   - Wait: Do this the next day.
 - **s3 (10 min)**  
-  *Parent does:* 1. On day three, ask a grown-up, or call a relative far away: who held me at night? 2. Draw it. 3. Make a cover. A grown-up writes your name on it.  
+  *Parent does:* 1. On day three, ask a grown-up, or call a relative far away: who held me at night? 2. Your child draws that person holding them, or tells it and you write it. 3. Make a cover. A grown-up writes your name on it.  
   *Parent says:* When you were a baby, many people looked after you. Who held you when you cried at night? Ask a grown-up, or call a relative far away and ask.  
-  *Child mode:* Ask: who held me when I cried? Draw it. Make a cover.
+  *Child mode:* Ask who held you when you cried. Then make your page and a cover.
   - Ask: How many people looked after you as a baby? (good: Lots, my mother, my father and my grandmother.; Everyone in my family.)
   - Note: A baby needs many hands. The book shows your child how many people made sure they were fed, held and safe.
   - Wait: Do this the day after.
@@ -363,18 +363,18 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 - **creative:** Cut a slot in a small box and slide the picture into the slot.; Roll two paper tubes and tape them behind the picture like legs.; Stand the picture in a lump of atta dough on a small plate.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the drawing flat on the table. 2. Ask how to make it stand.  
-  *Parent says:* Your family picture is lying down. How can we make it stand up by itself? What do you think will work?  
-  *Child mode:* Your picture is lying down. How can it stand up by itself?
+  *Parent says:* Your family picture is lying down. Let's make it stand up by itself.  
+  *Child mode:* Look at the picture lying flat. Think before you try anything.
   - Ask: How could you make it stand? (good: Put something behind it.; Fold the bottom.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Your child tries one idea with cardboard, paper and tape. 2. Stand it on the table. 3. Count to 20 together.  
-  *Parent says:* Try your idea. Stand it up and let go. Let's count to 20. Did it stay up?  
-  *Child mode:* Try your idea. Let go. Count to 20!
+  *Parent says:* Try your idea. Stand it up and let go. Did it stay up?  
+  *Child mode:* Stand it up, let go, and count to 20 in your head.
   - Note: Help with cutting cardboard. If it falls, ask which way it fell, and what could stop it falling that way.
 - **s3 (5 min)**  
   *Parent does:* 1. If it fell, try a second idea. 2. Put the picture on a shelf where everyone can see it.  
-  *Parent says:* What made it stay up? Where shall we put our family?  
-  *Child mode:* What made it stand? Put your family on the shelf!
+  *Parent says:* Where shall we put our family, so everyone can see them?  
+  *Child mode:* Put your family on the shelf.
   - Ask: What made the stand work? (good: The triangle at the back held it.; A wide foot stopped it falling.)
 
 ## Worksheets

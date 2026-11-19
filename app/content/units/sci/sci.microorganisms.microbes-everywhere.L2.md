@@ -1,7 +1,7 @@
 # Microbes: tiny living beings on your hands, in soil and in curd
 `sci.microorganisms.microbes-everywhere.L2`
 
-**Summary.** Three slices of boiled potato look clean. Touch one with your fingers and one with a pinch of soil, and in a few days both grow coloured spots. Each spot is a crowd of microbes, living beings too small to see, that grew from a few. Microbes live on your hands, in the soil of a flower pot, in the air, and by the million in a spoon of curd. In this unit you grow them where you can see them, smell what soil microbes make, and use them to set curd.
+**Summary.** Three potato slices look clean, but touch one with your fingers and one with soil and spots grow in a few days. Where do the spots come from? In this unit you will grow them and count them, smell what soil microbes make, and find out how a spoon of curd sets milk.
 
 **Intro.** *Look closely at your palm. You can see skin and lines, and nothing else. Yet thousands of tiny living beings are on it right now. How could we find out if that is true?* Some living beings are far too small to see with our eyes alone. They are called microbes. One microbe is too small to see, but a microbe can split into two, and two into four. On food, in a warm place, a few microbes can become millions in a day or two. Millions together make a spot we can see. So if we give the microbes on our hands some food, we can watch them grow.
 

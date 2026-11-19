@@ -1,7 +1,7 @@
 # Three things a force can change: shape, speed and direction
 `sci.forces.changing-motion.L2`
 
-**Summary.** Roll a marble round the inside of a curved card wall, and it follows the curve. Where the wall ends, the marble goes off in a straight line. So the wall was pushing it sideways all the way round. A force is a push or a pull, and it can change three things: the shape of a thing, its speed and its direction. Your child crumples foil, races a ball down ramps and bends a marble's path, to see each change happen.
+**Summary.** A marble rolls round a curved card wall, then shoots off straight where the wall ends. Why? In this unit you will crumple and bend foil, race a ball down steeper and flatter ramps, and bend a marble's path with a wall, then sort what a push or pull changed.
 
 **Intro.** *Roll a ball across the floor. Without touching the ball, can you make it turn a corner?* A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this unit you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.
 

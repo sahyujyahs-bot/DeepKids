@@ -1,7 +1,7 @@
 # India's ecological regions: why each land has its own plants, animals and knowledge
 `sci.habitats.lands-and-lives.L5`
 
-**Summary.** Mangaluru and Bengaluru get the same monsoon wind, yet Mangaluru gets more than three times as much rain. A line of hills between them takes most of the water out of the air. Rain, height, salt and soil divide India into ecological regions, each with their own plants, animals and people. Some living beings are found in one region and nowhere else. Your child tests how buttress roots hold up a tall tree on thin soil. They also build paper towers for a still land and a windy land. They find out why knowledge that fits one land can fail in another.
+**Summary.** Mangaluru and Bengaluru get the same monsoon wind, but Mangaluru gets more than three times as much rain. Why? In this unit you will draw India's ecological regions on a map, test how buttress roots help a tall tree stand, and build paper towers for still air and windy air.
 
 **Intro.** *In Meghalaya, people cross some rivers on bridges that are alive. Nobody cut a single plank for them. Why would anyone grow a bridge when they could build one?* The answer is in the rain. The hills of southern Meghalaya get about 12 metres of rain a year, more than almost any place on Earth. A bridge of cut wood or bamboo rots there in a few years. A living root gets thicker and stronger every year. So Khasi and Jaintia villagers guide the roots of a rubber fig tree across the stream. Then they wait up to 15 years. The bridge fits that land. In this unit you find out what makes one land differ from another. You meet living beings who are found in only one place. You also test whether a good design for one land still works when it is moved to another.
 

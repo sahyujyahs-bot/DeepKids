@@ -1,7 +1,7 @@
 # Birds: how beaks and feet fit their food, and why birds are dinosaurs
 `sci.animals.birds.L4`
 
-**Summary.** A sparrow cracks a hard seed, and a godwit pulls a worm out of deep mud. Neither bird can do the other's job, and the reason is the shape of the beak. Your child uses a pair of scissors as a model beak. They find where the blades cut hardest and where they open widest. They read feet, nests and long journeys in the same way. Each one is an answer to the problem of finding food and raising chicks. They also check a bird at the window for the features of a small meat-eating dinosaur. Birds are dinosaurs who are still alive.
+**Summary.** A beak can crack a seed or sip nectar, and scientists say birds are dinosaurs. What shows that? In this unit you will watch a bird's beak and feet, test where a beak bites hardest with a lever, match clue cards, and find the dinosaur in a bird.
 
 **Intro.** *A sparrow's beak is short and thick. A godwit's beak is as long as a pencil. Why can the sparrow crack a hard seed when the godwit cannot?* A beak has two halves joined at a hinge, like a pair of scissors. In this unit you cut stacks of newspaper with scissors, near the hinge and at the tips. You find out which part cuts hardest and which part reaches farthest. That explains why birds with different foods have different beaks. Then you read feet, nests and migration in the same way. Last, you look for a dinosaur's features on a bird at your window.
 

@@ -1,7 +1,7 @@
 # Sorting living things: many good ways, and one that finds relatives
 `sci.classification.sorting-living-things.L3`
 
-**Summary.** A green chilli and a cucumber are both green, so a colour sort puts them together. Cut them open, and the chilli's seeds match a tomato's, not the cucumber's. There are many good ways to sort living things, and each one is right for some job. A cook, a farmer and a doctor each sort differently. But there is one kind of sort that nobody chooses, because it has a true answer: which living things are relatives. Relatives share features because they came from the same ancestors. Scientists sort living things by these shared features, into groups inside groups, and people are in those groups too. The biggest groups have changed as scientists found new clues, as Carl Woese did in 1977.
+**Summary.** A cook, a farmer and a scientist may sort the same plants in different ways. Which way is right? In this unit you will sort vegetables by clues, find the mint family by its square stems, and play a game of kitchen families.
 
 **Intro.** *Put a green chilli, a cucumber and a tomato on a plate. Which two belong together? Most people say the chilli and the cucumber, because both are green. Now look at the tops. The chilli and the tomato both wear a small green cap. The cucumber does not. Which two really belong together?* Both answers are good sorts. Colour is a fine way to sort if you are making a green salad. But the caps are a clue to something else. Tomato and chilli plants are relatives, and the cucumber plant comes from a different family. In this unit you sort living things, people included, in many ways. Then you find out how to sort them by who is related to whom, using clues you can see and feel.
 

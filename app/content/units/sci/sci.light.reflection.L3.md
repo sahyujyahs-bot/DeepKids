@@ -1,7 +1,7 @@
 # Reflection: how mirrors reflect light and make images
 `sci.light.reflection.L3`
 
-**Summary.** Your face shows in a mirror but not in a white wall, even though both reflect light. Reflection is light bouncing off a surface. A mirror is so smooth that the light rays stay in order, so it makes an image of you. Light leaves a flat mirror at the same angle it arrives, and you can test this with a torch. A mirror also turns things front to back, which is why AMBULANCE is written backwards on the front of an ambulance.
+**Summary.** Why does a mirror show your face, but a white wall does not? In this unit you will aim a torch beam at a mirror to see where it goes, write secret mirror messages, and count how many toys you see with two mirrors.
 
 **Intro.** *Pick up a steel spoon. Look at your face in the inside of the bowl. Now turn the spoon over and look at the back. What happened to your face?* Inside the spoon, your face is upside down. On the back, it is the right way up, but small. The spoon makes no light of its own. Light from the room falls on your face. It bounces off your face to the spoon, and then into your eyes. This is called reflection. The two sides of the spoon curve in opposite ways, so they send the light back differently.
 

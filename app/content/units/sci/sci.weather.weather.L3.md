@@ -1,7 +1,7 @@
 # Measuring the weather: thermometers, rain gauges and wind vanes
 `sci.weather.weather.L3`
 
-**Summary.** Hang a thermometer in the sun and it can read many degrees more than one in the shade, in the same air. A thermometer shows how warm the thermometer itself is, and sunlight heats it. So weather stations keep their thermometers in the shade, inside a white box with slatted sides. A rain gauge measures rain as a depth in millimetres. A wide pot and a narrow jar, both with straight sides, fill to the same depth in the same rain. A wind vane turns to point to where the wind is coming from. Write these readings down every day in a weather diary. Then patterns appear, such as the warmest time of day, the wettest week and the usual wind direction.
+**Summary.** A thermometer in the sun can say 45 degrees on a day that is not that hot. Why? In this unit you will test a thermometer in the sun and in the shade, find out whether a wider rain gauge catches deeper rain, and make a wind vane.
 
 **Intro.** *Nila hangs a thermometer on her sunny balcony in Chennai. It says 45 degrees. The radio says it is 36 degrees in Chennai today. Both thermometers work. So which one tells the truth about the air?* Weather is what the air is doing right now: how warm it is, whether rain is falling, and which way the wind blows. To compare one day with another, or one town with another, people measure it. In this unit you measure temperature with a thermometer, rain with a rain gauge and wind with a wind vane. You find out why a thermometer must be kept in the shade. Then you keep your own weather diary, like the weather scientists of India.
 

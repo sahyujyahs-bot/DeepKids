@@ -1,7 +1,7 @@
 # Testing materials: how to run a fair test
 `sci.materials.testing-materials.L3`
 
-**Summary.** A shopkeeper says her umbrella cloth keeps out the most rain. How can you check? Pour the same amount of water on each cloth, from the same height, and wait the same time. Only the cloth is different, so any difference must come from the cloth. This is called a fair test. You also hang coins from strips of paper to test how strong they are. A strip with one small cut tears at the cut, because a material is only as strong as its weakest spot.
+**Summary.** How do you know which cloth keeps rain out best? You test it fairly. In this unit you will plan your own fair tests, check cloths with an umbrella patch test, test which paper holds the most, and see what one small cut does to a strip.
 
 **Intro.** *Your family must buy one umbrella for the monsoon. The shopkeeper says, 'This one is the most waterproof in all of India!' How could you find out if that is true, without just believing her?* You cannot tell how waterproof a cloth is just by looking at it. You have to test it. A test means doing something to a material on purpose, and measuring what happens. A good test is fair. It gives every cloth the same chance, so only the cloth decides the result. Before you read on, think. How would you test four cloths so that nobody could call your test unfair? Keep your answer in mind. You are going to design that test yourself.
 

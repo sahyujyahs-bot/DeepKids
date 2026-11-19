@@ -1,7 +1,7 @@
 # Life beyond Earth: where living things could survive
 `sci.sky.life-beyond-earth.L3`
 
-**Summary.** Nobody has yet found life anywhere but on Earth. To guess where it might be, scientists first look at the hardest places on Earth where life already lives. Tiny living things called microbes live in hot springs close to boiling, in salt lakes, and in salty water trapped inside Antarctic ice. Every one of them needs liquid water. Salt keeps water liquid far below the cold that freezes plain water, so salty water under the ice of moons like Europa is one of the best places to look.
+**Summary.** Why does very salty water stay liquid in cold that freezes plain water, and why does that matter for finding life in space? In this unit you will lift an ice cube with a thread, test salty water in a freezer, and play a card game about where life could live.
 
 **Intro.** *Lay a thread across an ice cube. Lift the thread, and the ice stays behind. Now sprinkle a pinch of salt on the ice and wait one minute. Lift again, and the ice cube comes up hanging on the thread. What did the salt do to the ice?* Salt makes ice melt, even in the cold, and that small trick matters a great deal for life. Every living thing needs liquid water. In this unit you find out which tiny living things survive in boiling water, in ice and in salt. You test, in your own freezer, how cold salty water can get before it freezes. Then you use what you found to ask the big question: could there be life on other worlds, and where should we look?
 

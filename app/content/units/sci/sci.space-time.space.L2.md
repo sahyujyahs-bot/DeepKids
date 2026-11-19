@@ -1,7 +1,7 @@
 # What is space? Near, far, and whether space goes on for ever
 `sci.space-time.space.L2`
 
-**Summary.** Walk away from a bottle, and it looks smaller, though the bottle stays the same. What changed is the space between you and the bottle. Space is the room around things and between them. The farther apart two things are, the more space is between them. Nobody knows yet whether space goes on for ever.
+**Summary.** Walk away from a bottle and it looks smaller, though it has not changed. Why? In this unit you will hunt for the space between things, test how big a bottle looks from far away, step out near, nearer and nearest, and look into a mirror tunnel to ask if a row goes on for ever.
 
 **Intro.** *Hold up your thumb at arm's length and close one eye. Can your small thumb hide a big building far outside your window?* A thumb is much smaller than a building. Yet if the building is far enough away, your thumb can hide it. In this unit you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.
 

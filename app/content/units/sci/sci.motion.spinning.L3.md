@@ -1,7 +1,7 @@
 # Spinning tops and wheels: why a spinning top stays up
 `sci.motion.spinning.L3`
 
-**Summary.** Stand a top on its point and let go, and it falls at once. Spin it, and it stands up on that same point. A spinning top keeps its axis, the line it turns around, pointing the same way. When gravity tries to tip it over, the lean slowly circles round instead of falling. Friction at the tip slowly takes the spin away, so in the end every top wobbles and falls. Where the weight sits matters too. A top with its weight near the edge is harder to start turning, but it keeps turning longer. On a merry-go-round, every rider goes round once in the same time. The outside goes round a bigger circle than the middle, so the outside moves faster.
+**Summary.** Why does a top fall over when it is still, but stand up when it spins? In this unit you will make coin tops with the weight at the edge or the middle, spin a coin on different floors, and play a spinning game from the mela.
 
 **Intro.** *Try this. Stand a top, or a pencil stuck through a cardboard circle, on its point. Let go. It falls over at once. Now spin it hard and let go. It stands on the same tiny point for many seconds. Why does spinning keep it up?* Children in India have played with tops for hundreds of years. In Tamil a string top is a bambaram, and in Hindi it is a lattu. In this unit you make your own top, time how long it spins, and find out what makes it spin longer. You also find out why wheels are round, and why the outside of a merry-go-round moves fastest.
 

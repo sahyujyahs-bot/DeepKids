@@ -1,7 +1,7 @@
 # Wet but thirsty: how a root drinks, and why salty soil dries a plant
 `sci.plants.water-transport.L4`
 
-**Summary.** A seedling standing in a flooded field can droop like a plant in the desert. Water is all around her roots, and she still cannot drink it. Water moves toward the place where it is held more tightly, and salt holds water tightly. Your child sprouts moong seeds in water with different amounts of salt, and finds where the sprouting stops. They then follow water along its whole path, from soil to root to leaf to air, and see that dry air does most of the pulling. They also meet the mangroves of the Sundarbans, which live in sea water.
+**Summary.** A seedling standing in a flooded field can droop like a plant in a desert, with water all around its roots. Why can it not drink? In this unit you will sprout moong seeds in different amounts of salt, see which pulls more water out of slices, and test which sprig loses most water.
 
 **Intro.** *If you pour a glass of sea water on a potted plant, she droops within two days, though her soil is soaking wet. How can a plant die of thirst while she stands in water?* Try this at the table. Cut a cucumber into slices as thin as a coin. Lay ten slices on a plate and sprinkle a good pinch of salt over them. Come back in 20 minutes. There is a puddle on the plate, and the slices have gone floppy. The salt did not make that water. It came out of the cucumber. Whatever the salt does to a cucumber slice, it can also do to the roots of a plant.
 

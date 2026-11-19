@@ -1,7 +1,7 @@
 # Life in water: lakes, rivers and the deep sea, and where their light and food come from
 `sci.habitats.water-habitats.L5`
 
-**Summary.** Sunlight reaches only the top 200 metres of the sea, yet fish live more than 8,000 metres down. How do they find food in the dark? In this unit you lower a white disc into cloudy water and measure how fast light fades. You find out why a deep lake forms a warm layer and a cold layer. You follow a river from the hills to the sea and meet a dolphin who finds her way by sound. Then you go down to the deep sea, where food falls from above like snow and most animals make their own light.
+**Summary.** Sunlight reaches only the top 200 metres of the sea, yet fish live more than 8,000 metres down. How do they find food in the dark? In this unit you will lower a white disc into cloudy water to see how fast light fades, and follow the Kaveri from the hills to the sea.
 
 **Intro.** *The Ganga river dolphin's eyes have no lens. She can tell light from dark, and that is all. Yet she catches fast fish every day in water as brown as tea. How does she find them?* She uses sound. She makes quick clicks and listens for the echoes that come back from fish, sandbanks and boats. Her river is full of fine mud, and light cannot pass far through muddy water. Eyes are of little use there, so her kind came to depend on ears. Light fades in clear water too, only more slowly. Even in the clearest sea, the water below about 200 metres is too dim for any plant to grow. Most of the sea is much deeper than that. In this unit you measure how light fades in water. Then you find out what that means for everyone who lives in a lake, a river or the deep sea.
 

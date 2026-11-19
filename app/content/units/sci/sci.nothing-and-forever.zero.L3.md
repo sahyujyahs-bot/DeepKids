@@ -1,7 +1,7 @@
 # Zero: the number for none, and the mark that holds an empty place
 `sci.nothing-and-forever.zero.L3`
 
-**Summary.** Write 520, leave out the 0, and most people read 52. Zero does two jobs. It is the number for none, like the idlis on an empty plate. It also holds an empty place in a number, so the other digits keep their value. Indian mathematicians made zero a number of its own, and in 628 Brahmagupta wrote its rules. The child tests what happens when the 0 is left out, and finds out why nobody can divide by zero.
+**Summary.** Write 520, leave out the 0, and most people read 52. So what does zero do? In this unit you will hunt for zeros at home, use katoris and beans to see why the 0 matters in a number, and test what happens when it goes missing.
 
 **Intro.** *Try this. Write 52 on a chit. Leave a space after it, as wide as one digit. Show it to someone at home and ask them to read it. Did they say fifty-two? You meant five hundred and twenty. What went missing?* The space you left meant 'no ones here'. But a blank space is invisible, so the reader saw only 52. For thousands of years, people wrote numbers with gaps like this and made mistakes like this. Indian mathematicians solved it with a small sign for 'none'. They called it shunya, which means empty in Sanskrit. We call it zero, and today it is written in every country in the world.
 

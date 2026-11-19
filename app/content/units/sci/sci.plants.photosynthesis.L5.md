@@ -1,7 +1,7 @@
 # Chlorophyll and starch: how a leaf catches sunlight and keeps it as food
 `sci.plants.photosynthesis.L5`
 
-**Summary.** Pick one leaf from a plant at sunset and one at sunrise. The two leaves look the same. Yet an iodine test shows that the sunset leaf is full of starch and the sunrise leaf has very little. Where did the starch go in the night? Your child tests real leaves to find out. Chlorophyll, the green pigment in a leaf, catches light. The leaf uses that energy to make sugar and keeps part of it as starch for the dark hours. A white patch of leaf has no chlorophyll and makes no starch, so the green parts feed it. Then the idea goes out to your plate, to the sea, and to hot springs on the sea floor. Almost every food on Earth was made with sunlight caught by a plant, an alga or a cyanobacterium.
+**Summary.** Leaves picked at sunset and at sunrise look the same, but an iodine test shows the sunset leaf holds far more starch. Where does the starch go at night? In this unit you will test real leaves for starch, check a white patch, and trace your meal back to the Sun.
 
 **Intro.** *Think of everything you ate yesterday. Was there one food that did not need sunlight? Say what you think, and why.* Most people find this hard to answer. Rice and dal are plants, so they needed sunlight. But what about an egg, a fish or a mushroom? In the first activity, Plate to Sun, you follow each food on a real plate backwards and see where the trail ends. After that you test real leaves. You find out what chlorophyll does, where a leaf keeps the food it makes, and what happens to that food at night. You also meet the few living beings on Earth whose food does not start with sunlight.
 

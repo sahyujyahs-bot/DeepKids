@@ -1,7 +1,7 @@
 # Why the Moon seems to change shape, and how eclipses happen
 `sci.sky.moon-phases.L3`
 
-**Summary.** The Moon makes no light of its own, but the Sun always lights half of it. As the Moon goes round the Earth each month, we see more or less of that lit half, so its shape seems to change. The Moon spins once for each trip round us, so we always see the same face. When the Sun, the Earth and the Moon line up exactly, a shadow falls and we get an eclipse. Indian calendars count the Moon's days, called tithis, and many festivals still follow them.
+**Summary.** The Moon makes no light of its own, so why does it seem to change shape? In this unit you will use a ball and a lamp to make every phase of the Moon, walk round a chair to see why we always see the same face, and keep a Moon diary.
 
 **Intro.** *The Moon is a round ball of rock. So why does it look like a thin curve on some nights, and a full circle on others?* People everywhere have watched the Moon grow from a thin curve to a full circle and back again, about once a month. Farmers and fishing families planned their work by it, and Indian calendars still count its days. The word 'month' even comes from the word 'Moon'. But the Moon makes no light, and it never changes its size. So what changes? In this unit you will make every Moon shape yourself, with a ball and a lamp in a dark room, and find out.
 

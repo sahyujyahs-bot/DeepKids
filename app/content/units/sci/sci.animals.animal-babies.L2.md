@@ -1,7 +1,7 @@
 # Animal babies: how they grow up, and how they are cared for
 `sci.animals.animal-babies.L2`
 
-**Summary.** A sparrow chick in a dark hole in the wall cannot see the parent coming. Yet the parent finds the chick's mouth every time. Young animals grow and change until they are adults, and many need care on the way: food, warmth and safety. Some babies can walk within an hour of birth, and some need years of care, like human babies. Your child makes a dark nest of paper chick mouths and tests which mouth colours a parent finds and feeds most often.
+**Summary.** Some baby animals walk soon after birth, and a human baby cannot. Why do some babies need so much more care? In this unit you will line up babies by how soon they walk, test which chick gets fed in a dark nest, and play a game of ready or needs help.
 
 **Intro.** *Sparrow chicks live in a dark hole in a wall. When a parent flies in with food, how does the parent find the right place to put it?* Every animal starts small and grows into an adult. A calf can stand on the day she is born. A sparrow chick hatches with no feathers and shut eyes. A human baby cannot even sit up for months. Babies like these need someone to look after them. But babies are not only waiting to be cared for. They call, beg, cry and open their mouths wide. In this unit you find out how babies help their own care. You test it with a dark nest full of paper mouths.
 

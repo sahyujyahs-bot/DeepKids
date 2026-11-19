@@ -1,7 +1,7 @@
 # Refraction: why light bends in water and lenses
 `sci.light.refraction.L3`
 
-**Summary.** A straight pencil in a glass of water looks snapped at the water line. This happens because light bends when it passes at a slant from water into air. This bending is called refraction, and it happens because light travels more slowly in water and glass than in air. A lens is a curved piece of glass or plastic that bends light on purpose. A magnifying glass is a lens that makes small things look bigger. Water drops, marbles and the lens inside your own eye bend light in the same way. The air around the Earth bends sunlight too, so we still see the Sun for about two minutes after it has set.
+**Summary.** Why does a pencil in a glass of water look broken when it is really straight? In this unit you will test whether the broken pencil is bent, find which water drop makes letters look biggest, and make a hidden coin appear.
 
 **Intro.** *Put a pencil in a glass of water and look at it from the side. It looks snapped in two at the water line. Pull it out. It is whole. Why does the pencil look broken in the water, when it is not?* About two thousand years ago, a Roman writer called Seneca noticed something odd. Small letters looked bigger and clearer when he read them through a glass ball filled with water. People who fish with spears know another puzzle. Fish are not quite where they look, and a spear thrown straight at them passes above them. In this unit you will find out what happens to light at the edge of water and glass, and why it causes both of these surprises.
 

@@ -1,7 +1,7 @@
 # How your body gets rid of waste: kidneys, breath and sweat
 `sci.body.kidneys-and-waste.L4`
 
-**Summary.** Your cells make waste every second, and that waste would poison you if it stayed. Carbon dioxide leaves in your breath. A waste called urea leaves in your urine, and a little salt and water leave in your sweat. Your two kidneys do most of the cleaning. They push water and every small particle out of the blood through tiny filters. Then they take back the water, salt and sugar that your body needs. Your child tests three kitchen filters, and finds out which things no filter can hold back.
+**Summary.** Your body makes waste that must leave, and kidneys give most of it back to the body first. How can a filter do that? In this unit you will find your kidneys, test what three different filters hold back, and play a sorting game on how waste leaves.
 
 **Intro.** *You drink clear water, pale buttermilk and brown tea. Yet your urine is always some shade of yellow. Where does the yellow come from, and what else is leaving with it?* Urine is made from your blood, by your two kidneys. The yellow is a waste left over when old red blood cells are broken down. Urine also carries a waste called urea, which your body makes when it uses protein. Your lungs and your skin remove waste too. In this unit you find your kidneys with your thumbs. Then you pour salty tea with flour in it through three filters. You find out what a filter can hold back, and what the kidneys must do after filtering.
 

@@ -1,7 +1,7 @@
 # Elements: the 118 kinds of atom, metals and non-metals, and the elements in your body
 `sci.chemistry.elements.L4`
 
-**Summary.** Sugar and salt are both white grains, yet on a hot tawa sugar turns black and salt stays white. The black is carbon, an element that was inside the white sugar all the time. An element is a substance made of only one kind of atom, and 118 elements are known. Most of them are metals, but your body is built almost entirely from four non-metals: oxygen, carbon, hydrogen and nitrogen. Your child heats eight kitchen things to find which ones hold carbon. They colour a hundred square of the elements in their own body. They also test whether pencil lead, which is carbon, passes the tests for a metal.
+**Summary.** Your body is made of just a few kinds of atom, out of 118 known. Which ones? In this unit you will fill a hundred square with the elements you are made of, test kitchen things for carbon, and test which metal tests pencil lead passes.
 
 **Intro.** *Sugar is white. Salt is white. A grown-up heats a pinch of each on a tawa, and one of them turns black. Which one, and where did the black come from?* The black is an element called carbon. It was inside the sugar before the heating, joined with two other elements. There is carbon in rice, in cotton, in paper and in you. In this unit you find out which kitchen things hold carbon. You colour the elements of your own body on a hundred square. You number all 118 elements on a grid and see how many are metals. You also put pencil lead through three tests for a metal.
 

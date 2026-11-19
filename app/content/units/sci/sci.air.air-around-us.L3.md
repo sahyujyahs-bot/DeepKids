@@ -1,7 +1,7 @@
 # Air around us: it fills every gap, has weight, and keeps us alive
 `sci.air.air-around-us.L3`
 
-**Summary.** A glass filled to the top with chana still has room for a lot of water. That room was full of air. Air is matter, like water and stone: it takes up space and it has weight. One litre of air weighs about 1.2 grams, so the air in a small bedroom weighs about as much as a child. Air is a mixture of gases, mostly nitrogen and oxygen. We breathe air in for its oxygen, which our cells need to get energy from food, and we breathe out carbon dioxide. Plants take carbon dioxide from the air and, in light, give out oxygen. Plants also need oxygen for their own roots, stems and leaves, day and night.
+**Summary.** A glass full of chana can still take in water. So what was in the gaps? In this unit you will find out how much of a glass of chana is air, squeeze air and water to compare them, and measure how much bigger a breath makes your chest.
 
 **Intro.** *Push a balloon inside an empty plastic bottle and stretch its mouth over the bottle's neck. Now try to blow the balloon up. It hardly grows, however hard you blow. The bottle looked empty. So what is stopping the balloon?* The bottle was not empty. It was full of air. The air had nowhere to go, so it pushed back on the balloon. In this unit you find out that air is real stuff that takes up space and has weight. You measure how much air hides in a glass of grain. You squash air in a syringe. You also find out why you breathe, and how plants and air need each other.
 

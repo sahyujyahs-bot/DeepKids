@@ -1,7 +1,7 @@
 # Living light: how fireflies and other living things make their own light
 `sci.light.living-light.L3`
 
-**Summary.** A firefly makes their own light with chemistry inside their body, to find a partner in the dark. Light made by a living thing is called bioluminescence. Some mushrooms in Meghalaya and the Western Ghats glow too. In the deep sea, where sunlight never reaches, most animals can make light. This light is cold. A living thing that glows gives out almost no heat with the light.
+**Summary.** A firefly makes light, and it does not get hot. How does it do that? In this unit you will snap a glow stick, test whether warmth changes its glow, tell made light from the stored light in glow-in-the-dark stars, and invent a deep-sea creature.
 
 **Intro.** *Switch off every light in the room tonight. Wait a little. Now snap a glow stick. It shines, but it has no battery, no wire and no flame. Where is its light coming from?* On summer nights before the monsoon, the trees near Bhandardara in Maharashtra begin to sparkle. Thousands of tiny lights blink on and off. They are not lamps. They are fireflies, small beetles that make light inside their own bodies. Far away, deep in the sea, an anglerfish hangs a glowing lure in front of their mouth, in total darkness. How can a living thing make light? And what does the light do for them?
 

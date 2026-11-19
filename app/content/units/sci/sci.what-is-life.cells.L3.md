@@ -1,7 +1,7 @@
 # Cells: the tiny living parts every living thing is made of
 `sci.what-is-life.cells.L3`
 
-**Summary.** Every living thing is made of cells: you, a mango tree, an ant and a mushroom. A cell is the smallest part of a living thing that is alive on their own, and most cells are too small to see with your eyes alone. You will look for them in onion skin, using a phone camera with a drop of water on its lens, and test whether boiled curd can still set milk, or only living curd can. Some living things are just one cell, and that one cell senses, chooses and remembers. All life we know is made of cells, but nobody yet knows how the very first cell began.
+**Summary.** An onion is made of tiny rooms too small to see, and so are you. What are they? In this unit you will look at onion skin through a water-drop magnifier you make, test whether boiled curd can still set milk, and play a game of cells or no cells.
 
 **Intro.** *Look at the back of your hand. It looks like one smooth thing. In fact it is made of billions of tiny living parts, each one alive on their own. So why can't you see them?* About 360 years ago, an English scientist called Robert Hooke cut a thin slice of cork, the bark used for bottle stoppers. He looked at it through a microscope, a tool that makes tiny things look big. He saw rows of little empty boxes, like a honeycomb. He called them cells, from a Latin word for a small room. Today you will look for these little rooms in an onion from your kitchen. Then you will find out whether the cells in curd are alive.
 

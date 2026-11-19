@@ -1,7 +1,7 @@
 # Energy by the numbers: how much there is, and how fast it comes
 `sci.energy.energy-around-us.L4`
 
-**Summary.** One chapati holds about as much energy as seven phone batteries, yet eating one does not charge you up in a minute. Your body lets the energy out slowly, at about the pace of a bright bulb. Your child measures their own energy on a staircase, counts the blinks of the home electricity meter, and learns two ideas that are easy to mix up. Joules say how much energy there is. Watts say how fast it moves. They find out why a small fan left on all night can use more energy than a big kettle, and how the energy in sunlight, in food and in electricity can all be counted in the same unit.
+**Summary.** A small bulb left on all night can use more energy than a big heater used for a few minutes. How? In this unit you will work out your own joules and watts on a staircase, hunt for rating plates at home, and time the blinks on your electricity meter.
 
 **Intro.** *Switch on a ceiling fan and a kettle. The kettle is much more powerful, yet the fan can cost you more in a night. How can a gentle fan use more than a fierce kettle?* To answer that, you need to ask two different questions. How much energy is there? And how fast does it move? In this unit you climb a staircase against a stopwatch, and you turn your own climb into numbers. You watch the little light on the electricity meter blink as appliances switch on. Then you find out how a chapati, a battery and a sunny window can all be counted in one unit.
 

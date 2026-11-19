@@ -1,7 +1,7 @@
 # Apes, our closest cousins: how they live, play and care for each other
 `sci.evolution.closest-cousins.L2`
 
-**Summary.** When a young chimpanzee is tickled, they laugh. Their laugh sounds like soft panting, but it comes in play, just like yours. Chimpanzees, bonobos, gorillas and orangutans are apes, and so are humans. Chimpanzees and bonobos are our closest cousins. You test whether the air goes out or comes in when you laugh. Then you find out how each kind of ape lives, plays, grooms and looks after their babies.
+**Summary.** A young chimpanzee laughs when tickled, and so do you. But does the air go out or in when you laugh? In this unit you will test your own laugh, take turns grooming like chimpanzees, and play a guessing game to find out how each kind of ape lives.
 
 **Intro.** *Hold your hand in front of your mouth and laugh out loud. Can you feel air on your hand? Is the air going out of your mouth, or coming in?* A young chimpanzee laughs when tickled, too. But a chimpanzee's laugh sounds different from yours. Today you make a tissue flag and test whether the air goes out or comes in when you laugh. Then you try laughing like a chimpanzee. After that, you meet the four great apes: chimpanzees, bonobos, gorillas and orangutans. You find out where they live, who they live with, and how they look after each other. Before you start, make a guess. When you laugh, does the air go out, come in, or both?
 

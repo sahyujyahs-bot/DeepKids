@@ -1,7 +1,7 @@
 # Compost: how kitchen waste becomes soil without a bad smell
 `sci.waste.compost-and-disposal.L3`
 
-**Summary.** A bucket of vegetable peels can turn into dark, crumbly soil in about two months. Or it can turn into a sour, slimy mess in a few days. What decides it is air. Tiny living things called microbes, and worms too, feed on the peels. Microbes that use air make compost, which smells like damp earth. Microbes that live without air make sour and rotten smells, and a gas called methane. In a dump, garbage is pressed down with almost no air, so it rots very slowly for years. Mixing peels with dry leaves or paper, and stirring, lets air in and turns kitchen waste into food for plants.
+**Summary.** Kitchen peels can turn into soil that smells of earth, not of rubbish. How? In this unit you will keep two jars of peels, one with dry paper mixed in, and smell the difference, sort waste into greens and browns, and find out where our garbage goes.
 
 **Intro.** *Smell the soil in a potted plant. Then smell the kitchen bin that holds yesterday's peels. Soil is made partly from old dead leaves. The bin is full of old dead plants too. So why does one smell like the first rain, and the other smell sour?* In this unit you find out. You set up two jars of peels and watch what happens to each over ten days. You meet the bacteria, fungi and worms who do the work, and find out why some of them need air. You also find out what happens to garbage after the truck takes it away, and how a family in a flat can turn their peels into soil.
 

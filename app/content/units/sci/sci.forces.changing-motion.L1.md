@@ -1,7 +1,7 @@
 # Start, stop, faster, slower: how a push changes moving things
 `sci.forces.changing-motion.L1`
 
-**Summary.** Tap a rolling ball from behind, and it goes faster. Tap it from the front, and it slows down or stops. A push or a pull is called a force. Your child taps, flicks and watches, and finds that the side of the push decides what happens.
+**Summary.** Tap a rolling ball from behind and it goes faster. Tap it from the front and it slows or stops. In this unit you will watch a ceiling fan start and stop, test taps on a ball, and flick a bottle cap to see if a bigger flick goes further.
 
 **Intro.** *Roll a ball slowly across the floor. Can you make it stop without grabbing it?* A rolling ball keeps going until something pushes against it. A push from behind makes it faster. A push from the front slows it or stops it. You also find out why a rolling ball stops on its own.
 
@@ -174,7 +174,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   *Parent does:* Read the cards one by one. Your child picks an arrow and says why.  
   *Parent says:* A ball is rolling to the door. You want it to stop. Which arrow? Why?  
   *Child mode:* Listen to the card. Pick an arrow. Say why.
-  - Ask: Why the red arrow? (good: To stop it you push against it.; Like my tap from the front in the Tap Test.)
+  - Ask: Why that arrow? (good: To stop it you push against it.; Like my tap from the front in the Tap Test.)
   - Note: Link each card to the Tap Test. If your child picks the wrong arrow, act it out with a ball.
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
@@ -192,7 +192,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **s2 (6 min)**  
   *Parent does:* Hold up the cards in any order, about every 10 seconds. After each STATUE, ask what their feet did. After 4 STATUEs, swap callers.  
   *Parent says:* Statue! Freeze! What did your feet do to stop you?  
-  *Child mode:* Freeze! What did your feet do to stop you?
+  *Child mode:* Do what the card says. When you freeze, notice what your feet did.
   - Ask: What did your feet do to stop? (good: They pushed forward on the floor.; I pressed my feet down on the floor.)
   - Note: To stop, our feet push forward against the floor, and the floor pushes back on us. That push against our movement is what stops us.
 - **s3 (1 min)**  
@@ -206,7 +206,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **question:** What happens when you tap a rolling ball from behind? What happens when you tap it from the front?
 - **predict:** Guess first. If you tap a rolling ball from behind, will it go faster, slower, or stop? If you tap it from the front, what will it do? Why do you think so?
 - **fair test:** We use the same ball, the same rolled newspaper and the same gentle tap every time. The grown-up rolls the ball just as slowly each time. Only the side we tap from changes. We try each side 3 times, because one try might be luck.
-- **record:** Draw the ball and the newspaper for each tap. Draw a cheetah next to the tap that made the ball faster and a snail next to the tap that made it slower.
+- **record:** Fill in the last column of the table with what the ball did for each tap. If you like, add a small drawing, or tell a grown-up what you saw.
 - **results table:** Where I tapped | My guess | What the ball did
 - **s1 (3 min)**  
   *Parent does:* 1. Clear a stretch of floor. 2. Roll the newspaper tight. 3. Show your child a gentle tap on your own palm.  
@@ -214,9 +214,9 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   *Child mode:* This is your tapper. Tap gently, like this. Watch what one tap does.
   - Note: A gentle tap with a rolled newspaper is easier to keep the same than a hand. A tiled floor works best. Move mats and dari out of the way.
 - **s2 (3 min)**  
-  *Parent does:* 1. Hold up the ball. 2. Ask for both guesses and the reasons. 3. Your child draws the guesses, and a grown-up writes them in the table.  
+  *Parent does:* 1. Hold up the ball. 2. Ask for both guesses and the reasons. 3. Your child says the guesses, and a grown-up writes them in the table.  
   *Parent says:* If you tap a rolling ball from behind, what will it do? If you tap it from the front, what will it do? Why do you think so?  
-  *Child mode:* Guess. If you tap the rolling ball from behind, will it go faster, go slower or stop? What if you tap it from the front? Why?
+  *Child mode:* Guess what the rolling ball will do when you tap it from behind. Then guess what it will do when you tap it from the front.
   - Ask: Why do you think so? (good: From behind it will go faster, because I am pushing it along.; From the front it will go faster too, because a hit makes things go.; From the front it will stop, because I am in its way.)
   - Note: Any guess is fine. Do not say what will happen. Many children guess that any tap makes the ball faster. The test will show them.
 - **s3 (2 min)**  
@@ -245,7 +245,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **s7 (2 min)**  
   *Parent does:* Ask what was the same and what was different. Then ask the check question.  
   *Parent says:* Was the tap the same each time? What was different? What did a tap from behind do? And from the front?  
-  *Child mode:* Was your tap the same each time? What changed? What did each tap do?
+  *Child mode:* Think back. What stayed the same each time? What changed?
   - Ask: What was different? (good: Only where I tapped from.; From behind it went faster. From the front it went slower or stopped.)
   - Note: Wait for your child's own claim first. Then say it plainly: a push the same way makes it faster, a push against makes it slower.
   - Check: A ball is rolling. You tap it gently from the front. What happens? → **It slows down or stops**
@@ -253,12 +253,12 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **question:** Does a harder flick make a bottle cap go faster and further?
 - **predict:** Guess first. Will a hard flick send the cap further than a gentle flick? How many tiles do you think each one will go? Why do you think so?
 - **fair test:** We use the same cap, the same finger and the same starting line every time. Only how hard we flick changes. We flick 3 times for each, because one flick might be luck.
-- **record:** Draw a row of tiles. Put a small dot where the cap stopped after the gentle flicks and a big dot where it stopped after the hard flicks.
+- **record:** Write the number of tiles for each flick in the table. You can also draw a row of tiles with a dot where the cap stopped, or tell a grown-up what you found.
 - **results table:** Flick | Try 1: tiles | Try 2: tiles | Try 3: tiles
 - **s1 (3 min)**  
   *Parent does:* 1. Put tape on the floor as a start line. 2. Show a gentle flick and a hard flick. 3. Ask for a guess and a reason.  
   *Parent says:* We will flick the cap gently, then hard. Which one will go further? How many tiles? Why do you think so?  
-  *Child mode:* Which will send the cap further, a gentle flick or a hard flick? Why?
+  *Child mode:* Guess which flick will send the cap further.
   - Ask: Why do you think so? (good: The hard flick, because it is a bigger push.; They will go the same.)
 - **s2 (5 min)**  
   *Parent does:* 1. Your child flicks the cap gently 3 times from the line. 2. Count the tiles each time, together. 3. A grown-up writes the numbers.  
@@ -273,15 +273,15 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   - Note: Keep the room clear so the cap does not slide under furniture. A hard flick is still a finger flick, not a throw. Flicks are never exactly the same, so one hard flick may go less far than one gentle flick. That is why we flick 3 times.
 - **s4 (2 min)**  
   *Parent does:* Ask why the cap stopped at all, then the check question.  
-  *Parent says:* Nobody stopped the cap. Why did it stop? What was pushing against it?  
-  *Child mode:* Nobody stopped the cap. Why did it stop?
+  *Parent says:* Nobody touched the cap after the flick. What was pushing against it?  
+  *Child mode:* The cap stopped on its own. Think about the floor it slid on.
   - Ask: Why did the cap stop? (good: The floor rubbed it.; The floor pushed against it until it stopped.)
   - Check: Which flick sent the cap further? → **The hard flick**
 
 ## Activities
 ### a1 · The Ceiling Fan Watch: start, faster, slower, stop (8 min)
 - **safety:** A grown-up works the switch. Stay well away from the fan blades and never throw things at a fan.
-- **record:** Draw the fan four times: still, slow, fast, and slowing down. Draw lines round the fast one to show it is fast.
+- **record:** Write down how many seconds the fan kept turning after it was switched off. Tell a grown-up what the fan did first, next and last. If you like, draw it.
 - **s1 (2 min)**  
   *Parent does:* 1. Your child sits on a mat to one side of the fan, not right under it. 2. Switch the fan on at the lowest speed.  
   *Parent says:* Watch the fan. It is still. Now I switch it on. Does it go fast straight away?  
@@ -291,22 +291,22 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **s2 (2 min)**  
   *Parent does:* Turn the speed knob up, then down.  
   *Parent says:* Now I turn the knob up. What happens? Now down. What happens?  
-  *Child mode:* The knob is turned up. What does the fan do? Now the knob is turned down. What does the fan do?
+  *Child mode:* Watch the fan while the grown-up turns the knob up, and then down.
   - Ask: What happened? (good: It went faster.; Then it went slower.)
 - **s3 (3 min)**  
-  *Parent does:* 1. Switch the fan off. 2. Count together, one, two, three, until the blades stop.  
+  *Parent does:* 1. Switch the fan off. 2. Count together, one, two, three, until the blades stop. 3. Write down the number.  
   *Parent says:* Now I switch it off. Is it still turning? Let's count until it stops.  
   *Child mode:* The fan is off. Is it still turning? Count until it stops.
   - Ask: Why did it keep turning? (good: It was already moving.; Nothing stopped it straight away.)
   - Note: Most fans keep turning for a good while, often half a minute or more. The air and the rubbing inside the fan slowly stop it.
 - **s4 (1 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* The fan was off, but it kept turning. What slowed it down in the end?  
-  *Child mode:* What slowed the fan down in the end?
+  *Parent says:* The fan did stop in the end. Let's work out why.  
+  *Child mode:* Think about what finally stopped the fan.
   - Check: A fan keeps turning after you switch it off, and then it stops. Why does it stop? → **The air and the rubbing inside slowly push against it**
 ### a2 · Window Watch: who starts and who stops? (10 min)
 - **safety:** At a balcony, stay behind the grill or railing and never lean over it.
-- **record:** Keep your paper with ticks in the four boxes. Draw one thing you saw stop.
+- **record:** Keep your paper with ticks in the four boxes. Tell a grown-up one thing you saw stop and what pushed against it.
 - **s1 (5 min)**  
   *Parent does:* Watch out of the window together. Each time your child sees something start, stop, speed up or slow down, they put a tick in that box.  
   *Parent says:* Look! That auto is slowing down. Tick SLOWER. Can you spot something that starts?  
@@ -315,16 +315,16 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **s2 (4 min)**  
   *Parent does:* Pick a bus or an auto that your child saw slow down. Ask what pushed against it. Then pick one more thing that slowed down.  
   *Parent says:* The bus stopped. What pushed against it? Now pick one more thing that slowed down. What pushed against that?  
-  *Child mode:* What pushed against the bus to stop it?
+  *Child mode:* Pick something you saw slow down. Think about what pushed against it.
   - Ask: What pushed against a bus or an auto to slow it down? (good: The brakes pushed against the wheels.; The brakes pressed on the wheels, against the way it was going.)
   - Note: A bus slows when its brakes press on the wheels. A bird slows when she lands. She spreads her wings and tail and tips them against the air, so the air pushes against her.
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Here is a question about the auto we saw.  
+  *Parent says:* Here is one last question, about an auto at a red light.  
   *Child mode:* Here is a question.
   - Check: An auto slows down at a red light. What made it slow down? → **Its brakes pushed against the turning wheels**
 ### a3 · Soft Stop, Hard Stop: catch the rolling ball (10 min)
-- **record:** Draw the three stoppers. Next to each, draw what the ball did: a stop hand, a snail, or a curved arrow going back.
+- **record:** Lay the three stoppers in a row. Next to each, put a paper slip that says STOPPED, SLOWED or BOUNCED BACK, or say it to a grown-up.
 - **s1 (2 min)**  
   *Parent does:* Set up the three stoppers a few steps from your child. Ask for a guess.  
   *Parent says:* Which of these will stop the ball? Which one will only slow it down? Why do you think so?  
@@ -333,33 +333,33 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **s2 (6 min)**  
   *Parent does:* Your child rolls the ball into each stopper, at the same gentle speed, twice each.  
   *Parent says:* Roll it into the paper tent. What happened? Now the pillow. Now the book.  
-  *Child mode:* Roll the ball into each one. What happens?
+  *Child mode:* Roll the ball into each one. Watch closely.
   - Ask: What did each one do? (good: The paper fell over and the ball kept going, slower.; The pillow stopped it softly.; The book stopped it, and it bounced back a bit.)
   - Note: The paper tent pushes back only a little, so the ball only slows. The pillow squashes and stops it gently. The hard book pushes back quickly, so the ball may bounce.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* The paper tent fell over. Why did the ball keep going?  
-  *Child mode:* Why did the ball keep going past the paper?
+  *Parent says:* The paper tent fell over and the ball kept going. Let's think about why.  
+  *Child mode:* Think about the paper tent and the ball.
   - Check: The ball knocked over the paper tent and kept rolling, but slower. Why? → **The paper pushed back only a little**
 
 ## Projects
 ### p1 · My Start and Stop Book (18 min, 3 days)
-- **record:** The finished book, with a drawing and a push arrow on every page.
-- **schedule:** day 1: Make the book. Draw two things you saw START and STOP today, and what pushed them. (6 min); day 2: Draw two things you saw go FASTER and SLOWER, and what pushed them. (6 min); day 3: Draw yourself starting and stopping. Read the book to someone in the family. (6 min)
+- **record:** The finished book, with something to look at and a push arrow on every page.
+- **schedule:** day 1: Make the book. Draw or tell two things you saw START and STOP today, and what pushed them. (6 min); day 2: Cut out and stick in two pictures of things going FASTER and SLOWER, and say what pushed them. (6 min); day 3: Act out starting and stopping. Read the book to someone in the family. (6 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Make the book. 2. A grown-up writes START and STOP on the first two pages. 3. Your child draws one thing for each.  
-  *Parent says:* What did you see start today? What did you see stop? Draw them. Draw an arrow for the push.  
-  *Child mode:* Draw something that started and something that stopped. Add an arrow for the push.
+  *Parent does:* 1. Make the book. 2. A grown-up writes START and STOP on the first two pages. 3. Your child draws one thing for each, or tells a grown-up, who writes a short line.  
+  *Parent says:* What did you see start today? What did you see stop? Draw each one, or tell me and I will write it. Then add an arrow for the push.  
+  *Child mode:* Show something that started and something that stopped. Draw it, or tell your grown-up. Add an arrow for the push.
   - Note: Good ideas: a mixie starting, a ball stopping, a door being pushed open, a bus stopping.
 - **s2 (6 min)**  
-  *Parent does:* A grown-up writes FASTER and SLOWER on the next pages. Your child draws one thing for each.  
-  *Parent says:* What did you see go faster today? What went slower? What pushed them?  
-  *Child mode:* Draw something going faster and something going slower.
+  *Parent does:* A grown-up writes FASTER and SLOWER on the next pages. Your child finds one picture for each in an old newspaper or magazine, cuts it out and sticks it on. With no picture, they tell a grown-up, who writes a line.  
+  *Parent says:* Find a picture of something going faster and one going slower. What pushed each one?  
+  *Child mode:* Cut out a picture of something going faster and one going slower. Stick them in. Add an arrow for the push.
   - Wait: Do this on day 2.
 - **s3 (6 min)**  
-  *Parent does:* Your child draws themself starting and stopping, then reads the book to someone.  
-  *Parent says:* Draw yourself starting to walk and stopping. Now read your book to someone in the family.  
-  *Child mode:* Draw yourself starting and stopping. Read your book to someone.
+  *Parent does:* Your child acts out starting and stopping while a grown-up takes a photo or writes a line on the last page. Then your child reads the book to someone.  
+  *Parent says:* Show me how you start walking and how you stop. Now read your book to someone in the family.  
+  *Child mode:* Act out starting and stopping. Then read your book to someone.
   - Check: Which of these needs a push or a pull? → **Starting, stopping, going faster and going slower**
   - Wait: Do this on day 3.
 
@@ -382,8 +382,8 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   - Note: Let your child try and fail. The towel slows the ball by rubbing. Moving the towel nearer or further changes where it stops.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Why did the ball stop sooner on the towel?  
-  *Child mode:* Why did the towel help?
+  *Parent says:* Let's work out why the towel helped.  
+  *Child mode:* Think about the towel and the ball.
   - Check: The ball stopped sooner on a towel than on the bare floor. Why? → **The towel rubbed against the ball more, pushing against its movement**
 
 ## Worksheets

@@ -1,7 +1,7 @@
 # Fire: what a flame needs, how to stay safe, and how people learned to use it
 `sci.changes.fire.L3`
 
-**Summary.** A match held to a lump of wax only melts it, yet the same wax burns for hours in a candle. That is because a flame burns gas. The flame's heat melts the wax, the wick carries it up, and the heat turns it into a gas that joins with oxygen from the air. Every fire needs three things: fuel, oxygen and heat. Take away any one, and the fire goes out, which is how every fire safety rule works. People have used fire for perhaps a million years, first by keeping flames from wildfires alive and later by making fire with friction and sparks.
+**Summary.** A match only melts a lump of wax, yet a candle burns for hours. What is the flame really burning? In this unit you will test a candle flame, walk round your home to spot fire dangers, and learn what to do if clothes catch fire or skin gets burned.
 
 **Intro.** *Watch with a grown-up. A candle is blown out, and a thin line of white smoke rises. A lit match is held in the smoke, a few centimetres above the wick. The flame runs down the smoke and lights the candle again, without touching it. How did the flame travel down the smoke?* Fire seems to eat wood, wax and oil. But a flame is really burning gas. In this unit you test what a candle really burns. You find out the three things every fire needs, and how taking away one of them puts a fire out. You learn the fire safety rules for a home with a gas stove, lamps and crackers. And you find out how people first tamed fire, and how a scientist made a lamp that could not set fire to the gas in coal mines.
 

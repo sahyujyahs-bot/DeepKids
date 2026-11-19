@@ -1,7 +1,7 @@
 # Air pushes: why a card holds up a glass of water, and nothing really sucks
 `sci.air.air-around-us.L4`
 
-**Summary.** Fill a glass to the brim, slide a card over it, and turn it upside down. The card stays put and the water stays in. Nothing is gluing the card on. The air is pushing it, with about one kilogram of push on every square centimetre. You will test a bottle that stops pouring when you screw the cap on, a straw that stops working when it has a hole, and a bottle that squashes itself. You find out why we never notice the push of air, why sucking is really air pushing, why a straw or a pump can lift water only about ten metres, and why your ears pop on a hill.
+**Summary.** Why does a card stay on an upside-down glass of water, with nothing gluing it? The air is pushing it. In this unit you will do that trick, test a bottle with a hole and a straw with a hole, and watch a bottle squash itself.
 
 **Intro.** *Fill a glass to the brim and slide a card over it. Hold the card and turn the glass upside down. Now take your hand away. The card does not fall. The water does not fall. What is holding it up?* There is no glue, no magnet and no hand. Something you cannot see is pushing the card up from below, and it is strong enough to hold a glass of water. In this unit you find out what it is. You test a bottle with a hole, a straw with a hole and a bottle that crushes itself. You also find out how people first proved that air has a push, and why it lifts water only ten metres and no more.
 

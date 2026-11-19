@@ -1,7 +1,7 @@
 # Where sounds come from, and what makes them loud or soft
 `sci.sound.sources-of-sound.L1`
 
-**Summary.** A closed bottle of rice sits on the table in silence. Shake it, and it rattles. Every sound comes from something moving: hands clapping, rain hitting a window, a crow calling, steam rushing out of a pressure cooker. The thing that makes a sound is called its sound source. Your child hunts for sound sources at home and tests which home-made shaker is loudest. They find that a harder shake or a harder hit makes a louder sound.
+**Summary.** Does a still thing make any sound? In this unit you will listen for one quiet minute, shake different shakers to find which is loudest, play a game guessing what made a sound with your eyes closed, and make music with your own body.
 
 **Intro.** *Close your eyes. Sit very still and listen for one whole minute. How many sounds can you hear? What is making each one?* Even a quiet room is full of sounds: the fan, a bird outside, a scooter in the street, your own breathing. Every one of those sounds is made by something that is moving. In this unit you hunt for the things that make sounds. You also find out what makes a sound loud, and what makes it soft.
 

@@ -1,7 +1,7 @@
 # Heart and lungs on the clock: who sets the pace, and who holds it back?
 `sci.body.organs-inside.L4`
 
-**Summary.** Your heart beats about 85 times a minute while you sit still. Yet a heart left on its own beats nearer 100. So something is holding yours back. You count your pulse before, during and after exercise, and measure your chest as you breathe. You find out how a nerve acts like a brake on the heart, why breathing is the one automatic job you can also take over, and how scientists first caught a nerve slowing an organ.
+**Summary.** A heart left on its own beats faster than yours does while you sit still. So what holds it back? In this unit you will count your pulse before, during and after exercise, measure how far your chest moves as you breathe, and play a card game about which body jobs you can take over.
 
 **Intro.** *Put two fingers on your wrist and count the beats for 15 seconds. Now hold your breath for five seconds. Which could you stop if you really wanted to: your heartbeat or your breathing?* You can hold your breath, and you can breathe out slowly or sing a long note. You cannot decide to stop your heart. Yet both organs work all day and all night without you thinking about them. Why can you take over one and not the other? And what is your heart doing while you sit still and do nothing?
 

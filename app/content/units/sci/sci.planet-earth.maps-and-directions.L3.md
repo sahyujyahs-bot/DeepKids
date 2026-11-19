@@ -1,7 +1,7 @@
 # Maps and directions: how to draw your home so someone else can find their way
 `sci.planet-earth.maps-and-directions.L3`
 
-**Summary.** A map is a drawing of a place as if you were looking down on it from above. It does not show colours, smells or sounds, yet it can lead a stranger straight to a hidden coin. It works because it keeps how far apart things are and which way they lie. North, south, east and west are directions fixed to the Earth, so they mean the same for everyone, whichever way they face. You can find east from the morning Sun, and draw a map of your room by counting floor tiles.
+**Summary.** How can a drawing with no colours or sounds lead a stranger to a hidden coin? In this unit you will find east from the morning Sun, draw a map of your home with a key, and test a memory map against a map made by counting tiles.
 
 **Intro.** *Put a coin on the floor of a room. Can you draw a map so good that someone who did not see where you put it can walk in and put a finger on the coin?* In this unit you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.
 

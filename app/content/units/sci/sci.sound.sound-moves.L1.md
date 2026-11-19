@@ -1,7 +1,7 @@
 # Sound travels: how a sound gets from where it is made to your ears
 `sci.sound.sound-moves.L1`
 
-**Summary.** A grown-up rubs two fingers together. Close by, you hear a soft rustle. Step back a few steps, and the rustle is gone, though the fingers are still rubbing. A sound travels out from its source, through the air, to your ears. It spreads out to every side as it goes, so it gets softer the further it travels. Your child tests how far three sounds can travel in your home. They find that a sound reaches them even from behind and round a corner. Then they send their voice one way with a paper cone.
+**Summary.** How does a sound get from a ringing tumbler to your ears, and why does thunder come after the lightning? In this unit you will walk away from a sound to see how far you can hear it, play a whisper walk, and make a paper cone to send your voice one way.
 
 **Intro.** *Shut your eyes. A grown-up will tap a spoon on a steel tumbler somewhere in the room. Point to where the sound is. How did the sound find you?* You did not touch the tumbler, and you did not see it. Still, the sound reached you. A sound starts at its source, the thing that makes it. Then it travels through the air, all the way to your ears. In this unit you find out how far a sound can travel, which way it goes, and why far-away sounds are soft.
 

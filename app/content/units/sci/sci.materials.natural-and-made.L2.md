@@ -1,7 +1,7 @@
 # Natural and made materials: how sand becomes glass
 `sci.materials.natural-and-made.L2`
 
-**Summary.** A glass bangle is clear, but the sand it was made from is not. Some materials, like wood, cotton, clay and sand, come from nature. Others, like glass, paper and plastic, are made by people from natural materials. In this unit you watch white sugar grains turn into a clear sheet, the way sand turns into glass. You also find out how paper comes from plants and plastic from oil, and you bury some materials in soil to see which ones break down.
+**Summary.** A glass bangle is clear, but the sand it is made from is not. In this unit you will sort things into natural and made materials, heat white sugar grains until they melt into a clear sheet like sand into glass, and bury materials in soil to see which break down.
 
 **Intro.** *Hold a glass tumbler up to the window. You can see right through it. Glass is made from sand. Now pour a little sand or salt into your hand. Can you see through the heap?* You cannot see through a heap of sand. Yet a glass window, made from sand, is clear. How can that be? People change natural materials to make new ones. They melt sand to make glass. They mash wood to make paper. They make plastic from oil that comes from deep under the ground. Before you read on, guess. What do people do to sand to make it clear? You are going to find out, with sugar instead of sand.
 

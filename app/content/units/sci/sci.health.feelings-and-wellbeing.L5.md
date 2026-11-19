@@ -1,7 +1,7 @@
 # A happy place: how our words and actions change how other people feel and act
 `sci.health.feelings-and-wellbeing.L5`
 
-**Summary.** Drop 15 chana into a bottle, one at a time, and you may miss twice. Do it again while someone counts down and says 'faster', and many people miss more often. The chana, the bottle and the hand are the same. Another person's words set off the body's stress response, and tight, hurried hands aim badly. Feelings and actions pass between people all the time. A smile is returned, a push is copied, and one wrapper on the ground leads to more. So the people who use a place make it happy or unhappy, by what they do there every day. Your child tests this, finds the barriers in their own home, and practises kind and safe ways to step in.
+**Summary.** Drop 15 chana into a bottle and you may miss twice. Do it while someone counts down and says 'faster', and many people miss more. Why? In this unit you will test how hurrying words change where your chana land, and practise kind and safe ways to step in.
 
 **Intro.** *When someone counts down and says 'faster', a hand can miss the bottle more often. Why would another person's words change what your hand can do?* Most people think a skill belongs to one person. She is careful, or he is clumsy. But the same child reads aloud well at home and stumbles when classmates laugh. The same lane stays clean for months and then fills with litter in a week. In this unit you find out how words, faces and actions pass from one person to the next. You run the Hurry Test on your own hands. You measure your doors as a wheelchair user would. You learn what to do when you see teasing or pushing. Then you can say what makes a school, a home or a street a happy place, and what your part in it is.
 

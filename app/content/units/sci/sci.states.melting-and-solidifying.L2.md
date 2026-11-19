@@ -1,7 +1,7 @@
 # Melting and solidifying: why chocolate melts in your hand but candle wax does not
 `sci.states.melting-and-solidifying.L2`
 
-**Summary.** Put an ice cube, a piece of chocolate, some butter, some coconut oil and a bit of candle wax side by side. Which one melts first? Your child races them on a plate, then in a bowl of warm water, then near a candle flame. Each solid melts at its own warmth: ice and coconut oil in a warm room, chocolate and butter in warm water, and wax only near a flame. In the fridge, the melted chocolate, butter and oil set hard again. Melting turns a solid into a liquid. Solidifying turns it back.
+**Summary.** Ice, chocolate, butter, coconut oil and candle wax: which melts first? In this unit you will race them in a warm room, then in warm water, then near a candle flame. You will also drop hot wax to watch it turn solid, and set melted chocolate in the fridge.
 
 **Intro.** *A square of chocolate melts on your tongue in a minute. A candle sits on the shelf all summer and never melts. Both are solids. Why does one melt so easily and the other not at all?* Ice, chocolate, butter and wax all melt in the end. But they do not melt at the same warmth. You are going to race them and find out which one melts first, and which one needs the most warmth. Then you will cool them down and see what happens.
 

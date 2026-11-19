@@ -1,7 +1,7 @@
 # Fast and slow changes: why some happen in a second and some take years
 `sci.chemistry.reaction-speed.L3`
 
-**Summary.** A sparkler burns out in less than a minute, but an iron gate takes months to rust. Both are chemical reactions: changes that make new substances. Some reactions are fast and some are slow. Heat, smaller pieces and a helper can make a reaction go faster. A helper that speeds up a reaction without being used up is called a catalyst. Hydrogen peroxide sits in its bottle for months, but next to raw potato it fizzes at once. The potato holds a catalyst called catalase. Your own blood and cells hold catalase too.
+**Summary.** A sparkler burns in seconds, but an iron gate takes years to rust. What makes some changes fast and others slow? In this unit you will put everyday changes in order from fastest to slowest, make foam with a potato, and test which eggshell fizzes faster in vinegar.
 
 **Intro.** *A bottle of hydrogen peroxide can sit on a shelf for months and hardly change. Drop in a little raw potato, and it starts to foam within seconds. The potato is still there at the end. So what did the potato do?* Every day you see changes that make new substances. A matchstick flares in one second. A dosa browns in two minutes. A banana goes spotty in a few days. A balcony grill rusts over many months. In this unit you time these changes, and find out what makes one fast and another slow. Then you test a helper hidden inside a potato.
 

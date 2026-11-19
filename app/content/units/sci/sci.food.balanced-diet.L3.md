@@ -1,7 +1,7 @@
 # A balanced diet: why your body needs many kinds of food
 `sci.food.balanced-diet.L3`
 
-**Summary.** A plate of rice can fill your stomach and still leave your body short of protein, iron and vitamins. A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. Inside you, food is broken down into tiny building blocks, and your blood carries them to about 30 trillion cells. Your cells burn some of them for energy and use the rest to grow and mend. Your gut also holds about as many microbes as your body has cells, and they eat the fibre you cannot digest. No single food is good or bad on its own, because what matters is the mix over many meals.
+**Summary.** A plate of rice can fill your stomach and still leave your body short of protein and vitamins. Why? In this unit you will build a balanced thali, test which fruit has the most vitamin C, and follow a chapati to your cells with paper clips.
 
 **Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. In this unit we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
 

@@ -1,7 +1,7 @@
 # Life began in water: from the first tiny cells to us
 `sci.evolution.story-of-life.L2`
 
-**Summary.** Dry baking soda and dry citric acid can sit side by side for months, and nothing happens. Add a few drops of water, and they fizz at once. Water lets chemicals move about, meet and change. That is why life began in water, more than 3.5 billion years ago. The first living beings were tiny cells in the sea, far too small to see. Very slowly, over a very long time, they became every kind of living being on Earth, including you.
+**Summary.** Dry baking soda and dry citric acid do nothing together, but add water and they fizz. What does that say about where life began? In this unit you will try the dry mix, lay out the whole story of life on a one-year calendar, and see how small the first cells were.
 
 **Intro.** *Put a pinch of baking soda and a pinch of citric acid side by side on a dry steel plate. Push them together with a dry spoon. Watch for one minute. Is anything happening?* Dry powders can sit together for months and stay just the same. Yet a few drops of water change them in a second. In this unit you find out what water does to them. Then you find out why every living being began in water, long ago, and how long the story of life really is. Before you read on, make a guess. Will the powders fizz if you pour cooking oil on them instead of water? You are going to test it.
 

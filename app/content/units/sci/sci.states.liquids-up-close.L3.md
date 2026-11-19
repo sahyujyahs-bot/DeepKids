@@ -1,7 +1,7 @@
 # Thick and runny liquids, and the skin on water
 `sci.states.liquids-up-close.L3`
 
-**Summary.** Tip a spoon of water and a spoon of honey at the same moment. The water falls at once, and the honey comes down slowly. How much a liquid resists flowing is called its viscosity. Honey has a high viscosity because its particles hold on to each other and slide past each other slowly. Warm honey runs much faster than cool honey, because warmth makes its particles move faster. Water is runny, but its particles attract each other too. At the top of the water, this pull is called surface tension, and it makes the water act like a stretchy skin. Water striders, insects with long, hairy, waterproof legs, live on that skin and hunt insects that fall onto ponds.
+**Summary.** Why does honey crawl down a slope while water runs, and how can a water strider stand on a pond? In this unit you will race kitchen liquids down a slope, count how many drops fit on a coin, and watch soap break the skin of water.
 
 **Intro.** *Hold a spoon of water and a spoon of honey over a plate, and tip both at the same moment. The water is gone in a blink. The honey stretches into a slow, shiny rope. Both are liquids. So why does one pour so much more slowly than the other?* In this unit you race kitchen liquids down a slope and time each one. You find out what makes a liquid thick or runny, and what warming does to it. Then you look closely at the top of water. There, water acts like a thin stretchy skin. It is strong enough to hold a dome of water on a coin, and to hold up a living insect.
 

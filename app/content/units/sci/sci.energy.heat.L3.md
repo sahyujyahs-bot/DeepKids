@@ -1,7 +1,7 @@
 # Heat and temperature: how a thermometer works, and why hot things cool down
 `sci.energy.heat.L3`
 
-**Summary.** Leave a tumbler of hot water and a tumbler of cold water on the same table, and the hot one cools while the cold one warms. Both stop at the temperature of the room. Temperature is how hot or cold something is, and a thermometer measures it in degrees Celsius. Heat always moves by itself from a warmer thing to a cooler one, until both are equally warm. A cold thing is just a thing with less heat. Cold itself does not flow anywhere.
+**Summary.** Can your hands tell exactly how hot something is? In this unit you will try your hands in bowls of water, measure five things at home with a thermometer, and watch where a hot tumbler and a cold tumbler both end up.
 
 **Intro.** *Put one hand in a bowl of warm water and the other in a bowl of ice water for one minute. Then put both hands into one bowl of tap water. One hand says the water is warm. The other hand says it is cold. Which hand is right?* Neither hand is right, because your skin compares the water with how warm it was a moment ago. To know how hot something really is, we need a thermometer. In this unit you learn to read one. You watch hot water and cold water change, minute by minute, and find out where they stop. You make a thermometer from a bottle and a straw. And you find out what really moves when a hot thing cools down.
 

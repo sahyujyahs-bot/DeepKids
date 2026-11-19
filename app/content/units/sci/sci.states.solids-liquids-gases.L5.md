@@ -1,7 +1,7 @@
 # Solids, liquids and gases: why a gas has mass and fills any container
 `sci.states.solids-liquids-gases.L5`
 
-**Summary.** A full cooking gas cylinder is 14.2 kilograms heavier than an empty one. Yet the gas that comes out of it cannot be seen. A gas is a real substance. It takes up space, it has mass, and it spreads out to fill whatever holds it. Air is a mixture of gases, mostly nitrogen and oxygen. Your child makes carbon dioxide and hangs a balloon of it beside a balloon of air. One gas turns out to be heavier than the other. They also compare solids, liquids and gases using particles, and count the dust that floats in the air at home.
+**Summary.** A balloon of air seems to weigh nothing, so does air have mass at all? In this unit you will weigh two balloons on a hanger to compare gases, watch smoke fill two jars, pour air upwards to catch it, and build a plate of air from 100 grains.
 
 **Intro.** *A full cooking gas cylinder is 14.2 kilograms heavier than an empty one. You cannot see the gas that burns at the stove. So how can something you cannot see have so much mass?* The gas is a real substance, made of particles, just as water and steel are. Its particles are far apart and fly about freely, so we see straight through it. In the cylinder the gas is squeezed until its particles touch, and it becomes a liquid. Air is a gas too, and air has mass. A bedroom holds about 40 kilograms of it. In this unit you catch a gas, pour it, make a new one, and hang two gases on a balance. You also find out why air seems to weigh nothing at all.
 

@@ -1,7 +1,7 @@
 # Pulleys, gears and screws: how a machine trades a smaller pull for a longer distance
 `sci.forces.simple-machines.L4`
 
-**Summary.** A child can lift a heavy bucket with a gentle pull, if the rope runs round the right wheels. Your child hangs a bottle from reels and a rubber band, and finds that two ropes halve the pull but double how far the hand must move. They then count the turns of a bicycle's gears, wind a paper ramp into a screw, and find where a machine's missing effort goes. They learn that pulleys, gears, screws and wedges all make the same trade: a smaller force over a longer distance. They also learn that no machine has ever given out more work than was put in, and that the mathematician Emmy Noether showed why: the laws of nature do not change from one day to the next.
+**Summary.** A pulley can make a heavy lift feel easier, but what does it cost you? In this unit you will count the ropes on a pulley and measure the pull and the distance, wind a paper ramp round a pencil to make a screw, and find the machines inside scissors and a peeler.
 
 **Intro.** *A rope is wound several times round two broom handles. A strong grown-up holds the handles apart. A child pulls the end of the rope, and the handles slide together, however hard the grown-up pushes. How can a child beat a grown-up?* The child did not become stronger. The way the rope is wound round the handles does the work. Each time it is wound round, one more length of rope pulls the handles together, so the child's pull is multiplied. In this unit you hang a bottle from two reels and count the ropes. You measure how much easier the pull gets, and how much further your hand must move. Then you follow the same idea into gears, screws and the tiny machines inside every living cell.
 

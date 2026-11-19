@@ -1,7 +1,7 @@
 # Signs of life: why still plants and seeds are alive
 `sci.what-is-life.signs-of-life.L2`
 
-**Summary.** A bowl of moong sprouts lies still on the kitchen shelf, but the sprouts are breathing. Chuna water is clear water that turns milky when a gas called carbon dioxide reaches it. Shut the sprouts in a steel dabba with a glass of chuna water for three hours, and they breathe out enough carbon dioxide to turn the water milky. Every kind of living being does seven things: eat, breathe, grow, move, sense, get rid of waste and have young. Plants do all seven, only slowly or out of sight. In this unit you catch sprouts breathing and sort tricky cases like a phone, a cloud, curd and a potato.
+**Summary.** A bowl of moong sprouts sits still on the shelf, but are they alive? In this unit you will shut sprouts in a dabba with chuna water to see whether they breathe, then sort tricky cases like curd, a phone and a cloud into alive or not.
 
 **Intro.** *Put a bowl of moong sprouts next to a toy car. Push the car, and the car zooms across the floor. The sprouts just lie there. Which one is breathing?* The car moves, but a car never breathes. The sprouts do not seem to do anything at all. Yet sprouts are alive, and every living being breathes. You cannot see breath, so we need a way to catch it. Chuna water is clear water that turns milky when breathed-out air reaches it. In this unit we use it to find out if still sprouts really breathe.
 

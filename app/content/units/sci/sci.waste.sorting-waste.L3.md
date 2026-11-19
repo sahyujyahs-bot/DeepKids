@@ -1,7 +1,7 @@
 # Sorting waste: why we separate it the moment we throw it
 `sci.waste.sorting-waste.L3`
 
-**Summary.** A dry newspaper can be sold, pulped and made into new paper. Drop it in a bin with wet sambar and peels, and within minutes it is soaked and stained, and it tears in your hand. No washing can make it good paper again. That is why we sort waste the moment we throw it: wet waste in one bin, dry waste in another, and dangerous things like batteries, tube lights and broken glass in a box of their own. You will soak waste in two jars, race to sort waste before and after it is mixed, and set up a sorting station at home.
+**Summary.** What happens to dry paper when wet kitchen waste is mixed in with it? In this unit you will test it with two jars, set up a sorting station at home, race to sort waste as you throw it or later, and wrap up dangerous waste safely.
 
 **Intro.** *Take one sheet of newspaper and tear it in half. Dip one half in a bowl of water for a minute. Now pull each half gently from both ends. Which one tears first?* Every home in India throws out two very different kinds of waste. Wet waste is food and other things that rot, like peels, leftover rice and used tea leaves. Dry waste is things that do not rot quickly, like paper, plastic, metal and glass. Dry waste that is clean can be sold and made into new things. But when the two kinds go into one bag, the wet soaks into the dry. Can we ever separate them again afterwards? The Two-Jar Test will show you.
 

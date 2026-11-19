@@ -1,7 +1,7 @@
 # Carbon: how one kind of atom builds sugar, fuel, plastic and living things
 `sci.chemistry.carbon-chemistry.L4`
 
-**Summary.** White sugar turns black when it is heated on a hot tawa. So do atta, cotton thread and paper, but salt stays white. The black solid is mostly carbon. Carbon is an element, and each carbon atom makes four bonds. Because of this, carbon atoms join into long chains, branches and rings. These chains and rings are the frame of sugar, cooking gas, petrol, plastic and every living body. Your child heats eight kitchen things to find which ones hold carbon chains. They also test three materials built from the same sugar ring: glucose, cornflour and cotton.
+**Summary.** Heat a piece of sugar, bread or wax and it turns black. What is the black stuff? In this unit you will heat kitchen things to see which hold carbon, compare glucose, cornflour and cotton, and put carbon chains in order from cooking gas to candle wax.
 
 **Intro.** *Sugar is white, and a cotton thread is white. Heat either one on a hot tawa and it turns black. Where does the black come from?* Many things go black when they get too hot: a forgotten dosa, a roti left on the flame, milk that boils dry. Salt never does. In this unit you find out what the black solid is and why only some things leave it. You heat eight kitchen things side by side. You build molecules on paper with atoms that make one, two or four bonds. You also test glucose, cornflour and cotton, which are three materials built from one and the same ring of atoms.
 

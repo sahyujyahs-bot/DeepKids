@@ -3,7 +3,7 @@
  "title": "Bulbs in a row and bulbs side by side: how the layout of a circuit changes what each part gets",
  "level": 4,
  "summary": {
-  "text": "Add a second bulb to a working circuit, and the first bulb gets dimmer. Add it another way, and nothing changes at all. The bulbs and the cells are the same, so only the wiring can explain it. A circuit with one path is called a series circuit. A circuit with several paths is called a parallel circuit, and every home is wired that way. In this unit you test both with real bulbs, find out why a thin filament glows while a thick wire stays cool, and learn why the arrow in a circuit diagram points the wrong way. You also learn why a fuse is a thin wire that is meant to break.",
+  "text": "Take one bulb out of a string of bulbs and either all go dark or the rest stay lit. Which, and why? In this unit you will build bulbs in a row and side by side, draw circuit diagrams, and test a bulb and an LED both ways round.",
   "art": "Two small circuits on a table side by side: on the left two dim bulbs in one loop, on the right two bright bulbs each with its own wires to the cell holder."
  },
  "intro": {

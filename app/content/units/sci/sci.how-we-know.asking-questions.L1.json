@@ -3,7 +3,7 @@
  "title": "Wondering and looking closely: finding out what is inside a closed dabba",
  "level": 1,
  "summary": {
-  "text": "You can find out what is inside a closed dabba without opening it. Shake it, lift it and tilt it, and the dabba gives you clues. Scientists begin the same way: they notice something, they wonder about it, and they observe closely with all their senses. Your child asks real questions, looks closely at one elaichi pod, and finds out what is hidden in three closed dabbas. They also hear how Inge Lehmann found a ball in the middle of the Earth that nobody has ever seen.",
+  "text": "Can you find out what is inside a closed dabba without opening it? In this unit you will shake, lift and tilt three mystery dabbas for clues, look closely at one elaichi pod, and play a yes-or-no guessing game.",
   "art": "A girl sitting cross-legged on a floor mat, holding a closed steel dabba to her ear and shaking it gently, with two more closed dabbas in front of her marked 1, 2 and 3."
  },
  "intro": {
@@ -224,7 +224,7 @@
    "title": "Yes-or-No Detective: find the hidden thing with questions",
    "mins": 12,
    "players": "2 or more players. A grown-up reads the cards to anyone who cannot read yet.",
-   "context": "This is a question game. One person thinks of a thing in the room. The others ask questions that can be answered only yes or no, until they find the thing.",
+   "context": "This is a question game. One person thinks of a thing in the room. The others ask questions that can be answered only yes or no, until they find the thing. You will find out which questions get to the answer fastest.",
    "printables": [
     {
      "kind": "cards",
@@ -325,7 +325,7 @@
    "title": "Question Dice: roll a word, ask a question",
    "mins": 12,
    "players": "2 or more players. A grown-up reads the dice word and the card to anyone who cannot read yet.",
-   "context": "This is a game for asking many kinds of questions. You roll a dice with question words on it and turn over a thing card. Then you ask a question about that thing, starting with the word you rolled.",
+   "context": "This is a game for asking many kinds of questions. You roll a dice with question words on it and turn over a thing card. Then you ask a question about that thing, starting with the word you rolled. You will find out how many different questions one ordinary thing can start.",
    "printables": [
     {
      "kind": "cards",
@@ -413,8 +413,8 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Take turns to roll and turn a card. 2. Help your child make a question with the two. 3. Write each question on the paper. Star any that nobody can answer.",
-     "say": "You rolled HOW, and the card says A seed. Can you make a question? How does a seed know which way is up?",
-     "kid": "Roll the dice. Turn a card. Make a question with both.",
+     "say": "You rolled HOW, and the card says A seed. Now make a question with both. For example: How does a seed know which way is up?",
+     "kid": "Roll the dice and turn a card. Then ask a question.",
      "ask": [
       {
        "q": "Which question did you like most? Why?",
@@ -453,7 +453,7 @@
    "title": "Mystery Dabbas: what is inside, without looking?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment a grown-up hides one thing in each of three closed dabbas. The child finds out what is inside each one by shaking, lifting and tilting, without looking. Then the lids come off to check. After that they swap, and the child hides things for the grown-up.",
+   "context": "In this experiment a grown-up hides one thing in each of three closed dabbas. The child finds out what is inside each one by shaking, lifting and tilting, without looking. Then the lids come off to check. After that they swap, and the child hides things for the grown-up. You will find out how much your ears, hands and nose can tell you about something you cannot see.",
    "question": "Can you find out what is inside a closed dabba without looking? Which of your senses gives you the best clues?",
    "predict": "Guess first. Will you be able to tell what is inside without looking? Which sense will help most: your ears, your hands or your nose? Why do you think so?",
    "fair_test": "All three dabbas are the same kind and size, so only what is inside is different. You shake each one the same way, three gentle shakes. You say your guess and your reason for every dabba before any lid comes off.",
@@ -502,7 +502,7 @@
      "what": "Guess, then shake, lift, tilt and sniff three closed dabbas. Say a guess and a reason for each, then open them and check. Then swap: your child hides things, and you find out."
     }
    ],
-   "record": "Draw the three dabbas in a row. Under each, draw what you guessed and what was really inside. Put a tick when they match. Next to each, draw an ear, a hand or a nose for the clue that helped most.",
+   "record": "Fill in the results table with your grown-up. Write what you heard, what you guessed and what was really inside. Put a tick when they match. For each dabba, say whether your ears, hands or nose helped most. Take a photo of the three open dabbas.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -573,7 +573,7 @@
      "mins": 1,
      "do": "Ask for a guess and a reason. Write it down.",
      "say": "Do you think you can find out what is inside without looking? Which part of your body will help most? Why do you think so?",
-     "kid": "Guess. Can you find out without looking? What will help most?",
+     "kid": "Make your guess before you start.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -647,7 +647,7 @@
      "kid": "Say your guess for each dabba. Say which clue told you.",
      "ask": [
       {
-       "q": "Why do you think dabba 3 has that inside?",
+       "q": "What clue told you what is in dabba 3?",
        "good": [
         "Because it made no sound and it was very light, so it is something soft.",
         "Maybe it is empty, because I heard nothing."
@@ -700,7 +700,7 @@
    "id": "a1",
    "title": "One Elaichi, Four Senses: how many things can you notice?",
    "mins": 10,
-   "context": "In this activity you observe one tiny elaichi pod as closely as you can. You use your eyes, hands, ears and nose, and count how many things you notice.",
+   "context": "In this activity you observe one tiny elaichi pod as closely as you can. You use your eyes, hands, ears and nose, and count how many things you notice. You will find out how much more you see when you look slowly.",
    "materials": [
     {
      "item": "2 or 3 green elaichi (cardamom) pods from the kitchen",
@@ -731,14 +731,14 @@
      "mins": 2,
      "do": "Put one elaichi pod on the plate. Ask your child to say one thing about it, after a quick look. Write it down.",
      "say": "Take one quick look at this. Tell me one thing about it.",
-     "kid": "Look quickly. Say one thing about it."
+     "kid": "Look for just a moment."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Now your child picks up the pod and looks slowly, turning it round. 2. They feel it, shake it next to one ear, and smell it. 3. Make a mark for each new thing they notice.",
      "say": "Now be a scientist. Look slowly. Turn it round. Feel it. Shake it next to your ear. Smell it. Tell me everything you notice.",
-     "kid": "Look slowly. Feel it. Shake it. Smell it. Say what you notice.",
+     "kid": "Use each sense, one at a time.",
      "ask": [
       {
        "q": "What do you notice now?",
@@ -757,7 +757,7 @@
      "mins": 2,
      "do": "Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod.",
      "say": "I'll open this one. Look inside. What do you see? Now smell it. Is the smell stronger or weaker than before?",
-     "kid": "Look inside. What do you see? Smell it now.",
+     "kid": "Look at the seeds. Smell the open pod.",
      "adult": true,
      "ask": [
       {
@@ -774,7 +774,7 @@
      "mins": 2,
      "do": "Count the marks together. Ask what your child wonders about the elaichi.",
      "say": "After one quick look, you noticed one thing. After a slow look, you noticed this many. What do you wonder about the elaichi now?",
-     "kid": "Count your marks. What do you wonder about it now?",
+     "kid": "Count your marks.",
      "ask": [
       {
        "q": "What do you wonder?",
@@ -803,7 +803,7 @@
    "id": "a2",
    "title": "Sticky Questions: a wonder walk around the flat",
    "mins": 10,
-   "context": "In this activity you walk round your home and find things you wonder about. A grown-up writes each question on a slip of paper, and you stick it on the thing.",
+   "context": "In this activity you walk round your home and find things you wonder about. A grown-up writes each question on a slip of paper, and you stick it on the thing. You will see how many questions are hiding in an ordinary home.",
    "materials": [
     {
      "item": "6 small slips of paper",
@@ -834,7 +834,7 @@
      "mins": 6,
      "do": "1. Walk slowly through the home with your child. 2. Stop at anything they ask about, or ask 'What do you wonder about this?' 3. Write their question on a slip, word for word, and tape the slip on the thing.",
      "say": "Let's walk round slowly and find things you wonder about. Look at the fan. What do you wonder about it? I'll write it down.",
-     "kid": "Walk round slowly. Find things you wonder about. Say your question.",
+     "kid": "Stop at something you wonder about.",
      "ask": [
       {
        "q": "What do you wonder about this?",
@@ -850,9 +850,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Read all the questions back. Sort them together into two piles: ones someone at home can answer, and ones nobody at home can answer.",
+     "do": "Take the slips off the things and read them back. Sort them together into two piles: ones someone at home can answer, and ones nobody at home can answer.",
      "say": "Here are all your questions. Which ones can someone at home answer? Which ones does nobody here know?",
-     "kid": "Listen to your questions. Which ones does nobody know?",
+     "kid": "Help sort the slips into two piles.",
      "ask": [
       {
        "q": "How could we find out the answer to one we don't know?",
@@ -873,14 +873,14 @@
    "id": "a3",
    "title": "How Do You Know? Ask a grown-up",
    "mins": 10,
-   "context": "In this activity you ask a grown-up a question about the world. Then you ask them a second question: 'How do you know?'",
+   "context": "In this activity you ask a grown-up a question about the world. Then you ask them a second question: 'How do you know?' You will find out that every thing a person knows has a story: they looked, they were told, or they tried it.",
    "materials": [
     {
      "item": "a grown-up at home, or on the phone",
      "qty": 1
     },
     {
-     "item": "paper and crayons",
+     "item": "paper and a pencil, to write down what the grown-up says",
      "qty": 1
     }
    ],
@@ -891,7 +891,7 @@
     },
     {
      "art": "A drawing on paper split into three boxes: an eye, an ear listening to a person, and a hand trying something.",
-     "caption": "2. Ask 'How do you know?' Draw how they found out."
+     "caption": "2. Ask 'How do you know?' Act out how they found out."
     }
    ],
    "flow": [
@@ -905,7 +905,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child asks the question, then asks, 'How do you know?' The grown-up answers honestly.",
+     "do": "Your child asks the question, then asks, 'How do you know?' The grown-up answers honestly. Write down what they say.",
      "say": "Now ask the second question: How do you know?",
      "kid": "Now ask: How do you know?",
      "ask": [
@@ -924,9 +924,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Your child draws how the grown-up found out: by looking, by being told, or by trying it.",
-     "say": "Draw how the grown-up found out. Did they see it, hear it from someone, or try it?",
-     "kid": "Draw how they found out. Did they look, hear or try?",
+     "do": "Your child acts out how the grown-up found out: looking closely, cupping a hand to the ear for being told, or using the hands for trying it.",
+     "say": "Show me how the grown-up found out. Did they look at it, hear it from someone, or try it?",
+     "kid": "Act it out: look, listen or try.",
      "check": {
       "t": "mcq",
       "q": "A grown-up knows rice is cooked when it is soft. How did they find out?",
@@ -960,7 +960,7 @@
      "qty": 10
     },
     {
-     "item": "a pencil and crayons",
+     "item": "a pencil",
      "qty": 1
     }
    ],
@@ -988,10 +988,10 @@
     {
      "day": 5,
      "mins": 5,
-     "what": "Take one out. Then draw your favourite answer from the week, and how you found it."
+     "what": "Take one out. Then tell your favourite answer from the week, and how you found it."
     }
    ],
-   "record": "A drawing for each question you found out about, with an eye, an ear or a hand to show how you found out.",
+   "record": "A page for each question you found out about. Write the question and the answer. Draw an eye, an ear or a hand to show how you found out, or write look, ask or try.",
    "setup": [
     {
      "art": "A glass jar with folded paper slips inside, standing on a shelf beside a pencil.",
@@ -1008,7 +1008,7 @@
      "mins": 5,
      "do": "1. Put the question slips in the jar. 2. Add new ones your child says today. 3. Take one out and read it aloud. 4. Decide together how to find out.",
      "say": "This is your Wonder Jar. Every question you have goes in here. Let's take one out. How could we find out?",
-     "kid": "Put your questions in the jar. Take one out. How could you find out?"
+     "kid": "Put your questions in the jar and pick one."
     },
     {
      "id": "s2",
@@ -1035,9 +1035,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Your child picks one question they found an answer to, and draws the answer. They also draw an eye, an ear or a hand to show how they found it. Ask which way worked best for that question.",
-     "say": "Pick one question that you found the answer to this week. Draw the answer. Then draw an eye if you looked, an ear if you asked someone, or a hand if you tried something.",
-     "kid": "Pick one answer you found. Draw it. Draw an eye, an ear or a hand to show how you found it.",
+     "do": "Your child picks one question they found an answer to and tells the answer. Then they say how they found it. Ask which way worked best for that question.",
+     "say": "Pick one question that you found the answer to this week. Tell me the answer, as if I were in your class. Then tell me how you found it. Did you look, ask someone, or try something?",
+     "kid": "Pick one answer you found. Tell it, and say how you found it.",
      "parent": "Looking works for things you can see. Asking works for things that a person knows. Trying works when you can test an idea. Some questions will not be answered. Keep them in the jar. Say, 'Nobody here knows yet. That makes it a very good question.'"
     }
    ]

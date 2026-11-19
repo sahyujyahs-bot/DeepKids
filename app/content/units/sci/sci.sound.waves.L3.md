@@ -1,7 +1,7 @@
 # Waves: how energy travels while the water stays in place
 `sci.sound.waves.L3`
 
-**Summary.** Drop a pebble in a bucket and rings of ripples spread to the edge. Yet a grain of puffed rice floating on the water only bobs up and down where it is. A wave is energy travelling through a material, while the material itself stays in place. Waves travel through water, a rope, a spring toy, a crowd at a cricket match, the air and even solid rock. What a wave travels through sets how fast it goes. In shallow water a wave moves slowly, and in deeper water it moves faster. That is why a tsunami slows down and grows tall as it reaches the beach. In 1936 Inge Lehmann used earthquake waves to find a solid ball at the centre of the Earth.
+**Summary.** When a wave crosses a bucket of water, does the water travel with it? In this unit you will float puffed rice on waves to find out, test whether a wave crosses deep or shallow water faster, and make a stadium wave with your family.
 
 **Intro.** *Float one grain of puffed rice in the middle of a bucket of water. Now tap the water near the edge with a pencil, again and again. The ripples rush past the puffed rice towards the far side. Does the puffed rice go with them?* The puffed rice bobs up and down, but it stays in the middle. The ripples crossed the bucket, yet the water did not. Something travelled from your pencil to the far side, and it was not water. It was energy. Energy that travels like this, through a material that stays behind, is called a wave.
 

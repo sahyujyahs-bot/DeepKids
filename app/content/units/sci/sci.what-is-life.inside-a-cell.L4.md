@@ -1,7 +1,7 @@
 # Inside a cell: the power stations, the recipe book and the workshops
 `sci.what-is-life.inside-a-cell.L4`
 
-**Summary.** A cube of beetroot stays pale in cold water. Dropped in hot water, it spills red in minutes. The red was locked inside the cells all the time. In this unit your child finds the small rooms inside a cell and what each one does. They test what keeps the red in, pull stringy DNA out of a banana, and see how a recipe is copied and built into a protein. They learn why a cell with the same recipe book as every other cell still becomes muscle or skin, and why two of the rooms were once free-living bacteria.
+**Summary.** A cube of beetroot stays pale in cold water but spills red in hot water. What was keeping the red inside? In this unit you will test beetroot, pull stringy DNA out of a banana, and walk through how a cell copies a recipe and builds a protein.
 
 **Intro.** *Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.* Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this unit you open the cell and look at the rooms, one by one.
 

@@ -1,7 +1,7 @@
 # Dissolving: what water takes, what oil takes, and where the fizz hides
 `sci.states.dissolving.L4`
 
-**Summary.** Turmeric stains a plastic box yellow and will not wash out with plain water, yet food colour spreads into water at once. A grown-up who bites a hot chilli gets no help from a sip of water, but a spoon of curd cools the burn. A bottle of soda gushes and goes flat when it is warm, but stays fizzy when it is cold. In this unit your child tests which colours dissolve in water and which dissolve in oil, finds out where the gas in a soda is before the bottle is opened, and sees why salt makes ice colder. Then they follow one rule from kitchen jars to the skin of every living cell: a thing dissolves best in a liquid that is like itself.
+**Summary.** Turmeric stains a plastic box and will not wash out with water, yet food colour spreads into water at once. Why? In this unit you will test which colours go into water and which into oil, see where the fizz in soda comes from, and make ice colder with salt.
 
 **Intro.** *Rub turmeric on a white plastic box and then wash it with plain water. The yellow stays. Now rub a little oil on the stain and wipe. The yellow comes off on the oil. Why does the colour leave in one liquid and not the other?* Water dissolves some things and not others. In this unit you find out which liquid dissolves which thing. You test turmeric, chilli and food colour in water and in oil. You open a cold soda and a warm soda and find out where the gas was before the bottle was opened. You make kulfi in a bag, using salt on ice. By the end you can say why a grown-up should reach for curd, not water, after a hot chilli.
 

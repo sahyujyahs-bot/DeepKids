@@ -1,7 +1,7 @@
 # Kinds of plants: what a stem tells you about how a plant lives
 `sci.plants.plant-variety.L3`
 
-**Summary.** Some plants stand up on a woody stem, and others climb or spread because their stems are too soft to stand. A tree has one thick, woody trunk, and a shrub has several woody stems from near the ground. A herb has a soft green stem and stays small. A climber holds on to something to grow up, and a creeper spreads along the ground. Your child tests stems from the kitchen to see which can stand alone. They also find out how people use plants, and meet plants that do not fit the five kinds, like the banana, which has no wood at all.
+**Summary.** Why can a tree stand up alone, while a climber needs something to hold on to? In this unit you will count the kinds of plants around you, test stems from the kitchen to see which can stand alone, and play a plant families game.
 
 **Intro.** *Look out of every window in your home for one minute. Count every plant you can see. Now look again. Which one could you climb? Which one could you squash between two fingers? Is any plant holding on to something?* For hundreds of years, ships sailed to Kerala to buy black pepper. Many people in Europe ate pepper every day but had never seen the plant growing. A pepper plant has no trunk of their own. They grow on a thin stem that holds on to a tree trunk or a post and climbs up it. So how can a plant grow tall without a trunk? In this unit you test stems to find out which can stand up alone. Then you learn to tell a tree from a shrub, a herb, a climber and a creeper by looking at their stem.
 

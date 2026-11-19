@@ -1,7 +1,7 @@
 # Pushes and pulls: the forces around us, and how we feel them
 `sci.forces.push-and-pull.L2`
 
-**Summary.** You cannot see a force, but you can feel one. Every push and every pull is a force. Forces come from hands and feet, the wind, water, magnets and the Earth. Your child hunts for forces at home, finds who or what gives each one, and sorts big forces from small ones. Then, with eyes shut, they test whether their hand can feel a small packet of rice slipped into a bag. The packet is easy to feel in an empty bag, but easy to miss in a heavy one.
+**Summary.** You cannot see a force, but you can feel one. How well? In this unit you will hunt for pushes and pulls at home, test with your eyes shut whether your hand can feel a small packet of rice slipped into a bag, and make panakam while naming every push and pull.
 
 **Intro.** *Hold out your hand, palm up, and shut your eyes. Is anything pushing or pulling on your hand right now?* Most children say no. But the Earth is pulling your hand down, and your arm is holding it up. Forces are around us all the time, even when we don't notice them. A force is any push or any pull. You can't see a force. You can see what it does, and you can feel it. In this unit you hunt for forces at home. Then you test how well your hand can feel a small one.
 

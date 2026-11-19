@@ -1,7 +1,7 @@
 # Animals around us: what they eat, where they live, how they move
 `sci.animals.animals-around-us.L1`
 
-**Summary.** Ants live in the cracks of our walls, a gecko waits by the tube light, and a crow calls from the window. Every one of these animals has to find food, a safe place to live and a way to move. Humans are animals too. Your child hunts for the animals who share their home, then tests their own teeth on five foods. A mouth fits the food an animal eats, and that is true for a crow, a cow and you.
+**Summary.** What do an ant, a crow and a gecko have in common with you? In this unit you will hunt for the animals that share your home, test which of your teeth bite and which chew, and play a feeding card game.
 
 **Intro.** *Who lives in your home? Count everyone. Did you count the ants, the gecko and the spider?* Most families count only the people. But many other animals live in a flat too. Ants live in tiny cracks, a gecko hides behind a cupboard, and a spider sits in a corner. In this unit we find the animals in our home, and then we look at our own teeth.
 

@@ -1,7 +1,7 @@
 # Curious people: how discoveries begin with a question
 `sci.how-we-know.stories-of-discovery.L1`
 
-**Summary.** A yellow haldi stain on a white shirt can turn red in the wash. Many people have seen it happen, but few ask why. A scientist is a person who notices something, asks a question about it, and tries things to find out. In this unit you test which kitchen liquids turn haldi red. You also meet curious people from India and the world, like Tu Youyou, who found a medicine in a very old book and then tested it.
+**Summary.** A yellow haldi stain on a white shirt can turn red in the wash. Why? In this unit you will test which kitchen liquids turn haldi red, hear about curious people like Tu Youyou, and play a true-or-false game about who found out what.
 
 **Intro.** *Here is an old cloth with a yellow haldi stain. When a stain like this is washed, it can turn red. What do you think turns it red?* Many grown-ups have seen a haldi stain turn red in the wash, but most never ask why. Asking why, and then trying things to find out, is what scientists do. In this unit you become a scientist in your own kitchen. You also hear true stories of curious people who found out new things.
 

@@ -1,7 +1,7 @@
 # Sorting materials: putting things into groups by asking a question
 `sci.materials.sorting-materials.L1`
 
-**Summary.** A steel spoon sinks in a bucket of water, but a steel katori floats. Both are steel. Sorting means putting things into groups by asking one question about each thing, such as 'Is it metal?' Your child sorts kitchen things by material, then sorts the same things again with a water test. They find that the metal group splits in two, and they find out why.
+**Summary.** A steel spoon sinks in water, but a steel katori floats. Both are steel, so why? In this unit you will sort kitchen things by asking yes-or-no questions, then test the metal ones in water, and play a sorting relay.
 
 **Intro.** *Here are six things: a steel spoon, a pencil, a comb, a key, a bottle cap and a wooden spoon. Can you put them into two groups? What question did you ask to make your groups?* People sort things every day. A grandmother in Kochi puts the steel vessels on one shelf and the glass jars on another. In Mumbai, the dabbawalas sort thousands of tiffin boxes by the marks on the lids. To sort, you ask one question about each thing, like 'Is it metal?' If the answer is yes, the thing goes in one group. If the answer is no, it goes in the other group.
 

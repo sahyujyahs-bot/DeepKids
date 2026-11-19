@@ -1,7 +1,7 @@
 # Chemical bonds: how atoms hold on to each other
 `sci.chemistry.bonds.L3`
 
-**Summary.** Boil water and the steam drips back off a lid as water. A small battery can do what boiling cannot: split water into two gases, hydrogen and oxygen. Water is made of atoms that hold on to each other very tightly. This holding is called a chemical bond, and it is made by the atoms' electrons. Every solid, liquid and gas around us, and every part of you, is atoms held by bonds.
+**Summary.** Boiling water turns it into steam, but it is still water. What can break water into two different gases? In this unit you will split water with a pencil and a battery, build models of molecules from chana and toothpicks, and play an atom card game.
 
 **Intro.** *Next time someone cooks rice or boils milk, look under the lid. It is covered in drops. Touch one. It is plain water. The water went up as steam and came back as water.* So heating moves water around, but it does not change water into something else. Is water a single, simple stuff that can never be broken? People thought so for over two thousand years. In this unit you will split water yourself, with a pencil and a battery, and find out what it is made of.
 

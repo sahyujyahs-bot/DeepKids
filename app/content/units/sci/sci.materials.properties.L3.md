@@ -1,7 +1,7 @@
 # Properties of materials: what a material is like, and how to test it
 `sci.materials.properties.L3`
 
-**Summary.** A steel spoon feels colder than a wooden spoon, yet a thermometer shows they are at the same temperature. So touching is a start, but testing tells you more. A property is what a material is like, such as hard, flexible, shiny or waterproof. You find a property by looking, touching, listening and testing, and you can measure many of them as a number. Every material has many properties, and the job decides which ones matter. Some properties change with the conditions: damp paper is much weaker than dry paper. Properties come from a material's atoms and how they are joined.
+**Summary.** Does water make a material weaker? In this unit you will find out what a property is, then test whether a material snaps or bends, how flexible it is, whether damp makes it weaker, and how fast a drop soaks in.
 
 **Intro.** *Try this. Pick up a steel spoon in one hand and a wooden spoon in the other. They have been in the same room all day. Which one feels colder? Now guess what a thermometer would say.* Here is a puzzle from the past. About three hundred years ago, in Bengal, weavers made a cotton cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. The spinners found that their thread held best in the damp early morning. In the dry heat of noon, it kept snapping. Was the cotton bad? Were the spinners tired? Or does the strength of a thread change with the air? In this unit you will find out, by testing paper and thread at home.
 

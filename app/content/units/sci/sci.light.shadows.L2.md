@@ -1,7 +1,7 @@
 # Shadows: what happens when something blocks the light
 `sci.light.shadows.L2`
 
-**Summary.** Hold your hand in front of a torch, and a dark patch with the shape of your hand appears on the wall. That patch is a shadow. It forms because light travels in straight lines and cannot go through your hand. In this unit your child finds out what a shadow needs, which side it falls on, and why the same toy can make a tiny shadow or a giant one. They also make shadow puppets and put on a shadow play, like the puppeteers of Kerala, Andhra Pradesh, Karnataka and Odisha.
+**Summary.** Why can the same toy make a tiny shadow or a giant one? In this unit you will find out what a shadow needs, move a toy near and far from a torch to see its shadow change, count the shadows two lights make, and make a shadow puppet.
 
 **Intro.** *Switch on a torch and hold your hand in front of it. A dark hand appears on the wall. Where did that dark hand come from?* Hold your hand still between the torch and the wall. Now take your hand away. The dark hand is gone. Put your hand back, and it comes back. The dark hand on the wall is called a shadow. In this unit we find out what makes a shadow, and how to make one grow, shrink, split in two and tell a story.
 

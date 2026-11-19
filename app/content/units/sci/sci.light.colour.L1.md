@@ -1,7 +1,7 @@
 # Mixing paints: how three colours make many more
 `sci.light.colour.L1`
 
-**Summary.** Mix yellow paint with blue paint, and you get green, a colour that was in neither pot. Your child mixes red, yellow and blue paint and finds orange, green, purple and brown. All three together make a dark, muddy brown. That is because paint absorbs, or soaks up, some of the light that falls on it. More paints soak up more light, so less light comes back to our eyes.
+**Summary.** Mix yellow paint with blue paint and you get green, a colour that was in neither pot. In this unit you will mix red, yellow and blue paints to see what they make, play a colour sums game, and make paints from turmeric and beetroot.
 
 **Intro.** *Here is yellow paint, and here is blue paint. There is no green paint. Can we make green anyway?* Put a blob of yellow paint and a blob of blue paint on a plate. Ask your child what colour the two paints will make when stirred together, and why. Then let them stir. A green appears that was in neither pot. Where did it come from? This unit finds out.
 
@@ -413,7 +413,7 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 
 ## Videos
 - **SciShow Kids: Mixing Colors** (SciShow Kids, 4 min) id `-PgMk1EzVkk`: Shows the three mixes from the Colour Mixing Test, up close, so a child can compare with their own plate. *Check:* Found by search: "Mixing Colors!" by SciShow Kids, 3 minutes, 51 seconds. A parent may preview it.
-- **Kalamkari painting in Srikalahasti, with colours from plants** (, 4 min) id `to find`: Shows painters using a bamboo pen and plant colours, as in the story of Lakshmi's green parrots. *Check:* Find a clip of real Kalamkari painters in Srikalahasti, from a news channel or a crafts body. Check that it shows the pen and the natural colours.
+- **Kalamkari painting in Srikalahasti, with colours from plants** (, 4 min) id `394EBhnO1UQ`: Shows painters using a bamboo pen and plant colours, as in the story of Lakshmi's green parrots. *Check:* Found by YouTube search: "Kalamkari a Prestigious Art with natural dyes Srikalahasti Chittoor District by GM DIC DIC CHITTOOR". Title checked automatically; a parent may still preview it.
 - **How bees can see the invisible: ultraviolet patterns on flowers** (Be Smart, 3 min) id `N1TUDFCOwjY`: Shows the patterns on flowers that bees can see and people cannot. *Check:* Found by search: "How Bees Can See the Invisible" by Be Smart, 2 minutes, 58 seconds. A parent may preview it.
 
 ## Quiz

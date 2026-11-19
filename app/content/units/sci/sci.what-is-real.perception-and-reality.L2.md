@@ -1,7 +1,7 @@
 # Real or not? Dreams, sounds and air we cannot see
 `sci.what-is-real.perception-and-reality.L2`
 
-**Summary.** Last night's dream felt real until you woke up. The air in an 'empty' bottle is real, though nobody can see it. So how do we know what is really there? In this unit you hear sounds from behind a closed door and guess: was that a real tumbler, or a phone recording? You keep a dream notebook for five mornings. You find out that our senses give us clues, and that we check a clue by testing it another way.
+**Summary.** How can you tell if a sound behind a door is a real thing or a recording on a phone? In this unit you will guess, then test, and count how often your ears were right. You will also sort real, pretend and puzzling things, and talk about a dream.
 
 **Intro.** *Close your eyes and listen for one minute. Count the sounds you hear. How many of the things that made them can you see when you open your eyes?* Most of the sounds came from things you could not see: a cooker in another flat, a bird, a vehicle on the road. You still felt sure they were there. In a dream, you can feel just as sure, and then wake up in bed. Perception means how we take in the world through our senses. In this unit you test your perception, and find out how to check what is real.
 

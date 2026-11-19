@@ -1,7 +1,7 @@
 # What plants need: light and water
 `sci.plants.what-plants-need.L1`
 
-**Summary.** Methi seeds sprout even under an upturned bowl, in the dark. But they come up yellow, not green. Plants need water to grow, and light to make their green colour and their food. Your child grows methi on three plates: dry, wet in the light, and wet in the dark. Then they watch the yellow sprouts turn green in the light.
+**Summary.** Why is the inside of a cabbage pale when the outside is green? In this unit you will look at a cabbage, grow three plates of methi (dry, in light and in the dark) and watch for a few days, and play a green or yellow game.
 
 **Intro.** *Peel a cabbage, one leaf at a time. The outside leaves are green. The leaves deep inside are pale, almost white. Why?* It is the same cabbage, and the same plant. But the inside leaves grew wrapped up in the dark. The outside leaves grew in the sunlight. So does a plant need light to be green? And what else does a plant need? In this unit we grow methi seeds in the light and in the dark, and with and without water, and we watch what happens.
 

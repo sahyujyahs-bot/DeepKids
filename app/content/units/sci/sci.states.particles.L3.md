@@ -1,7 +1,7 @@
 # Particles: where sugar goes when it dissolves
 `sci.states.particles.L3`
 
-**Summary.** Stir a spoon of sugar into water, and the grains vanish. Yet the water tastes sweet, and it weighs just as much as the water and sugar did before. The sugar has broken into particles far too small to see, and they have spread all through the water. Everything around us is made of particles like these: sugar, water, air, a steel tumbler and you. In this unit your child weighs dissolved sugar on a home-made balance, races a kalkandu lump against powdered sugar, and asks ants to find sugar that nobody can see.
+**Summary.** You stir sugar into water and it vanishes. Is it still there? In this unit you will weigh a glass before and after the sugar dissolves, find out whether a lump, grains or powder dissolves fastest, and draw where you think the sugar went.
 
 **Intro.** *Drop a spoon of sugar into a clear glass of water and stir. In a minute the grains are gone, and the water looks just like plain water. Is the sugar still in there? If it is, where is it?* Most people say the sugar has 'melted' or 'gone'. Neither is right. In this unit you find out what really happens. You test it three ways: by tasting, by weighing, and by asking ants. You also find out that sugar, water and everything else are made of tiny pieces called particles, and why some sugar dissolves faster than other sugar.
 

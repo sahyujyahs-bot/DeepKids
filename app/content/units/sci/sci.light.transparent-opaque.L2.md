@@ -1,7 +1,7 @@
 # Transparent, translucent and opaque: why more layers let less light through
 `sci.light.transparent-opaque.L2`
 
-**Summary.** One sheet of paper over a drawing still lets you see it, but a few sheets hide it. Even then, a torch still glows through the pile. Your child sorts home things into three kinds: transparent things we can see through, translucent things that let light through but no clear picture, and opaque things that block the light. Then they count how many layers of polythene, tissue and paper it takes to hide a drawing. They find that each layer stops some of the light, so how thick a thing is matters as much as what it is made of.
+**Summary.** One sheet of paper over a drawing still shows it, but a pile hides it, and a torch still glows through the pile. In this unit you will sort things from home by how much light they let through, and count how many layers of polythene, tissue and paper hide a drawing.
 
 **Intro.** *Hold one paper napkin up to a window, and light shines through it. Hold up a whole packet of napkins, and it looks dark. Where did the light go?* Some things let light through, and some things block it. But the same paper can do both. One sheet glows in the light. A thick pile looks dark. In this unit you find out which things let light through, and you count how many layers it takes to stop it.
 

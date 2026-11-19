@@ -1,7 +1,7 @@
 # Changes that go back and changes that do not: what cooking does to food for ever
 `sci.changes.reversible-and-irreversible.L4`
 
-**Summary.** Stir a spoon of flour into cold water, and by the next morning you can have dry flour again. Heat the same flour and water for a few minutes, and it becomes a paste. The paste never turns back into flour. Your child tests both glasses and then tries every way back. They toast squares of bread for different times, and find which part of toasting goes back and which does not. They learn that heat swells starch, unfolds protein and makes new brown substances. They also find that tearing and grinding do not go back, although nothing new is made.
+**Summary.** You can melt butter and set it again, but you cannot turn toast back into bread. Why not? In this unit you will sort five changes into three piles, stir flour into cold and hot water to see if it comes back, and climb a toast ladder.
 
 **Intro.** *A lump of ghee melts in a hot pan. Take the pan off the stove, and the ghee sets again. Pour dosa batter on the same hot pan, and no amount of cooling brings the batter back. Why does one change go back and the other does not?* Both changes used the same pan and the same heat. The ghee only changed from a solid to a liquid. It was ghee before, and it was ghee after. The batter became something new, with a new colour, a new smell and a new feel. In this unit you sort changes into three piles: back easily, back with work, and no way back. You test flour in cold water against flour in hot water. You toast a ladder of bread squares, and you try to bring them back.
 

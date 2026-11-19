@@ -1,7 +1,7 @@
 # Festivals and the mela: how India celebrates, and why turmeric turns red
 `sci.community.festivals.L3`
 
-**Summary.** Yellow turmeric turns red when it meets soap or lime, and that is how aarathi water and kumkum get their colour. India's festivals are full of science like this, and full of people. At a mela you find stalls of bamboo and cloth, sellers, cooks, toy makers, police and volunteers. Each festival has its own food, clothes and customs, and one January harvest festival has five names across India. Some festivals follow the Sun and come on almost the same date each year. Others follow the Moon and move. India also has three national festivals that mark its history.
+**Summary.** Yellow turmeric turns red in some kitchen liquids. Why does aarathi water turn red? In this unit you will test kitchen liquids with turmeric, hunt through a calendar to see which festivals move date each year, and play a festival memory game.
 
 **Intro.** *Stir a pinch of turmeric into a little water. It is yellow. Now add a spoon of soapy water, and it turns red. Why does yellow turmeric turn red?* Turmeric is yellow in sambar and red in aarathi water, yet it is the same turmeric. In this unit you find out why, with a test of your own. You also picture a mela, meet the people who make it work, and see what it is built from. You learn the foods, clothes and customs of festivals from Kerala to Assam. You find out why Pongal comes on almost the same date every year, while Diwali and Eid move. And you learn what India's three national festivals remember.
 

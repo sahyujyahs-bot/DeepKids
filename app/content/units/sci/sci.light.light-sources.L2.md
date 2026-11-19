@@ -1,7 +1,7 @@
 # Light sources: why the Moon is not one, and what darkness is
 `sci.light.light-sources.L2`
 
-**Summary.** The Moon looks like a lamp in the night sky, but it makes no light at all. It is a ball of grey rock, and the light we see is sunlight bouncing off it. In a dark room, your child makes a paper Moon: a sheet of white paper that lights up a picture only while a torch shines on it. They also find that darkness is not a thing that comes in. It is simply what we see where no light is arriving.
+**Summary.** The Moon shines in the night sky, so is it a lamp? In this unit you will make a paper Moon and see if bounced torchlight can light up a picture in a dark room. You will also test whether darkness comes out of a door, and play a game tracing light back to its source.
 
 **Intro.** *On a full-Moon night, the Moon can be bright enough to light up a terrace. So is the Moon a light source, like a lamp?* The Moon looks like a big lamp in the sky. But the Moon is a ball of rock, and rock makes no light. So where does the Moon's light come from? And what is the dark that comes back when a cloud covers the Moon? In this unit you make a paper Moon in a dark room, and find out.
 

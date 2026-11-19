@@ -1,7 +1,7 @@
 # Reflection: shiny and dull surfaces, and seeing round corners with mirrors
 `sci.light.reflection.L4`
 
-**Summary.** A white wall and a mirror both bounce back the light that lands on them, yet you see your face in only one of them. Breathe on a steel tumbler and your face vanishes at once, then returns as the fog clears. A polished plate can flash a spot of sunlight across a bay, while a dull pot cannot. In this unit your child maps where light goes after it hits a mirror, foil, paper and cloth. They find out how to turn a dull surface into a shiny one, and why a reflective strip on a school bag glows back at a torch. They build a periscope that sees over a wall, and learn that a wall and a mirror obey exactly the same rule.
+**Summary.** A mirror and a sheet of paper both bounce light back, so why can you see your face in only one? In this unit you will hunt for shiny and dull things, track where light goes from different surfaces, make a dull thing shine, and build a periscope from a milk carton.
 
 **Intro.** *Hold up a steel tumbler and look at your face in the shiny side. Breathe on it. Your face vanishes into fog. Wait a few seconds. Your face comes back. The steel did not change. What did the fog do to the light?* Every surface sends back some of the light that lands on it. What is different is how tidily it does it. A mirror sends light back in neat order, so you see a picture. A wall sends it back in every direction, so you see the wall itself, from anywhere in the room. In this unit you find out why, and how polish, water and tape turn a dull surface into a shiny one. You also learn how two mirrors can send light round two corners, which is how a periscope lets you see over a wall.
 

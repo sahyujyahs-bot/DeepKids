@@ -1,7 +1,7 @@
 # Fair tests: change one thing and keep the rest the same
 `sci.how-we-know.fair-tests.L3`
 
-**Summary.** A slice of apple left on a plate turns brown. Does lemon juice stop it? You can only find out if every slice comes from the same apple, sits in the same air and waits the same time, and only the lemon is different. That is a fair test: change one thing, keep everything else the same, and watch what happens. You will also learn to write results in a table, and why one try is never enough.
+**Summary.** Does lemon juice really stop a cut apple turning brown? In this unit you will find out what makes such a test fair, test it with apple slices, compare underarm and overarm throws in ten tries each, and write the results in a table.
 
 **Intro.** *Two children each drop a ball. The girl drops a rubber ball from above her head. Her little brother drops a plastic ball from his knee. The rubber ball bounces much higher. "My ball is bouncier!" she says. Is she right?* We can't tell yet. Two things were different: the ball and the height it fell from. Either one could have made the higher bounce. To find out about the balls, both must fall from the same height onto the same floor. Then the ball is the only thing left that is different.
 

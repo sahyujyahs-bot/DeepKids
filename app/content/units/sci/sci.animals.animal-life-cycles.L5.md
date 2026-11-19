@@ -1,7 +1,7 @@
 # Strange life cycles: seventeen years underground, one journey home, and a jellyfish that starts again
 `sci.animals.animal-life-cycles.L5`
 
-**Summary.** One kind of cicada lives underground for seventeen years, then flies and sings for about four weeks. A Pacific salmon swims from the sea to the stream where she hatched, lays her eggs once and dies. A jellyfish smaller than your little fingernail can turn from an adult back into a youngster. Why would any animal live like this? Your child tests how a crowd protects each member, and how weak a smell a nose can still follow home. They also find out why a fish may lay millions of eggs, and what a cell does when a body starts again.
+**Summary.** One kind of cicada lives underground for seventeen years, then sings for about four weeks. Why would any animal live like this? In this unit you will test whether it is safer to come out alone or in a crowd, and how weak a smell your nose can follow home.
 
 **Intro.** *Think of a cicada, a mayfly, a hen, an elephant and yourself. Which one spends the biggest share of life as a youngster? Say what you think, and why.* Most people pick the elephant or the human, because our childhoods feel long. In the first activity, Life Bars, you draw each life as a bar and measure the answer. Then you meet three animals whose life cycles seem strange to us. For each one you ask the same question. What dangers and what food would make this way of living work?
 

@@ -1,7 +1,7 @@
 # Things fall: everything drops when we let go
 `sci.gravity.falling.L1`
 
-**Summary.** Let go of a spoon, and it falls. Let go of a feather or a balloon, and it falls too, only slowly. Your child drops ten everyday things and finds that every one of them falls down. The Earth pulls everything towards it, and scientists call this pull gravity. A thing stays up only while something holds it: a hand, a shelf, a string or the floor.
+**Summary.** Let go of a spoon and it falls. Does everything fall, even a feather? In this unit you will drop everyday things to find out, take away what holds something up, and see where a dropped thing lands under your hand.
 
 **Intro.** *Hold a spoon up high. Open your hand. What happens? Now try it with a feather or a balloon. Does that fall too?* Try the spoon first. Then try a feather and a balloon. Do they all fall? In this unit you let go of many things and watch where they go. You find out what holds things up. And you learn the name scientists give to the pull that makes things fall.
 
@@ -165,13 +165,13 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **s2 (8 min)**  
   *Parent does:* Play all 12 cards. After each card, ask one player why. Swap the reader each time.  
   *Parent says:* Let go of a balloon you blew up. Fast, slow or up? Show me. Why do you think so?  
-  *Child mode:* Listen to the card. Hold up a token. Say why.
+  *Child mode:* Listen to the card. Then hold up the token you think is right.
   - Ask: Why does the balloon you blew up fall slowly? (good: The air slows it down.; It is big and light.)
   - Note: The helium balloon and the agarbatti smoke are the tricky cards. Both go up only because the heavier air around them pushes them up. Nothing is pulling them up.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* One last question. This one is about a ball that you throw up.  
-  *Child mode:* Answer the last one.
+  *Child mode:* Listen to the last question. Pick the answer you think is right.
   - Check: You throw a ball up into the air. What happens to it? → **It goes up, then falls back down**
 ### g2 · Catch It Before It Lands (10 min)
 - **rules:** The dropper stands on the floor and holds one thing up as high as they can reach.; The catcher stands one big step away, with their hands down by their sides.; The dropper says 'Ready, go!' and opens their hand.; The catcher tries to catch the thing before it touches the floor. A catch scores one tick.; Each thing gets three tries. Then swap to the next thing.; At the end, count the ticks. Which thing was easiest to catch? Which was hardest?
@@ -197,41 +197,41 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **question:** When you let go of something, does it always fall? Are there things that stay up in the air?
 - **predict:** Put each thing on the FALLS sheet or the STAYS UP sheet. Which ones will fall? Will any stay up? Why do you think so?
 - **fair test:** We let go of every thing in the same way, from the same height, just by opening our hand. We do not throw or push, because a throw is a push. We only want to see what happens when nothing holds the thing.
-- **record:** Draw the ten things on a page. Next to each, draw an arrow down if it fell. Colour the arrow red for fast and blue for slow. A grown-up can write the names.
+- **record:** Fill in the results table. For each thing, write your guess and what happened: fell fast, fell slowly or stayed up. A grown-up can write the names. Then take a photo of the FALLS sheet with all ten things on it.
 - **results table:** Thing | My guess: falls or stays up? | What happened: fell fast, fell slowly, or stayed up?
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the ten things on a mat. 2. Draw a big down arrow and write FALLS on one sheet. Draw a flat line and write STAYS UP on the other. Lay both sheets next to the things. 3. Name each thing together.  
+  *Parent does:* 1. Put the ten things on a mat. 2. Write FALLS on one sheet and STAYS UP on the other. Lay both sheets next to the things. 3. Name each thing together.  
   *Parent says:* Here are ten things from our home. When we let go of them, what will they do? Let's guess first.  
   *Child mode:* Look at the ten things. Say the name of each one.
   - Note: Blow up the balloon yourself and tie it. Do the test in a clear space, away from the fan.
 - **s2 (4 min)**  
   *Parent does:* Your child puts each thing on one of the two sheets, as a guess. Ask why for two or three of them.  
   *Parent says:* Put each thing on FALLS or STAYS UP. Which will fall? Will any stay up? Why do you think so?  
-  *Child mode:* Put each thing on a sheet. Will it fall or stay up? Why?
-  - Ask: Why do you think the balloon will stay up? (good: Because balloons float.; Because it is light and full of air.)
+  *Child mode:* Put each thing on the sheet you think is right.
+  - Ask: Why did you put the balloon on that sheet? (good: Because balloons float.; Because it is light and full of air.)
   - Note: Any guess is fine. Many children put the balloon, the feather and the cotton on STAYS UP. Don't say what will happen.
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child stands over the steel plate. 2. They hold each solid thing at shoulder height and open their hand. 3. Do the spoon, the cap, the lemon, the rice and the water.  
+  *Parent does:* 1. Your child stands over the steel plate. 2. They hold each one at shoulder height and open their hand. 3. Do the spoon, the cap, the lemon, the rice and the water.  
   *Parent says:* Hold the spoon up. Don't throw it. Just open your hand. Where did it go? Now the rice. Listen to it land.  
-  *Child mode:* Hold the spoon up. Open your hand. Where did it go?
+  *Child mode:* Hold the spoon up high. Open your hand. Watch it all the way down.
   - Ask: Which way did the spoon go? (good: Down.; Down onto the plate.; It fell straight down.)
   - Note: For the water, hold the spoon over the plate and tip it. The water falls in drops or a little stream. Wipe up any spills so nobody slips.
 - **s4 (5 min)**  
   *Parent does:* Now the light things: the paper, the cotton, the feather, the hanky and the balloon. Let go of each one at shoulder height. Watch each one until it lands.  
   *Parent says:* Now the light things. Watch the balloon very carefully. Don't look away until it stops moving. Did it stay up?  
-  *Child mode:* Let go of the feather. Watch it all the way. Did it land?
+  *Child mode:* Let go of each light thing. Watch it all the way to the floor.
   - Ask: What did the balloon do? (good: It fell slowly.; It floated down and landed on the floor.)
   - Note: Light things may drift sideways or float for a few seconds. Keep watching together until each one lands. If the fan is on, switch it off and try again.
 - **s5 (2 min)**  
   *Parent does:* Move each thing to the sheet it really belongs on. Count what is left on STAYS UP.  
   *Parent says:* Let's move everything to where it really went. How many things are left on STAYS UP?  
-  *Child mode:* Move each thing to the right sheet. Is anything left on STAYS UP?
+  *Child mode:* Move each thing to the sheet where it really went.
   - Ask: How many things stayed up? (good: None.; Zero. Everything fell.)
   - Note: The STAYS UP sheet ends up empty. That surprise is the main point of the test.
 - **s6 (1 min)**  
   *Parent does:* Ask what your child found, and why they think it happened. Then ask the check question.  
   *Parent says:* What did you find out? Why do you think everything fell, even the balloon?  
-  *Child mode:* What did you find out? Why did everything fall?
+  *Child mode:* Look at your two sheets. Think about the feather and the balloon.
   - Ask: What did you find out? (good: Everything fell.; Some things fell fast and some fell slowly.; Nothing stayed up.)
   - Note: Wait for your child's own words first. Then say it plainly: everything falls when we let go. The Earth pulls everything down. Scientists call this pull gravity.
   - Check: You let go of a feather. What will the feather do? → **Fall slowly and land**
@@ -239,7 +239,7 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **question:** When you let go of something, where does it land? Right under your hand, or somewhere else?
 - **predict:** If you hold a lemon right above the dot and let go, will it land on the dot? Will a sheet of paper land on the dot too? Why do you think so?
 - **fair test:** We hold each thing right above the dot, at the same height, and just open our hand. We try each one three times, because one try can be a fluke.
-- **record:** Draw the dot. Draw a small cross for each place the lemon landed, and a different colour cross for the paper.
+- **record:** Take a photo of the newspaper with the coins on it. Tell a grown-up which things landed on the dot and which landed away. Or draw the dot and a cross for each landing.
 - **results table:** Thing | My guess: on the dot or away? | Try 1 | Try 2 | Try 3
 - **s1 (2 min)**  
   *Parent does:* 1. Spread the newspaper on the floor. 2. Your child draws a big dot in the middle, as wide as a steel katori.  
@@ -248,41 +248,41 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess before any drops.  
   *Parent says:* If you hold the lemon right above the dot and let go, where will it land? And the paper? Why do you think so?  
-  *Child mode:* Where will the lemon land? And the paper? Why?
+  *Child mode:* Point to where you think the lemon will land. Then point to where the paper will land.
   - Ask: Why do you think the lemon and the paper will land there? (good: It goes straight down.; It might roll away.; The paper will fly around.)
 - **s3 (5 min)**  
   *Parent does:* 1. Your child holds the lemon at chest height, right above the dot. 2. They look down to line it up. 3. They open their hand. 4. Put a coin on the spot where the lemon first touched the newspaper. Do this three times with the lemon, then three times with the cap.  
   *Parent says:* Look down. Is the lemon right above the dot? Now open your hand. Where did it land? Let's do it again.  
-  *Child mode:* Hold the lemon over the dot. Look down. Let go. Where did it land?
+  *Child mode:* Hold the lemon right over the dot. Look down. Open your hand. Watch where it lands.
   - Ask: Where did the lemon land? (good: On the dot.; Right under my hand.; Very close to the dot.)
   - Note: The lemon may roll after it lands. Mark the spot where it first touched the paper, not where it rolled to.
 - **s4 (4 min)**  
-  *Parent does:* Now your child holds the sheet of paper flat at chest height, right above the dot, and lets go. Do it three times. Mark where it lands each time.  
+  *Parent does:* Now your child holds the sheet of paper flat at chest height, right above the dot, and lets go. Do it three times. Mark where it lands each time, with a different kind of coin or button from the lemon's.  
   *Parent says:* Now the paper. Hold it flat above the dot. Let go. Did it land on the dot? What did it do on the way down?  
-  *Child mode:* Hold the paper flat over the dot. Let go. Where did it go?
+  *Child mode:* Hold the paper flat over the dot. Open your hand. Watch the path it takes.
   - Ask: What did the paper do? (good: It rocked from side to side.; It slid away and landed off the dot.; It fell slowly.)
   - Note: A flat sheet usually swings and slides sideways, so it often lands away from the dot. The air pushes it about. It still always comes down.
 - **s5 (2 min)**  
   *Parent does:* Ask what your child found. Then ask the check question.  
   *Parent says:* Where did the lemon land each time? Where did the paper land? Why do you think they were different?  
-  *Child mode:* Where did the lemon land? Where did the paper land? Why?
+  *Child mode:* Look at the coins on the newspaper. Which are close to the dot? Which are far?
   - Note: Say it plainly after your child has spoken: a lemon falls straight down, to the spot right under your hand. A flat paper is pushed about by the air, but it still falls.
   - Check: You hold a ball right above a steel bowl and let go. Where will the ball land? → **In the bowl, right under your hand**
 
 ## Activities
 ### a1 · Take Away the Holder (10 min)
 - **problem:** A thing that is not falling is being held up by something. In this activity you find out what holds up a tumbler, a key and a ceiling fan. Then you take the holder away, and you watch what the Earth's pull does.
-- **record:** Draw one thing in your home and the holder that holds it up. Draw an arrow down to show the Earth's pull.
+- **record:** Take a photo of one thing in your home and the holder that holds it up. Then tell a grown-up what would happen if the holder were taken away.
 - **s1 (3 min)**  
   *Parent does:* 1. Hold the book flat above the cushion, at your child's chest height. 2. Stand the tumbler on the book. 3. Ask what is holding the tumbler up. 4. Slide the book away sideways, quickly.  
   *Parent says:* The tumbler is not falling. What is holding it up? What will happen if I take the book away? Watch.  
-  *Child mode:* The tumbler is not falling. What holds it up? Watch what happens when the book is pulled away.
+  *Child mode:* Look at the tumbler on the book. Then watch what happens when the book is pulled away.
   - Ask: What held the tumbler up? (good: The book.; Your hands, holding the book.)
   - Ask: What happened when the book was pulled away? (good: The tumbler fell.; It fell straight down onto the cushion.)
 - **s2 (2 min)**  
   *Parent does:* Your child holds the end of the thread so the key hangs down. Then they let go of the thread, over the cushion.  
   *Parent says:* What is holding the key up now? What will happen if you let go of the thread? Try it.  
-  *Child mode:* Hold the thread. What holds the key up? Now let go.
+  *Child mode:* Hold the end of the thread so the key hangs. Then let go over the cushion.
   - Ask: What held the key up? (good: The thread.; My hand, holding the thread.)
 - **s3 (4 min)**  
   *Parent does:* Walk around the home together. Point to five things that are up off the floor. For each one, your child says what holds it up.  
@@ -293,14 +293,14 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **s4 (1 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* One question about holders.  
-  *Child mode:* Answer one question.
+  *Child mode:* Think about the towel and the hook.
   - Check: A towel hangs on a hook. What happens if the hook breaks? → **The towel falls down**
 ### a2 · Falling Watch: the tap and the window (10 min)
-- **record:** Draw the tap with water falling. Then draw the falling things you saw from the window, with a tally mark for each.
+- **record:** Count your tally marks and write the number. Then tell a grown-up which falling things you saw, or draw them.
 - **s1 (3 min)**  
-  *Parent does:* Turn a tap on just a little, so a thin stream comes out. Your child watches where the water goes. Then pour water from one mug into another.  
+  *Parent does:* Turn a tap on just a little, so a thin stream comes out. Your child watches where the water goes. Then your child pours water from one mug into another.  
   *Parent says:* Watch the water from the tap. Which way does it go? Could you ever make it fall up?  
-  *Child mode:* Watch the water. Which way does it go?
+  *Child mode:* Watch the water from the tap. Then pour water from one mug into another.
   - Ask: Which way did the water go? (good: Down.; Straight down into the mug.)
   - Note: In most flats the water comes from a tank on the roof, down the pipes to your tap. The Earth's pull brings it to you.
 - **s2 (6 min)**  
@@ -315,7 +315,7 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Child mode:* Count your marks. Did anything fall up?
   - Check: A dry leaf comes off a potted plant. Where does the leaf go? → **Down to the floor**
 ### a3 · Fall Like a Leaf, Fall Like a Stone (8 min)
-- **record:** Draw a stone, a leaf and a feather. Next to each one, draw how it fell: straight down and fast, or swinging and slow.
+- **record:** Your grown-up takes a photo of you falling like a stone, and another of you falling like a leaf. Then tell them which one was fast and which one was slow.
 - **s1 (5 min)**  
   *Parent does:* Name one thing at a time: a stone, a leaf, a feather, a raindrop, a balloon, a ball. Your child falls gently down onto the mat the way it falls.  
   *Parent says:* You are a stone. Let go! Now you are a leaf. How does a leaf fall? Now a feather. Now a ball. What does a ball do when it lands?  
@@ -324,23 +324,23 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **s2 (2 min)**  
   *Parent does:* Your child jumps as high as they can, three times, and tries to stay up.  
   *Parent says:* Now jump as high as you can. Try to stay up in the air. Did you stay up? What brought you down?  
-  *Child mode:* Jump high. Try to stay up. What brought you down?
+  *Child mode:* Jump as high as you can, three times. Try to stay up in the air.
   - Ask: What brought you down? (good: The Earth pulled me.; Gravity.; I always come back down.)
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* One question about jumping.  
-  *Child mode:* Answer one question.
+  *Child mode:* Think about the top of your jump.
   - Check: You jump as high as you can. What happens next? → **You come back down**
 
 ## Projects
 ### p1 · The Wall Marble Run (30 min, 2 days)
 - **safety:** Marbles and beads can choke babies and toddlers. Keep them out of reach of little brothers and sisters.
-- **record:** Draw your marble run. Draw arrows showing which way the marble went at each tube.
+- **record:** Take a photo of your marble run. Then trace the marble's path with your finger and tell a grown-up which way it went. Or draw the run with arrows.
 - **schedule:** day 1: Cut some tubes in half to make open chutes, and tape the first tubes onto the door, sloping down. (15 min); day 2: Add more tubes, test the marble run, and try to make the marble go uphill. (15 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* A grown-up cuts two or three tubes in half the long way, to make open chutes. Keep the other tubes whole.  
   *Parent says:* We will make a path for a marble, down a cupboard door. Some tubes we keep whole. Some we cut open, so we can watch the marble roll.  
-  *Child mode:* We are making a path for a marble. It goes down the door.
+  *Child mode:* Watch your grown-up cut the tubes. Pick which tubes stay whole.
   - Note: Cut away from your hands. Your child can hold the tube steady.
 - **s2 (10 min)**  
   *Parent does:* Tape the first tube high up on the door, sloping down. Tape the next one below it, sloping the other way, so the marble drops from one into the next.  
@@ -356,18 +356,18 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **s4 (5 min)**  
   *Parent does:* Tape one tube at the end sloping upwards. Your child tries to make the marble climb it.  
   *Parent says:* Can you make the marble roll uphill? Try it. How far up does it go?  
-  *Child mode:* Can the marble roll uphill? Try it. What happens?
+  *Child mode:* Roll the marble at the uphill tube. Watch how far up it goes.
   - Ask: What happened on the uphill tube? (good: It went up a little, then came back.; It could not climb to the top.)
   - Note: A fast marble can roll a little way uphill, then it rolls back. It never climbs higher than where it started. The Earth's pull wins in the end.
 - **s5 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* One question about the marble run.  
-  *Child mode:* Answer one question.
+  *Child mode:* Think about where the marble ends up.
   - Check: You make a marble run and put a marble at the top. Which way does the marble always go in the end? → **Down to the bowl at the bottom**
 
 ## Challenges
 ### c1 · Hold Up a Toy Without Your Hands (15 min)
-- **problem:** You want a small soft toy to stay up in the air for one minute, so you can draw a picture of it. You cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can you keep it up?
+- **problem:** You want a small soft toy to stay up in the air for one minute. You cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can you keep it up?
 - **your turn:** Find two different ways to keep the toy up. What is the toy's support each time? What happens if you take that support away?
 - **constraints:** The toy must be up in the air, not sitting on a floor, table, bed or shelf.; Nobody may hold the toy.; Use only things from home.; The toy must stay up for one whole minute.
 - **general:** A cradle hangs from a hook or a beam, and holds a baby up.; Clothes pegs hold wet clothes up on a washing line.; Cable cars, like the ones in Gangtok and other hill towns, hang from strong cables.
@@ -375,17 +375,17 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Put the toy and the materials on the floor.  
   *Parent says:* The toy has to stay up in the air for one minute. You can't hold the toy. What could hold the toy up instead?  
-  *Child mode:* The toy must stay up. You can't hold the toy. What could hold the toy?
+  *Child mode:* Look at the things on the floor. Pick the ones you could use to hold up the toy.
   - Ask: What could hold the toy up? (good: A string.; The dupatta, like a swing.; A peg on the hanger.)
 - **s2 (9 min)**  
   *Parent does:* Your child tries their ideas. Time one minute for each. Help with knots only if asked.  
   *Parent says:* Try your idea. Start the timer. Is the toy still up? What is holding the toy now?  
-  *Child mode:* Try your idea. Is the toy still up? What is holding the toy?
+  *Child mode:* Build your holder. Hang the toy. Watch for one whole minute.
   - Note: If the toy keeps slipping, ask where the toy is slipping from, and what could hold that part.
 - **s3 (3 min)**  
   *Parent does:* Ask what worked, and what the support was. Then ask the check question.  
   *Parent says:* Which way worked best? What was the toy's support? What would happen if we cut the string?  
-  *Child mode:* What held the toy up? What if we cut the string?
+  *Child mode:* Show your grown-up which holder worked best. Point to the support.
   - Check: A teddy hangs from a string. You cut the string. What happens? → **The teddy falls down**
 
 ## Worksheets

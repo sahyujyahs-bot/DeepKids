@@ -1,7 +1,7 @@
 # Me and others: how we are alike, and how we are different
 `sci.me-and-others.me-and-others.L1`
 
-**Summary.** Give everyone at home a bit of jaggery and a bit of karela. Everyone gets the same food, but the faces they make are not the same. All people have the same body parts and need the same things: food, water, sleep and people who love them. Yet each of us looks, sounds and likes things in our own way. In this unit you look in a mirror to find what you share with your family, test who likes which taste, and practise being kind to people who are different from you.
+**Summary.** Does everyone in your family make the same face when they taste something sour or bitter? In this unit you will look in a mirror to see what you share with others, run a taste test at home, and play a game to find who is like you.
 
 **Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.
 

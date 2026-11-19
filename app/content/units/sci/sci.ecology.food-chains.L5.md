@@ -1,7 +1,7 @@
 # Food webs: what happens when one link disappears
 `sci.ecology.food-chains.L5`
 
-**Summary.** Hunters once killed almost all the sea otters around many islands of the North Pacific. Soon the tall seaweed forests there were gone too, though nobody had cut any seaweed. Sea otters eat sea urchins, and sea urchins eat seaweed. A food web joins all the living beings of a place by who eats whom. So a change to one being passes on to others. Your child counts the links in a web and tests which kind of web loses more when beings disappear. They also find out what keeps numbers in nature steady.
+**Summary.** When hunters killed the sea otters of the North Pacific, the tall seaweed forests there vanished too, though nobody cut any seaweed. How? In this unit you will turn food chains into a web, test which kind of web loses more when beings go, and find what keeps numbers steady.
 
 **Intro.** *A farmer finds a rat snake in her paddy field. Her neighbours tell her to kill him. The snake has never eaten one grain of paddy. Would her harvest be bigger or smaller without him?* A rat snake eats rats, and rats eat paddy. So the snake and the paddy are joined, though the snake never touches a grain. A food web is a map of all such links in one place. In this unit you learn to read that map. You find out what happens to a web when one being disappears, and why some webs cope better than others. You also find out what keeps the numbers of plants and animals steady from year to year.
 

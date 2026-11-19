@@ -1,7 +1,7 @@
 # Sun, Moon and stars: what lights and warms our sky
 `sci.sky.sun-moon-stars.L1`
 
-**Summary.** Hold your hand in a patch of sunshine, and it soon feels warm. The Sun gives us light and heat, even though it is very far away. At night the Sun's light is gone from our sky, and we can see the Moon and the stars. The Moon makes no light of its own: it shines because the Sun lights it up. The stars are there in the daytime too. In a torch test, your child finds out why we cannot see them by day.
+**Summary.** Where do the stars go in the daytime? In this unit you will look at the sky from a window, test stars hiding in daylight with a torch, see which ice cube melts first in sun or shade, and sort cards into day sky and night sky.
 
 **Intro.** *Hold your hand in a patch of sunshine for a slow count of twenty. Now hold it in the shade. What do you feel?* In the sunshine your hand gets warm. In the shade it stays cooler. The Sun is very, very far away, but its light still reaches your hand and warms it. At night that sunlight is gone from our sky, and the Moon and the stars show up. But where are the stars in the daytime? In this unit you find out.
 

@@ -1,7 +1,7 @@
 # The Sun up close: layers, spots, storms and the wind that blows past the Earth
 `sci.sky.the-sun.L4`
 
-**Summary.** A picture of the Sun shows a smooth, bright ball with a sharp edge, as if it had a skin. But the Sun has no ground at all. It is hot gas from the middle to the outside, and its edge is only the place where the glowing gas becomes clear enough for light to escape. Dark spots drift across the face, vanish at one edge and come back about two weeks later, which shows that the Sun spins. Your child makes a cloud to find out what an edge really is, boils a pot to see how the Sun churns, splits light into colours, and builds a spinning model to follow a spot. The unit ends with a surprise: the Sun's wind blows past the Earth, so we live inside the Sun's outer atmosphere.
+**Summary.** The Sun looks like a ball with a sharp edge, but it has no ground at all. So what is its edge? In this unit you will make a glowing fog to see where a ball of gas ends, boil a pot to see how the Sun churns, and sort clues into its layers.
 
 **Intro.** *If you flew to the Sun in a spacecraft and tried to land, where would you put your feet? The Sun looks like a ball with a skin, but there is no ground to stand on. It is gas all the way to the centre. So what is the edge that we see in every picture?* The edge is real to our eyes, but it is not a wall. It is the place where the hot gas becomes clear enough for light to get out and reach us. Above that edge the Sun does not stop. Thin, hot gas goes on for millions of kilometres, and a wind from it blows past the Earth. In this unit you make your own glowing cloud to find out what an edge is, and you follow dark spots across the Sun to prove that it turns.
 

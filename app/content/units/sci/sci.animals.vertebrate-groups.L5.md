@@ -1,7 +1,7 @@
 # In-between animals: mammals that lay eggs, fish that breathe air, and what the five groups tell us about evolution
 `sci.animals.vertebrate-groups.L5`
 
-**Summary.** A platypus has fur and feeds her babies milk, yet she lays eggs. A murrel in a village tank is a fish, yet she must come up to breathe air. A crow on the window grill is a living dinosaur. Why do these animals not fit neatly into the five groups? The five groups are branches of one family tree, and their features arrived one at a time over hundreds of millions of years. Your child tests how much air cold and warm water can hold, and works out which features came first. They find out why lungs are older than legs and why milk is older than birth without an egg.
+**Summary.** A platypus has fur and feeds her babies milk, yet she lays eggs. A murrel is a fish, yet she comes up to breathe air. In this unit you will test how much air cold and warm water hold, put animal features in order of arrival, and find old leftover parts in your body.
 
 **Intro.** *Which came first in the history of animals: lungs or legs? And which came first: milk, or babies born without an egg? Say what you think, and why.* Many people guess that lungs and legs arrived together, when animals first moved onto land. Many also guess that birth came before milk. In the first activity, the Feature Ladder, you tick the features of seven animals and read the order from your own table. Two animals settle the question: a fish with lungs and a mammal who lays eggs. Then you test why a fish would ever need to breathe air.
 

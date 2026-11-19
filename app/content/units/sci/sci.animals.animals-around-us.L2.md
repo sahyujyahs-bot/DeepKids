@@ -1,7 +1,7 @@
 # Animals around us: coverings, legs, wings and fins
 `sci.animals.animals-around-us.L2`
 
-**Summary.** A crow stands on two legs, a cat on four and an ant on six. Animals are covered in hair or fur, feathers, scales, a shell or bare skin. They move with legs, wings, fins, or their whole body. You count an ant's legs, look closely at your own hair and nails, and build a dough animal to test how many legs a body needs to stand without help. You also sort the animals you see into pets, farm animals and wild animals, and find that many wild animals live right next to us.
+**Summary.** How many legs does a body need to stand still? In this unit you will count an ant's legs, make animals from dough with different numbers of legs to test how well they stand, and play a snap game sorting animals by what covers their bodies.
 
 **Intro.** *A crow on the window ledge has two legs. The cat downstairs has four. The ant on the kitchen floor has six. Why do animals come with so many different numbers of legs?* Animals around us look very different. A crow is covered in feathers, a cat in fur, a gecko in tiny scales and you in skin and hair. A fish swims with fins, a crow flies with wings, and a snake slides along with no legs at all. Scientists compare animals by looking at their bodies, part by part. In this unit you count legs, compare coverings and test how many legs a body needs to stand without help.
 

@@ -1,7 +1,7 @@
 # Animal societies: how elephants, ants and wolves live and decide together
 `sci.animal-behaviour.animal-societies.L3`
 
-**Summary.** Many animals live in groups that work together. A group like this is called a society. An elephant family is led by the oldest female, often a grandmother, because she remembers the most: where to find water in a dry year, and which dangers are real. An ant colony has a queen, but she does not give orders. Thousands of worker ants decide together, by leaving scent trails and following each other. A wolf pack is a family: a mother, a father and their young, who hunt together and raise the pups together. Humans are animals that live in societies too.
+**Summary.** When ants find sugar, who decides which drop the colony chooses? In this unit you will watch an ant road for five minutes, put out weak and strong sugar and count the ants, draw an elephant family tree, and sort animals into herds, colonies and packs.
 
 **Intro.** *Put one drop of sugar water near a line of ants and watch. One ant finds the drop. A few minutes later there are five, then twenty. Nobody can see an ant giving orders. So how does a crowd of ants agree where to go?* Ants are not the only animals who act together. Elephants walk in families led by a grandmother. Wolves hunt as a family. In this unit you test how ants choose between two foods, and you find out who leads an elephant family and a wolf pack, and why. You also find out about a famous mistake scientists made about wolves.
 

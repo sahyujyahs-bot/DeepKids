@@ -1,7 +1,7 @@
 # Healthy food: foods that help us grow, give us energy and protect us
 `sci.food.healthy-food.L2`
 
-**Summary.** Stir a little spit into thick rice-flour paste, and in ten minutes the paste turns runny. Stir in water instead, and it stays thick. Spit starts to cut starch into sugar. Rice, ragi and chapati are full of starch, and your body uses the sugar from it for energy. Your child sorts foods by the three jobs they do: help us grow, give us energy, and protect us. They also find out why sweets and fried snacks are treats, good in small amounts.
+**Summary.** Spit makes thick rice paste go runny, but water does not. Why? In this unit you will run that spit test, sort your own lunch into foods that help you grow, give you energy or protect you, and play a card sorting game with the same three jobs.
 
 **Intro.** *A plain chapati does not taste sweet. But chew a piece for a long time, and it does start to taste a little sweet. Why would that happen?* Many children notice that a chewed chapati starts to taste a little sweet. Something in your mouth is changing the food. In this unit we test what spit does to rice-flour paste. We find out why food gives us energy. We also sort foods by their jobs: some help us grow, some give us energy, and some protect us from getting ill. And we ask why sweets are treats, not every-meal foods.
 

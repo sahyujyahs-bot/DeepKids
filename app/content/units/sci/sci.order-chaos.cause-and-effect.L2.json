@@ -3,7 +3,7 @@
  "title": "Cause and effect: how one push knocks down a whole line",
  "level": 2,
  "summary": {
-  "text": "Push the first domino in a line, and the last one falls too, even though you never touched it. Each domino falls because the one before it hits it. What makes something happen is called the cause. What happens is called the effect. In a line of dominoes, every domino is the effect of the one before and the cause of the next. If one gap is too wide, the chain of causes stops there, and the rest of the line stays standing.",
+  "text": "You push only the first domino in a line, yet the last one falls. How does your push get all the way along? In this unit you will build domino lines and test how far apart they can stand, push a chain of coins, and play detective to find what caused things.",
   "art": "A child's finger pushing the first of ten matchboxes standing on end in a line on a tiled floor. The first few have fallen, and the rest are still standing."
  },
  "intro": {

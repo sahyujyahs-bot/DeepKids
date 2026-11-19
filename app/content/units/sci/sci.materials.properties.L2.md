@@ -1,7 +1,7 @@
 # Properties of materials: which let light through, and which keep water out
 `sci.materials.properties.L2`
 
-**Summary.** You can see clearly through a clear polythene bag. So does water go through it too? Your child tests five materials from home. They look at a window through each one, and pour a spoon of water on each one. Light passes through the polythene, but the water stays on top. Your child also learns words for what materials are like: waterproof, stretchy, strong, transparent, translucent and opaque.
+**Summary.** You can see through a clear polythene bag, so does water go through it too? In this unit you will test five materials from home by looking through each at a window and pouring water on each. You will also test which way a thread is strong.
 
 **Intro.** *Hold a clear polythene bag up to the window. You can see the trees and the sky through it. Now guess: if you pour water on it, will the water go through too?* Most children guess yes. They think that if light can get through, water should get through too. You are going to test it. A property is what a material is like, such as waterproof or see-through. Every material has many properties. Some of them surprise us, so we test them.
 

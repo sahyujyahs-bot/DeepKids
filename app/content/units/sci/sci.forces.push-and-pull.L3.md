@@ -1,7 +1,7 @@
 # Pushes and pulls: what a force is and which way it acts
 `sci.forces.push-and-pull.L3`
 
-**Summary.** When you push a wall, the wall pushes you back just as hard. Every push and every pull is a force. Forces start things moving, stop them, speed them up, slow them down and turn them. Every force acts in a direction, so we draw it as an arrow. Some forces work only by touching, but gravity and magnetic forces work across a gap. Deep down, a touching push comes from electrons, the tiny particles in the outer part of every atom. The electrons in two things push each other away.
+**Summary.** When you push a wall, the wall pushes you back just as hard. How can a wall push? In this unit you will test it, launch a balloon rocket, play a tug-of-war card game with force arrows, and draw six everyday forces as arrows.
 
 **Intro.** *Try this. Stand facing a wall, about one step away. Put both palms on the wall and push. Did the wall move? You can feel something pressing back on your palms. What is it?* In a tug of war, everyone watches the rope. Each team pulls as hard as it can. One team slides forward and loses. Most people say the winners pulled harder on the rope. But the rope is one rope. Can it pull one end harder than the other? By the end of these lessons, you will be able to answer that. You will also know what decides which team wins.
 

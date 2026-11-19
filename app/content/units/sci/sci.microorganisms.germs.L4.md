@@ -1,7 +1,7 @@
 # Germs, medicines and vaccines: how the body and medicine meet an infection
 `sci.microorganisms.germs.L4`
 
-**Summary.** Two children both have a sore throat. The doctor gives one of them tablets and sends the other home with warm water and rest. The doctor is not being unfair. Tablets that kill bacteria do nothing to viruses, and most sore throats are caused by viruses. Your child finds out what a medicine really does by testing which kitchen things stop a living microbe, and by playing a game in which a medicine leaves a few tough germs behind. Then they learn how a vaccine shows the body a safe picture of a germ, so that the body is ready, and why one vaccinated child protects the child sitting next to her.
+**Summary.** Two children have a sore throat, and the doctor gives tablets to only one. Why? In this unit you will test which kitchen things slow a living microbe, play a rice and dal game in which a medicine leaves a few tough germs behind, and see how a vaccine prepares the body.
 
 **Intro.** *A child in a class has measles. Most of the other children sit in the same room and do not catch it. Their bodies were ready for the germ before the germ arrived. What made them ready?* In this unit you find out what happens inside a body when germs get in, and what medicines can and cannot do. You test which kitchen things slow down a living microbe. You play a game with rice and dal in which a medicine leaves a few tough germs behind, and see what those survivors do next. And you learn, in plain words, how a vaccine works and why it protects people who never had it.
 

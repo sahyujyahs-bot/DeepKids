@@ -1,7 +1,7 @@
 # How animals breathe and find their food
 `sci.animals.animal-bodies.L3`
 
-**Summary.** A rohu fish spends a whole life under water, yet breathes all day. Almost every animal needs oxygen, a gas found in air and dissolved in water, because their cells use it to get energy from food. Animals take oxygen in with lungs, gills, damp skin or tiny air pipes, and they breathe out carbon dioxide made from their food. To find that food, they use their senses, including some we do not have, like a bat's echolocation. Scientists still argue about how lungs first appeared, and why earthworms crawl out after rain.
+**Summary.** Why do you breathe faster after you run, and how does a fish breathe under water? In this unit you will count your breaths before and after jumping, make a bottle lung, test your breath with limewater made from chuna, and find hidden smells like an animal does.
 
 **Intro.** *Try this. Hold a steel tumbler close to your mouth and breathe out on it slowly, three times. What appears on the steel? Your breath carries something out of your body. A fish breathes too, but under water. How does a fish do that?* In summer, when village ponds in Bengal and Assam dry up, people sometimes dig in the damp mud and find fish still alive. One of them, the climbing perch, can live out of water for hours if they stay damp. They can even wriggle across wet grass to the next pond. They can do this because they breathe air as well as water. How does a fish breathe air? And how does any animal, in water, mud or sky, get the oxygen and the food they need?
 

@@ -1,7 +1,7 @@
 # Community helpers and shared things: how a neighbourhood keeps going
 `sci.community.community-and-helpers.L3`
 
-**Summary.** A neighbourhood runs on the work of many people: the milk delivery person, the sweeper, the postwoman, the nurse and the shopkeeper. It also runs on things that many people share, such as a water tank, a lift, a park or a pond. In this unit you list the helpers who keep your building going, and find out what public services like schools, health centres, the post office and the municipality do. Then you run the Shared Pond Test with your family. A bowl of chana stands for a pond of fish, and you play once in silence and once after agreeing a rule. You find out why some shared things run out and others last for hundreds of years.
+**Summary.** Who keeps your building going when you do not see them? And what happens to a pond everyone shares? In this unit you will list the helpers you hardly see, interview a worker near home, and test whether agreeing a rule stops a shared pond running out.
 
 **Intro.** *Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the water lorry came?* A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this unit you test what keeps a shared thing going, with a bowl of chana and your own family.
 

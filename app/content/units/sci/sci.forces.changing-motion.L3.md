@@ -1,7 +1,7 @@
 # Forces change shape, speed and direction
 `sci.forces.changing-motion.L3`
 
-**Summary.** Press a ball of dough and it stays flat. Squeeze a sponge and it springs back. Press a biscuit and it breaks. A force is a push or a pull. It can change a thing's shape by squashing, stretching, twisting or bending it. Forces also start, stop, speed up, slow down and turn moving things. A bouncing ball is squashed for a moment, too fast to see. Even a steel table changes shape a tiny bit when you press it. Pushes and pulls also shape your bones, trees and the Himalayas.
+**Summary.** Press dough and it stays flat, squeeze a sponge and it springs back, press a biscuit and it breaks. Why? In this unit you will drop clay from different heights, catch a bouncing ball in a wet print, and build a paper bridge that holds weight.
 
 **Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it. They lay a mirror on the table and bounce a laser beam off it onto a far wall. When the table bends, the mirror tilts a tiny bit, and the dot of light on the wall moves.* Get a ball of chapati dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.
 

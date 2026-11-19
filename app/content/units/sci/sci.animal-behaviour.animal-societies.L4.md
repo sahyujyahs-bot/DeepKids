@@ -1,7 +1,7 @@
 # Hives, mounds and nests: how bees, wasps and termites share the work
 `sci.animal-behaviour.animal-societies.L4`
 
-**Summary.** A worker honeybee spends her first days cleaning empty cells. A few weeks later she flies kilometres to find flowers. Nobody tells her when to change jobs. Honeybees, paper wasps, termites and even one kind of mole-rat live in societies where only a few animals have young and everyone else shares the work. Your child tests whether splitting a job really makes it faster, and what a society risks by doing it. They learn how the scouts of a swarm pick its new home with no ruler, and why, when a crowd each guesses a number, the middle guess is often closer to the truth than most of the single guesses.
+**Summary.** Bees, wasps and termites live in big colonies and share the work. Does splitting a job really make it faster? In this unit you will watch ants at a trail, test whether splitting a job helps, and play a game of which bee does what.
 
 **Intro.** *A worker honeybee lives only about six weeks in summer. In that time she does five or six different jobs. Who decides when she changes?* In her first days a worker honeybee cleans empty cells in the comb. Then she feeds the young. Then she builds wax and guards the door. Last, she flies out for nectar. No bee gives her orders. In this unit you split a job among yourselves, to see what a hive gains and what it risks. You also watch ants at work, act out a bee's dance, and play a game where scouts choose a new home.
 

@@ -1,7 +1,7 @@
 # Heat and temperature: why the same heat warms oil faster than water
 `sci.energy.heat.L4`
 
-**Summary.** Stand a tumbler of cooking oil and a tumbler of water in the same bath of hot water, and the oil warms up about twice as fast. A small katori of water at 60 degrees melts less ice than a big bowl of water at only 40 degrees. Your child measures both with a thermometer. They find that temperature says how hot a thing is, while the heat it can give depends on how much of it there is and what it is made of. Then they watch a thermometer stay still while ice melts, blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a burning groundnut.
+**Summary.** Stand oil and water in the same hot bath, and the oil warms about twice as fast. Why? In this unit you will test both with thermometers, see whether a small katori of hot water or a big bowl of warmer water melts more ice, and watch a thermometer stay still while ice melts.
 
 **Intro.** *Two steel tumblers stand in the same pan of hot water. One holds a katori of cooking oil and the other a katori of water. Both started at room temperature. After ten minutes, one of them has warmed far more than the other. Which one, do you think? And why?* The pan gives the same heat to both tumblers, yet they do not end up the same. In this unit you test this with two thermometers. You find out why a small cup of hot water can melt less ice than a big bowl of warm water. You watch a thermometer stay still while ice melts, though heat keeps going in. You blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a groundnut.
 

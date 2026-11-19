@@ -1,7 +1,7 @@
 # Fast and slow: how to tell who is faster in a race
 `sci.motion.speed.L2`
 
-**Summary.** If you cross a room with tiny, quick steps, your feet move fast but you take longer to get there. Speed is how fast something moves: how far it goes in a stretch of time. There are two fair ways to find the faster one in a race. Over the same distance, the one who arrives first is faster. In the same time, the one who goes further is faster. Your child races across the room in different ways, counts claps, and finds that a slow walker with a head start can win a short race but lose a long one.
+**Summary.** Can a slow walker beat a fast one? Yes, with a head start, but only in a short race. In this unit you will race across the room with tiny steps, giant steps and your ordinary walk, count claps to keep time, and run a head-start race to see who wins.
 
 **Intro.** *Cross the room taking tiny steps, as fast as your feet can go. Then cross it again, walking the way you always walk. Which way got you there first?* Fast feet do not always mean a fast walk. In this unit you find out what speed is, and how to tell who really is faster. You learn to count time with steady claps. You find the two fair ways to judge a race. Then you work out why the walker who looks busiest is not always the one who wins.
 

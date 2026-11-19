@@ -1,7 +1,7 @@
 # Air around us: we cannot see it, but we can feel it
 `sci.air.air-around-us.L1`
 
-**Summary.** Sit very still with the fan off, and you feel no air at all. Yet a plastic bag swept under the bed comes back puffed up and full. Air is all around us, in every corner, even where a place looks empty. We cannot see it, because light goes straight through it. We feel it when it moves against our skin, and we see what moving air pushes. Humans and other animals breathe it, and plants take it in through their leaves.
+**Summary.** Sit still with the fan off and you feel no air, so is there any air at all? In this unit you will catch air in a bag, feel moving air on your skin, and blow paint around with a breath.
 
 **Intro.** *Hold your hand in front of your face and look between your fingers. Can you see anything there? Now wave your other hand fast near your cheek. What did you feel?* You saw nothing, but you felt something. That something is air. Air is all around us, but we cannot see it. In this unit we catch air in a bag in every corner of the home. We find out when our skin can feel air, and when it cannot. And we watch what moving air can push.
 

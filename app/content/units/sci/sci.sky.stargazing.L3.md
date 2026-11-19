@@ -1,7 +1,7 @@
 # Constellations and nakshatras: the star patterns people see from Earth
 `sci.sky.stargazing.L3`
 
-**Summary.** The seven stars of the Saptarishi look like a ladle, but they are not close together in space. Five of them are about 80 light-years away. The other two are much further. A constellation is a pattern of stars that people have named, and it has its shape only when seen from near Earth. People in every culture joined the stars into pictures and told stories about them. In India, astronomers split the Moon's path across the sky into 27 parts, the nakshatras. The Moon moves into about one new nakshatra each day. Stars also move very slowly, so in tens of thousands of years the constellations will change shape.
+**Summary.** The seven stars of the Saptarishi look like a ladle. Are they really close together? In this unit you will build a thread model to find out, test how long your eyes take to see faint stars, and play a game that follows the Moon through the nakshatras.
 
 **Intro.** *Look at a picture of the Saptarishi, the seven bright stars that make a ladle in the northern sky. They look like seven lamps hanging side by side. Are they really side by side, or could some be much further away than others? How could we tell from down here?* Every culture has looked at the night sky and joined the stars into pictures. In this unit you build a model of the Saptarishi with thread, using the real distances of its stars, and look at it from the side. You learn the nakshatras, the 27 star groups that the Moon passes through each month. You also find out how an astronomer showed, about 300 years ago, that the stars are moving.
 

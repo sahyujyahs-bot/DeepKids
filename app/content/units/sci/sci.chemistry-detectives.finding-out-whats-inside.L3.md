@@ -1,7 +1,7 @@
 # Chemistry detectives: how ink and flames show what things are made of
 `sci.chemistry-detectives.finding-out-whats-inside.L3`
 
-**Summary.** A black sketch pen seems to hold one black ink. Put a dot of it on a paper strip and let water climb the paper. The black spreads out into other colours, such as blue, purple or yellow. Most black ink is a mixture: several dyes mixed together. The water carries each dye a different distance, so the dyes come apart. This way of separating a mixture is called chromatography. A flame can also show what is inside a thing. Salt turns a blue gas flame yellow-orange, because salt has sodium in it. Each element gives a flame its own colour. Chemists use tests like these to find out what things are made of. They have even found out what the Sun is made of.
+**Summary.** A black pen looks like it holds one black ink. Is it really just one colour? In this unit you will make ink spread on wet paper, work out which pen wrote a secret note, and test flames to see what salt does to their colour.
 
 **Intro.** *Try this. Make a fat dot with a black sketch pen near the bottom of a strip of kitchen towel. Dip the very end of the strip in water, below the dot. Watch for five minutes. The water climbs, and the black dot starts to turn into other colours. Why would black ink turn into other colours?* Chemists are scientists who find out what things are made of, and how they change. Often they cannot see the answer with their eyes alone. So they use tests that make a thing show what is in it. In this unit you use two of their oldest tests. Wet paper pulls a mixture apart. A flame shows a colour for each element. Then you use them like a detective, to find out which pen wrote a secret note.
 

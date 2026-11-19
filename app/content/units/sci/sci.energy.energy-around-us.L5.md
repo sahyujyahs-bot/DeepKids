@@ -1,7 +1,7 @@
 # Energy at work: how energy makes things happen, and why a still table has energy too
 `sci.energy.energy-around-us.L5`
 
-**Summary.** Take an empty bottle out of the freezer, stand it on a table and put a wet coin on its mouth. The coin starts to click, again and again, and nobody is touching it. A bottle that was never in the freezer does nothing at all on the same table. Energy makes things move, light up, sound, heat up and cool down. Every machine at home only changes energy from one form to another. A still table and still air hold energy too. Your child finds out that this energy makes something happen only when it moves from one thing to another. They also trace the energy of a home and a street back to its sources, and learn to use electricity safely.
+**Summary.** Put a wet coin on an empty bottle from the freezer, and the coin starts to click with nobody touching it. A bottle that was not in the freezer does nothing. Why? In this unit you will test this yourself, look for energy in a still table, and join machines in an energy chain.
 
 **Intro.** *A fan needs electricity. A scooter needs petrol. You need breakfast. A table needs nothing and does nothing. So does a table have any energy at all?* Energy is what makes things happen. In this unit you watch a kitchen at work and find where the energy for each thing comes from. You find that a mixie, a stove and your own body all do the same job. They take energy in one form and give it out in another. Then you test the table. You put a cold bottle on it and a coin on the bottle, and you count what happens. By the end you can say what energy a still table has, and why that energy usually does nothing.
 

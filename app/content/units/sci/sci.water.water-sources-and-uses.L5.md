@@ -1,7 +1,7 @@
 # Fresh water and salt water: why so little of Earth's water can be drunk
 `sci.water.water-sources-and-uses.L5`
 
-**Summary.** Water covers most of the Earth, yet people in many places run short of water to drink. The reason is salt. Out of every 1,000 parts of Earth's water, about 975 are salty and only 25 are fresh. Of those 25 fresh parts, about 17 are frozen as ice and about 7 and a half lie under the ground. All the fresh lakes and rivers of the world together make less than one tenth of one part. Freezing and evaporation both take water out of salt water and leave the salt behind. That is how the sea keeps making fresh water.
+**Summary.** Most of Earth's water is sea water, so very little of it can be drunk. How little? In this unit you will share out one litre of Earth in numbers, freeze salty water to see if the ice keeps the salt, and test what salty water does to a potato.
 
 **Intro.** *From space the Earth looks blue, because water covers most of the surface. So why does a sailor in a lifeboat, with water all around, have nothing to drink?* The water around the sailor is sea water, and sea water is salty. A person who drinks sea water ends up with less water in the body than before. In this unit you measure how much of Earth's water is fresh. You freeze salty water to see where the salt goes. You put sticks of potato in salty water to see what salt does to living cells. You melt ice that is already floating in water. You also melt ice that rests above the water, the way ice on land does. Then you see which one raises the level. Then you take water from a jar of fresh and salty layers, as the people of an island do.
 

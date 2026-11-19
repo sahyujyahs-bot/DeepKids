@@ -1,7 +1,7 @@
 # Five groups, five worlds: how fish, frogs, snakes, birds and mammals sense the same place
 `sci.animals.vertebrate-groups.L4`
 
-**Summary.** At a pond in Mysuru at dusk, a fish feels a falling insect through ripples on her skin. A python in the reeds finds a warm rat with pits on her lips that feel heat. A pigeon sees colours you cannot, and a dog follows a smell that is hours old. All of them have a backbone, so all are vertebrates. Yet each group has a different sense that stands out, because each sense fits the way that animal lives. In this unit you test your own eyes, skin and ears the way these animals use theirs, and ask whether they all live in the same world.
+**Summary.** A fish can feel ripples with her skin, and some snakes can sense the heat of a mouse. Do all animals sense the same world? In this unit you will test how far round you can see, feel ripples with your hands, and guess an animal group from its sense.
 
 **Intro.** *A barn owl sits on a beam in a granary with every light switched off. She hears a rat nibble ragi on the floor, drops silently, and catches him. She never needed to see him. How can an animal hunt well in complete darkness, and what other senses do animals have that we do not?* People often say there are five senses: sight, hearing, smell, taste and touch. Animals with a backbone have those, and more. A fish has a line of tiny sensors along her sides that feel water move. Some snakes have pits that feel the heat of a warm body from a distance. Many birds see colours that people cannot see at all. In this unit you look at the five groups of animals with a backbone: fish, amphibians, reptiles, birds and mammals. You ask what each group senses best, and how you can test a little of it with your own body.
 

@@ -3,7 +3,7 @@
  "title": "Design and build: make it, test it, make it better",
  "level": 3,
  "summary": {
-  "text": "A first design almost never works perfectly, and a test shows where it goes wrong. Engineers design things for a purpose. They plan, choose materials, build, test and then improve. In this unit you build a boat from one square of aluminium foil and load it with coins until water comes in. You watch where the water comes in, change one thing and test again. A boat floats because the water pushes it up, and a wider boat with taller sides can push aside more water. You also test which kitchen paste joins paper best.",
+  "text": "A tiny foil boat can float and carry a load, but only if it is shaped well. In this unit you will build a foil boat, test it and make it better, find which kitchen paste joins paper best, and hunt for the weak spot in a design.",
   "art": "A child kneeling by a bucket of water, floating a small square foil boat loaded with coins, with two earlier crumpled foil boats and a notebook of drawings beside the bucket."
  },
  "intro": {

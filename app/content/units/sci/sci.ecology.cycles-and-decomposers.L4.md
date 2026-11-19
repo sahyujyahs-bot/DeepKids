@@ -1,7 +1,7 @@
 # Where does the log go? How dead things return to the air and the soil
 `sci.ecology.cycles-and-decomposers.L4`
 
-**Summary.** A coconut palm falls in a storm, and two years later the trunk is soft, then crumbly, then gone. Where did it go? You test a jar of soil with limewater and find that the soil breathes out a gas. You chop carrots to see why small pieces rot first, and you grow methi in rotted stuff to see if it feeds a new plant. You learn that matter goes round and round, while energy flows through and leaves as heat. You also meet the vultures of India, and what happened when a painkiller took the cleanup crew away.
+**Summary.** A fallen log slowly vanishes. Where does it go? In this unit you will look closely at one spoon of soil, show that a jar of soil breathes out a gas, test whether chopping up leaves makes them rot faster, and follow who eats one meal's leftovers.
 
 **Intro.** *A big coconut palm falls in a storm. Nobody moves it. Come back in two years, and the trunk is gone. There is no heap of wood and nobody carried it away. Where did all that tree go?* A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this unit you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.
 

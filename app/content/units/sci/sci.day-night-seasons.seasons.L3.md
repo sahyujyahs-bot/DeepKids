@@ -1,7 +1,7 @@
 # Seasons: how plants, animals and people change through the year
 `sci.day-night-seasons.seasons.L3`
 
-**Summary.** Every year in India, the hot months, the rains and the cool months come round again in the same order. These parts of the year are called seasons. Summer is hotter because the midday Sun is higher, so its light falls more straight down and lands on a smaller patch of ground. Each bit of ground then gets more of the light. Plants, animals and people all change with the seasons. Many trees drop their leaves in the dry months, frogs breed in monsoon puddles, ducks fly in from Central Asia for the winter, and families switch to cotton, buttermilk and mangoes in summer. In this unit you pull a hidden yellow colour out of a green leaf, and find out why leaves turn yellow before they fall.
+**Summary.** Why is summer hotter than winter, and why do leaves turn yellow? In this unit you will shine a torch straight and slanting to see how far its light spreads, find the hidden yellow in a green leaf, and play a game matching living things to seasons.
 
 **Intro.** *A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or is she doing this on purpose?* The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this unit you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.
 

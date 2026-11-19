@@ -1,7 +1,7 @@
 # Sorting animals into groups: testing rules against the hard cases
 `sci.classification.sorting-living-things.L4`
 
-**Summary.** A bat flies like a crow, but her relatives are cats and cows. A dolphin swims like a shark, but she breathes air and feeds her baby milk. So how do scientists decide which animals belong together? They test every rule against the hard cases, such as the egg-laying platypus, the flightless penguin and the legless snake, and keep only the rules that do not break. This unit sorts animals with and without a backbone, then follows the family tree, where the word fish turns out not to name one family.
+**Summary.** A bat flies and a dolphin swims, so which one is a mammal? In this unit you will pick which two of a bat, a crow and a cat belong together, test sorting rules against hard cases to see which ones break, and sort animals with no backbone.
 
 **Intro.** *Take a bat, a crow and a cat. Which two belong together? Most people say the bat and the crow, because both fly. Look closer. The bat has fur, and her baby drinks her milk, just like a kitten. The crow has feathers and lays eggs.* Sorting by flying works if you only want to know who is in the evening sky. But the bat's fur and milk are clues to something else, which is her family. In this unit you test sorting rules on the animals that are hardest to sort, and you find rules that never break.
 

@@ -1,7 +1,7 @@
 # The immune system: how your body keeps germs out and fights them
 `sci.body.immune-system.L3`
 
-**Summary.** Germs land on your skin all day, yet most of them never get inside you. Germs are tiny living things that can make you ill. The immune system is everything your body does to keep germs out, and to fight the ones that get in. Your first walls are your skin, your tears, the sticky mucus in your nose, your saliva and the acid in your stomach. Germs that get past the walls meet white blood cells, which find them and eat them. A fever is your brain turning up your body's heat to help the fight.
+**Summary.** A cut turns red and warm, so is your body fighting something? In this unit you will cry onion tears, test how an apple's skin keeps germs out, act as a white blood cell that eats germs, and take your temperature through the day.
 
 **Intro.** *Look at the skin on the back of your hand. Germs are landing on it right now, thousands of them. Most of them never get inside you. What is stopping them?* Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this unit you will find out. You will meet the defenders that guard your body every second, even while you sleep.
 

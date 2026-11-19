@@ -1,7 +1,7 @@
 # Keeping food safe: why food goes bad, and how to stop it
 `sci.food.food-safety.L3`
 
-**Summary.** Dal left out on a hot day turns sour and frothy by the next morning. Tiny living beings called microbes got into it, ate it and multiplied. Washing and covering keep microbes out of food. Cooking kills most of them, and a cold fridge slows the rest. Drying, salt, sugar and sourness keep food for months, which is how pickles and vadams last.
+**Summary.** Why does dal left out on a hot day turn sour by morning? In this unit you will test three dabbas of dal water to see which stays fresh longest, find out how many washes clean coriander, and drop food on the floor to test the five-second rule.
 
 **Intro.** *Smell a spoon of fresh curd, then a spoon of curd left out for two days. What changed? Nobody added anything to it.* Food goes bad even though nobody puts anything bad into it. Tiny living beings called microbes land on it from the air, from hands and from other food. In warm food they eat and multiply, and that is what you smell when food has gone bad. In this unit you find out how families keep food safe, and you test it with three dabbas of dal water.
 

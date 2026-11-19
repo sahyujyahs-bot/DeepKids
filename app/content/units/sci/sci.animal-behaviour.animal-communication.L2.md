@@ -1,7 +1,7 @@
 # How animals talk: the messages in barks, purrs and birdsong
 `sci.animal-behaviour.animal-communication.L2`
 
-**Summary.** A dog barks one way at a stranger and another way when she wants to play. Animals send each other messages with sounds, with their bodies and with touch. A sound or movement that carries a message to another animal is called a signal. Your child sends four messages using only the made-up word 'la-la', from behind a door, and finds out whether the tune of a sound can carry a message with no words at all.
+**Summary.** Can a message get through with only a tune and no words? In this unit you will test it by saying a message as 'la-la' for a friend to guess, hum a purr to feel it in your throat, and act out animal sounds for others to guess what they mean.
 
 **Intro.** *A dog is barking at the gate downstairs. You cannot see the dog. Is the dog saying 'go away', 'let's play' or 'I am lonely'? How could you tell, just by listening?* Animals talk to each other all day. Dogs bark and growl. Cats purr and hiss. Crows caw, koels call and crickets chirp at night. Each sound is a message for someone. In this unit you listen to animal sounds and find out what they mean. Then you test whether a message can get through with no words at all.
 

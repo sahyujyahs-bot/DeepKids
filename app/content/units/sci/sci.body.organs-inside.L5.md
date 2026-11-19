@@ -1,7 +1,7 @@
 # Organ systems: how the organs inside you share parts and work together
 `sci.body.organs-inside.L5`
 
-**Summary.** Sitting still, a child can count aloud for about 20 seconds on one breath. Straight after a minute of step-ups, the same child manages about 6 seconds. The lungs did not shrink. The voice uses the air that the lungs breathe out. After exercise your muscles use up oxygen fast, so your body makes you breathe in again much sooner. That cuts your voice short. Your organs are grouped into organ systems, such as the digestive, respiratory and circulatory systems. Some organs work in two systems, and the systems hand things to each other all day. Your child times their own voice, shares out 100 beans as blood, and measures their skin with one hand.
+**Summary.** Sitting still, you can count aloud for about 20 seconds on one breath. Straight after step-ups, you manage far fewer. Your lungs have not shrunk, so why? In this unit you will time your own voice before and after exercise, share out 100 beans as blood, and sort organs into the systems they work in.
 
 **Intro.** *Say 'aaaa' in one long, steady sound. In the middle of it, swallow. Your voice stops, every time. Why can you not make a sound and swallow at the same moment?* Your throat is one passage with two jobs. Air passes through it to the lungs, and food passes through it to the stomach. Your voice box sits at the top of the windpipe, so your voice needs the same air as your breathing. In this unit you learn the organ systems of the body and the organs in each one. You also find the places where two systems share one part. You time how long you can count on one breath, at rest and after exercise. You share out 100 beans to see where the blood goes when you run.
 

@@ -1,7 +1,7 @@
 # Swings and pendulums: how a swing trades height for speed
 `sci.motion.swings-and-pendulums.L4`
 
-**Summary.** Hold a bag of coins on a thread at the height of your chin and let it go. It never swings back higher than where it started. Stop its thread with a pencil halfway, so the bag has to swing in a much tighter curve, and it still climbs to the same height. Your child tests this with a thread and a bag of coins, then finds out how much harder a bag hits a box when it falls from higher up. They learn that a swing keeps trading its height for speed, and its speed for height. What is being traded is called energy. They also find out why a swing slowly dies down, why a push at the right moment makes it grow, and how to time a swing so the stopwatch error almost disappears.
+**Summary.** A bag of coins on a thread never swings back higher than where it started, even when a pencil stops the thread halfway. In this unit you will test this, see how far a box slides when a bag falls from higher up, and time many swings with a stopwatch.
 
 **Intro.** *Hold a bag of coins on a thread at the height of your chin. Let go, without pushing. The bag swings down and across, and climbs up the other side. Does it come back as high as your chin, higher, or lower? Now put a pencil in the way of the thread, so the thread catches on it halfway down. Will the bag still climb as high?* An earlier unit on pendulums showed that the length of the thread sets the beat. This unit asks a different question. Where does a swing get its speed, and where does that speed go? Guess now whether the bag will climb as high when a pencil catches its thread, and write your guess down. You will test it in the first experiment, the Peg Test.
 

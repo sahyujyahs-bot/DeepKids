@@ -1,7 +1,7 @@
 # Waste after the bin: what rots, what stays, and where it all goes
 `sci.waste.compost-and-disposal.L5`
 
-**Summary.** Since 1950, people have made more than 8 billion tonnes of plastic. In 2017 scientists worked out where it went. About four fifths still lies in dumps, on land or in the sea. Waste does not vanish when the truck takes it. Organic waste, such as peels and paper, can be eaten by decomposers. Inorganic waste, such as glass and metal, cannot, and neither can plastic. Your child tests why plastics must be sorted kind by kind, and peels a carton into its layers. They weigh the family's waste for seven days. They also learn what dumping and burning do to soil, water and air.
+**Summary.** Plastic bags and banana peels both go in the bin, but a hundred years later only one is gone. Why? In this unit you will sort things that were once alive from things that never were, use water to sort look-alike plastics, and find out if a shiny packet is metal, plastic or both.
 
 **Intro.** *The waste truck comes every morning, and the bin is empty again. Where is that waste tonight? Where will it be when you are fifty years old?* People say they throw waste 'away'. But every peel, bottle and packet goes to a real place and stays made of the same atoms. Some of it rots within weeks. Some of it can be melted and made into new things. Some of it lies in a dump for hundreds of years, or is burnt and goes into the air. In this unit you find out which waste does which, and why. You also find out what your own family's waste is made of.
 

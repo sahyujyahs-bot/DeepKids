@@ -1,7 +1,7 @@
 # Straight, round, back and forth: the paths moving things take
 `sci.motion.kinds-of-motion.L2`
 
-**Summary.** Make a bunch of keys go round and round on a string. Look down from above, and you see a circle. Put your eyes at the same height, and the same keys seem to go back and forth, like a swing. Things move in three main paths: straight, round, and back and forth. Your child finds all three at home, sorts things that move by themselves from things that are moved, and tests whether they can walk straight with their eyes shut.
+**Summary.** Swing keys round on a string: from above you see a circle, but from the side it looks like a swing. How can one motion look like two? In this unit you will hunt for straight, round and back and forth paths at home, and walk with your eyes shut.
 
 **Intro.** *Draw a straight line in the air with your finger. Now draw a circle. Now wave your finger back and forth. Those are the three paths.* A path is the way a thing goes as it moves. A ball rolled down a corridor goes in a straight line. The tip of a fan blade goes round and round. A swing goes back and forth. Some things start moving by themselves, like an ant or a crow. Others move only when something pushes or pulls them, like a ball. In this unit you hunt for all three paths, and test one surprise: can a round path look like a back-and-forth one?
 

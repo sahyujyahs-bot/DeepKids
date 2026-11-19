@@ -1,7 +1,7 @@
 # The water cycle: where rain comes from and where it goes
 `sci.water.water-cycle.L3`
 
-**Summary.** Every raindrop was once water on the land or in the sea. The Sun warms that water, and some of it evaporates into an invisible gas called water vapour. High up the air is cold, so the vapour condenses into tiny drops, and billions of drops make a cloud. The drops grow and fall as rain, hail or snow, and rivers carry the water back to the sea. Salt cannot evaporate, so rain is fresh even though most of it rose from the salty sea.
+**Summary.** Rain is fresh water, yet the sea is salty. Where does the rain come from? In this unit you will make fresh water from salty water with sunshine, make a cloud in a jar, and race different ways of drying water to see what makes it evaporate faster.
 
 **Intro.** *Wet your hand and press it flat on a dry floor tile in the sunshine. Watch your handprint. Count slowly. Where is the water going? It did not soak into the tile.* In a minute or two, your handprint vanishes. The water has not been destroyed. It has gone into the air, as an invisible gas. It might come back down as rain next week, a hundred kilometres away. Every drop of rain you have ever seen went up first. This unit follows water on its round journey: up from the sea, into the clouds, down as rain, along rivers and back to the sea. You will make a real cloud in a jar, and get fresh water out of salty water using only sunshine.
 

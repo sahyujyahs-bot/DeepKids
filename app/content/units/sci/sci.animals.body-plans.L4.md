@@ -1,7 +1,7 @@
 # Animal body plans: rings, two halves, spirals and segments
 `sci.animals.body-plans.L4`
 
-**Summary.** A crow, a fish, an ant and a human all have a front end and two matching sides. A jellyfish has neither. Her body is a ring, with the mouth in the middle. Nearly every animal is built on one of a few layouts, called body plans: rings, two matching halves, spirals and rows of segments. Your child rolls a lopsided roller to find out why animals who travel have matching sides. They also test why a growing snail shell coils, and find four kinds of tissue in their own hand.
+**Summary.** A starfish has five arms in a ring, while a cat has two matching sides. Why do animals have such different body shapes? In this unit you will test whether matching sides help a roller go straight, collect animals with the same plan, and find four tissues in your hand.
 
 **Intro.** *A starfish has five arms and no head. So which way is forwards for a starfish?* Any way is forwards for a starfish. She can walk with any arm in front. You are built differently. Your eyes, nose and mouth are all at one end, and you walk that end first. Your left side matches your right, but your front does not match your back. Animal bodies are laid out in a few ways: in rings, in two halves, in spirals and in rows of repeated parts. In this unit you find out what each layout is good for. You roll a lopsided roller made of dough and a pencil. You tilt a tall dough shell and a coiled one. You also find four kinds of tissue in your own hand.
 

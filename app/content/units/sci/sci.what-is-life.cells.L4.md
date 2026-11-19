@@ -1,7 +1,7 @@
 # Inside a cell: the skin, the jelly and the instruction room
 `sci.what-is-life.cells.L4`
 
-**Summary.** A strip of potato left in plain water stays stiff. A strip from the same potato left in strong salt water goes floppy, though nobody squeezed it. Every potato cell has a thin skin, and water moves through that skin in both directions. Your child tests this with a fair test, then finds the three main parts of a cell: the membrane, the cytoplasm and the nucleus. They see how plant cells and animal cells differ, why cells are so small, and how one cell on her own can eat, move and sense. They learn how scientists proved the skin was there long before anyone could see it, and what nobody yet knows about the very first cell.
+**Summary.** A potato strip stays stiff in plain water but goes floppy in strong salt water, though nobody squeezed it. Why? In this unit you will test potato strips in plain and salty water, bring a wilted herb back to life, and play a game to find which cell part does what.
 
 **Intro.** *Look at a bunch of coriander that has gone limp on the kitchen counter. Put the stems in a glass of water for an hour. The leaves stand up again. The water went in through the cut ends and the roots, but the leaves are far away. How did the water get to every leaf, and why did the leaves go floppy in the first place?* Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this unit you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.
 

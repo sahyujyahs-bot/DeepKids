@@ -1,7 +1,7 @@
 # Animals around us: their daily habits and their homes
 `sci.animals.animals-around-us.L3`
 
-**Summary.** Crows, pigeons, ants, geckos and spiders share our buildings, and leopards walk the edge of Mumbai at night. Each of these animals has habits, things they do again and again, like a crow calling at first light or a bat flying out at dusk. Many animals build homes, but most use them only to raise their young or to hide, not to live in all year. You will watch animals near your home, find their daily patterns, and test how ants keep to the same path. Some questions are still open, such as why house sparrows have become rare in some cities.
+**Summary.** Which animals near your home are awake at night, and which sleep then? In this unit you will watch your window for ten minutes, follow one animal for a week and look for a pattern, test how ants keep to the same path, and count birds at a water bowl.
 
 **Intro.** *Stand at a window or a door for one minute, very still. Count every animal you can see or hear. Do not forget the tiny ones. How many did you find?* Most people say 'two or three'. Then they look again and find more: a crow on the wire, ants on the wall, a pigeon on the ledge above, a spider in the corner, a gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has their own day. They wake, eat, rest and hide at their own times. You can find those patterns by watching the same animal again and again.
 

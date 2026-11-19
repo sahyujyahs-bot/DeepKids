@@ -1,7 +1,7 @@
 # How species change: natural selection, adaptation and new species
 `sci.evolution.natural-selection.L5`
 
-**Summary.** A cactus has spines and a waxy skin. A lotus has stalks full of air. Each fits their place so well that it looks planned. Yet no cactus ever changed their own body to suit the desert. In every generation, living beings are born a little different, and more are born than can survive. Those whose features suit the place leave more young. Your child hunts beans on two cloths for three generations and tests two beaks in a drought year. They learn how one species can become two. They also meet Lynn Margulis, who showed that living beings joining together shaped life too.
+**Summary.** A cactus has spines and a waxy skin, and each fits the desert so well that it looks planned. Yet no cactus changed itself to suit the desert. In this unit you will hunt beans on two cloths for three generations, and test two beaks in a drought year.
 
 **Intro.** *A camel is born with wide feet that do not sink in sand. A lotus is born with air tubes in their stalks. Nobody fitted these parts. So how did each living being come to suit their place so well?* For a long time, many people thought each animal changed their own body by trying hard. They thought the change was then passed on. In this unit you test a different answer with your own hands. You count the seeds in one bhindi to see how many young one plant could have. You hunt beans on a dark cloth and a pale cloth for three generations, and count who is left. You pick up seeds with tweezers and with roti tongs, in a wet year and in a drought. Then you find out how one bird became two species in the hills of South India. You also learn why your own cells hold partners that were once free bacteria.
 

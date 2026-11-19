@@ -1,7 +1,7 @@
 # Rights and tax money: what India's laws promise every family
 `sci.india.government-and-rights.L3`
 
-**Summary.** Almost every bill from a shop or restaurant has a line called GST. That is tax, money paid to the government with every purchase. So the books, roads and street lights we call 'free' are paid for by all of us together. A right is something the law promises every person. India's laws promise every child aged 6 to 14 a free school place. They promise every citizen the right to ask how public money is spent. They promise village families paid work when they need it. In this unit you hunt for the tax on your own family's bills, check a pretend work register for cheating, and find out where the things in your home were made.
+**Summary.** Almost every shop bill has a line called GST. What is it, and who gets that money? In this unit you will hunt for tax on your family's bills, check a pretend work register for cheating, and work out which law helps in different situations.
 
 **Intro.** *Pick up a school textbook or a printed shop bill. Government schools give their textbooks free. A shop bill has a small line called GST. Is a free book really free? Who paid for it?* The book was paid for with public money. Public money is the money the government collects from people, mostly as tax. Some of it came from the GST on bills like yours. In this unit you find out how much tax your family pays when it shops. Then you learn about three rights that India's laws give. Every child has a right to go to school. Every citizen has a right to know how public money is spent. Every village family has a right to ask for paid work.
 

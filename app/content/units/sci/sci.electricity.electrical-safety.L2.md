@@ -1,7 +1,7 @@
 # Keeping safe with electricity: sockets, wires and water
 `sci.electricity.electrical-safety.L2`
 
-**Summary.** The electricity in the wall is about 150 times stronger than a torch cell, and it can travel through water and through people. That is why children never touch sockets, plugs or broken wires, and never touch a switch with wet hands. Your child tests how dry their hands really are after shaking, wiping on clothes and using a towel, and sees how far one spilled tumbler of water spreads. They also find out why a crow can sit on a wire, and what to do if something goes wrong.
+**Summary.** A crow sits safely on a wire, yet children must never touch a socket. Why? In this unit you will test how dry your hands really are after shaking, wiping and towelling, watch for birds on wires from a window, and play a snakes and ladders game about staying safe.
 
 **Intro.** *You can hold a torch cell in your hand and feel nothing. The wall socket also gives electricity. So why must you never touch it?* The electricity from a torch cell is weak. The electricity in the wall socket is very strong, strong enough to hurt or kill a person. It can travel through water, and through your body. In this unit you test how much water stays on your hands after you wash them. You see how far a spill can run. And you learn the rules that keep you safe, and the reason for each one.
 

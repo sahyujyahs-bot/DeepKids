@@ -1,7 +1,7 @@
 # Parasites: how lice, ticks, worms and mosquitoes live on other living beings
 `sci.microorganisms.parasites.L3`
 
-**Summary.** A head louse spends their whole life on a human head, holding on to hairs and drinking a little blood. A living being who lives on or inside another living being, and feeds from them, is called a parasite. The one they live on is the host. Lice, fleas and ticks live on the outside of the body. Some worms live inside the gut. The malaria parasite lives part of their life in a mosquito and part in a person. Each parasite reaches us along one path. If we close that path, we stay safe. A fine comb, chappals, clean hands and a mosquito net each close a different path.
+**Summary.** How does a tiny louse hold on to your hair, and how does a mosquito carry malaria? In this unit you will test which comb catches a louse egg, act out the malaria journey, and sort living things into parasite or not.
 
 **Intro.** *Hold a khus khus seed on your fingertip. A head louse's egg is smaller than this seed, and is glued to one hair. Your comb at home has gaps much wider than that. So how can anyone comb the eggs out?* In this unit you meet the parasites that live on people: head lice, fleas, ticks and worms. You find out what problem each one has, and how their body solves it. You test which comb can catch something as small as a louse egg. You follow the malaria parasite from a person into a mosquito and back. And you learn the simple habits that keep every one of them off you.
 

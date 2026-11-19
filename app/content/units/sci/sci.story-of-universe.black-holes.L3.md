@@ -1,7 +1,7 @@
 # Black holes: where gravity is so strong that light cannot get out
 `sci.story-of-universe.black-holes.L3`
 
-**Summary.** A black hole is a place in space where gravity is so strong that nothing can get out, not even light. It forms when a huge amount of mass is squeezed into a tiny space, for example when a giant star burns out and its middle collapses. Because no light comes out, a black hole looks perfectly black. Far away, its pull is no stronger than that of a star of the same mass, so black holes do not suck things in from across space. Astronomers find them by watching stars swing round them and gas glow hot as it falls in. There is a huge one at the centre of our own galaxy.
+**Summary.** A black hole is where gravity is so strong that even light cannot get out. Does it suck things in? In this unit you will make a hole that looks blacker than black paper, squeeze bread to see what a huge mass in a tiny space means, and play an escape game.
 
 **Intro.** *Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer shows what black really means: no light coming back to your eyes. A black hole is black in that way too, for an even stronger reason.* In this unit you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.
 

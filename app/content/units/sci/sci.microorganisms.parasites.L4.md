@@ -1,7 +1,7 @@
 # Parasite life cycles: the long journey from one host to the next
 `sci.microorganisms.parasites.L4`
 
-**Summary.** In dry parts of India, people once drank from step wells. About a year later, a worm as long as an arm pushed out through the skin of their foot. The worm was never in the water as a worm. She began as a speck inside a tiny water animal that nobody noticed. A folded piece of old sari cloth over the pot stopped her. Your child tests which cloth catches pretend water animals and how fast the water flows through. Then your child follows the journeys of the Guinea worm, the filaria worm, the malaria parasite and a liver fluke. A parasite that must pass through several bodies loses most of her eggs on the way, and your child finds out why she has to lay thousands for one to succeed.
+**Summary.** A worm as long as an arm once pushed out through the foot of people who drank from step wells. How did it get in? In this unit you will test how many layers of cloth catch pretend water animals, put parasite journeys in order, and work out why parasites lay so many eggs.
 
 **Intro.** *Pour a glass of water through a folded cloth. The water looks the same before and after. Yet in India, a folded cloth over a pot helped to stop an illness that had lasted for thousands of years. What was the cloth catching?* In this unit you find out what the cloth caught, and why one cloth could end a whole illness. You test cloths of your own with pretend water animals. You follow a parasite from an egg, through a tiny animal, into a person, and out again. You find out why a parasite lays thousands of eggs, and why cutting the journey at one weak link can stop it for good.
 

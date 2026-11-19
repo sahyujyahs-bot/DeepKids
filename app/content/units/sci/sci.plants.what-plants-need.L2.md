@@ -1,7 +1,7 @@
 # What plants need, and how they grow towards the light
 `sci.plants.what-plants-need.L2`
 
-**Summary.** Young sprouts by a window lean towards the light. Turn their pot round, and by the next day they have bent back towards the window. Plants cannot walk to the light, so they grow towards it. Plants need light, water, air, warmth and soil to live and grow. Your child grows rai (mustard) sprouts by a window, turns one cup round, and watches what the sprouts do.
+**Summary.** Turn a pot of sprouts round, and by the next day they have bent back towards the window. Why? In this unit you will grow rai sprouts by a window and turn one cup round to watch them, look inside soil in a glass, and find out what a plant needs to grow.
 
 **Intro.** *Look at a plant that lives indoors, near a window. Which way are the leaves and stems leaning?* Most plants indoors lean towards the nearest window. Nobody pulled them that way. The plant grew that way. What happens if we turn the pot round, so the plant leans away from the window? In this unit we find out. We also look at the five things a plant needs: light, water, air, warmth and soil.
 

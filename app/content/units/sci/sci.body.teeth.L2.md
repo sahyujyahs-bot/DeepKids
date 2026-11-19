@@ -1,7 +1,7 @@
 # Teeth: two sets for a lifetime, and what wears them away
 `sci.body.teeth.L2`
 
-**Summary.** Tooth enamel is the hardest part of your body, yet a sour drink can slowly wear it away. In this unit you drop pieces of eggshell into water, sugar water, milk, lemon juice and vinegar, and see which ones fizz and go soft. You find out why you get 20 milk teeth and then up to 32 adult teeth, and what the four kinds of teeth do. Then you learn how saliva, fluoride and brushing look after your adult teeth, which have to last your whole life.
+**Summary.** Enamel is the hardest part of your body, so how can a sour drink wear it away? In this unit you will drop eggshell into five kitchen liquids to see which ones make it go soft, find out why a milk tooth wobbles, and make a tooth in layers from dough.
 
 **Intro.** *Hold a clean piece of eggshell. Press it gently with your thumb. It is hard. Your tooth enamel is even harder. Could a drink from your kitchen make something so hard go soft?* Enamel is the white outside layer of your teeth. It is the hardest part of your whole body, harder than bone. An eggshell is hard too, and it is made with calcium, like enamel. So an eggshell is a good stand-in for a tooth in a test. Before you read on, guess. Which drink would harm a hard shell: sugar water, or lemon juice? Say why you think so. You are going to find out.
 

@@ -1,7 +1,7 @@
 # Magnets and magnetic materials: the magnet pulls the nail, but does the nail pull back?
 `sci.magnets.magnets-and-materials.L4`
 
-**Summary.** A magnet picks up a nail, so it looks as if the magnet does all the pulling. But float the magnet on a tiny raft, hold a nail near it, and the magnet sails across the water to the nail. Your child tests this with two rafts, finds out why two nails hanging from one magnet spread apart in a V, and tests how well nails, needles and fridge magnets keep their magnetism. Along the way they meet soft iron, hard steel, keepers (pieces of iron that help a stored magnet stay strong), and a rule about pulls: they always come in pairs.
+**Summary.** A magnet pulls a nail, so does the nail pull the magnet back? In this unit you will float a magnet on a small raft to find out, see why two nails hanging from one magnet spread into a V, and test which steels keep their magnetism.
 
 **Intro.** *A magnet can pick up a nail. Everyone says the magnet is pulling the nail. But what if the nail is pulling the magnet too? Put the magnet on a little boat on water and bring a nail close. What do you think the boat will do?* In Class 3 you found out that a magnet attracts iron, and that every iron atom is a tiny magnet. Now we go one step deeper. How does a plain nail, which is not a magnet, get pulled at all? Why do two nails hanging from one magnet spread apart? Why does a needle stay magnetic when a nail does not? And how can a fridge magnet grip your almirah on one side only? You find out by testing it yourself.
 

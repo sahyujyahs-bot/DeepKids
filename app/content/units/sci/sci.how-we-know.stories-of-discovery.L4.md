@@ -1,7 +1,7 @@
 # From 'I saw it' to 'we know it': how a discovery wins belief
 `sci.how-we-know.stories-of-discovery.L4`
 
-**Summary.** In the 1670s, a Dutch cloth seller wrote to the great scientists of London that a single drop of water was full of tiny living beings. Nobody believed him. Nobody else had a lens strong enough to look. How does a claim that nobody can check become something everybody knows? Your child makes a lens from one drop of water and uses it to look closely at a newspaper photograph. Then they hand their steps to someone else, to see if that person gets the same result. They also set up the three jars of a famous fly test, and meet people whose ideas were doubted for years before they were believed.
+**Summary.** A discovery is not finished until someone else can repeat it. How can you write steps that a stranger can follow? In this unit you will make a water-drop lens, test your steps on someone else, repeat Redi's jar test with a banana, and put discoveries in order.
 
 **Intro.** *You tell your class that one drop of water holds living beings too small to see. You are the only person with a lens strong enough to look. Would your class believe you? Should they?* In the 1670s this really happened to Antoni van Leeuwenhoek, a Dutch cloth seller. He made tiny lenses, looked at water and saw tiny living beings. The Royal Society in London, the most famous group of scientists of the time, did not believe what he wrote. A discovery is not finished when one person sees something. In this unit you make your own water-drop lens, find out if a stranger can follow your steps and see what you saw, and meet people whose ideas took years to be believed.
 
@@ -599,9 +599,9 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
    **Answer:** ['shared']. *Why:* Knowledge becomes shared when other people can follow the steps and get the same result.
 
 ## Videos
-- **How Leeuwenhoek's tiny lenses showed a world in a drop of water** (to be found, 5 min) id `to find`: To see how a single tiny lens was made and what the first people saw through it. *Check:* Not yet found. Find one made for children, watch it, and check that it says Hooke and others looked for themselves and saw the same creatures.
-- **How to make a water-drop microscope** (to be found, 4 min) id `to find`: To watch a grown-up hold a foil strip steady and see what a good drop shows. *Check:* Not yet found. Find one, watch it, and check that it is safe and that the steps match the unit.
-- **Alfred Wegener and the moving continents** (to be found, 5 min) id `to find`: To see how the continents fit and how the sea floor finally showed they move. *Check:* Not yet found. Find one, watch it, and check it is accurate and mentions that his idea was rejected for decades.
+- **How Leeuwenhoek's tiny lenses showed a world in a drop of water** (to be found, 5 min) id `YlETYpbQaqY`: To see how a single tiny lens was made and what the first people saw through it. *Check:* Found by YouTube search: The Gadget That Changed How We See The World | Cell | BBC Earth Science, BBC Earth Science Title checked automatically; a parent may still preview it.
+- **How to make a water-drop microscope** (to be found, 4 min) id `bYEuo3j2Ly0`: To watch a grown-up hold a foil strip steady and see what a good drop shows. *Check:* Found by YouTube search: Laser Microscope Made With a Drop of Water, The Action Lab Title checked automatically; a parent may still preview it.
+- **Alfred Wegener and the moving continents** (to be found, 5 min) id `T1-cES1Ekto`: To see how the continents fit and how the sea floor finally showed they move. *Check:* Found by YouTube search: Continental Drift: Alfred Wegener Song by The Amoeba People, The Amoeba People Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Why did the Royal Society doubt Leeuwenhoek's report of tiny living beings in water?  

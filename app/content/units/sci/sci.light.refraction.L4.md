@@ -1,7 +1,7 @@
 # Refraction: the rule of the bend, and how light gets trapped
 `sci.light.refraction.L4`
 
-**Summary.** Shine a torch at a slant into water and the beam turns toward an imaginary upright line that stands at a right angle to the surface. Scientists call that line the normal. Shine it straight on and it does not turn at all. Your child measures the bend with a protractor and finds the pattern. The same rule explains why a diamond sparkles, why a fish sees the whole sky in one round window, and how hair-thin glass fibres carry the internet. It also explains why a hot road looks wet, how two lenses make a telescope, and how spectacles work, which nobody could explain for hundreds of years after people began wearing them.
+**Summary.** A beam of light bends when it goes into water, and sometimes it cannot get out at all. Why? In this unit you will measure the bend with a protractor, make a glowing water jet, build an eye that needs spectacles, and make a telescope from two lenses.
 
 **Intro.** *A fish looks up at you from under the water. Above her, the whole sky, from one edge to the other, is squeezed into one round window. Outside that window, the underside of the water looks like a silver mirror. Why does the whole sky fit into a round window, and why is the rest silver?* You already know that light bends when it goes from air into water. Now we ask by how much, and what happens when you push the bend as far as it will go. You will measure the bend with a torch and a protractor. Then you will find out how the same rule makes a silver mirror under the water, a glowing stream of water, a sparkling diamond and the cables that carry phone calls under the sea.
 

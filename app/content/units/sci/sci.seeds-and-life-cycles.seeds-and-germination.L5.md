@@ -1,7 +1,7 @@
 # Seeds that wait: how a dry seed stays alive for years
 `sci.seeds-and-life-cycles.seeds-and-germination.L5`
 
-**Summary.** Put dry moong seeds in the freezer for a night, and nearly all of them still sprout. Soak the same seeds first, and one night in the freezer kills them. A dry seed holds so little water that no ice forms inside. This is how a lotus seed stayed alive for about 1,300 years. It is also how seed banks keep seeds alive for a hundred years or more. Your child runs the Freezer Test. Then they test whether a seed that has started to wake can be dried again. They also learn how a seed bank dries, freezes, tests and regrows seeds.
+**Summary.** Dry moong seeds mostly sprout after a night in the freezer, but soaked seeds die. Why? In this unit you will draw a chana waking up over four days, run the Freezer Test, and find out whether a seed that has begun to wake can be dried again.
 
 **Intro.** *A scientist in the United States worked on a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Soon the seed had a green shoot. How can a seed stay alive for 1,300 years?* The scientist was Jane Shen-Miller, and she reported the lotus seed in 1995. The seed had done almost nothing for all those years. They had not grown, and they had hardly used any food. Then water reached the young plant inside, and the seed germinated like a seed from last year. In this unit you find out what keeps a dry seed alive. You put dry seeds and soaked seeds in the freezer. You dry seeds again after they have started to wake. Then you see how seed banks use the same science to keep seeds safe.
 

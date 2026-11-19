@@ -1,7 +1,7 @@
 # Nutrients: what food is made of, and what each part does
 `sci.food.nutrients.L3`
 
-**Summary.** Pour lemon juice into hot milk, and it splits into white lumps and a pale, watery liquid. So milk is not one thing. Like almost every food, it is a mix of nutrients: carbohydrates, proteins, fats, vitamins, minerals and water. Each nutrient does a different job in your body. Food groups sort foods by the nutrient they give most, but most foods carry several.
+**Summary.** Pour lemon juice into hot milk and it splits into white lumps and a watery liquid. So what is milk made of? In this unit you will split milk with different kitchen liquids, dry vegetable slices in the sun to see how much is water, and sort foods in a card game.
 
 **Intro.** *Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?* Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this unit you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.
 

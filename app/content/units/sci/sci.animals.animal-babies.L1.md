@@ -1,7 +1,7 @@
 # Animal babies: how young animals grow into their parents' shape
 `sci.animals.animal-babies.L1`
 
-**Summary.** A pigeon chick hatches pink and yellow, with no grey feathers at all. Yet in four weeks the chick looks just like the parents. Every kind of animal has young, and humans are one kind of animal. Some young look like small copies of their parents, and some look very different. Your child measures how many 'heads tall' a grown-up, a child and a baby are, and finds that even a human baby is a different shape from a grown-up.
+**Summary.** A baby pigeon hatches with no grey feathers, yet a month later it looks like its parents. In this unit you will measure how many heads tall a baby, a child and a grown-up are, and play a game of who looks like their parent.
 
 **Intro.** *Look at a photo of yourself as a tiny baby. Now look in the mirror. Is the baby just a small you, or a different shape?* Every animal starts small. A kitten looks like a small cat. A tadpole looks nothing like a frog. And a human baby? Babies look like their parents in some ways, and not in others. In this unit we look at baby animals and their parents. Then we measure our own bodies, with strips of paper, to find out how a baby's shape changes as they grow.
 

@@ -1,7 +1,7 @@
 # Vibration: how strings, skins and air columns make sound
 `sci.sound.vibration.L5`
 
-**Summary.** Draw a card slowly along the teeth of a comb, and you hear separate ticks. Draw it quickly, and the ticks become one steady note. Every sound is made this way. Something vibrates, which means it moves back and forth again and again, and each movement pushes the air. Your child counts the pushes in each second with a comb. They slow a string down until they can watch one vibration. They make grains jump with the sound of a steel plate, and listen to a spoon through a string. They learn what vibrates in strings, skins and air columns, and how the vibration reaches the ear.
+**Summary.** Draw a card slowly along a comb and you hear separate ticks, but draw it fast and the ticks join into one steady note. Why? In this unit you will count the pushes in each second with a comb, watch a slow string vibrate, and hear a spoon ring through a string.
 
 **Intro.** *Pluck a rubber band stretched over a steel tumbler. It hums, and it looks like a blur. Touch it with one finger, and the hum stops at once. What was the band doing while it hummed? And why did it keep doing it after your finger let go?* The band was vibrating. It was moving back and forth far too quickly for your eyes to follow. In this unit you slow that movement down until you can watch it. You turn separate ticks into a note with a comb. You work out how many pushes reach your ear each second. You make grains jump on a skin that nothing touches. You hear a spoon ring like a temple bell through a piece of string. By the end you can say what vibrates in a veena, a mridangam, a bansuri and your own throat.
 

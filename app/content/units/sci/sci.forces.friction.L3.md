@@ -1,7 +1,7 @@
 # Friction: the grip that works against sliding
 `sci.forces.friction.L3`
 
-**Summary.** Friction is the grip between two surfaces that touch, and it always works against sliding. It is why your chappal does not slip on the road, and why a rolling ball slows down and stops. Friction also turns movement into heat and slowly wears things away. Rough surfaces, rubber and pressing harder give more friction, while oil, water and wheels give less. Scientists can measure friction well, but they still argue about exactly why surfaces grip, and even why ice is slippery.
+**Summary.** Why does your chappal not slip on the road, and why does a rolling ball stop? In this unit you will test which shoe sole grips best on a slope, pull stacked books apart, find what makes a surface slippery, and hunt for friction at home.
 
 **Intro.** *Try this. Hold a pencil between two fingers, as lightly as you can. Now imagine your fingers and the pencil were perfectly slippery, like wet soap. Could you still write your name?* Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was about as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this unit, you will know. It has to do with friction, the grip between things that touch.
 

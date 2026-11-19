@@ -1,7 +1,7 @@
 # Animal life cycles: how young animals grow into adults
 `sci.animals.animal-life-cycles.L3`
 
-**Summary.** A tadpole has a tail and gills, yet they grow into a frog with legs and lungs. Every animal's life goes through stages, from egg or baby to adult, and the adults make new young. This circle of stages is called a life cycle. A chick looks like a small hen and simply grows. But a tadpole and a caterpillar rebuild their whole bodies into a new shape. This big change is called metamorphosis, and it is switched on by chemical messages called hormones.
+**Summary.** A caterpillar becomes a butterfly, but a hen's chick just grows bigger. What is the difference? In this unit you will open an egg like a scientist, look for bubbles from a shell, make life cycle wheels, and play a card game of who comes next.
 
 **Intro.** *Here is a puzzle. A small animal lives in water. They breathe with gills, like a fish. They have a long tail and no legs. They scrape algae off stones. Algae are tiny water plants that make a green, slimy coat. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped them. What happened?* The animal is a tadpole, and they became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this unit you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.
 

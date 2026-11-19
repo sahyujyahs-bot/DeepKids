@@ -1,7 +1,7 @@
 # Migration: the animals that travel across the world every year
 `sci.animal-behaviour.migration.L3`
 
-**Summary.** Every year, an Arctic tern flies from the top of the world to the bottom and back, about 70,000 kilometres. Humpback whales swim thousands of kilometres between cold seas full of food and warm seas where their calves are born. Monarch butterflies make a journey so long that it takes their great-grandchildren to finish it. These yearly journeys are called migration. Animals migrate to find food, warmth and safe places to raise their young, and many young birds find the right part of the world on their first journey, alone.
+**Summary.** How do animals that travel far every year find their way? In this unit you will walk to a bowl and then try again from a new start, test how far a tailwind carries a paper butterfly, and sort animals into those that go and those that stay.
 
 **Intro.** *Each winter, a small grey bird called a curlew sandpiper lands on a mudflat at Kodiakkarai, at the tip of Tamil Nadu. She has flown there from the far north of Russia, more than 6,000 kilometres away. Some of these birds are only a few months old. They have never seen Kodiakkarai, and no grown-up bird showed them the way. So how did they know where to go?* Animals of every kind make long journeys each year: birds, whales, butterflies, dragonflies, turtles, fish, and people too. In this unit you will meet the record travellers, find out why they go, and test two ways of finding your way in your own home.
 

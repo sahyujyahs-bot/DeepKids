@@ -1,7 +1,7 @@
 # Migration: how a body is built for a journey across the world
 `sci.animal-behaviour.migration.L4`
 
-**Summary.** A bar-tailed godwit weighs less than a one-kilogram bag of sugar, and in 2022 a young one flew about 13,500 kilometres from Alaska to Tasmania in 11 days, without stopping once. How can a body that small carry enough fuel? Before leaving, she eats until nearly half her weight is fat, and her gut shrinks to make room for flight muscle. Her fuel comes from the insects, worms and shellfish she ate in a faraway marsh or mudflat. They grew in the long days of a northern summer. This unit follows migration from the sunlight in the far north to the fat in a bird's body, the wetlands along the way, and the tags that tell us where she went.
+**Summary.** Why do some birds fly across the world every year? In this unit you will sort eight birds by when they are in India, spin a globe to time a summer day in the far north, and see what happens when one wetland on the way is drained.
 
 **Intro.** *In winter, ducks, waders and swallows appear on our lakes, canals and wires. In summer, they are gone. Where were they, and what did they do to get here?* Many of the birds you see in India from October to March spent the summer thousands of kilometres away, in Siberia, Mongolia or the Himalaya. A small bird cannot carry a bag of food with her. So how does her body get enough energy for a trip that long?
 

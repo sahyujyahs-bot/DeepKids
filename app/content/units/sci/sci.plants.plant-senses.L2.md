@@ -1,7 +1,7 @@
 # How plants sense light, gravity and touch, and respond
 `sci.plants.plant-senses.L2`
 
-**Summary.** Put a cup of young moong shoots by a window, and by the next morning they all lean towards the glass. Nobody pushed them. Plants sense the world around them and respond to it, mostly by growing. A shoot grows towards the light. A root grows down, even when the seed is lying the wrong way up. A touch-me-not folds their leaves a second after you touch them. In this unit you test all three, and find out how a plant can move with no muscles.
+**Summary.** Plants have no eyes, so how does a moong shoot know where the window is? In this unit you will watch which way leaves face, test if moong shoots turn back to the light when you turn the cup, and see which way four roots grow.
 
 **Intro.** *Find a plant that grows by a window or on a balcony. Which way are their leaves facing: into the room, or out towards the light?* Plants have no eyes and no muscles. Yet they know where the light is, which way is down, and when something touches them. To sense something means to notice it. To respond means to do something because of it. Plants do both, all day long. Before you read on, make a guess. If you turn a plant round so the leaves face away from the window, will they stay that way, or turn back? You are going to find out.
 

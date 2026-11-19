@@ -1,7 +1,7 @@
 # Healthy food and drink: why we need water, and where it hides
 `sci.food.healthy-food.L1`
 
-**Summary.** Squeeze a piece of cucumber in a clean hanky, and drops of water run out. Squeeze a biscuit, and nothing comes. Your body needs food to grow and move, and water every single day. Your child finds out which foods hold water inside, and why we feel thirsty. They also find out that liking a food can change, one small taste at a time.
+**Summary.** Squeeze a piece of cucumber in a clean hanky and water runs out. Squeeze a biscuit and nothing comes. In this unit you will squeeze different foods to find which hold water, sort foods into wet, damp and dry, and make a crunchy kosambari salad.
 
 **Intro.** *Hold a piece of cucumber in one hand and a biscuit in the other. Both feel dry on the outside. Is there water hiding inside either of them?* Your body needs water every day. You drink it from a tumbler. But some water also comes in your food. Which foods carry water inside them? Which carry almost none? In this unit we squeeze foods to find out. We also ask why we feel thirsty, and why we like some foods more than others.
 
@@ -142,11 +142,11 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 
 ## Games
 ### g1 · Wet, Damp or Dry? A food sorting game (15 min)
-- **rules:** Draw the three baskets on a big sheet. Mix the cards and put them face down in a pile.; Take turns. Turn over the top card and say the food. A grown-up can read the card aloud.; Say which basket it goes in, and why. Point to the basket.; The grown-up reads the back of the card. If you were right, put the card in that basket and make a tick for yourself on paper.; If you were wrong, say the right basket together and put the card there. No tick.; When the pile is empty, count the ticks. Most ticks wins. Then count the cards in each basket: which basket has the most?
+- **rules:** Put out three bowls and label them Wet, Damp and Dry on slips of paper. Mix the cards and put them face down in a pile.; Take turns. Turn over the top card and say the food. A grown-up can read the card aloud.; Say which basket it goes in, and why. Point to the basket.; The grown-up reads the back of the card. If you were right, put the card in that basket and make a tick for yourself on paper.; If you were wrong, say the right basket together and put the card there. No tick.; When the pile is empty, count the ticks. Most ticks wins. Then count the cards in each basket: which basket has the most?
 - **Printable cards: 18 food cards to cut out:** Cucumber (back: Wet. A cucumber is about 95 parts water out of 100.) [picture]; Watermelon (back: Wet. Watermelon is more than 90 parts water out of 100.) [picture]; Tomato (back: Wet. A tomato drips juice when you squeeze it.); Orange (back: Wet. Each segment is full of juice.) [picture]; Coconut water (back: Wet. It is a drink that grows inside a coconut.) [picture]; Buttermilk (back: Wet. Buttermilk is mostly water, with a little curd.); Milk (back: Wet. Milk is mostly water.); Curd (back: Wet. Curd is mostly water, but the water is held inside a thick set, so it does not run.); Banana (back: Damp. A banana is about three-quarters water, held in a soft paste.) [picture]; Cooked rice (back: Damp. The grains took in water in the pot.); Idli (back: Damp. Idlis are steamed, and hold water inside.); Chapati (back: Damp. A fresh chapati holds some water, but less than rice.); Biscuit (back: Dry. A biscuit is baked until almost all the water is gone.); Roasted chana (back: Dry. Roasting drives out the water.); Murmura or pori (back: Dry. Puffed rice is crisp and dry.); Groundnuts (back: Dry. Groundnuts hold very little water.); Papad (back: Dry. Papad is dried in the sun before it is fried or roasted.); Dry rice grains (back: Dry. Raw rice grains are hard. They go soft only after cooking in water.)
-- **Printable board: Three baskets to draw on a big sheet:** A blue basket with three drops on it: 'Wet: runs or drips, mostly water'; A green basket with one drop on it: 'Damp: soft, with some water held inside'; A brown basket with a cross on it: 'Dry: hard or crunchy, almost no water'
+- **Printable board: Three baskets: three bowls with paper labels:** A bowl labelled with three drops: 'Wet: runs or drips, mostly water'; A bowl labelled with one drop: 'Damp: soft, with some water held inside'; A bowl labelled with a cross: 'Dry: hard or crunchy, almost no water'
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 18 cards. 2. Draw the three baskets. 3. Mix the cards and stack them face down.  
+  *Parent does:* 1. Cut out the 18 cards. 2. Put out the three labelled bowls. 3. Mix the cards and stack them face down.  
   *Parent says:* This game is about water hiding in food. Wet foods run or drip. Damp foods are soft, with water held inside. Dry foods are hard or crunchy.  
   *Child mode:* Wet foods run or drip. Damp foods are soft. Dry foods are hard or crunchy. Let's sort!
 - **s2 (10 min)**  
@@ -158,7 +158,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 - **s3 (2 min)**  
   *Parent does:* Count the cards. Then ask which basket holds the foods that help most on a hot day.  
   *Parent says:* Which basket would you pick from on a hot day? Why?  
-  *Child mode:* On a hot day, which basket would you pick from? Why?
+  *Child mode:* Think of a hot day. Which basket would you pick from?
   - Ask: Why that basket? (good: The wet basket, because those foods give you water.)
 ### g2 · Water Keeper: a bean counting game (15 min)
 - **rules:** Each player has a cup or katori with 8 dried beans in it, like rajma. Put a heap of about 20 spare beans in the middle.; Mix the cards and stack them face down.; Take turns. Turn over a card. A grown-up reads it aloud, then reads the back.; Take out beans or put in beans, as the back says. If your cup is empty, you cannot take out any more.; If you have 4 beans or fewer, say 'I'm thirsty!' On your next turn, you may drink instead of reading a card: put in 2 beans from the heap. Then take the top card off the pile and put it aside without reading it.; Play until the cards run out. Everyone who ends with 5 to 12 beans had a comfortable day. With more than 12 beans, you drank too much. With fewer than 5, you were thirsty. Then talk about which cards took water away, and which cards gave it back.
@@ -169,14 +169,14 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
   *Child mode:* Your beans are your body's water. Try to end with 5 to 12 beans in your cup!
 - **s2 (11 min)**  
   *Parent does:* Play the cards in turn. After each card, ask how the water got in or out.  
-  *Parent says:* You played in the sun. How did the water leave your body?  
-  *Child mode:* Read your card. Take out or put in beans. How did the water move?
+  *Parent says:* After each card, I will ask: did water leave your body, or come back in? How?  
+  *Child mode:* Read your card. Take out or put in beans.
   - Note: The bean numbers are made up for the game. The idea is real: water leaves the body all day, and drinks and wet foods bring it back.
   - Check: A player ate a biscuit. How many beans do they put in? → **No beans**
 - **s3 (2 min)**  
-  *Parent does:* At the end, ask which cards took the most water away, and which brought the most back.  
+  *Parent does:* At the end, put the cards in two piles: cards that took water away, and cards that gave it back. Ask which cards gave the most back.  
   *Parent says:* Which cards made you lose the most water? Which gave the most back?  
-  *Child mode:* Which cards took the most water? Which gave the most back?
+  *Child mode:* Sort the cards into two piles: took water away, and gave water back.
   - Ask: Which cards gave the most back? (good: The drinks: water, buttermilk and coconut water.)
 
 ## Experiments
@@ -184,24 +184,24 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 - **question:** Which foods from our kitchen have water inside them, and which have almost none?
 - **predict:** Look at each food and touch it. Which ones do you think have water inside? Which are dry inside? Why do you think so?
 - **fair test:** Each piece of food is about one big spoonful. A grown-up mashes or crushes each one with a fork or the back of a spoon first. We press each one on paper for the same count of ten. We squeeze each one in the same hanky, as hard as we can, and dry the hanky between foods.
-- **record:** Draw the six foods in a row. Draw drops under each food that dripped. Draw a cross under each food that stayed dry.
+- **record:** Line up the six foods from most drops to none. Take a photo, or tell your grown-up the order. Or draw a drop under each food that dripped.
 - **results table:** Food | My guess: wet or dry inside? | Paper test: a wet mark? | Squeeze test: any drops?
 - **s1 (4 min)**  
   *Parent does:* 1. Put the six foods in a row on the steel plate. 2. Let your child touch each food. 3. Ask them to guess which foods are wet inside.  
   *Parent says:* Here are six foods. Touch each one. Which ones do you think have water inside? Why do you think so?  
-  *Child mode:* Touch each food. Which ones have water inside? Guess. Say why.
+  *Child mode:* Touch each food. Guess which ones have water inside.
   - Ask: Why do you think so? (good: The cucumber feels cold and wet.; The biscuit is crunchy, so it is dry.; The banana is soft, so maybe it has water.)
   - Note: Any guess is fine. Write each guess down, or put a small piece of paper marked W (wet) or D (dry) next to each food. Many children guess that banana is dry, because it feels dry on the outside.
 - **s2 (5 min)**  
   *Parent does:* 1. Put six paper squares (napkin, tissue or newspaper) on the table. 2. A grown-up mashes or crushes each food. 3. Spoon each food onto its own square and press. 4. Count to ten together. 5. Lift the food and look at the paper.  
   *Parent says:* Press the food down on the paper. Let's count to ten. Now lift it. Is the paper wet?  
-  *Child mode:* Press the food on the paper. Count to ten. Lift it. Is the paper wet?
+  *Child mode:* Press the food on the paper. Count to ten. Lift it and look at the paper.
   - Ask: Which papers got wet? (good: The cucumber and watermelon papers got very wet.; The banana made a small damp mark.; The biscuit paper stayed dry.)
   - Note: Mashed cucumber and watermelon make a big wet patch. Banana and cooked rice usually make a small damp, sticky mark. The biscuit and chana leave no wet mark.
 - **s3 (9 min)**  
   *Parent does:* 1. Put the mashed cucumber in the middle of the hanky. 2. Gather the corners and twist them over the glass. 3. Squeeze hard. 4. Pat the hanky dry with a napkin, wipe the glass, and do the same with each food.  
   *Parent says:* Now the squeeze test. Hold the hanky over the glass. Twist and squeeze as hard as you can. What comes out?  
-  *Child mode:* Put the food in the hanky. Twist it over the glass. Squeeze hard! What comes out?
+  *Child mode:* Put the food in the hanky. Twist it over the glass. Squeeze hard!
   - Ask: What came out of the cucumber? (good: Water dripped out.; Lots of drops fell in the glass.)
   - Ask: What came out of the biscuit? (good: Nothing. Just crumbs.; No water at all.)
   - Note: Small children's hands may not be strong enough, so twist the hanky together. Cucumber and watermelon give clear drops within a few seconds. Squeeze the dry foods last. Pat the hanky dry and wipe the glass between foods, so you can compare the drops.
@@ -214,17 +214,17 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 - **s5 (3 min)**  
   *Parent does:* 1. Ask your child what they get when they eat a cucumber. 2. Eat the leftover foods together, so nothing is wasted.  
   *Parent says:* So when you eat a cucumber, what does your body get? Now let's eat our test foods.  
-  *Child mode:* What do you get when you eat cucumber? Now eat the foods!
+  *Child mode:* Now eat the foods you tested.
   - Ask: What does your body get when you eat a cucumber? (good: Food and water.; A drink, inside the food.)
   - Note: Keep the squeezed foods for eating only if the hanky and hands were clean. Otherwise eat the leftover unsqueezed pieces.
 
 ## Activities
 ### a1 · The Feely Bag: guess the fruit or vegetable (10 min)
-- **record:** Draw the food that gave the most drops when you squeezed it.
+- **record:** Tell your grown-up which food gave the most drops. Or take a photo of it.
 - **s1 (6 min)**  
   *Parent does:* 1. Put the five foods in the bag while your child is not looking. 2. Your child puts one hand in and feels one food. 3. They say what they feel, then guess, then pull it out. 4. Do the same for each food.  
   *Parent says:* Put your hand in the bag. Hold one thing. Is it smooth or bumpy? Hard or soft? What do you think it is?  
-  *Child mode:* Feel one thing in the bag. Is it smooth or bumpy? Hard or soft? Guess!
+  *Child mode:* Feel one thing in the bag. Then guess what it is!
   - Ask: What does it feel like? (good: Smooth and round.; Bumpy and a bit squishy.; Long and hard at one end.)
   - Note: Ask for describing words before the guess. A lemon has bumpy skin, a tomato is smooth and gives a little when pressed, an onion has dry papery skin.
 - **s2 (4 min)**  
@@ -233,11 +233,11 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
   *Child mode:* Guess which has the most water. Squeeze a piece of each over your palm. Which gave the most drops?
   - Note: Children often eat more of a food they have touched and chosen themselves.
 ### a2 · Make Kosambari: a crunchy salad from Karnataka (20 min)
-- **record:** Draw your bowl of kosambari. Colour the parts that had water inside.
+- **record:** Point to the parts of your kosambari that hold water, and tell your grown-up how you know. Or draw the bowl and colour those parts.
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child a few dry moong dal grains next to the soaked dal. 2. Let them press one of each between finger and thumb.  
   *Parent says:* Press a dry dal grain. Now press a soaked one. What is different? Where did the water go?  
-  *Child mode:* Press a dry dal. Press a soaked dal. Which is soft? Where did the water go?
+  *Child mode:* Press a dry dal grain. Press a soaked one. Which one is soft?
   - Ask: Where did the water go? (good: Into the dal.; The dal soaked up the water and got bigger.)
   - Note: Soaked dal is bigger and soft enough to squash. The water went inside the grains.
 - **s2 (12 min) · grown-up needed**  
@@ -251,65 +251,65 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
   *Child mode:* Eat your salad! Which part is crunchy? Which is juicy? Which is sour?
   - Note: If your child does not like one part, that is fine. They can taste a tiny bit and leave the rest.
 ### a3 · My Water Tumbler: drops on a chart (10 min)
-- **record:** Your chart of drops, with a small picture of what you were doing when you felt thirsty.
+- **record:** Your chart of drops, with a word beside each drop for what you were doing when you felt thirsty.
 - **s1 (3 min)**  
-  *Parent does:* 1. Help your child draw their tumbler at the top of a sheet. 2. Stick the sheet on the fridge or a wall.  
-  *Parent says:* Today we will draw a drop each time you drink water. Let's stick the chart where you can reach it.  
-  *Child mode:* Draw your tumbler. Each time you drink water today, draw a drop.
+  *Parent does:* 1. Help your child write their name at the top of a sheet. 2. Stick the sheet on the fridge or a wall.  
+  *Parent says:* Today we will make a drop each time you drink water. Let's stick the chart where you can reach it.  
+  *Child mode:* Write your name on the chart. Each time you drink water today, make a drop.
   - Note: Count a full tumbler or a good few gulps from a bottle as one drop.
 - **s2 (3 min)**  
-  *Parent does:* Each time your child drinks water, they draw a drop. When they say they are thirsty, ask what they were doing. They draw a small picture of it next to the drop.  
-  *Parent says:* You're thirsty? What were you just doing? Draw it next to your drop.  
-  *Child mode:* Thirsty? Drink, then draw a drop. Draw what you were doing.
+  *Parent does:* Each time your child drinks water, they make a drop on the chart. When they say they are thirsty, ask what they were doing. Write one word for it next to the drop, such as running.  
+  *Parent says:* You're thirsty? What were you just doing? I will write it next to your drop.  
+  *Child mode:* Thirsty? Drink water, then make a drop. Tell what you were doing.
   - Note: Children usually feel thirsty after running about, after a hot walk, and after salty food.
-  - Wait: Draw the drops through the day.
+  - Wait: Make a drop for each drink through the day.
 - **s3 (4 min)**  
-  *Parent does:* At bedtime, count the drops together. Look at the small drawings.  
+  *Parent does:* At bedtime, count the drops together. Read the words beside them.  
   *Parent says:* How many drops did you draw today? When did you feel most thirsty?  
-  *Child mode:* Count your drops. When were you most thirsty?
+  *Child mode:* Count your drops. Read the words beside them.
   - Ask: When did you feel most thirsty? (good: After playing.; When it was hot.; After eating chips.)
   - Note: There is no right number. You will drink more on hot days. Food gives some water too.
 
 ## Projects
 ### p1 · Ten Tiny Tastes: can I learn to like a food? (37 min, 10 days)
-- **record:** The ten faces, one for each taste.
-- **schedule:** day 1: Pick the food. Draw 10 circles. Taste a pea-sized bit and draw a face in circle 1. (5 min); day 2: Taste a tiny bit again. Draw a face in circle 2. (3 min); day 3: Taste a tiny bit again. Draw a face in circle 3. (3 min); day 4: Taste a tiny bit again. Draw a face in circle 4. (3 min); day 5: Taste a tiny bit again. Draw a face in circle 5. (3 min); day 6: Taste a tiny bit again. Draw a face in circle 6. (3 min); day 7: Taste a tiny bit again. Draw a face in circle 7. (3 min); day 8: Taste a tiny bit again. Draw a face in circle 8. (3 min); day 9: Taste a tiny bit again. Draw a face in circle 9. (3 min); day 10: Taste for the tenth time. Draw the last face. Look at all ten faces together. (8 min)
+- **record:** The ten words, one for each taste.
+- **schedule:** day 1: Pick the food. A grown-up draws 10 circles. Taste a pea-sized bit and write your word in circle 1. (5 min); day 2: Taste a tiny bit again. Write your word in circle 2. (3 min); day 3: Taste a tiny bit again. Write your word in circle 3. (3 min); day 4: Taste a tiny bit again. Write your word in circle 4. (3 min); day 5: Taste a tiny bit again. Write your word in circle 5. (3 min); day 6: Taste a tiny bit again. Write your word in circle 6. (3 min); day 7: Taste a tiny bit again. Write your word in circle 7. (3 min); day 8: Taste a tiny bit again. Write your word in circle 8. (3 min); day 9: Taste a tiny bit again. Write your word in circle 9. (3 min); day 10: Taste for the tenth time. Write the last word. Look at all ten words together. (8 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Let your child pick one food they do not like yet, from your usual meals. 2. Draw 10 circles together. 3. Put a pea-sized bit on a spoon. 4. Your child tastes it and draws a face in circle 1.  
+  *Parent does:* 1. Let your child pick one food they do not like yet, from your usual meals. 2. Draw 10 circles on a sheet. 3. Put a pea-sized bit on a spoon. 4. Your child tastes it and says yuck, okay or nice. Write that word in circle 1.  
   *Parent says:* Pick a food you don't like yet. Just taste a bit as small as a pea. You don't have to eat more.  
-  *Child mode:* Pick a food you don't like yet. Taste a tiny bit. Then draw a face.
+  *Child mode:* Pick a food you don't like yet. Taste a tiny bit. Then say how it was.
   - Note: Never push, bribe or praise heavily for eating it. Leann Birch found that pressure can make children like a food less. Spitting it into a napkin is allowed. The tasting is the whole job.
 - **s2 (3 min)**  
-  *Parent does:* Give a pea-sized taste at a calm moment, for example at the start of a meal. Your child draws a face in the next circle.  
-  *Parent says:* Here is today's tiny taste. How was it? Draw your face.  
-  *Child mode:* Taste a tiny bit. How was it? Draw a face.
+  *Parent does:* Give a pea-sized taste at a calm moment, for example at the start of a meal. Your child says yuck, okay or nice, and you write it in the next circle.  
+  *Parent says:* Here is today's tiny taste. How was it: yuck, okay or nice?  
+  *Child mode:* Taste a tiny bit. Say yuck, okay or nice.
   - Note: Serve the food the same way each time, so the taste is the same. It is fine to eat it alongside a food your child likes.
   - Wait: Taste again every day, on days 2 to 9.
 - **s3 (8 min)**  
-  *Parent does:* 1. Give the tenth taste. 2. Draw the last face. 3. Look at all ten faces in a row.  
-  *Parent says:* Look at your ten faces. Did they change? Why do you think they changed, or stayed the same?  
-  *Child mode:* Look at your ten faces. Did they change? Why?
-  - Ask: Why do you think the faces changed? (good: My tongue got used to it.; It didn't taste so strange any more.)
+  *Parent does:* 1. Give the tenth taste. 2. Write the last word. 3. Read all ten words in a row.  
+  *Parent says:* Look at your ten words. Did they change? Why do you think they changed, or stayed the same?  
+  *Child mode:* Look at your ten words. Did they change?
+  - Ask: Why do you think the words changed? (good: My tongue got used to it.; It didn't taste so strange any more.)
   - Ask: And if they did not change? (good: Maybe I need more tastes.; Maybe I just don't like it, and that is fine too.)
-  - Note: Many children's faces go from frowning to flat over ten tastes, and some reach a smile. Some do not change, and that is a real result too. Everyone has a few foods they never come to like.
+  - Note: Many children go from yuck to okay over ten tastes, and some reach nice. Some do not change, and that is a real result too. Everyone has a few foods they never come to like.
   - Wait: Come back on day 10.
 
 ## Challenges
 ### c1 · A Tiffin for a Hot School Day (20 min)
 - **problem:** Plan a tiffin for a hot day. It must give you food so you can play, some water inside the food, and a drink. It must stay fresh until lunch without a fridge.
-- **your turn:** Now plan your own tiffin. Draw it. Pack it on a real day, and see if it worked by lunchtime.
+- **your turn:** Now plan your own tiffin. Lay the foods out in the box, or tell your grown-up what you will pack. Pack it on a real day, and see if it worked by lunchtime.
 - **constraints:** Use foods your family has at home.; It must include one wet food and one drink.; It must be something you like to eat.
 - **general:** Pack curd rice and a few cucumber slices, with a bottle of water.; Pack an orange or a few pieces of watermelon, with idli or chapati.; Fill the water bottle to the top, so you have plenty for the day.
 - **creative:** Freeze a half-full bottle of water overnight, then fill it up in the morning. It stays cold for hours and keeps the tiffin cool too.; Wrap the bottle in a wet cotton cloth. When the water dries off the cloth, it takes some heat from the bottle. So the bottle stays cooler.; Pack a bottle of lemon water with a pinch of salt and a little sugar, for a drink that tastes good and replaces some of the water you sweat out.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Ask your child what goes wrong with a tiffin on a hot day.  
   *Parent says:* On a hot day at school, what goes wrong with a tiffin? What do you need most?  
-  *Child mode:* On a hot day, what goes wrong with a tiffin? What do you need?
+  *Child mode:* Think of a hot day at school, with no fridge.
   - Ask: What goes wrong? (good: The water gets warm.; I finish my water too soon.; The food goes bad.)
 - **s2 (10 min)**  
-  *Parent does:* Your child draws a tiffin with one wet food, one other food and a drink. Ask why they chose each one.  
-  *Parent says:* Draw your tiffin. Which food has water inside? Why did you pick it?  
-  *Child mode:* Draw your tiffin. Put in one wet food and a drink. Why those?
+  *Parent does:* Your child lays out, in the tiffin box, one wet food, one other food and a drink. Ask why they chose each one.  
+  *Parent says:* Lay out your tiffin. Which food has water inside? Why did you pick it?  
+  *Child mode:* Lay out your tiffin. Put in one wet food and a drink. Say why you chose them.
   - Note: Curd rice, idli and fruit keep well for a few hours. Very milky or creamy foods, and buttermilk, spoil faster in the heat.
 - **s3 (5 min)**  
   *Parent does:* Pack the planned tiffin on a real day. Afterwards, ask how it was.  

@@ -1,7 +1,7 @@
 # Magnet poles: the invisible field that pulls, pushes and cancels
 `sci.magnets.poles.L4`
 
-**Summary.** A paper clip lying on a table starts to slide towards a magnet when the magnet is still a few centimetres away. Nothing touches it, and nothing seems to be in between. Put a second magnet beside the first, north pole next to north pole, and the clip jumps from further away. Turn the second magnet round, and the pair reaches much less far than one magnet alone. Your child measures this with a paper clip and a ruler, maps the invisible region around a bar magnet with a small compass, and finds how quickly the pull fades with distance. They learn that a magnet fills the space around it with a magnetic field, and that two fields can add or cancel.
+**Summary.** A paper clip starts sliding towards a magnet before anything touches it. How does the magnet reach across the gap? In this unit you will measure how far a magnet pulls a clip, walk a small compass around a magnet to draw its field, and test what blocks the pull.
 
 **Intro.** *The magnet never touched the paper clip. So how did it move it? Slide a clip slowly across a smooth table towards a magnet. At some distance it suddenly jumps. What is reaching across the gap, and how far does it reach?* In the last unit on poles you found that a north pole and a south pole attract, and that two north poles repel. Now you ask what lies in the space between two magnets. Every magnet has a magnetic field around it, and you can find its shape with a compass. Make a guess now about how far a magnet can pull a clip, and keep it. You will test it soon.
 

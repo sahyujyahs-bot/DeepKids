@@ -1,7 +1,7 @@
 # Where food comes from: food from plants and food from animals
 `sci.food.where-food-comes-from.L1`
 
-**Summary.** A mango tree never eats, yet the tree grows big and makes mangoes. Plants make their own food from sunlight, air and water. Animals, including us, cannot do that, so we eat plants and other animals. Some of our food comes from plants, like rice, coconut and palak. Some comes from animals, like milk, eggs and honey. In this unit you make pretend flower nectar from sugar water and find out how bees turn nectar into thick honey.
+**Summary.** A mango tree never eats, yet it grows big and makes mangoes. How? In this unit you will sort your lunch into food from plants and food from animals, and turn thin sugar water thick to see how bees make honey from nectar.
 
 **Intro.** *Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?* Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this unit you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan. Bees make honey in a similar way.
 
@@ -179,31 +179,31 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 
 ## Games
 ### g1 · Leaf Plate, Cow Plate: a food sorting game (15 min)
-- **rules:** Before you play, your child draws the food on each card under the word, so a child who cannot read can play. The reader reads out each word.; Put the four plate labels on the floor. Put the leaf plate and the cow plate in front, and Both and Neither at the side.; Mix the cards and put them in a pile, words up.; On your turn, take the top card and say the food. Put the card on the plate where you think it belongs.; The reader turns the card over and reads the back. If you were right, make a mark by your name on a sheet of paper. If you were wrong, move the card to the correct plate.; When the pile is empty, count your marks. The player with the most marks wins. If two players have the same number, they both win. If you are playing alone, try to beat your marks from last time.
+- **rules:** Before you play, the reader reads out the word on each card, so a child who cannot read can play.; Put the four plate labels on the floor. Put the leaf plate and the cow plate in front, and Both and Neither at the side.; Mix the cards and put them in a pile, words up.; On your turn, take the top card and say the food. Put the card on the plate where you think it belongs.; The reader turns the card over and reads the back. If you were right, make a mark by your name on a sheet of paper. If you were wrong, move the card to the correct plate.; When the pile is empty, count your marks. The player with the most marks wins. If two players have the same number, they both win. If you are playing alone, try to beat your marks from last time.
 - **Printable cards: 24 food cards, with the answer on the back:** Rice (back: Plant. Rice grains are the seeds of the rice plant.); Milk (back: Animal. A cow, a buffalo or a goat makes milk.) [picture]; Banana (back: Plant. A banana is the fruit of the banana plant.) [picture]; Egg (back: Animal. A hen lays the egg.); Coconut (back: Plant. A coconut is the fruit of the coconut palm.) [picture]; Curd (back: Animal. Curd is made from milk.); Palak (back: Plant. Palak is the leaf of the palak plant.) [picture]; Ghee (back: Animal. Ghee is made from the cream of milk.); Carrot (back: Plant. A carrot is the root of the carrot plant.) [picture]; Paneer (back: Animal. Paneer is made from milk.); Mango (back: Plant. A mango is the fruit of the mango tree.); Fish (back: Animal. A fish lives in the sea, a river or a pond.) [picture]; Peanuts (back: Plant. Peanuts are seeds. Their pods grow under the soil.); Moong dal (back: Plant. Moong are the seeds of the moong plant.); Jaggery (back: Plant. Jaggery is made from sugarcane juice. Sugarcane is a stem.); Tomato (back: Plant. A tomato is the fruit of the tomato plant.); Ragi (back: Plant. Ragi grains are the seeds of the ragi plant.) [picture]; Buttermilk (back: Animal. Buttermilk is made from curd, and curd from milk.); Honey (back: Both. A flower made the nectar, and bees made it into honey.); Curd rice (back: Both. The rice is from a plant, and the curd is from milk.); Payasam (back: Both. Rice and jaggery are from plants, and the milk is from an animal.); Salt (back: Neither. Salt comes from sea water or from the ground. No plant or animal made salt.); Water (back: Neither. No plant or animal makes water. It comes from rain, rivers and wells.); Mushroom (back: Neither. A mushroom is a fungus, not a plant and not an animal.) [picture]
 - **Printable board: 4 plate labels:** Leaf plate: food from plants; Cow plate: food from animals; Both; Neither
 - **s1 (4 min)**  
-  *Parent does:* 1. Read each card to your child. 2. Your child draws the food on each card. 3. Lay out the four plate labels.  
-  *Parent says:* Each card is a food. Draw the food on the card. Then we sort them.  
-  *Child mode:* Draw a little picture of each food.
+  *Parent does:* 1. Read each card to your child. 2. Your child says the food, and whether they have eaten it. 3. Lay out the four plate labels.  
+  *Parent says:* Each card is a food. Tell me if you have eaten it. Then we sort them.  
+  *Child mode:* Listen to each card. Say if you have eaten the food.
 - **s2 (8 min)**  
   *Parent does:* 1. Take turns with the cards. 2. Read the back of each card aloud. 3. Stop at the tricky cards and talk about them.  
-  *Parent says:* Where does honey go? Who made the nectar, and who made the honey?  
-  *Child mode:* Take a card. Leaf plate or cow plate? Say why.
-  - Ask: Why does curd go on the cow plate, when curd does not look like a cow? (good: Curd is made from milk.; A cow made the milk.)
-  - Note: The tricky cards are the point. Let your child argue for a plate before you read the back.
+  *Parent says:* Take the top card. Say the food, and where you think it goes.  
+  *Child mode:* Put your card on a plate. Say why you chose that plate.
+  - Ask: Why does curd go on the cow plate? (good: Curd is made from milk.; A cow made the milk.)
+  - Note: The tricky cards are the point. Let your child argue for a plate before you read the back. On the honey card, ask who made the nectar and who made the honey.
 - **s3 (3 min)**  
   *Parent does:* Count the cards on each plate together. Count each player's marks. Then ask the check question.  
-  *Parent says:* Which plate has the most cards? Why do you think so?  
-  *Child mode:* Count the cards on each plate. Which has the most? Count your marks.
+  *Parent says:* Let's count the cards on each plate. Which plate has the most? Why do you think so?  
+  *Child mode:* Count the cards on each plate, and count your marks.
   - Check: Which plate does a banana go on? → **The leaf plate**
 ### g2 · Who Made My Food? a memory game (15 min)
-- **rules:** Before you play, draw on each card: the food, or the plant or animal.; Mix the cards and lay them face down in rows of five.; On your turn, turn over two cards. If one is a food and the other is the plant or animal who made that food, keep both. Then take another turn.; If they do not match, turn them face down again. The next player has a turn.; When all the cards are matched, the player with the most pairs wins. If two players have the same, they both win.
+- **rules:** Before you play, read out each card, so a child who cannot read can play.; Mix the cards and lay them face down in rows of five.; On your turn, turn over two cards. If one is a food and the other is the plant or animal who made that food, keep both. Then take another turn.; If they do not match, turn them face down again. The next player has a turn.; When all the cards are matched, the player with the most pairs wins. If two players have the same, they both win.
 - **Printable cards: 20 cards: 10 foods and 10 makers:** Milk; A cow [picture]; Egg; A hen [picture]; Honey; Honey bees [picture]; Rice; A rice plant [picture]; Coconut; A coconut palm [picture]; Peanuts; A peanut plant [picture]; Jaggery; Sugarcane [picture]; Palak; A palak plant [picture]; Banana; A banana plant [picture]; Mango; A mango tree [picture]
 - **s1 (4 min)**  
-  *Parent does:* 1. Read each card to your child. 2. Draw the pictures together. 3. Lay the cards face down in four rows of five.  
-  *Parent says:* Each food has a maker. Let's draw them all, then hide them.  
-  *Child mode:* Draw each card. Then turn them face down.
+  *Parent does:* 1. Read each card to your child. 2. Lay the cards face down in four rows of five.  
+  *Parent says:* Each food has a maker. Let's read all the cards, then turn them face down.  
+  *Child mode:* Listen to each card. Then help turn them face down.
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. Each time someone finds a pair, say the pair out loud.  
   *Parent says:* Honey and honey bees! The bees made the honey from flower nectar.  
@@ -220,19 +220,19 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 - **question:** Bees make honey from thin, watery nectar. Here we make pretend nectar from sugar and water. We leave one drop open to the moving air, and we cover one drop with a katori. Which one will turn thick, like honey?
 - **predict:** Guess first. Tomorrow, will the drop under the fan be runny like water, or thick like honey? What about the covered drop? Why do you think so?
 - **fair test:** Both drops are the same sugar water, the same size, on the same kind of plate, in the same room. Only one thing is different: one drop is open to the moving air, and one is covered by a katori.
-- **record:** Draw the two plates after you tilted them. Show which drop ran and which one stayed.
+- **record:** Draw the two plates after you tilted them, and show which drop ran and which one stayed. Or take a photo, or tell your grown-up what you saw.
 - **results table:** Which drop | How the drop looks and feels | What happens when we tilt the plate
 - **schedule:** day 1: Make sugar water. Feel how runny it is. Guess which drop will turn thick. Put one drop under the fan, and cover one drop with a katori. (10 min); day 1: In the evening, peep at both drops without touching them. (3 min); day 2: Touch both drops. Tilt both plates. Say what you saw and why. (11 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Put 4 spoons of water in a cup. 2. Your child adds 1 spoon of sugar. 3. Stir until the water is clear again. 4. Your child tastes a drop on a clean finger.  
-  *Parent says:* This is pretend nectar. Flower nectar is thin and sweet like this. Taste it. Is it runny like water, or thick like honey?  
-  *Child mode:* Stir the sugar into the water. Taste one drop. Is it thin or thick?
+  *Parent says:* This is pretend nectar. Flower nectar is thin and sweet like this. Taste a drop.  
+  *Child mode:* Stir the sugar into the water. Taste one drop. Feel how runny it is.
   - Ask: How is this sugar water like honey? How is it different? (good: Both are sweet.; The sugar water is runny. Honey is thick.)
   - Note: If you have honey, let your child tip a spoon of honey too, and see how slowly it moves.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess, and to say why. Write the guess down, or draw it.  
-  *Parent says:* One drop will stay under the fan all night. One drop will hide under a katori. Which one will turn thick? Why do you think so?  
-  *Child mode:* Guess. Which drop will turn thick? Why?
+  *Parent says:* One drop will stay open under the fan all night. One drop will hide under a katori. Which one will turn thick?  
+  *Child mode:* Pick the drop you think will turn thick.
   - Ask: Why do you think so? (good: The fan one, because the fan will dry it.; Both will stay the same, because nothing is added.)
   - Note: Any guess with a reason is a good guess. Do not say which is right. The test will show.
 - **s3 (4 min)**  
@@ -243,66 +243,66 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
   - Wait: Leave both plates under the fan until the evening.
 - **s4 (3 min)**  
   *Parent does:* In the evening, look at both drops together. Do not touch them yet.  
-  *Parent says:* Look at the two drops. Has either one changed? Is one smaller?  
-  *Child mode:* Look at both drops. Has one changed?
+  *Parent says:* Look at the two drops. Is either one smaller? Does either look different?  
+  *Child mode:* Look closely, but do not touch yet.
   - Wait: Leave both plates under the fan overnight.
 - **s5 (6 min)**  
-  *Parent does:* 1. Lift the katori. 2. Your child touches each drop with a clean fingertip. 3. Tilt each plate slowly, and watch each drop. 4. Put a drop of honey on a plate and tilt that too.  
-  *Parent says:* Touch each drop. Now tilt the plates slowly. Which drop runs? Which one stays?  
-  *Child mode:* Touch each drop. Tilt each plate. Which drop runs?
+  *Parent does:* 1. Lift the katori. 2. Your child touches each drop with a clean fingertip. 3. Tilt each plate slowly, and watch each drop. 4. If you have honey, put a drop on a plate and tilt that too.  
+  *Parent says:* Touch each drop gently. Now tilt each plate slowly, and watch.  
+  *Child mode:* Tilt each plate slowly. Watch which drop runs.
   - Ask: What happened to the drop under the fan? What happened to the covered drop? (good: The fan drop went thick and sticky. It hardly moved.; The covered drop was still wet and ran down the plate.)
   - Note: The open drop is usually thick, sticky and smaller. It may even dry into a hard, shiny crust. The covered drop stays runny, and you may see tiny water drops inside the katori. In very damp weather, leave the plates one more day.
 - **s6 (5 min)**  
   *Parent does:* 1. Ask your child what they saw, and why they think it happened. 2. Then tell them how bees make honey.  
-  *Parent says:* The moving air took water out of the open drop. The water evaporated. Bees fan their wings over nectar in the same way, until the nectar turns thick. That is honey.  
+  *Parent says:* The moving air took water out of the open drop. The water evaporated, which means it went into the air as tiny bits too small to see. Bees fan their wings over nectar in the same way, until the nectar turns thick. That is honey.  
   *Child mode:* The fan dried the open drop. Bees fan nectar with their wings. Then nectar turns into honey.
   - Ask: Why did the covered drop stay runny? (good: The katori kept the moving air away.; The water could not go off into the room.)
   - Check: The open drop turned thick, and the covered drop stayed runny. Why? → **Moving air made the water evaporate from the open drop**
 
 ## Activities
 ### a1 · Leaf Plate, Cow Plate: sort your lunch (10 min)
-- **record:** Draw your two plates and the foods on each.
+- **record:** Take a photo of your two plates and the foods on them, or draw them.
 - **s1 (2 min)**  
-  *Parent does:* 1. Draw a leaf and a cow on two pieces of paper. 2. Put one beside each plate. 3. Set out the foods.  
+  *Parent does:* 1. Write Leaf plate and Cow plate on two pieces of paper. Your child may add a small drawing. 2. Put one beside each plate. 3. Set out the foods.  
   *Parent says:* This is the leaf plate, for food from plants. This is the cow plate, for food from animals.  
-  *Child mode:* This is the leaf plate. This is the cow plate.
-  - Ask: Which of these foods do you think came from a plant? Which came from an animal? (good: Rice and banana came from plants.; Milk and eggs came from animals.)
+  *Child mode:* Look at the two plates and the foods.
+  - Ask: Point to one food from a plant and one food from an animal. How do you know? (good: Rice and banana came from plants.; Milk and eggs came from animals.)
 - **s2 (5 min)**  
   *Parent does:* Your child picks up each food, says what it is, and puts it on a plate. Ask why each time.  
   *Parent says:* Where does this go? Who made this food, a plant or an animal?  
-  *Child mode:* Pick a food. Put it on the leaf plate or the cow plate. Say why.
+  *Child mode:* Pick a food. Put it on a plate. Say why you chose that plate.
   - Ask: Where does ghee go? Why? (good: The cow plate, because ghee is made from milk.)
   - Ask: Where does salt go, and why? (good: On the side, because no plant or animal makes salt.; It is neither, because salt comes from sea water or the ground.)
   - Note: Salt fits neither plate. Put it in a small katori (a small bowl) to one side. Salt comes from sea water or the ground, and no plant or animal made salt. Don't explain the others yet. Let your child argue.
 - **s3 (3 min)**  
   *Parent does:* Count the foods on each plate together.  
-  *Parent says:* Which plate has more food on it? Why do you think so?  
-  *Child mode:* Count the foods on each plate. Which has more?
-  - Ask: Why do you think the leaf plate has more? (good: We eat lots of plants.; Rice and dal and vegetables are all plants.)
+  *Parent says:* Count the foods on each plate with me. Which plate has more?  
+  *Child mode:* Count the foods on each plate.
+  - Ask: Why do you think that plate has more? (good: We eat lots of plants.; Rice and dal and vegetables are all plants.)
   - Note: In most Indian kitchens, the leaf plate wins easily. Even in families who eat fish or meat, most of a meal is rice, wheat, dal and vegetables.
 ### a2 · The Feely Bag: guess the food by touch (10 min)
-- **record:** Draw the foods from the bag. Put a green dot by each food from a plant, and a red dot by each food from an animal.
+- **record:** Line up the foods in two groups on the mat, plant foods and animal foods. Take a photo, or draw them with a green dot by each plant food and a red dot by each animal food.
 - **s1 (2 min)**  
   *Parent does:* Without your child seeing, put the foods in the bag.  
   *Parent says:* There are some foods in this bag. You can only use your hands. No peeping!  
-  *Child mode:* Put your hand in the bag. No peeping!
+  *Child mode:* Put your hand in the bag and feel one food. Keep your eyes shut.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child feels one food and describes the food out loud. 2. They guess what it is. 3. They take it out to check. 4. They say if it came from a plant or an animal.  
   *Parent says:* Is it smooth or rough? Hard or soft? What do you think it is? Did a plant or an animal make this food?  
-  *Child mode:* Feel one food. Is it smooth or rough? Guess. Then take it out.
-  - Ask: How did you know it was a peanut? (good: It was bumpy and light.; It rattled when I shook it.)
+  *Child mode:* Feel one food. Guess what it is. Then take it out to check.
+  - Ask: What did you feel that told you what the food was? (good: It was bumpy and light.; It rattled when I shook it.)
 - **s3 (2 min)**  
-  *Parent does:* Look at all the foods together.  
+  *Parent does:* Lay all the foods on the mat in two groups, plant foods and animal foods.  
   *Parent says:* How many came from plants? How many came from animals?  
-  *Child mode:* Count the plant foods. Count the animal foods.
+  *Child mode:* Count each group.
   - Ask: Which part of a plant is the potato, and which part is the peanut? (good: The potato is a stem that grows under the soil.; The peanut is a seed.)
   - Note: A potato is a fat stem that grows under the soil. A peanut is a seed, and peanut pods grow under the soil too. An onion is made of thick leaves.
 ### a3 · The Ants' Menu: what do ants carry home? (15 min)
-- **record:** Draw the four foods and draw ants next to the ones they visited.
+- **record:** Write down each food and how many ants you counted at it. You can also take a photo of the paper.
 - **s1 (4 min)**  
   *Parent does:* 1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put a sheet of paper there. 3. Put the four food bits in a row on the paper, a finger apart.  
-  *Parent says:* Which food do you think the ants will like best? Why?  
-  *Child mode:* Put four foods near the ants. Which one will ants like?
+  *Parent says:* We will put four foods near the ants. Which food will the ants like best?  
+  *Child mode:* Put the four foods on the paper, a finger apart.
   - Ask: Why do you think so? (good: Sugar, because ants like sweet things.; The egg, because ants eat insects.)
 - **s2 (6 min)**  
   *Parent does:* Watch together for 5 minutes. Count the ants at each food.  
@@ -312,30 +312,30 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 - **s3 (5 min)**  
   *Parent does:* Look again after half an hour. Then clean up.  
   *Parent says:* Which foods did the ants find? Did they carry any away?  
-  *Child mode:* Look again. Which foods did the ants take?
+  *Child mode:* Look at each food again. Which ones are gone?
   - Ask: Do ants eat food from plants, from animals, or both? (good: Both. They went to the sugar and the egg.)
   - Note: Many kinds of ants live in Indian homes, and they like different foods. Sugar is usually found first. If no ants come in an hour, try again near the kitchen sink on another day.
 
 ## Projects
 ### p1 · My Food Week: a leaf and cow diary (35 min, 7 days)
 - **record:** Keep the food week sheet, with the number of green dots and red dots written at the bottom.
-- **schedule:** day 1: Fold the paper into 7 boxes. Draw today's lunch in the first box. Add green and red dots. (5 min); day 2: Draw today's lunch. Add the dots. (4 min); day 3: Draw today's lunch. Add the dots. (4 min); day 4: Draw today's lunch. Add the dots. (4 min); day 5: Draw today's lunch. Add the dots. (4 min); day 6: Draw today's lunch. Add the dots. (4 min); day 7: Draw today's lunch. Count all the green dots and all the red dots. Talk about what you found. (10 min)
+- **schedule:** day 1: Fold the paper into 7 boxes. Write today's lunch in the first box. Add green and red dots. (5 min); day 2: Write today's lunch. Add the dots. (4 min); day 3: Write today's lunch. Add the dots. (4 min); day 4: Write today's lunch. Add the dots. (4 min); day 5: Write today's lunch. Add the dots. (4 min); day 6: Write today's lunch. Add the dots. (4 min); day 7: Write today's lunch. Count all the green dots and all the red dots. Talk about what you found. (10 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Fold a sheet into 7 boxes. 2. Write a day in each box. 3. Your child draws today's lunch in the first box. 4. Put a green dot by each food from a plant and a red dot by each food from an animal.  
-  *Parent says:* Draw your lunch. Then put a green dot by each food from a plant and a red dot by each food from an animal.  
-  *Child mode:* Draw your lunch. Green dot for plants. Red dot for animals.
+  *Parent does:* 1. Fold a sheet into 7 boxes. 2. Write a day in each box. 3. Your child tells you the foods in today's lunch, and you write each food in the first box. 4. Put a green dot by each food from a plant and a red dot by each food from an animal.  
+  *Parent says:* Tell me what is in your lunch, and I will write each food. Then put a green dot by each food from a plant and a red dot by each food from an animal.  
+  *Child mode:* Say the foods in your lunch. Green dot for plants. Red dot for animals.
   - Wait: Do the same every day for six more days.
 - **s2 (4 min)**  
-  *Parent does:* Each day, your child draws lunch and adds the dots. Talk about one food each day.  
+  *Parent does:* Each day, your child says the foods in lunch, you write them, and your child adds the dots. Talk about one food each day.  
   *Parent says:* Look at today's lunch. Pick one food. Did a plant make this food, or an animal?  
-  *Child mode:* Draw today's lunch. Add the dots.
+  *Child mode:* Say what is in today's lunch. Add a dot to each food.
   - Ask: Suppose lunch is sambar with dal, tomato and drumstick. Which dot does each one get? (good: All green. They are all from plants.)
   - Note: One food can get two dots. Curd rice gets a green dot for the rice and a red dot for the curd.
 - **s3 (10 min)**  
   *Parent does:* 1. On day 7, count all the green dots. 2. Count all the red dots. 3. Write both numbers at the bottom.  
-  *Parent says:* Which colour has more dots? Why do you think so?  
-  *Child mode:* Count the green dots. Count the red dots. Which has more?
-  - Ask: Why do you think there are more green dots? (good: We eat lots of rice and vegetables.; Most of our food is from plants.)
+  *Parent says:* Let's count the dots. Which colour has more?  
+  *Child mode:* Count the green dots. Count the red dots.
+  - Ask: Why do you think that colour has more dots? (good: We eat lots of rice and vegetables.; Most of our food is from plants.)
   - Note: Every family is different. A family who eats fish every day will have more red dots. The point is to look closely at what is on the plate.
 
 ## Challenges
@@ -347,17 +347,17 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 - **creative:** A paintbrush, whose hairs hold water between them, like a real honey bee's hairy tongue.; Two cotton buds tied together.; A fold of paper shaped like a little cup.
 - **c1s1 (3 min)**  
   *Parent does:* Read the challenge to your child. Show the cup of sugar water, the five bottle caps and the five tools.  
-  *Parent says:* You are a bee. This cup is a flower full of nectar. These caps are your hives. Which tool will carry the most?  
-  *Child mode:* You are a bee. Which tool carries the most nectar home?
+  *Parent says:* You are a bee. This cup is a flower full of nectar. These caps are your hives.  
+  *Child mode:* Look closely at the five tools.
   - Ask: Which tool do you think will carry the most? Why? (good: The spoon, because the spoon is the biggest.; The cloth, because cloth soaks up water.)
 - **c1s2 (10 min)**  
   *Parent does:* 1. Your child dips one tool into the cup, carries it to a bottle cap, and taps or squeezes the sugar water into the cap. 2. Do this 10 times. 3. Do the same with each tool, using a new cap each time. 4. Line up the caps.  
   *Parent says:* Dip, carry, drip. Ten times. Count with me.  
   *Child mode:* Dip, carry, drip. Do it ten times with each tool.
 - **c1s3 (4 min)**  
-  *Parent does:* Look at the five caps together. Which cap is the fullest?  
-  *Parent says:* Which cap has the most nectar? Which tool did that?  
-  *Child mode:* Which cap is the fullest?
+  *Parent does:* Line up the five caps and look at them together.  
+  *Parent says:* Which cap has the most nectar? Which tool filled it?  
+  *Child mode:* Compare the caps. Pick the fullest one.
   - Ask: Why did that tool carry the most? (good: It held lots of drops between the hairs.; It was big.)
   - Note: Results differ with the tools you have. The spoon often carries the most, and the paintbrush often beats the straw and the cotton bud.
 - **c1s4 (3 min)**  

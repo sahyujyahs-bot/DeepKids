@@ -1,7 +1,7 @@
 # How animals choose partners: displays, songs, dances and nests
 `sci.animals.courtship-and-mates.L4`
 
-**Summary.** A peacock grows a train about one and a half metres long, with about 150 eyespots. The train does not help him to eat or to hide. He grows it because peahens choose which peacock will father their chicks. Courtship is everything animals do to find and win a partner for having young. It includes displays, songs, dances, nests and gifts. Your child changes one thing on a paper train and counts what choosers pick. They also test whether a long tail makes a paper bird fly a shorter distance.
+**Summary.** A peacock's long tail makes flying harder, so why does he have it? In this unit you will watch pigeons at the window, test whether one change to a display changes what is chosen, test how a long tail slows flight, and play a call-and-answer game.
 
 **Intro.** *A peacock's train is about one and a half metres long. A tiger can see the train from far away, and the train is heavy to carry. He sheds the train every year and grows a new one. Why does he grow something so costly?* The peacock grows his train because peahens choose. A peahen walks past several peacocks, watches them, and picks one to be the father of her chicks. The things animals do to find and win a partner are called courtship. A magpie robin sings. Two sarus cranes dance. A weaver bird builds a nest and waits for a female to inspect it. In this unit you run a choosing test with paper trains. You also find out what a long tail costs a flyer.
 
@@ -575,8 +575,8 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 
 ## Videos
 - **A peacock raising and shaking his train, with the rustling sound** (, 4 min) id `to find`: To see and hear the shaking of the train, which a still photo cannot show. *Check:* No address yet. Find a clip from a nature channel or a zoo, filmed with sound. Check that it shows a peahen nearby, and that it does not call the train a tail.
-- **A white-spotted pufferfish making his circle in the sand** (, 4 min) id `to find`: To watch a fish 12 centimetres long shape a circle 2 metres wide with his fins. *Check:* No address yet. Find a clip from a nature film or a science channel. Check that it names the pufferfish as the maker and shows the finished circle from above.
-- **A pair of sarus cranes dancing and calling together** (, 4 min) id `to find`: To see both partners bow, leap and call in a duet. *Check:* No address yet. Find a clip filmed in India if possible. Check that it shows two birds dancing together, and that the birds are sarus cranes with red heads.
+- **A white-spotted pufferfish making his circle in the sand** (, 4 min) id `1k0MMxhOVpA`: To watch a fish 12 centimetres long shape a circle 2 metres wide with his fins. *Check:* Found by YouTube search: Pufferfish Builds Sand Sculpture for Mating, Nature on PBS Title checked automatically; a parent may still preview it.
+- **A pair of sarus cranes dancing and calling together** (, 4 min) id `FnhooSMw7eY`: To see both partners bow, leap and call in a duet. *Check:* Found by YouTube search: Sarus cranes dancing at the Saint Louis Zoo, Saint Louis Zoo Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is courtship for?  

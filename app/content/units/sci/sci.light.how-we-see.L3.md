@@ -1,7 +1,7 @@
 # How we see: light comes into our eyes
 `sci.light.how-we-see.L3`
 
-**Summary.** We can see only when light comes into our eyes. A lamp, the Sun or a fire makes its own light, but most things, like a mango or your friend's face, make none. We see them because light bounces off them and travels into our eyes. At the back of each eye, a thin layer called the retina catches the light, and the optic nerve carries signals from it to the brain. For more than a thousand years, many thinkers believed that eyes sent out rays to touch things. About a thousand years ago in Cairo, Ibn al-Haytham showed that light travels the other way, from things into the eye.
+**Summary.** Is it light going into your eye that lets you see, or something coming out of it? In this unit you will try to see inside a dark box, watch your pupils change, find your blind spot, and draw the path light takes into your eye.
 
 **Intro.** *Close your eyes. Now open them. Did something go out of your eyes to the room? Or did something come into your eyes from the room?* Try this tonight with a grown-up. Go into the darkest room you have, such as a bathroom, switch off the light and shut the door. Push a towel against the gap under the door. Open your eyes as wide as you can, and hold your hand in front of your face. If no light gets in, you cannot see your hand at all, even though your eyes are healthy and open. Why not? By the end of this unit you will know what your eyes need, and what really happens when you look at something.
 

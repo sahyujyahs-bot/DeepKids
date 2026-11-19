@@ -1,7 +1,7 @@
 # Alive, once alive, never alive: the signs of life
 `sci.what-is-life.signs-of-life.L1`
 
-**Summary.** A crow, a mint leaf and a steel spoon sit on the same windowsill. Only the crow and the mint are alive. Living things eat, grow, move, breathe and have young. Some things were alive once, like a wooden spoon or a dry leaf. Some things were never alive, like a stone or a steel spoon. In this unit you sort the things in your kitchen, and find out if a picked mint leaf is still alive.
+**Summary.** Is a mint leaf still alive after it is picked? In this unit you will sort things in your kitchen into alive, once alive and never alive, watch a picked mint leaf for a day, breathe on a steel plate, and play a wiggle or statue game.
 
 **Intro.** *Hold a fresh mint leaf in one hand and a steel spoon in the other. Both are cool. Both stay still. Which one is alive?* Most children say the mint leaf. But how can we tell? The spoon does not move, and the leaf does not move either. Scientists look for signs of life. A living thing eats, grows, moves, breathes and has young. A spoon does none of these. In this unit we test some of these signs at home, on mint leaves, on our breath and on ourselves.
 

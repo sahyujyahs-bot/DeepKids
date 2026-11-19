@@ -1,7 +1,7 @@
 # Born knowing and learning: what animals can do from birth, and what they learn
 `sci.animal-behaviour.born-knowing.L2`
 
-**Summary.** A baby spider spins her first web with no one to show her how. Animals can do some things from the day they are born, with no teaching. This is called instinct. Other things an animal learns, by trying again and again, or by watching others. Humans are animals too: a newborn baby grips your finger without being taught, but has to learn to talk. Your child tests their own knee kick, a born-with action, to find out whether they can stop it by trying.
+**Summary.** Can you stop your own knee from kicking when it is tapped, just by trying? In this unit you will test it and count your results, play a game of a baby turtle finding the sea in the dark, and race through what a baby knows from birth and what it must learn.
 
 **Intro.** *Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does each baby know how?* Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this unit you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?
 

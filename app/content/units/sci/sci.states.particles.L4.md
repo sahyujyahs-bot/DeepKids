@@ -1,7 +1,7 @@
 # Particles: one picture that explains why solids hold, liquids pour and gases squash
 `sci.states.particles.L4`
 
-**Summary.** One drop of red food colour turns a cup of water pink. Pour a spoonful of that pink water into a cup of fresh water, then do it again and again. The colour gets fainter each time, but it does not vanish at once. Press the plunger of a syringe full of air, and the air squashes to less than half. Press one full of water, and it will not move. Your child dilutes colour through a row of cups and squeezes air and water. Then they build one picture, the particle model, that explains what a solid, a liquid and a gas are, and why the steam in a pressure cooker can make it whistle.
+**Summary.** Press a syringe full of air and it squashes to less than half. Press one full of water and it will not move. Why? In this unit you will thin one drop of colour through a row of cups, squeeze air and water, and build a picture of particles.
 
 **Intro.** *Put one drop of red colour into a cup of water, and the whole cup turns pink. Now take a spoonful of that pink water and mix it into a fresh cup. Do it again, and again. How many cups can one single drop colour before the pink is gone?* The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this unit you test how far one drop goes, and you squeeze air and water in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.
 

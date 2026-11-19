@@ -1,7 +1,7 @@
 # Evaporation and condensation with particles: what speeds up drying, and how the water cycle works
 `sci.states.evaporation-and-condensation.L5`
 
-**Summary.** A tumbler of water at room temperature has no flame under it, yet its level drops a little every day. The particles of the water move at many different speeds. The fastest ones at the surface escape into the air as water vapour. That is evaporation. Warmth, a wider surface, moving air and dry air all speed it up. When particles of vapour slow down on something cool, they join again as drops. That is condensation. Your child measures how the size of the surface changes evaporation. They find out why evaporation cools the water left behind, and they explain the water cycle with particles.
+**Summary.** A tumbler of water on a shelf has no flame under it, yet its level drops a little every day. Where does the water go? In this unit you will test whether a wider surface loses more water, see if water cools more slowly when it cannot evaporate, and explain the water cycle.
 
 **Intro.** *After a head bath, hair left loose dries in about an hour. The same hair tied in a tight plait can still be damp at bedtime. The hair, the water and the air are the same. So why does the plait stay wet?* Water can leave only from a surface that touches the air. Loose hair has a very large surface, and a plait hides most of that surface inside. In this unit you find out what happens at the surface of water. You measure how much more water leaves a wide plate than a narrow tumbler. You find out why hot milk cools faster in a davara than in a tumbler. Then you follow particles of water from the sea up to a cloud and back down as rain.
 

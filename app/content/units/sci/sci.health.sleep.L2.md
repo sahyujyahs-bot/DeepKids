@@ -1,7 +1,7 @@
 # Sleep: why we need it, and how a bedtime routine helps
 `sci.health.sleep.L2`
 
-**Summary.** Learn eight picture pairs at bedtime, go to sleep, and in the morning most of them are still in your head. While you sleep, your brain keeps what you learned, your body grows, and your body mends small hurts. Your child tests their memory across a night and across a day, and finds out that humans and nearly every other animal sleep, even a jellyfish with no brain. Then they make a bedtime routine that helps them fall asleep.
+**Summary.** Learn eight picture pairs at bedtime, and most are still in your head in the morning. Is that the sleep? In this unit you will test your memory across a night and across a day, sort bedtime habits in a game, and make your own bedtime routine.
 
 **Intro.** *Think about last night. You lay down and closed your eyes. The next thing you knew, it was morning. What was your body doing all that time?* Most children say 'nothing'. But a sleeping body is busy. In this unit we test what happens to things you learn when you sleep on them. We find out which animals sleep, and how. We also learn why we need sleep at all, and how a bedtime routine helps you fall asleep.
 

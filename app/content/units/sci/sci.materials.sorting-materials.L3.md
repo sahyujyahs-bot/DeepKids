@@ -1,7 +1,7 @@
 # Sorting materials: how the rule you choose decides the groups
 `sci.materials.sorting-materials.L3`
 
-**Summary.** Ask 'Is it hard?', and a steel spoon and a wooden spoon go in the same group. Ask 'Is it shiny?', and they go in different groups. Sorting means putting things into groups by a rule, and the rule decides the groups. The child sorts one heap in several ways, and settles tricky things, like a candle, with a test. They also learn three sorting tools: the Venn diagram, the Carroll table and the branching key. Scientists sorted elements, stars and living things in the same way, and some of those sorts led to discoveries.
+**Summary.** A tricky thing can land in a different group depending on the rule you choose. In this unit you will sort one heap three ways, guess hidden rules, race to find which question key is fastest, and sort things by their sound.
 
 **Intro.** *Try this. Put six things on the floor: a steel spoon, a wooden spoon, a glass bangle, a rubber band, a comb and a candle. Make two groups. Now mix them up and make two different groups. How many different ways can you find?* In every town in India there is a kabadiwala. This is a person who buys old newspapers, bottles, tins and iron. He or she sells them on, so they can be made into new things. Watch a kabadiwala work and you see sorting all day long. Paper goes here. Glass goes there. Iron goes in a third pile. But the same heap could be sorted in many other ways: by colour, by weight, or by whether it rings when you drop it. Which way is right? That depends on what the sorting is for.
 

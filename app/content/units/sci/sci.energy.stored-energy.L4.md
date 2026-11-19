@@ -1,7 +1,7 @@
 # Stored energy: pull a band back twice as far and it stores more than twice the energy, but lift a ball twice as high and it stores only twice the energy
 `sci.energy.stored-energy.L4`
 
-**Summary.** Pull a rubber band back 2 centimetres and let go, and a bar of soap slides a short way. Pull it back 4 centimetres, twice as far, and the soap slides far more than twice as far. Yet a ball dropped from twice the height bounces only twice as high. A stretched band and a lifted ball both hold energy, and each kind of store fills up in its own way. In this unit you measure both, find out what lets stored energy out, and trace it back to where it first came from.
+**Summary.** Pull a rubber band back twice as far and a bar of soap slides far more than twice as far, yet a ball dropped from twice the height only bounces twice as high. Why? In this unit you will measure both, play a card game about stores and triggers, and trace energy back to the Sun.
 
 **Intro.** *Stand two pencils in clay with a rubber band round them. Put a bar of soap against the band, and pull the soap back 2 centimetres. Let go, and the soap slides away. Now pull it back 4 centimetres, twice as far. How far will it slide?* Most people guess twice as far. Try it and see. Before you let go, the pulled band was holding energy. Energy that is held like this is called stored energy, and the thing that holds it is called a store. A longer pull put more energy in. In this unit you measure how much more, for a band and for a lifted ball. You also find out what holds stored energy in place, where it first came from, and why a ball bounces lower every time.
 

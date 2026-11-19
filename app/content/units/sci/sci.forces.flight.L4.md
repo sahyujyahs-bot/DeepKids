@@ -1,7 +1,7 @@
 # Steering through air: drag, balance and control in flight
 `sci.forces.flight.L4`
 
-**Summary.** A raindrop can fall from a cloud a kilometre up, yet it lands at no more than about 30 kilometres an hour. Why does it stop speeding up? The air pushes back on anything that moves through it, and pushes harder the faster the thing goes. Your child races parachutes, steers paper planes by bending their wings, and watches smoke whirl behind a card. They find out why shape matters, why a shuttlecock always lands cork first, how flyers turn, and why geese take turns at the front of a line.
+**Summary.** Why does a parachute slow a fall, and why does a shuttlecock always fly tip-first? In this unit you will feel how hard moving air pushes on a card, race parachutes in a fair test, watch air swirl behind a card in smoke, and fix flyers that go wrong.
 
 **Intro.** *Hold a flat card in front of your chest and walk fast across the room. Feel the card push back. Now turn the card edge-on and walk again. The card is the same, and you walk at the same speed. What changed?* Nothing changed except how much of the card faces the air. Air is a real material, and a moving thing has to push it out of the way. The air pushes back. That push is called drag, and flyers spend most of their effort fighting it, using it and steering with it. In this unit you race parachutes, bend paper wings to steer, and watch what a moving card leaves behind in the air.
 

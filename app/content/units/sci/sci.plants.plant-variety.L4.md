@@ -1,7 +1,7 @@
 # Plants of India: how a plant's own protection became our medicine
 `sci.plants.plant-variety.L4`
 
-**Summary.** A clove is a dried flower bud, and the strong-smelling chemical inside it keeps moulds and insects off the bud. Neem leaves, haldi, chilli and tulsi carry chemicals like this too. Plants make them to protect themselves, and people have borrowed them as medicines, spices and colours for thousands of years. Your child runs a fair test to see whether haldi and clove really stop mould, with a results table and a line graph. They also meet trees and flowers that grow naturally only in India. They learn how scientists test an old remedy and who should own that knowledge. Last, they learn to care for a pot plant and grow a new one from a cutting.
+**Summary.** A clove is a dried flower bud, and the strong-smelling chemical inside it keeps moulds and insects away. In this unit you will test whether haldi and clove stop mould growing on potato, ask your elders about family plant medicines, and find which money plant cuttings grow roots.
 
 **Intro.** *Open your spice box. Pick up one clove and look at it closely. Roll it between your fingers, then smell your fingers. That smell is strong. Who is the smell for?* A clove is not a seed or a stick. It is a flower bud, picked before it opened and dried in the sun. The bud is soft and full of food, so moulds and insects would love to eat it. Yet a clove bud keeps for months in a jar without going mouldy. Many grandmothers put a few cloves or dry neem leaves in the rice and dal tins. Is that only an old habit, or does it really work? In this unit you test it fairly, with numbers. Then you find out why so many medicines began inside plants.
 

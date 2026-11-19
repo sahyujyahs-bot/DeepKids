@@ -1,7 +1,7 @@
 # Rolling, sliding, spinning, swinging and bouncing: five ways things move
 `sci.motion.kinds-of-motion.L1`
 
-**Summary.** Give a round steel dabba the same push twice. On its side, it rolls far. Standing flat, it slides a little and stops. Things move in five main ways: they roll, slide, spin, swing and bounce. Your child moves in all five ways, hunts for them at home, and finds that rolling goes much further than sliding.
+**Summary.** Give a steel dabba the same push twice, once rolling and once sliding. Which goes further? In this unit you will move in five ways with your body, test the dabba, hunt for things that move in each way, and test which balls bounce back up.
 
 **Intro.** *Can you move your body in five different ways? Try to roll, slide, spin, swing and bounce.* Things move in different ways. A ball rolls. A chappal slides on a wet floor. A fan spins. A swing swings. A ball bounces. In this unit you move in all five ways, find them at home, and push one dabba two ways: does it go further when it rolls or when it slides?
 

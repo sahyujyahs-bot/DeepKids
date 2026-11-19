@@ -1,7 +1,7 @@
 # Simple machines: how a small push moves a big load
 `sci.forces.simple-machines.L3`
 
-**Summary.** A light child can lift a heavy grown-up on a see-saw, just by sitting further from the middle. A see-saw is a lever, one of the simple machines. The six simple machines are the lever, the inclined plane (a ramp), the wheel and axle, the pulley, the wedge and the screw. Each one makes a push or a pull easier, for example by letting a small force move a heavy load. But no machine gives something for nothing: a smaller push always has to travel a longer way. The same lever rule works in your elbow, inside your muscles, and between the Earth and the Moon.
+**Summary.** A light child can lift a heavy grown-up on a see-saw just by sitting further from the middle. How? In this unit you will balance a ruler see-saw with coins, test long and steep ramps, build a well winch from a small box, and hunt for levers at home.
 
 **Intro.** *Can you lift a grown-up off the ground, using only a plank? Most children think they are far too light. On a see-saw, a light child can do it, if the child sits in the right place. Where is that place, and why does it work?* About 2,200 years ago, a Greek thinker called Archimedes worked out the rule of the lever. A lever is a long, stiff bar that turns on one point. A later writer, Pappus, says Archimedes boasted: 'Give me a place to stand, and I will move the Earth.' Was he showing off? Or was he right? By the end of this unit, you can decide.
 

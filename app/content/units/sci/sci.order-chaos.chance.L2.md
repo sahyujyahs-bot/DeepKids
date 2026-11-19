@@ -1,7 +1,7 @@
 # Coins and dice: why many tosses are easier to guess than one
 `sci.order-chaos.chance.L2`
 
-**Summary.** Nobody can say whether the next coin toss will land heads or tails. But toss a coin 20 times, and heads comes up close to 10 times. Do it again, and again it is close to 10. Roll a die 30 times, and a six comes up only about 5 times, because a die has six faces and the six is only one of them. Each single toss or roll is a surprise. Many of them together follow a pattern we can count on. Chance is how likely something is when we cannot know for sure.
+**Summary.** Nobody can say how one coin toss will land, but twenty tosses give close to ten heads. Why? In this unit you will toss a coin and roll a die many times and keep a tally, play a slips game, and sort things into certain, likely, unlikely and impossible.
 
 **Intro.** *Hold a coin. Before you drop it on the bed, say 'heads' or 'tails'. Were you right? Try again. Can you get it right every time?* Some things we can say for sure. The Sun will rise tomorrow. A dropped spoon will fall down. Other things we cannot know, like how the next coin toss will land. In this unit you toss coins and roll a die many times, and keep count. You find out that one toss is a surprise, but many tosses are not. You also learn the words likely, unlikely, certain and impossible, and play games that are fair and games that are not.
 

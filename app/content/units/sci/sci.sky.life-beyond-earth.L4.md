@@ -1,7 +1,7 @@
 # Life beyond Earth: how scientists look for signs of life on faraway worlds
 `sci.sky.life-beyond-earth.L4`
 
-**Summary.** A bottle of sugar water with yeast blows up a balloon, and a bottle without yeast does nothing. You never saw the yeast. You saw only what they did to the air. Scientists hunting for life on faraway planets work in the same way, because no telescope can see a creature on a planet trillions of kilometres away. They look for the gases that life leaves behind. In this unit your child works out which bottles hold living yeast from the gas they make, finds how warm the milk must be for curd bacteria, and then asks where in space such signs might be found, and how sure we can ever be.
+**Summary.** No telescope can see a creature on a planet trillions of kilometres away. So how do scientists look for life there? In this unit you will tell which bottles hold living yeast from the gas they make, test how warm curd bacteria need it, and find planets from dips in starlight.
 
 **Intro.** *Two bottles stand on a table. They are sealed, and you cannot see through them. The balloon on one of them is slowly swelling, and the balloon on the other is flat. You cannot open them or look inside. What can you say about what is in each bottle?* You can say that something in the first bottle is making gas, and that something in the second is not. That is exactly the problem of a scientist who studies a planet from very far away. She cannot land, scoop up soil or look at a creature. She can only read the light that comes through a planet's air. In this unit you find out which bottles hold living yeast from the gas they make, test the warmth that curd bacteria need, and learn how scientists read the air of worlds they will never visit.
 

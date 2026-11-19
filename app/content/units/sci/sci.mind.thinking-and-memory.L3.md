@@ -1,7 +1,7 @@
 # Thinking and memory: how your brain learns and remembers
 `sci.mind.thinking-and-memory.L3`
 
-**Summary.** You can hear ten words once and lose most of them by the next day. Turn the same ten words into a silly story, and most of them stay. Your brain is made of billions of nerve cells called neurons, and every memory is held in the links between them. What you do with something while you learn it decides how strong those links become. Practice makes the links stronger, so a hard skill slowly becomes easy. Even grown-up brains keep changing this way: in London taxi drivers, the part of the brain that helps find the way grows bigger.
+**Summary.** Can a story help you remember a list better? In this unit you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.
 
 **Intro.** *What did you eat for breakfast yesterday? What did you eat for breakfast on the same day last month? Why is one easy and the other so hard?* Your brain kept yesterday's breakfast, but let last month's go. In this unit you find out how your brain holds on to things. You test two ways of learning a list of words, and see which one lasts until tomorrow. You practise something hard with your other hand and watch it get easier. You find out what neurons are, and why practice changes them. And you try the tricks that people with very strong memories use.
 

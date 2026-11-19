@@ -1,7 +1,7 @@
 # Hot and cold: what makes warmth, and what only keeps it in
 `sci.energy.heat.L2`
 
-**Summary.** We call a sweater warm, but does a sweater make any warmth? Your child puts two katoris of fridge-cold coconut oil on a table, and wraps one of them in a sweater. The bare oil melts first, and the oil inside the sweater stays white and hard for longer. So a sweater makes no warmth. It only slows warmth moving in or out. The warmth you feel inside a sweater comes from your own body, which makes it from food. Your child also hunts for the things that really make warmth: the Sun, fire, electricity in an iron box, rubbing, and living bodies.
+**Summary.** Does a sweater make any warmth? In this unit you will wrap one of two katoris of cold coconut oil in a sweater and see which melts first, hunt around the house for things that really make warmth, and play a card game sorting things that make warmth from things that keep it in.
 
 **Intro.** *Hold a sweater, a shawl or a blanket against your cheek. Is it warm?* Most people say yes, because we call these warm clothes. But a sweater lying on a chair feels only as warm as the chair. Put it on, and in a minute or two it feels warm. So where did that warmth come from? In this unit you find out which things make warmth and which only keep it in.
 

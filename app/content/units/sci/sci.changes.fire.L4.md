@@ -1,7 +1,7 @@
 # Fire: where the wax goes, and why burning loses nothing
 `sci.changes.fire.L4`
 
-**Summary.** A log can weigh three kilograms and leave a handful of ash, so where did the rest go? Yet a tuft of steel wool does the opposite and gets heavier when it burns. Your child holds a cold plate over a flame and catches drops of water and black soot. They find out how the shape of the same paper changes how fast it burns, and they weigh burning steel wool on a homemade balance. They learn that burning is a chemical reaction in which the same atoms swap partners. They also learn why a blue flame is cleaner than a yellow one, why the Sun is not a fire, and how a flame's colour can tell us what a star is made of.
+**Summary.** A log can leave only a handful of ash, so where does the rest go? In this unit you will catch water and soot from a candle flame on a cold plate, test which paper shape burns fastest, and read a stove flame as blue or yellow.
 
 **Intro.** *A grown-up lights a tea-light candle. A cold steel plate is held a hand's width above the flame for ten seconds. When the plate is lifted, its underside is wet with tiny drops and has a black smudge. The candle was burning, so how can it make water?* Fire seems to use things up. A log turns into a pinch of ash, and a candle gets shorter and shorter. In this unit you catch what a flame really makes. You test what changes how fast something burns, and you weigh things before and after burning. Then you see how the same idea explains your own breath, why the Sun is not a fire, and how flames burn in space.
 

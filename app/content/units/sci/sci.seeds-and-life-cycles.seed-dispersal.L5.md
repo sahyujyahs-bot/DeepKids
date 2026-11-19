@@ -1,7 +1,7 @@
 # How seeds travel: wings and wind, water, animals and people, and why people save seeds
 `sci.seeds-and-life-cycles.seed-dispersal.L5`
 
-**Summary.** A tree stands in one place for a hundred years. Yet young trees of the same kind come up across the valley, on old walls, and on islands far out at sea. How do seeds get there, when no plant can walk? In this unit you build paper models of winged seeds and test them in the wind of a fan. You find that a wing does not push a seed forward. A wing slows the fall, and the wind does the carrying. Then you follow seeds across water, inside animals, and in the pockets and ships of people. You also find out why people keep thousands of kinds of seeds safe.
+**Summary.** A tree cannot walk, yet young trees of its kind appear across a valley and on far islands. How do its seeds get there? In this unit you will test paper winged seeds in the wind of a fan, see where 30 drops of one spinner land, and trace where ten foods came from.
 
 **Intro.** *A plate of idli and sambar looks as South Indian as food can be. But the tomato and the chilli in the sambar came from the Americas, about 500 years ago. The tamarind came from Africa, long before that. The onion came from Central Asia. None of these plants can walk. So how did their seeds reach your kitchen?* Every seed has to leave the parent plant somehow. Some seeds have wings. Some float. Some are swallowed, and some are thrown. Some ride with people. In this unit you first read the shapes of seeds from your kitchen, and guess how each one travels. Then you build three paper fliers and test them in front of a fan. The result tells you what a wing really does. After that you follow the longest journeys of all, and meet the people who save seeds.
 

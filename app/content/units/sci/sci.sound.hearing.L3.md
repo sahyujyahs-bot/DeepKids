@@ -1,7 +1,7 @@
 # Our ears: how we hear, how to protect hearing, and the sounds animals hear that we can't
 `sci.sound.hearing.L3`
 
-**Summary.** A phone can be playing music while you hear nothing at all. Every ear has a quietest sound it can catch, and you do not hear sounds softer than that. Your ear works as a chain. The ear flap collects sound, the eardrum vibrates, three tiny bones pass the vibration on, and hair cells in the cochlea turn it into signals for the brain. People hear only a band of pitches, and the top of that band drops as we grow older. Loud sound can break hair cells, and in people they never grow back, so ears need protecting. Bats, moths, cats and dogs hear sounds too high for us, and elephants and pigeons hear sounds too low for us. Each of them hears what their own life needs.
+**Summary.** A phone can be playing music while you hear nothing at all. Why? In this unit you will find the quietest sound you can hear, test which ear cover blocks the most sound, and check how high a note each person in your family can hear.
 
 **Intro.** *Try this. Play a song on a phone and turn the volume all the way down, but leave the song playing. Put the phone on a table across the room. Can you hear it? The song is playing, and the phone is sending out sound. So why can't you hear it?* Your ears catch only sounds that are loud enough, and only sounds of certain pitches. In this unit you find the quietest sound you can hear, and you test which ear covers block sound best. You follow a sound from your ear flap to your brain. You find out why very loud sounds can harm hearing for ever, and how to keep your ears safe. You also meet animals that hear sounds we never notice: bats, moths, elephants and more.
 

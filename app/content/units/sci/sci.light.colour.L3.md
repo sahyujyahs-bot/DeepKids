@@ -1,7 +1,7 @@
 # Colour and rainbows: how sunlight splits into colours
 `sci.light.colour.L3`
 
-**Summary.** Sunlight looks white, but it is really many colours mixed together. A glass of water or a prism spreads them into red, orange, yellow, green, blue and violet, because each colour bends by a different amount. Raindrops do the same, and that is how a rainbow forms. Things look coloured because they absorb some colours of light and reflect the rest. Mixing coloured lights can make white, but mixing paints makes a dark, muddy colour. Nobody yet knows whether the red you see looks the same as the red someone else sees.
+**Summary.** Sunlight looks white, so where do the colours of a rainbow come from? In this unit you will catch a rainbow on the floor with water, spin a colour wheel to turn colours back into white, and let only one colour through a filter.
 
 **Intro.** *Fill a clear glass to the top with water. Stand it at the edge of a windowsill where the morning or evening Sun shines in. Now look at the floor below it. What do you notice? What do you wonder?* Sunlight looks plain and white. It lights up the kitchen and nobody thinks about it. But sometimes, after the monsoon rain, a giant curve of colours hangs in the sky. Where were those colours before the rain came? Were they in the clouds? In the water? Or were they hiding inside the sunlight all along? In 1666, about 360 years ago, a young man in England called Isaac Newton darkened his room to find out. He made a small hole in the window shutter and put a glass prism in the beam of sunlight.
 

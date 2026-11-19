@@ -1,7 +1,7 @@
 # Carbon and nitrogen: how the same atoms go round from the air to living beings and back
 `sci.ecology.cycles-and-decomposers.L5`
 
-**Summary.** A paddy plant stands all day in air that is nearly four-fifths nitrogen. Yet the farmer buys bags of nitrogen fertiliser, because the plant has no way to use the nitrogen in the air. In nature, only certain bacteria can change that nitrogen into a form plants can take up. In this unit your child follows two kinds of atom, carbon and nitrogen, on their path from the air into living beings and back. They test three compost bottles to find out what decomposers need to eat. They also find out how burning coal and making fertiliser have changed both paths.
+**Summary.** A paddy plant stands in air that is nearly four-fifths nitrogen, yet the farmer still buys nitrogen fertiliser. Why can the plant not use it? In this unit you will follow carbon and nitrogen atoms round their cycles, and test three compost bottles to see which rots best.
 
 **Intro.** *Air is nearly four-fifths nitrogen, and every plant needs nitrogen to grow. A plant stands in air all day and all night. So why do farmers buy nitrogen in bags?* The nitrogen in the air is there, but plants have no way to take it in. In the air, nitrogen atoms hold on to each other in pairs, and a plant has no tool to pull a pair apart. A few kinds of bacteria have that tool. Almost all the nitrogen in your body passed through such bacteria, or through a factory, before it reached you. Carbon has its own path. A leaf takes carbon from the air, and your breath gives carbon back. In this unit you follow both atoms all the way round. You also make compost, and find out why a good compost bin needs two kinds of waste.
 

@@ -1,7 +1,7 @@
 # Galaxies and the Big Bang: the universe is growing, and it had a beginning
 `sci.story-of-universe.galaxies-and-big-bang.L3`
 
-**Summary.** Almost every galaxy is moving away from us, and the further away a galaxy is, the faster it moves away. This happens because the space between the galaxies is stretching. Run the stretching backwards, and everything was once packed close together and very hot, about 13.8 billion years ago. Scientists call that beginning the Big Bang. Galaxies come in different shapes, from flat spirals to smooth ovals, and their light takes so long to reach us that we see far galaxies as they were long ago.
+**Summary.** Far galaxies are moving away from us faster than near ones. Does that put us at the centre of the universe? In this unit you will draw bindis on a balloon and blow it up to find out, tilt a spiral to see its shapes, and make a universe calendar on the wall.
 
 **Intro.** *Astronomers have found that almost every galaxy in the sky is moving away from us. Does that mean we are at the centre of the universe?* In this unit you stick bindis on a balloon and blow it bigger, to see how things move when the space between them grows. You meet the shapes that galaxies come in, and test how one galaxy can look like different shapes. You find out how Henrietta Leavitt and Edwin Hubble showed that our Milky Way is one galaxy among very many. And you learn why looking far away means looking back in time.
 

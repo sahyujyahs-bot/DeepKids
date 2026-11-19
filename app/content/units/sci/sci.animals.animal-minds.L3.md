@@ -1,7 +1,7 @@
 # Animal minds: how animals think, feel and remember
 `sci.animals.animal-minds.L3`
 
-**Summary.** Animals think, feel, remember and decide. A crow remembers a face for years, and a dog follows a pointing finger to a hidden treat. Puppies, rats and even bumblebees play, just for fun. In the Thirsty Crow Test you will find out what raises the water in a glass with the fewest pieces, as rooks did in a real test. You will also learn how scientists test animal minds fairly. Some scientists say we cannot yet know what an animal feels inside, and nobody knows what being a crow is like.
+**Summary.** Can a crow really solve the thirsty crow puzzle? In this unit you will test what raises the water best, try the Clever Hans test to see if you can read a face, and decide which animal stories are true and which are tall tales.
 
 **Intro.** *You probably know the story of the thirsty crow, who drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?* In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So the story was right: a real bird can solve this problem. In this unit you will find out what else animals learn, remember and work out.
 

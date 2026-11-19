@@ -1,7 +1,7 @@
 # Choosing materials: no material is best, so how do we choose?
 `sci.materials.using-materials.L4`
 
-**Summary.** A strip of paper bends easily. Dried flour paste snaps like a biscuit. But glue four layers of paper together with that paste, and the bar holds more than either one alone. Your child makes these bars and loads them until they fail, to find out how two weak things can make a strong one. Then they take up a harder question: if no material is best at everything, how do we choose? They score materials for a job, follow a thing from the ground to the bin, and bury scraps in soil to see which ones rot.
+**Summary.** Paper bends easily and dried flour paste snaps, but paper glued in layers with that paste makes a bar stronger than either alone. In this unit you will load such bars until they fail, score materials for a job, and bury scraps in soil to see what rots.
 
 **Intro.** *A steel tumbler never breaks, but it is heavy and it gets too hot to hold. A paper cup is light and cheap, but it goes soft and you throw it away. A clay cup keeps water cool, but it can crack. A plastic cup is light and tough, but it may stay in the ground for hundreds of years. Which cup is the best cup?* There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this unit you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.
 

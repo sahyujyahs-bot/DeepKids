@@ -1,7 +1,7 @@
 # Ant and bee colonies, and how insects pollinate flowers and recycle waste
 `sci.animals.insects.L4`
 
-**Summary.** A mango tree opens thousands of tiny flowers. No flower becomes a mango unless pollen is carried to that flower. Insects do most of that carrying. Ants and honeybees live in colonies, which are large families with one mother. The workers collect food for the young. While honeybee workers collect that food from flowers, they pollinate the flowers. Flies pollinate flowers too. Ants, flies, beetles and termites clear away dead things and waste. Your child tests whether a hairy carrier or a smooth carrier moves more haldi 'pollen' from box to box. They also time how fast ants clear 20 crumbs from the floor.
+**Summary.** Without insects, many of the foods in your kitchen would not grow, and dead things would pile up. How do insects do this work? In this unit you will find which foods needed an insect, test whether hairy or smooth carriers move more pollen, and time ants clearing crumbs.
 
 **Intro.** *A bee lands on a pumpkin flower, drinks and flies away. Some weeks later a pumpkin hangs where that flower was. The bee came for a drink. So how did her visit make a pumpkin?* The bee is hairy, and yellow pollen from the flower stuck to her hairs. At the next pumpkin flower, some of that pollen rubbed off. A flower needs pollen from another flower before seeds and a fruit can grow. The bee was collecting food for her colony, which is her family of thousands of sisters. In this unit you find out how a colony lives. You test why a hairy body carries pollen so well. You also watch another kind of insect work: ants clearing crumbs from your floor.
 

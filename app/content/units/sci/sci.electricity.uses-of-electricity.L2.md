@@ -1,7 +1,7 @@
 # Where we use electricity: from the wall and from cells
 `sci.electricity.uses-of-electricity.L2`
 
-**Summary.** In a power cut, the fan, the lights and the fridge stop at once, but the torch and the wall clock keep going. The things that stop get mains electricity, which comes along wires from a power station to the socket in the wall. The things that keep going carry their own cells, small stores of electricity. Your child listens to the appliances at home and names the job electricity does in each. Then they test old cells that the family thought were dead. Many cells that cannot light a torch still make a clock tick.
+**Summary.** In a power cut the fan and fridge stop, but the torch and a wall clock keep going. Why? In this unit you will listen to what goes quiet when a switch is off, test old cells to see if a clock still runs on them, and follow the wire from your fan back to the power station.
 
 **Intro.** *The power goes off on a hot evening. What stops working? What keeps going?* Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where wall electricity comes from, and you test how long a cell lasts.
 

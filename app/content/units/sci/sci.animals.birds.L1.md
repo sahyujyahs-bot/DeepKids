@@ -1,7 +1,7 @@
 # Birds around us: feathers, beaks, nests and calls
 `sci.animals.birds.L1`
 
-**Summary.** Every bird has feathers, and no other animal alive today has them. A hen is a bird, and a bat is not. Birds use their beaks as tools, build nests for their eggs, and call to each other all day long. Your child sits at the window at three times of one day and drops a bean in a cup for every bird call they hear. Then you compare the cups to see when the birds call most, and talk about what the calls mean.
+**Summary.** A hen cannot fly far, and a bat can fly well. So which of them is a bird? In this unit you will find out what makes a bird a bird, count bird calls with beans at three times of the day, and see how a beak fits the food a bird eats.
 
 **Intro.** *Close your eyes at the window for one minute. How many birds can you hear?* Even in a big city, birds call outside almost every window. You may hear a crow, a myna, a pigeon or a koel. Count the calls on your fingers. In this unit we find out what birds are, and what their calls mean.
 

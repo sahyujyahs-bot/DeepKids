@@ -1,7 +1,7 @@
 # Keeping clean: washing hands, bathing and brushing teeth
 `sci.health.hygiene.L1`
 
-**Summary.** Eat a biscuit, swish some water round your mouth, and look in a mirror. The front teeth look clean, but crumbs still sit in the grooves of the back teeth. Tiny living beings in your mouth eat those crumbs. Your child finds out what water, soap, a bath and a toothbrush each take away, and why. They learn when to wash their hands, how to brush the back teeth, and why we do it every day.
+**Summary.** After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this unit you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.
 
 **Intro.** *Open your mouth wide in front of a mirror, and shine a torch inside. Look at the tops of your back teeth. Are they flat and smooth, or do they have little hills and grooves?* Your front teeth are thin and smooth. Your back teeth are wide, with bumps and grooves on top. The grooves help you grind food. They are also where food likes to hide. In this unit we find out where food and dirt stay on our bodies, and what takes them away. We test water, soap, a bath and a toothbrush.
 
@@ -185,43 +185,43 @@ And every morning, before they brushed, they both ran their tongues over their t
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Mix them and stack them face down. 3. Explain the rules.  
   *Parent says:* Each card shows a moment in the day. If it is a time to wash your hands, rub your hands as fast as you can. If not, keep very still.  
-  *Child mode:* Turn a card. Is it a time to wash? Rub your hands fast! If not, keep still.
+  *Child mode:* Listen to how the game works. Then you are ready to play.
 - **s2 (10 min)**  
   *Parent does:* Take turns to turn a card and read it. Everyone washes or keeps still. Read the back to check.  
   *Parent says:* Is this a time to wash? Why? Let's read the back.  
-  *Child mode:* Wash or keep still? Say why. Read the back.
+  *Child mode:* Rub your hands fast if it is a time to wash. Keep still if it is not.
   - Check: The card says 'After stroking a dog or a cat'. Wash or keep still? → **Wash**
 - **s3 (2 min)**  
   *Parent does:* Count the cards. Then everyone does one real six-part hand wash.  
   *Parent says:* Who has the most cards? Now let's all do a real wash, with soap, and sing Happy Birthday twice.  
   *Child mode:* Count your cards. Now do a real wash, with soap!
 ### g2 · Back Teeth Race: a board game (15 min)
-- **rules:** Draw the 20 squares as a winding path of teeth on a big sheet. Write or draw what each square says.; Each player puts their token on square 1.; Take turns to throw a dice (from a ludo set). No dice? Write 1, 2 and 3 on three bits of paper, fold them, and pick one each turn. Move that many squares.; If you land on a square with a message, a grown-up reads it, and you do what it says.; If a square sends you back past square 1, stay on square 1.; The first player to reach square 20 wins. You do not need the exact number to finish.; Playing alone? Race against your own best: count how many throws you need, and try to beat it next time.
+- **rules:** Draw the 20 squares as a winding path of teeth on a big sheet. Write what each square says. Or write each square on its own bit of paper and lay them in a line.; Each player puts their token on square 1.; Take turns to throw a dice (from a ludo set). No dice? Write 1, 2 and 3 on three bits of paper, fold them, and pick one each turn. Move that many squares.; If you land on a square with a message, a grown-up reads it, and you do what it says.; If a square sends you back past square 1, stay on square 1.; The first player to reach square 20 wins. You do not need the exact number to finish.; Playing alone? Race against your own best: count how many throws you need, and try to beat it next time.
 - **Printable board: 20 tooth squares to draw in a winding path:** 1. Start: you woke up. Your teeth feel fuzzy.; 2. Plain tooth.; 3. You brushed your back teeth. Jump forward 2.; 4. Plain tooth.; 5. You forgot to brush at night. Go back 2.; 6. Plain tooth.; 7. You swished water after a sweet. Forward 1.; 8. Plain tooth.; 9. Crumbs stuck in a groove. Miss a turn.; 10. Plain tooth.; 11. You brushed for two whole minutes. Forward 3.; 12. Plain tooth.; 13. You ate sweets all afternoon. Go back 3.; 14. Plain tooth.; 15. You used a soft brush and small gentle strokes. Forward 2.; 16. Plain tooth.; 17. You only brushed the front teeth. Go back 2.; 18. Plain tooth.; 19. You used a pea-sized bit of toothpaste. Forward 1.; 20. Finish: a clean, smooth back tooth!
 - **Printable tokens: 4 player tokens to cut out:** A small toothbrush; A small tumbler; A small bar of soap; A small towel
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw the path and write the squares. 2. Cut out the tokens. 3. Find a dice.  
+  *Parent does:* 1. Make the path and write the squares. 2. Cut out the tokens. 3. Find a dice.  
   *Parent says:* This is a race along 20 teeth. Good cleaning helps you forward. Food left behind sends you back.  
-  *Child mode:* Draw the path of teeth. Pick a token. Find a dice.
+  *Child mode:* Make the path of teeth. Pick a token. Find a dice.
 - **s2 (10 min)**  
   *Parent does:* Play, taking turns. When someone lands on a message, ask why it helps or why it sends them back.  
-  *Parent says:* You landed on 'You only brushed the front teeth'. Why does that send you back?  
-  *Child mode:* Throw the dice. Move. Do what the square says. Say why.
+  *Parent says:* Read your square aloud. Why does it help you, or send you back?  
+  *Child mode:* Throw the dice. Move. Do what the square says.
   - Check: Why does 'Crumbs stuck in a groove' make you miss a turn? → **The tiny beings in your mouth eat the crumbs and make acid**
 - **s3 (1 min)**  
   *Parent does:* The first to reach square 20 wins.  
   *Parent says:* You reached the clean back tooth! What helped you most on the way?  
-  *Child mode:* Who reached the clean tooth first? What helped most?
+  *Child mode:* Keep playing until someone reaches the clean tooth. Then name the square that helped you most.
 
 ## Experiments
 ### e1 · The Biscuit Test: what does a rinse clean, and what does a brush clean? (20 min)
 - **question:** After we eat, does a swish of water clean all our teeth? Or does some food stay behind, and where?
 - **predict:** After you eat a biscuit, will a swish of water wash all the crumbs away? Where do you think crumbs might stay? Why do you think so?
 - **fair test:** We look at the same teeth each time, with the same torch and mirror. We look three times: after eating, after rinsing, and after brushing. Only one thing changes each time: what we clean with.
-- **record:** A tooth map: draw a big U shape for the teeth. Use one colour to mark where crumbs were after rinsing. Use a second colour to mark where crumbs were after brushing.
+- **record:** A results table on paper. The rows are front teeth, tops of the back teeth, and between the teeth. The columns are after eating, after the rinse, and after brushing. In each box write crumbs or clean. A grown-up can write for you.
 - **results table:** Where I looked | After eating: crumbs? | After a water rinse: crumbs? | After brushing: crumbs?
 - **s1 (3 min)**  
-  *Parent does:* 1. Shine the torch into your child's mouth while they hold the mirror. 2. Find the front teeth and the back teeth together. 3. Draw a big U on the paper. Mark F at the front and B at each back end.  
+  *Parent does:* 1. Shine the torch into your child's mouth while they hold the mirror. 2. Find the front teeth and the back teeth together. 3. On the paper, write three rows down the side: front teeth, tops of the back teeth, between the teeth.  
   *Parent says:* Let's look inside your mouth. These are your front teeth. They are thin and smooth. These are your back teeth. Look at the tops. What do you see?  
   *Child mode:* Look in the mirror. Find your front teeth. Now find your back teeth. Look at their tops.
   - Ask: What are the tops of the back teeth like? (good: Bumpy.; They have little hills and lines.; They are wide, with grooves.)
@@ -229,31 +229,31 @@ And every morning, before they brushed, they both ran their tongues over their t
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess before they eat. Wait for a guess and a reason.  
   *Parent says:* Soon you will eat a biscuit. Then you will swish water round your mouth. Will the water wash all the crumbs away? Where might crumbs stay? Why do you think so?  
-  *Child mode:* You will eat a biscuit, then swish water. Will the water clean every tooth? Guess. Say why.
+  *Child mode:* Guess: after you eat the biscuit and swish water, will every tooth be clean?
   - Ask: Why do you think so? (good: Water washes things, so it will all go.; The crumbs might stick in the bumpy bits.; The back is hard to reach.)
   - Note: Any guess is fine. Do not give the answer. Many children guess that water will wash everything away.
 - **s3 (4 min)**  
-  *Parent does:* 1. Your child eats the biscuit and chews it well. 2. No drinking yet. 3. Shine the torch and look at the front teeth, the tops of the back teeth, and between the teeth.  
+  *Parent does:* 1. Your child eats the biscuit and chews it well. 2. No drinking yet. 3. Shine the torch and look at the front teeth, the tops of the back teeth, and between the teeth. 4. Write crumbs or clean for each place in the after eating column.  
   *Parent says:* Eat the biscuit and chew it well. Don't drink anything yet. Now open wide. Where can you see crumbs?  
-  *Child mode:* Eat the biscuit. Chew it well. Don't drink yet. Open wide. Where are the crumbs?
+  *Child mode:* Eat the biscuit and chew it well. Do not drink yet. Then open wide for the torch.
   - Ask: Where are the crumbs? (good: On the back teeth.; In the grooves.; Between my teeth.)
   - Note: You will usually see brown paste on the tops of the back teeth, and a little on the front teeth and between them.
 - **s4 (3 min)**  
-  *Parent does:* 1. Your child takes a big sip of water. 2. They swish it hard round the mouth while you count to ten. 3. They spit it into the sink. 4. Do it once more. 5. Look again with the torch. 6. Colour any crumbs on the tooth map in the first colour.  
+  *Parent does:* 1. Your child takes a big sip of water. 2. They swish it hard round the mouth while you count to ten. 3. They spit it into the sink. 4. Do it once more. 5. Look again with the torch. 6. Write crumbs or clean for each place in the after the rinse column.  
   *Parent says:* Take a big sip. Swish it all round while I count to ten. Spit. Once more. Now open wide. What has gone, and what is still there?  
-  *Child mode:* Take a big sip. Swish it round. Count to ten. Spit. Do it again. Look. What is still there?
+  *Child mode:* Take a big sip. Swish it round. Count to ten. Spit. Do it again. Then open wide for the torch.
   - Ask: What did the water clean? What did it leave? (good: The front teeth are clean.; There are still crumbs in the grooves of the back teeth.; Some crumbs are still between my teeth.)
   - Note: Crumbs usually stay in the grooves of the back teeth and between the teeth. If the water cleaned everything, try again another day with a stickier food, such as a piece of chikki or a date.
 - **s5 (4 min)**  
-  *Parent does:* 1. Your child brushes with their toothbrush and a little water, or a smear of toothpaste. 2. Remind them to put the bristles on top of the back teeth. 3. Brush gently for about one minute. 4. Look again. 5. Colour anything left in the second colour.  
+  *Parent does:* 1. Your child brushes with their toothbrush and a little water, or a smear of toothpaste. 2. Remind them to put the bristles on top of the back teeth. 3. Brush gently for about one minute. 4. Look again. 5. Write crumbs or clean for each place in the after brushing column.  
   *Parent says:* Now brush. Put the bristles right on top of the back teeth. Brush gently, back and forth. Now let's look. What is left?  
   *Child mode:* Brush your teeth. Put the bristles on top of the back teeth. Brush gently. Now look. What is left?
   - Ask: What did the brush clean that the water did not? (good: The grooves on the back teeth.; The crumbs at the back.; Almost everything.)
   - Note: The grooves are usually clean now. A tiny bit may stay between two teeth. A grown-up can clean between teeth with dental floss, if you have some.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw, and why. Then read the tooth map together.  
-  *Parent says:* So what do you think now? What did you see? Why do you think the water left crumbs in the grooves, and the brush took them out?  
-  *Child mode:* What did you find out? What did you see? Why did the brush work better at the back?
+  *Parent does:* Ask your child to say what they think, what they saw, and why. Then read the results table together.  
+  *Parent says:* So what do you think now? What did you see?  
+  *Child mode:* Look at your results table. Tell a grown-up what you found.
   - Ask: Why did the brush clean the grooves? (good: The bristles go down into the grooves.; Water just goes over the top.; The brush rubs, and water only washes.)
   - Check: After the water rinse, where were crumbs most likely to stay? → **In the grooves of the back teeth**
   - Think: Tiny living beings in your mouth eat leftover crumbs. Where in your mouth would they find the most food?
@@ -261,12 +261,12 @@ And every morning, before they brushed, they both ran their tongues over their t
 - **question:** Does our skin carry dirt we cannot see? Does a bath take it away?
 - **predict:** Your skin looks clean. If we wipe it with a white cloth before your bath, will the cloth get dirty? What about after the bath? Why do you think so?
 - **fair test:** We wipe the same three places each time: the back of the neck, the inside of the elbow and the sole of one foot. We use the same kind of cloth, made just damp, and wipe each place three times. Each place gets a new square of cloth.
-- **record:** Lay the six cloth squares on paper in two rows: before the bath and after the bath. Draw them, or keep them dry in an envelope.
+- **record:** Lay the six cloth squares on paper in two rows: before the bath and after the bath. Take a photo of the rows, or keep the squares dry in an envelope.
 - **results table:** Place on my body | Before the bath: mark on the cloth? | After the bath: mark on the cloth?
 - **s1 (3 min)**  
   *Parent does:* Before the bath, ask your child to guess. Wait for a guess and a reason.  
   *Parent says:* Your skin looks clean. If I wipe it with a white cloth, will the cloth get dirty? Where might it get most dirty? Why do you think so?  
-  *Child mode:* Your skin looks clean. Will a white cloth get dirty on it? Guess. Say why.
+  *Child mode:* Guess: will a white cloth get dirty when it wipes your clean-looking skin?
   - Ask: Why do you think so? (good: I played outside, so I might be dusty.; My feet walk on the floor.; My skin looks clean, so the cloth will stay white.)
   - Note: Any guess is fine. Do not tell your child the answer.
 - **s2 (4 min)**  
@@ -281,43 +281,43 @@ And every morning, before they brushed, they both ran their tongues over their t
   - Note: The bath itself is not part of the test. Wipe straight after drying, before the feet walk on the floor again, so the cloth shows only what is on the skin.
 - **s4 (4 min)**  
   *Parent does:* Look at the two rows together. Ask your child what they think, what they see, and why.  
-  *Parent says:* Look at the two rows. Which cloths are dirtier? What do you think the bath took away? Why?  
-  *Child mode:* Look at both rows. Which cloths are dirty? What did the bath take away?
+  *Parent says:* Look at the two rows. What is different? Why do you think so?  
+  *Child mode:* Put the two rows side by side. Compare the cloths from before and after.
   - Ask: What did the bath wash off? (good: Dust.; Sweat and dirt.; The grey from my feet.)
   - Check: Which row of cloths was more likely to be grey? → **The row from before the bath**
 ### e3 · The Morning Tongue Test: does the fuzz come back? (10 min, 2 days)
 - **question:** Our teeth feel fuzzy in the morning. After we brush, does the fuzz stay away, or does it come back?
 - **predict:** After you brush tonight, will your teeth feel fuzzy again tomorrow morning? Why do you think so?
 - **fair test:** Each time, we feel the same teeth, the back teeth, with the tongue. We feel them at the same two times each morning: right after waking up, and right after brushing.
-- **record:** Two rows of two boxes. Draw a wavy line in a box for fuzzy, and a smooth line for smooth.
+- **record:** Two rows of two boxes. Write fuzzy or smooth in each box. A grown-up can write for you.
 - **results table:** When | Before brushing: smooth or fuzzy? | After brushing: smooth or fuzzy?
-- **schedule:** day 1: The night before, guess. In the morning, feel the back teeth before brushing. Brush. Feel again. Colour the boxes. (6 min); day 2: Do the same again. Has the fuzz come back? (4 min)
+- **schedule:** day 1: The night before, guess. In the morning, feel the back teeth before brushing. Brush. Feel again. Write in the boxes. (6 min); day 2: Do the same again. Has the fuzz come back? (4 min)
 - **s1 (2 min)**  
   *Parent does:* The night before, ask your child to guess. Wait for a guess and a reason.  
   *Parent says:* Tomorrow morning, before you brush, feel your back teeth with your tongue. Will they feel smooth or fuzzy? And after you brush? Why do you think so?  
-  *Child mode:* Tomorrow morning, feel your teeth with your tongue. Smooth or fuzzy? Guess. Say why.
+  *Child mode:* Guess: tomorrow morning, will your back teeth feel smooth or fuzzy?
   - Ask: Why do you think so? (good: I brushed tonight, so they will be smooth.; They always feel funny in the morning.)
   - Note: Any guess is fine.
 - **s2 (4 min)**  
-  *Parent does:* 1. On the first morning, before brushing, your child runs their tongue over the back teeth. 2. They draw a wavy or smooth line. 3. They brush. 4. They feel again and draw again.  
+  *Parent does:* 1. On the first morning, before brushing, your child runs their tongue over the back teeth. 2. They say smooth or fuzzy, and you write it in a box. 3. They brush. 4. They feel again, and you write it in the next box.  
   *Parent says:* Before you brush, run your tongue over your back teeth. Smooth or fuzzy? Now brush. Feel again. Smooth or fuzzy?  
-  *Child mode:* Feel your back teeth with your tongue. Smooth or fuzzy? Draw it. Now brush. Feel again. Draw it.
+  *Child mode:* Feel your back teeth with your tongue. Say smooth or fuzzy. Now brush. Feel again. Say smooth or fuzzy.
   - Note: Most people feel a soft fuzz in the morning, mainly near the gums. After brushing, the teeth feel smooth and squeaky.
   - Wait: Do the next step tomorrow morning, before brushing.
 - **s3 (4 min)**  
-  *Parent does:* 1. On the second morning, feel the back teeth again before brushing. 2. Draw it. 3. Brush and feel again. 4. Talk about what you found.  
-  *Parent says:* You brushed last night. Is the fuzz back this morning? What do you think the fuzz is? Why does it come back?  
-  *Child mode:* Feel your back teeth again. Is the fuzz back? What do you think the fuzz is?
+  *Parent does:* 1. On the second morning, feel the back teeth again before brushing. 2. Write it in the box. 3. Brush and feel again. 4. Talk about what you found.  
+  *Parent says:* You brushed last night. Is the fuzz back this morning?  
+  *Child mode:* Feel your back teeth again before you brush. Is the fuzz back?
   - Ask: Why did the fuzz come back? (good: Something grew on my teeth at night.; The tiny living beings in my mouth made it again.; It is plaque, and it grows back.)
   - Check: What is the fuzz on your teeth in the morning? → **Plaque, a sticky layer made by tiny living beings**
 
 ## Activities
 ### a1 · The Six-Part Hand Wash, with a song (10 min)
-- **record:** Draw your two hands. Colour the part that is easiest to forget.
+- **record:** Teach the six parts to someone at home. Tell them which part is easiest to forget.
 - **s1 (4 min)**  
   *Parent does:* 1. Wet your hands and your child's hands. 2. Rub soap until it foams. 3. Show the six parts slowly: palms, backs, between the fingers, backs of the fingers, thumbs, and fingertips scratched against the palm.  
-  *Parent says:* Watch my hands. Palms together. Backs of the hands. Fingers in between each other. Backs of the fingers. Each thumb. Now the fingertips. Scratch them against the palm.  
-  *Child mode:* Wet your hands. Rub on soap. Palms. Backs. Between the fingers. Backs of the fingers. Thumbs. Fingertips.
+  *Parent says:* Watch my hands. Palms together. Backs of the hands. Fingers laced together. Backs of the fingers, curled into the other palm. Each thumb. Now the fingertips. Scratch them against the palm.  
+  *Child mode:* Copy my hands, one part at a time. Say the name of each part as you rub it.
   - Note: The thumbs, the fingertips and the backs of the hands are the parts most people forget.
 - **s2 (4 min)**  
   *Parent does:* 1. Now your child washes alone, doing all six parts. 2. Sing Happy Birthday twice together while they rub. 3. Rinse and dry.  
@@ -326,16 +326,16 @@ And every morning, before they brushed, they both ran their tongues over their t
   - Ask: Which part did you nearly forget? (good: My thumbs.; The backs of my hands.; My fingertips.)
 - **s3 (2 min)**  
   *Parent does:* Talk about when to wash hands with soap.  
-  *Parent says:* When do you think we should wash our hands with soap? Why then?  
-  *Child mode:* When should you wash your hands? Say as many times as you can.
+  *Parent says:* Think about your day, from waking up to bedtime. Which times need soap?  
+  *Child mode:* Think about your day. Say as many times as you can.
   - Ask: When do we wash our hands? (good: Before eating.; After the toilet.; After playing outside.; After blowing my nose.; After touching an animal.)
 ### a2 · What Hides Under Your Nails? (10 min)
 - **safety:** A grown-up holds the toothpick and the nail cutter.
-- **record:** Circle the grey bits on the paper with a crayon, and write the date.
+- **record:** Keep the paper. A grown-up writes the date and the number of grey bits on it.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Do this after your child has played. 2. Hold your child's hand over the white paper. 3. Gently run the toothpick under each nail, without pushing in. 4. Look at the paper.  
   *Parent says:* Your nails look clean. What do you think is hiding under them? Let's see. Now look at the paper.  
-  *Child mode:* Ask a grown-up to help. Hold your hand over the paper. What falls out from under your nails?
+  *Child mode:* Hold your hand still over the paper while a grown-up cleans under your nails.
   - Ask: What can you see on the paper? (good: Little grey bits.; Dirt.; Some brown stuff.)
   - Note: Work gently and only at the very edge of the nail. After play, there are almost always small grey bits of dirt.
 - **s2 (3 min)**  
@@ -349,41 +349,41 @@ And every morning, before they brushed, they both ran their tongues over their t
   *Child mode:* A grown-up trims your nails short. Then there is less space for dirt.
   - Note: Trim straight across, not too close to the skin.
 ### a3 · Who Else Keeps Clean? (10 min)
-- **record:** Draw one animal keeping clean, and yourself keeping clean.
+- **record:** Act out your favourite animal for someone at home, and say how that animal keeps clean.
 - **s1 (6 min)**  
   *Parent does:* 1. Name each animal. 2. Ask your child to guess how that animal keeps clean. 3. Then tell them, and you both act it out.  
-  *Parent says:* How do you think a cat keeps clean? She licks her fur. A sparrow rolls in dry dust. An elephant sprays water with her trunk. An ant pulls her feelers through a tiny comb on her front leg.  
+  *Parent says:* How do you think a cat keeps clean? Guess first. Then I will tell you. A cat licks her fur. A sparrow rolls in dry dust. An elephant sprays water with her trunk. An ant pulls her feelers through a tiny comb on her front leg.  
   *Child mode:* How does a cat keep clean? Act it out. Now a sparrow in the dust. Now an elephant spraying water.
   - Ask: Why do you think animals keep clean? (good: So their fur and feathers work well.; To get rid of dirt and tiny bugs.; So they don't get ill.)
   - Note: Other animals clean in the way that suits their bodies. Humans use water and soap, and brush with a toothbrush.
 - **s2 (4 min)**  
-  *Parent does:* 1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Draw what you saw, or draw an animal you acted out.  
+  *Parent does:* 1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Tell your child what you saw, or act out an animal again.  
   *Parent says:* Let's watch the window for a little while. Can you see a bird combing their feathers with their beak?  
-  *Child mode:* Look out of the window. Is a bird combing their feathers with their beak? Draw what you see.
-  - Note: Crows and pigeons often preen on ledges. If no bird comes, that is fine: draw an animal you acted out. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days.
+  *Child mode:* Look out of the window. Is a bird combing her feathers with her beak? Tell a grown-up what you see.
+  - Note: Crows and pigeons often preen on ledges. If no bird comes, that is fine: act out an animal again. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days.
 ### a4 · Mine, Not Shared: my own clean-up kit (8 min)
-- **record:** Draw your own toothbrush and towel, with your name on them.
+- **record:** Write your name on a strip of tape. Stick it on your own toothbrush and your own towel.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the things. 2. Your child picks each one up and says what it is for.  
   *Parent says:* What is this for? And this? Which part of your body does each one keep clean?  
-  *Child mode:* Pick up each thing. What is it for? Which part of you does it clean?
+  *Child mode:* Pick up each thing. What is it for? Which part of you does it look after?
   - Ask: What is a nail cutter for? (good: To cut nails short.; So dirt can't hide under them.)
 - **s2 (4 min)**  
   *Parent does:* Your child sorts the things into 'only mine' and 'we can share'. Talk about each choice.  
   *Parent says:* Which of these should only you use? Which can the family share? Why?  
-  *Child mode:* Put each thing in a group: only mine, or we can share. Say why.
+  *Child mode:* Put each thing in a group: only mine, or we can share.
   - Ask: Why should only you use your toothbrush? (good: It goes in my mouth.; The tiny beings from my mouth are on it.; So we don't swap germs.)
-  - Note: A toothbrush should never be shared, because it carries the bacteria and any blood from one mouth to another. Towels are best kept one each. A bucket, mug and soap bar are usually shared, and are rinsed after use.
+  - Note: A toothbrush should never be shared, because it carries the bacteria and any blood from one mouth to another. Towels, combs and nail cutters are best kept one each. A bucket, mug and soap bar are usually shared, and are rinsed after use.
 
 ## Projects
 ### p1 · My Clean Week chart (28 min, 7 days)
 - **problem:** It is easy to forget a clean-up job. A chart shows which jobs you remember and which ones you forget. For one week, you colour a box each time you brush, have a bath, or wash your hands before a meal. At the end you count the boxes in each row.
 - **record:** The coloured chart, with one sentence said to a grown-up about the hardest row.
-- **schedule:** day 1: Draw the chart. Draw a picture at the start of each row. Colour today's boxes. (6 min); day 2: Colour today's boxes. (3 min); day 3: Colour today's boxes. (3 min); day 4: Colour today's boxes. Which row is hardest to remember? (4 min); day 5: Colour today's boxes. (3 min); day 6: Colour today's boxes. (3 min); day 7: Colour the last boxes. Count the coloured boxes in each row. (6 min)
+- **schedule:** day 1: Draw the chart. Write or draw a label at the start of each row. Colour today's boxes. (6 min); day 2: Colour today's boxes. (3 min); day 3: Colour today's boxes. (3 min); day 4: Colour today's boxes. Which row is hardest to remember? (4 min); day 5: Colour today's boxes. (3 min); day 6: Colour today's boxes. (3 min); day 7: Colour the last boxes. Count the coloured boxes in each row. (6 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Draw a grid with your child: seven boxes across, one for each day, and four rows. 2. The four rows are brush in the morning, brush at night, have a bath, and wash hands before a meal. They draw a small picture at the start of each row. 3. Colour today's boxes at bedtime.  
+  *Parent does:* 1. Draw a grid with your child: seven boxes across, one for each day, and four rows. 2. The four rows are brush in the morning, brush at night, have a bath, and wash hands before a meal. They write the name of each row at its start, or draw a small picture. 3. Colour today's boxes at bedtime.  
   *Parent says:* This chart shows a whole week of keeping clean. Each night we colour what you did today.  
-  *Child mode:* Draw a picture for each row. Tonight, colour what you did today.
+  *Child mode:* Write or draw a label for each row. Tonight, colour what you did today.
 - **s2 (16 min)**  
   *Parent does:* Each evening, from day 2 to day 6, your child colours the boxes for that day.  
   *Parent says:* What did you do today? Colour those boxes.  
@@ -412,7 +412,7 @@ And every morning, before they brushed, they both ran their tongues over their t
 - **s2 (5 min)**  
   *Parent does:* 1. Tell your child how long they brushed. 2. Talk about ideas for knowing when two minutes are up.  
   *Parent says:* You brushed for this long. Dentists say about two minutes. How could you know when two minutes are up, without looking at a clock?  
-  *Child mode:* How long did you brush? How could you know when two minutes are up?
+  *Child mode:* Listen to how long you brushed. Think of a way to know when two minutes are up.
   - Ask: What is your idea? (good: Sing a song.; Count slowly.; Use a timer.; Do each part of my mouth in turn.)
 - **s3 (6 min)**  
   *Parent does:* Try your child's idea once, and time it with a clock.  

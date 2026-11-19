@@ -1,7 +1,7 @@
 # Our senses: many more than five
 `sci.senses.five-senses.L3`
 
-**Summary.** Pinch your nose, and a spoon of elaichi sugar tastes only sweet. Let go, and the elaichi comes back, because most of what we call taste is really smell. A sense is a way your body detects something and tells the brain. People often say we have five senses, but that list comes from the Greek thinker Aristotle, more than 2,300 years ago. Scientists count many more: balance, knowing where your body parts are, warmth and cold, pain, thirst, and sensors inside you that check your blood. In every sense, special cells called receptors turn what they detect into tiny electric signals, and nerves carry the signals to the brain. Other animals detect things we cannot, like ultraviolet light or echoes in the dark. Nobody yet knows how electric signals in a brain become the taste of a mango.
+**Summary.** Pinch your nose and a spoon of elaichi sugar tastes only sweet. Where did the elaichi go? In this unit you will test taste with and without smell, find senses you forgot you had, and test where touch is sharpest and whether two ears beat one.
 
 **Intro.** *Shut your eyes and pinch your nose. Now someone puts a pinch of sugar on your tongue. It has a secret spice mixed in. Can you tell which spice it is? Keep pinching. Now let go of your nose.* When you let go, the spice suddenly appears. Your tongue did not change. Your nose started working again. In this unit, you follow each sense from the outside of your body down to tiny cells and electric signals. You also find out that you have many more than five senses. And you find out what a bat, a fly and a snake can sense that you cannot.
 

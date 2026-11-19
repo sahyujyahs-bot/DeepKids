@@ -1,7 +1,7 @@
 # Homeostasis: how your body keeps its warmth and water steady
 `sci.body.keeping-balance.L3`
 
-**Summary.** On a hot May afternoon and on a cold winter morning, the inside of your body stays at about 37 degrees. Keeping the inside steady like this is called homeostasis. When you get hot, you sweat, and the drying sweat carries heat away. When you get cold, you shiver, and your working muscles make heat. When you are low on water, you feel thirsty. A small part of your brain, the hypothalamus, keeps checking and correcting all of this, day and night.
+**Summary.** Why do you sweat when you are hot and shiver when you are cold? In this unit you will jump and notice what your body does, test a sweaty tumbler with a thermometer, see whether a matka pot can sweat, and hunt for thermostats at home.
 
 **Intro.** *Put the back of your hand on your cheek. Your cheek feels warm, because your body is warm inside. Now put the back of your hand on a steel plate or a tile floor. It usually feels cooler than your cheek. Now think about a hot summer day and a cold winter day. On both days the inside of your body stays at about the same warmth. How does it do that?* Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when you wanted to stay under the blanket. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking your warmth and fixing it. That checking and fixing has a name: homeostasis.
 

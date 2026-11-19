@@ -1,7 +1,7 @@
 # Weather: sun, rain, wind and clouds, and what to wear
 `sci.weather.weather.L1`
 
-**Summary.** Sit in front of a fan and your arm feels cold. Yet a steel tumbler in the same wind gets no colder at all. Wind is moving air, and it carries your body's warmth away. Your child tests which clothes stop the fan's wind: a cotton dupatta, a thick woollen sweater, a thin raincoat and a newspaper. Then they learn the four kinds of weather, sunny, rainy, windy and cloudy, and what to wear for each.
+**Summary.** A thick sweater keeps you warm, but does it stop the wind? In this unit you will look for weather clues indoors, test sweaters and other clothes against a fan, play a game choosing what to wear, and use a torch to see why shadows are soft under a cloud.
 
 **Intro.** *Switch on the fan and hold your bare arm in front of it. It feels cold. Now touch a steel tumbler that has stood in front of the fan for five minutes. Is the tumbler cold too?* Guess first whether the steel tumbler in front of the fan is cold, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this unit we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.
 

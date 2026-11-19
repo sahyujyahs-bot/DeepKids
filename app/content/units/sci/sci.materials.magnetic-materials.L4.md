@@ -1,7 +1,7 @@
 # Magnetic materials: the magnet that sorts metals, even the ones it does not attract
 `sci.materials.magnetic-materials.L4`
 
-**Summary.** A magnet ignores an aluminium can lying on a table, because aluminium is not a magnetic material. Yet if you swish a strong magnet quickly past the can, the can rolls after it. Your child maps which parts of kitchen steel stick to a magnet, makes a can follow a magnet, and swings a magnet over four plates to see which one stops it. Then they see how a recycling centre sorts a heap of scrap by using both facts, and why an induction stove only heats some pans.
+**Summary.** A magnet ignores an aluminium can on the table, yet the can rolls after a magnet swished quickly past it. Why? In this unit you will test where a magnet sticks on kitchen steel, make a can follow a magnet, and swing a magnet over four plates to see which one stops it.
 
 **Intro.** *Hold a magnet against an aluminium cold-drink can. Nothing happens, because aluminium is not magnetic. Now lay the can on its side and swish a strong magnet quickly past it, without touching. The can rolls after the magnet. If the can is not magnetic, what is pushing it?* In Class 3 you found out that a magnet attracts iron, nickel and cobalt, and that most other materials seem to ignore it. This unit goes one step deeper. You find out that the word 'ignore' was only true for a magnet that sits still. You also look closely at steel, which is not one material but a family, and at how a scrap yard or a recycling centre uses these facts to sort metal at high speed.
 

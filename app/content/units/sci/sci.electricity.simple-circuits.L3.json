@@ -3,7 +3,7 @@
  "title": "Simple circuits: why a bulb lights only in a complete loop",
  "level": 3,
  "summary": {
-  "text": "A torch bulb lights only when electricity can flow from a cell, through the bulb and all the way back to the cell. This complete loop is called a circuit. If there is a gap anywhere in the loop, the bulb goes out at once. Metals let electricity through, so they are called conductors. Plastic, rubber, wood, paper and glass do not, so they are called insulators. A wall socket in India is 230 volts and can kill, so we experiment only with small 1.5 volt cells. Inside the wire, tiny particles called electrons are pushed round the loop by the cell, and they come back to it.",
+  "text": "Why does a bulb light only when the wires make a complete loop? In this unit you will light a bulb with one cell and one wire, test which household things let electricity through, and find the gap in a loop that will not light.",
   "art": "A child's hands holding an AA cell in a holder, two wires and a small glowing torch bulb, with a dotted arrow running round the loop from the cell, through the bulb and back to the cell."
  },
  "intro": {

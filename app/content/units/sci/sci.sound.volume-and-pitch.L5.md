@@ -1,7 +1,7 @@
 # Volume and pitch: what makes a sound loud or quiet, high or low
 `sci.sound.volume-and-pitch.L5`
 
-**Summary.** Pluck a string gently, then hard. The sound gets louder, but the note stays the same. Now hang a heavier weight on the string. The note rises, and the loudness hardly changes. So every sound has two separate measures. Volume is how loud it is, and it comes from the size of the vibration. Pitch is how high or low it is, and it comes from the number of vibrations each second. In this unit you measure both. You find three ways to change the pitch of a string. You find several ways to make a sound louder or quieter. You also find out which of the two measures reaches a far listener unchanged.
+**Summary.** Pluck a string harder and it sounds louder, but the note stays the same. Hang a heavier weight on it and the note rises, but the loudness hardly changes. In this unit you will find three ways to change a string's pitch, and test what makes a ringing phone quietest.
 
 **Intro.** *A mosquito near your ear is quiet, and her whine is high. A chenda drum across a temple yard is loud, and its beat is low. If you hit the chenda harder, will its note go higher? If the mosquito comes closer, will her whine go lower?* Both answers are no. Hitting harder makes the drum louder, and its note stays where it was. Coming closer makes the whine louder, and it stays just as high. Loud and high are two different things, and different changes move them. In this unit you build one string on a table and test it with a bottle of water. You measure its loudness in decibels and its note in hertz. Then you wrap a ringing phone in a towel and find what the towel changes and what it leaves alone.
 

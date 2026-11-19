@@ -1,7 +1,7 @@
 # Mixing coloured light: why a red torch and a green torch make a yellow wall
 `sci.light.colour.L4`
 
-**Summary.** Shine a red torch and a green torch on one white wall, and the wall looks yellow, though no yellow light is anywhere in the room. Hold a pencil in front, and its two shadows are not grey. One is red and one is green. Your child tests how coloured lights add up, how filters and inks take colours away, and why three kinds of colour cells in the eye are enough to build every colour on a phone screen. Nobody yet knows how three signals in the brain become the feeling of yellow.
+**Summary.** A red torch and a green torch together make a yellow patch on the wall. Why? In this unit you will shine two torches on a pencil to see its two coloured shadows, layer highlighter inks to see if they add or take away colour, and try tricks with afterimages and vanishing red words.
 
 **Intro.** *Switch off the room light. Shine a red torch on a white wall. Now add a green torch on the same spot. What colour is the spot now? Most people guess wrong, because lights do not mix the way paints do.* Red light plus green light makes yellow. But red paint plus green paint makes a muddy brown. Lights and paints seem to follow opposite rules. In this unit you find out why. You make coloured shadows, stack coloured inks, and light up objects with coloured torches. You will see a coloured thing turn almost black, and a white wall turn yellow with no yellow light anywhere. Then you look at the real puzzle: if there is no yellow light in the room, where does the yellow come from?
 

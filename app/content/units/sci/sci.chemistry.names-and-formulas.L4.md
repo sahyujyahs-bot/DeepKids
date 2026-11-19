@@ -1,7 +1,7 @@
 # Chemical formulas: how H₂O, CO₂ and NaCl say which atoms and how many
 `sci.chemistry.names-and-formulas.L4`
 
-**Summary.** Salt is called uppu in Chennai, namak in Delhi and nun in Kolkata. A chemist in any of these cities writes it as NaCl. A chemical formula uses letters to say which atoms are in a substance. It uses small numbers to say how many. Water is H₂O: two hydrogen atoms for each oxygen atom. People chose the letters, but they had to measure to find the numbers. Your child counts drops of iodine to see that substances react in fixed amounts. They also build water, carbon dioxide and a grain of salt from balls of dough.
+**Summary.** Salt, table salt and sodium chloride are one thing, and NaCl is a fourth way to write it. What does a formula tell you? In this unit you will collect the names of one substance, count drops of lemon juice, and build water, carbon dioxide and salt from dough.
 
 **Intro.** *The symbol for hydrogen is H, and the symbol for oxygen is O. So why is the symbol for sodium Na? The word sodium has neither an N nor an A in it.* Chemists write every substance with a short code called a formula. Water is H₂O. Carbon dioxide, the gas you breathe out, is CO₂. Table salt is NaCl. The letters stand for kinds of atoms, and some of them come from old Latin names. Sodium was called natrium, so its symbol is Na. The small numbers say how many atoms there are. In this unit you collect the many names of one substance. You count drops of iodine to find out why the numbers are fixed. You also build molecules from dough and read the formulas of things in your kitchen.
 

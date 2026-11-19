@@ -1,7 +1,7 @@
 # More than five senses: balance, body position, warmth, cold and pain
 `sci.senses.more-senses.L3`
 
-**Summary.** A steel plate feels colder than a wooden board, even when both have sat in the same room all morning. Put an ice cube on each, and the ice on the steel melts first. Your skin does not read temperature like a thermometer. It feels how fast heat leaves it or comes into it. This is one of many senses that are not on the list of five. Your inner ears sense turning and tilting, your muscles tell you where your hands are, and pain warns you before you get badly hurt. Other animals have senses people lack: a fish feels the water move along their sides, and a prawn keeps their balance with grains of sand.
+**Summary.** Why does a steel plate feel colder than a wooden board when both are the same temperature? In this unit you will race ice cubes on steel and wood, spin round to feel dizzy, and try tricks that show how your body senses position and cold.
 
 **Intro.** *Spin round slowly five times, then sit down. The room seems to keep turning, though you and the room are both still. What is still spinning?* The answer is inside your ears. Deep in each ear are three tiny loops full of liquid. When you spin, the liquid starts to swirl. When you stop, it keeps swirling for a few seconds, so your brain thinks you are still turning. In this unit you find this sense and four more that are not on the list of five: the sense of where your body parts are, the sense of warmth and cold, the sense of pain, and the senses inside you. You test them with ice, steel plates, a mint sweet and a bowl of water. Then you meet animals with senses people do not have.
 

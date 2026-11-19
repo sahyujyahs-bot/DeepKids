@@ -1,7 +1,7 @@
 # Infinity: why the numbers never end
 `sci.nothing-and-forever.infinity.L3`
 
-**Summary.** Whatever number you say, someone can always say one more. So there is no biggest number. The counting numbers go on without end, and the word for 'without end' is infinity. Infinity is not a number you can count to, because counting never finishes. Very big things, such as the grains of rice in a sack or the hairs on your head, are not infinite. They are huge, but they can be counted. In this unit you time yourself counting, count the rice in a cup, and find out how a person can be sure of something they can never finish.
+**Summary.** Is there a biggest number? Whatever number you say, someone can say one more. In this unit you will play a biggest-number game, time yourself counting, and estimate the grains of rice in a cup to see why very many is not the same as infinite.
 
 **Intro.** *Try this with a grown-up. You say the biggest number you can think of. Then the grown-up says one more. Try again with an even bigger number. Can you ever win?* However big your number is, the grown-up can always add one. Children all over the world discover this game. Mathematicians say it shows something true: there is no biggest number. The numbers go on for ever, and we call this infinity. In this unit you find out how long counting really takes, why nobody can count to the end, and why infinity is not a number at all.
 

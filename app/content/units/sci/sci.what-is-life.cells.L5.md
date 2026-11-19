@@ -1,7 +1,7 @@
 # Trillions of cells: your own cells, and the microbes who live with them
 `sci.what-is-life.cells.L5`
 
-**Summary.** Brush your teeth until they are clean, and eat nothing all night. By morning a soft coat is back on them. The coat is made of living bacteria, who divided again and again while you slept. In this unit your child stains that coat to see it, and counts how many doublings turn one cell into the 17 trillion cells of a ten-year-old. They learn how scientists count cells that nobody can count one by one, and how a wrong number, 'ten microbes for every human cell', lasted forty years. A body carries about as many microbe cells as cells of its own, and scientists still argue about whether that makes you one living being or many.
+**Summary.** Your body has trillions of cells, far too many to count one by one. So how do scientists know the number? In this unit you will count from one cell to trillions by doubling, estimate a crowd from one spoonful, and test how fast the bacteria on your teeth grow back.
 
 **Intro.** *Tomorrow morning, before you brush, run your tongue slowly over your front teeth. They feel a little furry. Last night, after brushing, they felt smooth. You ate nothing while you slept. So what is the furry coat, and where did it come from?* The coat is alive. It is made of bacteria, and each bacterium is one single cell. A few stayed on your teeth after brushing, and each of them divided into two, again and again, all night. Your own body is built in the same way, from cells who divide. It has about 17 trillion cells of its own, and about as many microbe cells live on it and in it. In this unit you make the coat on your teeth show up in colour, and you find out how anyone can count to a trillion.
 

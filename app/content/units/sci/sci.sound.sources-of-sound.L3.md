@@ -1,7 +1,7 @@
 # Sources of sound: every sound starts with a vibration
 `sci.sound.sources-of-sound.L3`
 
-**Summary.** Every sound starts with something vibrating, which means moving quickly back and forth. A tabla skin, a veena string, the air inside a flute and your own throat all vibrate. The vibrating thing pushes the air next to it, and the air passes the push along to your ear as a sound wave. Sound needs a medium, such as air, water or wood, to travel through, so space is silent. A bigger vibration makes a louder sound, and a faster one makes a higher sound. Crickets, elephants and bats make sounds for their own needs: to find each other, to warn each other and to hunt.
+**Summary.** What is moving when a tabla, a veena string or your own throat makes a sound? In this unit you will hunt for vibrations around the house, twang a ruler to see what changes the sound, and make a rubber-band veena.
 
 **Intro.** *Put your fingers gently on the front of your throat. Now hum a long 'mmmm'. What do your fingers feel? Now stop humming. What happens to the feeling, and to the sound?* Every sound you have ever heard started with something vibrating: a temple bell, a pressure cooker whistle, a crow, your own voice. Usually the vibration is too fast and too small to see. In this unit you will catch it with your fingers, with rice, with a ruler and with a foil ball. Then you will find out how it travels through the air to your ear, and why it cannot cross empty space.
 

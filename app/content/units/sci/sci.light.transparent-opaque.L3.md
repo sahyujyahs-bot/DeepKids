@@ -1,7 +1,7 @@
 # Transparent, translucent and opaque: which things we can see through
 `sci.light.transparent-opaque.L3`
 
-**Summary.** A frosted bathroom window lets daylight in, yet nobody can see through it. Materials meet light in three ways. A transparent material, like window glass, lets light straight through, so you see a clear picture. A translucent material, like butter paper, lets light through but scatters it, so you see a glow but no picture. An opaque material, like a steel plate, lets no light through and makes a dark shadow. The same material can change group. A drop of oil makes paper clearer. Crushing clear ice turns it white.
+**Summary.** Why can you see clearly through glass, but not through a paper? In this unit you will test which things let light through, find how far words can be from the paper before they blur, and make an oil spot window.
 
 **Intro.** *A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through the glass. Light gets through, so why does the picture of the tree not get through too?* Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know what happens to the picture inside a translucent material. You will also see why a few drops of oil can make some of these materials clear again.
 

@@ -1,7 +1,7 @@
 # Adaptation: why a fish has fins and a camel has a hump
 `sci.habitats.adaptations.L2`
 
-**Summary.** A fish has fins, gills and a small bag of air inside her. A camel has a hump of fat, wide feet and long eyelashes. Each of these body parts helps with a problem of their own place: water all around, or hot, dry sand. A body part like this is called an adaptation. Your child makes a bottle fish with coins inside, and finds that a few spoons of air are enough to stop it sinking. Your child also looks at plants suited to dry places and wet places, and at humans, who are animals suited to places too.
+**Summary.** A heavy fish does not sink, and a camel walks easily over hot sand. How? In this unit you will use a paintbrush to see how a gill works, make a bottle fish with coins inside and find how much air stops it sinking, and play a three-clue guessing game.
 
 **Intro.** *A fish cannot breathe for long on hot sand. A camel cannot breathe under water. Why is each of them so good at living in one place, and so bad at the other?* Look at a fish and a camel side by side. The fish has flat fins, a smooth body and gills on the sides of her head. The camel has a hump, long legs, wide soft feet and very long eyelashes. Nothing about the fish would help on sand, and nothing about the camel would help under water. In this unit you find out what each body part does, and you make a bottle fish to test how a fish stays up in the water.
 

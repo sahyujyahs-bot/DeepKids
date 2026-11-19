@@ -1,7 +1,7 @@
 # What plants need, and how to test it fairly
 `sci.plants.what-plants-need.L3`
 
-**Summary.** Moong grown in a dark cupboard grows taller than moong on a windowsill. But the plants are pale and thin, and they fall over. So what does a plant really need? They need light, water, air, warmth and minerals from the soil, each in the right amount. Your child finds this out with fair tests, which change only one thing at a time. They grow moong in the light and in the dark, and measure them with a ruler every few days. They can also test too little and too much water, and cold against warmth.
+**Summary.** Moong grown in a dark cupboard grows taller than moong on a windowsill, yet it is pale and weak. So what does a plant need? In this unit you will grow moong in light and in dark, test water and warmth, and measure with a paper-strip chart.
 
 **Intro.** *Have you seen moong sprouts grown in a closed box, or a potato that has sat in a dark kitchen basket? Their shoots are white or pale yellow, not green. Why?* Sprouts grown in a closed tiffin, and potato shoots in a dark basket, come out long and pale. They are alive, and they grow fast. The only thing they were missing was light. So what does a plant really need? Is it light, water, warmth or soil? And how could you find out for sure, without guessing? In this unit you find out with fair tests, changing one thing at a time.
 

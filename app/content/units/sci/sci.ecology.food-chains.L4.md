@@ -1,7 +1,7 @@
 # The Sun on your plate: where the energy of a food chain goes
 `sci.ecology.food-chains.L4`
 
-**Summary.** A cow eats grass all day, yet a kilogram of grass makes far less than a kilogram of cow. So where does the rest go? A food chain carries the Sun's energy from a plant to the animals that eat her, and on to the next eater. But the energy does not stay in any of them. At every step most of it leaves as heat, and only a small part is left to feed the next eater. In this unit you burn a peanut to see how much energy a bite holds, build three kinds of pyramid, follow a dead leaf through a hidden chain, and ask what a living body really is.
+**Summary.** The energy in your lunch started as sunlight. Where does it go when you eat it? In this unit you will burn a peanut to catch some of its energy, draw pyramids of numbers, weight and energy, and find the level of your own lunch.
 
 **Intro.** *Put the back of your hand on your forehead. Feel how warm you are? Where did that warmth come from, and where is it going now?* Your body stays warm all the time, at about 37 degrees. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this unit you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.
 

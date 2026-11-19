@@ -1,7 +1,7 @@
 # Our Sun: why its light warms things, and why we never look at it
 `sci.sky.the-sun.L3`
 
-**Summary.** Sunlight feels gentle on your skin, yet a magnifying glass can gather it into a dot that makes paper smoke. The Sun is a star, a huge ball of very hot gas, and the nearest star to us. About 109 Earths would fit across its face. It shines because deep inside it, hydrogen is squeezed into helium, which gives out energy. It is not a fire. Its light crosses space in about 8 minutes, and turns into heat wherever something absorbs it, such as black paper, a road or your skin. The lens inside your eye gathers light just as a magnifying glass does, so looking straight at the Sun can harm your eyes for ever. We watch the Sun safely through its reflections, shadows and pictures on a wall.
+**Summary.** Sunlight feels gentle on your skin, yet a magnifying glass can make paper smoke. Why? In this unit you will run the magnifying glass test with a grown-up, see whether ice melts faster on black or white paper, and make a safe picture of the Sun on your wall.
 
 **Intro.** *Stand in a patch of sunlight from a window for one minute. Then step into the shade next to it. Which feels warmer? That sunlight has just crossed 150 million kilometres of nearly empty space, where there is almost nothing to warm. So where does the warmth on your skin come from?* The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this unit you gather sunlight with a magnifying glass and see how hot it can make paper. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.
 

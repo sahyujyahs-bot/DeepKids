@@ -1,7 +1,7 @@
 # Caring for animals, soil and water: using them so they last
 `sci.environment.conservation.L3`
 
-**Summary.** A cow eats the same field of grass day after day, and the field stays green. Grass grows from the bottom of each leaf, close to the soil, so it grows back after grazing. Using something carefully, so that it lasts, is called conservation. Cows, buffaloes, hens, bees and silkworms give people milk, eggs, honey and silk, and each of them needs water, shade, food and kindness in return. Soil needs a cover of roots and leaves, or the rain washes it away. Water needs saving too: Indian cities now catch the rain from their roofs and send it back into the ground.
+**Summary.** Grass grows back after a cow bites off the top, but many other plants do not. Why? In this unit you will cut wheat and moong plants to see which grow back, test whether a mat of roots holds soil in water, and play a game of keeping a herd fed.
 
 **Intro.** *A cow eats grass for about eight hours a day, often in the same field. If you cut a plant's stem, the plant usually does not grow taller from that stem again. So why does the field not run out of grass?* In this unit you find the answer by growing wheat and moong in a tub on your window, and cutting both. You find out what the animals who help us need from us, how a cover of roots keeps soil in place, and how cities like Chennai catch the rain. You also read about a bird park where people sent the buffaloes away to protect the birds, and the birds lost out.
 

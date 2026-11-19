@@ -1,7 +1,7 @@
 # Hygiene: how soap lifts germs off your hands
 `sci.health.hygiene.L3`
 
-**Summary.** Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule has one end that sticks to oil and another end that sticks to water. Soap wraps tiny blobs of oil, and the rinse water carries the blobs away. The germs that were in the oil go with them. Most of those germs go down the drain still alive, far from your mouth. Washing with soap before food and after the toilet stops germs passing from hand to mouth, and from person to person.
+**Summary.** Plain water runs off an oily hand and leaves the dirt behind, but soap does not. Why? In this unit you will test water against soap on a turmeric-covered hand, shake oil, water and soap in a jar, and play a game that follows a germ from hand to hand.
 
 **Intro.** *Rub a drop of cooking oil on your palm. Rinse it with plain water, then press your palm on a sheet of paper. Is there an oily mark? Now wash with soap, and press again.* Your hands touch hundreds of things every day, such as door handles, coins and your own face. Tiny living things called microbes ride along on every touch. Most are harmless. A few, called germs, can give you a tummy upset or a cold. They are far too small to see. So how can we know they are on our hands? And why does soap get them off when water alone does not?
 

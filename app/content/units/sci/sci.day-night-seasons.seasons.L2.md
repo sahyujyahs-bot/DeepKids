@@ -1,7 +1,7 @@
 # Seasons in India: summer, monsoon and winter, and what changes
 `sci.day-night-seasons.seasons.L2`
 
-**Summary.** Every year in India, a hot summer, a rainy monsoon and a cooler winter come round in the same order. These parts of the year are called seasons. In each season the heat, the rain and the wind change. People, other animals and plants change too: what we wear, what we eat, which birds call and which trees flower. The seasons do not come at the same time all over India. In this unit your child finds out what changes in each season, and tests why white clothes are cooler in the summer sun.
+**Summary.** Why are white clothes cooler than black ones in the summer sun? In this unit you will test it by seeing which cloth melts ice first, spot the season in old family photos, and sort things into summer, monsoon and winter. You will also see if damp air can soften a crisp papad.
 
 **Intro.** *In May in Chennai, a white cotton saree and a black T-shirt hang on the same clothes line. After an hour in the sun, the black T-shirt is too hot to touch, and the saree is not. Both were in the same sunshine. Why did one get so much hotter?* Look at a photo of your home from a few months ago. Is anything different from today? Maybe the fan was off, or there was an umbrella by the door, or everyone wore sweaters. The year in India turns from hot to rainy to cool, and back again. These parts of the year are called seasons. In this unit we find out what changes in each season, why the monsoon reaches Kochi weeks before Delhi, and why people choose white cotton for the summer.
 

@@ -1,7 +1,7 @@
 # Pushes and pulls: what makes things start to move
 `sci.forces.push-and-pull.L1`
 
-**Summary.** A ball on the floor stays still until something pushes or pulls it. Your child pushes boxes, pulls toys, opens doors and watches ants, and finds that every push or pull can start a thing moving. A bigger push sends a thing further, and a heavy thing needs a bigger push. A push moves a thing away from you, and a pull moves it towards you. Scientists call both of them a force.
+**Summary.** A ball on the floor stays still until something pushes or pulls it. In this unit you will push a box and see how far it slides, pull a toy train, and play a quick card game to tell a push from a pull.
 
 **Intro.** *Put a ball on the floor. Watch it for one whole minute. Does it move by itself?* The ball sat still. Nobody touched it, so it stayed where it was. Now give it a little push with one finger. Off it rolls! A push made it move. In this unit you find out what pushes and pulls do. You also spot them all around you: at home, in toys, in the playground and in big machines.
 
@@ -166,25 +166,25 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 ## Games
 ### g1 · Push or Pull? The quick-hands card game (10 min)
 - **rules:** Mix the 12 cards and put them face down.; One person is the caller. The others are the players. A grown-up reads for a caller who cannot read yet.; The caller turns over the top card, keeping the answer on the back hidden, and reads the front out loud.; Every player shows a sign as fast as they can: an open palm moving away for PUSH, a fist moving in for PULL.; The caller reads the answer on the back. A player who showed the right sign and can say why gets a point.; For a card that says BOTH, show both signs.; After 3 cards, the next person becomes the caller. With 2 people you take turns. With 4 people everyone calls 3 cards.; When all 12 cards are read, add up your points. The most points wins. If you tie, you all win.
-- **Printable cards: 12 action cards:** Pull a tissue out of its box (back: PULL. The tissue comes towards you.); Push a cycle along the road (back: PUSH. The cycle goes away from you.); Kick a ball (back: PUSH. Your foot sends the ball away.); Pull a toy car on a string (back: PULL. The car comes towards you.); Push a swing (back: PUSH. The swing goes away from you.); Pull a suitcase on wheels behind you (back: PULL. The suitcase follows you.); Press a lift button (back: PUSH. Your finger presses it away.); Draw water from a well with a rope (back: PULL. The bucket comes up towards you.); Open a drawer (back: PULL. The drawer slides out towards you.); Throw a ball to a friend (back: PUSH. Your hand sends the ball away.); Fly a kite and bring it in (back: PULL. You pull the string towards you.); Roll a chapati with a rolling pin (back: BOTH. You push the pin away and pull it back.)
+- **Printable cards: 12 action cards:** Take a tissue out of its box (back: PULL. The tissue comes towards you.); Walk behind a cycle and move it along the road (back: PUSH. The cycle goes away from you.); Kick a ball (back: PUSH. Your foot sends the ball away.); Bring a toy car to you with its string (back: PULL. The car comes towards you.); Start a swing for a friend sitting on it (back: PUSH. The swing goes away from you.); Walk with a suitcase on wheels following behind you (back: PULL. The suitcase follows you.); Press a lift button (back: PUSH. Your finger presses it away.); Get a bucket of water up from a well with a rope (back: PULL. The bucket comes up towards you.); Open a drawer (back: PULL. The drawer slides out towards you.); Throw a ball to a friend (back: PUSH. Your hand sends the ball away.); Fly a kite and bring it in (back: PULL. You pull the string towards you.); Roll a chapati with a rolling pin (back: BOTH. You push the pin away and pull it back.)
 - **s1 (2 min)**  
   *Parent does:* Read the rules. Practise both signs together.  
   *Parent says:* Show me push: palm away. Show me pull: fist in. When I read a card, show the right sign as fast as you can.  
   *Child mode:* Push: palm away. Pull: fist in. Get ready.
 - **s2 (6 min)**  
   *Parent does:* Play all 12 cards. After each card, ask how the player knew.  
-  *Parent says:* Pull a tissue out of its box. Push or pull? Show me. How do you know?  
-  *Child mode:* Listen to the card. Show push or pull. Say how you know.
+  *Parent says:* Take a tissue out of its box. Push or pull? Show me.  
+  *Child mode:* Listen to the card. Show push or pull.
   - Ask: How do you know? (good: The tissue comes towards me.; The cycle goes away from me.)
   - Note: The reason matters more than speed. A child who says 'it comes towards me' has understood the idea.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* One last question.  
   *Child mode:* Answer the last one.
-  - Check: You pull a dupatta off the washing line. Is that a push or a pull? → **A pull**
+  - Check: You take a dupatta off the washing line. Is that a push or a pull? → **A pull**
 ### g2 · Sock Ball Golf: get it in the box (12 min)
 - **rules:** Roll a pair of socks into a ball. Roll a newspaper tightly into a stick, and tape it.; Lay a box on its side as the goal. Choose a starting spot.; Play 4 holes. Hole 1: push the ball straight into the box. Hole 2: push it under a chair, then into the box. Hole 3: push it round a pillow, then into the box. Hole 4: make your own hole.; Take turns. On your turn, push the sock ball with the stick and count every push. Keep pushing until the ball is in the box.; A small push moves the ball a little. A big push sends it far. Choose the right push.; If the ball gets stuck, take it out and put it back where it was, and count one extra push.; Write your pushes for each hole on your score sheet. Each player has one sheet.; After 4 holes, add up your pushes. The fewest pushes wins. If you tie, you both win. Playing alone, try to beat your own score.
-- **Printable score sheet: Score sheet for 4 holes and the total:** Hole 1: from the door to a box lying on its side. Pushes: ____; Hole 2: under a chair, then into the box. Pushes: ____; Hole 3: round a pillow, then into the box. Pushes: ____; Hole 4: your own hole. Draw it here. Pushes: ____; Total pushes: ____
+- **Printable score sheet: Score sheet for 4 holes and the total:** Hole 1: from the door to a box lying on its side. Pushes: ____; Hole 2: under a chair, then into the box. Pushes: ____; Hole 3: round a pillow, then into the box. Pushes: ____; Hole 4: your own hole. Write what you chose here. Pushes: ____; Total pushes: ____
 - **s1 (2 min)**  
   *Parent does:* Make the sock ball, the stick and the goal together.  
   *Parent says:* Let's make a golf game. This sock ball will be pushed by this stick, and it must go in the box.  
@@ -192,7 +192,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **s2 (8 min)**  
   *Parent does:* Play the holes. Count the pushes and write them on the score sheet.  
   *Parent says:* The box is far away. Will you use a big push or a small push first? Why? Now you're close. What kind of push now?  
-  *Child mode:* Big push or small push? Why? Count each push.
+  *Child mode:* Choose a big push or a small push. Count each push.
   - Ask: Why did you use a small push near the box? (good: So it doesn't go past the box.; A big push sends it too far.)
   - Note: Your child is learning to choose the size and the direction of a push. Let them try, miss and try again.
 - **s3 (2 min)**  
@@ -206,7 +206,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **question:** Will a big push send the box further than a gentle push? Will a full box slide as far as an empty one?
 - **predict:** Guess first. Will the gentle push or the big push send the box further? Will the full box go as far as the empty one? Why do you think so?
 - **fair test:** We use the same box, the same floor and the same start line every time. We let go of the box at the start line each time. We try each push twice, because one try can be luck.
-- **record:** Draw the start line and the marks. Draw a small box at each place it stopped. Count the foot steps and write the number, or a grown-up writes it.
+- **record:** Take a photo of the floor with the marks. Count the foot steps for each push and write the number, or a grown-up writes it.
 - **results table:** Push | My guess: near or far? | How far it went (in my foot steps)
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the dupatta across the floor as a start line. 2. Put the empty box just behind the line. 3. Show your child how to kneel and push, letting go at the line.  
@@ -214,9 +214,9 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   *Child mode:* Look at the box. Is it moving? Now watch the push.
   - Note: Clear the floor of toys and furniture. A mat or carpet stops the box too fast, so use bare tiles or stone. Keep feet out of the box's path. Push big, but not as hard as you can, so the box does not hit a wall.
 - **s2 (2 min)**  
-  *Parent does:* Ask your child to guess before any pushes. Write or draw their guesses in the table.  
-  *Parent says:* You will give the box a gentle push, and then a big push. Which one will send it further? Why do you think so?  
-  *Child mode:* Gentle push or big push: which goes further? Why?
+  *Parent does:* Ask your child to guess before any pushes. Write their guesses in the table, or ask your child to point to near or far.  
+  *Parent says:* You will give the box a gentle push, and then a big push. Which one will send it further?  
+  *Child mode:* Make your guess. Which push sends the box further?
   - Ask: Why do you think so? (good: The big push, because it is stronger.; The gentle one, because it goes slowly and keeps going.)
   - Note: Any guess is fine. Don't say what will happen.
 - **s3 (3 min)**  
@@ -238,8 +238,8 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   - Note: A full box goes a much shorter way with the same big push. Your child may also feel that it is harder to push.
 - **s6 (2 min)**  
   *Parent does:* Ask what your child found, and why. Then ask the check question.  
-  *Parent says:* What did the big push do? What did the full box do? Why do you think that happened?  
-  *Child mode:* What did the big push do? What did the full box do? Why?
+  *Parent says:* Look at the marks. What did the big push do? What did the full box do? Why do you think that happened?  
+  *Child mode:* Point to the marks for the big push and for the full box.
   - Ask: What did you find? (good: A big push sends the box further.; A heavy box needs a bigger push.)
   - Note: Let your child say what they found, and how they know, first. Then say it plainly: a bigger push sends a thing further, and a heavy thing needs a bigger push.
   - Check: You push an empty box gently, then hard. Which push sends it further? → **The hard push**
@@ -248,8 +248,8 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **predict:** Guess first. Will one box or three boxes need a bigger pull? Will the rubber band stretch more or less? Why do you think so?
 - **fair test:** We use the same rubber band, the same string and the same floor each time. We pull slowly each time. Each box has one book inside, so every box weighs about the same.
 - **safety:** Keep the rubber band away from faces and pull slowly, so it does not snap back at anyone.
-- **record:** Draw the rubber band for one box, two boxes and three boxes, as long as it really got.
-- **results table:** Train | My guess: short or long stretch? | How long the rubber band got (draw it)
+- **record:** Lay the three marks side by side and take a photo. Measure each mark in finger widths and write the numbers, or a grown-up writes them.
+- **results table:** Train | My guess: short or long stretch? | How long the rubber band got (mark on the paper strip)
 - **s1 (3 min)**  
   *Parent does:* 1. Put one book in one box. 2. Tie the string to the front of the box. 3. Loop the rubber band onto the free end of the string. 4. Your child hooks one finger in the band.  
   *Parent says:* This box is our train. When you pull, the rubber band will stretch. A longer stretch means a bigger pull.  
@@ -257,37 +257,37 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   - Note: Make a small hole in the box with a pencil and tie the string through it, or tie the string all the way round the box.
 - **s2 (3 min)**  
   *Parent does:* Your child pulls slowly until the box starts to slide. Lay the paper strip beside the band and mark how long it got.  
-  *Parent says:* Pull slowly. Watch the band. Stop when the box starts to move. How long did the band get? Let's mark it.  
-  *Child mode:* Pull slowly. Watch the band. Stop when the box moves. Let's mark it.
+  *Parent says:* Pull slowly. Stop the moment the box starts to slide. Then we mark how long the band got.  
+  *Child mode:* Watch the band stretch as you pull. Stop when the box slides.
   - Note: The band stretches most just before the box starts to slide. That moment is the one to mark.
 - **s3 (2 min)**  
   *Parent does:* Ask your child to guess before adding boxes.  
-  *Parent says:* Now we add two more boxes, each with a book. Will the band stretch more, or less, or the same? Why do you think so?  
-  *Child mode:* Three boxes now. Will the band stretch more or less? Why?
+  *Parent says:* Now we add two more boxes, each with a book. Will the band stretch more, less or the same?  
+  *Child mode:* Make your guess. Will three boxes stretch the band more, less or the same?
   - Ask: Why do you think so? (good: More, because three boxes are heavier.; The same, because it's the same band.)
 - **s4 (5 min)**  
   *Parent does:* 1. Tie on a second box and pull. Mark the band. 2. Tie on a third box and pull. Mark the band.  
   *Parent says:* Two boxes now. Pull slowly and watch. Now three boxes. Is the band longer or shorter than before?  
-  *Child mode:* Pull two boxes. Watch the band. Now pull three. Is it longer?
+  *Child mode:* Pull two boxes, then three. Mark the band each time.
   - Ask: What did the band do? (good: It stretched longer with more boxes.; Three boxes made it the longest.)
   - Note: If the band gets very long, stop and use a thicker band, or two bands side by side.
 - **s5 (2 min)**  
   *Parent does:* Look at the three marks together. Then ask the check question.  
   *Parent says:* Look at the three marks. What do they tell you about the pull?  
-  *Child mode:* Look at the marks. Which train needed the biggest pull?
+  *Child mode:* Point to the longest mark. Which train made it?
   - Check: The rubber band stretched longest for three boxes. What does that tell us? → **Three boxes needed the biggest pull**
 
 ## Activities
 ### a1 · Push Hands, Pull Hands: watch the home (10 min)
-- **record:** Draw one push and one pull you saw at home.
+- **record:** Tell a grown-up one push and one pull you saw at home, and a grown-up writes them down.
 - **s1 (2 min)**  
   *Parent does:* Teach the two signs. PUSH: open palm, moving away from your body. PULL: closed fist, moving towards your body.  
   *Parent says:* Here are our two signs. A push moves things away, so the palm goes away. A pull moves things towards you, so the fist comes in.  
   *Child mode:* Push: open hand, move it away. Pull: close your fist, bring it in.
 - **s2 (6 min)**  
-  *Parent does:* 1. Do one job at a time while your child watches. 2. Try the fridge, a drawer, a switch, a curtain and the washing line. 3. Your child shows a sign for each.  
-  *Parent says:* Watch me. Am I pushing or pulling? Show me the sign. How do you know?  
-  *Child mode:* Watch. Push or pull? Show the sign. How do you know?
+  *Parent does:* 1. Do one job at a time while your child watches. 2. Try the fridge door, a drawer, a light switch, a curtain and a cloth on the washing line. 3. Your child shows a sign for each.  
+  *Parent says:* Watch me. Am I pushing or pulling? Show me the sign.  
+  *Child mode:* Watch the job. Show the sign for push or pull.
   - Ask: How do you know opening the fridge is a pull? (good: The door came towards you.; You pulled the handle to you.)
   - Note: Sliding a curtain can be both a push and a pull. Let your child show both signs if they see both.
 - **s3 (2 min)**  
@@ -297,27 +297,27 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   - Check: You close a kitchen drawer. Is that a push or a pull? → **A push**
 ### a2 · The Two-Sided Door: push it shut, pull it shut (8 min)
 - **safety:** A grown-up stays at the door. Keep fingers away from the edge of the door and the gap by the hinges, so they cannot get caught. Close the door slowly.
-- **record:** Draw the door from above, as a bird looking down would. Draw yourself pushing on one side, and pulling on the other.
+- **record:** Take a photo of the door from each side where you stood. Or point to where you stood each time, and tell a grown-up which way the door swung.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Open the door halfway. 2. Your child stands on the side where the door will move away from them. 3. They push the door slowly shut, with a flat hand in the middle.  
-  *Parent says:* Put your flat hand on the door. Push it slowly until it shuts. Did the door move away from you or towards you?  
-  *Child mode:* Put your flat hand on the door. Push it slowly shut. Did it move away from you?
+  *Parent says:* Put your flat hand in the middle of the door. Push it slowly until it shuts. Did the door move away from you or towards you?  
+  *Child mode:* Push the door shut. Watch which way it goes.
   - Note: Stand by the door edge yourself, so small fingers stay away from the gap.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. Open the door halfway again. 2. Your child goes to the other side and holds the handle. 3. They pull the door slowly shut.  
-  *Parent says:* Now go to the other side. Hold the handle and pull the door slowly until it shuts. Which way did the door swing this time?  
-  *Child mode:* Go to the other side. Pull the handle slowly. Which way did the door swing?
+  *Parent says:* Now go to the other side. Hold the handle and pull the door slowly until it shuts.  
+  *Child mode:* Hold the handle. Pull the door slowly shut. Watch which way it goes.
   - Ask: Which way did the door swing each time? (good: The same way both times.; It shut the same way, but I pushed once and pulled once.)
   - Note: The door swings the same way both times, and closes the same way. The only change is where your child stood.
 - **s3 (3 min)**  
   *Parent does:* Ask what changed and what stayed the same. Then ask the check question.  
-  *Parent says:* The door went the same way both times. So why did we call it a push once and a pull once?  
-  *Child mode:* Same door, same way. Why was it a push once and a pull once?
-  - Ask: Why? (good: Because I was on a different side.; From one side it went away from me. From the other side it came towards me.)
+  *Parent says:* Look: the door went the same way both times. But we used two different words.  
+  *Child mode:* Think about where you stood each time.
+  - Ask: Why was one a push and the other a pull? (good: Because I was on a different side.; From one side it went away from me. From the other side it came towards me.)
   - Note: Let your child explain first. Then say it plainly: push and pull are both forces, and the word depends on where you stand.
   - Check: You push a door shut from inside. Later you pull the same door shut from outside. Which way does the door go? → **The same way both times**
 ### a3 · Ant Helpers: who pushes, who pulls? (10 min)
-- **record:** Draw an ant pulling food, and an ant pushing food.
+- **record:** Tell a grown-up which ants pulled and which pushed, and a grown-up writes it. Or take a photo of the ants with the crumb.
 - **s1 (2 min)**  
   *Parent does:* 1. Find a line of ants near the kitchen, a windowsill or a balcony. 2. Put the food a hand-width away from the line.  
   *Parent says:* Here is a line of ants. Let's give them a crumb, close to their path. Then we watch quietly.  
@@ -326,7 +326,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **s2 (6 min)**  
   *Parent does:* Watch together. Use the magnifying glass if you have one.  
   *Parent says:* Look at the ants. Is one pulling the crumb towards herself? Is one pushing from behind? How can you tell?  
-  *Child mode:* Watch the ants. Who is pulling? Who is pushing?
+  *Child mode:* Watch closely. Point to any ant that pulls or pushes the crumb.
   - Ask: What are the ants doing? (good: Some pull the crumb with their mouths.; One is pushing it from the back.; Lots of them carry it together.)
   - Note: Ants grip food with their jaws and walk backwards, pulling, or walk forwards, pushing. Several ants often move a big crumb together, like the fishers who push the boat in the story.
 - **s3 (2 min)**  
@@ -336,21 +336,21 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   - Check: Many ants move a big crumb together. Why? → **A big crumb needs a bigger pull than one ant can give**
 ### a4 · The Bedsheet Ride: your body pushes and pulls (10 min)
 - **safety:** Use a smooth floor with nothing sharp nearby. The grown-up pulls slowly, in a straight line, and never near stairs.
-- **record:** Draw yourself on the bedsheet ride, and draw who is pulling.
+- **record:** Take a photo of the bedsheet ride. Or tell a grown-up who pulled whom, and which was harder.
 - **s1 (3 min)**  
   *Parent does:* Your child jumps on the spot three times, then pushes a wall with both hands.  
-  *Parent says:* Jump three times. What do your feet push on? Now push the wall with both hands. The wall does not move, because it is far too heavy for your push. You still feel your arms push.  
-  *Child mode:* Jump three times. Your feet push the floor. Now push the wall.
+  *Parent says:* Jump three times. What do your feet push on? Now push the wall with both hands. The wall does not move, but you still feel your arms push.  
+  *Child mode:* Jump three times. Then push the wall with both hands.
   - Ask: What did your feet push when you jumped? (good: The floor.; I pushed down and went up.)
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. Spread the bedsheet on the floor. 2. Your child sits on one end. 3. Hold the other end and pull slowly in a straight line.  
   *Parent says:* Sit on the sheet and hold on. I'm going to pull it slowly. Am I pulling you towards me, or pushing you away?  
-  *Child mode:* Sit on the sheet. Hold on. Is the grown-up pulling you or pushing you?
+  *Child mode:* Sit on the sheet and hold on. Feel which way you go.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* Swap. You sit on the sheet. Your child pulls.  
-  *Parent says:* Now you pull me. Lean back and pull hard. Can you move me? Why is it harder?  
-  *Child mode:* Now you pull the grown-up. Pull hard. Can you move them? Why is it hard?
-  - Ask: Why was it harder to pull me? (good: You are heavier than me.; A heavy thing needs a bigger pull.)
+  *Parent says:* Now you pull me. Lean back and pull hard. Can you move me?  
+  *Child mode:* Now you pull the grown-up. Lean back and pull as hard as you can.
+  - Ask: Why was it hard to pull me? (good: You are heavier than me.; A heavy thing needs a bigger pull.)
   - Note: Your child may move you a little, or not at all. Either result shows that a heavier load needs a bigger pull.
 - **s4 (1 min)**  
   *Parent does:* Ask the check question.  
@@ -360,7 +360,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 
 ## Projects
 ### p1 · Make a Pull-Along Toy (25 min, 2 days)
-- **record:** Draw your toy. Draw an arrow from the toy to you for the pull, and from you to the toy for the push.
+- **record:** Draw your toy. Draw an arrow from the toy to you for the pull, and from you to the toy for the push. Or tell a grown-up which way the toy moved each time.
 - **schedule:** day 1: Make and decorate the toy, and tie on the pull string. (15 min); day 2: Pull the toy on tiles and on a mat, then push it with the stick. (10 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. A grown-up makes a small hole in the front of the box with a pencil point. 2. Your child decorates the box. 3. Tie the string through the hole.  
@@ -371,13 +371,13 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **s2 (7 min)**  
   *Parent does:* Your child pulls the toy on tiles, then on a mat or carpet, and says which was easier.  
   *Parent says:* Pull your toy on the tiles. Now pull it on the mat. Which was easier? Why do you think so?  
-  *Child mode:* Pull your toy on the tiles. Now on the mat. Which was easier?
+  *Child mode:* Pull your toy on the tiles, then on the mat. Feel how hard you pull each time.
   - Ask: Which floor was easier? (good: The tiles. They are smooth.; The tiles. The mat rubbed the box and made it harder to pull.)
   - Note: The rough mat rubs the box more, so it needs a bigger pull. This rubbing is called friction, and children meet it properly in a later unit.
 - **s3 (3 min)**  
   *Parent does:* Tape the old pencil to the back of the toy as a push stick. Your child pushes the toy with it.  
-  *Parent says:* Now push the toy with the stick. Is the toy going away from you or towards you? So is it a push or a pull?  
-  *Child mode:* Push the toy with the stick. Is it going away from you? Push or pull?
+  *Parent says:* Now use the stick to move the toy along the floor. Which way does the toy go?  
+  *Child mode:* Move the toy with the stick. Watch which way it goes.
   - Check: You poke the toy with the stick and it moves away from you. Is that a push or a pull? → **A push**
 
 ## Challenges
@@ -390,17 +390,17 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Spread a spare bedsheet on a smooth table. Sit the teddy at the far end, just out of reach.  
   *Parent says:* Teddy is over there. You have to stay here, and you can't climb up. How can you bring Teddy to you?  
-  *Child mode:* Teddy is far away. Stay here. How can you get Teddy?
+  *Child mode:* Look at the things on the list. Which could reach Teddy?
   - Ask: What could you use? (good: The hanger to hook it.; Pull the sheet.)
 - **s2 (9 min)**  
   *Parent does:* Your child tries their ideas. Help only if asked.  
-  *Parent says:* Try your idea. Did it work? Is your hanger pulling Teddy towards you, or pushing Teddy away?  
-  *Child mode:* Try your idea. Is it a push or a pull? Did it work?
+  *Parent says:* Try your idea. Did it work? Is your idea pulling Teddy towards you, or pushing Teddy away?  
+  *Child mode:* Try your idea. Watch which way Teddy moves.
   - Note: Pulling the bedsheet works well and surprises many children. If an idea fails, ask what could make it work.
 - **s3 (3 min)**  
   *Parent does:* Ask which way worked best, and why. Then the check question.  
   *Parent says:* Which way was easiest? Why?  
-  *Child mode:* Which way was easiest? Why?
+  *Child mode:* Think about the ways you tried. Which was easiest?
   - Check: You pull the bedsheet towards you, and the teddy comes too. Why? → **The sheet pulls the teddy along with it**
 
 ## Worksheets

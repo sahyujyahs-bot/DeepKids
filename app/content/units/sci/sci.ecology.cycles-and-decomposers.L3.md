@@ -1,7 +1,7 @@
 # Decomposers: how worms, moulds and bacteria turn dead things into soil
 `sci.ecology.cycles-and-decomposers.L3`
 
-**Summary.** Every year, trees drop millions of leaves, and animals and plants die. Yet the ground does not fill up with dead things. Decomposers eat them: earthworms, moulds, mushrooms and bacteria too small to see. They break dead things down into soil, and plants grow again from that soil. In this unit you test what a mould needs to eat a chapati, and find that the mould cannot eat without water.
+**Summary.** Dead leaves and old food slowly turn into soil. Who does the work, and what does mould need to grow? In this unit you will test damp and dry chapatis, look at mould up close through a closed box, and see if salt keeps it away.
 
 **Intro.** *Look in your fruit basket or vegetable tray. Is there an onion with a black spot, a soft tomato, or a lemon with a green patch? Don't touch the patch. Just look. Something is eating that food. Who is it, and where did they come from?* Rotting is not food falling apart by itself. Living things called decomposers are eating it. On a soft tomato they are mostly moulds and bacteria. In the soil, earthworms, fungi and bacteria do the same work with fallen leaves and dead animals. In this unit you find out who the decomposers are, what they need, and how their meals become new soil.
 

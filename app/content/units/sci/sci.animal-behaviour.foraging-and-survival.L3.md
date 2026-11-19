@@ -1,7 +1,7 @@
 # Finding food and staying alive: how animals hunt, graze and hide
 `sci.animal-behaviour.foraging-and-survival.L3`
 
-**Summary.** Every animal, including us, has two jobs each day: find food, and not become someone else's food. Searching for food and getting it is called foraging. Plant eaters such as cows and elephants graze or browse for most of the day, because grass and leaves give little energy in each mouthful. Hunters chase their prey, wait in ambush, or build traps, and most of their hunts fail. Prey animals stay alive by watching, keeping still, running, living in groups and hiding. Hiding by matching the place where you rest is called camouflage, and it works only while the body and the place match.
+**Summary.** Why do cows and elephants spend most of the day eating? In this unit you will cut paper caterpillars to test which ones a hunter misses, hide a paper animal at home, and play a game of hunt, graze or hide.
 
 **Intro.** *Cut 20 small strips from a newspaper and 20 from plain paper. Scatter them all over an open newspaper on the floor. Now pick up as many as you can in 20 seconds, one at a time. Which ones did you miss?* Picking small strips off a newspaper is like what a bird does every day when she hunts insects on a tree. The insects stay alive only if the bird misses them. In this unit you find out how animals find their food: by grazing, browsing, chasing, waiting and trapping. You also find out how prey animals stay alive, and why a body that is hidden in one place can be easy to see in another.
 

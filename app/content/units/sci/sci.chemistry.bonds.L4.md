@@ -1,7 +1,7 @@
 # Ionic, covalent and metallic bonds: why salt shatters, wax melts and metal bends
 `sci.chemistry.bonds.L4`
 
-**Summary.** Press a crystal of salt with a spoon, and it cracks into pieces. Press a ball of aluminium foil, and it only flattens. Both are solids made of atoms that hold on to each other. They hold on in different ways. In salt, atoms give and take electrons, and become charged particles called ions. In water, wax and sugar, atoms share electrons and make molecules. In a metal, all the atoms share their outer electrons together. Your child presses, heats and wets three solids to tell the three kinds of bond apart. They also find out why dry salt does not carry electricity and wet salt does.
+**Summary.** A paper clip bends, but a salt crystal shatters. What is different inside them? In this unit you will test three solids by pressing, wetting and heating, build a row model to see why they behave differently, and check when salt carries electricity.
 
 **Intro.** *Sodium is a soft metal that can catch fire in water. Chlorine is a poisonous green gas. Joined together, they are the salt in your sambar. How can joining change two things so much?* A bond is the way atoms hold on to each other. The kind of bond decides how a material behaves. In this unit you press a salt crystal and a ball of foil, and see one break and one bend. You heat salt, wax and foil over a candle with a grown-up. You build a tester from a battery and two pencils. With it you find out when salt carries electricity. By the end you can say what happened to the sodium and the chlorine.
 

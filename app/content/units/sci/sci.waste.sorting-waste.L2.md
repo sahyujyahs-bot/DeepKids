@@ -1,7 +1,7 @@
 # Wet and dry waste: which bin, and where does it go?
 `sci.waste.sorting-waste.L2`
 
-**Summary.** A dry onion skin goes in the wet waste bin. A milk packet with milk still inside goes in the dry waste bin. So the names wet and dry cannot mean how a thing feels. Wet waste is waste that rots, like peels and leftover food. Dry waste does not rot quickly, like plastic, paper, glass and metal. In this unit you press waste between paper napkins to see which leaves a wet mark, weigh one meal's waste on a hanger, and follow your bins to where they go.
+**Summary.** A dry onion skin goes in the wet waste bin, but a milk packet goes in the dry one. How can that be? In this unit you will press waste on napkins to see which leaves a wet mark, weigh one meal's waste on a hanger, and sort a kitchen's waste into two bowls.
 
 **Intro.** *Hold a dry onion skin in one hand and a banana peel in the other. Which one feels wet? Now guess. Which bin does each one go in?* The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? The Napkin Press Test in this unit will help you find out.
 

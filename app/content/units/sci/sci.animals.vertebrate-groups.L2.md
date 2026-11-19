@@ -1,7 +1,7 @@
 # Animals with a backbone: five groups and how to tell them apart
 `sci.animals.vertebrate-groups.L2`
 
-**Summary.** A fish, a frog, a lizard, a crow and you all have a backbone, a chain of small bones down the middle of the back. Animals with a backbone are called vertebrates. Scientists sort them into five groups: fish, amphibians, reptiles, birds and mammals. You tell the groups apart by checking more than one clue. The clues are what covers the body, how they breathe, and how their babies start life. Your child feels their own backbone, then makes a straw backbone to find out how a chain of hard bones can bend.
+**Summary.** A bat flies like a bird, so why is it not a bird? In this unit you will find your own backbone, test with straws how many pieces a backbone needs to bend, and play a game of four animals where one does not fit, using clues to sort five animal groups.
 
 **Intro.** *Ask a grown-up to bend forward. Run your fingers down the middle of their back. You feel a row of hard bumps. Is that one long bone, or many?* The bumps you feel are bones. Together they make the backbone. A fish has a backbone too, and so do a frog, a lizard, a crow and a cow. An ant, a prawn and an earthworm do not have one. In this unit you meet the five groups of animals with a backbone. You learn the clues that tell them apart. And you build a backbone from a straw, to find out how a row of hard bones can bend.
 

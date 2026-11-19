@@ -1,7 +1,7 @@
 # Choosing the right material for a job
 `sci.materials.using-materials.L3`
 
-**Summary.** Why is a kadai made of metal, but its handle of wood or plastic? Metal carries heat to the food fast, and wood and plastic carry it to your hand only slowly. A property is what a material is like, such as hard, bendy, waterproof or see-through, and we choose a material because its properties suit the job. Most objects are made of several materials, each doing the job it suits best. In this unit you test spoons, woollen socks and clay pots to find out which material does which job, and why.
+**Summary.** A pan is made of metal, and its handle is made of wood or plastic. Why? In this unit you will race hot spoons of different materials, test whether a sweater makes heat, find out why a clay matka cools water, and pick materials for jobs.
 
 **Intro.** *Think of a kadai made of chocolate, an umbrella made of paper and a chappal made of glass. What would go wrong with each one?* Somebody chose the material of every object in your home. They chose steel for your tumbler, cotton for your kurta and plastic for your bucket, because each suits its job. Some choices are surprising. Water left in a clay pot stays cooler than water left in a steel bottle in the same room. A woollen sweater does not make any heat at all. In this unit you test materials the way an engineer does, and find out why each one is right for its job.
 

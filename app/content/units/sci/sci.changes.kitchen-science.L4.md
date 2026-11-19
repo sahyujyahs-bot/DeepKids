@@ -1,7 +1,7 @@
 # Science in the kitchen: why food browns, bread rises and onions make us cry
 `sci.changes.kitchen-science.L4`
 
-**Summary.** Hold a whole onion close to your eyes, and nothing happens. Chop the same onion, and your eyes sting within a minute. A whole onion holds no tear gas. The onion's cells make the gas only after a knife breaks them open. A cut apple turns brown in the same way, when chemicals from broken cells meet the air. Heat makes a second kind of brown, on toast, dosa and the crust of bread. Bread rises because gas forms inside the dough and a stretchy net called gluten holds the gas in. Your child dips apple slices in boiling water and toasts four squares of bread. They also wash a ball of dough to find the gluten.
+**Summary.** Why does a chopped onion make your eyes sting when a whole one does not? In this unit you will try an onion whole, halved and chopped, stop a cut apple turning brown, toast bread squares on a tawa, and wash a ball of dough to find the gluten.
 
 **Intro.** *A cook can carry a bag of onions all the way home with dry eyes. Then she chops one onion, and tears run down her face. Where was the gas that stings her eyes before she picked up the knife?* The gas was not in the onion. The onion made the gas after the knife went in. In this unit you test this with a whole onion, a halved onion and a chopped onion. You stop an apple slice from turning brown with two minutes of heat. Then you use heat to turn bread brown, and find what makes it brown faster. You also wash a ball of wheat dough under water until only a stretchy lump is left. That lump is the reason bread can rise.
 

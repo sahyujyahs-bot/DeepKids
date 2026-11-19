@@ -1,7 +1,7 @@
 # Moon phases and eclipses: how much of the Moon is lit, and where a shadow ends
 `sci.sky.moon-phases.L5`
 
-**Summary.** The Moon's dark shadow is about 375,000 kilometres long, and the Earth is about that far from the Moon. So the tip of the shadow only just reaches the ground, and in some months it stops short. That is why a total solar eclipse is rare, and why some eclipses leave a ring of Sun. Your child measures a half-covered ball at seven places, and finds how much of the Moon is lit at each angle from the Sun. They lift seeds under a lamp until each dark shadow ends, and find one rule for every shadow. They find out why a Moon as dark as an old tar road looks white. They also measure the Earth from a photograph of an eclipse, and find the pattern in 12 real eclipses.
+**Summary.** The Moon's dark shadow only just reaches the Earth, and in some months it falls short. So why are total solar eclipses rare? In this unit you will measure how much of a sock Moon is lit at seven places, and find where the dark shadow of a seed ends.
 
 **Intro.** *The Sun is about 400 times as wide as the Moon. So how can the small Moon cover the whole Sun in a solar eclipse? And why does it sometimes leave a bright ring of Sun showing?* In this unit you answer both questions with a coin, a plate and a lamp. First you hide a steel plate behind a coin. Then you measure how much of a model Moon is lit at seven places on its path. You lift seeds under a lamp and find where each dark shadow ends. At the end you can say why eclipses are rare and why the eclipsed Moon turns red. You can also say how people measured the Earth with a shadow.
 

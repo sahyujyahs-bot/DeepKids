@@ -3,7 +3,7 @@
  "title": "Things fall: everything drops when we let go",
  "level": 1,
  "summary": {
-  "text": "Let go of a spoon, and it falls. Let go of a feather or a balloon, and it falls too, only slowly. Your child drops ten everyday things and finds that every one of them falls down. The Earth pulls everything towards it, and scientists call this pull gravity. A thing stays up only while something holds it: a hand, a shelf, a string or the floor.",
+  "text": "Let go of a spoon and it falls. Does everything fall, even a feather? In this unit you will drop everyday things to find out, take away what holds something up, and see where a dropped thing lands under your hand.",
   "art": "A girl standing in a kitchen with her hand open, and a steel spoon, a feather, a jasmine flower and a balloon all falling towards a steel plate on the floor."
  },
  "intro": {
@@ -228,7 +228,7 @@
    "title": "Fast, Slow or Up? The let-go card game",
    "mins": 12,
    "players": "2 or more players. Take turns being the reader.",
-   "context": "This is a card game. Each card shows something being let go of. Players guess what it will do: fall fast, fall slowly, or go up.",
+   "context": "This is a card game. Each card shows something being let go of. Players guess what it will do: fall fast, fall slowly, or go up. You will find out that most things fall, and why a few go up instead.",
    "printables": [
     {
      "kind": "cards",
@@ -339,7 +339,7 @@
      "mins": 8,
      "do": "Play all 12 cards. After each card, ask one player why. Swap the reader each time.",
      "say": "Let go of a balloon you blew up. Fast, slow or up? Show me. Why do you think so?",
-     "kid": "Listen to the card. Hold up a token. Say why.",
+     "kid": "Listen to the card. Then hold up the token you think is right.",
      "ask": [
       {
        "q": "Why does the balloon you blew up fall slowly?",
@@ -356,7 +356,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "One last question. This one is about a ball that you throw up.",
-     "kid": "Answer the last one.",
+     "kid": "Listen to the last question. Pick the answer you think is right.",
      "check": {
       "t": "mcq",
       "q": "You throw a ball up into the air. What happens to it?",
@@ -376,7 +376,7 @@
    "title": "Catch It Before It Lands",
    "mins": 10,
    "players": "1 or more children and one dropper.",
-   "context": "This is a catching game. A grown-up drops things from up high, and you try to catch each one before it touches the floor.",
+   "context": "This is a catching game. A grown-up drops things from up high, and you try to catch each one before it touches the floor. You will find out which things give you more time to catch them.",
    "printables": [
     {
      "kind": "score sheet",
@@ -747,7 +747,7 @@
    "title": "The Let-Go Test: does everything fall?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you collect ten things from around the home. First you guess which ones will fall and which will stay up. Then you let go of each one and watch.",
+   "context": "In this experiment you collect ten things from around the home. First you guess which ones will fall and which will stay up. Then you let go of each one and watch. You will find out if anything stays up in the air.",
    "question": "When you let go of something, does it always fall? Are there things that stay up in the air?",
    "predict": "Put each thing on the FALLS sheet or the STAYS UP sheet. Which ones will fall? Will any stay up? Why do you think so?",
    "fair_test": "We let go of every thing in the same way, from the same height, just by opening our hand. We do not throw or push, because a throw is a push. We only want to see what happens when nothing holds the thing.",
@@ -802,7 +802,7 @@
      "qty": 1
     },
     {
-     "item": "two sheets of paper: draw a big arrow pointing down and write FALLS on one, and draw a flat line and write STAYS UP on the other",
+     "item": "two sheets of paper: write FALLS on one and STAYS UP on the other",
      "qty": 2
     }
    ],
@@ -813,7 +813,7 @@
      "what": "Sort the ten things by your guesses, let go of each one, and move each to the sheet where it really belongs."
     }
    ],
-   "record": "Draw the ten things on a page. Next to each, draw an arrow down if it fell. Colour the arrow red for fast and blue for slow. A grown-up can write the names.",
+   "record": "Fill in the results table. For each thing, write your guess and what happened: fell fast, fell slowly or stayed up. A grown-up can write the names. Then take a photo of the FALLS sheet with all ten things on it.",
    "example_chart": {
     "type": "pie",
     "title": "Made-up example: what happened to the ten things",
@@ -857,7 +857,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the ten things on a mat. 2. Draw a big down arrow and write FALLS on one sheet. Draw a flat line and write STAYS UP on the other. Lay both sheets next to the things. 3. Name each thing together.",
+     "do": "1. Put the ten things on a mat. 2. Write FALLS on one sheet and STAYS UP on the other. Lay both sheets next to the things. 3. Name each thing together.",
      "say": "Here are ten things from our home. When we let go of them, what will they do? Let's guess first.",
      "kid": "Look at the ten things. Say the name of each one.",
      "parent": "Blow up the balloon yourself and tie it. Do the test in a clear space, away from the fan."
@@ -867,10 +867,10 @@
      "mins": 4,
      "do": "Your child puts each thing on one of the two sheets, as a guess. Ask why for two or three of them.",
      "say": "Put each thing on FALLS or STAYS UP. Which will fall? Will any stay up? Why do you think so?",
-     "kid": "Put each thing on a sheet. Will it fall or stay up? Why?",
+     "kid": "Put each thing on the sheet you think is right.",
      "ask": [
       {
-       "q": "Why do you think the balloon will stay up?",
+       "q": "Why did you put the balloon on that sheet?",
        "good": [
         "Because balloons float.",
         "Because it is light and full of air."
@@ -882,9 +882,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child stands over the steel plate. 2. They hold each solid thing at shoulder height and open their hand. 3. Do the spoon, the cap, the lemon, the rice and the water.",
+     "do": "1. Your child stands over the steel plate. 2. They hold each one at shoulder height and open their hand. 3. Do the spoon, the cap, the lemon, the rice and the water.",
      "say": "Hold the spoon up. Don't throw it. Just open your hand. Where did it go? Now the rice. Listen to it land.",
-     "kid": "Hold the spoon up. Open your hand. Where did it go?",
+     "kid": "Hold the spoon up high. Open your hand. Watch it all the way down.",
      "ask": [
       {
        "q": "Which way did the spoon go?",
@@ -902,7 +902,7 @@
      "mins": 5,
      "do": "Now the light things: the paper, the cotton, the feather, the hanky and the balloon. Let go of each one at shoulder height. Watch each one until it lands.",
      "say": "Now the light things. Watch the balloon very carefully. Don't look away until it stops moving. Did it stay up?",
-     "kid": "Let go of the feather. Watch it all the way. Did it land?",
+     "kid": "Let go of each light thing. Watch it all the way to the floor.",
      "ask": [
       {
        "q": "What did the balloon do?",
@@ -919,7 +919,7 @@
      "mins": 2,
      "do": "Move each thing to the sheet it really belongs on. Count what is left on STAYS UP.",
      "say": "Let's move everything to where it really went. How many things are left on STAYS UP?",
-     "kid": "Move each thing to the right sheet. Is anything left on STAYS UP?",
+     "kid": "Move each thing to the sheet where it really went.",
      "ask": [
       {
        "q": "How many things stayed up?",
@@ -936,7 +936,7 @@
      "mins": 1,
      "do": "Ask what your child found, and why they think it happened. Then ask the check question.",
      "say": "What did you find out? Why do you think everything fell, even the balloon?",
-     "kid": "What did you find out? Why did everything fall?",
+     "kid": "Look at your two sheets. Think about the feather and the balloon.",
      "ask": [
       {
        "q": "What did you find out?",
@@ -967,7 +967,7 @@
    "title": "Right on the Dot: where does it land?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you draw a dot on a newspaper and try to drop a lemon onto it. Then you try a sheet of paper, and see where that lands.",
+   "context": "In this experiment you draw a dot on a newspaper and try to drop a lemon onto it. Then you try a sheet of paper, and see where that lands. You will find out if things land right under your hand.",
    "question": "When you let go of something, where does it land? Right under your hand, or somewhere else?",
    "predict": "If you hold a lemon right above the dot and let go, will it land on the dot? Will a sheet of paper land on the dot too? Why do you think so?",
    "fair_test": "We hold each thing right above the dot, at the same height, and just open our hand. We try each one three times, because one try can be a fluke.",
@@ -1011,7 +1011,7 @@
      "what": "Guess where each thing will land. Then drop the lemon, the cap and the paper onto the dot three times each, and mark where they land."
     }
    ],
-   "record": "Draw the dot. Draw a small cross for each place the lemon landed, and a different colour cross for the paper.",
+   "record": "Take a photo of the newspaper with the coins on it. Tell a grown-up which things landed on the dot and which landed away. Or draw the dot and a cross for each landing.",
    "setup": [
     {
      "art": "A big round dot drawn in the middle of a sheet of newspaper on a tiled floor.",
@@ -1039,7 +1039,7 @@
      "mins": 2,
      "do": "Ask your child to guess before any drops.",
      "say": "If you hold the lemon right above the dot and let go, where will it land? And the paper? Why do you think so?",
-     "kid": "Where will the lemon land? And the paper? Why?",
+     "kid": "Point to where you think the lemon will land. Then point to where the paper will land.",
      "ask": [
       {
        "q": "Why do you think the lemon and the paper will land there?",
@@ -1056,7 +1056,7 @@
      "mins": 5,
      "do": "1. Your child holds the lemon at chest height, right above the dot. 2. They look down to line it up. 3. They open their hand. 4. Put a coin on the spot where the lemon first touched the newspaper. Do this three times with the lemon, then three times with the cap.",
      "say": "Look down. Is the lemon right above the dot? Now open your hand. Where did it land? Let's do it again.",
-     "kid": "Hold the lemon over the dot. Look down. Let go. Where did it land?",
+     "kid": "Hold the lemon right over the dot. Look down. Open your hand. Watch where it lands.",
      "ask": [
       {
        "q": "Where did the lemon land?",
@@ -1072,9 +1072,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Now your child holds the sheet of paper flat at chest height, right above the dot, and lets go. Do it three times. Mark where it lands each time.",
+     "do": "Now your child holds the sheet of paper flat at chest height, right above the dot, and lets go. Do it three times. Mark where it lands each time, with a different kind of coin or button from the lemon's.",
      "say": "Now the paper. Hold it flat above the dot. Let go. Did it land on the dot? What did it do on the way down?",
-     "kid": "Hold the paper flat over the dot. Let go. Where did it go?",
+     "kid": "Hold the paper flat over the dot. Open your hand. Watch the path it takes.",
      "ask": [
       {
        "q": "What did the paper do?",
@@ -1092,7 +1092,7 @@
      "mins": 2,
      "do": "Ask what your child found. Then ask the check question.",
      "say": "Where did the lemon land each time? Where did the paper land? Why do you think they were different?",
-     "kid": "Where did the lemon land? Where did the paper land? Why?",
+     "kid": "Look at the coins on the newspaper. Which are close to the dot? Which are far?",
      "check": {
       "t": "mcq",
       "q": "You hold a ball right above a steel bowl and let go. Where will the ball land?",
@@ -1142,7 +1142,7 @@
      "what": "Pull the book from under the tumbler, let go of the thread, then hunt for holders around the home."
     }
    ],
-   "record": "Draw one thing in your home and the holder that holds it up. Draw an arrow down to show the Earth's pull.",
+   "record": "Take a photo of one thing in your home and the holder that holds it up. Then tell a grown-up what would happen if the holder were taken away.",
    "setup": [
     {
      "art": "A grown-up holding a book flat above a cushion, with a steel tumbler standing on the book.",
@@ -1163,7 +1163,7 @@
      "mins": 3,
      "do": "1. Hold the book flat above the cushion, at your child's chest height. 2. Stand the tumbler on the book. 3. Ask what is holding the tumbler up. 4. Slide the book away sideways, quickly.",
      "say": "The tumbler is not falling. What is holding it up? What will happen if I take the book away? Watch.",
-     "kid": "The tumbler is not falling. What holds it up? Watch what happens when the book is pulled away.",
+     "kid": "Look at the tumbler on the book. Then watch what happens when the book is pulled away.",
      "ask": [
       {
        "q": "What held the tumbler up?",
@@ -1186,7 +1186,7 @@
      "mins": 2,
      "do": "Your child holds the end of the thread so the key hangs down. Then they let go of the thread, over the cushion.",
      "say": "What is holding the key up now? What will happen if you let go of the thread? Try it.",
-     "kid": "Hold the thread. What holds the key up? Now let go.",
+     "kid": "Hold the end of the thread so the key hangs. Then let go over the cushion.",
      "ask": [
       {
        "q": "What held the key up?",
@@ -1220,7 +1220,7 @@
      "mins": 1,
      "do": "Ask the check question.",
      "say": "One question about holders.",
-     "kid": "Answer one question.",
+     "kid": "Think about the towel and the hook.",
      "check": {
       "t": "mcq",
       "q": "A towel hangs on a hook. What happens if the hook breaks?",
@@ -1240,10 +1240,10 @@
    "title": "Falling Watch: the tap and the window",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you watch water fall from a tap, then look out of a window for five minutes and count everything that falls.",
+   "context": "In this activity you watch water fall from a tap, then look out of a window for five minutes and count everything that falls. You will find out how many things fall around you in just a few minutes.",
    "materials": [
     {
-     "item": "a kitchen or bathroom tap and a bucket or a mug",
+     "item": "a kitchen or bathroom tap, and two mugs or a bucket",
      "qty": 1
     },
     {
@@ -1262,7 +1262,7 @@
      "what": "Watch the tap, then watch out of a window and count falling things."
     }
    ],
-   "record": "Draw the tap with water falling. Then draw the falling things you saw from the window, with a tally mark for each.",
+   "record": "Count your tally marks and write the number. Then tell a grown-up which falling things you saw, or draw them.",
    "setup": [
     {
      "art": "A child watching a thin stream of water fall from a kitchen tap into a steel mug.",
@@ -1277,9 +1277,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Turn a tap on just a little, so a thin stream comes out. Your child watches where the water goes. Then pour water from one mug into another.",
+     "do": "Turn a tap on just a little, so a thin stream comes out. Your child watches where the water goes. Then your child pours water from one mug into another.",
      "say": "Watch the water from the tap. Which way does it go? Could you ever make it fall up?",
-     "kid": "Watch the water. Which way does it go?",
+     "kid": "Watch the water from the tap. Then pour water from one mug into another.",
      "ask": [
       {
        "q": "Which way did the water go?",
@@ -1334,7 +1334,7 @@
    "title": "Fall Like a Leaf, Fall Like a Stone",
    "mins": 8,
    "days": 1,
-   "context": "In this activity your body becomes a falling thing. The grown-up names a thing, and you fall down onto a mat the way that thing falls. Then you jump, and see if you can stay up.",
+   "context": "In this activity your body becomes a falling thing. The grown-up names a thing, and you fall down onto a mat the way that thing falls. Then you jump, and see if you can stay up. You will feel which things drop fast and which drift down slowly.",
    "materials": [
     {
      "item": "a mat, a mattress or a soft rug",
@@ -1352,7 +1352,7 @@
      "what": "Fall like a stone, a leaf, a feather, a raindrop and a balloon, then try to jump and stay up."
     }
    ],
-   "record": "Draw a stone, a leaf and a feather. Next to each one, draw how it fell: straight down and fast, or swinging and slow.",
+   "record": "Your grown-up takes a photo of you falling like a stone, and another of you falling like a leaf. Then tell them which one was fast and which one was slow.",
    "setup": [
     {
      "art": "A child crouching down quickly onto a mat like a stone, next to a picture of a stone.",
@@ -1381,7 +1381,7 @@
      "mins": 2,
      "do": "Your child jumps as high as they can, three times, and tries to stay up.",
      "say": "Now jump as high as you can. Try to stay up in the air. Did you stay up? What brought you down?",
-     "kid": "Jump high. Try to stay up. What brought you down?",
+     "kid": "Jump as high as you can, three times. Try to stay up in the air.",
      "ask": [
       {
        "q": "What brought you down?",
@@ -1398,7 +1398,7 @@
      "mins": 1,
      "do": "Ask the check question.",
      "say": "One question about jumping.",
-     "kid": "Answer one question.",
+     "kid": "Think about the top of your jump.",
      "check": {
       "t": "mcq",
       "q": "You jump as high as you can. What happens next?",
@@ -1420,7 +1420,7 @@
    "title": "The Wall Marble Run",
    "mins": 30,
    "days": 2,
-   "context": "In this project you tape paper tubes onto a cupboard door or a wall, sloping down, so a marble rolls from tube to tube all the way to a bowl at the bottom.",
+   "context": "In this project you tape paper tubes onto a cupboard door or a wall, sloping down, so a marble rolls from tube to tube all the way to a bowl at the bottom. You will find out if you can make the marble go uphill.",
    "materials": [
     {
      "item": "4 to 6 empty tubes from toilet rolls or kitchen rolls, or newspaper rolled into tubes",
@@ -1460,7 +1460,7 @@
      "what": "Add more tubes, test the marble run, and try to make the marble go uphill."
     }
    ],
-   "record": "Draw your marble run. Draw arrows showing which way the marble went at each tube.",
+   "record": "Take a photo of your marble run. Then trace the marble's path with your finger and tell a grown-up which way it went. Or draw the run with arrows.",
    "setup": [
     {
      "art": "Paper tubes, some cut in half lengthwise to make open chutes, a roll of masking tape and a marble on a table.",
@@ -1481,7 +1481,7 @@
      "mins": 5,
      "do": "A grown-up cuts two or three tubes in half the long way, to make open chutes. Keep the other tubes whole.",
      "say": "We will make a path for a marble, down a cupboard door. Some tubes we keep whole. Some we cut open, so we can watch the marble roll.",
-     "kid": "We are making a path for a marble. It goes down the door.",
+     "kid": "Watch your grown-up cut the tubes. Pick which tubes stay whole.",
      "adult": true,
      "parent": "Cut away from your hands. Your child can hold the tube steady."
     },
@@ -1515,7 +1515,7 @@
      "mins": 5,
      "do": "Tape one tube at the end sloping upwards. Your child tries to make the marble climb it.",
      "say": "Can you make the marble roll uphill? Try it. How far up does it go?",
-     "kid": "Can the marble roll uphill? Try it. What happens?",
+     "kid": "Roll the marble at the uphill tube. Watch how far up it goes.",
      "ask": [
       {
        "q": "What happened on the uphill tube?",
@@ -1532,7 +1532,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "One question about the marble run.",
-     "kid": "Answer one question.",
+     "kid": "Think about where the marble ends up.",
      "check": {
       "t": "mcq",
       "q": "You make a marble run and put a marble at the top. Which way does the marble always go in the end?",
@@ -1554,7 +1554,7 @@
    "title": "Hold Up a Toy Without Your Hands",
    "mins": 15,
    "context": "This is a design challenge. You must make a small toy stay up in the air, off the floor and off any table, for one whole minute, without holding it.",
-   "problem": "You want a small soft toy to stay up in the air for one minute, so you can draw a picture of it. You cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can you keep it up?",
+   "problem": "You want a small soft toy to stay up in the air for one minute. You cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can you keep it up?",
    "constraints": [
     "The toy must be up in the air, not sitting on a floor, table, bed or shelf.",
     "Nobody may hold the toy.",
@@ -1597,7 +1597,7 @@
      "mins": 3,
      "do": "Read the problem. Put the toy and the materials on the floor.",
      "say": "The toy has to stay up in the air for one minute. You can't hold the toy. What could hold the toy up instead?",
-     "kid": "The toy must stay up. You can't hold the toy. What could hold the toy?",
+     "kid": "Look at the things on the floor. Pick the ones you could use to hold up the toy.",
      "ask": [
       {
        "q": "What could hold the toy up?",
@@ -1614,7 +1614,7 @@
      "mins": 9,
      "do": "Your child tries their ideas. Time one minute for each. Help with knots only if asked.",
      "say": "Try your idea. Start the timer. Is the toy still up? What is holding the toy now?",
-     "kid": "Try your idea. Is the toy still up? What is holding the toy?",
+     "kid": "Build your holder. Hang the toy. Watch for one whole minute.",
      "parent": "If the toy keeps slipping, ask where the toy is slipping from, and what could hold that part."
     },
     {
@@ -1622,7 +1622,7 @@
      "mins": 3,
      "do": "Ask what worked, and what the support was. Then ask the check question.",
      "say": "Which way worked best? What was the toy's support? What would happen if we cut the string?",
-     "kid": "What held the toy up? What if we cut the string?",
+     "kid": "Show your grown-up which holder worked best. Point to the support.",
      "check": {
       "t": "mcq",
       "q": "A teddy hangs from a string. You cut the string. What happens?",

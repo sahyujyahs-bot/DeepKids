@@ -1,7 +1,7 @@
 # How things fly: wings push air down, and the air pushes them up
 `sci.forces.flight.L3`
 
-**Summary.** A cheel can circle over a city for an hour, held up by air you cannot see. Everything that flies with wings stays up by pushing air down, and the air pushes back up on the wings. That upward push is called lift. Kites, paper planes, birds and flying seeds each use it in their own way. Scientists agree on what lift does, but still argue about the simplest way to explain it, and one famous explanation is wrong.
+**Summary.** A cheel can circle over a city for an hour, held up by air you cannot see. How? In this unit you will show that air is real, test how tilting a hand wing changes the push of the air, and fly paper planes and seed spinners in fair tests.
 
 **Intro.** *Hold a sheet of paper flat by two corners and drop it. Now crumple an identical sheet into a ball and drop it. Now fold a third sheet into a paper plane and throw it gently. Same paper. Why do they come down so differently?* Look up on any sunny afternoon in an Indian city. You will probably see big brown birds circling high above, hardly flapping at all. They are black kites, called cheel in Hindi. They can stay up for an hour. A crow beside them has to keep flapping. A paper kite on a string climbs only when the wind blows. A seed from a mahogany tree spins down like a tiny helicopter. A cheel weighs about as much as a 1-kilogram packet of sugar. So how can it stay up in air that you cannot even see?
 

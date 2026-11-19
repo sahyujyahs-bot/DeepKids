@@ -1,7 +1,7 @@
 # Adaptation: how living things fit their place, their hunters and their prey
 `sci.habitats.adaptations.L5`
 
-**Summary.** A plain tiger butterfly is bright orange and flies slowly in the open, yet most birds leave her alone. She tastes bitter, and her colour warns every bird who has tried one before. The female danaid eggfly tastes fine, but she wears the same orange and is left alone too. Your child tests when such copying works, using paper prey and a hungry hunter. They also test why Himalayan trees are shaped like cones. And they learn how hunters and the hunted are fitted to each other.
+**Summary.** A plain tiger butterfly is bright orange and flies slowly in the open, yet most birds leave her alone. Why? In this unit you will sort animals by their eyes, test which tree shape carries the least snow, and test when a copied warning colour keeps working, using paper prey and a hungry hunter.
 
 **Intro.** *A tiger is bright orange with black stripes. Yet a spotted deer often fails to notice a tiger lying in the grass. How can such a bright animal hide?* The answer is in the deer's eyes. We have three kinds of colour cells in our eyes, and a deer has two. To a deer, orange looks much like the green of grass. So the tiger's coat is fitted to the eyes of her prey, as well as to the forest. In this unit you look at how plants and animals are fitted to heat, water and cold. Then you look at how hunters and the hunted are fitted to each other. You pour rava snow on paper trees. You also hunt paper prey, to find out when a false warning works.
 

@@ -1,7 +1,7 @@
 # Other points of view: what someone else sees, knows and needs
 `sci.me-and-others.me-and-others.L3`
 
-**Summary.** Two people sitting at one table do not see the same picture of it. What you see depends on where you sit, and what you think depends on what you know. Children of three and four can already work out what another person sees, though scientists once thought this came only at about seven. In this unit you draw what someone across the table sees, test which eye each person in your family uses first to aim, and play games where you think like someone else. People and their bodies differ in many hidden ways, and friends who know this can share, take turns and work well together.
+**Summary.** Two people can look at the same thing from different seats and see something different. In this unit you will draw what another person sees and check it, play Martin Hughes's hiding game, and guess what someone else will think is inside a box.
 
 **Intro.** *Sit at the dining table and put a steel tumbler in the middle. Hide a lime behind it, so you cannot see the lime. Can the person sitting opposite you see it? How do you know, without getting up?* Everyone looks at the world from their own place. A tumbler that hides a lime from you may not hide it from someone else. People also know different things, so they can think different things about the same box or the same quarrel. In this unit you test how well you can picture another person's view. You find hidden differences inside your own family. You learn what scientists found about how children come to understand other minds, and why friends who see things differently can still do things well together.
 

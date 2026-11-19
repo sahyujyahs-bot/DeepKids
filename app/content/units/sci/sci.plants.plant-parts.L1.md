@@ -1,7 +1,7 @@
 # Parts of a plant, and the job each part does
 `sci.plants.plant-parts.L1`
 
-**Summary.** A tall coconut palm stands through a monsoon storm and does not fall over. Under the ground, thousands of thin roots hold on to the soil. Every part of a plant has a job. Roots hold on and drink water, the stem holds the plant up, and the leaves make food from sunlight. Flowers grow into fruits, and fruits keep the seeds safe until they can grow. In this unit you grow moong sprouts on a cloth and find out how roots hold on.
+**Summary.** Can a tiny root really hold a plant in the ground? In this unit you will look at a whole coriander plant from root to tip, grow sprouts to test how roots grip, hold a leaf to the light to find its veins, and play a clue game.
 
 **Intro.** *Here is a bunch of coriander from the market, with the roots still on. Shake it over a newspaper. Some soil falls off, but some soil stays stuck to the roots. Why does that soil hold on?* The part of a plant we usually see is the green part above the soil. But a plant also has parts under the ground, and every part has a job to do. In this unit you look at a whole plant, from the roots to the tip. You find the roots, the stem, the leaves, the flowers, the fruits and the seeds. Then you grow moong sprouts and test how roots hold on.
 

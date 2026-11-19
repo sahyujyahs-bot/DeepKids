@@ -1,7 +1,7 @@
 # Plant parts: how each part's shape suits its job
 `sci.plants.plant-parts.L3`
 
-**Summary.** A potato grows under the ground, but it is a stem, not a root. Its eyes are buds, and buds grow on stems. Every part of a plant has a shape that suits its job. Thin roots reach between soil grains to soak up water, and fat roots and stems store food. Climbing stems are thin and hold on to a support, and flat leaves spread out to catch sunlight. In deserts, ponds and salty mud, the parts take new shapes to fit.
+**Summary.** A potato grows under the ground, so is it a root? In this unit you will play detective with vegetables to tell roots from stems, wake a stored food part with no soil, and test where plants keep their starch.
 
 **Intro.** *Look at a carrot and a potato. Both grow under the ground. Both are fat and full of food. But only one of them is a root. Which one? And how could you ever tell?* A carrot and a potato look alike, but they are different parts of a plant. The carrot is a root. The potato is a stem that grows under the ground. Its 'eyes' show this, because only stems have buds like that. In this unit you will learn to tell each part by its clues, not by where it grows. You will also find out why each part of a plant has the shape it has.
 

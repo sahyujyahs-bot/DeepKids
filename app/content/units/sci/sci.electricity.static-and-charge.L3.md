@@ -1,7 +1,7 @@
 # Static electricity: why a rubbed balloon sticks to the wall, and what lightning is
 `sci.electricity.static-and-charge.L3`
 
-**Summary.** Rub a balloon on dry hair, and your hair rises up towards it. Everything is made of tiny particles with electric charge, plus and minus, in equal amounts. Rubbing moves some of the tiny minus particles, called electrons, from your hair onto the balloon. Now the balloon has extra minus charge and your hair has extra plus charge, and opposite charges attract. Charge that stays where it was put is called static electricity. Lightning is the same thing on a giant scale: a huge spark that jumps when a storm cloud holds too much charge.
+**Summary.** Why does a rubbed balloon stick to the wall and lift your hair? In this unit you will test which cloth charges a balloon best, bend a stream of water with a rubbed object, and make a safety plan for a thunderstorm.
 
 **Intro.** *Rub a balloon on your hair, or on a woollen shawl, about ten times. Now hold it against the wall and let go. It stays there, with no tape and no glue. What is holding it up?* Nothing you can see is holding the balloon. The rubbing has given it an electric charge, and the charge attracts the wall. In this unit you rub balloons, combs and rulers with different cloths, and find out which ones work best. You make paper jump, water bend and an empty can roll without touching them. You find out why it all works badly on a damp monsoon day. And you learn how a storm cloud does the same thing until it makes lightning, and how to stay safe when it does.
 

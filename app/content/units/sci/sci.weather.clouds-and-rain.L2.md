@@ -1,7 +1,7 @@
 # Clouds and rain: how tiny drops in a cloud become rain
 `sci.weather.clouds-and-rain.L2`
 
-**Summary.** A cloud is made of millions of tiny drops of water, each one thinner than a hair. They are so small and light that they float in the air. Rain falls only when many tiny drops join into one bigger, heavier drop. Your child tests this with a spray bottle and a steel plate: the fine mist clings to the plate, and only after many sprays does a drop grow big enough to run down. Then they find out where a cloud's water comes from, and why grey clouds are the ones that bring rain.
+**Summary.** A cloud is made of tiny drops, so why do they float and not fall? In this unit you will watch mist in a torch beam, spray a steel plate to see how many sprays it takes before a drop runs down, and draw white and grey clouds.
 
 **Intro.** *Spray one puff of mist from a spray bottle into the air, in a beam of torchlight. Then let one drop of water fall from a spoon. Which one reaches the floor first?* The drop from the spoon falls straight down in a blink. The tiny drops of the mist sparkle in the light and drift slowly, and some seem to hang in the air. A cloud is made of drops even smaller than these. So how does a cloud ever make rain? In this unit you test it yourself, with a spray bottle and a steel plate.
 

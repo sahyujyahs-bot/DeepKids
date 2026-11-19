@@ -1,7 +1,7 @@
 # Caring for our environment: why some litter traps animals, and what we can do
 `sci.environment.caring.L2`
 
-**Summary.** A loop of wet newspaper tears at one gentle pull, but a loop cut from a milk packet only stretches and holds. That is why plastic litter can trap a bird, a cow or a turtle, and paper usually cannot. Your child soaks loops of paper, cloth and plastic in water and tries to pull each one apart. Then we find out how litter harms the animals who live around us, and the real ways families, villages and cities in India care for their environment.
+**Summary.** Why can plastic litter trap a bird when wet paper cannot? In this unit you will soak loops of paper, cloth and plastic and try to pull each one apart, hunt for loops in your dry waste, and play a card game sorting litter that traps, gets swallowed or is safe.
 
 **Intro.** *On the day after a kite festival, people in many Indian cities find birds caught in kite string on trees and balconies. Why can't the bird just break the string and fly away?* A bird cannot break some kinds of string, however hard the bird pulls. Strong plastic litter can trap animals the same way. Our environment is everything around us: the air, the water, the land and every living being. In this unit we test which kinds of litter can trap an animal. Then we learn what people in India do to care for the places we share.
 

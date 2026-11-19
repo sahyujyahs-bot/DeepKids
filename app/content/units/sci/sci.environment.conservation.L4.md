@@ -1,7 +1,7 @@
 # Taking without emptying: how much can we take and still leave enough?
 `sci.environment.conservation.L4`
 
-**Summary.** Fish, clams and tigers have young, and grass grows back, so it seems they should never run out. Yet people have emptied lakes, seas and forests that refilled themselves for thousands of years. Your child works out how many beans are in a jar without counting them all, using the same method scientists use to count tigers and fish. They run a pond where a whole village shares the fish, and they see how a small mistake can empty it. They also build a model of groundwater, test which seeds in the kitchen are still alive, and find out why a village of rice farmers keeps five kinds of rice.
+**Summary.** Fish and grass grow back, so how can people empty a lake that refilled itself for thousands of years? In this unit you will estimate the beans in a jar without counting them all, run a village pond where everyone shares the fish, and model how rain soaks into the ground.
 
 **Intro.** *Fill a jar with beans. Take out 40, mark each with a dot, and shake them back in. Now scoop out 40 beans again. Only 6 have a dot. Without counting every bean, how many beans are in the jar?* You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 out of every 40 beans in the jar have a dot. You marked 40 beans in all, and those 40 are about 6 out of every 40 in the jar. So the whole jar holds about 40 times 40 divided by 6 beans, which is about 270. Scientists use this method to count fish in a lake and tigers in a forest, where nobody can count every one. In this unit you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?
 

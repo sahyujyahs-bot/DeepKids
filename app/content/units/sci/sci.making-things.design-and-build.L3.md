@@ -1,7 +1,7 @@
 # Design and build: make it, test it, make it better
 `sci.making-things.design-and-build.L3`
 
-**Summary.** A first design almost never works perfectly, and a test shows where it goes wrong. Engineers design things for a purpose. They plan, choose materials, build, test and then improve. In this unit you build a boat from one square of aluminium foil and load it with coins until water comes in. You watch where the water comes in, change one thing and test again. A boat floats because the water pushes it up, and a wider boat with taller sides can push aside more water. You also test which kitchen paste joins paper best.
+**Summary.** A tiny foil boat can float and carry a load, but only if it is shaped well. In this unit you will build a foil boat, test it and make it better, find which kitchen paste joins paper best, and hunt for the weak spot in a design.
 
 **Intro.** *Here is a square of kitchen foil, as wide as your hand is long. Can you fold it into a boat that carries 20 coins without sinking? Most people's first boat sinks with far fewer. Why, and how do you make the next one better?* Everything people make was designed by someone: your steel tumbler, your chappals, the bus and the Chandrayaan rocket. Designing means deciding what a thing is for, then planning how to make it do that job. Nobody gets it all right the first time. Engineers build, test, find the weak spot and improve. In this unit you do exactly that, with a foil boat, a bucket of water and some coins.
 

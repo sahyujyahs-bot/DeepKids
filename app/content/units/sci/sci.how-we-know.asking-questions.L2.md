@@ -1,7 +1,7 @@
 # Questions we can test: guess first, then try it
 `sci.how-we-know.asking-questions.L2`
 
-**Summary.** Can a pencil lift a whole bottle of rice? You cannot know by thinking about it. You have to try it and watch. A question like this is a testable question: doing something shows the answer to anyone who looks. Other questions, like 'Which colour is the best?', have no test, because each person's answer is true for them. Your child sorts questions, makes predictions with reasons, tests them, and hears how two astronomers, Edmond Halley and Nicole-Reine Lepaute, predicted the return of a comet.
+**Summary.** Can a pencil lift a bottle of rice? Thinking will not tell you, but a test will. In this unit you will sort questions into ones you can test and ones you cannot, guess first and give a reason, then try the pencil and rice bottle and see if you were right.
 
 **Intro.** *Here is a bottle full of rice and one pencil. Push the pencil into the rice. Can you lift the whole bottle by the pencil? What do you think, and why?* You just made a prediction. A prediction is what you think will happen, and why, said before you try. Some questions can be answered by trying, like this one. Others cannot, like 'Is rice nicer than roti?' In this unit you learn to tell the two kinds apart. You make predictions, test them, and count what happens. A wrong prediction is useful too: it shows you which idea to change.
 

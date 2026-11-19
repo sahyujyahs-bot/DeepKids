@@ -1,7 +1,7 @@
 # Heart, blood and breath: how oxygen reaches every part of you
 `sci.body.heart-blood-breath.L3`
 
-**Summary.** Put two fingers on your wrist and you can feel your heart at work. Your heart is a muscle about the size of your fist, and it squeezes more than a hundred thousand times a day. Each squeeze pushes blood round your body, through the lungs to pick up oxygen and out to every part of you, and the same blood keeps coming back. When you run, your heart and breathing speed up, because your muscles need more oxygen. Scientists still do not know why a human heart can hardly repair itself, or how much our heartbeat shapes our feelings.
+**Summary.** Why does your heart beat faster when you run? In this unit you will find your pulse and count it before and after jumping, make a paper tube to listen to a heartbeat, build a bottle lung, and play a board game as a red blood cell going round the body.
 
 **Intro.** *Sit very still. Put your hand flat on the middle of your chest, a little to the left. Wait, and do not talk. Can you feel a beat under your hand? It started long before you were born, and it has never stopped. What is it doing?* About 400 years ago, an English doctor called William Harvey did a sum. He worked out roughly how much blood a heart pushes out with each beat. Then he counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. Where could all that blood come from? Where could it go? No body could make that much new blood so fast. So the same blood must go round and round, again and again. In this unit you will feel your heartbeat, count it and listen to it.
 

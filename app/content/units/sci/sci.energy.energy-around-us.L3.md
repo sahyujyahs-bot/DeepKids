@@ -1,7 +1,7 @@
 # Energy: what makes things move, light up, heat up and make sounds
 `sci.energy.energy-around-us.L3`
 
-**Summary.** A fan turns, a torch shines, a cooker whistles and dosa batter turns crisp on a hot tawa. Each of these needs energy. Energy is what makes things happen: it makes things move, light up, heat up and make sounds. It is never made by the thing that uses it. It is passed on from somewhere else: from a cell, from the wall socket, from gas, from food or from sunlight. When you drop a marble into atta from higher up, it lands faster and digs a wider crater, because your arm gave it more energy by lifting it higher. Follow almost any energy back, step by step, and you reach the Sun.
+**Summary.** Where does the energy that moves and heats things around you come from? In this unit you will hunt for energy at work at home, drop a marble into atta from different heights, and trace where energy came from, step by step.
 
 **Intro.** *Try three things. Switch on a torch. Clap your hands hard. Hold your palm near, not on, a cup of hot tea. The torch gave light, the clap made a sound, and the tea warmed your hand. What do these three have in common?* Each one made something happen. Scientists say that whatever makes something happen needs energy. In this unit you go on a hunt for energy in your home. You drop a marble into a tray of atta from different heights to see what more energy does. And you find out where the energy for almost everything around you comes from.
 

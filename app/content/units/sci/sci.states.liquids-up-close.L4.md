@@ -1,7 +1,7 @@
 # Liquids up close: why water pushes harder the deeper you go
 `sci.states.liquids-up-close.L4`
 
-**Summary.** Poke three holes in a bottle, one high, one in the middle and one low, and fill it with water. The lowest hole squirts the farthest. A thin tube of water and a huge wide tank can push on their bottoms with exactly the same strength, if the water is equally deep. A tap on the top floor of a building runs slowly when the roof tank is nearly empty, though the tank is big. Your child tests where water pushes hardest, marks a level line along a wall with a hose, and finds out why a push on a liquid in a closed pipe goes everywhere. The same ideas explain rooftop tanks, dams, car brakes and the deep sea.
+**Summary.** Poke three holes in a bottle of water and the lowest hole squirts the farthest. Why does water push harder the deeper you go? In this unit you will test three jets, find how a push spreads through water, and mark a level line along a wall with a hose.
 
 **Intro.** *Poke three holes in a plastic bottle, one near the top, one in the middle and one near the bottom. Fill the bottle with water. All three jets start at once. Which one will squirt the farthest?* Many people guess the top hole, because it is higher. The answer comes from something you cannot see: the push that water makes on everything it touches. In this unit you measure that push with a bottle, and with a hose that is longer than a room. You find out why the push grows with depth, why it does not depend on how much water there is, and why the water in a hose always settles to the same level. You also build a machine from two syringes, and see why the top-floor tap runs slowly and why a dam is thickest at the bottom.
 

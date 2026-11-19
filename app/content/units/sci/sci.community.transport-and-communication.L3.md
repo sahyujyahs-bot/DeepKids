@@ -1,7 +1,7 @@
 # Transport and communication: how people, goods and messages travel
 `sci.community.transport-and-communication.L3`
 
-**Summary.** The rice in your kitchen may have come hundreds of kilometres by truck or train. A phone call reaches a relative in Mysuru in less than a second. Transport is how people and goods move from place to place: by road, rail, water, air and pipeline. Communication is how messages and ideas travel: by speech, signs, letters, phones, radio, TV and the internet. In this unit you follow how both grew, from footpaths and boats to metros and satellites. You learn what road signs and traffic lights mean, and how transport dirties the air. Then you test, in a dark room, which clothes a driver can see from furthest away.
+**Summary.** Why do white clothes and reflective strips keep a walker safe at night? In this unit you will test which clothes a driver can see from furthest away, trace how far your food travelled to your kitchen, and play a road sign game.
 
 **Intro.** *Pick up one packet from your kitchen shelf, such as rice, salt or tea. Read where it was packed. Who carried it to your home, and how?* Almost nothing in your home was made in your home. Salt may come from Thoothukudi or Gujarat. Tea may come from the Nilgiris or Assam. These things came by truck, train or ship, and then by a shop's van or a delivery scooter. People also need to send messages: to order the rice, to pay for it, to say 'it has arrived'. In this unit you find out how people learned to carry things and messages further and faster. You also find out how roads keep people safe, and test whether a driver can really see you at night.
 

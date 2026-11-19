@@ -1,7 +1,7 @@
 # Lucky accidents and missing names: how discoveries really happen
 `sci.how-we-know.stories-of-discovery.L3`
 
-**Summary.** Spencer Silver tried to make a very strong glue and made a weak one instead. Years later, his weak glue became the glue on sticky notes. Many discoveries began like this, with a result nobody wanted, and a person who stopped to ask why. You will make your own 'failed' tape and find a job it does better than good tape. You will also meet the people who did the work behind famous discoveries but were left out when the credit was handed out.
+**Summary.** A man set out to make a very strong glue and made a weak one by mistake, yet it ended up on sticky notes. How can a mistake become a discovery? In this unit you will test a too-weak tape to find a job it does well, and meet people left out of the credit.
 
 **Intro.** *In 1968, a chemist named Spencer Silver tried to make a glue strong enough to help build aeroplanes. His glue came out so weak that paper stuck with it could be peeled straight off again. Was that a failure?* For aeroplanes, yes. But six years later his co-worker Art Fry needed a bookmark that would stay in his song book without tearing the pages. Silver's weak glue was just right. A result is not good or bad by itself. It depends on what you need it for. In this unit you will test this with tape, and meet people whose 'mistakes' became discoveries.
 

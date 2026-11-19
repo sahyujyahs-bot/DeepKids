@@ -1,7 +1,7 @@
 # The physics of sport: how the ground, a throw and a kick change how things move
 `sci.motion.physics-of-sport.L3`
 
-**Summary.** Drop a ball on a stone floor and it bounces back up. Drop the same ball on a pillow and it hardly moves again. A bounce needs something to squash and spring back fast. On a hard floor the ball does that. On a pillow, the pillow squashes instead and springs back too slowly to push the ball. The same is true for a runner, so running on soft sand is tiring work. A thrown ball keeps moving forward while gravity pulls it down, so it flies in a curve. A kick to one side of the middle of a ball makes it spin, and a spinning ball curves in the air. In every sport, the player, the ball and the ground push on each other.
+**Summary.** A ball bounces back up from a stone floor but hardly moves on a pillow. Why? In this unit you will test one ball on different surfaces, jog on a hard floor and a soft mattress, and make a ball spin by pushing it to one side of the middle.
 
 **Intro.** *Try this. Hold a ball at the height of your chin and let it fall onto the floor. Catch it. Now let it fall onto a pillow. It is the same ball, falling from the same height. Why does it bounce back up from the floor, but hardly at all from the pillow?* Every game you play is full of questions like this. Why is it so tiring to run on the beach? Why does a ball you throw fly in a curve, and not in a straight line? How do footballers make a ball bend in the air? In this unit you test bounces on different floors in your own home. You find out what the ground does to a ball, and to your feet. Then you look at throwing, kicking, jumping and catching.
 

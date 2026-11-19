@@ -3,7 +3,7 @@
  "title": "Homes near our home: a tree, a pond, a park and under a stone",
  "level": 1,
  "summary": {
-  "text": "Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers half of some wet soil with a plate. A few hours later, the soil under the plate is still damp and dark, like a small home. Right next to it, the open soil is dry.",
+  "text": "Lift a stone and the ground under it is dark, damp and cool. Who lives there? In this unit you will play a memory game of homes, cover wet soil with a plate to see what happens, and feel which places are damp or dry.",
   "art": "A park scene cut in half: on the left a lifted stone with earthworms, ants and a pill bug in the dark soil below; on the right a tree with a crow's nest, a pond with tadpoles and a lotus, and grass with a grasshopper."
  },
  "intro": {
@@ -250,7 +250,7 @@
    "title": "Lift the Stone: a memory game of homes",
    "mins": 10,
    "players": "1 to 4 children and a grown-up",
-   "context": "This is a memory game about homes near home. The cards lie face down, like stones on the ground. You lift two at a time. If you find a living being and a place where they live, you keep both.",
+   "context": "This is a memory game about homes near home. The cards lie face down, like stones on the ground. You lift two at a time. If you find a living being and a place where they live, you keep both. You will find out which animals and plants live in which places.",
    "printables": [
     {
      "kind": "cards",
@@ -343,7 +343,7 @@
      "id": "s2",
      "mins": 6,
      "do": "Take turns lifting two cards. When a pair fits, ask why. If your child is unsure, give a hint from the notes below.",
-     "say": "You found the earthworm and the stone. Why does an earthworm live under a stone?",
+     "say": "You found the earthworm and the stone. They are a pair.",
      "kid": "Lift two cards. Do they go together? Say why.",
      "ask": [
       {
@@ -368,8 +368,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the pairs. Lay all the place cards in a row. Put each living being card under the place where they live.",
-     "say": "Look at all the homes. Which one is the darkest and dampest?",
-     "kid": "Count your pairs. Which home is the darkest and dampest?",
+     "say": "Look at all the homes in the row. Think about which one gets no sun and keeps the water in.",
+    "kid": "Count your pairs. Then look at all the homes.",
      "check": {
       "t": "mcq",
       "q": "Which home is dark, damp and cool?",
@@ -389,7 +389,7 @@
    "title": "Pill Bug Says: a crawling game",
    "mins": 10,
    "players": "1 or more children and a grown-up who calls out the places",
-   "context": "This is a moving game. You pretend to be a pill bug, a small grey animal who lives under stones. A grown-up calls out a place. In a dry, bright place you crawl fast. In a damp, dark place you slow down and rest.",
+   "context": "This is a moving game. You pretend to be a pill bug, a small grey animal who lives under stones. A grown-up calls out a place. In a dry, bright place you crawl fast. In a damp, dark place you slow down and rest. You will find out where a pill bug ends up, and why.",
    "printables": [
     {
      "kind": "cards",
@@ -460,8 +460,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Read one card at a time. Wait for your child to move before you read the back.",
-     "say": "The hot floor in the sun! What does a pill bug do here?",
-     "kid": "Listen to the place. How does a pill bug move here?",
+     "say": "The hot floor in the sun! Move like a pill bug.",
+     "kid": "Move the way a pill bug would move here.",
      "ask": [
       {
        "q": "Why does a pill bug crawl fast on a dry, sunny floor?",
@@ -477,7 +477,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Sit together. Ask where the pill bug ended up resting.",
-     "say": "Where did you rest? If you crawl fast in the dry and slow in the damp, where do you end up?",
+     "say": "You crawled fast in the dry and slowly in the damp. So where did you end up?",
      "kid": "Where did you rest most? Was it damp or dry there?",
      "think": "Did the pill bug choose the damp place, or just end up there? What do you think?",
      "check": {
@@ -501,7 +501,7 @@
    "title": "The Plate on the Soil: what happens under a cover?",
    "mins": 20,
    "days": 1,
-   "context": "You wet the soil in a pot and cover half of it with a plate. The plate is like a stone. You leave the pot in the sun for about three hours. Then you look at both halves and touch them.",
+   "context": "You wet the soil in a pot and cover half of it with a plate. The plate is like a stone. You leave the pot in the sun for about three hours. Then you look at both halves and touch them. You will find out whether a cover keeps soil damp, the way a stone does.",
    "problem": "A stone keeps the sun off the ground and keeps the water in. In this experiment, a plate does the job of a stone. You cover half of some wet soil with the plate and leave the pot in the sun. Then you see how the two halves are different.",
    "question": "After a few hours in the sun, is the soil under a plate different from the soil in the open?",
    "predict": "Guess first. After three hours, will the soil under the plate be wet or dry? And the soil in the sun? Why do you think so?",
@@ -594,11 +594,11 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Pour about half a cup of water slowly over the soil, until the whole top is dark and damp. 2. Let your child touch the soil. 3. Lay the plate flat on one half.",
-     "say": "Feel the soil. It is all wet now. This plate is like a stone. What will the soil be like under the plate in three hours? And in the sun? Why do you think so?",
-     "kid": "Feel the wet soil. Put the plate on one half. The plate is like a stone. What will happen? Why?",
+     "say": "Feel the soil. It is all wet now. This plate is like a stone. Now let us guess what will happen.",
+     "kid": "Feel the wet soil. Put the plate on one half. The plate is like a stone.",
      "ask": [
       {
-       "q": "What do you think the soil under the plate will be like? Why?",
+       "q": "After three hours in the sun, what will the soil under the plate be like? Why?",
        "good": [
         "Still wet, because the sun can't reach it.",
         "Cool, because it's in the shade."
@@ -645,7 +645,7 @@
      "mins": 5,
      "do": "Ask your child to say three things: what they think happened, what they saw, and why. Then look back at their guess together.",
      "say": "Tell me what you found. What did you see and feel? Why do you think the plate made a difference? Was your guess right?",
-     "kid": "Say what you found. What did you see and feel? Why did the plate make a difference?",
+     "kid": "Say what you found, and why the plate made a difference.",
      "ask": [
       {
        "q": "Who would like to live under the plate? Who would like the soil in the sun?",
@@ -678,7 +678,7 @@
    "title": "Feel the Places: damp or dry, dark or bright, cool or warm?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you visit five places in your home and touch each one. You decide if each place is damp or dry, dark or bright, and cool or warm. Then you think about who might like to live there.",
+   "context": "In this activity you visit five places in your home and touch each one. You decide if each place is damp or dry, dark or bright, and cool or warm. Then you think about who might like to live there. You will find out which place in your home is most like the ground under a stone.",
    "materials": [
     {
      "item": "paper and a pencil",
@@ -693,10 +693,10 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Touch five places in the home. Mark each one. Say who might live there."
+     "what": "Touch five places in the home. Tick each one. Say who might live there."
     }
    ],
-   "record": "A table of the five places, with a sun or a moon for bright or dark, and a drop for damp.",
+   "record": "A table of the five places. A grown-up writes each place, and you tick bright or dark and damp or dry.",
    "setup": [
     {
      "art": "A child touching a sunny windowsill with one hand.",
@@ -716,16 +716,16 @@
      "id": "s1",
      "mins": 6,
      "do": "Visit five places with your child. Try a sunny windowsill, under the kitchen sink and under the doormat. Then try a corner of the bathroom floor and the soil in a plant pot. Your child touches each one.",
-     "say": "Touch this place. Is it damp or dry? Is it dark or bright? Is it cool or warm?",
+     "say": "Touch this place. How does it feel? Look at it. How does it look?",
      "kid": "Touch each place. Damp or dry? Dark or bright? Cool or warm?",
-     "parent": "Draw a sun or a moon for bright or dark, and a drop for damp."
+     "parent": "Write each place in a table. Tick bright or dark, and damp or dry. A sun, a moon and a drop can stand for these if your child likes."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Look at the table together. Ask which place a pill bug would choose, and which place a sunbathing lizard would choose.",
      "say": "A pill bug needs damp and dark. A garden lizard likes to warm up in the sun. Which place would each one choose?",
-     "kid": "Which place would a pill bug like? Which place would a lizard in the sun like?",
+     "kid": "Point to the place a pill bug would like. Point to the place a lizard would like.",
      "ask": [
       {
        "q": "Which place in our home is most like the ground under a stone?",
@@ -745,10 +745,10 @@
    "title": "One Tree, Many Homes (if a tree is near)",
    "mins": 15,
    "days": 1,
-   "context": "If you can see a tree from your window, or pass one on a walk, this activity is for you. You watch one tree for ten minutes and tick every living being and every home you find on it.",
+   "context": "If you can see a tree from your window, or pass one on a walk, this activity is for you. You watch one tree for ten minutes and tick every living being and every home you find on it. You will find out how many different living beings use one tree.",
    "materials": [
     {
-     "item": "a tick card (a grown-up draws it): a nest, a bird, a squirrel, an ant, a spider web, a hole, a bitten leaf, moss and fruit",
+     "item": "a tick card (a grown-up writes the list): a nest, a bird, a squirrel, an ant, a spider web, a hole, a bitten leaf, moss and fruit",
      "qty": 1
     },
     {
@@ -763,7 +763,7 @@
      "what": "Watch one tree for ten minutes. Tick everything you find. Talk about it."
     }
    ],
-   "record": "Your ticked card, and a drawing of your tree with every home you found.",
+   "record": "Your ticked card. Tell a grown-up where on the tree each home was, high up or low down.",
    "setup": [
     {
      "art": "A girl and a grown-up standing near a neem tree, the girl holding a card with small drawings to tick.",
@@ -789,7 +789,7 @@
      "mins": 5,
      "do": "Count the ticks together. Ask which homes were high up and which were low down.",
      "say": "How many different living beings did we find on one tree? Which ones lived high up? Which lived down low?",
-     "kid": "Count your ticks. Who lived high up? Who lived low down?",
+     "kid": "Count your ticks. Point to who lived high up and who lived low down.",
      "ask": [
       {
        "q": "Is the tree a living being too?",
@@ -808,10 +808,10 @@
    "title": "Plants in the Cracks",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look for small plants growing in cracks: in walls, on steps, at the edge of the building or beside a drain. You notice whether the crack is sunny or shady, and you think about how the seed got there.",
+   "context": "In this activity you look for small plants growing in cracks: in walls, on steps, at the edge of the building or beside a drain. You notice whether the crack is sunny or shady, and you think about how the seed got there. You will find out what a plant finds in a crack to live on.",
    "materials": [
     {
-     "item": "paper and crayons",
+     "item": "a phone for a photo, or paper and crayons",
      "qty": 1
     }
    ],
@@ -819,10 +819,10 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Find plants growing in cracks near home. Draw one. Say how the seed got there."
+     "what": "Find plants growing in cracks near home. Photograph or draw one. Say how the seed got there."
     }
    ],
-   "record": "A drawing of one plant in a crack, with the sun or the shade drawn beside it.",
+   "record": "A photo or a drawing of one plant in a crack. Say if the crack is in sun or shade.",
    "setup": [
     {
      "art": "A small peepal sapling with heart-shaped leaves growing out of a crack in an old wall.",
@@ -846,9 +846,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask how a seed got into a crack so high. Then your child draws one plant growing in a crack.",
-     "say": "Birds eat the small figs of peepal and banyan trees. The seeds come out in their droppings. How could a seed get into a crack high on a wall?",
-     "kid": "How did a seed get into this crack? Draw the plant that grows in this crack.",
+     "do": "Ask how a seed got into a crack so high. Then your child photographs or draws one plant growing in a crack.",
+     "say": "Look at this crack, high on the wall. There is hardly any soil here.",
+     "kid": "Take a photo of one plant in a crack, or draw the plant.",
      "ask": [
       {
        "q": "How could a peepal seed get into a crack high on a wall?",
@@ -858,6 +858,7 @@
        ]
       }
      ],
+     "parent": "If your child is stuck: birds eat the small figs of peepal and banyan trees, and the seeds come out in their droppings.",
      "think": "A crack has only a little soil. What does the plant need that the crack gives? A good answer is a little soil to hold their roots, and rainwater that runs into the crack."
     }
    ]
@@ -867,10 +868,10 @@
    "title": "Pond Watch (if you pass a pond, a lake or a temple tank)",
    "mins": 15,
    "days": 1,
-   "context": "If you pass a pond, a lake or a temple tank, this activity is for you. You stand back from the edge and watch for ten minutes. You look for living beings in the water, on top of the water, and in the air above it.",
+   "context": "If you pass a pond, a lake or a temple tank, this activity is for you. You stand back from the edge and watch for ten minutes. You look for living beings in the water, on top of the water, and in the air above it. You will find out who lives in a pond and who only visits.",
    "materials": [
     {
-     "item": "a tick card (a grown-up draws it): a fish, a frog, a tadpole, a lotus, a dragonfly, a pond skater, an egret and a duck",
+     "item": "a tick card (a grown-up writes the list): a fish, a frog, a tadpole, a lotus, a dragonfly, a pond skater, an egret and a duck",
      "qty": 1
     }
    ],
@@ -882,7 +883,7 @@
      "what": "Watch a pond from a safe spot. Tick what you see. Talk about it."
     }
    ],
-   "record": "Your ticked card, and a drawing of the pond in three layers: under the water, on top, and in the air.",
+   "record": "Your ticked card, with a star beside each living being who lives in the water all the time.",
    "setup": [
     {
      "art": "A grown-up and a child standing back from the edge of a temple tank, looking at fish and lotus leaves.",
@@ -899,16 +900,16 @@
      "adult": true,
      "mins": 10,
      "do": "Stand with your child well back from the edge. Look under the water first, then on top, then in the air above. Tick what you see.",
-     "say": "Let's look under the water first. Now look on top of the water. Now look in the air. Who lives here?",
-     "kid": "Look under the water. Look on top. Look in the air. Who lives here?",
+     "say": "We will look in three places: under the water, on top of the water, and in the air. Who do you see?",
+     "kid": "Look under the water, then on top, then in the air. Tick each one you find.",
      "parent": "Fish, tadpoles, pond skaters, dragonflies, lotus or water lilies, egrets and ducks are common."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Count the ticks together. Ask which beings live in the water all the time, and which only come to visit.",
-     "say": "Who lives in the water all the time? Who only comes to visit?",
-     "kid": "Who lives in the water all the time? Who only visits?",
+     "do": "Count the ticks together. Put a star by each being who lives in the water all the time.",
+     "say": "Some of these live in the water all the time. Some only come to visit. Let us find out which.",
+     "kid": "Count your ticks. Put a star by each one who lives in the water.",
      "ask": [
       {
        "q": "Why does an egret come to the pond?",
@@ -929,7 +930,7 @@
    "title": "A Stone Home on the Balcony",
    "mins": 20,
    "days": 3,
-   "context": "In this three-day project you lay a tile on damp soil. This makes a small damp, dark place, like the ground under a stone. Each morning you lift the tile slowly to see if anyone has moved in. Then you put the tile back gently.",
+   "context": "In this three-day project you lay a tile on damp soil. This makes a small damp, dark place, like the ground under a stone. Each morning you lift the tile slowly to see if anyone has moved in. Then you put the tile back gently. You will find out who moves into a small damp, dark place, and whether more come each day.",
    "problem": "A stone makes a dark, damp, cool place on the ground. In this project, a tile does the job of a stone. You lay it on wet soil, then lift it each morning to see which small animals have moved in.",
    "materials": [
     {
@@ -958,15 +959,15 @@
     {
      "day": 2,
      "mins": 6,
-     "what": "Lift the tile slowly. Look, count and draw. Put it back gently."
+     "what": "Lift the tile slowly. Look, count and make a tally. Put it back gently."
     },
     {
      "day": 3,
      "mins": 6,
-     "what": "Lift the tile again. Look, count and draw. Compare with yesterday."
+     "what": "Lift the tile again. Look, count and make a tally. Compare with yesterday. Take a photo or draw what you found."
     }
    ],
-   "record": "A drawing for each morning of what you found under the tile, with a tally of any ants or other small animals.",
+   "record": "A tally of the ants and other small animals under the tile each morning, and one photo or drawing of what you found.",
    "setup": [
     {
      "art": "A child laying a flat tile on damp soil in a pot in a shady corner of a balcony.",
@@ -998,18 +999,18 @@
      "id": "s2",
      "mins": 6,
      "wait": "Come back tomorrow morning.",
-     "do": "Lift the tile slowly. Look, count and draw what you see. Put the tile back gently, the same way.",
+     "do": "Lift the tile slowly. Look, and make a tally mark for each small animal. Put the tile back gently, the same way.",
      "say": "Lift it slowly. Is the soil still damp? Has anyone moved in? Let's count them.",
-     "kid": "Lift the tile slowly. Is anyone there? Count them. Put the tile back gently.",
+     "kid": "Lift the tile slowly. Count who is there. Put the tile back gently.",
      "parent": "Ants come most often. If nobody has come, that is a result too. Keep the soil damp with a little water."
     },
     {
      "id": "s3",
      "mins": 6,
      "wait": "Come back the next morning.",
-     "do": "Lift the tile again. Count and draw. Compare with yesterday's drawing.",
+     "do": "Lift the tile again. Make a tally. Compare with yesterday's tally. Then take a photo, or draw what you found.",
      "say": "Are there more today, or fewer, or the same? Why do you think so?",
-     "kid": "Count again. More, fewer or the same as yesterday? Why?",
+     "kid": "Count again. Look at yesterday's tally.",
      "think": "When we stop the project, should we leave the stone home there?",
      "parent": "Put the tile back the same way."
     }
@@ -1022,7 +1023,7 @@
    "id": "c1",
    "title": "Make a Water Place for Birds on a Hot Day",
    "mins": 20,
-   "context": "This is a design challenge. In the hot months, birds in the city find it hard to get water. You design a small, safe water place for birds on your balcony or window ledge.",
+   "context": "This is a design challenge. In the hot months, birds in the city find it hard to get water. You design a small, safe water place for birds on your balcony or window ledge. You will find out which birds come to drink or bathe.",
    "problem": "Make a place where small birds can drink and bathe safely on a hot day, using things from home.",
    "constraints": [
     "The water must be shallow, no deeper than the first knuckle of your finger, so small birds can stand in it.",
@@ -1044,7 +1045,7 @@
     "Put the plate on a high shelf inside the grill, where cats cannot reach.",
     "Put a plant pot beside the water, so birds have a place to rest before they drink."
    ],
-   "your_turn": "Draw your water place. Put it out, and watch for two days. Who came? Which birds drank, and which bathed?",
+   "your_turn": "Plan your water place: draw it, or tell a grown-up where it will go and what you will use. Put it out, and watch for two days. Who came? Which birds drank, and which bathed?",
    "setup": [
     {
      "art": "A shallow clay plate of water with a flat stone in the middle, in the shade of a balcony plant.",
@@ -1061,7 +1062,7 @@
      "mins": 5,
      "do": "Talk about the problem. Look at the balcony or window ledge together. Find a shady, safe spot.",
      "say": "Birds need water on hot days. Where could a small bird drink safely here? What would keep the water cool?",
-     "kid": "Birds need water on hot days. Where could a bird drink safely?"
+     "kid": "Point to a safe, shady spot where a bird could drink."
     },
     {
      "id": "s2",
@@ -1078,7 +1079,7 @@
      "wait": "Watch over the next two days.",
      "do": "Watch from inside for a few minutes at different times. Note which birds come.",
      "say": "Who came to our water place? Did they drink, or did they bathe?",
-     "kid": "Watch from inside. Who came? Did they drink or bathe?",
+     "kid": "Watch from inside. Note which birds come.",
      "think": "We made a small new habitat. What else could we add to it? A good answer is a plant pot for shade, or a flat stone to stand on."
     }
    ]

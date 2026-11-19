@@ -1,7 +1,7 @@
 # Our five senses: which work from far away, and which need touching
 `sci.senses.five-senses.L1`
 
-**Summary.** You can smell an orange from a few steps away, but you can taste the orange only when it touches your tongue. We have five senses: seeing, hearing, smelling, tasting and touching. Each one has its own sense organ: eyes, ears, nose, tongue and skin. Your child finds which senses work from across the room and which need touching. They find out that when they smell something, tiny bits of it have floated into their nose.
+**Summary.** How close do you have to stand to smell an orange? In this unit you will find which body part tells you about things on a tray, test your nose step by step, play a game to hop to the right sense, and see which senses work in the dark.
 
 **Intro.** *Close your eyes. Someone in the kitchen is frying mustard seeds and curry leaves. You know it, without seeing a thing. How?* Your ears hear the pop of the mustard seeds. Your nose smells the curry leaves. Nobody told you, and you did not look. Your body found out by itself. The ways your body finds out about the world are called your senses. In this unit you test them. You find which senses can tell you about a thing from far away, and which ones need to touch it.
 

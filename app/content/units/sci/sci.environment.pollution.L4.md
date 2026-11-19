@@ -1,7 +1,7 @@
 # Gone from sight: how dirty water hides, travels and builds up
 `sci.environment.pollution.L4`
 
-**Summary.** Five drops of colour turn a tumbler of water bright. Stir one spoonful of it into a tumbler of fresh water, then do the same a few more times, and the colour fades until your eyes cannot find it. Is it gone? Your nose may say no. In this unit you thin out colour and scent step by step and test your eyes against your nose. Then you follow dirty water further. You see how oil spreads and how hard it is to clear, how a little pollution piles up inside fish and the animals that eat them, and how a sewage plant uses living microbes to clean water. You also find out why 'clean' always depends on what is being checked, and by whom.
+**Summary.** Thin coloured water again and again and the colour fades from sight, but is the dirt really gone? In this unit you will test your eyes against your nose, race tools to clear spilled oil, and play a game about which dirt a net or cloth can take out.
 
 **Intro.** *Two tumblers of water stand side by side. Both look exactly like water from the tap. Into one of them, someone stirred a spoonful of kewra essence. Can you tell which one, without tasting?* Look as hard as you like, and the two look the same. Now bring each tumbler to your nose. One smells of flowers and the other of nothing. Your eyes could not find the difference, but your nose could. So when a river, a pond or a well 'looks clear', what has been checked, and what has not?
 

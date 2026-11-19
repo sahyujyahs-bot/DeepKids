@@ -1,7 +1,7 @@
 # Food chains and food webs: who eats whom
 `sci.ecology.food-chains.L3`
 
-**Summary.** You can see hundreds of ants in a day, but a whole forest may hold only a handful of tigers. The reason is who eats whom. A food chain shows how food passes from a plant to the animal that eats the plant, and on to the next eater. At each step, the eater uses most of the energy in their food just to stay alive. So only about a tenth of that energy passes on to the next eater. Most animals eat several things, so chains join up into food webs, and taking one living thing away changes many others.
+**Summary.** Why are there many plants but only a few tigers? In this unit you will play out where food goes with one hundred grains, build a food web from wool, and find out who is biting the leaves of plants near home.
 
 **Intro.** *Look out of a window or at a garden for two minutes. Can you find one living thing that is eating, or hunting? What are they eating? And who might eat them?* Right now, somewhere near you, a lizard is waiting by a light for a moth. A caterpillar is chewing a leaf. A crow is pecking at something on the road. Each of them is part of a long line of eating that starts with sunlight on a leaf. Scientists call that line a food chain. In this unit, you will find the chains around your own home. You will see why there are so many ants and so few tigers. And you will find out what happened when a government decided that one small bird was an enemy.
 

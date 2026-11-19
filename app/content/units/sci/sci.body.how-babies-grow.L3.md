@@ -1,7 +1,7 @@
 # How a baby grows: from one cell to birth
 `sci.body.how-babies-grow.L3`
 
-**Summary.** Every person began as one cell, smaller than a grain of salt. This cell was made when a cell from each parent joined. That cell split into two, then four, then eight, and on and on. For about nine months the baby grew in their mother's womb, a stretchy bag of muscle. They floated in warm water and got food and oxygen from her blood, through a cord. At birth they took their first breath, and the cord left a belly button. Scientists still do not fully know how each cell knows what to become.
+**Summary.** Every person began as one tiny cell. How does one cell become a baby? In this unit you will watch dough double to see cells multiply, test whether water protects an egg, make a growing fruit line, and play a game of the forty weeks before birth.
 
 **Intro.** *Look at your hand. Spread your fingers wide. Once, your whole body, with its hands, eyes, bones and brain, was one single cell. That cell was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?* Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell.
 

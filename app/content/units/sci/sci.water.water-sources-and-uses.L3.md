@@ -1,7 +1,7 @@
 # Where our water comes from, and when it is safe to drink
 `sci.water.water-sources-and-uses.L3`
 
-**Summary.** Almost all the water we use starts as rain. Some rain flows into rivers and lakes. Some soaks into the ground and fills the tiny gaps between grains of soil and rock. That is groundwater. Wells and borewells reach down to it. People store water in matkas, tanks, ponds and stepwells, and clean it before they drink it. Water that looks clear can still carry germs and dissolved salts, because both are too small to see.
+**Summary.** Clear water is not always clean to drink. How can you tell? In this unit you will follow the pipe to see where your tap water comes from, test whether rain soaks into different grounds, and count how many litres your family uses.
 
 **Intro.** *Fill a glass from the tap and hold it up to the light. It looks like nothing but water. Where was this water last week? And is there anything else in it?* Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this unit you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.
 

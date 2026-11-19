@@ -1,7 +1,7 @@
 # Being aware: how you notice the world, and what it is like to be you
 `sci.what-is-real.consciousness.L2`
 
-**Summary.** The fan hums all evening, yet most of the time you do not hear it. Being aware means knowing or feeling that something is there. Your attention picks out a few of the many sounds, sights and touches around you. In this unit you test how many sounds you notice when you are busy and when you sit still. You also taste the same lemon as your family and find out whether everyone feels the same sour. Then you meet the other beings who notice their world, and the big question nobody has answered: how does being aware happen at all?
+**Summary.** The fan hums all evening, yet most of the time you do not hear it. Why not? In this unit you will count the sounds you notice when you are busy and when you sit still, and taste the same lemon as your family to see whether everyone feels the same sour.
 
 **Intro.** *Can you hear the fan right now? Could you hear it a minute ago?* Stop and listen for ten seconds. You may hear the fan, the fridge, a horn on the road or a bird. Most of these sounds were there before you stopped. You were not noticing them. Being aware of something means you know or feel that it is there. So what decides which sounds you are aware of?
 

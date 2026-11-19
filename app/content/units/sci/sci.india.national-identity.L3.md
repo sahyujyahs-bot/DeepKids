@@ -1,7 +1,7 @@
 # India's national symbols: what they stand for, and how we count our tigers
 `sci.india.national-identity.L3`
 
-**Summary.** A country chooses a few things to stand for all its people. India's are the Tricolour flag, the Lion Capital emblem, the anthem Jana Gana Mana, the song Vande Mataram, the tiger, the peacock and the lotus. Real people designed or chose them, such as Pingali Venkayya from Andhra Pradesh, whose flag design grew into ours. To protect the tiger, India must know how many tigers there are. For about 30 years, forest staff counted tigers from their footprints, called pugmarks. In this unit you test whether one print can tell you who made it. You also check a famous claim: that hockey is India's official national game.
+**Summary.** India counted its tigers by their footprints for about 30 years, and then found the count was wrong. Why? In this unit you will test whether one hand always leaves the same print, make an exact Tricolour with 24 spokes, and fact-check whether hockey is our official national game.
 
 **Intro.** *Make a fist and press it gently into a plate of atta. Now smooth the atta and press again, harder. Are the two prints the same size? Forest staff once counted India's tigers by measuring prints like these. Could a print tell them which tiger walked there?* The tiger is India's national animal. A national animal is one that a country chooses to stand for all its people. Choosing a symbol is easy. Keeping a real tiger alive is harder. First you must know how many there are. In this unit you meet India's national symbols and the people behind them. You also test footprints with your own hand, and find out why scientists now count tigers by their stripes.
 

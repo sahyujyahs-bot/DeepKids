@@ -1,7 +1,7 @@
 # Insects and small creatures: counting legs, and how a tiny ant carries so much
 `sci.animals.insects.L2`
 
-**Summary.** An ant can carry off a crumb bigger than her own head. Ants, bees and butterflies are insects: they have six legs, three body parts and two feelers. A spider has eight legs and two body parts, so a spider is not an insect. An earthworm has no legs at all. Your child counts legs, then puts biscuit crumbs of four sizes beside an ant line and watches which ones the ants carry home.
+**Summary.** An ant is tiny, so how big a crumb can it carry? In this unit you will test which crumbs ants carry and count what is left, race to count whether small creatures have six legs, eight or none, and build an insect and a spider from dough.
 
 **Intro.** *A crumb is moving across the kitchen floor by itself. Look closer. An ant is carrying the crumb. How can something so small carry so much?* Small creatures live all around us, even in a flat. Ants walk in lines in the kitchen. A spider waits in a corner of the bathroom. A butterfly visits the curry leaf plant on the balcony. Some of these small creatures are insects, and some are not. You can tell them apart by counting their legs. In this unit you count legs on ants, spiders and butterflies. Then you test how big a crumb an ant can carry.
 

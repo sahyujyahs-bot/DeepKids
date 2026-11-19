@@ -1,7 +1,7 @@
 # Sorting animals: by body covering, by legs and by food
 `sci.classification.sorting-living-things.L2`
 
-**Summary.** A hen and a crow both have feathers and two legs, so they go in one group. A hen and a cow have different coverings and different legs. You can sort animals by their body covering, by their legs and by what they eat. Covering and legs show at a glance, but to find an animal's food you have to watch them. Your child sorts the same animal cards three ways, compares two animals in overlapping hoops, and then puts out banana, rice and a dead insect to find out what the ants at home eat.
+**Summary.** A hen and a crow both have feathers and two legs, but a hen and a cow do not. So who sits with the hen? In this unit you will sort the same animal cards three ways, compare animals in overlapping hoops, and put out banana, rice and a dead insect to see what ants eat.
 
 **Intro.** *Stroke your arm and feel the tiny hairs. Now think of a crow and a fish. What covers each body? Then the harder question: what do the ants in our kitchen eat?* Hair, feathers and scales are easy to see. Legs are easy to count. But you cannot see what an animal eats by looking at their body. Ask your child how we could find out what the ants eat, and let them guess. Don't give the answer. In this unit we sort animals by covering, by legs and by food, and then we test the ants.
 

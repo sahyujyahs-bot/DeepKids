@@ -1,7 +1,7 @@
 # Living light: how a glow is made, how it is read, and why eyes need the dark
 `sci.light.living-light.L4`
 
-**Summary.** Switch off every light and at first you see nothing. After about twenty minutes you can see the room again, though no lamp has been lit. Your eyes have changed. A firefly's flash is made by chemistry that needs four ingredients, and your eye catches that flash with chemistry too. In this unit your child tests how much more their eyes can see after waiting in the dark, finds out why heat stops a helper chemical from working, and plays a game in which a group of fireflies flashes together with no leader.
+**Summary.** How does a firefly make light with no heat and no flame? In this unit you will watch your pupils change, test how much you can see in the dark after waiting, use raw and boiled potato to see how heat stops a helper chemical, and play a game of fireflies flashing together.
 
 **Intro.** *Walk out of bright sunshine into a dark cupboard. For a minute you see nothing at all. Stay there, and shapes begin to appear. Nothing in the cupboard has changed. What has?* Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this unit you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.
 

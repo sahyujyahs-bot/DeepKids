@@ -1,7 +1,7 @@
 # Making a circuit: how a cell, two wires and a bulb make light
 `sci.electricity.circuits.L2`
 
-**Summary.** A small bulb lights when a cell, two wires and the bulb are joined in a ring. Electricity flows out of one end of the cell, through the bulb, and back into the other end. This ring is called a circuit. Your child builds a circuit, then tests it with the wires coiled, crossed and knotted. The bulb still lights, but it goes dark when both wires touch the same end of the cell.
+**Summary.** A small bulb lights with just a cell and two wires, but only if they are joined the right way. In this unit you will build your own circuit, test whether coiled, crossed or knotted wires still light it, and look inside a bulb to see which part glows.
 
 **Intro.** *Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?* Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why a cell, a bulb and a plug each need two metal parts.
 

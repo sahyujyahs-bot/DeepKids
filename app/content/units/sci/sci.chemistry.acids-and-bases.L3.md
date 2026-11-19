@@ -1,7 +1,7 @@
 # Acids and bases: how red cabbage water tells sour things from soapy things
 `sci.chemistry.acids-and-bases.L3`
 
-**Summary.** Lemon juice and vinegar taste sour because they contain acids. Soap, detergent and cooking soda are bases. Bases feel slippery, and strong ones burn skin. Tasting is not a safe way to tell them apart, but red cabbage water is. It turns pink in an acid, stays purple in plain water, and turns blue or green in a base. Its many in-between shades show that sour and soapy are two ends of one line.
+**Summary.** Lemon juice tastes sour and soap feels slippery. How can you tell which is which without tasting? In this unit you will make a colour-changing liquid from red cabbage, test kitchen liquids with it, and watch lemon juice fizz on cooking soda.
 
 **Intro.** *Blend two red cabbage leaves with water and strain it. The water is deep purple. Now squeeze in a few drops of lemon juice. It turns pink at once. Why does a sour lemon change the colour of cabbage water?* Red cabbage leaves hold a purple colour that changes when it meets something sour or something soapy. In this unit you make cabbage water and test liquids from your own kitchen. You line them up from pinkest to greenest. You find out what acids and bases are, which living beings make acids, and why strong acids and bases are never used in experiments.
 

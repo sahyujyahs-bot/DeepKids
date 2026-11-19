@@ -1,7 +1,7 @@
 # Seeds: what a seed needs to sprout
 `sci.seeds-and-life-cycles.seeds-and-germination.L3`
 
-**Summary.** Dry moong seeds can sit in a jar for a year without changing. On a wet cloth in a warm room, they grow white roots in a day or so. Inside every seed is a tiny living plant with a store of food. Seeds sprout when they get water, warmth and air, even in the dark and without soil. Your child finds the baby plant in a soaked bean, then tests five cups of moong to find out what wakes a seed.
+**Summary.** A dry moong seed can sit in a jar for a year, yet on a wet cloth it grows roots in a day or so. What wakes it? In this unit you will find the baby plant inside a seed and test five cups of moong to see what a seed needs.
 
 **Intro.** *Hold a few dry moong seeds in your hand. They do not move, eat or grow. Are they alive? How could you find out?* Look in your kitchen. There are jars full of seeds: moong, chana, rajma, methi, rai and jeera. They can sit in a jar for a whole year and never change. But put a few moong seeds on a wet cloth tonight. If the room is warm, by tomorrow evening most of them will have a little white root. What changed? What was the seed waiting for?
 

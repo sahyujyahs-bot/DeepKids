@@ -1,7 +1,7 @@
 # The outside of your body: what each part does and how to care for it
 `sci.body.body-parts.L3`
 
-**Summary.** Your two thumbs grew from the same genes, yet their fingerprints are different. Your skin, hair, nails, eyes, ears, nose, mouth, hands, feet and private parts are external organs: body parts you can see, each with its own job. Some of their guards, such as earwax and nose mucus, look like dirt but protect you. The top layer of your skin is dead cells, and new skin keeps growing underneath to replace it. Each part needs its own care, and washing hands with soap is one of the most important habits of all.
+**Summary.** Your two thumbprints grew from the same genes, so why are they different? In this unit you will compare your two thumbprints, press unwashed hands on bread to see what they leave behind, check whether your skin flakes off with sticky tape, and learn who your trusted adults are.
 
 **Intro.** *Rub your thumb on the side of your nose, to pick up a little oil. Press it onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.* Your skin left that thumbprint on the glass without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Your thumbprint is one small sign that every outside part of your body is doing something. Each part has its own job. Some parts have guards that most people think are dirt. And every part needs its own kind of care.
 

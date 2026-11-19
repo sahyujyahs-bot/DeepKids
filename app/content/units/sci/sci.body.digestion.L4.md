@@ -1,7 +1,7 @@
 # Digestion: the journey of food from mouth to stomach to intestines
 `sci.body.digestion.L4`
 
-**Summary.** Bend down until your head is lower than your stomach, and swallow a bite of banana. The bite still reaches your stomach. Food does not fall down inside you. Rings of muscle squeeze it along a food tube that is about 8 metres long in a grown-up. On the way, teeth, acid, bile and other juices break the food into very small pieces. Only pieces that small can pass through the gut wall into the blood. Your child counts chews to find what makes a bite ready to swallow. They also shake oil with soap to see what bile does to fat.
+**Summary.** Can you swallow food while standing on your head? Yes, because food does not fall down the tube, it is pushed. In this unit you will try a head-down swallow, test what makes a bite ready to swallow, and lay out your food tube in eight metres of wool.
 
 **Intro.** *An astronaut on the space station floats, and so does her dinner. Nothing falls there. So how does the food she swallows reach her stomach?* Many people say that food falls into the stomach. In space nothing falls, yet astronauts eat three meals a day. In this unit you test the idea on your own body. You swallow a bite of banana with your head lower than your stomach. You count your chews to find what makes a bite ready to swallow. You lay out a food tube of wool across the floor. You also shake oil with soap to see how your body deals with fat.
 

@@ -1,7 +1,7 @@
 # Exercise and rest: why muscles get tired, and what sleep does
 `sci.health.exercise-and-rest.L3`
 
-**Summary.** Squeeze a clothes peg again and again, and your fingers slow down and start to ache. Rest for two minutes, and much of their strength comes back. A working muscle uses up its quick store of fuel. Your blood brings oxygen so the muscle can refill that store, and carries waste away. Regular exercise makes muscles, the heart and bones stronger. Yoga, an old Indian practice of poses and slow breathing, keeps the body bendy and steady. Sleep is the longest rest of all. While you sleep, your body grows and repairs itself, and your brain stays busy, sorting what you learned and making dreams. A child of 8 needs about 9 to 12 hours of sleep every night.
+**Summary.** Squeeze a clothes peg again and again and your fingers ache, but after two minutes of rest the strength comes back. Why? In this unit you will test how a muscle tires and recovers, try three yoga poses, and keep a sleep diary.
 
 **Intro.** *Try this. Hold a full one-litre water bottle in one hand. Stretch your arm straight out to the side, at shoulder height. At first it feels light. Keep holding. After a minute your arm shakes and burns. The bottle did not get any heavier. So what changed?* What changed was inside your arm. The muscles holding the bottle were working hard without a break. In this unit you find out what a muscle uses up when it works, and what rest gives back. You also find out what exercise does to your body over weeks, and what your body and brain do while you sleep.
 

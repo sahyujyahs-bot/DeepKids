@@ -1,7 +1,7 @@
 # Wondering and looking closely: finding out what is inside a closed dabba
 `sci.how-we-know.asking-questions.L1`
 
-**Summary.** You can find out what is inside a closed dabba without opening it. Shake it, lift it and tilt it, and the dabba gives you clues. Scientists begin the same way: they notice something, they wonder about it, and they observe closely with all their senses. Your child asks real questions, looks closely at one elaichi pod, and finds out what is hidden in three closed dabbas. They also hear how Inge Lehmann found a ball in the middle of the Earth that nobody has ever seen.
+**Summary.** Can you find out what is inside a closed dabba without opening it? In this unit you will shake, lift and tilt three mystery dabbas for clues, look closely at one elaichi pod, and play a yes-or-no guessing game.
 
 **Intro.** *A steel dabba is shut tight. You shake it, and it goes shhh, like rain. What do you think is inside? How could you know without opening it?* When a shaken dabba goes shhh, your ears have found a clue. A clue is something you notice that helps you work out something hidden. Scientists are people who find out about the world. They start by noticing and wondering, just like you. Then they look, listen, smell and touch very carefully. In this unit you become a finder-out. You ask your own questions, and you work out what is inside closed dabbas.
 
@@ -185,8 +185,8 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   *Child mode:* These are question words. Say them with me.
 - **s2 (8 min)**  
   *Parent does:* 1. Take turns to roll and turn a card. 2. Help your child make a question with the two. 3. Write each question on the paper. Star any that nobody can answer.  
-  *Parent says:* You rolled HOW, and the card says A seed. Can you make a question? How does a seed know which way is up?  
-  *Child mode:* Roll the dice. Turn a card. Make a question with both.
+  *Parent says:* You rolled HOW, and the card says A seed. Now make a question with both. For example: How does a seed know which way is up?  
+  *Child mode:* Roll the dice and turn a card. Then ask a question.
   - Ask: Which question did you like most? Why? (good: 'Where does rain come from?', because I don't know.; 'Who lives in a coconut?', because it is funny and maybe something does.)
   - Note: Clap for odd questions too. 'When does the Moon sleep?' is a real question. It leads to finding out where the Moon goes in the day.
 - **s3 (2 min)**  
@@ -200,7 +200,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 - **question:** Can you find out what is inside a closed dabba without looking? Which of your senses gives you the best clues?
 - **predict:** Guess first. Will you be able to tell what is inside without looking? Which sense will help most: your ears, your hands or your nose? Why do you think so?
 - **fair test:** All three dabbas are the same kind and size, so only what is inside is different. You shake each one the same way, three gentle shakes. You say your guess and your reason for every dabba before any lid comes off.
-- **record:** Draw the three dabbas in a row. Under each, draw what you guessed and what was really inside. Put a tick when they match. Next to each, draw an ear, a hand or a nose for the clue that helped most.
+- **record:** Fill in the results table with your grown-up. Write what you heard, what you guessed and what was really inside. Put a tick when they match. For each dabba, say whether your ears, hands or nose helped most. Take a photo of the three open dabbas.
 - **results table:** Dabba | What I heard | Heavy or light | Rolls, slides or stays still | My guess | What was really inside
 - **s1 (3 min)**  
   *Parent does:* 1. Go to the kitchen, out of your child's sight. 2. Put 2 big spoons of rice in one dabba. 3. Put a lemon in another, and a cotton ball in the third. 4. Shut the lids tight. 5. Stick on the slips marked 1, 2 and 3. 6. Remember which is which.  
@@ -210,7 +210,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 - **s2 (1 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* Do you think you can find out what is inside without looking? Which part of your body will help most? Why do you think so?  
-  *Child mode:* Guess. Can you find out without looking? What will help most?
+  *Child mode:* Make your guess before you start.
   - Ask: Why do you think so? (good: My ears, because things make sounds when you shake them.; My hands, because I can feel if it is heavy.; Maybe not, because I can't see inside.)
   - Note: Any guess is fine. Do not say what is inside, and do not say which sense works best.
 - **s3 (3 min)**  
@@ -235,7 +235,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   *Parent does:* For each dabba, your child says a guess and the clue that led to it. Write both down.  
   *Parent says:* What do you think is in dabba 1? What clue told you that? And dabba 2? And dabba 3?  
   *Child mode:* Say your guess for each dabba. Say which clue told you.
-  - Ask: Why do you think dabba 3 has that inside? (good: Because it made no sound and it was very light, so it is something soft.; Maybe it is empty, because I heard nothing.)
+  - Ask: What clue told you what is in dabba 3? (good: Because it made no sound and it was very light, so it is something soft.; Maybe it is empty, because I heard nothing.)
 - **s7 (2 min)**  
   *Parent does:* 1. Open dabba 1, then 2, then 3. 2. For each, compare the guess with what is really inside. 3. Ask the check question.  
   *Parent says:* Let's check. Open dabba 1. Were you right? Which clue helped? Now dabba 2 and dabba 3. If a guess was wrong, which clue fooled you?  
@@ -255,35 +255,35 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 - **s1 (2 min)**  
   *Parent does:* Put one elaichi pod on the plate. Ask your child to say one thing about it, after a quick look. Write it down.  
   *Parent says:* Take one quick look at this. Tell me one thing about it.  
-  *Child mode:* Look quickly. Say one thing about it.
+  *Child mode:* Look for just a moment.
 - **s2 (4 min)**  
   *Parent does:* 1. Now your child picks up the pod and looks slowly, turning it round. 2. They feel it, shake it next to one ear, and smell it. 3. Make a mark for each new thing they notice.  
   *Parent says:* Now be a scientist. Look slowly. Turn it round. Feel it. Shake it next to your ear. Smell it. Tell me everything you notice.  
-  *Child mode:* Look slowly. Feel it. Shake it. Smell it. Say what you notice.
+  *Child mode:* Use each sense, one at a time.
   - Ask: What do you notice now? (good: It is green with lines on it.; It has a pointy end.; It rattles a tiny bit, so something is inside.; It smells sweet, like payasam.)
   - Note: A pod can rattle faintly when shaken, because the seeds inside are loose. If your child does not hear it, let them shake it near the ear again.
 - **s3 (2 min) · grown-up needed**  
   *Parent does:* Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod.  
   *Parent says:* I'll open this one. Look inside. What do you see? Now smell it. Is the smell stronger or weaker than before?  
-  *Child mode:* Look inside. What do you see? Smell it now.
+  *Child mode:* Look at the seeds. Smell the open pod.
   - Ask: What changed when it was opened? (good: There are tiny black seeds inside.; The smell is much stronger now.)
 - **s4 (2 min)**  
   *Parent does:* Count the marks together. Ask what your child wonders about the elaichi.  
   *Parent says:* After one quick look, you noticed one thing. After a slow look, you noticed this many. What do you wonder about the elaichi now?  
-  *Child mode:* Count your marks. What do you wonder about it now?
+  *Child mode:* Count your marks.
   - Ask: What do you wonder? (good: Why are the seeds black when the outside is green?; Could I grow an elaichi plant from the seeds?; Why does it smell stronger when it is open?)
   - Check: When did you notice more about the elaichi? → **After looking slowly and using more senses**
 ### a2 · Sticky Questions: a wonder walk around the flat (10 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Walk slowly through the home with your child. 2. Stop at anything they ask about, or ask 'What do you wonder about this?' 3. Write their question on a slip, word for word, and tape the slip on the thing.  
   *Parent says:* Let's walk round slowly and find things you wonder about. Look at the fan. What do you wonder about it? I'll write it down.  
-  *Child mode:* Walk round slowly. Find things you wonder about. Say your question.
+  *Child mode:* Stop at something you wonder about.
   - Ask: What do you wonder about this? (good: Why does the fridge make a humming sound?; How does the water get up to our tap?; Why are the plant's leaves turning to the window?)
   - Note: Write the child's exact words. A question like 'Why is the fridge cold inside but warm at the back?' is a real science question, even if you don't know the answer.
 - **s2 (4 min)**  
-  *Parent does:* Read all the questions back. Sort them together into two piles: ones someone at home can answer, and ones nobody at home can answer.  
+  *Parent does:* Take the slips off the things and read them back. Sort them together into two piles: ones someone at home can answer, and ones nobody at home can answer.  
   *Parent says:* Here are all your questions. Which ones can someone at home answer? Which ones does nobody here know?  
-  *Child mode:* Listen to your questions. Which ones does nobody know?
+  *Child mode:* Help sort the slips into two piles.
   - Ask: How could we find out the answer to one we don't know? (good: Look closely at it.; Ask a grandparent, an older relative or a teacher.; Try something and see what happens.; Look in a book.)
   - Note: Keep the 'nobody knows' slips for the Wonder Jar project.
   - Think: Is a question nobody can answer a bad question, or a good one? A good answer is that it is a good one, because every discovery began with a question that nobody could answer yet.
@@ -293,26 +293,26 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   *Parent says:* Pick a question about the world to ask a grown-up. For example, how do you know when rice is cooked?  
   *Child mode:* Pick a question. Ask a grown-up.
 - **s2 (5 min)**  
-  *Parent does:* Your child asks the question, then asks, 'How do you know?' The grown-up answers honestly.  
+  *Parent does:* Your child asks the question, then asks, 'How do you know?' The grown-up answers honestly. Write down what they say.  
   *Parent says:* Now ask the second question: How do you know?  
   *Child mode:* Now ask: How do you know?
   - Ask: How did they find out? (good: They saw it themselves.; Somebody told them.; They tried it lots of times.; They read it in a book.)
   - Note: Grown-ups often say 'Someone told me.' That is a good answer to talk about. Ask, 'How did that person find out?'
 - **s3 (3 min)**  
-  *Parent does:* Your child draws how the grown-up found out: by looking, by being told, or by trying it.  
-  *Parent says:* Draw how the grown-up found out. Did they see it, hear it from someone, or try it?  
-  *Child mode:* Draw how they found out. Did they look, hear or try?
+  *Parent does:* Your child acts out how the grown-up found out: looking closely, cupping a hand to the ear for being told, or using the hands for trying it.  
+  *Parent says:* Show me how the grown-up found out. Did they look at it, hear it from someone, or try it?  
+  *Child mode:* Act it out: look, listen or try.
   - Check: A grown-up knows rice is cooked when it is soft. How did they find out? → **They pressed grains of rice, many times, and saw which were soft**
 
 ## Projects
 ### p1 · The Wonder Jar: one question a day (25 min, 5 days)
 - **problem:** There are three ways to find out an answer. You can look closely, you can ask someone who knows, or you can try something and see what happens. In this project you keep a jar of your own questions. Each day you take one out and find the answer in a different way.
-- **record:** A drawing for each question you found out about, with an eye, an ear or a hand to show how you found out.
-- **schedule:** day 1: Fill the jar with questions from the Sticky Questions walk and new ones. Take one out and find out together. (5 min); day 2: Add any new question. Take one out. Find out by looking closely. (5 min); day 3: Take one out. Find out by asking someone. (5 min); day 4: Take one out. Find out by trying something. (5 min); day 5: Take one out. Then draw your favourite answer from the week, and how you found it. (5 min)
+- **record:** A page for each question you found out about. Write the question and the answer. Draw an eye, an ear or a hand to show how you found out, or write look, ask or try.
+- **schedule:** day 1: Fill the jar with questions from the Sticky Questions walk and new ones. Take one out and find out together. (5 min); day 2: Add any new question. Take one out. Find out by looking closely. (5 min); day 3: Take one out. Find out by asking someone. (5 min); day 4: Take one out. Find out by trying something. (5 min); day 5: Take one out. Then tell your favourite answer from the week, and how you found it. (5 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Put the question slips in the jar. 2. Add new ones your child says today. 3. Take one out and read it aloud. 4. Decide together how to find out.  
   *Parent says:* This is your Wonder Jar. Every question you have goes in here. Let's take one out. How could we find out?  
-  *Child mode:* Put your questions in the jar. Take one out. How could you find out?
+  *Child mode:* Put your questions in the jar and pick one.
 - **s2 (5 min)**  
   *Parent does:* Help your child find the answer by looking closely, if the question allows it.  
   *Parent says:* Today let's find out by looking. What could we watch, or look at very closely?  
@@ -327,9 +327,9 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   *Parent says:* Can we try something to find out? What will we do, and what do you think will happen?  
   *Child mode:* Today, try something to find out.
 - **s5 (5 min)**  
-  *Parent does:* Your child picks one question they found an answer to, and draws the answer. They also draw an eye, an ear or a hand to show how they found it. Ask which way worked best for that question.  
-  *Parent says:* Pick one question that you found the answer to this week. Draw the answer. Then draw an eye if you looked, an ear if you asked someone, or a hand if you tried something.  
-  *Child mode:* Pick one answer you found. Draw it. Draw an eye, an ear or a hand to show how you found it.
+  *Parent does:* Your child picks one question they found an answer to and tells the answer. Then they say how they found it. Ask which way worked best for that question.  
+  *Parent says:* Pick one question that you found the answer to this week. Tell me the answer, as if I were in your class. Then tell me how you found it. Did you look, ask someone, or try something?  
+  *Child mode:* Pick one answer you found. Tell it, and say how you found it.
   - Note: Looking works for things you can see. Asking works for things that a person knows. Trying works when you can test an idea. Some questions will not be answered. Keep them in the jar. Say, 'Nobody here knows yet. That makes it a very good question.'
 
 ## Challenges

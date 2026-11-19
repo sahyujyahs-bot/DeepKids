@@ -1,7 +1,7 @@
 # Falling: why a falling thing speeds up, and why it stops speeding up
 `sci.gravity.falling.L4`
 
-**Summary.** A raindrop falls from a cloud two kilometres up and only taps your head. A stone dropped from a first-floor balcony would sting your toe. Your child finds out why, by dropping paper cupcake liners, a ball of dough while walking, and a marble into soft dough from three heights. They learn that a falling thing gains the same speed every second, until the push of the air matches the pull of the Earth. They see that sideways speed and falling do not disturb each other, why a mouse can fall safely and a horse cannot, and how Galileo's first idea about falling turned out to be wrong.
+**Summary.** A falling thing gains about 10 metres a second of speed every second, yet it stops speeding up in air. Why? In this unit you will drop stacks of paper liners, drop a ball while walking, make dents in dough, and build cube animals to see why a mouse survives a fall.
 
 **Intro.** *A raindrop falls from a cloud about 2 kilometres up. A pebble dropped from a first-floor balcony, only 3 metres up, would sting your toe. How can a raindrop that falls so much farther be so gentle?* If nothing slowed it, the raindrop would hit the ground at about 700 kilometres an hour. That is almost as fast as an aeroplane. But something does slow it. In this unit you find out what, by dropping paper cupcake liners and a ball of dough. You will also find out why a ball that you drop while walking does not land at your feet.
 

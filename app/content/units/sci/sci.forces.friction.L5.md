@@ -1,7 +1,7 @@
 # Friction: which way it pushes, when we want it, and why it makes heat
 `sci.forces.friction.L5`
 
-**Summary.** A train engine as strong as four thousand horses can stand still on a wet hill, with its wheels spinning. The engine only turns the wheels. The force that moves the train forward is friction from the rail. Friction is a contact force between two surfaces, and it acts against sliding. So friction can slow a rolling marble or push a walker forward. It can also carry a steel bowl along on a moving cloth. Whenever surfaces do slide, friction turns movement into heat. Your child measures stopping distances and tests what makes a rubbed coin warmer. They also sort the friction we want from the friction we fight.
+**Summary.** A train engine as strong as four thousand horses can stand still on a wet hill with its wheels spinning. What moves a train forward? In this unit you will feel which way friction pushes, measure how far a marble rolls before it stops, and find what makes a rubbed coin warm.
 
 **Intro.** *Stand up and take one slow step forward. As you step, which way does your back foot push on the floor: forward or backward? Say what you think, and why.* It is hard to tell just by stepping. In the first activity, Finger Walk, you test it with two fingers and a loose sheet of paper. Many books say that friction is the force that slows things down. That is only half of what friction does. In this unit you find out which way friction pushes, and how to work it out for anything. You also find out where the movement goes when friction stops a rolling marble, and why brakes get hot.
 

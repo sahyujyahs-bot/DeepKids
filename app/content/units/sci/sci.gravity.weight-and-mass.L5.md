@@ -1,7 +1,7 @@
 # Weight, mass and the normal force: what pulls a thing down and what holds it up
 `sci.gravity.weight-and-mass.L5`
 
-**Summary.** On Jupiter you would weigh about two and a half times as much as on Earth. But you could not stand anywhere to feel it, because Jupiter has no solid ground. Weight is the pull of a world's gravity on a thing, in newtons. Mass is the amount of matter in the thing, in kilograms, and it stays the same on every world. A surface holds a thing up with a normal force, and that force is not always as big as the weight. Your child squashes dough in a pile of books to find where the push is biggest. They also work out weights on other worlds, and draw gravity, normal force and applied force as arrows.
+**Summary.** On Jupiter you would weigh about two and a half times as much as on Earth, but you could not stand there to feel it. Why not? In this unit you will feel the push that holds a book up, squash dough in a pile of books, and see whether a scale always shows weight.
 
 **Intro.** *Put eight books in a pile on a table. Which book is pushed up the hardest by what lies under it: the top book, a middle book or the bottom book? Say what you think, and why.* It is hard to tell by looking, because nothing in the pile moves. In the Dough Stack experiment, you put soft dough at three levels of the pile. Then you see which dough is squashed the most. First, in Be the Table, your own hand holds up a book and feels what a table has to do. In this unit you find out what pulls a thing down, what holds it up, and how hard each one acts. You also find out why your weight would change on another world while your mass would not.
 

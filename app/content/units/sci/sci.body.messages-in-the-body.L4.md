@@ -1,7 +1,7 @@
 # Nerves and hormones: the body's fast messages and slow messages
 `sci.body.messages-in-the-body.L4`
 
-**Summary.** Touch a hot pot, and your hand pulls back before you feel any pain. Drink two tumblers of water, and your kidneys answer about half an hour later. Your body sends messages in two ways. Nerves carry fast messages along thin fibres to one exact place. Hormones are chemicals that travel in the blood and reach every part more slowly. Your child drinks two tumblers of water and times how long it takes before the kidneys answer. This shows how slow a hormone message is. They also test what makes the mouth water, which is a reflex.
+**Summary.** Your body does some things before you decide, and sends some messages through the blood. How fast are they? In this unit you will test what your body does before you choose, time a hormone message with water, and see what makes your mouth water with a lemon.
 
 **Intro.** *You step on a sharp plastic brick in the dark. Your foot lifts before you can say 'ow'. You did not choose to lift it. So who told your leg to move?* A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this unit you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.
 

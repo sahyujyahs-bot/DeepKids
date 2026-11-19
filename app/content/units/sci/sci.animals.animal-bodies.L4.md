@@ -1,7 +1,7 @@
 # Why a camel has a hump, a woodpecker a hard head and an octopus no bones
 `sci.animals.animal-bodies.L4`
 
-**Summary.** A camel can cross the Thar for days with almost nothing to drink, yet the hump on her back holds no water at all. It holds fat. Your child melts ice under cloth to find out why a camel's fat sits in one lump and not all over her body. Then your child tests why a camel's wide foot does not sink, and meets a woodpecker whose head takes thousands of hard knocks a day, and an octopus with three hearts and no bones. Every odd body part turns out to be an answer to a problem, and every answer also costs the animal something.
+**Summary.** Why does a camel carry its fat in one hump, and an octopus have no bones? In this unit you will test with ice where fat works best, test why a wide foot does not sink in sand, squeeze a soft body through small holes, and play a card game.
 
 **Intro.** *A camel can walk for days across the Thar desert without a drink. On her back she carries a big hump. Most people say the hump is full of water. Is that true?* Before you read on, guess what is inside the hump. Is it water, fat, muscle or air? Say your guess and the reason for it. Now think of two more animals with a part that looks odd. A woodpecker has a pointed beak and bangs it on wood all day. An octopus has soft arms and no bones. Each odd part is a clue to a problem that animal has to solve to stay alive. In this unit you find the problems, test two of them with ice and dough, and discover that every answer has a price.
 

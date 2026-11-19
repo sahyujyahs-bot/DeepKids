@@ -1,7 +1,7 @@
 # Photosynthesis and breathing: how plants and other living beings share one breath
 `sci.plants.photosynthesis.L4`
 
-**Summary.** Every dawn, fish in a still green pond swim up and gulp at the surface. The pond is full of plants that make oxygen, so why do the fish run short of it? Your child finds out with jars of cabbage-coloured water, a money plant and a window. A plant in light uses up the carbon dioxide you breathe out. The same plant in the dark adds carbon dioxide back, because every living cell breathes all day and all night. Then the idea goes out to ponds, to sugarcane and pineapples, to coal and oil, and to the carbon dioxide in the whole Earth's air, which falls and rises once a year.
+**Summary.** Every dawn, fish in a green pond gulp at the surface, though the pond is full of plants that make oxygen. Why do they run short? In this unit you will use colour-changing water to see what a plant does to the air in light and dark, and graph a pond's oxygen.
 
 **Intro.** *A pond is full of green plants, and plants make oxygen. Yet at dawn the fish in the pond come up to the surface and gulp, as if they cannot breathe. Where did the oxygen go?* You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this unit you blow your breath into cabbage water, which changes colour as carbon dioxide goes in. Then you watch a leaf use that carbon dioxide up in the light and add it back in the dark. After that, you work out why a pond runs short of oxygen just before sunrise.
 

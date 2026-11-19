@@ -3,7 +3,7 @@
  "title": "Where food comes from: food from plants and food from animals",
  "level": 1,
  "summary": {
-  "text": "A mango tree never eats, yet the tree grows big and makes mangoes. Plants make their own food from sunlight, air and water. Animals, including us, cannot do that, so we eat plants and other animals. Some of our food comes from plants, like rice, coconut and palak. Some comes from animals, like milk, eggs and honey. In this unit you make pretend flower nectar from sugar water and find out how bees turn nectar into thick honey.",
+  "text": "A mango tree never eats, yet it grows big and makes mangoes. How? In this unit you will sort your lunch into food from plants and food from animals, and turn thin sugar water thick to see how bees make honey from nectar.",
   "art": "A mango tree in sunshine on one side, and a child eating idli with a cup of milk and a spoon of honey on the other, with small drawings of a cow, a hen and a bee."
  },
  "intro": {
@@ -262,7 +262,7 @@
    "title": "Leaf Plate, Cow Plate: a food sorting game",
    "mins": 15,
    "players": "1 to 4 players and a reader",
-   "context": "This is a card game about where food comes from. Each card names a food. Players put the card on the leaf plate for food from plants, or the cow plate for food from animals. A few tricky cards are both, or neither.",
+   "context": "This is a card game about where food comes from. You will find out which foods come from plants, which from animals, and which are both or neither. Each card names a food. Players put the card on the leaf plate for food from plants, or the cow plate for food from animals. A few tricky cards are both, or neither.",
    "printables": [
     {
      "kind": "cards",
@@ -410,7 +410,7 @@
     }
    ],
    "rules": [
-    "Before you play, your child draws the food on each card under the word, so a child who cannot read can play. The reader reads out each word.",
+    "Before you play, the reader reads out the word on each card, so a child who cannot read can play.",
     "Put the four plate labels on the floor. Put the leaf plate and the cow plate in front, and Both and Neither at the side.",
     "Mix the cards and put them in a pile, words up.",
     "On your turn, take the top card and say the food. Put the card on the plate where you think it belongs.",
@@ -421,33 +421,33 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Read each card to your child. 2. Your child draws the food on each card. 3. Lay out the four plate labels.",
-     "say": "Each card is a food. Draw the food on the card. Then we sort them.",
-     "kid": "Draw a little picture of each food."
+     "do": "1. Read each card to your child. 2. Your child says the food, and whether they have eaten it. 3. Lay out the four plate labels.",
+     "say": "Each card is a food. Tell me if you have eaten it. Then we sort them.",
+     "kid": "Listen to each card. Say if you have eaten the food."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "1. Take turns with the cards. 2. Read the back of each card aloud. 3. Stop at the tricky cards and talk about them.",
-     "say": "Where does honey go? Who made the nectar, and who made the honey?",
-     "kid": "Take a card. Leaf plate or cow plate? Say why.",
+     "say": "Take the top card. Say the food, and where you think it goes.",
+     "kid": "Put your card on a plate. Say why you chose that plate.",
      "ask": [
       {
-       "q": "Why does curd go on the cow plate, when curd does not look like a cow?",
+       "q": "Why does curd go on the cow plate?",
        "good": [
         "Curd is made from milk.",
         "A cow made the milk."
        ]
       }
      ],
-     "parent": "The tricky cards are the point. Let your child argue for a plate before you read the back."
+     "parent": "The tricky cards are the point. Let your child argue for a plate before you read the back. On the honey card, ask who made the nectar and who made the honey."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Count the cards on each plate together. Count each player's marks. Then ask the check question.",
-     "say": "Which plate has the most cards? Why do you think so?",
-     "kid": "Count the cards on each plate. Which has the most? Count your marks.",
+     "say": "Let's count the cards on each plate. Which plate has the most? Why do you think so?",
+     "kid": "Count the cards on each plate, and count your marks.",
      "check": {
       "t": "mcq",
       "q": "Which plate does a banana go on?",
@@ -464,7 +464,7 @@
    "setup": [
     {
      "art": "Twenty-four small cards on a floor mat, each with a food word and a child's drawing: a banana, an egg, a coconut, a cup of milk.",
-     "caption": "1. Draw a food on each card."
+     "caption": "1. Read out each food card."
     },
     {
      "art": "Two steel plates on the floor, one with a leaf drawn on paper beside it and one with a cow, with cards being placed on each, and two small paper squares marked Both and Neither.",
@@ -477,7 +477,7 @@
    "title": "Who Made My Food? a memory game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game. Half the cards show a food, and half show the plant or animal who made that food. Players turn over two cards at a time to find a food and its maker.",
+   "context": "This is a memory game. You will find out who, or what, made each food. Half the cards show a food, and half show the plant or animal who made that food. Players turn over two cards at a time to find a food and its maker.",
    "printables": [
     {
      "kind": "cards",
@@ -567,7 +567,7 @@
     }
    ],
    "rules": [
-    "Before you play, draw on each card: the food, or the plant or animal.",
+    "Before you play, read out each card, so a child who cannot read can play.",
     "Mix the cards and lay them face down in rows of five.",
     "On your turn, turn over two cards. If one is a food and the other is the plant or animal who made that food, keep both. Then take another turn.",
     "If they do not match, turn them face down again. The next player has a turn.",
@@ -577,9 +577,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Read each card to your child. 2. Draw the pictures together. 3. Lay the cards face down in four rows of five.",
-     "say": "Each food has a maker. Let's draw them all, then hide them.",
-     "kid": "Draw each card. Then turn them face down."
+     "do": "1. Read each card to your child. 2. Lay the cards face down in four rows of five.",
+     "say": "Each food has a maker. Let's read all the cards, then turn them face down.",
+     "kid": "Listen to each card. Then help turn them face down."
     },
     {
      "id": "s2",
@@ -634,7 +634,7 @@
    "title": "Nectar to Honey: what turns thin sugar water thick?",
    "mins": 24,
    "days": 2,
-   "context": "In this experiment you make pretend flower nectar from sugar water. You put a drop under a fan and cover another drop with a katori. The next morning you tilt both plates and see which drop runs.",
+   "context": "You will find out how bees turn thin nectar into thick honey. In this experiment you make pretend flower nectar from sugar water. You put a drop under a fan and cover another drop with a katori. The next morning you tilt both plates and see which drop runs.",
    "question": "Bees make honey from thin, watery nectar. Here we make pretend nectar from sugar and water. We leave one drop open to the moving air, and we cover one drop with a katori. Which one will turn thick, like honey?",
    "predict": "Guess first. Tomorrow, will the drop under the fan be runny like water, or thick like honey? What about the covered drop? Why do you think so?",
    "fair_test": "Both drops are the same sugar water, the same size, on the same kind of plate, in the same room. Only one thing is different: one drop is open to the moving air, and one is covered by a katori.",
@@ -694,14 +694,14 @@
      "what": "Touch both drops. Tilt both plates. Say what you saw and why."
     }
    ],
-   "record": "Draw the two plates after you tilted them. Show which drop ran and which one stayed.",
+   "record": "Draw the two plates after you tilted them, and show which drop ran and which one stayed. Or take a photo, or tell your grown-up what you saw.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Put 4 spoons of water in a cup. 2. Your child adds 1 spoon of sugar. 3. Stir until the water is clear again. 4. Your child tastes a drop on a clean finger.",
-     "say": "This is pretend nectar. Flower nectar is thin and sweet like this. Taste it. Is it runny like water, or thick like honey?",
-     "kid": "Stir the sugar into the water. Taste one drop. Is it thin or thick?",
+     "say": "This is pretend nectar. Flower nectar is thin and sweet like this. Taste a drop.",
+     "kid": "Stir the sugar into the water. Taste one drop. Feel how runny it is.",
      "ask": [
       {
        "q": "How is this sugar water like honey? How is it different?",
@@ -717,8 +717,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Ask your child to guess, and to say why. Write the guess down, or draw it.",
-     "say": "One drop will stay under the fan all night. One drop will hide under a katori. Which one will turn thick? Why do you think so?",
-     "kid": "Guess. Which drop will turn thick? Why?",
+     "say": "One drop will stay open under the fan all night. One drop will hide under a katori. Which one will turn thick?",
+     "kid": "Pick the drop you think will turn thick.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -743,16 +743,16 @@
      "id": "s4",
      "mins": 3,
      "do": "In the evening, look at both drops together. Do not touch them yet.",
-     "say": "Look at the two drops. Has either one changed? Is one smaller?",
-     "kid": "Look at both drops. Has one changed?",
+     "say": "Look at the two drops. Is either one smaller? Does either look different?",
+     "kid": "Look closely, but do not touch yet.",
      "wait": "Leave both plates under the fan overnight."
     },
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. Lift the katori. 2. Your child touches each drop with a clean fingertip. 3. Tilt each plate slowly, and watch each drop. 4. Put a drop of honey on a plate and tilt that too.",
-     "say": "Touch each drop. Now tilt the plates slowly. Which drop runs? Which one stays?",
-     "kid": "Touch each drop. Tilt each plate. Which drop runs?",
+     "do": "1. Lift the katori. 2. Your child touches each drop with a clean fingertip. 3. Tilt each plate slowly, and watch each drop. 4. If you have honey, put a drop on a plate and tilt that too.",
+     "say": "Touch each drop gently. Now tilt each plate slowly, and watch.",
+     "kid": "Tilt each plate slowly. Watch which drop runs.",
      "ask": [
       {
        "q": "What happened to the drop under the fan? What happened to the covered drop?",
@@ -768,7 +768,7 @@
      "id": "s6",
      "mins": 5,
      "do": "1. Ask your child what they saw, and why they think it happened. 2. Then tell them how bees make honey.",
-     "say": "The moving air took water out of the open drop. The water evaporated. Bees fan their wings over nectar in the same way, until the nectar turns thick. That is honey.",
+     "say": "The moving air took water out of the open drop. The water evaporated, which means it went into the air as tiny bits too small to see. Bees fan their wings over nectar in the same way, until the nectar turns thick. That is honey.",
      "kid": "The fan dried the open drop. Bees fan nectar with their wings. Then nectar turns into honey.",
      "ask": [
       {
@@ -835,10 +835,10 @@
    "title": "Leaf Plate, Cow Plate: sort your lunch",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you sort the foods from your kitchen or your lunch. Food from plants goes on one plate, and food from animals goes on the other.",
+   "context": "You will find out how much of your food comes from plants and how much from animals. In this activity you sort the foods from your kitchen or your lunch. Food from plants goes on one plate, and food from animals goes on the other.",
    "materials": [
     {
-     "item": "two steel plates, with a leaf drawn on paper beside one and a cow beside the other",
+     "item": "two steel plates, with a paper label beside each: Leaf plate and Cow plate",
      "qty": 2
     },
     {
@@ -857,17 +857,17 @@
      "what": "Set out small bits of kitchen foods. Sort them onto the leaf plate and the cow plate. Talk about the tricky ones."
     }
    ],
-   "record": "Draw your two plates and the foods on each.",
+   "record": "Take a photo of your two plates and the foods on them, or draw them.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Draw a leaf and a cow on two pieces of paper. 2. Put one beside each plate. 3. Set out the foods.",
+     "do": "1. Write Leaf plate and Cow plate on two pieces of paper. Your child may add a small drawing. 2. Put one beside each plate. 3. Set out the foods.",
      "say": "This is the leaf plate, for food from plants. This is the cow plate, for food from animals.",
-     "kid": "This is the leaf plate. This is the cow plate.",
+     "kid": "Look at the two plates and the foods.",
      "ask": [
       {
-       "q": "Which of these foods do you think came from a plant? Which came from an animal?",
+       "q": "Point to one food from a plant and one food from an animal. How do you know?",
        "good": [
         "Rice and banana came from plants.",
         "Milk and eggs came from animals."
@@ -880,7 +880,7 @@
      "mins": 5,
      "do": "Your child picks up each food, says what it is, and puts it on a plate. Ask why each time.",
      "say": "Where does this go? Who made this food, a plant or an animal?",
-     "kid": "Pick a food. Put it on the leaf plate or the cow plate. Say why.",
+     "kid": "Pick a food. Put it on a plate. Say why you chose that plate.",
      "ask": [
       {
        "q": "Where does ghee go? Why?",
@@ -902,11 +902,11 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the foods on each plate together.",
-     "say": "Which plate has more food on it? Why do you think so?",
-     "kid": "Count the foods on each plate. Which has more?",
+     "say": "Count the foods on each plate with me. Which plate has more?",
+     "kid": "Count the foods on each plate.",
      "ask": [
       {
-       "q": "Why do you think the leaf plate has more?",
+       "q": "Why do you think that plate has more?",
        "good": [
         "We eat lots of plants.",
         "Rice and dal and vegetables are all plants."
@@ -932,7 +932,7 @@
    "title": "The Feely Bag: guess the food by touch",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you put your hand in a cloth bag and feel a food you cannot see. You guess the food, then say if it came from a plant or an animal.",
+   "context": "You will find out how much you can tell about a food with only your hands. In this activity you put your hand in a cloth bag and feel a food you cannot see. You guess the food, then say if it came from a plant or an animal.",
    "materials": [
     {
      "item": "a cloth bag, or a pillow cover",
@@ -950,24 +950,24 @@
      "what": "Put whole foods in a bag. Feel each one, guess it, and say if it came from a plant or an animal."
     }
    ],
-   "record": "Draw the foods from the bag. Put a green dot by each food from a plant, and a red dot by each food from an animal.",
+   "record": "Line up the foods in two groups on the mat, plant foods and animal foods. Take a photo, or draw them with a green dot by each plant food and a red dot by each animal food.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "Without your child seeing, put the foods in the bag.",
      "say": "There are some foods in this bag. You can only use your hands. No peeping!",
-     "kid": "Put your hand in the bag. No peeping!"
+     "kid": "Put your hand in the bag and feel one food. Keep your eyes shut."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "1. Your child feels one food and describes the food out loud. 2. They guess what it is. 3. They take it out to check. 4. They say if it came from a plant or an animal.",
      "say": "Is it smooth or rough? Hard or soft? What do you think it is? Did a plant or an animal make this food?",
-     "kid": "Feel one food. Is it smooth or rough? Guess. Then take it out.",
+     "kid": "Feel one food. Guess what it is. Then take it out to check.",
      "ask": [
       {
-       "q": "How did you know it was a peanut?",
+       "q": "What did you feel that told you what the food was?",
        "good": [
         "It was bumpy and light.",
         "It rattled when I shook it."
@@ -978,9 +978,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at all the foods together.",
+     "do": "Lay all the foods on the mat in two groups, plant foods and animal foods.",
      "say": "How many came from plants? How many came from animals?",
-     "kid": "Count the plant foods. Count the animal foods.",
+     "kid": "Count each group.",
      "ask": [
       {
        "q": "Which part of a plant is the potato, and which part is the peanut?",
@@ -1009,7 +1009,7 @@
    "title": "The Ants' Menu: what do ants carry home?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you put tiny bits of different foods near where ants walk. Then you watch which foods the ants find and carry away. Ants eat food from plants and from animals, like many people do.",
+   "context": "You will find out what ants eat. In this activity you put tiny bits of different foods near where ants walk. Then you watch which foods the ants find and carry away. Ants eat food from plants and from animals, like many people do.",
    "materials": [
     {
      "item": "a piece of paper or a small steel lid",
@@ -1027,14 +1027,14 @@
      "what": "Put four tiny food bits near an ant trail. Watch for 5 minutes, then check again after half an hour."
     }
    ],
-   "record": "Draw the four foods and draw ants next to the ones they visited.",
+   "record": "Write down each food and how many ants you counted at it. You can also take a photo of the paper.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put a sheet of paper there. 3. Put the four food bits in a row on the paper, a finger apart.",
-     "say": "Which food do you think the ants will like best? Why?",
-     "kid": "Put four foods near the ants. Which one will ants like?",
+     "say": "We will put four foods near the ants. Which food will the ants like best?",
+     "kid": "Put the four foods on the paper, a finger apart.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1058,7 +1058,7 @@
      "mins": 5,
      "do": "Look again after half an hour. Then clean up.",
      "say": "Which foods did the ants find? Did they carry any away?",
-     "kid": "Look again. Which foods did the ants take?",
+     "kid": "Look at each food again. Which ones are gone?",
      "ask": [
       {
        "q": "Do ants eat food from plants, from animals, or both?",
@@ -1088,7 +1088,7 @@
    "title": "My Food Week: a leaf and cow diary",
    "mins": 35,
    "days": 7,
-   "context": "In this one-week project you draw what you eat each day. You put a green dot next to food from plants and a red dot next to food from animals. At the end you count the dots.",
+   "context": "You will find out whether you eat more food from plants or from animals. In this one-week project you write down what you eat for lunch each day. You put a green dot next to food from plants and a red dot next to food from animals. At the end you count the dots.",
    "materials": [
     {
      "item": "a sheet of paper folded into 7 boxes, one for each day",
@@ -1103,37 +1103,37 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Fold the paper into 7 boxes. Draw today's lunch in the first box. Add green and red dots."
+     "what": "Fold the paper into 7 boxes. Write today's lunch in the first box. Add green and red dots."
     },
     {
      "day": 2,
      "mins": 4,
-     "what": "Draw today's lunch. Add the dots."
+     "what": "Write today's lunch. Add the dots."
     },
     {
      "day": 3,
      "mins": 4,
-     "what": "Draw today's lunch. Add the dots."
+     "what": "Write today's lunch. Add the dots."
     },
     {
      "day": 4,
      "mins": 4,
-     "what": "Draw today's lunch. Add the dots."
+     "what": "Write today's lunch. Add the dots."
     },
     {
      "day": 5,
      "mins": 4,
-     "what": "Draw today's lunch. Add the dots."
+     "what": "Write today's lunch. Add the dots."
     },
     {
      "day": 6,
      "mins": 4,
-     "what": "Draw today's lunch. Add the dots."
+     "what": "Write today's lunch. Add the dots."
     },
     {
      "day": 7,
      "mins": 10,
-     "what": "Draw today's lunch. Count all the green dots and all the red dots. Talk about what you found."
+     "what": "Write today's lunch. Count all the green dots and all the red dots. Talk about what you found."
     }
    ],
    "record": "Keep the food week sheet, with the number of green dots and red dots written at the bottom.",
@@ -1141,17 +1141,17 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fold a sheet into 7 boxes. 2. Write a day in each box. 3. Your child draws today's lunch in the first box. 4. Put a green dot by each food from a plant and a red dot by each food from an animal.",
-     "say": "Draw your lunch. Then put a green dot by each food from a plant and a red dot by each food from an animal.",
-     "kid": "Draw your lunch. Green dot for plants. Red dot for animals.",
+     "do": "1. Fold a sheet into 7 boxes. 2. Write a day in each box. 3. Your child tells you the foods in today's lunch, and you write each food in the first box. 4. Put a green dot by each food from a plant and a red dot by each food from an animal.",
+     "say": "Tell me what is in your lunch, and I will write each food. Then put a green dot by each food from a plant and a red dot by each food from an animal.",
+     "kid": "Say the foods in your lunch. Green dot for plants. Red dot for animals.",
      "wait": "Do the same every day for six more days."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Each day, your child draws lunch and adds the dots. Talk about one food each day.",
+     "do": "Each day, your child says the foods in lunch, you write them, and your child adds the dots. Talk about one food each day.",
      "say": "Look at today's lunch. Pick one food. Did a plant make this food, or an animal?",
-     "kid": "Draw today's lunch. Add the dots.",
+     "kid": "Say what is in today's lunch. Add a dot to each food.",
      "ask": [
       {
        "q": "Suppose lunch is sambar with dal, tomato and drumstick. Which dot does each one get?",
@@ -1166,11 +1166,11 @@
      "id": "s3",
      "mins": 10,
      "do": "1. On day 7, count all the green dots. 2. Count all the red dots. 3. Write both numbers at the bottom.",
-     "say": "Which colour has more dots? Why do you think so?",
-     "kid": "Count the green dots. Count the red dots. Which has more?",
+     "say": "Let's count the dots. Which colour has more?",
+     "kid": "Count the green dots. Count the red dots.",
      "ask": [
       {
-       "q": "Why do you think there are more green dots?",
+       "q": "Why do you think that colour has more dots?",
        "good": [
         "We eat lots of rice and vegetables.",
         "Most of our food is from plants."
@@ -1183,7 +1183,7 @@
    "setup": [
     {
      "art": "A sheet of paper folded into seven boxes, with the first box showing a child's drawing of rice, sambar and curd with green and red dots.",
-     "caption": "1. Draw lunch each day. Add green and red dots."
+     "caption": "1. Write lunch each day. Add green and red dots."
     },
     {
      "art": "The full sheet on day 7, with a child counting the green dots with a finger.",
@@ -1229,8 +1229,8 @@
      "id": "c1s1",
      "mins": 3,
      "do": "Read the challenge to your child. Show the cup of sugar water, the five bottle caps and the five tools.",
-     "say": "You are a bee. This cup is a flower full of nectar. These caps are your hives. Which tool will carry the most?",
-     "kid": "You are a bee. Which tool carries the most nectar home?",
+     "say": "You are a bee. This cup is a flower full of nectar. These caps are your hives.",
+     "kid": "Look closely at the five tools.",
      "ask": [
       {
        "q": "Which tool do you think will carry the most? Why?",
@@ -1251,9 +1251,9 @@
     {
      "id": "c1s3",
      "mins": 4,
-     "do": "Look at the five caps together. Which cap is the fullest?",
-     "say": "Which cap has the most nectar? Which tool did that?",
-     "kid": "Which cap is the fullest?",
+     "do": "Line up the five caps and look at them together.",
+     "say": "Which cap has the most nectar? Which tool filled it?",
+     "kid": "Compare the caps. Pick the fullest one.",
      "ask": [
       {
        "q": "Why did that tool carry the most?",

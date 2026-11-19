@@ -3,7 +3,7 @@
  "title": "Feelings: naming them, and what helps when we feel sad or angry",
  "level": 1,
  "summary": {
-  "text": "Happy, sad, angry, scared and calm are all feelings, and every person has every one of them. Your child names their feelings, and draws a face for each one, six times in one day. They find out whether one feeling stays all day or many feelings come and go. They also try things that help when they feel sad or angry: a slow breath, a hug, watching a settling bottle, and saying the feeling out loud.",
+  "text": "Can you feel happy, sad and angry all in one day? In this unit you will name your feelings and say how big they are, keep a chart of your feelings through a day, and try things that help when you feel sad or angry.",
   "art": "A sheet of paper with six circles on it, each with a different child-drawn face: happy, cross, calm, sleepy, sad and happy again, with crayons beside it on a floor mat."
  },
  "intro": {
@@ -274,13 +274,13 @@
    "title": "My Feelings Chart: how many feelings come in one day?",
    "mins": 33,
    "days": 2,
-   "context": "In this experiment you stop six times in one day and ask yourself what you are feeling. You draw a face for each feeling. Then you look at the whole day.",
+   "context": "In this experiment you stop six times in one day and ask yourself what you are feeling. You draw a face or write a word for each feeling. You will find out if one feeling lasts all day, or if feelings keep changing. Then you look at the whole day.",
    "question": "In one day, do I have one feeling all day, or many different feelings? When a sad or cross feeling comes, does it stay?",
    "predict": "How many different feelings do you think you will draw today? Will one feeling stay all day? Why do you think so?",
    "fair_test": "We stop at the same six times in the day: waking up, breakfast, mid-morning, lunch, late afternoon and bedtime. Each time, you name the feeling yourself. Nobody tells you what you feel. Any feeling is a right answer.",
    "results_table": [
     "Time",
-    "My feeling (draw the face)",
+    "My feeling (draw the face or write the word)",
     "How big? small, middle or big",
     "What was happening?",
     "If it was sad, cross or scared: what helped?"
@@ -320,7 +320,7 @@
      "what": "Look at the whole chart. Count the different feelings. Did any feeling stay all day? Compare with your guess."
     }
    ],
-   "record": "The chart of six faces, with a small picture next to any sad, cross or scared face showing what helped.",
+   "record": "The chart of six faces or words, with a word next to any sad, cross or scared one showing what helped.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example: Lakshmi's chart, age 6",
@@ -398,9 +398,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw six big circles on the paper. 2. Under them, write the six times: wake up, breakfast, mid-morning, lunch, afternoon, bedtime. 3. Tape the chart where your child can reach it.",
-     "say": "Today we are going to be feeling scientists. Six times today, we will stop and ask what you are feeling. You will draw a face for it in a circle.",
-     "kid": "Today you are a feeling scientist. Six times today, you stop. You ask: what am I feeling? You draw the face.",
+     "do": "1. Draw six big circles on the paper (or ask your child to). 2. Under them, write the six times: wake up, breakfast, mid-morning, lunch, afternoon, bedtime. 3. Tape the chart where your child can reach it.",
+     "say": "Today we are going to be feeling scientists. Six times today, we will stop and ask what you are feeling. You will put a face or a word for it in a circle.",
+     "kid": "Six times today, you stop and notice what you feel.",
      "parent": "The fridge door or a wall at child height works well. Write the times small, under the circles. Your child does the drawing."
     },
     {
@@ -408,7 +408,7 @@
      "mins": 3,
      "do": "Ask your child to guess. Write their guess at the top of the chart.",
      "say": "How many different feelings do you think you will draw today? Will you feel the same thing all day? Why do you think so?",
-     "kid": "Guess how many feelings you will draw today. One? Six? Why do you think so?",
+     "kid": "Guess how many different feelings you will have today. One? Six?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -424,9 +424,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Do the first check now. 2. Your child stands still, puts one hand on their tummy and closes their eyes. 3. They name the feeling, then draw its face in circle 1.",
+     "do": "1. Do the first check now. 2. Your child stands still, puts one hand on their tummy and closes their eyes. 3. They name the feeling, then draw its face (or write its name) in circle 1.",
      "say": "Stand still. Put your hand on your tummy. Close your eyes. What are you feeling right now? Is it small, middle or big?",
-     "kid": "Stand still. Hand on your tummy. Close your eyes. What do you feel? Is it small, middle or big? Draw its face.",
+     "kid": "Stand still, hand on your tummy, eyes closed. Listen to your body. Then draw the face, or write the word, in circle 1.",
      "ask": [
       {
        "q": "What are you feeling? How big is it?",
@@ -442,18 +442,18 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Stop at breakfast, mid-morning, lunch, late afternoon and bedtime. 2. Each time, your child names the feeling and draws the face. 3. Ask what was happening, and write one word next to the circle.",
+     "do": "1. Stop at breakfast, mid-morning, lunch, late afternoon and bedtime. 2. Each time, your child names the feeling and draws the face, or writes the word. 3. Ask what was happening, and write one word next to the circle.",
      "say": "Time to stop again. Hand on your tummy. What are you feeling now? What is happening just now?",
-     "kid": "Stop again. Hand on your tummy. What do you feel now? Draw it.",
+     "kid": "Stop again. Hand on your tummy. Draw the face, or write the word.",
      "wait": "Do the other five checks through the day, about 2 minutes each",
      "parent": "A phone alarm helps you remember. If you miss one time, do it as soon as you remember. Feelings in the middle of a cross moment are the most useful ones to draw."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "If your child draws a sad, cross or scared face, try one thing that helps together. Then ask how the feeling is now. Draw what helped next to the circle.",
+     "do": "If your child draws a sad, cross or scared face, try one thing that helps together. Then ask how the feeling is now. Write one word for what helped next to the circle.",
      "say": "That is a cross face. Shall we try something that helps? Five slow breaths, a hug, or telling me what happened? How does the feeling feel now?",
-     "kid": "Is it a sad, cross or scared face? Try one helper. A slow breath, a hug, or telling someone. Is the feeling smaller now?",
+     "kid": "Pick one helper: a slow breath, a hug, or telling someone. Then notice if the feeling is smaller.",
      "parent": "Do not hurry the feeling away. The point is to notice what happens to it. If no sad or cross face comes today, that is a real result too."
     },
     {
@@ -461,7 +461,7 @@
      "mins": 5,
      "do": "Next day, look at the whole chart together. Count how many different faces there are. Read out the guess from yesterday.",
      "say": "Look at your chart. How many different feelings did you draw? What was your guess? Did any feeling stay all day?",
-     "kid": "Look at your chart. Count the different faces. Did any feeling stay all day? Was your guess right?",
+     "kid": "Look at your chart. Count the different faces. Was your guess right?",
      "ask": [
       {
        "q": "Did any feeling stay all day?",
@@ -507,7 +507,7 @@
    "title": "Name It, Size It: how big is my feeling?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a grown-up tells short stories, and you name the feeling you would have. Then you show how big the feeling is with your hands.",
+   "context": "In this activity a grown-up tells short stories, and you name the feeling you would have. Then you show how big the feeling is with your hands. You will find out that the same feeling can be small or big.",
    "materials": [
     {
      "item": "nothing but your hands and your voice",
@@ -521,7 +521,7 @@
      "what": "Name the feeling for six short stories, and show how big each one is."
     }
    ],
-   "record": "Draw your three biggest feelings from the stories. Next to each one, draw a small, middle or big circle to show how big it was.",
+   "record": "Pick the three stories that gave you the biggest feelings. A grown-up writes each feeling's name and its size: small, middle or big.",
    "setup": [
     {
      "art": "A grown-up sitting on the floor facing a child, telling a story with open hands.",
@@ -538,7 +538,7 @@
      "mins": 2,
      "do": "Show the three sizes with your hands: hands nearly touching for small, a little apart for middle, wide apart for big.",
      "say": "Feelings have names, and they have sizes too. Small is like this. Middle is like this. Big is like this.",
-     "kid": "Feelings have names. They have sizes too. Small, middle, big. Show me with your hands.",
+     "kid": "Show small, middle and big with your hands.",
      "parent": "Sizing a feeling helps a child notice that the same feeling can be small or big, and can change size."
     },
     {
@@ -546,7 +546,7 @@
      "mins": 6,
      "do": "Tell these stories one at a time: your balloon bursts. Your friend says, 'I will not play with you.' You are told it is bedtime while you are still playing. Your teacher gives you a gold star. A cousin you love goes home after the holidays. The lights go out in a power cut.",
      "say": "Listen to this. Your balloon bursts. What would you feel? How big is it? Show me.",
-     "kid": "Listen to the story. What would you feel? Say the name. Show how big.",
+     "kid": "Listen to the story. Picture it happening to you.",
      "ask": [
       {
        "q": "What would you feel? How big?",
@@ -564,7 +564,7 @@
      "mins": 2,
      "do": "Ask whether a big feeling can become a small feeling, and what could help.",
      "say": "Can a big feeling become a small feeling? What could help it get smaller?",
-     "kid": "Can a big feeling get small? What could help?",
+     "kid": "Think of a time when a big feeling got smaller.",
      "ask": [
       {
        "q": "What could help?",
@@ -585,7 +585,7 @@
    "title": "The Settling Bottle: watch it, and breathe",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a bottle of water with rava in it. When you shake the bottle, the rava swirls and then settles. When a feeling is big, you shake the bottle and watch the rava settle while you breathe slowly.",
+   "context": "In this activity you make a bottle of water with rava in it. When you shake the bottle, the rava swirls and then settles. When a feeling is big, you shake the bottle and watch the rava settle while you breathe slowly. You will see that big swirls settle if you wait and breathe.",
    "problem": "When you feel very cross or upset, it can seem as if everything inside you is swirling. A settling bottle is a bottle of water with rava in it. The rava swirls when you shake the bottle, and it sinks when you hold the bottle still. In this activity you watch the rava settle and breathe slowly. This gives your feeling time to settle too.",
    "materials": [
     {
@@ -612,7 +612,7 @@
      "what": "Make the bottle, shake it, and breathe slowly while it settles."
     }
    ],
-   "record": "Draw the bottle just after shaking, and again when it has settled.",
+   "record": "Take a photo of the bottle just after shaking, and again when it has settled. Or tell your grown-up what the rava did each time.",
    "setup": [
     {
      "art": "A child pouring a spoon of rava through a paper funnel into a plastic bottle of water, with a grown-up holding the bottle.",
@@ -657,9 +657,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Talk about when to use it. Keep the bottle in a place your child can reach.",
+     "do": "Tell your child they can use the bottle when a feeling is big. Keep it where they can reach it.",
      "say": "When you feel very cross or upset, you can shake the bottle, watch it, and breathe. How do you feel after watching it settle?",
-     "kid": "When a feeling is big, shake the bottle. Watch it. Breathe slowly. How do you feel now?",
+     "kid": "When a feeling is big, shake the bottle. Watch it. Breathe slowly.",
      "ask": [
       {
        "q": "How do you feel after watching it?",
@@ -694,7 +694,7 @@
      "what": "Stomp, feel your heart, rest and breathe slowly, then feel it again."
     }
    ],
-   "record": "Draw yourself as a tiger and as a cat. Draw a big heart next to the tiger and a small, slow heart next to the cat.",
+   "record": "Tell a grown-up what your heart did after the tiger and after the cat. Tap a fast beat and a slow beat on the table to show it.",
    "setup": [
     {
      "art": "A child stomping on the spot with arms up like tiger claws, face scrunched up in a roar.",
@@ -748,7 +748,7 @@
      "mins": 2,
      "do": "Your child feels their chest again. Then explain the link to feelings.",
      "say": "Feel your heart again. Is it faster or slower now? When you feel angry or scared, your heart beats fast like the tiger's, even sitting still. Slow breaths help your body calm down.",
-     "kid": "Feel your heart again. Is it slower? Angry feelings make your heart fast too. Slow breaths help it calm down.",
+     "kid": "Feel your heart again. Angry feelings make a heart fast too. Slow breaths help it calm down.",
      "check": {
       "t": "mcq",
       "q": "You lay down like a cat and breathed slowly. What is your heart doing now?",
@@ -769,7 +769,7 @@
    "title": "My Helping Hand: five things that help me",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw round your hand. On each finger you draw one thing that helps you when you feel sad or angry.",
+   "context": "In this activity you draw round your hand. On each finger you draw or write one thing that helps you when you feel sad or angry. You will make a reminder of what to try next time.",
    "materials": [
     {
      "item": "a sheet of paper",
@@ -784,7 +784,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw round your hand. On each finger, draw one thing that helps you."
+     "what": "Draw round your hand. On each finger, draw or write one thing that helps you."
     }
    ],
    "record": "Your helping hand, stuck up where you can see it.",
@@ -795,7 +795,7 @@
     },
     {
      "art": "A paper hand with a small drawing on each finger: lungs breathing, two people hugging, a mouth talking, a tumbler of water, a quiet corner with a cushion.",
-     "caption": "2. Draw one helper on each finger."
+     "caption": "2. Draw or write one helper on each finger."
     }
    ],
    "flow": [
@@ -809,9 +809,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child draws one helper on each finger. Offer ideas only if they are stuck.",
-     "say": "When you feel sad or angry, what helps you? Draw one thing on each finger.",
-     "kid": "What helps when you feel sad or angry? Draw one thing on each finger.",
+     "do": "Your child draws or writes one helper on each finger. A grown-up can write the words. Offer ideas only if they are stuck.",
+     "say": "When you feel sad or angry, what helps you? Draw or write one thing on each finger.",
+     "kid": "Think of five helpers. Put one on each finger: draw it, or write a word.",
      "ask": [
       {
        "q": "What helps you?",
@@ -843,7 +843,7 @@
    "title": "What Would You Feel? A feelings card game",
    "mins": 15,
    "players": "2 or more players: a grown-up and a child, and anyone else who wants to play",
-   "context": "This is a card game about naming feelings. Each card tells a short story. You say the feeling you would have, and show it with your face and body.",
+   "context": "This is a card game about naming feelings. Each card tells a short story. You say the feeling you would have, and show it with your face and body. You will find out that people can feel different things about the same story.",
    "printables": [
     {
      "kind": "cards",
@@ -917,7 +917,7 @@
     },
     {
      "kind": "cards",
-     "title": "6 feeling cards to cut out and draw",
+     "title": "6 feeling cards to cut out",
      "items": [
       {
        "f": "Happy",
@@ -947,7 +947,7 @@
     }
    ],
    "rules": [
-    "Cut out the six feeling cards. Draw the face on each one, using the hint on its back. Lay them in a row, face up. Mix the 16 story cards and put them face down in a pile.",
+    "Cut out the six feeling cards. Read the hint on the back of each one and make that face yourself. Lay them in a row, face up. Mix the 16 story cards and put them face down in a pile.",
     "Take turns. The player whose turn it is gives the top story card to another player to read aloud. A child who cannot read yet gives it to the grown-up.",
     "The player says what they would feel, and puts a finger on that feeling card.",
     "The player shows the feeling with their face and body for three counts.",
@@ -969,9 +969,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Cut out the cards. Draw the face on each of the six feeling cards, using the hint on its back. Lay them in a row and read each name aloud together.",
-     "say": "These are six feelings: happy, sad, angry, scared, calm and excited. Let's draw each face, and then make that face ourselves.",
-     "kid": "Here are six feelings. Say each name. Make each face."
+     "do": "Cut out the cards. Read each name aloud and the hint on its back, and make the face together. Lay the six feeling cards in a row. (Your child can draw the face on each card if they like.)",
+     "say": "These are six feelings: happy, sad, angry, scared, calm and excited. Let's make each face with our own faces.",
+     "kid": "Say each name. Make each face."
     },
     {
      "id": "s2",
@@ -1015,7 +1015,7 @@
    "title": "Feeling Statues: freeze, then find a helper",
    "mins": 10,
    "players": "2 or more players: a grown-up calls the cards and a child dances. The grown-up can dance too.",
-   "context": "This is a moving game. You dance while the music plays. When it stops, the grown-up calls a feeling, and you freeze like a statue showing that feeling with your whole body.",
+   "context": "This is a moving game. You dance while the music plays. When it stops, the grown-up calls a feeling, and you freeze like a statue showing that feeling with your whole body. You will find out which helper calms you best.",
    "printables": [
     {
      "kind": "cards",
@@ -1087,7 +1087,7 @@
      "mins": 2,
      "do": "Ask which statue was hardest to do, and which helper call made your child feel calmest.",
      "say": "Which statue was hardest to do? Which helper made you feel calmest?",
-     "kid": "Which statue was hardest? Which helper made you calm?",
+     "kid": "Think back over the game. Which statue was hardest to do?",
      "ask": [
       {
        "q": "Which helper made you calm?",
@@ -1107,7 +1107,7 @@
    "title": "One Week of Feelings and Helpers",
    "mins": 30,
    "days": 7,
-   "context": "In this project, every evening for a week, you draw one big feeling from your day and what helped. At the end you look back at the whole week.",
+   "context": "In this project, every evening for a week, you show one big feeling from your day with a face or a word, and say what helped. At the end you look back at the week and find out which helper you use most.",
    "materials": [
     {
      "item": "a small notebook, or 7 sheets of paper stapled together",
@@ -1122,40 +1122,40 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Make a feelings book of seven pages. On page 1, draw today's biggest feeling and what helped. If it was a happy feeling, draw what caused it."
+     "what": "Make a feelings book of seven pages. On page 1, draw or write today's biggest feeling. A grown-up writes one line about what helped, or what caused a happy feeling."
     },
     {
      "day": 2,
      "mins": 3,
-     "what": "Draw today's biggest feeling and what helped."
+     "what": "Draw or write today's biggest feeling. A grown-up writes one line about what helped."
     },
     {
      "day": 3,
      "mins": 3,
-     "what": "Draw today's biggest feeling and what helped."
+     "what": "Draw or write today's biggest feeling. A grown-up writes one line about what helped."
     },
     {
      "day": 4,
      "mins": 3,
-     "what": "Draw today's biggest feeling and what helped."
+     "what": "Draw or write today's biggest feeling. A grown-up writes one line about what helped."
     },
     {
      "day": 5,
      "mins": 3,
-     "what": "Draw today's biggest feeling and what helped."
+     "what": "Draw or write today's biggest feeling. A grown-up writes one line about what helped."
     },
     {
      "day": 6,
      "mins": 3,
-     "what": "Draw today's biggest feeling and what helped."
+     "what": "Draw or write today's biggest feeling. A grown-up writes one line about what helped."
     },
     {
      "day": 7,
      "mins": 10,
-     "what": "Draw the last page. Look at the whole week. Which helper did you use most? Which worked best?"
+     "what": "Do the last page. Look at the whole week. Which helper did you use most? Which worked best?"
     }
    ],
-   "record": "Seven pages, each with one feeling face and one helper drawing.",
+   "record": "Seven pages, each with one feeling (a face or a word) and a line about what helped.",
    "setup": [
     {
      "art": "A child at bedtime on a bed, drawing in a small notebook, with a reading lamp on.",
@@ -1163,32 +1163,32 @@
     },
     {
      "art": "An open notebook page with a sad face on the left and a drawing of two people hugging on the right.",
-     "caption": "2. Next to it, draw what helped."
+     "caption": "2. Next to it, write what helped."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Make a feelings book of seven pages. On page 1, your child draws today's biggest feeling and what helped. If it was a happy feeling, they draw what caused it.",
-     "say": "What was the biggest feeling you had today? Draw its face. Did anything help? Draw that next to it.",
-     "kid": "What was your biggest feeling today? Draw the face. What helped? Draw that too.",
-     "parent": "Happy days count too: draw what made the happy feeling. On a hard day, keep it short and gentle."
+     "do": "Make a feelings book of seven pages. On page 1, your child draws the face of today's biggest feeling, or writes its name. You write one line next to it about what helped.",
+     "say": "What was the biggest feeling you had today? Did anything help? I will write it next to your face.",
+     "kid": "Pick your biggest feeling today. Draw its face, or write its name.",
+     "parent": "Happy days count too: write what made the happy feeling. On a hard day, keep it short and gentle."
     },
     {
      "id": "s2",
      "mins": 15,
      "do": "Each evening for the next five days, do one page.",
      "say": "Time for your feelings book. What was your biggest feeling today? What helped?",
-     "kid": "Feelings book time. Biggest feeling today? What helped?",
+     "kid": "Feelings book time. Add today's page.",
      "wait": "Do one page each evening, about 3 minutes"
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 7, draw the last page. Then lay all the pages out and look at them together.",
+     "do": "On day 7, do the last page. Then lay all the pages out and look at them together.",
      "say": "Look at your whole week. Which feeling came most? Which helper did you use most? Which one worked best for you?",
-     "kid": "Look at your week. Which feeling came most? Which helper worked best?",
+     "kid": "Lay out your seven pages. Count which feeling shows up most.",
      "ask": [
       {
        "q": "Which helper worked best?",
@@ -1209,7 +1209,7 @@
    "id": "c1",
    "title": "A Cheer-Up Box for Someone at Home",
    "mins": 20,
-   "context": "This is a making challenge. Someone at home will feel sad one day. Can you make a box of things that might help them feel better?",
+   "context": "This is a making challenge. Someone at home will feel sad one day. Can you make a box of things that might help them feel better? You will find out what helps someone else.",
    "problem": "Make a small cheer-up box for someone in your family. Put in things that might help them when they feel sad or cross.",
    "constraints": [
     "Use only things from home.",
@@ -1250,7 +1250,7 @@
      "mins": 5,
      "do": "Read the problem aloud. Ask who the box is for and what helps them.",
      "say": "Who at home would you like to make a cheer-up box for? When they feel sad, what helps them?",
-     "kid": "Who is your box for? What helps them when they are sad?",
+     "kid": "Pick who your box is for.",
      "ask": [
       {
        "q": "What helps them?",

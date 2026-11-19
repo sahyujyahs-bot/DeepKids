@@ -1,7 +1,7 @@
 # Exercise and rest: why moving makes you breathe hard, and why your body needs sleep
 `sci.health.exercise-and-rest.L2`
 
-**Summary.** Dance fast for one minute, and you breathe much faster than when you sit still. In this unit you count your breaths before and after dancing, and you time how long your breathing takes to slow down again. Working muscles use up oxygen from the air, so your body breathes in more. Exercise makes your muscles, heart and bones stronger. Rest and sleep let your body recover and grow, and a child of 7 needs about 9 to 12 hours of sleep. Good food and keeping clean are the other two ways to stay healthy.
+**Summary.** Why do you breathe so fast after dancing? In this unit you will count your breaths before and after dancing and time how long they take to slow down, compare three kinds of exercise, move like a crab, frog and cat, and put your bedtime steps in order.
 
 **Intro.** *Sit very still and put one hand on your tummy. Feel it go out and in. That is you breathing. What do you think will happen to your breathing if you dance as fast as you can for one minute?* You breathe all day and all night, even when you are not thinking about it. Each breath brings air into your lungs, and part of that air is oxygen. Your muscles use oxygen when they work. In this unit you will count your breaths to find out what dancing does to them.
 

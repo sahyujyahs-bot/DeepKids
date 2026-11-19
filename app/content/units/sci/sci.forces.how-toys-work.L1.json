@@ -3,7 +3,7 @@
  "title": "How toys move: rolling, bouncing, spinning and winding up",
  "level": 1,
  "summary": {
-  "text": "A ball rolls down a slope, but a book stays put. A paper cup rolls too, yet it curves round in a circle instead of going straight. Your child tests what rolls, drops a ball from high and low, twists a string, spins a home-made top and pushes a book on pencils. They find that round things roll, that a rolling thing's own shape steers it, that a ball squashes and springs back when it bounces, and that a top stands up only while it spins. Every toy starts moving with a push or a pull, from a hand, a slope or a spring inside.",
+  "text": "A ball rolls down a slope, but a book stays put. Why? In this unit you will test what rolls and what slides, drop a ball from high and low to see how it bounces, and make a string that winds up and lets go.",
   "art": "A girl kneeling beside a chopping board leaned on books, watching a paper cup roll off it and curve round on the tiled floor, while a bottle rolls straight on."
  },
  "intro": {
@@ -240,7 +240,7 @@
    "title": "Roll, Stay or Slide? The slope test",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you lean a tray on books to make a slope. You let go of eight things at the top, one at a time, without pushing. You sort them by what they do. You watch where a bottle and a paper cup go when they reach the floor. Last, you make the slope steeper to see when a book starts to slide.",
+   "context": "In this experiment you find out why a ball rolls down a slope and a book does not. You lean a tray on books to make a slope. You let go of eight things at the top, one at a time, without pushing. You sort them by what they do. You watch where a bottle and a paper cup go when they reach the floor. Last, you make the slope steeper to see when a book starts to slide.",
    "question": "Which things will roll down the slope, and which will stay still or slide? Will a paper cup roll the same way as a bottle? How steep must the slope be before a book slides?",
    "predict": "Guess first, for each thing. Will it roll, stay still, or slide? Will the cup go straight like the bottle? Why do you think so?",
    "fair_test": "We use the same slope for every thing. We put each thing at the top and let go, without any push. We try the bottle and the cup twice, because one try can be a fluke.",
@@ -302,7 +302,7 @@
      "what": "Make the slope, guess, let go of each thing, sort them, watch the bottle and the cup on the floor, then make the slope steeper until the book slides."
     }
    ],
-   "record": "Look at your folded paper. Each thing is now on the part where it belongs: roll, stay or slide. Draw each thing in its part, if it is not drawn there already.",
+   "record": "Look at your folded paper. Each thing is now on the part where it belongs: roll, stay or slide. Take a photo of it, or write each thing's name in its part.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -350,7 +350,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lean the tray on two books on a bare floor. 2. Clear about two big steps of floor in front of it. 3. Put the eight things beside the slope. Keep the other two books handy. 4. Fold the sheet of paper into three parts. At the top of the parts draw a ball for roll, a box for stay and a sliding book for slide.",
+     "do": "1. Lean the tray on two books on a bare floor. 2. Clear about two big steps of floor in front of it. 3. Put the eight things beside the slope. Keep the other two books handy. 4. Fold the sheet of paper into three parts. Write ROLL, STAY and SLIDE at the top of the parts.",
      "say": "Here is our slope. We will put each of these things at the top and let go. We won't push them at all.",
      "kid": "Look at the slope. Look at all the things. We will let go of each one.",
      "parent": "Bare tiles or stone work best. A carpet stops things too soon."
@@ -428,7 +428,7 @@
      "mins": 2,
      "do": "Ask your child what they found. Then ask the check question.",
      "say": "What did you find out? Which things rolled? Why did the cup go round, and the bottle go straight?",
-     "kid": "What rolled? Why did the cup go round?",
+     "kid": "Tell your grown-up one thing that rolled and one thing that did not.",
      "ask": [
       {
        "q": "Why did the cup curve?",
@@ -458,7 +458,7 @@
    "title": "High Drop, Low Drop: how high will the ball bounce?",
    "mins": 14,
    "days": 1,
-   "context": "In this experiment you drop a ball beside a wall, once from knee height and once from a grown-up's shoulder. A grown-up marks how high it bounces back each time.",
+   "context": "In this experiment you find out if a ball can bounce back up to the height it fell from. You drop a ball beside a wall, once from knee height and once from a grown-up's shoulder. A grown-up marks how high it bounces back each time.",
    "question": "Will a ball dropped from high up bounce higher than one dropped from low down? Will it ever bounce back as high as your hand?",
    "predict": "Guess first. Which drop will make the higher bounce? Will the ball come back up to your hand? Why do you think so?",
    "fair_test": "We use the same ball and the same floor each time. We let go of the ball, without throwing it. We drop it three times from each height, because one try can be a fluke.",
@@ -488,7 +488,7 @@
      "what": "Mark two drop heights on the wall, drop the ball three times from each, and mark how high it bounces."
     }
    ],
-   "record": "Draw the wall, the two drop marks and the two bounce marks. Draw an arrow down from each drop mark, and an arrow up to its bounce mark.",
+   "record": "Look at the four bindis on the wall. Take a photo of them, or draw the wall with an arrow down from each drop mark and an arrow up to its bounce mark.",
    "setup": [
     {
      "art": "A wall with one bindi at a child's knee height and one at a grown-up's shoulder height, and a ball on the floor below.",
@@ -549,8 +549,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Look at all four bindis together. Ask your child what they see.",
-     "say": "Look at the shoulder bindi and the bounce bindi under it. Did the ball ever come back up to my hand?",
-     "kid": "Did the ball come back up to the hand?",
+     "say": "Look at the shoulder bindi and the bounce bindi under it. Where did the bounce stop?",
+     "kid": "Point to the shoulder bindi. Then point to the bounce bindi under it.",
      "ask": [
       {
        "q": "Did the ball come back as high as it fell from?",
@@ -589,7 +589,7 @@
    "title": "Toy Hunt: how does each toy move?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you gather five toys or home things. You make each one move, and say how it moves and what started it.",
+   "context": "In this activity you find out what starts a toy moving. You gather five toys or home things, make each one move, and say how it moves.",
    "materials": [
     {
      "item": "5 toys or home things that move, such as a ball, a toy car, a top, a bangle and a doll",
@@ -603,7 +603,7 @@
      "what": "Gather five toys, make each one move, and say how it moved and what started it."
     }
    ],
-   "record": "Draw three of your toys. Next to each one, draw a hand, a foot or a slope to show what started it moving.",
+   "record": "Sort your five toys into groups by how they moved: roll, bounce, spin or slide. Tell your grown-up what started each one: a hand, a foot or a slope.",
    "setup": [
     {
      "art": "A ball, a toy car, a wooden top, a bangle and a cloth doll laid out on a mat.",
@@ -643,8 +643,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Here is one more toy to think about.",
-     "kid": "Think about this toy.",
+     "say": "Here is one more question, about a toy car.",
+     "kid": "Think about the toy car.",
      "check": {
       "t": "mcq",
       "q": "A toy car is lying still on the floor. What will make it move?",
@@ -664,7 +664,7 @@
    "title": "Twist and Let Go: a string that winds up",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hang a sock on a string, twist it round and round, and let go. You find out what more twists do.",
+   "context": "In this activity you find out if more twists make a sock spin for longer. You hang a sock on a string, twist it round and round, and let go.",
    "materials": [
     {
      "item": "a string, about as long as your arm",
@@ -682,7 +682,7 @@
      "what": "Twist the hanging sock ten times and let go, then twenty times, and watch how long it spins."
     }
    ],
-   "record": "Draw the sock hanging on the string. Draw curly arrows round it to show it spinning.",
+   "record": "Tell your grown-up how long the sock spun after ten twists, and after twenty. You can draw the sock with curly arrows round it too.",
    "setup": [
     {
      "art": "A girl holding a string up high, with a stuffed sock hanging from the end, and a parent turning the sock round and round to twist the string.",
@@ -738,7 +738,7 @@
      "id": "s4",
      "mins": 1,
      "do": "Ask the check question.",
-     "say": "A wind-up toy has a spring inside that you twist with a key. What do you think more turns of the key will do?",
+     "say": "A wind-up toy has a spring inside that you twist with a key. It works like your twisted string. Here is a question about one.",
      "kid": "Answer this one.",
      "check": {
       "t": "mcq",
@@ -759,7 +759,7 @@
    "title": "Book on Rollers: push it on round pencils",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you push a heavy book across the floor with one finger. Then you put round pencils under it, and push again.",
+   "context": "In this activity you find out why round things help us move heavy loads. You push a heavy book across the floor with one finger. Then you put round pencils under it, and push again.",
    "materials": [
     {
      "item": "a heavy book, such as a dictionary or a big school atlas",
@@ -781,7 +781,7 @@
      "what": "Push a heavy book with one finger, then push it on four round pencils, and compare."
     }
    ],
-   "record": "Draw the book on the floor, and then the book on its pencils. Put a big arrow by the one that was easier to push.",
+   "record": "Tell your grown-up which push was easier, and why. Take a photo of the book on its pencils.",
    "setup": [
     {
      "art": "A girl pushing a fat dictionary across a tiled floor with one finger, looking like it is hard.",
@@ -843,7 +843,7 @@
    "title": "Pull-Back Car: short pull, long pull",
    "mins": 10,
    "days": 1,
-   "context": "This activity is for families who have a pull-back or wind-up toy car. You pull it back a short way and a long way, and see how far it goes. If you have no such toy, skip this and do Twist and Let Go.",
+   "context": "This activity is for families who have a pull-back or wind-up toy car. You find out how far it goes after a short pull and after a long pull. If you have no such toy, skip this and do Twist and Let Go.",
    "materials": [
     {
      "item": "a pull-back or wind-up toy car",
@@ -865,7 +865,7 @@
      "what": "Pull the car back a little and a lot, let go, and mark where it stops each time."
     }
    ],
-   "record": "Draw the car and two chappals. Write or draw which pull went further.",
+   "record": "Count the big steps from where the car started to each chappal. Say which pull went further, and write the two numbers.",
    "setup": [
     {
      "art": "A boy pulling a small toy car backwards along a tiled floor with his hand pressing it down.",
@@ -928,7 +928,7 @@
    "title": "Roll, Bounce, Spin or Slide? The act-it-out card game",
    "mins": 12,
    "players": "2 or more players. One player is the caller, and you take turns.",
-   "context": "This is a card game you act out. The caller reads a card. Every player, the caller too, acts out how the thing moves: roll on the mat, bounce on the spot, spin slowly, slide in socks, or drop down and stay still.",
+   "context": "This is a card game you act out. You find out which things roll, bounce, spin or slide by moving like them. The caller reads a card. Every player, the caller too, acts out how the thing moves: roll on the mat, bounce on the spot, spin slowly, slide in socks, or drop down and stay still.",
    "printables": [
     {
      "kind": "cards",
@@ -1053,7 +1053,7 @@
    "title": "Bottle Skittles: roll the ball, knock them down",
    "mins": 12,
    "players": "2 or more players.",
-   "context": "This is a rolling game. You stand six empty bottles in a triangle and roll a ball at them from a line. Plastic cups or tumblers that stand up will do if you have no bottles.",
+   "context": "This is a rolling game. You find out what helps a ball go straight and far enough to knock the bottles down. You stand six empty bottles in a triangle and roll a ball at them from a line. Plastic cups or tumblers that stand up will do if you have no bottles.",
    "printables": [
     {
      "kind": "score sheet",
@@ -1098,7 +1098,7 @@
      "mins": 8,
      "do": "Take turns. After a few rolls, ask what helps the ball go straight.",
      "say": "Which rolls hit the most bottles? What did you do with your hand on those rolls?",
-     "kid": "Roll the ball. What helped it go straight?",
+     "kid": "Roll the ball. Think about what you did on your best roll.",
      "ask": [
       {
        "q": "What helps the ball hit the bottles?",
@@ -1137,7 +1137,7 @@
    "title": "Make a Colour Top",
    "mins": 20,
    "days": 1,
-   "context": "In this project you make a top from a card circle and a short pencil. You colour it, spin it, and watch the colours change. You also try to stand it up without spinning.",
+   "context": "In this project you find out why a top stands up only while it spins. You make a top from a card circle and a short pencil. You colour it, spin it, and watch the colours change. You also try to stand it up without spinning.",
    "safety": "A grown-up makes the hole in the card with a sharp pencil point, with an eraser or a lump of atta dough under the card.",
    "materials": [
     {
@@ -1172,7 +1172,7 @@
      "what": "Make the card circle, colour it, push in the pencil, then spin it and try to stand it still."
     }
    ],
-   "record": "Draw your top before spinning. Then draw what the colours looked like while it spun.",
+   "record": "Tell your grown-up what happened when you stood the top still, and what colour you saw while it spun. A grown-up can write it down. You can draw the spinning colours too.",
    "setup": [
     {
      "art": "A child drawing round a steel katori on a piece of card with a pencil.",
@@ -1193,14 +1193,14 @@
      "mins": 6,
      "do": "1. Your child draws round the katori on the card. 2. Cut out the circle. 3. Fold the circle in half, then in half again, and open it. The middle is where the folds cross.",
      "say": "Draw round the katori. Now cut out the circle. Fold it in half, then in half again. Where the folds cross is the middle.",
-     "kid": "Draw round the katori. Cut it out. Fold it to find the middle."
+     "kid": "Make a circle and find its middle."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Your child colours one half red and the other half yellow. 2. A grown-up makes a hole at the middle with a sharp pencil point. 3. Push the short pencil through, so a little of its point sticks out below.",
      "say": "Colour one half red and one half yellow. Now I'll make a hole right in the middle, and push the pencil through.",
-     "kid": "Colour half red, half yellow. A grown-up makes the hole.",
+     "kid": "Colour your circle in two halves.",
      "adult": true,
      "parent": "The hole must be at the very middle, or the top wobbles and falls at once. Keep the card about two finger-widths above the pencil point. If the card slips on the pencil, wrap a little tape round the pencil under the card."
     },
@@ -1209,7 +1209,7 @@
      "mins": 6,
      "do": "1. Your child tries to stand the top on its point without spinning. 2. Then twist the pencil top fast between finger and thumb, and let go on the plate. 3. Watch the colours.",
      "say": "First try to stand it up without spinning. What happens? Now spin it hard. What colour do you see while it spins?",
-     "kid": "Stand it still. Does it fall? Now spin it. What colour do you see?",
+     "kid": "Does it stand up on its own? Now spin it and watch.",
      "ask": [
       {
        "q": "What did the colours do?",
@@ -1247,7 +1247,7 @@
    "id": "c1",
    "title": "Make the Cup Roll Straight",
    "mins": 15,
-   "context": "This is a design challenge. A paper cup always curves round when it rolls. Your job is to make it roll straight to a doll or a teddy across the room.",
+   "context": "This is a design challenge. You find out what makes a rolling thing go straight. A paper cup always curves round when it rolls. Your job is to make it roll straight to a doll or a teddy across the room.",
    "problem": "You want to send a paper cup rolling straight to a teddy, three steps away. But the cup keeps curving round. How can you make it roll straight?",
    "constraints": [
     "The cup must roll, not slide.",
@@ -1270,7 +1270,7 @@
     "Tape two cups narrow end to narrow end.",
     "Roll a sheet of paper into a tube and slip the cup inside it, so the outside is the same width all along."
    ],
-   "your_turn": "Find one way to make the cup roll straight. Draw it, and say what you changed.",
+   "your_turn": "Find one way to make the cup roll straight. Build it, test it, and tell your grown-up what you changed. You can take a photo or draw it.",
    "setup": [
     {
      "art": "A paper cup curving off to one side on the floor, away from a teddy sitting three steps away.",
@@ -1287,7 +1287,7 @@
      "mins": 3,
      "do": "Read the problem. Sit the teddy three steps from the slope. Roll one cup to show how it curves.",
      "say": "The cup curves away from the teddy. Why does it curve? How could you make it go straight?",
-     "kid": "The cup curves. How can you make it go straight?",
+     "kid": "Watch the cup curve. Think about its two ends.",
      "ask": [
       {
        "q": "What makes the cup curve?",

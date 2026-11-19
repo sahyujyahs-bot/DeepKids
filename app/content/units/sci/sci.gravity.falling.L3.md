@@ -1,7 +1,7 @@
 # Falling: why heavy and light things land together
 `sci.gravity.falling.L3`
 
-**Summary.** Drop a full bottle of water and a bottle with only a little water together, and they land with one thud. Gravity, the force that makes things fall, pulls harder on the full bottle, because it has more mass. But more mass also needs a bigger pull to speed up, and the extra pull is exactly the extra pull that the extra mass needs. So both fall in the same way. Only air resistance, the push of the air, slows light, spread-out things like feathers and flat paper. People believed heavy things fall faster for nearly two thousand years, until careful tests showed they do not. The unit then goes further: everything with mass attracts everything else, gravity bends light and slows clocks, and nobody yet knows what gravity is deep down.
+**Summary.** Drop a full bottle of water and a nearly empty one together, and they land with one thud. Why does the heavy one not win? In this unit you will race falling things, make paper fall like a stone, test parachutes, and catch a falling ruler.
 
 **Intro.** *Hold a big potato in one hand and a small lemon in the other. Hold them at the same height. If you let go together, which will hit the floor first? Make your guess, and say why, before you try.* In 1971, an astronaut called David Scott stood on the Moon. He held a hammer in one hand and a falcon feather in the other. A camera was filming. Millions of people on Earth were watching. He let go of both at the same moment. On Earth, the feather would float down slowly and the hammer would thud down. On the Moon, there is no air. What do you think happened?
 

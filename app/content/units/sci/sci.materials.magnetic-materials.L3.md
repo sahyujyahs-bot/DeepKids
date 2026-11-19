@@ -1,7 +1,7 @@
 # Magnetic materials: what a magnet attracts, and why only some things
 `sci.materials.magnetic-materials.L3`
 
-**Summary.** A magnet sticks to a steel spoon, but often not to a steel tumbler. A magnet attracts iron, most steel, nickel and cobalt, and these are called magnetic materials. Most metals are not magnetic: a magnet does not attract aluminium, copper, brass, gold or silver. The reason is inside the atoms. Every electron is a tiny magnet. In most materials, the electrons are in pairs whose tiny magnets point opposite ways and cancel out. In iron, the tiny magnets of neighbouring atoms point the same way. A magnet test can show that a thing contains iron, but it can never show that a thing is gold.
+**Summary.** Two steel things can look alike, yet one sticks to a magnet and the other does not. Why? In this unit you will test what a magnet attracts, see if it works through paper, make a nail into a magnet, and sort a pile of scrap.
 
 **Intro.** *Take a fridge magnet into your kitchen. Touch it to a steel spoon, then to a steel tumbler. Both are grey, shiny and called steel. Will the magnet stick to both?* In many kitchens, the magnet sticks to the spoon but not to the tumbler. It also sticks to the fridge door, but falls off the wooden cupboard door right beside it. Colour and shine do not decide whether a magnet sticks. So what does? You will test sixteen things and look for the pattern. Then you will find out what is different inside the things a magnet attracts.
 

@@ -1,7 +1,7 @@
 # Stretching and springs: why things spring back, and what happens if you stretch too far
 `sci.forces.stretching-springs.L3`
 
-**Summary.** A stretched rubber band springs back when you let go, but a pen spring pulled too far stays long. The child hangs coins on a band, 5 at a time, and finds that each 5 coins add about the same stretch, up to a limit. A solid keeps its shape because the pushes and pulls between its atoms balance. Pulled too far, rows of atoms slip and settle beside new neighbours, so the shape changes for good. The same science explains tendons, spider webs and the bent rock that causes earthquakes.
+**Summary.** A stretched rubber band springs back, but a pen spring pulled too far stays long. Why? In this unit you will hang coins on a rubber band five at a time to find the pattern and the limit, test how bouncy things are, and hunt for springs.
 
 **Intro.** *Hold a rubber band between two fingers and stretch it a little. Feel it pull on your fingers. Stretch it more. Does the pull get bigger? Nothing else is touching the band. So where does that pull come from?* Give your child a rubber band and let them stretch it slowly, then let it go back. Ask two questions. What do you notice? What do you wonder? Good noticing sounds like 'the more I stretch it, the harder it pulls' or 'it gets thinner'. Write their wonders down and don't answer them yet. The coin test comes next, and it lets them find the answers for themselves.
 

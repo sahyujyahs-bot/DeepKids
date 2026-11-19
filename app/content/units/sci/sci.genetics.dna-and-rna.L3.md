@@ -1,7 +1,7 @@
 # DNA and RNA: the instructions inside every living thing
 `sci.genetics.dna-and-rna.L3`
 
-**Summary.** Grow moong, methi and mustard seeds side by side on the same wet cotton, and each grows their own shape of leaf. The shape comes from inside the seed. Every living thing carries instructions for building their body. These instructions are written in a long, thin molecule called DNA, using just four chemical letters: A, T, C and G. A cell copies the part they need into a shorter molecule called RNA, and uses that copy to build proteins, the parts that do the body's work. You got half of your DNA from your mother and half from your father.
+**Summary.** Moong, methi and mustard seeds on the same wet cotton each grow their own kind of leaf. Where does the leaf shape come from? In this unit you will grow the three seeds side by side, crack a four-letter code, and copy a recipe the way a cell copies DNA into RNA.
 
 **Intro.** *Take three seeds from the kitchen: a moong bean, a methi seed and a mustard seed. Put them on the same wet cotton, by the same window, with the same water. Will they grow into the same kind of plant? If not, where does each plant's shape come from?* The cotton, water and light give a seedling the materials and energy to grow. But they give every seed the same things. So the difference must be inside each seed. In this unit you grow the seeds and see. Then you find out what is inside: a set of instructions called DNA. Every cell of every living thing carries them, including every cell of you.
 

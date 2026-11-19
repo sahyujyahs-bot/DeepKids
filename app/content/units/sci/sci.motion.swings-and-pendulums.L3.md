@@ -1,7 +1,7 @@
 # Swings and pendulums: what changes how fast they swing
 `sci.motion.swings-and-pendulums.L3`
 
-**Summary.** A swing, a hanging bunch of keys and the weight in an old wall clock all go back and forth in the same way. Each one is a pendulum: a weight hanging from a fixed point, free to swing. In this unit you build one from a thread and a bag of coins, and time 10 swings. You find that more coins or a wider start change the time very little, but a shorter thread makes the swings quicker. That steady beat is why pendulums were used to make the first accurate clocks.
+**Summary.** Does a heavier weight make a swing quicker, or a shorter thread? In this unit you will hang a bag of coins from a thread, time ten swings while changing one thing at a time, and try to make a pendulum that swings once every second.
 
 **Intro.** *Hold a bunch of keys by its ring and let the keys hang. Pull them a little to one side and let go. They swing back and forth by themselves. Now try a tiny push and then a big push. Does the big push make each swing quicker, or only wider?* Anything that hangs from one point and swings back and forth is a pendulum. Swings, cradles, jhumkas and the keys in your hand are all pendulums. In this unit you find out what makes a pendulum swing quickly or slowly. Make a guess now, and keep it. You will test it soon.
 

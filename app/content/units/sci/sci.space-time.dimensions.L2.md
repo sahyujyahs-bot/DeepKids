@@ -1,7 +1,7 @@
 # Flat and solid: 2D and 3D shapes, and a flat creature's world
 `sci.space-time.dimensions.L2`
 
-**Summary.** Cut a round potato straight across, and the cut side is a flat circle. A solid shape, like a potato or a box, has three directions: length, width and height. A flat shape, like a circle drawn on paper, has only two: length and width. A creature who lived in a flat world could move forward, back, left and right, but never up. She would meet a solid potato one flat slice at a time.
+**Summary.** Cut a round potato straight across and the cut side is a flat circle. So what is hiding inside a solid shape? In this unit you will slice solids and trace the flat shapes inside, hunt for flat and solid things at home, and open a box out into a flat net and fold it back.
 
 **Intro.** *Look at a round potato. If a grown-up cuts it straight across, what shape will the cut side be? Will every slice be the same size?* A potato is solid. You can hold it, turn it and look at it from all sides. But the cut side of a slice is flat, like a drawing. In this unit you hunt for flat and solid things at home. You slice vegetables and trace the flat shapes hidden inside them. You look along a table with your eye level with it, the way a flat creature would see. You open a box out flat, and fold it back into a solid.
 

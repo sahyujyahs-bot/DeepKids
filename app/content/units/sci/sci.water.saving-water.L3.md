@@ -1,7 +1,7 @@
 # Cleaning and saving water: why mud sinks, and how to waste less
 `sci.water.saving-water.L3`
 
-**Summary.** Muddy water holds tiny bits of clay that can float for a day or more, even though clay is heavier than water. A pinch of phitkari, called alum in English, makes those bits stick together into clumps that sink in minutes. City water plants clear river water the same way, then pass it through sand and add a little chlorine to kill germs. Clear water is not always safe, so drinking water still needs boiling or a good purifier. Clean water takes a lot of work to make, so it is worth saving. A home saves water by turning taps off, fixing leaks and using kitchen water again for plants and mopping.
+**Summary.** Muddy water can turn clear if you drop in a crystal of phitkari. How? In this unit you will shake mud in water to see which bits sink first, test phitkari on muddy water, and measure how much water different ways of washing a plate use.
 
 **Intro.** *Stir a spoon of soil into a glass of water and leave it on the table. The sand sinks in seconds. But the water above it can stay cloudy all day. Clay is heavier than water, so why doesn't it sink?* Barbers and grandmothers across India keep a white crystal called phitkari, or padikaram in Tamil. In this unit you rub a little of it in muddy water and watch what happens to the cloudiness. You find out why the tiniest bits of dirt stay up, and how cities clean river water for millions of homes. Then you look at your own home and find where clean water is lost, and how to use it twice.
 

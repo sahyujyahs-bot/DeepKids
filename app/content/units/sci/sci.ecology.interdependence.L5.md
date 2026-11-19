@@ -1,7 +1,7 @@
 # Partners and rivals: why very different living beings trade, and why seedlings of one kind compete
 `sci.ecology.interdependence.L5`
 
-**Summary.** The grey-green patch on an old tree trunk looks like one plant. It is a lichen: a fungus and an alga, two very different living beings, living as one body. Why do beings so different join up, while seedlings of one kind in one pot get in each other's way? Your child sows 4, 16 and 64 methi seeds in three cups and finds out what crowding does. Then they study partnerships as trades: bees and flowers, roots and fungi, and lichens. They learn who gives what, who cheats, how partners keep a trade fair, and what scientists still argue about.
+**Summary.** A grey-green patch on an old tree is a lichen: a fungus and an alga living as one body. Why do such different beings join up, while seedlings of one kind get in each other's way? In this unit you will grow 4, 16 and 64 methi seeds in cups and study partners as trades.
 
 **Intro.** *Sixty-four methi seedlings in one cup all need the same light and water. A fungus and an alga inside a lichen need quite different things. Which of these two groups do you think gets along better, and why?* Living beings affect each other in many ways. Some eat others. Some compete, which means they need the same thing and there is not enough for all. And some are partners: each gives the other something, and both live better. In this unit you test competition yourself, with methi seeds in crowded and roomy cups. Then you look closely at three famous partnerships: bees and flowers, fungi and roots, and the lichens on rocks and trees. You find out what each partner gives and gets, and why partnerships are not always fair.
 

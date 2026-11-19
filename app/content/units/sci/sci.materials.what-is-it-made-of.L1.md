@@ -1,7 +1,7 @@
 # What are things made of?
 `sci.materials.what-is-it-made-of.L1`
 
-**Summary.** A paper cup holds hot tea, yet paper goes soft in water. Everything around us is made of a material: wood, metal, plastic, glass, fabric or paper, and a few more. Your child hunts for each material at home, and learns to tell them apart by looking, touching, tapping and lifting. Then they test a paper cup against a newspaper cone, and cut the cup open. They find a thin plastic skin inside. Many things are made of more than one material.
+**Summary.** A paper cup holds hot tea, yet paper goes soft in water. So is the cup only paper? In this unit you will hunt for six materials in your kitchen, cut a paper cup open to find out, and play material bingo.
 
 **Intro.** *Tea from a paper cup does not leak. But paper goes soft and soggy in water. So how can a paper cup hold tea?* Look around the room. The door, the fan, the bucket, the window, your shirt and your book are all made of something. What a thing is made of is called its material. In this unit you learn six materials: wood, metal, plastic, glass, fabric and paper. You find them all over your home. Then you solve the puzzle of the paper cup.
 

@@ -1,7 +1,7 @@
 # How to measure a force, and why we all use newtons
 `sci.forces.measuring-forces.L3`
 
-**Summary.** How many coins in a cup does it take to pull a notebook across a table? You and a grown-up can get different numbers and both be right, because you used different coins. That is why scientists everywhere agreed to measure force in one shared unit, the newton. You will invent your own unit, then learn to measure force in newtons with a forcemeter, a tool with a spring inside. Last, you will meet forces from the tiny pull of one molecule to the huge pull between the Earth and the Moon.
+**Summary.** You and a grown-up count coins to pull a notebook and get different numbers, yet both can be right. How? In this unit you will invent your own unit of pull, feel one newton, build a forcemeter, and guess how many newtons a pull needs.
 
 **Intro.** *Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of rice in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?* Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be another person's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.
 

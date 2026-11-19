@@ -1,7 +1,7 @@
 # Testing materials: which one is best for the job?
 `sci.materials.testing-materials.L2`
 
-**Summary.** A rubber band and a strip of milk packet can both be stretched. Only one of them goes back to its old length when you let go. You cannot find this out by looking. You have to test. In this unit you hang a water bottle from strips of rubber, cloth and paper, and measure how much each one stretches. You also find out which materials keep water out, and which are strong enough to lift a bottle.
+**Summary.** A rubber band and a strip of milk packet both stretch, but only one springs back. Looking will not tell you which. In this unit you will hang a water bottle from strips of rubber, cloth and paper and measure the stretch, test which materials keep water out, and test which strip lifts the bottle best.
 
 **Intro.** *Hold a rubber band in one hand and a strip of an old milk packet in the other. Pull both gently. Both get longer. Now let go. What happens to each one?* The rubber band snaps back. The milk packet strip stays long and thin. Both looked like soft, bendy things before you pulled them. A material can surprise you, so scientists test it. A test means doing something to a material on purpose and watching what happens. Before you read on, guess. Which material in your home stretches the most? You are going to find out.
 

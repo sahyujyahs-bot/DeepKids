@@ -1,7 +1,7 @@
 # Germs: how illness travels from person to person
 `sci.microorganisms.germs.L3`
 
-**Summary.** You can catch a cold from someone you never touched. Germs are the few microbes that can make us ill, and they cannot walk or fly from one person to the next. They ride on hands, on the things hands touch, in the drops of a cough, in water and food, and on flies and mosquitoes. Once inside a body, a few germs can multiply into millions, and that is an infection. An illness spreads along a chain of links. The first link is the ill person. Next, the germs ride on something, such as a hand or a door handle. Last, they reach the next person. If you break any one link, the illness stops there.
+**Summary.** Can germs reach a person you never touched? In this unit you will count the hands on a door handle, follow a glitter trail to see how germs spread, find the bad well like John Snow, and build and break a chain of illness.
 
 **Intro.** *Think of the main door of your flat. Who touched its handle today? Count everyone, and then think about who touched the things they touched.* Germs are far too small to see, and they have no legs or wings to cross a room. Yet a cold can go round a whole family in a week, and a tummy bug can go round a whole school. So how does a germ get from one person to another? In this unit you follow the trail with glitter, which you can see, and find out how far one hand can reach.
 

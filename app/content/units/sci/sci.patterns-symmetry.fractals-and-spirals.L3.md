@@ -1,7 +1,7 @@
 # Fractals and spirals: patterns that repeat inside themselves
 `sci.patterns-symmetry.fractals-and-spirals.L3`
 
-**Summary.** Break a floret off a cauliflower and you hold a small cauliflower. Break a piece off that, and you get a smaller one again. A shape whose parts look like smaller copies of the whole is called a fractal. Ferns, trees, rivers, your lungs and the bendy edge of a coast are all fractal in this way. A coast has bends inside bends, so the shorter your ruler, the longer the coast measures. Spirals are another pattern that grows: a snail adds to the open end of their shell, and a sunflower places each new seed in the biggest gap left by the others.
+**Summary.** Why does a piece broken off a cauliflower look like a small cauliflower? In this unit you will look for shapes that repeat inside themselves, measure a bendy coast on a map with long steps and short steps, and count the spirals on a pineapple.
 
 **Intro.** *Take a cauliflower from the kitchen. Break off one floret. Hold it next to the whole cauliflower. What do you notice? Now break a tiny piece off the floret. What does that piece look like?* Each piece looks like a smaller copy of the whole cauliflower. Many things in nature are built like this, with the same shape repeating at smaller and smaller sizes. In this unit you will find these patterns in a cauliflower, a leaf and your own body. You will measure a coast on a map and find that its length depends on the ruler you use. And you will count the spirals on a pineapple and find out why a snail's shell curls.
 

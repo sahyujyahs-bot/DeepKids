@@ -1,7 +1,7 @@
 # The life cycle of a flowering plant: how fruit ripens, how plants time their lives, and how they end
 `sci.seeds-and-life-cycles.plant-life-cycle.L4`
 
-**Summary.** A hard green mango sits in a paper bag with a very ripe banana. The two never touch, yet the mango turns soft and yellow days before a mango left alone. A gas travels through the air between them. In this unit your child tests that ripening gas, finds out why leaves turn yellow, and grows new money plants from cuttings. Then the unit looks at a plant's whole life: plants that flower in one season or many, plants that store food for a second year, ferns that grow from spores as fine as dust, and trees whose rings record how good each year was.
+**Summary.** A hard green mango in a paper bag with a ripe banana turns soft and yellow days before a mango left alone, though they never touch. Why? In this unit you will test this yourself, find out what turns a leaf yellow, and sort kitchen foods that are a plant's stored savings.
 
 **Intro.** *Take two hard green mangoes. Put one in a paper bag with a very ripe banana. Put the other in a paper bag alone. Wait four days and press both. The mango that sat with the banana is usually softer. The banana never touched it. So how could one fruit change the other?* Ripening looks like something each fruit does alone, slowly, as time goes by. But a ripe fruit also sends out a gas that changes the fruit nearby. In this unit you test that gas. You also find out why a leaf turns yellow, where a new money plant can grow roots, and how long different plants live. Some plants flower for a single season and some flower for hundreds of years. At the end you will see a plant's life as a whole, from the first leaf to the last.
 

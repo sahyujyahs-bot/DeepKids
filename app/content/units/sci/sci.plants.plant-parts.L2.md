@@ -1,7 +1,7 @@
 # Plant parts we eat, and how a cactus, a lotus and a banyan use theirs
 `sci.plants.plant-parts.L2`
 
-**Summary.** Put a piece of brinjal and a piece of potato in a bowl of water. The brinjal floats and the potato sinks. Every vegetable is a part of a plant: a root, a stem, a leaf, a flower, a fruit or a seed. What is inside a part depends on the job it does for the plant. Some parts store food. Some parts hold air. In this unit you sort the food in your kitchen by plant part, and test which parts float. You also meet three plants with very different parts: a cactus in a dry desert, a lotus in a pond and a huge banyan tree.
+**Summary.** A piece of brinjal floats in water, but a piece of potato sinks. Why? In this unit you will sort the vegetables in your kitchen by the plant part you eat, test which plant parts float and which sink, and compare the parts of a cactus, a lotus and a banyan.
 
 **Intro.** *Next time someone washes vegetables, watch the bowl. Some pieces float on top. Some pieces go to the bottom. Which ones float in your home?* Every vegetable we eat is one part of a plant. A carrot is a root. Palak is a leaf. A brinjal is a fruit, and chana is a seed. These parts are not all made the same way inside. Some are packed tight with food. Some have tiny spaces full of air. Before you read on, make a guess. Will a piece of potato float or sink? You are going to find out.
 

@@ -1,7 +1,7 @@
 # Carrying capacity: why no population grows for ever, and why hunters and hunted rise and fall
 `sci.ecology.populations.L5`
 
-**Summary.** One bacterium can split into two in about 20 minutes. If she and all her daughters kept splitting that fast, in about two days they would weigh more than the whole Earth. That has never happened. Every population slows down and stops growing when the place runs short of something its members need. The largest number a place can keep alive year after year is called its carrying capacity. Your child grows a paper forest on a grid until it is full, and draws the S-shaped graph of its growth. They also find out why the numbers of a hunter and the hunted rise and fall one after the other.
+**Summary.** One bacterium can split in two in about 20 minutes. If all her daughters kept splitting, they would soon outweigh the Earth. Yet that never happens. In this unit you will double rice grains square by square, grow a paper forest until it is full, and plot a real island's reindeer.
 
 **Intro.** *Put one grain of rice on the table today. Tomorrow put two, the next day four, and double it every day. On which day would you need more rice than a whole one-kilogram packet holds? Guess the day, and say why you think so.* A one-kilogram packet holds roughly 50,000 grains. Most people guess a day far too late. In the first activity, Doubling Rice, you find the real day with real grains. Living beings multiply in the same doubling way. So here is the question for this unit. If every living being can double, why is the world not buried in bacteria, or rats, or deer? What stops them, and at what number?
 

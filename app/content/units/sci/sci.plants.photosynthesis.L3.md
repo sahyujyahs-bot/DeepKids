@@ -1,7 +1,7 @@
 # Photosynthesis: how leaves make food from air, water and light
 `sci.plants.photosynthesis.L3`
 
-**Summary.** A huge tree grows from a small seed, yet the soil they grow in hardly gets lighter. Most of the tree is built from the air. Green leaves take in carbon dioxide, a gas in the air, and water from the roots. They use the energy of sunlight to join them into sugar. This is called photosynthesis. Oxygen is left over and goes out into the air. The plant builds their whole body from that sugar, and almost every food we eat began this way. Scientists know the main steps well. Some details, like how a leaf moves the energy of light so quickly, are still being worked out.
+**Summary.** A huge tree grows from a small seed, yet the soil it grows in hardly gets lighter. So where does the tree come from? In this unit you will watch leaf discs rise in light, test a leaf for starch with iodine, and play a leaf kitchen game.
 
 **Intro.** *Pick up a mango stone. This seed fits in your palm, yet the mango tree they grow into can weigh more than a lorry. Where does all that tree come from?* Most people, even most grown-ups, guess the soil. That seems obvious, because a plant sits in soil all their life. Nearly 400 years ago, Jan Baptist van Helmont, a doctor in what is now Belgium, tested that guess. He dried and weighed a big pot of soil. He planted a small willow tree in the pot and gave the tree only rainwater for five years. Then he weighed everything again. The tree had gained about 75 kilograms. The soil had lost only about 60 grams. So the tree did not come from the soil. In this unit, you will find out where the tree did come from.
 

@@ -1,7 +1,7 @@
 # Symmetry in nature and art: why so many shapes have matching parts
 `sci.patterns-symmetry.symmetry-in-nature.L3`
 
-**Summary.** Fold a hibiscus flower's picture down the middle, and the two halves match. Turn a snowflake one-sixth of the way round, and it looks the same again. Both are kinds of symmetry: a shape has symmetry when a part of it is repeated by flipping or turning. In this unit you blow a raft of soap bubbles and find that, in the middle, most of them press into six-sided shapes that nobody drew. At the edge, where the push is not the same on every side, the bubbles come out lopsided. The same idea helps explain snowflakes, flowers, honeycomb and the kolams and rangolis people draw. You also find out why a flower's even shape helps her bees, why animals that walk or swim have a left and a right side, and why no living body is perfectly even.
+**Summary.** Why do crowded soap bubbles press into six-sided shapes that nobody drew? In this unit you will blow a raft of bubbles, hunt for folding and turning symmetry at home, cut fruits across to count their pattern, and draw a kolam with four matching quarters.
 
 **Intro.** *Look at a five-petalled flower, such as a periwinkle or a hibiscus. Now look at a kolam at a doorstep, or a rangoli at Diwali. A person drew the kolam carefully, turning it as she went. But who drew the flower? Nobody did. So how did the flower come out so even?* People have asked this for a very long time. In this unit you look for two kinds of symmetry: shapes that match when folded, and shapes that match when turned. Then you make even shapes appear with soap bubbles, without drawing them. That gives you a real answer to how nature makes symmetry without a plan, and why the evenness sometimes breaks.
 

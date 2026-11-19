@@ -1,7 +1,7 @@
 # Caring for the place we share: litter, plants and small animals
 `sci.environment.caring.L1`
 
-**Summary.** A toffee wrapper dropped on the road does not stay there. Rain and wind carry light litter along, into drains, rivers and the mouths of animals. Your child puts clean litter on the bathroom floor, pours a mug of water to be the rain, and watches where each thing goes. Then we look after the beings who share our home: we water a plant only when the soil is dry, and we gently carry outside a small animal who has come indoors. Our environment is everything around us. Every living being in it needs a clean place to live.
+**Summary.** A toffee wrapper dropped on the road does not stay where it falls. In this unit you will pour a mug of water as pretend rain over litter in the bathroom to see where it goes, and make one corner of your home cleaner.
 
 **Intro.** *Drop a scrap of paper in front of the fan. Where does the paper land?* The paper does not stay where you dropped it. The moving air carries it across the room. Rain does the same thing to litter outside. Litter is rubbish left where it does not belong. In this unit we find out where litter goes, and who it meets on the way. Then we learn how to care for the plants and small animals who live near us.
 

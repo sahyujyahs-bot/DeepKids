@@ -1,7 +1,7 @@
 # Time: how we know it is passing, and how clocks and calendars count it
 `sci.space-time.time.L2`
 
-**Summary.** A spoonful of salt runs out of a paper cone in about the same time, again and again. That steady running makes the cone a clock. Your child makes this salt timer, tests it, and finds that every clock works by counting something that changes steadily. They put events in order, before and after. They read the family calendar, which in many Indian homes shows two or three dates for one day. They also meet people who picture time as a line, as a wheel, or even running from east to west.
+**Summary.** A spoonful of salt runs out of a paper cone in about the same time each go. Can that be a clock? In this unit you will make a salt timer and test it, look for clues that time has passed, put events in order, and hunt the family calendar for how many dates today has.
 
 **Intro.** *Close your eyes and sit still. Now open them. Did time pass? How do you know?* Most children say 'yes', and then find it hard to say how they know. Nobody can see or touch time. We notice it because things change: the fan turns, the light fades, you get hungry. In this unit we look for clues that time has passed. Then we make a clock out of salt and paper, and test whether it keeps steady time.
 

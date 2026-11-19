@@ -1,7 +1,7 @@
 # What we need to live: air, water, food, clothes and a home
 `sci.basic-needs.basic-needs.L1`
 
-**Summary.** You take a breath every few seconds, and you never stop. Every person needs air, water and food again and again, because the body keeps using them up. Clothes and a home keep us safe from sun, rain, cold and wind. These five are our basic needs. Your child builds a little wind shelter from a box and finds out which way its open side must face to keep a tissue still in the fan's wind.
+**Summary.** You take a breath every few seconds and never stop. Why? In this unit you will count the five things every person needs, build a small wind box from a box and a tissue, and find which way its door must face to keep the air calm.
 
 **Intro.** *Think of a baby, a grandmother and a crow at the window. What does each one need every single day?* Say your guesses out loud first. Then count them on your fingers. In this unit we find the five things every person needs: air, water, food, clothes and a home. We find out why we need some of them every few seconds and some only a few times a day. And we build a little home from a box, put it in front of a fan, and test which way its door should face.
 

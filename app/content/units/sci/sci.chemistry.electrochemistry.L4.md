@@ -1,7 +1,7 @@
 # Batteries, electrolysis and rust: what happens when a metal gives away electrons
 `sci.chemistry.electrochemistry.L4`
 
-**Summary.** Push a zinc-coated nail and a copper wire into a lemon. A pair of earphones joined to them will crackle. The lemon holds no electricity. The zinc gives away electrons, and they travel through the wire to the copper. Your child tests which pairs of metals work. Then they use four AA cells to rust a nail in ten minutes and to split water into two gases. They find that a battery, split water and rust are one kind of change. In each, electrons move from one substance to another.
+**Summary.** A lemon with two bits of metal in it can make electricity. How? In this unit you will build a lemon battery and try different pairs of metals, read the volts on batteries at home, and rust nails with a cell to see why iron rusts.
 
 **Intro.** *A lemon has no battery inside it. So how can a lemon make a pair of earphones crackle?* A lemon alone does nothing to a pair of earphones. A lemon with two copper wires does nothing either. But a lemon with one copper wire and one zinc-coated nail makes the earphones crackle. In this unit you find out why the two metals must be different. You also make a steel nail rust in ten minutes, and split water with four AA cells. All three happen for the same reason. The cells you use are small ones, and you never use electricity from a wall socket.
 

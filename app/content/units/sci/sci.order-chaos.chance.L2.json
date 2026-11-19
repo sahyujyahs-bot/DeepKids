@@ -3,7 +3,7 @@
  "title": "Coins and dice: why many tosses are easier to guess than one",
  "level": 2,
  "summary": {
-  "text": "Nobody can say whether the next coin toss will land heads or tails. But toss a coin 20 times, and heads comes up close to 10 times. Do it again, and again it is close to 10. Roll a die 30 times, and a six comes up only about 5 times, because a die has six faces and the six is only one of them. Each single toss or roll is a surprise. Many of them together follow a pattern we can count on. Chance is how likely something is when we cannot know for sure.",
+  "text": "Nobody can say how one coin toss will land, but twenty tosses give close to ten heads. Why? In this unit you will toss a coin and roll a die many times and keep a tally, play a slips game, and sort things into certain, likely, unlikely and impossible.",
   "art": "A child sitting on a bed with a steel tumbler and a coin, and a tally sheet beside her with two rows of marks, one for heads and one for tails, almost the same length."
  },
  "intro": {

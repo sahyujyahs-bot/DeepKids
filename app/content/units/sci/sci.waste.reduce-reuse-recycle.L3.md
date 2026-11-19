@@ -1,7 +1,7 @@
 # Reduce, reuse, recycle: why a peel rots and plastic stays
 `sci.waste.reduce-reuse-recycle.L3`
 
-**Summary.** A banana peel left on soil is gone in a few weeks. A plastic packet left in the same place is still there years later. The peel rots because tiny living things in the soil, called microbes, feed on it. They cut it up with enzymes, which are tiny tools that fit the peel's molecules. Almost no microbe has an enzyme that fits plastic yet. So the best plan is to make less waste in the first place. Next comes using things again and mending them, and recycling comes last. You will bury four things in jars of soil, act out a bottle's journey, and mend something at home.
+**Summary.** A banana peel rots in a few weeks, but a plastic bag stays. Why? In this unit you will bury things in jars and watch them for two weeks, test which bag carries the most, and make a no-sew T-shirt bag and mend something on a repair day.
 
 **Intro.** *Hold a banana peel in one hand and an empty milk packet in the other. If you buried both in a pot of soil today, which one would still be there when you are grown up?* Every day, Indian homes throw out peels, packets, bottles and paper. A van or a cart takes them, and we never see them again. But they have not left the world. They have only moved somewhere else. A banana peel can turn into soil in a few weeks. A plastic toothbrush made when your grandparents were young may still be lying somewhere today. Why does one disappear and the other stay? The rot jar test will show you, and the science will explain it.
 

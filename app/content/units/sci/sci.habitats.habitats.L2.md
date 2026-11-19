@@ -1,7 +1,7 @@
 # Habitats: why a frog lives in a pond and moss grows on a wet wall
 `sci.habitats.habitats.L2`
 
-**Summary.** Why does green moss grow on an old brick wall, but not on the shiny granite steps beside it? A habitat is the place where a plant or an animal lives and finds what they need: water, food, air, shelter and the right warmth. A pond, a forest, a desert and the seashore are habitats, and each one suits different living beings. Rocks are part of every habitat. They give shelter, some of them hold water, and over a very long time they crumble into soil. Your child stands a clay diya and a smooth stone in water, puts mustard seeds on top of both, and finds out which one can be a home for a seed.
+**Summary.** Why does moss grow on an old brick wall but not on the shiny stone steps beside it? In this unit you will stand a clay diya and a smooth stone in water with mustard seeds on top, rescue animals from the wrong home in a game, and find plant homes in your flat.
 
 **Intro.** *Put a fish on the hot sand of the Thar desert, or a camel in the sea, and neither would be all right for long. Why?* The fish needs water all around, to breathe through gills. The camel needs dry land to walk on and fresh water to drink, and the sea is salty. Each living being has a place that suits their body. That place is called their habitat. In this unit we look at habitats near and far: a pond, a forest, a desert, the seashore, and even a rock. Then we test whether a stone can be a home for a seed.
 

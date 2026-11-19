@@ -1,7 +1,7 @@
 # Exploring space: why rockets and astronauts must carry their own air
 `sci.sky.exploring-space.L3`
 
-**Summary.** A rocket's engine is a fire, and a fire needs oxygen from the air. But the air ends a short way above our heads, and space beyond it is almost empty. So a rocket carries its own oxygen as well as its fuel, and astronauts carry their own air. Telescopes let us explore from the ground, because they collect far more light than our eyes can. India explores space too: its rockets launch from Sriharikota, Chandrayaan-3 landed near the Moon's south pole in 2023, and Indian astronauts have flown to space.
+**Summary.** Why must a rocket carry its own oxygen? In this unit you will put a candle under a jar to see how long a flame can burn on the air it has, make a lime-sized Earth to see how far space is, and pack a bag for an astronaut's day.
 
 **Intro.** *A rocket's engine burns fuel, and burning needs air. There is no air in space. So how does a rocket's fire keep burning up there?* In this unit you cover a candle with jars of different sizes and time how long the flame lasts. You make a lime-sized Earth and find how close space really is. You cover half a magnifying glass to find out what a big telescope is for. And you meet the people and machines that India has sent beyond the air: rockets from Thumba and Sriharikota, Chandrayaan on the Moon, Mangalyaan at Mars, and Indian astronauts.
 

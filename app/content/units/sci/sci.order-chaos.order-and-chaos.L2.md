@@ -1,7 +1,7 @@
 # Neat and messy: why a falling leaf never lands in the same place twice
 `sci.order-chaos.order-and-chaos.L2`
 
-**Summary.** Drop a crumpled ball of paper ten times, and it lands near the same spot every time. Drop a flat paper leaf the same way, and it lands somewhere new each time. Both are pulled down by gravity, and the air pushes against both. The air pushes the light, flat leaf so much that the smallest change sends it somewhere else. Splashes, falling leaves and clouds are like this: they follow rules, but they never happen the same way twice. A kolam drawn around a grid of dots is different. It follows a rule that tells you where the line goes, so you can draw it the same way every morning.
+**Summary.** A paper ball lands in about the same spot each time you drop it, but a flat paper leaf lands somewhere new. Why? In this unit you will drop both and see where they land, make splashes to see if any two match, and draw a kolam that follows a rule.
 
 **Intro.** *Try this. Tear two pieces of paper the same size. Crumple one into a tight ball. Hold both up high and let go at the same moment. Which one lands right under your hand? Do it again. Did the flat one land in the same place as last time?* Some things happen the same way every time. The Sun rises in the east, and a ball of paper falls straight down. Other things never happen the same way twice. A falling leaf, a splash of water and the shape of a cloud are always new. In this unit you find out why. You test a flat paper leaf and a paper ball, make splash prints with haldi water and draw a kolam. You also learn what scientists mean by order and chaos, and find out that even messy things follow rules.
 

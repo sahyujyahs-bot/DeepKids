@@ -1,7 +1,7 @@
 # See-through and opaque: how we see clear things, and what really stops light
 `sci.light.transparent-opaque.L4`
 
-**Summary.** A clear glass marble is easy to see in the air, yet in a jar of honey it almost vanishes. Nothing about the marble changed. Your child tests clear things in water, oil and honey, and finds that we never see a clear thing itself, only what it does to light at its edges. Then two see-through filters laid together turn dark, a heap of clear sugar crystals looks white, and an X-ray sees through a hand that stops sunlight. Along the way, you find out why the sea loses its colours one by one, and how an animal can be see-through and still be seen.
+**Summary.** A clear glass marble almost vanishes in honey. Why, and why does a heap of clear sugar crystals look white? In this unit you will hide a clear thing, find a hidden marble three ways, and use two see-through filters to make darkness.
 
 **Intro.** *Put a clear glass marble in a jar of honey, and it almost vanishes. Take it out and it is easy to see again. The marble did not change, and neither did the honey. So what were you looking at when you saw the marble in the air?* A window is see-through, but we are very good at noticing when there is one, because we see the frame, the dust and the glints on the glass. In this unit you find out why we can see clear things at all, and what happens to every bit of light that falls on something. You will make a clear thing vanish, turn clear crystals white, and make two see-through filters give darkness. You will also meet some waves that go straight through things that stop light completely.
 

@@ -1,7 +1,7 @@
 # How people learned about the sky, and made clocks and calendars from it
 `sci.sky.history-of-astronomy.L3`
 
-**Summary.** Long before clocks and phones, people in Babylon, Greece, India, China and the Maya lands watched the sky every night and wrote down what they saw. They found that the sky repeats: the Earth turning gives the day, the Moon gives the month, and the Earth going round the Sun gives the year. Every calendar in the world is built from these three repeats. To count time at night, people made water clocks, such as the Indian ghati, a bowl with a hole that sinks in a set time. In this unit you build one, and find out how steady it really is. You also meet Parameshvara, a Kerala astronomer. He watched eclipses for most of his life, and showed that old tables of the sky had drifted.
+**Summary.** How did people tell the time at night before clocks? In this unit you will build a sinking cup water clock like the old Indian ghati and time it three times to see how steady it is. You will also draw a day of 60 nazhigai and test your sense of a minute.
 
 **Intro.** *Close your eyes. Say 'now' when you think one minute has passed. A grown-up checks with a clock. Were you early or late? Before clocks, how did people know the time at night?* Your own sense of time drifts, so people looked for something steadier. They found it in the sky. The Sun rises again every morning. The Moon grows full about every 29 and a half days. The seasons come round again every 365 days. People counted these repeats and made calendars. They made water clocks to count the hours between sunset and sunrise. In this unit you make a sinking cup clock, test how steady it is, and meet the sky-watchers who taught the world to count time.
 

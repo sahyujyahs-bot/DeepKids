@@ -1,7 +1,7 @@
 # Endemic species and extinction: why rare living beings need protected places
 `sci.ecology.biodiversity.L5`
 
-**Summary.** On Narcondam, a small island in the Andaman Sea, lives a hornbill who is found nowhere else on Earth. All the wild lions of Asia live in and around one forest in Gujarat. A species that lives in only one place is called endemic. When that one place is harmed, the whole species can become extinct, which means gone for ever. This unit shows why a small place and a small number are both risky. It also shows how protected areas, laws and ordinary people have kept species alive.
+**Summary.** All the wild lions of Asia live in and around one forest in Gujarat. What if that place is harmed? In this unit you will cut a paper forest in half, flip coins to see how a small group can die out, and choose places to protect.
 
 **Intro.** *All the wild lions of Asia live in and around one forest, the Gir forest in Gujarat. In 2020 there were 674 of them. Is 674 lions in one forest a safe number? What could go wrong?* A crow lives in almost every town in India. If the crows of one town died, there would still be crows everywhere else. A lion-tailed macaque lives only in the rainforests of the Western Ghats. If those forests go, there is no other place with lion-tailed macaques. In this unit you test what happens to rare species when a forest shrinks. You test whether a small group can die out by bad luck alone. Then you meet the people who have protected forests, from a village in Rajasthan in 1730 to women in Assam today.
 

@@ -1,7 +1,7 @@
 # Rocks: hard and soft rocks, what we use them for, and how pebbles get round
 `sci.planet-earth.rocks.L2`
 
-**Summary.** A pebble from a river is smooth and round, but a freshly broken stone has sharp corners. What made the pebble round? Rocks are made of tiny grains called minerals, and some rocks are much harder than others. People choose each rock for a job: hard granite for steps and grinding stones, soft chalk for writing, marble for floors. Your child shakes chalk, salt and stone pieces in a steel tiffin to see which ones lose their corners, and tests rocks with a fingernail, a coin and a key. Last, we ask what happens to a hill or a river when people dig rock and sand out of it.
+**Summary.** A river pebble is smooth and round, but a freshly broken stone has sharp corners. What made the pebble round? In this unit you will shake chalk, salt and stone in a steel tiffin to see which lose their corners, test rocks with a fingernail, a coin and a key, and match rocks to jobs.
 
 **Intro.** *A broken stone has sharp corners. A river pebble is smooth and round. What made the pebble round?* Hold a pebble from a plant pot, if you have one. Run your finger over it. There are no sharp corners at all. Now look at a stone chip, or a broken piece of tile. Its edges are sharp. Both are rock. In this unit you find out how a sharp rock can turn into a round pebble, and why some rocks wear away much faster than others. You also find out which rocks are in your home, and why people chose them.
 

@@ -1,7 +1,7 @@
 # Floating and sinking: why a heavy rolling pin floats and a light coin sinks
 `sci.states.floating-and-sinking.L2`
 
-**Summary.** A heavy wooden rolling pin floats in a bucket of water, but a light one-rupee coin sinks. Your child guesses first, then tests ten things from the kitchen to see which float and which sink. They find that how heavy or how big a thing is does not decide it. A tiny piece of potato sinks, just like the whole potato. What a thing is made of, and whether it holds air inside, decides if it floats.
+**Summary.** A heavy wooden rolling pin floats, but a light coin sinks. What decides it? In this unit you will line up kitchen things by how heavy they feel, guess first, then test them in a bucket of water, and push things down to feel the water push back.
 
 **Intro.** *Hold a wooden rolling pin in one hand and a one-rupee coin in the other. Which one is heavier? Now guess: which one will sink in a bucket of water?* Most people guess that the heavy rolling pin will sink and the light coin will float. You are going to drop them in and see. Then you will test many more things from the kitchen. If weight does not decide what sinks, what does? This unit answers that question, and your own test will show you.
 

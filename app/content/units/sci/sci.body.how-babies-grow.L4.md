@@ -1,7 +1,7 @@
 # One cell, many jobs: how a baby's body gets built
 `sci.body.how-babies-grow.L4`
 
-**Summary.** Nearly every cell in your body holds the same full set of instructions. So why is one cell part of a fingernail and another part of your eye? In the womb, cells find their job from their place among their neighbours. A signal spreads from one spot and gets weaker with distance, and each cell reads how much has reached them. Your child tests this idea with strips of paper and dye. They also find out why the gaps between fingers are made by cells that die, how a baby breathes without air, why growth is fast and then slows, and how practice rewires a brain.
+**Summary.** Every cell in your body holds the same instructions, yet some become skin and some become brain. How do they choose? In this unit you will use a colour map to see how cells can know where they are, see how a hand is made by taking away, and test how fast practice works.
 
 **Intro.** *Spread your fingers wide and look at the gaps between them. Before you were born, there were no gaps. Your hand was a flat paddle, like a tiny oar. What made the gaps?* Nothing was cut and nothing was glued. Cells between the fingers received a signal, and they died on purpose. That left five fingers. In this unit you find out how a body is built from one cell. You test how a signal that fades with distance can tell cells where they are. You time yourself writing with the wrong hand, to see how practice changes a brain. You also learn how a baby breathes and eats before birth, and why growth is fastest at the very start.
 

@@ -1,7 +1,7 @@
 # Organs inside you: where they sit and what they do
 `sci.body.organs-inside.L3`
 
-**Summary.** Most people think the stomach is behind the belly button, but it sits higher, under the ribs on the left. An organ is a body part with a special job. Your heart pumps blood, your lungs take in air, your stomach churns food and your brain sends and receives messages. Bone and liquid protect the soft organs, and each organ needs all the others to stay alive. Scientists know where organs are and what they do, but not yet how a brain makes a thought.
+**Summary.** Where do your heart, lungs, stomach and brain sit, and what keeps them safe? In this unit you will feel your insides, make a life-size organ map, see how liquid protects a brain with an egg in a jar, and squeeze a bag to see whether churning breaks down food.
 
 **Intro.** *Put your hand flat on your chest and keep very still. You can feel a beat under your hand. It started before you were born, and it goes on while you sleep. What is beating, and where exactly is it?* Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this unit you find out where each organ sits, what it does and how the organs help each other.
 

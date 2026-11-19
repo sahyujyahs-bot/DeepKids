@@ -1,7 +1,7 @@
 # Senses in action: how long a signal takes, and how the brain guesses
 `sci.senses.five-senses.L4`
 
-**Summary.** A friend drops a ruler between your fingers without warning. You grab it, but never before it has fallen a hand-length. Light from the falling ruler reached your eye almost at once, so where did the delay happen? Your child times a signal on its way from eye, ear and skin to the hand, then asks how big a change must be before a sense notices, why a smell fades while you stand in it, and why you cannot tickle yourself. Along the way you meet pain that arrives in two waves, a rubber hand that starts to feel like yours, and animals that sense magnetic fields and electricity. Nobody yet knows how a brain makes one steady 'now' out of signals that all arrive late.
+**Summary.** A friend drops a ruler between your fingers, and you always catch it only after it has fallen a hand-length. Where does the delay happen? In this unit you will measure your reaction time with a falling ruler, test how fast a smell fades from your nose, and try the rubber hand trick.
 
 **Intro.** *Ask a friend to hold a ruler upright, with its bottom between your finger and thumb. Do not move. Your friend lets go without any warning. Close your fingers as fast as you can. Look at the number where you caught it. Did your fingers close at once?* They did not. The ruler fell a hand-length or so before you caught it, even though you saw it start to fall. In this unit you measure that delay for the eyes, the ears and the skin, and you find out where the time goes. Then you test how small a change a sense can notice, how a smell fades while you stand in it, and how your brain guesses what is about to happen. You also meet animals that sense magnetism and electricity.
 

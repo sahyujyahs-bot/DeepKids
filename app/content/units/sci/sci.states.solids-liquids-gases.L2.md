@@ -1,7 +1,7 @@
 # Solids, liquids and gases: why water takes the shape of its glass
 `sci.states.solids-liquids-gases.L2`
 
-**Summary.** Pour water from a tumbler into a tall, thin bottle, and it looks like more. Pour it into a wide bowl, and it looks like less. Your child tests this, then pours the water back to check whether the amount changed. A solid, like a steel spoon or an ice cube, keeps its own shape wherever you put it. A liquid, like water or milk, flows and takes the shape of whatever holds it. A gas, like air or steam, spreads out to fill every corner. Ice, water and steam are the same water in three different states.
+**Summary.** If you pour water from a tumbler into a tall bottle, does it become more water? In this unit you will pour one tumbler of water into three different shapes and check, sort things into solids, liquids and gases, and look closely at a boiling kettle to see where the steam is.
 
 **Intro.** *Fill a glass tumbler halfway with water. If you pour that water into a tall, thin bottle, will there be more water, less water, or the same?* Many children say the thin bottle will have more, because the water will stand taller. Some say less. You are going to pour it and find out. Water can change its shape in a moment. An ice cube cannot. Why is that? This unit answers that question, and you will test the answer yourself.
 

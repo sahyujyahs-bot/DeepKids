@@ -1,7 +1,7 @@
 # Galaxies: cities of stars, and our home in the Milky Way
 `sci.story-of-universe.galaxies.L3`
 
-**Summary.** On a dark night far from city lights, a pale band of light stretches across the sky. It is the Milky Way, and it is made of billions of stars too faint and too close together for our eyes to tell apart. The Milky Way is our galaxy: a huge flat disc of stars, gas and dust, held together by gravity. The Sun is one of its stars, and we see the disc from inside, as a band. Beyond it are hundreds of billions of other galaxies, each a city of stars. A hundred years ago, most astronomers thought the Milky Way was the whole universe.
+**Summary.** Why does the Milky Way look like a pale band across the night sky? In this unit you will see when two far lights blur into one glow, count rice grains to find the middle of a galaxy, and work out how big the Milky Way is if the solar system were a coin.
 
 **Intro.** *Look at a photo of the night sky taken far from any city. A pale strip runs across it, like a long thin cloud. It does not move like a cloud, and it is there every clear night. What is it made of?* In this unit you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. This is why the Milky Way looks like a milky glow and not like separate stars. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.
 

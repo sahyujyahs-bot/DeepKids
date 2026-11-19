@@ -1,7 +1,7 @@
 # Two ways to divide, cells with no job yet, and cells that die on time
 `sci.what-is-life.cells-divide.L5`
 
-**Summary.** A piece of pudina stem with no roots can grow a whole new plant in a tumbler of water. A piece of your finger cannot grow a new you. Yet you and the pudina are both built by cells that divide. In this unit you find out which pieces of a stem can regrow, and why. You learn the two ways a cell can divide: mitosis, which makes copies, and meiosis, which makes egg and sperm cells that are all different. You meet stem cells, which have not taken a job yet. And you find out why your fingers are separate: the cells between them died on time, by plan.
+**Summary.** Your fingers began as a flat paddle, so some of your cells had to die on time. How does a body make a hand? In this unit you will test which piece of a mint stem grows roots, and act out two ways cells divide with paper chromosomes.
 
 **Intro.** *Cut a 6 centimetre piece from a pudina stem and stand it in water. In about a week it grows roots, and later it becomes a whole plant. The piece had no roots at all. So which cells made the new roots, and where in the stem were they waiting? Say what you think, and why.* You will test this yourself in the Pudina Pieces Test, with four kinds of pieces. Before that, here is a second puzzle. Every cell in your body came from one first cell, by copying. Copies are the same as each other. So why are a brother and a sister from the same two parents not copies of each other? Both puzzles are about how cells divide, and about what a cell is still able to become.
 

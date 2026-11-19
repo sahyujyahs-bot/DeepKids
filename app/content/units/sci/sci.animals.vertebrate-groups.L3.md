@@ -1,7 +1,7 @@
 # Animals with a backbone: the five groups and how they keep warm
 `sci.animals.vertebrate-groups.L3`
 
-**Summary.** A house lizard and a pigeon both have a backbone, but they keep warm in very different ways. Animals with a backbone are called vertebrates, and scientists sort them into five groups: fish, amphibians, reptiles, birds and mammals. Birds and mammals make their own body heat from food. Most fish, amphibians and reptiles take their warmth from the sun, the ground or the water around them. The groups also differ in how they breathe and how they have babies, and scientists still argue about how warm the dinosaurs were.
+**Summary.** Why does a lizard sit on a sunny wall, while you do not need to? In this unit you will test whether a fur coat keeps warmth in, watch a lizard in sun and shade, sort animals into the five backbone groups, and see why frogs lay eggs in water.
 
 **Intro.** *In a cold north Indian winter, the house lizards in many homes seem to disappear for weeks. The pigeons on the window ledge stay busy all winter. Where do the lizards go, and why don't the pigeons need to hide?* The house lizard and the pigeon both have a backbone. Both breathe air. But they keep warm in two different ways. A lizard's body is about as warm as the air around them. On cold days they hide in a crack or behind a cupboard, still and slow, until the weather warms up. A pigeon makes heat inside their own body from the food they eat, all day and all night. Where winters are warm, as in Chennai or Kochi, house lizards stay active all year, because the air never gets cold enough to slow them. You will meet five groups of animals with a backbone, and find out how each one breathes, stays warm or cool, and has their babies.
 

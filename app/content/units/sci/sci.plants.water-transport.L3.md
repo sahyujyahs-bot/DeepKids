@@ -1,7 +1,7 @@
 # How water climbs a plant, from the roots to the leaves
 `sci.plants.water-transport.L3`
 
-**Summary.** A tree has no heart and no pump, yet water reaches the leaves at the very top. Water enters a plant through the roots and climbs the stem in tiny tubes called xylem. Most of it then evaporates out of tiny holes in the leaves. As water leaves the top, it pulls up the water below it, because water molecules attract each other. The Sun's heat makes the water evaporate, so the energy for the lift comes from the Sun. Your child stands a pale cabbage leaf or a white flower in coloured water, and within a day finds the colour in its veins. They also learn about Jagadish Chandra Bose, who thought living cells pumped the water up, and about the evidence that it is pulled instead.
+**Summary.** A tree has no heart and no pump, so how does water reach its top leaves? In this unit you will stand a stem in coloured water and look for the colour inside, find out which stem drinks more, leafy or bare, and act out a water chain.
 
 **Intro.** *Look at a tall coconut palm or a neem tree. Their top leaves need water, but the water is in the soil, far below. Nobody carries it up, and a tree has no heart and no pump. So how does the water get to the top?* Try this today. Stir lots of food colour into half a glass of water. Stand a white carnation in it, or a pale inner leaf of a cabbage with the thick white rib pointing down. Look again after a few hours, and the next day. If thin coloured lines appear in the leaf or the petals, the coloured water has climbed up inside. Water makes this journey in every plant, from the roots to the very top leaf.
 

@@ -1,7 +1,7 @@
 # Do other animals feel? Bee dances, elephant rumbles and the question of consciousness
 `sci.animals.animal-minds.L5`
 
-**Summary.** A hermit crab in a good shell puts up with a small electric shock. The same kind of crab in a poor shell climbs out at the same shock. A reaction that happens the same way every time would not change with the shell. So what is the crab doing? You will test this on yourself with an ice cube and a prize, and find out what a prize changes and what it leaves alone. You will also read the dance a honeybee uses to tell her sisters where food is, and meet the rumbles of elephants, which are too low for human ears. Nobody can measure a feeling directly, in a crab, an elephant or a friend, so scientists argue about who feels what.
+**Summary.** A hermit crab in a good shell puts up with a small electric shock, but one in a poor shell climbs out. What does that tell us about what the crab feels? In this unit you will read a bee's dance, test a prize against an ice cube on yourself, and watch one animal.
 
 **Intro.** *Someone taps just below your kneecap and your leg kicks. Someone offers you the last piece of mysore pak and you stop to think about your sister. Both are things your body did. What is the difference between them?* The kick happens the same way every time, whatever else is going on. The sweet is different. You weigh how much you want it against how your sister will feel. Scientists use this difference to study other animals. They cannot ask a bee or a crab how they feel. But they can watch whether the animal weighs one thing against another. In this unit you will run that test on yourself. You will also learn two ways animals send detailed messages: the dance of the honeybee and the low rumble of the elephant.
 

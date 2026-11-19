@@ -1,7 +1,7 @@
 # Atoms: how small they are and what is inside them
 `sci.the-very-small.atoms.L3`
 
-**Summary.** Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To get a piece only one atom long, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.
+**Summary.** Everything you can touch is made of atoms, but how do scientists know they are there if nobody can see them? In this unit you will cut paper in half again and again, roll marbles at a hidden centre like Rutherford, and draw an electron cloud with pencil dots.
 
 **Intro.** *Take a piece of paper. Tear it in half. Tear one half in half again. Keep going. Can you go on for ever? Or will you reach a piece so small it cannot be cut?* More than 2,000 years ago, a thinker in India asked this same question. His name was Kanada. A story says he lived on the grains of rice left behind in fields after the harvest. His name may even mean 'grain-eater'. Kanada taught that everything is made of tiny particles, far too small to see. He called them paramanu. Far away in Greece, a thinker called Democritus had a similar idea. He called them atoms. Neither of them had a microscope. They worked it out by thinking. In this unit you test their idea yourself, with a strip of paper and a pair of scissors.
 

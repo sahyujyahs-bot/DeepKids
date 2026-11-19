@@ -1,7 +1,7 @@
 # From one living being to the whole Earth: how the levels of life depend on each other
 `sci.ecology.levels-of-life.L5`
 
-**Summary.** The air of Mars and the air of Venus are almost all carbon dioxide. The Earth sits between them, yet one fifth of the Earth's air is oxygen. Nearly all of that oxygen was made by living beings. Life is arranged in levels: one organism, a population, a community, an ecosystem and the whole biosphere. Each level depends on the others, and the living beings of the Earth have changed the air, the soil and the rain that they all depend on. Your child runs a paper planet of dark and pale daisies under a Sun that keeps getting hotter. They find out what the daisies do to the planet's temperature. Then they meet the Gaia idea, which says the Earth works as one self-steadying system, and the scientists who doubt it.
+**Summary.** The air of Mars and Venus is almost all carbon dioxide, but one fifth of Earth's air is oxygen, and nearly all of it was made by living beings. In this unit you will run a paper planet of dark and pale daisies, and test whether a dark cloth gets warmer in sunlight.
 
 **Intro.** *Take one slow breath in. About one fifth of the air you just took in is oxygen. Who made that oxygen, and where? Say what you think, and why.* Most people answer 'the trees near my home'. That is only a small part of the answer. The oxygen in your breath was made over a very long time by green plants, by seaweeds and by tiny green cells who float in the sea. So one breath joins you to living beings far away, and to living beings from long ago. In this unit you find out how one living being depends on the whole living Earth. You also test whether living beings can keep a planet steady.
 

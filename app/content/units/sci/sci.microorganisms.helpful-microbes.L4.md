@@ -1,7 +1,7 @@
 # Idli batter, curd and bread: how tiny living beings make our food
 `sci.microorganisms.helpful-microbes.L4`
 
-**Summary.** Idli batter left on the counter overnight rises to nearly double its size and smells a little sour. Nobody added anything to it. Microbes, living beings too small to see, ate the sugars in the batter and made the bubbles. Your child tests what yeast needs to make gas, and what milk needs to turn into curd, with a fair test, a results table and a line graph. They find out how bacteria and yeast make idli, curd, dosa and bread, and how to tell fermented food from spoiled food. They learn how Louis Pasteur showed that living microbes do the work. They also meet the microbes inside us, in the soil and in medicines like penicillin.
+**Summary.** Idli batter left out overnight rises to nearly double its size and smells a little sour, though nobody added anything. What made it rise? In this unit you will test what yeast needs to make gas, what milk needs to turn into curd, and which foods at home were made with microbes.
 
 **Intro.** *Look at a bowl of idli batter in the morning. Last night it was flat and thick. Now it is full of bubbles and has climbed up the sides. What made the bubbles?* Nobody blew into it, and nobody stirred it all night. Something alive was working in the batter while your family slept. Microbes, tiny living beings too small to see, were eating the sugars in the rice and dal. As they ate, they made a gas. The sticky batter trapped the gas, and the batter rose. In this unit you find out who the microbes are, what they eat, and how warm they like it. You test it yourself with a bottle and a balloon, and with a cup of milk.
 
