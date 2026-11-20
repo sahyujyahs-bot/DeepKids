@@ -1606,7 +1606,7 @@
     },
     {
      "art": "A row of 10 boxes on paper, 7 with rain clouds and 3 with suns, drawn in pencil.",
-     "caption": "3. Write R or D for each pick. Count the rain days."
+     "caption": "3. Mark a cloud or a sun for each pick. Count the rain days."
     }
    ],
    "problem": "A forecast of 60% chance of rain does not say that it will rain. In this activity, each bean stands for one day. A red rajma bean is a rainy day. A white chana bean is a dry day."
@@ -1682,7 +1682,7 @@
     },
     {
      "art": "A child's rough map of India with a cloud drawn over the sea and an arrow towards the coast.",
-     "caption": "3. Point to the clouds and show which way they go. Make a forecast."
+     "caption": "3. Mark the clouds and an arrow on the map. Make a forecast."
     }
    ],
    "problem": "Weather travels from place to place. A weather satellite photographs the clouds from space. So you can see where tomorrow's weather is coming from."
