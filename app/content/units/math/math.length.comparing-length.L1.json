@@ -1,0 +1,3565 @@
+{
+ "id": "math.length.comparing-length.L1",
+ "title": "Long and short: line up one end, then look",
+ "level": 1,
+ "cards_mins": 8,
+ "summary": {
+  "text": "Two straws are the same length. You slide one a little forward. Is it longer now? And is a pencil taller standing up than it is long lying down? You will test straws, spoons, strings and your own body to find out. You will learn to line up one end before you compare, to put things in order from shortest to longest, and to use a string for things that cannot be moved.",
+  "art": "A girl kneeling at a low table, pushing two straws against the edge of a book so their ends line up, with a spoon, a comb and a loop of wool beside her."
+ },
+ "intro": {
+  "hook": "Which pencil is the longest: A, B or C?",
+  "text": "B is the longest. You could see that at once, because all three pencils start at the same line. At home, things do not start at the same line. A spoon lies here, a pencil lies there, and a string lies in a curl. Then your eyes can get it wrong. In this unit you will find out what to do so that you are always sure which one is longer.",
+  "art": "Three pencils of different lengths lying on a table with their flat ends pushed against the spine of a book.",
+  "chart": {
+   "type": "strip",
+   "rows": [
+    {
+     "label": "A",
+     "parts": 1,
+     "width": 40
+    },
+    {
+     "label": "B",
+     "parts": 1,
+     "width": 68
+    },
+    {
+     "label": "C",
+     "parts": 1,
+     "width": 55
+    }
+   ]
+  }
+ },
+ "outcomes": [
+  "I can say which of two things is longer, which is shorter, or that they are the same length.",
+  "I can line up one end of two things before I compare them.",
+  "I can say that moving or bending a thing does not change its length.",
+  "I can use the words long, tall, short and high for the right things.",
+  "I can put three or more things in order from shortest to longest.",
+  "I can use a string to compare two things that cannot be put side by side."
+ ],
+ "terms": [
+  {
+   "term": "Length",
+   "meaning": "How far it is from one end of a thing to the other end.",
+   "example": "The length of a pencil is how far it is from the flat end to the tip.",
+   "art": "A pencil with a small arrow at each end and a line joining the two arrows."
+  },
+  {
+   "term": "Compare",
+   "meaning": "To look at two things together and find out how they are alike or different.",
+   "example": "You compare a spoon and a comb to find out which one is longer.",
+   "art": "A spoon and a comb lying side by side with a child's eyes looking from one to the other."
+  },
+  {
+   "term": "Longer",
+   "meaning": "One thing is longer than another when it goes on further, after both start at the same line.",
+   "example": "A broom is longer than a spoon.",
+   "art": "A broom and a spoon lying with their ends against a wall, the broom reaching much further."
+  },
+  {
+   "term": "Shorter",
+   "meaning": "One thing is shorter than another when it stops sooner, after both start at the same line.",
+   "example": "A key is shorter than a toothbrush.",
+   "art": "A key and a toothbrush side by side with their ends on a drawn line, the key stopping first."
+  },
+  {
+   "term": "Same length",
+   "meaning": "Two things are the same length when both ends match. We also say one is as long as the other.",
+   "example": "Two new pencils from one box are the same length.",
+   "art": "Two new unsharpened pencils side by side, both ends level."
+  },
+  {
+   "term": "Tall",
+   "meaning": "Long in the up direction. We say tall for things that stand up from the ground.",
+   "example": "A coconut tree is tall. Your Appa is taller than you.",
+   "art": "A coconut tree beside a small house, with an arrow pointing from the ground to the top of the tree."
+  },
+  {
+   "term": "Height",
+   "meaning": "How tall a thing is: how far it is from its bottom to its top.",
+   "example": "Your height is how far it is from the floor to the top of your head.",
+   "art": "A child standing against a door frame with a pencil mark at the top of her head."
+  },
+  {
+   "term": "Longest and shortest",
+   "meaning": "In a group of three or more things, the longest goes on furthest and the shortest stops first.",
+   "example": "Of a key, a spoon and a broom, the broom is the longest and the key is the shortest.",
+   "art": "A key, a spoon and a broom lined up at one end, labelled shortest and longest."
+  },
+  {
+   "term": "Start line",
+   "meaning": "A line where one end of each thing is placed, so that the compare is fair.",
+   "example": "Push the spoon and the comb against the edge of a book. The edge of the book is the start line.",
+   "art": "A spoon and a comb pushed against the edge of a thick book lying on a table."
+  },
+  {
+   "term": "Order",
+   "meaning": "To put things in a row by a rule, such as from shortest to longest.",
+   "example": "Five spoons in order from shortest to longest look like a staircase.",
+   "art": "Five spoons of growing length lined up at one end, their other ends rising like steps."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What is length?",
+   "status": "defined",
+   "context": "This card says what the word length means. You used it all through the Line-Up Test.",
+   "definition": "Length is how far it is from one end of a thing to the other end.",
+   "description": "Every stick, spoon and string has two ends. Put a finger on one end and slide it to the other end. The way your finger travelled is the length. Some things have a lot of it, and we call them long. Some have a little, and we call them short.",
+   "examples": [
+    "A train has a great length. A matchstick has a small length.",
+    "The length of a string is from one tip to the other tip, when the string is pulled straight."
+   ],
+   "perspectives": [],
+   "art": "A child's finger sliding along a pencil from the flat end to the tip, with a dotted line showing the path.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "pencil",
+      "parts": 1,
+      "width": 55
+     }
+    ],
+    "title": "From one end to the other end"
+   }
+  },
+  {
+   "concept": "Longer, shorter, the same length",
+   "status": "defined",
+   "context": "This card gives the three answers you can get when you compare two things. You got all three in the Line-Up Test.",
+   "definition": "When two things start at the same line, the one that goes on further is longer. The one that stops first is shorter. If both stop together, they are the same length.",
+   "description": "Look at the picture. A stops first, so A is shorter than B. B goes on further, so B is longer than A. B and C stop together, so they are the same length. You can also say B is as long as C.",
+   "examples": [
+    "A ladle is longer than a teaspoon.",
+    "A teaspoon is shorter than a ladle. Both sentences say the same thing.",
+    "Two idli plates from one stand are the same length across."
+   ],
+   "perspectives": [],
+   "art": "A teaspoon and a long ladle lying with their handles' ends against the edge of a steel plate.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "A",
+      "parts": 1,
+      "width": 35
+     },
+     {
+      "label": "B",
+      "parts": 1,
+      "width": 60
+     },
+     {
+      "label": "C",
+      "parts": 1,
+      "width": 60
+     }
+    ]
+   }
+  },
+  {
+   "concept": "The start-line rule",
+   "status": "defined",
+   "context": "This card gives the rule you found in the Line-Up Test, where you pushed things against the edge of a book.",
+   "definition": "To compare two lengths, put one end of each at the same line. Then look only at the other ends.",
+   "description": "A race is fair only if everyone starts at the same line. Comparing lengths is the same. If one spoon starts ahead, its far end sticks out, and it looks longer even when it is not. So first line up one end of each. Then look at the other ends. The end that goes further belongs to the longer thing.",
+   "examples": [
+    "Push two pencils against a wall. The wall is the start line.",
+    "Stand back to back with a friend on the same floor. The floor is the start line, and you look at the tops of your heads.",
+    "If one child stands on a step, the heads cannot be compared fairly."
+   ],
+   "perspectives": [],
+   "art": "Two children standing back to back on a flat floor while a third child holds a flat book across the tops of their heads.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "spoon",
+      "parts": 1,
+      "width": 48
+     },
+     {
+      "label": "comb",
+      "parts": 1,
+      "width": 40
+     }
+    ],
+    "title": "Both start at the same line"
+   }
+  },
+  {
+   "concept": "Moving a thing does not change its length",
+   "status": "defined",
+   "context": "In the Line-Up Test you slid one of two equal straws forward and then lined them up again. This card says what you found.",
+   "definition": "A stick, a straw or a pencil keeps the same length when you slide it, turn it or stand it up.",
+   "description": "Two straws matched. Then one was pushed ahead, and its end stuck out. It looked longer. But at the other end it now fell behind by just as much. Line them up again and they match, as before. Nothing was added to the straw and nothing was cut off. So its length could not change.",
+   "examples": [
+    "A pencil is the same length in your bag, on the table and in your hand.",
+    "A soft thing is different. A rubber band gets longer when you pull it, and goes back when you let go."
+   ],
+   "perspectives": [],
+   "art": "Two equal straws drawn twice: once with their ends level, and once with one straw pushed forward so it sticks out at one end and falls behind at the other.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "A",
+      "parts": 1,
+      "width": 50
+     },
+     {
+      "label": "B",
+      "parts": 1,
+      "width": 50
+     }
+    ],
+    "title": "The two straws, lined up again"
+   }
+  },
+  {
+   "concept": "A bend hides length",
+   "status": "defined",
+   "context": "In the Line-Up Test a curled string looked shorter than a pencil until you pulled it straight. This card says why.",
+   "definition": "The length of a string is found only when the string is pulled straight.",
+   "description": "A curled string takes up little room on the table. So it looks short. But room on the table is not length. Length is the way from one end to the other, along the string. Pull the string straight from the start line, and all of its length shows.",
+   "examples": [
+    "A garden hose in a coil looks small. Pulled out, it reaches across the terrace.",
+    "A snake curled up and the same snake stretched out are the same length.",
+    "Noodles in a bowl are much longer than the bowl."
+   ],
+   "perspectives": [],
+   "art": "A piece of red wool lying in loops beside a pencil, and below it the same wool pulled straight and reaching well past the pencil.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "string",
+      "parts": 1,
+      "width": 66
+     },
+     {
+      "label": "pencil",
+      "parts": 1,
+      "width": 42
+     }
+    ],
+    "title": "After the string is pulled straight"
+   }
+  },
+  {
+   "concept": "Tall, long and high",
+   "status": "defined",
+   "context": "This card is about the words tall, long and high. You tried them in the activity One Pencil, Two Words.",
+   "definition": "Tall, long and high all tell about length. Tall and high are for the up direction. Long is for any direction, and most often for things that lie flat.",
+   "description": "Stand a pencil up and people say it is tall. Lay it down and people say it is long. It is the same pencil with the same length. We say tall for things that stand on the ground, such as a tree or a person. We say high for how far up a thing is, such as a kite or a shelf. The opposite of tall is short. The opposite of long is also short. The opposite of high is low.",
+   "examples": [
+    "A lamp post is tall. A road is long. A kite is high.",
+    "A baby lying down is measured for length. A child standing up is measured for height.",
+    "In Hindi the word lamba is used for a long rope and also for a tall person."
+   ],
+   "perspectives": [],
+   "art": "The same pencil drawn twice, once standing in a lump of dough with the word tall, and once lying flat with the word long.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "tall",
+      "parts": 1,
+      "width": 50
+     },
+     {
+      "label": "long",
+      "parts": 1,
+      "width": 50
+     }
+    ],
+    "title": "One pencil, standing up and lying down"
+   }
+  },
+  {
+   "concept": "Shortest to longest: putting things in order",
+   "status": "defined",
+   "context": "This card is about putting three or more things in order of length. You did it in the Spoon Staircase.",
+   "definition": "To order things by length, line up one end of each at the start line. Then arrange them so that each one is longer than the one before.",
+   "description": "With three or more things, we use two new words. The longest goes on furthest. The shortest stops first. When the things are in order, their far ends make a staircase. If one step goes down where it should go up, that thing is in the wrong place.",
+   "examples": [
+    "A teaspoon, a tablespoon and a ladle are in order from shortest to longest.",
+    "A family can stand in order from shortest to tallest for a photograph.",
+    "If Meena is taller than Ravi, and Ravi is taller than Anu, then Meena is the tallest and Anu is the shortest."
+   ],
+   "perspectives": [],
+   "art": "Five kitchen things, from a teaspoon to a long dosa turner, lined up against the edge of a table in a rising staircase.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "1",
+      "parts": 1,
+      "width": 20
+     },
+     {
+      "label": "2",
+      "parts": 1,
+      "width": 32
+     },
+     {
+      "label": "3",
+      "parts": 1,
+      "width": 44
+     },
+     {
+      "label": "4",
+      "parts": 1,
+      "width": 56
+     },
+     {
+      "label": "5",
+      "parts": 1,
+      "width": 68
+     }
+    ],
+    "title": "A staircase, shortest to longest"
+   }
+  },
+  {
+   "concept": "Long compared with what?",
+   "status": "defined",
+   "context": "This card asks whether a thing can be called long all by itself.",
+   "definition": "Long and short are words for comparing. A thing is long or short only next to something else.",
+   "description": "Is a pencil long? Next to an eraser, yes. Next to a broom, no. The pencil has one length, and that length does not change. What changes is the thing you put beside it. So when someone says 'that is long', you can ask, 'longer than what?'",
+   "examples": [
+    "A goat is tall next to a hen and short next to a camel.",
+    "An old story is told about Birbal. He was asked to make a line shorter without touching it. He drew a longer line beside it.",
+    "A long plait for a child of six would be a short plait for her grandmother."
+   ],
+   "perspectives": [],
+   "art": "A pencil lying between a small eraser on one side and a long broom on the other.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "eraser",
+      "parts": 1,
+      "width": 12
+     },
+     {
+      "label": "pencil",
+      "parts": 1,
+      "width": 38
+     },
+     {
+      "label": "broom",
+      "parts": 1,
+      "width": 68
+     }
+    ]
+   }
+  },
+  {
+   "concept": "A string can carry a length",
+   "status": "defined",
+   "context": "This card is about comparing two things that cannot be put side by side, such as a table and a door. You do this in the challenge Will It Fit?",
+   "definition": "A string cut to match one thing can be carried to another thing. Then the string is compared in place of the first thing.",
+   "description": "You cannot push a table against a door to compare them. So cut a string as long as the table is wide. Now the string and the table are the same length. Carry the string to the door. If the door is wider than the string, it is wider than the table too. This goes further than Class 1, but you can do it.",
+   "examples": [
+    "A string as long as your shadow in the morning can wait for your shadow at noon.",
+    "A flower seller measures a string of jasmine along her arm. Her arm carries the length from one buyer to the next.",
+    "A tailor lays an old blouse on new cloth to carry its length across."
+   ],
+   "perspectives": [],
+   "art": "A child holding a piece of wool across a doorway, with a table in the next room and a dotted line showing where the wool was cut to match the table.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "table",
+      "parts": 1,
+      "width": 50
+     },
+     {
+      "label": "string",
+      "parts": 1,
+      "width": 50
+     },
+     {
+      "label": "door",
+      "parts": 1,
+      "width": 62
+     }
+    ],
+    "title": "The string matches the table"
+   }
+  },
+  {
+   "concept": "Your eyes can be fooled",
+   "status": "defined",
+   "context": "This card is about a trick that eyes play with length. It shows why we line things up and do not only look.",
+   "definition": "A line that stands up looks longer than a line of the same length that lies flat.",
+   "description": "Draw a line lying flat. From its middle, draw a line standing up, just as long. It looks like an upside-down T. To most people the standing line looks longer. Lay a string along each line and you find they match. A German scientist, Adolf Fick, wrote about this trick of the eyes in 1851. Scientists still do not fully agree on why it happens.",
+   "examples": [
+    "A steel tumbler looks taller than it is wide. Check with a string.",
+    "The way round the rim of a tumbler is longer than the tumbler is tall. Most people guess the other way.",
+    "This is why a carpenter measures and does not trust a look."
+   ],
+   "perspectives": [],
+   "art": "An upside-down T drawn on paper, with a piece of string lying along the standing line and another along the flat line.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "up",
+      "parts": 1,
+      "width": 46
+     },
+     {
+      "label": "flat",
+      "parts": 1,
+      "width": 46
+     }
+    ],
+    "title": "The two lines, laid side by side"
+   }
+  },
+  {
+   "concept": "Other animals keep track of length too",
+   "status": "defined",
+   "context": "This card is about a desert ant who knows how far she has walked. You act out her walk in the activity Walk Like a Desert Ant.",
+   "definition": "Desert ants keep track of how far they have walked by their own steps.",
+   "description": "Humans are not the only animals who work with length. A desert ant of the Sahara leaves her nest to find food. Then she runs home in a straight line and stops at the right place. In 2006 three scientists, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf, tested how she does it. The ants walked 10 metres from the nest to food. At the food, the scientists glued tiny stilts made of pig hair to some ants' legs. Those ants now took longer steps. They walked right past the nest, about half as far again as they should have. Ants with shortened legs stopped too soon. So the ant keeps track of her steps. Nobody yet knows how she does it.",
+   "examples": [
+    "With normal legs, the ants stopped close to 10 metres, where the nest should be.",
+    "With stilts, the same number of steps took the ants about 15 metres.",
+    "Later, ants who had walked out and back on stilts found the nest correctly."
+   ],
+   "perspectives": [],
+   "art": "A long-legged desert ant on tiny stilts walking along a sandy channel past a small hole marked as her nest.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "normal",
+      "parts": 1,
+      "width": 44
+     },
+     {
+      "label": "stilts",
+      "parts": 1,
+      "width": 66
+     }
+    ],
+    "title": "How far the ants walked before stopping"
+   }
+  }
+ ],
+ "agreed": [
+  {
+   "text": "To compare two lengths fairly, one end of each thing must start at the same line.",
+   "evidence": "Anyone can test it. Push two spoons against the edge of a book and look at the far ends. Then slide one spoon ahead, and the answer seems to change, though the spoons did not."
+  },
+  {
+   "text": "A stick keeps the same length when you slide it, turn it or stand it up.",
+   "evidence": "Line up two equal straws. Slide one, turn one, stand one up. Each time you line them up again, they match."
+  },
+  {
+   "text": "Many children under six or seven say that a stick gets longer when it is pushed ahead.",
+   "evidence": "Jean Piaget, Bärbel Inhelder and Alina Szeminska tested children in Geneva in the 1940s. They showed two equal sticks, pushed one ahead, and asked. Many young children pointed to the stick that stuck out."
+  },
+  {
+   "text": "A line standing up looks longer than a line of the same length lying flat.",
+   "evidence": "Adolf Fick wrote about this in 1851. You can test it with an upside-down T and two pieces of string."
+  },
+  {
+   "text": "A small child is a little longer lying down than tall standing up.",
+   "evidence": "For the World Health Organization, about 1,600 small children were measured both ways. Lying down, they were about 7 millimetres longer on average. A body is soft, and standing presses it down a little."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "The one whose end sticks out further is the longer one.",
+   "who": "Many young children, and grown-ups in a hurry",
+   "context": "This card is about a common mistake when comparing two lengths by looking at one end only.",
+   "for": "When both things start at the same line, this is true. The end that goes further belongs to the longer thing.",
+   "against": "When the starts are not lined up, it fails. A short spoon pushed ahead sticks out further than a long one. You have to look at both ends.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Nothing ever changes its length.",
+   "who": "A rule that is nearly true",
+   "context": "This card asks whether a thing's length can ever change. In the Line-Up Test a straw kept its length when it was moved.",
+   "for": "Sliding, turning and carrying do not change the length of a stick, a straw or a pencil.",
+   "against": "Pulling, squashing and growing do change length. A rubber band stretches. A plant grows. A small child measures about 7 millimetres longer lying down than standing.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Tall and long are two different things.",
+   "who": "The way we usually talk",
+   "context": "This card is about whether tall and long mean the same thing. You tested it in One Pencil, Two Words.",
+   "for": "The words do tell us something different. Tall says the thing points up from the ground. Long does not say which way it points.",
+   "against": "Both words tell about one thing: how far it is from one end to the other. Turn a tall pencil on its side and it is a long pencil of the same length.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Two things are far apart and cannot be moved. How could you find out which is longer?",
+   "kind": "deep",
+   "hint": "What could you carry from one to the other?"
+  },
+  {
+   "q": "Is a curled-up rope long or short?",
+   "kind": "deep",
+   "hint": "Is length the room it takes up, or the way along it?"
+  },
+  {
+   "q": "Can one pencil be long and short at the same time?",
+   "kind": "deep",
+   "hint": "Put it next to an eraser. Then next to a broom."
+  },
+  {
+   "q": "Are you the same height in the morning and at night? How could you check?",
+   "kind": "big",
+   "hint": "A mark on the door frame at each time would show it."
+  },
+  {
+   "q": "Why do you think people made different words for tall and long?",
+   "kind": "big",
+   "hint": "What does tall tell you that long does not?"
+  },
+  {
+   "q": "An ant has no string and no ruler. How might she know how far she has walked?",
+   "kind": "big",
+   "hint": "Think about what she does again and again as she walks."
+  }
+ ],
+ "story": {
+  "title": "The Curled-Up String",
+  "mins": 7,
+  "read_aloud": true,
+  "note": "Kavya, Arun, Paati and the buyer are made up. Selling strings of jasmine by the muzham, the length of the arm from the elbow to the fingertip, is real and still done in Tamil Nadu. Madurai malli is a real jasmine, and its name has been protected by law since 2013.",
+  "text": [
+   "Kavya was six. Every Friday evening she sat beside her Paati at the flower stall, on the street that leads to the big temple in Madurai.",
+   "Paati sold malli, the small white jasmine of Madurai. All day she tied the buds into long strings with banana fibre. She sold the strings by the muzham. One muzham was the length of her arm, from her elbow to the tip of her middle finger.",
+   "That evening only two strings were left. One lay stretched out straight across the wet banana leaf. The other sat curled round and round in the basket, like a sleeping kitten.",
+   "\"Watch the stall,\" said Paati. \"I am going for a tumbler of tea.\" And she went.",
+   "Kavya's cousin Arun sat on the step, doing nothing in an important way. He was nine.",
+   "A woman in a green sari stopped at the stall. \"It is my daughter's birthday tomorrow,\" she said. \"I want the longer string. Which one is it?\"",
+   "Arun jumped up. \"This one,\" he said, and he pointed at the straight string. \"Look how far it goes. It reaches right across the leaf. The other one is only a little heap.\"",
+   "The woman looked at Kavya. \"Is that right, little one?\"",
+   "Kavya looked. The straight string did look long. The curled string took up no more room than her two hands.",
+   "But something bothered her. That morning she had watched Paati tie the curled string. It had taken a long, long time. Kavya had eaten two idlis and a whole banana before Paati reached the end of it.",
+   "\"I do not know yet,\" said Kavya.",
+   "\"Anybody can see it,\" said Arun.",
+   "Kavya thought about how Paati measured. Paati never looked at a string lying down. She always pinched one end at her elbow and pulled the string straight along her arm.",
+   "Kavya's own arm was too short for that. So she did something else. She found one end of the curled string. She found one end of the straight string. She pinched the two ends together between her finger and thumb. Then she climbed on the stool and lifted her hand as high as it would go.",
+   "The two strings hung down side by side. The curls dropped open, one turn after another. Both strings started at her fingers. The straight one stopped at her knee. The curled one went on, past her knee, past her ankle, and its last bud touched the stool.",
+   "\"Oh,\" said Arun.",
+   "\"This one is longer,\" said Kavya. \"It was hiding in the basket.\"",
+   "The woman laughed. \"How much longer?\"",
+   "Kavya did not know the word for that. She pointed. \"From my knee to my foot.\"",
+   "\"That is good enough for me,\" said the woman, and she paid for the longer string.",
+   "Then she frowned. \"Now I have another problem. I have two daughters. If one gets a longer piece, there will be a fight. I need two pieces exactly the same.\"",
+   "\"Cut it in the middle,\" said Arun.",
+   "\"And where is the middle?\" asked the woman.",
+   "Arun pointed at a place on the string. Then he pointed at another place. Then he put his hand down.",
+   "Kavya took the two ends of the long string in one hand and let the rest hang in a loop. \"Cut at the bottom of the loop,\" she said. \"Both pieces start together at my fingers. So they must end together too.\"",
+   "The woman took Paati's scissors and cut. Two pieces hung from Kavya's fingers. Their last buds were level.",
+   "When Paati came back with her tea, there was one string on the leaf and money in the tin.",
+   "\"Which one did you sell?\" she asked.",
+   "\"The curled one,\" said Arun quickly. \"It was longer. Anybody could see that.\"",
+   "Kavya looked at him. He looked at his feet.",
+   "\"Anybody could see it,\" he said, \"after Kavya held them up.\"",
+   "Paati laid the last string along her arm, elbow to fingertip, and again, and a little more. \"Two muzham and a bit,\" she said. \"And the other one?\"",
+   "Kavya pointed from her knee to her foot. \"That much more.\"",
+   "Paati nodded, as if knee-to-foot were a measure everyone used. \"Then you sold it right,\" she said. And she gave Kavya the first sip of tea."
+  ],
+  "epiphany": "For the parent: how much room a thing takes up is not its length. Arun judges by looking, and the straight string looks longer because it reaches further across the leaf. Kavya makes both strings start at the same place, her fingers, and lets them hang straight. Then she only has to look at the other ends. That is the start-line rule, and the fold in half uses it again.",
+  "ask": [
+   "Why did the straight string look longer when both lay on the stall?",
+   "Kavya held one end of each string in the same hand. Why did that help?",
+   "Kavya could not say how many muzham longer it was. Did she still know which was longer? How?",
+   "How else could you find the middle of a string?"
+  ],
+  "art": [
+   "A flower stall on a busy temple street at dusk, with a grandmother tying jasmine buds and a small girl sitting beside her.",
+   "Two strings of white jasmine on a stall: one stretched straight across a wet banana leaf, one curled in a round basket.",
+   "A boy of nine pointing confidently at the straight string while a woman in a green sari looks at a small girl.",
+   "A girl of six standing on a stool with her arm raised, two jasmine strings hanging from her pinched fingers, one ending at her knee and one touching the stool.",
+   "The girl holding both ends of one string so it hangs in a loop, while the woman's scissors cut the bottom of the loop."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Line-Up Test: which is longer, and can a straw grow?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this test you guess which of two things is longer, and then find a way to be sure. You try it with a spoon and a pencil, with two equal straws, and with a curled string. Before each check you guess, and say why. You will find the rule for comparing lengths fairly.",
+   "question": "How can we be sure which of two things is longer? And does a thing get longer when we slide it, stand it up or straighten it?",
+   "predict": "Before each check, guess: which one is longer, or are they the same? Why do you think so?",
+   "fair_test": "Each time we check, one end of each thing touches the same line, and both things lie straight. We do not cut, stretch or squash anything.",
+   "results_table": [
+    "Test",
+    "My guess",
+    "What I found when I lined them up"
+   ],
+   "materials": [
+    {
+     "item": "two straws of exactly the same length (or two new pencils, or two ice cream sticks)",
+     "qty": 2
+    },
+    {
+     "item": "a pencil and a spoon that are close in length, but not the same",
+     "qty": "1 of each"
+    },
+    {
+     "item": "a piece of wool or string, about as long as your child's arm",
+     "qty": 1
+    },
+    {
+     "item": "a thick book, to use its edge as the start line",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil for the table",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Guess and check four pairs: a spoon and a pencil, two straws with one pushed ahead, a straw standing and a straw lying, and a curled string and a pencil."
+    }
+   ],
+   "record": "A grown-up draws the table with four rows. For each test, write the guess and what the line-up showed. At the end, the child says the rule, and the grown-up writes it under the table.",
+   "example_chart": {
+    "type": "table",
+    "title": "What a finished table can look like (your guesses will be your own)",
+    "cols": [
+     "Test",
+     "My guess",
+     "What I found"
+    ],
+    "rows": [
+     [
+      "Spoon and pencil, far apart",
+      "the spoon",
+      "the pencil is longer"
+     ],
+     [
+      "Two straws, one pushed ahead",
+      "the pushed one",
+      "the same"
+     ],
+     [
+      "One straw standing, one lying",
+      "the standing one",
+      "the same"
+     ],
+     [
+      "Curled string and pencil",
+      "the pencil",
+      "the string is longer"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A spoon and a pencil lying far apart on a table, pointing in different directions, with a child looking from one to the other.",
+     "caption": "1. Look and guess: which is longer?"
+    },
+    {
+     "art": "The same spoon and pencil pushed side by side against the edge of a thick book, their far ends at different places.",
+     "caption": "2. Push one end of each against the book. Look at the other ends."
+    },
+    {
+     "art": "Two equal straws side by side, one slid forward by two finger-widths, and a curled piece of wool beside a pencil.",
+     "caption": "3. Try it again with a pushed straw and a curled string."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw the table with four rows. 2. Lay the spoon and the pencil far apart, pointing different ways. 3. Ask for a guess and a reason. 4. Write the guess. Do not move the things yet.",
+     "say": "Which is longer, the spoon or the pencil? Do not touch them yet. Why do you think so?",
+     "kid": "Look at the spoon and the pencil. Do not touch. Guess which is longer. Say why.",
+     "ask": [
+      {
+       "q": "Why did you pick that one?",
+       "good": [
+        "It looks bigger.",
+        "It reaches further.",
+        "I am not sure, they look close."
+       ]
+      }
+     ],
+     "parent": "Choose a spoon and a pencil that differ by about one finger-width, so that looking alone is hard. Accept any guess that comes with a reason.",
+     "chart": {
+      "type": "table",
+      "title": "My table",
+      "cols": [
+       "Test",
+       "My guess",
+       "What I found"
+      ],
+      "rows": [
+       [
+        "Spoon and pencil",
+        "",
+        ""
+       ],
+       [
+        "Two straws",
+        "",
+        ""
+       ],
+       [
+        "Standing straw",
+        "",
+        ""
+       ],
+       [
+        "Curled string",
+        "",
+        ""
+       ]
+      ]
+     },
+     "context": "This is the first step of the Line-Up Test. You guess which is longer, a spoon or a pencil, only by looking."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Ask how we could be sure. 2. Let your child try their own way first. 3. If the ends are not level, ask which end they are looking at. 4. Then push one end of each against the book's edge. 5. Write what you found.",
+     "say": "How can we find out for sure? Try your way. Now push both against the book and look at the other ends.",
+     "kid": "Find a way to be sure. Then push both against the book. Look at the other ends.",
+     "ask": [
+      {
+       "q": "Both start at the book now. How can you tell which is longer?",
+       "good": [
+        "The pencil goes further.",
+        "The spoon stops first.",
+        "I look at the other ends."
+       ]
+      }
+     ],
+     "parent": "Most children put the two things side by side, but not with the ends level. Let them notice it. The book's edge is the start line.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 50
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 58
+       }
+      ],
+      "title": "Both pushed against the book"
+     },
+     "context": "This is step 2 of the Line-Up Test. You check the spoon and the pencil by pushing one end of each against the edge of a book."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Push the two straws against the book. Agree that they match. 2. While your child watches, slide one straw two finger-widths ahead. 3. Ask for a guess and a reason. Write the guess. 4. Your child checks in their own way. Write the result.",
+     "say": "These two match. Now I slide this one. Is one straw longer now, or are they the same? Why?",
+     "kid": "The two straws matched. One was pushed ahead. Is it longer now? Guess, then check.",
+     "ask": [
+      {
+       "q": "Look at the back end of the pushed straw. What do you see there?",
+       "good": [
+        "It is behind the other one.",
+        "There is a gap at the back.",
+        "It sticks out here and falls short there."
+       ]
+      }
+     ],
+     "parent": "Many six-year-olds say the pushed straw is longer. Do not correct it. Let the line-up answer. Then slide the other straw and ask again.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 50
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 50
+       }
+      ],
+      "title": "The two straws at the start: they match"
+     },
+     "context": "This is step 3 of the Line-Up Test. Two equal straws matched, then one was slid ahead, and you guess before checking."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Lay one straw flat. 2. Stand the other straw upright beside it. 3. Ask for a guess and a reason. Write the guess. 4. Your child lays both against the book to check.",
+     "say": "One straw is standing and one is lying down. Is one longer now? Why do you think so?",
+     "kid": "One straw stands up. One lies down. Is one longer now? Guess, then check.",
+     "parent": "A standing line looks longer than a lying line to most people, grown-ups too. So 'the standing one' is a very common guess.",
+     "context": "This is step 4 of the Line-Up Test. One of two equal straws stands up and the other lies flat, and you guess before checking."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Lay the string in loops beside the pencil, so that it looks shorter. 2. Ask for a guess and a reason. Write the guess. 3. Your child holds one end at the book's edge and pulls the string straight. 4. Write the result.",
+     "say": "Which is longer, this string or the pencil? Why? Now hold one end at the book and pull it straight.",
+     "kid": "The string is curled up. Is it longer than the pencil? Guess. Then pull it straight.",
+     "ask": [
+      {
+       "q": "The string looked short. Why?",
+       "good": [
+        "It was curled up.",
+        "It did not take much room.",
+        "Its length was folded."
+       ]
+      }
+     ],
+     "parent": "Pull the string straight but do not stretch it. Wool stretches a little if you tug hard.",
+     "context": "This is step 5 of the Line-Up Test. A curled string lies beside a pencil, and you guess which is longer before pulling the string straight."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "1. Read the table together. 2. Ask what your child thinks, what they saw, and why. 3. Write their rule under the table in their own words.",
+     "say": "What do we have to do to be sure which is longer? What did you see that tells you so?",
+     "kid": "Tell the rule you found. What must you do before you compare two things?",
+     "ask": [
+      {
+       "q": "Did any straw really get longer?",
+       "good": [
+        "No, it only moved.",
+        "No, nothing was added.",
+        "No, when we lined them up they matched."
+       ]
+      }
+     ],
+     "parent": "A good rule in a child's words: 'Put them at the same start, make them straight, and look at the other end.' Any wording with those ideas is fine.",
+     "check": {
+      "t": "mcq",
+      "q": "Two straws match. You slide one straw ahead. What is true now?",
+      "options": [
+       "The pushed straw is longer",
+       "They are still the same length",
+       "The other straw is longer"
+      ],
+      "a": 1,
+      "why": "They are still the same length. Sliding does not add anything to a straw. Picking the pushed straw means looking only at the end that sticks out, and not at the back end."
+     },
+     "context": "This is the last step of the Line-Up Test, where you compared a spoon, straws and a string. You say the rule you found."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "One Pencil, Two Words: tall or long?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you stand a pencil up and lay it down, and then do the same with yourself. A string cut to your height shows whether you are as long lying down as you are tall standing up.",
+   "problem": "Is tall a different thing from long, or the same thing pointing another way?",
+   "materials": [
+    {
+     "item": "a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a ball of wool or string",
+     "qty": 1
+    },
+    {
+     "item": "scissors, for the grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a wall or door frame and a clear bit of floor",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Stand a pencil up and lay it down. Cut a string to your height, then lie down beside the string."
+    }
+   ],
+   "record": "Draw yourself two times: standing up and lying down. Draw the string beside each one. Write 'tall' under one and 'long' under the other.",
+   "setup": [
+    {
+     "art": "A pencil standing upright, held by a child's fingertip, next to the same pencil lying flat on a table.",
+     "caption": "1. Stand the pencil up. Then lay it down."
+    },
+    {
+     "art": "A child standing straight against a door frame while a grown-up holds wool from the floor to the top of the child's head.",
+     "caption": "2. Cut a string as long as you are tall."
+    },
+    {
+     "art": "The same child lying on the floor with heels against the wall and the wool lying beside her from heel to head.",
+     "caption": "3. Lie down. Lay the string beside you."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Stand the pencil upright on the table. Ask what word fits. 2. Lay it down. Ask again. 3. Ask whether the pencil changed.",
+     "say": "Is this pencil tall or long? Now I lay it down. Is it tall or long now? Did the pencil change?",
+     "kid": "Stand the pencil up. Is it tall or long? Lay it down. What is it now?",
+     "ask": [
+      {
+       "q": "Did the pencil get any bigger or smaller when it lay down?",
+       "good": [
+        "No, it is the same pencil.",
+        "No, it only turned."
+       ]
+      }
+     ],
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "tall",
+        "parts": 1,
+        "width": 50
+       },
+       {
+        "label": "long",
+        "parts": 1,
+        "width": 50
+       }
+      ],
+      "title": "The same pencil, standing up and lying down"
+     },
+     "context": "This is the first step of One Pencil, Two Words. You stand a pencil up and lay it down, and choose a word each time."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Your child stands straight against the wall, heels on the floor. 2. Hold the wool from the floor to the top of the head. 3. Cut it there. 4. Ask for a guess: lying down, will the string match?",
+     "say": "This string is as long as you are tall. When you lie down, will it still match you? Why?",
+     "kid": "Stand straight by the wall. A grown-up cuts a string as tall as you. Will it match you lying down?",
+     "adult": true,
+     "parent": "Keep the wool straight but not stretched. Shoes off, so that the floor is the start line.",
+     "context": "This is step 2 of One Pencil, Two Words. A grown-up cuts a string as long as you are tall, and you guess what happens when you lie down."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Your child lies on the floor with heels against the wall. 2. Lay the wool beside them, one end at the wall. 3. Look at where the wool ends, next to the head.",
+     "say": "Your heels and the string both start at the wall. Where does the string end?",
+     "kid": "Lie down with your heels at the wall. Lay the string beside you. Where does it end?",
+     "ask": [
+      {
+       "q": "So are you as long as you are tall?",
+       "good": [
+        "Yes, the string matches.",
+        "Yes, it is the same me."
+       ]
+      }
+     ],
+     "parent": "The string should end at the top of the head, or within a finger-width. A body really is a few millimetres longer lying down, but a string cannot show so small a difference.",
+     "check": {
+      "t": "mcq",
+      "q": "A pencil stands up. Then it lies down. What changed?",
+      "options": [
+       "Its length",
+       "Only the way it points",
+       "Its size"
+      ],
+      "a": 1,
+      "why": "Only the way it points. The pencil has the same length standing or lying. Picking 'its length' mixes up the word we use with the thing itself."
+     },
+     "context": "This is the last step of One Pencil, Two Words. You lie down beside a string that was cut to your standing height."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Spoon Staircase: shortest to longest",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you put five kitchen things in order from shortest to longest. Their far ends make a staircase. Then you find the right place for one more.",
+   "problem": "With two things you ask which is longer. With five, you need an order.",
+   "materials": [
+    {
+     "item": "five kitchen things of different lengths, such as a teaspoon, a tablespoon, a butter knife, a ladle and a dosa turner",
+     "qty": 5
+    },
+    {
+     "item": "one more thing to add later, such as a fork or a whisk",
+     "qty": 1
+    },
+    {
+     "item": "the edge of a table or a thick book, for the start line",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Order five kitchen things from shortest to longest, then fit a sixth into the staircase."
+    }
+   ],
+   "record": "Draw your staircase of spoons, all starting at one line. Write S under the shortest and L under the longest.",
+   "setup": [
+    {
+     "art": "Five kitchen things of different lengths lying in a jumble on a table.",
+     "caption": "1. Mix up five kitchen things."
+    },
+    {
+     "art": "The same five things lined up against the table's edge, from a teaspoon to a dosa turner, their far ends rising like steps.",
+     "caption": "2. Line up one end of each. Put them in order."
+    },
+    {
+     "art": "A child holding a fork above the staircase of spoons, looking for the gap where it belongs.",
+     "caption": "3. Find the right step for one more."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Mix up the five things on the table. 2. Ask your child to find the shortest and the longest by looking. 3. Then your child checks by pushing them against the table's edge.",
+     "say": "Which do you think is the shortest? Which is the longest? Now check at the start line.",
+     "kid": "Guess the shortest and the longest. Then push them to the edge and check.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 44
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 20
+       },
+       {
+        "label": "C",
+        "parts": 1,
+        "width": 68
+       },
+       {
+        "label": "D",
+        "parts": 1,
+        "width": 32
+       },
+       {
+        "label": "E",
+        "parts": 1,
+        "width": 56
+       }
+      ],
+      "title": "Five things, mixed up"
+     },
+     "context": "This is the first step of the Spoon Staircase. You find the shortest and the longest of five kitchen things."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Your child puts all five in order, shortest to longest, with one end of each at the edge. 2. Ask them to run a finger along the far ends. 3. If a step goes down, ask what is wrong.",
+     "say": "Put them in order, shortest first. Run your finger along the tops. Does it climb every time?",
+     "kid": "Put all five in order, shortest first. Do the ends climb like stairs?",
+     "ask": [
+      {
+       "q": "How do you know this one comes before that one?",
+       "good": [
+        "It stops sooner.",
+        "The next one goes further."
+       ]
+      }
+     ],
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "1",
+        "parts": 1,
+        "width": 20
+       },
+       {
+        "label": "2",
+        "parts": 1,
+        "width": 32
+       },
+       {
+        "label": "3",
+        "parts": 1,
+        "width": 44
+       },
+       {
+        "label": "4",
+        "parts": 1,
+        "width": 56
+       },
+       {
+        "label": "5",
+        "parts": 1,
+        "width": 68
+       }
+      ],
+      "title": "In order: a staircase"
+     },
+     "context": "This is step 2 of the Spoon Staircase. You put five kitchen things in order from shortest to longest, with one end of each at the table's edge."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Give your child the sixth thing. 2. Ask for a guess: between which two does it go? 3. Your child checks at the start line and slides it into place.",
+     "say": "Here is one more. Where does it go in the staircase? Guess first, then check.",
+     "kid": "Here is one more thing. Guess its place in the stairs. Then check.",
+     "check": {
+      "t": "mcq",
+      "q": "A fork is longer than the teaspoon and shorter than the ladle. Where does it go?",
+      "options": [
+       "Before the teaspoon",
+       "Between the teaspoon and the ladle",
+       "After the ladle"
+      ],
+      "a": 1,
+      "why": "Between the two. It comes after everything shorter and before everything longer. Picking 'after the ladle' means only one of the two clues was used."
+     },
+     "context": "This is the last step of the Spoon Staircase, where five kitchen things stand in order of length. You fit a sixth into the right place."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Maths in life: a muzham of malli",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you measure string the way flower sellers in Tamil Nadu measure jasmine: along the arm, from the elbow to the fingertip. You compare your muzham with a grown-up's and find out why it matters whose arm is used.",
+   "problem": "A flower seller has no ruler. She sells strings of jasmine by the length of her own arm.",
+   "materials": [
+    {
+     "item": "a ball of wool or string (or a real string of flowers)",
+     "qty": 1
+    },
+    {
+     "item": "scissors, for the grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a table edge or a thick book, for the start line",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Cut one muzham of string on a grown-up's arm and one on the child's arm. Compare the two strings."
+    }
+   ],
+   "record": "Tape the two strings on paper, starting at one line. Write a name beside each. Circle the longer one.",
+   "setup": [
+    {
+     "art": "A woman's forearm with a string of jasmine held at the elbow and pulled straight to the tip of her middle finger.",
+     "caption": "1. One muzham: from the elbow to the tip of the middle finger."
+    },
+    {
+     "art": "A child holding wool at her own elbow and pulling it to her fingertip while a grown-up cuts it.",
+     "caption": "2. Cut one muzham on your own arm."
+    },
+    {
+     "art": "Two pieces of wool, one long and one short, lying with their ends against the edge of a table.",
+     "caption": "3. Line up the two muzhams. Whose is longer?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Tell your child how jasmine is sold in Tamil Nadu. 2. Hold the wool at your elbow. 3. Pull it straight to the tip of your middle finger. 4. Cut it there.",
+     "say": "Flower sellers measure a string of jasmine along the arm, from elbow to fingertip. That length is called one muzham. This is my muzham.",
+     "kid": "A flower seller measures along her arm. Elbow to fingertip is one muzham. Watch a grown-up cut one.",
+     "adult": true,
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "arm",
+        "parts": 1,
+        "width": 58
+       }
+      ],
+      "title": "One muzham: from the elbow to the fingertip"
+     },
+     "context": "This is the first step of A Muzham of Malli. A grown-up cuts a string as long as their arm from the elbow to the fingertip, the way flower sellers measure jasmine."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Your child holds the wool at their own elbow. 2. They pull it straight to the tip of their middle finger. 3. Cut it there. 4. Before comparing, ask for a guess and a reason.",
+     "say": "Now your muzham. Will your string and mine be the same length? Why do you think so?",
+     "kid": "Hold the string at your elbow. Pull it to your fingertip. Will it match the grown-up's?",
+     "adult": true,
+     "context": "This is step 2 of A Muzham of Malli. You cut a string as long as your own arm from elbow to fingertip, and guess whether it matches a grown-up's."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Your child lines up both strings at the table's edge and pulls them straight. 2. Ask which is longer. 3. Ask whose muzham they would want when buying flowers, and when selling.",
+     "say": "Line them up. Whose muzham is longer? If you were buying flowers, whose arm would you want the seller to have?",
+     "kid": "Line up the two strings. Whose is longer? Whose arm gives you more flowers?",
+     "ask": [
+      {
+       "q": "Two sellers ask the same price for one muzham. One has long arms. Who gives more flowers?",
+       "good": [
+        "The one with long arms.",
+        "The long muzham has more flowers."
+       ]
+      }
+     ],
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "Amma",
+        "parts": 1,
+        "width": 58
+       },
+       {
+        "label": "me",
+        "parts": 1,
+        "width": 36
+       }
+      ],
+      "title": "Two muzhams, lined up"
+     },
+     "context": "This is step 3 of A Muzham of Malli. You compare a string cut on a grown-up's arm with a string cut on your own arm."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Ask how a seller and a buyer could agree on one length. 2. Listen to your child's ideas. 3. Keep the longer string as your family's muzham.",
+     "say": "Arms are different. How could everyone in a market agree on one length?",
+     "kid": "Arms are not all the same. How could people agree on one length?",
+     "ask": [
+      {
+       "q": "What could people use so that the length is the same for everyone?",
+       "good": [
+        "One stick that everyone copies.",
+        "One string kept in the shop.",
+        "A ruler."
+       ]
+      }
+     ],
+     "parent": "This question leads to rulers and centimetres, which come in Class 2. There is no need to give the answer now.",
+     "check": {
+      "t": "mcq",
+      "q": "Amma's muzham is longer than Meena's. Each cuts one muzham of flowers. Who has more flowers?",
+      "options": [
+       "Meena",
+       "Amma",
+       "Both the same"
+      ],
+      "a": 1,
+      "why": "Amma. A longer muzham is a longer string, so it holds more flowers. Picking 'both the same' means trusting the word muzham and forgetting that arms differ."
+     },
+     "context": "This is the last step of A Muzham of Malli, where you compared two arm-lengths of string. You think about how people could agree on one length."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Long shadow, short shadow",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you copy the length of a bottle's shadow onto a string in the morning and again at noon. Then you compare the two strings. You need a sunny balcony, terrace or window sill.",
+   "problem": "A shadow cannot be picked up and kept. So how can a morning shadow be compared with a noon shadow?",
+   "materials": [
+    {
+     "item": "a bottle or a tall tumbler",
+     "qty": 1
+    },
+    {
+     "item": "a ball of wool or string",
+     "qty": 1
+    },
+    {
+     "item": "scissors, for the grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a sunny, flat spot on a balcony, terrace or window sill",
+     "qty": 1
+    }
+   ],
+   "safety": "Never look straight at the Sun. On a terrace, stay away from the edge and keep a grown-up with you.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "At about 8 in the morning, cut a string as long as the bottle's shadow. At about 12 noon, cut another. Compare the two strings."
+    }
+   ],
+   "record": "Tape the two strings on paper, starting at one line. Write 'morning' beside one and 'noon' beside the other.",
+   "setup": [
+    {
+     "art": "A bottle standing on a sunny balcony floor in the early morning, with a long shadow and a piece of wool lying along the shadow.",
+     "caption": "1. Morning: lay a string along the shadow and cut it."
+    },
+    {
+     "art": "The same bottle in the same spot at noon with a very short shadow and a short piece of wool along it.",
+     "caption": "2. Noon: do it again with a new string."
+    },
+    {
+     "art": "Two pieces of wool, one long and one short, lined up at the edge of a book.",
+     "caption": "3. Line up the two strings."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. At about 8 in the morning, stand the bottle in the sun. 2. Lay the wool from the foot of the bottle to the tip of the shadow. 3. Cut it there. 4. Ask for a guess: at noon, will the shadow be longer, shorter or the same?",
+     "say": "This string is as long as the shadow now. At noon, will the shadow be longer, shorter or the same? Why?",
+     "kid": "Lay a string along the shadow. A grown-up cuts it. Guess the shadow at noon.",
+     "adult": true,
+     "parent": "Mark where the bottle stands with chalk or a bit of tape, so that it goes back to the same spot at noon.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "bottle",
+        "parts": 1,
+        "width": 22
+       },
+       {
+        "label": "shadow",
+        "parts": 1,
+        "width": 60
+       }
+      ],
+      "title": "Morning: the bottle and its shadow"
+     },
+     "context": "This is the first step of Long Shadow, Short Shadow. In the morning you copy the length of a bottle's shadow onto a string."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. At about 12 noon, stand the bottle on its mark. 2. Lay a new piece of wool along the shadow. 3. Cut it at the shadow's tip.",
+     "say": "Here is the shadow now. Lay the new string along it, from the bottle to the tip.",
+     "kid": "It is noon. Lay a new string along the shadow. A grown-up cuts it.",
+     "adult": true,
+     "wait": "Do this step at about 12 noon on the same day.",
+     "parent": "If clouds cover the Sun at noon, try again the next sunny day. The morning string will keep.",
+     "context": "This is step 2 of Long Shadow, Short Shadow. At noon you copy the bottle's shadow onto a second string."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Your child lines up the two strings at a book's edge. 2. Ask which is longer. 3. Ask where the Sun was in the sky each time.",
+     "say": "Line up the morning string and the noon string. Which is longer? Where was the Sun each time?",
+     "kid": "Line up the two strings. Which shadow was longer? Where was the Sun each time?",
+     "ask": [
+      {
+       "q": "The bottle did not change. Why did the shadow change?",
+       "good": [
+        "The Sun moved higher.",
+        "The Sun was low in the morning.",
+        "The light came from a different place."
+       ]
+      }
+     ],
+     "parent": "When the Sun is low in the sky, shadows are long. Near noon the Sun is high and shadows are short. Your child may only notice 'low Sun, long shadow', which is enough.",
+     "check": {
+      "t": "mcq",
+      "q": "When is your shadow longest?",
+      "options": [
+       "At noon, when the Sun is high",
+       "Early morning, when the Sun is low",
+       "It is always the same"
+      ],
+      "a": 1,
+      "why": "Early in the morning, and again in the evening, when the Sun is low. Picking 'always the same' treats a shadow like a stick. A shadow's length depends on where the light comes from."
+     },
+     "context": "This is the last step of Long Shadow, Short Shadow. You compare a string cut to a morning shadow with a string cut to a noon shadow."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Everyone does maths: walk like a desert ant",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you act out a real test done with desert ants in 2006. You walk out, then walk home with your eyes shut, using only your steps. Then you change the size of your steps and see where you end up.",
+   "problem": "A desert ant finds her way home across flat sand by keeping track of her own steps. What happens if her steps suddenly get longer?",
+   "materials": [
+    {
+     "item": "a clear corridor or room, at least 10 child-steps long",
+     "qty": 1
+    },
+    {
+     "item": "a cushion for the nest and a tumbler for the food",
+     "qty": "1 of each"
+    },
+    {
+     "item": "three chappals, to mark where you stop",
+     "qty": 3
+    }
+   ],
+   "safety": "Clear the floor first. A grown-up walks beside the child whenever the child's eyes are shut.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Walk 10 steps from the nest to the food. Walk back with eyes shut three times: with normal steps, giant steps and tiny steps."
+    }
+   ],
+   "record": "Draw the corridor with the nest and the food. Mark the three places where you stopped: normal steps, giant steps and tiny steps.",
+   "setup": [
+    {
+     "art": "A corridor with a cushion at one end labelled nest and a steel tumbler ten child-steps away labelled food.",
+     "caption": "1. Walk 10 steps from the nest to the food."
+    },
+    {
+     "art": "A child walking back toward the cushion with eyes closed and a grown-up walking close beside her.",
+     "caption": "2. Walk 10 steps home with eyes shut."
+    },
+    {
+     "art": "The same child taking giant strides with eyes closed, already well past the cushion.",
+     "caption": "3. Now take 10 giant steps home. Where are you?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Put the cushion at one end of the corridor. This is the nest. 2. Your child walks 10 normal steps away from it, counting aloud. 3. Put the tumbler there. This is the food.",
+     "say": "You are a desert ant. This cushion is your nest. Walk 10 steps and you will find food.",
+     "kid": "You are a desert ant. Walk 10 steps from your nest. Count aloud.",
+     "parent": "The real ants walked 10 metres along a channel in the Sahara desert, where the flat sand has almost no landmarks.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "steps",
+        "n": 10
+       }
+      ],
+      "title": "From the nest to the food: 10 steps"
+     },
+     "context": "This is the first step of Walk Like a Desert Ant. You walk 10 steps from the nest, a cushion, to the food, a tumbler."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Your child turns to face the nest and shuts their eyes. 2. They walk 10 normal steps and stop. 3. Walk beside them. 4. Mark the stopping place with a chappal.",
+     "say": "Shut your eyes. Walk home with 10 steps, just like before. Stop, and open your eyes.",
+     "kid": "Turn round. Shut your eyes. Walk 10 steps home. Open your eyes. Where are you?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Your eyes were shut. How did you know where to stop?",
+       "good": [
+        "I counted my steps.",
+        "Ten steps out, ten steps back."
+       ]
+      }
+     ],
+     "context": "This is step 2 of Walk Like a Desert Ant. You walk 10 steps home from the food with your eyes shut."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Go back to the food. Ask for a guess: with 10 giant steps, where will you stop? 2. Your child walks 10 giant steps with eyes shut. Mark the place. 3. Repeat with 10 tiny steps. 4. Tell what happened to the real ants.",
+     "say": "Now 10 giant steps home, eyes shut. Where will you end up? The ants on stilts walked right past their nest too.",
+     "kid": "Take 10 giant steps home, eyes shut. Then try 10 tiny steps. Where do you stop?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "The number of steps was the same. Why did you stop in a different place?",
+       "good": [
+        "My steps were longer.",
+        "Each giant step goes further.",
+        "Tiny steps do not go far."
+       ]
+      }
+     ],
+     "parent": "In the real test, ants with stilts glued on at the food walked about 15 metres, and ants with shortened legs stopped well short of 10 metres.",
+     "check": {
+      "t": "mcq",
+      "q": "An ant walks to her food. Then her legs are made longer. What happens on the way home?",
+      "options": [
+       "She stops too soon",
+       "She walks past her nest",
+       "She stops at her nest"
+      ],
+      "a": 1,
+      "why": "She walks past her nest. She takes about as many steps as before, but each step is longer now. Picking 'stops at her nest' forgets that her steps changed size."
+     },
+     "context": "This is the last step of Walk Like a Desert Ant. You walk home with giant steps and then tiny steps, as the ants with longer and shorter legs did."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Longer Wins, Shorter Wins",
+   "mins": 10,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a game played with 12 paper strips of different lengths and a coin. Each player pulls a strip without looking, and the coin says whether the longer or the shorter strip wins. It builds quick, fair comparing.",
+   "printables": [
+    {
+     "kind": "tokens",
+     "title": "12 paper strips to cut from the squared paper of a maths notebook, each one square wide",
+     "items": [
+      "A strip 3 squares long",
+      "A strip 4 squares long",
+      "A strip 5 squares long",
+      "A strip 6 squares long",
+      "A strip 7 squares long",
+      "A strip 8 squares long",
+      "A strip 9 squares long",
+      "A strip 10 squares long",
+      "A strip 11 squares long",
+      "A strip 12 squares long",
+      "A strip 13 squares long",
+      "A strip 14 squares long"
+     ]
+    }
+   ],
+   "rules": [
+    "Cut 12 strips from squared paper, each one square wide. Make them 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14 squares long. Put them in a bag or a dabba.",
+    "Each player pulls out one strip without looking.",
+    "Toss a coin. Heads: the longer strip wins. Tails: the shorter strip wins.",
+    "Before checking, each player says who they think has won.",
+    "Check at the start line: push one end of each strip against the edge of a book. The winner keeps all the strips from that round.",
+    "Play until the bag is empty. The player with the most strips wins. If it is a tie, each player lays their strips end to end, and the longer train wins.",
+    "Playing alone: pull two strips and lay them far apart. Guess which is longer, then check. Score one bean for each right guess. Try to get 5 out of 6."
+   ],
+   "setup": [
+    {
+     "art": "Twelve paper strips of squared paper, from 3 squares to 14 squares long, beside a steel dabba and a coin.",
+     "caption": "1. Cut 12 strips. Put them in a dabba."
+    },
+    {
+     "art": "Two children each holding one paper strip, with a coin showing heads on the table between them.",
+     "caption": "2. Pull a strip each. Toss the coin."
+    },
+    {
+     "art": "Two paper strips pushed against the edge of a book, one clearly longer, with a child pointing at the far ends.",
+     "caption": "3. Line up at the book. Who wins?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut the 12 strips together, or use strips cut earlier. 2. Put them in the dabba. 3. Read the rules aloud.",
+     "say": "Every strip is a different length. The coin will tell us if longer wins or shorter wins.",
+     "kid": "Put the 12 strips in the dabba. No two strips are the same length.",
+     "adult": true,
+     "parent": "Cutting along the lines of squared paper keeps the strips straight. Plain paper strips of 12 different lengths work too.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "3",
+        "parts": 3,
+        "width": 15
+       },
+       {
+        "label": "8",
+        "parts": 8,
+        "width": 40
+       },
+       {
+        "label": "14",
+        "parts": 14,
+        "width": 70
+       }
+      ],
+      "title": "Three of the 12 strips"
+     },
+     "context": "This is the first step of Longer Wins, Shorter Wins, a game with 12 paper strips and a coin. Here you get the strips ready."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Play one practice round. 2. Each pull a strip. Toss the coin. 3. Each say who has won. 4. Check at the book's edge.",
+     "say": "It is tails, so shorter wins. Who do you think has won? Now let us check at the book.",
+     "kid": "Pull a strip. Toss the coin. Say who wins. Then check at the book.",
+     "check": {
+      "t": "mcq",
+      "q": "The coin shows tails, so shorter wins. Your strip is longer than mine. Who wins?",
+      "options": [
+       "You do",
+       "I do",
+       "Nobody"
+      ],
+      "a": 1,
+      "why": "I do, because my strip is the shorter one and tails means shorter wins. Picking 'you do' means thinking that longer always wins."
+     },
+     "context": "This is step 2 of Longer Wins, Shorter Wins, a game with 12 paper strips and a coin. Here you play one practice round."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play until the dabba is empty. 2. Each round, ask your child to guess before the strips are lined up. 3. Now and then, hold your strip a little ahead and see if your child notices.",
+     "say": "Guess first. Now line them up. Are both strips touching the book?",
+     "kid": "Play the game. Guess first each time. Then line up the strips.",
+     "ask": [
+      {
+       "q": "My strip sticks out further. Does that mean it is longer?",
+       "good": [
+        "Not if it started ahead.",
+        "Push it back to the book first."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Longer Wins, Shorter Wins, a game with 12 paper strips and a coin. Here you play all the rounds."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Each player counts their strips. 2. If it is a tie, each lays their strips end to end from the same line. 3. The longer train wins.",
+     "say": "Count your strips. If we have the same number, we make two trains and compare them.",
+     "kid": "Count your strips. Most strips wins. A tie? Make trains and compare.",
+     "context": "This is the last step of Longer Wins, Shorter Wins, a game with 12 paper strips and a coin. Here you find the winner."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Longer or Shorter Than My Pencil?",
+   "mins": 10,
+   "players": "1 to 3 players: alone, with a parent or with friends",
+   "context": "This is a hunting game. You pick a card that names a thing in your home, guess whether it is longer or shorter than your pencil, then fetch it and check. It builds a good eye for length.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "10 thing cards to cut out",
+     "items": [
+      "a teaspoon",
+      "a comb",
+      "a key",
+      "a toothbrush",
+      "a chappal",
+      "a clothes peg",
+      "a ladle",
+      "a matchbox",
+      "a hairband or ribbon",
+      "a book"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "A score sheet with three columns",
+     "items": [
+      "Shorter than my pencil",
+      "About the same",
+      "Longer than my pencil"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player has a pencil. All the pencils should be about the same length. Put the 10 thing cards face down in a heap.",
+    "On your turn, turn over a card and read the thing. Guess aloud: longer than your pencil, shorter, or about the same.",
+    "Fetch the thing. Push it and your pencil against the edge of a book and look at the other ends.",
+    "If your guess was right, take a bean. Write the thing in the right column of the score sheet.",
+    "A ribbon or a hairband must be pulled straight before you compare.",
+    "When all 10 cards are used, the player with the most beans wins.",
+    "Playing alone: try to win 7 beans or more out of 10."
+   ],
+   "setup": [
+    {
+     "art": "Ten small paper cards face down in a heap, with a pencil, a few beans and a sheet of paper ruled into three columns.",
+     "caption": "1. Put the cards face down. Take your pencil."
+    },
+    {
+     "art": "A child holding a card that says comb, thinking, with a thought bubble showing a comb beside a pencil.",
+     "caption": "2. Turn a card. Guess: longer or shorter than your pencil?"
+    },
+    {
+     "art": "A comb and a pencil pushed against the edge of a book, with a bean being placed beside the child.",
+     "caption": "3. Fetch it and check. A right guess wins a bean."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out the 10 cards, or write them on slips. 2. Draw the score sheet with three columns. 3. Give each player a pencil and put the beans in the middle.",
+     "say": "We will guess with our eyes first. Then we check at the book.",
+     "kid": "Put the cards face down. Take your pencil. Draw three columns.",
+     "chart": {
+      "type": "table",
+      "title": "The score sheet",
+      "cols": [
+       "Shorter",
+       "About the same",
+       "Longer"
+      ],
+      "rows": [
+       [
+        "",
+        "",
+        ""
+       ],
+       [
+        "",
+        "",
+        ""
+       ]
+      ]
+     },
+     "context": "This is the first step of Longer or Shorter Than My Pencil?, a hunting game with 10 thing cards. Here you get ready."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Take one practice turn. 2. Turn a card. Guess aloud. 3. Fetch the thing and check it against your pencil at the book's edge.",
+     "say": "My card says key. I think a key is shorter than my pencil. Let me fetch one and check.",
+     "kid": "Turn a card. Guess aloud. Fetch the thing. Check it at the book.",
+     "check": {
+      "t": "mcq",
+      "q": "You want to check a ribbon against your pencil. What must you do first?",
+      "options": [
+       "Pull the ribbon straight",
+       "Roll the ribbon up",
+       "Nothing"
+      ],
+      "a": 0,
+      "why": "Pull it straight and start both at the same line. A rolled or wavy ribbon hides part of its length. Picking 'nothing' means comparing the room it takes up, not its length."
+     },
+     "context": "This is step 2 of Longer or Shorter Than My Pencil?, a hunting game with 10 thing cards. Here you take a practice turn."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Take turns until all 10 cards are used. 2. Each time, the player says the guess before fetching. 3. Write each thing in its column.",
+     "say": "Say your guess first. Then fetch it. Did you get a bean?",
+     "kid": "Take turns. Say your guess first. Fetch and check. Win a bean if right.",
+     "ask": [
+      {
+       "q": "Which thing was hardest to guess? Why?",
+       "good": [
+        "The toothbrush, it was nearly the same.",
+        "The ribbon, because it was folded."
+       ]
+      }
+     ],
+     "parent": "Things close to the pencil's length are the interesting ones. If it is too close to tell, 'about the same' counts as right.",
+     "context": "This is step 3 of Longer or Shorter Than My Pencil?, a hunting game with 10 thing cards. Here you play all the turns."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Count the beans. 2. Look at the score sheet together. 3. Ask which column has the most things.",
+     "say": "Count your beans. Which column is the fullest?",
+     "kid": "Count your beans. Most beans wins. Which column is fullest?",
+     "context": "This is the last step of Longer or Shorter Than My Pencil?, a hunting game with 10 thing cards. Here you count up."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Sprout Strip Chart: how long today?",
+   "mins": 25,
+   "days": 5,
+   "context": "In this five-day project you sprout moong beans. Each day you cut a paper strip as long as the longest sprout. You paste the strip on a chart. The strips stand side by side from one line, so you can see the sprout's length grow.",
+   "problem": "A sprout is longer every day, but yesterday's sprout is gone. Paper strips keep each day's length, so the days can be compared.",
+   "materials": [
+    {
+     "item": "whole green moong beans",
+     "qty": "about 20"
+    },
+    {
+     "item": "a small bowl, water and a clean wet cloth",
+     "qty": 1
+    },
+    {
+     "item": "strips of paper, one finger wide",
+     "qty": 4
+    },
+    {
+     "item": "a sheet of paper for the chart, glue or tape",
+     "qty": 1
+    },
+    {
+     "item": "scissors, for the grown-up",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep dry beans away from babies and toddlers, who could choke on them. Do not eat sprouts that have been handled for measuring.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "In the evening, soak about 20 moong beans in water. Draw a start line across the bottom of the chart."
+    },
+    {
+     "day": 2,
+     "mins": 3,
+     "what": "In the morning, pour off the water. Wrap the beans in a wet cloth and keep them in the bowl."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Pick the longest sprout. Cut a paper strip as long as its white tail. Paste the strip standing on the start line."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Sprinkle water on the cloth. Cut and paste a strip for today's longest sprout, beside yesterday's."
+    },
+    {
+     "day": 5,
+     "mins": 7,
+     "what": "Cut and paste the last strip. Read the chart: which day was longest, and how did the length change?"
+    }
+   ],
+   "record": "The chart is the record: three strips standing side by side on one line, with the day written under each.",
+   "setup": [
+    {
+     "art": "Green moong beans soaking in a small steel bowl of water beside a folded white cloth.",
+     "caption": "1. Soak the moong overnight. Then keep them in a wet cloth."
+    },
+    {
+     "art": "A child's fingers holding a sprouted moong bean with a white tail against a paper strip, with a pencil mark where the tail ends.",
+     "caption": "2. Hold the longest sprout on a paper strip. Mark where the tail ends."
+    },
+    {
+     "art": "A sheet of paper with a line across the bottom and three paper strips of growing height standing on the line, labelled Day 3, Day 4 and Day 5.",
+     "caption": "3. Paste each day's strip on the start line."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. On day 1, in the evening, soak about 20 moong beans. 2. Draw a line across the bottom of the chart paper. 3. On day 2, pour off the water and wrap the beans in a wet cloth. 4. Ask for a guess: how long will a sprout be in three days?",
+     "say": "These beans will wake up and grow tails. Show me with your fingers how long a tail will be in three days.",
+     "kid": "Soak the moong beans. Next morning, wrap them in a wet cloth. Guess how long they will grow.",
+     "parent": "Keep the cloth damp, not dripping. In warm weather small white tails show by the morning of day 3. In cool weather they can take a day longer.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "Day 3",
+        "parts": 1,
+        "width": 10
+       },
+       {
+        "label": "Day 4",
+        "parts": 1,
+        "width": 26
+       },
+       {
+        "label": "Day 5",
+        "parts": 1,
+        "width": 46
+       }
+      ],
+      "title": "What a finished chart can look like (yours will be your own)"
+     },
+     "context": "These are days 1 and 2 of the Sprout Strip Chart, a five-day project. You soak moong beans and wrap them in a wet cloth so that they sprout."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. On days 3 and 4, your child picks the longest sprout. 2. Hold its tail gently along a paper strip, one end at the strip's end. 3. Mark where the tail stops, and cut there. 4. Paste the strip standing on the start line. Write the day under it.",
+     "say": "Find the longest sprout. Lay the tail along the strip, starting at the end. I will cut where the tail stops.",
+     "kid": "Find the longest sprout. Lay their tail on the strip. Paste the strip on the line.",
+     "adult": true,
+     "wait": "Do this on day 3 and again on day 4.",
+     "ask": [
+      {
+       "q": "Is today's strip longer than yesterday's? How can you tell?",
+       "good": [
+        "Yes, it stands higher.",
+        "They start at the same line and today's goes further."
+       ]
+      }
+     ],
+     "parent": "A curved tail must be straightened gently along the strip. If no tails have come by day 3, wait one more day and start the chart then.",
+     "context": "These are days 3 and 4 of the Sprout Strip Chart, a five-day project with sprouting moong beans. Each day you cut a paper strip as long as the longest sprout's tail."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. On day 5, cut and paste the last strip. 2. Ask which strip is the shortest and which is the longest. 3. Ask what your child thinks tomorrow's strip would look like, and why.",
+     "say": "Look at your three strips. What happened to the length each day? What would tomorrow's strip look like?",
+     "kid": "Paste the last strip. Which is longest? What would tomorrow's strip look like?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Why do all the strips stand on one line?",
+       "good": [
+        "So that we can compare them.",
+        "It is the start line."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Three strips stand on one line. How do you find the longest?",
+      "options": [
+       "The one whose top is highest",
+       "The one on the right",
+       "The one pasted last"
+      ],
+      "a": 0,
+      "why": "The one whose top is highest. All the strips start on the same line, so the top that reaches furthest belongs to the longest strip. The strip pasted last is often the longest here, but only because the sprout grew."
+     },
+     "context": "This is day 5 of the Sprout Strip Chart, a five-day project with sprouting moong beans. You paste the last strip and read the chart."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Stretch: will it fit? Compare two things that cannot move",
+   "mins": 20,
+   "context": "This is a design challenge that goes past Class 1. You must find out whether a table would fit through a doorway, without moving the table. You invent a way to carry the table's length to the door.",
+   "problem": "A table stands in one room. A doorway is in another part of the house. Is the table narrower than the doorway, so that it could go straight through? You may not move the table.",
+   "constraints": [
+    "The table stays where it is. The door stays where it is.",
+    "No ruler and no measuring tape.",
+    "You must be sure of your answer, and able to show someone why."
+   ],
+   "materials": [
+    "a ball of wool or string",
+    "old newspaper and tape",
+    "scissors, for the grown-up",
+    "a table (or a big box or a chair) and a doorway",
+    "a steel tumbler, for the last step"
+   ],
+   "general": [
+    "Cut a string as long as the table is wide. Carry the string to the doorway and hold it across.",
+    "Hold a broomstick across the table and pinch it where the table ends. Carry the stick to the door, still pinching."
+   ],
+   "creative": [
+    "Count how many of your hand spans fit across the table. Then count hand spans across the doorway. Use the same hand each time.",
+    "Tape sheets of newspaper together until they are as wide as the table. Carry the paper to the door.",
+    "Hold your arms as wide as the table and walk to the door. Then test whether your arms stayed still on the way."
+   ],
+   "your_turn": "Now invent your own way to carry the table's length to the door. Use it. Then check it with a second way. If the two ways disagree, find out why.",
+   "setup": [
+    {
+     "art": "A small dining table in one room and an open doorway seen across a hall, with a child looking from one to the other.",
+     "caption": "1. Guess: is the table narrower than the doorway?"
+    },
+    {
+     "art": "A child and a grown-up holding a piece of wool across the width of a table top, with scissors ready at the table's edge.",
+     "caption": "2. One way: cut a string as wide as the table."
+    },
+    {
+     "art": "The child holding the same wool across the doorway, with a gap of a hand's width left over at one side.",
+     "caption": "3. Carry the string to the doorway. Does it fit?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Stand where your child can see the table. Then walk to the doorway. 2. Ask for a guess and a reason. 3. Ask how they could be sure without moving the table.",
+     "say": "Would the table go straight through this doorway? Why do you think so? How could we be sure?",
+     "kid": "Look at the table. Look at the door. Would the table fit through? Guess.",
+     "ask": [
+      {
+       "q": "Why can we not line them up at a start line?",
+       "good": [
+        "The table cannot move.",
+        "They are in different rooms."
+       ]
+      }
+     ],
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "table",
+        "parts": 1,
+        "width": 48
+       },
+       {
+        "label": "door",
+        "parts": 1,
+        "width": 56
+       }
+      ],
+      "title": "A table and a doorway: which is wider?"
+     },
+     "context": "This is the first step of the challenge Will It Fit? You guess whether a table is narrower than a doorway, without moving the table."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Ask for ideas. 2. Read the usual ways and the creative ways aloud, if your child wants ideas. 3. Let your child choose one way.",
+     "say": "The table cannot go to the door. What could go from the table to the door for us?",
+     "kid": "The table cannot move. What could you carry from the table to the door?",
+     "ask": [
+      {
+       "q": "How could a string help?",
+       "good": [
+        "Make it as long as the table.",
+        "Take the string to the door."
+       ]
+      }
+     ],
+     "context": "This is step 2 of the challenge Will It Fit?, where a table must be compared with a doorway. Here you think of ways to carry the table's length."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Your child uses their way. Help with cutting. 2. At the doorway, ask what the string shows. 3. Check with a second way. 4. If you can, test for real with a light table or box.",
+     "say": "The string is as long as the table is wide. Now hold it across the doorway. What does it tell us?",
+     "kid": "Use your way. Carry the length to the door. Does the table fit?",
+     "adult": true,
+     "parent": "The string is a go-between. It is as long as the table, so whatever is true of the string at the door is true of the table.",
+     "check": {
+      "t": "mcq",
+      "q": "A string is as long as the table is wide. The doorway is wider than the string. Will the table fit?",
+      "options": [
+       "Yes",
+       "No",
+       "You cannot tell"
+      ],
+      "a": 0,
+      "why": "Yes. The table and the string are the same length, and the doorway is wider than the string. So the doorway is wider than the table too. Picking 'you cannot tell' means not yet trusting the string to stand in for the table."
+     },
+     "context": "This is step 3 of the challenge Will It Fit?, where a table must be compared with a doorway. Here you test your own way."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Show the steel tumbler. Ask which is longer: its height, or the way round its rim. 2. Write the guess. 3. Your child wraps a string once round the rim. Cut it. 4. Stand the string up beside the tumbler.",
+     "say": "Which is longer: how tall this tumbler is, or the way round its top? Guess, then check with a string.",
+     "kid": "Which is longer: up the tumbler, or round its top? Guess. Check with a string.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Were you surprised? Why did the height look longer?",
+       "good": [
+        "Standing things look longer.",
+        "The round way is bent, so it hides."
+       ]
+      }
+     ],
+     "parent": "For an ordinary steel tumbler the way round is about twice the height, or more. Most people, grown-ups too, guess that the height is longer.",
+     "context": "This is the last step of the challenge Will It Fit? You use a string to compare a tumbler's height with the way round its rim."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Longer or Shorter? (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which ribbon is longer?",
+     "opts": [
+      "A",
+      "B",
+      "They are the same"
+     ],
+     "a": 1,
+     "why": "B. Both ribbons start at the same line, and B goes on further.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 40
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 62
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Which stick is the shortest?",
+     "opts": [
+      "A",
+      "B",
+      "C"
+     ],
+     "a": 1,
+     "why": "B. All three start at the same line, and B stops first.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 50
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 24
+       },
+       {
+        "label": "C",
+        "parts": 1,
+        "width": 66
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "Straw A and straw B are the same length.",
+     "a": true,
+     "why": "True. They start at the same line and they stop at the same place.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 46
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 46
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Write taller or shorter: A giraffe is ____ than a goat.",
+     "a": [
+      "taller"
+     ],
+     "why": "Taller. Both stand on the ground, and the giraffe's head is much higher up."
+    },
+    {
+     "t": "mcq",
+     "p": "You want to compare two pencils. What do you do first?",
+     "opts": [
+      "Line up one end of each",
+      "Hold them far apart",
+      "Look at their colours"
+     ],
+     "a": 0,
+     "why": "Line up one end of each. Then the other ends show which is longer. Held far apart, your eyes can get it wrong.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "You slide a straw forward. Now the straw is longer.",
+     "a": false,
+     "why": "False. Sliding does not add anything to the straw. It sticks out in front and falls behind at the back.",
+     "how": "e1"
+    },
+    {
+     "t": "order",
+     "p": "Put the ribbons in order, shortest first.",
+     "items": [
+      "A",
+      "B",
+      "C"
+     ],
+     "a": [
+      "B",
+      "C",
+      "A"
+     ],
+     "why": "B stops first, then C, then A. So the order is B, C, A.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 62
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 22
+       },
+       {
+        "label": "C",
+        "parts": 1,
+        "width": 42
+       }
+      ]
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Which word do we use: tall or long?",
+     "cats": [
+      "Tall",
+      "Long"
+     ],
+     "items": [
+      [
+       "a coconut tree",
+       "Tall"
+      ],
+      [
+       "a train",
+       "Long"
+      ],
+      [
+       "a lamp post",
+       "Tall"
+      ],
+      [
+       "a river",
+       "Long"
+      ],
+      [
+       "a giraffe",
+       "Tall"
+      ],
+      [
+       "a road",
+       "Long"
+      ]
+     ],
+     "a": "see items",
+     "why": "We say tall for things that stand up from the ground. We say long for things that lie along the ground. Both words tell about length."
+    },
+    {
+     "t": "match",
+     "p": "Match each thing to the word that fits best.",
+     "pairs": [
+      [
+       "a well",
+       "deep"
+      ],
+      [
+       "a kite in the sky",
+       "high"
+      ],
+      [
+       "a rope on the floor",
+       "long"
+      ],
+      [
+       "a lamp post",
+       "tall"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Deep, high, long and tall all tell how far it is from one end to the other. The word changes with the direction."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a long snake and a short snake. Start both at one line.",
+     "a": "Two snakes that start at the same line, one clearly going further than the other.",
+     "why": "A strong drawing has both snakes starting at one line. Then anyone can see which one is longer."
+    },
+    {
+     "t": "draw",
+     "p": "Draw yourself and someone taller than you, standing on the same floor.",
+     "a": "Two people with their feet on one line, and the other person's head higher.",
+     "why": "The floor is the start line. The person whose head is higher is taller."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. Why did the pushed straw look longer in the Line-Up Test?",
+     "lines": 2,
+     "a": "Because its front end stuck out. But its back end was behind, so it was not longer.",
+     "why": "A strong answer talks about both ends. The straw stuck out at one end and fell short at the other.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Order and Reason (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "order",
+     "p": "Put the sticks in order, shortest first.",
+     "items": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "a": [
+      "C",
+      "A",
+      "D",
+      "B"
+     ],
+     "why": "C stops first, then A, then D, then B. In order they make a staircase.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 34
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 62
+       },
+       {
+        "label": "C",
+        "parts": 1,
+        "width": 20
+       },
+       {
+        "label": "D",
+        "parts": 1,
+        "width": 48
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Write A or B: Bead chain ____ is longer.",
+     "a": [
+      "B"
+     ],
+     "why": "B. Every bead is the same size, and both chains start at the same line. B has more beads, so it goes further.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A",
+        "n": 7
+       },
+       {
+        "label": "B",
+        "n": 10
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Chain B is ____ beads longer than chain A.",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "3. Chain A has 6 beads and chain B has 9. Count on from 6: 7, 8, 9. That is 3 more beads.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A",
+        "n": 6
+       },
+       {
+        "label": "B",
+        "n": 9
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Meena is taller than Ravi. Ravi is taller than Anu. Who is the shortest?",
+     "opts": [
+      "Meena",
+      "Ravi",
+      "Anu"
+     ],
+     "a": 2,
+     "why": "Anu. Ravi is shorter than Meena, and Anu is shorter still. In order they are Anu, Ravi, Meena."
+    },
+    {
+     "t": "mcq",
+     "p": "A string lies in loops. What must you do before you compare it with a pencil?",
+     "opts": [
+      "Pull the string straight",
+      "Count the loops",
+      "Nothing"
+     ],
+     "a": 0,
+     "why": "Pull it straight, with one end at the start line. A looped string hides part of its length.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A pencil standing up is longer than the same pencil lying down.",
+     "a": false,
+     "why": "False. It is the same pencil with the same length. Only the way it points has changed.",
+     "how": "a1"
+    },
+    {
+     "t": "truefalse",
+     "p": "The same pencil can be the longer one in one pair and the shorter one in another pair.",
+     "a": true,
+     "why": "True. A pencil is longer than an eraser and shorter than a broom. Long and short are words for comparing."
+    },
+    {
+     "t": "mcq",
+     "p": "Which stick is neither the longest nor the shortest?",
+     "opts": [
+      "A",
+      "B",
+      "C"
+     ],
+     "a": 2,
+     "why": "C. A is the shortest and B is the longest. C comes in between.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 28
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 58
+       },
+       {
+        "label": "C",
+        "parts": 1,
+        "width": 44
+       }
+      ]
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Is it longer or shorter than your own arm?",
+     "cats": [
+      "Shorter",
+      "Longer"
+     ],
+     "items": [
+      [
+       "a toothbrush",
+       "Shorter"
+      ],
+      [
+       "a bus",
+       "Longer"
+      ],
+      [
+       "a matchstick",
+       "Shorter"
+      ],
+      [
+       "a broom",
+       "Longer"
+      ],
+      [
+       "a key",
+       "Shorter"
+      ],
+      [
+       "a bed",
+       "Longer"
+      ]
+     ],
+     "a": "see items",
+     "why": "A toothbrush, a matchstick and a key would stop before your fingertips. A bus, a broom and a bed go on well past them."
+    },
+    {
+     "t": "draw",
+     "p": "Draw three pencils in a staircase, from shortest to longest. Start all three at one line.",
+     "a": "Three pencils starting at one line, each longer than the one before.",
+     "why": "In a strong drawing the far ends climb like steps, and the starting ends are level.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. A ribbon's end sticks out further. What would you check?",
+     "lines": 2,
+     "a": "I would check that both ribbons start at the same line and are pulled straight.",
+     "why": "A strong answer looks at the other end. A ribbon can stick out only because it started ahead.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "A pencil stands in a tumbler. Two children talk about it.",
+     "views": [
+      {
+       "who": "The first child",
+       "says": "It is tall. It points up."
+      },
+      {
+       "who": "The second child",
+       "says": "It is long. It is a pencil, and pencils are long."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says both words tell about the same length of the same pencil.",
+     "why": "Both are right. Tall and long both tell how far it is from one end to the other. Tall also says that it points up.",
+     "how": "a1"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Strings and Puzzles (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A string is as long as a table. The doorway is wider than the string. Will the table fit through?",
+     "opts": [
+      "Yes",
+      "No",
+      "You cannot tell"
+     ],
+     "a": 0,
+     "why": "Yes. The table matches the string, and the doorway is wider than the string. So the doorway is wider than the table.",
+     "how": "c1"
+    },
+    {
+     "t": "mcq",
+     "p": "Rope A is longer than rope B. Rope B and rope C are the same length. Which is true?",
+     "opts": [
+      "A is longer than C",
+      "C is longer than A",
+      "A and C are the same"
+     ],
+     "a": 0,
+     "why": "A is longer than C. C matches B, and A is longer than B. So A is longer than C as well.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 1,
+        "width": 60
+       },
+       {
+        "label": "B",
+        "parts": 1,
+        "width": 40
+       },
+       {
+        "label": "C",
+        "parts": 1,
+        "width": 40
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "One chain has 12 beads. Another has 8 beads. The long chain has ____ more beads.",
+     "a": [
+      "4",
+      "four"
+     ],
+     "why": "4. Take 8 away from 12 and 4 are left. The long chain goes on for 4 more beads.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "12",
+       "− 8"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Count the squares. Strip B is ____ squares longer than strip A.",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "3. Strip A is 5 squares long and strip B is 8 squares long. From 5, count on to 8: that is 3 more.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "A",
+        "parts": 5,
+        "width": 35
+       },
+       {
+        "label": "B",
+        "parts": 8,
+        "width": 56
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "Your shadow is longer early in the morning than it is at noon.",
+     "a": true,
+     "why": "True. In the early morning the Sun is low and shadows are long. At noon the Sun is high and shadows are short.",
+     "how": "a4"
+    },
+    {
+     "t": "truefalse",
+     "p": "In the test, desert ants given longer legs stopped before they reached the nest.",
+     "a": false,
+     "why": "False. They walked past the nest. Each step was longer, so the same steps took them too far.",
+     "how": "a5"
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, shortest first.",
+     "items": [
+      "a bus",
+      "a matchstick",
+      "a cricket bat",
+      "a toothbrush"
+     ],
+     "a": [
+      "a matchstick",
+      "a toothbrush",
+      "a cricket bat",
+      "a bus"
+     ],
+     "why": "A matchstick is shorter than your finger. A toothbrush is about as long as your hand. A bat is as long as your leg or more. A bus is longer than a room."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to its opposite.",
+     "pairs": [
+      [
+       "long",
+       "short"
+      ],
+      [
+       "high",
+       "low"
+      ],
+      [
+       "deep",
+       "shallow"
+      ],
+      [
+       "longest",
+       "shortest"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each pair tells about length in one direction: along, up or down. One word is for a lot of it and the other for a little."
+    },
+    {
+     "t": "mcq",
+     "p": "Amma's muzham is longer than Kavya's. Each cuts one muzham of flowers. Who has more?",
+     "opts": [
+      "Kavya",
+      "Amma",
+      "Both the same"
+     ],
+     "a": 1,
+     "why": "Amma. A muzham is as long as the arm that measures it. A longer arm cuts a longer string.",
+     "how": "a3",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "Amma",
+        "parts": 1,
+        "width": 56
+       },
+       {
+        "label": "Kavya",
+        "parts": 1,
+        "width": 36
+       }
+      ]
+     }
+    },
+    {
+     "t": "draw",
+     "p": "Draw a wiggly string that looks short. Then draw the same string pulled straight.",
+     "a": "A wiggly line, and below it a clearly longer straight line starting at the same place.",
+     "why": "In a strong drawing the straight string reaches further than the wiggly one did, because the bends have been pulled out."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. Which is longer: round a tumbler, or up it? How would you check?",
+     "lines": 2,
+     "a": "Wrap a string once round the tumbler and cut it. Then stand the string up beside the tumbler.",
+     "why": "A strong answer uses a string, or a strip of paper, to carry the round length and make it straight.",
+     "how": "c1"
+    },
+    {
+     "t": "perspective",
+     "p": "Two thinkers talk about a stick.",
+     "views": [
+      {
+       "who": "The first thinker",
+       "says": "The stick has its own length, whoever looks at it."
+      },
+      {
+       "who": "The second thinker",
+       "says": "Nothing is long by itself. It is long only next to something shorter."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other thinker has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side and gives a reason from the unit. For example: the straw kept its length when it was moved, or the pencil was long next to an eraser and short next to a broom.",
+     "why": "Both have a point. The stick's length stays the same when you move it. But the words long and short are for comparing."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which stick is shorter?",
+   "opts": [
+    "A",
+    "B",
+    "They are the same"
+   ],
+   "a": 1,
+   "why": "B. Both start at the same line, and B stops first. Picking A means choosing the longer one.",
+   "outcome": 0,
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "A",
+      "parts": 1,
+      "width": 62
+     },
+     {
+      "label": "B",
+      "parts": 1,
+      "width": 48
+     }
+    ]
+   }
+  },
+  {
+   "t": "truefalse",
+   "p": "Look at the picture. Ribbon A is longer than ribbon B.",
+   "a": false,
+   "why": "False. They start together and stop together, so they are the same length.",
+   "outcome": 0,
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "A",
+      "parts": 1,
+      "width": 44
+     },
+     {
+      "label": "B",
+      "parts": 1,
+      "width": 44
+     }
+    ]
+   }
+  },
+  {
+   "t": "fill",
+   "p": "Write A or B: Bead chain ____ is the longer one.",
+   "a": [
+    "B"
+   ],
+   "why": "B. The beads are all one size and both chains start at the same line. B goes further.",
+   "outcome": 0,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "A",
+      "n": 5
+     },
+     {
+      "label": "B",
+      "n": 8
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "What must you do before you compare two spoons?",
+   "opts": [
+    "Put one end of each at the same line",
+    "Put them far apart",
+    "Turn one upside down"
+   ],
+   "a": 0,
+   "why": "Put one end of each at the same line. Then the far ends show which is longer. Far apart, a look can fool you.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Two ribbons start at the same line. How do you tell which is longer?",
+   "opts": [
+    "Look at the other ends",
+    "Look at the start line",
+    "Look at the colours"
+   ],
+   "a": 0,
+   "why": "Look at the other ends. The ribbon whose end goes further is the longer one.",
+   "outcome": 1
+  },
+  {
+   "t": "truefalse",
+   "p": "Two straws match. You push one ahead. Now that straw is longer.",
+   "a": false,
+   "why": "False. It only moved. It sticks out in front and falls short at the back. Lined up again, the straws match.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "A string is curled up. You pull it straight. What happened to its length?",
+   "opts": [
+    "It got longer",
+    "It stayed the same",
+    "It got shorter"
+   ],
+   "a": 1,
+   "why": "It stayed the same. The curl was hiding the length. Picking 'it got longer' mixes up the room a string takes with its length.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A pencil stands up. Then it lies down. What changed?",
+   "opts": [
+    "Its length",
+    "Only the way it points",
+    "Its size"
+   ],
+   "a": 1,
+   "why": "Only the way it points. Tall and long are two words for the same length.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which word fits a coconut tree best?",
+   "opts": [
+    "deep",
+    "tall",
+    "low"
+   ],
+   "a": 1,
+   "why": "Tall. We say tall for a thing that stands up a long way from the ground. Deep is for going down, as in a well.",
+   "outcome": 3
+  },
+  {
+   "t": "order",
+   "p": "Put the four sticks in order, from shortest to longest.",
+   "items": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "a": [
+    "B",
+    "D",
+    "A",
+    "C"
+   ],
+   "why": "B stops first, then D, then A, then C. The far ends climb like stairs.",
+   "outcome": 4,
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "A",
+      "parts": 1,
+      "width": 50
+     },
+     {
+      "label": "B",
+      "parts": 1,
+      "width": 22
+     },
+     {
+      "label": "C",
+      "parts": 1,
+      "width": 66
+     },
+     {
+      "label": "D",
+      "parts": 1,
+      "width": 36
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Asha is taller than Bala. Bala is taller than Chitra. Who is the tallest?",
+   "opts": [
+    "Asha",
+    "Bala",
+    "Chitra"
+   ],
+   "a": 0,
+   "why": "Asha. She is taller than Bala, and Bala is taller than Chitra. So Asha is taller than both.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A string is as long as a table. The string is longer than the doorway is wide. Will the table fit?",
+   "opts": [
+    "Yes",
+    "No",
+    "You cannot tell"
+   ],
+   "a": 1,
+   "why": "No. The table matches the string, and the string is wider than the doorway. So the table is wider than the doorway.",
+   "outcome": 5,
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "table",
+      "parts": 1,
+      "width": 54
+     },
+     {
+      "label": "string",
+      "parts": 1,
+      "width": 54
+     },
+     {
+      "label": "door",
+      "parts": 1,
+      "width": 44
+     }
+    ]
+   }
+  },
+  {
+   "t": "truefalse",
+   "p": "A string can carry the length of a table to another room.",
+   "a": true,
+   "why": "True. Cut the string to match the table. Wherever the string goes, it is still as long as the table.",
+   "outcome": 5
+  }
+ ],
+ "videos": [
+  {
+   "title": "Comparing lengths | Measurement and data | Early Math | Khan Academy",
+   "channel": "Khan Academy",
+   "youtube": "o-D-8B_5ibU",
+   "mins": 3,
+   "why": "For the child and parent together: a short lesson on saying which of two things is longer. It also uses a ruler, which goes one step past this unit.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length comes from a listing site. Watch it once before showing it."
+  },
+  {
+   "title": "Ordering by length (Khan Academy, Early Math)",
+   "channel": "Khan Academy",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 3,
+   "why": "For the child and parent together: putting three things in order of length, and comparing two things with the help of a third.",
+   "check": "A lesson-listing site describes this Khan Academy video, about 2 and a half minutes long. Its YouTube id could not be confirmed, so it must be looked up."
+  },
+  {
+   "title": "Ants That Count!",
+   "channel": "NPR, by Robert Krulwich and Odd Todd",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 5,
+   "why": "For the parent and child together: a cartoon that tells the 2006 test in which desert ants were given longer and shorter legs. Watch it after the activity Walk Like a Desert Ant.",
+   "check": "The cartoon was found on NPR's site and on Vimeo, but not on YouTube. A YouTube copy must be looked up, or this slot given to another video. The length is a rough guess."
+  }
+ ],
+ "applications": [
+  "A flower seller in Tamil Nadu measures a string of jasmine along her arm, from the elbow to the fingertip.",
+  "A tailor lays an old blouse or shirt on new cloth, to cut the new one to the same length.",
+  "A shopkeeper stands a cricket bat beside a child to see whether the bat is the right height.",
+  "A doctor measures a baby lying down and an older child standing up, to see how much they have grown.",
+  "A carpenter holds a plank against a gap to see whether it is long enough before cutting.",
+  "At school assembly, children stand in order from shortest to tallest so that everyone can see.",
+  "A parent holds last year's uniform against a child to see how much the child has grown.",
+  "Someone hanging a clothes line pulls the rope across the balcony to check it reaches before tying it."
+ ],
+ "spotted": [
+  {
+   "text": "A flower stall. The seller pulls a string of jasmine straight along her arm before she cuts it.",
+   "art": "A woman at a flower stall holding a jasmine string from her elbow to her fingertips."
+  },
+  {
+   "text": "Sugarcane at Pongal, standing by the door. Is the stalk taller than you? Stand beside it on the same floor.",
+   "art": "Tall sugarcane stalks leaning against a doorway beside a small child looking up."
+  },
+  {
+   "text": "Drumsticks in a bundle at the vegetable shop. Some are long and some are short. Which end would you line up?",
+   "art": "A bundle of green drumsticks of different lengths tied with string on a shop counter."
+  },
+  {
+   "text": "Your shadow on the road. In the evening it is longer than you are. At noon it is shorter.",
+   "art": "A child and her very long evening shadow stretching across a quiet street."
+  },
+  {
+   "text": "A cat on a wall. She stretches out long, then curls up small. She is the same cat with the same length.",
+   "art": "A cat stretched out along a wall, and the same cat curled into a ball."
+  },
+  {
+   "text": "A money plant or a pumpkin creeper on a balcony. This week's new shoot is longer than last week's.",
+   "art": "A money plant climbing a balcony grill with a new pale-green shoot at the tip."
+  },
+  {
+   "text": "Ants walking in a line across a wall. Each ant takes many tiny steps. A desert ant keeps track of her steps to find her way home.",
+   "art": "A line of small black ants crossing a whitewashed wall."
+  },
+  {
+   "text": "A coiled garden hose or a rolled-up clothes line. It looks small. Pulled out, it crosses the whole terrace.",
+   "art": "A green hose in a neat coil on a terrace floor, with one end pulled out toward a row of pots."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How does a desert ant keep track of her steps?",
+   "why_open": "The 2006 test showed that the length of her steps matters. How her body and brain add the steps up is still not known."
+  },
+  {
+   "q": "Why does a standing line look longer than a lying line of the same length?",
+   "why_open": "Adolf Fick wrote about this in 1851. Scientists have several ideas, but they still do not fully agree on the reason."
+  },
+  {
+   "q": "What is a young child thinking when they say a pushed stick has become longer?",
+   "why_open": "Some scientists say the child truly sees it as longer. Others say the child is answering a different question, such as 'which one reaches further?' The tests have not settled it."
+  },
+  {
+   "q": "Is there a shortest length that anything can have?",
+   "why_open": "You can cut a string in half again and again. Some physicists think there may be a smallest length that cannot be cut further. Nobody has been able to test it."
+  }
+ ],
+ "ask_kids": [
+  "Which is longer: your foot or your hand? Guess first, then put them heel to wrist and check.",
+  "Who is the tallest person at this table? Who is the shortest? How could we be sure?",
+  "Is your shadow longer or shorter than you right now?",
+  "Which is longer: the way round your head, or the length of your arm? How could we find out?",
+  "Find something in this room that is longer than your arm and shorter than you.",
+  "Is this idli longer than it is tall? Does that question make sense?"
+ ],
+ "jokes": [
+  {
+   "j": "Which word is the longest of all?",
+   "a": "Smiles. There is a mile between the first letter and the last."
+  },
+  {
+   "j": "What gets shorter every time you use it?",
+   "a": "A pencil."
+  },
+  {
+   "j": "What has a long neck and no head?",
+   "a": "A bottle."
+  },
+  {
+   "j": "I am tall when I am young and short when I am old. What am I?",
+   "a": "A candle."
+  },
+  {
+   "j": "What is long in the morning, short at noon and long again in the evening?",
+   "a": "Your shadow."
+  },
+  {
+   "j": "Which snake is best at maths?",
+   "a": "An adder."
+  },
+  {
+   "j": "What did the long string say to the short string?",
+   "a": "You are knot as long as me."
+  },
+  {
+   "j": "How do you make a line shorter without touching it?",
+   "a": "Draw a longer line next to it."
+  },
+  {
+   "j": "Why did the girl take a ladder to school?",
+   "a": "She wanted to go to high school."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Three ladles hang with their tops on one rod. Put them in order, shortest first.",
+   "answer": "B, C, A.",
+   "explain": "All three start at the rod, so the rod is the start line. B stops first, then C, then A.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "how": "a2",
+   "context": "In the Spoon Staircase you put five kitchen things in order of length. This is the same job with three ladles.",
+   "why_maths": "Putting lengths in order is the same thinking as putting numbers in order: each one comes after everything smaller.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "A",
+      "parts": 1,
+      "width": 64
+     },
+     {
+      "label": "B",
+      "parts": 1,
+      "width": 30
+     },
+     {
+      "label": "C",
+      "parts": 1,
+      "width": 46
+     }
+    ],
+    "title": "Three ladles on one rod"
+   },
+   "answer_chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "B",
+      "parts": 1,
+      "width": 30
+     },
+     {
+      "label": "C",
+      "parts": 1,
+      "width": 46
+     },
+     {
+      "label": "A",
+      "parts": 1,
+      "width": 64
+     }
+    ],
+    "title": "In order: shortest first"
+   }
+  },
+  {
+   "problem": "A pencil is longer than a spoon. The spoon is longer than a key. You have not lined up the pencil and the key. Which of those two is longer?",
+   "answer": "The pencil.",
+   "explain": "The key is shorter than the spoon, and the spoon is shorter than the pencil. So the key must be shorter than the pencil too. You know it without lining them up.",
+   "math_unit": "math.logic.puzzles.L1",
+   "how": "e1",
+   "context": "In the Line-Up Test you compared things two at a time at the edge of a book. This asks what two line-ups can tell you about a third pair.",
+   "why_maths": "Reasoning from two things you know to a third saves you from checking every pair.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "pencil",
+      "parts": 1,
+      "width": 60
+     },
+     {
+      "label": "spoon",
+      "parts": 1,
+      "width": 44
+     }
+    ],
+    "title": "What you lined up first"
+   },
+   "answer_chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "key",
+      "parts": 1,
+      "width": 18
+     },
+     {
+      "label": "spoon",
+      "parts": 1,
+      "width": 44
+     },
+     {
+      "label": "pencil",
+      "parts": 1,
+      "width": 60
+     }
+    ],
+    "title": "All three at one start line"
+   }
+  },
+  {
+   "problem": "In the tie-break of Longer Wins, Kavya's train is 9 squares long. Arun's train is 6 squares long. How many squares longer is Kavya's train?",
+   "answer": "3 squares longer.",
+   "explain": "Both trains start at the same line. Arun's stops at 6. Kavya's goes on to 9. Count on from 6: 7, 8, 9. That is 3 more squares.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "g1",
+   "context": "In the game Longer Wins, Shorter Wins, a tie is settled by laying strips end to end in a train. This asks how much longer one train is.",
+   "why_maths": "Taking away tells you how much longer one thing is, not only which one is longer.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "9",
+     "− 6"
+    ],
+    "answer": "?"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "9",
+     "− 6"
+    ],
+    "answer": "3"
+   }
+  },
+  {
+   "problem": "A sprout's strips were 2, 4 and 6 squares long on three days. If the sprout keeps growing in the same way, how long will the next strip be?",
+   "answer": "8 squares long.",
+   "explain": "Each strip is 2 squares longer than the one before: 2, 4, 6. Two more than 6 is 8. A real sprout may not keep to the pattern, so check with the real one.",
+   "math_unit": "math.patterns.number-patterns.L1",
+   "how": "p1",
+   "context": "In the Sprout Strip Chart you pasted one paper strip a day, each as long as a moong sprout. This asks you to guess the next strip from the ones before.",
+   "why_maths": "Seeing how much a length grows each day lets you guess the next day before it comes.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "Day 3",
+      "parts": 2,
+      "width": 10
+     },
+     {
+      "label": "Day 4",
+      "parts": 4,
+      "width": 20
+     },
+     {
+      "label": "Day 5",
+      "parts": 6,
+      "width": 30
+     }
+    ],
+    "title": "The sprout's strips so far"
+   },
+   "answer_chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "Day 3",
+      "parts": 2,
+      "width": 10
+     },
+     {
+      "label": "Day 4",
+      "parts": 4,
+      "width": 20
+     },
+     {
+      "label": "Day 5",
+      "parts": 6,
+      "width": 30
+     },
+     {
+      "label": "next",
+      "parts": 8,
+      "width": 40
+     }
+    ],
+    "title": "If the sprout keeps growing by 2 squares"
+   }
+  },
+  {
+   "problem": "You hold both ends of a string in one hand and cut the bottom of the loop. Are the two pieces the same length? Why?",
+   "answer": "Yes, they are the same length.",
+   "explain": "Both pieces start together at your fingers and end together at the cut. Two things that start together and end together are the same length. Each piece is half of the string.",
+   "math_unit": "math.fractions.halves-and-quarters.L1",
+   "how": "a3",
+   "context": "In A Muzham of Malli you cut and compared strings. This asks what happens when one string is folded and cut at the fold.",
+   "why_maths": "Folding lines up the two halves for you, so you can make two equal lengths without measuring.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "string",
+      "parts": 1,
+      "width": 64
+     }
+    ],
+    "title": "One string, before the fold"
+   },
+   "answer_chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "half",
+      "parts": 1,
+      "width": 32
+     },
+     {
+      "label": "half",
+      "parts": 1,
+      "width": 32
+     }
+    ],
+    "title": "The two pieces, side by side"
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.length.L1",
+  "title": "End to End",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "NRICH, from the University of Cambridge",
+   "url": "https://nrich.maths.org/",
+   "kind": "interactive",
+   "why": "Free maths games and puzzles for young children. For the parent to pick from. Search for 'length' or 'comparing'."
+  },
+  {
+   "title": "Khan Academy, Early Math",
+   "url": "https://www.khanacademy.org/math/early-math",
+   "kind": "interactive",
+   "why": "Free short lessons and practice. Look under 'Measurement and data' for comparing and ordering lengths."
+  },
+  {
+   "title": "StoryWeaver, by Pratham Books",
+   "url": "https://storyweaver.org.in/",
+   "kind": "interactive",
+   "why": "Free picture books in many Indian languages. Search for 'long', 'short' or 'tall' to find stories to read together."
+  },
+  {
+   "title": "Ramanujan Museum and Math Education Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Royapuram, Chennai",
+   "why": "A small museum about the mathematician Srinivasa Ramanujan, with hands-on maths activities for children. Call ahead to check the timings."
+  },
+  {
+   "title": "A flower market near you",
+   "url": "",
+   "kind": "place",
+   "where": "For example the flower market at Mattuthavani in Madurai, or any flower stall in your town",
+   "why": "Go early in the morning and watch how strings of jasmine are measured along the arm. Ask the seller to show you one muzham."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-wool",
+   "item": "A ball of thick wool or cotton string",
+   "kind": "material",
+   "why": "Used to copy and carry lengths: your height, a muzham, a shadow and the width of a table.",
+   "url": "https://www.amazon.in/s?k=knitting+wool+ball",
+   "used_in": [
+    "e1",
+    "a1",
+    "a3",
+    "a4",
+    "c1"
+   ]
+  },
+  {
+   "id": "b-straws",
+   "item": "Paper straws, a small pack",
+   "kind": "material",
+   "why": "Two uncut straws are the equal pair for the Line-Up Test. Cut the rest into different lengths for more comparing.",
+   "url": "https://www.amazon.in/s?k=paper+straws",
+   "used_in": [
+    "e1"
+   ]
+  },
+  {
+   "id": "b-inch",
+   "item": "Inch by Inch, by Leo Lionni",
+   "kind": "book",
+   "why": "A picture book about an inchworm who measures a robin's tail, a flamingo's neck and a heron's legs with their own body.",
+   "url": "https://www.amazon.in/s?k=Inch+by+Inch+Leo+Lionni",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Read it once during the Sprout Strip Chart project. On each page, ask which bird has the longest part, and how the inchworm could be sure."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Which is longer: a bus or a car?",
+   "a": "A bus"
+  },
+  {
+   "q": "Which is taller: a goat or a giraffe?",
+   "a": "A giraffe"
+  },
+  {
+   "q": "Which is shorter: a matchstick or a pencil?",
+   "a": "A matchstick"
+  },
+  {
+   "q": "Two straws match. You slide one ahead. Which is longer now?",
+   "a": "Neither. They are still the same length."
+  },
+  {
+   "q": "What do you line up before you compare two things?",
+   "a": "One end of each"
+  },
+  {
+   "q": "Stand a pencil up. Is it longer now?",
+   "a": "No. It is the same length."
+  },
+  {
+   "q": "Which is the longest: a key, a spoon or a broom?",
+   "a": "A broom"
+  },
+  {
+   "q": "What is the opposite of tall?",
+   "a": "Short"
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g1",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "a1",
+   "g1",
+   "story",
+   "a2",
+   "ws-core",
+   "g2",
+   "a3",
+   "a5",
+   "a4",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "a1",
+   "g1",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "a1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We lined up straws, spoons and strings. Now let us think about the words long and tall, and where they come from.",
+  "deep_truth": {
+   "truth": "In One Pencil, Two Words, you stood a pencil up and called it tall. You laid it down and called it long. The pencil did not change. Tall and long are two words for one thing: how far it is from end to end. People made the two words.",
+   "habit": "We use different words, so we think tall and long are different things. The words only tell which way the thing is pointing.",
+   "evidence": "In One Pencil, Two Words, a string cut to your height while you stood also matched you from heel to head while you lay on the floor."
+  },
+  "three": {
+   "who_am_i": "Standing up, you are tall. Lying in bed, you are long. You are the same you, with the same length.",
+   "what_is_life": "A coconut tree grows tall. A pumpkin creeper grows long. Each one is growing from one end to the other, in their own direction.",
+   "what_is_this_world": "A well is deep, a tree is tall and a road is long. Each time, we mean how far it is from one end to the other."
+  },
+  "thread": "Length is one idea. People gave it many names: long, tall, high, deep, wide. A lotus stalk is as long as the pond is deep. The stalk and the pond share one length, and we use two words for it.",
+  "teachings": [
+   {
+    "source": "Thirukkural 595",
+    "teaching": "Thiruvalluvar, the Tamil poet, says that the stalk of a water flower is as long as the water is deep. In the same way, he says, people rise as high as their own spirit.",
+    "link": "Long, deep and high all come in this one verse. The poet treats them as one kind of measure."
+   },
+   {
+    "source": "Tao Te Ching 2",
+    "teaching": "The Tao Te Ching says that long and short shape each other, and high and low rest on each other.",
+    "link": "A pencil is long next to an eraser and short next to a broom. You know long only because there is short."
+   },
+   {
+    "source": "Zhuangzi, chapter 8 (Webbed Toes), paraphrased",
+    "teaching": "Zhuangzi says a duck's legs are short, but stretching them would hurt the duck. A crane's legs are long, but cutting them would bring the crane sorrow.",
+    "link": "Short is not worse than long. Each length fits the one who has it."
+   }
+  ],
+  "science": [
+   {
+    "text": "Doctors measure a baby lying down. They call this the baby's length. They measure an older child standing up, and call that the child's height. When about 1,600 small children were measured both ways, they were about 7 millimetres longer lying down. A body is soft, so the two are close but not exactly the same.",
+    "status": "settled"
+   },
+   {
+    "text": "Does a thing have one true length, whoever measures it? In 1905 Albert Einstein showed that a thing moving very, very fast measures shorter to someone watching it pass. At the speeds of everyday life the change is far too small to notice.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "Many scientists and mathematicians",
+   "view": "They say tall and long are not just two names for one thing. Tall also tells you which way the thing points: up. And they say length was there before any words. Two sticks either match or they do not, whatever people call them. People made the words. People did not make one stick longer than the other."
+  },
+  "practice": {
+   "title": "A short breath and a long breath",
+   "mins": 3,
+   "say": "Sit still and close your eyes. Take a short breath in, and let it out. Now take a long, slow breath in, and let it out slowly. Do it once more: one short breath, one long breath. Open your eyes. Which breath was longer? You could not put the two breaths side by side. So how did you know?",
+   "kid": "Close your eyes. Take one short breath. Then take one long, slow breath. Which was longer? How do you know?"
+  },
+  "ask": [
+   "When you lie down, where does your tallness go?",
+   "If nothing in the world were short, could anything be long?",
+   "A well is deep and a tree is tall. Are deep and tall the same kind of thing?",
+   "You cannot put two breaths side by side. So how do you know which was longer?"
+  ],
+  "art": "A child lying on a mat beside a piece of wool that runs from her heel to her head, with the same wool drawn again standing upright beside a doorframe."
+ },
+ "how_we_found_out": {
+  "context": "How did people find out that young children see length differently from grown-ups? This card tells the true story of three scientists and two sticks.",
+  "story": "For a long time, grown-ups thought that comparing two sticks was something anyone could do by looking. If a child knew the word 'longer', the child saw length just as a grown-up does. In the 1940s, in Geneva in Switzerland, three scientists tested this. They were Jean Piaget, Bärbel Inhelder and Alina Szeminska. They put two sticks of the same length side by side. Each child agreed that the sticks matched. Then, while the child watched, they pushed one stick a little ahead and asked again. Many children under six or seven now said the pushed stick was longer. They looked at the end that stuck out, and not at the other end. Older children said, 'You only moved it.' The three scientists wrote about these tests in a book that came out in French in 1948 and in English in 1960. Later scientists found that the way the question is asked can change a child's answer. So they still argue about what the young children were really thinking.",
+  "who": "Jean Piaget, Bärbel Inhelder and Alina Szeminska",
+  "when": "The 1940s. Their book came out in French in 1948 and in English in 1960.",
+  "wrong_idea": "Anyone who knows the word 'longer' can tell which of two sticks is longer by looking. The tests showed this was wrong. Many young children judged by the end that stuck out, until they learned to look at both ends."
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads: the human-chosen side (Roots, a1 One Pencil, Two Words, the cards 'Tall, long and high' and 'Long compared with what?', the muzham that changes with the arm in a3), the universe and everyday life (a4 Long Shadow, Short Shadow, the cards on eyes being fooled and on a string carrying a length, spotted), maths in life (a3 A Muzham of Malli, the flower-stall story), everyone does maths (a5 Walk Like a Desert Ant, the card 'Other animals keep track of length too', spotted).",
+   "curriculum/math.json, math.length.comparing-length.L1: what is long, comparing lengths and heights directly (NCERT Class 1 chapter 2 What is Long?, Cambridge Stage 1 Gg)."
+  ],
+  "science": [
+   "Wittlinger, M., Wehner, R. and Wolf, H. (2006). The ant odometer: stepping on stilts and stumps. Science 312, 1965-1967. (Cataglyphis fortis, a 10-metre channel, stilts of pig bristle.)",
+   "Wittlinger, M., Wehner, R. and Wolf, H. (2007). The desert ant odometer: a stride integrator that accounts for stride length and walking speed. Journal of Experimental Biology 210, 198-207.",
+   "Piaget, J., Inhelder, B. and Szeminska, A. (1960). The Child's Conception of Geometry. Routledge and Kegan Paul. (First published in French in 1948 as La géométrie spontanée de l'enfant.)",
+   "WHO Multicentre Growth Reference Study Group (2006). WHO Child Growth Standards: Methods and Development. (1,625 children measured both lying and standing; mean difference 0.73 cm.)",
+   "Fick, A. (1851). Dissertation, University of Marburg, on the overestimation of vertical lengths. See also the Wikipedia article 'Vertical-horizontal illusion'.",
+   "Thirukkural 595, Tao Te Ching 2 and Zhuangzi chapter 8 (James Legge's translation, Chinese Text Project) for the Roots teachings.",
+   "The muzham as the measure for jasmine strings: Outlook India, 'Gone With The Wind'; People's Archive of Rural India, 'In TN: the struggles behind the scent of jasmine'. Madurai Malli's geographical indication, 2013: Press Information Bureau."
+  ]
+ },
+ "playtest": "Walked through every flow as a family of two in a flat. The Line-Up Test needs a spoon and a pencil that differ by about a finger-width, two straws that really match, and wool that is not tugged, because wool stretches. The straw and string results are certain. The guesses are what vary. Longer Wins was played in the head with 1, 2 and 4 players: 12 strips of 12 different lengths, so no round can tie, and a tie in strips is settled by trains. The pencil hunt uses 10 things most homes have. Moong tails usually show by the third morning in warm weather, and the project says what to do if they are late. The shadow activity needs sun and is not in the core path. Step minutes add up to each part's minutes. Facts looked up on the web while writing: the 2006 ant test (10-metre walk, stilts, about 15 metres), the WHO figure of about 7 millimetres between lying length and standing height in 1,625 children, the muzham for jasmine strings, Madurai malli's protected name in 2013, the two-stick test and the 1960 English book, Fick 1851 and that the effect is still not fully explained, Thirukkural 595, Tao Te Ching 2 and Zhuangzi chapter 8. Not looked up, written from general knowledge: 1948 for the French edition of the Piaget book, the age 'under six or seven', that later studies found the wording of the question matters, that ants who walked both ways on stilts got home correctly, Einstein 1905 and fast things measuring shorter, the Hindi word lamba for both long and tall, the Birbal line story, that a tumbler's rim is about twice its height, the tailor and cricket-bat examples, the smallest-length idea in physics, the Mattuthavani flower market and the Leo Lionni book. Only the first video has a confirmed id. It was not watched, so watch it before showing it."
+}
