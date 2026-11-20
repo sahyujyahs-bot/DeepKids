@@ -510,7 +510,7 @@
   "deep_truth": {
    "truth": "In One Pattern, Four Ways, you clapped and stamped, then laid rajma and chana in the same way. A clap is nothing like a bean. Still, you called them the same pattern. So a pattern is not the things. It is the way the things take turns.",
    "habit": "We think a pattern is made of its things: these colours, these beads. But you can swap every thing for another, and the pattern is still there. And we are the ones who say the two rows are the same.",
-   "evidence": "In One Pattern, Four Ways, one pattern was made with claps, beans, drawn shapes and your body. In Guess My Next Bean, you knew the next bean from the turns, before you saw it."
+   "evidence": "In One Pattern, Four Ways, one pattern was made with claps, beans, drawn shapes and your body. In Guess My Next Bean, you knew the next bean from the turns, before the bean was put down."
   },
   "three": {
    "who_am_i": "Your heart goes lub, dub, lub, dub. Your feet go left, right, left, right. You are full of patterns. You are also the one who notices them.",
@@ -547,7 +547,7 @@
   ],
   "other_view": {
    "who": "Many scientists and mathematicians",
-   "view": "They say patterns are in the world, whether or not anyone notices them. Day and night took turns for a very long time before there were any people to call it a pattern. The Earth turns the same way with nobody watching. They say we do not decide which things are the same. We find out."
+   "view": "They say patterns are in the world, whether or not anyone notices them. Day and night took turns for a very long time before there were any people to call it a pattern. The Earth turns the same way with nobody watching. They say it is not up to us which things are the same. We find out."
   },
   "practice": {
    "title": "Listen to your own pattern",
@@ -639,9 +639,9 @@
    "title": "Guess My Next Bean: when can you know what is coming?",
    "mins": 25,
    "days": 1,
-   "context": "In this test a grown-up builds three rows of beans, one bean at a time. You guess each bean before it is put down. A right guess gets a tick and a wrong guess gets a cross. The point is to find out when your guesses stop being luck.",
+   "context": "In this test a grown-up builds three rows of beans, one bean at a time. Before each bean is put down, you guess which kind is coming. A right guess gets a tick and a wrong guess gets a cross. The point is to find out when your guesses stop being luck.",
    "question": "How many beans do you need to see before you can say what comes next, every time?",
-   "predict": "Before each row, guess: will this row be easy or hard to guess? Why do you think so? Then, before every bean, guess which kind it will be.",
+   "predict": "Before each row, guess: will this row be easy or hard to guess? Why do you think so? Then, before every bean, guess which kind is coming.",
    "fair_test": "The grown-up chooses each row's rule before starting and does not change it halfway. The child guesses before every bean, even the first ones. Every guess gets a tick or a cross, so no guess is forgotten.",
    "results_table": [
     "Row",
@@ -728,9 +728,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Keep the beans in a bowl on your side. 2. Say you will make a row, one bean at a time. 3. Before each bean, your child guesses which kind it will be. 4. Put the bean down on the paper. Write a tick or a cross under it. 5. Row 1 is rajma, chana, rajma, chana, up to 12 beans.",
-     "say": "I am making a row of beans. Before I put each one down, guess which bean it will be.",
-     "kid": "A grown-up makes a row, one bean at a time. Guess each bean before you see it. A right guess gets a tick.",
+     "do": "1. Keep the beans in a bowl on your side. 2. Say you will make a row, one bean at a time. 3. Before each bean, your child guesses which kind is coming. 4. Put the bean down on the paper. Write a tick or a cross under it. 5. Row 1 is rajma, chana, rajma, chana, up to 12 beans.",
+     "say": "I am making a row of beans. Before I put each one down, guess which bean is coming.",
+     "kid": "A grown-up makes a row, one bean at a time. Guess each bean first. Then look. A right guess gets a tick.",
      "parent": "Do not say the word 'pattern' yet. The first guess or two can only be luck. That is fine. Keep a straight face and keep the same speed for every bean.",
      "chart": {
       "type": "table",
@@ -919,7 +919,7 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "1. Swap places. Give your child the bowl. 2. Your child makes a secret row for you. 3. Guess each bean aloud before it is put down. 4. Guess wrong once or twice at the start.",
+     "do": "1. Swap places. Give your child the bowl. 2. Your child makes a secret row for you. 3. Guess each bean aloud before your child puts one down. 4. Guess wrong once or twice at the start.",
      "say": "Now you make a row for me. Choose what takes turns. Do not tell me.",
      "kid": "Now you make the row. Choose what takes turns. Keep it the same all the way.",
      "parent": "If your child's row stops repeating, do not call it wrong. Ask: 'Can I ever guess this right? What would help me?' Children usually see that the guesser needs the same part to come again.",
@@ -1745,7 +1745,7 @@
     }
    ],
    "rules": [
-    "You need a dice and three kinds of small things, about 15 of each. For example: rajma for red, buttons for blue and chana for yellow.",
+    "You need a dice and three kinds of small kitchen things, a small bowl of each. For example: rajma for red, chana for blue and groundnuts for yellow.",
     "Each player takes a rule card and keeps it face up. Everyone agrees which thing stands for which colour.",
     "On your turn, roll the dice. Add that many pieces to your train. Say each piece aloud as you put it down.",
     "Every new piece must follow your rule card. When you reach the end of the card, start the card again.",
@@ -1756,11 +1756,11 @@
    ],
    "setup": [
     {
-     "art": "Two children at a low table, each with a small card showing coloured circles, three bowls of rajma, buttons and chana between them, and a dice.",
+     "art": "Two children at a low table, each with a small card showing coloured circles, three bowls of rajma, chana and groundnuts between them, and a dice.",
      "caption": "1. Take a rule card. Agree which thing stands for each colour."
     },
     {
-     "art": "A dice showing 3 and a child adding three pieces to the end of a row of rajma and buttons that follows red, red, blue.",
+     "art": "A dice showing 3 and a child adding three pieces to the end of a row of rajma and chana that follows red, red, blue.",
      "caption": "2. Roll. Add that many pieces, keeping your rule."
     },
     {
@@ -2321,5 +2321,1345 @@
     }
    ]
   }
- ]
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "What Comes Next? (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which colour comes next?",
+     "opts": [
+      "yellow",
+      "green",
+      "red"
+     ],
+     "a": 1,
+     "why": "Green. Yellow and green take turns, and the row stopped on yellow. So it is green's turn.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🟡🟢🟡🟢🟡"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "What comes next? clap, stamp, clap, stamp, clap, ____",
+     "a": [
+      "stamp",
+      "a stamp"
+     ],
+     "why": "Clap and stamp take turns. The row stopped on a clap, so a stamp comes next."
+    },
+    {
+     "t": "truefalse",
+     "p": "Idli, dosa, idli, dosa, idli, dosa is a repeating pattern.",
+     "a": true,
+     "why": "True. The part idli, dosa comes three times, in the same order each time."
+    },
+    {
+     "t": "mcq",
+     "p": "Which part repeats in this row?",
+     "opts": [
+      "triangle, square",
+      "triangle, triangle",
+      "square, square, triangle"
+     ],
+     "a": 0,
+     "why": "Triangle, square. Say the row aloud. It starts again after every square.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🔺🟦🔺🟦🔺🟦"
+      ],
+      "answer": "the part?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "How many beads are in the part that repeats?",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "The part is red, red, blue. Count its beads: 1, 2, 3. The row starts again after the blue.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🔴🔴🔵🔴🔴🔵"
+      ],
+      "answer": "how long?"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "What comes next in this row of beads?",
+     "opts": [
+      "red",
+      "blue",
+      "yellow"
+     ],
+     "a": 0,
+     "why": "Red. The part is red, red, blue. The row has just begun a new part with one red, so a second red follows. Picking blue means thinking the colours take turns one by one.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🔴🔴🔵🔴🔴🔵🔴"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one: is it a repeating pattern or not?",
+     "items": [
+      [
+       "day, night, day, night",
+       "Repeating pattern"
+      ],
+      [
+       "the vegetables in a basket",
+       "Not a repeating pattern"
+      ],
+      [
+       "tick, tock, tick, tock",
+       "Repeating pattern"
+      ],
+      [
+       "clouds in the sky",
+       "Not a repeating pattern"
+      ],
+      [
+       "leaf, flower, leaf, flower",
+       "Repeating pattern"
+      ],
+      [
+       "1 dot, 2 dots, 3 dots, 4 dots",
+       "Not a repeating pattern"
+      ]
+     ],
+     "cats": [
+      "Repeating pattern",
+      "Not a repeating pattern"
+     ],
+     "a": "see items",
+     "why": "Day and night, tick and tock, and leaf and flower each have one part that comes again and again. The basket and the clouds have no such part. One dot, two dots, three dots is a pattern that grows. It does not repeat."
+    },
+    {
+     "t": "match",
+     "p": "Match each sound pattern to the bead row that goes the same way.",
+     "pairs": [
+      [
+       "clap, stamp, clap, stamp",
+       "🔴🔵🔴🔵"
+      ],
+      [
+       "clap, clap, stamp, clap, clap, stamp",
+       "🔴🔴🔵🔴🔴🔵"
+      ],
+      [
+       "clap, stamp, stamp, clap, stamp, stamp",
+       "🔴🔵🔵🔴🔵🔵"
+      ],
+      [
+       "clap, stamp, pat, clap, stamp, pat",
+       "🔴🔵🟡🔴🔵🟡"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Give each sound one colour. A clap is red, a stamp is blue and a pat is yellow. Then the beads take turns in the same way as the sounds.",
+     "how": "a1"
+    },
+    {
+     "t": "mcq",
+     "p": "One piece of this thoranam is missing. Which piece is it?",
+     "opts": [
+      "a leaf",
+      "a flower",
+      "nothing is missing"
+     ],
+     "a": 1,
+     "why": "A flower. Say leaf, flower along the row. At the gap you say flower.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🍃🌼🍃❓🍃🌼"
+      ],
+      "answer": "missing?"
+     }
+    },
+    {
+     "t": "draw",
+     "p": "Draw 8 circles in a row. Colour them red, yellow, red, yellow, to the end.",
+     "a": "Eight circles. Red and yellow take turns. The row starts on red and ends on yellow.",
+     "why": "A strong drawing keeps the turns all the way to the eighth circle. To check, say red, yellow aloud as you touch each circle."
+    },
+    {
+     "t": "draw",
+     "p": "Make your own pattern with two shapes. Draw it three times round. Loop the part that repeats.",
+     "a": "Any part made of two shapes, drawn three times, with a loop round one part.",
+     "why": "A strong pattern has the very same part each time. A reader should be able to say what comes next."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. In Guess My Next Bean, why were your first guesses often wrong?",
+     "lines": 2,
+     "a": "Because I had not seen enough beans yet. I did not know the part that repeats.",
+     "why": "A strong answer says that the first guesses were luck. You can only know the next bean after you have seen the part come round.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Carry It On, Fix It, Swap It (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "What are the next two beads?",
+     "opts": [
+      "blue, blue",
+      "blue, red",
+      "red, blue"
+     ],
+     "a": 0,
+     "why": "Blue, blue. The part is red, blue, blue. The row has just begun a new part with red, so two blues follow.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🔴🔵🔵🔴🔵🔵🔴"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "This train should go red, blue, red, blue. Which place has the wrong piece?",
+     "opts": [
+      "Place 3",
+      "Place 4",
+      "Place 5"
+     ],
+     "a": 1,
+     "why": "Place 4. Say red, blue along the train. At place 4 you say blue, but the piece is red.",
+     "chart": {
+      "type": "table",
+      "title": "A train with one wrong piece",
+      "cols": [
+       "1",
+       "2",
+       "3",
+       "4",
+       "5",
+       "6"
+      ],
+      "rows": [
+       [
+        "🔴",
+        "🔵",
+        "🔴",
+        "🔴",
+        "🔴",
+        "🔵"
+       ]
+      ]
+     },
+     "how": "g1"
+    },
+    {
+     "t": "fill",
+     "p": "The part is leaf, leaf, flower. You make it 3 times. How many leaves do you need?",
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "Each part has 2 leaves. Three parts: 2 and 2 and 2 make 6 leaves.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "leaves in one part",
+        "n": 2
+       },
+       {
+        "label": "flowers in one part",
+        "n": 1
+       }
+      ]
+     },
+     "how": "a3"
+    },
+    {
+     "t": "truefalse",
+     "p": "Clap, stamp, clap, stamp and red, blue, red, blue are the same pattern.",
+     "a": true,
+     "why": "True. In both, two things take turns one by one. You can point at a red bead for every clap and a blue bead for every stamp.",
+     "chart": {
+      "type": "table",
+      "title": "Sounds above, beads below",
+      "cols": [
+       "1",
+       "2",
+       "3",
+       "4"
+      ],
+      "rows": [
+       [
+        "👏",
+        "🦶",
+        "👏",
+        "🦶"
+       ],
+       [
+        "🔴",
+        "🔵",
+        "🔴",
+        "🔵"
+       ]
+      ]
+     },
+     "how": "a1"
+    },
+    {
+     "t": "order",
+     "p": "Put these rows in order. Start with the shortest part that repeats.",
+     "items": [
+      "🔴🔵🟡🔴🔵🟡",
+      "🔴🔴🔵🔵🔴🔴🔵🔵",
+      "🔴🔵🔴🔵🔴🔵"
+     ],
+     "a": [
+      "🔴🔵🔴🔵🔴🔵",
+      "🔴🔵🟡🔴🔵🟡",
+      "🔴🔴🔵🔵🔴🔴🔵🔵"
+     ],
+     "why": "Red, blue is 2 long. Red, blue, yellow is 3 long. Red, red, blue, blue is 4 long."
+    },
+    {
+     "t": "sort",
+     "p": "How long is the part that repeats: 2 or 3?",
+     "items": [
+      [
+       "tick, tock, tick, tock",
+       "2 long"
+      ],
+      [
+       "clap, clap, wave, clap, clap, wave",
+       "3 long"
+      ],
+      [
+       "day, night, day, night",
+       "2 long"
+      ],
+      [
+       "ta, ki, ta, ta, ki, ta",
+       "3 long"
+      ],
+      [
+       "leaf, flower, leaf, flower",
+       "2 long"
+      ],
+      [
+       "idli, idli, vada, idli, idli, vada",
+       "3 long"
+      ]
+     ],
+     "cats": [
+      "2 long",
+      "3 long"
+     ],
+     "a": "see items",
+     "why": "Say each row aloud and listen for where it starts again. Tick, tock starts again after 2 sounds. Clap, clap, wave starts again after 3."
+    },
+    {
+     "t": "mcq",
+     "p": "Which bead row is the same pattern as jump, jump, clap?",
+     "opts": [
+      "🔴🔵🔴🔵🔴🔵",
+      "🔴🔴🔵🔴🔴🔵",
+      "🔴🔵🔵🔴🔵🔵"
+     ],
+     "a": 1,
+     "why": "Red, red, blue. A jump is red and a clap is blue: two the same, then one different."
+    },
+    {
+     "t": "fill",
+     "p": "The row carries on in the same way. What colour is the 8th bead?",
+     "a": [
+      "blue"
+     ],
+     "why": "The part is red, blue, blue. The 7th bead begins a new part, so it is red. The 8th bead is blue.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🔴🔵🔵🔴🔵🔵"
+      ],
+      "answer": "8th bead?"
+     }
+    },
+    {
+     "t": "draw",
+     "p": "Draw a thoranam with the pattern leaf, flower, flower. Make the part come 3 times.",
+     "a": "Nine pieces: leaf, flower, flower, three times over.",
+     "why": "A strong drawing has 3 leaves and 6 flowers, and every part is the same.",
+     "how": "a3"
+    },
+    {
+     "t": "write",
+     "p": "A row goes red, blue, red, blue. Can you be completely sure the next bead is red? Say why or why not.",
+     "lines": 3,
+     "a": "Not completely. If the maker keeps the same rule, red is next. But only the maker knows the rule.",
+     "why": "A strong answer says red is the best guess, and that the maker decides. Seeing more beads makes the guess safer."
+    },
+    {
+     "t": "perspective",
+     "p": "A barbet calls tuk, tuk, tuk, tuk. Is that a repeating pattern?",
+     "views": [
+      {
+       "who": "One child",
+       "says": "No. A pattern needs two different things that take turns."
+      },
+      {
+       "who": "Another child",
+       "says": "Yes. One sound comes again and again. The part is just one tuk."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says what the other child has right.",
+     "why": "Mathematicians call it a repeating pattern whose part is 1 long. The first child is right that most patterns we make have two or more different things. And there is a second thing here: the short silence after each tuk.",
+     "how": "a5"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a pattern whose part is 4 long. Use only two colours.",
+     "a": "For example red, red, blue, blue, drawn two or three times.",
+     "why": "A strong answer has a part that is truly 4 long. Red, blue, red, blue does not count, because the smaller part red, blue already makes it."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Pattern Detective (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "How many beads are in the smallest part that repeats?",
+     "opts": [
+      "2",
+      "4",
+      "6"
+     ],
+     "a": 0,
+     "why": "2. The smallest part that makes the whole row is red, blue. Picking 4 means choosing two parts joined together.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🔴🔵🔴🔵🔴🔵"
+      ],
+      "answer": "smallest part?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "A part is 3 pieces long. You make it 4 times. How many pieces in all?",
+     "a": [
+      "12",
+      "twelve"
+     ],
+     "why": "Count 3 for each part: 3, 6, 9, 12. There are 12 pieces.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "1st time",
+        "n": 3
+       },
+       {
+        "label": "2nd time",
+        "n": 3
+       },
+       {
+        "label": "3rd time",
+        "n": 3
+       },
+       {
+        "label": "4th time",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Two shapes are missing. What are they?",
+     "opts": [
+      "square, square",
+      "triangle, square",
+      "square, triangle"
+     ],
+     "a": 0,
+     "why": "Square, square. The part is triangle, square, square. Say it along the row. At the two gaps you say square, square.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "🔺🟦🟦🔺❓❓🔺"
+      ],
+      "answer": "missing?"
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "A strip of 12 squares can hold a part that is 4 squares long exactly 3 times.",
+     "a": true,
+     "why": "True. 4 and 4 and 4 make 12. Three parts fill the strip with no square left over.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "12 squares, cut into parts of 4",
+        "parts": 3,
+        "shaded": 0
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "A row of 10 beads can be made from whole parts that are 3 beads long.",
+     "a": false,
+     "why": "False. Three parts use 9 beads: 3, 6, 9. One bead is left over, so the row stops in the middle of a part.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "beads",
+        "n": 10
+       }
+      ]
+     }
+    },
+    {
+     "t": "match",
+     "p": "Match each row to its letter name. A is the first thing. B is the next new thing.",
+     "pairs": [
+      [
+       "🔴🔵🔴🔵",
+       "AB"
+      ],
+      [
+       "🔴🔴🔵🔴🔴🔵",
+       "AAB"
+      ],
+      [
+       "🔴🔵🔵🔴🔵🔵",
+       "ABB"
+      ],
+      [
+       "🔴🔵🟡🔴🔵🟡",
+       "ABC"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Give the first colour the letter A. Give the next new colour the letter B, and a third colour the letter C. Then read off one part."
+    },
+    {
+     "t": "fill",
+     "p": "Red, blue, red, blue goes on and on. What colour is the 10th bead?",
+     "a": [
+      "blue"
+     ],
+     "why": "Blue. Every second bead is blue: the 2nd, 4th, 6th, 8th and 10th.",
+     "chart": {
+      "type": "scale",
+      "min": 1,
+      "max": 10,
+      "step": 1,
+      "title": "Places 1 to 10"
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Does it repeat, or does it grow?",
+     "items": [
+      [
+       "clap, stamp, clap, stamp",
+       "Repeats"
+      ],
+      [
+       "1 clap, then 2 claps, then 3 claps",
+       "Grows"
+      ],
+      [
+       "leaf, flower, leaf, flower",
+       "Repeats"
+      ],
+      [
+       "the steps of a staircase, each one higher",
+       "Grows"
+      ],
+      [
+       "Monday to Sunday, then Monday again",
+       "Repeats"
+      ],
+      [
+       "2, 4, 6, 8",
+       "Grows"
+      ]
+     ],
+     "cats": [
+      "Repeats",
+      "Grows"
+     ],
+     "a": "see items",
+     "why": "A repeating pattern does the same part again. A growing pattern gets bigger each time: one more clap, one step higher, two more."
+    },
+    {
+     "t": "write",
+     "p": "Why do you need to see a part come round twice before you call the row a repeating pattern?",
+     "lines": 3,
+     "a": "Seeing the part once shows only a few things in a row. Seeing it come again shows that it repeats.",
+     "why": "A strong answer says that 'repeat' means 'again'. Until something has come again, you are only guessing that it will.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "This bookmark carries on in the same way. Draw its next 4 squares.",
+     "a": "Red, red, blue, red.",
+     "why": "The part is red, red, blue, red. It is 4 long and it has come twice. The next 4 squares are the same part again.",
+     "chart": {
+      "type": "sum",
+      "title": "A bookmark, shown on two lines",
+      "rows": [
+       "🟥🟥🟦🟥",
+       "🟥🟥🟦🟥"
+      ],
+      "answer": "?"
+     },
+     "how": "c1"
+    },
+    {
+     "t": "perspective",
+     "p": "A row goes red, blue, red, blue. What comes next?",
+     "views": [
+      {
+       "who": "One child",
+       "says": "Red. It must be red."
+      },
+      {
+       "who": "Another child",
+       "says": "Most likely red. But the maker's rule could be red, blue, red, blue, green."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says what the other child has right.",
+     "why": "Red is the best guess, because red, blue is the simplest rule that fits. But four beads also fit other rules, and only the maker knows which one she is using."
+    },
+    {
+     "t": "draw",
+     "p": "Make up a body pattern with 3 different moves. Draw it twice round. Then teach it to someone.",
+     "a": "Three moves in a fixed order, drawn two times, for example jump, clap, turn, jump, clap, turn.",
+     "why": "A strong pattern keeps the three moves in the same order both times. Your learner should be able to carry it on without you."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which of these is a repeating pattern?",
+   "opts": [
+    "red, blue, red, blue, red, blue",
+    "red, blue, green, yellow, pink, white",
+    "red, red, red, blue, green, blue"
+   ],
+   "a": 0,
+   "why": "Red, blue, red, blue, red, blue. The part red, blue comes three times. The other two rows have no part that comes again in the same order.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which bead comes next: yellow, green or red?",
+   "opts": [
+    "yellow",
+    "green",
+    "red"
+   ],
+   "a": 0,
+   "why": "Yellow. The part is yellow, yellow, green. The row has just begun a new part with one yellow, so a second yellow follows. Picking green means thinking the colours take turns one by one.",
+   "outcome": 1,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "🟡🟡🟢🟡🟡🟢🟡"
+    ],
+    "answer": "?"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Clap, pat, clap, pat, clap. What comes next?",
+   "opts": [
+    "a clap",
+    "a pat",
+    "a stamp"
+   ],
+   "a": 1,
+   "why": "A pat. Clap and pat take turns, and the row stopped on a clap.",
+   "outcome": 1
+  },
+  {
+   "t": "fill",
+   "p": "How many shapes are in the part that repeats?",
+   "a": [
+    "3",
+    "three"
+   ],
+   "why": "The part is triangle, square, star. It has 3 shapes. The row starts again after the star.",
+   "outcome": 2,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "🔺🟦⭐🔺🟦⭐"
+    ],
+    "answer": "how long?"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Which part repeats in ta, ki, ta, ta, ki, ta?",
+   "opts": [
+    "ta, ki",
+    "ta, ki, ta",
+    "ta, ta"
+   ],
+   "a": 1,
+   "why": "Ta, ki, ta. It is 3 sounds long and it comes twice. Picking 'ta, ki' leaves out the last ta of each part.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which bead row is the same pattern as stamp, stamp, clap?",
+   "opts": [
+    "🔵🔴🔵🔴🔵🔴",
+    "🔵🔵🔴🔵🔵🔴",
+    "🔵🔴🔴🔵🔴🔴"
+   ],
+   "a": 1,
+   "why": "Blue, blue, red. A stamp is blue and a clap is red: two the same, then one different.",
+   "outcome": 4
+  },
+  {
+   "t": "truefalse",
+   "p": "A pattern made of sounds can be copied with colours.",
+   "a": true,
+   "why": "True. Give each sound one colour. The colours then take turns in the same way as the sounds.",
+   "outcome": 4,
+   "how": "a1"
+  },
+  {
+   "t": "mcq",
+   "p": "This thoranam should go leaf, flower, leaf, flower. Which place has the wrong piece?",
+   "opts": [
+    "Place 4",
+    "Place 5",
+    "Place 6"
+   ],
+   "a": 1,
+   "why": "Place 5. Say leaf, flower along the row. At place 5 you say leaf, but the piece is a flower.",
+   "outcome": 5,
+   "chart": {
+    "type": "table",
+    "title": "A thoranam with one wrong piece",
+    "cols": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "rows": [
+     [
+      "🍃",
+      "🌼",
+      "🍃",
+      "🌼",
+      "🌼",
+      "🌼"
+     ]
+    ]
+   },
+   "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "Which bead is missing?",
+   "opts": [
+    "red",
+    "blue",
+    "yellow"
+   ],
+   "a": 1,
+   "why": "Blue. The part is red, blue, yellow. Say it along the row. At the gap you say blue.",
+   "outcome": 5,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "🔴🔵🟡🔴❓🟡"
+    ],
+    "answer": "missing?"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Your rule is leaf, leaf, flower. You have put down leaf, leaf, flower, leaf. What do you add next?",
+   "opts": [
+    "a leaf",
+    "a flower",
+    "nothing"
+   ],
+   "a": 0,
+   "why": "A leaf. You have begun a new part with one leaf. The part needs a second leaf before its flower.",
+   "outcome": 3,
+   "how": "a3"
+  },
+  {
+   "t": "truefalse",
+   "p": "Day, night, day, night is a repeating pattern.",
+   "a": true,
+   "why": "True. The part day, night comes again and again, because the Earth keeps spinning.",
+   "outcome": 0
+  },
+  {
+   "t": "fill",
+   "p": "The part is clap, clap, stamp. You do it 3 times. How many claps do you make?",
+   "a": [
+    "6",
+    "six"
+   ],
+   "why": "Each part has 2 claps. Three parts: 2 and 2 and 2 make 6 claps.",
+   "outcome": 3,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "claps in one part",
+      "n": 2
+     },
+     {
+      "label": "stamps in one part",
+      "n": 1
+     }
+    ]
+   }
+  }
+ ],
+ "videos": [
+  {
+   "title": "The Patterns Practice Song | Math Songs | Scratch Garden",
+   "channel": "Scratch Garden",
+   "youtube": "MBjjxSx45-Q",
+   "mins": 3,
+   "why": "For the child: a short song that shows repeating patterns and stops to ask what comes next. Pause it and let your child answer first.",
+   "check": "Title, channel and length (2 minutes 31 seconds) confirmed by a YouTube lookup. The video was not watched through for this unit. Watch it once before showing it."
+  },
+  {
+   "title": "Banana Banana Meatball Song | Songs For Kids | Dance Along | GoNoodle",
+   "channel": "GoNoodle | Get Moving",
+   "youtube": "BQ9q4U2P3ig",
+   "mins": 3,
+   "why": "For the child: a dance-along where the moves follow repeating patterns that get longer. It fits well after One Pattern, Four Ways.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through for this unit, and the length is a rough guess. Watch it once before showing it."
+  },
+  {
+   "title": "Sound / Call of Coppersmith barbet - tuk tuk tuk - A familiar urban bird call",
+   "channel": "Indian Bird Videos",
+   "youtube": "Xphrd3nZv3M",
+   "mins": 2,
+   "why": "For the child and the parent: the real call of the coppersmith barbet. Tap along with the tuks and listen for how steady they are. Use it in the activity Who Else Makes Patterns?",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through for this unit, and the length is a rough guess. Listen to it once before playing it."
+  }
+ ],
+ "applications": [
+  "A weaver sets up a loom so that the same small design comes again and again along a sari border.",
+  "A tile layer follows a repeating plan, so that a whole floor fits together from a few kinds of tile.",
+  "Singers, drummers and dancers keep a tala, a repeating pattern of beats, so that they all stay together.",
+  "A doctor listens to your heartbeat. A steady lub, dub, lub, dub is a healthy pattern, and a change in it is a clue.",
+  "A traffic light goes through the same colours in the same order all day, so that drivers know what is coming.",
+  "A calendar uses the pattern of the week, so that you know that the day after Sunday is always Monday.",
+  "Road workers paint kerb stones black and yellow by turns, so that drivers can see the edge of the road.",
+  "People who write computer programs tell the computer to repeat one small set of steps again and again."
+ ],
+ "spotted": [
+  {
+   "text": "A thoranam of mango leaves over a door at Pongal, Ugadi or a wedding. Often marigolds are strung between the leaves.",
+   "art": "A doorway with a string of green mango leaves and orange marigolds across the top."
+  },
+  {
+   "text": "Kerb stones along a road, painted black and yellow by turns, or black and white.",
+   "art": "A road edge with kerb stones painted black, yellow, black, yellow."
+  },
+  {
+   "text": "Athangudi tiles on the floor of an old Chettinad house in Tamil Nadu. A few handmade tiles repeat across the whole room.",
+   "art": "A floor of bright handmade tiles with one flower design repeated in every tile."
+  },
+  {
+   "text": "The border of a sari or a veshti. One small shape, such as a temple tower or a mango, runs all the way along.",
+   "art": "The woven edge of a silk sari with a row of small temple-tower shapes."
+  },
+  {
+   "text": "A coppersmith barbet calling tuk, tuk, tuk from a tree in the hot months. Listen for how steady the call is.",
+   "art": "A small green bird with a red forehead calling from a bare branch."
+  },
+  {
+   "text": "A maize or sugarcane plant in a field. The leaves come out on one side, then the other, all the way up.",
+   "art": "A tall maize plant with leaves coming out left and right by turns up the stem."
+  },
+  {
+   "text": "The sleepers under a railway track: sleeper, gap, sleeper, gap, as far as you can see.",
+   "art": "A railway track running into the distance with evenly spaced sleepers."
+  },
+  {
+   "text": "A zebra crossing: white stripe, black road, white stripe, black road.",
+   "art": "A zebra crossing on a city road with a child waiting at the edge."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why do zebras have stripes?",
+   "why_open": "Scientists have argued about this for more than a hundred years. The best evidence so far says the stripes help to keep biting flies away, but not everyone agrees."
+  },
+  {
+   "q": "Is there any pattern hidden in the digits of pi?",
+   "why_open": "Pi is a number that begins 3.14159 and goes on for ever. In the 1760s Johann Lambert proved that its digits never settle into a repeating pattern. But nobody knows whether every digit turns up equally often in the long run."
+  },
+  {
+   "q": "What does a bird hear in another bird's song?",
+   "why_open": "People hear a pattern of notes. Nobody can listen with a bird's ears, and scientists are still testing which parts of a song matter to the birds themselves."
+  },
+  {
+   "q": "How does a brain learn a pattern from only a few examples?",
+   "why_open": "Babies only seven months old already notice simple patterns in sounds. Scientists do not yet know exactly how a brain does this."
+  }
+ ],
+ "ask_kids": [
+  "What do we do every morning in the same order? Is that a pattern?",
+  "Look at your plate. Can you put the food in a pattern before you eat it?",
+  "Listen to the ceiling fan or the clock. What is the part that repeats?",
+  "What pattern do your feet make when you walk? What about when you skip?",
+  "Which day comes after Sunday? How do you know without looking at a calendar?",
+  "Can you find a pattern on someone's clothes today? What comes next in it?"
+ ],
+ "jokes": [
+  {
+   "j": "Knock, knock. Who is there? Knock, knock. Who is there? Knock, knock…",
+   "a": "This joke is a repeating pattern. Stop when your grown-up groans."
+  },
+  {
+   "j": "Why was the wall clock so calm?",
+   "a": "The clock always knew what was coming next: tick, tock, tick, tock."
+  },
+  {
+   "j": "What did Monday say to Sunday?",
+   "a": "See you again in seven days!"
+  },
+  {
+   "j": "Why did the echo get full marks in the pattern test?",
+   "a": "Because the echo repeated everything perfectly."
+  },
+  {
+   "j": "What comes after clap, stamp, clap, stamp, clap, stamp, clap, stamp?",
+   "a": "A very tired foot."
+  },
+  {
+   "j": "What is a parrot's favourite kind of pattern?",
+   "a": "A repeating one. A repeating one. A repeating one."
+  },
+  {
+   "j": "Why did the red bead feel safe in the row?",
+   "a": "Because a blue bead always came right behind."
+  },
+  {
+   "j": "What did the idli say to the dosa on the plate?",
+   "a": "After you. No, after you. No, after you. They were taking turns."
+  },
+  {
+   "j": "Why did the zebra win the pattern prize?",
+   "a": "The zebra wore black, white, black, white to school every single day."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Your thoranam goes leaf, flower, and the part comes 6 times. How many pieces are on the string?",
+   "answer": "12 pieces.",
+   "explain": "There are 6 leaves and 6 flowers. 6 and 6 make 12. So there are 12 pieces on the string.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "a3",
+   "context": "In the Door Thoranam you counted the leaves and flowers you needed before cutting. This problem does the same count for a longer thoranam.",
+   "why_maths": "Adding the leaves and the flowers tells you how many pieces to cut before you start, so you do not run out halfway.",
+   "chart": {
+    "type": "dots",
+    "title": "Leaf, flower, six times",
+    "rows": [
+     {
+      "label": "leaves",
+      "n": 6
+     },
+     {
+      "label": "flowers",
+      "n": 6
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "6",
+     "+ 6"
+    ],
+    "answer": "12"
+   }
+  },
+  {
+   "problem": "Your train follows the card red, red, blue. You build the part 4 times. How many red pieces do you use?",
+   "answer": "8 red pieces.",
+   "explain": "Each part has 2 reds. Count in twos, once for each part: 2, 4, 6, 8. So you use 8 red pieces.",
+   "math_unit": "math.number-sense.counting.L1",
+   "how": "g1",
+   "context": "In the game Pattern Train you built a row from a rule card. This problem asks how many pieces of one colour a train needs.",
+   "why_maths": "Counting in twos is quicker than counting every red piece one by one, and it shows you how many pieces to put in the bowl.",
+   "chart": {
+    "type": "dots",
+    "title": "Red, red, blue, four times",
+    "rows": [
+     {
+      "label": "reds in part 1",
+      "n": 2
+     },
+     {
+      "label": "reds in part 2",
+      "n": 2
+     },
+     {
+      "label": "reds in part 3",
+      "n": 2
+     },
+     {
+      "label": "reds in part 4",
+      "n": 2
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "2",
+     "+ 2",
+     "+ 2",
+     "+ 2"
+    ],
+    "answer": "8"
+   }
+  },
+  {
+   "problem": "A row goes rajma, chana, rajma, chana, and carries on. Which bean is in place 9?",
+   "answer": "Rajma.",
+   "explain": "Rajma is in places 1, 3, 5, 7 and 9. Chana is in places 2, 4, 6 and 8. So place 9 is a rajma.",
+   "math_unit": "math.patterns.number-patterns.L1",
+   "how": "e1",
+   "context": "In Guess My Next Bean you guessed the next bean in a row. This problem asks you to guess a bean further along, without laying the whole row.",
+   "why_maths": "Seeing which places the rajma takes turns the bean pattern into a number pattern: 1, 3, 5, 7, 9. Then you can find a far-off bean without building the row.",
+   "chart": {
+    "type": "scale",
+    "min": 1,
+    "max": 10,
+    "step": 1,
+    "title": "Places 1 to 10. Which places are rajma?"
+   },
+   "answer_chart": {
+    "type": "table",
+    "title": "Rajma lands on the odd places",
+    "cols": [
+     "1",
+     "2",
+     "3",
+     "…",
+     "9"
+    ],
+    "rows": [
+     [
+      "🟤",
+      "🟡",
+      "🟤",
+      "🟡",
+      "🟤"
+     ]
+    ]
+   }
+  },
+  {
+   "problem": "Clap, clap, wave has 3 moves. You go round 3 times. How many moves do you make in all?",
+   "answer": "9 moves.",
+   "explain": "Each round has 3 moves. 3 and 3 and 3 make 9. So you make 9 moves.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "a4",
+   "context": "In Ta Ka Di Mi you kept the hand pattern clap, clap, wave. This problem counts the moves in three rounds of it.",
+   "why_maths": "A musician needs to know how many beats a pattern takes, so that it ends together with the song.",
+   "chart": {
+    "type": "dots",
+    "title": "Clap, clap, wave, three times round",
+    "rows": [
+     {
+      "label": "round 1",
+      "n": 3
+     },
+     {
+      "label": "round 2",
+      "n": 3
+     },
+     {
+      "label": "round 3",
+      "n": 3
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "3",
+     "+ 3",
+     "+ 3"
+    ],
+    "answer": "9"
+   }
+  },
+  {
+   "problem": "You have 5 leaves and 3 flowers. Your pattern is leaf, flower. How many more flowers do you need to use up all the leaves?",
+   "answer": "2 more flowers.",
+   "explain": "In leaf, flower, every leaf needs one flower after it. Five leaves need 5 flowers. You have 3. Count on from 3 to 5: 4, 5. That is 2 more.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "a3",
+   "context": "In the Door Thoranam you made sure you had enough leaves and flowers for your pattern. This problem is about running short of one kind.",
+   "why_maths": "Matching each leaf to a flower shows exactly how many are missing, before the pattern breaks on the string.",
+   "chart": {
+    "type": "dots",
+    "title": "What you have",
+    "rows": [
+     {
+      "label": "leaves",
+      "n": 5
+     },
+     {
+      "label": "flowers",
+      "n": 3
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "title": "Two more flowers, one for each spare leaf",
+    "rows": [
+     {
+      "label": "leaves",
+      "n": 5
+     },
+     {
+      "label": "flowers",
+      "n": 3,
+      "more": 2
+     }
+    ]
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.patterns.L1",
+  "title": "Again and Again",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Pattern Shapes, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/pattern-shapes/",
+   "kind": "interactive",
+   "why": "Free coloured shapes to drag on the screen. Build a row with a repeating pattern and ask someone what comes next."
+  },
+  {
+   "title": "NRICH, from the University of Cambridge",
+   "url": "https://nrich.maths.org/",
+   "kind": "interactive",
+   "why": "Free maths games and puzzles for young children, many of them about patterns. For the parent to pick from."
+  },
+  {
+   "title": "xeno-canto",
+   "url": "https://xeno-canto.org/",
+   "kind": "interactive",
+   "why": "Free recordings of bird calls from all over the world. Search for 'coppersmith barbet' or 'common hawk-cuckoo' and listen for the pattern."
+  },
+  {
+   "title": "DakshinaChitra Museum",
+   "url": "",
+   "kind": "place",
+   "where": "Muttukadu, near Chennai",
+   "why": "A living museum of South Indian homes and crafts. Look for repeating patterns in the weaving, the tiled floors and the kolams. Check the timings before you go."
+  },
+  {
+   "title": "Calico Museum of Textiles",
+   "url": "",
+   "kind": "place",
+   "where": "Ahmedabad",
+   "why": "A museum of Indian cloth, full of woven and printed borders. Visits are usually by booking, so check ahead."
+  },
+  {
+   "title": "Ramanujan Museum and Math Education Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Royapuram, Chennai",
+   "why": "A small museum about the mathematician Srinivasa Ramanujan, with hands-on maths activities for children. Call ahead to check the timings."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-beads",
+   "item": "Large wooden beads in two or three colours, with a lace",
+   "kind": "material",
+   "why": "For threading patterns that stay put. They can stand in for the beans in the bean test and for the pieces in Pattern Train.",
+   "url": "https://www.amazon.in/s?k=wooden+lacing+beads+for+kids",
+   "used_in": [
+    "e1",
+    "g1"
+   ]
+  },
+  {
+   "id": "b-patternfish",
+   "item": "Pattern Fish, by Trudy Harris",
+   "kind": "book",
+   "why": "A rhyming picture book. Each fish shows a pattern with their stripes, spots and bubbles, and each rhyme stops just before the next word.",
+   "url": "https://www.amazon.in/s?k=Pattern+Fish+Trudy+Harris",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Read two pages a day during My Pattern Book. Stop before the last word of each rhyme and let your child say what comes next."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Red, blue, red, blue, red, ____.",
+   "a": "blue"
+  },
+  {
+   "q": "Clap, clap, stamp, clap, clap, ____.",
+   "a": "stamp"
+  },
+  {
+   "q": "Tick, tock, tick, ____.",
+   "a": "tock"
+  },
+  {
+   "q": "Leaf, flower, flower, leaf, flower, ____.",
+   "a": "flower"
+  },
+  {
+   "q": "How long is the part that repeats in idli, dosa, idli, dosa?",
+   "a": "2 long: idli, dosa"
+  },
+  {
+   "q": "Which day comes after Saturday?",
+   "a": "Sunday"
+  },
+  {
+   "q": "Ta, ka, di, mi, ta, ka, di, ____.",
+   "a": "mi"
+  },
+  {
+   "q": "Day, night, day, night. Is that a repeating pattern?",
+   "a": "Yes. The part day, night comes again and again."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g2",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "a1",
+   "g1",
+   "story",
+   "ws-core",
+   "a2",
+   "g2",
+   "a3",
+   "a4",
+   "a5",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "a1",
+   "g1",
+   "a3",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "a1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads: the human-chosen side (Roots, the card 'Can you ever be sure what comes next?', the smallest-part agreement in c1, the 7-day week), the universe and everyday life (the card 'Patterns in time', a2 Pattern Hunt), maths in life (a3 thoranam, a4 solkattu and Rupaka tala, the kolattam story), everyone does maths (a5, the card 'Other living beings make patterns too', spotted).",
+   "curriculum/math.json, math.patterns.repeating-patterns.L1: repeating patterns of colours, shapes, sounds and movements; Utsav decorations (NCERT Class 1 chapter 9 Utsav, Cambridge Stage 1 Nc)."
+  ],
+  "science": [
+   "Papic, M. M., Mulligan, J. T. and Mitchelmore, M. C. (2011). Assessing the development of preschoolers' mathematical patterning. Journal for Research in Mathematics Education 42(3), 237-268. (53 children, two preschools, a 6-month programme, follow-up after the first year of school.)",
+   "Rittle-Johnson, B., Fyfe, E. R., McLean, L. E. and McEldoon, K. L. (2013). Emerging understanding of patterning in 4-year-olds. Journal of Cognition and Development 14(3), 376-396.",
+   "Rittle-Johnson, B., Fyfe, E. R., Hofer, K. G. and Farran, D. C. (2017). Early math trajectories: low-income children's mathematics knowledge from ages 4 to 11. Child Development 88(5), 1727-1742. (517 children.)",
+   "Coppersmith barbet (Psilopogon haemacephalus): call rate 108 to 121 notes a minute, up to 204 notes in a run, as given in the Wikipedia article 'Coppersmith barbet' (from Ali and Ripley's Handbook).",
+   "Common hawk-cuckoo (Hierococcyx varius): 'a loud screaming three-note call, repeated 5 or 6 times, rising in crescendo and ending abruptly' (Wikipedia, 'Common hawk-cuckoo').",
+   "Grass family (Poaceae): leaves alternate and distichous, one leaf at each node in two rows. Rice, maize and sugarcane are grasses.",
+   "Firefly flash patterns differ between species and are used to find mates: Lloyd, J. E. (1966). Studies on the flash communication system in Photinus fireflies. University of Michigan Museum of Zoology.",
+   "Rupaka tala commonly kept as two claps and a wave: carnaticstudent.org, 'Practice four widely used Carnatic talas'. Solkattu syllables ta ka di mi (four) and ta ki ta (three): standard konnakol practice.",
+   "Hardy, G. H. (1940). A Mathematician's Apology, section 10: 'A mathematician, like a painter or a poet, is a maker of patterns.'",
+   "Marcus, G. F., Vijayan, S., Bandi Rao, S. and Vishton, P. M. (1999). Rule learning by seven-month-old infants. Science 283, 77-80.",
+   "Caro, T., Izzo, A., Reiner, R. C., Walker, H. and Stankowich, T. (2014). The function of zebra stripes. Nature Communications 5, 3535.",
+   "Lambert, J. H. (1768, read 1761). Proof that pi is irrational. Whether pi is a normal number is an open problem.",
+   "Kolattam: a stick dance of Tamil Nadu, danced with two sticks, at Pongal and Navaratri (Wikipedia, 'Kolattam'). Toran or thoranam of mango leaves and marigolds over doors at festivals and weddings (Wikipedia, 'Toran (art)')."
+  ]
+ },
+ "playtest": "Walked through every flow as a parent and one child in a flat. Guess My Next Bean needs 8 rajma, 6 chana and 4 buttons, and each row is 12 beans long, so every part comes round at least four times. The crosses do bunch at the start of each row, but the exact bean differs from child to child, so the table shown is only one family's. Pattern Train was played in the head with 1 and 2 players: a train reaches 12 pieces in about four rolls, and the longest card needs up to 13 pieces of one kind, so use kitchen things you have plenty of. Which Card Did I Clap? uses eight cards that all sound different when done three times round. The thoranam works with paper and tape, and real mango leaves and marigolds are an extra. The bookmark challenge has exactly 12 parts that work, checked by listing them. Step minutes add up to each part's minutes. Facts looked up on the web while writing: the 2011 Australian preschool study, the 2013 and 2017 studies of American children, the calls of the coppersmith barbet and the common hawk-cuckoo, the leaf arrangement of grasses, the clap, clap, wave way of keeping Rupaka tala, kolattam, and the thoranam. The quotes from the Bhagavad Gita 8.19, Ecclesiastes 1:5 and Plato's Cratylus 402a are paraphrased from memory of well-known translations and were not looked up again. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The pictures of patterns use coloured circle and shape symbols inside the app's sum and table charts, because there is no chart for a row of coloured shapes yet. How they look should be checked on a phone."
 }
