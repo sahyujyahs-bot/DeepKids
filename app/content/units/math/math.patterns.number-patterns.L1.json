@@ -138,7 +138,7 @@
    "status": "defined",
    "context": "This card is about the simplest growing pattern. It is the one you make every time you count.",
    "definition": "In a 'one more' pattern, each number is the next counting number.",
-   "description": "Here is a worked example. The pattern is 6, 7, 8. What comes next? One more than 8 is 9. So 9 comes next, and then 10. You do not have to start at 1. A 'one more' pattern can start anywhere. Counting itself is this pattern: 1, 2, 3, 4, and on for ever. Now you try: 12, 13, 14. What comes next?",
+   "description": "Here is a worked example. The pattern is 6, 7, 8. What comes next? One more than 8 is 9, so 9 comes next. A 'one more' pattern can start anywhere. Counting itself is this pattern: 1, 2, 3, 4, and on for ever. Now you try: 12, 13, 14. What comes next?",
    "examples": [
     "The stairs in a house: each stair is one more than the last.",
     "Your age: one more each birthday.",
@@ -174,7 +174,7 @@
    "status": "defined",
    "context": "This card is about patterns that go up in jumps of two. You hopped them on the number track.",
    "definition": "In a 'two more' pattern, each number is two more than the one before. You jump over one number each time.",
-   "description": "Here is a worked example. Put a button on 2 on the number track. Hop two boxes: you land on 4. Hop two more: 6. Then 8. The pattern is 2, 4, 6, 8. You jumped over 3, 5 and 7. Now start on 1 and do the same. You get 1, 3, 5, 7. The rule is the same, two more each time. The start is different, so the numbers are different.",
+   "description": "Here is a worked example. Put a button on 2 on the number track and hop two boxes. You land on 4, then 6, then 8. The pattern is 2, 4, 6, 8, and you jumped over 3, 5 and 7. Now start on 1 with the same rule. You get 1, 3, 5, 7. The rule is the same, but the start is different, so the numbers are different.",
    "examples": [
     "Shoes by the door: 2, 4, 6, 8, one pair at a time.",
     "The right-hand pages of most books: 1, 3, 5, 7.",
@@ -209,7 +209,7 @@
    "status": "defined",
    "context": "This card is about patterns that get smaller each time. You built one in the Staircase Test, starting from 9.",
    "definition": "In a shrinking pattern, each number is smaller than the one before, by the same amount each time.",
-   "description": "Here is a worked example. Five idlis are on a plate. You eat one. Now there are 4. Eat one more: 3. The pattern is 5, 4, 3, 2, 1, 0. The rule is one fewer each time. With chana, a shrinking pattern stops when nothing is left. A pattern can also go down in twos: 10, 8, 6, 4, 2, 0. A shrinking pattern is a growing pattern read from the other end. Read 5, 4, 3 backwards and you get 3, 4, 5.",
+   "description": "Here is a worked example. Five idlis are on a plate, and you eat one at a time. The pattern is 5, 4, 3, 2, 1, 0. The rule is one fewer each time. A pattern can also go down in twos: 10, 8, 6, 4, 2, 0. With chana, a shrinking pattern stops when nothing is left. A shrinking pattern is a growing pattern read from the other end. Read 5, 4, 3 backwards and you get 3, 4, 5.",
    "examples": [
     "A countdown: 5, 4, 3, 2, 1, zero.",
     "A lift going down: 4, 3, 2, 1.",
@@ -247,8 +247,8 @@
    "concept": "How to find the rule",
    "status": "defined",
    "context": "This card shows how to find the rule of a number pattern that someone else made.",
-   "definition": "To find the rule, look at two numbers side by side. Ask: did it go up or down, and by how much?",
-   "description": "Here is a worked example. The pattern is 3, 5, 7, 9. Step 1: is it going up or down? Up. Step 2: how far is it from 3 to 5? Put a finger on 3 on the number track and hop to 5. That is two hops. Step 3: check the others. From 5 to 7 is two. From 7 to 9 is two. So the rule is two more each time. Always check more than one pair. One pair alone can trick you.",
+   "definition": "To find the rule, look at two numbers side by side. Ask: did it go up or down, and by how much? Then check another pair, because one pair alone can trick you.",
+   "description": "Here is a worked example. The pattern is 3, 5, 7, 9. Step 1: is it going up or down? It is going up. Step 2: how far is it from 3 to 5? Hop it on the number track: two hops. Step 3: check the other pairs. From 5 to 7 is two, and from 7 to 9 is two, so the rule is two more each time.",
    "examples": [
     "8, 9, 10: up by one each time. The rule is one more.",
     "14, 12, 10: down by two each time. The rule is two fewer.",
@@ -269,8 +269,8 @@
    "concept": "Finding a missing number or a wrong number",
    "status": "defined",
    "context": "This card shows how to use the rule to find a number that is missing from a pattern, or one that is wrong.",
-   "definition": "A missing number is found by using the rule from the number just before it. Then check with the number just after.",
-   "description": "Here is a worked example. The pattern is 4, 6, __, 10. Step 1: find the rule from numbers that sit side by side. From 4 to 6 is two more. Step 2: use the rule. Two more than 6 is 8. Step 3: check. Two more than 8 is 10, and 10 is the next number. So 8 fits. A wrong number is found the same way. Say the pattern aloud with the rule. Stop where your number and the written number do not match.",
+   "definition": "A missing number is found by using the rule from the number before it. A wrong number is found the same way: say the pattern by the rule, and stop where the written number does not match.",
+   "description": "Here is a worked example. The pattern is 4, 6, __, 10. Step 1: find the rule from two numbers side by side. From 4 to 6 is two more. Step 2: use the rule. Two more than 6 is 8. Step 3: check with the next number. Two more than 8 is 10, so 8 fits.",
    "examples": [
     "7, 8, __, 10: the missing number is 9.",
     "9, 7, __, 3: the rule is two fewer, so the missing number is 5.",
@@ -291,7 +291,7 @@
    "status": "defined",
    "context": "This card sorts patterns into three kinds. It helps you tell a number pattern that grows from a pattern that only repeats.",
    "definition": "A repeating pattern has a part that comes again and again. A growing pattern gets bigger each time. A shrinking pattern gets smaller each time.",
-   "description": "Clap, stamp, clap, stamp is a repeating pattern. The part 'clap, stamp' comes again and again, and it never gets bigger. Now clap once, then twice, then three times. That is a growing pattern. Nothing comes back the same. Each turn is one clap more. To tell them apart, ask one question. Does the same part come again, or does it change by a step each time? Look at the picture. The top row repeats. The rows of dots under it grow.",
+   "description": "Clap, stamp, clap, stamp is a repeating pattern. The part 'clap, stamp' comes again and again, and it never gets bigger. Now clap once, then twice, then three times. That is a growing pattern, because each turn is one clap more. To tell them apart, ask one question. Does the same part come again, or does it change by a step each time? In the picture, the row of beads repeats.",
    "examples": [
     "1, 2, 1, 2, 1, 2 repeats.",
     "1, 2, 3, 4, 5, 6 grows.",
@@ -322,14 +322,32 @@
    "status": "defined",
    "context": "This card looks for growing and shrinking patterns outside the maths book: on your birthday, in a lift and on the Moon.",
    "definition": "Many things around us go up or down in steps. Some keep exactly the same step. Some only roughly.",
-   "description": "Your age is a 'one more' pattern. You were 5, you are 6, you will be 7. The days left until a festival are a 'one fewer' pattern: 3 days, 2 days, 1 day, today. These steps are exact, because people count them. Now look at the Moon. After the new moon, the bright part of the Moon grows a little each night for about two weeks. Then it shrinks a little each night for about two weeks. It grows and shrinks, but not by exactly the same amount each night. The tidy rule, the same step every time, belongs to counting.",
+   "description": "Your age is a 'one more' pattern: you were 5, you are 6, you will be 7. The days left until a festival are a 'one fewer' pattern: 3 days, 2 days, 1 day, today. These steps are exact, because people count them. Now look at the Moon. After the new moon, the bright part grows a little each night for about two weeks. Then it shrinks a little each night for about two weeks. But it does not change by exactly the same amount each night. The tidy rule, the same step every time, belongs to counting.",
    "examples": [
     "A lift going up shows 1, 2, 3, 4.",
     "A countdown before a rocket leaves Sriharikota: 5, 4, 3, 2, 1, 0.",
     "The Moon: thin, then a little wider each night until full, then a little thinner each night."
    ],
    "perspectives": [],
-   "art": "A row of seven Moons from a thin crescent to a full circle, above a child marking days off on a wall calendar."
+   "art": "A row of seven Moons from a thin crescent to a full circle, above a child marking days off on a wall calendar.",
+   "chart": {
+    "type": "dots",
+    "title": "Days left until Pongal",
+    "rows": [
+     {
+      "label": "today",
+      "n": 3
+     },
+     {
+      "label": "tomorrow",
+      "n": 2
+     },
+     {
+      "label": "the day after",
+      "n": 1
+     }
+    ]
+   }
   },
   {
    "concept": "A teak tree and a coconut palm keep a pattern too",
@@ -380,7 +398,7 @@
    "status": "defined",
    "context": "This card goes further than Class 1. It is for a child who finds 'one more' and 'two more' easy.",
    "definition": "In some patterns the step is not the same each time. The step has a pattern of its own.",
-   "description": "Build a staircase of chana: rows of 1, 2, 3 and 4. Now count all the chana so far, after each row. After row 1 there is 1. After row 2 there are 3. After row 3 there are 6. After row 4 there are 10. The totals go 1, 3, 6, 10. Look at the steps between them: two more, then three more, then four more. The step grows by one each time. So the next total is five more than 10. That is 15.",
+   "description": "Build a staircase of chana with rows of 1, 2, 3 and 4. After each row, count all the chana so far. The totals go 1, 3, 6, 10. Look at the steps between them: two more, then three more, then four more. The step grows by one each time. So the next total is five more than 10, which is 15. About 1,500 years ago the Indian mathematician Aryabhata wrote down a quick rule for adding numbers that go up in equal steps.",
    "examples": [
     "1, 3, 6, 10, 15: the steps are 2, 3, 4, 5.",
     "Ten bowling pins stand in rows of 1, 2, 3 and 4.",
@@ -708,12 +726,8 @@
         "n": 3
        },
        {
-        "label": "row 4",
-        "n": 4
-       },
-       {
-        "label": "row 5",
-        "n": 5
+        "label": "row 4 ?",
+        "n": 0
        }
       ]
      },
@@ -1057,7 +1071,15 @@
       }
      ],
      "parent": "Backwards in ones: 19, 18, 17, 16, 15. Backwards in twos: 18, 16, 14, 12, 10. Hopping back in twos is hard at first. Let the track do the work.",
-     "context": "This is the last step of the Number Track activity, done on a strip of boxes numbered 0 to 20. Here you hop backwards to make shrinking patterns."
+     "context": "This is the last step of the Number Track activity, done on a strip of boxes numbered 0 to 20. Here you hop backwards to make shrinking patterns.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "Start on 20. Hop backwards.",
+      "value": 20
+     }
     }
    ]
   },
@@ -1178,7 +1200,14 @@
       "why": "Two fewer each time. From 10 down to 8 is two, and from 8 down to 6 is two. Picking 'two more' has the right step but the wrong way: the numbers are getting smaller."
      },
      "parent": "In twos the countdown is 10, 8, 6, 4, 2, 0. It has six numbers. In ones it has eleven.",
-     "context": "This is the last step of the Pattern Hunt. You count down from 10 to zero, first in ones and then in twos."
+     "context": "This is the last step of the Pattern Hunt. You count down from 10 to zero, first in ones and then in twos.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "10  8  6  ?"
+      ],
+      "answer": "?"
+     }
     }
    ]
   },
@@ -1280,15 +1309,11 @@
       "type": "dots",
       "rows": [
        {
-        "label": "top",
-        "n": 3
-       },
-       {
-        "label": "next",
+        "label": "next row",
         "n": 5
        },
        {
-        "label": "middle",
+        "label": "middle row",
         "n": 7
        }
       ]
@@ -1312,7 +1337,41 @@
       }
      ],
      "parent": "From the top the rows go 1, 3, 5, 7, 5, 3, 1. They grow by two up to the middle, then shrink by two.",
-     "context": "This is step 3 of the 7 to 1 kolam. You add rows of dots below the middle row and read the whole pattern."
+     "context": "This is step 3 of the 7 to 1 kolam. You add rows of dots below the middle row and read the whole pattern.",
+     "chart": {
+      "type": "dots",
+      "title": "All the rows of a 7 to 1 kolam",
+      "rows": [
+       {
+        "label": "",
+        "n": 1
+       },
+       {
+        "label": "",
+        "n": 3
+       },
+       {
+        "label": "",
+        "n": 5
+       },
+       {
+        "label": "",
+        "n": 7
+       },
+       {
+        "label": "",
+        "n": 5
+       },
+       {
+        "label": "",
+        "n": 3
+       },
+       {
+        "label": "",
+        "n": 1
+       }
+      ]
+     }
     },
     {
      "id": "s4",
@@ -1450,7 +1509,28 @@
       "why": "4. It is a growing pattern, one more each time. Picking 1 means thinking the pattern starts again, as a repeating pattern would."
      },
      "parent": "A famous song does the same with words. In 'Tyagaraja Yoga Vaibhavam' by Muthuswami Dikshitar, the first line is sung again and again, a little shorter each time, until only 'vam' is left. Musicians call this shape gopuccha, the cow's tail. Later in the song a line grows instead.",
-     "context": "This is the last step of the growing chant. You say the four lines from longest to shortest, so the pattern shrinks."
+     "context": "This is the last step of the growing chant. You say the four lines from longest to shortest, so the pattern shrinks.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "ta ka di mi",
+        "n": 4
+       },
+       {
+        "label": "ta ki ta",
+        "n": 3
+       },
+       {
+        "label": "ta ka",
+        "n": 2
+       },
+       {
+        "label": "ta",
+        "n": 1
+       }
+      ]
+     }
     }
    ]
   },
@@ -1552,7 +1632,17 @@
       "why": "7. A teak adds about one ring each year, and one more than 6 is 7. Picking 5 means counting back, not on."
      },
      "parent": "Count from the middle outwards, and touch each ring once.",
-     "context": "This is step 2 of reading a tree's rings. You count the rings in a drawing to find a tree's age."
+     "context": "This is step 2 of reading a tree's rings. You count the rings in a drawing to find a tree's age.",
+     "chart": {
+      "type": "dots",
+      "title": "One dot for each ring",
+      "rows": [
+       {
+        "label": "the new tree",
+        "n": 8
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -1845,7 +1935,14 @@
       "why": "6. From 10 to 8 is two fewer. Two fewer than 8 is 6, and two fewer than 6 is 4, so it fits. Picking 7 means going down by one."
      },
      "parent": "If the gap is at the start, find the rule from the numbers after it, then go one step the other way.",
-     "context": "This is step 2 of Fill the Gap, a card game about patterns with one number missing. Here you practise one turn."
+     "context": "This is step 2 of Fill the Gap, a card game about patterns with one number missing. Here you practise one turn.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "9  8  ▢  6"
+      ],
+      "answer": "▢ = ?"
+     }
     },
     {
      "id": "s3",
@@ -1954,11 +2051,6 @@
        {
         "label": "day 1",
         "n": 1
-       },
-       {
-        "label": "day 2",
-        "n": 0,
-        "more": 2
        }
       ]
      },
@@ -2010,7 +2102,33 @@
       "why": "6. Each day gets one more than the day before, so the day's number is the same as the day. Picking 4 gives the very next day, not day 6."
      },
      "parent": "After day 5 the jar holds 15: that is 1 and 2 and 3 and 4 and 5. Days 6 and 7 would need 6 and 7.",
-     "context": "This is day 5 of the One-More Jar, a five-day project. Today you count the whole jar and say what later days would need."
+     "context": "This is day 5 of the One-More Jar, a five-day project. Today you count the whole jar and say what later days would need.",
+     "chart": {
+      "type": "dots",
+      "title": "The jar, day by day",
+      "rows": [
+       {
+        "label": "day 1",
+        "n": 1
+       },
+       {
+        "label": "day 2",
+        "n": 2
+       },
+       {
+        "label": "day 3",
+        "n": 3
+       },
+       {
+        "label": "day 4",
+        "n": 4
+       },
+       {
+        "label": "day 5",
+        "n": 5
+       }
+      ]
+     }
     }
    ]
   }
@@ -2161,7 +2279,14 @@
       }
      ],
      "parent": "Six rows need 21. Seven rows need 28. Any way of explaining that uses the growing step is a good one.",
-     "context": "This is the last step of the whole staircase puzzle. You work out the total for a staircase you do not have enough chana to build."
+     "context": "This is the last step of the whole staircase puzzle. You work out the total for a staircase you do not have enough chana to build.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "1 3 6 10 15"
+      ],
+      "answer": "next = ?"
+     }
     }
    ]
   }
@@ -2767,7 +2892,7 @@
     },
     {
      "t": "write",
-     "p": "Say your answer aloud. A grown-up writes it. A teak tree has 12 rings. How many rings will the tree have 3 years from now? How do you know?",
+     "p": "Say your answer aloud. A teak has 12 rings. How many rings 3 years from now? How do you know?",
      "lines": 2,
      "a": "15 rings. A teak adds about one ring each year: 13, 14, 15.",
      "why": "A strong answer uses the rule, one more each year, and counts on three times from 12.",
@@ -3540,10 +3665,10 @@
  },
  "how_we_found_out": {
   "context": "How do we know that small children can think about patterns that grow? This card tells the true story of a study of 400 four-year-olds.",
-  "story": "For many years, when researchers studied small children and patterns, they nearly always used repeating patterns, such as red, blue, red, blue. Patterns that grow, such as one block, two blocks, three blocks, were mostly left for older children. So very little was known about what young children make of them. In 2019 Nore Wijns and four other researchers at the University of Leuven in Belgium set out to fill this gap. They worked with 400 four-year-olds, one child at a time. Each child was given both kinds of pattern, repeating and growing. The child was asked to carry a pattern on, to make the same pattern with other things, and to show how the pattern was built. The researchers also gave each child eight number tasks. They found that the kind of pattern and the kind of task both changed how well the children did. They also found that children who did well on the pattern tasks tended to do well with numbers. Growing patterns are now studied alongside repeating ones.",
+  "story": "For many years, when researchers studied small children and patterns, they nearly always used repeating patterns, such as red, blue, red, blue. Patterns that grow, such as one block, two blocks, three blocks, were hardly studied at this age. So very little was known about what young children make of them. In 2019 Nore Wijns and four other researchers at the University of Leuven in Belgium set out to fill this gap. They worked with 400 four-year-olds, one child at a time. Each child was given both kinds of pattern, repeating and growing. The child was asked to carry a pattern on, to make the same pattern with other things, and to show how the pattern was built. The researchers also gave each child eight number tasks. They found that the kind of pattern and the kind of task both changed how well the children did. They also found that children who did well on most of the pattern tasks tended to do well with numbers. Growing patterns are now studied alongside repeating ones.",
   "who": "Nore Wijns, Joke Torbeyns, Merel Bakker, Bert De Smedt and Lieven Verschaffel",
   "when": "2019",
-  "wrong_idea": "For small children, 'pattern' means only a repeating pattern, and growing patterns can wait. The 2019 study showed this was too narrow. Four-year-olds could be given growing patterns too, and how they did on patterns went together with how they did with numbers."
+  "wrong_idea": "For small children, the only patterns worth studying are repeating patterns. The 2019 study showed this was too narrow. Four-year-olds could work on growing patterns too, and how they did on patterns went together with how they did with numbers."
  },
  "sources": {
   "founder": [
@@ -3560,8 +3685,9 @@
    "Moon phases: the lit fraction grows from 0 at new moon to 100 percent at full moon, and not by equal amounts each night (US Naval Observatory, 'Phases of the Moon and Percent of the Moon Illuminated').",
    "Child growth: about 6 to 7 centimetres a year from about age 6 (KidsHealth, 'Growth and Your 6- to 12-Year-Old').",
    "Dhammapada 122, translated by Acharya Buddharakkhita: 'Drop by drop is the water pot filled.' Tao Te Ching 64, translated by Gia-Fu Feng and Jane English: a terrace nine stories high begins with a pile of earth; a journey of a thousand miles starts under one's feet.",
-   "Solkattu syllables ta (one), ta ka (two), ta ki ta (three), ta ka di mi (four): standard South Indian rhythm practice."
+   "Solkattu syllables ta (one), ta ka (two), ta ki ta (three), ta ka di mi (four): standard South Indian rhythm practice.",
+   "Aryabhata, Aryabhatiya (499 CE), Ganitapada: the rule for the partial sum of a series that goes up in equal steps (multiply the sum of the first and last terms by half the number of terms)."
   ]
  },
- "playtest": "Walked through every flow as a parent and one child in a flat. The Staircase Test needs about 60 chana if each old staircase is swept up before the next: 28 for rows 1 to 7, 30 for rows 2 to 10 and 25 for 9 down to 1. Chana roll, so work on newspaper or a mat. What Is My Rule? was checked for every pair of cards: with starts from 8 to 12 the button stays on the track for four hops under every rule. All 16 Fill the Gap cards were checked by working each one out. In the stretch puzzle, 20 chana cannot make a full staircase (15, then 21), and two staircases of 4 rows fit into a block of 20. Step minutes add up to each part's minutes. Facts looked up on the web while writing: the 2019 study of 400 four-year-olds (abstract only), yearly rings in teak and Brandis 1879, the 12 to 14 leaves a year of a coconut palm, the '7 to 1' way of naming kolam dots, the odd number of Golu steps, the Moon's lit part, how fast a six-year-old grows, Dhammapada 122, Tao Te Ching 64 and the Tamil proverb. The shrinking and growing lines in Dikshitar's song rest on one music blog plus a glossary of the terms, so a musician should confirm it. Not looked up: that right-hand pages of books carry odd numbers, that bus tickets are numbered in order, the countdown at Sriharikota, the ten bowling pins, and the Karthigai Deepam details in the story. That the researchers in the 2019 study worked at the University of Leuven comes from the paper's archive address, not from the paper itself. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. Number rows are shown inside the app's sum chart, with a box for the gap. How they look should be checked on a phone."
+ "playtest": "Walked through every flow as a parent and one child in a flat. The Staircase Test needs about 60 chana if each old staircase is swept up before the next: 28 for rows 1 to 7, 30 for rows 2 to 10 and 25 for 9 down to 1. Chana roll, so work on newspaper or a mat. What Is My Rule? was checked for every pair of cards: with starts from 8 to 12 the button stays on the track for four hops under every rule. All 16 Fill the Gap cards were checked by working each one out. In the stretch puzzle, 20 chana cannot make a full staircase (15, then 21), and two staircases of 4 rows fit into a block of 20. Step minutes add up to each part's minutes. Facts looked up on the web while writing: the 2019 study of 400 four-year-olds (abstract only), yearly rings in teak and Brandis 1879, the 12 to 14 leaves a year of a coconut palm, the '7 to 1' way of naming kolam dots, the odd number of Golu steps, the Moon's lit part, how fast a six-year-old grows, Dhammapada 122, Tao Te Ching 64, the Tamil proverb and Aryabhata's rule for adding a series. The shrinking and growing lines in Dikshitar's song rest on one music blog plus a glossary of the terms, so a musician should confirm it. Not looked up: that right-hand pages of books carry odd numbers, that bus tickets are numbered in order, the countdown at Sriharikota, the ten bowling pins, and the Karthigai Deepam details in the story. That the researchers in the 2019 study worked at the University of Leuven comes from the paper's archive address, not from the paper itself. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. Number rows are shown inside the app's sum chart, with a box for the gap. How they look should be checked on a phone."
 }

@@ -1,0 +1,3515 @@
+{
+ "id": "math.maths-and-world.maths-in-nature.L1",
+ "title": "Patterns on living things: look closely and count",
+ "level": 1,
+ "cards_mins": 8,
+ "summary": {
+  "text": "A lady's finger has ridges on the outside. Can they tell you how many seed rooms are inside, before anyone cuts? You will cut vegetables, fold leaves, and count petals and legs to find out what living things repeat. You will meet the 6 legs of an ant and the 8 legs of a spider, the two matching halves of a butterfly, the stripes of a tiger and the spiral of a snail shell. You will also ask who made these patterns: the plant, or the person who counts?",
+  "art": "A girl at a kitchen counter looking closely at the cut end of a lady's finger, with a banana, a hibiscus flower and a curry leaf on a steel plate beside her."
+ },
+ "intro": {
+  "hook": "Two of these animals have the same number of legs. Which animal is different?",
+  "text": "Animal B is different. A and C have 6 legs each. B has 8 legs. Every ant, fly and butterfly has 6 legs, and every spider has 8. So A and C could be an ant and a butterfly, and B could be a spider. You found that out by looking closely and counting. In this unit you will count many more living things, and find the patterns they keep.",
+  "art": "Three small animals seen from above on a white wall, an ant, a spider and a housefly, with their legs spread out clearly.",
+  "chart": {
+   "type": "dots",
+   "title": "Count the legs",
+   "rows": [
+    {
+     "label": "A",
+     "n": 6
+    },
+    {
+     "label": "B",
+     "n": 8
+    },
+    {
+     "label": "C",
+     "n": 6
+    }
+   ]
+  }
+ },
+ "outcomes": [
+  "I can count the parts of a living thing with care: petals, legs, spots or seed rooms.",
+  "I can say that insects have 6 legs and spiders have 8, and use this to tell them apart.",
+  "I can find the two matching halves of a leaf, a butterfly or a face, and show the fold line.",
+  "I can spot stripes, spots and spirals, and say what repeats or how the spiral grows.",
+  "I can find, count and draw a pattern on a real plant or animal.",
+  "I can say that the plant or animal made the pattern, and that the number words are ours."
+ ],
+ "terms": [
+  {
+   "term": "Pattern",
+   "meaning": "Something that is made or arranged in a way that you can find again.",
+   "example": "Every hibiscus on the bush has 5 petals. That is a pattern.",
+   "art": "Three red hibiscus flowers side by side, each with five petals."
+  },
+  {
+   "term": "Petal",
+   "meaning": "One of the coloured parts of a flower. Petals usually sit in a ring.",
+   "example": "A red hibiscus has 5 big petals.",
+   "art": "A hibiscus flower with one petal outlined."
+  },
+  {
+   "term": "Insect",
+   "meaning": "A small animal with 6 legs.",
+   "example": "Ants, houseflies, mosquitoes and butterflies are insects.",
+   "art": "An ant seen from above with the six legs numbered 1 to 6."
+  },
+  {
+   "term": "Spider",
+   "meaning": "A small animal with 8 legs. A spider is not an insect.",
+   "example": "The spider in the corner of the ceiling has 4 legs on each side.",
+   "art": "A house spider seen from above with the eight legs numbered 1 to 8."
+  },
+  {
+   "term": "Pair",
+   "meaning": "Two things that go together.",
+   "example": "An ant has 3 pairs of legs. One leg of each pair is on the left and one is on the right.",
+   "art": "An ant seen from above with three loops, each joining a left leg to a right leg."
+  },
+  {
+   "term": "Symmetry",
+   "meaning": "When two halves of a thing match. We also say 'matching halves'.",
+   "example": "A butterfly has symmetry. The left wings match the right wings.",
+   "art": "A butterfly with open wings and a dotted line down the body."
+  },
+  {
+   "term": "Fold line",
+   "meaning": "The line down the middle of a thing with matching halves. If you fold there, one half lies on the other. The full name is 'line of symmetry'.",
+   "example": "The fold line of a leaf is the thick line down the middle.",
+   "art": "A leaf folded in half along the middle vein, and the same leaf open with a dotted line on the vein."
+  },
+  {
+   "term": "Stripes and spots",
+   "meaning": "Stripes are lines of colour. Spots are dots of colour.",
+   "example": "A tiger has stripes. A ladybird has spots.",
+   "art": "A tiger's striped side next to a red ladybird with black spots."
+  },
+  {
+   "term": "Spiral",
+   "meaning": "A line that goes round and round, and moves away from the middle as it goes.",
+   "example": "A snail shell, a murukku and a mosquito coil are spirals.",
+   "art": "A snail shell, a murukku and a mosquito coil in a row, each with an arrow going round from the middle outward."
+  },
+  {
+   "term": "Seed room",
+   "meaning": "A space inside a fruit or vegetable where the seeds sit.",
+   "example": "Cut a lady's finger across. The seeds sit in a ring of small rooms.",
+   "art": "A slice of lady's finger seen from the cut end, with five seed rooms in a ring."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Count with care: mark where you start",
+   "status": "defined",
+   "context": "This card shows how to count parts that sit in a ring, such as petals or the ridges on a lady's finger.",
+   "definition": "To count parts in a ring, mark the first part, give each part one number, and stop when you come back to the mark.",
+   "description": "A ring has no beginning and no end, so it is easy to count a petal twice. Here is a worked example with a hibiscus. Put a small pen dot on one petal. Touch that petal and say 1. Go round, touching each petal: 2, 3, 4, 5. The next petal has the dot, so you stop. The last number was 5, so the flower has 5 petals.",
+   "examples": [
+    "Hold one ridge of a lady's finger with your thumb. Count round until you reach your thumb again.",
+    "To count the legs of an ant in a photo, count one side first, then the other side.",
+    "If two counts give two different numbers, count a third time, slowly."
+   ],
+   "perspectives": [],
+   "art": "A hibiscus seen from the front with a pen dot on one petal and the numbers 1 to 5 going round.",
+   "chart": {
+    "type": "dots",
+    "title": "One number for each petal",
+    "rows": [
+     {
+      "label": "petals",
+      "n": 5
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Six legs or eight legs?",
+   "status": "defined",
+   "context": "This card shows how counting legs tells you whether a small animal is an insect or a spider.",
+   "definition": "An insect has 6 legs. A spider has 8 legs.",
+   "description": "Ants, flies, mosquitoes, bees and butterflies are all insects. Each one has 6 legs: 3 on the left and 3 on the right. A spider has 8 legs: 4 on the left and 4 on the right. So a spider is not an insect. Here is a worked example. You see a small animal on the wall, with 4 legs on one side and 4 on the other. 4 and 4 make 8, so they are a spider. Long ago, people chose to give the name 'insect' only to animals with 6 legs.",
+   "examples": [
+    "A mosquito has 6 legs. They are an insect.",
+    "A scorpion has 8 legs. They are not an insect. They are a cousin of the spiders.",
+    "A crab has 10 legs, if you count the two big claws."
+   ],
+   "perspectives": [],
+   "art": "An ant and a spider side by side seen from above, with '3 and 3' written under the ant and '4 and 4' under the spider.",
+   "chart": {
+    "type": "dots",
+    "title": "Left legs and right legs",
+    "rows": [
+     {
+      "label": "ant: left",
+      "n": 3
+     },
+     {
+      "label": "ant: right",
+      "n": 3
+     },
+     {
+      "label": "spider: left",
+      "n": 4
+     },
+     {
+      "label": "spider: right",
+      "n": 4
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Two matching halves",
+   "status": "defined",
+   "context": "In the Fold Test you folded leaves down the middle. This card says what you were looking for.",
+   "definition": "A thing has symmetry when a fold line cuts it into two halves that match.",
+   "description": "Look at a butterfly with open wings. The left side and the right side match. A spot on the left wing has a partner spot on the right wing, just as far from the body. The body lies on the fold line. Leaves, ants, fish and your own face have two matching halves too. To check a leaf, fold along the thick middle line and see whether the edges meet. On real living things the halves match nearly, and never exactly.",
+   "examples": [
+    "Your two hands are a matching pair. Put your palms together to see.",
+    "A mango leaf folded on the middle vein: the edges nearly meet.",
+    "A snail shell has no fold line. You cannot fold a spiral into two matching halves."
+   ],
+   "perspectives": [],
+   "art": "A butterfly with open wings and a dotted fold line down the body, with matching spots on the two sides joined by thin lines.",
+   "chart": {
+    "type": "row",
+    "title": "The right half is the left half, turned round",
+    "rows": [
+     {
+      "label": "left, then right",
+      "cells": [
+       "triangle:red",
+       "circle:yellow",
+       "square:blue",
+       "square:blue",
+       "circle:yellow",
+       "triangle:red"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Stripes and spots: no two alike",
+   "status": "defined",
+   "context": "This card is about the stripes and spots on animals, and how people use them to tell one animal from another.",
+   "definition": "Stripes and spots are patterns of colour on skin, fur, feathers or wings. Each kind of animal has their own kind of pattern.",
+   "description": "All tigers have stripes. But no two tigers have the same stripes. Each tiger's stripes are their own, like your fingerprints. Scientists use this to count tigers. They take photos in the forest and match the stripes. A tiger's left side and right side do not match each other, so scientists photograph both sides. A ladybird's spots do not tell their age. A ladybird has all their spots once they are a grown beetle, and the number never changes.",
+   "examples": [
+    "A zebra's stripes, a tiger's stripes and your fingerprints are all one of a kind.",
+    "A chital deer keeps white spots all their life.",
+    "Look at a street cat or dog. Their patches are theirs alone."
+   ],
+   "perspectives": [],
+   "art": "Two tigers seen from the side, with a magnifying circle on each showing clearly different stripe shapes on the shoulder.",
+   "chart": {
+    "type": "row",
+    "title": "Two tigers: black stripes on yellow fur",
+    "rows": [
+     {
+      "label": "tiger 1",
+      "cells": [
+       "square:ink",
+       "square:yellow",
+       "square:ink",
+       "square:ink",
+       "square:yellow"
+      ]
+     },
+     {
+      "label": "tiger 2",
+      "cells": [
+       "square:yellow",
+       "square:ink",
+       "square:yellow",
+       "square:ink",
+       "square:ink"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Spirals: round and round, and wider",
+   "status": "defined",
+   "context": "This card is about the spiral of a snail shell. You made a spiral of beans in the activity The Snail's Spiral.",
+   "definition": "A spiral is a line that goes round and round and moves away from the middle as it goes.",
+   "description": "A snail builds their own shell. A baby snail has a tiny shell with about one turn. As the snail grows, they add new shell at the open edge. So the shell goes round and round, and each turn is wider than the one before. The tiny tip in the middle is the oldest part. To count the turns, put your finger on the tip and follow the line out to the opening.",
+   "examples": [
+    "A murukku and a mosquito coil are spirals made by people.",
+    "A storm seen from space is a spiral of cloud.",
+    "Our galaxy, the Milky Way, is a spiral of stars."
+   ],
+   "perspectives": [],
+   "art": "A snail shell seen from the side with a dotted line going round from the tiny tip to the opening, and the turns numbered 1, 2, 3.",
+   "chart": {
+    "type": "dots",
+    "title": "One family's bean spiral (your numbers may differ)",
+    "rows": [
+     {
+      "label": "turn 1",
+      "n": 6
+     },
+     {
+      "label": "turn 2",
+      "n": 12
+     },
+     {
+      "label": "turn 3",
+      "n": 18
+     }
+    ]
+   }
+  },
+  {
+   "concept": "The same number, again and again",
+   "status": "defined",
+   "context": "In Cut and Count you cut lady's fingers and a banana. This card says what you found inside.",
+   "definition": "Many plants keep to one number for their parts. The number shows up in flower after flower and fruit after fruit.",
+   "description": "Cut a lady's finger across and you see a ring of seed rooms. Most lady's fingers have 5, and some kinds have more. On a lady's finger, the ridges outside tell you the rooms inside. A banana cut across shows 3 parts, however big the banana is. A single red hibiscus has 5 petals. The plant keeps to the number without any number words. But a rule for one plant may not work for another, so we check each one.",
+   "examples": [
+    "Two lady's fingers from the same heap usually have the same number of seed rooms.",
+    "An ixora flower has 4 petals. A hibiscus has 5.",
+    "Push a finger gently into the top of a peeled banana. The banana comes apart in 3 long pieces."
+   ],
+   "perspectives": [],
+   "art": "A slice of lady's finger with five seed rooms and a slice of banana with three parts, side by side on a steel plate.",
+   "chart": {
+    "type": "dots",
+    "title": "One lady's finger",
+    "rows": [
+     {
+      "label": "ridges outside",
+      "n": 5
+     },
+     {
+      "label": "seed rooms inside",
+      "n": 5
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Is a marigold one flower or many?",
+   "status": "debated",
+   "context": "In the Petal Count you pulled one 'petal' out of a marigold and looked at the bottom of it. This card asks what you were holding.",
+   "description": "A marigold looks like one flower with too many petals to count. Pull one 'petal' out and look at the bottom. There is a tiny tube. Each 'petal' is a whole tiny flower. So one marigold is a bunch of many tiny flowers packed on one stalk. A sunflower is made the same way. Before you count, you must choose what to call one flower.",
+   "examples": [
+    "One marigold in a garland: 1 flower head, and many tiny flowers.",
+    "One bunch of grapes is 1 bunch and also many grapes.",
+    "One ixora bunch is many small flowers, each with 4 petals."
+   ],
+   "perspectives": [
+    {
+     "who": "The flower seller and most of us",
+     "explanation": "A marigold is one flower. It grows on one stalk, opens as one and goes into a garland as one."
+    },
+    {
+     "who": "A botanist, a scientist who studies plants",
+     "explanation": "A marigold is a flower head. It is made of many tiny flowers, and each one can make a seed. Both counts are right. They count different things."
+    }
+   ],
+   "art": "A marigold next to one tiny flower pulled out of it, shown large, with a small tube at the base.",
+   "chart": {
+    "type": "dots",
+    "title": "One marigold, counted two ways",
+    "rows": [
+     {
+      "label": "flower heads",
+      "n": 1
+     },
+     {
+      "label": "tiny flowers pulled out so far",
+      "n": 12,
+      "more": 8
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Other living beings notice patterns too",
+   "status": "debated",
+   "context": "This card is about honeybees and a pufferfish, and what scientists have really seen them do.",
+   "description": "Humans are not the only animals who use patterns. In 1996, scientists in Germany trained honeybees with sugar water. Some bees learned to choose shapes with two matching halves. Then the bees were shown new shapes, and they still chose the ones with matching halves. Near Japan, a small male pufferfish makes a round pattern of ridges in the sand, about 2 metres across. He makes this with his fins and body to bring a female to lay eggs. Scientists argue about whether to call this maths.",
+   "examples": [
+    "A bee trained on matching-halves shapes picks a new matching-halves shape she has never seen.",
+    "The pufferfish is about as long as your hand. His circle is wider than a grown-up is tall.",
+    "The bee study used trained bees. Nobody knows yet how wild bees use matching halves when they choose flowers."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who say this is maths",
+     "explanation": "The bees picked out 'two matching halves' from shapes they had never met. That is seeing a rule, not remembering a picture. The fish makes a true circle with evenly spaced ridges."
+    },
+    {
+     "who": "Scientists who are more careful",
+     "explanation": "Seeing or making a pattern is not the same as counting it or explaining it. It is safer to say that bees can tell matching halves apart, and that the fish builds a regular shape, each in their own way."
+    }
+   ],
+   "art": "A honeybee hovering in front of two cards, one with a matching-halves shape and one with a lopsided shape, and below, a small pufferfish above a round ridged pattern in the sand."
+  },
+  {
+   "concept": "Stretch: more than one fold line",
+   "status": "defined",
+   "context": "This card goes further than Class 1. It is for a child who finds matching halves easy.",
+   "definition": "Some shapes can be folded into matching halves in more than one way. Each way has its own fold line.",
+   "description": "A butterfly has only 1 fold line, down the body. Now cut a paper flower with 4 petals, like an ixora. Fold it top to bottom: the halves match. Fold it left to right: they match again. Fold it corner to corner, both ways: they match again. That makes 4 fold lines. A paper flower with 5 petals has 5 fold lines. Try it and count.",
+   "examples": [
+    "A paper ixora with 4 petals: 4 fold lines.",
+    "A paper hibiscus with 5 petals: 5 fold lines.",
+    "A square of paper has 4 fold lines. A long rectangle has only 2."
+   ],
+   "perspectives": [],
+   "art": "A four-petal paper flower with four dotted fold lines crossing at the middle, next to a butterfly with one dotted line.",
+   "chart": {
+    "type": "dots",
+    "title": "How many fold lines?",
+    "rows": [
+     {
+      "label": "butterfly",
+      "n": 1
+     },
+     {
+      "label": "4-petal paper flower",
+      "n": 4
+     },
+     {
+      "label": "5-petal paper flower",
+      "n": 5
+     }
+    ]
+   }
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Every insect has 6 legs, and every spider has 8.",
+   "evidence": "People have looked at and named about a million kinds of insects. Six legs is part of what the word insect means. Anyone can check with an ant and a house spider."
+  },
+  {
+   "text": "No two tigers have the same stripes.",
+   "evidence": "Scientists in India have taken many thousands of camera photos of tigers since the 1990s. They can tell each tiger apart by matching the stripes."
+  },
+  {
+   "text": "A snail's shell grows only at the open edge, so the tiny tip is the oldest part.",
+   "evidence": "Scientists have watched snails grow. New shell is added at the lip of the opening, and the old turns stay as they were."
+  },
+  {
+   "text": "The two halves of a leaf or a face nearly match, but never exactly.",
+   "evidence": "Fold any real leaf along the middle vein and hold it up to the light. The edges never meet all the way along."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "A spider is a kind of insect.",
+   "who": "Many people",
+   "context": "This card is about a common mix-up between spiders and insects.",
+   "for": "Spiders are small, they crawl, and they live in the same corners as insects.",
+   "against": "Insects have 6 legs. Spiders have 8. Count the legs and the mix-up ends.",
+   "status": "rejected"
+  },
+  {
+   "claim": "You can tell a ladybird's age by counting the spots.",
+   "who": "A common belief",
+   "context": "This card is about what a ladybird's spots do and do not tell you.",
+   "for": "It sounds likely, because trees add a ring each year.",
+   "against": "A ladybird has all their spots from the day they become a grown beetle. The number tells you what kind of ladybird they are. Most ladybirds live only about a year.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Maths is something only people do. Plants and other animals just grow.",
+   "who": "Many scientists and mathematicians",
+   "context": "This card is about an open argument: is a pattern made by a plant or an animal a kind of maths?",
+   "for": "Only people are known to count with number words, write sums and explain why a rule works.",
+   "against": "A lady's finger keeps to one number. A snail builds a spiral. Trained honeybees picked out shapes with matching halves. Patterns with numbers in them are older than people.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Three lady's fingers all had 5 seed rooms. Can you be sure the next one will?",
+   "kind": "deep",
+   "hint": "How many would you need to cut to be sure? Is that even possible?"
+  },
+  {
+   "q": "Why do you think your two hands match each other?",
+   "kind": "deep",
+   "hint": "What would be hard to do if one arm were much longer than the other?"
+  },
+  {
+   "q": "Is a marigold one flower or many? Who decides?",
+   "kind": "deep",
+   "hint": "What did you see at the bottom of one 'petal'?"
+  },
+  {
+   "q": "If nobody ever counted an ant's legs, would there still be six?",
+   "kind": "big",
+   "hint": "The legs would be there. Would the word 'six' be there?"
+  },
+  {
+   "q": "A snail shell and a galaxy are both spirals. Why might the same shape turn up in a small thing and a huge thing?",
+   "kind": "big",
+   "hint": "Both keep turning while they spread outward."
+  },
+  {
+   "q": "Does a hibiscus plant know that five is five?",
+   "kind": "big",
+   "hint": "What would you need to see to find out?"
+  }
+ ],
+ "story": {
+  "title": "Two Tigers or One?",
+  "mins": 7,
+  "read_aloud": true,
+  "note": "Kaveri, Gowri and the village are made up. The method is real. Scientists in India tell tigers apart by their stripes in camera photos. A tiger's left side and right side have different stripes, so the cameras are set in pairs, one on each side of the path. Ullas Karanth began this work in Nagarahole in Karnataka in the early 1990s.",
+  "text": [
+   "Kaveri was seven. She lived in a village at the edge of a big forest in Karnataka. Her aunt Gowri worked in that forest. Gowri's job was to look after the cameras.",
+   "The cameras were small green boxes tied to trees beside the forest paths. They stood in pairs, one on each side of a path, facing each other. When an animal walked between them, both cameras went click.",
+   "That week the village was afraid.",
+   "\"There are two tigers now,\" said the tea shop man. \"One was seen at the tank on Monday. One was seen near the bamboo on Wednesday.\"",
+   "\"Two? I heard three,\" said the woman who sold bananas.",
+   "People kept their cows tied up. Nobody went to cut grass. Kaveri's friend Mahesh said he would not walk to school by the tank road ever again.",
+   "On Thursday evening Gowri came home with the camera cards. She sat on the step and opened her old laptop. Kaveri sat on one side of her. Mahesh sat on the other.",
+   "Kaveri had spent the afternoon making a paper butterfly. She had put blobs of paint on one wing, folded the paper and pressed. When she opened the paper, the other wing had the same blobs. The two sides matched. The butterfly was still drying on the windowsill.",
+   "\"Monday, the tank path,\" said Gowri. A photo came up. A tiger was walking past, and the photo showed the tiger's left side. Kaveri looked closely. On the shoulder there was a stripe shaped like a fork, with two prongs. Behind the fork were three short stripes, like three grains of rice.",
+   "\"Wednesday, the bamboo path,\" said Gowri. Another photo came up. This tiger was walking the other way, and the photo showed the right side. Kaveri looked at the shoulder. There was no fork. There was a stripe shaped like a loop, and behind the loop was one long stripe.",
+   "\"See?\" said Mahesh. \"A fork tiger and a loop tiger. Two tigers. I told you.\"",
+   "Kaveri nearly said yes. Then she stopped.",
+   "\"Wait,\" she said. \"The first photo is the left side. The second photo is the right side.\"",
+   "\"So what?\" said Mahesh. \"Two sides of an animal are the same. Look at your butterfly.\"",
+   "Kaveri looked at her butterfly. Then she looked at Gowri. Gowri said nothing. She only waited.",
+   "\"Atthe,\" said Kaveri slowly, \"the cameras stand in pairs. Is there another photo from Monday? From the camera on the other side of the path?\"",
+   "Gowri smiled a little and pressed a key.",
+   "The same tiger, on the same Monday, at the same minute. But this photo was taken from the other side of the path. It showed the tiger's right side.",
+   "On the shoulder there was a loop. Behind the loop was one long stripe.",
+   "Nobody spoke. Kaveri put her finger on the screen. \"Loop. One long stripe,\" she said. Gowri put Wednesday's photo next to it. \"Loop. One long stripe.\" Kaveri checked the next stripes too, one by one, all the way to the tail. Every stripe had a partner in the other photo.",
+   "\"She is one tiger,\" said Kaveri. \"She has a fork on her left side and a loop on her right side. A tiger is not like my butterfly. Her two sides do not match.\"",
+   "\"She?\" said Mahesh.",
+   "\"She,\" said Gowri. \"We have known her for four years. She walks a big round through the forest and comes past the tank every few days. She was here long before this week. She has never taken a cow.\"",
+   "\"So there are not three tigers,\" said Mahesh.",
+   "\"There is one,\" said Kaveri. \"We just counted her twice.\"",
+   "The next morning Gowri told the tea shop man. By noon the whole village knew. The cows went out to graze, with two grown-ups to watch them. Mahesh walked to school by the tank road, though he walked fast.",
+   "That night Kaveri opened her notebook. She drew a tiger's left side with a fork and three grains of rice. She turned the page and drew a tiger's right side with a loop and one long stripe. Under both drawings she wrote the same thing.",
+   "One tiger."
+  ],
+  "epiphany": "For the parent: a count is only right if you can tell the things apart. The village counted one tiger twice, because the two photos showed two different sides. Kaveri solved it by looking closely at the pattern, and by not trusting a rule (two sides match) that was true for her butterfly but not for a tiger.",
+  "ask": [
+   "Why did the village think there were two tigers?",
+   "Kaveri's butterfly had two matching sides. Was the tiger the same? How did Kaveri find out?",
+   "How could you tell two street cats or two cows apart without giving them collars?",
+   "Is there something at home that you may have counted twice by mistake?"
+  ],
+  "art": [
+   "A girl of seven and a boy sitting on a house step on either side of a woman in a forest uniform with an old laptop on her knees, evening light, forest behind.",
+   "Two small green camera boxes tied to trees on either side of a forest path, facing each other, with a tiger walking between them.",
+   "A laptop screen showing the left shoulder of a tiger with a fork-shaped stripe and three short stripes behind it.",
+   "A laptop screen showing two photos side by side of a tiger's right shoulder, each with a loop-shaped stripe and one long stripe, and a child's finger pointing.",
+   "An open notebook with two child's drawings of a tiger, one with a fork stripe and one with a loop stripe, and the words 'One tiger' under each, next to a painted paper butterfly."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Cut and Count: can the outside tell you what is inside?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this test you count the ridges on the outside of a lady's finger. Then you guess how many seed rooms are inside, and a grown-up cuts so that you can check. You try three lady's fingers and then a banana. You will find out whether the outside can tell you the inside.",
+   "question": "Can you know how many seed rooms are inside a lady's finger by counting the ridges on the outside? Does the same trick work for a banana?",
+   "predict": "Before each cut, guess how many seed rooms or parts you will see inside. Why do you think so?",
+   "fair_test": "We count the ridges and write our guess before every cut. We cut each one straight across the middle. We count the rooms the same way each time, with one number for each room.",
+   "results_table": [
+    "Vegetable or fruit",
+    "Ridges or sides outside",
+    "My guess for inside",
+    "What I counted inside"
+   ],
+   "materials": [
+    {
+     "item": "fresh lady's fingers (bhindi, vendakkai), washed and dried",
+     "qty": 3
+    },
+    {
+     "item": "a banana",
+     "qty": 1
+    },
+    {
+     "item": "one more vegetable or fruit that will be cooked or eaten today, such as a tomato, a cucumber or an orange",
+     "qty": 1
+    },
+    {
+     "item": "a knife and a cutting board, for the grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a sketch pen, to mark the ridge where you start counting",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil, for the table",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up does all the cutting. The child counts and looks. Cook or eat everything you cut.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Count ridges, guess, cut and count three lady's fingers, a banana and one more vegetable or fruit."
+    }
+   ],
+   "record": "A grown-up draws the table. For each vegetable, write the count outside, the guess and the count inside. The child draws one cut slice with its seed rooms. At the end, the child says what they found, and the grown-up writes it under the table.",
+   "example_chart": {
+    "type": "table",
+    "title": "What a finished table can look like (your numbers will be your own)",
+    "cols": [
+     "What we cut",
+     "Outside",
+     "My guess",
+     "Inside"
+    ],
+    "rows": [
+     [
+      "Lady's finger 1",
+      "5 ridges",
+      "3",
+      "5 rooms"
+     ],
+     [
+      "Lady's finger 2",
+      "5 ridges",
+      "5",
+      "5 rooms"
+     ],
+     [
+      "Lady's finger 3",
+      "6 ridges",
+      "5",
+      "6 rooms"
+     ],
+     [
+      "Banana",
+      "5 sides",
+      "5",
+      "3 parts"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A child's hand holding a lady's finger, with the thumb on one ridge that has a pen dot, and the other hand's finger touching the next ridge.",
+     "caption": "1. Mark one ridge. Count the ridges all the way round."
+    },
+    {
+     "art": "A sheet of paper with a table and a child writing a guess in it, next to three lady's fingers and a banana.",
+     "caption": "2. Write your guess for the inside."
+    },
+    {
+     "art": "A grown-up's hands cutting a lady's finger straight across on a board, and one slice lying flat showing a ring of seed rooms.",
+     "caption": "3. A grown-up cuts across. Count the seed rooms."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw the table on paper. 2. Give your child one lady's finger. 3. Let them feel the ridges that run along it. 4. Put a pen dot on one ridge. 5. Your child counts the ridges round to the dot and writes the number.",
+     "say": "Feel the lines that run along this lady's finger. They are called ridges. How many are there? Start at the dot.",
+     "kid": "Feel the ridges on the lady's finger. Start at the dot. Count all the way round.",
+     "parent": "Count near the middle, where the ridges are clearest. Most lady's fingers have 5 ridges. Some kinds have 6, 7 or 8. If two counts differ, count again with a thumb on the dot.",
+     "chart": {
+      "type": "table",
+      "title": "Our table",
+      "cols": [
+       "What we cut",
+       "Outside",
+       "My guess",
+       "Inside"
+      ],
+      "rows": [
+       [
+        "Lady's finger 1",
+        "",
+        "",
+        ""
+       ],
+       [
+        "Lady's finger 2",
+        "",
+        "",
+        ""
+       ],
+       [
+        "Lady's finger 3",
+        "",
+        "",
+        ""
+       ],
+       [
+        "Banana",
+        "",
+        "",
+        ""
+       ]
+      ]
+     },
+     "context": "This is the first step of Cut and Count. You count the ridges on the outside of a lady's finger."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Tell your child that the seeds sit in small rooms inside. 2. Ask for a guess and a reason. 3. Write the guess in the table. 4. Do not say whether the guess is right.",
+     "say": "Inside, the seeds sit in little rooms in a ring. How many rooms do you think there are? Why do you think so?",
+     "kid": "The seeds sit in little rooms inside. Guess how many rooms. Say why.",
+     "ask": [
+      {
+       "q": "Why did you guess that number?",
+       "good": [
+        "Because there are 5 lines outside.",
+        "It is thin, so maybe 3.",
+        "I just think so."
+       ]
+      }
+     ],
+     "parent": "Any guess with a reason is good. Many children do not link the ridges to the rooms yet. Let the cut answer.",
+     "context": "This is step 2 of Cut and Count. You guess how many seed rooms are inside the lady's finger before anyone cuts."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Cut the lady's finger straight across the middle. 2. Lay one slice flat on the board. 3. Your child counts the seed rooms, touching each one with a pencil tip. 4. Write the count next to the guess.",
+     "say": "Now I will cut. Look at the slice. Count the rooms, one number for each room.",
+     "kid": "Look at the slice. Touch each seed room with your pencil. Count them.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Look at your two numbers, outside and inside. What do you notice?",
+       "good": [
+        "They are the same.",
+        "5 ridges and 5 rooms.",
+        "Each ridge has a room under it."
+       ]
+      }
+     ],
+     "parent": "The slice often looks like a small flower or star. Each ridge on the outside sits over one seed room. Do not point this out. Wait for your child to see it.",
+     "context": "This is step 3 of Cut and Count. A grown-up cuts the lady's finger across, and you count the seed rooms inside."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Take the second lady's finger. 2. Your child counts the ridges, then guesses the rooms, then you cut. 3. Do the same with the third. 4. Cut one of them again near the tip, and count the rooms there.",
+     "say": "Here is another one. Count the outside first. Now guess the inside. Why that number?",
+     "kid": "Count the ridges on the next one. Guess the rooms. Then check the slice.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Did your guess get better? What did you use to guess?",
+       "good": [
+        "I counted the ridges.",
+        "The outside number is the inside number.",
+        "It was 5 again."
+       ]
+      }
+     ],
+     "parent": "By the second or third one, most children guess from the ridges. Near the tip the rooms are tiny, but the number is the same. If one lady's finger has a different number from the others, that is a real find. Write it down.",
+     "check": {
+      "t": "mcq",
+      "q": "A lady's finger has 6 ridges on the outside. How many seed rooms are most likely inside?",
+      "options": [
+       "5",
+       "6",
+       "12"
+      ],
+      "a": 1,
+      "why": "6. On a lady's finger each ridge sits over one seed room, so the two numbers match. Picking 5 means remembering the usual number and not counting this one."
+     },
+     "context": "This is step 4 of Cut and Count. You try two more lady's fingers, guessing the inside from the outside."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Give your child the banana, still in the peel. 2. They count the flat sides round the banana and write the number. 3. Ask for a guess for the inside, with a reason. 4. Peel and cut across. 5. Count the parts you see in the slice.",
+     "say": "Will the lady's finger trick work on a banana? Count the sides. Guess the inside. Why do you think so?",
+     "kid": "Count the flat sides of the banana. Guess the inside. Then look at the slice.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Did the outside tell you the inside this time?",
+       "good": [
+        "No. It had 5 sides but 3 parts.",
+        "The trick did not work.",
+        "Banana is different."
+       ]
+      }
+     ],
+     "parent": "A banana slice shows 3 parts, with tiny dark specks where seeds would be. Many bananas have 4 or 5 flat sides, so the trick often fails here. That is the point: a rule found for one plant must be tested again for another.",
+     "context": "This is step 5 of Cut and Count. You test whether the outside of a banana tells you the inside, as it did for the lady's finger."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "1. Take the last vegetable or fruit. 2. Ask for a guess of what the inside will look like. 3. Cut across and count the rooms or pieces together.",
+     "say": "One more. What do you think we will see inside? Why?",
+     "kid": "Guess what is inside the last one. Then count the rooms or pieces.",
+     "adult": true,
+     "parent": "Tomatoes change a lot from kind to kind. An orange has many pieces, and two oranges often differ by one or two. Just count what you have.",
+     "context": "This is step 6 of Cut and Count. You guess, cut and count one more vegetable or fruit."
+    },
+    {
+     "id": "s7",
+     "mins": 3,
+     "do": "1. Look at the whole table together. 2. Ask your child what they think, what they saw and why. 3. Write their words under the table. 4. Cook or eat what you cut.",
+     "say": "Look at our table. When did the outside tell us the inside? When did it not?",
+     "kid": "Look at your table. When did the outside tell you the inside?",
+     "ask": [
+      {
+       "q": "What do you think now? What did you see? Why do you think it is so?",
+       "good": [
+        "For lady's finger the ridges tell the rooms.",
+        "The lady's fingers had the same number each time.",
+        "The banana did not follow the rule.",
+        "Each kind of plant keeps their own number."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "The ridge trick worked for three lady's fingers. Will the same trick work for every vegetable?",
+      "options": [
+       "Yes, always",
+       "No. Each kind must be tested",
+       "Only for green ones"
+      ],
+      "a": 1,
+      "why": "Each kind must be tested. The ridges told the rooms for the lady's finger, but the banana's sides did not tell its parts. Picking 'yes, always' means trusting a rule further than it was checked."
+     },
+     "context": "This is the last step of Cut and Count. You say what you found about the outside and the inside."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The Fold Test: do the two halves of a leaf match?",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you fold four leaves along the middle line and see whether the two halves match. You will find out how close 'matching' really is on a living thing.",
+   "problem": "A leaf looks as if the left half and the right half are the same. Are they?",
+   "materials": [
+    {
+     "item": "leaves of different kinds, such as a curry leaf, a spinach leaf, a tulsi or betel leaf and a money plant leaf",
+     "qty": 4
+    },
+    {
+     "item": "plain paper, a pencil and scissors",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Guess, fold and sort four leaves, count the side veins, and compare with a paper leaf."
+    }
+   ],
+   "record": "Draw one leaf. Draw the fold line as a dotted line. Write 'nearly match' or 'do not match' under it.",
+   "setup": [
+    {
+     "art": "Four different leaves laid flat in a row on a table: a small curry leaf, a spinach leaf, a heart-shaped betel leaf and a money plant leaf.",
+     "caption": "1. Lay out four leaves. Find the middle line of each."
+    },
+    {
+     "art": "A child's hands folding a spinach leaf along the middle vein and holding it up to a window.",
+     "caption": "2. Fold along the middle line. Do the edges meet?"
+    },
+    {
+     "art": "A folded sheet of paper with half a leaf drawn at the fold and scissors cutting along the line, and the opened paper leaf beside a real leaf.",
+     "caption": "3. Cut a paper leaf on a fold. Compare it with the real leaf."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay the four leaves flat. 2. Your child finds the thick line down the middle of each leaf. 3. Ask for a guess for each leaf, with a reason.",
+     "say": "Find the line down the middle of this leaf. If we fold there, will the two halves match? Why do you think so?",
+     "kid": "Find the middle line of each leaf. Guess: will the two halves match?",
+     "chart": {
+      "type": "row",
+      "title": "Matching halves look like this",
+      "rows": [
+       {
+        "label": "left, then right",
+        "cells": [
+         "triangle:green",
+         "circle:green",
+         "square:green",
+         "square:green",
+         "circle:green",
+         "triangle:green"
+        ]
+       }
+      ]
+     },
+     "context": "This is the first step of the Fold Test. You find the middle line of four leaves and guess whether the halves will match."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Your child folds each leaf gently along the middle line. 2. Hold the folded leaf up to the light. 3. Sort the leaves into two groups: nearly match, and do not match.",
+     "say": "Fold along the line. Hold the leaf up to the window. Do the two edges meet all the way?",
+     "kid": "Fold each leaf on the middle line. Hold it up to the light. Do the edges meet?",
+     "ask": [
+      {
+       "q": "Did any leaf match exactly, all the way along the edge?",
+       "good": [
+        "No, there is always a little bit sticking out.",
+        "This one is close.",
+        "The curry leaf is lopsided."
+       ]
+      }
+     ],
+     "parent": "Most leaves nearly match. Many curry leaflets are lopsided near the stalk. No real leaf matches exactly. Let your child find a leaf that does not fit either group.",
+     "context": "This is step 2 of the Fold Test. You fold each leaf on the middle line and sort the leaves by how well the halves match."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Open the biggest leaf. 2. Your child counts the side lines on the left of the middle line. 3. Then they count the side lines on the right. 4. Write both numbers.",
+     "say": "Count the side lines on the left half. Now count the right half. Are the two numbers the same?",
+     "kid": "Count the side lines on the left half. Count the right half. Same number?",
+     "parent": "The side lines are called veins. The two counts are often the same or differ by one. On many leaves the veins on the two sides do not start at the same spot. They take turns.",
+     "context": "This is step 3 of the Fold Test. You count the side veins on each half of one big leaf."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Fold a sheet of paper in half. 2. Your child draws half a leaf, starting and ending on the fold. 3. Cut along the line and open the paper. 4. Fold the paper leaf and a real leaf, and compare.",
+     "say": "This paper leaf was cut on a fold. Which matches better, the paper leaf or the real leaf? Why?",
+     "kid": "Cut a paper leaf on a fold. Open it. Which matches better, paper or real?",
+     "ask": [
+      {
+       "q": "Why do the paper halves match so well?",
+       "good": [
+        "Because I cut both at once.",
+        "The fold made a copy.",
+        "The real leaf grew by itself."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "You fold a real leaf on its middle line. What do you most often see?",
+      "options": [
+       "The halves match exactly",
+       "The halves nearly match",
+       "The halves are nothing alike"
+      ],
+      "a": 1,
+      "why": "The halves nearly match. A living leaf grows a little differently on each side. Only a paper leaf cut on a fold matches exactly."
+     },
+     "context": "This is the last step of the Fold Test. You cut a paper leaf on a fold and compare it with a real leaf."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Petal Count: flowers from the pooja basket",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you count the petals on three or four flowers from home, a balcony pot or the flower seller. You will find out which flowers keep to one number, and what a marigold is really made of.",
+   "problem": "Does a flower of one kind always have the same number of petals?",
+   "materials": [
+    {
+     "item": "flowers of two or three kinds, two of each kind if you can, such as hibiscus, ixora, periwinkle or jasmine",
+     "qty": "4 to 6"
+    },
+    {
+     "item": "one marigold or chrysanthemum",
+     "qty": 1
+    },
+    {
+     "item": "a sketch pen, paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Guess and count the petals of each flower, compare two of a kind, and take a marigold apart."
+    }
+   ],
+   "record": "Draw each flower from the front. Write the number of petals under it.",
+   "setup": [
+    {
+     "art": "A steel plate with two red hibiscus flowers, a bunch of orange ixora, a pink periwinkle and a marigold.",
+     "caption": "1. Lay out your flowers. Guess the petals of each."
+    },
+    {
+     "art": "A child's finger touching one petal of a hibiscus that has a small pen dot, with the other petals still to count.",
+     "caption": "2. Mark one petal. Count round to the mark."
+    },
+    {
+     "art": "A marigold with a few of its tiny flowers pulled out and laid in a row, each with a small tube at the base.",
+     "caption": "3. Pull one 'petal' out of the marigold. Look at the bottom of it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay the flowers on a plate. 2. Your child picks one and guesses the number of petals. 3. Put a pen dot on one petal. 4. Your child counts round to the dot.",
+     "say": "How many petals do you think this flower has? Now count. Start at the dot and stop at the dot.",
+     "kid": "Guess the petals. Then count them. Start at the dot. Stop at the dot.",
+     "chart": {
+      "type": "table",
+      "title": "Our petal table",
+      "cols": [
+       "Flower",
+       "My guess",
+       "Petals"
+      ],
+      "rows": [
+       [
+        "1",
+        "",
+        ""
+       ],
+       [
+        "2",
+        "",
+        ""
+       ],
+       [
+        "3",
+        "",
+        ""
+       ]
+      ]
+     },
+     "parent": "A single red hibiscus has 5 petals. One small ixora flower has 4. A periwinkle has 5. Jasmine changes with the kind. A 'double' hibiscus has many petals and no fixed number.",
+     "context": "This is the first step of the Petal Count. You guess and then count the petals of one flower."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Your child counts the other flowers the same way. 2. For each one, they draw one dot for each petal on paper. 3. Write the number next to the dots.",
+     "say": "Count the next flower. Draw one dot for each petal. Which flower has the most petals?",
+     "kid": "Count each flower. Draw one dot for each petal. Write the number.",
+     "ask": [
+      {
+       "q": "Which flower has more petals? How many more?",
+       "good": [
+        "The hibiscus has 5 and the ixora has 4. One more.",
+        "They are the same."
+       ]
+      }
+     ],
+     "context": "This is step 2 of the Petal Count. You count the petals of each flower and draw a dot for each petal."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Take two flowers of the same kind. 2. Ask whether they will have the same number, and why. 3. Your child counts both.",
+     "say": "These two are the same kind of flower. Will they have the same number of petals? Why do you think so?",
+     "kid": "Take two flowers of the same kind. Guess first. Do they have the same number?",
+     "parent": "Hibiscus, ixora and periwinkle nearly always keep to their number. If a petal is missing, look for the gap where it fell off.",
+     "check": {
+      "t": "mcq",
+      "q": "One hibiscus on a bush has 5 petals. How many petals will the next hibiscus on that bush most likely have?",
+      "options": [
+       "5",
+       "10",
+       "Any number"
+      ],
+      "a": 0,
+      "why": "5. A hibiscus plant keeps to one number, flower after flower. Picking 'any number' means thinking each flower is made afresh with no pattern."
+     },
+     "context": "This is step 3 of the Petal Count. You check whether two flowers of the same kind have the same number of petals."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Give your child the marigold. 2. Ask how many petals there might be. 3. Your child pulls out one 'petal' and looks at the bottom of it. 4. Pull out ten more and lay them in a row.",
+     "say": "How many petals does a marigold have? Pull one out. Look at the bottom end. What do you see?",
+     "kid": "Pull one petal out of the marigold. Look at the bottom of it. What is there?",
+     "ask": [
+      {
+       "q": "Each 'petal' has a tiny tube at the bottom. What could each one be?",
+       "good": [
+        "A very small flower.",
+        "A baby flower.",
+        "A flower inside a flower."
+       ]
+      }
+     ],
+     "parent": "Each piece is a whole tiny flower. A marigold is a bunch of many tiny flowers on one stalk. So 'how many petals?' has no simple answer here. First you must choose what to count.",
+     "context": "This is the last step of the Petal Count. You pull one 'petal' out of a marigold and find out what it really is."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Maths in life: a kolam with two matching halves",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity two people draw a kolam together, one on each side of a fold line. Whatever one person draws on the left, the other draws on the right, the same distance from the line. This is how many kolams and rangolis are made to look balanced.",
+   "problem": "How do you draw the second half of a pattern so that it matches the first half?",
+   "materials": [
+    {
+     "item": "chalk or rice flour on the floor, or a pencil and paper",
+     "qty": 1
+    },
+    {
+     "item": "a piece of string or a ruler, for the fold line",
+     "qty": 1
+    },
+    {
+     "item": "a small mirror, if you have one",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make a grid of dots with a fold line, draw one half, copy it on the other side, and check."
+    }
+   ],
+   "record": "Copy your kolam on paper. Draw the fold line as a dotted line.",
+   "setup": [
+    {
+     "art": "A grid of dots on a floor, four rows of six dots, with a string laid down the middle so that three columns are on each side.",
+     "caption": "1. Make 4 rows of 6 dots. Lay a string down the middle."
+    },
+    {
+     "art": "A child drawing a curved chalk line joining dots on the left of the string, and a grown-up drawing the matching line on the right.",
+     "caption": "2. One draws on the left. The other draws the same on the right."
+    },
+    {
+     "art": "A small mirror standing on the string, showing the left half of the kolam reflected.",
+     "caption": "3. Stand a mirror on the line to check."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Make 4 rows of dots with 6 dots in each row. 2. Lay the string down the middle, with 3 dots on each side in every row. 3. Tell your child that the string is the fold line.",
+     "say": "This string is our fold line. How many dots are on your side in each row? How many on mine?",
+     "kid": "Make 4 rows of 6 dots. Put the string down the middle. Count each side.",
+     "chart": {
+      "type": "row",
+      "title": "The dots, with the fold line down the middle",
+      "rows": [
+       {
+        "label": "row 1",
+        "cells": [
+         "circle:ink",
+         "circle:ink",
+         "circle:ink",
+         "rectangle:red",
+         "circle:ink",
+         "circle:ink",
+         "circle:ink"
+        ]
+       },
+       {
+        "label": "row 2",
+        "cells": [
+         "circle:ink",
+         "circle:ink",
+         "circle:ink",
+         "rectangle:red",
+         "circle:ink",
+         "circle:ink",
+         "circle:ink"
+        ]
+       }
+      ]
+     },
+     "parent": "The red bar in the picture stands for the string. On paper, fold the sheet in half and open it. The crease is the fold line.",
+     "context": "This is the first step of the matching-halves kolam. You make a grid of dots with a fold line down the middle."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Your child draws one line joining two or three dots on the left side. 2. You draw the matching line on the right side. 3. Say aloud how far each dot is from the string. 4. Take turns until the left side is full.",
+     "say": "You joined the dot next to the string to the dot two away. So I do the same on my side.",
+     "kid": "Draw a line on your side. Your partner draws the same on the other side.",
+     "ask": [
+      {
+       "q": "My dot is one step from the string on the left. Where is the partner dot?",
+       "good": [
+        "One step from the string on the right.",
+        "The same row, the same number of steps."
+       ]
+      }
+     ],
+     "parent": "The rule is: same row, same number of steps from the string, on the other side. Lines near the string on one side are near the string on the other side.",
+     "context": "This is step 2 of the matching-halves kolam. One person draws on the left of the fold line and the other copies on the right."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Swap sides. 2. Now you draw on the left and your child copies on the right. 3. Check by standing a mirror on the string, or by folding the paper.",
+     "say": "Now you copy me. Count the steps from the string each time. Then we check with the mirror.",
+     "kid": "Swap sides. Now you do the copying. Count steps from the string.",
+     "check": {
+      "t": "mcq",
+      "q": "A dot is 2 steps to the left of the fold line. Where is the matching dot?",
+      "options": [
+       "2 steps to the right of the line",
+       "2 steps to the left of the line",
+       "On the line"
+      ],
+      "a": 0,
+      "why": "2 steps to the right of the line, in the same row. A matching half is the same distance from the fold line on the other side.",
+      "chart": {
+       "type": "row",
+       "rows": [
+        {
+         "label": "one row",
+         "cells": [
+          "circle:red",
+          "circle:ink",
+          "rectangle:red",
+          "circle:ink",
+          "?"
+         ]
+        }
+       ]
+      }
+     },
+     "context": "This is step 3 of the matching-halves kolam. You swap sides, and then check the two halves with a mirror or a fold."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Step back and look at the whole kolam. 2. Ask where else at home there are two matching halves. 3. Walk round and find three.",
+     "say": "Look at the whole kolam. Where else at home can you see two matching halves?",
+     "kid": "Look at your kolam. Now find three things at home with matching halves.",
+     "ask": [
+      {
+       "q": "What did you find?",
+       "good": [
+        "The front door.",
+        "A shirt.",
+        "My face in the mirror.",
+        "A chair.",
+        "Amma's mehndi design."
+       ]
+      }
+     ],
+     "context": "This is the last step of the matching-halves kolam. You look for other things at home that have two matching halves."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Maths in life: lady's finger flower prints",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you use the cut end of a lady's finger as a stamp. Each print shows the ring of seed rooms as a small flower. You make a card or a border with the prints. Printing with cut vegetables is an old craft, and block printers on cloth work in the same way.",
+   "problem": "A stamp makes the same shape again and again. What number is hiding in each print?",
+   "materials": [
+    {
+     "item": "the stalk ends of 2 lady's fingers, left over from cooking",
+     "qty": 2
+    },
+    {
+     "item": "poster colour or thick paint on a plate, or an ink pad",
+     "qty": 1
+    },
+    {
+     "item": "plain paper or an old card",
+     "qty": 2
+    }
+   ],
+   "safety": "A grown-up cuts the lady's fingers. Wash hands after printing.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Print flowers with a lady's finger stamp, count the rooms in a print, and make a matching-halves print."
+    }
+   ],
+   "record": "Keep your printed card. Write on the back how many seed rooms one print shows.",
+   "setup": [
+    {
+     "art": "The stalk end of a lady's finger, cut flat, being pressed into a thin layer of red paint on a steel plate.",
+     "caption": "1. Dip the cut end in a little paint."
+    },
+    {
+     "art": "A child pressing the lady's finger stamp on paper, with a row of five-pointed flower prints already made.",
+     "caption": "2. Press on the paper. Lift straight up."
+    },
+    {
+     "art": "A sheet of paper folded in half and opened, with wet prints on the left and their faint mirror prints on the right.",
+     "caption": "3. Print on one half. Fold and press. Open."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut the lady's finger straight across, about two finger-widths from the stalk. 2. Dab the cut end dry on a cloth. 3. Your child dips it in a little paint and presses it on paper.",
+     "say": "This is a stamp that a plant made. Press down, then lift straight up. What do you see?",
+     "kid": "Dip the cut end in paint. Press on the paper. Lift straight up.",
+     "adult": true,
+     "chart": {
+      "type": "row",
+      "title": "A stamp makes the same shape again and again",
+      "rows": [
+       {
+        "label": "prints",
+        "cells": [
+         "circle:red",
+         "circle:red",
+         "circle:red",
+         "?"
+        ]
+       }
+      ]
+     },
+     "parent": "Too much paint fills the rooms and gives a blob. Dab the stamp on scrap paper first. A dry cut end prints best.",
+     "context": "This is the first step of the lady's finger prints. You make your first print with the cut end of a lady's finger."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Your child counts the rooms in one clear print. 2. They make four more prints in a row. 3. Ask how many rooms there are in two prints together.",
+     "say": "Count the rooms in one print. Now look at two prints. How many rooms in both together?",
+     "kid": "Count the rooms in one print. Make four more prints in a row.",
+     "ask": [
+      {
+       "q": "Each print has 5 rooms. How many rooms in 2 prints?",
+       "good": [
+        "10.",
+        "5 and 5 make 10."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "One print shows 5 seed rooms. How many rooms do 2 prints show?",
+      "options": [
+       "5",
+       "7",
+       "10"
+      ],
+      "a": 2,
+      "why": "10. Each print has 5 rooms, and 5 and 5 make 10. Picking 7 means adding the 2 prints to the 5 rooms.",
+      "chart": {
+       "type": "sum",
+       "rows": [
+        "5",
+        "+ 5"
+       ],
+       "answer": "?"
+      }
+     },
+     "context": "This is step 2 of the lady's finger prints. You count the seed rooms in a print and make a row of prints."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Your child makes a border along the edge of a card. 2. They choose a pattern, such as red, yellow, red, yellow, using two stamps. 3. They say the pattern aloud as they print.",
+     "say": "Make a border for your card. Choose two colours and let them take turns.",
+     "kid": "Print a border on your card. Let two colours take turns.",
+     "context": "This is step 3 of the lady's finger prints. You print a border in a repeating pattern of two colours."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Fold a fresh sheet in half and open it. 2. Your child makes three wet prints on the left half only. 3. Fold the paper shut and press. 4. Open it and look.",
+     "say": "Print only on the left side. Now fold and press. What do you think will be on the right side? Why?",
+     "kid": "Print on the left half only. Fold and press. Open. What is on the right?",
+     "ask": [
+      {
+       "q": "Where did each new print land?",
+       "good": [
+        "The same distance from the fold, on the other side.",
+        "Opposite the first one."
+       ]
+      }
+     ],
+     "context": "This is the last step of the lady's finger prints. You make a print with two matching halves by folding wet paint."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Everyone does maths: the snail's spiral",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you build a spiral of beans the way a snail builds a shell: start in the middle and keep adding at the outer end. Then you count the turns on a real spiral. A snail makes their own shell, a little at a time, and never goes back to change the old part.",
+   "problem": "How does a spiral grow? Does each turn need the same number of beans?",
+   "materials": [
+    {
+     "item": "dried beans such as rajma or chana, or buttons",
+     "qty": "about 40"
+    },
+    {
+     "item": "a plate or a sheet of paper",
+     "qty": 1
+    },
+    {
+     "item": "a real spiral to look at: a sea shell, a conch, a snail shell from a garden, or an unlit mosquito coil",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep beans away from babies and toddlers, who could choke on them. Wash hands after touching a mosquito coil or a garden snail's shell.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Build a bean spiral turn by turn, count the beans in each turn, and count the turns on a real spiral."
+    }
+   ],
+   "record": "Draw your bean spiral. Write how many beans each turn needed.",
+   "setup": [
+    {
+     "art": "One bean in the middle of a plate with six more beans being placed in a ring round it.",
+     "caption": "1. Put one bean in the middle. Lay beans round it."
+    },
+    {
+     "art": "A bean spiral with two full turns on a plate and a child's hand adding beans at the outer end.",
+     "caption": "2. Keep adding at the outer end. Count each turn."
+    },
+    {
+     "art": "A child's finger on the tip of a sea shell, tracing the spiral line toward the opening.",
+     "caption": "3. On a real shell, start at the tip and count the turns."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Put one bean in the middle of the plate. 2. Your child lays beans round it, each touching the last, until the ring closes. 3. Count the beans in this first turn. 4. Ask for a guess for the second turn, with a reason.",
+     "say": "That was the first turn. How many beans will the second turn need? The same, fewer or more? Why?",
+     "kid": "Lay beans round the middle bean. Count them. Guess the next turn: more or fewer?",
+     "chart": {
+      "type": "table",
+      "title": "Beans in each turn",
+      "cols": [
+       "Turn",
+       "My guess",
+       "Beans"
+      ],
+      "rows": [
+       [
+        "1",
+        "",
+        ""
+       ],
+       [
+        "2",
+        "",
+        ""
+       ],
+       [
+        "3",
+        "",
+        ""
+       ]
+      ]
+     },
+     "parent": "With round counters the first turn takes about 6. With long beans the number changes. The dashed dots show one family's second turn. Yours may differ.",
+     "context": "This is the first step of the Snail's Spiral. You lay the first turn of a spiral of beans and guess the second."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Your child carries on round, adding beans at the outer end only. 2. Count the beans in the second turn, and then the third. 3. Write the three numbers.",
+     "say": "Keep going round. Add only at the outer end, as a snail does. Count each turn.",
+     "kid": "Go round again. Add beans only at the outer end. Count each turn.",
+     "ask": [
+      {
+       "q": "What happened to the number of beans from turn to turn?",
+       "good": [
+        "More each time.",
+        "The outside turns are longer.",
+        "It got bigger and bigger."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "In a bean spiral, which turn needs the most beans?",
+      "options": [
+       "The first turn, in the middle",
+       "The last turn, on the outside",
+       "All turns need the same"
+      ],
+      "a": 1,
+      "why": "The last turn, on the outside. Each turn goes round a bigger ring than the one before, so it is longer and needs more beans."
+     },
+     "context": "This is step 2 of the Snail's Spiral. You add two more turns to the bean spiral and count the beans in each."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Give your child the real spiral. 2. They find the tiny tip, or the middle of the coil. 3. They trace the line outward with a finger and count each time they go once round.",
+     "say": "Find where this spiral starts. Follow it out with your finger. How many times do you go round?",
+     "kid": "Find the tiny start of the spiral. Follow it out. Count the turns.",
+     "parent": "On a snail or sea shell, the tip is the oldest part, made when the animal was a baby. The animal added new shell at the open edge as they grew.",
+     "context": "This is step 3 of the Snail's Spiral. You count the turns on a real shell or coil."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "1. Ask which part of the shell is the oldest and which is the newest. 2. Ask where else your child has seen a spiral.",
+     "say": "Which part of the shell did the snail make first? Which part is the newest?",
+     "kid": "Which part of the shell is the oldest? Where else have you seen a spiral?",
+     "ask": [
+      {
+       "q": "Where else have you seen a spiral?",
+       "good": [
+        "A murukku.",
+        "A jalebi.",
+        "A mosquito coil.",
+        "Water going down the drain.",
+        "A rolled-up fern or a creeper's curl."
+       ]
+      }
+     ],
+     "context": "This is the last step of the Snail's Spiral. You work out which part of a shell is oldest and look for other spirals."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Six, Eight, Ten: the legs game",
+   "mins": 10,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a dice game played with paper and a pencil. Each player draws an ant, a spider and a crab with no legs, and rolls a dice to give them legs. It builds quick counting up to 6, 8 and 10, and finding how many more are needed.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A legs sheet for each player: three bodies with no legs",
+     "items": [
+      "Ant: needs 6 legs, 3 on each side",
+      "Spider: needs 8 legs, 4 on each side",
+      "Crab: needs 10 legs, 5 on each side"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player draws three bodies on paper: an ant, a spider and a crab. Write 6 under the ant, 8 under the spider and 10 under the crab.",
+    "On your turn, roll the dice. Choose one of your animals and draw that many legs on them.",
+    "An animal cannot have more legs than their number. If your roll is bigger than the animal needs, draw only the legs they need. The rest are lost.",
+    "After you draw, say how many legs that animal has now and how many more they need.",
+    "When an animal is full, check both sides. The legs must be the same on the left and on the right.",
+    "The first player to finish all three animals wins.",
+    "Playing alone: count how many rolls you need to finish all three. Play again and try to need fewer."
+   ],
+   "setup": [
+    {
+     "art": "A sheet of paper with three simple bodies drawn in pencil, an ant, a spider and a crab, with 6, 8 and 10 written under them, and a dice beside the sheet.",
+     "caption": "1. Draw an ant, a spider and a crab with no legs."
+    },
+    {
+     "art": "A dice showing 4 and a child drawing the fourth leg on the spider, two on each side.",
+     "caption": "2. Roll. Draw that many legs on one animal."
+    },
+    {
+     "art": "A finished ant with three legs on each side and a tick mark, next to a spider with five legs and the words '3 more'.",
+     "caption": "3. Say how many more each animal needs."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Give each player paper and a pencil. 2. Everyone draws an ant, a spider and a crab with no legs. 3. Write 6, 8 and 10 under them. 4. Read the rules aloud.",
+     "say": "An ant needs 6 legs, a spider 8 and a crab 10. The dice will tell us how many legs to draw.",
+     "kid": "Draw an ant, a spider and a crab. Write 6, 8 and 10 under them.",
+     "chart": {
+      "type": "dots",
+      "title": "Legs each animal needs",
+      "rows": [
+       {
+        "label": "ant",
+        "n": 6
+       },
+       {
+        "label": "spider",
+        "n": 8
+       },
+       {
+        "label": "crab",
+        "n": 10
+       }
+      ]
+     },
+     "context": "This is the first step of Six, Eight, Ten, a dice game where you draw legs on an ant, a spider and a crab."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Play one practice turn each. 2. Roll, choose an animal and draw the legs. 3. Say how many legs the animal has and how many more they need.",
+     "say": "I rolled 5. I give them to my spider. She has 5 legs now. She needs 3 more.",
+     "kid": "Roll the dice. Draw the legs on one animal. Say how many more they need.",
+     "check": {
+      "t": "mcq",
+      "q": "Your spider has 5 legs. A spider needs 8. How many more legs do you draw?",
+      "options": [
+       "2",
+       "3",
+       "13"
+      ],
+      "a": 1,
+      "why": "3 more. Count on from 5: 6, 7, 8. That is three. Picking 13 means adding 5 and 8.",
+      "chart": {
+       "type": "dots",
+       "rows": [
+        {
+         "label": "spider's legs",
+         "n": 5,
+         "more": 3
+        }
+       ]
+      }
+     },
+     "parent": "Let your child choose where the legs go. Choosing well is part of the game. A roll of 6 finishes the ant in one go.",
+     "context": "This is step 2 of Six, Eight, Ten, a dice game where you draw legs on an ant, a spider and a crab. Here you practise one turn."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play the game. 2. Each turn, the player says the number of legs so far and how many more. 3. When an animal is full, count the left legs and the right legs.",
+     "say": "Your crab has 7 legs. How many more to make 10? When she is full, check both sides.",
+     "kid": "Play the game. Each turn, say how many legs and how many more.",
+     "ask": [
+      {
+       "q": "Your ant is full. How many legs are on each side?",
+       "good": [
+        "3 and 3.",
+        "Three on the left and three on the right."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Six, Eight, Ten, a dice game where you draw legs on an ant, a spider and a crab. Here you play the game."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. When someone finishes all three animals, the game ends. 2. Ask how many legs the three animals have together.",
+     "say": "All three are done. How many legs did you draw in all? Count them.",
+     "kid": "The first to finish all three wins. Count all the legs you drew.",
+     "parent": "6 and 8 and 10 make 24. Your child can count the legs one by one.",
+     "context": "This is the last step of Six, Eight, Ten, a dice game where you draw legs on an ant, a spider and a crab. Here you finish and count all the legs."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Find My Tiger",
+   "mins": 10,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a memory game with 12 tiger cards that you make. Each card is a strip of 5 boxes, coloured black for a stripe or left yellow for fur. Every stripe pattern is on two cards. You win a pair by finding the two cards with exactly the same stripes, the way scientists match two photos of one tiger.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 tiger cards to make: a strip of 5 boxes on each, with an eye dot at the left end",
+     "items": [
+      "Tiger A: black, yellow, black, yellow, black",
+      "Tiger A: black, yellow, black, yellow, black",
+      "Tiger B: black, black, yellow, yellow, black",
+      "Tiger B: black, black, yellow, yellow, black",
+      "Tiger C: yellow, black, black, yellow, black",
+      "Tiger C: yellow, black, black, yellow, black",
+      "Tiger D: black, yellow, yellow, black, black",
+      "Tiger D: black, yellow, yellow, black, black",
+      "Tiger E: yellow, yellow, black, black, yellow",
+      "Tiger E: yellow, yellow, black, black, yellow",
+      "Tiger F: yellow, black, yellow, black, black",
+      "Tiger F: yellow, black, yellow, black, black"
+     ]
+    }
+   ],
+   "rules": [
+    "Make 12 cards. On each card draw a strip of 5 boxes. Colour the boxes black or yellow as the list says. Do not write the letter on the card.",
+    "Draw a small dot for the eye at the left end of every card. Always read a card with the eye on the left.",
+    "Mix the cards and lay them face down in 3 rows of 4.",
+    "On your turn, turn over two cards. Read each one aloud from the eye: black, yellow, black, and so on.",
+    "If the two cards have exactly the same stripes in the same order, keep them and take another turn. If not, turn them back.",
+    "When all the cards are taken, the player with the most pairs wins.",
+    "Playing alone: count how many turns you need to find all 6 pairs. Play again and try to need fewer."
+   ],
+   "setup": [
+    {
+     "art": "Twelve paper slips, each with a strip of five boxes coloured black or yellow and a small eye dot at the left end, being coloured by a child with a sketch pen.",
+     "caption": "1. Make 12 tiger cards. Each pattern is on two cards."
+    },
+    {
+     "art": "Twelve cards face down in three rows of four on a floor, with two turned over showing different stripe patterns.",
+     "caption": "2. Turn over two cards. Read the stripes from the eye."
+    },
+    {
+     "art": "Two cards side by side with exactly the same stripes, and a child's finger pointing at each box in turn.",
+     "caption": "3. Same stripes in the same order? Keep the pair."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Cut 12 slips of paper. 2. Draw a strip of 5 boxes on each. 3. Colour the boxes from the list, two cards for each tiger. 4. Add the eye dot at the left end.",
+     "say": "Each tiger has their own stripes. We make two photos of each tiger. Then we mix them up.",
+     "kid": "Make 12 tiger cards. Colour 5 boxes on each. Put an eye dot on the left.",
+     "chart": {
+      "type": "row",
+      "title": "Two of the six tigers",
+      "rows": [
+       {
+        "label": "tiger A",
+        "cells": [
+         "square:ink",
+         "square:yellow",
+         "square:ink",
+         "square:yellow",
+         "square:ink"
+        ]
+       },
+       {
+        "label": "tiger B",
+        "cells": [
+         "square:ink",
+         "square:ink",
+         "square:yellow",
+         "square:yellow",
+         "square:ink"
+        ]
+       }
+      ]
+     },
+     "parent": "Tiger B read backwards is tiger D. That is why the eye dot matters. A grown-up can make the cards ahead of time for a young child.",
+     "context": "This is the first step of Find My Tiger, a memory game where you match cards with the same stripes. Here you make the cards."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Mix the cards and lay them face down. 2. Turn over two and read them aloud together. 3. Show how to check box by box.",
+     "say": "This one says black, black, yellow, yellow, black. Does the other card say the same? Check each box.",
+     "kid": "Turn over two cards. Read the stripes from the eye. Are they the same?",
+     "check": {
+      "t": "mcq",
+      "q": "Which card shows the same tiger as the top card?",
+      "options": [
+       "Card 1",
+       "Card 2",
+       "Neither"
+      ],
+      "a": 1,
+      "why": "Card 2. Check box by box from the left: black, yellow, black, black, yellow. Card 1 has the same number of black boxes, but in a different order.",
+      "chart": {
+       "type": "row",
+       "rows": [
+        {
+         "label": "top card",
+         "cells": [
+          "square:ink",
+          "square:yellow",
+          "square:ink",
+          "square:ink",
+          "square:yellow"
+         ]
+        },
+        {
+         "label": "card 1",
+         "cells": [
+          "square:ink",
+          "square:ink",
+          "square:yellow",
+          "square:ink",
+          "square:yellow"
+         ]
+        },
+        {
+         "label": "card 2",
+         "cells": [
+          "square:ink",
+          "square:yellow",
+          "square:ink",
+          "square:ink",
+          "square:yellow"
+         ]
+        }
+       ]
+      }
+     },
+     "context": "This is step 2 of Find My Tiger, a memory game where you match cards with the same stripes. Here you practise checking two cards."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Play the game. 2. Each player reads both cards aloud before deciding. 3. If a player keeps a wrong pair, anyone may say 'check'.",
+     "say": "Read both cards aloud before you say they match. Same stripes in the same order?",
+     "kid": "Play the game. Read both cards aloud. Keep a pair only if they match.",
+     "context": "This is step 3 of Find My Tiger, a memory game where you match cards with the same stripes. Here you play the game."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Count each player's pairs. 2. Ask how many tigers there were, and how many cards.",
+     "say": "We had 12 cards. How many tigers were there really? How do you know?",
+     "kid": "Count your pairs. There were 12 cards. How many tigers were there?",
+     "ask": [
+      {
+       "q": "12 cards, but how many tigers?",
+       "good": [
+        "6, because each tiger has two cards.",
+        "6 pairs."
+       ]
+      }
+     ],
+     "context": "This is the last step of Find My Tiger, a memory game where you match cards with the same stripes. Here you count the pairs and the tigers."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "My Living Patterns Book: five days, five patterns",
+   "mins": 30,
+   "days": 5,
+   "context": "In this five-day project you find one pattern on a real plant or animal each day. You look closely, count, and draw what you counted in a small book. On the last day you show the book to someone and they guess each living thing from the numbers.",
+   "problem": "Patterns on living things are easy to miss. Looking for one a day teaches your eyes to find them.",
+   "materials": [
+    {
+     "item": "5 sheets of paper folded and stapled into a small book, or a notebook",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and crayons",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, if you have one",
+     "qty": 1
+    }
+   ],
+   "safety": "Look at insects and spiders without touching them. Wash hands after touching plants, soil or shells.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 6,
+     "what": "A leaf: draw it, mark the fold line, count the side veins on each half."
+    },
+    {
+     "day": 2,
+     "mins": 6,
+     "what": "A flower: count the petals and draw them in a ring."
+    },
+    {
+     "day": 3,
+     "mins": 6,
+     "what": "A small animal: an ant, a fly, a spider or a mosquito. Count the legs and draw them."
+    },
+    {
+     "day": 4,
+     "mins": 6,
+     "what": "The inside of a fruit or vegetable from the kitchen: count the seed rooms or pieces and draw the slice."
+    },
+    {
+     "day": 5,
+     "mins": 6,
+     "what": "Stripes, spots or a spiral: a cat, a dog, a lizard, a fish at the market, a shell, or your own fingertip. Then show your book."
+    }
+   ],
+   "record": "One page each day: a drawing, the number you counted, and what you counted, such as '5 petals'.",
+   "setup": [
+    {
+     "art": "A small hand-made book of folded paper with 'My Living Patterns' written on the cover in a child's writing.",
+     "caption": "1. Make a small book of 5 pages."
+    },
+    {
+     "art": "A child crouching by a balcony pot, looking at a leaf through a magnifying glass, with the book open on the floor.",
+     "caption": "2. Each day, find one living thing. Look closely and count."
+    },
+    {
+     "art": "An open page showing a child's drawing of a hibiscus with five petals and '5 petals' written under it.",
+     "caption": "3. Draw what you counted. Write the number."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Make the book together. 2. Your child picks one leaf from a pot plant or the vegetable basket. 3. They draw the leaf and a dotted fold line. 4. They count the side veins on each half and write both numbers.",
+     "say": "Today's page is a leaf. Draw the leaf. Where is the fold line? How many side lines on each half?",
+     "kid": "Pick a leaf. Draw it. Draw the fold line. Count the side lines on each half.",
+     "chart": {
+      "type": "table",
+      "title": "The five pages",
+      "cols": [
+       "Day",
+       "Look for",
+       "Count"
+      ],
+      "rows": [
+       [
+        "1",
+        "a leaf",
+        "side lines"
+       ],
+       [
+        "2",
+        "a flower",
+        "petals"
+       ],
+       [
+        "3",
+        "a small animal",
+        "legs"
+       ],
+       [
+        "4",
+        "inside a fruit",
+        "seed rooms"
+       ],
+       [
+        "5",
+        "stripes, spots or a spiral",
+        "your choice"
+       ]
+      ]
+     },
+     "context": "This is day 1 of My Living Patterns Book, a five-day project. Each day you find, count and draw one pattern on a living thing. Today's page is a leaf."
+    },
+    {
+     "id": "s2",
+     "mins": 18,
+     "do": "1. On days 2, 3 and 4, do one page a day. 2. Day 2 is a flower and the petals. 3. Day 3 is a small animal and the legs. 4. Day 4 is the inside of a fruit or vegetable. 5. Each day your child looks, counts, draws and writes the number.",
+     "say": "What living thing will you look at today? Look closely first. What can you count?",
+     "kid": "Each day, find one living thing. Look closely. Count. Draw. Write the number.",
+     "ask": [
+      {
+       "q": "How did you make sure you did not count a part twice?",
+       "good": [
+        "I marked where I started.",
+        "I counted one side and then the other.",
+        "I touched each one."
+       ]
+      }
+     ],
+     "parent": "An ant will not stand still. Take a photo with a phone and count the legs in the photo. A dead fly or mosquito on a windowsill is also easy to count. In a flat with no plants, use coriander, spinach or curry leaves from the kitchen.",
+     "wait": "Do this on each of the next three days.",
+     "context": "These are days 2 to 4 of My Living Patterns Book, a five-day project. Each day you find, count and draw one pattern on a living thing."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. On day 5, your child finds stripes, spots or a spiral and draws the last page. 2. Then they cover the drawings and read out only the numbers. 3. Someone at home guesses each living thing.",
+     "say": "Read me only your numbers and what you counted. I will guess the living thing.",
+     "kid": "Draw your last page. Then read out your numbers. Let someone guess each one.",
+     "ask": [
+      {
+       "q": "I counted 8 legs. Who could I be?",
+       "good": [
+        "A spider.",
+        "Not an insect."
+       ]
+      }
+     ],
+     "parent": "Your own fingertip has a pattern of fine lines, often in loops or a spiral. Press it on an ink pad and print it on the page.",
+     "context": "This is day 5 of My Living Patterns Book, a five-day project. Today you draw stripes, spots or a spiral, and someone guesses your living things from the numbers."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Stretch: draw half, get a whole animal",
+   "mins": 20,
+   "context": "This is a design challenge that goes past Class 1. You fold a paper, draw only half of an animal at the fold, and cut. When you open the paper, the whole animal must have the right number of legs.",
+   "problem": "Cut out a paper ant with exactly 6 legs and a paper spider with exactly 8 legs. You may draw on only one half of a folded paper.",
+   "constraints": [
+    "You draw on one side of the fold only.",
+    "You cut once, with the paper still folded.",
+    "When you open the paper, the ant must have 6 legs and the spider must have 8."
+   ],
+   "materials": [
+    "4 sheets of plain paper, or old newspaper",
+    "a pencil",
+    "child-safe scissors",
+    "a crayon, for spots"
+   ],
+   "general": [
+    "Draw half the body against the fold, like half an egg.",
+    "Draw the legs sticking out, away from the fold.",
+    "Cut slowly round every leg, and never cut along the fold."
+   ],
+   "creative": [
+    "Work out the number first: half of 6 is 3, so draw 3 legs. Half of 8 is 4.",
+    "Fold the paper twice and cut a flower. One petal drawn gives 4 petals.",
+    "Add spots to one wing of a paper butterfly with wet paint, then fold and press to copy them."
+   ],
+   "your_turn": "Now invent your own animal with matching halves. Decide how many legs they will have when open. Then work out how many legs to draw on the half.",
+   "setup": [
+    {
+     "art": "A sheet of paper folded in half with half an ant body and three legs drawn in pencil against the fold.",
+     "caption": "1. Fold the paper. Draw half an ant at the fold."
+    },
+    {
+     "art": "Child-safe scissors cutting round the three legs through both layers of the folded paper.",
+     "caption": "2. Cut round the drawing. Do not cut the fold."
+    },
+    {
+     "art": "The opened paper ant with six legs, three on each side of the crease.",
+     "caption": "3. Open. Count the legs."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Fold a sheet in half. 2. Tell your child the problem. 3. Ask how many legs they will draw on the half, and why. 4. Let them draw and cut, even if the number is wrong.",
+     "say": "You want an ant with 6 legs when the paper is open. How many legs will you draw on this half? Why?",
+     "kid": "Fold the paper. You want 6 legs when it opens. How many will you draw?",
+     "chart": {
+      "type": "dots",
+      "title": "An ant when the paper is open",
+      "rows": [
+       {
+        "label": "legs in all",
+        "n": 6
+       }
+      ]
+     },
+     "parent": "Many children draw 6 legs on the half and get 12. Do not stop them. Opening the paper shows the mistake better than words.",
+     "context": "This is the first step of the challenge Draw Half, Get a Whole. You try to cut a paper ant with 6 legs from a folded paper."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Open the paper and count the legs together. 2. Ask what happened. 3. Your child tries again on a new sheet.",
+     "say": "Open it. How many legs? What did the fold do to your drawing?",
+     "kid": "Open the paper. Count the legs. What did the fold do?",
+     "ask": [
+      {
+       "q": "You drew 3 legs. How many are there now? Why?",
+       "good": [
+        "6, because the fold made a copy.",
+        "3 and 3 make 6.",
+        "Each leg got a partner."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "You draw 3 legs on a folded paper and cut. How many legs when you open it?",
+      "options": [
+       "3",
+       "6",
+       "9"
+      ],
+      "a": 1,
+      "why": "6. The cut goes through both layers, so each leg gets a partner on the other side. 3 and 3 make 6.",
+      "chart": {
+       "type": "sum",
+       "rows": [
+        "3",
+        "+ 3"
+       ],
+       "answer": "?"
+      }
+     },
+     "context": "This is step 2 of the challenge Draw Half, Get a Whole. You open the paper ant, count the legs and try again."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Now the spider. 2. Ask how many legs to draw for 8 legs in all. 3. Your child draws, cuts and checks.",
+     "say": "Now a spider with 8 legs. How many will you draw on the half? How do you know?",
+     "kid": "Now make a spider with 8 legs. How many legs will you draw?",
+     "ask": [
+      {
+       "q": "Could you cut an animal with 5 legs this way? Why or why not?",
+       "good": [
+        "No. The fold always gives pairs.",
+        "Only if one leg is on the fold."
+       ]
+      }
+     ],
+     "parent": "A fold always doubles. So the open animal has an even number of legs, unless one leg lies right on the fold line.",
+     "context": "This is step 3 of the challenge Draw Half, Get a Whole. You cut a paper spider with 8 legs from a folded paper."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Fold a new sheet twice, into quarters. 2. Your child draws one petal at the folded corner and cuts. 3. Before opening, ask for a guess. 4. Open and count.",
+     "say": "This paper is folded two times. You cut one petal. How many petals will there be? Why do you think so?",
+     "kid": "Fold the paper two times. Cut one petal at the corner. Guess, then open.",
+     "parent": "Two folds make 4 layers, so one petal becomes 4. The petal must touch the corner where the folds meet, or the pieces fall apart.",
+     "context": "This is the last step of the challenge Draw Half, Get a Whole. You fold a paper twice and find out how many petals one cut makes."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Look and Count (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "fill",
+     "p": "Count the legs. This animal has ____ legs.",
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "Touch each dot once and say one number for each. The last number is 6.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "legs",
+        "n": 6
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "This animal has this many legs. Who could they be?",
+     "opts": [
+      "an ant",
+      "a spider",
+      "a crow"
+     ],
+     "a": 1,
+     "why": "A spider. There are 8 dots, and a spider has 8 legs. An ant has 6 and a crow has 2.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "legs",
+        "n": 8
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "A butterfly is an insect, so a butterfly has 6 legs.",
+     "a": true,
+     "why": "True. Every insect has 6 legs. A butterfly's legs are thin and sit under the body, so they are easy to miss."
+    },
+    {
+     "t": "fill",
+     "p": "An ant has 3 legs on the left and 3 on the right. The ant has ____ legs in all.",
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "3 and 3 make 6.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "3",
+       "+ 3"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "The two halves of this row match. Which shape goes in the last box?",
+     "opts": [
+      "a red circle",
+      "a blue square",
+      "a green triangle"
+     ],
+     "a": 0,
+     "why": "A red circle. The row starts with a red circle, so it must end with one. The right half is the left half turned round.",
+     "chart": {
+      "type": "row",
+      "rows": [
+       {
+        "label": "matching halves",
+        "cells": [
+         "circle:red",
+         "square:blue",
+         "triangle:green",
+         "triangle:green",
+         "square:blue",
+         "?"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Sort the animals: 6 legs or 8 legs?",
+     "items": [
+      [
+       "ant",
+       "6 legs"
+      ],
+      [
+       "spider",
+       "8 legs"
+      ],
+      [
+       "mosquito",
+       "6 legs"
+      ],
+      [
+       "butterfly",
+       "6 legs"
+      ],
+      [
+       "scorpion",
+       "8 legs"
+      ],
+      [
+       "housefly",
+       "6 legs"
+      ]
+     ],
+     "cats": [
+      "6 legs",
+      "8 legs"
+     ],
+     "a": "see items",
+     "why": "Ants, mosquitoes, butterflies and houseflies are insects, with 6 legs. Spiders and scorpions have 8 legs. They are not insects."
+    },
+    {
+     "t": "match",
+     "p": "Match each living thing to their pattern.",
+     "pairs": [
+      [
+       "tiger",
+       "stripes"
+      ],
+      [
+       "snail shell",
+       "a spiral"
+      ],
+      [
+       "butterfly",
+       "two matching wings"
+      ],
+      [
+       "hibiscus",
+       "five petals in a ring"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A tiger has stripes. A snail shell goes round in a spiral. A butterfly's left and right wings match. A hibiscus has 5 petals in a ring."
+    },
+    {
+     "t": "mcq",
+     "p": "You count petals in a ring. What stops you from counting a petal twice?",
+     "opts": [
+      "Counting very fast",
+      "Marking the petal you start on",
+      "Closing one eye"
+     ],
+     "a": 1,
+     "why": "Marking the petal you start on. A ring has no end, so the mark tells you when you have gone all the way round.",
+     "how": "a2"
+    },
+    {
+     "t": "fill",
+     "p": "A hibiscus has 5 petals. One petal falls off. Now there are ____ petals.",
+     "a": [
+      "4",
+      "four"
+     ],
+     "why": "One less than 5 is 4.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "5",
+       "− 1"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "draw",
+     "p": "Draw an ant seen from above. Give the ant 3 legs on each side.",
+     "a": "An ant with 6 legs: 3 on the left and 3 on the right.",
+     "why": "A strong drawing has exactly 6 legs, with the same number on each side. Count them aloud to check."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a butterfly with open wings. Put 2 spots on each side, so that the sides match.",
+     "a": "A butterfly with 4 spots in all. Each spot on the left has a partner on the right, the same distance from the body.",
+     "why": "A strong drawing has matching halves. Fold the paper along the body to check that the spots meet."
+    },
+    {
+     "t": "write",
+     "p": "Say it aloud. In Cut and Count, how did the outside of a lady's finger tell you the inside?",
+     "lines": 2,
+     "a": "I counted the ridges on the outside. The number of seed rooms inside was the same.",
+     "why": "A strong answer links the ridges to the seed rooms. Each ridge sits over one room.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Halves, Stripes and Spirals (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which tiger has the same stripes as tiger X?",
+     "opts": [
+      "tiger 1",
+      "tiger 2",
+      "tiger 3"
+     ],
+     "a": 2,
+     "why": "Tiger 3. Check box by box from the left: black, yellow, black, black, yellow. Tigers 1 and 2 each differ in at least one box.",
+     "chart": {
+      "type": "row",
+      "rows": [
+       {
+        "label": "tiger X",
+        "cells": [
+         "square:ink",
+         "square:yellow",
+         "square:ink",
+         "square:ink",
+         "square:yellow"
+        ]
+       },
+       {
+        "label": "tiger 1",
+        "cells": [
+         "square:ink",
+         "square:yellow",
+         "square:ink",
+         "square:yellow",
+         "square:ink"
+        ]
+       },
+       {
+        "label": "tiger 2",
+        "cells": [
+         "square:yellow",
+         "square:ink",
+         "square:ink",
+         "square:ink",
+         "square:yellow"
+        ]
+       },
+       {
+        "label": "tiger 3",
+        "cells": [
+         "square:ink",
+         "square:yellow",
+         "square:ink",
+         "square:ink",
+         "square:yellow"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "A butterfly has 3 spots on the left wing. The wings match. The butterfly has ____ spots in all.",
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "The right wing has 3 spots too. 3 and 3 make 6.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "3",
+       "+ 3"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "Fold a real leaf on the middle line. The two halves match exactly, every time.",
+     "a": false,
+     "why": "False. The halves nearly match, but a living leaf grows a little differently on each side. Only a paper leaf cut on a fold matches exactly.",
+     "how": "a1"
+    },
+    {
+     "t": "order",
+     "p": "Put these animals in order. Start with the fewest legs.",
+     "items": [
+      "spider",
+      "crow",
+      "ant",
+      "cow"
+     ],
+     "a": [
+      "crow",
+      "cow",
+      "ant",
+      "spider"
+     ],
+     "why": "A crow has 2 legs.\nA cow has 4 legs.\nAn ant has 6 legs.\nA spider has 8 legs.\nThe numbers go up in twos."
+    },
+    {
+     "t": "mcq",
+     "p": "A bean spiral has 6 beans in turn 1 and 12 in turn 2. Which number fits turn 3?",
+     "opts": [
+      "4",
+      "12",
+      "18"
+     ],
+     "a": 2,
+     "why": "18. Each turn goes round a bigger ring, so it needs more beans than the turn before. Only 18 is more than 12.",
+     "how": "a5",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "turn 1",
+        "n": 6
+       },
+       {
+        "label": "turn 2",
+        "n": 12
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Two ants walk on the wall. Together they have ____ legs.",
+     "a": [
+      "12",
+      "twelve"
+     ],
+     "why": "Each ant has 6 legs. 6 and 6 make 12.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "6",
+       "+ 6"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Can you fold it into two matching halves? Sort each one.",
+     "items": [
+      [
+       "a butterfly with open wings",
+       "Yes, nearly"
+      ],
+      [
+       "a snail shell",
+       "No"
+      ],
+      [
+       "a mango leaf",
+       "Yes, nearly"
+      ],
+      [
+       "an ant seen from above",
+       "Yes, nearly"
+      ],
+      [
+       "one hand",
+       "No"
+      ],
+      [
+       "a murukku spiral",
+       "No"
+      ]
+     ],
+     "cats": [
+      "Yes, nearly",
+      "No"
+     ],
+     "a": "see items",
+     "why": "A butterfly, a leaf and an ant each have a left half and a right half that nearly match. A spiral has no fold line. One hand has no matching half. The match for your hand is your other hand."
+    },
+    {
+     "t": "truefalse",
+     "p": "A ladybird gets one more spot every year.",
+     "a": false,
+     "why": "False. A ladybird has all their spots once they are a grown beetle, and the number does not change. The number of spots tells you the kind of ladybird, not the age."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a snail shell with 3 turns. Start with a dot in the middle and go round and outward.",
+     "a": "A spiral that starts at a dot and goes round three times, with each turn outside the one before.",
+     "why": "A strong drawing never crosses its own line, and each turn is wider than the last. Count the turns by following the line from the middle."
+    },
+    {
+     "t": "write",
+     "p": "Two lady's fingers had 5 seed rooms and one had 6. How could you find which number is more common?",
+     "lines": 2,
+     "a": "Cut and count many more lady's fingers, and keep a tally of each number.",
+     "why": "A strong answer says to check more of them and keep count. Three is too few to be sure.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "Is a marigold one flower or many flowers?",
+     "views": [
+      {
+       "who": "One child",
+       "says": "One flower. It grows on one stalk and opens as one."
+      },
+      {
+       "who": "Another child",
+       "says": "Many flowers. Each tiny piece has its own little tube at the bottom."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says what the other child has right.",
+     "why": "Scientists who study plants say a marigold is a flower head made of many tiny flowers. But it is also fair to call it one flower head. The count depends on what you choose to call one.",
+     "how": "a2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a strip of 5 boxes. Colour some black to make your own tiger pattern. Then draw the same pattern again.",
+     "a": "Two strips of 5 boxes with the same boxes coloured black, in the same order.",
+     "why": "A strong drawing matches box for box. Read both strips aloud from the left to check.",
+     "how": "g2"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Pattern Detective (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "One ant and one spider sit on a leaf. Together they have ____ legs.",
+     "a": [
+      "14",
+      "fourteen"
+     ],
+     "why": "The ant has 6 legs and the spider has 8. Count on from 8: 9, 10, 11, 12, 13, 14.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "6",
+       "+ 8"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Some animals of one kind have this many legs in all. Who are they?",
+     "opts": [
+      "2 ants",
+      "2 spiders",
+      "3 crows"
+     ],
+     "a": 0,
+     "why": "2 ants. There are 12 dots, and 6 and 6 make 12. Two spiders have 16 legs. Three crows have 6.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "legs in all",
+        "n": 12
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Three hibiscus flowers have 5 petals each. Together they have ____ petals.",
+     "a": [
+      "15",
+      "fifteen"
+     ],
+     "why": "Count in fives: 5, 10, 15.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "flower 1",
+        "n": 5
+       },
+       {
+        "label": "flower 2",
+        "n": 5
+       },
+       {
+        "label": "flower 3",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "Two tigers can have exactly the same stripes.",
+     "a": false,
+     "why": "False. Each tiger's stripes are their own. That is how scientists tell tigers apart in photos."
+    },
+    {
+     "t": "mcq",
+     "p": "The two halves of this row match. Which shape can go in the middle box?",
+     "opts": [
+      "only a red triangle",
+      "only a blue circle",
+      "any shape at all"
+     ],
+     "a": 2,
+     "why": "Any shape at all. The middle box sits on the fold line. It has no partner to match, so any shape works.",
+     "chart": {
+      "type": "row",
+      "rows": [
+       {
+        "label": "matching halves",
+        "cells": [
+         "circle:blue",
+         "triangle:red",
+         "?",
+         "triangle:red",
+         "circle:blue"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "match",
+     "p": "Match each number to the thing that has that many.",
+     "pairs": [
+      [
+       "2",
+       "legs on a crow"
+      ],
+      [
+       "4",
+       "petals on an ixora flower"
+      ],
+      [
+       "5",
+       "petals on a hibiscus"
+      ],
+      [
+       "6",
+       "legs on an ant"
+      ],
+      [
+       "8",
+       "legs on a spider"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A crow has 2 legs. An ixora flower has 4 petals and a hibiscus has 5. An ant has 6 legs and a spider has 8."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps for counting petals in a ring in order.",
+     "items": [
+      "Stop when you reach the mark again",
+      "Touch each petal and say one number",
+      "Mark one petal",
+      "The last number tells how many"
+     ],
+     "a": [
+      "Mark one petal",
+      "Touch each petal and say one number",
+      "Stop when you reach the mark again",
+      "The last number tells how many"
+     ],
+     "why": "First mark where you start.\nThen give each petal one number.\nStop at the mark, so no petal is counted twice.\nThe last number you said is the answer.",
+     "how": "a2"
+    },
+    {
+     "t": "fill",
+     "p": "A crab has 10 legs, the same number on each side. On one side there are ____ legs.",
+     "a": [
+      "5",
+      "five"
+     ],
+     "why": "5 and 5 make 10. So each side has 5 legs.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "legs in all",
+        "n": 10
+       }
+      ]
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Who made each pattern? Sort them.",
+     "items": [
+      [
+       "a snail shell",
+       "A plant or animal, by growing"
+      ],
+      [
+       "a murukku",
+       "A person"
+      ],
+      [
+       "a tiger's stripes",
+       "A plant or animal, by growing"
+      ],
+      [
+       "a kolam",
+       "A person"
+      ],
+      [
+       "the petals of a hibiscus",
+       "A plant or animal, by growing"
+      ],
+      [
+       "a mosquito coil",
+       "A person"
+      ]
+     ],
+     "cats": [
+      "A plant or animal, by growing",
+      "A person"
+     ],
+     "a": "see items",
+     "why": "The snail, the tiger and the hibiscus made their own patterns as they grew. People made the murukku, the kolam and the mosquito coil. People are animals too, so all six patterns were made by living beings."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A hibiscus has 5 petals, but a child counts 7. What mistake is most likely?",
+     "lines": 2,
+     "a": "The child went round too far and counted two petals twice, because the first petal was not marked.",
+     "why": "A strong answer says that petals in a ring are easy to count twice. Marking the first petal fixes it.",
+     "how": "a2"
+    },
+    {
+     "t": "perspective",
+     "p": "A hibiscus plant makes 5 petals on flower after flower. Is the plant doing maths?",
+     "views": [
+      {
+       "who": "One child",
+       "says": "Yes. Keeping to one number again and again is maths."
+      },
+      {
+       "who": "Another child",
+       "says": "No. Maths is counting and checking. The plant just grows that way."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says what the other child has right.",
+     "why": "People who think hard about this do not agree. The first child is right that the plant keeps to a number without help. The second child is right that nobody has seen a plant count or check. It depends on what we choose to call maths."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a made-up insect. Give them 6 legs, 2 matching wings and matching spots.",
+     "a": "An insect with 3 legs on each side, one wing on each side, and spots on one wing that have partners on the other.",
+     "why": "A strong drawing keeps the rule for insects, which is 6 legs, and has two matching halves. Fold the paper down the body to check."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "fill",
+   "p": "Count the spots on this ladybird. There are ____ spots.",
+   "a": [
+    "7",
+    "seven"
+   ],
+   "why": "Touch each dot once. Five and two more make 7.",
+   "outcome": 0,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "spots",
+      "n": 7
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "You are counting petals round a flower. When do you stop?",
+   "opts": [
+    "When you reach ten",
+    "When you come back to the petal you marked",
+    "When your finger is tired"
+   ],
+   "a": 1,
+   "why": "When you come back to the petal you marked. Then every petal has had one number and none has had two.",
+   "outcome": 0
+  },
+  {
+   "t": "fill",
+   "p": "A lady's finger has 5 ridges outside. The seed rooms inside are most likely ____.",
+   "a": [
+    "5",
+    "five"
+   ],
+   "why": "On a lady's finger, each ridge sits over one seed room. So 5 ridges go with 5 rooms.",
+   "outcome": 0,
+   "how": "e1",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "ridges outside",
+      "n": 5
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Which animal has this many legs?",
+   "opts": [
+    "a spider",
+    "an ant",
+    "a cow"
+   ],
+   "a": 1,
+   "why": "An ant. There are 6 dots, and an ant has 6 legs. A spider has 8 and a cow has 4.",
+   "outcome": 1,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "legs",
+      "n": 6
+     }
+    ]
+   }
+  },
+  {
+   "t": "truefalse",
+   "p": "A spider is an insect.",
+   "a": false,
+   "why": "False. An insect has 6 legs. A spider has 8 legs, so a spider is not an insect.",
+   "outcome": 1
+  },
+  {
+   "t": "fill",
+   "p": "A spider has 4 legs on each side. The spider has ____ legs in all.",
+   "a": [
+    "8",
+    "eight"
+   ],
+   "why": "4 and 4 make 8.",
+   "outcome": 1,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "4",
+     "+ 4"
+    ],
+    "answer": "?"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "The two halves match. Which shape goes in the last box?",
+   "opts": [
+    "a blue square",
+    "a yellow circle",
+    "a red triangle"
+   ],
+   "a": 2,
+   "why": "A red triangle. The row starts with a red triangle, so the matching half must end with one.",
+   "outcome": 2,
+   "chart": {
+    "type": "row",
+    "rows": [
+     {
+      "label": "matching halves",
+      "cells": [
+       "triangle:red",
+       "circle:yellow",
+       "square:blue",
+       "square:blue",
+       "circle:yellow",
+       "?"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Where is the fold line on a butterfly with open wings?",
+   "opts": [
+    "Along the body, between the wings",
+    "Across the middle of both wings",
+    "A butterfly has no fold line"
+   ],
+   "a": 0,
+   "why": "Along the body. Fold there, and the left wings lie on the right wings. Picking 'across both wings' would put the head on the tail.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which photo shows the same tiger as photo X?",
+   "opts": [
+    "photo 1",
+    "photo 2",
+    "photo 3"
+   ],
+   "a": 0,
+   "why": "Photo 1. Check box by box: black, black, yellow, black, yellow. The other two differ in at least one box.",
+   "outcome": 3,
+   "chart": {
+    "type": "row",
+    "rows": [
+     {
+      "label": "photo X",
+      "cells": [
+       "square:ink",
+       "square:ink",
+       "square:yellow",
+       "square:ink",
+       "square:yellow"
+      ]
+     },
+     {
+      "label": "photo 1",
+      "cells": [
+       "square:ink",
+       "square:ink",
+       "square:yellow",
+       "square:ink",
+       "square:yellow"
+      ]
+     },
+     {
+      "label": "photo 2",
+      "cells": [
+       "square:ink",
+       "square:yellow",
+       "square:ink",
+       "square:ink",
+       "square:yellow"
+      ]
+     },
+     {
+      "label": "photo 3",
+      "cells": [
+       "square:yellow",
+       "square:ink",
+       "square:yellow",
+       "square:ink",
+       "square:ink"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "A snail's shell grows. Where is the newest part?",
+   "opts": [
+    "The tiny tip in the middle",
+    "The open edge",
+    "Everywhere at once"
+   ],
+   "a": 1,
+   "why": "The open edge. The snail adds new shell there. The tiny tip is the oldest part, made when the snail was a baby.",
+   "outcome": 3
+  },
+  {
+   "t": "truefalse",
+   "p": "Scientists can tell one tiger from another by the stripes.",
+   "a": true,
+   "why": "True. No two tigers have the same stripes, so matching the stripes in photos tells the tigers apart.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You want to draw the pattern on a real leaf. What do you do first?",
+   "opts": [
+    "Draw a leaf from memory",
+    "Look closely and count the parts",
+    "Copy a cartoon leaf"
+   ],
+   "a": 1,
+   "why": "Look closely and count the parts. A drawing from memory shows what you expect. Looking shows what is really there.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A hibiscus has 5 petals. Who made the word 'five'?",
+   "opts": [
+    "The hibiscus plant",
+    "People",
+    "Nobody. It was always there"
+   ],
+   "a": 1,
+   "why": "People. The plant made the petals by growing. People made the number words and the counting.",
+   "outcome": 5
+  }
+ ],
+ "videos": [
+  {
+   "title": "Intro to Symmetry: All About Symmetry for Kids - FreeSchool",
+   "channel": "Free School",
+   "youtube": "YFzktJNmnPU",
+   "mins": 3,
+   "why": "For the child: a short film on shapes with two matching halves and the fold line. Play it after the Fold Test, and pause to ask where the fold line is.",
+   "check": "Title, channel and length (2 minutes 36 seconds) confirmed by a YouTube lookup. The video was not watched through for this unit. Watch it once before showing it."
+  },
+  {
+   "title": "Inspect An Insect",
+   "channel": "SciShow Kids",
+   "youtube": "3166nK3Gym8",
+   "mins": 4,
+   "why": "For the child: what makes an insect an insect, with the six legs counted. Play it before the game Six, Eight, Ten.",
+   "check": "Title, channel and length (3 minutes 46 seconds) confirmed by a YouTube lookup. The video was not watched through for this unit. Watch it once before showing it."
+  },
+  {
+   "title": "Pufferfish 'crop circles' - Life Story: Episode 5 preview - BBC",
+   "channel": "BBC",
+   "youtube": "hpdlQae5wP8",
+   "mins": 2,
+   "why": "For the child and the parent: a small male pufferfish makes a round pattern of ridges in the sand to bring a female. It goes with the card 'Other living beings notice patterns too'.",
+   "check": "Title, channel and length (1 minute 15 seconds) confirmed by a YouTube lookup. The video was not watched through for this unit. Watch it once before showing it."
+  }
+ ],
+ "applications": [
+  "Forest scientists count tigers by matching the stripes in camera photos, so that no tiger is counted twice.",
+  "A phone can unlock with a fingerprint, because the lines on each person's fingertip are their own.",
+  "A tailor folds the cloth and cuts both layers together, so that the two halves of a blouse match.",
+  "People who draw kolam and rangoli use a fold line to make the two sides balance.",
+  "A farmer looks closely at leaves. Odd spots or a lopsided leaf can be the first sign that a plant is ill.",
+  "Butterfly and bird watchers name what they see by the pattern of spots and stripes.",
+  "A gardener counts legs to tell a spider from an insect. Spiders eat many of the insects that eat the plants.",
+  "An aeroplane has two matching wings, as a bird has. The matching wings keep the aeroplane level in the air."
+ ],
+ "spotted": [
+  {
+   "text": "A line of ants on the kitchen floor. Take a photo with a phone and count the legs of one ant: 3 on each side.",
+   "art": "A line of black ants crossing a tiled kitchen floor toward a grain of sugar."
+  },
+  {
+   "text": "A house spider near the tube light. Count 4 legs on each side.",
+   "art": "A small house spider on a wall beside a tube light."
+  },
+  {
+   "text": "A red hibiscus bush by a gate. Every single flower on the bush has 5 petals.",
+   "art": "A hibiscus bush with several red five-petalled flowers by a house gate."
+  },
+  {
+   "text": "A butterfly resting with open wings on an ixora or lantana bush. The spots on the two sides match.",
+   "art": "An orange and black butterfly with open wings on a bunch of red ixora flowers."
+  },
+  {
+   "text": "A big brown snail on a wall after rain. Find the tiny tip of the shell and follow the spiral out.",
+   "art": "A large brown garden snail on a wet compound wall."
+  },
+  {
+   "text": "Spotted deer, called chital, at Guindy National Park in Chennai or in the Bandipur forest. They keep their white spots all their life.",
+   "art": "A chital deer with white spots standing under trees."
+  },
+  {
+   "text": "A street cat or dog. Their patches of colour are theirs alone. Could you pick them out in a photo?",
+   "art": "A white and brown street dog with distinct patches lying by a tea stall."
+  },
+  {
+   "text": "A murukku at a sweet shop and a mosquito coil at home. Both are spirals made by people.",
+   "art": "A plate of murukku next to a green mosquito coil."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why do so many flowers have 5 petals?",
+   "why_open": "A very large number of plants make flowers with 5 petals. Scientists know some of how a bud sets out its parts. They do not have one agreed answer for why five turns up so often."
+  },
+  {
+   "q": "How exactly does a tiger get stripes?",
+   "why_open": "In 1952 the mathematician Alan Turing suggested that two chemicals spreading through the skin of a baby animal could make stripes and spots. In 2012 scientists found a pattern made this way in the mouths of mice. Nobody has yet shown it fully for a tiger."
+  },
+  {
+   "q": "Why do zebras have stripes?",
+   "why_open": "Scientists have argued about this for more than a hundred years. One idea with good tests behind it is that stripes keep biting flies away. Other scientists think stripes help with heat, or with hiding. The argument is not over."
+  },
+  {
+   "q": "Do bees enjoy looking at matching halves, as many people do?",
+   "why_open": "Trained bees can pick out shapes with matching halves. Nobody knows what that is like for a bee."
+  }
+ ],
+ "ask_kids": [
+  "How many legs does that fly have? How could we count them when the fly will not sit still?",
+  "Look at your face in a steel plate. Do your two halves match exactly? Where do they differ?",
+  "How many pieces are inside this orange? Guess before we peel it.",
+  "Is that a spider or an insect? How can you tell without touching?",
+  "Where does the spiral on this murukku start? How many times does it go round?",
+  "Could you pick out our street's dog from a photo of ten dogs? What would you look for?"
+ ],
+ "jokes": [
+  {
+   "j": "Why are snails so strong?",
+   "a": "They carry their houses on their backs!"
+  },
+  {
+   "j": "What did the spider say to the ant?",
+   "a": "Nice legs. I have two more!"
+  },
+  {
+   "j": "Why did the ant buy three pairs of shoes?",
+   "a": "Because six feet need six shoes!"
+  },
+  {
+   "j": "How does a snail count?",
+   "a": "Very, very slowly!"
+  },
+  {
+   "j": "Why did the leopard lose at hide and seek?",
+   "a": "The leopard was always spotted!"
+  },
+  {
+   "j": "Why did the butterfly fold her wings?",
+   "a": "To check that both halves matched!"
+  },
+  {
+   "j": "What do you call a snail on a ship?",
+   "a": "A snailor!"
+  },
+  {
+   "j": "Why did the spider open a computer?",
+   "a": "To look at the web!"
+  },
+  {
+   "j": "What did the tiger say to the photo of another tiger?",
+   "a": "Nice stripes. But they are not mine!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "An ant has 3 legs on the left side. The two sides match. How many legs does the ant have in all?",
+   "answer": "6 legs.",
+   "explain": "The right side matches the left, so it has 3 legs too. 3 and 3 make 6. So the ant has 6 legs.",
+   "math_unit": "math.addition-subtraction.number-facts.L1",
+   "how": "g1",
+   "context": "In the game Six, Eight, Ten you gave each animal the same number of legs on both sides. This problem uses the same idea.",
+   "why_maths": "When two halves match, you count one half and double it. That is quicker than counting every leg on a moving ant.",
+   "chart": {
+    "type": "dots",
+    "title": "The ant's legs",
+    "rows": [
+     {
+      "label": "left side",
+      "n": 3
+     },
+     {
+      "label": "right side",
+      "n": 0,
+      "more": 3
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "3",
+     "+ 3"
+    ],
+    "answer": "6"
+   }
+  },
+  {
+   "problem": "Two ants and one spider are on the wall. How many legs are on the wall?",
+   "answer": "20 legs.",
+   "explain": "Each ant has 6 legs, and 6 and 6 make 12. The spider has 8 legs. Count on 8 from 12: 13, 14, 15, 16, 17, 18, 19, 20. So there are 20 legs.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "g1",
+   "context": "In the game Six, Eight, Ten you learned that an ant has 6 legs and a spider has 8. This problem puts three animals together.",
+   "why_maths": "If you know each animal's number, you can find the total without seeing a single leg.",
+   "chart": {
+    "type": "dots",
+    "title": "Legs on the wall",
+    "rows": [
+     {
+      "label": "ant",
+      "n": 6
+     },
+     {
+      "label": "ant",
+      "n": 6
+     },
+     {
+      "label": "spider",
+      "n": 8
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "6",
+     "6",
+     "+ 8"
+    ],
+    "answer": "20"
+   }
+  },
+  {
+   "problem": "You put 5 hibiscus flowers in a bowl of water. Each flower has 5 petals. How many petals are in the bowl?",
+   "answer": "25 petals.",
+   "explain": "Count in fives, once for each flower: 5, 10, 15, 20, 25. So there are 25 petals.",
+   "math_unit": "math.number-sense.counting.L1",
+   "how": "a2",
+   "context": "In the Petal Count you found that a hibiscus keeps to 5 petals. This problem uses that to count many petals quickly.",
+   "why_maths": "Because every hibiscus has the same number, you can count in fives. You do not need to touch every petal.",
+   "chart": {
+    "type": "dots",
+    "title": "Five flowers",
+    "rows": [
+     {
+      "label": "flower 1",
+      "n": 5
+     },
+     {
+      "label": "flower 2",
+      "n": 5
+     },
+     {
+      "label": "flower 3",
+      "n": 5
+     },
+     {
+      "label": "flower 4",
+      "n": 5
+     },
+     {
+      "label": "flower 5",
+      "n": 5
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 25,
+    "step": 5,
+    "title": "Count in fives: 5, 10, 15, 20, 25"
+   }
+  },
+  {
+   "problem": "A hibiscus has 5 petals. You count round the flower and get 7. How many petals did you count twice?",
+   "answer": "2 petals.",
+   "explain": "You said 7 numbers, but there are only 5 petals. 7 is 2 more than 5. So 2 petals were counted twice, most likely because the first petal was not marked.",
+   "math_unit": "math.number-sense.counting.L1",
+   "how": "a2",
+   "context": "In the Petal Count you marked one petal before counting round the ring. This problem shows what happens without the mark.",
+   "why_maths": "Comparing your count with the number you expect helps you catch your own mistake and see how big it was.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "7",
+     "− 5"
+    ],
+    "answer": "?"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "7",
+     "− 5"
+    ],
+    "answer": "2"
+   }
+  },
+  {
+   "problem": "A small animal on the wall has 4 legs on each side. Is this animal an insect? How do you know?",
+   "answer": "No. The animal has 8 legs, so they are not an insect. They may be a spider.",
+   "explain": "4 and 4 make 8. An insect has 6 legs, and 8 is 2 more than 6. So this animal is not an insect.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "how": "g1",
+   "context": "In the game Six, Eight, Ten you drew 6 legs for an ant and 8 for a spider. This problem uses those numbers to decide what an animal is.",
+   "why_maths": "The name 'insect' comes with a number in the rule. Adding the two sides and comparing with 6 tells you whether the animal fits the name.",
+   "chart": {
+    "type": "dots",
+    "title": "Legs on each side",
+    "rows": [
+     {
+      "label": "left side",
+      "n": 4
+     },
+     {
+      "label": "right side",
+      "n": 4
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "4",
+     "+ 4"
+    ],
+    "answer": "8"
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.maths-and-world.L1",
+  "title": "Look Closely, Count Slowly",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Butterflies of India",
+   "url": "https://www.ifoundbutterflies.org/",
+   "kind": "interactive",
+   "why": "A free website with photos of Indian butterflies. Pick any butterfly and look for the matching spots on the two wings."
+  },
+  {
+   "title": "Symmetry Artist, by Maths Is Fun",
+   "url": "https://www.mathsisfun.com/geometry/symmetry-artist.html",
+   "kind": "interactive",
+   "why": "A free drawing tool. Whatever you draw on one side of the line is copied on the other side."
+  },
+  {
+   "title": "India Biodiversity Portal",
+   "url": "https://indiabiodiversity.org/",
+   "kind": "interactive",
+   "why": "A free website where people across India share photos of plants and animals. Search for a flower you counted and see whether other photos show the same number of petals."
+  },
+  {
+   "title": "Bannerghatta Butterfly Park",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A covered garden with live butterflies, inside Bannerghatta Biological Park. Look for matching wings up close. Check the timings before you go."
+  },
+  {
+   "title": "Tropical Butterfly Conservatory",
+   "url": "",
+   "kind": "place",
+   "where": "Srirangam, Tiruchirappalli",
+   "why": "A large butterfly garden. Take your Living Patterns Book and draw one butterfly. Check the timings before you go."
+  },
+  {
+   "title": "Guindy National Park and Children's Park",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "Spotted deer live here in the middle of the city. Look at the white spots and see whether two deer have the same pattern. Check the timings before you go."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-lens",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "It makes leaf veins, tiny flowers and insect legs big enough to count. Used in the Fold Test, the Petal Count and My Living Patterns Book.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
+   "used_in": [
+    "a1",
+    "a2",
+    "p1"
+   ]
+  },
+  {
+   "id": "b-paint",
+   "item": "Poster colours, a set of 6",
+   "kind": "material",
+   "why": "For the lady's finger prints and for the spots on paper butterflies.",
+   "url": "https://www.amazon.in/s?k=poster+colours+set+of+6",
+   "used_in": [
+    "a4",
+    "c1"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "How many legs does an ant have?",
+   "a": "6"
+  },
+  {
+   "q": "How many legs does a spider have?",
+   "a": "8"
+  },
+  {
+   "q": "3 legs on the left and 3 on the right. How many in all?",
+   "a": "6"
+  },
+  {
+   "q": "Is a spider an insect?",
+   "a": "No. A spider has 8 legs."
+  },
+  {
+   "q": "A butterfly has 2 spots on one wing. The wings match. How many spots on the other wing?",
+   "a": "2"
+  },
+  {
+   "q": "How many petals does a single red hibiscus have?",
+   "a": "5"
+  },
+  {
+   "q": "Which is the oldest part of a snail shell: the tiny tip or the open edge?",
+   "a": "The tiny tip"
+  },
+  {
+   "q": "Can two tigers have the same stripes?",
+   "a": "No"
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g1",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "g1",
+   "a1",
+   "story",
+   "a2",
+   "ws-core",
+   "g2",
+   "a3",
+   "a4",
+   "a5",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "g1",
+   "a1",
+   "a3",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "g1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We cut vegetables, folded leaves, and counted legs and petals. Now let us think about who made these patterns.",
+  "deep_truth": {
+   "truth": "In Cut and Count, you counted the ridges on a lady's finger, and then the seed rooms inside. The two numbers were the same. The plant kept to one number, outside and inside, and never said a number word. So patterns with numbers in them are older than people. The plant made the five, and you gave the five a name.",
+   "habit": "We think maths begins with people, in school and in books. But a lady's finger keeps to a number without one number word. An ant has 6 legs whether or not anyone counts them.",
+   "evidence": "In Cut and Count, the ridges outside a lady's finger and the seed rooms inside gave the same number. In the Petal Count, two flowers of the same kind had the same number of petals."
+  },
+  "three": {
+   "who_am_i": "You have two eyes, two ears, two hands and ten fingers. Your left side nearly matches your right side. You are a pattern too. You are also the one who notices patterns.",
+   "what_is_life": "A plant sets out petals in a ring. A snail builds a spiral, a little at a time. Living things make patterns as they grow.",
+   "what_is_this_world": "A snail shell is a spiral. A big storm seen from space is a spiral. Our galaxy, the Milky Way, is a spiral of stars. The same shape turns up in tiny things and in huge things."
+  },
+  "thread": "A lady's finger starts as one tiny bud. As the bud grows, the parts form in a ring. A snail starts with one tiny shell and adds to the open edge, turn after turn. One small start, done again and again, becomes a pattern that you can count.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.12",
+    "teaching": "A father, Uddalaka, asks his son Shvetaketu to break open a banyan fruit, and then one of its tiny seeds. The son sees nothing inside the seed. The father says the whole great tree grows from that part, too fine to see.",
+    "link": "You also cut a fruit open to look inside. You found seeds in a ring of rooms. Whatever sets out that ring is inside the seed, too small for your eyes."
+   },
+   {
+    "source": "Thirukkural 355",
+    "teaching": "Thiruvalluvar, the Tamil poet, says: whatever a thing is, and whatever kind it is, wisdom is to see what it truly is.",
+    "link": "A spider looks like an insect until you count the legs. Looking closely and counting is one way to see what a thing truly is."
+   },
+   {
+    "source": "Galileo, The Assayer (Il Saggiatore), 1623, pages 237-238 in Stillman Drake's 1957 English translation",
+    "teaching": "Galileo, an Italian scientist, wrote that the universe is like a great book written in the language of mathematics. He said its letters are triangles, circles and other shapes.",
+    "link": "He meant that shapes and numbers are in the world already, and people learn to read them. The spiral was in the shell before anyone drew one. Not everyone agrees with him."
+   }
+  ],
+  "science": [
+   {
+    "text": "In 1996, scientists trained honeybees to choose shapes with two matching halves. The bees then chose new matching-halves shapes that they had never seen (Giurfa, Eichmann and Menzel, 1996). So people are not the only animals who can pick out this pattern.",
+    "status": "settled"
+   },
+   {
+    "text": "How does a growing bud end up with exactly 5 petals, flower after flower? Scientists know parts of the answer, but not all of it.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many scientists and mathematicians",
+   "view": "They say the lady's finger is not doing maths. The bud grows five parts because of the way a bud grows, as water runs downhill because of the way water moves. They say maths begins only when someone counts, checks, and knows that five is five. So the pattern belongs to the plant, and the maths belongs to us."
+  },
+  "practice": {
+   "title": "One leaf, one minute",
+   "mins": 3,
+   "say": "Hold one leaf in your open hand. Sit still and look at the leaf for one whole minute. Look at the edge. Look at the middle line. Look at the small lines that branch off. Now close your eyes. Can you still see the leaf? Open your eyes. What did you notice that you had never seen before?",
+   "kid": "Hold one leaf in your hand. Look at the leaf for one minute. Look at the edge and the lines. Close your eyes. Can you still see the leaf?"
+  },
+  "ask": [
+   "The hibiscus made 5 petals before you counted them. Was the number 5 already there?",
+   "If nobody ever looked at a snail shell, would the shell still be a spiral?",
+   "Your two hands nearly match. Who or what made them match?",
+   "Is a plant who keeps to a number doing maths? What would help you decide?"
+  ],
+  "art": "A child sitting cross-legged with a single leaf on her open palm, looking at it closely, with a hibiscus bush and a snail on a wall behind her."
+ },
+ "how_we_found_out": {
+  "context": "How do people count tigers in a forest, when tigers hide and all look alike at first? This card tells the true story of how the answer was found in India.",
+  "story": "For many years, forest staff in India counted tigers by their paw prints, called pugmarks. A forester named S. R. Choudhury began this method in 1966. People believed that each tiger's paw print was different enough to tell the tigers apart. In the early 1990s a scientist from Karnataka, Ullas Karanth, tried another way in the Nagarahole forest. He fixed cameras beside the forest paths. A tiger who walked past set off the camera and took their own photo. Karanth looked at the stripes. No two tigers had the same stripes, so he could tell the tigers apart and count them. He published this work in 1995. Karanth and others also tested the paw print method on tigers in zoos, where the true number was known. People who studied the same set of prints gave answers from 8 tigers to 23 tigers. So paw prints could not be trusted. From 2006, India's national tiger count has used camera photos and stripes.",
+  "who": "Ullas Karanth, and before him S. R. Choudhury",
+  "when": "1966, 1995 and 2006",
+  "wrong_idea": "People believed that each tiger could be told apart by paw prints. A test with zoo tigers showed this was wrong. People looking at the same prints gave answers from 8 tigers to 23."
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads: the human-chosen side (Roots, the card 'Is a marigold one flower or many?', the name 'insect' as a rule people chose), the universe and everyday life (spirals in a shell, a storm and the Milky Way; matching halves in the child's own body), maths in life (a3 kolam with matching halves, a4 lady's finger prints, e1 done while cutting vegetables for cooking), everyone does maths (a5 the snail's spiral, the card on honeybees and the pufferfish, the story of the tiger's stripes).",
+   "curriculum/math.json, math.maths-and-world.maths-in-nature.L1: counting petals, legs on insects and spiders, stripes and spots, the two matching halves of a butterfly or a leaf, the spiral of a snail shell, and finding, counting and drawing a pattern on a real plant or animal."
+  ],
+  "science": [
+   "Giurfa, M., Eichmann, B. and Menzel, R. (1996). Symmetry perception in an insect. Nature 382, 458-461.",
+   "Kawase, H., Okata, Y. and Ito, K. (2013). Role of huge geometric circular structures in the reproduction of a marine pufferfish. Scientific Reports 3, 2106. (A male about 12 cm long; a structure about 2 m across, near Amami-Oshima Island, Japan. The species was later named Torquigener albomaculosus.)",
+   "Karanth, K. U. (1995). Estimating tiger Panthera tigris populations from camera-trap data using capture-recapture models. Biological Conservation 71, 333-338. (Nagarahole, 1991-92; tigers told apart by stripes.)",
+   "Karanth, K. U. and others (2003). Science deficiency in conservation practice: the monitoring of tiger populations in India. Animal Conservation 6, 141-146. (The pugmark method, begun by S. R. Choudhury in 1966, and the blind test with captive tigers that gave estimates from 8 to 23.)",
+   "Tiger flanks: the stripe patterns on the left and right sides of one tiger differ, so camera traps are set in pairs (standard practice in camera-trap studies of tigers).",
+   "Gastropod shells grow by adding new shell at the edge of the opening, so the oldest turns are at the tip (standard malacology).",
+   "Okra (Abelmoschus esculentus): five carpels and a pod with a five-sided cross-section in the common kinds (Go Botany, Native Plant Trust). Banana: the fruit comes from an ovary of three joined parts, and a cross-section shows three (university botany course notes).",
+   "Marigold and sunflower heads are made of many small flowers called florets (standard botany of the daisy family).",
+   "Ladybird spots do not show age: the number is fixed for the kind of ladybird (Forest Preserve District of Will County, and other naturalist sources).",
+   "Turing, A. M. (1952). The chemical basis of morphogenesis. Philosophical Transactions of the Royal Society B 237, 37-72. Economou, A. D. and others (2012). Nature Genetics 44, 348-351 (ridges in the mouse palate).",
+   "Thirukkural 355, chapter 36 (Knowledge of the True). Chandogya Upanishad 6.12.1-3 (the banyan seed). Galileo, The Assayer (1623), the 'book written in the language of mathematics' passage, as given by the Mathematical Association of America with page numbers in Drake's 1957 translation."
+  ]
+ },
+ "playtest": "Walked through every flow as a family of two in a flat. Cut and Count needs three lady's fingers, a banana and one more vegetable, and everything cut is cooked or eaten. The legs game was run 2,000 times in a script: one player finishes all three animals in about 8 or 9 rolls, and nobody can get stuck. Find My Tiger has 6 patterns on 12 cards, and the eye dot is needed because one pattern read backwards is another. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 1996 honeybee study, the pufferfish circle (2013 paper, about 2 metres), Karanth's camera work in Nagarahole and the pugmark test (8 to 23), tiger flanks differing left and right, snail shells growing at the open edge, okra with five carpels and a five-sided pod, the banana's three parts, marigold heads made of tiny flowers, ladybird spots not showing age, hibiscus 5 petals and ixora 4, the Turing idea and the 2012 mouse study, Thirukkural 355, Chandogya Upanishad 6.12 and the Galileo passage. Not confirmed from a written source: that the ridges outside a lady's finger always equal the seed rooms inside (this holds for the common five-ridged kinds, and the child tests it), that most bananas have 4 or 5 flat sides, that a periwinkle has 5 petals, that curry leaflets are often lopsided, that a bean spiral's first turn takes about 6 round beans, that India's national count has used cameras since 2006, and the three places in the links. If a lady's finger gives two different numbers, count again near the middle of the pod. The three videos were confirmed by title, channel and length only, not watched, so watch each one before showing it."
+}

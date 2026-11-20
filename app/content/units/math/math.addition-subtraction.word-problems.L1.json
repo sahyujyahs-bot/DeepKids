@@ -347,7 +347,7 @@
    "status": "defined",
    "context": "This card looks for story sums in your home and in the night sky.",
    "definition": "Whenever things join or leave, you can tell it as a story sum.",
-   "description": "Story sums are not only in books. Six people sit down to eat and two guests come. Twelve eggs were in the tray and three went into the curry. The sky has story sums too. In January 1610 a man named Galileo looked at the planet Jupiter through a telescope. He saw 3 tiny dots of light beside it. Six nights later he saw 4. They were moons going round Jupiter. On some nights one of them was hidden behind the planet. '4 moons. I can see 3. How many are hiding?'",
+   "description": "Story sums are not only in books. Six people sit down to eat and two guests come. The sky has story sums too. In January 1610 a man named Galileo looked at the planet Jupiter through a telescope. He saw 3 tiny dots of light beside it. Six nights later he saw 4. They were moons going round Jupiter. As they go round, one is sometimes hidden behind the planet. '4 big moons. I can see 3. How many are hiding?'",
    "examples": [
     "There are 7 days in a week. 2 are over. How many are still to come?",
     "10 fingers. You fold down 4. How many are still up?",
@@ -389,7 +389,7 @@
      "explanation": "The robins did this only with small numbers. They may be remembering each mealworm one by one, or how much food there was, and not a number as we use it. So it is safer to say that robins keep track of their food in their own way."
     }
    ],
-   "art": "A small grey robin with long legs standing on a forest floor, head tilted, looking into a small covered hole in a log.",
+   "art": "A small grey robin with long legs standing on a forest floor, head tilted, looking at a small covered hole in a piece of wood on the ground.",
    "chart": {
     "type": "dots",
     "rows": [
@@ -1522,7 +1522,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Say that your child is a robin and the wool pieces are worms. 2. Drop 1 worm into the tumbler and cover it. Your child looks and takes it. 3. Now show 2 worms. Drop 1 in, and pretend to drop the other while keeping it in your hand. 4. Cover the tumbler. Your child looks.",
+     "do": "1. Say that your child is a robin and the wool pieces are worms. 2. Drop 1 worm into the tumbler and put the cover on. Your child looks and takes the worm. 3. Now show 2 worms. Drop 1 in, and pretend to drop the other while keeping it in your hand. 4. Cover the tumbler. Your child looks.",
      "say": "You are a robin. Watch the worms go in. One. Two. Now the cover goes on. Look inside and take your worms.",
      "kid": "You are a robin. Watch the worms go in. Then look inside the tumbler.",
      "parent": "Say nothing when your child finds only one. Watch what they do. Most children look again, tip the tumbler or look at your hands. That extra searching is just what the scientists timed in the robins.",
@@ -2700,7 +2700,7 @@
     },
     {
      "t": "match",
-     "p": "Match each story to its sum.",
+     "p": "Match each auto story to its sum.",
      "pairs": [
       [
        "11 autos, and 4 more come",
@@ -3610,7 +3610,7 @@
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
-   "url": "https://www.vismuseum.gov.in/",
+   "url": "",
    "kind": "place",
    "where": "Bengaluru",
    "why": "A science museum with hands-on galleries. Count things as you go and tell them as story sums: wheels, levers, steps."
@@ -3813,7 +3813,7 @@
   "science": [
    "Hunt, S., Low, J. and Burns, K. C. (2008). Adaptive numerical competency in a food-hoarding songbird. Proceedings of the Royal Society B 275, 2373-2379. (Experiment 5: 10 wild New Zealand robins at Karori Wildlife Sanctuary, Wellington. With 2 mealworms shown and 1 found, search time was over four times that for 1 shown and 1 found. With 8 shown and 4 found there was no clear difference.)",
    "Carraher, T. N., Carraher, D. W. and Schliemann, A. D. (1985). Mathematics in the streets and in schools. British Journal of Developmental Psychology 3, 21-29. (Five working youngsters in Recife; better performance in real sales than on school-type problems.)",
-   "Carpenter, T. P., Ansell, E., Franke, M. L., Fennema, E. and Weisbeck, L. (1993). Models of problem solving: a study of kindergarten children's problem-solving processes. Journal for Research in Mathematics Education 24, 428-441. (70 kindergarten children, nine problems; the figure of 32 children using valid strategies on all nine is from an Education Week report of the study, 1995.)",
+   "Carpenter, T. P., Ansell, E., Franke, M. L., Fennema, E. and Weisbeck, L. (1993). Models of problem solving: a study of kindergarten children's problem-solving processes. Journal for Research in Mathematics Education 24. (70 kindergarten children, nine problems; the figure of 32 children using valid strategies on all nine is from an Education Week report of the study, 1995.)",
    "Galileo Galilei, Sidereus Nuncius (March 1610): three small 'stars' beside Jupiter on 7 January 1610 and a fourth on 13 January (NASA history pages; Linda Hall Library).",
    "Bhaskara II, Lilavati (1150 CE): arithmetic set as verse problems about bees, peacocks, snakes and lotuses.",
    "The Rhind Mathematical Papyrus (British Museum): copied by the scribe Ahmes in about 1650 BCE from an older text; problems 1 to 6 share loaves among 10 men (MacTutor History of Mathematics; The Open University).",
@@ -3823,5 +3823,5 @@
    "Pete the Cat and His Four Groovy Buttons, by Eric Litwin, illustrated by James Dean (Harper, 2012)."
   ]
  },
- "playtest": "Walked through every flow as a family of two in a flat. The Six Stories Test needs 12 beans, a plate and 7 slips of paper. The six stories sort into two heaps of three, and story G joins the taking-away heap. Step minutes add up to each activity's minutes. Story Dice was played through in the head: with tails the teller starts with the bigger number, so no story is impossible, and two equal rolls give zero. Find My Sum has 8 pairs, and each story fits only one sum card, though four sums have the answer 8. Act It, Say It has 10 cards and needs at most 10 beans. Seven Stones works indoors with 7 carrom coins or bottle caps and a sock ball from 3 big steps. Clear breakable things first. The kitchen job uses the family's own numbers. A list of four people is given only as an example. Facts looked up on the web while writing: the 2008 robin study (10 robins, 2 shown and 1 found, more than four times the search time), the 1985 Recife study (five children, better in real sales), the 1993 kindergarten study (70 children, nine problems), Galileo's three and then four moons in January 1610, the Lilavati and its bee problem, the Rhind papyrus and Ahmes, the names of Seven Stones in different states, Karthigai Deepam at Tiruvannamalai, Thirukkural 423, Udana 6.4 and the book Pete the Cat and His Four Groovy Buttons. Not fully confirmed, so please check: the exact scores in the Recife study could not be found, so the unit gives none. The figure of 32 of 70 children comes from a magazine report of the 1993 study, not from the paper. The robin study says the mealworms went into an 'artificial cache site' with a hidden trapdoor. The unit calls this a small covered hole, and the pictures of it are a guess. The year 1150 for the Lilavati and the wording of Tao Te Ching 1 are from memory. Two of the three videos have no id yet, because their ids could not be confirmed. The first video was confirmed by title and channel only, not watched. The sibling units of this topic use two different song titles. This unit uses 'Put Together, Take Away'."
+ "playtest": "Walked through every flow as a family of two in a flat. The Six Stories Test needs 12 beans, a plate and 7 slips of paper. The six stories sort into two heaps of three, and story G joins the taking-away heap. Step minutes add up to each activity's minutes. Story Dice was played through in the head: with tails the teller starts with the bigger number, so no story is impossible, and two equal rolls give zero. Find My Sum has 8 pairs, and each story fits only one sum card, though four sums have the answer 8. Act It, Say It has 10 cards and needs at most 10 beans. Seven Stones works indoors with 7 carrom coins or bottle caps and a sock ball from 3 big steps. Clear breakable things first. The kitchen job uses the family's own numbers. A list of four people is given only as an example. Facts looked up on the web while writing: the 2008 robin study (10 robins, 2 shown and 1 found, more than four times the search time), the 1985 Recife study (five children, better in real sales), the 1993 kindergarten study (70 children, nine problems), Galileo's three and then four moons in January 1610, the Lilavati and its bee problem, the Rhind papyrus and Ahmes, the names of Seven Stones in different states, Karthigai Deepam at Tiruvannamalai, Thirukkural 423, Udana 6.4 and the book Pete the Cat and His Four Groovy Buttons. Not fully confirmed, so please check: the exact scores in the Recife study could not be found, so the unit gives none. The figure of 32 of 70 children comes from a magazine report of the 1993 study, not from the paper. The robin study says the mealworms went into an 'artificial cache site' with a hidden trapdoor. The unit calls this a small covered hole, and the pictures of it are a guess. The year 1150 for the Lilavati, the wording of Tao Te Ching 1, the kabaddi rule that players who are out can come back in, and the tip about seeing Jupiter's moons with binoculars are from memory. Two of the three videos have no id yet, because their ids could not be confirmed. The first video was confirmed by title and channel only, not watched. The sibling units of this topic use two different song titles. This unit uses 'Put Together, Take Away'."
 }

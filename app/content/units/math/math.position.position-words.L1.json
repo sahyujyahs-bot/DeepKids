@@ -39,7 +39,7 @@
   "I can say if a thing is inside or outside, and if it is near or far.",
   "I can show my left hand and my right hand, and say what is on my left and on my right.",
   "I can say what is in front of, behind, next to and between other things.",
-  "I can put a thing in the right place when I hear position words, and tell someone else where to put it.",
+  "I can put a thing in its place when I hear position words, and tell someone else where to put it.",
   "I can say which position words change when I move, and which stay the same."
  ],
  "terms": [
@@ -110,7 +110,7 @@
    "status": "defined",
    "context": "This card says what every position word does. You used this in the game Find the Lemon.",
    "definition": "A position word tells where one thing is, compared with another thing.",
-   "description": "Where is the lemon? 'Under' is not an answer. Under what? You must name a second thing: under the stool. Here is a worked example. Look at the row. Where is the square? It is between the circle and the triangle. You named two other shapes to say it. Now you try. Say where the triangle is.",
+   "description": "Where is the lemon? 'Under' is not an answer, because under what? You must name a second thing: under the stool. Here is a worked example. Where is the square in the row? It is between the circle and the triangle. You named two other shapes to say it. Now say where the triangle is.",
    "examples": [
     "The spoon is inside the tumbler.",
     "The tumbler is on the stool.",
@@ -137,7 +137,7 @@
    "status": "defined",
    "context": "This card is about the words for higher and lower. The picture is a rack with three shelves.",
    "definition": "Top, above and on are for the higher place. Bottom, below and under are for the lower place.",
-   "description": "Look at the three shelves. The circle is on the top shelf. The triangle is on the bottom shelf. The square is in the middle. So the circle is above the square, and the triangle is below the square. Now a worked example. What is below the circle? Both the square and the triangle are lower, so both are below the circle. 'On' and 'under' are for things that are very close. A cup sits on a table. A cat hides under the cot.",
+   "description": "Look at the three shelves. The circle is on the top shelf, the square is in the middle, and the triangle is at the bottom. So the circle is above the square, and the triangle is below the square. Here is a worked example. What is below the circle? The square and the triangle are both lower, so both are below the circle. 'On' and 'under' are for things that touch or are very close: a cup on a table, a cat under the cot.",
    "examples": [
     "The clock is above the door.",
     "Your feet are below your knees.",
@@ -209,7 +209,7 @@
    "status": "defined",
    "context": "This card is about near and far. You tested these words in the Step Count.",
    "definition": "Near means few steps away. Far means many steps away. You must say near to what.",
-   "description": "Here is a worked example. Stand at the door. The mat is 2 steps away. The bed is 9 steps away. 2 is fewer than 9, so the mat is nearer the door. Now stand at the window. The bed may be only 1 step away. Now the bed is the near one. The bed did not move. You did. So always say where you are counting from.",
+   "description": "Here is a worked example. From the door, the mat is 2 steps away and the bed is 9 steps away. 2 is fewer than 9, so the mat is nearer the door. Now stand at the window, where the bed is only 1 step away. Now the bed is the near one. The bed did not move. You did. So always say where you are counting from.",
    "examples": [
     "From your house, the shop is near and the sea is far.",
     "For a child in Kanyakumari, the sea is near.",
@@ -231,7 +231,7 @@
    "status": "defined",
    "context": "This card is about left and right. You tested them in the Turn-Around Test and in Face to Face.",
    "definition": "Left and right are the two sides of your own body. When you turn, they turn with you.",
-   "description": "Your right hand is always your right hand. But the things on your right change when you turn. Here is a worked example. You face a red circle and a blue square. The circle is on your left. Your friend stands on the other side and faces you. For her, the circle is on the right. Both of you are correct. So when you say left or right, say whose: 'on my left' or 'on your left'.",
+   "description": "Your right hand is always your right hand. But the things on your right change when you turn. Here is a worked example. You face a red circle and a blue square, and the circle is on your left. Your friend stands on the other side and faces you. For her, the circle is on the right. Both of you are correct. So when you say left or right, say whose: 'on my left' or 'on your left'.",
    "examples": [
     "Two people facing each other shake right hands. The arms cross over.",
     "'The third house on the left' depends on which end of the street you enter.",
@@ -265,11 +265,11 @@
    "status": "defined",
    "context": "This card is about the words for things in a line, such as a queue.",
    "definition": "In front is the way a person or a line is facing. Behind is the other way. Between is in the middle of two.",
-   "description": "Look at the row. It is a queue, and everyone faces right. The red circle is first. Nobody is in front of her. The blue circle is behind her. The yellow circle is between the blue and the green. Here is a worked example. Who is next to the green circle? Yellow is on one side and nobody is on the other. So only yellow is next to green.",
+   "description": "Look at the row. It is a queue, and everyone faces right. The red circle is first, so nobody is in front of her. The blue circle is behind her. The yellow circle is between the blue and the green. Here is a worked example. Who is next to the green circle? Only the yellow circle, because nobody stands on green's other side.",
    "examples": [
     "In a queue for the bus, the person in front of you gets on before you.",
     "Your nose is between your eyes.",
-    "In a Kerala boat race, each rower sits behind another rower."
+    "A chair has a front of its own, the side you face when you sit. Behind the chair is the side of its back rest."
    ],
    "perspectives": [],
    "art": "Four children in a queue at a bus stop seen from the side, all facing the bus on the right.",
@@ -337,7 +337,7 @@
    "status": "defined",
    "context": "This card is about the words up and down, top and bottom. It asks what 'down' means on a round Earth.",
    "definition": "Down is the way things fall: toward the ground, and so toward the middle of the Earth.",
-   "description": "Drop a lemon. The lemon falls down. The Earth pulls everything toward its middle, and we call that way down. The Earth is a ball, and people live all round the ball. A child in Chennai and a child in South America both stand with their feet toward the middle. So 'down' for one child points a different way from 'down' for the other. Nobody is upside down. Far out in space there is no ground close by, and astronauts float. There, people have to choose which wall to call the floor.",
+   "description": "Drop a lemon, and the lemon falls down. The Earth pulls everything toward its middle, and we call that way down. The Earth is a ball, and people live all round the ball. A child in Chennai and a child in Peru, nearly on the opposite side, both stand with feet toward the middle. So 'down' for one child points a different way from 'down' for the other. Nobody is upside down. Inside the space station, astronauts float, and they have to agree which wall to call the floor.",
    "examples": [
     "The top of a coconut tree is the end farthest from the ground.",
     "Water in a tumbler always settles at the bottom.",
@@ -351,11 +351,11 @@
    "status": "defined",
    "context": "This card is about other living beings who know where things are and can tell others.",
    "definition": "Many living beings sense positions. Honeybees also tell each other how far and which way.",
-   "description": "A honeybee finds flowers and flies home. Inside the dark hive she dances for her sisters. She runs in a straight line and waggles her body. A longer waggle means the flowers are farther away. The way her run points tells the others which way to fly, compared with the Sun. A scientist named Karl von Frisch worked this out, and won a Nobel Prize for it in 1973. Plants know positions too. A root senses which way is down and grows that way, even in the dark.",
+   "description": "A honeybee finds flowers and flies home. Inside the dark hive she dances for her sisters. She runs in a straight line and waggles her body. A longer waggle means the flowers are farther away. The way her run points tells the others which way to fly, compared with the Sun. Karl von Frisch worked this out and won a Nobel Prize in 1973. Plants sense positions too. A root senses which way is down and grows that way, even in the dark.",
    "examples": [
     "A short waggle run: flowers near the hive. A long one: flowers far away.",
     "A run that points straight up on the comb means: fly toward the Sun.",
-    "Turn a sprouting seed on its side. The tip of the root bends to grow down again."
+    "Lay a sprouting seed sideways. The tip of the root bends to grow down again."
    ],
    "perspectives": [],
    "art": "A honeybee on a honeycomb making a figure-of-eight dance with a wavy line through its middle, while other bees crowd round her.",
@@ -387,7 +387,7 @@
    "status": "defined",
    "context": "This card is about the choices people have made about left and right.",
    "definition": "Which side to keep to, and even whether to use the words left and right, are things people chose.",
-   "description": "On Indian roads, vehicles keep to the left. In many other countries they keep to the right. Neither side is better. What matters is that everyone on the same road agrees. Words are chosen too. The Guugu Yimithirr people of Australia mostly use no words like left and right for where things are. They use words like north, south, east and west. A speaker may say, 'The cup is to the east of the plate.' That sentence stays true whichever way you face.",
+   "description": "On Indian roads, vehicles keep to the left. In many other countries they keep to the right. Neither side is better. What matters is that everyone on the same road agrees. Words are chosen too. The Guugu Yimithirr people of Australia mostly say north, south, east and west where we would say left and right. A speaker may say, 'The cup is to the east of the plate.' That sentence stays true whichever way you face.",
    "examples": [
     "India, Sri Lanka and Japan keep left. France and the United States keep right.",
     "The narrow tip of a banana leaf is often placed on the eater's left. Families chose that.",
@@ -430,7 +430,7 @@
   },
   {
    "text": "Even a child of three or four can work out what another person can and cannot see.",
-   "evidence": "In 1975 a scientist named Martin Hughes asked small children to hide a doll from two toy policemen. About nine in ten got it right."
+   "evidence": "In 1975 a scientist named Martin Hughes asked small children to hide a doll from two toy policemen. About nine in ten gave the correct answer."
   }
  ],
  "challenging": [
@@ -526,7 +526,7 @@
    "\"There you are! I rang and rang. Did you get lost? I told you, third on the left.\"",
    "\"It was the third on the left,\" said Nila. \"Your left. Not ours.\"",
    "Athai laughed. \"Next time I will say: the blue gate, on the same side as the neem tree.\"",
-   "\"That is better,\" said Nila. \"The neem tree stays where it is.\""
+   "\"That is better,\" said Nila. \"The neem tree stays in one place.\""
   ],
   "epiphany": "For the parent: 'left' is not a fact about the street. It belongs to the person who is walking, and to the way she is facing. Athai's direction had a hidden starting point, the flower market. When Nila and her father came in from the other end, left became right, and the third house had to be counted from the far end. Nila solves it by turning her body to face the way her aunt would face.",
   "ask": [
@@ -764,9 +764,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Your child comes back to the first spot. 2. Say they will now walk ten big steps back, still facing the stool. 3. They guess with beans again and say why. 4. They walk back and check each sentence. 5. Write ticks and crosses.",
+     "do": "1. Your child comes back to the first spot. 2. Say they will now walk ten big steps away and turn to face the stool. 3. They guess with beans again and say why. 4. They walk, turn and check each sentence. 5. Write ticks and crosses.",
      "say": "Now you will walk ten big steps away. Which sentences will stop being true this time? Why?",
-     "kid": "Guess with beans again. Then walk ten big steps back. Check each sentence.",
+     "kid": "Guess with beans again. Walk ten big steps away. Turn and check each sentence.",
      "ask": [
       {
        "q": "Which sentence changed this time?",
@@ -1163,9 +1163,7 @@
        {
         "label": "bottom half, near the eater",
         "cells": [
-         "empty",
-         "circle:ink",
-         "empty"
+         "circle:ink"
         ]
        }
       ],
@@ -1228,6 +1226,7 @@
      "do": "1. Lay the other leaves or plates the same way. 2. Put a tumbler of water outside each leaf. 3. At the meal, ask each person to say where one food is.",
      "say": "Every leaf should look the same to the person who sits at it. Check each one from their place.",
      "kid": "Lay the other leaves the same way. Put a tumbler outside each leaf.",
+     "adult": true,
      "context": "This is the last step of Lay the Leaf. You lay the leaves for the whole family and check each one from the eater's place."
     }
    ]
@@ -1307,7 +1306,7 @@
         ]
        }
       ],
-      "title": "Sun, bird and tree, and the pot at the bottom left"
+      "title": "Sun, bird, tree and pot. A box with ? has nothing in it."
      },
      "context": "This is the first step of Draw What I Say. A grown-up reads five instructions with position words, and you draw each thing in its place."
     },
@@ -1846,14 +1845,14 @@
      "parent": "Cards that cross the body, such as 'right hand on your left ear', are the hardest. Slow down for those.",
      "check": {
       "t": "mcq",
-      "q": "The caller says: 'Amma says, stand behind the chair.' The chair is between you and the caller. Where are you?",
+      "q": "Amma says: stand behind the chair. Where do you go?",
       "options": [
-       "Behind the chair, as the caller sees it",
-       "In front of the chair, as the caller sees it",
-       "Inside the chair"
+       "To the side of the chair's back rest",
+       "To the side where you sit down",
+       "Under the chair"
       ],
       "a": 0,
-      "why": "If the chair is between you and the caller, the caller sees the chair first and then you. So for the caller you are behind the chair."
+      "why": "A chair has a front of its own, the side you face when you sit on it. Behind the chair is the side of its back rest. That stays the same wherever the caller stands."
      },
      "context": "This is step 3 of Amma Says, an action game with 16 cards of position words. Here you play through the cards and lose a bean for each slip."
     },
@@ -2016,14 +2015,14 @@
        "good": [
         "The tips turned down again.",
         "The root knows which way is down.",
-        "Even on its side, the seed finds down."
+        "Even lying sideways, the seed finds down."
        ]
       }
      ],
      "parent": "The tips usually bend down within a day. If the bend is small, leave the tumbler one more day. A root senses the pull of the Earth and grows toward it.",
      "check": {
       "t": "mcq",
-      "q": "A sprouting seed is turned on its side. Which way does the tip of the root grow next?",
+      "q": "A sprouting seed is laid sideways. Which way does the tip of the root grow next?",
       "options": [
        "Sideways for ever",
        "Down, toward the ground",
@@ -2601,7 +2600,7 @@
     },
     {
      "t": "write",
-     "p": "Say your answer aloud. A grown-up writes it. In the Turn-Around Test, the book went from your left to your right. Why?",
+     "p": "Say your answer aloud. A grown-up writes it. The book went from your left to your right. Why?",
      "lines": 2,
      "a": "Because I walked to the other side and faced the other way. The book did not move.",
      "why": "A strong answer says that the child moved, not the book. Left and right go with the person.",
@@ -2629,7 +2628,7 @@
     {
      "t": "draw",
      "p": "Draw round both your hands on paper. Colour the right hand red.",
-     "a": "Two hand outlines, with the one on the right-hand side of the paper coloured red when the palms were face down.",
+     "a": "Two hand outlines. The outline of the right hand is red.",
      "why": "To check, put your hands back on the outlines. The red outline should be under the hand with the thread, your right hand."
     }
    ]
@@ -2683,14 +2682,14 @@
     },
     {
      "t": "fill",
-     "p": "This goes past Class 1. Six children stand in a row. Nila is 3rd from the left. From the right she is number ____.",
+     "p": "Six children stand in a row. Nila is 3rd from the left. From the right she is number ____.",
      "a": [
       "4",
       "four",
       "4th",
       "fourth"
      ],
-     "why": "Count from the right end: 1, 2, 3, and Nila is the 4th. Three children are on her right and two are on her left.",
+     "why": "This one goes past Class 1. Count from the right end: 1, 2, 3, and Nila is the 4th. Three children are on her right and two are on her left.",
      "chart": {
       "type": "row",
       "rows": [
@@ -2840,6 +2839,39 @@
      "why": "A kite, a cloud and a nest are higher than the ground. A carrot, well water and a worm's tunnel are lower than the ground."
     },
     {
+     "t": "mcq",
+     "p": "Which shape is in the bottom right corner?",
+     "opts": [
+      "Green circle",
+      "Red square",
+      "Green square"
+     ],
+     "a": 0,
+     "why": "Bottom tells you the lowest row. Right tells you the end. The green circle is there. The red square is at the bottom left, and the green square is at the top right.",
+     "chart": {
+      "type": "row",
+      "rows": [
+       {
+        "label": "top",
+        "cells": [
+         "circle:red",
+         "triangle:blue",
+         "square:green"
+        ]
+       },
+       {
+        "label": "bottom",
+        "cells": [
+         "square:red",
+         "triangle:yellow",
+         "circle:green"
+        ]
+       }
+      ],
+      "title": "Four corners"
+     }
+    },
+    {
      "t": "write",
      "p": "Say your answer aloud. A grown-up writes it. Tell where your toothbrush is, without pointing. Use two position words.",
      "lines": 2,
@@ -2848,9 +2880,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a shelf of 9 boxes, 3 rows of 3. Draw a star in the top right box and a dot in the bottom middle box.",
-     "a": "A 3 by 3 grid with a star in the last box of the first row and a dot in the second box of the last row.",
-     "why": "Top and bottom choose the row. Right and middle choose the place in that row.",
+     "p": "Draw 9 boxes, in 3 rows of 3. Draw a star in the top right box.",
+     "a": "A 3 by 3 grid with a star in the last box of the first row.",
+     "why": "Top chooses the row. Right chooses the place in that row.",
      "how": "g1"
     },
     {
@@ -3237,9 +3269,9 @@
  ],
  "maths": [
   {
-   "problem": "Look at the shelf. The ball is on the shelf below the top shelf. Count the shapes on the ball's shelf. How many shapes share the shelf with the ball?",
-   "answer": "The ball is on the middle shelf. 3 shapes share that shelf.",
-   "explain": "The shelf below the top shelf is the middle shelf. Count the shapes there: 1, 2, 3.",
+   "problem": "Look at the shelf. Go to the row below the top row. How many shapes are in that row?",
+   "answer": "It is the middle row, and 3 shapes are in that row.",
+   "explain": "The row below the top row is the middle row. Count the shapes there: 1, 2, 3.",
    "math_unit": "math.number-sense.counting.L1",
    "how": "g1",
    "context": "In Three in a Line you found boxes by their row: top, middle or bottom. This uses the rows of a shelf to choose what to count.",
@@ -3602,7 +3634,7 @@
    "what_is_life": "Every living being knows where things are. A bee dances to tell her sisters how far the flowers are. A root grows down, even in the dark.",
    "what_is_this_world": "A room has no left side and no near side by itself. It gets them when someone stands in it and looks."
   },
-  "thread": "Where is the lemon? You cannot say it with the lemon alone. You need a second thing: under the stool. Every position word joins one thing to another thing, or to you. So nothing has a place all by itself. Each thing is somewhere only because of the other things around it.",
+  "thread": "Where is the lemon? You cannot say it with the lemon alone. You need a second thing: under the stool. Every position word joins one thing to another thing, or to you. So nothing has a place all by itself, only a place among the other things.",
   "teachings": [
    {
     "source": "Isha Upanishad 5",

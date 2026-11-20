@@ -2029,7 +2029,7 @@
     },
     {
      "kind": "tokens",
-     "title": "20 beans or buttons to win",
+     "title": "A bowl of beans or buttons, about 20",
      "items": [
       "One bean for each right call"
      ]
@@ -4038,7 +4038,7 @@
  "roots": {
   "context": "We tested which things roll and which slide. Now let us think about the tin, which did both.",
   "deep_truth": {
-   "truth": "In the Slope Test, the tin went into two heaps. Lying on its side, it rolled. Standing on its end, it stayed. It was the same tin. So a thing is not just a roller or a slider. It depends on which part of it meets the ground.",
+   "truth": "In the Slope Test, the tin went into two heaps. Lying on its side, it rolled, and standing on its end, it stayed. It was the same tin. So a thing is not just a roller or a slider. It depends on which part of it meets the ground.",
    "habit": "We like to give every thing one label: this is a roller, that is a slider. The tin shows that one label is not enough. The two heaps were our idea, made to keep things simple.",
    "evidence": "In the Slope Test, the same tin rolled when its curved surface was on the tray and stayed when its flat face was on the tray. The cone and the coin did the same."
   },
