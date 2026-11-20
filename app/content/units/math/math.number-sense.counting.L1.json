@@ -108,7 +108,16 @@
     "Saying 'one, two, three' very fast while waving at the goats is not counting. The words and the things must match."
    ],
    "perspectives": [],
-   "art": "Five lemons, each joined by a line to one number from 1 to 5, with the 5 circled and labelled 'how many'."
+   "art": "Five lemons, each joined by a line to one number from 1 to 5, with the 5 circled and labelled 'how many'.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "one number for each bean",
+      "n": 7
+     }
+    ]
+   }
   },
   {
    "concept": "Moving things does not change the number",
@@ -136,7 +145,14 @@
     "A rocket countdown counts back: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0."
    ],
    "perspectives": [],
-   "art": "A number line from 0 to 20 with three curved arrows hopping from 8 to 11, and two arrows hopping back from 11 to 9."
+   "art": "A number line from 0 to 20 with three curved arrows hopping from 8 to 11, and two arrows hopping back from 11 to 9.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 20,
+    "step": 1,
+    "title": "Hop on, hop back"
+   }
   },
   {
    "concept": "Counting in twos",
@@ -150,7 +166,28 @@
     "Your fingers, a hand at a time, are counting in fives. Twos are only one of many ways to skip count."
    ],
    "perspectives": [],
-   "art": "A pairs mat: ten boxes in a row, each holding two beans, with 2, 4, 6 and so on up to 20 written under the boxes."
+   "art": "A pairs mat: ten boxes in a row, each holding two beans, with 2, 4, 6 and so on up to 20 written under the boxes.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "2",
+      "n": 2
+     },
+     {
+      "label": "4",
+      "n": 4
+     },
+     {
+      "label": "6",
+      "n": 6
+     },
+     {
+      "label": "8",
+      "n": 8
+     }
+    ]
+   }
   },
   {
    "concept": "Ten and some more: the numbers from 11 to 20",
@@ -164,7 +201,20 @@
     "An egg tray in the shop usually holds 30 eggs. That is three tens."
    ],
    "perspectives": [],
-   "art": "A full ten-frame with three beans beside it, labelled 'ten and three is 13', next to the Tamil word for eleven split into ten and one."
+   "art": "A full ten-frame with three beans beside it, labelled 'ten and three is 13', next to the Tamil word for eleven split into ten and one.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "full ten",
+      "n": 10
+     },
+     {
+      "label": "some more",
+      "n": 4
+     }
+    ]
+   }
   },
   {
    "concept": "Counting never ends",
@@ -236,7 +286,20 @@
     "Can 13 children all walk in pairs? No. One child has no partner, because 13 is odd."
    ],
    "perspectives": [],
-   "art": "Two rows of beans in pairs: six beans all paired and labelled even, seven beans with one alone and labelled odd."
+   "art": "Two rows of beans in pairs: six beans all paired and labelled even, seven beans with one alone and labelled odd.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "6 beans: all in pairs",
+      "n": 6
+     },
+     {
+      "label": "7 beans: one left over",
+      "n": 7
+     }
+    ]
+   }
   }
  ],
  "agreed": [
@@ -477,7 +540,16 @@
       }
      ],
      "parent": "If your child starts counting all over again when asked 'So how many?', that is common at this age. Do not correct it yet. The test will show it. If the numbers after ten are shaky, say them together.",
-     "context": "This is the first step of the Bean Test. You count 13 beans by sliding each one across a line."
+     "context": "This is the first step of the Bean Test. You count 13 beans by sliding each one across a line.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "in a row",
+        "n": 13
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -496,7 +568,16 @@
       }
      ],
      "parent": "Many six-year-olds say 'more', because the line is longer. Accept any guess with a reason. Let the count answer.",
-     "context": "This is step 2 of the Bean Test. The same 13 beans are spread into a long line, and you guess before you count."
+     "context": "This is step 2 of the Bean Test. The same 13 beans are spread into a long line, and you guess before you count.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "far apart",
+        "n": 13
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -563,7 +644,17 @@
       "a": 1,
       "why": "You already know there are 13, so you can count on: 14, 15. Counting again from 1 also gives 15, but it takes longer. Guessing can be wrong."
      },
-     "context": "This is step 6 of the Bean Test. Now beans really are added and taken away, and you count on or back."
+     "context": "This is step 6 of the Bean Test. Now beans really are added and taken away, and you count on or back.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "in a row",
+        "n": 13,
+        "more": 1
+       }
+      ]
+     }
     },
     {
      "id": "s7",
@@ -653,7 +744,20 @@
      "do": "1. Ask your child to put each left chappal with its right one. 2. Ask how many pairs there are. 3. Write that number under the first.",
      "say": "Now put each chappal with its partner. How many pairs are there?",
      "kid": "Put each chappal with its partner. Now count the pairs.",
-     "context": "This is step 2 of One Heap, Two Answers. You put the chappals in pairs and count the pairs."
+     "context": "This is step 2 of One Heap, Two Answers. You put the chappals in pairs and count the pairs.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "left chappals",
+        "n": 6
+       },
+       {
+        "label": "right chappals",
+        "n": 6
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -747,7 +851,14 @@
      "say": "Let us make a road of numbers. Which number comes after 10? Put it down.",
      "kid": "Make a line of numbers on the floor, from 0 to 20. Keep the gaps the same.",
      "parent": "Tape paper slips down so they do not slide on tiles. Check the order from 11 to 20 together by counting aloud.",
-     "context": "This is the first step of the Floor Number Line. You lay the numbers 0 to 20 in a line on the floor."
+     "context": "This is the first step of the Floor Number Line. You lay the numbers 0 to 20 in a line on the floor.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "The floor number line"
+     }
     },
     {
      "id": "s2",
@@ -900,7 +1011,20 @@
       "a": 1,
       "why": "A full frame is ten, and five more makes 15. Picking 5 means the full frame was not counted. Picking 51 means the two numerals were written the wrong way round."
      },
-     "context": "This is step 2 of the Ten-Frame activity. One box of ten spaces is full of beans, and you count on for the extra beans."
+     "context": "This is step 2 of the Ten-Frame activity. One box of ten spaces is full of beans, and you count on for the extra beans.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "full frame",
+        "n": 10
+       },
+       {
+        "label": "3 more",
+        "n": 3
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -972,7 +1096,16 @@
      "say": "Watch my hand and count with me. Clap, little, ring, middle. Clap, wave, clap, wave.",
      "kid": "Clap on 1. Then little finger, ring finger, middle finger. Then clap, wave, clap, wave.",
      "parent": "The 'wave' is the back of the hand touching the thigh, palm up. Go slowly. One count a second is fast enough.",
-     "context": "This is the first step of keeping Adi tala, a beat cycle of 8 counts in Carnatic music. You learn the eight hand moves."
+     "context": "This is the first step of keeping Adi tala, a beat cycle of 8 counts in Carnatic music. You learn the eight hand moves.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "one round of Adi tala",
+        "n": 8
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -1076,7 +1209,16 @@
       }
      ],
      "parent": "There are 16 dots. Dots cannot be slid aside like beans, so your child needs another way to keep track. Going row by row is one.",
-     "context": "This is the first step of Maths in Kolam. You put down 4 rows of 4 dots, the way a dot kolam begins, and count them."
+     "context": "This is the first step of Maths in Kolam. You put down 4 rows of 4 dots, the way a dot kolam begins, and count them.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "row of 4",
+        "n": 4
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -1124,7 +1266,28 @@
       "a": 1,
       "why": "Marking each dot shows which dots already have a number. Counting fast makes it easier to miss a dot or count one twice."
      },
-     "context": "This is step 3 of Maths in Kolam. You put down a diamond of dots and count them by looping a line around each dot."
+     "context": "This is step 3 of Maths in Kolam. You put down a diamond of dots and count them by looping a line around each dot.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "1 dot",
+        "n": 1
+       },
+       {
+        "label": "3 dots",
+        "n": 3
+       },
+       {
+        "label": "5 dots",
+        "n": 5
+       },
+       {
+        "label": "7 dots",
+        "n": 7
+       }
+      ]
+     }
     },
     {
      "id": "s4",
@@ -1203,7 +1366,14 @@
      "do": "1. Cut out the 21 squares, or write them on slips of paper. 2. Lay them in a line from Start to 20. 3. Give each player a button. 4. Read the rules aloud.",
      "say": "This is a race to 20. You must say each number as you land on it.",
      "kid": "Lay the squares in a line, from Start to 20. Put your button on Start.",
-     "context": "This is the first step of Race to 20, a dice game on a track of numbers from 0 to 20. Here you set up the track."
+     "context": "This is the first step of Race to 20, a dice game on a track of numbers from 0 to 20. Here you set up the track.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "The Race to 20 board"
+     }
     },
     {
      "id": "s2",
@@ -1306,7 +1476,16 @@
      "do": "1. Give each player a mat and 20 beans. 2. Put one pair in the first box of your own mat. 3. Point to the number under the box.",
      "say": "Each box holds two beans. The number under the box tells how many beans so far.",
      "kid": "Take a mat and 20 beans. Each box holds two beans.",
-     "context": "This is the first step of Fill the Pairs Mat, a coin game for counting in twos. Each box on the mat holds one pair of beans."
+     "context": "This is the first step of Fill the Pairs Mat, a coin game for counting in twos. Each box on the mat holds one pair of beans.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "the box to fill",
+        "n": 20
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -1530,7 +1709,20 @@
       }
      ],
      "parent": "Most children lose their place somewhere past 20, or when interrupted. That is the point of this step. Do not rescue the count.",
-     "context": "This is the first step of the big heap challenge. You try to count 30 to 60 chana and see what goes wrong."
+     "context": "This is the first step of the big heap challenge. You try to count 30 to 60 chana and see what goes wrong.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "handful 1",
+        "n": 17
+       },
+       {
+        "label": "handful 2",
+        "n": 15
+       }
+      ]
+     }
     },
     {
      "id": "s2",

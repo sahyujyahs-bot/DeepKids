@@ -123,7 +123,30 @@
    ],
    "perspectives": [],
    "art": "Three panels: a paper strip folded into two equal parts, a chikki bar of 6 equal squares with one broken off, and a dosa torn into one big and one small piece with a cross beside it.",
-   "context": "This card explains the main idea of the unit: what a fraction is, and why the parts must be equal."
+   "context": "This card explains the main idea of the unit: what a fraction is, and why the parts must be equal.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "one whole",
+      "parts": 1,
+      "shaded": 0,
+      "round": true
+     },
+     {
+      "label": "half",
+      "parts": 2,
+      "shaded": 1,
+      "round": true
+     },
+     {
+      "label": "quarter",
+      "parts": 4,
+      "shaded": 1,
+      "round": true
+     }
+    ]
+   }
   },
   {
    "concept": "How to say and write a unit fraction",
@@ -151,7 +174,30 @@
    ],
    "perspectives": [],
    "art": "Five strips of the same length stacked under each other, cut into 2, 3, 4, 6 and 8 equal parts, with one part of each shaded so the shaded parts get shorter going down the stack.",
-   "context": "This card explains what you found with the paper strips: why one eighth of a strip is smaller than one third of the same strip."
+   "context": "This card explains what you found with the paper strips: why one eighth of a strip is smaller than one third of the same strip.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "halves",
+      "parts": 2,
+      "shaded": 1,
+      "round": true
+     },
+     {
+      "label": "quarters",
+      "parts": 4,
+      "shaded": 1,
+      "round": true
+     },
+     {
+      "label": "eighths",
+      "parts": 8,
+      "shaded": 1,
+      "round": true
+     }
+    ]
+   }
   },
   {
    "concept": "A fraction of a group",
@@ -165,7 +211,16 @@
    ],
    "perspectives": [],
    "art": "Twelve groundnuts in 4 rings of 3 with one ring shaded, and under it a bar model: a long box labelled 12 split into four boxes, each with 3 written inside.",
-   "context": "This card shows how to find a fraction of a group of things, such as one quarter of 12 groundnuts, with a worked example."
+   "context": "This card shows how to find a fraction of a group of things, such as one quarter of 12 groundnuts, with a worked example.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "12 groundnuts",
+      "n": 12
+     }
+    ]
+   }
   },
   {
    "concept": "The whole decides the size",
@@ -207,7 +262,18 @@
    ],
    "perspectives": [],
    "art": "A strip cut into 4 equal parts with 3 parts shaded and labelled 3/4, above a row of 12 groundnuts in 4 groups of 3 with three groups ringed.",
-   "context": "This card looks ahead. So far every fraction has been one single part. Here you see what happens when you take more than one part."
+   "context": "This card looks ahead. So far every fraction has been one single part. Here you see what happens when you take more than one part.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "three quarters",
+      "parts": 4,
+      "shaded": 3,
+      "round": true
+     }
+    ]
+   }
   },
   {
    "concept": "People wrote fractions in different ways",
@@ -273,7 +339,32 @@
     }
    ],
    "art": "A paper strip being cut in half again and again, the pieces getting smaller towards the right, ending in a magnifying glass over a dot with a question mark.",
-   "context": "This card asks how far halving can go. The answer is different for numbers and for real things."
+   "context": "This card asks how far halving can go. The answer is different for numbers and for real things.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "1/2",
+      "parts": 2,
+      "shaded": 1
+     },
+     {
+      "label": "1/4",
+      "parts": 4,
+      "shaded": 1
+     },
+     {
+      "label": "1/8",
+      "parts": 8,
+      "shaded": 1
+     },
+     {
+      "label": "1/16",
+      "parts": 16,
+      "shaded": 1
+     }
+    ]
+   }
   }
  ],
  "agreed": [
@@ -734,7 +825,16 @@
        ]
       }
      ],
-     "context": "This is the first step of the dice game Small Number, Big Share. You share 12 seeds into equal groups, and the dice tells you how many groups. Here you set up the game."
+     "context": "This is the first step of the dice game Small Number, Big Share. You share 12 seeds into equal groups, and the dice tells you how many groups. Here you set up the game.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "12 seeds",
+        "n": 12
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -1547,7 +1647,37 @@
       "a": 0,
       "why": "One third of a 24 cm strip is 8 cm. One eighth of the same strip is 3 cm. The strip cut into 8 has to share the same paper among more parts, so each part is smaller. Picking 'one eighth' usually means reading the 8 as a size. The 8 counts the parts."
      },
-     "context": "This is the third step of the Strip Test. You compare one piece from each of five paper strips that were cut into 2, 3, 4, 6 and 8 equal parts."
+     "context": "This is the third step of the Strip Test. You compare one piece from each of five paper strips that were cut into 2, 3, 4, 6 and 8 equal parts.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "whole",
+        "parts": 1,
+        "shaded": 0
+       },
+       {
+        "label": "halves",
+        "parts": 2,
+        "shaded": 1
+       },
+       {
+        "label": "thirds",
+        "parts": 3,
+        "shaded": 1
+       },
+       {
+        "label": "quarters",
+        "parts": 4,
+        "shaded": 1
+       },
+       {
+        "label": "sixths",
+        "parts": 6,
+        "shaded": 1
+       }
+      ]
+     }
     },
     {
      "id": "s4",
@@ -1565,7 +1695,16 @@
       }
      ],
      "parent": "The groups should hold 12, 8, 6, 4 and 3 groundnuts. These match the strip lengths, because the strip was 24 cm and there are 24 groundnuts. Wait for your child to spot this.",
-     "context": "This is the fourth step of the Strip Test. After cutting 24 cm paper strips into equal parts, you now share 24 groundnuts into the same numbers of equal groups."
+     "context": "This is the fourth step of the Strip Test. After cutting 24 cm paper strips into equal parts, you now share 24 groundnuts into the same numbers of equal groups.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "24 groundnuts",
+        "n": 24
+       }
+      ]
+     }
     },
     {
      "id": "s5",
@@ -1593,7 +1732,16 @@
       "a": 1,
       "why": "Share 12 into 4 equal groups and each group has 3. The fraction is the same, one quarter, but the whole is smaller, so the amount is smaller. Picking 6 usually means thinking a fraction is a fixed amount. Picking 4 usually means mixing up the number of groups with the number in a group."
      },
-     "context": "This is the fifth step of the Strip Test. You have shared 24 groundnuts into equal groups. Now you change the whole to 12 groundnuts and see what happens to one quarter."
+     "context": "This is the fifth step of the Strip Test. You have shared 24 groundnuts into equal groups. Now you change the whole to 12 groundnuts and see what happens to one quarter.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "12 groundnuts",
+        "n": 12
+       }
+      ]
+     }
     },
     {
      "id": "s6",
@@ -1941,7 +2089,17 @@
       }
      ],
      "parent": "The glass must have straight sides. In a glass that is wider at the top, a quarter of the height is less than a quarter of the drink.",
-     "context": "This is the first step of making neer mor, a thin salted buttermilk. You mark a straight glass in quarters with a folded paper strip."
+     "context": "This is the first step of making neer mor, a thin salted buttermilk. You mark a straight glass in quarters with a folded paper strip.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "the glass",
+        "parts": 4,
+        "shaded": 1
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -2074,7 +2232,17 @@
       "a": 0,
       "why": "The cycle is the whole. It has 8 equal beats. One of 8 equal parts is one eighth. Picking 'eight' usually means giving the number of parts and not the fraction."
      },
-     "context": "This is the second step of clapping Adi tala, a cycle of 8 beats in South Indian music. You draw the 8 beats as boxes and find the fractions in them."
+     "context": "This is the second step of clapping Adi tala, a cycle of 8 beats in South Indian music. You draw the 8 beats as boxes and find the fractions in them.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "Adi tala, 8 beats",
+        "parts": 8,
+        "shaded": 4
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -2137,7 +2305,17 @@
        ]
       }
      ],
-     "context": "This is the first step of My Day in 24 Boxes. You draw one whole day as a strip of 24 equal boxes, one for each hour."
+     "context": "This is the first step of My Day in 24 Boxes. You draw one whole day as a strip of 24 equal boxes, one for each hour.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "one day, 24 hours",
+        "parts": 24,
+        "shaded": 8
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -2231,7 +2409,18 @@
        ]
       }
      ],
-     "context": "This is the first step of One Quarter, Three Shapes. You fold three squares of paper of the same size into quarters in three different ways."
+     "context": "This is the first step of One Quarter, Three Shapes. You fold three squares of paper of the same size into quarters in three different ways.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "one quarter",
+        "parts": 4,
+        "shaded": 1,
+        "round": true
+       }
+      ]
+     }
     },
     {
      "id": "s2",
@@ -2465,7 +2654,30 @@
        ]
       }
      ],
-     "context": "This is the first step of the puzzle Three Dosas, Four People. Three paper dosas must be shared equally among four plates."
+     "context": "This is the first step of the puzzle Three Dosas, Four People. Three paper dosas must be shared equally among four plates.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "dosa 1",
+        "parts": 1,
+        "shaded": 0,
+        "round": true
+       },
+       {
+        "label": "dosa 2",
+        "parts": 1,
+        "shaded": 0,
+        "round": true
+       },
+       {
+        "label": "dosa 3",
+        "parts": 1,
+        "shaded": 0,
+        "round": true
+       }
+      ]
+     }
     },
     {
      "id": "s2",

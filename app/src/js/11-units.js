@@ -69,6 +69,27 @@ function fxImg(u, key, brief, cls) {
   return `<div class="fximg ${cls || ""}${p?.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="fxImgBad(this)" onload="this.parentNode.classList.remove('broken')">${p?.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
+/* a round whole cut into equal parts (a laddu, a dosa, a roti), some parts shaded */
+function fxDisc(r) {
+  const n = r.parts,
+    pt = (i) => [
+      50 + 46 * Math.cos((2 * Math.PI * i) / n - Math.PI / 2),
+      50 + 46 * Math.sin((2 * Math.PI * i) / n - Math.PI / 2),
+    ],
+    cuts =
+      n > 1
+        ? Array.from(
+            { length: n },
+            (_, i) => `<line x1="50" y1="50" x2="${pt(i)[0].toFixed(1)}" y2="${pt(i)[1].toFixed(1)}"/>`,
+          ).join("")
+        : "",
+    on = Array.from(
+      { length: r.shaded || 0 },
+      (_, i) =>
+        `<path d="M50 50 L${pt(i)[0].toFixed(1)} ${pt(i)[1].toFixed(1)} A46 46 0 0 1 ${pt(i + 1)[0].toFixed(1)} ${pt(i + 1)[1].toFixed(1)} Z" class="on"/>`,
+    ).join("");
+  return `<svg class="fxdisc" viewBox="0 0 100 100" role="img" aria-label="${esc(r.label || "round whole")}"><circle cx="50" cy="50" r="46"/>${on}${cuts}</svg>`;
+}
 function fxChart(c) {
   if (!c) return "";
   const T = c.title ? `<p class="fxct">${esc(c.title)}</p>` : "",
@@ -93,9 +114,9 @@ function fxChart(c) {
   if (c.type === "dots")
     return `<figure class="fxchart">${T}<div class="fxcount">${(c.rows || []).map((r) => `<div class="fxcrow"><span class="fxclab">${esc(r.label || "")}</span><span class="fxcdots">${Array.from({ length: r.n }, (_, i) => `<i class="${i % 5 === 4 ? "gap" : ""}"></i>`).join("")}${Array.from({ length: r.more || 0 }, (_, i) => `<i class="more${(r.n + i) % 5 === 4 ? " gap" : ""}"></i>`).join("")}</span></div>`).join("")}</div></figure>`;
   if (c.type === "strip")
-    return `<figure class="fxchart">${T}<div class="fxstrips">${(c.rows || []).map((r) => `<div class="fxstrip"><span class="fxclab">${esc(r.label || "")}</span><span class="fxstripbar" style="width:${r.width || 100}%">${Array.from({ length: r.parts }, (_, i) => `<i class="${i < (r.shaded || 0) ? "on" : ""}"></i>`).join("")}</span></div>`).join("")}</div></figure>`;
+    return `<figure class="fxchart">${T}<div class="fxstrips">${(c.rows || []).map((r) => `<div class="fxstrip"><span class="fxclab">${esc(r.label || "")}</span>${r.round ? fxDisc(r) : `<span class="fxstripbar" style="width:${r.width || 100}%">${Array.from({ length: r.parts }, (_, i) => `<i class="${i < (r.shaded || 0) ? "on" : ""}"></i>`).join("")}</span>`}</div>`).join("")}</div></figure>`;
   if (c.type === "sum")
-    return `<figure class="fxchart">${T}<div class="fxsum">${(c.rows || []).map((r) => `<div>${esc(r)}</div>`).join("")}<div class="fxsumans">${esc(c.answer || "?")}</div></div></figure>`;
+    return `<figure class="fxchart">${T}<div class="fxwork">${(c.rows || []).map((r) => `<div>${esc(r)}</div>`).join("")}<div class="fxworkans">${esc(c.answer || "?")}</div></div></figure>`;
   if (c.type === "scale") {
     const mn = c.min ?? 0,
       mx = c.max ?? 10,
@@ -574,7 +595,7 @@ function fxCards(u) {
         u.explanations.forEach((x, i) =>
           add(
             "expl." + i,
-            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>`,
+            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${fxChart(x.chart)}${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>`,
             x.concept + ". " + (x.definition || "") + " " + (x.description || ""),
           ),
         );

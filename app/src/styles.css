@@ -4849,6 +4849,28 @@ dialog .fxfab {
   display: grid;
   gap: 12px;
 }
+.fxstrip {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.fxdisc {
+  width: 96px;
+  height: 96px;
+}
+.fxdisc circle {
+  fill: var(--surface);
+  stroke: var(--ink);
+  stroke-width: 3;
+}
+.fxdisc line {
+  stroke: var(--ink);
+  stroke-width: 2;
+}
+.fxdisc .on {
+  fill: var(--sun);
+}
 .fxstripbar {
   display: flex;
   height: 38px;
@@ -4866,7 +4888,7 @@ dialog .fxfab {
 .fxstripbar i.on {
   background: var(--sun);
 }
-.fxsum {
+.fxwork {
   display: inline-block;
   min-width: 120px;
   padding: 10px 18px;
@@ -4880,7 +4902,7 @@ dialog .fxfab {
   background: var(--sunk);
   border-radius: var(--r-lg);
 }
-.fxsumans {
+.fxworkans {
   margin-top: 6px;
   padding-top: 6px;
   border-top: 3px solid var(--ink);
@@ -4936,16 +4958,20 @@ dialog .fxfab {
 .fxtbl table {
   border-collapse: collapse;
   width: 100%;
-  font-size: var(--fs-3);
+  font-size: var(--fs-2);
+  table-layout: fixed;
 }
 .fxtbl th,
 .fxtbl td {
   border: 1px solid var(--line);
-  padding: 7px 9px;
+  padding: 6px 4px;
   text-align: left;
+  overflow-wrap: anywhere;
 }
 .fxtbl th {
   background: var(--sunk);
+  font-size: var(--fs-1);
+  overflow-wrap: normal;
 }
 .fxvid {
   aspect-ratio: 16/9;

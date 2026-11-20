@@ -140,7 +140,28 @@
     "In the Rice Test, ten tablespoons of a thousand grains made ten thousand, and ten tumblers of ten thousand made a lakh."
    ],
    "perspectives": [],
-   "art": "A place value chart with seven columns from ten lakhs down to ones, the number 3,45,678 written in it, and a curved arrow marked '×10' jumping from each column to the one on its left."
+   "art": "A place value chart with seven columns from ten lakhs down to ones, the number 3,45,678 written in it, and a curved arrow marked '×10' jumping from each column to the one on its left.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "Lakh",
+     "Ten thousand",
+     "Thousand",
+     "Hundred",
+     "Ten",
+     "One"
+    ],
+    "rows": [
+     [
+      "×100000",
+      "×10000",
+      "×1000",
+      "×100",
+      "×10",
+      "×1"
+     ]
+    ]
+   }
   },
   {
    "concept": "The Indian system: thousands, lakhs and crores",
@@ -183,7 +204,28 @@
     "1,00,00,000 = 10,000,000. One crore is ten million."
    ],
    "perspectives": [],
-   "art": "One strip of digits 1 2 0 0 0 0 0 drawn twice, once with beans as commas the Indian way (12,00,000) and once the international way (1,200,000), with an equals sign between them."
+   "art": "One strip of digits 1 2 0 0 0 0 0 drawn twice, once with beans as commas the Indian way (12,00,000) and once the international way (1,200,000), with an equals sign between them.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "Indian",
+     "International"
+    ],
+    "rows": [
+     [
+      "1 lakh",
+      "100 thousand"
+     ],
+     [
+      "10 lakh",
+      "1 million"
+     ],
+     [
+      "1 crore",
+      "10 million"
+     ]
+    ]
+   }
   },
   {
    "concept": "Zero holds an empty place",
@@ -197,7 +239,28 @@
     "A zero at the far left changes nothing: 045 is still forty-five."
    ],
    "perspectives": [],
-   "art": "A place value chart showing 4,05,000 with the zero in the ten thousands column circled, and beside it the digits 4 and 5 squeezed together as 45 with a cross through them."
+   "art": "A place value chart showing 4,05,000 with the zero in the ten thousands column circled, and beside it the digits 4 and 5 squeezed together as 45 with a cross through them.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "Lakh",
+     "Ten thousand",
+     "Thousand",
+     "Hundred",
+     "Ten",
+     "One"
+    ],
+    "rows": [
+     [
+      "4",
+      "0",
+      "5",
+      "0",
+      "0",
+      "0"
+     ]
+    ]
+   }
   },
   {
    "concept": "Expanded form: taking a number apart",
@@ -211,7 +274,36 @@
     "In 7,77,777 the face value of every digit is 7, but the six place values are all different."
    ],
    "perspectives": [],
-   "art": "The number 4,07,265 with each digit joined by a line to its value below: 4,00,000, 7,000, 200, 60 and 5, and plus signs between them."
+   "art": "The number 4,07,265 with each digit joined by a line to its value below: 4,00,000, 7,000, 200, 60 and 5, and plus signs between them.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "Lakh",
+     "Ten thousand",
+     "Thousand",
+     "Hundred",
+     "Ten",
+     "One"
+    ],
+    "rows": [
+     [
+      "2",
+      "3",
+      "6",
+      "4",
+      "5",
+      "1"
+     ],
+     [
+      "2,00,000",
+      "30,000",
+      "6,000",
+      "400",
+      "50",
+      "1"
+     ]
+    ]
+   }
   },
   {
    "concept": "Multiplying and dividing by 10, 100 and 1,000",
@@ -225,7 +317,15 @@
     "One lakh ÷ 100 = 1,000. So one lakh rupees is one thousand ₹100 notes."
    ],
    "perspectives": [],
-   "art": "Two place value charts, one above the other: 4,725 in the top chart and 47,250 in the bottom chart, with four slanted arrows showing each digit sliding one column to the left and a zero dropping into the ones column."
+   "art": "Two place value charts, one above the other: 4,725 in the top chart and 47,250 in the bottom chart, with four slanted arrows showing each digit sliding one column to the left and a zero dropping into the ones column.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "4,725",
+     "× 10"
+    ],
+    "answer": "47,250"
+   }
   },
   {
    "concept": "How big is one lakh?",
@@ -749,7 +849,30 @@
        ]
       }
      ],
-     "context": "This is the first step of Two Commas, One Number, where you move bean commas along a strip of digits. You write the digits and guess what moving the commas will do."
+     "context": "This is the first step of Two Commas, One Number, where you move bean commas along a strip of digits. You write the digits and guess what moving the commas will do.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Ten lakh",
+       "Lakh",
+       "Ten thou.",
+       "Thou.",
+       "Hund.",
+       "Ten",
+       "One"
+      ],
+      "rows": [
+       [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+       ]
+      ]
+     }
     },
     {
      "id": "s2",
@@ -1023,7 +1146,28 @@
       }
      ],
      "parent": "A price in crores will not fit in seven columns. Add a column on the left, or choose another number.",
-     "context": "This is step 2 of the Big-Number Hunt, where you collect real numbers from the market and the screen. You write the newspaper prices in a place value chart."
+     "context": "This is step 2 of the Big-Number Hunt, where you collect real numbers from the market and the screen. You write the newspaper prices in a place value chart.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Lakh",
+       "Ten thousand",
+       "Thousand",
+       "Hundred",
+       "Ten",
+       "One"
+      ],
+      "rows": [
+       [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+       ]
+      ]
+     }
     },
     {
      "id": "s3",
@@ -1159,7 +1303,16 @@
       "a": 1,
       "why": "One lakh divided by 100 is 1,000. Every digit moves two places to the right. Picking 100 would give only ten thousand rupees."
      },
-     "context": "This is step 2 of Bundles at the Bank, where you make one lakh rupees from paper notes. You make one lakh rupees from ₹100 notes."
+     "context": "This is step 2 of Bundles at the Bank, where you make one lakh rupees from paper notes. You make one lakh rupees from ₹100 notes.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "₹100 notes",
+        "n": 10
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -1413,7 +1566,28 @@
       "why": "The lakhs place is worth the most, so a 9 there adds nine lakh. In the ones place it adds only nine."
      },
      "parent": "The hard choices are the middle digits. A 5 on the first turn has no safe box. Let your child feel that and choose.",
-     "context": "This is step 2 of Place It, a card game where you build the biggest six-digit number. You play a practice round and talk about where to put high and low digits."
+     "context": "This is step 2 of Place It, a card game where you build the biggest six-digit number. You play a practice round and talk about where to put high and low digits.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Lakh",
+       "Ten thousand",
+       "Thousand",
+       "Hundred",
+       "Ten",
+       "One"
+      ],
+      "rows": [
+       [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+       ]
+      ]
+     }
     },
     {
      "id": "s3",
@@ -1804,7 +1978,26 @@
       }
      ],
      "parent": "Some finger shapes are hard to hold. Your child can use the other hand to keep a finger down.",
-     "context": "This is step 3 of the five-finger challenge, where you send any number up to 31 with one hand. You use fingers as places worth 16, 8, 4, 2 and 1."
+     "context": "This is step 3 of the five-finger challenge, where you send any number up to 31 with one hand. You use fingers as places worth 16, 8, 4, 2 and 1.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Thumb",
+       "Index",
+       "Middle",
+       "Ring",
+       "Little"
+      ],
+      "rows": [
+       [
+        "16",
+        "8",
+        "4",
+        "2",
+        "1"
+       ]
+      ]
+     }
     },
     {
      "id": "s4",
