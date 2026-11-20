@@ -1612,6 +1612,24 @@
      "say": "Now everyone has ₹5, and each thing costs ₹5. Can Kavya get her pencil now?",
      "kid": "Now each person has ₹5. Each thing costs ₹5. Help Kavya buy the pencil.",
      "parent": "Farhan takes the coin though he does not want a coin. He takes it because he knows Meena will take it for the balloon.",
+     "chart": {
+      "type": "dots",
+      "title": "Now everyone has one coin",
+      "rows": [
+       {
+        "label": "Kavya: ₹5 coin",
+        "n": 1
+       },
+       {
+        "label": "Farhan: ₹5 coin",
+        "n": 1
+       },
+       {
+        "label": "Meena: ₹5 coin",
+        "n": 1
+       }
+      ]
+     },
      "context": "This is step 2 of the Swap Game. Now each person has a ₹5 coin and each thing costs ₹5."
     },
     {
@@ -2142,6 +2160,15 @@
       "why": "5 and 2 make 7. The price is 8, so the customer must give ₹1 more. A shopkeeper counts the rupees every time."
      },
      "parent": "If your child misses the short payment, do not point it out at once. Ask them to count it once more, pushing each coin.",
+     "chart": {
+      "type": "sum",
+      "title": "A customer pays this for the ₹8 comb",
+      "rows": [
+       "₹5",
+       "+ ₹2"
+      ],
+      "answer": "?"
+     },
      "context": "This is day 3 of Our Home Shop, a three-day project. You are the shopkeeper and you check every payment."
     }
    ]

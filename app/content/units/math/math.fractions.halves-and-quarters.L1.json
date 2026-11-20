@@ -1441,10 +1441,15 @@
       }
      ],
      "check": {
-      "t": "truefalse",
-      "q": "A groundnut seed is made of two parts that nearly match.",
-      "a": true,
-      "why": "True. The seed opens into two parts of nearly the same size and shape. A grain of dal is one such part from another kind of seed."
+      "t": "mcq",
+      "q": "You rub the skin off a groundnut seed and press. How many matching parts does the seed open into?",
+      "options": [
+       "1",
+       "2",
+       "4"
+      ],
+      "a": 1,
+      "why": "2. The seed opens into two parts of nearly the same size and shape. A grain of dal is one such part from another kind of seed."
      },
      "parent": "Toor dal is the seed of the pigeon pea plant, with the skin taken off and the two halves split apart. Chana dal is a split chickpea.",
      "context": "This is the last step of Open a Seed, where you look inside a groundnut. You look at grains of dal."
@@ -1914,7 +1919,7 @@
        {
         "label": "one ball of dough",
         "parts": 1,
-        "shaded": 1,
+        "shaded": 0,
         "round": true
        },
        {

@@ -2030,7 +2030,7 @@
      "do": "1. Out of sight, put 5, 8, 11 and 14 beans in four marked cups. 2. Mix up the cups. 3. Explain the rules. 4. Your child picks any two cups and partners their beans. 5. Note which cup had more. Put the beans back.",
      "say": "Line these cups up from fewest to most. No counting. You may partner two cups at a time.",
      "kid": "Pick two cups. Tip them out in two rows. Partner the beans. Which cup had more?",
-     "parent": "Keep the two rows well apart so that each bean goes back to its own cup. If beans get mixed, count them back yourself, quietly.",
+     "parent": "Keep the two rows well apart so that every bean goes back to the right cup. If beans get mixed, count them back yourself, quietly.",
      "context": "This is the first step of Four Cups, a challenge where you order four cups of beans without counting. Here you compare the first two cups.",
      "chart": {
       "type": "table",
@@ -3431,7 +3431,7 @@
    "what_is_life": "A lioness hears that three strangers are more than one. An elephant smells which bucket holds more seeds. Many living beings compare.",
    "what_is_this_world": "The Sun looks as small as the Moon. But the Sun is far bigger, and very far away. To know what is bigger, we must compare with care."
   },
-  "thread": "Think of one bean alone on a plate. Is it more? Is it fewer? You cannot say. Put a second bean beside it, and now there is one and one more. Add many beans, and you can make rows and put them in order. So more, fewer, bigger and smaller all begin when one becomes two.",
+  "thread": "Think of one bean alone on a plate. Is it more? Is it fewer? You cannot say. Put a second bean on the plate, and now there is one and one more. Add many beans, and you can make rows and put them in order. So more, fewer, bigger and smaller all begin when one becomes two.",
   "teachings": [
    {
     "source": "Tao Te Ching 2",
