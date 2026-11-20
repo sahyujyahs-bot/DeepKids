@@ -82,7 +82,7 @@ A coppersmith barbet is a small green bird with a red forehead, who lives in man
 - e.g. A barbet's call: tuk, tuk, tuk, tuk.
 - e.g. A hawk-cuckoo's call: three notes, then the same three notes again, louder.
 - e.g. A maize plant's leaves: left, right, left, right.
-- **What the barbet is doing:** The barbet keeps a steady beat for minutes at a time, as a drummer does. Other barbets hear the call and know who is there.
+- **One view:** The barbet keeps a steady beat for a long time, as a drummer does. Keeping a beat is a skill, and the bird is using that skill.
 - **Some scientists:** They say the call is an automatic habit of the bird's body, and that the bird is not making a pattern on purpose.
 ### Can you ever be sure what comes next? · *debated*
 **Definition:** A few beads can fit more than one rule. The maker of the pattern is the one who knows the rule.
