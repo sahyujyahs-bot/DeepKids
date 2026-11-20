@@ -1,0 +1,3859 @@
+{
+ "id": "math.addition-subtraction.meaning.L1",
+ "title": "Putting together and taking away",
+ "level": 1,
+ "cards_mins": 10,
+ "summary": {
+  "text": "There were 7 beans. A cup hides some of them, and you can still tell how many are under it. How? You will put heaps of beans together and take beans away, to find out what each does to a number. You will test whether 5 and 3 make the same as 3 and 5, and whether taking away works the same way. You will learn to write it as a sum, with the signs +, − and =. And you will find that one move can be taking away for you and adding for someone else.",
+  "art": "A girl and her mother on a kitchen floor with two small steel plates of rajma beans and one big plate between them, the girl tipping one small plate onto the big one."
+ },
+ "intro": {
+  "hook": "There were 7 beans. Now you can see only 4. How many are hiding under the cup?",
+  "text": "3 beans are under the cup. Here is one way to know. Start at 4 and count on until you reach 7: 5, 6, 7. That is 3 more. Nobody had to lift the cup. When things are put together or taken away, you can work out the new number without seeing them all. In this unit you will find out how, with beans.",
+  "art": "An upturned steel tumbler on a floor with four beans beside it, and a child bending down to peek under its rim.",
+  "chart": {
+   "type": "dots",
+   "rows": [
+    {
+     "label": "at first",
+     "n": 7
+    },
+    {
+     "label": "now you can see",
+     "n": 4
+    }
+   ]
+  }
+ },
+ "outcomes": [
+  "I can put two groups together and say how many there are in all, up to 20.",
+  "I can take some away from a group and say how many are left.",
+  "I can read and write a sum with the signs +, − and =.",
+  "I can count on to add and count back to take away, on a number line.",
+  "I can show that adding works in either order, and that taking away does not.",
+  "I can say what happens when I add zero, take away zero, or take away everything.",
+  "I can say that one move can be taking away for one person and adding for another.",
+  "I can give a total a name that fits both groups: 3 idlis and 2 vadas are 5 things to eat."
+ ],
+ "terms": [
+  {
+   "term": "Add",
+   "meaning": "To put two groups together and find how many there are in all.",
+   "example": "4 spoons and 2 more spoons. You add them and get 6 spoons.",
+   "art": "Four spoons and two spoons being pushed together into one row of six."
+  },
+  {
+   "term": "Plus (+)",
+   "meaning": "The sign for adding. It means 'put together'.",
+   "example": "4 + 2 is read 'four plus two'.",
+   "art": "A big plus sign between a group of four dots and a group of two dots."
+  },
+  {
+   "term": "Total",
+   "meaning": "How many there are in all, after adding.",
+   "example": "5 idlis and 3 idlis. The total is 8 idlis.",
+   "art": "A plate of eight idlis with a loop drawn around all of them and the number 8."
+  },
+  {
+   "term": "Take away",
+   "meaning": "To remove some from a group and find how many are left. The maths word is subtract.",
+   "example": "8 bananas. You take away 3. There are 5 left.",
+   "art": "A bunch of eight bananas with a hand pulling three off."
+  },
+  {
+   "term": "Minus (−)",
+   "meaning": "The sign for taking away.",
+   "example": "8 − 3 is read 'eight minus three'.",
+   "art": "A big minus sign between a group of eight dots and a group of three dots."
+  },
+  {
+   "term": "Left",
+   "meaning": "What is still there after some have been taken away.",
+   "example": "9 dosas were made and 4 were eaten. 5 dosas are left.",
+   "art": "A plate with five dosas on it and four empty spaces drawn as dashed rings."
+  },
+  {
+   "term": "Equals (=)",
+   "meaning": "The sign that says both sides are the same amount.",
+   "example": "4 + 2 = 6 means that 4 and 2 together are the same amount as 6.",
+   "art": "A balance with four beans and two beans on one pan and six beans on the other, level, with an equals sign above."
+  },
+  {
+   "term": "Sum",
+   "meaning": "A short way to write adding or taking away, with numbers and signs. It is also called a number sentence.",
+   "example": "5 + 3 = 8 is a sum. So is 8 − 3 = 5.",
+   "art": "A child's slate with 5 + 3 = 8 written on it in chalk and eight beans below."
+  },
+  {
+   "term": "Count on",
+   "meaning": "To start from a number you already know and say the next numbers. It is a way to add.",
+   "example": "For 9 + 3, start at 9 and say 10, 11, 12.",
+   "art": "A number line with three small hops forward from 9 to 12."
+  },
+  {
+   "term": "Count back",
+   "meaning": "To start from a number and say the numbers before it. It is a way to take away.",
+   "example": "For 9 − 3, start at 9 and say 8, 7, 6.",
+   "art": "A number line with three small hops backward from 9 to 6."
+  },
+  {
+   "term": "Zero (0)",
+   "meaning": "None. Not any.",
+   "example": "5 laddus were on the plate and all 5 were eaten. Zero laddus are left.",
+   "art": "An empty steel plate with a few crumbs and the numeral 0 above it."
+  },
+  {
+   "term": "Number line",
+   "meaning": "A line with the numbers written along it in counting order.",
+   "example": "On a number line, 7 comes just after 6 and just before 8.",
+   "art": "A chalk number line from 0 to 20 drawn on a floor, with a child's foot on 7."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Adding is putting together",
+   "status": "defined",
+   "context": "This card says what adding is, with a worked example. You did it in the Two Plates Test when you tipped two heaps of beans together.",
+   "definition": "To add is to put two groups together and find how many there are in all.",
+   "description": "Here is a worked example. There are 5 idlis on the plate. Paati puts 3 more on it. To find how many there are now, you can count them all: 1, 2, 3, 4, 5, 6, 7, 8. Or you can count on. You know there are 5, so start at 5 and say 6, 7, 8. Either way there are 8 idlis. We say '5 and 3 make 8', or '5 plus 3 equals 8'. The answer is called the total. Now you try: put 4 spoons and 2 spoons together.",
+   "examples": [
+    "4 red bangles and 2 green bangles make 6 bangles.",
+    "7 children are in the auto. 1 more gets in. Now there are 8.",
+    "10 beans in a full ten-frame and 4 beans beside it make 14 beans."
+   ],
+   "perspectives": [],
+   "art": "A steel plate with five idlis and a grandmother's hand adding three more from a steamer plate.",
+   "chart": {
+    "type": "dots",
+    "title": "5 idlis, and 3 more coming",
+    "rows": [
+     {
+      "label": "idlis on the plate",
+      "n": 5,
+      "more": 3
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Subtracting is taking away",
+   "status": "defined",
+   "context": "This card says what taking away is, with a worked example. You did it in the Two Plates Test when you took 3 beans from 8.",
+   "definition": "To subtract is to take some away from a group and find how many are left.",
+   "description": "Here is a worked example. There are 8 bananas in the bunch. The family eats 3. To find how many are left, take 3 away and count the rest: 5. Or count back three from 8: 7, 6, 5. We say '8 take away 3 leaves 5', or '8 minus 3 equals 5'. When you take some away, the number left is smaller than the number you started with. It stays the same only when you take away nothing. Now you try: take 2 spoons away from 6 spoons.",
+   "examples": [
+    "9 dosas were made. 4 were eaten. 5 dosas are left.",
+    "6 crows sat on the wire. 2 flew off. 4 crows are still there.",
+    "12 eggs were in the tray. Amma used 2 for the curry. 10 eggs are left."
+   ],
+   "perspectives": [],
+   "art": "A bunch of eight bananas on a table with three peeled skins beside it and five bananas still on the bunch.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "bananas at first",
+      "n": 8
+     },
+     {
+      "label": "eaten",
+      "n": 3
+     },
+     {
+      "label": "left",
+      "n": 5
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Writing it down: the signs +, − and =",
+   "status": "defined",
+   "context": "This card shows how to write adding and taking away with signs, so that anyone can read it.",
+   "definition": "A sum is a short way to write adding or taking away. It uses numbers and the signs +, − and =.",
+   "description": "The sign + is read 'plus'. It means put together. The sign − is read 'minus'. It means take away. The sign = is read 'equals'. It means that both sides are the same amount. So '5 and 3 make 8' is written 5 + 3 = 8. And '8 take away 3 leaves 5' is written 8 − 3 = 5. You can also write a sum going down, one number under the other, with a line above the answer. Both ways say the same thing. People chose these signs, and they could have chosen others. An old Indian maths book, the Bakhshali manuscript, was written more than a thousand years ago. In it, a small cross after a number meant 'take this away'.",
+   "examples": [
+    "2 + 2 = 4 is read 'two plus two equals four'.",
+    "10 − 1 = 9 is read 'ten minus one equals nine'.",
+    "5 = 5 is true. 5 = 6 is not true, because the two sides are not the same amount."
+   ],
+   "perspectives": [],
+   "art": "A slate showing 5 + 3 = 8 written across, and beside it the same sum written going down with a line above the 8.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "5",
+     "+ 3"
+    ],
+    "answer": "8",
+    "title": "5 + 3 = 8, written going down"
+   }
+  },
+  {
+   "concept": "Adding works in either order. Taking away does not.",
+   "status": "defined",
+   "context": "In the Two Plates Test you tipped two heaps together in both orders, and you tried to take away in both orders. This card says what you found.",
+   "definition": "When you add two numbers, you can swap them and the total stays the same. When you take away, you cannot swap them.",
+   "description": "You tipped 5 beans and then 3 beans. You got 8. Then you tipped 3 beans and then 5 beans. You got 8 again. They are the same beans, so the total cannot change. This is true for every pair of numbers: 9 + 7 and 7 + 9 are both 16. It is also a useful trick. To work out 2 + 9, start with the bigger number, 9, and count on only two: 10, 11. Taking away is different. 8 − 3 is 5. But with beans you cannot do 3 − 8, because after you take 3 the plate is empty.",
+   "examples": [
+    "6 + 4 = 10 and 4 + 6 = 10.",
+    "1 + 8 is quicker as 8 + 1. Start at 8 and count on one: 9.",
+    "7 − 2 = 5. But 2 − 7 cannot be done with 2 beans."
+   ],
+   "perspectives": [],
+   "art": "Two big plates side by side, each holding the same eight beans, one labelled '5 then 3' and the other '3 then 5'.",
+   "chart": {
+    "type": "dots",
+    "title": "Count each row. Both rows are 8.",
+    "rows": [
+     {
+      "label": "5 first, then 3",
+      "n": 5,
+      "more": 3
+     },
+     {
+      "label": "3 first, then 5",
+      "n": 3,
+      "more": 5
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Counting on and counting back on a number line",
+   "status": "defined",
+   "context": "This card shows how to add and take away by hopping along a number line. You use it in the game Heads Add, Tails Take Away.",
+   "definition": "A number line is a line of numbers in counting order. To add, you hop forward. To take away, you hop back.",
+   "description": "Here is a worked example of adding. For 9 + 4, put your finger on 9. Hop forward four times: 10, 11, 12, 13. You land on 13, so 9 + 4 = 13. Here is a worked example of taking away. For 13 − 4, put your finger on 13. Hop back four times: 12, 11, 10, 9. You land on 9, so 13 − 4 = 9. Be careful about one thing. The number you start on is not a hop. Your first hop lands on the next number.",
+   "examples": [
+    "6 + 3: start on 6 and hop 7, 8, 9. The answer is 9.",
+    "15 − 2: start on 15 and hop back 14, 13. The answer is 13.",
+    "17 + 3: start on 17 and hop 18, 19, 20. The answer is 20."
+   ],
+   "perspectives": [],
+   "art": "A number line from 0 to 20 with a finger on 9 and four curved hops forward landing on 13.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 20,
+    "step": 1,
+    "title": "Start on 9. Hop forward 4. Where do you land?",
+    "value": 9
+   }
+  },
+  {
+   "concept": "Sums up to 20 with a ten-frame",
+   "status": "defined",
+   "context": "This card shows how to add and take away with beans when the numbers go past ten.",
+   "definition": "A ten-frame is a box with ten spaces, in two rows of five. A full frame is ten. So you can see a number from 11 to 20 as ten and some more.",
+   "description": "Here is a worked example. For 8 + 5, put 8 beans in a ten-frame. Hold 5 more beans in your hand. Two spaces in the frame are empty, so 2 of your beans fill them. Now the frame is full, and that is 10. You still have 3 beans, and they go beside the frame. Ten and three is 13. So 8 + 5 = 13. To take away, lift beans off. For 13 − 5, lift the 3 loose beans first, and then 2 more from the frame. 8 beans are left.",
+   "examples": [
+    "10 + 6 = 16: a full frame and 6 more.",
+    "9 + 2: one bean fills the frame and the other bean stays outside. That is 11.",
+    "14 − 4 = 10: lift the 4 loose beans, and the full frame is left."
+   ],
+   "perspectives": [],
+   "art": "A ten-frame drawn on paper with eight beans in it and a child's hand holding five more beans above the two empty spaces.",
+   "chart": {
+    "type": "dots",
+    "title": "There is a gap after every 5. Two fives make ten.",
+    "rows": [
+     {
+      "label": "8 beans, and 5 more",
+      "n": 8,
+      "more": 5
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Adding nothing, taking away nothing, taking away everything",
+   "status": "defined",
+   "context": "This card is about sums with zero in them.",
+   "definition": "Zero means none. Adding zero or taking away zero leaves a number as it was. Taking away all of a number leaves zero.",
+   "description": "Put 6 beans on a plate. Add no beans. There are still 6, so 6 + 0 = 6. Take no beans away. There are still 6, so 6 − 0 = 6. Now take all 6 away. The plate is empty, so 6 − 6 = 0. An Indian mathematician named Brahmagupta wrote these rules down in the year 628, in a book in Sanskrit. They are the oldest rules we know of for adding and taking away with zero.",
+   "examples": [
+    "4 + 0 = 4. Nothing was added.",
+    "9 − 0 = 9. Nothing was taken away.",
+    "5 − 5 = 0. Five laddus were on the plate, five were eaten, and none are left."
+   ],
+   "perspectives": [],
+   "art": "Three steel plates in a row: six beans, six beans with an empty hand above, and an empty plate.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "6 beans",
+      "n": 6
+     },
+     {
+      "label": "6 + 0",
+      "n": 6
+     },
+     {
+      "label": "6 − 6",
+      "n": 0
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Taking away here is adding there",
+   "status": "defined",
+   "context": "In the Two Plates Test you gave 2 of your beans to your grown-up. This card says what happened to the numbers.",
+   "definition": "When things move from one place to another, one place has fewer and the other has more. The number in both places together does not change.",
+   "description": "You had 5 beans and your grown-up had 5. You gave 2. Your plate went from 5 down to 3. That is 5 − 2 = 3. Their plate went from 5 up to 7. That is 5 + 2 = 7. It was one move. For you it was taking away. For them it was adding. Together you still had 10 beans. The same thing happens when Amma takes 2 idlis from the big plate and puts them on yours. The big plate has 2 fewer, and your plate has 2 more.",
+   "examples": [
+    "4 people get off the bus at a stop. The bus has 4 fewer people and the stop has 4 more.",
+    "You pour water from a jug into a tumbler. The jug has less and the tumbler has more.",
+    "In the game Pallanguzhi, seeds move from cup to cup. One cup has fewer and the next cups have more."
+   ],
+   "perspectives": [],
+   "art": "Two small plates of beans with an arrow showing two beans moving from the child's plate to the mother's plate.",
+   "chart": {
+    "type": "dots",
+    "title": "One move: 2 beans go across",
+    "rows": [
+     {
+      "label": "you, before",
+      "n": 5
+     },
+     {
+      "label": "grown-up, before",
+      "n": 5
+     },
+     {
+      "label": "you, after",
+      "n": 3
+     },
+     {
+      "label": "grown-up, after",
+      "n": 7
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Before you add: one name for both heaps",
+   "status": "defined",
+   "context": "This card is about a choice people make before they add. You try it in the activity Five What?",
+   "definition": "You can add two groups when you count both as the same kind of thing. The total gets a name that fits both groups.",
+   "description": "Put 3 idlis and 2 vadas on a plate. Are there 5? It depends on what you are counting. There are not 5 idlis, and there are not 5 vadas. But there are 5 things to eat. To add the two groups, you first choose a name that fits both. In the same way, 4 tomatoes and 3 onions make 7 vegetables. And 2 girls and 3 boys make 5 children. The sum 3 + 2 = 5 is always right. What people choose is which things to count under one name.",
+   "examples": [
+    "5 chappals and 2 shoes are 7 pieces of footwear.",
+    "2 cats and 2 crows are 4 animals. They are not 4 cats.",
+    "If someone asks 'How many idlis?', the answer is still 3. The vadas are not counted."
+   ],
+   "perspectives": [],
+   "art": "A banana leaf with three idlis and two vadas, and three labels pointing at it: '3 idlis', '2 vadas', '5 things to eat'.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "idlis",
+      "n": 3
+     },
+     {
+      "label": "vadas",
+      "n": 2
+     },
+     {
+      "label": "things to eat",
+      "n": 5
+     }
+    ]
+   }
+  },
+  {
+   "concept": "When 1 and 1 do not make 2: drops and dough",
+   "status": "defined",
+   "context": "This card is about things that join when you put them together. You try it in the activity When 1 and 1 Make 1.",
+   "definition": "Adding numbers fits things that stay separate when you put them together. Some things do not stay separate. They join into one.",
+   "description": "Put one drop of water on a dry steel plate. Put another drop beside it. Push them together with your finger. Now there is one drop, not two. The same happens when two balls of chapati dough are pressed together: one ball. Is 1 + 1 = 2 wrong? No. The big drop has all the water of both small drops. If you measure the water in spoonfuls, or weigh the dough, the adding works. It does not work for counting drops or balls, because they did not stay separate. So before you add, check what you are counting.",
+   "examples": [
+    "2 heaps of rice pushed together make 1 heap. But 2 cups of rice and 1 cup of rice still make 3 cups of rice.",
+    "2 beans stay 2 beans, however close you push them.",
+    "1 rope tied to 1 rope makes 1 longer rope."
+   ],
+   "perspectives": [],
+   "art": "A steel plate with two water drops and a finger pushing them, and beside it the same plate with one bigger drop.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "drops before",
+      "n": 2
+     },
+     {
+      "label": "drops after",
+      "n": 1
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Adding and taking away are happening all around you",
+   "status": "defined",
+   "context": "This card looks for adding and taking away in your own body, in the sky and in the kitchen.",
+   "definition": "Many changes around you are one of two kinds. Something joins, or something leaves.",
+   "description": "Look in your own mouth. A small child has 20 milk teeth, 10 on top and 10 below. From about the age of six they fall out, a few each year, and bigger teeth grow in their place. Each tooth that falls is 'take away one'. Look at the Moon. For about two weeks the bright part grows a little every night, until the full Moon. Then for about two weeks it shrinks a little every night, until the new Moon. The Indian calendar cuts the growing time into 15 steps and the shrinking time into 15 steps. Each step is called a tithi. Look at the bananas on the table. Every day there are fewer, until someone buys more.",
+   "examples": [
+    "A hen lays an egg. Now the nest has one more.",
+    "A neem tree drops old leaves and grows new ones.",
+    "People get on and off a bus at every stop."
+   ],
+   "perspectives": [],
+   "art": "A smiling six-year-old girl showing a gap where a front milk tooth has fallen out, with a thin crescent Moon in the window behind her.",
+   "chart": {
+    "type": "dots",
+    "title": "A small child's 20 milk teeth",
+    "rows": [
+     {
+      "label": "top teeth",
+      "n": 10
+     },
+     {
+      "label": "bottom teeth",
+      "n": 10
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Chicks, bees and babies follow adding and taking away too",
+   "status": "debated",
+   "context": "This card is about other living beings, and human babies, keeping track of things added and taken away. It says what scientists found and what they still argue about.",
+   "description": "Humans are not the only animals who can follow adding and taking away. In 2009 Rosa Rugani and other scientists in Italy tested chicks who were about three days old. Each chick had grown up with five small yellow balls and liked to stay near them. While the chick watched, the scientists hid some balls behind one screen and some behind another. Then they moved balls from one screen to the other, one at a time. The chick could not see behind the screens. When the chick was let go, about three times in four they walked to the screen with more balls behind it. In 2019 Scarlett Howard and other scientists in Australia trained 14 honeybees. A blue picture meant 'choose the picture with one more shape'. A yellow picture meant 'choose the one with one fewer'. The bees were right about two times in three. And in 1992 Karen Wynn tested human babies who were five months old. The babies looked for longer when one doll and one more doll seemed to make only one doll.",
+   "examples": [
+    "A chick sees 4 balls go behind one screen and 1 behind the other. Then 2 are moved across. Now it is 2 and 3, and the chick walks to the 3.",
+    "A bee sees 2 blue shapes, flies on, and picks the picture with 3 shapes.",
+    "A baby sees one doll go behind a screen, and then one more. The screen drops and only one doll is there. The baby stares for longer."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who say this is adding and taking away",
+     "explanation": "The chicks could not see the balls at the end. To choose right, they had to keep track of each ball that was added and each ball that was taken away. That is what adding and taking away are."
+    },
+    {
+     "who": "Scientists who are more careful",
+     "explanation": "The numbers were small, five or fewer. The chicks and the babies may be keeping track of each thing one by one, in a way that is not like our numbers. And the babies may have been looking at how much doll they could see, not how many dolls. So it is safer to say that these beings keep track of more and fewer in their own way."
+    }
+   ],
+   "art": "A small yellow chick in a white arena looking at two upright screens, with a yellow ball being moved on a thread from one screen to the other.",
+   "chart": {
+    "type": "dots",
+    "title": "Then 2 balls move from A to B. Which screen hides more now?",
+    "rows": [
+     {
+      "label": "screen A at first",
+      "n": 4
+     },
+     {
+      "label": "screen B at first",
+      "n": 1
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Stretch: can you take away more than you have?",
+   "status": "defined",
+   "context": "This card goes further than Class 1. It is for a child who asks what happens when you try to take 8 from 5.",
+   "definition": "A debt is what you owe. People use numbers below zero to write a debt.",
+   "description": "With beans you cannot take 8 away from 5. After 5 the plate is empty. But think about money. You have 5 rupees and you must pay 8. You pay your 5, and you still owe 3. People found ways to write 'owe 3'. In China, more than 1,700 years ago, the mathematician Liu Hui wrote about counting sticks in two colours. Red sticks stood for what you have, and black sticks for what you owe. In India, Brahmagupta wrote rules for 'fortunes' and 'debts' in the year 628. Today we write a debt of 3 as −3, and we read it 'minus three'. On a number line it sits three hops to the left of zero.",
+   "examples": [
+    "A lift goes down from floor 0 to the basement. Some lifts show the basement as −1.",
+    "A cold night is 2 degrees. It gets 5 degrees colder. Now it is 3 degrees below zero.",
+    "Meena has 4 seeds and must give 6. She gives 4 and owes 2."
+   ],
+   "perspectives": [],
+   "art": "A number line running from −5 to 5 with zero in the middle, red sticks laid above the numbers to the right and black sticks above the numbers to the left.",
+   "chart": {
+    "type": "scale",
+    "min": -5,
+    "max": 5,
+    "step": 1,
+    "title": "A number line that goes below zero. The pointer is on −3.",
+    "value": -3
+   }
+  }
+ ],
+ "agreed": [
+  {
+   "text": "When you add two heaps, you can start with either heap. The total is the same.",
+   "evidence": "Anyone can test it with beans. Tip 5 and then 3, and count. Tip 3 and then 5, and count. It is 8 both times, because they are the same beans. You tested this in the Two Plates Test."
+  },
+  {
+   "text": "If you take some beans away from a heap, fewer beans are left. Never more.",
+   "evidence": "Take 1, 2 or 3 beans from a heap of 8 and count what is left each time: 7, 6, 5. The number only goes down. It stays the same only if you take none."
+  },
+  {
+   "text": "Adding nothing, or taking away nothing, leaves a number just as it was.",
+   "evidence": "6 beans with no beans added are still 6 beans. Brahmagupta wrote this rule in India in the year 628."
+  },
+  {
+   "text": "When beans only move from one plate to another, the number on both plates together does not change.",
+   "evidence": "Give 2 of your 5 beans to someone who has 5. You have 3 and they have 7. Count both plates together: still 10."
+  },
+  {
+   "text": "A baby who is five months old already seems to expect that one doll and one more doll make two dolls.",
+   "evidence": "In 1992 Karen Wynn showed babies one doll going behind a screen, and then one more. When the screen dropped and only one doll was there, the babies looked for longer, as people do when something is not what they expected. Other scientists have repeated the test. They still argue about what the babies are thinking."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Adding always makes more, and taking away always makes less.",
+   "who": "Many children, and many grown-ups",
+   "context": "This card is about a rule that is nearly always true, and the times when it is not.",
+   "for": "With beans it is true whenever you add or take away at least one bean. 5 + 1 is more than 5, and 5 − 1 is less than 5.",
+   "against": "Add zero and the number stays the same: 5 + 0 = 5. Later, with numbers below zero, adding a debt makes less. So the rule holds only when you add or take away one or more real things.",
+   "status": "rejected"
+  },
+  {
+   "claim": "One and one always make two.",
+   "who": "Almost everyone",
+   "context": "This card is about whether 1 + 1 = 2 fits everything you can put together.",
+   "for": "For numbers this is always true: 1 + 1 = 2. One bean and one bean are two beans, for everyone, everywhere.",
+   "against": "One drop of water pushed into another drop makes one drop. One ball of dough pressed into another makes one ball. The sum is not wrong. It just does not fit things that join. It fits things that stay separate.",
+   "status": "debated"
+  },
+  {
+   "claim": "You can never take a bigger number from a smaller one.",
+   "who": "Many mathematicians in Europe, for hundreds of years",
+   "context": "This card is about an old argument: what is 3 take away 8?",
+   "for": "With beans it is true. Nobody can take 8 beans from a plate of 3.",
+   "against": "With money you can owe. Brahmagupta in India wrote rules for debts in the year 628, and mathematicians in China used black counting sticks for debts even earlier. Today everyone uses numbers below zero, for money owed and for very cold days.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Only humans can add and take away.",
+   "who": "Many people",
+   "context": "This card is about whether other living beings do what we call adding and taking away.",
+   "for": "Only humans write sums, use signs such as + and −, and add big numbers.",
+   "against": "In tests, chicks three days old, honeybees, some fish and human babies have all kept track of small numbers of things being added and taken away. Nobody taught the chicks.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "You give your sister 2 of your beans. Is that adding or taking away?",
+   "kind": "deep",
+   "hint": "Ask her. Then ask yourself."
+  },
+  {
+   "q": "5 + 3 and 3 + 5 are both 8. Why can it never come out different?",
+   "kind": "deep",
+   "hint": "Think about the beans. Did any bean come or go?"
+  },
+  {
+   "q": "Can you add 3 idlis and 2 vadas? If the answer is 5, it is 5 of what?",
+   "kind": "deep",
+   "hint": "Look for one name that fits both."
+  },
+  {
+   "q": "When you eat an idli, it is taken away from the plate. Where is it added?",
+   "kind": "big",
+   "hint": "Follow the idli."
+  },
+  {
+   "q": "Is anything in the world truly gone when it is taken away?",
+   "kind": "big",
+   "hint": "Think of a puddle drying, a candle burning and a balloon popping."
+  },
+  {
+   "q": "A chick can follow balls being added and taken away. Is the chick doing maths?",
+   "kind": "big",
+   "hint": "What would the chick have to do for you to say yes?"
+  }
+ ],
+ "story": {
+  "title": "Don't Lift the Lid",
+  "mins": 7,
+  "read_aloud": true,
+  "note": "Kayal, Murugan, Paati and the customers are made up. The Meenakshi temple, Alagar Kovil and the Government Rajaji Hospital are real places in and near Madurai.",
+  "text": [
+   "Kayal's grandmother sold idlis from a cart near the East Tower of the Meenakshi temple in Madurai. The idlis sat in a big steel box with a tight lid, wrapped in a white cloth to keep the steam in.",
+   "Kayal was seven. In the Pongal holidays she came every morning to help. Her cousin Murugan, who was ten, came too. He carried the chutney buckets and told Kayal what to do.",
+   "That morning, before the sun was up, a teacher on a scooter stopped at the cart. \"Paati, I am taking my class to Alagar Kovil today,\" she said. \"I need ten idlis for the children at seven o'clock. Will you keep ten for me?\"",
+   "\"Ten idlis at seven,\" said Paati. \"They will be here.\"",
+   "When the teacher had gone, Paati lifted the lid. Steam rushed out. Kayal counted with her, pointing at each idli. \"Twenty,\" she said.",
+   "Paati shut the lid and tucked the cloth around it. \"Now listen, both of you. I must go home and grind the next batter. Every time this lid is lifted, the steam gets out and the idlis go hard and cold. So do not lift it to look. Lift it only to serve. Five more idlis are in the steamer. Thangam akka at the next cart will tell you when they are done.\"",
+   "\"If we cannot look, how will we know there are ten left for the teacher?\" asked Murugan.",
+   "\"You will find a way,\" said Paati, and she went.",
+   "An auto driver came first. \"Three idlis, thangachi.\" Murugan lifted the lid just enough, took out three and shut it again. Kayal held up her fingers. \"Twenty,\" she whispered. \"Nineteen, eighteen, seventeen. Seventeen.\"",
+   "\"What are you muttering?\" said Murugan.",
+   "\"Nothing,\" said Kayal.",
+   "A flower seller bought two. \"Sixteen, fifteen,\" said Kayal under her breath. \"Fifteen.\"",
+   "A nurse on her way to the Government Rajaji Hospital bought four. Kayal folded down four fingers, one for each number. \"Fourteen, thirteen, twelve, eleven. Eleven.\"",
+   "Then Thangam akka called from the next cart. \"Your idlis are done!\" Murugan carried the hot plate over and slid five new idlis into the box. This time Kayal counted upward. \"Eleven. Twelve, thirteen, fourteen, fifteen, sixteen. Sixteen.\"",
+   "The street was filling up. A man in a white veshti got off a bus with a big tiffin carrier. \"Six idlis,\" he said. \"Quickly, my bus is leaving.\"",
+   "Murugan did not move. \"We cannot,\" he said. \"The teacher needs ten. I saw the box when I put the new ones in. It looked less than half full. If we sell six, there will not be enough.\"",
+   "\"There will be enough,\" said Kayal.",
+   "\"You have not even looked!\"",
+   "\"I do not need to look. There were twenty. Three went, then two, then four. That left eleven. Five came. That made sixteen.\" She looked at her fingers. \"Sixteen take away six. Fifteen, fourteen, thirteen, twelve, eleven, ten. Ten will be left. Exactly ten.\"",
+   "\"Fingers are not idlis,\" said Murugan. \"Let me lift the lid and count properly.\"",
+   "\"Paati said not to. And the man's bus is leaving.\"",
+   "Murugan looked at the bus. He looked at the box. He looked at his small cousin, who was holding up ten fingers and not blinking. He lifted the lid a crack, took out six idlis without looking at the rest, and shut it. The man paid and ran.",
+   "After that nobody came. Murugan kept glancing at the box. \"If there are only eight in there,\" he said, \"you are the one who tells the teacher.\"",
+   "\"There are ten,\" said Kayal. But her stomach felt tight, and she went over the numbers again in her head. Twenty. Seventeen. Fifteen. Eleven. Sixteen. Ten.",
+   "At seven o'clock the scooter came round the corner. Paati was walking behind it with the new batter on her hip.",
+   "\"My ten idlis?\" said the teacher.",
+   "Paati looked at the two children. Murugan looked at Kayal. Kayal nodded.",
+   "Paati lifted the lid. Steam rushed out, thick and white. She took the idlis out one at a time and laid them on a banana leaf, and Murugan counted every one aloud. \"One. Two. Three.\" His voice got slower. \"Eight. Nine. Ten.\"",
+   "The box was empty. The idlis were soft and hot.",
+   "Paati wrapped the leaf and handed it over. Then she turned to the children. \"Who lifted the lid to count?\"",
+   "\"Nobody,\" said Murugan. He pointed his chin at Kayal. \"She counted them without seeing them. Every time some went out, and when the new ones came in.\"",
+   "Paati laughed. \"Then from tomorrow,\" she said, \"Kayal keeps the count, and you carry the chutney.\"",
+   "Murugan picked up the bucket. \"Kayal,\" he said after a while. \"Show me how you did it with your fingers.\""
+  ],
+  "epiphany": "For the parent: adding and taking away let you keep track of a number you cannot see. Kayal never looked in the box. She changed her number each time idlis went out or came in, and her number stayed true.",
+  "ask": [
+   "Kayal never looked inside the box. How did she know how many idlis were in it?",
+   "When the five new idlis went in, Kayal counted upward. Why did she change direction?",
+   "Murugan said, 'Fingers are not idlis.' He was right. So why did the fingers still work?",
+   "What at home could you keep count of without looking?"
+  ],
+  "art": [
+   "An idli cart at dawn near a tall temple tower, with a big steel box wrapped in white cloth, a grandmother, a girl of seven and a boy of ten.",
+   "A grandmother lifting the lid of the steel box with steam rushing out, and a small girl pointing at the idlis as she counts.",
+   "The girl beside the cart holding up her fingers and whispering numbers while the boy hands three idlis on a leaf to an auto driver.",
+   "The boy and the girl facing each other across the closed box, the girl holding up all ten fingers, a man with a tiffin carrier waiting and a bus behind him.",
+   "The grandmother laying ten idlis on a banana leaf from the empty box while the boy counts and a teacher on a scooter waits."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Two Plates Test: does it matter which heap goes first?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this test you put two heaps of beans together, first one way round and then the other. Then you try the same with taking away. Last, you give some of your beans to your grown-up. Before each step you guess what the count will be. You will find out when the order matters, and whether beans that are given away are lost.",
+   "question": "When we put two heaps together, does it matter which heap goes first? Does the order matter when we take away? And when beans move from one plate to another, is any bean lost?",
+   "predict": "Before each step, guess what the count will be: more, fewer or the same as before? Why do you think so?",
+   "fair_test": "We use the same beans each time. Nobody adds a bean or takes one away unless the step says so. We count by sliding each bean, so that no bean is counted twice. We try more than one pair of heaps, because one try can be a fluke.",
+   "results_table": [
+    "What we did",
+    "My guess",
+    "What we counted"
+   ],
+   "materials": [
+    {
+     "item": "dried beans such as rajma or chana, or tamarind seeds or buttons, all about the same size",
+     "qty": "20, plus 3 spare"
+    },
+    {
+     "item": "small steel plates or katoris",
+     "qty": 2
+    },
+    {
+     "item": "a big plate",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil, for the table",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep beans and seeds away from babies and toddlers, who could choke on them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Put two heaps of beans together in both orders. Try to take away in both orders. Then give beans from one plate to another and count both plates."
+    }
+   ],
+   "record": "A grown-up draws the table. For each step, write the guess and then the count. At the end the child says what they found, and the grown-up writes it under the table.",
+   "example_chart": {
+    "type": "table",
+    "cols": [
+     "What we did",
+     "My guess",
+     "What we counted"
+    ],
+    "rows": [
+     [
+      "5 beans, then 3 beans",
+      "(first try)",
+      "8"
+     ],
+     [
+      "3 beans, then 5 beans",
+      "more",
+      "8"
+     ],
+     [
+      "9 beans, then 7 beans",
+      "(first way)",
+      "16"
+     ],
+     [
+      "7 beans, then 9 beans",
+      "the same",
+      "16"
+     ],
+     [
+      "8 beans, take away 3",
+      "6 left",
+      "5 left"
+     ],
+     [
+      "3 beans, take away 8",
+      "2 left",
+      "cannot be done"
+     ],
+     [
+      "I give 2 of my 5 beans",
+      "fewer in all",
+      "3 and 7: still 10"
+     ]
+    ],
+    "title": "What a finished table can look like (your guesses will be your own)"
+   },
+   "setup": [
+    {
+     "art": "Two small steel plates, one with five rajma beans and one with three, beside a big empty plate on a kitchen floor.",
+     "caption": "1. Put 5 beans on one small plate and 3 on the other."
+    },
+    {
+     "art": "A child tipping the plate of five beans onto the big plate, with the plate of three waiting beside it.",
+     "caption": "2. Tip both onto the big plate and count. Then do it in the other order."
+    },
+    {
+     "art": "A child and a grown-up sitting face to face, each with a small plate of five beans, the child's hand passing two beans across.",
+     "caption": "3. Last, give 2 of your beans across and count both plates."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw the table on paper. 2. Your child puts 5 beans on one small plate and 3 on the other. 3. Your child tips the 5 onto the big plate, and then the 3. 4. Your child counts the big plate. Write '5 and 3 make 8'.",
+     "say": "Here are 5 beans, and here are 3 beans. Tip them together on the big plate. How many are there now?",
+     "kid": "Put 5 beans on one plate and 3 on the other. Tip them onto the big plate. Count them all.",
+     "ask": [
+      {
+       "q": "Did you count them all from 1, or did you start from 5?",
+       "good": [
+        "I counted them all: 1, 2, 3, up to 8.",
+        "I started at 5 and said 6, 7, 8."
+       ]
+      }
+     ],
+     "parent": "Both ways are right. Counting on from 5 is quicker, and most children find it by themselves after a few goes. Do not teach it yet.",
+     "context": "This is the first step of the Two Plates Test. You put a heap of 5 beans and a heap of 3 beans together, and count.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "small plate A",
+        "n": 5
+       },
+       {
+        "label": "small plate B",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Put 5 beans and 3 beans back on the small plates. 2. Say that this time the 3 will go first. 3. Ask for a guess and a reason, and write the guess. 4. Your child tips the 3, then the 5, and counts.",
+     "say": "Last time the 5 went first. This time the 3 goes first. Will we get more, fewer or the same? Why do you think so?",
+     "kid": "Now the 3 beans go first, then the 5. Guess: more, fewer or the same? Then count.",
+     "ask": [
+      {
+       "q": "Why did you guess that?",
+       "good": [
+        "It is the same beans, so it will be the same.",
+        "The big heap goes last, so maybe more.",
+        "I am not sure. Let us count."
+       ]
+      }
+     ],
+     "parent": "Many six-year-olds are not sure. Accept any guess that comes with a reason. Let the count answer: it is 8 again.",
+     "context": "This is step 2 of the Two Plates Test. The same two heaps are put together in the other order, and you guess before you count.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "5 first, then 3",
+        "n": 5,
+        "more": 3
+       },
+       {
+        "label": "3 first, then 5",
+        "n": 3,
+        "more": 5
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Your child picks two new numbers of beans, each from 2 to 9. 2. Write a guess: will both orders give the same number? 3. Your child tips them together one way and counts. 4. Then the other way. Write both counts.",
+     "say": "Now you choose the two heaps. Will it be the same both ways again? Why do you think so?",
+     "kid": "Pick two new heaps. Put them together one way and count. Then try the other way.",
+     "ask": [
+      {
+       "q": "Could there be a pair of heaps where the order changes the answer?",
+       "good": [
+        "No. It is always the same beans.",
+        "I tried, and I could not find one."
+       ]
+      }
+     ],
+     "parent": "With 9 and 7 the total is 16. If a count goes wrong past ten, slide the beans across one by one while counting. Try a third pair if your child wants to be sure.",
+     "context": "This is step 3 of the Two Plates Test. You choose two new heaps of beans and put them together in both orders.",
+     "chart": {
+      "type": "dots",
+      "title": "An example. Your two heaps will be your own.",
+      "rows": [
+       {
+        "label": "9 first, then 7",
+        "n": 9,
+        "more": 7
+       },
+       {
+        "label": "7 first, then 9",
+        "n": 7,
+        "more": 9
+       }
+      ]
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Put 8 beans on the big plate. 2. Ask how many will be left if 3 are taken away. Write the guess. 3. Your child takes 3 away and counts what is left. 4. Now put only 3 beans on the plate. Ask your child to take 8 away.",
+     "say": "There are 8 beans. Take 3 away. How many are left? Now here are 3 beans. Can you take 8 away?",
+     "kid": "Take 3 beans away from 8. Count what is left. Now try to take 8 away from 3.",
+     "ask": [
+      {
+       "q": "With adding, the order did not matter. Does the order matter when you take away?",
+       "good": [
+        "Yes. 8 take away 3 works. 3 take away 8 does not.",
+        "You cannot take 8 when there are only 3."
+       ]
+      }
+     ],
+     "parent": "8 take away 3 leaves 5. Nobody can take 8 beans from 3, because the plate is empty after 3. Let your child find this out by trying. Later they will meet numbers below zero, but beans cannot show those.",
+     "check": {
+      "t": "mcq",
+      "q": "7 beans are on a plate. You take 2 away. How many are left?",
+      "options": [
+       "9",
+       "5",
+       "2"
+      ],
+      "a": 1,
+      "why": "5. Taking away makes fewer, so the answer must be less than 7. Count back two from 7: 6, 5. Picking 9 means the 2 were added, not taken away."
+     },
+     "context": "This is step 4 of the Two Plates Test. You take 3 beans from 8, and then you try to take 8 beans from 3.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "on the big plate",
+        "n": 8
+       },
+       {
+        "label": "to take away",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Put 5 beans on your child's plate and 5 on yours. 2. Ask how many you will have together after your child gives you 2. Write the guess. 3. Your child gives you 2 beans. 4. Count each plate, and then both plates together.",
+     "say": "You have 5 and I have 5. Give me 2 of yours. Together, will we have more, fewer or the same? Why?",
+     "kid": "You have 5 beans. Give 2 to your grown-up. Count your plate, their plate, and both together.",
+     "ask": [
+      {
+       "q": "For you, was that adding or taking away? And for me?",
+       "good": [
+        "Taking away for me. I have fewer now.",
+        "Adding for you. You got 2 more.",
+        "It is both."
+       ]
+      }
+     ],
+     "parent": "Your child now has 3 and you have 7. Together it is still 10. Many children expect the total to change, because something was taken away.",
+     "context": "This is step 5 of the Two Plates Test. You give 2 of your beans to your grown-up and count both plates.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "your plate",
+        "n": 5
+       },
+       {
+        "label": "grown-up's plate",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "1. Look at the table together. 2. Ask your child what they think now, what they saw, and why. 3. Write their words under the table.",
+     "say": "Look at our table. When did the order matter? When did it not matter? What happened to the beans you gave me?",
+     "kid": "Look at your table. When did the order matter? When did the number stay the same?",
+     "ask": [
+      {
+       "q": "What do you think now? What did you see? Why do you think it is so?",
+       "good": [
+        "Putting together gives the same number both ways.",
+        "It was 8 both times, and 16 both times.",
+        "Because they are the same beans, only tipped in a different order.",
+        "Taking away does not work both ways.",
+        "The beans I gave you were not lost. You had them."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "6 beans and 4 beans make 10. How many do 4 beans and 6 beans make?",
+      "options": [
+       "More than 10",
+       "10",
+       "Fewer than 10"
+      ],
+      "a": 1,
+      "why": "10. They are the same two heaps, put together in the other order. No bean was added or lost. Picking 'more' or 'fewer' often means the bigger heap going last looked different. Tip the beans both ways to check."
+     },
+     "context": "This is the last step of the Two Plates Test. You say what you found about order, and about beans that are given away."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Five What? One name for both heaps",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you add two different kinds of things, such as spoons and tumblers. The point is to see that before you add, you must choose one name that fits both kinds.",
+   "problem": "3 spoons and 2 tumblers are 5. But 5 what?",
+   "materials": [
+    {
+     "item": "spoons",
+     "qty": 3
+    },
+    {
+     "item": "steel tumblers",
+     "qty": 2
+    },
+    {
+     "item": "other things from around the house, in twos and threes",
+     "qty": "a few"
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Add spoons and tumblers, then other pairs of things, and find a name for each total."
+    }
+   ],
+   "record": "Write three sums with names, such as '4 chappals + 2 shoes = 6 footwear'. A grown-up can write while the child says them.",
+   "setup": [
+    {
+     "art": "Three steel spoons and two steel tumblers set out in two groups on a kitchen floor.",
+     "caption": "1. Put out 3 spoons and 2 tumblers."
+    },
+    {
+     "art": "A child pushing the spoons and tumblers into one group, with a thought bubble showing the number 5 and a question mark.",
+     "caption": "2. Put them together. 5 what?"
+    },
+    {
+     "art": "A child carrying two bananas and three oranges in her arms toward the same spot on the floor.",
+     "caption": "3. Find two more kinds of things and do it again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Put 3 spoons and 2 steel tumblers on the floor. 2. Ask how many spoons there are, and how many tumblers. 3. Ask how many there are altogether. When your child answers, ask '5 what?'",
+     "say": "Here are 3 spoons and 2 tumblers. How many are there altogether? Five what?",
+     "kid": "Put 3 spoons and 2 tumblers together. How many are there? Five what?",
+     "ask": [
+      {
+       "q": "They are not 5 spoons, and not 5 tumblers. What name fits all five?",
+       "good": [
+        "5 things.",
+        "5 vessels.",
+        "5 kitchen things."
+       ]
+      }
+     ],
+     "context": "This is the first step of Five What? You put spoons and tumblers together and look for one name that fits them all.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "spoons",
+        "n": 3
+       },
+       {
+        "label": "tumblers",
+        "n": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Your child collects two kinds of things from around the house, fewer than 10 of each. 2. They count each kind and add them. 3. They say the total, with a name that fits both kinds. 4. Do this three times and write each sum.",
+     "say": "Bring me two kinds of things. Add them up. Then tell me the total, and what it is a total of.",
+     "kid": "Find two kinds of things. Count each kind. Add them. Say a name that fits them all.",
+     "parent": "Good pairs are chappals and shoes (footwear), bananas and oranges (fruits), pencils and crayons (things to draw with), red beans and white beans (beans). The name is the interesting part, so let your child invent it.",
+     "context": "This is step 2 of Five What? You add two kinds of things from around the house and give the total a name."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Point at one of the mixed heaps. 2. Ask 'How many spoons?' and then 'How many things?' 3. Ask how one heap can have two right answers.",
+     "say": "How many spoons are here? And how many things? Both answers are right. How can that be?",
+     "kid": "Look at your heap. How many spoons? How many things? Why are there two answers?",
+     "ask": [
+      {
+       "q": "Could you add 3 spoons and 2 songs?",
+       "good": [
+        "No. You cannot put them together.",
+        "Only if I call them 5 things I like."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "4 mangoes and 3 bananas are in a bowl. Which is true?",
+      "options": [
+       "There are 7 mangoes",
+       "There are 7 fruits",
+       "There are 7 bananas"
+      ],
+      "a": 1,
+      "why": "7 fruits. 'Fruits' is a name that fits both the mangoes and the bananas. There are still only 4 mangoes and only 3 bananas."
+     },
+     "context": "This is the last step of Five What? You look at one mixed heap and see that the count depends on the name you choose."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Beans, Picture, Sum: show one story three ways",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you hear a short story, show it with beans, draw it as dots and write it as a sum. The point is to learn what the signs +, − and = say.",
+   "problem": "A sum is a very short story. Can you turn a story into a sum, and a sum back into a story?",
+   "materials": [
+    {
+     "item": "beans or seeds",
+     "qty": 20
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep beans and seeds away from babies and toddlers, who could choke on them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Show an adding story and a taking-away story with beans, dots and a sum. Then make up a story for a sum."
+    }
+   ],
+   "record": "Keep the page. Each story is on it twice: as dots and as a sum.",
+   "setup": [
+    {
+     "art": "Four beans in a row on a sheet of paper with three more beans being placed beside them.",
+     "caption": "1. Show the story with beans."
+    },
+    {
+     "art": "The same sheet with four dots and three dots drawn in pencil under the beans.",
+     "caption": "2. Draw one dot for each bean."
+    },
+    {
+     "art": "The sheet with 4 + 3 = 7 written under the dots in a child's handwriting.",
+     "caption": "3. Write the sum and read it aloud."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Tell a short adding story about your home, with numbers up to 10. 2. Your child shows it with beans. 3. Your child draws it as dots. 4. Write the sum together and read it aloud.",
+     "say": "Listen. 4 crows sat on the wall. 3 more crows came. Show me with beans. Now we write it: 4 + 3 = 7.",
+     "kid": "Listen to the story. Show it with beans. Draw the dots. Then write the sum.",
+     "parent": "Say the signs aloud as you write them: 'four plus three equals seven'. The sign = says that both sides are the same amount.",
+     "context": "This is the first step of Beans, Picture, Sum. You show an adding story with beans, with dots and with a sum.",
+     "chart": {
+      "type": "dots",
+      "title": "4 crows, and 3 more coming",
+      "rows": [
+       {
+        "label": "crows on the wall",
+        "n": 4,
+        "more": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Tell a taking-away story, with numbers up to 10. 2. Your child shows it with beans and takes some away. 3. Your child draws the dots and crosses out the ones taken. 4. Write the sum together: 9 − 2 = 7.",
+     "say": "9 murukkus were in the tin. You ate 2. Show me with beans. Now we write it: 9 − 2 = 7.",
+     "kid": "Show the story with beans. Take some away. Draw the dots and cross some out. Write the sum.",
+     "parent": "In a taking-away sum, the number you start with is written first. Then comes what is taken, and after the = sign, what is left.",
+     "context": "This is step 2 of Beans, Picture, Sum. You show a taking-away story with beans, with dots and with a sum.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "murukkus in the tin",
+        "n": 9
+       },
+       {
+        "label": "eaten",
+        "n": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Write a sum with no answer, such as 6 + 5 or 12 − 3. 2. Your child makes up a story for it. 3. Your child finds the answer with beans and writes it. 4. Swap: your child writes a sum for you.",
+     "say": "Here is a sum: 12 − 3. Make up a story for it. Then find the answer with your beans.",
+     "kid": "Read the sum. Make up a story for it. Find the answer with your beans.",
+     "check": {
+      "t": "mcq",
+      "q": "6 children were playing. 2 went home. Which sum fits this story?",
+      "options": [
+       "6 + 2 = 8",
+       "6 − 2 = 4",
+       "2 − 6 = 4"
+      ],
+      "a": 1,
+      "why": "6 − 2 = 4. Children went away, so it is taking away, and 4 are left. Picking 6 + 2 means the two numbers were put together, but nobody joined the game."
+     },
+     "context": "This is the last step of Beans, Picture, Sum. You start from a sum and make up a story that fits it.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "12",
+       "− 3"
+      ],
+      "answer": "?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Maths in the kitchen: the vegetable basket",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you count the vegetables at home before cooking, and work out how many are left after cooking. The point is to use adding and taking away for a real job in the kitchen.",
+   "problem": "The cook needs to know two things. How many vegetables do we have? And how many will be left after today's cooking?",
+   "materials": [
+    {
+     "item": "two kinds of vegetables that are counted one by one, such as tomatoes and onions",
+     "qty": "3 to 9 of each"
+    },
+    {
+     "item": "a basket or a plate",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Count and add two kinds of vegetables before cooking. Work out what will be left, and check after cooking."
+    }
+   ],
+   "record": "Write the day's sums on a slip and stick it on the fridge, for example '5 tomatoes + 4 onions = 9 vegetables' and '5 − 2 = 3 tomatoes left'.",
+   "setup": [
+    {
+     "art": "A cane basket with five tomatoes and four onions on a kitchen counter, a child sorting them into two groups.",
+     "caption": "1. Sort the vegetables into two kinds and count each kind."
+    },
+    {
+     "art": "A child handing two tomatoes and one onion to a mother standing at a stove.",
+     "caption": "2. Hand over what the cook asks for."
+    },
+    {
+     "art": "The basket with three tomatoes and three onions left, and a slip of paper with sums stuck on a fridge door.",
+     "caption": "3. Work out what is left. Then count to check."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Put the tomatoes and the onions in the basket. 2. Your child sorts them into two groups and counts each group. 3. Ask how many vegetables there are in all. 4. Write the sum, with the names.",
+     "say": "How many tomatoes are there? How many onions? So how many vegetables do we have in all?",
+     "kid": "Sort the vegetables into two kinds. Count each kind. Add them. How many vegetables in all?",
+     "parent": "If there are 5 tomatoes and 4 onions, the sum is 5 + 4 = 9 vegetables. The total is 9 vegetables, not 9 tomatoes.",
+     "context": "This is the first step of the vegetable basket. You count two kinds of vegetables and add them.",
+     "chart": {
+      "type": "dots",
+      "title": "An example. Your numbers will be your own.",
+      "rows": [
+       {
+        "label": "tomatoes",
+        "n": 5
+       },
+       {
+        "label": "onions",
+        "n": 4
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Say what today's cooking needs, such as 2 tomatoes and 1 onion. 2. Before your child touches anything, ask how many of each will be left. 3. Your child hands them to you. 4. Your child counts what is left, to check. A grown-up does the cutting and cooking.",
+     "say": "For the rasam I need 2 tomatoes and 1 onion. How many tomatoes will be left? How many onions?",
+     "kid": "Listen to what the cook needs. Say how many will be left. Hand them over. Count to check.",
+     "ask": [
+      {
+       "q": "How did you work it out before counting?",
+       "good": [
+        "I counted back two from 5: 4, 3.",
+        "I took them away in my head."
+       ]
+      }
+     ],
+     "adult": true,
+     "context": "This is step 2 of the vegetable basket. You work out how many vegetables will be left after the cook takes some.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "tomatoes",
+        "n": 5
+       },
+       {
+        "label": "for the rasam",
+        "n": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Ask how many vegetables are left in all. 2. Your child adds the tomatoes left and the onions left. 3. Write the sums on a slip and stick it on the fridge. 4. Ask what must be bought if tomorrow's cooking needs 6 tomatoes.",
+     "say": "How many vegetables are left in all? Tomorrow I need 6 tomatoes. Do we have enough?",
+     "kid": "Add what is left. Write the sums. Do you have enough tomatoes for tomorrow?",
+     "check": {
+      "t": "mcq",
+      "q": "There were 6 tomatoes. 2 went into the rasam. How many tomatoes are left?",
+      "options": [
+       "8",
+       "4",
+       "2"
+      ],
+      "a": 1,
+      "why": "4. The tomatoes that went into the rasam were taken away. Count back two from 6: 5, 4. Picking 8 means the 2 were added. Picking 2 is the number used, not the number left."
+     },
+     "context": "This is the last step of the vegetable basket. You add what is left, and see whether there is enough for tomorrow.",
+     "chart": {
+      "type": "dots",
+      "title": "An example: what is left in the basket",
+      "rows": [
+       {
+        "label": "tomatoes left",
+        "n": 3
+       },
+       {
+        "label": "onions left",
+        "n": 3
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Maths in a game: sow the seeds as in Pallanguzhi",
+   "mins": 12,
+   "days": 1,
+   "context": "Pallanguzhi is an old board game from Tamil Nadu. It is played with tamarind seeds or cowrie shells on a board with 14 cups. In this activity you borrow its main move, called sowing, on a small board of 6 cups. The point is to watch one cup lose seeds while other cups gain them.",
+   "problem": "When seeds move from cup to cup, which numbers change, and which number does not?",
+   "materials": [
+    {
+     "item": "small cups or katoris, or 6 hollows of an egg tray, or 6 circles drawn on paper",
+     "qty": 6
+    },
+    {
+     "item": "tamarind seeds or beans",
+     "qty": 18
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep beans and seeds away from babies and toddlers, who could choke on them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Set up 6 cups with 3 seeds each. Sow seeds round the board several times. Then count the whole board."
+    }
+   ],
+   "record": "Draw the six cups. Write how many seeds are in each at the end. Add them up.",
+   "setup": [
+    {
+     "art": "Six small steel katoris in two rows of three on a floor, each holding three tamarind seeds.",
+     "caption": "1. Six cups in two rows. Put 3 seeds in each."
+    },
+    {
+     "art": "A child's hand lifting all three seeds out of the bottom-left cup, leaving it empty.",
+     "caption": "2. Lift all the seeds from one cup."
+    },
+    {
+     "art": "The hand dropping one seed into each of the next three cups, with a curved arrow going round the board.",
+     "caption": "3. Drop one seed in each next cup, going round."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Set out 6 cups in 2 rows of 3. 2. Your child puts 3 seeds in each cup. 3. Count all the seeds together and write the number.",
+     "say": "Put 3 seeds in every cup. How many seeds are on the whole board?",
+     "kid": "Put 3 seeds in each cup. Count all the seeds on the board.",
+     "parent": "There are 18 seeds. Counting in threes is fine, and so is counting one by one.",
+     "context": "This is the first step of sowing seeds as in Pallanguzhi, an old Tamil board game. You set up a small board of 6 cups.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "",
+       "left",
+       "middle",
+       "right"
+      ],
+      "rows": [
+       [
+        "far row",
+        "3",
+        "3",
+        "3"
+       ],
+       [
+        "your row",
+        "3",
+        "3",
+        "3"
+       ]
+      ],
+      "title": "The small board at the start"
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Your child lifts all the seeds from one cup. 2. They drop one seed in each next cup, going round the board. 3. Ask how many are in the cup they emptied, and in a cup that got a seed. 4. Do this four or five times, from a different cup each time.",
+     "say": "Pick up all the seeds from one cup. Drop one in each next cup, going round. Which cup has fewer now? Which cups have more?",
+     "kid": "Lift all the seeds from one cup. Drop one in each next cup. Which cups changed?",
+     "ask": [
+      {
+       "q": "The cup had 3 and you took 3. How many are in it now? The next cup had 3 and got 1. How many now?",
+       "good": [
+        "None. Zero.",
+        "4."
+       ]
+      }
+     ],
+     "parent": "'Going round' means along your row to the right, and then back along the far row. After a first move from the left cup of your row, the board looks like the picture.",
+     "context": "This is step 2 of sowing seeds as in Pallanguzhi, an old Tamil board game. You move seeds from one cup into the next cups.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "",
+       "left",
+       "middle",
+       "right"
+      ],
+      "rows": [
+       [
+        "far row",
+        "3",
+        "3",
+        "4"
+       ],
+       [
+        "your row",
+        "0",
+        "4",
+        "4"
+       ]
+      ],
+      "title": "After one move from your left cup"
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Ask how many seeds are on the whole board now, after all that moving. Write the guess. 2. Your child counts every cup. 3. Ask why the number is what it is.",
+     "say": "We moved seeds many times. How many are on the whole board now? More, fewer or the same as at the start? Why?",
+     "kid": "Guess how many seeds are on the board now. Then count every cup.",
+     "ask": [
+      {
+       "q": "Seeds were taken away from cups again and again. Why is the total still 18?",
+       "good": [
+        "They only moved to other cups.",
+        "What one cup lost, other cups got.",
+        "No seed left the board."
+       ]
+      }
+     ],
+     "parent": "The real game has more rules, such as capturing seeds, and families play it in different ways. If a grandparent knows the game, ask them to teach their way.",
+     "check": {
+      "t": "mcq",
+      "q": "A cup has 5 seeds. You lift all 5 and drop them one by one into the next cups. How many are left in that cup?",
+      "options": [
+       "5",
+       "1",
+       "0"
+      ],
+      "a": 2,
+      "why": "0. You lifted all 5, and 5 take away 5 leaves none. The 5 seeds are not lost. They are in the next five cups, one in each."
+     },
+     "context": "This is the last step of sowing seeds as in Pallanguzhi, an old Tamil board game. You count the whole board after many moves."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "When 1 and 1 Make 1: drops and dough",
+   "mins": 8,
+   "days": 1,
+   "context": "In this activity you push two drops of water together, then two balls of dough, then two beans. The point is to see that adding numbers fits things that stay separate, and does not fit things that join.",
+   "problem": "1 and 1 make 2. Always? Try it with drops of water.",
+   "materials": [
+    {
+     "item": "a dry steel plate",
+     "qty": 1
+    },
+    {
+     "item": "a little water in a tumbler",
+     "qty": 1
+    },
+    {
+     "item": "chapati dough or clay",
+     "qty": "a small lump"
+    },
+    {
+     "item": "beans",
+     "qty": 2
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Push together two drops, then two balls of dough, then two beans. Count each time."
+    }
+   ],
+   "record": "Draw three pictures: the drops, the dough and the beans, before and after. Under each, write how many there were and how many there are.",
+   "setup": [
+    {
+     "art": "A dry steel plate with two round drops of water side by side and a child's wet fingertip above them.",
+     "caption": "1. Make 2 drops of water on a dry plate."
+    },
+    {
+     "art": "The same plate with one bigger drop where the two drops were.",
+     "caption": "2. Push them together. How many drops now?"
+    },
+    {
+     "art": "Two small balls of dough and two beans on the floor beside the plate.",
+     "caption": "3. Try it with 2 balls of dough, and then with 2 beans."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Dip a fingertip in water and put one drop on a dry steel plate. 2. Put another drop next to it. 3. Ask how many drops there will be if they are pushed together, and why. 4. Your child pushes them together with a finger.",
+     "say": "Here is 1 drop, and here is 1 drop. If we push them together, how many drops will there be? Why do you think so?",
+     "kid": "Make 2 drops of water on the plate. Guess what will happen. Push them together. How many drops now?",
+     "parent": "On a dry steel plate the drops stay round. If the plate is wet or soapy the drops spread out, so dry it first.",
+     "context": "This is the first step of When 1 and 1 Make 1. You push two drops of water together and count the drops.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "one drop",
+        "n": 1
+       },
+       {
+        "label": "another drop",
+        "n": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Roll two small balls of chapati dough or clay. 2. Ask how many balls there will be if they are pressed together. 3. Your child presses them into one and rolls it.",
+     "say": "Here are 2 balls of dough. Press them together and roll. How many balls now? Is the ball the same size as before?",
+     "kid": "Roll 2 balls of dough. Press them together. How many balls now? Is the ball bigger?",
+     "context": "This is step 2 of When 1 and 1 Make 1. You press two balls of dough together and count the balls.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "one ball of dough",
+        "n": 1
+       },
+       {
+        "label": "another ball",
+        "n": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Put 1 bean next to 1 bean and push them together. 2. Ask how many beans there are. 3. Ask why beans make 2 when drops made 1.",
+     "say": "Push 1 bean against 1 bean. How many beans? Why do beans make 2, when the drops made 1?",
+     "kid": "Push 2 beans together. How many beans? Why are beans different from drops?",
+     "ask": [
+      {
+       "q": "Was 1 + 1 = 2 wrong for the drops?",
+       "good": [
+        "The drops joined, so we cannot count them the same way.",
+        "The big drop still has the water of two drops.",
+        "Adding works for things that stay separate."
+       ]
+      }
+     ],
+     "think": "What else joins into one when you put two together?",
+     "check": {
+      "t": "mcq",
+      "q": "You push 2 heaps of rice together. What do you get?",
+      "options": [
+       "2 heaps",
+       "1 bigger heap",
+       "No rice"
+      ],
+      "a": 1,
+      "why": "1 bigger heap. The heaps joined, so the number of heaps went down. No rice was lost: the big heap has all the rice of both. Adding numbers fits things that stay separate, like beans."
+     },
+     "context": "This is the last step of When 1 and 1 Make 1. You push two beans together and compare them with the drops.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "one bean",
+        "n": 1
+       },
+       {
+        "label": "another bean",
+        "n": 1
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "Everyone does maths: the chick test",
+   "mins": 10,
+   "days": 1,
+   "context": "In 2009 scientists in Italy tested whether chicks about three days old could follow balls being hidden and moved behind two screens. In this activity you take the chick's place. Beans are hidden under two tumblers and moved across, and you say which tumbler hides more.",
+   "problem": "A chick could tell which screen hid more balls, without seeing them. Can you?",
+   "materials": [
+    {
+     "item": "steel tumblers that you cannot see through",
+     "qty": 2
+    },
+    {
+     "item": "beans or small balls",
+     "qty": 10
+    }
+   ],
+   "safety": "Keep beans and seeds away from babies and toddlers, who could choke on them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Hide beans under two tumblers, move some across, and work out how many are under each."
+    }
+   ],
+   "record": "Write the two sums for one round, such as 4 − 2 = 2 and 1 + 2 = 3.",
+   "setup": [
+    {
+     "art": "Two upturned steel tumblers on a floor, a hand sliding four beans under one, with one bean waiting by the other.",
+     "caption": "1. Hide 4 beans under one tumbler and 1 under the other."
+    },
+    {
+     "art": "A hand sliding one bean along the floor from the first tumbler to the second, with a second bean following.",
+     "caption": "2. Move 2 beans across, one at a time."
+    },
+    {
+     "art": "A child pointing at the second tumbler with a confident face, both tumblers still down.",
+     "caption": "3. Say how many are under each. Then lift."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Turn two tumblers upside down. 2. While your child watches, slide 4 beans under one and 1 under the other. 3. Ask which tumbler hides more. Lift both to check.",
+     "say": "Watch. 4 beans go under this tumbler, and 1 goes under that one. Which tumbler hides more?",
+     "kid": "Watch the beans go under the tumblers. Point to the one with more. Lift to check.",
+     "context": "This is the first step of the chick test. Beans are hidden under two tumblers and you say which hides more.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "tumbler A",
+        "n": 4
+       },
+       {
+        "label": "tumbler B",
+        "n": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Hide 4 and 1 again. 2. Move 2 beans from the tumbler with 4 to the tumbler with 1, one at a time, in plain view. 3. Ask how many are under each now, and which has more. 4. Lift both to check.",
+     "say": "Now watch. I move 1 bean across. And 1 more. Do not lift! How many are under each tumbler now?",
+     "kid": "Watch 2 beans move across. Work out how many are under each tumbler. Then lift.",
+     "ask": [
+      {
+       "q": "How did you know without looking?",
+       "good": [
+        "4 take away 2 is 2.",
+        "1 and 2 more is 3.",
+        "I counted back, and then I counted on."
+       ]
+      }
+     ],
+     "parent": "This is one of the moves the chicks watched: 4 and 1 became 2 and 3. About three times in four, the chicks walked to the side with 3. Your child is doing two sums at once: 4 − 2 and 1 + 2.",
+     "context": "This is step 2 of the chick test. Two beans move from one tumbler to the other, and you work out the new numbers.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "",
+       "tumbler A",
+       "tumbler B"
+      ],
+      "rows": [
+       [
+        "at first",
+        "4",
+        "1"
+       ],
+       [
+        "2 beans move from A to B",
+        "?",
+        "?"
+       ]
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Swap places. Your child hides up to 10 beans under the two tumblers and moves some across. 2. You say how many are under each. 3. Your child lifts the tumblers and checks you.",
+     "say": "Now you are the scientist and I am the chick. Hide the beans and move some. I will work it out.",
+     "kid": "Now you hide the beans. Move some across. Check your grown-up's answer.",
+     "check": {
+      "t": "mcq",
+      "q": "5 beans are under tumbler A and none under tumbler B. You move 3 from A to B. Which has more now?",
+      "options": [
+       "Tumbler A",
+       "Tumbler B",
+       "They are the same"
+      ],
+      "a": 1,
+      "why": "Tumbler B. A has 5 take away 3, which is 2. B has none and 3 more, which is 3. Picking A means going by where the beans started, not where they ended."
+     },
+     "context": "This is the last step of the chick test. You hide and move the beans, and your grown-up works out the numbers."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Under the Tumbler",
+   "mins": 10,
+   "players": "2 players: with a parent or with a friend. One child alone can play with a dice.",
+   "context": "This is a hiding game with beans and a steel tumbler. Some beans are slid out and the rest stay hidden. You say how many are still hidden, and then lift the tumbler to check. It builds quick taking away.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "Start cards: how many beans go under the tumbler",
+     "items": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "12",
+      "15",
+      "20"
+     ]
+    }
+   ],
+   "rules": [
+    "Pick a start card, or start with 10. Count out that many beans together and put them under an upside-down tumbler.",
+    "The hider tilts the tumbler and slides some beans out, where everyone can see them. The rest stay hidden.",
+    "The guesser says how many beans are still under the tumbler, and how they know.",
+    "Lift the tumbler and count. If the guesser is right, they win one bean from the spare heap as a point.",
+    "Swap jobs after every round. The first player with 5 points wins.",
+    "Playing alone: roll a dice and slide out that many beans without looking under the tumbler. Say how many are left, then lift to check. Try to get 5 right in a row."
+   ],
+   "setup": [
+    {
+     "art": "Ten beans being covered by an upturned steel tumbler on a floor, with two children watching.",
+     "caption": "1. Count 10 beans. Hide them all under the tumbler."
+    },
+    {
+     "art": "A hand tilting the tumbler and sliding three beans out into view.",
+     "caption": "2. Slide some out. The rest stay hidden."
+    },
+    {
+     "art": "A child saying '7!' and the tumbler lifted to show seven beans.",
+     "caption": "3. Say how many are hidden. Lift to check."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Count out 10 beans together. 2. Put them under an upside-down steel tumbler. 3. Put a small heap of spare beans to one side, for points. 4. Read the rules aloud.",
+     "say": "There are 10 beans under this tumbler. I will slide some out. You tell me how many are still hiding.",
+     "kid": "Count 10 beans. Hide them all under the tumbler.",
+     "context": "This is the first step of Under the Tumbler, a hiding game with beans. Here you set up the game.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "under the tumbler at the start",
+        "n": 10
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Tilt the tumbler and slide out 3 beans. 2. Ask how many are still under it, and how your child knows. 3. Lift the tumbler and count together.",
+     "say": "I have slid out 3. There were 10. How many are still under the tumbler? How do you know?",
+     "kid": "Look at the beans that came out. Say how many are still hidden. Lift to check.",
+     "parent": "Counting back from 10 is the usual way: 9, 8, 7. Some children count the beans they can see on their fingers and look at how many fingers are still up. Both ways work.",
+     "check": {
+      "t": "mcq",
+      "q": "10 beans were under the tumbler. 3 are slid out. How many are still under it?",
+      "options": [
+       "13",
+       "7",
+       "3"
+      ],
+      "a": 1,
+      "why": "7. Three beans were taken away from 10. Count back three: 9, 8, 7. Picking 13 means the 3 were added. Picking 3 is the number you can see, not the number hidden."
+     },
+     "context": "This is step 2 of Under the Tumbler, a hiding game with beans. Here you play one practice round.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "at the start",
+        "n": 10
+       },
+       {
+        "label": "slid out",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play the game, swapping jobs after every round. 2. Each time, the guesser says how they know. 3. After a few rounds, try a bigger start card.",
+     "say": "Your turn to hide. Slide some out. I will say how many are left, and you check me.",
+     "kid": "Play the game. Take turns to hide and to guess. Say how you know.",
+     "ask": [
+      {
+       "q": "All the beans were slid out. How many are hidden?",
+       "good": [
+        "None.",
+        "Zero."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Under the Tumbler, a hiding game with beans. Here you play, taking turns to hide and to guess."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Stop when someone has 5 points. 2. Ask which round was the hardest, and why.",
+     "say": "Who has 5 points? Which round was the hardest to work out?",
+     "kid": "The first to 5 points wins. Which round was the hardest?",
+     "context": "This is the last step of Under the Tumbler, a hiding game with beans. Here you finish the game."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Bigger Total Wins",
+   "mins": 10,
+   "players": "2 or 3 players: with a parent or with friends",
+   "context": "This is a card game. Each player turns over two number cards and adds them, and the bigger total wins the round. It builds quick adding, first up to 10 and then up to 20.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "Number cards from 1 to 10 with dots. Make four of each, or use playing cards from Ace to 10.",
+     "items": [
+      "1 ●",
+      "2 ●●",
+      "3 ●●●",
+      "4 ●●●●",
+      "5 ●●●●●",
+      "6 ●●●●● ●",
+      "7 ●●●●● ●●",
+      "8 ●●●●● ●●●",
+      "9 ●●●●● ●●●●",
+      "10 ●●●●● ●●●●●"
+     ]
+    }
+   ],
+   "rules": [
+    "For the first game, use only the cards from 1 to 5. Shuffle them and deal them all out, face down. Put aside any cards left over.",
+    "Everyone turns over their top two cards and adds them. Say it aloud: '4 plus 3 equals 7.'",
+    "The player with the biggest total takes all the cards from that round and puts them in a winnings pile.",
+    "If two totals are the same, those players turn over two more cards each. The bigger total takes everything.",
+    "When the cards run out, the player with the most cards in their winnings pile wins.",
+    "Harder game: use all the cards from 1 to 10. Now the totals go up to 20. Count the dots, or use beans, whenever you need to.",
+    "With playing cards, the Ace is 1. Take out the Jacks, Queens and Kings."
+   ],
+   "setup": [
+    {
+     "art": "Two children sitting face to face on a mat, each with a small face-down pile of number cards.",
+     "caption": "1. Deal out the cards, face down."
+    },
+    {
+     "art": "One child's two cards turned up, a 4 and a 3 with dots, and the child saying '4 plus 3 equals 7'.",
+     "caption": "2. Turn over two cards. Add them and say the total."
+    },
+    {
+     "art": "The child with the total 9 sweeping all four cards into her winnings pile.",
+     "caption": "3. The bigger total takes the cards."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Make the number cards, or take the Ace to 10 from a pack of playing cards. 2. Keep only the cards from 1 to 5 for now. 3. Shuffle and deal them all out, face down. 4. Read the rules aloud.",
+     "say": "We each turn over two cards and add them. The bigger total wins the cards.",
+     "kid": "Deal out the cards face down. Do not look at them yet.",
+     "context": "This is the first step of Bigger Total Wins, a card game where you add two cards. Here you set up the game.",
+     "chart": {
+      "type": "dots",
+      "title": "Two cards. Add the dots.",
+      "rows": [
+       {
+        "label": "card 4",
+        "n": 4
+       },
+       {
+        "label": "card 3",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Play one round with the cards face up, slowly. 2. Each player says their total aloud. 3. Ask who has more, and how they know.",
+     "say": "I turned over 2 and 5. I start at 5 and count on two: 6, 7. What is your total?",
+     "kid": "Turn over two cards. Add them. Say your total aloud.",
+     "parent": "Starting from the bigger card is quicker, and it gives the same total. Let your child notice this. If they count all the dots from 1, that is fine.",
+     "check": {
+      "t": "mcq",
+      "q": "You turn over 5 and 4. Your friend turns over 6 and 2. Who has the bigger total?",
+      "options": [
+       "You: 5 + 4 = 9",
+       "Your friend: 6 + 2 = 8",
+       "Both are the same"
+      ],
+      "a": 0,
+      "why": "You do. 5 + 4 = 9 and 6 + 2 = 8, and 9 is bigger than 8. Picking your friend usually means looking only at the biggest card, the 6. The total uses both cards."
+     },
+     "context": "This is step 2 of Bigger Total Wins, a card game where you add two cards. Here you play one slow practice round.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "you: 5 and 4",
+        "n": 5,
+        "more": 4
+       },
+       {
+        "label": "friend: 6 and 2",
+        "n": 6,
+        "more": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play until the cards run out. 2. Now and then, ask which card your child started counting from. 3. If there is time, play the harder game with all the cards.",
+     "say": "You turned over 2 and 5. Which number did you start counting from? Why?",
+     "kid": "Play the game. Say each total aloud. The bigger total takes the cards.",
+     "ask": [
+      {
+       "q": "Does 2 + 5 give the same as 5 + 2?",
+       "good": [
+        "Yes. Both are 7.",
+        "Yes, so I start from 5 because it is quicker."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Bigger Total Wins, a card game where you add two cards. Here you play the game."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. When the cards run out, each player counts their winnings pile. 2. Ask who has more cards, and how many more.",
+     "say": "Count your pile. Who won more cards?",
+     "kid": "Count your pile of cards. Who has more?",
+     "context": "This is the last step of Bigger Total Wins, a card game where you add two cards. Here you count the cards you won."
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Heads Add, Tails Take Away",
+   "mins": 10,
+   "players": "1 to 3 players: alone, with a parent or with friends",
+   "context": "This is a game on a number track from 0 to 20, with a coin and a dice. Heads means hop forward and tails means hop back. It builds counting on and counting back on a number line.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A number track of 21 squares, from 0 to 20, to cut out or to draw with chalk",
+     "items": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10 Start",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15 ★",
+      "16 ★",
+      "17 ★",
+      "18 ★",
+      "19 ★",
+      "20 ★"
+     ]
+    }
+   ],
+   "rules": [
+    "Lay the track in a line from 0 to 20. Each player puts a button on 10.",
+    "On your turn, toss a coin and roll a dice.",
+    "Heads means add: you will hop forward as many squares as the dice shows. Tails means take away: you will hop back that many.",
+    "Before you move, say the sum aloud, such as '10 plus 4' or '10 minus 4', and say where you will land. Then hop, counting each square, to check.",
+    "If the hop would take you past 20 or below 0, stay where you are for that turn.",
+    "The first player to land on a star square, from 15 to 20, wins.",
+    "Playing alone: count how many turns you need to reach a star square. Play again and see whether you need fewer."
+   ],
+   "setup": [
+    {
+     "art": "A chalk number track from 0 to 20 drawn on a floor with stars on squares 15 to 20, and two buttons on square 10.",
+     "caption": "1. Lay the track. Put your buttons on 10."
+    },
+    {
+     "art": "A coin showing heads beside a dice showing 4, and a button hopping forward from 10 to 14.",
+     "caption": "2. Heads: hop forward by the dice number."
+    },
+    {
+     "art": "A coin showing tails beside a dice showing 3, and a button hopping back from 14 to 11.",
+     "caption": "3. Tails: hop back by the dice number."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out or draw the 21 squares and lay them in a line from 0 to 20. 2. Mark stars on 15 to 20. 3. Each player puts a button on 10. 4. Read the rules aloud.",
+     "say": "Everyone starts on 10. Heads means hop forward. Tails means hop back.",
+     "kid": "Lay the track from 0 to 20. Put your button on 10.",
+     "context": "This is the first step of Heads Add, Tails Take Away, a game on a number track from 0 to 20. Here you set up the track.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "Everyone starts on 10",
+      "value": 10
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Play one practice turn each. 2. Show how to say the sum first, then say where you will land, then hop. 3. If you are on 10 with tails and 4, say '10 minus 4 is 6', then hop 9, 8, 7, 6.",
+     "say": "I am on 10. I got tails and a 4. So it is 10 minus 4. I will land on 6. Now I hop to check.",
+     "kid": "Toss the coin and roll the dice. Say the sum. Say where you will land. Then hop.",
+     "parent": "The most common slip is to count the square you are standing on as the first hop. The first hop always lands on the next square.",
+     "check": {
+      "t": "mcq",
+      "q": "You are on 10. You toss tails and roll 4. Where do you land?",
+      "options": [
+       "14",
+       "6",
+       "4"
+      ],
+      "a": 1,
+      "why": "6. Tails means take away, so you hop back four from 10: 9, 8, 7, 6. Picking 14 means hopping forward, which is for heads."
+     },
+     "context": "This is step 2 of Heads Add, Tails Take Away, a game on a number track from 0 to 20. Here you practise one turn.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "You are on 10. Tails and a 4.",
+      "value": 10
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play the game. 2. Each player says the sum and the landing square before hopping. 3. Now and then, ask what toss and roll a player is hoping for.",
+     "say": "You are on 12. What would you like to toss and roll now? Why?",
+     "kid": "Play the game. Say your sum before you hop. Land on a star to win.",
+     "ask": [
+      {
+       "q": "You are on 12. What do you need to reach a star?",
+       "good": [
+        "Heads and 3 or more.",
+        "12 plus 3 is 15."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Heads Add, Tails Take Away, a game on a number track from 0 to 20. Here you play the game."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. The game ends when someone lands on a star square. 2. Ask each player where they finished, and how far they were from 15.",
+     "say": "Who landed on a star first? How far from 15 did everyone else finish?",
+     "kid": "The first to land on a star wins. Where did you finish?",
+     "context": "This is the last step of Heads Add, Tails Take Away, a game on a number track from 0 to 20. Here you finish the game."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Banana Diary: five days of adding and taking away",
+   "mins": 25,
+   "days": 5,
+   "context": "In this five-day project you keep a diary for one food at home that is counted one by one, such as bananas, eggs or biscuits. Each morning you count. Each evening you work out how many should be left, and then you check. The point is to use sums to keep track of something real.",
+   "problem": "How many bananas should be left this evening? Work it out first. Then go and look.",
+   "materials": [
+    {
+     "item": "a food that is counted one by one: a bunch of bananas, a tray of eggs or a packet of biscuits",
+     "qty": "6 to 12 at the start"
+    },
+    {
+     "item": "a sheet of paper for the diary, with a row for each day",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "Count the bananas in the morning and write the number. In the evening, ask how many were eaten, work out how many should be left, and then count to check."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Do the same. Write the day's change as a sum, such as 9 − 2 = 7."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "If someone buys more, write an adding sum. If not, write a taking-away sum."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "In the morning, guess how many will be left by evening. Check in the evening."
+    },
+    {
+     "day": 5,
+     "mins": 5,
+     "what": "Look at all five days. On which day did the number change most? Did it ever go up?"
+    }
+   ],
+   "record": "A diary with four columns: the day, the number in the morning, what changed, and the number in the evening. Write each day's change as a sum.",
+   "example_chart": {
+    "type": "table",
+    "cols": [
+     "Day",
+     "Morning",
+     "What changed",
+     "Evening"
+    ],
+    "rows": [
+     [
+      "1",
+      "12",
+      "3 eaten",
+      "9"
+     ],
+     [
+      "2",
+      "9",
+      "2 eaten",
+      "7"
+     ],
+     [
+      "3",
+      "7",
+      "6 bought, 2 eaten",
+      "11"
+     ],
+     [
+      "4",
+      "11",
+      "4 eaten",
+      "7"
+     ],
+     [
+      "5",
+      "7",
+      "3 eaten",
+      "4"
+     ]
+    ],
+    "title": "What a diary can look like (your numbers will be your own)"
+   },
+   "setup": [
+    {
+     "art": "A bunch of twelve bananas on a kitchen table beside a sheet of paper ruled into four columns.",
+     "caption": "1. Morning: count and write the number."
+    },
+    {
+     "art": "A child at the table in the evening with her back to the bananas, working out a sum on her fingers.",
+     "caption": "2. Evening: ask what changed. Work out how many should be left."
+    },
+    {
+     "art": "The child counting the bananas left on the bunch and ticking the diary.",
+     "caption": "3. Count to check. Write the sum."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Each morning, your child counts the bananas and writes the number in the diary. 2. Ask how many they think will be left by evening.",
+     "say": "How many bananas are there this morning? Write it down. How many do you think will be left tonight?",
+     "kid": "Count the bananas. Write the number in your diary.",
+     "context": "This is the morning step of the Banana Diary, a five-day project. You count the bananas and write the number.",
+     "chart": {
+      "type": "dots",
+      "title": "An example. Your number will be your own.",
+      "rows": [
+       {
+        "label": "bananas this morning",
+        "n": 12
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Each evening, ask the family how many were eaten, and whether any were bought. 2. Before looking, your child works out how many should be left. 3. Your child counts to check, and writes the sum.",
+     "say": "3 bananas were eaten today. There were 12 this morning. How many should be left? Now go and count.",
+     "kid": "Ask how many were eaten. Work out how many should be left. Then count to check.",
+     "parent": "If the count does not match, that is the interesting part. Did someone eat one without saying? Was one missed in the morning? Let your child find out.",
+     "check": {
+      "t": "mcq",
+      "q": "There were 9 bananas this morning. 2 were eaten. Nobody bought any. How many should be left?",
+      "options": [
+       "11",
+       "7",
+       "2"
+      ],
+      "a": 1,
+      "why": "7. Eating takes away. Count back two from 9: 8, 7. Picking 11 means the 2 were added."
+     },
+     "context": "This is the evening step of the Banana Diary, a five-day project. You work out how many bananas should be left, and then count.",
+     "chart": {
+      "type": "dots",
+      "title": "An example. Your numbers will be your own.",
+      "rows": [
+       {
+        "label": "this morning",
+        "n": 12
+       },
+       {
+        "label": "eaten today",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. On day 5, look at the whole diary together. 2. Ask on which day the number went down most, and whether it ever went up. 3. Ask what made it go up.",
+     "say": "Look at all five days. When did the number go down most? Did it ever go up? What made it go up?",
+     "kid": "Look at your diary. When did the number go down most? Did it ever go up?",
+     "ask": [
+      {
+       "q": "The bananas that were eaten were taken away from the bunch. Where did they go?",
+       "good": [
+        "Into us.",
+        "Into our tummies.",
+        "They became part of the family."
+       ]
+      }
+     ],
+     "context": "This is the last step of the Banana Diary, a five-day project. You look back over five days of sums."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Stretch: pay 8 when you have only 5",
+   "mins": 15,
+   "context": "This is a design challenge that goes past Class 1. In a shop game you must pay more than you have. You invent a way to write down what you still owe, so that nobody forgets.",
+   "problem": "You are playing shop. You have 5 beans as money. A toy costs 8 beans. The shopkeeper lets you take it today and pay the rest later. Invent a way to show exactly how much you still owe.",
+   "constraints": [
+    "Anyone who looks at your record must be able to tell how much you owe.",
+    "When you pay some of the debt later, your record must show the debt getting smaller.",
+    "You may use beans of two colours, paper, a pencil and cups."
+   ],
+   "materials": [
+    "10 beans of one colour, such as rajma",
+    "10 beans or seeds of another colour, such as white chana or groundnuts",
+    "paper and a pencil",
+    "2 cups"
+   ],
+   "general": [
+    "Write a note: 'I owe 3 beans.'",
+    "Draw 3 empty circles for the beans you still have to give. Fill one in each time you pay a bean.",
+    "Ask the shopkeeper to remember."
+   ],
+   "creative": [
+    "Use a second colour of bean for what you owe. In old China, people used red sticks for what they had and black sticks for what they owed.",
+    "Draw a number line that goes on to the left of zero, and put a mark three hops to the left.",
+    "Write the number you owe with a dot over it. Many old Indian maths books marked a debt that way."
+   ],
+   "your_turn": "Now invent your own way. Then test it. You earn 2 beans, and then 4 more. Show on your record what you owe after each.",
+   "setup": [
+    {
+     "art": "A child handing five beans to a parent playing shopkeeper, with a small toy on the floor between them and a slip of paper marked 8.",
+     "caption": "1. The toy costs 8 beans. You have 5. Pay what you can."
+    },
+    {
+     "art": "A sheet of paper with three empty circles drawn on it, labelled 'I owe', beside a cup holding three white beans.",
+     "caption": "2. Invent a way to show what you still owe."
+    },
+    {
+     "art": "The child filling in two of the three circles after handing over two more beans.",
+     "caption": "3. Pay some more. Change your record."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Give your child 5 beans. You are the shopkeeper. 2. Say that the toy costs 8 beans, and that they may take it today. 3. Your child pays what they can. 4. Ask how many more they must bring tomorrow.",
+     "say": "The toy costs 8 beans. You have 5. Pay me what you have. How many do you still owe me?",
+     "kid": "Pay 5 beans for a toy that costs 8. How many do you still owe?",
+     "ask": [
+      {
+       "q": "How did you work out 3?",
+       "good": [
+        "I counted on from 5 to 8: 6, 7, 8.",
+        "8 take away 5 is 3."
+       ]
+      }
+     ],
+     "parent": "Counting on from 5 to 8 gives 3. If your child says 'I have none left, so I owe nothing', lay 8 beans in a row and cover 5 of them.",
+     "context": "This is the first step of the challenge Pay 8 When You Have Only 5. You pay what you can and work out what you still owe.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "the toy costs",
+        "n": 8
+       },
+       {
+        "label": "you pay",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Ask how the debt could be written down so that nobody forgets it. 2. Let your child try an idea of their own. 3. If they want ideas, read the usual ways and the creative ways aloud.",
+     "say": "Tomorrow we may forget. How can we show that you owe me 3 beans?",
+     "kid": "Think of a way to show that you owe 3 beans. Make it.",
+     "context": "This is step 2 of the challenge Pay 8 When You Have Only 5. You invent a way to record a debt of 3 beans."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Give your child 2 beans as pay for a small job. 2. They pay you and change their record. 3. Give 4 more. They pay what is still owed and keep the rest.",
+     "say": "Here are 2 beans for helping me. Pay your debt. What do you owe now? Here are 4 more.",
+     "kid": "You get 2 beans. Pay them. What do you owe now? Then you get 4 more.",
+     "parent": "Owing 3 and paying 2 leaves a debt of 1. Then, out of 4 more beans, 1 pays the debt and your child keeps 3.",
+     "check": {
+      "t": "mcq",
+      "q": "You owe 3 beans. You pay 2. How many do you still owe?",
+      "options": [
+       "5",
+       "1",
+       "0"
+      ],
+      "a": 1,
+      "why": "1. Paying makes a debt smaller: 3 take away 2 is 1. Picking 5 means the 2 were added to the debt."
+     },
+     "context": "This is step 3 of the challenge Pay 8 When You Have Only 5. You pay off the debt bit by bit and change your record.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "you owe",
+        "n": 3
+       },
+       {
+        "label": "you pay",
+        "n": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Draw a number line from −5 to 5, with zero in the middle. 2. Say that people write 'owe 3' as −3, three hops to the left of zero. 3. Ask where 'owe 1' would sit.",
+     "say": "People write 'owe 3' as minus 3. It sits 3 hops to the left of zero. Where is 'owe 1'?",
+     "kid": "Find zero on the number line. Hop 3 to the left. That is 'owe 3'.",
+     "context": "This is the last step of the challenge Pay 8 When You Have Only 5. You see how people write a debt on a number line.",
+     "chart": {
+      "type": "scale",
+      "min": -5,
+      "max": 5,
+      "step": 1,
+      "title": "The pointer is on −3: 'I owe 3'",
+      "value": -3
+     }
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Put Together, Take Away (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "fill",
+     "p": "How many beans in all? 4 + 2 = ____",
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "There are 4 beans, and 2 more are coming. Count on from 4: 5, 6.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "beans",
+        "n": 4,
+        "more": 2
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "How many dosas are left? 7 − 3 = ____",
+     "a": [
+      "4",
+      "four"
+     ],
+     "why": "Take 3 away from 7. Count back three: 6, 5, 4. So 4 dosas are left.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "dosas on the plate",
+        "n": 7
+       },
+       {
+        "label": "eaten",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "5 idlis are on the plate. 3 more come. Which sum fits?",
+     "opts": [
+      "5 + 3",
+      "5 − 3",
+      "3 − 5"
+     ],
+     "a": 0,
+     "why": "More idlis came, so the two groups are put together. That is adding: 5 + 3 = 8."
+    },
+    {
+     "t": "truefalse",
+     "p": "3 + 6 and 6 + 3 give the same total.",
+     "a": true,
+     "why": "True. Both are 9. The same two groups are put together, only in a different order.",
+     "how": "e1",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "3 first, then 6",
+        "n": 3,
+        "more": 6
+       },
+       {
+        "label": "6 first, then 3",
+        "n": 6,
+        "more": 3
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Work out this sum. 8 + 2 = ____",
+     "a": [
+      "10",
+      "ten"
+     ],
+     "why": "Start at 8 and count on two: 9, 10.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "8",
+       "+ 2"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "9 crows sit on a wire. 2 fly away. How many are left?",
+     "opts": [
+      "11",
+      "7",
+      "2"
+     ],
+     "a": 1,
+     "why": "Flying away is taking away. Count back two from 9: 8, 7. Picking 11 means the 2 were added."
+    },
+    {
+     "t": "match",
+     "p": "Match each sum to its answer.",
+     "pairs": [
+      [
+       "2 + 3",
+       "5"
+      ],
+      [
+       "6 − 2",
+       "4"
+      ],
+      [
+       "4 + 4",
+       "8"
+      ],
+      [
+       "7 − 1",
+       "6"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "2 + 3 = 5. 6 − 2 = 4. 4 + 4 = 8. 7 − 1 = 6. Use beans to check each one."
+    },
+    {
+     "t": "truefalse",
+     "p": "6 + 0 = 6",
+     "a": true,
+     "why": "True. Adding zero means adding nothing, so the 6 stays 6."
+    },
+    {
+     "t": "fill",
+     "p": "Start on 12. Hop forward 3. Where do you land? ____",
+     "a": [
+      "15",
+      "fifteen"
+     ],
+     "why": "From 12, hop 13, 14, 15. So 12 + 3 = 15.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "The pointer is on 12",
+      "value": 12
+     }
+    },
+    {
+     "t": "draw",
+     "p": "Draw 5 laddus. Then draw 2 more. Write the sum under your picture.",
+     "a": "7 laddus in all, and the sum 5 + 2 = 7.",
+     "why": "A strong drawing shows the two groups. The sum says that they were put together."
+    },
+    {
+     "t": "draw",
+     "p": "Draw 8 balloons. Cross out 3 that popped. Write the sum.",
+     "a": "8 balloons with 3 crossed out, and the sum 8 − 3 = 5.",
+     "why": "Crossing out shows taking away. 5 balloons are not crossed out."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. Why do 3 and 5 make the same total as 5 and 3?",
+     "lines": 2,
+     "a": "Because they are the same beans. Only the order changed, and no bean was added or lost.",
+     "why": "A strong answer says that the total depends on which beans are there, not on which heap went first.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Sums up to 20 (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "Start on 9. Hop forward 4. 9 + 4 = ____",
+     "a": [
+      "13",
+      "thirteen"
+     ],
+     "why": "From 9, hop forward four: 10, 11, 12, 13.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "The pointer is on 9",
+      "value": 9
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Work out this sum. 15 − 3 = ____",
+     "a": [
+      "12",
+      "twelve"
+     ],
+     "why": "Count back three from 15: 14, 13, 12.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "15",
+       "− 3"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "A full ten-frame and 6 more beans. 10 + 6 = ____",
+     "a": [
+      "16",
+      "sixteen"
+     ],
+     "why": "Ten and six more is sixteen. Count on from 10 if you need to: 11, 12, 13, 14, 15, 16.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "beans",
+        "n": 10,
+        "more": 6
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Which is the quickest right way to work out 2 + 9?",
+     "opts": [
+      "Start at 2 and count on nine",
+      "Start at 9 and count on two",
+      "Guess"
+     ],
+     "a": 1,
+     "why": "You can add in either order, so start with the bigger number. From 9, count on two: 10, 11. Starting at 2 also gives 11, but it takes nine hops."
+    },
+    {
+     "t": "mcq",
+     "p": "13 − 13 = ?",
+     "opts": [
+      "13",
+      "0",
+      "1"
+     ],
+     "a": 1,
+     "why": "Taking away all 13 leaves none. None is zero."
+    },
+    {
+     "t": "truefalse",
+     "p": "You take 4 beans away from 11 beans. Now there are more than 11 beans.",
+     "a": false,
+     "why": "False. Taking away makes fewer. 11 − 4 = 7, and 7 is less than 11."
+    },
+    {
+     "t": "order",
+     "p": "Put these sums in order, from the smallest answer to the biggest.",
+     "items": [
+      "10 + 5",
+      "6 + 2",
+      "12 − 9",
+      "9 + 9"
+     ],
+     "a": [
+      "12 − 9",
+      "6 + 2",
+      "10 + 5",
+      "9 + 9"
+     ],
+     "why": "12 − 9 = 3. 6 + 2 = 8. 10 + 5 = 15. 9 + 9 = 18."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each story: is it adding or taking away?",
+     "cats": [
+      "Adding",
+      "Taking away"
+     ],
+     "items": [
+      [
+       "3 more guests come",
+       "Adding"
+      ],
+      [
+       "2 eggs break",
+       "Taking away"
+      ],
+      [
+       "You get 4 murukkus",
+       "Adding"
+      ],
+      [
+       "5 children go home",
+       "Taking away"
+      ],
+      [
+       "You spend 6 rupees",
+       "Taking away"
+      ],
+      [
+       "A hen lays 1 more egg",
+       "Adding"
+      ]
+     ],
+     "a": "see items",
+     "why": "When something joins the group, it is adding. When something leaves the group, it is taking away."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a number line from 0 to 20. Show 14 − 5 with hops. Write the answer.",
+     "a": "Five hops back from 14, landing on 9.",
+     "why": "The hops back land on 13, 12, 11, 10, 9. So 14 − 5 = 9."
+    },
+    {
+     "t": "write",
+     "p": "Make up a story for the sum 12 − 4. Say it aloud. A grown-up writes it.",
+     "lines": 3,
+     "a": "Any story where 12 things are there and 4 leave, so that 8 are left. For example: 12 eggs were in the tray, 4 were used, and 8 are left.",
+     "why": "A strong story has something going away, and ends with 8."
+    },
+    {
+     "t": "perspective",
+     "p": "Meena gives 2 of her 5 murukkus to her brother Arun, who has 1.",
+     "views": [
+      {
+       "who": "Meena",
+       "says": "That was taking away. I had 5 and now I have 3."
+      },
+      {
+       "who": "Arun",
+       "says": "That was adding. I had 1 and now I have 3."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
+     "lines": 3,
+     "a": "A strong answer sees that both are right. It was one move: 5 − 2 = 3 for Meena and 1 + 2 = 3 for Arun. Together they still have 6.",
+     "why": "Whether a move is adding or taking away depends on whose murukkus you are counting. The number the two have together did not change.",
+     "how": "e1",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "Meena, before",
+        "n": 5
+       },
+       {
+        "label": "Arun, before",
+        "n": 1
+       }
+      ]
+     }
+    },
+    {
+     "t": "draw",
+     "p": "Draw 3 idlis and 2 vadas on a plate. Then finish the sentence: There are 5 ____.",
+     "a": "A plate with 3 idlis and 2 vadas, and a name that fits both, such as 'things to eat' or 'snacks'.",
+     "why": "They are not 5 idlis, and not 5 vadas. The total needs a name that fits both.",
+     "how": "a1"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Think It Through (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "8 beans, and 5 more. 8 + 5 = ____",
+     "a": [
+      "13",
+      "thirteen"
+     ],
+     "why": "Two of the five fill the ten. Three are left over. Ten and three is 13.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "beans",
+        "n": 8,
+        "more": 5
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Start on 17. Hop back 8. 17 − 8 = ____",
+     "a": [
+      "9",
+      "nine"
+     ],
+     "why": "Hop back eight from 17: 16, 15, 14, 13, 12, 11, 10, 9.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "The pointer is on 17",
+      "value": 17
+     }
+    },
+    {
+     "t": "fill",
+     "p": "This goes past Class 1. Three heaps: 4 + 3 + 2 = ____",
+     "a": [
+      "9",
+      "nine"
+     ],
+     "why": "Put the first two together: 4 + 3 = 7. Then add the last: 7 + 2 = 9. Any order gives 9.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "first heap",
+        "n": 4
+       },
+       {
+        "label": "second heap",
+        "n": 3
+       },
+       {
+        "label": "third heap",
+        "n": 2
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "There were 9 beans. Some are hidden now. You can see 6. How many are hidden?",
+     "opts": [
+      "15",
+      "3",
+      "6"
+     ],
+     "a": 1,
+     "why": "Count on from 6 to 9: 7, 8, 9. That is 3. Picking 15 means the two numbers were added.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "at first",
+        "n": 9
+       },
+       {
+        "label": "you can see",
+        "n": 6
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these cannot be done with beans?",
+     "opts": [
+      "9 − 4",
+      "4 − 9",
+      "4 + 9"
+     ],
+     "a": 1,
+     "why": "With 4 beans on the plate, you cannot take 9 away. The other two can be done: 9 − 4 = 5 and 4 + 9 = 13."
+    },
+    {
+     "t": "mcq",
+     "p": "7 + 6 = 13. Without counting, what is 6 + 7?",
+     "opts": [
+      "12",
+      "13",
+      "14"
+     ],
+     "a": 1,
+     "why": "13. Adding in the other order gives the same total."
+    },
+    {
+     "t": "truefalse",
+     "p": "Adding always makes a number bigger.",
+     "a": false,
+     "why": "False. Adding zero leaves the number the same: 8 + 0 = 8. Adding one or more does make it bigger."
+    },
+    {
+     "t": "truefalse",
+     "p": "2 drops of water pushed together make 2 drops.",
+     "a": false,
+     "why": "False. They join into one bigger drop. Adding numbers fits things that stay separate, like beans.",
+     "how": "a5"
+    },
+    {
+     "t": "match",
+     "p": "Match each sum to the story that fits it.",
+     "pairs": [
+      [
+       "6 + 3",
+       "6 crows on a wire, 3 more land"
+      ],
+      [
+       "6 − 3",
+       "6 idlis on a plate, 3 are eaten"
+      ],
+      [
+       "3 + 3",
+       "3 chappals here and 3 there"
+      ],
+      [
+       "9 − 6",
+       "9 seeds in a cup, 6 are lifted out"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Stories where things join are adding. Stories where things leave are taking away. The first number in a taking-away sum is how many there were at the start."
+    },
+    {
+     "t": "write",
+     "p": "5 − 5 = 0, but 5 − 0 = 5. Why are the answers different? Say it aloud.",
+     "lines": 2,
+     "a": "In the first sum all five are taken away, so none are left. In the second sum none are taken away, so all five are left.",
+     "why": "A strong answer says what the zero means in each sum: none left, or none taken."
+    },
+    {
+     "t": "draw",
+     "p": "This goes past Class 1. Draw a number line from −3 to 3. Circle the place for 'I owe 2'.",
+     "a": "A line with −3, −2, −1, 0, 1, 2, 3 on it, and a circle on −2.",
+     "why": "Owing 2 is written −2. It sits two hops to the left of zero.",
+     "how": "c1"
+    },
+    {
+     "t": "perspective",
+     "p": "One drop of water is pushed into another drop. Now there is one drop.",
+     "views": [
+      {
+       "who": "Kavya",
+       "says": "So 1 + 1 is not always 2."
+      },
+      {
+       "who": "Nila",
+       "says": "1 + 1 is always 2. Drops are just the wrong thing to count."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side and gives a reason. For example: the numbers 1 and 1 always make 2, but the sum only fits things that stay separate.",
+     "why": "Mathematicians say that 1 + 1 = 2 is always true for numbers. Whether it fits what is in front of you depends on what you count.",
+     "how": "a5"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "fill",
+   "p": "Look at the picture. How many beans in all? 6 + 3 = ____",
+   "a": [
+    "9",
+    "nine"
+   ],
+   "why": "There are 6 beans, and 3 more are coming. Count on from 6: 7, 8, 9.",
+   "outcome": 0,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "beans",
+      "n": 6,
+      "more": 3
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "A full ten-frame has 10 beans. 5 more are beside it. How many beans?",
+   "opts": [
+    "5",
+    "15",
+    "105"
+   ],
+   "a": 1,
+   "why": "Ten and five more is fifteen. Picking 105 means writing the two numbers side by side. Adding puts the beans together.",
+   "outcome": 0,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "beans",
+      "n": 10,
+      "more": 5
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "8 bananas are in a bunch. 2 are eaten. How many are left?",
+   "opts": [
+    "10",
+    "6",
+    "2"
+   ],
+   "a": 1,
+   "why": "Eating takes away. Count back two from 8: 7, 6. Picking 10 means the 2 were added.",
+   "outcome": 1,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "bananas",
+      "n": 8
+     },
+     {
+      "label": "eaten",
+      "n": 2
+     }
+    ]
+   }
+  },
+  {
+   "t": "fill",
+   "p": "Work out this sum. 14 − 4 = ____",
+   "a": [
+    "10",
+    "ten"
+   ],
+   "why": "14 is ten and four. Take the four away, and ten is left.",
+   "outcome": 1,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "14",
+     "− 4"
+    ],
+    "answer": "?"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Which sum says '7 take away 2 leaves 5'?",
+   "opts": [
+    "7 + 2 = 9",
+    "7 − 2 = 5",
+    "2 − 7 = 5"
+   ],
+   "a": 1,
+   "why": "The sign − means take away. The number you start with comes first, then what is taken, then = and what is left.",
+   "outcome": 2
+  },
+  {
+   "t": "truefalse",
+   "p": "The sign = means that both sides are the same amount.",
+   "a": true,
+   "why": "True. In 4 + 2 = 6, the 4 + 2 on one side and the 6 on the other side are the same amount.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You are on 11 on the number line. You hop forward 4. Where do you land?",
+   "opts": [
+    "14",
+    "15",
+    "7"
+   ],
+   "a": 1,
+   "why": "From 11, hop 12, 13, 14, 15. Picking 14 means the 11 was counted as the first hop. Picking 7 means hopping back.",
+   "outcome": 3,
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 20,
+    "step": 1,
+    "title": "The pointer is on 11",
+    "value": 11
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "How do you work out 16 − 3 on a number line?",
+   "opts": [
+    "Start on 16 and hop back 3",
+    "Start on 3 and hop back 16",
+    "Start on 16 and hop forward 3"
+   ],
+   "a": 0,
+   "why": "Taking away is hopping back. Start on 16 and hop 15, 14, 13. The answer is 13.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "4 + 9 = 13. What is 9 + 4?",
+   "opts": [
+    "13",
+    "14",
+    "5"
+   ],
+   "a": 0,
+   "why": "13. Adding in the other order gives the same total, because the same two groups are put together.",
+   "outcome": 4
+  },
+  {
+   "t": "truefalse",
+   "p": "With beans, you can do 9 − 4, and you can also do 4 − 9.",
+   "a": false,
+   "why": "False. You can take 4 beans from 9. You cannot take 9 beans from 4, because the plate is empty after 4. In taking away, the order matters.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "7 + 0 = ?",
+   "opts": [
+    "0",
+    "7",
+    "70"
+   ],
+   "a": 1,
+   "why": "Adding zero means adding nothing, so 7 stays 7. Picking 0 mixes this up with taking everything away.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "9 laddus are on a plate. All 9 are eaten. How many are left?",
+   "opts": [
+    "9",
+    "1",
+    "0"
+   ],
+   "a": 2,
+   "why": "Taking away all of them leaves none. None is zero: 9 − 9 = 0.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "You have 6 beans and Amma has 4. You give Amma 2. How many do you two have together now?",
+   "opts": [
+    "8",
+    "10",
+    "12"
+   ],
+   "a": 1,
+   "why": "10, the same as before. The 2 beans only moved from your plate to Amma's. Now you have 4 and she has 6.",
+   "outcome": 6,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "you, before",
+      "n": 6
+     },
+     {
+      "label": "Amma, before",
+      "n": 4
+     }
+    ]
+   }
+  },
+  {
+   "t": "truefalse",
+   "p": "You give a friend 3 beans. It is taking away for you and adding for your friend.",
+   "a": true,
+   "why": "True. Your heap gets smaller by 3, and your friend's heap gets bigger by 3. It is one move with two names.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "4 tomatoes and 3 onions are in a basket. Which is true?",
+   "opts": [
+    "There are 7 tomatoes",
+    "There are 7 vegetables",
+    "There are 7 onions"
+   ],
+   "a": 1,
+   "why": "7 vegetables. 'Vegetables' is a name that fits both. There are still only 4 tomatoes and only 3 onions.",
+   "outcome": 7,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "tomatoes",
+      "n": 4
+     },
+     {
+      "label": "onions",
+      "n": 3
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these are still 2 after you push them together?",
+   "opts": [
+    "2 drops of water",
+    "2 balls of dough",
+    "2 beans"
+   ],
+   "a": 2,
+   "why": "2 beans. Beans stay separate, so you can still count two. Drops and dough join into one.",
+   "outcome": 7
+  }
+ ],
+ "videos": [
+  {
+   "title": "Introduction to addition | Basic addition and subtraction | Early Math | Khan Academy",
+   "channel": "Khan Academy",
+   "youtube": "fsTD_jqseBA",
+   "mins": 3,
+   "why": "For the child, with a parent: adding shown as putting groups together and as hops on a number line. Watch it after the Two Plates Test, not before.",
+   "check": "Title and channel confirmed by a YouTube lookup. A listing gives the length as about 3 minutes. The video was not watched through, so watch it once before showing it."
+  },
+  {
+   "title": "Introduction to subtraction | Basic addition and subtraction | Early Math | Khan Academy",
+   "channel": "Khan Academy",
+   "youtube": "AO9bHbUdg-M",
+   "mins": 3,
+   "why": "For the child, with a parent: taking away shown with things and on a number line. Watch it after the game Under the Tumbler.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
+  },
+  {
+   "title": "Bees Can Do Maths | RMIT University",
+   "channel": "RMIT University",
+   "youtube": "kCucnmIULGU",
+   "mins": 2,
+   "why": "For the parent and child together: the scientists who trained honeybees to add one and take away one show the maze and the bees.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
+  }
+ ],
+ "applications": [
+  "A shopkeeper adds the prices of the things you buy. Then she takes that total away from the money you gave, to find your change.",
+  "A bus conductor adds the people who get on and takes away the people who get off. That tells her how many seats are free.",
+  "A cricket scorer adds each run to the team's score, ball after ball.",
+  "A cook who needs 8 tomatoes and has 5 works out that 3 more must be bought.",
+  "A carrom player counts the coins left on the board. The game starts with 9 white coins, 9 black coins and 1 red queen. Each coin that is pocketed is one taken away.",
+  "A flower seller counts the strings of jasmine she made and the strings she has sold, to know how many are left.",
+  "A tailor who has 10 buttons and sews 6 onto a shirt knows that 4 are left in the box.",
+  "A dentist counts how many milk teeth a child still has, and how many new teeth have come."
+ ],
+ "spotted": [
+  {
+   "text": "An egg tray in the kitchen. Count the eggs, and count the empty hollows. Each empty hollow is an egg that was taken away.",
+   "art": "A tray for twelve eggs holding eight eggs, with four empty hollows."
+  },
+  {
+   "text": "A bus stop. Watch one bus. How many people get off? How many get on?",
+   "art": "A city bus at a stop with three people stepping off and two waiting to get on."
+  },
+  {
+   "text": "Your own mouth. Count the gaps where milk teeth have fallen out, and the new teeth that have come.",
+   "art": "A child looking into a small mirror and pointing at a gap in her front teeth."
+  },
+  {
+   "text": "A hen with her chicks. Scientists found that chicks only three days old can keep track of things that are added and taken away.",
+   "art": "A brown hen with five yellow chicks pecking in a courtyard."
+  },
+  {
+   "text": "The Moon. Look every night for a week. Is the bright part growing or shrinking?",
+   "art": "A row of seven Moons from a thin crescent to nearly full, above a rooftop water tank."
+  },
+  {
+   "text": "A Pallanguzhi board at a grandparent's house. Seeds leave one cup and join the next cups.",
+   "art": "A wooden Pallanguzhi board with fourteen cups and tamarind seeds, and an old woman's hand sowing seeds."
+  },
+  {
+   "text": "Chappals at the door. Someone comes home: add 2. Someone goes out: take away 2.",
+   "art": "A doorway with several pairs of chappals and one person stepping out of a pair."
+  },
+  {
+   "text": "Bees on flowers. In a test, honeybees learned that blue meant 'one more' and yellow meant 'one fewer'.",
+   "art": "A honeybee landing on a yellow flower beside a blue flower."
+  },
+  {
+   "text": "A bunch of bananas on the table, getting smaller every day.",
+   "art": "A bunch of bananas with three stalks showing where bananas have been pulled off."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "What goes on in a chick's mind when they follow the balls behind the screens?",
+   "why_open": "The tests show which screen the chick chooses. They do not show how the chick keeps track. Scientists do not know yet."
+  },
+  {
+   "q": "Are babies born expecting one and one to make two, or do they learn it in their first months?",
+   "why_open": "Babies five months old pass Karen Wynn's test. Scientists disagree about what the babies' long looks mean, and very young babies are hard to test."
+  },
+  {
+   "q": "Is 1 + 1 = 2 true everywhere in the universe, or only where there are separate things to count?",
+   "why_open": "Mathematicians and thinkers have argued for a very long time about whether sums are found or made by people. No test has settled it."
+  },
+  {
+   "q": "How does a brain add, whether it is a human brain or the tiny brain of a bee?",
+   "why_open": "Scientists have found nerve cells in monkeys and in crows that respond most strongly to one particular number of things. How such cells work together to add is still being studied."
+  }
+ ],
+ "ask_kids": [
+  "There are 4 of us at the table. Two guests are coming. How many plates do we need?",
+  "You have 10 fingers. Fold 3 down. How many are still up?",
+  "We bought 6 bananas. How many are left now? So how many have been eaten?",
+  "If I give you one of my idlis, who has more now? Did the number of idlis on the table change?",
+  "How many steps are there up to our door? If you jump the last 2, how many do you climb?",
+  "What is something that got added to today? What is something that got taken away from?"
+ ],
+ "jokes": [
+  {
+   "j": "I had 4 laddus and I ate 4 laddus. What do I have now?",
+   "a": "A tummy ache!"
+  },
+  {
+   "j": "How do you make seven even?",
+   "a": "Take away the S!"
+  },
+  {
+   "j": "There were 10 cats in a boat. One jumped out. How many were left?",
+   "a": "None. They were all copycats!"
+  },
+  {
+   "j": "Why is 2 + 2 = 5 like your left foot?",
+   "a": "Because it is not right!"
+  },
+  {
+   "j": "What did one maths book say to the other maths book?",
+   "a": "I have so many problems!"
+  },
+  {
+   "j": "How many idlis can you eat on an empty stomach?",
+   "a": "Only one. After that your stomach is not empty!"
+  },
+  {
+   "j": "You have 5 mangoes in one hand and 4 mangoes in the other. What do you have?",
+   "a": "Very big hands!"
+  },
+  {
+   "j": "Why did the girl eat her maths homework?",
+   "a": "Her teacher said it was a piece of cake!"
+  },
+  {
+   "j": "What do you get when you add 2 bananas and 3 bananas?",
+   "a": "A bunch!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In Bigger Total Wins you turn over 3 and 9. Your friend turns over 6 and 5. Who wins the round?",
+   "answer": "You do. Your total is 12 and your friend's total is 11.",
+   "explain": "For 3 + 9, start at the bigger number, 9, and count on three: 10, 11, 12. For 6 + 5, start at 6 and count on five: 7, 8, 9, 10, 11. 12 is one more than 11, so you win.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "how": "g2",
+   "context": "In the card game Bigger Total Wins, each player turns over two cards and adds them. The bigger total wins.",
+   "why_maths": "Adding gives each player's total. Comparing the two totals tells you who wins.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "you: 3 and 9",
+      "n": 3,
+      "more": 9
+     },
+     {
+      "label": "friend: 6 and 5",
+      "n": 6,
+      "more": 5
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "you: 12",
+      "n": 12
+     },
+     {
+      "label": "friend: 11",
+      "n": 11
+     }
+    ]
+   }
+  },
+  {
+   "problem": "On the small Pallanguzhi board the six cups hold 0, 4, 4, 4, 3 and 3 seeds. How many seeds are on the whole board? Could you have known without adding?",
+   "answer": "18 seeds. Yes: the board started with 18, and no seed has gone from the board.",
+   "explain": "Add the cups: 0 + 4 + 4 + 4 + 3 + 3 = 18. But there is a quicker way. Sowing only moves seeds from cup to cup. What one cup loses, other cups gain. So the total is still the 18 you started with.",
+   "math_unit": "math.addition-subtraction.word-problems.L1",
+   "how": "a4",
+   "context": "When you sowed seeds as in Pallanguzhi, you lifted the seeds from one cup and dropped one in each next cup.",
+   "why_maths": "Knowing what does not change saves you from adding six numbers.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "",
+     "left",
+     "middle",
+     "right"
+    ],
+    "rows": [
+     [
+      "far row",
+      "3",
+      "3",
+      "4"
+     ],
+     [
+      "your row",
+      "0",
+      "4",
+      "4"
+     ]
+    ],
+    "title": "The board after one move"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "0 + 4 + 4",
+     "+ 4 + 3 + 3"
+    ],
+    "answer": "18"
+   }
+  },
+  {
+   "problem": "On Monday morning there were 12 bananas. 3 were eaten on Monday and 4 were eaten on Tuesday. How many are left on Wednesday morning?",
+   "answer": "5 bananas.",
+   "explain": "After Monday: 12 − 3 = 9. After Tuesday: 9 − 4 = 5. So 5 bananas are left.",
+   "math_unit": "math.addition-subtraction.word-problems.L1",
+   "how": "p1",
+   "context": "In the Banana Diary you counted in the morning and worked out how many should be left in the evening. Here are two days in a row.",
+   "why_maths": "Taking away twice tells you what is left without going to look.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "bananas on Monday",
+      "n": 12
+     },
+     {
+      "label": "eaten on Monday",
+      "n": 3
+     },
+     {
+      "label": "eaten on Tuesday",
+      "n": 4
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "12",
+     "− 3",
+     "− 4"
+    ],
+    "answer": "5"
+   }
+  },
+  {
+   "problem": "You tip 6 beans and 5 beans together and count 12. Then you tip 5 beans and 6 beans together and count 11. Can both counts be right? What should you do?",
+   "answer": "No. The total must be the same both ways. Count again, sliding each bean. It is 11.",
+   "explain": "The same beans are on the plate both times, so the number cannot change. One of the counts went wrong: a bean got two numbers. Count on from 6 to check: 7, 8, 9, 10, 11. So 6 + 5 = 11 and 5 + 6 = 11.",
+   "math_unit": "math.number-sense.counting.L1",
+   "how": "e1",
+   "context": "In the Two Plates Test you put two heaps together in both orders and got the same total each time.",
+   "why_maths": "Knowing that the order cannot change the total lets you catch a counting slip.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "6 first, then 5",
+      "n": 6,
+      "more": 5
+     },
+     {
+      "label": "5 first, then 6",
+      "n": 5,
+      "more": 6
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "6",
+     "+ 5"
+    ],
+    "answer": "11"
+   }
+  },
+  {
+   "problem": "In Under the Tumbler there are 10 beans. Slide 1 out and 9 are hidden. Slide 2 out and 8 are hidden. What happens to the hidden number each time one more bean comes out? How many are hidden when 6 are out?",
+   "answer": "The hidden number goes down by 1 each time. When 6 are out, 4 are hidden.",
+   "explain": "Each bean that comes out is one fewer under the tumbler. 10 − 6 = 4. The beans outside and the beans hidden always make 10 together.",
+   "math_unit": "math.addition-subtraction.number-facts.L1",
+   "how": "g1",
+   "context": "In the game Under the Tumbler, some of 10 beans are slid out and you say how many are still hidden.",
+   "why_maths": "Spotting the pattern lets you say the hidden number at once, without counting back each time.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "slid out",
+     "hidden"
+    ],
+    "rows": [
+     [
+      "1",
+      "9"
+     ],
+     [
+      "2",
+      "8"
+     ],
+     [
+      "3",
+      "7"
+     ],
+     [
+      "6",
+      "?"
+     ]
+    ],
+    "title": "10 beans in all"
+   },
+   "answer_chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "slid out",
+      "n": 6
+     },
+     {
+      "label": "hidden",
+      "n": 4
+     }
+    ]
+   }
+  },
+  {
+   "problem": "This one is harder. You have 8 beans and Amma has 2. How many must you give her so that you both have the same number?",
+   "answer": "3 beans. Then you both have 5.",
+   "explain": "Together you have 10 beans, and giving does not change that. For both to have the same, each needs 5. You go from 8 down to 5 by giving 3. Amma goes from 2 up to 5 by getting 3.",
+   "math_unit": "math.addition-subtraction.meaning.L2",
+   "how": "e1",
+   "context": "In the Two Plates Test you gave 2 of your beans to your grown-up. Your plate went down, their plate went up, and the total stayed the same.",
+   "why_maths": "One move changes two heaps at once. Taking away and adding together tell you what a fair share needs.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "you",
+      "n": 8
+     },
+     {
+      "label": "Amma",
+      "n": 2
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "you, after giving 3",
+      "n": 5
+     },
+     {
+      "label": "Amma, after getting 3",
+      "n": 5
+     }
+    ]
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.addition-subtraction.L1",
+  "title": "Put Together, Take Away",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Number Frames, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/number-frames/",
+   "kind": "interactive",
+   "why": "A free ten-frame on the screen. Drag counters in to add, and drag them out to take away."
+  },
+  {
+   "title": "Number Line, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/number-line/",
+   "kind": "interactive",
+   "why": "A free number line on the screen. Draw hops forward to add and hops back to take away."
+  },
+  {
+   "title": "StoryWeaver, by Pratham Books",
+   "url": "https://storyweaver.org.in/",
+   "kind": "interactive",
+   "why": "Free picture books in many Indian languages. Search for 'addition' or 'subtraction' to find number stories to read together."
+  },
+  {
+   "title": "NRICH, from the University of Cambridge",
+   "url": "https://nrich.maths.org/",
+   "kind": "interactive",
+   "why": "Free maths games and puzzles for young children. For the parent to pick from."
+  },
+  {
+   "title": "Ramanujan Museum and Math Education Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Royapuram, Chennai",
+   "why": "A small museum about the mathematician Srinivasa Ramanujan, with hands-on maths activities for children. Call ahead to check the timings."
+  },
+  {
+   "title": "Ramanujan Math Park",
+   "url": "",
+   "kind": "place",
+   "where": "Kuppam, Andhra Pradesh",
+   "why": "An outdoor maths park on the Agastya Foundation campus. Visits are usually by appointment."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-dice",
+   "item": "A pair of dice",
+   "kind": "game",
+   "why": "For the game Heads Add, Tails Take Away, and for playing Under the Tumbler alone. Any dice from a ludo or snakes and ladders set will do.",
+   "url": "https://www.amazon.in/s?k=dice+set+for+board+games",
+   "used_in": [
+    "g1",
+    "g3"
+   ]
+  },
+  {
+   "id": "b-cards",
+   "item": "A pack of playing cards",
+   "kind": "game",
+   "why": "For the game Bigger Total Wins. Use the Ace to 10 and put the picture cards aside. Home-made number cards work just as well.",
+   "url": "https://www.amazon.in/s?k=playing+cards",
+   "used_in": [
+    "g2"
+   ]
+  },
+  {
+   "id": "b-pallanguzhi",
+   "item": "A Pallanguzhi board with seeds or cowries",
+   "kind": "game",
+   "why": "The real 14-cup board for the old Tamil game. The activity in this unit works with 6 katoris, so the board is only for families who want to learn the full game.",
+   "url": "https://www.amazon.in/s?k=pallanguzhi+board",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "After the sowing activity, ask a grandparent or a neighbour who knows Pallanguzhi to teach the family their rules, and play one game a week."
+  },
+  {
+   "id": "b-mousecount",
+   "item": "Mouse Count, by Ellen Stoll Walsh",
+   "kind": "book",
+   "why": "A picture book in which a snake puts ten mice into a jar one by one, and the mice get out again one by one. It is adding and taking away up to 10.",
+   "url": "https://www.amazon.in/s?k=Mouse+Count+Ellen+Stoll+Walsh",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Read it before Beans, Picture, Sum. On each page, your child shows the number of mice in the jar with beans."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "3 + 2 = ____",
+   "a": "5"
+  },
+  {
+   "q": "8 − 1 = ____",
+   "a": "7"
+  },
+  {
+   "q": "5 + 0 = ____",
+   "a": "5"
+  },
+  {
+   "q": "6 − 6 = ____",
+   "a": "0"
+  },
+  {
+   "q": "Count on two from 9.",
+   "a": "10, 11"
+  },
+  {
+   "q": "Which is more: 4 + 4 or 4 + 3?",
+   "a": "4 + 4"
+  },
+  {
+   "q": "10 + 3 = ____",
+   "a": "13"
+  },
+  {
+   "q": "You have 7 beans and give away 2. How many do you have now?",
+   "a": "5"
+  },
+  {
+   "q": "2 + 7 is the same as 7 + ____.",
+   "a": "2"
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g1",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "g1",
+   "a2",
+   "story",
+   "g2",
+   "ws-core",
+   "a1",
+   "g3",
+   "a3",
+   "a4",
+   "a5",
+   "a6",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "g1",
+   "g2",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "g1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We put beans together, took beans away and passed them from plate to plate. Now let us think about what taking away really is.",
+  "deep_truth": {
+   "truth": "Take 2 beans from your plate and give them to Amma. For you it is taking away. For Amma it is adding. It is one move with two names. Count both plates together, and no bean is lost.",
+   "habit": "We think 'taken away' means gone. But the beans only moved. Whether we call the move adding or taking away depends on whose plate we look at.",
+   "evidence": "In the Two Plates Test you gave away 2 of your 5 beans. Your plate went down to 3, the other plate went up to 7, and together there were still 10."
+  },
+  "three": {
+   "who_am_i": "You are giving and getting all day. The idli taken from your plate is added to you. The breath that leaves you is added to the air in the room.",
+   "what_is_life": "Other living beings keep track of more and fewer too. A chick three days old can follow balls as they are added and taken away behind a screen.",
+   "what_is_this_world": "In the world, things mostly move. Rain is taken from the cloud and added to the river. We choose where to look, and then we call it adding or taking away."
+  },
+  "thread": "Start with nothing. Add one bean, and you have one. Keep adding one, and you can reach any number. Take them away one by one, and you are back at nothing. And when beans only move from plate to plate, the number of beans in all stays as it was.",
+  "teachings": [
+   {
+    "source": "Isha Upanishad, opening verse",
+    "teaching": "The verse says: that is whole, and this is whole. Take the whole from the whole, and the whole is still there.",
+    "link": "With beans, taking away leaves fewer on the plate. But count every plate together and nothing is missing. The verse speaks of a whole like that, which giving does not make smaller."
+   },
+   {
+    "source": "Anaxagoras, fragment 17",
+    "teaching": "Anaxagoras was a Greek thinker who lived about 2,500 years ago. He said that nothing truly begins or ends. Things are only mixed together and separated again.",
+    "link": "That is putting together and taking apart. He thought every change in the world was one of these two."
+   },
+   {
+    "source": "Chandogya Upanishad 6.1.4",
+    "teaching": "Uddalaka tells his son that if you know one lump of clay, you know everything made of clay. The pot and the plate differ only in name.",
+    "link": "To add idlis and vadas, you look past their two names and find one name that fits both."
+   }
+  ],
+  "science": [
+   {
+    "text": "When a puddle dries, the water is not gone. It has moved into the air. Scientists have found that in everyday changes, stuff is never lost. It only moves or changes form. Antoine Lavoisier showed this in France more than 200 years ago, by weighing things before and after they burned. Marie-Anne Paulze Lavoisier worked with him in the laboratory and drew the instruments.",
+    "status": "settled"
+   },
+   {
+    "text": "Chicks three days old, honeybees and human babies five months old have all followed small numbers of things being added and taken away in tests. Scientists still argue about what goes on in their minds as they do it.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many mathematicians",
+   "view": "They say a sum talks about one heap only. 8 − 2 = 6 is true whether the 2 beans went to Amma, rolled under the fridge or were eaten. And some things really do end. A popped balloon is not a balloon anywhere else. So taking away is real, they say, and not only a way of looking."
+  },
+  "practice": {
+   "title": "Give and get",
+   "mins": 3,
+   "say": "Sit facing your child, with 5 beans each. Breathe in slowly. As you both breathe out, each of you gives the other one bean. Do this five times without talking. Then count your beans. How many did you give away? How many do you have now? Where did yours go?",
+   "kid": "Sit with 5 beans. Breathe out and give one bean. Breathe in and take one. Do it 5 times. How many do you have now?"
+  },
+  "ask": [
+   "When you give a friend a laddu, is that taking away or adding? Who decides?",
+   "When you eat an idli, it is taken from the plate. Is it gone?",
+   "Is anything ever truly gone, or does it only go somewhere else?",
+   "3 idlis and 2 vadas: who decides whether that is 5 of something?"
+  ],
+  "art": "A girl and her mother sitting face to face, each with a small plate of beans, the girl's hand passing two beans across, with '5 − 2' written by her plate and '5 + 2' by her mother's."
+ },
+ "how_we_found_out": {
+  "context": "How did people come to write adding and taking away the way we do? This card tells the true story of the signs +, − and =, and of an argument that lasted hundreds of years.",
+  "story": "People have added and taken away for as long as they have shared and traded, long before anyone wrote sums. For most of that time, sums were written in words. In the year 628 the Indian mathematician Brahmagupta wrote rules for adding and taking away, in Sanskrit verse. His rules covered zero, and also debts, which are numbers below zero. An old Indian book, the Bakhshali manuscript, used a small cross after a number to mean 'take this away'. In Europe the signs + and − were first printed in 1489, in a German book for merchants by Johannes Widmann. The sign = came in 1557, from Robert Recorde, a Welsh doctor. For hundreds of years many European mathematicians said that you could never take a bigger number from a smaller one. In 1544 Michael Stifel called such answers 'absurd numbers'. But the rules for debts gave right answers every time people used them, for money and later for cold temperatures. Slowly everyone came to accept numbers below zero.",
+  "who": "Brahmagupta, Johannes Widmann, Robert Recorde and many others",
+  "when": "628, 1489 and 1557",
+  "wrong_idea": "You can never take a bigger number from a smaller one. With beans that is true. But Brahmagupta's rules for debts, written in 628, showed how to do it with numbers, and they give right answers for money owed and for temperatures below zero."
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads. The human-chosen side: Roots (one move, two names), the cards 'Before you add: one name for both heaps', 'When 1 and 1 do not make 2' and 'Writing it down' (the Bakhshali cross), activities a1 and a5. Maths in life: a3 (the vegetable basket), a4 (sowing as in Pallanguzhi), p1 (the Banana Diary). Everyone does maths: the card on chicks, bees and babies, activity a6 (the chick test), spotted. The universe and everyday life: the card 'Adding and taking away are happening all around you' (milk teeth, the Moon's 15 tithis), Roots science (nothing is lost when a puddle dries).",
+   "curriculum/math.json, math.addition-subtraction.meaning.L1: adding as putting together, subtracting as taking away, numbers to 10 and 20 with objects (NCERT Class 1 chapters 4, 6 and 7, Cambridge Stage 1 Ni).",
+   "Notebook items math:4 (Mathematical Operators: The Action Words of Math) and math:33 (Addition/Subtraction): the signs + and − are taught as actions, put together and take away, in the card 'Writing it down' and in activity a2."
+  ],
+  "science": [
+   "Rugani, R., Fontanari, L., Simoni, E., Regolin, L. and Vallortigara, G. (2009). Arithmetic in newborn chicks. Proceedings of the Royal Society B 276, 2451-2460. (Experiment 3: balls moved between two screens, for example 4 − 2 against 1 + 2; about 75 percent of choices were for the larger set.)",
+   "Howard, S. R., Avarguès-Weber, A., Garcia, J. E., Greentree, A. D. and Dyer, A. G. (2019). Numerical cognition in honeybees enables addition and subtraction. Science Advances 5, eaav0961. (14 bees; blue meant add one, yellow meant subtract one; 64 to 72 percent correct in the tests.)",
+   "Schluessel, V., Kreuter, N., Gosemann, I. M. and Schmidt, E. (2022). Cichlids and stingrays can add and subtract 'one' in the number space from one to five. Scientific Reports 12, 3894. (The 'some fish' in the challenging views.)",
+   "Wynn, K. (1992). Addition and subtraction by human infants. Nature 358, 749-750. (Five-month-old babies; the surface-area objection is Elizabeth Spelke's.)",
+   "Brahmagupta, Brahmasphutasiddhanta (628 CE), chapter 18: rules for zero, fortunes and debts (MacTutor History of Mathematics, University of St Andrews).",
+   "The Bakhshali manuscript: a cross like + written after a number marks it as negative or to be subtracted (G. R. Kaye's 1927 edition; MacTutor; Bodleian Library). Its date is debated, so the unit says only 'more than a thousand years ago'.",
+   "Johannes Widmann, Behende und hubsche Rechenung auff allen Kauffmanschafft (Leipzig, 1489): first printed + and − signs. Robert Recorde, The Whetstone of Witte (1557): the = sign. Michael Stifel, Arithmetica integra (1544): 'numeri absurdi'.",
+   "Liu Hui's commentary on the Nine Chapters (263 CE): red counting rods for positive numbers and black for negative. A dot over a number for a negative in many Indian texts (noted by Kaye).",
+   "Primary teeth: 20 in all, 10 upper and 10 lower; shedding usually starts at about age 6 (standard dental references).",
+   "Hindu lunar calendar: 15 tithis in the waxing half (shukla paksha) and 15 in the waning half (krishna paksha).",
+   "Pallanguzhi: a two-player sowing game on a board of 2 rows of 7 cups, played with tamarind seeds or cowries, sown counter-clockwise; the number of seeds and the capture rules vary by family and region.",
+   "Antoine Lavoisier, Traité élémentaire de chimie (1789), with plates engraved by Marie-Anne Paulze Lavoisier: careful weighing before and after burning (conservation of mass).",
+   "Anaxagoras, fragment DK 59 B17, as given in the Stanford Encyclopedia of Philosophy entry on Anaxagoras.",
+   "Number-selective nerve cells: Nieder, A., Freedman, D. J. and Miller, E. K. (2002), Science 297, 1708-1711 (monkeys); Ditz, H. M. and Nieder, A. (2015), PNAS 112, 7827-7832 (crows)."
+  ]
+ },
+ "playtest": "Walked through every flow as a family of two in a flat. The Two Plates Test needs 20 beans and three plates, and the counts come out the same in both orders unless a bean rolls away, so work on plates. Under the Tumbler, Bigger Total Wins and Heads Add, Tails Take Away were played through in the head. Bigger Total Wins with the cards 1 to 5 lasts five rounds for two players. Heads Add, Tails Take Away usually ends in about eight turns each, and a player can never be stuck. The sowing activity was checked move by move: after one move from the left cup the cups hold 0, 4, 4, 4, 3 and 3, and the total stays 18. The drops stay round only on a dry steel plate. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 2009 chick study, the 2019 honeybee study, the 2022 fish study, Karen Wynn's 1992 baby study, Brahmagupta's rules of 628, the Bakhshali cross, Widmann 1489, Recorde 1557, Stifel 1544, Liu Hui's red and black rods, 20 milk teeth, the 15 tithis, the Pallanguzhi board, and Anaxagoras fragment 17. Also looked up: the Isha Upanishad opening verse, Chandogya Upanishad 6.1.4, the 19 carrom coins and the book Mouse Count. Written from memory and not looked up: the two nerve-cell studies in monkeys and crows behind the last open question, and Lavoisier's weighing experiments (only the 1789 book and Marie-Anne Paulze Lavoisier's drawings were looked up). Please check these. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The 6-cup sowing board is a small version made for this unit. It is not how Pallanguzhi is really played."
+}
