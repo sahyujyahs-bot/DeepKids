@@ -1,5 +1,6 @@
 """Check a subtopic-level unit against app/content/units/SPEC_UNIT.md.
 Usage: python3 app/build/validate_unit.py app/content/units/sci/sci.forces.friction.L3.json [more files]
+(maths units work the same: app/content/units/math/math.number-sense.counting.L1.json)
 Prints OK, or the problems. Also prints the unit's total minutes and the number of days at the class's daily minutes."""
 import json, sys, re, os, glob
 DAY_MINS = {1: 30, 2: 35, 3: 40, 4: 45, 5: 45}
@@ -77,8 +78,11 @@ def check(path):
     try: u = json.load(open(path))
     except Exception as x: return [f"not valid JSON: {x}"], 0, 0
     m = re.match(r'(sci|math|hist|phil)\.[\w-]+\.[\w-]+\.L([1-5])$', u.get("id", ""))
-    if not m: P("id must look like sci.topic.subtopic.L3")
+    if not m: P("id must look like sci.topic.subtopic.L3 or math.topic.subtopic.L1")
     level = int(m.group(2)) if m else 3
+    cur = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "content", "curriculum", (m.group(1) if m else "") + ".json")   # the subject's curriculum map
+    if m and os.path.exists(cur) and u["id"] not in {s["id"] for s in json.load(open(cur))["subtopic_levels"]}:
+        W.append(f"{u['id']} is not in curriculum/{m.group(1)}.json: the build skips it until it is added there")
     need = ["summary", "intro", "outcomes", "terms", "explanations", "agreed", "challenging", "big_questions", "story", "games", "worksheets",
             "experiments", "activities", "videos", "quiz", "applications", "spotted", "open_questions", "ask_kids", "jokes", "maths", "song",
             "challenges", "links", "buy", "warmup", "plan", "roots", "how_we_found_out"]
@@ -116,7 +120,7 @@ def check(path):
     elif r.get("deep_truth"):  # PHILOSOPHY.md "A deep truth is an interpretation, not a slogan"
         t = r["deep_truth"]["truth"]
         for g in GENERIC:
-            if g in t.lower(): P(f"roots.deep_truth is generic ('{g}'): say what this unit's science shows (PHILOSOPHY.md)")
+            if g in t.lower(): P(f"roots.deep_truth is generic ('{g}'): say what this unit shows (PHILOSOPHY.md)")
         mine = words(t)
         for other, ot in truths(path):
             if len(mine & words(ot)) >= max(4, 0.5 * min(len(mine), len(words(ot)))):
@@ -230,7 +234,7 @@ def check(path):
         if not b.get("used_in") or any(x not in ids for x in b["used_in"]): P(f"buy item {b.get('item')}: used_in must list element ids")
     for mth in u["maths"]:
         if not mth.get("math_unit", "").startswith("math."): P("maths problems need a math_unit id")
-        if not mth.get("why_maths"): P("maths problems need `why_maths`: one plain sentence on why this maths helps with this science")
+        if not mth.get("why_maths"): P("maths problems need `why_maths`: one plain sentence on why this maths helps with this unit")
     if not u["plan"].get("start_options") or not u["plan"].get("default_order"): P("plan needs start_options and default_order")
     plain(u, P)
     deny = sorted({m.group(0).lower() for m in DENY.finditer(json.dumps(u, ensure_ascii=False))})

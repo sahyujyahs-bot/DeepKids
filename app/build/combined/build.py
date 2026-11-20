@@ -50,8 +50,9 @@ for subj in plan:
 # subtopic-level units (app/content/units/<subj>/*.json): attach each to its topic rung by the curriculum's topic-level name
 import re
 slug = lambda x: re.sub(r'[^a-z0-9]+', '-', x.lower()).strip('-')
-CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
-TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
+UNIT_SUBJECTS = ('sci', 'math')   # subjects with units (app/content/units/<subj>/): each has its map in content/curriculum/<subj>.json; sci first, so its units keep their order
+CURS = {s: json.load(open(os.path.join(APP, 'content', 'curriculum', s + '.json'))) for s in UNIT_SUBJECTS}
+TL = {s: t for c in CURS.values() for t in c['topic_levels'] for s in t['subtopic_levels']}
 _wl = os.path.join(APP, 'content', 'curriculum', 'waldorf_links.json')
 WLINKS = json.load(open(_wl)) if os.path.exists(_wl) else {}
 _tg = os.path.join(APP, 'content', 'curriculum', 'unit_chapter_tags.json')   # extra unit tags per board chapter, by topic, at any class
@@ -62,8 +63,9 @@ for it in data['items']:
     (it.get('c') or {}).pop('more', None)
     for w in (json.load(open(_fw)) if os.path.exists(_fw) else {}).get(it.get('k'), []):
         it.setdefault('c', {}).setdefault('more', []).append({k: w.get(k, '') for k in ('title', 'url', 'publisher', 'age', 'what')})
-SUB = {x['id']: x for x in CUR['subtopic_levels']}
-SUBI = {x['id']: i for i, x in enumerate(CUR['subtopic_levels'])}   # curriculum order
+SUBL = [x for c in CURS.values() for x in c['subtopic_levels']]
+SUB = {x['id']: x for x in SUBL}
+SUBI = {x['id']: i for i, x in enumerate(SUBL)}   # curriculum order
 data['units'] = {}
 import re, importlib.util as _iu
 _sp = _iu.spec_from_file_location('c3d', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'c3_daily.py')); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); C3D = _m.X   # NCERT Class 3 chapter extras (jokes and more)
@@ -132,7 +134,7 @@ def card_pic(img):
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith(('.art.json', '.photos.json', '.models.json')): continue
-    u = json.load(open(f)); t = TL.get(u['id'])
+    u = json.load(open(f)); t = TL.get(u['id']); CUR = CURS.get(u['id'].split('.')[0], {})
     if not u.get('playtest') and not u['id'].endswith('.L3'): continue   # units at a new level go live once play-tested
     if not t: print('unit not in the curriculum:', u['id']); continue
     art = f[:-5] + '.art.json'
@@ -189,7 +191,8 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
             for it in data['items']:
                 if it.get('k') == e.get('k') and ref not in it['c'].setdefault('units', []): it['c']['units'].append(ref)
             break
-    else: print('no rung for unit', u['id'])
+    else:
+        if t['subject'] in plan: print('no rung for unit', u['id'])   # a subject with no class plan (maths) is found by its topic ladder
 # a unit at a new level with no pictures yet borrows the card picture of the same subtopic at another level
 for i, x in data['units'].items():
     if not x.get('pic'):
@@ -257,12 +260,15 @@ if os.path.exists(os.path.join(LIFE, 'tags.json')):
 data['combined'] = plan
 # the topic ladder for the Library's "By topic and level" view: strand > topic > level > its subtopic lessons
 # [id, name, on a board's syllabus], whether or not the unit is written yet
-STRANDS = ["Life", "Body and health", "Matter", "Physics", "Earth and space", "People and society", "Nature of science", "The Deep End"]
-lad = {}
-for t in sorted(CUR['topic_levels'], key=lambda t: (STRANDS.index(t['strand']), t['name'], t['level'])):
-    lad.setdefault(t['topic'], {"strand": t['strand'], "name": t['name'], "levels": []})['levels'].append(
-        [t['level'], [[s, SUB[s]['name'], bool(SUB[s]['chapters'])] for s in t['subtopic_levels']]])
-data['ladder'] = {'sci': list(lad.values())}
+STRANDS = {'sci': ["Life", "Body and health", "Matter", "Physics", "Earth and space", "People and society", "Nature of science", "The Deep End"],
+           'math': ["Number", "Patterns and algebra", "Measurement", "Geometry", "Data and chance", "Thinking mathematically"]}
+data['ladder'] = {}
+for subj in UNIT_SUBJECTS:
+    lad = {}
+    for t in sorted(CURS[subj]['topic_levels'], key=lambda t: (STRANDS[subj].index(t['strand']), t['name'], t['level'])):
+        lad.setdefault(t['topic'], {"strand": t['strand'], "name": t['name'], "levels": []})['levels'].append(
+            [t['level'], [[s, SUB[s]['name'], bool(SUB[s]['chapters'])] for s in t['subtopic_levels']]])
+    data['ladder'][subj] = list(lad.values())
 data.pop('notebook', None)
 json.dump(data, open(DATA, 'w'), ensure_ascii=False, separators=(",", ":"))
 tot = sum(len(L) for s in plan.values() for L in s.values())

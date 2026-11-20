@@ -35,7 +35,7 @@ if r:
     w(f"\n## Roots\n{r['context']}\n\n**Deep truth.** {d['truth']}  \n*Habit it breaks:* {d['habit']}  \n*Evidence:* {d['evidence']}\n")
     for k, v in r["three"].items(): w(f"- *{k.replace('_', ' ')}:* {v}")
     w(f"\n{r['thread']}\n"); [w(f"- **{t['source']}:** " + (f"“{' / '.join(t['verse'])}” " if t.get('verse') else '') + f"{t['teaching']} ({t['link']})") for t in r["teachings"]]
-    [w(f"- Science ({x['status']}): {x['text']}") for x in r["science"]]
+    [w(f"- {'Maths' if u['id'].startswith('math.') else 'Science'} ({x['status']}): {x['text']}") for x in r["science"]]
     w(f"- Other view, {r['other_view']['who']}: {r['other_view']['view']}")
     p_ = r["practice"]; w(f"- Practice, {p_['title']} ({p_['mins']} min): {p_['say']}")
     [w(f"- Ask: {q}") for q in r["ask"]]
