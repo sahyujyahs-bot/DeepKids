@@ -4845,6 +4845,27 @@ dialog .fxfab {
 .fxcdots i.gap {
   margin-right: 10px;
 }
+.fxstrips {
+  display: grid;
+  gap: 12px;
+}
+.fxstripbar {
+  display: flex;
+  height: 38px;
+  border: 2px solid var(--ink);
+  border-radius: var(--r);
+  overflow: hidden;
+}
+.fxstripbar i {
+  flex: 1;
+  background: var(--surface);
+}
+.fxstripbar i + i {
+  border-left: 2px solid var(--ink);
+}
+.fxstripbar i.on {
+  background: var(--sun);
+}
 .fxsum {
   display: inline-block;
   min-width: 120px;

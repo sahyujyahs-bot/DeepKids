@@ -482,7 +482,7 @@ So they sat in the doorway while the rain came down, and counted the pebbles tog
 
 ## Worksheets
 ### Count It (core) (core, 12 questions)
-1. (fill) Count the dots: ● ● ● ● ● ● ● ● ●. There are ____ dots.  
+1. (fill) Count the dots: There are ____ dots.  
    **Answer:** ['9', 'nine']. *Why:* Touch each dot once and say one number for each. The last number you say is 9.
 2. (mcq) You count 6 spoons: 1, 2, 3, 4, 5, 6. How many spoons are there?  
    Options: 1 / 6 / 7  
@@ -496,7 +496,7 @@ So they sat in the doorway while the rain came down, and counted the pebbles tog
    **Answer:** 8. *Why:* One more than 7 is 8. Picking 6 means counting back instead of on.
 6. (order) Put these numbers in counting order, smallest first.  
    **Answer:** ['9', '10', '12', '13', '15']. *Why:* Counting up, you reach 9 first, then 10, then 12, then 13, then 15. A number you reach later is bigger.
-7. (fill) Count the dots: ● ● ● ● ● ● ● ● ● ●   ● ● ● ●. There are ____ dots.  
+7. (fill) Count the dots: There are ____ dots.  
    **Answer:** ['14', 'fourteen']. *Why:* The first group is ten. Count on for the other four: 11, 12, 13, 14.
 8. (mcq) You count the people sitting in a circle. What must you remember?  
    Options: Where you started / Who is the tallest / Nothing  
@@ -577,7 +577,7 @@ So they sat in the doorway while the rain came down, and counted the pebbles tog
 1. (mcq) Which is the right way to count a heap of chana?  
    Options: Say numbers fast while looking at it / Move one chana for each number / Count only the ones on top  
    **Answer:** Move one chana for each number. *Why:* Moving one chana for each number makes sure every chana gets exactly one number. Saying numbers fast is not counting, because the words do not match the things.
-2. (fill) Count the dots: ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ●. There are ____ dots.  
+2. (fill) Look at the picture. How many dots are there? There are ____ dots.  
    **Answer:** ['17', 'seventeen']. *Why:* Touch each dot once. Three groups of five and two more come to 17.
 3. (mcq) You count 9 buttons: 1, 2, 3, up to 9. Someone asks, 'How many?' What do you say?  
    Options: 9 / I must count again / 1  

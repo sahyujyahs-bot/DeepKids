@@ -7,9 +7,24 @@
   "art": "Two round dosas side by side on banana leaves, one cut into 3 equal pieces and one cut into 8 equal pieces, with one piece of each lifted out so the big piece and the small piece can be compared."
  },
  "intro": {
-  "hook": "Someone offers you a choice. You can have one half of a laddu, or one quarter of a laddu. Which do you take? Now here is the catch. You have not seen the two laddus yet. One of them might be as small as a marble. The other might be as big as a coconut. Can you still choose?",
-  "text": "A fraction is a way to talk about equal parts of something. One half means the thing was cut into 2 equal parts, and you have one of them. One quarter means it was cut into 4 equal parts, and you have one. But a half of what? A quarter of what? In this unit you will make your own fraction strips from paper and share out groundnuts. You will find a pattern that surprises most people the first time. Then you will use it in the kitchen, in music and in a game.",
-  "art": "A child looking at two closed steel boxes, one labelled 'one half of a laddu' and one labelled 'one quarter of a laddu', with a thought bubble holding a tiny laddu and a huge laddu."
+  "hook": "Which is more: half of a laddu, or a quarter of a laddu? Think first. Then open the box below.",
+  "text": "Someone offers you a choice. You can have one half of a laddu, or one quarter of a laddu. Which do you take? Now here is the catch. You have not seen the two laddus yet. One of them might be as small as a marble. The other might be as big as a coconut. Can you still choose? A fraction is a way to talk about equal parts of something. One half means the thing was cut into 2 equal parts, and you have one of them. One quarter means it was cut into 4 equal parts, and you have one. But a half of what? A quarter of what? In this unit you will make your own fraction strips from paper and share out groundnuts. You will find a pattern that surprises most people the first time. Then you will use it in the kitchen, in music and in a game.",
+  "art": "A child looking at two closed steel boxes, one labelled 'one half of a laddu' and one labelled 'one quarter of a laddu', with a thought bubble holding a tiny laddu and a huge laddu.",
+  "chart": {
+   "type": "strip",
+   "rows": [
+    {
+     "label": "half of a laddu",
+     "parts": 2,
+     "shaded": 1
+    },
+    {
+     "label": "quarter of a laddu",
+     "parts": 4,
+     "shaded": 1
+    }
+   ]
+  }
  },
  "outcomes": [
   "I can say what a fraction is: one or more equal parts of a whole.",
@@ -789,7 +804,17 @@
       "sixth",
       "6th"
      ],
-     "why": "The name comes from the number of equal parts. Six equal parts give sixths, so one part is one sixth, written 1/6."
+     "why": "The name comes from the number of equal parts. Six equal parts give sixths, so one part is one sixth, written 1/6.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "one strip",
+        "parts": 6,
+        "shaded": 1
+       }
+      ]
+     }
     },
     {
      "t": "match",
@@ -946,7 +971,17 @@
       "1/5"
      ],
      "a": 0,
-     "why": "The tray is the whole and it has 6 equal places. One egg is one of 6 equal parts, so it is 1/6. Picking 1/5 usually means counting only the other 5 eggs."
+     "why": "The tray is the whole and it has 6 equal places. One egg is one of 6 equal parts, so it is 1/6. Picking 1/5 usually means counting only the other 5 eggs.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "tray of 6 eggs",
+        "parts": 6,
+        "shaded": 1
+       }
+      ]
+     }
     },
     {
      "t": "draw",
@@ -1073,7 +1108,17 @@
      "a": 0,
      "why": "8 beats split into 2 equal parts gives 4 beats in each part. So 4 beats is one half of the cycle. Picking 'one quarter' usually comes from seeing the number 4.",
      "context": "Adi tala is a cycle of 8 beats in South Indian classical music, kept by clapping and counting on the fingers.",
-     "how": "a3"
+     "how": "a3",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "Adi tala, 8 beats",
+        "parts": 8,
+        "shaded": 4
+       }
+      ]
+     }
     },
     {
      "t": "fill",
@@ -1172,7 +1217,17 @@
       "4/3"
      ],
      "a": 0,
-     "why": "The bottom number is the number of equal parts in the whole, which is 4. The top number is how many parts are shaded, which is 3. So it is 3/4, three quarters. Picking 4/3 puts the numbers the wrong way up."
+     "why": "The bottom number is the number of equal parts in the whole, which is 4. The top number is how many parts are shaded, which is 3. So it is 3/4, three quarters. Picking 4/3 puts the numbers the wrong way up.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "strip",
+        "parts": 4,
+        "shaded": 3
+       }
+      ]
+     }
     },
     {
      "t": "fill",
@@ -2659,7 +2714,16 @@
     "4"
    ],
    "outcome": 3,
-   "why": "Share 16 into 4 equal groups. Each group has 4. So one quarter of 16 is 4."
+   "why": "Share 16 into 4 equal groups. Each group has 4. So one quarter of 16 is 4.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "tamarind seeds",
+      "n": 16
+     }
+    ]
+   }
   },
   {
    "t": "mcq",
@@ -3126,16 +3190,16 @@
  "roots": {
   "context": "We have been cutting strips and sharing groundnuts into equal parts. Now we ask what a fraction tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the Strip Test, one quarter of 24 groundnuts was 6. One quarter of 12 groundnuts was 3. The fraction was the same, and the amount changed because the whole changed. A fraction has a size only after someone has said what the whole is.",
-   "habit": "We treat a fraction such as one half or one quarter as if it were a fixed amount, the way 4 groundnuts is a fixed amount. A fraction is always a fraction of something, and a person picks that something.",
-   "evidence": "In the Strip Test, the same fraction, one quarter, gave 6 groundnuts from a whole of 24 and 3 groundnuts from a whole of 12. In the card game Bigger Share, one eighth of 40 beats one half of 4."
+   "truth": "Take 24 groundnuts and 12 groundnuts. One quarter of 24 is 6. One quarter of 12 is 3. It is the same 'one quarter', but the amounts differ. A fraction does not say how much. It says how much of what.",
+   "habit": "We think one quarter is a fixed amount, like 4 groundnuts. It is not. It always means one quarter of something, and a person chooses that something.",
+   "evidence": "In the Strip Test, one quarter of 24 was 6 and one quarter of 12 was 3. In the card game Bigger Share, one eighth of 40 beat one half of 4."
   },
   "three": {
    "who_am_i": "You are one whole person. You are also one part of your family, and one of more than eight billion people. Each is true for a different whole.",
    "what_is_life": "One living cell divides into two, and each half grows into a whole cell. In living beings, a part can become a whole.",
    "what_is_this_world": "The Earth turns once, and nothing marks that turn into parts. People cut it into 24 hours, or into 60 nazhigai."
   },
-  "thread": "A fraction starts with one whole thing. Cutting adds nothing and takes nothing away: four quarters of a dosa are still the one dosa. So the many parts and the one whole are the same amount, counted in two ways. Any part can then be picked up and called a whole, and cut again. Which thing we call 'one' is our choice. What follows from that choice is the same for everyone.",
+  "thread": "A fraction starts with one whole thing. Cut it into parts and put the parts back together: you get the same whole. Any part can be picked up, called 'one', and cut again. Which thing we call 'one' is our choice. What follows from that choice is the same for everyone.",
   "teachings": [
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",

@@ -126,15 +126,15 @@ Honeybees place nothing below one. In 2018 Scarlett Howard and her team, in Aust
 ## Roots
 We have been reading lakhs and millions and moving digits from place to place. Now we ask what place value tells us about ourselves and the world.
 
-**Deep truth.** A digit has no size of its own. The 5 in 50 and the 5 in 5,00,000 are the same mark. Its place among the other digits gives it its size. In the activity Two Commas, One Number, moving the commas changed the name and nothing else. So part of a number is fixed, and part is an agreement between people.  
-*Habit it breaks:* We treat a written number as if its value sat inside each mark, the way value seems to sit inside a coin. In place value the value comes from position, which means from how a digit stands among the others. We also treat 'lakh' and 'million' as facts about numbers, when they are habits of grouping that different peoples chose.  
-*Evidence:* In the Rice Test, one tablespoon stood for a thousand grains and one tumbler for ten thousand: the same rice, counted by its place in a chain of tens. On the paper strip, 12,00,000 and 1,200,000 had the same digits in the same places, and only the commas moved.
+**Deep truth.** Write a 5 on paper. Is it five rupees or five lakh rupees? You cannot tell. A digit is worth what its place says. The 5 in 50 and the 5 in 5,00,000 are the same mark.  
+*Habit it breaks:* We think a number's value sits inside the digit, like in a ₹5 coin. It does not. It comes from where the digit stands. 'Lakh' and 'million' are names people chose for groups of zeros.  
+*Evidence:* In the Rice Test, one spoon held a thousand grains and one tumbler ten thousand. In Two Commas, One Number, 12,00,000 and 1,200,000 had the same digits. Only the commas moved.
 
 - *who am i:* A digit is worth what its place makes it. You also stand in many places: a daughter at home, a pupil in class, a bowler on the field. You are the same person in each, and each place asks something different of you.
 - *what is life:* Honeybees place nothing below one. Desert ants keep track of how far they have walked. Keeping count is something many living beings do. Writing the count down in places is the human way of doing it.
 - *what is this world:* The world has heaps, distances and crowds. It has no commas and no lakhs. Those are ours. But ten potfuls of a lakh grains make the same heap, whatever anyone calls it.
 
-Every number we write is built from zero and one. Zero holds the places that are empty. One, moved from place to place, becomes ten, a hundred, a lakh. So from a sign for nothing and a single unit, numbers of any size can be written. Ten small signs are enough for all the many amounts in the world.
+Every number is built from ten signs: 0 to 9. Zero holds a place that is empty. A 1 that moves one place to the left becomes ten, then a hundred, then a lakh. So ten signs are enough to write a number of any size.
 
 - **Aryabhatiya, Ganitapada 2:** Aryabhata names ten places in order, from one to a hundred crore, and then says that from place to place each is ten times the one before. (This is the rule you found with rice. One line, written in 499 CE, covers every place there is and every place anyone will ever add.)
 - **Tao Te Ching 11:** Thirty spokes meet at the hub of a wheel, but the wheel is useful because of the empty hole at the centre. A pot is made of clay, but it is useful because of the empty space inside. (Zero is the empty space of our number system. It is worth nothing, yet without it 4,05,000 could not be told from 45.)

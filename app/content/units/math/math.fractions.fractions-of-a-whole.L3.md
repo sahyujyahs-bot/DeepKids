@@ -3,7 +3,7 @@
 
 **Summary.** Which is bigger, one third of a dosa or one eighth of the same dosa? Many people pick one eighth, because 8 is bigger than 3. In this unit you cut paper strips and share out groundnuts to find the real answer. You learn to name and write fractions such as 1/3 and 1/8, and to find a fraction of a group, such as one quarter of 12. You also find out that a fraction has no size at all until someone says what the whole is.
 
-**Intro.** *Someone offers you a choice. You can have one half of a laddu, or one quarter of a laddu. Which do you take? Now here is the catch. You have not seen the two laddus yet. One of them might be as small as a marble. The other might be as big as a coconut. Can you still choose?* A fraction is a way to talk about equal parts of something. One half means the thing was cut into 2 equal parts, and you have one of them. One quarter means it was cut into 4 equal parts, and you have one. But a half of what? A quarter of what? In this unit you will make your own fraction strips from paper and share out groundnuts. You will find a pattern that surprises most people the first time. Then you will use it in the kitchen, in music and in a game.
+**Intro.** *Which is more: half of a laddu, or a quarter of a laddu? Think first. Then open the box below.* Someone offers you a choice. You can have one half of a laddu, or one quarter of a laddu. Which do you take? Now here is the catch. You have not seen the two laddus yet. One of them might be as small as a marble. The other might be as big as a coconut. Can you still choose? A fraction is a way to talk about equal parts of something. One half means the thing was cut into 2 equal parts, and you have one of them. One quarter means it was cut into 4 equal parts, and you have one. But a half of what? A quarter of what? In this unit you will make your own fraction strips from paper and share out groundnuts. You will find a pattern that surprises most people the first time. Then you will use it in the kitchen, in music and in a game.
 
 ## Learning outcomes
 0. I can say what a fraction is: one or more equal parts of a whole.
@@ -136,15 +136,15 @@ Fold a strip in half, then in half again, and again. The parts go 1/2, 1/4, 1/8,
 ## Roots
 We have been cutting strips and sharing groundnuts into equal parts. Now we ask what a fraction tells us about ourselves and the world.
 
-**Deep truth.** In the Strip Test, one quarter of 24 groundnuts was 6. One quarter of 12 groundnuts was 3. The fraction was the same, and the amount changed because the whole changed. A fraction has a size only after someone has said what the whole is.  
-*Habit it breaks:* We treat a fraction such as one half or one quarter as if it were a fixed amount, the way 4 groundnuts is a fixed amount. A fraction is always a fraction of something, and a person picks that something.  
-*Evidence:* In the Strip Test, the same fraction, one quarter, gave 6 groundnuts from a whole of 24 and 3 groundnuts from a whole of 12. In the card game Bigger Share, one eighth of 40 beats one half of 4.
+**Deep truth.** Take 24 groundnuts and 12 groundnuts. One quarter of 24 is 6. One quarter of 12 is 3. It is the same 'one quarter', but the amounts differ. A fraction does not say how much. It says how much of what.  
+*Habit it breaks:* We think one quarter is a fixed amount, like 4 groundnuts. It is not. It always means one quarter of something, and a person chooses that something.  
+*Evidence:* In the Strip Test, one quarter of 24 was 6 and one quarter of 12 was 3. In the card game Bigger Share, one eighth of 40 beat one half of 4.
 
 - *who am i:* You are one whole person. You are also one part of your family, and one of more than eight billion people. Each is true for a different whole.
 - *what is life:* One living cell divides into two, and each half grows into a whole cell. In living beings, a part can become a whole.
 - *what is this world:* The Earth turns once, and nothing marks that turn into parts. People cut it into 24 hours, or into 60 nazhigai.
 
-A fraction starts with one whole thing. Cutting adds nothing and takes nothing away: four quarters of a dosa are still the one dosa. So the many parts and the one whole are the same amount, counted in two ways. Any part can then be picked up and called a whole, and cut again. Which thing we call 'one' is our choice. What follows from that choice is the same for everyone.
+A fraction starts with one whole thing. Cut it into parts and put the parts back together: you get the same whole. Any part can be picked up, called 'one', and cut again. Which thing we call 'one' is our choice. What follows from that choice is the same for everyone.
 
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains. (The verse is about the whole of everything, not about dosas. The small parallel in this unit is that a part taken from a whole can itself be treated as a whole. In the story, the last quarter of the jaggery became the new whole and was cut into fifths.)
 - **Zhuangzi, chapter 33 (paraphrased):** Take a stick one foot long. Each day, take away half of what is left. Even after ten thousand generations it will not be used up. (This is the halving you did by folding: one half, one quarter, one eighth. With numbers there is always another half to take. With a real stick, the pieces at last become too small to cut.)

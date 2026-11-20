@@ -1599,12 +1599,21 @@
    "items": [
     {
      "t": "fill",
-     "p": "Count the dots: ● ● ● ● ● ● ● ● ●. There are ____ dots.",
+     "p": "Count the dots: There are ____ dots.",
      "a": [
       "9",
       "nine"
      ],
-     "why": "Touch each dot once and say one number for each. The last number you say is 9."
+     "why": "Touch each dot once and say one number for each. The last number you say is 9.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "dots",
+        "n": 9
+       }
+      ]
+     }
     },
     {
      "t": "mcq",
@@ -1642,7 +1651,15 @@
       "71"
      ],
      "a": 1,
-     "why": "One more than 7 is 8. Picking 6 means counting back instead of on."
+     "why": "One more than 7 is 8. Picking 6 means counting back instead of on.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "7",
+       "+ 1"
+      ],
+      "answer": "?"
+     }
     },
     {
      "t": "order",
@@ -1665,12 +1682,21 @@
     },
     {
      "t": "fill",
-     "p": "Count the dots: ● ● ● ● ● ● ● ● ● ●   ● ● ● ●. There are ____ dots.",
+     "p": "Count the dots: There are ____ dots.",
      "a": [
       "14",
       "fourteen"
      ],
-     "why": "The first group is ten. Count on for the other four: 11, 12, 13, 14."
+     "why": "The first group is ten. Count on for the other four: 11, 12, 13, 14.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "dots",
+        "n": 14
+       }
+      ]
+     }
     },
     {
      "t": "mcq",
@@ -1772,7 +1798,15 @@
       "13"
      ],
      "a": 1,
-     "why": "Count on from 9: 10, 11, 12. Picking 11 usually means 9 was said as the first count."
+     "why": "Count on from 9: 10, 11, 12. Picking 11 usually means 9 was said as the first count.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "9",
+       "+ 3"
+      ],
+      "answer": "?"
+     }
     },
     {
      "t": "mcq",
@@ -1783,7 +1817,15 @@
       "17"
      ],
      "a": 0,
-     "why": "Count back from 15: 14, 13. Picking 17 means counting on instead of back."
+     "why": "Count back from 15: 14, 13. Picking 17 means counting on instead of back.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "15",
+       "− 2"
+      ],
+      "answer": "?"
+     }
     },
     {
      "t": "mcq",
@@ -1916,7 +1958,15 @@
       "seventeen"
      ],
      "why": "A full ten-frame is ten. Count on seven: 11, 12, 13, 14, 15, 16, 17.",
-     "how": "a3"
+     "how": "a3",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "10",
+       "+ 7"
+      ],
+      "answer": "?"
+     }
     },
     {
      "t": "fill",
@@ -2066,13 +2116,22 @@
   },
   {
    "t": "fill",
-   "p": "Count the dots: ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ●. There are ____ dots.",
+   "p": "Look at the picture. How many dots are there? There are ____ dots.",
    "a": [
     "17",
     "seventeen"
    ],
    "why": "Touch each dot once. Three groups of five and two more come to 17.",
-   "outcome": 0
+   "outcome": 0,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "dots",
+      "n": 17
+     }
+    ]
+   }
   },
   {
    "t": "mcq",
@@ -2124,7 +2183,15 @@
    ],
    "a": 1,
    "why": "Count on from 14: 15, 16. Picking 12 means counting back instead of on.",
-   "outcome": 3
+   "outcome": 3,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "14",
+     "+ 2"
+    ],
+    "answer": "?"
+   }
   },
   {
    "t": "fill",

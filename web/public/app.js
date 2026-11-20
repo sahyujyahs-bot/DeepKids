@@ -7141,6 +7141,8 @@ function fxChart(c) {
   }
   if (c.type === "dots")
     return `<figure class="fxchart">${T}<div class="fxcount">${(c.rows || []).map((r) => `<div class="fxcrow"><span class="fxclab">${esc(r.label || "")}</span><span class="fxcdots">${Array.from({ length: r.n }, (_, i) => `<i class="${i % 5 === 4 ? "gap" : ""}"></i>`).join("")}${Array.from({ length: r.more || 0 }, (_, i) => `<i class="more${(r.n + i) % 5 === 4 ? " gap" : ""}"></i>`).join("")}</span></div>`).join("")}</div></figure>`;
+  if (c.type === "strip")
+    return `<figure class="fxchart">${T}<div class="fxstrips">${(c.rows || []).map((r) => `<div class="fxstrip"><span class="fxclab">${esc(r.label || "")}</span><span class="fxstripbar" style="width:${r.width || 100}%">${Array.from({ length: r.parts }, (_, i) => `<i class="${i < (r.shaded || 0) ? "on" : ""}"></i>`).join("")}</span></div>`).join("")}</div></figure>`;
   if (c.type === "sum")
     return `<figure class="fxchart">${T}<div class="fxsum">${(c.rows || []).map((r) => `<div>${esc(r)}</div>`).join("")}<div class="fxsumans">${esc(c.answer || "?")}</div></div></figure>`;
   if (c.type === "scale") {
