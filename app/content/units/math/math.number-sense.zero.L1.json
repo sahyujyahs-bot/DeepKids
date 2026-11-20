@@ -1,0 +1,3082 @@
+{
+ "id": "math.number-sense.zero.L1",
+ "title": "Zero: the number for none",
+ "level": 1,
+ "cards_mins": 8,
+ "summary": {
+  "text": "You eat the last laddu on the plate. How many laddus are on the plate now? Is there a number for that? You will take beans away one by one until none are left, and find the number that comes before 1. You will hop back to zero on a number line, play games with a zero dice, and keep score in corridor cricket. You will also find out that zero is always zero of something.",
+  "art": "A girl looking at an empty steel plate with a few laddu crumbs on it, holding up a slate with a big 0 written on it."
+ },
+ "intro": {
+  "hook": "What number tells how many laddus are on plate C?",
+  "text": "Plate A has 3 laddus and plate B has 1. Plate C has none. The number for none is zero, and we write it as 0. Zero is a number, just like 1, 2 and 3. It answers the question 'how many?' when there are none. In this unit you will find zero yourself, with beans and a plate.",
+  "art": "Three steel plates in a row on a table: three laddus on the first, one laddu on the second, and only crumbs on the third.",
+  "chart": {
+   "type": "dots",
+   "rows": [
+    {
+     "label": "plate A",
+     "n": 3
+    },
+    {
+     "label": "plate B",
+     "n": 1
+    },
+    {
+     "label": "plate C",
+     "n": 0
+    }
+   ]
+  }
+ },
+ "outcomes": [
+  "I can say zero when there are none of the things I am counting, and write it as 0.",
+  "I can show that taking away the last thing leaves zero.",
+  "I can find zero on the number line, one step before 1.",
+  "I can count back to zero from any number up to 10.",
+  "I can say that zero is fewer than 1, 2, 3 and every other counting number.",
+  "I can say what there is zero of, because zero is always zero of something."
+ ],
+ "terms": [
+  {
+   "term": "Zero",
+   "meaning": "The number that tells how many when there are none. We write it as 0.",
+   "example": "You eat both bananas in the bowl. Now there are zero bananas in the bowl.",
+   "art": "An empty fruit bowl with the numeral 0 written beside it."
+  },
+  {
+   "term": "None",
+   "meaning": "Not even one.",
+   "example": "There were 4 murukkus in the tin. Now there are none. The number for none is zero.",
+   "art": "An open snack tin with nothing inside and a child peering in."
+  },
+  {
+   "term": "Empty",
+   "meaning": "With none of the things it usually holds.",
+   "example": "An empty water bottle has zero water in it. It still has air in it.",
+   "art": "A clear empty water bottle lying on its side."
+  },
+  {
+   "term": "Take away",
+   "meaning": "To remove some things from a group, so that fewer are left.",
+   "example": "There are 3 idlis on the plate. You take away 1 idli. Now 2 are left.",
+   "art": "A hand lifting one idli off a plate of three."
+  },
+  {
+   "term": "Fewer",
+   "meaning": "Not as many.",
+   "example": "2 vadas are fewer than 3 vadas. Zero vadas are fewer than 1 vada.",
+   "art": "Two plates side by side, one with three vadas and one with two."
+  },
+  {
+   "term": "Number line",
+   "meaning": "A line with the numbers written along it in order, the same distance apart.",
+   "example": "You write 0 to 10 on slips of paper and lay them in a line on the floor. Zero is at the start.",
+   "art": "Paper slips numbered 0 to 10 in a straight line on a floor."
+  },
+  {
+   "term": "Count back",
+   "meaning": "To start from a number and say the numbers backwards, one fewer each time.",
+   "example": "You count back from 3: 2, 1, 0.",
+   "art": "A number line with three backward hops from 3 to 0."
+  },
+  {
+   "term": "Countdown",
+   "meaning": "Counting back to zero to show when something will start.",
+   "example": "Before a rocket lifts off, people count back: 5, 4, 3, 2, 1, 0.",
+   "art": "A rocket on a launch pad with the numbers 3, 2, 1, 0 beside it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Zero is the number for none",
+   "status": "defined",
+   "context": "This card says what zero means. You found it in the Empty Plate Test, when you took away the last bean.",
+   "definition": "Zero is the number that tells how many when there are none. We write it as 0.",
+   "description": "Count the laddus on a plate: 1, 2, 3. Now look at an empty plate. How many laddus are on it? There are none, and the number for none is zero. Here is a worked example. Two bananas are in a bowl. Amma eats one, so 1 is left. You eat one, so 0 are left.",
+   "examples": [
+    "A new notebook has 0 pages written on.",
+    "When everyone has gone to school and work, there are 0 chappals by the door.",
+    "In Sanskrit, zero is called shunya. The word means empty."
+   ],
+   "perspectives": [],
+   "art": "Four plates in a row holding three, two, one and no laddus, with the numerals 3, 2, 1 and 0 under them.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "3 laddus",
+      "n": 3
+     },
+     {
+      "label": "2 laddus",
+      "n": 2
+     },
+     {
+      "label": "1 laddu",
+      "n": 1
+     },
+     {
+      "label": "0 laddus",
+      "n": 0
+     }
+    ]
+   }
+  },
+  {
+   "concept": "One fewer than 1 is zero",
+   "status": "defined",
+   "context": "This card shows how you reach zero by taking away. You did this with beans in the Empty Plate Test.",
+   "definition": "When you take away the last thing, zero are left. One take away one is zero.",
+   "description": "Each time you take one thing away, the number goes down by one. Here is a worked example. Three beans are on a plate. Take one away, and 2 are left. Take one away, and 1 is left. Take the last one away, and 0 are left. We can write the last step as a sum: 1 take away 1 is 0.",
+   "examples": [
+    "One dosa is on your plate. You eat it. Zero dosas are on your plate.",
+    "Five children are in the lift. All five get out. Zero children are in the lift.",
+    "A full tube of toothpaste goes down a little each day, until zero is left."
+   ],
+   "perspectives": [],
+   "art": "A plate with one bean, an arrow showing the bean being lifted off, and the same plate empty with a 0 beside it.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "1",
+     "− 1"
+    ],
+    "answer": "0"
+   }
+  },
+  {
+   "concept": "Zero on the number line",
+   "status": "defined",
+   "context": "This card shows where zero lives on a number line, which is a line with the numbers in order.",
+   "definition": "On a number line, zero is one step before 1. It is where counting starts.",
+   "description": "On a number line, each step to the right is one more. Each step to the left is one fewer. Here is a worked example. Put your finger on 3. Step left to 2, and then to 1. Step left once more, and you are on 0. So zero sits one step to the left of 1. Before you have counted anything, you are at zero.",
+   "examples": [
+    "A countdown is hopping left along the number line: 3, 2, 1, 0.",
+    "A stopwatch shows 0 before you press start.",
+    "At a petrol pump, the meter is set to 0 before the petrol starts to flow."
+   ],
+   "perspectives": [],
+   "art": "A number line from 0 to 10 with three curved arrows hopping left from 3 to 0, and the 0 circled.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 10,
+    "step": 1,
+    "title": "Zero is one step before 1"
+   }
+  },
+  {
+   "concept": "Zero is fewer than one",
+   "status": "defined",
+   "context": "This card compares zero with the other numbers. It answers the question: which is the smallest number you can count things with?",
+   "definition": "Zero is fewer than 1, and fewer than every other counting number.",
+   "description": "Fewer means not as many. 1 vada is fewer than 2 vadas. 0 vadas is fewer than 1 vada. You cannot have fewer vadas than none. So when you count things, zero is the smallest answer you can get. This is simplified. Later you will meet numbers below zero. They are used for other jobs, such as naming the floors under the ground in a tall building.",
+   "examples": [
+    "A plate with 0 idlis has fewer idlis than a plate with 1 idli.",
+    "A team with 0 runs has fewer runs than a team with 1 run.",
+    "If two tiffin boxes both have 0 biscuits, neither has fewer. They have the same."
+   ],
+   "perspectives": [],
+   "art": "Three plates in a row with zero, one and two vadas, and an arrow under them labelled 'fewer' pointing toward the empty plate.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "0 vadas",
+      "n": 0
+     },
+     {
+      "label": "1 vada",
+      "n": 1
+     },
+     {
+      "label": "2 vadas",
+      "n": 2
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Zero is always zero of something",
+   "status": "defined",
+   "context": "This card is about a finding from the Empty Plate Test. The empty plate had zero beans, but it was still one plate.",
+   "definition": "Zero tells how many of one kind of thing. It does not mean that nothing at all is there.",
+   "description": "Zero answers a question, and the question always names a thing. How many beans are on the plate? Zero. How many plates are there? One. A bowl holds 3 bananas and no mangoes. It has 0 mangoes and 3 fruits. So before you say zero, say what you are counting.",
+   "examples": [
+    "Your hand has 0 feathers and 5 fingers.",
+    "An empty tumbler has 0 water. It is full of air.",
+    "In the day you can count 0 stars in the sky, apart from the Sun. The stars are still there. The Sun's light hides them."
+   ],
+   "perspectives": [],
+   "art": "A fruit bowl holding three bananas, with two labels: '3 bananas' and '0 mangoes'.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "bananas",
+      "n": 3
+     },
+     {
+      "label": "mangoes",
+      "n": 0
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Where zero goes is sometimes a choice",
+   "status": "defined",
+   "context": "This card shows that people in different places put zero in different spots. Nothing about the building or the baby is different.",
+   "definition": "People choose where to start counting. Some start at 0 and some start at 1.",
+   "description": "Look at the buttons in a lift. In India the ground floor is often marked 0 or G, and the floor above it is 1. In the United States the ground floor is usually called floor 1. The building is the same. Only the choice is different. Ages work like this too. In India a new baby is 0 years old until the first birthday. In the old Korean way, a new baby was called 1 year old.",
+   "examples": [
+    "A lift in Chennai: 0, 1, 2, 3. A lift in New York: 1, 2, 3, 4. Both have four floors.",
+    "In June 2023, South Korea changed its rule. Now a new baby there is 0 years old too.",
+    "The first second of a race starts at 0 on the stopwatch, not at 1."
+   ],
+   "perspectives": [],
+   "art": "Two lift button panels side by side for the same four-storey building, one reading 0, 1, 2, 3 and the other reading 1, 2, 3, 4.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 3,
+    "step": 1,
+    "title": "A lift in India: the ground floor is 0"
+   }
+  },
+  {
+   "concept": "Is none a number?",
+   "status": "debated",
+   "context": "This card is about an old argument. For a very long time, many people did not think of zero as a number.",
+   "description": "A number tells how many things there are. But when there are none, there is nothing to count. So is zero really a number? People answered this in two ways. Today nearly everyone uses zero as a number, because sums with zero work every time. The argument about what zero really is has not ended.",
+   "examples": [
+    "The Romans wrote numbers with letters: I for 1, V for 5, X for 10. They had no letter for zero.",
+    "In India, writers first used a dot for zero, and later a small circle.",
+    "The Maya people of Central America drew a shell for zero."
+   ],
+   "perspectives": [
+    {
+     "who": "Many people long ago",
+     "explanation": "A number counts things. None is not a thing. So you do not need a number for it. You can just say 'there are none'."
+    },
+    {
+     "who": "Brahmagupta, an Indian mathematician, in 628 CE, and mathematicians today",
+     "explanation": "Zero is a number like 1, 2 and 3. You can add it and take it away. Brahmagupta wrote down rules for doing sums with zero."
+    }
+   ],
+   "art": "On the left, a stone tablet with the Roman numerals I, V and X and an empty space. On the right, a palm leaf with a dot and a small circle."
+  },
+  {
+   "concept": "Stretch: adding zero, and taking away zero",
+   "status": "defined",
+   "context": "This card goes further than Class 1. It is for a child who finds zero easy and wants to use it in sums.",
+   "definition": "When you add zero to a number, the number stays the same. When you take zero away from a number, the number stays the same.",
+   "description": "Here is a worked example. Five beans are on a plate. Tip an empty cup over the plate. The cup had zero beans, so no bean falls out. There are still 5 beans, and we write 5 + 0 = 5. Now take zero beans away. You take none, so there are still 5. We write 5 − 0 = 5.",
+   "examples": [
+    "You have 6 marbles. Your sister gives you 0 more. You still have 6.",
+    "A batter has 4 runs. The next ball is a dot ball, which means 0 runs. She still has 4.",
+    "0 + 0 = 0. Two empty plates together still hold no beans."
+   ],
+   "perspectives": [],
+   "art": "A plate with five beans and an empty cup being tipped over it, with nothing falling out.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "5",
+     "+ 0"
+    ],
+    "answer": "5"
+   }
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Zero is a number. It tells how many when there are none.",
+   "evidence": "Sums with zero work every time. 3 take away 3 is 0. 3 and 0 more is 3. Anyone can check this with beans. Brahmagupta wrote the first known rules for sums with zero in 628 CE."
+  },
+  {
+   "text": "Small children learn zero later than they learn 1, 2 and 3.",
+   "evidence": "In 1986 two scientists, Henry Wellman and Kevin Miller, asked children aged 3 to 7 about zero. Many of the younger children knew the sign 0 but still thought 1 was the smallest number."
+  },
+  {
+   "text": "People in different places invented a sign for zero by themselves.",
+   "evidence": "Writers in old Babylon used two slanted marks for an empty place. The Maya of Central America drew a shell. Writers in India used a dot and later a circle. These peoples lived far apart."
+  },
+  {
+   "text": "Some other animals treat none as fewer than one.",
+   "evidence": "In 2018, honeybees trained to fly to the card with fewer shapes chose an empty card over a card with shapes more often than not (Howard and others, 2018). In 2021, scientists showed two trained crows screens of dots, and sometimes an empty screen. One crow clearly treated the empty screen as closest to one dot (Kirschhock and others, 2021)."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Zero is nothing, so it is not a real number.",
+   "who": "Many grown-ups, and many people long ago",
+   "context": "This card is about a common mix-up between zero and nothing.",
+   "for": "You cannot hold zero beans in your hand. When there are none, there is nothing to point at.",
+   "against": "Zero does every job a number does. It answers 'how many?'. It has a place on the number line. You can add it and take it away. An empty plate is also not nothing: the plate is still there.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Zero was invented in India and nowhere else.",
+   "who": "A common belief",
+   "context": "This card is about who first thought of zero.",
+   "for": "The first known rules for doing sums with zero as a number were written in India, by Brahmagupta in 628 CE. The numerals the world uses today, with 0 in them, came from India.",
+   "against": "Writers in Babylon and the Maya of Central America had their own signs for an empty place, without learning from India. So more than one people thought of a sign for zero.",
+   "status": "debated"
+  },
+  {
+   "claim": "Only humans understand none.",
+   "who": "A common belief",
+   "context": "This card is about whether other animals know about zero.",
+   "for": "Only humans are known to write zero and do sums with it.",
+   "against": "Trained honeybees chose an empty card as fewer than one. A trained crow treated an empty screen as the number next to one. Scientists still argue about how much this is like our zero.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "You take the last bean off the plate. Where did the number go?",
+   "kind": "deep",
+   "hint": "Was there 1 before? What is there now? Is that a number too?"
+  },
+  {
+   "q": "Is an empty plate the same as no plate?",
+   "kind": "deep",
+   "hint": "How many beans are on an empty plate? How many beans are on no plate?"
+  },
+  {
+   "q": "Can you take one away from zero beans? What happens when you try?",
+   "kind": "deep",
+   "hint": "Try it with a real plate. Then think about the floors under the ground in a lift."
+  },
+  {
+   "q": "In the day you count zero stars in the sky. Are there zero stars?",
+   "kind": "big",
+   "hint": "Zero says what you found when you looked. Is that always the same as what is there?"
+  },
+  {
+   "q": "A honeybee picks an empty card as the one with fewer shapes. Does she know about zero?",
+   "kind": "big",
+   "hint": "She has no word for zero. Do you need a word to know that none is fewer than one?"
+  },
+  {
+   "q": "Is anything in the world truly empty?",
+   "kind": "big",
+   "hint": "Think of an empty tumbler, an empty room, the sky at night."
+  }
+ ],
+ "story": {
+  "title": "The Ring on the Slate",
+  "mins": 7,
+  "read_aloud": true,
+  "note": "Thangam, Paatti and Mani are made up. Madurai is well known for its jasmine. Nobody knows who first drew zero as a round sign. In India, the oldest zero written as a small circle that carries a date is on a temple wall in Gwalior, from 876 CE. That writing counts 50 flower garlands to be given each day.",
+  "text": [
+   "Thangam's grandmother sold jasmine near the big temple in Madurai. Every morning Paatti got up at four o'clock, while the street was still dark. She went to the flower market, bought a basket of buds, and tied them into strings.",
+   "Jasmine does not keep. A string tied in the morning is brown by the next day. So Paatti had to guess well. If she tied too many strings, some went to waste. If she tied too few, people walked away with empty hands.",
+   "That was why Thangam had a job. Every evening she counted the strings that nobody had bought. She wrote the number on the slate by the door. Paatti read it at four in the morning, when Thangam was fast asleep.",
+   "\"If the slate says 6, I buy fewer buds,\" Paatti told her. \"If it says 1, I buy a little more.\"",
+   "On Monday the slate said 4. On Tuesday it said 2.",
+   "On Wednesday a wedding party came down the street. The aunties bought jasmine for every girl's plait. By sunset the basket was empty.",
+   "Thangam picked up the chalk to do her job. She looked into the basket. There was not one string to count. So she wrote no number. She left the slate clean and went to bed happy.",
+   "At four in the morning Paatti held the lamp up to the slate. It was blank.",
+   "\"The child fell asleep before she counted,\" Paatti said to herself. Thangam had done that once last week, and that day six strings had been left over. \"I had better be careful.\" She bought only a small basket of buds.",
+   "Thursday was the day before the festival. By five o'clock every string was sold, and people were still coming. A girl in a green pavadai asked for two strings. A man asked for five. Paatti had to shake her head again and again.",
+   "\"Paatti, why did you tie so few?\" Thangam asked. \"Yesterday we sold every single one!\"",
+   "\"Did we? The slate was blank. I thought you forgot to count.\"",
+   "\"I did not forget. I looked in the basket. There was nothing to count, so there was nothing to write.\"",
+   "Paatti put down the basket. \"Kanna, think. When you forget, the slate is blank. When everything is sold, the slate is blank. At four in the morning, how can I tell one blank slate from the other?\"",
+   "Thangam thought about that all the way home. A blank slate did not say 'none are left'. A blank slate did not say anything at all. She needed a mark that meant: I looked, I counted, and there are none.",
+   "She looked at the empty basket in her lap. From above it was a round rim with nothing inside.",
+   "That evening the basket was empty again. Thangam took the chalk and drew a ring on the slate. It was round like the rim of the basket, with nothing inside it.",
+   "Her little brother Mani came to look. \"Why did you draw that? You said there are no strings. So do not write anything.\"",
+   "\"If I write nothing, Paatti does not know if I counted,\" said Thangam. \"The ring is how many are left. I counted, and this is the number.\"",
+   "\"Then it is a number for no strings,\" said Mani slowly.",
+   "\"Yes. And Paatti needs it as much as she needs a 4 or a 6.\"",
+   "At four in the morning Paatti held the lamp up to the slate. She saw the ring, and she smiled. She came home from the market with the biggest basket of buds that Thangam had ever seen.",
+   "On the festival day they sold jasmine until the stars came out. That evening Thangam counted the strings that were left. There were three. She rubbed out the ring and wrote 3.",
+   "A few days later Thangam fell asleep straight after dinner. In the morning the slate was blank. This time Paatti knew what a blank slate meant. She woke Thangam with a tickle. \"You forgot to count,\" she said. \"Come, we will count them together.\""
+  ],
+  "epiphany": "For the parent: writing zero is not the same as writing nothing. A blank slate could mean 'I forgot' or 'none are left', so it tells Paatti nothing. The ring means 'I counted, and there are none'. Zero is a number because it is an answer to 'how many?'.",
+  "ask": [
+   "Why could Paatti not tell what the blank slate meant?",
+   "What did the ring tell Paatti that a blank slate could not?",
+   "Mani said to write nothing when there are no strings. What would you say to him?",
+   "Where at home would a zero be more useful than a blank space?"
+  ],
+  "art": [
+   "An old woman tying jasmine buds into strings by lamplight before dawn, with a basket of white buds beside her.",
+   "A girl of eight holding a piece of chalk, looking into an empty cane basket at sunset.",
+   "The old woman holding a lamp up to a blank slate hanging by a door in the dark.",
+   "The girl drawing a round ring on the slate, with the empty round basket on the floor beside her and her small brother watching.",
+   "The old woman and the girl selling jasmine strings from a very full basket near a temple tower on a festival evening."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Empty Plate Test: is there a number for none?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this test you take beans off a plate one at a time until none are left. Before each step you guess what will happen. You will find out what number comes before 1, where it goes in the order of numbers, and what happens when you add it.",
+   "question": "When the last bean is taken away, is there still a number for how many beans are on the plate? Where does that number go?",
+   "predict": "Before the last bean is taken, guess: is there a number for how many will be left? What is it, and why do you think so?",
+   "fair_test": "We use the same plate and the same 5 beans all the way through. We take away exactly one bean each time. We count what is left every time, even when it looks easy.",
+   "results_table": [
+    "What I did",
+    "My guess",
+    "What I counted"
+   ],
+   "materials": [
+    {
+     "item": "dried beans such as rajma or chana, or buttons, all about the same size",
+     "qty": 5
+    },
+    {
+     "item": "steel plates or sheets of paper",
+     "qty": 2
+    },
+    {
+     "item": "a small empty cup or tumbler that you cannot see through",
+     "qty": 1
+    },
+    {
+     "item": "coins",
+     "qty": 3
+    },
+    {
+     "item": "paper and a pencil, for the table and six small number slips",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep beans, coins and buttons away from babies and toddlers, who could choke on them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Take 5 beans away one by one, find where the empty plate goes in the order, add an empty cup, and compare two empty plates."
+    }
+   ],
+   "record": "A grown-up draws the table. For each step, write the guess and the count. At the end, the child says what they found, and the grown-up writes it under the table.",
+   "example_chart": {
+    "type": "table",
+    "title": "What a finished table can look like (your guesses will be your own)",
+    "cols": [
+     "What I did",
+     "My guess",
+     "What I counted"
+    ],
+    "rows": [
+     [
+      "Took 1 bean from 5",
+      "4",
+      "4"
+     ],
+     [
+      "Took the last bean",
+      "nothing",
+      "0"
+     ],
+     [
+      "Found the place of the empty row",
+      "after 5",
+      "before 1"
+     ],
+     [
+      "Tipped an empty cup on 4 beans",
+      "more",
+      "4"
+     ],
+     [
+      "Took all 3 coins away",
+      "0",
+      "0"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Five rajma beans on a steel plate, with a second empty plate and a pencil and paper beside it.",
+     "caption": "1. Put 5 beans on a plate. Count them."
+    },
+    {
+     "art": "A child's hand lifting one bean off the plate, with three beans left on it and two beans already on the table.",
+     "caption": "2. Take one bean away each time. Guess first, then count what is left."
+    },
+    {
+     "art": "Rows of beans on a table, five, four, three, two and one, each with a paper number slip, and an empty space at the end with a slip turned face down.",
+     "caption": "3. Lay the counts in order. Where does the empty plate go?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw the table with three columns. 2. Put 5 beans on one plate. 3. Ask your child to count them, touching each bean. 4. Write 5.",
+     "say": "How many beans are on this plate? Touch each one as you count.",
+     "kid": "Put 5 beans on a plate. Touch each bean and count.",
+     "ask": [
+      {
+       "q": "What was the last number you said? So how many beans are there?",
+       "good": [
+        "5.",
+        "Five, because that was the last number."
+       ]
+      }
+     ],
+     "parent": "Keep the second plate, the cup and the coins to one side for now.",
+     "context": "This is the first step of the Empty Plate Test. You count 5 beans on a plate.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "on the plate",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Ask your child to take one bean away. 2. Before they count, ask how many will be left. Write the guess. 3. Count and write. 4. Do this again until 1 bean is left. 5. Now stop. Ask for a guess and a reason before the last bean goes. 6. Take the last bean. Write what your child says.",
+     "say": "One bean is left. If you take it away, how many beans will be on the plate? Is there a number for that? Why do you think so?",
+     "kid": "Take one bean away. Count what is left. Do it again and again. What will you say when the plate is empty?",
+     "ask": [
+      {
+       "q": "The plate is empty now. How many beans are on it?",
+       "good": [
+        "None.",
+        "Nothing.",
+        "Zero.",
+        "No beans."
+       ]
+      }
+     ],
+     "parent": "Children say 'nothing', 'none', 'no beans' or 'zero'. Write down the exact word. Do not give the word zero yet if your child has not said it. The next step shows why a number is needed.",
+     "context": "This is step 2 of the Empty Plate Test. You take beans off a plate one at a time, from 5 down to none.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "start",
+        "n": 5
+       },
+       {
+        "label": "take 1",
+        "n": 4
+       },
+       {
+        "label": "take 1",
+        "n": 3
+       },
+       {
+        "label": "take 1",
+        "n": 2
+       },
+       {
+        "label": "take 1",
+        "n": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Write 1, 2, 3, 4, 5 and 0 on six slips of paper. Hide the 0 slip. 2. On the table, lay a row of 5 beans, then rows of 4, 3, 2 and 1 under it. Put the right slip beside each row. 3. Ask what the next row looks like. 4. Ask where the empty plate belongs: after 5 or before 1? Ask why. 5. Bring out the 0 slip. Your child puts it in place.",
+     "say": "Each row has one bean fewer than the row before it. What does the next row look like? Does the empty plate go after 5 or before 1? Why?",
+     "kid": "Make rows of 5, 4, 3, 2 and 1 beans. What does the next row look like? Put the 0 slip where it belongs.",
+     "ask": [
+      {
+       "q": "Why does the empty row go next to the row of 1?",
+       "good": [
+        "Because it is one less than 1.",
+        "Each row loses one bean, and then there are no beans.",
+        "It has the fewest."
+       ]
+      }
+     ],
+     "parent": "The next row has no beans at all. It goes next to the row of 1, because it has one bean fewer than 1. Some children put it after 5 because zero is the newest number they learnt. Point at the pattern of one fewer each time and let them move it.",
+     "check": {
+      "t": "mcq",
+      "q": "Rows of beans go 3, 2, 1. Each row has one bean fewer. How many beans are in the next row?",
+      "options": [
+       "4",
+       "1",
+       "0"
+      ],
+      "a": 2,
+      "why": "One fewer than 1 is 0, so the next row has no beans. Picking 4 means counting up instead of down. Picking 1 means stopping at the last row you can see."
+     },
+     "context": "This is step 3 of the Empty Plate Test. You lay rows of beans in order and find where the empty row goes.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "5",
+        "n": 5
+       },
+       {
+        "label": "4",
+        "n": 4
+       },
+       {
+        "label": "3",
+        "n": 3
+       },
+       {
+        "label": "2",
+        "n": 2
+       },
+       {
+        "label": "1",
+        "n": 1
+       },
+       {
+        "label": "?",
+        "n": 0
+       }
+      ]
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Put 4 beans on the plate. 2. Show the cup, held so that your child cannot see inside. It is empty. 3. Ask: if I tip this cup over the plate, will there be more beans, fewer beans or the same? Ask why. Write the guess. 4. Tip the cup. Count. Write 4. 5. Let your child look inside the cup.",
+     "say": "There are 4 beans. I will tip this cup over the plate. Will there be more beans, fewer beans or the same? Why do you think so?",
+     "kid": "Put 4 beans on the plate. Tip the empty cup over them. More beans, fewer, or the same? Count to check.",
+     "ask": [
+      {
+       "q": "How many beans were in the cup? How do you know?",
+       "good": [
+        "Zero, because nothing fell out.",
+        "None. There are still 4 on the plate."
+       ]
+      }
+     ],
+     "parent": "Most children guess 'more', because tipping a cup usually adds something. The count stays at 4, so the cup held zero beans. A child working alone already knows the cup is empty, and that is fine. They still count to check.",
+     "context": "This is step 4 of the Empty Plate Test. You tip an empty cup over 4 beans to see what adding zero does.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "4",
+       "+ 0"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Clear the bean plate, so that it is empty again. 2. Put 3 coins on the second plate. Your child takes them away one by one, counting back: 2, 1, 0. 3. Put the two empty plates side by side. 4. Ask the questions below.",
+     "say": "This plate has zero beans. That plate has zero coins. Do the two plates look different? How many coins are on the bean plate? And how many plates are on the table?",
+     "kid": "Take 3 coins off the other plate, one by one. Now look at both empty plates. How many beans? How many coins? How many plates?",
+     "ask": [
+      {
+       "q": "How many elephants are on the bean plate?",
+       "good": [
+        "Zero!",
+        "None."
+       ]
+      },
+      {
+       "q": "The plates are empty. Is there nothing at all on the table?",
+       "good": [
+        "No, there are 2 plates.",
+        "The plates are there.",
+        "There is zero of beans but there are plates."
+       ]
+      }
+     ],
+     "parent": "Zero beans and zero coins look exactly the same. Each empty plate has zero beans, zero coins and zero elephants. But there are 2 plates. Zero always needs a question: zero of what?",
+     "context": "This is step 5 of the Empty Plate Test. You compare a plate with zero beans and a plate with zero coins.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "beans on plate 1",
+        "n": 0
+       },
+       {
+        "label": "coins on plate 2",
+        "n": 0
+       },
+       {
+        "label": "plates",
+        "n": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "1. Look at the table together. 2. Ask your child what they think now, what they saw, and why. 3. Write their words under the table. 4. Now say it plainly: the number for none is zero, and we write 0. Your child writes 0.",
+     "say": "Look at our table. Is there a number for an empty plate? Where does it go? What happened when we added the empty cup?",
+     "kid": "Look at your table. What is the number for the empty plate? Where does it go? Write it.",
+     "ask": [
+      {
+       "q": "What do you think now? What did you see? Why do you think it is so?",
+       "good": [
+        "There is a number for none. It is zero.",
+        "The empty row came after 1, with one bean fewer.",
+        "Adding the empty cup did not change the 4.",
+        "The plate had zero beans but it was still a plate."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "One bean is on a plate. You take it away. How many beans are on the plate now?",
+      "options": [
+       "1",
+       "0",
+       "There is no number for that"
+      ],
+      "a": 1,
+      "why": "Zero. One fewer than 1 is 0. Picking 'no number' means thinking that numbers are only for things you can see. Zero is the number for none."
+     },
+     "context": "This is the last step of the Empty Plate Test. You look at your table and say what you found about the empty plate."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Zero Hunt: zero of what?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you walk around your home and find places that have zero of one thing and some of another. The point is to see that zero is always zero of something.",
+   "problem": "Can a place have zero of one thing and many of another thing at the same time?",
+   "materials": [
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "your home",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Find five places at home with zero of one thing and some of another. Write both numbers."
+    }
+   ],
+   "record": "Draw a table with three columns: the place, what there is zero of, and what there is some of. Fill five rows.",
+   "setup": [
+    {
+     "art": "A dining table with a tablecloth and one steel tumbler on it, and no spoons anywhere.",
+     "caption": "1. Pick a place. Name something it has zero of."
+    },
+    {
+     "art": "A child pointing under the same table at its four legs, holding up four fingers.",
+     "caption": "2. Now find something it has some of. Count it."
+    },
+    {
+     "art": "A sheet of paper with a hand-drawn table of three columns and two filled rows, such as 'table, 0 spoons, 4 legs'.",
+     "caption": "3. Write both numbers. Find five places."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Stand at a table with your child. 2. Ask how many spoons are on it. 3. Ask what else the table has, and count that. 4. Write the first row together.",
+     "say": "How many spoons are on this table? Now, what does the table have some of? Count it.",
+     "kid": "Go to a table. How many spoons are on it? What does it have some of? Count.",
+     "parent": "Pick a table with no spoons on it. If there are spoons, ask about mangoes or elephants instead.",
+     "context": "This is the first step of the Zero Hunt. You find one place that has zero of one thing and some of another.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "spoons on the table",
+        "n": 0
+       },
+       {
+        "label": "legs of the table",
+        "n": 4
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Walk around the home together. 2. Your child picks four more places: a shelf, the fridge, a bed, the balcony. 3. For each one, they name something it has zero of and something it has some of. 4. Write each row.",
+     "say": "Find a place. Tell me one thing it has zero of, and one thing it has some of.",
+     "kid": "Find four more places. Each time say: zero of this, and some of that.",
+     "ask": [
+      {
+       "q": "Can you find a place that has zero of everything?",
+       "good": [
+        "No, there is always something.",
+        "Even an empty box has air.",
+        "The box is still there."
+       ]
+      }
+     ],
+     "parent": "Silly answers are welcome: zero tigers on the bed, 2 pillows. The point is that your child names the thing each time.",
+     "context": "This is step 2 of the Zero Hunt. You find four more places with zero of one thing and some of another."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Read the table aloud together. 2. Ask the question below.",
+     "say": "Every place had a zero and it also had some of something. So does zero mean that nothing is there?",
+     "kid": "Read your table. Does zero mean nothing at all is there?",
+     "check": {
+      "t": "mcq",
+      "q": "A shelf has zero books on it. Which is true?",
+      "options": [
+       "Nothing at all is on the shelf",
+       "No books are on it. Other things may be",
+       "The shelf is not there"
+      ],
+      "a": 1,
+      "why": "Zero books means no books. The shelf may still hold toys, dust or a lamp. Picking 'nothing at all' means reading zero as zero of everything. Zero is always zero of one kind of thing."
+     },
+     "context": "This is the last step of the Zero Hunt. You read your table of zeros and say what zero means."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Floor Number Line: count down to zero and lift off",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you lay a number line from 0 to 10 on the floor and hop back along it to zero, like a rocket countdown. The point is to feel where zero is: one step before 1.",
+   "problem": "Where is zero on the number line, and how do you get there?",
+   "materials": [
+    {
+     "item": "11 slips of paper and tape, or chalk",
+     "qty": 1
+    },
+    {
+     "item": "a dice, with a small paper sticker to cover the 6",
+     "qty": 1
+    },
+    {
+     "item": "a floor about 3 big steps long, such as a corridor",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Lay the numbers 0 to 10 on the floor. Count down to zero and jump. Then hop with the zero dice."
+    }
+   ],
+   "record": "Draw your number line from 0 to 10 on paper. Draw the hops from 3 back to 0.",
+   "setup": [
+    {
+     "art": "A corridor floor with paper slips numbered 0 to 10 taped in a straight line, one foot-length apart.",
+     "caption": "1. Lay the numbers 0 to 10 in a line, the same distance apart."
+    },
+    {
+     "art": "A child standing on the slip marked 5, facing the slip marked 0, with knees bent ready to hop.",
+     "caption": "2. Stand on a number. Hop back one step at a time and count down."
+    },
+    {
+     "art": "The child jumping high in the air above the slip marked 0, arms up like a rocket.",
+     "caption": "3. When you land on 0, jump up. Lift off!"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Write 0 to 10 on slips of paper. 2. Give your child the slips for 1 to 10 to lay in a line, one foot-length apart. 3. Hold up the 0 slip and ask where it goes. 4. Tape the slips down.",
+     "say": "Here is zero. Where does it go on our line? Why there?",
+     "kid": "Lay the numbers 1 to 10 in a line on the floor. Now where does 0 go?",
+     "ask": [
+      {
+       "q": "Why does 0 go before 1?",
+       "good": [
+        "It is one less than 1.",
+        "It is the smallest.",
+        "You count back 2, 1, 0."
+       ]
+      }
+     ],
+     "parent": "Zero goes one step before 1, with the same gap as the others. Tape the slips so that they do not slide on tiles.",
+     "context": "This is the first step of the Floor Number Line. You lay the numbers 0 to 10 in a line on the floor and find the place for zero.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "title": "The floor number line"
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Your child stands on 5. 2. They hop back one slip at a time and say each number they land on. 3. On 0 they jump up and shout 'Lift off!'. 4. Do it again from 8 and from 10.",
+     "say": "You are a rocket on 5. Hop back and say each number. When you land on zero, lift off!",
+     "kid": "Stand on 5. Hop back and say each number. On 0, jump up. Lift off!",
+     "ask": [
+      {
+       "q": "You started on 5. How many hops did it take to reach 0?",
+       "good": [
+        "5.",
+        "Five hops."
+       ]
+      }
+     ],
+     "parent": "The number of hops to zero is the same as the number your child started on. Let them notice it after two or three goes. Do not point it out the first time.",
+     "check": {
+      "t": "mcq",
+      "q": "You stand on 3 and hop back one step at a time. Which numbers do you say?",
+      "options": [
+       "3, 2, 1",
+       "2, 1, 0",
+       "4, 5, 6"
+      ],
+      "a": 1,
+      "why": "You say 2, 1, 0 and land on zero. The number you start on is not a hop. Picking '3, 2, 1' means counting the starting number, which leaves you one step short of zero."
+     },
+     "context": "This is step 2 of the Floor Number Line, a line of numbers from 0 to 10 on the floor. Here you count down to zero like a rocket."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Stick a small piece of paper over the 6 on the dice and write 0 on it. This is the zero dice. 2. Your child stands on 10. 3. They roll the zero dice and hop back that many steps. 4. If they roll 0, they stay where they are and say 'Zero. I do not move.' 5. Go on until they reach 0. They do not need the exact roll to finish.",
+     "say": "Roll the zero dice and hop back that many. What will you do if you roll zero?",
+     "kid": "Stand on 10. Roll the zero dice. Hop back that many steps. If you roll 0, stay still.",
+     "ask": [
+      {
+       "q": "You rolled 0. Where are you now? Why?",
+       "good": [
+        "In the same place.",
+        "Zero hops means I do not move."
+       ]
+      }
+     ],
+     "parent": "Rolling zero feels like a wasted turn. That is the idea: hopping zero steps leaves you on the same number. It takes about four rolls to get from 10 to 0.",
+     "context": "This is the last step of the Floor Number Line, a line of numbers from 0 to 10 on the floor. Here you hop back with a dice that has a zero on it."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Maths in cricket: score one over, dot balls and all",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you play one over of corridor cricket with a paper ball and keep the score the way a real scorer does. A ball with zero runs gets a dot. The point is to see that zeros must be written down too, and that they add nothing to the total.",
+   "problem": "A cricket scorer writes something for every ball, even a ball with no runs. Why?",
+   "materials": [
+    {
+     "item": "a ball made of crumpled newspaper",
+     "qty": 1
+    },
+    {
+     "item": "a thick notebook or a rolled newspaper, as the bat",
+     "qty": 1
+    },
+    {
+     "item": "a plastic bottle or a chappal, as the stumps",
+     "qty": 1
+    },
+    {
+     "item": "beans and a cup, to count the runs",
+     "qty": 12
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Play in a corridor or a room with nothing breakable nearby. Bowl underarm and gently.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Play two overs of six balls each with a paper ball. Score every ball, with a dot for zero runs. Count each total."
+    }
+   ],
+   "record": "Draw two rows of six boxes, one row for each batter. Write the runs for each ball in a box. For a ball with zero runs, put a dot. Write each total at the end of the row.",
+   "setup": [
+    {
+     "art": "A corridor with a plastic bottle standing as stumps, a child holding a thick notebook as a bat, and a parent with a crumpled paper ball.",
+     "caption": "1. Set up the stumps. One bats, one bowls underarm."
+    },
+    {
+     "art": "A sheet of paper with a row of six boxes; the first three boxes hold a 1, a dot and a 2.",
+     "caption": "2. After every ball, write the runs in a box. Zero runs is a dot."
+    },
+    {
+     "art": "A steel cup with four beans in it beside the filled row of six boxes, and the number 4 written at the end of the row.",
+     "caption": "3. Drop one bean in the cup for each run. Count the beans for the total."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Stand the bottle at one end of the corridor. Your child bats in front of it. 2. Agree on the runs. A miss, or a hit that does not go past the bowler, is 0 runs. A hit that goes past the bowler is 1 run. A hit that reaches the far wall is 2 runs. 3. Draw two rows of six boxes on the paper.",
+     "say": "An over is six balls. We will write the runs for every ball. If you get zero runs, we put a dot. Cricket scorers call that a dot ball.",
+     "kid": "Set up the bottle as stumps. Draw two rows of six boxes. A miss is 0 runs. Past the bowler is 1. The far wall is 2.",
+     "parent": "In real cricket, the scorer makes a dot in the book for a ball with no runs. That is where the name 'dot ball' comes from. If the ball hits the bottle, simply score it as 0 runs and play on, so that everyone faces six balls.",
+     "context": "This is the first step of Maths in cricket. You set up one over of corridor cricket and a score sheet with six boxes.",
+     "chart": {
+      "type": "table",
+      "title": "One over that somebody scored",
+      "cols": [
+       "Ball",
+       "Runs"
+      ],
+      "rows": [
+       [
+        "1",
+        "1"
+       ],
+       [
+        "2",
+        "•"
+       ],
+       [
+        "3",
+        "2"
+       ],
+       [
+        "4",
+        "•"
+       ],
+       [
+        "5",
+        "•"
+       ],
+       [
+        "6",
+        "1"
+       ]
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Bowl six balls underarm to your child. 2. After each ball, your child says the runs and writes them in the next box, with a dot for zero. 3. For each run, they drop one bean in the cup. For a dot ball they drop no bean and say 'zero'.",
+     "say": "How many runs was that? Write it. How many beans go in the cup?",
+     "kid": "Bat six balls. Write the runs after each ball. A dot for zero. One bean in the cup for each run.",
+     "ask": [
+      {
+       "q": "That was a dot ball. How many beans go in the cup?",
+       "good": [
+        "None.",
+        "Zero beans."
+       ]
+      }
+     ],
+     "parent": "Watch for a skipped box after a miss. Every ball gets a box, even when the box holds only a dot. Otherwise nobody knows how many balls have been bowled.",
+     "context": "This is step 2 of Maths in cricket, where you play corridor cricket and score every ball. Here the child bats one over."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Swap. You bat six balls and your child bowls and keeps the score in the second row. 2. Use a second cup, or tip the first one out after counting its beans.",
+     "say": "Now I bat and you are the scorer. Do not forget my dot balls.",
+     "kid": "Now you bowl and keep score. Write the runs for every ball. Dots too.",
+     "context": "This is step 3 of Maths in cricket, where you play corridor cricket and score every ball. Here the grown-up bats and the child keeps score."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Count the beans for each batter and write the totals. 2. Count the dots in each row. 3. Ask the questions below.",
+     "say": "Count the dots in your row. How many runs did all those dot balls add to your total?",
+     "kid": "Count the beans for your total. Count your dots. How many runs did the dots add?",
+     "ask": [
+      {
+       "q": "Why does the scorer write a dot, and not just leave the box empty?",
+       "good": [
+        "So we know the ball was bowled.",
+        "Or we lose count of the six balls.",
+        "An empty box could mean we forgot."
+       ]
+      }
+     ],
+     "parent": "The dots add zero runs, however many there are. A batter who is out without scoring any run is said to be 'out for a duck'. The name is short for 'duck's egg'. People say that is because a 0 on the scoreboard looks like an egg.",
+     "check": {
+      "t": "mcq",
+      "q": "A batter scores 1, 0, 0, 2 on four balls. How many runs in all?",
+      "options": [
+       "3",
+       "4",
+       "5"
+      ],
+      "a": 0,
+      "why": "1 and 2 make 3. The two zeros add nothing. Picking 4 means counting the balls. Picking 5 means counting each zero as a run."
+     },
+     "context": "This is the last step of Maths in cricket, where you play corridor cricket and score every ball. Here you count the totals and the dot balls."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Everyone does maths: the Bee Test",
+   "mins": 8,
+   "days": 1,
+   "context": "In this activity you take the test that scientists gave to honeybees in 2018. You look at two cards and point to the one with fewer dots. One of the cards is empty. The point is to see that an empty card is one step below a card with one dot.",
+   "problem": "Trained honeybees chose an empty card as the one with fewer shapes. Would you choose the same?",
+   "materials": [
+    {
+     "item": "6 pieces of paper or card, all the same size",
+     "qty": 6
+    },
+    {
+     "item": "a sketch pen or a crayon",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Make six dot cards, from no dots to five dots. Play 'which has fewer?' and then test someone else."
+    }
+   ],
+   "record": "Lay the six cards in a row from the fewest dots to the most. Draw the row.",
+   "setup": [
+    {
+     "art": "Six square paper cards in a row with zero, one, two, three, four and five big black dots drawn on them.",
+     "caption": "1. Make six cards: no dots, 1 dot, 2, 3, 4 and 5 dots."
+    },
+    {
+     "art": "A parent holding up two cards, one with three dots and one blank, and a child pointing at the blank one.",
+     "caption": "2. Look at two cards. Point to the one with fewer dots."
+    },
+    {
+     "art": "The six cards laid in order on the floor from the blank card to the five-dot card.",
+     "caption": "3. Lay all six in order, fewest first."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Your child draws the dots: 1, 2, 3, 4 and 5 on five cards. One card stays empty. 2. Hold up the 4 card and the 2 card. Ask which has fewer. 3. Do three more pairs, none of them with the empty card.",
+     "say": "The bees got sugar water when they flew to the card with fewer shapes. Which of these two cards has fewer dots?",
+     "kid": "Make the dot cards. Leave one card empty. Look at two cards. Point to the one with fewer dots.",
+     "context": "This is the first step of the Bee Test, where you pick the card with fewer dots as honeybees did. Here you make the cards and practise.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "card A",
+        "n": 4
+       },
+       {
+        "label": "card B",
+        "n": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Now hold up the empty card and the 3 card. Ask which has fewer. 2. Then hold up the empty card and the 1 card. 3. Ask how your child knew.",
+     "say": "Here is a new card. Which has fewer dots now? How do you know?",
+     "kid": "Now one card is empty. Which card has fewer dots? How do you know?",
+     "ask": [
+      {
+       "q": "How many dots are on the empty card?",
+       "good": [
+        "Zero.",
+        "None."
+       ]
+      }
+     ],
+     "parent": "The bees had never seen an empty card during training. Even so, they chose it over cards with shapes more often than not. They found it hardest when the other card had only one shape. Zero and one are close together.",
+     "check": {
+      "t": "mcq",
+      "q": "One card has 1 dot. The other card has no dots. Which card has fewer dots?",
+      "options": [
+       "The card with 1 dot",
+       "The empty card",
+       "They are the same"
+      ],
+      "a": 1,
+      "why": "The empty card has zero dots, and zero is fewer than 1. Picking 'the same' means treating the empty card as if it were not in the game. Zero dots is a number of dots too."
+     },
+     "context": "This is step 2 of the Bee Test, where you pick the card with fewer dots as honeybees did. Here one of the two cards is empty.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "card A",
+        "n": 1
+       },
+       {
+        "label": "card B",
+        "n": 0
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Mix the six cards. 2. Your child lays them in a row, fewest dots first. 3. If someone else is at home, your child gives them the Bee Test.",
+     "say": "Put all six cards in order, from the fewest dots to the most. Where does the empty card go?",
+     "kid": "Put the six cards in order. Start with the fewest dots. Then test someone at home.",
+     "context": "This is the last step of the Bee Test, where you pick the card with fewer dots as honeybees did. Here you put all six cards in order."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Empty the Plate",
+   "mins": 10,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a dice game played with a plate of 15 beans and a dice that has a zero on it. Each turn you take beans away and say how many are left. It builds quick counting back, all the way to zero.",
+   "printables": [
+    {
+     "kind": "score sheet",
+     "title": "A strip to keep track of how many beans are left after each turn (one for each player)",
+     "items": [
+      "Start: 15",
+      "After turn 1: ___",
+      "After turn 2: ___",
+      "After turn 3: ___",
+      "After turn 4: ___",
+      "After turn 5: ___",
+      "After turn 6: ___",
+      "After turn 7: ___",
+      "After turn 8: ___"
+     ]
+    }
+   ],
+   "rules": [
+    "Make the zero dice. Stick a small piece of paper over the 6 on a dice and write 0 on it.",
+    "Each player has a plate with 15 beans.",
+    "On your turn, roll the zero dice. Take that many beans off your plate. Then count your beans and say how many are left.",
+    "If you roll 0, take no beans. Say 'Zero. I take none.'",
+    "If you roll more than you have, take all your beans.",
+    "The first player with an empty plate shouts 'Zero!' and wins.",
+    "Playing alone: count how many rolls you need to empty the plate. Play again and try to need fewer."
+   ],
+   "setup": [
+    {
+     "art": "Two steel plates each holding fifteen beans, and a dice with a paper sticker marked 0 on one face.",
+     "caption": "1. Each player takes a plate of 15 beans. Make the zero dice."
+    },
+    {
+     "art": "A dice showing 3 beside a hand moving three beans off a plate that has eight beans left on it.",
+     "caption": "2. Roll. Take that many beans off. Say how many are left."
+    },
+    {
+     "art": "A child with an empty plate held up, shouting, with the other player's plate still holding four beans.",
+     "caption": "3. The first empty plate wins. Shout 'Zero!'"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Make the zero dice together. 2. Each player counts 15 beans onto a plate. 3. Read the rules aloud.",
+     "say": "This dice has a zero on it. What do you think you will do if you roll zero?",
+     "kid": "Make the zero dice. Count 15 beans onto your plate.",
+     "context": "This is the first step of Empty the Plate, a game with a plate of 15 beans and a dice that has a zero. Here you set up.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "your plate",
+        "n": 15
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Take one practice turn each. 2. Roll, take the beans off, then count what is left and say it aloud. 3. Roll until someone gets a 0, and show what to do.",
+     "say": "I rolled 3. I take 3 beans off. Now I count what is left: 12. Your turn.",
+     "kid": "Roll the dice. Take that many beans off. Count what is left. Say it.",
+     "check": {
+      "t": "mcq",
+      "q": "You have 7 beans on your plate. You roll 0. How many beans do you have now?",
+      "options": [
+       "0",
+       "6",
+       "7"
+      ],
+      "a": 2,
+      "why": "Rolling zero means you take no beans, so you still have 7. Picking 0 mixes up 'take zero' with 'zero are left'."
+     },
+     "parent": "The usual slip is to think that rolling zero empties the plate. Taking zero away changes nothing.",
+     "context": "This is step 2 of Empty the Plate, a game with a plate of 15 beans and a dice that has a zero. Here you practise one turn."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play the game. 2. Each turn, the player says how many beans are left. 3. When a player has 5 or fewer, ask what they need to roll to reach zero.",
+     "say": "You have 2 beans left. Which rolls will empty your plate?",
+     "kid": "Play the game. Say how many beans are left each turn. First to zero wins.",
+     "ask": [
+      {
+       "q": "You have 2 beans. Which rolls will empty your plate?",
+       "good": [
+        "2, 3, 4 or 5.",
+        "Anything but 0 and 1."
+       ]
+      }
+     ],
+     "parent": "A game takes about six or seven turns for each player.",
+     "context": "This is step 3 of Empty the Plate, a game with a plate of 15 beans and a dice that has a zero. Here you play to zero."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. When someone's plate is empty, the game ends. 2. Ask each player how many beans they have left.",
+     "say": "Who reached zero first? How many beans does everyone else have?",
+     "kid": "The first empty plate wins. How many beans do you have left?",
+     "context": "This is the last step of Empty the Plate, a game with a plate of 15 beans and a dice that has a zero. Here you finish the game."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Match the Empty Card",
+   "mins": 10,
+   "players": "1 to 3 players: alone, with a parent or with friends",
+   "context": "This is a memory game with 12 cards. Six cards have dots, from no dots to five dots. Six cards have the numerals 0 to 5. You turn over two cards and keep them if the numeral matches the dots. It builds quick matching of 0 with an empty card.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 cards to cut out: six numeral cards and six dot cards",
+     "items": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "(an empty card: no dots)",
+      "●",
+      "● ●",
+      "● ● ●",
+      "● ● ● ●",
+      "● ● ● ● ●"
+     ]
+    }
+   ],
+   "rules": [
+    "Mix the 12 cards. Lay them face down in 3 rows of 4.",
+    "On your turn, turn over two cards.",
+    "If one card is a numeral and the other card has that many dots, they match. Keep them and take another turn.",
+    "The numeral 0 matches the card with no dots.",
+    "If the two cards do not match, turn them face down again in the same places.",
+    "When all the cards are taken, the player with the most pairs wins.",
+    "Playing alone: count how many turns you need to find all six pairs. Play again and try to need fewer."
+   ],
+   "setup": [
+    {
+     "art": "Twelve paper cards face down on a floor in three rows of four.",
+     "caption": "1. Lay the 12 cards face down in 3 rows of 4."
+    },
+    {
+     "art": "A child turning over two cards: one shows the numeral 3 and the other shows three dots.",
+     "caption": "2. Turn over two cards. A numeral and its dots make a pair."
+    },
+    {
+     "art": "Two cards side by side: the numeral 0 and a card with no dots on it at all, with a tick mark between them.",
+     "caption": "3. The 0 matches the empty card."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out the cards, or make them from 12 pieces of paper. 2. Use thick paper, or draw lightly, so that nothing shows through the back. 3. Lay all 12 face up first and let your child find the six pairs.",
+     "say": "Find the dots that go with each numeral. Which card goes with 0?",
+     "kid": "Lay the cards face up. Put each numeral with its dots. Which card goes with 0?",
+     "context": "This is the first step of Match the Empty Card, a memory game with numeral cards and dot cards from 0 to 5. Here you make the cards and find the pairs face up.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "goes with 2",
+        "n": 2
+       },
+       {
+        "label": "goes with 1",
+        "n": 1
+       },
+       {
+        "label": "goes with 0",
+        "n": 0
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Mix the cards and lay them face down in 3 rows of 4. 2. Play one practice turn each.",
+     "say": "I turn over two cards. A 4 and three dots. Do they match? No. I turn them back.",
+     "kid": "Mix the cards. Lay them face down. Turn over two. Do they match?",
+     "check": {
+      "t": "mcq",
+      "q": "You turn over the numeral 0. Which card do you need to make a pair?",
+      "options": [
+       "The card with 1 dot",
+       "The card with no dots",
+       "Another 0"
+      ],
+      "a": 1,
+      "why": "Zero means none, so 0 matches the card with no dots. Picking the card with 1 dot means treating 0 as the first counting number. The first counting number is 1."
+     },
+     "context": "This is step 2 of Match the Empty Card, a memory game with numeral cards and dot cards from 0 to 5. Here you practise one turn."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Play until all six pairs are found. 2. When someone turns over the empty card, ask how many dots it has.",
+     "say": "You found the empty card. How many dots? Which numeral are you looking for?",
+     "kid": "Play the game. Remember where the cards are. Find all six pairs.",
+     "ask": [
+      {
+       "q": "Is the empty card a card with a number of dots, or a card with no number?",
+       "good": [
+        "It has zero dots.",
+        "Zero is its number."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Match the Empty Card, a memory game with numeral cards and dot cards from 0 to 5. Here you play until all the pairs are found."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Count each player's pairs. 2. A player with no pairs says 'I have zero pairs.' 3. Lay the dot cards in order from 0 to 5.",
+     "say": "How many pairs do you have? Now put the dot cards in order, starting with zero.",
+     "kid": "Count your pairs. Then lay the dot cards in order, from 0 to 5.",
+     "context": "This is the last step of Match the Empty Card, a memory game with numeral cards and dot cards from 0 to 5. Here you count your pairs."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Days-to-Go Chain: six days, down to zero",
+   "mins": 25,
+   "days": 6,
+   "context": "In this six-day project you make a paper chain with one ring for each day until something you are waiting for. Each morning you tear off one ring and count the rings left. On the day with zero rings left, the day has come.",
+   "problem": "How many days are left until the day you are waiting for? A chain can count down for you.",
+   "materials": [
+    {
+     "item": "5 strips of paper, each about as long as your hand and two fingers wide",
+     "qty": 5
+    },
+    {
+     "item": "glue or tape",
+     "qty": 1
+    },
+    {
+     "item": "a long strip of paper and a pencil, for the number line",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Choose a day 5 days from now. Make a chain of 5 rings. Draw a number line from 0 to 5 and circle the 5."
+    },
+    {
+     "day": 2,
+     "mins": 3,
+     "what": "Tear off one ring. Count the rings left. Circle that number on your number line."
+    },
+    {
+     "day": 3,
+     "mins": 3,
+     "what": "Tear off one ring. Count the rings left. Circle that number."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Tear off one ring. Count the rings left. Circle that number."
+    },
+    {
+     "day": 5,
+     "mins": 3,
+     "what": "Tear off one ring. Count the rings left. Circle that number."
+    },
+    {
+     "day": 6,
+     "mins": 3,
+     "what": "Tear off the last ring. Zero rings are left. Circle the 0. The day is here."
+    }
+   ],
+   "record": "Draw a number line from 0 to 5 on a long strip of paper. Each morning, circle the number of rings left.",
+   "setup": [
+    {
+     "art": "Five paper strips of different colours on a table beside a glue stick, and a wall calendar with one day circled.",
+     "caption": "1. Choose a day 5 days away. Cut 5 strips of paper."
+    },
+    {
+     "art": "A paper chain of five linked rings hanging from a window grille.",
+     "caption": "2. Glue the strips into a chain of 5 rings. Hang it up."
+    },
+    {
+     "art": "A child tearing one ring off the bottom of the chain, with three rings left, and a paper number line from 0 to 5 beside it with the 5 and 4 circled.",
+     "caption": "3. Each morning, tear off one ring. Circle the number of rings left."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Together, choose something that will happen 5 days from now: a visit to grandparents, a Sunday outing, the day you make payasam. 2. Your child glues 5 strips into a chain. 3. Draw a number line from 0 to 5. Your child circles the 5. 4. Hang the chain where your child will see it every morning.",
+     "say": "There are 5 rings, one for each day we must wait. How many rings will be left on the day itself?",
+     "kid": "Make a chain of 5 paper rings. Hang it up. Circle 5 on your number line.",
+     "ask": [
+      {
+       "q": "How many rings will be left on the day we are waiting for?",
+       "good": [
+        "None.",
+        "Zero."
+       ]
+      }
+     ],
+     "context": "This is day 1 of the Days-to-Go Chain, a six-day project. You make a paper chain with one ring for each day you have to wait.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "rings on the chain",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "1. On each of the next four mornings, your child tears off one ring. 2. They count the rings left and say, 'There are ___ days to go.' 3. They circle that number on the number line.",
+     "say": "Tear off today's ring. How many rings are left? So how many days to go?",
+     "kid": "Each morning, tear off one ring. Count the rings left. Circle that number.",
+     "ask": [
+      {
+       "q": "Yesterday there were 3 rings. How many today, before you count?",
+       "good": [
+        "2.",
+        "One fewer than 3 is 2."
+       ]
+      }
+     ],
+     "parent": "If you miss a morning, tear off two rings the next day and count back two.",
+     "wait": "Do this on each of the next four mornings.",
+     "context": "These are days 2 to 5 of the Days-to-Go Chain, a six-day project. Each morning you tear one ring off a paper chain and count the rings left."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. On the last morning, your child tears off the last ring. 2. Ask how many rings are left and how many days to go. 3. Your child circles the 0.",
+     "say": "That was the last ring. How many rings are left? How many days to go?",
+     "kid": "Tear off the last ring. How many are left? Circle that number. Today is the day!",
+     "ask": [
+      {
+       "q": "Zero days to go. What does that mean?",
+       "good": [
+        "It is today.",
+        "We do not have to wait any more."
+       ]
+      }
+     ],
+     "wait": "Do this on the sixth morning.",
+     "context": "This is day 6 of the Days-to-Go Chain, a six-day project. You tear off the last ring of the paper chain, and zero are left."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Stretch: lift buttons for a building that goes under the ground",
+   "mins": 20,
+   "context": "This is a design challenge that goes past Class 1. You design the buttons for a lift in a building with floors above the ground and car parks below it. You will have to decide what to call the ground floor, and what to call the floors below zero.",
+   "problem": "A new building in Kochi has a ground floor, 3 floors above it and 2 car parks under the ground. Design the lift buttons, so that a visitor who has never been there can find every floor.",
+   "constraints": [
+    "Every floor needs its own button. No two buttons may look the same.",
+    "A visitor must be able to tell from the buttons which floors are above the ground and which are below.",
+    "The buttons must be in the same order as the floors."
+   ],
+   "materials": [
+    "paper and a pencil",
+    "6 bottle caps or small squares of paper, as the buttons",
+    "a small toy or a coin, as the lift"
+   ],
+   "general": [
+    "Mark the ground floor G, the floors above 1, 2 and 3, and the car parks B1 and B2. B stands for basement, which means a floor under the ground.",
+    "Mark the ground floor 0, the floors above 1, 2 and 3, and use a different colour for the two car parks."
+   ],
+   "creative": [
+    "Use numbers all the way. The ground floor is 0. The floors above are 1, 2 and 3. The car parks are −1 and −2. We say 'minus one' and 'minus two'. Minus one is one step below zero.",
+    "Draw a picture on each button: a car for the car parks, a door for the ground floor, and one, two and three windows for the floors above."
+   ],
+   "your_turn": "Now design your own six buttons. Then test them. Ask someone at home to find the lower car park, using only your buttons.",
+   "setup": [
+    {
+     "art": "A side view of a building drawn on paper: a ground line, a ground floor, three floors above it and two car-park floors below the ground line.",
+     "caption": "1. Draw the building: 3 floors up, the ground floor, 2 car parks down."
+    },
+    {
+     "art": "Six bottle caps in a column beside the drawing, one next to each floor, with nothing written on them yet.",
+     "caption": "2. Put one button beside each floor. What will you write on each?"
+    },
+    {
+     "art": "The six caps now labelled 3, 2, 1, 0, −1 and −2 from top to bottom, with a coin 'lift' sitting beside the cap marked 0.",
+     "caption": "3. One way: the ground floor is 0. Below zero come −1 and −2."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Your child draws the building from the side: the ground line, the ground floor on it, 3 floors above and 2 car parks below. 2. Put one bottle cap beside each floor. 3. Ask what to write on the caps above the ground.",
+     "say": "Here is the ground floor. What shall we call it? And the floors above it?",
+     "kid": "Draw the building. Put one cap beside each floor. What will you write on each cap?",
+     "ask": [
+      {
+       "q": "If the ground floor is 0, what is the floor just above it?",
+       "good": [
+        "1.",
+        "One, because it is one step up from zero."
+       ]
+      }
+     ],
+     "parent": "Many lifts in India mark the ground floor 0 or G. Either is a fine choice.",
+     "context": "This is the first step of the lift button challenge. You draw a building with floors above and below the ground.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 3,
+      "step": 1,
+      "title": "Floors from the ground up"
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Point at the two car parks under the ground. 2. Ask what to write on their buttons. Wait for your child's ideas. 3. Read the usual ways and the creative ways aloud, if your child wants ideas.",
+     "say": "The lift is on 0 and goes down one floor. There is no counting number below zero. So what shall we write on that button?",
+     "kid": "The lift goes down from 0. What will you call the floor below zero?",
+     "ask": [
+      {
+       "q": "Why can we not call the first car park 1?",
+       "good": [
+        "There is already a floor 1 above.",
+        "Two buttons would look the same."
+       ]
+      }
+     ],
+     "parent": "Your child may invent names such as 'under 1' or 'down 1'. Those are good answers. Mathematicians write −1 and say 'minus one'. Numbers below zero are taught in later classes.",
+     "context": "This is step 2 of the lift button challenge, where you design buttons for a building with car parks under the ground. Here you name the floors below zero."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Your child writes on all six caps. 2. Put the coin on the ground floor. Call out trips: 'Go up 2. Go down 3. Where are you?' 3. Your child moves the coin one floor at a time and reads the button.",
+     "say": "The lift is on the ground floor. Go up 2 floors. Now go down 3 floors. Which button are you at?",
+     "kid": "Write on your six caps. Put the coin on the ground floor. Go up 2. Go down 3. Where are you?",
+     "parent": "From the ground floor, up 2 and then down 3 ends at the first car park, one floor below the ground.",
+     "check": {
+      "t": "mcq",
+      "q": "A lift is on floor 1. It goes down 1 floor. In India, which button is it at now?",
+      "options": [
+       "0, the ground floor",
+       "2",
+       "−1, the car park"
+      ],
+      "a": 0,
+      "why": "One step down from 1 is 0, the ground floor. Picking −1 means going down two floors. Picking 2 means going up."
+     },
+     "context": "This is step 3 of the lift button challenge, where you design buttons for a building with car parks under the ground. Here you test your buttons with a coin as the lift."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Your child asks someone else at home to find the lower car park, using only the buttons. 2. If the person is unsure, your child changes the buttons and tries again.",
+     "say": "Did your buttons work for someone who had not seen the drawing? What would you change?",
+     "kid": "Ask someone to find the lower car park with your buttons. Did it work?",
+     "ask": [
+      {
+       "q": "Which is lower, the floor one below zero or the floor two below zero?",
+       "good": [
+        "Two below.",
+        "It is further down from the ground."
+       ]
+      }
+     ],
+     "context": "This is the last step of the lift button challenge, where you design buttons for a building with car parks under the ground. Here someone else tests your buttons."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Zero and None (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "fill",
+     "p": "Count the dots in row B. There are ____ dots in row B.",
+     "a": [
+      "0",
+      "zero"
+     ],
+     "why": "Row B has no dots. The number for none is zero, and we write 0.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "row A",
+        "n": 3
+       },
+       {
+        "label": "row B",
+        "n": 0
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "2 bananas are in the bowl. You eat both. How many bananas are left in the bowl?",
+     "opts": [
+      "2",
+      "1",
+      "0"
+     ],
+     "a": 2,
+     "why": "2 take away 2 leaves none. The number for none is 0. Picking 1 means taking away only one banana.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "2",
+       "− 2"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "Zero is the number that tells how many when there are none.",
+     "a": true,
+     "why": "True. Zero answers 'how many?' when there are none of the things you are counting."
+    },
+    {
+     "t": "fill",
+     "p": "Count back: 3, 2, 1, ____.",
+     "a": [
+      "0",
+      "zero"
+     ],
+     "why": "Each number is one fewer than the one before. One fewer than 1 is 0."
+    },
+    {
+     "t": "mcq",
+     "p": "Which plate has zero vadas?",
+     "opts": [
+      "Plate A",
+      "Plate B",
+      "Plate C"
+     ],
+     "a": 1,
+     "why": "Plate B has no vadas, so it has zero. Plate A has 2 and plate C has 4.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "plate A",
+        "n": 2
+       },
+       {
+        "label": "plate B",
+        "n": 0
+       },
+       {
+        "label": "plate C",
+        "n": 4
+       }
+      ]
+     }
+    },
+    {
+     "t": "match",
+     "p": "Match each number to its dots.",
+     "pairs": [
+      [
+       "2",
+       "● ●"
+      ],
+      [
+       "0",
+       "(no dots)"
+      ],
+      [
+       "4",
+       "● ● ● ●"
+      ],
+      [
+       "1",
+       "●"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Count the dots in each group. The group with no dots matches 0."
+    },
+    {
+     "t": "perspective",
+     "p": "A plate is empty. Amma asks how many laddus are on it.",
+     "views": [
+      {
+       "who": "Kavya",
+       "says": "Zero. That is the number for none."
+      },
+      {
+       "who": "Arun",
+       "says": "There is no number. Numbers are only for things you can see."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side and gives a reason. For example: zero, because it answers 'how many?'. Arun is right that there is nothing to touch or point at.",
+     "why": "Today zero is used as a number everywhere. But for a very long time, many people thought as Arun does.",
+     "how": "e1",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "laddus on the plate",
+        "n": 0
+       }
+      ]
+     }
+    },
+    {
+     "t": "order",
+     "p": "Put these numbers in order, smallest first.",
+     "items": [
+      "3",
+      "0",
+      "5",
+      "1"
+     ],
+     "a": [
+      "0",
+      "1",
+      "3",
+      "5"
+     ],
+     "why": "Zero is the smallest, because none is fewer than 1. Then come 1, 3 and 5."
+    },
+    {
+     "t": "mcq",
+     "p": "1 idli is on your plate. You eat it. How many idlis are on your plate now?",
+     "opts": [
+      "1",
+      "0",
+      "2"
+     ],
+     "a": 1,
+     "why": "One fewer than 1 is 0. Picking 1 means the idli was not taken away.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "1",
+       "− 1"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "There are 0 elephants in your kitchen.",
+     "a": true,
+     "why": "True, unless you live in a very unusual home. There are none, and the number for none is zero."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a plate with 3 laddus. Next to it, draw a plate with 0 laddus. Write the number under each plate.",
+     "a": "One plate with exactly 3 laddus and the numeral 3, and one empty plate with the numeral 0.",
+     "why": "A strong drawing shows the empty plate too. Zero laddus still needs a plate and a number."
+    },
+    {
+     "t": "write",
+     "p": "Say it aloud. You take the last bean off a plate. Why is zero the right number for the plate now?",
+     "lines": 2,
+     "a": "Because there are no beans left on it. Zero is the number for none.",
+     "why": "A strong answer says that zero tells how many when there are none.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Zero on the Number Line (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "You stand on 4 and hop back 4 steps. You land on ____.",
+     "a": [
+      "0",
+      "zero"
+     ],
+     "why": "Hop back from 4: 3, 2, 1, 0. Four hops back from 4 lands on zero.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "title": "Hop back 4 from 4"
+     },
+     "how": "a2"
+    },
+    {
+     "t": "fill",
+     "p": "Count back: 5, 4, 3, 2, 1, ____.",
+     "a": [
+      "0",
+      "zero"
+     ],
+     "why": "Counting back, each number is one fewer. One fewer than 1 is 0."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these numbers is the smallest?",
+     "opts": [
+      "1",
+      "0",
+      "2"
+     ],
+     "a": 1,
+     "why": "Zero is fewer than 1. Picking 1 means thinking that counting starts at 1, so 1 must be the smallest. Zero comes one step before 1."
+    },
+    {
+     "t": "mcq",
+     "p": "You stand on 2 on the floor number line. You roll 0 on the zero dice. Where are you now?",
+     "opts": [
+      "On 0",
+      "On 2",
+      "On 3"
+     ],
+     "a": 1,
+     "why": "Rolling 0 means you hop zero steps, so you stay on 2. Picking 'On 0' mixes up hopping zero steps with hopping to zero.",
+     "how": "a2"
+    },
+    {
+     "t": "truefalse",
+     "p": "Zero dots is fewer than 1 dot.",
+     "a": true,
+     "why": "True. The row with zero dots has none, and none is fewer than one.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "0",
+        "n": 0
+       },
+       {
+        "label": "1",
+        "n": 1
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "5 − 5 = ____",
+     "a": [
+      "0",
+      "zero"
+     ],
+     "why": "If you have 5 and take all 5 away, none are left.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "5",
+       "− 5"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "3 + 0 = ____",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "Adding zero means adding none, so the number stays 3.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "3",
+       "+ 0"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "order",
+     "p": "Put these numbers in number-line order, starting from zero.",
+     "items": [
+      "2",
+      "0",
+      "4",
+      "1",
+      "3"
+     ],
+     "a": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "why": "This is the order on the number line, starting at zero."
+    },
+    {
+     "t": "mcq",
+     "p": "A batter's six balls go 1, 0, 0, 2, 0, 1. How many balls had zero runs?",
+     "opts": [
+      "2",
+      "3",
+      "6"
+     ],
+     "a": 1,
+     "why": "Three of the six balls had 0 runs. Picking 6 counts all the balls.",
+     "how": "a3"
+    },
+    {
+     "t": "mcq",
+     "p": "Which card has fewer dots?",
+     "opts": [
+      "Card A",
+      "Card B",
+      "They are the same"
+     ],
+     "a": 0,
+     "why": "Card A has zero dots and card B has 1 dot. Zero is fewer than 1.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "card A",
+        "n": 0
+       },
+       {
+        "label": "card B",
+        "n": 1
+       }
+      ]
+     },
+     "how": "a4"
+    },
+    {
+     "t": "truefalse",
+     "p": "On the number line, zero comes just after 1.",
+     "a": false,
+     "why": "False. Zero comes just before 1. The number just after 1 is 2."
+    },
+    {
+     "t": "write",
+     "p": "Say it aloud. You hop back 5 steps from 5. Why do you land on zero?",
+     "lines": 2,
+     "a": "Because 5 is five steps away from zero. Each hop is one fewer: 4, 3, 2, 1, 0.",
+     "why": "A strong answer says that a number is that many steps from zero.",
+     "how": "a2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a rocket. Beside it, write the countdown from 5 to 0.",
+     "a": "A rocket with the numbers 5, 4, 3, 2, 1, 0 written in order.",
+     "why": "A strong countdown has every number once, one fewer each time, and ends at 0."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a number line from 0 to 5. Draw three hops from 3 back to 0.",
+     "a": "A line with 0, 1, 2, 3, 4, 5 the same distance apart, and three curved hops: 3 to 2, 2 to 1, 1 to 0.",
+     "why": "A strong drawing has 0 at the start, even gaps, and exactly three hops.",
+     "how": "a2"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Zero Puzzles (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A bowl has 3 bananas and 0 mangoes. How many fruits are in the bowl?",
+     "opts": [
+      "0",
+      "3",
+      "30"
+     ],
+     "a": 1,
+     "why": "3 and 0 more is 3. The zero mangoes add nothing. Picking 30 means writing the two numerals side by side.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "bananas",
+        "n": 3
+       },
+       {
+        "label": "mangoes",
+        "n": 0
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "An empty plate has zero idlis and also zero dosas.",
+     "a": true,
+     "why": "True. An empty plate has zero of every food. Zero always needs you to say zero of what."
+    },
+    {
+     "t": "mcq",
+     "p": "A box has zero pencils in it. What can you say for sure?",
+     "opts": [
+      "The box is empty",
+      "No pencils are in the box",
+      "The box is not there"
+     ],
+     "a": 1,
+     "why": "Zero pencils tells you only about pencils. The box may still hold crayons. Picking 'the box is empty' reads zero as zero of everything."
+    },
+    {
+     "t": "fill",
+     "p": "7 − 0 = ____",
+     "a": [
+      "7",
+      "seven"
+     ],
+     "why": "Taking zero away means taking none, so 7 are still there.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "7",
+       "− 0"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "0 + 0 = ____",
+     "a": [
+      "0",
+      "zero"
+     ],
+     "why": "None and none more is still none.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "0",
+       "+ 0"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "You wear 5 bangles. You take some off. Now 0 bangles are on your wrist. How many did you take off?",
+     "opts": [
+      "0",
+      "1",
+      "5"
+     ],
+     "a": 2,
+     "why": "To get from 5 to 0 you must take off all 5. Picking 0 mixes up how many were taken with how many are left."
+    },
+    {
+     "t": "mcq",
+     "p": "Look at the balance. Which pan has zero coins?",
+     "opts": [
+      "The left pan",
+      "The right pan",
+      "Both pans"
+     ],
+     "a": 0,
+     "why": "The left pan is empty, so it has zero coins. It is the lighter side, so it sits higher.",
+     "chart": {
+      "type": "balance",
+      "left": {
+       "n": 0,
+       "label": "left pan"
+      },
+      "right": {
+       "n": 2,
+       "label": "right pan"
+      },
+      "tilt": "right"
+     }
+    },
+    {
+     "t": "order",
+     "p": "Put these numbers in countdown order, biggest first.",
+     "items": [
+      "0",
+      "3",
+      "1",
+      "4",
+      "2"
+     ],
+     "a": [
+      "4",
+      "3",
+      "2",
+      "1",
+      "0"
+     ],
+     "why": "A countdown goes one fewer each time and ends at zero."
+    },
+    {
+     "t": "fill",
+     "p": "6 − ____ = 0",
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "To leave none, you must take away all 6.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "6",
+       "− ?"
+      ],
+      "answer": "0"
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "When you add zero to a number, the number gets bigger.",
+     "a": false,
+     "why": "False. Adding zero adds none, so the number stays the same. 4 + 0 is 4."
+    },
+    {
+     "t": "mcq",
+     "p": "Kavya has 0 marbles. Latha has 0 marbles. Who has fewer marbles?",
+     "opts": [
+      "Kavya",
+      "Latha",
+      "Neither. They have the same"
+     ],
+     "a": 2,
+     "why": "Zero and zero are the same number. Neither girl has fewer.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "Kavya",
+        "n": 0
+       },
+       {
+        "label": "Latha",
+        "n": 0
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Past Class 1: a lift on floor 0 goes down one floor. Which button is that?",
+     "opts": [
+      "1",
+      "−1",
+      "0"
+     ],
+     "a": 1,
+     "why": "One step below zero is written −1 and read as 'minus one'. Floor 1 is one step above zero.",
+     "how": "c1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a room that has zero chairs but is not empty. Write what it has some of.",
+     "a": "A room with no chairs and at least one other thing, such as a mat, a fan or a window, with that thing named.",
+     "why": "A strong drawing shows that zero chairs does not mean nothing at all."
+    },
+    {
+     "t": "write",
+     "p": "Say it aloud. Why does adding zero not change a number?",
+     "lines": 2,
+     "a": "Because adding zero means adding none. Nothing new joins the group.",
+     "why": "A strong answer says that zero more is no more, so the count stays the same."
+    },
+    {
+     "t": "write",
+     "p": "Say it aloud. An empty tumbler has zero water in it. Is there nothing at all in the tumbler?",
+     "lines": 2,
+     "a": "No. It has zero water, but it is full of air.",
+     "why": "A strong answer says what there is zero of, and names something that is still there."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which number tells how many laddus are on an empty plate?",
+   "opts": [
+    "1",
+    "0",
+    "There is no number for that"
+   ],
+   "a": 1,
+   "why": "Zero is the number for none. Picking 'no number' means thinking that numbers are only for things you can see.",
+   "outcome": 0
+  },
+  {
+   "t": "fill",
+   "p": "Look at the picture. Row B has ____ dots.",
+   "a": [
+    "0",
+    "zero"
+   ],
+   "why": "Row B has no dots, so the number is zero.",
+   "outcome": 0,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "row A",
+      "n": 4
+     },
+     {
+      "label": "row B",
+      "n": 0
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "1 idli is on the plate. You eat it. How many idlis are left?",
+   "opts": [
+    "1",
+    "0",
+    "2"
+   ],
+   "a": 1,
+   "why": "One fewer than 1 is 0. Taking away the last one leaves zero.",
+   "outcome": 1,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "1",
+     "− 1"
+    ],
+    "answer": "?"
+   }
+  },
+  {
+   "t": "truefalse",
+   "p": "If you take away all the beans on a plate, zero beans are left.",
+   "a": true,
+   "why": "True. When all are taken away, none are left, and the number for none is zero.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Where is zero on the number line?",
+   "opts": [
+    "One step before 1",
+    "After 10",
+    "Between 1 and 2"
+   ],
+   "a": 0,
+   "why": "Zero is one fewer than 1, so it sits one step before 1. Picking 'after 10' may come from the 0 in the numeral 10.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You stand on 1 and hop back one step. Where do you land?",
+   "opts": [
+    "On 2",
+    "On 1",
+    "On 0"
+   ],
+   "a": 2,
+   "why": "One step back from 1 is 0. Picking 2 means hopping forward.",
+   "outcome": 2,
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 5,
+    "step": 1,
+    "title": "Hop back one step from 1"
+   }
+  },
+  {
+   "t": "fill",
+   "p": "Count back: 4, 3, 2, 1, ____.",
+   "a": [
+    "0",
+    "zero"
+   ],
+   "why": "Each number is one fewer. One fewer than 1 is 0.",
+   "outcome": 3,
+   "chart": {
+    "type": "scale",
+    "min": 1,
+    "max": 5,
+    "step": 1,
+    "title": "Counting back from 4"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "A countdown goes 3, 2, 1. What comes next?",
+   "opts": [
+    "0",
+    "4",
+    "1 again"
+   ],
+   "a": 0,
+   "why": "A countdown counts back to zero. After 1 comes 0.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which plate has fewer vadas?",
+   "opts": [
+    "Plate A",
+    "Plate B",
+    "They are the same"
+   ],
+   "a": 0,
+   "why": "Plate A has 0 vadas and plate B has 1. Zero is fewer than 1. Picking 'the same' means not counting the empty plate.",
+   "outcome": 4,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "plate A",
+      "n": 0
+     },
+     {
+      "label": "plate B",
+      "n": 1
+     }
+    ]
+   }
+  },
+  {
+   "t": "order",
+   "p": "Put these three numbers in order, starting with the smallest.",
+   "items": [
+    "2",
+    "0",
+    "1"
+   ],
+   "a": [
+    "0",
+    "1",
+    "2"
+   ],
+   "why": "Zero is the smallest of the three, then 1, then 2.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A table has zero spoons on it. Which is true?",
+   "opts": [
+    "Nothing at all is on the table",
+    "No spoons are on it. Other things may be",
+    "The table is gone"
+   ],
+   "a": 1,
+   "why": "Zero spoons tells you only about spoons. A cloth or a tumbler may still be there. Zero is always zero of something.",
+   "outcome": 5
+  },
+  {
+   "t": "truefalse",
+   "p": "A room with zero chairs must have nothing at all in it.",
+   "a": false,
+   "why": "False. Zero chairs means no chairs. The room may still have a mat, a fan and a window.",
+   "outcome": 5
+  }
+ ],
+ "videos": [
+  {
+   "title": "Zero The Hero | Good To Know | WSKG",
+   "channel": "WSKG Public Media",
+   "youtube": "mRbsa88DKeM",
+   "mins": 2,
+   "why": "For the parent: a short clip, made for families of young children, about teaching zero as a number. Watch it yourself first.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. It was made in the United States."
+  },
+  {
+   "title": "What is Zero? Getting Something from Nothing - with Hannah Fry",
+   "channel": "The Royal Institution",
+   "youtube": "9Y7gAzTMdMA",
+   "mins": 4,
+   "why": "For the parent and curious older children: a cartoon history of zero, from an empty-place mark to a number. It goes far past Class 1.",
+   "check": "Title and channel confirmed by a YouTube lookup. One listing gives the length as 3 minutes 53 seconds. The video was not watched through for this unit."
+  },
+  {
+   "title": "Is Zero Even? - Numberphile",
+   "channel": "Numberphile",
+   "youtube": "8t1TC-5OLdM",
+   "mins": 6,
+   "why": "For the parent: a mathematician explains why zero counts as an even number. Useful if your child asks whether zero can be put into pairs.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess."
+  }
+ ],
+ "applications": [
+  "A cricket scorer writes a dot for every ball with zero runs, so that all six balls of the over are counted.",
+  "A petrol pump meter is set to 0 before each fill, so that you pay only for your own petrol.",
+  "A shopkeeper checks that the weighing scale shows 0 before putting the rice on it.",
+  "A rocket countdown ends at zero. Zero is the moment the rocket lifts off.",
+  "A stopwatch starts at 0, so that it shows only the time of this race.",
+  "A lift uses 0 or G for the ground floor.",
+  "A doctor writes 0 when a child has no fever days this week. A blank space could mean nobody checked.",
+  "Our way of writing numbers needs 0. Without it, 10 and 1 would look the same. You will meet this in the unit on tens and ones."
+ ],
+ "spotted": [
+  {
+   "text": "Lift buttons. Look for the 0 or the G. Is there a button below it?",
+   "art": "A lift button panel with buttons marked 3, 2, 1, 0 and −1."
+  },
+  {
+   "text": "A cricket scoreboard at the start of a match. Both teams have 0 runs.",
+   "art": "A scoreboard reading 0 for 0 beside a cricket ground."
+  },
+  {
+   "text": "The petrol pump. Before the petrol flows, the person at the pump shows you that the meter says 0.",
+   "art": "A petrol pump display showing a row of zeros, with an attendant pointing at it."
+  },
+  {
+   "text": "A medu vada or a bangle. They are round with a hole in the middle, like the numeral 0.",
+   "art": "A medu vada on a banana leaf beside a hand-written 0."
+  },
+  {
+   "text": "The weighing scale at a vegetable shop. It should show 0 before anything is put on it.",
+   "art": "A digital weighing scale showing 0 on a shop counter beside a heap of tomatoes."
+  },
+  {
+   "text": "Everyone does maths: honeybees. In a test in 2018, bees were trained to fly to the card with fewer shapes. When one card was empty, they chose the empty card more often than not.",
+   "art": "A honeybee flying toward a blank white card, with a card showing three black shapes beside it."
+  },
+  {
+   "text": "Everyone does maths: crows. In 2021, scientists trained two crows to tell small numbers of dots apart. One of the choices was a screen with no dots. One crow mixed up zero dots with 1 dot more often than with 2 dots. That is what you would expect if none comes just before one for her.",
+   "art": "A black crow looking at two screens, one with a single dot and one empty."
+  },
+  {
+   "text": "The sky in the daytime. You can count zero stars, apart from the Sun. At night, count again.",
+   "art": "A child on a terrace looking up at a bright blue sky with only the Sun in it."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Was zero found or made?",
+   "why_open": "Some thinkers say zero was always there, waiting to be noticed. Others say people made it, as they make words. Nobody has found a test that settles it."
+  },
+  {
+   "q": "How much do bees and crows understand about none?",
+   "why_open": "The tests so far used a few trained animals. Nobody knows whether wild bees or crows use the idea of none in their daily lives."
+  },
+  {
+   "q": "Who first wrote zero as a round ring, and why round?",
+   "why_open": "The oldest written zeros in India are dots. Small circles come later. No old book says who chose the circle or why."
+  },
+  {
+   "q": "Is there any place in the universe with truly nothing in it?",
+   "why_open": "Even the space between the stars has a little gas, light and energy in it. Physicists do not agree on whether a place with nothing at all could exist."
+  }
+ ],
+ "ask_kids": [
+  "How many dosas are left on the tawa? What will the number be when Amma takes the last one off?",
+  "How many of us at this table are wearing a hat? Is zero a fine answer?",
+  "Look at the lift buttons. Which one is for the ground floor here?",
+  "Count the stairs backwards as we go down. What number is the floor at the bottom?",
+  "What does our kitchen have zero of? What does it have lots of?",
+  "Is the empty dabba really empty? What is in it?"
+ ],
+ "jokes": [
+  {
+   "j": "How many mangoes grow on a coconut tree?",
+   "a": "Zero!"
+  },
+  {
+   "j": "How many elephants can you fit in an empty auto?",
+   "a": "One. After that it is not empty!"
+  },
+  {
+   "j": "What did the one say to the zero?",
+   "a": "Stand next to me and we will be ten!"
+  },
+  {
+   "j": "Why did the batter say quack?",
+   "a": "She was out for a duck. That means zero runs!"
+  },
+  {
+   "j": "Which number looks most like a vada?",
+   "a": "Zero. It even has the hole!"
+  },
+  {
+   "j": "What do you get if you take 3 laddus away from 3 laddus?",
+   "a": "Zero laddus and one happy tummy."
+  },
+  {
+   "j": "What is in an empty biscuit tin?",
+   "a": "Zero biscuits and a lot of hope."
+  },
+  {
+   "j": "Why is zero such a good listener?",
+   "a": "It has nothing to say!"
+  },
+  {
+   "j": "How many months have zero days?",
+   "a": "Zero!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "4 idlis are on your plate. You eat all 4. How many idlis are on your plate now?",
+   "answer": "0 idlis.",
+   "explain": "You had 4 and took all 4 away. None are left, and the number for none is zero. 4 − 4 = 0.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "e1",
+   "context": "In the Empty Plate Test you took beans away until none were left. This uses the same idea at breakfast.",
+   "why_maths": "Zero lets you finish the sum. Without it, 4 take away 4 would have no answer.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "4",
+     "− 4"
+    ],
+    "answer": "?"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "4",
+     "− 4"
+    ],
+    "answer": "0"
+   }
+  },
+  {
+   "problem": "Here is one over that Meenakshi batted. A dot means zero runs. How many runs did she score in the over?",
+   "answer": "4 runs.",
+   "explain": "Add the runs: 1 and 2 and 1 make 4. The three dot balls are zeros, and adding zero changes nothing.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "a3",
+   "context": "In Maths in cricket you scored every ball of an over, with a dot for zero runs. Here is an over to add up.",
+   "why_maths": "Knowing that zeros add nothing lets you skip them and add only the balls that scored.",
+   "chart": {
+    "type": "table",
+    "title": "Meenakshi's over",
+    "cols": [
+     "Ball",
+     "Runs"
+    ],
+    "rows": [
+     [
+      "1",
+      "1"
+     ],
+     [
+      "2",
+      "•"
+     ],
+     [
+      "3",
+      "2"
+     ],
+     [
+      "4",
+      "•"
+     ],
+     [
+      "5",
+      "•"
+     ],
+     [
+      "6",
+      "1"
+     ]
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "ball 1",
+      "n": 1
+     },
+     {
+      "label": "ball 2",
+      "n": 0
+     },
+     {
+      "label": "ball 3",
+      "n": 2
+     },
+     {
+      "label": "ball 4",
+      "n": 0
+     },
+     {
+      "label": "ball 5",
+      "n": 0
+     },
+     {
+      "label": "ball 6",
+      "n": 1
+     }
+    ]
+   }
+  },
+  {
+   "problem": "You stand on 3 on the floor number line. You roll a 3 and hop back 3 steps. Where do you land?",
+   "answer": "On 0.",
+   "explain": "Hop back from 3: 2, 1, 0. Three hops back from 3 lands on zero. 3 − 3 = 0.",
+   "math_unit": "math.number-sense.zero.L2",
+   "how": "a2",
+   "context": "On the Floor Number Line you hopped back to zero like a rocket. This asks where three hops back from 3 will take you.",
+   "why_maths": "The number line shows that taking a number away from itself always lands on zero.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 10,
+    "step": 1,
+    "title": "Hop back 3 from 3"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "3",
+     "− 3"
+    ],
+    "answer": "0"
+   }
+  },
+  {
+   "problem": "Three plates hold 2 vadas, 0 vadas and 1 vada. Put the plates in order, from the fewest vadas to the most.",
+   "answer": "Plate B, then plate C, then plate A.",
+   "explain": "Plate B has 0, which is the fewest. Plate C has 1. Plate A has 2. Zero comes before 1, and 1 comes before 2.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "how": "a4",
+   "context": "In the Bee Test you picked the card with fewer dots, and one card was empty. Here you put three plates in order.",
+   "why_maths": "Putting zero in order with other numbers shows that it is a number like them, and the smallest of them.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "plate A",
+      "n": 2
+     },
+     {
+      "label": "plate B",
+      "n": 0
+     },
+     {
+      "label": "plate C",
+      "n": 1
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "plate B",
+      "n": 0
+     },
+     {
+      "label": "plate C",
+      "n": 1
+     },
+     {
+      "label": "plate A",
+      "n": 2
+     }
+    ]
+   }
+  },
+  {
+   "problem": "A fruit bowl has 3 bananas and no mangoes. How many mangoes are in the bowl? How many fruits are in the bowl?",
+   "answer": "0 mangoes and 3 fruits.",
+   "explain": "There are no mangoes, so the number of mangoes is 0. The fruits are 3 bananas and 0 mangoes. 3 + 0 = 3.",
+   "math_unit": "math.number-sense.counting.L1",
+   "how": "a1",
+   "context": "In the Zero Hunt you found places with zero of one thing and some of another. This bowl is one of those places.",
+   "why_maths": "Saying what you are counting gives two right answers for one bowl: zero mangoes, three fruits.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "bananas",
+      "n": 3
+     },
+     {
+      "label": "mangoes",
+      "n": 0
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "3",
+     "+ 0"
+    ],
+    "answer": "3"
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.number-sense.L1",
+  "title": "One, and One More",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Number Line, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/number-line/",
+   "kind": "interactive",
+   "why": "A free number line on the screen that starts at 0. Draw hops back to zero."
+  },
+  {
+   "title": "Number Frames, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/number-frames/",
+   "kind": "interactive",
+   "why": "A free ten-frame on the screen. Take the counters out one by one until zero are left."
+  },
+  {
+   "title": "NRICH, from the University of Cambridge",
+   "url": "https://nrich.maths.org/",
+   "kind": "interactive",
+   "why": "Free maths games and puzzles for young children. For the parent to pick from."
+  },
+  {
+   "title": "Chaturbhuj Temple, Gwalior Fort",
+   "url": "",
+   "kind": "place",
+   "where": "Gwalior, Madhya Pradesh",
+   "why": "A small temple cut into the rock on the road up to Gwalior Fort. Writing on its wall, dated 876 CE, has the numbers 270 and 50 with a small circle for zero. It is one of the oldest dated zeros written as a circle in India."
+  },
+  {
+   "title": "Ramanujan Museum and Math Education Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Royapuram, Chennai",
+   "why": "A small museum about the mathematician Srinivasa Ramanujan, with hands-on maths activities for children. Call ahead to check the timings."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-dice",
+   "item": "A pair of dice",
+   "kind": "game",
+   "why": "Used to make the zero dice for the game Empty the Plate and for the Floor Number Line. Any dice from a ludo or snakes and ladders set will do.",
+   "url": "https://www.amazon.in/s?k=dice+set+for+board+games",
+   "used_in": [
+    "g1",
+    "a2"
+   ]
+  },
+  {
+   "id": "b-zero",
+   "item": "Zero, by Kathryn Otoshi",
+   "kind": "book",
+   "why": "A picture book in which the numeral 0 feels empty next to the other numbers, and then finds what it can do.",
+   "url": "https://www.amazon.in/s?k=Zero+Kathryn+Otoshi",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Read a few pages each evening during the Days-to-Go Chain project. Ask your child what Zero can do that the other numbers cannot."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Count back: 3, 2, 1, ____.",
+   "a": "0"
+  },
+  {
+   "q": "You eat the last laddu on the plate. How many laddus are left?",
+   "a": "0. Zero is the number for none."
+  },
+  {
+   "q": "Which is fewer, 0 or 1?",
+   "a": "0"
+  },
+  {
+   "q": "Which number comes just before 1?",
+   "a": "0"
+  },
+  {
+   "q": "5 take away 5 is ____.",
+   "a": "0"
+  },
+  {
+   "q": "A shelf has zero books. Is there nothing at all on the shelf?",
+   "a": "Not for sure. Zero books means no books. Other things may be there."
+  },
+  {
+   "q": "You are on 6 and you hop back zero steps. Where are you?",
+   "a": "Still on 6."
+  },
+  {
+   "q": "How many tigers are in this room?",
+   "a": "0, we hope."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g1",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "g1",
+   "a1",
+   "story",
+   "a2",
+   "ws-core",
+   "g2",
+   "a3",
+   "a4",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "g1",
+   "a1",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "g1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We took beans away until none were left, and found the number zero. Now let us think about what zero really tells us.",
+  "deep_truth": {
+   "truth": "In the Empty Plate Test, you took away the last bean. The plate had zero beans, zero coins and zero elephants. But it was still 1 plate. So zero does not mean that nothing is there. Zero means none of the thing you chose to count.",
+   "habit": "We think zero means nothing. But something is always there: the plate, the table, the air. Zero only answers the question we asked, such as 'how many beans?'",
+   "evidence": "In the Empty Plate Test, the two empty plates had zero beans and zero coins. You could still count 2 plates."
+  },
+  "three": {
+   "who_am_i": "You have zero wings and zero tails. You also have 2 hands and 1 nose. Nobody is zero of everything.",
+   "what_is_life": "Honeybees were trained to choose the card with fewer shapes. They chose an empty card over a card with one shape. Bees deal with none too.",
+   "what_is_this_world": "An empty tumbler has zero water in it. But it is full of air. It is hard to find a place that is empty of everything."
+  },
+  "thread": "Start with an empty plate. That is zero beans. Put one bean on it. That is one. Add one more, and one more, and you have many. Every count starts at zero, even when we do not say it. Take the beans away again, and you are back at zero.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.12",
+    "teaching": "In the Chandogya Upanishad, a father asks his son to break open a tiny banyan seed. The son says he sees nothing inside. The father says the great banyan tree grows from what he cannot see.",
+    "link": "The son counted zero things in the seed. But the seed was not empty. Zero told only what he was able to see."
+   },
+   {
+    "source": "Brahmasphutasiddhanta 18.30",
+    "teaching": "The mathematician Brahmagupta wrote in 628 CE that a number added to zero stays the same kind of number, and that zero added to zero is zero.",
+    "link": "This is what you saw when you tipped the empty cup over 4 beans. Brahmagupta treated zero as a number you can do sums with."
+   }
+  ],
+  "science": [
+   {
+    "text": "Honeybees trained to choose the card with fewer shapes went on to choose an empty card over cards with shapes (Howard and others, 2018). So treating none as fewer than one does not need words or numerals.",
+    "status": "settled"
+   },
+   {
+    "text": "Is there any place with truly nothing in it? Physicists have found that space with all the air taken out still has energy in it. Whether a place with nothing at all could exist is not known.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many people long ago, and some thinkers today",
+   "view": "They say a number tells how many things there are. When there are no things, there is nothing to count. So zero is not a number like 3. It is only a mark that says 'nothing here'. The Romans had no numeral for zero, and they still built roads and bridges that stand today."
+  },
+  "practice": {
+   "title": "Listen for zero sounds",
+   "mins": 3,
+   "say": "Sit still and close your eyes. For one minute, listen. Each time you hear a new sound, put one finger down. A fan, a crow, a pressure cooker, your own breath. Now listen for a moment with zero sounds. Open your eyes. Did you find one? Was it ever really silent?",
+   "kid": "Close your eyes. Listen. Put one finger down for each sound. Now try to find a moment with zero sounds. Was there one?"
+  },
+  "ask": [
+   "Is an empty tumbler really empty?",
+   "When you take the last bean away, where does the number go?",
+   "Can you think of nothing at all? Try it. What happened?",
+   "In the daytime you count zero stars. Are there zero stars?"
+  ],
+  "art": "A child sitting cross-legged with eyes closed beside an empty steel plate, with faint outlines of air, light and sound drawn around the plate."
+ },
+ "how_we_found_out": {
+  "context": "How did people come to treat none as a number? This card tells the true story, which took well over a thousand years.",
+  "story": "Long ago, people wrote numbers without any sign for none. About 2,300 years ago, writers in Babylon, in today's Iraq, began to use two small slanted marks to show an empty place inside a number. It was a gap-filler. Nobody did sums with it. Far away in Central America, the Maya drew a shell for zero. In India, writers used a dot. Then, in 628 CE, the Indian mathematician Brahmagupta wrote a book that gave rules for zero. A number added to zero stays the same. Zero added to zero is zero. He treated zero as a number, like 1, 2 and 3. Later, Indian writers drew zero as a small circle. A temple wall in Gwalior, dated 876 CE, shows the numbers 270 and 50 written that way. From India, the numerals travelled to the Arab world and then to Europe. The word zero comes from the Arabic word sifr.",
+  "who": "Writers in Babylon, the Maya, and Brahmagupta in India",
+  "when": "About 300 BCE to 876 CE",
+  "wrong_idea": "A number must count something, so none cannot be a number. Brahmagupta showed this was wrong in 628 CE. He wrote rules for adding and taking away zero, and the rules worked like the rules for any other number."
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads: the subjective side (Roots; the cards 'Zero is always zero of something', 'Where zero goes is sometimes a choice' and 'Is none a number?'), maths in life (a3, corridor cricket and the scorer's dot ball), everyone does maths (a4, the Bee Test, and the bee and crow cards in Spotted), the universe and everyday life (lift floors, ages, the countdown, stars in the daytime).",
+   "PHILOSOPHY.md: Brahmagupta's SCI Card line (absence has real, countable effects) and the library entries on zero and Chandogya Upanishad 6.12.",
+   "curriculum/math.json, math.number-sense.zero.L1: zero means nothing; zero on the number line (founder's notebook, math:26)."
+  ],
+  "science": [
+   "Howard, S. R., Avarguès-Weber, A., Garcia, J. E., Greentree, A. D. and Dyer, A. G. (2018). Numerical ordering of zero in honey bees. Science 360, 1124-1126.",
+   "Kirschhock, M. E., Ditz, H. M. and Nieder, A. (2021). Behavioral and neuronal representation of numerosity zero in the crow. Journal of Neuroscience 41(22), 4889-4896. (Two carrion crows; the clear distance effect in behaviour was in one of them.)",
+   "Wellman, H. M. and Miller, K. F. (1986). Thinking about nothing: development of concepts of zero. British Journal of Developmental Psychology 4(1), 31-42. (Read through later papers that describe it, not the paper itself.)",
+   "Brahmagupta, Brahmasphutasiddhanta (628 CE), chapter 18, verse 30: the sum of a positive and zero is positive, of a negative and zero negative, of two zeros zero.",
+   "Chaturbhuj Temple inscription, Gwalior, Samvat 933 (876 CE): a plot 270 hastas long and 50 garlands a day, with circular zeros.",
+   "Babylonian placeholder of two slanted wedges by about 300 BCE; Maya shell glyph for zero; no zero numeral in Roman numerals (Discover Magazine, 'How we discovered the number zero'; Wikipedia, '0').",
+   "Etymonline, 'zero': from Arabic sifr through Medieval Latin zephirum and Italian zero; Sanskrit shunya, 'empty'.",
+   "Cricket: 'duck' is short for 'duck's egg', in print by the 1860s (Wikipedia, 'Duck (cricket)'). 'Dot ball' from the dot the scorer makes in the book (Wikipedia, 'Scorer (cricket)').",
+   "South Korea adopted international age counting on 28 June 2023; under the older way a newborn was counted as 1 (Al Jazeera, CBS News, 28 June 2023)."
+  ]
+ },
+ "playtest": "Walked through every flow as a family of two in a flat. The Empty Plate Test needs 5 beans, 2 plates, 3 coins and a cup. The result is small but clear: the count stays 4 when the empty cup is tipped, and the empty row sits next to the row of 1. Empty the Plate was played in the head with 1, 2 and 4 players: the zero dice takes off 2 or 3 beans a turn on average, so 15 beans last about 6 or 7 turns and nobody can get stuck. Match the Empty Card has 6 pairs and ends in about 10 minutes. Paper cards must not show through the back. Step minutes add up to each part's minutes. Looked up on the web while writing: the 2018 bee paper, the 2021 crow paper, the Wellman and Miller paper (through later papers only), the wording of Brahmasphutasiddhanta 18.30 (from secondary pages, not Plofker's book), the Gwalior inscription, the Babylonian and Maya zeros, the word sifr, the cricket words 'duck' and 'dot ball', the change in South Korea's age rule, and the three video titles and channels. Not looked up, written from general knowledge: that lifts in the United States call the ground floor 1, that petrol pump staff show the zero before filling, that the Royapuram museum is open, and that the bees found zero against one harder than zero against a bigger number. Chandogya Upanishad 6.12 is cited from PHILOSOPHY.md's library. The line about energy in empty space also comes from that library. The Gwalior zero is called 'one of the oldest' because an older dated zero was found in Cambodia (683 CE). The three videos were not watched, so watch each one before showing it."
+}
