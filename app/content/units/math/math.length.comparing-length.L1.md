@@ -97,7 +97,7 @@ Draw a line lying flat. From its middle, draw a line standing up, just as long. 
 ### Other animals keep track of length too · *defined*
 **Definition:** Desert ants keep track of how far they have walked by their own steps.
 
-Humans are not the only animals who work with length. A desert ant of the Sahara leaves her nest to find food. Then she runs home in a straight line and stops at the right place. In 2006 three scientists, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf, tested how she does it. The ants walked 10 metres from the nest to food. At the food, the scientists glued tiny stilts made of pig hair to some ants' legs. Those ants now took longer steps. They walked right past the nest, about half as far again as they should have. Ants with shortened legs stopped too soon. So the ant keeps track of her steps. Nobody yet knows how she does it.
+Humans are not the only animals who work with length. A desert ant of the Sahara walks out from her nest to find food, then runs straight home. In 2006 three scientists, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf, tested how she knows when to stop. Their ants walked 10 metres from the nest to food. There, the scientists glued tiny stilts of pig hair to some ants' legs, so those ants took longer steps. On the way home they walked right past the nest, about half as far again. Ants with shortened legs stopped too soon. So the ant keeps track of her steps, and nobody yet knows how.
 - e.g. With normal legs, the ants stopped close to 10 metres, where the nest should be.
 - e.g. With stilts, the same number of steps took the ants about 15 metres.
 - e.g. Later, ants who had walked out and back on stilts found the nest correctly.
@@ -132,7 +132,7 @@ We lined up straws, spoons and strings. Now let us think about the words long an
 *Evidence:* In One Pencil, Two Words, a string cut to your height while you stood also matched you from heel to head while you lay on the floor.
 
 - *who am i:* Standing up, you are tall. Lying in bed, you are long. You are the same you, with the same length.
-- *what is life:* A coconut tree grows tall. A pumpkin creeper grows long. Each one is growing from one end to the other, in their own direction.
+- *what is life:* A coconut tree grows tall. A pumpkin creeper grows long. Each one is adding to their own length, in their own direction.
 - *what is this world:* A well is deep, a tree is tall and a road is long. Each time, we mean how far it is from one end to the other.
 
 Length is one idea. People gave it many names: long, tall, high, deep, wide. A lotus stalk is as long as the pond is deep. The stalk and the pond share one length, and we use two words for it.

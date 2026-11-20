@@ -429,7 +429,7 @@
    "status": "defined",
    "context": "This card is about a desert ant who knows how far she has walked. You act out her walk in the activity Walk Like a Desert Ant.",
    "definition": "Desert ants keep track of how far they have walked by their own steps.",
-   "description": "Humans are not the only animals who work with length. A desert ant of the Sahara leaves her nest to find food. Then she runs home in a straight line and stops at the right place. In 2006 three scientists, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf, tested how she does it. The ants walked 10 metres from the nest to food. At the food, the scientists glued tiny stilts made of pig hair to some ants' legs. Those ants now took longer steps. They walked right past the nest, about half as far again as they should have. Ants with shortened legs stopped too soon. So the ant keeps track of her steps. Nobody yet knows how she does it.",
+   "description": "Humans are not the only animals who work with length. A desert ant of the Sahara walks out from her nest to find food, then runs straight home. In 2006 three scientists, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf, tested how she knows when to stop. Their ants walked 10 metres from the nest to food. There, the scientists glued tiny stilts of pig hair to some ants' legs, so those ants took longer steps. On the way home they walked right past the nest, about half as far again. Ants with shortened legs stopped too soon. So the ant keeps track of her steps, and nobody yet knows how.",
    "examples": [
     "With normal legs, the ants stopped close to 10 metres, where the nest should be.",
     "With stilts, the same number of steps took the ants about 15 metres.",
@@ -2029,6 +2029,22 @@
      "say": "The string is as long as the table is wide. Now hold it across the doorway. What does it tell us?",
      "kid": "Use your way. Carry the length to the door. Does the table fit?",
      "adult": true,
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "table",
+        "parts": 1,
+        "width": 48
+       },
+       {
+        "label": "string",
+        "parts": 1,
+        "width": 48
+       }
+      ],
+      "title": "The string matches the table"
+     },
      "parent": "The string is a go-between. It is as long as the table, so whatever is true of the string at the door is true of the table.",
      "check": {
       "t": "mcq",
@@ -3490,7 +3506,7 @@
   },
   "three": {
    "who_am_i": "Standing up, you are tall. Lying in bed, you are long. You are the same you, with the same length.",
-   "what_is_life": "A coconut tree grows tall. A pumpkin creeper grows long. Each one is growing from one end to the other, in their own direction.",
+   "what_is_life": "A coconut tree grows tall. A pumpkin creeper grows long. Each one is adding to their own length, in their own direction.",
    "what_is_this_world": "A well is deep, a tree is tall and a road is long. Each time, we mean how far it is from one end to the other."
   },
   "thread": "Length is one idea. People gave it many names: long, tall, high, deep, wide. A lotus stalk is as long as the pond is deep. The stalk and the pond share one length, and we use two words for it.",
