@@ -2496,7 +2496,17 @@
      "t": "truefalse",
      "p": "If 6 and 4 make 10, then 10 take away 6 leaves 4.",
      "a": true,
-     "why": "True. 10 is made of the parts 6 and 4. Take one part away and the other part is left."
+     "why": "True. 10 is made of the parts 6 and 4. Take one part away and the other part is left.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "10 beans, 6 of them shaded",
+        "parts": 10,
+        "shaded": 6
+       }
+      ]
+     }
     },
     {
      "t": "mcq",
@@ -2516,7 +2526,15 @@
       "0",
       "zero"
      ],
-     "why": "10 and 0 make 10. Adding zero changes nothing."
+     "why": "10 and 0 make 10. Adding zero changes nothing.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "10",
+       "+ ?"
+      ],
+      "answer": "10"
+     }
     },
     {
      "t": "truefalse",
@@ -2828,7 +2846,7 @@
    "t": "truefalse",
    "p": "Only the number 10 can be split into two parts.",
    "a": false,
-   "why": "False. Any number bigger than 1 can be split. For example, 8 is 5 and 3, and 6 is 4 and 2.",
+   "why": "False. Other numbers can be split too. For example, 8 is 5 and 3, and 6 is 4 and 2.",
    "outcome": 5
   }
  ],

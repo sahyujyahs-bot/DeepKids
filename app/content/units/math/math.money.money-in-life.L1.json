@@ -1,0 +1,3567 @@
+{
+ "id": "math.money.money-in-life.L1",
+ "title": "Coins and notes: read the number, count the rupees",
+ "level": 1,
+ "cards_mins": 8,
+ "summary": {
+  "text": "Seven coins are in one hand and two coins are in the other. Which hand has more money? You cannot tell by counting the coins. You will run a chana shop at home to find out why, and you will see one coin beat eight. You will learn to read coins and notes, count the rupees in a small heap, make the same amount in different ways, and check whether you have enough to buy a thing. You will also find out what makes a small round piece of metal worth ten rupees.",
+  "art": "A girl holding out two open hands, seven small silver coins in one and two golden coins in the other, with a plate of chana on the floor in front of her."
+ },
+ "intro": {
+  "hook": "Which hand holds more money, A or B?",
+  "text": "Hand B holds more. Hand A has seven coins, but each one is ₹1, so that is ₹7. Hand B has only two coins, but each one is ₹5, so that is ₹10. Counting coins tells you how many coins there are. It does not tell you how much money there is. For that, you read the number on each coin and count the rupees. In this unit you will test this yourself with real coins and a plate of chana.",
+  "art": "Two open hands side by side, the left holding seven small silver ₹1 coins and the right holding two golden ₹5 coins.",
+  "chart": {
+   "type": "dots",
+   "rows": [
+    {
+     "label": "A: ₹1 coins",
+     "n": 7
+    },
+    {
+     "label": "B: ₹5 coins",
+     "n": 2
+    }
+   ]
+  }
+ },
+ "outcomes": [
+  "I can name the coins ₹1, ₹2, ₹5, ₹10 and ₹20, and the notes from ₹10 to ₹500, by reading the number on them.",
+  "I can say that the number on a coin tells how much it is worth, not its size or how many coins there are.",
+  "I can count the rupees in a small heap of coins, up to ₹20.",
+  "I can make the same amount of money in different ways.",
+  "I can tell whether I have enough money to buy a thing, by comparing my money with the price.",
+  "I can say that a coin or a note is worth something because people agree that it is."
+ ],
+ "terms": [
+  {
+   "term": "Money",
+   "meaning": "What people give to get things and to pay for work. Coins and notes are money. The number in a bank account is money too.",
+   "example": "Appa gives the shopkeeper ₹10. The shopkeeper gives him a packet of biscuits.",
+   "art": "A hand passing a ₹10 coin across a shop counter while another hand passes back a packet of biscuits."
+  },
+  {
+   "term": "Coin",
+   "meaning": "A small flat piece of metal that is money. A number on the coin tells how many rupees it is worth.",
+   "example": "India has coins of ₹1, ₹2, ₹5, ₹10 and ₹20.",
+   "art": "Five Indian coins in a row from ₹1 to ₹20, each showing its number clearly."
+  },
+  {
+   "term": "Note",
+   "meaning": "A piece of printed paper that is money. A number on the note tells how many rupees it is worth.",
+   "example": "A ₹10 note and a ₹10 coin buy exactly the same things.",
+   "art": "A brown ₹10 note lying next to a ₹10 coin, with an equals sign between them."
+  },
+  {
+   "term": "Rupee",
+   "meaning": "The name of India's money. We count money in rupees, the way we count length in steps or hand spans. The sign for rupees is ₹.",
+   "example": "₹5 is read as 'five rupees'. The sign ₹ was drawn by D. Udaya Kumar, a designer from Tamil Nadu, and chosen in 2010.",
+   "art": "The ₹ sign drawn large, with a small ₹5 coin beside it and the words 'five rupees' underneath."
+  },
+  {
+   "term": "Value",
+   "meaning": "How much a coin or a note is worth. You find the value by reading the number on it.",
+   "example": "The value of a ₹5 coin is five rupees. One ₹5 coin has the same value as five ₹1 coins.",
+   "art": "One ₹5 coin on the left and five ₹1 coins on the right, joined by an equals sign."
+  },
+  {
+   "term": "Price",
+   "meaning": "How many rupees you must give to buy a thing.",
+   "example": "The price of the pencil is ₹6. On a packet, the price is printed after the letters MRP.",
+   "art": "A pencil with a paper tag tied to it that says ₹6."
+  },
+  {
+   "term": "Amount",
+   "meaning": "How much money there is in all, when you count the rupees.",
+   "example": "A ₹5 coin and a ₹2 coin together make an amount of ₹7.",
+   "art": "A ₹5 coin and a ₹2 coin in a child's palm with the number 7 written above."
+  },
+  {
+   "term": "Swap",
+   "meaning": "To give one thing and get another thing back. You can swap coins for other coins of the same value.",
+   "example": "You give five ₹1 coins and take one ₹5 coin. You still have five rupees.",
+   "art": "Two hands swapping: one gives five small ₹1 coins, the other gives a single ₹5 coin."
+  },
+  {
+   "term": "Enough",
+   "meaning": "You have enough when your money is the same as the price, or more than the price.",
+   "example": "The chikki costs ₹8. You have ₹10. Ten is more than eight, so you have enough.",
+   "art": "A child holding a ₹10 coin and looking at a bar of chikki with a tag that says ₹8, with a tick mark above."
+  },
+  {
+   "term": "Buy and sell",
+   "meaning": "To buy is to give money and take a thing. To sell is to give a thing and take money. Every time someone buys, someone else sells.",
+   "example": "You buy a banana for ₹5. The fruit seller sells a banana for ₹5. It is one swap, seen from two sides.",
+   "art": "A child and a fruit seller at a cart, a banana going one way and a ₹5 coin going the other."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "The number on the coin tells its value",
+   "status": "defined",
+   "context": "This card says what you found in the Two Plates Test, where a few coins bought more chana than many coins.",
+   "definition": "The value of a coin is the number of rupees written on it. To find how much money you have, count the rupees, not the coins.",
+   "description": "Every coin has a number on it. A ₹1 coin is worth one rupee. A ₹5 coin is worth five rupees, so one ₹5 coin buys as much as five ₹1 coins. This is why two coins can be more money than seven coins. Here is a worked example. Hand A holds seven ₹1 coins. Count the rupees: 1, 2, 3, 4, 5, 6, 7. That is ₹7. Hand B holds two ₹5 coins. Count the rupees: 5, 10. That is ₹10. Ten is more than seven, so hand B holds more money. The size of a coin does not tell you its value either. A ₹10 coin and a ₹20 coin are the same width. Only the number tells them apart. Now you try: which is more, three ₹2 coins or four ₹1 coins?",
+   "examples": [
+    "One ₹10 coin is worth more than eight ₹1 coins. Ten is more than eight.",
+    "Three ₹2 coins are ₹6. Four ₹1 coins are ₹4. The three coins are more money.",
+    "A ₹10 note and a ₹10 coin look nothing alike. Both have the number 10, so both are worth ten rupees."
+   ],
+   "perspectives": [],
+   "art": "One ₹5 coin with an arrow to five chana in a row, and one ₹1 coin with an arrow to a single chana.",
+   "chart": {
+    "type": "dots",
+    "title": "How many chana each coin buys, at ₹1 for one chana",
+    "rows": [
+     {
+      "label": "one ₹1 coin buys",
+      "n": 1
+     },
+     {
+      "label": "one ₹2 coin buys",
+      "n": 2
+     },
+     {
+      "label": "one ₹5 coin buys",
+      "n": 5
+     },
+     {
+      "label": "one ₹10 coin buys",
+      "n": 10
+     }
+    ]
+   }
+  },
+  {
+   "concept": "The coins of India",
+   "status": "defined",
+   "context": "This card shows the five coins India makes today, so that you can tell them apart.",
+   "definition": "India has five coins in use: ₹1, ₹2, ₹5, ₹10 and ₹20.",
+   "description": "Look for the number first. It is on one side of the coin, next to the sign ₹. The other side shows the lions of the Ashoka pillar, which is the sign of India. The newest coins also differ in colour and shape, as the table shows. Coins made in other years can look different. An old ₹5 coin may be thick and silver. So do not trust the colour or the size. Always read the number. There is no ₹3 coin and no ₹7 coin. To pay ₹3 you use a ₹2 coin and a ₹1 coin together.",
+   "examples": [
+    "The ₹20 coin has 12 straight sides. All the other coins are round.",
+    "The ₹10 coin has two colours: a golden ring around a silver middle.",
+    "The newest ₹1 coin is the smallest. It is 20 millimetres across."
+   ],
+   "perspectives": [],
+   "art": "The five newest Indian coins in a row from ₹1 to ₹20, drawn to scale, the ₹20 coin with twelve sides.",
+   "chart": {
+    "type": "table",
+    "title": "The newest coins (made from 2019)",
+    "cols": [
+     "Coin",
+     "Colour",
+     "Shape"
+    ],
+    "rows": [
+     [
+      "₹1",
+      "silver",
+      "round"
+     ],
+     [
+      "₹2",
+      "silver",
+      "round"
+     ],
+     [
+      "₹5",
+      "golden",
+      "round"
+     ],
+     [
+      "₹10",
+      "golden ring, silver middle",
+      "round"
+     ],
+     [
+      "₹20",
+      "silver ring, golden middle",
+      "12 sides"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "The notes of India",
+   "status": "defined",
+   "context": "This card shows the paper notes India uses today. Look at a real note with a grown-up as you read it.",
+   "definition": "India has six notes in common use: ₹10, ₹20, ₹50, ₹100, ₹200 and ₹500.",
+   "description": "A note is money printed on paper. The number is printed in more than one place on each side, so you can always find it. The front of every note shows Mahatma Gandhi. The back shows a famous place in India, and each note has its own colour. On the back there is also a box where the value is written in 15 Indian languages. A note is worth much more than the paper it is made of. A ₹500 note and a ₹10 note are made of the same kind of paper, but one buys fifty times as much. Older notes with other colours are still used, so read the number.",
+   "examples": [
+    "The ₹50 note is blue. Its back shows the stone chariot at Hampi in Karnataka.",
+    "The ₹10 note is brown. Its back shows the Sun Temple at Konark in Odisha.",
+    "One ₹20 note is worth the same as two ₹10 coins."
+   ],
+   "perspectives": [],
+   "art": "Six Indian notes fanned out from ₹10 to ₹500, each in its own colour with the number clear in the corner.",
+   "chart": {
+    "type": "table",
+    "title": "The newest notes",
+    "cols": [
+     "Note",
+     "Colour",
+     "Picture on the back"
+    ],
+    "rows": [
+     [
+      "₹10",
+      "brown",
+      "Sun Temple, Konark"
+     ],
+     [
+      "₹20",
+      "greenish yellow",
+      "Ellora Caves"
+     ],
+     [
+      "₹50",
+      "blue",
+      "stone chariot, Hampi"
+     ],
+     [
+      "₹100",
+      "light purple",
+      "Rani ki Vav stepwell"
+     ],
+     [
+      "₹200",
+      "bright yellow",
+      "Sanchi Stupa"
+     ],
+     [
+      "₹500",
+      "grey",
+      "Red Fort"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "Counting a heap of coins",
+   "status": "defined",
+   "context": "This card shows a quick way to count the rupees in a heap of mixed coins. You need it in every game in this unit.",
+   "definition": "To count mixed coins, start with the coin of the biggest value and count on for each of the other coins.",
+   "description": "Here is a worked example. You have a ₹1 coin, a ₹5 coin and two ₹2 coins. First put them in order, biggest value first: ₹5, ₹2, ₹2, ₹1. Now touch each coin and count on. Touch the ₹5 and say 5. Touch a ₹2 and say 7. Touch the next ₹2 and say 9. Touch the ₹1 and say 10. The last number you say is the amount: ₹10. Starting with the biggest coin means you count on by small steps at the end, which is easier. If you forget where you are, push each coin away as you count it. Now you try: ₹10, ₹5, ₹2.",
+   "examples": [
+    "₹10, ₹5, ₹2: say 10, 15, 17. The amount is ₹17.",
+    "₹2, ₹2, ₹2: say 2, 4, 6. This is counting in twos.",
+    "₹5, ₹5, ₹1: say 5, 10, 11. The amount is ₹11."
+   ],
+   "perspectives": [],
+   "art": "Four coins in a row, ₹5, ₹2, ₹2, ₹1, with hops drawn above a number line landing on 5, 7, 9 and 10.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 10,
+    "step": 1,
+    "value": 10,
+    "title": "₹5, then ₹2, ₹2, ₹1: hop to 5, 7, 9, 10"
+   }
+  },
+  {
+   "concept": "The same amount, many ways",
+   "status": "defined",
+   "context": "This card is about paying one price with different sets of coins, as you did in Ten Rupees, Many Ways.",
+   "definition": "One amount of money can be made with different coins. All the ways have the same value.",
+   "description": "Take ₹10. You can pay it with one ₹10 coin. You can pay it with two ₹5 coins, because 5 and 5 make 10. You can pay it with five ₹2 coins, or with ten ₹1 coins, or with a mix such as ₹5, ₹2, ₹2 and ₹1. The shopkeeper gets ten rupees every time. So you can swap coins without losing or gaining money: five ₹1 coins for one ₹5 coin, or two ₹5 coins for one ₹10 coin. Shopkeepers do this all day. With ₹1, ₹2, ₹5 and ₹10 coins there are 11 different ways to make ₹10.",
+   "examples": [
+    "₹6 can be 5 + 1, or 2 + 2 + 2, or 2 + 2 + 1 + 1.",
+    "A ₹20 note, two ₹10 coins and four ₹5 coins are all twenty rupees.",
+    "If you have no ₹5 coin, you can still pay ₹5 with ₹2, ₹2 and ₹1."
+   ],
+   "perspectives": [],
+   "art": "Four small heaps of coins, each labelled ₹10: one ₹10 coin, two ₹5 coins, five ₹2 coins, and ten ₹1 coins.",
+   "chart": {
+    "type": "dots",
+    "title": "Four ways to pay ₹10",
+    "rows": [
+     {
+      "label": "₹10 coins",
+      "n": 1
+     },
+     {
+      "label": "₹5 coins",
+      "n": 2
+     },
+     {
+      "label": "₹2 coins",
+      "n": 5
+     },
+     {
+      "label": "₹1 coins",
+      "n": 10
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Do I have enough?",
+   "status": "defined",
+   "context": "This card shows how to decide whether you can buy a thing. It answers the question 'How much can we spend?'",
+   "definition": "You have enough money when your amount is the same as the price or more than the price.",
+   "description": "First count your money. Then read the price. Then compare the two numbers. Here is a worked example. You have a ₹5 coin and a ₹2 coin. That is ₹7. A chikki costs ₹8. Seven comes before eight when you count, so seven is less than eight. You do not have enough. You need ₹1 more. A balloon costs ₹2. Two is less than seven, so you have enough for the balloon, and money will be left over. You can spend up to the amount you have, and no more. If you want two things, add the two prices first, then compare.",
+   "examples": [
+    "You have ₹10. The biscuits cost ₹10. The numbers are the same, so you have just enough.",
+    "You have ₹15. The ball costs ₹20. Fifteen is less than twenty, so you cannot buy the ball yet.",
+    "You have ₹20. A balloon for ₹2 and a chikki for ₹8 cost ₹10 together. You can buy both."
+   ],
+   "perspectives": [],
+   "art": "A child with a ₹5 coin and a ₹2 coin in hand, looking at a chikki tagged ₹8 and a balloon tagged ₹2.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 10,
+    "step": 1,
+    "value": 7,
+    "title": "You have ₹7. Is the price before 7 or after 7?"
+   }
+  },
+  {
+   "concept": "Why can a coin buy things?",
+   "status": "debated",
+   "context": "This card asks what makes a piece of metal or paper worth something. People who study money give different answers.",
+   "definition": "A coin or a note can buy things because people agree to take it.",
+   "description": "A ₹10 coin is a small piece of metal. You cannot eat it or wear it. The shopkeeper takes it because she knows the milkman will take it from her, and the milkman knows the bus conductor will take it from him. Everyone trusts that the next person will take it. A note even says so: read the line 'I promise to pay the bearer' on any note. When the agreement changes, the money changes. On 8 November 2016, the government of India said that the ₹500 and ₹1,000 notes of that time would stop being money at midnight. The paper was the same the next morning, but shops no longer took it. People changed the old notes for new ones at banks.",
+   "examples": [
+    "A coin from another country is real money there, but a shop here will not take it.",
+    "When a grown-up pays with a phone, no coin moves. Only numbers change in two bank accounts, and both people trust the numbers.",
+    "Long ago, people in Odisha and Bengal used small cowrie shells as money, because everyone there agreed to take them."
+   ],
+   "perspectives": [
+    {
+     "who": "People who say money is an agreement",
+     "explanation": "Money is worth something because people trust each other to take it. Shells, paper and numbers on a phone have all worked as money."
+    },
+    {
+     "who": "People who say the government makes money",
+     "explanation": "A note is worth something because the government prints it, takes it for taxes and says shops must take it."
+    },
+    {
+     "who": "People who say money must be worth something by itself",
+     "explanation": "The best money is made of silver or gold, which people want anyway. Old rupee coins were made of silver."
+    }
+   ],
+   "art": "A ₹10 coin passing in a circle from a child to a shopkeeper to a milkman to a bus conductor and back to the child's mother."
+  },
+  {
+   "concept": "What a price counts, and what it leaves out",
+   "status": "idea",
+   "context": "This card follows one ₹5 banana back to where it came from. It shows what money pays for and what it does not.",
+   "definition": "A price pays the people who worked to bring a thing to you. It does not pay the sun, the rain or the soil.",
+   "description": "You give ₹5 and take a banana. Where does the ₹5 go? Some of it goes to the fruit seller. Some goes to the lorry driver who brought the bananas to town, and some to the farmer who grew them. But the banana plant needed more than people. They needed sunlight every day, rain or water from a well, and soil full of tiny living beings. Nobody pays the sun. Nobody pays the rain. So a price tells you how much work people did and how much they ask for it. It does not tell you everything a thing is worth. Air is free, and you could not live five minutes without it.",
+   "examples": [
+    "A glass of water at home costs almost nothing. On a very hot day it can be worth more to you than a toy.",
+    "A mango tree gives fruit to birds, squirrels and ants without asking for money.",
+    "A drawing you make for Paati has no price, and she may keep it for years."
+   ],
+   "perspectives": [],
+   "art": "A banana in the middle with arrows coming in from the sun, a rain cloud, soil, a banana plant, a farmer, a lorry and a fruit cart, with a ₹5 coin reaching only the three people."
+  },
+  {
+   "concept": "Other living beings trade too",
+   "status": "idea",
+   "context": "This card is about monkeys, plants and fungi who give one thing to get another. People are not the only ones who trade.",
+   "definition": "To trade is to give one thing and get another thing back. Many living beings trade, and some give more to those who give them more.",
+   "description": "At the Uluwatu temple in Bali, Indonesia, long-tailed macaques take things from visitors: glasses, phones, slippers, hair clips. A monkey keeps the thing until a person hands over food. Then they give it back. Scientists led by Jean-Baptiste Leca watched them for many months and wrote about it in 2021. The older monkeys took the things people want back most, such as glasses and phones. They often waited for more food, or better food, before they gave such a thing back. Young monkeys were not so careful. They learn it as they grow, by trying and by watching others. Under the ground there is another trade. A plant gives sugar to a fungus living on their roots, and the fungus gives the plant a food from the soil called phosphorus. In 2011 Toby Kiers and her team found that the plant gives more sugar to a fungus who gives more phosphorus, and the fungus does the same in return. This is not money. No coin is passed. But it is giving more for more, and that is the idea under every price.",
+   "examples": [
+    "A macaque at Uluwatu may wait for more food before giving back a phone, and give back a hair clip for less.",
+    "A bee takes sweet nectar from a flower and carries the flower's pollen to the next flower.",
+    "A small cleaner fish eats the pests off a big fish. The big fish gets cleaned, and the cleaner gets a meal."
+   ],
+   "perspectives": [
+    {
+     "who": "The scientists who studied the Uluwatu macaques",
+     "explanation": "They call it a token economy. The monkeys use the stolen things like tokens that can be traded for food, and they know which tokens are worth more."
+    },
+    {
+     "who": "Scientists who are more careful with words",
+     "explanation": "They say words like 'trade' and 'market' come from human life. The monkeys, plants and fungi may be doing something of their own that only looks like our trade from outside."
+    }
+   ],
+   "art": "A long-tailed macaque sitting on a temple wall holding a pair of glasses in one hand and reaching for a fruit held out by a visitor."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The number on a coin tells how much it is worth. The size does not.",
+   "evidence": "Measure a ₹10 coin and a ₹20 coin. Both are 27 millimetres wide. One buys twice as much as the other, and only the number tells you which."
+  },
+  {
+   "text": "A few coins can be more money than many coins.",
+   "evidence": "You tested it in the Two Plates Test. One ₹10 coin bought 10 chana, and eight ₹1 coins bought only 8."
+  },
+  {
+   "text": "The same amount of money can be made in many ways, and every way buys the same.",
+   "evidence": "Try it in the chana shop. Two ₹5 coins buy 10 chana. So do five ₹2 coins, and so do ten ₹1 coins."
+  },
+  {
+   "text": "A note or a coin is money only while people agree to take it.",
+   "evidence": "On 8 November 2016 the old ₹500 and ₹1,000 notes stopped being money at midnight. The paper did not change. The agreement did."
+  },
+  {
+   "text": "People are not the only living beings who trade.",
+   "evidence": "Scientists watched macaques at the Uluwatu temple in Bali give stolen things back in exchange for food (Leca and others, 2021). Plants and root fungi trade sugar for phosphorus (Kiers and others, 2011)."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "More coins means more money.",
+   "who": "Many young children, and sometimes a grown-up in a hurry",
+   "context": "This card is about a mix-up between how many coins there are and how much they are worth.",
+   "for": "With coins that are all the same kind, it is true. Seven ₹1 coins are more than five ₹1 coins.",
+   "against": "With mixed coins it fails. Two ₹5 coins are ₹10, and seven ₹1 coins are only ₹7. You must read each coin and count the rupees.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Real money must be made of something costly, like silver or gold.",
+   "who": "Many people in history, and a few thinkers about money today",
+   "context": "This card is about an old argument: does money need to be worth something by itself?",
+   "for": "Silver and gold stay wanted even when people stop trusting a government. Old rupee coins were made of silver, and people trusted them for hundreds of years.",
+   "against": "Steel coins, paper notes and numbers on a phone all work as money today, as long as people agree to take them. Cowrie shells worked too.",
+   "status": "minority"
+  },
+  {
+   "claim": "Before there was money, everyone got what they needed by swapping things.",
+   "who": "Adam Smith in 1776, and many school books since",
+   "context": "This card is about a story of how money began, and whether anyone checked it.",
+   "for": "Swapping is hard, as the Swap Game shows. Each person must want what the other has. So it makes sense that people would invent money to fix this.",
+   "against": "In 1985 Caroline Humphrey looked for a people who lived by swapping alone and found that nobody had ever described one. In small villages people mostly share, and remember who owes whom.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "You have more coins than your friend. What else must you know before you can say who has more money?",
+   "kind": "deep",
+   "hint": "What is written on each coin?"
+  },
+  {
+   "q": "Why is there a ₹5 coin, but no ₹3 coin or ₹7 coin?",
+   "kind": "deep",
+   "hint": "Can you make 3 and 7 with the coins we have? How many coins do you need?"
+  },
+  {
+   "q": "A ₹500 note and a ₹10 note are nearly the same paper. So what makes one worth more?",
+   "kind": "deep",
+   "hint": "Who decides? Who has to agree?"
+  },
+  {
+   "q": "When a grown-up pays with a phone, no coin moves. So where is the money?",
+   "kind": "big",
+   "hint": "What changes when the phone says 'paid'? Who keeps count?"
+  },
+  {
+   "q": "The sun and the rain helped to grow the banana. Why does nobody pay them?",
+   "kind": "big",
+   "hint": "Who can you hand a coin to? Is there another way to give something back?"
+  },
+  {
+   "q": "Can something be worth a lot to you and still cost nothing?",
+   "kind": "big",
+   "hint": "Think of air, a hug, or the shade of a tree."
+  }
+ ],
+ "story": {
+  "title": "Nine Coins and One",
+  "mins": 6,
+  "read_aloud": true,
+  "note": "Malar, Anbu and the top seller are made up. The santhai, a weekly market, is real in towns and villages across Tamil Nadu, and Melur is a town near Madurai. The prices are made up for the story.",
+  "text": [
+   "On Sunday the santhai came to the tank road outside Melur. It came every Sunday: heaps of brinjal and drumstick, coils of rope, clay pots, glass bangles, and one old woman who sold wooden tops.",
+   "Malar was six. Her cousin Anbu was eight. Paati had given each of them money for the market, tied in the corner of a cloth.",
+   "Anbu untied his cloth before they had even left the house. Coins poured into his hand, silver and jingling. \"One, two, three, four, five, six, seven, eight, nine,\" he counted. \"Nine coins!\"",
+   "Malar untied hers. Two coins lay in the cloth. One was thick, with a yellow ring around a silver middle. The other was small and plain.",
+   "\"Two,\" said Anbu. \"Only two! I have nine. I am rich and you are poor.\" He shook his fist so that the coins rang. All the way down the lane he rang them. Malar's two coins made no sound at all. She held them so tightly that the big one left a round mark on her palm.",
+   "At the market they went straight to the top seller. Her tops stood in rows on a blue sheet, painted with red and green rings. She wound a string around one and flicked her wrist. The top landed on the hard ground and hummed.",
+   "\"How much, Paati?\" asked Anbu.",
+   "\"Ten rupees for one top.\"",
+   "Anbu grinned at Malar. \"I will take one. Maybe I will take two.\" He poured his nine coins onto the sheet.",
+   "The top seller did not count them the way Anbu had. She pushed them across the sheet with one finger, one at a time. \"One rupee. Two rupees. Three.\" Each coin had a small 1 on it. \"Seven. Eight. Nine.\" Her finger stopped. There were no more coins to push.",
+   "\"Nine rupees, kanna. A top is ten. You need one more rupee.\"",
+   "Anbu stared at the sheet. Nine coins had felt like so many.",
+   "\"And you, little one?\"",
+   "Malar opened her hand. She put the thick coin with the yellow ring on the sheet. Just that one. The top seller picked it up, looked at it, and dropped it into her tin. Then she held out a top with green rings.",
+   "\"One coin?\" said Anbu. \"She gave you one coin!\"",
+   "\"Look at it,\" said the top seller. She took the coin out of the tin again and turned it to the light. There was a number on it. It was not a 1. It was a 1 with a 0 beside it. \"This one coin is ten rupees. It is ten of yours, made into one.\"",
+   "Anbu looked at his nine coins, and then at the single coin. He did not ring his fist any more. He began to pick his coins up, slowly, one by one.",
+   "Malar looked at the small plain coin still in her hand. It had a 2 on it. Two rupees. Anbu needed one rupee, and she had two. If only she could break the coin in half! But a coin does not break like a murukku.",
+   "She thought about it while a goat walked past and a bus honked on the road. Two is one and one. And Anbu's coins were all ones.",
+   "\"Anbu,\" she said. \"Give me one of your coins.\"",
+   "\"Why? Then I will have only eight!\"",
+   "\"Give me one. And I will give you this.\" She held out the 2.",
+   "Anbu frowned, but he gave her one coin. She gave him the 2. He laid his coins on the sheet again, and this time he pushed them himself, the way the top seller had. \"One, two, three, four, five, six, seven, eight.\" Eight coins with a 1 on them. Then he pushed the last coin, the one with the 2. \"Nine...\" He stopped. He looked at the 2 again. \"Nine, ten,\" he said. \"Ten!\"",
+   "\"Ten rupees,\" said the top seller. She swept the coins into her tin and gave him a top with red rings. \"Nine coins from you. One coin from her. The same ten rupees, and the same top.\"",
+   "They wound their strings at the side of the tank road. Anbu's cloth was empty now, and it made no sound. Malar had one small coin left, tied in the corner of hers.",
+   "\"You gave me a rupee,\" said Anbu. \"You swapped a two for a one.\"",
+   "\"I know,\" said Malar. \"Now pull.\"",
+   "They pulled. The two tops hummed side by side in the dust, and for a long time neither one fell."
+  ],
+  "epiphany": "For the parent: counting coins is not counting money. Anbu counts nine coins and feels rich. The top seller counts nine rupees, by reading each coin as she pushes it. Malar's swap works because a ₹2 coin is two ones. When she swaps it for a ₹1 coin, she gives away exactly one rupee, without breaking anything.",
+  "ask": [
+   "Anbu had nine coins and Malar had two. Who had more money? How do you know?",
+   "The top seller pushed the coins one at a time and said 'one rupee, two rupees'. Why did she not just say 'nine coins'?",
+   "Malar could not break her ₹2 coin in half. What did she do instead? Why did it work?",
+   "At the end, how much money does Malar have left? How much does Anbu have?"
+  ],
+  "art": [
+   "A Sunday market on a dusty road beside a village tank, with heaps of vegetables, clay pots, and an old woman sitting behind rows of painted wooden tops on a blue sheet.",
+   "A boy of eight shaking a fistful of coins and laughing, while a girl of six looks down at two coins in her open palm.",
+   "An old woman's finger pushing small silver coins one at a time across a blue sheet, nine in a row, with a boy watching.",
+   "The old woman holding a two-coloured coin up to the light so that the number 10 shows, the boy staring at it.",
+   "The girl holding out a small coin with a 2 on it, and the boy holding out a coin with a 1 on it, about to swap.",
+   "Two wooden tops, one with green rings and one with red, spinning side by side in the dust while two children crouch and watch."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Two Plates Test: do more coins mean more money?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this test you run a chana shop. One rupee buys one chana. Two plates hold different coins, and before each round you guess which plate will buy more chana. You will find out whether more coins always means more money.",
+   "question": "If one plate has more coins than the other, does it always buy more?",
+   "predict": "Before each round, guess: which plate will buy more chana, A or B, or will they buy the same? Why do you think so?",
+   "fair_test": "The price never changes: one rupee buys one chana. We read the number on every coin. We line up the chana from each plate in a row, so that we can count them and compare.",
+   "results_table": [
+    "Round",
+    "Coins on plate A",
+    "Coins on plate B",
+    "My guess",
+    "Chana for A",
+    "Chana for B"
+   ],
+   "materials": [
+    {
+     "item": "₹1 coins",
+     "qty": 8
+    },
+    {
+     "item": "₹2 coins",
+     "qty": 5
+    },
+    {
+     "item": "₹5 coins",
+     "qty": 2
+    },
+    {
+     "item": "₹10 coin",
+     "qty": 1
+    },
+    {
+     "item": "paper coins, if you are short of real ones: circles of card with ₹1, ₹2, ₹5 or ₹10 written on them",
+     "qty": "as many as you are missing"
+    },
+    {
+     "item": "chana, rajma or buttons, all about the same size",
+     "qty": "20, in a cup"
+    },
+    {
+     "item": "two small plates or lids, marked A and B",
+     "qty": 2
+    },
+    {
+     "item": "paper and a pencil, for the table",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep coins and chana away from babies and toddlers, who could choke on them. Wash hands after handling coins.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Read the coins, learn the chana shop rule, then guess and test four rounds of plate A against plate B."
+    }
+   ],
+   "record": "A grown-up draws the table. For each round, write the coins on each plate, the guess, and the chana each plate bought. At the end, the child says what they found, and the grown-up writes it under the table.",
+   "example_chart": {
+    "type": "table",
+    "title": "What a finished table can look like (your guesses will be your own)",
+    "cols": [
+     "Round",
+     "Plate A",
+     "Plate B",
+     "My guess",
+     "Chana A",
+     "Chana B"
+    ],
+    "rows": [
+     [
+      "1",
+      "seven ₹1",
+      "two ₹5",
+      "A",
+      "7",
+      "10"
+     ],
+     [
+      "2",
+      "five ₹1",
+      "three ₹2",
+      "A",
+      "5",
+      "6"
+     ],
+     [
+      "3",
+      "eight ₹1",
+      "one ₹10",
+      "B",
+      "8",
+      "10"
+     ],
+     [
+      "4",
+      "₹5, ₹2, ₹1",
+      "four ₹2",
+      "B",
+      "8",
+      "8"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A cup of chana, two small steel plates marked A and B, and a little heap of mixed Indian coins on a floor mat.",
+     "caption": "1. Set out the coins, two plates and a cup of chana."
+    },
+    {
+     "art": "Plate A holding seven small ₹1 coins and plate B holding two ₹5 coins, with a child pointing at plate A.",
+     "caption": "2. Put coins on each plate. Guess which plate buys more."
+    },
+    {
+     "art": "Below each plate a row of chana: seven below plate A and ten below plate B, with a child counting the longer row.",
+     "caption": "3. Buy one chana for each rupee. Line them up and count."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Tip the coins onto the mat. 2. Ask your child what they notice. 3. Ask them to find the number on each coin. 4. Sort the coins into kinds together.",
+     "say": "Look at these coins. What do you notice? Can you find a number on each one?",
+     "kid": "Look at the coins. Find the number on each one. Put the same kinds together.",
+     "ask": [
+      {
+       "q": "What is different about these coins? What is the same?",
+       "good": [
+        "They have different numbers.",
+        "Some are bigger.",
+        "Some are yellow and some are silver.",
+        "They all have lions on one side."
+       ]
+      }
+     ],
+     "parent": "Let your child look and talk before you name anything. If they do not spot the number, turn one coin over and wait.",
+     "chart": {
+      "type": "dots",
+      "title": "The coins you need",
+      "rows": [
+       {
+        "label": "₹1 coins",
+        "n": 8
+       },
+       {
+        "label": "₹2 coins",
+        "n": 5
+       },
+       {
+        "label": "₹5 coins",
+        "n": 2
+       },
+       {
+        "label": "₹10 coin",
+        "n": 1
+       }
+      ]
+     },
+     "context": "This is the first step of the Two Plates Test. You look at the coins and find the number on each one."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Say the rule of the chana shop. 2. Your child pays you a ₹1 coin, and you give 1 chana. 3. Your child pays a ₹2 coin, and you give 2 chana. 4. Take the chana back.",
+     "say": "This is a chana shop. One rupee buys one chana. This coin says 2. So how many chana will it buy?",
+     "kid": "One rupee buys one chana. Pay a ₹1 coin. Then pay a ₹2 coin. What do you get?",
+     "parent": "This is the one thing you tell your child: the number on the coin is how many rupees it is. Everything after this they find out themselves.",
+     "chart": {
+      "type": "dots",
+      "title": "The chana shop: ₹1 for one chana",
+      "rows": [
+       {
+        "label": "a ₹1 coin buys",
+        "n": 1
+       },
+       {
+        "label": "a ₹2 coin buys",
+        "n": 2
+       }
+      ]
+     },
+     "context": "This is step 2 of the Two Plates Test. You learn the rule of the chana shop: one rupee buys one chana."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Put seven ₹1 coins on plate A. 2. Put two ₹5 coins on plate B. 3. Ask for a guess and a reason, and write the guess. 4. Your child buys chana for each coin and lines them up below the plate. 5. Count both rows and write the numbers.",
+     "say": "Plate A has seven coins. Plate B has two coins. Which plate will buy more chana? Why do you think so?",
+     "kid": "Plate A has seven coins. Plate B has two. Guess which buys more. Then buy the chana and count.",
+     "ask": [
+      {
+       "q": "Why did you guess that?",
+       "good": [
+        "A has more coins, so more chana.",
+        "B has fives, and five is a lot.",
+        "I do not know yet."
+       ]
+      }
+     ],
+     "parent": "Many six-year-olds choose plate A, because seven coins look like more. Accept any guess with a reason. Say nothing about who is right. Let the two rows of chana answer: 7 and 10.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A: ₹1 coins",
+        "n": 7
+       },
+       {
+        "label": "B: ₹5 coins",
+        "n": 2
+       }
+      ]
+     },
+     "context": "This is round 1 of the Two Plates Test. Seven ₹1 coins are on plate A and two ₹5 coins are on plate B."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Clear the plates and the chana. 2. Put five ₹1 coins on plate A and three ₹2 coins on plate B. 3. Ask for a guess and a reason, and write the guess. 4. Your child buys the chana and counts both rows.",
+     "say": "Now plate A has five coins and plate B has three. Which will buy more this time? Why?",
+     "kid": "Plate A has five coins. Plate B has three. Guess, then buy the chana and count.",
+     "parent": "Plate A buys 5 chana and plate B buys 6. The gap is small, so the rows must be counted, not just looked at.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A: ₹1 coins",
+        "n": 5
+       },
+       {
+        "label": "B: ₹2 coins",
+        "n": 3
+       }
+      ]
+     },
+     "context": "This is round 2 of the Two Plates Test. Five ₹1 coins are on plate A and three ₹2 coins are on plate B."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Clear the plates. 2. Put eight ₹1 coins on plate A and one ₹10 coin on plate B. 3. Ask for a guess and a reason, and write the guess. 4. Your child buys the chana and counts both rows.",
+     "say": "Plate A has eight coins. Plate B has just one coin. Which will buy more? Why?",
+     "kid": "Eight coins on plate A. One coin on plate B. Guess, then buy the chana and count.",
+     "ask": [
+      {
+       "q": "How can one coin buy more than eight coins?",
+       "good": [
+        "It says 10 on it.",
+        "It is worth ten rupees.",
+        "It is like ten of the small ones."
+       ]
+      }
+     ],
+     "parent": "Plate A buys 8 chana and plate B buys 10. By now many children start reading the coins before they guess. That is the discovery, so let them say it in their own words.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A: ₹1 coins",
+        "n": 8
+       },
+       {
+        "label": "B: ₹10 coin",
+        "n": 1
+       }
+      ]
+     },
+     "context": "This is round 3 of the Two Plates Test. Eight ₹1 coins are on plate A and a single ₹10 coin is on plate B."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "1. Clear the plates. 2. Put a ₹5, a ₹2 and a ₹1 coin on plate A. 3. Put four ₹2 coins on plate B. 4. Ask for a guess and a reason. 5. Your child buys the chana and counts both rows.",
+     "say": "Three coins on plate A and four coins on plate B. Which buys more, or is it the same? Why?",
+     "kid": "Plate A has ₹5, ₹2 and ₹1. Plate B has four ₹2 coins. Guess, then buy and count.",
+     "parent": "Both plates buy 8 chana. Different coins, and a different number of coins, can be the same amount of money.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A: ₹5, ₹2, ₹1",
+        "n": 3
+       },
+       {
+        "label": "B: ₹2 coins",
+        "n": 4
+       }
+      ]
+     },
+     "context": "This is round 4 of the Two Plates Test. Plate A has a ₹5, a ₹2 and a ₹1 coin, and plate B has four ₹2 coins."
+    },
+    {
+     "id": "s7",
+     "mins": 2,
+     "do": "1. Look at the table together. 2. Ask your child what they think, what they saw, and why. 3. Write their words under the table.",
+     "say": "Look at all four rounds. Does the plate with more coins always buy more? What did you see?",
+     "kid": "Look at your table. Did more coins always buy more chana? What did you find?",
+     "ask": [
+      {
+       "q": "What do you think now? What did you see? Why is it so?",
+       "good": [
+        "More coins is not always more money.",
+        "Two coins bought 10 and seven coins bought 7.",
+        "You have to read the number on the coin.",
+        "A big number coin is like many small ones."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "You want to know how much money is in a purse. What do you do?",
+      "options": [
+       "Count how many coins there are",
+       "Read each coin and count the rupees",
+       "Pick the purse that feels heavy"
+      ],
+      "a": 1,
+      "why": "Each coin has its own value, so you read each one and count the rupees. Counting the coins only tells you how many coins there are. In the test, two coins beat seven."
+     },
+     "context": "This is the last step of the Two Plates Test. You say what you found about coins and money."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Coin Rubbings: get to know each coin",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you make a pencil picture of each coin by rubbing over it through paper. The point is to look closely at each coin and learn to tell them apart by the number.",
+   "problem": "Coins look alike at a quick glance. What exactly is on each one?",
+   "materials": [
+    {
+     "item": "one coin of each kind you have at home: ₹1, ₹2, ₹5, ₹10, and ₹20 if you have one",
+     "qty": "4 or 5"
+    },
+    {
+     "item": "thin white paper",
+     "qty": "1 sheet"
+    },
+    {
+     "item": "a soft pencil or a crayon",
+     "qty": 1
+    },
+    {
+     "item": "scissors (a grown-up cuts)",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep coins and chana away from babies and toddlers, who could choke on them. Wash hands after handling coins.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Rub each coin on both sides, find the number, and put the rubbings in order of value."
+    }
+   ],
+   "record": "Keep the rubbings. Write the value under each one. If you cut them out, they become paper coins for the games.",
+   "setup": [
+    {
+     "art": "A ₹5 coin under a sheet of thin paper, with a child's hand rubbing the side of a pencil lead over the bump.",
+     "caption": "1. Put a coin under the paper. Rub over it with the side of the pencil."
+    },
+    {
+     "art": "A sheet of paper showing grey pencil rubbings of both sides of four coins, the numbers 1, 2, 5 and 10 clearly visible.",
+     "caption": "2. Rub both sides of every coin. Find the number."
+    },
+    {
+     "art": "Four cut-out paper rubbings laid in a row from ₹1 to ₹10 with the value written under each.",
+     "caption": "3. Put the rubbings in order, from the least value to the most."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Lay one coin on the table, number side up. 2. Hold the paper over it. 3. Your child rubs the side of the pencil over the coin. 4. Turn the coin over and rub the other side next to it. 5. Do the same for each coin.",
+     "say": "Rub gently over the coin. Watch the picture come up. What can you see?",
+     "kid": "Put a coin under the paper. Rub over it with the side of your pencil. Do both sides.",
+     "parent": "Hold the paper still, or the picture smudges. A crayon with the wrapper peeled off works well for small hands.",
+     "chart": {
+      "type": "table",
+      "title": "Find the number on each coin",
+      "cols": [
+       "Coin",
+       "Number to find"
+      ],
+      "rows": [
+       [
+        "one rupee",
+        "1"
+       ],
+       [
+        "two rupees",
+        "2"
+       ],
+       [
+        "five rupees",
+        "5"
+       ],
+       [
+        "ten rupees",
+        "10"
+       ],
+       [
+        "twenty rupees",
+        "20"
+       ]
+      ]
+     },
+     "context": "This is the first step of Coin Rubbings. You rub a pencil over each coin through paper to make its picture."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Look at the rubbings together. 2. Ask your child to point to the number on each one. 3. Look for the sign ₹, the lions and the year. 4. Write the value under each rubbing.",
+     "say": "Where is the number on this one? What else can you find on the coin?",
+     "kid": "Point to the number on each rubbing. Can you find the ₹ sign and the lions?",
+     "ask": [
+      {
+       "q": "Which part of the coin tells you how much it is worth?",
+       "good": [
+        "The number.",
+        "The 5.",
+        "The number next to the ₹ sign."
+       ]
+      }
+     ],
+     "context": "This is step 2 of Coin Rubbings. You look at your rubbings and find the number, the ₹ sign and the lions."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. A grown-up cuts out the number-side rubbings. 2. Your child lays them in a row, from the least value to the most. 3. Ask which real coin is biggest, and whether that coin is worth the most.",
+     "say": "Put them in order, from the coin worth the least to the coin worth the most. How do you know the order?",
+     "kid": "Put your rubbings in a row. Start with ₹1. End with the coin worth the most.",
+     "adult": true,
+     "check": {
+      "t": "mcq",
+      "q": "Two coins are the same size. How do you know which is worth more?",
+      "options": [
+       "Pick the shinier one",
+       "Read the number on each",
+       "Pick the heavier one"
+      ],
+      "a": 1,
+      "why": "The number tells the value. A ₹10 coin and a ₹20 coin are the same width, so size cannot tell them apart. Shine only tells you how new a coin is."
+     },
+     "chart": {
+      "type": "dots",
+      "title": "Each coin's value, shown as rupees",
+      "rows": [
+       {
+        "label": "₹1",
+        "n": 1
+       },
+       {
+        "label": "₹2",
+        "n": 2
+       },
+       {
+        "label": "₹5",
+        "n": 5
+       },
+       {
+        "label": "₹10",
+        "n": 10
+       }
+      ]
+     },
+     "context": "This is the last step of Coin Rubbings. You put the coins in order of value by reading their numbers."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Ten Rupees, Many Ways",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you pay ₹10 again and again, each time with different coins. The point is to see that one amount can be made in many ways.",
+   "problem": "A packet of biscuits costs ₹10. How many different ways can you pay for it?",
+   "materials": [
+    {
+     "item": "₹1 coins (real or paper)",
+     "qty": 10
+    },
+    {
+     "item": "₹2 coins (real or paper)",
+     "qty": 5
+    },
+    {
+     "item": "₹5 coins (real or paper)",
+     "qty": 2
+    },
+    {
+     "item": "₹10 coin (real or paper)",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "10 chana, to check each way",
+     "qty": 10
+    }
+   ],
+   "safety": "Keep coins and chana away from babies and toddlers, who could choke on them. Wash hands after handling coins.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Pay ₹10 in as many different ways as you can, check each way, and write each one as a sum."
+    }
+   ],
+   "record": "Write each way as a sum on its own line, such as 5 + 5 or 5 + 2 + 2 + 1. Count how many ways you found.",
+   "setup": [
+    {
+     "art": "A packet of biscuits with a tag saying ₹10, and little heaps of ₹1, ₹2, ₹5 and ₹10 coins sorted beside it.",
+     "caption": "1. Sort the coins. The biscuits cost ₹10."
+    },
+    {
+     "art": "A child laying down two ₹5 coins in front of the biscuit packet, with a sheet of paper nearby showing '5 + 5'.",
+     "caption": "2. Pay ₹10 one way. Write it down."
+    },
+    {
+     "art": "A sheet of paper with five different sums that all make 10, and coins for the latest one laid out above it.",
+     "caption": "3. Take the coins back. Pay ₹10 a new way."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Sort the coins into kinds. 2. Show the biscuit packet, or draw one, with a ₹10 tag. 3. Ask your child to pay ₹10. 4. Count the rupees together to check, and write the way down.",
+     "say": "These biscuits cost ₹10. Pay me ten rupees with any coins you like.",
+     "kid": "The biscuits cost ₹10. Pay with any coins you like. Count the rupees to check.",
+     "parent": "If you do not have enough real coins, cut circles from card and write ₹1, ₹2, ₹5 or ₹10 on each one.",
+     "chart": {
+      "type": "sum",
+      "title": "Which coins make ten?",
+      "rows": [
+       "₹?",
+       "+ ₹?"
+      ],
+      "answer": "₹10"
+     },
+     "context": "This is the first step of Ten Rupees, Many Ways. You pay ₹10 for a packet of biscuits with any coins you choose."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Give the coins back. 2. Ask for a different way to pay ₹10. 3. Check each way by counting on from the biggest coin. 4. Write each way as a sum. 5. Keep going for five minutes.",
+     "say": "Now pay me ₹10 again, but with different coins. How many ways can you find?",
+     "kid": "Pay ₹10 again with different coins. Write each way. How many ways can you find?",
+     "ask": [
+      {
+       "q": "How do you know this way is really ₹10?",
+       "good": [
+        "I counted 5, 7, 9, 10.",
+        "5 and 5 is 10.",
+        "It buys 10 chana."
+       ]
+      }
+     ],
+     "parent": "There are 11 ways with ₹1, ₹2, ₹5 and ₹10 coins. Finding 4 or 5 is a good result at this age. If a way is doubted, buy chana with it: it must buy exactly 10.",
+     "chart": {
+      "type": "dots",
+      "title": "Two of the ways",
+      "rows": [
+       {
+        "label": "₹5 coins",
+        "n": 2
+       },
+       {
+        "label": "₹2 coins",
+        "n": 5
+       }
+      ]
+     },
+     "context": "This is step 2 of Ten Rupees, Many Ways. You look for new ways to pay ₹10 and write each one as a sum."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Look at the list of ways. 2. Ask which way uses the fewest coins and which uses the most. 3. Ask whether the shopkeeper gets more money from the way with the most coins.",
+     "say": "Which way used the fewest coins? Which used the most? Does the shopkeeper get more money that way?",
+     "kid": "Find the way with the fewest coins. Find the way with the most. Are both still ₹10?",
+     "check": {
+      "t": "mcq",
+      "q": "You pay ₹10 with ten ₹1 coins. Your friend pays with one ₹10 coin. Who paid more?",
+      "options": [
+       "I did, with ten coins",
+       "My friend, with the big coin",
+       "We paid the same"
+      ],
+      "a": 2,
+      "why": "Both paid ten rupees. Ten ₹1 coins and one ₹10 coin have the same value. Picking 'I did' means counting coins and not rupees."
+     },
+     "context": "This is step 3 of Ten Rupees, Many Ways. You compare your ways of paying ₹10: fewest coins and most coins."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Practise swapping. 2. Your child gives you five ₹1 coins and you give one ₹5 coin. 3. Ask whether they have more money, less money or the same. 4. Swap two ₹5 coins for one ₹10 coin.",
+     "say": "Give me five ₹1 coins and I will give you this ₹5 coin. Do you have more money now, less, or the same?",
+     "kid": "Swap five ₹1 coins for one ₹5 coin. Do you have more money, less, or the same?",
+     "parent": "Some children feel they have lost money, because five coins became one. Let them buy chana with the ₹5 coin to see that it still buys five.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "you give: ₹1 coins",
+        "n": 5
+       },
+       {
+        "label": "you get: ₹5 coin",
+        "n": 1
+       }
+      ]
+     },
+     "context": "This is the last step of Ten Rupees, Many Ways. You swap small coins for one bigger coin of the same value."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Maths in Life: pay for it yourself",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you go to a real shop or cart with a grown-up, carrying ₹20 in coins. You ask the price, decide whether you have enough, and pay with your own hands. The point is to use money where it is really used.",
+   "problem": "You have ₹20. What can you buy, and how will you pay?",
+   "materials": [
+    {
+     "item": "coins that make ₹20, for example one ₹10, one ₹5, two ₹2 and one ₹1",
+     "qty": "₹20 in all"
+    },
+    {
+     "item": "three packets from the kitchen with a printed price",
+     "qty": 3
+    },
+    {
+     "item": "a small purse or a knotted handkerchief",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up goes with the child to the shop and stays close on the road.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Find printed prices at home, count your ₹20, then go to a nearby shop with a grown-up and buy one thing yourself."
+    }
+   ],
+   "record": "Back home, draw the thing you bought. Write its price and draw the coins you paid with.",
+   "setup": [
+    {
+     "art": "A child turning over a biscuit packet to find the small printed line 'MRP ₹10' on the back.",
+     "caption": "1. At home, find the price printed on three packets."
+    },
+    {
+     "art": "A child counting coins from a small cloth purse onto her palm: a ₹10, a ₹5, two ₹2 coins and a ₹1.",
+     "caption": "2. Count your money. It should be ₹20."
+    },
+    {
+     "art": "A child at a small neighbourhood shop counter handing coins to a woman shopkeeper, a parent standing just behind.",
+     "caption": "3. At the shop, ask the price. If you have enough, pay yourself."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Take three packets from the kitchen shelf. 2. Help your child find the letters MRP and the number after them. 3. Read each price aloud together. 4. Ask which one costs the most.",
+     "say": "Every packet has its price printed on it. Look for the letters MRP. What number comes after them?",
+     "kid": "Look for the letters MRP on a packet. The number after them is the price.",
+     "parent": "MRP means the most a shop may charge for the packet. Some prices will be bigger than 20 or have a dot in them. Just read them aloud for your child and move on.",
+     "chart": {
+      "type": "table",
+      "title": "Prices you might find (yours will differ)",
+      "cols": [
+       "Thing",
+       "Price"
+      ],
+      "rows": [
+       [
+        "small biscuit packet",
+        "₹10"
+       ],
+       [
+        "matchbox",
+        "₹2"
+       ],
+       [
+        "small shampoo sachet",
+        "₹3"
+       ]
+      ]
+     },
+     "context": "This is the first step of Pay for It Yourself. At home, you find the price printed on three packets."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Give your child the coins. 2. Ask them to put the coins in order, biggest value first. 3. They count on aloud to find the amount. 4. Put the coins in the purse.",
+     "say": "Here is your money for the shop. Put the biggest coin first and count the rupees for me.",
+     "kid": "Put your coins in a row. Start with the biggest value. Count the rupees.",
+     "parent": "With ₹10, ₹5, ₹2, ₹2 and ₹1, the count goes 10, 15, 17, 19, 20.",
+     "chart": {
+      "type": "sum",
+      "title": "Your purse",
+      "rows": [
+       "₹10",
+       "+ ₹5",
+       "+ ₹2",
+       "+ ₹2",
+       "+ ₹1"
+      ],
+      "answer": "?"
+     },
+     "context": "This is step 2 of Pay for It Yourself. You count the coins in your purse before you go to the shop."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Walk to a nearby shop, vegetable cart or fruit seller. 2. Your child chooses one small thing and asks its price. 3. Your child decides whether ₹20 is enough. 4. If it is, they count out the coins and pay. 5. If money comes back, they keep it in the purse.",
+     "say": "Ask how much it costs. Do you have enough? Then count out the money and pay.",
+     "kid": "Ask: how much is this? Is your ₹20 enough? Count out the coins and pay.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "The price is more than ₹20. What can you do?",
+       "good": [
+        "Choose something that costs less.",
+        "Ask for a smaller one.",
+        "Come back with more money."
+       ]
+      }
+     ],
+     "parent": "Good things to buy for ₹20 or less: one or two bananas, a lemon, a bunch of curry leaves, a pencil, a small packet of biscuits. Tell the shopkeeper your child is learning to pay. Most are glad to wait.",
+     "context": "This is step 3 of Pay for It Yourself. At the shop, you ask the price, decide if you have enough, and pay."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. At home, ask your child to tell someone what they bought. 2. They say the price and which coins they used. 3. Count any money left in the purse. 4. Draw the thing and the coins.",
+     "say": "Tell Paati what you bought. How much did it cost? Which coins did you give?",
+     "kid": "Tell someone what you bought and what it cost. Draw the coins you paid with.",
+     "check": {
+      "t": "mcq",
+      "q": "You have ₹20. A pencil costs ₹6. Do you have enough?",
+      "options": [
+       "Yes, 20 is more than 6",
+       "No, 6 is too much",
+       "Only if I have 6 coins"
+      ],
+      "a": 0,
+      "why": "Twenty is more than six, so you have enough, and money will be left. Picking the last answer means counting coins. What matters is the rupees."
+     },
+     "context": "This is the last step of Pay for It Yourself. At home, you tell what you bought, what it cost and how you paid."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Look Closely at a Note",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you look at a real ₹10 or ₹20 note the way a detective would. The point is to find the number that gives the note its value, and to see what else is printed on it.",
+   "problem": "A note is a small piece of paper. What is printed on it, and which part tells you what it is worth?",
+   "materials": [
+    {
+     "item": "a ₹10 or ₹20 note, and one other note if you have one",
+     "qty": "1 or 2"
+    },
+    {
+     "item": "a ₹10 coin",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Find the number, the face, the place and the languages on a note, then compare the note with a coin of the same value."
+    }
+   ],
+   "record": "Draw the note. Write its number big. Write how many times you found the number.",
+   "setup": [
+    {
+     "art": "A brown ₹10 note lying flat on a table, front side up, with a child's finger pointing at the number 10 in a corner.",
+     "caption": "1. Lay the note flat. Find the number."
+    },
+    {
+     "art": "The back of a ₹10 note with a child's finger moving down the small box of words in many scripts.",
+     "caption": "2. Turn it over. Find the box with many languages."
+    },
+    {
+     "art": "A ₹10 note and a ₹10 coin side by side on a table with an equals sign drawn between them on paper.",
+     "caption": "3. Put a ₹10 coin next to a ₹10 note. Same value."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay the note flat, face side up. 2. Ask your child to find the number. 3. Count together how many times the number appears on this side. 4. Ask whose face is on the note.",
+     "say": "This is a note. It is money made of paper. Can you find its number? How many times can you find it?",
+     "kid": "Find the number on the note. How many times is it printed? Whose face do you see?",
+     "parent": "The face is Mahatma Gandhi. The number is printed several times, once in Hindi numerals. Hold the note up to a window and a second, faint Gandhi appears in the blank part.",
+     "chart": {
+      "type": "table",
+      "title": "The newest notes and their colours",
+      "cols": [
+       "Note",
+       "Colour"
+      ],
+      "rows": [
+       [
+        "₹10",
+        "brown"
+       ],
+       [
+        "₹20",
+        "greenish yellow"
+       ],
+       [
+        "₹50",
+        "blue"
+       ],
+       [
+        "₹100",
+        "light purple"
+       ],
+       [
+        "₹200",
+        "bright yellow"
+       ],
+       [
+        "₹500",
+        "grey"
+       ]
+      ]
+     },
+     "context": "This is the first step of Look Closely at a Note. You find the number on the front of a real note."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Turn the note over. 2. Look at the picture of the place. 3. Find the box of small writing in many languages. 4. Count the lines in the box. 5. Find a language your family reads.",
+     "say": "Turn it over. What is the picture? Now find the box with many kinds of writing. How many lines are there?",
+     "kid": "Turn the note over. Find the box with many languages. Count the lines. Can you read one?",
+     "ask": [
+      {
+       "q": "Why do you think the value is written in so many languages?",
+       "good": [
+        "So everyone can read it.",
+        "People in India speak many languages.",
+        "So that nobody is left out."
+       ]
+      }
+     ],
+     "parent": "The box has 15 languages, among them Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi and Urdu. Each line says the same thing: the value of the note.",
+     "context": "This is step 2 of Look Closely at a Note. On the back, you find the picture and the box with the value in many languages."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Put a ₹10 coin next to a ₹10 note. If your note is ₹20, use two ₹10 coins. 2. Ask what is the same and what is different. 3. Ask which one buys more.",
+     "say": "Here is a note and here is a coin. What is different? What is the same? Which one buys more?",
+     "kid": "Put the coin next to the note. What is the same? Which one buys more?",
+     "check": {
+      "t": "mcq",
+      "q": "A ₹10 note and a ₹10 coin: which buys more?",
+      "options": [
+       "The note, it is bigger",
+       "The coin, it is metal",
+       "They buy the same"
+      ],
+      "a": 2,
+      "why": "Both say 10, so both are worth ten rupees. Paper or metal, big or small, makes no difference to the value."
+     },
+     "chart": {
+      "type": "dots",
+      "title": "In the chana shop",
+      "rows": [
+       {
+        "label": "a ₹10 note buys",
+        "n": 10
+       },
+       {
+        "label": "a ₹10 coin buys",
+        "n": 10
+       }
+      ]
+     },
+     "context": "This is the last step of Look Closely at a Note. You compare a note with a coin of the same value."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "The Swap Game: shopping without money",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity three people each have one thing and want another, and there is no money. The point is to feel why swapping is hard, and what coins make easier.",
+   "problem": "Kavya has a mango and wants a pencil. Farhan has a pencil and wants a balloon. Meena has a balloon and wants a mango. Can everyone get what they want?",
+   "materials": [
+    {
+     "item": "three things to stand for the mango, the pencil and the balloon (real ones, or drawings on slips of paper)",
+     "qty": 3
+    },
+    {
+     "item": "three name slips: Kavya, Farhan, Meena",
+     "qty": 3
+    },
+    {
+     "item": "₹5 coins (real or paper)",
+     "qty": 3
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Try to get everyone what they want by swapping only. Then give everyone a ₹5 coin and try again."
+    }
+   ],
+   "record": "Draw the three people in a ring. Draw arrows to show who gave what to whom.",
+   "setup": [
+    {
+     "art": "Three name slips on a table in a triangle, Kavya with a mango, Farhan with a pencil, Meena with a balloon.",
+     "caption": "1. Give each person one thing."
+    },
+    {
+     "art": "Two hands offering a mango and a pencil to each other, the hand holding the pencil pulling back.",
+     "caption": "2. Try to swap. Does the other person want what you have?"
+    },
+    {
+     "art": "The same three name slips, now each with a ₹5 coin beside the thing they hold.",
+     "caption": "3. Now give each person a ₹5 coin and try again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Lay out the three name slips. 2. Put the mango by Kavya, the pencil by Farhan and the balloon by Meena. 3. Read out what each person wants. 4. Your child tries to help Kavya get a pencil by swapping.",
+     "say": "There is no money here. Kavya wants Farhan's pencil. She offers her mango. But what does Farhan want?",
+     "kid": "Kavya wants the pencil. She offers her mango. Does Farhan want a mango?",
+     "ask": [
+      {
+       "q": "Why can Kavya and Farhan not just swap?",
+       "good": [
+        "Farhan does not want a mango.",
+        "He wants a balloon.",
+        "They do not want each other's things."
+       ]
+      }
+     ],
+     "parent": "Let your child get stuck. Some children find the answer: all three pass their thing one place round the ring. That works here, but only because the ring closes.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Who",
+       "Has",
+       "Wants"
+      ],
+      "rows": [
+       [
+        "Kavya",
+        "mango",
+        "pencil"
+       ],
+       [
+        "Farhan",
+        "pencil",
+        "balloon"
+       ],
+       [
+        "Meena",
+        "balloon",
+        "mango"
+       ]
+      ]
+     },
+     "context": "This is the first step of the Swap Game. Three people each have one thing and want another, and there is no money."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Give each person a ₹5 coin. 2. Say that every thing costs ₹5. 3. Your child helps Kavya buy the pencil from Farhan. 4. Then Farhan buys the balloon, and Meena buys the mango.",
+     "say": "Now everyone has ₹5, and each thing costs ₹5. Can Kavya get her pencil now?",
+     "kid": "Now each person has ₹5. Each thing costs ₹5. Help Kavya buy the pencil.",
+     "parent": "Farhan takes the coin though he does not want a coin. He takes it because he knows Meena will take it for the balloon.",
+     "context": "This is step 2 of the Swap Game. Now each person has a ₹5 coin and each thing costs ₹5."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Look at where the coins are now. 2. Ask who has what. 3. Ask what the coin did that the mango could not.",
+     "say": "Everyone has what they wanted. And look, everyone still has a ₹5 coin. What did the coins do?",
+     "kid": "Does everyone have what they wanted? Who has the coins now? What did the coins do?",
+     "check": {
+      "t": "mcq",
+      "q": "Farhan did not want a mango. Why did he take a ₹5 coin for his pencil?",
+      "options": [
+       "Coins are shiny",
+       "He can buy what he wants with it",
+       "He had to"
+      ],
+      "a": 1,
+      "why": "Farhan can use the coin to buy the balloon, because Meena will take it too. Everyone takes a coin because everyone else does."
+     },
+     "context": "This is the last step of the Swap Game. You look at what the coins made possible."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Fill the Purse",
+   "mins": 10,
+   "players": "1 to 3 players: alone, with a parent or with friends",
+   "context": "This is a dice game with a bank of coins. You collect ₹1 coins and swap them for bigger coins. The first player to hold two ₹10 coins wins. It builds quick counting of rupees and swapping coins for the same value.",
+   "printables": [
+    {
+     "kind": "tokens",
+     "title": "Paper coins for the bank: twenty of ₹1, four of ₹5 and six of ₹10 (or use real coins)",
+     "items": [
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹5",
+      "₹5",
+      "₹5",
+      "₹5",
+      "₹10",
+      "₹10",
+      "₹10",
+      "₹10",
+      "₹10",
+      "₹10"
+     ]
+    }
+   ],
+   "rules": [
+    "Put all the coins in the middle. This is the bank. Each player starts with no coins.",
+    "On your turn, roll the dice. Take that many ₹1 coins from the bank.",
+    "Whenever you have five ₹1 coins, you must swap them at the bank for one ₹5 coin. Say 'five ones for a five'.",
+    "Whenever you have two ₹5 coins, you must swap them for one ₹10 coin. Say 'two fives for a ten'.",
+    "After your swaps, say aloud how many rupees you have.",
+    "The first player to hold two ₹10 coins has ₹20 and wins.",
+    "Playing alone: count how many rolls you need to reach ₹20. Play again and try to need fewer."
+   ],
+   "setup": [
+    {
+     "art": "A dice and three little heaps of paper coins in the middle of a mat, marked ₹1, ₹5 and ₹10, with two children sitting on either side.",
+     "caption": "1. Put the coins in the middle. This is the bank."
+    },
+    {
+     "art": "A dice showing 4 and a child's hand taking four ₹1 coins from the bank.",
+     "caption": "2. Roll. Take that many ₹1 coins."
+    },
+    {
+     "art": "A child pushing five ₹1 coins back to the bank with one hand and taking a single ₹5 coin with the other.",
+     "caption": "3. Five ₹1 coins? Swap them for one ₹5 coin."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out the paper coins, or use real ones. 2. Put them in three heaps in the middle. 3. Read the rules aloud. 4. Decide who goes first.",
+     "say": "This heap is the bank. We take coins from it and swap coins with it. The first to get two ₹10 coins wins.",
+     "kid": "Put the coins in three heaps in the middle. That is the bank.",
+     "chart": {
+      "type": "dots",
+      "title": "The bank",
+      "rows": [
+       {
+        "label": "₹1 coins",
+        "n": 20
+       },
+       {
+        "label": "₹5 coins",
+        "n": 4
+       },
+       {
+        "label": "₹10 coins",
+        "n": 6
+       }
+      ]
+     },
+     "context": "This is the first step of Fill the Purse, a dice game where you collect and swap coins. Here you set up the bank."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Play one practice turn each. 2. Show a swap. 3. With six ₹1 coins, push five to the bank and take a ₹5 coin. 4. Say the amount: 5 and 1 is ₹6.",
+     "say": "I have six ₹1 coins. Five of them go to the bank, and I take a ₹5 coin. Now I have ₹6.",
+     "kid": "Roll and take ₹1 coins. Got five? Swap them for one ₹5 coin.",
+     "check": {
+      "t": "mcq",
+      "q": "You have four ₹1 coins and you roll 3. After you swap, what do you hold?",
+      "options": [
+       "Seven ₹1 coins",
+       "One ₹5 coin and two ₹1 coins",
+       "One ₹10 coin"
+      ],
+      "a": 1,
+      "why": "Four and three make seven ₹1 coins. Five of them become one ₹5 coin, and two are left. It is still ₹7."
+     },
+     "parent": "The amount does not change in a swap. Ask 'how much before?' and 'how much after?' the first few times.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "before: ₹1 coins",
+        "n": 7
+       },
+       {
+        "label": "after: ₹5 coin",
+        "n": 1
+       },
+       {
+        "label": "after: ₹1 coins",
+        "n": 2
+       }
+      ]
+     },
+     "context": "This is step 2 of Fill the Purse, a dice game where you collect and swap coins. Here you practise a swap."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play the game. 2. After each turn, the player says their amount aloud. 3. Now and then, ask how many more rupees a player needs for the next swap.",
+     "say": "How much do you have now? How many more rupees until your next swap?",
+     "kid": "Play the game. After each turn, say how many rupees you have.",
+     "ask": [
+      {
+       "q": "You have a ₹10 coin, a ₹5 coin and three ₹1 coins. How much is that?",
+       "good": [
+        "18.",
+        "10, 15, 16, 17, 18."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Fill the Purse, a dice game where you collect and swap coins. Here you play."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. When someone holds two ₹10 coins, the game ends. 2. Each player counts their rupees aloud. 3. Ask who was closest to ₹20.",
+     "say": "Who has two ₹10 coins? Everyone else, count your rupees. Who came closest?",
+     "kid": "Two ₹10 coins wins. Count your rupees. How close did you get?",
+     "context": "This is the last step of Fill the Purse, a dice game where you collect and swap coins. Here the game ends and everyone counts."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Pay the Price",
+   "mins": 10,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a card game. Each card shows a thing and its price. You pay the exact price with coins from a shared pile, and the back of the card shows one right way. It builds quick counting of mixed coins.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "Price cards, with one way to pay on the back",
+     "items": [
+      {
+       "f": "Toffee ₹1",
+       "b": "1"
+      },
+      {
+       "f": "Balloon ₹2",
+       "b": "2, or 1 + 1"
+      },
+      {
+       "f": "Eraser ₹3",
+       "b": "2 + 1"
+      },
+      {
+       "f": "Lemon ₹4",
+       "b": "2 + 2"
+      },
+      {
+       "f": "Sharpener ₹5",
+       "b": "5, or 2 + 2 + 1"
+      },
+      {
+       "f": "Pencil ₹6",
+       "b": "5 + 1"
+      },
+      {
+       "f": "Banana ₹7",
+       "b": "5 + 2"
+      },
+      {
+       "f": "Chikki ₹8",
+       "b": "5 + 2 + 1"
+      },
+      {
+       "f": "Crayon ₹9",
+       "b": "5 + 2 + 2"
+      },
+      {
+       "f": "Biscuits ₹10",
+       "b": "10, or 5 + 5"
+      },
+      {
+       "f": "Murukku ₹12",
+       "b": "10 + 2"
+      },
+      {
+       "f": "Notebook ₹15",
+       "b": "10 + 5"
+      }
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "Coins for the pile (or use real coins)",
+     "items": [
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹1",
+      "₹2",
+      "₹2",
+      "₹2",
+      "₹5",
+      "₹5",
+      "₹10",
+      "₹10"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the price cards and put them in a stack, price side up. Put the coins in a pile that everyone can reach.",
+    "On your turn, read the price on the top card. Pay that exact amount with coins from the pile.",
+    "The other players check by counting the rupees aloud. Then turn the card over to see one way to pay.",
+    "If your coins make the exact price, you keep the card. Your way does not have to match the back of the card.",
+    "If the amount is wrong, the card goes to the bottom of the stack.",
+    "Put the coins back in the pile after every turn.",
+    "When the stack is gone, the player with the most cards wins.",
+    "Playing alone: pay every card. Then go through the stack again and pay each price a different way."
+   ],
+   "setup": [
+    {
+     "art": "A stack of small price cards, the top one showing a pencil and ₹6, beside a pile of mixed coins on a mat.",
+     "caption": "1. Stack the cards, price side up. Put the coins in a pile."
+    },
+    {
+     "art": "A child placing a ₹5 coin and a ₹1 coin next to a card that says 'Pencil ₹6'.",
+     "caption": "2. Read the price. Pay it exactly with coins."
+    },
+    {
+     "art": "The pencil card turned over to show '5 + 1' on the back, with another child counting the two coins.",
+     "caption": "3. Check by counting. Turn the card to see one way."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out the cards, or write them on slips of paper with the answer on the back. 2. Stack them price side up. 3. Put the coins in a pile. 4. Read the rules aloud.",
+     "say": "Each card is a thing in a shop, with its price. You pay the exact price with coins from this pile.",
+     "kid": "Stack the cards with the price side up. Put the coins in a pile.",
+     "parent": "The prices are made up for the game, so that they fit the coins. Real prices are often higher.",
+     "chart": {
+      "type": "dots",
+      "title": "The coin pile",
+      "rows": [
+       {
+        "label": "₹1 coins",
+        "n": 4
+       },
+       {
+        "label": "₹2 coins",
+        "n": 3
+       },
+       {
+        "label": "₹5 coins",
+        "n": 2
+       },
+       {
+        "label": "₹10 coins",
+        "n": 2
+       }
+      ]
+     },
+     "context": "This is the first step of Pay the Price, a card game where you pay exact prices with coins. Here you set up."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Play one practice card together. 2. Turn up 'Chikki ₹8'. 3. Show how to start with the biggest coin that fits. 4. Count on aloud: 5, 7, 8.",
+     "say": "The chikki costs ₹8. A ₹10 coin is too much. So I start with ₹5. Then ₹2 makes 7. Then ₹1 makes 8.",
+     "kid": "The chikki costs ₹8. Start with a ₹5 coin. What else do you need?",
+     "check": {
+      "t": "mcq",
+      "q": "A banana costs ₹7. Which coins pay it exactly?",
+      "options": [
+       "₹5 and ₹2",
+       "₹5 and ₹5",
+       "Seven ₹2 coins"
+      ],
+      "a": 0,
+      "why": "5 and 2 make 7. Two ₹5 coins make 10, which is too much. Seven ₹2 coins make 14: that mixes up seven coins with seven rupees."
+     },
+     "chart": {
+      "type": "sum",
+      "title": "One way to pay for the chikki",
+      "rows": [
+       "₹5",
+       "+ ₹2",
+       "+ ₹1"
+      ],
+      "answer": "₹8"
+     },
+     "context": "This is step 2 of Pay the Price, a card game where you pay exact prices with coins. Here you practise one card."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play the game. 2. Each payment is counted aloud by another player. 3. Now and then, ask whether there is another way to pay the same price.",
+     "say": "Count her coins aloud to check. Is there another way to pay the same price?",
+     "kid": "Play the game. Count the other player's coins aloud to check.",
+     "ask": [
+      {
+       "q": "Can you pay ₹6 without using a ₹5 coin?",
+       "good": [
+        "2 + 2 + 2.",
+        "Yes, three ₹2 coins.",
+        "2 + 2 + 1 + 1."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Pay the Price, a card game where you pay exact prices with coins. Here you play."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. When the stack is gone, each player counts their cards. 2. Ask which price was the hardest to pay, and why.",
+     "say": "Count your cards. Which price was the hardest to pay? Why?",
+     "kid": "Count your cards. Which price was the hardest to pay?",
+     "context": "This is the last step of Pay the Price, a card game where you pay exact prices with coins. Here you count your cards."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Our Home Shop: three days of buying and selling",
+   "mins": 30,
+   "days": 3,
+   "context": "In this three-day project you set up a small shop at home with price tags. First you are the customer with ₹20 to spend. On the last day you are the shopkeeper, and you check every payment.",
+   "problem": "You have ₹20. How much can you spend, and on what?",
+   "materials": [
+    {
+     "item": "six small things from around the house to sell, such as a pencil, an eraser, a lemon, a comb, a toy and a spoon",
+     "qty": 6
+    },
+    {
+     "item": "slips of paper for price tags, and a pencil",
+     "qty": 6
+    },
+    {
+     "item": "coins, real or paper: five ₹1, four ₹2, two ₹5 and two ₹10",
+     "qty": "13 coins"
+    },
+    {
+     "item": "a small box or steel plate for the shop's money",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep coins and chana away from babies and toddlers, who could choke on them. Wash hands after handling coins.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Choose six things, write a price tag for each, and lay out the shop."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "You are the customer with ₹20. Buy one thing, then two things together."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "You are the shopkeeper. Check each payment by counting the rupees."
+    }
+   ],
+   "record": "On day 2, write what you bought and what it cost. On day 3, write a bill for one customer: the things, the prices and the total.",
+   "setup": [
+    {
+     "art": "Six small household things in a row on a low stool, each with a paper price tag from ₹2 to ₹15.",
+     "caption": "1. Make price tags. Lay out the shop."
+    },
+    {
+     "art": "A child customer holding a purse and handing a ₹5 coin and a ₹1 coin to a parent sitting behind the stool.",
+     "caption": "2. Be the customer. You have ₹20."
+    },
+    {
+     "art": "The child now sitting behind the stool, counting coins from a parent's hand into a steel plate.",
+     "caption": "3. Be the shopkeeper. Count every payment."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Choose six small things together. 2. Decide a price for each: ₹2, ₹4, ₹6, ₹8, ₹10 and ₹15. 3. Your child writes each price on a slip with the ₹ sign. 4. Lay out the shop on a stool or a mat.",
+     "say": "This is our shop. Which thing should cost the most? Which should cost the least? Write the price on each tag.",
+     "kid": "Choose six things for your shop. Write a price tag for each one.",
+     "wait": "Come back tomorrow for day 2, when you are the customer.",
+     "parent": "Let your child choose which thing gets which price, and ask why. There is no wrong answer: the seller decides the price.",
+     "chart": {
+      "type": "table",
+      "title": "A price list (choose your own things)",
+      "cols": [
+       "Thing",
+       "Price"
+      ],
+      "rows": [
+       [
+        "eraser",
+        "₹2"
+       ],
+       [
+        "lemon",
+        "₹4"
+       ],
+       [
+        "pencil",
+        "₹6"
+       ],
+       [
+        "comb",
+        "₹8"
+       ],
+       [
+        "toy",
+        "₹10"
+       ],
+       [
+        "spoon",
+        "₹15"
+       ]
+      ]
+     },
+     "context": "This is day 1 of Our Home Shop, a three-day project. You choose things to sell and write their price tags."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Give your child ₹20 in coins: one ₹10, one ₹5, two ₹2 and one ₹1. 2. They buy one thing and pay the exact price. 3. Give the coins back. 4. Now ask them to choose two things they can buy together with ₹20. 5. They add the two prices and pay.",
+     "say": "You have ₹20. First buy one thing. Then find two things you can buy together. How do you know you have enough?",
+     "kid": "You have ₹20. Buy one thing. Then find two things you can buy together.",
+     "wait": "Come back tomorrow for day 3, when you are the shopkeeper.",
+     "ask": [
+      {
+       "q": "Can you buy the ₹8 thing and the ₹15 thing together? Why?",
+       "good": [
+        "No, that is more than 20.",
+        "8 and 15 is 23.",
+        "I do not have enough."
+       ]
+      }
+     ],
+     "parent": "To add two prices, your child can lay out the coins for both and count them all, starting with the biggest. ₹8 and ₹10 make ₹18, so that pair fits. ₹8 and ₹15 make ₹23, so it does not.",
+     "chart": {
+      "type": "sum",
+      "title": "Your money",
+      "rows": [
+       "₹10",
+       "+ ₹5",
+       "+ ₹2",
+       "+ ₹2",
+       "+ ₹1"
+      ],
+      "answer": "₹20"
+     },
+     "context": "This is day 2 of Our Home Shop, a three-day project. You are the customer and you have ₹20 to spend."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. Swap places. Your child is the shopkeeper. 2. Buy three things, one at a time. 3. Pay the right amount twice. 4. Once, pay ₹1 too little and see whether the shopkeeper notices. 5. Your child counts every payment aloud.",
+     "say": "Now you are the shopkeeper. I want to buy this. Here is my money. Is it right?",
+     "kid": "Now you are the shopkeeper. Count the money for each thing. Is it right?",
+     "check": {
+      "t": "mcq",
+      "q": "The comb costs ₹8. The customer gives ₹5 and ₹2. What do you say?",
+      "options": [
+       "Thank you, that is right",
+       "You need to give ₹1 more",
+       "You gave too much"
+      ],
+      "a": 1,
+      "why": "5 and 2 make 7. The price is 8, so the customer must give ₹1 more. A shopkeeper counts the rupees every time."
+     },
+     "parent": "If your child misses the short payment, do not point it out at once. Ask them to count it once more, pushing each coin.",
+     "context": "This is day 3 of Our Home Shop, a three-day project. You are the shopkeeper and you check every payment."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Stretch: pay with the fewest coins",
+   "mins": 20,
+   "context": "This is a puzzle that goes past Class 1. You pay each price with as few coins as you can, and then invent your own set of coins for a new country. The point is to see that people chose which coins to make.",
+   "problem": "A purse full of coins is heavy. For any price up to ₹20, find the way to pay that uses the fewest coins. Then find the price that needs the most coins even so.",
+   "constraints": [
+    "You may use only ₹1, ₹2, ₹5 and ₹10 coins.",
+    "You must pay the exact price, not more.",
+    "For each price, you must be sure that no way uses fewer coins."
+   ],
+   "materials": [
+    "coins, real or paper: four ₹1, four ₹2, two ₹5 and two ₹10",
+    "paper and a pencil",
+    "three blank paper circles for your own coins"
+   ],
+   "general": [
+    "Start with the biggest coin that is not more than the price. Then do the same for what is left.",
+    "Lay out any way to pay, then swap small coins for bigger ones wherever you can.",
+    "Write the prices 1 to 20 in a list and fill in the fewest coins for each."
+   ],
+   "creative": [
+    "Look for a pattern: which prices need only one coin? Which need two?",
+    "Ask what would change if there were a ₹3 coin. Which prices would get easier?",
+    "Make a country with only three kinds of coin and test every price from 1 to 10."
+   ],
+   "your_turn": "Invent three coins for a new country. Write a number on each blank circle. One of them must be 1, or some prices cannot be paid. Now pay every price from 1 to 10 with the fewest coins. Is your set better than 1, 2 and 5, or worse?",
+   "setup": [
+    {
+     "art": "A price tag saying ₹8 with eight ₹1 coins in a long row under it, and a child looking doubtful.",
+     "caption": "1. Pay ₹8. Can you use fewer coins?"
+    },
+    {
+     "art": "The same ₹8 tag with just three coins under it: ₹5, ₹2 and ₹1.",
+     "caption": "2. Start with the biggest coin that fits."
+    },
+    {
+     "art": "Three blank paper circles and a pencil, one circle already marked with a 1, a child thinking about the other two.",
+     "caption": "3. Invent your own three coins and test them."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Ask your child to pay ₹8 in any way. 2. Count the coins used. 3. Ask for a way with fewer coins. 4. Keep going until no one can find fewer.",
+     "say": "Pay me ₹8. How many coins did you use? Can you pay ₹8 with fewer coins?",
+     "kid": "Pay ₹8. Count your coins. Now pay ₹8 with fewer coins.",
+     "parent": "The fewest is three coins: ₹5, ₹2 and ₹1. Two coins cannot make 8: try every pair and see.",
+     "chart": {
+      "type": "dots",
+      "title": "One way to pay ₹8 uses four coins",
+      "rows": [
+       {
+        "label": "₹2 coins",
+        "n": 4
+       }
+      ]
+     },
+     "context": "This is the first step of the fewest coins puzzle. You pay ₹8 and try to use as few coins as you can."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Show the trick: take the biggest coin that is not more than the price. 2. Then do the same for what is left. 3. Try it for ₹13, ₹17 and ₹19. 4. Write the number of coins for each.",
+     "say": "Here is a trick. Take the biggest coin that fits. Then look at what is left and do it again. Try ₹13.",
+     "kid": "Take the biggest coin that fits. Then do it again for what is left. Try ₹13.",
+     "check": {
+      "t": "mcq",
+      "q": "What is the fewest number of coins that pays ₹9?",
+      "options": [
+       "2 coins",
+       "3 coins",
+       "9 coins"
+      ],
+      "a": 1,
+      "why": "₹5, ₹2 and ₹2 make 9 with three coins. No two coins make 9. Nine ₹1 coins also pay it, but that is the most coins, not the fewest."
+     },
+     "parent": "₹13 is 10 + 2 + 1, three coins. ₹17 is 10 + 5 + 2, three coins. ₹19 is 10 + 5 + 2 + 2, four coins.",
+     "chart": {
+      "type": "sum",
+      "title": "Biggest coin first",
+      "rows": [
+       "₹10",
+       "+ ₹2",
+       "+ ₹1"
+      ],
+      "answer": "₹13"
+     },
+     "context": "This is step 2 of the fewest coins puzzle. You learn the trick of taking the biggest coin first."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Write the prices 1 to 20 down the page. 2. Your child finds the fewest coins for each and writes the number. 3. Ask which prices need only one coin. 4. Ask which price needs the most coins.",
+     "say": "Now do every price from 1 to 20. Which prices need just one coin? Which price needs the most?",
+     "kid": "Write 1 to 20. Find the fewest coins for each. Which price needs the most coins?",
+     "parent": "One coin: 1, 2, 5, 10. Two coins: 3, 4, 6, 7, 11, 12, 15, 20. Three coins: 8, 9, 13, 14, 16, 17. Four coins: 18 and 19. If you count a ₹20 coin, then 20 needs one.",
+     "chart": {
+      "type": "table",
+      "title": "Part of a finished list",
+      "cols": [
+       "Price",
+       "Fewest coins",
+       "How"
+      ],
+      "rows": [
+       [
+        "₹6",
+        "2",
+        "5 + 1"
+       ],
+       [
+        "₹9",
+        "3",
+        "5 + 2 + 2"
+       ],
+       [
+        "₹15",
+        "2",
+        "10 + 5"
+       ],
+       [
+        "₹18",
+        "4",
+        "10 + 5 + 2 + 1"
+       ]
+      ]
+     },
+     "context": "This is step 3 of the fewest coins puzzle. You find the fewest coins for every price from ₹1 to ₹20."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Give your child three blank circles. 2. They write a number on each to make their own coins. 3. They pay each price from 1 to 10 with the fewest of their coins. 4. Compare with the real 1, 2 and 5.",
+     "say": "Now make your own three coins for a new country. Which numbers will you choose? Test every price up to 10.",
+     "kid": "Make three coins of your own. Write a number on each. Pay every price from 1 to 10.",
+     "ask": [
+      {
+       "q": "Why did the people who make our coins choose 1, 2, 5 and 10?",
+       "good": [
+        "You can make every price.",
+        "You do not need many coins.",
+        "They are easy to add."
+       ]
+      }
+     ],
+     "parent": "With 1, 2 and 5, no price up to 10 needs more than three coins. With 1, 5 and 10, the price ₹4 needs four coins and ₹9 needs five. With 1, 3 and 4, every price up to 10 also needs three coins or fewer. There is more than one good answer, which is why this was a choice.",
+     "context": "This is the last step of the fewest coins puzzle. You invent your own set of three coins and test it."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Read the Coins (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "fill",
+     "p": "Count the rupees. There are ₹____ here.",
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "Each coin is ₹1. Touch each coin and count: 1, 2, 3, 4, 5, 6. That is ₹6.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "₹1 coins",
+        "n": 6
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Which coin is worth the most?",
+     "opts": [
+      "₹2",
+      "₹10",
+      "₹5"
+     ],
+     "a": 1,
+     "why": "Read the numbers. Ten is the biggest number, so the ₹10 coin is worth the most."
+    },
+    {
+     "t": "fill",
+     "p": "One ₹5 coin is worth the same as ____ coins of ₹1.",
+     "a": [
+      "5",
+      "five"
+     ],
+     "why": "The number on the coin says 5, so it is worth five rupees. Five ₹1 coins are also five rupees."
+    },
+    {
+     "t": "truefalse",
+     "p": "A coin with more sides or a bigger size is always worth more.",
+     "a": false,
+     "why": "False. A ₹10 coin and a ₹20 coin are the same width. Only the number on the coin tells its value."
+    },
+    {
+     "t": "fill",
+     "p": "Count on from the ₹5 coin. How many rupees in all? ₹____",
+     "a": [
+      "8",
+      "eight"
+     ],
+     "why": "Start at 5. Count on for each ₹1 coin: 6, 7, 8. That is ₹8.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "₹5 coin",
+        "n": 1
+       },
+       {
+        "label": "₹1 coins",
+        "n": 3
+       }
+      ]
+     }
+    },
+    {
+     "t": "order",
+     "p": "Put these coins in order, from the least value to the most.",
+     "items": [
+      "₹5",
+      "₹1",
+      "₹10",
+      "₹2"
+     ],
+     "a": [
+      "₹1",
+      "₹2",
+      "₹5",
+      "₹10"
+     ],
+     "why": "Read the numbers: 1 comes first, then 2, then 5, then 10. A number you reach later when counting is worth more."
+    },
+    {
+     "t": "mcq",
+     "p": "A lemon costs ₹4. You have ₹5. Can you buy it?",
+     "opts": [
+      "Yes, 5 is more than 4",
+      "No, 5 is less than 4",
+      "No, I need 4 coins"
+     ],
+     "a": 0,
+     "why": "Five is more than four, so you have enough. Picking 'I need 4 coins' means counting coins. What matters is the rupees.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "value": 5,
+      "title": "Your money is at 5. Find the price, 4."
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Add these coins. They make ₹____.",
+     "a": [
+      "5",
+      "five"
+     ],
+     "why": "2 and 2 make 4. One more makes 5. Three coins, five rupees.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "₹2",
+       "+ ₹2",
+       "+ ₹1"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "match",
+     "p": "Match each one to the same amount in other coins.",
+     "pairs": [
+      [
+       "one ₹10 note",
+       "two ₹5 coins"
+      ],
+      [
+       "one ₹20 note",
+       "two ₹10 coins"
+      ],
+      [
+       "one ₹5 coin",
+       "five ₹1 coins"
+      ],
+      [
+       "one ₹2 coin",
+       "two ₹1 coins"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Count the rupees on each side. Two fives are 10. Two tens are 20. Five ones are 5. Two ones are 2."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the coins you would use to pay ₹7. Write the number on each coin.",
+     "a": "One way is a ₹5 coin and a ₹2 coin. Any coins that add up to 7 are right.",
+     "why": "5 and 2 make 7. So do 2 + 2 + 2 + 1, and seven ₹1 coins. Check a drawing by counting its rupees."
+    },
+    {
+     "t": "write",
+     "p": "You have two coins. Your friend has five coins. Who has more money? Say what you must know first.",
+     "lines": 2,
+     "a": "We cannot tell yet. We must read the number on each coin and count the rupees.",
+     "why": "A strong answer says that the number of coins is not enough. Two ₹5 coins are more than five ₹1 coins.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a ₹10 coin and a ₹10 note. Circle the part that tells you the value.",
+     "a": "A round coin and a paper note, each with the number 10 circled.",
+     "why": "The coin and the note look different, but both carry the number 10. The number is what gives the value.",
+     "how": "a4"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Same Amount, Many Ways (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "Two ₹5 coins make ₹____.",
+     "a": [
+      "10",
+      "ten"
+     ],
+     "why": "5 and 5 make 10. Two ₹5 coins can be swapped for one ₹10 coin.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "₹5",
+       "+ ₹5"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Count on, biggest coin first. How much is this? ₹____",
+     "a": [
+      "18",
+      "eighteen"
+     ],
+     "why": "Say 10, then 15, then 17, then 18. The last number is the amount.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "₹10 coin",
+        "n": 1
+       },
+       {
+        "label": "₹5 coin",
+        "n": 1
+       },
+       {
+        "label": "₹2 coin",
+        "n": 1
+       },
+       {
+        "label": "₹1 coin",
+        "n": 1
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is NOT a way to make ₹10?",
+     "opts": [
+      "5 + 5",
+      "5 + 2 + 2 + 1",
+      "2 + 2 + 2 + 2"
+     ],
+     "a": 2,
+     "why": "Four twos are 8, not 10. You need five ₹2 coins to make ₹10. The other two ways both come to 10."
+    },
+    {
+     "t": "truefalse",
+     "p": "Three ₹2 coins are more money than five ₹1 coins.",
+     "a": true,
+     "why": "True. Three twos are ₹6. Five ones are ₹5. Six is more than five, though there are fewer coins.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "₹2 coins",
+        "n": 3
+       },
+       {
+        "label": "₹1 coins",
+        "n": 5
+       }
+      ]
+     },
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "A pencil costs ₹6. You pay with a ₹5 coin and one more coin. The other coin is ₹____.",
+     "a": [
+      "1",
+      "one"
+     ],
+     "why": "Count on from 5 to 6. That is one step, so you need a ₹1 coin.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "₹5",
+       "+ ₹?"
+      ],
+      "answer": "₹6"
+     }
+    },
+    {
+     "t": "sort",
+     "p": "You have ₹10. Sort each thing: can you buy it or not?",
+     "cats": [
+      "Can buy",
+      "Cannot buy"
+     ],
+     "items": [
+      [
+       "Balloon ₹2",
+       "Can buy"
+      ],
+      [
+       "Notebook ₹15",
+       "Cannot buy"
+      ],
+      [
+       "Biscuits ₹10",
+       "Can buy"
+      ],
+      [
+       "Chikki ₹8",
+       "Can buy"
+      ],
+      [
+       "Ball ₹20",
+       "Cannot buy"
+      ],
+      [
+       "Murukku ₹12",
+       "Cannot buy"
+      ]
+     ],
+     "a": "see items",
+     "why": "You can buy a thing if its price is 10 or less. 2, 8 and 10 are not more than 10. 12, 15 and 20 are more than 10.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "value": 10,
+      "title": "You have ₹10"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "You have these three coins. How much money is it?",
+     "opts": [
+      "₹3",
+      "₹9",
+      "₹7"
+     ],
+     "a": 1,
+     "why": "2 and 2 make 4, and 5 more makes 9. Picking ₹3 means counting the coins and not the rupees.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "₹2",
+       "+ ₹2",
+       "+ ₹5"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Two ₹5 coins and two ₹2 coins make ₹____.",
+     "a": [
+      "14",
+      "fourteen"
+     ],
+     "why": "Count on: 5, 10, 12, 14. That is ₹14."
+    },
+    {
+     "t": "order",
+     "p": "Put these heaps in order, from the least money to the most.",
+     "items": [
+      "two ₹5 coins",
+      "six ₹1 coins",
+      "one ₹2 coin",
+      "four ₹2 coins"
+     ],
+     "a": [
+      "one ₹2 coin",
+      "six ₹1 coins",
+      "four ₹2 coins",
+      "two ₹5 coins"
+     ],
+     "why": "Count the rupees in each heap: 2, then 6, then 8, then 10. The heap with the most coins is not the one with the most money."
+    },
+    {
+     "t": "draw",
+     "p": "Draw two different ways to pay ₹8.",
+     "a": "For example, 5 + 2 + 1 and 2 + 2 + 2 + 2. Any two different sets of coins that add up to 8 are right.",
+     "why": "One amount can be made in many ways. Check each drawing by counting on from the biggest coin.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "Meena pays ₹10 with one coin. Arjun pays ₹10 with ten coins. Did they pay the same? Say why.",
+     "lines": 2,
+     "a": "Yes. One ₹10 coin and ten ₹1 coins are both ten rupees.",
+     "why": "A strong answer says that the value is the same, and that only the number of coins is different."
+    },
+    {
+     "t": "perspective",
+     "p": "You are going to the shop with ₹10. Which is better to carry?",
+     "views": [
+      {
+       "who": "Lakshmi",
+       "says": "One ₹10 coin. It is light, and I cannot lose count."
+      },
+      {
+       "who": "Paati",
+       "says": "Ten ₹1 coins. Then I can pay any small price exactly."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says what is good about the other way. Both are ₹10.",
+     "why": "Both carry the same amount. One coin is easy to carry. Small coins are easy to pay exact prices with. That is why we have both."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Money Puzzles (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "The fewest coins that pay ₹7 exactly is ____ coins.",
+     "a": [
+      "2",
+      "two"
+     ],
+     "why": "A ₹5 coin and a ₹2 coin make 7. No single coin is worth 7, so two is the fewest.",
+     "how": "c1"
+    },
+    {
+     "t": "fill",
+     "p": "This goes past Class 1. A banana costs ₹7. You pay ₹10. You get back ₹____.",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "Count up from 7 to 10: 8, 9, 10. That is three steps, so ₹3 comes back. The money that comes back is called change.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "value": 7,
+      "title": "Start at the price, 7. Hop to 10."
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "You have one ₹10 note and one ₹5 coin. Which can you buy?",
+     "opts": [
+      "A ball for ₹20",
+      "A notebook for ₹15",
+      "Both of them"
+     ],
+     "a": 1,
+     "why": "10 and 5 make 15. That is just enough for the notebook. It is less than 20, so the ball costs too much."
+    },
+    {
+     "t": "truefalse",
+     "p": "A ₹20 note buys more than a ₹20 coin.",
+     "a": false,
+     "why": "False. Both say 20, so both are worth twenty rupees. Paper or metal makes no difference."
+    },
+    {
+     "t": "fill",
+     "p": "____ coins of ₹2 make ₹10.",
+     "a": [
+      "5",
+      "five"
+     ],
+     "why": "Count in twos: 2, 4, 6, 8, 10. You said five numbers, so five coins.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 10,
+      "step": 2,
+      "title": "Hop in twos from 0 to 10"
+     }
+    },
+    {
+     "t": "match",
+     "p": "Match the coins to the amount they make.",
+     "pairs": [
+      [
+       "₹10 + ₹5 + ₹2",
+       "₹17"
+      ],
+      [
+       "₹5 + ₹5 + ₹2",
+       "₹12"
+      ],
+      [
+       "₹10 + ₹2 + ₹2",
+       "₹14"
+      ],
+      [
+       "₹5 + ₹2 + ₹1",
+       "₹8"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Count on from the biggest coin each time. 10, 15, 17. Then 5, 10, 12. Then 10, 12, 14. Then 5, 7, 8."
+    },
+    {
+     "t": "mcq",
+     "p": "Which heap is the most money?",
+     "opts": [
+      "nine ₹1 coins",
+      "three ₹5 coins",
+      "six ₹2 coins"
+     ],
+     "a": 1,
+     "why": "Nine ones are ₹9. Three fives are ₹15. Six twos are ₹12. The heap with the fewest coins is the most money.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "₹1 coins",
+        "n": 9
+       },
+       {
+        "label": "₹5 coins",
+        "n": 3
+       },
+       {
+        "label": "₹2 coins",
+        "n": 6
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "You have ₹20. You buy a notebook for ₹15. You have ₹____ left.",
+     "a": [
+      "5",
+      "five"
+     ],
+     "why": "Take 15 away from 20. Count up from 15: 16, 17, 18, 19, 20. That is 5.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "₹20",
+       "− ₹15"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "order",
+     "p": "Pay each price with the fewest coins. Put the prices in order, from fewest coins to most.",
+     "items": [
+      "₹18",
+      "₹10",
+      "₹7",
+      "₹13"
+     ],
+     "a": [
+      "₹10",
+      "₹7",
+      "₹13",
+      "₹18"
+     ],
+     "why": "₹10 needs one coin. ₹7 needs two: 5 + 2. ₹13 needs three: 10 + 2 + 1. ₹18 needs four: 10 + 5 + 2 + 1.",
+     "how": "c1"
+    },
+    {
+     "t": "write",
+     "p": "You have only ₹5 coins. Can you pay exactly ₹12? Say why.",
+     "lines": 2,
+     "a": "No. With ₹5 coins you can make 5, 10, 15. You jump over 12.",
+     "why": "A strong answer counts in fives and shows that 12 is not one of the numbers. You would need ₹2 or ₹1 coins as well."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the fewest coins that pay ₹19. Write the number on each.",
+     "a": "Four coins: ₹10, ₹5, ₹2 and ₹2.",
+     "why": "Take the biggest coin that fits each time: 10, then 5 makes 15, then 2 makes 17, then 2 makes 19.",
+     "how": "c1"
+    },
+    {
+     "t": "perspective",
+     "p": "What makes a ₹10 coin worth ten rupees?",
+     "views": [
+      {
+       "who": "Farhan",
+       "says": "The metal. A coin is worth what it is made of."
+      },
+      {
+       "who": "Kavya",
+       "says": "People. It is worth ten because everyone agrees to take it for ten."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says what the other person has right. Old silver coins were worth their metal. Today's steel coins are not.",
+     "why": "Today the metal in a ₹10 coin is not what gives it its value. People agree on the value. But long ago, silver coins were worth about as much as their silver."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which of these is a real coin of India?",
+   "opts": [
+    "₹3",
+    "₹5",
+    "₹7"
+   ],
+   "a": 1,
+   "why": "India's coins are ₹1, ₹2, ₹5, ₹10 and ₹20. There is no ₹3 or ₹7 coin. We make 3 and 7 with other coins.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You find a note on the table. How do you know how much it is worth?",
+   "opts": [
+    "By its size",
+    "By the number on it",
+    "By how new it looks"
+   ],
+   "a": 1,
+   "why": "The number printed on the note is its value. Size and newness do not tell you.",
+   "outcome": 0
+  },
+  {
+   "t": "truefalse",
+   "p": "More coins always means more money.",
+   "a": false,
+   "why": "False. Look at the picture: seven ₹1 coins are ₹7, and two ₹5 coins are ₹10. You must count the rupees, not the coins.",
+   "outcome": 1,
+   "how": "e1",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "₹1 coins",
+      "n": 7
+     },
+     {
+      "label": "₹5 coins",
+      "n": 2
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Which is more money: one ₹10 coin, or eight ₹1 coins?",
+   "opts": [
+    "The one ₹10 coin",
+    "The eight ₹1 coins",
+    "They are the same"
+   ],
+   "a": 0,
+   "why": "The one coin is ₹10 and the eight coins are ₹8. Ten is more than eight. Picking the eight coins means counting coins and not rupees.",
+   "outcome": 1
+  },
+  {
+   "t": "fill",
+   "p": "How many rupees are in the picture? ₹____",
+   "a": [
+    "10",
+    "ten"
+   ],
+   "why": "Start with the biggest coin and count on: 5, 7, 9, 10. That is ₹10.",
+   "outcome": 2,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "₹5 coin",
+      "n": 1
+     },
+     {
+      "label": "₹2 coins",
+      "n": 2
+     },
+     {
+      "label": "₹1 coin",
+      "n": 1
+     }
+    ]
+   }
+  },
+  {
+   "t": "fill",
+   "p": "Add the three coins. The amount is ₹____.",
+   "a": [
+    "17",
+    "seventeen"
+   ],
+   "why": "10 and 5 make 15. Two more makes 17.",
+   "outcome": 2,
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "₹10",
+     "+ ₹5",
+     "+ ₹2"
+    ],
+    "answer": "?"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "You count a ₹5 coin, then a ₹2 coin, then a ₹2 coin. What do you say?",
+   "opts": [
+    "1, 2, 3",
+    "5, 7, 9",
+    "5, 6, 7"
+   ],
+   "a": 1,
+   "why": "You count on by the value of each coin: 5, then 2 more is 7, then 2 more is 9. Saying 1, 2, 3 counts the coins.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You have no ₹5 coin. Which coins also make ₹5?",
+   "opts": [
+    "2 + 2 + 1",
+    "2 + 2 + 2",
+    "1 + 1 + 1"
+   ],
+   "a": 0,
+   "why": "2 and 2 make 4, and 1 more makes 5. Three twos make 6, and three ones make only 3.",
+   "outcome": 3
+  },
+  {
+   "t": "truefalse",
+   "p": "Two ₹5 coins are the same amount as one ₹10 coin.",
+   "a": true,
+   "why": "True. 5 and 5 make 10. You can swap two ₹5 coins for one ₹10 coin and have the same money.",
+   "outcome": 3,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "₹5 coins",
+      "n": 2
+     },
+     {
+      "label": "₹10 coin",
+      "n": 1
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "A chikki costs ₹8. You have a ₹5 coin and a ₹2 coin. Can you buy it?",
+   "opts": [
+    "Yes, I have enough",
+    "No, I need ₹1 more",
+    "No, I need ₹8 more"
+   ],
+   "a": 1,
+   "why": "5 and 2 make 7. Seven is one less than eight, so you need ₹1 more.",
+   "outcome": 4,
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 10,
+    "step": 1,
+    "value": 8,
+    "title": "The price is at 8. Where is your money?"
+   }
+  },
+  {
+   "t": "sort",
+   "p": "You have ₹15. Sort each thing: can you buy it or not?",
+   "cats": [
+    "Can buy",
+    "Cannot buy"
+   ],
+   "items": [
+    [
+     "Pencil ₹6",
+     "Can buy"
+    ],
+    [
+     "Ball ₹20",
+     "Cannot buy"
+    ],
+    [
+     "Notebook ₹15",
+     "Can buy"
+    ],
+    [
+     "Kite ₹18",
+     "Cannot buy"
+    ]
+   ],
+   "a": "see items",
+   "why": "You can buy a thing when its price is 15 or less. 6 is less than 15, and 15 is the same. 18 and 20 are more than 15.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why can a ₹10 note buy a packet of biscuits?",
+   "opts": [
+    "The paper is costly",
+    "People agree it is worth ₹10",
+    "It is brown"
+   ],
+   "a": 1,
+   "why": "The paper itself is worth very little. The note works because the shopkeeper, and everyone else, agrees to take it for ten rupees.",
+   "outcome": 5
+  }
+ ],
+ "videos": [
+  {
+   "title": "A short video that shows each Indian coin and note close up (to be chosen)",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 3,
+   "why": "For the child: to see the newest coins and notes large on the screen and name them by reading the number. Watch it after Coin Rubbings.",
+   "check": "No video was confirmed for this slot. A search did not return a YouTube listing that could be checked by title and channel. A person should choose one that shows the ₹20 coin and the newest notes."
+  },
+  {
+   "title": "How coins are made at a mint in India (to be chosen)",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "For the child and parent: to see that a coin starts as a plain metal disc, and gets its value only when the number is stamped on it.",
+   "check": "No video was confirmed for this slot. A person should look for one filmed at an India Government Mint and check it before use."
+  },
+  {
+   "title": "The monkeys of Uluwatu temple who trade stolen things for food (to be chosen)",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "For the child and parent: to watch a macaque take a thing from a visitor and give it back for food. It goes with the card 'Other living beings trade too'.",
+   "check": "No video was confirmed for this slot. News films of the 2021 study by Leca and others exist, but none was looked up by title and channel. A person should choose one."
+  }
+ ],
+ "applications": [
+  "A shopkeeper counts your coins by their value, biggest first, to check the amount in a few seconds.",
+  "A bus conductor swaps your ₹10 coin for a ticket and gives smaller coins back when the ticket costs less.",
+  "A vegetable seller in a weekly market keeps ₹1, ₹2 and ₹5 coins ready so that she can make any small amount.",
+  "A family writes a list before going to the market and adds up the prices to see whether the money is enough.",
+  "People who cannot see tell coins apart by touch. The ₹20 coin has 12 sides so that fingers can find it.",
+  "A hundi or a piggy bank at home fills with small coins, and they are counted and swapped for notes.",
+  "A mint, such as the one in Hyderabad, stamps the number onto plain metal discs to make coins.",
+  "When a grown-up pays by phone, the bank adds and takes away the same amounts you count with coins."
+ ],
+ "spotted": [
+  {
+   "text": "The price printed on a packet. Look for the letters MRP and the ₹ sign on a biscuit packet or a soap.",
+   "art": "The back of a biscuit packet with the line 'MRP ₹10' ringed."
+  },
+  {
+   "text": "The coin box of a tea stall or a flower seller. Coins are often kept sorted by value so they can be counted fast.",
+   "art": "A flower seller's wooden tray with strings of jasmine and a small steel box of sorted coins."
+  },
+  {
+   "text": "A bus ticket. The price is printed on it, and the conductor carries a bag of coins to pay back the extra.",
+   "art": "A bus conductor with a leather bag of coins holding out a small paper ticket."
+  },
+  {
+   "text": "The back of a ₹50 note. It shows the stone chariot at Hampi in Karnataka.",
+   "art": "The back of a blue ₹50 note showing the stone chariot at Hampi."
+  },
+  {
+   "text": "The box of 15 languages on the back of any note. Find the line your family can read.",
+   "art": "A close view of the language panel on the back of an Indian note."
+  },
+  {
+   "text": "A weekly market, a santhai. Sellers call out prices: 'Ten rupees a heap!' Listen for the numbers.",
+   "art": "A woman selling small heaps of tomatoes on a sheet at a weekly market, holding up ten fingers."
+  },
+  {
+   "text": "A sign with a square pattern at a shop counter, for paying by phone. No coin moves, but the same rupees are counted.",
+   "art": "A small printed square code standing on a shop counter next to a jar of toffees."
+  },
+  {
+   "text": "A bee on a flower. She takes nectar and carries pollen to the next flower. This is a trade with no coins.",
+   "art": "A honey bee dusted with yellow pollen drinking from a pumpkin flower."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How did money first begin?",
+   "why_open": "It began before people wrote things down, so there is no record. Many scholars now think that keeping count of who owes whom came before coins, but nobody can be sure."
+  },
+  {
+   "q": "Do the macaques at Uluwatu think of a phone as 'worth more' the way we think of a ₹10 coin?",
+   "why_open": "Scientists can see what the monkeys do. They cannot yet see what the monkeys think while they do it."
+  },
+  {
+   "q": "Will coins and notes disappear one day?",
+   "why_open": "More and more people pay by phone. But many people still use only coins and notes, and nobody knows what people will choose in fifty years."
+  },
+  {
+   "q": "What makes money worth something: trust, the government's rule, or what it is made of?",
+   "why_open": "People who study money have argued about this for more than two thousand years, and they still do."
+  }
+ ],
+ "ask_kids": [
+  "How many coins are in Amma's purse right now? How many rupees is that? Guess first, then count.",
+  "What costs about ₹10 in our street? What costs about ₹100?",
+  "If you had ₹20 at the fruit cart, what would you buy?",
+  "Which would you rather have: ten ₹1 coins or one ₹10 coin? Why?",
+  "What did the shopkeeper give back today? Why did money come back?",
+  "What is something we use every day that nobody pays for?"
+ ],
+ "jokes": [
+  {
+   "j": "What has a head and a tail but no body?",
+   "a": "A coin!"
+  },
+  {
+   "j": "Why is a river so rich?",
+   "a": "She has two banks!"
+  },
+  {
+   "j": "Where does a frog keep her money?",
+   "a": "In a river bank!"
+  },
+  {
+   "j": "Why did the girl put her money in the freezer?",
+   "a": "She wanted cold, hard cash!"
+  },
+  {
+   "j": "What do you call a coin that tells jokes?",
+   "a": "Funny money!"
+  },
+  {
+   "j": "Why did the piggy bank have a tummy ache?",
+   "a": "Too much change!"
+  },
+  {
+   "j": "When does it rain money?",
+   "a": "When there is change in the weather!"
+  },
+  {
+   "j": "Why is the Moon always short of money?",
+   "a": "She is down to her last quarter!"
+  },
+  {
+   "j": "What did the ₹5 coin say to five ₹1 coins?",
+   "a": "Together, you are just like me!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Malar's purse has four coins: ₹5, ₹2, ₹2 and ₹1. How much money is in the purse?",
+   "answer": "₹10.",
+   "explain": "Start with the biggest coin and count on: 5, then 7, then 9, then 10. So the purse holds ₹10.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "e1",
+   "context": "In the Two Plates Test you found how much a plate of coins was worth. Here you do it by counting on, without chana.",
+   "why_maths": "Counting on from the biggest coin is adding. It is how a shopkeeper counts your money in a few seconds.",
+   "chart": {
+    "type": "dots",
+    "title": "The purse",
+    "rows": [
+     {
+      "label": "₹5 coin",
+      "n": 1
+     },
+     {
+      "label": "₹2 coins",
+      "n": 2
+     },
+     {
+      "label": "₹1 coin",
+      "n": 1
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "₹5",
+     "+ ₹2",
+     "+ ₹2",
+     "+ ₹1"
+    ],
+    "answer": "₹10"
+   }
+  },
+  {
+   "problem": "Kavya has three ₹2 coins. Arjun has five ₹1 coins. A pencil costs ₹6. Who can buy the pencil?",
+   "answer": "Kavya.",
+   "explain": "Kavya has 2, 4, 6: that is ₹6, the same as the price. Arjun has ₹5, which is one less than 6. So only Kavya has enough, though she has fewer coins.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "how": "e1",
+   "context": "In the Two Plates Test, the plate with fewer coins sometimes bought more. Here two children have different coins and one price to pay.",
+   "why_maths": "To know who has enough, you compare each amount with the price. Comparing numbers answers the question 'can I buy it?'.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "Kavya: ₹2 coins",
+      "n": 3
+     },
+     {
+      "label": "Arjun: ₹1 coins",
+      "n": 5
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "title": "Count the rupees",
+    "rows": [
+     {
+      "label": "Kavya has ₹",
+      "n": 6
+     },
+     {
+      "label": "Arjun has ₹",
+      "n": 5
+     },
+     {
+      "label": "the pencil costs ₹",
+      "n": 6
+     }
+    ]
+   }
+  },
+  {
+   "problem": "Find three different ways to pay ₹6 with ₹1, ₹2 and ₹5 coins.",
+   "answer": "For example: 5 + 1, and 2 + 2 + 2, and 2 + 2 + 1 + 1.",
+   "explain": "Each way must add up to 6. There are five ways in all. The other two are 2 + 1 + 1 + 1 + 1 and six ₹1 coins.",
+   "math_unit": "math.addition-subtraction.number-facts.L1",
+   "how": "a2",
+   "context": "In Ten Rupees, Many Ways you paid ₹10 with different coins. Here you do the same for ₹6.",
+   "why_maths": "Breaking a number into parts in different ways lets you pay with whatever coins you happen to have.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "₹?",
+     "+ ₹?"
+    ],
+    "answer": "₹6"
+   },
+   "answer_chart": {
+    "type": "table",
+    "cols": [
+     "Way",
+     "Coins",
+     "How many coins"
+    ],
+    "rows": [
+     [
+      "5 + 1",
+      "₹5, ₹1",
+      "2"
+     ],
+     [
+      "2 + 2 + 2",
+      "three ₹2",
+      "3"
+     ],
+     [
+      "2 + 2 + 1 + 1",
+      "two ₹2, two ₹1",
+      "4"
+     ]
+    ]
+   }
+  },
+  {
+   "problem": "You have ₹20. A balloon costs ₹2, a chikki costs ₹8 and a notebook costs ₹15. Which two things can you NOT buy together?",
+   "answer": "The chikki and the notebook.",
+   "explain": "Add each pair. Balloon and chikki: 2 + 8 = 10. Balloon and notebook: 2 + 15 = 17. Chikki and notebook: 8 + 15 = 23. Only 23 is more than 20.",
+   "math_unit": "math.addition-subtraction.word-problems.L1",
+   "how": "p1",
+   "context": "In Our Home Shop you had ₹20 and chose what to buy. Here is the same kind of choice with three price tags.",
+   "why_maths": "Adding the prices before you pay tells you whether your money will be enough. This is the question 'how much can we spend?'.",
+   "chart": {
+    "type": "table",
+    "title": "You have ₹20",
+    "cols": [
+     "Thing",
+     "Price"
+    ],
+    "rows": [
+     [
+      "balloon",
+      "₹2"
+     ],
+     [
+      "chikki",
+      "₹8"
+     ],
+     [
+      "notebook",
+      "₹15"
+     ]
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "₹8",
+     "+ ₹15"
+    ],
+    "answer": "₹23"
+   }
+  },
+  {
+   "problem": "This goes past Class 1. A machine gives only ₹2 coins. Which of these prices can you pay exactly: ₹6, ₹7 or ₹8?",
+   "answer": "₹6 and ₹8, but not ₹7.",
+   "explain": "Count in twos: 2, 4, 6, 8, 10. You say 6 and 8, but you jump over 7. To pay ₹7 you would need a ₹1 coin as well. This is one reason we have ₹1 coins.",
+   "math_unit": "math.patterns.number-patterns.L1",
+   "how": "c1",
+   "context": "In the fewest coins puzzle you saw that the kinds of coin we have decide how easy each price is to pay. Here there is only one kind.",
+   "why_maths": "Counting in twos shows a pattern: every second number is missed. The pattern tells you which prices cannot be paid.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 10,
+    "step": 2,
+    "title": "Hop in twos. Where do you land?"
+   },
+   "answer_chart": {
+    "type": "dots",
+    "title": "₹7 falls between them",
+    "rows": [
+     {
+      "label": "₹6: ₹2 coins",
+      "n": 3
+     },
+     {
+      "label": "₹8: ₹2 coins",
+      "n": 4
+     }
+    ]
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.money.L1",
+  "title": "Read the Number, Count the Rupees",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Number Line, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/number-line/",
+   "kind": "interactive",
+   "why": "A free number line on the screen. Draw a hop for each coin to count on: 5, then 7, then 9."
+  },
+  {
+   "title": "Reserve Bank of India",
+   "url": "https://www.rbi.org.in/",
+   "kind": "interactive",
+   "why": "The bank that issues India's notes. Its website has pictures of every note, front and back, for a grown-up to show."
+  },
+  {
+   "title": "RBI Monetary Museum",
+   "url": "https://www.rbi.org.in/",
+   "kind": "place",
+   "where": "Fort, Mumbai",
+   "why": "A free museum of Indian money, from the earliest coins to today's notes. Check the opening days before you go. It is closed on Mondays and bank holidays."
+  },
+  {
+   "title": "The RBI Museum",
+   "url": "https://www.rbi.org.in/",
+   "kind": "place",
+   "where": "B.B.D. Bagh, Kolkata",
+   "why": "The Reserve Bank's second museum of money. Check the timings on the Reserve Bank's website before you go."
+  },
+  {
+   "title": "Corporation Bank Heritage Museum (the Coin Museum)",
+   "url": "",
+   "kind": "place",
+   "where": "Udupi, Karnataka",
+   "why": "A collection of well over a thousand coins, from ancient India to today, in the old house of the bank's founder, Haji Abdullah."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-coins",
+   "item": "A set of play money in Indian rupees (coins and notes)",
+   "kind": "game",
+   "why": "Handy for Fill the Purse, Pay the Price and Our Home Shop if you are short of real coins. Paper coins you cut out yourself work just as well.",
+   "url": "https://www.amazon.in/s?k=indian+play+money+coins+and+notes+for+kids",
+   "used_in": [
+    "g1",
+    "g2",
+    "p1"
+   ]
+  },
+  {
+   "id": "b-dice",
+   "item": "A dice",
+   "kind": "game",
+   "why": "Needed for the game Fill the Purse. Any dice from a ludo or snakes and ladders set will do.",
+   "url": "https://www.amazon.in/s?k=dice+set+for+board+games",
+   "used_in": [
+    "g1"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Which is worth more: a ₹5 coin or a ₹2 coin?",
+   "a": "The ₹5 coin"
+  },
+  {
+   "q": "Two ₹5 coins make ₹____.",
+   "a": "10"
+  },
+  {
+   "q": "Count on: ₹5, ₹7, ₹____ (one more ₹2 coin).",
+   "a": "9"
+  },
+  {
+   "q": "How many ₹1 coins are worth the same as one ₹10 coin?",
+   "a": "10"
+  },
+  {
+   "q": "You have ₹10. The price is ₹8. Do you have enough?",
+   "a": "Yes"
+  },
+  {
+   "q": "Which coin has 12 sides?",
+   "a": "The ₹20 coin"
+  },
+  {
+   "q": "₹2 + ₹2 + ₹1 = ₹____.",
+   "a": "5"
+  },
+  {
+   "q": "Which is more money: three ₹2 coins or five ₹1 coins?",
+   "a": "Three ₹2 coins (₹6)"
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g1",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "g1",
+   "a1",
+   "a2",
+   "story",
+   "ws-core",
+   "g2",
+   "a4",
+   "a3",
+   "a5",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "g1",
+   "a1",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "g1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We read coins, counted rupees and ran a chana shop. Now let us think about what a coin really is.",
+  "deep_truth": {
+   "truth": "In the Two Plates Test, one ₹10 coin bought more chana than eight ₹1 coins. The ₹10 coin is not ten times as big or as heavy. It is worth ten because everyone agrees that it is. So the worth of a coin is not inside the coin. It is a promise that people keep with each other.",
+   "habit": "We think a coin is worth ten by itself, the way a mango is sweet by itself. But a coin is worth ten only while people agree to take it for ten.",
+   "evidence": "In the Two Plates Test, one coin beat eight coins. And in 2016 the old ₹500 and ₹1,000 notes stopped being money in one night, though the paper had not changed."
+  },
+  "three": {
+   "who_am_i": "You are one of the people who make money work. Each time you take a coin and trust it, you keep the promise going.",
+   "what_is_life": "Every living being gives and takes. A bee takes nectar and carries pollen for the flower. People made coins to keep count of their giving and taking.",
+   "what_is_this_world": "A ₹5 banana needed the sun, the rain, the soil, a banana plant and a farmer. The ₹5 pays only the people. The sun and the rain ask for nothing."
+  },
+  "thread": "Money starts from one rupee. Two rupees is one and one more. A ₹10 coin is ten ones made into a single coin. So one coin can hold many, and many coins can be swapped for one. The one and the many are the same amount.",
+  "teachings": [
+   {
+    "source": "Aristotle, Nicomachean Ethics, Book 5, chapter 5",
+    "teaching": "Aristotle, a Greek thinker who lived about 2,300 years ago, says that money exists by agreement and not by nature. He says people have the power to change it, or to make it useless.",
+    "link": "This is what the Two Plates Test and the old ₹500 notes both show. The worth is in what people agree, not in the metal or the paper."
+   },
+   {
+    "source": "Tao Te Ching 33",
+    "teaching": "The Tao Te Ching, an old Chinese book, says: the one who knows they have enough is rich.",
+    "link": "In this unit you asked 'Do I have enough?' and answered it by counting. Enough is not the biggest heap. It is the amount that meets the need."
+   },
+   {
+    "source": "Thirukkural 247",
+    "teaching": "Thiruvalluvar, the Tamil poet, says: this world is not for those who have no wealth, and the other world is not for those who have no kindness.",
+    "link": "Money buys what a shop sells, and a family needs it. The Kural puts kindness beside it as the other thing a person needs, and no coin can buy that."
+   }
+  ],
+  "science": [
+   {
+    "text": "On 8 November 2016, the government of India announced that the ₹500 and ₹1,000 notes of that time would stop being money at midnight. The paper stayed the same. Only the agreement changed.",
+    "status": "settled"
+   },
+   {
+    "text": "What makes money worth something? Some say trust between people. Some say the government's rule. Some say it must stand for something useful, like gold. People who study money still argue about it.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many people through history, and a few thinkers about money today",
+   "view": "They say good money must be worth something by itself. Old rupee coins were made of silver, and the silver could be melted and sold. A paper note is only a promise, and a promise can be broken. Silver and gold stay worth something even when people stop trusting each other."
+  },
+  "practice": {
+   "title": "The coin in your hand",
+   "mins": 3,
+   "say": "Close your eyes and hold out your hand. I am putting one coin in it. Feel the edge, the size and the weight. Guess which coin it is. Now open your eyes and read the number. Your hand could feel the metal. Could your hand feel how much it is worth?",
+   "kid": "Close your eyes. Hold one coin. Feel the edge and the weight. Can your hand feel how much it is worth?"
+  },
+  "ask": [
+   "If everyone forgot what coins were for, would a ₹10 coin still be worth ten?",
+   "A coin is worth ten because we all agree. What else is true only because we all agree?",
+   "Is there anything you would not swap for any amount of money? Why?",
+   "The rain asks for nothing. Is there a way to give something back to the rain?"
+  ],
+  "art": "A child sitting with eyes closed and one hand held out, a single coin resting on her palm, with a shopkeeper, a milkman and a bus conductor drawn faintly in a ring behind her."
+ },
+ "how_we_found_out": {
+  "context": "How did money begin? This card tells how one old story about it was checked, and found to have no proof.",
+  "story": "For a long time, people who wrote about money told one story. Long ago, they said, nobody had money, and everyone swapped things: a pot for a fish, a goat for a sack of rice. Swapping was hard, so people invented coins. A Scottish thinker, Adam Smith, wrote this in a famous book in 1776. But nobody had checked. In 1985 Caroline Humphrey, who studies how people live at the University of Cambridge, read the reports from villages all over the world. She wrote that no one had ever described a people who lived by swapping alone. In small villages, people mostly gave things to their neighbours and remembered who owed what. So keeping count of who owes whom may be older than coins. The first coins we know of in India are small pieces of silver with marks stamped on them, made about 2,500 years ago. The word rupee comes from the rupiya, a silver coin made by the ruler Sher Shah Suri in the 1540s.",
+  "who": "Caroline Humphrey, who checked a story told by Adam Smith and many others",
+  "when": "1776 and 1985",
+  "wrong_idea": "Before money, everyone lived by swapping things. In 1985 Caroline Humphrey showed that nobody had ever found a people who lived that way."
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads: the human-chosen side of money (Roots, the card 'Why can a coin buy things?', the stretch puzzle where the child invents coins), the universe and everyday life (the card 'What a price counts, and what it leaves out', paying by phone), maths in life (a3, paying at a real shop, and p1, the home shop), everyone does maths (the card 'Other living beings trade too', spotted).",
+   "curriculum/math.json, math.money.money-in-life.L1: recognising coins and notes, how much can we spend (NCERT Class 1 chapter 12 How Much Can We Spend?, Cambridge Stage 1 Nm Money)."
+  ],
+  "science": [
+   "Reserve Bank of India and Wikipedia, 'Indian rupee' and 'Mahatma Gandhi New Series': the 2019 coin series (₹1 20 mm, ₹2 23 mm, ₹5 25 mm, ₹10 27 mm two metals, ₹20 27 mm with 12 sides), the colours and reverse pictures of the ₹10 to ₹500 notes, and the 15-language panel.",
+   "Government of India, Know India: the rupee sign, designed by D. Udaya Kumar, was approved on 15 July 2010.",
+   "Reserve Bank of India press release, 8 November 2016: withdrawal of legal tender status of the ₹500 and ₹1,000 notes of the Mahatma Gandhi Series.",
+   "Leca, J.-B., Gunst, N., Gardiner, M. and Wandia, I. N. (2021). Acquisition of object-robbing and object/food-bartering behaviours: a culturally maintained token economy in free-ranging long-tailed macaques. Philosophical Transactions of the Royal Society B 376: 20190677.",
+   "Kiers, E. T. and others (2011). Reciprocal rewards stabilize cooperation in the mycorrhizal symbiosis. Science 333, 880-882.",
+   "Humphrey, C. (1985). Barter and economic disintegration. Man, New Series 20(1), 48-72.",
+   "Smith, A. (1776). An Inquiry into the Nature and Causes of the Wealth of Nations, Book 1, chapter 4 (the origin of money from barter).",
+   "Aristotle, Nicomachean Ethics, Book 5, chapter 5 (1133a): money exists by convention (nomos) and not by nature.",
+   "Sher Shah Suri's silver rupiya (1540 to 1545, 178 grains); punch-marked silver coins of the Mahajanapadas (about the 6th century BCE); cowrie shells as money in Odisha and Bengal until the early 1800s."
+  ]
+ },
+ "playtest": "Walked through every flow as a family of two in a flat. The Two Plates Test needs eight ₹1, five ₹2, two ₹5 and one ₹10 coins and 20 chana. Few homes have that many coins now, so every flow says how to make paper coins. The four rounds give 7 and 10, 5 and 6, 8 and 10, and 8 and 8. Fill the Purse was played in the head with 1, 2 and 3 players: about six rolls each to reach ₹20, and the bank of 30 coins never runs out. Pay the Price: every card can be paid from the pile, and each back was added up. The fewest-coins answers for ₹1 to ₹20 and for the three invented coin sets were worked out by a small program. Step minutes add up to each part's minutes. Looked up on the web while writing: the sizes, colours and shapes of the 2019 coins, the colours and pictures of the notes, the 15 languages, the rupee sign, the 2021 macaque study, the 2011 plant and fungus study, Caroline Humphrey's 1985 paper (through a report of it, not the paper itself), Sher Shah Suri's rupiya, cowrie money, Thirukkural 247, Tao Te Ching 33, and the three museums. Not looked up: the wording of Aristotle's passage, the promise line on notes, and the 2016 date, which were written from memory and should be checked. No video could be confirmed, so all three are left for a person to choose. Prices in the games and the story are made up to fit the coins. In the real shop trip, many things now cost more than ₹20, so the step lists things that usually do not."
+}
