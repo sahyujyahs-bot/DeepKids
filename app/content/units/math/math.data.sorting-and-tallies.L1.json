@@ -108,7 +108,7 @@
    "status": "defined",
    "context": "This card says what sorting is. You did it in the Heap Test, when you put the things from one heap into groups.",
    "definition": "To sort is to put things that are alike together. The way they are alike is your sorting rule.",
-   "description": "A mixed heap is hard to use. Sorting makes it easy. First you choose a rule, such as shape. Then you look at each thing and ask one question: which group does it belong to? Here is a worked example. The rule is shape. You pick up a red circle. It is a circle, so it goes with the circles. Its colour does not matter for this rule. Every thing goes into one group, and no thing is left out.",
+   "description": "A mixed heap is hard to use. First you choose a rule, such as shape. Then you look at each thing and ask which group it belongs to. Here is a worked example. The rule is shape. You pick up a red circle. It is a circle, so it goes with the circles. Its colour does not matter for this rule.",
    "examples": [
     "In the kitchen, spoons go with spoons and tumblers go with tumblers.",
     "After the wash, each person's clothes go in that person's pile.",
@@ -149,7 +149,7 @@
    "status": "defined",
    "context": "This card shows what to do after sorting: count each group and compare. You did this in the Heap Test.",
    "definition": "After sorting, count each group. The biggest number is the most. The smallest number is the fewest.",
-   "description": "Look at the picture. There are 6 spoons, 4 cups and 5 lids. Spoons have the most. Cups have the fewest. You can also see it without counting. Put each group in a row, one thing under another. The longest row has the most. To find how many more, look at what sticks out. Two spoons stick out past the cups. So there are 2 more spoons than cups.",
+   "description": "Look at the picture. There are 6 spoons, 4 cups and 5 lids. Spoons have the most and cups have the fewest. You can also see it without counting. Put each group in a row, one thing in each floor tile. The longest row has the most. Two spoons stick out past the cups. So there are 2 more spoons than cups.",
    "examples": [
     "3 idlis and 5 vadas on a plate. There are more vadas.",
     "In a family of 4 with 3 fans at home, there are more people than fans.",
@@ -221,7 +221,7 @@
    "status": "defined",
    "context": "In the Heap Test you counted the whole heap after every sort. This card says what you found.",
    "definition": "Sorting only moves things. If nothing is added and nothing is taken away, the number in all stays the same.",
-   "description": "You had 15 things in the heap. You sorted them by kind and got 6, 5 and 4. Count them all together and it is still 15. You sorted them by colour and got 7, 5 and 3. Count them all and it is 15 again. The groups changed. The number in all did not. This is a good way to check your work. If the groups do not add up to the number you started with, something was missed or counted twice.",
+   "description": "You had 15 things in the heap. You sorted them by kind and got 6, 5 and 4. Count them all together and it is still 15. You sorted them by colour and got 7, 5 and 3, and it is 15 again. The groups changed. The number in all did not. This is a good way to check your work. If the groups do not add up to the number you started with, something was missed or counted twice.",
    "examples": [
     "12 clothes in the wash basket are still 12 clothes when sorted into three piles.",
     "20 children stand in two lines or four lines. There are still 20 children.",
@@ -245,11 +245,11 @@
    "status": "defined",
    "context": "This card shows how to keep count on paper. You used marks in the Heap Test and in the activity A Mark for Each.",
    "definition": "A mark is a short line that stands for one thing. One thing gets one mark.",
-   "description": "Some things cannot be put in a pile. You cannot pile up the fans in your home, or the autos on the road. So you draw one mark for each. Here is a worked example. You walk through your home. You see a fan and draw one mark beside the word fan. You see another fan and draw one more. At the end you count the marks. The marks stay on the paper, so you do not have to remember. A table keeps the marks for each group in their own row.",
+   "description": "Some things cannot be put in a pile. You cannot pile up the fans in your home, or the autos on the road. So you draw one mark for each. Here is a worked example. You see a fan and draw one mark beside the word fan. You see another fan and draw one more. At the end you count the marks. The marks stay on the paper, so you do not have to remember.",
    "examples": [
     "A cricket scorer makes a mark in the book for every ball that is bowled.",
     "A milk seller may mark the wall or a card each day she brings milk.",
-    "Three crows on the wire: | | |"
+    "A table keeps the marks for each group in their own row, as in the picture."
    ],
    "perspectives": [],
    "art": "A child holding a paper with a hand-drawn table, pointing a pencil at a ceiling fan.",
@@ -358,7 +358,7 @@
    "status": "defined",
    "context": "Sorting is not only for toys and spoons. This card shows how sorting and counting help people understand very big things.",
    "definition": "People sort and count to find out what is there and how much of each.",
-   "description": "A shop sorts so that you can find the rice. A library sorts so that you can find your book. Scientists sort too. About a hundred years ago, an American scientist named Annie Jump Cannon sorted the stars. She looked at the light of each star and put the star in a group. Hot blue-white stars went at one end and cooler red stars at the other. She sorted about 350,000 stars. People who study stars still use her groups today. Once the stars were sorted, people could count each group and ask why some kinds are common and some are rare.",
+   "description": "A shop sorts so that you can find the rice. Scientists sort too. About a hundred years ago, an American scientist named Annie Jump Cannon sorted the stars. She looked at the light of each star and put the star in a group. Hot blue-white stars went at one end and cooler red stars at the other. She sorted about 350,000 stars. People who study stars still use her groups today. Once the stars were sorted, people could count each group and ask why some kinds are rare.",
    "examples": [
     "A doctor sorts blood into groups called A, B, AB and O before giving blood to a sick person.",
     "Waste is sorted into wet and dry so that each kind can be used again.",
@@ -497,7 +497,7 @@
    "'Animal,' said Kathir.",
    "'Train,' said Nila.",
    "They looked at each other.",
-   "'It is my library,' said Nila slowly, 'so I have to choose. But I must choose the same way every time, or nobody will find anything.' She looked at the cover. The dog was big and the train was small. 'If an animal is the main one in the story, it is an animal book.' She put the book on the animal pile.",
+   "'It is my library,' said Nila slowly, 'so I have to choose. But I must choose the same way every time, or nobody will find anything.' She looked at the cover. The dog was big and the train was small. 'If an animal is the main one in the story, the book goes with the animal books.' She put the book on the animal pile.",
    "Kathir nodded. That was fair.",
    "Now the counting was easy. Nila found a piece of chalk. On the wall she drew a cat face, a train and a smiling face. She touched the first animal book and made one mark next to the cat. She touched the next one and made another mark. One book, one mark.",
    "Kathir wanted the chalk, so he did the trains. Nila did the people books.",
@@ -2351,7 +2351,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "These shapes were sorted into two groups. What was the rule?",
+     "p": "Look at group 1 and group 2. What rule made these groups?",
      "opts": [
       "By colour",
       "By shape",
@@ -2803,9 +2803,9 @@
     },
     {
      "t": "write",
-     "p": "Say your answer aloud. A grown-up writes it. A shop puts red shirts, red pens and red apples on one shelf. Is that a good way to sort a shop? Why?",
+     "p": "Say your answer aloud. A shop keeps all its red things on one shelf. Is that a good way to sort a shop?",
      "lines": 3,
-     "a": "No, because people look for a kind of thing, such as pens, and not for a colour.",
+     "a": "No. A shopper looks for a kind of thing, such as pens, and not for a colour. Red shirts, red pens and red apples would all be mixed together.",
      "why": "A strong answer says what shoppers want to find. Sorting by colour is a real sort, but it does not answer the question 'Where are the pens?'"
     },
     {
@@ -2831,7 +2831,7 @@
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, then says what the other person has right.",
-     "why": "Both are right, by different rules. Sorted by how we cook and eat it, a tomato is a vegetable. Sorted by which part of the plant it is, a tomato is a fruit, because it holds the seeds."
+     "why": "Both are right, by different rules. Sorted by how we cook and eat them, tomatoes are vegetables. Sorted by the part of the plant, tomatoes are fruits, because they hold the seeds."
     },
     {
      "t": "write",
@@ -2892,7 +2892,7 @@
   },
   {
    "t": "mcq",
-   "p": "Which group has the most?",
+   "p": "Clips, crayons and lids were sorted and counted. Which group has the most?",
    "opts": [
     "clips",
     "crayons",
@@ -2944,7 +2944,7 @@
   },
   {
    "t": "mcq",
-   "p": "Which group has the fewest?",
+   "p": "Autos, bikes and buses went past. Which group has the fewest?",
    "opts": [
     "autos",
     "bikes",
@@ -3299,6 +3299,7 @@
    "why_maths": "Because sorting never changes the number in all, you can work out a missing group without counting it.",
    "chart": {
     "type": "dots",
+    "title": "12 things in all. The green ones are not shown.",
     "rows": [
      {
       "label": "red",
@@ -3307,14 +3308,6 @@
      {
       "label": "blue",
       "n": 4
-     },
-     {
-      "label": "green: how many?",
-      "n": 0
-     },
-     {
-      "label": "in all",
-      "n": 12
      }
     ]
    },

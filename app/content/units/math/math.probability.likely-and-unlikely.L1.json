@@ -124,7 +124,7 @@
       "status": "defined",
       "context": "This card gives the three words you used in the Three Cups Test: will, might and won't.",
       "definition": "A thing will happen if it is sure. It won't happen if it cannot happen. It might happen if it can go either way.",
-      "description": "Here is a worked example. Look at the three cups in the picture. Cup A has only red chits. You pick one without looking. It will be red. Cup C has only blue chits. Your chit won't be red. Cup B has red chits and blue chits. Your chit might be red. Now you try it with a plate of only idlis. Will you pick an idli?",
+      "description": "Look at the three cups in the picture. Cup A has only red chits. You pick one without looking, and it will be red. Cup C has only blue chits, so your chit won't be red. Cup B has both colours. Your chit might be red. Now try it with a plate of only idlis. Will you pick an idli?",
       "examples": [
         "The Sun will set this evening.",
         "It might rain today.",
@@ -175,7 +175,7 @@
       "status": "defined",
       "context": "This card shows how to choose between will, might and won't. You look at all the things that can come out.",
       "definition": "First find everything that can come out. If all of them are what you want, it will happen. If none of them is, it won't. If only some are, it might.",
-      "description": "Here is a worked example with a dice. A dice has six faces: 1, 2, 3, 4, 5 and 6. Nothing else can come up. Will you roll a number smaller than 7? All six faces are smaller than 7, so you will. Will you roll an 8? No face shows 8, so you won't. Will you roll a 3? One face shows 3 and five faces do not, so you might.",
+      "description": "Here is a worked example. A dice has six faces: 1, 2, 3, 4, 5 and 6. Nothing else can come up. Will you roll a number smaller than 7? All six faces are smaller than 7, so you will. No face shows 8, so you won't roll an 8. Will you roll a 3? One face shows 3 and five faces do not, so you might.",
       "examples": [
         "A coin has two sides. It might land heads. It won't land on a 5.",
         "A box has only laddus. You will pick a laddu.",
@@ -312,27 +312,65 @@
           "explanation": "They say some things are a real 'might'. Take one tiny atom of the metal uranium. It can break apart at any moment. They say nobody could tell when, even with all the facts."
         }
       ],
-      "art": "A grown-up peeking into her cupped hand with a small smile while a child looks on, a question mark above the child."
+      "art": "A grown-up peeking into her cupped hand with a small smile while a child looks on, a question mark above the child.",
+      "chart": {
+        "type": "row",
+        "title": "One chit in a closed hand",
+        "rows": [
+          {
+            "label": "for you",
+            "cells": [
+              "?"
+            ]
+          },
+          {
+            "label": "for the one who peeked",
+            "cells": [
+              "circle:red"
+            ]
+          }
+        ]
+      }
     },
     {
       "concept": "Will, might and won't in the sky",
       "status": "defined",
       "context": "This card uses will, might and won't for the Sun, the rain and the night sky.",
       "definition": "Some things in the sky are sure. Others are a 'might' that even experts cannot turn into 'will'.",
-      "description": "The Sun will rise tomorrow. The Earth is a big ball that turns round once every day, and it does not stop. Will you see the Sun rise? You might. Clouds can hide it. Will it rain tomorrow? In India the weather office studies the clouds and the wind. Even so, its reports often say rain is 'likely' or 'very likely'. Those are careful ways of saying 'might'.",
+      "description": "The Sun will rise tomorrow. The Earth is a big ball that turns round once every day, and it does not stop. Will you see the Sun rise? You might, because clouds can hide it. Will it rain tomorrow? In India the weather office studies the clouds and the wind. Even so, its reports often say rain is 'likely' or 'very likely'. Those are careful ways of saying 'might'.",
       "examples": [
         "Night will come after this day.",
         "You might see a shooting star tonight.",
         "The Moon won't fall into your garden."
       ],
       "perspectives": [],
-      "art": "A child at a window at dawn, the Sun half hidden by a monsoon cloud."
+      "art": "A child at a window at dawn, the Sun half hidden by a monsoon cloud.",
+      "chart": {
+        "type": "table",
+        "cols": [
+          "Will",
+          "Might",
+          "Won't"
+        ],
+        "rows": [
+          [
+            "The Sun rises",
+            "You see it rise",
+            "The Sun rises at night"
+          ],
+          [
+            "Night comes",
+            "It rains",
+            "The Moon falls down"
+          ]
+        ]
+      }
     },
     {
       "concept": "Other living beings weigh chances too",
       "status": "debated",
       "context": "This card is about kea, who are parrots from New Zealand, and a test of how they deal with 'might'.",
-      "description": "In 2020 two scientists, Amalia Bastos and Alex Taylor, tested six kea. The kea had learned that a black token gets a treat and an orange token gets nothing. Then they saw two jars. One jar had more black tokens. The other had more orange. A person took one token from each jar and hid each in a closed hand. The kea had to touch one hand. They mostly chose the hand from the jar with more black tokens. Scientists do not agree on how much this tells us.",
+      "description": "In 2020 two scientists, Amalia Bastos and Alex Taylor, tested six kea. The kea had learned that a black token gets a treat and an orange token gets nothing. Then they saw two jars, one with more black tokens and one with more orange. A person took one token from each jar and hid each in a closed hand. The kea had to touch one hand. They mostly chose the hand from the jar with more black tokens. Scientists do not agree on how much this tells us.",
       "examples": [
         "The kea could not see the hidden token. They could only see what was in each jar.",
         "It is like choosing between a cup with 5 red chits and a cup with 1 red chit.",
@@ -452,7 +490,7 @@
       "who": "A common belief",
       "context": "This card is about the difference between 'I have never seen it' and 'it cannot happen'.",
       "for": "If something has never been seen in a very long time, it is fair to guess it will not happen tomorrow.",
-      "against": "Long ago, people in Europe had seen only white swans. A Roman poet, Juvenal, wrote of a black swan as a bird that could not be. In 1697 a Dutch captain, Willem de Vlamingh, and his crew saw black swans on a river in Australia. 'Never seen' was not the same as 'won't'.",
+      "against": "Long ago, people in Europe had seen only white swans. A Roman poet, Juvenal, wrote of 'a rare bird, like a black swan'. He meant a thing nobody had ever seen. In 1697 a Dutch captain, Willem de Vlamingh, and his crew saw black swans on a river in Australia. 'Never seen' was not the same as 'won't'.",
       "status": "rejected"
     },
     {
@@ -2842,7 +2880,21 @@
       ],
       "a": 2,
       "why": "It might be heads or tails. The coin is just the same on every toss. Picking 'it will be heads' means thinking heads is waiting for a turn.",
-      "outcome": 2
+      "outcome": 2,
+      "chart": {
+        "type": "row",
+        "title": "The tosses so far",
+        "rows": [
+          {
+            "label": "toss 1, 2, 3",
+            "cells": [
+              "circle:ink",
+              "circle:ink",
+              "?"
+            ]
+          }
+        ]
+      }
     },
     {
       "t": "mcq",
@@ -3479,7 +3531,7 @@
       {
         "source": "Rig Veda 10.34.13",
         "teaching": "In this hymn, a man has lost everything by playing dice. He is told: do not play with dice. Plough your field.",
-        "link": "Three thousand years ago, people already knew that nobody can tell how dice will fall. A dice is a 'might' that no wishing can turn into a 'will'."
+        "link": "About three thousand years ago, people already knew that nobody can tell how dice will fall. A dice is a 'might' that no wishing can turn into a 'will'."
       }
     ],
     "science": [
@@ -3500,7 +3552,7 @@
       "title": "The closed hand",
       "mins": 3,
       "say": "Sit still. I will put one chit in your hand. Close your hand and do not look. Take three slow breaths. You do not know the colour. Notice how that feels in your body. Is it itchy? Is it fun? Now open your hand slowly and look. What changed just now: the chit, or you?",
-      "kid": "Hold a chit in your closed hand. Do not look. Take three slow breaths. Then open your hand. What changed: the chit, or you?"
+      "kid": "Hold a chit in your closed hand, and do not look. Take three slow breaths. Then open your hand. What changed: the chit, or you?"
     },
     "ask": [
       "When someone peeks at the chit, does the chit change, or does the person change?",
@@ -3534,5 +3586,5 @@
       "Snakes and ladders: known in India as Moksha Patam and Gyan Chaupar, and in Tamil Nadu as Paramapadam."
     ]
   },
-  "playtest": "draft"
+  "playtest": "Walked through every flow as a family of two in a flat. The Three Cups Test needs 18 chits, which take about 4 minutes to make with a child. Cup A gives red every time and cup C never does. Cup B gives a jumbled mix. If all ten picks from cup B are one colour, which is very rare, the step says to pick ten more. With one red chit among six blue, red often does not come in ten picks, so the step says to tip the cup out and show the red chit. Thin paper can let the crayon show through, so the step says to fold once more or use carrom coins. Call It was played in the head with 1 and 2 players: 12 cards (3 will, 4 won't, 5 might), about one card every 20 seconds. Red Road, Blue Road: each race ends in 5 to 9 picks. Step minutes add up to each part's minutes. Facts looked up on the web while writing: the 2020 kea study (the paper and the University of Auckland report), Rig Veda 10.34.13 and 10.129.7, Tao Te Ching 71, Laplace's 1814 essay, the Pascal and Fermat letters of 1654, Cardano's book (written about 1565, printed 1663), de Vlamingh's black swans in 1697 and Juvenal's line, the cricket toss in Law 13.4, the weather office's use of 'likely' and 'very likely', Paramapadam as the Tamil name for snakes and ladders, and the book by Bruce Goldstone. Not looked up, written from general knowledge: that the lion side of an Indian coin is called heads, that the monsoon reaches Kerala around the start of June, that pappadams are dried in the sun, that physicists treat the moment one uranium atom breaks apart as real chance, and the Polypad web address. The two maths places are copied from the counting unit, which checked them. The three videos were confirmed by title and channel only, not watched, and their lengths are rough guesses. Watch each one before showing it."
 }

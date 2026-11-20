@@ -94,7 +94,7 @@
    "status": "defined",
    "context": "This card says what 'heavier' and 'lighter' mean. You felt both in the Hand and Hanger Test.",
    "definition": "The heavier thing has more weight. The lighter thing has less weight.",
-   "description": "The Earth pulls every thing down. That pull is the thing's weight. You feel it in your hand when you lift. Here is a worked example. Hold a steel spoon in one hand and a pencil in the other. The spoon pulls your hand down more. So the spoon is heavier than the pencil. We can also say it the other way: the pencil is lighter than the spoon. Both sentences are true together.",
+   "description": "The Earth pulls every thing down. That pull is the thing's weight. You feel it in your hand when you lift. Here is a worked example. Hold a steel spoon in one hand and a pencil in the other. The spoon pulls your hand down more. So the spoon is heavier than the pencil. We can also say that the pencil is lighter than the spoon.",
    "examples": [
     "A coconut is heavier than a lemon. The lemon is lighter than the coconut.",
     "A full tumbler is heavier than an empty tumbler.",
@@ -121,7 +121,7 @@
    "status": "defined",
    "context": "This card says how a balance shows which thing is heavier. You used a hanger balance in the Hand and Hanger Test.",
    "definition": "The side of a balance that goes down holds the heavier thing. The side that goes up holds the lighter thing.",
-   "description": "A balance has two pans. The Earth pulls on both. The pan that is pulled harder goes down. Here is a worked example. Put a potato in the left bag and a pencil in the right bag. The left side goes down. So the potato is heavier. The right side goes up. So the pencil is lighter. Before you use a balance, check it when it is empty. An empty balance must be level.",
+   "description": "A balance has two pans. The Earth pulls on both, and the pan that is pulled harder goes down. Here is a worked example. Put a potato in the left bag and a pencil in the right bag. The left side goes down, so the potato is heavier. The right side goes up, so the pencil is lighter. Before you use a balance, check that it is level when empty.",
    "examples": [
     "Lemon on the left, groundnut on the right: the left side goes down.",
     "Pencil on the left, spoon on the right: the right side goes down.",
@@ -148,7 +148,7 @@
    "status": "defined",
    "context": "This card is about two things that weigh the same. In the Hand and Hanger Test, two spoons kept the hanger level.",
    "definition": "When a balance stays level, the two things are as heavy as each other.",
-   "description": "Sometimes neither side goes down. Then neither thing is heavier. We say one is as heavy as the other. Here is a worked example. Put one spoon in each bag. The spoons are from the same set. The hanger stays level. So one spoon is as heavy as the other. Two things do not have to look alike to be level. A small potato can be as heavy as a big onion.",
+   "description": "Sometimes neither side goes down. Then neither thing is heavier. Here is a worked example. Put one spoon in each bag, both from the same set. The hanger stays level. So one spoon is as heavy as the other. Two things do not have to look alike to be level. A small potato can be as heavy as a big onion.",
    "examples": [
     "Two spoons from the same set: level.",
     "Two full matchboxes: level.",
@@ -175,7 +175,7 @@
    "status": "defined",
    "context": "This card is about size and weight. In the Hand and Hanger Test, a small potato went against a big empty bottle.",
    "definition": "Size is how much room a thing takes. Weight is how hard the Earth pulls it. They are two different things.",
-   "description": "A big thing can be light, and a small thing can be heavy. Here is a worked example. A big empty bottle and a small potato go in the two bags. The potato side goes down. The bottle is bigger, but the potato is heavier. Why? The bottle is mostly air inside a thin skin of plastic. The potato is solid all the way through. So you cannot tell weight just by looking. You have to lift, or use a balance.",
+   "description": "A big thing can be light, and a small thing can be heavy. Here is a worked example. A big empty bottle and a small potato go in the two bags. The potato side goes down. The bottle is bigger, but the potato is heavier. Why? The bottle is thin plastic with air inside, and the potato is solid all the way through. So you cannot tell weight by looking. You have to lift, or use a balance.",
    "examples": [
     "A big bag of pori (puffed rice) is lighter than a small block of jaggery.",
     "A balloon is bigger than a coin, and lighter.",
@@ -202,7 +202,7 @@
    "status": "defined",
    "context": "This card is about number and weight. In the Hand and Hanger Test, one lemon went against ten groundnuts.",
    "definition": "A balance does not count. Ten light things can weigh less than one heavy thing.",
-   "description": "Here is a worked example. Put 1 lemon in the left bag and 10 groundnuts in the right bag. Ten is more than one. But the lemon side goes down. One lemon is heavier than ten groundnuts, because each groundnut is very light. Counting tells you how many. It does not tell you how heavy. There is one time when counting does help. If all the things are alike, more of them is heavier. Five spoons from one set are heavier than three.",
+   "description": "Here is a worked example. Put 1 lemon in the left bag and 10 groundnuts in the right bag. Ten is more than one, but the lemon side goes down. Each groundnut is very light, so even ten of them weigh less than one lemon. Counting tells you how many. It does not tell you how heavy. Counting helps only when all the things are alike. Five spoons from one set are heavier than three.",
    "examples": [
     "1 lemon is heavier than 10 groundnuts.",
     "1 coconut is heavier than 20 curry leaves.",
@@ -230,7 +230,7 @@
    "status": "defined",
    "context": "This card is about changing a thing's shape. In Squash the Dough, you flattened one of two dough balls that were level.",
    "definition": "If you change the shape of a thing and nothing is added or taken away, its weight stays the same.",
-   "description": "Here is a worked example. Two balls of dough are level on the balance. You press one ball flat, like a chapati. It looks bigger now. But the balance is still level. No dough was added. No dough was taken away. So the weight did not change. Roll the dough into a long snake. The balance is still level. Break it into four small balls and put all four in the bag. It is still the same.",
+   "description": "Here is a worked example. Two balls of dough are level on the balance. You press one ball flat, like a chapati. It looks bigger now, but the balance is still level. No dough was added and none was taken away. So the weight did not change. Roll the dough into a long snake shape. Or break the dough into four small balls. If all the dough goes back in the bag, the balance is still level.",
    "examples": [
     "A ball of dough and the same dough pressed flat weigh the same.",
     "A sheet of paper and the same sheet crumpled into a ball weigh the same.",
@@ -257,7 +257,7 @@
    "status": "defined",
    "context": "This card is about a surprise. In the Two Boxes Surprise, a small box and a big box were level on the hanger.",
    "definition": "When a small thing and a big thing weigh the same, the small one feels heavier to most people.",
-   "description": "Your hands are good judges when one thing is much heavier. They are poor judges when two weights are close. And they can be fooled. Here is a worked example. A small box and a big box are level on the balance. So they weigh the same. Now lift them. To most people the small box feels heavier. In 1891 a doctor in France, Augustin Charpentier, tested this with a small ball and a big ball. Scientists think it happens because your eyes expect the big one to be heavy. They still argue about the full reason. A balance is not fooled, because it does not look at size.",
+   "description": "Your hands judge well when one thing is much heavier. When two weights are close, they are unsure. And they can be fooled. Here is a worked example. A small box and a big box are level on the balance, so they weigh the same. Lift them, and to most people the small box feels heavier. Augustin Charpentier, a doctor in France, tested this in 1891. Scientists think your eyes expect the big box to be heavy, but they still argue about the full reason.",
    "examples": [
     "A small box and a big box of the same weight: the small one feels heavier.",
     "After you carry a heavy bag, a school bag feels light for a moment.",
@@ -284,7 +284,7 @@
    "status": "defined",
    "context": "This card is about other living beings who judge weight. Humans are not the only ones.",
    "definition": "Scientists have watched squirrels and crows choose things by how heavy they are.",
-   "description": "A fox squirrel in North America picks up a nut in her mouth. Often she gives her head a quick flick. In 2009 two scientists, Stephanie Preston and Lucia Jacobs, studied this. They think the flick helps her feel how heavy the nut is. A heavy nut is full and good to bury for later. Crows can judge weight without touching. In 2019 Sarah Jelbert and her team hung light things and heavy things on strings in front of a fan. Light things swung more in the wind. The crows only watched. Then they picked the right kind, light or heavy, about 3 times out of 4.",
+   "description": "A fox squirrel in North America picks up a nut in her mouth. Often she gives her head a quick flick. In 2009 two scientists, Stephanie Preston and Lucia Jacobs, studied this. They think the flick helps her feel how heavy the nut is. Crows can judge weight without touching. In 2019 Sarah Jelbert and her team hung light and heavy things on strings in front of a fan. The crows only watched them swing. Then they picked the right kind, light or heavy, about 3 times out of 4.",
    "examples": [
     "A squirrel flicks her head with a nut in her mouth, then decides to eat it or bury it.",
     "A crow watches two things swing in the wind and picks the heavy one.",
@@ -298,7 +298,7 @@
    "status": "defined",
    "context": "This card follows weight out to the Moon. It uses what you learned about a level balance.",
    "definition": "Weight is the pull of the Earth. On the Moon the pull is weaker, so every thing weighs less there.",
-   "description": "The Earth pulls every thing down, all the time. That pull is weight. The Moon pulls too, but only about one sixth as hard. So on the Moon you could lift a full bucket easily. Now think about a balance. Here, a potato is level with an onion. Take the balance to the Moon. The potato weighs less there. The onion weighs less too, by just as much. So the balance stays level. A balance only compares the two sides. That is why it gives the same answer anywhere.",
+   "description": "The Earth pulls every thing down, and that pull is weight. The Moon pulls too, but only about one sixth as hard. So on the Moon you could lift a full bucket easily. Now think about a balance. Here, a potato is level with an onion. On the Moon the potato weighs less, and the onion weighs less by just as much. So the balance stays level. A balance only compares the two sides, so it gives the same answer anywhere.",
    "examples": [
     "On the Moon, a full school bag would feel as light as a nearly empty one feels here.",
     "A heavier thing is still heavier on the Moon. A coconut still beats a lemon.",
@@ -2245,11 +2245,36 @@
      ],
      "a": 1,
      "why": "They weigh the same, because the balance is level. Hands can be fooled when sizes are different. A balance does not look at size.",
-     "how": "a1"
+     "how": "a1",
+     "chart": {
+      "type": "balance",
+      "left": {
+       "n": 1,
+       "label": "small box"
+      },
+      "right": {
+       "n": 1,
+       "label": "big box"
+      },
+      "tilt": "level"
+     }
     },
     {
      "t": "order",
      "p": "A mango is heavier than a lemon. A coconut is heavier than a mango. Put them in order, lightest first.",
+     "chart": {
+      "type": "balance",
+      "left": {
+       "n": 1,
+       "label": "coconut"
+      },
+      "right": {
+       "n": 1,
+       "label": "mango"
+      },
+      "tilt": "left",
+      "title": "One of the two tests"
+     },
      "items": [
       "mango",
       "coconut",
@@ -2916,8 +2941,8 @@
    "why_open": "Scientists can say exactly how strong the pull is. Albert Einstein described it as a bending of space and time. But how this pull fits with the rest of physics is still an open question."
   },
   {
-   "q": "Do very young babies already know that a bigger thing may be heavier?",
-   "why_open": "Scientists study how babies reach for and lift things of different sizes. They do not agree on how much babies know before they have lifted many things themselves."
+   "q": "Is 'heavy' in the thing, in the one who lifts it, or in both?",
+   "why_open": "A balance gives one answer for everyone. But the feeling of heavy changes with the lifter and with what the lifter expects. Thinkers and scientists do not agree on which of these the word 'heavy' should mean."
   }
  ],
  "ask_kids": [
@@ -2930,16 +2955,16 @@
  ],
  "jokes": [
   {
-   "j": "Which is heavier: a bag of feathers or a bag of bricks the same weight?",
-   "a": "Neither. But I know which one I want dropped on my foot!"
+   "j": "Why did the feather win the race up the stairs?",
+   "a": "Nothing was weighing it down."
   },
   {
    "j": "Why did the pori feel proud?",
    "a": "It was a big bag, and nobody found it heavy."
   },
   {
-   "j": "What did the heavy pan say to the light pan?",
-   "a": "Why are you always looking down on... oh wait, that is me."
+   "j": "Why was the heavy pan sad?",
+   "a": "It was feeling down."
   },
   {
    "j": "Why did the balance go to school?",
@@ -2950,12 +2975,12 @@
    "a": "The light! You switch it on with one finger."
   },
   {
-   "j": "Why was the elephant bad at hide and seek on the see-saw?",
-   "a": "Everyone on the other end went up and saw her."
+   "j": "What happened when the elephant sat on the see-saw?",
+   "a": "Her friend got a free ride up to the sky."
   },
   {
-   "j": "What did the lemon say to the ten groundnuts?",
-   "a": "There are more of you, but I still have the upper... no, the lower hand."
+   "j": "Why did the balloon lose the heavy contest?",
+   "a": "It was big, but it was full of air."
   },
   {
    "j": "Why did the dough not mind being squashed?",
@@ -3381,16 +3406,16 @@
    "curriculum/math.json, math.weight-capacity.weight.L1: heavier and lighter, balancing. The Level 2 unit orders three or more things and weighs with units, so this unit stays with pairs and saves ordering for one stretch puzzle."
   ],
   "science": [
-   "Charpentier, A. (1891). Analyse expérimentale de quelques éléments de la sensation de poids. Archives de Physiologie Normale et Pathologique 3, 122-135. English translation and commentary: Murray, D. J., Ellis, R. R., Bandomir, C. A. and Ross, H. E. (1999). Charpentier (1891) on the size-weight illusion. Perception and Psychophysics 61, 1681-1685.",
-   "Chouinard, P. A. and others (2019). The development of the size-weight illusion in children coincides with the development of nonverbal cognition rather than motor skills. Journal of Experimental Child Psychology. (Children aged 5 to 12 feel the illusion, and it grows stronger with age.)",
+   "Charpentier, A. (1891), the first tests of what is now called the size-weight illusion. English translation and commentary: Murray, D. J., Ellis, R. R., Bandomir, C. A. and Ross, H. E. (1999). Charpentier (1891) on the size-weight illusion. Perception and Psychophysics 61. (Found on PubMed. Author list of the translation written from memory.)",
+   "Chouinard, P. A., Matheson, K. G., Royals, K. A., Landry, O., Buckingham, G., Saccone, E. J. and Hocking, D. R. (2019). The development of the size-weight illusion in children coincides with the development of nonverbal cognition rather than motor skills. Journal of Experimental Child Psychology 184, 48-64. (Children aged 5 to 12 feel the illusion, and it grows stronger with age.)",
    "Weber, E. H. (1834). De pulsu, resorptione, auditu et tactu (the part known as De Tactu). (People cannot tell two lifted weights apart when they are close. Secondary sources give different figures for how close, so the unit gives no figure.)",
    "Jelbert, S. A., Miller, R., Schiestl, M., Boeckle, M., Cheke, L. G., Gray, R. D., Taylor, A. H. and Clayton, N. S. (2019). New Caledonian crows infer the weight of objects from observing their movements in a breeze. Proceedings of the Royal Society B 286: 20182332. (12 crows, 73 percent correct first choices.)",
-   "Preston, S. D. and Jacobs, L. F. (2009). Mechanisms of cache decision making in fox squirrels (Sciurus niger). Journal of Mammalogy 90(4), 787-795. Also Delgado, M. M. and Jacobs, L. F. (2019) on head flicks and caching. (The link between the head flick and weight is the authors' interpretation, so the unit says 'scientists think'.)",
+   "Preston, S. D. and Jacobs, L. F. (2009). Mechanisms of cache decision making in fox squirrels (Sciurus niger). Journal of Mammalogy 90(4). Also Delgado, M. M. and Jacobs, L. F. (2019) on head flicks and caching. (The link between the head flick and weight is the authors' interpretation, so the unit says 'scientists think'.)",
    "Indus weights: Harappa.com pages on the cubical chert weights (the Indus period is about 2600 to 1900 BCE, and the weights follow one system across sites).",
    "Conservation of weight in children: Jean Piaget and Bärbel Inhelder's clay ball tasks, as summarised in standard child development references. Many children do not expect weight to stay the same after a change of shape until about nine years old.",
    "Moon: surface gravity about one sixth of the Earth's (OpenStax Astronomy, section 9.1, and other standard references).",
    "Udana 6.4 (Tittha Sutta), translations by John D. Ireland and by Thanissaro Bhikkhu on Access to Insight. Plato, Theaetetus 152b, translation by Harold N. Fowler (Perseus Digital Library). Quran 55:7-9, Sahih International and Yusuf Ali translations."
   ]
  },
- "playtest": "Walked through every flow on paper as a parent and a six-year-old in a flat. Nothing was built or lifted for this check, so try each part once yourself. The hanger balance needs care: the hanger must swing freely, the two bags must be the same kind, and the empty balance must be level. In the Hand and Hanger Test the spoon, the potato and the lemon should win their pairs clearly. The potato and onion pair has no fixed answer, on purpose. For the Two Boxes Surprise, keep each box light enough for one small hand. Most people feel the small box as heavier, but a few do not, and younger children feel it less strongly than older ones. If your child feels no difference, their hands agreed with the hanger, and that is a fine result too. A plastic hanger can bend under two full bags of vegetables, so Two Bags to Carry uses small vegetables and says what to do if it bends. In the Odd Packet, the packets hold 2, 2 and 3 coins. One coin should tip a light hanger. If it does not, use 4, 4 and 6. Heavier Takes It was checked on paper: the 12 things are far enough apart in weight that the order is not in doubt. Step minutes add up to each part's minutes. Facts looked up on the web while writing: Charpentier 1891, the 2019 study of the illusion in children aged 5 to 12, Weber 1834, the 2019 crow study, the 2009 fox squirrel study, the Indus stone weights, the ages in Piaget's weight tasks, the Moon's pull, Udana 6.4, Theaetetus 152b and Quran 55:7-9. The three videos were confirmed by title and channel only. Not looked up, and written from general knowledge: that a blue whale is the heaviest animal known, that wrestling and boxing use weight classes, the book Balancing Act by Ellen Stoll Walsh, the PhET Balancing Act simulation, and the open question about what babies know. The squirrel study was done on fox squirrels in North America, not on Indian palm squirrels, and the unit says so. The reason given for the squirrel's head flick is what the scientists think, not something they proved."
+ "playtest": "Walked through every flow on paper as a parent and a six-year-old in a flat. Nothing was built or lifted for this check, so try each part once yourself. The hanger balance needs care: the hanger must swing freely, the two bags must be the same kind, and the empty balance must be level. In the Hand and Hanger Test the spoon, the potato and the lemon should win their pairs clearly. The potato and onion pair has no fixed answer, on purpose. For the Two Boxes Surprise, keep each box light enough for one small hand. Most people feel the small box as heavier, but a few do not, and younger children feel it less strongly than older ones. If your child feels no difference, their hands agreed with the hanger, and that is a fine result too. A plastic hanger can bend under two full bags of vegetables, so Two Bags to Carry uses small vegetables and says what to do if it bends. In the Odd Packet, the packets hold 2, 2 and 3 coins. One coin should tip a light hanger. If it does not, use 4, 4 and 6. Heavier Takes It was checked on paper: the 12 things are far enough apart in weight that the order is not in doubt. Step minutes add up to each part's minutes. Facts looked up on the web while writing: Charpentier 1891, the 2019 study of the illusion in children aged 5 to 12, Weber 1834, the 2019 crow study, the 2009 fox squirrel study, the Indus stone weights, the ages in Piaget's weight tasks, the Moon's pull, Udana 6.4, Theaetetus 152b and Quran 55:7-9. The three videos were confirmed by title and channel only. Not looked up, and written from general knowledge: that a blue whale is the heaviest animal known, that wrestling and boxing use weight classes, the book Balancing Act by Ellen Stoll Walsh, the PhET Balancing Act simulation, and what Einstein said about the pull of the Earth. The squirrel study was done on fox squirrels in North America, not on Indian palm squirrels, and the unit says so. The reason given for the squirrel's head flick is what the scientists think, not something they proved."
 }
