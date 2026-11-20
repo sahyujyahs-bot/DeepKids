@@ -92,7 +92,7 @@ Take 6 beans and put them in pairs. Every bean has a partner, so 6 is even. Take
 
 ## Mostly agreed
 - A correct count gives the same number whichever thing you start with. *How we know:* Anyone can test it with beans. Count them left to right, right to left and from the middle. If each bean gets one number, the answer is the same every time.
-- Saying "one, two, three" is not the same as counting. *How we know:* In 1990 a scientist named Karen Wynn asked small children to give her 3 toys. These children could say "one, two, three, four, five". But many just grabbed a handful. They knew the words, but not yet what each word means.
+- A small child can sing the numbers like a song and still not know how to count. *How we know:* In 1990 a scientist named Karen Wynn asked small children to give her 3 toys. All of them could say "one, two, three, four, five". Many still grabbed a handful. Counting means touching each toy once and knowing the last number says how many.
 - There is no biggest number. *How we know:* Whatever number is named, adding one gives a bigger number. So no number can be the last.
 - Some other animals keep track of small numbers. *How we know:* Trained honeybees searched for food after passing a set number of tents (Chittka and Geiger, 1995). Trained crows gave one to four calls on request (Liao and others, 2024).
 
