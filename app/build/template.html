@@ -14977,6 +14977,9 @@ const FXORDER = [
 ];
 // the last of these are extras to dip into: they are not scheduled and a unit is finished without them
 const FXOPT = new Set(["spotted", "ask_kids", "photos", "models", "jokes", "song", "links", "buy"]);
+// the field a unit belongs to, for the words on its cards
+const fxWho = (u) =>
+  u.id.startsWith("math.") ? ["Mathematicians", "mathematicians", "maths"] : ["Scientists", "scientists", "science"];
 function fxCards(u) {
   const C = [],
     SL = [],
@@ -15091,7 +15094,7 @@ function fxCards(u) {
         u.explanations.forEach((x, i) =>
           add(
             "expl." + i,
-            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : "Scientists disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>`,
+            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>`,
             x.concept + ". " + (x.definition || "") + " " + (x.description || ""),
           ),
         );
@@ -15099,7 +15102,7 @@ function fxCards(u) {
       case "agreed":
         add(
           "agreed",
-          `${fxImg(u, "agreed", "")}<div class="fxtxt"><span class="fxeb">🤝 What most scientists agree on</span>${u.agreed.map((a) => `<div class="fxvoice"><b>${esc(a.text)}</b><p class="fxsm">How we know: ${esc(a.evidence)}</p>${fxChart(a.chart)}</div>`).join("")}</div>`,
+          `${fxImg(u, "agreed", "")}<div class="fxtxt"><span class="fxeb">🤝 What most ${fxWho(u)[1]} agree on</span>${u.agreed.map((a) => `<div class="fxvoice"><b>${esc(a.text)}</b><p class="fxsm">How we know: ${esc(a.evidence)}</p>${fxChart(a.chart)}</div>`).join("")}</div>`,
           u.agreed.map((a) => a.text).join(" "),
         );
         break;
@@ -15146,7 +15149,7 @@ function fxCards(u) {
         );
         add(
           "roots.2",
-          `<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · what science says, and who disagrees</span>${(r.science || []).map((x) => `<div class="fxvoice"><b>${esc(x.text)}</b><p class="fxbadge">${{ settled: "Science has found this", idea: "An idea some scientists hold", debated: "Scientists still argue", open: "Nobody knows yet" }[x.status] || ""}</p></div>`).join("")}${r.other_view ? `<div class="fxvoice"><b>Another view: ${esc(r.other_view.who)}</b><p>${esc(r.other_view.view)}</p></div>` : ""}<p class="fxsm">What do you think? There is no wrong answer here.</p></div>`,
+          `<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · what ${fxWho(u)[2]} says, and who disagrees</span>${(r.science || []).map((x) => `<div class="fxvoice"><b>${esc(x.text)}</b><p class="fxbadge">${{ settled: "Science has found this", idea: "An idea some scientists hold", debated: "Scientists still argue", open: "Nobody knows yet" }[x.status] || ""}</p></div>`).join("")}${r.other_view ? `<div class="fxvoice"><b>Another view: ${esc(r.other_view.who)}</b><p>${esc(r.other_view.view)}</p></div>` : ""}<p class="fxsm">What do you think? There is no wrong answer here.</p></div>`,
           (r.science || []).map((x) => x.text).join(" "),
         );
         const pr = r.practice || {};

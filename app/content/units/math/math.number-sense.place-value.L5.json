@@ -200,7 +200,7 @@
    "status": "defined",
    "context": "You can say 'one lakh' in a second. This card gives real things to compare it with, from your kitchen to the Moon.",
    "definition": "One lakh is 1,00,000. It is a hundred thousands, or ten ten-thousands.",
-   "description": "A big number is easier to hold in your mind when you have met it in real life. One lakh grains of rice is a potful that weighs about 2 kg. The exact weight depends on your rice. One lakh millimetres is 100 metres, about the length of a football field. One lakh seconds is 27 hours, 46 minutes and 40 seconds, a little more than one day. Your heart beats about one lakh times every day. Here is the working: at 70 beats a minute, 70 × 60 × 24 = 1,00,800 beats. Space needs lakhs too. Light travels about 3,00,000 km in one second. The Moon is about 3,84,400 km away, so light from the Moon reaches your eye in a little more than one second.",
+   "description": "A big number is easier to hold in your mind when you have met it in real life. One lakh grains of rice is a potful that weighs between 1 and 2.5 kg. The exact weight depends on your rice. One lakh millimetres is 100 metres, about the length of a football field. One lakh seconds is 27 hours, 46 minutes and 40 seconds, a little more than one day. Your heart beats about one lakh times every day. Here is the working: at 70 beats a minute, 70 × 60 × 24 = 1,00,800 beats. Space needs lakhs too. Light travels about 3,00,000 km in one second. The Moon is about 3,84,400 km away, so light from the Moon reaches your eye in a little more than one second.",
    "examples": [
     "Ten 10 kg bags of rice hold roughly fifty lakh grains, if 2 kg hold one lakh.",
     "A child who walks 5,000 steps a day takes one lakh steps in 20 days.",
@@ -241,7 +241,7 @@
    "status": "debated",
    "context": "Place value needs two things: a sign for nothing, and a way to keep a long count. This card tells what a honeybee and a desert ant do with each.",
    "definition": "",
-   "description": "Honeybees place nothing below one. In 2018 Scarlett Howard and her team in Australia trained honeybees to fly to the card with fewer shapes on it. Then they showed the bees a card with shapes and a blank card. The bees had never been trained on a blank card. They chose the blank card as the one with fewer. Desert ants keep track of how far they have walked. In 2006 Matthias Wittlinger, Rüdiger Wehner and Harald Wolf studied desert ants who had walked 10 metres from their nest to food. The scientists made some ants' legs longer with tiny stilts and some ants' legs shorter. The ants with longer legs walked too far on the way home. The ants with shorter legs stopped too soon. So the ants were measuring the distance by their own steps. As far as anyone knows, no other being writes numbers in places. That part is the human way of doing something many beings do.",
+   "description": "Honeybees place nothing below one. In 2018 Scarlett Howard and her team, in Australia and France, trained honeybees to fly to the card with fewer shapes on it. Then they showed the bees a card with shapes and a blank card. The bees had never been trained on a blank card. They chose the blank card as the one with fewer. Desert ants keep track of how far they have walked. In 2006 Matthias Wittlinger, Rüdiger Wehner and Harald Wolf studied desert ants who had walked 10 metres from their nest to food. The scientists made some ants' legs longer with tiny stilts and some ants' legs shorter. The ants with longer legs walked too far on the way home. The ants with shorter legs stopped too soon. So the ants were measuring the distance by their own steps. As far as anyone knows, no other being writes numbers in places. That part is the human way of doing something many beings do.",
    "examples": [
     "A honeybee who picks a blank card over a card with one dot is treating 'nothing' as less than one.",
     "An ant on stilts takes longer steps, so the same number of steps carries the ant past the nest.",
@@ -433,7 +433,7 @@
      "qty": "1"
     },
     {
-     "item": "a large pot or vessel that holds 3 litres or more",
+     "item": "a large pot that holds 4 litres or more, or a clean dry bucket",
      "qty": "1"
     },
     {
@@ -485,13 +485,13 @@
      [
       "Ten thousand",
       "10 tablespoons",
-      "most of a tumbler",
+      "about one tumbler",
       "10,000"
      ],
      [
       "One lakh",
       "10 tumblers",
-      "a pot of about 2 litres",
+      "2 to 3 litres, about half a large pot",
       "1,00,000"
      ]
     ]
@@ -520,7 +520,7 @@
      "mins": 3,
      "do": "1. Put the spoon, the tumbler, the pot and a bucket in a row. 2. Ask for a guess and a reason. 3. Write the guess down.",
      "say": "Imagine one lakh grains of rice. Would they fill this spoon, this tumbler, this pot, this bucket, or the room? Why do you think so?",
-     "kid": "Think of one lakh grains of rice. Would they fill a spoon, a tumbler, a pot, a bucket or a room? Say why. Write your guess.",
+     "kid": "Think of one lakh grains of rice. Would they fill a spoon, a tumbler or a pot? Or a bucket, or a room? Say why. Write your guess.",
      "ask": [
       {
        "q": "What makes you think that?",
@@ -587,7 +587,7 @@
        ]
       }
      ],
-     "parent": "For most rice, a thousand grains come to about one tablespoon. Fat grains need a heaped spoon and thin grains a level one. Remember exactly how full the spoon was.",
+     "parent": "For most rice, a thousand grains come to about one tablespoon. Fat grains such as idli rice can need nearly two. Remember exactly how full the spoon was.",
      "context": "This is step 4 of the Rice Test, where you build one lakh grains of rice in steps of ten. You find a spoon that one thousand grains fill."
     },
     {
@@ -596,7 +596,7 @@
      "do": "1. Ask how full the tumbler will be with ten thousand grains. 2. Your child puts ten spoonfuls into the tumbler, each as full as the first. 3. Mark the level with the rubber band.",
      "say": "Ten of these spoonfuls make ten thousand. Guess first: how full will the tumbler be? Now count the spoonfuls aloud.",
      "kid": "Guess how full the tumbler will get. Put in ten spoonfuls. Count them aloud. Mark the level.",
-     "parent": "Ten thousand grains usually fill most of a tumbler. If your tumbler overflows, use a bigger cup. The mark is now your ten thousand.",
+     "parent": "Ten thousand grains usually come to about one tumbler. If your tumbler overflows, use a bigger cup. The mark is now your ten thousand.",
      "context": "This is step 5 of the Rice Test, where you build one lakh grains of rice in steps of ten. Ten spoonfuls of a thousand grains make ten thousand in the tumbler."
     },
     {
@@ -614,7 +614,7 @@
        ]
       }
      ],
-     "parent": "If you have less rice, pour three tumblers and ask your child how high ten would come. One lakh grains usually weigh between 1.5 and 2.5 kg.",
+     "parent": "If you have less rice, pour three tumblers and ask your child how high ten would come. One lakh grains usually weigh between 1 and 2.5 kg.",
      "context": "This is step 6 of the Rice Test, where you build one lakh grains of rice in steps of ten. Ten tumblers of ten thousand grains make one lakh in the pot."
     },
     {
@@ -1180,7 +1180,7 @@
    "problem": "If you measure a distance by your steps, what happens when your steps change size?",
    "materials": [
     {
-     "item": "a clear corridor or room at least 6 big steps long",
+     "item": "the longest clear stretch of floor in your home, about 6 metres",
      "qty": "1"
     },
     {
@@ -1204,7 +1204,7 @@
    "setup": [
     {
      "art": "A child standing beside a cushion at one end of a corridor, about to walk away from it, with a grown-up watching.",
-     "caption": "1. The cushion is the nest. Walk away from it and count your steps."
+     "caption": "1. The cushion is the nest. Put it in the middle. Walk away and count your steps."
     },
     {
      "art": "The same child walking back along the corridor with eyes closed, a grown-up walking close beside.",
@@ -1219,9 +1219,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the cushion at one end. 2. Your child walks 12 normal steps away, counting aloud. 3. Your child turns, closes both eyes and walks 12 steps back. 4. Walk beside your child.",
-     "say": "The cushion is your nest. Walk twelve steps away. Now close your eyes and walk twelve steps back. Where is the nest?",
-     "kid": "Walk 12 steps away from the cushion. Turn round. Close your eyes. Walk 12 steps back.",
+     "do": "1. Put the cushion in the middle of the clear stretch. 2. Your child walks 6 normal steps away, counting aloud. 3. Your child turns, closes both eyes and walks 6 steps back. 4. Walk beside your child.",
+     "say": "The cushion is your nest. Walk six steps away. Now close your eyes and walk six steps back. Where is the nest?",
+     "kid": "Walk 6 steps away from the cushion. Turn round. Close your eyes. Walk 6 steps back.",
      "adult": true,
      "ask": [
       {
@@ -1237,9 +1237,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Ask for a guess: what will happen with giant steps on the way back? 2. Your child walks 12 normal steps away again. 3. Your child comes back with eyes closed, taking 12 giant steps.",
+     "do": "1. Ask for a guess: what will happen with giant steps on the way back? 2. Your child walks 6 normal steps away again. 3. Your child comes back with eyes closed, taking 6 giant steps.",
      "say": "This time walk out normally but come back with giant steps. Where will you end up? Why do you think so?",
-     "kid": "Guess first. Walk 12 normal steps away. Come back with 12 giant steps, eyes closed. Where are you?",
+     "kid": "Guess first. Walk 6 normal steps away. Come back with 6 giant steps, eyes closed. Where are you?",
      "adult": true,
      "ask": [
       {
@@ -2270,7 +2270,7 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, from the smallest to the biggest.",
+     "p": "Put these amounts in order, smallest first.",
      "items": [
       "2.5 million",
       "35,000",
@@ -2943,7 +2943,6 @@
    "e1",
    "explanations",
    "a1",
-   "g1",
    "roots",
    "quiz"
   ]
@@ -3008,7 +3007,7 @@
  },
  "how_we_found_out": {
   "context": "Who worked out that ten signs are enough to write any number? This card tells what is known, and what is not.",
-  "story": "In ancient Egypt, scribes wrote numbers with a different sign for each size. A stroke meant 1, a coil of rope meant 100, and a tadpole meant 1,00,000. For a bigger size they needed one more new sign. Many peoples wrote numbers in this way, and it seemed that bigger numbers must always need more signs. Mathematicians in India showed that this is not so. They let the place of a digit give its size, and they used a sign for an empty place. With that, nine digits and a zero can write any number at all. We do not know the names of the people who first did this. In 499 CE Aryabhata, who was 23, listed the names of ten places, from one up to a hundred crore, and wrote that each place is ten times the one before. In 628 CE Brahmagupta wrote down rules for doing sums with zero. A temple inscription at Gwalior, cut in 876 CE, shows the number 270 with a zero, written the way we write it today.",
+  "story": "In ancient Egypt, scribes wrote numbers with a different sign for each size. A stroke meant 1, a coil of rope meant 100, and a tadpole meant 1,00,000. For a bigger size they needed one more new sign. Many peoples wrote numbers in this way, and it seemed that bigger numbers must always need more signs. Mathematicians in India showed that this is not so. They let the place of a digit give its size, and they used a sign for an empty place. With that, nine digits and a zero can write any whole number at all. We do not know the names of the people who first did this. In 499 CE Aryabhata, who was 23, listed the names of ten places, from one up to a hundred crore, and wrote that each place is ten times the one before. In 628 CE Brahmagupta wrote down rules for doing sums with zero. A temple inscription at Gwalior, cut in 876 CE, shows the number 270 with a zero, written the way we write it today.",
   "who": "Unnamed Indian mathematicians, and later Aryabhata and Brahmagupta",
   "when": "Place value was in use in India by about 500 CE. Aryabhata wrote in 499 CE and Brahmagupta in 628 CE.",
   "wrong_idea": "Bigger numbers must need more and more new signs. Place value with zero showed that ten signs are enough for every number, however big."
@@ -3025,9 +3024,9 @@
    "Hardy, G. H. (1940). A Mathematician's Apology. Cambridge University Press. (The line on 317 being prime.)",
    "NASA, Moon facts: the Moon is an average of 384,400 km from the Earth.",
    "The inscription of 876 CE at the Chaturbhuj temple, Gwalior, with zeros in the numbers 270 and 50. Older dated zeros are claimed elsewhere, for example in Cambodia (683 CE), so the unit does not call it the oldest.",
-   "Tamil Nadu Agricultural University, rice variety tables: 1,000 grains of paddy of common varieties weigh about 15 to 24 g. Polished rice grains are lighter. The unit's '1.5 to 2.5 kg for a lakh of grains' is a rough range worked from this.",
+   "Tamil Nadu Agricultural University, rice variety tables: 1,000 grains of paddy of common varieties weigh about 15 to 24 g. Polished rice grains are lighter. The unit's '1 to 2.5 kg for a lakh of grains' is a rough range worked from this.",
    "Lao Tzu, Tao Te Ching, chapter 11. Nagarjuna, Mulamadhyamakakarika 24.18 (translated by Jay Garfield, The Fundamental Wisdom of the Middle Way, 1995)."
   ]
  },
- "playtest": "Walked through every flow as a parent and one child in a flat. The Rice Test needs about 2.5 kg of rice, which goes back in the tin. Counting the first thousand grains is the slow part and takes two people about eight minutes. After that the amounts are measured, not counted, so one lakh is close and not exact. The table of sample results is an estimate worked out from grain weights, not a test done in a kitchen: a thousand grains should come to about a tablespoon and a lakh to between 1.5 and 2.5 kg, but your rice may differ. If you have less rice, stop at three tumblers and work out the rest. Place It was played in the head with 1, 2 and 3 players: six turns each, 18 of the 20 cards at most, and nobody can get stuck. Lakh and Million Pairs has 24 cards written out in full. Every pair was checked digit by digit. In the five-finger challenge some finger shapes are hard to hold. Use the other hand to hold a finger down. Every answer in the worksheets, quiz and maths problems was worked out again by a script. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 2018 honeybee study and the 2006 desert ant study, Aryabhata's line on places and his date, the Gwalior inscription of 876 CE, the Egyptian number signs, the Moon's distance, the Japanese grouping by ten-thousands, the Tamil signs for ten, hundred and thousand, the Maya and Babylonian bases, G. H. Hardy's line on 317, Tao Te Ching 11, Nagarjuna's verse 24.18, the word lakh, the 100-note bank packet, coir work in Alappuzha, and the open question about the digits of pi. Not looked up separately: the speed of light and the length of a football field, which are standard figures, and the two places to visit, which were taken from an earlier check. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it."
+ "playtest": "Walked through every flow as a parent and one child in a flat. The Rice Test needs about 2.5 kg of rice, which goes back in the tin. Walk Like a Desert Ant needs about 6 metres of clear floor with the cushion in the middle, because the giant steps carry the child past it. Counting the first thousand grains is the slow part and takes two people about eight minutes. After that the amounts are measured, not counted, so one lakh is close and not exact. The table of sample results is an estimate worked out from grain weights, not a test done in a kitchen: a thousand grains should come to about a tablespoon and a lakh to between 1 and 2.5 kg, but your rice may differ. If you have less rice, stop at three tumblers and work out the rest. Place It was played in the head with 1, 2 and 3 players: six turns each, 18 of the 20 cards at most, and nobody can get stuck. Lakh and Million Pairs has 24 cards written out in full. Every pair was checked digit by digit. In the five-finger challenge some finger shapes are hard to hold. Use the other hand to hold a finger down. Every answer in the worksheets, quiz and maths problems was worked out again by a script. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 2018 honeybee study and the 2006 desert ant study, Aryabhata's line on places and his date, the Gwalior inscription of 876 CE, the Egyptian number signs, the Moon's distance, the Japanese grouping by ten-thousands, the Tamil signs for ten, hundred and thousand, the Maya and Babylonian bases, G. H. Hardy's line on 317, Tao Te Ching 11, Nagarjuna's verse 24.18, the word lakh, the 100-note bank packet, coir work in Alappuzha, and the open question about the digits of pi. Not looked up separately: the speed of light and the length of a football field, which are standard figures, and the two places to visit, which were taken from an earlier check. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it."
 }
