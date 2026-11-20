@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "You put these four on a slope. Which ones will roll away?",
-  "text": "The ball rolls away. The tin lying on its side rolls away too. The cone rolls in a curve. The box does not roll at all. It stays, or it slides if the slope is steep. The ball, the tin and the cone each have a curved surface. The box has only flat faces. In this unit you will test this on your own slope. You will also find one thing that can roll and slide.",
+  "text": "The ball rolls away. So does the tin lying on its side. The cone rolls in a curve. The box does not roll at all: it stays, or it slides if the slope is steep. The ball, the tin and the cone each have a curved surface. The box has only flat faces. In this unit you will test this on your own slope, and find one thing that can roll and slide.",
   "art": "A ball, a matchbox, a round tin lying on its side and a paper cone lined up at the top of a sloping board.",
   "chart": {
    "type": "row",
@@ -123,7 +123,7 @@
    "status": "defined",
    "context": "In the Slope Test you held a ball, a box, a tin and a cone. This card says how they differ from shapes drawn on paper.",
    "definition": "A solid shape is not flat. It has a top, a bottom and sides, and it takes up room.",
-   "description": "Here is a worked example. Draw round a coin on paper. You get a circle. You cannot pick the circle up. It is flat. Now pick up a ball. You can close your hand round it. It is solid. A flat shape lives on paper or on a face of a thing. A solid shape is the whole thing. Now you try with a rectangle drawn on paper and a matchbox.",
+   "description": "Draw round a coin on paper. You get a circle. It is flat, and you cannot pick it up. Now pick up a ball. You can close your hand round it, so it is solid. A flat shape lives on paper, or on one face of a thing. A solid shape is the whole thing. Now you try with a rectangle on paper and a matchbox.",
    "examples": [
     "A circle on paper is flat. A ball is solid.",
     "A rectangle on paper is flat. A matchbox is solid.",
@@ -159,7 +159,7 @@
    "status": "defined",
    "context": "In the Slope Test you felt each thing with your palm. This card names the two kinds of outside a solid shape can have.",
    "definition": "A flat face is a flat part of the outside. A curved surface is a part that bends round.",
-   "description": "Here is a worked example. Hold a round tin. Put your palm on the lid. It lies flat, so the lid is a flat face. Turn the tin over. The bottom is a flat face too. That makes 2. Now wrap your hand round the side. Your palm has to bend. The side is 1 curved surface. Now you try with a matchbox. Count its flat faces: top, bottom, front, back and two ends.",
+   "description": "Hold a round tin. Put your palm on the lid. It lies flat, so the lid is a flat face. The bottom is a flat face too, which makes 2. Now wrap your hand round the side. Your palm has to bend, so the side is a curved surface. Now count the flat faces of a matchbox: top, bottom, front, back and two ends.",
    "examples": [
     "A matchbox: 6 flat faces, no curved surface.",
     "A round tin: 2 flat faces, 1 curved surface.",
@@ -196,7 +196,7 @@
    "status": "defined",
    "context": "In the Slope Test some things ran down a gentle slope and some waited for a steep one. This card gives the rule you found.",
    "definition": "A thing rolls when its curved surface is on the ground. A thing slides when a flat face is on the ground.",
-   "description": "Here is a worked example. Put a ball on a gentle slope. Only a tiny spot of the ball touches the slope. The ball tips forward on to the next spot, and the next. That is rolling. Now put a matchbox on the same slope. A whole flat face touches the slope and grips it. The box stays. Lift the slope higher. Now the box moves down, with the same face on the slope all the way. That is sliding.",
+   "description": "Put a ball on a gentle slope. Only a tiny spot of the ball touches the slope. The ball tips over on to the next spot, and the next. That is rolling. Now put a matchbox on the same slope. A whole flat face touches the slope and grips it, so the box stays. Make the slope steep. Now the box moves down with the same face on the slope all the way, and that is sliding.",
    "examples": [
     "A marble rolls off a tilted plate at once.",
     "A book stays on a tilted desk until the desk is steep.",
@@ -231,7 +231,7 @@
    "status": "defined",
    "context": "In the Slope Test the round tin went into two heaps. This card says why one thing can be a roller and a slider.",
    "definition": "A thing with a curved surface and a flat face can roll or slide. It depends on which part is on the ground.",
-   "description": "Lay a round tin on its side. Its curved surface is on the ground, so it rolls. Now stand the same tin on its end. A flat face is on the ground, so it stays, and it slides on a steep slope. Nothing about the tin changed. Only the part that touches the ground changed. A cone is the same. Standing on its flat face, it stays. Lying on its side, it rolls. So before you say what a thing will do, ask one question. Which part is touching the ground?",
+   "description": "Lay a round tin on its side. Its curved surface is on the ground, so it rolls. Now stand the same tin on its end. A flat face is on the ground, so it stays, or slides if the slope is steep. Nothing about the tin changed. Only the part that touches the ground changed. A cone does the same: it stays on its flat face and rolls on its side. So always ask which part is touching the ground.",
    "examples": [
     "A coin on its edge rolls. A coin lying flat slides.",
     "A bangle on its edge rolls. A bangle lying down stays.",
@@ -266,7 +266,7 @@
    "status": "defined",
    "context": "This card sorts the things from the Slope Test into four families of solid shapes.",
    "definition": "Many things around us are close to one of four solid shapes: a ball, a box, a tin or a cone.",
-   "description": "To find the family, feel the thing. Curved all over, with no flat face? It is a ball shape. Six flat faces and nothing curved? It is a box shape. Two flat round faces and a curved side? It is a tin shape. One flat round face, a curved side and a point? It is a cone. Size does not matter. A marble and a football are both ball shapes. Many things fit no family, such as a spoon or a banana. In later classes you will learn the maths names: sphere, cuboid, cylinder and cone.",
+   "description": "To find the family, feel the thing. Curved all over, with no flat face: a ball shape. Six flat faces and nothing curved: a box shape. Two flat round faces and a curved side: a tin shape. One flat round face, a curved side and a point: a cone. Size does not matter, so a marble and a football are both ball shapes. Many things, such as a spoon or a banana, fit no family. In later classes you will learn the maths names: sphere, cuboid, cylinder and cone.",
    "examples": [
     "Ball shapes: a marble, a football, a laddu, a pea.",
     "Box shapes: a matchbox, a dice, a brick, a soap box.",
@@ -314,7 +314,7 @@
    "status": "defined",
    "context": "In Stack It you tried to build a tower from balls, boxes, tins and a cone. This card says which shapes stack and why.",
    "definition": "A thing can go in the middle of a tower only if it has a flat face below and a flat face on top.",
-   "description": "Here is a worked example. Put one matchbox on another. Flat face sits on flat face, and it stays. Now put a lemon on a lemon. Two curved surfaces meet at one tiny spot, and the top lemon rolls off. A tin standing up has a flat face below and a flat face on top. So tins stack well. A cone has one flat face and a point. It can sit on top of a tower, but nothing can sit on its point.",
+   "description": "Put one matchbox on another. Flat face sits on flat face, and it stays. Now put a lemon on a lemon. They touch at one tiny spot, and the top lemon rolls off. A tin standing up has a flat face below and a flat face on top, so tins stack well. A cone has one flat face and a point. It can sit on top of a tower, but nothing can sit on its point.",
    "examples": [
     "Shops stack soap boxes and tins on shelves.",
     "Idli plates stack because each one is flat underneath.",
@@ -354,7 +354,7 @@
    "status": "defined",
    "context": "In the Slope Test the tin rolled straight and the cone went round in a curve. This card says why.",
    "definition": "A tin is the same width at both ends, so it rolls straight. A cone is wide at one end and has a point at the other, so it rolls in a curve.",
-   "description": "Lay a cone on the floor and push it gently. Watch the two ends. In one full turn, the wide end travels a long way round. The point hardly moves at all. So the cone swings round its point. A tin is different. Both of its ends are the same width, so both travel the same distance in one turn. The tin goes straight. A tumbler that is wider at the top is in between. It rolls in a big curve.",
+   "description": "Lay a cone on the floor and push it gently. Watch the two ends. In one full turn, the wide end travels a long way round. The point hardly moves. So the cone swings round its point. Both ends of a tin are the same width, so both travel the same distance, and the tin goes straight. A tumbler that is wider at the top is in between, and it rolls in a big curve.",
    "examples": [
     "A party cap pushed on the floor goes round its point.",
     "A rolling pin rolls straight.",
@@ -386,7 +386,7 @@
    "status": "defined",
    "context": "This card looks at the word for a tin shape in three languages. It shows that people often named this shape by what it does.",
    "definition": "A shape's name is a word people chose. For the tin shape, many people chose a word that means rolling.",
-   "description": "The maths name for a tin shape is cylinder. It comes from an old Greek word, kylindros, which means roller. In Tamil, the word urulai is used for this shape. It comes from urul, which means to roll. A wheel can be called urulai too. In Hindi the shape is called belan. Belan is also the rolling pin in the kitchen. So people far apart looked at this shape and noticed the same thing: it rolls. But a tin also stands and stacks. The names leave that out.",
+   "description": "The maths name for a tin shape is cylinder. It comes from an old Greek word, kylindros, which means roller. In Tamil the word urulai is used for this shape and for a wheel. It comes from urul, which means to roll. In Hindi the shape is called belan, which is also the rolling pin in the kitchen. So people far apart noticed the same thing about this shape: it rolls. But a tin also stands and stacks, and the names leave that out.",
    "examples": [
     "English: cylinder, from the Greek word for roller.",
     "Tamil: urulai, from urul, to roll.",
@@ -426,7 +426,7 @@
    "status": "defined",
    "context": "A coin looks flat, but it rolled on its edge in the Slope Test. This card asks whether anything you can hold is really flat.",
    "definition": "Everything you can hold is a solid shape, even a very thin thing.",
-   "description": "Look at a coin from the side. It has a little thickness. It has 2 flat round faces and a thin curved surface between them. So a coin is a very short tin. That is why it rolls on its edge. A sheet of paper has a tiny thickness too. Stack 100 sheets and you can see it. So a sheet of paper is a very thin box. In everyday talk we call coins and paper flat. In maths, a truly flat shape has no thickness at all. You can draw one, but you cannot pick one up.",
+   "description": "Look at a coin from the side. It has a little thickness. It has 2 flat round faces and a thin curved surface between them, so it is a very short tin. That is why it rolls on its edge. A sheet of paper has a tiny thickness too, so it is a very thin box. In everyday talk we call coins and paper flat. In maths, a truly flat shape has no thickness at all. You can draw one, but you cannot pick one up.",
    "examples": [
     "A coin is a very short tin shape.",
     "A sheet of paper is a very thin box shape.",
@@ -462,7 +462,7 @@
    "status": "defined",
    "context": "People are not the only ones who make things that roll and slide. This card gives two examples that scientists have watched closely.",
    "definition": "Many living beings make solid shapes and use the way those shapes move.",
-   "description": "Some dung beetles feed on the dung of cows and elephants. A beetle pats a lump of dung into a ball. Then they push the ball away with their back legs, walking backwards. A ball rolls any way you push it, so the beetle can take the food far from other beetles. Such beetles live in India too. An antlion is a young insect who lives in dry sand. They dig a pit shaped like a cone, with the point at the bottom, and wait there. An ant who steps over the edge slides down the loose sand to the bottom.",
+   "description": "Some dung beetles feed on the dung of cows and elephants. A beetle pats a lump of dung into a ball. Then they walk backwards and push the ball away with their back legs. A ball rolls any way you push it, so the food is soon far from other beetles. Such beetles live in India too. A young antlion lives in dry sand. They dig a pit shaped like a cone, with the point at the bottom, and wait there. An ant who steps over the edge slides down the loose sand.",
    "examples": [
     "A dung beetle shapes dung into a ball and rolls it away.",
     "An antlion digs a cone-shaped pit in dry sand.",
@@ -497,7 +497,7 @@
    "status": "defined",
    "context": "This card looks at where balls, boxes and tins turn up in the world, and gives a simple reason for each.",
    "definition": "Each solid shape turns up where its way of moving or staying is useful.",
-   "description": "The Earth is a huge ball. So are the Moon and the Sun. The reason, told simply, is that each one pulls everything in it towards its middle, from every side. About 1,500 years ago the Indian mathematician Aryabhata wrote that the Earth is round. Bricks are box shapes. Their flat faces stack, so a wall stays up. A wheel is a short tin shape lying on its curved surface. That is why a bus rolls. A brick wall that rolled would be no use, and nor would a bus that stayed. You will learn the fuller reasons in later years.",
+   "description": "The Earth is a huge ball, and so are the Moon and the Sun. Told simply, each one pulls everything in it towards its middle, from every side. About 1,500 years ago the Indian mathematician Aryabhata wrote that the Earth is round. Bricks are box shapes, and their flat faces stack, so a wall stays up. A wheel is a short tin shape lying on its curved surface, and that is why a bus rolls. A wall that rolled would be no use, and nor would a bus that stayed. You will learn the fuller reasons in later years.",
    "examples": [
     "The Earth, the Moon and the Sun are ball shapes.",
     "Bricks are box shapes, so they stack into walls.",
@@ -3904,14 +3904,14 @@
    "url": "",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "A science museum with things to push, roll and turn by hand. Look for wheels, rollers and balls on tracks. Check the timings before you go."
+   "why": "A science museum with a Fun Science gallery of hands-on exhibits. Look for wheels, rollers and balls on tracks. Check the timings before you go."
   },
   {
    "title": "Nehru Science Centre",
    "url": "",
    "kind": "place",
    "where": "Mumbai",
-   "why": "A science centre with hands-on exhibits and an outdoor science park. Look for things that roll and things that slide. Check the timings before you go."
+   "why": "A science centre with a large outdoor science park of hands-on exhibits. Look for things that roll and things that slide. Check the timings before you go."
   }
  ],
  "buy": [
@@ -4047,7 +4047,7 @@
    "what_is_life": "A dung beetle has never done a slope test. They still pat their food into a ball, and a ball is the shape that rolls best.",
    "what_is_this_world": "The Earth under your feet is a huge ball. From where you stand, the ground looks flat. How a thing looks depends on where you stand."
   },
-  "thread": "Take one tin. Lay it down, and it rolls. Stand it up, and it stays. Look at its end, and you see a circle. Look at its side, and you see a rectangle. It is one tin, and it shows itself in many ways.",
+  "thread": "Take one tin. Lay it down, and it rolls. Stand it up, and it stays. Look at its end and you see a circle, and look at its side and you see a rectangle. It is one tin, and it shows itself in many ways.",
   "teachings": [
    {
     "source": "Udana 6.4 (Tittha Sutta)",
@@ -4113,5 +4113,5 @@
    "Why planets are round: NASA Space Place, 'Why Are Planets Round?', and Scientific American's short explainer of the same name. Gravity pulls a large body's material towards its centre from all sides."
   ]
  },
- "playtest": "Walked through every flow as a family of two in a flat. The Slope Test needs a smooth slope: a steel tray or a laminated board. On a cloth-covered book the matchbox may not slide even at 5 books, so the step tells the parent to lift the end by hand. A grown-up needs about 3 minutes to make the paper cone. On 2 books, a ball, a tin lying across the slope and a cone lying down move, and flat things stay. A cone on a slope swings round its point and often stops, so the table says 'rolled in a curve'. A tall thin tin can topple when it stands on the steep slope, so the list asks for a short one. These slope results come from how such shapes behave and from reasoning. They were not filmed or measured for this unit, so try the Slope Test once before doing it with your child. Stack It was checked by counting: the tallest tower uses 6 of the 7 things, and the ball is left out. In the cup challenge, two cups taped bottom to bottom roll straight because they rest on two rims of the same size. Two cups taped mouth to mouth rest on the join in the middle, tip to one side and curve again. The game Roll, Slide or Both? was played in the head with 1 and 2 players. A cone is the hardest shape to fetch, so the rules allow a paper one. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 2013 dung beetle and Milky Way paper, roller dung beetles in India, the 2017 and 2018 murre egg work, antlion pits, the Indian pangolin curling into a ball, Udana 6.4, Thirukkural 667, the origins of the words cylinder, urulai and belan, and why planets are round. Not fully checked: the exact verse where Aryabhata says the Earth is round (only an encyclopedia entry was read), and the two museums in the links, which were not looked up. The claim that a sliding coin stops sooner than a rolling marble is ordinary physics and was not sourced. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it."
+ "playtest": "Walked through every flow as a family of two in a flat. The Slope Test needs a smooth slope: a steel tray or a laminated board. On a cloth-covered book the matchbox may not slide even at 5 books, so the step tells the parent to lift the end by hand. A grown-up needs about 3 minutes to make the paper cone. On 2 books, a ball, a tin lying across the slope and a cone lying down move, and flat things stay. A cone on a slope swings round its point and often stops, so the table says 'rolled in a curve'. A tall thin tin can topple when it stands on the steep slope, so the list asks for a short one. These slope results come from how such shapes behave and from reasoning. They were not filmed or measured for this unit, so try the Slope Test once before doing it with your child. Stack It was checked by counting: the tallest tower uses 6 of the 7 things, and the ball is left out. In the cup challenge, two cups taped bottom to bottom roll straight because they rest on two rims of the same size. Two cups taped mouth to mouth rest on the join in the middle, tip to one side and curve again. The game Roll, Slide or Both? was played in the head with 1 and 2 players. A cone is the hardest shape to fetch, so the rules allow a paper one. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 2013 dung beetle and Milky Way paper, roller dung beetles in India, the 2017 and 2018 murre egg work, antlion pits, the Indian pangolin curling into a ball, Udana 6.4, Thirukkural 667, the origins of the words cylinder, urulai and belan, and why planets are round. The two museums in the links were looked up, but not their timings. Not fully checked: the exact verse where Aryabhata says the Earth is round. Only an encyclopedia entry was read. The claim that a sliding coin stops sooner than a rolling marble is ordinary physics and was not sourced. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it."
 }
