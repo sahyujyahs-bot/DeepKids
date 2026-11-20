@@ -670,7 +670,7 @@ function fxCards(u) {
         u.maths.forEach((m, i) =>
           add(
             "math." + i,
-            `${m.chart ? "" : fxImg(u, "maths", "")}<div class="fxtxt"><span class="fxeb">➗ Maths from our experiments · problem ${i + 1} of ${u.maths.length}</span>${m.why_maths ? `<p class="fxwhym"><b>Why maths here?</b> ${esc(m.why_maths)}</p>` : ""}${fxHow(u, m)}${fxChart(m.chart)}<h2>${esc(m.problem)}</h2><details class="fxask"><summary>Show the answer</summary><p><b>${esc(m.answer)}</b></p><p class="fxsm">${esc(m.explain)}</p>${fxChart(m.answer_chart)}</details><p class="fxsm">Doing this adds the maths idea behind it to your queue next.</p></div>`,
+            `${m.chart ? "" : fxImg(u, "maths", "")}<div class="fxtxt"><span class="fxeb">➗ ${u.id.startsWith("math.") ? "Problem" : "Maths from our experiments · problem"} ${i + 1} of ${u.maths.length}</span>${m.why_maths ? `<p class="fxwhym"><b>${u.id.startsWith("math.") ? "Why this problem?" : "Why maths here?"}</b> ${esc(m.why_maths)}</p>` : ""}${fxHow(u, m)}${fxChart(m.chart)}<h2>${esc(m.problem)}</h2><details class="fxask"><summary>Show the answer</summary><p><b>${esc(m.answer)}</b></p><p class="fxsm">${esc(m.explain)}</p>${fxChart(m.answer_chart)}</details>${u.id.startsWith("math.") ? "" : `<p class="fxsm">Doing this adds the maths idea behind it to your queue next.</p>`}</div>`,
             m.problem,
           ),
         );
@@ -756,6 +756,7 @@ function fxScore(u) {
     rf = fxSt().ref[u.id] || [];
   return `${sc.r} right, ${sc.w} to practise${rf.length ? `. ${rf.length} question${rf.length > 1 ? "s are" : " is"} on your refresher list.` : "."}`;
 }
+const FXMATH = ["Use it", "➗", "Real problems from daily life that use this idea."];
 const FXS = {
   intro: ["Before we begin", "👀", "A puzzle to wake up your brain."],
   story: [
@@ -829,7 +830,7 @@ function fxSecMeta(u, o, ent) {
         x.question || x.problem || x.flow?.[0]?.do || (x.tier ? `${x.items.length} questions, ${x.tier} level.` : ""),
     };
   }
-  const m = FXS[o] || [o, "✨", ""],
+  const m = (o === "maths" && u.id.startsWith("math.") ? FXMATH : FXS[o]) || [o, "✨", ""],
     mins =
       {
         story: u.story.mins,

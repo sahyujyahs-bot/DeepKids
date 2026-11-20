@@ -92,7 +92,7 @@ Take 6 beans and put them in pairs. Every bean has a partner, so 6 is even. Take
 
 ## Mostly agreed
 - A correct count gives the same number whichever thing you start with. *How we know:* Anyone can test it with beans. Count them left to right, right to left and from the middle. If each bean gets one number, the answer is the same every time.
-- Saying the number words is not the same as counting. *How we know:* In 1990 the scientist Karen Wynn asked young children who could say the numbers to hand over an exact number of toys. Many just grabbed a handful. They had the words before they had the meaning.
+- Saying "one, two, three" is not the same as counting. *How we know:* In 1990 a scientist named Karen Wynn asked small children to give her 3 toys. These children could say "one, two, three, four, five". But many just grabbed a handful. They knew the words, but not yet what each word means.
 - There is no biggest number. *How we know:* Whatever number is named, adding one gives a bigger number. So no number can be the last.
 - Some other animals keep track of small numbers. *How we know:* Trained honeybees searched for food after passing a set number of tents (Chittka and Geiger, 1995). Trained crows gave one to four calls on request (Liao and others, 2024).
 
@@ -112,28 +112,28 @@ Take 6 beans and put them in pairs. Every bean has a partner, so 6 is even. Take
   Against: Trained honeybees and crows have matched exact numbers up to four. Whether that should be called counting is argued about, but they are keeping track of number.
 
 ## Roots
-We have been counting beans, chappals, dots and claps. Now we ask what counting tells us about ourselves and the world.
+We counted beans, chappals, dots and claps. Now let us think about what counting really is.
 
-**Deep truth.** Count the chappals by the door and you may get 8. Count the same heap in pairs and you get 4. Nothing moved, and both answers are right. Before any counting starts, someone has to choose what one is. So a number tells us about the things and about that choice together.  
-*Habit it breaks:* We think 'how many' has a single answer that sits inside the things, waiting to be read off. But every count needs a counter who first decides what to treat as one.  
-*Evidence:* In the activity One Heap, Two Answers, one heap of chappals gave two right counts. In 2006 astronomers agreed on what counts as a planet, and the Sun's planets went from nine to eight. Nothing in the sky had changed.
+**Deep truth.** Put your chappals by the door. Count them one by one: 8. Now count them in pairs: 4. It is the same chappals, and both answers are right. Why? Before we count, we choose what to call one. One chappal is one. One pair is one too.  
+*Habit it breaks:* We think the number is hiding inside the things, and we just read it off. But we decide what to call one, and then we count.  
+*Evidence:* In the activity One Heap, Two Answers, you counted the same chappals two ways and got 8 and 4.
 
-- *who am i:* You are one child. You are also two hands, ten fingers and more tiny cells than anyone could count in a lifetime. Each count is true.
-- *what is life:* Honeybees keep track of the tents they fly past, and crows of the calls they make. Counting is something many living beings do, each in their own way.
-- *what is this world:* The world does not come cut up into ones. A river, a heap of rice, a bunch of bananas: we choose where one thing ends and the next begins.
+- *who am i:* You are one child. You are also two hands and ten fingers. You can count yourself in many ways, and each way is true.
+- *what is life:* Many living things count in their own way. Bees can count the landmarks on the way to food. Crows can count their own calls.
+- *what is this world:* A heap of rice does not come in ones. We choose what to call one: one grain, one handful or one bowl.
 
-Every count begins with one. Every other number is made by adding one more, again and again, without end. So all the numbers there are come out of one. And it works the other way too. Any many things, such as a bunch, a flock or a family, can be called one again.
+Every number starts from one. One more makes two. One more makes three. And you can call many things one: one bunch of bananas, one family, one pair of chappals.
 
 - **Thirukkural 392:** Thiruvalluvar, the Tamil poet, says that numbers and letters are the two eyes of all who live. (Without counting, 12 beans and 13 beans look the same. Counting lets you see a difference that your eyes alone miss.)
 - **Chandogya Upanishad 6.2.1:** The Chandogya Upanishad says that in the beginning there was Being alone, one only, without a second. (Counting begins in the same way. It starts with one, and every later number comes from one by adding one more.)
 - **Tao Te Ching 42:** The Tao Te Ching says: the Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things. (This is counting on. Each number comes from the number before it.)
-- Maths (settled): The Pirahã people of the Amazon, in Brazil, speak a language with no words for exact numbers. In tests, they could still match one row of things to another, one to one, when both rows were in front of them (Frank and others, 2008). So matching one to one does not need number words.
-- Maths (open): Whether numbers exist by themselves, or only when a mind counts, is still argued about by mathematicians and philosophers.
-- Other view, Plato, a Greek thinker who lived about 2,400 years ago, and many mathematicians since: They say numbers are real whether or not anyone counts. Two and one made three before there were people, and nobody chose that. The chappal heap only shows that 'how many chappals?' and 'how many pairs?' are two different questions. Each has one true answer, and people did not make that answer. They found it.
+- Maths (settled): The Pirahã people of the Amazon in Brazil have no number words for exact amounts. Even so, they could match one row of things to another, one to one (Frank and others, 2008). So matching one to one does not need number words.
+- Maths (open): Do numbers exist by themselves, or only when someone counts? Mathematicians and thinkers still argue about this.
+- Other view, Plato, a Greek thinker who lived about 2,400 years ago, and many mathematicians since: They say numbers are real even if nobody counts. Two things and one more thing make three things, with or without people. They say the chappal heap only shows two different questions: how many chappals, and how many pairs? Each question has one true answer, and people found it. They did not make it.
 - Practice, Ten breaths, one at a time (3 min): Sit still and close your eyes. We will count ten breaths. Breathe in and out, and that is one. Touch one finger to your knee for each breath. If you lose count, smile and start again from one. When you reach ten, open your eyes. Was each breath the same, or was each one different?
 - Ask: Is the number three in the three bananas, or in the one who counts them?
 - Ask: If nobody ever counted the stars, would there still be a number of stars?
-- Ask: No two beans are exactly alike. So what are we choosing to ignore when we call each of them one?
+- Ask: No two beans are exactly alike. Why do we still call each one a bean?
 - Ask: What is something that cannot be counted? Why not?
 
 ## Deep and big questions
