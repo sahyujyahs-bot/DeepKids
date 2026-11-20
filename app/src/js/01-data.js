@@ -2,7 +2,8 @@
 const DATA = /*DATA*/ null;
 // the build puts all content here (app/build/data.json)
 const SUBJ = { ...DATA.subjects, sci: "Science", wml: "Main lesson", wart: "Arts & handwork" },
-  SUBJ_KEYS = Object.keys(SUBJ);
+  SUBJ_KEYS = Object.keys(SUBJ),
+  UNIT_SUBJ = [...new Set(Object.keys(DATA.units || {}).map((id) => id.split(".")[0]))]; // subjects that have DeepKids units
 DATA.prepgen.guide.wml =
   "Prepare tomorrow's story the night before so you can tell it in your own words. Keep the rhythm: circle, recall, new content, Main Lesson Book, practice, closing.";
 DATA.prepgen.guide.wart =

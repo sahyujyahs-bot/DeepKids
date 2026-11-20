@@ -2,16 +2,15 @@
 // one labelled row of choices (Board, Subject, Class...): the label says what the row picks, each kind has its colour
 const pickRow = (kind, label, chips) =>
   `<div class="pick ${kind}"><span class="pickl">${label}</span><div class="row chips">${chips}</div></div>`;
-function combinedTopicList() {
-  const sj = "sci",
-    cls = Object.keys(DATA.combined?.[sj] || {})
+function combinedTopicList(sj) {
+  const cls = Object.keys(DATA.combined?.[sj] || {})
       .map(Number)
       .sort((a, b) => a - b),
-    lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.sci) ? S.levels.sci : cls[0],
+    lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.[sj]) ? S.levels[sj] : cls[0],
     L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
   return {
     ctl:
-      dkViewPick() +
+      dkViewPick(sj) +
       pickRow(
         "c",
         "Class",
@@ -21,7 +20,7 @@ function combinedTopicList() {
       ),
     sum: ["Class plan", `Class ${lv}`],
     count: `${L.length} topics`,
-    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
+    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every ${SUBJ[sj].toLowerCase()} topic any board teaches in Class ${lv}.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
   };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
@@ -49,39 +48,43 @@ function dkTrackBrowse() {
         .map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`)
         .join(""),
     );
-  if (sj !== "sci")
+  if (!UNIT_SUBJ.includes(sj))
     return {
       ctl: chips,
       sum: [SUBJ[sj]],
       count: "",
       body: `<p class="note">DeepKids ${esc(SUBJ[sj])} is coming soon. For now, its chapters are under Board track.</p>`,
     };
-  const c = combinedBrowse();
+  const c = combinedBrowse(sj);
   return { ...c, ctl: chips + c.ctl, sum: [SUBJ[sj], ...c.sum] };
 }
-// DeepKids Science two ways, picked under View: the class plan, or every topic with its levels 1 to 5
-const dkViewPick = () =>
-  pickRow(
-    "v",
-    "View",
-    [
-      ["class", "Class plan"],
-      ["topic", "All topics and levels"],
-    ]
-      .map(
-        ([k, n]) =>
-          `<button class="chip" aria-pressed="${(ui.dkview === "topic" ? "topic" : "class") === k}" data-act="dkv" data-v="${k}">${n}</button>`,
+// a DeepKids subject two ways, picked under View: the class plan (only where the subject has one), or every topic with its levels 1 to 5
+const hasClassPlan = (sj) => !!DATA.combined?.[sj];
+const dkViewPick = (sj) =>
+  hasClassPlan(sj)
+    ? pickRow(
+        "v",
+        "View",
+        [
+          ["class", "Class plan"],
+          ["topic", "All topics and levels"],
+        ]
+          .map(
+            ([k, n]) =>
+              `<button class="chip" aria-pressed="${(ui.dkview === "topic" ? "topic" : "class") === k}" data-act="dkv" data-v="${k}">${n}</button>`,
+          )
+          .join(""),
       )
-      .join(""),
-  );
-const combinedBrowse = () => (ui.dkview === "topic" ? fxTopicLadder() : combinedTopicList());
-// every science unit, one level at a time: pick a level, see its units by strand; any open unit can be added to the
+    : "";
+const combinedBrowse = (sj) =>
+  ui.dkview === "topic" || !hasClassPlan(sj) ? fxTopicLadder(sj) : combinedTopicList(sj);
+// every unit of a subject, one level at a time: pick a level, see its units by strand; any open unit can be added to the
 // plan alongside the class plan, and a count says how many more are coming
-function fxTopicLadder() {
-  const T = DATA.ladder?.sci || [];
+function fxTopicLadder(sj) {
+  const T = DATA.ladder?.[sj] || [];
   if (!T.length) return { ctl: "", sum: [], count: "", body: "" };
   const lvs = [...new Set(T.flatMap((t) => t.levels.map(([l]) => +l)))].sort((a, b) => a - b),
-    lv = lvs.includes(ui.bl) ? ui.bl : lvs.includes(S.levels?.sci) ? S.levels.sci : lvs[Math.min(2, lvs.length - 1)],
+    lv = lvs.includes(ui.bl) ? ui.bl : lvs.includes(S.levels?.[sj]) ? S.levels[sj] : lvs[Math.min(2, lvs.length - 1)],
     at = (t) => t.levels.find(([l]) => +l === lv)?.[1] || [],
     all = T.flatMap(at),
     have = all.filter(([id]) => DATA.units?.[id]),
@@ -97,7 +100,7 @@ function fxTopicLadder() {
    <section class="fxnew">${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
   return {
     ctl:
-      dkViewPick() +
+      dkViewPick(sj) +
       pickRow(
         "c",
         "Level",

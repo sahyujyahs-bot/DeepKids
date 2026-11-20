@@ -112,7 +112,7 @@ const gameSet = (u) => (u?.board === "unit" ? DATA.units?.[u.c.unit]?.warm : u?.
 // whose games the family plays today: a lesson planned for today if it has games, otherwise the next unit in turn, so
 // they change every day. The choice stays the same all day
 function dailyUnit() {
-  if (!S.subjects.includes("sci")) return null;
+  if (!UNIT_SUBJ.some((s) => S.subjects.includes(s))) return null;
   const g = gamesToday(),
     kept = g.u && unitBy(g.u);
   if (gameSet(kept)) return kept;

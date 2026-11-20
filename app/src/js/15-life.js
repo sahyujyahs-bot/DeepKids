@@ -26,11 +26,11 @@ function addInterest(t) {
   intSt().push({ id: newId(), t, date: today, links: lifeGuess(t).links, queued: [] });
 }
 const lifeBy = (id) => lifeSt().find((m) => m.id === id);
-// the topics a moment can link to: every DeepKids science unit, and the maths, English, Hindi and social topic tags
+// the topics a moment can link to: every DeepKids unit, and the maths, English, Hindi and social topic tags
 // (app/content/life/tags.json), each of which stands for its chapters in every board
 function lifePool() {
   return [
-    ...Object.entries(DATA.units || {}).map(([id, x]) => ({ k: "unit|" + id, s: "sci", t: x.title })),
+    ...Object.entries(DATA.units || {}).map(([id, x]) => ({ k: "unit|" + id, s: id.split(".")[0], t: x.title })),
     ...(DATA.life?.tags || []).map((t) => ({ k: t.id, s: t.subj, t: t.name })),
   ];
 }
