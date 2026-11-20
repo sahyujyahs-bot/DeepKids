@@ -245,7 +245,7 @@
    "status": "defined",
    "context": "This card is about the words people use for a half in English, Tamil and Hindi.",
    "definition": "Half means one of two equal parts. Many languages have a special word for it.",
-   "description": "The word half does not sound like the word two. The same is true in other languages. In Tamil, two is irandu and half is arai. In Hindi, two is do and half is aadha. People needed a word for half so often that they gave it a word of its own. Listen at the vegetable shop. In Tamil Nadu you may hear 'arai kilo', which is half a kilo. Tamil has a word for a quarter too, which is kaal. Half of a quarter is araikkaal. That word is made of arai and kaal, half and quarter.",
+   "description": "The word half does not sound like the word two. The same is true in some other languages. In Tamil, two is irandu and half is arai. In Hindi, two is do and half is aadha. People needed a word for half so often that they gave it a word of its own. Listen at the vegetable shop. In Tamil Nadu you may hear 'arai kilo', which is half a kilo. Tamil has a word for a quarter too, which is kaal. Half of a quarter is araikkaal. That word is made of arai and kaal, half and quarter.",
    "examples": [
     "English: half a dosa. Tamil: arai dosai. Hindi: aadha dosa.",
     "A half-litre packet of milk holds half as much as a one-litre packet.",
@@ -288,7 +288,7 @@
    "concept": "Other living beings make halves too",
    "status": "debated",
    "context": "This card is about a groundnut seed, a tiny bacterium and your own first day of life. Each one shows halving in a living being.",
-   "description": "Humans are not the only living beings who halve. Take a groundnut and rub off the thin red skin. Press gently. The seed opens into two halves that match. A bean and a chana do the same. Many plants build each seed as two matching halves, with the tiny baby plant between them. Now think of a bacterium, a living being too small to see. One kind is called E. coli, and they are shaped like a tiny rod. To make a new bacterium, one of them grows longer and then splits across the middle into two. In 2008, scientists measured where the split falls. It was very close to the exact middle nearly every time, but never perfectly on it. You did this too. You began as one single cell. After about a day, that cell split into two cells. About a day later there were four. What people argue about is whether to call this maths.",
+   "description": "Humans are not the only living beings who halve. Take a groundnut and rub off the thin red skin. Press gently. The seed opens into two halves that match. A bean and a chana do the same. Many plants build each seed as two matching halves, with the tiny baby plant between them. Now think of a bacterium, a living being too small to see. One kind is called E. coli, and they are shaped like a tiny rod. To make a new bacterium, one of them grows longer and then splits across the middle into two. In 2008, scientists measured where the split falls. It was very close to the exact middle, but usually a tiny bit off. You did this too. You began as one single cell. After about a day, that cell split into two cells. About a day later there were four. What people argue about is whether to call this maths.",
    "examples": [
     "A groundnut seed opens into two halves that fit together like two cupped hands.",
     "Toor dal is a seed called pigeon pea, with the skin taken off and the two halves split apart.",
@@ -304,7 +304,7 @@
      "explanation": "The bacterium uses chemicals that move from end to end inside the cell and leave the middle free. That is a way of finding the middle, but nobody knows of any counting or measuring behind it. They say it is safer to call it halving, and to leave the word maths open."
     }
    ],
-   "art": "A groundnut seed opened into its two matching halves with the tiny baby plant at one end, next to a rod-shaped bacterium pinching in at the middle.",
+   "art": "A groundnut seed opened into two matching halves with the tiny baby plant at one end, next to a rod-shaped bacterium pinching in at the middle.",
    "chart": {
     "type": "dots",
     "rows": [
@@ -441,7 +441,7 @@
   "read_aloud": true,
   "note": "Selvi, Muthu, Paati and Appa are made up. It is true that many families in Tamil Nadu buy sugarcane for Pongal. It is true that the joints of a sugarcane are closer together near the bottom, and that the bottom part is usually sweeter than the top.",
   "text": [
-   "On the morning of Pongal, Paati came home from the market with one stick of sugarcane. It was taller than Appa. It was purple and shiny, with a tuft of green leaves at the top.",
+   "On the morning of Pongal, Paati came home from the market with one stick of sugarcane. The cane was taller than Appa. The stalk was purple and shiny, with a tuft of green leaves at the top.",
    "\"One cane,\" said Paati. \"Half for Selvi and half for Muthu. Not a finger more for either of you.\"",
    "Selvi was seven. Her brother Muthu was nine, and he liked to be in charge.",
    "\"I will find the middle,\" said Muthu. \"It is easy.\"",
@@ -463,7 +463,7 @@
    "\"The same length,\" said Paati. \"But the bottom of a cane is sweeter than the top. Everybody who has grown sugarcane knows that.\"",
    "Selvi and Muthu looked at each other. Then they both said, \"I want the bottom!\"",
    "They argued until the pongal pot on the stove began to hiss. Muthu said he was older. Selvi said she had found the middle. Appa waited with the big knife and said nothing.",
-   "Selvi sat down next to the cane and looked at it for a long time. She looked at the string in her hand. She had folded the string end to end. But a cane had another middle too. It ran the long way, from the bottom all the way up to the leaves.",
+   "Selvi sat down next to the cane and looked for a long time. She looked at the string in her hand. She had folded the string end to end. But a cane had another middle too. It ran the long way, from the bottom all the way up to the leaves.",
    "\"Appa,\" she said. \"Do not cut it across. Cut it the long way. Down the middle, from top to bottom.\"",
    "Appa laughed. He stood the cane up and set the knife on the top end. He tapped it with a block of wood, and the cane split slowly, all the way down, with a sound like a door creaking.",
    "Now there were two long halves. Each one had a sweet bottom and a plain top.",
@@ -1373,7 +1373,7 @@
      "what": "Open six groundnuts. Compare the two halves of each. Look at dal."
     }
    ],
-   "record": "Draw one groundnut seed opened into its two halves. Draw the tiny baby plant where you found it.",
+   "record": "Draw one groundnut seed opened into two halves. Show where you found the tiny baby plant.",
    "setup": [
     {
      "art": "A child's fingers rubbing the thin red skin off a groundnut seed over a plate.",
@@ -1392,7 +1392,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give your child one groundnut. 2. Ask for a guess: how many parts are inside the seed? 3. Your child rubs off the red skin and presses the seed gently until it opens.",
+     "do": "1. Give your child one groundnut. 2. Ask for a guess: how many parts are inside the seed? 3. Your child rubs off the red skin and presses gently until the seed opens.",
      "say": "How many parts do you think are inside this one seed? Why?",
      "kid": "Guess how many parts are inside the seed. Rub off the skin. Press gently.",
      "chart": {
@@ -1631,6 +1631,7 @@
     "If the plates are equal, put the beans from one plate in your cup. That is your half. The other half goes back to the bank.",
     "If one bean is left over, only that one bean goes in your cup. All the others go back to the bank.",
     "The first player with 12 beans in their cup wins.",
+    "If you like, write each turn on the score sheet: what you rolled, what each plate got and what was left over.",
     "Playing alone: count how many rolls you need to get 12 beans. Play again and try to need fewer."
    ],
    "setup": [
@@ -1953,7 +1954,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Your child builds and uses their way of proving. 2. For the balance, tie one cup to each end of the hanger with string of the same length, and hang it on a door handle. 3. Check that the empty balance hangs level. 4. Put one part in each cup. 5. If one side goes down, move a pinch of dough across and test again.",
+     "do": "1. Your child builds and uses their way of proving. 2. For the balance, tie one cup to each end of the hanger. Use string of the same length for both. Hang the hanger on a door handle. 3. Check that the empty balance hangs level. 4. Put one part in each cup. 5. If one side goes down, move a pinch of dough across and test again.",
      "say": "Test your two parts. If they are not equal, what will you do?",
      "kid": "Test your two parts your own way. Not equal? Move a pinch across. Test again.",
      "parent": "The balance must hang level when it is empty. If it does not, slide one string along the hanger until it does.",
@@ -2461,7 +2462,7 @@
      "ask": "Who do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason. For example: 5 and 4 are unequal, so keeping one aside is the only way to stay equal.",
-     "why": "9 cannot be shared into two equal groups of whole marbles. The friends have to agree on what is fair. Maths cannot choose for them.",
+     "why": "9 cannot be shared into two equal groups of whole marbles. The friends have to agree on what is fair. The numbers do not settle it.",
      "how": "e1"
     }
    ]
@@ -2584,7 +2585,7 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, from the smallest amount to the biggest.",
+     "p": "Put these three in order, smallest amount first.",
      "items": [
       "half of 12",
       "all 12",

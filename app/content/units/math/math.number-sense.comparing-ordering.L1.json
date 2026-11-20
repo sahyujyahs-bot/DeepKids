@@ -1,0 +1,3502 @@
+{
+ "id": "math.number-sense.comparing-ordering.L1",
+ "title": "More, fewer, the same: comparing numbers",
+ "level": 1,
+ "cards_mins": 8,
+ "summary": {
+  "text": "Five spoons in a long row, and seven beans in a short row. Which has more? Your eyes may say the spoons. You will test this with spoons, beans and onions, and find a way to compare that never fools you. You will learn the words more, fewer and the same, which of two numbers up to 20 is bigger, and how to put numbers in order. You will also find out that 7 is a big number next to 5 and a small number next to 9.",
+  "art": "A girl on a kitchen floor putting one bean on each of five spoons laid in a long row, with two beans left over in her palm."
+ },
+ "intro": {
+  "hook": "Meena and Kavya each have some laddus. Who has more? Can you tell without counting?",
+  "text": "Meena has more. You can tell without counting. Each of Kavya's laddus sits under one of Meena's, like partners. Two of Meena's laddus have no partner. So Meena has more, and Kavya has fewer. Now count to check: Meena has 9 and Kavya has 7. In this unit you will compare things by partnering them, by counting them, and by finding their numbers on a number line.",
+  "art": "Two steel plates of laddus side by side, one for each of two girls, with thin lines joining each laddu on one plate to a laddu on the other and two laddus left without a line.",
+  "chart": {
+   "type": "dots",
+   "rows": [
+    {
+     "label": "Meena",
+     "n": 9
+    },
+    {
+     "label": "Kavya",
+     "n": 7
+    }
+   ]
+  }
+ },
+ "outcomes": [
+  "I can tell which group has more, which has fewer, or if they are the same, by partnering the things one to one.",
+  "I can say why looking alone can fool me: a long row or a heap of big things can have fewer.",
+  "I can say which of two numbers up to 20 is bigger and which is smaller.",
+  "I can put numbers up to 20 in order, and name a number between two numbers.",
+  "I can find how many more one group has than another.",
+  "I can say that a number is bigger or smaller only next to another number, and that 'more' depends on what we compare."
+ ],
+ "terms": [
+  {
+   "term": "Compare",
+   "meaning": "To look at two groups or two numbers and find out which has more, which has fewer, or if they are the same.",
+   "example": "You compare the idlis on your plate with the idlis on your sister's plate.",
+   "art": "Two plates of idlis side by side with a child looking from one to the other."
+  },
+  {
+   "term": "More",
+   "meaning": "A group has more when it still has things left after every thing in the other group has a partner.",
+   "example": "6 tumblers and 4 plates: there are more tumblers than plates.",
+   "art": "Six steel tumblers and four plates, each plate with a tumbler on it and two tumblers standing alone."
+  },
+  {
+   "term": "Fewer",
+   "meaning": "A group has fewer when it runs out first. We say fewer for things we can count.",
+   "example": "6 tumblers and 4 plates: there are fewer plates than tumblers.",
+   "art": "Four plates in a row under six tumblers, with the last two tumblers having no plate below them."
+  },
+  {
+   "term": "The same",
+   "meaning": "Two groups are the same in number when every thing has a partner and nothing is left over. Another word for this is equal.",
+   "example": "5 people and 5 banana leaves: the same number. Everyone gets a leaf.",
+   "art": "Five people sitting on the floor, each with one banana leaf in front of them."
+  },
+  {
+   "term": "Partner",
+   "meaning": "To put one thing from one group next to one thing from the other group. One and one, again and again.",
+   "example": "You put one bean on each spoon. Each bean is the partner of one spoon.",
+   "art": "A row of spoons with one bean resting in the bowl of each spoon."
+  },
+  {
+   "term": "Left over",
+   "meaning": "The things that have no partner after you have partnered all you can.",
+   "example": "7 beans and 5 spoons: 2 beans are left over.",
+   "art": "Five spoons each holding a bean, and two beans lying beside the row with a circle drawn round them."
+  },
+  {
+   "term": "Bigger number",
+   "meaning": "The number that stands for more. When you count, you say it later. Another word is greater.",
+   "example": "12 is bigger than 8. You say 8 first and reach 12 later.",
+   "art": "A number line from 0 to 20 with 8 and 12 circled and an arrow pointing from 8 to 12."
+  },
+  {
+   "term": "Smaller number",
+   "meaning": "The number that stands for fewer. When you count, you say it earlier. We say 8 is less than 12.",
+   "example": "8 is smaller than 12.",
+   "art": "A number line from 0 to 20 with 8 and 12 circled and the 8 coloured in."
+  },
+  {
+   "term": "Order",
+   "meaning": "To put numbers in a line by size, from the smallest to the biggest, or from the biggest to the smallest.",
+   "example": "9, 4 and 15 in order from the smallest: 4, 9, 15.",
+   "art": "Three paper slips with 4, 9 and 15 laid in a row on the floor, with a child moving the last one into place."
+  },
+  {
+   "term": "Between",
+   "meaning": "A number is between two numbers when it is bigger than one of them and smaller than the other.",
+   "example": "10 is between 8 and 12.",
+   "art": "A number line with 8 and 12 circled and the numbers 9, 10 and 11 shaded between them."
+  },
+  {
+   "term": "Number line",
+   "meaning": "A line with the numbers written in counting order, with the same gap between them. Numbers further along the line are bigger.",
+   "example": "On a number line, 15 is further along than 11. So 15 is bigger.",
+   "art": "A paper strip with the numbers 0 to 20 written along it at even gaps, with a bean sitting on 11 and another on 15."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "More, fewer, the same: partner them up",
+   "status": "defined",
+   "context": "This card gives the surest way to compare two groups. You used it in the Partner Test with spoons and beans.",
+   "definition": "To compare two groups, give each thing in one group a partner from the other group. The group with things left over has more. The other group has fewer. If nothing is left over, the two groups are the same in number.",
+   "description": "Here is a worked example. There are 6 tumblers and 4 plates. Put one tumbler on each plate. All 4 plates now have a tumbler. 2 tumblers are left over. So there are more tumblers than plates, and fewer plates than tumblers. You did not need to count at all. Partnering works even with a heap too big for you to count. A note on words: we say fewer for things we can count, such as fewer plates. We say less for things we pour or measure, such as less sambar, and for numbers, such as 4 is less than 6.",
+   "examples": [
+    "7 children and 7 chairs. Every child sits and no chair is empty. The same number.",
+    "5 dosas and 3 people. Give one dosa to each person. 2 dosas are left over, so there are more dosas than people.",
+    "8 buttonholes on a shirt and 7 buttons. One hole has no button. There are fewer buttons than holes."
+   ],
+   "perspectives": [],
+   "art": "Six steel tumblers and four plates, with one tumbler standing on each plate and two tumblers left standing alone at the end.",
+   "chart": {
+    "type": "dots",
+    "title": "Each plate has a tumbler. Two tumblers are left over.",
+    "rows": [
+     {
+      "label": "tumblers",
+      "n": 6
+     },
+     {
+      "label": "plates",
+      "n": 4
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Looking can fool you",
+   "status": "defined",
+   "context": "In the Partner Test you guessed by looking before you partnered. This card says why the guess was sometimes wrong.",
+   "definition": "A group can look like more because its things are big, or spread far apart, or piled high. How much room a group takes up does not tell you how many things are in it.",
+   "description": "Here is a worked example. Put 5 big onions in a long row. Under them put 8 small chana, close together. The onion row is much longer, and the onions are much bigger. Many people point to the onions and say more. Now partner them. Put one chana in front of each onion. Every onion has a chana, and 3 chana are left over. So there are more chana. The onions take up more room, but there are fewer of them. When you want to know which group has more things, do not trust the length of the row or the size of the heap. Partner the things, or count them.",
+   "examples": [
+    "A row of 4 buses is far longer than a row of 10 cycles. There are still fewer buses.",
+    "10 one-rupee coins make a taller stack than 2 five-rupee coins. Here the taller stack really does have more coins. Looking is sometimes right. You cannot know until you check.",
+    "Spread 6 beans wide and push 9 beans into a heap. The heap looks small, but the heap has more."
+   ],
+   "perspectives": [],
+   "art": "Five large onions in a long row above eight small chana in a short tight row, with a child pointing at the onions.",
+   "chart": {
+    "type": "dots",
+    "title": "Partnered up: 3 chana have no onion",
+    "rows": [
+     {
+      "label": "big onions",
+      "n": 5
+     },
+     {
+      "label": "small chana",
+      "n": 8
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Bigger and smaller numbers",
+   "status": "defined",
+   "context": "This card shows how to compare two numbers when the things are not in front of you.",
+   "definition": "Of two numbers, the bigger number is the one you say later when you count. On a number line it is the one further along. The smaller number is the one you say earlier.",
+   "description": "Here is a worked example. Which is bigger, 8 or 12? Count from 1: 1, 2, 3, 4, 5, 6, 7, 8. You have reached 8, and you have not yet said 12. You must go on: 9, 10, 11, 12. You say 12 later, so 12 is bigger. Why does this work? Every time you count one more thing, you say the next number. So a group of 12 things has all the partners that a group of 8 needs, and 4 more. Now find both numbers on the number line. 12 is further along than 8. We say '12 is more than 8' and '8 is less than 12'. Both sentences say the same fact.",
+   "examples": [
+    "15 is bigger than 11. On the number line 15 is further along.",
+    "0 is smaller than every other number on the line. Zero things is fewer than one thing.",
+    "9 and 9 are the same. Neither is bigger."
+   ],
+   "perspectives": [],
+   "art": "A number line from 0 to 20 drawn on a strip of paper, with a rajma bean on 8 and a chana on 12.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 20,
+    "step": 1,
+    "title": "Find 8 and 12. Which is further along?"
+   }
+  },
+  {
+   "concept": "How many more? Count the ones left over",
+   "status": "defined",
+   "context": "This card shows how to find not only who has more, but how many more. You did this with two katoris in the Partner Test.",
+   "definition": "How many more is the number of things left over after partnering. It is also the number of hops on the number line from the smaller number to the bigger one.",
+   "description": "Here is a worked example. Meena has 9 marbles and Kavya has 6. Partner them: one of Meena's with one of Kavya's. After 6 partners, Kavya has no marbles left. Meena has 3 left over. So Meena has 3 more than Kavya. We can also say Kavya has 3 fewer than Meena. On the number line, start at 6 and hop to 9: 7, 8, 9. That is 3 hops. In the picture, the 3 dashed circles show how many more Kavya would need to have the same as Meena.",
+   "examples": [
+    "7 beans and 5 spoons: 2 beans are left over. There are 2 more beans than spoons.",
+    "One more than 14 is 15. One less than 14 is 13.",
+    "12 and 12: nothing is left over. Zero more."
+   ],
+   "perspectives": [],
+   "art": "Two rows of marbles, nine above and six below, joined in pairs by short lines, with the last three marbles of the top row circled.",
+   "chart": {
+    "type": "dots",
+    "title": "Kavya needs 3 more to have the same",
+    "rows": [
+     {
+      "label": "Meena",
+      "n": 9
+     },
+     {
+      "label": "Kavya",
+      "n": 6,
+      "more": 3
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Putting numbers in order",
+   "status": "defined",
+   "context": "This card shows how to line up three or more numbers by size. You did this in the Bean Staircase.",
+   "definition": "To order numbers is to put them in a line by size. From the smallest: start with the number you say first when you count. From the biggest: start with the number you say last.",
+   "description": "Here is a worked example. Put 8, 3 and 5 in order from the smallest. Count from 1 and listen for the three numbers. You say 3 first, then 5, then 8. So the order is 3, 5, 8. In beans, the rows make a staircase: each row is longer than the row above it. From the biggest, the order turns round: 8, 5, 3. A number between two others is bigger than one and smaller than the other. 5 is between 3 and 8. So are 4, 6 and 7.",
+   "examples": [
+    "12, 7, 15 from the smallest: 7, 12, 15.",
+    "The numbers between 10 and 13 are 11 and 12.",
+    "House numbers on one side of a street, the pages of a book and the dates on a calendar are all in order."
+   ],
+   "perspectives": [],
+   "art": "Three rows of beans, with three, five and eight beans, lined up at the left so that they look like steps.",
+   "chart": {
+    "type": "dots",
+    "title": "In order from the smallest",
+    "rows": [
+     {
+      "label": "3",
+      "n": 3
+     },
+     {
+      "label": "5",
+      "n": 5
+     },
+     {
+      "label": "8",
+      "n": 8
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Ten and some more: comparing numbers from 11 to 20",
+   "status": "defined",
+   "context": "This card shows a quick way to compare two numbers between 11 and 20. You built these numbers in the Two Ten-Frames activity.",
+   "definition": "Every number from 11 to 19 is one ten and some more ones. To compare two of them, compare the extra ones. A number with a full ten is always bigger than a number below ten.",
+   "description": "Here is a worked example. Which is bigger, 14 or 17? 14 is one ten and 4 more. 17 is one ten and 7 more. Both have one full ten, so the tens are the same. Now compare the extra ones: 7 is more than 4. So 17 is bigger than 14. Another example: which is bigger, 9 or 12? 12 has a full ten and 2 more. 9 does not even fill one ten. So 12 is bigger, though the 9 looks like a big numeral and 12 ends in a small 2. And 20 is two full tens, so 20 is bigger than every number from 11 to 19.",
+   "examples": [
+    "16 and 13: both have a ten. 6 is more than 3, so 16 is bigger.",
+    "11 and 8: 11 has a full ten. 8 does not. 11 is bigger.",
+    "19 and 20: 19 is one ten and 9. One more makes the second ten full. 20 is bigger by 1."
+   ],
+   "perspectives": [],
+   "art": "Two ten-frames side by side, each completely full of beans, with four loose beans under the first and seven loose beans under the second.",
+   "chart": {
+    "type": "dots",
+    "title": "Same ten. Compare the extra ones.",
+    "rows": [
+     {
+      "label": "14: ten",
+      "n": 10
+     },
+     {
+      "label": "14: more",
+      "n": 4
+     },
+     {
+      "label": "17: ten",
+      "n": 10
+     },
+     {
+      "label": "17: more",
+      "n": 7
+     }
+    ]
+   }
+  },
+  {
+   "concept": "More of what? First choose what you compare",
+   "status": "defined",
+   "context": "This card is about a choice people make before they compare. You met it in the activity More of What, with two sheets of paper.",
+   "definition": "The word more is not complete until you say more of what. More pieces is not the same as more paper. More coins is not the same as more money.",
+   "description": "Here is a worked example. Take two sheets of paper of the same size. Tear sheet A into 2 pieces and sheet B into 8 pieces. Who has more? If you compare the number of pieces, B has more: 8 is more than 2. If you compare the amount of paper, they are the same, because the sheets were the same size. Both answers are right. They answer different questions. Before people compare, they choose the question. In a shop the choice matters. Ten one-rupee coins are more coins than one twenty-rupee note. But the note is more money.",
+   "examples": [
+    "2 big dosas or 5 mini dosas: the mini dosas are more in number. The big dosas may be more to eat.",
+    "A cricket team with more wickets left has not won. The team with more runs wins. The rules of the game say what to compare.",
+    "A class with more children is not a class with more teachers."
+   ],
+   "perspectives": [],
+   "art": "Two sheets of paper of the same size on a floor, one torn into two large pieces and one torn into eight small pieces.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "Sheet A: 2 pieces",
+      "parts": 2,
+      "shaded": 0
+     },
+     {
+      "label": "Sheet B: 8 pieces",
+      "parts": 8,
+      "shaded": 0
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Looking fools us in the sky too: the Sun and the Moon",
+   "status": "defined",
+   "context": "This card takes the idea that looking can fool you out of the kitchen and up into the sky.",
+   "definition": "In the sky the Sun and the Moon look about the same size. They are not. The Sun is about 400 times as wide as the Moon. It looks small because it is about 400 times as far away.",
+   "description": "In the Partner Test, a long row of spoons looked like more than a short row of beans. Your eyes compared the room each row took up, not the number. The sky plays a trick of the same kind. Hold a one-rupee coin close to your eye and it can hide a whole building far away. The coin is not bigger than the building. It is nearer. The Moon is near the Earth, and the Sun is very far. So the small Moon and the huge Sun look about the same size from here. Never look straight at the Sun, because it harms your eyes. People found the real sizes by measuring, not by looking. To compare truly, we need a careful way. For groups of things, that way is partnering and counting.",
+   "examples": [
+    "A crow on your window sill looks bigger than an aeroplane high in the sky. The aeroplane is far bigger.",
+    "From the top of a hill, buses on the road below look like toys.",
+    "During a total eclipse of the Sun, the Moon covers the Sun almost exactly. That can happen only because the two look the same size from the Earth."
+   ],
+   "perspectives": [],
+   "art": "A child holding a one-rupee coin at arm's length so that it just covers a distant water tank, with the full Moon in the evening sky behind.",
+   "chart": {
+    "type": "table",
+    "title": "The Moon and the Sun (rounded numbers)",
+    "cols": [
+     "",
+     "How wide",
+     "How far away"
+    ],
+    "rows": [
+     [
+      "Moon",
+      "1",
+      "1"
+     ],
+     [
+      "Sun",
+      "about 400 Moons",
+      "about 400 times as far"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "Other living beings compare too",
+   "status": "debated",
+   "context": "This card is about lionesses, elephants and small fish telling more from fewer, and what scientists have really found.",
+   "description": "Humans are not the only animals who compare numbers. In 1994 three scientists, Karen McComb, Craig Packer and Anne Pusey, played recorded roars to lionesses in the Serengeti in Tanzania. Sometimes the loudspeaker played one strange lioness roaring. Sometimes it played three roaring together. The lionesses who lived there walked towards one stranger more often than towards three. When they did go towards three, they went more slowly and carefully. In 2019 scientists in Thailand gave six Asian elephants two closed buckets of sunflower seeds. The elephants could smell the seeds but could not see them. Mostly they chose the bucket with more seeds. They did best when the two amounts were very different. In 2008 scientists in Italy found that a female mosquitofish, given a choice, swims to join the bigger group of fish. She could tell 3 fish from 4. She could not tell 4 fish from 5.",
+   "examples": [
+    "A lioness hears three strangers roaring and stays back. Meeting a bigger group in a fight is dangerous.",
+    "An elephant sniffs two closed buckets and walks to the one that holds more seeds.",
+    "A small fish joins the bigger shoal. In a bigger group each fish is safer from a hunter."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who say the animals compare numbers",
+     "explanation": "The lionesses heard roars and the elephants smelled seeds. Neither could see a heap to judge its size. They still chose well. So they were comparing how many, or how much, in their own way."
+    },
+    {
+     "who": "Scientists who are more careful",
+     "explanation": "More fish also means more moving shapes, and more seeds means a stronger smell. The animals may compare amounts without anything like our exact numbers. Their choices get worse when the two amounts are close, and ours do not when we count. Nobody yet knows how the elephants do it by smell."
+    }
+   ],
+   "art": "Three lionesses standing alert in tall grass at dusk, facing the direction of a distant sound, with one lioness a step ahead of the others.",
+   "chart": {
+    "type": "dots",
+    "title": "What the lionesses heard",
+    "rows": [
+     {
+      "label": "one stranger roars",
+      "n": 1
+     },
+     {
+      "label": "three strangers roar",
+      "n": 3
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Stretch: comparing two groups that never meet",
+   "status": "defined",
+   "context": "This card goes past Class 1. It shows how to compare two groups without ever putting them side by side. You need it in the challenge Four Cups.",
+   "definition": "If A has more than B, and B has more than C, then A has more than C. You know this without comparing A and C at all.",
+   "description": "Here is a worked example. Cup A has more beans than cup B. You found that by partnering. Cup B has more beans than cup C. You found that by partnering too. Now, does A have more than C? You have never put A and C side by side. But think of the partners. Every bean in C has a partner in B, and B has some left over. Every bean in B has a partner in A, and A has some left over. So every bean in C has a partner in A, with even more left over. A has more than C. With numbers it is the same. 9 is more than 6, and 6 is more than 4. So 9 is more than 4. This is why three numbers can be put in one line. Next year you will write it with a sign: 9 > 6 means 9 is more than 6.",
+   "examples": [
+    "Akka is taller than you. You are taller than the baby. So Akka is taller than the baby, without measuring.",
+    "15 is more than 12. 12 is more than 7. So 15 is more than 7.",
+    "This does not work for every kind of comparing. In stone, paper, scissors, stone beats scissors and scissors beat paper, but stone does not beat paper."
+   ],
+   "perspectives": [],
+   "art": "Three steel katoris in a row labelled A, B and C, holding nine, six and four beans, with curved arrows from A to B and from B to C.",
+   "chart": {
+    "type": "dots",
+    "title": "A has more than B. B has more than C.",
+    "rows": [
+     {
+      "label": "A",
+      "n": 9
+     },
+     {
+      "label": "B",
+      "n": 6
+     },
+     {
+      "label": "C",
+      "n": 4
+     }
+    ]
+   }
+  }
+ ],
+ "agreed": [
+  {
+   "text": "If you partner two groups one to one and one group has things left over, that group has more.",
+   "evidence": "Anyone can test it. Partner beans with spoons, then count both. The group with things left over always has the bigger count."
+  },
+  {
+   "text": "Spreading a row out makes the row longer. It does not put more things in the row.",
+   "evidence": "In the Partner Test, 5 spoons far apart made a longer row than 7 beans close together. After partnering, 2 beans were left over."
+  },
+  {
+   "text": "A number that you say later when you count is bigger than a number you say earlier.",
+   "evidence": "Each new number in the count stands for one more thing. Build 8 beans and 12 beans and partner them. The 12 always has 4 left over."
+  },
+  {
+   "text": "Some other animals can tell which of two groups has more.",
+   "evidence": "Lionesses went towards one roaring stranger more often than towards three (McComb, Packer and Pusey, 1994). Asian elephants chose the bucket with more seeds by smell (Plotnik and others, 2019)."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "The longer row has more things in it.",
+   "who": "Many young children, and grown-ups in a hurry",
+   "context": "This card is about a common mix-up between how long a row is and how many things are in it.",
+   "for": "Often it is true. If the things are the same size and the gaps are the same, a longer row does have more.",
+   "against": "Change the gaps or the size of the things, and the rule fails. 5 spoons far apart make a longer row than 7 beans close together. Partnering shows the truth every time.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Children under about six cannot understand that a row keeps its number when it is spread out.",
+   "who": "Jean Piaget and Alina Szeminska, in a book from 1941",
+   "context": "This card is about an old claim on what young children understand about more and fewer, and the tests that questioned it.",
+   "for": "They spread out one of two equal rows in front of children. Many children under six then said that the longer row had more.",
+   "against": "In 1967 Jacques Mehler and Thomas Bever found that many children of two and three picked the row with more, even when it was the shorter row. In the 1970s James McGarrigle and Margaret Donaldson let a 'naughty teddy' mess up a row. Many more children then answered correctly. So part of the trouble was how the grown-up asked.",
+   "status": "debated"
+  },
+  {
+   "claim": "Seven is a big number.",
+   "who": "Everyday talk",
+   "context": "This card asks whether a number can be big all by itself.",
+   "for": "In daily life we compare with what is usual. Seven dosas for one child's breakfast really is a lot.",
+   "against": "Seven grains of rice for breakfast is very little. Seven is bigger than 5 and smaller than 9. The word big always hides a second number that we are comparing with.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Can you find out who has more without knowing any numbers at all? How?",
+   "kind": "deep",
+   "hint": "Think of what you did with the spoons and the beans."
+  },
+  {
+   "q": "Is 10 a big number or a small number?",
+   "kind": "deep",
+   "hint": "10 laddus for you. 10 grains of rice for you. 10 people in a city."
+  },
+  {
+   "q": "Is there a number that is bigger than every other number? Is there one that is smaller than every other?",
+   "kind": "deep",
+   "hint": "Name a number. Can you say one more? Now try going down, one fewer each time."
+  },
+  {
+   "q": "A mango tree has fewer fruits than a neem tree has leaves. Does that make the neem tree better?",
+   "kind": "big",
+   "hint": "More of what? Who decides what should be compared?"
+  },
+  {
+   "q": "The Sun looks as small as the Moon. What else might look small only because it is far away?",
+   "kind": "big",
+   "hint": "Look at the stars tonight. Each one is a sun."
+  },
+  {
+   "q": "A lioness chooses not to fight three strangers. Is she doing maths?",
+   "kind": "big",
+   "hint": "She does not use number words. Does comparing need words?"
+  }
+ ],
+ "story": {
+  "title": "The Window Seat",
+  "mins": 7,
+  "read_aloud": true,
+  "note": "Yazhini, Nila and Paatti are made up. The beach is real: trains from Rameswaram do cross the sea on a long bridge to reach the mainland.",
+  "text": [
+   "On the last morning of the holiday, Paatti took the two sisters to the beach near Rameswaram. The train home to Madurai left that evening.",
+   "\"There is one window seat,\" said Paatti. \"And there are two of you.\"",
+   "Yazhini was nine. Nila was six. They looked at Paatti, and then at each other.",
+   "\"So this is how we will do it.\" Paatti sat down on the dry sand and opened her umbrella against the sun. \"Whoever brings me more shells before the water reaches that boat gets the window.\"",
+   "Yazhini ran. She knew this beach. Beyond the fishing boats the sea left big shells: fat white clams as wide as her palm, and once a spotted cowrie the size of a lemon. She had the cloth bag from the vegetable market, and she meant to fill it.",
+   "Nila did not run. She had only the small steel tumbler from the water bottle. She squatted where the last wave had turned back, and looked at the wet sand. It was full of shells too. They were tiny, pink and yellow and striped, each no bigger than her smallest fingernail. She picked them up one at a time and dropped them into the tumbler. Tik. Tik. Tik.",
+   "When the water reached the boat, Paatti called them back.",
+   "Yazhini came with the bag held in both arms. It bulged. It clacked when she walked. She set it down in front of Paatti like a sack of rice. Nila came behind her with the tumbler in one hand. It was not even full.",
+   "Yazhini looked at the tumbler and laughed. \"I get the window.\"",
+   "\"Mine are more,\" Nila said.",
+   "\"Yours fit in a tumbler. Mine need a bag. Look how big my heap is.\" Yazhini tipped the bag out, and the shells slid into a hill on the sand. It was a fine hill. Nila tipped her tumbler out beside it. Her shells made a small flat patch, like spilled dal.",
+   "Nila's eyes filled. But she kept looking at her patch. There were a lot of shells in it. She was sure there were.",
+   "\"Count, then,\" said Yazhini. She was kind about it, because she could see who was going to win. She counted her own shells first, touching each one. \"Fourteen, fifteen, sixteen. Sixteen! Now you.\"",
+   "Nila began. \"One, two, three.\" She got to twenty. After twenty she was not sure. She said twenty-eight, then twenty-six, and then she stopped. The little shells all looked alike, and she had lost her place.",
+   "\"See?\" said Yazhini. \"You don't even know how many you have.\"",
+   "Paatti said nothing. She tilted her umbrella and watched.",
+   "Nila wiped her nose with the back of her hand. She did not know how many she had. That was true. But Paatti had not said the window was for the girl who knew her number. She had said it was for the girl with more.",
+   "Nila picked up one of Yazhini's big clams and put it down on the flat sand. Next to it she put one of her own tiny pink shells.",
+   "\"What are you doing?\" said Yazhini.",
+   "\"One of yours. One of mine.\" Nila put down another big clam below the first, and another tiny shell beside it. \"One of yours. One of mine.\"",
+   "Yazhini frowned. Then, because she was a fair girl, she knelt down and helped. Two lines grew along the beach, side by side. Big, small. Big, small. The line of big shells looked grand. The line of small shells looked like a trail of crumbs.",
+   "Then Yazhini reached for her hill, and there was nothing there. Her line stopped.",
+   "Nila's patch was still on the sand. She went on alone. She put one more tiny shell under the last one. Then another. Then another. Her trail of crumbs walked on past the end of Yazhini's line, and it kept going.",
+   "Nobody spoke. A crab ran sideways between the two lines and went down a hole.",
+   "\"That is not fair,\" Yazhini said at last. \"Mine are bigger. Look at this one. All of yours together would fit inside it. I have more shell.\"",
+   "\"You have bigger,\" said Nila. \"I have more.\"",
+   "They both turned to Paatti.",
+   "Paatti folded her umbrella. \"What did I ask for?\" she said. \"Did I say the heaviest bag? Did I say the biggest shells?\"",
+   "Yazhini looked at the two lines for a long moment. \"You said more shells,\" she said. Then she added, \"You should have said which kind of more.\"",
+   "\"Perhaps I should have,\" said Paatti, and she laughed. \"Next time I will ask for the heaviest bag, and you will win. Today I asked for more shells.\"",
+   "That evening Nila sat by the window with the tumbler in her lap. Yazhini sat next to her and held the spotted cowrie against her ear. When the train rolled out onto the long bridge and there was sea on both sides, Nila pulled her sister close, and they both pressed their faces to the bars.",
+   "Nila still did not know how many shells she had. She only knew that it was more than sixteen."
+  ],
+  "epiphany": "For the parent: a bigger heap is not the same as more things, and you can find out who has more without being able to count that far. Nila partners one of her shells with one of her sister's until one line runs out. The story also shows that 'more' needs a question. Yazhini has more shell, and Nila has more shells. Do not explain this to your child. Ask the questions below and let them find it.",
+  "ask": [
+   "Nila could not count all her shells. How could she still be sure she had more?",
+   "One heap was a big hill and one was a small flat patch. Why did the small patch have more shells?",
+   "Yazhini said, 'I have more shell.' Was she wrong? More of what?",
+   "Find two groups of things at home where the bigger heap has fewer things in it."
+  ],
+  "art": [
+   "An old woman under a black umbrella on dry sand, with two girls of nine and six beside her looking at a fishing boat near the water's edge.",
+   "A girl of six squatting at the edge of the wet sand, dropping a tiny pink shell into a small steel tumbler.",
+   "A hill of large white clam shells beside a small flat patch of tiny coloured shells on the sand, with the two sisters facing each other over them.",
+   "Two lines of shells running side by side along the beach, a short line of big clams and a much longer line of tiny shells, with the younger girl still adding to the long line and a crab running between.",
+   "Two sisters at the barred window of a train, faces pressed to the bars, with sea on both sides of a long bridge at sunset."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Partner Test: can your eyes tell which has more?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this test you look at two groups and guess which has more. Then you check by giving each thing a partner. You do it with spoons, beans, onions and chana, and find out when your eyes can be trusted.",
+   "question": "Can we tell which of two groups has more just by looking? And is there a way to compare that is always right?",
+   "predict": "In each round, look without counting and guess: which group has more, or are they the same? Why do you think so?",
+   "fair_test": "In every round we guess first, by looking only. Then we check the same way each time: one thing from the first group gets one partner from the second group. Last, we count both groups. Nobody adds or takes away a thing between the guess and the check.",
+   "results_table": [
+    "Round",
+    "My guess by looking",
+    "Which group had some left over",
+    "The two counts"
+   ],
+   "materials": [
+    {
+     "item": "rajma, or any large dried beans",
+     "qty": "12"
+    },
+    {
+     "item": "chana, or any smaller seeds, buttons or tamarind seeds",
+     "qty": "12"
+    },
+    {
+     "item": "spoons",
+     "qty": 5
+    },
+    {
+     "item": "onions, potatoes or lemons",
+     "qty": 4
+    },
+    {
+     "item": "katoris or small cups",
+     "qty": 2
+    },
+    {
+     "item": "paper and a pencil, for the table and the number line",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep beans, chana and buttons away from babies and toddlers, who could choke on them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Guess and then partner four pairs of groups. Find the counts on a number line. Then guess how many will be left over, and check."
+    }
+   ],
+   "record": "A grown-up draws the table with four rounds. For each round, write the guess, which group had some left over, and the two counts. At the end the child says what they found, and the grown-up writes it under the table.",
+   "example_chart": {
+    "type": "table",
+    "title": "What a finished table can look like (your guesses will be your own)",
+    "cols": [
+     "Round",
+     "My guess",
+     "Left over",
+     "Counts"
+    ],
+    "rows": [
+     [
+      "1. Spoons and beans",
+      "spoons",
+      "2 beans",
+      "5 and 7"
+     ],
+     [
+      "2. Onions and chana",
+      "onions",
+      "5 chana",
+      "4 and 9"
+     ],
+     [
+      "3. Heap and ring",
+      "ring",
+      "none",
+      "8 and 8"
+     ],
+     [
+      "4. Two rows",
+      "the same",
+      "1 chana",
+      "11 and 12"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Five steel spoons laid far apart in a long row on a floor, with seven rajma beans in a short tight row below them.",
+     "caption": "1. Look at two groups. Guess which has more. Do not count."
+    },
+    {
+     "art": "The same five spoons, each now with one bean resting in its bowl, and two beans lying beside the row.",
+     "caption": "2. Give each thing one partner. See which group has some left over."
+    },
+    {
+     "art": "A paper strip with a number line from 0 to 20, with one rajma bean on 5 and one on 7, next to a hand-drawn table.",
+     "caption": "3. Count both groups. Find the two numbers on a number line."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw the table with four rounds. 2. Lay 5 spoons in a long row, a hand-width apart. 3. Under them, lay 7 rajma close together. 4. Do not say the numbers. 5. Ask for a guess and a reason. Write the guess.",
+     "say": "Do not count yet. Just look. Which row has more things, the spoons or the beans? Why do you think so?",
+     "kid": "Look at the two rows. Do not count. Which row has more things? Why do you think so?",
+     "ask": [
+      {
+       "q": "Why did you guess that?",
+       "good": [
+        "The spoon row is longer.",
+        "The spoons are bigger.",
+        "The beans look like more to me."
+       ]
+      }
+     ],
+     "parent": "Many six-year-olds choose the spoons, because that row is longer. Accept any guess that comes with a reason. Do not say who is right. The next step will show it.",
+     "context": "This is the first step of the Partner Test. You look at a long row of spoons and a short row of beans, and guess which has more.",
+     "chart": {
+      "type": "table",
+      "title": "Draw this table. Fill one row in each round.",
+      "cols": [
+       "Round",
+       "My guess",
+       "Left over",
+       "Counts"
+      ],
+      "rows": [
+       [
+        "1. Spoons and beans",
+        "",
+        "",
+        ""
+       ],
+       [
+        "2. Onions and chana",
+        "",
+        "",
+        ""
+       ],
+       [
+        "3. Heap and ring",
+        "",
+        "",
+        ""
+       ],
+       [
+        "4. Two rows",
+        "",
+        "",
+        ""
+       ]
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Ask your child to put one bean on each spoon. 2. Ask which group has some left over. 3. Now count both groups together. 4. Write it all in the table.",
+     "say": "Give every spoon one bean. Are any left over? So which has more, the spoons or the beans?",
+     "kid": "Put one bean on each spoon. Which group has some left over? That group has more. Now count both.",
+     "ask": [
+      {
+       "q": "Your eyes said one thing. The partners said another. Which do you trust more? Why?",
+       "good": [
+        "The partners, because every spoon got a bean.",
+        "The partners. The beans had two extra.",
+        "The long row tricked me."
+       ]
+      }
+     ],
+     "parent": "Two beans are left over, so the beans are more: 7 and 5. If your child guessed right in step 1, ask how sure they felt. The next rounds are harder for the eyes.",
+     "check": {
+      "t": "mcq",
+      "q": "Every spoon has one bean. Two beans are left over. Which has more?",
+      "options": [
+       "The spoons",
+       "The beans",
+       "They are the same"
+      ],
+      "a": 1,
+      "why": "The beans have more. Every spoon found a partner, and two beans still had none. Picking the spoons usually means the long row looked like more."
+     },
+     "context": "This is step 2 of the Partner Test. You check your guess about the spoons and the beans by giving each spoon one bean.",
+     "chart": {
+      "type": "dots",
+      "title": "One bean for each spoon",
+      "rows": [
+       {
+        "label": "spoons",
+        "n": 5
+       },
+       {
+        "label": "beans",
+        "n": 7
+       }
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Lay 4 onions or potatoes in a row. 2. Beside them, put 9 chana in a small heap. 3. Ask for a guess and a reason. Write it. 4. Your child gives each onion one chana. 5. Count both groups and fill the table.",
+     "say": "Here are big onions and small chana. Which group has more things? Why do you think so? Now check.",
+     "kid": "Big onions and small chana. Guess which group has more things. Then give each onion one chana.",
+     "ask": [
+      {
+       "q": "The onions take up more room. Why are there still fewer of them?",
+       "good": [
+        "Each onion is big.",
+        "The chana are small, so many fit in a small place.",
+        "Room is not the same as how many."
+       ]
+      }
+     ],
+     "parent": "4 onions and 9 chana leave 5 chana with no partner. If your child says the onions are more, ask: more what? There is more onion to eat, but there are fewer onions.",
+     "context": "This is step 3 of the Partner Test. You compare a few big things with many small things: 4 onions and a small heap of chana."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Push 8 rajma into a tight heap. 2. Spread 8 chana in a wide ring around the heap. 3. Ask for a guess and a reason. Write it. 4. Your child gives each rajma one chana, then counts both.",
+     "say": "A small heap and a wide ring. Which has more, or are they the same? Why do you think so?",
+     "kid": "A small heap and a wide ring. Guess which has more. Then give each rajma one chana.",
+     "ask": [
+      {
+       "q": "Nothing was left over. What does that tell you?",
+       "good": [
+        "They are the same.",
+        "Both are 8.",
+        "Every one has a partner."
+       ]
+      }
+     ],
+     "parent": "This round has no winner: 8 and 8. Children often expect one group to have more every time. Let the partnering surprise them.",
+     "context": "This is step 4 of the Partner Test. You compare a tight heap of rajma with a wide ring of chana."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Lay 11 rajma in a row. 2. Under it, lay 12 chana in a row of the same length. 3. Ask for a guess. Then partner and count. 4. Draw a number line from 0 to 20. 5. For each round, your child points to the two counts on the line.",
+     "say": "These rows are the same length. Can your eyes tell which has more? Check. Then find both numbers on the line.",
+     "kid": "Two rows, the same length. Guess, then partner them. Then find both counts on the number line.",
+     "ask": [
+      {
+       "q": "Look at the two numbers from each round on the line. Where is the group that had more?",
+       "good": [
+        "Further along.",
+        "It is always the later number.",
+        "Nearer to 20."
+       ]
+      }
+     ],
+     "parent": "Wait for this discovery: the group with more always has the number further along the line. Round 1 was 5 and 7. Round 2 was 4 and 9. Round 4 was 11 and 12. Let your child say it in their own words.",
+     "check": {
+      "t": "mcq",
+      "q": "You partner 11 rajma with 12 chana. How many chana are left over?",
+      "options": [
+       "None",
+       "1",
+       "12"
+      ],
+      "a": 1,
+      "why": "One chana is left over. 12 is one more than 11, so every rajma gets a chana and one chana has no partner. Picking 12 means counting all the chana, not only the ones without a partner."
+     },
+     "context": "This is step 5 of the Partner Test. Two rows of the same length hold 11 and 12, and you find the counts from every round on a number line.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "Find the two counts from each round"
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "1. Put 9 chana in one katori and 6 rajma in another. 2. Tell your child the two numbers. Cover the katoris. 3. Ask which has more, and how many will be left over. Ask why. 4. Your child partners them to check.",
+     "say": "This katori has 9 and this one has 6. Which has more? How many will have no partner? Why?",
+     "kid": "One katori has 9. One has 6. Guess how many will be left over. Then partner them and see.",
+     "ask": [
+      {
+       "q": "How could you find the 3 on the number line?",
+       "good": [
+        "Hop from 6 to 9.",
+        "7, 8, 9. Three hops."
+       ]
+      }
+     ],
+     "parent": "3 chana are left over. Any guess with a reason is fine. Afterwards, show the hops from 6 to 9 on the number line: 7, 8, 9.",
+     "check": {
+      "t": "mcq",
+      "q": "One cup has 10 beans and one has 7. How many more are in the first cup?",
+      "options": [
+       "3",
+       "10",
+       "17"
+      ],
+      "a": 0,
+      "why": "3 more. Partner them and 3 are left over. On the number line, 7 to 10 is 3 hops. Picking 17 means the two cups were added together. Picking 10 means naming the bigger group, not how many more."
+     },
+     "context": "This is step 6 of the Partner Test. This time you know the two numbers, 9 and 6, and you guess how many will be left over before you partner them.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "title": "Find 6 and 9. How many hops from 6 to 9?"
+     }
+    },
+    {
+     "id": "s7",
+     "mins": 3,
+     "do": "1. Look at the table together. 2. Ask your child what they think, what they saw, and why. 3. Write their words under the table.",
+     "say": "Look at your guesses and the counts. When did your eyes get it wrong? What never got it wrong?",
+     "kid": "Look at your table. When were your eyes wrong? What way of checking was always right?",
+     "ask": [
+      {
+       "q": "What do you think now? What did you see? Why do you think it is so?",
+       "good": [
+        "Looking can be wrong. Partnering is always right.",
+        "The long row had fewer.",
+        "Big things take more room, but that is not more things.",
+        "The one with more is further along the number line."
+       ]
+      }
+     ],
+     "parent": "A full answer has a claim, what was seen, and a reason. For example: 'Looking can fool me. The spoon row was longer, but the beans had two left over. Long is not the same as many.'",
+     "check": {
+      "t": "mcq",
+      "q": "6 big lemons sit in a long row. 10 small beans sit in a short row. Which group has more things?",
+      "options": [
+       "The lemons",
+       "The beans",
+       "They are the same"
+      ],
+      "a": 1,
+      "why": "The beans. 10 is more than 6. Give each lemon a bean, and 4 beans are left over. Picking the lemons means choosing the longer row or the bigger things."
+     },
+     "context": "This is the last step of the Partner Test. You say what you found: when looking fools you, and which way of comparing is always right."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Enough for Everyone? Plates and tumblers",
+   "mins": 8,
+   "days": 1,
+   "context": "In this activity you lay the table for a meal and find out if there are enough tumblers and spoons, without counting. The point is that partnering answers 'is there enough?' in real life.",
+   "problem": "Is there one for everyone? Partner the things to find out who has more, fewer or the same.",
+   "materials": [
+    {
+     "item": "plates or banana leaves, one for each person at the meal",
+     "qty": "4 to 6"
+    },
+    {
+     "item": "tumblers",
+     "qty": "2 fewer than the plates, to begin with"
+    },
+    {
+     "item": "spoons",
+     "qty": "2 more than the plates"
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Lay the plates, partner the tumblers and the spoons with them, and say more, fewer or the same."
+    }
+   ],
+   "record": "Draw the plates in a row. Draw one tumbler above each plate that has one. Circle the plates with no tumbler.",
+   "setup": [
+    {
+     "art": "Five steel plates laid in a row on a floor mat with three tumblers standing in a group to one side.",
+     "caption": "1. Lay one plate for each person. Bring the tumblers."
+    },
+    {
+     "art": "The five plates with a tumbler beside each of the first three, and the last two plates with an empty space beside them.",
+     "caption": "2. Put one tumbler by each plate. Is any plate without one?"
+    },
+    {
+     "art": "The five plates each with one tumbler and one spoon, and two extra spoons lying at the end of the row.",
+     "caption": "3. Do the same with spoons. Are any spoons left over?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Before a meal, ask your child to lay one plate for each person. 2. Hand over a group of tumblers, 2 fewer than the plates. 3. Ask if there are enough, without counting. 4. Your child puts one tumbler by each plate.",
+     "say": "Is there a tumbler for everyone? Do not count. Put one by each plate and see.",
+     "kid": "Lay one plate for each person. Put one tumbler by each plate. Is there one for everyone?",
+     "ask": [
+      {
+       "q": "Are there more plates or more tumblers? How do you know?",
+       "good": [
+        "More plates. Two plates have no tumbler.",
+        "Fewer tumblers. They ran out."
+       ]
+      }
+     ],
+     "parent": "With 5 plates, hand over 3 tumblers. Two plates will have none. Use the words: more plates than tumblers, fewer tumblers than plates.",
+     "context": "This is the first step of Enough for Everyone. You lay a plate for each person and check if each plate can have a tumbler.",
+     "chart": {
+      "type": "dots",
+      "title": "One tumbler by each plate",
+      "rows": [
+       {
+        "label": "plates",
+        "n": 5
+       },
+       {
+        "label": "tumblers",
+        "n": 3,
+        "more": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Ask how many more tumblers are needed. 2. Your child fetches them and finishes the row. 3. Ask what is true now.",
+     "say": "How many more tumblers do we need? Fetch them. Now what can you say about plates and tumblers?",
+     "kid": "How many plates have no tumbler? Fetch that many. Now are they the same?",
+     "ask": [
+      {
+       "q": "Now every plate has a tumbler and none is left over. What word fits?",
+       "good": [
+        "The same.",
+        "Equal.",
+        "The same number of plates and tumblers."
+       ]
+      }
+     ],
+     "context": "This is step 2 of Enough for Everyone. You fetch the missing tumblers so that plates and tumblers are the same in number."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Hand over the spoons, 2 more than the plates. 2. Your child puts one spoon by each plate. 3. Ask which there are more of, and how many more. 4. Last, count the plates and the spoons to check.",
+     "say": "Now the spoons. One by each plate. Which are there more of, spoons or plates? How many more?",
+     "kid": "Put one spoon by each plate. Are any spoons left over? How many?",
+     "check": {
+      "t": "mcq",
+      "q": "Each of 5 plates has a spoon. 2 spoons are left over. How many spoons are there?",
+      "options": [
+       "2",
+       "5",
+       "7"
+      ],
+      "a": 2,
+      "why": "7 spoons. 5 spoons have partners and 2 do not. 5 and 2 more is 7. Picking 2 means counting only the spoons left over."
+     },
+     "context": "This is the last step of Enough for Everyone. You partner spoons with plates and find how many more spoons there are."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Bean Staircase: numbers in order",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you build rows of 1, 2, 3 and more beans, so that they look like steps. The point is to see that numbers in order grow by one more each time.",
+   "problem": "What do the numbers look like when they stand in order? Build them and see.",
+   "materials": [
+    {
+     "item": "beans or chana",
+     "qty": "about 30"
+    },
+    {
+     "item": "paper slips with the numbers 1 to 20, or the number cards from the game Bigger or Smaller",
+     "qty": "1 set"
+    },
+    {
+     "item": "a number line from 0 to 20 drawn on paper",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Build a bean staircase from 1 to 7, mend it when it is mixed up, then order five number cards."
+    }
+   ],
+   "record": "Draw your staircase from 1 to 7. Write the number beside each step.",
+   "setup": [
+    {
+     "art": "Five rows of beans on a sheet of paper, with one, two, three, four and five beans, all starting at the same left edge so they form steps.",
+     "caption": "1. Build rows of 1, 2, 3, 4 and 5 beans. Start each row at the same edge."
+    },
+    {
+     "art": "The same staircase with the rows for three and six swapped so the steps look broken, and a child's hand reaching for the wrong row.",
+     "caption": "2. A grown-up swaps two rows. Find them and put them back."
+    },
+    {
+     "art": "Five paper number slips, 4, 9, 12, 15 and 18, laid in a row from smallest to biggest above a number line.",
+     "caption": "3. Pick five number cards. Lay them in order, smallest first."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Ask your child to make a row of 1 bean. 2. Under it, a row of 2. Then 3, 4 and 5. 3. Start every row at the same left edge. 4. Ask what they notice about the shape.",
+     "say": "Make a row of one bean. Under it, two. Then three, four and five. What does it look like?",
+     "kid": "Make rows of 1, 2, 3, 4 and 5 beans. Start each row at the same edge. What do you see?",
+     "ask": [
+      {
+       "q": "How much longer is each row than the row above it?",
+       "good": [
+        "One bean.",
+        "One more each time."
+       ]
+      }
+     ],
+     "parent": "The rows make steps. Each row has exactly one bean with no partner in the row above. That one extra bean is what 'one more' means.",
+     "context": "This is the first step of the Bean Staircase. You build rows of 1 to 5 beans and see the steps they make.",
+     "chart": {
+      "type": "dots",
+      "title": "The staircase so far",
+      "rows": [
+       {
+        "label": "1",
+        "n": 1
+       },
+       {
+        "label": "2",
+        "n": 2
+       },
+       {
+        "label": "3",
+        "n": 3
+       },
+       {
+        "label": "4",
+        "n": 4
+       },
+       {
+        "label": "5",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Your child adds rows of 6 and 7. 2. Your child closes their eyes. 3. Swap two rows. 4. Your child finds the two rows and puts them back.",
+     "say": "Add the next two steps. Now close your eyes. I have swapped two rows. Which ones?",
+     "kid": "Add rows of 6 and 7. Close your eyes. Two rows get swapped. Find them and mend the stairs.",
+     "ask": [
+      {
+       "q": "How did you spot the wrong rows?",
+       "good": [
+        "The steps went up and then down.",
+        "A long row was above a short row."
+       ]
+      }
+     ],
+     "context": "This is step 2 of the Bean Staircase. A grown-up swaps two rows and you put the numbers back in order."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Mix the number cards from 1 to 20. 2. Your child picks any five. 3. Your child lays them in a row, smallest first. 4. Check each card against the number line.",
+     "say": "Pick five cards. Put them in order, smallest first. Which number would you say first when you count?",
+     "kid": "Pick five number cards. Lay them in order, smallest first. Check with the number line.",
+     "parent": "If two cards are in the wrong order, do not move them. Ask your child to find both on the number line and see which is further along.",
+     "check": {
+      "t": "mcq",
+      "q": "Which list is in order, smallest first?",
+      "options": [
+       "12, 7, 15",
+       "7, 12, 15",
+       "7, 15, 12"
+      ],
+      "a": 1,
+      "why": "7, 12, 15. Counting up, you say 7 first, then 12, then 15. Picking a list that starts with 12 means 7 was not found on the number line first."
+     },
+     "context": "This is step 3 of the Bean Staircase. You put five number cards in order and check them on a number line.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "Check your order on the number line"
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "1. Say two numbers with a gap, such as 8 and 12. 2. Your child names a number between them. 3. Take turns. Let your child set numbers for you.",
+     "say": "I say 8 and 12. Tell me a number between them. Now you give me two numbers.",
+     "kid": "A grown-up says two numbers. Say a number between them. Then swap.",
+     "ask": [
+      {
+       "q": "Is there a number between 6 and 7 on our number line?",
+       "good": [
+        "No. They are next to each other.",
+        "Not on this line."
+       ]
+      }
+     ],
+     "parent": "9, 10 and 11 are all between 8 and 12. For 6 and 7, there is no whole number between. Later your child will meet halves, which do sit between.",
+     "context": "This is the last step of the Bean Staircase. You name numbers that are between two other numbers."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Two Ten-Frames: which teen number is bigger?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you build two numbers between 11 and 20 with beans, each on a box of ten spaces. The point is to see that both numbers hold one full ten, so you only need to compare the extra ones.",
+   "problem": "Which is bigger, 14 or 17? Build both and look at the ten and the extras.",
+   "materials": [
+    {
+     "item": "beans or chana",
+     "qty": "40"
+    },
+    {
+     "item": "paper and a pencil, to draw four ten-frames",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Draw ten-frames, build 14 and 17, then 9 and 12, then 19 and 20, and compare each pair."
+    }
+   ],
+   "record": "Draw 14 and 17 as a full ten-frame and loose dots. Circle the bigger number.",
+   "setup": [
+    {
+     "art": "A sheet of paper with two ten-frames drawn side by side, each a box of two rows of five squares, with a heap of beans beside them.",
+     "caption": "1. Draw two ten-frames. Each has 2 rows of 5 boxes."
+    },
+    {
+     "art": "Two ten-frames full of beans, with four loose beans under the left one and seven loose beans under the right one, labelled 14 and 17.",
+     "caption": "2. Build 14 on one and 17 on the other. Fill the ten first."
+    },
+    {
+     "art": "A ten-frame with nine beans and one empty box labelled 9, beside a full ten-frame with two loose beans labelled 12.",
+     "caption": "3. Build 9 and 12. Which one fills its ten?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw two ten-frames side by side. Each is 2 rows of 5 boxes. 2. Your child builds 14 on the left: one bean in each box, then the rest below. 3. Your child builds 17 on the right. 4. Ask what is the same and what is different.",
+     "say": "Build 14 here and 17 there. Fill the ten boxes first. What is the same about them? What is different?",
+     "kid": "Build 14 on one frame and 17 on the other. Fill the boxes first. What is the same?",
+     "ask": [
+      {
+       "q": "Both frames are full. So where do you look to see which is bigger?",
+       "good": [
+        "At the loose beans.",
+        "At the extra ones. 7 is more than 4."
+       ]
+      }
+     ],
+     "parent": "Both numbers have one full ten. So only the extras differ: 4 and 7. 17 is bigger by 3.",
+     "context": "This is the first step of Two Ten-Frames. You build 14 and 17 with beans on two boxes of ten spaces.",
+     "chart": {
+      "type": "dots",
+      "title": "14 and 17",
+      "rows": [
+       {
+        "label": "14: ten",
+        "n": 10
+       },
+       {
+        "label": "14: more",
+        "n": 4
+       },
+       {
+        "label": "17: ten",
+        "n": 10
+       },
+       {
+        "label": "17: more",
+        "n": 7
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Clear the frames. 2. Your child builds 9 on the left and 12 on the right. 3. Ask which is bigger and how they can tell at a glance.",
+     "say": "Now build 9 and 12. Which is bigger? How can you tell without counting again?",
+     "kid": "Build 9 and 12. Which one fills the whole frame? Which is bigger?",
+     "parent": "9 leaves one box empty. 12 fills the frame and has 2 more. A number with a full ten is always bigger than a number below ten.",
+     "check": {
+      "t": "mcq",
+      "q": "Which is bigger, 9 or 12?",
+      "options": [
+       "9",
+       "12",
+       "They are the same"
+      ],
+      "a": 1,
+      "why": "12 is bigger. 12 is a full ten and 2 more. 9 does not fill one ten. Picking 9 usually means looking at the numerals: 9 is bigger than 1 and 2, but 12 means one ten and two."
+     },
+     "context": "This is step 2 of Two Ten-Frames. You build 9 and 12 and see that only one of them fills its box of ten."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Draw two more ten-frames below the first two. 2. Your child builds 19 on the left pair and 20 on the right pair. 3. Ask how many more 20 is.",
+     "say": "Build 19 and 20. You will need a second frame for each. How many more is 20 than 19?",
+     "kid": "Build 19 and 20. Use two frames for each. How many more is 20?",
+     "ask": [
+      {
+       "q": "What happens to the second frame when you go from 19 to 20?",
+       "good": [
+        "It gets full.",
+        "The last box is filled.",
+        "Now there are two tens."
+       ]
+      }
+     ],
+     "context": "This is the last step of Two Ten-Frames. You build 19 and 20 and see the second ten fill up."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Maths in sport: mini hand cricket",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity two people play hand cricket, a game Indian children play with their fingers. You keep the score with beans, then compare the two scores. The point is that every sport ends by comparing two numbers.",
+   "problem": "Who scored more runs? And how many more does the other player need to win?",
+   "materials": [
+    {
+     "item": "beans or chana, for runs",
+     "qty": "about 40"
+    },
+    {
+     "item": "katoris or cups, one for each player",
+     "qty": 2
+    },
+    {
+     "item": "a number line from 0 to 20 drawn on paper",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Learn mini hand cricket, play two matches, and compare the scores by partnering and on the number line."
+    }
+   ],
+   "record": "After each match, write the two scores. Circle the bigger one. Write how many more.",
+   "setup": [
+    {
+     "art": "A girl and her mother facing each other on a floor, each with one hand hidden behind her back, and a bowl of beans between them.",
+     "caption": "1. One player bats and one bowls. Each hides a hand."
+    },
+    {
+     "art": "The same two players each showing fingers at the same moment, the girl showing three and the mother showing one, with the girl dropping beans into her katori.",
+     "caption": "2. Show 1, 2 or 3 fingers together. Different numbers: the batter takes that many beans."
+    },
+    {
+     "art": "Two katoris tipped out into two rows of beans side by side, paired off, with three beans left over at the end of one row.",
+     "caption": "3. After both have batted, partner the beans. Who has more runs?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Sit facing each other. One player bats and one bowls. 2. Both hide a hand, say 'one, two, three' and show 1, 2 or 3 fingers. 3. Different numbers: the batter takes as many beans as her own fingers. 4. The same number: the batter is out. 5. The batter is also out after 6 balls.",
+     "say": "We each show one, two or three fingers. If they are different, you take your number in beans. If they match, you are out.",
+     "kid": "Show 1, 2 or 3 fingers together. Different? Take your number in beans. The same? You are out.",
+     "parent": "Real hand cricket uses the numbers 1 to 6, and players add up the runs in their heads. Here the numbers stop at 3 and beans keep the score. So the most a batter can score is 18.",
+     "context": "This is the first step of mini hand cricket, a finger game for two. Here you learn how runs are scored and how a batter gets out.",
+     "chart": {
+      "type": "table",
+      "title": "One ball of hand cricket",
+      "cols": [
+       "Batter shows",
+       "Bowler shows",
+       "What happens"
+      ],
+      "rows": [
+       [
+        "3",
+        "1",
+        "Batter takes 3 beans"
+       ],
+       [
+        "2",
+        "3",
+        "Batter takes 2 beans"
+       ],
+       [
+        "2",
+        "2",
+        "Out!"
+       ]
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Play the first match. Your child bats first, then you. 2. Each player's beans go in her own katori. 3. At the end, tip both katoris out. 4. Your child partners the beans, one from each row.",
+     "say": "The match is over. Do not count yet. Put one of my beans next to one of yours. Who has some left over?",
+     "kid": "Play the match. Then partner your beans with the other player's beans. Who has some left over?",
+     "ask": [
+      {
+       "q": "Who won? By how many runs?",
+       "good": [
+        "I did, by 3. Three of my beans have no partner.",
+        "You did. You have 2 more."
+       ]
+      }
+     ],
+     "parent": "The beans left over are the winning margin. Cricket reports say it the same way: 'won by 3 runs'. If nothing is left over, the match is a tie.",
+     "context": "This is step 2 of mini hand cricket, where beans keep the score. Here you play a match and compare the two scores by partnering the beans."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Count each row of beans and write the two scores. 2. Your child finds both on the number line. 3. Play a second match. This time you bat first. 4. Before your child bats, ask what score will win.",
+     "say": "I scored 7. What is the smallest score that beats me? How many do you need?",
+     "kid": "The grown-up bats first. Count her runs. What score do you need to win?",
+     "ask": [
+      {
+       "q": "I have 7. You have 5 so far. How many more do you need to pass me?",
+       "good": [
+        "3 more. 6, 7, 8.",
+        "Two more to be the same, three more to win."
+       ]
+      }
+     ],
+     "parent": "To win, the second batter needs one more than the first batter's score. In real cricket this number is called the target.",
+     "check": {
+      "t": "mcq",
+      "q": "The first batter scored 9 runs. What is the smallest score that beats her?",
+      "options": [
+       "8",
+       "9",
+       "10"
+      ],
+      "a": 2,
+      "why": "10. To win you need more than 9, and the next number after 9 is 10. A score of 9 is the same, which is a tie. Picking 8 means going back instead of on."
+     },
+     "context": "This is step 3 of mini hand cricket, where beans keep the score. Here the second batter works out the score needed to win.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "Find both scores. Which is further along?"
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Write the four scores from the two matches on slips of paper. 2. Your child puts them in order, biggest first. 3. Ask which was the best innings and which was the lowest.",
+     "say": "Here are our four scores. Put them in order, biggest first. Whose was the best innings?",
+     "kid": "Put the four scores in order, biggest first. Which was the best score?",
+     "ask": [
+      {
+       "q": "Where else do people compare two numbers to see who won?",
+       "good": [
+        "Kabaddi points.",
+        "Goals in football.",
+        "Marks in carrom.",
+        "Votes."
+       ]
+      }
+     ],
+     "context": "This is the last step of mini hand cricket. You put all the scores from two matches in order."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "More of What? Two sheets of paper",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you tear two sheets of paper of the same size into different numbers of pieces. The point is that 'more' has no answer until you choose what to compare.",
+   "problem": "One sheet is in 2 pieces and one is in 8 pieces. Who has more?",
+   "materials": [
+    {
+     "item": "sheets of old newspaper or used paper, both the same size",
+     "qty": 2
+    },
+    {
+     "item": "coins: ten 1-rupee coins and one 20-rupee note, or drawings of them",
+     "qty": "1 set"
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Tear two equal sheets into 2 and 8 pieces, compare them two ways, then do the same with coins and a note."
+    }
+   ],
+   "record": "Draw the two torn sheets. Under them write: 'More pieces: ___. More paper: ___.'",
+   "setup": [
+    {
+     "art": "Two sheets of newspaper of the same size, held one on top of the other by a child to show that they match.",
+     "caption": "1. Take two sheets. Check that they are the same size."
+    },
+    {
+     "art": "One sheet torn into two large pieces and the other torn into eight small pieces, in two groups on a floor.",
+     "caption": "2. Tear one into 2 pieces and the other into 8 pieces."
+    },
+    {
+     "art": "Ten one-rupee coins in a row beside a single twenty-rupee note.",
+     "caption": "3. Ten coins and one note. More coins, or more money?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Lay one sheet on the other to show they match. 2. You tear sheet A in half. Your child tears sheet B into 8 pieces. 3. Ask who has more. Ask for a reason. 4. Partner the pieces to check the number.",
+     "say": "I have my pieces and you have yours. Who has more? Why do you say so?",
+     "kid": "Tear your sheet into 8 pieces. The grown-up has 2 pieces. Who has more? Why?",
+     "ask": [
+      {
+       "q": "You have more pieces. Do you have more paper?",
+       "good": [
+        "No. It was the same sheet.",
+        "The same paper, more pieces.",
+        "I am not sure. Let us put them back together."
+       ]
+      }
+     ],
+     "parent": "Do not settle it yet. Both 'I have more' and 'it is the same' are sensible answers. They answer different questions.",
+     "context": "This is the first step of More of What. Two sheets of the same size are torn into 2 pieces and 8 pieces, and you ask who has more.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "Sheet A: 2 pieces",
+        "parts": 2,
+        "shaded": 0
+       },
+       {
+        "label": "Sheet B: 8 pieces",
+        "parts": 8,
+        "shaded": 0
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Each of you puts your pieces back together like a puzzle. 2. Lay one mended sheet on the other. 3. Ask what is the same and what is different.",
+     "say": "Put your sheet back together. Now lay it on mine. What is the same? What is different?",
+     "kid": "Put your pieces back together. Lay your sheet on the other one. What is the same?",
+     "ask": [
+      {
+       "q": "So who has more?",
+       "good": [
+        "More pieces: me. More paper: nobody.",
+        "It depends what you mean by more."
+       ]
+      }
+     ],
+     "parent": "The finding: more pieces, but the same amount of paper. Before comparing, we have to say what we are comparing.",
+     "context": "This is step 2 of More of What. You put the torn pieces back together and see that both sheets hold the same amount of paper."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Lay ten 1-rupee coins in a row. Lay one 20-rupee note beside them. 2. Ask which is more. 3. Ask which your child would choose to buy a 15-rupee snack.",
+     "say": "Ten coins here, one note there. Which is more? Which would you take to the shop?",
+     "kid": "Ten coins and one note. Which is more coins? Which is more money?",
+     "check": {
+      "t": "mcq",
+      "q": "Ten 1-rupee coins or one 20-rupee note. Which is more money?",
+      "options": [
+       "The ten coins",
+       "The one note",
+       "They are the same"
+      ],
+      "a": 1,
+      "why": "The note. Ten 1-rupee coins make 10 rupees. The note is 20 rupees, and 20 is more than 10. Picking the coins means comparing the number of pieces, not the money."
+     },
+     "context": "This is the last step of More of What. You compare ten 1-rupee coins with one 20-rupee note, by number and by money."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Bigger or Smaller? The coin decides",
+   "mins": 12,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a card game with number cards from 1 to 20 and a coin. Each round the coin says whether the bigger number or the smaller number wins. It makes comparing two numbers quick, and shows that the same card can be the bigger one or the smaller one.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "Number cards from 1 to 20, with the number on the front and that many dots on the back",
+     "items": [
+      {
+       "f": "1",
+       "b": "●"
+      },
+      {
+       "f": "2",
+       "b": "●●"
+      },
+      {
+       "f": "3",
+       "b": "●●●"
+      },
+      {
+       "f": "4",
+       "b": "●●●●"
+      },
+      {
+       "f": "5",
+       "b": "●●●●●"
+      },
+      {
+       "f": "6",
+       "b": "●●●●● ●"
+      },
+      {
+       "f": "7",
+       "b": "●●●●● ●●"
+      },
+      {
+       "f": "8",
+       "b": "●●●●● ●●●"
+      },
+      {
+       "f": "9",
+       "b": "●●●●● ●●●●"
+      },
+      {
+       "f": "10",
+       "b": "●●●●● ●●●●●"
+      },
+      {
+       "f": "11",
+       "b": "●●●●● ●●●●● ●"
+      },
+      {
+       "f": "12",
+       "b": "●●●●● ●●●●● ●●"
+      },
+      {
+       "f": "13",
+       "b": "●●●●● ●●●●● ●●●"
+      },
+      {
+       "f": "14",
+       "b": "●●●●● ●●●●● ●●●●"
+      },
+      {
+       "f": "15",
+       "b": "●●●●● ●●●●● ●●●●●"
+      },
+      {
+       "f": "16",
+       "b": "●●●●● ●●●●● ●●●●● ●"
+      },
+      {
+       "f": "17",
+       "b": "●●●●● ●●●●● ●●●●● ●●"
+      },
+      {
+       "f": "18",
+       "b": "●●●●● ●●●●● ●●●●● ●●●"
+      },
+      {
+       "f": "19",
+       "b": "●●●●● ●●●●● ●●●●● ●●●●"
+      },
+      {
+       "f": "20",
+       "b": "●●●●● ●●●●● ●●●●● ●●●●●"
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "Use the 20 number cards. To make them by hand, write 1 to 20 on slips of paper and draw that many dots on the back, in rows of five.",
+    "Two players: mix the cards and deal 10 each, face down.",
+    "Each round, toss a coin first. Heads: the bigger number wins. Tails: the smaller number wins.",
+    "Both players turn over their top card. Each says their own number aloud.",
+    "The winner says the comparing sentence, such as '12 is more than 7' or '7 is less than 12', and takes both cards.",
+    "Not sure? Turn both cards over and partner the dots. The card with dots left over is the bigger number.",
+    "After 10 rounds, lay your won cards in a row next to the other player's row, one to one. The player with cards left over wins the game.",
+    "Three or four players: deal 5 cards each. On heads the biggest card takes them all. On tails the smallest card takes them all.",
+    "Playing alone: turn over two cards and toss the coin. Say the sentence, then check with the dots. Try to get through all 10 pairs with no mistake."
+   ],
+   "setup": [
+    {
+     "art": "Twenty paper cards on a floor, some showing numbers and some turned over to show rows of dots, with a one-rupee coin beside them.",
+     "caption": "1. Make the cards: a number on the front, dots on the back. Deal 10 each."
+    },
+    {
+     "art": "A coin showing heads between two players, each turning over a card, one showing 12 and the other showing 7.",
+     "caption": "2. Toss the coin. Turn over your top cards. Heads: bigger wins."
+    },
+    {
+     "art": "Two rows of won cards laid side by side, paired off one to one, with two cards left over in the upper row.",
+     "caption": "3. At the end, partner your won cards. Who has some left over?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Write the numbers 1 to 20 on 20 slips of paper. 2. On the back of each, draw that many dots in rows of five. 3. Mix the cards. Deal 10 to each player, face down. 4. Read the rules aloud.",
+     "say": "Each card has a number on the front and that many dots on the back. Keep your heap face down.",
+     "kid": "Make cards from 1 to 20, with dots on the back. Deal 10 cards each, face down.",
+     "parent": "Making the cards takes about four minutes. Let your child draw the dots for the small numbers. Keep the cards for the Bean Staircase activity.",
+     "context": "This is the first step of Bigger or Smaller, a card game with the numbers 1 to 20 and a coin. Here you make the cards and deal them.",
+     "chart": {
+      "type": "dots",
+      "title": "The backs of two cards",
+      "rows": [
+       {
+        "label": "back of card 7",
+        "n": 7
+       },
+       {
+        "label": "back of card 12",
+        "n": 12
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Play one practice round with the cards face up. 2. Toss the coin. Heads means bigger wins. Tails means smaller wins. 3. The winner says the sentence, such as '12 is more than 7'. 4. Show how to check by partnering the dots on the backs.",
+     "say": "Heads: the bigger number wins. Tails: the smaller wins. I have 12 and you have 7. It is heads. Who wins?",
+     "kid": "Toss the coin. Heads: the bigger number wins. Tails: the smaller wins. Say who has more.",
+     "check": {
+      "t": "mcq",
+      "q": "The coin shows tails, so the smaller number wins. The cards are 13 and 8. Which card wins?",
+      "options": [
+       "13",
+       "8",
+       "Nobody"
+      ],
+      "a": 1,
+      "why": "8 wins. On tails the smaller number wins, and 8 is less than 13. Picking 13 means forgetting what the coin said. 13 is the bigger number, and it would win on heads."
+     },
+     "context": "This is step 2 of Bigger or Smaller, a card game with the numbers 1 to 20 and a coin. Here you play one practice round."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play the 10 rounds. 2. Listen for the comparing sentence each time. 3. When one of your child's cards is the bigger one in one round and the smaller in another, ask about it.",
+     "say": "Your 9 was the bigger card just now. This time it is the smaller card. Did the 9 change?",
+     "kid": "Play 10 rounds. Toss, turn over, and say the sentence. Check with the dots if you need to.",
+     "ask": [
+      {
+       "q": "Can you name a number that 9 is bigger than? And one that 9 is smaller than?",
+       "good": [
+        "Bigger than 4. Smaller than 15.",
+        "Bigger than 8, smaller than 10."
+       ]
+      }
+     ],
+     "parent": "This question is the heart of the unit. A number is not big or small by itself. It is bigger or smaller only next to another number.",
+     "context": "This is step 3 of Bigger or Smaller, a card game with the numbers 1 to 20 and a coin. Here you play the 10 rounds."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Each player lays their won cards in a row. 2. Put the rows side by side, one card to one card. 3. The player with cards left over wins.",
+     "say": "Do not count your cards. Lay them next to mine, one to one. Who has some left over?",
+     "kid": "Lay your won cards next to the other player's cards. Who has some left over?",
+     "context": "This is the last step of Bigger or Smaller, a card game with the numbers 1 to 20 and a coin. Here you find the winner by partnering the won cards."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Secret Number: more or less?",
+   "mins": 10,
+   "players": "2 or more players: with a parent or with friends",
+   "context": "This is a guessing game on a strip of numbers from 0 to 20. One player hides a number, and the other finds it from the clues 'more' and 'less'. It builds quick thinking about which numbers are bigger and smaller.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A number strip from 0 to 20, to cut out or to copy on paper",
+     "items": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+     ]
+    }
+   ],
+   "rules": [
+    "Lay the number strip from 0 to 20 between the players. Put a heap of about 20 beans beside it.",
+    "One player is the keeper. The keeper thinks of a secret number on the strip, and writes it on a slip of paper that stays hidden.",
+    "The other player is the guesser. The guesser says a number.",
+    "The keeper answers with one of three sentences: 'My number is more', 'My number is less', or 'Yes, that is it'.",
+    "After each answer, the guesser covers with beans every number that the secret number cannot be.",
+    "Count the guesses. Then swap jobs. The player who needed fewer guesses wins.",
+    "With more than two players, take turns to guess. The one who says the secret number becomes the next keeper.",
+    "For a harder game, play without the beans and remember the clues."
+   ],
+   "setup": [
+    {
+     "art": "A paper strip with the numbers 0 to 20 on a floor between a girl and her grandmother, with a heap of beans beside it and a folded slip of paper under the grandmother's hand.",
+     "caption": "1. The keeper hides a secret number. The guesser says a number."
+    },
+    {
+     "art": "The same number strip with beans covering the numbers 0 to 12, and the girl pointing at 16.",
+     "caption": "2. 'My number is more than 12.' Cover 0 to 12 with beans."
+    },
+    {
+     "art": "The number strip with beans on every number except 15, and the folded slip opened to show 15.",
+     "caption": "3. Go on until only one number is left."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Draw or cut out the strip from 0 to 20. 2. Put the beans beside it. 3. Decide who keeps the secret first. 4. Read the rules aloud.",
+     "say": "I will hide a number from this strip. You find it. I can only say 'more', 'less' or 'yes'.",
+     "kid": "Lay the number strip from 0 to 20. One player hides a number. The other guesses.",
+     "context": "This is the first step of Secret Number, a guessing game on a strip of numbers from 0 to 20. Here you set up the strip and the beans.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "The Secret Number strip"
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Play one practice round. Keep 15 as your secret. 2. When your child guesses, answer 'more' or 'less'. 3. Show how to cover the numbers it cannot be.",
+     "say": "You said 12. My number is more than 12. So can it be 12? Can it be 9? Cover those.",
+     "kid": "Guess a number. Listen: more or less? Cover every number it cannot be.",
+     "parent": "'More than 12' rules out 12 itself and every number before it. Children often cover only the 12. Ask about 9 and 5 as well.",
+     "check": {
+      "t": "mcq",
+      "q": "The keeper says, 'My number is more than 12.' Which number can it be?",
+      "options": [
+       "9",
+       "12",
+       "15"
+      ],
+      "a": 2,
+      "why": "15. Only 15 is more than 12. 9 is less than 12. Picking 12 means forgetting that more than 12 does not include 12 itself."
+     },
+     "context": "This is step 2 of Secret Number, a guessing game on a strip of numbers from 0 to 20. Here you practise using the clue 'more' or 'less'."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play two rounds each. 2. Count the guesses for each round on your fingers. 3. After a round, ask which first guess works best.",
+     "say": "That took you five guesses. Which number is a clever first guess? Why?",
+     "kid": "Play two rounds each. Count your guesses. Try to need fewer each time.",
+     "ask": [
+      {
+       "q": "Why is 10 a better first guess than 1?",
+       "good": [
+        "It cuts the strip in half.",
+        "With 1, I only cover one or two numbers.",
+        "The answer 'more' or 'less' covers ten numbers at once."
+       ]
+      }
+     ],
+     "context": "This is step 3 of Secret Number, a guessing game on a strip of numbers from 0 to 20. Here you play and look for a clever first guess."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Say each player's number of guesses. 2. Ask who wins. 3. Point out that in this game the smaller number wins.",
+     "say": "You needed 4 guesses and I needed 6. Who wins? Is the winner's number bigger or smaller?",
+     "kid": "Who needed fewer guesses? That player wins.",
+     "context": "This is the last step of Secret Number, a guessing game on a strip of numbers from 0 to 20. Here the player with fewer guesses wins."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The More or Fewer Diary: five days of comparing at home",
+   "mins": 25,
+   "days": 5,
+   "context": "In this five-day project you compare two groups of real things at home each day, and draw what you find. The point is to make comparing a daily habit, with different things each time.",
+   "problem": "Every home is full of pairs of groups to compare. Which has more? How many more?",
+   "materials": [
+    {
+     "item": "a small notebook or five sheets of paper",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "In the kitchen: are there more spoons or more tumblers? Partner them, then draw two rows of dots."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Around the home: are there more doors or more windows? Guess first, then walk round and make one mark for each."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Two names: write your name and a grown-up's name, one under the other. Which name has more letters?"
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Chappals and people: are there more people at home or more pairs of chappals and shoes?"
+    },
+    {
+     "day": 5,
+     "mins": 5,
+     "what": "Choose your own two groups. Then put the five bigger numbers from the week in order."
+    }
+   ],
+   "record": "Each day, draw two rows of dots, one under the other, with partners in line. Circle the dots that have no partner. Under the picture a grown-up helps you write: '___ is more than ___'.",
+   "setup": [
+    {
+     "art": "A child laying spoons and steel tumblers in two rows on a kitchen counter, one spoon in front of each tumbler.",
+     "caption": "1. Each day, pick two groups. Guess which has more."
+    },
+    {
+     "art": "An open notebook page with two rows of dots one under the other, the last three dots of the top row circled, and the words '9 is more than 6'.",
+     "caption": "2. Draw two rows of dots. Circle the ones with no partner."
+    },
+    {
+     "art": "Five small notebook pages laid in a row on a floor, each with a number circled, arranged from the smallest number to the biggest.",
+     "caption": "3. On day 5, put the week's numbers in order."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Ask your child to guess: more spoons or more tumblers in the kitchen? 2. Your child lays them out, one spoon by each tumbler. 3. Your child draws two rows of dots and circles the ones left over. 4. Write the sentence together.",
+     "say": "Are there more spoons or more tumblers in our kitchen? Guess first. Then partner them and draw.",
+     "kid": "Guess: more spoons or more tumblers? Partner them. Draw two rows of dots.",
+     "parent": "If there are very many spoons, use only the ones in one drawer. Keep both groups to 20 or fewer.",
+     "context": "This is day 1 of the More or Fewer Diary, a five-day project. Each day you compare two groups of things at home. Today it is spoons and tumblers.",
+     "chart": {
+      "type": "dots",
+      "title": "A diary page can look like this",
+      "rows": [
+       {
+        "label": "spoons",
+        "n": 9
+       },
+       {
+        "label": "tumblers",
+        "n": 6,
+        "more": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. On day 2, compare doors and windows. On day 3, the letters in two names. On day 4, people and pairs of chappals. 2. Each day your child guesses first, then checks. 3. Each day, ask how many more.",
+     "say": "Today we compare two new things. Guess first. Then check, draw the dots, and tell me how many more.",
+     "kid": "Each day, compare two new groups. Guess first. Then check and draw the dots.",
+     "ask": [
+      {
+       "q": "How many more? How do you know?",
+       "good": [
+        "3 more. Three dots have no partner.",
+        "From 6 to 9 is three hops."
+       ]
+      }
+     ],
+     "parent": "Doors and windows cannot be moved, so your child makes one pencil mark for each and partners the marks. For the names, write one letter in each box of squared paper, one name under the other.",
+     "wait": "Do this on each of the next three days.",
+     "context": "These are days 2 to 4 of the More or Fewer Diary, a five-day project. Each day you compare two groups at home: doors and windows, the letters in two names, people and pairs of chappals."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. On day 5, your child chooses two groups to compare, and does a page alone. 2. Then write the bigger number from each of the five pages on a slip. 3. Your child lays the five slips in order, smallest first.",
+     "say": "Today you choose what to compare. Then let us put the week's five numbers in order.",
+     "kid": "Choose two groups yourself. Compare them. Then put the week's five numbers in order.",
+     "ask": [
+      {
+       "q": "Which day had the biggest number? Which had the smallest?",
+       "good": [
+        "Any answer that matches the slips."
+       ]
+      }
+     ],
+     "context": "This is day 5 of the More or Fewer Diary, a five-day project. Today you choose your own two groups, then put the week's numbers in order."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Stretch: Four Cups in a line, without counting",
+   "mins": 20,
+   "context": "This is a thinking challenge that goes past Class 1. Four cups hold different numbers of beans. You put the cups in order from fewest to most without counting, and try to do it with as few checks as you can.",
+   "problem": "Four cups hold different numbers of beans. Put the cups in a line from the fewest beans to the most. You may not count and you may not say any number.",
+   "constraints": [
+    "No counting and no number words.",
+    "You may tip out only two cups at a time, and partner their beans in two rows.",
+    "Put the beans back in their own cups before you take the next two cups.",
+    "Try to use as few partnerings as you can."
+   ],
+   "materials": [
+    "4 cups or katoris, each marked with a different colour or letter",
+    "about 40 beans: a grown-up puts a different number in each cup, between 5 and 14",
+    "a tray or a plate to work on",
+    "paper and a pencil, to note which cup had more"
+   ],
+   "general": [
+    "Compare every cup with every other cup. That takes 6 partnerings. Then work out the order from your notes.",
+    "Find the cup with the most first: compare two cups, then compare the winner with the next cup. Set the top cup aside and start again with the rest."
+   ],
+   "creative": [
+    "Use what you already know. If red has more than blue, and blue has more than green, then red has more than green. You do not need to check that pair.",
+    "Put two cups in order first. Then fit each new cup into the line, starting from the middle of the line.",
+    "Draw as you go: an arrow from the cup with fewer to the cup with more."
+   ],
+   "your_turn": "Now make your own plan and try it with four new secret numbers. Count your partnerings. Can you do it in 5 or fewer? Then try with five cups.",
+   "setup": [
+    {
+     "art": "Four steel katoris marked with red, blue, green and yellow dots, each holding a different small heap of beans, on a tray.",
+     "caption": "1. Four cups, four secret numbers. No counting allowed."
+    },
+    {
+     "art": "Two katoris tipped out into two rows of beans side by side on a tray, paired off, with some beans left over in one row.",
+     "caption": "2. Tip out two cups. Partner the beans. Note which cup had more."
+    },
+    {
+     "art": "Four katoris in a line from left to right with small arrows drawn on paper between them pointing from fewer to more.",
+     "caption": "3. Line the cups up from fewest to most."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Out of sight, put 5, 8, 11 and 14 beans in four marked cups. 2. Mix up the cups. 3. Explain the rules. 4. Your child picks any two cups and partners their beans. 5. Note which cup had more. Put the beans back.",
+     "say": "Line these cups up from fewest to most. No counting. You may partner two cups at a time.",
+     "kid": "Pick two cups. Tip them out in two rows. Partner the beans. Which cup had more?",
+     "parent": "Keep the two rows well apart so that each bean goes back to its own cup. If beans get mixed, count them back yourself, quietly.",
+     "context": "This is the first step of Four Cups, a challenge where you order four cups of beans without counting. Here you compare the first two cups.",
+     "chart": {
+      "type": "table",
+      "title": "Keep a note like this",
+      "cols": [
+       "Cups I compared",
+       "Which had more"
+      ],
+      "rows": [
+       [
+        "red and blue",
+        ""
+       ],
+       [
+        "blue and green",
+        ""
+       ],
+       [
+        "",
+        ""
+       ]
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Your child compares a second pair that shares one cup with the first pair. 2. Before a third check, ask what they already know. 3. Read the usual ways and the creative ways aloud.",
+     "say": "Red had more than blue. Blue had more than green. Do you need to check red and green? Why?",
+     "kid": "Red has more than blue. Blue has more than green. What do you know about red and green?",
+     "ask": [
+      {
+       "q": "How can you be sure without checking?",
+       "good": [
+        "Red beat blue and blue beat green, so red has even more than green.",
+        "Green's beans all have partners in blue, and blue's all have partners in red."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Red has more than blue. Blue has more than green. Which cup has the fewest beans?",
+      "options": [
+       "Red",
+       "Blue",
+       "Green"
+      ],
+      "a": 2,
+      "why": "Green. Blue has more than green, and red has even more than blue. Picking blue means stopping after the first clue."
+     },
+     "context": "This is step 2 of Four Cups, a challenge where you order four cups of beans without counting. Here you work out one answer without checking it."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Your child makes a plan and finishes the line of four cups. 2. Make one tally mark for each partnering. 3. Do not help unless asked.",
+     "say": "Finish the line. I will make a mark each time you partner two cups. Let us see how few you need.",
+     "kid": "Finish the line from fewest to most. Use as few partnerings as you can.",
+     "parent": "Four cups can always be ordered with 5 partnerings. Sometimes 3 or 4 are enough. 6 means every pair was checked. Any working way is good. Fewer checks is a bonus.",
+     "context": "This is step 3 of Four Cups, a challenge where you order four cups of beans without counting. Here you finish the line with your own plan."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Now your child counts the beans in each cup, along the line. 2. Check that the numbers go up. 3. Ask your child to explain their plan to someone else at home.",
+     "say": "Now you may count. Do the numbers go up along your line? Tell me how your plan worked.",
+     "kid": "Now count each cup along your line. Do the numbers go up? Tell someone your plan.",
+     "ask": [
+      {
+       "q": "Which check did you not need to do? Why not?",
+       "good": [
+        "Red and green, because I knew from blue.",
+        "The biggest with the smallest."
+       ]
+      }
+     ],
+     "context": "This is the last step of Four Cups, a challenge where you order four cups of beans without counting. Here you check your line by counting and explain your plan."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "More, Fewer, the Same (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which row has more dots?",
+     "opts": [
+      "Row A",
+      "Row B",
+      "They are the same"
+     ],
+     "a": 0,
+     "why": "Row A has more. Each dot in row B sits under a dot in row A, and row A has 2 dots with no partner.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A",
+        "n": 8
+       },
+       {
+        "label": "B",
+        "n": 6
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Give each vadai one idli. ____ idlis have no partner.",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "4 idlis get a vadai as a partner. 3 idlis are left over. So there are 3 more idlis than vadais.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "idlis",
+        "n": 7
+       },
+       {
+        "label": "vadais",
+        "n": 4
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "A longer row always has more things in it.",
+     "a": false,
+     "why": "False. A row can be long because its things are big or far apart. 5 spoons far apart make a longer row than 7 beans close together.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Which number is bigger: 9 or 6?",
+     "opts": [
+      "9",
+      "6",
+      "They are the same"
+     ],
+     "a": 0,
+     "why": "9 is bigger. When you count you say 6 first and reach 9 later. On the number line 9 is further along.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "title": "Find 6 and 9"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "One more than 7 is ____.",
+     "a": [
+      "8",
+      "eight"
+     ],
+     "why": "The next number after 7 is 8. One more thing means the next number in the count."
+    },
+    {
+     "t": "order",
+     "p": "Put these numbers in order, smallest first.",
+     "items": [
+      "5",
+      "2",
+      "8",
+      "4"
+     ],
+     "a": [
+      "2",
+      "4",
+      "5",
+      "8"
+     ],
+     "why": "Counting up, you say 2 first, then 4, then 5, then 8. A number you say later is bigger."
+    },
+    {
+     "t": "match",
+     "p": "Match each pair of groups to the words that fit.",
+     "pairs": [
+      [
+       "6 tumblers and 6 plates",
+       "the same"
+      ],
+      [
+       "3 spoons and 5 plates",
+       "fewer spoons"
+      ],
+      [
+       "9 beans and 4 cups",
+       "more beans"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "6 and 6 leave nothing over, so they are the same. 3 spoons run out before 5 plates, so there are fewer spoons. 9 beans leave 5 over after 4 cups, so there are more beans."
+    },
+    {
+     "t": "mcq",
+     "p": "There are 5 children and 5 chairs. Every child sits. What is true?",
+     "opts": [
+      "More children",
+      "More chairs",
+      "The same number"
+     ],
+     "a": 2,
+     "why": "The same number. Every child has a chair and no chair is empty. Nothing is left over on either side.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "children",
+        "n": 5
+       },
+       {
+        "label": "chairs",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "t": "sort",
+     "p": "Sort each number: smaller than 10, or bigger than 10?",
+     "cats": [
+      "Smaller than 10",
+      "Bigger than 10"
+     ],
+     "items": [
+      [
+       "7",
+       "Smaller than 10"
+      ],
+      [
+       "13",
+       "Bigger than 10"
+      ],
+      [
+       "4",
+       "Smaller than 10"
+      ],
+      [
+       "18",
+       "Bigger than 10"
+      ],
+      [
+       "11",
+       "Bigger than 10"
+      ],
+      [
+       "9",
+       "Smaller than 10"
+      ]
+     ],
+     "a": "see items",
+     "why": "7, 4 and 9 come before 10 when you count, so they are smaller. 13, 18 and 11 come after 10, so they are bigger."
+    },
+    {
+     "t": "draw",
+     "p": "Draw 5 plates. Draw more than 5 spoons. Join each plate to one spoon.",
+     "a": "5 plates, 6 or more spoons, and one line from each plate to its own spoon.",
+     "why": "A strong drawing has at least one spoon with no line. That spoon with no partner is what 'more spoons' means."
+    },
+    {
+     "t": "draw",
+     "p": "Draw two rows of dots with the same number. Make one row long and one row short.",
+     "a": "Two rows with the same number of dots, one spread out and one close together.",
+     "why": "A strong drawing shows that the long row and the short row can hold the same number. Count both rows to check.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. In the Partner Test, why did the long row of spoons have fewer?",
+     "lines": 2,
+     "a": "The spoons were far apart, so the row was long. There were only 5 spoons, and 7 beans.",
+     "why": "A strong answer says that the length of a row depends on the gaps and the size of the things, not only on how many there are.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Bigger, Smaller, In Order (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which is bigger: 14 or 17?",
+     "opts": [
+      "14",
+      "17",
+      "They are the same"
+     ],
+     "a": 1,
+     "why": "17 is bigger. Both have one full ten. 17 has 7 more and 14 has 4 more. 7 is more than 4.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "14: ten",
+        "n": 10
+       },
+       {
+        "label": "14: more",
+        "n": 4
+       },
+       {
+        "label": "17: ten",
+        "n": 10
+       },
+       {
+        "label": "17: more",
+        "n": 7
+       }
+      ]
+     }
+    },
+    {
+     "t": "fill",
+     "p": "Write a number between 11 and 14: ____",
+     "a": [
+      "12",
+      "13",
+      "twelve",
+      "thirteen"
+     ],
+     "why": "12 and 13 are both right. Each is bigger than 11 and smaller than 14."
+    },
+    {
+     "t": "fill",
+     "p": "Which number is one less than 20? ____",
+     "a": [
+      "19",
+      "nineteen"
+     ],
+     "why": "One less means one step back on the number line. One step back from 20 is 19.",
+     "chart": {
+      "type": "scale",
+      "min": 10,
+      "max": 20,
+      "step": 1,
+      "title": "Step back one from 20"
+     }
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, biggest first.",
+     "items": [
+      "13",
+      "19",
+      "8",
+      "16"
+     ],
+     "a": [
+      "19",
+      "16",
+      "13",
+      "8"
+     ],
+     "why": "19 is the furthest along the number line, then 16, then 13. 8 has no full ten, so it is the smallest."
+    },
+    {
+     "t": "mcq",
+     "p": "How many more dots does Arjun have than Lakshmi?",
+     "opts": [
+      "4",
+      "7",
+      "11"
+     ],
+     "a": 0,
+     "why": "4 more. 7 of Arjun's dots have a partner in Lakshmi's row. 4 have none. Picking 11 means counting all of Arjun's dots.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "Arjun",
+        "n": 11
+       },
+       {
+        "label": "Lakshmi",
+        "n": 7
+       }
+      ]
+     }
+    },
+    {
+     "t": "truefalse",
+     "p": "12 is smaller than 9, because 2 is smaller than 9.",
+     "a": false,
+     "why": "False. 12 is one full ten and 2 more. 9 does not fill a ten. So 12 is bigger than 9.",
+     "how": "a3"
+    },
+    {
+     "t": "truefalse",
+     "p": "If 8 is more than 5, then 5 is less than 8.",
+     "a": true,
+     "why": "True. The two sentences say the same fact from the two sides. If 8 has some left over, 5 is the one that ran out."
+    },
+    {
+     "t": "sort",
+     "p": "Look at each pair. Is the first number more, or less?",
+     "cats": [
+      "First is more",
+      "First is less"
+     ],
+     "items": [
+      [
+       "15 and 12",
+       "First is more"
+      ],
+      [
+       "6 and 16",
+       "First is less"
+      ],
+      [
+       "20 and 19",
+       "First is more"
+      ],
+      [
+       "11 and 17",
+       "First is less"
+      ],
+      [
+       "10 and 9",
+       "First is more"
+      ]
+     ],
+     "a": "see items",
+     "why": "15 is more than 12. 6 is less than 16. 20 is more than 19. 11 is less than 17. 10 is more than 9. Find each pair on a number line to check."
+    },
+    {
+     "t": "mcq",
+     "p": "Farhan has 12 marbles. Kavya has 9. How many more has Farhan?",
+     "opts": [
+      "3",
+      "9",
+      "21"
+     ],
+     "a": 0,
+     "why": "3 more. From 9, hop to 12: 10, 11, 12. That is 3 hops. Picking 21 means adding the two numbers together.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "12",
+       "− 9"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "draw",
+     "p": "Draw a staircase of dots for 3, 4, 5 and 6. Write each number beside its row.",
+     "a": "Four rows of 3, 4, 5 and 6 dots, starting at the same edge.",
+     "why": "A strong drawing has each row exactly one dot longer than the row above. That is what one more looks like.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "Say it aloud. A grown-up writes. How do you know that 17 is bigger than 14?",
+     "lines": 2,
+     "a": "Both have one ten. 17 has 7 more ones and 14 has only 4 more.",
+     "why": "A strong answer gives a reason: the tens are the same and 7 is more than 4. Or: you say 14 first and reach 17 later.",
+     "how": "a3"
+    },
+    {
+     "t": "perspective",
+     "p": "Amma puts 2 big dosas on one plate and 5 mini dosas on another. Which plate has more?",
+     "views": [
+      {
+       "who": "Nila",
+       "says": "The mini dosas. 5 is more than 2."
+      },
+      {
+       "who": "Yazhini",
+       "says": "The big dosas. There is more to eat."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason, then says the other girl is also right about her kind of more.",
+     "why": "Both are right. Nila compares the number of dosas. Yazhini compares how much there is to eat. First choose what you are comparing.",
+     "how": "a5"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Think It Through (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "I am between 15 and 17. Which number am I? ____",
+     "a": [
+      "16",
+      "sixteen"
+     ],
+     "why": "Only 16 is bigger than 15 and smaller than 17.",
+     "chart": {
+      "type": "scale",
+      "min": 10,
+      "max": 20,
+      "step": 1,
+      "title": "Find 15 and 17"
+     }
+    },
+    {
+     "t": "fill",
+     "p": "I am more than 9 and less than 12. I am not 10. I am ____.",
+     "a": [
+      "11",
+      "eleven"
+     ],
+     "why": "The numbers more than 9 and less than 12 are 10 and 11. It is not 10, so it is 11.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "Cover the numbers it cannot be"
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Red cup has more than blue. Blue has more than green. Which cup has the most?",
+     "opts": [
+      "Red",
+      "Blue",
+      "Green"
+     ],
+     "a": 0,
+     "why": "Red. Red has more than blue, and blue has more than green. So red has more than both.",
+     "how": "c1"
+    },
+    {
+     "t": "mcq",
+     "p": "Which row has fewer dots?",
+     "opts": [
+      "Row A",
+      "Row B",
+      "They are the same"
+     ],
+     "a": 0,
+     "why": "Row A has fewer. Row A has 12 and row B has 13. One dot in row B has no partner.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A",
+        "n": 12
+       },
+       {
+        "label": "B",
+        "n": 13
+       }
+      ]
+     }
+    },
+    {
+     "t": "mcq",
+     "p": "Six 1-rupee coins or two 10-rupee coins. Which is more money?",
+     "opts": [
+      "Six 1-rupee coins",
+      "Two 10-rupee coins",
+      "They are the same"
+     ],
+     "a": 1,
+     "why": "Two 10-rupee coins make 20 rupees. Six 1-rupee coins make 6 rupees. 20 is more than 6. Picking the six coins means comparing the number of coins, not the money.",
+     "how": "a5"
+    },
+    {
+     "t": "truefalse",
+     "p": "A heap of 4 big potatoes has more things than a heap of 9 small peanuts.",
+     "a": false,
+     "why": "False. 9 is more than 4. The potato heap is bigger, but it holds fewer things."
+    },
+    {
+     "t": "truefalse",
+     "p": "There is a number that is bigger than every other number.",
+     "a": false,
+     "why": "False. Name any number, and one more than it is bigger. So no number can be the biggest."
+    },
+    {
+     "t": "order",
+     "p": "Put these five numbers in order, smallest first.",
+     "items": [
+      "20",
+      "0",
+      "11",
+      "9",
+      "15"
+     ],
+     "a": [
+      "0",
+      "9",
+      "11",
+      "15",
+      "20"
+     ],
+     "why": "0 stands for none, so it is the smallest. 9 has no full ten. Then 11 and 15, which have one ten. 20 is two tens.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "title": "Find each number on the line"
+     }
+    },
+    {
+     "t": "match",
+     "p": "Match each pair of numbers to how many more the first one is.",
+     "pairs": [
+      [
+       "10 and 7",
+       "3 more"
+      ],
+      [
+       "15 and 14",
+       "1 more"
+      ],
+      [
+       "12 and 12",
+       "0 more"
+      ],
+      [
+       "20 and 15",
+       "5 more"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Hop from the smaller number to the bigger one and count the hops. 7 to 10 is 3. 14 to 15 is 1. 12 to 12 is no hop. 15 to 20 is 5."
+    },
+    {
+     "t": "fill",
+     "p": "Meenakshi scored 16 runs. Arjun scored 13. Meenakshi won by ____ runs.",
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "From 13, hop to 16: 14, 15, 16. That is 3 hops. So Meenakshi has 3 more runs.",
+     "how": "a4",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "16",
+       "− 13"
+      ],
+      "answer": "?"
+     }
+    },
+    {
+     "t": "write",
+     "p": "Say it aloud. A grown-up writes. Is 10 a big number or a small number? Give one example for each.",
+     "lines": 3,
+     "a": "It depends what you compare it with. 10 laddus for one child is a lot. 10 grains of rice is very little.",
+     "why": "A strong answer says that 10 is big next to a smaller number and small next to a bigger number. No number is big by itself."
+    },
+    {
+     "t": "draw",
+     "p": "Draw 3 big circles in a long row and 6 small circles in a short row. Circle the row with more.",
+     "a": "The row of 6 small circles is circled.",
+     "why": "A strong drawing shows the short row holding more circles. 6 is more than 3, whatever the size of the circles."
+    },
+    {
+     "t": "perspective",
+     "p": "A long row has 6 lemons. A short row has 8 beans. Which row has more?",
+     "views": [
+      {
+       "who": "A boy who only looks",
+       "says": "The lemons. Their row is longer."
+      },
+      {
+       "who": "A girl who partners them",
+       "says": "The beans. Two beans have no lemon."
+      }
+     ],
+     "ask": "Who do you agree with? Why? When could a longer row really have more?",
+     "lines": 3,
+     "a": "A strong answer agrees with the girl, because partnering leaves 2 beans over. It adds that a longer row has more when the things and the gaps are the same size.",
+     "why": "8 is more than 6. Length depends on the size of the things and the gaps. The boy's rule works only when both rows use the same things with the same gaps.",
+     "how": "e1"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "One banana for each child. Are there enough bananas?",
+   "opts": [
+    "Yes, with some left over",
+    "Yes, exactly enough",
+    "No, 2 children get none"
+   ],
+   "a": 2,
+   "why": "No. 6 bananas find 6 children, and 2 children are left with no banana. There are fewer bananas than children.",
+   "outcome": 0,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "children",
+      "n": 8
+     },
+     {
+      "label": "bananas",
+      "n": 6
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "Every cup has one spoon. No spoon is left over. What is true?",
+   "opts": [
+    "More cups",
+    "More spoons",
+    "The same number"
+   ],
+   "a": 2,
+   "why": "The same number. Every cup has a partner and every spoon has a partner. Nothing is left over.",
+   "outcome": 0
+  },
+  {
+   "t": "truefalse",
+   "p": "You spread 6 beans far apart. Now they are more than 8 beans in a heap.",
+   "a": false,
+   "why": "False. Spreading beans out does not add any. 6 is still fewer than 8. Give each of the 6 a partner from the heap, and 2 are left over in the heap.",
+   "outcome": 1,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "5 big potatoes sit in a long row. 9 chana sit in a short row. Which group has fewer things?",
+   "opts": [
+    "The potatoes",
+    "The chana",
+    "They are the same"
+   ],
+   "a": 0,
+   "why": "The potatoes. 5 is fewer than 9. The potatoes take up more room, but room is not the same as how many.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which number is bigger: 13 or 8?",
+   "opts": [
+    "13",
+    "8",
+    "They are the same"
+   ],
+   "a": 0,
+   "why": "13 is bigger. You say 8 first and reach 13 later. On the number line 13 is further along.",
+   "outcome": 2,
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 20,
+    "step": 1,
+    "title": "Find 8 and 13"
+   }
+  },
+  {
+   "t": "fill",
+   "p": "One less than 16 is ____.",
+   "a": [
+    "15",
+    "fifteen"
+   ],
+   "why": "One less means one step back. One step back from 16 is 15.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which is smaller: 11 or 9?",
+   "opts": [
+    "11",
+    "9",
+    "They are the same"
+   ],
+   "a": 1,
+   "why": "9 is smaller. 11 is a full ten and one more. 9 does not fill a ten. Picking 11 means looking at the numerals 1 and 1, not at the ten.",
+   "outcome": 2,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "11: ten",
+      "n": 10
+     },
+     {
+      "label": "11: more",
+      "n": 1
+     },
+     {
+      "label": "9",
+      "n": 9
+     }
+    ]
+   }
+  },
+  {
+   "t": "order",
+   "p": "Order these numbers from the smallest to the biggest.",
+   "items": [
+    "14",
+    "6",
+    "19",
+    "10"
+   ],
+   "a": [
+    "6",
+    "10",
+    "14",
+    "19"
+   ],
+   "why": "Counting up, you say 6 first, then 10, then 14, then 19.",
+   "outcome": 3
+  },
+  {
+   "t": "fill",
+   "p": "Write the number between 18 and 20: ____",
+   "a": [
+    "19",
+    "nineteen"
+   ],
+   "why": "19 is bigger than 18 and smaller than 20. It is the only number between them on the number line.",
+   "outcome": 3,
+   "chart": {
+    "type": "scale",
+    "min": 10,
+    "max": 20,
+    "step": 1,
+    "title": "Find 18 and 20"
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "How many more dots does Kavya have than Farhan?",
+   "opts": [
+    "4",
+    "6",
+    "16"
+   ],
+   "a": 0,
+   "why": "4 more. 6 of Kavya's dots have a partner in Farhan's row. 4 have none. Picking 16 means adding the two rows.",
+   "outcome": 4,
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "Kavya",
+      "n": 10
+     },
+     {
+      "label": "Farhan",
+      "n": 6
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "You have 7 runs. The other player has 9. How many more do you need to have the same?",
+   "opts": [
+    "2",
+    "9",
+    "16"
+   ],
+   "a": 0,
+   "why": "2 more. From 7, hop to 9: 8, 9. That is 2 hops. Picking 16 means adding the scores.",
+   "outcome": 4,
+   "how": "a4"
+  },
+  {
+   "t": "truefalse",
+   "p": "7 is bigger than 5, and 7 is also smaller than 9.",
+   "a": true,
+   "why": "True. 7 is the bigger number next to 5 and the smaller number next to 9. A number is big or small only next to another number.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "One sheet is torn into 2 pieces. A sheet of the same size is torn into 8. What is true?",
+   "opts": [
+    "8 pieces is more paper",
+    "Same paper, more pieces",
+    "2 pieces is more paper"
+   ],
+   "a": 1,
+   "why": "The sheets were the same size, so the paper is the same. Only the number of pieces differs. More pieces is not more paper.",
+   "outcome": 5,
+   "how": "a5"
+  }
+ ],
+ "videos": [
+  {
+   "title": "Comparing numbers of objects | Counting | Early Math | Khan Academy",
+   "channel": "Khan Academy",
+   "youtube": "__nkbr6DeTg",
+   "mins": 3,
+   "why": "For the child and parent together: a short worked example of deciding which group has more by counting each group. Watch it after the Partner Test, not before.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
+  },
+  {
+   "title": "Which is bigger? - more than or less than with objects | MightyOwl Math | Kindergarten",
+   "channel": "MightyOwl",
+   "youtube": "yDlHjcAb1o0",
+   "mins": 4,
+   "why": "For the child: comparing two groups of things and saying more than and less than. Use it for the words, then compare real things at home.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. It is made for American classrooms, so check the examples before showing it."
+  },
+  {
+   "title": "Small Line | Birbal Stories for Kids | Akbar & Birbal Stories for Children HD",
+   "channel": "Pebbles Kids Stories",
+   "youtube": "SFim3JesbiE",
+   "mins": 5,
+   "why": "For the child: an old Akbar and Birbal folk tale. In the usual telling, Akbar draws a line and asks for it to be made shorter without touching it, and Birbal draws a longer line beside it. It fits the Roots card: short and long need two things.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched, so it is not confirmed that this telling follows the usual story. The length is a rough guess. Watch it once before showing it."
+  }
+ ],
+ "applications": [
+  "A cricket scorer compares the two teams' runs. The team with more runs wins, and the report says by how many.",
+  "A shopkeeper in the market checks whether you gave more or less money than the price, to know if change is due.",
+  "A cook laying banana leaves for a feast partners leaves with guests, to see if there are enough.",
+  "A bus conductor compares the number of people with the number of seats, to know if anyone must stand.",
+  "A teacher puts roll numbers in order, so that every child's name is quick to find.",
+  "A doctor compares your temperature with the usual number, to see if you have a fever.",
+  "A tailor checks that a shirt has the same number of buttons as buttonholes.",
+  "People counting votes compare the totals. The candidate with more votes wins."
+ ],
+ "spotted": [
+  {
+   "text": "Chappals and feet at a doorway. If one chappal has no partner, somebody is hopping.",
+   "art": "A row of chappals in pairs outside a door with one single chappal at the end."
+  },
+  {
+   "text": "A cricket scoreboard. Two numbers sit side by side so that everyone can see who has more runs.",
+   "art": "A hand-painted scoreboard at a local cricket ground showing two team scores."
+  },
+  {
+   "text": "Price boards at a vegetable market. People look for the smaller number for the same vegetable.",
+   "art": "Two vegetable stalls with chalk price boards for tomatoes showing different prices."
+  },
+  {
+   "text": "House numbers along a street, and berth numbers in a train coach. They go in order, so you know which way to walk.",
+   "art": "A row of doors on a street with number plates 11, 12 and 13."
+  },
+  {
+   "text": "An idli plate with some hollows empty. You can see at once that there is less batter than hollows.",
+   "art": "A round idli plate with four hollows filled with batter and two empty."
+  },
+  {
+   "text": "A shoal of small fish in a pond or an aquarium. A fish who is alone will usually swim to the bigger group.",
+   "art": "A small fish swimming towards a large group of similar fish in a pond, away from a smaller group."
+  },
+  {
+   "text": "The Moon and the Sun in the sky. They look the same size, though the Sun is about 400 times as wide. Never look straight at the Sun.",
+   "art": "A full Moon rising over a town at dusk, drawn the same size as a setting Sun on the other side of the sky."
+  },
+  {
+   "text": "The steps of a staircase, or the dates on a calendar. Each one is one more than the one before.",
+   "art": "A child climbing a short staircase with the numbers 1 to 7 chalked on the steps."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How can an elephant smell which bucket holds more seeds?",
+   "why_open": "The scientists who did the test in 2019 said that they do not yet know how the elephants do it."
+  },
+  {
+   "q": "Do other animals have anything like our exact numbers, or only a sense of more and less?",
+   "why_open": "Animals choose well when two amounts are very different, and less well when they are close. Scientists do not agree on what this tells us about the animals' minds."
+  },
+  {
+   "q": "How does a six-month-old baby tell 8 dots from 16, before learning any number words?",
+   "why_open": "Tests show that babies can do it. How the brain does it is still being worked out, and scientists do not agree."
+  },
+  {
+   "q": "Is 'more' out there in the world, or does it need someone to compare?",
+   "why_open": "Mathematicians and thinkers have argued for more than two thousand years about whether such facts are found or made. No test has settled it."
+  }
+ ],
+ "ask_kids": [
+  "Are there more people or more chairs at the table? How can you tell without counting?",
+  "Which has more letters, your name or mine?",
+  "Are there more idlis on your plate or on mine? How many more?",
+  "What is a number bigger than your age? What is one smaller?",
+  "On this street, which house number is the biggest you can see?",
+  "Which has more wheels: 3 cycles or 2 autos? Draw it in the air.",
+  "Is 10 minutes a long time? What if you are waiting for a bus? What if you are playing?",
+  "Who is older, you or Paatti? Who is older, Paatti or the neem tree outside?"
+ ],
+ "jokes": [
+  {
+   "j": "What gets bigger when you turn it upside down?",
+   "a": "The number 6. It becomes 9!"
+  },
+  {
+   "j": "What did the zero say to the eight?",
+   "a": "Nice belt!"
+  },
+  {
+   "j": "What gets bigger the more you take away from it?",
+   "a": "A hole."
+  },
+  {
+   "j": "Which is heavier, a kilo of cotton or a kilo of iron?",
+   "a": "Neither. They are both one kilo."
+  },
+  {
+   "j": "Why did the girl bring a ladder to maths class?",
+   "a": "She wanted to reach the bigger numbers."
+  },
+  {
+   "j": "Which month has 28 days?",
+   "a": "All of them!"
+  },
+  {
+   "j": "What goes up and never comes down?",
+   "a": "Your age."
+  },
+  {
+   "j": "Why did the ten feel so tall?",
+   "a": "It was standing next to the nine."
+  },
+  {
+   "j": "What did one end of the number line say to the other?",
+   "a": "You are way ahead of me!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In hand cricket, Kavya made 9 runs and Arjun made 6. Who won? By how many runs?",
+   "answer": "Kavya won by 3 runs.",
+   "explain": "9 is more than 6, so Kavya won. Partner the run-beans: 6 of Kavya's beans find a partner, and 3 are left over. On the number line, 6 to 9 is 3 hops: 7, 8, 9.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "a4",
+   "context": "In mini hand cricket you kept the score with beans and partnered them at the end. This uses the same idea with two scores.",
+   "why_maths": "Every match ends by comparing two numbers. The beans left over tell you who won, and by how much.",
+   "chart": {
+    "type": "dots",
+    "title": "The run-beans",
+    "rows": [
+     {
+      "label": "Kavya",
+      "n": 9
+     },
+     {
+      "label": "Arjun",
+      "n": 6
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "9",
+     "− 6"
+    ],
+    "answer": "3"
+   }
+  },
+  {
+   "problem": "8 people sit down for lunch. There are 5 banana leaves. Is there a leaf for everyone? How many more are needed?",
+   "answer": "No. 3 more leaves are needed.",
+   "explain": "Give one leaf to each person. 5 people get a leaf, and 3 people have none. So there are fewer leaves than people, and 3 more leaves are needed. 5 and 3 more makes 8.",
+   "math_unit": "math.addition-subtraction.word-problems.L1",
+   "how": "a1",
+   "context": "In Enough for Everyone you partnered tumblers with plates before a meal. This uses the same idea with people and banana leaves.",
+   "why_maths": "Partnering tells you at once if there is enough, and the ones left without a partner tell you how many more to fetch.",
+   "chart": {
+    "type": "dots",
+    "title": "One leaf for each person",
+    "rows": [
+     {
+      "label": "people",
+      "n": 8
+     },
+     {
+      "label": "leaves",
+      "n": 5
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "title": "3 more leaves are needed",
+    "rows": [
+     {
+      "label": "people",
+      "n": 8
+     },
+     {
+      "label": "leaves",
+      "n": 5,
+      "more": 3
+     }
+    ]
+   }
+  },
+  {
+   "problem": "Three girls play kabaddi. Meenakshi scores 14 points, Lakshmi scores 9 and Farida scores 17. Put the scores in order, smallest first. Who scored the most?",
+   "answer": "9, 14, 17. Farida scored the most.",
+   "explain": "9 has no full ten, so it is the smallest. 14 and 17 both have one ten. 4 extra ones is fewer than 7 extra ones, so 14 comes before 17. Farida's 17 is the biggest.",
+   "math_unit": "math.number-sense.place-value.L1",
+   "how": "a2",
+   "context": "In the Bean Staircase you put number cards in order and checked them on a number line. This does the same with three scores.",
+   "why_maths": "Putting scores in order shows the lowest, the middle and the highest at one glance.",
+   "chart": {
+    "type": "scale",
+    "min": 0,
+    "max": 20,
+    "step": 1,
+    "title": "Find 14, 9 and 17 on the line"
+   },
+   "answer_chart": {
+    "type": "table",
+    "title": "The scores in order",
+    "cols": [
+     "Smallest",
+     "Middle",
+     "Biggest"
+    ],
+    "rows": [
+     [
+      "9",
+      "14",
+      "17"
+     ],
+     [
+      "Lakshmi",
+      "Meenakshi",
+      "Farida"
+     ]
+    ]
+   }
+  },
+  {
+   "problem": "Amma puts 6 big vadais far apart on one plate. She puts 8 small vadais close together on another plate. The first plate looks fuller. Which plate has more vadais? How can you check without counting?",
+   "answer": "The second plate has more vadais. Check by partnering.",
+   "explain": "Looking at how full a plate is can fool you, because big things far apart take up more room. Put one small vadai next to each big vadai. Every big vadai gets a partner, and 2 small vadais are left over. So the second plate has 2 more.",
+   "math_unit": "math.logic.puzzles.L1",
+   "how": "e1",
+   "context": "In the Partner Test, a long row of spoons had fewer things than a short row of beans. This uses that finding on two plates of vadais.",
+   "why_maths": "Knowing that room is not the same as number tells you when your eyes need a check, and partnering is the check.",
+   "chart": {
+    "type": "table",
+    "title": "The two plates",
+    "cols": [
+     "Plate",
+     "Vadais",
+     "How they sit"
+    ],
+    "rows": [
+     [
+      "1",
+      "6 big",
+      "far apart, plate looks full"
+     ],
+     [
+      "2",
+      "8 small",
+      "close together"
+     ]
+    ]
+   },
+   "answer_chart": {
+    "type": "dots",
+    "title": "Partnered: 2 small vadais are left over",
+    "rows": [
+     {
+      "label": "big vadais",
+      "n": 6
+     },
+     {
+      "label": "small vadais",
+      "n": 8
+     }
+    ]
+   }
+  },
+  {
+   "problem": "Yazhini has 16 shells. Nila has 19 shells. Who has more? Use the ten to decide.",
+   "answer": "Nila has more. 19 is bigger than 16.",
+   "explain": "16 is one ten and 6 more. 19 is one ten and 9 more. The tens are the same, so compare the extra ones. 9 is more than 6. So 19 is bigger than 16, by 3.",
+   "math_unit": "math.number-sense.place-value.L1",
+   "how": "a3",
+   "context": "In Two Ten-Frames you built two numbers between 11 and 20, and saw that both held one full ten. This uses the same idea with shells.",
+   "why_maths": "Seeing the ten inside both numbers means you only have to compare two small numbers, 6 and 9.",
+   "chart": {
+    "type": "dots",
+    "title": "Each number as a ten and some more",
+    "rows": [
+     {
+      "label": "16: ten",
+      "n": 10
+     },
+     {
+      "label": "16: more",
+      "n": 6
+     },
+     {
+      "label": "19: ten",
+      "n": 10
+     },
+     {
+      "label": "19: more",
+      "n": 9
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "19",
+     "− 16"
+    ],
+    "answer": "3"
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.number-sense.L1",
+  "title": "One, and One More",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Number Line, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/number-line/",
+   "kind": "interactive",
+   "why": "A free number line on the screen. Mark two numbers and see which is further along. Draw the hops between them to find how many more."
+  },
+  {
+   "title": "Number Frames, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/number-frames/",
+   "kind": "interactive",
+   "why": "Free ten-frames on the screen. Build two numbers side by side, such as 14 and 17, and compare the extra ones."
+  },
+  {
+   "title": "NRICH, from the University of Cambridge",
+   "url": "https://nrich.maths.org/",
+   "kind": "interactive",
+   "why": "Free maths games and puzzles for young children. For the parent to pick from."
+  },
+  {
+   "title": "StoryWeaver, by Pratham Books",
+   "url": "https://storyweaver.org.in/",
+   "kind": "interactive",
+   "why": "Free picture books in many Indian languages. Search for 'more' or 'bigger' to find stories about comparing to read together."
+  },
+  {
+   "title": "Ramanujan Museum and Math Education Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Royapuram, Chennai",
+   "why": "A small museum about the mathematician Srinivasa Ramanujan, with hands-on maths activities for children. Call ahead to check the timings."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A large science museum with hands-on galleries for children."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-cards",
+   "item": "A pack of playing cards",
+   "kind": "game",
+   "why": "The cards from ace to 10 can stand in for number cards in the game Bigger or Smaller. Count the ace as 1. Hand-made slips of paper work just as well.",
+   "url": "https://www.amazon.in/s?k=playing+cards",
+   "used_in": [
+    "g1",
+    "a2"
+   ]
+  },
+  {
+   "id": "b-carrots",
+   "item": "Just Enough Carrots, by Stuart J. Murphy",
+   "kind": "book",
+   "why": "A picture book about a rabbit shopping with his mother. Each page compares amounts with the words more, fewer and the same.",
+   "url": "https://www.amazon.in/s?k=Just+Enough+Carrots+Stuart+Murphy",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the activity Enough for Everyone. On each page, ask your child who has more, who has fewer, and how they can tell."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Which is bigger: 8 or 11?",
+   "a": "11"
+  },
+  {
+   "q": "One more than 12 is ____.",
+   "a": "13"
+  },
+  {
+   "q": "One less than 10 is ____.",
+   "a": "9"
+  },
+  {
+   "q": "Say a number between 5 and 9.",
+   "a": "6, 7 or 8"
+  },
+  {
+   "q": "5 plates and 3 spoons. How many more spoons do we need?",
+   "a": "2"
+  },
+  {
+   "q": "Which is smaller: 19 or 16?",
+   "a": "16"
+  },
+  {
+   "q": "Put in order, smallest first: 7, 2, 10.",
+   "a": "2, 7, 10"
+  },
+  {
+   "q": "6 children and 6 chairs. More children, more chairs, or the same?",
+   "a": "The same"
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g1",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "g1",
+   "a1",
+   "story",
+   "a2",
+   "ws-core",
+   "g2",
+   "a3",
+   "a4",
+   "a5",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "g1",
+   "a1",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "g1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We compared spoons and beans, cards and cricket scores. Now let us think about what 'bigger' and 'more' really mean.",
+  "deep_truth": {
+   "truth": "In the card game Bigger or Smaller, your 7 was the bigger card next to a 5. Then the same 7 was the smaller card next to a 9. The 7 did not change. So 7 is not a big number or a small number by itself. It is bigger or smaller only next to another number.",
+   "habit": "We say 'a big number' as if big were inside the number, like the colour inside a crayon. But big and small always need two things, side by side.",
+   "evidence": "In the game Bigger or Smaller, the same card was the bigger one in one round and the smaller one in another. On the number line, 7 is further along than 5 and not as far along as 9."
+  },
+  "three": {
+   "who_am_i": "You are the big one next to a baby, and the small one next to Paatti. You did not change. Only the one beside you changed.",
+   "what_is_life": "A lioness hears that three strangers are more than one. An elephant smells which bucket holds more seeds. Many living beings compare.",
+   "what_is_this_world": "The Sun looks as small as the Moon. But the Sun is far bigger, and very far away. To know what is bigger, we must compare with care."
+  },
+  "thread": "Think of one bean alone on a plate. Is it more? Is it fewer? You cannot say. Put a second bean beside it, and now there is one and one more. Add many beans, and you can make rows and put them in order. So more, fewer, bigger and smaller all begin when one becomes two.",
+  "teachings": [
+   {
+    "source": "Tao Te Ching 2",
+    "teaching": "The Tao Te Ching says that long and short shape each other, and high and low rest on each other.",
+    "link": "A row of beans is long only next to a shorter row. A number is big only next to a smaller number."
+   },
+   {
+    "source": "Thirukkural 104",
+    "teaching": "Thiruvalluvar, the Tamil poet, says: a help as small as a millet seed is counted as big as a palmyra palm by those who know its worth.",
+    "link": "The same thing can be small by one measure and big by another. So before we compare, we choose what to compare. The two sheets of paper showed this: more pieces, the same paper."
+   }
+  ],
+  "science": [
+   {
+    "text": "Babies who are six months old cannot count or talk. Even so, they can tell a picture of 8 dots from a picture of 16 dots. They cannot yet tell 8 dots from 12 (Xu and Spelke, 2000). So a rough sense of more comes before number words.",
+    "status": "settled"
+   },
+   {
+    "text": "Is 'more' out there in the world, or does it need someone to compare? Mathematicians and thinkers still argue about this.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Plato, a Greek thinker who lived about 2,400 years ago, and many mathematicians today",
+   "view": "They say that 7 is more than 5 whether or not anyone compares them. It was true before there were people, and it is true everywhere. Yes, you choose whether to compare pieces or paper. But once you have chosen, the answer is fixed. You find it. You do not make it."
+  },
+  "practice": {
+   "title": "Short breath, long breath",
+   "mins": 3,
+   "say": "Sit still. Take one small, short breath. Now take a long, slow breath. That second breath was long. Now take the longest breath you can. Next to this one, was the second breath still long? Nothing about that breath changed. Sit quietly for three more breaths and just notice each one.",
+   "kid": "Take a short breath. Now a long one. Now the longest breath you can. Was the second breath long or short?"
+  },
+  "ask": [
+   "Are you big or small? Next to whom?",
+   "If there were only one thing in the whole world, could it be big?",
+   "One girl has 3 close friends. Another has 10 toys. Who has more? Can these even be compared?",
+   "Did people make up 'more', or did they find it?"
+  ],
+  "art": "A girl standing between a baby cousin and her tall grandmother, with a paper card showing the number 7 on the floor between a card showing 5 and a card showing 9."
+ },
+ "how_we_found_out": {
+  "context": "How did people find out what young children understand about more and fewer? This card tells the true story of a famous test, and of the scientists who questioned it.",
+  "story": "About eighty years ago in Geneva, Switzerland, two scientists, Jean Piaget and Alina Szeminska, tested what young children think about more and fewer. They laid out two rows of counters, partnered one to one. The children agreed that the rows were the same. Then the scientists spread one row out. Many children under six now said the longer row had more. In a book in 1941, the two wrote that young children do not yet understand that a number stays the same when the things are moved. For years most teachers believed this. Then other scientists looked again. In 1967 Jacques Mehler and Thomas Bever tested children of two and three with two rows. Many of the youngest picked the row with more, even when it was the shorter row. In the 1970s James McGarrigle and Margaret Donaldson let a 'naughty teddy' mess up one row. Many more children now said the rows were still the same. So young children understood more than the first test showed. The way a question is asked can change the answer.",
+  "who": "Jean Piaget and Alina Szeminska. Later Jacques Mehler, Thomas Bever, James McGarrigle and Margaret Donaldson",
+  "when": "1941, 1967 and 1974",
+  "wrong_idea": "Children under six cannot understand that a row keeps its number when it is spread out. Later tests, with a row chosen by the child and with a 'naughty teddy', showed that many young children do understand it when the question makes sense to them."
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads: the human-chosen side of 'more' (Roots, a5 More of What, the card 'More of what?'), the universe and everyday life (the Sun and Moon card, spotted, applications), maths in life (a4 mini hand cricket, a1 laying the table), everyone does maths (the lioness, elephant and fish card, spotted).",
+   "curriculum/math.json, math.number-sense.comparing-ordering.L1: more, fewer, same; bigger and smaller numbers (NCERT Class 1 chapter 5, Cambridge Stage 1 Np). Notebook item math:79 (inequalities) is left for Level 2, apart from one line in the stretch card."
+  ],
+  "science": [
+   "McComb, K., Packer, C. and Pusey, A. (1994). Roaring and numerical assessment in contests between groups of female lions, Panthera leo. Animal Behaviour 47, 379-387.",
+   "Plotnik, J. M., Brubaker, D. L., Dale, R., Tiller, L. N., Mumby, H. S. and Clayton, N. S. (2019). Elephants have a nose for quantity. PNAS 116, 12566-12571. (Six Asian elephants in northern Thailand.)",
+   "Agrillo, C., Dadda, M., Serena, G. and Bisazza, A. (2008). Do fish count? Spontaneous discrimination of quantity in female mosquitofish. Animal Cognition 11, 495-503.",
+   "Xu, F. and Spelke, E. S. (2000). Large number discrimination in 6-month-old infants. Cognition 74, B1-B11.",
+   "Piaget, J. and Szeminska, A. (1941). La genèse du nombre chez l'enfant. Delachaux et Niestlé. (English: The Child's Conception of Number.)",
+   "Mehler, J. and Bever, T. G. (1967). Cognitive capacity of very young children. Science 158, 141-142.",
+   "McGarrigle, J. and Donaldson, M. (1974). Conservation accidents. Cognition 3, 341-350. (Some lists give the year as 1975.)",
+   "NASA Space Place, 'How Is the Sun Completely Blocked in an Eclipse?': the Sun is about 400 times as wide as the Moon and about 400 times as far away. The match is rough and changes a little through the year.",
+   "Thirukkural 104, in the chapter on gratitude. Translations differ on 'palmyra': a palm tree in some, a palmyra fruit in others.",
+   "Tao Te Ching, chapter 2: 'long and short shape each other, high and low rest on each other' (wording differs between translations).",
+   "Hand cricket: the usual rules (numbers 1 to 6, the batter is out when both show the same number, the second batter chases the first score) are described on several how-to pages. The unit's version with 1 to 3 fingers, 6 balls and beans is our own simpler form."
+  ]
+ },
+ "playtest": "Walked through every flow as a family of two in a flat. The Partner Test needs 12 rajma, 12 chana, 5 spoons and 4 onions. Each round was laid out on paper: the leftovers are 2 beans, 5 chana, none, and 1 chana, and the katori round leaves 3. Round 4 works only if the two rows are made the same length, so the grown-up sets it out. Bigger or Smaller was dealt in the head with 2, 3 and 4 players and alone: with one set of cards there are no ties, and 10 rounds take about 5 minutes once the cards are made. Secret Number always ends, in 5 guesses or fewer if the guesser halves the strip. Mini hand cricket was tried with 1 to 3 fingers: an innings lasts at most 6 balls and 18 runs, and many innings end sooner, so play more than one match. In Four Cups, beans from two cups can get mixed, so keep the two rows well apart. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 1994 lion study, the 2019 elephant study, the 2008 mosquitofish study, the 2000 baby study, the 1941 book by Piaget and Szeminska, the 1967 and 1974 follow-up studies, the Sun and Moon sizes, Thirukkural 104, Tao Te Ching 2 and the rules of hand cricket. The 1967 and 1974 studies were confirmed in outline only, not their exact numbers. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The claim that a lone fish usually joins the bigger group comes from tests on mosquitofish and may not hold for every kind of fish."
+}

@@ -1,0 +1,3609 @@
+{
+ "id": "math.shapes-2d.recognising-shapes.L1",
+ "title": "Shapes: count the sides and corners",
+ "level": 1,
+ "cards_mins": 8,
+ "summary": {
+  "text": "Is an upside-down triangle still a triangle? What about a very thin one? Most of us pick out a shape by its look, and the look can fool us. You will cut out paper shapes, put a bean on every corner and run a finger along every side. That is how you will find the rule for a triangle, a square, a rectangle and a circle. Then you will find these shapes in your kitchen, in a kolam and in a game of paandi.",
+  "art": "A girl kneeling on the floor with paper shapes around her, placing one rajma bean on each corner of a long thin paper triangle."
+ },
+ "intro": {
+  "hook": "How many triangles can you find here?",
+  "text": "There are 4 triangles. Most people spot the first one at once, because it sits flat with its point on top. The upside-down one and the two leaning ones are triangles too. Each of them has 3 straight sides and 3 corners. In this unit you will find out why that is the only thing that counts.",
+  "art": "Six paper shapes on a floor: a triangle pointing up, a circle, a triangle pointing down, a leaning triangle, a square and another leaning triangle.",
+  "chart": {
+   "type": "sum",
+   "rows": [
+    "▲ ● ▼",
+    "◣ ■ ◢"
+   ],
+   "answer": "? triangles"
+  }
+ },
+ "outcomes": [
+  "I can name a circle, a triangle, a square and a rectangle when I see one.",
+  "I can count the sides and the corners of a shape.",
+  "I can tell a triangle by its 3 straight sides and 3 corners, whichever way it points.",
+  "I can tell a square from a rectangle by checking the lengths of the sides.",
+  "I can say what makes a circle: one curved edge, no corners, the same all the way round.",
+  "I can find these shapes around me, and say that a shape's name comes from a rule people agreed on."
+ ],
+ "terms": [
+  {
+   "term": "Shape",
+   "meaning": "The outline of a flat thing: what you get when you draw round its edge.",
+   "example": "Put a steel plate on paper and draw round it. The line you drew is the shape of the plate.",
+   "art": "A pencil tracing round a steel plate on a sheet of paper, with the traced outline shown beside it."
+  },
+  {
+   "term": "Side",
+   "meaning": "One piece of the edge of a shape, from one corner to the next.",
+   "example": "A postcard has 4 sides. Run your finger along each one.",
+   "art": "A finger running along the top edge of a postcard, with that edge drawn in a bold colour."
+  },
+  {
+   "term": "Corner",
+   "meaning": "The point where two sides meet.",
+   "example": "A samosa's flat face has 3 corners. You can put one bean on each.",
+   "art": "A paper triangle with one bean sitting on each of its three corners."
+  },
+  {
+   "term": "Straight",
+   "meaning": "Going one way without bending, like a tight thread.",
+   "example": "The edge of a ruler is straight. The edge of a bangle is not.",
+   "art": "A thread pulled tight between two hands, next to a ruler."
+  },
+  {
+   "term": "Curved",
+   "meaning": "Bending smoothly, with no corner.",
+   "example": "The rim of a tumbler is curved all the way round.",
+   "art": "A finger moving round the rim of a steel tumbler seen from above."
+  },
+  {
+   "term": "Triangle",
+   "meaning": "A flat shape with 3 straight sides and 3 corners.",
+   "example": "A slice cut from the corner of a sandwich is a triangle.",
+   "art": "Three different paper triangles side by side: one wide, one long and thin, one pointing down."
+  },
+  {
+   "term": "Square",
+   "meaning": "A flat shape with 4 straight sides of the same length, and 4 corners like the corners of a book.",
+   "example": "A carrom board is a square. So is one box on a chessboard.",
+   "art": "A carrom board seen from above, with a paper strip laid along one side to measure it."
+  },
+  {
+   "term": "Rectangle",
+   "meaning": "A flat shape with 4 straight sides and 4 corners like the corners of a book. In everyday talk it has 2 long sides and 2 short sides.",
+   "example": "A door, a ten-rupee note and a phone screen are rectangles.",
+   "art": "A door, a ten-rupee note and a phone lying flat, each with its outline drawn boldly."
+  },
+  {
+   "term": "Circle",
+   "meaning": "A flat round shape with one curved edge and no corners. It is the same all the way round.",
+   "example": "Draw round a bangle. The line is a circle.",
+   "art": "A bangle on paper with a pencil tracing round the inside of it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Every flat shape has sides and corners you can count",
+   "status": "defined",
+   "context": "In the Triangle Test you put beans on corners and ran a finger along sides. This card says what a side and a corner are.",
+   "definition": "A side is one piece of the edge of a shape. A corner is the point where two sides meet.",
+   "description": "Here is a worked example. Take a postcard or a book. Put your finger on one corner and move it along the edge. It goes straight, and then it has to turn. Each straight run is one side: 1, 2, 3, 4. Each turn is one corner: 1, 2, 3, 4. So a postcard has 4 sides and 4 corners. A side can be straight, like the edge of a ruler. An edge can also be curved, like the rim of a tumbler. A curved edge bends smoothly and has no corner in it. Now you try with a steel box lid.",
+   "examples": [
+    "A postcard: 4 straight sides, 4 corners.",
+    "A samosa's flat face: 3 straight sides, 3 corners.",
+    "A bangle: one curved edge, no corners."
+   ],
+   "perspectives": [],
+   "art": "A postcard with its four sides numbered 1 to 4 along the edges and a bean on each of its four corners.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "Shape",
+     "Straight sides",
+     "Corners"
+    ],
+    "rows": [
+     [
+      "▲ triangle",
+      "3",
+      "3"
+     ],
+     [
+      "■ square",
+      "4",
+      "4"
+     ],
+     [
+      "▬ rectangle",
+      "4",
+      "4"
+     ],
+     [
+      "● circle",
+      "0",
+      "0"
+     ]
+    ],
+    "title": "Count them"
+   }
+  },
+  {
+   "concept": "A triangle has 3 straight sides and 3 corners",
+   "status": "defined",
+   "context": "In the Triangle Test, the thin, tiny and upside-down pieces all had 3 beans and 3 straight sides. This card gives the rule.",
+   "definition": "A triangle is a flat shape with 3 straight sides that join at 3 corners.",
+   "description": "That is the whole rule. It says nothing about size, colour, or which way the point faces. So a triangle can be wide or thin, tiny or huge, pointing up, down or sideways. Here is a worked example. A long thin piece of cloth looks like a blade of grass. Is it a triangle? Run your finger along it: side 1, side 2, side 3, all straight. Put beans on the corners: 3 beans. Yes, it is a triangle. Now a piece shaped like a slice of a round cake. It has 3 corners, but one side is curved. It is not a triangle. The sides must also join up, with no gap.",
+   "examples": [
+    "A samosa's face, a clothes hanger and a 'Give Way' road sign are all triangles.",
+    "A triangle turned upside down still has 3 sides and 3 corners.",
+    "A slice of a round dosa has a curved side, so it is not a triangle."
+   ],
+   "perspectives": [],
+   "art": "Four paper triangles in a row, wide, long and thin, tiny, and pointing down, each with three beans on its corners.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "▲ ▼ ◣ ◢"
+    ],
+    "answer": "4 triangles",
+    "title": "All of these pass the test"
+   }
+  },
+  {
+   "concept": "Square or rectangle? Check the sides",
+   "status": "defined",
+   "context": "A square and a rectangle both have 4 sides and 4 corners. This card shows how to tell them apart, as in the Turn Test.",
+   "definition": "A rectangle has 4 straight sides and 4 corners like the corners of a book. A square is the same, and all 4 of its sides are the same length.",
+   "description": "Counting is not enough here, because both shapes give 4 and 4. You have to compare the sides. Here is a worked example. Lay a strip of paper along one side of a carrom board. Mark where the side ends. Now lay the strip along the next side. The mark fits. It fits all 4 sides, so the board is a square. Try the same with a door. The mark fits the two long sides, but the top is much shorter. So a door is a rectangle with 2 long sides and 2 short sides. Rectangles can be long and thin or short and wide. One more thing for later: in maths, a square counts as a special kind of rectangle. In everyday talk, people keep the two names apart.",
+   "examples": [
+    "A chessboard box, a carrom board and many floor tiles are squares.",
+    "A door, a book cover and a cricket pitch are rectangles.",
+    "A ten-rupee note is a rectangle. Fold one corner over to the far edge and you can see a square inside it."
+   ],
+   "perspectives": [],
+   "art": "A carrom board and a door side by side, each with a marked paper strip laid along one side.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "long rectangle",
+      "parts": 1,
+      "shaded": 0,
+      "width": 90
+     },
+     {
+      "label": "short rectangle",
+      "parts": 1,
+      "shaded": 0,
+      "width": 40
+     }
+    ],
+    "title": "Two rectangles: 4 sides and 4 corners each"
+   }
+  },
+  {
+   "concept": "What is round? A circle is the same all the way round",
+   "status": "defined",
+   "context": "People call many things round: a ball, an egg, a bangle. This card says which of them is a circle, as you tested in the Turn Test.",
+   "definition": "A circle is a flat shape with one curved edge and no corners. It is the same all the way round.",
+   "description": "Here is how to test it. Draw round a bangle. Put the bangle back on its outline and turn it a little. It still fits. Turn it again. It fits at every turn. Now cut out an egg shape and draw round it. Turn it a little, and it sticks out of its outline. So an egg shape is round, but it is not a circle. A ball is round too, but it is not flat, so it is not a circle either. Look at a ball from any side and its outline is a circle. In everyday talk, round can mean all three. In maths, circle means only the flat one that is the same all the way round.",
+   "examples": [
+    "The rim of a tumbler, a bangle and a coin's face are circles.",
+    "The outline of an egg is round but longer one way, so it is not a circle.",
+    "A lemon and a cricket ball are round like a ball. They are not flat."
+   ],
+   "perspectives": [],
+   "art": "A bangle sitting exactly on its traced outline, and next to it an egg-shaped cut-out turned so that it sticks out of its own outline.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "circle: 0 corners",
+      "parts": 1,
+      "shaded": 0,
+      "round": true
+     }
+    ],
+    "title": "One curved edge"
+   }
+  },
+  {
+   "concept": "The look can fool you: turning does not change a shape",
+   "status": "defined",
+   "context": "In the Triangle Test, many pieces did not look like triangles at first. This card says what does not change a shape.",
+   "definition": "A shape stays the same shape when you turn it, move it, make it bigger or smaller, or colour it.",
+   "description": "Stand a book up. It is a rectangle. Lay it on its side. It is still a rectangle, with the same 4 sides and 4 corners. Now take a square of paper and turn it so that one corner points up. Many people call this a diamond. But nothing about the paper has changed. It still has 4 sides of the same length and the same 4 corners. So it is still a square. Our eyes are used to seeing shapes one way up. When a shape is turned, count its sides and corners again. They will tell you the truth.",
+   "examples": [
+    "A standing rectangle and a lying rectangle are the same shape.",
+    "A square standing on one corner is still a square.",
+    "A red triangle and a blue triangle are both triangles."
+   ],
+   "perspectives": [],
+   "art": "A square of paper drawn twice: sitting flat, and standing on one corner, with an arrow showing the turn between them.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "▬ ▮"
+    ],
+    "answer": "2 rectangles",
+    "title": "Lying down and standing up"
+   }
+  },
+  {
+   "concept": "Who chose the names?",
+   "status": "defined",
+   "context": "This card looks at the word for a triangle in a few languages. It shows that people chose what to name a shape by.",
+   "definition": "A shape's name is a word people chose. Different languages name the same shape by different parts of it.",
+   "description": "The English word triangle means three angles. An angle is the opening at a corner. The Tamil word mukkonam also means three corners. So does the Hindi word trikon. But Hindi has a second word, tribhuj, and it means three arms, which are the sides. Some people looked at this shape and counted its corners. Others counted its sides. They are all talking about the same shape, and both ways of counting give 3. The same thing happens with the square that stands on its corner. Some people call it a diamond, and in maths it is still a square. People choose the words. After that, anyone can check a shape against the rule by counting.",
+   "examples": [
+    "Triangle, mukkonam and trikon name the shape by its 3 corners.",
+    "Tribhuj names the same shape by its 3 sides.",
+    "The words 'diamond' and 'square' can point at the same piece of paper."
+   ],
+   "perspectives": [],
+   "art": "One paper triangle in the middle with four word labels around it: triangle, mukkonam, trikon and tribhuj.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "Language",
+     "Word",
+     "It counts"
+    ],
+    "rows": [
+     [
+      "English",
+      "triangle",
+      "3 corners"
+     ],
+     [
+      "Tamil",
+      "mukkonam",
+      "3 corners"
+     ],
+     [
+      "Hindi",
+      "trikon",
+      "3 corners"
+     ],
+     [
+      "Hindi",
+      "tribhuj",
+      "3 sides"
+     ]
+    ],
+    "title": "One shape, four words"
+   }
+  },
+  {
+   "concept": "Is there a perfect circle anywhere?",
+   "status": "debated",
+   "context": "You drew round a bangle and called the line a circle. This card asks whether any real circle is perfect.",
+   "description": "Look very closely at a circle you drew. The pencil line wobbles a little. It also has some thickness. A dosa has bumps at its edge. Even a coin has tiny dents. Nobody has ever made a circle that is perfectly the same all the way round. Yet we all know what a perfect circle would be, and we use that idea to judge every real one. So where is the perfect circle? People do not agree.",
+   "examples": [
+    "A dosa is close to a circle. A coin is closer. Neither is perfect.",
+    "A circle on a phone screen is made of tiny square dots.",
+    "The full Moon looks like a circle, but its edge has mountains."
+   ],
+   "perspectives": [
+    {
+     "who": "The view that the perfect circle is an idea",
+     "explanation": "The perfect circle lives in minds. People saw many round things and made one clear idea from them. We share that idea, the way we share a word."
+    },
+    {
+     "who": "Plato, a Greek thinker who lived about 2,400 years ago, and many mathematicians since",
+     "explanation": "The perfect circle is real, even though nobody can draw it. Real dosas and coins are rough copies of it. People found the circle. They did not make it."
+    }
+   ],
+   "art": "A magnifying glass held over a pencil-drawn circle, showing the wobbly, thick line up close.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "a drawn circle: close, not perfect",
+      "parts": 1,
+      "shaded": 0,
+      "round": true
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Other living beings make shapes too",
+   "status": "defined",
+   "context": "People are not the only ones who make circles and other shapes. This card gives two examples that scientists have watched closely.",
+   "definition": "Many living beings build things with a clear shape.",
+   "description": "In the sea near Amami-Oshima island in Japan lives a small pufferfish. He is about 12 centimetres long, which is about as long as your hand. To make a nest, he swims along the sandy sea floor and pushes the sand with his fins. After 7 to 9 days he has made a circle about 2 metres wide, with ridges running out from the middle. That is wider than a grown-up is tall. A female comes to look, and if she chooses him she lays her eggs in the middle. Honeybees make shapes too. They build wax cells, and each cell has 6 sides and 6 corners. Nobody taught the fish or the bees the names of these shapes.",
+   "examples": [
+    "A male white-spotted pufferfish makes a circle about 2 metres wide in the sand.",
+    "Each cell in a honeybee's comb has 6 sides.",
+    "Many spiders build round webs with threads running out from the middle."
+   ],
+   "perspectives": [],
+   "art": "A small pufferfish above a wide circular pattern of ridges in the sand on the sea floor.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "corners of one bee cell",
+      "n": 6
+     },
+     {
+      "label": "corners of a pufferfish circle",
+      "n": 0
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Shapes in the sky, on the road and at home",
+   "status": "defined",
+   "context": "This card looks at where circles, rectangles and triangles turn up in the world, and gives a simple reason for each.",
+   "definition": "Each shape turns up where it does a job well.",
+   "description": "The Sun and the Moon are huge balls. From far away, each looks like a flat circle. Drop a pebble in a bucket of water, and the ripples spread out as circles, because they move at the same speed every way. Rectangles are mostly made by people. Bricks, books, doors and tiles are rectangles because rectangles fit side by side with no gaps. Triangles are used where things must not bend. Look at an electricity tower or the frame under a tiled roof, and you will see many triangles. Three sticks tied in a triangle cannot be pushed out of shape. Road signs in India use shapes too. Signs that give an order are mostly circles. Signs that warn you are triangles. Signs that tell you where things are, such as a hospital, are rectangles. These reasons are simple versions. You will learn more about each in later years.",
+   "examples": [
+    "The full Moon looks like a circle in the sky.",
+    "Floor tiles are squares or rectangles so that they fit with no gaps.",
+    "An electricity tower is built from many metal triangles."
+   ],
+   "perspectives": [],
+   "art": "A street scene with a full Moon above, a brick wall, an electricity tower made of triangles and a round road sign.",
+   "chart": {
+    "type": "table",
+    "cols": [
+     "Shape",
+     "Where",
+     "Why"
+    ],
+    "rows": [
+     [
+      "● circle",
+      "Sun, Moon, ripples",
+      "the same every way"
+     ],
+     [
+      "▬ rectangle",
+      "bricks, doors, tiles",
+      "fit with no gaps"
+     ],
+     [
+      "▲ triangle",
+      "towers, roof frames",
+      "does not bend"
+     ]
+    ]
+   }
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A flat shape with 3 straight sides that join at 3 corners is a triangle. It does not matter how big it is or which way it points.",
+   "evidence": "This is what the word means to mathematicians everywhere. Anyone can check a shape against it by counting, as you did in the Triangle Test."
+  },
+  {
+   "text": "Young children usually know a shape by its whole look first. Counting its sides and corners comes later.",
+   "evidence": "In 1999, researchers sat with 97 children aged 3 to 6, one at a time, and asked them about shapes. Most of the children chose mainly by matching the look."
+  },
+  {
+   "text": "Nobody has ever drawn or made a perfect circle. Every real circle is a little bit off somewhere.",
+   "evidence": "Look at a pencil circle through a magnifying glass. The line wobbles and has thickness. The same is true of a coin's edge under a stronger lens."
+  },
+  {
+   "text": "A small male pufferfish near Japan makes a circle about 2 metres wide in the sand, as a nest.",
+   "evidence": "Divers had seen these circles on the sea floor without knowing who made them. In 2013, Hiroshi Kawase and two other scientists reported watching the fish build them over 7 to 9 days."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "A square is not a rectangle.",
+   "who": "Most children, and many grown-ups in everyday talk",
+   "context": "This card is about whether a square also counts as a rectangle. It shows that the answer depends on a rule people chose.",
+   "for": "In everyday talk, 'rectangle' means a shape with 2 long sides and 2 short sides. A square does not look like that. Long ago, the Greek mathematician Euclid also listed them under two separate names, square and oblong.",
+   "against": "Mathematicians today say a rectangle is any shape with 4 straight sides and 4 corners like a book's. A square fits that rule. So in maths, a square is a special rectangle whose sides are all the same length.",
+   "status": "rejected"
+  },
+  {
+   "claim": "A triangle must have a flat bottom and a point on top.",
+   "who": "Many children, because books usually draw a triangle that way",
+   "context": "This card is about the picture of a triangle that most of us carry in our heads.",
+   "for": "Most triangles in picture books sit flat with the point on top. So that is the look we learn first.",
+   "against": "The rule for a triangle is 3 straight sides and 3 corners. It says nothing about which way is up. Turn any triangle, count again, and it still passes.",
+   "status": "rejected"
+  },
+  {
+   "claim": "People are born with a sense of shape. Nobody has to teach it.",
+   "who": "Some scientists, after a 2006 study with the Mundurukú people of the Amazon forest",
+   "context": "This card asks whether we learn shapes or are born noticing them. Scientists do not agree.",
+   "for": "Mundurukú children and adults had little or no schooling, and their language has few words for shapes. They still picked the odd shape out of six about two times in three.",
+   "against": "Picking the odd one out may only need sharp eyes, not a sense of shape. And everyone, everywhere, grows up seeing round fruit and straight sticks, so they may have learned from those.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A thin triangle and a wide triangle look very different. What is the same in both?",
+   "kind": "deep",
+   "hint": "Count something on each of them."
+  },
+  {
+   "q": "Can a shape have 3 sides and 4 corners? Try to draw one.",
+   "kind": "deep",
+   "hint": "Each time two sides meet, you get one corner."
+  },
+  {
+   "q": "If you turn a square on its corner, is it a new shape or the same shape?",
+   "kind": "deep",
+   "hint": "What changed about the paper? What did not?"
+  },
+  {
+   "q": "No dosa is a perfect circle. So how do we all know what a perfect circle is?",
+   "kind": "big",
+   "hint": "Have you ever seen one? Could you still spot a bumpy one?"
+  },
+  {
+   "q": "A pufferfish makes a circle in the sand. Does he know it is a circle?",
+   "kind": "big",
+   "hint": "He has no word for it. Do you need a word to know something?"
+  },
+  {
+   "q": "Why are so many things people make rectangles, and so many things in the sky round?",
+   "kind": "big",
+   "hint": "Think about bricks that must fit together, and about a ball of wet atta."
+  }
+ ],
+ "story": {
+  "title": "The Flags Nobody Wanted",
+  "mins": 6,
+  "read_aloud": true,
+  "note": "Thenu, Surya, Paati and Fathima akka are made up. Strings of triangle flags are a common street decoration at festivals.",
+  "text": [
+   "Tomorrow was Pongal, and Thenu's street had no flags.",
+   "Paati had promised to sew a long string of them, long enough to cross the whole street. For that she needed twenty triangles of cloth. Fathima akka, the tailor at the corner, had given her a big bag of leftover pieces. Red, blue, green, yellow, all cut off from blouses and school uniforms.",
+   "\"Sort them for me,\" Paati told Thenu and her big cousin Surya. \"Triangles go in this basket. Everything else goes back in the bag.\"",
+   "Surya was ten, and he was quick. He tipped the bag out on the floor. He picked up a red piece. It had a flat bottom and a point on top, like a little hill. \"Triangle,\" he said, and dropped it in the basket.",
+   "He picked up a blue piece. It was long and thin, like a blade of grass. \"Not a triangle.\" Back in the bag.",
+   "A green piece, with its point hanging down. \"Upside down. No.\"",
+   "A yellow piece that leaned to one side, as if it was tired. \"No.\"",
+   "A purple piece as small as a biscuit. \"Too small. No.\"",
+   "Soon the basket held nine pieces. All nine looked like little hills. The bag was nearly full again.",
+   "\"Paati,\" Surya called, \"there are only nine triangles. We need twenty.\"",
+   "Paati looked at the clock. Then she looked at the sky, which was already turning orange. Fathima akka's shop would be shut by now. \"Then it will be a very short string,\" she said, and she went to find her needle.",
+   "Thenu did not want a very short string. She pulled the blue piece out of the bag, the one like a blade of grass. She did not ask herself what it looked like. She put her finger on one end and walked it along the edge. One side. Her finger turned a corner. Two sides. It turned again. Three sides, and her finger was back where it began.",
+   "\"Surya anna, how many sides does a triangle have?\"",
+   "\"Three. Everybody knows that.\"",
+   "\"And how many corners?\"",
+   "\"Three.\"",
+   "\"Then count this one.\"",
+   "Surya counted the blue piece. He counted it again, more slowly. \"Three sides,\" he said. \"Three corners.\" He frowned at it. \"But it is so thin.\"",
+   "\"Is thin a number?\" asked Thenu.",
+   "Surya did not answer. He took out the green piece that hung upside down, and he turned it round in his hands. It became a little hill. He turned it back again. Then he counted the tired yellow one. Three and three. He counted the purple one that was as small as a biscuit. Three and three.",
+   "After that they worked fast. Thenu counted, and Surya checked.",
+   "One piece nearly fooled them both. It was shaped like a slice of a round cake. It had two straight sides, and one side that bulged like a full tummy. \"Three corners,\" said Surya, and he reached for the basket.",
+   "\"But this side bends,\" said Thenu. She ran her finger over the bulge. \"Paati can sew it, but it is not a triangle.\"",
+   "It went back in the bag. So did a piece with four sides, which looked like a hill with its top cut off.",
+   "When Paati came back with her needle, the basket was full.",
+   "\"Twenty-three,\" said Surya. \"Thin ones, small ones, tired ones. They are all triangles, Paati. We counted.\"",
+   "Paati sewed until the streetlight came on. She sewed each flag to the string by one side, so every single point hung down. Nobody on the street said they were not triangles.",
+   "In the morning the string went up, from Thenu's window to the neem tree across the street. The little hills hung quite still. But the long blue triangle caught every bit of wind. It flapped and snapped above the pongal pot, and the small children pointed up at it.",
+   "\"That one is the best,\" said Surya. \"And yesterday I threw it away.\""
+  ],
+  "epiphany": "For the parent: Surya knows the rule for a triangle by heart, three sides and three corners, but he sorts by the look he is used to. Thenu ignores the look and counts. The thin, tiny and upside-down pieces all pass, and the piece with a curved side fails even though it has three corners. A shape's name comes from its sides and corners, not from its usual picture.",
+  "ask": [
+   "Why did the blue piece look wrong to Surya at first?",
+   "Thenu asked, 'Is thin a number?' What did she mean?",
+   "Why was the piece like a slice of cake not a triangle, even with three corners?",
+   "The flags hung with their points down. Were they still triangles? How could you check?"
+  ],
+  "art": [
+   "A girl of seven and a boy of ten on a tiled floor with a heap of bright cloth scraps tipped out of a bag, and a small basket beside them.",
+   "The boy dropping a red hill-shaped piece into the basket and tossing a long thin blue piece back towards the bag.",
+   "The girl walking one finger along the edge of the long thin blue piece, her lips counting.",
+   "The two children looking closely at a piece shaped like a cake slice, the girl's finger on its curved side.",
+   "A string of triangle flags across a street from a window to a neem tree, all points hanging down, a long blue one flapping above a pongal pot."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Triangle Test: which of these are triangles?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this test you get ten paper shapes. First you guess which ones are triangles. Then you put a bean on every corner and run a finger along every side. You will find out what makes a triangle a triangle.",
+   "question": "Ten paper pieces lie on the floor. Which of them are triangles, and how can we be sure?",
+   "predict": "Before you count anything, put each piece in one of two heaps: triangle, or not a triangle. Why did you put it there?",
+   "fair_test": "Every piece gets the same check. We put one bean on each corner and count the beans. Then we run a finger along each side and say straight or curved. We write the guess before we count, so the count cannot change the guess.",
+   "results_table": [
+    "Piece",
+    "My guess: triangle or not",
+    "Corners (beans)",
+    "Straight sides",
+    "Curved sides"
+   ],
+   "materials": [
+    {
+     "item": "sheets of paper. Used paper or newspaper is fine",
+     "qty": 2
+    },
+    {
+     "item": "scissors, for the grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a pencil, and one more sheet for the table",
+     "qty": 1
+    },
+    {
+     "item": "dried beans such as rajma or chana, or buttons",
+     "qty": 6
+    },
+    {
+     "item": "a steel tumbler to draw round",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up does the cutting. Keep beans and buttons away from babies and toddlers, who could choke on them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Cut ten paper pieces. Guess which are triangles. Then check each one with beans on the corners and a finger along the sides."
+    }
+   ],
+   "record": "A grown-up draws the table with five columns. For each piece, write the guess first. Then write the number of beans, straight sides and curved sides. At the end, the child says the rule, and the grown-up writes it under the table.",
+   "example_chart": {
+    "type": "table",
+    "cols": [
+     "Piece",
+     "Guess",
+     "Corners",
+     "Straight sides",
+     "Curved sides"
+    ],
+    "rows": [
+     [
+      "A wide",
+      "triangle",
+      "3",
+      "3",
+      "0"
+     ],
+     [
+      "B point down",
+      "not",
+      "3",
+      "3",
+      "0"
+     ],
+     [
+      "C thin",
+      "not",
+      "3",
+      "3",
+      "0"
+     ],
+     [
+      "D tiny",
+      "triangle",
+      "3",
+      "3",
+      "0"
+     ],
+     [
+      "E leaning",
+      "not",
+      "3",
+      "3",
+      "0"
+     ],
+     [
+      "F cake slice",
+      "triangle",
+      "3",
+      "2",
+      "1"
+     ],
+     [
+      "G top cut off",
+      "not",
+      "4",
+      "4",
+      "0"
+     ],
+     [
+      "H square",
+      "not",
+      "4",
+      "4",
+      "0"
+     ],
+     [
+      "I rectangle",
+      "not",
+      "4",
+      "4",
+      "0"
+     ],
+     [
+      "J circle",
+      "not",
+      "0",
+      "0",
+      "1"
+     ]
+    ],
+    "title": "What a finished table can look like (your guesses will be your own)"
+   },
+   "setup": [
+    {
+     "art": "Ten paper pieces lettered A to J spread on a floor: five different triangles, a cake-slice shape, a triangle with its top cut off, a square, a rectangle and a circle.",
+     "caption": "1. A grown-up cuts ten pieces and writes a letter on each."
+    },
+    {
+     "art": "A child sorting the paper pieces into two heaps, with a grown-up writing on a sheet beside her.",
+     "caption": "2. Guess first: triangle, or not a triangle?"
+    },
+    {
+     "art": "A long thin paper triangle with one bean on each of its three corners and a child's finger running along one side.",
+     "caption": "3. Put a bean on every corner. Run a finger along every side."
+    },
+    {
+     "art": "A filled-in table on paper next to the ten pieces, with the five true triangles moved into one row.",
+     "caption": "4. Read the table. Which pieces have 3 beans and 3 straight sides?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Cut the ten pieces in the list. 2. Write a letter on each. 3. Lay them on the floor as the list says. 4. Draw the table with five columns.",
+     "say": "I have cut ten shapes. Some are triangles and some are not. Let us find out which.",
+     "kid": "A grown-up cuts ten paper shapes. Each one gets a letter.",
+     "adult": true,
+     "parent": "The pieces need not be neat. For F, draw round a plate and cut one slice out of the circle, like a slice of cake. For G, cut a triangle and then snip its point off straight. Make D big enough to hold three beans.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Piece",
+       "What to cut"
+      ],
+      "rows": [
+       [
+        "A",
+        "A wide triangle, as big as your hand"
+       ],
+       [
+        "B",
+        "A triangle like A. Lay it with its point down"
+       ],
+       [
+        "C",
+        "A long thin triangle, as long as your hand"
+       ],
+       [
+        "D",
+        "A tiny triangle, as big as a matchbox"
+       ],
+       [
+        "E",
+        "A corner of the sheet, cut off straight. Lay it leaning"
+       ],
+       [
+        "F",
+        "A slice of a circle, like a slice of cake"
+       ],
+       [
+        "G",
+        "A triangle with its top cut off straight"
+       ],
+       [
+        "H",
+        "A square"
+       ],
+       [
+        "I",
+        "A rectangle"
+       ],
+       [
+        "J",
+        "A circle. Draw round a tumbler"
+       ]
+      ],
+      "title": "The ten pieces"
+     },
+     "context": "This is the first step of the Triangle Test. A grown-up cuts ten paper pieces, some of them triangles and some not."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Ask your child to make two heaps, by looking only. 2. For each piece, ask why. 3. Write each guess in the table. 4. Do not correct any guess.",
+     "say": "Put the triangles in this heap. Put all the others in that heap. Tell me why for each one.",
+     "kid": "Make two heaps: triangle, and not a triangle. Say why for each piece.",
+     "ask": [
+      {
+       "q": "Why is this one not a triangle?",
+       "good": [
+        "It is too thin.",
+        "It is upside down.",
+        "It is too small.",
+        "It has four sides."
+       ]
+      }
+     ],
+     "parent": "Most six-year-olds leave out B, C and E, and many put F in. That is what the research found too. Accept every guess with its reason. The beans will do the correcting.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "A B C D E",
+       "F G H I J"
+      ],
+      "answer": "triangle or not?"
+     },
+     "context": "This is step 2 of the Triangle Test. Before any counting, you guess which of the ten pieces are triangles."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Take piece A. 2. Your child puts one bean on each corner and counts the beans. 3. Your child runs a finger along each side and says straight or curved. 4. Write the numbers. 5. Do the same for B and C.",
+     "say": "Put a bean on every corner. How many beans? Now run your finger along each side. Is it straight or curved?",
+     "kid": "Put one bean on each corner. Count the beans. Run your finger along each side.",
+     "ask": [
+      {
+       "q": "How many beans did piece C need? How many sides did your finger find?",
+       "good": [
+        "3 beans.",
+        "3 sides, all straight."
+       ]
+      }
+     ],
+     "parent": "Let your child place the beans. If a corner is missed, ask, 'Does your finger turn anywhere else?'",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A: beans",
+        "n": 3
+       },
+       {
+        "label": "B: beans",
+        "n": 3
+       },
+       {
+        "label": "C: beans",
+        "n": 3
+       }
+      ]
+     },
+     "context": "This is step 3 of the Triangle Test. You check pieces A, B and C with beans on the corners and a finger along the sides."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Check pieces D to J in the same way. 2. Write the beans, the straight sides and the curved sides for each. 3. Go slowly on F and J.",
+     "say": "Now check the rest. Beans on the corners first. Then your finger along the sides.",
+     "kid": "Check every other piece. Beans on corners. Finger along the sides.",
+     "ask": [
+      {
+       "q": "Piece F has 3 beans. Is every one of its sides straight?",
+       "good": [
+        "No, one side is curved.",
+        "Two are straight and one bends."
+       ]
+      },
+      {
+       "q": "How many beans does the circle need?",
+       "good": [
+        "None.",
+        "Zero. It has no corners."
+       ]
+      }
+     ],
+     "parent": "F has 3 corners, 2 straight sides and 1 curved side. G has 4 and 4. The circle has no corners and one curved edge.",
+     "context": "This is step 4 of the Triangle Test. You check pieces D to J with beans and a finger, and fill in the table."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "1. Look at the table together. 2. Ask which pieces have 3 beans and 3 straight sides. 3. Put those pieces in one row. 4. Compare them with the first guesses.",
+     "say": "Which pieces have 3 beans and 3 straight sides? Put them together. Were they all in your triangle heap?",
+     "kid": "Find every piece with 3 beans and 3 straight sides. Put them in a row.",
+     "ask": [
+      {
+       "q": "These five look so different. What is the same about them?",
+       "good": [
+        "They all have 3 sides.",
+        "3 corners and 3 straight sides.",
+        "They all had 3 beans."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A piece is long and thin. It has 3 straight sides and 3 corners. Is it a triangle?",
+      "options": [
+       "Yes",
+       "No, it is too thin",
+       "Only if you turn it"
+      ],
+      "a": 0,
+      "why": "Yes. 3 straight sides and 3 corners make a triangle. Picking 'too thin' means the look is doing the choosing. Count the sides and corners again."
+     },
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "A",
+        "n": 3
+       },
+       {
+        "label": "B",
+        "n": 3
+       },
+       {
+        "label": "C",
+        "n": 3
+       },
+       {
+        "label": "D",
+        "n": 3
+       },
+       {
+        "label": "E",
+        "n": 3
+       }
+      ],
+      "title": "Beans on the corners"
+     },
+     "context": "This is step 5 of the Triangle Test. You read the table and find the pieces with 3 corners and 3 straight sides."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "1. Turn piece B so that its point is up. 2. Ask if the beans changed. 3. Ask your child what they think now, what they saw and why. 4. Write their words under the table.",
+     "say": "What do you think makes a triangle? What did you see? Why do you think so?",
+     "kid": "Turn piece B round. Count again. Now say what makes a triangle.",
+     "ask": [
+      {
+       "q": "What do you think now? What did you see? Why?",
+       "good": [
+        "A triangle has 3 sides and 3 corners.",
+        "All of them had 3 beans, even the thin one.",
+        "Turning it did not change the beans.",
+        "The cake slice is out because one side bends."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A shape has 3 corners. One of its sides is curved. Is it a triangle?",
+      "options": [
+       "Yes, it has 3 corners",
+       "No, all 3 sides must be straight",
+       "Yes, if it is big"
+      ],
+      "a": 1,
+      "why": "No. A triangle needs 3 straight sides. Picking 'yes' means only the corners were counted. Run a finger along each side too."
+     },
+     "context": "This is the last step of the Triangle Test. You turn a piece round, count again, and say the rule you found."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Kitchen Shape Hunt: which shape is hardest to find?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you hunt for circles, squares, rectangles and triangles in your kitchen and keep a tally. You will find out which shape is everywhere and which is rare.",
+   "problem": "Which of the four shapes will we find most often in the kitchen? Which will be hardest to find?",
+   "materials": [
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "your kitchen, with its plates, lids, boxes and shelves",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Guess which shape is most common. Hunt for 5 minutes with a tally. Count the tallies and compare."
+    }
+   ],
+   "record": "Write the four shape names down the side of a sheet. Make one stroke beside a name each time you find that shape. Write the totals at the end.",
+   "example_chart": {
+    "type": "table",
+    "cols": [
+     "Shape",
+     "Things we found",
+     "How many"
+    ],
+    "rows": [
+     [
+      "● circle",
+      "plate, lid, tawa, tumbler rim, bangle, dosa, clock",
+      "7"
+     ],
+     [
+      "▬ rectangle",
+      "door, shelf, chopping board, phone, matchbox",
+      "5"
+     ],
+     [
+      "■ square",
+      "floor tile, steel box lid",
+      "2"
+     ],
+     [
+      "▲ triangle",
+      "samosa",
+      "1"
+     ]
+    ],
+    "title": "One family's hunt (yours will differ)"
+   },
+   "setup": [
+    {
+     "art": "A child and a parent standing in a kitchen doorway looking in, the child holding a pencil and paper.",
+     "caption": "1. Guess: which shape will we find most?"
+    },
+    {
+     "art": "A child tracing a finger round the rim of a steel plate on a kitchen shelf.",
+     "caption": "2. Hunt. Trace each shape with a finger and name it."
+    },
+    {
+     "art": "A sheet of paper with four shape names and tally strokes beside each.",
+     "caption": "3. Make one stroke for each find. Count the strokes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Stand at the kitchen door. 2. Ask which of the four shapes will turn up most, and which least. 3. Write both guesses.",
+     "say": "We will hunt for circles, squares, rectangles and triangles. Which will we find most? Why do you think so?",
+     "kid": "Guess which shape is in your kitchen the most. Guess which is the least.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "● ■ ▬ ▲"
+      ],
+      "answer": "most? least?"
+     },
+     "context": "This is the first step of the Kitchen Shape Hunt. You guess which of the four shapes is most common in your kitchen."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Hunt for 5 minutes. 2. Your child traces each find with a finger and names the shape. 3. Make one tally stroke for each find. 4. Look at flat faces only.",
+     "say": "Trace it with your finger. What shape is this face? Does it have corners?",
+     "kid": "Find a shape. Trace it with your finger. Say its name. Make one stroke.",
+     "ask": [
+      {
+       "q": "This lid has 4 corners. Is it a square or a rectangle? How can we check?",
+       "good": [
+        "Check if all the sides are the same length.",
+        "It has two long sides, so it is a rectangle."
+       ]
+      }
+     ],
+     "parent": "Things are solid, so look at one flat face at a time: the top of a lid, the front of a box. For a square, compare two sides with a spoon handle or a strip of paper.",
+     "context": "This is step 2 of the Kitchen Shape Hunt. You find shapes on plates, lids, boxes and doors, and tally each one."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Count the strokes for each shape. 2. Write the four totals. 3. Compare them with the guesses. 4. Ask why triangles are so rare.",
+     "say": "Which shape won? Which was hardest to find? Why might that be?",
+     "kid": "Count your strokes. Which shape won? Which was hardest to find?",
+     "ask": [
+      {
+       "q": "Why do you think there are so many circles in a kitchen?",
+       "good": [
+        "Round things are easy to stir in.",
+        "Plates and pots are round.",
+        "I do not know."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "In one kitchen there are 7 circles and 1 triangle. How many more circles than triangles?",
+      "options": [
+       "8",
+       "6",
+       "7"
+      ],
+      "a": 1,
+      "why": "7 take away 1 is 6. Picking 8 means the two numbers were added."
+     },
+     "parent": "Most kitchens have many circles and rectangles, a few squares and hardly any triangles. There is no single right reason. Let your child wonder.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "circles",
+        "n": 7
+       },
+       {
+        "label": "rectangles",
+        "n": 5
+       },
+       {
+        "label": "squares",
+        "n": 2
+       },
+       {
+        "label": "triangles",
+        "n": 1
+       }
+      ],
+      "title": "One family's hunt"
+     },
+     "context": "This is the last step of the Kitchen Shape Hunt. You count the tallies and see which shape is most common and which is rare."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Turn Test: square, rectangle or circle?",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you draw round a rectangle, a square, a bangle and an oval, which is a stretched circle. Then you turn each one on its own outline to see when it fits. You will find out what is special about a square and about a circle.",
+   "problem": "A square and a rectangle both have 4 sides and 4 corners. An oval and a bangle are both round. How do we tell each pair apart?",
+   "materials": [
+    {
+     "item": "a postcard, an envelope or a thin book (a rectangle)",
+     "qty": 1
+    },
+    {
+     "item": "a square of paper. Fold one corner of a sheet over to the far edge and cut off the extra strip",
+     "qty": 1
+    },
+    {
+     "item": "a bangle or a round lid",
+     "qty": 1
+    },
+    {
+     "item": "an oval cut from paper, about as long as your hand. An oval is a stretched circle, like the outline of an egg",
+     "qty": 1
+    },
+    {
+     "item": "plain paper, a pencil and a strip of paper as long as your hand",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up does the cutting.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw round four shapes. Check the sides with a paper strip. Turn each shape on its outline and count how many times it fits."
+    }
+   ],
+   "record": "Make a table with two columns: the shape, and how many times it fits in one full turn.",
+   "example_chart": {
+    "type": "table",
+    "cols": [
+     "Shape",
+     "Fits its outline"
+    ],
+    "rows": [
+     [
+      "▬ rectangle",
+      "2 times"
+     ],
+     [
+      "■ square",
+      "4 times"
+     ],
+     [
+      "oval",
+      "1 or 2 times"
+     ],
+     [
+      "● circle",
+      "every time"
+     ]
+    ],
+    "title": "One full turn"
+   },
+   "setup": [
+    {
+     "art": "A postcard, a paper square, a bangle and a paper oval, each lying on a sheet with a pencil outline drawn round it.",
+     "caption": "1. Draw round each shape."
+    },
+    {
+     "art": "A strip of paper with a pencil mark laid along one side of a paper square.",
+     "caption": "2. Mark one side on a strip. Does the mark fit the other sides?"
+    },
+    {
+     "art": "A paper square with a dot on one corner being turned on its outline, a curved arrow showing the turn.",
+     "caption": "3. Turn the shape on its outline. Count each time it fits."
+    },
+    {
+     "art": "A bangle on its outline with a curved arrow going all the way round.",
+     "caption": "4. The bangle fits at every turn."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay each of the four things on paper. 2. Your child draws round each one. 3. Put a pencil dot on one corner or edge of each thing.",
+     "say": "Draw round each one. Keep the pencil close to the edge.",
+     "kid": "Draw round the postcard, the square, the bangle and the oval.",
+     "adult": true,
+     "parent": "Cut the square and the oval before you start. The oval need not be neat, as long as it is clearly longer one way.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Thing",
+       "Shape"
+      ],
+      "rows": [
+       [
+        "postcard",
+        "▬ rectangle"
+       ],
+       [
+        "folded paper",
+        "■ square"
+       ],
+       [
+        "bangle",
+        "● circle"
+       ],
+       [
+        "paper oval",
+        "oval"
+       ]
+      ],
+      "title": "Draw round these four"
+     },
+     "context": "This is the first step of the Turn Test. You draw round a rectangle, a square, a bangle and an oval."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Lay the paper strip along one side of the square. 2. Mark where the side ends. 3. Try the mark on the other three sides. 4. Do the same with the postcard.",
+     "say": "Does the mark fit this side too? And this one? What about the postcard?",
+     "kid": "Mark one side on the strip. Try the mark on every other side.",
+     "ask": [
+      {
+       "q": "What did the strip show about the square? And about the postcard?",
+       "good": [
+        "All 4 sides of the square are the same.",
+        "The postcard has 2 long sides and 2 short sides."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A shape has 4 straight sides and 4 corners like a book's. How do you know if it is a square?",
+      "options": [
+       "Count the corners again",
+       "Check that all 4 sides are the same length",
+       "See if it is small"
+      ],
+      "a": 1,
+      "why": "Both shapes have 4 corners, so counting cannot tell them apart. In a square all 4 sides are the same length. Size does not matter."
+     },
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "long side",
+        "parts": 1,
+        "shaded": 0,
+        "width": 90
+       },
+       {
+        "label": "short side",
+        "parts": 1,
+        "shaded": 0,
+        "width": 45
+       }
+      ],
+      "title": "A postcard's sides"
+     },
+     "context": "This is step 2 of the Turn Test. You use a marked paper strip to compare the sides of a square and of a rectangle."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Put the square back on its outline, dot at the top. 2. Ask for a guess: how many times will it fit in one full turn? 3. Turn it slowly and count each fit. 4. Do the same with the postcard.",
+     "say": "If we turn it all the way round, how many times will it fit its outline? Why do you think so?",
+     "kid": "Guess first. Then turn the square on its outline. Count each time it fits.",
+     "parent": "The square fits 4 times in one full turn, counting the place where it started. The postcard fits 2 times. Stop the count when the dot is back at the top.",
+     "context": "This is step 3 of the Turn Test. You turn a square and a rectangle on their outlines and count how many times each fits."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Ask for a guess about the bangle and the oval. 2. Turn the oval on its outline and count the fits. 3. Turn the bangle a little at a time. 4. Fill in the table. 5. Ask what your child found.",
+     "say": "Now the bangle and the oval. Both are round. Will they act the same? Why?",
+     "kid": "Turn the oval. Then turn the bangle. Which one always fits?",
+     "ask": [
+      {
+       "q": "What is special about the circle?",
+       "good": [
+        "It fits every time.",
+        "It is the same all the way round.",
+        "You cannot tell that it was turned."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Which of these fits its outline at every turn?",
+      "options": [
+       "A square",
+       "An oval",
+       "A circle"
+      ],
+      "a": 2,
+      "why": "A circle is the same all the way round, so it always fits. A square fits only 4 times in a full turn, and an oval only once or twice."
+     },
+     "parent": "The oval fits once or twice, depending on how evenly it was cut. The bangle fits wherever you stop. This is what 'the same all the way round' means.",
+     "context": "This is the last step of the Turn Test. You turn an oval and a bangle on their outlines and find which one fits at every turn."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Maths in life: a dot kolam of squares and triangles",
+   "mins": 15,
+   "days": 1,
+   "context": "Many kolams begin with a grid of dots, called pulli in Tamil. In this activity you draw 9 dots and join them with straight lines. You will find squares and triangles hiding in the kolam, and then draw it at your door.",
+   "problem": "How many squares and triangles can you make by joining 9 dots with straight lines?",
+   "materials": [
+    {
+     "item": "paper and a pencil, or a slate and chalk",
+     "qty": 1
+    },
+    {
+     "item": "kolam powder, rice flour or chalk for the doorstep (if you like)",
+     "qty": "a handful"
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw 9 dots in 3 rows. Join them to make squares, then a square on its corner with triangles. Count the shapes and draw the kolam at the door."
+    }
+   ],
+   "record": "Draw both kolams on paper. Under each, write how many squares and how many triangles you found.",
+   "setup": [
+    {
+     "art": "Nine dots in three neat rows of three on a slate.",
+     "caption": "1. Draw 9 dots: 3 rows of 3."
+    },
+    {
+     "art": "The nine dots joined by straight lines into one big square split into four small squares.",
+     "caption": "2. Join each dot to the next one. Count the squares."
+    },
+    {
+     "art": "A new grid of nine dots with the outside dots joined into a big square and the four middle dots of the sides joined into a square standing on its corner.",
+     "caption": "3. On new dots, join the middle of each side. Count the triangles."
+    },
+    {
+     "art": "A child and her grandmother drawing the second kolam with white powder on a doorstep.",
+     "caption": "4. Draw your kolam at the door."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Draw 9 dots in 3 rows of 3. 2. Keep the gaps between the dots the same. 3. Ask your child to count the dots.",
+     "say": "A kolam often starts with dots. How many dots are here? How many in each row?",
+     "kid": "Draw 3 dots in a row. Draw 2 more rows under it.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "row 1",
+        "n": 3
+       },
+       {
+        "label": "row 2",
+        "n": 3
+       },
+       {
+        "label": "row 3",
+        "n": 3
+       }
+      ],
+      "title": "Nine dots"
+     },
+     "context": "This is the first step of the dot kolam. You draw a grid of 9 dots, 3 rows of 3."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Join the outside dots with straight lines, all the way round. 2. Ask what shape it is and how to check. 3. Now join the middle dot to the four dots beside it. 4. Count the squares.",
+     "say": "What shape did we make round the outside? How many small squares are inside it now?",
+     "kid": "Join the outside dots. Then join the middle dot to its four neighbours. Count the squares.",
+     "ask": [
+      {
+       "q": "How many squares can you find altogether?",
+       "good": [
+        "4 small ones.",
+        "5, with the big one round the outside."
+       ]
+      }
+     ],
+     "parent": "There are 4 small squares and 1 big square, so 5 in all. Many children miss the big one. Trace it with a finger.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "4 small",
+       "+ 1 big"
+      ],
+      "answer": "? squares"
+     },
+     "context": "This is step 2 of the dot kolam. You join the 9 dots with straight lines and count the squares you have made."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Draw 9 new dots. 2. Join the outside dots into a big square again. 3. Find the middle dot of each side. 4. Join those four dots to each other with straight lines. 5. Count the triangles in the corners.",
+     "say": "Join the middle of each side to the next. What shape is in the middle? What shapes are in the corners?",
+     "kid": "On new dots, join the middle of each side to the next. What shapes appear?",
+     "ask": [
+      {
+       "q": "Is the shape in the middle a square? How can you check?",
+       "good": [
+        "Turn the paper and it looks like a square.",
+        "It has 4 sides the same length."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A square stands on one corner. How many sides does it have?",
+      "options": [
+       "3",
+       "4",
+       "5"
+      ],
+      "a": 1,
+      "why": "Turning a shape does not change its sides. It still has 4. Picking 3 may mean it looked like a triangle on top. Count with a finger."
+     },
+     "parent": "The middle shape is a square turned on its corner. Turn the paper to show it. There are 4 triangles, one in each corner.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "row 1",
+        "n": 3
+       },
+       {
+        "label": "row 2",
+        "n": 3
+       },
+       {
+        "label": "row 3",
+        "n": 3
+       }
+      ],
+      "title": "Nine dots"
+     },
+     "context": "This is step 3 of the dot kolam. On 9 new dots you draw a square standing on its corner, with a triangle in each corner of the big square."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Let your child add dots, lines or colour. 2. Draw the kolam at your door with powder or chalk. 3. Count the shapes in it together.",
+     "say": "Make it your own. Then tell me how many squares and triangles your kolam has.",
+     "kid": "Add your own lines. Draw your kolam at the door. Count its shapes.",
+     "parent": "If you have no doorstep, draw it on a slate or on paper and stick it by the door.",
+     "context": "This is the last step of the dot kolam. You finish your own kolam, draw it at the door and count its shapes."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Maths in life: draw a paandi court and play",
+   "mins": 15,
+   "days": 1,
+   "context": "Paandi is the Tamil name for hopscotch. In Karnataka it is kunte bille, and in Andhra Pradesh and Telangana it is tokkudu billa. In this activity you draw the court yourself, check its shapes with your feet, and then play.",
+   "problem": "A paandi court is one big rectangle cut into 8 boxes. Are the boxes squares or rectangles? Check before you play.",
+   "materials": [
+    {
+     "item": "chalk, for a terrace, a yard or a quiet floor. Indoors, lay strips of paper tape on the floor",
+     "qty": 1
+    },
+    {
+     "item": "a flat stone or a bottle cap for each player",
+     "qty": 1
+    }
+   ],
+   "safety": "Play on a flat, dry floor, away from the road and from stairs.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw a court of 8 boxes. Measure the sides of one box in footsteps. Play paandi."
+    }
+   ],
+   "record": "After the game, draw the court on paper. Write whether your boxes were squares or rectangles, and how many footsteps each side was.",
+   "setup": [
+    {
+     "art": "A chalk court on a terrace floor: a tall rectangle split into two columns of four boxes, numbered 1 to 8.",
+     "caption": "1. Draw a big rectangle. Split it into 8 boxes."
+    },
+    {
+     "art": "A child walking heel to toe along one chalk side of a box, counting.",
+     "caption": "2. Measure each side of one box in footsteps."
+    },
+    {
+     "art": "A girl hopping on one foot in box 3, a flat stone lying in box 1.",
+     "caption": "3. Throw your stone, hop through the boxes and do not touch a line."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw one big rectangle, about 4 big steps long and 2 big steps wide. 2. Draw a line down the middle. 3. Draw 3 lines across. 4. Number the boxes 1 to 8, up one side and down the other.",
+     "say": "We need one big rectangle with 8 boxes in it. Help me keep the lines straight.",
+     "kid": "Draw a big rectangle. Split it into 8 boxes. Number them 1 to 8.",
+     "parent": "Families draw paandi courts in many ways. If you know another court, draw that one and check its shapes in the same way.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Left",
+       "Right"
+      ],
+      "rows": [
+       [
+        "4",
+        "5"
+       ],
+       [
+        "3",
+        "6"
+       ],
+       [
+        "2",
+        "7"
+       ],
+       [
+        "1",
+        "8"
+       ]
+      ],
+      "title": "A paandi court: start at 1"
+     },
+     "context": "This is the first step of drawing a paandi court. You draw one big rectangle and split it into 8 numbered boxes."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Your child walks heel to toe along each side of box 1 and counts the footsteps. 2. Write the four numbers. 3. Ask whether the box is a square or a rectangle.",
+     "say": "How many footsteps is each side? Are all four the same?",
+     "kid": "Walk heel to toe along each side of box 1. Count your steps.",
+     "ask": [
+      {
+       "q": "Is your box a square or a rectangle? How do you know?",
+       "good": [
+        "A square. All 4 sides were 4 footsteps.",
+        "A rectangle. Two sides were 5 footsteps and two were 4."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "The sides of a box are 4, 4, 4 and 4 footsteps. Its corners are like a book's. What shape is it?",
+      "options": [
+       "A square",
+       "A rectangle with long sides",
+       "A triangle"
+      ],
+      "a": 0,
+      "why": "All 4 sides are the same length, so it is a square. A rectangle with long sides would give two bigger numbers and two smaller ones."
+     },
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "4 4 4 4"
+      ],
+      "answer": "square?"
+     },
+     "context": "This is step 2 of the paandi court. You measure the four sides of one box in footsteps to see if it is a square."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Throw your stone into box 1. 2. Hop over box 1 and through boxes 2 to 8 on one foot. 3. On the way back, pick up the stone in box 1 and hop out. 4. Next turn, throw into box 2. 5. If you touch a line, the turn passes.",
+     "say": "Hop through every box. Your foot must stay inside the four sides.",
+     "kid": "Throw your stone into a box. Hop through the others on one foot. Stay off the lines.",
+     "parent": "Use your own family's rules if you have them. For a first game, hopping with a rest on two feet in boxes 4 and 5 is fine.",
+     "context": "This is step 3 of paandi. You throw a stone into a box and hop through the court without touching the lines."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Stop when someone has thrown into all 8 boxes, or after 7 minutes. 2. Ask how many corners the whole court has.",
+     "say": "The whole court is one big rectangle. How many corners does it have?",
+     "kid": "Look at the whole court. How many corners does the big rectangle have?",
+     "ask": [
+      {
+       "q": "How many corners does the big rectangle have?",
+       "good": [
+        "4."
+       ]
+      }
+     ],
+     "context": "This is the last step of paandi. You look at the whole court again as one big rectangle."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Shape pictures: build an auto from shapes",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you make pictures from cut-out circles, triangles, squares and rectangles. Then you count how many of each shape your picture used.",
+   "problem": "Can you build an auto-rickshaw, a house or a fish using only the four shapes?",
+   "materials": [
+    {
+     "item": "the paper pieces from the Triangle Test, and about 10 more cut from coloured paper or old magazines",
+     "qty": "about 20"
+    },
+    {
+     "item": "a sheet of paper to build on, and glue if you want to keep the picture",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up does the cutting.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Build a picture from cut-out shapes. Count how many of each shape it used and add them up."
+    }
+   ],
+   "record": "Under your picture, write how many circles, triangles, squares and rectangles you used, and the total.",
+   "setup": [
+    {
+     "art": "A heap of cut-out paper circles, triangles, squares and rectangles in several colours on a floor.",
+     "caption": "1. Cut plenty of each shape."
+    },
+    {
+     "art": "An auto-rickshaw made from paper shapes: a big rectangle body, a triangle front, a square window and three circle wheels.",
+     "caption": "2. Build a picture using only these shapes."
+    },
+    {
+     "art": "A child's hand writing '3 circles, 1 triangle, 1 square, 1 rectangle' under the paper auto.",
+     "caption": "3. Count each shape. Write the numbers."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Spread out all the cut shapes. 2. Sort them into four heaps by shape. 3. Put any odd pieces, such as the cake slice, to one side.",
+     "say": "Sort these into circles, triangles, squares and rectangles. How will you check the tricky ones?",
+     "kid": "Sort the paper shapes into four heaps. Check the tricky ones by counting.",
+     "adult": true,
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "● ▲ ■ ▬"
+      ],
+      "answer": "4 heaps"
+     },
+     "context": "This is the first step of Shape Pictures. You sort cut-out paper shapes into circles, triangles, squares and rectangles."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Your child chooses what to build: an auto, a house, a fish or anything else. 2. They lay shapes on the paper and move them until it looks right. 3. Glue the pieces if you want to keep it.",
+     "say": "What will you build? Which shape will you use for the wheels? Why that one?",
+     "kid": "Build an auto, a house or a fish. Use only the four shapes.",
+     "ask": [
+      {
+       "q": "Why did you choose circles for the wheels?",
+       "good": [
+        "Wheels are round.",
+        "A square wheel would not roll."
+       ]
+      }
+     ],
+     "context": "This is step 2 of Shape Pictures. You build a picture, such as an auto or a house, from the four shapes."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Count how many of each shape the picture used. 2. Write the four numbers. 3. Add them to find the total.",
+     "say": "How many circles did you use? How many triangles? How many pieces altogether?",
+     "kid": "Count each shape in your picture. Add the numbers up.",
+     "check": {
+      "t": "mcq",
+      "q": "An auto picture uses 3 circles, 1 triangle, 1 square and 1 rectangle. How many pieces altogether?",
+      "options": [
+       "5",
+       "6",
+       "4"
+      ],
+      "a": 1,
+      "why": "3 and 1 and 1 and 1 make 6. Picking 4 means the kinds of shape were counted, not the pieces."
+     },
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "3",
+       "1",
+       "1",
+       "+ 1"
+      ],
+      "answer": "?",
+      "title": "An auto: ● ▲ ■ ▬"
+     },
+     "context": "This is the last step of Shape Pictures. You count how many of each shape your picture used and add them up."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Fill the Shape Mat",
+   "mins": 10,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a dice game. Each roll tells you which shape to draw on your mat. Your second triangle must look different from your first. It builds quick naming and checking of the four shapes.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A mat for each player: a sheet folded into 8 boxes, with these labels",
+     "items": [
+      "Circle",
+      "Circle",
+      "Triangle",
+      "Triangle",
+      "Square",
+      "Square",
+      "Rectangle",
+      "Rectangle"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "The dice key",
+     "items": [
+      "1 = circle",
+      "2 = triangle",
+      "3 = square",
+      "4 = rectangle",
+      "5 = any shape you need",
+      "6 = any shape you need"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player folds a sheet of paper into 8 boxes and writes the labels: 2 boxes each for circle, triangle, square and rectangle.",
+    "On your turn, roll the dice and read the key. Draw that shape in one of its empty boxes.",
+    "Your second shape of a kind must look different from the first: bigger, smaller, thinner or turned another way.",
+    "The next player checks your shape by counting its sides and corners. If it fails, rub it out.",
+    "If both boxes for your shape are full, you miss that turn.",
+    "The first player to fill all 8 boxes wins.",
+    "Playing alone: count how many rolls you need to fill the mat. Play again and try to need fewer."
+   ],
+   "setup": [
+    {
+     "art": "A sheet of paper folded into eight boxes labelled circle, circle, triangle, triangle, square, square, rectangle, rectangle, with a dice and a pencil beside it.",
+     "caption": "1. Fold a sheet into 8 boxes. Write the labels."
+    },
+    {
+     "art": "A dice showing 2 next to a mat where a child is drawing a long thin triangle in a triangle box.",
+     "caption": "2. Roll. Draw the shape the dice names."
+    },
+    {
+     "art": "A second child pointing at each corner of a drawn triangle on the first child's mat, counting.",
+     "caption": "3. The next player checks your sides and corners."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Each player folds a sheet in half three times and opens it. 2. Write the 8 labels, one in each box. 3. Copy the dice key where everyone can see it.",
+     "say": "Each of us needs a mat with 8 boxes. Two for each shape.",
+     "kid": "Fold your paper into 8 boxes. Write two boxes for each shape.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Dice",
+       "Draw"
+      ],
+      "rows": [
+       [
+        "1",
+        "● circle"
+       ],
+       [
+        "2",
+        "▲ triangle"
+       ],
+       [
+        "3",
+        "■ square"
+       ],
+       [
+        "4",
+        "▬ rectangle"
+       ],
+       [
+        "5 or 6",
+        "any shape you need"
+       ]
+      ],
+      "title": "The dice key"
+     },
+     "context": "This is the first step of Fill the Shape Mat, a dice game. You fold a mat of 8 boxes and write the dice key."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Play one practice turn each. 2. Show how the checker counts the sides and corners aloud. 3. Draw a second triangle that looks different from the first.",
+     "say": "I rolled a 2, so I draw a triangle. Now check mine. Count my sides and corners.",
+     "kid": "Roll the dice. Draw the shape. Let the next player check it.",
+     "check": {
+      "t": "mcq",
+      "q": "Your friend draws a triangle pointing down. It has 3 straight sides and 3 corners. Does it pass?",
+      "options": [
+       "Yes",
+       "No, it is upside down",
+       "No, it is the wrong colour"
+      ],
+      "a": 0,
+      "why": "It passes. A triangle can point any way. Only the 3 straight sides and 3 corners are checked."
+     },
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "▲ ▼"
+      ],
+      "answer": "both pass"
+     },
+     "context": "This is step 2 of Fill the Shape Mat, a dice game. You practise one turn and learn how to check a drawn shape."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Play the game. 2. Each time, the next player checks the shape. 3. Now and then, ask how many boxes a player still has to fill.",
+     "say": "You have filled 5 boxes. How many are still empty?",
+     "kid": "Play the game. Check each other's shapes. Fill all 8 boxes.",
+     "ask": [
+      {
+       "q": "You have filled 5 of your 8 boxes. How many are left?",
+       "good": [
+        "3.",
+        "6, 7, 8. That is 3 more."
+       ]
+      }
+     ],
+     "parent": "Hand-drawn shapes will wobble. A square passes if its sides look about the same length. The point is the counting, not neat drawing.",
+     "context": "This is step 3 of Fill the Shape Mat, a dice game. You play, and check every drawn shape by counting sides and corners."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. The game ends when one mat is full. 2. Ask each player which shape was hardest to draw two ways.",
+     "say": "Who filled the mat first? Which shape was hardest to draw in two different ways?",
+     "kid": "The first full mat wins. Which shape was hardest to draw two ways?",
+     "parent": "Most children say the circle, because two circles can only differ in size. That is worth noticing: a circle has only one look.",
+     "context": "This is the last step of Fill the Shape Mat, a dice game. You finish, and say which shape was hardest to draw two ways."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Who Am I? Shape riddles",
+   "mins": 10,
+   "players": "1 to 4 players: alone, with a parent or with friends",
+   "context": "This is a card game with 12 riddles. Each card gives a clue about a shape. You name the shape, touch something of that shape in the room, and turn the card over to check.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 riddle cards, with the clue on the front and the shape on the back",
+     "items": [
+      {
+       "f": "I have 3 straight sides and 3 corners.",
+       "b": "Triangle"
+      },
+      {
+       "f": "I am flat. I have no corners and no straight sides.",
+       "b": "Circle"
+      },
+      {
+       "f": "I have 4 corners like a book's. All 4 of my sides are the same length.",
+       "b": "Square"
+      },
+      {
+       "f": "I have 4 corners like a book's. I have 2 long sides and 2 short sides.",
+       "b": "Rectangle"
+      },
+      {
+       "f": "A dosa on the tawa has my shape.",
+       "b": "Circle"
+      },
+      {
+       "f": "The flat face of a samosa has my shape.",
+       "b": "Triangle"
+      },
+      {
+       "f": "A carrom board has my shape.",
+       "b": "Square"
+      },
+      {
+       "f": "A door has my shape.",
+       "b": "Rectangle"
+      },
+      {
+       "f": "Put a bean on each of my corners. You need 3 beans.",
+       "b": "Triangle"
+      },
+      {
+       "f": "Put a bean on each of my corners. You need no beans at all.",
+       "b": "Circle"
+      },
+      {
+       "f": "Turn me any way on my outline. I always fit.",
+       "b": "Circle"
+      },
+      {
+       "f": "I have 4 sides of the same length. Stand me on a corner and people call me a diamond.",
+       "b": "Square"
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the 12 cards. Put them in a pile with the clues facing up.",
+    "On your turn, read the top clue aloud, or ask a grown-up to read it.",
+    "Name the shape. Then touch something in the room that has that shape.",
+    "Turn the card over to check. If you are right, keep the card. If not, put it at the bottom of the pile.",
+    "When the pile is gone, the player with the most cards wins.",
+    "Playing alone: count how many cards you get right the first time. Play again and try to beat your number."
+   ],
+   "setup": [
+    {
+     "art": "Twelve small paper cards in a pile, the top one showing a written clue.",
+     "caption": "1. Shuffle the cards. Clues face up."
+    },
+    {
+     "art": "A child reading a card and touching the round rim of a steel plate on a shelf.",
+     "caption": "2. Read the clue. Name the shape. Touch one in the room."
+    },
+    {
+     "art": "A hand turning a card over to show the word Circle on the back.",
+     "caption": "3. Turn the card over to check."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out the 12 cards, or write them on slips of paper with the answer on the back. 2. Shuffle them. 3. Put them in a pile, clues up.",
+     "say": "Each card is a riddle from a shape. Listen to the clue and tell me who is talking.",
+     "kid": "Shuffle the cards. Put them in a pile with the clues facing up.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "● ▲ ■ ▬"
+      ],
+      "answer": "who am I?"
+     },
+     "context": "This is the first step of Who Am I?, a riddle card game about shapes. You make and shuffle the 12 cards."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Take turns. 2. Read the top clue aloud. 3. The player names the shape and touches one in the room. 4. Turn the card over to check.",
+     "say": "Here is the clue. Who am I? Now find me somewhere in this room.",
+     "kid": "Read the clue. Say the shape. Touch that shape in the room. Then check.",
+     "check": {
+      "t": "mcq",
+      "q": "Clue: 'Put a bean on each of my corners. You need 3 beans.' Who am I?",
+      "options": [
+       "A circle",
+       "A square",
+       "A triangle"
+      ],
+      "a": 2,
+      "why": "3 beans means 3 corners, so it is a triangle. A square needs 4 beans and a circle needs none."
+     },
+     "parent": "Triangles are hard to find in most rooms. A folded paper napkin, a hanger or a triangle drawn in the air with a finger all count.",
+     "context": "This is step 2 of Who Am I?, a riddle card game about shapes. You name the shape from its clue and find it in the room."
+    },
+    {
+     "id": "s3",
+     "mins": 1,
+     "do": "1. When the pile is gone, count each player's cards. 2. Ask which clue was the hardest.",
+     "say": "How many cards do you have? Which clue was the hardest?",
+     "kid": "Count your cards. Which clue was the hardest?",
+     "context": "This is the last step of Who Am I?, a riddle card game about shapes. You count your cards and say which clue was hardest."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "My Shape Book: five days, four shapes",
+   "mins": 30,
+   "days": 5,
+   "context": "In this five-day project you make a small book with one page for each shape. Each day you find a shape around you, draw it and write its sides and corners. On the last day you look for shapes on road signs.",
+   "problem": "Where do circles, triangles, squares and rectangles turn up in your own home and street?",
+   "materials": [
+    {
+     "item": "3 sheets of paper folded in half, one inside the other, to make a book",
+     "qty": 3
+    },
+    {
+     "item": "a pencil and crayons",
+     "qty": 1
+    },
+    {
+     "item": "small flat things to draw round: a coin, a bangle, a matchbox, a lid",
+     "qty": "a few"
+    }
+   ],
+   "safety": "On day 5, look at road signs from the footpath or a window, holding a grown-up's hand.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 6,
+     "what": "Circle page. Find 3 circles at home. Draw round them. Write: 0 corners."
+    },
+    {
+     "day": 2,
+     "mins": 6,
+     "what": "Triangle page. Find or fold 3 triangles that look different. Draw them. Write: 3 sides, 3 corners."
+    },
+    {
+     "day": 3,
+     "mins": 6,
+     "what": "Square page. Find 2 squares. Check the sides with a paper strip. Draw them."
+    },
+    {
+     "day": 4,
+     "mins": 6,
+     "what": "Rectangle page. Find 3 rectangles, one long and thin. Draw them."
+    },
+    {
+     "day": 5,
+     "mins": 6,
+     "what": "Road sign page. From the footpath or a window, spot signs and draw the shape of each."
+    }
+   ],
+   "record": "One page a day. Draw the shapes you found and write the number of sides and corners. Write the day's shape name at the top.",
+   "setup": [
+    {
+     "art": "Three sheets of paper folded together into a small book, with 'My Shape Book' written on the front.",
+     "caption": "1. Fold 3 sheets into a book."
+    },
+    {
+     "art": "A child drawing round a coin and a bangle on a page headed Circle.",
+     "caption": "2. Each day, find one shape and draw it on its page."
+    },
+    {
+     "art": "A page headed Triangle with three different drawn triangles and '3 sides, 3 corners' written below.",
+     "caption": "3. Write the sides and corners."
+    },
+    {
+     "art": "A child at a window pointing at a round road sign and a triangular one on the street below.",
+     "caption": "4. On the last day, look for shapes on road signs."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Fold 3 sheets into a book. 2. Write Circle at the top of the first page. 3. Your child finds 3 circles at home and draws round each. 4. Write '0 corners' together.",
+     "say": "Today is circle day. Find three circles you can draw round.",
+     "kid": "Find 3 circles at home. Draw round each one on your circle page.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "day 1: circles",
+        "parts": 1,
+        "shaded": 0,
+        "round": true
+       }
+      ]
+     },
+     "context": "This is day 1 of My Shape Book, a five-day project. Today you find circles at home and draw round them."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Write Triangle on the next page. 2. Look for triangles at home. 3. If you find none, fold a square of paper corner to corner. 4. Your child draws 3 triangles that look different.",
+     "say": "Today is triangle day. They are hard to find. Can you draw three that look different?",
+     "kid": "Find or fold a triangle. Draw 3 triangles that look different.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "▲ ▼ ◣"
+      ],
+      "answer": "3 sides each"
+     },
+     "wait": "Do this on the next day",
+     "context": "This is day 2 of My Shape Book, a five-day project. Today you find or fold triangles and draw three different ones."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Write Square on the next page. 2. Find 2 things that look square. 3. Check each with a marked paper strip. 4. Draw the ones that pass.",
+     "say": "Today is square day. How will you check that all four sides are the same?",
+     "kid": "Find 2 squares. Check the sides with a paper strip. Draw them.",
+     "wait": "Do this on the next day",
+     "context": "This is day 3 of My Shape Book, a five-day project. Today you find squares and check their sides with a paper strip."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Write Rectangle on the next page. 2. Find 3 rectangles, one of them long and thin. 3. Draw them. 4. Write '4 sides, 4 corners'.",
+     "say": "Today is rectangle day. Find a long thin one and a short wide one.",
+     "kid": "Find 3 rectangles. One must be long and thin. Draw them.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "long and thin",
+        "parts": 1,
+        "shaded": 0,
+        "width": 95
+       },
+       {
+        "label": "short and wide",
+        "parts": 1,
+        "shaded": 0,
+        "width": 40
+       }
+      ]
+     },
+     "wait": "Do this on the next day",
+     "context": "This is day 4 of My Shape Book, a five-day project. Today you find rectangles of different kinds and draw them."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "do": "1. Go to the footpath or a window with your child. 2. Spot 3 or more road signs. 3. Your child draws the shape of each on the last page. 4. Talk about what each sign tells drivers.",
+     "say": "Look at that sign. What shape is it? What do you think it tells the drivers?",
+     "kid": "Look for road signs with a grown-up. Draw the shape of each sign.",
+     "adult": true,
+     "parent": "In India, signs that give an order are mostly circles, warning signs are triangles, and signs that give information are rectangles. The Stop sign has 8 sides.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Sign",
+       "Shape"
+      ],
+      "rows": [
+       [
+        "gives an order",
+        "● circle"
+       ],
+       [
+        "warns you",
+        "▲ triangle"
+       ],
+       [
+        "tells you where",
+        "▬ rectangle"
+       ]
+      ],
+      "title": "Road signs in India"
+     },
+     "wait": "Do this on the next day",
+     "context": "This is day 5 of My Shape Book, a five-day project. Today you look for shapes on road signs and draw them."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Stretch: sticks and shapes",
+   "mins": 20,
+   "context": "This is a puzzle challenge that goes past Class 1. You get 12 sticks of the same length. You make closed shapes with them and find out which numbers of sticks can make a square.",
+   "problem": "Use sticks as the sides of shapes. Find every different shape you can make with 6 sticks. Then find out which numbers of sticks can make a square.",
+   "constraints": [
+    "Every shape must be closed. The sticks touch end to end, with no gap.",
+    "Sticks may not cross or be broken.",
+    "You must use all the sticks you counted out for that shape."
+   ],
+   "materials": [
+    "12 sticks of the same length: ice-cream sticks, toothpicks with the points cut off, or used matchsticks",
+    "a table or a clear floor",
+    "paper and a pencil to draw what you make"
+   ],
+   "general": [
+    "With 3 sticks, make a triangle.",
+    "With 4 sticks, make a square.",
+    "With 6 sticks, make a shape with 6 sides, like a cell in a honeycomb."
+   ],
+   "creative": [
+    "With 6 sticks, make a big triangle with 2 sticks on each side.",
+    "With 6 sticks, make a rectangle: 2 sticks, 1 stick, 2 sticks, 1 stick.",
+    "Push a 4-stick square sideways. It still has 4 equal sides, but its corners are no longer like a book's, so it is not a square."
+   ],
+   "your_turn": "Now find out which numbers of sticks, from 3 to 12, can make a square. Try each number. Write yes or no for each, and look for the pattern.",
+   "setup": [
+    {
+     "art": "Twelve ice-cream sticks in a row on a table, with paper and a pencil.",
+     "caption": "1. Count out 12 sticks of the same length."
+    },
+    {
+     "art": "Three stick shapes on a table: a triangle of 3 sticks, a square of 4 sticks and a six-sided shape of 6 sticks.",
+     "caption": "2. Make closed shapes. Sticks touch end to end."
+    },
+    {
+     "art": "Six sticks laid as a rectangle, two sticks on each long side and one on each short side.",
+     "caption": "3. How many shapes can 6 sticks make?"
+    },
+    {
+     "art": "Eight sticks laid as a square with two sticks on each side.",
+     "caption": "4. Which numbers of sticks can make a square?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Give your child 3 sticks. 2. Ask for a closed shape. 3. Ask if 3 sticks can make any other shape. 4. Then give 4 sticks and ask for a square.",
+     "say": "Make a closed shape with 3 sticks. Can you make a different one with the same 3 sticks?",
+     "kid": "Make a shape with 3 sticks. Then make a square with 4 sticks.",
+     "ask": [
+      {
+       "q": "Can 3 sticks make anything but a triangle?",
+       "good": [
+        "No. It is always a triangle.",
+        "I can turn it, but it is the same triangle."
+       ]
+      }
+     ],
+     "parent": "Three equal sticks make only one triangle. Turning it does not make a new shape.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "sticks for a triangle",
+        "n": 3
+       },
+       {
+        "label": "sticks for a square",
+        "n": 4
+       }
+      ]
+     },
+     "context": "This is the first step of the sticks challenge. You make a triangle from 3 sticks and a square from 4 sticks."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Gently push the 4-stick square sideways so that it leans. 2. Ask how many sides and corners it has now. 3. Ask if it is still a square.",
+     "say": "I pushed the square. It still has 4 sides the same length. Is it still a square? Why?",
+     "kid": "Push your square so that it leans. Is it still a square?",
+     "ask": [
+      {
+       "q": "What changed when it leaned?",
+       "good": [
+        "The corners.",
+        "Two corners got pointy and two got wide.",
+        "The sides stayed the same."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A shape has 4 sides of the same length, but it leans. Its corners are not like a book's. Is it a square?",
+      "options": [
+       "Yes, the sides are equal",
+       "No, a square needs corners like a book's",
+       "Yes, if it is small"
+      ],
+      "a": 1,
+      "why": "A square needs both: 4 equal sides and 4 corners like a book's. Picking 'yes' means only the sides were checked. The leaning shape has its own name, a rhombus."
+     },
+     "parent": "This is why the rule for a square has two parts. A triangle of 3 sticks cannot be pushed out of shape in this way.",
+     "context": "This is step 2 of the sticks challenge. You push a square of 4 sticks so that it leans, and ask if it is still a square."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Give your child 6 sticks. 2. Ask for as many different closed shapes as they can find. 3. Draw each one. 4. Count the sides and corners of each.",
+     "say": "Use all 6 sticks each time. How many different shapes can you make?",
+     "kid": "Use all 6 sticks. Make a shape. Draw it. Then make a different one.",
+     "parent": "Look for a big triangle with 2 sticks a side, a rectangle with sides of 2 and 1, and a six-sided shape. Sides of 3, 2 and 1 sticks will not close into a triangle. They fall flat. Let your child find that.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "sticks",
+        "n": 6
+       }
+      ]
+     },
+     "context": "This is step 3 of the sticks challenge. You find as many different closed shapes as you can with 6 sticks."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Ask if 6 sticks can make a square. Let your child try. 2. Try 5, 7 and 8 sticks. 3. Write yes or no for each number. 4. Go on to 12 if there is time.",
+     "say": "Can 6 sticks make a square? Guess first, and say why. Then try 8.",
+     "kid": "Can 6 sticks make a square? Try it. Then try 8 sticks.",
+     "ask": [
+      {
+       "q": "Why does 8 work when 6 does not?",
+       "good": [
+        "8 gives 2 sticks to every side.",
+        "With 6, two sides would be longer.",
+        "The 4 sides must get the same number of sticks."
+       ]
+      }
+     ],
+     "parent": "Only 4, 8 and 12 work. A square has 4 equal sides, so the sticks must share out equally among 4 sides.",
+     "chart": {
+      "type": "table",
+      "cols": [
+       "Sticks",
+       "Square?"
+      ],
+      "rows": [
+       [
+        "4",
+        "yes"
+       ],
+       [
+        "5",
+        "?"
+       ],
+       [
+        "6",
+        "?"
+       ],
+       [
+        "7",
+        "?"
+       ],
+       [
+        "8",
+        "?"
+       ]
+      ],
+      "title": "Try each number"
+     },
+     "context": "This is step 4 of the sticks challenge. You test which numbers of sticks can make a square."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "1. Look at the yes and no list. 2. Ask your child what they notice about the numbers that work. 3. Ask them to guess the next number after 12.",
+     "say": "Which numbers worked? What do you notice about them? What would come next?",
+     "kid": "Look at the numbers that worked. What comes next after 12?",
+     "ask": [
+      {
+       "q": "What comes after 4, 8, 12?",
+       "good": [
+        "16.",
+        "It goes up by 4 each time."
+       ]
+      }
+     ],
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "4, 8, 12, ?"
+      ],
+      "answer": "?",
+      "title": "Sticks that make a square"
+     },
+     "context": "This is the last step of the sticks challenge. You look for the pattern in the numbers of sticks that make a square."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Name the Shape (core)",
+   "tier": "core",
+   "mins": 12,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which of these shapes has 3 straight sides?",
+     "opts": [
+      "Circle",
+      "Triangle",
+      "Square"
+     ],
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "● ▲ ■"
+      ],
+      "answer": "?"
+     },
+     "a": 1,
+     "why": "A triangle has 3 straight sides. A circle has none, and a square has 4."
+    },
+    {
+     "t": "fill",
+     "p": "A triangle has ____ corners.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "▲"
+      ],
+      "answer": "? corners"
+     },
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "Put a bean on each corner of any triangle. You always need 3 beans."
+    },
+    {
+     "t": "fill",
+     "p": "Count the triangles in the picture. There are ____ triangles.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "▲ ■ ▼",
+       "● ◣ ▬"
+      ],
+      "answer": "? triangles"
+     },
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "Three shapes have 3 straight sides and 3 corners: one points up, one points down and one leans. The square, the circle and the rectangle are not triangles."
+    },
+    {
+     "t": "truefalse",
+     "p": "An upside-down triangle is still a triangle.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "▲ ▼"
+      ],
+      "answer": "?"
+     },
+     "a": true,
+     "why": "True. Turning a shape does not change its sides or corners. It still has 3 of each."
+    },
+    {
+     "t": "mcq",
+     "p": "Which shape has no corners?",
+     "opts": [
+      "Circle",
+      "Triangle",
+      "Rectangle"
+     ],
+     "a": 0,
+     "why": "A circle has one curved edge and no corners. A triangle has 3 corners and a rectangle has 4."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each thing by the shape of its flat face: circle or rectangle?",
+     "cats": [
+      "Circle",
+      "Rectangle"
+     ],
+     "items": [
+      [
+       "dosa",
+       "Circle"
+      ],
+      [
+       "door",
+       "Rectangle"
+      ],
+      [
+       "bangle",
+       "Circle"
+      ],
+      [
+       "ten-rupee note",
+       "Rectangle"
+      ],
+      [
+       "coin",
+       "Circle"
+      ],
+      [
+       "phone screen",
+       "Rectangle"
+      ]
+     ],
+     "a": "see items",
+     "why": "The dosa, the bangle and the coin have a curved edge and no corners. The door, the note and the phone screen have 4 straight sides and 4 corners."
+    },
+    {
+     "t": "match",
+     "p": "Match each shape to its sides and corners.",
+     "pairs": [
+      [
+       "Triangle",
+       "3 sides, 3 corners"
+      ],
+      [
+       "Square",
+       "4 sides, all the same length"
+      ],
+      [
+       "Rectangle",
+       "2 long sides, 2 short sides"
+      ],
+      [
+       "Circle",
+       "no corners at all"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Count the sides and corners of each shape. For the square and the rectangle, also compare how long the sides are."
+    },
+    {
+     "t": "fill",
+     "p": "Two squares lie on the table. How many corners altogether? ____",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "4",
+       "+ 4"
+      ],
+      "answer": "?"
+     },
+     "a": [
+      "8",
+      "eight"
+     ],
+     "why": "Each square has 4 corners. 4 and 4 more make 8."
+    },
+    {
+     "t": "truefalse",
+     "p": "A rectangle has 4 corners.",
+     "chart": {
+      "type": "strip",
+      "rows": [
+       {
+        "label": "a rectangle",
+        "parts": 1,
+        "shaded": 0,
+        "width": 80
+       }
+      ]
+     },
+     "a": true,
+     "why": "True. Put a bean on each corner of a postcard or a door picture. You need 4 beans."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a triangle that points down. Put a dot on each corner.",
+     "a": "A closed shape with 3 straight sides, pointing down, with 3 dots on its corners.",
+     "why": "A strong drawing has 3 straight sides that join up, and exactly 3 dots. It is a triangle whichever way it points."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one long thin rectangle and one short wide rectangle.",
+     "a": "Two closed shapes, each with 4 straight sides and 4 corners like a book's. One is clearly longer and thinner.",
+     "why": "Both are rectangles. Being long or short does not change the 4 sides and 4 corners."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. How do you check that a shape is a triangle?",
+     "lines": 2,
+     "how": "e1",
+     "a": "I count 3 straight sides and 3 corners.",
+     "why": "A strong answer talks about counting sides and corners, and says the sides must be straight. It does not talk about the look."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Check the Sides (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "Count the rectangles in the picture. There are ____ rectangles.",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "▬ ▲ ▮",
+       "● ▬ ▼"
+      ],
+      "answer": "? rectangles"
+     },
+     "a": [
+      "3",
+      "three"
+     ],
+     "why": "Two rectangles lie down and one stands up. All three have 4 straight sides and 4 corners. Standing up does not change the shape."
+    },
+    {
+     "t": "truefalse",
+     "p": "A shape with 3 corners is always a triangle.",
+     "how": "e1",
+     "a": false,
+     "why": "False. A slice of a round cake has 3 corners, but one of its sides is curved. A triangle needs 3 straight sides."
+    },
+    {
+     "t": "mcq",
+     "p": "A shape has 4 sides, all the same length, and 4 corners like a book's. What is it?",
+     "opts": [
+      "A square",
+      "A door-shaped rectangle",
+      "A triangle"
+     ],
+     "a": 0,
+     "why": "4 equal sides and 4 corners like a book's make a square. A door-shaped rectangle has 2 long sides and 2 short sides."
+    },
+    {
+     "t": "fill",
+     "p": "Two triangles lie on the table. How many sides altogether? ____",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "3",
+       "+ 3"
+      ],
+      "answer": "?"
+     },
+     "a": [
+      "6",
+      "six"
+     ],
+     "why": "Each triangle has 3 sides. 3 and 3 more make 6."
+    },
+    {
+     "t": "order",
+     "p": "Put these shapes in order, fewest corners first.",
+     "items": [
+      "Square",
+      "Circle",
+      "Triangle"
+     ],
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "■ ● ▲"
+      ],
+      "answer": "?"
+     },
+     "a": [
+      "Circle",
+      "Triangle",
+      "Square"
+     ],
+     "why": "A circle has 0 corners, a triangle has 3 and a square has 4."
+    },
+    {
+     "t": "sort",
+     "p": "Triangle or not a triangle?",
+     "cats": [
+      "Triangle",
+      "Not a triangle"
+     ],
+     "items": [
+      [
+       "3 straight sides, very thin",
+       "Triangle"
+      ],
+      [
+       "3 corners, one curved side",
+       "Not a triangle"
+      ],
+      [
+       "4 straight sides",
+       "Not a triangle"
+      ],
+      [
+       "3 straight sides, pointing down",
+       "Triangle"
+      ],
+      [
+       "3 straight sides, tiny",
+       "Triangle"
+      ],
+      [
+       "round, with no corners",
+       "Not a triangle"
+      ]
+     ],
+     "a": "see items",
+     "why": "A triangle needs 3 straight sides and 3 corners. Being thin, tiny or upside down does not matter. A curved side or a fourth side does."
+    },
+    {
+     "t": "mcq",
+     "p": "You turn each shape on its own outline. Which one fits at every turn?",
+     "opts": [
+      "A square",
+      "A rectangle",
+      "A circle"
+     ],
+     "how": "a2",
+     "a": 2,
+     "why": "A circle is the same all the way round, so it fits however far you turn it. A square fits 4 times in a full turn."
+    },
+    {
+     "t": "fill",
+     "p": "A triangle, a rectangle and a circle. How many corners altogether? ____",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "3",
+       "4",
+       "+ 0"
+      ],
+      "answer": "?"
+     },
+     "a": [
+      "7",
+      "seven"
+     ],
+     "why": "The triangle has 3 corners, the rectangle has 4 and the circle has 0. 3 and 4 and 0 make 7."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a square. Then draw the same square standing on one corner.",
+     "a": "Two shapes with 4 equal sides each. The second is turned so that a corner points up.",
+     "why": "Both drawings are squares. Turning a square does not change its 4 equal sides or its 4 corners."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a long thin triangle. Put a dot on each corner.",
+     "a": "A closed shape with 3 straight sides, much longer than it is wide, with 3 dots.",
+     "why": "A strong drawing still has exactly 3 straight sides and 3 corners. Thin triangles are triangles."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. A round dosa is cut from the middle into slices. Is one slice a triangle? Why?",
+     "lines": 2,
+     "a": "No. The outside edge of the slice is curved.",
+     "why": "A strong answer says that a triangle needs 3 straight sides, and that the edge of the dosa is curved."
+    },
+    {
+     "t": "perspective",
+     "p": "A square piece of paper is turned to stand on one corner.",
+     "views": [
+      {
+       "who": "Kavin",
+       "says": "Now it is a diamond. It is not a square any more."
+      },
+      {
+       "who": "Nila",
+       "says": "It is still a square. Nothing about the paper changed."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
+     "lines": 3,
+     "a": "A strong answer picks a side with a reason. It says that the 4 equal sides and 4 corners did not change, and also that people do call this look a diamond.",
+     "why": "Nothing about the paper changed, so in maths it is still a square. 'Diamond' is an everyday name for the way it now looks."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Shape Puzzles (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "fill",
+     "p": "A kolam has 9 dots. You join the outside dots with straight lines. The shape has ____ sides.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "row 1",
+        "n": 3
+       },
+       {
+        "label": "row 2",
+        "n": 3
+       },
+       {
+        "label": "row 3",
+        "n": 3
+       }
+      ]
+     },
+     "how": "a3",
+     "a": [
+      "4",
+      "four"
+     ],
+     "why": "The line goes along the top, down one side, along the bottom and up the other side. That makes 4 sides, and the shape is a square."
+    },
+    {
+     "t": "fill",
+     "p": "Now join the middle dot to its 4 neighbours. Count the big square too. There are ____ squares.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "row 1",
+        "n": 3
+       },
+       {
+        "label": "row 2",
+        "n": 3
+       },
+       {
+        "label": "row 3",
+        "n": 3
+       }
+      ]
+     },
+     "how": "a3",
+     "a": [
+      "5",
+      "five"
+     ],
+     "why": "There are 4 small squares inside, and 1 big square round the outside. 4 and 1 make 5."
+    },
+    {
+     "t": "truefalse",
+     "p": "8 sticks of the same length can make a square.",
+     "chart": {
+      "type": "dots",
+      "rows": [
+       {
+        "label": "sticks",
+        "n": 8
+       }
+      ]
+     },
+     "how": "c1",
+     "a": true,
+     "why": "True. Put 2 sticks on each of the 4 sides. All 4 sides are then the same length."
+    },
+    {
+     "t": "mcq",
+     "p": "This goes past Class 1. One cell of a honeycomb has 6 straight sides. How many corners does it have?",
+     "opts": [
+      "5",
+      "6",
+      "7"
+     ],
+     "a": 1,
+     "why": "Each time two sides meet, there is one corner. A closed shape with 6 straight sides has 6 corners."
+    },
+    {
+     "t": "fill",
+     "p": "An auto picture has 2 circle wheels and 1 rectangle body. How many corners altogether? ____",
+     "chart": {
+      "type": "sum",
+      "rows": [
+       "0",
+       "0",
+       "+ 4"
+      ],
+      "answer": "?"
+     },
+     "a": [
+      "4",
+      "four"
+     ],
+     "why": "Each circle has 0 corners. The rectangle has 4. 0 and 0 and 4 make 4."
+    },
+    {
+     "t": "order",
+     "p": "Put one bean on every corner. Put these in order, fewest beans first.",
+     "items": [
+      "2 triangles",
+      "1 square",
+      "3 circles",
+      "2 rectangles"
+     ],
+     "a": [
+      "3 circles",
+      "1 square",
+      "2 triangles",
+      "2 rectangles"
+     ],
+     "why": "3 circles need 0 beans. 1 square needs 4. 2 triangles need 3 and 3, which is 6. 2 rectangles need 4 and 4, which is 8."
+    },
+    {
+     "t": "match",
+     "p": "Match each thing to the shape of its flat face.",
+     "pairs": [
+      [
+       "samosa",
+       "triangle"
+      ],
+      [
+       "carrom board",
+       "square"
+      ],
+      [
+       "chapati",
+       "circle"
+      ],
+      [
+       "door",
+       "rectangle"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Trace each one in your mind. A samosa's face has 3 corners. A carrom board has 4 equal sides. A chapati has no corners. A door has 2 long sides and 2 short sides."
+    },
+    {
+     "t": "sort",
+     "p": "Each shape has 4 corners like a book's. The numbers are its sides in finger-widths. Square or not?",
+     "cats": [
+      "Square",
+      "Not a square"
+     ],
+     "items": [
+      [
+       "4, 4, 4, 4",
+       "Square"
+      ],
+      [
+       "5, 2, 5, 2",
+       "Not a square"
+      ],
+      [
+       "3, 3, 3, 3",
+       "Square"
+      ],
+      [
+       "6, 1, 6, 1",
+       "Not a square"
+      ],
+      [
+       "2, 2, 2, 2",
+       "Square"
+      ],
+      [
+       "7, 3, 7, 3",
+       "Not a square"
+      ]
+     ],
+     "a": "see items",
+     "why": "If all 4 numbers are the same, the shape is a square. If there are 2 long sides and 2 short sides, it is a rectangle that is not a square."
+    },
+    {
+     "t": "truefalse",
+     "p": "A real dosa can be a perfect circle.",
+     "a": false,
+     "why": "False. Every real dosa has small bumps at its edge. It can be very close to a circle, but never perfect."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a house or an auto using only circles, triangles, squares and rectangles. Write how many of each.",
+     "a": "A picture built only from the four shapes, with a correct count of each.",
+     "why": "A strong drawing uses the shapes on purpose, such as circles for wheels. The numbers written match the picture."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. Is the full Moon a circle or a ball? Why does it look the way it does?",
+     "lines": 2,
+     "a": "The Moon is a ball. From far away we see only its outline, which is a circle.",
+     "why": "A strong answer says the Moon is round like a ball, and that a ball looks like a flat circle from far away."
+    },
+    {
+     "t": "write",
+     "p": "Say your answer aloud. A grown-up writes it. You have 6 sticks of the same length. Can all 6 make a square? Why?",
+     "lines": 2,
+     "how": "c1",
+     "a": "No. A square has 4 equal sides, and 6 sticks cannot be shared equally among 4 sides.",
+     "why": "A strong answer says that every side of a square must get the same number of sticks. 4 sticks work and 8 work, but 6 leave two sides longer."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is this shape?",
+   "opts": [
+    "Triangle",
+    "Square",
+    "Circle"
+   ],
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "▼"
+    ],
+    "answer": "?"
+   },
+   "a": 0,
+   "why": "It has 3 straight sides and 3 corners, so it is a triangle. Pointing down does not change that.",
+   "outcome": 0
+  },
+  {
+   "t": "fill",
+   "p": "How many corners does a square have? ____",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "■"
+    ],
+    "answer": "? corners"
+   },
+   "a": [
+    "4",
+    "four"
+   ],
+   "why": "A square has 4 corners. Put a bean on each one and count.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is NOT a triangle?",
+   "opts": [
+    "3 straight sides, very thin",
+    "3 straight sides, upside down",
+    "3 corners, one curved side"
+   ],
+   "a": 2,
+   "why": "A triangle needs 3 straight sides. The shape with a curved side fails, even with 3 corners. Thin and upside-down triangles pass.",
+   "outcome": 2
+  },
+  {
+   "t": "fill",
+   "p": "How many triangles are in this picture? ____",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "◣ ▼ ●",
+     "▲ ◢ ▲"
+    ],
+    "answer": "? triangles"
+   },
+   "a": [
+    "5",
+    "five"
+   ],
+   "why": "Five shapes have 3 straight sides and 3 corners. They point different ways. The circle is the only shape that is not a triangle.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A shape has 4 corners like a book's. Two sides are long and two are short. What is it?",
+   "opts": [
+    "A square",
+    "A rectangle",
+    "A circle"
+   ],
+   "a": 1,
+   "why": "4 corners with 2 long sides and 2 short sides make a rectangle. A square would have all 4 sides the same.",
+   "outcome": 3
+  },
+  {
+   "t": "truefalse",
+   "p": "All 4 sides of a square are the same length.",
+   "a": true,
+   "why": "True. That is what makes a square different from a door-shaped rectangle. You can check with a marked strip of paper.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a circle?",
+   "opts": [
+    "The outline of an egg",
+    "The rim of a tumbler",
+    "A cricket ball"
+   ],
+   "a": 1,
+   "why": "The rim of a tumbler is flat and the same all the way round. An egg's outline is longer one way. A cricket ball is round but not flat.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "How many corners does a circle have?",
+   "opts": [
+    "0",
+    "1",
+    "2"
+   ],
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "a circle",
+      "parts": 1,
+      "shaded": 0,
+      "round": true
+     }
+    ]
+   },
+   "a": 0,
+   "why": "None. A circle has one curved edge. Your finger never has to turn a corner.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which thing has a flat face shaped like a rectangle?",
+   "opts": [
+    "A ten-rupee note",
+    "A bangle",
+    "A samosa"
+   ],
+   "a": 0,
+   "why": "A ten-rupee note has 4 straight sides and 4 corners. A bangle is a circle, and a samosa's face is a triangle.",
+   "outcome": 5
+  },
+  {
+   "t": "truefalse",
+   "p": "A tiny triangle and a huge triangle are both triangles.",
+   "a": true,
+   "why": "True. Size is not part of the rule. Both have 3 straight sides and 3 corners.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A square of paper is turned to stand on one corner. What has changed?",
+   "opts": [
+    "The number of sides",
+    "The number of corners",
+    "Only the way it faces"
+   ],
+   "a": 2,
+   "why": "Only the way it faces. It still has 4 equal sides and 4 corners, so it is still a square. People agreed that the name goes by sides and corners.",
+   "outcome": 5
+  },
+  {
+   "t": "fill",
+   "p": "Three triangles lie on the floor. How many corners altogether? ____",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "3",
+     "3",
+     "+ 3"
+    ],
+    "answer": "?"
+   },
+   "a": [
+    "9",
+    "nine"
+   ],
+   "why": "Each triangle has 3 corners. 3 and 3 and 3 make 9.",
+   "outcome": 1
+  }
+ ],
+ "videos": [
+  {
+   "title": "Shapes song for kids | The Singing Walrus",
+   "channel": "The Singing Walrus - English Songs For Kids",
+   "youtube": "OEbRDtCAFdU",
+   "mins": 3,
+   "why": "For the child: a song that names the circle, triangle, square and rectangle and finds them in everyday things. After it, check one of its shapes by counting sides and corners.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
+  },
+  {
+   "title": "Shapes, Sides and Vertices | Version 1 | Jack Hartmann",
+   "channel": "Jack Hartmann Kids Music Channel",
+   "youtube": "24Uv8Cl5hvI",
+   "mins": 4,
+   "why": "For the child: a song that counts the sides and corners of each shape. It calls corners 'vertices', which is the maths word for corners. Tell your child this before you play it.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. It may name more shapes than this unit covers."
+  },
+  {
+   "title": "Pufferfish 'crop circles' - Life Story: Episode 5 preview - BBC",
+   "channel": "BBC",
+   "youtube": "hpdlQae5wP8",
+   "mins": 3,
+   "why": "For the child and the parent: a small pufferfish making his big circle in the sand, filmed under the sea near Japan. Watch it with the card 'Other living beings make shapes too'.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
+  }
+ ],
+ "applications": [
+  "A tailor cuts a blouse piece into rectangles and triangles before stitching them together.",
+  "A carpenter checks that a door frame is a true rectangle, or the door will not shut.",
+  "A potter's wheel spins, so every pot that comes off it is round.",
+  "Road signs use shape to speak fast: a circle gives an order, a triangle warns, a rectangle tells you where things are.",
+  "A mason lays rectangular bricks because they fit side by side with no gaps.",
+  "Builders of electricity towers and bridges join metal bars into triangles, because a triangle does not bend out of shape.",
+  "A kolam artist starts from a grid of dots and joins them into squares, triangles and curves.",
+  "A cricket ground keeper marks the pitch as a long rectangle with straight white lines."
+ ],
+ "spotted": [
+  {
+   "text": "A dosa on the tawa is close to a circle. Fold it in half and the fold is a straight side.",
+   "art": "A round dosa on a black tawa, and beside it a dosa folded in half on a steel plate."
+  },
+  {
+   "text": "A samosa or a folded paper packet of sundal has triangle faces. Count the corners before you eat.",
+   "art": "A samosa on a plate next to a triangular paper cone of sundal."
+  },
+  {
+   "text": "A carrom board is a square. Its coins are circles, and so are the four pockets.",
+   "art": "A carrom board seen from above with round coins set in the middle."
+  },
+  {
+   "text": "Look at the gopuram of a South Indian temple from the front. Its outline gets narrower floor by floor towards the top.",
+   "art": "The front of a tall temple gopuram, wide at the bottom and narrow at the top, against the sky."
+  },
+  {
+   "text": "Cut a ladies' finger across. The slice is not a circle. Count its corners. Most have five.",
+   "art": "Round slices of ladies' finger on a chopping board, each showing a five-cornered outline."
+  },
+  {
+   "text": "An auto-rickshaw has circle wheels, a rectangle number plate and a windscreen that is nearly a rectangle.",
+   "art": "A yellow and black auto-rickshaw seen from the front, with its wheels, number plate and windscreen outlined."
+  },
+  {
+   "text": "Strings of triangle flags hang across streets at festivals. Every flag hangs with its point down.",
+   "art": "A string of bright triangle flags across a street, points hanging down."
+  },
+  {
+   "text": "The full Moon looks like a circle. A few nights later it does not. The Moon itself is always a ball.",
+   "art": "A full Moon above a row of coconut trees."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Is a perfect circle a real thing, or an idea that minds make?",
+   "why_open": "Thinkers have argued about this for more than two thousand years. No test has settled it."
+  },
+  {
+   "q": "Are we born with a sense of shape, or do we learn it from the things around us?",
+   "why_open": "Tests with people who have little schooling suggest that some of it comes without teaching. Scientists do not agree on how much."
+  },
+  {
+   "q": "How do honeybees make the six sides of each cell so even?",
+   "why_open": "Some scientists say the bees shape every wall themselves. Others say that warm wax also flows and pulls the walls straight. In 2016 a review said the question was still not settled."
+  },
+  {
+   "q": "What does a pufferfish sense or know as he makes his circle?",
+   "why_open": "Scientists can watch what he does and measure the circle. Nobody has found a way to ask him."
+  }
+ ],
+ "ask_kids": [
+  "What shape is your plate? What about the table it is on?",
+  "Can you find a triangle in this room? Why are they so hard to find?",
+  "If wheels were square, what would a bus ride feel like?",
+  "Is this tile a square or a rectangle? How could we check without a ruler?",
+  "How many corners does this room's floor have?",
+  "Look at the Moon tonight. Is it a circle today?"
+ ],
+ "jokes": [
+  {
+   "j": "What did the triangle say to the circle?",
+   "a": "You have no point!"
+  },
+  {
+   "j": "Why did the square go for a run every morning?",
+   "a": "To stay in shape."
+  },
+  {
+   "j": "Which shape can never be sent to the corner?",
+   "a": "A circle. It does not have one."
+  },
+  {
+   "j": "Why did the samosa pass the maths test?",
+   "a": "It knew all three of its sides."
+  },
+  {
+   "j": "What did the bangle say to the coin?",
+   "a": "Let us hang a-round together."
+  },
+  {
+   "j": "How does a square say sorry?",
+   "a": "I was wrong on all four sides."
+  },
+  {
+   "j": "What did the circle say at the end of the race?",
+   "a": "I am back where I started!"
+  },
+  {
+   "j": "What do you get when you cut a dosa from the middle?",
+   "a": "Slices that think they are triangles."
+  },
+  {
+   "j": "Why did the rectangle lie down?",
+   "a": "It was tired of standing on its short side."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Meena puts one bean on every corner of 2 triangles and 1 square. How many beans does she need?",
+   "answer": "10 beans.",
+   "explain": "Each triangle has 3 corners, and the square has 4. 3 and 3 make 6. 6 and 4 more make 10.",
+   "math_unit": "math.addition-subtraction.meaning.L1",
+   "how": "e1",
+   "context": "In the Triangle Test you put one bean on each corner of a paper shape. Here you work out the beans for three shapes without laying them out.",
+   "why_maths": "Adding the corners tells you how many beans to fetch before you start.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "▲ ▲ ■"
+    ],
+    "answer": "? beans"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "3",
+     "3",
+     "+ 4"
+    ],
+    "answer": "10"
+   }
+  },
+  {
+   "problem": "In a kitchen hunt, Yazhini found 7 circles, 5 rectangles and 1 triangle. How many more circles than triangles did she find?",
+   "answer": "6 more circles.",
+   "explain": "There were 7 circles and 1 triangle. 7 take away 1 is 6. So there were 6 more circles than triangles.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "how": "a1",
+   "context": "In the Kitchen Shape Hunt you tallied the shapes in your kitchen. This uses one family's tally.",
+   "why_maths": "A tally only helps when you compare the numbers. Taking away shows how far ahead the winning shape is.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "circles",
+      "n": 7
+     },
+     {
+      "label": "rectangles",
+      "n": 5
+     },
+     {
+      "label": "triangles",
+      "n": 1
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "7",
+     "− 1"
+    ],
+    "answer": "6"
+   }
+  },
+  {
+   "problem": "A kolam border goes triangle, circle, triangle, circle, and so on. What is the 6th shape? What will the 10th shape be?",
+   "answer": "Both are circles.",
+   "explain": "The shapes take turns. The 1st, 3rd and 5th are triangles. The 2nd, 4th and 6th are circles. Every second shape is a circle, so the 10th is a circle too.",
+   "math_unit": "math.patterns.repeating-patterns.L1",
+   "how": "a3",
+   "context": "In the dot kolam you drew shapes in a set order. Here a kolam border repeats two shapes.",
+   "why_maths": "Seeing the pattern lets you say what a shape will be far along the border, without drawing them all.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "▲ ● ▲ ● ▲ ?"
+    ],
+    "answer": "6th? 10th?"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "▲ ● ▲ ● ▲ ●"
+    ],
+    "answer": "10th: ●"
+   }
+  },
+  {
+   "problem": "You have 12 sticks of the same length. Each triangle uses 3 sticks. How many separate triangles can you make?",
+   "answer": "4 triangles.",
+   "explain": "Take 3 sticks for the first triangle, 3 for the next, and go on. 3, 6, 9, 12. You took sticks 4 times, so you can make 4 triangles.",
+   "math_unit": "math.patterns.number-patterns.L1",
+   "how": "c1",
+   "context": "In the sticks challenge you made shapes from sticks of the same length. Here you share 12 sticks among triangles.",
+   "why_maths": "Counting in threes tells you how many triangles you can make before you run out of sticks.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "sticks",
+      "n": 12
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "3",
+     "3",
+     "3",
+     "+ 3"
+    ],
+    "answer": "12"
+   }
+  },
+  {
+   "problem": "Tara's shape has 4 straight sides and 4 corners like a book's. Is it surely a square? What must she check?",
+   "answer": "Not surely. She must check that all 4 sides are the same length.",
+   "explain": "A door-shaped rectangle also has 4 straight sides and 4 corners like a book's. Only if all 4 sides are the same length is the shape a square. Tara can mark one side on a strip of paper and try it on the others.",
+   "math_unit": "math.logic.puzzles.L1",
+   "how": "a2",
+   "context": "In the Turn Test you compared the sides of a square and a postcard with a marked paper strip. This asks what one clue can and cannot tell you.",
+   "why_maths": "Knowing which clue is missing saves you from calling every four-sided shape a square.",
+   "chart": {
+    "type": "strip",
+    "rows": [
+     {
+      "label": "shape 1",
+      "parts": 1,
+      "shaded": 0,
+      "width": 90
+     },
+     {
+      "label": "shape 2",
+      "parts": 1,
+      "shaded": 0,
+      "width": 40
+     }
+    ],
+    "title": "Both have 4 sides and 4 corners"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "4 4 4 4"
+    ],
+    "answer": "square"
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "math.shapes-2d.L1",
+  "title": "Count My Sides",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Pattern Shapes, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/pattern-shapes/",
+   "kind": "interactive",
+   "why": "Free shape pieces on the screen. Drag, turn and join them to build pictures, as in the Shape Pictures activity."
+  },
+  {
+   "title": "Geoboard, by The Math Learning Center",
+   "url": "https://apps.mathlearningcenter.org/geoboard/",
+   "kind": "interactive",
+   "why": "A free board of pegs on the screen. Stretch bands round the pegs to make triangles, squares and rectangles, then count their sides."
+  },
+  {
+   "title": "StoryWeaver, by Pratham Books",
+   "url": "https://storyweaver.org.in/",
+   "kind": "interactive",
+   "why": "Free picture books in many Indian languages. Search for 'shapes' to find stories to read together."
+  },
+  {
+   "title": "NRICH, from the University of Cambridge",
+   "url": "https://nrich.maths.org/",
+   "kind": "interactive",
+   "why": "Free maths games and puzzles for young children. For the parent to pick from."
+  },
+  {
+   "title": "Ramanujan Museum and Math Education Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Royapuram, Chennai",
+   "why": "A small museum about the mathematician Srinivasa Ramanujan, with hands-on maths activities for children. Call ahead to check the timings."
+  },
+  {
+   "title": "Jantar Mantar",
+   "url": "",
+   "kind": "place",
+   "where": "Jaipur",
+   "why": "A park of huge stone instruments for watching the Sun and stars, finished in the 1730s. Look for the giant triangle of the big sundial and the curved scales beside it."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-dice",
+   "item": "A dice",
+   "kind": "game",
+   "why": "Used in the game Fill the Shape Mat. Any dice from a ludo or snakes and ladders set will do.",
+   "url": "https://www.amazon.in/s?k=dice+set+for+board+games",
+   "used_in": [
+    "g1"
+   ]
+  },
+  {
+   "id": "b-blocks",
+   "item": "A set of flat wooden or plastic shape pieces (pattern blocks or a tangram)",
+   "kind": "tool",
+   "why": "Ready-cut triangles, squares and other shapes for building pictures. Paper shapes work just as well.",
+   "url": "https://www.amazon.in/s?k=pattern+blocks+wooden+shapes",
+   "used_in": [
+    "a5"
+   ]
+  },
+  {
+   "id": "b-greedy",
+   "item": "The Greedy Triangle, by Marilyn Burns",
+   "kind": "book",
+   "why": "A picture book about a triangle who keeps asking for one more side and one more corner.",
+   "url": "https://www.amazon.in/s?k=The+Greedy+Triangle+Marilyn+Burns",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Read it after the sticks challenge. On each page, your child adds one stick to the shape on the table and counts the sides and corners."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "How many corners does a triangle have?",
+   "a": "3"
+  },
+  {
+   "q": "Which shape has no corners?",
+   "a": "A circle"
+  },
+  {
+   "q": "How many sides does a rectangle have?",
+   "a": "4"
+  },
+  {
+   "q": "All 4 sides are the same length, and the corners are like a book's. Which shape?",
+   "a": "A square"
+  },
+  {
+   "q": "Is an upside-down triangle still a triangle?",
+   "a": "Yes"
+  },
+  {
+   "q": "What shape is a door?",
+   "a": "A rectangle"
+  },
+  {
+   "q": "Two triangles: how many corners altogether?",
+   "a": "6"
+  },
+  {
+   "q": "A shape has 3 corners and one curved side. Is it a triangle?",
+   "a": "No. All 3 sides must be straight"
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "g1",
+   "story",
+   "a1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "e1",
+   "explanations",
+   "terms",
+   "g1",
+   "a1",
+   "story",
+   "a2",
+   "ws-core",
+   "g2",
+   "a3",
+   "a4",
+   "a5",
+   "ws-stretch",
+   "agreed",
+   "challenging",
+   "p1",
+   "c1",
+   "ws-challenge",
+   "how_we_found_out",
+   "videos",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "g1",
+   "a1",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "g1",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We counted sides and corners on paper shapes. Now let us think about where a shape's name comes from.",
+  "deep_truth": {
+   "truth": "In the Triangle Test, the thin piece and the upside-down piece did not look like triangles. But each had 3 straight sides and 3 corners. People agreed that this is what the word triangle means. So a shape gets its name from a rule that anyone can check by counting. Its size, its colour and the way it points are left out of the rule.",
+   "habit": "We think we know a shape just by looking, the way we know a face. But the look can fool us. The name comes from a rule that people chose.",
+   "evidence": "In the Triangle Test, five pieces that looked very different all had 3 beans and 3 straight sides. The piece with a curved side had 3 beans too, and still failed."
+  },
+  "three": {
+   "who_am_i": "You can see a triangle in a samosa, a flag and a hanger. Your mind picks out what is the same in all three.",
+   "what_is_life": "Other living beings make shapes too. A small pufferfish makes a big circle in the sand. Bees build wax cells with six sides.",
+   "what_is_this_world": "No dosa is a perfect circle. Each one has small bumps. Real things only come close to the shapes we name."
+  },
+  "thread": "A dosa, a bangle, a coin and the full Moon are four different things. We call all of them by one name: circle. So one shape shows up in many things. None of them is a perfect circle, and yet each one makes us think of it.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.1.4",
+    "teaching": "The Chandogya Upanishad says: if you know one lump of clay, you know everything made of clay. A pot and a plate have different names, but both are clay.",
+    "link": "Shape names work the other way round. A clay plate, a steel plate and a dosa are made of different things, and we give them one name, circle. A name picks out the part we choose to look at."
+   },
+   {
+    "source": "Seventh Letter 342b to 343a, a Greek letter said to be by Plato (scholars are not sure he wrote it)",
+    "teaching": "The letter says that every circle drawn by hand or made on a turning tool is a little bit wrong somewhere. The true circle is none of these.",
+    "link": "The circle you drew round a bangle is very close, but it is not perfect. The letter says the perfect circle is real all the same. Others say it is an idea that minds make."
+   }
+  ],
+  "science": [
+   {
+    "text": "In 2006, scientists showed sets of six pictures to Mundurukú children and adults in the Amazon forest of Brazil. They had little or no schooling, and their language has few words for shapes. They still picked the odd shape out about two times in three (Dehaene and others, 2006). Scientists do not agree on what this shows about where our sense of shape comes from.",
+    "status": "debated"
+   },
+   {
+    "text": "Is a perfect circle a real thing, or an idea that minds make? Nobody has settled this.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many mathematicians, from the Greek thinker Plato onwards",
+   "view": "They say people did not choose what a triangle is. Triangles were there to be found, like a mountain. People only chose the word. Three straight sides meet at three corners whether anyone agrees or not."
+  },
+  "practice": {
+   "title": "Once round the rim",
+   "mins": 3,
+   "say": "Hold a steel tumbler or a bangle. Close your eyes. Put one finger on the rim. Breathe in slowly and move your finger half way round. Breathe out and come back to where you began. Do this five times. Then tell me. Where does the circle begin? Where does it end?",
+   "kid": "Close your eyes. Move one finger slowly round the rim of a tumbler. Breathe in for half the way, and out for the rest. Where does the circle begin?"
+  },
+  "ask": [
+   "Who decided that a triangle has three sides? Could they have chosen something else?",
+   "No dosa is a perfect circle. So where is the perfect circle?",
+   "A thin triangle and a wide triangle look different. Why do we give them the same name?",
+   "A pufferfish has no word for circle. Does he still know what he is making?"
+  ],
+  "art": "A child with eyes closed moving one finger round the rim of a steel tumbler, with a dosa, a bangle, a coin and the full Moon drawn small above her."
+ },
+ "how_we_found_out": {
+  "context": "How did people find out that children see shapes differently from grown-ups? This card tells the true story of two teachers and a later test.",
+  "story": "For a long time, schoolbooks showed one kind of triangle. It sat flat, with its point on top. Teachers thought that a child who could name it knew what a triangle was. In 1957 two Dutch teachers, Dina van Hiele-Geldof and her husband Pierre van Hiele, wrote about what they had seen in their own classes. They said that learners first know a shape by its whole look, the way we know a face. Only later do they notice its sides and corners. Dina died the next year, in 1958, and for many years few people outside the Netherlands knew of the work. In 1999 four researchers in the United States, Douglas Clements, Sudha Swaminathan, Mary Anne Hannibal and Julie Sarama, tested the idea. They sat with 97 children aged 3 to 6, one at a time, and asked them to pick out shapes. Most of the children chose mainly by matching the look. So children need to meet many kinds of triangle, and to count the sides and corners for themselves.",
+  "who": "Dina van Hiele-Geldof and Pierre van Hiele, and later Douglas Clements, Sudha Swaminathan, Mary Anne Hannibal and Julie Sarama",
+  "when": "1957 and 1999",
+  "wrong_idea": "A child who can name the usual triangle knows what a triangle is. The van Hieles in 1957, and the test with 97 children in 1999, showed that young children go mostly by the look. So they often leave out a thin or upside-down triangle."
+ },
+ "sources": {
+  "founder": [
+   "MATHS.md, the four threads: the human-chosen side of shape names (Roots, the cards 'Who chose the names?' and 'Is there a perfect circle anywhere?', the challenging view on squares and rectangles), maths in life (a3 dot kolam, a4 paandi court), everyone does maths (the card 'Other living beings make shapes too', the pufferfish video), the universe and everyday life (the card 'Shapes in the sky, on the road and at home').",
+   "curriculum/math.json, math.shapes-2d.recognising-shapes.L1: circles, triangles, squares and rectangles around us, and what is round (NCERT Class 1 chapter 2, Cambridge Stage 1 Gg)."
+  ],
+  "science": [
+   "Clements, D. H., Swaminathan, S., Hannibal, M. A. Z. and Sarama, J. (1999). Young children's concepts of shape. Journal for Research in Mathematics Education 30(2), 192-212. (Interviews with 97 children aged 3 to 6.)",
+   "van Hiele-Geldof, D. and van Hiele, P. M. (1957). Two doctoral theses at Utrecht University on levels of thinking in geometry. Dina van Hiele-Geldof lived from 1911 to 1958.",
+   "Kawase, H., Okata, Y. and Ito, K. (2013). Role of huge geometric circular structures in the reproduction of a marine pufferfish. Scientific Reports 3, 2106. (A circle about 2 metres wide, built in 7 to 9 days, off Amami-Oshima, Japan. The fish was later named Torquigener albomaculosus.)",
+   "Dehaene, S., Izard, V., Pica, P. and Spelke, E. (2006). Core knowledge of geometry in an Amazonian indigene group. Science 311, 381-384. (14 children and 30 adults, 43 sets of six pictures, about 67 in 100 right.)",
+   "Karihaloo, B. L., Zhang, K. and Wang, J. (2013). Honeybee combs: how the circular cells transform into rounded hexagons. Journal of the Royal Society Interface 10. The opposing view is by Bauer and Bienefeld (2013). A 2016 review in Scientific Reports called the question still open.",
+   "Euclid, Elements, Book I, Definition 22: the square and the oblong are listed as separate four-sided figures.",
+   "Indian Roads Congress, IRC 67, Code of Practice for Road Signs: mandatory signs are mostly circular, cautionary signs triangular, informatory signs rectangular. Stop is an octagon and Give Way is a triangle pointing down.",
+   "Hopscotch in India: Paandi (Tamil Nadu), Kunte Bille (Karnataka), Tokkudu Billa (Andhra Pradesh and Telangana), from encyclopedia entries on the traditional games.",
+   "Tamil mukkonam (three, and konam for corner or angle). Hindi trikon (three corners) and tribhuj (three arms). Dictionary meanings were checked, but no etymological dictionary was consulted."
+  ]
+ },
+ "playtest": "Walked through every flow as a family of two in a flat. The Triangle Test needs about 5 minutes of cutting by a grown-up. The tiny triangle must be at least matchbox size, or three beans will not fit on it. Beans and a finger give 3 and 3 for all five triangles, 3 corners with 2 straight sides for the cake slice, and 4 and 4 for the piece with its top cut off. In the Turn Test a hand-cut oval fits its outline once or twice, depending on how evenly it is cut, and the table says so. Fill the Shape Mat was played in the head with 1 and 2 players: about 12 rolls each, and nobody can get stuck because 5 and 6 are free choices. The sticks challenge was checked by counting: only 4, 8 and 12 sticks make a square, and sides of 3, 2 and 1 sticks fall flat. Paandi needs a floor you can chalk or tape, so it is outside the core path. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 1999 study of 97 children, the van Hiele theses of 1957, the pufferfish paper of 2013, the Mundurukú study of 2006, the honeycomb debate, Euclid's definition of the oblong, Chandogya Upanishad 6.1.4, the circle passage in the Seventh Letter, the shapes of Indian road signs, the regional names of hopscotch and the date of the Baudhayana rope rules. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The shapes in the puzzles are drawn with text symbols such as ▲ and ■. Look at them once on your own phone to see that they show clearly."
+}

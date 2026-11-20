@@ -342,7 +342,37 @@
      "explanation": "The best money is made of silver or gold, which people want anyway. Old rupee coins were made of silver."
     }
    ],
-   "art": "A ₹10 coin passing in a circle from a child to a shopkeeper to a milkman to a bus conductor and back to the child's mother."
+   "art": "A ₹10 coin passing in a circle from a child to a shopkeeper to a milkman to a bus conductor and back to the child's mother.",
+   "chart": {
+    "type": "table",
+    "title": "Things people have agreed to use as money",
+    "cols": [
+     "Money",
+     "Made of"
+    ],
+    "rows": [
+     [
+      "cowrie, long ago",
+      "a sea shell"
+     ],
+     [
+      "old rupee coin",
+      "silver"
+     ],
+     [
+      "₹10 coin today",
+      "mixed metals"
+     ],
+     [
+      "₹10 note",
+      "paper"
+     ],
+     [
+      "paying by phone",
+      "only numbers"
+     ]
+    ]
+   }
   },
   {
    "concept": "What a price counts, and what it leaves out",
@@ -356,7 +386,41 @@
     "A drawing you make for Paati has no price, and she may keep it for years."
    ],
    "perspectives": [],
-   "art": "A banana in the middle with arrows coming in from the sun, a rain cloud, soil, a banana plant, a farmer, a lorry and a fruit cart, with a ₹5 coin reaching only the three people."
+   "art": "A banana in the middle with arrows coming in from the sun, a rain cloud, soil, a banana plant, a farmer, a lorry and a fruit cart, with a ₹5 coin reaching only the three people.",
+   "chart": {
+    "type": "table",
+    "title": "Where the ₹5 goes",
+    "cols": [
+     "Who helped make the banana",
+     "Paid?"
+    ],
+    "rows": [
+     [
+      "the sun",
+      "no"
+     ],
+     [
+      "the rain",
+      "no"
+     ],
+     [
+      "the soil",
+      "no"
+     ],
+     [
+      "the farmer",
+      "yes"
+     ],
+     [
+      "the lorry driver",
+      "yes"
+     ],
+     [
+      "the fruit seller",
+      "yes"
+     ]
+    ]
+   }
   },
   {
    "concept": "Other living beings trade too",
@@ -379,7 +443,38 @@
      "explanation": "They say words like 'trade' and 'market' come from human life. The monkeys, plants and fungi may be doing something of their own that only looks like our trade from outside."
     }
    ],
-   "art": "A long-tailed macaque sitting on a temple wall holding a pair of glasses in one hand and reaching for a fruit held out by a visitor."
+   "art": "A long-tailed macaque sitting on a temple wall holding a pair of glasses in one hand and reaching for a fruit held out by a visitor.",
+   "chart": {
+    "type": "table",
+    "title": "Trades without money",
+    "cols": [
+     "Who",
+     "Gives",
+     "Gets"
+    ],
+    "rows": [
+     [
+      "macaque",
+      "your glasses back",
+      "food"
+     ],
+     [
+      "plant",
+      "sugar",
+      "phosphorus"
+     ],
+     [
+      "root fungus",
+      "phosphorus",
+      "sugar"
+     ],
+     [
+      "bee",
+      "a ride for pollen",
+      "nectar"
+     ]
+    ]
+   }
   }
  ],
  "agreed": [
@@ -3005,31 +3100,28 @@
  ],
  "videos": [
   {
-   "title": "A short video that shows each Indian coin and note close up (to be chosen)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "For the child: to see the newest coins and notes large on the screen and name them by reading the number. Watch it after Coin Rubbings.",
-   "check": "No video was confirmed for this slot. A search did not return a YouTube listing that could be checked by title and channel. A person should choose one that shows the ₹20 coin and the newest notes."
+   "title": "Learn Indian Currency | Indian Rupee | All Notes And Coins | Money for Kids",
+   "channel": "Eeze Junior",
+   "youtube": "WnM1sFjtsAU",
+   "mins": 4,
+   "why": "For the child: to see India's coins and notes large on the screen and name each one by its number. Watch it after Coin Rubbings, with real coins in hand.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it, and check that it shows the newest notes."
   },
   {
-   "title": "How coins are made at a mint in India (to be chosen)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "For the child and parent: to see that a coin starts as a plain metal disc, and gets its value only when the number is stamped on it.",
-   "check": "No video was confirmed for this slot. A person should look for one filmed at an India Government Mint and check it before use."
+   "title": "Money for kids | Indian rupees and paise | Grade 1 | Notes and coins | Currency notes of India",
+   "channel": "Donut Trivia",
+   "youtube": "mrCV_TiSVxE",
+   "mins": 5,
+   "why": "For the child: a second look at notes and coins, made for Class 1. It also talks about paise, which this unit leaves for a later level.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
   },
   {
-   "title": "The monkeys of Uluwatu temple who trade stolen things for food (to be chosen)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The Bartering Monkeys of Bali | Planet Earth III | BBC Earth",
+   "channel": "BBC Earth",
+   "youtube": "R4X7o8yGQ9E",
    "mins": 4,
-   "why": "For the child and parent: to watch a macaque take a thing from a visitor and give it back for food. It goes with the card 'Other living beings trade too'.",
-   "check": "No video was confirmed for this slot. News films of the 2021 study by Leca and others exist, but none was looked up by title and channel. A person should choose one."
+   "why": "For the child and parent: to watch macaques in Bali take things from visitors and give them back for food. It goes with the card 'Other living beings trade too'.",
+   "check": "Title and channel confirmed by a YouTube lookup. The video was not watched through, and the length is a rough guess. Watch it once before showing it."
   }
  ],
  "applications": [
@@ -3037,7 +3129,7 @@
   "A bus conductor swaps your ₹10 coin for a ticket and gives smaller coins back when the ticket costs less.",
   "A vegetable seller in a weekly market keeps ₹1, ₹2 and ₹5 coins ready so that she can make any small amount.",
   "A family writes a list before going to the market and adds up the prices to see whether the money is enough.",
-  "People who cannot see tell coins apart by touch. The ₹20 coin has 12 sides so that fingers can find it.",
+  "People who cannot see tell coins apart by touch. The 12 sides of the ₹20 coin are easy for fingers to find.",
   "A hundi or a piggy bank at home fills with small coins, and they are counted and swapped for notes.",
   "A mint, such as the one in Hyderabad, stamps the number onto plain metal discs to make coins.",
   "When a grown-up pays by phone, the bank adds and takes away the same amounts you count with coins."
@@ -3563,5 +3655,5 @@
    "Sher Shah Suri's silver rupiya (1540 to 1545, 178 grains); punch-marked silver coins of the Mahajanapadas (about the 6th century BCE); cowrie shells as money in Odisha and Bengal until the early 1800s."
   ]
  },
- "playtest": "Walked through every flow as a family of two in a flat. The Two Plates Test needs eight ₹1, five ₹2, two ₹5 and one ₹10 coins and 20 chana. Few homes have that many coins now, so every flow says how to make paper coins. The four rounds give 7 and 10, 5 and 6, 8 and 10, and 8 and 8. Fill the Purse was played in the head with 1, 2 and 3 players: about six rolls each to reach ₹20, and the bank of 30 coins never runs out. Pay the Price: every card can be paid from the pile, and each back was added up. The fewest-coins answers for ₹1 to ₹20 and for the three invented coin sets were worked out by a small program. Step minutes add up to each part's minutes. Looked up on the web while writing: the sizes, colours and shapes of the 2019 coins, the colours and pictures of the notes, the 15 languages, the rupee sign, the 2021 macaque study, the 2011 plant and fungus study, Caroline Humphrey's 1985 paper (through a report of it, not the paper itself), Sher Shah Suri's rupiya, cowrie money, Thirukkural 247, Tao Te Ching 33, and the three museums. Not looked up: the wording of Aristotle's passage, the promise line on notes, and the 2016 date, which were written from memory and should be checked. No video could be confirmed, so all three are left for a person to choose. Prices in the games and the story are made up to fit the coins. In the real shop trip, many things now cost more than ₹20, so the step lists things that usually do not."
+ "playtest": "Walked through every flow as a family of two in a flat. The Two Plates Test needs eight ₹1, five ₹2, two ₹5 and one ₹10 coins and 20 chana. Few homes have that many coins now, so every flow says how to make paper coins. The four rounds give 7 and 10, 5 and 6, 8 and 10, and 8 and 8. Fill the Purse was played in the head with 1, 2 and 3 players: about six rolls each to reach ₹20, and the bank of 30 coins never runs out. Pay the Price: every card can be paid from the pile, and each back was added up. The fewest-coins answers for ₹1 to ₹20 and for the three invented coin sets were worked out by a small program. Step minutes add up to each part's minutes. Looked up on the web while writing: the sizes, colours and shapes of the 2019 coins, the colours and pictures of the notes, the 15 languages, the rupee sign, the 2021 macaque study, the 2011 plant and fungus study, Caroline Humphrey's 1985 paper (through a report of it, not the paper itself), Sher Shah Suri's rupiya, cowrie money, Thirukkural 247, Tao Te Ching 33, and the three museums. Aristotle's passage and the 2016 date were looked up too. Not looked up: the promise line printed on notes, which you can read on your own note, and the cleaner fish example. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. Prices in the games and the story are made up to fit the coins. In the real shop trip, many things now cost more than ₹20, so the step lists things that usually do not."
 }
