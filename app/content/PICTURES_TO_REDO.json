@@ -1,0 +1,1930 @@
+[
+ {
+  "unit": "sci.animal-behaviour.animal-learning.L4",
+  "key": "setup.p1.2",
+  "title": "The Appointment: do the visitors learn the time?",
+  "old_caption": "3. On day seven, draw a graph of the arrival times.",
+  "caption": "3. After day six, draw a graph of the arrival times.",
+  "art": "A notebook page with a table of seven rows and a small line graph of arrival times beside it."
+ },
+ {
+  "unit": "sci.animal-behaviour.animal-learning.L4",
+  "key": "setup.c1.0",
+  "title": "A Signal Nobody Ignores",
+  "old_caption": "1. Sketch your sound pattern. Choose four sounds.",
+  "caption": "1. Plan your sound pattern. Choose four sounds.",
+  "art": "A child sketching four sound ideas on paper, with small drawings of a plate, a bell, a tin and a clap, and a die beside them."
+ },
+ {
+  "unit": "sci.animal-behaviour.animal-societies.L3",
+  "key": "setup.a2.0",
+  "title": "Build an Elephant Family Tree",
+  "old_caption": "1. Draw the grandmother at the top and her daughters below.",
+  "caption": "1. Put the grandmother at the top and her daughters below.",
+  "art": "A family tree drawn on paper: one old elephant at the top, three daughters below, small calves below them."
+ },
+ {
+  "unit": "sci.animal-behaviour.animal-societies.L3",
+  "key": "setup.a2.1",
+  "title": "Build an Elephant Family Tree",
+  "old_caption": "2. Circle the leader. Draw an arrow for each young male who will leave.",
+  "caption": "2. Put a coin on the leader. Move each young male who will leave to the side.",
+  "art": "The same tree with a circle around the grandmother and an arrow from a young male pointing off the page."
+ },
+ {
+  "unit": "sci.animal-behaviour.animal-societies.L4",
+  "key": "setup.a2.2",
+  "title": "A Bee's Forty Days: lay out the jobs of a honeybee worker",
+  "old_caption": "3. Draw an arrow for a young bee who starts foraging early.",
+  "caption": "3. Move a button to show a young bee who starts foraging early.",
+  "art": "The same strip with an arrow from the nurse section jumping ahead to the forager section, and a note saying a storm killed the foragers."
+ },
+ {
+  "unit": "sci.animal-behaviour.animal-societies.L4",
+  "key": "setup.a4.2",
+  "title": "Ask the Elders: bees, wasps and termites near us",
+  "old_caption": "3. Mark the places on a small map.",
+  "caption": "3. Find the places on a phone map, or say where they are.",
+  "art": "A hand-drawn sketch map with small marks showing where the nests and mounds are."
+ },
+ {
+  "unit": "sci.animal-behaviour.foraging-and-survival.L3",
+  "key": "setup.p1.1",
+  "title": "Home Hunters Diary",
+  "old_caption": "Day 2. Find a web and draw it.",
+  "caption": "Day 2. Find a web and look closely.",
+  "art": "A spider web in the corner of a window grille, a torch beam showing the threads."
+ },
+ {
+  "unit": "sci.animals.animal-bodies.L4",
+  "key": "setup.a3.2",
+  "title": "Window Watch: move, eat and breathe",
+  "old_caption": "3. Draw the part that you think does the job.",
+  "caption": "3. Pick one part. Say what problem it solves and what it might cost.",
+  "art": "A close-up drawing of a crow's foot gripping a railing and her beak holding a piece of bread."
+ },
+ {
+  "unit": "sci.animals.animal-bodies.L4",
+  "key": "setup.a4.2",
+  "title": "Two Hands, Two Jobs: why eight arms are hard",
+  "old_caption": "3. Draw an octopus with eight arms doing eight jobs.",
+  "caption": "3. Show eight jobs with eight fingers.",
+  "art": "An octopus drawn with eight arms each doing a different job: one tasting, one holding, one reaching."
+ },
+ {
+  "unit": "sci.animals.animal-life-cycles.L4",
+  "key": "setup.e1.4",
+  "title": "The Survival Cup: many young, or a few cared-for young?",
+  "old_caption": "5. Add up the survivors of three rounds and draw a bar for each family.",
+  "caption": "5. Add up the survivors of three rounds and make a stack of counters for each family.",
+  "art": "A bar chart on paper with three bars labelled Frog, Hen and Elephant, drawn by a child with crayons."
+ },
+ {
+  "unit": "sci.animals.animal-minds.L3",
+  "key": "setup.a1.0",
+  "title": "Play Spotters",
+  "old_caption": "1. Draw the five play signs on a sheet.",
+  "caption": "1. List the five play signs on a sheet. Act each one out.",
+  "art": "A sheet of paper with five small drawings: a dog doing a play bow, two animals chasing, a jump and twist, an animal tossing a stick, and two animals wrestling gently."
+ },
+ {
+  "unit": "sci.animals.animal-minds.L3",
+  "key": "setup.a4.0",
+  "title": "Reading a Dog: what are they feeling?",
+  "old_caption": "1. Draw the four dog moods: relaxed, playful, scared, angry.",
+  "caption": "1. Learn the four dog moods: relaxed, playful, scared, angry.",
+  "art": "Four dog drawings in a row: relaxed with a loose tail and soft eyes, playful in a play bow, scared with a tucked tail and flat ears, angry with stiff legs and teeth showing."
+ },
+ {
+  "unit": "sci.animals.birds.L4",
+  "key": "setup.a1.1",
+  "title": "Beak and Feet Watch: ten minutes with one bird",
+  "old_caption": "2. Draw the beak and one foot. Count the toes.",
+  "caption": "2. Look at the beak and one foot. Count the toes.",
+  "art": "A notebook page with a large drawing of a crow's beak and a foot showing three toes forward and one back."
+ },
+ {
+  "unit": "sci.animals.birds.L4",
+  "key": "setup.a4.1",
+  "title": "Where Would You Nest? Four places, four problems",
+  "old_caption": "2. For each place, name the danger and draw a nest.",
+  "caption": "2. For each place, name the danger and make a nest.",
+  "art": "A child drawing a hanging nest at the tip of a thin branch over water."
+ },
+ {
+  "unit": "sci.animals.birds.L4",
+  "key": "setup.p1.0",
+  "title": "From Crocodile to Sparrow: a family tree on the wall",
+  "old_caption": "1. Draw eight cards, one animal on each.",
+  "caption": "1. Make eight cards, one animal on each.",
+  "art": "Eight hand-sized cards on a table with child's drawings of a mugger crocodile, a long-necked dinosaur, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx, a hen and a sparrow."
+ },
+ {
+  "unit": "sci.animals.courtship-and-mates.L4",
+  "key": "setup.a1.0",
+  "title": "Pigeon Watch: ten minutes at the window",
+  "old_caption": "1. Draw two rows: 'Bows' and 'The other pigeon stays'.",
+  "caption": "1. Write two rows: 'Bows' and 'The other pigeon stays'.",
+  "art": "A notebook page with two rows labelled 'Bows' and 'The other pigeon stays', each with space for tally strokes."
+ },
+ {
+  "unit": "sci.animals.invertebrates.L3",
+  "key": "setup.e1.4",
+  "title": "Water Bones: how does a worm stay firm?",
+  "old_caption": "5. Squeeze each capped bottle hard. Which one gives?",
+  "caption": "5. Squeeze each capped bottle hard. Which one squashes in?",
+  "art": "Two hands squeezing a capped empty bottle, which dents in the middle, next to two hands squeezing a capped bottle full of water, which stays round."
+ },
+ {
+  "unit": "sci.animals.invertebrates.L4",
+  "key": "setup.a4.2",
+  "title": "Gills in the Market, or a Picture Hunt",
+  "old_caption": "3. Draw and label what you see.",
+  "caption": "3. Tell, or draw and label, what you see.",
+  "art": "A drawing of a crab's gills with labels for gill, shell and leg."
+ },
+ {
+  "unit": "sci.animals.vertebrate-groups.L3",
+  "key": "setup.a6.0",
+  "title": "Who Looks After the Babies?",
+  "old_caption": "1. Draw five rows, one for each group.",
+  "caption": "1. Make five rows, one for each animal.",
+  "art": "A big sheet of paper divided into five rows, each with a small drawing of a rohu, a frog, a turtle, a sparrow and a cow."
+ },
+ {
+  "unit": "sci.animals.vertebrate-groups.L3",
+  "key": "setup.a6.1",
+  "title": "Who Looks After the Babies?",
+  "old_caption": "2. Draw how many eggs or babies, and who cares for them.",
+  "caption": "2. Write how many eggs or babies, and who cares for them.",
+  "art": "A child drawing many tiny eggs in the fish row and one calf with their mother in the cow row."
+ },
+ {
+  "unit": "sci.animals.vertebrate-groups.L4",
+  "key": "setup.p1.2",
+  "title": "Window Watch: how a pigeon or crow uses her eyes and ears",
+  "old_caption": "3. Draw and write what you notice each day.",
+  "caption": "3. Write or tell what you notice each day.",
+  "art": "A notebook page with three days of drawings of bird head positions and notes."
+ },
+ {
+  "unit": "sci.basic-needs.basic-needs.L3",
+  "key": "setup.a5.1",
+  "title": "Dress for the Day: clothes for three places",
+  "old_caption": "2. Draw a child dressed for each place.",
+  "caption": "2. Put the right clothes on each place.",
+  "art": "A sheet folded in three with a child drawn in a cotton shirt in sun, in a sweater and cap in mist, and in a raincoat in rain."
+ },
+ {
+  "unit": "sci.body.body-parts.L3",
+  "key": "setup.a4.1",
+  "title": "My Trusted Hand",
+  "old_caption": "2. Draw a trusted grown-up on each finger.",
+  "caption": "2. Write a trusted grown-up's name on each finger.",
+  "art": "The traced hand with a small drawing of a grown-up's face on each finger and 'My body belongs to me' on the palm."
+ },
+ {
+  "unit": "sci.body.growing-old.L3",
+  "key": "setup.a1.2",
+  "title": "Hands Across Time",
+  "old_caption": "3. Draw around both hands and write what you noticed.",
+  "caption": "3. Take a photo of the hands, or draw around them, and say what you noticed.",
+  "art": "Two hand outlines drawn on paper, a small one inside a bigger one, with notes around them."
+ },
+ {
+  "unit": "sci.body.how-babies-grow.L3",
+  "key": "setup.g1.0",
+  "title": "Forty Weeks: growing from one cell to birth",
+  "old_caption": "1. Draw a winding track of 40 squares. Square 1 is one cell. Square 40 is birth.",
+  "caption": "1. Use the printed track, or draw a winding track of 40 squares. Square 1 is one cell. Square 40 is birth.",
+  "art": "A long winding paper track of 40 squares drawn on chart paper, with a single cell at the start and a newborn at the finish."
+ },
+ {
+  "unit": "sci.body.immune-system.L3",
+  "key": "setup.a6.2",
+  "title": "Draw the Hidden Fight",
+  "old_caption": "3. Add a scab on top. Label every part.",
+  "caption": "3. Add a scab on top. Say the name of every part.",
+  "art": "The finished drawing with a scab like a lid on top, and labels with arrows."
+ },
+ {
+  "unit": "sci.body.immune-system.L4",
+  "key": "setup.e2.1",
+  "title": "Spread and Shield: does protecting some squares protect all?",
+  "old_caption": "2. Draw slips from the bowl. Mark each drawn square with a green shield.",
+  "caption": "2. Pick slips from the bowl. Mark each drawn square with a green shield.",
+  "art": "A hand drawing a numbered slip from a bowl, and a green shield mark being drawn on the matching square."
+ },
+ {
+  "unit": "sci.body.immune-system.L4",
+  "key": "setup.a3.2",
+  "title": "Find your lymph nodes",
+  "old_caption": "3. Draw where you felt them.",
+  "caption": "3. Show where you felt them.",
+  "art": "A drawing of a neck with small dots marking where the nodes were felt."
+ },
+ {
+  "unit": "sci.body.keeping-balance.L3",
+  "key": "setup.a3.2",
+  "title": "Thermostat Hunt",
+  "old_caption": "3. Draw one machine's loop.",
+  "caption": "3. Stick notes on one machine's loop.",
+  "art": "A child's drawing of a loop: thermometer, then a little box 'decides', then a fan 'acts', with an arrow back."
+ },
+ {
+  "unit": "sci.body.keeping-balance.L3",
+  "key": "setup.c2.0",
+  "title": "Design a Suit for Another World",
+  "old_caption": "1. Choose a cold world or a hot world. Draw your suit.",
+  "caption": "1. Choose a cold world or a hot world. Plan your suit.",
+  "art": "A child drawing a spacesuit on paper with labels like 'layers trap air' and 'shiny outside'."
+ },
+ {
+  "unit": "sci.body.messages-in-the-body.L4",
+  "key": "setup.p1.2",
+  "title": "My Slow Clocks: three days of hunger and sleepiness",
+  "old_caption": "3. On day 3, draw the lines and look for what repeats.",
+  "caption": "3. On day 3, circle the highest numbers and look for what repeats.",
+  "art": "The finished chart with a red line for hunger and a blue line for sleepiness drawn across each day."
+ },
+ {
+  "unit": "sci.body.organs-inside.L3",
+  "key": "setup.a5.2",
+  "title": "Same Plan, Different Animals",
+  "old_caption": "3. Draw yourself and one animal side by side.",
+  "caption": "3. Fill in a table to compare yourself with each animal.",
+  "art": "A child drawing a fish and a child side by side with matching coloured organs."
+ },
+ {
+  "unit": "sci.changes.fire.L3",
+  "key": "setup.a1.1",
+  "title": "Watch a Flame: what do you notice?",
+  "old_caption": "2. Draw it and write what you wonder.",
+  "caption": "2. Tell it or draw it, and write what you wonder.",
+  "art": "A child's drawing of a candle flame with a blue base, a yellow middle and a dark wick, and 'I wonder…' written at the top."
+ },
+ {
+  "unit": "sci.changes.fire.L3",
+  "key": "setup.a6.0",
+  "title": "Which Side of the Triangle? Sort the fire stoppers",
+  "old_caption": "1. Draw the fire triangle.",
+  "caption": "1. Lay out the fire triangle.",
+  "art": "A big triangle drawn on paper with fuel, oxygen and heat on its sides, and small cards being placed around it."
+ },
+ {
+  "unit": "sci.changes.fire.L4",
+  "key": "setup.e1.3",
+  "title": "Same Paper, Three Shapes: which burns fastest?",
+  "old_caption": "4. Write each time in the table. Repeat, then draw a bar for each shape.",
+  "caption": "4. Write each time in the table. Repeat, then put the shapes in order.",
+  "art": "A results table with three rows and a pencil, and three bars drawn next to it."
+ },
+ {
+  "unit": "sci.chemistry.carbon-chemistry.L4",
+  "key": "setup.e1.0",
+  "title": "The Black Inside: which kitchen things turn black when heated?",
+  "old_caption": "1. Cover a cold tawa with foil. Put eight tiny heaps on it in two rows. Draw a map of which heap is where.",
+  "caption": "1. Cover a cold tawa with foil. Put eight tiny heaps on it in two rows. Lay a name slip for each heap beside the tawa in the same rows.",
+  "art": "A tawa covered with a sheet of foil, with eight tiny heaps in two rows of four, and a paper map beside it naming each heap."
+ },
+ {
+  "unit": "sci.chemistry.carbon-chemistry.L4",
+  "key": "setup.a1.0",
+  "title": "One Bond or Four: which atom can build the most?",
+  "old_caption": "1. Draw each atom as a circle. A bond is a line. One kind of atom makes 1 bond, another makes 2 bonds, and a third makes 4 bonds.",
+  "caption": "1. Each coin is an atom. Each matchstick is a bond. Small coins make 1 bond, medium coins make 2 bonds, and big coins make 4 bonds.",
+  "art": "A sheet of paper with three circles drawn on it: one with a single line coming out, one with two lines and one with four lines."
+ },
+ {
+  "unit": "sci.chemistry.carbon-chemistry.L4",
+  "key": "setup.a1.1",
+  "title": "One Bond or Four: which atom can build the most?",
+  "old_caption": "2. A molecule is finished when every line joins two atoms and no atom has a line left over.",
+  "caption": "2. A molecule is finished when every bond joins two atoms and no atom has a bond left over.",
+  "art": "A drawing of two small circles joined by one line, with a tick beside it."
+ },
+ {
+  "unit": "sci.chemistry.carbon-chemistry.L4",
+  "key": "setup.a2.2",
+  "title": "Five Carbons: how many different skeletons can you find?",
+  "old_caption": "3. Draw each new skeleton. Two are the same if you can turn or bend one into the other.",
+  "caption": "3. Photograph or draw each new skeleton. Two are the same if you can turn or bend one into the other.",
+  "art": "A page with three small drawings of five dots joined in different patterns, numbered 1 to 3."
+ },
+ {
+  "unit": "sci.chemistry.chemistry-in-industry.L4",
+  "key": "setup.g2.0",
+  "title": "Feed the Field: how much fertiliser is enough?",
+  "old_caption": "1. Draw a field for each player. Put a bowl in the middle as the pond. Put 40 beans in a heap.",
+  "caption": "1. Give each player a plate for a field. Put a bowl in the middle as the pond. Put 40 beans in a heap.",
+  "art": "A sheet of paper for each player with a large square drawn on it and labelled My Field, a bowl in the middle labelled Pond, and a heap of beans."
+ },
+ {
+  "unit": "sci.chemistry.reaction-speed.L4",
+  "key": "setup.p1.3",
+  "title": "Rust Race: five nails, five conditions",
+  "old_caption": "4. On day 4, draw a line graph of the five scores.",
+  "caption": "4. On day 4, line up the glasses from most rust to least rust.",
+  "art": "A line graph on paper with five lines going up at different speeds."
+ },
+ {
+  "unit": "sci.community.community-and-helpers.L3",
+  "key": "setup.a1.1",
+  "title": "Who Keeps Our Building Going? A list of the helpers we hardly see",
+  "old_caption": "2. Sort them into five boxes.",
+  "caption": "2. Sort them into five groups.",
+  "art": "The same helpers sorted into five boxes drawn on paper, labelled food, water, cleaning, health and safety, messages and things."
+ },
+ {
+  "unit": "sci.community.transport-and-communication.L3",
+  "key": "setup.a1.1",
+  "title": "The Kitchen Journey: how far did our food travel?",
+  "old_caption": "2. Find each place on the map. Draw how it travelled.",
+  "caption": "2. Find each place on the map. Say how it travelled.",
+  "art": "A map of India with dotted lines from Assam, Gujarat and Andhra Pradesh to a city in South India, with a truck, a train and a ship drawn on the lines."
+ },
+ {
+  "unit": "sci.community.transport-and-communication.L3",
+  "key": "setup.a2.0",
+  "title": "The Time-line Rope: put transport and messages in order",
+  "old_caption": "1. Draw one thing on each card.",
+  "caption": "1. Write one thing on each card.",
+  "art": "Twelve small hand-drawn cards: a footpath, a log boat, a bullock cart, a steam train, an aeroplane, a metro, a drum, a pigeon, a letter, a telephone, a radio and a mobile phone."
+ },
+ {
+  "unit": "sci.day-night-seasons.day-and-night.L4",
+  "key": "setup.p1.2",
+  "title": "Star Gate: the star that comes early",
+  "old_caption": "3. At the end, draw a graph of your six times.",
+  "caption": "3. At the end, make a graph of your five times.",
+  "art": "A line graph with six points sloping downwards, one for each night."
+ },
+ {
+  "unit": "sci.ecology.cycles-and-decomposers.L3",
+  "key": "setup.a1.1",
+  "title": "Rot Hunt: find the decomposers at home",
+  "old_caption": "2. Draw what you found.",
+  "caption": "2. Pick two things you found.",
+  "art": "A child drawing a mouldy lemon in a notebook beside a potted plant with brown fallen leaves."
+ },
+ {
+  "unit": "sci.ecology.cycles-and-decomposers.L4",
+  "key": "setup.a1.2",
+  "title": "Soil Detective: what is in one spoon of soil?",
+  "old_caption": "3. Draw and sort what you find into dead bits, white threads and tiny animals.",
+  "caption": "3. Sort what you find into dead bits, white threads and tiny animals.",
+  "art": "A notebook page with a drawing of soil bits and three labelled groups."
+ },
+ {
+  "unit": "sci.ecology.cycles-and-decomposers.L4",
+  "key": "setup.a2.2",
+  "title": "Marigold Diary: one flower garland, two weeks",
+  "old_caption": "3. Draw both every few days and write what changes.",
+  "caption": "3. Photograph both every few days and write what changes.",
+  "art": "A notebook page with two drawings, one of flowers in a pot and one on a saucer, with dates."
+ },
+ {
+  "unit": "sci.ecology.cycles-and-decomposers.L4",
+  "key": "setup.a3.1",
+  "title": "Who Eats It? Follow one meal's leftovers",
+  "old_caption": "2. Draw a table with three columns: leftover, who eats it, what is left.",
+  "caption": "2. Make a table with three columns: leftover, who eats it, what is left.",
+  "art": "A big sheet with a three-column table drawn on it."
+ },
+ {
+  "unit": "sci.ecology.food-chains.L3",
+  "key": "setup.c1.1",
+  "title": "Mosquito Trouble: fix it with the food web",
+  "old_caption": "2. Draw who eats mosquitoes.",
+  "caption": "2. Name who eats mosquitoes.",
+  "art": "A child drawing a food web with a mosquito in the middle and arrows to a dragonfly, a frog, a guppy and a bird."
+ },
+ {
+  "unit": "sci.ecology.food-chains.L4",
+  "key": "setup.p1.2",
+  "title": "A Day of Food, Traced Back to the Sun",
+  "old_caption": "3. Day 3: draw the pie chart and the chain.",
+  "caption": "3. Day 3: sort the foods by level and show the chain.",
+  "art": "A poster with a pie chart in three colours for level 1, level 2 and level 3 or more, and a chain from the Sun to a plate of food."
+ },
+ {
+  "unit": "sci.ecology.interdependence.L4",
+  "key": "setup.a3.2",
+  "title": "Ask an Elder: an old rule that looks after nature",
+  "old_caption": "3. Draw the rule and the link it shows.",
+  "caption": "3. Tell the rule back and say which link it shows.",
+  "art": "A drawing of a neem leaf in a grain tin with an arrow to a small insect and a note saying keeps pests away."
+ },
+ {
+  "unit": "sci.ecology.interdependence.L4",
+  "key": "setup.p1.2",
+  "title": "Grow a Root Mat: do living roots hold soil?",
+  "old_caption": "3. On day 7, pour the same rain as before and compare with plate A.",
+  "caption": "3. On day 7, pour the same rain as before and compare with the bare plate.",
+  "art": "The root mat plate tilted on books with a glass under the low edge and a strainer pouring rain, next to the bare plate A."
+ },
+ {
+  "unit": "sci.electricity.simple-circuits.L3",
+  "key": "setup.a4.1",
+  "title": "Inside a Torch",
+  "old_caption": "2. Draw the loop the electricity takes.",
+  "caption": "2. Follow the loop the electricity takes.",
+  "art": "A child's drawing of a torch with a red line looping from the cells, along the case, through the switch and bulb, and back."
+ },
+ {
+  "unit": "sci.energy.energy-around-us.L3",
+  "key": "setup.a2.0",
+  "title": "Follow It Back to the Sun",
+  "old_caption": "1. Draw the Sun at the top and yourself at the bottom. Link them with arrows.",
+  "caption": "1. Put the Sun at the top and your breakfast at the bottom. Fill the gap with slips.",
+  "art": "A big sheet of paper with a yellow Sun at the top and a child eating idli at the bottom, with arrows through a rice plant between them."
+ },
+ {
+  "unit": "sci.energy.energy-around-us.L3",
+  "key": "setup.a2.1",
+  "title": "Follow It Back to the Sun",
+  "old_caption": "2. Draw chains for the fan and the gas flame too.",
+  "caption": "2. Make chains for the fan and the gas flame too.",
+  "art": "A poster with three chains of arrows from the Sun: one to idli, one through a wind turbine to a fan, one through ancient sea creatures to a gas flame."
+ },
+ {
+  "unit": "sci.energy.energy-around-us.L4",
+  "key": "setup.g1.0",
+  "title": "Budget the Battery: plan a night without power",
+  "old_caption": "1. Cut out the cards. Draw a battery of 30 squares.",
+  "caption": "1. Cut out the cards. Make a battery of 30 squares.",
+  "art": "Sixteen cards laid out in rows on a table, with a hand-drawn battery of thirty squares on a sheet of paper."
+ },
+ {
+  "unit": "sci.energy.energy-around-us.L4",
+  "key": "setup.c1.0",
+  "title": "The Energy Ladder: ten rungs, each ten times bigger",
+  "old_caption": "1. Draw ten rungs. Label the bottom one 1 joule.",
+  "caption": "1. Make ten rungs. Label the bottom one 1 joule.",
+  "art": "A long sheet of paper on a wall with ten rungs drawn, the lowest labelled 1 J and the next 10 J."
+ },
+ {
+  "unit": "sci.energy.heat-moves.L3",
+  "key": "setup.a3.0",
+  "title": "See the Heat Inside the Ladle",
+  "old_caption": "1. Draw the ladle, with a big circle to zoom into the handle.",
+  "caption": "1. Line up six coins in a row, all touching.",
+  "art": "A drawing of a ladle in hot water, with a big magnifying circle over the handle."
+ },
+ {
+  "unit": "sci.energy.heat-moves.L4",
+  "key": "setup.a3.2",
+  "title": "Draw the Heat's Journey: three ways in one kitchen picture",
+  "old_caption": "3. Draw orange wavy lines from the pot to the child's face. Name each arrow.",
+  "caption": "3. Point from the pot to the child's face. Put a name by each arrow.",
+  "art": "Orange wavy lines going from the flame and the hot pot sideways to the child's face."
+ },
+ {
+  "unit": "sci.environment.caring.L3",
+  "key": "setup.a5.1",
+  "title": "One Tree's Guests (if you have a park or a tree nearby)",
+  "old_caption": "2. Draw each guest where you saw them.",
+  "caption": "2. Write each guest, where you saw it and what it was doing.",
+  "art": "A child's drawing of a tree with small drawings of a crow, a squirrel, ants and a resting man, each with a label."
+ },
+ {
+  "unit": "sci.environment.conservation.L3",
+  "key": "setup.a4.1",
+  "title": "Thank-You Shelf: which animals helped make our home?",
+  "old_caption": "2. Draw each thing with her animal and one need.",
+  "caption": "2. Name each animal and one thing she needs.",
+  "art": "A child's chart with drawings: honey and a bee with a flower, milk and a cow with a water trough."
+ },
+ {
+  "unit": "sci.evolution.natural-selection.L5",
+  "key": "setup.a3.2",
+  "title": "One Wild Plant, Many Vegetables: what did farmers select?",
+  "old_caption": "3. Draw the wild plant in the middle and the vegetables around.",
+  "caption": "3. Put the wild cabbage slip in the middle and the vegetables around.",
+  "art": "A drawing of a thin wild cabbage plant on a sea cliff with arrows to a cabbage, a cauliflower and a knol khol."
+ },
+ {
+  "unit": "sci.evolution.natural-selection.L5",
+  "key": "setup.a4.1",
+  "title": "One Bird Becomes Two: the Palghat Gap in four drawings",
+  "old_caption": "2. Fold a page into four boxes. Draw the story step by step.",
+  "caption": "2. Fold a page into four boxes. Show the story step by step.",
+  "art": "A sheet of paper folded into four boxes, the first showing one line of hills with small blue-grey birds all along it."
+ },
+ {
+  "unit": "sci.evolution.natural-selection.L5",
+  "key": "setup.a4.2",
+  "title": "One Bird Becomes Two: the Palghat Gap in four drawings",
+  "old_caption": "3. In the last box, draw the two species of today.",
+  "caption": "3. In the last box, show the two species of today.",
+  "art": "The fourth box showing two hill ranges with a gap, a bird with orange-brown sides on the left and a bird with a white belly on the right."
+ },
+ {
+  "unit": "sci.evolution.story-of-life.L3",
+  "key": "setup.a1.0",
+  "title": "The Chain of Mothers: who came before?",
+  "old_caption": "1. Draw yourself, your mother and her mother.",
+  "caption": "1. Draw or write yourself, your mother and her mother.",
+  "art": "A long paper strip with a child drawn at the right end and a mother and grandmother drawn to the left."
+ },
+ {
+  "unit": "sci.evolution.story-of-life.L3",
+  "key": "setup.a1.1",
+  "title": "The Chain of Mothers: who came before?",
+  "old_caption": "2. Draw more mothers to the left. Use dots for the very long ago. End with a big question mark.",
+  "caption": "2. Add more people to the left. Use dots for the very long ago. End with a big question mark.",
+  "art": "The same strip with dotted lines going far left and a big question mark at the end."
+ },
+ {
+  "unit": "sci.evolution.story-of-life.L3",
+  "key": "setup.g1.0",
+  "title": "Copy Race: build the partner chain",
+  "old_caption": "1. Lay your chain card. Draw from the pile.",
+  "caption": "1. Lay your chain card. Turn over cards from the pile.",
+  "art": "A chain card reading A U G C C A laid on a table, with a face-down pile of letter cards beside it."
+ },
+ {
+  "unit": "sci.food.balanced-diet.L3",
+  "key": "setup.a5.1",
+  "title": "An Elder's Plate: an interview",
+  "old_caption": "2. Draw their plate and your plate side by side.",
+  "caption": "2. Write their plate and your plate side by side.",
+  "art": "A notebook page with two drawn plates side by side: one with bajra roti, greens and buttermilk, one with rice, dal and a packet snack."
+ },
+ {
+  "unit": "sci.food.food-safety.L4",
+  "key": "setup.a3.0",
+  "title": "The Fridge Shelf Puzzle: where does each food go?",
+  "old_caption": "1. Draw a fridge with three shelves, a drawer and a door.",
+  "caption": "1. Lay out the fridge places on paper: freezer, shelves, drawer and door.",
+  "art": "A drawing of a fridge with a freezer on top, three shelves, a vegetable drawer and a door with a shelf."
+ },
+ {
+  "unit": "sci.food.food-safety.L4",
+  "key": "setup.c1.0",
+  "title": "Keep the Ice: a lunch box that keeps cold",
+  "old_caption": "1. Sketch your designs.",
+  "caption": "1. Plan your box designs.",
+  "art": "A child sketching three lunch box designs on paper: a box wrapped in newspaper, a foil-lined box and a box inside a box."
+ },
+ {
+  "unit": "sci.food.food-safety.L5",
+  "key": "setup.a4.1",
+  "title": "Two Milks: why one needs the fridge and one does not",
+  "old_caption": "2. Draw the cold chain of the pouch, from the animal to your fridge.",
+  "caption": "2. Lay out the cold chain of the pouch in a row, from the animal to your fridge.",
+  "art": "A row of six linked boxes drawn in a notebook: a buffalo, a village cooler, a tanker, a dairy, a delivery van and a home fridge."
+ },
+ {
+  "unit": "sci.food.healthy-food.L2",
+  "key": "setup.g2.0",
+  "title": "Fill the Thali: a collecting card game",
+  "old_caption": "1. Draw your thali. Take 3 cards.",
+  "caption": "1. Label your thali sheet. Take 3 cards.",
+  "art": "A drawn thali with three bowls marked Grow, Go and Protect and a small star marked Treat, with cards in two bowls."
+ },
+ {
+  "unit": "sci.food.healthy-food.L2",
+  "key": "setup.p1.0",
+  "title": "My Week of Plates: colour the three jobs",
+  "old_caption": "1. Draw your plate. Colour each food by its job.",
+  "caption": "1. List your foods. Put a coloured dot by each.",
+  "art": "A notebook page with a round plate drawn on it, holding rice coloured yellow, dal coloured red and beans coloured green."
+ },
+ {
+  "unit": "sci.food.nutrients.L4",
+  "key": "setup.a3.0",
+  "title": "Three Jobs Plate: what job does each food do?",
+  "old_caption": "1. Draw your meal on a round plate. Write the name of each food.",
+  "caption": "1. Lay out the foods of your meal. Write each name on a slip.",
+  "art": "A round plate drawn on paper with rice, dal, a vegetable, curd and a pickle on it, each labelled."
+ },
+ {
+  "unit": "sci.food.nutrients.L4",
+  "key": "setup.a3.1",
+  "title": "Three Jobs Plate: what job does each food do?",
+  "old_caption": "2. Colour each food by its main job. Red is energy, blue is building, green is protection.",
+  "caption": "2. Put each food in a pile by its main job: energy, building or protection.",
+  "art": "Three coloured pencils beside the plate, with each food coloured red for energy, blue for building or green for protection."
+ },
+ {
+  "unit": "sci.food.nutrients.L4",
+  "key": "setup.p1.3",
+  "title": "Date and Groundnut Balls: write your own food label",
+  "old_caption": "4. Work out the energy and draw a label for your balls.",
+  "caption": "4. Work out the energy and write a label for your balls.",
+  "art": "A hand-drawn label with a table showing the energy per 100 grams and per ball."
+ },
+ {
+  "unit": "sci.food.where-food-comes-from.L3",
+  "key": "setup.a3.0",
+  "title": "Trace Your Dinner Back to the Sun",
+  "old_caption": "1. Draw four dinner foods on the right side of the page.",
+  "caption": "1. Write four dinner foods on slips, down the right side of the page.",
+  "art": "A sheet of paper with a chapati, a bowl of dal, a bowl of curd and a banana drawn down the right side."
+ },
+ {
+  "unit": "sci.food.where-food-comes-from.L3",
+  "key": "setup.a3.1",
+  "title": "Trace Your Dinner Back to the Sun",
+  "old_caption": "2. Draw arrows back, step by step. Draw the person at each step.",
+  "caption": "2. Lay slips back, step by step. Put a button for the person at each step.",
+  "art": "Arrows going left from the curd: milk, a cow, grass, and a Sun, with a small milkman and a farmer drawn beside the arrows."
+ },
+ {
+  "unit": "sci.forces.changing-motion.L2",
+  "key": "setup.p1.1",
+  "title": "My Force Book: shape, speed and direction",
+  "old_caption": "2. Day 1: draw shape changes, before and after.",
+  "caption": "2. Day 1: change three shapes and draw one, before and after.",
+  "art": "An open book page headed SHAPE with three before and after drawings: a ball of foil, a roti, a squeezed sponge."
+ },
+ {
+  "unit": "sci.forces.changing-motion.L2",
+  "key": "setup.p1.2",
+  "title": "My Force Book: shape, speed and direction",
+  "old_caption": "3. Day 3: draw direction changes with arrows.",
+  "caption": "3. Day 3: turn a ball three ways and write a line for each.",
+  "art": "An open book page headed DIRECTION with a ball drawn with curved arrows bouncing off a wall and turning round a book."
+ },
+ {
+  "unit": "sci.forces.changing-motion.L3",
+  "key": "setup.e3.2",
+  "title": "Wet Ball Prints: catching a bounce",
+  "old_caption": "3. Repeat from waist and shoulder height. Draw round each wet circle and measure it.",
+  "caption": "3. Repeat from waist and shoulder height. Measure each wet circle.",
+  "art": "A sheet of dark paper with three wet circles of growing size, labelled knee, waist, shoulder."
+ },
+ {
+  "unit": "sci.forces.friction.L3",
+  "key": "setup.g2.1",
+  "title": "The Day the World Lost Its Grip",
+  "old_caption": "2. Say or draw what happens at that moment with no friction.",
+  "caption": "2. Say or act out what happens at that moment with no friction.",
+  "art": "A child imagining sliding off a bed in a world with no friction, arms flailing, laughing."
+ },
+ {
+  "unit": "sci.forces.friction.L4",
+  "key": "setup.c1.0",
+  "title": "Lower the Load: hold a heavy bottle with one finger",
+  "old_caption": "1. Sketch some designs on paper.",
+  "caption": "1. Try some designs, or sketch them on paper.",
+  "art": "A child sketching three ways of winding string round pencils: round one pencil, in a zigzag over three pencils, and in a figure of eight."
+ },
+ {
+  "unit": "sci.forces.friction.L5",
+  "key": "setup.a3.0",
+  "title": "Green and Red: a friction map of one machine",
+  "old_caption": "1. Draw the machine from the side.",
+  "caption": "1. Stand the machine up and name its parts.",
+  "art": "A child's pencil drawing of a bicycle seen from the side, lying next to a real bicycle on its stand."
+ },
+ {
+  "unit": "sci.forces.measuring-forces.L4",
+  "key": "setup.a1.0",
+  "title": "Draw the Pulls: force arrows around the house",
+  "old_caption": "1. Hold one packet. Draw its weight and your hand's push as two arrows.",
+  "caption": "1. Hold one packet. Make its weight and your hand's push as two arrows.",
+  "art": "A child holding a 500 gram packet flat on one palm, with a downward arrow 5 centimetres long and an upward arrow 5 centimetres long drawn beside the hand."
+ },
+ {
+  "unit": "sci.forces.measuring-forces.L4",
+  "key": "setup.a1.1",
+  "title": "Draw the Pulls: force arrows around the house",
+  "old_caption": "2. Push a door and pull a drawer. Draw the force arrows.",
+  "caption": "2. Push a door and pull a drawer. Make the force arrows.",
+  "art": "A hand pushing a door open and a hand pulling a drawer, with a long arrow on the door and a short arrow on the drawer."
+ },
+ {
+  "unit": "sci.forces.measuring-forces.L4",
+  "key": "setup.c1.0",
+  "title": "The Gentlest Hold: carry a heavy bottle with the smallest pull",
+  "old_caption": "1. Sketch some designs on paper.",
+  "caption": "1. Show some designs with thread, or sketch them.",
+  "art": "A page with three sketches of ways to hold a 1 litre bottle between two points 1 metre apart: a deep sag, a prop in the middle, and two threads side by side."
+ },
+ {
+  "unit": "sci.forces.push-and-pull.L2",
+  "key": "setup.a1.1",
+  "title": "Who Is Pushing? A force hunt at home",
+  "old_caption": "2. Find a force. Who or what gives it? Draw it in the right column.",
+  "caption": "2. Find a force. Who or what gives it? Write it in the right column.",
+  "art": "A girl in a kitchen turning on a tap so the water pushes a steel cup, while she draws it on her sheet."
+ },
+ {
+  "unit": "sci.forces.push-and-pull.L3",
+  "key": "setup.a2.2",
+  "title": "Gentle Tug of War, with arrows",
+  "old_caption": "3. Draw the arrows.",
+  "caption": "3. Lay out the arrows.",
+  "art": "A drawing of the tug of war with two long arrows along the rope and two short arrows under the feet."
+ },
+ {
+  "unit": "sci.forces.simple-machines.L3",
+  "key": "setup.c1.1",
+  "title": "Lift the Rice Bag",
+  "old_caption": "2. Draw three ideas first.",
+  "caption": "2. Pick three ideas first.",
+  "art": "A child drawing three machine ideas on paper: a ramp, a broom lever and a box winch."
+ },
+ {
+  "unit": "sci.forces.simple-machines.L4",
+  "key": "setup.e1.4",
+  "title": "Count the Ropes: how much easier does a pulley make a lift, and what does it cost?",
+  "old_caption": "5. Draw a bar for each way, using the bigger stretch.",
+  "caption": "5. Show each way as a bar or a paper strip, using the bigger stretch.",
+  "art": "Three bars of different heights, one for each way of lifting, with a number on each bar."
+ },
+ {
+  "unit": "sci.forces.simple-machines.L4",
+  "key": "setup.c1.0",
+  "title": "The Lazy Lift: raise the bottle with the lightest pull",
+  "old_caption": "1. Sketch some designs. Count the strings holding the bottle.",
+  "caption": "1. Try some set-ups with the reels. Count the strings that would hold the bottle.",
+  "art": "A child sketching three pulley designs on paper with arrows for the strings."
+ },
+ {
+  "unit": "sci.forces.stretching-springs.L4",
+  "key": "setup.a1.2",
+  "title": "The Stiffness League: which stretchy thing is stiffest?",
+  "old_caption": "3. Work out each stiffness. Draw a bar for each.",
+  "caption": "3. Work out each stiffness. Make a bar for each.",
+  "art": "A bar chart with four bars of different heights labelled with the four things, and a stiffness number above each."
+ },
+ {
+  "unit": "sci.forces.stretching-springs.L4",
+  "key": "setup.c1.0",
+  "title": "Soft Landing: keep a stack of coins standing",
+  "old_caption": "1. Sketch some ideas for the cushion.",
+  "caption": "1. Pick things that could make a cushion.",
+  "art": "A page with three sketches of cushions: a box with crumpled newspaper, a card on a sponge, and a card hanging on rubber bands."
+ },
+ {
+  "unit": "sci.genetics.dna-and-rna.L3",
+  "key": "setup.a1.1",
+  "title": "Seed Faces: what is hiding in a seed?",
+  "old_caption": "2. Draw each seed, and guess the leaf they will grow.",
+  "caption": "2. Guess the leaf each seed will grow. Draw or say.",
+  "art": "A child's drawing: three seeds on the left, and three guessed leaves with question marks on the right."
+ },
+ {
+  "unit": "sci.genetics.dna-and-rna.L3",
+  "key": "setup.a3.2",
+  "title": "The RNA Kitchen: copy one recipe, make one drink",
+  "old_caption": "3. Draw it as a cell: book, slip and drink.",
+  "caption": "3. Lay it out as a cell: book, slip and drink.",
+  "art": "A drawing of a cell: a book in the nucleus, a slip travelling out, a glass of buttermilk beside a small round ribosome."
+ },
+ {
+  "unit": "sci.gravity.falling.L3",
+  "key": "setup.a4.2",
+  "title": "Which Way Is Down?",
+  "old_caption": "3. Draw arrows. Down is always towards the middle.",
+  "caption": "3. Point pencils at the middle. Down is always towards the middle.",
+  "art": "A ball with four paper people on it and four pencils pointing in towards the middle."
+ },
+ {
+  "unit": "sci.habitats.adaptations.L2",
+  "key": "setup.a2.1",
+  "title": "Camel Close-up: find six desert adaptations",
+  "old_caption": "2. Draw the camel and label six parts.",
+  "caption": "2. Match each camel part to its desert problem.",
+  "art": "A child's drawing of a camel with six arrows and labels: hump, eyelashes, nostrils, back fur, knee pads, wide feet."
+ },
+ {
+  "unit": "sci.habitats.habitats.L2",
+  "key": "setup.p1.1",
+  "title": "My Habitat Book",
+  "old_caption": "2. Draw one habitat on each page, with who lives there.",
+  "caption": "2. Draw or stick in one habitat on each page, with who lives there.",
+  "art": "An open page of the book with a drawn pond, a frog and lotus, and the word 'water' written below."
+ },
+ {
+  "unit": "sci.habitats.habitats.L3",
+  "key": "setup.a2.2",
+  "title": "What Does the Crow Need?",
+  "old_caption": "3. Draw your animal and their six needs.",
+  "caption": "3. Lay out your animal and their six needs.",
+  "art": "A finished page with a crow in the middle and six labelled arrows: food, water, air, shelter, space, warmth."
+ },
+ {
+  "unit": "sci.habitats.habitats.L3",
+  "key": "setup.a4.2",
+  "title": "Nature Map of Our Walk",
+  "old_caption": "3. Colour each part: shady, sunny or wet.",
+  "caption": "3. Sort the things: shady, sunny or wet.",
+  "art": "The same map coloured in green for shade, yellow for sun and blue for wet places."
+ },
+ {
+  "unit": "sci.habitats.water-habitats.L3",
+  "key": "setup.a2.0",
+  "title": "Tadpole to Frog: how the breathing changes",
+  "old_caption": "1. Draw six stages of a frog's life.",
+  "caption": "1. Make a card for each stage of a frog's life.",
+  "art": "Six hand-drawn cards on a table: eggs, a tadpole, a tadpole with legs, a four-legged tadpole, a young frog and an adult frog."
+ },
+ {
+  "unit": "sci.habitats.water-habitats.L3",
+  "key": "setup.g1.0",
+  "title": "Pond, River or Sea?",
+  "old_caption": "1. Draw the three homes.",
+  "caption": "1. Mark the four homes.",
+  "art": "A big sheet of paper with four areas drawn: a pond, a river, the sea, and a mixed area where a river meets the sea."
+ },
+ {
+  "unit": "sci.habitats.water-habitats.L3",
+  "key": "setup.g2.0",
+  "title": "Day and Night in the Pond: an oxygen token game",
+  "old_caption": "1. Put 10 oxygen tokens in the pond bowl. Draw 2 fish.",
+  "caption": "1. Put 10 oxygen tokens in the pond bowl. Put down 2 fish.",
+  "art": "A bowl of small paper circles marked O on a table, two fish drawn on a sheet of paper, and a pile of round cards with sun and moon pictures."
+ },
+ {
+  "unit": "sci.health.exercise-and-rest.L2",
+  "key": "setup.a2.0",
+  "title": "My Bedtime Steps: put what you do before bed in order",
+  "old_caption": "1. Draw one bedtime step on each card.",
+  "caption": "1. Write or draw one bedtime step on each card.",
+  "art": "A child drawing on six small cards: dinner, a bath, brushing teeth, a story, lights off, and a fan on."
+ },
+ {
+  "unit": "sci.health.exercise-and-rest.L2",
+  "key": "setup.a3.1",
+  "title": "Four Ways to Keep Healthy: my day chart",
+  "old_caption": "2. Draw what you did today in each box.",
+  "caption": "2. Fill each box with what you did today.",
+  "art": "A child drawing herself skipping in the first box, a bed in the second, a plate of rice and sambar in the third, and a bucket bath in the fourth."
+ },
+ {
+  "unit": "sci.health.exercise-and-rest.L2",
+  "key": "setup.p1.1",
+  "title": "Do Plants Rest at Night? A rajma leaf watch",
+  "old_caption": "2. At night, with the room light off, shine a torch for a moment and draw the leaves.",
+  "caption": "2. At night, with the room light off, shine a torch for a moment and take a photo or draw the leaves.",
+  "art": "The same bean plant at night, lit by a torch, with the two leaves hanging down."
+ },
+ {
+  "unit": "sci.health.exercise-and-rest.L2",
+  "key": "setup.p1.2",
+  "title": "Do Plants Rest at Night? A rajma leaf watch",
+  "old_caption": "3. In the morning, draw them again. Compare.",
+  "caption": "3. In the morning, take a photo or draw them again. Compare.",
+  "art": "The same bean plant in the morning sun, leaves held out flat again, beside a child's two drawings."
+ },
+ {
+  "unit": "sci.health.exercise-and-rest.L2",
+  "key": "setup.c1.0",
+  "title": "A Chair Workout: exercise for someone who cannot jump",
+  "old_caption": "1. Plan and draw five chair moves.",
+  "caption": "1. Plan five chair moves, in pictures or a list.",
+  "art": "A girl drawing a strip of five pictures of a person doing exercises in a chair."
+ },
+ {
+  "unit": "sci.health.feelings-and-wellbeing.L3",
+  "key": "setup.a1.0",
+  "title": "How Many Feelings Can You Name?",
+  "old_caption": "1. Name and draw as many feelings as you can.",
+  "caption": "1. Name as many feelings as you can.",
+  "art": "A child's page covered with small drawn faces, each with a feeling word under it."
+ },
+ {
+  "unit": "sci.health.feelings-and-wellbeing.L3",
+  "key": "setup.c2.0",
+  "title": "Feelings Without Words",
+  "old_caption": "1. Draw picture cards for feelings.",
+  "caption": "1. Make cards, objects or hand signs for feelings.",
+  "art": "Five picture cards with simple faces and symbols: a smile, a tear, a bed, a thermometer and a raised hand."
+ },
+ {
+  "unit": "sci.health.hygiene.L3",
+  "key": "setup.a6.1",
+  "title": "The Germ Detectives Washing Line",
+  "old_caption": "2. Draw a card for each discovery.",
+  "caption": "2. Write a card for each discovery.",
+  "art": "A child drawing a tiny lens, a hand-washing basin and a water pump on separate cards."
+ },
+ {
+  "unit": "sci.health.sleep.L2",
+  "key": "setup.a1.0",
+  "title": "My Bedtime Routine Strip: five steps, seven nights",
+  "old_caption": "1. Draw five bedtime steps in order.",
+  "caption": "1. Show five bedtime steps in order.",
+  "art": "A long paper strip with five boxes: a bucket of water, a toothbrush, night clothes, a book under a dim lamp, and a moon."
+ },
+ {
+  "unit": "sci.health.sleep.L2",
+  "key": "setup.p1.1",
+  "title": "Ask the Family: who sleeps how long?",
+  "old_caption": "2. Draw one moon for every hour of sleep.",
+  "caption": "2. Put one bean for every hour of sleep.",
+  "art": "A chart with a row of small moons next to each family member's name, a long row for a baby cousin and shorter rows for adults."
+ },
+ {
+  "unit": "sci.how-we-know.asking-questions.L4",
+  "key": "setup.a4.2",
+  "title": "Draw the Invisible Water",
+  "old_caption": "3. Draw it again and circle what changed.",
+  "caption": "3. Compare your drawing with the rice model. Add what is missing.",
+  "art": "A second drawing next to the first, with the differences circled in red."
+ },
+ {
+  "unit": "sci.india.government-and-rights.L3",
+  "key": "setup.e2.2",
+  "title": "Made Where? A home survey of 20 things",
+  "old_caption": "3. Count, draw a bar chart and mark the countries on a map.",
+  "caption": "3. Count the piles, show them as bars, and mark the countries on a map.",
+  "art": "A bar chart drawn in a notebook next to a world map with countries circled."
+ },
+ {
+  "unit": "sci.india.national-identity.L3",
+  "key": "setup.c1.1",
+  "title": "A Flag Anyone Can Remember",
+  "old_caption": "2. Show it for 10 seconds. Can they draw it?",
+  "caption": "2. Show it for 10 seconds. Can they draw it or tell you about it?",
+  "art": "A girl holding up her coloured flag across the room while a friend draws it from memory."
+ },
+ {
+  "unit": "sci.light.colour.L3",
+  "key": "setup.p1.2",
+  "title": "Shoebox Spectroscope: the rainbows of lamps",
+  "old_caption": "3. Draw each light's rainbow. Are they the same?",
+  "caption": "3. Look at each light's rainbow. Are they the same?",
+  "art": "Three drawn rainbows side by side: a smooth one for daylight, one with sharp bright lines for a tubelight, a warm red-orange smooth one for a candle."
+ },
+ {
+  "unit": "sci.light.living-light.L4",
+  "key": "setup.e3.0",
+  "title": "Glow Detective: what glows under a UV torch, and what keeps glowing?",
+  "old_caption": "1. Lay out all the things on a table. Draw your guess for each.",
+  "caption": "1. Lay out all the things on a table. Write your guess for each.",
+  "art": "A dark table with nine items laid out in a row: paper, newspaper, highlighter line, blue pen line, cloth, leaf, water, tonic water and a glow-in-the-dark star."
+ },
+ {
+  "unit": "sci.light.reflection.L4",
+  "key": "setup.c1.0",
+  "title": "Look Round Two Corners: a bendy periscope",
+  "old_caption": "1. Sketch the path from the toy to your eye, with a mirror at every turn.",
+  "caption": "1. Lay a string from the toy to your eye. Put a mirror at every bend.",
+  "art": "A bird's-eye drawing of a room with a sofa, a hidden toy and a zigzag line of light going from the toy via three mirrors to a child's eye."
+ },
+ {
+  "unit": "sci.light.reflection.L4",
+  "key": "setup.c2.0",
+  "title": "Wide-View Shop Mirror: see the whole room from one spot",
+  "old_caption": "1. Draw the room and place the five toys.",
+  "caption": "1. Place the five toys round the room.",
+  "art": "A bird's-eye drawing of a small room with a chair, a door and five small toys placed around the walls and corners."
+ },
+ {
+  "unit": "sci.light.refraction.L3",
+  "key": "setup.a2.2",
+  "title": "Magnifier Safari",
+  "old_caption": "3. Draw each thing twice: with and without the lens.",
+  "caption": "3. Line up three things from smoothest to bumpiest.",
+  "art": "A page with a salt grain drawn small, and beside it the same grain drawn as a big cube."
+ },
+ {
+  "unit": "sci.light.transparent-opaque.L2",
+  "key": "setup.p1.1",
+  "title": "The Window Letter: a message only light can show",
+  "old_caption": "2. Stick two sheets over it. Draw a picture on top.",
+  "caption": "2. Stick two sheets over it. Add a name or picture on top.",
+  "art": "The girl gluing two more white sheets over the message, edge to edge, so the letters are hidden."
+ },
+ {
+  "unit": "sci.light.transparent-opaque.L4",
+  "key": "setup.c1.0",
+  "title": "Vanish the Marble: make a liquid that hides it best",
+  "old_caption": "1. Sketch your plan and list the liquids to test.",
+  "caption": "1. Write your plan and list the liquids to test.",
+  "art": "A child sketching a plan on paper with four jars labelled thin syrup, thick syrup, honey and oil."
+ },
+ {
+  "unit": "sci.light.what-is-light.L4",
+  "key": "setup.a2.0",
+  "title": "From the Sun to an Idli: follow the energy",
+  "old_caption": "1. Draw the chain of boxes from the Sun to the child.",
+  "caption": "1. Lay out cards in a chain from the Sun to the child.",
+  "art": "A row of boxes joined by arrows: the Sun, a rice field, a bowl of rice and dal, batter, steaming idlis, a child running."
+ },
+ {
+  "unit": "sci.light.what-is-light.L4",
+  "key": "setup.a2.1",
+  "title": "From the Sun to an Idli: follow the energy",
+  "old_caption": "2. Draw what a leaf does with sunlight.",
+  "caption": "2. Say what a leaf does with sunlight.",
+  "art": "A paddy plant with a close-up of a green leaf and arrows labelled sunlight, water and air going in and sugar going out."
+ },
+ {
+  "unit": "sci.magnets.magnets-and-materials.L4",
+  "key": "setup.a1.2",
+  "title": "Hold Still, Magnet! A hanging magnet and a nail",
+  "old_caption": "3. Swap them. Hang the nail and hold the magnet. Draw what you see.",
+  "caption": "3. Swap them. Hang the nail and hold the magnet. Watch what happens.",
+  "art": "A child drawing the magnet leaning towards the nail in a notebook."
+ },
+ {
+  "unit": "sci.magnets.poles.L3",
+  "key": "setup.a4.0",
+  "title": "Build the Magnet Inside",
+  "old_caption": "1. Draw a bar magnet full of tiny arrow magnets, all pointing one way.",
+  "caption": "1. Fill a long box with tiny magnets (toothpicks), all pointing one way.",
+  "art": "A child's drawing of a long bar magnet filled with small arrows all pointing the same way."
+ },
+ {
+  "unit": "sci.magnets.poles.L3",
+  "key": "setup.a4.1",
+  "title": "Build the Magnet Inside",
+  "old_caption": "2. Draw it cut in two. Label the poles on each piece.",
+  "caption": "2. Pull it in two. Label the poles on each piece.",
+  "art": "The same drawing cut in two with a dotted line, and new N and S labels on each side of the cut."
+ },
+ {
+  "unit": "sci.magnets.poles.L4",
+  "key": "setup.e2.0",
+  "title": "Walk the Compass: draw the field of a magnet",
+  "old_caption": "1. Tape the paper down. Draw round the magnet. Mark N and S.",
+  "caption": "1. Tape the paper down. Put the magnet in the middle. Mark N and S.",
+  "art": "A sheet of paper taped to a wooden table with a bar magnet in the middle and its outline drawn, and N and S written by the ends."
+ },
+ {
+  "unit": "sci.magnets.poles.L4",
+  "key": "setup.c1.2",
+  "title": "The Quiet Pair: two magnets that hardly disturb a compass",
+  "old_caption": "3. Draw your quietest pair with the field lines you expect.",
+  "caption": "3. Show how the field lines go around your quietest pair.",
+  "art": "A drawing of the paired magnets with field lines that loop between them instead of going out into space."
+ },
+ {
+  "unit": "sci.making-things.cloth.L5",
+  "key": "setup.a1.1",
+  "title": "Thread Paths: three cloths under the phone camera",
+  "old_caption": "2. Draw the path of one thread in each cloth.",
+  "caption": "2. Show the path of one thread in each cloth.",
+  "art": "A sheet of paper with three boxes: crossed lines in the first, rows of loops in the second and slanting lines in the third, with one thread coloured red in each."
+ },
+ {
+  "unit": "sci.making-things.design-and-build.L3",
+  "key": "setup.g2.0",
+  "title": "Brief and Build",
+  "old_caption": "1. Draw a purpose card and a limit card.",
+  "caption": "1. Pick a purpose card and a limit card.",
+  "art": "Two small piles of cards, one labelled PURPOSE and one LIMIT, and a heap of household objects: spoons, paper, tumblers, books."
+ },
+ {
+  "unit": "sci.materials.magnetic-materials.L3",
+  "key": "setup.a4.2",
+  "title": "Star Dust on the Terrace",
+  "old_caption": "3. Look at the specks. Draw the round ones.",
+  "caption": "3. Look at the specks. Count the round ones.",
+  "art": "A child with a magnifying glass looking at a few round dark beads on white paper."
+ },
+ {
+  "unit": "sci.materials.magnetic-materials.L4",
+  "key": "setup.e1.4",
+  "title": "Steel Detectives: where does a magnet stick on kitchen steel?",
+  "old_caption": "5. Draw each thing and write the score at each spot.",
+  "caption": "5. Write the middle score at each spot. Point to the sticky ones.",
+  "art": "Outline drawings of a tumbler and a spoon with scores written next to the spots."
+ },
+ {
+  "unit": "sci.materials.magnetic-materials.L4",
+  "key": "setup.e2.4",
+  "title": "The Can That Follows: does a moving magnet push aluminium?",
+  "old_caption": "5. Draw a bar for each thing, as long as its fast roll.",
+  "caption": "5. Line the things up, from the furthest roll to the shortest.",
+  "art": "A bar chart of roll distances for the can, the bottle and the tin."
+ },
+ {
+  "unit": "sci.materials.magnetic-materials.L4",
+  "key": "setup.e3.3",
+  "title": "The Pendulum That Stops: swing a magnet over four plates",
+  "old_caption": "4. Draw a bar for each plate.",
+  "caption": "4. Line up the plates. Put each middle count beside its plate.",
+  "art": "A bar chart with four bars for the wooden board, the plastic tray, the aluminium plate and the steel plate."
+ },
+ {
+  "unit": "sci.materials.magnetic-materials.L4",
+  "key": "setup.p1.2",
+  "title": "Our Kitchen's Metal Map: a poster of what sticks",
+  "old_caption": "3. Draw a poster with three zones and stick it on the fridge.",
+  "caption": "3. Make a poster with three zones and stick it on the fridge.",
+  "art": "A big poster on the fridge with three coloured zones and drawings of kitchen things in each."
+ },
+ {
+  "unit": "sci.materials.properties.L4",
+  "key": "setup.a1.3",
+  "title": "Grain Hunt: split, tear and snap",
+  "old_caption": "4. Look at each torn edge. Draw an arrow along the grain.",
+  "caption": "4. Look at each torn edge. Point along the grain.",
+  "art": "A magnifying glass held over the torn edge of a leaf and over a split stick, showing long fibres."
+ },
+ {
+  "unit": "sci.materials.properties.L4",
+  "key": "setup.a4.1",
+  "title": "Plywood Edge Detective: find the crossed layers",
+  "old_caption": "2. Count the layers. Draw an arrow for the grain on each one.",
+  "caption": "2. Count the layers. Point to the grain on each one.",
+  "art": "A drawing of a plywood edge with five layers, and a short arrow drawn on each layer showing which way its grain runs."
+ },
+ {
+  "unit": "sci.materials.properties.L4",
+  "key": "setup.c1.0",
+  "title": "The Paper Beam: carry the most with two sheets",
+  "old_caption": "1. Sketch some designs and decide which way the grain runs.",
+  "caption": "1. Plan some designs and decide which way the grain runs.",
+  "art": "A child sketching three beam designs on paper: a tube, a zigzag and a triangular tube, with arrows showing the grain."
+ },
+ {
+  "unit": "sci.materials.testing-materials.L3",
+  "key": "setup.e3.2",
+  "title": "The Width Test: does a strip twice as wide hold twice as much?",
+  "old_caption": "3. Add coins until it tears. Mark where each one tore.",
+  "caption": "3. Add coins until it tears. Note where each one tore.",
+  "art": "Six torn strips laid side by side on a table, each torn in a different place, with a number of coins written above each."
+ },
+ {
+  "unit": "sci.materials.testing-materials.L4",
+  "key": "setup.e1.1",
+  "title": "The Bounce Test: ten drops, four balls",
+  "old_caption": "2. Draw the four chits to set the order of the balls.",
+  "caption": "2. Pick the four chits to set the order of the balls.",
+  "art": "Four paper chits in a steel bowl, with a hand drawing one, and the four balls in a row beside the bowl."
+ },
+ {
+  "unit": "sci.materials.testing-materials.L4",
+  "key": "setup.a3.2",
+  "title": "The Eight Matchboxes: is your hand better than luck?",
+  "old_caption": "3. For luck, draw four slips from the bowl and count the red ones.",
+  "caption": "3. For luck, pick four slips from the bowl and count the red ones.",
+  "art": "A bowl with four red slips and four blue slips, and a hand drawing four slips."
+ },
+ {
+  "unit": "sci.materials.using-materials.L2",
+  "key": "setup.a4.0",
+  "title": "A Suit for a Superhero",
+  "old_caption": "1. Draw the superhero on a rainy hill.",
+  "caption": "1. Mazhai Rani rescues people on a rainy hill.",
+  "art": "A girl superhero standing on a wet, muddy hillside in the rain, with empty labels pointing to her boots, gloves, cape and hood."
+ },
+ {
+  "unit": "sci.materials.using-materials.L2",
+  "key": "setup.p1.2",
+  "title": "The Grip Map of Our Home",
+  "old_caption": "3. Day 3: draw one fix.",
+  "caption": "3. Day 3: write one fix.",
+  "art": "A small box on the map showing a rubber mat drawn on a wet bathroom floor."
+ },
+ {
+  "unit": "sci.materials.using-materials.L3",
+  "key": "setup.e2.2",
+  "title": "Does a Sweater Make Heat?",
+  "old_caption": "3. Draw a bar for each. Which lasted longest?",
+  "caption": "3. Put them in order. Which lasted longest?",
+  "art": "A child drawing a bar chart with four bars, the sock's bar much taller than the others."
+ },
+ {
+  "unit": "sci.materials.using-materials.L3",
+  "key": "setup.a3.2",
+  "title": "Take It Apart",
+  "old_caption": "3. Draw the parts spread out. Label each material and its job.",
+  "caption": "3. Lay the parts out. Label each material and its job.",
+  "art": "A child's exploded drawing of an umbrella, with the cloth, ribs, spring and handle spread out and labelled with arrows."
+ },
+ {
+  "unit": "sci.materials.using-materials.L4",
+  "key": "setup.a2.0",
+  "title": "Follow a Thing: from the ground to the bin",
+  "old_caption": "1. Choose an object and draw four boxes in a circle.",
+  "caption": "1. Choose an object and lay four sheets of paper in a circle.",
+  "art": "A katori on a table beside a drawing of a circle with four boxes: ground, factory, kitchen and scrapyard."
+ },
+ {
+  "unit": "sci.materials.using-materials.L4",
+  "key": "setup.a2.1",
+  "title": "Follow a Thing: from the ground to the bin",
+  "old_caption": "2. Fill in each box with what you know and what you can find out.",
+  "caption": "2. Write notes on each sheet about what you know and what you can find out.",
+  "art": "A child writing notes under each box, with a grown-up answering questions."
+ },
+ {
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "key": "setup.a1.1",
+  "title": "The Journey Backwards",
+  "old_caption": "2. Draw each one's journey backwards, box by box.",
+  "caption": "2. Lay out each one's journey backwards, slip by slip.",
+  "art": "A child drawing a chain of boxes with arrows on paper: a spoon, a factory, a furnace, a mine, a rock."
+ },
+ {
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "key": "setup.a2.2",
+  "title": "Nature or People? The Three-Heap Walk",
+  "old_caption": "3. Count each heap and draw a bar chart.",
+  "caption": "3. Count each heap and line the things up as a bar chart.",
+  "art": "A child drawing three bars on paper, one for each heap, with tally marks above."
+ },
+ {
+  "unit": "sci.microorganisms.germs.L3",
+  "key": "setup.a4.1",
+  "title": "Germ Paths in Our Flat",
+  "old_caption": "2. Draw them and star one to break.",
+  "caption": "2. Show them and star one to break.",
+  "art": "A child's drawing of a flat with coloured marks on the fridge handle, a water pot and a balcony tray, and a star on one."
+ },
+ {
+  "unit": "sci.microorganisms.germs.L5",
+  "key": "setup.a4.1",
+  "title": "The Clinic Register: which chart shows a catching illness?",
+  "old_caption": "2. Draw a bar for each number. Draw all three charts.",
+  "caption": "2. Draw a bar for each number of chart X. Show the shape of Y and Z with your hand.",
+  "art": "Three bar charts side by side on squared paper: one rising and falling, one flat and one rising and falling over weeks."
+ },
+ {
+  "unit": "sci.microorganisms.helpful-microbes.L5",
+  "key": "setup.a4.1",
+  "title": "The Preserving Map of India",
+  "old_caption": "2. Draw each food where it is made. Write its hurdle.",
+  "caption": "2. Put each food's slip where it is made. Write its hurdle.",
+  "art": "The map with small drawings placed on it: a string of dried vegetables at the top, a pickle jar in the south-east, drying fish on the south-west coast."
+ },
+ {
+  "unit": "sci.microorganisms.microbes-everywhere.L2",
+  "key": "setup.a2.0",
+  "title": "Microbe Map of Our Flat",
+  "old_caption": "1. Draw a map of your home.",
+  "caption": "1. Get a pile of stickers or paper scraps.",
+  "art": "A child drawing a simple map of a flat on a big sheet of paper, with boxes for the kitchen, a bedroom, a bathroom and a balcony."
+ },
+ {
+  "unit": "sci.microorganisms.microbes-everywhere.L2",
+  "key": "setup.a2.1",
+  "title": "Microbe Map of Our Flat",
+  "old_caption": "2. Put a dot wherever microbes live, then count the dots.",
+  "caption": "2. Put a sticker wherever microbes live, then count the stickers.",
+  "art": "The same map covered with red dots at the door handle, the tap, a flower pot, a katori of curd and a toothbrush."
+ },
+ {
+  "unit": "sci.microorganisms.microbes-everywhere.L2",
+  "key": "setup.p1.1",
+  "title": "The Curd Chain: one starter for a whole week",
+  "old_caption": "2. Each night, use a spoon of today's curd to set tomorrow's. Add a ring.",
+  "caption": "2. Each night, use a spoon of today's curd to set tomorrow's. Add a link.",
+  "art": "A paper chart with six rings joined in a chain, each with a word like thick or soft and a little face."
+ },
+ {
+  "unit": "sci.microorganisms.parasites.L3",
+  "key": "setup.a1.1",
+  "title": "How Small? A parasite size line",
+  "old_caption": "2. Draw each parasite beside the seed of the same size.",
+  "caption": "2. Put each parasite's name slip beside the seed of the same size.",
+  "art": "A notebook page with a line from small to big: a nit, a louse, a flea, a tick, a mosquito, a threadworm and a long roundworm, each drawn beside a seed or a ruler mark."
+ },
+ {
+  "unit": "sci.nothing-and-forever.zero.L3",
+  "key": "setup.p1.0",
+  "title": "Zero's journey: a map and a timeline",
+  "old_caption": "1. Day 1: draw zero's story on a timeline.",
+  "caption": "1. Day 1: lay out zero's story on a timeline.",
+  "art": "A long paper timeline on the floor with small drawings: a clay tablet, an astronomer, a carved stone, a book."
+ },
+ {
+  "unit": "sci.nothing-and-forever.zero.L3",
+  "key": "setup.p1.1",
+  "title": "Zero's journey: a map and a timeline",
+  "old_caption": "2. Day 2: draw the map of zero's journey and its names.",
+  "caption": "2. Day 2: follow zero's journey on a map, with its names.",
+  "art": "A hand-drawn map with arrows from India to Baghdad to Italy and the words shunya, sifr, zephirum, zero."
+ },
+ {
+  "unit": "sci.order-chaos.order-and-chaos.L2",
+  "key": "setup.a1.1",
+  "title": "Shake and Tip: can the beans land the same way twice?",
+  "old_caption": "2. Tip them onto a plate. Draw where they are.",
+  "caption": "2. Tip them onto a plate. Take a photo of where they are.",
+  "art": "Rajma beans scattered unevenly across a steel plate next to a tipped tumbler."
+ },
+ {
+  "unit": "sci.patterns-symmetry.fractals-and-spirals.L3",
+  "key": "setup.a4.1",
+  "title": "Draw a Fractal Tree and a Triangle of Triangles",
+  "old_caption": "2. Draw a triangle. Colour the corners. Repeat inside each.",
+  "caption": "2. Make a triangle of 3 beans. Copy it three times. Repeat.",
+  "art": "A Sierpinski triangle in colour pencil, three levels deep, with the middle triangles left white."
+ },
+ {
+  "unit": "sci.patterns-symmetry.fractals-and-spirals.L3",
+  "key": "setup.a5.0",
+  "title": "Grow a Shell Spiral on Squared Paper",
+  "old_caption": "1. Draw squares of 1, 1, 2, 3, 5 and 8 boxes.",
+  "caption": "1. Lay out squares of 1, 1, 2, 3, 5 and 8 boxes.",
+  "art": "Squared paper with squares of side 1, 1, 2, 3, 5 and 8 boxes fitted together, each labelled."
+ },
+ {
+  "unit": "sci.patterns-symmetry.symmetry-in-nature.L3",
+  "key": "setup.e2.2",
+  "title": "Cut Across and Count: do fruits repeat their pattern?",
+  "old_caption": "3. Draw each one and write the number.",
+  "caption": "3. Write the number for each one.",
+  "art": "A notebook table with drawings of a bhindi, lemon and cucumber cut across, and numbers written beside each."
+ },
+ {
+  "unit": "sci.patterns-symmetry.symmetry-in-nature.L3",
+  "key": "setup.a5.1",
+  "title": "My Two Halves: how even is my body?",
+  "old_caption": "2. Draw round both feet and measure them.",
+  "caption": "2. Measure each foot from heel to longest toe.",
+  "art": "A child drawing round both feet on a sheet of paper and measuring each outline."
+ },
+ {
+  "unit": "sci.planet-earth.maps-and-directions.L3",
+  "key": "setup.a1.0",
+  "title": "The View From Above: what do things look like to a bird?",
+  "old_caption": "1. Draw the things from the side.",
+  "caption": "1. Look at the things from the side.",
+  "art": "A girl sitting at table height drawing a steel tumbler, a book and a banana from the side."
+ },
+ {
+  "unit": "sci.planet-earth.maps-and-directions.L3",
+  "key": "setup.c2.1",
+  "title": "Steer the Toy Car: directions on a tile grid",
+  "old_caption": "2. Plan the route on a grid.",
+  "caption": "2. Plan the route along the tiles.",
+  "art": "A squared-paper grid with a dotted route around two blocks and the instructions written beside it."
+ },
+ {
+  "unit": "sci.planet-earth.rocks.L2",
+  "key": "setup.e1.1",
+  "title": "The Tiffin Test: which rock pieces lose their corners?",
+  "old_caption": "2. Draw one piece from each heap.",
+  "caption": "2. Feel one piece from each heap. Is it sharp?",
+  "art": "A child drawing one chalk piece on a sheet, showing its sharp corners."
+ },
+ {
+  "unit": "sci.planet-earth.rocks.L2",
+  "key": "setup.a2.1",
+  "title": "Specks in the Stone: a close look at granite",
+  "old_caption": "2. Draw a small patch, and colour each kind of grain.",
+  "caption": "2. Count the grains in a small patch. You can also draw them.",
+  "art": "A child's drawing of a square full of black, white, pink and grey grains."
+ },
+ {
+  "unit": "sci.planet-earth.rocks.L2",
+  "key": "setup.a3.1",
+  "title": "Rocks of India: make a map",
+  "old_caption": "2. Stick each label in its place and draw what was built.",
+  "caption": "2. Stick each label in its place.",
+  "art": "A child sticking a label on Tamil Nadu, with a tiny temple drawn beside it."
+ },
+ {
+  "unit": "sci.plants.photosynthesis.L4",
+  "key": "setup.g1.0",
+  "title": "Dawn Patrol: keep the pond alive for six days",
+  "old_caption": "1. Draw a pond. Put in 8 oxygen, 2 plants and 3 fish.",
+  "caption": "1. Use a sheet of paper as the pond. Put in 8 oxygen, 2 plants and 3 fish.",
+  "art": "A drawn pond on a sheet of paper with 8 blue paper squares for oxygen, 2 green paper leaves for plants and 3 paper fish."
+ },
+ {
+  "unit": "sci.plants.plant-parts.L3",
+  "key": "setup.a2.1",
+  "title": "Leaf Detective Album",
+  "old_caption": "2. Tape each leaf down. Fold one to check its halves. Draw its veins.",
+  "caption": "2. Tape each leaf down. Fold one to check its halves. Look at its veins.",
+  "art": "A notebook page with a leaf taped down, a folded leaf beside it, and three words written underneath."
+ },
+ {
+  "unit": "sci.plants.plant-parts.L3",
+  "key": "setup.a2.2",
+  "title": "Leaf Detective Album",
+  "old_caption": "3. Give each leaf a pet name. Draw a map of where you found it.",
+  "caption": "3. Give each leaf a pet name. Write where you found it.",
+  "art": "A hand-drawn map of a street with little leaf drawings where each one was found, and pet names beside them."
+ },
+ {
+  "unit": "sci.plants.plant-parts.L3",
+  "key": "setup.g2.1",
+  "title": "Build a Plant to Survive",
+  "old_caption": "2. Choose one root, one stem and one leaf. Draw your plant.",
+  "caption": "2. Choose one root, one stem and one leaf. Line them up as your plant.",
+  "art": "A child drawing an invented spiny desert plant with a long root on a printed sheet."
+ },
+ {
+  "unit": "sci.plants.plant-variety.L5",
+  "key": "setup.a3.0",
+  "title": "Draw the Family Tree from Clues",
+  "old_caption": "1. Draw nested circles, one for each feature.",
+  "caption": "1. Make nested loops, one for each feature.",
+  "art": "Five big nested circles drawn on paper, each labelled with a feature, with a mango drawn in the smallest one."
+ },
+ {
+  "unit": "sci.plants.what-plants-need.L2",
+  "key": "setup.a1.1",
+  "title": "Which Way Do Our Plants Lean?",
+  "old_caption": "2. Draw the room, the window, and an arrow for each plant.",
+  "caption": "2. Point your arm the way each plant leans. Count how many lean to a window.",
+  "art": "A child's drawing of a room with a window and three plants, each with an arrow pointing to the window."
+ },
+ {
+  "unit": "sci.plants.what-plants-need.L2",
+  "key": "setup.a3.0",
+  "title": "My Plant's Five Needs: a map on a sheet",
+  "old_caption": "1. Draw your plant in the middle.",
+  "caption": "1. Put your plant in the middle of the sheet.",
+  "art": "A child drawing a pot plant in the middle of a big paper sheet."
+ },
+ {
+  "unit": "sci.plants.what-plants-need.L4",
+  "key": "setup.a2.2",
+  "title": "Who Lives in the Soil? A spoonful of life (if you have a garden or a park nearby)",
+  "old_caption": "3. Draw and count what you find. Put the creatures back.",
+  "caption": "3. Sort and count what you find. Put the creatures back.",
+  "art": "A notebook page with drawings of an ant, a mite, a springtail, a small worm and a millipede, each with a tally."
+ },
+ {
+  "unit": "sci.seeds-and-life-cycles.plant-life-cycle.L5",
+  "key": "setup.c1.0",
+  "title": "Fit the Plant to the Field: two fields, two plants",
+  "old_caption": "1. Draw the low field and the high field.",
+  "caption": "1. Label the low field and the high field.",
+  "art": "Two small drawn fields on paper, the low one marked with a wavy river line and the high one marked with a tree."
+ },
+ {
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "key": "setup.a1.2",
+  "title": "Open a Seed: find the baby plant and their food store",
+  "old_caption": "3. Find the tiny baby plant at the edge. Draw it and label it.",
+  "caption": "3. Find the tiny baby plant at the edge. Point to it and name it.",
+  "art": "A magnifying glass over one half of a split bean, showing a tiny baby plant with a pointed root and two small folded leaves."
+ },
+ {
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "key": "setup.c2.0",
+  "title": "Seeds for the Moon Base",
+  "old_caption": "1. Draw your Moon seed kit.",
+  "caption": "1. Plan your Moon seed kit: sketch or tell your plan.",
+  "art": "A child drawing a plan of a sealed seed box with compartments for dry seeds, water, air and a warm cover."
+ },
+ {
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L5",
+  "key": "setup.a3.0",
+  "title": "Four Days, Four Drawings: what happens inside a waking chana?",
+  "old_caption": "1. Day 1: draw and measure a dry chana. Soak 7 overnight.",
+  "caption": "1. Day 1: look at and measure a dry chana. Soak 7 overnight.",
+  "art": "A dry kabuli chana beside a ruler, with its small pointed beak facing right."
+ },
+ {
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L5",
+  "key": "setup.a3.3",
+  "title": "Four Days, Four Drawings: what happens inside a waking chana?",
+  "old_caption": "4. Draw what you find each day, and label the parts.",
+  "caption": "4. Draw or photograph what you find on days 2 and 4, and label the parts.",
+  "art": "A notebook page with four labelled drawings in a row, from dry seed to seedling."
+ },
+ {
+  "unit": "sci.senses.five-senses.L4",
+  "key": "setup.a3.0",
+  "title": "Bouba or Kiki: do sounds have shapes?",
+  "old_caption": "1. Draw one soft round shape and one sharp spiky shape. Do not name them.",
+  "caption": "1. Make one soft round shape and one sharp spiky shape. Do not name them.",
+  "art": "Two sheets of paper side by side, one with a soft round cloud shape and one with a sharp spiky star, each with no name on it."
+ },
+ {
+  "unit": "sci.senses.five-senses.L4",
+  "key": "setup.c1.1",
+  "title": "Pulse Talk: send a message using only touch",
+  "old_caption": "2. Draw your code on paper before you start. A grid code uses a row number and a column number.",
+  "caption": "2. Write your code on paper before you start. A grid code uses a row number and a column number.",
+  "art": "A paper with a 5 by 5 grid of letters on it, and two numbers beside a letter, showing a row and a column."
+ },
+ {
+  "unit": "sci.senses.more-senses.L3",
+  "key": "setup.c1.0",
+  "title": "Guard the Feet: help someone who has lost the sense of pain in their feet",
+  "old_caption": "1. List the dangers and draw two ideas.",
+  "caption": "1. List the dangers and think of two ideas.",
+  "art": "A child drawing two foot-guard ideas on paper, a hand mirror and an old chappal beside her."
+ },
+ {
+  "unit": "sci.senses.more-senses.L4",
+  "key": "setup.p1.2",
+  "title": "Family Balance Lab: three days, eight people",
+  "old_caption": "3. Find the average for each test and draw four bars.",
+  "caption": "3. Find the average for each test and make four rows of coins.",
+  "art": "A bar chart on paper with four bars, one for each test, and a child colouring the longest bar."
+ },
+ {
+  "unit": "sci.senses.more-senses.L4",
+  "key": "setup.c2.1",
+  "title": "Heat Cloak: hide a warm tumbler from a pit viper",
+  "old_caption": "2. Draw the layers, and say what each layer does.",
+  "caption": "2. Show the layers, and say what each layer does.",
+  "art": "A drawing of layers of a cloak: foil, an air gap, cloth and the warm tumbler, with arrows for heat."
+ },
+ {
+  "unit": "sci.senses.perception.L4",
+  "key": "setup.a5.1",
+  "title": "One Room, Four Worlds",
+  "old_caption": "2. Draw one thing as an animal would sense that thing.",
+  "caption": "2. Tell or act out what one animal would notice.",
+  "art": "A girl drawing the room as a dog senses the room, with bright trails of smell rising from the food and the floor."
+ },
+ {
+  "unit": "sci.senses.perception.L4",
+  "key": "setup.c1.0",
+  "title": "Hide the Beetle: the best camouflage in plain view",
+  "old_caption": "1. Draw three beetle designs. Pick the best hiding place.",
+  "caption": "1. Plan three beetle designs. Pick the best hiding place.",
+  "art": "A child drawing three beetle designs on paper, one plain brown, one with stripes, one spotted, with a patterned cloth beside them."
+ },
+ {
+  "unit": "sci.sky.exploring-space.L3",
+  "key": "setup.e3.1",
+  "title": "Ice in the Crater: why the Moon's ice lasts in the shadows",
+  "old_caption": "2. Look every 5 minutes and draw both cubes.",
+  "caption": "2. Look every 5 minutes and check both cubes.",
+  "art": "The same two saucers 15 minutes later: the sunny one with a small sliver of ice in a puddle, the shaded one with a bigger cube."
+ },
+ {
+  "unit": "sci.sky.exploring-space.L3",
+  "key": "setup.c2.0",
+  "title": "Design a Moon Home that keeps its air in",
+  "old_caption": "1. Draw your Moon home, with an airlock.",
+  "caption": "1. Plan your Moon home, with an airlock.",
+  "art": "A child's drawing of a dome on grey Moon ground with two doors and a small room between them."
+ },
+ {
+  "unit": "sci.sky.history-of-astronomy.L4",
+  "key": "setup.g2.0",
+  "title": "Courtroom of the Sky: argue like an astronomer of the past",
+  "old_caption": "1. The judge reads a question. The witnesses take role cards.",
+  "caption": "1. The judge reads a question. The astronomers take role cards.",
+  "art": "A table with a pile of question cards, eight role cards laid out face up, and a child as the judge holding a pebble."
+ },
+ {
+  "unit": "sci.sky.history-of-astronomy.L4",
+  "key": "setup.p1.3",
+  "title": "A Pendulum on a Turntable: the idea behind Foucault's proof",
+  "old_caption": "4. Draw four stops. The table line turns, and the swing does not.",
+  "caption": "4. Turn four quarter turns. The table line turns, and the swing does not.",
+  "art": "Four drawings of the turntable from above at quarter turns, the table line rotating and the swing arrow staying the same."
+ },
+ {
+  "unit": "sci.sky.life-beyond-earth.L4",
+  "key": "setup.c1.1",
+  "title": "Catch the Plume: design a sampler to catch drops from a jet",
+  "old_caption": "2. Sketch three designs before building.",
+  "caption": "2. Plan three designs before building.",
+  "art": "Three drawn collector designs on paper: a flat card with a lip, a cone and a towel strip."
+ },
+ {
+  "unit": "sci.sky.moon-phases.L4",
+  "key": "setup.p1.1",
+  "title": "The Terminator Log: five evenings of the growing Moon",
+  "old_caption": "2. Draw the lit shape and mark the line between light and dark.",
+  "caption": "2. Take a photo or draw the lit shape and mark the line between light and dark.",
+  "art": "Five drawn Moons in a row from a thin crescent to a half Moon, with a dotted line marking the edge of the light on each."
+ },
+ {
+  "unit": "sci.sky.solar-system.L3",
+  "key": "setup.e2.2",
+  "title": "The Marble and the Missing Rim: what keeps a planet going round?",
+  "old_caption": "3. Watch where it goes at the gap. Draw a line to where it stopped.",
+  "caption": "3. Watch where it goes at the gap. Mark where it stopped.",
+  "art": "The marble leaving the plate at the gap and rolling off in a straight line, with a pencil line drawn from the gap to the spot where it stopped."
+ },
+ {
+  "unit": "sci.sky.solar-system.L4",
+  "key": "setup.c1.0",
+  "title": "Land on Mars: a parachute that hardly works",
+  "old_caption": "1. Sketch two ideas. Cut the parachute no wider than 15 centimetres.",
+  "caption": "1. Plan two ideas. Cut the parachute no wider than 15 centimetres.",
+  "art": "A child sketching two lander designs on paper: one with a small round parachute and one with a ring of cups under the tomato."
+ },
+ {
+  "unit": "sci.sky.solar-system.L5",
+  "key": "setup.a4.1",
+  "title": "Round or Lumpy: how wide must a world be to pull itself round?",
+  "old_caption": "2. Put the cards in order of width. Colour round and lumpy. Look for where they change.",
+  "caption": "2. Put the cards in order of width. Lumpy cards go in one row, round cards in another. Look for where they change.",
+  "art": "The same cards laid in a row from narrowest to widest, the lumpy ones shaded in one colour and the round ones in another, with a mixed patch in the middle."
+ },
+ {
+  "unit": "sci.sky.stargazing.L3",
+  "key": "setup.a3.1",
+  "title": "Krittika Round the World: one star cluster, many stories",
+  "old_caption": "2. Hear four stories about it, then draw your own.",
+  "caption": "2. Hear four stories about it, then make up your own.",
+  "art": "Four little panels round the cluster: six mothers with a baby, seven Greek sisters, seven sisters running across an Australian sky, and a Maori family greeting dawn."
+ },
+ {
+  "unit": "sci.sky.sun-moon-stars.L3",
+  "key": "setup.a4.0",
+  "title": "The Moon and the Wanderer: a five-night sky diary",
+  "old_caption": "1. Draw the skyline, the Moon and the bright dots.",
+  "caption": "1. Photograph or draw the skyline, the Moon and the bright dots.",
+  "art": "A child on a balcony at dusk drawing the skyline of buildings and a water tank, with a thin crescent Moon and one bright planet above."
+ },
+ {
+  "unit": "sci.sky.sun-moon-stars.L3",
+  "key": "setup.a4.1",
+  "title": "The Moon and the Wanderer: a five-night sky diary",
+  "old_caption": "2. Draw again at the same time and place each night.",
+  "caption": "2. Do it again at the same time and place each night.",
+  "art": "Five small drawings in a row showing the Moon growing fatter and moving across the sky, with the planet shifting a little."
+ },
+ {
+  "unit": "sci.sky.the-sun.L3",
+  "key": "setup.c2.2",
+  "title": "An Eclipse Party for the Whole Building",
+  "old_caption": "3. Draw your plan for the whole building.",
+  "caption": "3. Lay out your plan for the whole building.",
+  "art": "A child's drawing of a building terrace with people standing in groups around colanders and a sheet, and a grown-up beside the little ones."
+ },
+ {
+  "unit": "sci.sky.the-sun.L4",
+  "key": "setup.a1.1",
+  "title": "The Sun in Pictures: what do you notice?",
+  "old_caption": "2. Draw what you see and write three things you notice.",
+  "caption": "2. Point to three things you notice and say what they are.",
+  "art": "A child drawing the Sun on paper, with a ring round it and three notes."
+ },
+ {
+  "unit": "sci.sky.the-sun.L4",
+  "key": "setup.p1.0",
+  "title": "The Sunspot Diary: how long does the Sun take to turn?",
+  "old_caption": "1. Look at the Sun's picture. Copy the spot on to your circle.",
+  "caption": "1. Look at the Sun's picture. Mark a dot for the spot on your circle.",
+  "art": "A phone showing the Sun with a dark spot, beside a sheet of paper with a 10 centimetre circle and a pencil dot where the spot is."
+ },
+ {
+  "unit": "sci.sound.hearing.L4",
+  "key": "setup.a2.2",
+  "title": "The Paper Snail: build a model of the cochlea",
+  "old_caption": "3. Draw a high wave and a low wave.",
+  "caption": "3. Mark where a high sound and a low sound peak.",
+  "art": "The strip with two waves drawn on it, one peaking early and one peaking late."
+ },
+ {
+  "unit": "sci.sound.hearing.L4",
+  "key": "setup.c1.0",
+  "title": "A Doorbell Without Sound: tell someone who cannot hear that a visitor has come",
+  "old_caption": "1. Sketch two ideas for a doorbell without sound.",
+  "caption": "1. Think of two ideas for a doorbell without sound.",
+  "art": "A child sketching two doorbell ideas on paper: a flashing lamp and a string with a flag."
+ },
+ {
+  "unit": "sci.sound.volume-and-pitch.L5",
+  "key": "setup.a1.2",
+  "title": "Four Hums: can you change loudness and pitch separately?",
+  "old_caption": "3. Draw four boxes. Write two home sounds in each.",
+  "caption": "3. Fold a paper into four boxes. Put two home sounds in each.",
+  "art": "A square on paper divided into four boxes labelled quiet and low, loud and low, quiet and high, loud and high."
+ },
+ {
+  "unit": "sci.space-time.dimensions.L2",
+  "key": "setup.e1.2",
+  "title": "Slice and Trace: what flat shapes are hidden inside a solid?",
+  "old_caption": "3. Press the cut side on the paper. Draw round it.",
+  "caption": "3. Press a cucumber slice on the paper. Draw round it, or just line the slices up.",
+  "art": "A child pressing a potato slice flat on paper and drawing round it with a pencil."
+ },
+ {
+  "unit": "sci.space-time.space.L2",
+  "key": "setup.p1.1",
+  "title": "My Room Map: where things are and the space between",
+  "old_caption": "2. Add steps between things. Colour the empty space.",
+  "caption": "2. Add steps between things. Count the empty squares.",
+  "art": "The same map with arrows between the bed and the door marked '4 steps', and the empty floor coloured light blue."
+ },
+ {
+  "unit": "sci.space-time.time.L2",
+  "key": "setup.e2.0",
+  "title": "Which Way Does Time Go? The banana card test with your family",
+  "old_caption": "1. Draw four banana cards.",
+  "caption": "1. Make four banana cards.",
+  "art": "Four small cards: a whole banana, a banana half peeled, a banana half eaten, and only the peel."
+ },
+ {
+  "unit": "sci.space-time.time.L2",
+  "key": "setup.e2.2",
+  "title": "Which Way Does Time Go? The banana card test with your family",
+  "old_caption": "3. Draw an arrow for the way each person went.",
+  "caption": "3. Mark an arrow for the way each person went.",
+  "art": "A notebook page with arrows: three pointing right and one pointing left."
+ },
+ {
+  "unit": "sci.space-time.time.L2",
+  "key": "setup.a4.0",
+  "title": "Line or Wheel? Lay out your week two ways",
+  "old_caption": "1. Draw your week as a line.",
+  "caption": "1. Lay your week out as a line.",
+  "art": "A long strip of paper with seven boxes for the days of the week, each with a small drawing."
+ },
+ {
+  "unit": "sci.space-time.time.L2",
+  "key": "setup.a4.1",
+  "title": "Line or Wheel? Lay out your week two ways",
+  "old_caption": "2. Draw your week as a wheel.",
+  "caption": "2. Lay your week out as a wheel.",
+  "art": "A circle drawn round a steel plate, cut into seven slices like a wheel, one for each day."
+ },
+ {
+  "unit": "sci.states.dissolving.L4",
+  "key": "setup.a4.0",
+  "title": "Curd, Water or Nothing: what soothes a chilli?",
+  "old_caption": "1. Draw the order from the paper slips. The grown-up eats the first small piece of chilli. Score the heat.",
+  "caption": "1. Pick the order from the paper slips. The grown-up eats the first small piece of chilli. Score the heat.",
+  "art": "A grown-up holding a small piece of green chilli beside a glass of water and a bowl of curd, and a child holding a score sheet."
+ },
+ {
+  "unit": "sci.states.evaporation-and-condensation.L3",
+  "key": "setup.a5.1",
+  "title": "How Did Older Families Dry Clothes in the Monsoon?",
+  "old_caption": "2. Draw each way and write the science beside it.",
+  "caption": "2. Write each way and the science beside it.",
+  "art": "A notebook page with three drawings: a cloth spread on a line, a cloth near a warm stove, and a fan."
+ },
+ {
+  "unit": "sci.states.floating-and-sinking.L2",
+  "key": "setup.g1.0",
+  "title": "Float or Sink? Guess, then flip",
+  "old_caption": "1. Draw the board. Shuffle the cards.",
+  "caption": "1. Make the board. Shuffle the cards.",
+  "art": "A big sheet of paper, blue on top labelled FLOAT and brown below labelled SINK, with a pile of small cards beside it."
+ },
+ {
+  "unit": "sci.states.floating-and-sinking.L4",
+  "key": "setup.c1.0",
+  "title": "Cargo Ship: carry the most coins with one sheet of foil",
+  "old_caption": "1. Sketch some designs on paper.",
+  "caption": "1. Plan some designs. Sketch them or fold paper boats.",
+  "art": "A child sketching three boat designs on paper: a box, a catamaran with two hulls, and a round coracle."
+ },
+ {
+  "unit": "sci.states.particles.L4",
+  "key": "setup.a4.1",
+  "title": "Draw the Particles: six things and one rule book",
+  "old_caption": "2. Draw the particles in each box using the rules.",
+  "caption": "2. Draw or build the particles for each thing using the rules.",
+  "art": "A circle with particles drawn as dots in neat rows for a spoon, with a short arrow on each to show jiggle."
+ },
+ {
+  "unit": "sci.waste.compost-and-disposal.L3",
+  "key": "setup.a3.1",
+  "title": "Where Does Our Garbage Go?",
+  "old_caption": "2. Draw the journey of your garbage.",
+  "caption": "2. Follow the journey of your garbage on a map.",
+  "art": "A child's drawing of a path from a flat, to a cart, to a truck, to a big garbage hill and a compost plant."
+ },
+ {
+  "unit": "sci.waste.compost-and-disposal.L5",
+  "key": "setup.a5.0",
+  "title": "Where Did the Peel Go? Follow one banana peel four ways",
+  "old_caption": "1. Draw a peel in the middle and four boxes round it.",
+  "caption": "1. Put a peel in the middle and write four labelled boxes round it.",
+  "art": "A sheet of paper with a banana peel drawn in the middle and four empty boxes round it labelled 'compost pot', 'deep in a dump', 'street fire' and 'cow'."
+ },
+ {
+  "unit": "sci.waste.sorting-waste.L3",
+  "key": "setup.p1.1",
+  "title": "A Picture Sorting Guide for Our Building",
+  "old_caption": "2. Draw each thing in its column on a big sheet.",
+  "caption": "2. Put each thing in its column on a big sheet.",
+  "art": "A large poster with three coloured columns, WET in green, DRY in blue and DANGER with a red cross, filled with drawings."
+ },
+ {
+  "unit": "sci.waste.sorting-waste.L3",
+  "key": "setup.c2.1",
+  "title": "An Onam Sadya with No Mixed Waste",
+  "old_caption": "2. Draw a plan showing where each bin goes.",
+  "caption": "2. Make a plan showing where each bin goes.",
+  "art": "A child's drawn floor plan of a flat with a green bin, a blue box and a red-cross box marked in place."
+ },
+ {
+  "unit": "sci.water.water-sources-and-uses.L5",
+  "key": "setup.c2.2",
+  "title": "A Water Plan for a Small Island",
+  "old_caption": "3. Write how you would draw the well water so that it does not turn salty.",
+  "caption": "3. Write how you would pump the well water so that it does not turn salty.",
+  "art": "A drawing of a shallow well in sand with a thin layer of fresh water floating on blue salty water, and a note about pumping slowly."
+ },
+ {
+  "unit": "sci.weather.clouds-and-rain.L2",
+  "key": "setup.a2.1",
+  "title": "White or Grey? Sort today's clouds",
+  "old_caption": "2. Draw them. Count them in two boxes.",
+  "caption": "2. Sort them. Count them in two boxes.",
+  "art": "A sheet of paper divided into two boxes, 'white' and 'grey', with cloud drawings and tally marks in each."
+ },
+ {
+  "unit": "sci.weather.clouds-and-rain.L2",
+  "key": "setup.p1.0",
+  "title": "Grey Sky, Rainy Day? Four weeks of sky pictures",
+  "old_caption": "1. Each day, draw the sky in one box. Add a raindrop if it rained.",
+  "caption": "1. Each day, write G, W or C in one box. Add a raindrop if it rained.",
+  "art": "A notebook page with 7 small boxes, each with a quick crayon drawing of the sky, some with a little raindrop drawn in the corner."
+ },
+ {
+  "unit": "sci.weather.forecasting.L3",
+  "key": "setup.a3.2",
+  "title": "Six Out of Ten: what 'chance of rain' means",
+  "old_caption": "3. Draw a cloud or a sun for each pick. Count the rain days.",
+  "caption": "3. Write R or D for each pick. Count the rain days.",
+  "art": "A row of 10 boxes on paper, 7 with rain clouds and 3 with suns, drawn in pencil."
+ },
+ {
+  "unit": "sci.weather.forecasting.L3",
+  "key": "setup.a4.2",
+  "title": "Watch the Clouds Travel: a satellite film",
+  "old_caption": "3. Draw the clouds and an arrow. Make a forecast.",
+  "caption": "3. Point to the clouds and show which way they go. Make a forecast.",
+  "art": "A child's rough map of India with a cloud drawn over the sea and an arrow towards the coast."
+ },
+ {
+  "unit": "sci.weather.wind-and-air.L3",
+  "key": "setup.e1.2",
+  "title": "The Open Fridge: where does the air go?",
+  "old_caption": "3. Try the top and the middle. Draw an arrow for each.",
+  "caption": "3. Try the top and the middle. Watch the smoke each time.",
+  "art": "The same agarbatti held at the top of the open fridge, with the smoke drifting gently into the fridge."
+ },
+ {
+  "unit": "sci.weather.wind-and-air.L3",
+  "key": "setup.a3.2",
+  "title": "The Breeze in a Box: a model sea breeze",
+  "old_caption": "3. Draw the path of the air.",
+  "caption": "3. Point to the path of the air.",
+  "art": "A side drawing of the box with arrows: along the bottom from ice to hot cup, up over the hot cup, and back along the top."
+ },
+ {
+  "unit": "sci.weather.wind-and-air.L3",
+  "key": "setup.c2.1",
+  "title": "Let the Flat Breathe: cool a room without a fan",
+  "old_caption": "2. Draw a breeze plan and try it.",
+  "caption": "2. Plan the breeze on paper and try it.",
+  "art": "A plan of a flat from above, with arrows of air coming in a shady window and going out a window on the other side."
+ },
+ {
+  "unit": "sci.what-is-life.cells.L3",
+  "key": "setup.a1.2",
+  "title": "Zoom Walk: what do things look like up close?",
+  "old_caption": "3. Draw what changes. Say what you notice and wonder.",
+  "caption": "3. Sort the things into two piles. Say what you notice and wonder.",
+  "art": "A child's drawing split in two: a leaf as seen by eye, and the same leaf with net-like lines up close."
+ },
+ {
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "key": "setup.e1.2",
+  "title": "Sleeping Seeds: is a dry seed alive?",
+  "old_caption": "3. Each day, draw all three plates and measure the longest root.",
+  "caption": "3. Each day, look at all three plates and measure the longest root.",
+  "art": "The first plate on day 4, with white roots curling out of the seeds and a ruler laid beside the longest root."
+ },
+ {
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "key": "setup.a5.2",
+  "title": "Is My Toy Robot Alive?",
+  "old_caption": "3. Draw what the toy would need to be alive.",
+  "caption": "3. Look at the toy's crosses. What would it need to be alive?",
+  "art": "A child's drawing of a robot with extra parts labelled 'grows', 'finds its own food' and 'makes baby robots'."
+ },
+ {
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "key": "setup.c1.2",
+  "title": "Design a Life Detector for Mars",
+  "old_caption": "3. Draw your robot's tests, step by step.",
+  "caption": "3. Build or draw your robot's tests, step by step.",
+  "art": "A child's drawing of the robot with three labelled tests: 'add food, watch for gas', 'look for cells', 'heat, then test again'."
+ },
+ {
+  "unit": "sci.what-is-life.signs-of-life.L3",
+  "key": "setup.a6.0",
+  "title": "Who Eats What? Following food back to the Sun",
+  "old_caption": "1. Draw the Sun and six living things.",
+  "caption": "1. Write the Sun and six living things.",
+  "art": "A sheet of paper with small drawings of a Sun, a grass patch, a cow, a grasshopper, a crow, a mushroom and a child."
+ },
+ {
+  "unit": "sci.what-is-real.consciousness.L2",
+  "key": "setup.p1.1",
+  "title": "My Noticing Diary: five days, five senses",
+  "old_caption": "2. Each day, draw one new thing you noticed.",
+  "caption": "2. Each day, add one new thing you noticed: a drawing or a sentence.",
+  "art": "An open page with a drawing of a crack in a wall shaped like a river, and one sentence under it."
+ },
+ {
+  "unit": "sci.what-is-real.perception-and-reality.L2",
+  "key": "setup.a1.1",
+  "title": "Was It Real? Talk about a dream",
+  "old_caption": "2. Draw one picture from it.",
+  "caption": "2. Say in one word how it felt.",
+  "art": "The same girl drawing a tiger in a school corridor on a sheet of paper."
+ },
+ {
+  "unit": "sci.what-is-real.perception-and-reality.L2",
+  "key": "setup.p1.1",
+  "title": "My Book of Real Things I Cannot See",
+  "old_caption": "2. One page each day: the thing, the clue, a drawing.",
+  "caption": "2. One page each day: the thing and the clue.",
+  "art": "An open page showing a balloon drawing and the words 'I know air is inside because the balloon is fat'."
+ }
+]
