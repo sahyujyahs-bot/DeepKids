@@ -76,8 +76,7 @@ const dkViewPick = (sj) =>
           .join(""),
       )
     : "";
-const combinedBrowse = (sj) =>
-  ui.dkview === "topic" || !hasClassPlan(sj) ? fxTopicLadder(sj) : combinedTopicList(sj);
+const combinedBrowse = (sj) => (ui.dkview === "topic" || !hasClassPlan(sj) ? fxTopicLadder(sj) : combinedTopicList(sj));
 // every unit of a subject, one level at a time: pick a level, see its units by strand; any open unit can be added to the
 // plan alongside the class plan, and a count says how many more are coming
 function fxTopicLadder(sj) {

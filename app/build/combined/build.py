@@ -12,6 +12,9 @@ DATA = os.path.join(BUILD, 'data.json'); data = json.load(open(DATA))
 data['items'] = [i for i in data['items'] if i['board'] not in ('combined', 'unit')]
 for i in data['items']: (i.get('c') or {}).pop('units', None)   # rebuilt below, so reruns never stack
 have = {i['k'] for i in data['items']}
+def cdict(it):   # an item's content dict; board chapters of some subjects have none until a unit links to them
+    it['c'] = it.get('c') or {}
+    return it['c']
 PACKS = {}
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'combined', '*.json'))):
     e = check(f)
@@ -62,7 +65,7 @@ _fw = os.path.join(APP, 'content', 'curriculum', 'free_worksheets.json')
 for it in data['items']:
     (it.get('c') or {}).pop('more', None)
     for w in (json.load(open(_fw)) if os.path.exists(_fw) else {}).get(it.get('k'), []):
-        it.setdefault('c', {}).setdefault('more', []).append({k: w.get(k, '') for k in ('title', 'url', 'publisher', 'age', 'what')})
+        cdict(it).setdefault('more', []).append({k: w.get(k, '') for k in ('title', 'url', 'publisher', 'age', 'what')})
 SUBL = [x for c in CURS.values() for x in c['subtopic_levels']]
 SUB = {x['id']: x for x in SUBL}
 SUBI = {x['id']: i for i, x in enumerate(SUBL)}   # curriculum order
@@ -174,22 +177,21 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
         ik = chap.get(ck, {}).get('item')
         for it in data['items']:
             if it.get('k') == ik:
-                it.setdefault('c', {}).setdefault('units', [])
-                if ref not in it['c']['units']: it['c']['units'].append(ref)
+                if ref not in cdict(it).setdefault('units', []): it['c']['units'].append(ref)
     for ik, ids in TAGS.items():
         if u['id'] in ids:
             for it in data['items']:
-                if it.get('k') == ik and ref not in it.setdefault('c', {}).setdefault('units', []): it['c']['units'].append(ref)
+                if it.get('k') == ik and ref not in cdict(it).setdefault('units', []): it['c']['units'].append(ref)
     # 3. every Waldorf block that teaches it links to it (content/curriculum/waldorf_links.json)
     for wk, ids in WLINKS.items():
         if u['id'] in ids:
             for it in data['items']:
-                if it.get('k') == wk and ref not in it.setdefault('c', {}).setdefault('units', []): it['c']['units'].append(ref)
+                if it.get('k') == wk and ref not in cdict(it).setdefault('units', []): it['c']['units'].append(ref)
     for e in plan.get(t['subject'], {}).get(str(t['level']), []):
         if e['topic'] == slug(t['name']) or slug(e['title']) == slug(t['name']):
             e.setdefault('units', []).append({"id": u['id'], "title": u['title']})
             for it in data['items']:
-                if it.get('k') == e.get('k') and ref not in it['c'].setdefault('units', []): it['c']['units'].append(ref)
+                if it.get('k') == e.get('k') and ref not in cdict(it).setdefault('units', []): it['c']['units'].append(ref)
             break
     else:
         if t['subject'] in plan: print('no rung for unit', u['id'])   # a subject with no class plan (maths) is found by its topic ladder
@@ -218,7 +220,7 @@ for subj in plan:
                 e['units'] = refs
                 for it in data['items']:
                     if it.get('k') == e.get('k'):
-                        it.setdefault('c', {})['units'] = refs
+                        cdict(it)['units'] = refs
 print('units:', len(data['units']))
 # the welcome slides before log-in: one list (app/content/welcome.json), also copied next to the website's sign-in page
 data['welcome'] = json.load(open(os.path.join(APP, 'content', 'welcome.json')))
