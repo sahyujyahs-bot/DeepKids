@@ -1,0 +1,573 @@
+{
+ "id": "math.patterns.repeating-patterns.L1",
+ "title": "Repeating patterns: what comes next?",
+ "level": 1,
+ "cards_mins": 8,
+ "summary": {
+  "text": "Red, blue, red, blue, red. What comes next? You know before you see it. How? You will guess beans before they are put down, clap patterns, hunt for patterns at home and make a thoranam for your door. You will learn to find the part that repeats, carry a pattern on and spot a wrong piece. You will also find out that clap, stamp, clap, stamp and red, blue, red, blue are the same pattern.",
+  "art": "A girl on a kitchen floor guessing with one finger raised while her mother holds a bean hidden in her fist above a row of rajma and chana that take turns."
+ },
+ "intro": {
+  "hook": "What comes next: red or blue?",
+  "text": "Blue comes next. Red and blue are taking turns, and it is blue's turn. You knew that without seeing the next bead. That is what a pattern does: it tells you what is coming. In this unit you will test how much of a row you need to see before you can know the rest.",
+  "art": "A string of big red and blue beads taking turns, with the next bead hidden inside a closed hand.",
+  "chart": {
+   "type": "sum",
+   "rows": [
+    "🔴🔵🔴🔵🔴"
+   ],
+   "answer": "?"
+  }
+ },
+ "outcomes": [
+  "I can spot a repeating pattern and say what repeats.",
+  "I can say what comes next in a pattern, and how I know.",
+  "I can find the part that repeats and say how long it is.",
+  "I can copy a pattern, carry it on and make my own.",
+  "I can make the same pattern with different things: colours, shapes, sounds and movements.",
+  "I can find a wrong piece or a missing piece in a pattern."
+ ],
+ "terms": [
+  {
+   "term": "Pattern",
+   "meaning": "Things set out by a rule, so that you can tell what comes next.",
+   "example": "Red, blue, red, blue is a pattern. You can tell that red comes next.",
+   "art": "A row of red and blue beads taking turns, with an arrow pointing to an empty space at the end."
+  },
+  {
+   "term": "Repeat",
+   "meaning": "To do the same thing again.",
+   "example": "You clap, then you clap again. You have repeated the clap.",
+   "art": "Two pictures of the same pair of clapping hands, side by side."
+  },
+  {
+   "term": "Repeating pattern",
+   "meaning": "A pattern where one small part comes again and again, in the same order.",
+   "example": "Leaf, flower, leaf, flower, leaf, flower. The part leaf, flower comes three times.",
+   "art": "A string of mango leaves and marigolds taking turns across the top of a door."
+  },
+  {
+   "term": "Part that repeats",
+   "meaning": "The smallest group of things that makes the whole pattern when you do it again and again. Grown-ups also call it the unit of repeat.",
+   "example": "In red, red, blue, red, red, blue, the part that repeats is red, red, blue. It is 3 long.",
+   "art": "A row of six beads, red, red, blue, red, red, blue, with a loop drawn round the first three."
+  },
+  {
+   "term": "Rule",
+   "meaning": "What the maker of a pattern follows. It tells you which thing comes next.",
+   "example": "The rule 'leaf, leaf, flower, then start again' makes the row leaf, leaf, flower, leaf, leaf, flower.",
+   "art": "A small card showing leaf, leaf, flower, held above a longer row made from it."
+  },
+  {
+   "term": "Carry on",
+   "meaning": "To add more things to a pattern, keeping the same rule.",
+   "example": "The row is clap, stamp, clap, stamp. You carry it on with clap, stamp.",
+   "art": "A child adding two more beads to the end of a row that takes turns."
+  },
+  {
+   "term": "Beat",
+   "meaning": "One count in music. Beats come one after another at a steady speed, like footsteps.",
+   "example": "When you clap along to a song, each clap is on a beat.",
+   "art": "A child clapping while four evenly spaced dots run along a line under her."
+  },
+  {
+   "term": "Tala",
+   "meaning": "A repeating pattern of beats in Indian music. Singers keep it with claps, waves and finger counts.",
+   "example": "One way to keep the tala called Rupaka is clap, clap, wave, again and again.",
+   "art": "A singer sitting cross-legged, one hand clapping on her knee, then the same hand turned palm up in a wave."
+  },
+  {
+   "term": "Thoranam",
+   "meaning": "A string of leaves and flowers hung across the top of a door on festival days. It is also called a toran.",
+   "example": "A thoranam of mango leaves and marigolds: leaf, flower, leaf, flower.",
+   "art": "A doorway with a string of green mango leaves and orange marigolds hanging across the top."
+  },
+  {
+   "term": "Border",
+   "meaning": "A strip along the edge of something, often filled with a pattern.",
+   "example": "The border of a sari has the same small shape again and again, all the way along.",
+   "art": "The edge of a silk sari with one small temple shape repeated along it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What a repeating pattern is",
+   "status": "defined",
+   "context": "This card says what a repeating pattern is. You met one in Guess My Next Bean, when the beans took turns.",
+   "definition": "A repeating pattern is a row of things where one small part comes again and again, in the same order.",
+   "description": "Look at the row: red, blue, red, blue, red, blue. The part red, blue comes three times. Nothing else is in the row. That makes it a repeating pattern. A pattern does not have to be colours. It can be shapes, sounds, movements or days. Clap, stamp, clap, stamp is a repeating pattern. So is day, night, day, night. A row with no part that comes again is not a repeating pattern. Red, blue, green, yellow, pink has five colours and no repeat.",
+   "examples": [
+    "Leaf, flower, leaf, flower on a thoranam.",
+    "Black, yellow, black, yellow on the kerb stones along a road.",
+    "Tick, tock, tick, tock from a wall clock."
+   ],
+   "perspectives": [],
+   "art": "Six beads in a row, red and blue taking turns, with three loops drawn round the three red and blue pairs.",
+   "chart": {
+    "type": "table",
+    "title": "Red, blue comes three times",
+    "cols": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "rows": [
+     [
+      "🔴",
+      "🔵",
+      "🔴",
+      "🔵",
+      "🔴",
+      "🔵"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "The part that repeats",
+   "status": "defined",
+   "context": "This card shows how to find the part that repeats in a pattern. Once you have it, you know the whole pattern.",
+   "definition": "The part that repeats is the smallest group of things that makes the whole pattern when you do it again and again.",
+   "description": "Here is how to find it. Say the row aloud: red, red, blue, red, red, blue. Listen for where it starts again. It starts again after the blue. So the part that repeats is red, red, blue. It is 3 things long. Now check. Cover the first part with your hand. The rest of the row should begin in the same way. Always look for the smallest part. In a long red and blue row, red, blue, red, blue also comes again. But the smaller part, red, blue, already makes the whole row.",
+   "examples": [
+    "Clap, stamp, clap, stamp: the part is clap, stamp. It is 2 long.",
+    "Leaf, leaf, flower, leaf, leaf, flower: the part is leaf, leaf, flower. It is 3 long.",
+    "Monday to Sunday, then Monday again: the part is 7 days long."
+   ],
+   "perspectives": [],
+   "art": "A child's hand covering the first three beads of a row, with the next three beads showing the same red, red, blue.",
+   "chart": {
+    "type": "table",
+    "title": "The part is red, red, blue. It is 3 long.",
+    "cols": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "rows": [
+     [
+      "🔴",
+      "🔴",
+      "🔵",
+      "🔴",
+      "🔴",
+      "🔵"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "How to work out what comes next",
+   "status": "defined",
+   "context": "This card shows, step by step, how to find the next thing in a pattern. It uses a thoranam of leaves and flowers.",
+   "definition": "To find what comes next, find the part that repeats. Then see how far into the part the row has got.",
+   "description": "Here is a worked example. The row is leaf, leaf, flower, leaf, leaf, flower, leaf. Step 1: find the part that repeats. It is leaf, leaf, flower. Step 2: look at the end of the row. After the last flower there is one leaf. So the row is one step into a new part. Step 3: the second thing in the part is a leaf. So a leaf comes next, and after it a flower. A common slip is to look only at the last thing. The last thing is a leaf. But in this pattern a leaf is sometimes followed by a leaf and sometimes by a flower. You need the whole part to know.",
+   "examples": [
+    "Clap, stamp, clap, stamp, clap: the part is clap, stamp, so stamp comes next.",
+    "Red, blue, blue, red, blue: the part is red, blue, blue, so blue comes next.",
+    "Idli, idli, vada, idli, idli, vada: the part has ended, so it starts again with idli."
+   ],
+   "perspectives": [],
+   "art": "A thoranam with leaf, leaf, flower, leaf, leaf, flower, leaf on a string, and a child holding up a leaf and a flower, choosing.",
+   "chart": {
+    "type": "sum",
+    "title": "Leaf, leaf, flower. What comes next?",
+    "rows": [
+     "🍃🍃🌼🍃🍃🌼🍃"
+    ],
+    "answer": "?"
+   }
+  },
+  {
+   "concept": "The same pattern in different things",
+   "status": "defined",
+   "context": "In One Pattern, Four Ways you made one pattern with sounds, beans, shapes and your body. This card says what you found.",
+   "definition": "Two rows are the same pattern when their things take turns in the same way, even if the things are different.",
+   "description": "Clap, stamp, clap, stamp. Red, blue, red, blue. Circle, triangle, circle, triangle. Stand, squat, stand, squat. All four go like this: one thing, another thing, the first thing again, the other thing again. To check, do two of them together. Each time you clap, point at a red bead. Each time you stamp, point at a blue bead. If you reach the end without getting stuck, they are the same pattern. Grown-ups name patterns with letters. They call the first thing A and the second thing B. So all four rows are AB patterns. Clap, clap, stamp is an AAB pattern. Clap, stamp, pat is an ABC pattern.",
+   "examples": [
+    "Tick, tock, tick, tock and left foot, right foot, left foot, right foot are both AB patterns.",
+    "Rajma, rajma, chana and clap, clap, wave are both AAB patterns.",
+    "Red, blue, yellow and ta, ka, di have three different things each. Both are ABC patterns."
+   ],
+   "perspectives": [],
+   "art": "Four rows one above the other: clapping hands and feet, red and blue beads, circles and triangles, and a child standing and squatting, all lined up in columns.",
+   "chart": {
+    "type": "table",
+    "title": "Four rows, one pattern",
+    "cols": [
+     "Made with",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "rows": [
+     [
+      "sounds",
+      "👏",
+      "🦶",
+      "👏",
+      "🦶"
+     ],
+     [
+      "beads",
+      "🔴",
+      "🔵",
+      "🔴",
+      "🔵"
+     ],
+     [
+      "shapes",
+      "⚫",
+      "🔺",
+      "⚫",
+      "🔺"
+     ],
+     [
+      "letters",
+      "A",
+      "B",
+      "A",
+      "B"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "A part can have the same thing twice",
+   "status": "defined",
+   "context": "This card is about patterns like red, red, blue. In the bean test, the row rajma, rajma, chana was one of these.",
+   "definition": "A part that repeats can have the same thing in it twice. Red, red, blue is a different pattern from red, blue.",
+   "description": "In a red, blue pattern, the colour changes every time. In a red, red, blue pattern, it does not. Red comes twice, then blue comes once. What tells the two patterns apart is the part that repeats. Red, blue is 2 long. Red, red, blue is 3 long. Red, blue, blue is also 3 long. But it is a third pattern, because now blue is the one that comes twice. Patterns like these often catch people out at the second bead. They expect a change, and the same bean comes again.",
+   "examples": [
+    "Clap, clap, wave: the clap comes twice.",
+    "Idli, idli, vada on a plate, again and again.",
+    "Step, step, hop: two steps and then one hop."
+   ],
+   "perspectives": [],
+   "art": "Three short rows of beads one above the other: red and blue taking turns, then red, red, blue, then red, blue, blue.",
+   "chart": {
+    "type": "table",
+    "title": "Three different patterns",
+    "cols": [
+     "Part",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "rows": [
+     [
+      "red, blue",
+      "🔴",
+      "🔵",
+      "🔴",
+      "🔵",
+      "🔴"
+     ],
+     [
+      "red, red, blue",
+      "🔴",
+      "🔴",
+      "🔵",
+      "🔴",
+      "🔴"
+     ],
+     [
+      "red, blue, blue",
+      "🔴",
+      "🔵",
+      "🔵",
+      "🔴",
+      "🔵"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "Finding a wrong piece or a missing piece",
+   "status": "defined",
+   "context": "This card shows, step by step, how to find a piece that does not belong in a pattern. You do this in the game Pattern Train.",
+   "definition": "A wrong piece is one that does not fit the part that repeats. You find it by saying the part again and again along the row.",
+   "description": "Here is a worked example. The row is red, blue, red, blue, blue, blue. Step 1: find the part from the start of the row. It is red, blue. Step 2: touch each bead and say the part over and over: red, blue, red, blue, red, blue. Step 3: stop where your word and the bead do not match. At place 5 you say red, but the bead is blue. Place 5 has the wrong piece. A missing piece is found in the same way. Say the part along the row. The word you say at the gap is the missing piece.",
+   "examples": [
+    "Leaf, flower, leaf, leaf, leaf, flower: place 4 should be a flower.",
+    "Clap, stamp, clap, (gap), clap, stamp: the gap should be a stamp.",
+    "Tick, tock, tick, tick: the last sound should be tock."
+   ],
+   "perspectives": [],
+   "art": "A finger touching the fifth bead of a row, red, blue, red, blue, blue, blue, with a speech bubble saying 'red?'.",
+   "chart": {
+    "type": "table",
+    "title": "Say red, blue along the row. Where does it stop matching?",
+    "cols": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "rows": [
+     [
+      "🔴",
+      "🔵",
+      "🔴",
+      "🔵",
+      "🔵",
+      "🔵"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "Patterns in time: day and night, the week, the year",
+   "status": "defined",
+   "context": "This card is about patterns you cannot hold in your hand, because they happen in time. Day and night is the biggest one you know.",
+   "definition": "A pattern in time is something that happens again and again, in the same order.",
+   "description": "Day, night, day, night is a repeating pattern. It happens because the Earth is a ball that spins. One full spin takes about 24 hours. When your side of the Earth faces the Sun, it is day. When your side faces away, it is night. The days of the week are a pattern with a part 7 long: Monday to Sunday, then Monday again. People chose to have 7 days in a week. The Earth did not choose it. The year is a pattern too. The Earth goes once round the Sun in about 365 days. So the hot months and the rains come back every year. These patterns are not perfectly even. The light part of the day is a little longer in summer than in winter. We still call each one a day.",
+   "examples": [
+    "Your heart: lub, dub, lub, dub.",
+    "Your breath: in, out, in, out.",
+    "Breakfast, lunch, dinner, then breakfast again."
+   ],
+   "perspectives": [],
+   "art": "The Earth as a ball, half lit by the Sun and half dark, with a small arrow showing it spinning and a tiny house passing from the lit side to the dark side.",
+   "chart": {
+    "type": "strip",
+    "title": "One spin of the Earth",
+    "rows": [
+     {
+      "label": "half the Earth has day, half has night",
+      "parts": 2,
+      "shaded": 1,
+      "round": true
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Other living beings make patterns too",
+   "status": "defined",
+   "context": "People are not the only ones who make repeating patterns. This card tells you about two birds, an insect and a plant who do.",
+   "definition": "Many living beings make repeating patterns with their voices, their lights and their bodies.",
+   "description": "A coppersmith barbet is a small green bird with a red forehead, who lives in many Indian towns. They call tuk, tuk, tuk at a steady speed, about two tuks each second. One call can go on for as many as two hundred tuks. A common hawk-cuckoo, also called the brainfever bird, sings a call of three notes. They repeat it five or six times, louder each time, and then stop suddenly. Fireflies make patterns with light. Each kind of firefly flashes in a pattern of their own. That is how fireflies of one kind find each other in the dark. Plants make patterns as they grow. A rice plant or a maize plant puts out one leaf on one side, the next leaf on the other side, and so on up the stem: left, right, left, right.",
+   "examples": [
+    "A barbet's call: tuk, tuk, tuk, tuk.",
+    "A hawk-cuckoo's call: three notes, then the same three notes again, louder.",
+    "A maize plant's leaves: left, right, left, right."
+   ],
+   "perspectives": [
+    {
+     "who": "What the barbet is doing",
+     "explanation": "The barbet keeps a steady beat for minutes at a time, as a drummer does. Other barbets hear the call and know who is there."
+    },
+    {
+     "who": "Some scientists",
+     "explanation": "They say the call is an automatic habit of the bird's body, and that the bird is not making a pattern on purpose."
+    }
+   ],
+   "art": "A small green bird with a red forehead on a bare branch, beak open, with a row of evenly spaced marks labelled tuk, tuk, tuk coming from the beak.",
+   "chart": {
+    "type": "table",
+    "title": "The barbet's call, three seconds of it",
+    "cols": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "rows": [
+     [
+      "tuk",
+      "tuk",
+      "tuk",
+      "tuk",
+      "tuk",
+      "tuk"
+     ]
+    ]
+   }
+  },
+  {
+   "concept": "Can you ever be sure what comes next?",
+   "status": "debated",
+   "context": "This card asks an honest question about every 'what comes next?' puzzle. It is about who decides the answer.",
+   "definition": "A few beads can fit more than one rule. The maker of the pattern is the one who knows the rule.",
+   "description": "You see red, blue, red, blue. What comes next? Almost everyone says red. That is the best guess. The simplest rule that fits is red, blue, again and again. But another rule also fits what you have seen: red, blue, red, blue, green, and then all five again. With that rule, green comes next. So a few beads fit more than one rule. Only the maker knows which rule she is using. The more of the row you see, the safer your guess becomes. In school questions, people agree to pick the simplest rule.",
+   "examples": [
+    "Red, blue, red, blue, then green: the part could be 5 long.",
+    "Idli on Monday, dosa on Tuesday, idli on Wednesday. Will Thursday be dosa? Only the cook knows."
+   ],
+   "perspectives": [
+    {
+     "who": "Most school books",
+     "explanation": "There is one right answer. Find the smallest part that repeats and carry it on."
+    },
+    {
+     "who": "Many mathematicians",
+     "explanation": "Any rule that fits the beads you have seen is allowed. Picking the simplest rule is a sensible habit that people agreed on. It is not a law."
+    }
+   ],
+   "art": "A row of red, blue, red, blue beads and two thought bubbles above the empty next place, one with a red bead and one with a green bead.",
+   "chart": {
+    "type": "sum",
+    "title": "Red? Or something else?",
+    "rows": [
+     "🔴🔵🔴🔵"
+    ],
+    "answer": "?"
+   }
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Once you know the part that repeats, you can say what comes next without seeing it.",
+   "evidence": "In Guess My Next Bean, the crosses come at the start of each row. After the part has come round twice, careful guessers get every bean right."
+  },
+  {
+   "text": "The same pattern can be made with sounds, colours, shapes or movements.",
+   "evidence": "In One Pattern, Four Ways, you clap and stamp while pointing along a row of beans. Every clap lands on one kind of bean and every stamp on the other, with nothing left over."
+  },
+  {
+   "text": "Day and night take turns because the Earth spins.",
+   "evidence": "Astronauts and satellites watch the Earth turn. One full turn takes about 24 hours. As the Earth turns, the line between day and night moves across the land."
+  },
+  {
+   "text": "Small children who are good with patterns tend to do well in maths when they are older.",
+   "evidence": "Researchers in the USA followed 517 children from age 4 to age 11. How well a child did with patterns at age 4 helped to predict that child's maths marks in Class 5 (Rittle-Johnson and others, 2017). This does not prove that playing with patterns causes the better marks."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "If a row goes red, blue, red, blue, the next bead must be red.",
+   "who": "Most pattern worksheets",
+   "context": "This card looks at a claim that sounds certain. It asks whether a few beads are enough to be sure.",
+   "for": "Red is the simplest way to carry the row on. It is the answer nearly everyone expects.",
+   "against": "Four beads fit more than one rule. The maker could be using red, blue, red, blue, green. Red is the best guess, but only the maker knows the rule.",
+   "status": "debated"
+  },
+  {
+   "claim": "Patterns are only for decoration. They are not real maths.",
+   "who": "Many grown-ups",
+   "context": "This card is about a common idea: that borders and bead rows are art work, and maths begins with numbers.",
+   "for": "Borders, rangoli and thoranams are made to look good. Nobody needs numbers to enjoy them.",
+   "against": "The English mathematician G. H. Hardy wrote in 1940 that a mathematician is 'a maker of patterns'. Finding the part that repeats, and using it to say what comes next, is the same thinking a child later uses in times tables and algebra.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Nothing ever really repeats, because no two things are exactly the same.",
+   "who": "An idea that follows from Heraclitus, a Greek thinker of about 2,500 years ago, who said that everything keeps changing",
+   "context": "This card asks whether a repeat is ever a true repeat. It matters, because every pattern is built from repeats.",
+   "for": "No two marigolds are the same size. No two claps are equally loud. Today is not the same as yesterday.",
+   "against": "A pattern does not need its things to be exactly alike. It needs us to agree what counts as the same: any marigold is a flower, any clap is a clap. With that agreement, a pattern tells us what comes next, and the guess comes true.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "How many beads do you need to see before you can call a row a pattern?",
+   "kind": "deep",
+   "hint": "Is one red and one blue enough? What about red, blue, red?"
+  },
+  {
+   "q": "Is clap, clap, clap, clap a pattern? What is the part that repeats?",
+   "kind": "deep",
+   "hint": "Can a part be just one thing?"
+  },
+  {
+   "q": "Can two people look at the same row and find different parts that repeat?",
+   "kind": "deep",
+   "hint": "Look at blue, red, blue, red, blue, red. Now cover the first bead. What does the row look like?"
+  },
+  {
+   "q": "Why does it feel good to know what comes next?",
+   "kind": "big",
+   "hint": "Think of a song you know well, or a story you have heard many times."
+  },
+  {
+   "q": "What would life be like if day and night did not take turns?",
+   "kind": "big",
+   "hint": "When would you sleep? When would the birds sing?"
+  },
+  {
+   "q": "Does a barbet know they are making a pattern?",
+   "kind": "big",
+   "hint": "How could you find out? What would you watch for?"
+  }
+ ],
+ "roots": {
+  "context": "We guessed beans, clapped, hunted for patterns and made a thoranam. Now let us think about what a pattern really is.",
+  "deep_truth": {
+   "truth": "In One Pattern, Four Ways, you clapped and stamped, then laid rajma and chana in the same way. A clap is nothing like a bean. Still, you called them the same pattern. So a pattern is not the things. It is the way the things take turns.",
+   "habit": "We think a pattern is made of its things: these colours, these beads. But you can swap every thing for another, and the pattern is still there. And we are the ones who say the two rows are the same.",
+   "evidence": "In One Pattern, Four Ways, one pattern was made with claps, beans, drawn shapes and your body. In Guess My Next Bean, you knew the next bean from the turns, before you saw it."
+  },
+  "three": {
+   "who_am_i": "Your heart goes lub, dub, lub, dub. Your feet go left, right, left, right. You are full of patterns. You are also the one who notices them.",
+   "what_is_life": "Many living beings make patterns. A coppersmith barbet calls tuk, tuk, tuk. A rice plant puts out leaves left, right, left, right.",
+   "what_is_this_world": "Day follows night again and again, because the Earth keeps turning. But no two days are exactly alike. We choose to call each one a day."
+  },
+  "thread": "Start with one thing: a clap. Do it again, and now there is a repeat. Put a stamp in between, and there is a pattern. From that one small part, a row can go on as long as you like. A long thoranam, a whole song and a year of days all grow from one small part, done again and again.",
+  "teachings": [
+   {
+    "source": "Bhagavad Gita 8.19",
+    "teaching": "The Gita says that the whole crowd of living beings comes out when Brahma's day begins and melts away when the night comes, again and again.",
+    "link": "This is day and night seen as one huge repeating pattern. The same part, day and then night, comes round again and again."
+   },
+   {
+    "source": "Ecclesiastes 1:5",
+    "teaching": "This old Hebrew book says that the sun rises and the sun goes down, and hurries back to the place where it rises.",
+    "link": "People far from India watched the same pattern in the sky long ago, and wrote it down."
+   },
+   {
+    "source": "Heraclitus, as reported by Plato in Cratylus 402a",
+    "teaching": "Heraclitus, a Greek thinker, said that you could not step twice into the same river, because the water keeps flowing.",
+    "link": "This is the other side of every pattern. No two claps and no two days are exactly alike. To see a pattern, we agree to treat them as the same."
+   }
+  ],
+  "science": [
+   {
+    "text": "Small children can copy a row of beads, and carry it on, before they can make the same pattern with new things. Researchers in the USA found this with 4-year-olds (Rittle-Johnson and others, 2013). Seeing that the pattern is not the things is the harder step.",
+    "status": "settled"
+   },
+   {
+    "text": "Is a pattern out in the world, or in the mind that notices it? Thinkers still argue about this.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many scientists and mathematicians",
+   "view": "They say patterns are in the world, whether or not anyone notices them. Day and night took turns for a very long time before there were any people to call it a pattern. The Earth turns the same way with nobody watching. They say we do not decide which things are the same. We find out."
+  },
+  "practice": {
+   "title": "Listen to your own pattern",
+   "mins": 3,
+   "say": "Sit still and close your eyes. Put one hand on your chest. Feel your heart beat, again and again. Now feel your breath go in and out, in and out. Stay with it for ten breaths. Then open your eyes. Which was faster, your heart or your breath? Was every breath exactly the same?",
+   "kid": "Close your eyes. Put a hand on your chest. Feel your heart beat. Feel your breath go in and out. Count ten breaths. Was every breath the same?"
+  },
+  "ask": [
+   "Is the pattern in the beads, or in the one who looks at them?",
+   "If nobody heard the barbet, would tuk, tuk, tuk still be a pattern?",
+   "No two days are exactly alike. Why do we still say that day and night repeat?",
+   "Can something happen only once and still be a pattern?"
+  ],
+  "art": "A child sitting cross-legged with eyes closed and one hand on her chest, with a thoranam of leaves and flowers over the door behind her and a small green bird on the window bar."
+ },
+ "how_we_found_out": {
+  "context": "How do we know what it takes to understand a pattern? This card tells the true story of three researchers who tested children just before they started school.",
+  "story": "For many years, teachers gave small children rows of beads to copy and carry on. If a child got the beads right, people thought the child understood the pattern. Three researchers in Australia, Marina Papic, Joanne Mulligan and Michael Mitchelmore, tested this. They worked with 53 children from two preschools, in the year before the children started school. They asked each child to copy patterns, carry them on and talk about them. Many children saw a row only as things taking turns: red, then blue, then red. They did not see that one small part was being repeated. In one of the preschools, the teachers then spent six months helping children to find that part. Afterwards those children did much better on pattern tasks than the children at the other preschool. They were still ahead a year later, after their first year at school. The study came out in 2011.",
+  "who": "Marina Papic, Joanne Mulligan and Michael Mitchelmore",
+  "when": "2011",
+  "wrong_idea": "A child who can carry on a row of beads understands the pattern. The 2011 study showed this was wrong. Many children carried rows on by treating them as things taking turns, without seeing the part that repeats."
+ }
+}
