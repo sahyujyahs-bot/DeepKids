@@ -277,7 +277,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **s2 (12 min)**  
   *Parent does:* 1. Play by the rules until the pile is finished. 2. After each card, ask what clue gave the answer. 3. Keep the score on a slip of paper.  
   *Parent says:* Which word on the card told you the box? Was the pattern made before the weaving, during it or after it?  
-  *Child mode:* Take a card. Read it aloud. Say its box, and its state if you can. Turn it over.
+  *Child mode:* Take a card. Read it aloud. Say its box, and the state of India it comes from if you can. Turn it over.
   - Note: Ikat and bandhani are the pair most often mixed up. In ikat the loose threads are tied and dyed. In bandhani the finished cloth is tied and dyed.
 - **s3 (4 min)**  
   *Parent does:* 1. Look at the full board. 2. Find the cards from your own state, or the state nearest to you. 3. Ask the check question.  
@@ -314,7 +314,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **s1 (5 min)**  
   *Parent does:* 1. Lay the woven cloth and the T-shirt side by side. 2. Let your child pull each one gently in both directions. 3. Ask for the guesses and the reasons. 4. Write them above the table.  
   *Parent says:* Both of these are cotton. Which will stretch more under the same bottle? Will the T-shirt stretch the same both ways? Why do you think so?  
-  *Child mode:* Pull each cloth gently, both ways. Which will stretch more under the bottle? Why? Write your guess.
+  *Child mode:* Pull each cloth gently, both ways. Feel which one gives more. Write your guess.
   - Ask: Why do you think so? (good: The T-shirt feels springy when I pull it, so it will stretch more.; The threads in the T-shirt look loopy, and loops can open out.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Cut a strip 4 cm wide and 40 cm long from the woven cloth, straight along the threads. 2. Cut a strip the same size from the T-shirt, running from the neck end to the hem. Write 'along' on it. 3. Cut a ring 4 cm wide right around the body of the T-shirt. 4. Cut the ring open and trim it to 40 cm. Write 'across' on it. 5. Keep the leftover cloth for later.  
@@ -329,7 +329,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **s4 (8 min)**  
   *Parent does:* 1. Do the same with the knitted strip marked 'along'. 2. Do the same with the knitted strip marked 'across'. 3. For each strip, take away 20 from the length with the bottle. That is the stretch. 4. Write all the numbers in the table.  
   *Parent says:* Now the two knitted strips. Which one stretches more? Does each strip go back when the bottle comes out?  
-  *Child mode:* Test the 'along' strip. Then test the 'across' strip. Write each stretch. Does each strip go back afterwards?
+  *Child mode:* Test the 'along' strip. Then test the 'across' strip. Write each stretch in the table.
   - Ask: What did the knitted strips do that the woven strip did not? (good: They grew several centimetres longer.; They became narrower as they stretched.; They went most of the way back when the bottle came out.)
   - Note: Knitted strips usually stretch by a few centimetres along the shirt and by much more across it. Results differ from one T-shirt to another.
 - **s5 (8 min)**  
@@ -353,7 +353,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **s1 (5 min)**  
   *Parent does:* 1. On three pieces of cloth, draw a line 1 cm from one long edge. Start and end the line 1 cm from the short edges, so it is 8 cm long. 2. On piece A, mark a dot every 1 cm along the line. 3. On pieces B and C, mark a dot every half centimetre. 4. Ask for the guesses and the reasons, and write them down.  
   *Parent says:* Seam A will have stitches 1 cm long. Seam B will have half that. Seam C will have a quarter. Which seam will leak the most seeds? Why do you think so?  
-  *Child mode:* Draw a line on three pieces. Mark the dots. Which seam will leak the most seeds? Why? Write your guess.
+  *Child mode:* Draw the line on three pieces and mark the dots. Then write your guess.
   - Ask: Why do you think so? (good: Long stitches leave long gaps between the needle holes.; A seed can only get through a gap that is bigger than the seed.)
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* 1. Lay piece A on a plain piece, with the edges matching. 2. Thread the needle, double the thread and knot the end. 3. Start the timer. Sew through both layers: down at one dot and up at the next. 4. Pull the thread until it lies flat, without gathering the cloth. 5. At the end, sew two small stitches on the same spot and cut the thread. 6. Stop the timer and write the minutes.  
@@ -374,7 +374,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child to guess what rice will do. 2. Repeat the test on all three seams with 1 level teaspoon of raw rice. 3. Write the counts in the table.  
   *Parent says:* A rice grain is longer than a mustard seed. Will more rice get through, or less? Why do you think so?  
-  *Child mode:* Now try rice. Guess first: will more get through, or less? Why? Test all three seams.
+  *Child mode:* Now try rice on all three seams. Guess first, then test.
   - Note: Rice usually gets through far less than mustard, because a long grain must meet the gap end on. Whatever you find is a real result. Write it down as it is.
 - **s6 (3 min)**  
   *Parent does:* 1. Ask your child for their claim, evidence and reasoning. 2. Look at the table together: stitch length, number of stitches, minutes and seeds. 3. Ask the check question.  
@@ -391,7 +391,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the thin cloth and find its selvedge, the firm edge that was never cut. 2. Explain the three cuts you will make. 3. Ask for the guesses and the reasons, and write them down.  
   *Parent says:* We will cut this cloth straight, on the slant and in zigzags. Which edge will fray most in the wash? Which will not fray at all? Why do you think so?  
-  *Child mode:* Find the firm edge of the cloth. Which cut edge will fray the most? Which will not fray? Why? Write your guess.
+  *Child mode:* Find the firm edge of the cloth, called the selvedge. Then write your guess.
   - Ask: Why do you think so? (good: On a straight cut, the last thread has nothing outside it to hold it in.; The selvedge has no cut ends, so nothing can slide out.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Lay the paper square on the cloth with its sides along the threads and one side on the selvedge. Cut round it. Write 1 on the piece. 2. Turn the paper like a diamond, so its corners point along the threads. Cut round it. Write 2. 3. Cut a third square along the threads. Snip small V-shaped teeth, half a centimetre deep, all round its edges. Write 3. 4. Measure any fringe on each piece now and write it in the table.  
@@ -416,17 +416,17 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 
 ## Activities
 ### a1 · Thread Paths: three cloths under the phone camera (12 min)
-- **record:** Draw three boxes. In each, draw the threads of one cloth as you see them on the screen, and colour the path of one thread in red.
+- **record:** For each cloth, take a photo, or draw its threads in a box. Then show how one thread runs: colour it red on your drawing, or trace it with a finger on the screen and tell your grown-up.
 - **s1 (4 min)**  
-  *Parent does:* 1. Lay the handkerchief flat in good light. 2. Hold the phone camera about 5 cm above it. Zoom in and touch the screen to focus. 3. Ask your child to follow one thread across the screen with a fingertip. 4. Draw what you see in the first box.  
+  *Parent does:* 1. Lay the handkerchief flat in good light. 2. Hold the phone camera about 5 cm above it. Zoom in and touch the screen to focus. 3. Ask your child to follow one thread across the screen with a fingertip. 4. Take a photo of the screen, or draw what you see in the first box.  
   *Parent says:* Look at the screen. Follow one thread with your finger. Where does it go when it meets another thread?  
-  *Child mode:* Zoom in on the handkerchief. Follow one thread with your finger. Where does it go? Draw it.
+  *Child mode:* Zoom in on the handkerchief. Follow one thread with your finger. Take a photo, or draw it.
   - Ask: What does the thread do when it meets another thread? (good: It goes over one and under the next.; The threads cross like a mat.)
   - Note: If the picture is blurred, move the phone a little further away and zoom in more. A hand lens works too.
 - **s2 (4 min)**  
-  *Parent does:* 1. Look at the T-shirt in the same way. Draw it in the second box. 2. Look at the outside of the jeans, then the inside. Draw the outside in the third box.  
+  *Parent does:* 1. Look at the T-shirt in the same way. Take a photo, or draw it in the second box. 2. Look at the outside of the jeans, then the inside. Take a photo, or draw the outside in the third box.  
   *Parent says:* Now the T-shirt. Are the threads crossing, or doing something else? Then look at the jeans. Which way do the lines run?  
-  *Child mode:* Zoom in on the T-shirt. Are the threads crossing? Draw them. Then look at the jeans, outside and inside.
+  *Child mode:* Zoom in on the T-shirt. Take a photo, or draw it. Then look at the jeans, outside and inside.
   - Ask: How is the T-shirt different from the handkerchief? (good: The thread makes rows of small loops, like tiny V shapes.; I cannot see two sets of threads crossing.)
   - Note: T-shirt cloth shows columns of small V shapes. Each V is one loop. Denim shows slanting lines, and it is paler inside because the white threads show more there.
 - **s3 (4 min)**  
@@ -435,11 +435,11 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   *Child mode:* Pull each cloth gently. Which one stretches? Both are cotton. Why might they differ? Write your idea.
   - Note: Keep your child's idea. The experiment Woven or Knitted tests it.
 ### a2 · Take a Thread Apart: plies, twist and fibres (15 min)
-- **record:** Draw the thread, one ply and one fibre side by side. Write the length of each beside it.
+- **record:** Lay the thread, one ply and one fibre side by side and take a photo. Write the length of each.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold the thick thread between two hands, about 5 cm apart. 2. Roll one end between finger and thumb until the thread opens. 3. Count the thinner strands. Each one is a ply. 4. Let go, and watch what the thread does.  
   *Parent says:* Roll the end until the thread opens. How many strands is it made of? What happens when you let go?  
-  *Child mode:* Roll one end of the thread until it opens. Count the strands. Let go. What happens?
+  *Child mode:* Roll one end of the thread until it opens. Count the strands. Then let go and watch.
   - Ask: What did the thread do when you let go? (good: It twisted itself back together.; The strands wrapped round each other again.)
   - Note: Most thick threads have 2 or 3 plies. Some string has more.
 - **s2 (5 min)**  
@@ -490,29 +490,29 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   - Check: A label says '60% cotton, 40% polyester'. What kind of cloth is it? → **A blend of natural and synthetic fibres**
 ### a5 · One Cocoon, One Thread: a model of silk reeling (15 min)
 - **safety:** A grown-up does the snipping in step 2.
-- **record:** Draw the life of the silk moth as a circle with four stages and arrows. Under it, write how many pieces of thread each model cocoon gave.
+- **record:** Take a photo of your circle of four cards, or draw it with arrows. Under it, write how many pieces of thread each model cocoon gave.
 - **s1 (4 min)**  
   *Parent does:* 1. Write one stage on each piece of paper: egg, caterpillar, pupa in a cocoon, moth. 2. Mix them up. 3. Ask your child to lay them in order in a circle, and to say what happens at each stage.  
-  *Parent says:* Put the four stages in order. Why is it a circle and not a line?  
-  *Child mode:* Put the four cards in order, in a circle. Say what happens at each stage.
+  *Parent says:* Here are the four stages of a silk moth's life. Put them in order, in a circle.  
+  *Child mode:* Lay the cards in a circle. Tell what happens at each stage.
   - Ask: Why is the life of a moth drawn as a circle? (good: The moth lays eggs, and the eggs begin the same life again.)
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Wind 3 metres of thread round each groundnut, crossing the turns in a figure of eight. Tuck in the end. 2. On the first, find the end and unwind it without breaking the thread. 3. On the second, a grown-up snips a small hole through the turns at one end. 4. Unwind the second one and count the pieces.  
-  *Parent says:* A caterpillar winds one unbroken filament round their own body. Unwind the first cocoon whole. The second has a hole, as if the moth had come out. Count its pieces.  
+  *Parent says:* A caterpillar winds one long unbroken thread, called a filament, round its own body. Unwind the first cocoon whole. The second has a hole, as if the moth had come out. Count its pieces.  
   *Child mode:* Wind thread round both groundnuts. Unwind the first in one piece. A grown-up snips a hole in the second. Unwind it and count the pieces.
   - Note: A real moth does not cut the silk. She or he wets it with a liquid and pushes through, and that breaks the one filament into many short lengths.
 - **s3 (5 min)**  
   *Parent does:* 1. Lay the long thread beside the short pieces. 2. Explain that long filament is unwound and used as it is, and short pieces must be spun like cotton. 3. Ask the questions below.  
-  *Parent says:* Most silk makers heat the cocoons before the moths come out. Now you can see why. What do you think about that?  
-  *Child mode:* Look at the long thread and the short pieces. Why do silk makers stop the moth coming out? What do you think about it?
+  *Parent says:* Most silk makers heat the cocoons before the moths come out. Look at the long thread and the short pieces. Which would you rather use?  
+  *Child mode:* Lay the long thread beside the short pieces. Point to the one that is ready to use.
   - Ask: Eri silk is made after the moths have left. What must be done with the broken cocoons? (good: The short pieces are spun into yarn, like cotton.; They cannot be unwound as one thread.)
   - Check: Why are most silk cocoons heated before the moth comes out? → **To keep the filament in one unbroken length**
 ### a6 · Stitch Sampler: running stitch, backstitch and a kantha row (25 min)
 - **safety:** A needle is sharp. Sit at a table to sew, and push the needle away from your other hand. Stick the needle in the bar of soap whenever it is not in use. Never hold a needle in your mouth.
 - **record:** Keep the sampler. Label the three lines: running stitch, backstitch and kantha rows.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Say the needle rules together. 2. Lay one square on the other. Draw three lines across the top square, each 12 cm long and 4 cm apart. 3. Mark a dot every half centimetre along each line. 4. Thread the needle, double the thread and knot the end.  
-  *Parent says:* The needle lives in the soap when it is not in your hand. Now thread it, double the thread and tie a knot at the end.  
+  *Parent does:* 1. Say the needle rules together: the needle lives in the soap when it is not in your hand, and its point always faces away from you. 2. Lay one square on the other. Draw three lines across the top square, each 12 cm long and 4 cm apart. 3. Mark a dot every half centimetre along each line. 4. Thread the needle, double the thread and knot the end.  
+  *Parent says:* Now thread the needle, double the thread and tie a knot at the end.  
   *Child mode:* Say the needle rules. Draw three lines with dots. Thread the needle and knot the end.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Line 1 is running stitch. Come up at the first dot, go down at the second, come up at the third, and so on. 2. Line 2 is backstitch. Come up at the second dot and go back down at the first. 3. Come up at the third dot and go back down at the second. Carry on to the end. 4. Finish each line with two small stitches on one spot.  
@@ -555,12 +555,12 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **schedule:** day 1: Cut 10 notches at the top and bottom of the card. Wind the string up and down to make 10 warp threads. Cut the T-shirt into strips. (15 min); day 2: Weave 8 rows of T-shirt strip, over and under, pushing each row down with the comb. (15 min); day 3: Plan a stripe or a pattern on squared paper. Weave 8 more rows. (15 min); day 4: Cut the coaster off the loom, knot the warp ends in pairs and try it under a tumbler. (15 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts 10 notches, each 1 cm deep and 1 cm apart, along the top edge of the card. Start 1.5 cm from the side. Cut 10 more along the bottom edge. 2. Tape one end of the string to the back. Bring it through the first bottom notch and up the front to the first top notch. 3. Take it behind the card to the second top notch and down the front to the second bottom notch. 4. Carry on until 10 strings cross the front. Tape the end at the back. 5. Cut rings 1.5 cm wide from the body of the T-shirt. Cut each ring open to make a long strip.  
-  *Parent says:* This string is the warp. It must be tight, like the strings of a veena. How many warp threads can you count on the front?  
+  *Parent says:* This string is the warp. It must be tight. How many warp threads can you count on the front?  
   *Child mode:* A grown-up cuts the notches. Wind the string up and down the front. Count 10 warp threads. Cut the T-shirt into strips.
   - Note: Pull each T-shirt strip gently and its edges curl in, so it becomes a soft round yarn. T-shirt cloth is knitted, so the cut edges do not fray.
 - **s2 (15 min)**  
   *Parent does:* 1. Fix one end of a strip in the hair pin. 2. Weave the first row: over one string, under the next, right across. Leave a tail of 3 cm at the start. 3. Weave back the other way: under where the last row went over. 4. Push each row down with the comb. 5. Do not pull the strip tight at the edges. 6. To join a new strip, lay its end over the old end for 3 cm and weave them together. 7. Weave 8 rows.  
-  *Parent says:* Weave the strip over one string, then under the next, and keep going. On the way back, do the opposite. Go under the strings that you went over. What would happen if two rows went the same way?  
+  *Parent says:* Weave the strip over one string, then under the next, and keep going. On the way back, do the opposite. Go under the strings that you went over.  
   *Child mode:* Weave over one string and under the next. Go back the opposite way. Push each row down. Weave 8 rows.
   - Ask: What would happen if two rows went over and under the same strings? (good: They would slide together into one thick row.; They would not lock each other, so the cloth would be loose there.)
   - Note: If the edges are pulled tight, the coaster grows narrow in the middle. Leave a small loop of strip at each turn.
@@ -580,7 +580,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 ## Challenges
 ### c1 · The No-Leak Seam: hold the mustard seeds with the least sewing (30 min)
 - **problem:** Sew a seam 8 cm long that joins two pieces of cloth. In the tumbler test, with 20 rubs, it must let through no more than 2 mustard seeds. Among seams that pass, the best one takes the least time to sew.
-- **your turn:** Now design your own seam. Draw it from the side, sew it, time it and test it. Did it pass? Was it faster than seam C in the Leaky Seam Test?
+- **your turn:** Now design your own seam. Draw it from the side or describe it, then sew it, time it and test it. Did it pass? Was it faster than seam C in the Leaky Seam Test?
 - **constraints:** Use the same cloth, the same thread and the same 8 cm line as in the Leaky Seam Test.; Test it exactly as before: stretch the seam over the tumbler and rub 1 level teaspoon of mustard seeds across it 20 times.; Time the sewing from the first stitch to the last knot.; Measure the thread before you start and after you finish, to find how much you used.
 - **general:** Sew a backstitch with stitches half a centimetre long.; Sew two rows of running stitch side by side, with the stitches of one row beside the gaps of the other.; Sew a running stitch with stitches a quarter of a centimetre long, as in seam C.
 - **creative:** Fold the two flaps over together and sew them down a second time, like the thick seam on the side of jeans.; Sew a running stitch with one backstitch after every third stitch.; Sew over and over the two edges, so the thread wraps round them like a spring.
@@ -593,13 +593,13 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   *Parent says:* Which idea will you try first? Why do you think it will close the gaps?  
   *Child mode:* Pick one idea. Sew it and time it. Test it with the seeds. Write the numbers.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* 1. Design a seam of your own and draw it from the side. 2. Sew it, time it and test it. 3. Compare all your seams in one table.  
+  *Parent does:* 1. Design a seam of your own and draw it from the side, or show it with your hands. 2. Sew it, time it and test it. 3. Compare all your seams in one table.  
   *Parent says:* Which seam passed the test in the least time? What made it work?  
-  *Child mode:* Design your own seam. Draw it. Sew it and test it. Which seam is best?
+  *Child mode:* Design your own seam. Draw it or show it with your hands. Sew it and test it. Which seam is best?
   - Check: Why does a second row of running stitch, set beside the gaps of the first, stop more seeds? → **Each gap in one row is pinned shut by a stitch in the other**
 ### c2 · Wear It Uncut: dress in one cloth with no scissors and no pins (30 min)
 - **problem:** Use one uncut rectangle of cloth to dress yourself over your ordinary clothes. The cloth must stay on through 10 jumps and a walk across the room, with both hands free.
-- **your turn:** Now design your own way to wear the cloth. Test it with 10 jumps and a walk across the room. Draw it, and write what holds it up.
+- **your turn:** Now design your own way to wear the cloth. Test it with 10 jumps and a walk across the room. Take a photo, or draw it, and say what holds it up.
 - **constraints:** Use one cloth only, and do not cut it.; No pins, clips, rubber bands or belts. Use only folds, pleats, tucks, rolls and knots.; You must be able to walk, sit down and lift both arms.; Wear it over your ordinary clothes, so you can test it without worry.
 - **general:** Wrap the cloth round the waist and roll the top edge over itself twice, as a lungi or mundu is worn.; Fold part of the cloth into pleats and tuck the pleats in at the waist, as in a sari or a veshti.; Knot two corners together over one shoulder.
 - **creative:** Pass one end between the legs and tuck it in at the back, as a dhoti is worn for work.; Twist one end of the cloth into a rope and use it as the belt for the rest.; Cross two corners over the chest and knot them behind the neck.
@@ -614,9 +614,9 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   *Child mode:* Try pleats tucked in at the waist. Try a knot over one shoulder. Test each with 10 jumps.
   - Note: Pleats hold well because many layers press on each other, so friction is high. They also leave room for the legs to move.
 - **s3 (10 min)**  
-  *Parent does:* 1. Design your own way. 2. Test it with 10 jumps, a walk, sitting down and lifting both arms. 3. Draw it and label what holds it up.  
-  *Parent says:* Now invent your own. What will hold it up when you jump? Draw it and mark the place where friction or a knot does the work.  
-  *Child mode:* Invent your own way. Test it: jump, walk, sit and lift your arms. Draw it.
+  *Parent does:* 1. Design your own way. 2. Test it with 10 jumps, a walk, sitting down and lifting both arms. 3. Take a photo of it, or draw it, and tell what holds it up.  
+  *Parent says:* Now invent your own. What will hold it up when you jump? Show me the place where friction, the grip between two things that touch, or a knot does the work.  
+  *Child mode:* Invent your own way. Test it: jump, walk, sit and lift your arms. Take a photo of it.
   - Check: Why does a sari waste no cloth, when a shirt cut from the same cloth does? → **A sari is worn as one whole rectangle, with nothing cut away**
 
 ## Worksheets

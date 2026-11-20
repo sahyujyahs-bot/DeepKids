@@ -546,7 +546,7 @@
    "title": "The Two-Ball Balance: where is the balance point of a heavy ball and a light one?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you push a heavy dough ball and a light dough ball onto the two ends of a pencil. You find the point where the pencil balances on your finger. You change the heavy ball and look for a rule.",
+   "context": "In this experiment you push a heavy dough ball and a light dough ball onto the two ends of a pencil. You find the point where the pencil balances on your finger. You change the heavy ball and look for a rule. You will find out how the balance point moves when one ball gets heavier.",
    "question": "A pencil has a heavy ball on one end and a light ball on the other. Where does it balance? How does the balance point move when the heavy ball becomes 2, 4 and 8 times as heavy as the light one?",
    "predict": "Guess first. With 1 piece of dough on each end, where will the pencil balance? Where will it balance with 2 pieces against 1, and with 8 pieces against 1? Why do you think so? Write your three guesses and your reasons.",
    "fair_test": "Use the same pencil every time, so the two balls are always the same distance apart. Cut all 9 pieces of dough the same size. Only the number of pieces in the heavy ball changes. Find each balance point twice, because a shaky finger can give a wrong reading.",
@@ -708,7 +708,7 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Keep pair C, 4 against 1. Tie the thread tightly round the pencil at its balance mark, and tape the knot. 2. Hold the thread so the pair hangs level. 3. Twist the thread gently and let the pair turn. 4. Look down from above. Watch the path of each ball.",
-     "say": "Watch from above while the pair turns. Does the heavy ball stay in one place? Which ball makes the bigger circle?",
+     "say": "Watch from above while the pair turns. Follow the path of each ball with your eyes.",
      "kid": "Tie the thread at the balance mark. Let the pair hang level. Twist the thread gently. Look from above. Which ball makes the bigger circle?",
      "ask": [
       {
@@ -765,7 +765,7 @@
    "title": "Twice as Wide: how many times as much dough?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you make many small dough balls, each 2 centimetres wide. You join them into bigger balls and count how many it takes to make a ball 4 centimetres wide, then 6 centimetres wide.",
+   "context": "In this experiment you make many small dough balls, each 2 centimetres wide. You join them into bigger balls and count how many it takes to make a ball 4 centimetres wide, then 6 centimetres wide. You will find out how much dough a bigger ball really needs.",
    "question": "A small ball is 2 centimetres wide. How many small balls does it take to make a ball that is twice as wide? How many for a ball three times as wide?",
    "predict": "Guess first. How many small balls will make a ball 4 centimetres wide? How many will make a ball 6 centimetres wide? Why do you think so? Write both guesses and your reasons.",
    "fair_test": "Make every small ball the same size, from equal pieces of one dough snake. Measure every ball the same way, between two upright books. Roll the big ball round each time before you measure, because a flat ball measures too wide.",
@@ -803,7 +803,7 @@
      "what": "Guess. Make 27 small balls, each 2 cm wide. Join them one at a time into a ball 4 cm wide, then 6 cm wide, and count. Find the pattern."
     }
    ],
-   "record": "Write the width of the big ball after 1, 2, 4, 8, 16 and 27 small balls. Draw a line graph of width against the number of balls. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
+   "record": "Write the width of the big ball after 1, 2, 4, 8, 16 and 27 small balls. Draw a line graph of width against the number of balls, or just read the numbers aloud to your grown-up. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example results: width of the big ball",
@@ -1062,7 +1062,7 @@
      "adult": true,
      "do": "1. Tape the ruler flat on the wall, at the height of the visible ball. 2. Send your child out of the room. 3. Put 1 piece of dough in a cup, close it, and tape it to the pencil end. 4. Slide the pencil across your finger until it balances. Tie the thread there.",
      "say": "Please wait outside while I hide the dough. I will call you in when the pair is ready. Do not look at the cup until I say.",
-     "kid": "Fetch a grown-up. They hide some dough in a cup while you wait outside.",
+     "kid": "Wait outside the room while your grown-up hides some dough in a cup. Do not peek.",
      "parent": "Pair A has 1 piece in the cup. With an 18 cm pencil, the thread goes about 3.6 cm from the visible ball. Use the smallest, lightest cups. A cup weighs a few grams, so pair A may swing up to 8 cm. Hang the thread from a chair back or a door handle, so the pencil hangs level.",
      "context": "This step of The Hidden Ball sets up the first secret pair, with 1 piece of dough hidden in the cup."
     },
@@ -1089,7 +1089,7 @@
      "mins": 10,
      "do": "1. Your child leaves the room again. 2. Hide 2 pieces in the cup and tie the thread at the new balance point. 3. Your child measures the swing as before. 4. Do the same for 4 pieces. 5. Write both widths in the table.",
      "say": "Here is the second secret pair, and then the third. Measure each swing the same way. Which swung widest? Which swung narrowest?",
-     "kid": "Fetch the helper again. They hide 2 pieces, then 4 pieces. Measure each swing the same way.",
+     "kid": "Wait outside again while 2 pieces, then 4 pieces, are hidden. Come back and measure each swing the same way.",
      "parent": "Pair B has 2 pieces hidden. With an 18 cm pencil, expect a width of about 12 cm. Pair C has 4 pieces, and the width is about 18 cm. Pair C is the easiest to see, because the thread hangs in the middle of the pencil.",
      "context": "This is the main step of The Hidden Ball. You measure the swing of the visible ball for secret pairs B and C, with 2 and 4 pieces hidden."
     },
@@ -1150,7 +1150,7 @@
      "qty": 4
     }
    ],
-   "record": "Draw the marble and the peppercorn with the distance between them. Write the scale under your drawing: 1 cm stands for 8,000 km.",
+   "record": "Take a photo of the marble and the peppercorn with the ruler between them, or draw them. Write the scale: 1 cm stands for 8,000 km.",
    "setup": [
     {
      "art": "A marble on a table with a child holding a peppercorn a hand-width away from it, about to put it down.",
@@ -1246,7 +1246,7 @@
     }
    ],
    "safety": "Clear the floor of toys and furniture first. Turn slowly, at walking speed, and stop if anyone feels dizzy.",
-   "record": "Draw the two circles as seen from above. Mark where the coin lay. Write how far each person's feet were from the coin.",
+   "record": "Write how far each person's feet were from the coin, and who is heavier. Draw the two circles from above if you like.",
    "setup": [
     {
      "art": "A mother and a child facing each other on a clear floor, each holding one end of a rolled towel and leaning back a little.",
@@ -1264,7 +1264,7 @@
      "adult": true,
      "do": "1. Clear a space on the floor about 2 metres wide. 2. Each of you holds one end of the rolled towel. 3. Ask your child who will move in the bigger circle when you turn, and why.",
      "say": "We will turn slowly round each other. Will I stay in one place while you go round me? Who will make the bigger circle? Why do you think so?",
-     "kid": "Fetch a grown-up. Hold one end of the towel each. Who will make the bigger circle? Say why.",
+     "kid": "Hold one end of the towel each, with your grown-up. Who will make the bigger circle? Say why.",
      "context": "This is the first step of The Towel Spin. Here a grown-up and a child hold a rolled towel and guess who will move in the bigger circle."
     },
     {
@@ -1290,7 +1290,7 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Stand as you were when turning. Measure from the coin to each person's feet. 2. Compare the two distances with your two weights. 3. Ask how this is like the Earth and the Moon.",
-     "say": "The coin was nearer to me. I am about twice as heavy as you. How do the two distances compare?",
+     "say": "Look at where the coin lay. Is it nearer to the heavier person or to the lighter one? Measure to find out.",
      "kid": "Measure from the coin to your feet. Measure from the coin to the grown-up's feet. Who was nearer the coin? Who is heavier?",
      "parent": "If you weigh twice as much as your child, the coin should be about half as far from you. This is a rough test, so expect only a rough match. The Earth has 81 times the mass of the Moon, so its circle is 81 times smaller.",
      "check": {
@@ -1328,7 +1328,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the big heap, the one grain and the broken bits. Label them 'the Sun', 'Jupiter' and 'everything else'.",
+   "record": "Take a photo of the big heap, the one grain and the broken bits, or draw them. Say or write which is 'the Sun', 'Jupiter' and 'everything else'.",
    "setup": [
     {
      "art": "Ten small equal heaps of rice grains on a steel plate, with a child counting grains into one heap.",
@@ -1361,7 +1361,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Push all the grains back together. 2. Take out 1 grain. This is Jupiter. 3. Take out 1 more grain and break it in half. One half is every other planet, moon, asteroid and comet together. Put the other half back. 4. The rest of the heap is the Sun. Ask where the Earth is.",
-     "say": "One grain is Jupiter. Half a grain is everything else that goes round the Sun. All the rest is the Sun. So where is the Earth?",
+     "say": "One grain is Jupiter. Half a grain is everything else that goes round the Sun. All the rest is the Sun. ",
      "kid": "Take out 1 grain for Jupiter. Break 1 more grain in half. Half is all the other planets and moons. The rest is the Sun.",
      "ask": [
       {
@@ -1400,7 +1400,7 @@
      "qty": 12
     },
     {
-     "item": "a pencil and two colour pencils",
+     "item": "a pencil",
      "qty": 1
     },
     {
@@ -1416,7 +1416,7 @@
     },
     {
      "art": "The same cards laid in a row from narrowest to widest, the lumpy ones shaded in one colour and the round ones in another, with a mixed patch in the middle.",
-     "caption": "2. Put the cards in order of width. Colour round and lumpy. Look for where they change."
+     "caption": "2. Put the cards in order of width. Lumpy cards go in one row, round cards in another. Look for where they change."
     }
    ],
    "flow": [
@@ -1432,9 +1432,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Lay the cards in a row from the narrowest to the widest. 2. Colour the lumpy cards in one colour and the round cards in another. 3. Find the widest lumpy world and the narrowest round world. 4. Mark the part of the row where round and lumpy are mixed.",
+     "do": "1. Lay the cards in a row from the narrowest to the widest. 2. Move the lumpy cards up into an upper row and the round cards down into a lower row. Keep the order of widths. 3. Find the widest lumpy world and the narrowest round world. 4. Find the part where the two rows overlap.",
      "say": "Is there one width where lumpy stops and round begins? Or is there a stretch where the two are mixed?",
-     "kid": "Put the cards in order of width. Colour lumpy and round. Find the widest lumpy world. Find the narrowest round world.",
+     "kid": "Put the cards in order of width. Put lumpy cards in an upper row and round cards in a lower row. Find the widest lumpy world. Find the narrowest round world.",
      "ask": [
       {
        "q": "What do you notice about the row?",
@@ -1967,8 +1967,8 @@
      "id": "s1",
      "mins": 20,
      "do": "Day 1. Choose 12 worlds from the Name the World cards, such as the Earth, Pluto, Ceres, Eris, the Moon, Ganymede and Vesta. For each, tick or cross: goes round the Sun, is round, has cleared its path. Note which worlds pass all three.",
-     "say": "Test twelve worlds against the three tests. Which pass all three? Which worlds do you think should be called planets, even if they fail a test? Why?",
-     "kid": "Pick 12 worlds. Test each one against the three tests. Which pass all three?",
+     "say": "Test twelve worlds against the three tests. Then tell me which worlds you think should be called planets, even if they fail a test. Why?",
+     "kid": "Pick 12 worlds. Tick or cross each of the three tests for each one.",
      "ask": [
       {
        "q": "Which worlds pass all three tests?",
@@ -2131,7 +2131,7 @@
     "Use a stack of 6 coins against 1 coin, on a 25 cm stick.",
     "Use 7 steel nuts against 1 nut, on a 30 cm chopstick or stick."
    ],
-   "your_turn": "Now invent your own double world. Draw the pair, and mark the balance point and the two distances. Write the mass ratio and how far outside the heavy ball the point lies.",
+   "your_turn": "Now invent your own double world. Take a photo of the pair, or draw it. Show where the balance point is, and write the two distances. Write the mass ratio and how far outside the heavy ball the point lies.",
    "setup": [
     {
      "art": "A 40 centimetre stick with a small stack of coins taped on one end and a tiny dough ball on the other, hanging level from a thread tied a little way from the coins.",
@@ -2147,7 +2147,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Read the problem and the four constraints together. 2. Ask your child what makes the balance point lie outside the heavy ball. 3. Let them choose how to build the heavy ball and how long the stick should be.",
-     "say": "In The Two-Ball Balance, 8 pieces against 1 piece balanced inside the big ball. What could we change so the point lies outside? Which is the better plan: a bigger gap, or a smaller heavy ball?",
+     "say": "In The Two-Ball Balance, 8 pieces against 1 piece balanced inside the big ball. What could we change so the point lies outside?",
      "kid": "The point must lie outside the heavy ball. Plan how. A longer stick? A smaller heavy ball?",
      "ask": [
       {

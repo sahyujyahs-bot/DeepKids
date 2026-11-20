@@ -250,7 +250,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
   *Parent says:* Each card says one thing about a cell. We decide whether it is true of a bacterium, of one of our cells or of both.  
   *Child mode:* Cut out the cards. Write three slips: BACTERIUM, YOUR CELL, BOTH. Shuffle the cards.
 - **s2 (12 min)**  
-  *Parent does:* 1. Read the top card aloud. 2. Count to three. 3. Everyone lays down a slip. 4. Ask for reasons. 5. Turn the card over and read the back.  
+  *Parent does:* 1. Read the top card aloud. 2. Count to three. 3. Everyone lays down a slip. 4. Ask for reasons. 5. Turn the card over and read the back. 6. Give one point for each right slip.  
   *Parent says:* Before we turn the card, tell me your reason. Is this about size, about parts or about something every cell needs?  
   *Child mode:* Read the card. Lay down a slip. Say your reason. Turn the card and check.
   - Ask: Which cards said BOTH, and what do they tell you? (good: A membrane, ribosomes, DNA, ATP and water are in both.; The things both have are the things every cell needs to stay alive.)
@@ -276,8 +276,8 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
   - Ask: What happens to a protein with no label? (good: It stays in the watery inside of the cell.; Nothing carries it anywhere, so it stays where it was made.)
 - **s3 (5 min)**  
   *Parent does:* 1. Count the points. 2. Pick up one lysosome enzyme card. 3. Cover the L with a finger and ask where the protein goes now. 4. Ask who in the cell would notice the mistake.  
-  *Parent says:* Suppose this enzyme lost its L tag. Read the key again. Where does the cell send it now?  
-  *Child mode:* Count your points. Cover the L on a lysosome card. Where does the protein go now?
+  *Parent says:* Suppose this enzyme lost its L tag. Read the key again and tell me what you think.  
+  *Child mode:* Count your points. Cover the L on a lysosome card. Read the key again.
   - Check: A lysosome enzyme is made without its lysosome tag. Where does the cell send it? → **Out of the cell**
 
 ## Experiments
@@ -291,8 +291,8 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 - **schedule:** day 1: Set up the three potato pieces in the colour and write your guesses. Cut and measure one piece after 1 hour and one after 4 hours. (32 min); day 2: Cut and measure the last piece after about 16 hours. Draw the graph and explain the result. (18 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Fill a tumbler with water and let it stand still for one minute. 2. Let one drop of colour fall in. Do not stir. 3. Watch for two minutes. 4. Ask what is moving the colour.  
-  *Parent says:* Nobody is stirring this water. So what is moving the colour? Tell me what you think, and why.  
-  *Child mode:* Put one drop of colour in still water. Do not stir. Watch for two minutes. What moves the colour?
+  *Parent says:* Nobody is stirring this water. Watch the colour spread for two minutes. Then tell me what you think, and why.  
+  *Child mode:* Put one drop of colour in still water. Do not stir. Watch for two minutes.
   - Ask: Nobody stirred. What could be moving the colour? (good: The water is moving a little by itself.; The tiny particles of water and colour are always moving and bumping.)
   - Note: Take any answer for now. In a tumbler, two things move the colour: small currents in the water, and the knocking about of the molecules themselves. Inside a potato, water cannot flow in currents. So the potato shows the second cause alone.
 - **s2 (8 min) · grown-up needed**  
@@ -303,13 +303,13 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 - **s3 (4 min)**  
   *Parent does:* 1. Explain that one block comes out after 1 hour, one after 4 hours and one after 16 hours. 2. Ask for a guess for the 4 hour block and the 16 hour block, each with a reason. 3. Write the guesses down.  
   *Parent says:* After 4 hours, will the colour be as deep as after 1 hour, twice as deep or four times as deep? And after 16 hours? Why do you think so?  
-  *Child mode:* Guess how deep the colour goes in 4 hours. Guess for 16 hours. Say why. Write it down.
+  *Child mode:* Guess how deep the colour goes in 4 hours. Guess for 16 hours. Write your guesses down.
   - Ask: Why do you think so? (good: Four times as long should give four times as deep, because it keeps going at the same speed.; It might slow down, because the colour has further to go.)
   - Note: Do not correct the guesses. Most children, and most grown-ups, expect four times the time to give four times the depth.
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* 1. Lift one block out with a spoon. Rinse it for two seconds and pat it dry. 2. Cut it in half through the middle. 3. On the cut face, measure the coloured rim at the middle of each side. 4. Write down the four depths and find the mean.  
   *Parent says:* Look at the cut face. The middle is still white. Measure the coloured rim at the middle of each side, in millimetres.  
-  *Child mode:* A grown-up cuts the first block in half. Measure the coloured rim on four sides. Write the four numbers. Find the mean.
+  *Child mode:* A grown-up cuts the first block in half. Measure the coloured rim on four sides. Write the four numbers. Add them and divide by 4. That is the mean.
   - Note: After 1 hour the rim is thin, perhaps 1 or 2 millimetres. Judge to the nearest half millimetre, and use a magnifying glass if you have one. Measure to where the colour fades to about half its strength. If the rim is too thin to measure, write 'less than 1' and go on. The 4 hour and 16 hour blocks will still answer the question.
   - Wait: Do this 1 hour after the blocks went in
 - **s5 (6 min) · grown-up needed**  
@@ -326,11 +326,11 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
   - Note: Expect about four times the 1 hour depth, and about double the 4 hour depth. The exact time does not matter much now: 15 to 18 hours is fine. If the colour has met in the middle, write 'reached the centre' and compare the 1 hour and 4 hour blocks instead.
   - Wait: Do this the next day, about 16 hours after the blocks went in
 - **s7 (10 min)**  
-  *Parent does:* 1. Draw a line graph with time along the bottom and mean depth up the side. 2. Ask your child for the three sentences. 3. Ask the two questions below. 4. Only then read the explanation card on diffusion together.  
+  *Parent does:* 1. Draw a line graph with time along the bottom and mean depth up the side. Or write the three means in a row and point to the pattern. 2. Ask your child for the three sentences. 3. Ask the two questions below. 4. Only then read the explanation card on diffusion together.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Then tell me this. Is drifting a good way to cross a short distance? Is it a good way to cross a long one?  
   *Child mode:* Draw the graph. Say what you guessed. Say what you saw. Say why you think it happened.
   - Ask: Each time you waited four times as long. How much deeper did the colour go each time? (good: About twice as deep each time.; The depth doubled when the time became four times as long.)
-  - Ask: A bacterium is about 2 micrometres long, and one of your cells is about 20 micrometres wide. Which one can rely on drifting? (good: The bacterium, because everything in her is very close.; The big cell is ten times as wide, so drifting takes about a hundred times as long.)
+  - Ask: A bacterium is about 2 micrometres long, and one of your cells is about 20 micrometres wide. Which one can rely on drifting alone to carry things across? (good: The bacterium, because everything in her is very close.; The big cell is ten times as wide, so drifting takes about a hundred times as long.)
   - Note: The graph should rise steeply at first and then bend over. The rule your child may find is this: four times the time gives about twice the depth. The reason is on the diffusion card. A molecule wanders instead of travelling straight, and the Coin Walk activity shows why wandering gives this rule.
   - Check: In the Potato Colour Test, colour drifted 2 millimetres into potato in 1 hour. About how long does it need to drift 4 millimetres? → **About 4 hours**
 ### e2 · The Fizzing Potato: what do potato cells do to hydrogen peroxide? (25 min)
@@ -348,7 +348,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 - **s2 (3 min)**  
   *Parent does:* 1. Show your child the bottle of hydrogen peroxide. 2. Say that every cell makes a little of this chemical and that it harms cells. 3. Ask which glass will fizz most and which least, and why. 4. Write the guesses down.  
   *Parent says:* Cells make a little hydrogen peroxide as they work, and it harms them. Which potato will fizz most in it: raw, boiled or grated? Which least? Why do you think so?  
-  *Child mode:* Guess which glass will fizz most. Guess which will fizz least. Say why. Write it down.
+  *Child mode:* Guess which glass will fizz most. Guess which will fizz least. Write your guesses down.
   - Ask: Why do you think so? (good: The grated one has the most surface touching the liquid.; Boiling might spoil whatever does the fizzing.; The boiled one is soft, so more might come out.)
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pours 2 tablespoons of hydrogen peroxide into each glass. 2. Put the raw cube in A, the boiled cube in B and the grated potato in C, all at the same moment. 3. Start the timer. 4. After 1, 3 and 5 minutes, measure the height of the foam on each glass.  
@@ -375,7 +375,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 - **s2 (6 min)**  
   *Parent does:* 1. Put the token on START. 2. Toss the coin. For heads move one square right, for tails one square left. 3. Make a tally mark for every toss. 4. Stop when the token first lands on a square numbered 3, on either side. 5. Do 5 runs and find the mean.  
   *Parent says:* This is the short trip. Count every toss until the token is 3 squares from START, on either side. We do 5 runs, because single runs differ a lot.  
-  *Child mode:* Toss the coin. Heads, go right. Tails, go left. Count the tosses until you reach a 3. Do 5 runs.
+  *Child mode:* Toss the coin. Heads, go right. Tails, go left. Count the tosses until you reach a 3. Do 5 runs. Add the five counts and divide by 5 to get the mean.
   - Note: The mean is usually near 9 tosses. One run may need only 3 and another 25. That spread is part of the lesson.
 - **s3 (10 min)**  
   *Parent does:* 1. Start again from START. 2. This time stop when the token first lands on a square numbered 6, on either side. 3. Tally every toss. 4. Do 5 runs and find the mean. 5. Compare the two means.  
@@ -391,7 +391,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
   - Note: A motor protein reaches square 6 in exactly 6 steps. The wanderer needed about 36. The further the trip, the bigger the gap. This is why a large cell spends ATP on motors and tracks.
   - Check: In the Coin Walk, a wandering token needs about 9 tosses to get 3 squares away. About how many to get 6 squares away? → **About 36**
 ### a2 · A Film That Mends: how a vesicle can join a membrane without a leak (15 min)
-- **record:** Draw the film with the wet pencil through it. Beside it, draw a vesicle joining a cell membrane. Write one way the film and the membrane are alike, and one way they differ.
+- **record:** Draw the film with the wet pencil through it, or take a photo of it. Then write one way the film and a cell membrane are alike, and one way they differ.
 - **s1 (5 min)**  
   *Parent does:* 1. Stir the dish-washing liquid and the sugar gently into the water in the plate. 2. Dip the bangle flat into the solution and lift it out slowly, so that a film stretches across it. 3. Ask what will happen when a dry pencil is pushed through the film, and why. 4. Push the dry pencil through.  
   *Parent says:* This film is far thinner than a hair. What will happen if I push a dry pencil through it? Why do you think so?  
@@ -405,13 +405,13 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
   - Note: The wet pencil passes through and the film stays whole, then closes behind it. The film joins on to the wet soap on the pencil instead of tearing.
 - **s3 (5 min)**  
   *Parent does:* 1. Wet the plate with solution. 2. Dip the straw and blow one bubble on to the plate. 3. Blow a second bubble beside it. 4. Push them gently together with the wet straw until they become one. 5. Read the note below to your child.  
-  *Parent says:* Watch what happens when two bubbles meet. Do they leak? This is how a vesicle joins the cell membrane and lets its cargo out.  
+  *Parent says:* Watch what happens when two bubbles meet. Do they pop, or do they join into one?  
   *Child mode:* Blow two bubbles on the wet plate. Push them together gently. Watch them become one.
   - Ask: A vesicle full of insulin joins the cell membrane. Why does the cell not spring a leak? (good: The two membranes flow into one sheet, as the two bubbles did.; A membrane is liquid, so it closes any gap at once.)
   - Note: Say plainly where the model stops. A cell membrane is two layers of fat-like molecules with water on both sides. A soap film is two layers of soap with water in the middle. So they are built the opposite way round. What they share is that both are liquid sheets, which is why both can join and close without a hole.
   - Check: Why can a vesicle join the cell membrane without tearing it? → **The membrane is a liquid sheet that flows together**
 ### a3 · Fold It In: how does so much membrane fit in a cell? (15 min)
-- **record:** Write the area of the newspaper sheet and the area of the tumbler's inside wall. Write how many times bigger the sheet is. Draw the folded sheet inside the tumbler, seen from above.
+- **record:** Write the area of the newspaper sheet and the area of the tumbler's inside wall. Write how many times bigger the sheet is. Take a photo of the folded sheet inside the tumbler, seen from above, or tell your grown-up what you see.
 - **s1 (5 min)**  
   *Parent does:* 1. Measure the length and the width of the open newspaper sheet in centimetres. 2. Multiply them to find the area. 3. Ask whether the whole sheet can fit inside the tumbler without being torn, and how.  
   *Parent says:* A cell needs a great deal of membrane, because much of her chemistry happens on membranes. Can this whole sheet fit in the tumbler? How would you do it?  
@@ -456,7 +456,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 ## Challenges
 ### c1 · The Thread Line: carry a parcel along a level track (30 min)
 - **problem:** Stretch a thread 2 metres long between two chairs, level from end to end. A parcel of five groundnuts hangs from a short piece of straw on the thread. Get the parcel from one chair to the other without touching the parcel or the straw after it sets off.
-- **your turn:** Now design your own carrier. Draw it, build it and test it 3 times. How long did the best trip take? Where does your carrier get its energy, and where does a motor protein get hers?
+- **your turn:** Now design your own carrier. Draw or describe it, build it and test it 3 times. How long did the best trip take? Where does your carrier get its energy, and where does a motor protein get hers?
 - **constraints:** The thread stays level: both ends at the same height. The parcel may not simply slide downhill.; Nobody touches the parcel or its straw once it has started.; The parcel must arrive with all five groundnuts.; Use only things from the home.
 - **general:** Tie a second thread to the straw and pull the parcel along from the far chair.; Tape a paper sail to the straw and fan it along.; Flick the thread at one end to shake the parcel forward a little at a time.
 - **creative:** Tape a blown-up balloon to the straw and let it go. The air rushing out backward pushes the straw forward.; Make the thread a loop round both chair backs, like a clothes line on two pulleys. Fix the parcel to the loop and pull the other side.; Carry the fuel on board, as a motor protein uses ATP at every step: a wound-up rubber band and a paper propeller on the straw.
@@ -471,9 +471,9 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
   *Child mode:* Pick one idea. Say why it should work. Build it. Test it 3 times.
   - Ask: One push was not enough. What does every idea that works have? (good: Something that keeps pushing or pulling all the way.; A supply of energy during the trip, not only at the start.)
 - **s3 (12 min)**  
-  *Parent does:* 1. Look at the creative ideas, or invent a new one. 2. Your child draws the design first. 3. Build it and test it 3 times. 4. Compare it with the first idea.  
-  *Parent says:* Now try an idea where the carrier takes its own energy along. Draw it first. How is it like a motor protein, and how is it different?  
-  *Child mode:* Draw your own carrier. Build it. Test it 3 times. Which idea was best?
+  *Parent does:* 1. Look at the creative ideas, or invent a new one. 2. Your child draws the design first, or describes it out loud. 3. Build it and test it 3 times. 4. Compare it with the first idea.  
+  *Parent says:* Now try an idea where the carrier takes its own energy along. Plan it first, by drawing it or telling me. How is it like a motor protein, and how is it different?  
+  *Child mode:* Draw your own carrier, or describe it to your grown-up. Build it. Test it 3 times. Which idea was best?
   - Note: The balloon works well if the thread is smooth and tight and the balloon is taped along the straw with its neck pointing backward. A balloon gives one long push. A motor protein takes a new sip of energy at every step, which is closer to the pulled loop.
   - Check: Where does a motor protein get the energy for each step along a microtubule? → **From one ATP for each step**
 

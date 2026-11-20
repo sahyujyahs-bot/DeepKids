@@ -322,7 +322,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
   - Note: Each time, push the pencil end to the middle of the bigger ball again. With an 18 cm pencil, expect about 6 cm and 12 cm for pair B. Expect about 4 cm and 14 cm for pair C. Your numbers will sit a few millimetres nearer the middle, because the pencil has weight too.
 - **s5 (5 min)**  
   *Parent does:* 1. Keep pair C, 4 against 1. Tie the thread tightly round the pencil at its balance mark, and tape the knot. 2. Hold the thread so the pair hangs level. 3. Twist the thread gently and let the pair turn. 4. Look down from above. Watch the path of each ball.  
-  *Parent says:* Watch from above while the pair turns. Does the heavy ball stay in one place? Which ball makes the bigger circle?  
+  *Parent says:* Watch from above while the pair turns. Follow the path of each ball with your eyes.  
   *Child mode:* Tie the thread at the balance mark. Let the pair hang level. Twist the thread gently. Look from above. Which ball makes the bigger circle?
   - Ask: Does the heavy ball stay still while the light ball goes round? (good: No. The heavy ball goes round the thread too.; The heavy ball makes a small circle and the light ball makes a big one.)
   - Note: Turn the pair slowly. If it tips, slide the knot a few millimetres towards the end that hangs low. The point to notice is that both balls circle the thread, and the heavy one makes the smaller circle.
@@ -338,7 +338,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - **question:** A small ball is 2 centimetres wide. How many small balls does it take to make a ball that is twice as wide? How many for a ball three times as wide?
 - **predict:** Guess first. How many small balls will make a ball 4 centimetres wide? How many will make a ball 6 centimetres wide? Why do you think so? Write both guesses and your reasons.
 - **fair test:** Make every small ball the same size, from equal pieces of one dough snake. Measure every ball the same way, between two upright books. Roll the big ball round each time before you measure, because a flat ball measures too wide.
-- **record:** Write the width of the big ball after 1, 2, 4, 8, 16 and 27 small balls. Draw a line graph of width against the number of balls. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **record:** Write the width of the big ball after 1, 2, 4, 8, 16 and 27 small balls. Draw a line graph of width against the number of balls, or just read the numbers aloud to your grown-up. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Small balls joined | Width of the big ball (cm) | How many times as wide as one small ball
 - **s1 (3 min)**  
   *Parent does:* 1. Roll one small ball of dough and show that it is 2 cm wide. 2. Ask how many such balls will make a ball 4 cm wide. 3. Ask how many will make a ball 6 cm wide. 4. Write down both guesses and the reasons.  
@@ -383,7 +383,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Tape the ruler flat on the wall, at the height of the visible ball. 2. Send your child out of the room. 3. Put 1 piece of dough in a cup, close it, and tape it to the pencil end. 4. Slide the pencil across your finger until it balances. Tie the thread there.  
   *Parent says:* Please wait outside while I hide the dough. I will call you in when the pair is ready. Do not look at the cup until I say.  
-  *Child mode:* Fetch a grown-up. They hide some dough in a cup while you wait outside.
+  *Child mode:* Wait outside the room while your grown-up hides some dough in a cup. Do not peek.
   - Note: Pair A has 1 piece in the cup. With an 18 cm pencil, the thread goes about 3.6 cm from the visible ball. Use the smallest, lightest cups. A cup weighs a few grams, so pair A may swing up to 8 cm. Hang the thread from a chair back or a door handle, so the pencil hangs level.
 - **s3 (7 min)**  
   *Parent does:* 1. Call your child in. They sit about 2 metres away, level with the visible ball. 2. Twist the thread about 5 turns and let the pair turn. 3. Your child marks the far left and the far right place of the visible ball against the ruler. 4. They measure the width between the two marks, twice.  
@@ -394,7 +394,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - **s4 (10 min)**  
   *Parent does:* 1. Your child leaves the room again. 2. Hide 2 pieces in the cup and tie the thread at the new balance point. 3. Your child measures the swing as before. 4. Do the same for 4 pieces. 5. Write both widths in the table.  
   *Parent says:* Here is the second secret pair, and then the third. Measure each swing the same way. Which swung widest? Which swung narrowest?  
-  *Child mode:* Fetch the helper again. They hide 2 pieces, then 4 pieces. Measure each swing the same way.
+  *Child mode:* Wait outside again while 2 pieces, then 4 pieces, are hidden. Come back and measure each swing the same way.
   - Note: Pair B has 2 pieces hidden. With an 18 cm pencil, expect a width of about 12 cm. Pair C has 4 pieces, and the width is about 18 cm. Pair C is the easiest to see, because the thread hangs in the middle of the pencil.
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child to put the 3 widths in order, from the narrowest to the widest. 2. Ask them to guess the hidden pieces for each pair. 3. Use this rule: half the width is the visible ball's distance. The rest of the pencil is the hidden ball's distance. 4. Open the cups and compare. 5. Ask your child to say what they thought would happen, what they saw, and why it happened.  
@@ -406,7 +406,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 
 ## Activities
 ### a1 · Marble Earth, Peppercorn Moon: how far apart? (20 min)
-- **record:** Draw the marble and the peppercorn with the distance between them. Write the scale under your drawing: 1 cm stands for 8,000 km.
+- **record:** Take a photo of the marble and the peppercorn with the ruler between them, or draw them. Write the scale: 1 cm stands for 8,000 km.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the marble on a table or on the floor. Say that it stands for the Earth. 2. Give your child the peppercorn. Say that it is the Moon at the right size. 3. Ask your child to put the Moon where they think it belongs. 4. Ask why, and mark the place with a slip of paper.  
   *Parent says:* This marble is the Earth, and this peppercorn is the Moon at the right size. How far from the Earth should the Moon go? Why do you think so?  
@@ -432,11 +432,11 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
   - Check: On a scale where the Earth is a marble, where is the Moon? → **About 48 cm away**
 ### a2 · The Towel Spin: who makes the bigger circle? (10 min)
 - **safety:** Clear the floor of toys and furniture first. Turn slowly, at walking speed, and stop if anyone feels dizzy.
-- **record:** Draw the two circles as seen from above. Mark where the coin lay. Write how far each person's feet were from the coin.
+- **record:** Write how far each person's feet were from the coin, and who is heavier. Draw the two circles from above if you like.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Clear a space on the floor about 2 metres wide. 2. Each of you holds one end of the rolled towel. 3. Ask your child who will move in the bigger circle when you turn, and why.  
   *Parent says:* We will turn slowly round each other. Will I stay in one place while you go round me? Who will make the bigger circle? Why do you think so?  
-  *Child mode:* Fetch a grown-up. Hold one end of the towel each. Who will make the bigger circle? Say why.
+  *Child mode:* Hold one end of the towel each, with your grown-up. Who will make the bigger circle? Say why.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Both lean back a little, so the towel is tight. 2. Walk slowly round each other for four or five turns. 3. Each of you watches the other's feet. 4. Stop. Put the coin on the floor where the middle of the turning was.  
   *Parent says:* Lean back a little and walk round slowly. Watch my feet. Am I standing still, or am I going round too?  
@@ -445,12 +445,12 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
   - Note: You will find that you cannot stay on one spot without pulling your child off their feet. Your own feet trace a small circle. If two children do this with each other, the circles are nearly equal.
 - **s3 (3 min)**  
   *Parent does:* 1. Stand as you were when turning. Measure from the coin to each person's feet. 2. Compare the two distances with your two weights. 3. Ask how this is like the Earth and the Moon.  
-  *Parent says:* The coin was nearer to me. I am about twice as heavy as you. How do the two distances compare?  
+  *Parent says:* Look at where the coin lay. Is it nearer to the heavier person or to the lighter one? Measure to find out.  
   *Child mode:* Measure from the coin to your feet. Measure from the coin to the grown-up's feet. Who was nearer the coin? Who is heavier?
   - Note: If you weigh twice as much as your child, the coin should be about half as far from you. This is a rough test, so expect only a rough match. The Earth has 81 times the mass of the Moon, so its circle is 81 times smaller.
   - Check: A heavy person and a light person turn round each other, holding a towel. Who makes the smaller circle? → **The heavy person**
 ### a3 · A Thousand Grains of Rice: where is the mass of the solar system? (15 min)
-- **record:** Draw the big heap, the one grain and the broken bits. Label them 'the Sun', 'Jupiter' and 'everything else'.
+- **record:** Take a photo of the big heap, the one grain and the broken bits, or draw them. Say or write which is 'the Sun', 'Jupiter' and 'everything else'.
 - **s1 (6 min)**  
   *Parent does:* 1. Count out 100 grains of rice into a heap. 2. Make 9 more heaps of the same size by eye. 3. Push the 10 heaps together. This is about 1,000 grains. 4. Say that the heap stands for the mass of the whole solar system.  
   *Parent says:* This heap is about a thousand grains. It stands for everything in the solar system: the Sun, the planets, the moons and the rest.  
@@ -462,7 +462,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
   - Note: Many children give the planets a third or a half of the heap, because pictures show eight large planets beside the Sun.
 - **s3 (5 min)**  
   *Parent does:* 1. Push all the grains back together. 2. Take out 1 grain. This is Jupiter. 3. Take out 1 more grain and break it in half. One half is every other planet, moon, asteroid and comet together. Put the other half back. 4. The rest of the heap is the Sun. Ask where the Earth is.  
-  *Parent says:* One grain is Jupiter. Half a grain is everything else that goes round the Sun. All the rest is the Sun. So where is the Earth?  
+  *Parent says:* One grain is Jupiter. Half a grain is everything else that goes round the Sun. All the rest is the Sun.   
   *Child mode:* Take out 1 grain for Jupiter. Break 1 more grain in half. Half is all the other planets and moons. The rest is the Sun.
   - Ask: Where is the Earth in the rice? (good: The Earth is a tiny speck of the half grain, too small to pick up.; It would take about 330 Earths to make one grain.)
   - Note: The Sun holds about 998.6 grains of the 1,000. Jupiter is about 1 grain. Everything else together is a little under half a grain. The Earth is about three-thousandths of a grain.
@@ -475,9 +475,9 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
   *Child mode:* Write the 12 cards. Each has a name, a width, a shape and a material. At what width do worlds become round? Say why you think so.
   - Note: Vesta is nearly round, with a flattened shape and one huge crater, so it is counted as lumpy here. The widths are averages, because a lumpy body is wider one way than another.
 - **s2 (8 min)**  
-  *Parent does:* 1. Lay the cards in a row from the narrowest to the widest. 2. Colour the lumpy cards in one colour and the round cards in another. 3. Find the widest lumpy world and the narrowest round world. 4. Mark the part of the row where round and lumpy are mixed.  
+  *Parent does:* 1. Lay the cards in a row from the narrowest to the widest. 2. Move the lumpy cards up into an upper row and the round cards down into a lower row. Keep the order of widths. 3. Find the widest lumpy world and the narrowest round world. 4. Find the part where the two rows overlap.  
   *Parent says:* Is there one width where lumpy stops and round begins? Or is there a stretch where the two are mixed?  
-  *Child mode:* Put the cards in order of width. Colour lumpy and round. Find the widest lumpy world. Find the narrowest round world.
+  *Child mode:* Put the cards in order of width. Put lumpy cards in an upper row and round cards in a lower row. Find the widest lumpy world. Find the narrowest round world.
   - Ask: What do you notice about the row? (good: Everything under 300 km is lumpy and everything over 900 km is round.; Between about 400 and 525 km, round and lumpy are mixed.)
   - Note: The narrowest round world is Mimas at 396 km. The widest lumpy one is Vesta at 525 km. So there is no single line. There is a mixed zone from about 400 to 525 km.
 - **s3 (10 min)**  
@@ -513,8 +513,8 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - **schedule:** day 1: Test 12 worlds against the three tests. Make a table of what passes and what fails. (20 min); day 2: Each person picks a side and prepares one argument and one answer to the other side. (20 min); day 3: Hold the meeting. Vote on three rules, hear the arguments, vote again, and write down the result. (20 min)
 - **s1 (20 min)**  
   *Parent does:* Day 1. Choose 12 worlds from the Name the World cards, such as the Earth, Pluto, Ceres, Eris, the Moon, Ganymede and Vesta. For each, tick or cross: goes round the Sun, is round, has cleared its path. Note which worlds pass all three.  
-  *Parent says:* Test twelve worlds against the three tests. Which pass all three? Which worlds do you think should be called planets, even if they fail a test? Why?  
-  *Child mode:* Pick 12 worlds. Test each one against the three tests. Which pass all three?
+  *Parent says:* Test twelve worlds against the three tests. Then tell me which worlds you think should be called planets, even if they fail a test. Why?  
+  *Child mode:* Pick 12 worlds. Tick or cross each of the three tests for each one.
   - Ask: Which worlds pass all three tests? (good: Only the eight planets.; The Earth passes. Pluto fails the third test.)
   - Note: Only the eight planets pass all three. Pluto, Ceres and Eris pass two and fail the third. The Moon and Ganymede fail the first.
 - **s2 (20 min)**  
@@ -555,13 +555,13 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
   - Check: Why must a picture of the solar system name its scales? → **Sizes and distances may not use the same scale**
 ### c2 · A Double World: build a pair that balances in empty space (30 min)
 - **problem:** Build a heavy ball and a light ball that hang level from one thread, with the thread outside the heavy ball. The heavy ball must be at least 6 times as heavy as the light ball.
-- **your turn:** Now invent your own double world. Draw the pair, and mark the balance point and the two distances. Write the mass ratio and how far outside the heavy ball the point lies.
+- **your turn:** Now invent your own double world. Take a photo of the pair, or draw it. Show where the balance point is, and write the two distances. Write the mass ratio and how far outside the heavy ball the point lies.
 - **constraints:** The heavy ball must have at least 6 times the mass of the light ball.; The thread must be at least 1 cm outside the surface of the heavy ball.; The pair must hang level for 10 seconds without touching anything.; Use a stick or pencil no longer than 40 cm, thread, tape, dough, coins and nuts or washers.
 - **general:** Use a longer stick, so the balance point is far from the heavy ball.; Make the heavy ball small, by packing it with coins or nuts instead of dough.; Keep the heavy ball only 6 or 7 times as heavy as the light one. A much lighter partner moves the point towards the heavy ball.
 - **creative:** Hang the two balls on opposite ends of a 40 cm stick, with a dense stack of coins as the heavy ball.; Use a stack of 6 coins against 1 coin, on a 25 cm stick.; Use 7 steel nuts against 1 nut, on a 30 cm chopstick or stick.
 - **s1 (6 min)**  
   *Parent does:* 1. Read the problem and the four constraints together. 2. Ask your child what makes the balance point lie outside the heavy ball. 3. Let them choose how to build the heavy ball and how long the stick should be.  
-  *Parent says:* In The Two-Ball Balance, 8 pieces against 1 piece balanced inside the big ball. What could we change so the point lies outside? Which is the better plan: a bigger gap, or a smaller heavy ball?  
+  *Parent says:* In The Two-Ball Balance, 8 pieces against 1 piece balanced inside the big ball. What could we change so the point lies outside?  
   *Child mode:* The point must lie outside the heavy ball. Plan how. A longer stick? A smaller heavy ball?
   - Ask: What two things push the balance point outside the heavy ball? (good: A longer gap between the balls.; A small heavy ball, made of something dense.; A heavy ball that is not too much heavier than the light one.)
 - **s2 (14 min)**  

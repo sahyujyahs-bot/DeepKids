@@ -258,7 +258,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s3 (5 min)**  
   *Parent does:* 1. Count the points. 2. Look again at the cards that were got wrong. 3. Ask which true story on the cards was the most surprising.  
   *Parent says:* Which card fooled us? Which true story surprised you most?  
-  *Child mode:* Count your points. Which card fooled you? Which true story surprised you most?
+  *Child mode:* Count your points. Pick the card that fooled you most.
   - Check: Snakes eat rats and frogs. Rats eat paddy. Frogs eat grasshoppers, who eat paddy. The snakes are killed. What happens to the paddy? → **It depends which path is stronger**
 ### g2 · Which Box? (12 min)
 - **rules:** Shuffle the cards and put them in a pile, animal side up.; On your turn, read the top card aloud. Say which box the card belongs in, and why.; Turn the card over. Score 1 point for the right box.; If the back says 'two boxes', score 2 points if you named both.; Put the card on its box on the mat. If it fits two boxes, lay it across both.; When the pile is finished, the player with the most points wins. Playing alone, try to beat your last score.
@@ -266,7 +266,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **Printable board: A mat with five boxes:** Box 1: HERBIVORE (eats only plants); Box 2: CARNIVORE (eats only animals); Box 3: OMNIVORE (eats plants and animals); Box 4: SCAVENGER (eats animals already dead); Box 5: DECOMPOSER (breaks down dead things)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 20 cards and the mat. 2. Shuffle the cards. 3. Read the five box names aloud.  
-  *Parent says:* There are five ways to get food. Let's see where each of these beings belongs.  
+  *Parent says:* There are five boxes. Herbivores eat plants. Carnivores eat animals. Omnivores eat both. Scavengers eat animals that are already dead. Decomposers break down dead things. Let's see where each being belongs.  
   *Child mode:* Cut out the cards and the mat. Mix the cards. Read the five box names.
 - **s2 (7 min)**  
   *Parent does:* 1. Take turns to read the top card. 2. Say the box and the reason. 3. Turn the card over, score, and place the card on the mat.  
@@ -276,7 +276,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s3 (3 min)**  
   *Parent does:* 1. Count the points. 2. Look at the cards lying across two boxes. 3. Ask why some animals do not fit in one box.  
   *Parent says:* Three cards lie across two boxes. Why don't these animals fit in one?  
-  *Child mode:* Count your points. Look at the cards across two boxes. Why don't they fit in one?
+  *Child mode:* Count your points. Find the cards that lie across two boxes.
   - Ask: Why do some animals fit two boxes? (good: They get food in more than one way.; The boxes are our words. Animals eat whatever they can find.)
   - Check: A frog eats flies, mosquitoes and grasshoppers. Which box fits a frog? → **Carnivore, because insects are animals**
 
@@ -285,7 +285,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **question:** Two webs have the same 10 beings. When the same 3 beings disappear from both, which web has more beings left: the one with 7 links or the one with 18 links?
 - **predict:** Guess first. Three beings will be taken from both webs. Will the narrow web or the wide web have more beings left, or will they be the same? Why do you think so? Write your guess and your reason.
 - **fair test:** Both webs have the same 10 beings. In each round, the same 3 beings are taken from both webs. Only the number of arrows is different. Play 6 rounds, because one draw of cards can be a fluke.
-- **record:** Fill in the table for 6 rounds. Find the average number left in each web, and draw two bars. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **record:** Fill in the table for 6 rounds. Find the average number left in each web, and show them as two coin towers. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Round | The 3 beings drawn | Narrow web: beings left | Wide web: beings left
 - **s1 (8 min)**  
   *Parent does:* 1. On both sheets, write the same 10 names in the same places. Bottom row: Grass, Shrubs, Fig tree. Second row: Grasshopper, Hare, Chital, Langur. Third row: Peafowl. Top row: Dhole, Leopard. 2. On sheet 1, write NARROW WEB. Here each animal eats one food. The grasshopper and the hare eat grass. The chital eats shrubs. The langur eats figs. The peafowl eats grasshoppers. The dhole eats hares. The leopard eats chital. 3. On sheet 2, write WIDE WEB. The grasshopper and the hare eat grass and shrubs. The chital eats grass, shrubs and figs. The langur eats shrubs and figs. The peafowl eats grass seeds, figs and grasshoppers. The dhole eats hares and chital. The leopard eats hares, chital, langurs and peafowl. 4. Draw an arrow from each food to the eater. Count the arrows.  
@@ -295,7 +295,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s2 (3 min)**  
   *Parent does:* 1. Put one token on every name on both sheets. 2. Write the 10 names on 10 slips of paper and fold them. 3. Explain that 3 beings will be taken from both webs. 4. Ask for a guess and a reason, and write them down.  
   *Parent says:* We will take the same three beings away from both webs. Which web will have more beings left afterwards? Or will they be the same? Why do you think so?  
-  *Child mode:* Put a token on every name. Three beings will be taken from both webs. Which web will have more left? Why? Write your guess.
+  *Child mode:* Put a token on every name. Three beings will be taken from both webs. Guess which web will have more left.
   - Ask: Why do you think so? (good: In the wide web an animal can eat something else if one food goes.; They will be the same, because both lose 3 beings. (A fair guess. The test will show.))
 - **s3 (4 min)**  
   *Parent does:* 1. Teach the hunger rule on the narrow web. Take the token off Hare. 2. Ask who eats only hares in this web. Take the token off Dhole too. 3. Say the rule: an animal with no food left in the web is lost. 4. Put both tokens back.  
@@ -309,9 +309,9 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   - Ask: Which card did the most harm in the narrow web when it was drawn? (good: Grass, because the grasshopper, hare, peafowl and dhole all depended on grass.; A plant card, because everything above the plant went too.)
   - Note: The wide web can never have fewer left than the narrow web. It has every arrow of the narrow web, and more. Most rounds leave 6 or 7 in the wide web and 3 to 7 in the narrow web. In about one round in six they tie. If all three plant cards come out together, both webs lose everyone.
 - **s5 (6 min)**  
-  *Parent does:* 1. Add up the 6 numbers for the narrow web and divide by 6. Do the same for the wide web. 2. Draw two bars to compare the averages. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask what the paper model leaves out.  
+  *Parent does:* 1. Add up the 6 numbers for the narrow web and divide by 6. Do the same for the wide web. 2. Stack coins into two towers, as tall as the two averages (round to a whole number). 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask what the paper model leaves out.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did it happen?  
-  *Child mode:* Find the average for each web. Draw two bars. Say what you thought would happen, what you saw, and why it happened.
+  *Child mode:* Find the average for each web. Stack two coin towers. Say what you thought would happen, what you saw, and why it happened.
   - Ask: Why did the wide web lose fewer beings? (good: Most animals there had another food left when one food went.; In the narrow web each animal had only one food, so one loss passed up the chain.)
   - Ask: Our model follows hunger only. What could happen in a real forest that the model leaves out? (good: If the leopard and dhole go, the chital could multiply and eat down the plants.; Animals can move away or find new foods.; Some links are strong and some are weak.)
   - Check: In the Two Webs Test, why were more beings left in the wide web? → **Most eaters there had another food to turn to**
@@ -325,7 +325,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **predict:** Guess first. When water runs in at the top and out at the hole, what will the level do? Then guess what will happen to the level if you open a second hole of the same size. Why do you think so? Write both guesses and your reasons.
 - **fair test:** Use the same bottle and the same tap all through. Once the stream is set, do not touch the tap again. Only one thing changes at a time: first a finger over the hole for a count of 30, then a second hole.
 - **safety:** A grown-up makes the holes. A heated nail is very hot, so hold it with pliers and keep children back. Do the test in a bathroom or at a sink, because wet floors are slippery.
-- **record:** Write the level every minute in the table. Draw a line graph of level against minutes. Mark where you covered the hole and where you opened the second hole. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **record:** Write the level every minute in the table. Draw a line graph of level against minutes, or just read the numbers aloud and say where the level stopped changing. Mark where you covered the hole and where you opened the second hole. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Minute | Water level above the holes (cm) | What we changed
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up makes two holes in the bottle, each about 3 mm wide, as wide as a matchstick. Both are 3 cm above the base, on opposite sides. 2. Dry the bottle. Press tape firmly over one hole. 3. With the ruler and marker, draw a line every 1 cm up the side. Start with 0 level with the holes and go up to 18.  
@@ -335,7 +335,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s2 (3 min)**  
   *Parent does:* 1. Show how the test will work, without turning on the tap. 2. Ask what the level will do when water runs in and out together. 3. Ask what a second hole will do to the level. 4. Write down both guesses and the reasons.  
   *Parent says:* Water will run in at the top and out at the hole. What will the level do? Later we will open a second hole. What will the level do then? Why do you think so?  
-  *Child mode:* Water will run in and out together. What will the level do? What will a second hole do? Say why. Write your guesses.
+  *Child mode:* Guess what the level will do. Then guess what a second hole will do. Write your guesses.
   - Ask: Why do you think so? (good: It will stop where the water going out equals the water coming in.; With two holes the level will be half as high. (A fair guess. The test will show.))
 - **s3 (9 min)**  
   *Parent does:* 1. Stand the bottle in the bucket under the tap. 2. Open the tap to a thin, steady stream that goes into the mouth of the bottle. 3. Read the level every minute for 8 minutes and write it down. 4. When the level stays the same for 2 minutes, mark it with the pen.  
@@ -363,7 +363,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   - Check: In the Leaky Bottle, why did the level stay at one mark? → **Water left as fast as it arrived**
 ### e3 · Ants and the Sugar Drop: how fast do eaters follow their food? (40 min)
 - **question:** When food appears, how quickly does the number of ants rise? When the food is taken away, how quickly does the number fall?
-- **predict:** Guess first. Sketch how you think the number of ants will change over 16 minutes. Then guess how many minutes the ants will stay after the sugar is taken away. Why do you think so? Write your guesses and your reasons.
+- **predict:** Guess first. How many ants will you count after 16 minutes? Will the number rise steadily, or slowly at first? Then guess how many minutes the ants will stay after the sugar is taken away. Why do you think so? Write your guesses and your reasons.
 - **fair test:** Count only the ants inside the circle. Count every 2 minutes by the clock. Do not move the paper, blow on the ants or add more sugar during the test.
 - **record:** Write the count every 2 minutes in the table. Draw a line graph of ants against minutes, and mark the minute when you took the sugar away. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Minutes since the first ant arrived | Ants inside the circle | Is the sugar there?
@@ -373,9 +373,9 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   *Child mode:* Find where ants walk. Lay the paper there. Wet the sugar on the small square. Put it in the middle of the circle.
   - Note: The first ant may take 5 to 30 minutes to find the sugar. Do something else nearby while you wait. If no ant has come in 30 minutes, move the paper close to where you last saw ants. Or try again in the evening. Small black or red house ants work well. Do not use big red tree ants, who bite hard.
 - **s2 (3 min)**  
-  *Parent does:* 1. While you wait for the first ant, ask for a guess. 2. Ask your child to sketch how the number of ants will change over 16 minutes. 3. Ask how long the ants will stay once the sugar is gone, and why.  
+  *Parent does:* 1. While you wait for the first ant, ask for a guess. 2. Ask your child to guess how many ants there will be after 16 minutes. Will the number rise steadily, or slowly at first? 3. Ask how long the ants will stay once the sugar is gone, and why.  
   *Parent says:* How do you think the number of ants will change? Will it rise steadily, or slowly at first? When we take the sugar away, how soon will they leave? Why do you think so?  
-  *Child mode:* Sketch how the number of ants will change. When the sugar goes, how soon will they leave? Say why.
+  *Child mode:* Guess how many ants will come. When the sugar goes, how soon will they leave?
   - Ask: Why do you think so? (good: One ant finds the sugar first and the others follow her, so the number rises slowly at first.; They will leave at once because there is nothing to eat. (A fair guess. The test will show.))
 - **s3 (16 min)**  
   *Parent does:* 1. When the first ant reaches the sugar, start the timer. Write 1 ant at 0 minutes. 2. Every 2 minutes, count the ants inside the circle and write the number. 3. Go on for 16 minutes.  
@@ -389,9 +389,9 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   *Child mode:* Lift the sugar square away. Tap the ants off gently. Count the ants in the circle every 2 minutes. Go on for 10 minutes.
   - Note: New ants usually keep arriving for several minutes, because the scent trail is still there. The count falls slowly, not all at once. Afterwards, put the sugar square outside for the ants.
 - **s5 (6 min)**  
-  *Parent does:* 1. Draw a line graph of the number of ants against minutes. 2. Mark the minute when the sugar was taken away. 3. Ask your child to say what they thought would happen, what they saw, and why it happened.  
+  *Parent does:* 1. Draw a line graph of ants against minutes, or read the counts aloud and say where the jump was biggest. 2. Mark the minute when the sugar was taken away. 3. Ask your child to say what they thought would happen, what they saw, and why it happened.  
   *Parent says:* Look at your graph. What did you think would happen? What did you see? Why did it happen?  
-  *Child mode:* Draw your line graph. Mark when the sugar went. Say what you thought would happen, what you saw, and why it happened.
+  *Child mode:* Draw your line graph (or say where the biggest jump was). Mark when the sugar went. Say what you thought would happen, what you saw, and why it happened.
   - Ask: Owls and snakes eat rats. If rats suddenly had far more food, would the owls and snakes multiply at once? (good: No. Their numbers would rise later, because raising young takes time.; The eaters follow the food late, as the ants did.)
   - Check: In Ants and the Sugar Drop, what happened after the sugar was taken away? → **Ants kept coming for some minutes**
 
@@ -404,14 +404,14 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   *Child mode:* Write the chain: grass, grasshopper, frog, snake, eagle. Draw the arrows. Count the beings. Count the arrows.
   - Note: An arrow means 'is eaten by'. It points the way the food goes. There are 5 beings and 4 arrows.
 - **s2 (6 min)**  
-  *Parent does:* 1. Point to each animal in turn. Ask what else she eats, and who else eats her. 2. Write each new being on the paper. 3. Draw every new arrow in colour, from the food to the eater. 4. Add at least 5 new beings.  
+  *Parent does:* 1. Point to each animal in turn. Ask what else she eats, and who else eats her. 2. Write each new being on the paper. 3. Draw every new arrow in colour, from the food to the eater. 4. Add at least 5 new beings. If your child would rather not draw, they can point and tell you each new link while you draw it.  
   *Parent says:* Does a frog eat only grasshoppers? Does a snake eat only frogs? Let's add what each one really eats.  
   *Child mode:* Look at each animal. What else does she eat? Who else eats her? Add 5 new beings. Draw the new arrows in colour.
   - Note: Some true links to offer if your child is stuck: a frog also eats flies. A snake also eats rats and lizards. An eagle also eats rats and lizards. A rat eats grass seeds and paddy. A lizard and a myna eat grasshoppers. A grasshopper also eats paddy leaves.
 - **s3 (3 min)**  
-  *Parent does:* 1. Count all the beings and all the arrows now. 2. Divide the arrows by the beings. 3. Ask what the web shows that the chain did not.  
+  *Parent does:* 1. Count all the beings and all the arrows now. 2. Divide the arrows by the beings, to find how many links each being has on average. 3. Ask what the web shows that the chain did not.  
   *Parent says:* How many arrows are there now? What can you see in the web that the chain was hiding?  
-  *Child mode:* Count the beings. Count the arrows. Divide arrows by beings. What does the web show that the chain hid?
+  *Child mode:* Count the beings. Count the arrows. Divide arrows by beings.
   - Ask: What does the web show that the chain did not? (good: Most animals have more than one food.; If the frogs went, the snake could still eat rats.; One animal can be in many chains at once.)
 ### a2 · Take the Snakes Away: follow a change through a web (20 min)
 - **record:** Write the steps as a chain of changes, such as: snakes gone → rats more → paddy less.
@@ -439,21 +439,21 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   *Child mode:* Two frogs leave 4,000 eggs. The pond keeps the same number of frogs. How many of the 4,000 become parents? Say why.
   - Note: The answer is about 2. Two parents are replaced by two young. If 3 lived, the frogs would grow by half in every generation. Let your child reason it out. Do not give the answer yet.
 - **s2 (7 min)**  
-  *Parent does:* 1. Draw a box 10 squares wide and 10 squares tall. It holds 100 squares, for 100 eggs. 2. Work out how many such boxes make 4,000 eggs. 3. Colour 2 squares for the young who live. 4. Next to it, draw 12 squares for the cubs a tigress may have in her life. Colour 2.  
+  *Parent does:* 1. Draw a box 10 squares wide and 10 squares tall. It holds 100 squares, for 100 eggs. 2. Work out how many such boxes make 4,000 eggs. 3. Colour 2 squares for the young who live. Or lay out 100 chana as eggs and move 98 away. 4. Next to it, draw 12 squares for the cubs a tigress may have in her life. Colour 2.  
   *Parent says:* One box is 100 eggs. How many boxes would we need for 4,000? Only two squares in all those boxes get coloured.  
   *Child mode:* Draw a box of 100 squares. You would need 40 boxes for 4,000 eggs. Colour 2 squares. Now draw 12 squares for a tigress. Colour 2.
   - Ask: What share of the frog's young live? What share of the tigress's? (good: 2 in 4,000, which is 1 in 2,000.; 2 in 12, which is 1 in 6.)
 - **s3 (4 min)**  
   *Parent does:* 1. Ask where the other 3,998 went. 2. Ask who was fed by them. 3. Ask why a frog needs so many young and a tigress needs so few.  
   *Parent says:* Where did the other 3,998 go? Who ate them? Why does a frog lay thousands of eggs, when a tigress has two or three cubs?  
-  *Child mode:* Where did the other 3,998 go? Who ate them? Why does a frog need so many young?
+  *Child mode:* Tell your grown-up where the other 3,998 went and who ate them.
   - Check: Why do animals who are eaten often have many young? → **So that a few are still left to become parents**
 ### a4 · The Ten-Year Wave: draw two lines and find the delay (20 min)
 - **record:** Keep the graph. Under the graph, write how many years pass between two hare peaks. Also write how many years later the lynx peak comes.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a line along the bottom of the paper and mark years 1 to 20. 2. Draw a line up the side and mark 0 to 100 in tens. 3. Before plotting, ask for a guess. When hares become many, what will happen to the lynx, and when?  
   *Parent says:* A lynx eats hares. When there are many hares, what will happen to the number of lynx? Will it happen in the same year, or later? Why?  
-  *Child mode:* Draw the two axes. Mark years 1 to 20 along the bottom. Mark 0 to 100 up the side. When hares are many, what happens to the lynx? When?
+  *Child mode:* Draw the two axes. Mark years 1 to 20 along the bottom. Mark 0 to 100 up the side. Then make your guess.
   - Note: Hares in thousands, year 1 to 20: 20, 40, 70, 100, 80, 40, 15, 10, 10, 15, 25, 45, 75, 100, 75, 35, 15, 10, 10, 20. Lynx in thousands, year 1 to 20: 5, 8, 15, 30, 45, 50, 30, 12, 6, 4, 5, 9, 16, 32, 46, 50, 28, 12, 6, 4.
 - **s2 (10 min)**  
   *Parent does:* 1. Plot the 20 hare numbers as dots and join them in one colour. 2. Plot the 20 lynx numbers and join them in a second colour. 3. Mark each peak, the highest point of each wave.  
@@ -462,7 +462,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s3 (5 min)**  
   *Parent does:* 1. Count the years from one hare peak to the next. 2. Count the years from a hare peak to the lynx peak that follows. 3. Ask why the lynx peak comes later, and why the hares crash.  
   *Parent says:* How many years is it from one hare peak to the next? How long after the hares do the lynx reach their peak? Why are they late?  
-  *Child mode:* Count the years between two hare peaks. Count how late the lynx peak is. Why are the lynx late?
+  *Child mode:* Count the years between two hare peaks. Count how late the lynx peak is.
   - Ask: Why does the lynx peak come after the hare peak? (good: Lynx need time to raise more kittens after the food increases.; The eaters follow their food late.)
   - Ask: Why might the hares crash after their peak? (good: Many hares eat down their food plants.; By then there are many lynx hunting them.)
   - Note: The hare peaks are at years 4 and 14, so the wave is 10 years long. The lynx peaks are at years 6 and 16, so the lynx are 2 years late. In the real records the delay is one or two years. Scientists have found that both hunger and predators help to cause the hare crash.
@@ -481,11 +481,11 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s3 (4 min)**  
   *Parent does:* 1. Ask why lantana spreads so fast in India. 2. Ask what could hold lantana back. 3. Tell your child what people do: in some forests, teams pull the bushes out by the root, and grass returns.  
   *Parent says:* In the Americas, lantana does not take over like this. What might be missing here?  
-  *Child mode:* Why does lantana spread so fast here? What is missing? What could hold lantana back?
+  *Child mode:* In its old home, something holds lantana back. What could do that here?
   - Ask: Why does lantana spread so fast in India? (good: The insects and illnesses that feed on lantana in the Americas are not here.; Almost nobody in the web eats the leaves, so nothing pushes back.)
   - Check: Why can a plant brought from far away spread so fast in a new place? → **Their usual eaters were left behind**
 ### a6 · If the Forest Is Cut: a map of what follows (15 min)
-- **record:** Copy the finished map into your notebook, with an arrow from each cause to its result.
+- **record:** Take a photo of the finished map, or copy it into your notebook, with an arrow from each cause to its result.
 - **s1 (4 min)**  
   *Parent does:* 1. Write 'The forest is cut' on a slip and put it in the middle. 2. Ask what is lost at once when the trees go. 3. Write each answer on its own slip and place the slips around the first one.  
   *Parent says:* A forest has been cut down. What is gone straight away? Think of food, of homes, and of the ground.  
@@ -499,12 +499,12 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s3 (4 min)**  
   *Parent does:* 1. Ask your child to find the longest chain of arrows on the map. 2. Ask which results reach people. 3. Ask what could be done to stop each chain early.  
   *Parent says:* Which chain is the longest? Which of these results would reach a family in a town far away?  
-  *Child mode:* Find the longest chain on your map. Which results reach people in towns? What could stop the chain early?
+  *Child mode:* Trace the longest chain with your finger. Then find a result that reaches people far away.
   - Check: A forest is cut down. Why do the carnivores there suffer, though they never eat plants? → **Their prey lose food and shelter**
 
 ## Projects
 ### p1 · My Place, My Web: map and test a real food web (80 min, 4 days)
-- **record:** Keep the list, the web drawing and a half-page report. The report says which being you removed, who changed, and how sure you are.
+- **record:** Keep the list, the web drawing and the report (spoken, or half a page). The report says which being you removed, who changed, and how sure you are.
 - **schedule:** day 1: Choose a place. List 10 to 12 living beings there, with at least 2 producers. (20 min); day 2: Find out what each being eats. Watch, ask, or look it up. Write each link down. (20 min); day 3: Draw the web. Count the beings and the links. Find the being with the most arrows. (20 min); day 4: Take one being out and follow the change. Write a short report. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Choose one place. It can be a tree on your street, a pond or a paddy field you know. It can also be a famous place, such as Chilika lake. 2. List 10 to 12 living beings who live there. 3. Make sure the list has at least 2 producers and at least 2 animals who eat other animals.  
@@ -523,9 +523,9 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   *Child mode:* Draw the web with plants at the bottom. Draw every arrow. Count beings and arrows. Circle the being with the most arrows.
   - Wait: Do the next step tomorrow
 - **s4 (20 min)**  
-  *Parent does:* 1. Put a coin on every being. 2. Choose one being to remove, and guess who will change. 3. Use the hunger rule and the two rules to follow the change. 4. Write a half-page report. Say who changed, and how sure you are.  
+  *Parent does:* 1. Put a coin on every being. 2. Choose one being to remove, and guess who will change. 3. Follow the change with the rules. An animal with no food left is lost. Fewer eaters means more of their food. Less food means fewer eaters. 4. Give a short report, spoken or half a page. Say who changed, and how sure you are.  
   *Parent says:* Which being shall we take out? Who do you think will change, and why? Let's follow it through the web.  
-  *Child mode:* Put a coin on every being. Take one being out. Who goes hungry? Who becomes more? Write a short report.
+  *Child mode:* Put a coin on every being. Take one being out. Who goes hungry? Who becomes more? Tell or write a short report.
   - Ask: How sure are you of your result? What would make you more sure? (good: Not very sure, because some links are guesses.; Counting the animals for some years, or comparing with a place that lost that being.)
   - Note: The hunger rule: an animal with no food left is lost. The two rules: fewer eaters means more of their food, and less food means fewer eaters. A strong report admits what the paper web cannot show.
   - Wait: Do the next step tomorrow
@@ -542,25 +542,25 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
   *Parent says:* You have only 12 arrows. Where will each one do the most good? Why?  
   *Child mode:* Choose 2 plants and 6 animals. Draw them. Add exactly 12 arrows. Write the 8 names on cards.
 - **s2 (12 min)**  
-  *Parent does:* 1. Put a coin on every being. 2. Shake the cards and draw 2. Remove those coins. 3. Use the hunger rule until nobody else is lost. 4. Count who is left and write it down. 5. Do this 5 times and find the average.  
+  *Parent does:* 1. Put a coin on every being. 2. Shake the cards and draw 2. Remove those coins. 3. Use the hunger rule (an animal with no food left is lost) until nobody else is lost. 4. Count who is left and write it down. 5. Do this 5 times and find the average.  
   *Parent says:* Two beings are gone. Does anyone have no food left? Check again after each loss.  
   *Child mode:* Put a coin on every being. Draw 2 cards. Remove those coins. Remove any animal with no food left. Count who is left. Do it 5 times.
   - Note: The best possible score is 6 left. A web where every animal has two different foods scores 5 or 6 in nearly every draw.
 - **s3 (10 min)**  
   *Parent does:* 1. Find the animal who was lost most often. 2. Move one arrow to help that animal. 3. Test 5 more times. 4. Compare the two averages.  
   *Parent says:* Who was lost most often? Why? Which arrow would you move to help?  
-  *Child mode:* Who was lost most often? Move one arrow to help. Test 5 more times. Compare your averages.
+  *Child mode:* Move one arrow to help that animal. Test 5 more times. Compare your two averages.
   - Check: You have a fixed number of arrows. Which design loses the fewest animals to hunger? → **Every animal gets at least two foods**
 ### c2 · An Owl Perch for the Paddy Field (35 min)
 - **problem:** Build a T-shaped perch from newspaper. It must stand in a pot of soil with its bar at least 30 cm above the soil. It must hold a potato on the bar for one minute.
-- **your turn:** Now design your own perch. Draw it, build it and test it with the potato for one minute. Then try to make it taller. How tall can it be and still hold the potato?
+- **your turn:** Now design your own perch. Plan it, build it and test it with the potato for one minute. Then try to make it taller. How tall can it be and still hold the potato?
 - **constraints:** Use only 4 sheets of newspaper, sticky tape and thread.; The perch stands by itself in a pot of soil, or in a dabba filled with rice. Nobody may hold it.; The potato, about 150 grams, sits on the bar for one minute without falling.
 - **general:** Roll each sheet tightly from one corner into a thin, stiff tube, and tape it.; Tie and tape the bar across the top of the pole to make a T.; Push the pole deep into the soil.
 - **creative:** Add two slanting braces under the bar, to make triangles.; Use two poles with the bar across both, like a goalpost.; Make the bar from two tubes side by side, so the potato does not roll off.
 - **s1 (5 min)**  
-  *Parent does:* 1. Talk about why a farmer wants owls in her field. 2. Ask what an owl needs from a perch. 3. Ask your child to sketch a design before building.  
-  *Parent says:* An owl hunts by sitting still and listening. What does she need from a perch? Sketch your idea first.  
-  *Child mode:* Why does a farmer want owls? What does an owl need from a perch? Sketch your design.
+  *Parent does:* 1. Talk about why a farmer wants owls in her field. 2. Ask what an owl needs from a perch. 3. Ask your child to tell you the plan before building: how tall it will be, and how the bar will stay up.  
+  *Parent says:* An owl hunts by sitting still and listening. What does she need from a perch? Tell me your idea first.  
+  *Child mode:* Why does a farmer want owls? What does an owl need from a perch? Tell your plan for the perch.
   - Ask: What does the farmer gain from the owl, and the owl from the farmer? (good: The owl eats rats who would eat the paddy.; The owl gets a high place to watch from, in a field with no trees.)
 - **s2 (20 min)**  
   *Parent does:* 1. Roll the newspaper into tight tubes and tape them. 2. Join a pole and a bar into a T. 3. Push the pole into the pot of soil. 4. Measure the height of the bar above the soil. 5. Put the potato on the bar and time one minute.  
@@ -570,7 +570,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 - **s3 (10 min)**  
   *Parent does:* 1. Improve the weakest part and test again. 2. Ask what poison put out for the rats would do to an owl on this perch. 3. Ask which lasts longer, a perch or a packet of poison.  
   *Parent says:* What was the weakest part? How did you fix it? Now think about the real field. What would rat poison do to the owl?  
-  *Child mode:* Fix the weakest part. Test again. What would rat poison do to the owl?
+  *Child mode:* Fix the weakest part. Test again.
   - Check: A farmer puts out rat poison in a field where owls hunt. What can happen to the owls? → **Owls who eat poisoned rats can die**
 
 ## Worksheets

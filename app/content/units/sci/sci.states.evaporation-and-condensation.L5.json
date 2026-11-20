@@ -712,9 +712,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "1. Draw the pot and the AIR cloud. 2. Roll the die 12 times and write a speed in each square. 3. Add up the speeds and divide by 12. 4. Ask what will happen to the average when the fastest particles leave, and why.",
+          "do": "1. Draw a big pot with 12 squares inside, in 3 rows of 4. Draw a cloud above it and write AIR in it. 2. Roll the die 12 times and write a speed in each square. 3. Add up the speeds and divide by 12. 4. Ask what will happen to the average when the fastest particles leave, and why.",
           "say": "Each number is the speed of one particle. The average is the temperature of the pot. When the fast ones at the surface leave, what will happen to the average? Why?",
-          "kid": "Draw the pot. Roll the die 12 times. Write a speed in each square. Find the average. Guess what will happen to it.",
+          "kid": "Draw the pot and the cloud. Roll the die 12 times. Write a speed in each square. Find the average. Guess what will happen to it.",
           "parent": "A phone calculator is fine for the division. For example, a total of 42 gives 42 ÷ 12 = 3.5.",
           "context": "This is the first step of Fast Ones Leave. Here you give twelve particles of water their speeds with a die, and find their average speed."
         },
@@ -769,7 +769,7 @@
       "title": "Wide or Narrow: does a bigger surface lose more water?",
       "mins": 45,
       "days": 2,
-      "context": "This experiment takes two days. You put the same amount of water into a wide plate, a bowl, a tumbler and a closed jar. A day later you measure how much water each has lost. Then you compare the loss with the size of each water surface.",
+      "context": "This experiment takes two days. You put the same amount of water into a wide plate, a bowl, a tumbler and a closed jar. A day later you measure how much water each has lost. You will find out whether a wider water surface loses more water.",
       "question": "The same amount of water stands in a wide plate, a bowl and a tumbler for one day. Which loses the most? If one surface is 4 times as big as another, does it lose 4 times as much water?",
       "predict": "Guess first, and write your guesses. Put the plate, the bowl, the tumbler and the closed jar in order. Start with the one that will lose the most water. Then guess a number. A plate twice as wide as a bowl has about 4 times the surface. How many times as much water will the plate lose? Why do you think so?",
       "fair_test": "Put the same amount of water in every vessel, measured in the same glass. Stand all four side by side, in the same room, under the same fan, out of the sun. Measure them all after the same time. Only the size of the water surface is different. The closed jar shows how much water is lost just by pouring.",
@@ -827,7 +827,7 @@
           "what": "Pour each vessel's water back into the measuring glass and read the height. Work out the loss, compare it with the area, and explain."
         }
       ],
-      "record": "Fill in the table. Draw a bar chart with one bar for each vessel, showing the height lost. Then write what you thought would happen, what you saw, and why you think it happened.",
+      "record": "Fill in the table. Make a bar chart with one bar for each vessel, showing the height lost. Draw it, or build each bar from beans, one bean for each millimetre. Then say what you thought would happen, what you saw, and why you think it happened.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: water lost in one day",
@@ -934,7 +934,7 @@
         {
           "id": "s6",
           "mins": 5,
-          "do": "1. Look at the areas and the losses side by side. 2. Ask how many times as big the plate's surface is as the bowl's. 3. Ask how many times as much water the plate lost. 4. Do the same for the bowl and the tumbler. 5. Draw the bar chart.",
+          "do": "1. Look at the areas and the losses side by side. 2. Ask how many times as big the plate's surface is as the bowl's. 3. Ask how many times as much water the plate lost. 4. Do the same for the bowl and the tumbler.",
           "say": "How many times as big is the plate's surface as the bowl's? About how many times as much water did it lose? Did the tumbler lose as much as its surface suggests?",
           "kid": "Compare the plate with the bowl. How many times bigger is its surface? How many times more water did it lose?",
           "parent": "The plate usually loses about 4 times as much as the bowl. The tumbler often loses less than its area suggests. Its walls stand above the water and shelter it from the fan, so damp air collects there.",
@@ -945,7 +945,7 @@
           "mins": 6,
           "do": "1. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 2. After they have answered, read them the note below. 3. Ask why the closed jar lost nothing.",
           "say": "Say what you thought would happen, what you saw, and why it happened. Then tell me this: the jar had the same water. Why did it lose none?",
-          "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Why did the closed jar lose no water?",
+          "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
           "ask": [
             {
               "q": "Why did the plate lose the most?",
@@ -982,7 +982,7 @@
       "title": "The Oil Lid: does water cool more slowly when it cannot evaporate?",
       "mins": 35,
       "days": 1,
-      "context": "In this experiment two bowls hold the same hot water. A thin layer of cooking oil covers the water in one bowl, so that no water can evaporate from it. You find out which bowl cools faster.",
+      "context": "In this experiment two bowls hold the same hot water. A thin layer of cooking oil covers the water in one bowl, so that no water can evaporate from it. You will find out whether evaporation is what cools hot water.",
       "question": "Two bowls of hot water start at the same temperature. One has a layer of oil on top, which stops the water evaporating. Does it cool as fast as the open bowl?",
       "predict": "Guess first, and write your guess. After 20 minutes, which bowl will be cooler: the open one, the one under oil, or neither? Why do you think so?",
       "fair_test": "Use two bowls of the same size and the same steel. Give each the same amount of water from the same jug, at the same moment. Stand them side by side, away from the fan. The only difference is the layer of oil.",
@@ -1135,7 +1135,7 @@
         {
           "id": "s4",
           "mins": 12,
-          "do": "1. Wait until 10 minutes have passed since the pouring. 2. The grown-up touches the outside of each bowl first. 3. Your child puts one hand on each bowl, then swaps hands. 4. Write which bowl feels cooler. 5. With a thermometer, read both bowls every 5 minutes.",
+          "do": "1. Wait until 10 minutes have passed since the pouring. 2. The grown-up touches the outside of each bowl first. 3. Your child puts one hand on each bowl, then swaps hands. 4. Write which bowl feels cooler. 5. If you have a thermometer, read both bowls every 5 minutes.",
           "say": "Put one hand on each bowl. Now swap your hands. Which bowl is cooler? Is it a small difference or a big one?",
           "kid": "Wait 10 minutes. Put one hand on each bowl. Swap hands. Which bowl feels cooler? Write it down.",
           "adult": true,
@@ -1157,7 +1157,7 @@
           "mins": 6,
           "do": "1. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 2. After they have answered, read them the note below. 3. Ask what the cold plate showed.",
           "say": "Say what you thought would happen, what you saw, and why it happened. Both bowls lost heat through the steel. What else was the open bowl losing?",
-          "kid": "Say what you thought would happen. Say what you saw. Say why it happened. What did the cold plate show?",
+          "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
           "ask": [
             {
               "q": "Both bowls lost heat through the steel. What else was the open bowl losing?",
@@ -1189,7 +1189,7 @@
       "title": "The Tilting Hanger: spread, fan or sunshine, which dries a cloth fastest?",
       "mins": 45,
       "days": 1,
-      "context": "In this experiment a coat hanger is a balance. Two wet cloths that weigh the same are dried in two different ways for 8 minutes. Then the hanger shows which cloth has lost more water.",
+      "context": "In this experiment a coat hanger is a balance. Two wet cloths that weigh the same are dried in two different ways for 8 minutes. Then the hanger shows which cloth has lost more water. You will find out which dries a cloth fastest: spreading it, moving air or warmth.",
       "question": "Three things can speed up drying: spreading the cloth out, moving air and warmth. In your home today, which of the three makes the biggest difference in 8 minutes?",
       "predict": "Guess first, and write your guess. You will run three tests. The first is a spread cloth against a folded cloth. The second is a cloth under the fan against a cloth in still air. The third is a test that you choose. In which test will the two cloths end up most different? Why do you think so?",
       "fair_test": "Start each test with two cloths that balance on the hanger, so they hold the same water. In each test change only one thing. In the first test both cloths are under the fan, and only the folding differs. In the second both are spread out, and only the moving air differs. Give both cloths the same 8 minutes.",
@@ -1236,7 +1236,7 @@
           "what": "Make a hanger balance. Run three 8-minute drying tests with two wet cloths, measure which cloth lost more water each time, and explain."
         }
       ],
-      "record": "Fill in the table. Draw a bar chart with one bar for each test, showing how far the lighter cloth's end rose. Then write what you thought would happen, what you saw, and why you think it happened.",
+      "record": "Fill in the table. Make a bar chart with one bar for each test, showing how far the lighter cloth's end rose. Draw it, or build each bar from clothes clips. Then say what you thought would happen, what you saw, and why you think it happened.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: how far the drier cloth's end rose",
@@ -1292,7 +1292,7 @@
           "id": "s2",
           "mins": 5,
           "do": "1. Dip both cloths in the bowl. 2. Hold them together and squeeze until the dripping stops. 3. Bunch each cloth and clip one to each end of the hanger. 4. If one end is lower, drip water from the teaspoon onto the other cloth until the hanger is level. 5. Ask for the guess and its reason.",
-          "say": "Now the two cloths hold the same water. We will dry them in different ways. In which of our three tests will they end up most different? Why?",
+          "say": "Now the two cloths hold the same water. We will dry them in different ways. First spread against folded, then fan against still air, then a test you choose. In which test will they end up most different? Why?",
           "kid": "Wet both cloths. Squeeze them together. Clip one to each end. Add drops until the hanger is level. Now guess.",
           "ask": [
             {
@@ -1336,7 +1336,7 @@
         {
           "id": "s6",
           "mins": 5,
-          "do": "1. Put the three results side by side and draw the bar chart. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. After they have answered, read them the note below.",
+          "do": "1. Put the three results side by side. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. After they have answered, read them the note below.",
           "say": "Say what you thought would happen, what you saw, and why it happened. Which change made the biggest difference in our home today?",
           "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Which change mattered most today?",
           "ask": [
@@ -1373,7 +1373,7 @@
       "title": "Tumbler or Davara: which cools hot water faster?",
       "mins": 10,
       "days": 1,
-      "context": "This is the first thing to do in the unit. A grown-up pours the same hot water into a tumbler and into a wide davara. You find out which one cools faster, and wonder why.",
+      "context": "This is the first thing to do in the unit. A grown-up pours the same hot water into a tumbler and into a wide davara. You will find out whether the shape of a vessel changes how fast hot water cools.",
       "materials": [
         {
           "item": "a steel tumbler",
@@ -1393,7 +1393,7 @@
         }
       ],
       "safety": "A grown-up boils, mixes and pours the water. The mixed water is hot, like bath water from a geyser. Touch only the outside of the vessels, and only after the grown-up has tested them.",
-      "record": "Draw the tumbler and the davara from above. Shade the water surface of each. Write which one cooled faster.",
+      "record": "Look down at the tumbler and the davara from above. Point to the bigger water surface and tell your grown-up which one cooled faster. Or draw both from above and shade the water.",
       "setup": [
         {
           "art": "A grown-up pouring steaming water from a steel jug into a steel tumbler, with a wide davara beside it.",
@@ -1468,7 +1468,7 @@
       "title": "Shake the Plate: a model of particles leaving water",
       "mins": 15,
       "days": 1,
-      "context": "In this activity whole chana in a steel plate stand for the particles of water. You shake the plate gently and then harder, and count how many chana jump out. It is a model of evaporation.",
+      "context": "In this activity whole chana in a steel plate stand for the particles of water. You shake the plate gently and then harder, and count how many chana jump out. It is a model of evaporation. You will see which particles can get out, and why.",
       "materials": [
         {
           "item": "a steel plate with a low rim, about 1 cm high",
@@ -1578,7 +1578,7 @@
       "title": "Draw the Particles: four changes of state",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you draw the particles of ice, water and water vapour. Then you join them with four arrows, one for each change of state. You show where heat goes in and where it comes out.",
+      "context": "In this activity you draw the particles of ice, water and water vapour. Then you match the four changes of state to them and show where heat goes in and where it comes out. You will find out why melting and evaporation need heat.",
       "materials": [
         {
           "item": "a sheet of plain paper",
@@ -1612,7 +1612,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "1. Draw three boxes of the same size at the corners of a triangle. Label them ice, water and water vapour. 2. Ask your child to draw the particles of each, all the same size. 3. Ask them to add a short arrow to each particle, to show how it moves.",
+          "do": "1. Draw three boxes of the same size at the corners of a triangle. Label them ice, water and water vapour. 2. Ask your child to draw the particles of each, all the same size. Torn bits of paper work too. 3. Ask them to add a short arrow to each particle, to show how it moves.",
           "say": "Draw the particles of ice, of water and of water vapour. Make every particle the same size. How close are they in each box? How do they move?",
           "kid": "Draw three boxes. Label them ice, water and water vapour. Draw the particles in each box. Show how they move.",
           "parent": "In the ice box, the particles sit in rows, touching, and they only shake in place. In the water box, the particles touch, are jumbled and slide past each other. In the vapour box, there are only one or two particles, far apart, with long arrows. If the vapour box is crowded, ask how much space steam takes.",
@@ -1621,9 +1621,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "1. Draw an arrow from ice to water and one from water to ice. 2. Draw an arrow from water to vapour and one from vapour to water. 3. Ask your child to name each arrow: melting, freezing, evaporation, condensation. 4. Colour an arrow red if heat must go in, and blue if heat must come out.",
-          "say": "Name each arrow. For which two changes must heat go in? For which two must heat come out?",
-          "kid": "Draw four arrows between the boxes. Name each one. Colour it red if heat goes in. Colour it blue if heat comes out.",
+          "do": "1. Tear four small slips of paper. Write one of these on each: melting, freezing, evaporation, condensation. 2. Ask your child to put each slip between the two boxes it joins. 3. Ask which way each change goes. 4. Lay a red pencil on a slip if heat must go in, and a blue pencil if heat must come out.",
+          "say": "Match each change to its boxes. Then think about heat. Does the water need heat, or give it away?",
+          "kid": "Put each slip between the two boxes it joins. Lay a red pencil on it if heat goes in. Lay a blue pencil on it if heat comes out.",
           "ask": [
             {
               "q": "Which two arrows are red, and why?",
@@ -1644,7 +1644,7 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "1. Draw a big circle below the triangle. 2. In it, ask your child to draw the surface of water with about 15 particles. 3. They give each particle a short or a long arrow. 4. They show two long-arrowed particles at the top leaving.",
+          "do": "1. Draw a big circle below the triangle. 2. In it, ask your child to draw the surface of water with about 15 particles. Torn bits of paper work too. 3. They give each particle a short or a long arrow. 4. They show two long-arrowed particles at the top leaving.",
           "say": "Now zoom in on the surface while the water evaporates. Which particles leave? What is left behind?",
           "kid": "Draw a big circle. Draw the top of the water inside it. Give some particles long arrows. Show which ones leave.",
           "check": {
@@ -1687,7 +1687,7 @@
         }
       ],
       "safety": "A grown-up works the stove and holds the plate. Children watch from an arm's length away. Steam burns badly, so nobody puts a hand or face over the pan.",
-      "record": "Draw the pan twice: when the water is warm, and when it is boiling. Draw the bubbles and write what is inside them.",
+      "record": "Tell a grown-up what was inside each kind of bubble, and how you know. Or draw the pan when it is warm and when it is boiling, with the bubbles.",
       "setup": [
         {
           "art": "A steel pan of water on a low flame, with tiny bubbles clinging to the bottom and the walls.",
@@ -1805,7 +1805,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "1. Draw six circles with the tumbler, along the journey. Put one at the sea surface, one in the clear air and one where the cloud forms. Put one under the cloud, one on the hilltop and one in the river. 2. Number them 1 to 6. 3. Ask your child to draw the water particles in each. 4. Add a red arrow where energy goes into the water, and a blue one where it comes out.",
+          "do": "1. Draw six circles with the tumbler, along the journey. Put one at the sea surface, one in the clear air and one where the cloud forms. Put one under the cloud, one on the hilltop and one in the river. 2. Number them 1 to 6. 3. Ask your child to draw the water particles in each, or to tell you what they are doing. 4. Add a red arrow where energy goes into the water, and a blue one where it comes out.",
           "say": "In each circle, draw what the water particles are doing. Are they close or far apart? Fast or slow? Where does energy go in, and where does it come out?",
           "kid": "Draw six circles along the journey. Draw the water particles in each one. Are they close or far apart?",
           "parent": "In circle 1, fast particles leave the sea, and the salt stays behind. In circle 2, vapour particles are far apart among the particles of air. In circle 3, slowed particles stick to a speck of dust. In circle 4, a raindrop holds many particles together. In circle 5, snow or hail on a cold hilltop has its particles in rows. In circle 6, liquid water is flowing. Draw a red arrow at circle 1 and a blue arrow at circle 3.",
@@ -1938,7 +1938,7 @@
       "title": "The Evaporation Survey: how do ten people use evaporation?",
       "days": 3,
       "mins": 55,
-      "context": "In this three-day project you ask ten people how they use evaporation in daily life. You tally their answers, draw a bar chart and say what you found.",
+      "context": "In this three-day project you ask ten people how they use evaporation in daily life. You tally their answers, make a bar chart and say what you found. You will find out which uses of evaporation people know best.",
       "materials": [
         {
           "item": "paper, a pencil and a ruler",
@@ -2003,9 +2003,9 @@
         {
           "id": "s3",
           "mins": 20,
-          "do": "1. Count the tally marks in each row. 2. Draw a bar chart with one bar for each way. 3. Ask your child to say what they thought would happen, what they found, and why it came out that way. 4. Ask how the survey could be made better.",
+          "do": "1. Count the tally marks in each row. 2. Make a bar chart with one bar for each way. Stack a bean for each tally mark, or draw the bars. 3. Ask your child to say what they thought would happen, what they found, and why it came out that way. 4. Ask how the survey could be made better.",
           "say": "Say what you thought would happen, what you found, and why you think it came out that way. If you did this again, what would you change?",
-          "kid": "Count the tally marks. Draw a bar for each way. Say what you found. How could the survey be better?",
+          "kid": "Count the tally marks. Make a bar for each way. Say what you found. How could the survey be better?",
           "ask": [
             {
               "q": "How could the survey be better?",
@@ -2090,7 +2090,7 @@
           "id": "s1",
           "mins": 10,
           "do": "1. Stir 1 teaspoon of salt and a spoonful of black tea into 1 tumbler of water. Make two tumblers like this. 2. Stand an empty katori in the middle of each big bowl. 3. Pour one tumbler of the brown water round each katori. 4. Cover each bowl with clear film and tie it. 5. Put a stone on each film, above the katori.",
-          "say": "This is the plain fresh-water maker. Where will the water evaporate? Where will it condense? How will the drops reach the katori?",
+          "say": "This is the plain fresh-water maker. Where will the water evaporate? How will the drops reach the katori?",
           "kid": "Make two tumblers of brown, salty water. Stand a katori in each bowl. Pour the water round it. Cover with film. Add a stone.",
           "ask": [
             {
@@ -2197,7 +2197,7 @@
           "id": "s1",
           "mins": 8,
           "do": "1. Put 12 ice cubes in one steel tumbler, fill it with tap water and stand it on a dry tray. This is the plain design. 2. Read the problem and the ideas together. 3. Ask your child to plan a design for the other 12 ice cubes. Ask why it will catch more water.",
-          "say": "The drops on this tumbler came out of the air. How could 12 ice cubes catch more? What does the vapour need in order to condense?",
+          "say": "The drops on this tumbler came out of the air. How could 12 ice cubes catch more?",
           "kid": "Put 12 ice cubes and water in one tumbler. That is the plain design. Plan a better one. Say why it will catch more.",
           "ask": [
             {

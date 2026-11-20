@@ -548,7 +548,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about strange life cycles. Each card gives three clues about one animal's life. You try to name the animal from as few clues as you can.",
+   "context": "This is a card game about strange life cycles. To breed is to have babies. Each card gives three clues about one animal's life. You try to name the animal from as few clues as you can.",
    "printables": [
     {
      "kind": "cards",
@@ -677,7 +677,7 @@
      "kid": "Read one clue. Guess the animal. If you are wrong, read the next clue.",
      "ask": [
       {
-       "q": "This animal breeds once and then dies. Which animals could that be?",
+       "q": "A clue says the animal breeds once and then dies. Which animals could that be?",
        "good": [
         "A Pacific salmon, a mayfly, an octopus, an eel or a periodical cicada.",
         "We need another clue to choose between them."
@@ -809,7 +809,7 @@
      "mins": 3,
      "do": "1. Cut out the year chits, the meal chart and the score sheet. 2. Give each player ten rajma and seven chits. 3. Read the rules aloud once.",
      "say": "You are a brood of ten cicadas. You must choose how many years to stay underground. Some years are more dangerous than others.",
-     "kid": "Take ten rajma and seven chits. You are a brood of cicadas. Choose your year in secret.",
+     "kid": "Take ten rajma and seven chits. You are a brood of cicadas.",
      "context": "This is the first step of Emerge! Here you set up the chits, the meal chart and the cicadas."
     },
     {
@@ -865,7 +865,7 @@
    "title": "The Crowd Test: is it safer to come out alone or all together?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment rajma on a towel stand for cicadas coming out of the ground. One person is a hungry bird who picks them up for ten seconds. You test whether more cicadas live when they come out a few at a time or all at once.",
+   "context": "In this experiment, rajma on a towel are cicadas coming out of the ground. One person is a hungry bird who picks them up for ten seconds. You will find out if a cicada is safer coming out alone or in a big crowd.",
    "question": "Sixty cicadas must come out of the ground. Do more of them live if ten come out on each of six evenings, or if all sixty come out on one evening? And how does the number a bird eats change as the crowd gets bigger?",
    "predict": "Guess first. With which plan will more cicadas be left alive: ten each evening for six evenings, or all sixty on one evening? About how many will be left each time? Then guess again. If the crowd is twice as big, will the bird eat twice as many? Write both guesses and your reason for each.",
    "fair_test": "Change only the size of the crowd. Keep the same bird, who uses the same hand and picks up one rajma at a time. Keep the same towel and the same ten seconds. The bird closes their eyes while the rajma are scattered, so they cannot plan. Plan A is six short goes. Do Plan B three times and find the mean, because one go can be a fluke.",
@@ -968,7 +968,7 @@
      "mins": 3,
      "do": "1. Read out the two plans. 2. Ask for the first guess, with numbers, and the reason. 3. Ask the second guess, about a crowd twice as big. 4. Write both down.",
      "say": "Ten each evening for six evenings, or all sixty on one evening. Which plan leaves more cicadas alive, and how many? Why do you think so?",
-     "kid": "Guess which plan saves more cicadas. Guess how many are left. Say why. Write it down.",
+     "kid": "Guess which plan saves more cicadas, and how many are left. Write your guess down.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1018,7 +1018,7 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. For each row, write the share eaten as a fraction, such as 8 out of 10. 2. Draw a line graph. Put the crowd size along the bottom and the number eaten up the side. 3. Look at the shape of the line.",
+     "do": "1. For each row, write the share eaten as a fraction, such as 8 out of 10. 2. Draw a line graph, or build a bar of rajma for each crowd size. Put the crowd size along the bottom and the number eaten up the side. 3. Look at the shape of the line.",
      "say": "Let's write each result as a share. Eight out of ten is a big share. Nine out of eighty is a small share. Now draw the graph.",
      "kid": "Write each result as a share, like 8 out of 10. Draw the line graph. What shape is the line?",
      "parent": "The line usually climbs at first and then goes nearly flat. If one point is far off the others, test that crowd size again and say so in the table.",
@@ -1165,7 +1165,7 @@
      "mins": 3,
      "do": "1. Let your child smell cup 10 for a few breaths. 2. Tell them this is the smell of their home stream. 3. Ask for their guess and the reason. 4. Write it down.",
      "say": "This is the smell of your home stream. Learn it well. How weak can it get before your nose loses it? Why do you think so?",
-     "kid": "Smell the first cup. This is your home stream. Guess the weakest one you can find. Say why.",
+     "kid": "Smell the first cup. This is your home stream. Guess the weakest cup you can still smell.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1242,7 +1242,7 @@
    "title": "Life Bars: how much of a life is spent growing up?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you draw the lives of five animals as bars of the same length. On each bar you shade the part of life spent as a youngster, before the body is able to have young. Then you compare the bars.",
+   "context": "In this activity you make the lives of five animals as paper strips of the same length. On each strip you colour the part of life spent as a youngster, before the body is able to have young. You will find out how much of their lives the five animals spend growing up.",
    "materials": [
     {
      "item": "a sheet of paper, a ruler and a pencil",
@@ -1253,11 +1253,11 @@
      "qty": 1
     }
    ],
-   "record": "Keep the drawing. Under it write one sentence: which animal spends the biggest share of life as a youngster, and which the smallest.",
+   "record": "Keep the strips. On a paper beside them write one sentence: which animal spends the biggest share of life as a youngster, and which the smallest.",
    "setup": [
     {
      "art": "A sheet of paper with five empty bars, each 20 centimetres long, labelled human, elephant, hen, cicada and mayfly.",
-     "caption": "1. Draw five bars, each 20 centimetres long. Each bar is one whole life."
+     "caption": "1. Cut five strips, each 20 centimetres long. Each strip is one whole life."
     },
     {
      "art": "The same five bars with the first part of each shaded: a short shaded part for the hen, longer for the human and elephant, and almost the whole bar for the cicada and mayfly.",
@@ -1280,9 +1280,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Draw five bars, each 20 centimetres long and 1 centimetre high. 2. Leave a gap between them. 3. Write one animal's name beside each bar.",
-     "say": "Each bar is one whole life, from the start to the end. The lives are different lengths, but we draw every bar the same length. Then we can compare the shares.",
-     "kid": "Draw five bars. Make each one 20 cm long. Write an animal's name by each bar.",
+     "do": "1. Cut five paper strips, each 20 centimetres long and 1 centimetre wide. 2. Lay them in a row with a gap between them. 3. Write one animal's name on each strip.",
+     "say": "Each strip is one whole life, from the start to the end. The lives are different lengths, but we cut every strip the same length. Then we can compare the shares.",
+     "kid": "Cut five strips. Make each one 20 cm long. Write an animal's name on each strip.",
      "context": "This step of Life Bars is for drawing five bars of the same length, one for each animal's whole life."
     },
     {
@@ -1297,20 +1297,20 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "1. A hen can lay at 5 months and lives about 6 years. Shade 1.4 centimetres of her bar. 2. A periodical cicada is a nymph for 17 years and an adult for about 4 weeks. Shade all of the bar but the last 1 millimetre. 3. A mayfly is a nymph for about a year and an adult for a day. Shade the whole bar, and draw one thin pencil line at the end for the adult.",
-     "say": "For the last three I will read you the lengths. The hen is 1.4 centimetres. The cicada is everything except the last millimetre. The mayfly is everything except one pencil line.",
+     "do": "1. A hen can lay at 5 months and lives about 6 years. Shade 1.4 centimetres of her bar. 2. A periodical cicada is a nymph for 17 years and an adult for about 4 weeks. Shade all of the bar but the last 1 millimetre. 3. A mayfly is a nymph for about a year and an adult for a day. Shade the whole bar, and leave one thin pencil line at the end for the adult.",
+     "say": "A nymph is a young insect that is not yet an adult. For the last three I will read you the lengths. The hen is 1.4 centimetres. The cicada is everything except the last millimetre. The mayfly is everything except one pencil line.",
      "kid": "Hen: shade 1.4 cm. Cicada: shade all but 1 mm. Mayfly: shade all but one thin line.",
      "context": "This step of Life Bars is for shading the bars of the hen, the cicada and the mayfly."
     },
     {
      "id": "s5",
      "mins": 2,
-     "do": "1. Ask your child to put the animals in order, from the smallest share of life as a youngster to the biggest. 2. Compare with the guess. 3. Ask how they would draw a bar for a jellyfish who can turn from adult back to young.",
-     "say": "Put them in order. Was your guess right? Now, one small jellyfish can turn from an adult back into a youngster. How would you draw her bar?",
-     "kid": "Put the animals in order. Was your guess right? How would you draw a jellyfish who turns young again?",
+     "do": "1. Ask your child to put the animals in order, from the smallest share of life as a youngster to the biggest. 2. Compare with the guess. 3. Ask how they would show the strip of a jellyfish who can turn from adult back to young.",
+     "say": "Put them in order. Was your guess right? Now, one small jellyfish can turn from an adult back into a youngster. How would you show her strip?",
+     "kid": "Put the animals in order. Was your guess right? How would you show a jellyfish who turns young again?",
      "ask": [
       {
-       "q": "We call the winged cicada 'the adult' and the nymph 'the young'. Which one is the cicada for most of the time?",
+       "q": "Which stage is most of a cicada's life: the young nymph or the winged adult?",
        "good": [
         "The nymph, for nearly all of the 17 years.",
         "The winged stage is only the last month."
@@ -1353,7 +1353,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the jellyfish life cycle as a circle of stages: egg, swimming larva, polyp, young medusa, adult medusa. Then add one more arrow, from the adult medusa back to the polyp. Write one thing the dough model shows well and one thing it leaves out.",
+   "record": "Draw the jellyfish life cycle as a circle of stages: egg, swimming larva, polyp, young medusa, adult medusa. Then add one more arrow, from the adult medusa back to the polyp. You can draw it, or tell it to your grown-up. Write one thing the dough model shows well and one thing it leaves out.",
    "setup": [
     {
      "art": "A dough jellyfish on a plate: a bowl-shaped bell upside down, eight thin tentacles around the rim and a short mouth tube in the middle.",
@@ -1397,9 +1397,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Ask where the material for the polyp came from. 2. Ask what the dough model leaves out. 3. Your child draws the life cycle with the extra backward arrow.",
+     "do": "1. Ask where the material for the polyp came from. 2. Ask what the dough model leaves out. 3. Your child says the five stages in a circle (egg, swimming larva, polyp, young medusa, adult medusa) and points to the extra backward step.",
      "say": "Where did the polyp's body come from? Dough has no cells. So what must happen inside the real jellyfish that our dough cannot show?",
-     "kid": "Where did the polyp's body come from? What does dough leave out? Draw the life cycle with a backward arrow.",
+     "kid": "Where did the polyp's body come from? Then say the five stages in a circle and point to the backward step.",
      "ask": [
       {
        "q": "What must happen inside the real jellyfish that dough cannot show?",
@@ -1478,7 +1478,7 @@
      "mins": 3,
      "do": "1. Divide the whole ball into four equal eggs. 2. Put them on a plate. 3. Ask what a baby from a big egg starts life with.",
      "say": "Four big eggs. Each one holds a lot of food. What does a baby from a big egg start life with?",
-     "kid": "Make four big eggs from the whole ball. What does a big egg give the baby?",
+     "kid": "Make four big eggs from the whole ball. Put them on a plate.",
      "ask": [
       {
        "q": "What does a baby from a big egg start life with?",
@@ -1594,7 +1594,7 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Ask when most deaths happen on each line. 2. Ask which line fits a human in India today, a sparrow and a salmon. 3. Ask which line fits a mother who lays 300 million eggs. 4. Ask which line humans had 200 years ago, when many children died young.",
-     "say": "On each line, when do most of the hundred die? Which line fits us? Which fits a salmon? And which line do you think fitted humans 200 years ago?",
+     "say": "On each line, when do most of the hundred die? Which line fits us? Which fits a salmon?",
      "kid": "When do most die on each line? Which line fits a human? A sparrow? A salmon?",
      "ask": [
       {
@@ -1706,7 +1706,7 @@
      "mins": 2,
      "do": "1. Ask your child for the three sentences. 2. Ask where the water in the limp strip went. 3. Only then read the card 'From fresh water to salt water' together.",
      "say": "Say what you thought, what you saw, and why. Where did the water from the limp strip go? What does that mean for a fish in the sea?",
-     "kid": "Say what you guessed and what you saw. Where did the water go? What about a fish in the sea?",
+     "kid": "Say what you guessed, what you saw, and why. Then say what this means for a fish in the sea.",
      "ask": [
       {
        "q": "Where did the water from the limp strip go?",
@@ -1798,7 +1798,7 @@
      "what": "Count the holes again. Work out the share of eggs that became adults. Empty the jar and the cup outdoors."
     }
    ],
-   "record": "Keep a page for each visit, with the date, a drawing and your counts. On the last day write two numbers: the eggs you counted on the 20 seeds, and the holes in those same seeds. Then write the share of eggs that became adults.",
+   "record": "Keep a page for each visit, with the date, a photo or drawing and your counts. On the last day write two numbers: the eggs you counted on the 20 seeds, and the holes in those same seeds. Then write the share of eggs that became adults.",
    "setup": [
     {
      "art": "A jar of whole moong on a table with a few small brown beetles walking on the seeds, and some seeds with neat round holes.",
@@ -1821,8 +1821,8 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Look in jars of old whole moong, cowpea or chana for seeds with small round holes, or ask at a grocery shop. 2. Put a handful of these seeds and at least five live beetles in the jar. 3. Add 60 clean seeds of the same kind. 4. Cover the jar with cloth and a rubber band. 5. Stand it in a warm, shaded place away from stored food. 6. Your child draws one beetle and one holed seed.",
-     "say": "These beetles are adults. They will not eat anything now. What do you think the round holes in the seeds are? How do you think the holes got there?",
+     "do": "1. Look in jars of old whole moong, cowpea or chana for seeds with small round holes, or ask at a grocery shop. 2. Put a handful of these seeds and at least five live beetles in the jar. 3. Add 60 clean seeds of the same kind. 4. Cover the jar with cloth and a rubber band. 5. Stand it in a warm, shaded place away from stored food. 6. Your child looks closely at one beetle and one holed seed with the hand lens.",
+     "say": "These beetles are adults. They will not eat anything now. What do you think made the round holes in the seeds?",
      "kid": "Find seeds with round holes and live beetles. Put them in the jar with 60 clean seeds. Cover the jar.",
      "parent": "If you find holed seeds and no live beetles, keep the seeds in the covered jar for two weeks. Adults often come out of seeds that look whole. If none come, skip this project.",
      "context": "This is day 1 of the Dal Jar Watch. Here you find pulse beetles and set up the jar."
@@ -1831,7 +1831,7 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Tip some seeds onto a plate. 2. With the hand lens, find clean seeds that now have tiny white specks glued on. These are eggs. 3. Pick out 20 seeds with eggs. 4. Count every egg on the 20 seeds and write the total. 5. Put the 20 seeds in the cup and cover it with cloth.",
-     "say": "Each white speck is one egg, glued to the seed by a mother. How many eggs are on our twenty seeds? How many adults do you think will come out of them? Why?",
+     "say": "Each white speck is one egg, glued to the seed by a mother. Let's count every egg on our twenty seeds.",
      "kid": "Find 20 seeds with white specks. The specks are eggs. Count all the eggs. Write the number.",
      "wait": "Do this on day 5",
      "ask": [
@@ -1849,7 +1849,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Look at the 20 seeds with the hand lens. 2. Look for eggs that have turned from clear to solid white. 3. Hold a seed up to the light and look for a dark patch under the skin. 4. Draw what you see.",
+     "do": "1. Look at the 20 seeds with the hand lens. 2. Look for eggs that have turned from clear to solid white. 3. Hold a seed up to the light and look for a dark patch under the skin. 4. Take a photo of what you see, or tell your grown-up what you see.",
      "say": "The young beetle never walks on the outside. So where do you think the young one went when the egg hatched?",
      "kid": "Look at the 20 seeds. Which eggs have turned white? Where did the young one go?",
      "wait": "Do this on day 15",
@@ -1870,8 +1870,8 @@
      "id": "s5",
      "mins": 15,
      "do": "1. Count the holes in the 20 seeds one last time. 2. Write the share: holes out of eggs. 3. Ask why some eggs did not become adults. 4. Take the jar and the cup outdoors. Empty them onto soil well away from the house.",
-     "say": "How many of the eggs became adults? What do you think happened to the others? And why does an adult who lives ten days need no food?",
-     "kid": "Count the holes. How many eggs became adults? What happened to the rest?",
+     "say": "Let's find out how many of the eggs became adults.",
+     "kid": "Count the holes. Say how many eggs became adults.",
      "wait": "Do this on day 36",
      "ask": [
       {
@@ -1936,7 +1936,7 @@
     "Build a zigzag, so that the stair fits into a small space.",
     "Build a fish lift: a pool that is filled at the bottom, carried up by hand and emptied at the top. Some real dams have fish lifts."
    ],
-   "your_turn": "Now design your own fish pass. Draw it first and label every drop with its height. Build it, pour one tumbler of water in at the top and watch. Where does the water run too fast for a fish? How would you slow it?",
+   "your_turn": "Now design your own fish pass. Plan it first by laying out the pools and saying each drop's height, or draw it and label every drop. Build it, pour one tumbler of water in at the top and watch. Where does the water run too fast for a fish? How would you slow it?",
    "setup": [
     {
      "art": "A pile of books 12 centimetres high with a ruler beside it and a katori on top, on a large tray.",
@@ -1981,9 +1981,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Your child designs a pass of their own and draws it. 2. They build it and test it with one tumbler of water. 3. They check the four rules with the ruler. 4. They change one thing and test again.",
-     "say": "Now design your own. Draw it first. After the test, change one thing to make it better, and say why you chose that thing.",
-     "kid": "Design your own fish pass. Draw it. Build it. Test it. Change one thing and test again.",
+     "do": "1. Your child plans a pass of their own by laying out the pools, or by drawing it. 2. They build it and test it with one tumbler of water. 3. They check the rule with the ruler: no drop is more than 3 centimetres, and the water runs through every pool. 4. They change one thing and test again.",
+     "say": "Now design your own. Plan it first. After the test, change one thing to make it better, and say why you chose that thing.",
+     "kid": "Design your own fish pass. Plan it, build it and test it. Change one thing and test again.",
      "parent": "The hard part is making the water leave each pool at one place. A small foil spout or a tilt solves it. Real hilsa are harder to help than this model suggests, and engineers are still testing designs for them.",
      "check": {
       "t": "mcq",
@@ -2027,7 +2027,7 @@
     "For the forest: stay underground for many years, so that the birds cannot grow in number on you. Periodical cicadas do this.",
     "For the deep sea: guard the eggs for a very long time. One deep-sea octopus was watched guarding her eggs for 53 months."
    ],
-   "your_turn": "Now draw your animal's life as a bar, like the Life Bars. Mark each stage and how long it lasts. Then swap homes: put your animal in one of the other two homes. What goes wrong first?",
+   "your_turn": "Now show your animal's life as a bar, like the Life Bars. Use a paper strip or a drawing. Mark each stage and how long it lasts. Then swap homes: put your animal in one of the other two homes. What goes wrong first?",
    "setup": [
     {
      "art": "Three small pictures side by side: a muddy rain pool with cracked edges, a forest floor with birds in the trees, and a dark sea floor with a few rocks.",
@@ -2035,7 +2035,7 @@
     },
     {
      "art": "A child's drawing of an invented animal with a life bar underneath, split into stages and labelled with times.",
-     "caption": "2. Design the timetable and draw it as a life bar, with a reason for every choice."
+     "caption": "2. Design the timetable and show it as a life bar, with a reason for every choice."
     }
    ],
    "flow": [
@@ -2050,9 +2050,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Your child decides each part of the timetable and writes a reason beside it. 2. They draw the animal. 3. They draw the life as a bar, with each stage marked.",
+     "do": "1. Your child decides each part of the timetable and writes a reason beside it. 2. They tell you what the animal looks like. 3. They show the life as a bar on paper, with each stage marked.",
      "say": "How many eggs, and how big? Will you guard them? How long is the young stage? Will you breed once or many times? Give me a reason for each.",
-     "kid": "Decide the eggs, the care, the young stage and the breeding. Write a reason for each. Draw the life bar.",
+     "kid": "Decide the eggs, the care, the young stage and the breeding. Say a reason for each. Show the life as a bar.",
      "ask": [
       {
        "q": "Why did you choose to breed once, or many times?",

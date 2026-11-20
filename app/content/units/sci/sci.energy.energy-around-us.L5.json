@@ -661,8 +661,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. When the game ends, read the whole chain aloud from The Sun. 2. Count how many cards gave out heat. 3. Ask where the energy at the end of the chain has gone.",
-     "say": "Read the chain from the Sun to the last card. How many of these changers gave out heat? Where is that heat now?",
-     "kid": "Read your chain aloud from The Sun. Count the cards that gave out heat. Where did that heat go?",
+     "say": "Read the chain from the Sun to the last card. How many of these changers gave out heat?",
+     "kid": "Read your chain aloud from The Sun. Count the cards that gave out heat.",
      "ask": [
       {
        "q": "Where does the energy go at the end of a chain?",
@@ -855,7 +855,7 @@
    "title": "The Clicking Coin Test: does a cold bottle make a coin click?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you put a wet coin on the mouth of a glass bottle that stands on a table. You try a room-warm bottle, a fridge-cold bottle and a freezer-cold bottle, and count the clicks.",
+   "context": "In this experiment you put a wet coin on the mouth of a glass bottle that stands on a table. You try a room-warm bottle, a fridge-cold bottle and a freezer-cold bottle, and count the clicks. You will find out whether a colder bottle makes the coin click more.",
    "question": "A bottle at room temperature does nothing on a table. Does a cold bottle make a coin click on the same table? Does a colder bottle make it click more?",
    "predict": "Guess first. Will the coin click on a room-warm bottle, a fridge-cold bottle and a freezer-cold bottle? Which will click most? Write your guesses, and the reason for each.",
    "fair_test": "Use the same coin, wet in the same way each time. Use bottles of the same size, and stand each one on the same spot of the same table. Never hold a bottle in your hands during a test. Count the clicks for the same time for every bottle. Change only one thing: how cold the bottle starts.",
@@ -998,7 +998,7 @@
      "mins": 5,
      "do": "1. When the clicks stop, touch bottle C with your fingertip. 2. Then touch the table. 3. Compare how they feel. 4. Write the time of the last click.",
      "say": "The clicking has stopped. Touch the bottle, and then the table. Do they feel the same? What does that tell you?",
-     "kid": "The clicks stopped. Touch the bottle. Touch the table. Do they feel the same?",
+     "kid": "Touch the bottle. Then touch the table. How does each one feel?",
      "ask": [
       {
        "q": "Why did the clicking stop?",
@@ -1014,7 +1014,7 @@
      "id": "s6",
      "mins": 6,
      "do": "1. Look at the table of clicks together. 2. Ask your child for three sentences. 3. Ask what bottle A tells us about the room. 4. Then read the explanation together.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. The room-warm bottle had plenty of heat energy. Why did it do nothing?",
+     "say": "Say what you thought would happen, what you saw, and why it happened.",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1034,7 +1034,7 @@
    "title": "The Fan and the Ice: does a fan make the air colder?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment two ice cubes melt on two steel plates. One cube sits in the wind of a fan, and the other sits behind a screen. You then test a wet hand and a dry hand in the same wind.",
+   "context": "In this experiment two ice cubes melt on two steel plates. One cube sits in the wind of a fan, and the other sits behind a screen. You then test a wet hand and a dry hand in the same wind. You will find out whether a fan makes air colder, or only moves it. You will find out whether a fan makes air colder, or only moves it.",
    "question": "Does a fan make the air colder? Does an ice cube last longer in a fan's wind, or melt faster?",
    "predict": "Guess first. Will the cube in the wind melt faster, slower or at the same speed as the cube behind the screen? Write your guess, and the reason for it.",
    "fair_test": "Cut the screen from cardboard and stand it between the fan and one plate. Use two ice cubes from the same tray and two identical plates. Put both plates on the same table. Check the cubes every 2 minutes. Change only one thing: whether the wind reaches the cube.",
@@ -1176,7 +1176,7 @@
      "mins": 6,
      "do": "1. Switch the fan off, then on. 2. Put a few drops of water on the back of one hand. 3. Hold both hands in the wind. 4. Say which hand feels colder.",
      "say": "Wet the back of one hand. Hold both hands in the wind. Which one feels colder? Why do you think so?",
-     "kid": "Wet the back of one hand. Hold both hands in the wind. Which one feels colder?",
+     "kid": "Wet the back of one hand. Hold both hands in the wind.",
      "ask": [
       {
        "q": "Does the wind feel cool on the dry hand too?",
@@ -1226,7 +1226,7 @@
    "title": "Does a Still Table Have Energy? Three small tests",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you ask whether a table that stands still has any energy. You guess first. Then you test three ideas with an ice cube, an eraser and a wooden stick.",
+   "context": "In this activity you ask whether a table that stands still has any energy. You guess first. Then you test three ideas with an ice cube, an eraser and a wooden stick. You will find out if a table that does nothing has energy hiding in it. You will find out if a table that does nothing has energy hiding in it.",
    "materials": [
     {
      "item": "a table",
@@ -1282,8 +1282,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Put one ice cube on the steel plate, on the table. 2. Watch it for 3 minutes. 3. Ask where the heat came from that melted it.",
-     "say": "Nobody has lit a flame. Yet the ice is melting. Where does the heat come from?",
-     "kid": "Put an ice cube on the plate. Watch it for 3 minutes. What is melting it?",
+     "say": "Nobody has lit a flame. Watch the ice. Is it changing?",
+     "kid": "Put an ice cube on the plate. Watch it for 3 minutes.",
      "ask": [
       {
        "q": "What is melting the ice, with no flame?",
@@ -1300,7 +1300,7 @@
      "mins": 3,
      "do": "1. Hold the eraser on the table edge. 2. Push it slowly over the edge. 3. Listen when it lands. 4. Ask what it could do at the edge that it could not do before.",
      "say": "The eraser sat still on the table. Now it falls and taps the floor. What was waiting in it at the edge?",
-     "kid": "Push the eraser over the edge. Listen. What was waiting in it?",
+     "kid": "Push the eraser slowly over the edge. Listen when it lands.",
      "ask": [
       {
        "q": "What could the eraser do at the edge that it could not do flat on the table?",
@@ -1316,8 +1316,8 @@
      "id": "s4",
      "mins": 3,
      "do": "1. A grown-up lights the wooden stick over the steel plate. 2. Watch it burn for 10 seconds. 3. Ask what the stick gives out. 4. Put it out in the bowl of water.",
-     "say": "Most tables are made of wood, like this stick. Watch what the wood gives out when it burns. What does it give out?",
-     "kid": "A grown-up burns a wooden stick. Watch it. What does it give out?",
+     "say": "Most tables are made of wood, like this stick. A grown-up will burn it. Watch what it gives out.",
+     "kid": "Watch the stick burn. Do not touch it.",
      "adult": true,
      "ask": [
       {
@@ -1372,9 +1372,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw a table with four columns. 2. Head them Thing, Energy in, Energy out wanted, and Energy out not wanted. 3. Write eight things down the first column.",
+     "do": "1. Make a table with four columns on paper. 2. Head them Thing, Energy in, Energy out wanted, and Energy out not wanted. 3. Write eight things down the first column.",
      "say": "We will look at eight things that work in our home. What energy goes into each one? What comes out?",
-     "kid": "Draw the table. Write eight things in the first column.",
+     "kid": "Make the table. Write eight things in the first column.",
      "context": "This is the first step of the Changer Table. You draw the table and choose eight things at home."
     },
     {
@@ -1431,7 +1431,7 @@
    "title": "Light Out for Half an Hour: what stops and what keeps going?",
    "mins": 30,
    "days": 1,
-   "context": "In this activity a grown-up switches off the electricity in your home for half an hour in the daytime. You list what stops, what keeps going and what you can do without electricity.",
+   "context": "In this activity a grown-up switches off the electricity in your home for half an hour in the daytime. You list what stops, what keeps going and what you can do without electricity. You will find out how much of your home needs electricity.",
    "materials": [
     {
      "item": "paper and a pencil",
@@ -1507,8 +1507,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. A grown-up switches the main switch back on. 2. Check what comes back by itself and what must be reset. 3. Ask who in the town would need power most.",
-     "say": "The power is back. Which things came on by themselves? Who in our town would suffer most from a long power cut?",
-     "kid": "Power is back. Which things restarted? Who needs power most in a town?",
+     "say": "The power is back. Which things came on by themselves, and which must be switched on again?",
+     "kid": "Power is back. Check which things restarted.",
      "adult": true,
      "ask": [
       {
@@ -1529,7 +1529,7 @@
    "title": "Danger Spotters: a safety walk with five rules",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you walk round your home with a grown-up, looking at sockets, wires and switches. You spot places that need fixing and say which rule each one breaks.",
+   "context": "In this activity you walk round your home with a grown-up, looking at sockets, wires and switches. You spot places that need fixing and say which rule each one breaks. You will find out which places in your home are risky. You will find out which places in your home are risky.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -1607,7 +1607,7 @@
    "title": "Before the Machine: ask an older person who did the work",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you interview a grandparent, an older neighbour or a teacher. You find out how grinding, washing, carrying water and travelling were done before many machines, and what energy did each job.",
+   "context": "In this activity you interview a grandparent, an older neighbour or a teacher. You will find out who did the work before machines. You will find out who did the work before machines. You find out how grinding, washing, carrying water and travelling were done before many machines, and what energy did each job.",
    "materials": [
     {
      "item": "an older person who is willing to talk",
@@ -1685,7 +1685,7 @@
    "title": "The Street Energy Survey: what powers our street?",
    "days": 3,
    "mins": 55,
-   "context": "In this three-day project you walk along your street or around your building with a grown-up. You list the energy that is used there, ask three neighbours how they cook, heat water and light their homes, and make one chart.",
+   "context": "In this three-day project you walk along your street or around your building with a grown-up. You list the energy that is used there, ask three neighbours how they cook, heat water and light their homes, and make one chart. You will find out which energy your street uses most. You will find out which energy your street uses most.",
    "materials": [
     {
      "item": "paper, a pencil and a clipboard or a book to write on",
@@ -1755,9 +1755,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Count how many neighbours use each fuel or source. 2. Draw a bar for each one. 3. Ask: which source is used most, and which is cleanest? 4. Write one change you would make.",
-     "say": "Count how many neighbours use each fuel. Draw a bar for each. Which is used most? Which is cleanest? What one change would help the street?",
-     "kid": "Draw a bar for each fuel. Which is used most? What one change would help?",
+     "do": "1. Count how many neighbours use each fuel or source. 2. Make a bar for each one: draw it, or stack pebbles. 3. Ask: which source is used most, and which is cleanest? 4. Write one change you would make.",
+     "say": "Count how many neighbours use each fuel. Make a bar for each. Which is used most? Which is cleanest?",
+     "kid": "Make a bar for each fuel. Which is used most?",
      "ask": [
       {
        "q": "What one change would help the street most, and why?",
@@ -1801,7 +1801,7 @@
     "Wrap a cloth wet with lukewarm tap water round the bottle. Never use hot water on cold glass.",
     "Add a second coin on top of the first, and see if the clicks get louder or slower."
    ],
-   "your_turn": "Now design your own way to get the most clicks. Draw your plan, test it twice and write the clicks each time. Which change helped most, and why?",
+   "your_turn": "Now design your own way to get the most clicks. Draw your plan, or tell it to your grown-up. Test it twice and write the clicks each time. Which change helped most, and why?",
    "setup": [
     {
      "art": "A glass bottle from the freezer standing in a shallow bowl of tap water, with a wet coin on its mouth.",
@@ -1824,7 +1824,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Look at the usual ideas: a longer chill, a thin film of water, a narrow mouth. 2. Your child chooses one and says why it should work. 3. Test it and write the clicks.",
+     "do": "1. Look at the usual ideas: a longer chill, a thin film of water, a wetter coin. 2. Your child chooses one and says why it should work. 3. Test it and write the clicks.",
      "say": "Which idea do you think will give more clicks? Why? Test it, and write the number.",
      "kid": "Choose one idea. Say why it should work. Test it. Write the clicks.",
      "ask": [
@@ -1880,7 +1880,7 @@
     "Curve the sail like a cup, to catch more wind.",
     "Add a little clay under the boat for balance, so it does not tip."
    ],
-   "your_turn": "Now design your own wind boat. Draw it, build it and race it 3 times. What was the mean time? Why did the best sail work?",
+   "your_turn": "Now design your own wind boat. Draw it or describe it to your grown-up, build it and race it 3 times. What was the average time? Why did the best sail work?",
    "setup": [
     {
      "art": "A steel tray of water on a towel-covered table, with a small foil boat with a card sail at one end and a table fan on a dry stool 1 metre away.",
@@ -1913,9 +1913,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Change one thing: the size of the sail, its shape or the weight. 2. Time 3 crossings. 3. Find the mean. 4. Say where the boat's movement energy came from.",
-     "say": "Change one thing about the boat. Time three crossings. Where did the boat's movement energy come from?",
-     "kid": "Change one thing. Time 3 crossings. Where did the energy come from?",
+     "do": "1. Change one thing: the size of the sail, its shape or the weight. 2. Time 3 crossings. 3. Add the 3 times and divide by 3 to get the average. 4. Say where the boat's movement energy came from.",
+     "say": "Change one thing about the boat. Time three crossings.",
+     "kid": "Change one thing. Time 3 crossings.",
      "ask": [
       {
        "q": "Where did the boat's movement energy come from?",

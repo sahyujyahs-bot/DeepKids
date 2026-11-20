@@ -291,9 +291,9 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
   *Child mode:* Play three more rounds. Then work out your score.
   - Note: A player who always stays usually ends near 14 points. A player who always leaves ends near 12. A player who weighs the shell against the pinch usually scores about 19 or 20.
 - **s4 (4 min)**  
-  *Parent does:* Ask each player when they stayed and when they left. Then read out what real hermit crabs did in a test.  
-  *Parent says:* When did you stay through a strong pinch? When did you leave at a weak one? In a real test, crabs in poor shells left at a shock. Crabs in good shells stayed.  
-  *Child mode:* When did you stay? When did you leave? Real crabs chose the same way.
+  *Parent does:* Ask each player when they stayed and when they left. Then show the check question, which tells what real hermit crabs did in a test.  
+  *Parent says:* When did you stay through a strong pinch? When did you leave at a weak one?  
+  *Child mode:* When did you stay? When did you leave?
   - Check: A crab in a good shell stays through a shock. A crab in a poor shell leaves at the same shock. What does this show? → **The crab weighs the shock against the shell**
   - Think: Would a reaction that works like a knee kick ever depend on how good the shell is?
 
@@ -308,7 +308,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 - **s1 (4 min)**  
   *Parent does:* Read the question aloud. Ask your child for both guesses and the reason for each. Write the guesses above the table. Do not say whether you agree.  
   *Parent says:* You will hold ice for no prize, a small prize and a big prize. Will the prize change how long you hold on? Why? Then I will puff air at your eye. Will a prize help you not to blink? Why?  
-  *Child mode:* Will a bigger prize make you hold the ice longer? Will a prize stop a blink? Say why.
+  *Child mode:* Make two guesses, one for the ice and one for the blink. Say why for each.
   - Ask: Which do you think a prize can change more, holding the ice or blinking? Why? (good: Holding, because I can decide to hold on.; Blinking just happens by itself.; Both, if the prize is big enough. We can test it.)
   - Note: Any guess with a reason is a good start. Many children are sure a big prize will stop the blink.
 - **s2 (3 min)**  
@@ -340,7 +340,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 - **s7 (5 min)**  
   *Parent does:* Look at the table together. Ask your child what the prize changed and what it did not. They write three sentences: what I think, what I saw, and why. Give the explanation in the parent note only after they have finished.  
   *Parent says:* Look at your numbers. What did the prize change? What did it leave almost the same? Write what you think, what you saw, and why you think it happened.  
-  *Child mode:* What did the prize change? What stayed the same? Write what you think, what you saw, and why.
+  *Child mode:* Look at your numbers. Then write three sentences: what I think, what I saw, and why.
   - Ask: What did the prize change, and what did it hardly change? (good: I held the ice longer for the big prize.; I blinked almost every time, even for the prize.; The two no-prize rounds were close, so the prize made the difference.)
   - Ask: Scientists gave hermit crabs a small shock in a good shell or a poor shell. Which is that more like, the ice or the puff? Why? (good: The ice, because the crab's choice changed with how good the shell was.; The ice, because both weigh a hurt against something they want.)
   - Note: After your child has answered, explain. A blink at a puff of air is a reflex, a fast reaction that happens the same way each time. Letting go of the ice is different, because how long you held on depended on what you could gain. Scientists use the same idea with other animals. If your child held to 90 seconds in every round, the limit hid the result, and that is worth saying. Do not make the limit longer. If your child held back some blinks, say so honestly. A reflex can sometimes be held back a little, but far less than a choice can be changed.
@@ -380,7 +380,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 - **s6 (6 min)**  
   *Parent does:* Count the right answers for each way. Ask your child what the numbers show, and why they think it happened. They write three sentences: what I think, what I saw, and why. Then read them the parent note.  
   *Parent says:* Count the right answers in each row. Which way of listening worked best? Was any way no better than guessing? Why do you think that happened?  
-  *Child mode:* Count the right answers. Which way was best? Was any no better than guessing? Why?
+  *Child mode:* Count your right answers for each way. Then write three sentences: what I think, what I saw, and why.
   - Ask: A listener who only guesses gets about 2 right out of 6. Which of your rows could be just guessing? (good: Standing, because I got 2.; My feet row, because 3 is close to 2.; Not the ear on the floor, because I got all 6.)
   - Ask: Your feet felt little. An elephant's feet pick up rumbles from far away. What might be different about her feet? (good: They are much bigger.; She may have more nerve endings for shaking.; She is very heavy, so her feet press hard on the ground.)
   - Note: After your child has answered, explain. A soft thump shakes the floor, and a hard floor passes that shaking along well. Air passes on far less of it. With an ear on the floor, the shaking goes through the skull bones to the inner ear. An elephant's foot has a thick cushion of fat and many nerve endings for pressure. Scientists think the shaking may also travel up her leg bones to her ears. Our feet have far fewer of those nerve endings.
@@ -447,7 +447,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 - **s4 (3 min)**  
   *Parent does:* Show the third tumbler. Ask your child what they did at the middle note and why. Then tell them about the honeybee test.  
   *Parent says:* There was a third note in between. What did you do when you heard it? Why? Scientists did this with honeybees and smells. Bees who had just been shaken held back more at the in-between smell.  
-  *Child mode:* There was a middle note. What did you do? Why? Shaken bees held back more.
+  *Child mode:* There was a middle note. What did you do at that note? Why?
   - Note: Your child's three tries say nothing about their mood. Scientists compare many animals in each group. The activity only shows how the test works.
   - Check: Shaken bees treated an in-between smell as bitter more often than calm bees. What does this suggest? → **A bad experience left the bees expecting worse**
   - Think: What kind of day might make you take an unclear message as bad news?
@@ -465,8 +465,8 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
   - Note: Read these out. 1. A trout with a sore lip rubs it on the gravel, and feeds again sooner after a painkiller. 2. A hermit crab leaves a poor shell at a shock, but stays in a good one. 3. An octopus with a sore arm strokes it with her beak, avoids the room where it happened, and chooses a room where she got a painkiller. 4. A bumblebee walks onto a hot feeder only when the sugar there is much sweeter. 5. Your leg kicks when the knee is tapped. 6. A shore crab stops using a dark shelter where they got shocks.
 - **s3 (4 min)**  
   *Parent does:* Count the ticks in each row. Ask your child which finding is the strongest evidence, and which tells us least. Ask what test they would add for the animal with fewest ticks.  
-  *Parent says:* Which finding has the most ticks? Which has none? For an animal with few ticks, what would you test next?  
-  *Child mode:* Which finding has the most ticks? Which has none? What would you test next?
+  *Parent says:* Which finding has the most ticks? For an animal with few ticks, what would you test next?  
+  *Child mode:* Which finding is the strongest? What would you test next?
   - Note: Likely ticks: the trout guards and is eased by a painkiller. The hermit crab weighs. The octopus guards, learns and is eased. The bumblebee weighs. The knee kick has none. The shore crab learns. Few ticks often mean that nobody has run that test yet. They do not mean the animal failed it.
   - Check: Which finding shows only a reflex, with none of the four signs? → **The leg kicks when the knee is tapped**
   - Think: No list of signs can be complete. What sign would you add?
@@ -484,7 +484,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 - **s2 (30 min)**  
   *Parent does:* On days 2, 3 and 4, watch at the same time for ten minutes. Each day your child writes what the animal did and what happened just before. On day 4 they write one guess about what the animal wants or feels.  
   *Parent says:* Same time, same place. What did they do today? What happened just before? By day 4, write one guess about what they want or feel.  
-  *Child mode:* Watch at the same time each day. Write what they did. Write what happened just before.
+  *Child mode:* Watch at the same time each day. Write what they did and what happened just before. On day 4, add one guess.
   - Note: Help your child look for pairs, such as 'a kite flew over, and all the pigeons left the ledge'. An event followed by the same act on several days is good evidence.
   - Wait: Do this once a day for three days
 - **s3 (13 min)**  
@@ -504,12 +504,12 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 - **s1 (7 min)**  
   *Parent does:* Ask your child how a bird could show which food they prefer. Then ask what else, besides liking the food, could make a bird go to one bowl. Write the list.  
   *Parent says:* How could a bird tell you which food they like, without words? What else might make them pick one bowl, apart from the food in it?  
-  *Child mode:* How could a bird show which food they like? What else might make them pick a bowl?
+  *Child mode:* How could a bird show which food they like, without using words?
   - Ask: What could make a bird choose a bowl, apart from the food? (good: It is nearer to where they landed.; It is farther from me.; They went there last time.; The pile looks bigger.)
 - **s2 (9 min)**  
-  *Parent does:* Your child draws a plan that deals with each thing on the list. Then they add a cost. They choose a way to make the favourite food harder to get, in three steps.  
-  *Parent says:* Draw your test. How will you stop the side from deciding it? Now make the favourite food cost more. How far will they go for it?  
-  *Child mode:* Draw your test. Fix each problem on your list. Then make the favourite food harder to get.
+  *Parent does:* Your child makes a plan that deals with each thing on the list. They can draw it, or set out the bowls and coin and explain it aloud. Then they add a cost. They choose a way to make the favourite food harder to get, in three steps.  
+  *Parent says:* Show me your test, in a drawing or with the bowls. How will you stop the side from deciding it? Now make the favourite food cost more. How far will they go for it?  
+  *Child mode:* Draw your test, or set out the bowls and tell it. Fix each problem on your list. Then make the favourite food harder to get.
   - Note: A good plan has the same bowls, a coin for the sides and equal piles. The cost can be distance from a person, a paper lid to push off, or a smaller pile. The idea of a cost comes from this unit's trade-off tests.
 - **s3 (9 min)**  
   *Parent does:* A family member plays the bird. They secretly choose a favourite and how much they want it. Your child runs six tries of the plan and works out the favourite and how strong it is.  

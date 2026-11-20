@@ -601,9 +601,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Everyone puts a coin on Air. 2. Take turns to throw the die. 3. Read the table for your station and move or stay. 4. Say what happened and write the station down. 5. Stop the race when someone has been in 5 different stations.",
+     "do": "1. Everyone puts a coin on Air. 2. Take turns to throw the die. 3. Read the table for your station and move or stay. 4. Say what happened and write the station down. 5. This practice round ends when someone has been in 5 different stations.",
      "say": "Throw the die and read your table. What just happened to you? Which living being or which place are you part of now?",
-     "kid": "Put your coin on Air. Throw the die. Read the table for your station. Move or stay. Say what happened. Write the station down. Visit 5 stations to win.",
+     "kid": "Put your coin on Air. Throw the die. Read the table for your station. Move or stay. Say what happened. Write the station down. The round ends when someone has visited 5 stations.",
      "ask": [
       {
        "q": "Which step took you out of the air? Which steps put you back?",
@@ -619,9 +619,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Everyone goes on until they have made 20 throws. 2. Count how many throws you spent in each station. 3. Compare your counts. 4. Ask which stations were quick to leave and which were slow.",
+     "do": "1. Start again on Air. Everyone goes on until they have made 20 throws. 2. Count how many throws you spent in each station. 3. Compare your counts. 4. Ask which stations were quick to leave and which were slow.",
      "say": "Count your throws in each station. Where did you get stuck? Why is it hard to leave that station?",
-     "kid": "Go on to 20 throws. Count your throws in each station. Where did you get stuck? Why was it hard to leave?",
+     "kid": "Start again on Air. Make 20 throws. Count your throws in each station. Where did you get stuck? Why was it hard to leave?",
      "ask": [
       {
        "q": "Did anyone reach Shell and Rock or Coal and Oil? What happened there?",
@@ -774,7 +774,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the 18 cards. 2. Shuffle them and put them in a pile, waste side up. 3. Say what browns and greens are before you start.",
-     "say": "Browns are dry and tough, with much carbon. Greens are wet and soft, with more nitrogen. Some things must be kept out of a home bin.",
+     "say": "Browns are dry and tough, with much carbon. Greens are wet and soft, with more nitrogen. Keep out means things that would smell or bring rats, such as meat and cooked oily food.",
      "kid": "Cut out the cards. Mix them. Put them in a pile, waste side up. Browns are dry and tough. Greens are wet and soft.",
      "context": "This is the first step of Brown, Green or Keep Out? Here you set up the cards and recall what browns and greens are."
     },
@@ -786,7 +786,7 @@
      "kid": "Take the top card. Say brown, green or keep out. Give a reason. Turn the card over. Keep the card if you were right.",
      "ask": [
       {
-       "q": "Which cards could you not tell by their colour?",
+       "q": "Which cards were hard to decide? Why?",
        "good": [
         "Used tea leaves and coffee powder look brown, but they are greens.",
         "What matters is how much nitrogen and water the waste has, and the colour does not show that."
@@ -824,7 +824,7 @@
    "title": "Browns, Greens or Both: which bottle rots best?",
    "mins": 57,
    "days": 17,
-   "context": "In this experiment you fill three bottles with waste for decomposers to eat. One has only dry browns, one has only wet greens, and one has a mix. For 16 days you measure how far each one sinks and how it smells.",
+   "context": "In this experiment you fill three bottles with waste for decomposers to eat. One has only dry browns, one has only wet greens, and one has a mix. For 16 days you measure how far each one sinks and how it smells. You will find out which waste decomposers eat fastest without a bad smell.",
    "question": "Decomposers get the same air, the same warmth and the same spoon of soil in three bottles. Which waste will they eat fastest and without a bad smell: only browns, only greens, or a mix of both?",
    "predict": "Guess first. Which bottle will sink the most in 16 days? Which bottle will smell the worst? Why do you think so? Write both guesses and your reasons.",
    "fair_test": "All three bottles are the same size and are filled to the same height. Each gets one spoon of the same soil. All the waste is damp. The bottles stand side by side with the same cloth cover. Only the kind of waste is different.",
@@ -892,7 +892,7 @@
      "what": "Take the last readings. Work out how far each bottle sank. Explain the results. Empty the bottles safely."
     }
    ],
-   "record": "Fill in the table on days 1, 5, 9, 13 and 17. Draw three bars to show how many centimetres each bottle sank. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table on days 1, 5, 9, 13 and 17. Write how many centimetres each bottle sank, or draw three bars to show it. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how far each bottle sank in 16 days",
@@ -937,8 +937,8 @@
      "mins": 8,
      "adult": true,
      "do": "1. A grown-up cuts the tops off three 1 litre bottles, just below the shoulder. 2. Tear the browns into pieces smaller than 3 cm. 3. A grown-up chops the greens to the same size. 4. Soak the browns in a bowl of water for 2 minutes. Squeeze them out until no more water drips.",
-     "say": "We have two kinds of waste. Feel them both. How are the browns different from the greens? Decomposers need damp food, so we wet the browns first.",
-     "kid": "Ask a grown-up to cut the bottles and chop the peels. Tear the browns small. Soak the browns in water. Squeeze them out. Feel both kinds. How are they different?",
+     "say": "We have two kinds of waste. Browns are dry things, like leaves and paper. Greens are wet things, like peels. Feel them both. Decomposers need damp food, so we wet the browns first.",
+     "kid": "Ask a grown-up to cut the bottles and chop the peels. Tear the browns small. Soak the browns in water. Squeeze them out. Feel both kinds.",
      "ask": [
       {
        "q": "How are the browns different from the greens?",
@@ -956,7 +956,7 @@
      "mins": 4,
      "do": "1. Explain the three bottles: only browns, only greens, and a mix of 2 parts browns to 1 part greens. 2. Ask which will sink the most and which will smell the worst. 3. Ask for a reason each time. 4. Write the guesses down.",
      "say": "Decomposers will eat what is in these bottles. Which bottle will sink the most in 16 days? Which will smell the worst? Why do you think so?",
-     "kid": "One bottle gets browns. One gets greens. One gets a mix. Which will sink the most? Which will smell the worst? Why? Write your guesses.",
+     "kid": "One bottle gets browns. One gets greens. One gets a mix. Guess which will sink the most and which will smell the worst. Write your guesses.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1002,9 +1002,9 @@
      "id": "s5",
      "mins": 12,
      "wait": "Do this on day 17",
-     "do": "1. Take the last readings. 2. For each bottle, take the last height away from the first height. 3. Draw three bars for the centimetres sunk. Write the last smell score under each bar. 4. Ask your child what they thought would happen, what they saw, and why they think it happened. 5. Only then read the explanation together.",
+     "do": "1. Take the last readings. 2. For each bottle, take the last height away from the first height. 3. Stand the bottles in a row, the most sunk first. Put a note by each one with the centimetres sunk and the last smell score. 4. Ask your child what they thought would happen, what they saw, and why they think it happened. 5. Only then read the explanation together.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Take the last readings. Work out how far each bottle sank. Draw three bars. Say what you thought would happen. Say what you saw. Say why you think it happened.",
+     "kid": "Take the last readings. Work out how far each bottle sank. Stand the bottles in a row, the most sunk first. Then tell your grown-up the three things.",
      "ask": [
       {
        "q": "The browns had plenty of food in them. Why did the decomposers eat so little?",
@@ -1051,7 +1051,7 @@
    "title": "Sour Air: does carbon dioxide change water?",
    "mins": 35,
    "days": 1,
-   "context": "The sea takes up about a quarter of the carbon dioxide that people add to the air. In this experiment you find out what carbon dioxide does to water. You use purple cabbage water, which changes colour when water becomes more acid.",
+   "context": "The sea takes up about a quarter of the carbon dioxide that people add to the air. In this experiment you find out what carbon dioxide does to water. You use purple cabbage water, which changes colour when water becomes more acid. You will find out whether your own breath can do that.",
    "question": "When carbon dioxide from your breath or from soda water goes into water, does the water change?",
    "predict": "Guess first. Will blowing your breath through cabbage water change its colour? Will a little soda water change it? Why do you think so? Write your guesses and your reasons.",
    "fair_test": "All three glasses are the same and hold the same amount of the same cabbage water. Each glass gets 2 tablespoons of liquid added. One glass gets only plain water, so you can compare the others with it.",
@@ -1095,7 +1095,7 @@
      "what": "Make cabbage water. Guess. Blow breath into one glass and add soda water to another. Compare the colours and explain."
     }
    ],
-   "record": "Fill in the table for the three glasses. Draw the three glasses in colour. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table for the three glasses. Take a photo of the three glasses side by side, or draw them in colour. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "setup": [
     {
      "art": "Torn purple cabbage leaves soaking in a steel bowl of hot water that has turned deep purple-blue, with a tea strainer beside it.",
@@ -1126,7 +1126,7 @@
      "mins": 4,
      "do": "1. Stand 3 glasses on white paper. Label them PLAIN, BREATH and SODA. 2. Pour cabbage water into each, two fingers deep. 3. Ask for a guess and a reason for the breath and for the soda. 4. Write the guesses and the starting colours.",
      "say": "Your breath has carbon dioxide in it. So do the bubbles in soda water. Will either of them change the colour? Why do you think so?",
-     "kid": "Pour cabbage water into 3 glasses, two fingers deep. Will your breath change the colour? Will soda water? Why? Write your guesses.",
+     "kid": "Pour cabbage water into 3 glasses, two fingers deep. Will your breath change the colour? Will soda water? Write your guesses.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1152,7 +1152,7 @@
      "mins": 6,
      "do": "1. Ask your child what they thought would happen, what they saw, and why they think it happened. 2. Then stir the SODA glass hard with a spoon for 2 minutes. 3. Compare its colour again.",
      "say": "Tell me what you thought, what you saw and why. Now stir the soda glass hard. What happens to the colour, and what do you think has left the water?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why. Now stir the SODA glass hard for 2 minutes. Does the colour change back?",
+     "kid": "Tell your grown-up what you thought, what you saw and why. Now stir the SODA glass hard for 2 minutes. Does the colour change back?",
      "ask": [
       {
        "q": "What does the colour change tell you about carbon dioxide and water?",
@@ -1170,7 +1170,7 @@
      "mins": 4,
      "do": "1. Tell your child that the sea takes up about a quarter of the carbon dioxide people add to the air. 2. Ask what that might do to sea water. 3. Ask who in the sea might be affected.",
      "say": "The sea has been taking up carbon dioxide from the air for 200 years. What do you think is happening to the sea water? Who lives in it and builds shells?",
-     "kid": "The sea takes up carbon dioxide from the air. What might that do to sea water? Who in the sea builds shells?",
+     "kid": "Think about your soda glass. Then tell your grown-up who in the sea builds shells. What might happen to them?",
      "parent": "Sea water is not sour. It is slightly alkaline, which is the opposite of acid, and it is slowly becoming less so. In water that is more acid, corals, snails and some tiny algae must work harder to build shells. How much harm this will do is still being measured.",
      "check": {
       "t": "mcq",
@@ -1194,7 +1194,7 @@
    "title": "Two Heaps: sort one day's waste",
    "mins": 12,
    "days": 1,
-   "context": "This short activity starts the unit. You sort one day's waste from your home into two heaps and compare them with your hands, eyes and nose. You do not explain anything yet. You only notice and wonder.",
+   "context": "This short activity starts the unit. You sort one day's waste from your home into two heaps and compare them with your hands, eyes and nose. You will find out how different the two heaps feel and smell. You do not explain anything yet. You only notice and wonder.",
    "materials": [
     {
      "item": "one day's vegetable and fruit peels, used tea leaves and old flowers",
@@ -1209,7 +1209,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the two heaps. Write three things you noticed about each, and one question you want answered.",
+   "record": "Take a photo of the two heaps, or draw them. Write three things you noticed about each, and one question you want answered.",
    "setup": [
     {
      "art": "An open newspaper on a kitchen floor with a mixed pile of peels, tea leaves, dry leaves, torn cardboard and a plastic wrapper.",
@@ -1235,7 +1235,7 @@
      "mins": 4,
      "do": "1. Lift a handful from each heap and compare the weight. 2. Squeeze each handful. 3. Tear a piece from each. 4. Smell each from a hand's length away. 5. Ask what your child notices.",
      "say": "Hold some of each. Squeeze, tear and smell. What do you notice? Tell me everything, even small things.",
-     "kid": "Lift some of each heap. Which is heavier? Squeeze each. Tear a piece of each. Smell each from a distance. What do you notice?",
+     "kid": "Lift some of each heap. Which is heavier? Squeeze each. Tear a piece of each. Smell each from a distance.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1252,7 +1252,7 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Ask what your child wonders about the two heaps. 2. Ask which heap decomposers would finish first, and why. 3. Write down one question to keep. Do not answer it yet.",
-     "say": "What do you wonder? If decomposers came to eat these heaps, which would they finish first? Why do you think so?",
+     "say": "What do you wonder? Decomposers are the tiny living beings, such as bacteria and fungi, that eat dead plants and animals. If they came to eat these heaps, which would they finish first? Why do you think so?",
      "kid": "What do you wonder about the heaps? Which heap would decomposers finish first? Why? Write down one question.",
      "ask": [
       {
@@ -1318,7 +1318,7 @@
      "mins": 5,
      "do": "1. Ask which family of plants the top foods come from. 2. Ask where a dal plant could get so much nitrogen. 3. Tell your child that about 16 of every 100 grams of protein is nitrogen.",
      "say": "Dal and groundnuts are near the top. They are seeds of the bean family. Where do you think these plants get so much nitrogen?",
-     "kid": "Which foods came top? What plant family are they from? Where do those plants get so much nitrogen?",
+     "kid": "Which foods came top? What plant family are they from?",
      "ask": [
       {
        "q": "Where could a dal plant get so much nitrogen?",
@@ -1348,7 +1348,7 @@
    "title": "Draw the Loop: one carbon atom from the air to your idli and back",
    "mins": 15,
    "days": 1,
-   "context": "A model is a drawing that explains something you cannot see. In this activity you draw the path of one carbon atom from the air, through a paddy plant and an idli, through you, and back to the air.",
+   "context": "A model is something you make to show what you cannot see. In this activity you make a model of the path of one carbon atom, from the air, through a paddy plant and an idli, through you, and back to the air. You will find out that the same carbon goes round and round.",
    "materials": [
     {
      "item": "a large sheet of paper",
@@ -1359,7 +1359,7 @@
      "qty": 1
     }
    ],
-   "record": "Keep your loop drawing. Each arrow should have the name of what happens written beside it.",
+   "record": "Keep your loop, or take a photo of it. Each arrow should have the name of what happens written beside it.",
    "setup": [
     {
      "art": "A sheet of paper with five small drawings in a ring: a cloud of air, a paddy plant, a plate of idli, a child, and the child's breath.",
@@ -1374,9 +1374,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Ask what an idli is made of. 2. Draw five places in a ring: the air, a paddy plant, an idli, you, and your breath. 3. Put one black dot, the carbon atom, in the air.",
+     "do": "1. Ask what an idli is made of. 2. Write five places on five slips of paper: the air, a paddy plant, an idli, you, and your breath. Lay them in a ring on the big sheet. 3. Put one black dot, the carbon atom, on the air slip.",
      "say": "An idli is rice and ulundu. Both are seeds. Let's follow one carbon atom. Where was it before it was in the rice? How did it get in?",
-     "kid": "What is an idli made of? Draw the air, a paddy plant, an idli, yourself and your breath. Draw them in a ring. Put one black dot in the air.",
+     "kid": "What is an idli made of? Make five slips: air, paddy plant, idli, you, and your breath. Lay them in a ring. Put one black dot on the air slip.",
      "context": "This is the first step of Draw the Loop. Here you draw the five places that one carbon atom passes through on the way to you and back."
     },
     {
@@ -1391,9 +1391,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. In another colour, draw the gas stove that steamed the idli. 2. Ask where the carbon in cooking gas came from. 3. Draw its arrow from deep underground to the air. 4. Ask how this arrow is different from the others.",
-     "say": "The stove burns gas from deep under the ground. Draw that carbon's arrow. How is this arrow different from all the others on your page?",
-     "kid": "Draw the gas stove in another colour. Its carbon came from deep underground. Draw that arrow. How is it different from the others?",
+     "do": "1. Write GAS STOVE on a slip and lay it outside the ring. 2. Ask where the carbon in cooking gas came from. 3. Lay a spoon from the stove slip to the air slip, as its arrow. 4. Ask how this arrow is different from the others.",
+     "say": "The stove burns gas from deep under the ground. Lay a spoon from the stove slip to the air slip, as that carbon's arrow. How is this arrow different from all the others?",
+     "kid": "Write GAS STOVE on a slip. Its carbon came from deep underground. Lay a spoon from the stove slip to the air slip, as its arrow.",
      "ask": [
       {
        "q": "How is the stove's arrow different from the others?",
@@ -1427,7 +1427,7 @@
      "qty": 6
     }
    ],
-   "record": "Draw the ring of six stations. Write beside each one what happens to the nitrogen atom there.",
+   "record": "Keep your ring of six labels. Write beside each one what happens to the nitrogen atom there.",
    "setup": [
     {
      "art": "Six paper labels laid in a ring on the floor: Air, Fixing Bacteria, Plant, Animal, Decomposer, Air-Returning Bacteria.",
@@ -1452,7 +1452,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Start the ball at AIR and pass it round. 2. Each station says their line as they take the ball. 3. Go round three times, a little faster each time.",
-     "say": "Say your line as you take the atom. Air: 'I hold nitrogen in pairs.' Fixing bacteria: 'I split the pair and make ammonia.' Plant: 'I build protein.'",
+     "say": "Say your line as you take the atom. Air: 'I hold nitrogen in pairs.' Fixing bacteria: 'I split the pair and make ammonia.' Plant: 'I build protein.' Animal: 'I eat the plant.' Decomposer: 'I rot what dies.' Air-returning bacteria: 'I turn it back into gas in the air.'",
      "kid": "Pass the ball round the ring. Say each station's line. Fixing bacteria split the pair. The plant builds protein. The animal eats the plant.",
      "parent": "The other lines. Animal: 'I eat the plant and pass nitrogen out in urine.' Decomposer: 'I free the nitrogen from dung and dead bodies.' Air-returning bacteria: 'I send nitrogen gas back to the air.' Between the decomposer and the plant there is a short cut. Soil bacteria turn ammonium into nitrate, and roots take it up again without it ever reaching the air.",
      "context": "This is the main step of The Nitrogen Relay. Here you pass one nitrogen atom round the ring, and each station says what they do to it."
@@ -1462,7 +1462,7 @@
      "mins": 5,
      "do": "1. Take away the FIXING BACTERIA station and try to pass the ball. 2. Put it back. Take away the DECOMPOSER and try again. 3. Add a new station called FACTORY beside the fixing bacteria. Ask what it changes.",
      "say": "What happens to the ring when the fixing bacteria are gone? What about when the decomposers are gone? Where does the atom get stuck each time?",
-     "kid": "Take away the fixing bacteria. Can the ball get round? Put them back. Take away the decomposer. Where does the ball get stuck?",
+     "kid": "Take away the fixing bacteria. Can the ball get round? Put them back. Take away the decomposer. Try to pass the ball round again.",
      "ask": [
       {
        "q": "Where does the nitrogen get stuck without decomposers?",
@@ -1547,7 +1547,7 @@
      "mins": 5,
      "do": "1. Ask your child to carry the line on by eye to 2035 and read the number. 2. Tell them that the real line also wobbles up and down a little each year. 3. Ask what could take carbon dioxide out of the air every summer.",
      "say": "The real line dips a little every northern summer and rises every winter. What takes carbon dioxide out of the air in summer?",
-     "kid": "Carry your line on to 2035. What number do you read? The real line dips every summer. What takes carbon dioxide out of the air then?",
+     "kid": "Carry your line on to 2035. What number do you read? The real line dips every summer. Tell your grown-up your idea about why.",
      "parent": "Most of the world's land and forests are in the northern half. In the northern summer those forests are in leaf and take in more carbon dioxide than living beings give out. In winter many leaves fall and rot, and the number rises again. A fair reading for 2035 is 450 to 455, if nothing changes.",
      "check": {
       "t": "mcq",
@@ -1585,7 +1585,7 @@
     }
    ],
    "safety": "A grown-up comes along and chooses where to dig. Ask before you dig up any plant that someone is growing. Wash your hands with soap afterwards.",
-   "record": "Draw both sets of roots. Write how many nodules you counted, and the colour inside one.",
+   "record": "Take a photo of both sets of roots, or draw them. Write how many nodules you counted, and the colour inside one.",
    "setup": [
     {
      "art": "A child with an old spoon digging a wide circle round a small bean plant in a garden bed, lifting the plant with a ball of soil.",
@@ -1619,9 +1619,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Pick off the biggest nodule and split it with a fingernail. 2. Look at the colour inside. 3. Draw both roots. 4. Plant the grass back.",
+     "do": "1. Pick off the biggest nodule and split it with a fingernail. 2. Look at the colour inside. 3. Lay both roots side by side on white paper. Take a photo, or draw them. 4. Plant the grass back.",
      "say": "Split one open. What colour is it inside? Pink or red means the bacteria inside are fixing nitrogen.",
-     "kid": "Split the biggest lump with your fingernail. What colour is it inside? Draw both roots.",
+     "kid": "Split the biggest lump with your fingernail. What colour is it inside? Lay both roots side by side. Take a photo, or draw them.",
      "ask": [
       {
        "q": "Why does the grass have no nodules, and how does grass get nitrogen?",
@@ -1643,7 +1643,7 @@
    "title": "Bottle World: a sealed jar for four weeks",
    "days": 29,
    "mins": 45,
-   "context": "In this four-week project you plant a small plant in a glass jar and close the lid tightly. Nothing goes in after that except light. You watch what happens, and draw how water and carbon go round inside.",
+   "context": "In this four-week project you plant a small plant in a glass jar and close the lid tightly. Nothing goes in after that except light. You will find out whether a plant can live for four weeks with nothing added. You watch what happens, and show how water and carbon go round inside.",
    "materials": [
     {
      "item": "a clear glass jar with a tight lid, about 1 litre",
@@ -1693,7 +1693,7 @@
      "what": "Make the last drawing. Add the water loop and the carbon loop to it."
     }
    ],
-   "record": "Make one drawing of the jar each week. On the last drawing, add arrows to show how water goes round and how carbon goes round inside the jar.",
+   "record": "Take a photo or make a drawing of the jar each week. On the last drawing, add arrows to show how water goes round and how carbon goes round inside the jar, or tell it to a grown-up.",
    "setup": [
     {
      "art": "A glass jar with a layer of pebbles at the bottom, dark soil above, a small money plant cutting planted in the soil and one dry leaf lying on top.",
@@ -1710,7 +1710,7 @@
      "mins": 15,
      "do": "1. Put 2 cm of pebbles in the jar, then 4 cm of soil. 2. Plant the small plant. Lay a dry leaf on the soil. 3. Add 3 tablespoons of water. The soil should be damp, with no water standing in the pebbles. 4. Ask for a guess and a reason. 5. Close the lid tightly and write the date on it. 6. Stand the jar in a bright place that gets no direct sun.",
      "say": "Once the lid is on, no air and no water can get in or out. What do you think will happen to the plant in four weeks? Why do you think so?",
-     "kid": "Put pebbles in the jar. Add soil. Plant the small plant. Lay a dry leaf on top. Add 3 spoons of water. What will happen with the lid shut? Why? Close the lid.",
+     "kid": "Put pebbles in the jar. Add soil. Plant the small plant. Lay a dry leaf on top. Add 3 spoons of water. What will happen with the lid shut? Close the lid.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1728,9 +1728,9 @@
      "id": "s2",
      "mins": 15,
      "wait": "Look once a week, on days 8, 15 and 22",
-     "do": "1. Without opening the jar, look for drops on the glass. 2. Look for new leaves or roots. 3. Look at the dry leaf. 4. Look for mould. 5. Draw what you see.",
+     "do": "1. Without opening the jar, look for drops on the glass. 2. Look for new leaves or roots. 3. Look at the dry leaf. 4. Look for mould. 5. Take a photo of the jar, or draw it.",
      "say": "What has changed since last week? Where did the drops on the glass come from? Where do they go?",
-     "kid": "Do not open the jar. Look for water drops. Look for new leaves. Look at the dry leaf. Draw what you see.",
+     "kid": "Do not open the jar. Look for water drops. Look for new leaves. Look at the dry leaf. Take a photo of the jar, or draw it.",
      "parent": "Drops on the glass in the morning that clear by afternoon are a good sign. If the glass is fogged all day, open the lid for one day and close it again. Write that down. A little white mould on the dry leaf is the decomposers at work. If the plant rots, start again with less water.",
      "context": "This step of Bottle World is done once a week for three weeks. You look into the sealed jar and draw what has changed."
     },
@@ -1738,9 +1738,9 @@
      "id": "s3",
      "mins": 15,
      "wait": "Do this on day 29",
-     "do": "1. Make the last drawing. 2. Ask where the water in the jar goes each day. Draw that loop in blue. 3. Ask where the plant gets carbon dioxide, and who makes it. Draw that loop in another colour. 4. Ask what comes into the jar and what leaves.",
+     "do": "1. Take the last photo or drawing. 2. Ask where the water in the jar goes each day. Trace that loop with a finger on the glass. 3. Ask where the plant gets carbon dioxide, and who makes it. Trace that loop too. 4. Ask what comes into the jar and what leaves.",
      "say": "The plant has had no new air for four weeks. Where does the carbon dioxide for the leaves come from? Who in the jar is making it?",
-     "kid": "Make your last drawing. Draw how the water goes round in blue. Draw how the carbon goes round. What comes into the jar? What leaves?",
+     "kid": "Take your last photo or drawing. Trace with a finger how the water goes round the jar. Then trace how the carbon goes round.",
      "ask": [
       {
        "q": "Who in the jar makes carbon dioxide, and who uses it?",
@@ -1809,9 +1809,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Look at the bottle through the side. 2. Score the smell from a hand's length away. 3. Ask what the decomposers in this bottle are short of. 4. Write a plan with at least two changes.",
+     "do": "1. Look at the bottle through the side. 2. Score the smell from a hand's length away, from 0 (no smell) to 3 (very bad). 3. Ask what the decomposers in this bottle are short of. 4. Write a plan with at least two changes.",
      "say": "This bottle has plenty of food. So what are the decomposers short of? What will you change, and what will each change fix?",
-     "kid": "Look at the bottle. Score the smell. What are the decomposers short of? Plan two changes. Say what each one fixes.",
+     "kid": "Look at the bottle. Score the smell. Then plan two changes. Say what each one fixes.",
      "ask": [
       {
        "q": "What are the decomposers in this bottle short of?",
@@ -1885,7 +1885,7 @@
     "Wrap the colour in a small ball of clay or wet atta, so that it comes out slowly.",
     "Dig a small pit at the bottom of the slope to catch the water."
    ],
-   "your_turn": "Now design your own field. Draw it first and say why each part is there. Test it against the bare field with the same rain. Then change one thing and test again.",
+   "your_turn": "Now design your own field. Plan it first, by drawing it or telling it, and say why each part is there. Test it against the bare field with the same rain. Then change one thing and test again.",
    "setup": [
     {
      "art": "A steel plate filled with pressed soil, propped on a book so that it slopes, with its lower edge resting inside a large bowl and drops of red colour on the soil.",
@@ -1913,9 +1913,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Ask your child to draw a design and give a reason for each part. 2. Build it on the second plate with 2 tumblers of soil. 3. Use the same slope and put on the same 5 drops.",
+     "do": "1. Ask your child to plan a design, by drawing it or by telling it, and give a reason for each part. 2. Build it on the second plate with 2 tumblers of soil. 3. Use the same slope and put on the same 5 drops.",
      "say": "How will you keep the colour in your field? Why do you think that will work?",
-     "kid": "Draw your design. Say why each part is there. Build it on the second plate. Use the same slope. Add the same 5 drops.",
+     "kid": "Plan your design. Draw it or tell it to your grown-up. Say why each part is there. Build it on the second plate. Use the same slope. Add the same 5 drops.",
      "context": "This step of Keep It in the Field is for designing. You draw and build a field that you think will lose less colour in the rain."
     },
     {
@@ -1939,7 +1939,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Ask which one change your child would make next. 2. Link the designs to real farms: mulch, bunds, small doses and coated urea. 3. Pour the soil into a plant pot.",
-     "say": "Real farmers use the same ideas. Which of your ideas is like a bund? Which is like giving fertiliser in small amounts?",
+     "say": "Real farmers use the same ideas. A bund is a low wall of soil that holds water back. Which of your ideas is like a bund? Which is like giving fertiliser in small amounts?",
      "kid": "What one thing would you change next? Which of your ideas do real farmers use? Pour the soil into a plant pot.",
      "check": {
       "t": "mcq",

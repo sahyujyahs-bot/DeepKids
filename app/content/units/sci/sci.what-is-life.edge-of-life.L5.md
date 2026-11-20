@@ -291,17 +291,17 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 - **Printable tokens: 3 tokens for each player (make a set for everyone):** C: a chemical system; S: self-sustaining, keeps itself going; E: its kind can evolve
 - **s1 (5 min)**  
   *Parent does:* 1. Cut out the 20 cards and the tokens. 2. Read NASA's definition aloud: life is a self-sustaining chemical system capable of Darwinian evolution. 3. Go through the three tokens with a curd bacterium as the example.  
-  *Parent says:* NASA's definition has three parts. C is for chemical system. S is for self-sustaining. E is for able to evolve. A curd bacterium passes all three. Can you say why?  
-  *Child mode:* Cut out the cards and tokens. C means chemical. S means keeps itself going. E means its kind can evolve. A curd bacterium passes all three.
+  *Parent says:* NASA's definition has three parts. C is for chemical system. S is for self-sustaining. E is for able to evolve. A curd bacterium passes all three.  
+  *Child mode:* Cut out the cards and tokens. C means chemical. S means keeps itself going. E means its kind can evolve.
   - Ask: Why does a curd bacterium pass all three? (good: They are made of chemicals that act on each other.; They take in milk sugar and build their own parts.; They divide, and the copies can differ a little.)
 - **s2 (15 min)**  
   *Parent does:* 1. Read the top card aloud. 2. Everyone secretly chooses tokens. 3. Count to three and show. 4. Turn the card and read the back. 5. Give the points, and talk about any 'argue' card.  
   *Parent says:* For each card, ask three questions. Is it made of chemicals acting on each other? Does it keep itself going? Can its kind change over generations?  
-  *Child mode:* Read the card. Is it chemical? Does it keep itself going? Can its kind evolve? Choose your tokens. Show them on three.
+  *Child mode:* Read the card. Choose your tokens in secret. Show them on three.
   - Note: The backs give the usual answer, and several cards have no settled answer. Reward a good reason. The cards that pass exactly two parts are the most interesting ones.
 - **s3 (5 min)**  
   *Parent does:* 1. Count the points. 2. Sort the cards into four heaps by how many parts they pass: none, one, two or three. 3. Ask which heap the virus is in, and what else is there.  
-  *Parent says:* Look at the heap that passes two parts. Which part does each one fail? Is it the same part for the flame and for the virus?  
+  *Parent says:* Look at the heap that passes two parts. Which part does each one fail?  
   *Child mode:* Count your points. Sort the cards by how many parts they pass. Which heap is the virus in? What else is there?
   - Check: A candle flame and a cold virus each pass two of NASA's three parts. Which part does each one fail? → **The flame fails 'evolve', the virus fails 'self-sustaining'**
 ### g2 · Who Fits Whom? Match each virus to their host (20 min)
@@ -367,7 +367,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 - **s7 (6 min)**  
   *Parent does:* 1. Your child draws a line graph of chain A and of part 2. 2. Ask for the three sentences. 3. Ask who did the copying and who did the choosing. 4. Only then read the explanation cards together.  
   *Parent says:* Say what you thought would happen, what you saw, and why. Then tell me this. Did the line copy itself? Who copied it, and who chose the longest?  
-  *Child mode:* Draw the graph. Say what you thought would happen. Say what you saw. Say why. Did the line copy itself? Who chose the longest?
+  *Child mode:* Draw the graph, or lay the strips side by side in order. Say what you thought would happen, what you saw, and why.
   - Ask: Why did chain A wander further than set B? (good: In chain A each mistake was copied into the next line, so mistakes added up.; In set B each copy started again from the true length.)
   - Ask: In part 2 the line got longer every generation. Did the line do anything to make that happen? (good: No. I copied it and I chose the longest.; It only needed copies, small mistakes and a rule about which copy is kept.)
   - Note: In part 2, expect a gain of about 3 to 8 millimetres in most generations, so about 130 to 160 millimetres at P8. This is the main idea of the unit. A virus genome is copied by a cell, with small mistakes, and the virus's surroundings 'keep' the copies that get into more cells.
@@ -408,7 +408,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 - **s6 (6 min)**  
   *Parent does:* 1. Ask for the three sentences. 2. Ask what pattern your child sees in the table. 3. Ask what a living cell on a world with oily lakes could not use. 4. Only then read the explanation together.  
   *Parent says:* What did you think would happen, and what did you see? Which things did water dissolve, and which did oil dissolve? Do you see a pattern?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Which things did water dissolve? Which did oil dissolve? What is the pattern?
+  *Child mode:* Say what you thought would happen. Say what you saw. Which things did water dissolve? Which did oil dissolve?
   - Ask: What pattern do you see? (good: Water dissolved salt and sugar, and oil did not.; Oil dissolved the ghee and the yellow of the turmeric, and water did not.)
   - Ask: Titan's lakes are an oily liquid with no water. Could a living thing there use salt and sugar as our cells do? (good: No, because salt and sugar would lie at the bottom and never meet.; It would need other chemicals that dissolve in that liquid.)
   - Note: Chemists say 'like dissolves like'. Water dissolves salts and sugars. Oily liquids dissolve fats and oily colours. Your cells are full of salts, sugars, proteins and DNA dissolved in water. The membrane round each cell is made of fat, which is why the water inside does not dissolve it away.
@@ -416,16 +416,16 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 
 ## Activities
 ### a1 · Live, Killed or Inactivated? The words on a vaccination card (15 min)
-- **record:** Draw a table with three columns: 'live, weakened virus', 'inactivated virus' and 'one part of a virus'. Write each of your vaccines against viruses in the right column.
+- **record:** Make a table with three columns: 'live, weakened virus', 'inactivated virus' and 'one part of a virus'. Write each of your vaccines against viruses in the right column.
 - **s1 (5 min)**  
   *Parent does:* 1. Find the vaccination card. 2. Read the names aloud together. 3. Use this list to sort them. Polio drops, measles and rubella, and rotavirus drops hold live, weakened viruses. The polio injection, the rabies injection and Covaxin hold inactivated viruses. The hepatitis B vaccine holds one protein of the virus. 4. Leave out BCG, DPT and tetanus, which are against bacteria.  
   *Parent says:* A vaccine shows your body a virus safely, so your body learns to recognise them. Let's see which kind each of your vaccines is.  
-  *Child mode:* Find your vaccination card. Read the names. Sort the virus vaccines into three columns. Use the list to help you.
+  *Child mode:* Find your vaccination card. Read the names. Sort the virus vaccines into three groups: live weakened virus, inactivated virus, one part of a virus. Use the list to help you.
   - Note: On the card, polio drops are OPV, the polio injection is IPV or fIPV, and measles and rubella is MR or MMR. 'Weakened' means the virus has been changed so that they are copied only a little and cause no illness in a healthy child.
 - **s2 (5 min)**  
   *Parent does:* 1. Point to the words 'live' and 'killed' or 'inactivated'. 2. Ask your child what they think 'inactivated' means. 3. Ask whether a virus can be killed, and why. 4. Listen to the whole answer before saying anything.  
   *Parent says:* Doctors call some vaccines 'live' and others 'killed' or 'inactivated'. What do you think 'inactivated' means? Can a virus be killed? Why do you think so?  
-  *Child mode:* Look at the words 'live' and 'inactivated'. What might 'inactivated' mean? Can a virus be killed? Say why you think so.
+  *Child mode:* Look at the words 'live' and 'inactivated'. What might 'inactivated' mean?
   - Ask: Can a virus be killed? Why do you think so? (good: Yes, because a virus makes you ill and can be stopped.; I am not sure, because you can only kill something that is alive, and I do not know if a virus is.)
   - Note: Do not settle it. The whole unit is about this question. 'Inactivated' means the virus has been damaged, by heat or a chemical, so that no cell can copy them.
 - **s3 (5 min)**  
@@ -437,7 +437,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 ### a2 · Walk the Scale: how small is a virus? (20 min)
 - **record:** Write the scale table in your notebook: each thing, its real size and its model size. Then write one sentence about what surprised you.
 - **s1 (4 min)**  
-  *Parent does:* 1. Put one grain of salt on a dark plate. 2. Ask how many flu viruses, side by side, would cross it. 3. Write the guess down. 4. Explain the scale: in the model, 1 millimetre stands for 100 nanometres.  
+  *Parent does:* 1. Put one grain of salt on a dark plate. 2. Ask how many flu viruses, side by side, would cross it. 3. Write the guess down. 4. Explain the scale: everything in the model is 10,000 times bigger. A flu virus is about 100 nanometres across, and a nanometre is a millionth of a millimetre. So the flu virus becomes a dot 1 millimetre across.  
   *Parent says:* Here is one grain of salt. How many flu viruses in a row would it take to cross it? Make a guess, and say why.  
   *Child mode:* Look at one grain of salt. How many flu viruses would cross it? Guess, and say why. Write your guess down.
   - Note: The answer is about 3,000. Most guesses are far smaller. In the model, everything is 10,000 times its real size.
@@ -450,19 +450,19 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
   *Parent does:* 1. Lay the small pieces on the newspaper cell. 2. Measure 3 metres across the room for the grain of salt. 3. Work out your child's height at this scale. Multiply their height in metres by 10. That gives kilometres. 4. Name a place that far from home.  
   *Parent says:* A grain of salt would be 3 metres across. And you? You are about 1.3 metres tall. At this scale you would be 13 kilometres tall. Where is 13 kilometres from here?  
   *Child mode:* Lay the virus on the big cell. Measure 3 metres for the grain of salt. Work out your own height in the model. Name a place that far away.
-  - Ask: A light microscope shows the bacterium but not the flu virus. Looking at your model, why might that be? (good: The virus is twenty times smaller than the bacterium.; The virus is too small for light to show.)
+  - Ask: A school microscope shows a bacterium but not a flu virus. Look at your model. Why might that be? (good: The virus is twenty times smaller than the bacterium.; The virus is too small for light to show.)
   - Check: In Walk the Scale, a flu virus was a 1 millimetre dot and a cheek cell was 60 centimetres across. What does that show? → **Hundreds of viruses fit across one cell**
 ### a3 · Pori Rafts: can parts put themselves together? (15 min)
-- **record:** Draw the bowl three times: just after scattering, after 1 minute and after 3 minutes. Count the separate rafts and single grains each time.
+- **record:** Count the separate rafts and single grains just after scattering, after 1 minute and after 3 minutes. Write the three numbers. You can also take a photo of the bowl each time.
 - **s1 (4 min)**  
   *Parent does:* 1. Fill the bowl and let the water go still. 2. Ask what the grains will do if nobody touches them, and why. 3. Scatter about 30 grains, as far apart as you can. 4. Count the separate pieces at once.  
   *Parent says:* I will scatter these grains on the water and we will not touch them. Will they stay apart, or move? Why do you think so?  
   *Child mode:* Guess what the grains will do if nobody touches them. Say why. Scatter 30 grains on still water. Count the separate pieces.
   - Note: Drop the grains from close to the water so they do not sink. Fresh, crisp pori floats best.
 - **s2 (5 min)**  
-  *Parent does:* 1. Watch without touching the bowl or the table. 2. Count the separate rafts and single grains after 1 minute. 3. Count again after 3 minutes. 4. Your child draws what they see.  
+  *Parent does:* 1. Watch without touching the bowl or the table. 2. Count the separate rafts and single grains after 1 minute. 3. Count again after 3 minutes. 4. Your child tells you what they see.  
   *Parent says:* Watch two grains that are close together. What happens when they get near each other? How many separate pieces are there now?  
-  *Child mode:* Watch without touching. Count the pieces after 1 minute. Count again after 3 minutes. Draw what you see.
+  *Child mode:* Watch without touching. Count the pieces after 1 minute. Count again after 3 minutes. Tell your grown-up what you see.
   - Ask: Nobody pushed the grains. So what brought them together? (good: The water pulled them together.; Something about the water surface near each grain.)
   - Note: Each floating grain bends the water surface a little. Two grains close together slide towards each other along that bend. After about 5 minutes the pori gets soggy and may sink, so count before then.
 - **s3 (6 min)**  
@@ -473,15 +473,15 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
   - Check: New virus coats form inside a cell with no builder to arrange the parts. How? → **The parts fit together by their shapes and charges**
 ### a4 · Soap and the Fatty Coat: why soap inactivates some viruses (20 min)
 - **safety:** Do not drink from the bottles. Wipe up any spilt oil or soap, because it makes the floor slippery.
-- **record:** Draw both bottles just after shaking and again 2 minutes later. Label the oil, the water and the cloudy part.
+- **record:** Draw both bottles just after shaking and again 2 minutes later, or take a photo each time. Label the oil, the water and the cloudy part.
 - **s1 (5 min)**  
   *Parent does:* 1. Half fill both bottles with water. 2. Add 1 teaspoon of oil to each and look at where the oil goes. 3. Add 5 drops of liquid soap to bottle B only. 4. Ask what will be different after shaking, and why.  
   *Parent says:* Both bottles have oil and water. Only bottle B has soap. When we shake them and wait, what will be different? Why do you think so?  
   *Child mode:* Half fill two bottles with water. Add a teaspoon of oil to each. Add soap to bottle B only. Guess what shaking will do. Say why.
 - **s2 (7 min)**  
-  *Parent does:* 1. Close both lids tightly. 2. Shake each bottle 20 times. 3. Stand them side by side. 4. Look at once, after 1 minute and after 2 minutes. 5. Your child draws both bottles.  
+  *Parent does:* 1. Close both lids tightly. 2. Shake each bottle 20 times. 3. Stand them side by side. 4. Look at once, after 1 minute and after 2 minutes. 5. Your child points to where the oil is in each bottle and tells you what they see.  
   *Parent says:* Watch the oil in bottle A. Where is it going? Now look at bottle B. Can you find the oil at all?  
-  *Child mode:* Close the lids. Shake each bottle 20 times. Stand them down. Look now, after 1 minute and after 2 minutes. Draw both.
+  *Child mode:* Close the lids. Shake each bottle 20 times. Stand them down. Look now, after 1 minute and after 2 minutes. Point to the oil in each bottle and say what you see.
   - Note: In bottle A the oil gathers into drops and floats back to the top within a minute or two. Bottle B stays milky, because the soap has broken the oil into drops too small to see and keeps them apart.
 - **s3 (8 min)**  
   *Parent does:* 1. Ask what the soap did to the oil. 2. Explain that a soap molecule has one end that holds water and one end that holds fat. 3. Ask what soap might do to a virus wrapped in fat. 4. Read the note together.  
@@ -491,21 +491,21 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
   - Note: Soap pulls the envelope apart. The spikes that fit the cell's receptors sit in the envelope, so the virus can no longer enter a cell. Not every virus has an envelope. Flu, measles and coronaviruses do. Polio, rotavirus and most cold viruses do not, and soap does not break them. Washing still helps against those, because soap and running water lift them off the skin and carry them down the drain.
   - Check: Why does soap inactivate a flu virus but not a polio virus? → **A flu virus has an envelope of fat, and polio has none**
 ### a5 · A Being for Another World: invent a life form and test it (25 min)
-- **record:** Draw your being and label four things: the liquid, the energy supply, the boundary and the instructions. Under the drawing, write NASA's three parts and tick the ones your being passes.
+- **record:** Draw or build your being and label four things: the liquid, the energy supply, the boundary and the instructions. Next to the being, write NASA's three parts and tick the ones your being passes.
 - **s1 (5 min)**  
   *Parent does:* 1. Read out the three worlds. Titan has lakes of oily liquid methane at 179 degrees below zero. Europa has a dark salty ocean under thick ice. Venus has clouds of acid drops, with mild temperatures high up. 2. Your child chooses one. 3. Ask what any living being would need there.  
   *Parent says:* Choose one of these three worlds. Before you draw anything, tell me what a living being would need there. Why do you think so?  
   *Child mode:* Choose Titan, Europa or Venus. What would a living being need there? Say why. Do not draw yet.
   - Ask: What would any living being need on your world? (good: A liquid, so that chemicals can meet.; A supply of energy, because there may be little sunlight.; A way to pass on instructions.)
 - **s2 (12 min)**  
-  *Parent does:* 1. Your child draws their being. 2. They label the liquid the being lives in. 3. They label where the energy comes from. 4. They label the boundary that keeps the inside in. 5. They label how the instructions are stored and copied.  
-  *Parent says:* Draw your being. Then show me four things. What liquid are they in? Where does their energy come from? What keeps their inside in? How are their instructions copied?  
-  *Child mode:* Draw your being. Label the liquid. Label the energy supply. Label the boundary. Label how the instructions are copied.
+  *Parent does:* 1. Your child draws or builds their being. 2. They label the liquid the being lives in. 3. They label where the energy comes from. 4. They label the boundary that keeps the inside in. 5. They label how the instructions are stored and copied.  
+  *Parent says:* Show me your being, drawn or built. Then show me four things. What liquid are they in? Where does their energy come from? What keeps their inside in? How are their instructions copied?  
+  *Child mode:* Draw your being, or build it from clay or things from the kitchen. Label the liquid. Label the energy supply. Label the boundary. Label how the instructions are copied.
   - Note: There are no wrong beings, but ask for a reason for each label. If your child did Two Liquids, ask what the being's membrane must not dissolve in.
 - **s3 (8 min)**  
-  *Parent does:* 1. Write NASA's three parts under the drawing: chemical system, self-sustaining, can evolve. 2. Your child ticks each part the being passes and says why. 3. Ask how a space probe could tell that this being is alive.  
-  *Parent says:* Is your being a chemical system? Do they keep themselves going? Can their kind evolve? How would a probe that has never seen them know they are alive?  
-  *Child mode:* Write NASA's three parts under your drawing. Tick the ones your being passes. How would a space probe know your being is alive?
+  *Parent does:* 1. Write NASA's three parts next to the being: chemical system, self-sustaining, can evolve. 2. Your child ticks each part the being passes and says why. 3. Ask how a space probe could tell that this being is alive.  
+  *Parent says:* NASA says life is a chemical system that keeps itself going and can evolve, which means their kind can change over generations. Is your being a chemical system? Do they keep themselves going? Can their kind evolve? How would a probe that has never seen them know they are alive?  
+  *Child mode:* Write NASA's three parts next to your being. Tick the ones your being passes. How would a space probe know your being is alive?
   - Check: Why might a test that looks for DNA fail to find life on another world? → **Life there might store instructions in another chemical**
   - Think: Which part of your being is the same as life on Earth? Could you change that part too?
 ### a6 · Switch Sides: argue that a virus is alive, then that they are not (20 min)
@@ -516,19 +516,19 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
   *Child mode:* Write the eight facts on slips. Sort them. Which help 'alive'? Which help 'not alive'? Do any help both?
 - **s2 (8 min)**  
   *Parent does:* 1. Toss a coin for sides. 2. Each side speaks for 1 minute, then answers the other for half a minute. 3. Swap sides and slips. 4. Repeat, with each person now arguing the opposite.  
-  *Parent says:* You must use at least two evidence cards. Then we swap, and you must argue the other side just as well.  
+  *Parent says:* We toss a coin. One of us argues that a virus is alive. The other argues that a virus is not alive. Use at least two evidence cards. Then we swap sides and argue the opposite just as well.  
   *Child mode:* Toss a coin for sides. Speak for 1 minute. Use two evidence cards. Then swap sides. Argue the opposite just as well.
   - Note: Playing alone, your child argues one side aloud to you, then the other. The swap matters most. It is easy to argue for what you already think.
 - **s3 (6 min)**  
   *Parent does:* 1. Ask which facts the two sides disagreed about. 2. Ask what they did disagree about. 3. Your child writes the strongest point for each side.  
-  *Parent says:* Did the two sides disagree about any fact? If not, what were they disagreeing about?  
-  *Child mode:* Did the two sides disagree about any fact? What did they disagree about? Write the best point for each side.
+  *Parent says:* Did the two sides disagree about any fact?  
+  *Child mode:* Think about the facts each side used. Then write the best point for each side.
   - Ask: If both sides agree on every fact, what is the argument about? (good: It is about which test for life matters most.; It is about what the word 'alive' should mean.)
   - Check: Scientists on both sides of the virus debate agree about what viruses do. What do they disagree about? → **Which test for life matters most**
 
 ## Projects
 ### p1 · The Family Verdict: what do people think 'alive' means? (65 min, 3 days)
-- **record:** Keep a table with one row for each person: their name, their answer (alive, not alive or not sure), and their reason in their own words. On day 3, add a bar chart and a report of five sentences.
+- **record:** Keep a table with one row for each person: their name, their answer (alive, not alive or not sure), and their reason in their own words. On day 3, add a bar chart (or a photo of your coin piles) and a report of five sentences.
 - **schedule:** day 1: Write the three questions, guess the result and try the survey on one person. (20 min); day 2: Ask nine more people, in person or by phone, and write down each answer and reason. (20 min); day 3: Tally the answers, sort the reasons, draw a bar chart and write a short report. (25 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Your child writes three questions. Is a virus alive? Why do you think so? Is a dry seed alive? 2. They guess how the ten answers will divide, and why. 3. They try the survey on you and write down your answers.  
@@ -542,9 +542,9 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
   - Note: Phone calls to grandparents, cousins and neighbours work well. Each call takes about two minutes.
   - Wait: Do this on day 2
 - **s3 (25 min)**  
-  *Parent does:* 1. Your child tallies the three answers and draws a bar chart. 2. They sort the reasons into 'what it does', 'what it is made of', 'it evolves or has genes', and 'other'. 3. They count how many people answered differently for the virus and the seed. 4. They write five sentences about what they found.  
+  *Parent does:* 1. Your child tallies the three answers and draws a bar chart, or makes a pile of coins for each answer. 2. They sort the reasons into 'what it does', 'what it is made of', 'it evolves or has genes', and 'other'. 3. They count how many people answered differently for the virus and the seed. 4. They write five sentences about what they found.  
   *Parent says:* Which kind of reason did people give most? Did anyone say a virus is not alive because they do nothing, and then say a dry seed is alive?  
-  *Child mode:* Tally the answers. Draw a bar chart. Sort the reasons into kinds. Who answered differently for the seed? Write five sentences.
+  *Child mode:* Tally the answers. Draw a bar chart, or stack coins in a pile for each answer. Sort the reasons into kinds. Who answered differently for the seed? Write five sentences.
   - Ask: What does it tell you if someone uses one test for the virus and another for the seed? (good: People have more than one idea of 'alive' and switch between them.; The word is not as clear as it seems.)
   - Check: Ten people are asked if a virus is alive, and they disagree. What is the most likely reason? → **They are using different tests for 'alive'**
   - Wait: Do this on day 3
@@ -552,7 +552,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 ## Challenges
 ### c1 · Block the Key: stop a virus entering without harming the cell (30 min)
 - **problem:** Cut a cardboard 'lock' and a 'key' that fits it. Then find at least two different ways to stop the key going into the lock. The lock must stay whole and uncovered.
-- **your turn:** Now design your own blocker. Draw it, build it and test it five times. Then ask someone to snip a small piece off the tip of the virus key, so that the key still fits the lock. Does your blocker still fit the key? What would you have to do next?
+- **your turn:** Now design your own blocker. Draw it or just build it, and test it five times. Then ask someone to snip a small piece off the tip of the virus key, so that the key still fits the lock. Does your blocker still fit the key? What would you have to do next?
 - **constraints:** Do not cut, bend or cover the lock. The cell needs their receptor.; Do not throw the key away. Viruses will keep arriving.; Your blocker must not stop the 'friendly key', a second key of a different shape that also uses this lock.
 - **general:** Make a small paper cap that fits over the tip of the virus key, so that the tip no longer fits the lock. This is how an antibody works.; Stick a blob of tape on the tip of the key.
 - **creative:** Cut several loose copies of the lock and scatter them. The keys stick in the loose locks and never reach the cell. Scientists test such 'decoy receptors' as medicines.; Make a cap that fits only the notch pattern on the virus key, so that the friendly key is left alone.; Make a clip that holds two virus keys together, so that neither can turn into the lock.
@@ -562,9 +562,9 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
   *Child mode:* Cut a cardboard lock with a stepped notch. Cut a virus key that fits it. Cut a friendly key that also fits.
   - Note: Cardboard from a cereal box cuts easily with ordinary scissors. Help with the notch if the cardboard is thick. Draw a zigzag on the virus key so the two keys are easy to tell apart.
 - **s2 (10 min)**  
-  *Parent does:* 1. Read the rules: the lock stays whole and uncovered, and the friendly key must still fit. 2. Your child picks a usual idea, such as a paper cap for the key. 3. They say why it should work. 4. They build it and test it five times with both keys.  
+  *Parent does:* 1. Read the rules: the lock stays whole and uncovered, and the friendly key must still fit. 2. Your child picks an ordinary idea, such as a paper cap for the key. 3. They say why it should work. 4. They build it and test it five times with both keys.  
   *Parent says:* Which idea will you try first? Why should it work? Remember to test the friendly key as well.  
-  *Child mode:* Read the rules. Pick one idea. Say why it should work. Build it. Test both keys five times.
+  *Child mode:* Rules: the lock stays whole and uncovered, and the friendly key must still fit. Pick one idea. Say why it should work. Build it. Test both keys five times.
   - Ask: Why is it better to block the key than to cover the lock? (good: The cell needs the lock for their own work.; A cap on the key stops only the virus.)
 - **s3 (12 min)**  
   *Parent does:* 1. Your child designs and builds a blocker of their own. 2. They test it five times. 3. Now snip a small corner off the key's tip. The key must still enter the lock. 4. Test the blocker on the changed key.  
@@ -591,7 +591,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 - **s3 (15 min)**  
   *Parent does:* 1. Your child designs their own system and writes its rules. 2. They run six copies and count the wrong letters. 3. Compare all three runs: mistakes and time. 4. Read the note together and ask whether a virus would want a perfect system.  
   *Parent says:* Your cells check their DNA copies and fix nearly every mistake. Most RNA viruses do no checking. Is that only a weakness? What could a virus gain from mistakes?  
-  *Child mode:* Design your own system. Write its rules. Run six copies. Count the wrong letters. Could mistakes ever help a virus?
+  *Child mode:* Design your own system. Write its rules. Run six copies. Count the wrong letters.
   - Note: Your cells proofread and repair their DNA, so only about one letter in a thousand million ends up wrong. Checking costs time and energy. Most RNA viruses skip it and get about one letter wrong in ten thousand to a hundred thousand. Most of those copies fail. But a few have a change that hides them from the body's defences, and that is how such viruses keep ahead.
   - Check: Most RNA viruses make far more copying mistakes than your cells do. What is one result? → **They evolve faster**
 

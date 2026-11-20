@@ -265,7 +265,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s1 (4 min)**  
   *Parent does:* 1. Draw the board and copy the key. 2. Put the 6 beans on START. 3. Ask for two guesses. How many rounds until every quarter holds a bean? Will all 6 beans ever be back in the START quarter?  
   *Parent says:* Nobody will tell these beans where to go. The die decides. Will they spread over the whole board? Will they ever all come back to the START quarter?  
-  *Child mode:* Draw the board. Put 6 beans on START. Guess how many rounds they need to fill the box. Will they ever all come back?
+  *Child mode:* Draw the board. Put 6 beans on START. Make your two guesses.
 - **s2 (10 min)**  
   *Parent does:* 1. Play round after round. 2. Make a tally mark after each round. 3. Stop when every quarter holds at least one bean.  
   *Parent says:* Roll for each bean in turn. Is any bean being sent towards the empty quarters, or do they just wander?  
@@ -274,7 +274,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s3 (6 min)**  
   *Parent does:* 1. Play 10 more rounds. 2. After each one, write how many beans are in the START quarter. 3. Ask whether the beans ever all went back, and why not.  
   *Parent says:* Look at your ten numbers. The beans were free to go back to START at any time. Why did they not all go back together?  
-  *Child mode:* Play 10 more rounds. Count the beans in the START quarter each time. Did all 6 ever go back? Why not?
+  *Child mode:* Play 10 more rounds. Count the beans in the START quarter each time.
   - Note: The START quarter usually holds 1 or 2 beans, sometimes none or 3. Each bean has 1 chance in 4 of being there. The chance that all 6 are there at once is 1 in 4,096. Real gas particles also move by chance. A room holds so many that its air never gathers in one corner.
   - Check: In Bean Gas, no bean was told where to go. Why did the beans end up spread over the board? → **Chance moves give many more spread-out arrangements than gathered ones**
 
@@ -284,7 +284,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **predict:** Guess twice, and write both guesses. First: a balloon blown up with air hangs opposite a flat balloon. Which end of the hanger goes down, or does it stay level? Second: a balloon of air hangs opposite a balloon of carbon dioxide of the same size. Which end goes down? Why do you think so, each time?
 - **fair test:** Use two balloons from the same packet. Make them the same size by measuring round each one with a thread. Hang them the same distance from the middle of the hanger. Switch off the fan and close the windows, because moving air pushes balloons about. Then swap the two balloons and test again, in case one end of the hanger is heavier.
 - **safety:** A grown-up helps to fit the balloon on the bottle. Keep faces away from the bottle mouth, and rinse with water if vinegar gets in an eye. Never put a balloon of this gas to your mouth. Keep balloons away from children under three.
-- **record:** Fill in the table. Draw the hanger with the two balloons and show which end was lower. Then write what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table. Show which end of the hanger was lower. Draw it, or take a photo. Then write what you thought would happen, what you saw, and why you think it happened.
 - **results table:** What hung on the two ends | Which end went lower? | How many centimetres lower? | Paper clips needed to level it
 - **s1 (5 min)**  
   *Parent does:* 1. Hang the coat hanger on a door handle or hook, away from the fan. 2. Tie a 30 cm thread to each end of the hanger. 3. Tie one flat balloon to each thread by its neck. 4. If one end is lower, stick small bits of tape on the higher end until the hanger is level. 5. Tape a sheet of paper behind one end and mark where that end sits.  
@@ -294,18 +294,18 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s2 (5 min)**  
   *Parent does:* 1. Ask for the first guess and its reason. 2. Untie one balloon. Blow it up, by mouth or with a pump, until it is about 50 cm round, and knot it. 3. Hang it back on its thread. 4. Wait until the hanger is still. 5. Measure how far the end has moved from the pencil mark.  
   *Parent says:* One balloon will be full of air and the other flat. Which end will go down, or will the hanger stay level? Why do you think so?  
-  *Child mode:* Guess first. Will the full balloon pull its end down? Say why. Blow up one balloon. Hang it back. Wait until it is still. Look at the mark.
+  *Child mode:* Blow up one balloon. Hang it back on its thread. Wait until it is still. Look at the mark.
   - Ask: Why do you think so? (good: Air has mass, so the full balloon should go down.; Balloons float, so the full one might go up.; Air weighs nothing, so nothing will change.)
   - Note: Most hangers stay level, or the full end dips by a few millimetres. Do not explain yet. Just ask your child to write what they saw. The reason comes in the last step.
 - **s3 (3 min)**  
   *Parent does:* 1. Show the vinegar, the baking soda and the bottle. 2. Say that they will make a gas called carbon dioxide, and that the gas will fill the third balloon. 3. Ask for the second guess and its reason. 4. Write both guesses down.  
   *Parent says:* Next we fill a balloon with a different gas, and make it the same size as the air balloon. Which of the two will be heavier, or will they match? Why?  
-  *Child mode:* Now a new gas goes in the other balloon. Both balloons will be the same size. Which end will go down? Say why. Write your guess.
+  *Child mode:* A new gas will go in the other balloon. Both balloons will be the same size. Write your guess down.
   - Ask: Why do you think so? (good: They are the same size, so they should weigh the same.; Gas weighs nothing, so the hanger will stay level.; The new gas might be heavier, because it is a different substance.)
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* 1. Pour 150 ml of vinegar into the dry bottle. 2. Use the paper funnel to put 3 level teaspoons of baking soda into a flat balloon. 3. Stretch the balloon's neck over the bottle mouth, with the balloon hanging to one side. 4. Hold the neck on tightly. Lift the balloon, and shake the soda down a little at a time. 5. Swirl the bottle gently until the fizzing stops, in about 2 minutes.  
   *Parent says:* Vinegar is a liquid, and baking soda is a solid. Watch what happens when they meet. What is filling the balloon?  
-  *Child mode:* Put the soda in the balloon. Fit the balloon on the bottle. Tip the soda in slowly. Watch the balloon grow. What is filling it?
+  *Child mode:* Put the soda in the balloon. Fit the balloon on the bottle. Tip the soda in slowly. Watch the balloon grow.
   - Ask: We began with a liquid and a solid. What state is the new substance in the balloon? (good: A gas.; It is carbon dioxide, a new gas made when the two met.)
   - Note: Tip the soda in slowly, so that foam does not climb into the balloon. The balloon usually grows to 15 to 18 cm across. A smaller balloon still works. If you can see liquid inside the balloon, start again with the spare, because drops of liquid would add mass.
 - **s5 (4 min) · grown-up needed**  
@@ -324,7 +324,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
   *Child mode:* Hold both balloons up high, at the same height. Let go together. Which lands first? Do it three times.
 - **s8 (6 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your results. Say what you thought would happen, what you saw, and why it happened. Why did the air balloon add almost nothing, when air has mass?  
+  *Parent says:* Look at your results. Say what you thought would happen, what you saw, and why it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: The two balloons were the same size. Why was one heavier? (good: Carbon dioxide particles are heavier than the particles of air.; The same space holds about the same number of particles, so heavier particles make a heavier balloon.)
   - Ask: The air balloon held about 3 grams of air. Why did the hanger not show it? (good: The balloon was hanging in air, and the air around it held it up.; A bag of water under water feels light for the same reason.)
@@ -351,7 +351,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s3 (9 min) · grown-up needed**  
   *Parent does:* 1. Pour 100 ml of vinegar into the fizzy-drink bottle. 2. Wrap 2 level teaspoons of baking soda in the tissue and twist it shut. 3. Put the bottle, its cap and the packet on the scale. Write down the mass. 4. Drop the packet into the bottle and screw the cap on tight at once. 5. Swirl the bottle until the fizzing stops, and put it back on the scale. Write down the mass. 6. Open the cap slowly, wait one minute, and weigh the bottle and cap again.  
   *Parent says:* This time the gas cannot get out. What does the scale say after the fizz? Now listen as I open the cap, and read the scale again.  
-  *Child mode:* A grown-up fizzes the mix in a closed bottle. Read the scale. Did the number change? Now the cap opens. Listen. Read the scale again.
+  *Child mode:* Fizz the mix in the closed bottle. Read the scale. Did the number change? Now open the cap slowly. Listen. Read the scale again.
   - Note: With the cap on, the mass stays the same to the gram, and the bottle goes hard. When the cap opens you hear the gas rush out, and the mass usually falls by 2 to 3 grams. Some carbon dioxide stays in the bottle, so the fall may be a little smaller than in the tumbler.
 - **s4 (6 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. After they have answered, read them the explanation in the note below.  
@@ -400,10 +400,10 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 
 ## Activities
 ### a1 · Pour Air Upwards: catch a gas and move it (10 min)
-- **record:** Draw the two tumblers under water, and show where the air was before and after.
+- **record:** Show where the air was before and after. Draw the two tumblers under water, or tell your grown-up.
 - **s1 (3 min)**  
   *Parent does:* 1. Hold tumbler A upside down. 2. Push it straight down until it is under the water. 3. Look through its side.  
-  *Parent says:* This tumbler looks empty. Push it under the water, mouth down. What do you see inside it? What is keeping the water out?  
+  *Parent says:* This tumbler looks empty. Push it under the water, mouth down. What do you see inside it?  
   *Child mode:* Hold one tumbler upside down. Push it straight down into the water. Look through its side. Is it full of water?
   - Ask: What is keeping the water out of the tumbler? (good: Air is inside it.; The air takes up the space, so the water has no room.)
 - **s2 (4 min)**  
@@ -414,16 +414,16 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s3 (3 min)**  
   *Parent does:* 1. Lift both tumblers out. 2. Ask your child what moved from A to B, and how they know it takes up space.  
   *Parent says:* You moved something from A to B. What was it? How do you know it takes up space?  
-  *Child mode:* Something moved from A to B. What was it? How do you know it takes up space?
+  *Child mode:* Lift both tumblers out. Tell your grown-up what moved from A to B.
   - Check: Air rose from one tumbler into another under water and pushed the water out. What does this show? → **Air is a substance that takes up space**
   - Think: You poured air upwards through water. Which way would you pour a gas that is heavier than air?
 ### a2 · Smoke in Two Jars: does a gas fill the space it is given? (10 min)
 - **safety:** A grown-up lights the agarbatti and puts it out in water afterwards. Do this near an open window, and do not breathe the smoke.
-- **record:** Draw the two jars at the start and after 3 minutes. Shade where the smoke is.
+- **record:** Show where the smoke is at the start and after 3 minutes. Draw the two jars and shade the smoke, or take a photo of each.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Light the agarbatti. 2. Hold jar A upside down over the smoke for about 20 seconds, until it looks grey. 3. Slide the card under its mouth. 4. Put the agarbatti out in the water. 5. Stand jar A, still on its card, mouth to mouth on top of jar B.  
   *Parent says:* The smoke is in the top jar only. In a moment I will pull out the card. Where will the smoke go? Why do you think so?  
-  *Child mode:* A grown-up fills the top jar with smoke. The card keeps it there. Where will the smoke go when the card comes out? Say why.
+  *Child mode:* A grown-up fills the top jar with smoke. The card keeps it there.
   - Ask: Why do you think so? (good: It will stay up, because smoke rises.; It will spread into both jars, because a gas spreads out.; It will all sink into the bottom jar.)
 - **s2 (4 min)**  
   *Parent does:* 1. Hold both jars steady and pull the card out. 2. Watch for 3 minutes. 3. Compare how grey the top jar looks now with how it looked at the start.  
@@ -433,7 +433,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s3 (2 min)**  
   *Parent does:* 1. Ask your child to say what they saw and why. 2. Then read them the note below.  
   *Parent says:* Say what you saw the smoke do. Why do you think it did that?  
-  *Child mode:* Say what the smoke did. Say why you think it did that.
+  *Child mode:* Tell your grown-up what the smoke did, and why.
   - Note: Smoke is tiny solid and liquid bits floating in the air, and they go where the air goes. The gas in the top jar spread into all the space it was given. The same smoke in twice the space looks thinner.
   - Check: Smoke filled one jar. Then a second jar was joined to it. What did the smoke do? → **It spread through both jars and looked thinner**
 ### a3 · How Much Gas Is One Breath? (20 min)
@@ -459,16 +459,16 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
   - Note: A ten-year-old child's deepest breath is often 1,500 to 2,500 ml. If the bottle empties, write 'more than 2,000 ml'. A grown-up's deepest breath is 3 to 5 litres, so it will empty the bottle. Some air always stays in the lungs, however hard you blow.
   - Check: A deep breath pushed 1,500 ml of water out of an upturned bottle. What does that tell you? → **The breath was about 1,500 ml of gas**
 ### a4 · 100 Grains of Air: build the mixture on a plate (15 min)
-- **record:** Draw a square of 100 small squares. Colour 78 one colour for nitrogen, 21 another colour for oxygen and 1 a third colour for argon.
+- **record:** Lay your 100 grains in a square of 10 rows of 10. Keep the rice, the dal and the peppercorn each in their own part. Take a photo, or colour a paper square of 100 small squares the same way.
 - **s1 (5 min)**  
   *Parent does:* 1. Ask the question below before any counting. 2. Then count 78 grains of rice in tens. 3. Count 21 grains of dal. 4. Add one peppercorn.  
   *Parent says:* Air is a mixture of gases. Out of 100 particles of air, how many do you think are oxygen? Why do you think so?  
-  *Child mode:* Guess first. In 100 particles of air, how many are oxygen? Say why. Now count 78 rice, 21 dal and 1 peppercorn.
+  *Child mode:* Count 78 rice, 21 dal and 1 peppercorn into three small piles.
   - Ask: Why do you think so? (good: Most of it, because we need oxygen to breathe.; About half.; I think only a small part, because fires would burn too fast in pure oxygen.)
 - **s2 (4 min)**  
   *Parent does:* 1. Say that rice stands for nitrogen, dal for oxygen and the peppercorn for argon. 2. Stir the grains together with a finger. 3. Ask your child to point to where the oxygen is.  
   *Parent says:* The rice is nitrogen, the dal is oxygen, and the peppercorn is argon. Mix them well. Now, where on the plate is the oxygen?  
-  *Child mode:* Rice is nitrogen. Dal is oxygen. The peppercorn is argon. Mix them all. Where is the oxygen now?
+  *Child mode:* Rice is nitrogen. Dal is oxygen. The peppercorn is argon. Mix them all with a finger. Then try to point to the oxygen.
   - Ask: About what fraction of the air is oxygen? (good: About one-fifth.; 21 out of 100.)
   - Note: The oxygen is everywhere on the plate, mixed evenly with the nitrogen. Real air is like this in every room and every country. Winds stir it, and gas particles spread among each other.
 - **s3 (6 min)**  
@@ -490,12 +490,12 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
   *Parent does:* 1. Measure the width of one coin and multiply it by 12. For a coin 2.5 cm wide, that is 30 cm. 2. Lay the 16 coins in 4 rows of 4, with that gap between each coin and the next. 3. Measure the width of the whole square.  
   *Parent says:* In real steam, each particle is about 12 of its own widths from the next. Lay the coins out like that. How wide is the square now?  
   *Child mode:* Measure one coin. Multiply by 12. Put the coins that far apart, in 4 rows of 4. Measure the whole square.
-  - Ask: What is between the coins in the gas picture? (good: Nothing.; Empty space. It is not air, because the coins are the gas.)
+  - Ask: What is in the gaps between the gas coins? (good: Nothing.; Empty space. It is not air, because the coins are the gas.)
   - Note: With coins 2.5 cm wide, the liquid block is about 10 cm wide. The gas square is about 1 metre wide. Real particles spread upwards as well as sideways. So steam takes about 12 times 12 times 12, or about 1,700, times the space of the water.
 - **s4 (4 min)**  
   *Parent does:* 1. Put a long book on each side of the gas square, as walls. 2. Push the walls in until the gaps between the coins are halved. 3. Now try to push walls in on the liquid block.  
   *Parent says:* Push the walls in on the gas. Can the particles move closer? Now try the liquid. What is different?  
-  *Child mode:* Push the walls in on the gas coins. Do they move closer? Now try the liquid coins. What is different?
+  *Child mode:* Push the walls in on the gas coins. Then push them in on the liquid coins. Watch the gaps.
   - Note: Cooking gas in a cylinder is squashed until its particles touch. At that point it has become a liquid.
   - Check: A gas can be compressed into less space, but a liquid cannot. Why? → **Gas particles have gaps between them, and liquid particles touch**
 ### a6 · Read the Cylinder: how is a gas sold by the kilogram? (10 min)
@@ -508,8 +508,8 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
   - Note: The number is called the tare weight. If your home has no cylinder, read a deodorant can instead. Its label gives the mass of what is inside in grams, and says it is under pressure.
 - **s2 (3 min)**  
   *Parent does:* 1. Say that a full home cylinder holds 14.2 kg of gas. The bill usually says so. 2. Ask your child to add the two numbers. 3. Ask the question below.  
-  *Parent says:* A full cylinder holds 14.2 kilograms of gas. Add that to the painted number. Now, how can 14.2 kilograms of a gas fit into one cylinder?  
-  *Child mode:* A full cylinder holds 14.2 kg of gas. Add it to the painted number. How can so much gas fit inside?
+  *Parent says:* A full cylinder holds 14.2 kilograms of gas. Add that to the painted number. What do you get?  
+  *Child mode:* A full cylinder holds 14.2 kg of gas. Add it to the painted number.
   - Ask: How can so much gas fit in one cylinder? (good: It is squeezed very hard.; It is squeezed until it turns into a liquid.)
 - **s3 (3 min)**  
   *Parent does:* 1. Say that as a gas in the room, 14.2 kg of cooking gas would fill about 7,000 litres. 2. Ask how many 20-litre buckets that is. 3. Ask how the gas company could check how much gas is left in a cylinder.  
@@ -522,30 +522,30 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s1 (5 min)**  
   *Parent does:* 1. Fill one bottle to the very brim with water and cap it. 2. Fill one to the brim with sand, rava or sugar and cap it. 3. Cap the third with only air in it. 4. Ask which bottles will squeeze in, and why. 5. Squeeze each one hard.  
   *Parent says:* Three bottles: water, sand and air. Which will squeeze in when you press it? Why do you think so? Now try.  
-  *Child mode:* Fill one bottle with water, one with sand. Leave one with air. Cap them. Guess which will squeeze in. Now squeeze each one.
+  *Child mode:* Fill one bottle with water and one with sand. Leave one with air. Cap all three. Squeeze each one hard.
   - Note: The air bottle squeezes in. The water bottle hardly moves if no air bubble is left under the cap. The sand bottle hardly moves either.
 - **s2 (5 min)**  
   *Parent does:* 1. Put the steel spoon in the bowl, then pour a little water in beside it. 2. Ask which keeps its shape and which takes the bowl's shape. 3. Uncap the air bottle and ask where its air can go now. 4. Fill in the table together.  
   *Parent says:* The spoon, the water and the air: which keeps its own shape? Which keeps its own volume? Which flows?  
-  *Child mode:* Put the spoon in the bowl. Pour in some water. Which keeps its shape? Which flows? Fill in your table.
+  *Child mode:* Put the spoon in the bowl. Pour in some water. Fill in your table.
   - Ask: Which property do water and air share, that the spoon does not have? (good: They flow.; They take the shape of their container.)
   - Ask: Which property does only the air have? (good: It can be squashed.; It has no volume of its own, so it spreads out.)
 - **s3 (5 min)**  
   *Parent does:* 1. Pour the sand into the bowl. 2. Ask whether sand is a solid or a liquid, and why. 3. Look closely at a few grains together.  
   *Parent says:* Sand pours and takes the shape of the bowl. So is sand a liquid? Look at one grain before you answer.  
-  *Child mode:* Pour the sand into the bowl. It flows like water. Is sand a liquid? Look at one grain. Say why.
+  *Child mode:* Pour the sand into the bowl. It flows like water. Look closely at one grain.
   - Note: Each grain keeps its own shape, so each grain is a solid. A heap pours because the grains roll over each other, with air in the gaps.
   - Check: Which property belongs to a gas, but not to a solid or a liquid? → **It spreads to fill all the space it gets**
 
 ## Projects
 ### p1 · Five Sticky Squares: where is the air around our home dustiest? (40 min, 4 days)
 - **safety:** A grown-up cuts the plastic. Tape the square near the stove at least an arm's length from the flame.
-- **record:** Make a table: place, my guess of its rank, number of specks. Draw a bar chart with one bar for each place. Then write what you thought would happen, what you saw, and why you think it happened.
+- **record:** Make a table: place, my guess of its rank, number of specks. Make a bar chart with one bar for each place, drawn or made of bottle caps. Then write what you thought would happen, what you saw, and why you think it happened.
 - **schedule:** day 1: Make five sticky squares and tape them up in five places. Guess which will catch the most specks, and say why. Write down today's AQI. (20 min); day 2: Write down today's AQI. Check that all five squares are still in place. (2 min); day 3: Write down today's AQI. Look at the squares without touching them. (3 min); day 4: Collect the squares, count the specks on each, draw a bar chart and write what you found. (15 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. On each piece, draw a rectangle 4 cm long and 2 cm wide. Divide it into 8 squares of 1 cm. Label the pieces A to E. 2. Smear a thin layer of petroleum jelly over each rectangle. 3. Tape the pieces upright in five places. Put one near the stove and one on a bedroom shelf. Put one at a window facing the road, one by the front door and one at a quiet window. 4. Ask your child to rank the five places from most specks to fewest, with reasons. 5. Write down today's AQI from the weather app.  
   *Parent says:* Air carries tiny solid bits that we mostly cannot see. Which of these five places will catch the most in three days? Why do you think so?  
-  *Child mode:* Draw a rectangle on each piece. Grease it thinly. Tape the pieces up in five places. Guess which will catch the most specks. Say why.
+  *Child mode:* Draw a rectangle on each piece. Grease it thinly. Tape the pieces up in five places. Rank the places, most specks first.
   - Note: Keep every square upright and out of the rain, so that the test is fair. Upright squares catch what floats past in the air, more than what falls from above.
 - **s2 (5 min)**  
   *Parent does:* 1. On days 2 and 3, write down the AQI. 2. Look at each square without touching it. 3. Leave the squares where they are.  
@@ -553,9 +553,9 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
   *Child mode:* Write today's AQI. Look at each square. Do not touch them.
   - Wait: Look again tomorrow
 - **s3 (15 min)**  
-  *Parent does:* 1. On day 4, collect the squares and lay them on white paper. 2. Count the dark specks inside each rectangle, with the magnifying glass or the phone camera. If there are too many, count 2 small squares and multiply by 4. 3. Draw a bar chart. 4. Ask your child to say what they thought would happen, what they saw, and why they think it happened.  
+  *Parent does:* 1. On day 4, collect the squares and lay them on white paper. 2. Count the dark specks inside each rectangle, with the magnifying glass or the phone camera. If there are too many, count 2 small squares and multiply by 4. 3. Make a bar chart. Draw it, or line up bottle caps, one cap for every 10 specks. 4. Ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Count the specks in each rectangle. Then say what you thought would happen, what you saw, and why it happened.  
-  *Child mode:* Collect the squares. Count the specks in each rectangle. Draw a bar chart. Say what you thought, what you saw, and why.
+  *Child mode:* Collect the squares. Count the specks in each rectangle. Make your bar chart.
   - Ask: Where did the specks at the busiest place come from? (good: Smoke and dust from traffic.; Soot and oil droplets from cooking, for the square near the stove.)
   - Ask: A square looks clean. Does that prove the air there was clean? (good: No. The smallest bits and the harmful gases are too small to see.; It shows only that few big specks floated past.)
   - Note: The square by the road or the stove usually catches the most. The squares show only specks big enough to see. PM2.5 and polluting gases do not show, so use the AQI numbers as well.
@@ -565,7 +565,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 ### c1 · A Mask That Stops Dust and Still Lets You Breathe (30 min)
 - **problem:** Design the best filter you can from cloth and paper at home. It must stop as much powder as possible in the puff test. It must also let enough air through for a person to breathe.
 - **safety:** Do the puff test beside an open window or on a balcony. Keep faces away from the puff, and do not breathe the powder.
-- **your turn:** Now design your own filter. Draw it, build it and give it both tests. Which design stopped the most powder and still passed the breath test?
+- **your turn:** Now design your own filter. Plan it by drawing it or by telling your grown-up the layers. Then build it and give it both tests. Which design stopped the most powder and still passed the breath test?
 - **constraints:** Use only cloth, tissue paper and rubber bands from home.; The filter must cover the whole mouth of the test bowl.; Give each design the same test: 3 puffs of powder from 5 cm above the cloth.; Each design must also pass the breath test: when you blow through it, a tissue strip 15 cm away must still move.
 - **general:** Two layers of a cotton handkerchief.; A thin dupatta folded into four layers.; A shop-bought surgical mask laid flat over the bowl.
 - **creative:** A layer of tissue paper between two layers of cloth.; Cloth with small folds in it, so that more cloth covers the same opening.; A slightly damp cloth, to see whether wet threads catch more powder.
@@ -581,7 +581,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 - **s3 (10 min)**  
   *Parent does:* 1. Build your own design. 2. Give it both tests. 3. Compare all the scores and pick the best.  
   *Parent says:* Which design is best? What did you have to give up to stop more powder?  
-  *Child mode:* Build your own design. Test it both ways. Which design is best? Why?
+  *Child mode:* Build your own design. Test it both ways. Write down each score.
   - Note: No cloth mask stops the very smallest bits, the PM2.5. Masks sold as N95 use a mat of very fine fibres to catch most of them.
   - Check: A cloth mask lets air through but stops much of the dust. Why? → **Dust bits are much bigger than gas particles**
 ### c2 · Catch the Gas and Measure It (30 min)

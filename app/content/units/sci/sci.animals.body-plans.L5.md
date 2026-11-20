@@ -308,7 +308,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   - Note: Children often score more in the second half, once they stop trusting shape and home. Say so if you see it happen.
 - **s4 (3 min)**  
   *Parent does:* Ask each player which card surprised them most. Then ask the check question.  
-  *Parent says:* Which card surprised you most? Why did the two that look alike turn out not to be close relatives?  
+  *Parent says:* Which card surprised you most? Tell us why.  
   *Child mode:* Which card surprised you most? Why were the look-alikes not close relatives?
   - Check: A swift and a swallow look alike. What is the most likely reason? → **Both catch insects in the air**
   - Think: Make a trio card of your own. Which two are the true relatives, and what clue from inside would prove it?
@@ -330,7 +330,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 - **s2 (5 min)**  
   *Parent does:* Your child rests one forearm on the table, palm up, in good light. They touch thumb tip to little finger tip. Then they bend the wrist a little towards the face. Look at the middle of the wrist, just below the palm. Then do the other wrist.  
   *Parent says:* Rest your arm palm up. Touch your thumb to your little finger. Now bend your wrist towards you a little. What do you see in the middle of your wrist?  
-  *Child mode:* Rest your arm palm up. Touch thumb to little finger. Bend your wrist a little. Look at the middle.
+  *Child mode:* Rest your arm palm up. Touch thumb to little finger. Bend your wrist a little. Look in the middle for a thin cord.
   - Note: If the tendon is there, a thin, sharp cord stands up in the middle of the wrist. It feels like a tight string. A second, flatter cord often shows beside it, nearer the thumb. That one belongs to a different muscle, and everyone has it. Write 'yes' only for a sharp cord in the middle. If you see only the flatter cord nearer the thumb, write 'no'. If you cannot tell, write 'not sure'. Plump wrists are harder to read, so look from the side as well.
 - **s3 (8 min)**  
   *Parent does:* Test every person at home in the same way, in the same light. Check the left wrist and the right wrist. Your child looks first and decides. Then a second person looks and decides, without being told. Write yes, no or not sure for each wrist.  
@@ -345,15 +345,15 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   - Note: Let your child give the instructions. Explaining the test clearly to someone else is part of doing it fairly. A wrist on a small screen is harder to read, so use 'not sure' freely.
 - **s5 (4 min)**  
   *Parent does:* Now each person tries to move their ears without touching them. Each gets three tries. A watcher looks from the side, or the person uses the mirror. A moving scalp or eyebrow does not count. Write yes or no.  
-  *Parent says:* Here is a second check. Try to move your ears without touching them. I will watch from the side. Only the ear itself counts.  
+  *Parent says:* Moving the ears is another part that some people have and some do not. Try to move your ears without touching them. I will watch from the side. Only the ear itself counts.  
   *Child mode:* Try to move your ears without touching them. Three tries each. Write yes or no.
   - Note: Most people cannot move their ears, and some can. Everyone has the three small muscles behind and above each ear.
 - **s6 (5 min)**  
   *Parent does:* Count the wrists with a cord, with none, and not sure. Count the people who can move their ears. Compare the counts with the guess. Your child writes three sentences: what I think, what I saw, and why. Read the parent note aloud only after that.  
   *Parent says:* Count the yes wrists and the no wrists. Was your guess right? Why might a body part be there in some people and missing in others?  
-  *Child mode:* Count the wrists with a cord and without. Was your guess right? Write what you think, what you saw, and why.
+  *Child mode:* Count the wrists with a cord and without. Write what you think, what you saw, and why.
   - Ask: What did you find, and did it match your guess? (good: Most wrists had the cord, but not all.; Every wrist we tested had one, but we tested only a few.; One person had it on one side only.)
-  - Ask: People with no cord grip just as strongly. So why might the muscle be in anyone's arm? (good: Maybe it was more useful long ago.; Maybe our ancestors used their arms differently.; Maybe other animals use it more than we do.)
+  - Ask: People with no cord grip just as strongly. So why do some people have this muscle at all? (good: Maybe it was more useful long ago.; Maybe our ancestors used their arms differently.; Maybe other animals use it more than we do.)
   - Note: After your child has answered, explain. The cord is the tendon of a muscle called palmaris longus. It helps a little in bending the wrist. Studies find that people with no such muscle grip just as strongly. Surgeons often borrow this tendon to repair another one. Orangutans, who climb with their arms, use the muscle fully. Humans come from ancestors who climbed. In humans the muscle has shrunk, and in some people it is not built at all. A part like this is called vestigial. The ear muscles are the same kind of leftover. Most monkeys turn their ears towards a sound. If every wrist in your survey had the cord, say so plainly. In studies in India, the cord was missing in roughly 1 in 15 to 1 in 5 of the hands or people checked. So a small group often has none missing.
   - Think: A dolphin's flipper holds finger bones that the dolphin never uses as fingers. How is that like the cord in a wrist?
 ### e2 · Sac or Tube: which gut can eat while it digests? (23 min)
@@ -365,7 +365,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 - **s1 (3 min)**  
   *Parent does:* Show the sock and say that it stands for a gut with one opening. Say that the tube you will make stands for a gut with two. Give the rule: a ball is digested only after a slow count of ten inside. Ask for a guess and a reason.  
   *Parent says:* A sea anemone's gut is a bag like this sock. Yours is a tube. Which will finish twelve balls sooner? How many times as fast? Why?  
-  *Child mode:* The sock is a gut with one opening. The tube has two. Which is faster? Say why.
+  *Child mode:* The sock is a gut with one opening. The tube has two. Guess which is faster.
   - Ask: Which will be faster, and why? (good: The tube, because food can keep moving along.; The sock, because it is wider and holds more.; They will be the same, because each ball waits for ten counts either way.)
   - Note: Write the guess down. Many children expect no difference, because the count of ten is the same for both.
 - **s2 (4 min)**  
@@ -390,7 +390,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   *Child mode:* Push one ball into the tube on every second count. Watch the far end.
   - Note: Check that the balls come out in the order 1, 2, 3. Each one has been inside for five pushes, which is ten counts.
 - **s6 (4 min)**  
-  *Parent does:* Compare the three times. Your child works out how many times as fast the tube was as the best sock run. Then draw three bands round the tube and label them grind, break down and take in. Your child writes what I think, what I saw, and why.  
+  *Parent does:* Compare the three times. Your child works out how many times as fast the tube was as the best sock run. Then point to three places along the tube and name them grind, break down and take in. Your child writes what I think, what I saw, and why.  
   *Parent says:* Look at the three times. How many times as fast was the tube? Why? And what did every ball pass on its way through the tube?  
   *Child mode:* Compare the times. Why was the tube faster? Write what you think, what you saw, and why.
   - Note: After your child has answered, explain. The tube could take in a new ball while five others were still inside, and the oldest ball always left first. In the sock, the oldest ball was at the bottom, so new food had to wait or be taken out again. Counted on paper, one ball at a time takes about 170 counts, five at a time about 80, and the tube about 35. A sea anemone lives well with a sac. She eats a big meal now and then, and rests while she digests.
@@ -399,7 +399,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 
 ## Activities
 ### a1 · Three Leftovers in the Mirror (10 min)
-- **record:** Draw your eye with the pink fold in the inner corner, and label it. Under it, write the three leftovers you looked for and one thing you wonder about each.
+- **record:** Draw your eye with the pink fold in the inner corner, or tell your grown-up where it is. Write the three leftovers you looked for and one thing you wonder about each.
 - **s1 (3 min)**  
   *Parent does:* Your child looks in the mirror at the inner corner of one eye, the corner nearest the nose. There is a small pink bump. Just beside it, on the white of the eye, is a thin pink fold. Ask what they notice and what they wonder.  
   *Parent says:* Look at the corner of your eye, next to your nose. Find the pink bump. Now find the thin fold beside it. What do you notice? What might it be for?  
@@ -428,7 +428,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 - **s2 (7 min)**  
   *Parent does:* Lay all nine slips on a sheet. Read out one clue at a time. For each, your child draws a box round the animals who have that feature. Clue 1: tissues and a gut. All but the sponge. Clue 2: three layers of cells in the embryo. All in box 1 but the jellyfish. Clue 3: a gut with two openings. All in box 2 but the flatworm. Clue 4: the embryo's first opening becomes the anus. Only the starfish and the crow.  
   *Parent says:* Now sort by the inside. I will read four clues. For each one, draw a box round the animals who have that feature.  
-  *Child mode:* Listen to each clue. Draw a box round the animals who have that feature.
+  *Child mode:* Listen to each clue. Draw a box round the animals with that feature. Or ring them with string.
   - Note: Each new box sits inside the one before. Box 3 still holds six animals: roundworm, earthworm, snail, ant, starfish and crow. Box 4 holds two. Four clues are far too few to sort the others. Scientists use hundreds of features, and DNA as well.
 - **s3 (4 min)**  
   *Parent does:* Compare the boxes with the first sort. Ask where the three worms ended up, and where the starfish is. Then ask the check question.  
@@ -438,26 +438,26 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   - Check: On your sheet, which pair shares the smallest box? → **Starfish and crow**
   - Think: The roundworm, earthworm, snail and ant are still in one box. What extra clue could split them?
 ### a3 · The Upside-Down Test: is a prawn laid out like a fish, turned over? (10 min)
-- **record:** Keep the two drawings. On the back of the prawn drawing, write one sentence for the idea that the plan was turned over and one sentence for the other explanation.
+- **record:** Keep the fish drawing. On the back, write the prawn's colour order from top to bottom. Then write one sentence for the idea that the plan was turned over and one sentence for the other explanation.
 - **s1 (3 min)**  
-  *Parent does:* Your child runs a hand down the bumps of their own backbone. The nerve cord is inside those bones. Then they put a hand on the chest, where the heart is. On the first sheet they draw a fish from the side with three stripes: blue on top, yellow in the middle, red below.  
+  *Parent does:* Your child runs a hand down the bumps of their own backbone. The nerve cord is inside those bones. Then they put a hand on the chest, where the heart is. On the first sheet they draw a fish from the side with three stripes: blue for the nerve cord on top, yellow for the gut in the middle, red for the heart below. A child who would rather not draw tells you the colours and you draw.  
   *Parent says:* Feel your backbone. Your main nerve cord runs inside it, along your back. Your heart is at your front. A fish is laid out the same way. Draw it.  
-  *Child mode:* Feel your backbone. Your nerve cord is inside. Draw a fish: blue on top, yellow, then red.
+  *Child mode:* Feel your backbone. Your nerve cord is inside. Draw a fish: blue on top, yellow, then red. Or tell your grown-up what to draw.
   - Note: Blue is the nerve cord, yellow the gut and red the heart with its main blood vessel. The drawing is a simple map, not a true picture.
 - **s2 (3 min)**  
-  *Parent does:* On the second sheet, your child draws a prawn from the side with the same three stripes in a different order: red on top, yellow in the middle, blue below. Ask what they notice.  
-  *Parent says:* In a prawn, an ant or an earthworm, the heart runs along the back and the nerve cord along the belly. Draw that. What do you notice?  
-  *Child mode:* Draw a prawn: red on top, yellow, then blue below. What do you notice?
-  - Ask: What do you notice when you look at the two drawings? (good: The same three parts are in both.; The order is the other way up.; The gut is in the middle in both.)
+  *Parent does:* Beside the fish drawing, your child lays the three pencils in a row for a prawn: red on top, yellow in the middle, blue below. Ask what they notice.  
+  *Parent says:* In a prawn, an ant or an earthworm, the heart runs along the back and the nerve cord along the belly. Lay the pencils like that: red on top, yellow in the middle, blue below. What do you notice?  
+  *Child mode:* Lay the pencils for a prawn: red on top, yellow, then blue below.
+  - Ask: What do you notice when you look at the two rows? (good: The same three parts are in both.; The order is the other way up.; The gut is in the middle in both.)
 - **s3 (4 min)**  
-  *Parent does:* Your child turns the prawn drawing upside down and holds it beside the fish. Ask what could explain the match. Then ask what does not fit: where is the mouth on each drawing now?  
-  *Parent says:* Turn the prawn over. What do you see now? What could explain it? And look: a prawn's mouth and a fish's mouth both open on the belly side. Does that fit?  
-  *Child mode:* Turn the prawn drawing over. Do the stripes match the fish now? What could explain that?
+  *Parent does:* Your child turns the pencil row upside down, so red is at the bottom, and compares it with the fish drawing. Ask what could explain the match. Then ask what does not fit: both mouths open on the belly side. After the flip, are the two bellies on the same side?  
+  *Parent says:* Turn the pencil row upside down. What do you see now? What could explain it? A prawn's mouth and a fish's mouth both open on the belly side. After the flip, are the two bellies on the same side?  
+  *Child mode:* Turn the pencil row upside down. Do the colours match the fish now? Where is the belly of each?
   - Ask: What could explain why the order matches when one is turned over? (good: Maybe an ancestor of the fish turned over long ago.; Maybe it is chance, since there are only a few ways to stack three parts.; Maybe each built a nerve cord separately, on different sides.)
   - Note: Both explanations in your child's answers are held by scientists today. The genes that mark 'back' and 'belly' in flies and frogs match, and work on opposite sides, which supports a turn. But the mouth is on the belly side in both animals. If the body turned over, the mouth must have moved, and nobody is sure how.
   - Think: Three parts can be stacked in only six orders. How much should a matching order count as evidence?
 ### a4 · Your Leg Is a Second Arm: one pattern, used twice (10 min)
-- **record:** Draw two columns, one for the arm and one for the leg. In each, write the bones you found from top to bottom: one, two, a cluster, five in a row, and the number in each finger or toe.
+- **record:** Make two columns, one for the arm and one for the leg. In each, write the bones you found from top to bottom: one, two, a cluster, five in a row, and the number in each finger or toe.
 - **s1 (3 min)**  
   *Parent does:* Your child grips the upper arm and feels one bone. Then they hold the forearm near the wrist and turn the palm up and down. Two bones move, one rolling over the other. Then they bend each finger and the thumb, and count the straight parts between the bends.  
   *Parent says:* Feel your upper arm. How many bones? Now hold your forearm and turn your palm over. How many? Now count the parts of a finger, and of your thumb.  
@@ -466,19 +466,19 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 - **s2 (4 min)**  
   *Parent does:* Do not touch the leg yet. Ask your child to guess the leg bones from top to bottom. Ask how many bones are in the big toe. Write the guess. Then they feel the thigh, the shin, the ankle and the toes, and count.  
   *Parent says:* Now guess your leg, from the top down. How many bones in the thigh? Below the knee? In your big toe? Why do you think so? Now feel and count.  
-  *Child mode:* Guess the bones of your leg and your big toe. Say why. Then feel and count.
+  *Child mode:* Guess the bones of your leg, from the top down. Then feel and count.
   - Ask: How many bones did you guess for the big toe, and why? (good: Two, like the thumb, if the foot copies the hand.; Three, like the other toes.; I did not know toes had separate bones.)
   - Note: The thigh has one bone. Below the knee there are two. The shin bone is at the front, and the lower end of the thinner one is the bump on the outside of the ankle. The ankle has a cluster of seven bones, and the sole has five long ones. The big toe has two bones and each other toe has three, though the small toes are hard to count.
 - **s3 (3 min)**  
   *Parent does:* Compare the two columns. Ask what is the same and what is different. Then ask the check question.  
-  *Parent says:* Look at your two lists. What is the same? What is different? Why would a foot be built like a hand?  
+  *Parent says:* Look at your two lists. What is the same? What is different?  
   *Child mode:* Compare your arm list and your leg list. What is the same? What is different?
   - Note: Differences worth finding: the knee has a kneecap and the elbow has none. The forearm can twist and the shin cannot. The knee and the elbow bend in opposite directions.
   - Check: Why do your hand and your foot have the same pattern of bones? → **Both grow from limb buds that follow the same instructions**
   - Think: A horse walks on one toe on each foot. Which of your bones do you think a horse still has, and which has she lost?
 ### a5 · The Wing on the Plate: find your arm in a chicken wing (if your family cooks chicken) (15 min)
 - **safety:** Use a wing that is fully cooked and has cooled. A grown-up pulls the bones apart, because small bones can be sharp. Wash hands with soap afterwards. Put the bones in the bin, out of reach of pets, because cooked chicken bones can hurt a dog or a cat.
-- **record:** Lay the bones on the paper in order and draw round them. Beside the drawing, draw the bones of your own arm, and join each wing bone to the matching arm bone with a line.
+- **record:** Lay the bones on the paper in order. Beside each bone, write which part of your own arm it matches. Take a photo, or draw round the bones if you like.
 - **s1 (4 min)**  
   *Parent does:* Put the whole wing on the plate. Your child bends it gently at its two joints. Ask which joint is the elbow and which is the wrist, and which section matches the upper arm. Write the guesses.  
   *Parent says:* This was a hen's wing. Bend it gently. It has two joints. Which is the elbow? Which is the wrist? Hold your arm beside it and tell me why.  
@@ -490,25 +490,25 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   *Child mode:* Lay the bones in order. Count the bones in each part of the wing.
   - Note: The first bone matches your upper arm bone. The two in the middle match your two forearm bones. The tip is the hand. A bird's hand has three fingers, and most of their bones are joined into one stiff piece that carries the long flight feathers. The small point at the base of the tip is the thumb.
 - **s3 (4 min)**  
-  *Parent does:* Your child draws round the wing bones. Beside them they draw their own arm bones: one, two, wrist, hand. They join each wing bone to its match. Then ask what the hen's ancestors might have used this limb for.  
-  *Parent says:* Draw the wing bones and your arm bones side by side. Join the ones that match. A wing has a thumb. What does that tell you about the animals birds came from?  
-  *Child mode:* Draw the wing bones and your arm bones. Join the ones that match.
+  *Parent does:* Your child holds each wing bone against their own arm, next to the bone it matches, and points. They lay the wing bones on the paper and write beside each one the part of their arm it matches: upper arm, forearm or hand. Then ask what the hen's ancestors might have used this limb for.  
+  *Parent says:* Hold each wing bone against your own arm and point to the bone it matches. A wing even has a small thumb. What might the hen's ancestors have used this limb for?  
+  *Child mode:* Hold each wing bone against your arm. Point to its match. Write its name beside it.
   - Check: A hen's wing has one bone, then two, then a small hand. What is the best explanation? → **Birds and humans inherited the limb from shared ancestors**
   - Think: A bat's wing is skin stretched over long fingers. A bird's wing is feathers on a short stiff hand. Which bones would you look at to tell them apart?
 
 ## Projects
 ### p1 · The Family Leftover Map: three leftovers across three generations (45 min, 4 days)
 - **safety:** Ask each relative whether they are happy to take part, and accept a no. Some people do not like questions about their teeth or their body.
-- **record:** On the tree, beside each person, draw two small wrists and colour each one in if the cord is there. Write E beside anyone who can move their ears. Beside each grown-up write the number of wisdom teeth, from 0 to 4, or a question mark. On day 4, write one claim, the evidence and one thing that could have misled you.
+- **record:** On the tree, beside each person, write how many of their two wrists show the cord: 0, 1 or 2. Write E beside anyone who can move their ears. Beside each grown-up write the number of wisdom teeth, from 0 to 4, or a question mark. On day 4, write one claim, the evidence and one thing that could have misled you.
 - **schedule:** day 1: Draw the family tree with three generations and at least twelve people. Write your guess. (10 min); day 2: Test or call the first six people. Mark the tree. (15 min); day 3: Call the rest. Mark the tree. (10 min); day 4: Look for patterns, and write your claim, your evidence and what you are not sure of. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Your child draws a family tree with grandparents, parents, aunts, uncles, cousins, brothers and sisters. Aim for twelve people or more. Ask for a guess: will a missing cord or moving ears turn up in people who are closely related? Write the guess and the reason.  
+  *Parent does:* Your child draws a family tree, or arranges one paper slip for each person. Include grandparents, parents, aunts, uncles, cousins, brothers and sisters. Aim for twelve people or more. Ask for a guess: will a missing cord or moving ears turn up in people who are closely related? Write the guess and the reason.  
   *Parent says:* Draw everyone you can reach. Do you think a missing wrist cord runs in families, like the shape of a nose? Why do you think so?  
-  *Child mode:* Draw your family tree. Do missing cords run in families? Guess, and say why.
+  *Child mode:* Make your family tree. Do missing cords run in families? Guess, and say why.
   - Note: Include relatives by marriage too, but mark them, because they do not share ancestors with your child's side.
 - **s2 (15 min)**  
   *Parent does:* Test the people at home, then call three or four relatives. Each one does the wrist test on both sides and tries to move their ears. Ask each grown-up how many wisdom teeth have come through or been taken out. Mark the tree after each person.  
-  *Parent says:* Tell each person exactly how to do the wrist test. Then ask about ears. Then ask the grown-ups about their wisdom teeth.  
+  *Parent says:* Tell each person exactly how to do the wrist test: palm up, thumb to little finger, bend the wrist, look for a thin cord. Then ask about ears. Then ask the grown-ups about their wisdom teeth.  
   *Child mode:* Test each person's wrists and ears. Ask grown-ups about wisdom teeth. Mark the tree.
   - Note: Wisdom teeth are the last four back teeth. They usually come through after the age of seventeen, and in some people one or more never form. Many grown-ups will not be sure of their number. Write a question mark for them.
 - **s3 (10 min)**  
@@ -538,9 +538,9 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   *Child mode:* Cut out two cardboard hands. Fan the ball with a plain one. Measure three tries.
   - Note: The plain hand usually moves the ball only a few centimetres, because air slips between the fingers. Use the same sweep each time, as well as you can.
 - **s2 (5 min)**  
-  *Parent does:* Read the rule aloud: keep all five fingers, and only alter what is there. Ask your child how they could change the hand to move more air. Let them sketch two ideas before they build.  
+  *Parent does:* Read the rule aloud: keep all five fingers, and only alter what is there. Ask your child how they could change the hand to move more air. Let them sketch or describe two ideas before they build.  
   *Parent says:* You may make fingers longer, shorter or wider, and you may add skin between them. You may not add new parts. What will you change, and why?  
-  *Child mode:* Keep all five fingers. Change only what is there. Sketch two ideas.
+  *Child mode:* Keep all five fingers. Change only what is there. Sketch two ideas, or tell them to your grown-up.
   - Ask: Why did the plain hand move so little air, and what would fix that? (good: The air went through the gaps between the fingers.; Skin between the fingers would close the gaps.; Longer fingers would make a bigger surface.)
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Your child builds one design on the second hand with sticks, tape and skin. Test it three times in the same way and write the distances. If there is time, alter it once more and test again.  

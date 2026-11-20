@@ -272,7 +272,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   *Child mode:* Cut out the cards. Count the rajma and chana. Rajma are alive. Chana are dead.
   - Note: A seed bank has the same problem. It cannot germinate every seed to find out how many are alive. Then no seeds would be left to store.
 - **s2 (12 min)**  
-  *Parent does:* Play two rounds each. After each round, ask the question below.  
+  *Parent does:* Play three rounds each. In each round the setter secretly picks a mix card and fills the dabba with 50 seeds. The other player scoops and guesses. After each round, ask the question below.  
   *Parent says:* Shut your eyes, stir, and lift out 5 seeds. What percent of the dabba is alive? Now take 5 more. Do you want to change your guess? Now 15 more.  
   *Child mode:* Shut your eyes. Lift out 5 seeds. Guess the percent alive. Take more seeds. Guess again.
   - Ask: Which of your three guesses did you trust most? Why? (good: The guess after 25 seeds, because I had seen half the dabba.; With 5 seeds, one chana changes the answer by 20 percent.)
@@ -288,12 +288,12 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - **Printable tokens: 3 answer tokens: WAKE, WAIT, GONE. Print one set for each player:** WAKE: the seed germinates; WAIT: the seed stays alive and does not germinate; GONE: the seed is dead
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the tokens. Shuffle the cards. Give each player three tokens.  
-  *Parent says:* Each card tells what was done to a seed. You decide what happens next: the seed wakes, waits, or is gone.  
+  *Parent says:* Each card tells what was done to a seed. You decide what happens next: the seed wakes, waits, or is gone. A right answer scores 1 point, and a right reason scores 1 more.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
 - **s2 (9 min)**  
-  *Parent does:* Play the first 12 cards. Read each back aloud. After card 6, ask the question below.  
+  *Parent does:* Play the first 12 cards. The reader reads each front aloud. The others put a token face down, then all turn them over, and the reader reads the back. After card 6, ask the question below.  
   *Parent says:* Listen to the card. Is there water? Is the seed dry or wet? Has the root come out? Choose your token.  
-  *Child mode:* Listen to the card. Choose WAKE, WAIT or GONE. Turn your token over. Check the back.
+  *Child mode:* Listen to the card. Put down WAKE, WAIT or GONE face down. Then turn it over with the others.
   - Ask: What do you ask yourself first, to decide a seed's fate? (good: Is the seed dry or wet?; Has the root come out yet?; Does the seed have water, air and warmth?)
   - Note: For a stuck player, ask three things. Is the embryo still whole? Has the seed got what a seed needs? Is something holding the seed back?
 - **s3 (8 min)**  
@@ -319,7 +319,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   - Note: Do not correct the guess. A guess with a reason is what you need. Many children expect the freezer to kill both groups.
 - **s2 (5 min)**  
   *Parent does:* 1. Count out four groups of 20 seeds. Throw out any cracked seed. 2. Put groups C and D in a bowl with water 2 centimetres above them. 3. Keep groups A and B dry in two katoris. 4. Write down the time.  
-  *Parent says:* We start in the morning. Groups C and D soak for 8 hours. Groups A and B stay dry. Why do we use 20 seeds in each group, and not 2?  
+  *Parent says:* We start in the morning. Groups C and D soak for 8 hours. Groups A and B stay dry.  
   *Child mode:* Count four groups of 20 seeds. Soak two groups in water. Keep two groups dry.
   - Ask: Why 20 seeds in each group, and not 2? (good: One seed might be dead already.; With 20 seeds, one dead seed changes the result only a little.)
   - Wait: Leave the seeds to soak for 8 hours
@@ -332,7 +332,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   - Wait: Leave B and D in the freezer overnight, for about 12 hours
 - **s4 (10 min)**  
   *Parent does:* 1. Take B and D out of the freezer. Leave them for 30 minutes. 2. Let your child look at D and C side by side, and touch them. 3. Label four plates A, B, C and D. 4. Put each group on a wet cloth on a plate. Group C is already on one. 5. Cover every plate and put all four on one shelf.  
-  *Parent says:* Look at the two soaked groups. Is anything different about the group from the freezer? Now every group gets a wet cloth. Groups A and B get water later than C. So we will compare the final count, not the speed.  
+  *Parent says:* Look at the two soaked groups. Is anything different about the group from the freezer? Now every group gets a wet cloth. A and B have had no water until now, so they will wake later than C and D. So we will compare the final count, not the speed.  
   *Child mode:* Take B and D out. Wait until they thaw. Look closely. Put every group on a wet cloth. Cover the plates.
   - Ask: What do you notice about the soaked seeds from the freezer? (good: They look darker.; They feel softer, or the skin is loose.; They look just the same as the others.)
   - Note: The cloth must be wet all through, with no water lying on the plate. The thawed soaked seeds may look darker and feel softer. Sometimes they look the same.
@@ -345,9 +345,9 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   *Parent says:* Count again. Have any more seeds woken? What is happening on plate D?  
   *Child mode:* Count again. Write the numbers. Look closely at plate D.
 - **s7 (15 min)**  
-  *Parent does:* Day 5. 1. Make the final count. 2. Help your child turn each count into a percentage: count times 5. 3. Draw a bar chart with four bars. 4. Ask your child to say what they thought would happen, what they saw, and why it happened. 5. Then read the note below together.  
-  *Parent says:* Each seed out of 20 is worth 5 percent. Work out the four percentages and draw the bars. Now say what you thought would happen, what you saw, and why it happened.  
-  *Child mode:* Count for the last time. Each seed is 5 percent. Draw four bars. Say what you thought. Say what you saw. Say why it happened.
+  *Parent does:* Day 5. 1. Make the final count. 2. Help your child turn each count into a percentage: count times 5. 3. Make a bar chart with four bars, drawn or built from lined-up seeds. 4. Ask your child to say what they thought would happen, what they saw, and why it happened. 5. Then read the note below together.  
+  *Parent says:* Each seed out of 20 is worth 5 percent. Work out the four percentages and make the bars. Now say what you thought would happen, what you saw, and why it happened.  
+  *Child mode:* Count for the last time. Each seed is 5 percent. Make four bars, by drawing them or by lining up seeds. Say what you thought, what you saw, and why.
   - Ask: Which two groups show what cold does to a dry seed? (good: A and B. Both are dry, and only B was frozen.)
   - Ask: Which two groups show what cold does to a soaked seed? (good: C and D. Both were soaked, and only D was frozen.)
   - Ask: So what killed the seeds in group D: the cold, the water, or both together? (good: Both together. Cold alone did not kill B, and water alone did not kill C.)
@@ -358,7 +358,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - **predict:** Guess before you start. Group A is never wet. Group B is soaked for 6 hours and then dried. Group C is allowed to grow a root and is then dried. When all three get water again, how many of each 20 will grow? Why do you think so?
 - **fair test:** All the seeds come from one packet, and each group ends with 20. Groups B and C are dried side by side on the same kind of plate, until both are hard. All three groups get water again on the same day, on the same kind of cloth and shelf. Only one variable is changed: how far the seed had gone before drying. Group A, never wet, is the control group.
 - **safety:** Do not eat any seeds from this test. Dried sprouts can grow mould. Throw all the seeds away at the end and wash your hands.
-- **record:** Fill in the table on days 6 and 7. A seed counts as growing if there is a firm white root at least 2 centimetres long. On day 7, turn each count into a percentage. Draw one seed from each group.
+- **record:** Fill in the table on days 6 and 7. A seed counts as growing if there is a firm white root at least 2 centimetres long. On day 7, turn each count into a percentage. Draw one seed from each group, or tell your grown-up how each one looks.
 - **results table:** Group | My guess (out of 20) | Growing on day 6 | Growing on day 7 | Percent on day 7
 - **schedule:** day 1: In the morning, guess and soak 45 seeds. After 6 hours, spread group B to dry and put group C on a wet cloth. (15 min); day 2: When group C has roots about 1 centimetre long, spread 20 of them to dry beside group B. (5 min); day 4: Check that B and C are hard and dry. Put groups A, B and C on wet cloths. (8 min); day 6: Count the seeds that are growing in each group. (4 min); day 7: Make the final count and work out the percentages. Say what you thought, what you saw and why. (12 min)
 - **s1 (5 min)**  
@@ -386,7 +386,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - **s5 (8 min)**  
   *Parent does:* Day 4. 1. Press a seed from B and one from C. Both should be as hard as seeds from the packet. 2. Let your child describe each group. 3. Label three plates A, B and C. 4. Put each group on a wet cloth, cover the plates and put them on one shelf.  
   *Parent says:* Describe the seeds in B and in C. How do they differ from group A? Now all three groups get water on the same day.  
-  *Child mode:* Press the seeds. Are they hard? Say how B and C look. Put all three groups on wet cloths.
+  *Child mode:* Press a seed from B and one from C. Are they hard? Put all three groups on wet cloths.
   - Ask: How do the dried seeds of group C look now? (good: The roots are thin, brown threads.; The seeds have shrunk and the skins are loose.)
   - Note: In damp weather, drying can take a day longer. If the seeds dent when pressed, wait another day.
 - **s6 (4 min)**  
@@ -407,8 +407,8 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - **record:** Write a conclusion in two sentences: what moong seeds need to germinate, and what they do not need. Then write one change that would make the test fairer.
 - **s1 (4 min)**  
   *Parent does:* Look at the Five Jars table together. Ask your child what they notice. Then ask which jar is the control group.  
-  *Parent says:* Here are five jars of moong, kept in five ways. Read the table. What do you notice? Which jar had the ordinary treatment that the others are compared with?  
-  *Child mode:* Read the table of five jars. What do you notice? Which jar is the control?
+  *Parent says:* Here are five jars of moong, kept in five ways. Read the table. What do you notice? The control is the jar kept the ordinary way. The other jars are compared with it.  
+  *Child mode:* Read the table of five jars. Tell your grown-up what you notice.
   - Ask: Which jar is the control group, and why? (good: Jar 2. It has water, air, warmth and light, and each other jar changes one thing.)
   - Note: Jar 2 is the control: wet cloth, on the shelf, in the light.
 - **s2 (5 min)**  
@@ -419,15 +419,15 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   - Check: In the Five Jars table, which two jars test whether moong seeds need light? → **Jar 2 and jar 4**
 - **s3 (5 min)**  
   *Parent does:* Ask about jar 3. A fridge is cold, and it is also dark. Ask whether that is fair, and which other jar helps. Then ask why the test ran for 8 days and not 4.  
-  *Parent says:* The fridge jar differs from jar 2 in two ways. What are they? Which jar shows that darkness was not the cause? Now look at jar 3 on day 4 and on day 8.  
-  *Child mode:* The fridge is cold and dark. Is that fair? Which jar helps you decide? Look at jar 3 on day 8.
+  *Parent says:* The fridge jar differs from jar 2 in two ways. What are they? Now look at jar 3 on day 4 and on day 8.  
+  *Child mode:* The fridge jar is cold and dark. Look at jar 3 on day 4, then on day 8. What changed?
   - Ask: The fridge jar was cold and dark. How do we know the cold slowed the seeds, not the dark? (good: Jar 4 was dark and warm, and all 10 germinated.; So darkness does not stop moong. The cold must be the cause.)
   - Ask: What would you have said about cold if the test had stopped on day 4? (good: That cold stops seeds completely.; By day 8 two had woken, so cold slows them down a lot.)
   - Note: When two things change at once, you cannot tell which caused the result. Here jar 4 untangles the two.
 - **s4 (6 min)**  
   *Parent does:* 1. Your child turns each day 8 count into a percentage: count times 10. 2. They write a conclusion in two sentences. 3. Ask why each jar had 10 seeds and not 1.  
-  *Parent says:* Each seed out of 10 is worth 10 percent. Work out the five percentages. Then write what moong need to germinate, and what they do not need.  
-  *Child mode:* Work out the percentage for each jar. Write what seeds need. Write what they do not need.
+  *Parent says:* Each seed out of 10 is worth 10 percent. Work out the five percentages. Then tell me what moong need to germinate, and what they do not need.  
+  *Child mode:* Work out the percentage for each jar. Then say what seeds need and what they do not need.
   - Ask: In jar 2, one seed never germinated. What if jar 2 had held only that one seed? (good: We would have said that wet, warm seeds do not germinate.; One dead seed would have given the wrong answer.)
   - Note: A good conclusion: moong need water, air and warmth to germinate. They do not need light. A fairer test would use more seeds in each jar, or repeat every jar.
 ### a2 · The Rag Doll Test: test 50 seeds the way a seed lab does (30 min, 4 days)
@@ -452,35 +452,35 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   - Note: Chana and lobia are slower. Give them one more day before you sort.
 - **s4 (5 min)**  
   *Parent does:* 1. Double the number of strong seedlings to get the percentage. 2. Compare it with 75 percent, the lowest allowed on a certified moong packet in India. 3. Work out how many seeds to sow for 20 plants.  
-  *Parent says:* 50 seeds is half of 100, so double your number of strong seedlings. Is your packet above 75 percent? How many seeds would you sow to get 20 plants?  
-  *Child mode:* Double the strong seedlings. That is your percentage. How many seeds would you sow for 20 plants?
+  *Parent says:* 50 seeds is half of 100, so double your number of strong seedlings. Is your packet above 75 percent?  
+  *Child mode:* Double the strong seedlings. That is your percentage. Is it above 75?
   - Ask: Your packet scores 80 percent. How many seeds should you sow to get 20 plants? (good: 25 seeds. 80 percent of 25 is 20.; More than 20, because 2 in every 10 will fail.)
   - Note: If the packet scores far below 75 percent, sow extra seeds or buy fresh ones. The unwoken seeds may be dead, or a few may be dormant.
 ### a3 · Four Days, Four Drawings: what happens inside a waking chana? (30 min, 4 days)
 - **safety:** Do not eat the chana you have handled and opened.
-- **record:** Make four drawings, one for each day, with the day written under each. Label the seed coat, the food store (cotyledons), the radicle and the plumule. Write the length of the chana or of the root beside each drawing.
-- **schedule:** day 1: Draw a dry chana and measure it. Soak 7 chana overnight. (8 min); day 2: Measure a soaked chana, open the chana and draw the three parts. Put the other 6 on a wet cloth. (10 min); day 3: Open one chana and draw what has changed. (5 min); day 4: Open one more chana, draw it, and write the steps of germination in order. (7 min)
+- **record:** Make a drawing for day 2 and for day 4, or take photos. Write the day under each. Label the seed coat, the food store (cotyledons), the radicle (the first root) and the plumule (the first shoot). For all four days, write the length of the chana or of the root.
+- **schedule:** day 1: Look closely at a dry chana and measure it. Soak 7 chana overnight. (8 min); day 2: Measure a soaked chana, open the chana and draw the three parts, or point to them and name them. Put the other 6 on a wet cloth. (10 min); day 3: Open one chana, measure the root and take a photo. (5 min); day 4: Open one more chana, draw it, and say the steps of germination in order. (7 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Your child draws a dry chana and finds the small pointed beak. 2. They measure the length with a ruler. 3. Soak 7 chana in a bowl overnight. Keep 1 dry.  
-  *Parent says:* Look closely at a dry chana. Find the small beak at one end. What do you think lies under that beak? Draw the chana and measure it.  
-  *Child mode:* Draw a dry chana. Find the small beak. Measure the chana. Soak 7 overnight.
+  *Parent does:* 1. Your child looks closely at a dry chana and finds the small pointed beak. 2. They measure the length with a ruler. 3. Soak 7 chana in a bowl overnight. Keep 1 dry.  
+  *Parent says:* Look closely at a dry chana. Find the small beak at one end. Now measure the chana with the ruler.  
+  *Child mode:* Find the small beak. Measure the chana. Soak 7 overnight.
   - Ask: What do you think is under the beak of the chana? (good: The part that will grow.; The baby plant's root.)
   - Wait: Leave the chana to soak overnight
 - **s2 (10 min)**  
   *Parent does:* 1. Put a soaked chana beside the dry one and measure both. 2. Peel the skin off the soaked chana. 3. Open the two halves gently with a thumbnail. 4. Find the tiny plant at the beak end. 5. Your child draws and labels the parts. 6. Put the other 6 soaked chana on a wet cloth and cover them.  
   *Parent says:* How much longer is the soaked chana? Now peel the skin and open the two halves. Find the tiny plant. Which end points out, and which end is tucked inside?  
-  *Child mode:* Measure the soaked chana. Peel the skin. Open the halves. Find the tiny plant. Draw and label.
+  *Child mode:* Measure the soaked chana. Peel the skin. Open the halves. Find the tiny plant. Draw and label it, or point and name the parts.
   - Note: The skin is the seed coat. The halves are the cotyledons. The pointed tip under the beak is the radicle, and the tiny folded tip between the halves is the plumule.
   - Check: In a soaked chana, what are the two big halves? → **The food store for the young plant**
 - **s3 (5 min)**  
-  *Parent does:* Day 3. Look at the chana on the cloth. Most have a white root coming out near the beak. Open one, measure the root and draw it.  
-  *Parent says:* What came out first, and from where? Measure the root. Is the shoot showing yet?  
-  *Child mode:* Look at the chana on the cloth. What came out first? Open one. Measure the root. Draw.
+  *Parent does:* Day 3. Look at the chana on the cloth. Most have a white root coming out near the beak. Open one, measure the root and take a photo.  
+  *Parent says:* Where did the root come out? This first root is called the radicle. Measure it. Is the shoot showing yet?  
+  *Child mode:* Look at the chana on the cloth. Open one. Measure the root. Take a photo.
   - Ask: Which came out first, the root or the shoot? Why might that order help the seedling? (good: The root. The seedling needs water before anything else.; The root also holds the seedling in place.)
 - **s4 (7 min)**  
-  *Parent does:* Day 4. 1. Open one more chana and draw it. 2. Look between the halves for the plumule, which is now longer. 3. Your child writes the steps of germination in order under the four drawings.  
-  *Parent says:* Find the plumule between the halves. Has it grown? Now write, in order, everything that has happened to a chana since day 1.  
-  *Child mode:* Open one more chana. Find the tiny shoot. Draw it. Write the steps in order.
+  *Parent does:* Day 4. 1. Open one more chana and draw it, or take a photo. 2. Look between the halves for the plumule, which is now longer. 3. Your child looks back at the notes from all four days and says the steps of germination in order.  
+  *Parent says:* Find the plumule, the tiny shoot, between the halves. Has it grown? Look back at what you found on days 1, 2 and 3.  
+  *Child mode:* Open one more chana. Find the tiny shoot. Draw it or take a photo.
   - Ask: Say the steps of germination in order. (good: The seed takes in water and swells.; The seed coat splits.; The radicle comes out and grows down.; The plumule grows up, and then the first leaves open.)
   - Note: The two halves often look a little thinner by day 4, because the embryo is using the food. You can plant the remaining chana in a pot.
 
@@ -490,15 +490,15 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - **record:** Make a table with a row for each jar. The columns are the start, week 1, week 2 and week 3. Write the number germinated out of 20 and the percentage. Draw a line graph with weeks along the bottom and percent germinated up the side, one line for each jar.
 - **schedule:** day 1: Set up the three jars. Put 20 seeds from the packet on a wet cloth as the first test. (20 min); day 4: Count how many of the first 20 seeds germinated. (5 min); day 8: Week 1: take 20 seeds from each jar and put them on wet cloths. (10 min); day 11: Count the week 1 seeds with a root. (5 min); day 15: Week 2: take 20 seeds from each jar and put them on wet cloths. (10 min); day 18: Count the week 2 seeds with a root. (5 min); day 22: Week 3: take 20 seeds from each jar and put them on wet cloths. (10 min); day 25: Count the week 3 seeds. Draw a line graph for each jar. Say what you thought, what you saw and why. (15 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Tie 70 seeds loosely in each cloth square to make three pouches. 2. Hang one pouch inside each jar by a thread, and trap the thread under the lid. 3. Pour 3 tablespoons of water into the bottom of one jar. The pouch must hang above the water. 4. Label the jars and close them tightly. 5. Put the Dry fridge jar in the fridge and the other two on a shelf. 6. Put 20 seeds from the packet on a wet cloth, as the first test.  
+  *Parent does:* 1. Tie 70 seeds loosely in each cloth square to make three pouches. 2. Hang one pouch inside each jar by a thread, and trap the thread under the lid. 3. Pour 3 tablespoons of water into the bottom of one jar. The pouch must hang above the water. 4. Label the jars Dry shelf, Dry fridge and Damp, and close them tightly. 5. Put the Dry fridge jar in the fridge and the other two on a shelf. 6. Put 20 seeds from the packet on a wet cloth, as the first test.  
   *Parent says:* Seed banks keep seeds dry and cold. We will test what happens when seeds are kept dry, dry and cold, or damp. Which jar of seeds will stay alive best for three weeks? Why do you think so?  
-  *Child mode:* Make three seed pouches. Hang one in each jar. Add water to one jar only. Guess which seeds stay alive best. Say why.
+  *Child mode:* Make three seed pouches. Hang one in each jar. Add water to one jar only.
   - Ask: The seeds in the damp jar never touch the water. Can the water still reach them? How? (good: Yes, as water vapour in the air of the jar.; The air in the jar becomes damp, and the seeds take in the damp.)
   - Note: The seeds in the damp jar must not get wet, only sit in damp air. Keep both shelf jars out of the sun.
   - Wait: Leave the jars closed for one week
 - **s2 (5 min)**  
   *Parent does:* Day 4. Count how many of the first 20 seeds have a root. Work out the percentage. This is the starting number for all three jars.  
-  *Parent says:* This number tells us how good the seeds were at the start. Why do we need it?  
+  *Parent says:* This number tells us how good the seeds were at the start.  
   *Child mode:* Count the first 20 seeds. How many have a root? Work out the percentage.
   - Ask: Why do we test the seeds before storing them? (good: So we know how many were alive at the start.; Then we can see how much each jar has changed.)
 - **s3 (10 min) · grown-up needed**  
@@ -518,7 +518,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - **s6 (10 min)**  
   *Parent does:* Day 25. 1. Help your child draw a line graph with three lines. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then read the note below together.  
   *Parent says:* Draw one line for each jar. Now say what you thought would happen, what you saw, and why it happened. Did the fridge make a difference in three weeks?  
-  *Child mode:* Draw a line for each jar. Say what you thought. Say what you saw. Say why it happened.
+  *Child mode:* Draw a line for each jar, or point to the jar that fell most. Say what you thought, what you saw, and why.
   - Ask: Which did more harm in three weeks: warmth or damp? (good: Damp. The dry shelf jar stayed about the same.; The seeds in damp air died, even though they were never wet.)
   - Ask: The two dry jars look the same after three weeks. Does that prove cold does not help? (good: No. Three weeks may be too short to show it.; Seed banks see the difference over many years.)
   - Note: Usually the two dry jars stay near the starting number, and the damp jar falls week by week. In a cool room the fall is slower, so add a fourth and fifth week. The reason: seeds take in water from damp air. With more water inside, the glassy state softens and the seed's chemistry speeds up. Damage builds up fast, and moulds grow on the seeds. Cold slows the same damage. Three weeks is too short to show that with dry seeds.
@@ -526,14 +526,14 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 ## Challenges
 ### c1 · The Power Cut: keep a frozen sample frozen without a freezer (35 min)
 - **problem:** The power has failed at your seed bank. One ice cube is your frozen seed sample. Build a holder from things at home that keeps the cube from melting for as long as possible. Test it against a bare cube in an open katori. After 90 minutes, your holder must have less meltwater than the bare cube.
-- **your turn:** Now design your own holder. Draw it and build it. Test it beside a bare cube for 90 minutes, and measure the meltwater from each in teaspoons. Then change one thing and test again. Write which change helped most.
+- **your turn:** Now design your own holder. Draw your plan or tell it to your grown-up, then build it. Test it beside a bare cube for 90 minutes, and measure the meltwater from each in teaspoons. Then change one thing and test again. Write which change helped most.
 - **constraints:** Use ice cubes of the same size from the same tray, taken out at the same moment.; No fridge, no freezer and no extra ice.; The holder must fit inside a shoebox.; You must be able to take the cube out to check it in under 10 seconds.; Keep both cubes in the same room, out of the sun.
 - **general:** Wrap the katori in several layers of newspaper.; Put the katori inside a closed dabba, and wrap the dabba in a towel.; Fill the gaps around the katori with cotton wool or crumpled paper.
 - **creative:** Put a small box inside a bigger box, with a layer of still air or crumpled paper between them.; Bury the closed dabba in a pot of dry sand or soil. The Svalbard seed vault is dug into frozen rock in the same way.; Chill the empty holder in the fridge before the test starts, so the holder does not warm the cube.; Find the coolest spot in your home: on the floor, away from windows and the kitchen.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Ask what makes ice melt, and where the heat comes from. Let your child choose a plan and draw it.  
+  *Parent does:* Read the problem together. Ask what makes ice melt, and where the heat comes from. Let your child choose a plan and tell it or draw it.  
   *Parent says:* Heat from the warm room flows into the cold cube. Your holder must slow that heat down. What will you use, and why?  
-  *Child mode:* Read the problem. What melts the ice? Draw your plan to slow the heat.
+  *Child mode:* Read the problem. Choose what you will use to slow the heat. Draw your plan or tell it.
   - Ask: Where does the heat that melts the cube come from? (good: From the warm air of the room.; From the table and the katori, and from hands.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child builds the holder. 2. Take two cubes from the tray at the same moment. 3. Put one in an open katori and one in the holder. 4. Write down the time.  
@@ -547,8 +547,8 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   - Note: In a warm room the bare cube is usually all water by 90 minutes. A wrapped cube in a closed dabba usually still has ice.
 - **s4 (10 min)**  
   *Parent does:* Change one thing in the design and test again with the third cube, or plan the change on paper. Then talk about the question below.  
-  *Parent says:* What one thing would you change? The real vault at Svalbard is dug deep into a frozen mountain. How does that help in a power cut?  
-  *Child mode:* Change one thing. Test again, or draw the new plan. Why is a real vault inside a frozen mountain?
+  *Parent says:* What one thing would you change, and why? Now think about the real seed vault at Svalbard, in the far north. It is dug deep into a frozen mountain.  
+  *Child mode:* Change one thing. Test again, or say your new plan.
   - Ask: Why was the Svalbard seed vault built inside a frozen mountain? (good: The rock around it stays below freezing all year.; If the cooling machines stop, the seeds still stay frozen.)
   - Note: The rock at Svalbard is permafrost, which is ground that stays frozen all year. Machines cool the vault further, to minus 18 degrees Celsius. Praise a clear account of what changed and why.
 

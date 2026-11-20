@@ -672,7 +672,7 @@
      "mins": 10,
      "do": "Play the game. Each time a set is laid down, check the region with the key. Then listen to the 'because' sentence, and score it.",
      "say": "Lay down your set and name the region. Now join two of the cards with 'because'. Does the land on one card explain what is on the other?",
-     "kid": "Play the game. Lay down sets of three. Say a 'because' sentence for each set.",
+     "kid": "Play the game. Lay down sets of three and name the region.",
      "ask": [
       {
        "q": "Give a 'because' sentence for your set.",
@@ -814,7 +814,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 16 cards and the tokens. Shuffle the cards and stack them with the fronts up. Give each player one set of two tokens. Remind your child of the Two Lands Test. There the tall tower fell when it was moved to the windy land.",
+     "do": "Cut out the 16 cards and the tokens. Shuffle the cards and stack them with the fronts up. Give each player one set of two tokens.",
      "say": "In the Two Lands Test, the tall tower won in still air and fell in the wind. Each card here moves a real idea to a new land. You decide whether it will still work there.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take two tokens.",
      "context": "This is the first step of Would It Work There. You set up the cards and remember what happened when the towers swapped lands."
@@ -824,7 +824,7 @@
      "mins": 5,
      "do": "Play the first eight cards. For each card, ask which fact about the new land decides the answer before the tokens are turned.",
      "say": "Listen to the card. Where is the idea from, and where is it going? What is different about the new land: the rain, the height, the cold, the salt or the floods? Put down your token.",
-     "kid": "Listen to each card. What is different about the new land? Put down your token.",
+     "kid": "Listen to each card. Put down your token.",
      "ask": [
       {
        "q": "What is different about the new land on this card?",
@@ -863,7 +863,7 @@
    "title": "The Leaning Tree Test: how much do buttress roots help a tall tree stand?",
    "mins": 33,
    "days": 1,
-   "context": "In this experiment you make three tall paper trees: one with no buttress roots, one with two and one with four. You tilt the ground under each tree. You measure how far the ground tilts before the tree falls.",
+   "context": "In this experiment you make three tall paper trees: one with no buttress roots, one with two and one with four. You tilt the ground under each tree. You measure how far the ground tilts before the tree falls. You will find out why many rainforest trees have wide, flat roots like walls.",
    "question": "Three paper trees are the same height. One has no buttress roots, one has two and one has four. How far can the ground tilt before each tree falls? Does it matter which way the buttresses point?",
    "predict": "Before you tilt the board, guess. Which tree will stand on the steepest tilt? Will a tree with two buttresses stand equally well whichever way the buttresses point? Why do you think so?",
    "fair_test": "Make all three trunks from the same paper, the same height and the same width. Cut all six buttresses the same size. Use the same board, and lift it at the same slow speed each time. Test each tree three times, because one try can be a fluke. Switch off the fan, so that no wind pushes the trees. Only the buttresses change.",
@@ -960,8 +960,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child the paper, the card and the board. Say that you will make three paper trees and tilt the ground under each. Ask for the guess and the reason, and write both down.",
-     "say": "A rainforest tree is very tall, and her roots are shallow. We will make three paper trees. One has no buttress roots, one has two and one has four. Then we tilt the ground. Which tree will stand on the steepest tilt? Does it matter which way the buttresses point? Why do you think so?",
-     "kid": "Three paper trees stand on a board. We tilt the board. Which tree stands longest? Does the direction matter? Why?",
+     "say": "A rainforest tree is very tall, and her roots are shallow. Buttress roots are wide, flat roots that spread out from the trunk like walls. We will make three paper trees. One has no buttress roots, one has two and one has four. Then we tilt the ground. Which tree will stand on the steepest tilt? Does it matter which way the buttresses point? Why do you think so?",
+     "kid": "Three paper trees stand on a board. We tilt the board. Guess which tree stands longest, and whether the direction of the buttresses matters.",
      "ask": [
       {
        "q": "Why do you think that tree will stand longest?",
@@ -1073,7 +1073,7 @@
    "title": "The Two Lands Test: does the best tower for still air also win in wind?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment two builders are two villages. One village is in a land of still air, and the other is in a land of wind. Each builds three newspaper towers, and each tower learns from the one before. Then the two best towers swap lands.",
+   "context": "In this experiment two builders are two villages. One village is in a land of still air, and the other is in a land of wind. Each builds three newspaper towers, and each tower learns from the one before. Then the two best towers swap lands. You will find out whether the best design depends on where you build.",
    "question": "Two villages build towers from the same newspaper. One village tests its towers in still air, and the other tests them in wind. After three towers each, are the two best towers alike? What happens when they swap lands?",
    "predict": "Before you build, guess. After three towers, will the Still Land and the Wind Land build the same kind of tower? Which tower will win when the two swap lands? Why do you think so?",
    "fair_test": "Every tower gets the same materials: 2 single sheets of newspaper and 30 centimetres of tape. Every tower gets 4 minutes. Both lands build three towers. Every Wind Land tower gets the same 5 fans, from the same notebook and the same distance. Only the test differs between the two lands.",
@@ -1161,7 +1161,7 @@
      "mins": 4,
      "do": "Explain the two lands. A Still Land tower must stand for 10 seconds. A Wind Land tower must stand through 5 hard fans from a notebook, one big step away. Your child builds for the Still Land and you build for the Wind Land. Ask for the guess and the reason, and write both down.",
      "say": "We are two villages. Yours is in the Still Land, and mine is in the Wind Land. Each village builds three towers, and each tower learns from the one before. A tower that passes its test scores its height in centimetres. After three towers, will our villages build the same kind of tower? What will happen when we swap? Why do you think so?",
-     "kid": "You build for the Still Land. A grown-up builds for the Wind Land. Will the towers end up alike? Why?",
+     "kid": "You build for the Still Land. A grown-up builds for the Wind Land. Will the towers end up alike?",
      "ask": [
       {
        "q": "Why do you think the towers will be alike, or different?",
@@ -1233,7 +1233,7 @@
      "id": "s6",
      "mins": 7,
      "do": "Look at both tables together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at the four scores. Say what you thought would happen, what you saw, and why it happened. Which tower is the better tower? What would you need to know before you answered?",
+     "say": "Look at the four scores. Say what you thought would happen, what you saw, and why it happened. What would you need to know before you could say one tower is the best?",
      "kid": "Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
@@ -1353,7 +1353,7 @@
      "what": "Measure for the last time. Work out how fast the roots grew, and explain what you found."
     }
    ],
-   "record": "Draw a table with one row for each day from day 3 to day 7. Write the length of the longest guided root along the strip. Write yes or no for whether an unguided root has reached the low bank. On day 7, draw the box from the side and show where every root went.",
+   "record": "Draw a table with one row for each day from day 3 to day 7. Write the length of the longest guided root along the strip. Write yes or no for whether an unguided root has reached the low bank. On day 7, draw the box from the side and show where every root went, or take a photo and tell your grown-up what you see.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example: length of the longest guided root along the strip",
@@ -1410,7 +1410,7 @@
      "mins": 5,
      "do": "Show your child the box, the bowl and the strip. Explain that seeds will sprout on a high bank, with a sloping strip leading to a low bank. Ask for the guess and the reason, and write both down. Then put 8 moong seeds in a small bowl of water for the night.",
      "say": "A root grows downwards. We will give some roots a wet sloping path that leads away to one side. Will they follow the path to the other bank, or leave it? How many days will it take? Why do you think so?",
-     "kid": "Roots grow down. Will a sloping path lead them sideways? Guess, and say why. Then soak eight moong seeds.",
+     "kid": "Roots grow down. Soak eight moong seeds in water for the night. Then guess whether roots will follow a sloping path.",
      "ask": [
       {
        "q": "Why do you think the roots will follow the strip, or leave it?",
@@ -1471,7 +1471,7 @@
      "id": "s4",
      "mins": 8,
      "do": "On day 7 measure for the last time. Subtract the day 3 length from the day 7 length. Divide the answer by 4, to find the growth in one day. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below. Then plant the seedlings in a pot.",
-     "say": "This is the last measurement. How many centimetres did the root grow in one day? Now say what you thought would happen, what you saw, and why it happened. How is our strip like the hollow palm trunk that Khasi builders use?",
+     "say": "This is the last measurement. How many centimetres did the root grow in one day? Now say what you thought would happen, what you saw, and why it happened. In Meghalaya, builders guide fig roots across streams through a hollow palm trunk. How is our strip like that trunk?",
      "kid": "Measure one last time. Work out the growth in one day. Say what you thought, what you saw, and why.",
      "ask": [
       {
@@ -1504,7 +1504,7 @@
    "title": "Ten Regions on One Map: draw India's ecological regions",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw a rough map of India and colour in the ten ecological regions. Then you mark five unique places and the place where you live.",
+   "context": "In this activity you draw a rough map of India and colour in the ten ecological regions. Then you mark five special places and the place where you live.",
    "materials": [
     {
      "item": "an atlas, a school map of India, or a map of India on a phone",
@@ -1618,7 +1618,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Open the map of India. Your child copies the outline onto plain paper, about as big as the page. A rough shape is fine. Mark the Himalaya as a curved band across the top. Mark the Ganga and the west coast.",
+     "do": "Open the map of India. Your child copies or traces the outline onto plain paper, about as big as the page. A rough shape is fine. Mark the Himalaya as a curved band across the top. Mark the Ganga and the west coast.",
      "say": "Draw the outline of India as large as the page. It does not have to be exact. Now draw the Himalaya as a curved band along the top. Draw the Ganga, and run your finger down the west coast.",
      "kid": "Copy the outline of India. Draw the Himalaya along the top. Draw the Ganga.",
      "context": "In this step of Ten Regions on One Map you draw a rough outline of India. You add the Himalaya and the Ganga."
@@ -1626,7 +1626,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Read the table of ten regions together, one row at a time. For each row, your child finds the place on the real map and colours that part of their own map. They write the region's name and colour in a key.",
+     "do": "Read the table of ten regions together, one row at a time. For each row, your child finds the place on the real map and colours that part of their own map. They write the region's name and colour in a key. A child who does not like colouring can lay a scrap of coloured paper on each region instead.",
      "say": "Scientists divide India into ten regions. We will colour them one at a time. Find each one on the real map first. Then colour that part of your map, and add the name to your key.",
      "kid": "Read one region at a time. Find it on the real map. Colour it on yours. Add it to the key.",
      "parent": "The edges of the regions are not sharp in real life, so rough edges on the drawing are honest. The Deccan Peninsula should come out as the largest patch by far.",
@@ -1635,9 +1635,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Your child marks five places with a dot and a name: Indira Point in the Nicobar Islands, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Then they put a star where you live. Ask which region your home is in, and compare the map with the list from the first step.",
-     "say": "Mark five unique places: Indira Point, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Which one is the southern tip of India? Now put a star on our home. Which region do we live in?",
-     "kid": "Mark the five unique places. Put a star on your home. Which region do you live in?",
+     "do": "Your child marks five special places with a dot and a name: Indira Point in the Nicobar Islands, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Then they put a star where you live. Ask which region your home is in, and compare the map with the list from the first step.",
+     "say": "Mark five special places: Indira Point, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Which one is the southern tip of India? Now put a star on our home. Which region do we live in?",
+     "kid": "Mark the five special places. Put a star on your home. Which region do you live in?",
      "check": {
       "t": "mcq",
       "q": "Where is the southernmost point of India?",
@@ -1727,7 +1727,7 @@
      "mins": 3,
      "do": "Your child holds the steel tumbler near their mouth and breathes out slowly with the mouth wide open. Look at the steel. Then ask where the mist came from.",
      "say": "Breathe a slow 'haa' onto the steel. What do you see? Your breath is warm and carries water as an invisible gas. The steel is cooler. What happened to the water when your breath touched the cool steel?",
-     "kid": "Breathe a slow 'haa' onto the steel tumbler. What appears? Where did it come from?",
+     "kid": "Breathe a slow 'haa' onto the steel tumbler. Look at the steel. What appears?",
      "ask": [
       {
        "q": "Where did the mist come from?",
@@ -1751,9 +1751,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Read out the six rain figures from the chart. Your child draws a bar for each town, in pairs. One small square stands for 25 centimetres. They use one colour for the sea side and another for the far side.",
-     "say": "Mangaluru gets about 375 centimetres of rain a year, and Bengaluru about 110. Kozhikode gets about 300, and Coimbatore about 60. Mumbai gets about 250, and Pune about 85. Draw the six bars in pairs.",
-     "kid": "Draw six bars, in pairs. One small square is 25 centimetres of rain. Use two colours.",
+     "do": "Read out the six rain figures from the chart. Your child makes a bar for each town, in pairs. One small square stands for 25 centimetres. They use one colour for the sea side and another for the far side. Bars can be drawn, or built from dal grains, one grain for each 25 centimetres.",
+     "say": "Mangaluru gets about 375 centimetres of rain a year, and Bengaluru about 110. Kozhikode gets about 300, and Coimbatore about 60. Mumbai gets about 250, and Pune about 85. Make the six bars in pairs.",
+     "kid": "Make six bars, in pairs. One small square or one grain is 25 centimetres of rain. Use two colours.",
      "parent": "At one square for 25 centimetres, the Mangaluru bar is 15 squares tall and the Coimbatore bar is about 2 and a half.",
      "context": "In this step of Two Sides of One Hill you draw a bar chart. It shows the yearly rain in six towns."
     },
@@ -1762,7 +1762,7 @@
      "mins": 5,
      "do": "Look at the chart together. Ask what pattern the three pairs share, and what could explain it. Read the explanation in the note after your child has answered.",
      "say": "Look at your three pairs. What is the same in every pair? The wind brought the same wet air to both towns. So where did the water go before the air reached the second town?",
-     "kid": "What is the same in every pair? Where did the water go?",
+     "kid": "Look at your three pairs. What is the same in every pair?",
      "ask": [
       {
        "q": "Where did the water go before the air reached the second town?",
@@ -1869,7 +1869,7 @@
      "mins": 4,
      "do": "Compare the two numbers. Ask where the air went, and what a root would find in soil that stays full of water. Read the explanation in the note after your child has answered.",
      "say": "The loose soil took all those spoons of water. What was in that space before? Where is that air now? A root needs air as well as water. What would a root find in mud that the sea covers twice a day?",
-     "kid": "What was in the soil before the water? Where is it now? What would a root find there?",
+     "kid": "What was in the soil before the water? Where is it now?",
      "ask": [
       {
        "q": "What would a root find in mud that is always full of water?",
@@ -1961,7 +1961,7 @@
      "mins": 4,
      "do": "Count the varieties. Compare the count with the guess. Ask why farmers in different places kept different varieties, and what would be lost if only one were grown.",
      "say": "How many did we find? Why do you think farmers in each place kept their own variety? If every farmer in India grew only one variety, what could go wrong in a year of flood or drought?",
-     "kid": "Count the varieties. Why did each place keep its own? What if only one were grown?",
+     "kid": "Count the varieties. What could go wrong if only one were grown?",
      "ask": [
       {
        "q": "Why did farmers in each place keep their own variety?",
@@ -2075,7 +2075,7 @@
      "mins": 4,
      "do": "Ask your child to read across rows A and B again. They list every difference between the two villages, and not only the trees.",
      "say": "Read the two rows again, slowly. How many things are different between village A and village B? Could any of the other differences explain the damage?",
-     "kid": "List every difference between A and B. Could another difference explain the damage?",
+     "kid": "List every difference between A and B, not only the trees.",
      "ask": [
       {
        "q": "What else differs between villages A and B?",
@@ -2175,7 +2175,7 @@
      "what": "Finish the four pages. Compare your region with one very different region, and present the file."
     }
    ],
-   "record": "A four-page file. Page 1: the land, with rain, height and a small map. Page 2: living beings, with three drawings. Page 3: one piece of local knowledge, and why it fits. Page 4: a table comparing your region with a very different one.",
+   "record": "A four-page file. Page 1: the land, with rain, height and a small map. Page 2: living beings, with drawings or pictures. Page 3: one piece of local knowledge, and why it fits. Page 4: a table comparing your region with a very different one.",
    "setup": [
     {
      "art": "A child and a parent looking at a phone map with a hand-made paper file open at a page headed The Land.",
@@ -2198,7 +2198,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Use the map from Ten Regions on One Map, or an atlas, to name your region. With your child, look up the yearly rain in your town and its height above the sea. Look up its hottest and coldest months. Your child writes these on page 1 and draws a small map.",
+     "do": "Use the map from Ten Regions on One Map, or an atlas, to name your region. With your child, look up the yearly rain in your town and its height above the sea. Look up its hottest and coldest months. Your child writes these on page 1 and draws a small map, or sticks in a map picture.",
      "say": "Which of the ten regions do we live in? How much rain falls here in a year? How high are we above the sea? Which month is hottest, and which is coolest? Write these on page 1.",
      "kid": "Name your region. Find your town's yearly rain and height. Write them on page one.",
      "adult": true,
@@ -2209,9 +2209,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Help your child find three plants or animals who lived in your region before the city was built. Local trees and birds are easiest. Then find one living being who is endemic or rare in your state. Your child draws all four on page 2, with names.",
-     "say": "Before the city, what grew here? Which trees and birds belong to this land? Find three. Then find one living being who is endemic or rare in our state. Draw them and name them.",
-     "kid": "Find three plants or animals who belong to your region. Find one rare one. Draw them.",
+     "do": "Help your child find three plants or animals who lived in your region before the city was built. Local trees and birds are easiest. Then find one living being that is rare, or found only in your state. Your child draws all four on page 2, with names, or pastes in pictures.",
+     "say": "Before the city, what grew here? Which trees and birds belong to this land? Find three. Then find one living being that is rare, or found only in our state. Draw them or paste in pictures, and name them.",
+     "kid": "Find three plants or animals who belong to your region. Find one rare one. Draw them, or paste in pictures.",
      "adult": true,
      "parent": "Ask which street trees were here before planting began: neem, banyan, peepal, palmyra and tamarind are native to much of India. Gulmohar and eucalyptus were brought from other countries. Your state's forest department website lists the state animal, bird and tree.",
      "wait": "Carry on tomorrow",
@@ -2241,7 +2241,7 @@
      "id": "s4",
      "mins": 25,
      "do": "Your child chooses one very different region from this unit, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.",
-     "say": "Choose a region as different from ours as you can. Fill in the table for both. Then tell us about our own land in three minutes. Would the local knowledge on page 3 work in the other region? Why, or why not?",
+     "say": "Choose a region as different from ours as you can. Fill in the table for both. Then tell us about our own land in three minutes.",
      "kid": "Choose a very different region. Fill in the table. Present your file in three minutes.",
      "ask": [
       {
@@ -2290,7 +2290,7 @@
     "Hang a strip of wet cloth over the edge of a gutter as a wick. It leads a slow, steady share of water away.",
     "Pinch a gutter narrower further down, so that less water passes. The farmers use thinner bamboo as the pipes get near the plants."
    ],
-   "your_turn": "Now design your own channels. Draw the plan first, with the cup, the three tumblers and every gutter. Test with 300 millilitres. Measure the depth in each tumbler, change one thing, and test again.",
+   "your_turn": "Now design your own channels. Make the plan first, with the cup, the three tumblers and every gutter. Draw it or lay it out with the real things. Test with 300 millilitres. Measure the depth in each tumbler, change one thing, and test again.",
    "setup": [
     {
      "art": "A plastic cup with a thin stream of water running from a hole in its bottom into a single tumbler, with two more tumblers standing empty to the sides.",
@@ -2310,8 +2310,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. A grown-up makes one hole in the bottom of the cup with the point of a compass or a nail. Hold the cup over one tumbler and pour in a little water, to see the thin stream. Ask how one stream could be shared between three tumblers.",
-     "say": "Farmers in Meghalaya share one stream between hundreds of plants, using split bamboo. We have one stream and three tumblers. How could we split a stream of water? List every idea. Then draw your plan.",
-     "kid": "One stream must fill three tumblers. How can a stream be split? List ideas. Draw a plan.",
+     "say": "Farmers in Meghalaya share one stream between hundreds of plants, using split bamboo. We have one stream and three tumblers. List every idea you have. Then show your plan: draw it, or lay it out with pencils and foil.",
+     "kid": "One stream must fill three tumblers. How can a stream be split? List ideas. Show a plan.",
      "adult": true,
      "ask": [
       {
@@ -2346,7 +2346,7 @@
      "id": "s4",
      "mins": 7,
      "do": "Your child changes one thing to make the shares more equal, and tests again. Then compare the design with the bamboo system of Meghalaya, using the note below.",
-     "say": "Which tumbler got too little? Change one thing to send more water there. Test again. In Meghalaya, about 20 litres a minute enter the bamboo. How do you think that becomes a few drops at each plant?",
+     "say": "Which tumbler got too little? Change one thing to send more water there. Test again. In Meghalaya, about 20 litres a minute enter the bamboo.",
      "kid": "Which tumbler got too little? Change one thing. Test again.",
      "ask": [
       {
@@ -2414,8 +2414,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Remind your child of their best tower in the Two Lands Test. Ask what they changed between tower 1 and tower 3. Ask how people pass on what they know, and list the ways.",
-     "say": "In the Two Lands Test, your third tower was better than your first, because you kept what worked. Now someone else must build it without you. How do people pass on what they know? List every way you can think of.",
-     "kid": "Your best tower must be built by someone else. How do people pass on what they know?",
+     "say": "In the Two Lands Test, your third tower was better than your first, because you kept what worked. Now someone else must build it without you. List every way you can think of to pass on what you know.",
+     "kid": "Your best tower must be built by someone else. List ways to pass on what you know.",
      "ask": [
       {
        "q": "How do people pass on what they know?",
@@ -2433,7 +2433,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Your child chooses up to two kinds of message and prepares them in 10 minutes. Do not help with the content. Keep the new builder out of the room.",
-     "say": "You have ten minutes. Which two kinds of message will you use? Think about which steps mattered most, and which mistakes cost you a tower.",
+     "say": "You have ten minutes. Which two kinds of message will you use? It could be written steps, a drawing or a small model made from half a sheet. Think about which steps mattered most, and which mistakes cost you a tower.",
      "kid": "Choose up to two kinds of message. Prepare them in ten minutes.",
      "context": "In this step of Pass It On you make a message for a new builder. It holds what you learned about building your tower."
     },
@@ -2450,8 +2450,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Ask the new builder which part of the message was unclear. Ask your child what the builder did differently, and what the message left out. Then talk about the questions below.",
-     "say": "Builder, which part was hard to follow? What did they do differently from you? Which thing that you knew was not in the message? How do you think the people of Meghalaya pass on how to grow a bridge?",
-     "kid": "What did the builder do differently? What did your message leave out?",
+     "say": "Builder, which part was hard to follow? What did they do differently from you?",
+     "kid": "What did the builder do differently from you?",
      "ask": [
       {
        "q": "What did your message leave out?",

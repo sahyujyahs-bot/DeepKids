@@ -323,7 +323,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 - **s3 (4 min)**  
   *Parent does:* 1. Count the points. 2. Lay out the crocodile, the gecko and the crow. 3. Ask which two are closest, and check with the addresses. 4. Ask why this one fools people.  
   *Parent says:* Here are a crocodile, a gecko and a crow. Which two are closest? Why does this one fool nearly everybody?  
-  *Child mode:* Lay out the crocodile, the gecko and the crow. Which two are closest? Check the backs.
+  *Child mode:* Lay out the crocodile, the gecko and the crow. Think about their features, then check the backs.
   - Check: Which two of these are the closest relatives? → **Mugger crocodile and house crow**
 
 ## Experiments
@@ -343,7 +343,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 - **s2 (5 min)**  
   *Parent does:* 1. Shake the cold bottle again for 30 seconds and put it back in the fridge for 2 minutes. 2. Meanwhile, read the question aloud. 3. Ask for a guess and a reason. 4. Write the guess down.  
   *Parent says:* All three waters will warm up at the window. Which glass will show the most bubbles, and which the fewest? Why do you think so?  
-  *Child mode:* Which tumbler will show the most bubbles? Which the fewest? Say why. Write your guess.
+  *Child mode:* Which tumbler will show the most bubbles? Which the fewest? Write your guess.
   - Ask: Why do you think so? (good: The boiled one, because boiling makes bubbles.; The cold one, because something changes when it warms up.; All the same, because it is the same water.)
   - Note: Do not correct the guess. Many children pick the boiled water, because they have seen bubbles in a boiling pot. The two minutes of rest lets the tiny shaken bubbles rise out of the cold water.
 - **s3 (5 min)**  
@@ -353,7 +353,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
   - Note: If a few bubbles cling to a glass right after pouring, tap the glass to free them, and start the clock after that.
   - Wait: Leave the tumblers for 20 minutes. Do not move them.
 - **s4 (6 min)**  
-  *Parent does:* 1. After 20 minutes, look at the inside wall of each glass without moving it. 2. Count the bubbles on each and write the numbers. 3. Touch the outside of each glass and say which feels coolest. 4. Count again at 40 minutes and at 60 minutes.  
+  *Parent does:* 1. After 20 minutes, look at the inside wall of each glass without moving it. 2. Count the bubbles on each and write the numbers. 3. Count again at 40 minutes and at 60 minutes.  
   *Parent says:* Do not lift the glasses. Count the bubbles on the inside of each one. Which glass has changed most since we poured?  
   *Child mode:* Count the bubbles inside each glass. Write the numbers. Count again at 40 and 60 minutes.
   - Ask: Nothing was added to the cold water. So where did the bubbles come from? (good: They were inside the water already.; Air was hidden in the water and came out when it warmed.)
@@ -397,9 +397,9 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
   *Child mode:* Suck the water through the straw. Stop at 20 seconds or when it is gone. Measure what is left.
   - Note: The water will probably be gone in well under 20 seconds. Write down how many seconds it took.
 - **s6 (6 min)**  
-  *Parent does:* 1. For each way, add the two results and halve the total to find the mean left. 2. Take the mean left from 4 to find the mean drunk. 3. Ask your child for the three sentences. 4. Ask what our model leaves out. 5. Then read the card 'Mammals who lay eggs' together.  
+  *Parent does:* 1. For each way, add the two results and halve the total to find the average left. 2. Take the average left from 4 to find the average drunk. 3. Ask your child for the three sentences. 4. Ask what our model leaves out. 5. Then read the card 'Mammals who lay eggs' together.  
   *Parent says:* Say what you thought, what you saw and why. Then tell me one way that you and a straw differ from a platypus baby and her mother.  
-  *Child mode:* Work out the mean for each way. Say what you thought and what you saw. Say why.
+  *Child mode:* Work out the average left for each way. Say what you thought and what you saw. Say why.
   - Ask: Platypus babies grow well with no teat. So what might a teat add? (good: The baby can drink faster.; Less milk is spilt or left in the fur.; The baby can hold on while the mother moves.)
   - Ask: What does our model leave out? (good: A platypus baby's mouth is shaped for this, and mine is not.; The mother's fur and skin are not a handkerchief.; Milk is thicker than water.)
   - Note: This is a model, so it can show one thing only: a tube that fits the mouth wastes less and delivers faster. Nobody knows for certain why teats evolved. The model fits one sensible idea, and it does not prove it.
@@ -414,25 +414,25 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
   *Child mode:* Draw the table. Then guess. Lungs or legs first? Milk or birth first? Say why.
   - Note: An amnion is the bag of water that a baby reptile, bird or mammal grows in. Explain the word before you start.
 - **s2 (8 min)**  
-  *Parent does:* 1. Read out each fact and let your child put the ticks. 2. The rohu, a carp, has a backbone only. 3. The lungfish has a backbone and lungs. 4. The frog has a backbone, lungs and four limbs. 5. The crocodile has those three and grows in an amnion. 6. The pigeon has the same four as the crocodile. Her wings are her front limbs. 7. The platypus has those four, and fur and milk. She lays eggs. 8. The cow has those five, and is born alive.  
+  *Parent does:* 1. Read out each fact and let your child put the ticks. 2. The rohu, a carp, has a backbone only. 3. The lungfish has a backbone and lungs. 4. The frog has a backbone, lungs and four limbs. 5. The crocodile has those three and grows in an amnion, the bag of fluid around a baby inside the egg. 6. The pigeon has the same four as the crocodile. Her wings are her front limbs. 7. The platypus has those four, and fur and milk. She lays eggs. 8. The cow has those five, and is born alive.  
   *Parent says:* I will read what each animal has. You put the ticks. Tell me if anything surprises you as we go.  
-  *Child mode:* The rohu has a backbone only. The lungfish has a backbone and lungs. The frog also has four limbs. The crocodile and the pigeon also grow in an amnion. The platypus also has fur and milk, and lays eggs. The cow has all that, and is born alive.
+  *Child mode:* Listen to what each animal has. Tick each feature in the table.
   - Note: The rohu's swim bladder is a changed lung, so leave her lung box empty and tell your child why afterwards. The pigeon also has feathers, which no other animal in the table has. Write 'feathers' beside her row.
 - **s3 (4 min)**  
-  *Parent does:* 1. Count the ticks in each row and write the number at the end. 2. Shade the ticked boxes with the colour pencil. 3. Look at the shape the shading makes. 4. Find the animal who has lungs and no limbs. 5. Find the animal who has milk and is not born alive.  
+  *Parent does:* 1. Count the ticks in each row and write the number at the end. 2. Look at the ticks from the top row to the bottom row. 3. Look at the shape the ticks make. 4. Find the animal who has lungs and no limbs. 5. Find the animal who has milk and is not born alive.  
   *Parent says:* Look at the shape. What do you notice? Now use the table to answer your two guesses. Which rows give the answers?  
-  *Child mode:* Count the ticks in each row. Shade them. Who has lungs but no limbs? Who has milk but lays eggs?
+  *Child mode:* Count the ticks in each row. Who has lungs but no limbs? Who has milk but lays eggs?
   - Ask: How does the table show that lungs came before legs? (good: The lungfish has lungs and no legs, and nobody has legs without lungs.; Every animal with four limbs also has lungs.)
   - Note: The rows should hold 1, 2, 3, 4, 4, 5 and 6 ticks. The shading makes a staircase. No animal has a later feature without all the earlier ones.
 - **s4 (4 min)**  
   *Parent does:* 1. Ask whether the cow is 'more evolved' than the rohu, and listen. 2. Explain that all seven animals are alive today. 3. Ask what the steps really show. 4. Add yourself to the table and tick your own features.  
   *Parent says:* Is the cow a better animal than the rohu because she has more ticks? All seven are alive now. So what do the steps show?  
-  *Child mode:* Is the cow better than the rohu? What do the steps really show? Add yourself to the table.
+  *Child mode:* Is the cow better than the rohu? Add yourself to the table.
   - Ask: What do the steps show, if not better and worse? (good: The order in which the features first appeared.; Where each animal's branch split off from ours.)
   - Note: We chose features on the line that leads to the cow, so the cow gets the most ticks. If we had chosen features of the rohu's own branch, such as fan fins and a swim bladder, the rohu would get the most.
   - Check: The platypus has fur and milk and lays eggs. What does this show? → **Milk evolved before birth without an egg**
 ### a2 · Old Parts in Your Body: goosebumps, a tailbone and a wrist tendon (15 min)
-- **record:** Draw your forearm with goosebumps. Then make a tally: how many people at home have the wrist tendon in both wrists, in one wrist, or in neither.
+- **record:** Draw your forearm with goosebumps, or tell a grown-up what you saw. Then make a tally: how many people at home have the wrist tendon in both wrists, in one wrist, or in neither.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the ice cube on the inside of your child's forearm for 20 seconds. 2. Take it away and look at the skin closely, in good light. 3. Ask what the small hairs are doing. 4. Ask what the same thing would do for a cat or a monkey.  
   *Parent says:* Look at the tiny hairs. What are they doing? A small muscle is pulling each one upright. What would that do for an animal with thick fur?  
@@ -452,11 +452,11 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 - **s4 (3 min)**  
   *Parent does:* 1. Try to wiggle your ears without touching them. 2. Ask who at home can. 3. Ask your child what all these leftovers have in common. 4. Ask what they tell us about our ancestors.  
   *Parent says:* We found fur muscles, a tail's end, and a climbing muscle that some of us have lost. What do they tell you about our ancestors?  
-  *Child mode:* Try to wiggle your ears. What do these three leftovers tell you about our ancestors?
+  *Child mode:* Try to wiggle your ears. Who at home can do it?
   - Ask: What do these leftovers tell us? (good: Our ancestors had thick fur and tails.; Bodies are changed from older bodies, and small parts of the old ones stay.)
   - Check: Why do humans get goosebumps when they are cold? → **Small muscles raise hairs that were once thick fur**
 ### a3 · Count the Differences: reading the family tree from letters (15 min)
-- **record:** Keep the five strings with the differences circled. Under them write the four counts, and draw the family tree they suggest.
+- **record:** Keep the five strings with the differences circled. Under them write the four counts. Take a photo of the slips laid out as the family tree they suggest, or draw it.
 - **s1 (5 min)**  
   *Parent does:* 1. Copy these five strings in rows, one letter in each square. 2. Human: GATCC ATGAC TAGGA. 3. Cow: GATCC ATGAC CGGGA. 4. Hen: GATCC AATCT TAGGA. 5. Frog: GAGAT GTGAT TAGGA. 6. Carp: CCTCC GTGAT TAATC. 7. Check each row twice against this list.  
   *Parent says:* These strings are made up, but they behave like real DNA. Before we count, guess. Which animal's string will be most like the human one?  
@@ -468,16 +468,16 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
   *Child mode:* Compare each string with the human one. Circle the letters that differ. Count the circles.
   - Note: The counts should be: cow 2, hen 4, frog 5 and carp 7. If a count is off, check the copying first.
 - **s3 (4 min)**  
-  *Parent does:* 1. Put the animals in order, from fewest differences to most. 2. Draw a tree with the human and the cow on the closest twigs and the carp on the farthest. 3. Compare this order with your Feature Ladder, if you made one. 4. Ask why two different methods give the same order.  
-  *Parent says:* Fewest differences means the most recent shared ancestor. Draw the tree. Is the order the same as the one we got from body features?  
-  *Child mode:* Put the animals in order by the counts. Draw the tree. Is it the same order as the body features gave?
+  *Parent does:* 1. Put the animals in order, from fewest differences to most. 2. Write each animal's name on a paper slip. Lay the slips out as a tree. Put the human and the cow on the closest twigs. Put the carp on the farthest. 3. Compare this order with your Feature Ladder, if you made one. 4. Ask why two different methods give the same order.  
+  *Parent says:* Fewest differences means the most recent shared ancestor. Lay out the tree. Is the order the same as the one we got from body features?  
+  *Child mode:* Put the animals in order by the counts. Lay out the slips as a tree. Is it the same order as the body features gave?
   - Ask: Bones and letters give the same tree. Why does that matter? (good: Two different kinds of evidence agree, so the tree is probably right.; If the tree were only a guess, they would not match.)
   - Check: Animal A differs from you in 2 letters, and animal B in 7. What does this suggest? → **A shares a more recent ancestor with you**
 ### a4 · Gulp Watch: which fish come up for air? (if there is an aquarium or a pet shop near you) (15 min)
-- **record:** Write the name of each fish and the number of trips to the surface in five minutes. Draw what the fish's mouth does at the surface.
+- **record:** Write the name of each fish and the number of trips to the surface in five minutes. Show or tell what the fish's mouth does at the surface.
 - **s1 (3 min)**  
   *Parent does:* 1. Find a fighting fish or a gourami in a tank. 2. Find a goldfish, a guppy or a molly in another tank. 3. Ask your child which fish will come to the surface more often, and why. 4. Look for a bubbling air stone or pump in each tank.  
-  *Parent says:* One of these fish is a relative of the climbing perch. Which fish do you think will come up for air more often? Why?  
+  *Parent says:* Some fish can breathe air from the surface. Which of these two will come up for air more often? Why?  
   *Child mode:* Find a fighting fish and a goldfish. Which will come up for air more often? Say why.
   - Note: Fighting fish and gouramis are relatives of the climbing perch and breathe air. Shops often keep fighting fish in small bowls with no air pump, which they can survive because they gulp air.
 - **s2 (10 min)**  
@@ -488,18 +488,18 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 - **s3 (2 min)**  
   *Parent does:* 1. Compare the two tallies. 2. Ask what the air pump in a goldfish tank is for. 3. Ask why a fighting fish can live in a bowl without one.  
   *Parent says:* What did you count? What is the bubbling pump in the goldfish tank for? Why can the fighting fish manage without one?  
-  *Child mode:* Compare your two counts. What is the air pump for? Why can a fighting fish live without one?
+  *Child mode:* Compare your two counts. What is the air pump for?
   - Check: A fighting fish lives in a small bowl with no air pump. How does she get enough oxygen? → **She gulps air at the surface**
 ### a5 · Predict the In-between Animal: what should a fossil between fish and frogs look like? (15 min)
-- **record:** Keep your drawing of the predicted animal, with labels. Beside it write which of your predictions matched Tiktaalik and which did not.
+- **record:** Keep your three cards, with the middle card showing your prediction. Beside them write which of your predictions matched Tiktaalik and which did not.
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw a fish on the left of the page and write her features: scales, gills, fins with thin rays, no neck, a head shaped like a cone, eyes on the sides. 2. Draw an early four-limbed animal on the right and write hers: lungs, limbs with fingers, a neck, a flat head, eyes on top. 3. Write '380 million years ago' under the fish and '365 million years ago' under the other.  
+  *Parent does:* 1. Write a card for the fish with her features: scales, gills, fins with thin rays, no neck, a head shaped like a cone, eyes on the sides. 2. Write a card for an early four-limbed animal with hers: lungs, limbs with fingers, a neck, a flat head, eyes on top. 3. Write '380 million years ago' on the fish card and '365 million years ago' on the other. 4. Put the fish card on the left and the other on the right, with a gap between.  
   *Parent says:* Fish like this lived 380 million years ago. Four-limbed animals like this lived 365 million years ago. So what lived in between, and when?  
-  *Child mode:* Draw a fish on the left. Draw a four-limbed animal on the right. Write the features of each.
+  *Child mode:* Write each animal's features on a card. Put the cards left and right.
 - **s2 (6 min)**  
-  *Parent does:* 1. Ask your child to draw the in-between animal in the middle. 2. Ask them to choose, for each feature, the fish form, the later form or a halfway form. 3. Ask how old the rock holding such a fossil should be. 4. Ask what kind of place the animal lived in, so we know what kind of rock to search.  
-  *Parent says:* Draw what you would expect to find. Choose each feature and label it. How old should the rock be? What kind of place did she live in?  
-  *Child mode:* Draw the animal in between. Label each feature. How old should her rock be? Where did she live?
+  *Parent does:* 1. Ask your child to make a middle card for the in-between animal. 2. Ask them to choose the fish form, the later form or a halfway form for each feature. 3. Ask them to write each choice on the card. 4. Ask how old the rock holding such a fossil should be. 5. Ask what kind of place the animal lived in, so we know what kind of rock to search.  
+  *Parent says:* Make a middle card for the animal you would expect to find. Choose each feature for her. Then think about where she lived.  
+  *Child mode:* Make a card for the animal in between. For each feature, choose the fish form, the later form or halfway.
   - Ask: What kind of rock would you search, and how old? (good: Rock about 375 million years old, between the two ages.; Rock made from the mud of shallow streams, because she lived at the water's edge.)
   - Note: Any reasoned mixture is a good answer. The point is that a prediction can be made at all, and then tested by digging.
 - **s3 (5 min)**  
@@ -514,16 +514,16 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 - **schedule:** day 1: Measure 5 metres of string, fix it along a wall or corridor, and mark the place of each of the 11 events. (25 min); day 2: Draw and label the 11 flags and peg them at their marks. (20 min); day 3: Walk the timeline with someone, tell the story, and answer three questions from the string. (15 min)
 - **s1 (25 min)**  
   *Parent does:* 1. Cut a string a little longer than 5 metres and fix it along a wall. 2. Mark one end TODAY. 3. Measure from TODAY and make a small mark at each distance below. 4. First vertebrates: 500 centimetres. 5. Bony fish with lungs: 420. 6. Tiktaalik: 375. 7. Acanthostega, with fingers: 365. 8. First animals with an amnion: 320. 9. First mammals: 225. 10. Archaeopteryx, an early bird: 150. 11. Snake and dinosaur eggs in Gujarat: 68. 12. The asteroid that ended the other dinosaurs: 66. 13. Indohyus, a whale relative in Kashmir: 48. 14. First humans of our kind: 3 millimetres.  
-  *Parent says:* One centimetre is a million years. Before we measure, guess. Where on this string did the first mammals live? Where do we humans start?  
+  *Parent says:* One centimetre is a million years. Before we measure, guess. Where on this string will the first mammals go? Where do we humans start?  
   *Child mode:* Fix the string. One end is today. Measure and mark each event. One centimetre is a million years.
   - Note: The ages are rounded, and scientists revise them as new fossils are found. If your corridor is short, use 1 centimetre for 2 million years and halve every distance.
 - **s2 (20 min)**  
-  *Parent does:* 1. Cut 11 small paper flags. 2. On each, draw the animal or event and write its name and age. 3. Peg or tape each flag at its mark. 4. Stand back and look at the spacing.  
-  *Parent says:* Draw each one as well as you can. When they are all up, stand back. Where are the flags crowded, and where are they far apart?  
-  *Child mode:* Make a flag for each event. Peg it at its mark. Where are the flags crowded?
+  *Parent does:* 1. Cut 11 small paper flags. 2. On each, write the name and age of the animal or event. Draw a small picture too, if you like. 3. Peg or tape each flag at its mark. 4. Stand back and look at the spacing.  
+  *Parent says:* Write the name and age on each flag. When they are all up, stand back. Where are the flags crowded, and where are they far apart?  
+  *Child mode:* Write a flag for each event. Peg it at its mark. Where are the flags crowded?
 - **s3 (15 min)**  
   *Parent does:* 1. Walk from the far end to TODAY and tell the story aloud at each flag. 2. Measure the gap between lungs and fingers. 3. Measure the gap between the first mammals and the asteroid. 4. Measure how much of the string holds humans. 5. Write the three answers.  
-  *Parent says:* Walk me through it. Then measure three things for me. How long were there lungs before fingers? How long did mammals live beside dinosaurs?  
+  *Parent says:* Walk me through it. Then we will measure three gaps. First, how long were there lungs before fingers?  
   *Child mode:* Walk the string and tell the story. Measure three gaps. Write the answers.
   - Ask: For how long did mammals live at the same time as the big dinosaurs? (good: About 159 million years, from 225 to 66 million years ago.; Far longer than the time since the asteroid.)
   - Check: On the string, lungs are at 420 centimetres and fingers at 365. What does this show? → **Lungs are about 55 million years older than fingers**
@@ -532,7 +532,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 ### c1 · A Fin That Can Do a Push-up (30 min)
 - **problem:** Build a front fin that can hold a 'body' weighing about 200 grams at least 5 centimetres above the table. The fin must bend in two places, like an elbow and a wrist, so that the body can be lowered to the table and pushed up again.
 - **safety:** A grown-up cuts the thick cardboard. Broom sticks have sharp ends, so keep them away from faces.
-- **your turn:** Now design your own. Draw the fin first and label the joints. Build it, rest the packet on top and measure the height. Lower the body to the table and push it up five times. Where does your fin fail first, and how would you make that place stronger?
+- **your turn:** Now design your own. Plan the fin first: draw it and label the joints, or lay out the strips and point to the joints. Build it, rest the packet on top and measure the height. Lower the body to the table and push it up five times. Where does your fin fail first, and how would you make that place stronger?
 - **constraints:** The body is a 200 gram packet, such as a small packet of salt, dal or tea.; The fin holds the body at least 5 centimetres above the table for 10 seconds.; The fin bends in two places and does not come apart when you lower and raise the body.; You may use only cardboard, broom sticks or toothpicks, rubber bands and tape.
 - **general:** Cut three strips of cardboard for an upper bone, a lower part and a hand, and join them with tape hinges.; Fold each cardboard strip lengthwise into a V, so that it does not buckle.; Use two strips side by side for the lower part, like the two bones in your forearm.
 - **creative:** Stretch a rubber band across each joint as a muscle, so that the fin springs back up after you press the body down.; Make the hand from several short pieces fanned out, like the many small bones in a wrist, so that it sits flat on the table.; Build a pair of fins joined by a cardboard shoulder, so that the body rests between them as Tiktaalik's chest did.
@@ -542,9 +542,9 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
   *Child mode:* Tape twelve sticks into a fan. Rest the packet on it. What happens to the sticks?
   - Note: The thin rays splay or snap. A fan fin is light and makes a wide paddle for steering in water, where the water holds the body up.
 - **s2 (14 min) · grown-up needed**  
-  *Parent does:* 1. Ask your child to feel the bones of their own arm: one, then two, then many small ones. 2. Ask them to draw a fin built on that pattern, with two joints. 3. A grown-up cuts the cardboard strips. 4. Your child folds, joins and tapes the fin. 5. Test it with the packet as you build.  
-  *Parent says:* Feel your arm. One bone, then two, then many small ones. Draw a fin on that pattern. Where will it bend? Then build it.  
-  *Child mode:* Feel the bones in your arm. Draw a fin with two joints. Build it from cardboard and tape.
+  *Parent does:* 1. Ask your child to feel the bones of their own arm: one, then two, then many small ones. 2. Ask them to say where the two joints of a fin on that pattern should go. 3. A grown-up cuts the cardboard strips. 4. Your child folds, joins and tapes the fin. 5. Test it with the packet as you build.  
+  *Parent says:* Feel your arm. One bone, then two, then many small ones. Think of a fin on that pattern. Where will it bend? Then build it.  
+  *Child mode:* Feel the bones in your arm. Plan a fin with two joints. Build it from cardboard and tape.
 - **s3 (6 min)**  
   *Parent does:* 1. Rest the packet on the fin and measure its height above the table. 2. Time 10 seconds. 3. Lower the body to the table and push it up again, five times. 4. Note where the fin bends or fails.  
   *Parent says:* Does it hold for ten seconds? How high? Now do five push-ups with it. Where does it give way first?  

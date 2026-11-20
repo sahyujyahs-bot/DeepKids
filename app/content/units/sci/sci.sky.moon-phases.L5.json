@@ -548,7 +548,7 @@
    "title": "How Much of the Moon Is Lit? Measure a sock Moon at seven places",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment a ball half covered by a dark sock is your Moon. The bare half is the half the Sun lights. You put the ball at seven places round you, and measure how much of its face looks lit from the middle.",
+   "context": "In this experiment a ball half covered by a dark sock is your Moon. The bare half is the half the Sun lights. You put the ball at seven places round you, and measure how much of its face looks lit from the middle. You will find out whether a Moon one-third of the way to full looks one-third lit.",
    "question": "The Moon moves from the Sun's side of the sky to the opposite side in about 15 days. How much of its face looks lit at each step of the way? Does the lit share grow by the same amount at every step?",
    "predict": "Guess first. The seven places are 0, 30, 60, 90, 120, 150 and 180 degrees from the Sun. At 60 degrees the Moon has gone one-third of the way from new to full. Will one-third of its face look lit? Write a guess in percent for all seven places, and say why you think so.",
    "fair_test": "Use the same ball and the same sock at every place. Keep the ball 1 metre from your eye every time. At every place, turn the ball so that the bare half faces the Sun wall flat on. Only the place of the ball changes. Measure each photo twice, because the edge of the sock can be hard to judge.",
@@ -975,7 +975,7 @@
      "id": "s6",
      "mins": 6,
      "do": "1. On a sunny day, find a patch of direct sunlight indoors or on a balcony. 2. Hold the paper so that it faces the Sun. 3. Hold the peppercorn on the stick in front of the paper, and move the stick slowly away. 4. Measure the distance from the peppercorn to the paper when the dark middle vanishes. Divide by the peppercorn's width.",
-     "say": "Keep your back to the Sun and look only at the paper. Never look at the Sun. How far does the peppercorn's dark shadow reach in sunlight?",
+     "say": "Never look at the Sun. How far does the peppercorn's dark shadow reach in sunlight?",
      "kid": "Do this on a sunny day. Keep your back to the Sun. Look only at the paper. Move the peppercorn away until the dark middle vanishes. Measure.",
      "adult": true,
      "wait": "Do this on a day when direct sunlight comes into your home or onto your balcony",
@@ -989,7 +989,7 @@
    "title": "A Black Card in the Dark: can a black card look white?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you light a black card with a torch in a dark room, so that nothing else is lit. People who have not seen the card say what colour it looks. Then you add a white strip, and ask again.",
+   "context": "In this experiment you light a black card with a torch in a dark room, so that nothing else is lit. People who have not seen the card say what colour it looks. Then you add a white strip, and ask again. You will find out why the Moon looks white at night, although its ground is dark.",
    "question": "A black card is the only lit thing in a dark room. What colour does it look? Does the answer change when a white strip is put into the same light?",
    "predict": "Guess first. When the black card is the only lit thing in the room, will people call it black, grey or white? What will they say when a white strip comes into the same light? Why do you think so? Write both guesses and your reasons.",
    "fair_test": "Use the same torch at the same distance all the time. Keep the room dark, so that no light falls on anything except the card. Ask each viewer alone, so that one answer does not lead the next. Only the neighbours of the card change: first nothing, then a white strip.",
@@ -1106,7 +1106,7 @@
      "mins": 3,
      "do": "1. Switch the torch off. 2. Ask your child what colour the viewers will say the card is. 3. Ask what they will say when a white strip is added. 4. Write both guesses and the reasons.",
      "say": "The card is black. In a moment it will be the only thing lit in this room. What colour will people say it is? Why do you think so?",
-     "kid": "The card is black. Soon it will be the only lit thing. What colour will people say it is? Say why. Write your guess.",
+     "kid": "Guess what colour people will say the card is. Say why. Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1203,7 +1203,7 @@
      "qty": 1
     }
    ],
-   "record": "Write the width of the plate and of the coin, and the two distances from your eye. Draw what you saw when the coin was near, exactly right, and a little too far.",
+   "record": "Write the width of the plate and of the coin, and the two distances from your eye. Draw what you saw when the coin was near, exactly right, and a little too far, or tell your grown-up what you saw.",
    "setup": [
     {
      "art": "A steel plate propped upright on a shelf, and a child standing three metres away with one eye closed, holding a coin in front of the open eye.",
@@ -1220,7 +1220,7 @@
      "mins": 3,
      "do": "1. Prop the plate upright on a shelf or table, at the height of your child's eyes. 2. Measure 3 metres from the plate and mark the spot. 3. Give your child the coin. Ask if the coin can hide the whole plate, and how.",
      "say": "The plate is about ten times as wide as this coin. Can the coin hide the whole plate from you? How? Why do you think so?",
-     "kid": "The plate is far wider than the coin. Can the coin hide the whole plate? Say how. Say why you think so.",
+     "kid": "Hold the coin in front of you and look at the plate. Try to hide all of the plate.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1255,7 +1255,7 @@
      "mins": 4,
      "do": "1. From the matching place, your child moves the coin about 5 cm further from the eye. 2. Ask what they see round the coin. 3. Then they bring the coin 5 cm nearer than the matching place. Ask again.",
      "say": "Move the coin a little further from your eye. What do you see round its edge? Now bring it nearer. What happens to the ring?",
-     "kid": "Move the coin a little further away. What shows round it? Now bring it nearer. What happens?",
+     "kid": "Move the coin a little further away and look round its edge. Then bring it nearer.",
      "ask": [
       {
        "q": "What changed when the coin was a little further from your eye?",
@@ -1272,7 +1272,7 @@
      "mins": 3,
      "do": "1. Tell your child the numbers for the Sun and the Moon. The Sun is about 400 times as wide as the Moon. It is about 390 times as far away. 2. Say that the Moon's distance changes by a few parts in 100 during each month. 3. Ask what people will see when a far Moon passes in front of the Sun.",
      "say": "The Sun is about 400 times as wide as the Moon, and about 390 times as far away. The Moon is sometimes nearer and sometimes further. What will a far Moon leave showing?",
-     "kid": "The Sun is 400 times as wide as the Moon. It is about 390 times as far. What will a far Moon leave showing?",
+     "kid": "Think about the coin held a little too far. What was left showing round it?",
      "parent": "A near Moon covers the whole Sun, and the eclipse is total. A far Moon leaves a ring of Sun, and the eclipse is annular. Remind your child that this is done with a plate. Nobody should ever try it with the real Sun.",
      "check": {
       "t": "mcq",
@@ -1330,7 +1330,7 @@
      "mins": 5,
      "do": "1. Open a photograph of a partial lunar eclipse. 2. Ask your child what the dark part is, and what shape its edge has. 3. Ask if the edge belongs to a circle bigger or smaller than the Moon. Ask for a guess of how many Moons wide that circle is.",
      "say": "The dark part is the Earth's shadow falling on the Moon. Look at its edge. Is it straight or curved? If you finished the curve into a full circle, how big would it be? Why do you think so?",
-     "kid": "The dark part is the Earth's shadow. Look at its edge. Is it curved? Guess how big the full circle would be. Say why.",
+     "kid": "Look at the curved edge of the dark part. Guess how many Moons wide the full circle would be.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1429,7 +1429,7 @@
      "mins": 6,
      "do": "1. Show your child the list of 12 eclipses. 2. Ask them to copy it, with solar eclipses in one colour and lunar eclipses in another. 3. Ask what they notice before they count anything.",
      "say": "Here is every eclipse of three years. Copy the list. Colour the solar and lunar ones differently. What do you notice straight away?",
-     "kid": "Copy the list of 12 eclipses. Colour the solar ones and the lunar ones differently. What do you notice?",
+     "kid": "Copy the list of 12 eclipses. Colour the solar ones and the lunar ones differently.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1505,7 +1505,7 @@
      "mins": 8,
      "do": "1. Use the calendar to count the days between the two eclipses of each pair. 2. Count the days from the first eclipse of each pair to the first eclipse of the next pair. 3. Write every gap beside the list.",
      "say": "Count the days inside each pair. Then count from one pair to the next. Which numbers keep coming back?",
-     "kid": "Count the days inside each pair. Then count from one pair to the next pair. Write every gap. Which numbers repeat?",
+     "kid": "Count the days inside each pair. Then count from one pair to the next pair. Write every gap.",
      "ask": [
       {
        "q": "Which numbers keep coming back?",
@@ -1523,7 +1523,7 @@
      "mins": 6,
      "do": "1. Ask why the pairs are half a Moon month apart. 2. Ask why the pairs come about 177 days apart. 3. Give the reasons in the parent note after your child has tried.",
      "say": "A solar eclipse needs Amavasya, and a lunar eclipse needs Purnima. How far apart are those? And why might the pairs come about every six months?",
-     "kid": "A solar eclipse needs Amavasya. A lunar eclipse needs Purnima. How far apart are they? Why do pairs come every six months?",
+     "kid": "A Moon month is about 30 days. How many days are there from Amavasya to Purnima?",
      "ask": [
       {
        "q": "Why do the pairs come about six months apart?",
@@ -1541,7 +1541,7 @@
      "mins": 5,
      "do": "1. Ask your child to predict the first eclipse of 2027 from the solar eclipse of 12 August 2026. 2. They add 177 days on the calendar. 3. Tell them the real date and kind. 4. Ask what kind should come two weeks later.",
      "say": "Start from the solar eclipse of the twelfth of August 2026. Add 177 days. What date do you reach? What kind of eclipse do you expect two weeks after that?",
-     "kid": "Start at 12 August 2026. Add 177 days. What date do you reach? What kind of eclipse comes two weeks later?",
+     "kid": "Start at 12 August 2026. Count 177 days on the calendar. Write the date you reach.",
      "parent": "Adding 177 days to 12 August 2026 gives 5 February 2027. The real eclipse is an annular solar eclipse on 6 February 2027. A penumbral lunar eclipse follows on 20 February 2027. Your child has predicted an eclipse to within a day, with a calendar and a pencil.",
      "check": {
       "t": "mcq",
@@ -1692,7 +1692,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the Earth as an astronaut on the Moon sees it at our Amavasya, at our half Moon and at our Purnima. Then draw what the astronaut sees during a total lunar eclipse.",
+   "record": "For our Amavasya, our half Moon and our Purnima, write one word for the Earth as the astronaut sees it: full, half or dark. Then say what the astronaut sees during a total lunar eclipse.",
    "setup": [
     {
      "art": "The half-covered ball on an upturned tumbler at the floor mark E, its bare half facing the wall with the SUN sign, and a child lying on the floor at mark 0 looking back at the ball.",
@@ -1700,7 +1700,7 @@
     },
     {
      "art": "A child's drawing of three Earths in a row: a full round Earth, a half Earth and a dark Earth with a thin red ring round it.",
-     "caption": "2. Look from marks 0, 90 and 180. Draw the Earth as you see it from each."
+     "caption": "2. Look from marks 0, 90 and 180. Say how much of the Earth is lit from each."
     }
    ],
    "flow": [
@@ -1709,7 +1709,7 @@
      "mins": 4,
      "do": "1. Stand the ball on the tumbler at mark E. It is now the Earth. Turn its bare half to face the Sun wall. 2. Ask your child what the Moon looks like from the Earth when the Moon is at mark 0. 3. Ask what the Earth will look like from the Moon at that moment.",
      "say": "In How Much of the Moon Is Lit, the ball at mark 0 showed no lit part. That was Amavasya. Now the ball is the Earth. What will an astronaut at mark 0 see? Why do you think so?",
-     "kid": "The ball is now the Earth. At mark 0 it is Amavasya for us. What does an astronaut there see? Say why.",
+     "kid": "The ball is now the Earth. Stand it on the tumbler at mark E. Turn its bare half to the Sun wall.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1724,9 +1724,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child lies at mark 0 with one eye level with the ball and looks back at it. 2. They do the same from mark 90 and from mark 180. 3. They draw the Earth as seen from each mark.",
+     "do": "1. Your child lies at mark 0 with one eye level with the ball and looks back at it. 2. They do the same from mark 90 and from mark 180. 3. They point to the lit part of the Earth from each mark and say how much it is.",
      "say": "Look back at the Earth from each mark. How much of it is lit? Compare that with what the Moon looked like from the Earth at the same mark.",
-     "kid": "Look at the Earth ball from marks 0, 90 and 180. How much is lit each time? Draw what you see.",
+     "kid": "Look at the Earth ball from marks 0, 90 and 180. Point to the lit part each time.",
      "ask": [
       {
        "q": "How do the Earth's phases compare with the Moon's?",
@@ -1742,9 +1742,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Ask what the astronaut sees during our total lunar eclipse, when the Moon is at mark 180 exactly in line. 2. Ask what the astronaut sees during our total solar eclipse, at mark 0 exactly in line. 3. Your child draws both. Then read the parent note.",
+     "do": "1. Ask what the astronaut sees during our total lunar eclipse, when the Moon is at mark 180 exactly in line. 2. Ask what the astronaut sees during our total solar eclipse, at mark 0 exactly in line. 3. Your child shows both with the ball, and says what they see. Then read the parent note.",
      "say": "During our lunar eclipse, the Earth stands between the astronaut and the Sun. What does the astronaut see? During our solar eclipse, the astronaut looks at a full Earth. What is different about it?",
-     "kid": "In our lunar eclipse, the Earth hides the Sun from the astronaut. What do they see? In our solar eclipse, what is on the Earth?",
+     "kid": "Say what the astronaut sees at mark 180, when the Earth hides the Sun. Say what is dark on the Earth at mark 0.",
      "parent": "In our lunar eclipse the astronaut sees the black Earth cover the Sun. The Earth looks nearly four times as wide as the Sun from there. A thin red ring of air glows all round the Earth. In our solar eclipse the astronaut sees a full Earth with one small dark spot moving across it. The spot is the Moon's shadow, at most about 270 km wide on an Earth 12,742 km wide.",
      "check": {
       "t": "mcq",
@@ -2122,7 +2122,7 @@
      "mins": 4,
      "do": "1. Read the seven lines of the rule card aloud. 2. Remind your child of The Shadow That Runs Out. There each dark shadow ended at a fixed length. 3. Say that the Moon's dark shadow is about 375,000 km long. 4. Cut out the cards and give each player a score sheet.",
      "say": "In The Shadow That Runs Out, every dark shadow had an end. The Moon's dark shadow ends about 375,000 kilometres behind it. If the ground is further away than that, what do people see?",
-     "kid": "The Moon's dark shadow is about 375,000 km long. If the ground is further away, the shadow misses. Cut out the cards.",
+     "kid": "The Moon's dark shadow is about 375,000 km long. Think about what happens if the ground is further away. Cut out the cards.",
      "context": "This is the first step of Total, Ring, Part or Miss. You read the rule card, which uses the length of the Moon's dark shadow, and get the cards ready."
     },
     {
@@ -2218,7 +2218,7 @@
      "what": "Two evenings later again: measure, draw and judge. Then plot your five points on the graph and compare."
     }
    ],
-   "record": "Keep a table with the date, the days since Amavasya, and the angle in fists and in degrees. Add a drawing of the Moon and the percent lit that you judged. Plot the five points on your graph of percent lit against degrees.",
+   "record": "Keep a table with the date, the days since Amavasya, and the angle in fists and in degrees. Add a photo or drawing of the Moon and the percent lit that you judged. Plot the five points on your graph of percent lit against degrees.",
    "setup": [
     {
      "art": "A child on a terrace just after sunset with one arm stretched out and the fist closed, lined up with the glow on the western horizon.",
@@ -2237,7 +2237,7 @@
     {
      "id": "s1",
      "mins": 12,
-     "do": "Day 1, three days after Amavasya, just after sunset. 1. Hold your fist at arm's length. Count how many fists fit from the horizon to straight overhead. 2. Divide 90 by that number. That is the number of degrees one fist covers. 3. Find the Moon. Step your fist from the sunset point to the Moon and count. 4. Draw the Moon and judge the percent lit.",
+     "do": "Day 1, three days after Amavasya, just after sunset. 1. Hold your fist at arm's length. Count how many fists fit from the horizon to straight overhead. 2. Divide 90 by that number. That is the number of degrees one fist covers. 3. Find the Moon. Step your fist from the sunset point to the Moon and count. 4. Take a photo of the Moon, or draw it. Judge the percent lit.",
      "say": "First we find out how big your fist is against the sky. Horizon to overhead is ninety degrees. Then we count fists from where the Sun went down to the Moon. How much of the Moon looks lit?",
      "kid": "Wait until the Sun has set. Count fists from the horizon to overhead. Divide 90 by that number. Then count fists from the sunset point to the Moon.",
      "adult": true,
@@ -2256,9 +2256,9 @@
     {
      "id": "s2",
      "mins": 30,
-     "do": "Days 2, 3 and 4, two evenings apart. 1. Go out just after sunset. 2. Count the fists from the sunset point to the Moon. Change the fists to degrees. 3. Draw the Moon. Judge the percent lit: about 10, 25, 50, 75 or 90. 4. Before you look, use your graph to predict the percent from the angle.",
+     "do": "Days 2, 3 and 4. Each visit is two evenings after the one before. 1. Go out just after sunset. 2. Count the fists from the sunset point to the Moon. Change the fists to degrees. 3. Take a photo of the Moon, or draw it. Judge the percent lit: about 10, 25, 50, 75 or 90. 4. Before you look, use your graph to predict the percent from the angle.",
      "say": "How far has the Moon moved from the Sun in two days? Use your graph to predict how much will be lit. Then look and see.",
-     "kid": "Go out after sunset. Count fists from the sunset point to the Moon. Predict the percent lit from your graph. Then look, and draw the Moon.",
+     "kid": "Go out after sunset. Count fists from the sunset point to the Moon. Predict the percent lit from your graph. Then look, and photograph or draw the Moon.",
      "adult": true,
      "wait": "Do this every second evening for about a week",
      "ask": [
@@ -2276,7 +2276,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "Day 5 of the diary. 1. Measure, predict, draw and judge once more. 2. Plot all five evenings as points on the graph from How Much of the Moon Is Lit. 3. Ask your child how well the real Moon follows the line. 4. Ask what could explain the points that are off the line.",
+     "do": "Day 5, two evenings after day 4. 1. Measure, predict, photograph or draw, and judge once more. 2. Plot all five evenings as points on the graph from How Much of the Moon Is Lit. 3. Ask your child how well the real Moon follows the line. 4. Ask what could explain the points that are off the line.",
      "say": "Plot your five evenings on the graph. Do the points follow the line from the sock Moon? Where they do not, what might be the reason?",
      "kid": "Plot your five evenings on your graph. Do the points follow the line? Say why some might be off.",
      "adult": true,
@@ -2361,7 +2361,7 @@
      "mins": 10,
      "do": "1. Compare the test with the sum. 2. Tell your child about the two spacecraft in the parent note. 3. Ask your child to work out the length of the dark shadow of their disc in sunlight.",
      "say": "Did the smallest disc that worked match your sum? In space, engineers have done this with a disc 1.4 metres wide. How long is its dark shadow in sunlight?",
-     "kid": "Did your sum match the test? A disc in space is 1.4 metres wide. Multiply by 108. How long is its dark shadow?",
+     "kid": "Did your sum match the test? A disc in space is 1.4 metres wide. Multiply by 108.",
      "ask": [
       {
        "q": "How long is the dark shadow of a disc 1.4 metres wide in sunlight?",
@@ -2444,7 +2444,7 @@
      "mins": 12,
      "do": "1. Stand with your back to the Sun, in direct sunlight. 2. Hold the stick with the Moon end towards the Sun. Aim it until the peppercorn's shadow falls on the Earth ball. 3. Look at the shadow on the ball. Is there a dark dot, or only a grey smudge? 4. Tip the stick slowly until the shadow leaves the ball. Measure how far the far end moved.",
      "say": "Keep your back to the Sun. Look only at the Earth ball. Can you land the Moon's shadow on it? What does the shadow look like? How far can you tip the stick before it misses?",
-     "kid": "Keep your back to the Sun. Aim the stick. Land the Moon's shadow on the Earth ball. Is it a dark dot or a grey smudge?",
+     "kid": "Keep your back to the Sun. Aim the stick. Land the Moon's shadow on the Earth ball.",
      "adult": true,
      "ask": [
       {
@@ -2463,7 +2463,7 @@
      "mins": 10,
      "do": "1. Turn the stick end for end, so that the Earth ball is towards the Sun. 2. Aim it until the Earth ball's shadow covers the peppercorn. 3. Tip the stick slowly until the peppercorn comes out of the dark shadow. Measure how far the far end moved. 4. Ask your child which eclipse was easier to make, and why.",
      "say": "Now let the Earth's shadow fall on the Moon. How much of the peppercorn is covered? Which eclipse was easier to make? Why do you think so?",
-     "kid": "Turn the stick round. Let the Earth's shadow cover the peppercorn. Which eclipse was easier to make? Say why.",
+     "kid": "Turn the stick round. Let the Earth's shadow cover the peppercorn.",
      "adult": true,
      "ask": [
       {

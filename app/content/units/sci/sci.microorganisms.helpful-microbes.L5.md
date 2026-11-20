@@ -276,7 +276,7 @@ Washed is not the same as dry.
   *Parent says:* Every preserved food has one or more hurdles that stop microbes from growing in it. There are seven hurdles on the mat. Let us see if we can tell which food uses which.  
   *Child mode:* Cut out the cards and the mat. Read the seven hurdles. Mix the cards and make a pile.
 - **s2 (12 min)**  
-  *Parent does:* 1. Take turns to read the top card. 2. Say the main hurdle and what the microbes are missing. 3. Turn the card over to check.  
+  *Parent does:* 1. Take turns to read the top card. 2. Say the main hurdle and what the microbes are missing. 3. Turn the card over to check. 4. A right answer: keep the card. A wrong answer: put it on the mat.  
   *Parent says:* Read the card aloud. Which hurdle keeps this food? What are the microbes missing: water, warmth, air, or a place that is not too sour?  
   *Child mode:* Read the card. Say the main hurdle. Say what the microbes are missing. Then turn it over.
   - Ask: Honey and jam are wet. Why are they on the SUGAR space and not the DRY space? (good: They have water, but the sugar holds it.; Sugar and drying both leave too little free water.)
@@ -292,7 +292,7 @@ Washed is not the same as dry.
 - **Printable score sheet: A score sheet:** Guessed after clue 1: 3 points; Guessed after clue 2: 2 points; Guessed after clue 3: 1 point; Right verdict but wrong reason: 0 points
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Explain the three verdicts: spoiled, fermented, only changed. 3. Decide who reads first.  
-  *Parent says:* A food detective asks three questions. Did someone set this to ferment? Is there fuzz, slime, froth or a bad smell? Could air or water alone have done it?  
+  *Parent says:* Spoiled means microbes ruined the food. Fermented means microbes were set to change it on purpose, like idli batter. Only changed means no microbes were involved. A food detective asks three questions. Did someone set this to ferment? Is there fuzz, slime, froth or a bad smell? Could air or water alone have done it?  
   *Child mode:* Cut out the cards. There are three verdicts: spoiled, fermented, or only changed. Choose who reads first.
 - **s2 (12 min)**  
   *Parent does:* 1. The reader reads clue 1. 2. The detective guesses or asks for another clue. 3. A guess must give the verdict and the reason. 4. Turn the card and score.  
@@ -313,18 +313,18 @@ Washed is not the same as dry.
 - **predict:** Guess first. Five glasses of dal water get no salt, a quarter teaspoon, 1 teaspoon, 2 teaspoons and 4 teaspoons. Which glasses will spoil, and which will spoil first? Is there a glass that will not spoil at all? Why do you think so? Write your guess and your reason.
 - **fair test:** Every glass gets dal water from the same pot, in the same amount, in the same kind of glass. All five stand open in the same air for the same 30 minutes. Then they sit side by side in the same place. Only the amount of salt changes. Stir from the least salty glass to the most salty, so the spoon carries no extra salt backwards.
 - **safety:** A grown-up boils and strains the dal. Never taste anything from the glasses, not even on the first day. Smell by waving your hand over the glass towards your nose, not by putting your nose in. At the end, pour everything down the sink and wash the glasses with soap and hot water.
-- **record:** Fill in the table at every check. Write 'same' if a glass looks and smells as it did at the start. Write what changed if it is cloudier, frothy, has a skin on top or smells sour or bad. Then draw a bar chart of the check at which each glass first spoiled. Write one sentence saying what you found (your claim). Write one giving the checks that show it (your evidence). Write one saying why you think it happened (your reasoning).
+- **record:** Fill in the table at every check. Write 'same' if a glass looks and smells as it did at the start. Write what changed if it is cloudier, frothy, has a skin on top or smells sour or bad. Then draw a bar chart of the check at which each glass first spoiled, or build the bars from coins. Write one sentence saying what you found (your claim). Write one giving the checks that show it (your evidence). Write one saying why you think it happened (your reasoning).
 - **results table:** Glass and salt in 100 ml | Day 1 evening | Day 2 morning | Day 2 evening | Day 3 morning | Day 3 evening | Day 4 morning | Number of the check when it first spoiled
 - **schedule:** day 1: Boil and strain the dal water. Guess. Fill five glasses, add the salt, leave them open for 30 minutes, then cover them. Do the first check in the evening. (30 min); day 2: Check all five glasses in the morning and in the evening. Look, smell by waving, and write what you find. (6 min); day 3: Check all five glasses in the morning and in the evening. (6 min); day 4: Do the last check. Draw the bar chart, say what you found, and wash everything. (8 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. A grown-up boils 2 tablespoons of dal in 700 ml of water for 15 minutes. 2. Strain the water into a jug and keep the dal for cooking. 3. Let the dal water cool until it is just warm. 4. While it cools, write labels A, B, C, D and E.  
   *Parent says:* We need a food that microbes like. Dal water has food and water in it. Let's make some and let it cool.  
-  *Child mode:* A grown-up boils the dal and strains it. Let the dal water cool. Write five labels: A, B, C, D and E.
+  *Child mode:* Write five labels: A, B, C, D and E, while the dal water cools.
   - Note: The dal water should be thin and you should be able to see through it a little. If it is thick, add boiled water. Cooling takes about 30 minutes, so start the guessing step while you wait.
 - **s2 (5 min)**  
   *Parent does:* 1. Show your child the five labels and the salt. 2. Tell them how much salt each glass will get. 3. Ask for a guess and a reason, and write both down.  
   *Parent says:* Glass A gets no salt. B gets a quarter teaspoon, C gets 1, D gets 2 and E gets 4. Which will spoil? Which will spoil first? Why do you think so?  
-  *Child mode:* Glass A gets no salt. Glass E gets the most. Which glasses will spoil? Which one first? Say why. Write your guess.
+  *Child mode:* Glass A gets no salt. Glass E gets the most. Which glass will spoil first? Say why. Write your guess.
   - Ask: We put a little salt in dal when we cook it. Do you think that salt helps the dal keep? (good: Maybe a little.; No, because cooked dal with salt still spoils by the next day.)
   - Note: Many children guess that any salt will help, and that more salt helps a little more each time. Do not correct the guess. The glasses will answer.
 - **s3 (8 min)**  
@@ -346,9 +346,9 @@ Washed is not the same as dry.
   - Note: In a warm kitchen, glasses A and B usually turn cloudy and smell sour by check 2 or 3. Glass C often spoils later, or not within three days. D and E usually stay as they were. In a cool room everything is slower, so go on for two more days.
   - Wait: Check every morning and evening on day 2 and day 3
 - **s6 (11 min)**  
-  *Parent does:* 1. On the morning of day 4, do the last check. 2. For each glass, find the number of the check at which it first spoiled. If it never spoiled, write 7. 3. Draw a bar chart with one bar for each glass. 4. Ask your child the question below. 5. Pour everything away and wash up with soap and hot water.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then tell me: how much salt was enough?  
-  *Child mode:* Do the last check. Draw a bar for each glass. Say what you thought would happen, what you saw, and why it happened.
+  *Parent does:* 1. On the morning of day 4, do the last check. 2. For each glass, find the number of the check at which it first spoiled. Count the evening of day 1 as check 1. If it never spoiled, write 7. 3. Draw a bar chart with one bar for each glass, or build the bars from coins. 4. Ask your child the question below. 5. Pour everything away and wash up with soap and hot water.  
+  *Parent says:* Look at your bars. Which glass spoiled first? How much salt was enough?  
+  *Child mode:* Do the last check. Show each glass as a bar. Say what you thought would happen, what you saw, and why it happened.
   - Ask: Glass E is still mostly water. Why did microbes not grow there? (good: The salt holds on to the water, so the microbes are unable to take any in.; Water moves out of the microbes into the salty water.)
   - Ask: Pickle is very salty. Could we make pickle with only a little salt? (good: No. A little salt did not stop the dal water from spoiling.; It would spoil unless something else, like the fridge or sourness, helped.)
   - Note: If glass C spoiled late, point to it: it shows that the change from 'spoils' to 'keeps' happens somewhere between 1 and 2 teaspoons. That is 6 to 12 grams in 100 ml, about the strength of pickling brine.
@@ -363,7 +363,7 @@ Washed is not the same as dry.
 - **schedule:** day 1: Guess. Mix the thin, medium and thick glasses. Add a pinch of atta to each, cover them and put them in a warm place. (15 min); day 2: Look for bubbles, froth and cloudiness, and smell by waving. Write what you find. (3 min); day 3: Check and write again. (3 min); day 4: Check and write again. (3 min); day 5: Do the last check and say what you found. Then thin one spoon of the thick syrup with water in a new glass. (18 min); day 8: Look at the thinned glass after three days. Write what you find, and pour everything away. (3 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the jaggery, the water and the three labels: Thin, Medium, Thick. 2. Say how each will be mixed. 3. Ask for a guess and a reason. Write both down.  
-  *Parent says:* Yeasts eat sugar and make bubbles. One glass will have a little jaggery, one more, and one will be thick syrup. Which will ferment first? Why do you think so?  
+  *Parent says:* Yeasts are tiny living things. They eat sugar and make bubbles. One glass will have a little jaggery, one more, and one will be thick syrup. Which will ferment first? Why do you think so?  
   *Child mode:* Yeasts eat sugar. One glass is thin, one is medium, one is thick syrup. Which will bubble first? Say why. Write your guess.
   - Note: Most children guess the thick syrup, because it has the most food for the yeasts. That is a sensible guess. Do not correct it.
 - **s2 (8 min) · grown-up needed**  
@@ -384,7 +384,7 @@ Washed is not the same as dry.
   - Wait: Check once a day on days 2, 3 and 4
 - **s5 (9 min)**  
   *Parent does:* 1. On day 5, do the last check. 2. Circle the first day each glass changed. 3. Ask your child to explain the result, and ask the questions below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. The thick glass had the most sugar. So why did the yeasts not grow there?  
+  *Parent says:* Look at your table. Which glass changed first, and which changed last?  
   *Child mode:* Do the last check. Say what you thought would happen, what you saw, and why it happened.
   - Ask: The thick syrup had the most food for yeasts. Why did it change the least? (good: There was too little water that the yeasts could use.; The sugar holds on to the water.; Water moves out of the yeast cells into the syrup.)
   - Ask: How could we test whether the thick syrup harms the yeasts, or is only short of water? (good: Add water to some of the thick syrup and see if it ferments then.)
@@ -402,7 +402,7 @@ Washed is not the same as dry.
 - **predict:** Guess first. Six tomato slices will dry in the sun for three days. Will they end at about half their weight, a quarter, or less? Three more slices will be sealed in a clean jar. Which will spoil first, the open slices or the sealed ones? Why do you think so? Write your guesses and your reasons.
 - **fair test:** All the slices come from the same tomatoes and are cut to the same thickness. Only one thing differs. One set loses water in the sun and moving air. The other set keeps all its water in a closed jar.
 - **safety:** A grown-up does the cutting. These slices are for testing, not for eating. Do not open the jar of sealed slices indoors once they have gone mouldy. Throw a zip bag away closed. Empty a jar straight into the wet waste, at arm's length, and wash it with hot water and soap.
-- **record:** Each day, write the weight of the six sun slices, and how both sets look. On day 4, subtract the last weight from the first to find the water that left. Draw a line graph of weight against day. Write what you found (your claim), the numbers that show it (your evidence) and why you think it happened (your reasoning).
+- **record:** Each day, write the weight of the six sun slices, and how both sets look. On day 4, subtract the last weight from the first to find the water that left. Draw a line graph of weight against day, or write the weights in a row. Write what you found (your claim), the numbers that show it (your evidence) and why you think it happened (your reasoning).
 - **results table:** Day | Weight of the six sun slices (grams) | How the sun slices look and feel | How the jar slices look
 - **schedule:** day 1: Guess. A grown-up slices the tomatoes. Weigh six slices and put them in the sun under a cloth. Seal three slices in a jar on the kitchen shelf. (20 min); day 2: Weigh the sun slices and turn them over. Look at the jar slices without opening the jar. (5 min); day 3: Weigh, turn and look again. (5 min); day 4: Weigh the sun slices once more. Work out how much water left. Compare the two sets and explain. (15 min)
 - **s1 (4 min)**  
@@ -431,8 +431,8 @@ Washed is not the same as dry.
   - Note: The sun slices usually lose more than half their weight on the first sunny day. The jar slices usually sit in a pool of juice by day 2 or 3. They may show slime or fuzz by day 3 to 5.
   - Wait: Weigh and look once a day on day 2 and day 3
 - **s6 (15 min)**  
-  *Parent does:* 1. On day 4, weigh the sun slices once more. 2. Subtract the last weight from the first weight. That is the water that left. 3. Draw a line graph of the four weights. 4. Compare the sun slices with the jar slices. 5. Put the dried slices in a dry, closed jar, and look at them again in a week.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. The jar was clean and closed. So why did those slices spoil?  
+  *Parent does:* 1. On day 4, weigh the sun slices once more. 2. Take the last weight away from the first weight. That is the water that left. 3. Draw a line graph of the four weights, or write them in a row and circle the biggest drop. 4. Compare the sun slices with the jar slices. 5. Put the dried slices in a dry, closed jar, and look at them again in a week.  
+  *Parent says:* Compare the sun slices with the jar slices. Which ones spoiled, and which ones kept?  
   *Child mode:* Weigh the dried slices. Subtract to find the water lost. Say what you thought would happen, what you saw, and why it happened.
   - Ask: The jar was clean and closed. Where did the microbes inside come from? (good: They were already on the tomato skin and the knife.; Microbes are on every food.)
   - Ask: The dried slices sat in open air with microbes landing on them. Why did they not spoil? (good: They had too little water left for microbes to grow.)
@@ -442,7 +442,7 @@ Washed is not the same as dry.
 
 ## Activities
 ### a1 · The Longest-Lasting Shelf: which foods keep, and what are they like? (20 min)
-- **record:** Draw a table with three columns: the food, how long it keeps, and what it is like (dry, salty, very sweet, sour, under oil, sealed, or cold). Under the table, write one sentence about what the long-lasting foods have in common.
+- **record:** Make a table with three columns: the food, how long it keeps, and what it is like (dry, salty, very sweet, sour, under oil, sealed, or cold). Under the table, write one sentence about what the long-lasting foods have in common.
 - **s1 (8 min)**  
   *Parent does:* 1. Ask your child to find eight foods in the kitchen that keep for months without a fridge. 2. For packets, read the 'best before' line. 3. Write each food and how long it keeps.  
   *Parent says:* Which foods in our kitchen have been here the longest? Find eight that keep for months. Read the label where there is one.  
@@ -461,7 +461,7 @@ Washed is not the same as dry.
   - Note: Your child may notice that every long-lasting food is dry, salty, very sweet, sour, oily, sealed or cold. Write down their own words. The experiments that follow test why.
   - Check: Raw rice keeps for a year. Cooked rice spoils in a day. What did cooking change? → **Cooking added water to the rice**
 ### a2 · Count the Hurdles: read a pickle jar, a jam jar and a sauce bottle (15 min)
-- **record:** Draw a table. Down the side, write each food. Across the top, write the hurdles: dry, salt, sugar, sour, oil, heated and sealed, added preservative, cold after opening. Tick each hurdle a food uses, and write the total.
+- **record:** Make a table. Down the side, write each food. Across the top, write the hurdles: dry, salt, sugar, sour, oil, heated and sealed, added preservative, cold after opening. Tick each hurdle a food uses, and write the total.
 - **s1 (3 min)**  
   *Parent does:* 1. Collect four or five preserved foods with labels. 2. Find the ingredients list on each. 3. Tell your child that ingredients are listed from the largest amount to the smallest.  
   *Parent says:* On a label, the first ingredient is the one there is most of. What comes first on the jam? What comes first on the pickle?  
@@ -472,9 +472,9 @@ Washed is not the same as dry.
   *Child mode:* Read each label aloud. Tick every hurdle the food uses. Look for 'refrigerate after opening' too.
   - Note: Some help with label words: 'acidity regulator (260)' is the acid of vinegar and '(330)' is the acid of lemons. 'Preservative (211)' is sodium benzoate and '(202)' is potassium sorbate. A jar or bottle that was sealed in a factory was almost always heated first.
 - **s3 (5 min)**  
-  *Parent does:* 1. Count the ticks for each food. 2. Ask which food uses the most hurdles and which uses only one. 3. Ask the question about the storage line.  
-  *Parent says:* Which food has the most hurdles? Which keeps with only one? Why does a jar say 'refrigerate after opening' and not before?  
-  *Child mode:* Count the ticks. Which food has the most hurdles? Why keep a jar cold only after opening?
+  *Parent does:* 1. Count the ticks for each food. 2. Ask which food uses the most hurdles and which uses only one. 3. Ask your child to read the storage line on the jam jar.  
+  *Parent says:* Which food has the most hurdles? Which keeps with only one? Read me the storage line on the jam jar.  
+  *Child mode:* Count the ticks. Which food has the most hurdles?
   - Ask: Honey and dry rice each have only one hurdle. Why is one enough for them? (good: They have so little free water that nothing grows.; That one hurdle is very strong.)
   - Note: A typical tomato sauce uses five hurdles: vinegar, sugar, salt, heating and sealing, and sometimes an added preservative.
   - Check: A jam jar says 'refrigerate after opening'. Why is the fridge not needed before opening? → **The jar was heated and sealed**
@@ -490,8 +490,8 @@ Washed is not the same as dry.
   - Wait: Leave all three overnight
 - **s2 (7 min)**  
   *Parent does:* 1. Next morning, snap each biscuit in turn. 2. Listen for the snap and feel whether it bends. 3. Ask where the water in the soft biscuit came from. 4. Throw away biscuit 3.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. No water touched this biscuit. So how did it get soft?  
-  *Child mode:* Snap each biscuit. Which ones bend? Say what you thought would happen, what you saw, and why it happened.
+  *Parent says:* Snap each one and listen. Which one still snaps? Which one bends?  
+  *Child mode:* Snap each biscuit. Say what you thought would happen, what you saw, and why it happened.
   - Ask: How did water reach the biscuit under the bowl? (good: It went into the air from the damp cloth, and from the air into the biscuit.; As water vapour that we do not see.)
   - Ask: Why do some food packets hold a small sachet that says 'do not eat'? (good: The sachet takes water out of the air in the packet, so the food stays dry.)
   - Note: Biscuit 1 should snap cleanly and biscuit 3 should bend. Biscuit 2 depends on your weather: it softens on a humid night and may stay crisp in dry winter air. Either result is worth talking about.
@@ -499,9 +499,9 @@ Washed is not the same as dry.
 ### a4 · The Preserving Map of India (25 min)
 - **record:** Your map is the record. Beside each food, write the hurdle or hurdles that keep it: dry, salt, sugar, sour, oil, smoke or fermenting.
 - **s1 (12 min)**  
-  *Parent does:* 1. Draw a large outline of India. 2. Read the twelve foods to your child, one at a time: hokh syun, dried vegetables of Kashmir. Chhurpi, hard dried cheese of Ladakh. Amla murabba of Uttar Pradesh. Ker sangri, dried desert beans and berries of Rajasthan. Chhundo, mango cooked in sugar, of Gujarat. Kokum, dried salted fruit rind of Konkan and Goa. Avakaya of Andhra Pradesh and Telangana. Vathal of Tamil Nadu. Dried salted fish of Kerala. Badi, sun-dried dal drops of Odisha. Gundruk, fermented and dried greens of Sikkim. Smoked meat of Nagaland. 3. Your child draws each food in the right place.  
-  *Parent says:* Find each place on the atlas first. Then draw the food there. Before I tell you, guess how each one is kept.  
-  *Child mode:* Draw India. Find each place in the atlas. Draw the food there. Guess how each food is kept.
+  *Parent does:* 1. Draw or trace a large outline of India from the atlas. 2. Read the twelve foods to your child, one at a time: hokh syun, dried vegetables of Kashmir. Chhurpi, hard dried cheese of Ladakh. Amla murabba of Uttar Pradesh. Ker sangri, dried desert beans and berries of Rajasthan. Chhundo, mango cooked in sugar, of Gujarat. Kokum, dried salted fruit rind of Konkan and Goa. Avakaya of Andhra Pradesh and Telangana. Vathal of Tamil Nadu. Dried salted fish of Kerala. Badi, sun-dried dal drops of Odisha. Gundruk, fermented and dried greens of Sikkim. Smoked meat of Nagaland. 3. Your child writes each food's name on a small paper slip and puts the slip in the right place on the map.  
+  *Parent says:* Find each place on the atlas first. Then put the food's slip there. Before I tell you, guess how each one is kept.  
+  *Child mode:* Draw India, or trace it from the atlas. Find each place. Put the food's slip there. Guess how each food is kept.
   - Note: The hurdles are: hokh syun, chhurpi, ker sangri and badi are dried. Murabba and chhundo use sugar. Kokum and dried fish are salted and dried. Avakaya uses salt, sour mango and oil. Vathal is salted and dried. Gundruk is fermented and then dried. Smoked meat is dried by heat and kept by smoke.
 - **s2 (6 min)**  
   *Parent does:* 1. Beside each food, your child writes the hurdle. 2. Ask where on the map most of the dried foods are, and where the smoked and fermented ones are. 3. Ask why.  
@@ -530,8 +530,8 @@ Washed is not the same as dry.
   - Wait: Add to the list on day 2
 - **s3 (8 min)**  
   *Parent does:* 1. On day 3, add the new plants and count the total. 2. Compare the total with the guess. 3. Ask which single dish held the most plants. 4. Ask for one way to add three new plants next week.  
-  *Parent says:* How many plants in three days? Was your guess close? Which dish had the most plants in it? How could you add three more next week?  
-  *Child mode:* Count your plants. Was your guess close? Which dish had the most? How could you add three more?
+  *Parent says:* Let us count your plants. How many in three days? Which dish had the most plants in it?  
+  *Child mode:* Was your guess close? How could you add three more plants next week?
   - Ask: Why might more kinds of plants mean more kinds of gut microbes? (good: Different microbes feed on different kinds of fibre.; More kinds of food can feed more kinds of microbes.)
   - Note: One large study counted the plants people ate in a week. Those who ate 30 or more kinds had more kinds of gut microbes. Those who ate fewer than 10 kinds had fewer. A family eating sambar, dal, sabzi and fruit often passes 30 in a week. Do not turn the number into a rule or a worry.
   - Check: Why do your gut microbes depend on the plants you eat? → **They feed on fibre that you cannot digest**
@@ -539,7 +539,7 @@ Washed is not the same as dry.
 ## Projects
 ### p1 · My Own Keeping Trial: design a test and write a report (60 min, 6 days)
 - **safety:** A grown-up grates the carrot. This trial is for looking and smelling, not for eating. Smell by waving your hand over the jar. Pour or scrape everything into the wet waste at the end, and wash the jars with hot water and soap.
-- **record:** Your report has five parts on one page: my question, what I did, my results table, what I found, and what I would test next. Add a drawing of the four jars on the last day.
+- **record:** Your report has five parts on one page: my question, what I did, my results table, what I found, and what I would test next. Add a drawing or a photo of the four jars on the last day.
 - **schedule:** day 1: Choose three methods and write your plan and your guesses. Set up four jars: one plain and three treated. (25 min); day 2: Look and smell. Write what you find for each jar. (4 min); day 3: Look, smell and write. (4 min); day 4: Look, smell and write. (4 min); day 5: Look, smell and write. (4 min); day 6: Do the last check. Rank the four jars and write your report. (19 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Ask your child to choose three methods from what they have learned. 2. For each, they decide the amount, for example 1 teaspoon of salt to 2 tablespoons of carrot. 3. They write a guess for each jar, with a reason. 4. They write what will stay the same in every jar.  
@@ -559,7 +559,7 @@ Washed is not the same as dry.
   - Wait: Check once a day from day 2 to day 5
 - **s4 (19 min)**  
   *Parent does:* 1. On day 6, do the last check. 2. Rank the four jars from best kept to worst. 3. Your child writes the one-page report. 4. They read it aloud to someone in the family.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Which method worked best? What would you change if you ran the trial again?  
+  *Parent says:* Look at the four jars. Which method worked best? What would you change if you ran the trial again?  
   *Child mode:* Rank your jars. Write your report. Say what you thought would happen, what you saw, and why it happened.
   - Ask: One of your methods did not work. What does that tell you? (good: Maybe the amount was too small.; Maybe that method needs another hurdle with it.)
   - Check: One jar of carrot gets salt, lemon juice and the fridge together. That jar keeps best. What can you say? → **You cannot tell which one did the work**
@@ -573,11 +573,11 @@ Washed is not the same as dry.
 - **creative:** Mix rice with milk and one spoon of curd in the morning. By lunchtime the curd bacteria have made fresh curd rice.; Carry dry parts and wet parts separately, and mix them at mealtime. Sattu powder with water, or puffed rice with chopped onion, works this way.; Pack each meal in its own closed box, so opening one does not let microbes into the others.; Plan the order: the wettest and least sour food is eaten first, and the driest last.
 - **s1 (6 min)**  
   *Parent does:* 1. Read the problem together. 2. Ask your child to list foods that would not last 30 hours in a warm coach. 3. Ask why each would spoil.  
-  *Parent says:* First, what would go wrong? Which foods from our usual meals would spoil in a warm train by the next day? Why?  
+  *Parent says:* First, let us see what would go wrong. Think of our usual meals and a warm train coach.  
   *Child mode:* Read the problem. Which of our usual foods would spoil by the next day? Say why.
   - Ask: Why would plain rice and dal spoil? (good: They are wet, warm and not sour or salty, so bacteria multiply fast.)
 - **s2 (14 min)**  
-  *Parent does:* 1. Your child rules the table and fills in four meals and two snacks. 2. For each, they write the hour it is eaten and its hurdles. 3. Check the plan against the five rules.  
+  *Parent does:* 1. Your child makes a table. Its columns are meal, hour, foods and hurdles. They fill in four meals and two snacks. 2. For each, they write the hour it is eaten and its hurdles. 3. Check the plan against the five rules.  
   *Parent says:* Plan the first meal for hour 4 and the last for hour 30. For each food, tell me which hurdle keeps it safe until then.  
   *Child mode:* Fill in your table. Write the hour for each meal. Write the hurdle that keeps each food safe.
   - Note: Ask an older relative how they packed food for trains. Many families have a set journey menu, and each item in it uses a hurdle. A food in the plan may have no hurdle. Ask your child to move that food to the first meal, or replace it.
@@ -590,24 +590,24 @@ Washed is not the same as dry.
   - Wait: Leave the packed item for 12 hours
 ### c2 · The Fly-Proof Dryer: dry faster than an open plate (40 min)
 - **problem:** Food dried on an open plate dries slowly, and flies and dust can reach it. Build a dryer from things at home. It must dry a wet cloth faster than an open plate does, and no fly may get in. The wet cloth stands in for slices of food.
-- **your turn:** Now build your own dryer and test it against an open plate. Draw your design, mark where the air goes in and out, and write which change made the biggest difference.
+- **your turn:** Now build your own dryer and test it against an open plate. Draw your design, or show it with the parts, mark where the air goes in and out, and write which change made the biggest difference.
 - **constraints:** Use only things already at home.; Air must be able to pass through the dryer.; No fly may be able to land on the cloth inside.; The cloth inside must not touch the floor.; Test the dryer and an open plate side by side, in the same place, for the same time.
 - **general:** Line the bottom with black paper, which takes in sunlight and warms up.; Raise the food on a rack, so air reaches it from below as well.; Cover the top with net or thin cloth, so air passes and flies do not.; Tilt the dryer to face the sun.
 - **creative:** Cut holes low on one side and high on the other. Warm air rises and leaves at the top, and pulls fresh air in below.; Line a flap with foil to throw extra sunlight in.; Hang the pieces from threads, so both sides dry at once.; With no sunny spot, design for moving air and stand the dryer under a fan.
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem together. 2. Ask your child what makes wet clothes dry fast on a washing line. 3. Write their list.  
   *Parent says:* On a washing line, when do clothes dry fastest? What does that tell you about what a dryer needs?  
-  *Child mode:* Read the problem. When do wet clothes dry fastest? Write your list.
+  *Child mode:* Read the problem. Think about wet clothes on a washing line. Write your list.
   - Ask: What makes wet clothes dry fastest? (good: Sun or warmth.; Wind or moving air.; Being spread out, not bunched up.; Dry air, not damp air.)
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* 1. Your child draws a design and marks where the air goes in and out. 2. Build it together from the box, the net and the rack. 3. Check it against the five rules.  
+  *Parent does:* 1. Your child draws a design, or lays out the parts, and marks where the air goes in and out. 2. Build it together from the box, the net and the rack. 3. Check it against the five rules.  
   *Parent says:* Draw your design first. Show me where the air gets in and where it gets out. Then we build it.  
-  *Child mode:* Draw your design. Mark where air goes in and out. Then build it. Check the five rules.
+  *Child mode:* Draw your design, or show it with the box parts. Mark where air goes in and out. Then build it. Check the five rules.
   - Note: A grown-up does any cutting of cardboard. Do not correct the design before the test. The test will show what to change.
 - **s3 (15 min)**  
   *Parent does:* 1. Wet both cloth squares with 2 teaspoons of water each. 2. Put one inside the dryer and one on an open plate beside it. 3. After one hour, hang one in each cup of the hanger balance. 4. The side that hangs lower holds more water. 5. Change one thing in the design and test again.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Which cloth is lighter now? What one thing will you change?  
-  *Child mode:* Wet both cloths. Put one in the dryer and one on a plate. After one hour, compare them on the balance.
+  *Parent says:* Look at the balance. Which cloth is lighter now? What one thing will you change?  
+  *Child mode:* Wet both cloths. Put one in the dryer and one on a plate. After one hour, compare them on the balance. Say what you thought would happen, what you saw, and why it happened.
   - Note: If the open plate wins, that is a real result. A cover slows the air. Ask your child how to get more air through without letting flies in.
   - Check: A dryer has a solid lid and no holes. The cloth inside stays wet. What is the most likely reason? → **The damp air inside has nowhere to go**
   - Wait: Leave both cloths for one hour

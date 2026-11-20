@@ -375,7 +375,7 @@ Chinni drank it and pulled a face.
 - **s2 (5 min)**  
   *Parent does:* 1. Tell your child the plan: one dose is 2 teaspoons, and half the glass is poured away before every new dose. 2. Ask for the guess and the reason. 3. Write both down.  
   *Parent says:* A body removes half of a medicine every few hours. Then the next dose arrives. After six doses, how much tea will be in the glass? Will it be darker than TWO DOSES? Why do you think so?  
-  *Child mode:* Six doses will go in. Half is poured away each time. How much tea stays? Why?
+  *Child mode:* Guess how the glass will look after six doses. Say why.
   - Ask: Six doses of 2 teaspoons make 12 teaspoons. Will all 12 be in the glass at the end? (good: No, some is poured away each time.; I think half of it will go.; I think most of it stays, because we keep adding.)
   - Note: Do not correct the guess. Many children expect the glass to grow darker without limit.
 - **s3 (6 min)**  
@@ -398,8 +398,8 @@ Chinni drank it and pulled a face.
   - Note: After three double doses the glass holds 7 teaspoons and is clearly darker than TWO DOSES. If TWO DOSES stood for the highest safe level, this body is now above it.
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your numbers. Say what you thought would happen, what you saw, and why you think it happened. Why did the level stop near 4 teaspoons?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Parent says:* Look at your numbers. What did you guess, and what did you see?  
+  *Child mode:* Look at your table. Does the level keep rising?
   - Ask: Why did the tea stop rising near 4 teaspoons? (good: When the glass holds 4 teaspoons, each pour removes 2 teaspoons, and each dose adds 2 teaspoons.; The more tea in the glass, the more each pour takes away.)
   - Ask: What does this tell you about taking two doses at once after a missed dose? (good: The level goes higher than it was meant to go.; It could go above the safe level, so a grown-up asks the doctor instead.)
   - Note: The reason: each pour removes half of whatever is there. A fuller glass loses more. When the glass holds about 4 teaspoons, the pour removes 2 and the dose adds 2, so the level stays. A body treats most medicines this way. The makers choose the dose and the gap so that the level stays between too little and too much. Real bodies remove medicines little by little, and the pour does it all at once. So the glass is a model.
@@ -425,7 +425,7 @@ Chinni drank it and pulled a face.
   - Note: Let your child reach the idea of a second glass by themselves if they can. Do not say what you expect to happen.
 - **s3 (10 min)**  
   *Parent does:* 1. Pour 1 cup of water into each glass and stand them on the slips A and B. 2. Your child looks away. Stir 1 level teaspoon of sugar into one glass until it has dissolved. Write which glass on the folded slip. 3. Your child keeps 3 stems on the plate. 4. They cut a fingernail's width off the bottom of the other 12. 5. They toss a coin for each stem: heads goes to A, tails to B. When one glass has 6, the rest go to the other.  
-  *Parent says:* I will put sugar in one glass while you look away. Then you toss a coin for each stem. Why should a coin choose, and not you? Why should you not know which glass has the sugar?  
+  *Parent says:* I will put sugar in one glass while you look away. Then you toss a coin for each stem to choose its glass.  
   *Child mode:* Look away while the sugar goes in. Toss a coin for each stem. Six in each glass.
   - Ask: Why does a coin choose the glass for each stem? (good: So I cannot put the better stems in one glass.; Chance is fair to both glasses.)
   - Ask: Why should the person counting not know which glass has the sugar? (good: They might count more kindly for the glass they expect to win.)
@@ -445,7 +445,7 @@ Chinni drank it and pulled a face.
 - **s6 (12 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your counts. Say what you thought would happen, what you saw, and why you think it happened. What did the sugar add?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Which group did best? Tell your grown-up why.
   - Ask: Suppose you had only the sugar glass. What would you have believed? (good: That sugar revives wilted stems.; I would have given the sugar the credit.)
   - Ask: What did the stems on the dry plate show? (good: Stems do not recover without water.; The water was what the stems needed.)
   - Ask: How is this like a cold and a remedy? (good: A cold ends anyway, so the remedy gets credit it has not earned.; You need people who took nothing, to compare.)
@@ -518,8 +518,8 @@ Chinni drank it and pulled a face.
   - Note: Answers: 1. Pretendol. 2. 7.5 millilitres. 3. 8.15 in the evening. 4. 30 millilitres, which is 4 doses of 7.5. 5. No. The expiry is February 2027. 6. A doctor, because the label says Rx. A grown-up then gives it.
 - **s3 (4 min)**  
   *Parent does:* Ask the two questions below, and then the check.  
-  *Parent says:* The measuring cup is lost. May the grown-up use a kitchen teaspoon? And why does the dose depend on the child's weight?  
-  *Child mode:* The measuring cup is lost. Is a kitchen spoon good enough? Why not?
+  *Parent says:* The measuring cup is lost. Could the grown-up use a kitchen teaspoon instead?  
+  *Child mode:* The measuring cup is lost. Say why a kitchen spoon might give too much or too little.
   - Ask: Why does a heavier child get a bigger dose? (good: The medicine spreads through a bigger body, so it is weaker in the blood.; The same spoonful makes a thinner mixture in a bigger body.)
   - Note: A kitchen teaspoon may hold 3 millilitres or 7, so it is not a measure. A chemist will give a measuring cup or a marked dropper.
   - Check: A label says 'every 6 hours, not more than 4 doses in 24 hours'. A dose was missed. What should the grown-up do? → **Give the usual dose and ask the doctor or chemist**
@@ -527,18 +527,18 @@ Chinni drank it and pulled a face.
 - **record:** Keep the drawing. Under it, write in one sentence why a tablet for a headache also reaches the toes.
 - **s1 (5 min)**  
   *Parent does:* 1. Your child draws a body outline, about as long as their arm. 2. Ask the question below. 3. They draw their own idea of the path in pencil.  
-  *Parent says:* A person with a sore toe swallows a tablet. How does the medicine get from the mouth to the toe? Draw what you think happens inside.  
-  *Child mode:* A tablet is swallowed for a sore toe. How does it reach the toe? Draw your idea.
+  *Parent says:* A person with a sore toe swallows a tablet. How does the medicine get from the mouth to the toe? Show what you think happens inside. Draw it, or point and tell me.  
+  *Child mode:* A tablet is swallowed for a sore toe. How does it reach the toe? Draw your idea, or point and tell your grown-up.
   - Note: Many children draw a tube from the stomach straight to the sore place. Keep the drawing. Do not correct it yet.
 - **s2 (7 min)**  
-  *Parent does:* 1. Read out the real path, one stop at a time. 2. Your child draws it in red: mouth, food pipe, stomach, small intestine, through the gut wall into the blood, liver, heart, then out to every part. 3. They draw red arrows to the head, the hands, the skin and the toes.  
-  *Parent says:* The tablet dissolves in the stomach. In the small intestine the medicine passes into the blood. The blood goes to the liver, then the heart pumps it everywhere. Draw each stop.  
-  *Child mode:* Draw the real path in red. Mouth, stomach, small intestine, blood, liver, heart, everywhere.
+  *Parent does:* 1. Read out the real path, one stop at a time. 2. Your child lays a red wool thread along the path, or draws it in red: mouth, food pipe, stomach, small intestine, through the gut wall into the blood, liver, heart, then out to every part. 3. They draw red arrows to the head, the hands, the skin and the toes.  
+  *Parent says:* The tablet dissolves in the stomach. In the small intestine the medicine passes into the blood. The blood goes to the liver, then the heart pumps it everywhere. Touch each stop as I read it.  
+  *Child mode:* Follow the real path with the thread, stop by stop, and name each stop.
   - Ask: The medicine was meant for the toe. Where else did it go? (good: It goes everywhere the blood goes.; To the brain, the skin and the stomach too.)
 - **s3 (5 min)**  
-  *Parent does:* 1. In blue, your child draws the way out: the liver changes the medicine, the kidneys filter it from the blood, and it leaves in urine. 2. In green, they mark three other ways in: an inhaler to the lungs, drops on the eye and ointment on the skin.  
-  *Parent says:* Now draw the way out in blue. Then mark in green where an inhaler, eye drops and an ointment go in. Why might a doctor choose one of those?  
-  *Child mode:* Draw the way out in blue. Mark an inhaler, eye drops and ointment in green.
+  *Parent does:* 1. In blue, your child draws the way out, or traces it with a finger and tells it: the liver changes the medicine, the kidneys filter it from the blood, and it leaves in urine. 2. In green, they mark three other ways in: an inhaler to the lungs, drops on the eye and ointment on the skin.  
+  *Parent says:* Now show the way out in blue, with a drawing or a finger. Then mark in green where an inhaler, eye drops and an ointment go in. Why might a doctor choose one of those?  
+  *Child mode:* Show the way out in blue. Mark an inhaler, eye drops and ointment in green.
   - Ask: Why is an asthma medicine breathed in and not swallowed? (good: It goes straight to the lungs, where it is needed.; A much smaller dose is enough, so there are fewer side effects.)
 - **s4 (3 min)**  
   *Parent does:* Put the pencil drawing from the first step beside the coloured one. Ask what changed, and then the check.  
@@ -552,7 +552,7 @@ Chinni drank it and pulled a face.
   *Parent says:* This table shows an ordinary cold with no remedy. Plot each day as a dot and join the dots. What shape do you get?  
   *Child mode:* Plot the ten numbers as dots. Join them. What shape is the line?
 - **s2 (5 min)**  
-  *Parent does:* 1. Ask on which day a person is most likely to reach for a remedy. 2. Your child draws a small spoon on that day. 3. They read the numbers for the next two days.  
+  *Parent does:* 1. Ask on which day a person is most likely to reach for a remedy. 2. Your child puts a small marker, such as a coin or a bean, on that day. 3. They read the numbers for the next two days.  
   *Parent says:* On which day would most people reach for a remedy? Mark it. Now read the chart. How will the person feel two days later, whatever they took?  
   *Child mode:* Which day would people take a remedy? Mark it. How do they feel two days later?
   - Ask: The person took a remedy on day 3 and felt much better by day 5. What will they say about the remedy? (good: That it worked.; That it cured them in two days.)
@@ -565,7 +565,7 @@ Chinni drank it and pulled a face.
   - Check: People usually take a remedy on the worst day of a cold. Why do they nearly always feel better soon after? → **After the worst day, a cold improves anyway**
 ### a5 · The Potato's New Skin: can a living thing close a wound with no medicine? (20 min, 3 days)
 - **safety:** A grown-up does all the cutting. Do not eat this potato afterwards.
-- **record:** Draw the cut face on day 1 and on day 3. Write what the paper strip showed each time, and what you found under the new skin.
+- **record:** Draw the cut face on day 1 and on day 3, or take a photo of each. Write what the paper strip showed each time, and what you found under the new skin.
 - **schedule:** day 1: A grown-up cuts a potato in half. Test the wet cut face with paper and a fingertip. Leave one half cut face up in the open air. (8 min); day 3: Test the cut face again. A grown-up makes a fresh cut beside the old one, and you compare the two faces. (12 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the potato in half. 2. Your child presses a strip of paper on the cut face for ten seconds, and looks at the strip. 3. They rub a fingertip across the face. 4. Put one half on a plate, cut face up, on an open shelf out of the sun. 5. Ask for the guess and the reason.  
@@ -582,7 +582,7 @@ Chinni drank it and pulled a face.
 - **s3 (5 min)**  
   *Parent does:* Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Who closed the potato's wound?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Tell your grown-up what you guessed, what you saw, and why.
   - Ask: Nothing was put on the cut. So what closed it? (good: The potato's own living cells.; The cells near the cut made a new layer.)
   - Note: The reason: the living cells just under the cut build a corky layer, much like the potato's skin. The layer keeps water in and microbes out. Farmers who cut seed potatoes leave the pieces for a few days so that this layer forms before planting. Your skin does a similar job on a scrape. It forms a scab, and new skin grows underneath. No ointment builds the new skin. An ointment can only keep germs out while the skin works.
   - Think: A boiled potato is no longer alive. What do you think happens to a cut in a boiled potato?
@@ -614,7 +614,7 @@ Chinni drank it and pulled a face.
 ## Challenges
 ### c1 · The Lid a Toddler Cannot Open (35 min)
 - **problem:** Every year, small children are poisoned by tablets that they find and swallow. A toddler can pull, twist or press, but usually does only one action at a time. A grandmother may have stiff fingers. Design a closure for a small box. A toddler must fail to open it, and a grown-up must open it within 10 seconds.
-- **your turn:** Now build your own closure. Write one line of instructions on the box. Time a grown-up opening it. Then try to open it yourself using one hand and one action at a time, as a toddler would. Draw the design, and write what you would change.
+- **your turn:** Now build your own closure. Write one line of instructions on the box. Time a grown-up opening it. Then try to open it yourself using one hand and one action at a time, as a toddler would. Take a photo or draw the design, and write what you would change.
 - **constraints:** The box holds 10 rajma seeds as pretend tablets. No real medicine is used.; Opening must need two different actions at the same time, or two actions in a set order.; A grown-up who has never seen the box must open it within 10 seconds, after reading one line of instructions.; No key, no tool and no knot that needs strong fingers.; Use only things from home.
 - **general:** A lid that must be pressed down and turned at the same time, as on many real medicine bottles.; A lid held by two rubber bands that must be pulled apart with both hands.; A box inside a box, with the two lids opening in opposite directions.
 - **creative:** A lid that lifts only when two painted marks are lined up.; A card sleeve that slides off only while two clothes pegs are squeezed together.; A latch set deep in a card tube, which only a long grown-up finger can reach.
@@ -624,9 +624,9 @@ Chinni drank it and pulled a face.
   *Child mode:* Read the problem. What can a toddler's hands do? What would stop them?
   - Ask: Why does a lid that needs two actions at once stop most toddlers? (good: A toddler tries one action, then another, but seldom both together.; A toddler has not yet learned to plan two movements at once.)
 - **s2 (6 min)**  
-  *Parent does:* Your child sketches two designs and names the two actions each one needs.  
-  *Parent says:* Sketch two designs. For each, tell me the two actions, and which hand does which.  
-  *Child mode:* Sketch two designs. Name the two actions for each.
+  *Parent does:* Your child describes two designs, with hands or a quick sketch, and names the two actions each one needs.  
+  *Parent says:* Think of two designs. For each, tell me the two actions, and which hand does which.  
+  *Child mode:* Think of two designs. Name the two actions for each.
 - **s3 (15 min)**  
   *Parent does:* 1. Your child builds the better design. 2. They write one line of instructions on the box. 3. A grown-up who has not seen it opens the box, and your child times this. 4. Your child tries to open it with one hand, one action at a time.  
   *Parent says:* Build it. Write one line of instructions. I will try to open it while you time me. Then try it yourself with one hand only.  
@@ -640,7 +640,7 @@ Chinni drank it and pulled a face.
   - Check: What keeps a toddler safest from the medicines in a home? → **Locked away or high up, in closed packets**
 ### c2 · Plan a Fair Trial of a Kashaya (30 min)
 - **problem:** People say that a kashaya cures a cold. Plan a trial, on paper, that could find out two things. Does the kashaya shorten a cold? Does the kashaya ease the cough at night? Real trials on people are run only by doctors, with the agreement of every family. Your job is the plan.
-- **your turn:** Now draw your own plan as a chart with boxes and arrows. Start at 'find 40 children' and end at 'compare the two groups'. Write what you will measure. Then write one thing your trial cannot tell you.
+- **your turn:** Now draw your own plan as a chart with boxes and arrows, or lay it out on paper slips. Start at 'find 40 children' and end at 'compare the two groups'. Write what you will measure. Then write one thing your trial cannot tell you.
 - **constraints:** At least 40 children with colds take part, and their parents agree.; Chance decides who gets the kashaya.; The other group gets a warm drink that looks and tastes as similar as possible.; The person who counts the coughs must not know who drank what.; No child is kept away from a doctor. Any child with a fever for three days leaves the trial and is seen by one.; Decide what you will measure before the trial starts.
 - **general:** Toss a coin for each child: heads for kashaya, tails for the other drink.; Parents write down each morning whether the child still has a cold.; Count the days until each child is well, and compare the averages of the two groups.
 - **creative:** Make the dummy drink from black tea and jaggery with a pinch of pepper. It will be dark and a little hot.; Record each child's night with a phone, and let someone who does not know the groups count the coughs.; Pair children of the same age, and toss one coin for each pair, so that the groups match.; Give each child the kashaya for one cold and the dummy for the next, and compare.
@@ -656,8 +656,8 @@ Chinni drank it and pulled a face.
   - Ask: Why must the second group's drink look and taste similar? (good: So the children and parents cannot tell which group they are in.; Knowing could change what they say about the cough.)
   - Note: A perfect dummy for a strong-tasting drink is hard to make. Real trials of foods and herbs have the same trouble. Saying so is a good answer.
 - **s3 (9 min)**  
-  *Parent does:* Your child draws the plan as boxes and arrows, and adds the safety rule for a child who gets worse.  
-  *Parent says:* Draw your plan as boxes and arrows. Where does the coin come in? Where is the blind counting? What happens to a child who gets worse?  
+  *Parent does:* Your child draws the plan as boxes and arrows, or lays slips of paper in order. They add the safety rule for a child who gets worse.  
+  *Parent says:* Draw your plan as boxes and arrows, or lay out slips of paper. Where does the coin come in? Where is the blind counting? What happens to a child who gets worse?  
   *Child mode:* Draw your plan as boxes and arrows. Add the rule for a child who gets worse.
 - **s4 (5 min)**  
   *Parent does:* Ask what the trial cannot tell, and then the check.  

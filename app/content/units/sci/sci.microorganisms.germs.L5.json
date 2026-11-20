@@ -716,7 +716,7 @@
           "id": "s2",
           "mins": 14,
           "do": "1. Take turns to read the top card. 2. Say if a germ causes the disease, and name the road. 3. Turn the card over to check. 4. Score the points and place the card on the mat.",
-          "say": "Read the card aloud. Does a germ cause this disease? If yes, how does the germ reach the next person? Or is there no germ at all?",
+          "say": "Take turns. Read the card aloud and give your answer. Then turn the card over to see if you were right.",
           "kid": "Read the card. Does a germ cause it? Name the road, or say no germ. Then turn it over.",
           "ask": [
             {
@@ -739,7 +739,7 @@
           "id": "s3",
           "mins": 3,
           "do": "1. Count your points. 2. Look at the NO GERM space together. 3. Ask which disease surprised you most.",
-          "say": "Count your points. Look at the NO GERM pile. Which of these is the surprise? Which diseases can nobody catch from you?",
+          "say": "Look at the NO GERM pile. Which diseases can nobody catch from you? Why do you think there is no germ?",
           "kid": "Count your points. Look at the NO GERM pile. Which card surprised you most?",
           "check": {
             "t": "mcq",
@@ -903,7 +903,7 @@
           "id": "s2",
           "mins": 14,
           "do": "1. Take turns to read the top card. 2. Say the best shield and what it blocks. 3. Turn the card over to check.",
-          "say": "Read the card aloud. Which road or cause is at work here? Which shield blocks that road? Why would the other shields not help?",
+          "say": "Take turns. Read the card aloud and give your answer. Then turn the card over. If you were wrong, say why the other shields would not help.",
           "kid": "Read the card. Which shield fits? Say what it blocks. Then turn the card over.",
           "ask": [
             {
@@ -929,7 +929,7 @@
           "mins": 3,
           "do": "1. Count your cards. 2. Look at the CHANGE THE CAUSE pile. 3. Ask why this shield has no germ to block.",
           "say": "Look at the CHANGE THE CAUSE pile. What is different about these illnesses? Why can a vaccine or a net not help here?",
-          "kid": "Count your cards. Look at the CHANGE THE CAUSE pile. What is different about these illnesses?",
+          "kid": "Count your cards. Then look at the CHANGE THE CAUSE pile together.",
           "check": {
             "t": "mcq",
             "q": "A family boils all their water. Which illness does this shield not protect against?",
@@ -952,7 +952,7 @@
       "title": "The Two Maps Test: can a map show whether an illness is catching?",
       "mins": 50,
       "days": 1,
-      "context": "In this experiment you use a die to make two maps of 36 houses. On one map an illness passes from house to house. On the other map the illness is not catching. Then you look for what tells the two maps apart.",
+      "context": "In this experiment you use a die to make two maps of 36 houses. On one map an illness passes from house to house. On the other map the illness is not catching. You will find out whether a map alone can show that an illness is catching.",
       "question": "Two streets have the same number of ill houses. One illness is catching and the other is not. Is there anything on a map that shows which is which?",
       "predict": "Guess first. Both maps will end with the same number of ill houses. Which of these will be different on the two maps: where the ill houses are, how many fall ill each day, or nothing at all? On the map where the illness is not catching, will any ill houses stand side by side? Why do you think so? Write your guess and your reason.",
       "fair_test": "Both maps have 36 houses, the same die and the same number of ill houses at the end. Only the rule for falling ill changes. On map A a house can fall ill only from an ill neighbour. On map B the die picks houses anywhere.",
@@ -984,7 +984,7 @@
           "what": "Draw two maps of 36 houses. Fill map A by the catching rule and map B by the not-catching rule. Compare them three ways. Then try to tell two secret maps apart."
         }
       ],
-      "record": "Fill in the table for map A and map B. Draw a bar chart of the new ill houses on each day, one chart for each map. Then say what you thought would happen, what you saw, and why it happened. Write one sentence for each.",
+      "record": "Fill in the table for map A and map B. Make a bar chart of the new ill houses on each day, one chart for each map. Draw it, or stack coins, one stack for each day. Then say what you thought would happen, what you saw, and why it happened. Write one sentence for each.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results from one pair of maps",
@@ -1037,7 +1037,7 @@
           "mins": 6,
           "do": "1. Draw two grids of 6 rows and 6 columns. 2. Number the rows 1 to 6 down the side and the columns 1 to 6 along the top. 3. Label one grid 'A: catching' and the other 'B: not catching'. 4. Read the question aloud and ask for a guess and a reason.",
           "say": "Each square is one house. Both maps will end with the same number of ill houses. What do you think will be different about them? Why do you think so?",
-          "kid": "Draw two grids of 36 houses. Number the rows and the columns. Label them A and B. Now guess what will be different. Write your reason.",
+          "kid": "Draw two grids of 36 houses. Number the rows and the columns. Label them A and B. Then tell your grown-up what you guess will be different, and why.",
           "parent": "Many children guess that nothing on the map can show it, or that the catching map will simply have more ill houses. Write the guess down and do not correct it.",
           "context": "This is the first step of the Two Maps Test. Here you draw two maps of 36 houses and guess how a catching illness will look different from one that is not catching."
         },
@@ -1123,7 +1123,7 @@
           "mins": 4,
           "do": "1. Ask your child to point at any one ill house on map B. 2. Ask whether that one house alone shows which map it is on. 3. Ask for the three sentences: what I thought, what I saw, why it happened.",
           "say": "Point at one ill house. Looking at that house alone, could you tell which map this is? So what did you have to look at?",
-          "kid": "Point at one ill house. Does that house alone show which map this is? Say what you thought would happen. Say what you saw. Say why it happened.",
+          "kid": "Point at one ill house on map B. Then say what you thought would happen, what you saw, and why it happened.",
           "ask": [
             {
               "q": "What did you have to look at to tell the maps apart?",
@@ -1144,7 +1144,7 @@
       "title": "The Risk Dice Test: does a risk decide who falls ill?",
       "mins": 35,
       "days": 1,
-      "context": "In this experiment a die stands for chance in two groups of 30 people. One group uses tobacco and one does not. You find out what a risk does to a group, and what it can tell you about one person.",
+      "context": "In this experiment a die stands for chance in two groups of 30 people. One group uses tobacco and one does not. A risk is something that makes an illness more likely. You will find out what a risk does to a group, and what it can tell you about one person.",
       "question": "Tobacco raises the chance of serious illness. Does that mean every tobacco user falls ill, and nobody else does? What can a risk tell us about one person?",
       "predict": "Guess first. Each group has 30 people. In the group without tobacco, a roll of 1 means illness. In the tobacco group, a roll of 1, 2 or 3 means illness. How many people will fall ill in each group? Will anyone without tobacco fall ill? Will anyone with tobacco stay well? Why do you think so? Write your guesses and your reasons.",
       "fair_test": "Both groups have 30 people and use the same die, with one roll for each person. Only the numbers that mean illness change. The chances are made up to suit a die. Real chances differ from disease to disease.",
@@ -1214,7 +1214,7 @@
           "mins": 5,
           "do": "1. Draw two blocks of 30 circles, in 5 rows of 6. 2. Label one 'No tobacco' and the other 'Tobacco'. 3. Explain the two rules. 4. Ask for the guesses and reasons, and write them down.",
           "say": "Each circle is one person, followed for many years. Without tobacco, only a 1 means illness. With tobacco, a 1, 2 or 3 means illness. What will happen in each group? Why?",
-          "kid": "Draw two groups of 30 circles. Label them No tobacco and Tobacco. Guess how many fall ill in each group. Will anyone without tobacco fall ill? Write your reasons.",
+          "kid": "Draw two groups of 30 circles. Label them No tobacco and Tobacco. Guess how many fall ill in each group. Will anyone without tobacco fall ill? Tell your grown-up why.",
           "parent": "Many children expect nobody in the first group to fall ill and nearly everyone in the second. Write the guess down.",
           "context": "This is the first step of the Risk Dice Test. Here you draw two groups of 30 people and guess how many in each group will fall ill."
         },
@@ -1222,7 +1222,7 @@
           "id": "s2",
           "mins": 8,
           "do": "1. Start with the 'No tobacco' group. Roll once for each circle. 2. If the roll is 1, colour that circle red. 3. Then do the 'Tobacco' group. Colour a circle red on a roll of 1, 2 or 3. 4. Count the red circles in each group and fill in the table.",
-          "say": "Roll once for each person. The die stands for everything we cannot see: genes, luck and the rest of that person's life.",
+          "say": "Roll once for each person. The die stands for everything we cannot see: luck, the body that person was born with, and the rest of their life.",
           "kid": "Roll once for each person. In the first group, colour a 1 red. In the tobacco group, colour 1, 2 and 3 red. Count the red circles.",
           "parent": "Expect about 5 red circles in the first group, and anything from 2 to 9 is common. Expect about 15 in the tobacco group, and 10 to 20 is common.",
           "context": "In this step of the Risk Dice Test you roll a die once for each of 60 people. The roll decides who falls ill in the group with tobacco and the group without."
@@ -1232,7 +1232,7 @@
           "mins": 7,
           "do": "1. Ask your child to compare the two groups. 2. Point to one red circle in the 'No tobacco' group and ask how that happened. 3. Point to one uncoloured circle in the 'Tobacco' group and ask the same. 4. Point to one red circle in the 'Tobacco' group. Ask whether tobacco made this person ill.",
           "say": "Look at this ill person in the tobacco group. Did the tobacco make them ill? Or would they have fallen ill anyway? How could we know?",
-          "kid": "Compare the groups. Find an ill person without tobacco. Find a well person with tobacco. Now point at one ill tobacco user. Was it the tobacco? Could you ever tell?",
+          "kid": "Compare the groups. Find an ill person without tobacco. Find a well person with tobacco. Then point at one ill tobacco user. Why did that person fall ill?",
           "ask": [
             {
               "q": "Did everyone in the tobacco group fall ill?",
@@ -1413,7 +1413,7 @@
           "mins": 4,
           "do": "1. Show your child the bottle, the cap and where the side window will be cut. 2. Explain that the bottle stands for a room and the smoke for fine particles in the air. 3. Ask for a guess and a reason, and write both down.",
           "say": "This bottle is a small room. We will test it closed, with one opening and with two. Which will clear fastest? Why do you think so?",
-          "kid": "The bottle is a small room. The smoke is like fine particles in air. Guess which test clears fastest. Write your reason.",
+          "kid": "The bottle is a small room. The smoke stands for fine particles in the air. Tell your grown-up your guess and why.",
           "parent": "Many children expect one opening to work nearly as well as two. Write the guess down.",
           "context": "This is the first step of One Opening or Two. Here you guess whether a bottle of smoke clears faster through one opening or through two."
         },
@@ -1543,7 +1543,7 @@
           "mins": 10,
           "do": "1. For each illness, ask whether another person at home fell ill soon after. 2. Decide which road fits: air, water and food, insects, touch or blood. 3. Write NO GERM if no germ causes it. 4. Write catching or not.",
           "say": "Did someone else at home fall ill soon after? Which road did the germ probably use? Or is there no germ behind it?",
-          "kid": "For each illness, did someone else at home fall ill too? Name the road, or write no germ.",
+          "kid": "For each illness, did someone else at home fall ill too? Name the road the germ used: air, water and food, insects, touch or blood. Or write no germ.",
           "ask": [
             {
               "q": "Does one family's list prove that an illness is catching?",
@@ -1600,7 +1600,7 @@
           "what": "Draw a line of days from 0 to 30. Mark the first-symptom days for three groups. Decide which illness each group had."
         }
       ],
-      "record": "Draw one day line from 0 to 30 with three rows of dots, one row for each group. Beside it, write the illness you think each group had, and one sentence of reasons.",
+      "record": "Show your day line with three rows of dots, one row for each group. Draw it, or take a photo. Beside it, write the illness you think each group had, and one sentence of reasons.",
       "setup": [
         {
           "art": "A line of days from 0 to 30 drawn across a page, with a small house at day 0 and a short mark for each day.",
@@ -1628,9 +1628,9 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "1. Group P has first symptoms on days 2, 2, 3 and 4. 2. Group Q has them on days 7, 9, 12 and 21. 3. Group R has them on days 11, 13, 14 and 17. 4. Mark each as a dot on the line, one row for each group.",
+          "do": "1. Group P has first symptoms on days 2, 2, 3 and 4. 2. Group Q has them on days 7, 9, 12 and 21. 3. Group R has them on days 11, 13, 14 and 17. 4. Mark each one on the line with a dot or a bean, one row for each group.",
           "say": "Here are the days when each person in each group first felt ill. Put a dot on the line for each. Then tell me what you notice.",
-          "kid": "Mark each first-symptom day as a dot. Use one row for each group. What do you notice?",
+          "kid": "Mark each first-symptom day with a dot or a bean. Use one row for each group. What do you notice?",
           "ask": [
             {
               "q": "Which group can you name from the days alone?",
@@ -1654,7 +1654,7 @@
           "mins": 9,
           "do": "1. Ask how long a visitor with flu leaves children at risk. 2. Ask the same for chickenpox. 3. Ask why a person well on day 5 may still be at risk after a chickenpox visit.",
           "say": "A child is well on day 5 after a visitor with flu. Is that child probably safe from that visit? What about after a visitor with chickenpox? Why is it different?",
-          "kid": "Well on day 5 after flu: probably safe. Well on day 5 after chickenpox: not yet. Why?",
+          "kid": "Look at the flu range and the chickenpox range. Where does day 5 fall in each?",
           "check": {
             "t": "mcq",
             "q": "A child is well 22 days after meeting a visitor who had chickenpox. What is most likely?",
@@ -1728,7 +1728,7 @@
           "mins": 9,
           "do": "1. Heart attack: heavy chest pain that spreads to the arm or jaw, with sweating. 2. Stroke: face droops, one arm is weak, speech is unclear, all of a sudden. 3. Dehydration: dry mouth, sunken eyes, very little urine. 4. Write each on the card with the action: call 108 now, or give ORS in sips.",
           "say": "A stroke comes suddenly. Look at the face, the arms and the speech. If any one is wrong, call 108 at once. Every minute counts.",
-          "kid": "Write the warning signs on the card. For a heart attack or stroke, call 108 now. For dehydration, give ORS in sips.",
+          "kid": "Write the warning signs on the card. For a heart attack or stroke, call 108 now. For dehydration, give ORS in sips. ORS is a salt and sugar drink mixed in clean water.",
           "ask": [
             {
               "q": "Why does time matter so much in a heart attack or a stroke?",
@@ -1745,7 +1745,7 @@
           "id": "s3",
           "mins": 8,
           "do": "1. A grown-up plays the operator. 2. Your child calls. 3. They say their name, the address, who is ill and what happened, in four short sentences. 4. Swap roles once.",
-          "say": "Hello, this is the ambulance. What is your emergency? Your child answers with four sentences: who they are, where they are, who is ill and what happened.",
+          "say": "You are the operator. Say: Hello, this is the ambulance. What is your emergency? Then listen to the whole answer.",
           "kid": "Pretend to call 108. Say your name. Say where you are. Say who is ill and what happened.",
           "check": {
             "t": "mcq",
@@ -1767,7 +1767,7 @@
       "title": "The Clinic Register: which chart shows a catching illness?",
       "mins": 25,
       "days": 1,
-      "context": "In this activity you draw three bar charts from made-up clinic records. You work out which chart fits an illness that spreads, and which fits an illness that does not.",
+      "context": "In this activity you draw one bar chart from made-up clinic records and read two more sets of numbers. You work out which chart fits an illness that spreads, and which fits an illness that does not.",
       "materials": [
         {
           "item": "squared paper",
@@ -1789,7 +1789,7 @@
           "what": "Draw three bar charts from the clinic numbers. Say what shape each chart has, and which illness each chart could be."
         }
       ],
-      "record": "Draw three bar charts side by side. Under each, write its shape in two words, and your guess for the illness. Then write one sentence on what a chart cannot tell you.",
+      "record": "Keep your chart X beside the numbers for Y and Z. For each, write its shape in two words, and your guess for the illness. Then write one sentence on what a chart cannot tell you.",
       "setup": [
         {
           "art": "A page of numbers in a clinic register for fourteen days, in a column headed Fever, next to a bar chart outline.",
@@ -1797,7 +1797,7 @@
         },
         {
           "art": "Three bar charts side by side on squared paper: one rising and falling, one flat and one rising and falling over weeks.",
-          "caption": "2. Draw a bar for each number. Draw all three charts."
+          "caption": "2. Draw a bar for each number of chart X. Show the shape of Y and Z with your hand."
         },
         {
           "art": "A child tracing the shape of the first chart with a finger and a question mark above it.",
@@ -1817,9 +1817,9 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "1. Draw the three charts on squared paper. 2. For each, write the days or weeks along the bottom. 3. Colour the tallest bar of each chart red.",
-          "say": "Draw a bar for each number. Draw all three. Which chart goes up and then down? Which one stays about the same?",
-          "kid": "Draw a bar for each number. Draw all three charts. Colour the tallest bar red.",
+          "do": "1. Draw chart X on squared paper. 2. Write the days along the bottom. 3. Colour the tallest bar red. 4. For charts Y and Z, run a finger along the numbers and show the shape with your hand: up, down or flat.",
+          "say": "Draw a bar for each number of chart X. Then look at the numbers of Y and Z. Which chart goes up and then down? Which one stays about the same?",
+          "kid": "Draw a bar for each number of chart X. Colour the tallest bar red. Run your finger along Y and Z and show the shape with your hand.",
           "ask": [
             {
               "q": "Which chart stays about the same from day to day?",
@@ -1835,7 +1835,7 @@
           "mins": 10,
           "do": "1. Ask what shape chart X has. 2. Ask why a catching illness climbs fast and then falls. 3. Ask what could keep chart Y steady. 4. Ask what chart Z cannot tell you about how dengue spreads.",
           "say": "Chart X climbs, peaks and falls. Why would a catching illness do that? Chart Y stays flat. What could cause that? What can chart Z not tell us?",
-          "kid": "Chart X climbs and falls. Why? Chart Y stays flat. Why? What can a chart not tell you?",
+          "kid": "Say the shape of each chart in two words. What could each shape mean?",
           "ask": [
             {
               "q": "Why does a catching illness first climb and then fall?",
@@ -1920,8 +1920,8 @@
           "id": "s2",
           "mins": 8,
           "do": "1. Your child picks two false claims. 2. They write a reply of two short sentences. 3. The first sentence gives the fact. 4. The second is kind to the person who has the illness.",
-          "say": "Pick two false claims. Write what you would say to a friend who believes one. First say the fact. Then say something kind to the person who has the illness.",
-          "kid": "Pick two false claims. Write two sentences for each. First the fact. Then something kind.",
+          "say": "Pick two false claims. Say or write what you would say to a friend who believes one. First say the fact. Then say something kind to the person who has the illness.",
+          "kid": "Pick two false claims. For each, say or write two sentences. First the fact. Then something kind.",
           "ask": [
             {
               "q": "Why do people fear an illness before they know how it travels?",
@@ -2005,7 +2005,7 @@
           "what": "Draw a bar chart and write your one-page report."
         }
       ],
-      "record": "Your report has five parts on one page: my question, my guess, my results chart, what I found, and what I would ask next. Draw one bar for each road or cause.",
+      "record": "Your report has five parts on one page: my question, my guess, my results chart, what I found, and what I would ask next. Show one bar for each road or cause, drawn or made with counters.",
       "setup": [
         {
           "art": "A child with a notebook and a pencil asking a neighbour questions at the door, with a parent standing beside her.",
@@ -2078,9 +2078,9 @@
         {
           "id": "s4",
           "mins": 15,
-          "do": "1. Draw a bar chart with one bar for each road or cause. 2. Write a one-page report with five parts: question, guess, chart, what I found, what to ask next. 3. Say if your guess was right and what surprised you.",
+          "do": "1. Make a bar chart with one bar for each road or cause. Draw it, or stack one counter for each answer. 2. Write a one-page report with five parts: question, guess, chart, what I found, what to ask next. 3. Say if your guess was right and what surprised you.",
           "say": "Draw one bar for each road or cause. Then write your report. Was your guess right? What surprised you? What would you ask next?",
-          "kid": "Draw a bar chart. Write your report in five short parts. Say if your guess was right.",
+          "kid": "Make your bar chart. Write your report in five short parts.",
           "ask": [
             {
               "q": "Ten people is a small sample. What could you do to trust the result more?",
@@ -2112,7 +2112,7 @@
       "materials": [
         "paper and a pencil",
         "squared paper, where one square stands for 50 centimetres",
-        "strips of tissue paper, 2 centimetres wide and 15 centimetres long, taped to a pencil as a streamer",
+        "strips of tissue paper, 2 centimetres wide and 15 centimetres long, taped to a pencil as a streamer", "eight coins or buttons, and a small piece of red paper",
         "a room at home with a door and a window on different walls",
         "a ceiling fan or table fan"
       ],
@@ -2128,7 +2128,7 @@
         "Put chairs in a shaded passage outside, where there is more moving air than inside.",
         "Mark the seats with tape on the floor, so everyone keeps 1 metre apart."
       ],
-      "your_turn": "Now draw your plan on squared paper. Show the door, the window, the fan, the eight seats and the person with the cough. Add arrows for the air. Ask a grown-up to check it, and to say what they would change.",
+      "your_turn": "Now draw the room on squared paper. Show the door, the window and the fan. Use coins for the eight seats, with a red mark on the person with the cough. Add paper arrows for the air. Ask a grown-up to check it, and to say what they would change.",
       "setup": [
         {
           "art": "A child holding a tissue-paper streamer on a pencil near an open window in a room, the streamer blowing sideways.",
@@ -2164,9 +2164,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "1. In a room at home, open the door and the window on different walls. 2. Hold the streamer in the middle, near the window and near the door. 3. Draw an arrow for the way it blows at each place. 4. Then shut the window and repeat. 5. Then turn on the fan and repeat.",
-          "say": "Hold the streamer still in the middle of the room. Which way does it move? Do it near the window, and near the door. Draw what you see.",
-          "kid": "Hold the streamer in the middle, then at the window, then at the door. Draw an arrow for each.",
+          "do": "1. In a room at home, open the door and the window on different walls. 2. Hold the streamer in the middle, near the window and near the door. 3. At each place, lay a paper strip as an arrow pointing the way it blows. 4. Then shut the window and repeat. 5. Then turn on the fan and repeat.",
+          "say": "Hold the streamer still in the middle of the room. Which way does it move? Do it near the window, and near the door. At each place, lay down a paper strip to point the way it moves.",
+          "kid": "Hold the streamer in the middle, then at the window, then at the door. Lay a paper strip at each place, pointing the way it blows.",
           "ask": [
             {
               "q": "What happens to the streamer when the window is shut?",
@@ -2182,9 +2182,9 @@
         {
           "id": "s3",
           "mins": 14,
-          "do": "1. Draw the room on squared paper, 8 squares by 6. 2. Mark the door and window. 3. Draw the arrows from your streamer test. 4. Mark eight seats at least 2 squares apart. 5. Mark the person with the cough in red.",
-          "say": "Now draw your plan. Where does the air go? Where should the person with the cough sit? Who sits where the air is freshest?",
-          "kid": "Draw the room. Add the arrows. Mark eight seats. Mark the person with the cough in red.",
+          "do": "1. Draw the room on squared paper, 8 squares by 6. 2. Mark the door and window. 3. Put your paper strips on the plan where they blew. 4. Put eight coins on the plan as seats, at least 2 squares apart. 5. Put a small piece of red paper on the coin for the person with the cough.",
+          "say": "Now make your plan. Where does the air go? Where should the person with the cough sit? Who sits where the air is freshest?",
+          "kid": "Draw the room. Put your paper strips on it. Put eight coins down as seats. Mark the person with the cough in red.",
           "parent": "Good plans seat the person with the cough near the opening where the air leaves. They are not upwind of the others. Seats a metre apart also help.",
           "context": "In this step of the Waiting Room challenge you draw a plan of the room with the air arrows and eight seats."
         },
@@ -2291,7 +2291,7 @@
         {
           "id": "s3",
           "mins": 12,
-          "do": "1. Write one line on what happens if a child gets a fever. 2. Write one line on what happens if a child has loose motions. 3. Add the signs of dehydration and the ORS rule. 4. Show the plan to a grown-up.",
+          "do": "1. Write one line on what happens if a child gets a fever. 2. Write one line on what happens if a child has loose motions. 3. Add the signs of dehydration, and how to give ORS, a salt and sugar drink, in small sips. 4. Show the plan to a grown-up.",
           "say": "A child has a fever on day two. What do the teachers do? A child has loose motions. What do the teachers do? Write each as one line.",
           "kid": "Write what the teachers do for a fever. Write what they do for loose motions. Show your plan.",
           "check": {

@@ -519,7 +519,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the surprising animals in the five groups of vertebrates. Each card makes a claim. You say whether it is true or false, and you bet beans on how sure you are.",
+   "context": "You will find out which surprising animal facts are really true. This is a card game about the five groups of vertebrates. Each card makes a claim. You say whether it is true or false, and you bet beans on how sure you are.",
    "printables": [
     {
      "kind": "cards",
@@ -688,7 +688,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the family tree of vertebrates. Three animals are turned up, and you pick the two who are the closest relatives. The back of each card gives the animal's place on the tree, so you can check.",
+   "context": "You will find out which animals are really close relatives. This is a card game about the family tree of vertebrates. Three animals are turned up, and you pick the two who are the closest relatives. The back of each card gives the animal's place on the tree, so you can check.",
    "printables": [
     {
      "kind": "cards",
@@ -825,7 +825,7 @@
      "mins": 4,
      "do": "1. Count the points. 2. Lay out the crocodile, the gecko and the crow. 3. Ask which two are closest, and check with the addresses. 4. Ask why this one fools people.",
      "say": "Here are a crocodile, a gecko and a crow. Which two are closest? Why does this one fool nearly everybody?",
-     "kid": "Lay out the crocodile, the gecko and the crow. Which two are closest? Check the backs.",
+     "kid": "Lay out the crocodile, the gecko and the crow. Think about their features, then check the backs.",
      "check": {
       "t": "mcq",
       "q": "Which two of these are the closest relatives?",
@@ -848,7 +848,7 @@
    "title": "Air in Water: why would a fish ever need to breathe air?",
    "mins": 30,
    "days": 1,
-   "context": "Fish take oxygen from the air that is dissolved in water. In this experiment you compare three tumblers of water: one that starts cold, one at room warmth, and one that was boiled. You watch for bubbles of air coming out as they stand in a warm place.",
+   "context": "You will find out why a fish in a warm pond can struggle to breathe. Fish take oxygen from the air that is dissolved in water. In this experiment you compare three tumblers of water: one that starts cold, one at room warmth, and one that was boiled. You watch for bubbles of air coming out as they stand in a warm place.",
    "question": "Three tumblers of water look exactly the same. One was kept in the fridge, one stood on the kitchen counter, and one was boiled and cooled. When all three stand in a warm place for an hour, in which one will the most bubbles of air appear on the glass?",
    "predict": "Guess first. Which tumbler will show the most bubbles after an hour in a warm place: the cold water, the room-warm water or the boiled water? Which will show the fewest? Write your guess and your reason for it.",
    "fair_test": "Change only what happened to the water before the test. Use the same drinking water for all three. Use three tumblers of the same size and shape, filled to the same height. Stand them side by side in the same warm place for the same time. Count bubbles on the inside of the glass only, and count each tumbler at the same three times.",
@@ -942,7 +942,7 @@
      "mins": 5,
      "do": "1. Shake the cold bottle again for 30 seconds and put it back in the fridge for 2 minutes. 2. Meanwhile, read the question aloud. 3. Ask for a guess and a reason. 4. Write the guess down.",
      "say": "All three waters will warm up at the window. Which glass will show the most bubbles, and which the fewest? Why do you think so?",
-     "kid": "Which tumbler will show the most bubbles? Which the fewest? Say why. Write your guess.",
+     "kid": "Which tumbler will show the most bubbles? Which the fewest? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -969,7 +969,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. After 20 minutes, look at the inside wall of each glass without moving it. 2. Count the bubbles on each and write the numbers. 3. Touch the outside of each glass and say which feels coolest. 4. Count again at 40 minutes and at 60 minutes.",
+     "do": "1. After 20 minutes, look at the inside wall of each glass without moving it. 2. Count the bubbles on each and write the numbers. 3. Count again at 40 minutes and at 60 minutes.",
      "say": "Do not lift the glasses. Count the bubbles on the inside of each one. Which glass has changed most since we poured?",
      "kid": "Count the bubbles inside each glass. Write the numbers. Count again at 40 and 60 minutes.",
      "ask": [
@@ -1027,7 +1027,7 @@
    "title": "Lap or Suck: how much does a teat help a baby drink?",
    "mins": 27,
    "days": 1,
-   "context": "A platypus mother has no teats. Her milk comes out through her skin, and her babies take it from her fur. In this experiment you drink water in three ways, from a plate, from a wet cloth and through a straw, and measure how much you get each time.",
+   "context": "You will find out how much a teat helps a baby drink. A platypus mother has no teats. Her milk comes out through her skin, and her babies take it from her fur. In this experiment you drink water in three ways, from a plate, from a wet cloth and through a straw, and measure how much you get each time.",
    "question": "You have 20 seconds to drink 4 tablespoons of water. How much will you get by lapping from a flat plate, by taking it from a wet cloth, and by sucking through a straw? And how much is spilt or left behind each way?",
    "predict": "Guess first. Put the three ways in order, from the one that gives you the most water in 20 seconds to the one that gives you the least. Guess how many tablespoons will be left each way. Write your guess and your reason for it.",
    "fair_test": "Change only the way of drinking. Use the same person, the same 4 tablespoons of water and the same 20 seconds each time. Do not lift the plate or the cloth with your hands. Do each way twice and find the mean, because one try can be a fluke.",
@@ -1148,9 +1148,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "1. For each way, add the two results and halve the total to find the mean left. 2. Take the mean left from 4 to find the mean drunk. 3. Ask your child for the three sentences. 4. Ask what our model leaves out. 5. Then read the card 'Mammals who lay eggs' together.",
+     "do": "1. For each way, add the two results and halve the total to find the average left. 2. Take the average left from 4 to find the average drunk. 3. Ask your child for the three sentences. 4. Ask what our model leaves out. 5. Then read the card 'Mammals who lay eggs' together.",
      "say": "Say what you thought, what you saw and why. Then tell me one way that you and a straw differ from a platypus baby and her mother.",
-     "kid": "Work out the mean for each way. Say what you thought and what you saw. Say why.",
+     "kid": "Work out the average left for each way. Say what you thought and what you saw. Say why.",
      "ask": [
       {
        "q": "Platypus babies grow well with no teat. So what might a teat add?",
@@ -1231,18 +1231,18 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Read out each fact and let your child put the ticks. 2. The rohu, a carp, has a backbone only. 3. The lungfish has a backbone and lungs. 4. The frog has a backbone, lungs and four limbs. 5. The crocodile has those three and grows in an amnion. 6. The pigeon has the same four as the crocodile. Her wings are her front limbs. 7. The platypus has those four, and fur and milk. She lays eggs. 8. The cow has those five, and is born alive.",
+     "do": "1. Read out each fact and let your child put the ticks. 2. The rohu, a carp, has a backbone only. 3. The lungfish has a backbone and lungs. 4. The frog has a backbone, lungs and four limbs. 5. The crocodile has those three and grows in an amnion, the bag of fluid around a baby inside the egg. 6. The pigeon has the same four as the crocodile. Her wings are her front limbs. 7. The platypus has those four, and fur and milk. She lays eggs. 8. The cow has those five, and is born alive.",
      "say": "I will read what each animal has. You put the ticks. Tell me if anything surprises you as we go.",
-     "kid": "The rohu has a backbone only. The lungfish has a backbone and lungs. The frog also has four limbs. The crocodile and the pigeon also grow in an amnion. The platypus also has fur and milk, and lays eggs. The cow has all that, and is born alive.",
+     "kid": "Listen to what each animal has. Tick each feature in the table.",
      "parent": "The rohu's swim bladder is a changed lung, so leave her lung box empty and tell your child why afterwards. The pigeon also has feathers, which no other animal in the table has. Write 'feathers' beside her row.",
      "context": "This is the main step of the Feature Ladder. Here you tick which of six features each of seven animals has."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Count the ticks in each row and write the number at the end. 2. Shade the ticked boxes with the colour pencil. 3. Look at the shape the shading makes. 4. Find the animal who has lungs and no limbs. 5. Find the animal who has milk and is not born alive.",
+     "do": "1. Count the ticks in each row and write the number at the end. 2. Look at the ticks from the top row to the bottom row. 3. Look at the shape the ticks make. 4. Find the animal who has lungs and no limbs. 5. Find the animal who has milk and is not born alive.",
      "say": "Look at the shape. What do you notice? Now use the table to answer your two guesses. Which rows give the answers?",
-     "kid": "Count the ticks in each row. Shade them. Who has lungs but no limbs? Who has milk but lays eggs?",
+     "kid": "Count the ticks in each row. Who has lungs but no limbs? Who has milk but lays eggs?",
      "ask": [
       {
        "q": "How does the table show that lungs came before legs?",
@@ -1260,7 +1260,7 @@
      "mins": 4,
      "do": "1. Ask whether the cow is 'more evolved' than the rohu, and listen. 2. Explain that all seven animals are alive today. 3. Ask what the steps really show. 4. Add yourself to the table and tick your own features.",
      "say": "Is the cow a better animal than the rohu because she has more ticks? All seven are alive now. So what do the steps show?",
-     "kid": "Is the cow better than the rohu? What do the steps really show? Add yourself to the table.",
+     "kid": "Is the cow better than the rohu? Add yourself to the table.",
      "ask": [
       {
        "q": "What do the steps show, if not better and worse?",
@@ -1291,7 +1291,7 @@
    "title": "Old Parts in Your Body: goosebumps, a tailbone and a wrist tendon",
    "mins": 15,
    "days": 1,
-   "context": "Bodies keep small leftovers of parts that did more in their ancestors. In this activity you find three such leftovers in your own body, and count how many people at home have one of them.",
+   "context": "You will find out why you get goosebumps. Bodies keep small leftovers of parts that did more in their ancestors. In this activity you find three such leftovers in your own body, and count how many people at home have one of them.",
    "materials": [
     {
      "item": "an ice cube or a cloth dipped in cold water",
@@ -1302,7 +1302,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw your forearm with goosebumps. Then make a tally: how many people at home have the wrist tendon in both wrists, in one wrist, or in neither.",
+   "record": "Draw your forearm with goosebumps, or tell a grown-up what you saw. Then make a tally: how many people at home have the wrist tendon in both wrists, in one wrist, or in neither.",
    "setup": [
     {
      "art": "A child holding an ice cube against the inside of her forearm and looking closely at the fine hairs standing up on small bumps.",
@@ -1359,7 +1359,7 @@
      "mins": 3,
      "do": "1. Try to wiggle your ears without touching them. 2. Ask who at home can. 3. Ask your child what all these leftovers have in common. 4. Ask what they tell us about our ancestors.",
      "say": "We found fur muscles, a tail's end, and a climbing muscle that some of us have lost. What do they tell you about our ancestors?",
-     "kid": "Try to wiggle your ears. What do these three leftovers tell you about our ancestors?",
+     "kid": "Try to wiggle your ears. Who at home can do it?",
      "ask": [
       {
        "q": "What do these leftovers tell us?",
@@ -1400,7 +1400,7 @@
      "qty": 1
     }
    ],
-   "record": "Keep the five strings with the differences circled. Under them write the four counts, and draw the family tree they suggest.",
+   "record": "Keep the five strings with the differences circled. Under them write the four counts. Take a photo of the slips laid out as the family tree they suggest, or draw it.",
    "setup": [
     {
      "art": "A sheet of squared paper with five rows of fifteen letters, one letter in each square, labelled human, cow, hen, frog and carp.",
@@ -1412,7 +1412,7 @@
     },
     {
      "art": "A small hand-drawn branching tree with five tips labelled carp, frog, hen, cow and human, in that order.",
-     "caption": "3. Draw the tree: the fewest differences means the closest relative."
+     "caption": "3. Lay out the tree on paper slips: the fewest differences means the closest relative."
     }
    ],
    "flow": [
@@ -1437,9 +1437,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Put the animals in order, from fewest differences to most. 2. Draw a tree with the human and the cow on the closest twigs and the carp on the farthest. 3. Compare this order with your Feature Ladder, if you made one. 4. Ask why two different methods give the same order.",
-     "say": "Fewest differences means the most recent shared ancestor. Draw the tree. Is the order the same as the one we got from body features?",
-     "kid": "Put the animals in order by the counts. Draw the tree. Is it the same order as the body features gave?",
+     "do": "1. Put the animals in order, from fewest differences to most. 2. Write each animal's name on a paper slip. Lay the slips out as a tree. Put the human and the cow on the closest twigs. Put the carp on the farthest. 3. Compare this order with your Feature Ladder, if you made one. 4. Ask why two different methods give the same order.",
+     "say": "Fewest differences means the most recent shared ancestor. Lay out the tree. Is the order the same as the one we got from body features?",
+     "kid": "Put the animals in order by the counts. Lay out the slips as a tree. Is it the same order as the body features gave?",
      "ask": [
       {
        "q": "Bones and letters give the same tree. Why does that matter?",
@@ -1469,7 +1469,7 @@
    "title": "Gulp Watch: which fish come up for air? (if there is an aquarium or a pet shop near you)",
    "mins": 15,
    "days": 1,
-   "context": "Some aquarium fish breathe air and some do not. In this activity you watch two kinds of fish for five minutes each and count how often each one comes to the surface to gulp air. You need an aquarium at home, at a friend's home or in a shop.",
+   "context": "You will find out which fish come up to breathe air. Some aquarium fish breathe air and some do not. In this activity you watch two kinds of fish for five minutes each and count how often each one comes to the surface to gulp air. You need an aquarium at home, at a friend's home or in a shop.",
    "materials": [
     {
      "item": "an aquarium with a fighting fish or a gourami, and one with a goldfish, a guppy or a molly",
@@ -1484,7 +1484,7 @@
      "qty": 1
     }
    ],
-   "record": "Write the name of each fish and the number of trips to the surface in five minutes. Draw what the fish's mouth does at the surface.",
+   "record": "Write the name of each fish and the number of trips to the surface in five minutes. Show or tell what the fish's mouth does at the surface.",
    "setup": [
     {
      "art": "A child standing in front of a row of small fish tanks in a pet shop, holding a notebook, with a blue fighting fish in a small tank at eye level.",
@@ -1504,7 +1504,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Find a fighting fish or a gourami in a tank. 2. Find a goldfish, a guppy or a molly in another tank. 3. Ask your child which fish will come to the surface more often, and why. 4. Look for a bubbling air stone or pump in each tank.",
-     "say": "One of these fish is a relative of the climbing perch. Which fish do you think will come up for air more often? Why?",
+     "say": "Some fish can breathe air from the surface. Which of these two will come up for air more often? Why?",
      "kid": "Find a fighting fish and a goldfish. Which will come up for air more often? Say why.",
      "parent": "Fighting fish and gouramis are relatives of the climbing perch and breathe air. Shops often keep fighting fish in small bowls with no air pump, which they can survive because they gulp air.",
      "context": "This is the first step of Gulp Watch. Here you choose two kinds of aquarium fish and guess which one breathes air."
@@ -1523,7 +1523,7 @@
      "mins": 2,
      "do": "1. Compare the two tallies. 2. Ask what the air pump in a goldfish tank is for. 3. Ask why a fighting fish can live in a bowl without one.",
      "say": "What did you count? What is the bubbling pump in the goldfish tank for? Why can the fighting fish manage without one?",
-     "kid": "Compare your two counts. What is the air pump for? Why can a fighting fish live without one?",
+     "kid": "Compare your two counts. What is the air pump for?",
      "check": {
       "t": "mcq",
       "q": "A fighting fish lives in a small bowl with no air pump. How does she get enough oxygen?",
@@ -1544,7 +1544,7 @@
    "title": "Predict the In-between Animal: what should a fossil between fish and frogs look like?",
    "mins": 15,
    "days": 1,
-   "context": "Scientists predicted what an animal between fish and four-limbed animals would look like, and how old the rock holding her would be, before they found one. In this activity you make the same prediction as a drawing, and then compare it with the real fossil, Tiktaalik.",
+   "context": "Scientists predicted what an animal between fish and four-limbed animals would look like, and how old the rock holding her would be, before they found one. In this activity you make the same prediction with feature cards, and then compare it with the real fossil, Tiktaalik.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -1555,15 +1555,15 @@
      "qty": 1
     }
    ],
-   "record": "Keep your drawing of the predicted animal, with labels. Beside it write which of your predictions matched Tiktaalik and which did not.",
+   "record": "Keep your three cards, with the middle card showing your prediction. Beside them write which of your predictions matched Tiktaalik and which did not.",
    "setup": [
     {
      "art": "A sheet of paper with a lobe-finned fish drawn on the left and a four-limbed animal with a flat head drawn on the right, and an empty space with a question mark between them.",
-     "caption": "1. Draw a lobe-finned fish on the left and an early four-limbed animal on the right. Leave a space between."
+     "caption": "1. Write a card for a lobe-finned fish on the left and one for an early four-limbed animal on the right. Leave a space between."
     },
     {
      "art": "A child drawing an animal in the middle space, with a fish tail and scales, a flat head and two sturdy front fins.",
-     "caption": "2. Draw the animal you would expect in between. Label each feature."
+     "caption": "2. Make a middle card for the animal you would expect in between. Choose each feature."
     },
     {
      "art": "The finished drawing beside a simple outline of Tiktaalik, with ticks next to the features that match.",
@@ -1574,17 +1574,17 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw a fish on the left of the page and write her features: scales, gills, fins with thin rays, no neck, a head shaped like a cone, eyes on the sides. 2. Draw an early four-limbed animal on the right and write hers: lungs, limbs with fingers, a neck, a flat head, eyes on top. 3. Write '380 million years ago' under the fish and '365 million years ago' under the other.",
+     "do": "1. Write a card for the fish with her features: scales, gills, fins with thin rays, no neck, a head shaped like a cone, eyes on the sides. 2. Write a card for an early four-limbed animal with hers: lungs, limbs with fingers, a neck, a flat head, eyes on top. 3. Write '380 million years ago' on the fish card and '365 million years ago' on the other. 4. Put the fish card on the left and the other on the right, with a gap between.",
      "say": "Fish like this lived 380 million years ago. Four-limbed animals like this lived 365 million years ago. So what lived in between, and when?",
-     "kid": "Draw a fish on the left. Draw a four-limbed animal on the right. Write the features of each.",
+     "kid": "Write each animal's features on a card. Put the cards left and right.",
      "context": "This is the first step of Predict the In-between Animal. Here you set out the features of the animals before and after."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Ask your child to draw the in-between animal in the middle. 2. Ask them to choose, for each feature, the fish form, the later form or a halfway form. 3. Ask how old the rock holding such a fossil should be. 4. Ask what kind of place the animal lived in, so we know what kind of rock to search.",
-     "say": "Draw what you would expect to find. Choose each feature and label it. How old should the rock be? What kind of place did she live in?",
-     "kid": "Draw the animal in between. Label each feature. How old should her rock be? Where did she live?",
+     "do": "1. Ask your child to make a middle card for the in-between animal. 2. Ask them to choose the fish form, the later form or a halfway form for each feature. 3. Ask them to write each choice on the card. 4. Ask how old the rock holding such a fossil should be. 5. Ask what kind of place the animal lived in, so we know what kind of rock to search.",
+     "say": "Make a middle card for the animal you would expect to find. Choose each feature for her. Then think about where she lived.",
+     "kid": "Make a card for the animal in between. For each feature, choose the fish form, the later form or halfway.",
      "ask": [
       {
        "q": "What kind of rock would you search, and how old?",
@@ -1625,7 +1625,7 @@
    "title": "Five Hundred Million Years on a String: a timeline of the vertebrates",
    "days": 3,
    "mins": 60,
-   "context": "In this three-day project you stretch a string 5 metres long across a room. Each centimetre stands for one million years. You hang paper flags on it to show when backbones, lungs, limbs, milk and birds first appeared.",
+   "context": "You will see how long ago each of these happened, and how late we humans arrive. In this three-day project you stretch a string 5 metres long across a room. Each centimetre stands for one million years. You hang paper flags on it to show when backbones, lungs, limbs, milk and birds first appeared.",
    "materials": [
     {
      "item": "string or wool, a little over 5 metres",
@@ -1681,7 +1681,7 @@
      "id": "s1",
      "mins": 25,
      "do": "1. Cut a string a little longer than 5 metres and fix it along a wall. 2. Mark one end TODAY. 3. Measure from TODAY and make a small mark at each distance below. 4. First vertebrates: 500 centimetres. 5. Bony fish with lungs: 420. 6. Tiktaalik: 375. 7. Acanthostega, with fingers: 365. 8. First animals with an amnion: 320. 9. First mammals: 225. 10. Archaeopteryx, an early bird: 150. 11. Snake and dinosaur eggs in Gujarat: 68. 12. The asteroid that ended the other dinosaurs: 66. 13. Indohyus, a whale relative in Kashmir: 48. 14. First humans of our kind: 3 millimetres.",
-     "say": "One centimetre is a million years. Before we measure, guess. Where on this string did the first mammals live? Where do we humans start?",
+     "say": "One centimetre is a million years. Before we measure, guess. Where on this string will the first mammals go? Where do we humans start?",
      "kid": "Fix the string. One end is today. Measure and mark each event. One centimetre is a million years.",
      "parent": "The ages are rounded, and scientists revise them as new fossils are found. If your corridor is short, use 1 centimetre for 2 million years and halve every distance.",
      "context": "This is day 1 of Five Hundred Million Years on a String. Here you fix the string and mark where each event belongs."
@@ -1689,16 +1689,16 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Cut 11 small paper flags. 2. On each, draw the animal or event and write its name and age. 3. Peg or tape each flag at its mark. 4. Stand back and look at the spacing.",
-     "say": "Draw each one as well as you can. When they are all up, stand back. Where are the flags crowded, and where are they far apart?",
-     "kid": "Make a flag for each event. Peg it at its mark. Where are the flags crowded?",
+     "do": "1. Cut 11 small paper flags. 2. On each, write the name and age of the animal or event. Draw a small picture too, if you like. 3. Peg or tape each flag at its mark. 4. Stand back and look at the spacing.",
+     "say": "Write the name and age on each flag. When they are all up, stand back. Where are the flags crowded, and where are they far apart?",
+     "kid": "Write a flag for each event. Peg it at its mark. Where are the flags crowded?",
      "context": "This is day 2 of Five Hundred Million Years on a String. Here you make the flags and hang them."
     },
     {
      "id": "s3",
      "mins": 15,
      "do": "1. Walk from the far end to TODAY and tell the story aloud at each flag. 2. Measure the gap between lungs and fingers. 3. Measure the gap between the first mammals and the asteroid. 4. Measure how much of the string holds humans. 5. Write the three answers.",
-     "say": "Walk me through it. Then measure three things for me. How long were there lungs before fingers? How long did mammals live beside dinosaurs?",
+     "say": "Walk me through it. Then we will measure three gaps. First, how long were there lungs before fingers?",
      "kid": "Walk the string and tell the story. Measure three gaps. Write the answers.",
      "ask": [
       {
@@ -1756,7 +1756,7 @@
     "Make the hand from several short pieces fanned out, like the many small bones in a wrist, so that it sits flat on the table.",
     "Build a pair of fins joined by a cardboard shoulder, so that the body rests between them as Tiktaalik's chest did."
    ],
-   "your_turn": "Now design your own. Draw the fin first and label the joints. Build it, rest the packet on top and measure the height. Lower the body to the table and push it up five times. Where does your fin fail first, and how would you make that place stronger?",
+   "your_turn": "Now design your own. Plan the fin first: draw it and label the joints, or lay out the strips and point to the joints. Build it, rest the packet on top and measure the height. Lower the body to the table and push it up five times. Where does your fin fail first, and how would you make that place stronger?",
    "safety": "A grown-up cuts the thick cardboard. Broom sticks have sharp ends, so keep them away from faces.",
    "setup": [
     {
@@ -1787,9 +1787,9 @@
      "id": "s2",
      "mins": 14,
      "adult": true,
-     "do": "1. Ask your child to feel the bones of their own arm: one, then two, then many small ones. 2. Ask them to draw a fin built on that pattern, with two joints. 3. A grown-up cuts the cardboard strips. 4. Your child folds, joins and tapes the fin. 5. Test it with the packet as you build.",
-     "say": "Feel your arm. One bone, then two, then many small ones. Draw a fin on that pattern. Where will it bend? Then build it.",
-     "kid": "Feel the bones in your arm. Draw a fin with two joints. Build it from cardboard and tape.",
+     "do": "1. Ask your child to feel the bones of their own arm: one, then two, then many small ones. 2. Ask them to say where the two joints of a fin on that pattern should go. 3. A grown-up cuts the cardboard strips. 4. Your child folds, joins and tapes the fin. 5. Test it with the packet as you build.",
+     "say": "Feel your arm. One bone, then two, then many small ones. Think of a fin on that pattern. Where will it bend? Then build it.",
+     "kid": "Feel the bones in your arm. Plan a fin with two joints. Build it from cardboard and tape.",
      "context": "This is the building step of A Fin That Can Do a Push-up. Here you design and build a fin with a few sturdy parts and two joints."
     },
     {

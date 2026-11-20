@@ -309,16 +309,16 @@ She ate the rice slowly. Then she went to find the blade.
 - **Printable cards: 20 food cards to cut out (the chain is on the back):** Idli. Say the chain from the Sun to you. (back: Sun → paddy plant and urad plant → you. Tiny microbes in the batter also fed on the starch. Eaters before you: 0.); Curd. Say the chain from the Sun to you. (back: Sun → grass → cow, who made milk → curd bacteria → you. Eaters before you: 2.); A boiled egg. Say the chain from the Sun to you. (back: Sun → maize and other grain plants → hen → you. Eaters before you: 1.); Honey. Say the chain from the Sun to you. (back: Sun → flowering plants, who made nectar → honeybees → you. Eaters before you: 1.); Fried sardine (mathi). Say the chain from the Sun to you. (back: Sun → tiny sea algae → tiny sea animals → sardine → you. Eaters before you: 2.); Coconut chutney. Say the chain from the Sun to you. (back: Sun → coconut palm → you. The palm stored the sunlight's energy as oil in the coconut. Eaters before you: 0.); Jaggery. Say the chain from the Sun to you. (back: Sun → sugarcane → you. Sugarcane stores sucrose in the stem. Eaters before you: 0.); Ghee. Say the chain from the Sun to you. (back: Sun → grass → cow or buffalo, who made milk → you. Eaters before you: 1.); Mushroom curry. Say the chain from the Sun to you. (back: Sun → paddy plant → dead straw → mushroom, a fungus who feeds on the straw → you. Eaters before you: 1.); Salt. Say the chain from the Sun to you. (back: No chain. Salt is a mineral from sea water or rock. It gives you no energy, and it does not come from sunlight.); A glass of water. Say the chain from the Sun to you. (back: No chain. Water gives you no energy. A plant uses water to make food, but water itself is not made from sunlight.); Seer fish (vanjaram) curry. Say the chain from the Sun to you. (back: Sun → tiny sea algae → tiny sea animals → small fish → seer fish → you. Eaters before you: 3.); Groundnut chikki. Say the chain from the Sun to you. (back: Sun → groundnut plant → you, and Sun → sugarcane → you. Two short chains meet in one sweet. Eaters before you: 0.); Prawn curry. Say the chain from the Sun to you. (back: Sun → algae and bits of dead plants → prawn → you. Eaters before you: 1.); Chicken biryani. Say the chain from the Sun to you. (back: Sun → paddy plant → you, and Sun → grain plants → chicken → you. Eaters before you: 0 for the rice, 1 for the chicken.); A ripe mango. Say the chain from the Sun to you. (back: Sun → mango tree → you. The leaves made sugar and sent it to the fruit as sucrose. Eaters before you: 0.); Boiled tapioca (kappa). Say the chain from the Sun to you. (back: Sun → tapioca plant → you. The leaves made sugar, and the root stored it as starch. Eaters before you: 0.); Paneer. Say the chain from the Sun to you. (back: Sun → grass → cow or buffalo, who made milk → you. Eaters before you: 1.); A tubeworm's meal at a hot spring on the deep sea floor. Say the chain from the Sun to you. (back: No sunlight in this chain. Chemicals from hot rock → bacteria inside the tubeworm → tubeworm. The bacteria do use oxygen that photosynthesis made far above.); Tea with milk and sugar. Say the chain from the Sun to you. (back: Three chains. Sun → tea bush → you. Sun → grass → cow → you. Sun → sugarcane → you. Eaters before you: 0, 1 and 0.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 20 cards. 2. Shuffle them. 3. Put them in a pile, food side up. 4. Keep a paper and pencil for the points.  
-  *Parent says:* Each card names a food. We follow the food backwards, one living being at a time, until we reach the Sun.  
+  *Parent says:* Each card names a food. We will find out what every food starts with. We follow the food backwards, one living being at a time, until we reach the Sun.  
   *Child mode:* Cut out the cards. Shuffle them. Put them in a pile. Get a pencil for the points.
 - **s2 (13 min)**  
-  *Parent does:* 1. Read the top card aloud. 2. Say the chain from the Sun to you. 3. Say how many eaters come before you. 4. Turn the card over and check. 5. Write down the points.  
-  *Parent says:* Ask the same question at every step. Who made this, and what did they eat? Stop when you reach a living being who makes food from light.  
-  *Child mode:* Read the card. Ask who made this food. Ask what they ate. Stop at the Sun. Then check.
+  *Parent does:* 1. Read the top card aloud. 2. Say the chain from the Sun to you. 3. Say how many living beings ate something along the way. 4. Turn the card over and check. 5. Write down the points.  
+  *Parent says:* Who made this food, and what did they eat? Ask it again for each living being. Stop when you reach one who makes food from light.  
+  *Child mode:* Read the card. Say the chain from the Sun to you. Then turn the card and check.
   - Ask: Curd has two eaters before you. Who are they? (good: The cow, who ate grass.; The curd bacteria, who fed on the milk.)
   - Note: The chains on the cards are simplified. A real sardine eats algae as well as tiny animals. If your child gives a true chain that differs from the card, give the point.
 - **s3 (4 min)**  
-  *Parent does:* 1. Count the points. 2. Lay all 20 cards face down, chains showing. 3. Sort them into three heaps: a plant or alga first, no chain from the Sun, and no sunlight at all.  
+  *Parent does:* 1. Count the points. 2. Lay all 20 cards out with the chain side up. 3. Sort them into three heaps: a plant or alga first, no chain from the Sun, and no sunlight at all.  
   *Parent says:* Look at the heaps. What comes first in nearly every chain? Which cards were different, and why?  
   *Child mode:* Count your points. Sort the cards into three heaps. What starts nearly every chain?
   - Check: A mushroom grows in the dark on dead straw. Does the mushroom's food start with sunlight? → **Yes, because the straw was once a paddy plant**
@@ -328,7 +328,7 @@ She ate the rice slowly. Then she went to find the blade.
 - **Printable score sheet: Score sheet for each player (copy it for 6 nights):** Night number; Beans at dusk; Parts in the night; Beans spent in each part; Did the beans last until dawn?; Growth points
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 night cards, shuffle them and lay them face down. 2. Copy the score sheet for each player. 3. Put the beans in a bowl.  
-  *Parent says:* You are a plant. By day you make starch. At night you live on it. Your job is to make it last until dawn.  
+  *Parent says:* You are a plant. By day you make starch. At night you live on it. Each night card shows how many parts the night has. Your job is to make your beans last until dawn.  
   *Child mode:* Cut out the night cards. Shuffle them. Copy the score sheet. Put the beans in a bowl.
 - **s2 (9 min)**  
   *Parent does:* 1. Roll the die three times and take the beans. 2. Each player says how many beans they will spend in each part of the night. 3. Now turn over a night card. 4. Spend the beans, part by part. 5. Write the points. 6. Play three nights like this.  
@@ -353,7 +353,7 @@ She ate the rice slowly. Then she went to find the blade.
 - **predict:** Guess first. Two leaves are picked at sunrise and two at sunset, from the same plant. Which pair will go darker with iodine: the sunrise pair, the sunset pair, or both the same? Write your guess and your reason for it.
 - **fair test:** Change only the time of picking. Use one plant. Pick leaves of the same size from the same sunny side. Treat all four leaves in the same tumbler of spirit for the same time, and use the same iodine. Test two leaves from each time, because one leaf alone can be odd.
 - **safety:** Surgical spirit catches fire very easily. Never heat it on a stove or near a flame. Warm it only by standing its tumbler in hot water, with the stove switched off. Only a grown-up handles the hot water and the spirit. Iodine stains cloth and must not be swallowed.
-- **record:** Fill in the table for all four leaves. Draw each leaf and colour it as it looks after the iodine. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table for all four leaves. Take a photo of each leaf after the iodine, or draw and colour it. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Leaf | When it was picked | Colour after iodine | Starch score (0 to 4)
 - **s1 (5 min)**  
   *Parent does:* 1. Do this early, before sunlight falls on the plant. 2. Look at the plant together. 3. Ask for the guess and the reason. 4. Your child writes both down.  
@@ -386,7 +386,7 @@ She ate the rice slowly. Then she went to find the blade.
 - **s6 (8 min)**  
   *Parent does:* 1. Your child fills in the table. 2. Ask for the three sentences. 3. Ask where the starch went in the night. 4. Only then read the card 'How a leaf makes the day's starch last all night' together.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. The dawn leaves had all night. So where did their starch go?  
-  *Child mode:* Fill in the table. Say what you thought. Say what you saw. Say why. Where did the starch go?
+  *Child mode:* Fill in the table. Say what you thought, what you saw, and why.
   - Ask: Where did the dawn leaves' starch go during the night? (good: The plant used it for energy in the dark.; The leaf turned it into sugar and sent it to the roots and buds.)
   - Ask: Why did we test two leaves each time? (good: One leaf could be odd, such as a shaded or old leaf.; If both leaves agree, we can trust the result more.)
   - Check: In Dawn Leaf, Dusk Leaf, a leaf picked at sunrise stays pale with iodine. What is the best explanation? → **The plant used up the starch during the night**
@@ -395,7 +395,7 @@ She ate the rice slowly. Then she went to find the blade.
 - **predict:** Guess first. After the iodine test, which parts of a green and white leaf will be blue-black: the green parts, the white parts, or all of the leaf? If you have a red leaf too, guess for that one. Write your guesses and the reason for each.
 - **fair test:** The green and the white parts are on one leaf. So they had the same light, the same water and the same air. The only difference between them is the chlorophyll. Pick the leaf in the afternoon of a sunny day, when a leaf holds the most starch.
 - **safety:** Surgical spirit catches fire very easily. Never heat it on a stove or near a flame. Warm it only by standing its tumbler in hot water, with the stove switched off. Only a grown-up handles the hot water and the spirit. Iodine stains cloth and must not be swallowed.
-- **record:** Keep the leaf map. Beside it, draw the leaf after the iodine test. Fill in the table. Then write what you thought, what you saw and why you think it happened.
+- **record:** Keep the leaf map. Beside it, put the leaf after the iodine test and take a photo, or draw it. Fill in the table. Then write what you thought, what you saw and why you think it happened.
 - **results table:** Part of the leaf | Colour before the test | Colour after iodine | Starch: yes or no
 - **s1 (6 min)**  
   *Parent does:* 1. Lay the leaf on paper and trace round it. 2. Draw the edges of the white patches. 3. Shade the green parts with the crayon. 4. Ask for the guess and the reason.  
@@ -415,54 +415,54 @@ She ate the rice slowly. Then she went to find the blade.
 - **s4 (6 min)**  
   *Parent does:* 1. Ask for the three sentences. 2. Ask how the white patch stays alive. 3. Only then read the card 'No chlorophyll, no starch' together.  
   *Parent says:* Say what you thought, what you saw and why. The white part makes no starch. So how does it stay alive?  
-  *Child mode:* Say what you thought. Say what you saw. Say why. How does the white part stay alive?
+  *Child mode:* Say what you thought, what you saw, and why. Then think about the white part.
   - Ask: How does the white part of the leaf stay alive? (good: The green parts send sugar to it.; It lives on food made by the green cells next to it.)
   - Check: A green and white leaf had the same light all over. Only the green parts made starch. What does that show? → **Starch is made only where there is chlorophyll**
 
 ## Activities
 ### a1 · Plate to Sun: follow your meal backwards (12 min)
-- **record:** Keep the drawing of the plate with its trails. Under it, write the one thing that nearly every trail passes through.
+- **record:** Take a photo of your trails. Then write the one thing that nearly every trail passes through.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw a big circle for the plate in the middle of the paper. 2. Write each food of the meal inside it, with salt and water too. 3. Ask the opening question.  
+  *Parent does:* 1. Write each food of the meal on its own paper slip, with salt and water too. 2. Lay the slips in a ring on the big paper, like a plate. 3. Ask the opening question.  
   *Parent says:* Here is our meal. Is there one food here that did not need sunlight? Which one, and why do you think so?  
-  *Child mode:* Draw your plate. Write every food on it. Is there one that did not need sunlight? Say why.
+  *Child mode:* Write each food on a slip. Lay them in a ring. Is there one that did not need sunlight? Say why.
   - Note: Do not correct the guess. Many children pick egg, fish, milk or mushroom.
 - **s2 (6 min)**  
-  *Parent does:* 1. Take one food at a time. 2. Ask who made it, and draw an arrow to that living being. 3. Ask what they ate, and draw the next arrow. 4. Go on until you reach a being who makes food from light. 5. Draw the Sun there.  
-  *Parent says:* Who made this food? And what did they eat? Keep asking until you reach someone who eats nothing at all.  
-  *Child mode:* Pick one food. Who made it? What did they eat? Draw arrows back until you reach the Sun.
+  *Parent does:* 1. Take one food at a time. 2. Ask who made it, and lay a slip with that living being next to it. 3. Ask what they ate, and add the next slip. 4. Go on until you reach a being who makes food from light. 5. Add a slip that says Sun.  
+  *Parent says:* Who made this food? And what did they eat? Keep asking until you reach the Sun.  
+  *Child mode:* Pick one food. Who made it? What did they eat? Add slips until you reach the Sun.
   - Ask: Who in the trail eats nothing at all? (good: The plant.; The plant makes food from air, water and light.; Tiny algae in the sea, for the fish.)
   - Note: For fish, the trail goes through tiny floating algae in the sea, not plants. For a mixed food such as sambar, one or two trails are enough.
 - **s3 (3 min)**  
-  *Parent does:* 1. Count how many trails end at the Sun. 2. Circle anything that has no trail. 3. Ask what nearly every trail passed through just before the Sun.  
+  *Parent does:* 1. Count how many trails end at the Sun. 2. Put aside anything that has no trail. 3. Ask what nearly every trail passed through just before the Sun.  
   *Parent says:* Where did the trails end? What is the last living being on each trail before the Sun? What do those beings share?  
-  *Child mode:* Count the trails that reach the Sun. Circle anything with no trail. What comes just before the Sun?
+  *Child mode:* Count the trails that reach the Sun. Put aside anything with no trail. What comes just before the Sun?
   - Check: A boiled egg is on your plate. Where does the egg's trail lead? → **Hen, then grain plants, then the Sun**
 ### a2 · The Banana Clock: watch starch turn into sugar (20 min)
 - **safety:** Do not eat any slice that iodine has touched. Taste only clean slices. A grown-up cuts the raw banana, which is hard.
-- **record:** Draw the three slices as they look after the iodine. Under each, write how sweet a clean slice of that banana tasted, from 0 to 3.
+- **record:** Take a photo of the three slices after the iodine, or draw them. Under each, write how sweet a clean slice of that banana tasted, from 0 to 3.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Cut two slices from each banana, about half a centimetre thick. 2. Put one slice of each on the plate, in order of ripeness. 3. Your child tastes the other three slices and gives each a sweetness score from 0 to 3. 4. Ask for a guess about the iodine.  
   *Parent says:* Taste each one. Which is sweetest? Now guess. Which slice will go darkest with iodine, and why?  
   *Child mode:* Taste a clean slice of each. Score how sweet it is. Guess which slice will go darkest.
   - Note: The raw banana tastes chalky and not sweet. That is safe to taste in a small bite.
 - **s2 (8 min)**  
-  *Parent does:* 1. Mix 10 drops of iodine with about 50 drops of water in the cup. 2. Spoon the mix over the three slices on the plate. 3. Wait 2 minutes. 4. Your child draws the three slices.  
+  *Parent does:* 1. Mix 10 drops of iodine with about 50 drops of water in the cup. 2. Spoon the mix over the three slices on the plate. 3. Wait 2 minutes. 4. Your child puts the three slices in order, darkest first.  
   *Parent says:* Watch the three slices. Where does the dark colour show first? Is it the same all over each slice?  
-  *Child mode:* Pour iodine on the three slices. Wait 2 minutes. Draw what you see.
+  *Child mode:* Pour iodine on the three slices. Wait 2 minutes. Put them in order, darkest first.
   - Note: The raw slice goes blue-black all over. The just-ripe slice is patchy. The very ripe slice stays mostly yellow-brown. Throw the tested slices away.
 - **s3 (7 min)**  
-  *Parent does:* 1. Lay the sweetness scores beside the drawings. 2. Ask what happened to the starch as the banana ripened. 3. Then read the card 'Sugar for now, starch for later, sucrose for travel'.  
+  *Parent does:* 1. Lay the sweetness scores beside the slices. 2. Ask what happened to the starch as the banana ripened. 3. Then read the card 'Sugar for now, starch for later, sucrose for travel'.  
   *Parent says:* The sweetest banana had the least starch. What do you think the banana did with the starch?  
   *Child mode:* Compare sweetness with darkness. Where did the starch go as the banana got ripe?
   - Ask: Wild bananas have seeds. Why would a fruit turn sweet when the seeds are ready? (good: A sweet fruit gets eaten.; The animal who eats the fruit carries the seeds away.)
   - Check: A raw banana goes blue-black with iodine, and a very ripe one hardly changes. Why? → **The ripe banana turned starch into sugar**
 ### a3 · The Red Glow: what chlorophyll does with light in a jar (20 min)
 - **safety:** Surgical spirit catches fire easily, so keep it away from any flame, and let only a grown-up pour it. Never shine an ultraviolet torch into anyone's eyes. Do not drink the green liquid.
-- **record:** Draw the glass in the dark with the torch beam passing through it. Colour the beam as you saw it. Write one sentence on what the chlorophyll did with the light.
+- **record:** Say what colour the beam was in each glass, or draw the glass in the dark and colour the beam. Write one sentence on what the chlorophyll did with the light.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Tear the leaves into small bits in the steel bowl. 2. A grown-up adds 4 tablespoons of spirit. 3. Crush the leaves hard with the back of the spoon for 3 minutes. 4. Strain the liquid through the cloth into a clear glass.  
-  *Parent says:* We are taking the chlorophyll out of the leaves. Why are we using spirit, and not water?  
+  *Parent says:* We are taking the chlorophyll out of the leaves. We will use spirit, not water.  
   *Child mode:* Tear the leaves. A grown-up adds spirit. Crush hard for 3 minutes. Strain the green liquid.
   - Ask: Why spirit and not water? (good: Chlorophyll dissolves in spirit.; It does not dissolve in water.)
   - Note: The liquid should be a clear dark green. If it is pale, crush more leaves into it.
@@ -479,7 +479,7 @@ She ate the rice slowly. Then she went to find the blade.
   - Check: Chlorophyll in a glass of spirit glows red in violet light. A living leaf hardly glows at all. Why? → **In the leaf, the caught energy is passed on and used**
 ### a4 · Green Under Red: is there chlorophyll in a red leaf? (15 min)
 - **safety:** A grown-up pours the just-boiled water and lifts the leaves out.
-- **record:** Draw a leaf before and after the hot water. Draw the water too, and colour it. Write where each pigment went.
+- **record:** Lay the leaf you kept aside beside the leaf from the hot water and take a photo, or draw both. Write where each pigment went.
 - **s1 (4 min)**  
   *Parent does:* 1. Put four red leaves on the white plate and look at both sides. 2. Ask whether a red leaf has chlorophyll, and how we could find out. 3. Ask what hot water might do to the leaf.  
   *Parent says:* This leaf is red, not green. Does it have chlorophyll? What do you think, and why? How could we find out?  
@@ -492,7 +492,7 @@ She ate the rice slowly. Then she went to find the blade.
 - **s3 (5 min)**  
   *Parent does:* 1. A grown-up lifts one leaf out onto the plate. 2. Put it beside the leaf you kept aside. 3. Ask where the red went, and why the green stayed.  
   *Parent says:* Where is the red now? Where is the green? One pigment went into the water and one did not. What does that tell you about each?  
-  *Child mode:* Compare the two leaves. Where did the red go? Why did the green stay in the leaf?
+  *Child mode:* Compare the two leaves. Look at the colour of each one.
   - Ask: Why did the red leave and the green stay? (good: The red pigment dissolves in water.; Chlorophyll does not dissolve in water. It needs spirit.)
   - Check: Hot water turns pink and a red amaranth leaf turns green. What does this show? → **The leaf had chlorophyll all along, under the red**
 ### a5 · Measure the Sun Catcher: how much leaf does one plant hold out? (25 min)
@@ -503,7 +503,7 @@ She ate the rice slowly. Then she went to find the blade.
   *Child mode:* Look down on the plant. Guess: do the leaves cover more than the pot? Count the leaves.
 - **s2 (12 min)**  
   *Parent does:* 1. Choose a small, a middle and a big leaf. 2. Hold each one flat on the squared paper, still on the plant, and trace round it. 3. Count the whole squares inside. 4. Count a part square as 1 if it is half or more, and as 0 if it is less. 5. Add the three areas and divide by 3.  
-  *Parent says:* Each square is one square centimetre. Count the squares inside each outline. Then find the mean of the three leaves.  
+  *Parent says:* Each square is one square centimetre. Count the squares inside each outline. The mean is the three areas added up, then divided by 3.  
   *Child mode:* Trace three leaves. Count the squares in each. Add the three numbers. Divide by 3.
   - Note: Counting part squares this way is an estimate, and that is fine. The mean of a small, a middle and a big leaf stands for all the leaves.
 - **s3 (9 min)**  
@@ -516,13 +516,13 @@ She ate the rice slowly. Then she went to find the blade.
 - **record:** Keep the comic strip. Read it aloud to someone who has not done this unit, and see whether they can follow it.
 - **s1 (4 min)**  
   *Parent does:* 1. Rule the paper into six boxes. 2. Ask your child to tell the journey aloud first, in their own words. 3. Write six short titles together, one for each box.  
-  *Parent says:* Tell me the journey first. A photon leaves the Sun. What happens to its energy, step by step, until someone eats it?  
+  *Parent says:* A photon is one tiny packet of light. Tell me the journey first. A photon leaves the Sun. What happens to its energy, step by step, until someone eats it?  
   *Child mode:* Rule six boxes. Tell the journey aloud first. Write a short title in each box.
   - Note: One good plan: 1 leaving the Sun, 2 caught by chlorophyll, 3 sugar is built, 4 stored as starch at dusk, 5 sent as sucrose at night, 6 eaten.
 - **s2 (12 min)**  
-  *Parent does:* 1. Your child draws the six boxes. 2. In box 2, they draw what they think happens inside the chloroplast, including what cannot be seen. 3. They add one sentence under each box.  
-  *Parent says:* Draw what you think happens, even the parts nobody can see. A drawing that explains is called a model.  
-  *Child mode:* Draw all six boxes. Show the parts nobody can see too. Write one sentence under each.
+  *Parent does:* 1. Your child makes the six boxes. They draw each one. Or they lay out small things in it, such as a torch for the Sun, a leaf, or a bean for starch. 2. In box 2, they show what they think happens inside the chloroplast, including what cannot be seen. 3. They add one sentence under each box.  
+  *Parent says:* Show what you think happens, even the parts nobody can see. A drawing or an arrangement that explains an idea is called a model.  
+  *Child mode:* Make all six boxes, by drawing or with small things. Show the parts nobody can see too. Write one sentence under each.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child reads the strip aloud. 2. Ask where the energy is in each box. 3. Ask what happens to the photon itself.  
   *Parent says:* In each box, where is the energy now? And is the photon still there after box 2?  
@@ -546,7 +546,7 @@ She ate the rice slowly. Then she went to find the blade.
 - **s3 (15 min)**  
   *Parent does:* 1. Take off both covers. 2. Lay the two prints side by side. 3. Your child says which half changed most. 4. Ask why a living leaf in the same window stays green.  
   *Parent says:* Which half faded most? A leaf on a plant sits in the sun for months and stays green. So what is different about a living leaf?  
-  *Child mode:* Take off the covers. Which half faded most? Why does a living leaf stay green?
+  *Child mode:* Take off the covers. Lay the prints side by side. Which half faded most?
   - Ask: Why does a living leaf stay green in the same sunlight? (good: The leaf passes the light's energy on and uses it.; The living leaf mends and replaces what the light harms.)
   - Note: The open half at the window usually fades to yellow-brown. The covered half and the drawer print stay greener. If you see little change, leave the print for three more sunny days. In a living leaf, parts harmed by bright light are replaced all day long, some of them about every half hour.
   - Check: A green leaf print fades in the sun, but a living leaf in the same sun stays green. Why? → **A living leaf uses the energy and replaces harmed parts**
@@ -555,7 +555,7 @@ She ate the rice slowly. Then she went to find the blade.
 ## Challenges
 ### c1 · The Leaf Tower: fix 12 leaves on one stem so that none is in the shade (35 min)
 - **problem:** Fix 12 paper leaves onto one upright stick. Seen from directly above, as many leaves as possible must be fully in view. A leaf that is hidden under another leaf is in the shade.
-- **your turn:** Now design your own leaf tower. Draw it, build it and score it from above. Then move the lamp to one side, as the Sun is in the morning, and score it again from where the lamp is. Which design was best for both?
+- **your turn:** Now design your own leaf tower. Plan it on paper or with loose leaves, build it and score it from above. Then move the lamp to one side, as the Sun is in the morning, and score it again from where the lamp is. Which design was best for both?
 - **constraints:** The stem is one stick, about 30 centimetres tall. No extra branches.; Every leaf is 4 centimetres wide and 6 centimetres long, on a stalk no longer than 4 centimetres.; All 12 leaves must be fixed to the stem, and no two leaves may be fixed at the same height.
 - **general:** Fix the leaves in two rows, on opposite sides of the stem.; Make the lower stalks longer than the upper ones.; Tilt each leaf a little, so that it does not lie right under the one above.
 - **creative:** Go round the stem in a spiral, turning each leaf a little further than the last, as a sunflower plant does.; Fix the leaves in pairs, and turn each pair a quarter turn from the pair below, as a tulsi plant does.; Make each leaf point a little downward, so that light slips past it to the leaf below.
@@ -570,9 +570,9 @@ She ate the rice slowly. Then she went to find the blade.
   *Child mode:* Pick one idea. Say why it should work. Rebuild the tower. Score it from above.
   - Ask: Why do longer stalks on the lower leaves help? (good: The lower leaves reach out beyond the shade of the upper ones.)
 - **s3 (15 min)**  
-  *Parent does:* 1. Your child designs a tower of their own and draws it from above. 2. They build it and score it. 3. Move the lamp, or your eye, to one side and score it again. 4. Look at a real plant from above and compare.  
+  *Parent does:* 1. Your child plans a tower of their own, on paper or by laying the loose leaves out as seen from above. 2. They build it and score it. 3. Move the lamp, or your eye, to one side and score it again. 4. Look at a real plant from above and compare.  
   *Parent says:* Now design your own. What will you change, and why? Then look down on a real plant. What has the plant done about shade?  
-  *Child mode:* Design your own tower. Draw it. Build it. Score it. Then look down on a real plant.
+  *Child mode:* Design your own tower. Plan it on paper or with loose leaves. Build it. Score it. Then look down on a real plant.
   - Note: Look down on a tulsi, a hibiscus or a papaya plant from above. You will see very little overlap between the leaves.
   - Check: Seen from above, the leaves of many plants hardly overlap. What does this do for the plant? → **Each leaf gets light, so more food is made**
 

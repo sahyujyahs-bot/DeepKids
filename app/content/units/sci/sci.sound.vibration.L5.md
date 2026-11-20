@@ -268,7 +268,7 @@ Tresa was already working it out.
 - **s2 (3 min)**  
   *Parent does:* 1. Tell your child the five stroke times: 8 seconds, 4 seconds, 2 seconds, 1 second and half a second. 2. Ask for a guess and a reason. 3. Write both down.  
   *Parent says:* A slow stroke will take 8 seconds, and the fastest will take half a second. Which strokes will sound like separate ticks? Which will sound like a note? Why do you think so?  
-  *Child mode:* The slowest stroke takes 8 seconds. The fastest takes half a second. Which will give ticks? Which will give a note? Why?
+  *Child mode:* Guess which strokes will give separate ticks and which will give a note.
   - Ask: Why do you think so? (good: A fast stroke makes the ticks come too close together to hear apart.; A zip makes a note when you pull it fast.; I think it will always be ticks, only quicker.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s3 (8 min)**  
@@ -311,7 +311,7 @@ Tresa was already working it out.
 - **s2 (3 min)**  
   *Parent does:* 1. Show your child the steel plate and the spoon. 2. Say that the plate will be struck in the air, touching nothing. 3. Ask for a guess and a reason, and write both down.  
   *Parent says:* I will hold this plate in the air and strike it. It will not touch the bowl or the table. Will the grains move? From how far away? Why do you think so?  
-  *Child mode:* The plate will not touch the bowl. Will the grains move anyway? From how far? Why?
+  *Child mode:* Guess if the grains will move without being touched, and from how far away.
   - Ask: Why do you think so? (good: Sound is a vibration, so it might shake the film.; Nothing touches the bowl, so the grains will stay still.; It will work close by, because the sound is stronger there.)
 - **s3 (5 min)**  
   *Parent does:* 1. The watcher covers both ears and looks at the grains from the far side. 2. Hold the plate upright by its rim, 10 cm from the bowl, with its flat face towards the bowl. 3. First swing the spoon and stop just before the plate. 4. Then strike the middle of the plate three times, with a pause between strikes. 5. Write a score for each strike.  
@@ -362,7 +362,7 @@ Tresa was already working it out.
   - Note: The clicks are heard clearly. The vibration crossed the water and the wall of the bucket to reach the ear. So sound travels through liquids too.
 - **s5 (4 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they thought would happen, what they heard, and why they think it happened. 3. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your counts. Say what you thought would happen, what you heard, and why you think it happened. Why was the ring so much stronger through the string?  
+  *Parent says:* Look at your counts. Say what you thought would happen, what you heard, and why you think it happened.  
   *Child mode:* Say what you thought would happen. Say what you heard. Say why you think it happened.
   - Ask: Why did the spoon sound so much louder through the string? (good: The vibration ran straight along the string and did not spread out.; A small spoon pushes very little air, but it can shake a string.)
   - Ask: Name the three kinds of medium the vibration crossed today. (good: A gas, which was the air.; A solid, which was the string.; A liquid, which was the water.)
@@ -375,7 +375,7 @@ Tresa was already working it out.
 - **s1 (4 min)**  
   *Parent does:* 1. Stretch the rubber band lengthwise over the tumbler, so that it crosses the open mouth. 2. Your child plucks the band over the mouth. 3. They look at it from the side, at eye level.  
   *Parent says:* Pluck the band and look at it from the side. What do you notice? Where is the blur widest? What do you wonder?  
-  *Child mode:* Pluck the band. Look from the side. Where is the blur widest? What do you wonder?
+  *Child mode:* Pluck the band. Look at it from the side. Where is the blur widest?
   - Ask: What do you notice? (good: The band looks like a blur.; The blur is widest in the middle and thin at the rim.; The hum gets softer as the blur gets thinner.)
   - Note: Do not explain yet. Write down what your child notices and wonders. The unit comes back to these questions.
 - **s2 (3 min)**  
@@ -385,22 +385,22 @@ Tresa was already working it out.
   - Note: The finger feels a tickle, and the hum stops at once. The paper buzzes, because the band hits it again and again, very quickly.
 - **s3 (3 min)**  
   *Parent does:* 1. Your child holds the tumbler by its base and taps the rim with the spoon. 2. While it rings, they pinch the rim with two fingers. 3. Ask the two questions and write down the answers.  
-  *Parent says:* Ring the tumbler, then pinch the rim. What happened to the sound? What was the band doing while it hummed? Why did it carry on after your finger let go?  
-  *Child mode:* Ring the tumbler. Pinch the rim. What happened to the sound? What was the band doing?
+  *Parent says:* Ring the tumbler, then pinch the rim. Listen. What happens to the sound?  
+  *Child mode:* Ring the tumbler. Pinch the rim. Listen to the sound.
   - Note: Keep your child's answer to the last question. The Slow String activity answers it.
   - Check: A ringing tumbler goes silent when you pinch its rim. What does that show? → **The sound lasts only while the tumbler vibrates**
 ### a2 · The Slow String: watch one vibration (15 min)
-- **record:** Draw the chain at three moments of one swing: far to one side, passing the middle, and far to the other side. Mark where it was fastest and where it stopped.
+- **record:** Tell your grown-up where the peg was moving fastest and where it stopped for a moment. You can also take a photo of the peg at the far side and another as it passes the middle.
 - **s1 (4 min)**  
   *Parent does:* 1. Loop six rubber bands into a chain. 2. Tie one end to a chair. 3. Hold the other end so that the chain is just straight and hardly stretched. 4. Clip the peg to the middle. 5. Pull the peg a hand-width to one side and let go.  
   *Parent says:* This chain is a string, but a slow one. Pull the peg to the side and let go. Watch one full trip. Where does the peg stop for a moment? Where is it moving fastest?  
-  *Child mode:* Clip the peg to the middle of the chain. Pull it to the side. Let go and watch. Where is it fastest?
+  *Child mode:* Clip the peg to the middle of the chain. Pull it to the side. Let go and watch one full swing.
   - Ask: Where is the peg moving fastest, and where does it stop for a moment? (good: It is fastest in the middle, at the rest position.; It stops for a moment at each side, then turns back.)
   - Note: With the peg on, the chain swings about 3 times a second. If it is too quick to follow, hold the chain a little looser or add a second peg.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask the question below before you explain anything. 2. Let your child watch several swings. 3. Then read them the explanation in the note.  
   *Parent says:* The chain pulls the peg back towards the middle. So why does the peg not stop when it gets to the middle? Watch again, and tell me what you think.  
-  *Child mode:* The chain pulls the peg to the middle. Why does the peg not stop there? Watch again.
+  *Child mode:* Watch the peg swing several times. Think about why it keeps going past the middle.
   - Ask: Why does the peg not stop in the middle? (good: It is moving fastest there, so it carries on.; Nothing stops it in the middle. The pull only starts again once it has gone past.)
   - Note: The stretched chain pulls the peg back towards its rest position. The peg speeds up all the way there, so it arrives at full speed and goes past. On the other side the chain pulls it back again. Each swing is a little smaller, because some energy leaves each time.
 - **s3 (4 min)**  
@@ -418,7 +418,7 @@ Tresa was already working it out.
   - Think: A veena player presses a string against a fret to play a higher note. Which of your three changes is that?
 ### a3 · The Palm Pipe: play an air column with a slap (15 min)
 - **safety:** A grown-up cuts the tube.
-- **record:** Draw the long tube and the short tube. Under each one write 'higher note' or 'lower note'.
+- **record:** Lay the long tube and the short tube side by side. Put a paper label 'higher note' under one and 'lower note' under the other. Tell your grown-up why.
 - **s1 (3 min)**  
   *Parent does:* 1. Screw the cap on the empty bottle. 2. Your child squeezes it and lets go. 3. Take the cap off and squeeze again.  
   *Parent says:* Squeeze the closed bottle. What do you feel? Now take the cap off and squeeze again. What is different?  
@@ -427,12 +427,12 @@ Tresa was already working it out.
 - **s2 (5 min)**  
   *Parent does:* 1. Your child holds the long tube upright in one hand. 2. They slap the top end with the flat of the other palm, and keep the palm on the end. 3. Ask for a guess: will a tube half as long sound higher, lower or the same? Ask why.  
   *Parent says:* Slap the end and keep your palm there. Listen for the note inside the 'pop'. Now guess. I will cut the other tube in half. Will the short tube sound higher, lower or the same? Why do you think so?  
-  *Child mode:* Slap the end of the tube and keep your palm there. Hear the note. Will a short tube sound higher or lower? Why?
+  *Child mode:* Slap the end of the tube and keep your palm there. Listen for the note. Then guess what a short tube will sound like.
   - Ask: Why do you think so? (good: A short string was higher, so a short tube may be higher too.; There is less air to move in a short tube.)
   - Note: The slap squeezes the air in the tube. The air springs back and vibrates back and forth along the tube for a moment. That gives the 'pop' its note. A rolled paper tube gives a softer sound than a cardboard one.
 - **s3 (7 min) · grown-up needed**  
-  *Parent does:* 1. Cut the second tube in half. 2. Your child slaps the long tube, then the short one, several times. 3. Ask what they thought would happen, what happened and why. 4. Then they hold the long tube to one ear and listen. They try it with the far end open, and then closed by a palm.  
-  *Parent says:* Slap the long one, then the short one. Which is higher? Say what you thought would happen, what happened, and why you think it happened. Now hold the long tube to your ear and listen.  
+  *Parent does:* 1. Cut the second tube in half. 2. Your child slaps the long tube, then the short one, several times. 3. Ask what they thought would happen, what happened and why.  
+  *Parent says:* Slap the long one, then the short one. Which is higher? Say what you thought would happen, what happened, and why you think it happened.  
   *Child mode:* Slap the long tube. Slap the short tube. Which is higher? Say why you think it happened.
   - Note: The short tube gives the higher note. With the tube at your ear you hear a faint steady hum, picked out of the noise of the room. It drops lower when a palm closes the far end. This last part is faint, so try it in a room with a fan running.
   - Check: A 30 cm tube and a 15 cm tube are each slapped on one end. Which gives the higher note? → **The 15 cm tube**
@@ -459,7 +459,7 @@ Tresa was already working it out.
 ## Projects
 ### p1 · The Dancing Light Spot: a skin that shows your voice (40 min, 2 days)
 - **safety:** A grown-up cuts the cup and the balloon. Do not use a laser pointer: it can harm eyes. Never shine the torch or the sunlight into anyone's eyes.
-- **record:** Draw the shape the spot makes for a soft 'aaa', a loud 'aaa', a low hum and a high hum. Beside each drawing write the length of the streak in centimetres.
+- **record:** Write the length of the streak in centimetres for a soft 'aaa', a loud 'aaa', a low hum and a high hum. You can draw the streaks too, or just tell your grown-up which was longest.
 - **schedule:** day 1: Build the skin with its mirror, let the glue dry, and find the spot of light on the wall. (20 min); day 2: Speak softly and loudly, low and high, at the skin. Measure how long the streak of light becomes each time. (20 min)
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the bottom out of the cup, and cuts the neck off the balloon. 2. Stretch the balloon over the wide end of the cup and hold it with the rubber band. 3. Glue the mirror to the skin, about halfway between the centre and the edge. 4. Leave the glue to dry.  
@@ -479,7 +479,7 @@ Tresa was already working it out.
   - Ask: What did the loud 'aaa' do to the spot, compared with the soft one? (good: The streak was longer.; The skin moved further, so the mirror tilted more.)
   - Note: A louder sound gives a longer streak, because the skin has a bigger amplitude. Low and high notes often give different shapes. Some notes move the skin much more than others. If the spot does not move, bring the mouth closer, and check that the skin is tight.
 - **s4 (8 min)**  
-  *Parent does:* 1. Look at the drawings and the lengths together. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. Ask what in their own body works like this skin.  
+  *Parent does:* 1. Look at the streak lengths together. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. Ask what in their own body works like this skin.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Your voice never touched the skin. What carried the vibration there?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why you think it happened.
   - Note: The voice pushes the air, the air pushes the skin, and the mirror shows the movement. A microphone works in the same way: a thin skin moves with the sound, and the movement is turned into an electric signal.
@@ -488,13 +488,13 @@ Tresa was already working it out.
 ## Challenges
 ### c1 · Quiet the Buzz: a stand for a buzzing phone (25 min)
 - **problem:** A phone set to vibrate lies on an upturned steel plate. When it buzzes, the rattle can be heard across the flat. Build a stand for the phone that sits on the same plate. The buzz must be as quiet as you can make it. The phone must lie on top where you can see the whole screen.
-- **your turn:** Now design your own stand. Draw it, build it and test it with the walk-away test. From how many steps away can you still hear the buzz? Write which idea worked best, and why you think it did.
+- **your turn:** Now design your own stand. Plan it by drawing it or by telling your grown-up. Then build it and test it with the walk-away test. From how many steps away can you still hear the buzz? Write which idea worked best, and why you think it did.
 - **constraints:** The stand must sit on the steel plate. You may not move the plate.; The phone must lie on top of the stand, with its whole screen showing. You may not wrap it or cover it.; The phone must stay on the stand while it buzzes for 10 seconds.; Use only things from home, such as cloth, sponge, erasers, rubber bands, bottle caps, card and rice.
 - **general:** Put a thick, soft pad under the phone, such as a sponge or a folded towel.; Stand the phone on four soft feet, such as four erasers.; Hang the phone in a sling of rubber bands stretched across a small box.
 - **creative:** Rest the phone on a bed of rice in a shallow lid. The grains rub against each other and take the energy.; Put a heavy book between the phone and a soft pad. A heavy thing is harder to shake.; Stack two different soft layers, such as sponge on cloth, and test whether two layers beat one.
 - **s1 (6 min)**  
   *Parent does:* 1. Set the phone to vibrate and lay it on the upturned steel plate. 2. Call it from another phone. 3. Your child walks away, one step at a time, until the buzz cannot be heard. 4. Write down the number of steps. 5. Then do the same with the phone held in a hand.  
-  *Parent says:* First let us hear the problem. How many steps away can you still hear the buzz? Now I will hold the phone in my hand. Is it louder or quieter? Why do you think so?  
+  *Parent says:* First let us hear the problem. How many steps away can you still hear the buzz? Now I will hold the phone in my hand. Is it louder or quieter?  
   *Child mode:* Lay the phone on the plate and make it buzz. Walk away until it is silent. Count your steps.
   - Ask: The phone is the same. Why is it so much louder on the plate than in a hand? (good: The plate vibrates too, and it is big, so it pushes more air.; The hand is soft and takes the vibration.)
   - Note: A phone buzzes because a tiny motor inside spins a weight that is off its centre. The phone is small, so it pushes little air. On the plate, the whole plate is made to vibrate and acts as a soundboard.

@@ -609,11 +609,11 @@
      "id": "s2",
      "mins": 12,
      "do": "Play by the rules for 12 minutes. Each time a card is turned over, ask the question below.",
-     "say": "Before you turn the card over, tell me your exact words. Who would your action help? Could anyone get hurt?",
+     "say": "Before you turn the card over, tell me your exact words.",
      "kid": "Take a card. Choose an action. Say your exact words. Then turn the card over.",
      "ask": [
       {
-       "q": "Who does your action help, and could anyone get hurt by it?",
+       "q": "Who does your action help? Could anyone get hurt by it?",
        "good": [
         "It helps the child who is teased, and nobody is hurt.",
         "If I pushed the bully, someone could get hurt, so I would tell a teacher.",
@@ -655,7 +655,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a dice game that the players win or lose together. Each roll of the die is a passer-by, who drops a wrapper more often when the lane already has wrappers. The players have only five chances to pick one up.",
+   "context": "This is a dice game that the players win or lose together. Each roll of the die is a passer-by, who drops a wrapper more often when the lane already has wrappers. The players have only five chances to pick one up. You will find out how one dropped wrapper leads to more.",
    "printables": [
     {
      "kind": "board",
@@ -759,8 +759,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Compare the two tally sheets. Ask the question below.",
-     "say": "Look at both rounds. When did one pick-up card help the most? What does that tell you about a real lane?",
-     "kid": "Compare the two rounds. When did a pick-up card help the most?",
+     "say": "Look at both rounds. What does that tell you about a real lane?",
+     "kid": "Compare the two rounds. Which one ended with fewer wrappers?",
      "check": {
       "t": "mcq",
       "q": "In Keep the Lane Clean, when does one pick-up card help the most?",
@@ -832,7 +832,7 @@
      "what": "Practise, then do six runs that take turns between calm and hurried. Swap roles so that the grown-up is tested too."
     }
    ],
-   "record": "Draw the table. Fill one row for each run. Under it, write what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Make a table. Fill one row for each run. Under it, write what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -905,7 +905,7 @@
      "mins": 4,
      "do": "Stand the bottle in the middle of the plate. Put 15 chana in the bowl. Ask for the guess and the reason, and write both down.",
      "say": "You will drop 15 chana into the bottle, one at a time. In some runs I stay quiet. In some runs I hurry you. How many will miss in each kind? Why do you think so?",
-     "kid": "Drop 15 chana into the bottle. Will hurry words change your aim? Why do you think so?",
+     "kid": "Drop 15 chana into the bottle. Guess how many miss when someone hurries you. Why do you think so?",
      "ask": [
       {
        "q": "Why might hurry words change where a chana goes?",
@@ -932,9 +932,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Do the first pair of runs. Calm run: the helper says 'Go', then stays silent. Count the chana on the plate. Count the pulse for 15 seconds. Then do a hurried run: the helper says 'Go', then calls 'Faster! Hurry! Time is running out!' all the way through. Count both again.",
+     "do": "Do the first pair of runs. Calm run: the helper says 'Go', then stays silent. Count the chana on the plate. Count the pulse for 15 seconds. Ask how tight the body feels, from 1 (loose) to 5 (very tight), and write it down. Then do a hurried run: the helper says 'Go', then calls 'Faster! Hurry! Time is running out!' all the way through. Count all three again.",
      "say": "First a calm run. I say 'Go' and nothing more. Afterwards we count the chana on the plate, and your pulse for 15 seconds. Then the hurried run.",
-     "kid": "Do one calm run and one hurried run. Count misses. Count your pulse for 15 seconds.",
+     "kid": "Do one calm run and one hurried run. Count misses. Count your pulse for 15 seconds. Say how tight you feel, from 1 to 5.",
      "check": {
       "t": "mcq",
       "q": "In the Hurry Test, why do the calm and hurried runs take turns?",
@@ -1003,7 +1003,7 @@
    "title": "The Smile Count: does a smile come back more often than a plain face?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you greet 10 people with a smile and a word, and 10 people with a plain face and no word. You count how many smile back. It tests whether a face spreads from one person to another.",
+   "context": "In this experiment you greet 10 people with a smile and a word, and 10 people with a plain face and no word. You count how many smile back. You will find out whether a smile makes a stranger smile back.",
    "question": "Out of 10 people, how many smile back at a smile and a greeting, and how many smile back at a plain face?",
    "predict": "Before you start, guess. How many of 10 people will smile back at a smile? How many at a plain face? Why do you think so?",
    "fair_test": "Greet people one after another, taking turns: smile, plain, smile, plain. Use the same places and the same time of day. A plain face is a calm, ordinary face, never a cross one. Only the smile and the word change. Count a smile back only if it comes within 3 seconds.",
@@ -1035,7 +1035,7 @@
      "what": "Walk to a place where people pass. Greet 10 people with a smile and 10 with a plain face, taking turns. The grown-up keeps the tally."
     }
    ],
-   "record": "Make a table with two rows: smile and word, plain face. Write the number of people, the number who smiled back and the number who said something back.",
+   "record": "Make a table with two rows: smile and word, plain face. Write the number of people and the number who smiled back.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1193,7 +1193,7 @@
      "what": "Measure five doors, any threshold or step, and the heights of switches, taps and handles. Compare them with a wheelchair and a seated person."
     }
    ],
-   "record": "Draw a table with a row for each door, step, switch and handle. Write the measurement and tick yes or no. At the bottom, write the one change that would help the most.",
+   "record": "Make a table with a row for each door, step, switch and handle. Write the measurement and tick yes or no. At the bottom, write the one change that would help the most.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1270,7 +1270,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Open each of five doors fully, such as the front door, the bathroom, the kitchen, a bedroom and the balcony. Hold the 65 cm string across the narrowest gap. Then measure the gap with the tape. Write the number.",
+     "do": "Open each of five doors fully, such as the front door, the bathroom, the kitchen, a bedroom and the balcony. Hold the 65 cm string across the narrowest gap. Then measure the gap with the tape. Write the number, and whether it is 90 cm or more.",
      "say": "Open the door fully. Does the 65 centimetre string fit across the narrowest gap? Measure it and write the number.",
      "kid": "Open each door fully. Measure the narrowest gap. Does the 65 cm string fit?",
      "check": {
@@ -1342,7 +1342,7 @@
    "title": "Three Good Places: why do you like them?",
    "mins": 12,
    "days": 1,
-   "context": "This is a short activity to start the unit. You name three places where you feel happy and safe. Then you sort your reasons into the people in them and the things in them.",
+   "context": "This is a short activity to start the unit. You name three places where you feel happy and safe. Then you sort your reasons into the people in them and the things in them. You will find out whether a place feels happy because of its people or its things.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -1420,7 +1420,7 @@
    "title": "The E on Your Forehead: whose point of view do you take?",
    "mins": 8,
    "days": 1,
-   "context": "This is a quick activity about seeing a place, or a letter, from another person's side. You draw a capital E on your own forehead with a finger. Then you check which way round you drew it.",
+   "context": "This is a quick activity about seeing a place, or a letter, from another person's side. You draw a capital E on your own forehead with a finger. Then you check which way round you drew it. You will find out whose side most people draw from.",
    "materials": [
     {
      "item": "two or more people sitting facing each other",
@@ -1446,7 +1446,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Sit facing your child. Say: 'Draw a big capital E on your own forehead with one finger. Do it quickly, without stopping to plan.' Watch the three short lines of the E. Write which way they pointed. Then swap roles.",
+     "do": "Sit facing your child. Ask them to draw the E, then watch the three short lines of it. Write which way they pointed. Then swap roles.",
      "say": "Draw a big capital E on your own forehead with one finger. Do it quickly, without stopping to plan.",
      "kid": "Draw a capital E on your forehead with one finger. Be quick.",
      "parent": "If the three short lines point to the drawer's right ear, the drawer can read the E, and the watcher sees it backwards. If they point to the drawer's left ear, the watcher can read it. Write down who drew which. Do not say what it means yet.",
@@ -1455,7 +1455,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Ask each person how they drew it, and which way the short lines pointed. Then try again. This time say: 'Draw the E so that I can read it.' Check what each person did.",
+     "do": "Ask each person how they drew it, and which way the short lines pointed. Then try again, this time asking for the E to be drawn so that you can read it. Check what each person did.",
      "say": "Which way did you draw your E? Who could read it, you or the watcher? Now draw it again so that the watcher can read it. Is it harder?",
      "kid": "Which way did you draw it? Now draw it so the watcher can read it.",
      "ask": [
@@ -1476,7 +1476,7 @@
      "mins": 2,
      "do": "Ask the question below. Then say that places are built the same way, by people who think about their own view.",
      "say": "Why might a person draw the E for themselves? A place can be built from one person's side, too. Where have you seen that?",
-     "kid": "A place can be built from one person's side. Where have you seen that?",
+     "kid": "Most people draw the E for themselves. A place can be built that way too.",
      "ask": [
       {
        "q": "Where have you seen a place built from only one person's side?",
@@ -1515,7 +1515,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with four rows: said again, said louder, pointed, showed. Write a tick if the helper understood the instruction.",
+   "record": "Make a table with four rows: said again, said louder, pointed, showed. Write a tick if the helper understood the instruction.",
    "setup": [
     {
      "art": "A mother saying a sentence to her daughter, who holds up empty palms, with a cup, a spoon and a plate on the table between them.",
@@ -1570,9 +1570,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the question below. Write down a plan for welcoming a new child who does not know your language.",
+     "do": "Ask the question below. Say or write down a plan for welcoming a new child who does not know your language.",
      "say": "A new child joins your class. She does not know your language. What are three things you could do to help her?",
-     "kid": "A new child does not know your language. What can you do to help?",
+     "kid": "Picture a new child in your class who does not know your language. Use the four ways you tried.",
      "ask": [
       {
        "q": "What could you do to help a new child who does not know your language?",
@@ -1593,7 +1593,7 @@
    "title": "What Helped? Which calming move slows your pulse best?",
    "mins": 25,
    "days": 1,
-   "context": "In the Hurry Test you counted your pulse after hurried runs. In this activity you raise your pulse by marching for a minute. Then you try three ways to settle, and keep a log of what helped. It shows how a big feeling in the body can settle.",
+   "context": "In the Hurry Test you counted your pulse after hurried runs. In this activity you raise your pulse by marching for a minute. Then you try three ways to settle, and keep a log of what helped. You will find out which way of settling slows your pulse most.",
    "materials": [
     {
      "item": "a clock or phone that shows seconds",
@@ -1609,7 +1609,7 @@
     }
    ],
    "safety": "March on the spot at an easy pace, not a run. Stop at once if you feel dizzy or unwell. A grown-up stays with the child.",
-   "record": "Draw the What Helped? log with a row for each move: pulse at the start, pulse at the end, and the feeling size at the start and end, from 1 (small) to 5 (big).",
+   "record": "Make the What Helped? log with a row for each move: pulse at the start, pulse at the end, and the feeling size at the start and end, from 1 (small) to 5 (big).",
    "setup": [
     {
      "art": "A girl marching on the spot with a clock on a chair beside her and a grown-up counting seconds.",
@@ -1628,7 +1628,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show your child how to count the pulse: two fingers on the inside of the wrist, for 15 seconds. Show the slow out-breath: breathe in for 3 counts, out for 6. Ask the guess below.",
+     "do": "Show your child how to count the pulse: two fingers on the inside of the wrist, for 15 seconds. Show the slow out-breath: breathe in for 3 counts, out for 6. Explain the feeling size: 1 is a small feeling and 5 is a big one. Ask the guess below.",
      "say": "We will try three ways to settle your body. One is to sit still. One is to breathe out slowly. One is to say how you feel and tell me. Which will slow your pulse most? Why?",
      "kid": "Try three ways to settle. Which will slow your pulse most? Why?",
      "parent": "Do not correct the guess. Any answer with a reason is a good start.",
@@ -1638,7 +1638,7 @@
     {
      "id": "s2",
      "mins": 17,
-     "do": "Do three trials, with a 3-minute rest between them. In each trial: March on the spot for 1 minute. Count the pulse for 15 seconds, and write it. Give the feeling a size from 1 to 5. Then settle for 1 minute in one of three ways. Trial A: sit still. Trial B: sit and breathe in for 3 counts and out for 6. Trial C: say aloud 'I feel puffed and a bit silly', and tell the grown-up about your day. Count the pulse again and write the feeling size.",
+     "do": "Do three trials, with a 3-minute rest between them. In each trial: March on the spot for 1 minute. Count the pulse for 15 seconds, and write it. Give the feeling a size from 1 to 5. Then settle for 1 minute in one of three ways. Trial A: sit still. Trial B: sit and breathe in for 3 counts and out for 6. Trial C: tell the grown-up how you feel, such as 'I feel puffed and a bit silly'. Count the pulse again and write the feeling size.",
      "say": "March for one minute. Count your pulse. Give your feeling a size from one to five. Then settle for one minute in one of three ways. Count the pulse again.",
      "kid": "March one minute. Count your pulse. Settle one minute. Count again.",
      "adult": true,
@@ -1650,7 +1650,7 @@
      "mins": 5,
      "do": "Look at the log together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Ask for the move they will try the next time they feel a big feeling.",
      "say": "Look at your log. Say what you thought would happen, what you saw, and why you think it happened. Which move would you try next time you feel a big feeling?",
-     "kid": "Look at your log. Which move helped most? Which will you try next time?",
+     "kid": "Look at your log. Say what you thought, what you saw, and why. Then choose a move for next time.",
      "ask": [
       {
        "q": "Which move slowed your pulse the most? Did it also make you feel better?",
@@ -1684,7 +1684,7 @@
    "title": "Know Their Name: ask one worker about their day",
    "mins": 20,
    "days": 1,
-   "context": "This is an activity about the people who keep a building running. You greet one of them by name and ask four polite questions about their day. Then you write the day as they might live it.",
+   "context": "This is an activity about the people who keep a building running. You will find out what a day is like for one of them. You greet one of them by name and ask four polite questions about their day. Then you write the day as they might live it.",
    "materials": [
     {
      "item": "a notebook page and a pencil",
@@ -1721,7 +1721,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child greets the person by name and asks four questions. First, what time does the day start? Second, what is done first? Third, what is the hardest part? Last, what would make it easier? Your child writes the answers in short lines.",
+     "do": "Your child greets the person by name and asks four questions. First, what time does the day start? Second, what is done first? Third, what is the hardest part? Last, what would make it easier? Your child writes the answers in short lines, or says them back while you write.",
      "say": "Greet them by name and ask if you may ask four questions. What time does your day start? What do you do first? What is hardest? What would make it easier?",
      "kid": "Greet them by name. Ask four questions. Write the answers.",
      "adult": true,
@@ -1742,8 +1742,8 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "At home, your child writes 8 lines about the person's day, as the person. They start from what the person said. They mark what was said and what was imagined. Ask the question below.",
-     "say": "Write eight lines about their day, as if you were them. Mark what they told you, and what you imagined. What could our building change to make it easier?",
+     "do": "At home, your child writes 8 lines about the person's day, as the person, or says them aloud while you write. They start from what the person said. They mark what was said and what was imagined. Ask the question below.",
+     "say": "Write eight lines about their day, as if you were them. Mark what they told you, and what you imagined.",
      "kid": "Write eight lines about their day, as them. Mark what they said and what you imagined.",
      "ask": [
       {
@@ -1810,7 +1810,7 @@
      "what": "Tick again. Count the ticks. Change one rule if it does not work, and say why."
     }
    ],
-   "record": "Write the five rules and the signatures. Draw a grid with the five rules down the side and the days across. Tick each rule kept. At the end, write which rule was kept most and why.",
+   "record": "Write the five rules and the signatures. Make a grid with the five rules down the side and the days across. Tick each rule kept. At the end, write which rule was kept most and why.",
    "setup": [
     {
      "art": "A family sitting round a table in a flat, each person saying one rule while one child writes on a large sheet of paper.",
@@ -1868,8 +1868,8 @@
      "id": "s4",
      "mins": 15,
      "do": "Day 4. Tick again. Count the ticks for each rule. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Change one rule if it did not work.",
-     "say": "Count the ticks for each rule. Which rule was kept most? Which least? Say what you thought would happen, what you saw, and why you think it happened.",
-     "kid": "Count the ticks. Which rule was kept most? Why?",
+     "say": "Count the ticks for each rule. Say what you thought would happen, what you saw, and why you think it happened.",
+     "kid": "Count the ticks for each rule. Which rule was kept least?",
      "wait": "Do this the day after day 3",
      "ask": [
       {
@@ -1892,7 +1892,7 @@
    "id": "c1",
    "title": "The Ramp That Fits: a 15 cm step and only 120 cm of ground in front",
    "mins": 30,
-   "context": "In the Doorway Test you found that a step or a raised edge can stop a wheelchair. In this design challenge you plan a ramp for a 15 cm step at a library door. A scale model, with 1 cm standing for 10 cm, lets you test your plan.",
+   "context": "In the Doorway Test you found that a step or a raised edge can stop a wheelchair. In this design challenge you plan a ramp for a 15 cm step at a library door. A scale model, with 1 cm standing for 10 cm, lets you test your plan. You will find out how to fit a gentle ramp where there is little room.",
    "problem": "A library door has one step that is 15 cm high. Guides say a ramp may rise no more than 1 cm for every 12 cm of length. But the ground in front of the step is only 120 cm deep, because a wall stands there. The step itself is 600 cm wide. Design a ramp that a wheelchair can use.",
    "constraints": [
     "In your model, 1 cm stands for 10 cm. The step is 1.5 cm high and 60 cm wide. The ground in front is 12 cm deep.",
@@ -1917,7 +1917,7 @@
     "A ramp that curves along the front of the step in a gentle arc.",
     "A ramp built from the side, where there is more ground, and joined to the path."
    ],
-   "your_turn": "Design your own ramp. Draw it from above and from the side. Write its total length, its rise and how many centimetres of length it has for each 1 cm of rise. Say who else it helps.",
+   "your_turn": "Design your own ramp. Show it from above and from the side, by drawing it or building it from card. Write its total length, its rise and how many centimetres of length it has for each 1 cm of rise. Say who else it helps.",
    "setup": [
     {
      "art": "A notebook 1.5 centimetres thick standing on a table with a ruler beside it, and a card wall behind it marking 12 centimetres of ground in front.",
@@ -1941,7 +1941,7 @@
      "kid": "A step is 15 cm high. The ground in front is only 120 cm. How could a wheelchair get up?",
      "ask": [
       {
-       "q": "Why can a ramp not be as short as the step is high?",
+       "q": "Why must a ramp be longer than the step is high?",
        "good": [
         "It would be a very steep slope.",
         "A wheelchair could tip back.",
@@ -1957,7 +1957,7 @@
      "mins": 12,
      "do": "Your child lays a card strip 12 cm long straight out from the step to the floor. They measure the rise and the length. They work out how many centimetres of length there are for each 1 cm of rise. They roll the toy car down it.",
      "say": "Lay a strip of card 12 centimetres long, straight out from the step. How many centimetres of length do you have for each centimetre of rise?",
-     "kid": "Lay a 12 cm strip straight out from the step. How long is it for each 1 cm of rise?",
+     "kid": "Lay a 12 cm strip straight out from the step. Roll the toy car down it.",
      "check": {
       "t": "mcq",
       "q": "A 12 cm ramp rises 1.5 cm. How many cm of length for each 1 cm of rise?",
@@ -1976,8 +1976,8 @@
      "id": "s3",
      "mins": 10,
      "do": "Your child makes a ramp at least 18 cm long that still fits in the 12 cm of ground. They build it from card strips and tape. They measure its length and roll the toy car along it.",
-     "say": "Now make a ramp at least 18 centimetres long that still fits in 12 centimetres of ground. Remember that the step is 60 centimetres wide.",
-     "kid": "Make an 18 cm ramp that fits in 12 cm of ground.",
+     "say": "Now make a ramp at least 18 centimetres long that still fits in 12 centimetres of ground. The step is wide, so the ramp can run sideways along the front of it.",
+     "kid": "Make an 18 cm ramp that fits in 12 cm of ground. Run it sideways along the step.",
      "parent": "The usual answer runs sideways along the front of the step. A strip 18 cm long and 12 cm wide fits in the 12 cm of ground. 18 ÷ 1.5 = 12, which just meets the guide. Accept any design that measures well.",
      "context": "In this step of The Ramp That Fits you build a ramp that is long enough and still fits the space."
     },
@@ -1985,7 +1985,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Compare the two ramps. Ask the question below.",
-     "say": "Compare the two ramps. Which one would you rather push a wheelchair up? What does the longer ramp cost, and who does it help?",
+     "say": "Compare the two ramps. Which one would you rather push a wheelchair up? What does the longer ramp cost?",
      "kid": "Compare the two ramps. Which is better? What does the longer ramp cost?",
      "ask": [
       {
@@ -2045,7 +2045,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Recall Lost for Words, where pointing and showing worked best. Ask your child for the guess below, and write it down.",
-     "say": "In Lost for Words, saying it louder did not help, and showing worked. What kind of picture will show 'hang your bag on the hook'? Which idea will work best? Why?",
+     "say": "In Lost for Words you tried four ways to give an instruction. What kind of picture will show 'hang your bag on the hook'? Which idea will work best? Why?",
      "kid": "Showing worked in Lost for Words. What picture shows 'hang your bag'? Why?",
      "ask": [
       {
@@ -2062,9 +2062,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws a notice with no words and at most three colours.",
-     "say": "Draw your notice. Use no words and at most three colours. Make it big and clear.",
-     "kid": "Draw a notice with no words. Use at most three colours.",
+     "do": "Your child makes a notice with no words and at most three colours. They can draw it or stick down cut paper shapes.",
+     "say": "Make your notice. Use no words and at most three colours. Make it big and clear. Draw it, or cut paper shapes and stick them down.",
+     "kid": "Make a notice with no words. Draw it, or stick down cut paper shapes.",
      "parent": "Let your child choose. Pictures with arrows, a tick and a cross work well. If they use a word by habit, rub it out and draw it instead.",
      "context": "In this step of A Notice Without Words you draw a notice that uses no words."
     },

@@ -438,7 +438,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the choices a cell has. Each card describes one cell at one moment. You decide what that cell does next: divide by mitosis, divide by meiosis, specialise, wait, or die by plan. The answer and the reason are on the back.",
+   "context": "This is a card game about the choices a cell has. Each card describes one cell at one moment. You decide what that cell does next: divide by mitosis, divide by meiosis, specialise (take on one special job), wait, or die by plan. The answer and the reason are on the back.",
    "printables": [
     {
      "kind": "cards",
@@ -581,7 +581,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Cut out the 24 cell cards. 2. Write the five answers on slips of paper, one set for each player. 3. Shuffle the cell cards.",
-     "say": "Each card describes one cell at one moment. A cell has five choices. Let's read the five answer cards first.",
+     "say": "Each card describes one cell at one moment. A cell has five choices: divide by mitosis, divide by meiosis, specialise, wait, or die by plan. Let's read the five answer slips first.",
      "kid": "Cut out the cards. Make five answer slips. Shuffle the cell cards.",
      "parent": "Read the five answers aloud once. 'Wait' means the cell stays as she is and carries on with her work.",
      "context": "This is the first step of Divide, Wait, Change or Die? Here you make the cards and learn the five answers."
@@ -591,10 +591,10 @@
      "mins": 15,
      "do": "1. Read the top card aloud. 2. Count to three. 3. Everyone lays down an answer. 4. Turn the card over and read the reason.",
      "say": "Ask two questions each time. Does the body need more cells here? Would this cell be a danger if she stayed?",
-     "kid": "Read the card. Does the body need more cells here? Lay down your answer. Read the back.",
+     "kid": "Read the card. Lay down your answer. Then read the back.",
      "ask": [
       {
-       "q": "Why does a cell in an anther use meiosis, when a root tip cell uses mitosis?",
+       "q": "Why does a pollen-making cell in a flower use meiosis, but a root tip cell uses mitosis?",
        "good": [
         "The anther makes pollen, which leads to sex cells, and they need half the chromosomes.",
         "A root only needs more cells of the same kind."
@@ -705,7 +705,7 @@
      "what": "Make the last count. Fill in the table and explain the result."
     }
    ],
-   "record": "Fill in the table on days 3, 5, 7 and 9. Draw one piece of each kind on day 9, and mark where the roots are. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table on days 3, 5, 7 and 9. Draw one piece of each kind on day 9 and mark where the roots are, or take a photo of each. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results: pieces with roots, out of 5",
@@ -805,7 +805,7 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Stand the five A pieces in a tumbler, with the lower node under 3 centimetres of water. 2. Lay the B, C and D pieces in three katoris, in water 1 centimetre deep. 3. Label each one. 4. Put them all at a bright window, out of hot sun.",
-     "say": "All four kinds get the same water and the same light. Why did we cut five of each, and not one?",
+     "say": "All four kinds get the same water and the same light. That keeps the test fair.",
      "kid": "Stand the A pieces in the tumbler. Lay B, C and D in shallow water. Label them. Put them by a bright window.",
      "ask": [
       {
@@ -832,9 +832,9 @@
     {
      "id": "s6",
      "mins": 15,
-     "do": "1. On day 9, count one last time and fill in the table. 2. Ask your child for the three sentences. 3. Ask which two kinds of pieces show whether leaves are needed. 4. Ask your child to draw where the root-making cells must be. 5. Only then read the explanation together.",
+     "do": "1. On day 9, count one last time and fill in the table. 2. Ask your child for the three sentences. 3. Ask which two kinds of pieces show whether leaves are needed. 4. Ask your child to point to where on the piece the root-making cells must be. 5. Only then read the explanation together.",
      "say": "Say what you thought would happen, what you saw, and why. Now compare B and D. One has a node and no leaf. The other has a leaf and no node.",
-     "kid": "Say what you guessed. Say what you saw. Say why. Compare B and D. Draw where the root-making cells are.",
+     "kid": "Say what you guessed. Say what you saw. Say why. Point to where the root-making cells are.",
      "ask": [
       {
        "q": "Piece B had no leaves and piece D was only a leaf. What do those two tell us?",
@@ -988,7 +988,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Lay the three coins in a row and call them pair 1, pair 2 and pair 3. 2. Explain that heads is M and tails is F. 3. Draw the table with 24 rows.",
-     "say": "A mother has two of each chromosome, one from her mother and one from her father. An egg gets only one of each pair. The coin decides which.",
+     "say": "A mother has two of each chromosome, one from her mother and one from her father. An egg gets only one of each pair. The coin decides which. Heads, M, is the chromosome she got from her own mother. Tails, F, is the one from her own father.",
      "kid": "Lay out three coins. Each coin is one pair. Heads is M. Tails is F. Draw a table with 24 rows.",
      "parent": "M stands for the chromosome this mother got from her own mother. F is the one she got from her father. Always read the coins in the same order: 1 rupee, 2 rupees, 5 rupees.",
      "context": "This is the first step of the Shuffle Test. Here you set up three coins to stand for three pairs of chromosomes."
@@ -1079,7 +1079,7 @@
    "context": "In this activity you make a small hand out of dough in two ways. One way adds fingers on. The other way starts with a flat paddle and takes dough away. Then you find out which way your own hand was made before you were born.",
    "materials": [
     {
-     "item": "a ball of atta dough or clay the size of a lemon",
+     "item": "two balls of atta dough or clay, each the size of a lemon",
      "qty": 2
     },
     {
@@ -1091,7 +1091,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the paddle and the finished hand. Shade the parts of the paddle that had to go.",
+   "record": "Take a photo of both dough hands. Say which parts of the paddle had to go. Or draw the paddle and shade those parts.",
    "setup": [
     {
      "art": "A child pressing five small rolls of dough onto a round dough palm on a steel plate.",
@@ -1137,7 +1137,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Tell your child that a hand begins as a flat paddle, when the embryo is about five weeks old. 2. Finger bones form inside the paddle, and the cells between them die by plan. 3. Both spread your fingers and find the small web at the base. 4. Compare with a duck's foot.",
+     "do": "1. Tell your child that a hand begins as a flat paddle, when the embryo is about five weeks old. 2. Finger bones form inside the paddle, and the cells between them die by plan. 3. Have your child spread their fingers and find the small web at the base. 4. Tell them a duck's foot keeps its web.",
      "say": "Your hand began as a paddle. Finger bones formed inside. Then the cells in between died on time. Spread your fingers. Can you find a little web left over?",
      "kid": "Your hand began as a paddle. The cells between the fingers died on time. Spread your fingers. Find the little web.",
      "parent": "The full picture uses both ways. The fingers do grow longer, and the cells between them die. In a duck embryo the cells between the toes get a signal that blocks the dying, so the web stays.",
@@ -1249,8 +1249,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Ask your child to invent a way of sharing that always gives one of each number. 2. Try it: lay the slips in pairs, 1 with 1 and 2 with 2, then send one of each pair each way. 3. Say that this pairing up is what a cell does in meiosis.",
-     "say": "Design a way to share them so that each side always gets one of every number. Show me how it works.",
-     "kid": "Find a way to share the slips. Each side must get one of every number. Show how.",
+     "say": "Can you find a way to share them so that each side always gets one of every number? Try it, and show me.",
+     "kid": "Invent a way to share the slips. Test it, and show your grown-up.",
      "parent": "The answer is to pair the slips first and then separate each pair. Whether red or blue goes left is free, and that freedom is the shuffle.",
      "check": {
       "t": "mcq",
@@ -1296,7 +1296,7 @@
     }
    ],
    "safety": "Take care with the scissors when you cut the strips.",
-   "record": "Draw the two cells that mitosis made and the four cells that meiosis made. Under each cell write how many chromosomes are in it.",
+   "record": "Take a photo of the two cells that mitosis made and the four that meiosis made, or draw them. Next to each cell, write how many chromosomes are in it.",
    "setup": [
     {
      "art": "A loop of string on a table with four paper strips inside it: a long red, a long blue, a short red and a short blue.",
@@ -1325,7 +1325,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Line the four X shapes up one below another across the middle of the loop. 2. Unclip each X and slide one strip to the left and its copy to the right. 3. Pinch the string loop into two loops. 4. Count and name the strips in each new cell.",
-     "say": "This is mitosis. One copy of every chromosome goes each way. What does each new cell have? How does it compare with the first cell?",
+     "say": "This is mitosis. One copy of every chromosome goes each way. Count the strips in each new cell.",
      "kid": "Line up the four X shapes. Unclip them. Send one copy each way. Count the strips in each new cell.",
      "ask": [
       {
@@ -1350,12 +1350,12 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Lay the two mitosis cells and the four meiosis cells side by side. 2. Count the strips in each. 3. Ask your child what is the same and what is different. 4. Draw both results.",
-     "say": "Look at both results. How many cells? How many chromosomes in each? Are the meiosis cells the same as each other?",
-     "kid": "Put both results side by side. Count the cells. Count the strips. Are the four cells the same?",
+     "do": "1. Lay the two mitosis cells and the four meiosis cells side by side. 2. Count the strips in each. 3. Ask your child what is the same and what is different. 4. Take a photo of both results.",
+     "say": "Look at both results. How many cells? How many chromosomes in each?",
+     "kid": "Put both results side by side. Count the cells. Count the strips in each.",
      "ask": [
       {
-       "q": "Why is at least one meiosis cell different from all the others?",
+       "q": "Why are the four meiosis cells not all the same?",
        "good": [
         "The swapped tips made a strip that is part red and part blue.",
         "Each cell got a different mix of red and blue."
@@ -1411,7 +1411,7 @@
      "mins": 4,
      "do": "1. Ask whether any part of your child's body is made of dead cells, and how they could tell. 2. Wait for ideas. 3. Test them: which parts can be cut with no pain and no bleeding?",
      "say": "Is any part of your body made of dead cells? How could you tell? Which parts can be cut without any pain?",
-     "kid": "Which parts of your body are dead cells? Think: which parts can you cut with no pain?",
+     "kid": "Which parts of your body can be cut with no pain? Point to them.",
      "ask": [
       {
        "q": "Why does cutting a nail or a hair not hurt?",
@@ -1438,7 +1438,7 @@
      "mins": 4,
      "do": "1. Count the items on the list. 2. Ask what the tree would lose if the pipe cells refused to die. 3. Ask your child to finish the sentence: 'These cells were useful because…'",
      "say": "A tree's water pipes work only because the cells inside died and emptied. What would happen if they stayed alive and full?",
-     "kid": "Count your list. What if a tree's pipe cells stayed alive and full? Finish the sentence.",
+     "kid": "Count your list. Finish the sentence: 'These cells were useful because…'",
      "check": {
       "t": "mcq",
       "q": "A tree's water-carrying cells die when they are fully built. Why does that help the tree?",
@@ -1516,7 +1516,7 @@
      "what": "Make the last drawing of each piece and explain where the growing cells were."
     }
    ],
-   "record": "Draw each piece on day 1 and on day 10. Circle the place where new growth started. Write one sentence for each piece: did it regrow, and from where?",
+   "record": "Take a photo of each piece on day 1 and on day 10, or draw it. Mark the place where new growth started. Write one sentence for each piece: did it regrow, and from where?",
    "setup": [
     {
      "art": "Six saucers in a row holding an onion base, an onion middle slice, a carrot top, a potato piece with an eye, a potato piece without an eye and a garlic clove.",
@@ -1528,7 +1528,7 @@
     },
     {
      "art": "A child's notebook with two drawings of each piece, day 1 and day 10, and the growing place circled in red.",
-     "caption": "3. Draw each piece on day 1 and day 10. Circle where it grew."
+     "caption": "3. On day 10, mark with a paper slip where each piece grew."
     }
    ],
    "flow": [
@@ -1536,7 +1536,7 @@
      "id": "s1",
      "mins": 20,
      "adult": true,
-     "do": "1. A grown-up cuts the bottom 2 centimetres off the onion, with the root plate. 2. Cut a slice from the onion's middle. 3. Cut the top 2 centimetres off the carrot. 4. Cut two potato pieces, one with an eye and one with plain skin. 5. Ask which pieces will regrow, and why. 6. Stand all six pieces in water half a centimetre deep, at a bright window.",
+     "do": "1. A grown-up cuts the bottom 2 centimetres off the onion, with the root plate. 2. Cut a slice from the onion's middle. 3. Cut the top 2 centimetres off the carrot. 4. Cut two potato pieces, one with an eye and one with plain skin. 5. Add one whole garlic clove. 6. Ask which pieces will regrow, and why. 7. Stand all six pieces in water half a centimetre deep, at a bright window.",
      "say": "Here are six pieces. Which ones will grow again, and which will not? Why do you think so?",
      "kid": "Look at the six pieces. Guess which will grow again. Say why. Stand them in shallow water.",
      "parent": "Stand the garlic clove with the flat end down. Keep the water shallow, so the pieces do not rot. Choose a potato whose eyes have begun to swell, or the potato pieces will need two or three weeks.",
@@ -1545,9 +1545,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. On day 4 and day 7, change the water. 2. Look for new green, white or purple growth. 3. Mark on the drawing where it starts. 4. On day 7, measure the longest shoot and root.",
+     "do": "1. On day 4 and day 7, change the water. 2. Look for new green, white or purple growth. 3. Note where it starts on each piece. 4. On day 7, measure the longest shoot and root.",
      "say": "Where exactly is the new growth coming from? The cut face, the skin, or one special place?",
-     "kid": "Change the water. Find the new growth. Where does it start? Mark it on your drawing.",
+     "kid": "Change the water. Find the new growth. Where does it start? Show your grown-up.",
      "ask": [
       {
        "q": "The onion base regrows from its centre and the middle slice does not. What does the base have?",
@@ -1564,9 +1564,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. On day 10, draw each piece again. 2. Circle the growing place on each. 3. Ask what the growing places have in common. 4. Compare with the Pudina Pieces Test, if you have done it.",
-     "say": "Look at all the circles. What do the growing places have in common? What did the pieces that stayed the same lack?",
-     "kid": "Draw each piece again. Circle where it grew. What do the circles have in common?",
+     "do": "1. On day 10, lay the pieces in a row. 2. Put a small paper slip beside the growing place on each. 3. Ask what the growing places have in common. 4. Compare with the Pudina Pieces Test, if you have done it.",
+     "say": "Look at all the marked places. What did the pieces that stayed the same lack?",
+     "kid": "Mark where each piece grew with a paper slip. Compare the places.",
      "ask": [
       {
        "q": "What do the regrowing pieces all have?",
@@ -1646,7 +1646,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Look at the usual ideas: clip the pairs, or lay them in a row. 2. Your child chooses one and says why it should work. 3. Test it three times, blindfolded. 4. Count the mistakes each time.",
+     "do": "1. Offer two starting ideas: clip each pair together, or lay the slips in a row. 2. Your child chooses one and says why it should work. 3. Test it three times, blindfolded. 4. Count the mistakes each time.",
      "say": "Which idea do you want to test first? Why should it stop the mistakes? Try it three times.",
      "kid": "Pick one idea. Say why it should work. Test it three times. Count the mistakes.",
      "ask": [
@@ -1663,9 +1663,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Your child designs a new method, or improves the first. 2. Test it three times. 3. Read how a cell does it: copies stay joined, threads from both sides take hold, a checkpoint waits, then the join is cut. 4. Ask which parts the two methods share.",
-     "say": "Now make your own method, and test it three times. Then let's compare it with the way a cell shares her chromosomes.",
-     "kid": "Design your own method. Test it three times. Then compare it with how a cell does it.",
+     "do": "1. Your child designs a new method, or improves the first. 2. Test it three times. 3. Read how a cell does it: copies stay joined, thin threads from both sides take hold, a checkpoint waits until all are held, then the join is cut. 4. Ask which parts the two methods share.",
+     "say": "Now I will read how a cell shares her chromosomes. Then we will see which parts your method shares with her.",
+     "kid": "Design your own method. Test it three times.",
      "ask": [
       {
        "q": "A cell waits until every chromosome is held from both sides. Which part of your method does the same job?",

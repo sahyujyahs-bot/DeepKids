@@ -640,9 +640,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Each player draws a carpel board. 2. Copy the three lines that say what the die means. 3. Put a bowl of moong seeds beside each board.",
+     "do": "1. Each player gets a carpel board. A grown-up draws it: a stigma at the top, three style steps, and an ovary with 6 small circles for ovules. 2. Copy the three lines that say what the die means. 3. Put a bowl of moong seeds beside each board.",
      "say": "This board is one carpel. Point to the stigma, the style and the ovary. Where does the pollen land first? Where are the ovules?",
-     "kid": "Draw your carpel board. Draw the stigma, three style steps and the ovary. Draw 6 ovules inside the ovary.",
+     "kid": "Look at your carpel board. Count the 3 style steps and the 6 ovules.",
      "parent": "The board shows the order that the unit teaches: pollen lands on the stigma, a tube grows down the style, and the tube reaches an ovule in the ovary.",
      "context": "This is the first step of Pollen Race. You draw the board and learn what the die means."
     },
@@ -888,7 +888,7 @@
     }
    ],
    "schedule": [],
-   "record": "Fill in one row of the table for each pod. Then write these totals: the full seeds, the ovules, and the pods with no empty place. Also add up the empty places at the stalk end, in the middle and at the tip end. Work out the share of ovules that became seeds. Draw a bar chart of how many pods had 0, 1, 2, 3 and 4 empty places.",
+   "record": "Fill in one row of the table for each pod. Then write these totals: the full seeds, the ovules, and the pods with no empty place. Also add up the empty places at the stalk end, in the middle and at the tip end. Work out the share of ovules that became seeds. Show how many pods had 0, 1, 2, 3 and 4 empty places as a bar chart, or as a tally in the table.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how many of 20 pea pods had 0, 1, 2, 3 or 4 empty places",
@@ -941,8 +941,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Put 20 pods on a plate, without choosing the fattest. 2. Look at one closed pod together. Find the green cap at the stalk end, and the thin dry point at the other end. 3. Ask the questions below. Write the guesses and the reasons.",
-     "say": "This pod grew from the ovary of one flower. The green cap is the old sepals. The dry point at the tip is what is left of the style. How many ovules do you think one pod began with? Has every one grown into a seed? Why do you think so?",
-     "kid": "Look at one closed pod. Find the green cap and the dry tip. Guess how many seeds are inside. Guess if every place is full. Say why you think so.",
+     "say": "This pod grew from the ovary of one flower. The ovary holds ovules, tiny parts that can each grow into one seed. The green cap is what is left of the sepals, the small green leaves that covered the bud. The dry point is what is left of the style, a thin thread inside the flower. How many ovules do you think one pod began with?",
+     "kid": "Look at one closed pod. Find the green cap and the dry tip. Guess how many seeds are inside.",
      "ask": [
       {
        "q": "Do you think every ovule in a pod becomes a seed? Why?",
@@ -960,8 +960,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Open the first pod. Press the seam near the tip until it splits, and run a thumb along the seam. 2. Do not pull the seeds off. Each seed hangs from the seam on a short stalk. 3. Look between the seeds and at both ends for tiny pale grains on stalks. Use a hand lens or a phone camera.",
-     "say": "Look along the seam. Each seed hangs on a short stalk. Now look for very small, flat, pale grains on stalks of the same kind. What do you think they are?",
-     "kid": "Open one pod along the seam. Leave the seeds on their stalks. Look for tiny pale grains on stalks. What could they be?",
+     "say": "Look along the seam. Each seed hangs on a short stalk. Now look for very small, flat, pale grains on stalks of the same kind.",
+     "kid": "Open one pod along the seam. Leave the seeds on their stalks. Look for tiny pale grains on stalks.",
      "ask": [
       {
        "q": "What do you think the tiny pale grains are?",
@@ -1017,7 +1017,7 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Then read the note below together. 3. Ask the questions.",
-     "say": "Say what you thought would happen, what you saw, and why it happened.",
+     "say": "Let us look back. Was your guess right? What surprised you?",
      "kid": "Say what you thought would happen. Say what you saw. Say why you think it happened.",
      "ask": [
       {
@@ -1120,8 +1120,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Spread the sheet on the floor and put a coin in the middle. 2. Line the katori and the wide bowl with cloth. Put each one 30 centimetres from the coin, on opposite sides. 3. Measure how wide each catcher is. 4. Ask for the two guesses and the reasons, and write them.",
-     "say": "The moong seeds are pollen grains in the wind. The katori is a small stigma. The bowl is a stigma three times as wide. Out of 100 grains, how many will land in each? Why do you think so?",
-     "kid": "The seeds are pollen in the wind. The katori is a small stigma. The bowl is three times as wide. Guess how many seeds land in each. Say why.",
+     "say": "The moong seeds are pollen grains in the wind. A stigma is the part of a flower that catches pollen. The katori is a small stigma. The bowl is a stigma three times as wide. Out of 100 grains, how many will land in each?",
+     "kid": "Guess how many seeds land in the katori. Guess how many land in the bowl. Say why.",
      "ask": [
       {
        "q": "The bowl is three times as wide as the katori. How many times as many seeds do you think the bowl will catch? Why?",
@@ -1139,7 +1139,7 @@
      "id": "s2",
      "mins": 12,
      "do": "1. Your child stands over the coin and holds the tumbler of 100 seeds at chest height. 2. With eyes shut, they shake the seeds out slowly. They move the tumbler in circles about as wide as a dinner plate. 3. Count the seeds in each catcher and write the numbers. 4. Collect all 100 seeds. Swap the two catchers, and do runs 2 and 3.",
-     "say": "Shut your eyes, so that you cannot aim. Shake the seeds out slowly, and move the tumbler in circles. Then we count what each stigma caught.",
+     "say": "Shut your eyes. Shake the seeds out slowly, and move the tumbler in circles. Then we count what each stigma caught.",
      "kid": "Stand over the coin. Shut your eyes. Shake the seeds out slowly in circles. Count the seeds in each catcher. Do this three times.",
      "ask": [
       {
@@ -1175,7 +1175,7 @@
      "id": "s4",
      "mins": 7,
      "do": "1. Add up each column of the table. 2. Divide the wide bowl's total by the katori's total. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Then read the note below together.",
-     "say": "Add up the three runs. How many times as many seeds did the wide bowl catch? Now say what you thought would happen, what you saw, and why it happened.",
+     "say": "Add up the three runs. How many times as many seeds did the wide bowl catch? Was your guess close?",
      "kid": "Add up the three runs. Compare the bowl with the katori. Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1297,8 +1297,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Put one flower on the table and keep the second as a spare. 2. Look at the flower from the side, without taking anything off. 3. Ask the questions below, and write the guess.",
-     "say": "Look at the whole flower before we open it. How many different kinds of parts can you see? Which part do you think makes the seeds? Why do you think so?",
-     "kid": "Look at the whole flower. How many kinds of parts can you see? Which part makes the seeds? Say why you think so.",
+     "say": "Look at the whole flower before we open it. How many different kinds of parts can you see?",
+     "kid": "Look at the whole flower. How many kinds of parts can you see?",
      "ask": [
       {
        "q": "Which part of this flower do you think makes the seeds? Why?",
@@ -1371,7 +1371,7 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Fill in the flower table together: ring, part, how many, what the part does. 2. Go back to the first guess about which part makes the seeds. 3. Ask the check question.",
-     "say": "Fill in the table from the outside in. Then look at your first guess. Which part holds the ovules that can become seeds? Were you right?",
+     "say": "Fill in the table from the outside in. Then look at your first guess. Were you right?",
      "kid": "Fill in the flower table. Look at your first guess. Which part holds the ovules? Answer the question.",
      "check": {
       "t": "mcq",
@@ -1425,7 +1425,7 @@
     }
    ],
    "safety": "A grown-up does the cutting. The cut fruits can all be cooked or eaten afterwards.",
-   "record": "Make a table with four columns: the fruit, your guess, the chambers you counted, and where the seeds are attached. Draw the cut face of two of the fruits.",
+   "record": "Make a table with four columns: the fruit, your guess, the chambers you counted, and where the seeds are attached. Take a photo of the cut face of two of the fruits, or draw them.",
    "example_chart": {
     "type": "table",
     "title": "Chambers usually found in six fruits",
@@ -1482,7 +1482,7 @@
      "mins": 5,
      "do": "1. Line up the six fruits. 2. Say that each grew from the ovary of one flower. 3. Ask your child to guess the number of chambers in each fruit, and to say why. Write the guesses.",
      "say": "Each of these grew from the ovary of one flower. An ovary can have one chamber or several. How many chambers do you think each fruit has? Why do you think so?",
-     "kid": "Each fruit grew from one ovary. Guess how many chambers each fruit has. Say why. Write your guesses.",
+     "kid": "Guess how many chambers each fruit has. Say why. Write your guesses.",
      "parent": "If you have done Take a Flower Apart, remind your child that the hibiscus ovary had 5 chambers. Bhindi belongs to the hibiscus family.",
      "context": "This is the first step of Count the Carpels. You guess how many chambers six kitchen fruits have inside."
     },
@@ -1508,9 +1508,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Compare the counts with the guesses. 2. Draw the cut face of two fruits, and label one chamber and one seed. 3. Ask the questions below.",
-     "say": "Which count surprised you most? Now draw two of the cut faces. Label one chamber and one seed on each.",
-     "kid": "Compare your counts with your guesses. Draw two cut faces. Label one chamber and one seed.",
+     "do": "1. Compare the counts with the guesses. 2. Your child picks two cut fruits and points to one chamber and one seed on each. Take a photo of each, or draw it. 3. Ask the questions below.",
+     "say": "Which count surprised you most? Now pick two of the cut fruits. Point to one chamber and one seed on each. Take a photo, or draw it.",
+     "kid": "Compare your counts with your guesses. Pick two fruits. Point to one chamber and one seed on each.",
      "ask": [
       {
        "q": "The banana has three parts and tiny dark specks, but no seeds. What are the specks?",
@@ -1581,9 +1581,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Your child draws a carpel as tall as the page: a stigma, a long style and an ovary. 2. They draw one pollen grain on the stigma and four ovules in the ovary. 3. Ask the question below. Your child draws their own idea on the picture.",
-     "say": "The pollen grain is up here on the stigma. The ovules are down here, sealed inside the ovary. A seed cannot begin until something from the pollen reaches an ovule. How do you think that happens? Draw your idea.",
-     "kid": "Draw a tall carpel. Put a pollen grain on top. Put four ovules at the bottom. How does the pollen reach an ovule? Draw your idea.",
+     "do": "1. A grown-up draws a carpel as tall as the page: a stigma, a long style and an ovary. 2. Draw one pollen grain on the stigma and four ovules in the ovary. 3. Ask the question below. Your child shows their idea with a finger on the picture, or draws it.",
+     "say": "The pollen grain is up here on the stigma. The ovules are tiny parts that can become seeds. They are down here, sealed inside the ovary. A seed cannot begin until something from the pollen reaches an ovule.",
+     "kid": "Look at the carpel. Show with your finger how the pollen reaches an ovule. Or draw it.",
      "ask": [
       {
        "q": "How do you think the pollen reaches the ovules?",
@@ -1602,11 +1602,11 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Read the note below to your child. 2. On a new sheet, your child draws the carpel again. 3. This time they draw the pollen tube in colour, from the grain to one ovule. They add two male cells near the tip. 4. They label the seven parts.",
-     "say": "Here is what scientists saw. The pollen grain grows a tube, thinner than a hair. The tube grows down through the style and into one ovule. Two male cells travel inside it. One joins the egg cell. Now draw that.",
-     "kid": "The pollen grain grows a thin tube. The tube grows down to one ovule. Draw the tube in colour. Label the seven parts.",
+     "say": "Here is what scientists saw. The pollen grain grows a tube, thinner than a hair. The tube grows down through the style and into one ovule. Two male cells travel inside it. One joins the egg cell, a tiny cell inside the ovule. Now draw that.",
+     "kid": "The pollen grain grows a thin tube. The tube grows down to one ovule. Draw the tube in colour. Label the seven parts, or point to each and say its name.",
      "ask": [
       {
-       "q": "There are four ovules in your drawing and one pollen grain. How many seeds can form?",
+       "q": "There are four ovules in the carpel and one pollen grain. How many seeds can form?",
        "good": [
         "One. Each ovule needs their own pollen tube.",
         "One seed, and three empty places."
@@ -1861,7 +1861,7 @@
      "mins": 8,
      "do": "1. Peel the husk off one leaf at a time. Try to leave the silks lying on the cob. 2. Pick one silk near the tip and follow it down with a fingernail. See where it ends. 3. Do this with five more silks.",
      "say": "Peel slowly, so that the silks stay in place. Now follow one silk down. Where does it end? Follow five more. Does any kernel have two silks?",
-     "kid": "Peel the husk slowly. Follow one thread down with your fingernail. Where does the thread end? Follow five more threads.",
+     "kid": "Peel the husk slowly. Follow one thread down with your fingernail. Follow five more threads.",
      "ask": [
       {
        "q": "Where did each silk end?",
@@ -1930,7 +1930,7 @@
      "qty": 1
     }
    ],
-   "record": "Write your guess and your count. Draw one piece of the marigold as large as your hand, and label the petal, the ovary and the forked stigma.",
+   "record": "Write your guess and your count. Take a close photo of one piece of the marigold, or draw it as large as your hand. Label the petal, the ovary and the forked stigma.",
    "setup": [
     {
      "art": "A whole orange marigold on a steel plate beside a notebook with a guess written in it.",
@@ -1950,15 +1950,15 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the marigold on the plate. 2. Ask your child how many petals it has, and whether it is one flower. 3. Write the guesses and the reasons.",
-     "say": "Is this one flower? How many petals do you think it has? Where do you think the ovary is? Why do you think so?",
-     "kid": "Is this one flower? Guess how many petals. Guess where the ovary is. Say why.",
+     "say": "Is this one flower? How many petals do you think it has? Why do you think so?",
+     "kid": "Is this one flower? Guess how many petals. Say why.",
      "context": "This is the first step of the Marigold Count. You guess how many petals a marigold has, and where the ovary is."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "1. Hold the green cup at the base and pull the orange pieces out, a few at a time. 2. Put them in heaps of ten, and count the heaps. 3. Pick up one piece and look at it from top to bottom with the lens.",
-     "say": "Pull the pieces out gently, so that each one comes out whole. Make heaps of ten. Now look at one piece. What is at the bottom of it?",
+     "say": "Pull the pieces out gently, so that each one comes out whole. Make heaps of ten. Now look at one piece with the lens.",
      "kid": "Pull the pieces out gently. Make heaps of ten. Count the heaps. Look at one piece from top to bottom.",
      "ask": [
       {
@@ -1976,9 +1976,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Your child draws one piece large, and labels the petal, the ovary and the forked stigma. 2. Ask whether each piece is a petal or a whole flower, and why. 3. Ask the check question.",
-     "say": "Each piece has a petal, a stigma and an ovary of its own. So is each piece a petal, or a whole small flower? How many flowers were in your marigold?",
-     "kid": "Draw one piece large. Label the petal, the ovary and the stigma. Is each piece a petal or a flower? Say why.",
+     "do": "1. Your child holds one piece under the lens, and points to the petal, the ovary and the forked stigma. 2. Ask whether each piece is a petal or a whole flower, and why. 3. Ask the check question.",
+     "say": "Each piece has a petal, a stigma and an ovary of its own. How many flowers were in your marigold?",
+     "kid": "Look at one piece closely. Point to the petal, the ovary and the forked stigma.",
      "ask": [
       {
        "q": "Is each piece a petal or a flower? What is your evidence?",
@@ -2142,7 +2142,7 @@
      "id": "s5",
      "mins": 20,
      "do": "1. Count the fruits in the bagged group and in the open group. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then read the note below together. 4. Your child writes a claim, the evidence and the reasoning.",
-     "say": "Count the fruits in each group. Say what you thought would happen, what you saw, and why it happened.",
+     "say": "Count the fruits in each group. Was your guess right? What surprised you?",
      "kid": "Count the fruits in each group. Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -2215,8 +2215,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Look up the katori's total from the Pollen Rain Test, or do three runs now. 2. Ask your child which features would help a catcher. 3. Your child draws a design and writes a prediction.",
-     "say": "In the Pollen Rain Test, the bare katori caught only a few seeds out of 300. What would help it catch more? Draw your design. How many seeds will it catch?",
-     "kid": "The bare katori caught only a few seeds. What would help it catch more? Draw your design. Guess how many seeds it will catch.",
+     "say": "In the Pollen Rain Test, the bare katori caught only a few seeds out of 300. What would help it catch more? Make a plan. How many seeds will it catch?",
+     "kid": "The bare katori caught only a few seeds. What would help it catch more? Plan your catcher, and guess how many seeds it will catch. Draw the plan, or tell it to your grown-up.",
      "ask": [
       {
        "q": "What could a catcher change: its width, its height or its stickiness? Which matters most, and why?",
@@ -2313,9 +2313,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Draw a simple flower with anthers beside the stigma, and show pollen falling onto the stigma. 2. Ask why a plant might do better with pollen from another plant. 3. Your child draws a design that keeps the plant's own pollen out.",
-     "say": "In some flowers, the pollen falls on the stigma of the same flower. Seeds from two different parents differ more from each other. How could a plant keep out pollen from the same plant? Draw your idea.",
-     "kid": "This flower's pollen falls on the same flower's stigma. How could a plant keep that pollen out? Draw your idea.",
+     "do": "1. A grown-up draws a simple flower with anthers beside the stigma, and show pollen falling onto the stigma. 2. Ask why a plant might do better with pollen from another plant. 3. Your child draws a design that keeps the plant's own pollen out.",
+     "say": "In some flowers, the pollen falls on the stigma of the same flower. Seeds from two different parents differ more from each other. How could a plant keep out pollen from the same plant?",
+     "kid": "This flower's pollen falls on the same flower's stigma. How could a plant keep that pollen out? Draw your idea, or tell it to your grown-up.",
      "ask": [
       {
        "q": "Why might seeds with two different parents do better than seeds with one?",
@@ -2340,8 +2340,8 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Ask what happens to each design if no visitor comes. 2. Tell your child that pea and groundnut flowers pollinate themselves. 3. Your child improves the design, or defends it, and answers the check question.",
-     "say": "Now the hard part. A female papaya tree stands alone, and no pollen comes. What happens? A pea flower pollinates itself and always sets seed. Which plant takes the bigger risk? Which gets the bigger gain?",
-     "kid": "A female papaya tree stands alone. No pollen comes. What happens? A pea flower pollinates itself. Which plant takes the bigger risk?",
+     "say": "Now the hard part. A pea flower pollinates itself and always sets seed. A female papaya tree needs pollen from another tree. Which plant takes the bigger risk? Which gets the bigger gain?",
+     "kid": "A female papaya tree stands alone. No pollen comes. What happens to it?",
      "ask": [
       {
        "q": "When is self-pollination the better way for a plant?",

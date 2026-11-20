@@ -268,9 +268,9 @@ On Monday she came out two minutes early again. Three children were already stan
   *Child mode:* Cut out the cards. Read the four actions. Think of an example of each.
 - **s2 (12 min)**  
   *Parent does:* Play by the rules for 12 minutes. Each time a card is turned over, ask the question below.  
-  *Parent says:* Before you turn the card over, tell me your exact words. Who would your action help? Could anyone get hurt?  
+  *Parent says:* Before you turn the card over, tell me your exact words.  
   *Child mode:* Take a card. Choose an action. Say your exact words. Then turn the card over.
-  - Ask: Who does your action help, and could anyone get hurt by it? (good: It helps the child who is teased, and nobody is hurt.; If I pushed the bully, someone could get hurt, so I would tell a teacher.; It helps everyone who uses the place.)
+  - Ask: Who does your action help? Could anyone get hurt by it? (good: It helps the child who is teased, and nobody is hurt.; If I pushed the bully, someone could get hurt, so I would tell a teacher.; It helps everyone who uses the place.)
   - Note: Some cards have two good choices. Accept either one. If your child chooses to fight or to shout, ask who might get hurt, and let them choose again.
 - **s3 (4 min)**  
   *Parent does:* Find the three cards whose backs begin ALWAYS TELL. Lay them side by side. Ask what they have in common.  
@@ -300,8 +300,8 @@ On Monday she came out two minutes early again. Three children were already stan
   - Note: This round is lost about three times in four, even with careful play. Let your child feel the difference from the first round.
 - **s4 (3 min)**  
   *Parent does:* Compare the two tally sheets. Ask the question below.  
-  *Parent says:* Look at both rounds. When did one pick-up card help the most? What does that tell you about a real lane?  
-  *Child mode:* Compare the two rounds. When did a pick-up card help the most?
+  *Parent says:* Look at both rounds. What does that tell you about a real lane?  
+  *Child mode:* Compare the two rounds. Which one ended with fewer wrappers?
   - Check: In Keep the Lane Clean, when does one pick-up card help the most? → **Early, when few wrappers lie there**
 
 ## Experiments
@@ -310,12 +310,12 @@ On Monday she came out two minutes early again. Three children were already stan
 - **predict:** Before you start, guess. How many of the 15 chana will miss in a calm run, and how many in a hurried run? Will your pulse change? Why do you think so?
 - **fair test:** Use the same bottle, the same 15 chana and the same hand height every time. Sit in the same place. Take turns between calm and hurried runs, so that getting better with practice does not fool you. The helper says only one kind of thing: nothing, or hurry words. Only what the helper says changes.
 - **safety:** The helper uses only the words 'faster', 'hurry' and 'time is running out', in a playful voice. The helper never says anything unkind. Stop at once if the child is upset. Pick up every chana from the floor.
-- **record:** Draw the table. Fill one row for each run. Under it, write what you thought would happen, what you saw, and why you think it happened.
+- **record:** Make a table. Fill one row for each run. Under it, write what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Run | What the helper said | Misses out of 15 | Pulse beats in 15 seconds | Body tightness, 1 to 5
 - **s1 (4 min)**  
   *Parent does:* Stand the bottle in the middle of the plate. Put 15 chana in the bowl. Ask for the guess and the reason, and write both down.  
   *Parent says:* You will drop 15 chana into the bottle, one at a time. In some runs I stay quiet. In some runs I hurry you. How many will miss in each kind? Why do you think so?  
-  *Child mode:* Drop 15 chana into the bottle. Will hurry words change your aim? Why do you think so?
+  *Child mode:* Drop 15 chana into the bottle. Guess how many miss when someone hurries you. Why do you think so?
   - Ask: Why might hurry words change where a chana goes? (good: My hand might shake.; I might rush and aim badly.; My body might get tense or nervous.)
   - Note: Do not correct the guess. The helper only says 'faster', 'hurry' and 'time is running out'. Never say 'you are slow'. Stop at once if your child is upset.
 - **s2 (3 min)**  
@@ -324,9 +324,9 @@ On Monday she came out two minutes early again. Three children were already stan
   *Child mode:* Hold each chana 30 cm above the bottle. Drop all 15 for practice.
   - Note: If every chana goes in, raise the hand to 45 cm, or use the 500 millilitre bottle, which has a smaller mouth. You want about 1 to 3 misses in a calm round. If chana keep missing, lower the hand to 20 cm.
 - **s3 (5 min)**  
-  *Parent does:* Do the first pair of runs. Calm run: the helper says 'Go', then stays silent. Count the chana on the plate. Count the pulse for 15 seconds. Then do a hurried run: the helper says 'Go', then calls 'Faster! Hurry! Time is running out!' all the way through. Count both again.  
+  *Parent does:* Do the first pair of runs. Calm run: the helper says 'Go', then stays silent. Count the chana on the plate. Count the pulse for 15 seconds. Ask how tight the body feels, from 1 (loose) to 5 (very tight), and write it down. Then do a hurried run: the helper says 'Go', then calls 'Faster! Hurry! Time is running out!' all the way through. Count all three again.  
   *Parent says:* First a calm run. I say 'Go' and nothing more. Afterwards we count the chana on the plate, and your pulse for 15 seconds. Then the hurried run.  
-  *Child mode:* Do one calm run and one hurried run. Count misses. Count your pulse for 15 seconds.
+  *Child mode:* Do one calm run and one hurried run. Count misses. Count your pulse for 15 seconds. Say how tight you feel, from 1 to 5.
   - Note: For the pulse, put two fingers on the inside of the wrist, below the thumb. Count the beats for 15 seconds. Write the misses, the pulse, and a body tightness number from 1 (loose) to 5 (very tight). Ask for the number straight after the run.
   - Check: In the Hurry Test, why do the calm and hurried runs take turns? → **So practice does not fool us**
 - **s4 (9 min)**  
@@ -352,7 +352,7 @@ On Monday she came out two minutes early again. Three children were already stan
 - **predict:** Before you start, guess. How many of 10 people will smile back at a smile? How many at a plain face? Why do you think so?
 - **fair test:** Greet people one after another, taking turns: smile, plain, smile, plain. Use the same places and the same time of day. A plain face is a calm, ordinary face, never a cross one. Only the smile and the word change. Count a smile back only if it comes within 3 seconds.
 - **safety:** A grown-up stays beside the child all the time. Greet only people who pass you in public places. Never stop anyone, follow anyone or ask anyone a question. If someone seems upset, do not greet them.
-- **record:** Make a table with two rows: smile and word, plain face. Write the number of people, the number who smiled back and the number who said something back.
+- **record:** Make a table with two rows: smile and word, plain face. Write the number of people and the number who smiled back.
 - **results table:** How I greeted | People greeted | Smiled back within 3 seconds | Said something back
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Read the plan together. Choose the place. Ask your child for the guess and the reason, and write both down. Practise a plain face in a mirror, calm and not cross.  
@@ -379,7 +379,7 @@ On Monday she came out two minutes early again. Three children were already stan
 - **predict:** Before you start, guess. How many of the five doors in your home will let a 65 cm wide wheelchair pass? Which will not? Why do you think so?
 - **fair test:** Measure the narrowest point of each door with the door fully open. Measure from the floor, always the same way. Use the same tape or ruler every time. Measure in centimetres and write the number down before you decide if it passes.
 - **safety:** Do not climb on anything to reach a switch. Measure only. Do not switch on any heavy appliance or touch any open wire.
-- **record:** Draw a table with a row for each door, step, switch and handle. Write the measurement and tick yes or no. At the bottom, write the one change that would help the most.
+- **record:** Make a table with a row for each door, step, switch and handle. Write the measurement and tick yes or no. At the bottom, write the one change that would help the most.
 - **results table:** Door or switch | Measurement in centimetres | Fits a seated person?
 - **s1 (6 min)**  
   *Parent does:* Cut two pieces of string, 65 cm and 90 cm, and tie a knot at each end. Tell your child that an ordinary wheelchair is about 65 cm wide. Guides ask for a clear door width of at least 90 cm. Ask for the guess and the reason, and write both down.  
@@ -388,7 +388,7 @@ On Monday she came out two minutes early again. Three children were already stan
   - Ask: Why might a bathroom door be narrower than a front door? (good: A bathroom is small, and people planned it for walking.; The builder saved space.)
   - Note: Do not correct the guess. Cut the strings carefully. Mark the 65 cm one with a knot at each end. Wheelchair widths vary from about 60 to 70 cm, so 65 cm is a fair middle size.
 - **s2 (8 min)**  
-  *Parent does:* Open each of five doors fully, such as the front door, the bathroom, the kitchen, a bedroom and the balcony. Hold the 65 cm string across the narrowest gap. Then measure the gap with the tape. Write the number.  
+  *Parent does:* Open each of five doors fully, such as the front door, the bathroom, the kitchen, a bedroom and the balcony. Hold the 65 cm string across the narrowest gap. Then measure the gap with the tape. Write the number, and whether it is 90 cm or more.  
   *Parent says:* Open the door fully. Does the 65 centimetre string fit across the narrowest gap? Measure it and write the number.  
   *Child mode:* Open each door fully. Measure the narrowest gap. Does the 65 cm string fit?
   - Note: The clear width is smaller than the door leaf, because the open door and its handle stand in the way. Measure the gap between the frame and the open door. Narrow doors are common in older bathrooms.
@@ -434,12 +434,12 @@ On Monday she came out two minutes early again. Three children were already stan
 ### a2 · The E on Your Forehead: whose point of view do you take? (8 min)
 - **record:** Write how many people drew the E so that they could read it, and how many drew it so that the watcher could read it.
 - **s1 (3 min)**  
-  *Parent does:* Sit facing your child. Say: 'Draw a big capital E on your own forehead with one finger. Do it quickly, without stopping to plan.' Watch the three short lines of the E. Write which way they pointed. Then swap roles.  
+  *Parent does:* Sit facing your child. Ask them to draw the E, then watch the three short lines of it. Write which way they pointed. Then swap roles.  
   *Parent says:* Draw a big capital E on your own forehead with one finger. Do it quickly, without stopping to plan.  
   *Child mode:* Draw a capital E on your forehead with one finger. Be quick.
   - Note: If the three short lines point to the drawer's right ear, the drawer can read the E, and the watcher sees it backwards. If they point to the drawer's left ear, the watcher can read it. Write down who drew which. Do not say what it means yet.
 - **s2 (3 min)**  
-  *Parent does:* Ask each person how they drew it, and which way the short lines pointed. Then try again. This time say: 'Draw the E so that I can read it.' Check what each person did.  
+  *Parent does:* Ask each person how they drew it, and which way the short lines pointed. Then try again, this time asking for the E to be drawn so that you can read it. Check what each person did.  
   *Parent says:* Which way did you draw your E? Who could read it, you or the watcher? Now draw it again so that the watcher can read it. Is it harder?  
   *Child mode:* Which way did you draw it? Now draw it so the watcher can read it.
   - Ask: When you drew it quickly, who could read it, you or the watcher? (good: I could. The watcher saw it backwards.; The watcher could.; I did not think about it.)
@@ -447,10 +447,10 @@ On Monday she came out two minutes early again. Three children were already stan
 - **s3 (2 min)**  
   *Parent does:* Ask the question below. Then say that places are built the same way, by people who think about their own view.  
   *Parent says:* Why might a person draw the E for themselves? A place can be built from one person's side, too. Where have you seen that?  
-  *Child mode:* A place can be built from one person's side. Where have you seen that?
+  *Child mode:* Most people draw the E for themselves. A place can be built that way too.
   - Ask: Where have you seen a place built from only one person's side? (good: A switch that is too high for a child to reach.; A step with no ramp.; A notice written in only one language.)
 ### a3 · Lost for Words: what helps when you do not know the language? (12 min)
-- **record:** Draw a table with four rows: said again, said louder, pointed, showed. Write a tick if the helper understood the instruction.
+- **record:** Make a table with four rows: said again, said louder, pointed, showed. Write a tick if the helper understood the instruction.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Put a cup, a spoon and a plate on the table. Choose a language that your child does not know. Use a language that someone in the family speaks, or use made-up sounds. Say an instruction, such as 'put the spoon in the cup', in that language. Ask your child what they think will help.  
   *Parent says:* I will give you an instruction in a language you do not know. What do you think will help you to understand? Why?  
@@ -464,27 +464,27 @@ On Monday she came out two minutes early again. Three children were already stan
   - Note: The result is almost always the same. Louder does not help. Pointing helps a little. Showing works best. Swap roles after the first round, so your child gives an instruction in made-up sounds to you. Many children enjoy this.
   - Check: In Lost for Words, why does saying it louder not help? → **The words are the same, and still not understood**
 - **s3 (2 min)**  
-  *Parent does:* Ask the question below. Write down a plan for welcoming a new child who does not know your language.  
+  *Parent does:* Ask the question below. Say or write down a plan for welcoming a new child who does not know your language.  
   *Parent says:* A new child joins your class. She does not know your language. What are three things you could do to help her?  
-  *Child mode:* A new child does not know your language. What can you do to help?
+  *Child mode:* Picture a new child in your class who does not know your language. Use the four ways you tried.
   - Ask: What could you do to help a new child who does not know your language? (good: Point and show what to do.; Sit with her at lunch.; Learn one word of her language.; Use pictures.)
 ### a4 · What Helped? Which calming move slows your pulse best? (25 min)
 - **safety:** March on the spot at an easy pace, not a run. Stop at once if you feel dizzy or unwell. A grown-up stays with the child.
-- **record:** Draw the What Helped? log with a row for each move: pulse at the start, pulse at the end, and the feeling size at the start and end, from 1 (small) to 5 (big).
+- **record:** Make the What Helped? log with a row for each move: pulse at the start, pulse at the end, and the feeling size at the start and end, from 1 (small) to 5 (big).
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* Show your child how to count the pulse: two fingers on the inside of the wrist, for 15 seconds. Show the slow out-breath: breathe in for 3 counts, out for 6. Ask the guess below.  
+  *Parent does:* Show your child how to count the pulse: two fingers on the inside of the wrist, for 15 seconds. Show the slow out-breath: breathe in for 3 counts, out for 6. Explain the feeling size: 1 is a small feeling and 5 is a big one. Ask the guess below.  
   *Parent says:* We will try three ways to settle your body. One is to sit still. One is to breathe out slowly. One is to say how you feel and tell me. Which will slow your pulse most? Why?  
   *Child mode:* Try three ways to settle. Which will slow your pulse most? Why?
   - Note: Do not correct the guess. Any answer with a reason is a good start.
 - **s2 (17 min) · grown-up needed**  
-  *Parent does:* Do three trials, with a 3-minute rest between them. In each trial: March on the spot for 1 minute. Count the pulse for 15 seconds, and write it. Give the feeling a size from 1 to 5. Then settle for 1 minute in one of three ways. Trial A: sit still. Trial B: sit and breathe in for 3 counts and out for 6. Trial C: say aloud 'I feel puffed and a bit silly', and tell the grown-up about your day. Count the pulse again and write the feeling size.  
+  *Parent does:* Do three trials, with a 3-minute rest between them. In each trial: March on the spot for 1 minute. Count the pulse for 15 seconds, and write it. Give the feeling a size from 1 to 5. Then settle for 1 minute in one of three ways. Trial A: sit still. Trial B: sit and breathe in for 3 counts and out for 6. Trial C: tell the grown-up how you feel, such as 'I feel puffed and a bit silly'. Count the pulse again and write the feeling size.  
   *Parent says:* March for one minute. Count your pulse. Give your feeling a size from one to five. Then settle for one minute in one of three ways. Count the pulse again.  
   *Child mode:* March one minute. Count your pulse. Settle one minute. Count again.
   - Note: A few beats of difference are normal from one trial to the next. One trial is not enough to decide. If you want a fairer test, repeat the next day in the order C, B, A. The body is revved by marching, not by a feeling, but a strong feeling revs the body in a similar way.
 - **s3 (5 min)**  
   *Parent does:* Look at the log together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Ask for the move they will try the next time they feel a big feeling.  
   *Parent says:* Look at your log. Say what you thought would happen, what you saw, and why you think it happened. Which move would you try next time you feel a big feeling?  
-  *Child mode:* Look at your log. Which move helped most? Which will you try next time?
+  *Child mode:* Look at your log. Say what you thought, what you saw, and why. Then choose a move for next time.
   - Ask: Which move slowed your pulse the most? Did it also make you feel better? (good: Breathing out slowly.; Sitting still.; Saying how I felt.; They were about the same.)
   - Note: What science says: the body clears adrenaline within minutes, if nothing sets off more. A long out-breath slows the heart a little. Naming a feeling, moving and talking to a person you trust also help. What helps most differs from person to person. If a feeling is too big or does not go away, tell a trusted grown-up. Do not diagnose or label your child.
   - Check: In What Helped?, why is one trial not enough to decide? → **Pulse varies a little each time by chance**
@@ -498,14 +498,14 @@ On Monday she came out two minutes early again. Three children were already stan
   *Child mode:* We will meet a person who works near us. Guess the hardest part of their day. Why?
   - Note: Choose a person who knows you a little, so that your child is not a stranger. Ask first, so that they can say no. A greeting by name is already respect.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* Your child greets the person by name and asks four questions. First, what time does the day start? Second, what is done first? Third, what is the hardest part? Last, what would make it easier? Your child writes the answers in short lines.  
+  *Parent does:* Your child greets the person by name and asks four questions. First, what time does the day start? Second, what is done first? Third, what is the hardest part? Last, what would make it easier? Your child writes the answers in short lines, or says them back while you write.  
   *Parent says:* Greet them by name and ask if you may ask four questions. What time does your day start? What do you do first? What is hardest? What would make it easier?  
   *Child mode:* Greet them by name. Ask four questions. Write the answers.
   - Note: Let the person say as much or as little as they like. Say thank you, and use their name. If they say what would make the day easier, listen and do not promise anything you cannot do.
   - Check: Which question is not right to ask a person who has just agreed to talk? → **How much money do you earn?**
 - **s3 (8 min)**  
-  *Parent does:* At home, your child writes 8 lines about the person's day, as the person. They start from what the person said. They mark what was said and what was imagined. Ask the question below.  
-  *Parent says:* Write eight lines about their day, as if you were them. Mark what they told you, and what you imagined. What could our building change to make it easier?  
+  *Parent does:* At home, your child writes 8 lines about the person's day, as the person, or says them aloud while you write. They start from what the person said. They mark what was said and what was imagined. Ask the question below.  
+  *Parent says:* Write eight lines about their day, as if you were them. Mark what they told you, and what you imagined.  
   *Child mode:* Write eight lines about their day, as them. Mark what they said and what you imagined.
   - Ask: What could our building change to make this person's day easier? (good: Keep the lane free of rubbish.; Wrap broken glass.; Greet them every day.; Keep wet and dry waste apart.)
   - Note: Point of view means working out what someone sees, knows and needs from where they are. It is a guess, and the person's own words are the best evidence. Notice any step in the person's day where our own habits make it harder, such as mixed waste or a blocked lane.
@@ -513,7 +513,7 @@ On Monday she came out two minutes early again. Three children were already stan
 ## Projects
 ### p1 · Our Charter: five rules for a place we share, and a week to try them (20 min, 4 days)
 - **safety:** Keep it friendly. A rule is for everyone, including the grown-ups. Nobody is blamed.
-- **record:** Write the five rules and the signatures. Draw a grid with the five rules down the side and the days across. Tick each rule kept. At the end, write which rule was kept most and why.
+- **record:** Write the five rules and the signatures. Make a grid with the five rules down the side and the days across. Tick each rule kept. At the end, write which rule was kept most and why.
 - **schedule:** day 1: Choose a place you share. Look at it for 5 minutes. List three things that go wrong there. (15 min); day 2: Hold a family meeting. Each person says one rule. Choose five, write them, and everyone signs. (20 min); day 3: Tick each rule kept or not kept. Notice who did it first. (5 min); day 4: Tick again. Count the ticks. Change one rule if it does not work, and say why. (15 min)
 - **s1 (15 min)**  
   *Parent does:* Day 1. Choose a place the whole family uses, such as the entrance, the study corner or the kitchen. Look at it for 5 minutes. Write three things that often go wrong there. Ask for the guess below.  
@@ -535,8 +535,8 @@ On Monday she came out two minutes early again. Three children were already stan
   - Wait: Do this the day after the charter is signed
 - **s4 (15 min)**  
   *Parent does:* Day 4. Tick again. Count the ticks for each rule. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Change one rule if it did not work.  
-  *Parent says:* Count the ticks for each rule. Which rule was kept most? Which least? Say what you thought would happen, what you saw, and why you think it happened.  
-  *Child mode:* Count the ticks. Which rule was kept most? Why?
+  *Parent says:* Count the ticks for each rule. Say what you thought would happen, what you saw, and why you think it happened.  
+  *Child mode:* Count the ticks for each rule. Which rule was kept least?
   - Ask: Which rule was kept most, and why do you think so? (good: The easy rules, such as putting shoes on the rack.; The one where a person did it first.; The one with a reminder right beside it.)
   - Note: A rule that is easy to do and easy to see tends to last. If a rule slipped, ask what would make it easier, such as a hook, a basket or a sign beside the place. Change one rule, with everyone's agreement, and sign again.
   - Wait: Do this the day after day 3
@@ -544,7 +544,7 @@ On Monday she came out two minutes early again. Three children were already stan
 ## Challenges
 ### c1 · The Ramp That Fits: a 15 cm step and only 120 cm of ground in front (30 min)
 - **problem:** A library door has one step that is 15 cm high. Guides say a ramp may rise no more than 1 cm for every 12 cm of length. But the ground in front of the step is only 120 cm deep, because a wall stands there. The step itself is 600 cm wide. Design a ramp that a wheelchair can use.
-- **your turn:** Design your own ramp. Draw it from above and from the side. Write its total length, its rise and how many centimetres of length it has for each 1 cm of rise. Say who else it helps.
+- **your turn:** Design your own ramp. Show it from above and from the side, by drawing it or building it from card. Write its total length, its rise and how many centimetres of length it has for each 1 cm of rise. Say who else it helps.
 - **constraints:** In your model, 1 cm stands for 10 cm. The step is 1.5 cm high and 60 cm wide. The ground in front is 12 cm deep.; The ramp must rise 1.5 cm in total. It needs at least 12 cm of length for each 1 cm of rise. So the whole ramp needs at least 18 cm in your model.; The ramp must be at least 12 cm wide in the model, which stands for 120 cm.; Any turn needs a flat landing at least 15 cm long and 15 cm wide.
 - **general:** A straight ramp that runs sideways along the front of the step. It is 18 cm long and 12 cm deep.; A straight ramp that starts at one end of the step and rises as it runs along the wall.; A longer ramp that starts further along the step, so that the slope is gentler.
 - **creative:** A ramp that starts at one end of the step, turns on a landing, and ends at the door.; A ramp that curves along the front of the step in a gentle arc.; A ramp built from the side, where there is more ground, and joined to the path.
@@ -552,22 +552,22 @@ On Monday she came out two minutes early again. Three children were already stan
   *Parent does:* Read the problem together. Set up the model: a notebook 1.5 cm thick for the step, with a wall 12 cm in front of it. Ask your child for three ideas, and which they expect to work best.  
   *Parent says:* A library step is 15 centimetres high, and there are only 120 centimetres of ground in front. How could a wheelchair get up it? Which idea do you think will work best? Why?  
   *Child mode:* A step is 15 cm high. The ground in front is only 120 cm. How could a wheelchair get up?
-  - Ask: Why can a ramp not be as short as the step is high? (good: It would be a very steep slope.; A wheelchair could tip back.; It would be hard to push.)
+  - Ask: Why must a ramp be longer than the step is high? (good: It would be a very steep slope.; A wheelchair could tip back.; It would be hard to push.)
   - Note: In the model the step is 1.5 cm high. A straight ramp of 12 cm out from the step rises 1.5 cm in 12 cm, which is 1 cm of rise for 8 cm of length. That is steeper than the guide allows.
 - **s2 (12 min)**  
   *Parent does:* Your child lays a card strip 12 cm long straight out from the step to the floor. They measure the rise and the length. They work out how many centimetres of length there are for each 1 cm of rise. They roll the toy car down it.  
   *Parent says:* Lay a strip of card 12 centimetres long, straight out from the step. How many centimetres of length do you have for each centimetre of rise?  
-  *Child mode:* Lay a 12 cm strip straight out from the step. How long is it for each 1 cm of rise?
+  *Child mode:* Lay a 12 cm strip straight out from the step. Roll the toy car down it.
   - Note: 12 ÷ 1.5 = 8. The guide asks for 12 or more. A toy car rolled down this ramp picks up speed quickly. Let your child feel that this ramp is too steep.
   - Check: A 12 cm ramp rises 1.5 cm. How many cm of length for each 1 cm of rise? → **8, which is too steep**
 - **s3 (10 min)**  
   *Parent does:* Your child makes a ramp at least 18 cm long that still fits in the 12 cm of ground. They build it from card strips and tape. They measure its length and roll the toy car along it.  
-  *Parent says:* Now make a ramp at least 18 centimetres long that still fits in 12 centimetres of ground. Remember that the step is 60 centimetres wide.  
-  *Child mode:* Make an 18 cm ramp that fits in 12 cm of ground.
+  *Parent says:* Now make a ramp at least 18 centimetres long that still fits in 12 centimetres of ground. The step is wide, so the ramp can run sideways along the front of it.  
+  *Child mode:* Make an 18 cm ramp that fits in 12 cm of ground. Run it sideways along the step.
   - Note: The usual answer runs sideways along the front of the step. A strip 18 cm long and 12 cm wide fits in the 12 cm of ground. 18 ÷ 1.5 = 12, which just meets the guide. Accept any design that measures well.
 - **s4 (3 min)**  
   *Parent does:* Compare the two ramps. Ask the question below.  
-  *Parent says:* Compare the two ramps. Which one would you rather push a wheelchair up? What does the longer ramp cost, and who does it help?  
+  *Parent says:* Compare the two ramps. Which one would you rather push a wheelchair up? What does the longer ramp cost?  
   *Child mode:* Compare the two ramps. Which is better? What does the longer ramp cost?
   - Ask: Who else, apart from a person in a wheelchair, would a ramp help? (good: A parent with a pram.; A grandparent with a stick.; A worker with a trolley.; A child on a bicycle.)
 ### c2 · A Notice Without Words: make a sign that anyone can follow (25 min)
@@ -578,13 +578,13 @@ On Monday she came out two minutes early again. Three children were already stan
 - **creative:** Footprints on the floor that lead to the hook.; A hook painted in a bright colour on a plain wall.; A row of hooks each with a different picture, so that every child has their own.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Recall Lost for Words, where pointing and showing worked best. Ask your child for the guess below, and write it down.  
-  *Parent says:* In Lost for Words, saying it louder did not help, and showing worked. What kind of picture will show 'hang your bag on the hook'? Which idea will work best? Why?  
+  *Parent says:* In Lost for Words you tried four ways to give an instruction. What kind of picture will show 'hang your bag on the hook'? Which idea will work best? Why?  
   *Child mode:* Showing worked in Lost for Words. What picture shows 'hang your bag'? Why?
   - Ask: What helped most in Lost for Words? (good: Pointing.; Showing it.; Not saying it louder.)
 - **s2 (10 min)**  
-  *Parent does:* Your child draws a notice with no words and at most three colours.  
-  *Parent says:* Draw your notice. Use no words and at most three colours. Make it big and clear.  
-  *Child mode:* Draw a notice with no words. Use at most three colours.
+  *Parent does:* Your child makes a notice with no words and at most three colours. They can draw it or stick down cut paper shapes.  
+  *Parent says:* Make your notice. Use no words and at most three colours. Make it big and clear. Draw it, or cut paper shapes and stick them down.  
+  *Child mode:* Make a notice with no words. Draw it, or stick down cut paper shapes.
   - Note: Let your child choose. Pictures with arrows, a tick and a cross work well. If they use a word by habit, rub it out and draw it instead.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Show the notice to three people who have not seen it, from 2 metres away. Ask each: 'What does this tell you to do?' Do not help. Count how many say the right thing.  

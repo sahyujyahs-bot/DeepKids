@@ -734,8 +734,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Play one jump with the parachute closed all the way down. 2. Write the beans you hold at the end of every turn. 3. Ask what happens to the speed after turn 6.",
-     "say": "First we fall with the parachute closed, to see what the speed does. Write your beans after every turn. Does the speed keep growing?",
-     "kid": "Fall with the parachute closed. Write your beans after every turn. Does your speed keep growing?",
+     "say": "First we fall with the parachute closed, to see what the speed does. Write your beans after every turn.",
+     "kid": "Fall with the parachute closed. Write your beans after every turn.",
      "ask": [
       {
        "q": "What happened to your speed?",
@@ -762,7 +762,7 @@
      "mins": 4,
      "do": "1. Ask why the speed dropped after the parachute opened, though gravity still gave 3 beans. 2. Ask what the steady speed is with the parachute open. 3. Try the heavy jumper if there is time.",
      "say": "Gravity gave 3 beans every turn, open or closed. So why did your speed fall after you opened? What did the parachute change?",
-     "kid": "Gravity always gave 3 beans. So why did your speed drop after you opened?",
+     "kid": "Gravity always gave 3 beans. Think about what the parachute changed.",
      "parent": "The open parachute lets the air take back more beans at the same speed. The speed falls until the air again takes back 3 beans a turn. That happens at 3 or 4 beans. The heavy jumper must open by turn 6.",
      "check": {
       "t": "mcq",
@@ -786,7 +786,7 @@
    "title": "Table or Tub: how small a pull can start a loaded box?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you pull a lunch box loaded with rice. First it stands on a table, and then it floats in a bucket. You count how much pull it takes to start the box moving each time.",
+   "context": "In this experiment you pull a lunch box loaded with rice. First it stands on a table, and then it floats in a bucket. You will find out whether water makes a loaded box easier to start moving than a table does.",
    "question": "How big a pull starts a loaded box on a table? How big a pull starts the same box when it floats on water? What happens to each pull when the load is doubled?",
    "predict": "Guess first. The box has one katori of rice in it. On the table, how many spoons of rice in the hanging bag will start it? How many with two katoris? Then guess for the floating box. Will it need more spoons, fewer spoons or about the same? Write each guess and your reason for it.",
    "fair_test": "Use the same box, the same thread and the same place on the table every time. Add the pull in equal steps: one level tablespoon of rice on the table, and one paper clip on the water. Wait 3 seconds after each step. Change one thing at a time: first the place, then the load. Do each table test 3 times and find the mean, because one run can be a fluke. Switch off the fan for the water tests, because moving air pushes a floating box.",
@@ -840,7 +840,7 @@
      "what": "Pull the loaded box on the table with spoons of rice, 3 times for each load. Then float it and pull it with paper clips. Find the means and draw a chart."
     }
    ],
-   "record": "Fill in the table: spoons of rice for the two table tests, and paper clips for the two water tests. Draw the box on the table and the box on the water, with an arrow for each force. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
+   "record": "Fill in the table: spoons of rice for the two table tests, and paper clips for the two water tests. Draw the box on the table and the box on the water, with an arrow for each force, or point at the forces and tell your grown-up. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: the pull needed to start the box, in grams",
@@ -922,7 +922,7 @@
      "id": "s4",
      "mins": 8,
      "do": "1. Switch off the fan. 2. Untie the bag and tie one paper clip to the end of the thread. 3. Float the box, with one katori of rice, in the middle of the bucket. 4. Lead the thread over the rim so that the clip hangs outside. 5. Hold the box still with one finger until the water is calm. 6. Lift your finger and watch for 10 seconds.",
-     "say": "Now the pull is one paper clip. That is about half a gram. Watch the gap between the box and the rim. Does it change?",
+     "say": "Now the pull is one paper clip. That is about half a gram. Watch the gap between the box and the rim.",
      "kid": "Float the box in the bucket. Hang one paper clip on the thread. Hold the box still. Let go and watch for 10 seconds.",
      "ask": [
       {
@@ -957,18 +957,18 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. For each table test, add the three runs and divide by 3. 2. Multiply each mean by 12 to get grams of rice. 3. Count half a gram for each paper clip. 4. Draw one bar for each of the four tests.",
-     "say": "A level tablespoon of rice is about 12 grams. A paper clip is about half a gram. Let's turn every result into grams and draw four bars.",
-     "kid": "Find the mean of the 3 runs. Multiply by 12 to get grams. Count half a gram for a clip. Draw four bars.",
+     "do": "1. For each table test, add the three runs and divide by 3. 2. Multiply each mean by 12 to get grams of rice. 3. Count half a gram for each paper clip. 4. Draw one bar for each of the four tests, or say the four results from smallest to biggest.",
+     "say": "A level tablespoon of rice is about 12 grams. A paper clip is about half a gram. Let's turn every result into grams and show them as four bars.",
+     "kid": "Find the mean of the 3 runs. Multiply by 12 to get grams. Count half a gram for a clip. Draw four bars, or say the four results from smallest to biggest.",
      "parent": "The two water bars will be too short to see beside the table bars. That is the result. Ask your child how to show it, and accept any honest way.",
      "context": "This step of Table or Tub is for the means and the bar chart."
     },
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. Ask your child for the three sentences. 2. Ask them to draw the box on the table and on the water, with every force as an arrow. 3. Only then read the explanation together.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Then draw the box twice. Which forces act on it on the table? Which on the water?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Draw the box twice with force arrows.",
+     "do": "1. Ask your child for the three sentences. 2. Ask them to point at each force on the real box, on the table and on the water. Ask which way it goes. 3. Only then read the explanation together.",
+     "say": "Say what you thought would happen, what you saw, and why it happened. Then show me the box twice. Which forces act on it on the table? Which on the water?",
+     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Point at each force on the box, on the table and on the water.",
      "ask": [
       {
        "q": "The box is just as heavy on the water. Why did one paper clip move it there?",
@@ -1005,7 +1005,7 @@
    "title": "The Sinking Race: which shape of dough sinks fastest?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you make a ball, a pancake and a carrot from three equal pieces of atta dough. You race them in pairs through a bucket of water, to find how shape changes water resistance.",
+   "context": "In this experiment you make a ball, a pancake and a carrot from three equal pieces of atta dough. You race them in pairs through a bucket of water. You will find out whether the shape of a thing changes how fast it sinks.",
    "question": "Three equal pieces of dough are made into a ball, a flat pancake and a carrot. Which shape sinks fastest through water, and which sinks slowest?",
    "predict": "Guess first. Put the ball, the pancake and the carrot in order, from the fastest sinker to the slowest. Write your order and your reason. Then say which of the three is heaviest, and why you think so.",
    "fair_test": "Cut the three pieces from one rope of dough, all the same length, so they have the same weight. Let each shape go from just under the surface, without a push. In each race, let both shapes go at the same moment. Run each race 3 times and swap hands each time, because one hand may let go late. Change only the shape.",
@@ -1047,7 +1047,7 @@
      "what": "Make three shapes from equal pieces of dough. Race them in pairs, 3 times each. Time the slowest shape and explain the result with forces."
     }
    ],
-   "record": "Fill in the table of winners. Write the three shapes in order from fastest to slowest. Draw the sinking pancake with three force arrows. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
+   "record": "Fill in the table of winners. Write the three shapes in order from fastest to slowest. Draw the sinking pancake with three force arrows, or show the three forces with your hand and tell your grown-up. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: races won out of 6",
@@ -1097,8 +1097,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Lay the three shapes in a row. 2. Ask your child to put them in order from fastest sinker to slowest. 3. Ask which of the three is heaviest. 4. Write the answers and the reasons down.",
-     "say": "Which shape will sink fastest, and which slowest? Why do you think so? And which of the three is heaviest?",
-     "kid": "Put the shapes in order, fastest to slowest. Say why. Which one is heaviest?",
+     "say": "Which shape will sink fastest, and which slowest? Why do you think so?",
+     "kid": "Put the shapes in order, fastest to slowest. Say why.",
      "ask": [
       {
        "q": "Which of the three is heaviest?",
@@ -1140,9 +1140,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Ask your child for the three sentences. 2. Ask again which shape is heaviest. 3. Ask them to draw the sinking pancake with gravity, upthrust and water resistance. 4. Only then read the explanation together.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Then draw the pancake. Which forces point up, and which point down?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Draw the pancake with three arrows.",
+     "do": "1. Ask your child for the three sentences. 2. Ask again which shape is heaviest. 3. Ask them to let the pancake sink in the water and point which way gravity, upthrust and water resistance push. 4. Only then read the explanation together.",
+     "say": "Say what you thought would happen, what you saw, and why it happened. Then watch the pancake sink and show me with your hand which way each force pushes. Which forces point up, and which point down?",
+     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Point your hand the way each of the three forces pushes.",
      "ask": [
       {
        "q": "The three shapes weigh the same. Which other force is the same on all three?",
@@ -1179,7 +1179,7 @@
    "title": "A Hole in the Parachute: does a vent change the fall?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you make one polythene parachute that carries a coin. You drop it with no hole, then with a small hole in the top, then with a large hole. Each time you measure how long it falls and how far from a target it lands.",
+   "context": "In this experiment you make one polythene parachute that carries a coin. You will find out whether a hole in the top changes how the parachute falls. You drop it with no hole, then with a small hole in the top, then with a large hole. Each time you measure how long it falls and how far from a target it lands.",
    "question": "Does a hole in the top of a parachute make it fall faster? Does it change how far from the target the parachute lands?",
    "predict": "Guess first. You will cut a small hole in the top of the canopy. Will the parachute then fall faster, slower or the same? Will it land nearer to the target or further away? What will a large hole do? Write each guess and your reason for it.",
    "fair_test": "Use one parachute for the whole test, so the polythene, the threads and the coin never change. Drop it from the same mark, held the same way, by the same person. Switch off the fan and close the window. Change only the hole. Do 5 drops each time and find the mean, because parachute drops vary a lot. A hand on a stopwatch is off by about 0.2 seconds, so only a bigger gap than that counts.",
@@ -1225,7 +1225,7 @@
      "what": "Build one parachute. Drop it 5 times with no hole, 5 times with a small hole and 5 times with a large hole. Find the means and compare."
     }
    ],
-   "record": "Fill in the table with every time and every distance. Find the two means for each canopy. Draw a bar chart of the mean distances. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
+   "record": "Fill in the table with every time and every distance. Find the two means for each canopy. Make a bar chart of the mean distances, drawn or made from pieces of thread. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: mean distance from the X",
@@ -1326,17 +1326,17 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. For each canopy, add the 5 fall times and divide by 5. 2. Do the same for the 5 distances. 3. Draw a bar chart of the three mean distances. 4. Circle any two mean times that are less than 0.2 seconds apart.",
+     "do": "1. For each canopy, add the 5 fall times and divide by 5. 2. Do the same for the 5 distances. 3. Show the three mean distances as bars. Draw them, or cut three pieces of thread, each as long as one mean distance. 4. Circle any two mean times that are less than 0.2 seconds apart.",
      "say": "Let's find two means for each canopy. Times that are less than 0.2 seconds apart count as the same, because our stopwatch hand is not exact.",
-     "kid": "Find the mean time for each canopy. Find the mean distance. Draw three bars. Circle times that are nearly the same.",
+     "kid": "Find the mean time for each canopy. Find the mean distance. Show three bars. Circle times that are nearly the same.",
      "context": "This step of A Hole in the Parachute is for the means and the chart."
     },
     {
      "id": "s7",
      "mins": 6,
-     "do": "1. Ask your child for the three sentences. 2. Ask what the small hole cost and what it gave. 3. Ask them to draw the parachute falling steadily, with its force arrows. 4. Only then read the explanation together.",
+     "do": "1. Ask your child for the three sentences. 2. Ask what the small hole cost and what it gave. 3. Ask them to hold the parachute up and show with their hands which way gravity pulls and which way the air pushes. 4. Only then read the explanation together.",
      "say": "Say what you thought would happen, what you saw, and why it happened. Then tell me what the small hole cost us, and what it gave us.",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Draw the falling parachute with two arrows.",
+     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Show with your hands which way gravity pulls and which way the air pushes.",
      "ask": [
       {
        "q": "Why did the small hole change the fall time so little?",
@@ -1398,7 +1398,7 @@
     }
    ],
    "safety": "Do this in the bathroom or on a balcony, and wipe up spilt water.",
-   "record": "Draw the three bottles under water. On each one draw an upthrust arrow and a gravity arrow. Write which arrows are the same on all three, and which are different.",
+   "record": "Draw the three bottles under water, with an upthrust arrow and a gravity arrow on each, or tell your grown-up about them. Write which forces are the same on all three, and which are different.",
    "setup": [
     {
      "art": "Three identical plastic bottles standing in a row: one empty with its cap on, one full of water to the brim, and one with coins at the bottom and full of water.",
@@ -1417,7 +1417,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Close the first bottle with only air in it. 2. Fill the second bottle to the very top with water and close it. 3. Put the coins in the third bottle, fill it with water and close it. 4. Stick the tape upright inside the bucket, and mark the water level on it.",
+     "do": "1. Close the first bottle with only air in it. 2. Fill the second bottle to the very top with water and close it. 3. Put the coins in the third bottle, fill it with water and close it. 4. Stick the tape upright inside the bucket, and mark the water level on it. 5. Let your child hold each bottle.",
      "say": "These three bottles are the same size. One holds air, one holds water, and one holds coins and water. Feel how different their weights are.",
      "kid": "Make three bottles: empty, full of water, and coins with water. Close them. Mark the water level in the bucket.",
      "parent": "Leave no air bubble in the second and third bottles.",
@@ -1436,7 +1436,7 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Push the empty bottle fully under and mark the new water level. 2. Hold it just under the surface, then near the bottom, and compare the push on your hand. 3. Let go and watch. 4. Do the same with the bottle of water, and then with the bottle of coins.",
-     "say": "Push it right under. How far did the water rise? Is the push on your hand bigger near the bottom? Now let go. What does the bottle do?",
+     "say": "Push it right under. Is the push on your hand bigger near the bottom? Now let go.",
      "kid": "Push each bottle fully under. Mark how high the water rises. Feel the push. Let go and watch.",
      "ask": [
       {
@@ -1461,9 +1461,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Ask your child what the three equal marks mean. 2. Ask them to draw each bottle with an upthrust arrow and a gravity arrow. 3. Read the explanation together.",
-     "say": "All three bottles displaced the same water. So what can we say about the upthrust on each? Then why did they behave so differently?",
-     "kid": "Draw the three bottles. Give each an upthrust arrow and a gravity arrow. Which arrows are the same?",
+     "do": "1. Ask your child what the three equal marks mean. 2. Ask them to hold each bottle under water. Ask them to show which way the upthrust pushes and which way gravity pulls. 3. Read the explanation together.",
+     "say": "All three bottles pushed aside the same amount of water. So what can we say about the upthrust on each? Then why did they behave so differently?",
+     "kid": "Hold each bottle under. Show which way the upthrust pushes and which way gravity pulls. Which push is the same?",
      "parent": "The upthrust arrows are equal, because upthrust depends only on the water displaced. The gravity arrows differ. The empty bottle rises because its weight is far smaller than the upthrust.",
      "check": {
       "t": "mcq",
@@ -1485,7 +1485,7 @@
    "title": "The Bag of Water: what does water weigh in water?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you hang a bag of water from a rubber band and measure how far the band stretches. Then you lower the bag into a bucket of water and measure the band again.",
+   "context": "In this activity you hang a bag of water from a rubber band and measure how far the band stretches. Then you lower the bag into a bucket of water and measure the band again. You will find out what water weighs when it is under water.",
    "materials": [
     {
      "item": "small, thin, clear plastic bags with no holes",
@@ -1551,7 +1551,7 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Lower the bag slowly into the bucket, holding the band. 2. Stop when the bag is fully under and the band is above the water. 3. Measure the band. 4. Lift the bag out and watch the band stretch again.",
-     "say": "Lower it slowly and watch the band. What is happening? Now measure it. Compare this with the loose band on the table.",
+     "say": "Lower it slowly and watch the band. Now measure it. Compare this with the band when the bag hung in the air.",
      "kid": "Lower the bag into the bucket. Watch the band. Measure it. Lift the bag out again.",
      "ask": [
       {
@@ -1577,9 +1577,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Look at the four lengths in the table. 2. Ask where the weight of the water went. 3. Read the explanation together. 4. Your child draws the bag under water with two arrows.",
+     "do": "1. Look at the four lengths in the table. 2. Ask where the weight of the water went. 3. Read the explanation together. 4. Your child holds the bag under water and shows with their hands the two forces on it.",
      "say": "The water in the bag did not get lighter. So what is holding it up? Think about the water that was in that place before the bag came.",
-     "kid": "Look at your four lengths. What holds the bag up in the bucket? Draw the bag with two arrows.",
+     "kid": "Look at your four lengths. What holds the bag up in the bucket? Show with your hands the two forces on the bag.",
      "parent": "Before the bag came, the water around that place held up the water that was there. It now pushes up on the bag just as hard. So the upthrust equals the weight of the water displaced.",
      "check": {
       "t": "mcq",
@@ -1664,7 +1664,7 @@
      "mins": 2,
      "do": "1. Ask your child which forces act on the sheet while it stays up. 2. Ask why the folded sheet needs more speed. 3. Read the explanation together.",
      "say": "The air pushes the paper against your chest. But what stops the paper sliding down? Name every force on the paper.",
-     "kid": "Name the forces on the paper. Why does the folded paper need more speed?",
+     "kid": "Name the forces on the paper.",
      "parent": "Four forces act on the sheet. Gravity pulls it down. Air resistance presses it against the chest. The chest pushes back with a normal force. Friction from the shirt holds it up. A harder press from the air gives more friction.",
      "check": {
       "t": "mcq",
@@ -1686,7 +1686,7 @@
    "title": "Balanced or Not? Draw the forces on six things",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw force diagrams for six things from this unit. Some rest on a table, some float, some sink and one falls. For each one you say whether the forces are balanced.",
+   "context": "In this activity you show the forces on six things from this unit, with paper-strip arrows or a drawing. Some rest on a table, some float, some sink and one falls. For each one you say whether the forces are balanced. You will find out what is the same about every balanced thing.",
    "materials": [
     {
      "item": "a notebook, a pencil and a ruler",
@@ -1697,7 +1697,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw six force diagrams, one for each thing. Label every arrow. Under each diagram write 'balanced' or 'unbalanced', and what the speed of the thing is doing.",
+   "record": "Keep six force diagrams, one for each thing, as photos of paper arrows or as drawings. Label every arrow. Under each diagram write 'balanced' or 'unbalanced', and what the speed of the thing is doing.",
    "setup": [
     {
      "art": "A notebook page with a simple box drawn on it and four labelled arrows: gravity down, normal force up, a pull to the right and friction to the left.",
@@ -1712,17 +1712,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Read the three rules aloud. 2. Draw the thing as a simple box. 3. Start each arrow on the box and point it the way the force acts. 4. Make a bigger force a longer arrow, and label every arrow.",
-     "say": "A force diagram has three rules. Draw the thing as a box. Draw one arrow for each force, pointing the way it acts. Make a bigger force a longer arrow.",
-     "kid": "Draw the thing as a box. Draw one arrow for each force. Make a bigger force a longer arrow.",
+     "do": "1. Read the three rules aloud. 2. Tear about ten strips from a sheet of paper, some long and some short. Each strip is one force arrow. 3. Put the lunch box in the middle of the table. 4. Lay a strip against it for a force, pointing the way the force acts. A bigger force is a longer strip. 5. Write the force's name on each strip. Take a photo of each set of strips, or draw it, to keep.",
+     "say": "A force diagram has three rules. The thing is a box. Each force is one arrow, pointing the way it acts. A bigger force is a longer arrow. We will use paper strips as arrows, or you can draw them.",
+     "kid": "Show the thing as a box. Use one arrow for each force. Make a bigger force a longer arrow.",
      "context": "This is the first step of Balanced or Not. Here you learn the three rules of a force diagram."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Draw a loaded box on a table, pulled gently by a thread and not moving. 2. Draw the same box floating still in a bucket. 3. Ask which forces hold each box up, and which act sideways.",
+     "do": "1. Set the loaded box on the table, with a thread pulling it gently so it does not move. 2. Lay strip arrows around it for every force. 3. Float the same box still in the bucket and lay strip arrows next to it. 4. Ask which forces hold each box up, and which act sideways.",
      "say": "First the box on the table, with a gentle pull that does not move it. Then the box floating still. Which forces act on each?",
-     "kid": "Draw the box on the table with a gentle pull. Then draw the box floating still. Label every arrow.",
+     "kid": "Lay arrows for the box on the table with a gentle pull. Then lay arrows for the floating box. Label every arrow.",
      "ask": [
       {
        "q": "Which forces act on the box on the table?",
@@ -1743,27 +1743,27 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Draw the floating box at the moment a paper clip starts to pull it. 2. Draw the floating box a little later, pulled along at a steady speed. 3. Ask what is different between the two drawings.",
-     "say": "Now the paper clip pulls the floating box. Draw the first moment, when the box is still at rest. Then draw it moving steadily.",
-     "kid": "Draw the floating box when the clip first pulls. Then draw it moving at a steady speed.",
+     "do": "1. Lay arrows for the floating box at the moment a paper clip starts to pull it. 2. Change the arrows for the box a little later, pulled along at a steady speed. 3. Ask what is different between the two sets of arrows.",
+     "say": "Now the paper clip pulls the floating box. Lay the arrows for the first moment, when the box is still at rest. Then change them for steady movement.",
+     "kid": "Lay arrows for the box when the clip first pulls. Then change them for a steady speed.",
      "parent": "At the first moment there is a pull and no water resistance, so the forces are unbalanced. At a steady speed, the water resistance is as long as the pull.",
      "context": "This step of Balanced or Not draws a floating box as it starts to move, and once it moves steadily."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Draw a dough pancake sinking at a steady speed. 2. Draw a parachute and its coin falling at a steady speed. 3. Ask which arrows point up in each drawing.",
+     "do": "1. Lay arrows for a dough pancake sinking at a steady speed. 2. Lay arrows for a parachute and its coin falling at a steady speed. 3. Ask which arrows point up in each set.",
      "say": "The pancake sinks steadily and the parachute falls steadily. Which forces point up on each one? How long must the up arrows be?",
-     "kid": "Draw the pancake sinking steadily. Draw the parachute falling steadily. Which arrows point up?",
+     "kid": "Lay arrows for the pancake sinking steadily. Then for the parachute falling steadily. Which arrows point up?",
      "parent": "On the pancake, upthrust and water resistance point up. Together they are as long as the gravity arrow. On the parachute, air resistance alone is as long as the gravity arrow.",
      "context": "This step of Balanced or Not draws a sinking pancake and a falling parachute, both at a steady speed."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Lay out the six drawings. 2. Your child writes 'balanced' or 'unbalanced' under each. 3. Ask what the speed is doing in each one. 4. Your child writes one rule that joins balance and speed.",
+     "do": "1. Lay out the six photos or drawings. 2. Your child writes 'balanced' or 'unbalanced' under each. 3. Ask what the speed is doing in each one. 4. Your child writes one rule that joins balance and speed.",
      "say": "Look at all six. Which are balanced? In those, is the thing still, or moving at a steady speed? What rule fits them all?",
-     "kid": "Write balanced or unbalanced under each drawing. What is the speed doing? Write one rule.",
+     "kid": "Write balanced or unbalanced under each picture. What is the speed doing? Write one rule.",
      "parent": "Five are balanced. Only the box at the first moment of the pull is unbalanced. A good rule: when forces are balanced the speed does not change, and when they are unbalanced it changes.",
      "check": {
       "t": "mcq",
@@ -1923,7 +1923,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Ask your child how a flying bird slows down to land. 2. Ask what she might do with her wings and tail. 3. Draw the tally table.",
+     "do": "1. Ask your child how a flying bird slows down to land. 2. Ask what she might do with her wings and tail. 3. Make the tally table in the notebook, with the four rows from the record.",
      "say": "A pigeon has no brakes on a wheel. How does she slow down before she lands? What do you expect her to do with her wings and tail?",
      "kid": "How does a flying bird slow down to land? Guess what her wings and tail do.",
      "context": "This is the first step of Watch a Bird Land. Here you guess how a bird slows down."
@@ -1941,8 +1941,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Ask your child what the bird did to her front area. 2. Ask what that did to the air resistance. 3. Compare her landing with a parachute.",
-     "say": "She spread her wings and tail and tilted up. What did that do to the area she pushed through the air? So what happened to the air resistance?",
-     "kid": "What did she do to her front area? What did that do to the air resistance?",
+     "say": "Think about the landings you saw. What did the bird do with her wings and tail just before she landed?",
+     "kid": "Tell your grown-up what the bird did. Then say what that did to her front area and to the air resistance.",
      "parent": "A landing bird makes her front area as big as she can. The air resistance grows and slows her in a short distance. In fast flight she does the opposite, and keeps her body narrow and smooth.",
      "check": {
       "t": "mcq",
@@ -2015,7 +2015,7 @@
      "what": "Build your final design, test it with 5 drops and write a one-page report."
     }
    ],
-   "record": "Write a one-page report. It has a labelled drawing of your final parachute and a table of the two means for every design. It has a force diagram of the steady fall. It ends with one sentence on what you would change next.",
+   "record": "Write a one-page report. It has a labelled drawing or labelled photo of your final parachute and a table of the two means for every design. It has a force diagram of the steady fall, or two sentences about the forces. It ends with one sentence on what you would change next.",
    "setup": [
     {
      "art": "A square polythene parachute 30 centimetres wide with four threads taped to two coins, lying beside a ruler and a notebook.",
@@ -2045,7 +2045,7 @@
      "id": "s2",
      "mins": 25,
      "do": "1. Build a parachute with the first change only. 2. Drop it 5 times and find the two means. 3. Build another with the second change only, and do the same. 4. Compare each with the standard design.",
-     "say": "Change only one thing in each parachute. Then we know what caused any difference. Which change helped the fall time? Which helped the landing?",
+     "say": "Change only one thing in each parachute. Which change helped the fall time? Which helped the landing?",
      "kid": "Make one change. Drop it 5 times. Then test the second change by itself. Compare with the standard design.",
      "adult": true,
      "wait": "Do this on day 2",
@@ -2114,7 +2114,7 @@
     "Make a thin ribbon and give it one twist, so that it turns as it sinks.",
     "Make a shallow saucer and let it go open side up, with no air under it."
    ],
-   "your_turn": "Now invent your own slow sinker. Draw it, make it and time it 3 times. What was the mean? Which helped more: a bigger front area, or a shape that stirs up more water?",
+   "your_turn": "Now invent your own slow sinker. Tell your plan or draw it, make it and time it 3 times. What was the mean? Which helped more: a bigger front area, or a shape that stirs up more water?",
    "setup": [
     {
      "art": "A piece of dough cut from a rope beside a ruler, and next to it a flat dough pancake about 6 centimetres wide.",
@@ -2154,9 +2154,9 @@
     {
      "id": "s3",
      "mins": 14,
-     "do": "1. Your child designs a shape of their own and draws it. 2. They make it and time it 3 times. 3. They compare the mean with the time to beat. 4. They change one thing and test again.",
+     "do": "1. Your child thinks of a shape of their own and tells you the plan, or draws it. 2. They make it and time it 3 times. 3. They compare the mean with the time to beat. 4. They change one thing and test again.",
      "say": "Now design your own slow sinker. What will you change, and why? Did it beat the pancake?",
-     "kid": "Design your own shape. Draw it. Make it. Time it 3 times. Change one thing and test again.",
+     "kid": "Design your own shape. Tell or draw your plan. Make it. Time it 3 times. Change one thing and test again.",
      "parent": "Once a shape sinks steadily, the water resistance on it equals its weight minus its upthrust. That is the same for every shape made from this piece. A slower shape meets that resistance at a lower speed.",
      "check": {
       "t": "mcq",
@@ -2202,7 +2202,7 @@
     "Make a long shape with a point at both ends, so that the water can close up gently behind it.",
     "Eiji Nakatsu, an engineer in Japan who watched birds, shaped the nose of a fast train like a kingfisher's beak. The train then entered tunnels more quietly."
    ],
-   "your_turn": "Now design your own quiet diver. Draw it, make it and drop it 3 times. What was the mean splash distance? What does your shape have in common with a kingfisher's beak?",
+   "your_turn": "Now design your own quiet diver. Tell your plan or draw it, make it and drop it 3 times. What was the mean splash distance? What does your shape have in common with a kingfisher's beak?",
    "setup": [
     {
      "art": "A wide steel bowl nearly full of water standing on spread sheets of dry newspaper, with a hand holding a flat dough pancake one ruler's length above the water.",
@@ -2246,9 +2246,9 @@
     {
      "id": "s3",
      "mins": 11,
-     "do": "1. Your child designs a shape of their own and draws it. 2. They make it and drop it 3 times. 3. They compare the mean with the pancake and the ball. 4. They change one thing and test again.",
+     "do": "1. Your child thinks of a shape of their own and tells you the plan, or draws it. 2. They make it and drop it 3 times. 3. They compare the mean with the pancake and the ball. 4. They change one thing and test again.",
      "say": "Now design your own quiet diver. What will you change, and why? Did the splash get smaller?",
-     "kid": "Design your own shape. Draw it. Drop it 3 times. Change one thing and test again.",
+     "kid": "Design your own shape. Tell or draw your plan. Drop it 3 times. Change one thing and test again.",
      "parent": "A long cone dropped point first usually makes the smallest splash. If it tips over in the air, hold it upright by the thick end and let go cleanly.",
      "check": {
       "t": "mcq",

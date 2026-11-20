@@ -274,9 +274,9 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 - **Printable board: A plant mat with 4 places (draw or print one for each player):** GROWING TIP (a sink, above the leaf). Needs 3 sugars.; FRUIT (a sink, above the leaf). Needs 3 sugars.; LEAF (the source). Sugar is made here.; ROOT (a sink and a store, below the leaf). Needs 3 sugars.
 - **Printable cards: 24 day cards to cut out:** Sunny day. Your leaves make sugar. Put 3 sugars on LEAF.; Sunny day. Your leaves make sugar. Put 3 sugars on LEAF.; Sunny day. Your leaves make sugar. Put 3 sugars on LEAF.; Sunny day. Your leaves make sugar. Put 3 sugars on LEAF.; Sunny day. Your leaves make sugar. Put 3 sugars on LEAF.; Cloudy day. Your leaves make a little sugar. Put 1 sugar on LEAF.; Cloudy day. Your leaves make a little sugar. Put 1 sugar on LEAF.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Phloem delivery. Move up to 2 sugars from LEAF to one sink. Say whether they travel up or down.; Big delivery. Move up to 3 sugars from LEAF. You may share them between two sinks.; Big delivery. Move up to 3 sugars from LEAF. You may share them between two sinks.; Night. Every living cell uses food. Take 1 sugar off LEAF, if there is one.; Night. Every living cell uses food. Take 1 sugar off LEAF, if there is one.; Aphids! They push their mouth tubes into your phloem. Take 1 sugar off LEAF, if there is one.; Aphids! They push their mouth tubes into your phloem. Take 1 sugar off LEAF, if there is one.; New season. The root store sends food up. You may move 1 sugar from ROOT up to GROWING TIP.; New season. The root store sends food up. You may move 1 sugar from ROOT up to GROWING TIP.; A wire is choking your bark. Keep this card. Your next delivery cannot go to ROOT. Then throw this card away.
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the 24 day cards. 2. Draw a plant mat for each player: four boxes in a column, labelled GROWING TIP, FRUIT, LEAF and ROOT from top to bottom. 3. Give each player about 15 beans. 4. Put 2 beans on each LEAF.  
-  *Parent says:* The leaf makes the sugar. The tip, the fruit and the root all need it. Our job is to deliver it through the phloem.  
-  *Child mode:* Cut out the cards. Draw your plant mat. Put 2 beans on LEAF.
+  *Parent does:* 1. Cut out the 24 day cards. 2. Make a plant mat for each player. Write GROWING TIP, FRUIT, LEAF and ROOT on four scraps of paper. Lay them in a column in that order, top to bottom. 3. Give each player about 15 beans. 4. Put 2 beans on each LEAF.  
+  *Parent says:* The leaf makes the sugar. The tip, the fruit and the root all need it, and each one is called a sink. Our job is to deliver it through the phloem.  
+  *Child mode:* Cut out the cards. Lay out your plant mat. Put 2 beans on LEAF.
 - **s2 (12 min)**  
   *Parent does:* 1. Take turns to turn over a card and do what it says. 2. At each delivery, the player says whether the sugar goes up or down. 3. Play until one plant has 3 sugars on every sink.  
   *Parent says:* Which sink will you feed first? And which way is that sugar travelling, up or down?  
@@ -296,29 +296,29 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
   *Parent says:* Each card gives a clue. Does it fit xylem, phloem, both, or neither?  
   *Child mode:* Cut out the cards. Shuffle them. Put them in a pile, clue side up.
 - **s2 (10 min)**  
-  *Parent does:* 1. Take turns to read the top card. 2. Say the answer and one reason. 3. Turn the card over to check.  
+  *Parent does:* 1. Take turns to read the top card. 2. Say the answer and one reason. 3. Turn the card over to check. If you were right, keep the card. If not, lay it face up in the middle.  
   *Parent says:* Read the clue aloud. Which pipe is it? Why do you think so?  
   *Child mode:* Read the clue. Say xylem, phloem, both or neither. Say why. Then turn the card over.
   - Note: A reason matters more than a lucky guess. Two cards have the answer 'neither', and two have 'both'.
 - **s3 (3 min)**  
-  *Parent does:* 1. Count the cards. 2. Lay out the cards that were missed. 3. Talk about what fooled you.  
+  *Parent does:* 1. Count the cards each player kept. 2. Look at the cards in the middle. 3. Talk about what fooled you.  
   *Parent says:* Which clues fooled us? What do we know now that we did not know before?  
-  *Child mode:* Count your cards. Which clue fooled you? Why?
+  *Child mode:* Count your kept cards. Which clue fooled you? Why?
   - Check: Which is true of both xylem and phloem? → **Both are made by the cambium in a tree**
 
 ## Experiments
 ### e1 · Pipe Maps: where are the pipes in a root, a stem and a leaf stalk? (40 min, 2 days)
 - **question:** Are the water pipes in the same place in a root, a stem and a leaf stalk? And how much of each part is pipes?
-- **predict:** Guess first. Draw three circles for the cut faces of a carrot, a stem and a leaf stalk. Mark with dots where you think the colour will show in each one. Will the pattern be the same in all three? Why do you think so? Write your reason.
+- **predict:** Guess first. Where will the colour show inside a carrot, a stem and a leaf stalk? Will the pattern be the same in all three? Why do you think so?
 - **fair test:** Use the same coloured water, the same depth and the same number of hours for all three. Keep them side by side in the same place. Cut each one 3 centimetres above the level of the coloured water. Below that level the colour may have soaked in from the side. Only the plant part changes.
 - **safety:** A grown-up does all the cutting. Food colour stains clothes and stone floors, so work on newspaper.
-- **record:** Draw each cut face as a circle as big as your palm, and mark every coloured dot where you see it. Fill in the table. Then write one sentence for what you found (your claim), one for what you saw (your evidence) and one for why you think the patterns differ (your reasoning).
+- **record:** Draw each cut face as a circle as big as your palm, and mark every coloured dot where you see it, or take a photo of each face. Fill in the table. Then write one sentence for what you found (your claim), one for what you saw (your evidence) and one for why you think the patterns differ (your reasoning).
 - **results table:** Plant part | Where I guessed the pipes are | Where the coloured dots are (centre, ring or arc) | Number of coloured dots | About how much of the cut face is coloured
 - **schedule:** day 1: Guess and draw. Stand the carrot, the stems and the leaf stalks in coloured water. Leave them overnight. (15 min); day 2: Cut each part across, map the coloured dots, and say what you found. (25 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the carrot, a stem and a leaf stalk on the table. 2. Ask your child to draw three circles, one for each cut face. 3. Ask them to mark where the colour will show, and to say why. 4. Write the guesses in the table.  
-  *Parent says:* If we stand these in coloured water, where will the colour travel inside each one? Will all three look the same? Why do you think so?  
-  *Child mode:* Draw three circles. Mark where you think the colour will show. Say why.
+  *Parent does:* 1. Put the carrot, a stem and a leaf stalk on the table. 2. Ask your child where the colour will travel inside each one: the middle, a ring near the edge, or all through. 3. Ask them to say why. 4. Write the guesses in the table.  
+  *Parent says:* If we stand these in coloured water, where will the colour travel inside each one? Will all three look the same?  
+  *Child mode:* Guess where the colour will go inside each one.
   - Ask: Why do you think so? (good: The pipes are in the middle, like the lead in a pencil.; The whole inside soaks it up, like a sponge.; They are in strings, like the strings on the banana.)
   - Note: Do not correct any guess. Many children expect the whole cut face to turn blue, or expect the same pattern in all three. Both are useful guesses to test.
 - **s2 (8 min) · grown-up needed**  
@@ -329,12 +329,12 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 - **s3 (2 min)**  
   *Parent does:* 1. After 1 hour, look at the leaves on the stems for the first signs of colour. 2. Then leave everything until tomorrow.  
   *Parent says:* Let's look at the leaf veins once before we leave it. Do you see any colour yet?  
-  *Child mode:* Look at the leaves after one hour. Is there colour in the veins? Now leave it all until tomorrow.
+  *Child mode:* Look at the leaves. Then leave it all until tomorrow.
   - Wait: Leave it overnight, or for at least 4 hours
 - **s4 (10 min) · grown-up needed**  
-  *Parent does:* 1. Lift each one out and wipe the bottom. 2. Find the line where the coloured water reached on the outside. 3. Cut straight across, 3 centimetres above that line. 4. Look at each cut face with the magnifying glass. 5. Ask your child to draw each face as a big circle and mark every coloured dot.  
+  *Parent does:* 1. Lift each one out and wipe the bottom. 2. Find the line where the coloured water reached on the outside. 3. Cut straight across, 3 centimetres above that line. 4. Look at each cut face with the magnifying glass. 5. Ask your child to draw each face as a big circle and mark every coloured dot. Or they can take a photo of each face.  
   *Parent says:* We cut above the water line, so we only see colour that travelled up inside. What do you notice on each cut face?  
-  *Child mode:* Ask a grown-up to cut each one across. Look closely at the cut face. Draw a big circle. Mark every coloured dot.
+  *Child mode:* Ask a grown-up to cut each one across. Look closely at the cut face. Draw a big circle and mark every coloured dot, or take a photo.
   - Ask: What do you notice? What do you wonder? (good: Only some small spots are coloured, not the whole face.; The dots are in different places in each one.; Most of the inside has no colour at all.)
   - Note: In the carrot, look inside the pale core. The colour may show as a patch, a star or a few dots at the edge of the core. If you see none, cut again 1 centimetre above the water line, because a carrot is slow. In a stem, the dots stand in a ring near the outside. In a leaf stalk, they lie in a curved row. If a coriander stem is too thin to see, take a photo and zoom in.
 - **s5 (7 min) · grown-up needed**  
@@ -352,16 +352,16 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
   - Check: In Pipe Maps, a stem that stood in dye showed a ring of dots. What is each dot? → **The cut end of a bundle of water pipes**
 ### e2 · Bark or Wood: which part of a twig carries the water? (35 min, 2 days)
 - **question:** A woody twig has bark on the outside, wood inside and a soft centre. Which of these carries water up to the leaves?
-- **predict:** Guess first. When a twig stands in coloured water, where will the colour travel: in the bark, in the wood, in the soft centre, or in all three? Draw your guess on a circle. Why do you think so?
+- **predict:** Guess first. When a twig stands in coloured water, where will the colour travel: in the bark, in the wood, in the soft centre, or in all three? Say your guess. Why do you think so?
 - **fair test:** Use one twig, so the bark, the wood and the centre all get the same water for the same time. Compare them at the same height. Look only above the level of the coloured water.
 - **safety:** A grown-up cuts and peels. Snip the thorns off a rose stem first. Food colour stains, so work on newspaper.
-- **record:** Fill in the table for each height. Draw the cut face of the twig and colour the part that the dye reached. Write your claim, your evidence and your reasoning.
+- **record:** Fill in the table for each height. Draw the cut face of the twig and colour the part that the dye reached, or take a photo of it. Write your claim, your evidence and your reasoning.
 - **results table:** Height above the water line (cm) | Inner side of the bark: coloured or not? | Surface of the wood: coloured or not? | Soft centre: coloured or not?
 - **schedule:** day 1: Guess and draw. Stand the twig in coloured water. Leave it for a day. (10 min); day 2: Peel windows in the bark at three heights, look at the bark and the wood, cut the twig across, and say what you found. (25 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Look at the cut end of the twig together. 2. Find the bark, the wood and the soft centre. 3. Ask your child to draw the cut face and colour in their guess. 4. Ask for the reason.  
-  *Parent says:* This twig has bark, wood and a soft centre. Which part do you think carries water up? Why do you think so?  
-  *Child mode:* Look at the cut end. Find the bark, the wood and the centre. Colour in your guess. Say why.
+  *Parent does:* 1. Look at the cut end of the twig together. 2. Find the bark, the wood and the soft centre. 3. Ask your child to point to the part they think carries water. 4. Ask for the reason.  
+  *Parent says:* This twig has bark, wood and a soft centre. Which part do you think carries water up?  
+  *Child mode:* Look at the cut end. Find the bark, the wood and the centre. Point to the part you think carries water.
   - Ask: Why do you think so? (good: The bark, because it is wet and green underneath.; The centre, because it is soft like a sponge.; The wood, because trees are mostly wood.)
   - Note: Each of these guesses is reasonable. Do not say which is right.
 - **s2 (5 min) · grown-up needed**  
@@ -390,11 +390,11 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 
 ## Activities
 ### a1 · String Hunt: find the strings in fruits and leaf stalks (10 min)
-- **record:** Draw the banana with its strings. Add arrows to show which way you think something travelled along them, and write what you think it was.
+- **record:** Tape your strings flat on paper. Point along them to show which way you think something travelled, and write what you think it was. Or draw the banana with arrows.
 - **s1 (3 min)**  
   *Parent does:* 1. Ask your child to peel the banana slowly. 2. Ask them to pull one string off, from the stalk end to the tip. 3. Ask what they notice and what the strings might be for.  
-  *Parent says:* Look at these strings. Which way do they run? What do you think they are for? Why do you think so?  
-  *Child mode:* Peel the banana slowly. Pull off one string. Which way does it run? What is it for?
+  *Parent says:* Look at these strings. Which way do they run?  
+  *Child mode:* Peel the banana slowly. Pull off one string. Which way does it run?
   - Ask: What do you think the strings are for? (good: To hold the peel on.; To carry something into the banana.; They are like veins.)
   - Note: Take every guess. Do not explain yet.
 - **s2 (4 min)**  
@@ -405,7 +405,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 - **s3 (3 min)**  
   *Parent does:* 1. Lay the strings side by side. 2. Ask what is the same about them. 3. Ask how you could test whether they carry water.  
   *Parent says:* What is the same about all these strings? If they are pipes, how could we test that?  
-  *Child mode:* Put the strings side by side. What is the same? How could you test what they carry?
+  *Child mode:* Put the strings side by side. What is the same about them?
   - Ask: How could we test whether the strings carry water? (good: Put the stalk in coloured water and see if the strings change colour.; Cut one and see if water comes out.)
   - Note: Your child's test idea leads straight into Pipe Maps, which uses coloured water.
   - Check: Banana strings, orange threads and leaf stalk strings all run the same way. Which way? → **Lengthwise, from the stalk end outward**
@@ -424,26 +424,26 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 - **s3 (5 min)**  
   *Parent does:* 1. Count the tally. 2. Ask your child what they found. 3. Then tell them which tissue is which.  
   *Parent says:* What does our tally show? Now here is a clue. The core is the carrot's xylem. The orange ring grew on the phloem side.  
-  *Child mode:* Count your tally. Which part won? The core is xylem. The orange ring is on the phloem side.
+  *Child mode:* Count your tally. Which part won?
   - Ask: Phloem brings sugar down from the leaves. How might that explain your result? (good: The sugar arrives in the outer part, so more is stored there.; The core is for water, so it is less sweet.)
   - Note: The orange ring is phloem tissue, mostly storage cells that the phloem pipes feed. The core is xylem tissue. When scientists measure carrots, they usually find more sugar in the outer ring.
   - Check: In a carrot, the cambium is the thin line between the core and the outer ring. What lies inside that line? → **Xylem**
 ### a3 · Ring or Scatter? Two ways to arrange pipes in a stem (15 min, 2 days)
 - **safety:** A grown-up does the cutting. Sugarcane is hard, so cut it on a firm board.
-- **record:** Draw the two cut faces side by side. Label one 'ring' and one 'scatter'. Under each, write the names of two more plants you think belong with it.
+- **record:** Draw the two cut faces side by side, or take a photo of each. Label one 'ring' and one 'scatter'. Under each, write the names of two more plants you think belong with it.
 - **schedule:** day 1: Stand the tuberose or maize stalk and the leafy stem in coloured water overnight. Sugarcane needs no colour. (5 min); day 2: Cut both across, compare the patterns, and sort five plants by their leaf veins. (10 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Stand the tuberose or maize stalk in dark coloured water. 2. Stand the leafy stem in a second glass. 3. Ask your child to guess whether the two patterns will match, and why. 4. Leave both overnight. 5. If you have sugarcane, skip the colour, because its dots show without it.  
   *Parent says:* In Pipe Maps the stem had a ring of dots. Will this stem have a ring too? Why do you think so?  
-  *Child mode:* Stand both stems in dark water. Will both show a ring of dots? Say why.
+  *Child mode:* Stand both stems in dark water. Guess if both will show a ring of dots.
   - Wait: Leave it overnight
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* 1. Cut each stem across, 3 centimetres above the water line. 2. Cut a thin slice off the end of the sugarcane, if you have one. 3. Look at the cut faces with the magnifying glass. 4. Ask your child to draw both.  
+  *Parent does:* 1. Cut each stem across, 3 centimetres above the water line. 2. Cut a thin slice off the end of the sugarcane, if you have one. 3. Look at the cut faces with the magnifying glass. 4. Ask your child to say which one has a ring and which has scattered dots.  
   *Parent says:* Look at both cut faces. Where are the dots in each one?  
-  *Child mode:* Ask a grown-up to cut both stems. Look closely. Where are the dots in each one?
+  *Child mode:* Ask a grown-up to cut both stems. Look closely at both. Which has a ring? Which has scattered dots?
   - Note: Tuberose, maize and sugarcane show dots scattered over the whole face. Coriander, mint and chrysanthemum show a ring. If a tuberose stalk shows little colour, cut 1 centimetre above the water line.
 - **s3 (4 min)**  
-  *Parent does:* 1. Look at a leaf of grass, maize, banana or coconut. 2. Look at a leaf of hibiscus, mango or tulsi. 3. Ask how the veins differ. 4. Ask your child to sort five plants they know into 'ring' or 'scatter' by their leaf veins.  
+  *Parent does:* 1. Look at a leaf of grass, maize, banana or coconut. 2. Look at a leaf of hibiscus, mango or tulsi. 3. Ask how the veins differ. 4. Ask your child to write five plant names on scraps of paper. Then sort them into a 'ring' pile and a 'scatter' pile by leaf veins.  
   *Parent says:* Plants with scattered bundles mostly have straight veins lying side by side. Plants with a ring mostly have a net of veins. Which plants go where?  
   *Child mode:* Look at a grass leaf and a hibiscus leaf. How do the veins differ? Sort five plants.
   - Check: A coconut leaf has straight veins lying side by side. How are the pipe bundles arranged in a coconut trunk? → **Scattered all through the trunk**
@@ -473,25 +473,25 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
   - Check: Why does a teak tree make one clear ring each year? → **Teak stops growing in the dry season**
 ### a5 · Wood Hunt: find rings and grain at home (15 min)
 - **safety:** A snapped ice cream stick has sharp splinters. Put the pieces in the bin straight away.
-- **record:** Draw the end of one wooden thing with its curved ring lines, and the side with its long grain lines. Write which way the ice cream stick split.
+- **record:** Draw the end of one wooden thing with its curved ring lines, and the side with its long grain lines, or take a photo of each. Write which way the ice cream stick split.
 - **s1 (5 min)**  
   *Parent does:* 1. Find a wooden thing with a bare cut end, such as a chopping board or the top edge of a door. 2. Look at the end with the magnifying glass. 3. Then look at a long side. 4. Ask how the lines differ.  
-  *Parent says:* Look at the end of this board, and then at its side. How are the lines different? What could have made them?  
-  *Child mode:* Look at the end of the board. Now look at the side. How are the lines different?
+  *Parent says:* Look at the end of this board, and then at its side. How are the lines different?  
+  *Child mode:* Look at the end of the board. Now look at the side. Which has curved lines?
   - Ask: What made the curved lines on the end? (good: They are parts of growth rings.; Each one is the edge of a year's wood.)
   - Note: On the end you see curved lines, which are parts of growth rings. On the side the same rings show as long lines, called the grain. Some woods, such as mango wood and rubber wood, show rings only faintly. Pine and teak show them clearly.
 - **s2 (5 min)**  
   *Parent does:* 1. Hold an ice cream stick by its two long edges and bend it until it splits along its length. 2. Hold a second stick by its two ends and bend it until it snaps across. 3. Compare the two breaks.  
   *Parent says:* Which break was easier? Which edge is straight, and which is jagged? Why do you think so?  
-  *Child mode:* Split one stick along its length. Snap another across. Which was easier? Which edge is jagged?
+  *Child mode:* Split one stick along its length. Snap another across.
   - Note: The stick splits along its length with a clean line and snaps across with splinters. The wood cells are long pipes and fibres lying lengthwise. Splitting pulls them apart from each other. Snapping has to break each one.
 - **s3 (5 min)**  
   *Parent does:* 1. Ask the nail question. 2. Let your child answer and give a reason. 3. Then read the explanation card 'Meristems' together.  
   *Parent says:* Someone hammers a nail into a tree, one metre up. In ten years the tree is twice as tall. How high is the nail? Why?  
-  *Child mode:* A nail is one metre up a tree. The tree doubles in height. How high is the nail now?
+  *Child mode:* Think about where a tree grows taller. Then choose an answer.
   - Check: A nail is hammered into a trunk 1 metre above the ground. Ten years later the tree is twice as tall. How high is the nail? → **Still 1 metre**
 ### a6 · Build the Two Pipes: a paper model of xylem and phloem (20 min)
-- **record:** Draw your two models. Label: hard wall, open end, sieve plate, companion cell. Write one way the model is like the real pipe and one way it is not.
+- **record:** Take a photo of your two models, or draw them. Point to and name: hard wall, open end, sieve plate, companion cell. Write one way the model is like the real pipe and one way it is not.
 - **s1 (7 min)**  
   *Parent does:* 1. Roll three sheets into tubes about as wide as two fingers, and tape them. 2. Tape the three tubes end to end, so they make one long open pipe. 3. Wind thread round the pipe in a spiral and tape the ends. 4. Tell your child each tube stands for one dead, empty cell.  
   *Parent says:* Each tube is one xylem cell. The end walls are gone. The thread is the hard lignin that stops the pipe being squashed.  
@@ -504,7 +504,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 - **s3 (5 min)**  
   *Parent does:* 1. Hold each pipe upright over the plate. 2. Ask your child to guess which pipe the rice will pass through faster, and why. 3. Pour a spoonful of rice into the top of each. 4. Talk about where the model is like the real pipe and where it is not.  
   *Parent says:* Which pipe will the rice pass through faster? Why do you think so? Now pour, and watch.  
-  *Child mode:* Guess which pipe lets rice through faster. Say why. Pour rice into each. What happened?
+  *Child mode:* Guess which pipe lets rice through faster. Pour rice into each. What happened?
   - Ask: How is the model not like the real thing? (good: Real pipes are thinner than a hair.; Real sap is pulled or pushed, it does not fall.; Real phloem can carry sap upward too.)
   - Note: The rice runs straight through the open pipe and slowly through the sieve plates. Every model is wrong somewhere, and finding where is part of the science.
   - Check: Why does a xylem pipe need walls hardened with lignin? → **To stop the pull on the water squashing the pipe**
@@ -512,17 +512,17 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 ## Projects
 ### p1 · Gootee: grow roots on a branch in the air (if you have a woody pot plant or a garden) (75 min, 43 days)
 - **safety:** A grown-up does all the cutting, and cuts away from the hand that holds the branch.
-- **record:** Keep a diary with one drawing each week. Each time, note three things: are the leaves above the ring fresh, is there a swelling, and where are the roots. At the end write your claim, evidence and reasoning.
+- **record:** Keep a diary with one drawing or photo each week. Each time, note three things: are the leaves above the ring fresh, is there a swelling, and where are the roots. At the end write your claim, evidence and reasoning.
 - **schedule:** day 1: Guess what will happen. A grown-up removes a ring of bark. Wrap the place in damp coco peat and plastic. (30 min); day 8: Look through the plastic. Are the leaves above the ring still fresh? Draw what you see. (5 min); day 15: Look for a swelling at the upper edge of the ring. Add water with a spoon if the coco peat looks dry. (5 min); day 22: Look for white root tips. Note whether they come from the upper edge or the lower edge. (5 min); day 29: Look again and draw the roots. (5 min); day 36: Look again. Count the roots you can see. (5 min); day 43: If there are many roots, a grown-up cuts the branch off below them and you plant the branch in a pot. Write what you found. (20 min)
 - **s1 (30 min) · grown-up needed**  
   *Parent does:* 1. Choose a healthy branch as thick as a pencil. 2. About 30 centimetres below its tip, cut two rings through the bark, 2 centimetres apart. 3. Peel off the ring of bark between them. 4. Scrape the wet, slippery layer off the bare wood. 5. Ask your child to guess what will happen above and below the ring, and why. 6. Wrap damp coco peat round the place, cover it with plastic and tie both ends.  
   *Parent says:* We have taken away the bark but left the wood. Will the leaves above stay alive? Where might something new grow? Why do you think so?  
-  *Child mode:* A grown-up takes a ring of bark off. Will the leaves above live? Where will something new grow? Say why.
+  *Child mode:* A grown-up takes a ring of bark off. Guess what will happen.
   - Note: Cut only through the bark, not into the wood. Scraping off the slippery layer removes the cambium, so that the bark does not simply grow back. The warm, wet months from June to September are best. Squeeze the coco peat first, so that it is damp but not dripping.
 - **s2 (25 min)**  
-  *Parent does:* 1. Once a week, look through the plastic without opening it. 2. Check the leaves above the ring. 3. Look at the upper and lower edges of the ring. 4. Add a spoonful of water at the top if the coco peat looks pale and dry. 5. Draw what you see.  
+  *Parent does:* 1. Once a week, look through the plastic without opening it. 2. Check the leaves above the ring. 3. Look at the upper and lower edges of the ring for a swelling, which is a bump. 4. Add a spoonful of water at the top if the coco peat looks pale and dry. 5. Draw what you see, or take a photo.  
   *Parent says:* Are the leaves above the ring still fresh? What does that tell us about where the water travels? What is happening at the two edges?  
-  *Child mode:* Each week, look through the plastic. Are the leaves fresh? Is there a swelling? Are there roots? Draw them.
+  *Child mode:* Each week, look through the plastic. Are the leaves fresh? Is there a swelling? Are there roots? Draw them, or take a photo.
   - Ask: The leaves above the ring are still fresh. So where does the water travel? (good: In the wood, because the bark is gone and water still gets past.; In the xylem.)
   - Ask: Why is the swelling at the upper edge and not the lower edge? (good: Food coming down from the leaves is stuck there.; The phloem is cut, so sugar piles up above the ring.)
   - Note: This step is five short checks of 5 minutes each, on days 8, 15, 22, 29 and 36. Expect fresh leaves, then a pale swelling at the upper edge after 2 or 3 weeks, then roots from that swelling. Roots take 4 to 8 weeks, and longer in cool weather. If the branch dries up above the ring, the cut went too deep into the wood. That is a result too: write it down and try another branch.
@@ -543,30 +543,30 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 - **s1 (6 min)**  
   *Parent does:* 1. Lay the paper sideways. 2. Draw 24 lines across its short side, about 1 centimetre apart. 3. Wrap the paper round the bottle so the lines run from top to bottom, and tape it. 4. Ask what would happen to the tree if a cut went all the way round.  
   *Parent says:* Each line carries food down to the roots. What happens to the tree if we cut every line? Why?  
-  *Child mode:* Draw 24 lines on the paper. Wrap it round the bottle. What if a cut crossed every line?
+  *Child mode:* Draw 24 lines on the paper. Wrap it round the bottle.
 - **s2 (10 min)**  
   *Parent does:* 1. Look at the three usual ideas. 2. Draw the half-way sloping cut in red. 3. Unwrap the paper and count the cut lines and the whole lines. 4. Wrap it again.  
   *Parent says:* Real tappers cut half the way round. How many lines does that cut? How many are left for the tree?  
   *Child mode:* Draw a sloping cut half the way round. Unwrap the paper. Count the cut lines.
   - Note: A cut half the way round crosses 12 lines and leaves 12 whole. Real latex tubes lie in the inner bark beside the phloem, so a tapper's knife cuts both. The knife stops just short of the cambium, so the bark can grow back.
 - **s3 (9 min)**  
-  *Parent does:* 1. Ask your child to design a new cut or a plan for several years. 2. Draw it on a fresh sheet. 3. Count again. 4. Ask them to explain the design.  
+  *Parent does:* 1. Ask your child to design a new cut or a plan for several years. 2. Draw it on a fresh sheet, or lay a ruler along the cut on the wrapped bottle. 3. Count again. 4. Ask them to explain the design.  
   *Parent says:* Now design your own. How will you get plenty of latex and keep the tree alive for twenty years?  
-  *Child mode:* Design your own cut. Draw it. Count the lines. Explain why your tree will live.
+  *Child mode:* Design your own cut. Count the lines it crosses. Explain why your tree will live.
   - Check: Why does a rubber tapper never cut a complete ring round the trunk? → **A complete ring cuts all the phloem, and the roots starve**
 ### c2 · Build a Working Stem (35 min)
 - **problem:** Build a stem at least 12 centimetres tall that stands in a glass of coloured water without being held. It must hold a 5 rupee coin at the top. It must also carry coloured water up to a paper flower at the top within 30 minutes.
-- **your turn:** Now design your own stem. Draw it and label the transport part, the support part and the skin. Build it and test it. How tall is it, and how long did the colour take to reach the flower?
+- **your turn:** Now design your own stem. Say which part will carry water, which will hold it up and which will be the skin. Build it and test it. How tall is it, and how long did the colour take to reach the flower?
 - **constraints:** Use only paper, tissue or kitchen roll, drinking straws, thread and tape.; The flower must not touch the water or the glass.; Nobody may hold the stem or pour water on the flower.
 - **general:** Roll a strip of kitchen roll into a wick, and tape it to a rolled paper tube for strength.; Thread a wick of tissue through a straw, so the straw holds it up.; Use several thin wicks side by side, like a bundle of pipes.
 - **creative:** Wrap the wick in a skin of plain paper or tape, to slow the drying. Leave both ends open.; Put the stiff parts near the outside and the wick inside, like a real stem.; Make a taller stem of 20 centimetres, and time how much longer the colour takes.
 - **s1 (7 min)**  
   *Parent does:* 1. Stand a plain strip of kitchen roll in the coloured water and let go. 2. Watch what happens. 3. Ask what a stem needs that the strip does not have.  
-  *Parent says:* The strip carries water, but it falls over. What three jobs does a real stem do?  
+  *Parent says:* The strip carries water, but it falls over. A real stem has to do more than carry water.  
   *Child mode:* Stand a tissue strip in the water. Let go. What goes wrong? What does a stem need?
   - Ask: What three jobs does a real stem do? (good: It carries water and food.; It holds the plant up.; It keeps the water in with a skin.)
 - **s2 (15 min)**  
-  *Parent does:* 1. Look at the usual ideas. 2. Build one stem at least 12 centimetres tall. 3. Stand it in the water with the coin and the flower on top. 4. Start the clock. 5. Measure the height of the colour every 5 minutes.  
+  *Parent does:* 1. Look at the usual ideas. 2. Build one stem at least 12 centimetres tall, with a small paper flower at the top. 3. Stand it in the water with the coin and the flower on top. 4. Start the clock. 5. Measure the height of the colour every 5 minutes.  
   *Parent says:* Which part of your stem does the carrying? Which part does the holding up?  
   *Child mode:* Build a stem 12 centimetres tall. Add the coin and the flower. Start the clock.
   - Note: Kitchen roll carries water up 12 centimetres in roughly 5 to 20 minutes. Thin tissue is slower. A wick carries water by a different pull from a real xylem pipe, so this is a model of the jobs, not of the method.

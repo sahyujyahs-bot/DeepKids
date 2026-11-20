@@ -793,7 +793,7 @@
      "mins": 4,
      "do": "Lay out all eight cards. Sort them into four groups by what the real animals do: both stay, mother stays, father stays, nobody stays. Ask what the cards in each group share.",
      "say": "Let us sort the cards by what the real animals do. What is the same about the cards where both parents stay?",
-     "kid": "Sort the cards into four groups. What do the 'both stay' cards share?",
+     "kid": "Sort the cards into four groups: both stay, mother stays, father stays, nobody stays.",
      "context": "In this step you sort the Stay or Go cards and look for the pattern.",
      "ask": [
       {
@@ -833,7 +833,7 @@
    "title": "The Warm Egg Test: what does an egg lose when the sitter leaves?",
    "mins": 38,
    "days": 1,
-   "context": "In this test three steel tumblers of warm water stand in for three clutches of eggs. One is covered all the time, one is covered for half the time, and one is never covered. After 20 minutes you find out how much warmth each has lost.",
+   "context": "In this test you find out how much warmth eggs lose when a parent leaves the nest. Three steel tumblers of warm water stand in for three nests of eggs. One is covered all the time, one is covered for half the time, and one is never covered. After 20 minutes you find out how much warmth each has lost.",
    "question": "How much warmth does an 'egg' lose if the cover is on all the time, half the time, or never? Is the half-covered tumbler nearer to the always-covered one or to the bare one?",
    "predict": "Guess before you start. Put the three tumblers in order from warmest to coolest at the end. Then guess whether the half-covered tumbler will end nearer to the always-covered one or nearer to the bare one. Say why you think so.",
    "fair_test": "All three tumblers are the same size and are filled to the same level from one jug, so they start equally warm. They stand on the same folded newspaper, away from a fan, a window and the stove. The two covers are the same kind of lid and the same kind of cloth. Only the time under cover is different.",
@@ -933,7 +933,7 @@
      "mins": 4,
      "do": "Show the three empty tumblers, the lids and the cloths. Explain what will happen to each tumbler. Ask for both guesses and the reason. Write the guesses above the table. Do not say whether you agree.",
      "say": "Each tumbler of warm water is a clutch of eggs. A is covered all the time. B is covered for half the time. C is never covered. Which will end warmest? Will B end nearer to A or nearer to C? Why?",
-     "kid": "A is always covered. B is covered half the time. C is bare. Guess the order at the end. Will B end nearer A or C? Say why.",
+     "kid": "A is always covered. B is covered half the time. C is bare. Guess which one ends warmest and which ends coolest.",
      "context": "This is the first step of the Warm Egg Test. You guess before you test.",
      "ask": [
       {
@@ -951,22 +951,22 @@
      "id": "s2",
      "mins": 5,
      "adult": true,
-     "do": "Mix warm water in a jug, about as warm as a nice bath. Fill the three tumblers to one finger-width below the rim. Stand them on the folded newspaper with their slips. Measure each with the thermometer, or feel each with a finger. Write the start in the table.",
+     "do": "Mix warm water in a jug, about as warm as a nice bath. Fill the three tumblers to one finger-width below the rim. Stand them on the folded newspaper with their A, B and C slips. Measure each with the thermometer, or feel each with a finger. Rule a table on paper with rows A, B and C and columns Start and After 20 minutes. Write the start in it.",
      "say": "I will mix the water. You fill the three tumblers to the same level. Now measure each one. Are they the same at the start?",
-     "kid": "Fill the three tumblers to the same level. Measure or feel each one. Write it down.",
+     "kid": "Fill the three tumblers to the same level. Measure or feel each one. Write each start in your table.",
      "context": "In this step of the Warm Egg Test you fill the tumblers and check that they start equally warm.",
      "parent": "A fever thermometer reads only from about 32 to 42 degrees. If you use one, start with water at 40 to 42 degrees. Dip only the tip, and wait for the beep. If the three starts differ by more than half a degree, pour them all back into the jug and fill again."
     },
     {
      "id": "s3",
      "mins": 20,
-     "do": "Put a lid on A and wrap a cloth around it. Do the same to B. Leave C bare. Start a 20-minute timer. Your child is the timekeeper for B. At 5 minutes they take B's lid and cloth off. At 10 minutes they put them back. At 15 minutes they take them off again. While you wait, your child draws the results table.",
+     "do": "Put a lid on A and wrap a cloth around it. Do the same to B. Leave C bare. Start a 20-minute timer. Your child is the timekeeper for B. At 5 minutes they take B's lid and cloth off. At 10 minutes they put them back. At 15 minutes they take them off again.",
      "say": "You are the parent of tumbler B. At 5 minutes you leave to feed, so take the cover off. At 10 minutes you come back. At 15 minutes you leave again. Do not touch A or C at all.",
-     "kid": "Cover A and B. Leave C bare. At 5 minutes uncover B. At 10 cover it. At 15 uncover it again. Draw your table while you wait.",
+     "kid": "Cover A and B. Leave C bare. At 5 minutes uncover B. At 10 cover it. At 15 uncover it again. Watch the timer.",
      "context": "In this step of the Warm Egg Test you wait 20 minutes and change tumbler B's cover every 5 minutes.",
      "ask": [
       {
-       "q": "If these were real eggs, what kind of family would tumbler A be? And B? And C?",
+       "q": "If these were real eggs, which tumbler has a parent who stays all the time? Which has a parent who leaves half the time? Which has no parent?",
        "good": [
         "A has two parents who take turns, so the eggs are never bare.",
         "B has one parent who must leave to find food.",
@@ -980,7 +980,7 @@
      "id": "s4",
      "mins": 4,
      "do": "When the timer rings, take all covers off. Measure A, then B, then C, with the thermometer. With no thermometer, your child shuts their eyes. You slide two tumblers in front of them. They dip one finger of each hand and say which is warmer. Do all three pairs. Write the results.",
-     "say": "Time is up. Measure each one and write it down. Now take each number away from the start. Which lost the most? Which lost the least?",
+     "say": "Time is up. Measure each one and write it down. Now take each end number away from its start number. That is the warmth lost. Which lost the most? Which lost the least?",
      "kid": "Measure A, B and C. Write each one down. Work out how much warmth each lost.",
      "context": "In this step of the Warm Egg Test you measure the three tumblers after 20 minutes.",
      "parent": "Measure quickly, because the uncovered tumblers go on cooling. With the finger test, mix up the tumblers so that your child cannot tell which is which. If a fever thermometer shows 'Lo', the water is below about 32 degrees. Write 'below 32'."
@@ -989,8 +989,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Look at the table together. Your child writes three sentences: what I think, what I saw, and why. Only after that, read them the explanation in the parent note.",
-     "say": "Look at your three numbers. Where did B end, nearer to A or nearer to C? Write what you think, what you saw, and why you think it happened.",
-     "kid": "Where did B end? Write what you think, what you saw, and why.",
+     "say": "Look at your three numbers. Where did B end, nearer to A or nearer to C? Tell me why you think so.",
+     "kid": "Write three sentences: what you think, what you saw, and why.",
      "context": "In this step you say what the results of the Warm Egg Test show.",
      "ask": [
       {
@@ -1019,7 +1019,7 @@
    "title": "The One Guard Test: how many can one guard hold on to?",
    "mins": 25,
    "days": 1,
-   "context": "In this test one person guards 12 coins with one hand while another tries to take them. You try it with the coins close together, spread out, and spread far apart. Scientists use the same idea to explain why some animals have harems and others live as pairs.",
+   "context": "In this test one person guards 12 coins with one hand while another tries to take them. You try it with the coins close together, spread out, and spread far apart. A harem is one male with many females. You will find out why some animals have harems and others live as pairs.",
    "question": "How many of 12 coins can one guard keep for 30 seconds when the coins are close together, spread out, or far apart?",
    "predict": "Guess before you start. How many of the 12 coins will the guard still have after 30 seconds in each of the three layouts? Say why you think so.",
    "fair_test": "The same person guards in every try and the same person takes, because people differ in speed. Every try lasts 30 seconds. The taker follows the same rules each time. Each layout is tried three times, because one try can be a fluke. Only how far apart the coins are is different.",
@@ -1142,7 +1142,7 @@
      "mins": 5,
      "do": "Circle the middle number for each layout. Your child writes what I think, what I saw, and why. Only after that, give the explanation in the parent note.",
      "say": "Look at your middle numbers. What changed as the coins moved apart? Write what you think, what you saw, and why.",
-     "kid": "Circle the middle numbers. What changed as the coins spread out? Write what you think, what you saw, and why.",
+     "kid": "Circle the middle number for each layout. Then write what you think, what you saw, and why.",
      "context": "In this step you say what the results of the One Guard Test show.",
      "ask": [
       {
@@ -1163,7 +1163,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Why can one male elephant seal keep a harem, when a male pigeon cannot?",
+      "q": "Why can one male elephant seal keep many females, but a male pigeon cannot?",
       "options": [
        "Female seals gather closely, so one male can guard them",
        "Seals are stronger than pigeons",
@@ -1240,7 +1240,7 @@
      "mins": 3,
      "do": "Your child counts how many animals fall under mother, father, both, group and nobody. Ask what they notice and what they wonder. They write one question.",
      "say": "Count how many are mother, father, both, group and nobody. What do you notice? What do you wonder? Write one question you want answered.",
-     "kid": "Count each kind of answer. What do you notice? Write one question you have.",
+     "kid": "Count each kind of answer. Then write one question you have.",
      "context": "In this step of Who Looks After the Young you look for a pattern and write a question.",
      "ask": [
       {
@@ -1262,7 +1262,7 @@
    "title": "Size Detective: what does body size say about a family?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you compare the weights of females and males in seven animals. Then you look for a link between the size difference and the kind of family. Darwin compared species in this way.",
+   "context": "In this activity you compare the weights of females and males in seven animals. Then you look for a link between the size difference and the kind of family. Darwin compared species in this way. You will find out whether a big size difference points to a kind of family.",
    "materials": [
     {
      "item": "paper, a pencil and a ruler",
@@ -1294,7 +1294,7 @@
      "mins": 5,
      "do": "Your child copies the table from the parent note, leaving the 'times as heavy' column empty. Before any sums, ask in which kinds of family they expect males to be much heavier than females, and why.",
      "say": "Copy this table. Before you work anything out, guess. In which families will the males be much heavier than the females? Why?",
-     "kid": "Copy the table. Then guess where males will be much heavier. Say why.",
+     "kid": "Copy the table. Leave the last column empty.",
      "context": "This is the first step of Size Detective. You copy the weights and guess the pattern.",
      "ask": [
       {
@@ -1321,7 +1321,7 @@
      "mins": 4,
      "do": "Your child reads down the ordered list with the family beside each animal. Ask what pattern they see, and which animal fits least well. Then read the parent note aloud.",
      "say": "Read down your list. What kind of family is at the top? What kind is at the bottom? Which animal does not fit neatly?",
-     "kid": "Read down your list. What families are at the top? At the bottom? Who does not fit?",
+     "kid": "Read down your ordered list. Look at the family beside each animal.",
      "context": "In this step of Size Detective you look for the link between size and family.",
      "ask": [
       {
@@ -1360,11 +1360,11 @@
      "qty": 1
     },
     {
-     "item": "colour pencils, if you have them",
+     "item": "scraps of paper for names",
      "qty": 1
     }
    ],
-   "record": "Keep the list of what was done for you and by whom, the tally for each person, and your ring drawing. Write the number of carers at the top.",
+   "record": "Keep the list of what was done for you and by whom, the tally for each person, and your ring of names, or a photo of it. Write the number of carers at the top.",
    "setup": [
     {
      "art": "A notebook page with a list down the left side: 'woke me', 'made idli', 'plaited my hair', 'walked me to the bus', each with a name beside it.",
@@ -1376,7 +1376,7 @@
     },
     {
      "art": "A drawing of a child in the centre of a ring of people, with a line from each person to the child.",
-     "caption": "3. Draw yourself in the middle and each carer around you."
+     "caption": "3. Put your name in the middle and each carer's name in a ring around it."
     }
    ],
    "flow": [
@@ -1403,17 +1403,17 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child makes a tally mark for each person and counts the carers. Then they draw themselves in the middle of a page, with each carer around them in a ring.",
-     "say": "Give each person a tally mark for each thing they did. How many different people are there? Now draw them in a ring around you.",
-     "kid": "Tally each person. Count the carers. Draw them in a ring around you.",
+     "do": "Your child makes a tally mark for each person and counts the carers. Then they write their own name on a sheet of paper. They write each carer's name on a scrap and set the scraps in a ring around it.",
+     "say": "Give each person a tally mark for each thing they did. How many different people are there? Now set their names in a ring around yours.",
+     "kid": "Tally each person. Count the carers. Set their names in a ring around yours.",
      "context": "In this step of Many Hands you count your carers and draw them.",
      "parent": "The tally is not a score of who loves the child most. If your child starts to rank people, say that the count shows who had the time that day."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Tell your child who looked after you when you were their age. If a grandparent is near or on the phone, ask them too. Compare the numbers. Then read the context line about Sarah Blaffer Hrdy again.",
-     "say": "When I was your age, these people looked after me. Is that more or fewer than yours? Why do you think a human child needs so many?",
+     "do": "Tell your child who looked after you when you were their age. If a grandparent is near or on the phone, ask them too. Compare the numbers. Then tell them that Sarah Blaffer Hrdy, who studies human families, says people have always raised children together.",
+     "say": "When I was your age, these people looked after me. Is that more or fewer than yours?",
      "kid": "Ask a grown-up who looked after them as a child. Compare with your count.",
      "context": "In this step of Many Hands you compare your carers with a grown-up's.",
      "ask": [
@@ -1495,9 +1495,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Find a nest with a sitting bird. Watch for ten minutes from inside. Your child draws the bird and notes marks such as the wing bars, the neck colour, white feathers or a damaged toe.",
-     "say": "Who is on the nest? Draw every mark you can see. We need to know this bird again tomorrow.",
-     "kid": "Find a nest. Watch for ten minutes. Draw the sitting bird and their marks.",
+     "do": "Find a nest with a sitting bird. Watch for ten minutes from inside. Your child draws the bird's marks, takes a photo, or says them aloud. Look for marks such as the wing bars, the neck colour, white feathers or a damaged toe.",
+     "say": "Who is on the nest? Draw every mark you can see, or tell me what they are. We need to know this bird again tomorrow.",
+     "kid": "Find a nest. Watch for ten minutes. Draw the bird's marks. Or take a photo. Or tell them to your grown-up.",
      "context": "This is day 1 of Two on One Nest. You find a nest and draw the bird who is sitting.",
      "parent": "Pigeons breed in most months of the year in Indian towns. If you find no nest, watch any pair of pigeons, crows or mynas on a ledge instead. Note what the two do together, and whether both carry twigs or food."
     },
@@ -1582,7 +1582,7 @@
     "Bury the tumbler in a deep heap. The Nicobar megapode, a bird of the Nicobar Islands, buries eggs in a mound and lets the mound keep them warm.",
     "Make the nest small and snug. A big empty space inside lets the air move and carry warmth away."
    ],
-   "your_turn": "Now design a nest for the opposite problem. Some birds lay their eggs on hot open sand, where the eggs could cook. Draw a nest, or a thing the parent could do, that keeps an egg cool for 15 minutes.",
+   "your_turn": "Now design a nest for the opposite problem. Some birds lay their eggs on hot open sand, where the eggs could cook. Build or sketch a nest, or tell a thing the parent could do, that keeps an egg cool for 15 minutes.",
    "setup": [
     {
      "art": "A heap of home materials on a table: newspaper, cloth scraps, cotton wool, a small cardboard box, and a dinner plate to build on.",
@@ -1602,8 +1602,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Read the problem and the constraints aloud. Ask your child where the warmth of a tumbler goes, and what could slow it down. They sketch a plan.",
-     "say": "Where does the warmth go when a tumbler cools? Up, down or sideways? What could slow it down? Sketch your nest before you build.",
-     "kid": "Where does the warmth go? What could slow it? Sketch your nest.",
+     "say": "A warm tumbler cools down. What could slow that? Tell me your plan, or sketch your nest, before you build.",
+     "kid": "Make a plan for your nest. Sketch it, or tell it to your grown-up.",
      "context": "This is the first step of The Parent Is Away. You think about where warmth escapes and plan a nest.",
      "ask": [
       {
@@ -1641,7 +1641,7 @@
      "mins": 8,
      "do": "After 15 minutes, open the nest. Compare the two tumblers with a thermometer, or with one finger in each and eyes shut. Your child says what worked, changes one thing and says what they expect it to do.",
      "say": "Open it. Which is warmer, and by how much? What part of your nest did the most? Change one thing and tell me what you expect.",
-     "kid": "Compare the two tumblers. What worked best? Change one thing and say why.",
+     "kid": "Compare the two tumblers. Then change one thing about your nest and say why.",
      "context": "In this step of The Parent Is Away you test the nest and improve it.",
      "ask": [
       {

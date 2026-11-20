@@ -573,7 +573,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Read the top card aloud. 2. Count to three. 3. Everyone lays down a slip. 4. Ask for reasons. 5. Turn the card over and read the back.",
+     "do": "1. Read the top card aloud. 2. Count to three. 3. Everyone lays down a slip. 4. Ask for reasons. 5. Turn the card over and read the back. 6. Give one point for each right slip.",
      "say": "Before we turn the card, tell me your reason. Is this about size, about parts or about something every cell needs?",
      "kid": "Read the card. Lay down a slip. Say your reason. Turn the card and check.",
      "ask": [
@@ -766,8 +766,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Count the points. 2. Pick up one lysosome enzyme card. 3. Cover the L with a finger and ask where the protein goes now. 4. Ask who in the cell would notice the mistake.",
-     "say": "Suppose this enzyme lost its L tag. Read the key again. Where does the cell send it now?",
-     "kid": "Count your points. Cover the L on a lysosome card. Where does the protein go now?",
+     "say": "Suppose this enzyme lost its L tag. Read the key again and tell me what you think.",
+     "kid": "Count your points. Cover the L on a lysosome card. Read the key again.",
      "check": {
       "t": "mcq",
       "q": "A lysosome enzyme is made without its lysosome tag. Where does the cell send it?",
@@ -790,7 +790,7 @@
    "title": "The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?",
    "mins": 50,
    "days": 2,
-   "context": "In this experiment three equal pieces of potato sit in strongly coloured water. You cut one open after 1 hour, one after 4 hours and one after 16 hours. Each time you measure how deep the colour has drifted in.",
+   "context": "In this experiment three equal pieces of potato sit in strongly coloured water. You cut one open after 1 hour, one after 4 hours and one after 16 hours, and measure how deep the colour has drifted in. Drifting means spreading out slowly by itself. You will find out whether waiting four times as long makes the colour go four times as deep.",
    "question": "Colour drifts into a piece of potato with nobody pushing it. If you wait four times as long, does the colour go four times as deep?",
    "predict": "Guess first. After 1 hour you will measure how deep the colour has gone. After 4 hours, will it be the same depth, about twice as deep or about four times as deep? What about after 16 hours? Write your guesses and the reason for each.",
    "fair_test": "Change only the time. Cut all three pieces from one potato, as near the same size as you can. Keep them in the same tumbler of colour, fully covered, in the same place. Measure every piece the same way: on a fresh cut through the middle, at the middle of each of the four sides, away from the corners. At a corner, colour comes in from two sides at once.",
@@ -895,8 +895,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Fill a tumbler with water and let it stand still for one minute. 2. Let one drop of colour fall in. Do not stir. 3. Watch for two minutes. 4. Ask what is moving the colour.",
-     "say": "Nobody is stirring this water. So what is moving the colour? Tell me what you think, and why.",
-     "kid": "Put one drop of colour in still water. Do not stir. Watch for two minutes. What moves the colour?",
+     "say": "Nobody is stirring this water. Watch the colour spread for two minutes. Then tell me what you think, and why.",
+     "kid": "Put one drop of colour in still water. Do not stir. Watch for two minutes.",
      "ask": [
       {
        "q": "Nobody stirred. What could be moving the colour?",
@@ -924,7 +924,7 @@
      "mins": 4,
      "do": "1. Explain that one block comes out after 1 hour, one after 4 hours and one after 16 hours. 2. Ask for a guess for the 4 hour block and the 16 hour block, each with a reason. 3. Write the guesses down.",
      "say": "After 4 hours, will the colour be as deep as after 1 hour, twice as deep or four times as deep? And after 16 hours? Why do you think so?",
-     "kid": "Guess how deep the colour goes in 4 hours. Guess for 16 hours. Say why. Write it down.",
+     "kid": "Guess how deep the colour goes in 4 hours. Guess for 16 hours. Write your guesses down.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -944,7 +944,7 @@
      "wait": "Do this 1 hour after the blocks went in",
      "do": "1. Lift one block out with a spoon. Rinse it for two seconds and pat it dry. 2. Cut it in half through the middle. 3. On the cut face, measure the coloured rim at the middle of each side. 4. Write down the four depths and find the mean.",
      "say": "Look at the cut face. The middle is still white. Measure the coloured rim at the middle of each side, in millimetres.",
-     "kid": "A grown-up cuts the first block in half. Measure the coloured rim on four sides. Write the four numbers. Find the mean.",
+     "kid": "A grown-up cuts the first block in half. Measure the coloured rim on four sides. Write the four numbers. Add them and divide by 4. That is the mean.",
      "parent": "After 1 hour the rim is thin, perhaps 1 or 2 millimetres. Judge to the nearest half millimetre, and use a magnifying glass if you have one. Measure to where the colour fades to about half its strength. If the rim is too thin to measure, write 'less than 1' and go on. The 4 hour and 16 hour blocks will still answer the question.",
      "context": "This step of the Potato Colour Test comes after 1 hour. Here you cut the first block and measure how deep the colour has gone."
     },
@@ -982,7 +982,7 @@
     {
      "id": "s7",
      "mins": 10,
-     "do": "1. Draw a line graph with time along the bottom and mean depth up the side. 2. Ask your child for the three sentences. 3. Ask the two questions below. 4. Only then read the explanation card on diffusion together.",
+     "do": "1. Draw a line graph with time along the bottom and mean depth up the side. Or write the three means in a row and point to the pattern. 2. Ask your child for the three sentences. 3. Ask the two questions below. 4. Only then read the explanation card on diffusion together.",
      "say": "Say what you thought would happen, what you saw, and why you think it happened. Then tell me this. Is drifting a good way to cross a short distance? Is it a good way to cross a long one?",
      "kid": "Draw the graph. Say what you guessed. Say what you saw. Say why you think it happened.",
      "ask": [
@@ -994,7 +994,7 @@
        ]
       },
       {
-       "q": "A bacterium is about 2 micrometres long, and one of your cells is about 20 micrometres wide. Which one can rely on drifting?",
+       "q": "A bacterium is about 2 micrometres long, and one of your cells is about 20 micrometres wide. Which one can rely on drifting alone to carry things across?",
        "good": [
         "The bacterium, because everything in her is very close.",
         "The big cell is ten times as wide, so drifting takes about a hundred times as long."
@@ -1022,7 +1022,7 @@
    "title": "The Fizzing Potato: what do potato cells do to hydrogen peroxide?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you put raw, boiled and grated potato into hydrogen peroxide and measure the foam. Hydrogen peroxide is a harmful chemical that all cells make in small amounts. The test shows the enzyme that cells keep in their peroxisomes to destroy it.",
+   "context": "In this experiment you put raw, boiled and grated potato into hydrogen peroxide and measure the foam. Hydrogen peroxide is a harmful chemical that all cells make in small amounts. An enzyme is a tiny machine in a cell that does one job. You will find out how the enzyme in a cell's peroxisomes destroys this chemical.",
    "question": "Does potato break down hydrogen peroxide? Does it still do so after boiling? Does grating the potato change how fast it happens?",
    "predict": "Guess first. Three glasses hold hydrogen peroxide. One gets a raw potato cube, one a boiled cube and one a raw cube that has been grated. Which glass will fizz most, and which least? Write your guess and the reason for it.",
    "fair_test": "Change only the potato. Use the same amount of hydrogen peroxide in each glass, from the same bottle. Cut the three cubes the same size, from the same potato. Start all three at the same moment and measure the foam at the same times.",
@@ -1130,7 +1130,7 @@
      "mins": 3,
      "do": "1. Show your child the bottle of hydrogen peroxide. 2. Say that every cell makes a little of this chemical and that it harms cells. 3. Ask which glass will fizz most and which least, and why. 4. Write the guesses down.",
      "say": "Cells make a little hydrogen peroxide as they work, and it harms them. Which potato will fizz most in it: raw, boiled or grated? Which least? Why do you think so?",
-     "kid": "Guess which glass will fizz most. Guess which will fizz least. Say why. Write it down.",
+     "kid": "Guess which glass will fizz most. Guess which will fizz least. Write your guesses down.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1198,7 +1198,7 @@
    "title": "The Coin Walk: wander or walk straight?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity a token moves along a paper track. First a coin toss decides each step, forward or back, so the token wanders as a drifting molecule does. Then the token steps forward every time, as a motor protein does. You count the tosses each way needs.",
+   "context": "In this activity a token moves along a paper track. First a coin toss decides each step, forward or back, so the token wanders as a drifting molecule does. Then the token steps forward every time, as a motor protein does. You count the tosses each way needs. You will find out why wandering gets slow over a long way, and a straight walk does not.",
    "materials": [
     {
      "item": "a strip of paper about 30 centimetres long",
@@ -1247,7 +1247,7 @@
      "mins": 6,
      "do": "1. Put the token on START. 2. Toss the coin. For heads move one square right, for tails one square left. 3. Make a tally mark for every toss. 4. Stop when the token first lands on a square numbered 3, on either side. 5. Do 5 runs and find the mean.",
      "say": "This is the short trip. Count every toss until the token is 3 squares from START, on either side. We do 5 runs, because single runs differ a lot.",
-     "kid": "Toss the coin. Heads, go right. Tails, go left. Count the tosses until you reach a 3. Do 5 runs.",
+     "kid": "Toss the coin. Heads, go right. Tails, go left. Count the tosses until you reach a 3. Do 5 runs. Add the five counts and divide by 5 to get the mean.",
      "parent": "The mean is usually near 9 tosses. One run may need only 3 and another 25. That spread is part of the lesson.",
      "context": "This step of the Coin Walk is the short trip. Here the token wanders until it is 3 squares from START."
     },
@@ -1305,7 +1305,7 @@
    "title": "A Film That Mends: how a vesicle can join a membrane without a leak",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a soap film across a bangle and push things through it. You also join two soap bubbles into one. A soap film is a model of a cell membrane: both are thin sheets of molecules that can slide past one another.",
+   "context": "In this activity you make a soap film across a bangle and push things through it. You also join two soap bubbles into one. A soap film is a model of a cell membrane: both are thin sheets of molecules that can slide past one another. A vesicle is a tiny bubble of membrane that carries things inside a cell. You will find out how a vesicle can let its cargo out without a leak.",
    "materials": [
     {
      "item": "dish-washing liquid",
@@ -1336,7 +1336,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the film with the wet pencil through it. Beside it, draw a vesicle joining a cell membrane. Write one way the film and the membrane are alike, and one way they differ.",
+   "record": "Draw the film with the wet pencil through it, or take a photo of it. Then write one way the film and a cell membrane are alike, and one way they differ.",
    "setup": [
     {
      "art": "A bangle being lifted out of a plate of soapy water, with a shining soap film stretched across it.",
@@ -1383,7 +1383,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Wet the plate with solution. 2. Dip the straw and blow one bubble on to the plate. 3. Blow a second bubble beside it. 4. Push them gently together with the wet straw until they become one. 5. Read the note below to your child.",
-     "say": "Watch what happens when two bubbles meet. Do they leak? This is how a vesicle joins the cell membrane and lets its cargo out.",
+     "say": "Watch what happens when two bubbles meet. Do they pop, or do they join into one?",
      "kid": "Blow two bubbles on the wet plate. Push them together gently. Watch them become one.",
      "ask": [
       {
@@ -1415,7 +1415,7 @@
    "title": "Fold It In: how does so much membrane fit in a cell?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you fit a whole sheet of newspaper into a steel tumbler by folding it. The ER and the inner membrane of a mitochondrion are folded in the same way, so that a large area of membrane fits into a small space.",
+   "context": "In this activity you fit a whole sheet of newspaper into a steel tumbler by folding it. The ER and the inner membrane of a mitochondrion are folded in the same way, so that a large area of membrane fits into a small space. You will find out how many times more surface you can pack in by folding.",
    "materials": [
     {
      "item": "a full sheet of newspaper",
@@ -1434,7 +1434,7 @@
      "qty": "1 of each"
     }
    ],
-   "record": "Write the area of the newspaper sheet and the area of the tumbler's inside wall. Write how many times bigger the sheet is. Draw the folded sheet inside the tumbler, seen from above.",
+   "record": "Write the area of the newspaper sheet and the area of the tumbler's inside wall. Write how many times bigger the sheet is. Take a photo of the folded sheet inside the tumbler, seen from above, or tell your grown-up what you see.",
    "setup": [
     {
      "art": "A child measuring the length and width of an open sheet of newspaper on the floor with a tailor's tape.",
@@ -1505,7 +1505,7 @@
    "title": "A Cell on a Plate at True Scale, with a bacterium beside her",
    "days": 2,
    "mins": 50,
-   "context": "In this two-day project you build a model of one of your cells in which every part has its true size compared with the others. One centimetre in the model stands for one micrometre in the cell. Then you lay a bacterium at the same scale beside the cell.",
+   "context": "In this two-day project you build a model of one of your cells in which every part has its true size compared with the others. One centimetre in the model stands for one micrometre in the cell. Then you lay a bacterium at the same scale beside the cell. You will find out how big a bacterium really is next to your own cell.",
    "materials": [
     {
      "item": "a sheet of newspaper and a plate or lid about 20 centimetres wide, to draw round",
@@ -1654,7 +1654,7 @@
     "Make the thread a loop round both chair backs, like a clothes line on two pulleys. Fix the parcel to the loop and pull the other side.",
     "Carry the fuel on board, as a motor protein uses ATP at every step: a wound-up rubber band and a paper propeller on the straw."
    ],
-   "your_turn": "Now design your own carrier. Draw it, build it and test it 3 times. How long did the best trip take? Where does your carrier get its energy, and where does a motor protein get hers?",
+   "your_turn": "Now design your own carrier. Draw or describe it, build it and test it 3 times. How long did the best trip take? Where does your carrier get its energy, and where does a motor protein get hers?",
    "setup": [
     {
      "art": "A thread stretched level between the backs of two chairs 2 metres apart, with a short piece of straw threaded on it and a small paper parcel hanging under the straw.",
@@ -1695,9 +1695,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Look at the creative ideas, or invent a new one. 2. Your child draws the design first. 3. Build it and test it 3 times. 4. Compare it with the first idea.",
-     "say": "Now try an idea where the carrier takes its own energy along. Draw it first. How is it like a motor protein, and how is it different?",
-     "kid": "Draw your own carrier. Build it. Test it 3 times. Which idea was best?",
+     "do": "1. Look at the creative ideas, or invent a new one. 2. Your child draws the design first, or describes it out loud. 3. Build it and test it 3 times. 4. Compare it with the first idea.",
+     "say": "Now try an idea where the carrier takes its own energy along. Plan it first, by drawing it or telling me. How is it like a motor protein, and how is it different?",
+     "kid": "Draw your own carrier, or describe it to your grown-up. Build it. Test it 3 times. Which idea was best?",
      "parent": "The balloon works well if the thread is smooth and tight and the balloon is taped along the straw with its neck pointing backward. A balloon gives one long push. A motor protein takes a new sip of energy at every step, which is closer to the pulled loop.",
      "check": {
       "t": "mcq",

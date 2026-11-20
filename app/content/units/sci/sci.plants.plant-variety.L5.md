@@ -230,7 +230,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **s3 (2 min)**  
   *Parent does:* 1. Count the questions in your best round. 2. Halve 16 again and again until you reach 1, and count the halvings.  
   *Parent says:* Each good question cuts the cards in half. How many halvings does it take to get from 16 cards to one?  
-  *Child mode:* Count the questions in your best round. Halve 16 until you reach 1. How many halvings was that?
+  *Child mode:* Count the questions in your best round. Then halve 16 again and again until you reach 1.
   - Check: Suppose every question cuts the cards exactly in half. How many yes-or-no questions do you need to get from 16 cards to one? → **4**
 
 ## Experiments
@@ -239,7 +239,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **predict:** Guess first. You will drop haldi powder, mustard seeds and a rajma bean in front of a fan. Which will land farthest from where you dropped them? Which will land closest? Why do you think so? Write your guess and your reason.
 - **fair test:** Drop everything from the same height, level with the middle of the fan, at the same spot just in front of it. Keep the fan at the same speed and in the same place. Only the thing you drop changes. Drop each one 3 times, because one try can be a fluke.
 - **safety:** Use only a pinch of haldi, and the fan's lowest speed. Keep faces out of the powder cloud, and never blow powder at anyone. Haldi stains clothes and floors, so keep it on the paper.
-- **record:** Fill in the table, then draw a bar chart with one bar for each thing you dropped. Write one sentence saying what you found (your claim), one giving the numbers that show it (your evidence) and one saying why you think it happened (your reasoning).
+- **record:** Fill in the table, then make a bar chart, drawn or built from paper strips, with one bar for each thing you dropped. Write one sentence saying what you found (your claim), one giving the numbers that show it (your evidence) and one saying why you think it happened (your reasoning).
 - **results table:** What we dropped | Try 1: farthest it landed (cm) | Try 2 (cm) | Try 3 (cm) | Average (cm)
 - **s1 (6 min)**  
   *Parent does:* 1. Put the fan on a table or stool at one end of a clear floor, blowing straight across the room. 2. Lay the sheets of paper end to end on the floor in a straight line, about 2.5 metres long. Start under the spot 30 cm in front of the fan. 3. With the pencil, mark the edge of the paper every 25 cm from the start. 4. Set the fan to its lowest speed.  
@@ -249,7 +249,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **s2 (3 min)**  
   *Parent does:* 1. Show your child the haldi, the mustard and the rajma. 2. Ask for a guess and a reason for each. 3. Write the guesses down.  
   *Parent says:* Which of these will travel farthest in the wind from the fan? Which will land closest? Why do you think so?  
-  *Child mode:* Look at the haldi, the mustard and the rajma. Which will go farthest? Why? Write your guess.
+  *Child mode:* Look at the haldi, the mustard and the rajma. Which will go farthest? Write your guess.
   - Ask: Why do you think so? (good: The haldi is lighter, so the wind can push it more easily.; The rajma is heavy and falls fast, before the wind can push the bean far.)
 - **s3 (4 min)**  
   *Parent does:* 1. Hold one rajma bean level with the middle of the fan, at the drop spot. 2. Let go without throwing. 3. Measure to the spot where the bean first hit the paper, not where the bean rolled to. 4. Do this 3 times and write each distance in the table.  
@@ -272,9 +272,9 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Child mode:* Choose one more thing to test. Guess where it will land. Say why. Test it 3 times.
   - Note: This is your child's own investigation. Ask them which things must stay the same for it to be fair: the height, the spot and the fan speed.
 - **s7 (6 min)**  
-  *Parent does:* 1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart. 3. Say what you found (your claim), which numbers show it (your evidence) and why you think it happened (your reasoning).  
+  *Parent does:* 1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart, or cut a strip of paper as long as each average. 3. Say what you found (your claim), which numbers show it (your evidence) and why you think it happened (your reasoning).  
   *Parent says:* What did we find? Tell me your claim, the evidence from our numbers, and why you think it happened.  
-  *Child mode:* Add your three numbers. Divide by 3. Draw a bar for each thing. Say what you found and why.
+  *Child mode:* Add your three numbers. Divide by 3. Make a bar for each thing, drawn or cut from paper. Say what you found and why.
   - Ask: A fern spore is about as fine as haldi. What does our test tell us about how ferns spread? (good: The wind can carry fern spores far away.; That is how ferns can appear on a wall far from any other fern.)
   - Ask: A seed is heavier than a spore. What does a seed have that a spore does not? (good: A young plant and a store of food inside.; A tough coat.)
   - Check: In the Fan Test, why did the haldi travel much farther than the rajma? → **Each grain of haldi is so light that moving air can carry it before it falls**
@@ -282,7 +282,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **question:** Does a pine cone close when wet and open when dry? How does that help the pine tree?
 - **predict:** Guess first. What will happen to an open pine cone after an hour in water? What will happen when it dries in the sun again? Why do you think so?
 - **fair test:** Measure the same cone at its widest point each time, with the same ruler. Compare it with a second cone that stays dry, so you know the change came from the water and not from time passing.
-- **record:** Fill in the table. Draw the wet cone and the dry cone side by side.
+- **record:** Fill in the table. Take a photo of the wet cone and the dry cone side by side, or draw them.
 - **results table:** Cone | Width at the start (cm) | After 1 hour (cm) | After 1 day drying (cm)
 - **schedule:** day 1: Measure both cones. Soak one for an hour. Measure both again. (15 min); day 2: Measure the soaked cone after a day in the sun. Count the spirals on the dry cone. (10 min)
 - **s1 (5 min)**  
@@ -306,7 +306,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **question:** What are the brown dots under a fern leaf, and what comes out of them?
 - **predict:** Guess first. If you leave a fern leaf with brown dots on white paper overnight, will anything appear on the paper? What will it look like, and why do you think so?
 - **fair test:** Lay one leaf with dark brown dots and one leaf with no dots on the same kind of paper, under the same kind of bowl, for the same time. Then you can tell whether the dots made the difference.
-- **record:** Draw the pattern on the paper. Write what you saw under the lens.
+- **record:** Take a photo of the paper, or draw the pattern. Write what you saw under the lens.
 - **results table:** Leaf | What we saw on the paper | Colour | Shape of the pattern
 - **schedule:** day 1: Look at the dots with a lens. Lay both fronds on white paper, dots down, under bowls. (10 min); day 2: Lift the bowls and look at what is on the paper. Look at the dust with a lens. (10 min)
 - **s1 (5 min)**  
@@ -316,7 +316,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **s2 (5 min)**  
   *Parent does:* 1. Lay each frond on white paper with the underside down. 2. Cover each with an upside-down bowl, so moving air cannot blow the dust away. 3. Leave them overnight.  
   *Parent says:* The bowl keeps the air still. Tomorrow we'll see if anything fell out.  
-  *Child mode:* Put each leaf face down on white paper. Cover it with a bowl. Leave it overnight.
+  *Child mode:* Put each leaf on white paper, with the brown dots down. Cover it with a bowl. Leave it overnight.
   - Wait: Leave it overnight
 - **s3 (10 min)**  
   *Parent does:* 1. Lift the bowls and the fronds gently. 2. Compare the two papers. 3. Look at the dust with the lens.  
@@ -328,10 +328,10 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 
 ## Activities
 ### a1 · Split a Dhania Seed: seed or fruit? (10 min)
-- **record:** Draw a whole dhania seed and the two halves.
+- **record:** Take a photo of a whole dhania seed and the two halves, or draw them.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the seeds on the plate. 2. Ask your child to press a dhania seed between finger and thumb until the seed splits. 3. Look at the two halves.  
-  *Parent says:* Every one of these seeds came from a flower. Let's split a dhania seed. What do you see?  
+  *Parent says:* Most of these seeds came from a flower. Let's split a dhania seed. What do you see?  
   *Child mode:* Press a dhania seed hard. Does it split? Look at the two halves.
   - Note: A dhania 'seed' is really a tiny dry fruit. The 'seed' splits into two halves, and each half holds one true seed. Jeera is a fruit in the same way.
 - **s2 (3 min)**  
@@ -341,13 +341,13 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **s3 (3 min)**  
   *Parent does:* 1. Line up a rajma, a mustard seed and a dhania seed, biggest to smallest. 2. Say that a fern spore is far smaller than all three. Ask what could fit inside a spore. 3. Write down your child's guess, so you can compare it with the results of the Fan Test.  
   *Parent says:* A fern spore is much smaller than the smallest of these. What could fit inside something so small, and what could not?  
-  *Child mode:* A fern spore is smaller than all of these. What could fit inside it? What could not? Write your guess.
+  *Child mode:* Line up the rajma, the mustard and the dhania, biggest to smallest. A fern spore is smaller than all three. What could fit inside it?
   - Ask: What could a spore not have room for? (good: A young plant and a store of food.; A tough coat made of many cells.)
 ### a2 · A Key for the Four Plant Groups (20 min)
-- **record:** Draw your own key as a flow chart with yes and no arrows.
+- **record:** Write or draw your own key with yes and no arrows, or explain it out loud to your grown-up.
 - **s1 (4 min)**  
   *Parent does:* 1. Copy this key onto paper. Question 1: Does the plant make flowers? Yes means a flowering plant. 2. Question 2: Does the plant make cones? Yes means a conifer or cycad. 3. Question 3: Does the plant have veins? Yes means a fern. No means a moss or relative.  
-  *Parent says:* A key is a set of questions. Each answer sends you down one arrow. Let's draw one.  
+  *Parent says:* A key is a set of questions. Each answer sends you down one arrow. Let's write one down.  
   *Child mode:* Copy the key. Each question has a yes arrow and a no arrow.
 - **s2 (8 min)**  
   *Parent does:* 1. Take each plant card. 2. Start at question 1 and follow the arrows. 3. Put the card at the end of its arrow.  
@@ -355,21 +355,21 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Child mode:* Take a card. Start at the top. Follow the arrows. Put the card where you end up.
   - Ask: Which plant was hardest to sort, and why? (good: The banyan, because the flowers are hidden in the figs.; Cycas, because they look like a palm.)
 - **s3 (8 min)**  
-  *Parent does:* 1. Ask your child to make a new key for the same plants. It should start with a different question, such as 'Does the plant make seeds?'. 2. Test it on every card. 3. Check that each plant still ends up in their group.  
+  *Parent does:* 1. Ask your child to make a new key for the same plants, on paper or just by asking questions aloud. It should start with a different question, such as 'Does the plant make seeds?'. 2. Test it on every card. 3. Check that each plant still ends up in their group.  
   *Parent says:* Can you make a key that starts with a different question? Does your key still sort every plant correctly?  
   *Child mode:* Make your own key. Start with a new question. Test it on every card.
   - Note: A strong key asks about features that every plant either has or lacks, such as seeds or veins. Questions like 'Is the plant big?' fail, because 'big' means different things to different people.
   - Check: Which question is best for a key? → **Does the plant make seeds?**
 ### a3 · Draw the Family Tree from Clues (20 min)
-- **record:** Draw the nested circles and the family tree.
+- **record:** Take a photo of your loops and your family tree, or draw them.
 - **s1 (7 min)**  
-  *Parent does:* 1. Read the table of features together. 2. Draw a big circle for 'makes food from sunlight' and put all five inside. 3. Inside it, draw a circle for 'lives on land'. 4. Keep drawing smaller circles for veins, seeds, then flowers.  
+  *Parent does:* 1. Read the table of features together. 2. Write each plant on a slip of paper. 3. Lay the string in a big loop on the floor for 'makes food from sunlight' and put all five slips inside. 4. Make a smaller loop inside it for 'lives on land'. 5. Add more loops for veins, seeds and flowers. Move each slip into the loops it belongs in.  
   *Parent says:* Each feature is a circle. Who goes inside each one?  
-  *Child mode:* Draw a big circle for 'makes food from sunlight'. Put all five inside. Draw a smaller circle for each next feature.
+  *Child mode:* Make a big string loop for 'makes food from sunlight'. Put all five slips inside. Make a smaller loop for each next feature.
 - **s2 (8 min)**  
   *Parent does:* 1. Turn the circles into a tree: one trunk, and a branch splitting off at each new feature. 2. Put the alga on the first branch, then the moss, the fern, the pine, and the mango at the top. 3. Mark each split with the feature that appeared there.  
   *Parent says:* Each time a new feature appears, the tree splits. The plants after the split all have it.  
-  *Child mode:* Draw a trunk. Make a branch for each new feature. Put each plant on their branch.
+  *Child mode:* Make a trunk and a branch for each new feature. Draw them, or lay out your slips. Put each plant on their branch.
   - Ask: Which two are the closest relatives in your tree? (good: The pine and the mango, because both make seeds.; They share the most features.)
 - **s3 (5 min)**  
   *Parent does:* 1. Ask whether the moss is the 'ancestor' of the fern. 2. Point out that the moss on your wall today is a cousin, not a grandparent.  
@@ -386,16 +386,16 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Child mode:* Look on shady walls and steps. Look near drains and in pots. Take a photo of each one.
   - Note: The ladder fern often grows from cracks in old walls and around drains in Indian cities. In the dry months, moss looks brown and flat, but they are still alive.
 - **s2 (8 min)**  
-  *Parent does:* 1. At home, look at the photos together. 2. Use the key from A Key for the Four Plant Groups to sort each one. 3. Mark the places on a rough map of your building.  
+  *Parent does:* 1. At home, look at the photos together. 2. Use the key from A Key for the Four Plant Groups to sort each one. 3. Mark the places on a rough map of your building, or just tell where each one grew.  
   *Parent says:* Where did we find the mosses? Where did we find the cone plants? Why there?  
   *Child mode:* Sort your photos into the groups. Mark where you found each one.
   - Ask: Why were the mosses only in some places? (good: They grow where it stays wet and shady.; Their sperm needs water to swim.; They have no veins to carry water up.)
 ### a5 · The Moss Sponge (15 min)
 - **record:** Write how much water was left in each tumbler, and work out how much each one held.
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the moss in the strainer (or cloth) and push it into one tumbler. Rinse the strainer, put the soil in it and push it into the other tumbler. 2. Wait two minutes. 3. Lift each one out and hold it over its tumbler for one minute while it drips.  
+  *Parent does:* 1. Take the two tumblers, each with 200 ml of water. Put the moss in the strainer (or cloth) and push it into one tumbler. Rinse the strainer, put the soil in it and push it into the other tumbler. 2. Wait two minutes. 3. Lift each one out and hold it over its tumbler for one minute while it drips.  
   *Parent says:* Which will hold more water, the moss or the soil? Why do you think so?  
-  *Child mode:* Guess which holds more water. Say why. Put the moss in a strainer and push it into one tumbler. Do the same with the soil. Wait. Lift each out and let it drip.
+  *Child mode:* Push the moss into one tumbler of water. Push the soil into the other. Wait. Lift each one out and let it drip.
 - **s2 (5 min)**  
   *Parent does:* 1. Pour the water that is left in each tumbler into the measuring cup. 2. Take that amount away from 200 ml. The answer is how much water the moss or the soil held.  
   *Parent says:* If 140 ml is left, then the moss held 60 ml. Let's find out.  
@@ -413,9 +413,9 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Parent says:* About 280 million years ago, these lands were joined in one big land called Gondwana. Let's fit them back together.  
   *Child mode:* Cut out the five lands. Fit them together like a jigsaw. Glue them down.
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw small tongue-shaped leaves in green across all five lands. 2. Mark India's coalfields in Jharkhand, Odisha, Chhattisgarh and West Bengal.  
+  *Parent does:* 1. Put a few green dots on each of the five lands to show where Glossopteris fossils were found. 2. Mark India's coalfields in Jharkhand, Odisha, Chhattisgarh and West Bengal.  
   *Parent says:* Glossopteris fossils are found on all five lands. Their seeds were too heavy to cross an ocean. What does that tell us?  
-  *Child mode:* Draw green leaves on all five lands. Mark where India's coal is.
+  *Child mode:* Put green dots on all five lands. Mark where India's coal is.
   - Ask: How could the same plant grow in India and Antarctica? (good: The lands were once joined.; The plant spread across one big land before the land split apart.)
   - Note: Much of the coal in Jharkhand, Odisha and Chhattisgarh formed from forests that included Glossopteris, about 250 to 300 million years ago. Their seeds were large, so they could not have crossed the sea.
 ### a7 · Are Mosses 'Lower' Plants? A Debate (15 min)
@@ -423,7 +423,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **s1 (7 min)**  
   *Parent does:* 1. Write the two sides as headings. 2. Your child argues 'Mosses are lower plants' for two minutes. 3. You argue 'Not lower' for two minutes.  
   *Parent says:* One side says mosses came first and are simpler, so they are lower. The other says every living plant has an equally long history. Let's argue.  
-  *Child mode:* Argue one side for two minutes. Use facts from the unit. Then listen to the other side.
+  *Child mode:* Argue that mosses are 'lower' plants for two minutes. Use facts from the unit. Then listen to your grown-up argue 'not lower'.
 - **s2 (8 min)**  
   *Parent does:* 1. Swap sides and argue again. 2. Each person says which side they now think is stronger, and why.  
   *Parent says:* Now swap. What is the strongest point for the side you didn't choose?  
@@ -434,7 +434,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 ## Projects
 ### p1 · The Green Jar: do spores come from the air? (40 min, 28 days)
 - **safety:** A grown-up pours the boiling water into the steel bowl, not into a glass jar, because hot water can crack glass. Wait until the soil is cool. Once something grows, do not open the jars or sniff them. Mould can bother people with asthma or allergies, so look through the glass.
-- **record:** Draw both jars every week. At the end, write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).
+- **record:** Photograph or draw both jars every week. At the end, write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).
 - **schedule:** day 1: A grown-up pours boiling water over the soil in a steel bowl, covers it and lets it cool. Spoon the damp soil into both jars. Close jar B at once. Leave jar A open by the window all day, then close it. (15 min); day 7: Look at both jars through the glass, with a lens or phone zoom. Note any green or white patches. (5 min); day 14: Look again and draw what you see. (5 min); day 21: Look again. Measure any green patch. (5 min); day 28: Compare the two jars and write a conclusion. (10 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts the soil in a steel bowl and pours boiling water over it, then covers the bowl with a plate. 2. When the soil is cool, spoon it into both jars, damp but not dripping. 3. Close jar B at once. 4. Leave jar A open by the window all day, then close it.  
@@ -442,21 +442,21 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Child mode:* A grown-up pours hot water on the soil. Wait until it is cool. Put the soil in both jars. Close jar B. Leave jar A open all day.
   - Note: Both jars get the same soil, water and light. Only one thing changes: whether the soil was open to the air. Boiling does not kill every spore, so a little growth in jar B is possible. Say so in the result.
 - **s2 (15 min)**  
-  *Parent does:* 1. Once a week, look at both jars through the glass, with a lens or phone zoom. 2. Draw what you see. 3. Do not open the jars.  
+  *Parent does:* 1. Once a week, look at both jars through the glass, with a lens or phone zoom. 2. Take a photo or draw what you see. 3. Do not open the jars.  
   *Parent says:* Is anything growing yet? Is it green or white?  
-  *Child mode:* Look at both jars each week, through the glass. Draw what you see. Do not open them.
+  *Child mode:* Look at both jars each week, through the glass. Take a photo or draw what you see. Do not open them.
   - Note: Over 2 to 4 weeks, a green film of algae or young moss, or white fluffy mould, often appears. Mould is a fungus, which also grows from spores. If nothing grows in either jar, that is a real result too: say so.
   - Wait: Look again in 7 days
 - **s3 (10 min)**  
   *Parent does:* 1. Compare the jars on day 28. 2. Write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).  
   *Parent says:* What did jar A, the open jar, catch that jar B, the closed jar, did not? What does that tell us about the air?  
-  *Child mode:* Compare the jars. What grew in each? What does that tell you about the air?
+  *Child mode:* Compare the jars. What grew in each?
   - Ask: Where did the green come from? (good: From spores that floated in from the air.; Moss or algae spores landed on the open soil.)
 
 ## Challenges
 ### c1 · A Seed That Flies and Still Carries Food (30 min)
 - **problem:** Use a kabuli chana as your heavy seed, with a food store inside. Add something to the chana that makes the chana land as far as possible from the drop spot in front of the fan.
-- **your turn:** Now design your own flying seed. Draw it, build it and test it 3 times. Did it beat the bare chana? By how many centimetres?
+- **your turn:** Now design your own flying seed. Build it and test it 3 times. Did it beat the bare chana? By how many centimetres?
 - **constraints:** The chana must stay attached to your design, and you must not cut the chana.; Use only paper, thread, tape and cotton from home.; Drop the chana from the same height and spot as in the Fan Test (level with the middle of the fan), with the fan on its lowest speed.
 - **general:** Add one paper wing, like a pine seed, so the seed spins while falling.; Add a cotton tuft on top, like the silky hairs on aak (madar) seeds.; Tape the chana under a small paper parachute.
 - **creative:** Make a flat, wide paper disc that glides like a frisbee.; Try two small wings instead of one large one, and compare.; Wrap the chana in a light paper cone, like a shuttlecock.
@@ -480,9 +480,9 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **general:** Use a drawing of a flower for 'Does the plant have flowers?'.; Use a drawing of a cone for 'Does the plant have cones?'.; Use a drawing of brown dots under a leaf for 'Does the plant have spore dots?'.
 - **creative:** Make the key a board game path, with a yes path and a no path.; Make it a fold-out booklet, one question per page.; Use real pressed leaves and a pine scale stuck on the card.
 - **s1 (10 min)**  
-  *Parent does:* 1. Choose three questions. 2. Draw a picture for each. 3. Add yes and no arrows.  
+  *Parent does:* 1. Choose three questions. 2. Show each with a drawing, a photo or a real leaf. 3. Add yes and no arrows.  
   *Parent says:* A good key works for anyone. Which questions can a six-year-old answer just by looking?  
-  *Child mode:* Pick three questions. Draw a picture for each. Add yes and no arrows.
+  *Child mode:* Pick three questions. Show each with a picture or a real leaf. Add yes and no arrows.
 - **s2 (15 min)**  
   *Parent does:* 1. Test the key with a younger child or a grown-up. 2. Watch where they get stuck. 3. Change that question and test again.  
   *Parent says:* Where did they get stuck? How can we make that question clearer?  

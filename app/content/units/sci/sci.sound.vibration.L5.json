@@ -944,7 +944,7 @@
      "mins": 3,
      "do": "1. Tell your child the five stroke times: 8 seconds, 4 seconds, 2 seconds, 1 second and half a second. 2. Ask for a guess and a reason. 3. Write both down.",
      "say": "A slow stroke will take 8 seconds, and the fastest will take half a second. Which strokes will sound like separate ticks? Which will sound like a note? Why do you think so?",
-     "kid": "The slowest stroke takes 8 seconds. The fastest takes half a second. Which will give ticks? Which will give a note? Why?",
+     "kid": "Guess which strokes will give separate ticks and which will give a note.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1160,7 +1160,7 @@
      "mins": 3,
      "do": "1. Show your child the steel plate and the spoon. 2. Say that the plate will be struck in the air, touching nothing. 3. Ask for a guess and a reason, and write both down.",
      "say": "I will hold this plate in the air and strike it. It will not touch the bowl or the table. Will the grains move? From how far away? Why do you think so?",
-     "kid": "The plate will not touch the bowl. Will the grains move anyway? From how far? Why?",
+     "kid": "Guess if the grains will move without being touched, and from how far away.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1397,7 +1397,7 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Look at the table together. 2. Ask your child to say what they thought would happen, what they heard, and why they think it happened. 3. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your counts. Say what you thought would happen, what you heard, and why you think it happened. Why was the ring so much stronger through the string?",
+     "say": "Look at your counts. Say what you thought would happen, what you heard, and why you think it happened.",
      "kid": "Say what you thought would happen. Say what you heard. Say why you think it happened.",
      "ask": [
       {
@@ -1472,7 +1472,7 @@
      "mins": 4,
      "do": "1. Stretch the rubber band lengthwise over the tumbler, so that it crosses the open mouth. 2. Your child plucks the band over the mouth. 3. They look at it from the side, at eye level.",
      "say": "Pluck the band and look at it from the side. What do you notice? Where is the blur widest? What do you wonder?",
-     "kid": "Pluck the band. Look from the side. Where is the blur widest? What do you wonder?",
+     "kid": "Pluck the band. Look at it from the side. Where is the blur widest?",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1499,8 +1499,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Your child holds the tumbler by its base and taps the rim with the spoon. 2. While it rings, they pinch the rim with two fingers. 3. Ask the two questions and write down the answers.",
-     "say": "Ring the tumbler, then pinch the rim. What happened to the sound? What was the band doing while it hummed? Why did it carry on after your finger let go?",
-     "kid": "Ring the tumbler. Pinch the rim. What happened to the sound? What was the band doing?",
+     "say": "Ring the tumbler, then pinch the rim. Listen. What happens to the sound?",
+     "kid": "Ring the tumbler. Pinch the rim. Listen to the sound.",
      "check": {
       "t": "mcq",
       "q": "A ringing tumbler goes silent when you pinch its rim. What does that show?",
@@ -1544,7 +1544,7 @@
      "what": "Make a slow string from a chain of rubber bands and watch one vibration. Then tighten and shorten it until it gives a note."
     }
    ],
-   "record": "Draw the chain at three moments of one swing: far to one side, passing the middle, and far to the other side. Mark where it was fastest and where it stopped.",
+   "record": "Tell your grown-up where the peg was moving fastest and where it stopped for a moment. You can also take a photo of the peg at the far side and another as it passes the middle.",
    "setup": [
     {
      "art": "Six rubber bands looped one through the next to make a chain, one end tied to the back of a chair, the other held in a child's hand.",
@@ -1569,7 +1569,7 @@
      "mins": 4,
      "do": "1. Loop six rubber bands into a chain. 2. Tie one end to a chair. 3. Hold the other end so that the chain is just straight and hardly stretched. 4. Clip the peg to the middle. 5. Pull the peg a hand-width to one side and let go.",
      "say": "This chain is a string, but a slow one. Pull the peg to the side and let go. Watch one full trip. Where does the peg stop for a moment? Where is it moving fastest?",
-     "kid": "Clip the peg to the middle of the chain. Pull it to the side. Let go and watch. Where is it fastest?",
+     "kid": "Clip the peg to the middle of the chain. Pull it to the side. Let go and watch one full swing.",
      "ask": [
       {
        "q": "Where is the peg moving fastest, and where does it stop for a moment?",
@@ -1587,7 +1587,7 @@
      "mins": 3,
      "do": "1. Ask the question below before you explain anything. 2. Let your child watch several swings. 3. Then read them the explanation in the note.",
      "say": "The chain pulls the peg back towards the middle. So why does the peg not stop when it gets to the middle? Watch again, and tell me what you think.",
-     "kid": "The chain pulls the peg to the middle. Why does the peg not stop there? Watch again.",
+     "kid": "Watch the peg swing several times. Think about why it keeps going past the middle.",
      "ask": [
       {
        "q": "Why does the peg not stop in the middle?",
@@ -1670,7 +1670,7 @@
      "what": "Slap the end of a long tube and of a short tube with your palm. Compare the notes of the two air columns."
     }
    ],
-   "record": "Draw the long tube and the short tube. Under each one write 'higher note' or 'lower note'.",
+   "record": "Lay the long tube and the short tube side by side. Put a paper label 'higher note' under one and 'lower note' under the other. Tell your grown-up why.",
    "setup": [
     {
      "art": "A child squeezing an empty plastic bottle with the cap on, the sides pushing back against her fingers.",
@@ -1700,7 +1700,7 @@
      "mins": 5,
      "do": "1. Your child holds the long tube upright in one hand. 2. They slap the top end with the flat of the other palm, and keep the palm on the end. 3. Ask for a guess: will a tube half as long sound higher, lower or the same? Ask why.",
      "say": "Slap the end and keep your palm there. Listen for the note inside the 'pop'. Now guess. I will cut the other tube in half. Will the short tube sound higher, lower or the same? Why do you think so?",
-     "kid": "Slap the end of the tube and keep your palm there. Hear the note. Will a short tube sound higher or lower? Why?",
+     "kid": "Slap the end of the tube and keep your palm there. Listen for the note. Then guess what a short tube will sound like.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1716,8 +1716,8 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Cut the second tube in half. 2. Your child slaps the long tube, then the short one, several times. 3. Ask what they thought would happen, what happened and why. 4. Then they hold the long tube to one ear and listen. They try it with the far end open, and then closed by a palm.",
-     "say": "Slap the long one, then the short one. Which is higher? Say what you thought would happen, what happened, and why you think it happened. Now hold the long tube to your ear and listen.",
+     "do": "1. Cut the second tube in half. 2. Your child slaps the long tube, then the short one, several times. 3. Ask what they thought would happen, what happened and why.",
+     "say": "Slap the long one, then the short one. Which is higher? Say what you thought would happen, what happened, and why you think it happened.",
      "kid": "Slap the long tube. Slap the short tube. Which is higher? Say why you think it happened.",
      "adult": true,
      "check": {
@@ -1869,7 +1869,7 @@
      "what": "Speak softly and loudly, low and high, at the skin. Measure how long the streak of light becomes each time."
     }
    ],
-   "record": "Draw the shape the spot makes for a soft 'aaa', a loud 'aaa', a low hum and a high hum. Beside each drawing write the length of the streak in centimetres.",
+   "record": "Write the length of the streak in centimetres for a soft 'aaa', a loud 'aaa', a low hum and a high hum. You can draw the streaks too, or just tell your grown-up which was longest.",
    "setup": [
     {
      "art": "A paper cup with its bottom cut out and a piece of balloon stretched over the wide end, held by a rubber band, with a tiny mirror glued a little off the centre.",
@@ -1926,7 +1926,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Look at the drawings and the lengths together. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. Ask what in their own body works like this skin.",
+     "do": "1. Look at the streak lengths together. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. Ask what in their own body works like this skin.",
      "say": "Say what you thought would happen, what you saw, and why you think it happened. Your voice never touched the skin. What carried the vibration there?",
      "kid": "Say what you thought would happen. Say what you saw. Say why you think it happened.",
      "check": {
@@ -1976,7 +1976,7 @@
     "Put a heavy book between the phone and a soft pad. A heavy thing is harder to shake.",
     "Stack two different soft layers, such as sponge on cloth, and test whether two layers beat one."
    ],
-   "your_turn": "Now design your own stand. Draw it, build it and test it with the walk-away test. From how many steps away can you still hear the buzz? Write which idea worked best, and why you think it did.",
+   "your_turn": "Now design your own stand. Plan it by drawing it or by telling your grown-up. Then build it and test it with the walk-away test. From how many steps away can you still hear the buzz? Write which idea worked best, and why you think it did.",
    "setup": [
     {
      "art": "A phone lying on an upturned steel plate on a table, with zigzag lines around both to show a loud rattle.",
@@ -1996,7 +1996,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Set the phone to vibrate and lay it on the upturned steel plate. 2. Call it from another phone. 3. Your child walks away, one step at a time, until the buzz cannot be heard. 4. Write down the number of steps. 5. Then do the same with the phone held in a hand.",
-     "say": "First let us hear the problem. How many steps away can you still hear the buzz? Now I will hold the phone in my hand. Is it louder or quieter? Why do you think so?",
+     "say": "First let us hear the problem. How many steps away can you still hear the buzz? Now I will hold the phone in my hand. Is it louder or quieter?",
      "kid": "Lay the phone on the plate and make it buzz. Walk away until it is silent. Count your steps.",
      "ask": [
       {

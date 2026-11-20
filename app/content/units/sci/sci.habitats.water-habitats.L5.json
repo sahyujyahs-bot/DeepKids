@@ -678,7 +678,7 @@
      "mins": 7,
      "do": "Take turns. The player reads the top card, names a home and says which clue told them. Then they turn the card over to check.",
      "say": "Read the card. Which home is it? Which words on the card told you? Now turn it over and see.",
-     "kid": "Read the top card. Name the home. Say which clue told you. Turn the card over to check.",
+     "kid": "Read the top card aloud and name the home. Then turn it over to check.",
      "ask": [
       {
        "q": "Which clue on the card told you the home?",
@@ -714,9 +714,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Count the cards. Then ask your child to pick one home and say what a body needs there.",
-     "say": "Count your cards. Now choose one home. Design a new animal for that home. What three things would that body need?",
-     "kid": "Count your cards. Choose one home. What three things does a body need there?",
+     "do": "Count the cards. Then ask your child to say what a body needs in the deep sea.",
+     "say": "Count your cards. Now think of the deep sea. Imagine a new animal for the deep sea. What three things would its body need?",
+     "kid": "Count your cards. Think of the deep sea. What three things does a body need there?",
      "ask": [
       {
        "q": "What does a body need in the deep sea?",
@@ -809,7 +809,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Lay out the board, with the answer key face down. Give each player a button. Read squares 1, 4, 8, 16 and 20 aloud, so that everyone knows the zones.",
-     "say": "This board is the sea from top to bottom. The sunlit zone ends at square 4. The last light ends at square 8. The abyss begins at square 16. We are diving to 6,000 metres.",
+     "say": "This board is the sea from top to bottom. The sunlit zone ends at square 4. The last light ends at square 8. The abyss begins at square 16. The abyss is the very deep part of the sea, where no light reaches. We are diving to 6,000 metres.",
      "kid": "Put your button on square 1. Find where the sunlight ends. Find the abyss floor.",
      "context": "This is the first step of Dive to 6,000. You lay out the board and find the zones of the sea on it."
     },
@@ -855,7 +855,7 @@
      "mins": 3,
      "do": "Look back over the board together. Ask which squares helped a player and which held a player back, and why the board was made that way.",
      "say": "Which squares gave an extra turn? Which made you wait? Why do you think the square at 3,000 metres makes everyone miss a turn?",
-     "kid": "Which squares helped you? Which made you wait? Why?",
+     "kid": "Think about which squares helped you and which made you wait.",
      "ask": [
       {
        "q": "Why does the board make you wait in the deep?",
@@ -876,7 +876,7 @@
    "title": "The Vanishing Disc Test: how fast does light fade in cloudy water?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you lower a small white disc into a bucket of water. You add milk one teaspoon at a time to make the water cloudy. Each time, you measure how deep the disc is when it disappears.",
+   "context": "In this experiment you lower a small white disc into a bucket of water. You add milk one teaspoon at a time to make the water cloudy. Each time, you measure how deep the disc is when it disappears. You will find out how fast mud in a pond hides the light from the plants below.",
    "question": "How deep can you see a white disc in water with 1, 2, 3, 4, 6 and 8 teaspoons of milk in it? If you double the milk, does the depth halve?",
    "predict": "Before you add any milk, guess. With 1 teaspoon of milk in the bucket, how deep will the disc be when it vanishes? When the milk is doubled, will that depth be half, more than half or less than half? Why do you think so?",
    "fair_test": "Use the same bucket of water, the same disc and the same milk all the way through. Keep the bucket in the same place, in the same light. The same person looks each time, from straight above. Stir the same way after each spoon of milk, and wait for the water to stop moving. Measure three times for each amount, because one reading can be a fluke. Only the amount of milk changes.",
@@ -916,7 +916,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with seven rows: no milk, then 1, 2, 3, 4, 6 and 8 teaspoons. For each row write the three depths in centimetres and circle the middle one. If the disc can still be seen on the bottom of the bucket, write 'deeper than the bucket'. Then draw a line graph, with teaspoons of milk along the bottom and depth up the side.",
+   "record": "Make a table with seven rows: no milk, then 1, 2, 3, 4, 6 and 8 teaspoons. For each row write the three depths in centimetres and circle the middle one. If the disc can still be seen on the bottom of the bucket, write 'deeper than the bucket'. Then draw a line graph, with teaspoons of milk along the bottom and depth up the side.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example: depth at which the disc vanished",
@@ -977,7 +977,7 @@
      "mins": 3,
      "do": "Show your child the bucket, the milk and the white cap. Say that you will make the water cloudy one teaspoon at a time. Ask for both guesses and the reason, and write them down.",
      "say": "We will lower this white disc into the water until it disappears. With 1 teaspoon of milk in the bucket, how deep will that be? Then we double the milk. Will the depth be half, more than half or less than half? Why do you think so?",
-     "kid": "A white disc goes down into cloudy water. How deep before it vanishes? If the milk doubles, does the depth halve? Why?",
+     "kid": "Guess how deep the white disc goes in cloudy water before it vanishes. If the milk doubles, does the depth halve?",
      "ask": [
       {
        "q": "Why do you think the depth will change in that way?",
@@ -1024,7 +1024,7 @@
      "id": "s4",
      "mins": 12,
      "do": "Add 1 more teaspoon, so that the bucket holds 2. Stir, wait and measure three times. Do the same for 3 and 4 teaspoons. Then add 2 teaspoons at once to make 6, and 2 more to make 8. Write every depth in the table.",
-     "say": "Now there are 2 teaspoons in the bucket. Stir, wait and measure again. Before each new amount, tell me what depth you expect. Is the depth dropping by the same number of centimetres each time?",
+     "say": "Now there are 2 teaspoons in the bucket. Stir, wait and measure again. Before each new amount, tell me what depth you expect.",
      "kid": "Measure with 2, 3, 4, 6 and 8 teaspoons of milk. Guess each depth before you measure. Write every depth down.",
      "ask": [
       {
@@ -1043,7 +1043,7 @@
      "mins": 5,
      "do": "Circle the middle depth in each row. Draw the line graph together. Then compare three pairs of rows: 1 and 2 teaspoons, 2 and 4, and 4 and 8.",
      "say": "Look at 2 teaspoons and 4 teaspoons. The milk doubled. What happened to the depth? Check the other two pairs. Does your graph go down in a straight line, or does it curve?",
-     "kid": "Circle the middle depths. Draw the graph. When the milk doubled, what happened to the depth?",
+     "kid": "Circle the middle depths. Draw the graph, or ask your grown-up to help. When the milk doubled, what happened to the depth?",
      "ask": [
       {
        "q": "What shape is your graph?",
@@ -1060,7 +1060,7 @@
      "mins": 5,
      "do": "Ask your child to say what they thought would happen, what they found, and why they think it happened. After they have answered, read them the explanation in the note below. Pour the milky water onto plants or down the drain.",
      "say": "Say what you guessed, what you measured, and why you think it came out that way. A pond after rain is cloudy with mud. What does your graph tell you about the plants at the bottom of that pond?",
-     "kid": "Say what you guessed, what you found, and why. What happens to pond plants when the water turns muddy?",
+     "kid": "Say what you guessed, what you found, and why you think it happened.",
      "ask": [
       {
        "q": "Why did the disc vanish sooner with more milk?",
@@ -1088,7 +1088,7 @@
    "title": "Warm on Top: what makes the layers of a lake mix?",
    "mins": 31,
    "days": 1,
-   "context": "In this experiment you float warm brown water on cool clear water in three glasses. You leave one alone, blow across the second and put ice on the third. You watch which one sends brown water to the bottom.",
+   "context": "In this experiment you float warm brown water on cool clear water in three glasses. You leave one alone, blow across the second and put ice on the third. You watch which one sends brown water to the bottom. You will find out what makes the layers of a lake mix.",
    "question": "Warm brown water rests on cool clear water in three glasses. Glass A is left alone. Glass B has wind blown across the top. Glass C has ice put on top. In which glass does brown water reach the bottom?",
    "predict": "Before you start, guess. In which glass will brown water reach the bottom first: the still glass, the windy glass or the iced glass? Will it reach the bottom in more than one glass? Why do you think so?",
    "fair_test": "Use three glasses of the same size. Put the same amount of cool tap water in each, from the same jug. Pour the same amount of warm tea onto each, from the same pot, in the same gentle way. Start all three within a few minutes of each other and stand them side by side. Do not move or bump them. Only what you do to the top changes.",
@@ -1129,7 +1129,7 @@
     }
    ],
    "safety": "A grown-up makes the tea and cools it until it is only as warm as bath water. Never pour hot tea in this experiment.",
-   "record": "Draw the three glasses from the side, twice: once after 1 minute and once after 10 minutes. Shade in where the brown water is. Under each drawing write 'top only', 'part of the way down' or 'at the bottom'.",
+   "record": "Take a photo of the three glasses from the side, once after 1 minute and once after 10 minutes. Or draw them and shade in where the brown water is. Under each picture write 'top only', 'part of the way down' or 'at the bottom'.",
    "setup": [
     {
      "art": "Three identical glass tumblers in a row, each half full of clear water, in front of a white sheet of paper.",
@@ -1154,7 +1154,7 @@
      "mins": 3,
      "do": "Show your child the three glasses, the straw and the ice. Explain what will be done to each glass. Ask for the guess and the reason, and write both down.",
      "say": "Warm brown tea will float on cool clear water in all three glasses. We leave glass A alone. We blow across glass B, like wind on a lake. We put ice on glass C, like a cold night. In which glass will brown water reach the bottom? Why do you think so?",
-     "kid": "Three glasses have warm brown water on top. One is left alone. One gets wind. One gets ice. Where will brown water reach the bottom? Why?",
+     "kid": "Three glasses have warm brown water on top. One is left alone. One gets wind. One gets ice. Guess which one will get brown water at the bottom.",
      "ask": [
       {
        "q": "Why do you think that glass will mix?",
@@ -1231,7 +1231,7 @@
      "mins": 5,
      "do": "Lower two ice cubes gently onto the top of glass C. Do not stir. Watch from the side for 3 minutes, with the white paper behind the glass.",
      "say": "Now a cold night for glass C. Watch the water just under the ice. Tell me everything you see. Where is the brown water going?",
-     "kid": "Put two ice cubes gently on glass C. Watch from the side. What happens under the ice?",
+     "kid": "Put two ice cubes gently on glass C. Watch from the side for 3 minutes.",
      "ask": [
       {
        "q": "What did you see under the ice?",
@@ -1248,9 +1248,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ten minutes after the ice went in, compare the three glasses from the side. Your child draws each one and fills in the table.",
-     "say": "Look at all three. In which glass is there brown water at the bottom? Draw what you see. Do not draw what you expected.",
-     "kid": "After ten minutes, look at all three glasses. Draw where the brown water is in each.",
+     "do": "Ten minutes after the ice went in, compare the three glasses from the side. Your child points to the brown water in each glass. They say if it is at the top only, part of the way down, or at the bottom.",
+     "say": "Look at all three. In which glass is there brown water at the bottom? Tell me what you see, not what you expected.",
+     "kid": "After ten minutes, look at all three glasses. Point to where the brown water is in each.",
      "context": "In this step of Warm on Top you compare the three glasses after ten minutes. You draw where the brown water is."
     },
     {
@@ -1289,7 +1289,7 @@
    "title": "One River, Three Homes: map the Kaveri from the hills to the sea",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw the Kaveri river from its source to the sea. You mark its three stretches, and work out who lives in each one and why.",
+   "context": "In this activity you draw the Kaveri river from its source to the sea. You mark its three stretches, and work out who lives in each one and why. You will find out why one river has very different homes along its way.",
    "materials": [
     {
      "item": "a sheet of plain paper, the bigger the better",
@@ -1304,7 +1304,7 @@
      "qty": 1
     }
    ],
-   "record": "A side-on map of the Kaveri in three stretches, with at least two living beings drawn in each stretch and one reason written beside each.",
+   "record": "A side-on map of the Kaveri in three stretches, with at least two living beings named or drawn in each stretch and one reason written beside each.",
    "example_chart": {
     "type": "table",
     "title": "The Kaveri in three stretches",
@@ -1346,7 +1346,7 @@
     },
     {
      "art": "The finished map with small drawings of insects and leaves in the hills, a big fish and an otter in the middle, and birds and mangroves at the delta.",
-     "caption": "3. Draw who lives in each stretch, and write one reason."
+     "caption": "3. Write or draw who lives in each stretch, and write one reason."
     }
    ],
    "flow": [
@@ -1355,7 +1355,7 @@
      "mins": 3,
      "do": "Before drawing, ask your child how a river changes between the hills and the sea. Write down what they say.",
      "say": "Think of a river high in the hills and the same river near the sea. What is different about the water? Would the same animals live in both places? Why do you think so?",
-     "kid": "How does a river change from the hills to the sea? Who lives in each part?",
+     "kid": "Picture a river in the hills and the same river near the sea. How is the water different?",
      "ask": [
       {
        "q": "What changes along a river?",
@@ -1374,16 +1374,16 @@
      "mins": 6,
      "do": "Your child draws the Kaveri across the page. On the left are the hills of Kodagu, with the source at Talakaveri. In the middle the river passes Srirangapatna and the falls at Hogenakkal. On the right the river splits into branches in the delta and meets the Bay of Bengal. Add two tributaries, the Kabini and the Bhavani, and one dam at Mettur.",
      "say": "Start thin in the hills and get wider as you go. Tributaries join from the sides. At the delta the river splits into many branches. Now divide your river into three stretches: upper, middle and lower.",
-     "kid": "Draw the Kaveri from the hills to the sea. Add two tributaries and one dam. Divide the river into three stretches.",
+     "kid": "Draw the Kaveri from the hills to the sea. Or lay a string on the floor. Add two tributaries and one dam. Divide the river into three stretches.",
      "parent": "The map need not be accurate. What matters is the order: hills, rocky middle, flat delta, sea.",
      "context": "In this step of One River, Three Homes you draw the Kaveri from Talakaveri to the Bay of Bengal and divide it into three stretches."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "Read the table out, one row at a time. For each stretch, your child writes what the water is like and draws two who live there. Ask why each one fits that stretch.",
+     "do": "Read the table out, one row at a time. For each stretch, your child writes what the water is like and names two who live there. Ask why each one fits that stretch.",
      "say": "In the hills the stream is shaded, so few algae grow. What could the small animals there eat? In the middle the Sun reaches the stones. What grows on them? Near the sea the water is slow and muddy. Who can find food where it is hard to see?",
-     "kid": "Write what the water is like in each stretch. Draw two who live there. Say why each one fits.",
+     "kid": "Write what the water is like in each stretch. Name two who live there, or draw them. Say why each one fits.",
      "ask": [
       {
        "q": "Why does the mahseer live in the middle stretch and not in the delta?",
@@ -1433,7 +1433,7 @@
    "title": "The Squeeze Test: feel the water press on your hand",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you push your hand, inside a thin plastic bag, down into a bucket of water. You feel how the water presses, and where it presses hardest.",
+   "context": "In this activity you push your hand, inside a thin plastic bag, down into a bucket of water. You feel how the water presses, and where it presses hardest. You will find out what a deep-sea animal has to live with.",
    "materials": [
     {
      "item": "a bucket of water, at least 25 centimetres deep",
@@ -1448,7 +1448,7 @@
      "qty": 1
     }
    ],
-   "record": "A drawing of the hand in the bag under water, with arrows showing where the bag pressed. Longer arrows mean a harder press.",
+   "record": "A drawing of the hand in the bag under water, with arrows showing where the bag pressed. Longer arrows mean a harder press. Or tell your grown-up, who writes down where it pressed hardest.",
    "example_chart": {
     "type": "table",
     "title": "How hard sea water presses at different depths",
@@ -1501,7 +1501,7 @@
      "mins": 2,
      "do": "Your child puts one hand into the bag. Ask what they think the bag will do under water, and why.",
      "say": "Your hand is in a loose bag full of air. You will push it down into the water, with the top of the bag kept out. What will the bag do? Will it feel the same at your fingertips and at your wrist? Why do you think so?",
-     "kid": "Put your hand in the bag. What will the bag do under water? Why?",
+     "kid": "Put your hand in the bag. Think about how it will feel under water.",
      "ask": [
       {
        "q": "What do you expect to feel?",
@@ -1518,7 +1518,7 @@
      "mins": 4,
      "do": "Your child pushes the hand slowly down, fingers first, until the fingertips touch the bottom. The open end of the bag stays above the water. Ask them to notice the bag at the fingertips and at the wrist. Then they turn the hand palm up, palm down and sideways.",
      "say": "Go down slowly. What is the bag doing? Where is it tightest? Now turn your hand over. Does the water press only from above, or from every side?",
-     "kid": "Push your hand slowly to the bottom. Where is the bag tightest? Turn your hand. Does the press change?",
+     "kid": "Push your hand slowly to the bottom. Then turn your hand palm up, palm down and sideways.",
      "ask": [
       {
        "q": "Where did the water press hardest?",
@@ -1534,9 +1534,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Your child draws the hand with arrows for the press. Then read the table of depths together. After your child has said what they noticed, read them the note below.",
+     "do": "Your child points with a finger to every place where the bag pressed. Then read the table of depths together. After your child has said what they noticed, read them the note below.",
      "say": "You felt the press of about 25 centimetres of water. Look at the table. At 10 metres the press is double the press at the surface. What happens at 4,000 metres? Why are the animals there not crushed?",
-     "kid": "Draw your hand with arrows for the press. Read the table. Why are deep-sea animals not crushed?",
+     "kid": "Point to every place the bag pressed your hand. Then read the table together.",
      "ask": [
       {
        "q": "Why is a deep-sea fish not crushed?",
@@ -1600,7 +1600,7 @@
      "mins": 3,
      "do": "Lay the four papers in a row. Tell your child that only blue light reaches the twilight zone of the sea. Ask what each paper will look like in blue light.",
      "say": "Deep in the sea the only light left is blue. Here are four colours. What will each one look like when only blue light shines on it? Which will be easiest to see, and which hardest? Why do you think so?",
-     "kid": "Only blue light reaches the deep sea. What will red paper look like in blue light? Why?",
+     "kid": "Only blue light reaches the deep sea. Look at the four papers and think about each one.",
      "ask": [
       {
        "q": "What will the red paper look like?",
@@ -1638,7 +1638,7 @@
      "mins": 5,
      "do": "Switch the lights on. Your child fills in the table and says what they found. After they have answered, read them the note below.",
      "say": "Say what you guessed and what you saw. Many prawns and jellyfish of the deep sea are bright red. Is that a good colour for hiding there? Why?",
-     "kid": "Say what you guessed and what you saw. Why is red a good colour in the deep sea?",
+     "kid": "Fill in the table. Say what you guessed and what you saw.",
      "ask": [
       {
        "q": "Why is red a hiding colour in the deep sea?",
@@ -1758,7 +1758,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Read the table one row at a time. In the sunlit zone your child moves 80 grains into a bowl, as eaten, and slides 20 down. In the twilight zone 17 are eaten and 3 slide down. In the midnight zone 1 is eaten and 2 slide to the floor.",
-     "say": "In the sunlit zone, animals and bacteria eat 80 of the 100 grains. Only 20 sink out. Count them. In the twilight zone 17 of those are eaten. How many are left to sink on? What happens in the midnight zone?",
+     "say": "In the sunlit zone, animals and bacteria eat 80 of the 100 grains. Only 20 sink out. Count them. Sinking food is called marine snow. In the twilight zone 17 of those are eaten. How many are left to sink on? What happens in the midnight zone?",
      "kid": "Move the eaten grains into a bowl at each zone. Slide the rest down. How many reach the floor?",
      "parent": "The numbers are rounded from measurements with traps hung in the sea. They differ from sea to sea and from season to season. The real share reaching the deep floor is about 1 to 3 in 100.",
      "context": "In this step of the Falling Meal you move rice grains down through the zones of the sea. At each zone most of the grains are eaten."
@@ -1768,7 +1768,7 @@
      "mins": 4,
      "do": "Compare the bowl from the sunlit zone with the 2 grains on the floor. Ask what this means for the animals of the deep.",
      "say": "Look at the bowl from the top and the 2 grains at the bottom. If you lived on the sea floor, how would you live? Would there be many of you or few? Would you be fast or slow?",
-     "kid": "Compare the top bowl with the two grains at the bottom. How would you live on two grains?",
+     "kid": "Compare the top bowl with the two grains at the bottom. Is there more food or less food down here?",
      "ask": [
       {
        "q": "What does so little food mean for deep-sea animals?",
@@ -1797,7 +1797,7 @@
      "mins": 3,
      "do": "Ask what would happen at the bottom if the top made less food. Then ask about the time the fall takes.",
      "say": "Suppose the plankton at the top make only half as much food one year. What happens on the floor? A flake sinks about 100 metres in a day. How long does a flake take to fall 4,000 metres?",
-     "kid": "The top makes half as much food. What happens at the bottom? How long does a flake take to fall?",
+     "kid": "The top makes half as much food. What happens at the bottom?",
      "ask": [
       {
        "q": "How long does marine snow take to fall 4,000 metres?",
@@ -1816,7 +1816,7 @@
    "title": "Echo Ears: find a wall with your eyes shut",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you shut your eyes and make a steady 'shhh' sound. From the sound alone, you tell whether a steel plate is held in front of your face. Then you try it with noise in the room.",
+   "context": "In this activity you shut your eyes and make a steady 'shhh' sound. From the sound alone, you tell whether a steel plate is held in front of your face. Then you try it with noise in the room. You will find out how a river dolphin can find fish in muddy water.",
    "materials": [
     {
      "item": "a steel plate, a tray or a large hardbound book",
@@ -1879,7 +1879,7 @@
      "mins": 4,
      "do": "Switch on a noisy fan, a tap or some music, and play 10 more turns. Compare the two scores. After your child has said what they noticed, read them the note below.",
      "say": "Now the room is noisy. Ten more turns. Was it harder? A river dolphin depends on echoes to find food and to keep clear of nets. What might the noise of boat engines do to her?",
-     "kid": "Play ten more turns with noise in the room. Was it harder? What does boat noise do to a dolphin?",
+     "kid": "Play ten more turns with noise in the room. Count how many you get right.",
      "ask": [
       {
        "q": "Why was it harder in a noisy room?",
@@ -1966,7 +1966,7 @@
     },
     {
      "art": "A notebook page with six small drawings of a heron, a fish, a frog, a lotus, a dragonfly and green water, joined by arrows.",
-     "caption": "3. Day 3: draw six living beings and who eats what."
+     "caption": "3. Day 3: lay out six living beings and who eats what."
     },
     {
      "art": "A child holding up a small paper file and talking to two family members on a sofa.",
@@ -1979,7 +1979,7 @@
      "mins": 15,
      "do": "Help your child choose the nearest lake, tank, pond or river, and find it on a phone map. Follow the blue lines on the map to see what flows in and what flows out. Your child draws a simple map on page 1.",
      "say": "Which water is nearest to us? Let us find it on the map. Where does its water come from: rain, a stream, a canal or a drain? Where does the water go when the place is full?",
-     "kid": "Choose a lake, tank or river near you. Find it on a map. Draw where its water comes from and goes.",
+     "kid": "Choose a lake, tank or river near you. Find it on a map. Draw where its water comes from and goes, or trace it from the map.",
      "adult": true,
      "ask": [
       {
@@ -2019,9 +2019,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "On page 3 your child lists six living beings of the place, from yesterday's notes. They draw arrows from each food to the one who eats it. Then they circle any food that comes from outside the water.",
+     "do": "On page 3 your child writes six living beings of the place on small slips of paper, from yesterday's notes. They lay the slips on the floor so that each food sits next to the one who eats it. They stick them on the page, or take a photo. Then they circle any food that comes from outside the water.",
      "say": "Who lives here? Who eats whom? Now think of this unit. Does any of the food come from outside the water: leaves from trees on the bank, insects from the land, waste from a drain?",
-     "kid": "List six living beings of your place. Draw arrows from food to eater. Circle the food that comes from outside.",
+     "kid": "Write six living beings of your place on slips. Lay each food next to who eats it. Circle the food that comes from outside.",
      "ask": [
       {
        "q": "What food comes into the water from outside?",
@@ -2044,7 +2044,7 @@
      "kid": "Write what is changing your place. Add one question you still have. Present your file in three minutes.",
      "ask": [
       {
-       "q": "This place takes in water, mud and food from outside. So what must be looked after to look after the place?",
+       "q": "What must people look after to keep this place healthy?",
        "good": [
         "The streams and drains that flow in.",
         "The land around the edge.",
@@ -2063,7 +2063,7 @@
    "id": "c1",
    "title": "Bring Up the Deep: collect bottom water without mixing in the top",
    "mins": 30,
-   "context": "In this challenge a jar holds brown salty water at the bottom and clear water on top. You build a tool that brings up a sample of the brown bottom water, as scientists do from the deep sea.",
+   "context": "In this challenge a jar holds brown salty water at the bottom and clear water on top. You build a tool that brings up a sample of the brown bottom water, as scientists do from the deep sea. You will find out how to take water from the deep without mixing in the top.",
    "problem": "Scientists need water from 4,000 metres down, to measure its oxygen and its salt. On the way up, the sample must not mix with any of the water above. Your deep sea is a tall jar. The bottom 3 centimetres are brown salty water, and the rest is clear. Bring up a sample of the brown water that is still brown.",
    "constraints": [
     "Your fingers must not go below the surface of the water.",
@@ -2091,7 +2091,7 @@
     "Give the small bottle two threads, one to pull the plug out and one to push a second plug in, so that it comes up closed.",
     "Lower a bit of sponge on a thread inside a straw, let it soak at the bottom, and pull it up through the straw."
    ],
-   "your_turn": "Now design your own sampler. Draw it first, and mark what keeps the top water out on the way down and on the way up. Build it, test it and drop the sample on the white plate. Then change one thing to make the sample darker.",
+   "your_turn": "Now design your own sampler. Draw it first, or describe it to your grown-up, and mark what keeps the top water out on the way down and on the way up. Build it, test it and drop the sample on the white plate. Then change one thing to make the sample darker.",
    "setup": [
     {
      "art": "A tall clear jar with a dark brown layer of water at the bottom and clear water above, standing on a table beside a white plate.",
@@ -2168,7 +2168,7 @@
      "mins": 7,
      "do": "Your child changes one thing and tests again. Then compare the design with real deep-sea samplers, using the note below.",
      "say": "What went wrong, or what could be better? Change one thing and test again. Real samplers go down open and are shut at the right depth. How do you think someone on a ship shuts a bottle 4,000 metres below?",
-     "kid": "Change one thing to get a darker sample. Test again. How is a bottle shut 4,000 metres down?",
+     "kid": "Change one thing to get a darker sample. Test again.",
      "ask": [
       {
        "q": "How could a bottle be shut from far above?",
@@ -2216,7 +2216,7 @@
     "Put the notches on opposite sides of each wall in turn, so that the water winds and slows down.",
     "Lay pebbles in the pools, so that a fish has still water to rest behind."
    ],
-   "your_turn": "Now design your own fish pass. Draw it from the side first, and write the height of each step. Build it and pour the water. Measure every step and every pool. Then change one thing to make the flow gentler.",
+   "your_turn": "Now design your own fish pass. Draw it from the side first, or describe it to your grown-up, and write the height of each step. Build it and pour the water. Measure every step and every pool. Then change one thing to make the flow gentler.",
    "setup": [
     {
      "art": "A baking tray raised on books at one end, with a ruler standing beside the high end showing 6 centimetres.",
@@ -2237,7 +2237,7 @@
      "mins": 5,
      "do": "Raise one end of the tray on books until it is 6 centimetres higher than the other end. Read the problem together. Ask for ideas before any building.",
      "say": "The top of the tray is the river above the wall. The bottom is the river below. A fish must get up, and she cannot jump high. What could you build? How many steps will you need if each is 1 centimetre?",
-     "kid": "A fish must climb 6 centimetres. She cannot jump more than 1 centimetre. What will you build? How many steps?",
+     "kid": "A fish must climb 6 centimetres. She cannot jump more than 1 centimetre. What will you build?",
      "ask": [
       {
        "q": "How many steps of 1 centimetre are needed to climb 6 centimetres?",
@@ -2292,7 +2292,7 @@
      "mins": 7,
      "do": "Your child changes one thing to fix the worst step or pool, and tests again. Then compare the design with real fish passes, using the note below.",
      "say": "Which step or pool was the worst? Change one thing and test again. Your pass suits a fish who can climb 1 centimetre. Would the same pass suit every kind of fish in the river?",
-     "kid": "Fix the worst step or pool. Test again. Would your pass suit every kind of fish?",
+     "kid": "Fix the worst step or pool. Test again.",
      "ask": [
       {
        "q": "Why might one fish pass not suit every fish?",

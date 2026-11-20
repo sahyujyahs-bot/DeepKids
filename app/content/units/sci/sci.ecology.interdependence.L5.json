@@ -715,7 +715,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Play Game 1 for 8 rounds. 2. Write each round on the score sheet. 3. Count each player's chana and add the two totals.",
+     "do": "1. Play the first game for 8 rounds. 2. Write each round on the score sheet. 3. Count each player's chana and add the two totals.",
      "say": "Hide your coin. Ready? Lift. Let us see what each of us gets this round.",
      "kid": "Play 8 rounds. Hide your coin, then lift your hands together. Write down each round. Count your chana at the end.",
      "ask": [
@@ -775,7 +775,7 @@
    "title": "The Crowded Cup Test: does a seedling grow better with 3 neighbours or with 63?",
    "mins": 65,
    "days": 14,
-   "context": "In this experiment you sow 4, 16 and 64 methi seeds in three cups of the same soil. Each cup gets the same water and the same light. After 14 days you compare the seedlings from each cup.",
+   "context": "In this experiment you sow 4, 16 and 64 methi seeds in three cups of the same soil. Each cup gets the same water and the same light. After 14 days you compare the seedlings from each cup. You will find out whether a seedling grows better with a few neighbours or with many.",
    "question": "Three cups have the same soil, water and light. One holds 4 methi seedlings, one holds 16 and one holds 64. In which cup does each seedling grow best?",
    "predict": "Guess first. Will a seedling grow best with 3 neighbours, with 15 or with 63? Or will it make no difference? Why do you think so? Write your guess and your reason.",
    "fair_test": "All three cups are the same size and hold soil from one mixed heap. They get the same number of spoons of water on the same days and stand side by side at one window. The seeds come from one packet. Only the number of seeds is different. You measure 4 seedlings from each cup, because one seedling can be unusual.",
@@ -843,7 +843,7 @@
      "what": "Measure 4 seedlings from each cup, compare them side by side and explain the result."
     }
    ],
-   "record": "Fill in the table. Draw one seedling from each cup at the same scale. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table. Draw one seedling from each cup at the same scale, or take a photo of the three groups side by side. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: length of the biggest leaf on day 14",
@@ -901,7 +901,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Count out 4 seeds, 16 seeds and 64 seeds into three heaps. 2. Explain that each heap will share one cup. 3. Ask for a guess and a reason, and write both down.",
-     "say": "Each cup has the same soil, water and light. In which cup will each seedling grow best? Why do you think so?",
+     "say": "Each cup has the same soil, water and light. In which cup will each seedling grow best?",
      "kid": "Count 4 seeds, 16 seeds and 64 seeds. Each heap will share one cup. In which cup will a seedling grow best? Write your guess and your reason.",
      "ask": [
       {
@@ -940,7 +940,7 @@
      "mins": 5,
      "wait": "Come back on day 8",
      "do": "1. Before watering, push a finger into the soil of each cup. 2. Write wet, damp or dry for each cup. 3. Look at the cups from the side and compare the stems. 4. Water each cup with 2 tablespoons.",
-     "say": "Feel the soil in each cup before we water. Which cup is driest? Where did that water go?",
+     "say": "Feel the soil in each cup before we water. Is it wet, damp or dry?",
      "kid": "Push a finger into the soil of each cup. Which is the driest? Look from the side. Which stems are thinnest? Write what you see.",
      "ask": [
       {
@@ -1066,7 +1066,7 @@
      "what": "Look at the dry lichen, guess, soak the lichen and the bay leaves for 10 minutes, weigh them again and explain the result."
     }
    ],
-   "record": "Fill in the table. Draw the lichen from the top and from underneath. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table. Draw the lichen from the top and from underneath, or take two photos. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: weight before and after 10 minutes in water",
@@ -1137,8 +1137,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Show the bay leaves next to the kalpasi. 2. Explain that both will sit in water for 10 minutes. 3. Ask for a guess and a reason, and write both down.",
-     "say": "Both of these are dry. Both will sit in water for 10 minutes. Which will take up more water? Why do you think so?",
-     "kid": "The lichen and the leaves will sit in water for 10 minutes. Which will take up more water? Why? Write your guess.",
+     "say": "Both of these are dry. Both will sit in water for 10 minutes. Which will take up more water?",
+     "kid": "The lichen and the leaves will sit in water for 10 minutes. Which will take up more water? Write your guess and your reason.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1163,9 +1163,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Wait 10 minutes. 2. While you wait, your child draws the top and the underside of a dry piece of kalpasi. 3. Now and then, look at the lichen in the water and note any change.",
-     "say": "While we wait, draw both sides of a dry piece. Then watch the piece in the water. Is anything changing?",
-     "kid": "Wait 10 minutes. Draw the top and the underside of a dry piece. Watch the lichen in the water. Is anything changing?",
+     "do": "1. Wait 10 minutes. 2. While you wait, your child feels the top and the underside of a dry piece of kalpasi and says how they differ. 3. Now and then, look at the lichen in the water and note any change.",
+     "say": "While we wait, feel both sides of a dry piece. Is the top the same as the underside? Then watch the piece in the water.",
+     "kid": "Wait 10 minutes. Feel both sides of a dry piece and tell your grown-up how they differ. Watch the lichen in the water. Is anything changing?",
      "parent": "The lichen usually goes soft and limp within a minute or two. The colour may change a little. Write down what you really see.",
      "context": "This is the waiting step of Lichen from the Spice Box. Here you draw the lichen while both samples soak for 10 minutes."
     },
@@ -1261,8 +1261,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Look down the columns together. 2. Ask what the five pairs have in common. 3. Ask whether two bees, or two flowers, could trade in this way.",
-     "say": "Look at all five rows. What is the same about every pair? Could two bees be partners like this? Why, or why not?",
-     "kid": "Look at all five rows. What is the same about every pair? Could two bees trade like this? Say why.",
+     "say": "Look at all five rows. Could two bees be partners like this? Why, or why not?",
+     "kid": "Look at all five rows. Could two bees trade like this? Say why.",
      "ask": [
       {
        "q": "What is the same about every pair?",
@@ -1295,7 +1295,7 @@
    "title": "Inside a Lichen: draw the four layers",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw a model of a leafy lichen cut through from top to bottom. A model is a drawing that explains what you cannot see. You show where the fungus is, where the alga is, and what passes between them.",
+   "context": "In this activity you draw a model of a leafy lichen cut through from top to bottom. A model is a drawing that explains what you cannot see. You will find out where the two partners live inside one body. You show where the fungus is, where the alga is, and what passes between them.",
    "materials": [
     {
      "item": "a sheet of plain paper, a pencil and a green colour pencil or crayon",
@@ -1325,18 +1325,18 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. If you have kalpasi, tear a piece and look at the torn edge. 2. Ask your child to draw what they think is inside a lichen. 3. Do not correct this first drawing.",
-     "say": "A lichen is a fungus and an alga living as one body. Where do you think each one is? Draw your idea first.",
-     "kid": "A lichen is a fungus and an alga in one body. Where is each one? Draw what you think is inside.",
+     "do": "1. If you have kalpasi, tear a piece and look at the torn edge. 2. Ask your child to say where they think the fungus and the alga are inside a lichen. 3. Do not correct this first idea.",
+     "say": "A lichen is a fungus and an alga living as one body. Where do you think each one is? Tell me your idea first.",
+     "kid": "A lichen is a fungus and an alga in one body. Where is each one? Tell your grown-up what you think is inside.",
      "parent": "Many children draw the fungus on one side and the alga on the other. Keep this first drawing to compare later.",
      "context": "This is the first step of Inside a Lichen. Here you draw your own idea of where the two partners are."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Draw a tall box with four bands. 2. Top band: tightly packed fungus threads. 3. Second band: small green circles, each wrapped in threads. 4. Third band: loose threads with gaps of air. 5. Bottom band: packed threads again, with short threads hanging down to grip the bark.",
-     "say": "Scientists who cut a leafy lichen see four layers. The algae live in one thin band near the top. Why near the top, do you think?",
-     "kid": "Draw a tall box with four bands. Draw packed threads on top. Draw green cells wrapped in threads next. Draw loose threads, then packed threads with grips.",
+     "do": "1. Draw a tall box with four bands, or lay four strips of torn paper one above the other. 2. Top band: tightly packed fungus threads. 3. Second band: small green circles, each wrapped in threads. 4. Third band: loose threads with gaps of air. 5. Bottom band: packed threads again, with short threads hanging down to grip the bark.",
+     "say": "Scientists who cut a leafy lichen see four layers. The algae live in one thin band near the top.",
+     "kid": "Draw a tall box with four bands, or lay four paper strips. Show packed threads on top. Draw green cells wrapped in threads next. Draw loose threads, then packed threads with grips.",
      "ask": [
       {
        "q": "Why do the algae live near the top and not at the bottom?",
@@ -1406,9 +1406,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw the three lichen shapes in the notebook. 2. Crusty lichens lie flat, like paint. 3. Leafy lichens have edges you can lift. 4. Bushy lichens stand up or hang down like tiny shrubs. 5. Choose two places: one beside a busy road, one in a park or a quiet lane.",
+     "do": "1. Name the three lichen shapes aloud. 2. Crusty lichens lie flat, like paint. 3. Leafy lichens have edges you can lift. 4. Bushy lichens stand up or hang down like tiny shrubs. 5. Choose two places: one beside a busy road, one in a park or a quiet lane.",
      "say": "Lichens come in three main shapes. Bushy ones are harmed most easily by dirty air. Crusty ones cope best. What might we find by the main road?",
-     "kid": "Draw the three shapes: crusty, leafy and bushy. Choose a busy road and a quiet place. What do you think you will find in each?",
+     "kid": "Say the three shapes: crusty, leafy and bushy. Which one lies flat like paint? Choose a busy road and a quiet place. What do you think you will find in each?",
      "context": "This is the first step of the Lichen Walk. Here you learn three lichen shapes and choose two places to compare."
     },
     {
@@ -1459,7 +1459,7 @@
     }
    ],
    "safety": "Watch from an arm's length away and do not touch the bees. They sting only when pressed or frightened.",
-   "record": "A tally of visitors in three columns: went in at the front, took nectar from the side, only sat on the flower. Add a drawing of the flower with the pollen marked.",
+   "record": "A tally of visitors in three columns: went in at the front, took nectar from the side, only sat on the flower. Add a photo or a drawing of the flower with the pollen marked.",
    "setup": [
     {
      "art": "A child sitting an arm's length from a hibiscus bush on a balcony with a notebook on her knee.",
@@ -1478,9 +1478,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Look into one flower together. 2. Find the pollen, which is usually a yellow powder on small stalks. 3. Draw the flower and mark where the pollen is. 4. Ask where a visitor would have to go to reach the nectar.",
+     "do": "1. Look into one flower together. 2. Find the pollen, which is usually a yellow powder on small stalks. 3. Point to where the pollen is. 4. Ask where a visitor would have to go to reach the nectar.",
      "say": "Where is the pollen on this flower? Nectar is usually at the bottom. Which way must a visitor go to reach it?",
-     "kid": "Look into one flower. Find the yellow pollen. Draw the flower and mark the pollen. Which way must a visitor go to reach the nectar?",
+     "kid": "Look into one flower. Find the yellow pollen and point to it. Which way must a visitor go to reach the nectar?",
      "context": "This is the first step of Honest Visitor or Robber? Here you find the pollen in a flower and draw it."
     },
     {
@@ -1497,7 +1497,7 @@
      "mins": 6,
      "do": "1. Add up each column. 2. Look for holes near the base of five flowers. 3. Ask who gained from each kind of visit.",
      "say": "How many visitors touched the pollen? How many did not? Who gained from each kind of visit?",
-     "kid": "Add up each column. Look for small holes near the base of the flowers. Who gained from each kind of visit?",
+     "kid": "Add up each column. Look for small holes near the base of the flowers.",
      "ask": [
       {
        "q": "A visitor who feeds from the side gets nectar. What does the plant get?",
@@ -1684,7 +1684,7 @@
      "mins": 10,
      "wait": "Come back on day 14",
      "do": "1. Measure the height and longest leaf of 4 methi seedlings from the middle of cup 1. 2. Do the same for 4 methi seedlings in cup 3. 3. Do the same for mustard in cups 2 and 3. 4. Do not pull any out yet.",
-     "say": "We compare methi with methi, and mustard with mustard. Why would it be unfair to compare a methi seedling with a mustard seedling?",
+     "say": "We compare methi with methi, and mustard with mustard.",
      "kid": "Measure 4 methi seedlings in cup 1 and 4 in cup 3. Measure mustard in cups 2 and 3. Write the numbers. Do not pull them out.",
      "ask": [
       {
@@ -1752,7 +1752,7 @@
     "Wrap the base in overlapping cloth or leaf pieces, like the leafy cups under some flowers.",
     "Hang the flower mouth-down on a string, so that a robber has nowhere to stand and bite."
    ],
-   "your_turn": "Now design your own flower. Draw it, build it and test it 3 times with a robber and 3 times with an honest finger. What did your design cost in extra paper? A real flower pays for thick walls with food she could have used to make seeds.",
+   "your_turn": "Now design your own flower. Draw it or describe it, build it and test it 3 times with a robber and 3 times with an honest finger. What did your design cost in extra paper? A real flower pays for thick walls with food she could have used to make seeds.",
    "setup": [
     {
      "art": "A simple paper tube taped shut at the bottom, standing on a table, with a chana inside at the base and a ring of white atta just inside the open mouth.",
@@ -1780,9 +1780,9 @@
     {
      "id": "s2",
      "mins": 17,
-     "do": "1. Ask for three ideas to stop the robber, and draw them. 2. Read the usual and the creative solutions together. 3. Your child chooses one design and builds it. 4. Check that a finger can still reach the chana through the mouth.",
-     "say": "How could a flower keep robbers out and still let honest visitors in? Draw three ideas. Which one will you build, and why?",
-     "kid": "Draw three ideas to stop the robber. Choose one and build it. Check that your finger can still reach the chana through the mouth.",
+     "do": "1. Ask for three ideas to stop the robber, drawn or told. 2. Read the usual and the creative solutions together. 3. Your child chooses one design and builds it. 4. Check that a finger can still reach the chana through the mouth.",
+     "say": "How could a flower keep robbers out and still let honest visitors in? Draw or tell three ideas. Which one will you build, and why?",
+     "kid": "Draw or tell three ideas to stop the robber. Choose one and build it. Check that your finger can still reach the chana through the mouth.",
      "context": "This is the design step of A Flower That Cannot Be Robbed. Here you draw ideas, choose one and build it."
     },
     {

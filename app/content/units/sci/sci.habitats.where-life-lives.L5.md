@@ -313,7 +313,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s3 (4 min)**  
   *Parent does:* 1. Lay all the cards face up. 2. Sort them into two rows: those who cross and those who stay. 3. Ask what the island will be like after a thousand years.  
   *Parent says:* Look at the row who cross. What kinds of living beings will this island have? Who will be missing?  
-  *Child mode:* Sort the cards into 'cross' and 'stay'. Who will live on the island? Who will be missing?
+  *Child mode:* Sort the cards into 'cross' and 'stay'.
   - Check: Which group is most likely to be missing from a far island? → **Frogs**
 ### g2 · Native, Introduced or Invasive? A sorting card game about India (15 min)
 - **rules:** Shuffle the cards and put them in a pile, with the names facing up. Each player writes the three answers on three slips of paper: NATIVE, INTRODUCED and INVASIVE.; One player reads the top card aloud.; Everyone chooses one slip in secret and puts it face down. Then all turn their slips over together.; Turn the card over and read the back. Each player with the right slip scores 1 point.; A player who can say where the species came from scores 1 more point.; Play all 18 cards. The player with the most points wins. If you play alone, sort the whole pile into three heaps first, then check each card.
@@ -332,7 +332,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s3 (3 min)**  
   *Parent does:* 1. Lay the introduced cards and the invasive cards in two rows. 2. Count how many came from the Americas. 3. Ask why so many did.  
   *Parent says:* Count the cards from the Americas. Why did so many newcomers to India come from there, and only in the last 500 years?  
-  *Child mode:* Count the cards from the Americas. Why so many? Why only in the last 500 years?
+  *Child mode:* Count the cards from the Americas.
   - Check: Why did plants from the Americas reach India only in the last 500 years? → **Ships began to cross the oceans**
 
 ## Experiments
@@ -371,7 +371,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s6 (6 min)**  
   *Parent does:* 1. Compare the last row: which pair ended further apart? 2. Count the rows in which the A and B gap is the bigger one. 3. Ask your child what they thought, what they saw and why it happened. 4. Then read the note below together.  
   *Parent says:* Which pair ended further apart? In how many rows was the A and B gap bigger? Say what you thought, what you saw, and why you think it happened.  
-  *Child mode:* Which pair ended further apart? Say what you thought, what you saw and why it happened.
+  *Child mode:* Look at the last row. Tell your grown-up what you saw and why you think it happened.
   - Ask: You tried to copy every line exactly. So where did the difference between A and B come from? (good: Each copy had a small mistake.; The next copy was made from the mistaken line, so mistakes were passed on.; A and B made different mistakes and nothing brought them back together.)
   - Ask: Why did C and D stay close to each other? (good: Each new line was made from both families.; A mistake in one family was shared with the other at the next step.)
   - Note: In most runs A and B end 10 to 40 millimetres apart, and C and D end less than 10 millimetres apart. All four families may also shrink or grow together, because most people copy a little short or a little long. That is fine: the test is about the gap inside each pair. About one run in five, A and B end close by chance, the way two people taking random steps can end up side by side. Then look at how many rows had the bigger gap between A and B, or run a third separated family on a new sheet. The reason: every copy has a small mistake, and the next copy is made from the mistaken line. In a separated family the mistakes pile up, and no other family corrects them. This is a model of living beings. Parents copy their DNA for their young, and each copy has a few small mistakes. In one large group, young have parents from all over the group, so changes are shared. A barrier such as a sea stops the sharing. The model leaves two things out. In real life many copies are made at once and chance decides which are kept. Natural selection also pushes each group to suit its own place.
@@ -405,7 +405,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s5 (6 min)**  
   *Parent does:* 1. Look at the totals together. 2. Ask your child what they thought, what they saw and why it happened. 3. Read the note below together. 4. Wash the rice and cook it.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Was twice as far half as many?  
-  *Child mode:* Say what you thought, what you saw and why it happened. Was twice as far half as many?
+  *Child mode:* Look at your totals. Say what you saw and why you think it happened.
   - Ask: Why did the far bowl catch far fewer than half as many grains? (good: Fewer grains travel that far.; The grains that do go far are spread round a much bigger circle.; The bowl covers a smaller share of that circle.)
   - Ask: What does this say about an island far out at sea? (good: Very few living beings reach it.; It will have fewer kinds than a near island.)
   - Note: In most homes the near bowl catches several times as many grains as the middle bowl, and the furthest catches almost none. Two things work together. Few grains bounce far. And those that do are spread round a wider ring of floor, so one bowl covers a smaller share of the ring. The wide plate catches several times as many as the small bowl beside it, because it covers more floor. Real islands follow the same two rules. In 1967 Robert MacArthur and Edward Wilson wrote that near islands and large islands get more arrivals. The model leaves out what happens after landing. On a real island a traveller must also find food and a mate.
@@ -415,9 +415,9 @@ She set the plant back on the water, and Unni pushed off for school.
 ### a1 · Who Lives Where? Eight animals on a world map (12 min)
 - **record:** Keep the map. Under it write one thing you noticed and one question you want answered.
 - **s1 (4 min)**  
-  *Parent does:* 1. Look at a world map together. 2. Your child draws seven rough blobs for the continents and names them. 3. Mark the North Pole and the South Pole. 4. Mark Madagascar and India.  
+  *Parent does:* 1. Look at a world map together. 2. Your child tears seven rough paper shapes for the continents and writes a name on each. 3. Put a slip for the North Pole and one for the South Pole. 4. Put slips for Madagascar and India.  
   *Parent says:* The shapes can be rough. We only need to know which land is which, and where the two poles are.  
-  *Child mode:* Draw seven blobs for the continents. Name them. Mark the two poles, Madagascar and India.
+  *Child mode:* Tear seven paper shapes for the continents. Name them. Add slips for the two poles, Madagascar and India.
   - Note: The seven continents are Asia, Africa, Europe, North America, South America, Australia and Antarctica. Madagascar is the large island beside southern Africa.
 - **s2 (4 min)**  
   *Parent does:* 1. Write these names on eight slips: penguin, polar bear, kangaroo, tiger, lemur, hummingbird, giraffe, camel. 2. Your child puts each slip where they think that animal lives wild. 3. Check with the list in the note below.  
@@ -427,7 +427,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s3 (4 min)**  
   *Parent does:* 1. Ask what your child notices about the map. 2. Ask what they wonder. 3. Ask about the two cold ends of the Earth. 4. Write down one question to answer later.  
   *Parent says:* What do you notice? What do you wonder? Both poles are icy. Why do penguins live at only one, and polar bears at only the other?  
-  *Child mode:* What do you notice? Both poles are icy. Why are penguins at only one? Write one question.
+  *Child mode:* Look at the map. Say one thing you notice. Write one question.
   - Ask: India has forests full of flowers. Why might there be no hummingbirds in India? (good: Maybe they could never get here.; The sea is in the way.; Other birds, like sunbirds, do that job here.)
   - Note: Do not explain yet. Good answers begin with 'maybe they could not get there'. The rest of the unit answers the question.
   - Think: Is there any place that would suit you, where no people have ever lived?
@@ -441,23 +441,23 @@ She set the plant back on the water, and Unni pushed off for school.
   - Note: Rough edges are fine. On a flat map Antarctica is stretched along the bottom, so draw it as a rough oval about the size of Australia. If you have a globe, copy the shapes from it by eye.
 - **s2 (5 min)**  
   *Parent does:* 1. With green, shade part of all six pieces: the Glossopteris plant grew on every one. 2. With orange, mark southern Africa, India and Antarctica: Lystrosaurus fossils lie there. 3. Ask how one land animal could be on three lands.  
-  *Parent says:* Lystrosaurus was a land animal about as long as a goat. Her fossils lie in Africa, India and Antarctica. How could that be?  
+  *Parent says:* Lystrosaurus was a land animal about as long as a goat. Its fossils lie in Africa, India and Antarctica. How could that be?  
   *Child mode:* Shade all six pieces green for one fossil plant. Mark Africa, India and Antarctica orange for one fossil animal.
   - Ask: How could the same land animal have lived on three lands with oceans between them? (good: Maybe she swam, but the oceans are thousands of kilometres wide.; Maybe there were bridges of land.; Maybe the lands were once joined.)
   - Note: Take every idea seriously. A sunken land bridge was the answer most geologists gave until the 1960s. Lystrosaurus was a plant-eater about 1 metre long, who lived about 250 million years ago.
 - **s3 (5 min)**  
   *Parent does:* 1. Fit South America against the west side of Africa. 2. Put Madagascar and India against the east side of Africa. 3. Put Antarctica below them and Australia beside Antarctica. 4. Look at the coloured patches.  
   *Parent says:* Push the pieces together like a jigsaw. Now look at the orange marks. What has happened to them?  
-  *Child mode:* Fit the six pieces into one big land. Look at the orange marks. What do you see?
+  *Child mode:* Fit the six pieces into one big land. Look at the orange marks.
   - Note: The fit is rough, because paper continents are flat and the real edges lie under shallow sea. India's west coast goes against Madagascar's east coast. Antarctica sits against India's east coast and the south of Africa.
   - Check: When the pieces are joined, the fossil places meet. What does this suggest? → **The lands were once joined**
 - **s4 (5 min)**  
-  *Parent does:* 1. Slide India slowly north, leaving Madagascar behind. 2. Stop when India would meet Asia. 3. Glue the pieces down. 4. Draw an arrow for India's journey.  
-  *Parent says:* India left Madagascar roughly 90 million years ago and met Asia about 50 million years ago. Suppose frogs lived on both pieces. What happened to them?  
-  *Child mode:* Slide India north, away from Madagascar. Glue the pieces down. Draw an arrow for India's journey.
+  *Parent does:* 1. Slide India slowly north, leaving Madagascar behind. 2. Stop when India would meet Asia. 3. Glue the pieces down. 4. Lay a pencil along India's journey, or draw an arrow.  
+  *Parent says:* India left Madagascar roughly 90 million years ago and met Asia about 50 million years ago.  
+  *Child mode:* Slide India north, away from Madagascar. Glue the pieces down. Show India's journey with a pencil or an arrow.
   - Ask: Frogs lived on the land before it split. What happened to the two groups afterwards? (good: They could not meet any more.; They changed separately and became different kinds.)
 ### a3 · Land Bridge in a Tray: which island could animals walk to? (15 min)
-- **record:** Draw the tray from the side twice: with high water and with low water. Label the mainland, the two islands, the shallow channel and the deep channel.
+- **record:** Take two photos of the tray, one with high water and one with low water. Point to the mainland, the two islands, the shallow channel and the deep channel, and say which island joined. Or draw the tray from the side twice and label it.
 - **s1 (6 min)**  
   *Parent does:* 1. Press a slab of dough 4 centimetres high along one side of the tray. 2. Make two island lumps 4 centimetres high. 3. Between the mainland and island 1, lay dough 3 centimetres deep. 4. Leave the tray floor bare between island 1 and island 2.  
   *Parent says:* This is a mainland and two islands. The sea floor between the first two is high. Beyond the second it drops away.  
@@ -485,7 +485,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s2 (6 min)**  
   *Parent does:* 1. Measure the bare gap between the skin and the line. 2. Multiply by 26 to get the growth in a year. 3. Change it to centimetres. 4. Compare it with 5 centimetres, the Indian plate's yearly movement.  
   *Parent says:* There are 26 two-week stretches in a year, so multiply by 26. Is your nail faster or slower than India?  
-  *Child mode:* Measure the bare gap in millimetres. Multiply by 26. Is your nail faster or slower than India?
+  *Child mode:* Measure the bare gap in millimetres. Multiply it by 26.
   - Ask: India moves about as fast as a nail grows. How could something so slow cross an ocean? (good: It had a very long time.; A few centimetres a year for millions of years adds up to thousands of kilometres.)
   - Note: Most thumbnails grow about 1 and a half millimetres in two weeks. That is about 4 centimetres a year, a little slower than the Indian plate. The gap is small, so measure in good light. A result of 1 or 2 millimetres is equally fine.
   - Wait: Do this 14 days after painting the line
@@ -505,18 +505,18 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s3 (5 min)**  
   *Parent does:* 1. Compare the two numbers. 2. Ask what your child thought, what they saw and why it might be so. 3. Ask what else could explain the result.  
   *Parent says:* Say what you thought, what you saw, and why it might be so. What else could explain it, apart from where the plant came from?  
-  *Child mode:* Compare your two numbers. Say what you thought and what you saw. What else could explain it?
+  *Child mode:* Compare your two numbers. Say what you thought and what you saw.
   - Ask: What else, apart from the plant's homeland, could make one plant less bitten? (good: Tougher or hairier leaves.; Poison in the leaves.; Younger leaves.; One plant may have been sprayed.)
   - Note: Often the introduced plant has fewer bitten leaves, because the insects who feed on that plant live on another continent. But your result may go the other way, and one pair of plants proves little. Scientists who compared many pairs found the pattern in some studies and not in others. Tell your child that this is still argued about.
 
 ## Projects
 ### p1 · A Newcomer's File: one introduced plant or animal near your home (60 min, 3 days)
-- **record:** A three-page file. Page 1: a drawing of the newcomer and a map of the journey. Page 2: a table with two columns, 'who lost' and 'who gained'. Page 3: what is being done, and your own plan with one reason.
+- **record:** A three-page file. Page 1: a photo or drawing of the newcomer, and the journey on a map. Page 2: a table with two columns, 'who lost' and 'who gained'. Page 3: what is being done, and your own plan with one reason.
 - **schedule:** day 1: Choose your newcomer. Find their homeland and mark the journey to India on a map. Find out who brought them, when and why. (20 min); day 2: Find out what they changed in India: who lost, who gained, and who uses them now. (20 min); day 3: Write what is being done, and what you would do. Present the file. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Choose one: lantana, water hyacinth, parthenium, the giant African snail, seemai karuvelam, gulmohar, eucalyptus, or the chilli plant. 2. Find the homeland. 3. Draw the journey to India on a map. 4. Find out who brought them, when and why.  
+  *Parent does:* 1. Choose one: lantana, water hyacinth, parthenium, the giant African snail, seemai karuvelam, gulmohar, eucalyptus, or the chilli plant. 2. Find the homeland. 3. Show the journey to India on a map: draw it, or lay a thread along it and take a photo. 4. Find out who brought them, when and why.  
   *Parent says:* Choose a newcomer you can see near home, if you can. Where is their homeland? How did they cross the sea, and who wanted them here?  
-  *Child mode:* Choose one newcomer. Find their homeland. Draw the journey on a map. Find who brought them and why.
+  *Child mode:* Choose one newcomer. Find their homeland. Show the journey on a map. Find who brought them and why.
   - Note: Some answers are not known for certain, and it is good to write 'nobody is sure'. A harmless newcomer such as chilli or gulmohar is as good a choice as an invasive one.
 - **s2 (20 min)**  
   *Parent does:* 1. Find out what changed after the newcomer arrived. 2. List who lost: plants, animals or people. 3. List who gained. 4. Find one use people have made of the newcomer.  
@@ -525,7 +525,7 @@ She set the plant back on the water, and Unni pushed off for school.
   - Ask: Can the same newcomer be bad for one living being and good for another? (good: Yes. Lantana shades out grass that deer eat, but some birds eat the berries.; It depends on who you ask.)
   - Wait: Do this on day 2
 - **s3 (20 min)**  
-  *Parent does:* 1. Find out what is being done: pulling out, a natural enemy, a law, or nothing. 2. Your child writes their own plan and one reason. 3. Your child presents the file to the family.  
+  *Parent does:* 1. Find out what is being done: pulling out, a natural enemy, a law, or nothing. 2. Your child tells or writes their own plan and one reason. 3. Your child presents the file to the family.  
   *Parent says:* What are people doing about this newcomer? What would you do, and why? What might go wrong with your plan?  
   *Child mode:* Find what people are doing. Write your own plan and a reason. Show your file to the family.
   - Note: A good plan says what it costs, who it helps and what might go wrong. 'Leave them alone' is a fair plan if your child gives a reason.
@@ -554,7 +554,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s3 (8 min)**  
   *Parent does:* 1. Read the task under 'Your turn' together. 2. Your child plans how to spend 30 squares of work, starting from 4 beans. 3. Play the plan with the beans. 4. Compare an early plan with a late plan.  
   *Parent says:* You have 30 squares of work, and the weed covers 4 squares. When will you spend the work? Why? Play it and see.  
-  *Child mode:* You have 30 squares of work. The weed covers 4. Plan when to clear. Play your plan.
+  *Child mode:* Plan when to clear. Play your plan with the beans.
   - Note: Spending 8 at once wins: 4 doubles to 8, and 8 are cleared. Waiting two rounds means 16 double to 32, which is more than 30. The same work that wins early loses late. Real water hyacinth mats can double in one to two weeks.
 ### c2 · The Stowaway Check: find every seed before the ship unloads (25 min)
 - **problem:** A ship is arriving at an island that has no weeds from outside. Seeds may be hidden in the cargo. A grown-up hides 15 mustard seeds: 3 in each of five kinds of cargo. Design a check for each kind of cargo. Find as many seeds as you can in 5 minutes, without spoiling the cargo.
@@ -570,7 +570,7 @@ She set the plant back on the water, and Unni pushed off for school.
 - **s2 (7 min)**  
   *Parent does:* 1. Show the five kinds of cargo and the tools. 2. Your child plans a check for each cargo and says why it should work. 3. Your child lays out the chosen tools.  
   *Parent says:* Seeds could be in any of these. How will you check each one quickly? Why should your way work? Choose your tools now.  
-  *Child mode:* Look at the five kinds of cargo. Plan a check for each. Say why it should work. Choose your tools.
+  *Child mode:* Look at the five kinds of cargo and the tools. Pick the tool you will use for each.
   - Ask: Which cargo do you expect to be hardest, and why? (good: The soil, because the seeds look like grains of soil.; The dal, because there is so much of it.)
 - **s3 (12 min)**  
   *Parent does:* 1. Start a 5 minute timer. 2. Your child runs the checks. 3. Count the seeds found and work out the score. 4. Search slowly for the seeds that were missed. 5. Talk about the rule your child would make for a real harbour.  

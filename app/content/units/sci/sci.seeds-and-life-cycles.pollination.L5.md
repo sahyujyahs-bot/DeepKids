@@ -290,9 +290,9 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **Printable board: A carpel board for each player: draw it on a sheet of paper, from top to bottom:** STIGMA: a circle at the top, as big as a coin; STYLE, step 1: a box under the stigma; STYLE, step 2: a box under step 1; STYLE, step 3: a box under step 2; OVARY: a large oval at the bottom, with 6 small circles inside for the 6 ovules
 - **Printable score sheet: What the die means: copy these three lines onto the board:** 1 or 2: A VISITOR COMES. Put 2 pollen grains on your stigma.; 3, 4 or 5: THE TUBES GROW. Move every one of your pollen grains one step down.; 6: YOUR CHOICE. Take a visitor, or let the tubes grow.
 - **s1 (4 min)**  
-  *Parent does:* 1. Each player draws a carpel board. 2. Copy the three lines that say what the die means. 3. Put a bowl of moong seeds beside each board.  
+  *Parent does:* 1. Each player gets a carpel board. A grown-up draws it: a stigma at the top, three style steps, and an ovary with 6 small circles for ovules. 2. Copy the three lines that say what the die means. 3. Put a bowl of moong seeds beside each board.  
   *Parent says:* This board is one carpel. Point to the stigma, the style and the ovary. Where does the pollen land first? Where are the ovules?  
-  *Child mode:* Draw your carpel board. Draw the stigma, three style steps and the ovary. Draw 6 ovules inside the ovary.
+  *Child mode:* Look at your carpel board. Count the 3 style steps and the 6 ovules.
   - Note: The board shows the order that the unit teaches: pollen lands on the stigma, a tube grows down the style, and the tube reaches an ovule in the ovary.
 - **s2 (8 min)**  
   *Parent does:* Play until one player has 3 ovules fertilised. Then stop and ask the question below.  
@@ -330,18 +330,18 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **question:** Does every ovule in a pod grow into a seed? If not, what share of the ovules became seeds, and where in the pod are the empty places?
 - **predict:** Guess before you open any pod. How many ovules did one pod begin with? Did every one grow into a seed? Why do you think so? Write your guesses and your reasons.
 - **fair test:** Take 20 pods without choosing the fattest ones. Open every pod in the same way, and let the same person decide what counts as a full seed. Count a seed as full when that seed is more than half as big as the biggest seed in the pod. One pod cannot show a pattern, so you count 20 pods and add them up.
-- **record:** Fill in one row of the table for each pod. Then write these totals: the full seeds, the ovules, and the pods with no empty place. Also add up the empty places at the stalk end, in the middle and at the tip end. Work out the share of ovules that became seeds. Draw a bar chart of how many pods had 0, 1, 2, 3 and 4 empty places.
+- **record:** Fill in one row of the table for each pod. Then write these totals: the full seeds, the ovules, and the pods with no empty place. Also add up the empty places at the stalk end, in the middle and at the tip end. Work out the share of ovules that became seeds. Show how many pods had 0, 1, 2, 3 and 4 empty places as a bar chart, or as a tally in the table.
 - **results table:** Pod | Full seeds | Empty places | Ovules in all (seeds + empty places) | Where the empty places were
 - **s1 (6 min)**  
   *Parent does:* 1. Put 20 pods on a plate, without choosing the fattest. 2. Look at one closed pod together. Find the green cap at the stalk end, and the thin dry point at the other end. 3. Ask the questions below. Write the guesses and the reasons.  
-  *Parent says:* This pod grew from the ovary of one flower. The green cap is the old sepals. The dry point at the tip is what is left of the style. How many ovules do you think one pod began with? Has every one grown into a seed? Why do you think so?  
-  *Child mode:* Look at one closed pod. Find the green cap and the dry tip. Guess how many seeds are inside. Guess if every place is full. Say why you think so.
+  *Parent says:* This pod grew from the ovary of one flower. The ovary holds ovules, tiny parts that can each grow into one seed. The green cap is what is left of the sepals, the small green leaves that covered the bud. The dry point is what is left of the style, a thin thread inside the flower. How many ovules do you think one pod began with?  
+  *Child mode:* Look at one closed pod. Find the green cap and the dry tip. Guess how many seeds are inside.
   - Ask: Do you think every ovule in a pod becomes a seed? Why? (good: Yes, because they all get the same water and food from the plant.; No, because some may not have got any pollen.; I am not sure. We need to open many pods to know.)
   - Note: Do not correct the guess. Many children expect every place to be full, because pods in a shop look full from outside.
 - **s2 (6 min)**  
   *Parent does:* 1. Open the first pod. Press the seam near the tip until it splits, and run a thumb along the seam. 2. Do not pull the seeds off. Each seed hangs from the seam on a short stalk. 3. Look between the seeds and at both ends for tiny pale grains on stalks. Use a hand lens or a phone camera.  
-  *Parent says:* Look along the seam. Each seed hangs on a short stalk. Now look for very small, flat, pale grains on stalks of the same kind. What do you think they are?  
-  *Child mode:* Open one pod along the seam. Leave the seeds on their stalks. Look for tiny pale grains on stalks. What could they be?
+  *Parent says:* Look along the seam. Each seed hangs on a short stalk. Now look for very small, flat, pale grains on stalks of the same kind.  
+  *Child mode:* Open one pod along the seam. Leave the seeds on their stalks. Look for tiny pale grains on stalks.
   - Ask: What do you think the tiny pale grains are? (good: Seeds that did not grow.; Ovules that were never fertilised.; Young seeds that stopped growing.)
   - Note: The tiny grains are ovules that never grew into seeds. In a pea pod they are as small as a pinhead or a mustard seed. They often sit at the two ends. We call each one an empty place. If the first five pods show no empty places, take shorter, thinner or bent pods for the rest. Write that you did so.
 - **s3 (15 min)**  
@@ -357,7 +357,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   - Note: A worked example: 132 seeds from 160 ovules is 132 ÷ 160 = 0.825. That is about 83 percent, or about 5 ovules in every 6. A calculator is fine for the division.
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Then read the note below together. 3. Ask the questions.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened.  
+  *Parent says:* Let us look back. Was your guess right? What surprised you?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why you think it happened.
   - Ask: All the ovules in one pod had the same mother plant, the same water and the same light. So why did some not grow? (good: Each ovule needs their own pollen tube, and some did not get one.; Some may have been fertilised, and then the plant stopped feeding them.)
   - Ask: Was any pod thin or pinched at the place where a seed was missing? (good: Yes, the pod was narrow there.; No, I could not see a difference.)
@@ -371,13 +371,13 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **results table:** Run | Seeds dropped | Seeds in the katori | Seeds in the wide bowl
 - **s1 (6 min)**  
   *Parent does:* 1. Spread the sheet on the floor and put a coin in the middle. 2. Line the katori and the wide bowl with cloth. Put each one 30 centimetres from the coin, on opposite sides. 3. Measure how wide each catcher is. 4. Ask for the two guesses and the reasons, and write them.  
-  *Parent says:* The moong seeds are pollen grains in the wind. The katori is a small stigma. The bowl is a stigma three times as wide. Out of 100 grains, how many will land in each? Why do you think so?  
-  *Child mode:* The seeds are pollen in the wind. The katori is a small stigma. The bowl is three times as wide. Guess how many seeds land in each. Say why.
+  *Parent says:* The moong seeds are pollen grains in the wind. A stigma is the part of a flower that catches pollen. The katori is a small stigma. The bowl is a stigma three times as wide. Out of 100 grains, how many will land in each?  
+  *Child mode:* Guess how many seeds land in the katori. Guess how many land in the bowl. Say why.
   - Ask: The bowl is three times as wide as the katori. How many times as many seeds do you think the bowl will catch? Why? (good: Three times as many, because the bowl is three times as wide.; More than three times, because the bowl is bigger in every direction.; I am not sure. Chance decides where they fall.)
   - Note: Many children guess three times as many. Do not correct this. The count will answer it.
 - **s2 (12 min)**  
   *Parent does:* 1. Your child stands over the coin and holds the tumbler of 100 seeds at chest height. 2. With eyes shut, they shake the seeds out slowly. They move the tumbler in circles about as wide as a dinner plate. 3. Count the seeds in each catcher and write the numbers. 4. Collect all 100 seeds. Swap the two catchers, and do runs 2 and 3.  
-  *Parent says:* Shut your eyes, so that you cannot aim. Shake the seeds out slowly, and move the tumbler in circles. Then we count what each stigma caught.  
+  *Parent says:* Shut your eyes. Shake the seeds out slowly, and move the tumbler in circles. Then we count what each stigma caught.  
   *Child mode:* Stand over the coin. Shut your eyes. Shake the seeds out slowly in circles. Count the seeds in each catcher. Do this three times.
   - Ask: Why must your eyes be shut? (good: So that I cannot aim at a catcher.; The wind does not aim, so I should not aim.)
   - Check: In the Pollen Rain Test, why do the katori and the wide bowl swap sides after each run? → **So one side cannot favour one catcher**
@@ -387,7 +387,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   *Child mode:* Now you are a bee. Pick up 10 seeds. Carry them to the katori. How many arrived?
 - **s4 (7 min)**  
   *Parent does:* 1. Add up each column of the table. 2. Divide the wide bowl's total by the katori's total. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Then read the note below together.  
-  *Parent says:* Add up the three runs. How many times as many seeds did the wide bowl catch? Now say what you thought would happen, what you saw, and why it happened.  
+  *Parent says:* Add up the three runs. How many times as many seeds did the wide bowl catch? Was your guess close?  
   *Child mode:* Add up the three runs. Compare the bowl with the katori. Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Out of 300 seeds dropped, how many missed both catchers? (good: Most of them.; More than 250.)
   - Ask: The visitor carried 10 seeds and the rain dropped 300. Which put more seeds in the katori? (good: The visitor, with far fewer seeds.; The visitor put in 10. The rain put in only a few.)
@@ -400,8 +400,8 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **record:** Tape the parts onto the four circles: sepals on the outer circle, then petals, then stamens, and the carpels in the middle. Fill in a flower table with four rows: the ring, the name of the part, how many, and what the part does.
 - **s1 (5 min)**  
   *Parent does:* 1. Put one flower on the table and keep the second as a spare. 2. Look at the flower from the side, without taking anything off. 3. Ask the questions below, and write the guess.  
-  *Parent says:* Look at the whole flower before we open it. How many different kinds of parts can you see? Which part do you think makes the seeds? Why do you think so?  
-  *Child mode:* Look at the whole flower. How many kinds of parts can you see? Which part makes the seeds? Say why you think so.
+  *Parent says:* Look at the whole flower before we open it. How many different kinds of parts can you see?  
+  *Child mode:* Look at the whole flower. How many kinds of parts can you see?
   - Ask: Which part of this flower do you think makes the seeds? Why? (good: The yellow dots, because they look like tiny seeds.; The bottom of the flower, because fruits grow where the flower was.; The long red stick in the middle.)
   - Note: Many children point to the yellow anthers, because pollen looks like tiny seeds. Leave the guess as it is for now.
 - **s2 (7 min)**  
@@ -424,16 +424,16 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   - Note: The ovary is about half a centimetre wide. The white dots in the chambers are the ovules. They are very small, so use the phone camera's zoom if the lens is not strong enough. Tape the style, with the stigmas and one half of the ovary, in the middle circle.
 - **s5 (4 min)**  
   *Parent does:* 1. Fill in the flower table together: ring, part, how many, what the part does. 2. Go back to the first guess about which part makes the seeds. 3. Ask the check question.  
-  *Parent says:* Fill in the table from the outside in. Then look at your first guess. Which part holds the ovules that can become seeds? Were you right?  
+  *Parent says:* Fill in the table from the outside in. Then look at your first guess. Were you right?  
   *Child mode:* Fill in the flower table. Look at your first guess. Which part holds the ovules? Answer the question.
   - Check: In which part of a flower are the ovules found? → **Inside the ovary**
 ### a2 · Count the Carpels: read the chambers in six kitchen fruits (25 min)
 - **safety:** A grown-up does the cutting. The cut fruits can all be cooked or eaten afterwards.
-- **record:** Make a table with four columns: the fruit, your guess, the chambers you counted, and where the seeds are attached. Draw the cut face of two of the fruits.
+- **record:** Make a table with four columns: the fruit, your guess, the chambers you counted, and where the seeds are attached. Take a photo of the cut face of two of the fruits, or draw them.
 - **s1 (5 min)**  
   *Parent does:* 1. Line up the six fruits. 2. Say that each grew from the ovary of one flower. 3. Ask your child to guess the number of chambers in each fruit, and to say why. Write the guesses.  
   *Parent says:* Each of these grew from the ovary of one flower. An ovary can have one chamber or several. How many chambers do you think each fruit has? Why do you think so?  
-  *Child mode:* Each fruit grew from one ovary. Guess how many chambers each fruit has. Say why. Write your guesses.
+  *Child mode:* Guess how many chambers each fruit has. Say why. Write your guesses.
   - Note: If you have done Take a Flower Apart, remind your child that the hibiscus ovary had 5 chambers. Bhindi belongs to the hibiscus family.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts each fruit across the middle. 2. Your child counts the chambers on the cut face, and writes the number. 3. In each fruit, look at where the seeds are attached.  
@@ -442,25 +442,25 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   - Ask: The bhindi has 5 chambers and the cucumber has 3. What does that tell you about their flowers? (good: The bhindi flower had 5 carpels joined together.; The cucumber flower had 3 carpels.)
   - Note: Each chamber grew from one carpel. In the banana the three parts are faint: press the cut end gently and it splits into three. The tiny dark specks near the centre are ovules that never grew into seeds.
 - **s3 (8 min)**  
-  *Parent does:* 1. Compare the counts with the guesses. 2. Draw the cut face of two fruits, and label one chamber and one seed. 3. Ask the questions below.  
-  *Parent says:* Which count surprised you most? Now draw two of the cut faces. Label one chamber and one seed on each.  
-  *Child mode:* Compare your counts with your guesses. Draw two cut faces. Label one chamber and one seed.
+  *Parent does:* 1. Compare the counts with the guesses. 2. Your child picks two cut fruits and points to one chamber and one seed on each. Take a photo of each, or draw it. 3. Ask the questions below.  
+  *Parent says:* Which count surprised you most? Now pick two of the cut fruits. Point to one chamber and one seed on each. Take a photo, or draw it.  
+  *Child mode:* Compare your counts with your guesses. Pick two fruits. Point to one chamber and one seed on each.
   - Ask: The banana has three parts and tiny dark specks, but no seeds. What are the specks? (good: Ovules that never grew.; The banana grew without fertilisation, so the ovules stayed tiny.)
   - Ask: A cook calls bhindi, tomato and cucumber vegetables. Why does a botanist call them fruits? (good: They grew from the ovary of a flower.; They hold seeds.)
   - Check: An orange has 10 segments. How many carpels did the ovary of the orange flower have? → **10 carpels**
 ### a3 · The Hidden Journey: draw how a pollen grain reaches an ovule (20 min)
 - **record:** Keep both drawings side by side. On the second drawing, label seven parts: pollen grain, stigma, style, pollen tube, ovary, ovule and egg cell. Write the scale sum under it.
 - **s1 (6 min)**  
-  *Parent does:* 1. Your child draws a carpel as tall as the page: a stigma, a long style and an ovary. 2. They draw one pollen grain on the stigma and four ovules in the ovary. 3. Ask the question below. Your child draws their own idea on the picture.  
-  *Parent says:* The pollen grain is up here on the stigma. The ovules are down here, sealed inside the ovary. A seed cannot begin until something from the pollen reaches an ovule. How do you think that happens? Draw your idea.  
-  *Child mode:* Draw a tall carpel. Put a pollen grain on top. Put four ovules at the bottom. How does the pollen reach an ovule? Draw your idea.
+  *Parent does:* 1. A grown-up draws a carpel as tall as the page: a stigma, a long style and an ovary. 2. Draw one pollen grain on the stigma and four ovules in the ovary. 3. Ask the question below. Your child shows their idea with a finger on the picture, or draws it.  
+  *Parent says:* The pollen grain is up here on the stigma. The ovules are tiny parts that can become seeds. They are down here, sealed inside the ovary. A seed cannot begin until something from the pollen reaches an ovule.  
+  *Child mode:* Look at the carpel. Show with your finger how the pollen reaches an ovule. Or draw it.
   - Ask: How do you think the pollen reaches the ovules? (good: The pollen grain falls down a hole in the style.; The pollen sends something down.; The ovule climbs up.; The pollen grows down.)
   - Note: Any idea with a reason is welcome. Scientists themselves once thought that pollen sent a vapour down the style.
 - **s2 (7 min)**  
   *Parent does:* 1. Read the note below to your child. 2. On a new sheet, your child draws the carpel again. 3. This time they draw the pollen tube in colour, from the grain to one ovule. They add two male cells near the tip. 4. They label the seven parts.  
-  *Parent says:* Here is what scientists saw. The pollen grain grows a tube, thinner than a hair. The tube grows down through the style and into one ovule. Two male cells travel inside it. One joins the egg cell. Now draw that.  
-  *Child mode:* The pollen grain grows a thin tube. The tube grows down to one ovule. Draw the tube in colour. Label the seven parts.
-  - Ask: There are four ovules in your drawing and one pollen grain. How many seeds can form? (good: One. Each ovule needs their own pollen tube.; One seed, and three empty places.)
+  *Parent says:* Here is what scientists saw. The pollen grain grows a tube, thinner than a hair. The tube grows down through the style and into one ovule. Two male cells travel inside it. One joins the egg cell, a tiny cell inside the ovule. Now draw that.  
+  *Child mode:* The pollen grain grows a thin tube. The tube grows down to one ovule. Draw the tube in colour. Label the seven parts, or point to each and say its name.
+  - Ask: There are four ovules in the carpel and one pollen grain. How many seeds can form? (good: One. Each ovule needs their own pollen tube.; One seed, and three empty places.)
   - Note: The seven labels are: pollen grain, stigma, style, pollen tube, ovary, ovule and egg cell. The style has no hole down the middle in most flowers. The tube pushes between the cells and takes food from them as it grows.
 - **s3 (7 min)**  
   *Parent does:* 1. Give your child these two numbers. A maize pollen grain is one tenth of a millimetre wide. A maize silk can be 20 centimetres long. 2. Your child works out how many times the grain's own width the tube must grow. 3. Then they scale it up: if the grain were a marble 1 centimetre wide, how long would the tube be?  
@@ -497,7 +497,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **s2 (8 min)**  
   *Parent does:* 1. Peel the husk off one leaf at a time. Try to leave the silks lying on the cob. 2. Pick one silk near the tip and follow it down with a fingernail. See where it ends. 3. Do this with five more silks.  
   *Parent says:* Peel slowly, so that the silks stay in place. Now follow one silk down. Where does it end? Follow five more. Does any kernel have two silks?  
-  *Child mode:* Peel the husk slowly. Follow one thread down with your fingernail. Where does the thread end? Follow five more threads.
+  *Child mode:* Peel the husk slowly. Follow one thread down with your fingernail. Follow five more threads.
   - Ask: Where did each silk end? (good: At one kernel.; Each silk went to a different kernel.)
   - Note: Each silk is joined to one kernel, usually at the top of the kernel. On a cooked or old cob the silks break easily, so a fresh cob works best. Each silk is the style of one ovule.
 - **s3 (8 min)**  
@@ -508,21 +508,21 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   - Note: A cob usually has 12 to 18 rows, and the number of rows is always even. With about 30 to 40 kernels in a row, a cob holds about 400 to 600 kernels. Bare places are commonest at the tip. The silks from the tip come out last, when the tassels may have finished shedding pollen.
   - Check: A maize cob has 480 kernels and 20 bare places. How many silks did the young cob have? → **500 silks**
 ### a6 · The Marigold Count: is a marigold one flower or many? (20 min)
-- **record:** Write your guess and your count. Draw one piece of the marigold as large as your hand, and label the petal, the ovary and the forked stigma.
+- **record:** Write your guess and your count. Take a close photo of one piece of the marigold, or draw it as large as your hand. Label the petal, the ovary and the forked stigma.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the marigold on the plate. 2. Ask your child how many petals it has, and whether it is one flower. 3. Write the guesses and the reasons.  
-  *Parent says:* Is this one flower? How many petals do you think it has? Where do you think the ovary is? Why do you think so?  
-  *Child mode:* Is this one flower? Guess how many petals. Guess where the ovary is. Say why.
+  *Parent says:* Is this one flower? How many petals do you think it has? Why do you think so?  
+  *Child mode:* Is this one flower? Guess how many petals. Say why.
 - **s2 (9 min)**  
   *Parent does:* 1. Hold the green cup at the base and pull the orange pieces out, a few at a time. 2. Put them in heaps of ten, and count the heaps. 3. Pick up one piece and look at it from top to bottom with the lens.  
-  *Parent says:* Pull the pieces out gently, so that each one comes out whole. Make heaps of ten. Now look at one piece. What is at the bottom of it?  
+  *Parent says:* Pull the pieces out gently, so that each one comes out whole. Make heaps of ten. Now look at one piece with the lens.  
   *Child mode:* Pull the pieces out gently. Make heaps of ten. Count the heaps. Look at one piece from top to bottom.
   - Ask: What do you see at the bottom of each orange piece? (good: A thin pale stick.; A small white part, like a tiny seed.; A forked thread coming out of the tube.)
   - Note: A marigold from a garland often has more than 100 pieces. Each piece has an orange petal at the top. At the bottom is a thin pale stick about 1 centimetre long, which is an ovary with one ovule inside. In many pieces a thin thread with a forked tip stands out of the petal. That is the style, with two stigmas.
 - **s3 (8 min)**  
-  *Parent does:* 1. Your child draws one piece large, and labels the petal, the ovary and the forked stigma. 2. Ask whether each piece is a petal or a whole flower, and why. 3. Ask the check question.  
-  *Parent says:* Each piece has a petal, a stigma and an ovary of its own. So is each piece a petal, or a whole small flower? How many flowers were in your marigold?  
-  *Child mode:* Draw one piece large. Label the petal, the ovary and the stigma. Is each piece a petal or a flower? Say why.
+  *Parent does:* 1. Your child holds one piece under the lens, and points to the petal, the ovary and the forked stigma. 2. Ask whether each piece is a petal or a whole flower, and why. 3. Ask the check question.  
+  *Parent says:* Each piece has a petal, a stigma and an ovary of its own. How many flowers were in your marigold?  
+  *Child mode:* Look at one piece closely. Point to the petal, the ovary and the forked stigma.
   - Ask: Is each piece a petal or a flower? What is your evidence? (good: A flower, because each piece has an ovary and a stigma of its own.; A petal has no ovary, so these are flowers.)
   - Note: Each piece is a whole small flower. A marigold is a head of many flowers, and so are a sunflower and a chrysanthemum. Dry an old marigold for a week and pull it apart. Each ovary has become a thin black fruit with one seed inside. These are the marigold 'seeds' that gardeners sow.
   - Check: A sunflower head makes about 1,000 seeds. What does that tell you about the head? → **It held about 1,000 small flowers**
@@ -561,7 +561,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   - Wait: Look again in 5 days
 - **s5 (20 min)**  
   *Parent does:* 1. Count the fruits in the bagged group and in the open group. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then read the note below together. 4. Your child writes a claim, the evidence and the reasoning.  
-  *Parent says:* Count the fruits in each group. Say what you thought would happen, what you saw, and why it happened.  
+  *Parent says:* Count the fruits in each group. Was your guess right? What surprised you?  
   *Child mode:* Count the fruits in each group. Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: If the bagged flowers made fruit, where did their pollen come from? (good: From the same flower.; The flower pollinated itself inside the bag.)
   - Ask: With only 5 flowers in each group, how sure can you be? (good: Not very sure. One fruit more or less could be chance.; I would need more flowers to be sure.)
@@ -577,8 +577,8 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **creative:** Cut the paper into long strips and spread them out like feathers. Put tape on them, sticky side up, so that seeds stay on.; Make two or three small funnels that lean out in different directions, all leading into the katori.; Make a tall catcher that reaches up towards the tumbler, so the rain has less room to spread.
 - **s1 (6 min)**  
   *Parent does:* 1. Look up the katori's total from the Pollen Rain Test, or do three runs now. 2. Ask your child which features would help a catcher. 3. Your child draws a design and writes a prediction.  
-  *Parent says:* In the Pollen Rain Test, the bare katori caught only a few seeds out of 300. What would help it catch more? Draw your design. How many seeds will it catch?  
-  *Child mode:* The bare katori caught only a few seeds. What would help it catch more? Draw your design. Guess how many seeds it will catch.
+  *Parent says:* In the Pollen Rain Test, the bare katori caught only a few seeds out of 300. What would help it catch more? Make a plan. How many seeds will it catch?  
+  *Child mode:* The bare katori caught only a few seeds. What would help it catch more? Plan your catcher, and guess how many seeds it will catch. Draw the plan, or tell it to your grown-up.
   - Ask: What could a catcher change: its width, its height or its stickiness? Which matters most, and why? (good: Width, because a wider catcher covers more floor.; Stickiness, so that seeds do not bounce off.; Height, to be closer to where the seeds start.)
 - **s2 (12 min)**  
   *Parent does:* 1. Your child builds the catcher from one sheet of paper and the tape. 2. Check that it stands on the katori without being held. 3. Do one trial run and let your child change the design once.  
@@ -598,9 +598,9 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **general:** Put the stigma high above the anthers, so that falling pollen cannot reach the stigma.; Make some flowers with only stamens and other flowers with only carpels.; Let the anthers ripen first, and the stigma open only after the pollen has gone.
 - **creative:** Put the male flowers and the female flowers on separate plants.; Give the stigma a way to recognise pollen from the same plant and stop that pollen growing a tube.; Make a flower that pollinates itself only on the last day, if no visitor has come.
 - **s1 (10 min)**  
-  *Parent does:* 1. Draw a simple flower with anthers beside the stigma, and show pollen falling onto the stigma. 2. Ask why a plant might do better with pollen from another plant. 3. Your child draws a design that keeps the plant's own pollen out.  
-  *Parent says:* In some flowers, the pollen falls on the stigma of the same flower. Seeds from two different parents differ more from each other. How could a plant keep out pollen from the same plant? Draw your idea.  
-  *Child mode:* This flower's pollen falls on the same flower's stigma. How could a plant keep that pollen out? Draw your idea.
+  *Parent does:* 1. A grown-up draws a simple flower with anthers beside the stigma, and show pollen falling onto the stigma. 2. Ask why a plant might do better with pollen from another plant. 3. Your child draws a design that keeps the plant's own pollen out.  
+  *Parent says:* In some flowers, the pollen falls on the stigma of the same flower. Seeds from two different parents differ more from each other. How could a plant keep out pollen from the same plant?  
+  *Child mode:* This flower's pollen falls on the same flower's stigma. How could a plant keep that pollen out? Draw your idea, or tell it to your grown-up.
   - Ask: Why might seeds with two different parents do better than seeds with one? (good: The young plants differ more from each other.; If a disease comes, some of them may live through it.)
 - **s2 (10 min)**  
   *Parent does:* 1. Read these five real plants to your child. Hibiscus: the stigmas stand beyond the anthers. Pumpkin: male flowers and female flowers on one vine. Papaya: male trees and female trees. Custard apple: the stigmas are ready first, and the pollen is shed later. Cabbage: the stigma stops pollen from the same plant. 2. Your child says which real plant is most like their design.  
@@ -609,8 +609,8 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   - Note: There are three kinds of answer: keep the parts apart in space, keep them apart in time, or let the stigma recognise the pollen. Most children think of space first.
 - **s3 (10 min)**  
   *Parent does:* 1. Ask what happens to each design if no visitor comes. 2. Tell your child that pea and groundnut flowers pollinate themselves. 3. Your child improves the design, or defends it, and answers the check question.  
-  *Parent says:* Now the hard part. A female papaya tree stands alone, and no pollen comes. What happens? A pea flower pollinates itself and always sets seed. Which plant takes the bigger risk? Which gets the bigger gain?  
-  *Child mode:* A female papaya tree stands alone. No pollen comes. What happens? A pea flower pollinates itself. Which plant takes the bigger risk?
+  *Parent says:* Now the hard part. A pea flower pollinates itself and always sets seed. A female papaya tree needs pollen from another tree. Which plant takes the bigger risk? Which gets the bigger gain?  
+  *Child mode:* A female papaya tree stands alone. No pollen comes. What happens to it?
   - Ask: When is self-pollination the better way for a plant? (good: When visitors are rare.; When a plant grows alone, far from others of the same kind.)
   - Check: A pumpkin vine has male flowers and female flowers. What must happen for a pumpkin to grow? → **Pollen must be carried to a female flower**
 

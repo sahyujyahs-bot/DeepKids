@@ -614,9 +614,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the 24 day cards. 2. Draw a plant mat for each player: four boxes in a column, labelled GROWING TIP, FRUIT, LEAF and ROOT from top to bottom. 3. Give each player about 15 beans. 4. Put 2 beans on each LEAF.",
-     "say": "The leaf makes the sugar. The tip, the fruit and the root all need it. Our job is to deliver it through the phloem.",
-     "kid": "Cut out the cards. Draw your plant mat. Put 2 beans on LEAF.",
+     "do": "1. Cut out the 24 day cards. 2. Make a plant mat for each player. Write GROWING TIP, FRUIT, LEAF and ROOT on four scraps of paper. Lay them in a column in that order, top to bottom. 3. Give each player about 15 beans. 4. Put 2 beans on each LEAF.",
+     "say": "The leaf makes the sugar. The tip, the fruit and the root all need it, and each one is called a sink. Our job is to deliver it through the phloem.",
+     "kid": "Cut out the cards. Lay out your plant mat. Put 2 beans on LEAF.",
      "context": "This is the first step of Feed the Plant. Here you set up the cards and a plant mat for each player."
     },
     {
@@ -790,7 +790,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Take turns to read the top card. 2. Say the answer and one reason. 3. Turn the card over to check.",
+     "do": "1. Take turns to read the top card. 2. Say the answer and one reason. 3. Turn the card over to check. If you were right, keep the card. If not, lay it face up in the middle.",
      "say": "Read the clue aloud. Which pipe is it? Why do you think so?",
      "kid": "Read the clue. Say xylem, phloem, both or neither. Say why. Then turn the card over.",
      "parent": "A reason matters more than a lucky guess. Two cards have the answer 'neither', and two have 'both'.",
@@ -799,9 +799,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Count the cards. 2. Lay out the cards that were missed. 3. Talk about what fooled you.",
+     "do": "1. Count the cards each player kept. 2. Look at the cards in the middle. 3. Talk about what fooled you.",
      "say": "Which clues fooled us? What do we know now that we did not know before?",
-     "kid": "Count your cards. Which clue fooled you? Why?",
+     "kid": "Count your kept cards. Which clue fooled you? Why?",
      "check": {
       "t": "mcq",
       "q": "Which is true of both xylem and phloem?",
@@ -1459,9 +1459,9 @@
    "title": "Pipe Maps: where are the pipes in a root, a stem and a leaf stalk?",
    "mins": 40,
    "days": 2,
-   "context": "In this experiment a carrot, a leafy stem and a leaf stalk stand in coloured water overnight. Next day you cut each one across and map where the colour travelled.",
+   "context": "In this experiment a carrot, a leafy stem and a leaf stalk stand in coloured water overnight. Next day you cut each one across and map where the colour travelled. You will find out where a plant keeps its water pipes.",
    "question": "Are the water pipes in the same place in a root, a stem and a leaf stalk? And how much of each part is pipes?",
-   "predict": "Guess first. Draw three circles for the cut faces of a carrot, a stem and a leaf stalk. Mark with dots where you think the colour will show in each one. Will the pattern be the same in all three? Why do you think so? Write your reason.",
+   "predict": "Guess first. Where will the colour show inside a carrot, a stem and a leaf stalk? Will the pattern be the same in all three? Why do you think so?",
    "fair_test": "Use the same coloured water, the same depth and the same number of hours for all three. Keep them side by side in the same place. Cut each one 3 centimetres above the level of the coloured water. Below that level the colour may have soaked in from the side. Only the plant part changes.",
    "results_table": [
     "Plant part",
@@ -1519,7 +1519,7 @@
      "what": "Cut each part across, map the coloured dots, and say what you found."
     }
    ],
-   "record": "Draw each cut face as a circle as big as your palm, and mark every coloured dot where you see it. Fill in the table. Then write one sentence for what you found (your claim), one for what you saw (your evidence) and one for why you think the patterns differ (your reasoning).",
+   "record": "Draw each cut face as a circle as big as your palm, and mark every coloured dot where you see it, or take a photo of each face. Fill in the table. Then write one sentence for what you found (your claim), one for what you saw (your evidence) and one for why you think the patterns differ (your reasoning).",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1569,9 +1569,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the carrot, a stem and a leaf stalk on the table. 2. Ask your child to draw three circles, one for each cut face. 3. Ask them to mark where the colour will show, and to say why. 4. Write the guesses in the table.",
-     "say": "If we stand these in coloured water, where will the colour travel inside each one? Will all three look the same? Why do you think so?",
-     "kid": "Draw three circles. Mark where you think the colour will show. Say why.",
+     "do": "1. Put the carrot, a stem and a leaf stalk on the table. 2. Ask your child where the colour will travel inside each one: the middle, a ring near the edge, or all through. 3. Ask them to say why. 4. Write the guesses in the table.",
+     "say": "If we stand these in coloured water, where will the colour travel inside each one? Will all three look the same?",
+     "kid": "Guess where the colour will go inside each one.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1600,16 +1600,16 @@
      "mins": 2,
      "do": "1. After 1 hour, look at the leaves on the stems for the first signs of colour. 2. Then leave everything until tomorrow.",
      "say": "Let's look at the leaf veins once before we leave it. Do you see any colour yet?",
-     "kid": "Look at the leaves after one hour. Is there colour in the veins? Now leave it all until tomorrow.",
+     "kid": "Look at the leaves. Then leave it all until tomorrow.",
      "wait": "Leave it overnight, or for at least 4 hours",
      "context": "This step of Pipe Maps is the wait. The coloured water needs hours to travel up inside each plant part."
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Lift each one out and wipe the bottom. 2. Find the line where the coloured water reached on the outside. 3. Cut straight across, 3 centimetres above that line. 4. Look at each cut face with the magnifying glass. 5. Ask your child to draw each face as a big circle and mark every coloured dot.",
+     "do": "1. Lift each one out and wipe the bottom. 2. Find the line where the coloured water reached on the outside. 3. Cut straight across, 3 centimetres above that line. 4. Look at each cut face with the magnifying glass. 5. Ask your child to draw each face as a big circle and mark every coloured dot. Or they can take a photo of each face.",
      "say": "We cut above the water line, so we only see colour that travelled up inside. What do you notice on each cut face?",
-     "kid": "Ask a grown-up to cut each one across. Look closely at the cut face. Draw a big circle. Mark every coloured dot.",
+     "kid": "Ask a grown-up to cut each one across. Look closely at the cut face. Draw a big circle and mark every coloured dot, or take a photo.",
      "adult": true,
      "ask": [
       {
@@ -1682,7 +1682,7 @@
    "days": 2,
    "context": "In this experiment a fresh woody twig stands in coloured water for a day. Then you peel back the bark to see whether the colour travelled in the bark or in the wood.",
    "question": "A woody twig has bark on the outside, wood inside and a soft centre. Which of these carries water up to the leaves?",
-   "predict": "Guess first. When a twig stands in coloured water, where will the colour travel: in the bark, in the wood, in the soft centre, or in all three? Draw your guess on a circle. Why do you think so?",
+   "predict": "Guess first. When a twig stands in coloured water, where will the colour travel: in the bark, in the wood, in the soft centre, or in all three? Say your guess. Why do you think so?",
    "fair_test": "Use one twig, so the bark, the wood and the centre all get the same water for the same time. Compare them at the same height. Look only above the level of the coloured water.",
    "results_table": [
     "Height above the water line (cm)",
@@ -1727,7 +1727,7 @@
      "what": "Peel windows in the bark at three heights, look at the bark and the wood, cut the twig across, and say what you found."
     }
    ],
-   "record": "Fill in the table for each height. Draw the cut face of the twig and colour the part that the dye reached. Write your claim, your evidence and your reasoning.",
+   "record": "Fill in the table for each height. Draw the cut face of the twig and colour the part that the dye reached, or take a photo of it. Write your claim, your evidence and your reasoning.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results for a rose stem",
@@ -1777,9 +1777,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Look at the cut end of the twig together. 2. Find the bark, the wood and the soft centre. 3. Ask your child to draw the cut face and colour in their guess. 4. Ask for the reason.",
-     "say": "This twig has bark, wood and a soft centre. Which part do you think carries water up? Why do you think so?",
-     "kid": "Look at the cut end. Find the bark, the wood and the centre. Colour in your guess. Say why.",
+     "do": "1. Look at the cut end of the twig together. 2. Find the bark, the wood and the soft centre. 3. Ask your child to point to the part they think carries water. 4. Ask for the reason.",
+     "say": "This twig has bark, wood and a soft centre. Which part do you think carries water up?",
+     "kid": "Look at the cut end. Find the bark, the wood and the centre. Point to the part you think carries water.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1864,7 +1864,7 @@
    "title": "String Hunt: find the strings in fruits and leaf stalks",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you pull the strings off a banana, an orange and a leaf stalk, and compare them. It is the first thing to do in this unit.",
+   "context": "In this activity you pull the strings off a banana, an orange and a leaf stalk, and compare them. It is the first thing to do in this unit. You will find out what the strings are and which way they run.",
    "materials": [
     {
      "item": "a ripe banana",
@@ -1883,7 +1883,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the banana with its strings. Add arrows to show which way you think something travelled along them, and write what you think it was.",
+   "record": "Tape your strings flat on paper. Point along them to show which way you think something travelled, and write what you think it was. Or draw the banana with arrows.",
    "setup": [
     {
      "art": "A peeled banana on a plate with three pale strings pulled away and laid beside it.",
@@ -1903,8 +1903,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Ask your child to peel the banana slowly. 2. Ask them to pull one string off, from the stalk end to the tip. 3. Ask what they notice and what the strings might be for.",
-     "say": "Look at these strings. Which way do they run? What do you think they are for? Why do you think so?",
-     "kid": "Peel the banana slowly. Pull off one string. Which way does it run? What is it for?",
+     "say": "Look at these strings. Which way do they run?",
+     "kid": "Peel the banana slowly. Pull off one string. Which way does it run?",
      "ask": [
       {
        "q": "What do you think the strings are for?",
@@ -1932,7 +1932,7 @@
      "mins": 3,
      "do": "1. Lay the strings side by side. 2. Ask what is the same about them. 3. Ask how you could test whether they carry water.",
      "say": "What is the same about all these strings? If they are pipes, how could we test that?",
-     "kid": "Put the strings side by side. What is the same? How could you test what they carry?",
+     "kid": "Put the strings side by side. What is the same about them?",
      "ask": [
       {
        "q": "How could we test whether the strings carry water?",
@@ -2027,7 +2027,7 @@
      "mins": 5,
      "do": "1. Count the tally. 2. Ask your child what they found. 3. Then tell them which tissue is which.",
      "say": "What does our tally show? Now here is a clue. The core is the carrot's xylem. The orange ring grew on the phloem side.",
-     "kid": "Count your tally. Which part won? The core is xylem. The orange ring is on the phloem side.",
+     "kid": "Count your tally. Which part won?",
      "ask": [
       {
        "q": "Phloem brings sugar down from the leaves. How might that explain your result?",
@@ -2093,7 +2093,7 @@
      "what": "Cut both across, compare the patterns, and sort five plants by their leaf veins."
     }
    ],
-   "record": "Draw the two cut faces side by side. Label one 'ring' and one 'scatter'. Under each, write the names of two more plants you think belong with it.",
+   "record": "Draw the two cut faces side by side, or take a photo of each. Label one 'ring' and one 'scatter'. Under each, write the names of two more plants you think belong with it.",
    "setup": [
     {
      "art": "A tuberose stalk and a coriander stem standing in two glasses of blue water.",
@@ -2114,16 +2114,16 @@
      "mins": 5,
      "do": "1. Stand the tuberose or maize stalk in dark coloured water. 2. Stand the leafy stem in a second glass. 3. Ask your child to guess whether the two patterns will match, and why. 4. Leave both overnight. 5. If you have sugarcane, skip the colour, because its dots show without it.",
      "say": "In Pipe Maps the stem had a ring of dots. Will this stem have a ring too? Why do you think so?",
-     "kid": "Stand both stems in dark water. Will both show a ring of dots? Say why.",
+     "kid": "Stand both stems in dark water. Guess if both will show a ring of dots.",
      "wait": "Leave it overnight",
      "context": "This is the first step of Ring or Scatter. Here two different stems go into coloured water."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Cut each stem across, 3 centimetres above the water line. 2. Cut a thin slice off the end of the sugarcane, if you have one. 3. Look at the cut faces with the magnifying glass. 4. Ask your child to draw both.",
+     "do": "1. Cut each stem across, 3 centimetres above the water line. 2. Cut a thin slice off the end of the sugarcane, if you have one. 3. Look at the cut faces with the magnifying glass. 4. Ask your child to say which one has a ring and which has scattered dots.",
      "say": "Look at both cut faces. Where are the dots in each one?",
-     "kid": "Ask a grown-up to cut both stems. Look closely. Where are the dots in each one?",
+     "kid": "Ask a grown-up to cut both stems. Look closely at both. Which has a ring? Which has scattered dots?",
      "adult": true,
      "parent": "Tuberose, maize and sugarcane show dots scattered over the whole face. Coriander, mint and chrysanthemum show a ring. If a tuberose stalk shows little colour, cut 1 centimetre above the water line.",
      "context": "This step of Ring or Scatter is the cutting. You compare the dots on the cut faces of two kinds of stem."
@@ -2131,7 +2131,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Look at a leaf of grass, maize, banana or coconut. 2. Look at a leaf of hibiscus, mango or tulsi. 3. Ask how the veins differ. 4. Ask your child to sort five plants they know into 'ring' or 'scatter' by their leaf veins.",
+     "do": "1. Look at a leaf of grass, maize, banana or coconut. 2. Look at a leaf of hibiscus, mango or tulsi. 3. Ask how the veins differ. 4. Ask your child to write five plant names on scraps of paper. Then sort them into a 'ring' pile and a 'scatter' pile by leaf veins.",
      "say": "Plants with scattered bundles mostly have straight veins lying side by side. Plants with a ring mostly have a net of veins. Which plants go where?",
      "kid": "Look at a grass leaf and a hibiscus leaf. How do the veins differ? Sort five plants.",
      "check": {
@@ -2342,7 +2342,7 @@
      "buy": "b-lens"
     }
    ],
-   "record": "Draw the end of one wooden thing with its curved ring lines, and the side with its long grain lines. Write which way the ice cream stick split.",
+   "record": "Draw the end of one wooden thing with its curved ring lines, and the side with its long grain lines, or take a photo of each. Write which way the ice cream stick split.",
    "setup": [
     {
      "art": "A child looking through a magnifying glass at the end of a wooden chopping board, where curved lines show.",
@@ -2362,8 +2362,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Find a wooden thing with a bare cut end, such as a chopping board or the top edge of a door. 2. Look at the end with the magnifying glass. 3. Then look at a long side. 4. Ask how the lines differ.",
-     "say": "Look at the end of this board, and then at its side. How are the lines different? What could have made them?",
-     "kid": "Look at the end of the board. Now look at the side. How are the lines different?",
+     "say": "Look at the end of this board, and then at its side. How are the lines different?",
+     "kid": "Look at the end of the board. Now look at the side. Which has curved lines?",
      "ask": [
       {
        "q": "What made the curved lines on the end?",
@@ -2381,7 +2381,7 @@
      "mins": 5,
      "do": "1. Hold an ice cream stick by its two long edges and bend it until it splits along its length. 2. Hold a second stick by its two ends and bend it until it snaps across. 3. Compare the two breaks.",
      "say": "Which break was easier? Which edge is straight, and which is jagged? Why do you think so?",
-     "kid": "Split one stick along its length. Snap another across. Which was easier? Which edge is jagged?",
+     "kid": "Split one stick along its length. Snap another across.",
      "parent": "The stick splits along its length with a clean line and snaps across with splinters. The wood cells are long pipes and fibres lying lengthwise. Splitting pulls them apart from each other. Snapping has to break each one.",
      "context": "This step of Wood Hunt tests which way wood splits, using two ice cream sticks."
     },
@@ -2390,7 +2390,7 @@
      "mins": 5,
      "do": "1. Ask the nail question. 2. Let your child answer and give a reason. 3. Then read the explanation card 'Meristems' together.",
      "say": "Someone hammers a nail into a tree, one metre up. In ten years the tree is twice as tall. How high is the nail? Why?",
-     "kid": "A nail is one metre up a tree. The tree doubles in height. How high is the nail now?",
+     "kid": "Think about where a tree grows taller. Then choose an answer.",
      "check": {
       "t": "mcq",
       "q": "A nail is hammered into a trunk 1 metre above the ground. Ten years later the tree is twice as tall. How high is the nail?",
@@ -2439,7 +2439,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw your two models. Label: hard wall, open end, sieve plate, companion cell. Write one way the model is like the real pipe and one way it is not.",
+   "record": "Take a photo of your two models, or draw them. Point to and name: hard wall, open end, sieve plate, companion cell. Write one way the model is like the real pipe and one way it is not.",
    "setup": [
     {
      "art": "Three short paper tubes taped end to end into one long open tube, with thread wound round it in a spiral.",
@@ -2477,7 +2477,7 @@
      "mins": 5,
      "do": "1. Hold each pipe upright over the plate. 2. Ask your child to guess which pipe the rice will pass through faster, and why. 3. Pour a spoonful of rice into the top of each. 4. Talk about where the model is like the real pipe and where it is not.",
      "say": "Which pipe will the rice pass through faster? Why do you think so? Now pour, and watch.",
-     "kid": "Guess which pipe lets rice through faster. Say why. Pour rice into each. What happened?",
+     "kid": "Guess which pipe lets rice through faster. Pour rice into each. What happened?",
      "ask": [
       {
        "q": "How is the model not like the real thing?",
@@ -2574,7 +2574,7 @@
      "what": "If there are many roots, a grown-up cuts the branch off below them and you plant the branch in a pot. Write what you found."
     }
    ],
-   "record": "Keep a diary with one drawing each week. Each time, note three things: are the leaves above the ring fresh, is there a swelling, and where are the roots. At the end write your claim, evidence and reasoning.",
+   "record": "Keep a diary with one drawing or photo each week. Each time, note three things: are the leaves above the ring fresh, is there a swelling, and where are the roots. At the end write your claim, evidence and reasoning.",
    "setup": [
     {
      "art": "A grown-up's hands removing a ring of bark 2 centimetres wide from a hibiscus branch, leaving pale wood showing.",
@@ -2595,7 +2595,7 @@
      "mins": 30,
      "do": "1. Choose a healthy branch as thick as a pencil. 2. About 30 centimetres below its tip, cut two rings through the bark, 2 centimetres apart. 3. Peel off the ring of bark between them. 4. Scrape the wet, slippery layer off the bare wood. 5. Ask your child to guess what will happen above and below the ring, and why. 6. Wrap damp coco peat round the place, cover it with plastic and tie both ends.",
      "say": "We have taken away the bark but left the wood. Will the leaves above stay alive? Where might something new grow? Why do you think so?",
-     "kid": "A grown-up takes a ring of bark off. Will the leaves above live? Where will something new grow? Say why.",
+     "kid": "A grown-up takes a ring of bark off. Guess what will happen.",
      "adult": true,
      "parent": "Cut only through the bark, not into the wood. Scraping off the slippery layer removes the cambium, so that the bark does not simply grow back. The warm, wet months from June to September are best. Squeeze the coco peat first, so that it is damp but not dripping.",
      "context": "This is day 1 of the Gootee project. A ring of bark comes off a branch, and you guess what will happen."
@@ -2603,9 +2603,9 @@
     {
      "id": "s2",
      "mins": 25,
-     "do": "1. Once a week, look through the plastic without opening it. 2. Check the leaves above the ring. 3. Look at the upper and lower edges of the ring. 4. Add a spoonful of water at the top if the coco peat looks pale and dry. 5. Draw what you see.",
+     "do": "1. Once a week, look through the plastic without opening it. 2. Check the leaves above the ring. 3. Look at the upper and lower edges of the ring for a swelling, which is a bump. 4. Add a spoonful of water at the top if the coco peat looks pale and dry. 5. Draw what you see, or take a photo.",
      "say": "Are the leaves above the ring still fresh? What does that tell us about where the water travels? What is happening at the two edges?",
-     "kid": "Each week, look through the plastic. Are the leaves fresh? Is there a swelling? Are there roots? Draw them.",
+     "kid": "Each week, look through the plastic. Are the leaves fresh? Is there a swelling? Are there roots? Draw them, or take a photo.",
      "ask": [
       {
        "q": "The leaves above the ring are still fresh. So where does the water travel?",
@@ -2700,7 +2700,7 @@
      "mins": 6,
      "do": "1. Lay the paper sideways. 2. Draw 24 lines across its short side, about 1 centimetre apart. 3. Wrap the paper round the bottle so the lines run from top to bottom, and tape it. 4. Ask what would happen to the tree if a cut went all the way round.",
      "say": "Each line carries food down to the roots. What happens to the tree if we cut every line? Why?",
-     "kid": "Draw 24 lines on the paper. Wrap it round the bottle. What if a cut crossed every line?",
+     "kid": "Draw 24 lines on the paper. Wrap it round the bottle.",
      "context": "This is the first step of Tap Without Killing. Here you make a paper trunk with 24 strands of bark."
     },
     {
@@ -2715,9 +2715,9 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "1. Ask your child to design a new cut or a plan for several years. 2. Draw it on a fresh sheet. 3. Count again. 4. Ask them to explain the design.",
+     "do": "1. Ask your child to design a new cut or a plan for several years. 2. Draw it on a fresh sheet, or lay a ruler along the cut on the wrapped bottle. 3. Count again. 4. Ask them to explain the design.",
      "say": "Now design your own. How will you get plenty of latex and keep the tree alive for twenty years?",
-     "kid": "Design your own cut. Draw it. Count the lines. Explain why your tree will live.",
+     "kid": "Design your own cut. Count the lines it crosses. Explain why your tree will live.",
      "check": {
       "t": "mcq",
       "q": "Why does a rubber tapper never cut a complete ring round the trunk?",
@@ -2765,7 +2765,7 @@
     "Put the stiff parts near the outside and the wick inside, like a real stem.",
     "Make a taller stem of 20 centimetres, and time how much longer the colour takes."
    ],
-   "your_turn": "Now design your own stem. Draw it and label the transport part, the support part and the skin. Build it and test it. How tall is it, and how long did the colour take to reach the flower?",
+   "your_turn": "Now design your own stem. Say which part will carry water, which will hold it up and which will be the skin. Build it and test it. How tall is it, and how long did the colour take to reach the flower?",
    "setup": [
     {
      "art": "A strip of kitchen roll twisted into a wick being pushed through a drinking straw.",
@@ -2785,7 +2785,7 @@
      "id": "s1",
      "mins": 7,
      "do": "1. Stand a plain strip of kitchen roll in the coloured water and let go. 2. Watch what happens. 3. Ask what a stem needs that the strip does not have.",
-     "say": "The strip carries water, but it falls over. What three jobs does a real stem do?",
+     "say": "The strip carries water, but it falls over. A real stem has to do more than carry water.",
      "kid": "Stand a tissue strip in the water. Let go. What goes wrong? What does a stem need?",
      "ask": [
       {
@@ -2802,7 +2802,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Look at the usual ideas. 2. Build one stem at least 12 centimetres tall. 3. Stand it in the water with the coin and the flower on top. 4. Start the clock. 5. Measure the height of the colour every 5 minutes.",
+     "do": "1. Look at the usual ideas. 2. Build one stem at least 12 centimetres tall, with a small paper flower at the top. 3. Stand it in the water with the coin and the flower on top. 4. Start the clock. 5. Measure the height of the colour every 5 minutes.",
      "say": "Which part of your stem does the carrying? Which part does the holding up?",
      "kid": "Build a stem 12 centimetres tall. Add the coin and the flower. Start the clock.",
      "parent": "Kitchen roll carries water up 12 centimetres in roughly 5 to 20 minutes. Thin tissue is slower. A wick carries water by a different pull from a real xylem pipe, so this is a model of the jobs, not of the method.",

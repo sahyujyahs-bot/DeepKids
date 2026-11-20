@@ -871,7 +871,7 @@
      "mins": 2,
      "do": "1. Count the questions in your best round. 2. Halve 16 again and again until you reach 1, and count the halvings.",
      "say": "Each good question cuts the cards in half. How many halvings does it take to get from 16 cards to one?",
-     "kid": "Count the questions in your best round. Halve 16 until you reach 1. How many halvings was that?",
+     "kid": "Count the questions in your best round. Then halve 16 again and again until you reach 1.",
      "check": {
       "t": "mcq",
       "q": "Suppose every question cuts the cards exactly in half. How many yes-or-no questions do you need to get from 16 cards to one?",
@@ -894,7 +894,7 @@
    "title": "The Fan Test: do spores or seeds travel farther?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you drop haldi powder, which is about as fine as fern spores, and three kinds of seed in front of a fan. Then you measure how far each one travels.",
+   "context": "In this experiment you drop haldi powder, which is about as fine as fern spores, and three kinds of seed in front of a fan. You will find out whether tiny spores or heavier seeds travel farther in the wind. Then you measure how far each one travels.",
    "question": "In moving air, which travels farther: fine dust like spores, or seeds? And does the size of the seed matter?",
    "predict": "Guess first. You will drop haldi powder, mustard seeds and a rajma bean in front of a fan. Which will land farthest from where you dropped them? Which will land closest? Why do you think so? Write your guess and your reason.",
    "fair_test": "Drop everything from the same height, level with the middle of the fan, at the same spot just in front of it. Keep the fan at the same speed and in the same place. Only the thing you drop changes. Drop each one 3 times, because one try can be a fluke.",
@@ -943,7 +943,7 @@
      "what": "Lay the paper track. Drop each thing 3 times in front of the fan. Measure, find the averages and draw a bar chart."
     }
    ],
-   "record": "Fill in the table, then draw a bar chart with one bar for each thing you dropped. Write one sentence saying what you found (your claim), one giving the numbers that show it (your evidence) and one saying why you think it happened (your reasoning).",
+   "record": "Fill in the table, then make a bar chart, drawn or built from paper strips, with one bar for each thing you dropped. Write one sentence saying what you found (your claim), one giving the numbers that show it (your evidence) and one saying why you think it happened (your reasoning).",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: average distance travelled",
@@ -997,7 +997,7 @@
      "mins": 3,
      "do": "1. Show your child the haldi, the mustard and the rajma. 2. Ask for a guess and a reason for each. 3. Write the guesses down.",
      "say": "Which of these will travel farthest in the wind from the fan? Which will land closest? Why do you think so?",
-     "kid": "Look at the haldi, the mustard and the rajma. Which will go farthest? Why? Write your guess.",
+     "kid": "Look at the haldi, the mustard and the rajma. Which will go farthest? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1058,9 +1058,9 @@
     {
      "id": "s7",
      "mins": 6,
-     "do": "1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart. 3. Say what you found (your claim), which numbers show it (your evidence) and why you think it happened (your reasoning).",
+     "do": "1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart, or cut a strip of paper as long as each average. 3. Say what you found (your claim), which numbers show it (your evidence) and why you think it happened (your reasoning).",
      "say": "What did we find? Tell me your claim, the evidence from our numbers, and why you think it happened.",
-     "kid": "Add your three numbers. Divide by 3. Draw a bar for each thing. Say what you found and why.",
+     "kid": "Add your three numbers. Divide by 3. Make a bar for each thing, drawn or cut from paper. Say what you found and why.",
      "ask": [
       {
        "q": "A fern spore is about as fine as haldi. What does our test tell us about how ferns spread?",
@@ -1138,7 +1138,7 @@
      "what": "Measure the soaked cone after a day in the sun. Count the spirals on the dry cone."
     }
    ],
-   "record": "Fill in the table. Draw the wet cone and the dry cone side by side.",
+   "record": "Fill in the table. Take a photo of the wet cone and the dry cone side by side, or draw them.",
    "setup": [
     {
      "art": "A ruler held across the widest part of an open pine cone.",
@@ -1209,7 +1209,7 @@
    "title": "What Comes Out of the Brown Dots? (if you can get a fern leaf)",
    "mins": 20,
    "days": 2,
-   "context": "In this experiment you lay a fern leaf with brown dots on white paper overnight, to see what falls out. Ferns grow in many nursery pots and building gardens, and on damp walls.",
+   "context": "In this experiment you lay a fern leaf with brown dots on white paper overnight, to see what falls out. You will find out what the brown dots are. Ferns grow in many nursery pots and building gardens, and on damp walls.",
    "question": "What are the brown dots under a fern leaf, and what comes out of them?",
    "predict": "Guess first. If you leave a fern leaf with brown dots on white paper overnight, will anything appear on the paper? What will it look like, and why do you think so?",
    "fair_test": "Lay one leaf with dark brown dots and one leaf with no dots on the same kind of paper, under the same kind of bowl, for the same time. Then you can tell whether the dots made the difference.",
@@ -1250,7 +1250,7 @@
      "what": "Lift the bowls and look at what is on the paper. Look at the dust with a lens."
     }
    ],
-   "record": "Draw the pattern on the paper. Write what you saw under the lens.",
+   "record": "Take a photo of the paper, or draw the pattern. Write what you saw under the lens.",
    "setup": [
     {
      "art": "The underside of a fern frond with rows of dark brown dots, a hand lens above it.",
@@ -1279,7 +1279,7 @@
      "mins": 5,
      "do": "1. Lay each frond on white paper with the underside down. 2. Cover each with an upside-down bowl, so moving air cannot blow the dust away. 3. Leave them overnight.",
      "say": "The bowl keeps the air still. Tomorrow we'll see if anything fell out.",
-     "kid": "Put each leaf face down on white paper. Cover it with a bowl. Leave it overnight.",
+     "kid": "Put each leaf on white paper, with the brown dots down. Cover it with a bowl. Leave it overnight.",
      "wait": "Leave it overnight",
      "context": "This step of the brown dots experiment sets up two fern leaves on white paper to leave overnight."
     },
@@ -1340,7 +1340,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw a whole dhania seed and the two halves.",
+   "record": "Take a photo of a whole dhania seed and the two halves, or draw them.",
    "setup": [
     {
      "art": "A steel plate with dhania, mustard, jeera and a soaked rajma bean in small heaps.",
@@ -1356,7 +1356,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put the seeds on the plate. 2. Ask your child to press a dhania seed between finger and thumb until the seed splits. 3. Look at the two halves.",
-     "say": "Every one of these seeds came from a flower. Let's split a dhania seed. What do you see?",
+     "say": "Most of these seeds came from a flower. Let's split a dhania seed. What do you see?",
      "kid": "Press a dhania seed hard. Does it split? Look at the two halves.",
      "parent": "A dhania 'seed' is really a tiny dry fruit. The 'seed' splits into two halves, and each half holds one true seed. Jeera is a fruit in the same way.",
      "context": "This is the first step of Split a Dhania Seed. Here you split a coriander seed to see what is inside."
@@ -1374,7 +1374,7 @@
      "mins": 3,
      "do": "1. Line up a rajma, a mustard seed and a dhania seed, biggest to smallest. 2. Say that a fern spore is far smaller than all three. Ask what could fit inside a spore. 3. Write down your child's guess, so you can compare it with the results of the Fan Test.",
      "say": "A fern spore is much smaller than the smallest of these. What could fit inside something so small, and what could not?",
-     "kid": "A fern spore is smaller than all of these. What could fit inside it? What could not? Write your guess.",
+     "kid": "Line up the rajma, the mustard and the dhania, biggest to smallest. A fern spore is smaller than all three. What could fit inside it?",
      "ask": [
       {
        "q": "What could a spore not have room for?",
@@ -1404,7 +1404,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw your own key as a flow chart with yes and no arrows.",
+   "record": "Write or draw your own key with yes and no arrows, or explain it out loud to your grown-up.",
    "setup": [
     {
      "art": "A paper flow chart: Flowers? yes leads to Flowering plant, no leads to Cones? and so on to Fern and Moss.",
@@ -1420,7 +1420,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Copy this key onto paper. Question 1: Does the plant make flowers? Yes means a flowering plant. 2. Question 2: Does the plant make cones? Yes means a conifer or cycad. 3. Question 3: Does the plant have veins? Yes means a fern. No means a moss or relative.",
-     "say": "A key is a set of questions. Each answer sends you down one arrow. Let's draw one.",
+     "say": "A key is a set of questions. Each answer sends you down one arrow. Let's write one down.",
      "kid": "Copy the key. Each question has a yes arrow and a no arrow.",
      "context": "This is the first step of A Key for the Four Plant Groups. Here you copy a key that sorts plants into four groups."
     },
@@ -1444,7 +1444,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Ask your child to make a new key for the same plants. It should start with a different question, such as 'Does the plant make seeds?'. 2. Test it on every card. 3. Check that each plant still ends up in their group.",
+     "do": "1. Ask your child to make a new key for the same plants, on paper or just by asking questions aloud. It should start with a different question, such as 'Does the plant make seeds?'. 2. Test it on every card. 3. Check that each plant still ends up in their group.",
      "say": "Can you make a key that starts with a different question? Does your key still sort every plant correctly?",
      "kid": "Make your own key. Start with a new question. Test it on every card.",
      "parent": "A strong key asks about features that every plant either has or lacks, such as seeds or veins. Questions like 'Is the plant big?' fail, because 'big' means different things to different people.",
@@ -1471,11 +1471,11 @@
    "context": "In this activity you use a table of features to draw a family tree of five living beings: a green alga, a moss, a fern, a pine and a mango tree. It shows how botanists find who is related to whom.",
    "materials": [
     {
-     "item": "paper, a pencil and colours",
+     "item": "paper, a pencil, five slips of paper and a long piece of string",
      "qty": 1
     }
    ],
-   "record": "Draw the nested circles and the family tree.",
+   "record": "Take a photo of your loops and your family tree, or draw them.",
    "example_chart": {
     "type": "table",
     "title": "Features of five living beings",
@@ -1533,7 +1533,7 @@
    "setup": [
     {
      "art": "Five big nested circles drawn on paper, each labelled with a feature, with a mango drawn in the smallest one.",
-     "caption": "1. Draw nested circles, one for each feature."
+     "caption": "1. Make nested loops, one for each feature."
     },
     {
      "art": "A branching tree drawn from the circles, with alga, moss, fern, pine and mango at the tips.",
@@ -1544,9 +1544,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Read the table of features together. 2. Draw a big circle for 'makes food from sunlight' and put all five inside. 3. Inside it, draw a circle for 'lives on land'. 4. Keep drawing smaller circles for veins, seeds, then flowers.",
+     "do": "1. Read the table of features together. 2. Write each plant on a slip of paper. 3. Lay the string in a big loop on the floor for 'makes food from sunlight' and put all five slips inside. 4. Make a smaller loop inside it for 'lives on land'. 5. Add more loops for veins, seeds and flowers. Move each slip into the loops it belongs in.",
      "say": "Each feature is a circle. Who goes inside each one?",
-     "kid": "Draw a big circle for 'makes food from sunlight'. Put all five inside. Draw a smaller circle for each next feature.",
+     "kid": "Make a big string loop for 'makes food from sunlight'. Put all five slips inside. Make a smaller loop for each next feature.",
      "context": "This is the first step of Draw the Family Tree from Clues. Here you draw nested circles from a table of features."
     },
     {
@@ -1554,7 +1554,7 @@
      "mins": 8,
      "do": "1. Turn the circles into a tree: one trunk, and a branch splitting off at each new feature. 2. Put the alga on the first branch, then the moss, the fern, the pine, and the mango at the top. 3. Mark each split with the feature that appeared there.",
      "say": "Each time a new feature appears, the tree splits. The plants after the split all have it.",
-     "kid": "Draw a trunk. Make a branch for each new feature. Put each plant on their branch.",
+     "kid": "Make a trunk and a branch for each new feature. Draw them, or lay out your slips. Put each plant on their branch.",
      "ask": [
       {
        "q": "Which two are the closest relatives in your tree?",
@@ -1593,7 +1593,7 @@
    "title": "Hunt for Plants Without Flowers in the City",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you look for mosses, ferns and conifers near your home: on walls, in drains, in pots and in your building's garden. They are easiest to find in or after the monsoon.",
+   "context": "In this activity you find out which plants without flowers live near your home. You look for mosses, ferns and conifers near your home: on walls, in drains, in pots and in your building's garden. They are easiest to find in or after the monsoon.",
    "materials": [
     {
      "item": "a phone camera or a hand lens",
@@ -1635,7 +1635,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. At home, look at the photos together. 2. Use the key from A Key for the Four Plant Groups to sort each one. 3. Mark the places on a rough map of your building.",
+     "do": "1. At home, look at the photos together. 2. Use the key from A Key for the Four Plant Groups to sort each one. 3. Mark the places on a rough map of your building, or just tell where each one grew.",
      "say": "Where did we find the mosses? Where did we find the cone plants? Why there?",
      "kid": "Sort your photos into the groups. Mark where you found each one.",
      "ask": [
@@ -1696,9 +1696,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the moss in the strainer (or cloth) and push it into one tumbler. Rinse the strainer, put the soil in it and push it into the other tumbler. 2. Wait two minutes. 3. Lift each one out and hold it over its tumbler for one minute while it drips.",
+     "do": "1. Take the two tumblers, each with 200 ml of water. Put the moss in the strainer (or cloth) and push it into one tumbler. Rinse the strainer, put the soil in it and push it into the other tumbler. 2. Wait two minutes. 3. Lift each one out and hold it over its tumbler for one minute while it drips.",
      "say": "Which will hold more water, the moss or the soil? Why do you think so?",
-     "kid": "Guess which holds more water. Say why. Put the moss in a strainer and push it into one tumbler. Do the same with the soil. Wait. Lift each out and let it drip.",
+     "kid": "Push the moss into one tumbler of water. Push the soil into the other. Wait. Lift each one out and let it drip.",
      "context": "This is the first step of the Moss Sponge. Here you soak moss and dry soil in the same amount of water."
     },
     {
@@ -1770,9 +1770,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Draw small tongue-shaped leaves in green across all five lands. 2. Mark India's coalfields in Jharkhand, Odisha, Chhattisgarh and West Bengal.",
+     "do": "1. Put a few green dots on each of the five lands to show where Glossopteris fossils were found. 2. Mark India's coalfields in Jharkhand, Odisha, Chhattisgarh and West Bengal.",
      "say": "Glossopteris fossils are found on all five lands. Their seeds were too heavy to cross an ocean. What does that tell us?",
-     "kid": "Draw green leaves on all five lands. Mark where India's coal is.",
+     "kid": "Put green dots on all five lands. Mark where India's coal is.",
      "ask": [
       {
        "q": "How could the same plant grow in India and Antarctica?",
@@ -1816,7 +1816,7 @@
      "mins": 7,
      "do": "1. Write the two sides as headings. 2. Your child argues 'Mosses are lower plants' for two minutes. 3. You argue 'Not lower' for two minutes.",
      "say": "One side says mosses came first and are simpler, so they are lower. The other says every living plant has an equally long history. Let's argue.",
-     "kid": "Argue one side for two minutes. Use facts from the unit. Then listen to the other side.",
+     "kid": "Argue that mosses are 'lower' plants for two minutes. Use facts from the unit. Then listen to your grown-up argue 'not lower'.",
      "context": "This is the first step of the moss debate. Here each person argues one side."
     },
     {
@@ -1898,7 +1898,7 @@
      "what": "Compare the two jars and write a conclusion."
     }
    ],
-   "record": "Draw both jars every week. At the end, write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).",
+   "record": "Photograph or draw both jars every week. At the end, write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).",
    "setup": [
     {
      "art": "Two jars a quarter full of soil, one open and one covered with cling film, on a bright windowsill.",
@@ -1923,9 +1923,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Once a week, look at both jars through the glass, with a lens or phone zoom. 2. Draw what you see. 3. Do not open the jars.",
+     "do": "1. Once a week, look at both jars through the glass, with a lens or phone zoom. 2. Take a photo or draw what you see. 3. Do not open the jars.",
      "say": "Is anything growing yet? Is it green or white?",
-     "kid": "Look at both jars each week, through the glass. Draw what you see. Do not open them.",
+     "kid": "Look at both jars each week, through the glass. Take a photo or draw what you see. Do not open them.",
      "wait": "Look again in 7 days",
      "parent": "Over 2 to 4 weeks, a green film of algae or young moss, or white fluffy mould, often appears. Mould is a fungus, which also grows from spores. If nothing grows in either jar, that is a real result too: say so.",
      "context": "This step of the Green Jar is the weekly check, to see whether anything grows from spores."
@@ -1935,7 +1935,7 @@
      "mins": 10,
      "do": "1. Compare the jars on day 28. 2. Write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).",
      "say": "What did jar A, the open jar, catch that jar B, the closed jar, did not? What does that tell us about the air?",
-     "kid": "Compare the jars. What grew in each? What does that tell you about the air?",
+     "kid": "Compare the jars. What grew in each?",
      "ask": [
       {
        "q": "Where did the green come from?",
@@ -1980,7 +1980,7 @@
     "Try two small wings instead of one large one, and compare.",
     "Wrap the chana in a light paper cone, like a shuttlecock."
    ],
-   "your_turn": "Now design your own flying seed. Draw it, build it and test it 3 times. Did it beat the bare chana? By how many centimetres?",
+   "your_turn": "Now design your own flying seed. Build it and test it 3 times. Did it beat the bare chana? By how many centimetres?",
    "setup": [
     {
      "art": "A chana taped under a paper wing, beside a chana with a cotton tuft.",
@@ -2070,9 +2070,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Choose three questions. 2. Draw a picture for each. 3. Add yes and no arrows.",
+     "do": "1. Choose three questions. 2. Show each with a drawing, a photo or a real leaf. 3. Add yes and no arrows.",
      "say": "A good key works for anyone. Which questions can a six-year-old answer just by looking?",
-     "kid": "Pick three questions. Draw a picture for each. Add yes and no arrows.",
+     "kid": "Pick three questions. Show each with a picture or a real leaf. Add yes and no arrows.",
      "context": "This is the first step of the picture key challenge. Here you design a key with pictures."
     },
     {

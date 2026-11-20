@@ -638,7 +638,7 @@
      "id": "s2",
      "mins": 13,
      "do": "Play through the pile. After each answer, ask the player which clue on the card decided it.",
-     "say": "Read the card and wait ten seconds. Then say go. After the answer, tell us which clue decided it: the food, the hours, the warmth or the person.",
+     "say": "Read the card and wait ten seconds. Then say go.",
      "kid": "Hold up your fingers on go. Say what you would change, or why you stop.",
      "ask": [
       {
@@ -659,7 +659,7 @@
      "mins": 4,
      "do": "Count the points. Lay out all the STOP cards together and ask the question below.",
      "say": "Look at the stop cards. Could you have seen or smelled the problem in every one of them? Which ones give no sign at all?",
-     "kid": "Count your points. Which stop cards give no sign you can see or smell?",
+     "kid": "Count your points. Look at the stop cards.",
      "check": {
       "t": "mcq",
       "q": "Rice was kept warm for twelve hours and then reheated until it steamed. Why is it still a STOP?",
@@ -803,7 +803,7 @@
      "mins": 3,
      "do": "Cut out the cards and read the rules. Before you deal, ask which food in the kitchen your child thinks keeps longest, and why.",
      "say": "Which food in our kitchen do you think keeps the longest? Which spoils the fastest? What makes you think so?",
-     "kid": "Which food keeps longest? Which spoils fastest? Say why you think so.",
+     "kid": "Guess which food keeps longest and which spoils fastest.",
      "context": "This is the first step of the Keep Line. You guess which foods keep longest before you play."
     },
     {
@@ -819,8 +819,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at the finished line together. Ask the questions below.",
-     "say": "Look at the left end and the right end of the line. What are the foods on the left like? What are the foods on the right like?",
-     "kid": "Look at both ends of the line. How are the two ends different?",
+     "say": "Look at the left end and the right end of the line.",
+     "kid": "Compare the two ends of the line.",
      "ask": [
       {
        "q": "What do the foods at the left end have in common?",
@@ -996,7 +996,7 @@
      "mins": 5,
      "do": "Check the thermometer in a cup of hot tap water. Most digital fever thermometers show HI or H above about 43 degrees Celsius. Then ask for the guess and the reason, and write both down.",
      "say": "I will put the same hot rice in this bowl and on this plate. Which will cool first, and by how many minutes? Will the edge of the bowl cool with the middle? Why do you think so?",
-     "kid": "Hot rice goes in a bowl and on a plate. Which cools first? Why do you think so?",
+     "kid": "Guess which one cools first, and say why.",
      "ask": [
       {
        "q": "Where does the heat of the rice go when the rice cools?",
@@ -1015,7 +1015,7 @@
      "mins": 5,
      "do": "1. Take the rice straight from the cooker. 2. Press 2 cups into the deep bowl, up to the top. 3. Spread 2 cups on the plate, about as thick as your finger. 4. Start the clock.",
      "say": "I am filling the bowl to the top and pressing the rice down. Now I am spreading the same amount on the plate, as thick as a finger. The clock starts now.",
-     "kid": "A grown-up fills the bowl and spreads the plate. Start the clock.",
+     "kid": "Watch the grown-up fill the bowl and spread the plate. Press start on the clock.",
      "adult": true,
      "parent": "Work fast, so that both lots start equally hot. Keep them side by side, away from a fan.",
      "context": "In this step of Deep or Shallow a grown-up puts hot rice in a bowl and on a plate."
@@ -1063,8 +1063,8 @@
      "id": "s6",
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your three columns. Say what you thought would happen, what you saw, and why you think it happened. Why was the middle of the bowl the last place to cool?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "say": "Look at your three columns. Say what you thought would happen, what you saw, and why you think it happened.",
+     "kid": "Point to the first number in each column. Tell your grown-up what you saw.",
      "ask": [
       {
        "q": "Why did the middle of the bowl stay hot the longest?",
@@ -1094,7 +1094,7 @@
    "title": "Three Sealed Bags: which microbes spoil which food?",
    "mins": 45,
    "days": 6,
-   "context": "In this six-day experiment you seal damp bread, wet rice, a lemon slice and dry toast in clear bags. You watch which bag changes first and what the change looks like. It shows that different microbes spoil different foods.",
+   "context": "In this six-day experiment you seal damp bread, wet rice, a lemon slice and dry toast in clear bags. You watch which bag changes first and what the change looks like. You will find out whether all foods spoil in the same way.",
    "question": "Damp bread, wet cooked rice, a slice of lemon and a piece of dry toast are sealed in clear bags. Which changes first? Do they all spoil in the same way?",
    "predict": "Before you start, guess. Which bag will change first, and which last? What will each food look like when it spoils: fuzzy, slimy, or something else? Why do you think so?",
    "fair_test": "Use four bags of the same kind and size. Leave all four foods open on one plate for the same 30 minutes, so the same air reaches them. Keep the sealed bags side by side in the same warm, shaded place. Look at the same time each day. Only one thing changes: the food in the bag.",
@@ -1170,7 +1170,7 @@
      "what": "Make the last record. Say what the bags show, and throw them away sealed."
     }
    ],
-   "record": "Make a page for each day. Draw the four bags. Beside each write what you see: no change, wet, slimy, a coloured patch, fuzz, or a puffed bag. Note the day of the first change for each bag.",
+   "record": "Make a page for each day. List the four bags, A to D. Beside each write what you see: no change, wet, slimy, a coloured patch, fuzz, or a puffed bag. Note the day of the first change for each bag.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1226,7 +1226,7 @@
      "mins": 15,
      "do": "Day 1. Ask for the guess and the reasons, and write them down. Sprinkle half a teaspoon of water on the bread and one teaspoon on the rice. Leave the four foods open for 30 minutes. Then seal each in a labelled bag and tape it shut. Keep the bags in a warm, shaded place.",
      "say": "We will seal four foods in four bags. Which will change first? What will each look like when it spoils? Why do you think so?",
-     "kid": "Four foods go in four bags. Which spoils first? What will it look like? Why?",
+     "kid": "Guess which bag spoils first, what it will look like, and why.",
      "ask": [
       {
        "q": "We add no microbes. Where will the microbes in the bags come from?",
@@ -1243,9 +1243,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Days 2 to 5. Look at each bag at the same time each day, without opening it. Hold the magnifying glass to any spot. Your child draws or writes what they see.",
+     "do": "Days 2 to 5. Look at each bag at the same time each day, without opening it. Hold the magnifying glass to any spot. Your child tells you what they see, or writes it.",
      "say": "Look closely through the bag. Is anything wet, shiny, coloured or fuzzy? Has the bag puffed up? Write down what you see, even if nothing has changed.",
-     "kid": "Look through each bag. Do you see slime, colour, fuzz or a puffed bag? Write it down.",
+     "kid": "Look through each bag. Do you see slime, colour, fuzz or a puffed bag? Tell your grown-up, or write it down.",
      "wait": "Look once a day for the next four days",
      "check": {
       "t": "mcq",
@@ -1266,7 +1266,7 @@
      "mins": 10,
      "do": "Day 6. Make the last record. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below. Then throw the sealed bags into the dustbin.",
      "say": "Look at your six days of records. Say what you thought would happen, what you saw, and why you think it happened. Why did the rice and the bread not spoil in the same way?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look through your six days of records. Point to the first change in each bag.",
      "wait": "Do this on day 6",
      "ask": [
       {
@@ -1297,7 +1297,7 @@
    "title": "Dry Enough? The salt jar test for stored rice",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you shake dry salt with rice in closed jars. If the rice is too damp to store, the salt takes up the damp and sticks. Farmers use this test before they store grain. The experiment has a wait of 45 minutes in the middle.",
+   "context": "In this experiment you find out whether rice that looks dry is really dry. You shake dry salt with rice in closed jars. If the rice is too damp to store, the salt takes up the damp and sticks. Farmers use this test before they store grain. The experiment has a wait of 45 minutes in the middle.",
    "question": "Rice from the dabba is dry. A second lot of rice has been wetted a little and now looks dry again. Can dry salt in a closed jar show which rice is too damp to store?",
    "predict": "Before you start, guess. After the wetted rice looks dry again, will it behave like the dabba rice? What will the salt do in each jar? Why do you think so?",
    "fair_test": "Use three jars of the same size, all completely dry. Put the same amount of rice, half a cup, and the same amount of salt, one tablespoon, in each. Shake each jar for the same time and wait the same time. Only one thing changes: the rice in the jar.",
@@ -1344,7 +1344,7 @@
      "what": "Wet half a cup of rice a little and let it dry for 45 minutes. Then shake three lots of grain with dry salt in jars, and read the result."
     }
    ],
-   "record": "Draw the three jars. Under each write what is in it, and what the salt did: ran freely, formed lumps, or stuck to the glass.",
+   "record": "Write A, B and C. Beside each write what is in the jar, and what the salt did: ran freely, formed lumps, or stuck to the glass.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1433,7 +1433,7 @@
      "mins": 15,
      "do": "Stand the jars for 15 minutes. Then tilt and turn each jar slowly. Look at the salt on the glass and among the grains. Write what you see. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read the note below.",
      "say": "Tilt each jar slowly. Does the salt run like dry sand, or does it stick to the glass? Say what you thought would happen, what you saw, and why you think it happened.",
-     "kid": "Tilt each jar. Does the salt run or stick? Say what you thought, what you saw, and why.",
+     "kid": "Tilt each jar slowly. Watch what the salt does.",
      "ask": [
       {
        "q": "The wetted rice looked dry. What did the salt show?",
@@ -1516,7 +1516,7 @@
      "mins": 3,
      "do": "Read the list together. Sort the foods into groups by what happened to them. Then read out the five ways in the note below, and match each group to one.",
      "say": "Sort your foods into groups. Which ones were lost in the same way? How many ways have you found?",
-     "kid": "Sort your foods into groups. How many ways of being lost did you find?",
+     "kid": "Put the foods that were lost in the same way together.",
      "check": {
       "t": "mcq",
       "q": "An onion in the basket has grown a green shoot. In which way was this onion lost?",
@@ -1538,7 +1538,7 @@
    "title": "Three Clocks: ten bacteria at three temperatures",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you fill in a table and draw a graph. They show how many bacteria ten bacteria become in six hours. You compare a warm kitchen, a cool room and a fridge.",
+   "context": "You will find out how fast ten bacteria multiply in six hours. You fill in a table and draw a graph for a warm kitchen, a cool room and a fridge.",
    "materials": [
     {
      "item": "a notebook page, or squared paper",
@@ -1632,7 +1632,7 @@
    "title": "Tiffin Timeline: how many hours does one meal spend warm?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw a time line for one real meal, from the stove to the mouth. You count the hours the food spends in the danger zone, between 5 and 60 degrees Celsius.",
+   "context": "In this activity you draw a time line for one real meal, from the stove to the mouth. You count the hours the food spends in the danger zone, between 5 and 60 degrees Celsius. You will find out how long your own food really waits.",
    "materials": [
     {
      "item": "a long strip of paper, or two notebook pages side by side",
@@ -1662,7 +1662,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Choose one real meal: a school or office lunch box, food for a journey, or dinner leftovers eaten the next day. Draw the line and mark the three times.",
+     "do": "Choose one real meal: a school or office lunch box, food for a journey, or dinner leftovers eaten the next day. Draw the line, or lay out a row of coins, one for each hour. Mark the three times.",
      "say": "Think of one meal that was not eaten straight after cooking. When was it cooked? When was it packed or put away? When was it eaten?",
      "kid": "Choose a meal that waited before it was eaten. Mark when it was cooked and eaten.",
      "context": "This is the first step of Tiffin Timeline. You draw a time line for one real meal."
@@ -1680,8 +1680,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Ask what protected the food during the red hours. Then ask your child for two changes that would cut the red hours or protect the food better.",
-     "say": "Your lunch spent many hours warm, and you were not ill. What protected it? Now think of two changes that would make it safer still.",
-     "kid": "What protected your food in the warm hours? Think of two changes to make it safer.",
+     "say": "Look at the red hours. What protected the food while it was warm? Now think of two changes that would make it safer.",
+     "kid": "Tell your grown-up two changes that would make the food safer.",
      "ask": [
       {
        "q": "What can protect food that must spend hours warm?",
@@ -1722,7 +1722,7 @@
    "title": "Two Milks: why one needs the fridge and one does not",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you compare a pouch of pasteurised milk with a carton of UHT milk. Then you draw the cold chain that brings the pouch to your home.",
+   "context": "In this activity you compare a pouch of pasteurised milk with a carton of UHT milk. You will find out why only one needs the fridge. Then you lay out the cold chain that brings the pouch to your home.",
    "materials": [
     {
      "item": "a pouch of pasteurised milk, or its empty packet",
@@ -1737,7 +1737,7 @@
      "qty": 1
     }
    ],
-   "record": "Make a table with two columns, pouch and carton. Write how each was heated, where it is kept, and how long it keeps before and after opening. Under the table, draw the cold chain as a row of linked boxes.",
+   "record": "Make a table with two columns, pouch and carton. Write how each was heated, where it is kept, and how long it keeps before and after opening. Under the table, write the cold chain as a row of seven names, or take a photo of your row of slips.",
    "setup": [
     {
      "art": "A milk pouch and a milk carton side by side on a table, with a child reading the small print on the carton.",
@@ -1745,7 +1745,7 @@
     },
     {
      "art": "A row of six linked boxes drawn in a notebook: a buffalo, a village cooler, a tanker, a dairy, a delivery van and a home fridge.",
-     "caption": "2. Draw the cold chain of the pouch, from the animal to your fridge."
+     "caption": "2. Lay out the cold chain of the pouch in a row, from the animal to your fridge."
     }
    ],
    "flow": [
@@ -1762,8 +1762,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Fill in the table together, using the note below. Then ask what happens to each milk once it is opened.",
-     "say": "The pouch milk was heated to 72 degrees for 15 seconds. The carton milk was heated to about 140 degrees for a few seconds. Which heating would kill tough spores? What changes when the carton is opened?",
-     "kid": "Pouch milk was heated to 72 degrees. Carton milk was heated to 140. Which kills spores?",
+     "say": "The pouch milk was heated to 72 degrees for 15 seconds. The carton milk was heated to about 140 degrees for a few seconds. Spores are tough bacteria that survive ordinary heat. Which heating would kill them? What changes when the carton is opened?",
+     "kid": "Fill in the table for both milks.",
      "ask": [
       {
        "q": "Why does an opened carton need the fridge?",
@@ -1791,9 +1791,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child draws the cold chain of the pouch as linked boxes: the animal, the village cooler, the tanker, the dairy, the delivery van, the shop and the home fridge. Ask which link is most likely to break.",
-     "say": "Draw every cold place the pouch passed through, from the cow or buffalo to our fridge. Which link do you think is the weakest? Why?",
-     "kid": "Draw every cold place the milk passed through. Which link is the weakest?",
+     "do": "Your child lays out the cold chain of the pouch as a row of seven slips of paper, one for each link: the animal, the village cooler, the tanker, the dairy, the delivery van, the shop and the home fridge. Ask which link is most likely to break.",
+     "say": "Name every cold place the pouch passed through, from the cow or buffalo to our fridge. Lay them in a row.",
+     "kid": "Put the cold places in order, from the animal to the fridge.",
      "ask": [
       {
        "q": "Which link in the cold chain is most likely to break?",
@@ -1842,7 +1842,7 @@
      "mins": 5,
      "do": "Draw the table. The five people: a baby of 8 months, a pregnant aunt, a grandmother of 80, a cousin recovering from typhoid, and your child. Ask the question below.",
      "say": "Five people will eat at our table. Who do you think is most easily harmed by unsafe food? What is it about their body that makes you think so?",
-     "kid": "Five people come to eat. Who is harmed most easily by unsafe food? Why?",
+     "kid": "Look at the five people. Point to the one you think is harmed most easily.",
      "parent": "The eight dishes: hot idli with sambar. Honey on a dosa. Raw sprouted moong salad. Yesterday's rice from the fridge. Fruit cut at a street stall. Milk that has not been boiled. A soft-boiled egg. Curd rice made this morning.",
      "context": "This is the first step of Five at the Table. You guess which people need extra care with food."
     },
@@ -1989,9 +1989,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "Day 7. Add up the katoris. Add them up again for each reason, and draw a bar chart. Compare the total with the guess. Then your child chooses one change to try, and says why it should work.",
+     "do": "Day 7. Add up the katoris. Add them up again for each reason, and draw a bar chart, or make a tally for each reason. Compare the total with the guess. Then your child chooses one change to try, and says why it should work.",
      "say": "Add up the week. Which reason has the tallest bar? Was your guess close? Now choose one change in how we store or cook food, and tell me why it should work.",
-     "kid": "Add up the week. Draw the bars. Which is tallest? Choose one change to try.",
+     "kid": "Add up the katoris. Draw the bars. Choose one change to try.",
      "wait": "Do this on day 7",
      "ask": [
       {
@@ -2043,7 +2043,7 @@
     "Fill a clean steel tumbler with cold water and stand it in the middle of the food. Change the water when it warms.",
     "Press the food into a ring with a hole in the middle. Then no part is far from a surface."
    ],
-   "your_turn": "Now invent your own way and test it. Draw your design, write the time it took, and say which part of the design carried the most heat away.",
+   "your_turn": "Now invent your own way and test it. Show your design (draw it, or take a photo), write the time it took, and say which part of the design carried the most heat away.",
    "setup": [
     {
      "art": "A bowl heaped with steaming rice beside a clock, with a child looking at an empty tub, some steel plates and a fan.",
@@ -2095,8 +2095,8 @@
      "id": "s4",
      "mins": 7,
      "do": "Compare the time with Deep or Shallow. Ask the questions below. If there is time, change one thing and try again.",
-     "say": "Did the thickest part fall below 43 degrees in fifteen minutes? Which part of your design carried the most heat away? What would you change for a pot of thirty kilos?",
-     "kid": "Did you beat fifteen minutes? What carried the most heat away? What would you change?",
+     "say": "Did the thickest part fall below 43 degrees in fifteen minutes? Which part of your design carried the most heat away?",
+     "kid": "Compare your time with fifteen minutes.",
      "ask": [
       {
        "q": "How would a wedding cook use your idea for 30 kilograms of dal?",
@@ -2141,7 +2141,7 @@
     "Keep a dated list on the fridge door of what is inside. Cross food off as it is eaten.",
     "Plan one 'clear the fridge' meal each week, such as a mixed vegetable kootu or fried rice."
    ],
-   "your_turn": "Now design your own system and set it up. Draw it, explain it to your family in three sentences, and run it for one week.",
+   "your_turn": "Now design your own system and set it up. Explain it to your family in three sentences, and run it for one week.",
    "setup": [
     {
      "art": "An open fridge crowded with boxes, with a small covered bowl hidden at the back behind a milk packet.",
@@ -2158,7 +2158,7 @@
      "mins": 8,
      "do": "Open the fridge and one shelf together. Your child finds the three oldest foods, and the places where food is hard to see. Ask the question below.",
      "say": "Find the three oldest foods here. How did you know they were the oldest? Where does food hide in our kitchen?",
-     "kid": "Find the three oldest foods. How do you know? Where does food hide?",
+     "kid": "Find the three oldest foods. Point to where food hides.",
      "ask": [
       {
        "q": "Why is the oldest food usually at the back?",
@@ -2174,9 +2174,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Your child designs the system on paper, then builds it: a marked box or shelf, dates on tape, and a rule for where new food goes. Check it against the five limits in the problem.",
-     "say": "Draw your system first. Then build it. I will check it against the five limits. Would a visitor understand it without being told?",
-     "kid": "Draw your system. Build it. Would a visitor understand it?",
+     "do": "Your child plans the system out loud or on paper, then builds it: a marked box or shelf, dates on tape, and a rule for where new food goes. Check it against the five limits in the problem.",
+     "say": "Tell me your plan first. Then build it. I will check it against the five limits. Would a visitor understand it without being told?",
+     "kid": "Plan your system. Then build it.",
      "parent": "Keep raw fish, meat and eggs on the lowest shelf even if they are the oldest. A note on the eat-me-first box can point to them.",
      "context": "In this step of the Eat-Me-First Shelf you design and build your system."
     },
@@ -2185,7 +2185,7 @@
      "mins": 7,
      "do": "Your child explains the system to someone else at home in three sentences. Then ask the question below, and agree a day next week to check how it worked.",
      "say": "Explain your system to the family in three sentences. How will we know in a week whether it worked?",
-     "kid": "Explain your system in three sentences. How will you know it worked?",
+     "kid": "Explain your system in three sentences.",
      "ask": [
       {
        "q": "How will you know whether the system worked?",

@@ -762,7 +762,7 @@
           "mins": 4,
           "do": "1. Draw the board and copy the key. 2. Put the 6 beans on START. 3. Ask for two guesses. How many rounds until every quarter holds a bean? Will all 6 beans ever be back in the START quarter?",
           "say": "Nobody will tell these beans where to go. The die decides. Will they spread over the whole board? Will they ever all come back to the START quarter?",
-          "kid": "Draw the board. Put 6 beans on START. Guess how many rounds they need to fill the box. Will they ever all come back?",
+          "kid": "Draw the board. Put 6 beans on START. Make your two guesses.",
           "context": "This is the first step of Bean Gas. Here you set up the board and guess what the beans will do."
         },
         {
@@ -779,7 +779,7 @@
           "mins": 6,
           "do": "1. Play 10 more rounds. 2. After each one, write how many beans are in the START quarter. 3. Ask whether the beans ever all went back, and why not.",
           "say": "Look at your ten numbers. The beans were free to go back to START at any time. Why did they not all go back together?",
-          "kid": "Play 10 more rounds. Count the beans in the START quarter each time. Did all 6 ever go back? Why not?",
+          "kid": "Play 10 more rounds. Count the beans in the START quarter each time.",
           "parent": "The START quarter usually holds 1 or 2 beans, sometimes none or 3. Each bean has 1 chance in 4 of being there. The chance that all 6 are there at once is 1 in 4,096. Real gas particles also move by chance. A room holds so many that its air never gathers in one corner.",
           "check": {
             "t": "mcq",
@@ -860,7 +860,7 @@
           "what": "Make the hanger balance. Test a balloon of air. Make carbon dioxide in a balloon. Hang the two balloons, swap them, and race them to the floor."
         }
       ],
-      "record": "Fill in the table. Draw the hanger with the two balloons and show which end was lower. Then write what you thought would happen, what you saw, and why you think it happened.",
+      "record": "Fill in the table. Show which end of the hanger was lower. Draw it, or take a photo. Then write what you thought would happen, what you saw, and why you think it happened.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: how far one end of the hanger dropped",
@@ -918,7 +918,7 @@
           "mins": 5,
           "do": "1. Ask for the first guess and its reason. 2. Untie one balloon. Blow it up, by mouth or with a pump, until it is about 50 cm round, and knot it. 3. Hang it back on its thread. 4. Wait until the hanger is still. 5. Measure how far the end has moved from the pencil mark.",
           "say": "One balloon will be full of air and the other flat. Which end will go down, or will the hanger stay level? Why do you think so?",
-          "kid": "Guess first. Will the full balloon pull its end down? Say why. Blow up one balloon. Hang it back. Wait until it is still. Look at the mark.",
+          "kid": "Blow up one balloon. Hang it back on its thread. Wait until it is still. Look at the mark.",
           "ask": [
             {
               "q": "Why do you think so?",
@@ -937,7 +937,7 @@
           "mins": 3,
           "do": "1. Show the vinegar, the baking soda and the bottle. 2. Say that they will make a gas called carbon dioxide, and that the gas will fill the third balloon. 3. Ask for the second guess and its reason. 4. Write both guesses down.",
           "say": "Next we fill a balloon with a different gas, and make it the same size as the air balloon. Which of the two will be heavier, or will they match? Why?",
-          "kid": "Now a new gas goes in the other balloon. Both balloons will be the same size. Which end will go down? Say why. Write your guess.",
+          "kid": "A new gas will go in the other balloon. Both balloons will be the same size. Write your guess down.",
           "ask": [
             {
               "q": "Why do you think so?",
@@ -955,7 +955,7 @@
           "mins": 8,
           "do": "1. Pour 150 ml of vinegar into the dry bottle. 2. Use the paper funnel to put 3 level teaspoons of baking soda into a flat balloon. 3. Stretch the balloon's neck over the bottle mouth, with the balloon hanging to one side. 4. Hold the neck on tightly. Lift the balloon, and shake the soda down a little at a time. 5. Swirl the bottle gently until the fizzing stops, in about 2 minutes.",
           "say": "Vinegar is a liquid, and baking soda is a solid. Watch what happens when they meet. What is filling the balloon?",
-          "kid": "Put the soda in the balloon. Fit the balloon on the bottle. Tip the soda in slowly. Watch the balloon grow. What is filling it?",
+          "kid": "Put the soda in the balloon. Fit the balloon on the bottle. Tip the soda in slowly. Watch the balloon grow.",
           "adult": true,
           "ask": [
             {
@@ -1000,7 +1000,7 @@
           "id": "s8",
           "mins": 6,
           "do": "1. Look at the table together. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. After they have answered, read them the explanation in the note below.",
-          "say": "Look at your results. Say what you thought would happen, what you saw, and why it happened. Why did the air balloon add almost nothing, when air has mass?",
+          "say": "Look at your results. Say what you thought would happen, what you saw, and why it happened.",
           "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
           "ask": [
             {
@@ -1132,7 +1132,7 @@
           "mins": 9,
           "do": "1. Pour 100 ml of vinegar into the fizzy-drink bottle. 2. Wrap 2 level teaspoons of baking soda in the tissue and twist it shut. 3. Put the bottle, its cap and the packet on the scale. Write down the mass. 4. Drop the packet into the bottle and screw the cap on tight at once. 5. Swirl the bottle until the fizzing stops, and put it back on the scale. Write down the mass. 6. Open the cap slowly, wait one minute, and weigh the bottle and cap again.",
           "say": "This time the gas cannot get out. What does the scale say after the fizz? Now listen as I open the cap, and read the scale again.",
-          "kid": "A grown-up fizzes the mix in a closed bottle. Read the scale. Did the number change? Now the cap opens. Listen. Read the scale again.",
+          "kid": "Fizz the mix in the closed bottle. Read the scale. Did the number change? Now open the cap slowly. Listen. Read the scale again.",
           "adult": true,
           "parent": "With the cap on, the mass stays the same to the gram, and the bottle goes hard. When the cap opens you hear the gas rush out, and the mass usually falls by 2 to 3 grams. Some carbon dioxide stays in the bottle, so the fall may be a little smaller than in the tumbler.",
           "context": "This step of Weigh the Fizz does the same fizz in a closed bottle. You weigh it before and after the cap is opened."
@@ -1335,7 +1335,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw the two tumblers under water, and show where the air was before and after.",
+      "record": "Show where the air was before and after. Draw the two tumblers under water, or tell your grown-up.",
       "setup": [
         {
           "art": "A hand pushing an upside-down clear tumbler straight down into a bucket of water, with the inside of the tumbler still full of air.",
@@ -1355,7 +1355,7 @@
           "id": "s1",
           "mins": 3,
           "do": "1. Hold tumbler A upside down. 2. Push it straight down until it is under the water. 3. Look through its side.",
-          "say": "This tumbler looks empty. Push it under the water, mouth down. What do you see inside it? What is keeping the water out?",
+          "say": "This tumbler looks empty. Push it under the water, mouth down. What do you see inside it?",
           "kid": "Hold one tumbler upside down. Push it straight down into the water. Look through its side. Is it full of water?",
           "ask": [
             {
@@ -1382,7 +1382,7 @@
           "mins": 3,
           "do": "1. Lift both tumblers out. 2. Ask your child what moved from A to B, and how they know it takes up space.",
           "say": "You moved something from A to B. What was it? How do you know it takes up space?",
-          "kid": "Something moved from A to B. What was it? How do you know it takes up space?",
+          "kid": "Lift both tumblers out. Tell your grown-up what moved from A to B.",
           "think": "You poured air upwards through water. Which way would you pour a gas that is heavier than air?",
           "check": {
             "t": "mcq",
@@ -1424,7 +1424,7 @@
         }
       ],
       "safety": "A grown-up lights the agarbatti and puts it out in water afterwards. Do this near an open window, and do not breathe the smoke.",
-      "record": "Draw the two jars at the start and after 3 minutes. Shade where the smoke is.",
+      "record": "Show where the smoke is at the start and after 3 minutes. Draw the two jars and shade the smoke, or take a photo of each.",
       "setup": [
         {
           "art": "An upside-down glass jar held over a smoking agarbatti, filling with grey smoke.",
@@ -1445,7 +1445,7 @@
           "mins": 4,
           "do": "1. Light the agarbatti. 2. Hold jar A upside down over the smoke for about 20 seconds, until it looks grey. 3. Slide the card under its mouth. 4. Put the agarbatti out in the water. 5. Stand jar A, still on its card, mouth to mouth on top of jar B.",
           "say": "The smoke is in the top jar only. In a moment I will pull out the card. Where will the smoke go? Why do you think so?",
-          "kid": "A grown-up fills the top jar with smoke. The card keeps it there. Where will the smoke go when the card comes out? Say why.",
+          "kid": "A grown-up fills the top jar with smoke. The card keeps it there.",
           "adult": true,
           "ask": [
             {
@@ -1473,7 +1473,7 @@
           "mins": 2,
           "do": "1. Ask your child to say what they saw and why. 2. Then read them the note below.",
           "say": "Say what you saw the smoke do. Why do you think it did that?",
-          "kid": "Say what the smoke did. Say why you think it did that.",
+          "kid": "Tell your grown-up what the smoke did, and why.",
           "parent": "Smoke is tiny solid and liquid bits floating in the air, and they go where the air goes. The gas in the top jar spread into all the space it was given. The same smoke in twice the space looks thinner.",
           "check": {
             "t": "mcq",
@@ -1609,7 +1609,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw a square of 100 small squares. Colour 78 one colour for nitrogen, 21 another colour for oxygen and 1 a third colour for argon.",
+      "record": "Lay your 100 grains in a square of 10 rows of 10. Keep the rice, the dal and the peppercorn each in their own part. Take a photo, or colour a paper square of 100 small squares the same way.",
       "setup": [
         {
           "art": "A steel plate with a heap of 78 rice grains, a small heap of 21 yellow dal grains and one black peppercorn.",
@@ -1630,7 +1630,7 @@
           "mins": 5,
           "do": "1. Ask the question below before any counting. 2. Then count 78 grains of rice in tens. 3. Count 21 grains of dal. 4. Add one peppercorn.",
           "say": "Air is a mixture of gases. Out of 100 particles of air, how many do you think are oxygen? Why do you think so?",
-          "kid": "Guess first. In 100 particles of air, how many are oxygen? Say why. Now count 78 rice, 21 dal and 1 peppercorn.",
+          "kid": "Count 78 rice, 21 dal and 1 peppercorn into three small piles.",
           "ask": [
             {
               "q": "Why do you think so?",
@@ -1648,7 +1648,7 @@
           "mins": 4,
           "do": "1. Say that rice stands for nitrogen, dal for oxygen and the peppercorn for argon. 2. Stir the grains together with a finger. 3. Ask your child to point to where the oxygen is.",
           "say": "The rice is nitrogen, the dal is oxygen, and the peppercorn is argon. Mix them well. Now, where on the plate is the oxygen?",
-          "kid": "Rice is nitrogen. Dal is oxygen. The peppercorn is argon. Mix them all. Where is the oxygen now?",
+          "kid": "Rice is nitrogen. Dal is oxygen. The peppercorn is argon. Mix them all with a finger. Then try to point to the oxygen.",
           "ask": [
             {
               "q": "About what fraction of the air is oxygen?",
@@ -1746,7 +1746,7 @@
           "kid": "Measure one coin. Multiply by 12. Put the coins that far apart, in 4 rows of 4. Measure the whole square.",
           "ask": [
             {
-              "q": "What is between the coins in the gas picture?",
+              "q": "What is in the gaps between the gas coins?",
               "good": [
                 "Nothing.",
                 "Empty space. It is not air, because the coins are the gas."
@@ -1761,7 +1761,7 @@
           "mins": 4,
           "do": "1. Put a long book on each side of the gas square, as walls. 2. Push the walls in until the gaps between the coins are halved. 3. Now try to push walls in on the liquid block.",
           "say": "Push the walls in on the gas. Can the particles move closer? Now try the liquid. What is different?",
-          "kid": "Push the walls in on the gas coins. Do they move closer? Now try the liquid coins. What is different?",
+          "kid": "Push the walls in on the gas coins. Then push them in on the liquid coins. Watch the gaps.",
           "parent": "Cooking gas in a cylinder is squashed until its particles touch. At that point it has become a liquid.",
           "check": {
             "t": "mcq",
@@ -1829,8 +1829,8 @@
           "id": "s2",
           "mins": 3,
           "do": "1. Say that a full home cylinder holds 14.2 kg of gas. The bill usually says so. 2. Ask your child to add the two numbers. 3. Ask the question below.",
-          "say": "A full cylinder holds 14.2 kilograms of gas. Add that to the painted number. Now, how can 14.2 kilograms of a gas fit into one cylinder?",
-          "kid": "A full cylinder holds 14.2 kg of gas. Add it to the painted number. How can so much gas fit inside?",
+          "say": "A full cylinder holds 14.2 kilograms of gas. Add that to the painted number. What do you get?",
+          "kid": "A full cylinder holds 14.2 kg of gas. Add it to the painted number.",
           "ask": [
             {
               "q": "How can so much gas fit in one cylinder?",
@@ -1909,7 +1909,7 @@
           "mins": 5,
           "do": "1. Fill one bottle to the very brim with water and cap it. 2. Fill one to the brim with sand, rava or sugar and cap it. 3. Cap the third with only air in it. 4. Ask which bottles will squeeze in, and why. 5. Squeeze each one hard.",
           "say": "Three bottles: water, sand and air. Which will squeeze in when you press it? Why do you think so? Now try.",
-          "kid": "Fill one bottle with water, one with sand. Leave one with air. Cap them. Guess which will squeeze in. Now squeeze each one.",
+          "kid": "Fill one bottle with water and one with sand. Leave one with air. Cap all three. Squeeze each one hard.",
           "parent": "The air bottle squeezes in. The water bottle hardly moves if no air bubble is left under the cap. The sand bottle hardly moves either.",
           "context": "This is the first step of The Compare Table. Here you squeeze a bottle of liquid, a bottle of solid grains and a bottle of gas."
         },
@@ -1918,7 +1918,7 @@
           "mins": 5,
           "do": "1. Put the steel spoon in the bowl, then pour a little water in beside it. 2. Ask which keeps its shape and which takes the bowl's shape. 3. Uncap the air bottle and ask where its air can go now. 4. Fill in the table together.",
           "say": "The spoon, the water and the air: which keeps its own shape? Which keeps its own volume? Which flows?",
-          "kid": "Put the spoon in the bowl. Pour in some water. Which keeps its shape? Which flows? Fill in your table.",
+          "kid": "Put the spoon in the bowl. Pour in some water. Fill in your table.",
           "ask": [
             {
               "q": "Which property do water and air share, that the spoon does not have?",
@@ -1942,7 +1942,7 @@
           "mins": 5,
           "do": "1. Pour the sand into the bowl. 2. Ask whether sand is a solid or a liquid, and why. 3. Look closely at a few grains together.",
           "say": "Sand pours and takes the shape of the bowl. So is sand a liquid? Look at one grain before you answer.",
-          "kid": "Pour the sand into the bowl. It flows like water. Is sand a liquid? Look at one grain. Say why.",
+          "kid": "Pour the sand into the bowl. It flows like water. Look closely at one grain.",
           "parent": "Each grain keeps its own shape, so each grain is a solid. A heap pours because the grains roll over each other, with air in the gaps.",
           "check": {
             "t": "mcq",
@@ -2016,7 +2016,7 @@
           "what": "Collect the squares, count the specks on each, draw a bar chart and write what you found."
         }
       ],
-      "record": "Make a table: place, my guess of its rank, number of specks. Draw a bar chart with one bar for each place. Then write what you thought would happen, what you saw, and why you think it happened.",
+      "record": "Make a table: place, my guess of its rank, number of specks. Make a bar chart with one bar for each place, drawn or made of bottle caps. Then write what you thought would happen, what you saw, and why you think it happened.",
       "setup": [
         {
           "art": "A piece of clear plastic with a rectangle 4 cm long and 2 cm wide drawn on it, divided into eight small squares, and a finger smearing jelly over it.",
@@ -2037,7 +2037,7 @@
           "mins": 20,
           "do": "1. On each piece, draw a rectangle 4 cm long and 2 cm wide. Divide it into 8 squares of 1 cm. Label the pieces A to E. 2. Smear a thin layer of petroleum jelly over each rectangle. 3. Tape the pieces upright in five places. Put one near the stove and one on a bedroom shelf. Put one at a window facing the road, one by the front door and one at a quiet window. 4. Ask your child to rank the five places from most specks to fewest, with reasons. 5. Write down today's AQI from the weather app.",
           "say": "Air carries tiny solid bits that we mostly cannot see. Which of these five places will catch the most in three days? Why do you think so?",
-          "kid": "Draw a rectangle on each piece. Grease it thinly. Tape the pieces up in five places. Guess which will catch the most specks. Say why.",
+          "kid": "Draw a rectangle on each piece. Grease it thinly. Tape the pieces up in five places. Rank the places, most specks first.",
           "adult": true,
           "parent": "Keep every square upright and out of the rain, so that the test is fair. Upright squares catch what floats past in the air, more than what falls from above.",
           "context": "This is the first step of Five Sticky Squares. Here you make five greased squares, put them in five places and guess which will catch the most dust."
@@ -2054,9 +2054,9 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "1. On day 4, collect the squares and lay them on white paper. 2. Count the dark specks inside each rectangle, with the magnifying glass or the phone camera. If there are too many, count 2 small squares and multiply by 4. 3. Draw a bar chart. 4. Ask your child to say what they thought would happen, what they saw, and why they think it happened.",
+          "do": "1. On day 4, collect the squares and lay them on white paper. 2. Count the dark specks inside each rectangle, with the magnifying glass or the phone camera. If there are too many, count 2 small squares and multiply by 4. 3. Make a bar chart. Draw it, or line up bottle caps, one cap for every 10 specks. 4. Ask your child to say what they thought would happen, what they saw, and why they think it happened.",
           "say": "Count the specks in each rectangle. Then say what you thought would happen, what you saw, and why it happened.",
-          "kid": "Collect the squares. Count the specks in each rectangle. Draw a bar chart. Say what you thought, what you saw, and why.",
+          "kid": "Collect the squares. Count the specks in each rectangle. Make your bar chart.",
           "ask": [
             {
               "q": "Where did the specks at the busiest place come from?",
@@ -2122,7 +2122,7 @@
         "Cloth with small folds in it, so that more cloth covers the same opening.",
         "A slightly damp cloth, to see whether wet threads catch more powder."
       ],
-      "your_turn": "Now design your own filter. Draw it, build it and give it both tests. Which design stopped the most powder and still passed the breath test?",
+      "your_turn": "Now design your own filter. Plan it by drawing it or by telling your grown-up the layers. Then build it and give it both tests. Which design stopped the most powder and still passed the breath test?",
       "setup": [
         {
           "art": "A steel bowl with dark paper in the bottom and a white handkerchief stretched over its mouth, held by a rubber band.",
@@ -2165,7 +2165,7 @@
           "mins": 10,
           "do": "1. Build your own design. 2. Give it both tests. 3. Compare all the scores and pick the best.",
           "say": "Which design is best? What did you have to give up to stop more powder?",
-          "kid": "Build your own design. Test it both ways. Which design is best? Why?",
+          "kid": "Build your own design. Test it both ways. Write down each score.",
           "parent": "No cloth mask stops the very smallest bits, the PM2.5. Masks sold as N95 use a mat of very fine fibres to catch most of them.",
           "check": {
             "t": "mcq",

@@ -289,8 +289,8 @@ That evening she lay on the planks and put one finger against the edge of the to
   *Child mode:* Draw the track. Take a jumper and 15 beans. The beans in your hand are your speed.
 - **s2 (4 min)**  
   *Parent does:* 1. Play one jump with the parachute closed all the way down. 2. Write the beans you hold at the end of every turn. 3. Ask what happens to the speed after turn 6.  
-  *Parent says:* First we fall with the parachute closed, to see what the speed does. Write your beans after every turn. Does the speed keep growing?  
-  *Child mode:* Fall with the parachute closed. Write your beans after every turn. Does your speed keep growing?
+  *Parent says:* First we fall with the parachute closed, to see what the speed does. Write your beans after every turn.  
+  *Child mode:* Fall with the parachute closed. Write your beans after every turn.
   - Ask: What happened to your speed? (good: It went 3, 5, 6, 7, 8, 9 and then stayed at 9.; It stopped growing, because the air took back as many beans as gravity gave.)
   - Note: The speeds are 3, 5, 6, 7, 8, 9, 9, 9 and 9. The jumper hits the ground on turn 9 with 9 beans. Holding 12 beans, a player gives back 3, which is exactly what gravity gave. That steady speed is the terminal speed.
 - **s3 (8 min)**  
@@ -301,7 +301,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 - **s4 (4 min)**  
   *Parent does:* 1. Ask why the speed dropped after the parachute opened, though gravity still gave 3 beans. 2. Ask what the steady speed is with the parachute open. 3. Try the heavy jumper if there is time.  
   *Parent says:* Gravity gave 3 beans every turn, open or closed. So why did your speed fall after you opened? What did the parachute change?  
-  *Child mode:* Gravity always gave 3 beans. So why did your speed drop after you opened?
+  *Child mode:* Gravity always gave 3 beans. Think about what the parachute changed.
   - Note: The open parachute lets the air take back more beans at the same speed. The speed falls until the air again takes back 3 beans a turn. That happens at 3 or 4 beans. The heavy jumper must open by turn 6.
   - Check: With the parachute closed, the jumper's speed stops growing at 9 beans. Why? → **The air takes back what gravity gives**
 
@@ -311,7 +311,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 - **predict:** Guess first. The box has one katori of rice in it. On the table, how many spoons of rice in the hanging bag will start it? How many with two katoris? Then guess for the floating box. Will it need more spoons, fewer spoons or about the same? Write each guess and your reason for it.
 - **fair test:** Use the same box, the same thread and the same place on the table every time. Add the pull in equal steps: one level tablespoon of rice on the table, and one paper clip on the water. Wait 3 seconds after each step. Change one thing at a time: first the place, then the load. Do each table test 3 times and find the mean, because one run can be a fluke. Switch off the fan for the water tests, because moving air pushes a floating box.
 - **safety:** Wipe up spilt water at once, because a wet floor is slippery. Keep paper clips and safety pins away from children under three.
-- **record:** Fill in the table: spoons of rice for the two table tests, and paper clips for the two water tests. Draw the box on the table and the box on the water, with an arrow for each force. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **record:** Fill in the table: spoons of rice for the two table tests, and paper clips for the two water tests. Draw the box on the table and the box on the water, with an arrow for each force, or point at the forces and tell your grown-up. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Where the box is, and its load | Run 1 | Run 2 | Run 3 | Mean
 - **s1 (5 min)**  
   *Parent does:* 1. Put one full katori of rice in the lunch box. 2. Tape one end of the thread to the top edge of one short side of the box. 3. Put the box on the table, 30 centimetres from the edge. 4. Lead the thread over the edge and tie it to both handles of the carry bag. 5. Spread the towel on the floor under the bag.  
@@ -331,7 +331,7 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Note: Expect about 4 to 9 spoons for one katori, and about twice as many for two. The numbers depend on your table and your box. If the box slides with the very first spoon, use a teaspoon instead.
 - **s4 (8 min)**  
   *Parent does:* 1. Switch off the fan. 2. Untie the bag and tie one paper clip to the end of the thread. 3. Float the box, with one katori of rice, in the middle of the bucket. 4. Lead the thread over the rim so that the clip hangs outside. 5. Hold the box still with one finger until the water is calm. 6. Lift your finger and watch for 10 seconds.  
-  *Parent says:* Now the pull is one paper clip. That is about half a gram. Watch the gap between the box and the rim. Does it change?  
+  *Parent says:* Now the pull is one paper clip. That is about half a gram. Watch the gap between the box and the rim.  
   *Child mode:* Float the box in the bucket. Hang one paper clip on the thread. Hold the box still. Let go and watch for 10 seconds.
   - Ask: What did the box do? (good: It moved slowly towards the rim.; It started very slowly and then went a little faster.)
   - Note: The box should drift towards the clip within a few seconds. If it does not, check that the thread is dry and is not stuck to a wet rim. Then add a second clip. A box that touches the side of the bucket can stick there, so start it in the middle.
@@ -342,14 +342,14 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Ask: The box sits deeper with two katoris. What does that tell you about the upthrust? (good: The box displaces more water, so the upthrust is bigger.; The upthrust grew to match the bigger weight.)
   - Note: One clip should still start the box. It takes longer to reach the rim, because a bigger mass speeds up more slowly. The box sits deeper with two katoris. The part of the depth that comes from the rice is about twice as much as with one katori. The empty box already sat a little way into the water before any rice went in.
 - **s6 (4 min)**  
-  *Parent does:* 1. For each table test, add the three runs and divide by 3. 2. Multiply each mean by 12 to get grams of rice. 3. Count half a gram for each paper clip. 4. Draw one bar for each of the four tests.  
-  *Parent says:* A level tablespoon of rice is about 12 grams. A paper clip is about half a gram. Let's turn every result into grams and draw four bars.  
-  *Child mode:* Find the mean of the 3 runs. Multiply by 12 to get grams. Count half a gram for a clip. Draw four bars.
+  *Parent does:* 1. For each table test, add the three runs and divide by 3. 2. Multiply each mean by 12 to get grams of rice. 3. Count half a gram for each paper clip. 4. Draw one bar for each of the four tests, or say the four results from smallest to biggest.  
+  *Parent says:* A level tablespoon of rice is about 12 grams. A paper clip is about half a gram. Let's turn every result into grams and show them as four bars.  
+  *Child mode:* Find the mean of the 3 runs. Multiply by 12 to get grams. Count half a gram for a clip. Draw four bars, or say the four results from smallest to biggest.
   - Note: The two water bars will be too short to see beside the table bars. That is the result. Ask your child how to show it, and accept any honest way.
 - **s7 (5 min)**  
-  *Parent does:* 1. Ask your child for the three sentences. 2. Ask them to draw the box on the table and on the water, with every force as an arrow. 3. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then draw the box twice. Which forces act on it on the table? Which on the water?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Draw the box twice with force arrows.
+  *Parent does:* 1. Ask your child for the three sentences. 2. Ask them to point at each force on the real box, on the table and on the water. Ask which way it goes. 3. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then show me the box twice. Which forces act on it on the table? Which on the water?  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Point at each force on the box, on the table and on the water.
   - Ask: The box is just as heavy on the water. Why did one paper clip move it there? (good: Upthrust holds the box up, so no surface grips it.; Water resistance is zero until the box moves, so nothing balances the pull.)
   - Ask: Why did the table pull double when the load doubled? (good: A heavier box presses harder on the table, so the friction is bigger.)
   - Note: On the table the forces are gravity, the normal force, the pull and friction. On the water they are gravity, upthrust and the pull. Water resistance appears only once the box is moving.
@@ -359,7 +359,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 - **predict:** Guess first. Put the ball, the pancake and the carrot in order, from the fastest sinker to the slowest. Write your order and your reason. Then say which of the three is heaviest, and why you think so.
 - **fair test:** Cut the three pieces from one rope of dough, all the same length, so they have the same weight. Let each shape go from just under the surface, without a push. In each race, let both shapes go at the same moment. Run each race 3 times and swap hands each time, because one hand may let go late. Change only the shape.
 - **safety:** Do this in the bathroom or on a balcony, and wipe up spilt water. Throw the used dough away afterwards, and do not eat it.
-- **record:** Fill in the table of winners. Write the three shapes in order from fastest to slowest. Draw the sinking pancake with three force arrows. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **record:** Fill in the table of winners. Write the three shapes in order from fastest to slowest. Draw the sinking pancake with three force arrows, or show the three forces with your hand and tell your grown-up. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Race | Winner, try 1 | Winner, try 2 | Winner, try 3 | Which shape won most
 - **s1 (6 min)**  
   *Parent does:* 1. Knead the atta, water and oil into a stiff dough. 2. Roll a rope of dough about 2 centimetres thick. 3. Cut three pieces, each 3 centimetres long. 4. Roll one piece into a ball. 5. Press one into a flat pancake about 6 centimetres wide. 6. Roll one into a carrot about 6 centimetres long, with one thick round end.  
@@ -368,8 +368,8 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Note: The dough must be stiff, or the pancake will droop. Press out any air pockets. If you use modelling clay, everything sinks faster, so watch closely.
 - **s2 (3 min)**  
   *Parent does:* 1. Lay the three shapes in a row. 2. Ask your child to put them in order from fastest sinker to slowest. 3. Ask which of the three is heaviest. 4. Write the answers and the reasons down.  
-  *Parent says:* Which shape will sink fastest, and which slowest? Why do you think so? And which of the three is heaviest?  
-  *Child mode:* Put the shapes in order, fastest to slowest. Say why. Which one is heaviest?
+  *Parent says:* Which shape will sink fastest, and which slowest? Why do you think so?  
+  *Child mode:* Put the shapes in order, fastest to slowest. Say why.
   - Ask: Which of the three is heaviest? (good: None. They are equal pieces of dough, so they weigh the same.)
   - Note: Many children say that the ball is heaviest, because it looks solid. Do not correct this yet. The question comes back at the end.
 - **s3 (4 min)**  
@@ -388,9 +388,9 @@ That evening she lay on the planks and put one finger against the edge of the to
   *Child mode:* Time the pancake 3 times. Find the mean. Then try to time the ball.
   - Note: Expect about 2 to 3 seconds for the pancake and under 1 second for the ball. A hand on a stopwatch is off by about 0.2 seconds. So the ball's time cannot be trusted, and the races are the better test for it.
 - **s6 (5 min)**  
-  *Parent does:* 1. Ask your child for the three sentences. 2. Ask again which shape is heaviest. 3. Ask them to draw the sinking pancake with gravity, upthrust and water resistance. 4. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then draw the pancake. Which forces point up, and which point down?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Draw the pancake with three arrows.
+  *Parent does:* 1. Ask your child for the three sentences. 2. Ask again which shape is heaviest. 3. Ask them to let the pancake sink in the water and point which way gravity, upthrust and water resistance push. 4. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then watch the pancake sink and show me with your hand which way each force pushes. Which forces point up, and which point down?  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Point your hand the way each of the three forces pushes.
   - Ask: The three shapes weigh the same. Which other force is the same on all three? (good: Upthrust, because each one displaces the same amount of water.)
   - Ask: So which force made the difference? (good: Water resistance. The pancake pushes a wide front through the water.; The carrot lets the water close up behind it.)
   - Note: Gravity points down. Upthrust and water resistance point up. Once the pancake sinks at a steady speed, the two up arrows together are as long as the down arrow.
@@ -400,7 +400,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 - **predict:** Guess first. You will cut a small hole in the top of the canopy. Will the parachute then fall faster, slower or the same? Will it land nearer to the target or further away? What will a large hole do? Write each guess and your reason for it.
 - **fair test:** Use one parachute for the whole test, so the polythene, the threads and the coin never change. Drop it from the same mark, held the same way, by the same person. Switch off the fan and close the window. Change only the hole. Do 5 drops each time and find the mean, because parachute drops vary a lot. A hand on a stopwatch is off by about 0.2 seconds, so only a bigger gap than that counts.
 - **safety:** A grown-up does the cutting and the dropping. Nobody stands on a chair or leans over a balcony. Pick up the coin after every drop.
-- **record:** Fill in the table with every time and every distance. Find the two means for each canopy. Draw a bar chart of the mean distances. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **record:** Fill in the table with every time and every distance. Find the two means for each canopy. Make a bar chart of the mean distances, drawn or made from pieces of thread. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Canopy | Fall times of 5 drops (s) | Mean fall time (s) | Distances from the X of 5 drops (cm) | Mean distance (cm) | Swing: a lot, a little or none
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a square of polythene 30 centimetres wide. 2. Tape one thread to each corner. 3. Hold the four loose ends together and check that the threads are equally long. 4. Tape the four ends to the coin. 5. Mark an X on the floor, and a line 2 metres up the wall above it.  
@@ -428,13 +428,13 @@ That evening she lay on the planks and put one finger against the edge of the to
   *Parent says:* Now the hole is 10 by 10. That is 100 square centimetres out of 900. What do you expect this time? Why?  
   *Child mode:* Fold the canopy in four. A grown-up cuts a bigger square off the corner. Unfold it. Do 5 drops.
 - **s6 (5 min)**  
-  *Parent does:* 1. For each canopy, add the 5 fall times and divide by 5. 2. Do the same for the 5 distances. 3. Draw a bar chart of the three mean distances. 4. Circle any two mean times that are less than 0.2 seconds apart.  
+  *Parent does:* 1. For each canopy, add the 5 fall times and divide by 5. 2. Do the same for the 5 distances. 3. Show the three mean distances as bars. Draw them, or cut three pieces of thread, each as long as one mean distance. 4. Circle any two mean times that are less than 0.2 seconds apart.  
   *Parent says:* Let's find two means for each canopy. Times that are less than 0.2 seconds apart count as the same, because our stopwatch hand is not exact.  
-  *Child mode:* Find the mean time for each canopy. Find the mean distance. Draw three bars. Circle times that are nearly the same.
+  *Child mode:* Find the mean time for each canopy. Find the mean distance. Show three bars. Circle times that are nearly the same.
 - **s7 (6 min)**  
-  *Parent does:* 1. Ask your child for the three sentences. 2. Ask what the small hole cost and what it gave. 3. Ask them to draw the parachute falling steadily, with its force arrows. 4. Only then read the explanation together.  
+  *Parent does:* 1. Ask your child for the three sentences. 2. Ask what the small hole cost and what it gave. 3. Ask them to hold the parachute up and show with their hands which way gravity pulls and which way the air pushes. 4. Only then read the explanation together.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then tell me what the small hole cost us, and what it gave us.  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Draw the falling parachute with two arrows.
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Show with your hands which way gravity pulls and which way the air pushes.
   - Ask: Why did the small hole change the fall time so little? (good: The hole is 4 square centimetres out of 900, so the canopy is almost as big as before.)
   - Ask: Where did the air go before there was a hole? (good: It spilled out under the edges, first one side and then another.)
   - Note: A small vent usually makes the fall straighter and hardly faster. With a parachute this small the difference in landing place can be slight. If your three mean distances are within 10 centimetres, say so plainly. That is your result. A large hole should shorten the fall a little.
@@ -443,9 +443,9 @@ That evening she lay on the planks and put one finger against the edge of the to
 ## Activities
 ### a1 · Three Bottles: which one gets the biggest upthrust? (12 min)
 - **safety:** Do this in the bathroom or on a balcony, and wipe up spilt water.
-- **record:** Draw the three bottles under water. On each one draw an upthrust arrow and a gravity arrow. Write which arrows are the same on all three, and which are different.
+- **record:** Draw the three bottles under water, with an upthrust arrow and a gravity arrow on each, or tell your grown-up about them. Write which forces are the same on all three, and which are different.
 - **s1 (3 min)**  
-  *Parent does:* 1. Close the first bottle with only air in it. 2. Fill the second bottle to the very top with water and close it. 3. Put the coins in the third bottle, fill it with water and close it. 4. Stick the tape upright inside the bucket, and mark the water level on it.  
+  *Parent does:* 1. Close the first bottle with only air in it. 2. Fill the second bottle to the very top with water and close it. 3. Put the coins in the third bottle, fill it with water and close it. 4. Stick the tape upright inside the bucket, and mark the water level on it. 5. Let your child hold each bottle.  
   *Parent says:* These three bottles are the same size. One holds air, one holds water, and one holds coins and water. Feel how different their weights are.  
   *Child mode:* Make three bottles: empty, full of water, and coins with water. Close them. Mark the water level in the bucket.
   - Note: Leave no air bubble in the second and third bottles.
@@ -456,15 +456,15 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Note: Most children choose the empty bottle, because it will jump up. Do not correct the guess.
 - **s3 (4 min)**  
   *Parent does:* 1. Push the empty bottle fully under and mark the new water level. 2. Hold it just under the surface, then near the bottom, and compare the push on your hand. 3. Let go and watch. 4. Do the same with the bottle of water, and then with the bottle of coins.  
-  *Parent says:* Push it right under. How far did the water rise? Is the push on your hand bigger near the bottom? Now let go. What does the bottle do?  
+  *Parent says:* Push it right under. Is the push on your hand bigger near the bottom? Now let go.  
   *Child mode:* Push each bottle fully under. Mark how high the water rises. Feel the push. Let go and watch.
   - Ask: How far did the water rise for each bottle? (good: The same for all three, about 1 centimetre.; Each bottle displaces the same amount of water.)
   - Ask: What did each bottle do when you let go? (good: The empty one shot up.; The one full of water stayed almost where it was.; The one with coins sank.)
   - Note: The three marks should be at the same height. The push of the empty bottle on the hand is the same near the surface and near the bottom. The bottle of water may sink very slowly, because the plastic is a little heavier than water.
 - **s4 (3 min)**  
-  *Parent does:* 1. Ask your child what the three equal marks mean. 2. Ask them to draw each bottle with an upthrust arrow and a gravity arrow. 3. Read the explanation together.  
-  *Parent says:* All three bottles displaced the same water. So what can we say about the upthrust on each? Then why did they behave so differently?  
-  *Child mode:* Draw the three bottles. Give each an upthrust arrow and a gravity arrow. Which arrows are the same?
+  *Parent does:* 1. Ask your child what the three equal marks mean. 2. Ask them to hold each bottle under water. Ask them to show which way the upthrust pushes and which way gravity pulls. 3. Read the explanation together.  
+  *Parent says:* All three bottles pushed aside the same amount of water. So what can we say about the upthrust on each? Then why did they behave so differently?  
+  *Child mode:* Hold each bottle under. Show which way the upthrust pushes and which way gravity pulls. Which push is the same?
   - Note: The upthrust arrows are equal, because upthrust depends only on the water displaced. The gravity arrows differ. The empty bottle rises because its weight is far smaller than the upthrust.
   - Check: Three bottles of the same size are held fully under water. Which gets the biggest upthrust? → **All three get the same**
 ### a2 · The Bag of Water: what does water weigh in water? (20 min)
@@ -482,7 +482,7 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Note: Many children expect the band to be a little shorter. Few expect it to go fully loose.
 - **s3 (4 min)**  
   *Parent does:* 1. Lower the bag slowly into the bucket, holding the band. 2. Stop when the bag is fully under and the band is above the water. 3. Measure the band. 4. Lift the bag out and watch the band stretch again.  
-  *Parent says:* Lower it slowly and watch the band. What is happening? Now measure it. Compare this with the loose band on the table.  
+  *Parent says:* Lower it slowly and watch the band. Now measure it. Compare this with the band when the bag hung in the air.  
   *Child mode:* Lower the bag into the bucket. Watch the band. Measure it. Lift the bag out again.
   - Ask: What happened to the band? (good: It went back to its loose length.; The bag pulled on it less and less, and then not at all.)
   - Note: The band should return to its loose length once the bag is fully under. The bag then hangs wherever you leave it.
@@ -492,9 +492,9 @@ That evening she lay on the planks and put one finger against the edge of the to
   *Child mode:* Hang ten coins from the band and measure. Put the coins in the water bag. Measure in air. Measure in water.
   - Note: Under water, the band should be about as long as it was with the ten coins alone in air. It may be very slightly shorter, because the water pushes up a little on the coins too.
 - **s5 (4 min)**  
-  *Parent does:* 1. Look at the four lengths in the table. 2. Ask where the weight of the water went. 3. Read the explanation together. 4. Your child draws the bag under water with two arrows.  
+  *Parent does:* 1. Look at the four lengths in the table. 2. Ask where the weight of the water went. 3. Read the explanation together. 4. Your child holds the bag under water and shows with their hands the two forces on it.  
   *Parent says:* The water in the bag did not get lighter. So what is holding it up? Think about the water that was in that place before the bag came.  
-  *Child mode:* Look at your four lengths. What holds the bag up in the bucket? Draw the bag with two arrows.
+  *Child mode:* Look at your four lengths. What holds the bag up in the bucket? Show with your hands the two forces on the bag.
   - Note: Before the bag came, the water around that place held up the water that was there. It now pushes up on the bag just as hard. So the upthrust equals the weight of the water displaced.
   - Check: A bag holding 200 grams of water hangs fully under water. How hard does it pull on the rubber band? → **Not at all**
 ### a3 · Newspaper on Your Chest: how fast must you walk? (12 min)
@@ -517,36 +517,36 @@ That evening she lay on the planks and put one finger against the edge of the to
 - **s4 (2 min)**  
   *Parent does:* 1. Ask your child which forces act on the sheet while it stays up. 2. Ask why the folded sheet needs more speed. 3. Read the explanation together.  
   *Parent says:* The air pushes the paper against your chest. But what stops the paper sliding down? Name every force on the paper.  
-  *Child mode:* Name the forces on the paper. Why does the folded paper need more speed?
+  *Child mode:* Name the forces on the paper.
   - Note: Four forces act on the sheet. Gravity pulls it down. Air resistance presses it against the chest. The chest pushes back with a normal force. Friction from the shirt holds it up. A harder press from the air gives more friction.
   - Check: A sheet of newspaper folded in half needs a faster walk to stay on your chest. Why? → **Half the front area catches less air**
 ### a4 · Balanced or Not? Draw the forces on six things (20 min)
-- **record:** Draw six force diagrams, one for each thing. Label every arrow. Under each diagram write 'balanced' or 'unbalanced', and what the speed of the thing is doing.
+- **record:** Keep six force diagrams, one for each thing, as photos of paper arrows or as drawings. Label every arrow. Under each diagram write 'balanced' or 'unbalanced', and what the speed of the thing is doing.
 - **s1 (3 min)**  
-  *Parent does:* 1. Read the three rules aloud. 2. Draw the thing as a simple box. 3. Start each arrow on the box and point it the way the force acts. 4. Make a bigger force a longer arrow, and label every arrow.  
-  *Parent says:* A force diagram has three rules. Draw the thing as a box. Draw one arrow for each force, pointing the way it acts. Make a bigger force a longer arrow.  
-  *Child mode:* Draw the thing as a box. Draw one arrow for each force. Make a bigger force a longer arrow.
+  *Parent does:* 1. Read the three rules aloud. 2. Tear about ten strips from a sheet of paper, some long and some short. Each strip is one force arrow. 3. Put the lunch box in the middle of the table. 4. Lay a strip against it for a force, pointing the way the force acts. A bigger force is a longer strip. 5. Write the force's name on each strip. Take a photo of each set of strips, or draw it, to keep.  
+  *Parent says:* A force diagram has three rules. The thing is a box. Each force is one arrow, pointing the way it acts. A bigger force is a longer arrow. We will use paper strips as arrows, or you can draw them.  
+  *Child mode:* Show the thing as a box. Use one arrow for each force. Make a bigger force a longer arrow.
 - **s2 (5 min)**  
-  *Parent does:* 1. Draw a loaded box on a table, pulled gently by a thread and not moving. 2. Draw the same box floating still in a bucket. 3. Ask which forces hold each box up, and which act sideways.  
+  *Parent does:* 1. Set the loaded box on the table, with a thread pulling it gently so it does not move. 2. Lay strip arrows around it for every force. 3. Float the same box still in the bucket and lay strip arrows next to it. 4. Ask which forces hold each box up, and which act sideways.  
   *Parent says:* First the box on the table, with a gentle pull that does not move it. Then the box floating still. Which forces act on each?  
-  *Child mode:* Draw the box on the table with a gentle pull. Then draw the box floating still. Label every arrow.
+  *Child mode:* Lay arrows for the box on the table with a gentle pull. Then lay arrows for the floating box. Label every arrow.
   - Ask: Which forces act on the box on the table? (good: Gravity down, the normal force up, the pull one way and friction the other way.)
   - Ask: Which forces act on the floating box? (good: Only gravity down and upthrust up. Nothing acts sideways.)
   - Note: On the table there are four arrows in two equal pairs. On the water there are only two equal arrows.
 - **s3 (5 min)**  
-  *Parent does:* 1. Draw the floating box at the moment a paper clip starts to pull it. 2. Draw the floating box a little later, pulled along at a steady speed. 3. Ask what is different between the two drawings.  
-  *Parent says:* Now the paper clip pulls the floating box. Draw the first moment, when the box is still at rest. Then draw it moving steadily.  
-  *Child mode:* Draw the floating box when the clip first pulls. Then draw it moving at a steady speed.
+  *Parent does:* 1. Lay arrows for the floating box at the moment a paper clip starts to pull it. 2. Change the arrows for the box a little later, pulled along at a steady speed. 3. Ask what is different between the two sets of arrows.  
+  *Parent says:* Now the paper clip pulls the floating box. Lay the arrows for the first moment, when the box is still at rest. Then change them for steady movement.  
+  *Child mode:* Lay arrows for the box when the clip first pulls. Then change them for a steady speed.
   - Note: At the first moment there is a pull and no water resistance, so the forces are unbalanced. At a steady speed, the water resistance is as long as the pull.
 - **s4 (4 min)**  
-  *Parent does:* 1. Draw a dough pancake sinking at a steady speed. 2. Draw a parachute and its coin falling at a steady speed. 3. Ask which arrows point up in each drawing.  
+  *Parent does:* 1. Lay arrows for a dough pancake sinking at a steady speed. 2. Lay arrows for a parachute and its coin falling at a steady speed. 3. Ask which arrows point up in each set.  
   *Parent says:* The pancake sinks steadily and the parachute falls steadily. Which forces point up on each one? How long must the up arrows be?  
-  *Child mode:* Draw the pancake sinking steadily. Draw the parachute falling steadily. Which arrows point up?
+  *Child mode:* Lay arrows for the pancake sinking steadily. Then for the parachute falling steadily. Which arrows point up?
   - Note: On the pancake, upthrust and water resistance point up. Together they are as long as the gravity arrow. On the parachute, air resistance alone is as long as the gravity arrow.
 - **s5 (3 min)**  
-  *Parent does:* 1. Lay out the six drawings. 2. Your child writes 'balanced' or 'unbalanced' under each. 3. Ask what the speed is doing in each one. 4. Your child writes one rule that joins balance and speed.  
+  *Parent does:* 1. Lay out the six photos or drawings. 2. Your child writes 'balanced' or 'unbalanced' under each. 3. Ask what the speed is doing in each one. 4. Your child writes one rule that joins balance and speed.  
   *Parent says:* Look at all six. Which are balanced? In those, is the thing still, or moving at a steady speed? What rule fits them all?  
-  *Child mode:* Write balanced or unbalanced under each drawing. What is the speed doing? Write one rule.
+  *Child mode:* Write balanced or unbalanced under each picture. What is the speed doing? Write one rule.
   - Note: Five are balanced. Only the box at the first moment of the pull is unbalanced. A good rule: when forces are balanced the speed does not change, and when they are unbalanced it changes.
   - Check: A dough pancake sinks at a steady speed. Which is true of the forces on it? → **Upthrust plus water resistance equals gravity**
 ### a5 · Parachute or Rocket? Plan a landing on four worlds (15 min)
@@ -570,7 +570,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 ### a6 · Watch a Bird Land: how does a pigeon use air resistance? (10 min)
 - **record:** Make a tally table with four rows: wings spread wide, tail fanned out, body tilted up, legs stretched forward. Add a tally mark each time you see a landing bird do that thing.
 - **s1 (2 min)**  
-  *Parent does:* 1. Ask your child how a flying bird slows down to land. 2. Ask what she might do with her wings and tail. 3. Draw the tally table.  
+  *Parent does:* 1. Ask your child how a flying bird slows down to land. 2. Ask what she might do with her wings and tail. 3. Make the tally table in the notebook, with the four rows from the record.  
   *Parent says:* A pigeon has no brakes on a wheel. How does she slow down before she lands? What do you expect her to do with her wings and tail?  
   *Child mode:* How does a flying bird slow down to land? Guess what her wings and tail do.
 - **s2 (6 min)**  
@@ -580,15 +580,15 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Note: If no bird lands in six minutes, try again in the early morning or evening. Pigeons and crows land most often near food and on ledges.
 - **s3 (2 min)**  
   *Parent does:* 1. Ask your child what the bird did to her front area. 2. Ask what that did to the air resistance. 3. Compare her landing with a parachute.  
-  *Parent says:* She spread her wings and tail and tilted up. What did that do to the area she pushed through the air? So what happened to the air resistance?  
-  *Child mode:* What did she do to her front area? What did that do to the air resistance?
+  *Parent says:* Think about the landings you saw. What did the bird do with her wings and tail just before she landed?  
+  *Child mode:* Tell your grown-up what the bird did. Then say what that did to her front area and to the air resistance.
   - Note: A landing bird makes her front area as big as she can. The air resistance grows and slows her in a short distance. In fast flight she does the opposite, and keeps her body narrow and smooth.
   - Check: A pigeon fans her tail and spreads her wings just before she lands. What does this do? → **Her front area and air resistance grow**
 
 ## Projects
 ### p1 · The Parachute Trial: design, test and improve a parachute in three days (70 min, 3 days)
 - **safety:** A grown-up does the cutting and the dropping. Nobody stands on a chair or leans over a balcony.
-- **record:** Write a one-page report. It has a labelled drawing of your final parachute and a table of the two means for every design. It has a force diagram of the steady fall. It ends with one sentence on what you would change next.
+- **record:** Write a one-page report. It has a labelled drawing or labelled photo of your final parachute and a table of the two means for every design. It has a force diagram of the steady fall, or two sentences about the forces. It ends with one sentence on what you would change next.
 - **schedule:** day 1: Build the standard parachute and drop it 5 times. Find its mean fall time and its mean distance from the X. Choose two things to change. (25 min); day 2: Test your two changes, one at a time, with 5 drops each. (25 min); day 3: Build your final design, test it with 5 drops and write a one-page report. (20 min)
 - **s1 (25 min) · grown-up needed**  
   *Parent does:* 1. Build the standard parachute: a polythene square 30 centimetres wide, four threads of 30 centimetres, and two coins taped together. 2. A grown-up drops it 5 times from the 2 metre line above the X. 3. Write each fall time and each distance from the X, and find the two means. 4. Your child chooses two things to change, and says what each should do.  
@@ -597,7 +597,7 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Note: Things to change: the size of the canopy, its shape, a vent, the length of the threads, the number of threads or the material. To make eight sides, cut the four corners off the square and use eight threads.
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Build a parachute with the first change only. 2. Drop it 5 times and find the two means. 3. Build another with the second change only, and do the same. 4. Compare each with the standard design.  
-  *Parent says:* Change only one thing in each parachute. Then we know what caused any difference. Which change helped the fall time? Which helped the landing?  
+  *Parent says:* Change only one thing in each parachute. Which change helped the fall time? Which helped the landing?  
   *Child mode:* Make one change. Drop it 5 times. Then test the second change by itself. Compare with the standard design.
   - Ask: Why do we change only one thing at a time? (good: If two things change together, we cannot tell which one made the difference.)
   - Note: A mean time less than 0.2 seconds from the standard counts as no change. Newspaper is heavier and stiffer than polythene, and usually falls faster.
@@ -612,7 +612,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 ## Challenges
 ### c1 · The Slow Sinker: make a piece of dough sink as slowly as you can (30 min)
 - **problem:** Take one piece of stiff atta dough, cut 3 centimetres long from a rope 2 centimetres thick. Shape it so that it takes as long as possible to sink 25 centimetres in a bucket of water.
-- **your turn:** Now invent your own slow sinker. Draw it, make it and time it 3 times. What was the mean? Which helped more: a bigger front area, or a shape that stirs up more water?
+- **your turn:** Now invent your own slow sinker. Tell your plan or draw it, make it and time it 3 times. What was the mean? Which helped more: a bigger front area, or a shape that stirs up more water?
 - **constraints:** Use only the one piece of dough, and add nothing to it.; The shape must sink by itself. A shape that floats or holds an air bubble does not count.; Let the shape go from just under the surface, without a push.; Time each shape 3 times and use the mean.
 - **general:** Press the dough into a pancake that is as wide and thin as it can be without tearing.; Roll the dough into a long, thin noodle and let it go lying level.; Make a wide, flat ring.
 - **creative:** Give a small pancake long, thin arms, like a star. Many tiny living beings of the sea, called plankton, have long spines that slow their sinking.; Make a thin ribbon and give it one twist, so that it turns as it sinks.; Make a shallow saucer and let it go open side up, with no air under it.
@@ -627,14 +627,14 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Ask: Why should a wider, thinner pancake sink more slowly? (good: It has a bigger front area, so it meets enough water resistance at a lower speed.)
   - Note: Very thin dough folds up as it sinks, and then it falls faster. Finding the limit is part of the challenge.
 - **s3 (14 min)**  
-  *Parent does:* 1. Your child designs a shape of their own and draws it. 2. They make it and time it 3 times. 3. They compare the mean with the time to beat. 4. They change one thing and test again.  
+  *Parent does:* 1. Your child thinks of a shape of their own and tells you the plan, or draws it. 2. They make it and time it 3 times. 3. They compare the mean with the time to beat. 4. They change one thing and test again.  
   *Parent says:* Now design your own slow sinker. What will you change, and why? Did it beat the pancake?  
-  *Child mode:* Design your own shape. Draw it. Make it. Time it 3 times. Change one thing and test again.
+  *Child mode:* Design your own shape. Tell or draw your plan. Make it. Time it 3 times. Change one thing and test again.
   - Note: Once a shape sinks steadily, the water resistance on it equals its weight minus its upthrust. That is the same for every shape made from this piece. A slower shape meets that resistance at a lower speed.
   - Check: Many plankton have long, thin spines. How do the spines help them stay in sunlit water? → **The spines add water resistance and slow sinking**
 ### c2 · The Quiet Dive: enter the water with the smallest splash (25 min)
 - **problem:** Drop one piece of dough from 30 centimetres above a bowl of water. Shape the dough so that the water splashes the shortest distance out of the bowl.
-- **your turn:** Now design your own quiet diver. Draw it, make it and drop it 3 times. What was the mean splash distance? What does your shape have in common with a kingfisher's beak?
+- **your turn:** Now design your own quiet diver. Tell your plan or draw it, make it and drop it 3 times. What was the mean splash distance? What does your shape have in common with a kingfisher's beak?
 - **constraints:** Use one piece of dough each time, cut 3 centimetres long from a rope 2 centimetres thick.; Hold the dough 30 centimetres above the water and let go. Do not throw it.; After each drop, measure from the rim of the bowl to the farthest wet spot on the newspaper.; Drop each shape 3 times and use the mean.
 - **general:** Make the dough narrow, so that it meets less water at once.; Roll a short rod and drop it end first.; Smooth the surface of the dough with a wet finger.
 - **creative:** Shape a long cone and drop it point first. A kingfisher's beak is a long, narrow wedge, and she dives into water with hardly a splash.; Make a long shape with a point at both ends, so that the water can close up gently behind it.; Eiji Nakatsu, an engineer in Japan who watched birds, shaped the nose of a fast train like a kingfisher's beak. The train then entered tunnels more quietly.
@@ -649,9 +649,9 @@ That evening she lay on the planks and put one finger against the edge of the to
   *Child mode:* Pick one idea. Say why it should splash less. Make it. Drop it 3 times.
   - Ask: Why should a narrow shape splash less? (good: It has a small front area, so it pushes less water aside at once.)
 - **s3 (11 min)**  
-  *Parent does:* 1. Your child designs a shape of their own and draws it. 2. They make it and drop it 3 times. 3. They compare the mean with the pancake and the ball. 4. They change one thing and test again.  
+  *Parent does:* 1. Your child thinks of a shape of their own and tells you the plan, or draws it. 2. They make it and drop it 3 times. 3. They compare the mean with the pancake and the ball. 4. They change one thing and test again.  
   *Parent says:* Now design your own quiet diver. What will you change, and why? Did the splash get smaller?  
-  *Child mode:* Design your own shape. Draw it. Drop it 3 times. Change one thing and test again.
+  *Child mode:* Design your own shape. Tell or draw your plan. Drop it 3 times. Change one thing and test again.
   - Note: A long cone dropped point first usually makes the smallest splash. If it tips over in the air, hold it upright by the thick end and let go cleanly.
   - Check: A long cone dropped point first makes a smaller splash than a flat pancake. Why? → **The cone moves water aside little by little**
 

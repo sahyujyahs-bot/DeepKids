@@ -330,8 +330,8 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   - Check: In Energy Dominoes, the last card is the wind turbine. Which card can follow it? → **The LED bulb**
 - **s3 (4 min)**  
   *Parent does:* 1. When the game ends, read the whole chain aloud from The Sun. 2. Count how many cards gave out heat. 3. Ask where the energy at the end of the chain has gone.  
-  *Parent says:* Read the chain from the Sun to the last card. How many of these changers gave out heat? Where is that heat now?  
-  *Child mode:* Read your chain aloud from The Sun. Count the cards that gave out heat. Where did that heat go?
+  *Parent says:* Read the chain from the Sun to the last card. How many of these changers gave out heat?  
+  *Child mode:* Read your chain aloud from The Sun. Count the cards that gave out heat.
   - Ask: Where does the energy go at the end of a chain? (good: It spreads out into the air as warmth.; It is still there, but it is spread too thin to use.)
   - Think: Can you build a chain that ends back at a card it has already passed?
 ### g2 · Will It Keep Going? Sort the inventor's claims (20 min)
@@ -389,11 +389,11 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 - **s5 (5 min)**  
   *Parent does:* 1. When the clicks stop, touch bottle C with your fingertip. 2. Then touch the table. 3. Compare how they feel. 4. Write the time of the last click.  
   *Parent says:* The clicking has stopped. Touch the bottle, and then the table. Do they feel the same? What does that tell you?  
-  *Child mode:* The clicks stopped. Touch the bottle. Touch the table. Do they feel the same?
+  *Child mode:* Touch the bottle. Then touch the table. How does each one feel?
   - Ask: Why did the clicking stop? (good: The bottle became as warm as the room.; Nothing was colder any more, so no more warmth moved in.)
 - **s6 (6 min)**  
   *Parent does:* 1. Look at the table of clicks together. 2. Ask your child for three sentences. 3. Ask what bottle A tells us about the room. 4. Then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. The room-warm bottle had plenty of heat energy. Why did it do nothing?  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: The room-warm bottle had heat energy but its coin never moved. Why? (good: Nothing was colder, so no heat moved.; Heat energy moves only between a warmer thing and a cooler thing.)
 ### e2 · The Fan and the Ice: does a fan make the air colder? (30 min)
@@ -422,7 +422,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 - **s4 (6 min)**  
   *Parent does:* 1. Switch the fan off, then on. 2. Put a few drops of water on the back of one hand. 3. Hold both hands in the wind. 4. Say which hand feels colder.  
   *Parent says:* Wet the back of one hand. Hold both hands in the wind. Which one feels colder? Why do you think so?  
-  *Child mode:* Wet the back of one hand. Hold both hands in the wind. Which one feels colder?
+  *Child mode:* Wet the back of one hand. Hold both hands in the wind.
   - Ask: Does the wind feel cool on the dry hand too? (good: Yes, a little.; The dry hand feels cooler than in still air, because the wind takes warmth away.)
   - Note: If you have a thermometer, hold it in the wind and then behind the screen. Both read the same number. The wind does not make the air colder.
 - **s5 (6 min)**  
@@ -442,18 +442,18 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   *Child mode:* Does a still table have energy? Say yes, no or not sure. Say why.
 - **s2 (4 min)**  
   *Parent does:* 1. Put one ice cube on the steel plate, on the table. 2. Watch it for 3 minutes. 3. Ask where the heat came from that melted it.  
-  *Parent says:* Nobody has lit a flame. Yet the ice is melting. Where does the heat come from?  
-  *Child mode:* Put an ice cube on the plate. Watch it for 3 minutes. What is melting it?
+  *Parent says:* Nobody has lit a flame. Watch the ice. Is it changing?  
+  *Child mode:* Put an ice cube on the plate. Watch it for 3 minutes.
   - Ask: What is melting the ice, with no flame? (good: Heat from the plate, the table and the air.; The room is warm, so its heat goes into the ice.)
 - **s3 (3 min)**  
   *Parent does:* 1. Hold the eraser on the table edge. 2. Push it slowly over the edge. 3. Listen when it lands. 4. Ask what it could do at the edge that it could not do before.  
   *Parent says:* The eraser sat still on the table. Now it falls and taps the floor. What was waiting in it at the edge?  
-  *Child mode:* Push the eraser over the edge. Listen. What was waiting in it?
+  *Child mode:* Push the eraser slowly over the edge. Listen when it lands.
   - Ask: What could the eraser do at the edge that it could not do flat on the table? (good: Fall and make a sound.; Its height stored energy, which came out as movement and sound.)
 - **s4 (3 min) · grown-up needed**  
   *Parent does:* 1. A grown-up lights the wooden stick over the steel plate. 2. Watch it burn for 10 seconds. 3. Ask what the stick gives out. 4. Put it out in the bowl of water.  
-  *Parent says:* Most tables are made of wood, like this stick. Watch what the wood gives out when it burns. What does it give out?  
-  *Child mode:* A grown-up burns a wooden stick. Watch it. What does it give out?
+  *Parent says:* Most tables are made of wood, like this stick. A grown-up will burn it. Watch what it gives out.  
+  *Child mode:* Watch the stick burn. Do not touch it.
   - Ask: What does the burning wood give out? (good: Light and heat.; The energy stored in the wood comes out as heat and light.)
 - **s5 (2 min)**  
   *Parent does:* 1. Look at your first guess. 2. Ask: did any test change your mind? 3. Say we will come back to the table at the end of the unit.  
@@ -463,9 +463,9 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 - **safety:** Never touch an iron, a geyser, a stove or a hot pan. Feel warmth only with the back of your hand held 5 centimetres away. Never open any appliance.
 - **record:** Keep the finished table. Put a star beside every energy that comes out as heat.
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw a table with four columns. 2. Head them Thing, Energy in, Energy out wanted, and Energy out not wanted. 3. Write eight things down the first column.  
+  *Parent does:* 1. Make a table with four columns on paper. 2. Head them Thing, Energy in, Energy out wanted, and Energy out not wanted. 3. Write eight things down the first column.  
   *Parent says:* We will look at eight things that work in our home. What energy goes into each one? What comes out?  
-  *Child mode:* Draw the table. Write eight things in the first column.
+  *Child mode:* Make the table. Write eight things in the first column.
 - **s2 (6 min)**  
   *Parent does:* 1. For each thing, write the energy that goes in. 2. Write the energy that comes out and that you wanted. 3. Ask your child to guess what else comes out. 4. Write the guesses lightly in pencil.  
   *Parent says:* For each thing, what energy goes in? What do we want it to give out? What else might come out, that we did not want?  
@@ -501,8 +501,8 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   - Note: Check the roof tank pump and the lift if your building has them. They run on electricity, so they may stop. Write that down too.
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up switches the main switch back on. 2. Check what comes back by itself and what must be reset. 3. Ask who in the town would need power most.  
-  *Parent says:* The power is back. Which things came on by themselves? Who in our town would suffer most from a long power cut?  
-  *Child mode:* Power is back. Which things restarted? Who needs power most in a town?
+  *Parent says:* The power is back. Which things came on by themselves, and which must be switched on again?  
+  *Child mode:* Power is back. Check which things restarted.
   - Ask: Who needs electricity most in a town? (good: Hospitals, because of machines and lights.; Water pumps, trains and phone towers.)
   - Note: Hospitals, water pumps, the metro and phone towers keep batteries or diesel generators for the first hours.
 ### a4 · Danger Spotters: a safety walk with five rules (20 min)
@@ -560,15 +560,15 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   *Child mode:* Ask three neighbours three questions. Write their answers in a table.
   - Note: Stay beside your child. Some neighbours may use firewood or kerosene. Do not judge. Note it down and ask why.
 - **s3 (15 min)**  
-  *Parent does:* 1. Count how many neighbours use each fuel or source. 2. Draw a bar for each one. 3. Ask: which source is used most, and which is cleanest? 4. Write one change you would make.  
-  *Parent says:* Count how many neighbours use each fuel. Draw a bar for each. Which is used most? Which is cleanest? What one change would help the street?  
-  *Child mode:* Draw a bar for each fuel. Which is used most? What one change would help?
+  *Parent does:* 1. Count how many neighbours use each fuel or source. 2. Make a bar for each one: draw it, or stack pebbles. 3. Ask: which source is used most, and which is cleanest? 4. Write one change you would make.  
+  *Parent says:* Count how many neighbours use each fuel. Make a bar for each. Which is used most? Which is cleanest?  
+  *Child mode:* Make a bar for each fuel. Which is used most?
   - Ask: What one change would help the street most, and why? (good: Solar water heaters on roofs, because they use sunlight and no smoke.; Switching off lights in empty rooms, which saves electricity.)
 
 ## Challenges
 ### c1 · Most Clicks: make the coin click as many times as you can (30 min)
 - **problem:** Make a coin click as many times as possible in 3 minutes on a glass bottle. You may change how cold the bottle is, how it is warmed and how the coin is wet.
-- **your turn:** Now design your own way to get the most clicks. Draw your plan, test it twice and write the clicks each time. Which change helped most, and why?
+- **your turn:** Now design your own way to get the most clicks. Draw your plan, or tell it to your grown-up. Test it twice and write the clicks each time. Which change helped most, and why?
 - **constraints:** Use one coin and one bottle size.; Count the clicks for exactly 3 minutes.; Never pour hot water on a cold bottle.
 - **general:** Leave the bottle in the freezer for an hour, not half an hour.; Wet the coin with a thin film of water so that it seals the mouth.; Use a bottle with a narrower mouth.
 - **creative:** Stand the cold bottle in a shallow bowl of room-temperature water. Warmth then moves in from all sides, so more clicks come early.; Wrap a cloth wet with lukewarm tap water round the bottle. Never use hot water on cold glass.; Add a second coin on top of the first, and see if the clicks get louder or slower.
@@ -577,7 +577,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   *Parent says:* First we need the number to beat. How many clicks come in three minutes on the table? Write it down.  
   *Child mode:* Chill the bottle. Count clicks for 3 minutes. Write the number to beat.
 - **s2 (12 min)**  
-  *Parent does:* 1. Look at the usual ideas: a longer chill, a thin film of water, a narrow mouth. 2. Your child chooses one and says why it should work. 3. Test it and write the clicks.  
+  *Parent does:* 1. Look at the usual ideas: a longer chill, a thin film of water, a wetter coin. 2. Your child chooses one and says why it should work. 3. Test it and write the clicks.  
   *Parent says:* Which idea do you think will give more clicks? Why? Test it, and write the number.  
   *Child mode:* Choose one idea. Say why it should work. Test it. Write the clicks.
   - Ask: Which one change gave the most clicks? (good: A longer chill.; A bowl of water, because warmth moves in faster.)
@@ -588,7 +588,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   - Note: Warmer surroundings make heat move in faster. So the clicks come faster, but they also stop sooner. The total in 3 minutes may be the same. This is a good thing to notice.
 ### c2 · The Sail Race: cross a tray with wind alone (30 min)
 - **problem:** Make a boat that crosses a tray of water, 50 centimetres, in the fewest seconds. Only the wind of a table fan may push it, from a fixed spot.
-- **your turn:** Now design your own wind boat. Draw it, build it and race it 3 times. What was the mean time? Why did the best sail work?
+- **your turn:** Now design your own wind boat. Draw it or describe it to your grown-up, build it and race it 3 times. What was the average time? Why did the best sail work?
 - **constraints:** The boat is at most 10 centimetres tall.; The fan stays at the same distance and the same setting every time.; Nobody touches the boat after it starts.
 - **general:** A foil boat with one square card sail.; A boat from a matchbox with a straw mast.; Fold the sail so that it faces the wind.
 - **creative:** Use two small sails instead of one big one, and compare.; Curve the sail like a cup, to catch more wind.; Add a little clay under the boat for balance, so it does not tip.
@@ -602,9 +602,9 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   *Parent says:* Build the first boat. How long will it take to cross? Why? Time it three times.  
   *Child mode:* Build a boat with one card sail. Time 3 crossings.
 - **s3 (12 min)**  
-  *Parent does:* 1. Change one thing: the size of the sail, its shape or the weight. 2. Time 3 crossings. 3. Find the mean. 4. Say where the boat's movement energy came from.  
-  *Parent says:* Change one thing about the boat. Time three crossings. Where did the boat's movement energy come from?  
-  *Child mode:* Change one thing. Time 3 crossings. Where did the energy come from?
+  *Parent does:* 1. Change one thing: the size of the sail, its shape or the weight. 2. Time 3 crossings. 3. Add the 3 times and divide by 3 to get the average. 4. Say where the boat's movement energy came from.  
+  *Parent says:* Change one thing about the boat. Time three crossings.  
+  *Child mode:* Change one thing. Time 3 crossings.
   - Ask: Where did the boat's movement energy come from? (good: From the fan's electrical energy, through moving air.; The fan changed electrical energy into moving air, and the sail caught it.)
 
 ## Worksheets

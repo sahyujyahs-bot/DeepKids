@@ -298,18 +298,18 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Ask: Why does the fibre in rajma skins go on the large intestine space? (good: No human enzyme can cut fibre.; The bacteria in the large intestine ferment fibre.)
   - Note: A good answer names the enzyme or juice: 'pepsin in the stomach', 'bile and lipase in the small intestine'. Starch is the only food that goes on the mouth space.
 - **s3 (5 min)**  
-  *Parent does:* 1. Count the points. 2. Lay the cards out in five groups by space. 3. Ask which group is biggest and which enzyme works alone.  
+  *Parent does:* 1. Count the points. 2. Lay the cards out in five groups by space. 3. Ask which foods your own enzymes never cut.  
   *Parent says:* Count your points. Now look at the five groups. Which foods did your own enzymes never cut?  
-  *Child mode:* Count your points. Sort the cards into five groups. Which foods did your enzymes never cut?
+  *Child mode:* Count your points. Sort the cards into five groups.
   - Check: In Right Juice, Right Place, the four fibre cards go on the large intestine space. Why? → **Only gut bacteria can cut fibre**
 ### g2 · Whose Teeth, Whose Gut? The animal clue cards (15 min)
 - **rules:** Shuffle the cards and put them in a pile, clue side up.; On your turn, read the three clues aloud.; First say what this animal eats: plants, other animals or both. Give a reason from the clues.; Then guess the animal. Turn the card over.; You score 1 point for the right kind of food and 2 more points for the right animal.; Playing alone? Play all 12 cards. The best possible score is 36.; After all 12 cards, the player with the most points wins.
 - **Printable cards: 12 animal clue cards: three clues on the front, the animal and the reason on the back:** No upper front teeth. Broad, flat back teeth. A stomach of four chambers, holding many litres. (back: Cow. She eats plants. Microbes in her rumen cut the fibre of the grass.); Back teeth that slice like scissors. A jaw that cannot move sideways. A small large intestine, about one-sixth of the gut. (back: Cat. She eats other animals. Meat is easy to digest, so she needs little room for microbes.); Front teeth that never stop growing. A large intestine that is nearly half of the gut. A large side pouch full of microbes. (back: Rabbit. They eat plants. Microbes in the caecum and large intestine cut the fibre.); Four kinds of teeth, 32 in all. A small caecum. Most gut microbes live in the large intestine, which is about one-fifth of the gut. (back: Human. We eat plants and other animals. Our caecum is small, and our gut makes less room for microbes than a rabbit's.); Molars as big as a brick, replaced five times in a lifetime. A very long large intestine full of microbes. More than 100 kilograms of food a day. (back: Elephant. She eats plants. Microbes in her large intestine ferment the fibre.); Four canines, each as long as your finger. Thirty teeth, none of them flat. A short gut. (back: Tiger. She eats other animals. Her canines grip, and her back teeth slice meat.); No teeth at all. A beak. A muscular part of the stomach that grinds the food. (back: Crow. She eats plants and other animals. Her gizzard does the work of teeth.); Teeth all of one shape, like pegs. Each tooth is replaced many times in a lifetime. No chewing: food is swallowed in lumps. (back: Mugger crocodile. They eat other animals. Strong stomach acid digests even bone.); Flat grinding teeth with ridges. One stomach chamber only. A very large side pouch. (back: Horse. She eats plants. Microbes in her caecum and large intestine cut the fibre.); Jaws but no teeth. A body smaller than a grain of rice. A hind gut packed with microbes that digest wood. (back: Termite. They eat wood and dead plants. Their gut microbes cut the wood fibre.); Two upper front teeth missing, leaving a gap. Long, loose lips. Strong claws for breaking open mounds. (back: Sloth bear. They eat termites, ants, fruit and honey. They suck insects up through the gap.); Teeth that point backwards. A jaw that opens very wide. No chewing: the meal is swallowed whole. (back: Indian rock python. They eat other animals. Their teeth only hold the prey, and the stomach does all the breaking down.)
 - **Printable score sheet: A score sheet with a column for each player:** Player's name; 1 point for the right kind of food; 2 more points for the right animal; Total
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out the 12 cards. 2. Shuffle them and put them in a pile, clue side up. 3. Draw a score sheet.  
+  *Parent does:* 1. Cut out the 12 cards. 2. Shuffle them and put them in a pile, clue side up. 3. Make a score sheet with a column for each player, or use counters for points.  
   *Parent says:* Each card gives three clues about an animal's teeth and gut. From the clues, you work out what the animal eats.  
-  *Child mode:* Cut out the cards. Mix them. Put them clue side up. Draw a score sheet.
+  *Child mode:* Cut out the cards. Mix them. Put them clue side up. Make a score sheet, or use counters for points.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns to read a card. 2. Say what the animal eats and give a reason. 3. Guess the animal. 4. Turn the card over and score.  
   *Parent says:* Read the clues. Does this animal eat plants, other animals or both? Which clue tells you? Now guess who the animal is.  
@@ -319,7 +319,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **s3 (3 min)**  
   *Parent does:* 1. Count the points. 2. Sort the cards into plant-eaters, meat-eaters and those who eat both. 3. Ask what the plant-eaters share.  
   *Parent says:* Sort the cards by food. What do all the plant-eaters have that the meat-eaters do not?  
-  *Child mode:* Count your points. Sort the cards by food. What do all the plant-eaters share?
+  *Child mode:* Count your points. Sort the cards by food.
   - Check: In Whose Teeth, Whose Gut?, why do the plant-eaters have big pouches, large intestines or extra chambers? → **Their microbes need room and time to cut fibre**
 
 ## Experiments
@@ -332,18 +332,18 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **results table:** Cup | What went in | My guess: runny or thick? | How far the blob ran in 1 minute (centimetres)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Stir 2 level tablespoons of cornflour into 1 tumbler of cold water. 2. Heat it, stirring all the time, until it is thick and shiny. 3. Spread it on a steel plate to cool.  
-  *Parent says:* I am cooking a paste that is almost pure starch. It must cool before we use it. Why might hot paste spoil our test?  
+  *Parent says:* I am cooking a paste that is almost pure starch. It must cool first, because hot paste would spoil the saliva.  
   *Child mode:* Ask a grown-up to cook the starch paste. Spread it on a plate. Let it cool.
   - Note: A spoonful of the paste should hold its shape, like thick custard. If it is runny, cook it for two more minutes. It is ready to use when it no longer feels warm on your wrist, after about 15 minutes. Go on to the next two steps while it cools.
 - **s2 (5 min)**  
   *Parent does:* 1. Explain the four cups. 2. Ask for a guess and a reason for each cup. 3. Write the guesses in the results table.  
-  *Parent says:* Cup A gets water. Cup B gets saliva. Cup C gets saliva that has been heated. Cup D gets saliva and lemon juice. Which will turn runny? Why do you think so?  
-  *Child mode:* Four cups get four different things. Which pastes will turn runny? Why? Write your guess for each cup.
+  *Parent says:* Cup A gets water. Cup B gets saliva. Cup C gets saliva that has been heated. Cup D gets saliva and lemon juice. Which will turn runny?  
+  *Child mode:* Guess which cups will turn runny. Write your guess for each cup.
   - Ask: Why do you think heated saliva will work, or will not work? (good: Heat might spoil the enzyme, the way cooking changes an egg.; Saliva is still saliva after heating, so it should work.; Warm things work faster, so it might work better.)
   - Note: Do not correct any guess. 'Warm things work faster' is a sensible idea, and the test will answer it.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. Your child rinses their mouth and spits saliva into a katori until there is about 1 teaspoon. 2. Stir in 1 teaspoon of water. 3. Put half a teaspoon of this saliva mix into a second katori. 4. Stand that katori in just-boiled water for 5 minutes, covered.  
-  *Parent says:* Rinse your mouth first. Now collect about a teaspoon of saliva. Looking at the cut lemon will help. I will heat a small part of it.  
+  *Parent says:* Rinse your mouth first. Now collect about a teaspoon of saliva. I will heat a small part of it.  
   *Child mode:* Rinse your mouth. Spit into a katori until you have a teaspoon. A grown-up heats a little of it.
   - Note: Collecting a teaspoon takes two or three minutes. The hot water must be just off the boil, so that the saliva in the katori gets very hot. Let the heated saliva cool for 3 minutes before you use it.
 - **s4 (5 min)**  
@@ -364,7 +364,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Note: The top edge should be about 10 centimetres higher than the bottom edge. A runny paste reaches the bottom in seconds. If so, write 'ran off' and the length of the plate. The thick pastes may creep 1 to 3 centimetres.
 - **s7 (5 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Only then, read the explanation card on enzymes.  
-  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. What does this tell you about saliva in the stomach?  
+  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why you think it happened.
   - Ask: Which pastes ran, and which stayed thick? (good: Only the paste with plain saliva ran far.; The heated saliva and the lemon cups stayed thick, like the water cup.)
   - Ask: What does cup D tell you about saliva in the stomach? (good: The stomach is acid, like lemon juice.; So the enzyme in saliva stops working in the stomach.)
@@ -379,8 +379,8 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **results table:** Cup | Thick food | Liquid added | How far the blob ran in 1 minute (centimetres)
 - **s1 (4 min)**  
   *Parent does:* 1. Recall the Run Test, where saliva turned the starch paste runny. 2. Show the isabgol husk and say that it is plant fibre. 3. Ask for a guess and a reason, and write both down.  
-  *Parent says:* In the Run Test, saliva made thick starch paste runny. This husk is plant fibre, and it also makes a thick gel. Will saliva thin the gel too? Why do you think so?  
-  *Child mode:* Saliva made the starch paste runny. Will saliva thin a fibre gel too? Why? Write your guess.
+  *Parent says:* In the Run Test, saliva made thick starch paste runny. This husk is plant fibre, and it also makes a thick gel. Will saliva thin the gel too?  
+  *Child mode:* Guess if saliva will thin the fibre gel. Write your guess.
   - Ask: Why do you think saliva will thin the gel, or will not? (good: Saliva digests food, and this is food, so it should.; The enzyme may fit only starch, so it may not.; Both are thick, so saliva should thin both.)
   - Note: Do not correct the guess. Stir the husk into the water now, because the gel needs 15 minutes to thicken.
 - **s2 (6 min)**  
@@ -396,7 +396,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Note: The starch with saliva runs far. The two gel blobs should run about the same distance as each other. A gel blob may slide as one lump. Measure to its front edge.
 - **s4 (5 min)**  
   *Parent does:* 1. Compare cup 1 with cup 2, and cup 3 with cup 4. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then read the explanation card on fibre and gut microbes.  
-  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. If saliva cannot cut fibre, what happens to the fibre you eat?  
+  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why you think it happened.
   - Ask: What happens to fibre that no enzyme of yours can cut? (good: It travels on to the large intestine.; The bacteria there cut it.; Some of it leaves the body.)
   - Note: The usual result: saliva changes the starch and leaves the gel as it was. The enzyme fits starch and nothing else. If the two gel blobs differ by a centimetre or two, that is within what two blobs of the same gel would do.
@@ -411,7 +411,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **s1 (4 min)**  
   *Parent does:* 1. Explain the test. 2. Ask for a guess and a reason. 3. Write both in the notebook.  
   *Parent says:* We will count the sounds a belly makes, before lunch and after lunch. When do you think it will make more sounds? Why do you think so?  
-  *Child mode:* You will count belly sounds before and after lunch. When will there be more? Why? Write your guess.
+  *Child mode:* Guess when there will be more belly sounds. Write your guess.
   - Ask: Why do you think there will be more sounds before lunch, or after? (good: A hungry stomach growls, so before.; After lunch there is food to mix, so after.; The gut works all the time, so about the same.)
   - Note: All three guesses are reasonable, and real bellies differ. Do not say which is right.
 - **s2 (8 min)**  
@@ -439,8 +439,8 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **record:** Write the two times in seconds. Then write one sentence about what you think made the difference.
 - **s1 (3 min)**  
   *Parent does:* 1. Ask your child to guess whether their mouth makes more saliva when it only sees and smells food. 2. Ask for the reason. 3. Write both in the notebook.  
-  *Parent says:* Do you think your mouth makes saliva before any food arrives? Why do you think so?  
-  *Child mode:* Does your mouth make saliva before food arrives? Why do you think so? Write your guess.
+  *Parent says:* Do you think your mouth makes saliva before any food arrives?  
+  *Child mode:* Guess if your mouth makes saliva before food arrives. Write your guess.
   - Ask: Why might a mouth make saliva before any food arrives? (good: It gets ready for the food.; It has smelled the food, so it starts early.; It does not wait, and it just keeps making saliva.)
   - Note: Do not correct the guess. The test will answer it.
 - **s2 (3 min)**  
@@ -464,8 +464,8 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **record:** Write the time that each lump took to disappear. Then write which one dissolved first and why you think so.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child to guess which will vanish first and why. 2. Ask how much faster they expect. 3. Write both guesses in the notebook.  
-  *Parent says:* The same amount of sugar goes in each katori, as one lump, as four pieces and as powder. Which vanishes first? Why do you think so?  
-  *Child mode:* The same sugar goes in three katoris. Which will vanish first? Why? Write your guess.
+  *Parent says:* The same amount of sugar goes in each katori, as one lump, as four pieces and as powder. Which vanishes first?  
+  *Child mode:* Guess which sugar will vanish first. Write your guess.
   - Ask: Why do you think that one will vanish first? (good: Powder has more of its outside showing to the water.; Small bits are easier to break up.; The big lump has to be eaten away from the outside.)
   - Note: Do not correct the guess. Crush one lump now, with the cloth held down firmly, while your child writes.
 - **s2 (6 min) · grown-up needed**  
@@ -481,7 +481,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Check: In Whole or Crushed, why must all three katoris get the same amount of water and the same stirring? → **So that only the size of the pieces differs**
 - **s4 (2 min)**  
   *Parent does:* 1. Compare the three times. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then explain surface and chewing.  
-  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. A swallowed lump of food is like the whole sugar lump. What would chewing have done to it first? What does chewing do to it?  
+  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. A swallowed lump of food is like the whole sugar lump.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why you think it happened.
   - Ask: What does chewing do for the enzymes in your mouth? (good: It gives them more of the food's outside to work on.; It breaks big lumps into small bits.; It is like crushing the sugar.)
   - Note: Water, like an enzyme, can only work on the outside of a piece. Cutting a piece into four, or into powder, makes much more outside. Chewing does the same to food. It does not make the food more nutritious. It makes digestion faster. One chewing rule does not suit every food, as the Fletcher card in the unit shows.
@@ -495,14 +495,14 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Ask: What made you put that animal last? (good: A cow is the biggest animal.; A cow eats only grass.; Plants are harder to digest.)
   - Note: Do not correct the order. Most children guess that size decides the order, and for the whole intestine they are right. The strips will also show what food changes.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Cut the strips at 1 centimetre of strip for each 10 centimetres of real intestine: cat 14 centimetres, rabbit 34, human 80 and cow 510. 2. Join strips of newspaper with tape, to make the long ones. 3. Colour the last part of each strip red, for the large intestine: cat 2.5 centimetres, rabbit 15, human 16 and cow 100.  
+  *Parent does:* 1. Cut the strips at 1 centimetre of strip for each 10 centimetres of real intestine: cat 14 centimetres, rabbit 34, human 80 and cow 510. 2. Join strips of newspaper with tape, to make the long ones. 3. Colour the last part of each strip red (or stick red paper on it), for the large intestine: cat 2.5 centimetres, rabbit 15, human 16 and cow 100.  
   *Parent says:* Scientists measured real animals. A cat's intestine is about 1.4 metres, a rabbit's about 3.4, a person's about 8 and a cow's about 51. We cut one centimetre of strip for every 10 centimetres of real gut. Work out each strip with me.  
   *Child mode:* Cut the strips: cat 14 centimetres, rabbit 34, person 80, cow 510. Colour the large intestine red.
   - Note: The cow's strip is 5 metres and 10 centimetres, so you need a hallway or a balcony. A string works as well as paper. Your child can do the sums, and you do the cutting. The figures are rounded from published measurements, and real animals vary.
 - **s3 (5 min)**  
-  *Parent does:* 1. Lay the four gut strips side by side. 2. Lay each body strip beside its gut strip. 3. Ask your child to compare the animals that eat plants with the animal that eats other animals.  
-  *Parent says:* Look at the four strips. Which is longest? Now look at the red parts. Compare the cat and the rabbit, who weigh about the same. What is different?  
-  *Child mode:* Lay out the four strips. Which is longest? Compare the cat and the rabbit. What is different?
+  *Parent does:* 1. Lay the four gut strips side by side. 2. Ask your child to compare the animals that eat plants with the animal that eats other animals.  
+  *Parent says:* Look at the four strips. Which is longest? Now look at the red parts. Compare the cat and the rabbit, who weigh about the same.  
+  *Child mode:* Lay out the four strips. Find the longest. Look at the red parts of the cat and the rabbit.
   - Ask: The cat and the rabbit weigh about the same. Which part of their strips is most different? (good: The red part of the rabbit's strip is much longer.; The rabbit's red part is nearly half of its strip.; The cat's red part is small.)
   - Check: In The Gut Ladder, the cat and the rabbit weigh about the same. Which part of their guts differs most? → **The large intestine, the red part, is much longer in the rabbit**
 - **s4 (3 min)**  
@@ -512,15 +512,15 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Note: The longest strip belongs to the biggest animal, because body size sets most of the length. Scientists used to teach that plant-eaters simply have longer guts. In 2021 a team that gathered measurements from 519 kinds of mammal found this rule weak. Food changes the large intestine most, and the small intestine follows body size more. The cat and the rabbit are the fair pair, because they weigh about the same. The rabbit's microbes live mostly in the caecum, a large side pouch at the start of the large intestine, and in the rest of the large intestine. The cow's microbes live mostly in her rumen, the first chamber of her stomach, which is not on these strips. Each strip stands for a few animals only: a wild cat for the cat, a domestic rabbit, people who had died, and cattle. Real animals vary a lot, so say 'about'.
 ### a4 · Lock and Key Chains: a paper model of why an enzyme cuts only one food (20 min)
 - **safety:** A grown-up cuts the small shapes with the scissors.
-- **record:** Draw a table with the three enzymes down the side and the three chains across the top. Write 'cuts' or 'does not fit' in each of the nine boxes.
+- **record:** Rule a table with the three enzymes down the side and the three chains across the top. Write 'cuts' or 'does not fit' in each of the nine boxes.
 - **s1 (4 min)**  
   *Parent does:* 1. Show a red strip, a blue strip and a green strip. 2. Say that the red one is starch, the blue one is protein and the green one is fibre. 3. Ask your child how an enzyme could find the right chain.  
-  *Parent says:* Each strip is a long chain of food units. The joins between the units are different shapes. How could an enzyme tell one chain from another?  
-  *Child mode:* Each strip is a food chain. The joins have different shapes. How could an enzyme tell them apart?
+  *Parent says:* Each strip is a long chain of food units. The joins between the units are different shapes.  
+  *Child mode:* Look at the three strips. Their joins have different shapes.
   - Ask: How could an enzyme tell one chain from another? (good: By the shape of its join.; Like a key that fits one lock.; Only the right shape lets it hold on.)
   - Note: Do not correct the answer. The model will show the idea of a fit.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Mark each strip into four units of 6 centimetres. 2. At each of the three joins on a strip, cut a small notch from the edge: a triangle on the red strip, a half circle on the blue strip and a square on the green strip. 3. Cut three card tags with a small tooth at one end. 4. Shape the teeth to match a triangle, a half circle and a square. 5. Label the tags amylase, pepsin and microbe enzyme.  
+  *Parent does:* 1. Mark each strip into four units of 6 centimetres. 2. At each of the three joins on a strip, cut a small notch from the edge: a triangle on the red strip, a half circle on the blue strip and a square on the green strip. 3. Cut three card tags with a small tooth at one end. 4. Shape the teeth to match a triangle, a half circle and a square. 5. Label the tags on the back: amylase (triangle tooth), pepsin (half circle tooth) and microbe enzyme (square tooth).  
   *Parent says:* The red strip is starch with triangle joins. The blue strip is protein with half-circle joins. The green strip is fibre with square joins. The tags are enzymes. Which tag should fit which strip?  
   *Child mode:* A grown-up cuts the notches and the tags. The tags are amylase, pepsin and a microbe enzyme.
   - Note: The teeth must be about 5 millimetres across, so they fit the notches neatly. The microbe enzyme has the square tooth, because only gut microbes make an enzyme for the joins in fibre.
@@ -543,7 +543,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **schedule:** day 1: Write the four questions and your guess for each. Practise on one person at home. (20 min); day 2: Ask at least ten people. Make a tally mark for each answer. Do not write their names. (20 min); day 3: Add up the tallies, draw a bar chart and write what you found and what it cannot tell you. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Day 1. Write these four questions. A: A large tumbler of milk, about 250 millilitres. Does it often give you gas or a stomach ache? B: A small cup of milk, about 100 millilitres. C: Curd or buttermilk. D: Hard cheese or paneer. 2. Answer yes, sometimes or no for each. 3. Write your guess for how many people will say yes to A. 4. Try it on one person at home.  
-  *Parent says:* We will ask four questions about milk, curd and paneer. How many of ten people do you think will say yes to the large tumbler? Why do you think so?  
+  *Parent says:* We will ask four questions about milk, curd and paneer. First we guess, then we ask.  
   *Child mode:* Write four questions about milk, curd and paneer. Write your guess for the big tumbler. Try it on one person.
   - Ask: How many of ten grown-ups do you think will say that a big tumbler of milk gives them trouble? (good: Maybe two or three, because most people drink milk.; Maybe half, because I know several people who avoid it.; I do not know. That is why we ask.)
   - Note: Do not correct the guess. Say the questions aloud and let your child practise on you. Keep the wording the same for every person. Tell people that you are not diagnosing anything, only counting.
@@ -553,9 +553,9 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   *Child mode:* Ask ten people your four questions. Make a tally mark for each answer. Do not write names.
   - Note: People may tell stories, which is fine, but keep the tally to the three answers. Someone who says milk bothers them should not be told they are ill. Many people have little lactase and live well. A stomach ache that keeps coming back is a matter for a doctor.
 - **s3 (20 min)**  
-  *Parent does:* 1. Day 3. Add up the yes answers for each question. 2. Draw a bar chart with four bars. 3. Compare the older people with the children. 4. Write what you found, and what the survey cannot show.  
-  *Parent says:* Count the yes answers for each question. Draw a bar for each one. Which question got the most yes answers? Does milk trouble more people than curd?  
-  *Child mode:* Add up the yes answers. Draw four bars. Compare milk, curd and paneer.
+  *Parent does:* 1. Day 3. Add up the yes answers for each question. 2. Make a bar chart with four bars: draw it, or stack coins for each yes answer. 3. Compare the older people with the children. 4. Write what you found, and what the survey cannot show.  
+  *Parent says:* Count the yes answers for each question. Make a bar for each one. Does milk trouble more people than curd?  
+  *Child mode:* Add up the yes answers. Make four bars. Compare milk, curd and paneer.
   - Ask: Which question had the most yes answers, and which had the fewest? (good: The big tumbler of milk had the most.; Curd or buttermilk had the fewest.; Paneer and cheese had few.)
   - Ask: What can this survey not show? (good: It is only about ten people, so it is too small to be sure.; People may not know why they feel unwell.; A real test measures lactase, and we only asked.)
   - Note: The usual result is that the large tumbler gets more yes answers than the small cup, and curd and paneer get the fewest. That fits the idea that lactose is the cause, since curd and paneer hold less lactose than milk. A survey of ten cannot match the study by Rakesh Tandon and his team in 1981, which tested people in a laboratory. Tell your child that doing a small survey first and asking a bigger question later is how many studies begin.
@@ -571,8 +571,8 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 - **creative:** Cut the starch smaller first. Mash a spoon of cooked rice, and compare it with a lump of cooked rice of the same weight in a second cup.; Try a slice of cooked potato against a spoon of cornflour paste, to see whether the enzyme prefers one starch.; Test the cold side. Stand a cup in iced water, and write how much slower the enzyme becomes.
 - **s1 (8 min)**  
   *Parent does:* 1. Read the problem. 2. Ask your child to choose one thing to change and to say why it should help. 3. Write the question, the guess and the reason.  
-  *Parent says:* Which one thing will you change to make the enzyme work faster? Why do you think it will help? What will your control cup be?  
-  *Child mode:* Choose one thing to change. Say why it will help. Say what your control cup is.
+  *Parent says:* Which one thing will you change to make the enzyme work faster? You could try warmer water, more saliva or more stirring. Why do you think it will help?  
+  *Child mode:* Choose one thing to change. Say why it will help.
   - Ask: What will your control cup be? (good: The same paste and saliva with nothing changed.; A cup with the usual amount at room warmth.; The cup that tells me what happens with no change.)
   - Note: A child often wants to change two things at once, such as warm and more saliva. Help them keep it to one. It is the only way to know which one did the work.
 - **s2 (20 min)**  

@@ -1079,7 +1079,7 @@
      "mins": 5,
      "do": "1. Tell your child the plan: one dose is 2 teaspoons, and half the glass is poured away before every new dose. 2. Ask for the guess and the reason. 3. Write both down.",
      "say": "A body removes half of a medicine every few hours. Then the next dose arrives. After six doses, how much tea will be in the glass? Will it be darker than TWO DOSES? Why do you think so?",
-     "kid": "Six doses will go in. Half is poured away each time. How much tea stays? Why?",
+     "kid": "Guess how the glass will look after six doses. Say why.",
      "ask": [
       {
        "q": "Six doses of 2 teaspoons make 12 teaspoons. Will all 12 be in the glass at the end?",
@@ -1153,8 +1153,8 @@
      "id": "s6",
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your numbers. Say what you thought would happen, what you saw, and why you think it happened. Why did the level stop near 4 teaspoons?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "say": "Look at your numbers. What did you guess, and what did you see?",
+     "kid": "Look at your table. Does the level keep rising?",
      "ask": [
       {
        "q": "Why did the tea stop rising near 4 teaspoons?",
@@ -1315,7 +1315,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Pour 1 cup of water into each glass and stand them on the slips A and B. 2. Your child looks away. Stir 1 level teaspoon of sugar into one glass until it has dissolved. Write which glass on the folded slip. 3. Your child keeps 3 stems on the plate. 4. They cut a fingernail's width off the bottom of the other 12. 5. They toss a coin for each stem: heads goes to A, tails to B. When one glass has 6, the rest go to the other.",
-     "say": "I will put sugar in one glass while you look away. Then you toss a coin for each stem. Why should a coin choose, and not you? Why should you not know which glass has the sugar?",
+     "say": "I will put sugar in one glass while you look away. Then you toss a coin for each stem to choose its glass.",
      "kid": "Look away while the sugar goes in. Toss a coin for each stem. Six in each glass.",
      "ask": [
       {
@@ -1370,7 +1370,7 @@
      "mins": 12,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
      "say": "Look at your counts. Say what you thought would happen, what you saw, and why you think it happened. What did the sugar add?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Which group did best? Tell your grown-up why.",
      "ask": [
       {
        "q": "Suppose you had only the sugar glass. What would you have believed?",
@@ -1844,8 +1844,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Ask the two questions below, and then the check.",
-     "say": "The measuring cup is lost. May the grown-up use a kitchen teaspoon? And why does the dose depend on the child's weight?",
-     "kid": "The measuring cup is lost. Is a kitchen spoon good enough? Why not?",
+     "say": "The measuring cup is lost. Could the grown-up use a kitchen teaspoon instead?",
+     "kid": "The measuring cup is lost. Say why a kitchen spoon might give too much or too little.",
      "ask": [
       {
        "q": "Why does a heavier child get a bigger dose?",
@@ -1876,7 +1876,7 @@
    "title": "The Medicine's Journey: draw the route of a swallowed tablet",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw a body outline and trace the path of a swallowed tablet. You draw it from the mouth to the blood, to the place where it works, and out of the body. You also mark where an inhaler, eye drops and an ointment go in.",
+   "context": "In this activity you draw a body outline and trace the path of a swallowed tablet. You draw it from the mouth to the blood, to the place where it works, and out of the body. You also mark where an inhaler, eye drops and an ointment go in. You find out why a tablet for one sore place also reaches the rest of the body.",
    "materials": [
     {
      "item": "a large sheet of paper, such as an opened newspaper page or the back of a calendar sheet",
@@ -1907,17 +1907,17 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Your child draws a body outline, about as long as their arm. 2. Ask the question below. 3. They draw their own idea of the path in pencil.",
-     "say": "A person with a sore toe swallows a tablet. How does the medicine get from the mouth to the toe? Draw what you think happens inside.",
-     "kid": "A tablet is swallowed for a sore toe. How does it reach the toe? Draw your idea.",
+     "say": "A person with a sore toe swallows a tablet. How does the medicine get from the mouth to the toe? Show what you think happens inside. Draw it, or point and tell me.",
+     "kid": "A tablet is swallowed for a sore toe. How does it reach the toe? Draw your idea, or point and tell your grown-up.",
      "parent": "Many children draw a tube from the stomach straight to the sore place. Keep the drawing. Do not correct it yet.",
      "context": "This is the first step of the Medicine's Journey. You draw your own idea of how a swallowed tablet reaches a sore toe."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Read out the real path, one stop at a time. 2. Your child draws it in red: mouth, food pipe, stomach, small intestine, through the gut wall into the blood, liver, heart, then out to every part. 3. They draw red arrows to the head, the hands, the skin and the toes.",
-     "say": "The tablet dissolves in the stomach. In the small intestine the medicine passes into the blood. The blood goes to the liver, then the heart pumps it everywhere. Draw each stop.",
-     "kid": "Draw the real path in red. Mouth, stomach, small intestine, blood, liver, heart, everywhere.",
+     "do": "1. Read out the real path, one stop at a time. 2. Your child lays a red wool thread along the path, or draws it in red: mouth, food pipe, stomach, small intestine, through the gut wall into the blood, liver, heart, then out to every part. 3. They draw red arrows to the head, the hands, the skin and the toes.",
+     "say": "The tablet dissolves in the stomach. In the small intestine the medicine passes into the blood. The blood goes to the liver, then the heart pumps it everywhere. Touch each stop as I read it.",
+     "kid": "Follow the real path with the thread, stop by stop, and name each stop.",
      "ask": [
       {
        "q": "The medicine was meant for the toe. Where else did it go?",
@@ -1932,9 +1932,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. In blue, your child draws the way out: the liver changes the medicine, the kidneys filter it from the blood, and it leaves in urine. 2. In green, they mark three other ways in: an inhaler to the lungs, drops on the eye and ointment on the skin.",
-     "say": "Now draw the way out in blue. Then mark in green where an inhaler, eye drops and an ointment go in. Why might a doctor choose one of those?",
-     "kid": "Draw the way out in blue. Mark an inhaler, eye drops and ointment in green.",
+     "do": "1. In blue, your child draws the way out, or traces it with a finger and tells it: the liver changes the medicine, the kidneys filter it from the blood, and it leaves in urine. 2. In green, they mark three other ways in: an inhaler to the lungs, drops on the eye and ointment on the skin.",
+     "say": "Now show the way out in blue, with a drawing or a finger. Then mark in green where an inhaler, eye drops and an ointment go in. Why might a doctor choose one of those?",
+     "kid": "Show the way out in blue. Mark an inhaler, eye drops and ointment in green.",
      "ask": [
       {
        "q": "Why is an asthma medicine breathed in and not swallowed?",
@@ -1972,7 +1972,7 @@
    "title": "The Worst Day: read the chart of a cold",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw a line graph of an ordinary cold over ten days. Nobody in the graph took any remedy. Then you mark the day when people usually take a remedy, and read what happens next.",
+   "context": "In this activity you draw a line graph of an ordinary cold over ten days. Nobody in the graph took any remedy. Then you mark the day when people usually take a remedy, and read what happens next. You find out why a remedy can seem to work when it did nothing.",
    "materials": [
     {
      "item": "squared paper, or a notebook page ruled into squares",
@@ -2056,7 +2056,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Ask on which day a person is most likely to reach for a remedy. 2. Your child draws a small spoon on that day. 3. They read the numbers for the next two days.",
+     "do": "1. Ask on which day a person is most likely to reach for a remedy. 2. Your child puts a small marker, such as a coin or a bean, on that day. 3. They read the numbers for the next two days.",
      "say": "On which day would most people reach for a remedy? Mark it. Now read the chart. How will the person feel two days later, whatever they took?",
      "kid": "Which day would people take a remedy? Mark it. How do they feel two days later?",
      "ask": [
@@ -2138,7 +2138,7 @@
      "what": "Test the cut face again. A grown-up makes a fresh cut beside the old one, and you compare the two faces."
     }
    ],
-   "record": "Draw the cut face on day 1 and on day 3. Write what the paper strip showed each time, and what you found under the new skin.",
+   "record": "Draw the cut face on day 1 and on day 3, or take a photo of each. Write what the paper strip showed each time, and what you found under the new skin.",
    "setup": [
     {
      "art": "A grown-up's hands cutting a raw potato in half on a board, with a child watching.",
@@ -2190,7 +2190,7 @@
      "mins": 5,
      "do": "Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the note below.",
      "say": "Say what you thought would happen, what you saw, and why you think it happened. Who closed the potato's wound?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Tell your grown-up what you guessed, what you saw, and why.",
      "ask": [
       {
        "q": "Nothing was put on the cut. So what closed it?",
@@ -2348,7 +2348,7 @@
     "A card sleeve that slides off only while two clothes pegs are squeezed together.",
     "A latch set deep in a card tube, which only a long grown-up finger can reach."
    ],
-   "your_turn": "Now build your own closure. Write one line of instructions on the box. Time a grown-up opening it. Then try to open it yourself using one hand and one action at a time, as a toddler would. Draw the design, and write what you would change.",
+   "your_turn": "Now build your own closure. Write one line of instructions on the box. Time a grown-up opening it. Then try to open it yourself using one hand and one action at a time, as a toddler would. Take a photo or draw the design, and write what you would change.",
    "setup": [
     {
      "art": "A small plastic box of rajma seeds on a table with rubber bands, clothes pegs, card and tape around it.",
@@ -2384,9 +2384,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Your child sketches two designs and names the two actions each one needs.",
-     "say": "Sketch two designs. For each, tell me the two actions, and which hand does which.",
-     "kid": "Sketch two designs. Name the two actions for each.",
+     "do": "Your child describes two designs, with hands or a quick sketch, and names the two actions each one needs.",
+     "say": "Think of two designs. For each, tell me the two actions, and which hand does which.",
+     "kid": "Think of two designs. Name the two actions for each.",
      "context": "In this step of the Lid a Toddler Cannot Open you sketch two designs. You name the two actions each needs."
     },
     {
@@ -2450,7 +2450,7 @@
     "Pair children of the same age, and toss one coin for each pair, so that the groups match.",
     "Give each child the kashaya for one cold and the dummy for the next, and compare."
    ],
-   "your_turn": "Now draw your own plan as a chart with boxes and arrows. Start at 'find 40 children' and end at 'compare the two groups'. Write what you will measure. Then write one thing your trial cannot tell you.",
+   "your_turn": "Now draw your own plan as a chart with boxes and arrows, or lay it out on paper slips. Start at 'find 40 children' and end at 'compare the two groups'. Write what you will measure. Then write one thing your trial cannot tell you.",
    "setup": [
     {
      "art": "A sheet of paper with a flow chart: one box at the top splitting by a coin into two boxes, each leading to a box marked 'count'.",
@@ -2500,8 +2500,8 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "Your child draws the plan as boxes and arrows, and adds the safety rule for a child who gets worse.",
-     "say": "Draw your plan as boxes and arrows. Where does the coin come in? Where is the blind counting? What happens to a child who gets worse?",
+     "do": "Your child draws the plan as boxes and arrows, or lays slips of paper in order. They add the safety rule for a child who gets worse.",
+     "say": "Draw your plan as boxes and arrows, or lay out slips of paper. Where does the coin come in? Where is the blind counting? What happens to a child who gets worse?",
      "kid": "Draw your plan as boxes and arrows. Add the rule for a child who gets worse.",
      "context": "In this step of Plan a Fair Trial of a Kashaya you draw the whole plan. You add a safety rule."
     },

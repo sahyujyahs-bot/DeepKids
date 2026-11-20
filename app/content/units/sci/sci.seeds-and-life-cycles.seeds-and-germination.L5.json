@@ -465,7 +465,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "In this game a dabba holds 50 seeds. Rajma stand for living seeds and chana stand for dead seeds. You take out a few seeds without looking and guess what percent of the whole dabba is alive.",
+   "context": "In this game you find out how many seeds you must test before you can trust your guess. A dabba holds 50 seeds. Rajma stand for living seeds and chana stand for dead seeds. You take out a few seeds without looking and guess what percent of the whole dabba is alive.",
    "printables": [
     {
      "kind": "cards",
@@ -528,7 +528,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Play two rounds each. After each round, ask the question below.",
+     "do": "Play three rounds each. In each round the setter secretly picks a mix card and fills the dabba with 50 seeds. The other player scoops and guesses. After each round, ask the question below.",
      "say": "Shut your eyes, stir, and lift out 5 seeds. What percent of the dabba is alive? Now take 5 more. Do you want to change your guess? Now 15 more.",
      "kid": "Shut your eyes. Lift out 5 seeds. Guess the percent alive. Take more seeds. Guess again.",
      "ask": [
@@ -573,7 +573,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about what happens to seeds. Each card describes a seed and what was done to them. You say whether the seed will wake, wait, or is gone.",
+   "context": "This is a card game. You will find out which seeds wake, which wait, and which are gone for good. Each card describes a seed and what was done to them. You say whether the seed will wake, wait, or is gone.",
    "printables": [
     {
      "kind": "cards",
@@ -716,16 +716,16 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the tokens. Shuffle the cards. Give each player three tokens.",
-     "say": "Each card tells what was done to a seed. You decide what happens next: the seed wakes, waits, or is gone.",
+     "say": "Each card tells what was done to a seed. You decide what happens next: the seed wakes, waits, or is gone. A right answer scores 1 point, and a right reason scores 1 more.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take three tokens.",
      "context": "This is the first step of Wake, Wait or Gone. You set up the seed fate cards and the answer tokens."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Play the first 12 cards. Read each back aloud. After card 6, ask the question below.",
+     "do": "Play the first 12 cards. The reader reads each front aloud. The others put a token face down, then all turn them over, and the reader reads the back. After card 6, ask the question below.",
      "say": "Listen to the card. Is there water? Is the seed dry or wet? Has the root come out? Choose your token.",
-     "kid": "Listen to the card. Choose WAKE, WAIT or GONE. Turn your token over. Check the back.",
+     "kid": "Listen to the card. Put down WAKE, WAIT or GONE face down. Then turn it over with the others.",
      "ask": [
       {
        "q": "What do you ask yourself first, to decide a seed's fate?",
@@ -767,7 +767,7 @@
    "title": "The Freezer Test: can a seed live through a night in the freezer?",
    "mins": 50,
    "days": 5,
-   "context": "In this five-day experiment you put dry moong seeds and soaked moong seeds in the freezer for one night. Then you give all the seeds water and count how many germinate.",
+   "context": "In this five-day experiment you put dry moong seeds and soaked moong seeds in the freezer for one night. Then you give all the seeds water and count how many germinate. You will find out whether the freezer kills a seed, and whether a wet seed is in more danger than a dry one.",
    "question": "Does one night in a freezer kill a moong seed? Does the answer depend on whether the seed is dry or soaked?",
    "predict": "Guess before you start. There are four groups of 20 seeds: dry on the shelf, dry in the freezer, soaked on the shelf and soaked in the freezer. How many of each 20 will germinate? Why do you think so? Write your four guesses and your reason.",
    "fair_test": "All 80 seeds come from one packet, and each group has 20. Every group germinates on the same kind of wet cloth, on the same shelf. Two variables are changed: dry or soaked, and shelf or freezer. The four groups test every mix of the two. Group A, dry on the shelf, is the control group. The groups get water at different times, so compare the final counts on day 5 and not the speed.",
@@ -902,7 +902,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Count out four groups of 20 seeds. Throw out any cracked seed. 2. Put groups C and D in a bowl with water 2 centimetres above them. 3. Keep groups A and B dry in two katoris. 4. Write down the time.",
-     "say": "We start in the morning. Groups C and D soak for 8 hours. Groups A and B stay dry. Why do we use 20 seeds in each group, and not 2?",
+     "say": "We start in the morning. Groups C and D soak for 8 hours. Groups A and B stay dry.",
      "kid": "Count four groups of 20 seeds. Soak two groups in water. Keep two groups dry.",
      "ask": [
       {
@@ -941,7 +941,7 @@
      "id": "s4",
      "mins": 10,
      "do": "1. Take B and D out of the freezer. Leave them for 30 minutes. 2. Let your child look at D and C side by side, and touch them. 3. Label four plates A, B, C and D. 4. Put each group on a wet cloth on a plate. Group C is already on one. 5. Cover every plate and put all four on one shelf.",
-     "say": "Look at the two soaked groups. Is anything different about the group from the freezer? Now every group gets a wet cloth. Groups A and B get water later than C. So we will compare the final count, not the speed.",
+     "say": "Look at the two soaked groups. Is anything different about the group from the freezer? Now every group gets a wet cloth. A and B have had no water until now, so they will wake later than C and D. So we will compare the final count, not the speed.",
      "kid": "Take B and D out. Wait until they thaw. Look closely. Put every group on a wet cloth. Cover the plates.",
      "ask": [
       {
@@ -975,9 +975,9 @@
     {
      "id": "s7",
      "mins": 15,
-     "do": "Day 5. 1. Make the final count. 2. Help your child turn each count into a percentage: count times 5. 3. Draw a bar chart with four bars. 4. Ask your child to say what they thought would happen, what they saw, and why it happened. 5. Then read the note below together.",
-     "say": "Each seed out of 20 is worth 5 percent. Work out the four percentages and draw the bars. Now say what you thought would happen, what you saw, and why it happened.",
-     "kid": "Count for the last time. Each seed is 5 percent. Draw four bars. Say what you thought. Say what you saw. Say why it happened.",
+     "do": "Day 5. 1. Make the final count. 2. Help your child turn each count into a percentage: count times 5. 3. Make a bar chart with four bars, drawn or built from lined-up seeds. 4. Ask your child to say what they thought would happen, what they saw, and why it happened. 5. Then read the note below together.",
+     "say": "Each seed out of 20 is worth 5 percent. Work out the four percentages and make the bars. Now say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Count for the last time. Each seed is 5 percent. Make four bars, by drawing them or by lining up seeds. Say what you thought, what you saw, and why.",
      "ask": [
       {
        "q": "Which two groups show what cold does to a dry seed?",
@@ -1009,7 +1009,7 @@
    "title": "No Going Back: can a waking seed be dried again?",
    "mins": 44,
    "days": 7,
-   "context": "In this seven-day experiment you soak moong seeds and then dry them again. Some are dried before a root appears and some after. Then you give all of them water and see who grows.",
+   "context": "In this seven-day experiment you soak moong seeds and then dry them again. Some are dried before a root appears and some after. Then you give all of them water and see who grows. You will find out whether a seed that has started to wake can go back to sleep.",
    "question": "Can a moong seed be dried again after soaking, and still grow later? Does the answer change once the root has come out?",
    "predict": "Guess before you start. Group A is never wet. Group B is soaked for 6 hours and then dried. Group C is allowed to grow a root and is then dried. When all three get water again, how many of each 20 will grow? Why do you think so?",
    "fair_test": "All the seeds come from one packet, and each group ends with 20. Groups B and C are dried side by side on the same kind of plate, until both are hard. All three groups get water again on the same day, on the same kind of cloth and shelf. Only one variable is changed: how far the seed had gone before drying. Group A, never wet, is the control group.",
@@ -1075,7 +1075,7 @@
      "what": "Make the final count and work out the percentages. Say what you thought, what you saw and why."
     }
    ],
-   "record": "Fill in the table on days 6 and 7. A seed counts as growing if there is a firm white root at least 2 centimetres long. On day 7, turn each count into a percentage. Draw one seed from each group.",
+   "record": "Fill in the table on days 6 and 7. A seed counts as growing if there is a firm white root at least 2 centimetres long. On day 7, turn each count into a percentage. Draw one seed from each group, or tell your grown-up how each one looks.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: seeds growing on day 7",
@@ -1168,7 +1168,7 @@
      "mins": 8,
      "do": "Day 4. 1. Press a seed from B and one from C. Both should be as hard as seeds from the packet. 2. Let your child describe each group. 3. Label three plates A, B and C. 4. Put each group on a wet cloth, cover the plates and put them on one shelf.",
      "say": "Describe the seeds in B and in C. How do they differ from group A? Now all three groups get water on the same day.",
-     "kid": "Press the seeds. Are they hard? Say how B and C look. Put all three groups on wet cloths.",
+     "kid": "Press a seed from B and one from C. Are they hard? Put all three groups on wet cloths.",
      "ask": [
       {
        "q": "How do the dried seeds of group C look now?",
@@ -1224,7 +1224,7 @@
    "title": "Read the Five Jars: what does a germination test show?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you check someone else's germination test. Five jars of 10 moong seeds were kept in five ways for 8 days. The results are made up, but they are typical. You work out what the test shows and where it is not fair.",
+   "context": "In this activity you check someone else's germination test. You will find out what moong seeds really need to wake up. Five jars of 10 moong seeds were kept in five ways for 8 days. The results are made up, but they are typical. You work out what the test shows and where it is not fair.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1306,8 +1306,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Look at the Five Jars table together. Ask your child what they notice. Then ask which jar is the control group.",
-     "say": "Here are five jars of moong, kept in five ways. Read the table. What do you notice? Which jar had the ordinary treatment that the others are compared with?",
-     "kid": "Read the table of five jars. What do you notice? Which jar is the control?",
+     "say": "Here are five jars of moong, kept in five ways. Read the table. What do you notice? The control is the jar kept the ordinary way. The other jars are compared with it.",
+     "kid": "Read the table of five jars. Tell your grown-up what you notice.",
      "chart": {
       "type": "table",
       "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
@@ -1453,8 +1453,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Ask about jar 3. A fridge is cold, and it is also dark. Ask whether that is fair, and which other jar helps. Then ask why the test ran for 8 days and not 4.",
-     "say": "The fridge jar differs from jar 2 in two ways. What are they? Which jar shows that darkness was not the cause? Now look at jar 3 on day 4 and on day 8.",
-     "kid": "The fridge is cold and dark. Is that fair? Which jar helps you decide? Look at jar 3 on day 8.",
+     "say": "The fridge jar differs from jar 2 in two ways. What are they? Now look at jar 3 on day 4 and on day 8.",
+     "kid": "The fridge jar is cold and dark. Look at jar 3 on day 4, then on day 8. What changed?",
      "chart": {
       "type": "table",
       "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
@@ -1533,8 +1533,8 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Your child turns each day 8 count into a percentage: count times 10. 2. They write a conclusion in two sentences. 3. Ask why each jar had 10 seeds and not 1.",
-     "say": "Each seed out of 10 is worth 10 percent. Work out the five percentages. Then write what moong need to germinate, and what they do not need.",
-     "kid": "Work out the percentage for each jar. Write what seeds need. Write what they do not need.",
+     "say": "Each seed out of 10 is worth 10 percent. Work out the five percentages. Then tell me what moong need to germinate, and what they do not need.",
+     "kid": "Work out the percentage for each jar. Then say what seeds need and what they do not need.",
      "chart": {
       "type": "table",
       "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
@@ -1727,8 +1727,8 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Double the number of strong seedlings to get the percentage. 2. Compare it with 75 percent, the lowest allowed on a certified moong packet in India. 3. Work out how many seeds to sow for 20 plants.",
-     "say": "50 seeds is half of 100, so double your number of strong seedlings. Is your packet above 75 percent? How many seeds would you sow to get 20 plants?",
-     "kid": "Double the strong seedlings. That is your percentage. How many seeds would you sow for 20 plants?",
+     "say": "50 seeds is half of 100, so double your number of strong seedlings. Is your packet above 75 percent?",
+     "kid": "Double the strong seedlings. That is your percentage. Is it above 75?",
      "ask": [
       {
        "q": "Your packet scores 80 percent. How many seeds should you sow to get 20 plants?",
@@ -1748,7 +1748,7 @@
    "title": "Four Days, Four Drawings: what happens inside a waking chana?",
    "mins": 30,
    "days": 4,
-   "context": "In this activity you open one chana each day for four days, from dry seed to seedling. You draw and label what you find, and put the steps of germination in order.",
+   "context": "In this activity you look inside a chana on four days, from dry seed to seedling. You will find out what is hiding inside a seed and which part comes out first. You measure, draw on two days, and put the steps of germination in order.",
    "materials": [
     {
      "item": "kabuli chana (the big pale kind), whole and uncooked",
@@ -1768,29 +1768,29 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Draw a dry chana and measure it. Soak 7 chana overnight."
+     "what": "Look closely at a dry chana and measure it. Soak 7 chana overnight."
     },
     {
      "day": 2,
      "mins": 10,
-     "what": "Measure a soaked chana, open the chana and draw the three parts. Put the other 6 on a wet cloth."
+     "what": "Measure a soaked chana, open the chana and draw the three parts, or point to them and name them. Put the other 6 on a wet cloth."
     },
     {
      "day": 3,
      "mins": 5,
-     "what": "Open one chana and draw what has changed."
+     "what": "Open one chana, measure the root and take a photo."
     },
     {
      "day": 4,
      "mins": 7,
-     "what": "Open one more chana, draw it, and write the steps of germination in order."
+     "what": "Open one more chana, draw it, and say the steps of germination in order."
     }
    ],
-   "record": "Make four drawings, one for each day, with the day written under each. Label the seed coat, the food store (cotyledons), the radicle and the plumule. Write the length of the chana or of the root beside each drawing.",
+   "record": "Make a drawing for day 2 and for day 4, or take photos. Write the day under each. Label the seed coat, the food store (cotyledons), the radicle (the first root) and the plumule (the first shoot). For all four days, write the length of the chana or of the root.",
    "setup": [
     {
      "art": "A dry kabuli chana beside a ruler, with its small pointed beak facing right.",
-     "caption": "1. Day 1: draw and measure a dry chana. Soak 7 overnight."
+     "caption": "1. Day 1: look at and measure a dry chana. Soak 7 overnight."
     },
     {
      "art": "A soaked chana opened into two pale halves, with a tiny pointed plant at one end.",
@@ -1802,16 +1802,16 @@
     },
     {
      "art": "A notebook page with four labelled drawings in a row, from dry seed to seedling.",
-     "caption": "4. Draw what you find each day, and label the parts."
+     "caption": "4. Draw or photograph what you find on days 2 and 4, and label the parts."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Your child draws a dry chana and finds the small pointed beak. 2. They measure the length with a ruler. 3. Soak 7 chana in a bowl overnight. Keep 1 dry.",
-     "say": "Look closely at a dry chana. Find the small beak at one end. What do you think lies under that beak? Draw the chana and measure it.",
-     "kid": "Draw a dry chana. Find the small beak. Measure the chana. Soak 7 overnight.",
+     "do": "1. Your child looks closely at a dry chana and finds the small pointed beak. 2. They measure the length with a ruler. 3. Soak 7 chana in a bowl overnight. Keep 1 dry.",
+     "say": "Look closely at a dry chana. Find the small beak at one end. Now measure the chana with the ruler.",
+     "kid": "Find the small beak. Measure the chana. Soak 7 overnight.",
      "ask": [
       {
        "q": "What do you think is under the beak of the chana?",
@@ -1822,14 +1822,14 @@
       }
      ],
      "wait": "Leave the chana to soak overnight",
-     "context": "This is the first step of Four Days, Four Drawings. You draw and measure a dry chana before any water reaches the seed."
+     "context": "This is the first step of Four Days, Four Drawings. You look at and measure a dry chana before any water reaches the seed."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Put a soaked chana beside the dry one and measure both. 2. Peel the skin off the soaked chana. 3. Open the two halves gently with a thumbnail. 4. Find the tiny plant at the beak end. 5. Your child draws and labels the parts. 6. Put the other 6 soaked chana on a wet cloth and cover them.",
      "say": "How much longer is the soaked chana? Now peel the skin and open the two halves. Find the tiny plant. Which end points out, and which end is tucked inside?",
-     "kid": "Measure the soaked chana. Peel the skin. Open the halves. Find the tiny plant. Draw and label.",
+     "kid": "Measure the soaked chana. Peel the skin. Open the halves. Find the tiny plant. Draw and label it, or point and name the parts.",
      "check": {
       "t": "mcq",
       "q": "In a soaked chana, what are the two big halves?",
@@ -1847,9 +1847,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Day 3. Look at the chana on the cloth. Most have a white root coming out near the beak. Open one, measure the root and draw it.",
-     "say": "What came out first, and from where? Measure the root. Is the shoot showing yet?",
-     "kid": "Look at the chana on the cloth. What came out first? Open one. Measure the root. Draw.",
+     "do": "Day 3. Look at the chana on the cloth. Most have a white root coming out near the beak. Open one, measure the root and take a photo.",
+     "say": "Where did the root come out? This first root is called the radicle. Measure it. Is the shoot showing yet?",
+     "kid": "Look at the chana on the cloth. Open one. Measure the root. Take a photo.",
      "ask": [
       {
        "q": "Which came out first, the root or the shoot? Why might that order help the seedling?",
@@ -1864,9 +1864,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Day 4. 1. Open one more chana and draw it. 2. Look between the halves for the plumule, which is now longer. 3. Your child writes the steps of germination in order under the four drawings.",
-     "say": "Find the plumule between the halves. Has it grown? Now write, in order, everything that has happened to a chana since day 1.",
-     "kid": "Open one more chana. Find the tiny shoot. Draw it. Write the steps in order.",
+     "do": "Day 4. 1. Open one more chana and draw it, or take a photo. 2. Look between the halves for the plumule, which is now longer. 3. Your child looks back at the notes from all four days and says the steps of germination in order.",
+     "say": "Find the plumule, the tiny shoot, between the halves. Has it grown? Look back at what you found on days 1, 2 and 3.",
+     "kid": "Open one more chana. Find the tiny shoot. Draw it or take a photo.",
      "ask": [
       {
        "q": "Say the steps of germination in order.",
@@ -1879,7 +1879,7 @@
       }
      ],
      "parent": "The two halves often look a little thinner by day 4, because the embryo is using the food. You can plant the remaining chana in a pot.",
-     "context": "This is the last step of Four Days, Four Drawings. You put the steps of germination in order from your own four drawings."
+     "context": "This is the last step of Four Days, Four Drawings. You put the steps of germination in order from your own notes and pictures."
     }
    ]
   }
@@ -1890,7 +1890,7 @@
    "title": "Three Jars, Three Weeks: what makes stored seeds die?",
    "days": 25,
    "mins": 80,
-   "context": "In this project you store moong seeds in three closed jars for three weeks: dry on a shelf, dry in the fridge, and in damp air on a shelf. Each week you test 20 seeds from each jar.",
+   "context": "In this project you find out what makes stored seeds die. You store moong seeds in three closed jars for three weeks: dry on a shelf, dry in the fridge, and in damp air on a shelf. Each week you test 20 seeds from each jar.",
    "materials": [
     {
      "item": "whole green moong seeds from one packet: 70 for each jar and 20 for the first test (about one heaped tablespoon)",
@@ -2022,9 +2022,9 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Tie 70 seeds loosely in each cloth square to make three pouches. 2. Hang one pouch inside each jar by a thread, and trap the thread under the lid. 3. Pour 3 tablespoons of water into the bottom of one jar. The pouch must hang above the water. 4. Label the jars and close them tightly. 5. Put the Dry fridge jar in the fridge and the other two on a shelf. 6. Put 20 seeds from the packet on a wet cloth, as the first test.",
+     "do": "1. Tie 70 seeds loosely in each cloth square to make three pouches. 2. Hang one pouch inside each jar by a thread, and trap the thread under the lid. 3. Pour 3 tablespoons of water into the bottom of one jar. The pouch must hang above the water. 4. Label the jars Dry shelf, Dry fridge and Damp, and close them tightly. 5. Put the Dry fridge jar in the fridge and the other two on a shelf. 6. Put 20 seeds from the packet on a wet cloth, as the first test.",
      "say": "Seed banks keep seeds dry and cold. We will test what happens when seeds are kept dry, dry and cold, or damp. Which jar of seeds will stay alive best for three weeks? Why do you think so?",
-     "kid": "Make three seed pouches. Hang one in each jar. Add water to one jar only. Guess which seeds stay alive best. Say why.",
+     "kid": "Make three seed pouches. Hang one in each jar. Add water to one jar only.",
      "ask": [
       {
        "q": "The seeds in the damp jar never touch the water. Can the water still reach them? How?",
@@ -2042,7 +2042,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Day 4. Count how many of the first 20 seeds have a root. Work out the percentage. This is the starting number for all three jars.",
-     "say": "This number tells us how good the seeds were at the start. Why do we need it?",
+     "say": "This number tells us how good the seeds were at the start.",
      "kid": "Count the first 20 seeds. How many have a root? Work out the percentage.",
      "ask": [
       {
@@ -2088,7 +2088,7 @@
      "mins": 10,
      "do": "Day 25. 1. Help your child draw a line graph with three lines. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then read the note below together.",
      "say": "Draw one line for each jar. Now say what you thought would happen, what you saw, and why it happened. Did the fridge make a difference in three weeks?",
-     "kid": "Draw a line for each jar. Say what you thought. Say what you saw. Say why it happened.",
+     "kid": "Draw a line for each jar, or point to the jar that fell most. Say what you thought, what you saw, and why.",
      "ask": [
       {
        "q": "Which did more harm in three weeks: warmth or damp?",
@@ -2145,7 +2145,7 @@
     "Chill the empty holder in the fridge before the test starts, so the holder does not warm the cube.",
     "Find the coolest spot in your home: on the floor, away from windows and the kitchen."
    ],
-   "your_turn": "Now design your own holder. Draw it and build it. Test it beside a bare cube for 90 minutes, and measure the meltwater from each in teaspoons. Then change one thing and test again. Write which change helped most.",
+   "your_turn": "Now design your own holder. Draw your plan or tell it to your grown-up, then build it. Test it beside a bare cube for 90 minutes, and measure the meltwater from each in teaspoons. Then change one thing and test again. Write which change helped most.",
    "setup": [
     {
      "art": "An ice cube in an open steel katori on a table beside a clock.",
@@ -2164,9 +2164,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Ask what makes ice melt, and where the heat comes from. Let your child choose a plan and draw it.",
+     "do": "Read the problem together. Ask what makes ice melt, and where the heat comes from. Let your child choose a plan and tell it or draw it.",
      "say": "Heat from the warm room flows into the cold cube. Your holder must slow that heat down. What will you use, and why?",
-     "kid": "Read the problem. What melts the ice? Draw your plan to slow the heat.",
+     "kid": "Read the problem. Choose what you will use to slow the heat. Draw your plan or tell it.",
      "ask": [
       {
        "q": "Where does the heat that melts the cube come from?",
@@ -2200,8 +2200,8 @@
      "id": "s4",
      "mins": 10,
      "do": "Change one thing in the design and test again with the third cube, or plan the change on paper. Then talk about the question below.",
-     "say": "What one thing would you change? The real vault at Svalbard is dug deep into a frozen mountain. How does that help in a power cut?",
-     "kid": "Change one thing. Test again, or draw the new plan. Why is a real vault inside a frozen mountain?",
+     "say": "What one thing would you change, and why? Now think about the real seed vault at Svalbard, in the far north. It is dug deep into a frozen mountain.",
+     "kid": "Change one thing. Test again, or say your new plan.",
      "ask": [
       {
        "q": "Why was the Svalbard seed vault built inside a frozen mountain?",

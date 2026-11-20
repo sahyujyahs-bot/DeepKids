@@ -583,9 +583,9 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "1. Cut out the 24 cards. 2. Shuffle them. 3. Put them in a pile, feature side up. 4. Draw a score row for each player.",
+          "do": "1. Cut out the 24 cards. 2. Shuffle them. 3. Put them in a pile, feature side up. 4. Give each player a place on paper to keep score with marks.",
           "say": "Every card names one feature. Each feature solves a problem that a place sets, such as heat, cold, deep water or a predator.",
-          "kid": "Cut out the cards and mix them. Put them in a pile. Draw a score row.",
+          "kid": "Cut out the cards and mix them. Put them in a pile. Keep score with marks on paper.",
           "context": "This is the first step of Feature and Problem. Here you set up the adaptation cards."
         },
         {
@@ -596,7 +596,7 @@
           "kid": "Read the card. Say the problem the feature solves. Then turn the card over.",
           "ask": [
             {
-              "q": "A camel's hump holds fat, not water. Why is one big hump better than fat spread all over the body?",
+              "q": "Why does a camel keep fat in one hump, not all over the body?",
               "good": [
                 "Fat all over would keep heat in, like a blanket.",
                 "With the fat in one place, the rest of the body can lose heat."
@@ -614,7 +614,7 @@
           "kid": "Count your marks. Sort the cards into three piles. Which pile is biggest?",
           "check": {
             "t": "mcq",
-            "q": "A chital deer has eyes at the sides of the head. A tiger's eyes face forward. Why the difference?",
+            "q": "A chital deer has eyes at the sides of the head. A tiger's eyes face forward. Why are they different?",
             "options": [
               "Deer must see all around, tigers must judge distance",
               "Deer eyes are weaker than tiger eyes",
@@ -775,7 +775,7 @@
       ],
       "safety": "Dry beans are a choking risk for children under three. Keep them off the floor afterwards.",
       "record": "Draw a table with four rows, for generations 1, 2, 3 and 4. For each cloth, write the number of dark beans and pale beans at the start of each generation. The two numbers must add up to 30.",
-      "context": "In this experiment, dark and pale beans stand for a population of animals, and you are the predator. You hunt them on a dark cloth and on a pale cloth for three generations. Then you count how each group changes.",
+      "context": "In this experiment, dark and pale beans stand for a population of animals, and you are the predator. You hunt them on a dark cloth and on a pale cloth for three generations. Then you count how each group changes. You will find out how a group of animals can change over time, even though no single animal changes.",
       "setup": [
         {
           "art": "A dark towel spread a little rumpled on a bed, with 15 dark and 15 pale beans scattered across it.",
@@ -835,7 +835,7 @@
           "mins": 4,
           "do": "1. Show your child the two kinds of beans and the two cloths. 2. Explain the rules of the hunt. 3. Ask for a guess and a reason for each cloth, and write them down.",
           "say": "These beans are a population of animals, and you are their predator. You will hunt them for three generations on each cloth. After three hunts, how many of the 30 beans on the dark cloth will be dark? How many on the pale cloth? Why do you think so?",
-          "kid": "Look at the beans and the two cloths. Guess how many dark beans each cloth will have at the end. Say why.",
+          "kid": "Look at the beans and the two cloths. Guess how many dark beans each cloth will have at the end.",
           "ask": [
             {
               "q": "Why do you think the two cloths will end the same, or end differently?",
@@ -900,7 +900,7 @@
           "mins": 5,
           "do": "1. Draw a line chart. Put generations 1 to 4 along the bottom and the number of dark beans, 0 to 30, up the side. 2. Plot the dark cloth as one line and the pale cloth as another. 3. Label each line.",
           "say": "Let's draw both groups on one chart. Each line shows the number of dark beans in one group. Both lines start at fifteen.",
-          "kid": "Draw a line chart of the dark beans. Draw one line for each cloth. Both start at 15.",
+          "kid": "Draw a line chart of the dark beans, with one line for each cloth. Both start at 15. Or just compare the two columns of numbers.",
           "parent": "A line chart suits these results because each generation follows from the one before.",
           "context": "In this step of the Bean Generations Test you draw a line chart of the dark beans on each cloth."
         },
@@ -908,7 +908,7 @@
           "id": "s7",
           "mins": 5,
           "do": "1. Look at the table and the chart together. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. After they have answered, read them the explanation in the note below.",
-          "say": "Look at your two lines. Say what you thought would happen, what you saw, and why it happened. Did any bean change colour during the test?",
+          "say": "Look at your two lines. Say what you thought would happen, what you saw, and why it happened.",
           "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
           "ask": [
             {
@@ -976,7 +976,7 @@
         }
       ],
       "record": "Draw a table with one row for the tweezers and one row for the tongs. Write the three tries and the average for rice, then for groundnuts. Then write how many seeds each beak collected from the wet year plate and from the drought year plate.",
-      "context": "In this experiment, tweezers and roti tongs stand for a small beak and a big beak. You find out which beak collects enough seeds in a wet year and in a drought year.",
+      "context": "In this experiment, tweezers and roti tongs stand for a small beak and a big beak. You find out which beak collects enough seeds in a wet year and in a drought year. You will see why no single beak is best in every year.",
       "setup": [
         {
           "art": "A steel plate of rice grains, a steel bowl 30 centimetres away with a ruler between them, a pair of tweezers and roti tongs.",
@@ -1073,7 +1073,7 @@
           "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
           "ask": [
             {
-              "q": "Is one beak the better beak?",
+              "q": "Is one beak always the better beak?",
               "good": [
                 "No. Each is better in one kind of year.",
                 "It depends on which seeds there are."
@@ -1177,7 +1177,7 @@
       "title": "One New Bean: can a single new variation spread?",
       "mins": 15,
       "days": 1,
-      "context": "In the Bean Generations Test, you hunted dark and pale beans on a dark cloth. The dark beans became more common. This activity starts with only one dark bean among 29 pale ones. The single dark bean stands for a new mutation.",
+      "context": "In the Bean Generations Test, you hunted dark and pale beans on a dark cloth. The dark beans became more common. This activity starts with only one dark bean among 29 pale ones. The single dark bean stands for a new mutation, a feature that appears by chance. You will find out whether one new dark bean can spread, or be lost.",
       "materials": [
         {
           "item": "pale beans, such as kabuli chana",
@@ -1288,7 +1288,7 @@
         }
       ],
       "safety": "A grown-up does the cutting.",
-      "record": "Draw each vegetable and label the part we eat: leaves, flower buds or stem.",
+      "record": "Put a slip beside each vegetable that says the part we eat: leaves, flower buds or stem. Take a photo if you like.",
       "setup": [
         {
           "art": "A cabbage, a cauliflower and a knol khol side by side on a kitchen counter.",
@@ -1300,7 +1300,7 @@
         },
         {
           "art": "A drawing of a thin wild cabbage plant on a sea cliff with arrows to a cabbage, a cauliflower and a knol khol.",
-          "caption": "3. Draw the wild plant in the middle and the vegetables around."
+          "caption": "3. Put the wild cabbage slip in the middle and the vegetables around."
         }
       ],
       "flow": [
@@ -1317,9 +1317,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "1. Tell your child that all these vegetables are one species, bred from a wild cabbage of European sea cliffs. 2. Ask how a farmer could get bigger leaves, using only seeds and patience. 3. Draw the wild plant in the middle of a page, with an arrow to each vegetable.",
-          "say": "These are all one species. Farmers made them from one wild plant with loose leaves. A farmer wants bigger leaves. She cannot change a plant. What can she do each year with her seeds?",
-          "kid": "These vegetables are all one species. How could a farmer get bigger leaves, year after year?",
+          "do": "1. Tell your child that all these vegetables are one species, bred from a wild cabbage of European sea cliffs. 2. Ask how a farmer could get bigger leaves, using only seeds and patience. 3. Write 'wild cabbage' on a slip of paper. Put it in the middle and place each vegetable around it.",
+          "say": "These are all one species, which means one kind of plant. Farmers made them from one wild plant with loose leaves. A farmer wants bigger leaves. She cannot change a plant. What can she do each year with her seeds?",
+          "kid": "Put the 'wild cabbage' slip in the middle. Place each vegetable around it. They all came from that one plant.",
           "ask": [
             {
               "q": "What does the farmer do each year?",
@@ -1335,9 +1335,9 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "1. Draw two columns: 'Selective breeding' and 'Natural selection'. 2. For each, ask who or what does the selecting, and what gets selected. 3. Ask which is faster, and why.",
+          "do": "1. Write 'Selective breeding' and 'Natural selection' on two slips and put them side by side. 2. For each, ask who or what does the selecting, and what gets selected. 3. Ask which is faster, and why.",
           "say": "In selective breeding the farmer chooses the parents. In the Bean Generations Test, who or what chose the parents? What is the same in both, and what is different?",
-          "kid": "Draw two columns. Who chooses the parents in each? What is the same? What is different?",
+          "kid": "Look at the two slips. Who chooses the parents in each one? What is different?",
           "ask": [
             {
               "q": "What is the same in selective breeding and natural selection?",
@@ -1369,11 +1369,11 @@
           "qty": 1
         },
         {
-          "item": "pencils or crayons, including blue-grey, white and orange-brown",
+          "item": "a handful of beans or coins, for the birds",
           "qty": 1
         }
       ],
-      "record": "Four drawings in four boxes, each with one sentence underneath.",
+      "record": "Four boxes, each showing one stage (with beans or a drawing) and one sentence about it.",
       "setup": [
         {
           "art": "A phone map of South India with a finger pointing at the low gap in the hills between Coimbatore and Palakkad.",
@@ -1381,11 +1381,11 @@
         },
         {
           "art": "A sheet of paper folded into four boxes, the first showing one line of hills with small blue-grey birds all along it.",
-          "caption": "2. Fold a page into four boxes. Draw the story step by step."
+          "caption": "2. Fold a page into four boxes. Show the story step by step."
         },
         {
           "art": "The fourth box showing two hill ranges with a gap, a bird with orange-brown sides on the left and a bird with a white belly on the right.",
-          "caption": "3. In the last box, draw the two species of today."
+          "caption": "3. In the last box, show the two species of today."
         }
       ],
       "flow": [
@@ -1401,16 +1401,16 @@
         {
           "id": "s2",
           "mins": 7,
-          "do": "1. Box 1: draw one line of hills with the same bird all along. 2. Box 2: draw the hot gap splitting the birds into two groups. 3. Box 3: draw a different change in each group, such as belly colour or song. 4. Box 4: draw the two species of today.",
-          "say": "Draw the story in four boxes. First, one population. Then the gap. Then each group changing in a different way. Last, two species. Write one sentence under each box.",
-          "kid": "Draw four boxes: one population, the gap, two groups changing, two species. Write a sentence under each.",
+          "do": "1. Box 1: show one line of hills with the same bird all along. 2. Box 2: show the hot gap splitting the birds into two groups. 3. Box 3: show a different change in each group, such as belly colour or song. 4. Box 4: show the two species of today. Use beans or coins for the birds, or draw them.",
+          "say": "Tell the story in four boxes. First, one population. Then the gap. Then each group changing in a different way. Last, two species. Say one sentence about each box.",
+          "kid": "Fill the four boxes with beans or a drawing: one population, the gap, two groups changing, two species. Say one sentence for each.",
           "parent": "North of the gap lives the Nilgiri sholakili, with orange-brown sides. South of the gap lives the white-bellied sholakili. Scientists think the two groups have been apart for millions of years. Different mutations appeared on each side, and the two groups could not mix them.",
           "context": "In this step of One Bird Becomes Two you draw how one population of birds became two species."
         },
         {
           "id": "s3",
           "mins": 4,
-          "do": "1. Ask how the Bean Generations Test is like this story. 2. Ask how anyone could tell that the two birds are now separate species. 3. Tell your child about the mule.",
+          "do": "1. Ask how the Bean Generations Test is like this story. 2. Ask how anyone could tell that the two birds are now separate species. 3. Tell your child that a horse and a donkey can have a young one, the mule. But a mule cannot have young. That is why they are two species.",
           "say": "In the Bean Generations Test, what kept the two groups of beans from mixing? What plays that part for the sholakili? How could scientists tell that the two birds are now two species?",
           "kid": "What kept the two bean groups apart? What keeps the two birds apart? How do we know they are two species?",
           "check": {
@@ -1434,7 +1434,7 @@
       "title": "The Lemon in the Dupatta: was a mitochondrion once a free bacterium?",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you model how a large cell could take in a bacterium, using a lemon and a dupatta. Then you check four clues that Lynn Margulis used to argue that mitochondria were once free bacteria.",
+      "context": "In this activity you model how a large cell could take in a bacterium, using a lemon and a dupatta. Then you check four clues that Lynn Margulis used to argue that mitochondria were once free bacteria. A mitochondrion is the tiny part inside your cells that turns food into energy.",
       "materials": [
         {
           "item": "a lemon, for the bacterium",
@@ -1449,7 +1449,7 @@
           "qty": 4
         }
       ],
-      "record": "Draw the lemon inside the pouch of cloth. Label the two layers around it. Write the four clues and tick the ones that fit.",
+      "record": "Take a photo of the lemon inside the cloth, or draw it. Say which two layers are around it. Write the four clues and tick the ones that fit.",
       "setup": [
         {
           "art": "Two people holding a dupatta loosely stretched between them, with a lemon resting on top.",
@@ -1525,7 +1525,7 @@
       "title": "An Indian Animal at Risk: can they change fast enough?",
       "days": 3,
       "mins": 60,
-      "context": "In this three-day project you study one Indian animal whose place is being changed by people. You find their adaptations and work out how long one generation takes. Then you give a three-minute talk on whether natural selection can keep up.",
+      "context": "In this three-day project you study one Indian animal whose place is being changed by people. You find their adaptations and work out how long one generation takes. Then you give a three-minute talk on whether natural selection can keep up. You will find out whether the animal can change as fast as their home is changing.",
       "materials": [
         {
           "item": "a library book or children's encyclopaedia on Indian wildlife, or a phone with a grown-up",
@@ -1586,7 +1586,7 @@
           "id": "s2",
           "mins": 20,
           "do": "1. Your child finds the age at which the animal first has young. They also find how many young are born in a year. 2. Write these beside a mosquito, who can lay hundreds of eggs and whose young are adults in about two weeks. 3. Ask whether natural selection can keep up with the change.",
-          "say": "Natural selection needs many young and many generations. A mosquito population met new poisons and adapted in a few years. How long is one generation for your animal? How many young are there to select from?",
+          "say": "Natural selection needs many young and many generations. A mosquito population met new poisons and adapted in a few years. A generation is the time from being born to having young of your own. How long is one generation for your animal? How many young are there to select from?",
           "kid": "Find how old your animal is at their first young. Find how many young they have a year. Compare with a mosquito.",
           "wait": "Do this on day 2",
           "ask": [
@@ -1607,7 +1607,7 @@
           "mins": 20,
           "do": "1. Your child makes five cards: the animal and their place, their adaptations, what is changing, how fast they breed, what people could do. 2. They practise once with a timer. 3. They give the talk to the family, with one piece of evidence on each card.",
           "say": "Give your talk in three minutes. For each card, tell us one fact or number that supports what you say.",
-          "kid": "Make five cards. Practise with a timer. Give your talk in three minutes, with evidence.",
+          "kid": "Make five cards. Practise with a timer. Give your talk in three minutes. Say one fact from each card.",
           "wait": "Do this on day 3",
           "parent": "A strong talk uses science to support each point. 'Power lines are bad' is weak. 'A bustard sees poorly straight ahead, so she flies into wires' is strong.",
           "context": "This is day 3 of An Indian Animal at Risk. Here you give a three-minute talk about your animal."
@@ -1646,7 +1646,7 @@
         "Make a scoop that lifts many rice grains at once, as a duck's bill strains many small things from water.",
         "Make the tips rough with a strip of tape, sticky side out, and test whether grip matters more than size."
       ],
-      "your_turn": "Now design your own two-year beak. Draw it, build it and test it on both plates. Did it reach 10 seeds on each? Was it as good as the tweezers at rice, or as good as the tongs at groundnuts?",
+      "your_turn": "Now design your own two-year beak. Plan it, build it and test it on both plates. Did it reach 10 seeds on each? Was it as good as the tweezers at rice, or as good as the tongs at groundnuts?",
       "setup": [
         {
           "art": "Two steel spoons tied together at the handles with a rubber band, beside a clothes clip with two ice cream sticks taped to its arms.",
@@ -1667,15 +1667,15 @@
           "mins": 4,
           "do": "1. Set out the two plates as in the Drought Year Test. 2. Remind your child of their results with the tweezers and the tongs. 3. Ask what a beak would need to do well in both years.",
           "say": "In the Drought Year Test, each beak did well in only one year. What would one beak need, to lift both rice grains and groundnuts?",
-          "kid": "Each beak did well in one year only. What would one beak need for both years?",
+          "kid": "Think about what one beak needs to lift both rice grains and groundnuts.",
           "context": "This is the first step of the Two-Year Beak challenge. Here you think about what a beak needs to lift both small and big seeds."
         },
         {
           "id": "s2",
           "mins": 9,
-          "do": "1. Your child draws a design. 2. They build it from the home things. 3. They test it for 30 seconds on each plate and write the two counts.",
-          "say": "Draw your beak first, then build it. Test it on both plates. Write both counts.",
-          "kid": "Draw your beak. Build it. Test it on both plates and write the counts.",
+          "do": "1. Your child plans a design, with a quick sketch or by laying the parts on the table. 2. They build it from the home things. 3. They test it for 30 seconds on each plate and write the two counts.",
+          "say": "Plan your beak first. Sketch it, or lay the parts on the table. Then build it. Test it on both plates. Write both counts.",
+          "kid": "Plan your beak, then build it. Test it on both plates and write the counts.",
           "parent": "The first design often does well on one plate only. That is useful. Ask which part of the beak caused the problem.",
           "context": "In this step of the Two-Year Beak challenge you build your first beak and test it on both plates."
         },

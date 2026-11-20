@@ -475,7 +475,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a card game about deficiency diseases. Each nutrient has three cards: its job, what happens without it, and cheap foods that hold it. You collect all three.",
+      "context": "This is a card game about deficiency diseases. Each nutrient has three cards: its job, what happens without it, and cheap foods that hold it. You collect all three. You will find out which cheap foods stop which illnesses.",
       "printables": [
         {
           "kind": "cards",
@@ -559,7 +559,7 @@
           "id": "s2",
           "mins": 12,
           "do": "Play by the rules until all eight sets are down. When a set is laid down, ask the question below.",
-          "say": "Ask for a nutrient you already hold. When you lay down a set, tell us how the missing nutrient causes that disease.",
+          "say": "Ask for a nutrient you already hold. When you lay down a set, read all three cards aloud.",
           "kid": "Ask for a nutrient you hold. Collect three cards. Lay the set down and read it.",
           "ask": [
             {
@@ -697,8 +697,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Cut out the cards. Each player takes a person card and reads the needs aloud. Deal 4 food cards to each player.",
-          "say": "Read your person card. Which need is the biggest number? Why might this person need so much of that?",
-          "kid": "Take a person card. Read the needs. Which number is biggest? Why?",
+          "say": "Read your person card aloud. Which need is the biggest number?",
+          "kid": "Take a person card. Read the needs. Which number is biggest?",
           "ask": [
             {
               "q": "Why does your person need so much of that nutrient?",
@@ -795,7 +795,7 @@
           "what": "Sit in bright light, then time how long three things take to appear in a dark room. Repeat with a grown-up, and try the one-eye flash."
         }
       ],
-      "record": "Draw a table with three rows: white towel, steel tumbler and dark book. Write the seconds for the child and for the grown-up. Under the table, write what each eye saw after the flash.",
+      "record": "Make a table with three rows: white towel, steel tumbler and dark book. Write the seconds for the child and for the grown-up. Under the table, write what each eye saw after the flash.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -872,13 +872,13 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Lead your child into the dark room and seat them on the stool. Close the door and start the clock. Stand outside. Each time they call out a thing they can see, write the seconds. Stop after 10 minutes.",
+          "do": "Lead your child into the dark room and seat them on the stool. Close the door and start the timer on your phone. Stand outside. Each time they call out a thing they can see, write the seconds. Stop after 10 minutes.",
           "say": "Sit still and keep your eyes open. Call out the moment you can see something, and tell me what it is. I am right outside the door.",
           "kid": "Sit still in the dark. Call out when you see each thing. Say what it is.",
           "adult": true,
           "check": {
             "t": "mcq",
-            "q": "In the Dark Room Test, why does the person with the phone stand outside the door?",
+            "q": "In the Dark Room Test, why does the grown-up with the phone timer stand outside the door?",
             "options": [
               "So no phone light reaches the child's eyes",
               "So the child feels brave",
@@ -913,7 +913,7 @@
           "id": "s6",
           "mins": 5,
           "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-          "say": "Look at your numbers. Say what you thought would happen, what you saw, and why you think it happened. Why did only the uncovered eye lose its sight in the dark?",
+          "say": "Look at your numbers. Say what you thought would happen, what you saw, and why you think it happened.",
           "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
           "ask": [
             {
@@ -995,7 +995,7 @@
           "what": "Boil one cup of cabbage and soak another in cold water. Then test both waters, and plain water, with the blue liquid."
         }
       ],
-      "record": "Draw a table with four rows: lemon juice, plain water, cold cabbage water and boiled cabbage water. Write how many teaspoons each took to clear the blue, and the colour at the end.",
+      "record": "Make a table with four rows: lemon juice, plain water, cold cabbage water and boiled cabbage water. Write how many teaspoons each took to clear the blue, and the colour at the end.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -1188,7 +1188,7 @@
           "what": "Measure the pencil's shadow at about 8 in the morning, 10, 12 noon and 4 in the afternoon. Then compare each shadow with the pencil's height."
         }
       ],
-      "record": "Write the height of the pencil at the top of the page. Draw a table with four rows, one for each time. Write the length of the shadow, and 'shorter' or 'longer'.",
+      "record": "Write the height of the pencil at the top of the page. Make a table with four rows, one for each time. Write the length of the shadow, and 'shorter' or 'longer'.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results for a pencil 18 centimetres tall",
@@ -1312,7 +1312,7 @@
       "title": "One Day's Needs: from two spoons of protein to a tiny amount of iodine",
       "mins": 12,
       "days": 1,
-      "context": "This is a short activity to start the unit. You lay out the weight of four nutrients that a child of ten needs in one day. You use sugar, a moong seed and a speck of chalk dust only to show how much each nutrient weighs. The sugar, the seed and the chalk dust are not the nutrients themselves.",
+      "context": "This is a short activity to start the unit. You lay out the weight of four nutrients that a child of ten needs in one day. You use sugar, a moong seed and a speck of chalk dust only to show how much each nutrient weighs. The sugar, the seed and the chalk dust are not the nutrients themselves. You will see that a tiny amount of a nutrient can matter as much as a big one.",
       "materials": [
         {
           "item": "a dark plate or a sheet of dark paper",
@@ -1327,7 +1327,7 @@
           "qty": 2
         },
         {
-          "item": "table salt, a pinch",
+          "item": "a piece of chalk",
           "qty": 1
         },
         {
@@ -1336,7 +1336,7 @@
         }
       ],
       "safety": "A grown-up cuts the moong seed.",
-      "record": "Draw the four heaps and write the unit under each: grams, milligrams or micrograms.",
+      "record": "Write the unit for each heap on its label: grams, milligrams or micrograms.",
       "setup": [
         {
           "art": "A dark plate with a heap of two heaped tablespoons of sugar on the left and one green moong seed next to the heap.",
@@ -1361,7 +1361,7 @@
           "id": "s2",
           "mins": 6,
           "do": "1. Heap 2 heaped tablespoons of sugar on the plate. 2. Put one moong seed beside the sugar. 3. Cut a second moong seed in half and put down one half. 4. Your child taps a piece of chalk to make a speck of chalk dust and puts it on the plate. 5. Label the four: protein, vitamin C, iron, iodine.",
-          "say": "This heap of sugar weighs about 30 grams. That is the same as the weight of protein you need in a day. One moong seed weighs about the same as the vitamin C you need in a day. Half a seed weighs about the same as the iron you need. A speck of chalk dust weighs about the same as the iodine you need. None of these things contain those nutrients here. They only show how much each one weighs.",
+          "say": "This heap of sugar weighs about 30 grams. That is the same as the weight of protein you need in a day. One moong seed weighs about the same as the vitamin C you need in a day. Half a seed weighs about the same as the iron you need. A speck of chalk dust weighs about the same as the iodine you need. None of these things hold those nutrients. They only show how much each one weighs.",
           "kid": "Put down the sugar and a moong seed. Add half a seed and a speck of chalk dust. Label them.",
           "adult": true,
           "parent": "The sugar, the seed and the chalk dust only show weights. The real nutrients look different. The figures are rounded: 30 grams of protein, 50 milligrams of vitamin C, 16 to 28 milligrams of iron, 100 micrograms of iodine.",
@@ -1371,8 +1371,8 @@
           "id": "s3",
           "mins": 3,
           "do": "Look at the four heaps together. Ask the questions below.",
-          "say": "Look at the plate. The a speck of chalk dust stand for your iodine. If you got no iodine for a year, would you notice at dinner? What might happen to your body?",
-          "kid": "The speck of chalk dust stand for your iodine. Would you notice if you got none?",
+          "say": "Look at the plate. The speck of chalk dust stands for your iodine. If you got no iodine for a year, would you notice at dinner? What might happen to your body?",
+          "kid": "The speck of chalk dust stands for your iodine. Would you notice if you got none?",
           "ask": [
             {
               "q": "Why can a person be short of iodine or iron without knowing?",
@@ -1629,7 +1629,7 @@
           "id": "s3",
           "mins": 4,
           "do": "Ask the questions below. Then put the packets back.",
-          "say": "Why do you think iodine is added to salt, and not to sweets or to ghee? What makes salt a good carrier?",
+          "say": "Why do you think iodine is added to salt, and not to sweets or to ghee?",
           "kid": "Why is iodine added to salt and not to sweets?",
           "ask": [
             {
@@ -1863,8 +1863,8 @@
           "id": "s3",
           "mins": 5,
           "do": "Ask your child to say what they thought would happen, what they found, and why they think it happened. Then list family dishes that pair a cereal with a pulse.",
-          "say": "Say what you thought would happen, what you found, and why you think it happened. Which dishes in our kitchen put a cereal and a pulse together?",
-          "kid": "Say what you thought would happen. Say what you found. Name dishes that pair the two.",
+          "say": "Say what you thought would happen, what you found, and why you think it happened.",
+          "kid": "Say what you thought would happen. Say what you found. Say why.",
           "ask": [
             {
               "q": "What happened to the leftover seeds when you used rice alone?",
@@ -2022,7 +2022,7 @@
         "Keep all the water in the dish, as in a kootu or a soup, so nothing is poured away.",
         "Stir the cabbage in a spoon of hot oil with no water at all."
       ],
-      "your_turn": "Now invent your own way of cooking the cabbage. Test the leftover water, or say why no water is left. Draw your method and write how many teaspoons the water took.",
+      "your_turn": "Now invent your own way of cooking the cabbage. Test the leftover water, or say why no water is left. Tell or draw your method, and write how many teaspoons the water took.",
       "setup": [
         {
           "art": "A steel vessel with a lid on a stove, with a small amount of chopped cabbage and two tablespoons of water inside.",
@@ -2064,7 +2064,7 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Strain off any leftover water. Add plain water to make half a cup, and cool it. Test it with 2 tablespoons of the blue liquid, one teaspoon at a time. Write the count.",
+          "do": "Strain off any leftover water. Add plain water to make 1 cup, and cool it. Test it with 2 tablespoons of the blue liquid, one teaspoon at a time. Write the count.",
           "say": "Now test the water that is left. Add it one teaspoon at a time and count until the blue is gone.",
           "kid": "Strain the leftover water. Test it by teaspoons. Count until the blue goes.",
           "parent": "If no water is left, nothing was poured away, and that is a good result in itself. A count of 10 with the blue still there means very little vitamin C reached the water.",

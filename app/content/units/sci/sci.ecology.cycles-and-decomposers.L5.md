@@ -276,15 +276,15 @@ In the last week of February she went out alone with the weeding blade. The kiln
   *Parent says:* In this game you are one carbon atom. A carbon atom never wears out. It only moves from place to place. Where do you think you will spend the most time?  
   *Child mode:* Write the 7 station names on 7 sheets. Lay them in a ring. Put a card on each. You are one carbon atom. Where will you spend the most time? Guess.
 - **s2 (8 min)**  
-  *Parent does:* 1. Everyone puts a coin on Air. 2. Take turns to throw the die. 3. Read the table for your station and move or stay. 4. Say what happened and write the station down. 5. Stop the race when someone has been in 5 different stations.  
+  *Parent does:* 1. Everyone puts a coin on Air. 2. Take turns to throw the die. 3. Read the table for your station and move or stay. 4. Say what happened and write the station down. 5. This practice round ends when someone has been in 5 different stations.  
   *Parent says:* Throw the die and read your table. What just happened to you? Which living being or which place are you part of now?  
-  *Child mode:* Put your coin on Air. Throw the die. Read the table for your station. Move or stay. Say what happened. Write the station down. Visit 5 stations to win.
+  *Child mode:* Put your coin on Air. Throw the die. Read the table for your station. Move or stay. Say what happened. Write the station down. The round ends when someone has visited 5 stations.
   - Ask: Which step took you out of the air? Which steps put you back? (good: A leaf took me out of the air. That is photosynthesis.; Breathing, rotting and burning put me back.)
   - Note: Ask for the real name of each move as it happens. A leaf taking carbon in is photosynthesis. A plant, an animal or a decomposer giving carbon out is respiration.
 - **s3 (5 min)**  
-  *Parent does:* 1. Everyone goes on until they have made 20 throws. 2. Count how many throws you spent in each station. 3. Compare your counts. 4. Ask which stations were quick to leave and which were slow.  
+  *Parent does:* 1. Start again on Air. Everyone goes on until they have made 20 throws. 2. Count how many throws you spent in each station. 3. Compare your counts. 4. Ask which stations were quick to leave and which were slow.  
   *Parent says:* Count your throws in each station. Where did you get stuck? Why is it hard to leave that station?  
-  *Child mode:* Go on to 20 throws. Count your throws in each station. Where did you get stuck? Why was it hard to leave?
+  *Child mode:* Start again on Air. Make 20 throws. Count your throws in each station. Where did you get stuck? Why was it hard to leave?
   - Ask: Did anyone reach Shell and Rock or Coal and Oil? What happened there? (good: I stayed for many throws, because only a six lets you out.; Nobody reached them, because the way in is rare too.)
   - Note: The die makes rock look far quicker than it is. A real carbon atom can stay in limestone for more than a hundred million years. The game shows only which stores are quick and which are slow.
   - Check: In which of these stores does a carbon atom usually stay the longest? → **In limestone rock**
@@ -298,13 +298,13 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **Printable cards: 18 two-sided cards to cut out (the answer is on the back):** Dry leaves swept from under a tree (back: Brown. Dry and tough, with much carbon and little nitrogen.); Torn newspaper (back: Brown. Paper is made from wood, so it is nearly all carbon-rich fibre.); A cardboard egg tray, torn up (back: Brown. Cardboard is thick paper. Tear it small so that decomposers can reach it.); Coconut fibre from the husk (back: Brown. It is dry and tough, and it keeps air spaces open in the bin.); Sawdust from a carpenter (back: Brown. Wood has a great deal of carbon and very little nitrogen.); Dry paddy straw (back: Brown. The grain took most of the plant's nitrogen. The dry straw is mostly carbon.); Vegetable peels (back: Green. Soft and wet, with more nitrogen than dry leaves.); Used tea leaves (back: Green. Tea leaves are rich in nitrogen, though they look brown.); Banana peels (back: Green. Wet and soft. Decomposers eat them quickly.); Flowers from an old garland (back: Green. Fresh petals are soft and wet. Take out the thread first.); Fresh grass cuttings (back: Green. Fresh grass is rich in nitrogen. A pile of only grass turns slimy and smells.); Used coffee powder from the filter (back: Green. The colour is brown, but used coffee powder is wet and rich in nitrogen.); A plastic milk packet (back: Keep out. Very few decomposers have enzymes for plastic. It stays for hundreds of years.); A broken glass bangle (back: Keep out. Glass was never alive. No decomposer eats it, and it can cut your hand.); Leftover oily curry (back: Keep out of a small home bin. Oil coats the pieces and keeps air out, and the smell brings rats.); Fish bones and meat scraps (back: Keep out of a small home bin. They do rot, but they smell strongly and bring rats and flies.); A used battery (back: Keep out. A battery holds metals that poison soil life. Give it to a battery collection point.); Dog or cat droppings (back: Keep out. They can carry germs and worms that make people ill.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 18 cards. 2. Shuffle them and put them in a pile, waste side up. 3. Say what browns and greens are before you start.  
-  *Parent says:* Browns are dry and tough, with much carbon. Greens are wet and soft, with more nitrogen. Some things must be kept out of a home bin.  
+  *Parent says:* Browns are dry and tough, with much carbon. Greens are wet and soft, with more nitrogen. Keep out means things that would smell or bring rats, such as meat and cooked oily food.  
   *Child mode:* Cut out the cards. Mix them. Put them in a pile, waste side up. Browns are dry and tough. Greens are wet and soft.
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns to pick the top card. 2. Say brown, green or keep out, and give one reason. 3. Turn the card over. 4. Keep the card if you were right. If not, put it at the bottom.  
   *Parent says:* Is this one a brown, a green, or something to keep out? What makes you think so?  
   *Child mode:* Take the top card. Say brown, green or keep out. Give a reason. Turn the card over. Keep the card if you were right.
-  - Ask: Which cards could you not tell by their colour? (good: Used tea leaves and coffee powder look brown, but they are greens.; What matters is how much nitrogen and water the waste has, and the colour does not show that.)
+  - Ask: Which cards were hard to decide? Why? (good: Used tea leaves and coffee powder look brown, but they are greens.; What matters is how much nitrogen and water the waste has, and the colour does not show that.)
   - Note: The names brown and green are gardeners' words. They are about carbon and nitrogen, and only roughly about colour. Tea leaves and coffee powder are the cards that catch most players.
 - **s3 (4 min)**  
   *Parent does:* 1. Count 1 point for each card held. 2. Each player lays out sets of 2 browns and 1 green. 3. Add 2 points for each set. 4. Ask why a layer has more browns than greens.  
@@ -318,19 +318,19 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **predict:** Guess first. Which bottle will sink the most in 16 days? Which bottle will smell the worst? Why do you think so? Write both guesses and your reasons.
 - **fair test:** All three bottles are the same size and are filled to the same height. Each gets one spoon of the same soil. All the waste is damp. The bottles stand side by side with the same cloth cover. Only the kind of waste is different.
 - **safety:** A grown-up cuts the bottles and chops the peels. Keep the cloth covers on. To smell a bottle, hold it a hand's length from your face and wave the air towards your nose. Do not put your nose over it. Wash your hands with soap after every check. Anyone with asthma or an allergy to mould should leave the smell check to someone else.
-- **record:** Fill in the table on days 1, 5, 9, 13 and 17. Draw three bars to show how many centimetres each bottle sank. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table on days 1, 5, 9, 13 and 17. Write how many centimetres each bottle sank, or draw three bars to show it. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Day | Browns: height in cm | Browns: smell 0 to 3 | Greens: height in cm | Greens: smell 0 to 3 | Mix: height in cm | Mix: smell 0 to 3 | What I see
 - **schedule:** day 1: Prepare the browns and greens. Guess. Fill the three bottles, mark the height and take the first readings. (25 min); day 5: Measure the height of each bottle. Give each a smell score. Write what you see. (5 min); day 9: Measure, smell and look again. (5 min); day 13: Measure, smell and look again. (5 min); day 17: Take the last readings. Work out how far each bottle sank. Explain the results. Empty the bottles safely. (17 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the tops off three 1 litre bottles, just below the shoulder. 2. Tear the browns into pieces smaller than 3 cm. 3. A grown-up chops the greens to the same size. 4. Soak the browns in a bowl of water for 2 minutes. Squeeze them out until no more water drips.  
-  *Parent says:* We have two kinds of waste. Feel them both. How are the browns different from the greens? Decomposers need damp food, so we wet the browns first.  
-  *Child mode:* Ask a grown-up to cut the bottles and chop the peels. Tear the browns small. Soak the browns in water. Squeeze them out. Feel both kinds. How are they different?
+  *Parent says:* We have two kinds of waste. Browns are dry things, like leaves and paper. Greens are wet things, like peels. Feel them both. Decomposers need damp food, so we wet the browns first.  
+  *Child mode:* Ask a grown-up to cut the bottles and chop the peels. Tear the browns small. Soak the browns in water. Squeeze them out. Feel both kinds.
   - Ask: How are the browns different from the greens? (good: The browns are dry, stiff and light. The greens are wet, soft and heavy.; The greens were alive a day or two ago. The browns have been dead and dry for a long time.)
   - Note: No dry leaves? Torn newspaper and cardboard alone work well. Leave out cooked food, oil, meat and fish. The browns must be damp, or the test would only show that dry things do not rot.
 - **s2 (4 min)**  
   *Parent does:* 1. Explain the three bottles: only browns, only greens, and a mix of 2 parts browns to 1 part greens. 2. Ask which will sink the most and which will smell the worst. 3. Ask for a reason each time. 4. Write the guesses down.  
   *Parent says:* Decomposers will eat what is in these bottles. Which bottle will sink the most in 16 days? Which will smell the worst? Why do you think so?  
-  *Child mode:* One bottle gets browns. One gets greens. One gets a mix. Which will sink the most? Which will smell the worst? Why? Write your guesses.
+  *Child mode:* One bottle gets browns. One gets greens. One gets a mix. Guess which will sink the most and which will smell the worst. Write your guesses.
   - Ask: Why do you think so? (good: The greens will sink most, because they are soft and easy to eat.; The mix, because the decomposers get two kinds of food.; The greens will smell, because wet peels in our bin smell. (All fair guesses. The test will show.))
   - Note: Do not explain carbon and nitrogen yet. Take any guess that comes with a reason, and write it down in your child's own words.
 - **s3 (13 min)**  
@@ -346,9 +346,9 @@ In the last week of February she went out alone with the weeding blade. The kiln
   - Note: What usually happens: the greens sink fast, and brown liquid collects at the bottom. They begin to smell sour or sharp within a week. The browns hardly move, though a few spots of mould may show. The mix sinks steadily and smells faintly of earth. If the browns look dry, sprinkle one spoon of water on every bottle, so the test stays fair. If the greens smell too strong to keep, write the day, and go to the challenge Rescue the Smelly Bottle.
   - Wait: Check on days 5, 9 and 13
 - **s5 (12 min)**  
-  *Parent does:* 1. Take the last readings. 2. For each bottle, take the last height away from the first height. 3. Draw three bars for the centimetres sunk. Write the last smell score under each bar. 4. Ask your child what they thought would happen, what they saw, and why they think it happened. 5. Only then read the explanation together.  
+  *Parent does:* 1. Take the last readings. 2. For each bottle, take the last height away from the first height. 3. Stand the bottles in a row, the most sunk first. Put a note by each one with the centimetres sunk and the last smell score. 4. Ask your child what they thought would happen, what they saw, and why they think it happened. 5. Only then read the explanation together.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Take the last readings. Work out how far each bottle sank. Draw three bars. Say what you thought would happen. Say what you saw. Say why you think it happened.
+  *Child mode:* Take the last readings. Work out how far each bottle sank. Stand the bottles in a row, the most sunk first. Then tell your grown-up the three things.
   - Ask: The browns had plenty of food in them. Why did the decomposers eat so little? (good: Dry leaves and paper are tough.; Maybe something the decomposers need is missing from browns.)
   - Ask: The greens sank the most. Does that make them the best compost? What does the smell tell you? (good: No. They turned wet and smelly, so something went wrong.; The smell means something is leaving the bottle into the air.)
   - Note: After your child has answered, explain. Decomposers build their bodies from protein, so they need nitrogen as well as carbon. Paper and dry leaves hold very little nitrogen, so the decomposers multiply slowly. The fibres are also tough. This test cannot tell those two reasons apart. The greens have nitrogen, but they pack down wet, and air cannot get in. Bacteria who live without air take over and make the smell. A sharp smell is ammonia, which is nitrogen leaving for the air. The mix has both foods and air spaces.
@@ -364,7 +364,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **predict:** Guess first. Will blowing your breath through cabbage water change its colour? Will a little soda water change it? Why do you think so? Write your guesses and your reasons.
 - **fair test:** All three glasses are the same and hold the same amount of the same cabbage water. Each glass gets 2 tablespoons of liquid added. One glass gets only plain water, so you can compare the others with it.
 - **safety:** A grown-up pours the hot water. Blow gently out through the straw and never suck. Stop and rest if you feel dizzy.
-- **record:** Fill in the table for the three glasses. Draw the three glasses in colour. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table for the three glasses. Take a photo of the three glasses side by side, or draw them in colour. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Glass | What went in | Colour before | Colour after
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* 1. Tear 4 purple cabbage leaves into small pieces in a steel bowl. 2. A grown-up pours on 2 tumblers of hot water. 3. Wait 10 minutes, then strain and let it cool. 4. Put a spoonful on a white plate and add one drop of lemon juice. Watch the colour.  
@@ -374,7 +374,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **s2 (4 min)**  
   *Parent does:* 1. Stand 3 glasses on white paper. Label them PLAIN, BREATH and SODA. 2. Pour cabbage water into each, two fingers deep. 3. Ask for a guess and a reason for the breath and for the soda. 4. Write the guesses and the starting colours.  
   *Parent says:* Your breath has carbon dioxide in it. So do the bubbles in soda water. Will either of them change the colour? Why do you think so?  
-  *Child mode:* Pour cabbage water into 3 glasses, two fingers deep. Will your breath change the colour? Will soda water? Why? Write your guesses.
+  *Child mode:* Pour cabbage water into 3 glasses, two fingers deep. Will your breath change the colour? Will soda water? Write your guesses.
   - Ask: Why do you think so? (good: No change, because breath is only air. (A fair guess. The test will show.); Soda tastes a bit sharp, so it may turn the water pink.)
 - **s3 (9 min)**  
   *Parent does:* 1. Blow gently through the straw into the BREATH glass for 2 minutes. Rest when you need to. 2. Add 2 tablespoons of plain water to BREATH and to PLAIN. 3. Open the soda bottle. Add 2 tablespoons of soda water to SODA. 4. Hold all three against the white paper. Write the colours.  
@@ -384,19 +384,19 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **s4 (6 min)**  
   *Parent does:* 1. Ask your child what they thought would happen, what they saw, and why they think it happened. 2. Then stir the SODA glass hard with a spoon for 2 minutes. 3. Compare its colour again.  
   *Parent says:* Tell me what you thought, what you saw and why. Now stir the soda glass hard. What happens to the colour, and what do you think has left the water?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why. Now stir the SODA glass hard for 2 minutes. Does the colour change back?
+  *Child mode:* Tell your grown-up what you thought, what you saw and why. Now stir the SODA glass hard for 2 minutes. Does the colour change back?
   - Ask: What does the colour change tell you about carbon dioxide and water? (good: Carbon dioxide goes into water and makes the water a little acid.; When the gas leaves, the water goes back towards the first colour.)
   - Note: After your child has answered, explain. Carbon dioxide dissolves in water and joins with it to make a weak acid. Stirring drives the gas out, so the colour moves part of the way back. Carbon moves between air and water in both directions.
 - **s5 (4 min)**  
   *Parent does:* 1. Tell your child that the sea takes up about a quarter of the carbon dioxide people add to the air. 2. Ask what that might do to sea water. 3. Ask who in the sea might be affected.  
   *Parent says:* The sea has been taking up carbon dioxide from the air for 200 years. What do you think is happening to the sea water? Who lives in it and builds shells?  
-  *Child mode:* The sea takes up carbon dioxide from the air. What might that do to sea water? Who in the sea builds shells?
+  *Child mode:* Think about your soda glass. Then tell your grown-up who in the sea builds shells. What might happen to them?
   - Note: Sea water is not sour. It is slightly alkaline, which is the opposite of acid, and it is slowly becoming less so. In water that is more acid, corals, snails and some tiny algae must work harder to build shells. How much harm this will do is still being measured.
   - Check: The sea takes up carbon dioxide from the air. What happens to the sea water? → **It slowly becomes a little more acid**
 
 ## Activities
 ### a1 · Two Heaps: sort one day's waste (12 min)
-- **record:** Draw the two heaps. Write three things you noticed about each, and one question you want answered.
+- **record:** Take a photo of the two heaps, or draw them. Write three things you noticed about each, and one question you want answered.
 - **s1 (5 min)**  
   *Parent does:* 1. Tip the waste onto the newspaper. 2. Put aside anything that was never alive, such as plastic, foil and glass. 3. Sort the rest into two heaps: wet and soft, or dry and tough.  
   *Parent says:* Everything left on the paper was once part of a living being. Let's make two heaps. Which things are wet and soft? Which are dry and tough?  
@@ -405,11 +405,11 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **s2 (4 min)**  
   *Parent does:* 1. Lift a handful from each heap and compare the weight. 2. Squeeze each handful. 3. Tear a piece from each. 4. Smell each from a hand's length away. 5. Ask what your child notices.  
   *Parent says:* Hold some of each. Squeeze, tear and smell. What do you notice? Tell me everything, even small things.  
-  *Child mode:* Lift some of each heap. Which is heavier? Squeeze each. Tear a piece of each. Smell each from a distance. What do you notice?
+  *Child mode:* Lift some of each heap. Which is heavier? Squeeze each. Tear a piece of each. Smell each from a distance.
   - Ask: What do you notice? (good: The wet heap is heavier and water comes out when I squeeze.; The dry heap is stiff and hard to tear, and it has almost no smell.; The wet heap already smells a little.)
 - **s3 (3 min)**  
   *Parent does:* 1. Ask what your child wonders about the two heaps. 2. Ask which heap decomposers would finish first, and why. 3. Write down one question to keep. Do not answer it yet.  
-  *Parent says:* What do you wonder? If decomposers came to eat these heaps, which would they finish first? Why do you think so?  
+  *Parent says:* What do you wonder? Decomposers are the tiny living beings, such as bacteria and fungi, that eat dead plants and animals. If they came to eat these heaps, which would they finish first? Why do you think so?  
   *Child mode:* What do you wonder about the heaps? Which heap would decomposers finish first? Why? Write down one question.
   - Ask: The peel was part of a vegetable. Where was the stuff of the vegetable before that? (good: In the soil and the water.; In the air. (Rare, and right for most of it. Do not say so yet.))
   - Note: Keep both heaps. They are the browns and the greens for the experiment Browns, Greens or Both.
@@ -427,27 +427,27 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **s3 (5 min)**  
   *Parent does:* 1. Ask which family of plants the top foods come from. 2. Ask where a dal plant could get so much nitrogen. 3. Tell your child that about 16 of every 100 grams of protein is nitrogen.  
   *Parent says:* Dal and groundnuts are near the top. They are seeds of the bean family. Where do you think these plants get so much nitrogen?  
-  *Child mode:* Which foods came top? What plant family are they from? Where do those plants get so much nitrogen?
+  *Child mode:* Which foods came top? What plant family are they from?
   - Ask: Where could a dal plant get so much nitrogen? (good: From bacteria in the roots, who take nitrogen from the air.; From the soil, or from fertiliser. (Partly true for every plant.))
   - Check: Which of these foods holds the most nitrogen in 100 grams? → **Toor dal**
 ### a3 · Draw the Loop: one carbon atom from the air to your idli and back (15 min)
-- **record:** Keep your loop drawing. Each arrow should have the name of what happens written beside it.
+- **record:** Keep your loop, or take a photo of it. Each arrow should have the name of what happens written beside it.
 - **s1 (5 min)**  
-  *Parent does:* 1. Ask what an idli is made of. 2. Draw five places in a ring: the air, a paddy plant, an idli, you, and your breath. 3. Put one black dot, the carbon atom, in the air.  
+  *Parent does:* 1. Ask what an idli is made of. 2. Write five places on five slips of paper: the air, a paddy plant, an idli, you, and your breath. Lay them in a ring on the big sheet. 3. Put one black dot, the carbon atom, on the air slip.  
   *Parent says:* An idli is rice and ulundu. Both are seeds. Let's follow one carbon atom. Where was it before it was in the rice? How did it get in?  
-  *Child mode:* What is an idli made of? Draw the air, a paddy plant, an idli, yourself and your breath. Draw them in a ring. Put one black dot in the air.
+  *Child mode:* What is an idli made of? Make five slips: air, paddy plant, idli, you, and your breath. Lay them in a ring. Put one black dot on the air slip.
 - **s2 (6 min)**  
   *Parent does:* 1. Draw an arrow from each place to the next. 2. Beside each arrow, write what happens there. 3. Ask how long the whole round might take.  
   *Parent says:* What happens at each arrow? Use the real words: photosynthesis, eating, respiration. How long do you think one round takes?  
   *Child mode:* Draw an arrow from each place to the next. Write what happens beside each arrow. How long does one round take?
   - Note: Air to leaf is photosynthesis. Leaf to grain is the plant storing starch. Grain to you is eating and digesting. You to your breath is respiration. One round takes a few months to a year, most of it spent as stored rice.
 - **s3 (4 min)**  
-  *Parent does:* 1. In another colour, draw the gas stove that steamed the idli. 2. Ask where the carbon in cooking gas came from. 3. Draw its arrow from deep underground to the air. 4. Ask how this arrow is different from the others.  
-  *Parent says:* The stove burns gas from deep under the ground. Draw that carbon's arrow. How is this arrow different from all the others on your page?  
-  *Child mode:* Draw the gas stove in another colour. Its carbon came from deep underground. Draw that arrow. How is it different from the others?
+  *Parent does:* 1. Write GAS STOVE on a slip and lay it outside the ring. 2. Ask where the carbon in cooking gas came from. 3. Lay a spoon from the stove slip to the air slip, as its arrow. 4. Ask how this arrow is different from the others.  
+  *Parent says:* The stove burns gas from deep under the ground. Lay a spoon from the stove slip to the air slip, as that carbon's arrow. How is this arrow different from all the others?  
+  *Child mode:* Write GAS STOVE on a slip. Its carbon came from deep underground. Lay a spoon from the stove slip to the air slip, as its arrow.
   - Ask: How is the stove's arrow different from the others? (good: It goes one way. Nothing takes that carbon back underground.; The other arrows make a ring, so the air gets back what it gave.)
 ### a4 · The Nitrogen Relay: pass one atom all the way round (15 min)
-- **record:** Draw the ring of six stations. Write beside each one what happens to the nitrogen atom there.
+- **record:** Keep your ring of six labels. Write beside each one what happens to the nitrogen atom there.
 - **s1 (4 min)**  
   *Parent does:* 1. Write six labels: AIR, FIXING BACTERIA, PLANT, ANIMAL, DECOMPOSER, AIR-RETURNING BACTERIA. 2. Lay them in a ring in that order. 3. Stand a person or a cup at each. 4. Mark the ball with an N.  
   *Parent says:* This ball is one nitrogen atom. In the air it is stuck to a partner. Who in this ring can pull it free? Who do you think comes next?  
@@ -455,13 +455,13 @@ In the last week of February she went out alone with the weeding blade. The kiln
   - Note: With fewer than six people, each person takes two stations next to each other.
 - **s2 (6 min)**  
   *Parent does:* 1. Start the ball at AIR and pass it round. 2. Each station says their line as they take the ball. 3. Go round three times, a little faster each time.  
-  *Parent says:* Say your line as you take the atom. Air: 'I hold nitrogen in pairs.' Fixing bacteria: 'I split the pair and make ammonia.' Plant: 'I build protein.'  
+  *Parent says:* Say your line as you take the atom. Air: 'I hold nitrogen in pairs.' Fixing bacteria: 'I split the pair and make ammonia.' Plant: 'I build protein.' Animal: 'I eat the plant.' Decomposer: 'I rot what dies.' Air-returning bacteria: 'I turn it back into gas in the air.'  
   *Child mode:* Pass the ball round the ring. Say each station's line. Fixing bacteria split the pair. The plant builds protein. The animal eats the plant.
   - Note: The other lines. Animal: 'I eat the plant and pass nitrogen out in urine.' Decomposer: 'I free the nitrogen from dung and dead bodies.' Air-returning bacteria: 'I send nitrogen gas back to the air.' Between the decomposer and the plant there is a short cut. Soil bacteria turn ammonium into nitrate, and roots take it up again without it ever reaching the air.
 - **s3 (5 min)**  
   *Parent does:* 1. Take away the FIXING BACTERIA station and try to pass the ball. 2. Put it back. Take away the DECOMPOSER and try again. 3. Add a new station called FACTORY beside the fixing bacteria. Ask what it changes.  
   *Parent says:* What happens to the ring when the fixing bacteria are gone? What about when the decomposers are gone? Where does the atom get stuck each time?  
-  *Child mode:* Take away the fixing bacteria. Can the ball get round? Put them back. Take away the decomposer. Where does the ball get stuck?
+  *Child mode:* Take away the fixing bacteria. Can the ball get round? Put them back. Take away the decomposer. Try to pass the ball round again.
   - Ask: Where does the nitrogen get stuck without decomposers? (good: In dung and dead bodies. The plants cannot get it back.; The plants would run short, even though the nitrogen is lying right there.)
   - Check: Who takes nitrogen from the air and makes it usable for a bean plant? → **Bacteria in the root nodules**
 ### a5 · Read the Keeling Curve: 65 years of air on one page (20 min)
@@ -480,12 +480,12 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **s3 (5 min)**  
   *Parent does:* 1. Ask your child to carry the line on by eye to 2035 and read the number. 2. Tell them that the real line also wobbles up and down a little each year. 3. Ask what could take carbon dioxide out of the air every summer.  
   *Parent says:* The real line dips a little every northern summer and rises every winter. What takes carbon dioxide out of the air in summer?  
-  *Child mode:* Carry your line on to 2035. What number do you read? The real line dips every summer. What takes carbon dioxide out of the air then?
+  *Child mode:* Carry your line on to 2035. What number do you read? The real line dips every summer. Tell your grown-up your idea about why.
   - Note: Most of the world's land and forests are in the northern half. In the northern summer those forests are in leaf and take in more carbon dioxide than living beings give out. In winter many leaves fall and rot, and the number rises again. A fair reading for 2035 is 450 to 455, if nothing changes.
   - Check: The carbon dioxide in the air dips a little every northern summer. Why? → **Forests in leaf take in more carbon**
 ### a6 · Root Dig: look for nodules (if you have a garden, a park or a farm nearby) (20 min)
 - **safety:** A grown-up comes along and chooses where to dig. Ask before you dig up any plant that someone is growing. Wash your hands with soap afterwards.
-- **record:** Draw both sets of roots. Write how many nodules you counted, and the colour inside one.
+- **record:** Take a photo of both sets of roots, or draw them. Write how many nodules you counted, and the colour inside one.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Find a plant of the bean family at least a month old. 2. Dig a circle about 10 cm from the stem and a spoon deep. 3. Lift the plant with the soil still on. Do not pull the stem, or the nodules will break off. 4. Dig up a tuft of grass the same way.  
   *Parent says:* We will look at the roots of two plants. One is from the bean family. Do you think their roots will look the same? Why?  
@@ -497,32 +497,32 @@ In the last week of February she went out alone with the weeding blade. The kiln
   *Child mode:* Swish the roots in water. Look for small round lumps. Count them. Does the grass have any?
   - Note: Nodules are 1 to 5 mm across and sit on the side of a root. They come off easily when rubbed. If you find none, the right bacteria may be missing from that soil, or the soil may be rich in nitrogen. Both are worth writing down.
 - **s3 (5 min)**  
-  *Parent does:* 1. Pick off the biggest nodule and split it with a fingernail. 2. Look at the colour inside. 3. Draw both roots. 4. Plant the grass back.  
+  *Parent does:* 1. Pick off the biggest nodule and split it with a fingernail. 2. Look at the colour inside. 3. Lay both roots side by side on white paper. Take a photo, or draw them. 4. Plant the grass back.  
   *Parent says:* Split one open. What colour is it inside? Pink or red means the bacteria inside are fixing nitrogen.  
-  *Child mode:* Split the biggest lump with your fingernail. What colour is it inside? Draw both roots.
+  *Child mode:* Split the biggest lump with your fingernail. What colour is it inside? Lay both roots side by side. Take a photo, or draw them.
   - Ask: Why does the grass have no nodules, and how does grass get nitrogen? (good: Grass does not keep these bacteria. Grass takes up nitrogen that is already in the soil.; Some of that soil nitrogen came from dead bean roots and from decomposers.)
   - Note: A nodule that is white, green or brown inside is not fixing nitrogen now. It may be too young or too old.
 
 ## Projects
 ### p1 · Bottle World: a sealed jar for four weeks (45 min, 29 days)
-- **record:** Make one drawing of the jar each week. On the last drawing, add arrows to show how water goes round and how carbon goes round inside the jar.
+- **record:** Take a photo or make a drawing of the jar each week. On the last drawing, add arrows to show how water goes round and how carbon goes round inside the jar, or tell it to a grown-up.
 - **schedule:** day 1: Build the jar, guess what will happen, and close the lid. (15 min); day 8: Look for water drops, new growth and changes in the dry leaf. Draw the jar. (5 min); day 15: Look and draw again. (5 min); day 22: Look and draw again. (5 min); day 29: Make the last drawing. Add the water loop and the carbon loop to it. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Put 2 cm of pebbles in the jar, then 4 cm of soil. 2. Plant the small plant. Lay a dry leaf on the soil. 3. Add 3 tablespoons of water. The soil should be damp, with no water standing in the pebbles. 4. Ask for a guess and a reason. 5. Close the lid tightly and write the date on it. 6. Stand the jar in a bright place that gets no direct sun.  
   *Parent says:* Once the lid is on, no air and no water can get in or out. What do you think will happen to the plant in four weeks? Why do you think so?  
-  *Child mode:* Put pebbles in the jar. Add soil. Plant the small plant. Lay a dry leaf on top. Add 3 spoons of water. What will happen with the lid shut? Why? Close the lid.
+  *Child mode:* Put pebbles in the jar. Add soil. Plant the small plant. Lay a dry leaf on top. Add 3 spoons of water. What will happen with the lid shut? Close the lid.
   - Ask: Why do you think so? (good: The plant will die, because the air will run out. (A common guess. Wait and see.); The plant will be fine, because plants make their own oxygen.; The plant will dry up, because nobody will water them.)
   - Note: Direct sun heats a closed jar like a parked car and cooks the plant. A shelf near a window is right.
 - **s2 (15 min)**  
-  *Parent does:* 1. Without opening the jar, look for drops on the glass. 2. Look for new leaves or roots. 3. Look at the dry leaf. 4. Look for mould. 5. Draw what you see.  
+  *Parent does:* 1. Without opening the jar, look for drops on the glass. 2. Look for new leaves or roots. 3. Look at the dry leaf. 4. Look for mould. 5. Take a photo of the jar, or draw it.  
   *Parent says:* What has changed since last week? Where did the drops on the glass come from? Where do they go?  
-  *Child mode:* Do not open the jar. Look for water drops. Look for new leaves. Look at the dry leaf. Draw what you see.
+  *Child mode:* Do not open the jar. Look for water drops. Look for new leaves. Look at the dry leaf. Take a photo of the jar, or draw it.
   - Note: Drops on the glass in the morning that clear by afternoon are a good sign. If the glass is fogged all day, open the lid for one day and close it again. Write that down. A little white mould on the dry leaf is the decomposers at work. If the plant rots, start again with less water.
   - Wait: Look once a week, on days 8, 15 and 22
 - **s3 (15 min)**  
-  *Parent does:* 1. Make the last drawing. 2. Ask where the water in the jar goes each day. Draw that loop in blue. 3. Ask where the plant gets carbon dioxide, and who makes it. Draw that loop in another colour. 4. Ask what comes into the jar and what leaves.  
+  *Parent does:* 1. Take the last photo or drawing. 2. Ask where the water in the jar goes each day. Trace that loop with a finger on the glass. 3. Ask where the plant gets carbon dioxide, and who makes it. Trace that loop too. 4. Ask what comes into the jar and what leaves.  
   *Parent says:* The plant has had no new air for four weeks. Where does the carbon dioxide for the leaves come from? Who in the jar is making it?  
-  *Child mode:* Make your last drawing. Draw how the water goes round in blue. Draw how the carbon goes round. What comes into the jar? What leaves?
+  *Child mode:* Take your last photo or drawing. Trace with a finger how the water goes round the jar. Then trace how the carbon goes round.
   - Ask: Who in the jar makes carbon dioxide, and who uses it? (good: The decomposers in the soil make it when they eat the dry leaf. The plant also respires.; The plant's leaves use it in the light to build sugar.)
   - Ask: What comes into the jar from outside, and what leaves? (good: Only light comes in. Only heat leaves.; The atoms stay inside and go round. The Earth is like this too.)
   - Note: A sealed jar is a small model of the Earth. Matter stays in and goes round, and energy passes through. Newspapers have reported a man in England, David Latimer, whose sealed bottle garden has not been watered since 1972.
@@ -536,9 +536,9 @@ In the last week of February she went out alone with the weeding blade. The kiln
 - **general:** Mix in two parts of dry browns for each part of greens.; Make air holes in the sides and the bottom of the bottle.; Drain the liquid into a plant pot that has plenty of soil.
 - **creative:** Stand a rolled tube of cardboard in the middle, as a chimney for air.; Put a layer of coconut fibre at the bottom to hold the waste up out of the liquid.; Stir the bottle with a stick every day, to let air in.; Add a spoon of finished compost or soil, to bring more decomposers.
 - **s1 (8 min)**  
-  *Parent does:* 1. Look at the bottle through the side. 2. Score the smell from a hand's length away. 3. Ask what the decomposers in this bottle are short of. 4. Write a plan with at least two changes.  
+  *Parent does:* 1. Look at the bottle through the side. 2. Score the smell from a hand's length away, from 0 (no smell) to 3 (very bad). 3. Ask what the decomposers in this bottle are short of. 4. Write a plan with at least two changes.  
   *Parent says:* This bottle has plenty of food. So what are the decomposers short of? What will you change, and what will each change fix?  
-  *Child mode:* Look at the bottle. Score the smell. What are the decomposers short of? Plan two changes. Say what each one fixes.
+  *Child mode:* Look at the bottle. Score the smell. Then plan two changes. Say what each one fixes.
   - Ask: What are the decomposers in this bottle short of? (good: Air, because the wet greens have packed down.; Carbon-rich browns to go with all the nitrogen.)
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up makes any air holes with a heated nail held in pliers. 2. Tip the greens into a bowl, outdoors or on a balcony. 3. Carry out your plan. 4. Put everything back and cover it with cloth. 5. Wash your hands with soap.  
@@ -553,7 +553,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
   - Wait: Do this 5 days later
 ### c2 · Keep It in the Field: stop the rain from washing fertiliser away (35 min)
 - **problem:** Design a small sloping field that loses as little colour as possible when one tumbler of rain falls on it.
-- **your turn:** Now design your own field. Draw it first and say why each part is there. Test it against the bare field with the same rain. Then change one thing and test again.
+- **your turn:** Now design your own field. Plan it first, by drawing it or telling it, and say why each part is there. Test it against the bare field with the same rain. Then change one thing and test again.
 - **constraints:** Use the same amount of soil, the same slope, the same rain and the same 5 drops of colour as the bare field.; The colour must go on or in the soil of the field. It may not be left out.; Use only things you have at home.
 - **general:** Cover the soil with dry leaves or straw, as farmers do with mulch.; Build small ridges of soil across the slope, like the bunds of a paddy field.; Press small plants or grass with roots into the soil.
 - **creative:** Put the colour in a hole 2 cm deep and cover it, in place of dropping it on top.; Give the colour in two halves, with a little rain between.; Wrap the colour in a small ball of clay or wet atta, so that it comes out slowly.; Dig a small pit at the bottom of the slope to catch the water.
@@ -563,9 +563,9 @@ In the last week of February she went out alone with the weeding blade. The kiln
   *Child mode:* Press soil flat on a plate. Prop one side on a book. Drop 5 drops of colour on top. Sprinkle one tumbler of rain. Catch the run-off in a glass.
   - Note: Food colour dissolves and moves with water, much as nitrate does. Keep this glass. It is what the new design must beat.
 - **s2 (10 min)**  
-  *Parent does:* 1. Ask your child to draw a design and give a reason for each part. 2. Build it on the second plate with 2 tumblers of soil. 3. Use the same slope and put on the same 5 drops.  
+  *Parent does:* 1. Ask your child to plan a design, by drawing it or by telling it, and give a reason for each part. 2. Build it on the second plate with 2 tumblers of soil. 3. Use the same slope and put on the same 5 drops.  
   *Parent says:* How will you keep the colour in your field? Why do you think that will work?  
-  *Child mode:* Draw your design. Say why each part is there. Build it on the second plate. Use the same slope. Add the same 5 drops.
+  *Child mode:* Plan your design. Draw it or tell it to your grown-up. Say why each part is there. Build it on the second plate. Use the same slope. Add the same 5 drops.
 - **s3 (10 min)**  
   *Parent does:* 1. Sprinkle 1 tumbler of rain in the same way as before. 2. Pour the run-off into the second clear glass. 3. Stand both glasses on white paper and compare. 4. Compare how much water ran off as well.  
   *Parent says:* Which glass is paler? Which holds less water? What does that tell you about your design?  
@@ -573,7 +573,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
   - Ask: Your field lost less colour. Where is the colour now, and is that good for a real crop? (good: It is still in the soil, where roots could take it up.; Some may have sunk straight down below the roots, which is also a loss.)
 - **s4 (5 min)**  
   *Parent does:* 1. Ask which one change your child would make next. 2. Link the designs to real farms: mulch, bunds, small doses and coated urea. 3. Pour the soil into a plant pot.  
-  *Parent says:* Real farmers use the same ideas. Which of your ideas is like a bund? Which is like giving fertiliser in small amounts?  
+  *Parent says:* Real farmers use the same ideas. A bund is a low wall of soil that holds water back. Which of your ideas is like a bund? Which is like giving fertiliser in small amounts?  
   *Child mode:* What one thing would you change next? Which of your ideas do real farmers use? Pour the soil into a plant pot.
   - Check: Why does rain wash nitrate fertiliser out of a bare field so easily? → **Nitrate dissolves in water**
 

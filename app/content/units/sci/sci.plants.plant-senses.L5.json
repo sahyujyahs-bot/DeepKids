@@ -610,7 +610,7 @@
      "mins": 12,
      "do": "1. Read the top card aloud. 2. Everyone lays a token face down. 3. Count to three and turn the tokens over. 4. Turn the card and read the back.",
      "say": "Ask two questions each time. Is the receiver part of the same plant? If not, is the receiver above the ground or below it?",
-     "kid": "Read the card. Is the receiver the same plant? Above ground or below? Choose your token.",
+     "kid": "Listen to the card. Lay the token for the path you think the news took.",
      "ask": [
       {
        "q": "A leaf warns another leaf of the same plant through the air. Why might that be quicker than going inside?",
@@ -712,16 +712,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw the board as the printable says. 2. Count out about 40 beans. 3. Put 3 beans on each tree. 4. Read the four parts of a round aloud.",
+     "do": "1. Make the board as the printable says. You can draw it, or use six cups as the trees. 2. Count out about 40 beans. 3. Put 3 beans on each tree. 4. Read the four parts of a round aloud.",
      "say": "Each bean is sugar that a tree made from light. The seedlings stand in deep shade, so they make none. What do you think will happen to them?",
-     "kid": "Draw the board. Put 3 beans on each tree. Read the four parts of a round.",
+     "kid": "Make the board. Put 3 beans on each tree. Read the four parts of a round.",
      "context": "This is the first step of Under the Forest. Here you draw the board and set out the beans."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "1. Play Forest 1 for 8 rounds with no sharing. 2. Put a coin on each tree that dies. 3. Write the number of living trees on the score sheet.",
-     "say": "In this forest no tree is joined to another. Roll, make and live. Watch the seedlings.",
+     "say": "In this forest no tree gives to another. Follow the four parts of a round, and watch the seedlings.",
      "kid": "Play 8 rounds with no sharing. Put a coin on each dead tree. Write the score.",
      "parent": "Both seedlings die in round 4, because each starts with 3 beans and uses 1 a round. A big tree stripped twice in a row early in the game can die too.",
      "context": "This step of Under the Forest is the first game. Here the trees do not share at all."
@@ -730,7 +730,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Set the board up again with 3 beans on each tree. 2. Play Forest 2 for 8 rounds, with sharing. 3. Count the living trees and the beans in the fungus bowl.",
-     "say": "Now the fungal threads carry sugar. Every move costs one bean. Is it better to send a seedling one bean each round, or several at once?",
+     "say": "Now the fungal threads carry sugar. Every move along them costs one bean.",
      "kid": "Set up again. Play 8 rounds with sharing. Each move costs one bean. Count the trees left.",
      "ask": [
       {
@@ -755,7 +755,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Set up again. This time each seedling makes 1 bean a round. 2. Play Forest 3 for 8 rounds with no sharing. 3. Compare the three scores.",
-     "say": "Now the seedlings get a little light. Do they need the threads? What would a scientist have to measure in a real forest to know which game is true?",
+     "say": "Now the seedlings get a little light. Do they still need the threads?",
      "kid": "Set up again. Seedlings now make 1 bean. Play 8 rounds with no sharing. Compare all three scores.",
      "ask": [
       {
@@ -772,7 +772,7 @@
       "q": "In the game, sharing saved the seedlings in deep shade. What does that show about real forests?",
       "options": [
        "Real trees feed seedlings in the same way",
-       "What would happen if the idea is true",
+       "It shows what would happen if the idea is true",
        "Fungi always help trees"
       ],
       "a": 1,
@@ -789,7 +789,7 @@
    "title": "The Touch Test: does a daily stroke change how moong seedlings grow?",
    "mins": 48,
    "days": 11,
-   "context": "In this experiment you grow two cups of moong seedlings at the same window. You stroke the seedlings in one cup twice a day for six days, and you never touch the seedlings in the other cup. Then you measure both cups.",
+   "context": "In this experiment you grow two cups of moong seedlings at the same window. You stroke the seedlings in one cup twice a day for six days, and you never touch the seedlings in the other cup. Then you measure both cups. You will find out whether a plant can feel a touch.",
    "question": "If seedlings are stroked for a few seconds twice a day, do they grow differently from seedlings that nobody touches?",
    "predict": "Guess first. After six days of strokes, which cup will have the taller seedlings: the stroked cup, the untouched cup, or neither? Will the stems look or feel different? Write your guess and your reason for it.",
    "fair_test": "Change only one thing: the strokes. Use seeds from one packet, two cups of the same kind, the same soil and the same amount of water. Keep both cups at the same window and swap their places every day, so that both get the same light. Keep 10 seedlings in each cup, because one seedling can be a fluke. The untouched cup is the control.",
@@ -877,7 +877,7 @@
      "what": "Measure every shoot, find the two means, draw the chart and explain the result."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart with two bars, one for the mean height of each cup on day 11. Draw one seedling from each cup side by side. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table. Draw a bar chart with two bars, one for the mean height of each cup on day 11. Take a photo of one seedling from each cup side by side. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: mean height of 10 seedlings on day 11",
@@ -965,9 +965,9 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "1. Cover the letters S and U with a strip of paper. 2. Ask someone who does not know which cup is which to measure every shoot. 3. Find the mean for each cup. 4. Bend one shoot in each cup gently with a finger, and compare how stiff the stems feel. 5. Draw the bar chart.",
-     "say": "The person who measures should not know which cup was stroked. Why do you think scientists take that trouble?",
-     "kid": "Cover the letters. Ask someone else to measure every shoot. Find both means. Feel one stem from each cup. Draw two bars.",
+     "do": "1. Cover the letters S and U with a strip of paper. 2. Ask someone who does not know which cup is which to measure every shoot. 3. Find the mean for each cup. 4. Bend one shoot in each cup gently with a finger, and compare how stiff the stems feel. 5. Make the bar chart: draw it, or cut a paper strip as tall as each mean.",
+     "say": "The person who measures should not know which cup was stroked.",
+     "kid": "Cover the letters. Ask someone else to measure every shoot. Find both means. Feel one stem from each cup. Make two bars: draw them, or cut two paper strips.",
      "wait": "Do this on day 11",
      "ask": [
       {
@@ -985,8 +985,8 @@
      "id": "s6",
      "mins": 7,
      "do": "1. Ask your child for three sentences: what they thought, what they saw, and why it may have happened. 2. Ask what else, besides the strokes, could have made a difference. 3. Only then read the explanation 'How a touch changes the way a plant grows' together.",
-     "say": "Say what you thought would happen, what you saw, and why you think it happened. Was anything different between the cups apart from the strokes?",
-     "kid": "Say what you thought. Say what you saw. Say why it may have happened. Was the test fair?",
+     "say": "Tell me what you thought would happen, what you saw, and why you think it happened.",
+     "kid": "Look at both cups and talk it over. Was anything different between the cups apart from the strokes?",
      "ask": [
       {
        "q": "Each stroke lasted about a second, but the difference took days to show. What does that tell you?",
@@ -1024,7 +1024,7 @@
    "title": "The Drop Test: does a touch-me-not stop folding for a harmless drop? (if you can get a touch-me-not)",
    "mins": 45,
    "days": 2,
-   "context": "In this experiment you repeat a well-known test from 2014. You drop a potted touch-me-not a short way on to a soft towel, many times, and watch whether the leaves go on folding. You need a touch-me-not plant in a small pot.",
+   "context": "In this experiment you repeat a well-known test from 2014. You drop a potted touch-me-not a short way on to a soft towel, many times, and watch whether the leaves go on folding. You will find out whether a plant can get used to a harmless knock. You need a touch-me-not plant in a small pot.",
    "question": "If a touch-me-not is dropped gently again and again and comes to no harm, do the leaves go on folding every time? If they stop, is the plant simply tired?",
    "predict": "Guess first. After 60 gentle drops, will the leaves still fold as fully as after the first drop? Then guess again. If you shake the plant sideways straight afterwards, will the leaves fold? Write both guesses and your reason for each.",
    "fair_test": "Drop the pot from the same height every time, 15 centimetres, on to the same folded towel. Leave the same time between drops, about 10 seconds. Watch the same three leaves and score them in the same way each time. The sideways shake is the control for tiredness, because it tests whether the plant can still fold.",
@@ -1075,7 +1075,7 @@
      "what": "Drop the pot once and score the leaves. Compare with the first drop of day 1."
     }
    ],
-   "record": "Fill in the table for drops 1, 20, 40 and 60, for the shake, and for the one drop on day 2. Draw a line graph of the total score against the number of drops. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table for drops 1, 20, 40 and 60, for the shake, and for the one drop on day 2. Make a line graph of the total score against the number of drops (draw it, or stack coins). Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example results: fold score of three leaves during 60 drops",
@@ -1158,9 +1158,9 @@
     {
      "id": "s4",
      "mins": 13,
-     "do": "1. Draw a line graph of the total score after drops 1, 20, 40 and 60. 2. Mark the score after the shake as a separate point. 3. Ask your child for three sentences: what they thought, what they saw, and why. 4. Then read the explanation 'Can a plant learn?' together.",
+     "do": "1. Make a line graph of the total score after drops 1, 20, 40 and 60. Draw it, or stack coins for each score. 2. Mark the score after the shake as a separate point. 3. Ask your child for three sentences: what they thought, what they saw, and why. 4. Then read the explanation 'Can a plant learn?' together.",
      "say": "Say what you thought would happen, what you saw, and why you think it happened. Does your graph go down, stay level or go up?",
-     "kid": "Draw the graph. Mark the shake as its own point. Say what you thought, what you saw, and why.",
+     "kid": "Make the graph, drawn or in coin stacks. Mark the shake as its own point.",
      "parent": "In the 2014 experiment the plants opened their leaves again before the 60 drops were over, and folded at once for a shake. Home results vary with the plant, the light and the landing. Your child reports what your plant did.",
      "context": "This step of the Drop Test is for the graph and for explaining the result."
     },
@@ -1194,7 +1194,7 @@
    "title": "The Torn Leaf Test: can your nose tell a damaged leaf from a whole one?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity one katori holds whole leaves and another holds torn leaves of the same kind. With your eyes closed, you find out whether your nose can tell which is which, and from how far away.",
+   "context": "In this activity one katori holds whole leaves and another holds torn leaves of the same kind. With your eyes closed, you find out whether your nose can tell which is which, and from how far away. You will find out whether a torn leaf gives off a smell that others could notice.",
    "materials": [
     {
      "item": "fresh leaves of one kind. Curry leaves, tulsi, mint, coriander or methi are easiest. Palak, cabbage or grass also work from close up.",
@@ -1213,7 +1213,7 @@
      "qty": 1
     }
    ],
-   "record": "Write how many times out of 5 you chose the torn katori. Write the greatest distance at which you could smell the torn leaves. Draw the test, and label the sender, the carrier and the receiver.",
+   "record": "Write how many times out of 5 you chose the torn katori. Write the greatest distance at which you could smell the torn leaves. Say what the sender, the carrier and the receiver of the smell were. Or draw the test and label them.",
    "setup": [
     {
      "art": "Two steel katoris on a table, each holding three whole curry leaves.",
@@ -1254,8 +1254,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Your child stands two big steps away, with eyes closed. 2. Bring the torn katori closer, one hand-width at a time. 3. Your child says 'now' at the first smell. 4. Measure from the katori to your child's nose.",
-     "say": "The smell is spreading out through the air. Who else, besides you, could receive it? What might each of them do?",
-     "kid": "Stand two steps away, eyes closed. Say 'now' when you smell the leaves. Measure how far away they are.",
+     "say": "The smell spreads out through the air. Say 'now' the first moment you smell it.",
+     "kid": "Stand two steps away, eyes closed. Say 'now' when you smell the leaves. Your grown-up measures how far away they are.",
      "ask": [
       {
        "q": "A torn leaf smells different from a whole leaf. Who could make use of that news?",
@@ -1328,7 +1328,7 @@
      "what": "Look at the threads through a magnifying glass, draw them and measure how far they have spread."
     }
    ],
-   "record": "Draw what you see through the magnifying glass on day 5: the threads, and any dark dots on stalks. Write how far the patch spread between day 3 and day 5.",
+   "record": "On day 5, look through the magnifying glass for the threads and any dark dots on stalks. Draw what you see, or take a photo through the glass. Write how far the patch spread between day 3 and day 5.",
    "setup": [
     {
      "art": "A piece of chapati with a few drops of water on it being slid into a clear zip bag.",
@@ -1347,7 +1347,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Wipe the piece of chapati across a shelf or a windowsill. 2. Sprinkle five drops of water on it. 3. Seal it in the clear bag and tape the opening shut. 4. Put the bag in a warm, dim place, such as a kitchen shelf.",
+     "do": "1. Wipe the piece of chapati across a shelf or a windowsill. 2. Sprinkle five drops of water on it. 3. Seal it in the clear bag and tape the opening shut. 4. Put the bag in a warm, dim place, such as a kitchen shelf. 5. Leave it for three days.",
      "say": "Fungus spores are in the dust all around us. We are giving some of them food and water. What do you think we will see in five days?",
      "kid": "Wipe the chapati on a shelf. Add five drops of water. Seal the bag and tape it shut.",
      "parent": "Packaged bread has chemicals that slow mould, so it can take ten days. A chapati, an idli or bakery bread is faster.",
@@ -1365,9 +1365,9 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "1. Hold the magnifying glass against the bag, over the edge of the fluffy patch. 2. Your child looks for single threads and draws them. 3. Look for tiny dark dots on stalks. 4. Measure how far the patch has spread past the marker line. 5. Put the sealed bag in the dustbin.",
+     "do": "1. Two days later, hold the magnifying glass against the bag, over the edge of the fluffy patch. 2. Your child looks for single threads and points them out to you. 3. Look for tiny dark dots on stalks. 4. Measure how far the patch has spread past the marker line. 5. Put the sealed bag in the dustbin.",
      "say": "Each thread is one hypha. The whole patch is one mycelium, and the dark dots hold spores. How is this body different from a plant's body?",
-     "kid": "Look through the magnifying glass. Find single threads and draw them. Measure how far they spread. Bin the sealed bag.",
+     "kid": "Look through the magnifying glass. Find single threads and point them out. Measure how far they spread. Bin the sealed bag.",
      "wait": "Do this on day 5",
      "ask": [
       {
@@ -1443,8 +1443,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Your child slides a coin from 0 to 30 centimetres in 10 seconds. 2. Work out the speed together: 3 centimetres each second. 3. Ask how many times faster this is than the first signal.",
-     "say": "This is the speed of the signal that folds a touch-me-not leaf. How many times faster is it than the warning wave?",
-     "kid": "Slide a coin from 0 to 30 cm in 10 seconds. How many times faster is this?",
+     "say": "This is the speed of the signal that folds a touch-me-not leaf.",
+     "kid": "Slide a coin from 0 to 30 cm in 10 seconds.",
      "ask": [
       {
        "q": "3 centimetres a second is how many times as fast as 1 millimetre a second?",
@@ -1459,8 +1459,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Tell your child that a fast nerve signal travels 100 metres each second. 2. Work out together how long it would take to cross the ruler. 3. Ask whether the plant's wave is too slow to be useful.",
-     "say": "Your fastest nerves would cross this ruler in three thousandths of a second. A caterpillar needs many minutes to eat one leaf. So is the plant's wave fast enough?",
-     "kid": "A nerve signal crosses the ruler in a blink. A caterpillar eats slowly. Is the plant's wave fast enough?",
+     "say": "Your fastest nerves would cross this ruler in three thousandths of a second. A caterpillar needs many minutes to eat one leaf.",
+     "kid": "A nerve signal crosses the ruler in a blink. Is the plant's slow wave still useful?",
      "check": {
       "t": "mcq",
       "q": "A plant's warning wave moves about 1 millimetre a second. Why is that fast enough?",
@@ -1500,7 +1500,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw each of the three tendrils at the start, after 5 minutes and after 30 minutes. Write which way the stroked tendril curled.",
+   "record": "Line up your photos of each tendril: start, 5 minutes and 30 minutes. (No phone? Draw them instead.) Write which way the stroked tendril curled.",
    "setup": [
     {
      "art": "A bitter gourd vine on a balcony trellis with three young straight tendrils reaching out into the air, each marked with a small numbered paper tag on the stem nearby.",
@@ -1519,26 +1519,26 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Find three young, straight tendrils that are not touching anything. 2. Draw all three. 3. Ask what a tendril will do if one side is stroked, and why. 4. Ask the same about a drop of water.",
+     "do": "1. Find three young, straight tendrils that are not touching anything. 2. Take a photo of each, and note which is 1, 2 and 3. 3. Ask what a tendril will do if one side is stroked, and why. 4. Ask the same about a drop of water.",
      "say": "A tendril has to find something to hold. What do you think this one will do if a stick strokes one side? And what if a raindrop lands on one? Why?",
-     "kid": "Find three straight young tendrils. Draw them. Guess what a stroke will do. Guess what a water drop will do.",
+     "kid": "Find three straight young tendrils. Your grown-up takes a photo of each. Guess what a stroke will do. Guess what a water drop will do.",
      "context": "This is the first step of Stroke a Tendril. Here you choose three tendrils and make two guesses."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Stroke one side of the first tendril, near the tip, ten times with the matchstick. 2. Let five drops of water fall on the second tendril. 3. Leave the third tendril alone as the control. 4. Look at all three once a minute for five minutes, and draw them.",
+     "do": "1. Stroke one side of the first tendril, near the tip, ten times with the matchstick. 2. Let five drops of water fall on the second tendril. 3. Leave the third tendril alone as the control. 4. Look at all three once a minute for five minutes, and say what each one is doing.",
      "say": "Watch closely. Is anything changing? Which way is the stroked tendril bending: towards the side you stroked, or away from it?",
-     "kid": "Stroke the first tendril ten times. Drip water on the second. Leave the third. Look every minute and draw.",
+     "kid": "Stroke the first tendril ten times. Drip water on the second. Leave the third. Look every minute. Say what each one is doing.",
      "parent": "A young gourd tendril often starts to curl within 2 to 10 minutes, towards the stroked side. Old tendrils and coiled tendrils do not respond. Charles Darwin wrote in 1875 that his tendrils curled for a thread but took no notice of drops of water. See what yours do.",
      "context": "This is the main part of Stroke a Tendril. Here you stroke one tendril, wet another and leave the third alone."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Come back after 30 minutes. 2. Draw the three tendrils again. 3. Ask why it might help a climber to respond to a stick but not to rain.",
-     "say": "Compare the three. Why might it help a climbing plant to curl for a stick and not for a raindrop?",
-     "kid": "Come back after 30 minutes. Draw the three tendrils. Why curl for a stick, but not for rain?",
+     "do": "1. Come back after 30 minutes. 2. Take a photo of each tendril again. 3. Ask why it might help a climber to respond to a stick but not to rain.",
+     "say": "Compare the three with the first photos. Which ones changed?",
+     "kid": "Come back after 30 minutes. Take a photo of each. Why might a climber curl for a stick, but not for rain?",
      "wait": "Look again after 30 minutes",
      "check": {
       "t": "mcq",
@@ -1584,7 +1584,7 @@
      "mins": 3,
      "do": "1. Tell your child what happened: plants were dropped 15 centimetres on to foam, 60 times, and stopped folding. 2. Ask for two different explanations. 3. Write 'tired' and 'learned' at the top of two columns.",
      "say": "The plants folded at first and then stopped. Give me two different reasons why that could happen.",
-     "kid": "Plants were dropped 60 times and stopped folding. Think of two reasons why. Draw two columns.",
+     "kid": "Plants were dropped 60 times and stopped folding. Think of two reasons why. Write 'tired' and 'learned' as two column headings.",
      "parent": "Your child may offer other ideas, such as 'the leaves were damaged'. Add a column for any idea that can be tested.",
      "context": "This is the first step of Learned or Tired? Here you think of two explanations for one result."
     },
@@ -1805,7 +1805,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Poke three holes in the bottom of each cup and fill both with damp soil. 2. Plant 12 seeds in each cup, one finger-joint deep. 3. Mark one cup M for music and one Q for quiet. 4. Stand both at a bright window and give each two tablespoons of water a day.",
-     "say": "The cups must be the same in every way except the music. What things do we need to keep the same?",
+     "say": "The cups must be the same in every way except the music.",
      "kid": "Fill two cups with damp soil. Plant 12 seeds in each. Mark them M and Q. Water both each day.",
      "wait": "Do this on day 2",
      "ask": [
@@ -1834,7 +1834,7 @@
      "mins": 17,
      "do": "1. Cover the letters and ask someone to measure every shoot. 2. Find the mean for each cup. 3. Write the tallest and the shortest shoot in each cup. 4. Compare the difference in the means with the difference you agreed on day 1. 5. Your child writes one sentence on what the test shows.",
      "say": "Is the difference between the cups bigger than the difference between shoots inside one cup? Did it reach the bar we set on day 1?",
-     "kid": "Measure every shoot with the letters covered. Find both means. Is the difference as big as you said on day 1?",
+     "kid": "Measure every shoot with the letters covered. Find both means.",
      "wait": "Do this on day 10",
      "ask": [
       {
@@ -1893,7 +1893,7 @@
     "A lever. Push a pin through a straw 3 centimetres from one end, and rest the pin across two piles of books. Tie the short end to the shoot tip with thread. The long end moves nine times as far as the short end.",
     "Two levers, one moving the next. J.C. Bose's crescograph worked this way and magnified growth up to 10,000 times."
    ],
-   "your_turn": "Now design your own growth magnifier. Draw it, build it and test it for one hour. How many times does it magnify? How do you know?",
+   "your_turn": "Now design your own growth magnifier. Plan it, build it and test it for one hour. How many times does it magnify? How do you know?",
    "setup": [
     {
      "art": "A phone torch propped in a tumbler on a table in a dim room, shining past a single moong shoot in a cup so that a large shadow of the shoot falls on white paper taped to the wall.",
@@ -1921,7 +1921,7 @@
      "id": "s2",
      "mins": 12,
      "do": "1. Tape white paper to a wall. 2. Stand the cup 180 centimetres from the wall. 3. Prop the torch 20 centimetres behind the shoot, so that it is 2 metres from the wall. 4. Darken the room and mark the top of the shadow.",
-     "say": "The wall is ten times as far from the torch as the shoot is. So how many times bigger is the shadow's movement than the shoot's?",
+     "say": "The wall is ten times as far from the torch as the shoot is. That makes the shadow move more than the shoot does.",
      "kid": "Tape paper to the wall. Put the torch 20 cm behind the shoot. Darken the room. Mark the top of the shadow.",
      "ask": [
       {
@@ -1947,9 +1947,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Your child designs a magnifier of their own and draws it. 2. They build it, or the lever, and test it. 3. They work out how many times it magnifies.",
+     "do": "1. Your child designs a magnifier of their own, on paper or by laying out the parts on the table. 2. They build it, or the lever, and test it. 3. They work out how many times it magnifies.",
      "say": "Now design your own. What will you change? How will you find out how many times it magnifies?",
-     "kid": "Design your own magnifier. Draw it and build it. Work out how many times it magnifies.",
+     "kid": "Design your own magnifier. Plan it, then build it. Work out how many times it magnifies.",
      "parent": "For the lever, hang a paper clip on the short end until the straw almost balances. Then the thread only just tugs the shoot.",
      "check": {
       "t": "mcq",
@@ -1991,7 +1991,7 @@
     "Grow each plant inside a mesh tube, and give some tubes a small turn every day. The turn snaps the fungal threads and leaves the soil water as it was.",
     "Fill some pots with soil that was heated first, so that the soil holds no living fungus."
    ],
-   "your_turn": "Now draw your own experiment. Show every kind of pot, say which path each one blocks, and say what result would point to the air, the soil water or the fungus.",
+   "your_turn": "Now design your own experiment, drawn or built. Show every kind of pot, say which path each one blocks, and say what result would point to the air, the soil water or the fungus.",
    "setup": [
     {
      "art": "A pot with two bean plants, one covered in small green aphids, with three arrows between the plants labelled 'air', 'soil water' and 'fungal threads', each with a question mark.",
@@ -2006,17 +2006,17 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Read the problem aloud. 2. Your child draws the pot with two plants and three arrows for the three paths. 3. For each path, ask what could block that path alone.",
+     "do": "1. Read the problem aloud. 2. Your child stands two paper cups side by side as the two plants, and makes three paper arrows for the three paths. 3. For each path, ask what could block that path alone.",
      "say": "The news got across somehow. There are three possible paths. For each one, what could we put in the way?",
-     "kid": "Draw two plants in one pot. Draw three arrows: air, soil water and fungus. What could block each?",
+     "kid": "Stand two cups side by side as the plants. Make three arrows: air, soil water and fungus. What could block each?",
      "context": "This is the first step of Which Path? Here you draw the three paths a warning could take."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Look at the three usual ideas together. 2. For each idea, ask which paths it blocks and which it leaves open. 3. Ask which idea cannot tell the soil water from the fungal threads.",
-     "say": "A solid wall in the soil stops the warning. Does that tell us whether the news went by water or by threads? Why not?",
-     "kid": "Read the three usual ideas. Which paths does each one block? Which idea blocks two paths at once?",
+     "say": "Look at each idea. Which paths does it block, and which does it leave open?",
+     "kid": "Read the three usual ideas. Which one blocks two paths at once?",
      "ask": [
       {
        "q": "Why can a solid wall in the soil not tell the soil water from the fungal threads?",
@@ -2032,9 +2032,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Read the creative ideas together. 2. Your child draws a full design, with a control pot and five of each kind. 3. Your child writes what each possible result would mean.",
+     "do": "1. Read the creative ideas together. 2. Your child shows a full design, drawn or built from the cups, bag, cloth and card. It has a control pot and five of each kind. 3. Your child tells you what each possible result would mean.",
      "say": "Now make your own design. Which pot is the control? What result would tell you the fungus carried the news?",
-     "kid": "Draw your own design. Include a control pot. Write what each result would mean.",
+     "kid": "Show your own design, drawn or built. Include a control pot. Say what each result would mean.",
      "parent": "In 2013 Zdenka Babikova and her team did this with bean plants and aphids. The warning passed through a mesh that let fungal threads through. It did not pass through a finer mesh that stopped the threads but let water through.",
      "check": {
       "t": "mcq",

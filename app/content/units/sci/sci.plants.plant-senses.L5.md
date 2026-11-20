@@ -268,7 +268,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 - **s2 (12 min)**  
   *Parent does:* 1. Read the top card aloud. 2. Everyone lays a token face down. 3. Count to three and turn the tokens over. 4. Turn the card and read the back.  
   *Parent says:* Ask two questions each time. Is the receiver part of the same plant? If not, is the receiver above the ground or below it?  
-  *Child mode:* Read the card. Is the receiver the same plant? Above ground or below? Choose your token.
+  *Child mode:* Listen to the card. Lay the token for the path you think the news took.
   - Ask: A leaf warns another leaf of the same plant through the air. Why might that be quicker than going inside? (good: The two leaves may be close in the air but far apart along the stem.; A smell crosses a small gap in seconds.)
   - Note: The two questions sort most cards. News to the same plant usually goes inside. News above the ground goes through the air. Below the ground, the card says whether a fungus was the carrier.
 - **s3 (4 min)**  
@@ -281,34 +281,34 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 - **Printable board: The forest board, drawn on a sheet of paper:** Draw six circles in a ring, each big enough to hold ten beans.; Going round the ring, name the circles A, E, C, B, F and D.; A and B are big trees in full sun. Write 'makes 3, uses 2' in each.; C and D are middle trees. Write 'makes 2, uses 1' in each.; E and F are seedlings in deep shade. Write 'makes 0, uses 1' in each.; Draw a line from each circle to the circle on either side. These six lines are the fungal threads.; Draw one small bowl in the middle of the ring and write 'fungus' in it.
 - **Printable score sheet: Score sheet for the three forests:** Forest 1, no sharing: trees alive after 8 rounds: __ out of 6; Forest 2, sharing along the threads: trees alive after 8 rounds: __ out of 6; Forest 2: beans in the fungus bowl at the end: __; Forest 3, seedlings in light shade and no sharing: trees alive after 8 rounds: __ out of 6; In which forest did the threads change who lived? __
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw the board as the printable says. 2. Count out about 40 beans. 3. Put 3 beans on each tree. 4. Read the four parts of a round aloud.  
+  *Parent does:* 1. Make the board as the printable says. You can draw it, or use six cups as the trees. 2. Count out about 40 beans. 3. Put 3 beans on each tree. 4. Read the four parts of a round aloud.  
   *Parent says:* Each bean is sugar that a tree made from light. The seedlings stand in deep shade, so they make none. What do you think will happen to them?  
-  *Child mode:* Draw the board. Put 3 beans on each tree. Read the four parts of a round.
+  *Child mode:* Make the board. Put 3 beans on each tree. Read the four parts of a round.
 - **s2 (6 min)**  
   *Parent does:* 1. Play Forest 1 for 8 rounds with no sharing. 2. Put a coin on each tree that dies. 3. Write the number of living trees on the score sheet.  
-  *Parent says:* In this forest no tree is joined to another. Roll, make and live. Watch the seedlings.  
+  *Parent says:* In this forest no tree gives to another. Follow the four parts of a round, and watch the seedlings.  
   *Child mode:* Play 8 rounds with no sharing. Put a coin on each dead tree. Write the score.
   - Note: Both seedlings die in round 4, because each starts with 3 beans and uses 1 a round. A big tree stripped twice in a row early in the game can die too.
 - **s3 (10 min)**  
   *Parent does:* 1. Set the board up again with 3 beans on each tree. 2. Play Forest 2 for 8 rounds, with sharing. 3. Count the living trees and the beans in the fungus bowl.  
-  *Parent says:* Now the fungal threads carry sugar. Every move costs one bean. Is it better to send a seedling one bean each round, or several at once?  
+  *Parent says:* Now the fungal threads carry sugar. Every move along them costs one bean.  
   *Child mode:* Set up again. Play 8 rounds with sharing. Each move costs one bean. Count the trees left.
   - Ask: Why is it better to send three beans in one move than one bean in three moves? (good: Each move costs one bean for the fungus.; Three single moves would lose all three beans. One move of three loses only one.)
   - Ask: What did the fungus gain in this forest? (good: A bean from every move.; The more the trees share, the more the fungus gets.)
   - Note: All six trees can live through 8 rounds if the big and middle trees send beans to the seedlings in moves of three or four. If a tree is lost, play again.
 - **s4 (5 min)**  
   *Parent does:* 1. Set up again. This time each seedling makes 1 bean a round. 2. Play Forest 3 for 8 rounds with no sharing. 3. Compare the three scores.  
-  *Parent says:* Now the seedlings get a little light. Do they need the threads? What would a scientist have to measure in a real forest to know which game is true?  
+  *Parent says:* Now the seedlings get a little light. Do they still need the threads?  
   *Child mode:* Set up again. Seedlings now make 1 bean. Play 8 rounds with no sharing. Compare all three scores.
   - Ask: What would a scientist need to measure to find out which forest is the real one? (good: How much food a shaded seedling makes for themself.; How much sugar really arrives through the threads.; Whether seedlings cut off from the threads die more often.)
-  - Check: In the game, sharing saved the seedlings in deep shade. What does that show about real forests? → **What would happen if the idea is true**
+  - Check: In the game, sharing saved the seedlings in deep shade. What does that show about real forests? → **It shows what would happen if the idea is true**
 
 ## Experiments
 ### e1 · The Touch Test: does a daily stroke change how moong seedlings grow? (48 min, 11 days)
 - **question:** If seedlings are stroked for a few seconds twice a day, do they grow differently from seedlings that nobody touches?
 - **predict:** Guess first. After six days of strokes, which cup will have the taller seedlings: the stroked cup, the untouched cup, or neither? Will the stems look or feel different? Write your guess and your reason for it.
 - **fair test:** Change only one thing: the strokes. Use seeds from one packet, two cups of the same kind, the same soil and the same amount of water. Keep both cups at the same window and swap their places every day, so that both get the same light. Keep 10 seedlings in each cup, because one seedling can be a fluke. The untouched cup is the control.
-- **record:** Fill in the table. Draw a bar chart with two bars, one for the mean height of each cup on day 11. Draw one seedling from each cup side by side. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table. Draw a bar chart with two bars, one for the mean height of each cup on day 11. Take a photo of one seedling from each cup side by side. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Cup | Mean height on day 5 (cm) | Mean height on day 11 (cm) | Growth in 6 days (cm) | How the stems look and feel
 - **schedule:** day 1: Soak 30 moong seeds in water overnight. (3 min); day 2: Plant 12 seeds in each cup. Stand both cups at a bright window. Water them each day. (8 min); day 5: Keep 10 shoots in each cup. Guess, measure every shoot and give cup S the first strokes. (10 min); day 6: Stroke cup S 20 times, morning and evening. Water both cups and swap their places. (2 min); day 7: Stroke cup S 20 times, morning and evening. Water both cups and swap their places. (2 min); day 8: Stroke cup S 20 times, morning and evening. Water both cups and swap their places. (2 min); day 9: Stroke cup S 20 times, morning and evening. Water both cups and swap their places. (2 min); day 10: Stroke cup S 20 times, morning and evening. Water both cups and swap their places. (2 min); day 11: Measure every shoot, find the two means, draw the chart and explain the result. (17 min)
 - **s1 (3 min)**  
@@ -336,16 +336,16 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   - Think: After two days, look at both cups without measuring. Can you see any difference yet?
   - Wait: Do this on days 6 to 10
 - **s5 (10 min)**  
-  *Parent does:* 1. Cover the letters S and U with a strip of paper. 2. Ask someone who does not know which cup is which to measure every shoot. 3. Find the mean for each cup. 4. Bend one shoot in each cup gently with a finger, and compare how stiff the stems feel. 5. Draw the bar chart.  
-  *Parent says:* The person who measures should not know which cup was stroked. Why do you think scientists take that trouble?  
-  *Child mode:* Cover the letters. Ask someone else to measure every shoot. Find both means. Feel one stem from each cup. Draw two bars.
+  *Parent does:* 1. Cover the letters S and U with a strip of paper. 2. Ask someone who does not know which cup is which to measure every shoot. 3. Find the mean for each cup. 4. Bend one shoot in each cup gently with a finger, and compare how stiff the stems feel. 5. Make the bar chart: draw it, or cut a paper strip as tall as each mean.  
+  *Parent says:* The person who measures should not know which cup was stroked.  
+  *Child mode:* Cover the letters. Ask someone else to measure every shoot. Find both means. Feel one stem from each cup. Make two bars: draw them, or cut two paper strips.
   - Ask: Why should the person who measures not know which cup was stroked? (good: Someone who expects one cup to be shorter may measure it a little shorter without meaning to.; Then the result does not depend on what we hoped to find.)
   - Note: If nobody else is at home, your child can measure with the letters covered and the cups swapped about. Stroked shoots are often 1 to 3 centimetres shorter on average, and their stems feel stiffer. Single shoots overlap, so compare the means.
   - Wait: Do this on day 11
 - **s6 (7 min)**  
   *Parent does:* 1. Ask your child for three sentences: what they thought, what they saw, and why it may have happened. 2. Ask what else, besides the strokes, could have made a difference. 3. Only then read the explanation 'How a touch changes the way a plant grows' together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Was anything different between the cups apart from the strokes?  
-  *Child mode:* Say what you thought. Say what you saw. Say why it may have happened. Was the test fair?
+  *Parent says:* Tell me what you thought would happen, what you saw, and why you think it happened.  
+  *Child mode:* Look at both cups and talk it over. Was anything different between the cups apart from the strokes?
   - Ask: Each stroke lasted about a second, but the difference took days to show. What does that tell you? (good: The seedlings went on responding long after each touch ended.; The response was a change in growth, and growth takes days.)
   - Ask: Where might a wild plant get bent many times a day? (good: In a windy place.; Where animals brush past.)
   - Note: If the two means differ by less than half a centimetre, say so plainly. That is a real result. The strokes may have been too gentle, or six days may be too few. Your child can run the test for four more days.
@@ -355,7 +355,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 - **predict:** Guess first. After 60 gentle drops, will the leaves still fold as fully as after the first drop? Then guess again. If you shake the plant sideways straight afterwards, will the leaves fold? Write both guesses and your reason for each.
 - **fair test:** Drop the pot from the same height every time, 15 centimetres, on to the same folded towel. Leave the same time between drops, about 10 seconds. Watch the same three leaves and score them in the same way each time. The sideways shake is the control for tiredness, because it tests whether the plant can still fold.
 - **safety:** A touch-me-not has small thorns on the stems, so hold the pot and not the plant.
-- **record:** Fill in the table for drops 1, 20, 40 and 60, for the shake, and for the one drop on day 2. Draw a line graph of the total score against the number of drops. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table for drops 1, 20, 40 and 60, for the shake, and for the one drop on day 2. Make a line graph of the total score against the number of drops (draw it, or stack coins). Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** When | Leaf 1 (0, 1 or 2) | Leaf 2 (0, 1 or 2) | Leaf 3 (0, 1 or 2) | Total out of 6
 - **schedule:** day 1: Drop the pot 60 times and score three leaves. Shake the pot sideways, score again and draw the graph. (35 min); day 2: Drop the pot once and score the leaves. Compare with the first drop of day 1. (10 min)
 - **s1 (5 min)**  
@@ -374,9 +374,9 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   *Child mode:* Shake the pot sideways for five seconds. Score the leaves. Was the plant too tired to fold?
   - Ask: Suppose the leaves fold for the shake but not for the drop. Can 'the plant is tired' explain that? (good: No. A tired plant could not fold for the shake either.; The plant still had the energy to fold, and had stopped only for the drop.)
 - **s4 (13 min)**  
-  *Parent does:* 1. Draw a line graph of the total score after drops 1, 20, 40 and 60. 2. Mark the score after the shake as a separate point. 3. Ask your child for three sentences: what they thought, what they saw, and why. 4. Then read the explanation 'Can a plant learn?' together.  
+  *Parent does:* 1. Make a line graph of the total score after drops 1, 20, 40 and 60. Draw it, or stack coins for each score. 2. Mark the score after the shake as a separate point. 3. Ask your child for three sentences: what they thought, what they saw, and why. 4. Then read the explanation 'Can a plant learn?' together.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Does your graph go down, stay level or go up?  
-  *Child mode:* Draw the graph. Mark the shake as its own point. Say what you thought, what you saw, and why.
+  *Child mode:* Make the graph, drawn or in coin stacks. Mark the shake as its own point.
   - Note: In the 2014 experiment the plants opened their leaves again before the 60 drops were over, and folded at once for a shake. Home results vary with the plant, the light and the landing. Your child reports what your plant did.
 - **s5 (10 min)**  
   *Parent does:* 1. Leave the plant untouched at a bright window until the next day. 2. Drop the pot once from 15 centimetres and score the leaves. 3. Then touch one leaf with a finger and score it. 4. Compare with yesterday's first drop.  
@@ -388,7 +388,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 
 ## Activities
 ### a1 · The Torn Leaf Test: can your nose tell a damaged leaf from a whole one? (12 min)
-- **record:** Write how many times out of 5 you chose the torn katori. Write the greatest distance at which you could smell the torn leaves. Draw the test, and label the sender, the carrier and the receiver.
+- **record:** Write how many times out of 5 you chose the torn katori. Write the greatest distance at which you could smell the torn leaves. Say what the sender, the carrier and the receiver of the smell were. Or draw the test and label them.
 - **s1 (3 min)**  
   *Parent does:* 1. Put three whole leaves in each of two katoris. 2. Your child smells both from a hand-width above. 3. Ask whether tearing the leaves in one katori will change its smell, and why.  
   *Parent says:* Both katoris smell the same now. I am going to tear the leaves in one. Will your nose know which one, with your eyes closed? Why do you think so?  
@@ -400,16 +400,16 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   - Note: With curry leaves or tulsi, most children are right five times out of five. Palak and grass smell weaker, so hold the katori closer. A child with a blocked nose can swap jobs with you.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child stands two big steps away, with eyes closed. 2. Bring the torn katori closer, one hand-width at a time. 3. Your child says 'now' at the first smell. 4. Measure from the katori to your child's nose.  
-  *Parent says:* The smell is spreading out through the air. Who else, besides you, could receive it? What might each of them do?  
-  *Child mode:* Stand two steps away, eyes closed. Say 'now' when you smell the leaves. Measure how far away they are.
+  *Parent says:* The smell spreads out through the air. Say 'now' the first moment you smell it.  
+  *Child mode:* Stand two steps away, eyes closed. Say 'now' when you smell the leaves. Your grown-up measures how far away they are.
   - Ask: A torn leaf smells different from a whole leaf. Who could make use of that news? (good: An insect that eats leaves, or an insect that hunts leaf-eaters.; Another plant nearby.; A person who is cooking.)
   - Check: With eyes closed, you pick the torn leaves five times out of five. What does that show? → **Torn leaves give off something whole leaves do not**
 ### a2 · See the Threads: what is the body of a fungus made of? (17 min, 5 days)
 - **safety:** Do not open the bag once it is sealed. Mould gives off a fine dust of spores, and breathing spores can make some people cough or wheeze. On the last day, put the sealed bag in the dustbin.
-- **record:** Draw what you see through the magnifying glass on day 5: the threads, and any dark dots on stalks. Write how far the patch spread between day 3 and day 5.
+- **record:** On day 5, look through the magnifying glass for the threads and any dark dots on stalks. Draw what you see, or take a photo through the glass. Write how far the patch spread between day 3 and day 5.
 - **schedule:** day 1: Seal a damp piece of chapati in a clear bag and put it in a warm, dim place. (5 min); day 3: Look through the bag for white fluff. Draw round the patch on the outside of the bag. (3 min); day 5: Look at the threads through a magnifying glass, draw them and measure how far they have spread. (9 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Wipe the piece of chapati across a shelf or a windowsill. 2. Sprinkle five drops of water on it. 3. Seal it in the clear bag and tape the opening shut. 4. Put the bag in a warm, dim place, such as a kitchen shelf.  
+  *Parent does:* 1. Wipe the piece of chapati across a shelf or a windowsill. 2. Sprinkle five drops of water on it. 3. Seal it in the clear bag and tape the opening shut. 4. Put the bag in a warm, dim place, such as a kitchen shelf. 5. Leave it for three days.  
   *Parent says:* Fungus spores are in the dust all around us. We are giving some of them food and water. What do you think we will see in five days?  
   *Child mode:* Wipe the chapati on a shelf. Add five drops of water. Seal the bag and tape it shut.
   - Note: Packaged bread has chemicals that slow mould, so it can take ten days. A chapati, an idli or bakery bread is faster.
@@ -419,9 +419,9 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   *Child mode:* Look through the bag. Do not open it. Find the white fluff. Draw round it.
   - Wait: Do this on day 3
 - **s3 (9 min)**  
-  *Parent does:* 1. Hold the magnifying glass against the bag, over the edge of the fluffy patch. 2. Your child looks for single threads and draws them. 3. Look for tiny dark dots on stalks. 4. Measure how far the patch has spread past the marker line. 5. Put the sealed bag in the dustbin.  
+  *Parent does:* 1. Two days later, hold the magnifying glass against the bag, over the edge of the fluffy patch. 2. Your child looks for single threads and points them out to you. 3. Look for tiny dark dots on stalks. 4. Measure how far the patch has spread past the marker line. 5. Put the sealed bag in the dustbin.  
   *Parent says:* Each thread is one hypha. The whole patch is one mycelium, and the dark dots hold spores. How is this body different from a plant's body?  
-  *Child mode:* Look through the magnifying glass. Find single threads and draw them. Measure how far they spread. Bin the sealed bag.
+  *Child mode:* Look through the magnifying glass. Find single threads and point them out. Measure how far they spread. Bin the sealed bag.
   - Ask: The threads are thinner than a hair. How would that help a fungus who lives in soil? (good: Thin threads can get into gaps too small for a root.; A lot of thin thread touches a lot of soil.)
   - Note: This mould is a decomposer, who feeds on dead food. The fungi joined to plant roots are different kinds, but their bodies are built from the same sort of threads.
   - Check: What is the main body of a fungus made of? → **Fine threads called hyphae**
@@ -435,29 +435,29 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   - Note: The fingertip reaches 3 centimetres. Moving this slowly feels strange, and that is the point.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child slides a coin from 0 to 30 centimetres in 10 seconds. 2. Work out the speed together: 3 centimetres each second. 3. Ask how many times faster this is than the first signal.  
-  *Parent says:* This is the speed of the signal that folds a touch-me-not leaf. How many times faster is it than the warning wave?  
-  *Child mode:* Slide a coin from 0 to 30 cm in 10 seconds. How many times faster is this?
+  *Parent says:* This is the speed of the signal that folds a touch-me-not leaf.  
+  *Child mode:* Slide a coin from 0 to 30 cm in 10 seconds.
   - Ask: 3 centimetres a second is how many times as fast as 1 millimetre a second? (good: 30 times, because 3 centimetres is 30 millimetres.)
 - **s3 (4 min)**  
   *Parent does:* 1. Tell your child that a fast nerve signal travels 100 metres each second. 2. Work out together how long it would take to cross the ruler. 3. Ask whether the plant's wave is too slow to be useful.  
-  *Parent says:* Your fastest nerves would cross this ruler in three thousandths of a second. A caterpillar needs many minutes to eat one leaf. So is the plant's wave fast enough?  
-  *Child mode:* A nerve signal crosses the ruler in a blink. A caterpillar eats slowly. Is the plant's wave fast enough?
+  *Parent says:* Your fastest nerves would cross this ruler in three thousandths of a second. A caterpillar needs many minutes to eat one leaf.  
+  *Child mode:* A nerve signal crosses the ruler in a blink. Is the plant's slow wave still useful?
   - Check: A plant's warning wave moves about 1 millimetre a second. Why is that fast enough? → **Caterpillars eat far more slowly than that**
 ### a4 · Stroke a Tendril (if you have a gourd, pea or grape climber nearby) (18 min)
-- **record:** Draw each of the three tendrils at the start, after 5 minutes and after 30 minutes. Write which way the stroked tendril curled.
+- **record:** Line up your photos of each tendril: start, 5 minutes and 30 minutes. (No phone? Draw them instead.) Write which way the stroked tendril curled.
 - **s1 (5 min)**  
-  *Parent does:* 1. Find three young, straight tendrils that are not touching anything. 2. Draw all three. 3. Ask what a tendril will do if one side is stroked, and why. 4. Ask the same about a drop of water.  
+  *Parent does:* 1. Find three young, straight tendrils that are not touching anything. 2. Take a photo of each, and note which is 1, 2 and 3. 3. Ask what a tendril will do if one side is stroked, and why. 4. Ask the same about a drop of water.  
   *Parent says:* A tendril has to find something to hold. What do you think this one will do if a stick strokes one side? And what if a raindrop lands on one? Why?  
-  *Child mode:* Find three straight young tendrils. Draw them. Guess what a stroke will do. Guess what a water drop will do.
+  *Child mode:* Find three straight young tendrils. Your grown-up takes a photo of each. Guess what a stroke will do. Guess what a water drop will do.
 - **s2 (8 min)**  
-  *Parent does:* 1. Stroke one side of the first tendril, near the tip, ten times with the matchstick. 2. Let five drops of water fall on the second tendril. 3. Leave the third tendril alone as the control. 4. Look at all three once a minute for five minutes, and draw them.  
+  *Parent does:* 1. Stroke one side of the first tendril, near the tip, ten times with the matchstick. 2. Let five drops of water fall on the second tendril. 3. Leave the third tendril alone as the control. 4. Look at all three once a minute for five minutes, and say what each one is doing.  
   *Parent says:* Watch closely. Is anything changing? Which way is the stroked tendril bending: towards the side you stroked, or away from it?  
-  *Child mode:* Stroke the first tendril ten times. Drip water on the second. Leave the third. Look every minute and draw.
+  *Child mode:* Stroke the first tendril ten times. Drip water on the second. Leave the third. Look every minute. Say what each one is doing.
   - Note: A young gourd tendril often starts to curl within 2 to 10 minutes, towards the stroked side. Old tendrils and coiled tendrils do not respond. Charles Darwin wrote in 1875 that his tendrils curled for a thread but took no notice of drops of water. See what yours do.
 - **s3 (5 min)**  
-  *Parent does:* 1. Come back after 30 minutes. 2. Draw the three tendrils again. 3. Ask why it might help a climber to respond to a stick but not to rain.  
-  *Parent says:* Compare the three. Why might it help a climbing plant to curl for a stick and not for a raindrop?  
-  *Child mode:* Come back after 30 minutes. Draw the three tendrils. Why curl for a stick, but not for rain?
+  *Parent does:* 1. Come back after 30 minutes. 2. Take a photo of each tendril again. 3. Ask why it might help a climber to respond to a stick but not to rain.  
+  *Parent says:* Compare the three with the first photos. Which ones changed?  
+  *Child mode:* Come back after 30 minutes. Take a photo of each. Why might a climber curl for a stick, but not for rain?
   - Check: A tendril curls round a stick that rubs one side. Why is curling towards the rubbed side useful? → **The rubbed side is where the support is**
   - Wait: Look again after 30 minutes
 ### a5 · Learned or Tired? Work out what an experiment showed (12 min)
@@ -465,7 +465,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 - **s1 (3 min)**  
   *Parent does:* 1. Tell your child what happened: plants were dropped 15 centimetres on to foam, 60 times, and stopped folding. 2. Ask for two different explanations. 3. Write 'tired' and 'learned' at the top of two columns.  
   *Parent says:* The plants folded at first and then stopped. Give me two different reasons why that could happen.  
-  *Child mode:* Plants were dropped 60 times and stopped folding. Think of two reasons why. Draw two columns.
+  *Child mode:* Plants were dropped 60 times and stopped folding. Think of two reasons why. Write 'tired' and 'learned' as two column headings.
   - Note: Your child may offer other ideas, such as 'the leaves were damaged'. Add a column for any idea that can be tested.
 - **s2 (6 min)**  
   *Parent does:* 1. Result one: straight after the drops, the plants were shaken sideways, and they folded at once. 2. Result two: after six days of rest, the plants were dropped again, and they stayed open. 3. Result three: plants kept in dim light stopped folding sooner than plants kept in bright light. 4. For each result, ask which explanation fits, and tick that column.  
@@ -508,7 +508,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   - Note: Deciding in advance what counts is what careful scientists do. It stops us from calling any small difference a success afterwards. One centimetre in the means is a sensible bar.
 - **s2 (8 min)**  
   *Parent does:* 1. Poke three holes in the bottom of each cup and fill both with damp soil. 2. Plant 12 seeds in each cup, one finger-joint deep. 3. Mark one cup M for music and one Q for quiet. 4. Stand both at a bright window and give each two tablespoons of water a day.  
-  *Parent says:* The cups must be the same in every way except the music. What things do we need to keep the same?  
+  *Parent says:* The cups must be the same in every way except the music.  
   *Child mode:* Fill two cups with damp soil. Plant 12 seeds in each. Mark them M and Q. Water both each day.
   - Ask: What must be the same for both cups? (good: The seeds, the soil, the water and the light.; The time they spend under a box.)
   - Wait: Do this on day 2
@@ -521,7 +521,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 - **s4 (17 min)**  
   *Parent does:* 1. Cover the letters and ask someone to measure every shoot. 2. Find the mean for each cup. 3. Write the tallest and the shortest shoot in each cup. 4. Compare the difference in the means with the difference you agreed on day 1. 5. Your child writes one sentence on what the test shows.  
   *Parent says:* Is the difference between the cups bigger than the difference between shoots inside one cup? Did it reach the bar we set on day 1?  
-  *Child mode:* Measure every shoot with the letters covered. Find both means. Is the difference as big as you said on day 1?
+  *Child mode:* Measure every shoot with the letters covered. Find both means.
   - Ask: Suppose the cups come out the same. Does that prove plants sense no sound at all? (good: No. It shows only that this music did not change the height of moong in six days.; Other tests have found that plants respond to the shaking made by a chewing caterpillar.)
   - Note: Most careful tests find no clear effect of music on growth, so expect two similar means. That is a real result, and a good one to write up. Plants do sense vibrations, but that is different from growing better with songs.
   - Check: Two cups of seedlings differ by 2 millimetres on average. Inside each cup, shoots differ by 3 centimetres. What can you say? → **The test shows no clear difference**
@@ -530,7 +530,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 ## Challenges
 ### c1 · The Growth Magnifier: watch a shoot grow within one hour (35 min)
 - **problem:** Build something that turns one hour of a moong shoot's growth into a movement of at least 3 millimetres, so that you can see and measure it.
-- **your turn:** Now design your own growth magnifier. Draw it, build it and test it for one hour. How many times does it magnify? How do you know?
+- **your turn:** Now design your own growth magnifier. Plan it, build it and test it for one hour. How many times does it magnify? How do you know?
 - **constraints:** The shoot must not be hurt or pulled out of the soil.; Use only things from home.; You must be able to say how many times your magnifier enlarges the growth.
 - **general:** Stand a ruler beside the shoot and mark the height every hour for a day.; Take a phone photo every ten minutes from exactly the same place, then flick through the photos.; Stick a tiny paper flag on the tip of the shoot, so that the top is easier to see.
 - **creative:** A shadow magnifier. In a dim room, put a torch 20 centimetres from the shoot, so that the shoot's shadow falls on paper taped to a wall 2 metres from the torch. The shadow of the tip moves ten times as far as the tip.; A lever. Push a pin through a straw 3 centimetres from one end, and rest the pin across two piles of books. Tie the short end to the shoot tip with thread. The long end moves nine times as far as the short end.; Two levers, one moving the next. J.C. Bose's crescograph worked this way and magnified growth up to 10,000 times.
@@ -540,7 +540,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   *Child mode:* Measure the shoot. Will you see any growth in one hour? Say why. Read the problem.
 - **s2 (12 min)**  
   *Parent does:* 1. Tape white paper to a wall. 2. Stand the cup 180 centimetres from the wall. 3. Prop the torch 20 centimetres behind the shoot, so that it is 2 metres from the wall. 4. Darken the room and mark the top of the shadow.  
-  *Parent says:* The wall is ten times as far from the torch as the shoot is. So how many times bigger is the shadow's movement than the shoot's?  
+  *Parent says:* The wall is ten times as far from the torch as the shoot is. That makes the shadow move more than the shoot does.  
   *Child mode:* Tape paper to the wall. Put the torch 20 cm behind the shoot. Darken the room. Mark the top of the shadow.
   - Ask: The torch is 20 centimetres from the shoot and 200 centimetres from the wall. How many times does the shadow magnify? (good: Ten times, because 200 divided by 20 is 10.)
   - Note: Prop the torch in a tumbler of rice so that it cannot move. Switch it on only to make each mark. A shoot left in torchlight for an hour starts to lean towards the light.
@@ -551,31 +551,31 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   - Note: Expect the shadow to move 3 to 10 millimetres in an hour on a warm day. Shoots grow more slowly in cold weather and when the soil is dry.
   - Wait: Mark the shadow after 20, 40 and 60 minutes
 - **s4 (10 min)**  
-  *Parent does:* 1. Your child designs a magnifier of their own and draws it. 2. They build it, or the lever, and test it. 3. They work out how many times it magnifies.  
+  *Parent does:* 1. Your child designs a magnifier of their own, on paper or by laying out the parts on the table. 2. They build it, or the lever, and test it. 3. They work out how many times it magnifies.  
   *Parent says:* Now design your own. What will you change? How will you find out how many times it magnifies?  
-  *Child mode:* Design your own magnifier. Draw it and build it. Work out how many times it magnifies.
+  *Child mode:* Design your own magnifier. Plan it, then build it. Work out how many times it magnifies.
   - Note: For the lever, hang a paper clip on the short end until the straw almost balances. Then the thread only just tugs the shoot.
   - Check: A torch is 10 centimetres from a shoot and 100 centimetres from a wall. The shadow tip moves 5 millimetres. How much did the shoot grow? → **Half a millimetre**
 ### c2 · Which Path? Design the test that tells air, soil and fungus apart (25 min)
 - **problem:** Design an experiment that shows which path the warning took between two bean plants in one pot: the air, the soil water or the fungal threads.
-- **your turn:** Now draw your own experiment. Show every kind of pot, say which path each one blocks, and say what result would point to the air, the soil water or the fungus.
+- **your turn:** Now design your own experiment, drawn or built. Show every kind of pot, say which path each one blocks, and say what result would point to the air, the soil water or the fungus.
 - **constraints:** Each test must block one path and leave the other two open.; There must be a control pot in which nothing is blocked.; Each kind of pot must be repeated at least five times.
 - **general:** Tie a clear plastic bag over the attacked plant, to block the air path.; Grow the two plants in separate pots, to block every underground path at once.; Push a solid plastic sheet down the middle of the pot.
 - **creative:** Use two kinds of mesh. One has holes about half as wide as a hair, which lets fungal threads through and stops roots. The other is far finer, and stops the threads but lets water through.; Grow each plant inside a mesh tube, and give some tubes a small turn every day. The turn snaps the fungal threads and leaves the soil water as it was.; Fill some pots with soil that was heated first, so that the soil holds no living fungus.
 - **s1 (5 min)**  
-  *Parent does:* 1. Read the problem aloud. 2. Your child draws the pot with two plants and three arrows for the three paths. 3. For each path, ask what could block that path alone.  
+  *Parent does:* 1. Read the problem aloud. 2. Your child stands two paper cups side by side as the two plants, and makes three paper arrows for the three paths. 3. For each path, ask what could block that path alone.  
   *Parent says:* The news got across somehow. There are three possible paths. For each one, what could we put in the way?  
-  *Child mode:* Draw two plants in one pot. Draw three arrows: air, soil water and fungus. What could block each?
+  *Child mode:* Stand two cups side by side as the plants. Make three arrows: air, soil water and fungus. What could block each?
 - **s2 (10 min)**  
   *Parent does:* 1. Look at the three usual ideas together. 2. For each idea, ask which paths it blocks and which it leaves open. 3. Ask which idea cannot tell the soil water from the fungal threads.  
-  *Parent says:* A solid wall in the soil stops the warning. Does that tell us whether the news went by water or by threads? Why not?  
-  *Child mode:* Read the three usual ideas. Which paths does each one block? Which idea blocks two paths at once?
+  *Parent says:* Look at each idea. Which paths does it block, and which does it leave open?  
+  *Child mode:* Read the three usual ideas. Which one blocks two paths at once?
   - Ask: Why can a solid wall in the soil not tell the soil water from the fungal threads? (good: It blocks both at the same time.; If the warning stops, we do not know which of the two carried it.)
   - Note: The key idea is to block one path at a time. A bag blocks only the air. A wall or separate pots block both underground paths together, so they cannot separate them.
 - **s3 (10 min)**  
-  *Parent does:* 1. Read the creative ideas together. 2. Your child draws a full design, with a control pot and five of each kind. 3. Your child writes what each possible result would mean.  
+  *Parent does:* 1. Read the creative ideas together. 2. Your child shows a full design, drawn or built from the cups, bag, cloth and card. It has a control pot and five of each kind. 3. Your child tells you what each possible result would mean.  
   *Parent says:* Now make your own design. Which pot is the control? What result would tell you the fungus carried the news?  
-  *Child mode:* Draw your own design. Include a control pot. Write what each result would mean.
+  *Child mode:* Show your own design, drawn or built. Include a control pot. Say what each result would mean.
   - Note: In 2013 Zdenka Babikova and her team did this with bean plants and aphids. The warning passed through a mesh that let fungal threads through. It did not pass through a finer mesh that stopped the threads but let water through.
   - Check: A warning passes through a mesh that lets fungal threads through. A finer mesh that lets only water through stops it. Which path carried the warning? → **The fungal threads**
 

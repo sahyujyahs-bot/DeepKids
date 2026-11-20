@@ -295,7 +295,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s2 (7 min)**  
   *Parent does:* Take turns. The player reads the top card, names a home and says which clue told them. Then they turn the card over to check.  
   *Parent says:* Read the card. Which home is it? Which words on the card told you? Now turn it over and see.  
-  *Child mode:* Read the top card. Name the home. Say which clue told you. Turn the card over to check.
+  *Child mode:* Read the top card aloud and name the home. Then turn it over to check.
   - Ask: Which clue on the card told you the home? (good: The flat body, because the water is fast.; The glowing lure, because it is dark there.; She breathes air, so the water must be short of oxygen.)
   - Note: The reason matters more than the right mat. If the reason is sensible but the home is different, talk about it. Some beings could live in two homes.
 - **s3 (7 min)**  
@@ -304,9 +304,9 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   *Child mode:* Keep playing until the stack is finished. Missed cards come round again.
   - Check: A fish has a belly like a sucker and wide flat fins. Which home fits? → **A fast hill stream**
 - **s4 (3 min)**  
-  *Parent does:* Count the cards. Then ask your child to pick one home and say what a body needs there.  
-  *Parent says:* Count your cards. Now choose one home. Design a new animal for that home. What three things would that body need?  
-  *Child mode:* Count your cards. Choose one home. What three things does a body need there?
+  *Parent does:* Count the cards. Then ask your child to say what a body needs in the deep sea.  
+  *Parent says:* Count your cards. Now think of the deep sea. Imagine a new animal for the deep sea. What three things would its body need?  
+  *Child mode:* Count your cards. Think of the deep sea. What three things does a body need there?
   - Ask: What does a body need in the deep sea? (good: A way to find food in the dark.; No air spaces to be crushed.; A way to live on very little food.)
 ### g2 · Dive to 6,000: a board game from the surface to the abyss floor (20 min)
 - **rules:** Each player puts a button on square 1. The youngest player starts.; On your turn, roll the die and move down that many squares.; Read the square aloud and do what it says. If the square sends you to another square, do not obey the new square.; On a question square, answer aloud. The other players check with the answer key.; You do not need an exact roll to reach square 20.; The first player to reach square 20 and say where the food there was made is the winner.; Playing alone: count how many turns you take to reach square 20. Answer every question aloud and check it with the key. Try to finish in fewer turns next time.
@@ -314,7 +314,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **Printable score sheet: Answer key for the question squares:** Square 3. Blue light travels deepest. Water soaks up red light first.; Square 8. Any one of these: no sunlight at all, cold all year, great pressure, little food, many animals make their own light.; Square 11. A deep-sea fish's body is mostly water, which can hardly be squeezed. She has no air-filled spaces. The press is the same inside and outside.; Square 12. Bacteria make the food, by chemosynthesis. They use the energy in hydrogen sulphide from the vent. Many live inside the tube worms.; Square 18. Foam is full of tiny pockets of air. The pressure squeezed the air into a smaller space.; Square 20. Almost all of it was made in the sunlit zone by phytoplankton. It sank as marine snow, and most was eaten on the way down.
 - **s1 (3 min)**  
   *Parent does:* Lay out the board, with the answer key face down. Give each player a button. Read squares 1, 4, 8, 16 and 20 aloud, so that everyone knows the zones.  
-  *Parent says:* This board is the sea from top to bottom. The sunlit zone ends at square 4. The last light ends at square 8. The abyss begins at square 16. We are diving to 6,000 metres.  
+  *Parent says:* This board is the sea from top to bottom. The sunlit zone ends at square 4. The last light ends at square 8. The abyss begins at square 16. The abyss is the very deep part of the sea, where no light reaches. We are diving to 6,000 metres.  
   *Child mode:* Put your button on square 1. Find where the sunlight ends. Find the abyss floor.
 - **s2 (8 min)**  
   *Parent does:* Play in turns. Each player rolls, moves and reads the square aloud. On question squares, the others check the answer with the key.  
@@ -330,7 +330,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s4 (3 min)**  
   *Parent does:* Look back over the board together. Ask which squares helped a player and which held a player back, and why the board was made that way.  
   *Parent says:* Which squares gave an extra turn? Which made you wait? Why do you think the square at 3,000 metres makes everyone miss a turn?  
-  *Child mode:* Which squares helped you? Which made you wait? Why?
+  *Child mode:* Think about which squares helped you and which made you wait.
   - Ask: Why does the board make you wait in the deep? (good: Food is rare there.; Deep-sea animals go a long time between meals.)
 
 ## Experiments
@@ -338,12 +338,12 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **question:** How deep can you see a white disc in water with 1, 2, 3, 4, 6 and 8 teaspoons of milk in it? If you double the milk, does the depth halve?
 - **predict:** Before you add any milk, guess. With 1 teaspoon of milk in the bucket, how deep will the disc be when it vanishes? When the milk is doubled, will that depth be half, more than half or less than half? Why do you think so?
 - **fair test:** Use the same bucket of water, the same disc and the same milk all the way through. Keep the bucket in the same place, in the same light. The same person looks each time, from straight above. Stir the same way after each spoon of milk, and wait for the water to stop moving. Measure three times for each amount, because one reading can be a fluke. Only the amount of milk changes.
-- **record:** Draw a table with seven rows: no milk, then 1, 2, 3, 4, 6 and 8 teaspoons. For each row write the three depths in centimetres and circle the middle one. If the disc can still be seen on the bottom of the bucket, write 'deeper than the bucket'. Then draw a line graph, with teaspoons of milk along the bottom and depth up the side.
+- **record:** Make a table with seven rows: no milk, then 1, 2, 3, 4, 6 and 8 teaspoons. For each row write the three depths in centimetres and circle the middle one. If the disc can still be seen on the bottom of the bucket, write 'deeper than the bucket'. Then draw a line graph, with teaspoons of milk along the bottom and depth up the side.
 - **results table:** Teaspoons of milk in the bucket (total) | Depth when the disc vanished: try 1, try 2 and try 3 (centimetres) | The middle one of the three depths
 - **s1 (3 min)**  
   *Parent does:* Show your child the bucket, the milk and the white cap. Say that you will make the water cloudy one teaspoon at a time. Ask for both guesses and the reason, and write them down.  
   *Parent says:* We will lower this white disc into the water until it disappears. With 1 teaspoon of milk in the bucket, how deep will that be? Then we double the milk. Will the depth be half, more than half or less than half? Why do you think so?  
-  *Child mode:* A white disc goes down into cloudy water. How deep before it vanishes? If the milk doubles, does the depth halve? Why?
+  *Child mode:* Guess how deep the white disc goes in cloudy water before it vanishes. If the milk doubles, does the depth halve?
   - Ask: Why do you think the depth will change in that way? (good: More milk blocks more light.; Twice the milk should hide it twice as fast.; I think a little milk does a lot, and more adds less.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min)**  
@@ -359,19 +359,19 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   - Check: Why do we stir and then wait before each reading? → **So the milk is spread evenly and the water is still**
 - **s4 (12 min)**  
   *Parent does:* Add 1 more teaspoon, so that the bucket holds 2. Stir, wait and measure three times. Do the same for 3 and 4 teaspoons. Then add 2 teaspoons at once to make 6, and 2 more to make 8. Write every depth in the table.  
-  *Parent says:* Now there are 2 teaspoons in the bucket. Stir, wait and measure again. Before each new amount, tell me what depth you expect. Is the depth dropping by the same number of centimetres each time?  
+  *Parent says:* Now there are 2 teaspoons in the bucket. Stir, wait and measure again. Before each new amount, tell me what depth you expect.  
   *Child mode:* Measure with 2, 3, 4, 6 and 8 teaspoons of milk. Guess each depth before you measure. Write every depth down.
   - Ask: Is the depth dropping by the same amount with each teaspoon? (good: No. The first spoons made a big drop.; The later spoons change it only a little.)
   - Note: The same person should look each time. Eyes get used to the task, so readings become steadier after the first few.
 - **s5 (5 min)**  
   *Parent does:* Circle the middle depth in each row. Draw the line graph together. Then compare three pairs of rows: 1 and 2 teaspoons, 2 and 4, and 4 and 8.  
   *Parent says:* Look at 2 teaspoons and 4 teaspoons. The milk doubled. What happened to the depth? Check the other two pairs. Does your graph go down in a straight line, or does it curve?  
-  *Child mode:* Circle the middle depths. Draw the graph. When the milk doubled, what happened to the depth?
+  *Child mode:* Circle the middle depths. Draw the graph, or ask your grown-up to help. When the milk doubled, what happened to the depth?
   - Ask: What shape is your graph? (good: It drops steeply and then flattens.; It is a curve, not a straight line.)
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say what they thought would happen, what they found, and why they think it happened. After they have answered, read them the explanation in the note below. Pour the milky water onto plants or down the drain.  
   *Parent says:* Say what you guessed, what you measured, and why you think it came out that way. A pond after rain is cloudy with mud. What does your graph tell you about the plants at the bottom of that pond?  
-  *Child mode:* Say what you guessed, what you found, and why. What happens to pond plants when the water turns muddy?
+  *Child mode:* Say what you guessed, what you found, and why you think it happened.
   - Ask: Why did the disc vanish sooner with more milk? (good: More bits in the water bounce more light away.; Less light reaches the disc, and less comes back up to my eye.)
   - Ask: What does muddy water mean for a plant on the bottom of a pond? (good: The plant gets less light.; Below a certain depth the plant cannot make food.)
   - Note: In most homes, doubling the milk roughly halves the depth. Your numbers will not be exact. Write down what you really found. The reason: milk is full of tiny droplets of fat and bits of protein. Each one bounces light off in all directions. Light must travel down to the disc and back up to your eye. With twice as many droplets in the way, the light is lost in about half the distance. Mud, silt and algae do the same in a pond or river. The test leaves one thing out. Clear water also soaks up light, but so slowly that a bucket cannot show it. That slow loss is why even the clearest sea is too dim for plants below about 200 metres.
@@ -381,12 +381,12 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **predict:** Before you start, guess. In which glass will brown water reach the bottom first: the still glass, the windy glass or the iced glass? Will it reach the bottom in more than one glass? Why do you think so?
 - **fair test:** Use three glasses of the same size. Put the same amount of cool tap water in each, from the same jug. Pour the same amount of warm tea onto each, from the same pot, in the same gentle way. Start all three within a few minutes of each other and stand them side by side. Do not move or bump them. Only what you do to the top changes.
 - **safety:** A grown-up makes the tea and cools it until it is only as warm as bath water. Never pour hot tea in this experiment.
-- **record:** Draw the three glasses from the side, twice: once after 1 minute and once after 10 minutes. Shade in where the brown water is. Under each drawing write 'top only', 'part of the way down' or 'at the bottom'.
+- **record:** Take a photo of the three glasses from the side, once after 1 minute and once after 10 minutes. Or draw them and shade in where the brown water is. Under each picture write 'top only', 'part of the way down' or 'at the bottom'.
 - **results table:** Glass | What was done to the top | Where the brown water is after 1 minute | Where the brown water is after 10 minutes
 - **s1 (3 min)**  
   *Parent does:* Show your child the three glasses, the straw and the ice. Explain what will be done to each glass. Ask for the guess and the reason, and write both down.  
   *Parent says:* Warm brown tea will float on cool clear water in all three glasses. We leave glass A alone. We blow across glass B, like wind on a lake. We put ice on glass C, like a cold night. In which glass will brown water reach the bottom? Why do you think so?  
-  *Child mode:* Three glasses have warm brown water on top. One is left alone. One gets wind. One gets ice. Where will brown water reach the bottom? Why?
+  *Child mode:* Three glasses have warm brown water on top. One is left alone. One gets wind. One gets ice. Guess which one will get brown water at the bottom.
   - Ask: Why do you think that glass will mix? (good: Wind stirs things up.; Ice makes the top cold, and cold water might sink.; I think none will mix, because the layers look steady.)
   - Note: Do not correct the guess. Many children and adults expect the wind to mix the glass.
 - **s2 (6 min) · grown-up needed**  
@@ -409,13 +409,13 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s5 (5 min)**  
   *Parent does:* Lower two ice cubes gently onto the top of glass C. Do not stir. Watch from the side for 3 minutes, with the white paper behind the glass.  
   *Parent says:* Now a cold night for glass C. Watch the water just under the ice. Tell me everything you see. Where is the brown water going?  
-  *Child mode:* Put two ice cubes gently on glass C. Watch from the side. What happens under the ice?
+  *Child mode:* Put two ice cubes gently on glass C. Watch from the side for 3 minutes.
   - Ask: What did you see under the ice? (good: Thin brown streams fell down.; Brown water went through the clear water.; Brown water began to collect at the bottom.)
   - Note: Thin streams of brown water should start to fall within a minute. They are easier to see against white paper.
 - **s6 (4 min)**  
-  *Parent does:* Ten minutes after the ice went in, compare the three glasses from the side. Your child draws each one and fills in the table.  
-  *Parent says:* Look at all three. In which glass is there brown water at the bottom? Draw what you see. Do not draw what you expected.  
-  *Child mode:* After ten minutes, look at all three glasses. Draw where the brown water is in each.
+  *Parent does:* Ten minutes after the ice went in, compare the three glasses from the side. Your child points to the brown water in each glass. They say if it is at the top only, part of the way down, or at the bottom.  
+  *Parent says:* Look at all three. In which glass is there brown water at the bottom? Tell me what you see, not what you expected.  
+  *Child mode:* After ten minutes, look at all three glasses. Point to where the brown water is in each.
 - **s7 (5 min)**  
   *Parent does:* Ask your child to say what they guessed, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you guessed, what you saw, and why you think it happened. In a deep lake, fresh oxygen comes in at the top. In a hot month, can it reach the fish at the bottom? When can it?  
@@ -427,22 +427,22 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 
 ## Activities
 ### a1 · One River, Three Homes: map the Kaveri from the hills to the sea (20 min)
-- **record:** A side-on map of the Kaveri in three stretches, with at least two living beings drawn in each stretch and one reason written beside each.
+- **record:** A side-on map of the Kaveri in three stretches, with at least two living beings named or drawn in each stretch and one reason written beside each.
 - **s1 (3 min)**  
   *Parent does:* Before drawing, ask your child how a river changes between the hills and the sea. Write down what they say.  
   *Parent says:* Think of a river high in the hills and the same river near the sea. What is different about the water? Would the same animals live in both places? Why do you think so?  
-  *Child mode:* How does a river change from the hills to the sea? Who lives in each part?
+  *Child mode:* Picture a river in the hills and the same river near the sea. How is the water different?
   - Ask: What changes along a river? (good: It gets wider and slower.; The water gets muddier.; It is cold at the top and warm lower down.)
   - Note: Accept every idea for now. The table comes in step 3.
 - **s2 (6 min)**  
   *Parent does:* Your child draws the Kaveri across the page. On the left are the hills of Kodagu, with the source at Talakaveri. In the middle the river passes Srirangapatna and the falls at Hogenakkal. On the right the river splits into branches in the delta and meets the Bay of Bengal. Add two tributaries, the Kabini and the Bhavani, and one dam at Mettur.  
   *Parent says:* Start thin in the hills and get wider as you go. Tributaries join from the sides. At the delta the river splits into many branches. Now divide your river into three stretches: upper, middle and lower.  
-  *Child mode:* Draw the Kaveri from the hills to the sea. Add two tributaries and one dam. Divide the river into three stretches.
+  *Child mode:* Draw the Kaveri from the hills to the sea. Or lay a string on the floor. Add two tributaries and one dam. Divide the river into three stretches.
   - Note: The map need not be accurate. What matters is the order: hills, rocky middle, flat delta, sea.
 - **s3 (7 min)**  
-  *Parent does:* Read the table out, one row at a time. For each stretch, your child writes what the water is like and draws two who live there. Ask why each one fits that stretch.  
+  *Parent does:* Read the table out, one row at a time. For each stretch, your child writes what the water is like and names two who live there. Ask why each one fits that stretch.  
   *Parent says:* In the hills the stream is shaded, so few algae grow. What could the small animals there eat? In the middle the Sun reaches the stones. What grows on them? Near the sea the water is slow and muddy. Who can find food where it is hard to see?  
-  *Child mode:* Write what the water is like in each stretch. Draw two who live there. Say why each one fits.
+  *Child mode:* Write what the water is like in each stretch. Name two who live there, or draw them. Say why each one fits.
   - Ask: Why does the mahseer live in the middle stretch and not in the delta? (good: She needs clean, flowing water with rocks.; The delta water is slow and muddy.; Her food lives among the stones.)
   - Check: What is the main food in a shaded hill stream? → **Leaves that fall in from the trees**
 - **s4 (4 min)**  
@@ -452,22 +452,22 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   - Ask: What does a river give to the sea? (good: Fresh water.; Silt that builds the delta.; Plant food for the plankton of the coast.)
   - Note: Good answers name silt, fish and flow. The dam also gives stored water for crops. Both sides are in the explanation card 'Should a river be dammed?'
 ### a2 · The Squeeze Test: feel the water press on your hand (10 min)
-- **record:** A drawing of the hand in the bag under water, with arrows showing where the bag pressed. Longer arrows mean a harder press.
+- **record:** A drawing of the hand in the bag under water, with arrows showing where the bag pressed. Longer arrows mean a harder press. Or tell your grown-up, who writes down where it pressed hardest.
 - **s1 (2 min)**  
   *Parent does:* Your child puts one hand into the bag. Ask what they think the bag will do under water, and why.  
   *Parent says:* Your hand is in a loose bag full of air. You will push it down into the water, with the top of the bag kept out. What will the bag do? Will it feel the same at your fingertips and at your wrist? Why do you think so?  
-  *Child mode:* Put your hand in the bag. What will the bag do under water? Why?
+  *Child mode:* Put your hand in the bag. Think about how it will feel under water.
   - Ask: What do you expect to feel? (good: The bag will stick to my hand.; It will squeeze more lower down.)
 - **s2 (4 min)**  
   *Parent does:* Your child pushes the hand slowly down, fingers first, until the fingertips touch the bottom. The open end of the bag stays above the water. Ask them to notice the bag at the fingertips and at the wrist. Then they turn the hand palm up, palm down and sideways.  
   *Parent says:* Go down slowly. What is the bag doing? Where is it tightest? Now turn your hand over. Does the water press only from above, or from every side?  
-  *Child mode:* Push your hand slowly to the bottom. Where is the bag tightest? Turn your hand. Does the press change?
+  *Child mode:* Push your hand slowly to the bottom. Then turn your hand palm up, palm down and sideways.
   - Ask: Where did the water press hardest? (good: At my fingertips, which were deepest.; It pressed from every side, not only from above.)
   - Note: The air is pushed up and out of the bag, and the plastic clings to the skin. The cling is firmest at the deepest point.
 - **s3 (4 min)**  
-  *Parent does:* Your child draws the hand with arrows for the press. Then read the table of depths together. After your child has said what they noticed, read them the note below.  
+  *Parent does:* Your child points with a finger to every place where the bag pressed. Then read the table of depths together. After your child has said what they noticed, read them the note below.  
   *Parent says:* You felt the press of about 25 centimetres of water. Look at the table. At 10 metres the press is double the press at the surface. What happens at 4,000 metres? Why are the animals there not crushed?  
-  *Child mode:* Draw your hand with arrows for the press. Read the table. Why are deep-sea animals not crushed?
+  *Child mode:* Point to every place the bag pressed your hand. Then read the table together.
   - Ask: Why is a deep-sea fish not crushed? (good: Her body is mostly water, and water cannot be squeezed much.; She has no air spaces inside.; The press is the same inside and outside.)
   - Note: The air in the bag was pushed out because air can be squeezed and moved easily. Water hardly squeezes at all. A deep-sea animal has no air-filled spaces, so there is nothing in her to crush.
   - Check: In which direction does water press on a fish? → **From every side**
@@ -476,7 +476,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s1 (3 min)**  
   *Parent does:* Lay the four papers in a row. Tell your child that only blue light reaches the twilight zone of the sea. Ask what each paper will look like in blue light.  
   *Parent says:* Deep in the sea the only light left is blue. Here are four colours. What will each one look like when only blue light shines on it? Which will be easiest to see, and which hardest? Why do you think so?  
-  *Child mode:* Only blue light reaches the deep sea. What will red paper look like in blue light? Why?
+  *Child mode:* Only blue light reaches the deep sea. Look at the four papers and think about each one.
   - Ask: What will the red paper look like? (good: Purple, because red and blue mix.; Dark, because there is no red light to bounce off it.)
   - Note: Many children expect purple. Let the test decide.
 - **s2 (4 min) · grown-up needed**  
@@ -488,7 +488,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s3 (5 min)**  
   *Parent does:* Switch the lights on. Your child fills in the table and says what they found. After they have answered, read them the note below.  
   *Parent says:* Say what you guessed and what you saw. Many prawns and jellyfish of the deep sea are bright red. Is that a good colour for hiding there? Why?  
-  *Child mode:* Say what you guessed and what you saw. Why is red a good colour in the deep sea?
+  *Child mode:* Fill in the table. Say what you guessed and what you saw.
   - Ask: Why is red a hiding colour in the deep sea? (good: No red light reaches there.; A red body sends back no light, so it looks black.)
   - Note: A red surface sends back red light and soaks up the other colours. Sea water soaks up red light near the top, and blue travels deepest. In blue light a red animal sends back almost nothing, so she looks black. The same prawn looks bright red in a net at the surface.
   - Check: Why does a red prawn look black in the deep sea? → **No red light reaches her to bounce back**
@@ -501,19 +501,19 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   - Ask: What might happen to the food on the way down? (good: Animals eat it.; Bacteria rot it.; It takes a long time to sink.)
 - **s2 (5 min)**  
   *Parent does:* Read the table one row at a time. In the sunlit zone your child moves 80 grains into a bowl, as eaten, and slides 20 down. In the twilight zone 17 are eaten and 3 slide down. In the midnight zone 1 is eaten and 2 slide to the floor.  
-  *Parent says:* In the sunlit zone, animals and bacteria eat 80 of the 100 grains. Only 20 sink out. Count them. In the twilight zone 17 of those are eaten. How many are left to sink on? What happens in the midnight zone?  
+  *Parent says:* In the sunlit zone, animals and bacteria eat 80 of the 100 grains. Only 20 sink out. Count them. Sinking food is called marine snow. In the twilight zone 17 of those are eaten. How many are left to sink on? What happens in the midnight zone?  
   *Child mode:* Move the eaten grains into a bowl at each zone. Slide the rest down. How many reach the floor?
   - Note: The numbers are rounded from measurements with traps hung in the sea. They differ from sea to sea and from season to season. The real share reaching the deep floor is about 1 to 3 in 100.
 - **s3 (4 min)**  
   *Parent does:* Compare the bowl from the sunlit zone with the 2 grains on the floor. Ask what this means for the animals of the deep.  
   *Parent says:* Look at the bowl from the top and the 2 grains at the bottom. If you lived on the sea floor, how would you live? Would there be many of you or few? Would you be fast or slow?  
-  *Child mode:* Compare the top bowl with the two grains at the bottom. How would you live on two grains?
+  *Child mode:* Compare the top bowl with the two grains at the bottom. Is there more food or less food down here?
   - Ask: What does so little food mean for deep-sea animals? (good: There are few of them, spread far apart.; They move slowly to save energy.; They must not miss a meal.)
   - Check: Where is most of the food of the deep sea floor made? → **In the sunlit zone, far above**
 - **s4 (3 min)**  
   *Parent does:* Ask what would happen at the bottom if the top made less food. Then ask about the time the fall takes.  
   *Parent says:* Suppose the plankton at the top make only half as much food one year. What happens on the floor? A flake sinks about 100 metres in a day. How long does a flake take to fall 4,000 metres?  
-  *Child mode:* The top makes half as much food. What happens at the bottom? How long does a flake take to fall?
+  *Child mode:* The top makes half as much food. What happens at the bottom?
   - Ask: How long does marine snow take to fall 4,000 metres? (good: About 40 days, because 4,000 divided by 100 is 40.)
   - Note: Half the food at the top means about 1 grain at the bottom. Deep-sea animals feel a poor year at the surface a few weeks later.
 ### a5 · Echo Ears: find a wall with your eyes shut (10 min)
@@ -531,7 +531,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s3 (4 min)**  
   *Parent does:* Switch on a noisy fan, a tap or some music, and play 10 more turns. Compare the two scores. After your child has said what they noticed, read them the note below.  
   *Parent says:* Now the room is noisy. Ten more turns. Was it harder? A river dolphin depends on echoes to find food and to keep clear of nets. What might the noise of boat engines do to her?  
-  *Child mode:* Play ten more turns with noise in the room. Was it harder? What does boat noise do to a dolphin?
+  *Child mode:* Play ten more turns with noise in the room. Count how many you get right.
   - Ask: Why was it harder in a noisy room? (good: The noise covered the echo.; I could not hear the small change in the sound.)
   - Note: The 'shhh' bounces off the plate and returns to the ears, so it sounds louder and nearer. That is a small form of echolocation. A dolphin's clicks are much sharper and her hearing far finer than ours. Engine noise covers her echoes, as the fan covered yours.
   - Check: Why does a Ganga river dolphin use sound to find fish? → **Light cannot pass far through muddy water**
@@ -544,7 +544,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* Help your child choose the nearest lake, tank, pond or river, and find it on a phone map. Follow the blue lines on the map to see what flows in and what flows out. Your child draws a simple map on page 1.  
   *Parent says:* Which water is nearest to us? Let us find it on the map. Where does its water come from: rain, a stream, a canal or a drain? Where does the water go when the place is full?  
-  *Child mode:* Choose a lake, tank or river near you. Find it on a map. Draw where its water comes from and goes.
+  *Child mode:* Choose a lake, tank or river near you. Find it on a map. Draw where its water comes from and goes, or trace it from the map.
   - Ask: Where does this water come from? (good: From rain running off the streets.; From a canal that comes from a river.; From a stream in the hills.)
   - Note: Every city has one. Chennai has Pallikaranai marsh and Chembarambakkam lake. Bengaluru has Ulsoor and Hebbal lakes. Hyderabad has Hussain Sagar. Kochi has the backwaters. If the map does not show the inflow, ask a neighbour who has lived there long.
   - Wait: Carry on tomorrow
@@ -556,9 +556,9 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   - Note: Good questions for an older person: Could you see the bottom then? Which fish were caught? Did the place dry up in summer? What flowed in?
   - Wait: Carry on tomorrow
 - **s3 (15 min)**  
-  *Parent does:* On page 3 your child lists six living beings of the place, from yesterday's notes. They draw arrows from each food to the one who eats it. Then they circle any food that comes from outside the water.  
+  *Parent does:* On page 3 your child writes six living beings of the place on small slips of paper, from yesterday's notes. They lay the slips on the floor so that each food sits next to the one who eats it. They stick them on the page, or take a photo. Then they circle any food that comes from outside the water.  
   *Parent says:* Who lives here? Who eats whom? Now think of this unit. Does any of the food come from outside the water: leaves from trees on the bank, insects from the land, waste from a drain?  
-  *Child mode:* List six living beings of your place. Draw arrows from food to eater. Circle the food that comes from outside.
+  *Child mode:* Write six living beings of your place on slips. Lay each food next to who eats it. Circle the food that comes from outside.
   - Ask: What food comes into the water from outside? (good: Leaves that fall in.; Insects that land on the water.; Plant food washed in by rain or drains.)
   - Note: Algae and green water count as living beings. So do the birds, even though they fly off at night.
   - Wait: Carry on tomorrow
@@ -566,13 +566,13 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   *Parent does:* On page 4 your child writes what is changing the place: building on the edges, drains, rubbish, less water or new plants. They add one question they still have. Then they present the file to the family in three minutes.  
   *Parent says:* What has changed here since your grandparents were young? What is the biggest change? Tell us about your place in three minutes. End with the one thing you most want to find out.  
   *Child mode:* Write what is changing your place. Add one question you still have. Present your file in three minutes.
-  - Ask: This place takes in water, mud and food from outside. So what must be looked after to look after the place? (good: The streams and drains that flow in.; The land around the edge.; The way out, so that the water can keep moving.)
+  - Ask: What must people look after to keep this place healthy? (good: The streams and drains that flow in.; The land around the edge.; The way out, so that the water can keep moving.)
   - Note: Praise a clear reason more than a neat page. The last question links the project to the main idea of the unit: a water home is fed from outside its edges.
 
 ## Challenges
 ### c1 · Bring Up the Deep: collect bottom water without mixing in the top (30 min)
 - **problem:** Scientists need water from 4,000 metres down, to measure its oxygen and its salt. On the way up, the sample must not mix with any of the water above. Your deep sea is a tall jar. The bottom 3 centimetres are brown salty water, and the rest is clear. Bring up a sample of the brown water that is still brown.
-- **your turn:** Now design your own sampler. Draw it first, and mark what keeps the top water out on the way down and on the way up. Build it, test it and drop the sample on the white plate. Then change one thing to make the sample darker.
+- **your turn:** Now design your own sampler. Draw it first, or describe it to your grown-up, and mark what keeps the top water out on the way down and on the way up. Build it, test it and drop the sample on the white plate. Then change one thing to make the sample darker.
 - **constraints:** Your fingers must not go below the surface of the water.; The sample must be at least 10 drops.; Dropped on a white plate, the sample must be clearly darker than a drop taken from the top of the jar.; You may not stir, tilt or pour the jar.; Use only things from home.
 - **general:** Hold a finger over the top of a straw and lower it to the bottom. The air inside keeps the clear water out. Lift the finger, so that brown water enters. Press the finger down again and lift the straw out.; Tie a thread to a small weighted bottle with a loose plug of dough. Lower it to the bottom. Pull a second thread to take the plug out, wait for the bottle to fill, and lift it slowly.; Push a straw onto the end of a syringe or dropper. Lower the straw to the bottom and draw the water up.
 - **creative:** Join two straws to reach deeper, and seal the join with tape so that no air leaks in.; Give the small bottle two threads, one to pull the plug out and one to push a second plug in, so that it comes up closed.; Lower a bit of sponge on a thread inside a straw, let it soak at the bottom, and pull it up through the straw.
@@ -595,19 +595,19 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s4 (7 min)**  
   *Parent does:* Your child changes one thing and tests again. Then compare the design with real deep-sea samplers, using the note below.  
   *Parent says:* What went wrong, or what could be better? Change one thing and test again. Real samplers go down open and are shut at the right depth. How do you think someone on a ship shuts a bottle 4,000 metres below?  
-  *Child mode:* Change one thing to get a darker sample. Test again. How is a bottle shut 4,000 metres down?
+  *Child mode:* Change one thing to get a darker sample. Test again.
   - Ask: How could a bottle be shut from far above? (good: Send a weight sliding down the cable to hit a catch.; Send an electric signal down a wire.; Use a timer.)
   - Note: Praise a clear account of what went wrong as much as a dark sample. Ocean scientists lower a ring of open tubes on a long cable. At each chosen depth one tube is snapped shut, by a signal from the ship or by a weight sent down the cable. Each tube then holds water from one depth only.
 ### c2 · A Way Round the Wall: build a fish pass (30 min)
 - **problem:** A barrage has been built across a river. The water above the wall is 6 centimetres higher than the water below. Hilsa are coming up from the sea to lay their eggs, and they are not strong jumpers. Build a way round the wall, made of small steps and resting pools, that a fish could climb.
-- **your turn:** Now design your own fish pass. Draw it from the side first, and write the height of each step. Build it and pour the water. Measure every step and every pool. Then change one thing to make the flow gentler.
+- **your turn:** Now design your own fish pass. Draw it from the side first, or describe it to your grown-up, and write the height of each step. Build it and pour the water. Measure every step and every pool. Then change one thing to make the flow gentler.
 - **constraints:** The pass must go from the low end of the tray to the high end, 6 centimetres up.; No step between two pools may be higher than 1 centimetre.; Every pool must hold water at least 1 centimetre deep after the pouring stops.; When one tumbler of water is poured in slowly at the top, it must pass through every pool.; Use only clay or dough, foil, pebbles and the tray.
 - **general:** Make a foil gutter along the tray. Build low walls of dough across it, like steps, so that a pool forms behind each wall.; Cut a small notch in the top of each wall, so that the water flows through one place and not over the whole wall.; Make more steps than you think you need. Six centimetres needs at least six steps of 1 centimetre.
 - **creative:** Bend the gutter into a zigzag, so that it is longer and each step can be lower.; Put the notches on opposite sides of each wall in turn, so that the water winds and slows down.; Lay pebbles in the pools, so that a fish has still water to rest behind.
 - **s1 (5 min)**  
   *Parent does:* Raise one end of the tray on books until it is 6 centimetres higher than the other end. Read the problem together. Ask for ideas before any building.  
   *Parent says:* The top of the tray is the river above the wall. The bottom is the river below. A fish must get up, and she cannot jump high. What could you build? How many steps will you need if each is 1 centimetre?  
-  *Child mode:* A fish must climb 6 centimetres. She cannot jump more than 1 centimetre. What will you build? How many steps?
+  *Child mode:* A fish must climb 6 centimetres. She cannot jump more than 1 centimetre. What will you build?
   - Ask: How many steps of 1 centimetre are needed to climb 6 centimetres? (good: At least six.; More than six, if some steps are lower.)
 - **s2 (12 min)**  
   *Parent does:* Your child lines a channel with foil and builds dough walls across it. Help to press the dough down firmly, so that water does not leak underneath. Let your child decide where the walls go.  
@@ -623,7 +623,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 - **s4 (7 min)**  
   *Parent does:* Your child changes one thing to fix the worst step or pool, and tests again. Then compare the design with real fish passes, using the note below.  
   *Parent says:* Which step or pool was the worst? Change one thing and test again. Your pass suits a fish who can climb 1 centimetre. Would the same pass suit every kind of fish in the river?  
-  *Child mode:* Fix the worst step or pool. Test again. Would your pass suit every kind of fish?
+  *Child mode:* Fix the worst step or pool. Test again.
   - Ask: Why might one fish pass not suit every fish? (good: Some fish jump and some do not.; Big fish need deep pools.; Some fish swim near the bottom and some near the top.)
   - Note: Praise a clear account of what went wrong as much as a working pass. Real fish passes are of several kinds: rows of pools, long winding side channels like small streams, and lifts that carry fish up in a tank of water. Passes built for strong jumpers have often failed for other fish. A pass has to be designed for the fish of that river, and tested with them.
 

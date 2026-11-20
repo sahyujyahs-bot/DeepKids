@@ -261,7 +261,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
   *Child mode:* Cut out the cards. Read the eight job cards. Shuffle and deal five each.
 - **s2 (12 min)**  
   *Parent does:* Play by the rules until all eight sets are down. When a set is laid down, ask the question below.  
-  *Parent says:* Ask for a nutrient you already hold. When you lay down a set, tell us how the missing nutrient causes that disease.  
+  *Parent says:* Ask for a nutrient you already hold. When you lay down a set, read all three cards aloud.  
   *Child mode:* Ask for a nutrient you hold. Collect three cards. Lay the set down and read it.
   - Ask: How does the missing nutrient cause that disease? (good: Iron is part of haemoglobin, so less iron means less oxygen is carried.; Vitamin D helps absorb calcium, so without it bones stay soft.; The eye builds its dim-light substance from vitamin A.)
   - Note: A child often asks for a card by its disease. That is fine. The link from the nutrient's job to the disease is the point of the game.
@@ -277,8 +277,8 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 - **Printable score sheet: Plate sheet: one for each player, to add up the points on the plate:** Energy; Protein; Iron; Calcium; Vitamins; Number of cards on the plate
 - **s1 (5 min)**  
   *Parent does:* Cut out the cards. Each player takes a person card and reads the needs aloud. Deal 4 food cards to each player.  
-  *Parent says:* Read your person card. Which need is the biggest number? Why might this person need so much of that?  
-  *Child mode:* Take a person card. Read the needs. Which number is biggest? Why?
+  *Parent says:* Read your person card aloud. Which need is the biggest number?  
+  *Child mode:* Take a person card. Read the needs. Which number is biggest?
   - Ask: Why does your person need so much of that nutrient? (good: The girl of 14 will soon lose some blood each month, so she needs iron.; The woman on the building site uses her muscles all day, so she needs energy.; The grandmother's bones lose calcium with age.)
 - **s2 (15 min)**  
   *Parent does:* Play by the rules. Each player keeps a running total on a plate sheet. Stop when someone says 'Balanced' and the plate checks out.  
@@ -297,7 +297,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 - **predict:** Before you start, guess. Will you see all three things at once, or one after another? How long will the dark book take? If one eye stays covered during a flash of light, will the two eyes see the same afterwards? Why do you think so?
 - **fair test:** Sit in the same bright place for 2 minutes before each try. Use the same room, the same three things and the same places for them. Keep the door closed in the same way each time, so the room is equally dark. The person with the clock stands outside the door, so that no phone screen lights the room. Only one thing changes: who is being tested.
 - **safety:** Clear the floor of the dark room, and sit down as soon as you are inside. Do not walk about in the dark. Never look straight at the Sun or at a bright bulb. A grown-up stays just outside the door the whole time.
-- **record:** Draw a table with three rows: white towel, steel tumbler and dark book. Write the seconds for the child and for the grown-up. Under the table, write what each eye saw after the flash.
+- **record:** Make a table with three rows: white towel, steel tumbler and dark book. Write the seconds for the child and for the grown-up. Under the table, write what each eye saw after the flash.
 - **results table:** The thing | Seconds until the child sees it | Seconds until the grown-up sees it
 - **s1 (4 min)**  
   *Parent does:* Make the room nearly dark, with only a thin line of light under the door. Put the towel, the tumbler and the book on the floor, about a metre from the stool. Ask for the guess and the reason, and write both down.  
@@ -311,11 +311,11 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
   *Child mode:* Sit in bright light for two minutes. Do not look at the Sun.
   - Note: Bright light breaks down the dim-light substance in the eyes. Do not explain this yet. Two minutes is enough.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* Lead your child into the dark room and seat them on the stool. Close the door and start the clock. Stand outside. Each time they call out a thing they can see, write the seconds. Stop after 10 minutes.  
+  *Parent does:* Lead your child into the dark room and seat them on the stool. Close the door and start the timer on your phone. Stand outside. Each time they call out a thing they can see, write the seconds. Stop after 10 minutes.  
   *Parent says:* Sit still and keep your eyes open. Call out the moment you can see something, and tell me what it is. I am right outside the door.  
   *Child mode:* Sit still in the dark. Call out when you see each thing. Say what it is.
   - Note: Most children see the white towel within a minute and the tumbler in one to four minutes. The dark book takes several minutes. If everything shows in the first 20 seconds, the room is too bright. Block the gap under the door with a cloth and start again from the bright light.
-  - Check: In the Dark Room Test, why does the person with the phone stand outside the door? → **So no phone light reaches the child's eyes**
+  - Check: In the Dark Room Test, why does the grown-up with the phone timer stand outside the door? → **So no phone light reaches the child's eyes**
 - **s4 (3 min) · grown-up needed**  
   *Parent does:* Stay in the dark room together. Your child closes one eye and presses a palm over it. Switch the light on for 10 seconds, then off. Your child now looks at the book with each eye in turn.  
   *Parent says:* Close your left eye and cover it with your palm. I will switch the light on for ten seconds. Now it is off. Look at the book with your right eye only. Now with your left eye only.  
@@ -328,7 +328,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
   - Note: To save time, stop when you see the dark book. Eyes usually get slower at this with age, so a grown-up often takes longer than a child.
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your numbers. Say what you thought would happen, what you saw, and why you think it happened. Why did only the uncovered eye lose its sight in the dark?  
+  *Parent says:* Look at your numbers. Say what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: The covered eye could still see the book, and the other eye could not. What does that tell you? (good: The light changed something inside the eye that saw it.; The change happens in each eye by itself.; The dark did not change. My eye changed.)
   - Ask: A person short of vitamin A waits in the dark, and the book never appears. Why? (good: Their eyes cannot rebuild enough of the substance that catches dim light.; The substance is made from vitamin A.)
@@ -339,7 +339,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 - **predict:** Before you start, guess. Three liquids will be tested: plain water, water that raw cabbage sat in, and water that cabbage was boiled in. Which will clear the blue liquid in the fewest teaspoons? Will any of them not clear it at all? Why do you think so?
 - **fair test:** Use 1 cup of chopped cabbage and 1 cup of water for the cold soak. Use the same amounts for the boiling. Leave both for 10 minutes. After boiling, add plain water to bring the cooking water back up to 1 cup, because some has boiled away. Cool it to room temperature, because the blue colour fades in hot liquid. Put the same amount of blue liquid, 2 tablespoons, in every bowl. Add each test liquid one level teaspoon at a time, and stir the same way. Only one thing changes: which liquid you add.
 - **safety:** A grown-up does the boiling and handles the iodine. Iodine stains skin and cloth, and it must never be swallowed. Nobody tastes anything from the test bowls. Pour the test bowls down the sink afterwards and wash them.
-- **record:** Draw a table with four rows: lemon juice, plain water, cold cabbage water and boiled cabbage water. Write how many teaspoons each took to clear the blue, and the colour at the end.
+- **record:** Make a table with four rows: lemon juice, plain water, cold cabbage water and boiled cabbage water. Write how many teaspoons each took to clear the blue, and the colour at the end.
 - **results table:** The liquid added | Teaspoons until the blue was gone (stop at 10) | Colour at the end
 - **s1 (4 min)**  
   *Parent does:* Chop the cabbage fine and measure out two level cups. Tell your child the three liquids that will be tested. Ask for the guess and the reason, and write both down.  
@@ -380,7 +380,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 - **predict:** Before you start, guess. You will measure at 8 in the morning, 10, 12 noon and 4 in the afternoon. At each time, will the shadow be longer or shorter than the pencil? At which of these times will it be shortest? Why do you think so?
 - **fair test:** Use the same pencil each time and stand it straight up, not leaning. Use the same flat place each time. Measure the shadow from the foot of the pencil to the tip of the shadow. Only one thing changes: the time of day.
 - **safety:** Never look at the Sun. Each measurement takes two minutes, so there is no need to stay out long. On a terrace, a grown-up comes along.
-- **record:** Write the height of the pencil at the top of the page. Draw a table with four rows, one for each time. Write the length of the shadow, and 'shorter' or 'longer'.
+- **record:** Write the height of the pencil at the top of the page. Make a table with four rows, one for each time. Write the length of the shadow, and 'shorter' or 'longer'.
 - **results table:** Time | Length of the shadow in centimetres | Shorter or longer than the pencil?
 - **s1 (5 min)**  
   *Parent does:* At about 8 in the morning, stand the pencil upright in the dough on the flat, sunny place. Measure how tall it stands above the floor. Ask for the guess and the reason. Then measure the first shadow.  
@@ -410,7 +410,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 ## Activities
 ### a1 · One Day's Needs: from two spoons of protein to a tiny amount of iodine (12 min)
 - **safety:** A grown-up cuts the moong seed.
-- **record:** Draw the four heaps and write the unit under each: grams, milligrams or micrograms.
+- **record:** Write the unit for each heap on its label: grams, milligrams or micrograms.
 - **s1 (3 min)**  
   *Parent does:* Ask the question below before you put anything on the plate. Write down the answer and the reason.  
   *Parent says:* Your body needs protein, vitamin C, iron and iodine every day. Which do you think it needs the most of? Which the least? Why do you think so?  
@@ -418,13 +418,13 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
   - Note: Any answer with a reason is a good start. Do not correct it.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Heap 2 heaped tablespoons of sugar on the plate. 2. Put one moong seed beside the sugar. 3. Cut a second moong seed in half and put down one half. 4. Your child taps a piece of chalk to make a speck of chalk dust and puts it on the plate. 5. Label the four: protein, vitamin C, iron, iodine.  
-  *Parent says:* This heap of sugar weighs about 30 grams. That is the same as the weight of protein you need in a day. One moong seed weighs about the same as the vitamin C you need in a day. Half a seed weighs about the same as the iron you need. A speck of chalk dust weighs about the same as the iodine you need. None of these things contain those nutrients here. They only show how much each one weighs.  
+  *Parent says:* This heap of sugar weighs about 30 grams. That is the same as the weight of protein you need in a day. One moong seed weighs about the same as the vitamin C you need in a day. Half a seed weighs about the same as the iron you need. A speck of chalk dust weighs about the same as the iodine you need. None of these things hold those nutrients. They only show how much each one weighs.  
   *Child mode:* Put down the sugar and a moong seed. Add half a seed and a speck of chalk dust. Label them.
   - Note: The sugar, the seed and the chalk dust only show weights. The real nutrients look different. The figures are rounded: 30 grams of protein, 50 milligrams of vitamin C, 16 to 28 milligrams of iron, 100 micrograms of iodine.
 - **s3 (3 min)**  
   *Parent does:* Look at the four heaps together. Ask the questions below.  
-  *Parent says:* Look at the plate. The a speck of chalk dust stand for your iodine. If you got no iodine for a year, would you notice at dinner? What might happen to your body?  
-  *Child mode:* The speck of chalk dust stand for your iodine. Would you notice if you got none?
+  *Parent says:* Look at the plate. The speck of chalk dust stands for your iodine. If you got no iodine for a year, would you notice at dinner? What might happen to your body?  
+  *Child mode:* The speck of chalk dust stands for your iodine. Would you notice if you got none?
   - Ask: Why can a person be short of iodine or iron without knowing? (good: The amount is too small to see or taste.; You still feel full.; The harm comes slowly.)
   - Check: A child needs 30 grams of protein and 100 micrograms of iodine a day. Which matters more? → **Both: a lack of either causes illness**
 ### a2 · Seven People, One Pot: who needs what? (20 min)
@@ -467,7 +467,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
   - Check: Salt holds 30 micrograms of iodine in each gram. How much iodine is in 5 grams of salt? → **150 micrograms**
 - **s3 (4 min)**  
   *Parent does:* Ask the questions below. Then put the packets back.  
-  *Parent says:* Why do you think iodine is added to salt, and not to sweets or to ghee? What makes salt a good carrier?  
+  *Parent says:* Why do you think iodine is added to salt, and not to sweets or to ghee?  
   *Child mode:* Why is iodine added to salt and not to sweets?
   - Ask: What makes salt a good food to carry iodine to everyone? (good: Nearly everyone eats salt every day.; People eat about the same small amount.; It is cheap, so the poorest families buy it too.)
   - Note: Salt is eaten by rich and poor in nearly the same small amount each day. So nobody gets far too much or far too little. More salt is not better for iodine, and too much salt raises blood pressure.
@@ -509,8 +509,8 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
   - Check: Two RICE slips hold 4 rajma and 12 chana. A brick needs one of each. How many bricks? → **4 bricks**
 - **s3 (5 min)**  
   *Parent does:* Ask your child to say what they thought would happen, what they found, and why they think it happened. Then list family dishes that pair a cereal with a pulse.  
-  *Parent says:* Say what you thought would happen, what you found, and why you think it happened. Which dishes in our kitchen put a cereal and a pulse together?  
-  *Child mode:* Say what you thought would happen. Say what you found. Name dishes that pair the two.
+  *Parent says:* Say what you thought would happen, what you found, and why you think it happened.  
+  *Child mode:* Say what you thought would happen. Say what you found. Say why.
   - Ask: What happened to the leftover seeds when you used rice alone? (good: They had no partner, so they built nothing.; The body burns them for energy but cannot build with them.)
   - Ask: Which dishes pair a cereal with a pulse? (good: Idli and dosa: rice with urad dal.; Pongal and khichdi: rice with moong dal.; Rajma with rice, dal with roti, puttu with kadala.)
   - Note: The unit in shortest supply sets how much the body can build. Units left without a partner are burned for energy. Milk, egg, fish and soya have both units in good amounts.
@@ -542,7 +542,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 ## Challenges
 ### c1 · Keep the Vitamin: cook cabbage and lose the least (30 min)
 - **problem:** Cabbage is often boiled in a cup of water, and the water is poured away. Much of the vitamin C goes with it. Design a way to cook 1 cup of chopped cabbage so that as little vitamin C as possible is lost. The cabbage must still be cooked soft enough to eat.
-- **your turn:** Now invent your own way of cooking the cabbage. Test the leftover water, or say why no water is left. Draw your method and write how many teaspoons the water took.
+- **your turn:** Now invent your own way of cooking the cabbage. Test the leftover water, or say why no water is left. Tell or draw your method, and write how many teaspoons the water took.
 - **constraints:** Use 1 cup of chopped cabbage, as in the Cooking Water Test.; The cabbage must be soft enough to eat within 10 minutes of cooking.; Strain off any water left over and make it up to half a cup with plain water. Cool it and test it with the blue liquid.; The design that needs the most teaspoons to clear the blue has lost the least vitamin C to the water.
 - **general:** Cook the cabbage in only 2 tablespoons of water, with the lid on.; Cut the cabbage into big pieces, so less cut surface touches the water.; Cook for a shorter time, until the cabbage is just soft.
 - **creative:** Steam the cabbage in a strainer held above boiling water, and test the water below.; Keep all the water in the dish, as in a kootu or a soup, so nothing is poured away.; Stir the cabbage in a spoon of hot oil with no water at all.
@@ -556,7 +556,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
   *Parent says:* Choose one way and tell me exactly how much water, what size of pieces and how many minutes. I will do the cooking.  
   *Child mode:* Choose your way. Say how much water, what size and how long.
 - **s3 (8 min)**  
-  *Parent does:* Strain off any leftover water. Add plain water to make half a cup, and cool it. Test it with 2 tablespoons of the blue liquid, one teaspoon at a time. Write the count.  
+  *Parent does:* Strain off any leftover water. Add plain water to make 1 cup, and cool it. Test it with 2 tablespoons of the blue liquid, one teaspoon at a time. Write the count.  
   *Parent says:* Now test the water that is left. Add it one teaspoon at a time and count until the blue is gone.  
   *Child mode:* Strain the leftover water. Test it by teaspoons. Count until the blue goes.
   - Note: If no water is left, nothing was poured away, and that is a good result in itself. A count of 10 with the blue still there means very little vitamin C reached the water.

@@ -927,7 +927,7 @@
    "title": "The Daisy Planet Test: can daisies change the temperature of a whole planet?",
    "mins": 44,
    "days": 1,
-   "context": "In this experiment you run a paper planet with beans for daisies. Dark daisies warm the planet and pale daisies cool it. The Sun gets hotter every round. You find out what happens to the planet's temperature.",
+   "context": "In this experiment you run a paper planet with beans for daisies. Dark daisies warm the planet and pale daisies cool it. The Sun gets hotter every round. You find out if daisies can stop a planet from getting too hot while the Sun gets hotter.",
    "question": "The Sun gets 3 degrees hotter every round for 14 rounds. Does a planet with dark and pale daisies heat up as fast as a bare planet?",
    "predict": "Guess first. The bare planet will warm from 8 degrees to 47 degrees. Will the planet with daisies warm just as fast, warm more slowly, or stay about the same? Why do you think so? Write your guess and your reason.",
    "fair_test": "Both planets get the same Sun number in every round. The only difference is that one planet has daisies. Follow the three rules exactly in every round, and do not skip a round.",
@@ -1075,7 +1075,7 @@
      "mins": 3,
      "do": "1. Point to the Sun number column. 2. Say that the bare planet will warm from 8 degrees to 47 degrees. 3. Ask what the planet with daisies will do, and why. 4. Write the guess and the reason in the notebook.",
      "say": "The bare planet goes from 8 degrees to 47 degrees. What do you think the daisy planet will do? Will it warm just as fast, more slowly, or stay about the same? Why do you think so?",
-     "kid": "The bare planet warms from 8 to 47 degrees. What will the daisy planet do? Write your guess. Write why you think so.",
+     "kid": "The bare planet warms from 8 to 47 degrees. What will the daisy planet do? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1093,7 +1093,7 @@
      "id": "s4",
      "mins": 18,
      "do": "1. Play rounds 2 to 14, one at a time. 2. In each round, count the dark daisies and the pale daisies and write both numbers. 3. Work out the temperature with rule 1 and write it down. 4. Then use rule 2 or rule 3 to change the daisies for the next round. 5. Let your child do the sums and move the beans.",
-     "say": "Count the dark daisies and the pale daisies. Now work out the temperature. Is it below 20, above 25, or in between? So what happens to the daisies?",
+     "say": "Count the dark daisies and the pale daisies. Now work out the temperature. Is it below 20, above 25, or in between?",
      "kid": "Play rounds 2 to 14. Each round, count the dark and pale daisies. Work out the temperature. Write it down. Then change the daisies by the rules.",
      "ask": [
       {
@@ -1112,7 +1112,7 @@
      "mins": 8,
      "do": "1. On squared paper, draw a line across the bottom for rounds 1 to 14. 2. Draw a line up the side for temperature, from 0 to 50 degrees. 3. In one colour, mark the bare planet's temperature for each round, and join the marks. 4. In the other colour, mark the daisy planet's temperature for each round, and join the marks. 5. Shade the band from 20 to 25 degrees lightly with pencil.",
      "say": "Let's draw both planets on one graph. One line is the bare planet, and the other is the planet with daisies. Shade the band where daisies grow best.",
-     "kid": "Draw rounds along the bottom. Draw temperature up the side. Mark the bare planet in one colour. Mark the daisy planet in the other colour. Join the marks. Shade from 20 to 25.",
+     "kid": "Draw rounds along the bottom. Draw temperature up the side. Mark the bare planet in one colour. Mark the daisy planet in the other colour. Join the marks. Shade from 20 to 25. No pencil to hand? Lay a bean at the right height for each round instead.",
      "parent": "The bare planet's line is straight and steep. The daisy planet's line climbs quickly at first and then runs almost level, just above the shaded band.",
      "context": "This step of the Daisy Planet Test is for drawing. You draw the temperatures of the bare planet and the daisy planet as two lines on one graph."
     },
@@ -1120,8 +1120,8 @@
      "id": "s6",
      "mins": 5,
      "do": "1. Ask your child what they thought would happen, what they saw, and why it happened. 2. Count the rounds in which each planet was between 20 and 27 degrees. 3. Ask what the model leaves out. 4. Only then read the explanation card called 'The Daisy Planet: what a model can show, and what it cannot'.",
-     "say": "Tell me three things. What did you think would happen? What did you see? Why did it happen? Then tell me one thing about a real planet that our paper planet leaves out.",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Then name one thing our paper planet leaves out.",
+     "say": "What did you think would happen? What did you see? Why did it happen? Then tell me one thing about a real planet that our paper planet leaves out.",
+     "kid": "Look at your table and graph. Tell your grown-up the story of the Daisy Planet.",
      "ask": [
       {
        "q": "Why did the daisy planet stay near 26 degrees while the Sun got hotter?",
@@ -1217,7 +1217,7 @@
      "what": "Wrap two tumblers, fill them and stand them in the sun. Guess. Wait 30 minutes and compare the water."
     }
    ],
-   "record": "Draw the two tumblers. Write which one felt warmer, and the two temperatures if you measured them. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
+   "record": "Write which one felt warmer, and the two temperatures if you measured them. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: water temperature after 30 minutes in the sun",
@@ -1255,7 +1255,7 @@
      "mins": 5,
      "do": "1. Wrap one tumbler in black cloth and the other in white cloth. Cover the sides fully, in one layer. 2. Hold each cloth on with a rubber band. 3. Pour 100 millilitres of tap water into each tumbler. That is about half a small tumbler. 4. Ask your child to dip a finger of each hand into the two tumblers. They should feel the same.",
      "say": "Both tumblers have the same water from the same tap. Dip a finger in each. Do they feel the same now?",
-     "kid": "Wrap one tumbler in black cloth. Wrap the other in white cloth. Pour the same water into each. Dip a finger in each. Do they feel the same?",
+     "kid": "Wrap one tumbler in black cloth. Wrap the other in white cloth. Pour the same water into each. Dip a finger in each.",
      "parent": "If you have a thermometer, measure both now. They should agree to within one degree.",
      "context": "This is the first step of Dark Cloth, Pale Cloth. Here you wrap two tumblers, one in black cloth and one in white, and fill them with the same water."
     },
@@ -1264,7 +1264,7 @@
      "mins": 3,
      "do": "1. Stand both tumblers side by side in direct sunlight. 2. Check that no shadow falls on either one. 3. Ask for a guess and a reason, and write them down. 4. Note the time.",
      "say": "Both will stand in the same sun for 30 minutes. Which water will be warmer at the end? Or will they be the same? Why do you think so?",
-     "kid": "Stand both tumblers in the sun. Which water will be warmer after 30 minutes? Write your guess. Write why you think so.",
+     "kid": "Stand both tumblers in the sun. Which water will be warmer after 30 minutes? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1279,9 +1279,9 @@
     {
      "id": "s3",
      "mins": 30,
-     "do": "1. Leave the tumblers in the sun for 30 minutes. Do not move them. 2. While you wait, lay your hand on a dark thing and a pale thing that are already in the sun. Try a dark and a pale tile, or two parked scooters. 3. Use the rest of the time to draw the two tumblers in the notebook.",
+     "do": "1. Leave the tumblers in the sun for 30 minutes. Do not move them. 2. While you wait, lay your hand on a dark thing and a pale thing that are already in the sun. Try a dark and a pale tile, or two parked scooters. 3. Use the rest of the time to ask your child again which tumbler they think will be warmer.",
      "say": "While we wait, let's feel things that are already in the sun. Find one dark thing and one pale thing. Which is hotter to touch?",
-     "kid": "Leave the tumblers for 30 minutes. Find a dark thing and a pale thing in the sun. Touch each one quickly. Which is hotter? Draw the two tumblers.",
+     "kid": "Leave the tumblers for 30 minutes. Find a dark thing and a pale thing in the sun. Touch each one quickly. Which is hotter?",
      "adult": true,
      "parent": "Metal in strong sun can be hot enough to hurt, so touch it first yourself. You need not stand by the tumblers for the whole 30 minutes.",
      "wait": "Leave the tumblers in the sun for 30 minutes.",
@@ -1291,8 +1291,8 @@
      "id": "s4",
      "mins": 7,
      "do": "1. After 30 minutes, ask your child to dip a finger of each hand into the two tumblers at the same moment. 2. If you have a thermometer, measure the black one, then the white one. 3. Write the results in the table. 4. Ask your child what they thought would happen, what they saw, and why it happened. 5. Ask how this result fits the Daisy Planet rules.",
-     "say": "Dip a finger in each at the same time. Which is warmer? What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Dip a finger in each tumbler at the same time. Which is warmer? Say what you guessed. Say what you saw. Say why it happened.",
+     "say": "Which water is warmer? What did you think would happen? What did you see? Why do you think it happened?",
+     "kid": "Dip a finger in each tumbler at the same time. Then tell your grown-up what you guessed, what you saw and why.",
      "ask": [
       {
        "q": "Why did the water in the black cloth get warmer?",
@@ -1405,8 +1405,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Clear a space. 2. Show how to stand the stick upright on a flat palm, hold it with the other hand, and then let go. 3. Let your child practise for two minutes, looking wherever they like. 4. Ask what their hand does when the stick starts to tip.",
-     "say": "Stand the stick on your palm and let go. Keep it up for as long as you can. What does your hand do when the stick starts to tip?",
-     "kid": "Stand the stick on your flat palm. Let go with the other hand. Keep the stick up. What does your hand do when the stick tips?",
+     "say": "Stand the stick on your palm and let go. Keep it up for as long as you can.",
+     "kid": "Stand the stick on your flat palm. Let go with the other hand. Keep the stick up. Notice what your hand does when the stick tips.",
      "ask": [
       {
        "q": "What does your hand do when the stick starts to tip?",
@@ -1484,7 +1484,7 @@
    "title": "Zoom Out: one living being at five levels",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you choose one living being you can see from your window. Then you zoom out, step by step, from that one being to the whole Earth, and draw each step as a circle.",
+   "context": "In this activity you choose one living being you can see from your window. Then you zoom out, step by step, from that one being to the whole Earth, and fill five circles. You find out how much one small being depends on.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -1514,9 +1514,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Look out together and choose one living being. A crow, a pigeon, an ant, a street tree or a potted tulsi will do. 2. Draw five circles on the paper, one inside the next. 3. Draw your being in the smallest circle and write ORGANISM beside it. 4. Ask what this one being needs in order to stay alive and have young.",
-     "say": "Choose one living being you can see. That one being is called an organism. What does this one organism need to stay alive and to have young? What do you notice? What do you wonder?",
-     "kid": "Choose one living being outside. Draw five circles, one inside the next. Draw your being in the middle. Write ORGANISM. What does this being need to live?",
+     "do": "1. Look out together and choose one living being. A crow, a pigeon, an ant, a street tree or a potted tulsi will do. 2. Draw five circles on the paper, one inside the next. 3. Write your being's name in the smallest circle, and write ORGANISM beside it. 4. Ask what this one being needs in order to stay alive and have young.",
+     "say": "Choose one living being you can see. One living being on its own is called an organism.",
+     "kid": "Choose one living being outside. Draw five circles, one inside the next. Write its name in the middle. Write ORGANISM.",
      "ask": [
       {
        "q": "What does this one organism need to stay alive and have young?",
@@ -1533,9 +1533,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. In the second circle, draw more of the same kind, and write POPULATION. 2. In the third circle, add four other kinds of living being from the same place, and write COMMUNITY. 3. In the fourth circle, add four non-living things from the same place, and write ECOSYSTEM. 4. In the biggest circle, draw the Earth, and write BIOSPHERE.",
+     "do": "1. In the second circle, write how many of the same kind you can see, and write POPULATION. 2. In the third circle, name four other kinds of living being from the same place, and write COMMUNITY. 3. In the fourth circle, name four non-living things from the same place, and write ECOSYSTEM. 4. In the biggest circle, write EARTH, and write BIOSPHERE. Words are enough. Draw a little only if you want to.",
      "say": "Now zoom out. Who else of the same kind lives here? Which other kinds of living being live here? What non-living things are here? The last circle is every living place on the Earth.",
-     "kid": "Circle 2: more of the same kind. Write POPULATION. Circle 3: four other kinds. Write COMMUNITY. Circle 4: four non-living things. Write ECOSYSTEM. Circle 5: the Earth. Write BIOSPHERE.",
+     "kid": "Circle 2: how many of the same kind. Write POPULATION. Circle 3: name four other kinds. Write COMMUNITY. Circle 4: name four non-living things. Write ECOSYSTEM. Circle 5: the Earth. Write BIOSPHERE.",
      "parent": "Non-living things are water, air, soil, rock, sunlight and warmth. Remind your child that a community includes plants and beings too small to see.",
      "context": "This step of Zoom Out fills in the levels. Around one living being you draw their population, their community, their ecosystem and the biosphere."
     },
@@ -1544,7 +1544,7 @@
      "mins": 3,
      "do": "1. Point to each circle in turn. 2. Ask what your being gets from that level. 3. Write one thing beside each circle. 4. Ask which circle your being could do without.",
      "say": "What does your being get from each circle? Is there any circle your being could do without?",
-     "kid": "Point to each circle. What does your being get from it? Write one thing beside each. Could your being do without any circle?",
+     "kid": "Point to each circle. Tell what your being gets from it. Write one thing beside it.",
      "ask": [
       {
        "q": "What does a crow get from each level?",
@@ -1577,7 +1577,7 @@
    "title": "Three Planets' Air: which planet is the odd one out?",
    "mins": 15,
    "days": 1,
-   "context": "Venus, the Earth and Mars are neighbours, and all three are made of rock. In this activity you colour a strip for the air of each planet, and look for the odd one out.",
+   "context": "Venus, the Earth and Mars are neighbours, and all three are made of rock. In this activity you colour a strip for the air of each planet, and look for the odd one out. You will find out what is special about the air we breathe.",
    "materials": [
     {
      "item": "squared paper, or plain paper and a ruler",
@@ -1605,7 +1605,7 @@
      "mins": 3,
      "do": "1. Say that Venus, the Earth and Mars are three rocky planets in a row, with the Earth in the middle. 2. Say that the air of Venus and the air of Mars are each about 95 parts carbon dioxide in every 100. 3. Ask what your child would expect the Earth's air to be, and why. 4. Write the guess down.",
      "say": "Venus is on one side of us and Mars is on the other. Their air is almost all carbon dioxide. So what would you expect the Earth's air to be made of? Why?",
-     "kid": "Venus and Mars have air that is nearly all carbon dioxide. The Earth is between them. What would you expect our air to be? Write your guess and why.",
+     "kid": "Venus and Mars have air that is nearly all carbon dioxide. The Earth is between them. Write your guess for our air, and why.",
      "ask": [
       {
        "q": "What would you expect the Earth's air to be?",
@@ -1631,7 +1631,7 @@
      "mins": 5,
      "do": "1. Lay the three strips one under the other. 2. Ask which planet is the odd one out. 3. Remind your child that oxygen reacts easily: it rusts iron and it burns wood. 4. Ask why so much oxygen is surprising, and who could be making it.",
      "say": "Which planet is the odd one out? Oxygen rusts iron and burns wood, so it keeps getting used up. Then why is there still so much oxygen in our air?",
-     "kid": "Which strip is the odd one out? Oxygen gets used up by rusting and burning. So why does our air still have so much?",
+     "kid": "Which strip is the odd one out? Oxygen gets used up by rusting and burning.",
      "ask": [
       {
        "q": "Why is there still so much oxygen in the Earth's air?",
@@ -1717,7 +1717,7 @@
      "mins": 3,
      "do": "1. Ask where the slope is. Is it in any one grain? 2. Say that a feature of the whole that no part has is called an emergent property. 3. Ask for one emergent property of a population, one of a bee colony, and one of your child's own body.",
      "say": "Both heaps had the same slope, but no grain has a slope. So where does the slope come from? Can you think of something a group of living beings has that one member does not have?",
-     "kid": "No grain has a slope, but every heap has one. Where does the slope come from? What can a group of living beings do that one cannot?",
+     "kid": "No grain has a slope, but every heap has one. Where does the slope come from?",
      "ask": [
       {
        "q": "What does a group of living beings have that one member does not?",
@@ -1787,7 +1787,7 @@
      "mins": 6,
      "do": "1. Play rounds 15 to 20 with the same rules as before. 2. Write the temperature each round. 3. In the round when the temperature goes above 40, take off every daisy. 4. Add the six new points to the graph from the Daisy Planet Test.",
      "say": "Work out the temperature. Can any more pale daisies grow? Is it above 40 yet?",
-     "kid": "Play rounds 15 to 20. Write the temperature each round. Above 40 degrees, take off all the daisies. Add the new points to your graph.",
+     "kid": "Play rounds 15 to 20. Write the temperature each round. Above 40 degrees, take off all the daisies. Add the new points to your graph, or just read the numbers out.",
      "parent": "The temperatures for rounds 15 to 20 are 30, 33, 36, 39, 42 and 65. The daisies die after round 19. In round 20 the planet is bare, so the temperature is the Sun number, 65.",
      "context": "This is the main step of When the Daisies Run Out of Room. You play six more rounds of the paper Daisy Planet, with the Sun still getting hotter."
     },
@@ -1796,7 +1796,7 @@
      "mins": 3,
      "do": "1. Look at the graph together. 2. Ask why the temperature began to climb in round 15. 3. Ask why it jumped by 23 degrees between rounds 19 and 20, when the Sun number rose by only 3.",
      "say": "Why did the temperature start to climb after round 14? And why did it jump so far in the last round, when the Sun only got 3 degrees hotter?",
-     "kid": "Why did the temperature climb after round 14? Why did it jump so far in the last round?",
+     "kid": "Look at your graph. Find the round where the line starts to climb. Find the round where it jumps.",
      "ask": [
       {
        "q": "Why did the temperature jump by 23 degrees in the last round?",
@@ -1828,7 +1828,7 @@
    "title": "The Gaia Council: six voices and three statements",
    "mins": 20,
    "days": 1,
-   "context": "Scientists have argued about the Gaia hypothesis for fifty years. In this activity you and a partner speak for two of those scientists. Then you sort three statements into what is agreed and what is still argued about.",
+   "context": "The Gaia hypothesis is the idea that living beings help keep the Earth fit for life. Scientists have argued about it for fifty years. In this activity you and a partner speak for two of those scientists. Then you sort three statements into what is agreed and what is still argued about.",
    "materials": [
     {
      "item": "the explanation card called 'The Gaia hypothesis', which lists six voices",
@@ -1916,10 +1916,10 @@
    "title": "One Change, Five Levels: follow a change up and down",
    "mins": 15,
    "days": 1,
-   "context": "A change at one level of life passes to the other levels. In this activity you draw a ladder of the five levels. Then you follow one change down the ladder and another change up it.",
+   "context": "A change at one level of life passes to the other levels. In this activity you make a ladder of the five levels from paper slips. You follow one change down the ladder and another up it, to see how far each one reaches.",
    "materials": [
     {
-     "item": "a sheet of paper",
+     "item": "a sheet of paper, torn into five slips for each ladder",
      "qty": 2
     },
     {
@@ -1927,24 +1927,24 @@
      "qty": 1
     }
    ],
-   "record": "Keep the two ladders. On each rung, write what changed at that level.",
+   "record": "Keep the five slips. On the front of each, write what changed in the rain story. On the back, write what changed in the fig tree story.",
    "setup": [
     {
      "art": "A sheet of paper with a ladder of five wide rungs, labelled from the bottom: organism, population, community, ecosystem, biosphere.",
-     "caption": "1. Draw a ladder with five rungs, one for each level."
+     "caption": "1. Lay five paper slips as a ladder, one for each level."
     },
     {
      "art": "The same ladder with a short note written on each rung and arrows pointing downward from the top rung.",
-     "caption": "2. Start a change on one rung. Write what happens on each of the other rungs."
+     "caption": "2. Start a change on one rung. Say what happens on each of the other rungs."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw a ladder with five rungs. From the bottom, label them organism, population, community, ecosystem and biosphere. 2. Start at the top. Write on the top rung: the monsoon wind brings very little rain one year. 3. Think of a village tank where egrets nest. Egrets are white water birds who eat fish and frogs. 4. Ask what happens on each rung below, one at a time, and write the answers.",
+     "do": "1. Write the five levels on five paper slips: organism, population, community, ecosystem and biosphere. Lay them in a column as a ladder, organism at the bottom. 2. Start at the top. Write on the top rung: the monsoon wind brings very little rain one year. 3. Think of a village tank (a pond) where egrets nest. Egrets are white water birds who eat fish and frogs. 4. Ask what happens on each rung below, one at a time, and write the answers.",
      "say": "The rain comes from far away, so it belongs to the top rung. One year very little rain comes. What happens to the tank? Then to the beings who live there? Then to the egrets? Then to one egret chick?",
-     "kid": "Draw a ladder with five rungs. Label them from organism up to biosphere. Top rung: little rain this year. Now write what happens on each rung below.",
+     "kid": "Lay the five slips as a ladder, organism at the bottom. Top rung: little rain this year. Say what happens on each rung below. Write a few words on its slip.",
      "ask": [
       {
        "q": "What happens on each rung when little rain comes?",
@@ -1961,9 +1961,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Draw a second ladder. 2. Start at the bottom. Write on the bottom rung: one big wild fig tree in a forest is cut down. 3. Say that fig trees fruit when few other trees do. Hornbills, macaques and bats all eat the figs and carry the seeds. 4. Ask what happens on each rung above, and write the answers. 5. Ask how far up the ladder this change reaches.",
+     "do": "1. Turn the five slips over and lay them as a second ladder. 2. Start at the bottom. Write on the bottom rung: one big wild fig tree in a forest is cut down. 3. Say that fig trees fruit when few other trees do. Hornbills, macaques and bats all eat the figs and carry the seeds. 4. Ask what happens on each rung above, and write the answers. 5. Ask how far up the ladder this change reaches.",
      "say": "Now start at the bottom. One big fig tree is cut. Who was eating those figs? What happens to them? What happens to the seeds they used to carry? Does this change reach the top rung?",
-     "kid": "Draw a second ladder. Bottom rung: one big fig tree is cut. Write what happens on each rung above. Does the change reach the top?",
+     "kid": "Turn the slips over for a second ladder. Bottom rung: one big fig tree is cut. Say what happens on each rung above. Write a few words on the back of its slip.",
      "ask": [
       {
        "q": "How far up does the loss of one fig tree reach?",
@@ -1983,7 +1983,7 @@
      "mins": 4,
      "do": "1. Ask what would have to be true for a change at the bottom rung to reach the top. 2. Give two real cases. Bacteria filled the air with oxygen. People burning coal, oil and gas are adding carbon dioxide to the air. 3. Ask what the two cases have in common.",
      "say": "One tree did not change the whole Earth. But bacteria once did, and people are doing so now. What do those two cases have in common?",
-     "kid": "One tree did not change the Earth. Bacteria once did. People are doing it now. What do those two have in common?",
+     "kid": "One tree did not change the Earth. Bacteria once did. People are doing it now.",
      "ask": [
       {
        "q": "What do the bacteria and the people have in common?",
@@ -2017,7 +2017,7 @@
    "title": "A World in a Jar: a sealed ecosystem for three weeks",
    "days": 21,
    "mins": 66,
-   "context": "In this three-week project you build a tiny ecosystem in a glass jar and seal the lid. After that, only light goes in and only heat comes out. You watch what the water, the plant and the soil do.",
+   "context": "In this three-week project you build a tiny ecosystem in a glass jar and seal the lid. After that, only light goes in and only heat comes out. You watch what the water, the plant and the soil do. You find out how living things can reuse the same air and water again and again.",
    "materials": [
     {
      "item": "a clear glass jar with a tight lid, about 1 litre, such as an old pickle or coffee jar",
@@ -2137,9 +2137,9 @@
     {
      "id": "s3",
      "mins": 13,
-     "do": "1. On day 4, look at the jar in the morning and again in the afternoon. Note when the glass is misty and when it is clear. 2. On day 7, draw the jar. 3. Look for new leaves, yellow leaves, white threads of mould or tiny animals. 4. Write each one in the jar diary. Do not open the jar.",
+     "do": "1. On day 4, look at the jar in the morning and again in the afternoon. Note when the glass is misty and when it is clear. 2. On day 7, take a photo of the jar, or draw it. 3. Look for new leaves, yellow leaves, white threads of mould or tiny animals. 4. Write each one in the jar diary. Do not open the jar.",
      "say": "When is the glass misty, and when is it clear? What is the water doing all day? Is anyone living in the jar that we did not put there?",
-     "kid": "On day 4, look in the morning and the afternoon. When is the glass misty? On day 7, draw the jar. Look for new leaves, mould or tiny animals.",
+     "kid": "On day 4, look in the morning and the afternoon. When is the glass misty? On day 7, photograph or draw the jar. Look for new leaves, mould or tiny animals.",
      "parent": "Mist usually forms when the glass is cooler than the air inside, often at night and in the morning. Mould and tiny soil animals are part of the jar's community. If a leaf dies, leave it there, because decomposers will break it down.",
      "wait": "Come back on day 4 and on day 7.",
      "context": "This is the first week of A World in a Jar. A small ecosystem is sealed in a glass jar. Here you note when the glass is misty, and draw what is living inside."
@@ -2147,9 +2147,9 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. On day 14, draw the jar again. 2. Lay the drawing beside the one from day 7. 3. Ask what has changed and what has stayed the same. 4. Ask where the plant is getting carbon dioxide from, now that the jar is sealed.",
-     "say": "Compare the two drawings. The plant needs carbon dioxide to make food. The lid has been shut for two weeks. So where is the carbon dioxide coming from?",
-     "kid": "Draw the jar again. Compare it with the day 7 drawing. The lid is shut. So where does the plant get carbon dioxide?",
+     "do": "1. On day 14, take another photo of the jar, or draw it again. 2. Lay it beside the day 7 photo or drawing. 3. Ask what has changed and what has stayed the same. 4. Ask where the plant is getting carbon dioxide from, now that the jar is sealed.",
+     "say": "Compare the two pictures. The plant needs carbon dioxide to make food. The lid has been shut for two weeks. So where is the carbon dioxide coming from?",
+     "kid": "Photograph or draw the jar again. Compare it with day 7. What has changed?",
      "ask": [
       {
        "q": "Where does the plant's carbon dioxide come from in a sealed jar?",
@@ -2166,9 +2166,9 @@
     {
      "id": "s5",
      "mins": 15,
-     "do": "1. On day 21, weigh the jar again and compare with day 1. 2. Ask your child what they thought would happen, what they saw, and why. 3. Draw the jar with arrows for the water going round. 4. Add an arrow for light going in and an arrow for heat coming out. 5. Ask how the jar is like the Earth, and how it is different.",
+     "do": "1. On day 21, weigh the jar again and compare with day 1. 2. Ask your child what they thought would happen, what they saw, and why. 3. Ask your child to trace the water's path round the jar with a finger: up from the soil, onto the glass, down again. 4. Ask them to point to where light goes in and where heat goes out. 5. Ask how the jar is like the Earth, and how it is different.",
      "say": "The weight is the same as on day 1. What does that tell us? What went round and round inside? What crossed the glass? How is this jar like the whole Earth?",
-     "kid": "Weigh the jar again. Has the weight changed? Draw arrows for the water going round. Draw light going in and heat coming out. How is the jar like the Earth?",
+     "kid": "Weigh the jar again. Has the weight changed? Trace the water's path round the jar with your finger. Point to where light goes in and where heat goes out.",
      "ask": [
       {
        "q": "How is the sealed jar like the Earth, and how is it different?",
@@ -2247,9 +2247,9 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Ask your child to choose a new number from 1 to 6, and to say why. 2. Run all 12 rounds with that number and count the rounds in range. 3. Try one more number and compare.",
-     "say": "Which number do you want to try? Why that one? Is the biggest number sure to be the best?",
-     "kid": "Choose a number from 1 to 6. Say why. Run 12 rounds and count the rounds in range. Then try one more number.",
+     "do": "1. Ask your child to choose a new number from 1 to 6, and to say why. The number is how many daisies to swap each round. The old rule swaps 3. 2. Run all 12 rounds with that number and count the rounds in range. 3. Try one more number and compare.",
+     "say": "Which number do you want to try? Why that one?",
+     "kid": "Choose how many daisies to swap each round, from 1 to 6. Say why. Run 12 rounds and count the rounds in range. Then try one more number.",
      "ask": [
       {
        "q": "Is the biggest number the best?",
@@ -2323,7 +2323,7 @@
      "mins": 8,
      "do": "1. Draw one person in the middle of the sheet. 2. Draw three arrows going in: oxygen, water and food. 3. Draw arrows going out: carbon dioxide, water in breath, sweat and urine, and solid waste. 4. Ask what would happen in a sealed room with only this person in it.",
      "say": "Here is one person in a sealed home. What do they take in? What do they give out? What would happen if the room held nothing else?",
-     "kid": "Draw one person. Draw arrows in for oxygen, water and food. Draw arrows out for carbon dioxide, water and waste. What happens in a sealed room?",
+     "kid": "Draw one person. Draw arrows in for oxygen, water and food. Draw arrows out for carbon dioxide, water and waste. Or tell your grown-up what goes in and out.",
      "ask": [
       {
        "q": "What happens to one person alone in a sealed room?",

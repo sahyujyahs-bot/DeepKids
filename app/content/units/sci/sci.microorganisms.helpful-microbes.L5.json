@@ -651,7 +651,7 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "1. Take turns to read the top card. 2. Say the main hurdle and what the microbes are missing. 3. Turn the card over to check.",
+          "do": "1. Take turns to read the top card. 2. Say the main hurdle and what the microbes are missing. 3. Turn the card over to check. 4. A right answer: keep the card. A wrong answer: put it on the mat.",
           "say": "Read the card aloud. Which hurdle keeps this food? What are the microbes missing: water, warmth, air, or a place that is not too sour?",
           "kid": "Read the card. Say the main hurdle. Say what the microbes are missing. Then turn it over.",
           "ask": [
@@ -789,7 +789,7 @@
           "id": "s1",
           "mins": 3,
           "do": "1. Cut out the 12 cards. 2. Explain the three verdicts: spoiled, fermented, only changed. 3. Decide who reads first.",
-          "say": "A food detective asks three questions. Did someone set this to ferment? Is there fuzz, slime, froth or a bad smell? Could air or water alone have done it?",
+          "say": "Spoiled means microbes ruined the food. Fermented means microbes were set to change it on purpose, like idli batter. Only changed means no microbes were involved. A food detective asks three questions. Did someone set this to ferment? Is there fuzz, slime, froth or a bad smell? Could air or water alone have done it?",
           "kid": "Cut out the cards. There are three verdicts: spoiled, fermented, or only changed. Choose who reads first.",
           "context": "This is the first step of Food Detective. Here you learn the three verdicts: spoiled, fermented, or only changed without microbes."
         },
@@ -911,7 +911,7 @@
           "what": "Do the last check. Draw the bar chart, say what you found, and wash everything."
         }
       ],
-      "record": "Fill in the table at every check. Write 'same' if a glass looks and smells as it did at the start. Write what changed if it is cloudier, frothy, has a skin on top or smells sour or bad. Then draw a bar chart of the check at which each glass first spoiled. Write one sentence saying what you found (your claim). Write one giving the checks that show it (your evidence). Write one saying why you think it happened (your reasoning).",
+      "record": "Fill in the table at every check. Write 'same' if a glass looks and smells as it did at the start. Write what changed if it is cloudier, frothy, has a skin on top or smells sour or bad. Then draw a bar chart of the check at which each glass first spoiled, or build the bars from coins. Write one sentence saying what you found (your claim). Write one giving the checks that show it (your evidence). Write one saying why you think it happened (your reasoning).",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: the check at which each glass first spoiled",
@@ -965,7 +965,7 @@
           "mins": 10,
           "do": "1. A grown-up boils 2 tablespoons of dal in 700 ml of water for 15 minutes. 2. Strain the water into a jug and keep the dal for cooking. 3. Let the dal water cool until it is just warm. 4. While it cools, write labels A, B, C, D and E.",
           "say": "We need a food that microbes like. Dal water has food and water in it. Let's make some and let it cool.",
-          "kid": "A grown-up boils the dal and strains it. Let the dal water cool. Write five labels: A, B, C, D and E.",
+          "kid": "Write five labels: A, B, C, D and E, while the dal water cools.",
           "adult": true,
           "parent": "The dal water should be thin and you should be able to see through it a little. If it is thick, add boiled water. Cooling takes about 30 minutes, so start the guessing step while you wait.",
           "context": "This is the first step of the Salt Ladder. Here a grown-up makes dal water, the food that the microbes will grow in."
@@ -975,7 +975,7 @@
           "mins": 5,
           "do": "1. Show your child the five labels and the salt. 2. Tell them how much salt each glass will get. 3. Ask for a guess and a reason, and write both down.",
           "say": "Glass A gets no salt. B gets a quarter teaspoon, C gets 1, D gets 2 and E gets 4. Which will spoil? Which will spoil first? Why do you think so?",
-          "kid": "Glass A gets no salt. Glass E gets the most. Which glasses will spoil? Which one first? Say why. Write your guess.",
+          "kid": "Glass A gets no salt. Glass E gets the most. Which glass will spoil first? Say why. Write your guess.",
           "ask": [
             {
               "q": "We put a little salt in dal when we cook it. Do you think that salt helps the dal keep?",
@@ -1037,9 +1037,9 @@
         {
           "id": "s6",
           "mins": 11,
-          "do": "1. On the morning of day 4, do the last check. 2. For each glass, find the number of the check at which it first spoiled. If it never spoiled, write 7. 3. Draw a bar chart with one bar for each glass. 4. Ask your child the question below. 5. Pour everything away and wash up with soap and hot water.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. Then tell me: how much salt was enough?",
-          "kid": "Do the last check. Draw a bar for each glass. Say what you thought would happen, what you saw, and why it happened.",
+          "do": "1. On the morning of day 4, do the last check. 2. For each glass, find the number of the check at which it first spoiled. Count the evening of day 1 as check 1. If it never spoiled, write 7. 3. Draw a bar chart with one bar for each glass, or build the bars from coins. 4. Ask your child the question below. 5. Pour everything away and wash up with soap and hot water.",
+          "say": "Look at your bars. Which glass spoiled first? How much salt was enough?",
+          "kid": "Do the last check. Show each glass as a bar. Say what you thought would happen, what you saw, and why it happened.",
           "ask": [
             {
               "q": "Glass E is still mostly water. Why did microbes not grow there?",
@@ -1077,7 +1077,7 @@
       "title": "Thick or Thin: can jaggery water be too sweet to spoil?",
       "mins": 45,
       "days": 8,
-      "context": "In this experiment you make jaggery water at three strengths: thin, medium and a thick syrup. Over five days you find out which ones ferment. Then you thin the thick syrup with water to see what changes.",
+      "context": "In this experiment you make jaggery water at three strengths: thin, medium and a thick syrup. Over five days you find out which ones ferment, which means they bubble and smell sour as yeasts eat the sugar. Then you thin the thick syrup with water to see what changes.",
       "question": "Yeasts eat sugar. So does more sugar mean more fermenting, or can there be so much sugar that the yeasts stop?",
       "predict": "Guess first. One glass has a little jaggery in a lot of water. One has more jaggery. One is a thick syrup with very little water. Which will bubble and smell fermented first? Which will change the least? Why do you think so? Write your guess and your reason.",
       "fair_test": "All three glasses get jaggery from one block, the same small pinch of atta and the same kind of cover. They stand side by side. Only the share of jaggery to water changes.",
@@ -1212,7 +1212,7 @@
           "id": "s1",
           "mins": 4,
           "do": "1. Show your child the jaggery, the water and the three labels: Thin, Medium, Thick. 2. Say how each will be mixed. 3. Ask for a guess and a reason. Write both down.",
-          "say": "Yeasts eat sugar and make bubbles. One glass will have a little jaggery, one more, and one will be thick syrup. Which will ferment first? Why do you think so?",
+          "say": "Yeasts are tiny living things. They eat sugar and make bubbles. One glass will have a little jaggery, one more, and one will be thick syrup. Which will ferment first? Why do you think so?",
           "kid": "Yeasts eat sugar. One glass is thin, one is medium, one is thick syrup. Which will bubble first? Say why. Write your guess.",
           "parent": "Most children guess the thick syrup, because it has the most food for the yeasts. That is a sensible guess. Do not correct it.",
           "context": "This step of Thick or Thin is for guessing. You guess which of three strengths of jaggery water will ferment first."
@@ -1258,7 +1258,7 @@
           "id": "s5",
           "mins": 9,
           "do": "1. On day 5, do the last check. 2. Circle the first day each glass changed. 3. Ask your child to explain the result, and ask the questions below.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. The thick glass had the most sugar. So why did the yeasts not grow there?",
+          "say": "Look at your table. Which glass changed first, and which changed last?",
           "kid": "Do the last check. Say what you thought would happen, what you saw, and why it happened.",
           "ask": [
             {
@@ -1380,7 +1380,7 @@
           "what": "Weigh the sun slices once more. Work out how much water left. Compare the two sets and explain."
         }
       ],
-      "record": "Each day, write the weight of the six sun slices, and how both sets look. On day 4, subtract the last weight from the first to find the water that left. Draw a line graph of weight against day. Write what you found (your claim), the numbers that show it (your evidence) and why you think it happened (your reasoning).",
+      "record": "Each day, write the weight of the six sun slices, and how both sets look. On day 4, subtract the last weight from the first to find the water that left. Draw a line graph of weight against day, or write the weights in a row. Write what you found (your claim), the numbers that show it (your evidence) and why you think it happened (your reasoning).",
       "example_chart": {
         "type": "line",
         "title": "Made-up example results: weight of six tomato slices drying in the sun",
@@ -1474,8 +1474,8 @@
         {
           "id": "s6",
           "mins": 15,
-          "do": "1. On day 4, weigh the sun slices once more. 2. Subtract the last weight from the first weight. That is the water that left. 3. Draw a line graph of the four weights. 4. Compare the sun slices with the jar slices. 5. Put the dried slices in a dry, closed jar, and look at them again in a week.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. The jar was clean and closed. So why did those slices spoil?",
+          "do": "1. On day 4, weigh the sun slices once more. 2. Take the last weight away from the first weight. That is the water that left. 3. Draw a line graph of the four weights, or write them in a row and circle the biggest drop. 4. Compare the sun slices with the jar slices. 5. Put the dried slices in a dry, closed jar, and look at them again in a week.",
+          "say": "Compare the sun slices with the jar slices. Which ones spoiled, and which ones kept?",
           "kid": "Weigh the dried slices. Subtract to find the water lost. Say what you thought would happen, what you saw, and why it happened.",
           "ask": [
             {
@@ -1543,7 +1543,7 @@
           "what": "Find eight foods that keep for months and five that spoil within two days. Describe each one, and look for a pattern."
         }
       ],
-      "record": "Draw a table with three columns: the food, how long it keeps, and what it is like (dry, salty, very sweet, sour, under oil, sealed, or cold). Under the table, write one sentence about what the long-lasting foods have in common.",
+      "record": "Make a table with three columns: the food, how long it keeps, and what it is like (dry, salty, very sweet, sour, under oil, sealed, or cold). Under the table, write one sentence about what the long-lasting foods have in common.",
       "setup": [
         {
           "art": "A child standing on a low stool reading the label on a jar taken from a kitchen shelf full of dabbas, jars and packets.",
@@ -1639,7 +1639,7 @@
           "what": "Read the ingredients and storage lines on four or five labels. Tick the hurdles each food uses, and count them."
         }
       ],
-      "record": "Draw a table. Down the side, write each food. Across the top, write the hurdles: dry, salt, sugar, sour, oil, heated and sealed, added preservative, cold after opening. Tick each hurdle a food uses, and write the total.",
+      "record": "Make a table. Down the side, write each food. Across the top, write the hurdles: dry, salt, sugar, sour, oil, heated and sealed, added preservative, cold after opening. Tick each hurdle a food uses, and write the total.",
       "setup": [
         {
           "art": "A pickle jar, a jam jar and a bottle of tomato sauce on a table, turned so their ingredient labels face forward.",
@@ -1675,9 +1675,9 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "1. Count the ticks for each food. 2. Ask which food uses the most hurdles and which uses only one. 3. Ask the question about the storage line.",
-          "say": "Which food has the most hurdles? Which keeps with only one? Why does a jar say 'refrigerate after opening' and not before?",
-          "kid": "Count the ticks. Which food has the most hurdles? Why keep a jar cold only after opening?",
+          "do": "1. Count the ticks for each food. 2. Ask which food uses the most hurdles and which uses only one. 3. Ask your child to read the storage line on the jam jar.",
+          "say": "Which food has the most hurdles? Which keeps with only one? Read me the storage line on the jam jar.",
+          "kid": "Count the ticks. Which food has the most hurdles?",
           "ask": [
             {
               "q": "Honey and dry rice each have only one hurdle. Why is one enough for them?",
@@ -1770,8 +1770,8 @@
           "id": "s2",
           "mins": 7,
           "do": "1. Next morning, snap each biscuit in turn. 2. Listen for the snap and feel whether it bends. 3. Ask where the water in the soft biscuit came from. 4. Throw away biscuit 3.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. No water touched this biscuit. So how did it get soft?",
-          "kid": "Snap each biscuit. Which ones bend? Say what you thought would happen, what you saw, and why it happened.",
+          "say": "Snap each one and listen. Which one still snaps? Which one bends?",
+          "kid": "Snap each biscuit. Say what you thought would happen, what you saw, and why it happened.",
           "ask": [
             {
               "q": "How did water reach the biscuit under the bowl?",
@@ -1808,7 +1808,7 @@
       "title": "The Preserving Map of India",
       "mins": 25,
       "days": 1,
-      "context": "In this activity you draw a map of India and place twelve preserved foods on it. They range from dried vegetables in Kashmir to dried fish in Kerala. For each food you name the hurdle that keeps it.",
+      "context": "In this activity you draw a map of India and place twelve preserved foods on it. They range from dried vegetables in Kashmir to dried fish in Kerala. For each food you name the hurdle that keeps it. A hurdle is the one thing that stops the food from spoiling.",
       "materials": [
         {
           "item": "a large sheet of paper and pencils or crayons",
@@ -1842,7 +1842,7 @@
         },
         {
           "art": "The map with small drawings placed on it: a string of dried vegetables at the top, a pickle jar in the south-east, drying fish on the south-west coast.",
-          "caption": "2. Draw each food where it is made. Write its hurdle."
+          "caption": "2. Put each food's slip where it is made. Write its hurdle."
         },
         {
           "art": "A child on the phone with a grandmother, writing in a notebook beside the map.",
@@ -1853,9 +1853,9 @@
         {
           "id": "s1",
           "mins": 12,
-          "do": "1. Draw a large outline of India. 2. Read the twelve foods to your child, one at a time: hokh syun, dried vegetables of Kashmir. Chhurpi, hard dried cheese of Ladakh. Amla murabba of Uttar Pradesh. Ker sangri, dried desert beans and berries of Rajasthan. Chhundo, mango cooked in sugar, of Gujarat. Kokum, dried salted fruit rind of Konkan and Goa. Avakaya of Andhra Pradesh and Telangana. Vathal of Tamil Nadu. Dried salted fish of Kerala. Badi, sun-dried dal drops of Odisha. Gundruk, fermented and dried greens of Sikkim. Smoked meat of Nagaland. 3. Your child draws each food in the right place.",
-          "say": "Find each place on the atlas first. Then draw the food there. Before I tell you, guess how each one is kept.",
-          "kid": "Draw India. Find each place in the atlas. Draw the food there. Guess how each food is kept.",
+          "do": "1. Draw or trace a large outline of India from the atlas. 2. Read the twelve foods to your child, one at a time: hokh syun, dried vegetables of Kashmir. Chhurpi, hard dried cheese of Ladakh. Amla murabba of Uttar Pradesh. Ker sangri, dried desert beans and berries of Rajasthan. Chhundo, mango cooked in sugar, of Gujarat. Kokum, dried salted fruit rind of Konkan and Goa. Avakaya of Andhra Pradesh and Telangana. Vathal of Tamil Nadu. Dried salted fish of Kerala. Badi, sun-dried dal drops of Odisha. Gundruk, fermented and dried greens of Sikkim. Smoked meat of Nagaland. 3. Your child writes each food's name on a small paper slip and puts the slip in the right place on the map.",
+          "say": "Find each place on the atlas first. Then put the food's slip there. Before I tell you, guess how each one is kept.",
+          "kid": "Draw India, or trace it from the atlas. Find each place. Put the food's slip there. Guess how each food is kept.",
           "parent": "The hurdles are: hokh syun, chhurpi, ker sangri and badi are dried. Murabba and chhundo use sugar. Kokum and dried fish are salted and dried. Avakaya uses salt, sour mango and oil. Vathal is salted and dried. Gundruk is fermented and then dried. Smoked meat is dried by heat and kept by smoke.",
           "context": "This is the first step of the Preserving Map of India. Here you draw a map and place twelve preserved foods from twelve regions on it."
         },
@@ -1908,7 +1908,7 @@
       "title": "Thirty Plants: what do my gut microbes get to eat?",
       "mins": 20,
       "days": 3,
-      "context": "In this activity you count every different plant you eat in three days. Your gut microbes feed on the fibre in plants. People who eat more kinds of plants have more kinds of gut microbes.",
+      "context": "In this activity you count every different plant you eat in three days. Your gut microbes feed on the fibre in plants. Fibre is the stringy part of plants that your own body cannot digest. People who eat more kinds of plants have more kinds of gut microbes.",
       "materials": [
         {
           "item": "a notebook page and a pencil",
@@ -1974,8 +1974,8 @@
           "id": "s3",
           "mins": 8,
           "do": "1. On day 3, add the new plants and count the total. 2. Compare the total with the guess. 3. Ask which single dish held the most plants. 4. Ask for one way to add three new plants next week.",
-          "say": "How many plants in three days? Was your guess close? Which dish had the most plants in it? How could you add three more next week?",
-          "kid": "Count your plants. Was your guess close? Which dish had the most? How could you add three more?",
+          "say": "Let us count your plants. How many in three days? Which dish had the most plants in it?",
+          "kid": "Was your guess close? How could you add three more plants next week?",
           "ask": [
             {
               "q": "Why might more kinds of plants mean more kinds of gut microbes?",
@@ -2064,7 +2064,7 @@
           "what": "Do the last check. Rank the four jars and write your report."
         }
       ],
-      "record": "Your report has five parts on one page: my question, what I did, my results table, what I found, and what I would test next. Add a drawing of the four jars on the last day.",
+      "record": "Your report has five parts on one page: my question, what I did, my results table, what I found, and what I would test next. Add a drawing or a photo of the four jars on the last day.",
       "setup": [
         {
           "art": "A child writing a plan in a notebook, with a grated carrot in a bowl and salt, sugar, a lemon and oil set out to choose from.",
@@ -2121,7 +2121,7 @@
           "id": "s4",
           "mins": 19,
           "do": "1. On day 6, do the last check. 2. Rank the four jars from best kept to worst. 3. Your child writes the one-page report. 4. They read it aloud to someone in the family.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. Which method worked best? What would you change if you ran the trial again?",
+          "say": "Look at the four jars. Which method worked best? What would you change if you ran the trial again?",
           "kid": "Rank your jars. Write your report. Say what you thought would happen, what you saw, and why it happened.",
           "ask": [
             {
@@ -2200,7 +2200,7 @@
           "id": "s1",
           "mins": 6,
           "do": "1. Read the problem together. 2. Ask your child to list foods that would not last 30 hours in a warm coach. 3. Ask why each would spoil.",
-          "say": "First, what would go wrong? Which foods from our usual meals would spoil in a warm train by the next day? Why?",
+          "say": "First, let us see what would go wrong. Think of our usual meals and a warm train coach.",
           "kid": "Read the problem. Which of our usual foods would spoil by the next day? Say why.",
           "ask": [
             {
@@ -2215,7 +2215,7 @@
         {
           "id": "s2",
           "mins": 14,
-          "do": "1. Your child rules the table and fills in four meals and two snacks. 2. For each, they write the hour it is eaten and its hurdles. 3. Check the plan against the five rules.",
+          "do": "1. Your child makes a table. Its columns are meal, hour, foods and hurdles. They fill in four meals and two snacks. 2. For each, they write the hour it is eaten and its hurdles. 3. Check the plan against the five rules.",
           "say": "Plan the first meal for hour 4 and the last for hour 30. For each food, tell me which hurdle keeps it safe until then.",
           "kid": "Fill in your table. Write the hour for each meal. Write the hurdle that keeps each food safe.",
           "parent": "Ask an older relative how they packed food for trains. Many families have a set journey menu, and each item in it uses a hurdle. A food in the plan may have no hurdle. Ask your child to move that food to the first meal, or replace it.",
@@ -2279,7 +2279,7 @@
         "Hang the pieces from threads, so both sides dry at once.",
         "With no sunny spot, design for moving air and stand the dryer under a fan."
       ],
-      "your_turn": "Now build your own dryer and test it against an open plate. Draw your design, mark where the air goes in and out, and write which change made the biggest difference.",
+      "your_turn": "Now build your own dryer and test it against an open plate. Draw your design, or show it with the parts, mark where the air goes in and out, and write which change made the biggest difference.",
       "setup": [
         {
           "art": "A cardboard box with black paper inside, a wire rack across the middle and a net cover on top, standing on a sunny window sill.",
@@ -2300,7 +2300,7 @@
           "mins": 5,
           "do": "1. Read the problem together. 2. Ask your child what makes wet clothes dry fast on a washing line. 3. Write their list.",
           "say": "On a washing line, when do clothes dry fastest? What does that tell you about what a dryer needs?",
-          "kid": "Read the problem. When do wet clothes dry fastest? Write your list.",
+          "kid": "Read the problem. Think about wet clothes on a washing line. Write your list.",
           "ask": [
             {
               "q": "What makes wet clothes dry fastest?",
@@ -2317,9 +2317,9 @@
         {
           "id": "s2",
           "mins": 20,
-          "do": "1. Your child draws a design and marks where the air goes in and out. 2. Build it together from the box, the net and the rack. 3. Check it against the five rules.",
+          "do": "1. Your child draws a design, or lays out the parts, and marks where the air goes in and out. 2. Build it together from the box, the net and the rack. 3. Check it against the five rules.",
           "say": "Draw your design first. Show me where the air gets in and where it gets out. Then we build it.",
-          "kid": "Draw your design. Mark where air goes in and out. Then build it. Check the five rules.",
+          "kid": "Draw your design, or show it with the box parts. Mark where air goes in and out. Then build it. Check the five rules.",
           "adult": true,
           "parent": "A grown-up does any cutting of cardboard. Do not correct the design before the test. The test will show what to change.",
           "context": "Here you design and build the Fly-Proof Dryer from a box, a net and a rack."
@@ -2328,8 +2328,8 @@
           "id": "s3",
           "mins": 15,
           "do": "1. Wet both cloth squares with 2 teaspoons of water each. 2. Put one inside the dryer and one on an open plate beside it. 3. After one hour, hang one in each cup of the hanger balance. 4. The side that hangs lower holds more water. 5. Change one thing in the design and test again.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. Which cloth is lighter now? What one thing will you change?",
-          "kid": "Wet both cloths. Put one in the dryer and one on a plate. After one hour, compare them on the balance.",
+          "say": "Look at the balance. Which cloth is lighter now? What one thing will you change?",
+          "kid": "Wet both cloths. Put one in the dryer and one on a plate. After one hour, compare them on the balance. Say what you thought would happen, what you saw, and why it happened.",
           "parent": "If the open plate wins, that is a real result. A cover slows the air. Ask your child how to get more air through without letting flies in.",
           "check": {
             "t": "mcq",

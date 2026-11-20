@@ -251,7 +251,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 - **s2 (12 min)**  
   *Parent does:* 1. Read the top card aloud. 2. Count to three. 3. Everyone lays down an arrow. 4. Turn the card over and read the reason.  
   *Parent says:* Ask yourself one question. Which way would this thing slide if there were no friction? Friction pushes the other way.  
-  *Child mode:* Read the card. Which way would it slide with no friction? Point your arrow the other way.
+  *Child mode:* Listen to the card. On three, lay down your arrow.
   - Ask: A lorry speeds up with a box on its back. Why does friction on the box point forward? (good: Without friction the box would be left behind and slide backward.; Friction acts against that slide, so it points forward.)
   - Note: The useful question is always the same: which way would it slide with no friction? If your child points against the movement every time, ask that question again for the walker and the lorry cards.
 - **s3 (5 min)**  
@@ -269,7 +269,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Child mode:* Mark two lines 60 cm apart. Take a coin. Try three practice shoves.
   - Note: A dining table, a carrom board or a smooth floor all work. A coin can scratch polished wood, so put the lines on a surface that will not be spoiled.
 - **s2 (6 min)**  
-  *Parent does:* 1. Play round 1 on the bare table, five shoves each. 2. Write down the points. 3. Ask how hard the shove had to be.  
+  *Parent does:* 1. Play round 1 on the bare table, five shoves each. 2. Write down the points: 3 for touching the line, 2 for within one hand-width, 1 for within two hand-widths, 0 for the rest. 3. Ask how hard the shove had to be.  
   *Parent says:* Round 1 is on the bare table. How hard a shove gets the coin to the line and no further?  
   *Child mode:* Play round 1. Shove the coin five times. Write your points.
   - Ask: What stops the coin after your finger lets go? (good: Friction between the coin and the table.; Sliding friction turns the coin's movement into heat.)
@@ -309,24 +309,24 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Child mode:* Hold the marble on the top mark. Lift your finger. Do not push. Does it stop on the towel?
   - Note: If the marble stops within 10 centimetres, add a book. Once the ramp is right, do not change it again. Then roll the marble once onto the bare floor, to see how far it goes with little friction.
 - **s4 (9 min)**  
-  *Parent does:* 1. Start the marble at the 20 centimetre mark. 2. Measure from the end of the channel to the marble. 3. Do 3 runs on the towel and write each one down. 4. Lay the bedsheet flat in place of the towel and do 3 runs. 5. Do 3 runs on your third surface.  
+  *Parent does:* 1. Start the marble at the 20 centimetre mark. 2. Measure from the end of the channel to the marble. 3. Do 3 runs on the towel and write each one down. 4. Lay the bedsheet flat in place of the towel and do 3 runs. 5. Do 3 runs on the extra surface you chose, such as the mat or blanket.  
   *Parent says:* Part 1 changes only the surface. Start at the 20 centimetre mark every time. Measure in a straight line from the end of the channel.  
   *Child mode:* Start at the 20 cm mark each time. Do 3 runs on the towel. Do 3 on the bedsheet. Do 3 on your own surface.
   - Note: Pull the bedsheet smooth and hold its corners down with books. If the marble rolls off the end of the sheet, write 'more than' and the length of the sheet.
 - **s5 (8 min)**  
   *Parent does:* 1. Put the towel back. 2. Ask your child to guess the distances from the 10 and the 30 centimetre marks. They can use the result from the 20 centimetre mark. 3. Do 3 runs from the 10 centimetre mark. 4. Do 3 runs from the 30 centimetre mark.  
-  *Parent says:* Part 2 changes only the start mark. From the 20 centimetre mark you already have a mean. What do you expect from 10 and from 30? Why?  
-  *Child mode:* Put the towel back. Guess the distance from the 10 cm mark. Guess for the 30 cm mark. Do 3 runs from each.
+  *Parent says:* Part 2 changes only the start mark. You already have three runs from the 20 centimetre mark. Will the marble roll less or more from the 10 mark? And from the 30 mark? Why?  
+  *Child mode:* Put the towel back. Think about the 10 and the 30 cm marks. Then do 3 runs from each.
   - Ask: What do you expect from the 10 centimetre mark, and why? (good: About half as far, because the marble starts half as high.; Less, because the marble is slower at the bottom.)
 - **s6 (5 min)**  
-  *Parent does:* 1. For each row, add the three runs and divide by 3. 2. Draw a bar chart of the three surfaces. 3. Draw a line graph of stopping distance against start mark for the towel.  
-  *Parent says:* Let's find the mean for each row. Then we draw one bar for each surface, and one point for each start mark.  
+  *Parent does:* 1. For each row, add the three runs and divide by 3. 2. Draw a bar chart of the three surfaces, or just tell your grown-up which surface gave the longest roll. 3. Draw a line graph of stopping distance against start mark for the towel.  
+  *Parent says:* Let's find the mean for each row. The mean is the usual distance: add the three runs and divide by 3. Then we draw one bar for each surface, and one point for each start mark.  
   *Child mode:* Add the three runs. Divide by 3. Draw a bar for each surface. Draw a point for each start mark.
   - Note: If one run is very different from the other two, ask what happened. Roll it again and say so in the table. A mean hides a mistake, so look at the three runs first.
 - **s7 (5 min)**  
-  *Parent does:* 1. Ask your child for the three sentences. 2. Ask them to draw the marble on the towel with a friction arrow. 3. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then draw the marble on the towel. Which way does the friction arrow point?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Draw the marble and a friction arrow.
+  *Parent does:* 1. Ask your child for the three sentences. 2. Ask them to lay a pencil on the towel to point the way friction pushes the marble. 3. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then lay a pencil on the towel to show which way friction pushes the marble.  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Lay a pencil on the towel to show which way friction pushes the marble.
   - Ask: The marble had the same speed at the bottom each time in part 1. Why did it stop sooner on the towel? (good: The towel pushes against the marble with a bigger force.; The towel takes the marble's energy away in a shorter distance.)
   - Ask: In part 2, where did the extra distance come from? (good: A higher start gives the marble more energy.; The towel takes away about the same energy each centimetre, so more energy lasts longer.)
   - Note: Expect about double the distance from double the start mark, not exactly double. Real cloth gives results between about one and a half and two and a half times.
@@ -349,12 +349,12 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Child mode:* Guess which coin will be warmest. Guess what a firm press does. Say why. Write it down.
   - Ask: Why do you think so? (good: More strokes means more rubbing, so more heat.; Pressing harder makes more friction, so more heat.)
 - **s3 (8 min)**  
-  *Parent does:* 1. The judge closes their eyes and holds out a wrist. 2. The rubber picks 20, 40 or 80 strokes in secret and rubs with a firm press. 3. The rubber touches the coin to the judge's wrist for one second. 4. The judge gives a score. 5. Repeat with a cool coin until all three numbers are done.  
+  *Parent does:* 1. The judge closes their eyes and holds out a wrist. 2. The person rubbing picks 20, 40 or 80 strokes in secret and rubs with a firm press. 3. The rubber touches the coin to the judge's wrist for one second. 4. The judge gives a score. 5. Repeat with a cool coin until all three numbers are done.  
   *Parent says:* Close your eyes. I will not tell you how many strokes I did. Tell me the score when you feel the coin.  
   *Child mode:* The judge closes their eyes. Rub the coin 20, 40 or 80 strokes. Touch the judge's wrist for one second. Write the score.
   - Note: Take turns as rubber and judge. Put each used coin back on the steel plate for two minutes, because the plate cools it. If nothing feels warm, rub faster and press harder, or double every number of strokes.
 - **s4 (6 min)**  
-  *Parent does:* 1. Take a cool coin. 2. Rub it for 40 strokes with a light press, as if you might tear the cardboard. 3. The judge scores it. 4. Rub a cool coin for 40 strokes with a firm press. 5. The judge scores it. Do the two in a secret order.  
+  *Parent does:* 1. Take a cool coin. 2. Rub it for 40 strokes with a very light press, as if you were stroking a cat. 3. The judge scores it. 4. Rub a cool coin for 40 strokes with a firm press. 5. The judge scores it. Do the two in a secret order.  
   *Parent says:* Now the strokes stay the same and only the press changes. I will do the light press and the firm press in a secret order.  
   *Child mode:* Rub 40 strokes with a light press. Then rub 40 strokes with a firm press. The judge scores each one.
 - **s5 (5 min)**  
@@ -364,7 +364,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   - Note: Oil makes the friction smaller, so the coin usually stays cooler. The difference can be small. If the judge feels no difference, write that down as the result.
 - **s6 (4 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child for the three sentences. 3. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Where did the heat in the coin come from?  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Where did the heat in the coin come from? (good: From the movement of my hand.; Friction turned the kinetic energy of the rubbing into heat.)
   - Ask: Why did the judge keep their eyes closed? (good: So the judge could not guess the answer from what they saw.; If you expect a coin to be hot, it can feel hotter.)
@@ -373,7 +373,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 ## Activities
 ### a1 · Finger Walk: which way does friction push? (10 min)
 - **safety:** Do the foot test sitting on a chair. Do not stand or run on loose paper, because it slips.
-- **record:** Draw the walking fingers and the paper. Add one arrow for the push of the fingers on the paper, and one for the friction on the fingers.
+- **record:** Draw the walking fingers and the paper. Add one arrow for the push of the fingers on the paper, and one for the friction on the fingers. If you do not want to draw, tell a grown-up about both pushes.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the sheet of paper on the smooth table. 2. Ask your child which way the paper will move when two fingers walk forward on it, and why. 3. Your child presses two fingertips on the paper and walks them forward like legs.  
   *Parent says:* Your fingers are going to walk forward on this loose paper. Which way will the paper move? Why do you think so?  
@@ -385,13 +385,13 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Child mode:* Sit on the chair. Put one foot on the newspaper. Push as if to walk. Watch the paper.
   - Ask: Which way does your foot push on the floor when you walk forward? (good: Backward.; My foot pushes the floor back, and the paper showed it.)
 - **s3 (4 min)**  
-  *Parent does:* 1. Tape the corners of the plain paper to the table. 2. Your child walks two fingers forward again. 3. Ask what pushes the fingers forward now. 4. Your child draws the fingers with two arrows.  
+  *Parent does:* 1. Tape the corners of the plain paper to the table. 2. Your child walks two fingers forward again. 3. Ask what pushes the fingers forward now. 4. Your child points the way the fingers push the paper, then the way the paper pushes the fingers.  
   *Parent says:* Now the paper cannot slide. Your fingers push it backward as before. So what pushes your fingers forward?  
-  *Child mode:* Tape the paper down. Walk your fingers again. What pushes them forward now? Draw two arrows.
+  *Child mode:* Tape the paper down. Walk your fingers again. Point the way your fingers push the paper. Point the way the paper pushes your fingers.
   - Note: One arrow shows the fingers pushing the paper backward. The other shows friction from the paper pushing the fingers forward. The two arrows are the same length.
   - Check: In Finger Walk, the loose paper slid backward when the fingers walked forward. What does that show? → **The fingers push backward on the paper**
 ### a2 · The Riding Katori: can friction start a thing moving? (15 min)
-- **record:** Draw the katori three times: for the slow pull, the sudden stop and the fast pull. Add a friction arrow to each drawing.
+- **record:** Draw the katori three times: for the slow pull, the sudden stop and the fast pull. Add a friction arrow to each drawing. Or take a photo of each pull, with a pencil beside the katori pointing the way friction pushed it.
 - **s1 (4 min)**  
   *Parent does:* 1. Spread the cloth on the table and stand the katori on it. 2. Ask what the katori will do when the cloth is pulled slowly, and why. 3. Your child pulls the cloth slowly and steadily towards themself.  
   *Parent says:* I will not touch the katori. What will it do when you pull the cloth slowly? Why do you think so?  
@@ -401,7 +401,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 - **s2 (4 min)**  
   *Parent does:* 1. Your child pulls the cloth steadily, then stops it suddenly. 2. Watch the katori. 3. Ask which way friction pushed the katori this time.  
   *Parent says:* Pull steadily, then stop the cloth all at once. Watch the katori. Which way did friction push it just now?  
-  *Child mode:* Pull steadily. Stop the cloth suddenly. Watch the katori. Which way did friction push it?
+  *Child mode:* Pull steadily. Stop the cloth suddenly. Watch the katori.
   - Note: The katori slides forward a little over the stopped cloth and then stops. Now friction pushes it backward. In both steps, friction worked to make the katori and the cloth move together.
 - **s3 (4 min)**  
   *Parent does:* 1. Put the katori near the far edge of the cloth. 2. Your child grips the near edge with both hands and pulls it out very fast, straight and level. 3. Compare with the slow pull.  
@@ -409,22 +409,22 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Child mode:* Guess first. Pull the cloth out very fast. Did the katori ride along?
   - Note: The katori stays almost where it was. Friction has a limit, and it cannot speed the katori up that quickly. Use an empty katori, so nothing spills.
 - **s4 (3 min)**  
-  *Parent does:* 1. Your child draws the katori for all three pulls. 2. They add a friction arrow to each drawing. 3. Ask what is the same about all three.  
-  *Parent says:* Draw the three pulls and the friction arrow for each. Friction pointed a different way each time. What was it doing every time?  
-  *Child mode:* Draw the three pulls. Add a friction arrow to each. What did friction do every time?
+  *Parent does:* 1. Do each pull again. After each one, your child lays a pencil beside the katori, pointing the way friction pushed it. 2. Ask what is the same about all three.  
+  *Parent says:* Do each pull again. Lay the pencil beside the katori to show which way friction pushed it. Friction did not point the same way each time. What was it doing every time?  
+  *Child mode:* Do each pull again. Lay a pencil beside the katori to show which way friction pushed it.
   - Check: A katori stands on a cloth. The cloth is pulled slowly and the katori moves with it. Which force moved the katori? → **Friction from the cloth**
 ### a3 · Green and Red: a friction map of one machine (15 min)
 - **safety:** Keep fingers away from the chain and the spokes while a wheel is turning.
-- **record:** Keep the drawing with its green and red marks. Under it write one sentence for each mark, saying what the friction does there.
+- **record:** Keep the tags in a row, or take a photo of the bicycle with its tags. Write one sentence for each tag, saying what the friction does there. You may also draw the machine with its green and red marks.
 - **s1 (5 min)**  
-  *Parent does:* 1. Stand the bicycle safely. 2. Your child draws it from the side, big enough to fill the page. 3. Together, name the parts: tyres, brake pads, rim, pedals, chain, axles, handle grips and seat.  
-  *Parent says:* Let's draw the cycle and name its parts. Then we will hunt for every place where two surfaces touch.  
-  *Child mode:* Draw the cycle from the side. Fill the page. Name each part.
+  *Parent does:* 1. Stand the bicycle safely. 2. Together, name the parts: tyres, brake pads, rim, pedals, chain, axles, handle grips and seat. 3. Your child touches each part as you name it.  
+  *Parent says:* Let's name the parts of the cycle. Then we will hunt for every place where two surfaces touch.  
+  *Child mode:* Touch each part of the cycle. Say its name.
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child touches each place where two surfaces meet. 2. For each place ask: do we want these to slide, or to grip? 3. Mark green for grip wanted and red for sliding wanted. 4. Find at least four green places and three red ones.  
+  *Parent does:* 1. Your child touches each place where two surfaces meet. 2. For each place ask: do we want these to slide, or to grip? 3. Tape a green tag where grip is wanted and a red tag where easy sliding is wanted. 4. Find at least four green places and three red ones.  
   *Parent says:* Touch each place where two surfaces meet. Do we want them to grip here, or to slide easily? Why?  
-  *Child mode:* Touch each place where two surfaces meet. Grip wanted is green. Sliding wanted is red. Find seven places.
-  - Ask: The brake pad and the axle are a hand's width apart. Why does one need friction and the other need oil? (good: The pad must grip the rim to stop the wheel.; The axle must turn easily, or the rider's effort is wasted as heat.)
+  *Child mode:* Touch each place where two surfaces meet. Tape a green tag for grip. Tape a red tag for easy sliding. Find seven places.
+  - Ask: Why does the brake pad need friction, but the axle needs oil? (good: The pad must grip the rim to stop the wheel.; The axle must turn easily, or the rider's effort is wasted as heat.)
   - Note: Green: tyres on the road, brake pads on the rim, shoes on the pedals, hands on the grips, the seat. Red: the axles, the chain links, the pedal axle and the brake cable in its tube. On a door, the hinge and bolt are red and the handle is green.
 - **s3 (4 min)**  
   *Parent does:* 1. Pick one green place and one red place. 2. Ask what would go wrong if the friction there were the other way round. 3. Ask how people made the friction bigger or smaller at each place.  
@@ -433,7 +433,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   - Check: Which part of a bicycle is oiled to make friction smaller? → **The chain**
 ### a4 · Hand in the Bucket: water resistance and upthrust (15 min)
 - **safety:** Wipe up any water on the floor at once, because a wet floor has little friction. Use the water for mopping or for plants afterwards.
-- **record:** Write which sweep was hardest and which was easiest. Draw the bottle under water with an arrow for upthrust.
+- **record:** Say or write which sweep was hardest and which was easiest. Draw the bottle under water with an arrow for upthrust, or just push it under again and point the way upthrust pushes.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask which will be harder to sweep through water, a flat hand or a hand held edge-on, and why. 2. Your child sweeps a flat hand across the bucket. 3. They sweep the hand edge-on at the same speed.  
   *Parent says:* Which will be harder to move through the water, a flat hand or the edge of your hand? Why do you think so?  
@@ -447,38 +447,38 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 - **s3 (4 min)**  
   *Parent does:* 1. Your child pushes the closed empty bottle down into the water. 2. They hold it still under the water. 3. They let go and watch.  
   *Parent says:* Push the bottle under and hold it still. Do you feel a force now, though nothing is moving? Which way does it push?  
-  *Child mode:* Push the bottle under the water. Hold it still. Which way does the water push it? Let go.
+  *Child mode:* Push the bottle under the water. Hold it still. Then let go.
   - Note: The water pushes the bottle up even when the bottle is still. That is upthrust. Water resistance acts only on a moving thing, and it points against the movement.
 - **s4 (4 min)**  
-  *Parent does:* 1. Your child waves the steel plate flat-on through the air, then edge-on. 2. Ask what the air did. 3. They write down how water resistance, air resistance and upthrust differ.  
+  *Parent does:* 1. Your child waves the steel plate flat-on through the air, then edge-on. 2. Ask what the air did. 3. They tell you how upthrust differs from water resistance.  
   *Parent says:* Wave the plate flat-on, then edge-on. Air does the same as water, only more weakly. Now tell me how upthrust is different from water resistance.  
   *Child mode:* Wave the plate flat-on. Wave it edge-on. What did the air do? How is upthrust different?
   - Check: You hold an empty bottle still under water. Which force from the water pushes on the bottle? → **Upthrust, pushing up**
-### a5 · Friction Arrows: draw the forces on five things (20 min)
-- **record:** Draw five force diagrams, one for each scene. Label the friction arrow in each. Under the last one, write the rule for the direction of friction.
+### a5 · Friction Arrows: show the friction on five things (20 min)
+- **record:** Draw one of the five scenes as a box with a labelled friction arrow, or take a photo of it with the pencil. Then write the rule for the direction of friction.
 - **s1 (4 min)**  
-  *Parent does:* 1. Your child pushes the book across the table and lets go. 2. They draw the book as a box, with an arrow showing which way it moves. 3. They add the friction arrow and label it.  
-  *Parent says:* Push the book and let go. It slows down. Draw the book, and draw the friction arrow. Which way does it point, and why?  
-  *Child mode:* Push the book and let go. Draw it as a box. Add the friction arrow. Say why.
+  *Parent does:* 1. Your child pushes the book across the table and lets go. 2. They lay the pencil on the table, pointing the way the book moves. 3. They turn the pencil to point the way friction pushes the book.  
+  *Parent says:* Push the book and let go. It slows down. Lay the pencil to show which way friction pushes the book. Why does it point that way?  
+  *Child mode:* Push the book and let go. Lay the pencil to show the friction. Say why.
   - Note: The friction arrow lies along the table and points against the slide. It starts where the book touches the table.
 - **s2 (4 min)**  
-  *Parent does:* 1. Rest the book on the tray. 2. Lift one end of the tray a little, so the book stays put. 3. Ask which way the book would slide with no friction. 4. Your child draws the book and the friction arrow.  
+  *Parent does:* 1. Rest the book on the tray. 2. Lift one end of the tray a little, so the book stays put. 3. Ask which way the book would slide with no friction. 4. Your child lays the pencil on the tray to show the friction.  
   *Parent says:* The book is not moving. Is there friction on it? Which way would the book slide if the tray were perfectly slippery?  
-  *Child mode:* Rest the book on the tilted tray. Which way would it slide? Draw the friction arrow.
+  *Child mode:* Rest the book on the tilted tray. Which way would it slide? Lay the pencil to show the friction.
   - Ask: The book is still. How do you know friction is acting on it? (good: Without friction the book would slide down the slope.; Something must balance the pull down the slope.)
 - **s3 (4 min)**  
-  *Parent does:* 1. Your child presses the book flat against a wall with one hand. 2. They ease the press until the book starts to slip, then press again. 3. They draw the book and the friction arrow.  
+  *Parent does:* 1. Your child presses the book flat against a wall with one hand. 2. They ease the press until the book starts to slip, then press again. 3. They hold the pencil up beside the book to show the friction.  
   *Parent says:* Hold the book against the wall with a flat hand. Gravity pulls it down. What holds it up? Which way does that force point?  
-  *Child mode:* Press the book on the wall. Ease off until it slips. Press again. Draw the friction arrow.
+  *Child mode:* Press the book on the wall. Ease off until it slips. Press again. Hold up the pencil to show the friction.
   - Note: Friction from the wall and from the hand points up. A lighter press gives less friction, so the book slips.
 - **s4 (4 min)**  
-  *Parent does:* 1. Your child walks two fingers on a taped sheet of paper and draws the friction on the fingers. 2. They pull a cloth slowly with the katori on it and draw the friction on the katori.  
-  *Parent says:* Now draw two things that friction pushes forward: your walking fingers and the katori on the moving cloth.  
-  *Child mode:* Walk your fingers on taped paper. Pull the cloth with the katori on it. Draw both friction arrows.
+  *Parent does:* 1. Your child walks two fingers on a taped sheet of paper and lays the pencil to show the friction on the fingers. 2. They pull a cloth slowly with the katori on it and lay the pencil to show the friction on the katori.  
+  *Parent says:* Now show two things that friction pushes forward: your walking fingers and the katori on the moving cloth.  
+  *Child mode:* Walk your fingers on taped paper. Pull the cloth with the katori on it. Lay the pencil to show each friction.
 - **s5 (4 min)**  
-  *Parent does:* 1. Lay the five drawings side by side. 2. Ask what one rule gives the direction of friction in all five. 3. Your child writes the rule in their own words.  
-  *Parent says:* Look at all five arrows. They point backward, up a slope, straight up and forward. What one rule fits them all?  
-  *Child mode:* Look at your five arrows. What one rule fits them all? Write it down.
+  *Parent does:* 1. Name the five scenes together, and the way friction pointed in each. 2. Ask what one rule gives the direction of friction in all five. 3. Your child says the rule in their own words, and you write it down.  
+  *Parent says:* Think of all five scenes. Friction pointed backward, up a slope, straight up and forward. What one rule fits them all?  
+  *Child mode:* Say the one rule that fits all five scenes, in your own words.
   - Note: A good rule: friction on a thing points against the way that thing slides, or would slide, over the surface it touches.
   - Check: A book rests on a tilted tray and does not slide. Which way does friction push the book? → **Up the slope**
 ### a6 · Pencil, Eraser, Match: three frictions we use on purpose (15 min)
@@ -518,7 +518,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. For a hinge or a bolt, a grown-up adds one drop of oil with a cotton bud. 2. For a drawer or a zip, rub the candle or dry soap along the sliding parts. 3. For a jar lid or a hanger, wind a rubber band round it. 4. For a chopping board or a rug, put a damp cloth or a rubber mat underneath.  
   *Parent says:* For each place, ask one question. Do we want less friction here, or more? Then choose the fix and say why it should work.  
-  *Child mode:* For each place, ask: less friction or more? Choose a fix. Say why it should work. Then do it.
+  *Child mode:* Choose a fix for each place. Say why it should work. Then do it.
   - Ask: Why does wax help a zip but a rubber band help a jar lid? (good: Wax is a lubricant, so it makes friction smaller.; Rubber grips well, so it makes friction bigger.)
   - Note: Wax and soap work well on zips and wooden drawers. Oil suits metal hinges and bolts. Wipe away extra oil, because oil collects dust.
   - Wait: Do this on day 2
@@ -532,12 +532,12 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 ## Challenges
 ### c1 · The Escape Lane: stop a runaway marble in 20 centimetres (30 min)
 - **problem:** Let a marble go from the 30 centimetre mark of the Stopping Distance ramp. It must stop within 20 centimetres of the end of the channel. Only the surface under the marble may stop it.
-- **your turn:** Now design your own escape lane. Draw it, build it and test it 3 times. What was the mean stopping distance? Which idea from real roads does your lane use?
+- **your turn:** Now design your own escape lane. Build it and test it 3 times. What was the mean stopping distance? Which idea from real roads does your lane use?
 - **constraints:** Nothing may stand in the marble's way: no walls, bumps or holes.; The marble must start from the 30 centimetre mark, with no push.; Use only things from home, and leave the ramp as it was in the Stopping Distance Test.
 - **general:** Fold a towel in four, so the marble rolls on a thick, soft surface.; Use a rough doormat.; Lay a folded blanket at the end of the ramp.
 - **creative:** Fill a large tray with uncooked rice one centimetre deep, and rest the end of the channel inside it. Beds of loose gravel stop runaway lorries on some steep roads in the same way.; Lay a damp cloth, so the wet fibres hold the marble.; Make the lane from several different strips, with the softest one last.
 - **s1 (6 min)**  
-  *Parent does:* 1. Set up the ramp as in the Stopping Distance Test, with a bedsheet at the bottom. 2. Roll the marble from the 30 centimetre mark 3 times. 3. Find the mean distance. 4. Mark a line 20 centimetres from the end of the channel.  
+  *Parent does:* 1. Set up the ramp as in the Stopping Distance Test, with a bedsheet at the bottom. 2. Roll the marble from the 30 centimetre mark 3 times. 3. Find the mean distance: add the three runs and divide by 3. 4. Mark a line 20 centimetres from the end of the channel.  
   *Parent says:* First we need the number to beat. How far does the marble roll on the bedsheet from the top mark?  
   *Child mode:* Roll the marble from the top mark 3 times. Find the mean. Mark a line at 20 cm.
 - **s2 (12 min)**  
@@ -546,9 +546,9 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Child mode:* Pick one idea. Say why it should work. Test it 3 times. Find the mean.
   - Ask: Why does a soft, thick surface stop the marble sooner? (good: The marble sinks in and has to squash the surface as it rolls.; The force against the marble is bigger, so its energy is used up in a shorter distance.)
 - **s3 (12 min)**  
-  *Parent does:* 1. Your child designs a lane of their own and draws it. 2. They build it and test it 3 times. 3. They compare the mean with the 20 centimetre line and with the bedsheet.  
+  *Parent does:* 1. Your child plans a lane of their own and says what each part is for. 2. They build it and test it 3 times. 3. They compare the mean with the 20 centimetre line and with the bedsheet.  
   *Parent says:* Now design your own lane. What will you change, and why? Did it stop the marble before the line?  
-  *Child mode:* Design your own lane. Draw it. Build it. Test it 3 times. Did the marble stop in time?
+  *Child mode:* Plan your own lane. Build it. Test it 3 times. Did the marble stop in time?
   - Note: A tray of rice usually stops the marble within a few centimetres. The marble must stop before the far rim, or the rim counts as a wall. Wash the rice before cooking it.
   - Check: A bed of loose gravel stops a runaway lorry in a short distance. Why? → **The gravel pushes against the wheels with a very big force**
 ### c2 · The Cool Coin: 80 strokes with the least heat (25 min)
@@ -563,7 +563,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Child mode:* Rub 80 firm strokes on plain cardboard. The judge scores the warmth. Write it down.
 - **s2 (10 min)**  
   *Parent does:* 1. Look at the usual ideas: oil, powder and wax. 2. Your child chooses one and says why it should work. 3. Rub a cool coin for 80 firm strokes and get the score.  
-  *Parent says:* Which lubricant do you want to try first? Why should it keep the coin cooler?  
+  *Parent says:* Oil, powder and wax are lubricants. They make things slippery. Which one do you want to try first? Why should it keep the coin cooler?  
   *Child mode:* Pick oil, powder or wax. Say why it should work. Rub 80 strokes. Get the score.
   - Ask: How does a lubricant keep the coin cooler? (good: It makes the friction force smaller.; A smaller force over the same distance turns less energy into heat.)
 - **s3 (9 min)**  

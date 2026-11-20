@@ -307,14 +307,14 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
   *Child mode:* Cut out the cards and the mat. Read the six spaces. Mix the cards and make a pile.
 - **s2 (14 min)**  
   *Parent does:* 1. Take turns to read the top card. 2. Say if a germ causes the disease, and name the road. 3. Turn the card over to check. 4. Score the points and place the card on the mat.  
-  *Parent says:* Read the card aloud. Does a germ cause this disease? If yes, how does the germ reach the next person? Or is there no germ at all?  
+  *Parent says:* Take turns. Read the card aloud and give your answer. Then turn the card over to see if you were right.  
   *Child mode:* Read the card. Does a germ cause it? Name the road, or say no germ. Then turn it over.
   - Ask: Malaria is infectious, but a person with malaria is safe to sit beside. Which space shows why? (good: Insects and ticks. The germ needs a mosquito to carry her from one person to the next.)
   - Ask: Which card made you change your mind about how a disease spreads? (good: Any card, with a reason. For example scabies, which passes by touch, or hepatitis B, which passes by blood.)
   - Note: A good answer names the road and says what carries the germ. For no-germ cards, listen for 'it starts inside the body' or 'it comes from food, genes or smoke'. Hepatitis B and C are blood diseases. HIV is on the blood space as well.
 - **s3 (3 min)**  
   *Parent does:* 1. Count your points. 2. Look at the NO GERM space together. 3. Ask which disease surprised you most.  
-  *Parent says:* Count your points. Look at the NO GERM pile. Which of these is the surprise? Which diseases can nobody catch from you?  
+  *Parent says:* Look at the NO GERM pile. Which diseases can nobody catch from you? Why do you think there is no germ?  
   *Child mode:* Count your points. Look at the NO GERM pile. Which card surprised you most?
   - Check: Scabies and malaria are both infectious. Why are they on different spaces? → **Scabies passes by touch, malaria by a mosquito bite**
 ### g2 · Which Shield? A game of stopping illness before it starts (20 min)
@@ -327,7 +327,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
   *Child mode:* Cut out the cards and the mat. Read the seven shields. Mix the cards and make a pile.
 - **s2 (14 min)**  
   *Parent does:* 1. Take turns to read the top card. 2. Say the best shield and what it blocks. 3. Turn the card over to check.  
-  *Parent says:* Read the card aloud. Which road or cause is at work here? Which shield blocks that road? Why would the other shields not help?  
+  *Parent says:* Take turns. Read the card aloud and give your answer. Then turn the card over. If you were wrong, say why the other shields would not help.  
   *Child mode:* Read the card. Which shield fits? Say what it blocks. Then turn the card over.
   - Ask: A mask does nothing against malaria. Why not? (good: Malaria travels by a mosquito bite, not through the air.; A mask blocks the air road, and malaria does not use it.)
   - Ask: Which cards could a single family not fix alone? (good: The town's well after the floods.; Anything that needs clean piped water, drains or vaccine supplies for everyone.)
@@ -335,7 +335,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - **s3 (3 min)**  
   *Parent does:* 1. Count your cards. 2. Look at the CHANGE THE CAUSE pile. 3. Ask why this shield has no germ to block.  
   *Parent says:* Look at the CHANGE THE CAUSE pile. What is different about these illnesses? Why can a vaccine or a net not help here?  
-  *Child mode:* Count your cards. Look at the CHANGE THE CAUSE pile. What is different about these illnesses?
+  *Child mode:* Count your cards. Then look at the CHANGE THE CAUSE pile together.
   - Check: A family boils all their water. Which illness does this shield not protect against? → **Diabetes**
 
 ## Experiments
@@ -343,12 +343,12 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - **question:** Two streets have the same number of ill houses. One illness is catching and the other is not. Is there anything on a map that shows which is which?
 - **predict:** Guess first. Both maps will end with the same number of ill houses. Which of these will be different on the two maps: where the ill houses are, how many fall ill each day, or nothing at all? On the map where the illness is not catching, will any ill houses stand side by side? Why do you think so? Write your guess and your reason.
 - **fair test:** Both maps have 36 houses, the same die and the same number of ill houses at the end. Only the rule for falling ill changes. On map A a house can fall ill only from an ill neighbour. On map B the die picks houses anywhere.
-- **record:** Fill in the table for map A and map B. Draw a bar chart of the new ill houses on each day, one chart for each map. Then say what you thought would happen, what you saw, and why it happened. Write one sentence for each.
+- **record:** Fill in the table for map A and map B. Make a bar chart of the new ill houses on each day, one chart for each map. Draw it, or stack coins, one stack for each day. Then say what you thought would happen, what you saw, and why it happened. Write one sentence for each.
 - **results table:** Map | Ill houses in all | Days it took | New ill houses on each day | Ill houses beside an earlier ill house
 - **s1 (6 min)**  
   *Parent does:* 1. Draw two grids of 6 rows and 6 columns. 2. Number the rows 1 to 6 down the side and the columns 1 to 6 along the top. 3. Label one grid 'A: catching' and the other 'B: not catching'. 4. Read the question aloud and ask for a guess and a reason.  
   *Parent says:* Each square is one house. Both maps will end with the same number of ill houses. What do you think will be different about them? Why do you think so?  
-  *Child mode:* Draw two grids of 36 houses. Number the rows and the columns. Label them A and B. Now guess what will be different. Write your reason.
+  *Child mode:* Draw two grids of 36 houses. Number the rows and the columns. Label them A and B. Then tell your grown-up what you guess will be different, and why.
   - Note: Many children guess that nothing on the map can show it, or that the catching map will simply have more ill houses. Write the guess down and do not correct it.
 - **s2 (10 min)**  
   *Parent does:* 1. On map A, write 1 in the house at row 3, column 3. 2. For day 2, find each well house that shares a side with the house marked 1. 3. Roll once for each. On 1, 2, 3 or 4, write 2 in that house. 4. For day 3, do the same around every house marked 2. 5. Go on, one day at a time. Finish the day on which the map reaches 12 ill houses, then stop.  
@@ -378,7 +378,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - **s6 (4 min)**  
   *Parent does:* 1. Ask your child to point at any one ill house on map B. 2. Ask whether that one house alone shows which map it is on. 3. Ask for the three sentences: what I thought, what I saw, why it happened.  
   *Parent says:* Point at one ill house. Looking at that house alone, could you tell which map this is? So what did you have to look at?  
-  *Child mode:* Point at one ill house. Does that house alone show which map this is? Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Point at one ill house on map B. Then say what you thought would happen, what you saw, and why it happened.
   - Ask: What did you have to look at to tell the maps apart? (good: Many houses together.; Where the ill houses were and when each one fell ill.)
   - Note: A strong answer says that one ill house looks the same on both maps. The difference is in how the ill houses are joined in place and in time. This is how real diseases are sorted into catching and not catching.
   - Think: A doctor sees one ill person at a time. Who would be able to see the whole map?
@@ -391,17 +391,17 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - **s1 (5 min)**  
   *Parent does:* 1. Draw two blocks of 30 circles, in 5 rows of 6. 2. Label one 'No tobacco' and the other 'Tobacco'. 3. Explain the two rules. 4. Ask for the guesses and reasons, and write them down.  
   *Parent says:* Each circle is one person, followed for many years. Without tobacco, only a 1 means illness. With tobacco, a 1, 2 or 3 means illness. What will happen in each group? Why?  
-  *Child mode:* Draw two groups of 30 circles. Label them No tobacco and Tobacco. Guess how many fall ill in each group. Will anyone without tobacco fall ill? Write your reasons.
+  *Child mode:* Draw two groups of 30 circles. Label them No tobacco and Tobacco. Guess how many fall ill in each group. Will anyone without tobacco fall ill? Tell your grown-up why.
   - Note: Many children expect nobody in the first group to fall ill and nearly everyone in the second. Write the guess down.
 - **s2 (8 min)**  
   *Parent does:* 1. Start with the 'No tobacco' group. Roll once for each circle. 2. If the roll is 1, colour that circle red. 3. Then do the 'Tobacco' group. Colour a circle red on a roll of 1, 2 or 3. 4. Count the red circles in each group and fill in the table.  
-  *Parent says:* Roll once for each person. The die stands for everything we cannot see: genes, luck and the rest of that person's life.  
+  *Parent says:* Roll once for each person. The die stands for everything we cannot see: luck, the body that person was born with, and the rest of their life.  
   *Child mode:* Roll once for each person. In the first group, colour a 1 red. In the tobacco group, colour 1, 2 and 3 red. Count the red circles.
   - Note: Expect about 5 red circles in the first group, and anything from 2 to 9 is common. Expect about 15 in the tobacco group, and 10 to 20 is common.
 - **s3 (7 min)**  
   *Parent does:* 1. Ask your child to compare the two groups. 2. Point to one red circle in the 'No tobacco' group and ask how that happened. 3. Point to one uncoloured circle in the 'Tobacco' group and ask the same. 4. Point to one red circle in the 'Tobacco' group. Ask whether tobacco made this person ill.  
   *Parent says:* Look at this ill person in the tobacco group. Did the tobacco make them ill? Or would they have fallen ill anyway? How could we know?  
-  *Child mode:* Compare the groups. Find an ill person without tobacco. Find a well person with tobacco. Now point at one ill tobacco user. Was it the tobacco? Could you ever tell?
+  *Child mode:* Compare the groups. Find an ill person without tobacco. Find a well person with tobacco. Then point at one ill tobacco user. Why did that person fall ill?
   - Ask: Did everyone in the tobacco group fall ill? (good: No. About half stayed well.)
   - Ask: For one ill person in the tobacco group, can you tell whether tobacco was the cause? (good: No. A roll of 1 would have made them ill in either group.; Only a 2 or 3 was because of the tobacco, and a real person does not show a number.)
   - Note: This is the heart of the test. The die shows what real life hides. Of about 15 ill people in the tobacco group, about 5 would have been ill without tobacco. Nobody can say which 5.
@@ -429,7 +429,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the bottle, the cap and where the side window will be cut. 2. Explain that the bottle stands for a room and the smoke for fine particles in the air. 3. Ask for a guess and a reason, and write both down.  
   *Parent says:* This bottle is a small room. We will test it closed, with one opening and with two. Which will clear fastest? Why do you think so?  
-  *Child mode:* The bottle is a small room. The smoke is like fine particles in air. Guess which test clears fastest. Write your reason.
+  *Child mode:* The bottle is a small room. The smoke stands for fine particles in the air. Tell your grown-up your guess and why.
   - Note: Many children expect one opening to work nearly as well as two. Write the guess down.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Stand the lit agarbatti in its holder near an open window. 2. Hold the bottle upside down with its mouth 5 centimetres above the tip. Count 30 seconds. 3. Screw the cap on while the bottle is still upside down. 4. Stand the bottle on the table under the slow fan, in front of the dark cloth. 5. Shine the torch through the side. 6. Leave the cap on. At 1, 2 and 3 minutes, write whether the haze is thick, thin or gone.  
@@ -467,7 +467,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - **s2 (10 min)**  
   *Parent does:* 1. For each illness, ask whether another person at home fell ill soon after. 2. Decide which road fits: air, water and food, insects, touch or blood. 3. Write NO GERM if no germ causes it. 4. Write catching or not.  
   *Parent says:* Did someone else at home fall ill soon after? Which road did the germ probably use? Or is there no germ behind it?  
-  *Child mode:* For each illness, did someone else at home fall ill too? Name the road, or write no germ.
+  *Child mode:* For each illness, did someone else at home fall ill too? Name the road the germ used: air, water and food, insects, touch or blood. Or write no germ.
   - Ask: Does one family's list prove that an illness is catching? (good: No. A few cases at home could be chance.; We would need many families, as in the Two Maps Test.)
   - Note: If you are unsure, say so and write a question mark. A doctor or the earlier cards will settle it. Colds are air. Loose motions are usually water and food. Asthma and blood pressure have no germ.
 - **s3 (7 min)**  
@@ -476,23 +476,23 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
   *Child mode:* Count the catching illnesses. Count the others. Which road came up most?
   - Check: Most of a family's illnesses are colds and coughs. Which road do these mostly use? → **Air**
 ### a2 · Incubation Detective: when did the germ get in? (25 min)
-- **record:** Draw one day line from 0 to 30 with three rows of dots, one row for each group. Beside it, write the illness you think each group had, and one sentence of reasons.
+- **record:** Show your day line with three rows of dots, one row for each group. Draw it, or take a photo. Beside it, write the illness you think each group had, and one sentence of reasons.
 - **s1 (6 min)**  
   *Parent does:* 1. Draw a line of days from 0 to 30. 2. Read the table: flu 1 to 4 days, typhoid 6 to 30 days, chickenpox 10 to 21 days. 3. Explain that each visitor came on day 0 and was ill.  
   *Parent says:* Each group met one ill visitor on day 0. The days between the visit and the first symptom are the incubation period. Each illness has its own usual range.  
   *Child mode:* Draw a day line from 0 to 30. Read the three ranges. Day 0 is the visit.
   - Note: Typhoid most often shows up after one to two weeks, so the range is wide. Chickenpox is passed on from about one or two days before the rash. Many people can pass on a germ before they feel ill.
 - **s2 (10 min)**  
-  *Parent does:* 1. Group P has first symptoms on days 2, 2, 3 and 4. 2. Group Q has them on days 7, 9, 12 and 21. 3. Group R has them on days 11, 13, 14 and 17. 4. Mark each as a dot on the line, one row for each group.  
+  *Parent does:* 1. Group P has first symptoms on days 2, 2, 3 and 4. 2. Group Q has them on days 7, 9, 12 and 21. 3. Group R has them on days 11, 13, 14 and 17. 4. Mark each one on the line with a dot or a bean, one row for each group.  
   *Parent says:* Here are the days when each person in each group first felt ill. Put a dot on the line for each. Then tell me what you notice.  
-  *Child mode:* Mark each first-symptom day as a dot. Use one row for each group. What do you notice?
+  *Child mode:* Mark each first-symptom day with a dot or a bean. Use one row for each group. What do you notice?
   - Ask: Which group can you name from the days alone? (good: Group P. Only flu shows its first symptoms in 1 to 4 days.)
   - Ask: Groups Q and R overlap. What else would you ask to tell them apart? (good: The symptoms: a slowly rising fever with stomach pain, or itchy blisters.; Where the people ate, and whether they had a rash.)
   - Note: Group P is flu. Group Q is typhoid, and group R is chickenpox. The ranges overlap, so the days alone cannot name Q and R. A doctor uses days and symptoms together.
 - **s3 (9 min)**  
   *Parent does:* 1. Ask how long a visitor with flu leaves children at risk. 2. Ask the same for chickenpox. 3. Ask why a person well on day 5 may still be at risk after a chickenpox visit.  
   *Parent says:* A child is well on day 5 after a visitor with flu. Is that child probably safe from that visit? What about after a visitor with chickenpox? Why is it different?  
-  *Child mode:* Well on day 5 after flu: probably safe. Well on day 5 after chickenpox: not yet. Why?
+  *Child mode:* Look at the flu range and the chickenpox range. Where does day 5 fall in each?
   - Note: Flu is over its incubation period in about 4 days, so day 5 is nearly safe. Chickenpox needs up to 21 days. This is why a child exposed to a disease may be kept at home for a set number of days.
   - Check: A child is well 22 days after meeting a visitor who had chickenpox. What is most likely? → **The child did not catch it from that visit**
 ### a3 · Our Emergency Card: who to call and what to say (25 min)
@@ -505,30 +505,30 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - **s2 (9 min)**  
   *Parent does:* 1. Heart attack: heavy chest pain that spreads to the arm or jaw, with sweating. 2. Stroke: face droops, one arm is weak, speech is unclear, all of a sudden. 3. Dehydration: dry mouth, sunken eyes, very little urine. 4. Write each on the card with the action: call 108 now, or give ORS in sips.  
   *Parent says:* A stroke comes suddenly. Look at the face, the arms and the speech. If any one is wrong, call 108 at once. Every minute counts.  
-  *Child mode:* Write the warning signs on the card. For a heart attack or stroke, call 108 now. For dehydration, give ORS in sips.
+  *Child mode:* Write the warning signs on the card. For a heart attack or stroke, call 108 now. For dehydration, give ORS in sips. ORS is a salt and sugar drink mixed in clean water.
   - Ask: Why does time matter so much in a heart attack or a stroke? (good: The part of the body beyond the blocked artery gets no oxygen.; Its cells begin to die within minutes.)
   - Note: Add the dog bite rule: wash the bite with soap and running water for 15 minutes, then see a doctor the same day. A fever of more than two days, or a cough of more than two weeks, needs a test.
 - **s3 (8 min)**  
   *Parent does:* 1. A grown-up plays the operator. 2. Your child calls. 3. They say their name, the address, who is ill and what happened, in four short sentences. 4. Swap roles once.  
-  *Parent says:* Hello, this is the ambulance. What is your emergency? Your child answers with four sentences: who they are, where they are, who is ill and what happened.  
+  *Parent says:* You are the operator. Say: Hello, this is the ambulance. What is your emergency? Then listen to the whole answer.  
   *Child mode:* Pretend to call 108. Say your name. Say where you are. Say who is ill and what happened.
   - Check: A grown-up's face droops, one arm is weak and speech is slurred, all of a sudden. What do you do first? → **Call 108 at once**
 ### a4 · The Clinic Register: which chart shows a catching illness? (25 min)
-- **record:** Draw three bar charts side by side. Under each, write its shape in two words, and your guess for the illness. Then write one sentence on what a chart cannot tell you.
+- **record:** Keep your chart X beside the numbers for Y and Z. For each, write its shape in two words, and your guess for the illness. Then write one sentence on what a chart cannot tell you.
 - **s1 (5 min)**  
   *Parent does:* 1. Chart X is children absent with fever at one school, on days 1 to 14: 1, 1, 3, 5, 9, 14, 16, 12, 8, 4, 2, 1, 1, 0. 2. Chart Y is new asthma visits at one clinic, on days 1 to 14: 4, 3, 5, 4, 6, 4, 3, 5, 4, 5, 3, 4, 5, 4. 3. Chart Z is new dengue cases in one city, in weeks 1 to 10: 2, 3, 6, 12, 25, 40, 48, 30, 15, 6.  
   *Parent says:* A clinic writes down its numbers each day. Here are three sets. We will draw each as a chart, and then ask what each shape could mean.  
   *Child mode:* Read the three sets of numbers. Chart X is a school. Chart Y is a clinic. Chart Z is a city.
   - Note: Take the numbers one set at a time. Draw each chart with its own title. All numbers are made up, to show shapes.
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw the three charts on squared paper. 2. For each, write the days or weeks along the bottom. 3. Colour the tallest bar of each chart red.  
-  *Parent says:* Draw a bar for each number. Draw all three. Which chart goes up and then down? Which one stays about the same?  
-  *Child mode:* Draw a bar for each number. Draw all three charts. Colour the tallest bar red.
+  *Parent does:* 1. Draw chart X on squared paper. 2. Write the days along the bottom. 3. Colour the tallest bar red. 4. For charts Y and Z, run a finger along the numbers and show the shape with your hand: up, down or flat.  
+  *Parent says:* Draw a bar for each number of chart X. Then look at the numbers of Y and Z. Which chart goes up and then down? Which one stays about the same?  
+  *Child mode:* Draw a bar for each number of chart X. Colour the tallest bar red. Run your finger along Y and Z and show the shape with your hand.
   - Ask: Which chart stays about the same from day to day? (good: Chart Y, the asthma visits.)
 - **s3 (10 min)**  
   *Parent does:* 1. Ask what shape chart X has. 2. Ask why a catching illness climbs fast and then falls. 3. Ask what could keep chart Y steady. 4. Ask what chart Z cannot tell you about how dengue spreads.  
   *Parent says:* Chart X climbs, peaks and falls. Why would a catching illness do that? Chart Y stays flat. What could cause that? What can chart Z not tell us?  
-  *Child mode:* Chart X climbs and falls. Why? Chart Y stays flat. Why? What can a chart not tell you?
+  *Child mode:* Say the shape of each chart in two words. What could each shape mean?
   - Ask: Why does a catching illness first climb and then fall? (good: Each ill person passes it on, so cases grow.; Later, fewer people are left who can catch it, or people take protection.)
   - Ask: Charts X and Z have the same shape. Does that show that both pass from person to person? (good: No. Dengue passes by mosquito bites.; A chart shows that many cases are linked. It does not show the road.)
   - Note: Chart X fits flu. Chart Y fits a not-catching illness such as asthma. Chart Z fits dengue after the monsoon. The shape tells you that cases are joined, and not which road joins them.
@@ -542,8 +542,8 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
   - Note: True: claim 4. False: claims 1, 2, 3, 5 and 6. Claim 2 has a twist. A few cancers are started by a germ, such as HPV, but the cancer itself is never catching. For claim 6, a person soon becomes much less likely to pass on TB once medicine begins. They must keep taking every dose.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child picks two false claims. 2. They write a reply of two short sentences. 3. The first sentence gives the fact. 4. The second is kind to the person who has the illness.  
-  *Parent says:* Pick two false claims. Write what you would say to a friend who believes one. First say the fact. Then say something kind to the person who has the illness.  
-  *Child mode:* Pick two false claims. Write two sentences for each. First the fact. Then something kind.
+  *Parent says:* Pick two false claims. Say or write what you would say to a friend who believes one. First say the fact. Then say something kind to the person who has the illness.  
+  *Child mode:* Pick two false claims. For each, say or write two sentences. First the fact. Then something kind.
   - Ask: Why do people fear an illness before they know how it travels? (good: They do not know the road, so they fear everything.; Fear is quicker than facts.)
   - Note: A strong reply sounds like this: 'HIV does not pass by hugging. Our classmate is just like us, and I want to sit with her.' Praise the fact and the kindness.
 - **s3 (4 min)**  
@@ -555,7 +555,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 ## Projects
 ### p1 · Ten Grown-Ups, Three Questions: which illnesses do people remember? (60 min, 5 days)
 - **safety:** A grown-up goes with you when you ask neighbours. Ask only people who agree. Write no names. Do not ask about private matters such as HIV. Any person may skip a question.
-- **record:** Your report has five parts on one page: my question, my guess, my results chart, what I found, and what I would ask next. Draw one bar for each road or cause.
+- **record:** Your report has five parts on one page: my question, my guess, my results chart, what I found, and what I would ask next. Show one bar for each road or cause, drawn or made with counters.
 - **schedule:** day 1: Write your three questions and your guess. Ask the first two grown-ups. (15 min); day 2: Ask three more grown-ups and write the answers. (10 min); day 3: Ask the last five grown-ups and write the answers. (10 min); day 4: Sort all the answers into catching and not catching. Count each road and cause. (15 min); day 5: Draw a bar chart and write your one-page report. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Write the questions. Question 1: What illness do you remember most from the last year? Question 2: Did anyone else at home fall ill with it? Question 3: Does anyone in your home have an illness that has lasted for years? 2. Write your guess: which road or cause will come up most, and why?  
@@ -575,16 +575,16 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
   - Ask: Which came up most: a catching illness or a not-catching one? (good: Usually a catching illness, because colds and fevers are common.)
   - Check: Most people remember colds and fevers. Yet non-infectious diseases cause six in ten deaths in India. Why can both be true? → **Colds are common but rarely kill, and long illnesses last for years**
 - **s4 (15 min)**  
-  *Parent does:* 1. Draw a bar chart with one bar for each road or cause. 2. Write a one-page report with five parts: question, guess, chart, what I found, what to ask next. 3. Say if your guess was right and what surprised you.  
+  *Parent does:* 1. Make a bar chart with one bar for each road or cause. Draw it, or stack one counter for each answer. 2. Write a one-page report with five parts: question, guess, chart, what I found, what to ask next. 3. Say if your guess was right and what surprised you.  
   *Parent says:* Draw one bar for each road or cause. Then write your report. Was your guess right? What surprised you? What would you ask next?  
-  *Child mode:* Draw a bar chart. Write your report in five short parts. Say if your guess was right.
+  *Child mode:* Make your bar chart. Write your report in five short parts.
   - Ask: Ten people is a small sample. What could you do to trust the result more? (good: Ask many more people, from different places and ages.; Ask people in other towns too.)
   - Note: A strong report says what the chart shows and what it cannot show. Ten people from one place cannot tell you about all of India. It is a start.
 
 ## Challenges
 ### c1 · The Waiting Room: where should eight people sit? (40 min)
 - **problem:** A small clinic has a waiting room that is 4 metres long and 3 metres wide. It has one door on a short wall and one window on the opposite wall. It has a ceiling fan and no air conditioner. Eight people wait at once, and one has a cough. Plan where each person sits, and which openings stay open, so that the germs in the cough reach as few people as possible.
-- **your turn:** Now draw your plan on squared paper. Show the door, the window, the fan, the eight seats and the person with the cough. Add arrows for the air. Ask a grown-up to check it, and to say what they would change.
+- **your turn:** Now draw the room on squared paper. Show the door, the window and the fan. Use coins for the eight seats, with a red mark on the person with the cough. Add paper arrows for the air. Ask a grown-up to check it, and to say what they would change.
 - **constraints:** The room has only one door and one window. No new windows may be added.; Every seat is at least 1 metre from the next.; The person with the cough must still be able to reach the doctor's door.; You must show which way the air moves, using something you tested.
 - **general:** Open the window and the door, so that the air flows through the room.; Seat people in a line across the room, away from the straight path between the door and the window.; Put the person with the cough near the opening where the air leaves, so the air carries the cough out.; Ask people to wait outside when the room is full.
 - **creative:** Put a table fan in the window, blowing outward. It pulls the old air out and lets fresh air in at the door.; Give appointments at fixed times, so fewer people wait together.; Put chairs in a shaded passage outside, where there is more moving air than inside.; Mark the seats with tape on the floor, so everyone keeps 1 metre apart.
@@ -594,15 +594,15 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
   *Child mode:* Read the problem. Which seats are worst? Say why.
   - Ask: Why is a closed room worse than one with open windows? (good: The fine particles from a cough stay in the room.; With no fresh air coming in, they build up.)
 - **s2 (12 min)**  
-  *Parent does:* 1. In a room at home, open the door and the window on different walls. 2. Hold the streamer in the middle, near the window and near the door. 3. Draw an arrow for the way it blows at each place. 4. Then shut the window and repeat. 5. Then turn on the fan and repeat.  
-  *Parent says:* Hold the streamer still in the middle of the room. Which way does it move? Do it near the window, and near the door. Draw what you see.  
-  *Child mode:* Hold the streamer in the middle, then at the window, then at the door. Draw an arrow for each.
+  *Parent does:* 1. In a room at home, open the door and the window on different walls. 2. Hold the streamer in the middle, near the window and near the door. 3. At each place, lay a paper strip as an arrow pointing the way it blows. 4. Then shut the window and repeat. 5. Then turn on the fan and repeat.  
+  *Parent says:* Hold the streamer still in the middle of the room. Which way does it move? Do it near the window, and near the door. At each place, lay down a paper strip to point the way it moves.  
+  *Child mode:* Hold the streamer in the middle, then at the window, then at the door. Lay a paper strip at each place, pointing the way it blows.
   - Ask: What happens to the streamer when the window is shut? (good: It hangs still or hardly moves.; The air in the room does not flow.)
   - Note: The air may move in the opposite direction on another day, since the wind changes. Check the streamer each time. With both openings open, the streamer should move steadily from one side to the other.
 - **s3 (14 min)**  
-  *Parent does:* 1. Draw the room on squared paper, 8 squares by 6. 2. Mark the door and window. 3. Draw the arrows from your streamer test. 4. Mark eight seats at least 2 squares apart. 5. Mark the person with the cough in red.  
-  *Parent says:* Now draw your plan. Where does the air go? Where should the person with the cough sit? Who sits where the air is freshest?  
-  *Child mode:* Draw the room. Add the arrows. Mark eight seats. Mark the person with the cough in red.
+  *Parent does:* 1. Draw the room on squared paper, 8 squares by 6. 2. Mark the door and window. 3. Put your paper strips on the plan where they blew. 4. Put eight coins on the plan as seats, at least 2 squares apart. 5. Put a small piece of red paper on the coin for the person with the cough.  
+  *Parent says:* Now make your plan. Where does the air go? Where should the person with the cough sit? Who sits where the air is freshest?  
+  *Child mode:* Draw the room. Put your paper strips on it. Put eight coins down as seats. Mark the person with the cough in red.
   - Note: Good plans seat the person with the cough near the opening where the air leaves. They are not upwind of the others. Seats a metre apart also help.
 - **s4 (8 min)**  
   *Parent does:* 1. Show the plan to a grown-up. 2. Ask what they would change. 3. Write one thing you would change.  
@@ -627,7 +627,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
   - Ask: Would a mask help against the ticks or the mosquitoes? (good: No. Ticks and mosquitoes reach people by a bite, not through the air.)
   - Note: Check that each protection matches its road. Boiling water blocks the water road. Long sleeves and a skin check block ticks. A net blocks mosquitoes. Fresh air and a covered cough thin out the air road.
 - **s3 (12 min)**  
-  *Parent does:* 1. Write one line on what happens if a child gets a fever. 2. Write one line on what happens if a child has loose motions. 3. Add the signs of dehydration and the ORS rule. 4. Show the plan to a grown-up.  
+  *Parent does:* 1. Write one line on what happens if a child gets a fever. 2. Write one line on what happens if a child has loose motions. 3. Add the signs of dehydration, and how to give ORS, a salt and sugar drink, in small sips. 4. Show the plan to a grown-up.  
   *Parent says:* A child has a fever on day two. What do the teachers do? A child has loose motions. What do the teachers do? Write each as one line.  
   *Child mode:* Write what the teachers do for a fever. Write what they do for loose motions. Show your plan.
   - Check: A child at camp has loose motions three times in an hour. What should the teachers do first? → **Give ORS in small sips and call for medical advice**

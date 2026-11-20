@@ -526,7 +526,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about real waters of India and the world. Each card names one water. You decide if it is fresh, salty or in between, and say why. The answer is on the back.",
+   "context": "This is a card game about real waters of India and the world. Each card names one water. You decide if it is fresh, salty or in between (a little salty, called brackish), and say why. The answer is on the back.",
    "printables": [
     {
      "kind": "cards",
@@ -707,7 +707,7 @@
      "mins": 4,
      "do": "Count the cards. Then look at the IN BETWEEN column together and ask the question below.",
      "say": "Look at the waters under IN BETWEEN. What do most of them have in common?",
-     "kid": "Count your cards. Look at the IN BETWEEN waters. What do they share?",
+     "kid": "Count your cards. Then look at the IN BETWEEN column.",
      "ask": [
       {
        "q": "What do most of the IN BETWEEN waters have in common?",
@@ -891,8 +891,8 @@
      "id": "s3",
      "mins": 4,
      "do": "After the game, ask the two questions below.",
-     "say": "On which square did your drop wait longest? Where did every fresh drop end up at last?",
-     "kid": "Where did your drop wait longest? Where did every fresh drop end up?",
+     "say": "The game is over. Now think back over the journey of your drop.",
+     "kid": "Remember where your drop waited, and where it ended.",
      "ask": [
       {
        "q": "Where did every fresh drop end up at last?",
@@ -1033,7 +1033,7 @@
      "mins": 8,
      "do": "1. Label the bowls A and B. 2. Pour 1 tumbler of water into each. 3. Stir 1 level teaspoon of salt into bowl B until the water is clear. 4. Put 2 tablespoons from bowl B into the katori marked START. 5. Ask for the guesses and the reasons, and write them down.",
      "say": "Bowl B is now nearly as salty as the sea. We will freeze about half of it. Which will taste saltiest: this water, the ice, or the liquid left over? Why do you think so?",
-     "kid": "Make bowl B salty. Save two spoons as START. Which will be saltiest? Why?",
+     "kid": "Make bowl B salty. Save two spoons as START.",
      "ask": [
       {
        "q": "Which bowl do you think will show ice first, and why?",
@@ -1061,7 +1061,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Take bowl B out. Break up the ice with a spoon. 2. Pour everything through the strainer into the LEFT OVER katori. 3. Hold the strainer of ice under a thin stream of tap water for 3 seconds. 4. Tip the ice into the ICE katori. Stand the katori in a bowl of warm water until the ice melts.",
-     "say": "The strainer holds the ice, and the katori holds the liquid that did not freeze. We rinse the ice for three seconds only. Why do you think we rinse it?",
+     "say": "The strainer holds the ice, and the katori holds the liquid that did not freeze. We rinse the ice for three seconds only.",
      "kid": "Strain off the liquid. Rinse the ice for three seconds. Let the ice melt.",
      "ask": [
       {
@@ -1108,7 +1108,7 @@
      "id": "s6",
      "mins": 6,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they tasted, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. The salt did not leave the bowl. So where is it now?",
+     "say": "The salt did not leave the bowl. So where is it now?",
      "kid": "Say what you thought would happen. Say what you tasted. Say why it happened.",
      "ask": [
       {
@@ -1181,7 +1181,7 @@
      "what": "Cut and measure six potato sticks, and put two in each tumbler. One hour later, measure and bend them, and say what happened."
     }
    ],
-   "record": "Fill in the table, with one row for each tumbler. Use the average of the two sticks. Draw the three sticks being bent.",
+   "record": "Fill in the table, with one row for each tumbler. Use the average of the two sticks. Take a photo of the three sticks being bent, or draw them.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1232,8 +1232,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the potato and the three labelled tumblers. Ask for the guess and the reason, and write both down.",
-     "say": "A potato is made of living cells, and each cell is a tiny bag of watery liquid. Which stick will be stiffest after an hour? Which will bend most? Why do you think so?",
-     "kid": "Three waters, six potato sticks. Which stick will bend most? Why do you think so?",
+     "say": "A potato is made of living cells, and each cell is a tiny bag of watery liquid. We will leave potato sticks in three kinds of water for an hour.",
+     "kid": "Which water will make a stick bend the most? Which will keep it stiffest? Why do you think so?",
      "parent": "Many children expect the salty sticks to swell, because they are sitting in water. Do not correct the guess.",
      "context": "This is the first step of the Potato Test. You guess what plain water and salty water will do to sticks of raw potato."
     },
@@ -1242,7 +1242,7 @@
      "mins": 10,
      "adult": true,
      "do": "1. Fill each tumbler with water. 2. Stir 1 level teaspoon of salt into SEA and 4 into VERY SALTY. 3. Peel the potato and cut 6 sticks, each 60 mm long and as thick as a pencil. 4. Your child measures each stick and writes the length. 5. Put 2 sticks in each tumbler and write the time.",
-     "say": "Measure each stick in millimetres before it goes in. Why do we put two sticks in each tumbler, and not one?",
+     "say": "Measure each stick in millimetres before it goes in. Then put two sticks in each tumbler.",
      "kid": "Measure each stick in millimetres. Put two sticks in each tumbler.",
      "ask": [
       {
@@ -1281,7 +1281,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Which way did the water move in each tumbler?",
+     "say": "Look at your table. What did the sticks in each tumbler do?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1299,8 +1299,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Now link the result to drinking sea water. Ask the question below, and then read the numbers in the note.",
-     "say": "Your body is made of cells too. What do you think happens to your cells if you drink sea water?",
-     "kid": "Your body is made of cells too. What would sea water do to them?",
+     "say": "Now think about drinking sea water. Your body is made of cells too, just like the potato.",
+     "kid": "Your cells are like the potato's cells. Think about the sticks in very salty water.",
      "ask": [
       {
        "q": "What happens to a person's cells if they drink sea water?",
@@ -1370,7 +1370,7 @@
      "what": "Make the ice cubes the night before. Then set up both tumblers, wait about an hour for the ice to melt, measure the change and say what you found."
     }
    ],
-   "record": "Draw both tumblers before and after, with the water line. Fill in the table. Under it, write one sentence that says which ice raised the water, and one that says why.",
+   "record": "Take a photo of both tumblers before and after, with the band, or draw them. Fill in the table. Under it, write one sentence that says which ice raised the water, and one that says why.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1416,7 +1416,7 @@
      "mins": 4,
      "do": "Show your child the two tumblers, the strainer and the ice. Ask for the guess and the reason, and write both down.",
      "say": "Ice floats in one tumbler and sits above the water in the other. When all of it has melted, which water will be higher? Why do you think so?",
-     "kid": "Ice floats in tumbler A. Ice sits above tumbler B. Which one will rise? Why?",
+     "kid": "Look at tumbler A. Its ice floats. Look at tumbler B. Its ice sits above the water.",
      "parent": "Many children say both rise, because melting adds water. Some say neither. Do not correct the guess.",
      "context": "This is the first step of Ice on Land, Ice on Sea. You guess which tumbler of water will rise when the ice melts."
     },
@@ -1424,7 +1424,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Pour 150 ml of water into tumbler A. Use lukewarm tap water for both tumblers. 2. Put 4 ice cubes into tumbler A. 3. Put a rubber band round tumbler A at the water line, or mark the line with a pen. 4. Pour water into tumbler B until it reaches the same height as the band on A. 5. Mark B in the same way.",
-     "say": "Tumbler A has ice floating in it. We fill tumbler B to the same height, with no ice in it. Why must both lines start at the same height?",
+     "say": "Tumbler A has ice floating in it. We fill tumbler B to the same height, with no ice in it.",
      "kid": "Add 4 cubes to tumbler A. Mark its water line. Fill B to the same height. Mark it.",
      "ask": [
       {
@@ -1472,7 +1472,7 @@
      "id": "s5",
      "mins": 8,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Which tumbler is like the sea ice, and which is like an ice sheet on land?",
+     "say": "Which tumbler is like the sea ice, and which is like an ice sheet on land?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1530,7 +1530,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the bottle, the katori and the three heaps on the plate. Write the number of teaspoons or drops under each.",
+   "record": "Take a photo of the plate with the three heaps, or draw it. Write the number of teaspoons or drops under each.",
    "setup": [
     {
      "art": "A one-litre bottle of water with a label that says EARTH, a teaspoon and a small steel katori beside it on a kitchen counter.",
@@ -1551,7 +1551,7 @@
      "mins": 3,
      "do": "Hold up the full bottle. Say that it stands for all the water on Earth. Ask the question below, and write the guess and the reason.",
      "say": "This bottle is all the water on Earth. How many teaspoons of it are fresh water that people can drink? Why do you think so?",
-     "kid": "The bottle is all of Earth's water. How many teaspoons are fresh? Why?",
+     "kid": "The bottle is all of Earth's water. Guess how much of it is fresh.",
      "ask": [
       {
        "q": "Do you think fresh water is a large share or a small share of all the water?",
@@ -1569,7 +1569,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Use the teaspoon to take 5 level teaspoons from the bottle. 2. Tip them into the katori. 3. Label the katori FRESH. 4. Say that the water left in the bottle is salty.",
-     "say": "These 5 teaspoons are all the fresh water on Earth. Everything left in the bottle is salty. How does that look to you?",
+     "say": "These 5 teaspoons are all the fresh water on Earth. Everything left in the bottle is salty. Is that more or less than you guessed?",
      "kid": "Take 5 level teaspoons from the bottle. They are all the fresh water.",
      "check": {
       "t": "mcq",
@@ -1598,8 +1598,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Look at the plate. Ask the questions below, and listen to the answers before you say anything.",
-     "say": "Look at the three heaps. Which of them can a person reach and drink today? Which is the one that most cities use?",
-     "kid": "Look at the plate. Which water can you reach and drink?",
+     "say": "Look at the three heaps and the one drop. Which one do most cities use?",
+     "kid": "Look at the three heaps and the one drop on the plate.",
      "ask": [
       {
        "q": "Which of the three heaps can people reach and drink today?",
@@ -1628,7 +1628,7 @@
    "title": "One Bottle, Three Forms: freeze it, melt it and find the same water",
    "mins": 25,
    "days": 3,
-   "context": "In this activity you freeze a cup of water and see if the ice is above the water line. You melt it and see if the line comes back. Then you leave the cup open to see what happens to some of the water. It shows the three forms of one water.",
+   "context": "In this activity you freeze a cup of water and see if the ice is above the water line. You melt it and see if the line comes back. Then you leave the cup open to see what happens to some of the water. You find out if ice takes up more room than water, and where the missing water goes.",
    "materials": [
     {
      "item": "a clean plastic cup or a small plastic bottle with the top cut off, 5 to 7 cm wide. Do not use glass",
@@ -1677,7 +1677,7 @@
      "what": "Mark the water line a third time. Say where the water that is missing went."
     }
    ],
-   "record": "Draw the cup three times: full of water, full of ice, and melted. Mark each line, and write the heights in millimetres.",
+   "record": "Take a photo of the cup three times: full of water, full of ice, and melted. Or draw it. Mark each line, and write the heights in millimetres.",
    "setup": [
     {
      "art": "A clear plastic cup with water filled to a tape mark 8 centimetres up from the bottom, in front of an open freezer.",
@@ -1698,7 +1698,7 @@
      "mins": 4,
      "do": "Show your child the cup, and ask the question below. Write the guess and the reason.",
      "say": "We will freeze this water. After the night, where will the top of the ice be: above the line, at the line or below it? Why do you think so?",
-     "kid": "Water freezes into ice. Will the ice be above the line, at it or below? Why?",
+     "kid": "Look at the water in the cup. Guess where the top of the ice will be.",
      "parent": "Many children say the ice will be at the line, because nothing was added. Do not correct the guess.",
      "context": "This is the first step of One Bottle, Three Forms. You guess what freezing does to the amount of room the water takes up."
     },
@@ -1706,7 +1706,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Pour water into the cup until it is 8 cm deep. 2. Stick tape on the outside at the water line. 3. Drop an ice cube into a glass of water and watch it. 4. Put the cup in the freezer, upright and level, for 8 hours or overnight.",
-     "say": "Mark the water line with tape. Then put the ice cube in the glass. Does it sink or float? What does that tell you about ice and water?",
+     "say": "Mark the water line with tape. Then put the ice cube in the glass and watch it.",
      "kid": "Mark the water line with tape. Drop an ice cube in a glass. Put the cup in the freezer.",
      "wait": "Leave the cup in the freezer overnight, for at least 8 hours.",
      "ask": [
@@ -1755,8 +1755,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Day 3. Mark the water line a third time and measure the gap below the first tape. Say what you think happened to the missing water.",
-     "say": "Is the water line lower now? You did not pour anything out. Where did the water go?",
-     "kid": "Is the water lower than before? Where did it go?",
+     "say": "Is the water line lower now? You did not pour anything out.",
+     "kid": "Is the water lower than before?",
      "ask": [
       {
        "q": "The water line is lower and nobody poured any out. Where did the water go?",
@@ -1774,10 +1774,10 @@
   },
   {
    "id": "a3",
-   "title": "The Island Well: draw water from a jar of two layers",
+   "title": "The Island Well: take water from a jar of two layers",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you make a jar with blue salty water at the bottom and clear fresh water on top, as under a small island. You draw samples at two depths with a straw. Then you stir the jar once, like a strong pump.",
+   "context": "In this activity you make a jar with blue salty water at the bottom and clear fresh water on top, as under a small island. You take samples at two depths with a straw. Then you stir the jar, like a strong pump. You find out why island families can drink the thin fresh layer, and what too much pumping does.",
    "materials": [
     {
      "item": "a clear tall jar or tumbler, about 7 cm wide and 10 cm tall",
@@ -1809,7 +1809,7 @@
     }
    ],
    "safety": "Nobody drinks the blue salty water.",
-   "record": "Draw the jar with its two layers, and mark where you took each straw sample. Colour the sample on the plate. Draw the jar again after stirring.",
+   "record": "Take a photo of the jar before and after stirring, and of the samples on the plate. Or draw the jar and mark where you took each sample.",
    "setup": [
     {
      "art": "A clear jar with 5 centimetres of blue salty water, and a spoon held upside down touching the glass just above the water while clear water runs slowly over its back.",
@@ -1830,7 +1830,7 @@
      "mins": 3,
      "do": "Show your child the jar, the salt and the clear water. Ask the question below. Write the guess and the reason.",
      "say": "Under a small island, rain soaks into the sand and meets the sea water. If we pour clear fresh water on blue salt water, what will happen? Why?",
-     "kid": "Clear water goes on blue salt water. Will they mix or stay apart? Why?",
+     "kid": "Clear water goes on blue salt water. Guess what will happen.",
      "parent": "Many children think they will mix at once, as when a drop of ink goes into a glass. Do not correct the guess.",
      "context": "This is the first step of The Island Well. You guess what fresh water does when it is poured on salt water."
     },
@@ -1847,8 +1847,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Close the top of a straw with your thumb. 2. Lower the straw 1 cm into the clear layer. 3. Lift your thumb, count to 3, and close it again. 4. Lift the straw out and let the sample drop on the white plate. 5. Do the same again at the bottom of the jar.",
-     "say": "Take one sample near the top and one near the bottom. What colour is each one? Which is the water an island family could drink?",
-     "kid": "Take a sample from the top. Take one from the bottom. What colour is each?",
+     "say": "Take one sample near the top and one near the bottom. Look at the two drops on the plate. Which one could an island family drink?",
+     "kid": "Take a sample from the top. Take one from the bottom. Put each on the plate.",
      "check": {
       "t": "mcq",
       "q": "In The Island Well, a straw takes a sample from the clear top layer. What colour is it?",
@@ -1868,7 +1868,7 @@
      "mins": 4,
      "do": "Stir the jar three times with a spoon, like a strong pump. Wait 5 minutes. Look at the jar. Then take one sample from the top and put it on the plate.",
      "say": "Stir the jar three times. This is like a pump that pulls too hard. What does the top sample look like now?",
-     "kid": "Stir the jar three times. Wait. Take a top sample. What colour is it?",
+     "kid": "Stir the jar three times. Wait. Take a top sample.",
      "parent": "After the stir the whole jar turns pale blue, and it stays that way. The water is mixed, and the fresh water is no longer fresh.",
      "context": "In this step of The Island Well you stir the jar like a strong pump and take a sample from the top again."
     },
@@ -1876,7 +1876,7 @@
      "id": "s5",
      "mins": 4,
      "do": "Look at the jar and the plate together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. How would you take water from an island's fresh layer?",
+     "say": "How would you take water from an island's fresh layer?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1943,9 +1943,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the world map. Ask the question below. Write the guess and the reason, and draw a pencil ring where they think most of the fresh water is.",
-     "say": "Most of Earth's fresh water is in a few places. Where on this map do you think it is? Draw a ring. Why there?",
-     "kid": "Where is most of Earth's fresh water? Draw a ring. Why there?",
+     "do": "Show your child the world map. Ask the question below. Write the guess and the reason, and let them point to where they think most of the fresh water is. They may draw a pencil ring.",
+     "say": "Most of Earth's fresh water is in a few places. Where on this map do you think it is? Point to it, or draw a ring. Why there?",
+     "kid": "Look at the map. Where is most of Earth's fresh water?",
      "parent": "Children often ring rivers or lakes. Most of the fresh water is ice, near the poles and on high mountains. Do not correct the guess yet.",
      "context": "This is the first step of Pin the Fresh Water. You guess where Earth's fresh water is, before you pin it."
     },
@@ -1973,8 +1973,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Look at the map together. Ask the questions below, and let your child answer from the pins.",
-     "say": "Look at your white pins. Are they close to where most people live? Which pins are in India? Which kind of pin is the most common?",
-     "kid": "Look at the white pins. Are they near where people live?",
+     "say": "Look at all your pins. Which colour is the most common? Which pins are in India?",
+     "kid": "Look at the white pins on the map.",
      "ask": [
       {
        "q": "Look at the white pins. Are they near where most people live?",
@@ -2001,7 +2001,7 @@
    "title": "Mix a Lagoon: make water as salty as Chilika in the monsoon and in summer",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you mix sea-strength salt water with plain water to make a monsoon lagoon and a summer lagoon. You work out how salty each is, and then taste them without knowing which is which.",
+   "context": "In this activity you mix sea-strength salt water with plain water to make a monsoon lagoon and a summer lagoon. You work out how salty each is, and then taste them without knowing which is which. You find out which season makes Chilika saltier.",
    "materials": [
     {
      "item": "table salt, 1 level teaspoon",
@@ -2050,7 +2050,7 @@
      "mins": 3,
      "do": "Say that Chilika is a lagoon where rivers meet the sea. Ask the question below. Write the guess and the reason.",
      "say": "In the monsoon, rivers pour fresh water into Chilika. In summer, the rivers shrink and the sea comes in. When is Chilika saltier? Why?",
-     "kid": "When is Chilika saltier, in the monsoon or in summer? Why?",
+     "kid": "Think about Chilika in the monsoon and in summer. Guess which time is saltier.",
      "parent": "The answer is summer. Children usually guess it right, and the next steps show by how much.",
      "context": "This is the first step of Mix a Lagoon. You guess when the lagoon is saltier."
     },
@@ -2058,7 +2058,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Stir 1 level teaspoon of salt into the tumbler of water. Pour 10 tablespoons into the SEA katori. 2. In MONSOON, put 1 tablespoon of sea water and 9 of plain water. 3. In SUMMER, put 5 tablespoons of each. 4. In PLAIN, put 10 tablespoons of plain water.",
-     "say": "SEA is as salty as the sea. MONSOON has 1 part in 10 of sea water. SUMMER has half. How much salt does each hold?",
+     "say": "SEA is as salty as the sea. MONSOON has 1 part in 10 of sea water. SUMMER has half.",
      "kid": "Make SEA. Make MONSOON with 1 spoon of sea. Make SUMMER with 5 spoons.",
      "parent": "One level teaspoon in 200 ml is about 30 grams in a litre. That is close to the sea, which is about 35. Each katori holds 10 tablespoons, which is about 150 ml.",
      "context": "In this step of Mix a Lagoon you mix sea-strength water with plain water to make two lagoons."
@@ -2076,8 +2076,8 @@
      "id": "s4",
      "mins": 6,
      "do": "Work out the grams of salt in a litre for each katori. SEA holds about 30. MONSOON holds one tenth of that. SUMMER holds half. Write the numbers in the table.",
-     "say": "SEA holds about 30 grams in a litre. MONSOON has one tenth of the sea water, so how many grams? SUMMER has half, so how many?",
-     "kid": "SEA has about 30 grams in a litre. Work out MONSOON and SUMMER.",
+     "say": "SEA holds about 30 grams in a litre. MONSOON has one tenth of the sea water, so how many grams?",
+     "kid": "Work out the grams of salt in a litre for MONSOON and SUMMER.",
      "check": {
       "t": "mcq",
       "q": "In Mix a Lagoon, SUMMER is half sea water and half plain water. About how many grams of salt does a litre of it hold?",
@@ -2160,7 +2160,7 @@
      "mins": 15,
      "do": "Day 1. 1. Ask where your tap water comes from, for example a lake, a river, a borewell or a tanker. 2. Find the tank size, or the daily use on the water bill. 3. If you cannot find it, use 135 litres for each person each day. 4. Multiply by the number of people at home.",
      "say": "Where does our tap water come from? How many litres do we use in a day? Guess first. Then we will find out.",
-     "kid": "Where does our tap water come from? How many litres do we use each day?",
+     "kid": "Find where your tap water comes from. Find how many litres you use a day.",
      "parent": "Day 1 answers set up the sum. A common value for a family of 4 is 135 litres for each person, which is 540 litres a day. The real figure may be lower or higher.",
      "ask": [
       {
@@ -2175,7 +2175,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Day 2. 1. Measure the length and width of the roof over your home in metres. 2. Multiply length by width to get the area in square metres. 3. Find your town's yearly rain in millimetres. 4. Multiply the area by the rain. The answer is litres.",
+     "do": "Day 2. 1. Measure the length and width of the roof over your home in metres. If you live in a flat, measure the floor of your flat instead. 2. Multiply length by width to get the area in square metres. 3. Find your town's yearly rain in millimetres. 4. Multiply the area by the rain. The answer is litres.",
      "say": "One millimetre of rain on one square metre of roof is exactly one litre. How many square metres is our roof? How many litres of rain fall on it in a year?",
      "kid": "Work out the roof area. Multiply it by the yearly rain in millimetres.",
      "parent": "Why one millimetre on one square metre is one litre: a square metre is 100 cm by 100 cm, which is 10,000 square centimetres. One millimetre is a tenth of a centimetre. 10,000 times 0.1 is 1,000 cubic centimetres, which is 1 litre. In a flat, divide the building's roof area by the number of homes. Rough yearly rain, rounded: Chennai about 1,400 mm, Bengaluru about 900, Mumbai about 2,300, Delhi about 800, Kochi about 3,000, Jaisalmer about 200. Look up your own town if you can.",
@@ -2237,7 +2237,7 @@
     "Freeze in a tilted tray, so that the salty liquid runs to one end and can be poured off.",
     "Throw away the first drops and the last drops that come off a thawing block, because they are the saltiest."
    ],
-   "your_turn": "Now invent your own way of making fresh ice from salty water. Draw your method, and write the steps. Say how many tablespoons you ended with, and where the salt went.",
+   "your_turn": "Now invent your own way of making fresh ice from salty water. Write the steps of your method, and draw it if you like. Say how many tablespoons you ended with, and where the salt went.",
    "setup": [
     {
      "art": "A shallow steel bowl of salty water in a freezer, beside a second bowl that holds the melted ice from the first freeze.",
@@ -2257,8 +2257,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Read the problem together. Remember Freeze the Sea. Ask your child for three ideas, and which one they expect to work best.",
-     "say": "In Freeze the Sea, the ice left most of the salt in the liquid. Some salty liquid stayed in the ice. How could we get rid of more of it? Which idea will work best? Why?",
-     "kid": "The ice in Freeze the Sea was still a little salty. How could you get it fresher?",
+     "say": "In Freeze the Sea, the melted ice was fresher than the sea water, but still a little salty. Tell me three ways to make it fresher. Which will work best? Why?",
+     "kid": "Think of three ways to make the ice fresher.",
      "ask": [
       {
        "q": "In Freeze the Sea, why was the melted ice still a little salty?",
@@ -2306,7 +2306,7 @@
      "mins": 8,
      "do": "Look at the results together. Ask the questions below.",
      "say": "Which design made the freshest ice? How much melted ice was left? What do you give up to get fresher ice?",
-     "kid": "Which design was freshest? How much ice was left?",
+     "kid": "Look at your results together.",
      "ask": [
       {
        "q": "What do you give up to get fresher ice?",
@@ -2325,7 +2325,7 @@
    "id": "c2",
    "title": "A Water Plan for a Small Island",
    "mins": 40,
-   "context": "This is a design challenge. In The Well That Moved with the Tide, the island families drew sweet water from a thin layer under the sand. Here you plan the water for a made-up island of 300 people.",
+   "context": "This is a design challenge. In The Well That Moved with the Tide, the island families drew sweet water from a thin layer under the sand. Here you plan the water for a made-up island of 300 people. You find out if rain and wells are enough.",
    "problem": "A made-up coral island has 300 people. Each person needs 40 litres a day for drinking, cooking and washing. The island has 3,000 square metres of roof and 1,500 millimetres of rain a year. Plan where the water comes from for the whole year.",
    "constraints": [
     "The yearly need is 300 people times 40 litres times 365 days.",
@@ -2348,7 +2348,7 @@
     "Use washing water for the coconut palms and the vegetable beds.",
     "Mend leaking pipes and taps first, because a litre that is saved costs nothing to make."
    ],
-   "your_turn": "Now make your own plan for the island. Draw it, and list the litres from the roofs, the wells and the plant. Say how you would keep the wells from turning salty.",
+   "your_turn": "Now make your own plan for the island. List the litres from the roofs, the wells and the plant. Say how you would keep the wells from turning salty. Draw it if you like.",
    "setup": [
     {
      "art": "A drawing of a small coral island with roofs feeding tanks, two shallow wells in the sand, and a small building by the shore marked SEA-WATER PLANT.",
@@ -2360,7 +2360,7 @@
     },
     {
      "art": "A drawing of a shallow well in sand with a thin layer of fresh water floating on blue salty water, and a note about pumping slowly.",
-     "caption": "3. Write how you would draw the well water so that it does not turn salty."
+     "caption": "3. Write how you would pump the well water so that it does not turn salty."
     }
    ],
    "flow": [
@@ -2376,7 +2376,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Work out each source. 1. Rain on the roofs: 3,000 times 1,500 litres. 2. Multiply by 7 tenths. 3. Wells: 2,000 times 365. 4. Add the two. How many litres are still missing?",
+     "do": "Work out each source. 1. Rain on the roofs: 3,000 times 1,500 litres. 2. Multiply by 7 tenths. 3. Wells: they can safely give 2,000 litres a day, so 2,000 times 365. 4. Add the two. How many litres are still missing?",
      "say": "One millimetre of rain on one square metre is one litre. How many litres of rain fall on all the roofs in a year? How much do the tanks catch? How much can the wells give?",
      "kid": "Work out the rain from the roofs. Work out the wells. How much is still missing?",
      "check": {
@@ -2396,9 +2396,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Decide how to fill the gap. The plant makes 2,000 litres a day. How many days a year must it run? Then draw the plan.",
+     "do": "Decide how to fill the gap. The plant turns sea water into drinking water and makes 2,000 litres a day. How many days a year must it run? Then write the plan as a list of sources and litres.",
      "say": "How many litres a year are still missing? The plant makes 2,000 litres a day. How many days must it run? What else could close the gap?",
-     "kid": "Find how many days the plant must run. Draw the plan.",
+     "kid": "Find how many days the plant must run. Write the plan as a list.",
      "parent": "500,000 divided by 2,000 is 250 days. The plant would run most of the year. Saving water, as in the creative ideas, can cut that. Tanks must also store rain for the dry months, so the roofs' water is not all available at once.",
      "context": "In this step of A Water Plan for a Small Island you close the gap and draw your plan."
     },
@@ -2406,8 +2406,8 @@
      "id": "s4",
      "mins": 10,
      "do": "Show the plan to a family member. Ask the questions below.",
-     "say": "Explain your plan. Why do the wells have a limit? What would happen if the island pumped more?",
-     "kid": "Explain your plan. Why do the wells have a limit?",
+     "say": "Explain your plan. What would happen if the island pumped more?",
+     "kid": "Explain your plan to a family member.",
      "ask": [
       {
        "q": "Why do the wells have a limit of 2,000 litres a day?",

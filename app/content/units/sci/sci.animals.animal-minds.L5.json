@@ -829,9 +829,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask each player when they stayed and when they left. Then read out what real hermit crabs did in a test.",
-     "say": "When did you stay through a strong pinch? When did you leave at a weak one? In a real test, crabs in poor shells left at a shock. Crabs in good shells stayed.",
-     "kid": "When did you stay? When did you leave? Real crabs chose the same way.",
+     "do": "Ask each player when they stayed and when they left. Then show the check question, which tells what real hermit crabs did in a test.",
+     "say": "When did you stay through a strong pinch? When did you leave at a weak one?",
+     "kid": "When did you stay? When did you leave?",
      "context": "In this step you compare your choices with what real hermit crabs did in a test.",
      "check": {
       "t": "mcq",
@@ -951,7 +951,7 @@
      "mins": 4,
      "do": "Read the question aloud. Ask your child for both guesses and the reason for each. Write the guesses above the table. Do not say whether you agree.",
      "say": "You will hold ice for no prize, a small prize and a big prize. Will the prize change how long you hold on? Why? Then I will puff air at your eye. Will a prize help you not to blink? Why?",
-     "kid": "Will a bigger prize make you hold the ice longer? Will a prize stop a blink? Say why.",
+     "kid": "Make two guesses, one for the ice and one for the blink. Say why for each.",
      "context": "This is the first step of the Ice and Prize Test. You guess before you test.",
      "ask": [
       {
@@ -1030,7 +1030,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child what the prize changed and what it did not. They write three sentences: what I think, what I saw, and why. Give the explanation in the parent note only after they have finished.",
      "say": "Look at your numbers. What did the prize change? What did it leave almost the same? Write what you think, what you saw, and why you think it happened.",
-     "kid": "What did the prize change? What stayed the same? Write what you think, what you saw, and why.",
+     "kid": "Look at your numbers. Then write three sentences: what I think, what I saw, and why.",
      "context": "In this step you say what the results of the Ice and Prize Test show.",
      "ask": [
       {
@@ -1059,7 +1059,7 @@
    "title": "The Floor Message Test: can a message travel through the ground?",
    "mins": 25,
    "days": 1,
-   "context": "In this test one person sends soft thumps along the floor, and a listener three metres away tries to read them. You compare listening with your ears in the air, with an ear on the floor, and with your bare feet. Elephants pick up each other's rumbles through the ground.",
+   "context": "In this test one person sends soft thumps along the floor, and a listener three metres away tries to read them. You compare listening with your ears in the air, with an ear on the floor, and with your bare feet. You will find out whether feet can catch what ears miss, as elephants do when they feel each other's rumbles through the ground.",
    "question": "Can a message of soft thumps reach a listener through the floor when it is too soft to hear through the air? Which works best: ears in the air, an ear on the floor, or bare feet?",
    "predict": "Guess before you start. Which way of listening will get the most messages right, and which the fewest? Say why you think so.",
    "fair_test": "The same person sends every message, with the pad of one finger, at the same soft strength. The listener is always three metres away with eyes shut. The room is quiet, with the fan and the television off. A die chooses each message, so the sender cannot fall into a pattern. Each way of listening gets six messages. Only the way of listening changes.",
@@ -1209,7 +1209,7 @@
      "mins": 6,
      "do": "Count the right answers for each way. Ask your child what the numbers show, and why they think it happened. They write three sentences: what I think, what I saw, and why. Then read them the parent note.",
      "say": "Count the right answers in each row. Which way of listening worked best? Was any way no better than guessing? Why do you think that happened?",
-     "kid": "Count the right answers. Which way was best? Was any no better than guessing? Why?",
+     "kid": "Count your right answers for each way. Then write three sentences: what I think, what I saw, and why.",
      "context": "In this step you say what the results of the Floor Message Test show.",
      "ask": [
       {
@@ -1241,7 +1241,7 @@
    "title": "Read the Dance: where did the bee send her sisters?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you work out the code of a honeybee's waggle dance from three examples. Then you use it to mark on a map where three dancers found food.",
+   "context": "In this activity you find out how a honeybee tells her sisters where the flowers are, by working out the code of her waggle dance from three examples. Then you use it to mark on a map where three dancers found food.",
    "materials": [
     {
      "item": "plain paper",
@@ -1332,7 +1332,7 @@
    "title": "Saw or Guessed? Ten minutes with one animal",
    "mins": 17,
    "days": 1,
-   "context": "In this activity you watch one animal for ten minutes. You write what they did in one column and what you guess they felt or wanted in another. Scientists who study animal behaviour keep these two apart.",
+   "context": "In this activity you watch one animal for ten minutes. You write what they did in one column and what you guess they felt or wanted in another. You will find out how much of what we say about an animal we really saw. Scientists who study animal behaviour keep these two apart.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1409,7 +1409,7 @@
    "title": "The Middle Note: how a mood test for bees works",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you learn that one note means a sweet and another note means something bitter. Then you hear a note in between. Scientists used a test like this to find out whether shaken honeybees expect the worst.",
+   "context": "In this activity you learn that one note means a sweet and another note means something bitter. Then you hear a note in between and choose what to do, so you find out what you expect when a sign is unclear. Scientists used a test like this to find out whether shaken honeybees expect the worst.",
    "materials": [
     {
      "item": "steel tumblers of the same size",
@@ -1485,7 +1485,7 @@
      "mins": 3,
      "do": "Show the third tumbler. Ask your child what they did at the middle note and why. Then tell them about the honeybee test.",
      "say": "There was a third note in between. What did you do when you heard it? Why? Scientists did this with honeybees and smells. Bees who had just been shaken held back more at the in-between smell.",
-     "kid": "There was a middle note. What did you do? Why? Shaken bees held back more.",
+     "kid": "There was a middle note. What did you do at that note? Why?",
      "context": "In this step of The Middle Note you compare your choice with what honeybees did in a real test.",
      "check": {
       "t": "mcq",
@@ -1508,7 +1508,7 @@
    "title": "The Evidence Checklist: reflex, or more than a reflex?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you check six real findings about animals against a list of four signs. Scientists use lists like this when they ask whether an animal feels pain.",
+   "context": "In this activity you check six real findings about animals against a list of four signs. You will find out how to tell a simple reflex from something more. Scientists use lists like this when they ask whether an animal feels pain.",
    "materials": [
     {
      "item": "paper and a pencil",
@@ -1565,8 +1565,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Count the ticks in each row. Ask your child which finding is the strongest evidence, and which tells us least. Ask what test they would add for the animal with fewest ticks.",
-     "say": "Which finding has the most ticks? Which has none? For an animal with few ticks, what would you test next?",
-     "kid": "Which finding has the most ticks? Which has none? What would you test next?",
+     "say": "Which finding has the most ticks? For an animal with few ticks, what would you test next?",
+     "kid": "Which finding is the strongest? What would you test next?",
      "context": "In this step of The Evidence Checklist you compare the findings and plan one more test.",
      "check": {
       "t": "mcq",
@@ -1664,7 +1664,7 @@
      "mins": 30,
      "do": "On days 2, 3 and 4, watch at the same time for ten minutes. Each day your child writes what the animal did and what happened just before. On day 4 they write one guess about what the animal wants or feels.",
      "say": "Same time, same place. What did they do today? What happened just before? By day 4, write one guess about what they want or feel.",
-     "kid": "Watch at the same time each day. Write what they did. Write what happened just before.",
+     "kid": "Watch at the same time each day. Write what they did and what happened just before. On day 4, add one guess.",
      "context": "These are days 2 to 4 of One Neighbour, Five Days. You look for what changes the way the animal acts.",
      "wait": "Do this once a day for three days",
      "parent": "Help your child look for pairs, such as 'a kite flew over, and all the pigeons left the ledge'. An event followed by the same act on several days is good evidence."
@@ -1756,7 +1756,7 @@
      "mins": 7,
      "do": "Ask your child how a bird could show which food they prefer. Then ask what else, besides liking the food, could make a bird go to one bowl. Write the list.",
      "say": "How could a bird tell you which food they like, without words? What else might make them pick one bowl, apart from the food in it?",
-     "kid": "How could a bird show which food they like? What else might make them pick a bowl?",
+     "kid": "How could a bird show which food they like, without using words?",
      "context": "This is the first step of Ask Without Words. You list what could decide a bird's choice.",
      "ask": [
       {
@@ -1773,9 +1773,9 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "Your child draws a plan that deals with each thing on the list. Then they add a cost. They choose a way to make the favourite food harder to get, in three steps.",
-     "say": "Draw your test. How will you stop the side from deciding it? Now make the favourite food cost more. How far will they go for it?",
-     "kid": "Draw your test. Fix each problem on your list. Then make the favourite food harder to get.",
+     "do": "Your child makes a plan that deals with each thing on the list. They can draw it, or set out the bowls and coin and explain it aloud. Then they add a cost. They choose a way to make the favourite food harder to get, in three steps.",
+     "say": "Show me your test, in a drawing or with the bowls. How will you stop the side from deciding it? Now make the favourite food cost more. How far will they go for it?",
+     "kid": "Draw your test, or set out the bowls and tell it. Fix each problem on your list. Then make the favourite food harder to get.",
      "context": "In this step of Ask Without Words you draw a plan and add a cost to one choice.",
      "parent": "A good plan has the same bowls, a coin for the sides and equal piles. The cost can be distance from a person, a paper lid to push off, or a smaller pile. The idea of a cost comes from this unit's trade-off tests."
     },

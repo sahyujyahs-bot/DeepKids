@@ -776,7 +776,7 @@
      "mins": 5,
      "do": "1. Copy the city sheet onto paper, with 25 boxes for the landfill. 2. Cut out the 24 waste cards and shuffle them. 3. Read the rules aloud together. 4. Ask what the city should buy first, and why.",
      "say": "You are the city council. The landfill has only 25 spaces, and the city makes 6 cards of waste a year. What will you buy first? Why?",
-     "kid": "Copy the city sheet. Draw 25 boxes for the landfill. Shuffle the waste cards. Decide what to buy first.",
+     "kid": "Copy the city sheet with its 25 landfill boxes. Shuffle the waste cards.",
      "parent": "With nothing bought, the landfill takes at least 6 boxes a year and is full in the fifth year. Sorting at home must come first. After that, the dry waste centre takes 10 of the 24 cards and the compost plant takes 8. These two matter most.",
      "context": "This is the first step of The Last Landfill. Here you set up the city sheet and the waste cards, and plan what to buy first."
     },
@@ -809,8 +809,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Count the empty boxes. 2. Ask which purchase saved the most boxes. 3. Ask what the game leaves out. 4. Play again with a different order, and compare the scores.",
-     "say": "How many boxes are still empty? Which thing you bought saved the most space? What does a real city have to think about that this game leaves out?",
-     "kid": "Count the empty boxes. Which thing you bought saved the most space? What does the game leave out?",
+     "say": "How many boxes are still empty? Which thing you bought saved the most space?",
+     "kid": "Count the empty boxes. Find the thing you bought that saved the most space.",
      "ask": [
       {
        "q": "What does a real city have to think about that this game leaves out?",
@@ -984,7 +984,7 @@
      "mins": 6,
      "do": "1. Lay the plastic things on the newspaper. 2. Find the small triangle on each one. It is often on the base. 3. Read the number inside and write it in the table. 4. If a thing has no number, write 'none'.",
      "say": "Every one of these is called plastic. Let's see if they are marked the same. Find the little triangle and read the number inside.",
-     "kid": "Find the small triangle on each plastic thing. Read the number inside. Write it in your table. Write 'none' if there is no number.",
+     "kid": "Find the small triangle on each plastic thing. Read the number inside. Write it in your table, or write 'none'.",
      "parent": "A drink bottle is marked 1. Caps are usually 2 or 5, and often have no mark. Milk packets are 4. Takeaway boxes and most curd cups are 5. Shampoo bottles are 2. Some disposable cups and spoons are 6.",
      "context": "This is the first step of the Float Tank Test. Here you find the number in the triangle on each plastic thing."
     },
@@ -1001,9 +1001,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Fill the bowl with about 1 litre of water. 2. Add 2 drops of dish-washing liquid and stir gently, without making foam. 3. Ask for a guess and a reason for each thing. 4. Write the guesses in the table.",
+     "do": "1. Fill the bowl with about 1 litre of water. 2. Add 2 drops of dish-washing liquid and stir gently, without making foam. This stops air bubbles sticking to the pieces. 3. Ask for a guess and a reason for each thing. 4. Write the guesses in the table.",
      "say": "All of these are plastic. When we push the pieces under water, will they all float, all sink, or will some do each? Why do you think so?",
-     "kid": "Look at your pieces. Will they all float? Will they all sink? Or some of each? Say why. Write a guess for each thing.",
+     "kid": "Look at your pieces. Write 'floats' or 'sinks' as your guess for each thing.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1039,7 +1039,7 @@
      "id": "s5",
      "mins": 6,
      "do": "1. Fill the glass tumbler with 200 millilitres of water. 2. Add 6 level teaspoons of salt and stir for 2 minutes, until almost all of it dissolves. 3. Drop in one piece of each plastic that sank in plain water. 4. Push it under, let go and watch. 5. Write the result in the last column.",
-     "say": "Salt water is denser than plain water. Will a piece that sank in plain water also sink in salt water? Why do you think so?",
+     "say": "Salt water is denser than plain water. That means a cupful of it is heavier than a cupful of plain water. Will a piece that sank in plain water also sink in salt water? Why do you think so?",
      "kid": "Stir 6 teaspoons of salt into a tumbler of water. Drop in each piece that sank before. Does it still sink? Write what you see.",
      "parent": "The drink bottle piece still sinks. A solid piece marked 6 rises to the top, because it is only a little denser than plain water. You may have nothing marked 6 at home. Then the finding is simply that bottle plastic sinks even in salt water.",
      "context": "This step of the Float Tank Test uses salt water. You test whether the pieces that sank in plain water also sink in strong salt water."
@@ -1059,7 +1059,7 @@
      "mins": 5,
      "do": "1. Look at the whole table together. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Only then, explain density. 4. Ask what the numbers 1, 2, 4 and 5 turned out to mean.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why did it happen?",
-     "kid": "Look at your table. Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your table. Tell your grown-up your three answers.",
      "ask": [
       {
        "q": "All the pieces were about the same size. So why did some sink and some float?",
@@ -1222,7 +1222,7 @@
      "mins": 4,
      "do": "1. Open each packet flat and wipe it dry. 2. Cut a piece about 10 centimetres across from each. 3. Lay the pieces in a row, shiny side up. 4. Ask which are metal and which are plastic, and why. 5. Write the guesses in the table.",
      "say": "These are all silver and shiny. Which do you think are metal, like the kitchen foil? Which are plastic? Why do you think so?",
-     "kid": "Lay the wrappers in a row, shiny side up. Which are metal? Which are plastic? Say why. Write your guesses.",
+     "kid": "Lay the wrappers in a row, shiny side up. Write 'metal' or 'plastic' as your guess for each one.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1285,7 +1285,7 @@
      "mins": 5,
      "do": "1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask why a company would stick three materials together. 3. Ask what that does to recycling.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why did it happen?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your table. Tell your grown-up your three answers.",
      "ask": [
       {
        "q": "Why would a company stick paper, plastic and metal together?",
@@ -1406,7 +1406,7 @@
      "mins": 3,
      "do": "1. Explain that every piece will be flattened and put back. 2. Ask how high the same waste will come then. 3. Ask for the reason. 4. Write the guess as a number of centimetres.",
      "say": "We will flatten every piece and put it all back. How high will it come then? About the same, about half, or less? Why do you think so?",
-     "kid": "Every piece will be flattened and put back. How high will the waste come then? Say why. Write your guess in centimetres.",
+     "kid": "Every piece will be flattened and put back. Look at the full bucket. Write your guess in centimetres.",
      "context": "This step of the Crush Test is for guessing. You guess how high the same waste will come after it is flattened, and say why."
     },
     {
@@ -1423,7 +1423,7 @@
      "mins": 4,
      "do": "1. Stand the ruler in the bucket again and read the new height. 2. Write it in the table. 3. Divide the first height by the second height. 4. Say the answer as 'so many times lower'.",
      "say": "Read the new height. Now divide the first height by this one. How many times lower is the flattened waste?",
-     "kid": "Measure the new height. Write it down. Divide the first height by the new height. How many times lower is it?",
+     "kid": "Measure the new height. Write it down. Divide the first height by the new height.",
      "parent": "Most families find the flattened waste is 3 to 5 times lower. With many bottles the difference is larger. With mostly paper it is smaller.",
      "context": "This step of the Crush Test measures the result. You measure the flattened waste and work out how many times lower it is."
     },
@@ -1432,7 +1432,7 @@
      "mins": 4,
      "do": "1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask what was in the bucket the first time, besides waste. 3. Ask what this means for a waste truck.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why did it happen?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened. What does this mean for a waste truck?",
+     "kid": "Look at both heights. Tell your grown-up what you saw and why it happened.",
      "ask": [
       {
        "q": "The amount of plastic and card did not change. So what left the bucket?",
@@ -1472,7 +1472,7 @@
    "title": "Once Alive or Never Alive: sort twelve things",
    "mins": 12,
    "days": 1,
-   "context": "This short activity starts the unit. You sort twelve things from the kitchen and the dry waste by where their material came from. Then you guess which of them decomposers can eat.",
+   "context": "This short activity starts the unit. You sort twelve things from the kitchen and the dry waste by where their material came from. Decomposers are tiny living things, like fungi and bacteria. They eat dead matter and make it rot. You will find out which of the twelve things they can eat.",
    "materials": [
     {
      "item": "a fresh banana peel or vegetable peel, on a saucer",
@@ -1499,7 +1499,7 @@
      "qty": 3
     }
    ],
-   "record": "Draw the three groups in your notebook. Circle the things you think decomposers can eat.",
+   "record": "Keep the three groups on the table, or take a photo of them. Tell your grown-up which things decomposers can eat.",
    "setup": [
     {
      "art": "Twelve things spread on a table: a banana peel on a saucer, newspaper, a cotton rag, a dry leaf, an ice-cream stick, an eggshell, a glass jar, a steel spoon, foil, a plastic bottle and a milk packet.",
@@ -1516,7 +1516,7 @@
      "mins": 3,
      "do": "1. Lay the twelve things on a table. 2. Write three labels: MADE BY A LIVING BEING, MADE FROM ROCK, SAND OR ORE, and NOT SURE. 3. Ask what your child notices about the things, before any sorting.",
      "say": "Here are twelve things we might throw out. Look at them and touch them. What do you notice? What do you wonder?",
-     "kid": "Lay out the twelve things. Look at them and touch them. What do you notice? What do you wonder?",
+     "kid": "Lay out the twelve things. Look at each one and touch it.",
      "context": "This is the first step of Once Alive or Never Alive. Here you lay out twelve things and say what you notice about them."
     },
     {
@@ -1524,7 +1524,7 @@
      "mins": 6,
      "do": "1. Ask your child to put each thing behind one label. 2. Ask for a reason each time. 3. Do not correct the choices yet. 4. Then ask which things decomposers could eat, and why.",
      "say": "Where did the material of each thing come from? Did a plant or an animal make it? Or was it made from rock, sand or ore?",
-     "kid": "Put each thing behind one label. Say where its material came from. Then say which things decomposers can eat.",
+     "kid": "Put each thing behind one label. Tell your grown-up where its material came from. Then pick out the things decomposers can eat.",
      "ask": [
       {
        "q": "Paper and cotton are dry. Why do they belong with the peel?",
@@ -1644,7 +1644,7 @@
      "mins": 5,
      "do": "1. Write seven materials in a list: aluminium, iron and steel, clear plastic bottles, newspaper, cardboard, glass, chips packets. 2. Ask which one a scrap dealer pays most for. 3. Ask which one the dealer will not take at all. 4. Write the guesses and the reasons.",
      "say": "A scrap dealer buys waste by the kilogram. Which of these do you think earns the most for one kilogram? Which earns nothing? Why?",
-     "kid": "Write the seven materials in a list. Which one earns the most for one kilogram? Which earns nothing? Say why.",
+     "kid": "Write the seven materials in a list. Put a star by the one you think earns the most. Put a cross by the one that earns nothing.",
      "context": "This is the first step of The Scrap Price Chart. Here you guess which waste material a scrap dealer pays most for."
     },
     {
@@ -1661,8 +1661,8 @@
      "id": "s3",
      "mins": 7,
      "do": "1. Draw a bar chart with one bar for each material. 2. Use 1 centimetre for every 10 rupees. 3. Ask why aluminium is worth so much. 4. Ask why nobody buys chips packets.",
-     "say": "Draw a bar for each price. Now look at the tallest bar and the missing bar. Why is one worth so much and one worth nothing?",
-     "kid": "Draw a bar for each price. Find the tallest bar. Find the missing bar. Say why they are so different.",
+     "say": "Draw a bar for each price. Now look at the tallest bar and the missing bar.",
+     "kid": "Draw a bar for each price, or cut a paper strip for each one. Find the tallest bar and the missing bar.",
      "ask": [
       {
        "q": "Why is aluminium worth so much?",
@@ -1700,7 +1700,7 @@
    "title": "Use Time, Lasting Time",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you compare two times for six things you used today: how long you used each one, and how long it will last as waste.",
+   "context": "In this activity you compare two times for six things you used today: how long you used each one, and how long it will last as waste. You will find out which things we use for minutes but leave behind for years.",
    "materials": [
     {
      "item": "six things used today, such as a milk packet, a newspaper, a banana, a toffee and a steel tumbler",
@@ -1767,7 +1767,7 @@
      "mins": 5,
      "do": "1. Choose six things used in your home today. 2. Make a table with three columns: Thing, Used for, Lasts as waste for. 3. Write how long each thing was used, from opening it to throwing it. 4. For a thing that is not thrown, such as a steel tumbler, write 'still in use'.",
      "say": "How long did we use each of these? Count from the moment we opened it to the moment we threw it out.",
-     "kid": "Choose six things you used today. Write how long each one was used. Count from opening it to throwing it.",
+     "kid": "Choose six things you used today. Write how long each one was used.",
      "parent": "A milk packet is used for about a day. A toffee wrapper is used for a few minutes, after weeks in the shop. A newspaper is used for a day.",
      "context": "This is the first step of Use Time, Lasting Time. Here you write how long six things were used before they were thrown out."
     },
@@ -1893,7 +1893,7 @@
      "mins": 3,
      "do": "1. Ask what happened to the amount of paper. 2. Ask what the model says about a plastic bag in a field. 3. Ask what is different about real plastic pieces.",
      "say": "What happened to the number of pieces? What happened to the total amount of paper? What does that tell us about a plastic bag in a field?",
-     "kid": "What happened to the number of pieces? What happened to the total amount? What does that say about a plastic bag?",
+     "kid": "Count your pieces. Compare the paper you have now with the square you started with.",
      "ask": [
       {
        "q": "What is harder about many tiny pieces than one big piece?",
@@ -1925,22 +1925,22 @@
    "title": "Where Did the Peel Go? Follow one banana peel four ways",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw what happens to the matter in one banana peel in four places: a compost pot, deep in a dump, a street fire and a cow's stomach.",
+   "context": "In this activity you follow what happens to the matter in one banana peel in four places: a compost pot, deep in a dump, a street fire and a cow's stomach. You will find out whether any of the peel ever really disappears.",
    "materials": [
     {
      "item": "a large sheet of paper",
      "qty": 1
     },
     {
-     "item": "a pencil and colour pencils",
+     "item": "a pencil, a banana peel or a paper cut-out of one",
      "qty": 1
     }
    ],
-   "record": "Keep the drawing. Under it, write one sentence that is true of all four boxes.",
+   "record": "Keep the sheet, or take a photo of it. Under it, write one sentence that is true of all four boxes.",
    "setup": [
     {
      "art": "A sheet of paper with a banana peel drawn in the middle and four empty boxes round it labelled 'compost pot', 'deep in a dump', 'street fire' and 'cow'.",
-     "caption": "1. Draw a peel in the middle and four boxes round it."
+     "caption": "1. Put a peel in the middle and write four labelled boxes round it."
     },
     {
      "art": "The same sheet with coloured arrows leading out of each box to the words 'air', 'soil', 'water' and 'a living body'.",
@@ -1951,9 +1951,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw a banana peel in the middle of the paper. 2. Draw four boxes round it and label them: COMPOST POT, DEEP IN A DUMP, STREET FIRE, COW. 3. Ask in which box the peel is most completely gone, and why.",
+     "do": "1. Put a banana peel, or a paper cut-out of one, in the middle of the paper. 2. Write four labels in boxes round it: COMPOST POT, DEEP IN A DUMP, STREET FIRE, COW. 3. Ask in which box the peel is most completely gone, and why.",
      "say": "One peel could end up in any of these four places. In which place is it most completely gone? Why do you think so?",
-     "kid": "Draw a peel in the middle. Draw four boxes round it. Label them. In which box is the peel most completely gone? Say why.",
+     "kid": "Put the peel in the middle. Write the four labels in boxes round it. Point to the box where the peel is most completely gone.",
      "context": "This is the first step of Where Did the Peel Go. Here you draw four places a banana peel could end up, and guess where it is most completely gone."
     },
     {
@@ -1961,7 +1961,7 @@
      "mins": 8,
      "do": "1. Take one box at a time. 2. Ask who or what changes the peel there. 3. Ask what the peel turns into. 4. Draw an arrow for each thing that leaves, and write where it goes: AIR, SOIL, WATER or A LIVING BODY.",
      "say": "Who changes the peel in this box? What does the peel turn into? Draw an arrow for each thing, and write where it goes.",
-     "kid": "Take one box at a time. Who changes the peel there? What does the peel turn into? Draw an arrow to where each thing goes.",
+     "kid": "Take one box at a time. Say who changes the peel there and what it turns into. Draw an arrow to where each thing goes, or point and tell.",
      "parent": "In a compost pot, decomposers work with air. Carbon dioxide and water vapour go to the air, and compost goes to the soil. Deep in a dump, microbes work without air. Methane and carbon dioxide go to the air, and leachate goes to the water under the dump. In a street fire, carbon dioxide, water vapour and smoke go to the air, and ash goes to the soil. A cow uses some of the peel to build her body and her milk. Some leaves in her breath, and the rest leaves as dung, which decomposers eat.",
      "context": "This is the main step of Where Did the Peel Go. Here you draw arrows to show where the matter of the peel goes in each of four places."
     },
@@ -1969,8 +1969,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Look at all four boxes together. 2. Ask in which box any of the peel's matter stopped existing. 3. Ask which box does the most good, and which does the most harm.",
-     "say": "Look at all four boxes. In which one did any of the peel stop existing? Which box does the most good? Which does the most harm?",
-     "kid": "Look at all four boxes. Did any of the peel stop existing? Which box does the most good? Which does harm?",
+     "say": "Look at all four boxes. Did any of the peel stop existing? Which box does the most good? Which does the most harm?",
+     "kid": "Look at all four boxes. Point to the box that does the most good. Point to the box that does the most harm.",
      "ask": [
       {
        "q": "In which box did some of the peel's matter stop existing?",
@@ -2063,7 +2063,7 @@
      "what": "Weigh once more. Add up each kind and draw a bar chart. Find the waste for each person in a day, and choose one kind to cut."
     }
    ],
-   "record": "Keep the daily table, the bar chart and a half-page report. The report says which kind of waste was heaviest and how much each person makes in a day. It also says what the family will change.",
+   "record": "Keep the daily table, the bar chart and a short report. The report says which kind of waste was heaviest and how much each person makes in a day. It also says what the family will change.",
    "setup": [
     {
      "art": "Five containers in a kitchen corner labelled WET, PAPER AND CARD, PLASTIC THAT SELLS, PACKETS AND WRAPPERS, and GLASS AND METAL.",
@@ -2083,8 +2083,8 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Label five containers: WET, PAPER AND CARD, PLASTIC THAT SELLS, PACKETS AND WRAPPERS, GLASS AND METAL. 2. Weigh each empty container and write its mass on its label. 3. With no scale, hang a hanger on a hook with a carry bag on each end. 4. Put the thing to be weighed in one bag and a bottle in the other. 5. Pour water into the bottle from the measuring cup until the hanger is level. 6. Each millilitre of water is 1 gram.",
-     "say": "For seven days, every bit of our waste goes into one of these five. Each evening we weigh them. What do you think will be heaviest? Why?",
-     "kid": "Label five containers. Weigh each one empty. Write its mass on the label. Guess which kind of waste will be heaviest. Say why.",
+     "say": "For seven days, every bit of our waste goes into one of these five. Each evening we weigh them.",
+     "kid": "Label five containers. Weigh each one empty. Write its mass on the label.",
      "ask": [
       {
        "q": "Which kind of waste do you think will be heaviest by the end of the week? Why?",
@@ -2100,7 +2100,7 @@
     {
      "id": "s2",
      "mins": 25,
-     "do": "1. Each evening, wear gloves and close the wet waste bag. 2. Weigh each container with its waste. 3. Subtract the mass of the empty container. 4. Write the mass of waste in the table. 5. Empty the containers in the usual way and wash your hands with soap. 6. Do this for days 2 to 6, about 5 minutes each evening.",
+     "do": "1. Each evening, wear gloves and close the wet waste bag. 2. Weigh each container with its waste. 3. Subtract the mass of the empty container. 4. Write the mass of waste in the table. 5. Empty the containers in the usual way and wash your hands with soap. 6. Do this on days 1 to 6, about 5 minutes each evening.",
      "say": "Weigh each one, then take away the mass of the empty container. What is left is the mass of the waste.",
      "kid": "Each evening, weigh each container. Take away the mass of the empty container. Write the mass of waste. Wash your hands with soap.",
      "wait": "Do this every evening from day 2 to day 6.",
@@ -2111,8 +2111,8 @@
      "id": "s3",
      "mins": 15,
      "do": "1. On day 7, weigh once more. 2. Add up the seven days for each kind of waste. 3. Add the five totals to get the week's waste. 4. Divide by 7, then by the number of people at home. 5. Draw a bar chart with one bar for each kind.",
-     "say": "Add up each kind. Which is the tallest bar? Now divide the week's total by seven, and then by the number of us.",
-     "kid": "Add up each kind of waste. Add the five totals. Divide by 7. Divide by the number of people. Draw a bar for each kind.",
+     "say": "Add up each kind. Then divide the week's total by seven, and then by the number of us.",
+     "kid": "Add up each kind of waste. Add the five totals. Divide by 7. Divide by the number of people. Draw a bar for each kind. Or tell your grown-up which kind is heaviest.",
      "ask": [
       {
        "q": "Which kind was heaviest? Which kind took the most room in the bin?",
@@ -2128,9 +2128,9 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "1. Ask which kind of waste the family could cut most easily. 2. Use the waste hierarchy: first refuse or reduce, then reuse, then recycle or compost. 3. Agree on one change for the next week. 4. Write a half-page report with the chart and the plan.",
+     "do": "1. Ask which kind of waste the family could cut most easily. 2. Use the waste hierarchy: first refuse or reduce, then reuse, then recycle or compost. 3. Agree on one change for the next week. 4. Write a short report with the chart and the plan: two or three sentences, or say it and write it for your child.",
      "say": "Look at the chart. Which bar could we make shorter next week? What exactly will we do differently?",
-     "kid": "Look at your chart. Which bar could be shorter next week? Choose one change. Write a half-page report.",
+     "kid": "Look at your chart. Which bar could be shorter next week? Choose one change. Write two or three sentences about it, or say them aloud.",
      "ask": [
       {
        "q": "Which change comes highest on the waste hierarchy?",
@@ -2190,7 +2190,7 @@
     "Slope the liner so that the dirty water runs to one low corner. Lift it out with a straw, holding a finger over the top end.",
     "Add a 'roof' over the waste so that less rain gets in. Real landfills are covered with soil and a cap when they are full."
    ],
-   "your_turn": "Now design your own liner. Draw it first and label each layer. Build it, pour the rain and time 10 minutes. Then make one pinhole in your plastic layer and test again. Does your design still hold?",
+   "your_turn": "Now design your own liner. Lay out the layers first and say what each one does. Build it, pour the rain and time 10 minutes. Then make one pinhole in your plastic layer and test again. Does your design still hold?",
    "setup": [
     {
      "art": "The top half of a plastic bottle turned upside down in a glass tumbler like a funnel, with wet tea leaves inside and yellow-brown water dripping into the tumbler.",
@@ -2211,7 +2211,7 @@
      "mins": 8,
      "do": "1. Stand the bottle top upside down in a tumbler, with the cap off. 2. Mix the tea leaves, turmeric and salt and put them in the funnel. 3. Ask what will come out when it rains on this dump, and why. 4. Pour 100 millilitres of water slowly over the waste. 5. Look at the water in the tumbler.",
      "say": "This is a dump with nothing under it. If rain falls on it, what will come out at the bottom? Why do you think so?",
-     "kid": "Put the tea leaf 'waste' in the funnel. Guess what will drip out when it rains. Say why. Pour the water slowly. Look in the tumbler.",
+     "kid": "Put the tea leaf 'waste' in the funnel. Pour the water slowly. Look in the tumbler.",
      "adult": true,
      "parent": "Yellow-brown water runs into the tumbler. It carries colour from the tea and turmeric, and salt that cannot be seen. This is leachate. Do not taste it.",
      "context": "This is the first step of A Dump That Does Not Leak. Here you pour water on a model dump with no liner and see the leachate come out."
@@ -2219,9 +2219,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Empty and rinse the funnel and the tumbler. 2. Ask your child to draw a liner design and label the layers. 3. Build the liner inside the funnel. 4. Put fresh tea leaf 'waste' on top of the liner.",
+     "do": "1. Empty and rinse the funnel and the tumbler. 2. Ask your child to lay out the layers of a liner on the table and say what each one is for. 3. Build the liner inside the funnel. 4. Put fresh tea leaf 'waste' on top of the liner.",
      "say": "Now you are the engineer. What will you put under the waste, so that no dirty water reaches the tumbler? Why that?",
-     "kid": "Rinse the funnel. Draw your liner and label each layer. Build it inside the funnel. Put new 'waste' on top.",
+     "kid": "Rinse the funnel. Lay out your liner layers and say what each one does. Build the liner inside the funnel. Put new 'waste' on top.",
      "parent": "Newspaper and cloth soak through within a minute. Plastic holds unless there is a gap at its edge. Dough holds well if it is pressed against the sides all the way round.",
      "context": "This step of A Dump That Does Not Leak is for designing. You draw a liner, build it in the funnel and put the waste on top."
     },
@@ -2246,8 +2246,8 @@
      "id": "s4",
      "mins": 7,
      "do": "1. Look inside the funnel. The dirty water is now sitting in the dump. 2. Ask what should be done with it. 3. Try to take it out with a straw or a spoon, without moving the waste. 4. Compare your model with a real landfill.",
-     "say": "Your liner held. But where is the dirty water now? It has not gone. What would you do with it in a real landfill?",
-     "kid": "Look inside the funnel. Where is the dirty water now? Try to take it out with a straw. What would a real landfill do?",
+     "say": "If your liner held, where is the dirty water now? It has not gone. What would you do with it in a real landfill?",
+     "kid": "Look inside the funnel. Try to take the dirty water out with a straw.",
      "parent": "A real landfill has pipes at the bottom that carry the leachate to a tank, where it is cleaned. A liner without pipes fills up like a bathtub and overflows.",
      "check": {
       "t": "mcq",
@@ -2296,7 +2296,7 @@
     "Put a spoon of dry rice in a cloth pouch inside the box, to soak up damp.",
     "Make the pack thicker with many layers of one material, such as paper, and test how many layers are needed."
    ],
-   "your_turn": "Now design your own pack. Draw it and name the material of every part. Build it, test it against the two controls for two days, and write what you found. Then say honestly what the chips packet did better.",
+   "your_turn": "Now design your own pack. Choose and name the material of every part. Build it, test it against the two controls for two days, and write what you found. Then say honestly what the chips packet did better.",
    "setup": [
     {
      "art": "Twelve pieces of roasted papad on a plate beside a steel box, a glass jar, sheets of paper, a banana leaf and string.",
@@ -2317,7 +2317,7 @@
      "mins": 8,
      "do": "1. Look at an empty chips packet together. 2. Ask what jobs the packet does for the snack. 3. Ask what happens to the packet afterwards. 4. Read the problem and the rules aloud.",
      "say": "A chips packet does several jobs very well. What are they? And what happens to the packet when the chips are finished?",
-     "kid": "Look at an empty chips packet. What jobs does it do for the snack? What happens to it afterwards? Read the problem.",
+     "kid": "Look at an empty chips packet. Read the problem and the rules.",
      "ask": [
       {
        "q": "What jobs does the packet do?",
@@ -2334,15 +2334,15 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Ask your child to draw a pack and name the material of each part. 2. Check that no part is two materials stuck together. 3. Build the pack. 4. Put 4 papad pieces in it, 4 on an open plate and 4 in a clipped chips packet. 5. Put all three on the same shelf.",
-     "say": "Draw your pack first, and tell me what each part is made of. Then build it. All three go on the same shelf, so the test is fair.",
-     "kid": "Draw your pack. Name the material of each part. Build it. Put 4 pieces in it. Put 4 on a plate and 4 in a chips packet.",
+     "do": "1. Ask your child to choose a material for each part of the pack and say what it is. 2. Check that no part is two materials stuck together. 3. Build the pack. 4. Put 4 papad pieces in it, 4 on an open plate and 4 in a clipped chips packet. 5. Put all three on the same shelf.",
+     "say": "Choose what each part is made of, and tell me. Then build it. All three go on the same shelf, so the test is fair.",
+     "kid": "Choose a material for each part and say what it is. Build the pack. Put 4 pieces in it. Put 4 on a plate and 4 in a chips packet.",
      "context": "This step of The One-Material Pack is for building. You design and make a pack from single materials, and set up two controls beside it."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. After two days, take one piece from each of the three. 2. Bend each piece and listen. 3. Write 'snaps' or 'bends' for each. 4. Taste one piece from each, if it was kept clean.",
+     "do": "1. After two days, take one piece from each of the three. 2. Bend each piece and listen. 3. Write 'snaps' or 'bends' for each.",
      "say": "Bend one piece from each. Does it snap, or does it bend like cloth? Which pack did best?",
      "kid": "Take one piece from each. Bend it. Does it snap or bend? Write what you find. Which pack did best?",
      "wait": "Leave the three packs on the shelf for 2 days.",
@@ -2354,7 +2354,7 @@
      "mins": 5,
      "do": "1. For each part of the pack, ask what happens to it next: rot, reuse or recycle. 2. Ask what the chips packet does better than your child's pack. 3. Ask who would have to change for the new pack to be used: the company, the shop or the buyer.",
      "say": "What happens to each part of your pack now? What does the chips packet still do better than yours? Who would have to change to use your pack?",
-     "kid": "Say what happens to each part of your pack next. What does the chips packet do better? Who would have to change?",
+     "kid": "Say what happens to each part of your pack next. Say who would have to change.",
      "ask": [
       {
        "q": "What does the chips packet still do better?",

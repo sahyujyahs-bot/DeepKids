@@ -258,7 +258,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 - **s2 (12 min)**  
   *Parent does:* 1. Read the top card aloud. 2. Count to three. 3. Everyone holds up a sign. 4. Turn the card over and read the reason. 5. Score the points.  
   *Parent says:* Ask yourself two questions. Is the surface touching the thing? And is anything else pushing or pulling the thing up or down?  
-  *Child mode:* Read the card. Is it touching? Is anything else pushing or pulling? Hold up your sign.
+  *Child mode:* Read the card aloud. Count to three. Hold up your sign.
   - Ask: A lift starts to go up. Why is the floor's push bigger than your weight? (good: The floor must push harder to make you speed up.; You feel heavier for a moment.)
   - Note: If the surface does not touch the thing, the push is zero. If something else pushes the thing down, the surface pushes harder. If something else pulls it up, the surface pushes less. If nothing else acts and the thing is still, the push is the same as the weight.
 - **s3 (5 min)**  
@@ -284,7 +284,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 - **s3 (5 min)**  
   *Parent does:* 1. Count your points. 2. Put all 11 cards in order on the table, from the weakest gravity to the strongest. 3. Find the starred cards. 4. Ask which world on the ladder you could really stand on.  
   *Parent says:* Put all eleven cards in one ladder. Where is the Earth on it? Which worlds could you really stand on? Which have no ground?  
-  *Child mode:* Put all the cards in one ladder. Where is Earth? Which have no ground?
+  *Child mode:* Put all 11 cards in one ladder. Find the Earth card.
   - Note: The Earth sits near the middle. Many worlds pull less than the Earth. Only Jupiter and the Sun pull far more than the Earth does. The starred worlds have no solid ground to stand on.
   - Check: Which of these three worlds gives the biggest weight? → **Jupiter**
 
@@ -325,7 +325,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: Measure to the nearest millimetre. Expect the bottom ball to be widest and the top ball narrowest. The balls are not perfectly round, so measure the widest part each time.
 - **s6 (7 min)**  
   *Parent does:* 1. Make 3 new balls of the same size. 2. Build and measure the pile again, for run 2. 3. Write the widths in the table. 4. Find the mean of the two runs for each level.  
-  *Parent says:* One run can be a fluke. So we build the pile again with new dough, and then take the mean of the two runs for each level.  
+  *Parent says:* One run can be a fluke. So we build the pile again with new dough. Then we take the mean, which is the average, of the two runs.  
   *Child mode:* Make 3 new balls. Build the pile again. Measure again. Find the mean for each level.
   - Note: If run 2 gives a different order from run 1, look for the cause. Check that the balls started the same size and that you waited the same time.
 - **s7 (6 min) · grown-up needed**  
@@ -334,9 +334,9 @@ Months later, Thenu sat in front of the television at home on the evening of the
   *Child mode:* A grown-up presses on the top book for 2 minutes. Measure the bottom ball. Is it wider?
   - Note: A gentle, steady press is enough. The ball should end up a little wider than the bottom ball in run 1. If your first ball was already flat, the press may show little difference.
 - **s8 (5 min)**  
-  *Parent does:* 1. Draw a bar for each level in your table. 2. Ask your child for the three sentences. 3. Ask them to draw book 8 with its arrows. 4. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then draw the bottom book. Which arrows does it need?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why. Draw the bottom book with its arrows.
+  *Parent does:* 1. Draw a bar for each level in your table. 2. Ask your child for the three sentences. 3. Ask them to show with their hands which way book 8 is pushed down, and which way it is pushed up. 4. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then show with your hands which way the bottom book is pushed down, and which way it is pushed up.  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why. Show with your hands the pushes on the bottom book.
   - Ask: Why was the bottom ball squashed the most, when all the books are the same? (good: It carried the weight of all eight books.; Each book rests on the one below, so the load grows towards the bottom.)
   - Ask: What did the hand do to the bottom ball? (good: It added its push to the weight of the books, so the ball spread more.)
   - Note: Expect widths that go up with the number of books above, but not in exact steps. Dough keeps flowing slowly, so the timing matters. The balls are measuring a push, in the way a bathroom scale does.
@@ -361,7 +361,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: Many children say that the scale reads the weight every time. Do not correct this. The test will show it.
 - **s3 (8 min)**  
   *Parent does:* 1. Tie the string round the packet in a loop. 2. Zero the scale. 3. Put the packet on the scale. 4. Hold the loop and lift very slowly, until the scale reads about 700 grams. 5. Hold it steady for 5 seconds and write the reading. 6. Try reading 400 grams, and then lift it right off. 7. Work out your pull for each: 1000 minus the reading, divided by 100.  
-  *Parent says:* Lift the packet slowly with the string. The scale now reads less. The packet's weight has not changed. So where did the missing push go? Work out how hard you are pulling.  
+  *Parent says:* Lift the packet slowly with the string. The scale now reads less. The packet's weight has not changed.  
   *Child mode:* Lift the packet with the string. Stop at 700 grams. Hold it still. Write the reading.
   - Ask: The scale reads 700 grams. How hard is your string pulling up? (good: About 3 newtons, because 10 take away 7 is 3.; The packet's weight, 10, is shared between the scale, 7, and the string, 3.)
   - Note: A reading of 700 grams means the scale pushes up with 7 newtons. The string pulls up with 3 newtons. The two add up to the packet's 10 newtons. At 0 grams, the string carries it all.
@@ -372,17 +372,17 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: A reading of 1500 grams means the scale pushes up with 15 newtons. The packet's weight is 10 and your finger adds 5. Press in a steady way. A jabbing press makes the reading jump.
 - **s5 (12 min) · grown-up needed**  
   *Parent does:* 1. Rest the board on the table with one end on a pile of books 8 centimetres high. 2. Put the scale on the board with sticky tape across its lower edge, to stop it sliding. 3. Press the zero button with the scale empty. 4. Lay the packet on the scale with a strip of tape across its lower edge. 5. Write the reading. 6. Repeat with the board raised 14 centimetres, and then 20 centimetres. Zero the scale each time.  
-  *Parent says:* Now we tilt the scale. Zero it while it is empty and tilted, then put the packet on. The steeper the slope, the more of the packet's weight is held by the tape. What happens to the reading?  
+  *Parent says:* Now we tilt the scale. Zero it while it is empty and tilted, then put the packet on. Watch the reading as the slope gets steeper. What happens to it?  
   *Child mode:* Tilt the board. Zero the empty scale. Put the packet on. Write the reading. Try 3 heights.
   - Note: The packet should read about 980 grams at 8 centimetres, about 940 at 14 centimetres and about 870 at 20 centimetres. Some scales are not exact when tilted, so your numbers may differ by a few percent. Keep a hand near the scale. The tape across the lower edge holds the packet against sliding. It is not what the scale measures.
 - **s6 (3 min)**  
-  *Parent does:* 1. Fill in the last column of the table. 2. Draw a bar for each reading. 3. Ask your child for the three sentences.  
+  *Parent does:* 1. Fill in the last column of the table. 2. Draw a bar for each reading. A child who does not want to draw can put the readings in order. 3. Ask your child for the three sentences.  
   *Parent says:* Look at your table. In which situations did the reading match the weight? In which was it bigger? In which was it smaller?  
-  *Child mode:* Fill in the table. Draw a bar for each reading. Which readings matched the weight?
+  *Child mode:* Fill in the table. Draw a bar for each reading, or put the readings in order. Which matched the weight?
 - **s7 (5 min)**  
-  *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask them to draw the packet on the scale with three arrows for the lifted case. 3. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then draw the packet while you lift it. Which three forces act on it?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why. Draw the lifted packet with 3 arrows.
+  *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask them to hold the packet by the string and point which way each of the three forces acts: gravity, the push of the scale and the pull of the string. 3. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then hold the packet by the string and point to each of the three forces on it.  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why. Point to the 3 forces on the lifted packet.
   - Ask: The scale read less than the weight when you lifted the packet. Why? (good: The string pulled up, so the scale did not need to push up as hard.; The scale only pushes as hard as it needs to, to hold the packet up with the string.)
   - Ask: Why did the reading fall on the tilted board? (good: The slope only stops the packet sinking into it, so the board pushes less than the weight.; The tape held the rest, along the slope.)
   - Note: A scale does not measure weight. It measures how hard the packet pushes on it. In the lifted case the three forces are gravity down, 10 newtons, the scale up, 7, and the string up, 3. Pressing and tilting follow the same idea.
@@ -395,7 +395,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 - **record:** Fill in the table. Work out each area by multiplying the side by itself. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Distance from light to screen (cm) | Side of the lit square (cm) | Area of the lit square (square cm) | Times the area at 30 cm
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts a 2 centimetre square hole in the middle of the card. 2. Tape the squared paper flat on a wall. 3. Rest the light on a pile of books so it shines at the paper. 4. Stand the card so that its hole is 10 centimetres from the light. 5. Make the room dark.  
+  *Parent does:* 1. A grown-up cuts a 2 centimetre square hole in the middle of the card. 2. Tape the squared paper flat on a wall. This paper is the screen. 3. Rest the light on a pile of books so it shines at the paper. 4. Stand the card upright 10 centimetres in front of the light, so the light shines through the hole. 5. Make the room dark.  
   *Parent says:* The light spreads out in all directions. The card with the square hole lets only a square of light through. We will see how big that square is on the screen.  
   *Child mode:* A grown-up cuts a square hole in the card. Tape up the paper. Stand the card 10 cm from the light.
   - Note: A phone torch works well, because its light comes from one small point. A torch with a mirror behind the bulb makes a beam that does not spread in the same way. Fix the card so that it cannot move, with sticky tape on a book.
@@ -406,9 +406,9 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Ask: Why do you think so? (good: The square gets wider and also taller, so both sides double.; It doubles in width, and so it must be more than double in area.)
   - Note: Most children say 'twice as big'. Do not correct this. The sides of the square double, but the area is width times height.
 - **s3 (8 min)**  
-  *Parent does:* 1. Put the screen 30 centimetres from the light. 2. Mark the 4 corners of the lit square with a pencil. 3. Measure the side of the square. 4. Move the screen to 60 centimetres and mark the corners. 5. Move it to 90 centimetres and mark the corners. 6. Write the three sides in the table.  
+  *Parent does:* 1. Put the light 30 centimetres from the screen. Keep the card 10 centimetres in front of the light. 2. Mark the 4 corners of the lit square with a pencil. 3. Measure the side of the square. 4. Move the light and card back to 60 centimetres from the screen and mark the corners. 5. Move them back to 90 centimetres and mark the corners. 6. Write the three sides in the table.  
   *Parent says:* Measure from the light to the screen with the tape. Mark the four corners of the lit square each time. Measure its side.  
-  *Child mode:* Put the screen at 30 cm. Mark the lit square. Do the same at 60 and 90 cm.
+  *Child mode:* Put the light 30 cm from the screen. Mark the lit square. Do the same at 60 and 90 cm.
   - Note: The edges are fuzzy, so mark where the light is clearly bright. At 30, 60 and 90 centimetres the sides should be about 6, 12 and 18 centimetres. Measure each side twice. If the squares are not square, the card is leaning.
 - **s4 (5 min)**  
   *Parent does:* 1. Multiply each side by itself to get the area. 2. Divide each area by the area at 30 centimetres. 3. Write the answers in the table. 4. Look at how bright the square is at each distance.  
@@ -417,8 +417,8 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: Expect the area to be about 4 times bigger at 60 centimetres and about 9 times bigger at 90. The light on the screen should be dimmer in the larger squares, because the same light covers more paper.
 - **s5 (7 min)**  
   *Parent does:* 1. Ask your child for the three sentences. 2. Ask them to say how bright the light is at 60 centimetres, compared with 30. 3. Ask them how this might show what happens to the pull of a world. 4. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. If the same light covers 4 times the area, how bright is each part?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why. How bright is each part?
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened.  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why.
   - Ask: At twice the distance, how bright is each part of the square? (good: One quarter as bright, because the same light covers 4 times the area.)
   - Ask: The pull of a world also spreads out in all directions. What does that suggest for a thing twice as far from the centre? (good: Its pull would be one quarter as strong. At three times the distance, one ninth.)
   - Note: This is a model. Light and gravity are different things, but anything that spreads out evenly from a point follows the same sums. At twice the distance, the area of a sphere round the point is 4 times as big. Newton showed in 1687 that gravity follows this rule. Do not say that gravity is made of light.
@@ -427,30 +427,30 @@ Months later, Thenu sat in front of the television at home on the evening of the
 ## Activities
 ### a1 · Be the Table: feel the push that holds a book up (12 min)
 - **safety:** Stand beside a bed, so that dropped books land on something soft. Stop when your arm is tired. A grown-up presses only gently.
-- **record:** Draw your hand with one book on it. Draw one arrow for the push of your hand on the book, and one for the pull of gravity on the book. Say which arrow is longer when three books are on your hand.
+- **record:** Draw your hand with one book on it. Draw one arrow for the push of your hand on the book, and one for the pull of gravity on the book. Say which arrow is longer when three books are on your hand. If you would rather not draw, say all this out loud.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand beside the bed. 2. Hold one book flat on your open palm, with your arm out straight. 3. Count slowly to 10. 4. Notice which way your hand pushes.  
   *Parent says:* Hold the book on your palm. Your hand is the table. Which way is your hand pushing on the book? Which way is the book pushing on your hand?  
-  *Child mode:* Hold one book on your palm. Count to 10. Which way does your hand push?
+  *Child mode:* Hold one book flat on your palm. Count to 10.
   - Ask: Which way does your hand push the book? (good: Up.; Up, as hard as the book pulls down.)
   - Ask: Which way does the book push your hand? (good: Down.; Down, into my palm.)
   - Note: The hand pushes up on the book, and the book pushes down on the hand, with equal strength. The Earth also pulls the book down. The book stays still because the hand's push balances that pull.
 - **s2 (3 min)**  
   *Parent does:* 1. Add a second book, and then a third. 2. Hold for 10 seconds each time. 3. Notice what your arm has to do as the books are added. 4. Put the books down when it feels hard.  
   *Parent says:* Add a second book, then a third. Your hand now has more to hold up. Does your hand have to push harder, or the same?  
-  *Child mode:* Add two more books, one at a time. Does your hand push harder?
+  *Child mode:* Add two more books, one at a time. Feel what your arm has to do.
   - Ask: What does your hand have to do when you add books? (good: Push up harder.; Push up as hard as all the books weigh together.)
   - Note: The push must match the weight, or the books will fall. Your muscles do this without being told the number.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. Hold three books on your palm again. 2. A grown-up presses down gently on the top book with one hand. 3. Notice how your palm has to push. 4. The grown-up lets go.  
   *Parent says:* Now a grown-up presses gently on the top book. That is an applied force, a push from a hand. What does your palm have to do?  
-  *Child mode:* A grown-up presses on the top book. Does your palm push more or less?
+  *Child mode:* A grown-up presses on the top book. Feel what your palm has to do.
   - Ask: What did your palm have to do when the grown-up pressed down? (good: Push up harder, to hold up the weight and the push together.)
   - Note: Your palm has to push up with the weight of the books and the grown-up's press added together. Keep the press gentle.
 - **s4 (3 min)**  
-  *Parent does:* 1. Put the three books on a table. 2. Ask if the table is pushing up on the books. 3. Ask why the table does not get tired. 4. Draw your hand and the books with two arrows.  
-  *Parent says:* The table holds those same books for hours and does not get tired. Is the table pushing up on them? How can it, when it does not move?  
-  *Child mode:* Put the books on the table. Is the table pushing up? Why is it not tired?
+  *Parent does:* 1. Put the three books on a table. 2. Ask if the table is pushing up on the books. 3. Ask why the table does not get tired. 4. Lean on the table with your palm and feel it push back up.  
+  *Parent says:* The table holds those same books for hours. Now lean on the table with your palm. Can you feel it push back?  
+  *Child mode:* Put the books on the table. Lean on the table with your palm.
   - Ask: Is the table pushing up on the books? (good: Yes, because the books do not fall through it.; Yes, with the same force as your hand.)
   - Ask: Why does a table not get tired? (good: It is squashed by a tiny amount, and that squash is the push. It needs no energy to keep it.)
   - Note: A table does not use up energy to hold the books. It is squashed by a tiny amount, and its squashed particles push back. Your arm uses energy because muscles keep making small movements to hold the position.
@@ -464,8 +464,8 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: A bathroom scale marked in kilograms really measures a push. It shows that push as a mass, using the Earth's strength of gravity. That is why it only works on Earth. For this activity, its number is your mass.
 - **s2 (3 min)**  
   *Parent does:* 1. Show the table of the strength of gravity. 2. Moon 1.6, Mercury 3.7, Mars 3.7, Venus 8.9, Uranus 8.9. 3. Earth 9.8, Saturn 10.4, Neptune 11.2, Jupiter 25. 4. Ask which world will make your weight the biggest, and which the smallest.  
-  *Parent says:* These numbers say how many newtons one kilogram weighs on each world. Which world will make you weigh the most? Which the least? Why do you think so?  
-  *Child mode:* Look at the numbers. Guess which world makes you heaviest. Guess the lightest. Say why.
+  *Parent says:* These numbers say how many newtons one kilogram weighs on each world. A newton is a unit for measuring a pull or a push. Which world will make you weigh the most? Which the least? Why do you think so?  
+  *Child mode:* Read the nine numbers aloud, from smallest to biggest.
   - Ask: Which world do you think will give the biggest weight, and why? (good: Jupiter, because it is the biggest planet.; Jupiter, because its number is 25, the biggest in the table.)
   - Note: Some children think Saturn gives the biggest weight, because it is the next biggest planet. Do not correct this yet. The bar chart in step 4 shows the surprise.
 - **s3 (8 min)**  
@@ -474,21 +474,21 @@ Months later, Thenu sat in front of the television at home on the evening of the
   *Child mode:* Multiply your mass by each number. Write the nine answers in newtons.
   - Note: Check one answer by hand. Mass 32 on Earth gives 32 times 9.8, which is about 314 newtons. Round to the nearest newton. Saturn and Jupiter have no solid surface, so their numbers are for the top of their clouds.
 - **s4 (5 min)**  
-  *Parent does:* 1. On squared paper, draw a bar for each world. 2. Let 1 square stand for 20 newtons. 3. Colour the Earth bar. 4. Mark which bars are taller than Earth's, and which are shorter.  
+  *Parent does:* 1. On squared paper, draw a bar for each world. A child who does not want to draw can put the nine worlds in order on scraps of paper. 2. Let 1 square stand for 20 newtons. 3. Colour the Earth bar. 4. Mark which bars are taller than Earth's, and which are shorter.  
   *Parent says:* Draw a bar for your weight on each world. Let one square stand for 20 newtons. Colour the Earth bar, so that you can compare.  
-  *Child mode:* Draw a bar for each world. Colour Earth's bar. Which bars are taller?
+  *Child mode:* Draw a bar for each world, or put the worlds in order. Mark Earth. Which are heavier than Earth?
   - Note: Saturn's bar is a little taller than Earth's. Uranus and Venus are a little shorter. Jupiter's is the tallest by far, about two and a half times Earth's.
 - **s5 (4 min)**  
   *Parent does:* 1. Ask your child which world surprised them. 2. Ask whether a grown-up's bars would be taller or shorter than theirs. 3. Ask what a bathroom scale in kilograms would read on the Moon. 4. Write one sentence on each answer.  
-  *Parent says:* Which bar surprised you? Would a grown-up's bars be taller or shorter than yours? What would your bathroom scale read on the Moon?  
-  *Child mode:* Which bar surprised you? What would the bathroom scale read on the Moon?
+  *Parent says:* Look at your nine bars. Which one surprised you?  
+  *Child mode:* Look at your nine bars. Tell your grown-up which one surprised you.
   - Ask: Would a grown-up's bars be taller or shorter? (good: Taller, because a grown-up has more mass.; Taller on every world, in the same pattern.)
   - Ask: What would a bathroom scale marked in kilograms read on the Moon? (good: About one sixth of the number on Earth.; It measures a push, and the Moon pulls about 6 times less.)
   - Note: The bars follow the same pattern for everybody, because weight is mass times a number for the world. A scale marked in kilograms is set for the Earth's pull. So on the Moon it would read about one sixth as much.
   - Check: A girl weighs 300 newtons on Earth. About what does she weigh on Mars, where the number is 3.7? → **About 110 newtons**
 ### a3 · Hit the Bottles: the same hit on a full and a nearly empty bottle (20 min)
 - **safety:** A grown-up checks that the stick cannot slip off the chairs. Stand to the side, not under the bottle. Wipe up any spilt water at once.
-- **record:** Draw the full bottle with one arrow for the pull of the string and one for gravity. Write how far each bottle swung, and what you think that shows.
+- **record:** Write how far each bottle swung, and what you think that shows.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Fill the bottle to the top and put the cap on. 2. Tie a 40 centimetre string round the bottle's neck, below the cap ring. 3. Tie the other string to the ball with the tape. 4. Hang the bottle and the ball from the stick, side by side, so that they just touch.  
   *Parent says:* A string carries the weight of the bottle. So weight is not the question here. We want to know what the mass does when a ball hits the bottle sideways.  
@@ -512,50 +512,50 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: Expect the nearly empty bottle to swing about 4 to 6 times as far. The exact number depends on the ball and the string. The ball gives both bottles the same hit, and they respond differently.
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why. 2. Ask what made the full bottle hard to move, since a string held up its weight. 3. Ask what would happen on the Moon. 4. Only then read the explanation together.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. A string held the weight of the bottle. So what made the full one hard to move?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why. What made the full one hard to move?
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened.  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why.
   - Ask: What made the full bottle hard to move sideways? (good: It has more mass, and mass makes a thing hard to start moving.; More mass means more inertia.)
   - Ask: Would the results differ on the Moon? (good: No. The ball would give the same hit, and the bottle would respond in the same way. Mass is the same there.)
   - Note: Mass has a second job besides setting weight. It decides how hard a thing is to start moving or stop. This is called inertia, and it does not depend on gravity. A full bottle on the Moon would still be hard to swing.
   - Check: A string holds up both bottles, so weight is not the difference. Why did the full bottle swing less? → **It has more mass, so it is harder to start moving**
 ### a4 · Arrows to Scale: weigh it, then draw the forces (25 min)
-- **record:** Keep your five diagrams on squared paper, with the scale written beside each one. Under each, write the total of the up arrows and the total of the down arrows.
+- **record:** Keep your drawing and your paper strips, with the scale written beside them. For every case, write the total of the up forces and the total of the down forces.
 - **s1 (4 min)**  
   *Parent does:* 1. Weigh the packet on the kitchen scale. 2. Divide the grams by 100 to get newtons. 3. Weigh the book and do the same. 4. Write both weights.  
   *Parent says:* A scale reads grams. 100 grams weighs about 1 newton. So we divide by 100. A 500 gram packet weighs about 5 newtons.  
   *Child mode:* Weigh the packet and the book. Divide the grams by 100. Write the newtons.
   - Note: Use the real readings. If the book is 320 grams, its weight is about 3.2 newtons. The scale for the drawings is 1 centimetre for each newton.
 - **s2 (5 min)**  
-  *Parent does:* 1. On squared paper, draw the packet as a small box. 2. Draw a gravity arrow down from its middle, as many centimetres long as its newtons. 3. Draw a normal force arrow up from its base, the same length. 4. Label both and write the scale.  
+  *Parent does:* 1. On squared paper, draw the packet as a small box. 2. Draw a gravity arrow down from its middle, as many centimetres long as its newtons. 3. Draw a normal force arrow up from its base, the same length. 4. Label both and write the scale. The normal force is the push of the table on the packet. If you prefer, cut paper strips as the arrows instead.  
   *Parent says:* Draw the packet resting on a table. Draw gravity down. Draw the table's push up. How long should each arrow be, with 1 centimetre for each newton?  
-  *Child mode:* Draw the packet on a table. Draw gravity down. Draw the table's push up, as long.
+  *Child mode:* Draw the packet on a table, with gravity down and the table's push up. Or use paper strips for the arrows.
   - Ask: Why are the two arrows the same length? (good: The packet stays still, so the forces on it are balanced.; The table pushes up as hard as gravity pulls down.)
   - Note: The gravity arrow starts at the middle of the packet. The normal force arrow starts at the surface where the packet touches the table. Each has the same length, 5 centimetres.
 - **s3 (6 min)**  
-  *Parent does:* 1. Draw the packet again. 2. This time a finger presses down on it with 2 newtons. 3. Draw the finger's arrow 2 centimetres long. 4. Work out the table's push: the weight plus the press. 5. Draw the normal force arrow that long.  
-  *Parent says:* Now a finger presses down with 2 newtons. What must the table push with? Draw the arrows with 1 centimetre for each newton.  
-  *Child mode:* Draw the packet with a finger pressing down. How long is the table's arrow now?
+  *Parent does:* 1. Cut paper strips as arrows, 1 centimetre for each newton. 2. Lay a 5 centimetre strip pointing down for the packet's weight. 3. A finger now presses down with 2 newtons. Lay a 2 centimetre strip pointing down. 4. Work out the table's push: the weight plus the press. 5. Cut a strip that long and lay it pointing up.  
+  *Parent says:* Now a finger presses down with 2 newtons. What must the table push with? Lay paper strips as arrows, with 1 centimetre for each newton.  
+  *Child mode:* Lay strips for the packet's weight and the finger's press. Cut the table's strip to the right length.
   - Ask: How big is the table's push when the finger presses with 2 newtons? (good: 7 newtons, because 5 plus 2 is 7.)
   - Note: The down arrows are gravity, 5, and the finger, 2. The up arrow is 7. Check that the total up equals the total down.
 - **s4 (6 min)**  
-  *Parent does:* 1. Draw a third diagram, of the packet hanging from a string. 2. Draw gravity down, 5 centimetres. 3. Draw the string's pull up, 5 centimetres. 4. Draw a fourth diagram, of the book on a table. 5. Draw a fifth, of three books in a pile. Draw the forces on the middle book only.  
-  *Parent says:* Draw three more. The hanging packet needs two arrows. The book on the table needs two. The middle book in a pile of three needs three arrows. Which three?  
-  *Child mode:* Draw the hanging packet. Draw the book on a table. Draw the middle of three books.
+  *Parent does:* 1. Hold the packet still in your hand. Point to gravity and to your hand's push, and say how many newtons each is. 2. Put the book on a table. Point to its two forces. 3. Stack three books. Point to the three forces on the middle book only, and say how big each one is.  
+  *Parent says:* Now try three more cases with real things. The packet in your hand has two forces. The book on the table has two. The middle book in a pile of three has three.  
+  *Child mode:* Try the packet in your hand. Then the book on a table. Then three books in a pile. Point to the forces.
   - Ask: What three forces act on the middle book of three? (good: Gravity down, the push of the top book down, and the push of the bottom book up.; The up arrow is as long as the two down arrows together.)
   - Note: For the middle book, say it weighs 3 newtons. Gravity is 3 down, the top book pushes 3 down, and the bottom book pushes 6 up. The rule is the same for every diagram. If the thing stays still, the up arrows must equal the down arrows.
 - **s5 (4 min)**  
-  *Parent does:* 1. Check each diagram. 2. Add the up arrows, and add the down arrows. 3. Write both totals under each one. 4. Ask your child what the totals show.  
-  *Parent says:* Add up the arrows going up and the arrows going down in each diagram. What do you notice about the two totals?  
-  *Child mode:* Add the up arrows and the down arrows. What do you notice about the totals?
+  *Parent does:* 1. Check each case. 2. Add the up arrows, and add the down arrows. 3. Write both totals for each case. 4. Ask your child what the totals show.  
+  *Parent says:* Add up the arrows going up and the arrows going down in each case. What do you notice about the two totals?  
+  *Child mode:* Add up the forces going up and the forces going down in each case.
   - Ask: What do the totals show? (good: They are equal, because each thing stays still.; A thing that stays still has balanced forces.)
   - Note: If a diagram does not balance, check the arithmetic first. Then look for a missing force, such as a hand or a string.
   - Check: A 3 newton book rests on a table. A finger presses down on it with 2 newtons. How long is the table's arrow, with 1 centimetre for each newton? → **5 centimetres**
 ### a5 · Pull Detective: work out the strength of gravity from mass and width (28 min)
 - **record:** Make a table with one row for each world. Write the mass, the width, the width times the width, the mass divided by that, and the answer times 9.8. Write a sentence on what surprised you.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw the table with a row for each world. 2. Copy the mass and the width of each world. 3. Moon 0.0123 and 0.273. Mars 0.107 and 0.532. Venus 0.815 and 0.949. Uranus 14.5 and 4.01. 4. Neptune 17.1 and 3.88. Saturn 95.2 and 9.45. Jupiter 318 and 11.2.  
+  *Parent does:* 1. Make a table with a row for each world. 2. Copy the mass and the width of each world. 3. Moon 0.0123 and 0.273. Mars 0.107 and 0.532. Venus 0.815 and 0.949. Uranus 14.5 and 4.01. 4. Neptune 17.1 and 3.88. Saturn 95.2 and 9.45. Jupiter 318 and 11.2.  
   *Parent says:* Every world is compared with the Earth. The Earth counts as 1 for its mass and 1 for its width. So Jupiter's mass of 318 means 318 times the Earth's.  
-  *Child mode:* Draw the table. Copy the masses and widths. The Earth is 1 and 1.
+  *Child mode:* Make the table. Copy the masses and widths. The Earth is 1 and 1.
   - Note: The numbers say how many times the Earth's mass and width each world has. They are rounded from NASA's planetary fact sheets.
 - **s2 (4 min)**  
   *Parent does:* 1. Ask your child to guess which world has the strongest pull at its surface. 2. Ask which worlds pull less than the Earth. 3. Write the guesses and the reasons.  
@@ -576,8 +576,8 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: Expect Uranus about 8.8, Saturn about 10.4 and Jupiter about 25. Saturn has 95 times the Earth's mass, yet its pull is close to the Earth's. Uranus pulls a little less than the Earth.
 - **s5 (3 min)**  
   *Parent does:* 1. Ask your child to say what the sum is doing. 2. Ask what would happen to the pull if a planet kept its mass but became twice as wide. 3. Write the answer.  
-  *Parent says:* If a planet kept its mass but grew twice as wide, what would happen to the pull on its surface? Use the sum to find out.  
-  *Child mode:* A planet has the same mass but twice the width. What happens to its pull?
+  *Parent says:* Imagine a planet that kept its mass but grew twice as wide. Use the sum to find out what happens to the pull on its surface.  
+  *Child mode:* Try the sum with a mass of 1 and a width of 2. Compare the answer with the Earth's 9.8.
   - Ask: What happens to the pull if the width doubles and the mass stays the same? (good: It becomes one quarter, because 2 times 2 is 4 and we divide by 4.)
   - Note: This links to the Spreading Square, where doubling the distance made the light spread over 4 times the area.
   - Check: A planet has the same mass as the Earth, but is three times as wide. How strong is the pull at its surface, compared with the Earth? → **One ninth as strong**
@@ -585,25 +585,25 @@ Months later, Thenu sat in front of the television at home on the evening of the
 ## Projects
 ### p1 · The Load on the Pillar: how much weight does a ground-floor pillar carry? (65 min, 3 days)
 - **safety:** Stay at ground level, in the parking area, a corridor or the compound. Do not climb, and do not touch electric boxes or cables. A grown-up stays with you the whole time.
-- **record:** Write the number of floors, the pillar's width, the area it holds up, the mass above it and its weight in newtons. Draw the load path from the roof to the Earth, with arrows that grow longer towards the bottom.
+- **record:** Write the number of floors, the pillar's width, the area it holds up, the mass above it and its weight in newtons. Draw the load path from the roof to the Earth, with arrows that grow longer towards the bottom. If you would rather not draw, say the load path out loud, floor by floor.
 - **schedule:** day 1: Count the floors. Choose a pillar. Measure its width and the distance to the next pillars. (20 min); day 2: Work out the floor area the pillar holds up, the mass above it and its weight in newtons. (25 min); day 3: Compare the load on a ground-floor pillar and a top-floor pillar. Draw the load path and write the three sentences. (20 min)
 - **s1 (20 min) · grown-up needed**  
-  *Parent does:* 1. Go with a grown-up to the ground floor of a building with at least three floors. 2. Count the floors above the ground, and count the roof as one more floor. 3. Choose one pillar. 4. Measure the pillar's width. 5. Measure the distance to the next pillar on each side. 6. Draw a plan from above and write the numbers on it.  
+  *Parent does:* 1. Go with a grown-up to the ground floor of a building with at least three floors. 2. Count the floors above the ground, and count the roof as one more floor. 3. Choose one pillar. 4. Measure the pillar's width. 5. Measure the distance to the next pillar on each side. 6. Take a photo of the pillar, and write the numbers in your notebook.  
   *Parent says:* A pillar holds up all the floors above it. Let's choose one pillar and measure it. We also measure how far it is from its neighbours.  
   *Child mode:* Count the floors. Choose a pillar. Measure its width. Measure the gaps to the next pillars.
   - Note: Choose a pillar with other pillars around it in a grid. If the building has walls instead of pillars, choose a stretch of wall and measure 1 metre of it. Stay on the ground floor. Pace out long distances and check one pace with a tape.
   - Wait: Do this on day 1
 - **s2 (25 min)**  
-  *Parent does:* 1. Multiply the two gaps to find the floor area the pillar holds up, in square metres. 2. Multiply the area by the number of floors. 3. Multiply by 1,000 kilograms. A rough rule gives one square metre of one floor a mass of about 1,000 kilograms. This counts its walls, furniture and people. 4. Multiply the mass by 10 to get its weight in newtons.  
+  *Parent does:* 1. Multiply the two gaps to find the floor area the pillar holds up, in square metres. 2. Multiply the area by the number of floors. 3. Multiply by 1,000 kilograms. A rough rule gives one square metre of one floor a mass of about 1,000 kilograms. This counts the walls, furniture and people. 4. Multiply the mass by 10 to get its weight in newtons.  
   *Parent says:* Engineers use a rough rule. One square metre of one floor has a mass of about 1,000 kilograms. We multiply by the area and the number of floors. This is a guess, but it is a good one.  
   *Child mode:* Multiply the two gaps for the area. Multiply by the floors. Multiply by 1,000 kilograms. Then by 10 for newtons.
   - Ask: Suppose a pillar holds up 20 square metres on each of 6 floors. What is the mass above it? (good: 20 times 6 is 120 square metres, and 120 times 1,000 is 120,000 kilograms.; Its weight is about 1,200,000 newtons.)
   - Note: A worked example: gaps of 4 metres and 5 metres give 20 square metres. With 6 floors, that is 120 square metres, 120,000 kilograms, or about 1,200,000 newtons. That is about 6 loaded lorries. Real engineers add up every beam, wall and load exactly. This rule only gives the right size of answer.
   - Wait: Do this on day 2
 - **s3 (20 min)**  
-  *Parent does:* 1. Work out the load on a top-floor pillar, with only the roof above it. 2. Divide the ground-floor load by the top-floor load. 3. Draw the load path from the roof down to the ground. 4. Draw an arrow at each floor, longer as you go down. 5. Write the three sentences.  
-  *Parent says:* The top-floor pillar has only the roof above it. How many times bigger is the load on the ground-floor pillar? Draw the load path from the roof to the ground.  
-  *Child mode:* Work out the top pillar's load. How many times bigger is the bottom one? Draw the load path.
+  *Parent does:* 1. Work out the load on a top-floor pillar, with only the roof above it. 2. Divide the ground-floor load by the top-floor load. 3. Show the load path with books: stack one book for each floor above the pillar, and feel the load grow as you add them. 4. Write the three sentences.  
+  *Parent says:* The top-floor pillar has only the roof above it. How many times bigger is the load on the ground-floor pillar? Stack one book for each floor, and feel the load grow.  
+  *Child mode:* Work out the top pillar's load. How many times bigger is the bottom one? Stack one book for each floor and feel the load grow.
   - Ask: Where does the load end up? (good: In the ground, which pushes back up under the pillar.; In the end the Earth holds it.)
   - Ask: Why are the lower pillars often thicker? (good: They carry more floors.)
   - Note: With 6 floors, the ground-floor pillar carries 6 times the load of the top-floor pillar. Some buildings still use the same pillar size all the way up. The thicker steel inside the lower pillars is hidden. Ask a building engineer or look at the plans if you can.
@@ -613,7 +613,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 ## Challenges
 ### c1 · The Three-Storey Paper Tower: put the strength where the load is (40 min)
 - **problem:** Build a tower of three storeys from paper tubes and stiff card floors. Every floor must carry one load without the tubes crumpling. Use the fewest tubes you can.
-- **your turn:** Now design your own tower with four floors and 10 strips. Draw it and say how many tubes go in each storey, and why. Then build it and test it. Did every storey hold? Which storey was nearest to crumpling?
+- **your turn:** Now design your own tower with four floors and 10 strips. Show your plan with a drawing or loose tubes, and say how many tubes go in each storey, and why. Then build it and test it. Did every storey hold? Which storey was nearest to crumpling?
 - **constraints:** Each storey is 8 centimetres tall, and each tube is rolled from one strip of paper, 8 centimetres wide.; Each floor is a card square of about 25 centimetres. A load lies on each floor, and no load may touch a tube.; You may use at most 6 sheets of paper, which make 12 strips, and sticky tape.
 - **general:** Use the same number of tubes in every storey, for example 3 in each. This holds, but it wastes tubes in the top storeys.; Use bigger tubes at the bottom. This also works, but a big tube is only as good as how well it is taped.
 - **creative:** Count the floors above each storey. Use 1 tube in the top storey, 2 in the middle and 3 in the bottom. Then every tube carries the same load.; Put the tubes at the corners of each floor and the load in the middle, so that the floor does not bend.; Try a different shape for the tubes. A tube rolled into a triangle may hold more than a round tube of the same paper.
@@ -623,7 +623,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
   *Child mode:* Roll 12 tubes. Stand one up with a card on top. Add loads one at a time.
   - Note: Stand beside the table, in case the tower falls. Test the tube once only, because a crumpled tube is weaker. If one tube holds more than 3 loads, roll the tubes from newspaper instead, because it is thinner. If it crumples under one load, tape a second layer round it.
 - **s2 (8 min)**  
-  *Parent does:* 1. Build the tower with 3 tubes in every storey, as the general solution says. 2. Put a load on each floor. 3. Watch each storey for 10 seconds. 4. Write which storey, if any, bends or crumples first.  
+  *Parent does:* 1. Build the tower with 3 tubes in every storey,. 2. Put a load on each floor. 3. Watch each storey for 10 seconds. 4. Write which storey, if any, bends or crumples first.  
   *Parent says:* Our first tower uses the same number of tubes in every storey. We put one load on each floor. Which storey is under the most strain? Which tubes will crumple first, if any?  
   *Child mode:* Build the tower with 3 tubes in each storey. Put a load on each floor. Which storey is in trouble?
   - Ask: Which storey carries the most, and how many loads does it carry? (good: The bottom storey, which carries all 3 loads.; The top storey carries only 1.)
@@ -635,9 +635,9 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Note: This design uses 6 tubes, half as many as the first. Each tube carries about 1 load. If a tube crumples, tape its top and bottom edges. You can also add one tube to that storey.
   - Check: A tower has 4 floors, and each carries one load. How many loads does the bottom storey carry? → **4 loads**
 - **s4 (12 min)**  
-  *Parent does:* 1. Plan your own tower with 4 floors and 10 strips. 2. Draw it, and write how many tubes go in each storey. 3. Say why. 4. Build it and test it. 5. Write which storey, if any, crumpled.  
-  *Parent says:* Now plan your own tower with four floors and ten strips. Draw it first. Say how many tubes go in each storey, and why. Then test it.  
-  *Child mode:* Plan a tower with 4 floors and 10 strips. Draw it. Build it. Test it.
+  *Parent does:* 1. Plan your own tower with 4 floors and 10 strips. 2. Show your plan with a drawing or with loose tubes on the table, and write how many tubes go in each storey. 3. Say why. 4. Build it and test it. 5. Write which storey, if any, crumpled.  
+  *Parent says:* Now plan your own tower with four floors and ten strips. Show your plan first, with a drawing or loose tubes. Say how many tubes go in each storey, and why. Then test it.  
+  *Child mode:* Plan a tower with 4 floors and 10 strips. Show your plan with a drawing or loose tubes. Build it. Test it.
   - Note: The pattern 1, 2, 3 and 4 uses exactly 10 strips. Real buildings do the same in steel and concrete, and engineers also add a safety margin. If you changed the design, ask what you were trying to improve.
 ### c2 · The 50-Newton Pack: how much can you carry on each world? (30 min)
 - **problem:** You can carry a pack that weighs no more than 50 newtons on the world you visit. Choose what to take from the list. You must take water and a tent. Find the best pack for the Moon and for Mars. Then say whether the trip works at Jupiter's cloud tops.
@@ -647,7 +647,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 - **creative:** Use a cart. The ground carries the weight of a cart. Your arms only have to push it to make it go.; Share the pack between two people. Each carries 50 newtons, so the team carries twice the mass.; Leave behind what you can make or find, such as rocks to weigh down the tent.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Put 5 one litre bottles of water in a strong bag. 2. Carry it across the room and feel how heavy it is. 3. Check its mass on a kitchen scale if you can. 4. Write it down. This pack weighs about 50 newtons on Earth.  
-  *Parent says:* Carry this bag. Five bottles of water have a mass of about 5 kilograms, and weigh about 50 newtons. That is the pull we can carry for the whole trip.  
+  *Parent says:* Carry this bag. Five bottles of water have a mass of about 5 kilograms, and weigh about 50 newtons. That is the most we can carry on the whole trip.  
   *Child mode:* Put 5 bottles in a bag. Carry it. This is about 50 newtons.
   - Note: Use a bag with strong handles. A child of 10 can usually carry 5 kilograms for a few minutes. Stop if it is too heavy.
 - **s2 (8 min)**  
@@ -664,8 +664,8 @@ Months later, Thenu sat in front of the television at home on the evening of the
   - Check: Which pack gets heavier for the same 50 newtons: on the Moon or on Earth? → **The Moon pack carries more mass**
 - **s4 (6 min)**  
   *Parent does:* 1. Ask your child what will be hard about turning round with a 31 kilogram pack on the Moon. 2. Ask them to use the Hit the Bottles activity as evidence. 3. Write the answer. 4. Choose a world and do your own pack.  
-  *Parent says:* Your Moon pack feels as light as 5 kilograms when you hold it still. But when you turn round, does it feel light? Think of the full bottle that was hard to move sideways.  
-  *Child mode:* Your pack feels light when still. Is it easy to turn round with? Why?
+  *Parent says:* Your Moon pack feels as light as 5 kilograms when you hold it still. But when you turn round, does it feel light? Remember the Hit the Bottles activity. The full bottle was hard to move sideways.  
+  *Child mode:* Imagine turning round with the Moon pack on your back. Think of the full bottle.
   - Ask: Is a 31 kilogram pack easy to turn round with on the Moon? (good: No, it still has 31 kilograms of mass, so it is hard to start and stop turning.; Mass is the same on every world.)
   - Note: The pack weighs only 50 newtons but has the mass of a 31 kilogram bag. Mass decides how hard it is to start moving or turn. Astronauts on the Moon found it easy to carry heavy things but hard to stop or turn them quickly.
 

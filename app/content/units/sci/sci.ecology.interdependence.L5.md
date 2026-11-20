@@ -285,7 +285,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   *Parent says:* The flower pays with nectar. The bee pays with the work of carrying pollen. Each of us can pay, or cheat and pay nothing.  
   *Child mode:* Take 10 chana each. Put 50 in the bowl. Read the four result cards. Play one practice round.
 - **s2 (6 min)**  
-  *Parent does:* 1. Play Game 1 for 8 rounds. 2. Write each round on the score sheet. 3. Count each player's chana and add the two totals.  
+  *Parent does:* 1. Play the first game for 8 rounds. 2. Write each round on the score sheet. 3. Count each player's chana and add the two totals.  
   *Parent says:* Hide your coin. Ready? Lift. Let us see what each of us gets this round.  
   *Child mode:* Play 8 rounds. Hide your coin, then lift your hands together. Write down each round. Count your chana at the end.
   - Ask: Which choice earned you the most in a single round? (good: Cheating, when my partner played fair. I paid nothing and took 3.)
@@ -307,7 +307,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 - **predict:** Guess first. Will a seedling grow best with 3 neighbours, with 15 or with 63? Or will it make no difference? Why do you think so? Write your guess and your reason.
 - **fair test:** All three cups are the same size and hold soil from one mixed heap. They get the same number of spoons of water on the same days and stand side by side at one window. The seeds come from one packet. Only the number of seeds is different. You measure 4 seedlings from each cup, because one seedling can be unusual.
 - **safety:** A grown-up makes the holes in the cups with a nail or a compass point.
-- **record:** Fill in the table. Draw one seedling from each cup at the same scale. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table. Draw one seedling from each cup at the same scale, or take a photo of the three groups side by side. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Cup | Seeds sown | Seedlings that came up | Height of 4 seedlings (cm) | Length of the biggest leaf (mm) | Leaning or fallen | Soil before watering: wet, damp or dry
 - **schedule:** day 1: Fill the three cups, guess, and sow 4, 16 and 64 seeds. After this, give each cup 2 tablespoons of water every second day. (25 min); day 4: Count how many seedlings have come up in each cup. (5 min); day 8: Feel the soil in each cup before watering. Look at the cups from the side and write what you see. (5 min); day 14: Measure 4 seedlings from each cup, compare them side by side and explain the result. (30 min)
 - **s1 (10 min) · grown-up needed**  
@@ -317,7 +317,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   - Note: The holes let extra water drain, so that no cup becomes waterlogged. Stand the cups on a plate.
 - **s2 (5 min)**  
   *Parent does:* 1. Count out 4 seeds, 16 seeds and 64 seeds into three heaps. 2. Explain that each heap will share one cup. 3. Ask for a guess and a reason, and write both down.  
-  *Parent says:* Each cup has the same soil, water and light. In which cup will each seedling grow best? Why do you think so?  
+  *Parent says:* Each cup has the same soil, water and light. In which cup will each seedling grow best?  
   *Child mode:* Count 4 seeds, 16 seeds and 64 seeds. Each heap will share one cup. In which cup will a seedling grow best? Write your guess and your reason.
   - Ask: Why do you think so? (good: The cup with 4, because each one gets more water and room.; The cup with 64, because they can hold each other up. (A fair guess. The test will show.); No difference, because the cups are the same. (A fair guess. The test will show.))
   - Note: Do not correct the guess. Any guess with a reason is a good start.
@@ -334,7 +334,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   - Wait: Come back on day 4
 - **s5 (5 min)**  
   *Parent does:* 1. Before watering, push a finger into the soil of each cup. 2. Write wet, damp or dry for each cup. 3. Look at the cups from the side and compare the stems. 4. Water each cup with 2 tablespoons.  
-  *Parent says:* Feel the soil in each cup before we water. Which cup is driest? Where did that water go?  
+  *Parent says:* Feel the soil in each cup before we water. Is it wet, damp or dry?  
   *Child mode:* Push a finger into the soil of each cup. Which is the driest? Look from the side. Which stems are thinnest? Write what you see.
   - Ask: All three cups got the same water. Why is one drier? (good: More seedlings drank the water.; Sixty-four roots take up more than four roots.)
   - Note: Cup C is usually the driest, because 64 seedlings draw up far more water than 4. If cup C wilts badly, write that down. Then give all three cups one extra watering of the same size.
@@ -358,7 +358,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 - **question:** A dry lichen and a dry leaf of the same weight sit in water for 10 minutes. Which one takes up more water?
 - **predict:** Guess first. Which will take up more water in 10 minutes: the dry lichen, the dry bay leaves, or both the same? Why do you think so? Write your guess and your reason.
 - **fair test:** Both start dry and at the same weight. Both sit in the same amount of water, for the same 10 minutes, held under by a spoon. Both are shaken and dabbed in the same way before weighing. Only the kind of living being is different.
-- **record:** Fill in the table. Draw the lichen from the top and from underneath. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table. Draw the lichen from the top and from underneath, or take two photos. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** What was tested | Dry weight (g) | Wet weight after 10 minutes (g) | Water taken up (g) | Wet weight ÷ dry weight
 - **s1 (5 min)**  
   *Parent does:* 1. Give your child one piece of dry kalpasi. 2. Look at the top side and the underside with the lens. 3. Bend a small piece and see what happens. 4. Ask what they notice and what they wonder.  
@@ -368,8 +368,8 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   - Note: Kalpasi is a dried leafy lichen. The top is grey or grey-green. The underside is black, often with tiny dark threads that held the bark. A dry piece crumbles when bent. Do not explain yet what a lichen is.
 - **s2 (3 min)**  
   *Parent does:* 1. Show the bay leaves next to the kalpasi. 2. Explain that both will sit in water for 10 minutes. 3. Ask for a guess and a reason, and write both down.  
-  *Parent says:* Both of these are dry. Both will sit in water for 10 minutes. Which will take up more water? Why do you think so?  
-  *Child mode:* The lichen and the leaves will sit in water for 10 minutes. Which will take up more water? Why? Write your guess.
+  *Parent says:* Both of these are dry. Both will sit in water for 10 minutes. Which will take up more water?  
+  *Child mode:* The lichen and the leaves will sit in water for 10 minutes. Which will take up more water? Write your guess and your reason.
   - Ask: Why do you think so? (good: The leaves, because leaves are from plants and plants need water. (A fair guess. The test will show.); The lichen, because the lichen looks like a sponge.; The same, because both are dry. (A fair guess. The test will show.))
 - **s3 (5 min)**  
   *Parent does:* 1. Put kalpasi on the scale until it shows 5 grams. 2. Weigh out 5 grams of bay leaves. 3. Write both dry weights in the table. 4. Put each into a bowl of water at the same moment. 5. Rest a spoon on top to hold the pieces under.  
@@ -377,9 +377,9 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   *Child mode:* Weigh 5 grams of lichen. Weigh 5 grams of bay leaves. Write the weights down. Put each in a bowl of water. Hold them under with a spoon.
   - Note: Kalpasi is very light, so 5 grams is a big handful. If your scale shows only whole grams, that is fine. With no scale, skip the weighing and compare by touch in the last steps.
 - **s4 (10 min)**  
-  *Parent does:* 1. Wait 10 minutes. 2. While you wait, your child draws the top and the underside of a dry piece of kalpasi. 3. Now and then, look at the lichen in the water and note any change.  
-  *Parent says:* While we wait, draw both sides of a dry piece. Then watch the piece in the water. Is anything changing?  
-  *Child mode:* Wait 10 minutes. Draw the top and the underside of a dry piece. Watch the lichen in the water. Is anything changing?
+  *Parent does:* 1. Wait 10 minutes. 2. While you wait, your child feels the top and the underside of a dry piece of kalpasi and says how they differ. 3. Now and then, look at the lichen in the water and note any change.  
+  *Parent says:* While we wait, feel both sides of a dry piece. Is the top the same as the underside? Then watch the piece in the water.  
+  *Child mode:* Wait 10 minutes. Feel both sides of a dry piece and tell your grown-up how they differ. Watch the lichen in the water. Is anything changing?
   - Note: The lichen usually goes soft and limp within a minute or two. The colour may change a little. Write down what you really see.
 - **s5 (4 min)**  
   *Parent does:* 1. Lift out the lichen and shake the pieces 10 times over the bowl. 2. Dab them once on the cloth and weigh them. 3. Do exactly the same with the bay leaves. 4. Write both wet weights. 5. Bend a piece of each.  
@@ -408,22 +408,22 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   - Note: The facts. Flower: makes sugar, cannot move. Bee: flies between flowers, cannot make sugar. Root: gets sugar from the leaves, cannot reach far or into tiny gaps. Fungus: has very fine threads that reach far, cannot make sugar. Alga: makes sugar, dries out fast alone. Lichen fungus: holds water and grips rock, cannot make sugar. Alga in a coral: makes sugar, has no shelter alone. Coral animal: builds a hard home, cannot make sugar. Tur dal plant: makes sugar, cannot use the nitrogen in air. Root bacteria: can use the nitrogen in air, need sugar.
 - **s3 (3 min)**  
   *Parent does:* 1. Look down the columns together. 2. Ask what the five pairs have in common. 3. Ask whether two bees, or two flowers, could trade in this way.  
-  *Parent says:* Look at all five rows. What is the same about every pair? Could two bees be partners like this? Why, or why not?  
-  *Child mode:* Look at all five rows. What is the same about every pair? Could two bees trade like this? Say why.
+  *Parent says:* Look at all five rows. Could two bees be partners like this? Why, or why not?  
+  *Child mode:* Look at all five rows. Could two bees trade like this? Say why.
   - Ask: What is the same about every pair? (good: One of them makes sugar and the other cannot.; The two are very different kinds of living beings.; Each gives what the other cannot make.)
   - Note: Let your child find the pattern. In every row, one partner makes sugar from sunlight and the other cannot. The two are always very different beings. Two bees have nothing to exchange, because they make and need the same things.
   - Check: What is true of all five partnerships in the table? → **Each gives what the other cannot easily get**
 ### a2 · Inside a Lichen: draw the four layers (15 min)
 - **record:** Keep your labelled drawing. Add arrows for water, sugar and light.
 - **s1 (4 min)**  
-  *Parent does:* 1. If you have kalpasi, tear a piece and look at the torn edge. 2. Ask your child to draw what they think is inside a lichen. 3. Do not correct this first drawing.  
-  *Parent says:* A lichen is a fungus and an alga living as one body. Where do you think each one is? Draw your idea first.  
-  *Child mode:* A lichen is a fungus and an alga in one body. Where is each one? Draw what you think is inside.
+  *Parent does:* 1. If you have kalpasi, tear a piece and look at the torn edge. 2. Ask your child to say where they think the fungus and the alga are inside a lichen. 3. Do not correct this first idea.  
+  *Parent says:* A lichen is a fungus and an alga living as one body. Where do you think each one is? Tell me your idea first.  
+  *Child mode:* A lichen is a fungus and an alga in one body. Where is each one? Tell your grown-up what you think is inside.
   - Note: Many children draw the fungus on one side and the alga on the other. Keep this first drawing to compare later.
 - **s2 (7 min)**  
-  *Parent does:* 1. Draw a tall box with four bands. 2. Top band: tightly packed fungus threads. 3. Second band: small green circles, each wrapped in threads. 4. Third band: loose threads with gaps of air. 5. Bottom band: packed threads again, with short threads hanging down to grip the bark.  
-  *Parent says:* Scientists who cut a leafy lichen see four layers. The algae live in one thin band near the top. Why near the top, do you think?  
-  *Child mode:* Draw a tall box with four bands. Draw packed threads on top. Draw green cells wrapped in threads next. Draw loose threads, then packed threads with grips.
+  *Parent does:* 1. Draw a tall box with four bands, or lay four strips of torn paper one above the other. 2. Top band: tightly packed fungus threads. 3. Second band: small green circles, each wrapped in threads. 4. Third band: loose threads with gaps of air. 5. Bottom band: packed threads again, with short threads hanging down to grip the bark.  
+  *Parent says:* Scientists who cut a leafy lichen see four layers. The algae live in one thin band near the top.  
+  *Child mode:* Draw a tall box with four bands, or lay four paper strips. Show packed threads on top. Draw green cells wrapped in threads next. Draw loose threads, then packed threads with grips.
   - Ask: Why do the algae live near the top and not at the bottom? (good: They need light to make sugar.; The skin above them lets some light through but stops them drying.)
 - **s3 (4 min)**  
   *Parent does:* 1. Label the fungus and the alga. 2. Add an arrow for light from above. 3. Add arrows for water soaking in from the surface. 4. Add an arrow for sugar from a green cell to a thread. 5. Compare with the first drawing.  
@@ -434,9 +434,9 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 - **safety:** A grown-up comes along. Stay on the footpath and away from traffic.
 - **record:** For each place, write how many trunks out of 5 had crusty, leafy or bushy lichens. Write one sentence comparing the two places.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw the three lichen shapes in the notebook. 2. Crusty lichens lie flat, like paint. 3. Leafy lichens have edges you can lift. 4. Bushy lichens stand up or hang down like tiny shrubs. 5. Choose two places: one beside a busy road, one in a park or a quiet lane.  
+  *Parent does:* 1. Name the three lichen shapes aloud. 2. Crusty lichens lie flat, like paint. 3. Leafy lichens have edges you can lift. 4. Bushy lichens stand up or hang down like tiny shrubs. 5. Choose two places: one beside a busy road, one in a park or a quiet lane.  
   *Parent says:* Lichens come in three main shapes. Bushy ones are harmed most easily by dirty air. Crusty ones cope best. What might we find by the main road?  
-  *Child mode:* Draw the three shapes: crusty, leafy and bushy. Choose a busy road and a quiet place. What do you think you will find in each?
+  *Child mode:* Say the three shapes: crusty, leafy and bushy. Which one lies flat like paint? Choose a busy road and a quiet place. What do you think you will find in each?
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. In each place, choose 5 large trees or old walls. 2. Look at each one at chest height, all the way round. 3. Tick which shapes you find. 4. Look at one patch with the lens. 5. Do not pull any lichen off.  
   *Parent says:* Look all the way round the trunk. Is there any lichen? Which shape? Leave them where they are. They grow very slowly.  
@@ -450,11 +450,11 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   - Note: Scientists use lichens to map air quality, but they compare many trees of the same kind and age. Your count is a first look, not a proof.
 ### a4 · Honest Visitor or Robber? Watch one flower for ten minutes (if you have flowers nearby) (20 min)
 - **safety:** Watch from an arm's length away and do not touch the bees. They sting only when pressed or frightened.
-- **record:** A tally of visitors in three columns: went in at the front, took nectar from the side, only sat on the flower. Add a drawing of the flower with the pollen marked.
+- **record:** A tally of visitors in three columns: went in at the front, took nectar from the side, only sat on the flower. Add a photo or a drawing of the flower with the pollen marked.
 - **s1 (4 min)**  
-  *Parent does:* 1. Look into one flower together. 2. Find the pollen, which is usually a yellow powder on small stalks. 3. Draw the flower and mark where the pollen is. 4. Ask where a visitor would have to go to reach the nectar.  
+  *Parent does:* 1. Look into one flower together. 2. Find the pollen, which is usually a yellow powder on small stalks. 3. Point to where the pollen is. 4. Ask where a visitor would have to go to reach the nectar.  
   *Parent says:* Where is the pollen on this flower? Nectar is usually at the bottom. Which way must a visitor go to reach it?  
-  *Child mode:* Look into one flower. Find the yellow pollen. Draw the flower and mark the pollen. Which way must a visitor go to reach the nectar?
+  *Child mode:* Look into one flower. Find the yellow pollen and point to it. Which way must a visitor go to reach the nectar?
 - **s2 (10 min)**  
   *Parent does:* 1. Sit still and watch the flowers for 10 minutes. 2. For each visitor, make a tally mark in one of three columns. 3. Front: went in past the pollen. 4. Side: fed through the side or base of the flower. 5. Sat: only rested.  
   *Parent says:* Each time someone visits, watch where they feed. Did they touch the pollen on the way?  
@@ -463,7 +463,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 - **s3 (6 min)**  
   *Parent does:* 1. Add up each column. 2. Look for holes near the base of five flowers. 3. Ask who gained from each kind of visit.  
   *Parent says:* How many visitors touched the pollen? How many did not? Who gained from each kind of visit?  
-  *Child mode:* Add up each column. Look for small holes near the base of the flowers. Who gained from each kind of visit?
+  *Child mode:* Add up each column. Look for small holes near the base of the flowers.
   - Ask: A visitor who feeds from the side gets nectar. What does the plant get? (good: Nothing. The pollen was not touched, so none was carried.)
   - Check: A bee bites a hole near the base of a flower and drinks the nectar. Who gains? → **Only the bee**
 ### a5 · A Meal Without Partners: what would be left on my plate? (15 min)
@@ -501,7 +501,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   - Wait: Come back on day 7
 - **s3 (10 min)**  
   *Parent does:* 1. Measure the height and longest leaf of 4 methi seedlings from the middle of cup 1. 2. Do the same for 4 methi seedlings in cup 3. 3. Do the same for mustard in cups 2 and 3. 4. Do not pull any out yet.  
-  *Parent says:* We compare methi with methi, and mustard with mustard. Why would it be unfair to compare a methi seedling with a mustard seedling?  
+  *Parent says:* We compare methi with methi, and mustard with mustard.  
   *Child mode:* Measure 4 methi seedlings in cup 1 and 4 in cup 3. Measure mustard in cups 2 and 3. Write the numbers. Do not pull them out.
   - Ask: Why compare methi only with methi? (good: The two kinds grow differently anyway.; We want to know what the neighbours changed, so only the neighbours should differ.)
   - Wait: Come back on day 14
@@ -516,7 +516,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 ## Challenges
 ### c1 · A Flower That Cannot Be Robbed (35 min)
 - **problem:** Build a paper flower with a chana at the bottom as the nectar and a ring of atta inside the mouth as the pollen. A finger entering at the mouth must reach the chana and come out with atta on it. A robber with a toothpick must not be able to touch the chana through the side within 10 seconds.
-- **your turn:** Now design your own flower. Draw it, build it and test it 3 times with a robber and 3 times with an honest finger. What did your design cost in extra paper? A real flower pays for thick walls with food she could have used to make seeds.
+- **your turn:** Now design your own flower. Draw it or describe it, build it and test it 3 times with a robber and 3 times with an honest finger. What did your design cost in extra paper? A real flower pays for thick walls with food she could have used to make seeds.
 - **constraints:** The honest finger must reach the nectar through the mouth in 5 seconds or less.; Use only paper, tape, cloth, leaves and string.; The flower must stay open at the mouth. No lids.
 - **general:** Make the wall at the base thicker, with several layers of paper. Many real flowers have a tough green cup around the base.; Make the tube long and narrow, so that the nectar is far from the mouth and hard to find from outside.; Tape a second tube inside the first, so that the nectar does not touch the outer wall.
 - **creative:** Pack several flowers tightly side by side, as in a marigold head, so that their sides are covered by their neighbours.; Wrap the base in overlapping cloth or leaf pieces, like the leafy cups under some flowers.; Hang the flower mouth-down on a string, so that a robber has nowhere to stand and bite.
@@ -526,9 +526,9 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
   *Child mode:* Roll a paper tube and tape one end shut. Drop in a chana. Dab atta inside the mouth. Now let a robber try with a toothpick for 10 seconds.
   - Note: The robber will reach the chana in a second or two. That is the problem to solve.
 - **s2 (17 min)**  
-  *Parent does:* 1. Ask for three ideas to stop the robber, and draw them. 2. Read the usual and the creative solutions together. 3. Your child chooses one design and builds it. 4. Check that a finger can still reach the chana through the mouth.  
-  *Parent says:* How could a flower keep robbers out and still let honest visitors in? Draw three ideas. Which one will you build, and why?  
-  *Child mode:* Draw three ideas to stop the robber. Choose one and build it. Check that your finger can still reach the chana through the mouth.
+  *Parent does:* 1. Ask for three ideas to stop the robber, drawn or told. 2. Read the usual and the creative solutions together. 3. Your child chooses one design and builds it. 4. Check that a finger can still reach the chana through the mouth.  
+  *Parent says:* How could a flower keep robbers out and still let honest visitors in? Draw or tell three ideas. Which one will you build, and why?  
+  *Child mode:* Draw or tell three ideas to stop the robber. Choose one and build it. Check that your finger can still reach the chana through the mouth.
 - **s3 (10 min)**  
   *Parent does:* 1. Test the robber 3 times, for 10 seconds each. 2. Test the honest finger 3 times, and check for atta on the finger each time. 3. Count the sheets of paper used. 4. Talk about the cost.  
   *Parent says:* Did the robber get in? Did the honest finger come out with pollen? How much more paper did this flower need than the first one?  

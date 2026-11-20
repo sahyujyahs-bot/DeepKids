@@ -301,8 +301,8 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
   - Note: Rajma, chana or small buttons all work as chital. Each player needs about 30.
 - **s2 (4 min)**  
   *Parent does:* 1. Play one year together as practice. 2. Add the fawns. 3. Ask each player how many chital they will send away, and why. 4. Roll the die and read the year card.  
-  *Parent says:* Before you roll, decide how many to send away. A big herd has more fawns. But what could go wrong for a big herd? Why?  
-  *Child mode:* Add 1 fawn for every 2 chital. Choose how many to send away. Say why. Then roll.
+  *Parent says:* Before you roll, decide how many to send away. A big herd has more fawns. But a herd that is too big has trouble.  
+  *Child mode:* Add 1 fawn for every 2 chital. Choose how many to send away. Then roll.
   - Ask: What could go wrong for a herd of 12? (good: A drought year feeds only 6, so 6 die and 2 more.; Disease takes half of a herd of 9 or more.; The fawns born next year will be too many for the grass.)
   - Note: Let each player choose freely. Some will keep every chital, and some will send them all away. Both choices teach something by year four.
 - **s3 (12 min)**  
@@ -313,8 +313,8 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
   - Check: A herd of 12 has 6 fawns. The meadow feeds 12. What must the player do to lose none? → **Send away at least 6 chital**
 - **s4 (5 min)**  
   *Parent does:* 1. Add up each player's circle and meadow. 2. Compare the tables. 3. Ask what size of herd sent out the most chital. 4. Ask why a full meadow did not do best.  
-  *Parent says:* Whose herd sent out the most? Was it the biggest herd, the smallest, or one in between? Why do you think that happened?  
-  *Child mode:* Add up your beans. Which herd size sent out the most? Say why.
+  *Parent says:* Whose herd sent out the most? Was it the biggest herd, the smallest, or one in between?  
+  *Child mode:* Add up the beans in your circle and on your meadow. Which herd size sent out the most?
   - Ask: Why did a herd kept near the middle send out the most chital? (good: It had enough parents for many fawns.; It still had spare grass, so a drought or a few extra fawns did not kill any.; It was under 9, so disease did not halve it.)
   - Think: A fishing village wants the biggest catch every year, for ever. How full should they keep the sea?
 ### g2 · Which Curve? (15 min)
@@ -322,19 +322,19 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **Printable cards: 16 story cards to cut out (the answer is on the back):** One bacterium lands in a pot of warm milk. For the first hours she and her daughters double every half hour. (back: The J. Nothing is holding them back yet, so they multiply.); Yeast are put in a tube of sugar water. They multiply, then slow down, and the number stays level. (back: The S. The yeast grow up to what the tube can carry and level off.); Reindeer are put on an island with no predators. They become thousands, eat the lichen bare, and nearly all die in one winter. (back: The overshoot and crash. They went past the limit and the food was gone.); Hares in a northern forest become very many about every ten years, and very few in between. (back: The wave. The rise and fall repeats again and again.); Duckweed is put in a bucket. The small green plants spread until they cover the water, and then the cover stays the same. (back: The S. The surface of the water is the limit.); A few water hyacinth plants reach a lake. For the first months the patch doubles every few weeks. (back: The J. There is still plenty of open water, so nothing slows them.); Rats multiply when the bamboo fruits. When the fruit is finished they eat the rice crop, and then most of them starve. (back: The overshoot and crash. The extra food ended, and the rats were far too many.); Ladybirds and the aphids they eat on a rose hedge. Each becomes many and then few, summer after summer. (back: The wave. Predator and prey rise and fall one after the other.); Rhinos are protected in a park. They grow from a dozen to over two thousand in a century, and now the count rises only a little. (back: The S. Growth is slowing as the park fills.); Mosquitoes in the first weeks of the monsoon, when every tin and tyre holds water. (back: The J. There are far more breeding places than mosquitoes.); Algae in a pond after fertiliser washes in. The water turns thick green, the algae use up what they need, and they die and rot. (back: The overshoot and crash. The sudden food let them go far past the limit.); Lynx, the wild cats who hunt hares, in a northern forest over fifty years. (back: The wave. Their number follows the hares up and down, a little later.); Barnacles settle on a bare rock in the sea. They cover it until no space is left, and the number stays there. (back: The S. Space on the rock is the limit.); The number of people in the world from the year 1800 to the year 2000. (back: The J. The number grew faster and faster through those 200 years.); Locusts after good rain in the desert. They breed into huge swarms, eat everything green, and the swarms die away. (back: The overshoot and crash. They used up the food that the rain had grown.); Field rats and rat snakes in a paddy village, counted for twenty years. (back: The wave. More rats feed more snakes, and more snakes mean fewer rats.)
 - **Printable board: 4 curve cards to draw: the J, the S, the overshoot and crash, and the wave:** The J: a line that bends upward more and more steeply; The S: a line that rises, then flattens under a limit; The overshoot and crash: a line that climbs past a limit, then falls almost to zero; The wave: a line that goes up and down again and again
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the four curves on four pieces of paper. 2. Lay them in a row. 3. Cut out the 16 story cards and shuffle them.  
+  *Parent does:* 1. Draw one curve on each of four pieces of paper: a J, an S, an overshoot and crash, and a rise and fall. A quick sketch is fine. 2. Lay them in a row. 3. Cut out the 16 story cards and shuffle them.  
   *Parent says:* Here are four shapes that a population's graph can take. Each card tells a true kind of story. We will match the story to its shape.  
   *Child mode:* Draw the four curves. Lay them in a row. Shuffle the story cards.
 - **s2 (9 min)**  
   *Parent does:* 1. Read the top card aloud. 2. Count to three. 3. Everyone points to a curve. 4. Turn the card and read the answer. 5. Ask what set the limit or caused the fall.  
   *Parent says:* Ask yourself two things. Did the number stop rising? And if it fell, did it rise again?  
-  *Child mode:* Read the card. Did the number stop rising? Did it fall and rise again? Point to a curve.
+  *Child mode:* Read the card. Count to three, then point to the curve that fits.
   - Ask: How do you tell an S from an overshoot and crash? (good: In the S, the number levels off and stays.; In the overshoot, the number goes past the limit and then falls fast, because the food was used up.)
   - Note: The J cards are all populations that are still far below their limit. If your child asks 'but what happens next?', that is the right question. Every J becomes one of the other three in the end.
 - **s3 (3 min)**  
   *Parent does:* 1. Count the beans. 2. Lay the four J cards together. 3. Ask what each of these populations will do later, and why.  
   *Parent says:* These four are all J curves. Can a J go on for ever? What do you think each one turns into later? Why?  
-  *Child mode:* Count your beans. Find the four J cards. What will each one become later? Say why.
+  *Child mode:* Count your beans. Then lay the four J cards together.
   - Check: A population is growing on a J-shaped curve. What must happen in the end? → **It slows, levels off or crashes**
 
 ## Experiments
@@ -345,18 +345,18 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **record:** Fill in the table for every round of both parts. Draw both forests on one line graph, in two colours. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Round | Trees at the start | Seeds that found an empty square | Seeds that died | Trees at the end
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw a square 18 centimetres wide on the paper. 2. Divide it into 6 columns and 6 rows, each 3 centimetres wide. 3. Number the columns 1 to 6 along the top and the rows 1 to 6 down the side. 4. Put a bean on any two squares. 5. Draw the results table.  
+  *Parent does:* 1. Draw a square 18 centimetres wide on the paper. 2. Divide it into 6 columns and 6 rows, each 3 centimetres wide. 3. Number the columns 1 to 6 along the top and the rows 1 to 6 down the side. 4. Put a bean on any two squares. 5. Draw the results table with columns for the round, trees at the start, seeds that died and trees at the end.  
   *Parent says:* This grid is an island with room for 36 trees, one on each square. Two trees have arrived. Let's draw the table before we start.  
   *Child mode:* Draw 6 columns and 6 rows. Number them 1 to 6. Put a bean on any two squares. Draw the table.
   - Note: If you have one die, roll it twice: the first roll is the column and the second is the row. Decide which die is 'column' before you start, and keep to it.
 - **s2 (3 min)**  
   *Parent does:* 1. Explain the rule: each tree drops one seed in every round. 2. Ask for the first guess and its reason. 3. Ask for the second guess and its reason. 4. Write both down.  
   *Parent says:* Two trees, and each drops a seed every round, for 9 rounds. How many trees will there be at the end? In which rounds will the forest grow fastest? Why do you think so?  
-  *Child mode:* Guess how many trees after 9 rounds. Guess which rounds add the most. Say why. Write it down.
+  *Child mode:* Guess how many trees you will have after 9 rounds. Guess which rounds add the most. Write both guesses down.
   - Ask: Why do you think so? (good: It doubles each round, so it gets huge.; There are only 36 squares, so it cannot pass 36.; It grows fastest at the end, because there are the most trees then.)
   - Note: Do not correct the guesses. Many children say the forest will keep doubling, or that it will grow fastest at the end. The dice will answer.
 - **s3 (5 min)**  
-  *Parent does:* 1. Count the trees and write the number under 'Trees at the start'. 2. Roll the dice once for each of those trees. 3. If the square is empty, put a new bean there. 4. If the square has a bean, the seed dies: make a tally mark. 5. Play rounds 1 to 3 this way.  
+  *Parent does:* 1. Count the trees and write the number under 'Trees at the start'. 2. Roll the two dice once for each of those trees: one die gives the column and the other gives the row. 3. If the square is empty, put a new bean there. 4. If the square has a bean, the seed dies: make a tally mark. 5. Play rounds 1 to 3 this way.  
   *Parent says:* Roll once for each tree that was here when the round began. A seed needs light. A seed that lands under a grown tree gets too little light and dies.  
   *Child mode:* Count the trees. Roll once for each one. Empty square: add a bean. Full square: the seed dies. Play 3 rounds.
   - Note: A seed that lands on a square filled earlier in the same round also dies. In these first rounds almost every seed lives, so the forest nearly doubles.
@@ -368,44 +368,44 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
   - Check: The island has 30 trees. Why do most seeds die in this round? → **Most squares already have a tree**
 - **s5 (6 min)**  
   *Parent does:* 1. On squared paper, mark rounds 0 to 9 along the bottom. 2. Mark trees from 0 to 40 up the side. 3. Plot the trees at the end of each round and join the points. 4. In the table, find the round that added the most trees.  
-  *Parent says:* Now let's turn the table into a picture. Then find the round where the forest added the most trees. How many trees stood at the start of that round?  
-  *Child mode:* Draw the graph. Rounds go along the bottom, trees up the side. Find the round that added the most.
+  *Parent says:* Now let's turn the table into a picture. Look at the table first. How many trees did the forest add in each round?  
+  *Child mode:* Draw the graph. Rounds go along the bottom, trees up the side.
   - Ask: What shape is the line? (good: It starts slowly, gets steep in the middle and goes flat at the top, like an S.)
   - Ask: When did the forest add the most trees? (good: In the middle rounds, when it had about 12 to 24 trees.; When about half the squares were full.)
   - Note: The biggest gain usually comes in round 4 or 5, when the island is about half full. Do not explain why yet. Ask your child what they notice about that round.
 - **s6 (7 min)**  
   *Parent does:* 1. Fold the paper so that only rows 1 to 3 show. 2. Change the row rule: a roll of 1 or 2 means row 1, 3 or 4 means row 2, and 5 or 6 means row 3. 3. Ask for a guess and a reason. 4. Start with 2 trees and play 8 rounds. 5. Plot this forest on the same graph in another colour.  
   *Parent says:* Half the island has gone under the sea. The trees are the same and the rule is the same. Where will this forest stop? Why do you think so?  
-  *Child mode:* Fold the island in half. Guess where the forest will stop. Say why. Play 8 rounds. Plot it in a new colour.
+  *Child mode:* Fold the island in half. Play 8 rounds. Plot this forest in a new colour.
   - Note: This part is quick, about 85 rolls in all. The forest levels off at or just under 18 trees.
 - **s7 (5 min)**  
   *Parent does:* 1. Lay the graph and the table side by side. 2. Ask your child to say what they thought, what they saw, and why it happened. 3. Your child writes the three sentences. 4. Only then share the note below.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? And why did the forest stop where it did?  
-  *Child mode:* Say what you thought. Say what you saw. Say why the forest stopped. Then write the three sentences.
+  *Child mode:* Answer the three questions out loud. Then write your three sentences.
   - Ask: Each tree did the same thing in every round. So why did the forest stop growing? (good: The island ran out of empty squares.; More and more seeds landed under trees and died.; The number of squares set the limit, not the trees.)
   - Ask: Why did the half island stop near 18? (good: It had only 18 squares.; The limit comes from the size of the place.)
   - Note: After your child has spoken: the forest stopped at the number of squares. Scientists call that number the carrying capacity of the island. The forest grew fastest in the middle because there were many parent trees and still many empty squares.
 - **s8 (2 min)**  
   *Parent does:* 1. Ask what one change would raise the limit of the paper island. 2. Ask what one change would lower it. 3. If there is time, test one idea for 5 rounds.  
   *Parent says:* You are in charge of the island now. What one change would let it hold more trees? What change would make it hold fewer? Why?  
-  *Child mode:* Think of one change that raises the limit. Think of one that lowers it. Say why.
+  *Child mode:* Pick one change and test it for 5 rounds, if there is time.
   - Think: Real trees die of age and storms. If two trees fell in every round, would the forest stay at 36?
 ### e2 · The Rats and Snakes Game: what happens to hunters and hunted over many rounds? (55 min)
 - **question:** When snakes eat rats and both have young, what happens to the two numbers over 14 rounds?
-- **predict:** Guess first. Draw what you think the rat line and the snake line will look like over 14 rounds. Will the two lines rise together, or one after the other? Which will reach its peak first? Write the reason for your guess.
+- **predict:** Guess first. Say what you think the rat numbers and the snake numbers will do over 14 rounds. You can sketch it too. Will the two lines rise together, or one after the other? Which will reach its peak first? Write the reason for your guess.
 - **fair test:** Keep the same cloth, folded to the same size. Stand at the same place for every toss, and toss each card once. Count carefully and use the same rules in every round. Tosses are chance, so every game is different. This is a model of a field. Real fields also have owls, weather and other food.
 - **safety:** A grown-up cuts the cardboard if it is thick. Pick up every bean afterwards, so that small children and pets do not swallow them.
 - **record:** Fill in the table for all 14 rounds. Draw one graph with two lines, rats in one colour and snakes in another. Mark each peak. Then write what you thought, what you saw and why.
 - **results table:** Round | Rats at the start | Snakes at the start | Rats eaten | Snakes who caught 3 or more
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. Cut 16 squares of thin cardboard, each 10 centimetres wide. 2. Fold the cloth to about 40 by 30 centimetres and lay it flat on the floor. 3. Count out 80 beans into a bowl. 4. Draw the results table with 14 rows.  
+  *Parent does:* 1. Cut 16 squares of thin cardboard, each 10 centimetres wide. 2. Fold the cloth to about 40 by 30 centimetres and lay it flat on the floor. 3. Count out 80 beans into a bowl. You will only use 12 at the start. 4. Draw the results table with 14 rows and columns for the round, the rats and the snakes.  
   *Parent says:* The cloth is a paddy field. The beans are field rats and the cards are rat snakes. Let's get everything ready and draw the table.  
   *Child mode:* Cut 16 cardboard squares. Fold the cloth and lay it flat. Count 80 beans. Draw the table.
   - Note: Cereal boxes, sweet boxes and old notebook covers all work. The cloth stops the beans from rolling. On a bare floor they scatter too far.
 - **s2 (3 min)**  
-  *Parent does:* 1. Read the rules aloud. 2. Ask your child to draw the two lines they expect, and to say why. 3. Keep the drawing.  
-  *Parent says:* A snake must catch 3 rats to live and have a young one. The rats that are left double. What will the two lines look like? Why?  
-  *Child mode:* Draw the rat line and the snake line you expect. Say why. Keep your drawing.
+  *Parent does:* 1. Read the rules aloud. 2. Ask your child to tell you what the rat numbers and the snake numbers will do, and why. A quick sketch is fine too. 3. Write the guess down.  
+  *Parent says:* A snake must catch 3 rats to live and have a young one. The rats that are left double.  
+  *Child mode:* Tell your grown-up what the rats and the snakes will do. You can sketch it too.
   - Ask: Which will peak first, and why? (good: The rats, because the snakes need many rats before they can multiply.; They rise together.; The snakes will eat all the rats.)
   - Note: Any drawing is fine. Many children draw two lines rising together, or the rats falling to zero.
 - **s3 (8 min)**  
@@ -421,14 +421,14 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
   - Check: The field has 14 snakes and only 30 rats. What will most likely happen to the snakes next? → **Many catch fewer than 3 and die**
 - **s5 (8 min)**  
   *Parent does:* 1. On squared paper, mark rounds 1 to 14 along the bottom. 2. Mark 0 to 80 up the side. 3. Plot the rats in one colour and join the points. 4. Plot the snakes in another colour. 5. Circle the highest point of each line.  
-  *Parent says:* Let's draw both lines on one graph. Circle the highest point of the rat line and the highest point of the snake line. Which came first?  
-  *Child mode:* Draw both lines on one graph. Circle the top of each line. Which came first?
+  *Parent says:* Let's draw both lines on one graph. Circle the highest point of each line.  
+  *Child mode:* Draw both lines on one graph. Circle the top of each line.
   - Ask: How many rounds after the rats' peak did the snakes peak? (good: About one to three rounds later.)
   - Note: The snake line is low, so it can look flat. If it does, draw the snakes again on their own graph with 0 to 16 up the side.
 - **s6 (6 min)**  
-  *Parent does:* 1. Put the guess drawing beside the real graph. 2. Ask your child to say what they thought, what they saw, and why. 3. Your child writes the three sentences. 4. Only then share the note below.  
+  *Parent does:* 1. Put the written guess beside the real graph. 2. Ask your child to say what they thought, what they saw, and why. 3. Your child writes the three sentences. 4. Only then share the note below.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? And why did the snakes' peak come after the rats' peak?  
-  *Child mode:* Say what you thought. Say what you saw. Say why the snakes peaked later. Write it down.
+  *Child mode:* Answer the three questions out loud. Then write your three sentences.
   - Ask: Why did the snakes rise only after the rats? (good: A snake needs plenty of rats near her before she can catch 3.; Snakes multiply only when the rats are already many.)
   - Ask: Why did the rats fall? (good: There were so many snakes that they ate rats faster than the rats could double.)
   - Note: After your child has spoken: predators can multiply only after their prey is plentiful, and they starve only after the prey has fallen. That delay keeps both numbers swinging. One game shows about one and a half waves.
@@ -438,9 +438,9 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 ### a1 · Doubling Rice: on which square does the rice run out? (12 min)
 - **record:** Under your grid, write the number of grains for squares 1 to 17. Circle the first square that needs more than a one-kilogram packet.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw 16 squares on the paper, in 4 rows of 4. Make each square 5 centimetres wide. 2. Number them 1 to 16. 3. Ask the question below and write down the guess.  
+  *Parent does:* 1. Draw 16 squares on the paper, in 4 rows of 4. Make each square 5 centimetres wide. 2. Number them 1 to 16. 3. Ask which square will be the first too small for its rice, and write down the guess.  
   *Parent says:* Square 1 gets one grain. Each next square gets double. Which square will be the first that the grains do not fit on, in one flat layer? Why do you think so?  
-  *Child mode:* Draw 16 squares and number them. Guess which square will be too small for its rice. Say why.
+  *Child mode:* Draw 16 squares and number them. Then make your guess.
 - **s2 (6 min)**  
   *Parent does:* 1. Put 1 grain on square 1, 2 on square 2 and 4 on square 3. 2. Keep doubling: 8, 16, 32, 64 and 128. 3. Count the big squares in heaps of ten. 4. Try to fit 256 grains flat on square 9.  
   *Parent says:* Keep doubling. What do you notice about the first few squares? What do you notice now?  
@@ -459,22 +459,22 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **s1 (3 min)**  
   *Parent does:* 1. Pour 3 or 4 big handfuls of beans into the bowl. Do not count them. 2. Ask your child to guess the number by looking, and write it down. 3. Ask how they could find out without counting every bean.  
   *Parent says:* How many beans are in this bowl? Guess by looking. Now, how could we find out without counting them all? What is your idea?  
-  *Child mode:* Guess how many beans are in the bowl. Write it down. Think of a way to find out without counting all.
+  *Child mode:* Write down your guess. Then think of a way to find out without counting all the beans.
   - Note: Any idea is welcome: weighing a few, counting one cupful, measuring the depth. Each is a kind of sampling.
 - **s2 (6 min)**  
   *Parent does:* 1. Take out 40 beans. 2. Mark each one with a dot on both sides. 3. Let the ink dry for a minute. 4. Put them back and stir the bowl 20 times.  
   *Parent says:* We have caught 40 beans and marked them. Now they go back and mix with all the others. Stir well, so the marked ones are spread through the whole bowl.  
   *Child mode:* Take out 40 beans. Put a dot on both sides of each. Put them back. Stir 20 times.
 - **s3 (8 min)**  
-  *Parent does:* 1. With eyes closed, scoop beans out with the cup until you have 40. 2. Count how many of the 40 are marked. 3. Put them all back, stir, and do this twice more. 4. Find the mean number of marked beans. 5. Divide 1,600 by that mean.  
+  *Parent does:* 1. With eyes closed, scoop beans out with the cup until you have 40. 2. Count how many of the 40 are marked. 3. Put them all back, stir, and do this twice more. 4. Add the three counts and divide by 3. This is the average, also called the mean. 5. Divide 1,600 (that is 40 × 40) by the average.  
   *Parent says:* If 8 of your 40 are marked, that is one fifth. So our 40 marked beans are about one fifth of the bowl. What does that make the whole bowl?  
-  *Child mode:* Scoop 40 beans with eyes closed. Count the marked ones. Do it three times. Find the mean. Divide 1,600 by it.
+  *Child mode:* Scoop 40 beans with eyes closed. Count the marked ones. Do it three times. Find the average of your three counts. Divide 1,600 by it.
   - Ask: Why do we divide 1,600 by the number marked? (good: The share of marked beans in the sample should match the share in the bowl.; 40 marked out of the whole bowl is the same share as the marked ones out of 40, and 40 × 40 = 1,600.)
   - Note: With about 200 beans, expect 6 to 10 marked in each sample. Three samples are used because one sample can be a fluke. If a sample has no marked beans at all, stir more and take it again.
 - **s4 (8 min)**  
   *Parent does:* 1. Now count every bean in the bowl, in heaps of ten. 2. Compare the real number with the estimate and with the first guess. 3. Ask why the estimate was not exact. 4. Ask how this could work for tigers.  
   *Parent says:* Now we count them all, to check. How close was the estimate? How close was your first guess? Why was the estimate not exactly right?  
-  *Child mode:* Count all the beans in tens. Compare with your estimate and your guess. Say why they differ.
+  *Child mode:* Count all the beans in tens. Compare the real number with your estimate and your first guess.
   - Note: An estimate within about a quarter of the real number is a good result. For tigers, the stripes are the marks. A camera photo is a capture, and a second photo of the same tiger is a recapture.
   - Check: You marked 40 beans. A new sample of 40 has 10 marked. About how many beans are in the bowl? → **160**
   - Think: What would go wrong with the estimate if the marked beans were stickier and clumped together?
@@ -486,15 +486,15 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
   *Child mode:* Draw the axes. Plot 29, then 1,350, then 6,000. Join the points.
   - Note: Do not show the 1966 count yet. Cover the last row of the table with your thumb.
 - **s2 (4 min)**  
-  *Parent does:* 1. Ask your child to draw, with a dotted line, where the graph goes after 1963. 2. Ask for the reason. 3. Write the guess beside the graph.  
-  *Parent says:* The island is small, and lichen grows back very slowly. What do you think the count was three years later, in 1966? Draw your guess. Why do you think so?  
-  *Child mode:* Draw a dotted line for what you think happens after 1963. Say why.
+  *Parent does:* 1. Ask your child to draw a dotted line for where the graph goes after 1963, or to say a number for 1966. 2. Ask for the reason. 3. Write the guess beside the graph.  
+  *Parent says:* The island is small, and lichen grows back very slowly. What do you think the count was three years later, in 1966? Draw your guess, or just say a number.  
+  *Child mode:* Draw a dotted line after 1963, or say a number for 1966.
   - Ask: Why do you think so? (good: It keeps going up, because it was going up fast.; It levels off, because the island fills up.; It falls, because they eat all the food.)
   - Note: All three guesses are reasonable. A levelling-off is what the Full Island Test would predict.
 - **s3 (8 min)**  
   *Parent does:* 1. Show the 1966 count: 42. 2. Plot it and join the line. 3. Ask what could explain the fall. 4. Ask how this differs from the Full Island Test.  
-  *Parent says:* In 1966 a scientist found 42 reindeer and thousands of skeletons. What do you think happened? Why did the number not level off gently?  
-  *Child mode:* Plot 42 for 1966. Join the line. Say what you think happened, and why.
+  *Parent says:* In 1966 a scientist found 42 reindeer and many skeletons. What do you think happened?  
+  *Child mode:* Plot 42 for 1966. Join the line.
   - Ask: Why did the reindeer not level off like the paper forest? (good: A seed dies at once if there is no room, so the forest gets the message straight away.; The reindeer could live on lichen that had built up over many years, so they went past the limit before they felt it.)
   - Note: Scientists agree on the counts. They still argue about how much was hunger and how much was one terrible winter. The herd had also eaten most of the lichen. The last reindeer died out by the 1980s.
   - Check: A herd grows far past what its island can feed. What usually follows? → **Most of the herd dies in a short time**
@@ -502,33 +502,33 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 ### a4 · Limit Detective: what holds the number down? (15 min)
 - **record:** Make a table with a row for each being: what they eat, where they breed or nest, who eats them, and the limiting factor you chose. Add one way you could test your idea.
 - **s1 (4 min)**  
-  *Parent does:* 1. Go to a window, balcony or doorstep. 2. Choose three beings you can see or often see. 3. Good choices are a house crow, a pigeon, a street dog, a squirrel, ants, mosquitoes or a weed in a crack. 4. Draw the table.  
+  *Parent does:* 1. Go to a window, balcony or doorstep. 2. Choose three beings you can see or often see. 3. Good choices are a house crow, a pigeon, a street dog, a squirrel, ants, mosquitoes or a weed in a crack. 4. Draw a table with a row for each being. Add columns for what they eat, where they breed or nest, who eats them, and the limiting factor.  
   *Parent says:* Pick three living beings who live near us. For each one, ask a detective's question. Why are there not ten times as many of them here?  
   *Child mode:* Choose three living beings near home. Draw a table with a row for each.
 - **s2 (7 min)**  
   *Parent does:* 1. For each being, fill in what they eat and where the food comes from. 2. Fill in where they nest or breed. 3. Fill in who eats them or what kills them. 4. Circle the one need that looks hardest to get.  
   *Parent says:* What do they eat here? Where do they raise their young? What kills them? Now, which of these is hardest for them to get on our street? Why do you think so?  
-  *Child mode:* Fill in food, breeding place and enemies. Circle the need that is hardest to get. Say why.
+  *Child mode:* Fill in food, breeding place and enemies. Circle the need that is hardest to get.
   - Ask: What limits the pigeons here? (good: Food, because they gather where people scatter grain.; Ledges to nest on.)
   - Ask: What limits the mosquitoes? (good: Still water to lay eggs in.; In the dry months there are few of them.)
   - Note: There is no single right answer. A good answer names one need and gives a reason from what your child has seen. For street dogs and crows, the usual limit is food from rubbish.
 - **s3 (4 min)**  
   *Parent does:* 1. For one being, ask how the number would change if the limiting factor doubled. 2. Ask how you could test the idea without harming anyone. 3. Write the test in the notebook.  
   *Parent says:* Suppose the limiting thing doubled. What would happen to their number? How could we check your idea just by watching and counting?  
-  *Child mode:* Choose one being. What happens if their limit doubles? Think of a test by watching and counting.
+  *Child mode:* Pick one being. Think of a test you could do by watching and counting.
   - Check: A street has plenty of food for crows but only two tall trees. What most likely limits the crows who nest there? → **Nesting places**
   - Think: What is the limiting factor for the plants in a pot on your balcony?
 ### a5 · How Many Tigers Can a Forest Feed? (15 min)
 - **record:** Write the sum for each forest, and one sentence on what a forest needs before it can hold more tigers.
 - **s1 (3 min)**  
-  *Parent does:* 1. Tell your child that a forest holds 1,000 deer, pigs and gaur. A gaur is a wild cattle. 2. Ask how many tigers can live there, and why. 3. Write the guess.  
+  *Parent does:* 1. Tell your child that a forest holds 1,000 deer, pigs and gaur. A gaur is a huge wild ox. 2. Ask how many tigers can live there, and why. 3. Write the guess.  
   *Parent says:* A forest has 1,000 large prey animals. One tiger eats about 50 of them a year. How many tigers can live there, year after year? Why?  
-  *Child mode:* A forest has 1,000 prey animals. A tiger eats 50 a year. Guess how many tigers can live there. Say why.
+  *Child mode:* A forest has 1,000 prey animals. A tiger eats 50 a year. Make your guess and write it down.
   - Note: Most children divide 1,000 by 50 and say 20. That is a good first step. The next step shows what it leaves out.
 - **s2 (6 min)**  
   *Parent does:* 1. Ask what the forest would look like after one year with 20 tigers. 2. Lay out 10 beans as the prey. 3. Explain that tigers can take only about 1 bean in 10 each year. 4. Work out how many prey one tiger needs, and how many tigers 1,000 prey can feed.  
   *Parent says:* If 20 tigers ate all 1,000 this year, what would they eat next year? The prey must have young, and leopards, wild dogs and illness take some too. Tigers can take about 1 in 10.  
-  *Child mode:* Twenty tigers would eat every deer in one year. Tigers can take 1 in 10. Work out the real number.
+  *Child mode:* Twenty tigers would eat all 1,000 prey in one year. Tigers can safely take only 1 in 10. Work out the real number.
   - Ask: How many prey animals must a forest hold for one tiger? (good: About 500, because 50 is one tenth of 500.)
   - Ask: So how many tigers for 1,000 prey? (good: About 2.)
   - Note: The 50 and the 1 in 10 come from a study of 11 Indian forests by K. Ullas Karanth and others in 2004. Both are averages. The 500 is our own sum from them.
@@ -542,18 +542,18 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **record:** Keep the graph. Write the number of years each billion took, and say whether the growth is speeding up or slowing down.
 - **s1 (6 min)**  
   *Parent does:* 1. Mark the years 1800 to 2100 along the bottom, in steps of 25. 2. Mark 0 to 11 billion up the side. 3. Plot the eight points from the table. 4. Join them with a smooth line.  
-  *Parent says:* This is the population graph of our own species. Plot the eight points. What shape is the line so far?  
+  *Parent says:* This is the population graph of our own species. Plot the eight points.  
   *Child mode:* Mark the years along the bottom. Mark billions up the side. Plot the eight points and join them.
   - Ask: What shape is it? (good: A J. It is flat for a long time and then very steep.)
 - **s2 (5 min)**  
   *Parent does:* 1. Work out the years between each point and the next. 2. Write them in a row. 3. Ask which billion was added fastest. 4. Ask whether the gaps are still shrinking.  
   *Parent says:* How many years did each new billion take? Which one was fastest? Is each billion still coming faster than the one before?  
-  *Child mode:* Find the years between each billion. Which was fastest? Are the gaps still getting smaller?
+  *Child mode:* Work out how many years each new billion took.
   - Note: The gaps are about 123, 33, 14, 13, 12, 12 and 11 years. They stopped shrinking in the 1970s. The United Nations expects the ninth billion to take about 15 years.
 - **s3 (4 min)**  
   *Parent does:* 1. Tell your child that the United Nations expects a peak of about 10.3 billion in the 2080s. 2. Add that point with a dotted line. 3. Ask what shape the whole curve is becoming. 4. Ask what is slowing it.  
   *Parent says:* The United Nations expects about 10.3 billion people in the 2080s, and then a slow fall. Draw that with a dotted line. What shape is the curve becoming? What could be slowing it?  
-  *Child mode:* Add 10.3 billion in the 2080s with a dotted line. What shape is the curve now? What is slowing it?
+  *Child mode:* Add 10.3 billion in the 2080s with a dotted line.
   - Note: The dotted part is a forecast, not a measurement. The slowing comes mostly from families choosing to have fewer children. That happens where girls stay longer in school and where children survive.
   - Check: The world's population is still growing, but more slowly. What is the main reason? → **Families are having fewer children**
   - Think: A deer herd is slowed by hunger. People are slowing their own number mostly by choice. Is that the same kind of limit?
@@ -566,7 +566,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Poke three small holes in the bottom of each paper cup and stand the cups on a plate. 2. Fill each cup three-quarters full of soil. 3. Label them 5, 25 and 100. 4. Count out the seeds and spread them evenly on the soil. 5. Cover them with a thin layer of soil and give each cup 2 tablespoons of water. 6. Ask for a guess and write it down.  
   *Parent says:* The third cup has 20 times as many seeds as the first. Will it grow 20 times as much methi? What will the plants in each cup look like? Why do you think so?  
-  *Child mode:* Sow 5, 25 and 100 seeds in three cups. Water them. Will 100 seeds give 20 times the methi? Say why.
+  *Child mode:* Sow 5, 25 and 100 seeds in three cups. Water them.
   - Note: Steel tumblers have no holes, so give them only 1 tablespoon of water a day. Water all three cups the same, every day or two, so the soil is damp but not soaked.
 - **s2 (10 min)**  
   *Parent does:* 1. Count the plants standing in each cup. 2. Measure the five tallest in each cup, from the soil to the top. 3. Write the numbers in the table. 4. Ask what your child notices.  
@@ -576,14 +576,14 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
   - Wait: Leave the cups for 7 days, watering them the same.
 - **s3 (10 min)**  
   *Parent does:* 1. Count and measure again. 2. Look at the lowest leaves: are they green or yellow? 3. Count the plants that have fallen over. 4. Look for white fuzz, which is mould.  
-  *Parent says:* It is day 14. The food stored in the seeds is used up. Now each plant must get light, water and soil food for herself. What has changed?  
+  *Parent says:* It is day 14. The food stored in the seeds is used up. Now each plant must get light, water and soil food for itself. What has changed?  
   *Child mode:* Count and measure again. Check the leaf colour. Count the fallen plants. Look for white fuzz.
   - Note: Crowded seedlings are usually taller, thinner and paler, because they stretch for light and share the soil. Mould in the crowded cup is a result too. Disease spreads fastest where plants touch.
   - Wait: Leave the cups for 7 more days, watering them the same.
 - **s4 (25 min) · grown-up needed**  
   *Parent does:* 1. Count and measure for the last time. 2. Cut each cup's plants at the soil with scissors. 3. Lay the three harvests side by side, or weigh them. 4. Compare the harvest from 100 seeds with the harvest from 5. 5. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* The third cup had 20 times the seeds. Did it give 20 times the harvest? Tell me what you thought, what you saw, and why it came out that way.  
-  *Child mode:* Cut the plants in each cup. Compare the three harvests. Say what you thought, what you saw and why.
+  *Child mode:* Cut the plants in each cup. Lay the three harvests side by side.
   - Ask: Why did 100 seeds not give 20 times the methi? (good: All three cups had the same soil, water and light.; In the crowded cup each plant got a smaller share, so each stayed thin, and some died.; The cup set the limit, not the number of seeds.)
   - Note: After your child has spoken: the cup can only support so much plant, however many seeds start. This is carrying capacity in a living population. If all three cups still look healthy, the limit has not been reached yet. Keep them for another week.
   - Wait: Leave the cups for 7 more days, watering them the same.
@@ -597,11 +597,11 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **creative:** First fish the pond down to 18, where the table adds the most. Then catch 9 every year, which is exactly what is added.; Keep the pond at 21, a little above the middle, and catch 9. A bad year then does less harm.; Close the pond for two years after any year in which the count falls below 12.
 - **s1 (6 min)**  
   *Parent does:* 1. Read the growth table together: 6 fish add 5, 12 add 8, 18 add 9, 24 add 8, 30 add 5, and 36 add 0. 2. Ask where it comes from: the Full Island Test, where the forest grew fastest when half full. 3. Ask why a full pond adds no fish. 4. Draw a table with columns for fish at the start, new fish, catch, and fish at the end.  
-  *Parent says:* Look at the table. A pond of 36 adds nothing, and a pond of 6 adds 5. Where does the pond add the most? Why would a full pond add none?  
+  *Parent says:* Look at the table. A pond of 36 adds nothing, and a pond of 6 adds 5. Where does the pond add the most?  
   *Child mode:* Read the growth table. Find where the pond adds the most fish. Draw your ten-year table.
   - Ask: Why does a full pond add no new fish? (good: There is no food or room left for young fish, so they do not survive.)
 - **s2 (10 min)**  
-  *Parent does:* 1. Ask your child to choose a first rule and say why. 2. Run it for 10 years in the table. 3. Add up the total catch. 4. Check the last rule in the list of constraints.  
+  *Parent does:* 1. Ask your child to choose a first rule and say why. 2. Run it for 10 years in the table. 3. Add up the total catch. 4. Check the last constraint: at the end of year 10 the pond must hold at least as many fish as at the end of year 9.  
   *Parent says:* Choose your first rule. How many will you catch each year? Why that number? Let's run it for ten years and add up the catch.  
   *Child mode:* Choose a rule and say why. Run it for 10 years. Add up your catch.
   - Note: A common first rule is 'catch 10 every year'. It gives 100 fish in 10 years, which looks best. But the pond shrinks every year, from 36 to 13, so it fails the last constraint. No row of the table adds 10.
@@ -614,7 +614,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **s4 (5 min)**  
   *Parent does:* 1. Your child writes their own rule in one sentence. 2. They run it for 10 years. 3. Ask what would happen in a year when the real pond added fewer fish than the table says.  
   *Parent says:* Write your own rule and test it. Then think about this. Real ponds have bad years. What would your rule do in a year when only 5 new fish came?  
-  *Child mode:* Write your own rule. Test it for 10 years. What happens to it in a bad year?
+  *Child mode:* Write your own rule. Test it for 10 years.
   - Think: Real fishers cannot see how many fish are in the sea. How could they find out?
 ### c2 · Fewer Mosquitoes Without Spray: lower the limit (35 min)
 - **problem:** Make a plan that lowers the number of mosquitoes at your home for a whole month. You may not use any spray, coil or poison. You can only change the place.
@@ -624,17 +624,17 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - **creative:** Change a bird bowl's water every three days. The birds still drink, but no mosquito finishes growing in it.; Keep a few guppies in a garden tank or a lotus pot. Guppies eat mosquito larvae, who are the young that live in water.; Make a street map of still water with your neighbours, and share the weekly check among the houses.
 - **s1 (5 min)**  
   *Parent does:* 1. Ask what mosquitoes need in order to multiply. 2. Explain that the eggs are laid in still water, and that the young live in the water for about a week. 3. Ask which is easier to change: the mosquitoes, or the water.  
-  *Parent says:* Killing mosquitoes lowers the number for a day or two. Then more grow up. What do they need that we could take away? Why would that last longer?  
-  *Child mode:* Mosquito young grow in still water for about a week. What could we take away? Say why it would last.
+  *Parent says:* Killing mosquitoes lowers the number for a day or two. Then more grow up. What do they need that we could take away?  
+  *Child mode:* Mosquito young grow in still water for about a week. What could we take away?
   - Ask: Why does taking away still water last longer than killing mosquitoes? (good: It lowers the carrying capacity, so fewer can grow up at all.; If the water stays, the survivors lay eggs and the number comes back.)
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Walk round the home with a torch. 2. Look at plant saucers, buckets, drums, coolers, the fridge tray, the roof and the area outside. 3. Mark each place with still water on a drawn plan. 4. Look in the water for tiny wrigglers.  
+  *Parent does:* 1. Walk round the home with a torch. 2. Look at plant saucers, buckets, drums, coolers, the fridge tray, the roof and the area outside. 3. Write down each place with still water, or take a photo of it. 4. Look in the water for tiny wrigglers.  
   *Parent says:* Let's hunt for still water. Check anything that could hold water for a week. If you see tiny wrigglers that jerk when the water is tapped, those are mosquito young.  
-  *Child mode:* Walk round with a torch. Find every place with still water. Mark each one on your plan.
+  *Child mode:* Walk round with a torch. Find every place with still water. Write each one down or take a photo.
   - Note: A grown-up checks the roof, overhead tanks and anything outdoors. Common places people miss are the tray behind the fridge, air cooler tanks and the saucers under pots.
 - **s3 (10 min)**  
   *Parent does:* 1. For each marked place, choose an action: empty weekly, cover, turn over or throw away. 2. Write who will do it, and on which day. 3. Check the plan against the three constraints.  
-  *Parent says:* For each place, what will we do, and how often? Remember, the young take about a week to grow. So how often must we empty the water?  
+  *Parent says:* For each place, what will we do, and how often? Remember, the young take about a week to grow.  
   *Child mode:* Write an action for each place. Write the day and who does it. Check the three rules.
   - Check: Mosquito young need about a week in still water. How often should a plant saucer be emptied? → **At least once a week**
 - **s4 (5 min) · grown-up needed**  

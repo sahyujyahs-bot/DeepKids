@@ -305,9 +305,9 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 - **Printable board: The hillside board: draw a row of 21 squares on a long strip of paper and number them 0 to 20:** Square 0: draw the mother tree here; Squares 0, 1 and 2: UNDER THE MOTHER TREE. Shade them grey. A nut scores 1 point here. A winged seed scores 0; Squares 3 to 8: OPEN GROUND. Colour them green. Any seed scores 2 points here; Squares 9, 10 and 11: THE STREAM. Colour them blue. Any seed scores 0 here; Squares 12 to 20: THE BARE HILL. Colour them red-brown. Any seed scores 5 points here
 - **Printable score sheet: What the die means: copy these lines beside the board:** 1 or 2: CALM. The seed does not move; 3 or 4: BREEZE. Move the seed 1 square; 5: WIND. Move the seed 2 squares; 6: GUST. Move the seed 3 squares; A nut is in the air for 2 rolls. A winged seed is in the air for 6 rolls
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw the board and copy what the die means. 2. Each player chooses a mix of 6 seeds. 3. Ask why each player chose that mix.  
+  *Parent does:* 1. Make the board: 21 squares in a row, from your tree at square 0 to the bare hill. Draw it, or lay out 21 coins or paper squares. Copy what the die means. 2. Each player chooses a mix of 6 seeds. 3. Ask why each player chose that mix.  
   *Parent says:* This board is a hillside. Your tree stands on square 0. Which seeds will you make, nuts or winged seeds? Why?  
-  *Child mode:* Draw the board. Choose 6 seeds. Chana are nuts. Moong are winged seeds. Say why you chose your mix.
+  *Child mode:* Make the board. Choose 6 seeds to play with. Chana are nuts. Moong are winged seeds. Say why you chose your mix.
   - Ask: Why does a winged seed get 6 rolls and a nut only 2? (good: The winged seed falls slowly, so the wind has more time to move the seed.; The nut is heavy for its size and reaches the ground quickly.)
   - Note: The number of rolls stands for the time in the air. This is the main idea of the unit: the wind can only carry a seed while the seed is still falling.
 - **s2 (8 min)**  
@@ -328,7 +328,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 - **Printable cards: 16 clue cards: three clues on the front, the answer on the back:** Clue 1: My skin keeps water out. Clue 2: Under the skin is a thick coat of fibres with air between them. Clue 3: I can float for a hundred days. (back: THE SEA. I am a coconut.); Clue 1: I am one of hundreds on a small white ball by the roadside. Clue 2: I am as thin as a pencil line. Clue 3: I wear a ring of feathery hairs on top. (back: THE WIND. I am a tridax fruit, with a parachute of hairs.); Clue 1: I grew on a tall roadside tree, inside a woody case as big as a fist. Clue 2: I have one long wing. Clue 3: I spin like a helicopter blade as I fall. (back: THE WIND. I am a mahogany seed.); Clue 1: I grew in a long pod that hung like a stick. Clue 2: People cook the young pod in sambar. Clue 3: I have three papery wings. (back: THE WIND. I am a drumstick seed.); Clue 1: I sprouted while I was still hanging on my mother. Clue 2: I am long and green, like a fat pencil. Clue 3: I drop into salty mud or float away on the tide. (back: THE SEA. I am a mangrove seedling.); Clue 1: I am smaller than a mustard seed. Clue 2: I sat inside a small red fig. Clue 3: I often sprout high on a wall or on another tree. (back: BIRDS AND BATS. They ate the fig and dropped me. I am a banyan or peepal seed.); Clue 1: My fruit turns red when I am ready. Clue 2: Rats and mice hate the taste. Clue 3: Birds do not sense the burning at all. (back: BIRDS. I am a chilli seed.); Clue 1: I grew on a grass in a field or a park. Clue 2: I have a sharp point. Clue 3: You pull me out of your socks. (back: FUR, FEATHERS AND CLOTHES. I am a spear grass seed, and I cling.); Clue 1: My pod is fat, green and under strain. Clue 2: The walls of my pod want to curl. Clue 3: One touch, and they fling me out. (back: MY OWN PLANT. I am a balsam seed, and the pod throws me.); Clue 1: My dry case snaps open in the sun and throws me. Clue 2: I carry a small oily bump. Clue 3: Ants carry me home for that bump. (back: MY OWN PLANT, AND THEN ANTS. I am a castor seed.); Clue 1: My wild cousins drop their grain into the water. Clue 2: I hold on tight to my stalk. Clue 3: I wait to be threshed and sown. (back: PEOPLE. I am a grain of farmed paddy.); Clue 1: I am large, flat and hairy, inside sweet yellow flesh. Clue 2: Elephants, monkeys and bats carry my fruit. Clue 3: People spit me out in summer. (back: LARGE ANIMALS, AND PEOPLE. I am a mango seed.); Clue 1: People brought my grandparents to India for their pretty flowers. Clue 2: My berries are small and dark. Clue 3: Bulbuls eat them, and now I cover whole forests. (back: PEOPLE FIRST, THEN BIRDS. I am a lantana seed.); Clue 1: A million of us fit in one pod. Clue 2: I have no food store at all. Clue 3: I am as fine as dust. (back: THE WIND. I am an orchid seed.); Clue 1: My flower opened above the ground. Clue 2: Then a stalk pushed me down into the soil. Clue 3: I ripen under the earth, beside my parent. (back: NOBODY. I am a groundnut, and I stay at home unless a person or an animal digs me up.); Clue 1: My pod is fat and green on a grey bush by the road. Clue 2: The pod splits when ripe. Clue 3: I am flat and brown, with long silky hairs. (back: THE WIND. I am a calotropis seed, also called erukku or aak.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Read the rules together. 3. Play one card as practice, with no score.  
-  *Parent says:* Each card is a seed speaking. The first clue is the hardest. Listen for the shape, the weight and the covering.  
+  *Parent says:* Each card gives three clues about one seed or fruit. The first clue is the hardest. Listen for the shape, the weight and the covering.  
   *Child mode:* Cut out the cards. Read the rules. Try one card for practice.
 - **s2 (6 min)**  
   *Parent does:* Play the first 8 cards. Write each player's points. After card 8, ask the question below.  
@@ -349,7 +349,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 - **predict:** Guess before any drop. Which flier will take longest to fall in still air? Which will land farthest from the fan, and about how far? Why do you think so? Write your guesses and your reasons.
 - **fair test:** All three fliers are cut from the same sheet, to the same size, and each carries one paper clip of the same size. So they weigh the same, and only the shape differs. Each one is let go from the same spot, with no push, in the same wind. You repeat every drop, because moving air is never perfectly steady. A fan's wind is narrow and gets weaker farther away. So this is a model of a windy day, and not a copy of one.
 - **safety:** Keep fingers, hair and paper away from the fan blades. A grown-up holds the fliers up for the 2-metre drops. Nobody stands on a chair alone.
-- **record:** Fill in one row of the table for each flier. Work out the mean fall time and the mean distance. Draw a bar chart of the three mean distances. Then write three sentences: what I thought would happen, what I saw, and why I think it happened.
+- **record:** Fill in one row of the table for each flier. Work out the mean fall time and the mean distance. Lay out a thread for each mean distance, or draw a bar chart of the three. Then write three sentences: what I thought would happen, what I saw, and why I think it happened.
 - **results table:** Flier | Fall time in still air: tries 1, 2 and 3 (seconds) | Mean fall time (seconds) | Distance in the fan lane: tries 1 to 5 (cm) | Mean distance (cm) | Farthest landing (cm)
 - **s1 (8 min)**  
   *Parent does:* 1. Cut three strips from one sheet. Each strip is 21 centimetres long and 5 centimetres wide. 2. Long wings: cut a slit 9 centimetres long down the middle of one end. Just below the slit, cut in 1.5 centimetres from each side. Fold the two sides of the lower part in, to make a narrow stem. Fold the end of the stem up by 2 centimetres and slide a paper clip on. Fold one wing towards you and one away. 3. Short wings: make a second spinner in the same way. Then fold each wing back on itself, so each wing is half as long. Press the folds hard. 4. Packed: fold the third strip in half three times. Hold the packet shut with a paper clip.  
@@ -377,8 +377,8 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   - Note: In the fan's wind a spinner may tumble at first and spin only later. Count every drop anyway. The packed strip usually lands within about 50 centimetres. The long wings often land 1 to 2 metres away, and sometimes more. Measure to where the flier first touched down, not to where the flier slid to.
   - Check: In the Fan Lane Test, why is every flier let go from the same spot, with no push? → **So that only the shape differs**
 - **s5 (6 min)**  
-  *Parent does:* 1. For each flier, add the three fall times and divide by 3. 2. Add the five distances and divide by 5. 3. Write the fliers in order of fall time. Write them in order of distance. 4. Draw a bar for each mean distance.  
-  *Parent says:* Work out the mean fall time and the mean distance for each flier. Put them in order both ways. Are the two orders the same?  
+  *Parent does:* 1. For each flier, add the three fall times and divide by 3. 2. Add the five distances and divide by 5. 3. Write the fliers in order of fall time. Write them in order of distance. 4. Cut a piece of thread as long as each mean distance. Lay the three threads side by side.  
+  *Parent says:* The mean is the typical result: add the numbers, then divide by how many there are. Work out the mean fall time and the mean distance for each flier. Put them in order both ways. Are the two orders the same?  
   *Child mode:* Find the mean fall time for each flier. Find the mean distance. Put the fliers in order of time. Put them in order of distance. Are the orders the same?
   - Note: A worked example: distances of 150, 190, 160, 210 and 140 centimetres add up to 850. Then 850 ÷ 5 = 170 centimetres. A calculator is fine.
 - **s6 (6 min)**  
@@ -391,15 +391,15 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   - Think: A tree is ten times as tall as your drop. If the wind blew all the way down, about how much farther would a spinner from the treetop go?
 ### e2 · The Seed Shadow Test: where do 30 drops of the same spinner land? (25 min)
 - **question:** When the same spinner is let go 30 times in the same wind, do all 30 land in the same place? If not, what is the shape of the pattern?
-- **predict:** Guess before you start. Will all 30 drops land in about the same place? Draw the pattern of 30 landing spots that you expect. Why do you think so? Write your reason.
+- **predict:** Guess before you start. Will all 30 drops land in about the same place? Point to where you expect the 30 landing spots to be. Why do you think so? Write your reason.
 - **fair test:** The same spinner is used for all 30 drops. The same person lets go, from the same spot, with no push. The fan stays at one speed and points one way. Nothing is changed on purpose, so any spread in the landings comes from the small changes in the moving air and in the letting go.
 - **safety:** Keep fingers, hair and paper away from the fan blades.
-- **record:** Make a tally for six bands: 0 to 50 centimetres, 50 to 100, 100 to 150, 150 to 200, 200 to 250, and beyond 250. Count the landings in each band. Draw a bar chart with one bar for each band. Write which band had the most landings, and how far the farthest drop went.
+- **record:** Make a tally for six bands: 0 to 50 centimetres, 50 to 100, 100 to 150, 150 to 200, 200 to 250, and beyond 250. Count the landings in each band. Build or draw a bar chart with one bar for each band. Write which band had the most landings, and how far the farthest drop went.
 - **results table:** Distance band | Tally of landings | Number of landings out of 30
 - **s1 (5 min)**  
-  *Parent does:* 1. Set up the fan and the start mark as in the Fan Lane Test. 2. Mark a line across the floor every 50 centimetres, up to 250 centimetres. 3. Ask for the prediction and the reason. Your child draws the pattern they expect.  
-  *Parent says:* We will let the same spinner go 30 times. Nothing will change. Will all 30 land in the same place? Draw the pattern you expect. Why do you think so?  
-  *Child mode:* Mark a line every 50 centimetres. You will drop one spinner 30 times. Will all the drops land together? Draw what you expect. Say why.
+  *Parent does:* 1. Set up the fan and the start mark as in the Fan Lane Test: fan on full speed, start mark on the floor 50 centimetres in front of it. 2. Mark a line across the floor every 50 centimetres, up to 250 centimetres. 3. Ask for the prediction and the reason. Your child points to where on the floor they expect the 30 landings to be.  
+  *Parent says:* We will let the same spinner go 30 times. Nothing will change. Will all 30 land in the same place? Point to where you think they will land. Why do you think so?  
+  *Child mode:* Mark a line every 50 centimetres. You will drop one spinner 30 times. Will all the drops land together? Point to where you expect them to land. Say why.
   - Ask: If nothing is changed, why might the landings still differ? (good: The wind from a fan wobbles a little.; My fingers do not let go in exactly the same way.)
   - Note: Some children expect all 30 in one spot, because nothing is changed. Others expect an even spread. Do not correct either guess.
 - **s2 (12 min)**  
@@ -408,9 +408,9 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   *Child mode:* Let the spinner go. Do not push. See which band the spinner lands in. Make a tally mark. Do this 30 times.
   - Note: If the spinner hits a wall or a chair, do that drop again. If the wings go soft, press the folds flat again. Thirty drops take about ten minutes.
 - **s3 (4 min)**  
-  *Parent does:* 1. Count the tally marks in each band. 2. Draw a bar for each band. 3. Find the band with the most landings, and the farthest landing of all.  
-  *Parent says:* Count each band and draw the bars. Which band has the most? How far did the farthest drop go?  
-  *Child mode:* Count your tally marks. Draw a bar for each band. Which band has the most? How far was the farthest drop?
+  *Parent does:* 1. Count the tally marks in each band. 2. Build a bar for each band: put one dal grain or coin in a column for each landing. 3. Find the band with the most landings, and the farthest landing of all.  
+  *Parent says:* Count each band and build the bars. Which band has the most? How far did the farthest drop go?  
+  *Child mode:* Count your tally marks. Build a bar for each band. Use one dal grain or coin for each landing. Which band has the most? How far was the farthest drop?
 - **s4 (4 min)**  
   *Parent does:* 1. Ask your child what they expected, what the chart shows, and why. 2. Then read the note below together. 3. Ask the check question.  
   *Parent says:* Say what you expected. Say what the chart shows. Why do you think the drops did not all land together?  
@@ -458,7 +458,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 ## Activities
 ### a1 · Read the Shape: how would these kitchen seeds travel with no person to carry them? (20 min)
 - **safety:** A grown-up does the cutting. Wash hands after touching the chilli, and keep fingers away from eyes.
-- **record:** Make a table with five columns: the fruit or seed, my guess, the drop test, the float test, and how I now think the seeds travel. Draw the drumstick seed with the wings.
+- **record:** Make a table with five columns: the fruit or seed, my guess, the drop test, the float test, and how I now think the seeds travel. Look at the drumstick seed's wings. Draw them, or tell your grown-up what you see.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay the fruits and seeds on a plate. 2. Your child looks at each one closely, without cutting. 3. Ask the questions below and write each guess with its reason.  
   *Parent says:* No plant can walk. Imagine no person carries these seeds. How would each one get away from the parent plant? What makes you think so?  
@@ -467,7 +467,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   - Note: Take any guess that comes with a reason. Children often say none of these can go by wind, because the whole fruits are heavy. The drumstick seed inside will surprise them.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts open the drumstick, the tomato or chilli, and the tamarind. Shell one groundnut. 2. For each seed or fruit, do three tests. Drop each one from above your head and watch the fall. Put each one in the tumbler of water. Rub each one on a sleeve and see what clings. 3. Write what you see.  
-  *Parent says:* Look at what is round each seed. Now test each one. Which fall slowly? Which float? Which cling to cloth?  
+  *Parent says:* Look at what covers each seed. Now test each one. Which fall slowly? Which float? Which cling to cloth?  
   *Child mode:* A grown-up cuts each one open. Look at the seeds. Drop each one. Float each one. Rub each one on your sleeve. Write what you see.
   - Ask: The drumstick seed has three thin wings. What do you think they are for? (good: To catch the wind.; To make the seed fall slowly.)
   - Note: In a young cooking drumstick the wings are soft, white and damp, and the seed will not fall slowly. Dry one seed in the sun for a day and try again. In a ripe brown pod the wings are papery. Coconut husk and groundnut shells float. Tamarind seeds and tomato seeds sink.
@@ -480,7 +480,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   - Note: The shape is good evidence, but it is not proof. Scientists check by watching what really happens to the seeds. The groundnut shows that not every plant sends the seeds far.
   - Check: A seed is small and light, with a thin papery wing. What is the best evidence that the wind carries seeds like this? → **The seed falls slowly when dropped**
 ### a2 · The Curl Test: how can a dry pod throw seeds with no muscles? (20 min, 3 days)
-- **record:** Draw a paper strip before and after wetting, and mark the wet side. Draw one pod half on day 1 and the same half on day 3. Write one sentence saying what drying did to the shape.
+- **record:** Take a photo of the paper strip curled on the water, or draw it, and mark the wet side. Put the day 1 and day 3 photos of the pod half side by side. Write one sentence saying what drying did to the shape.
 - **schedule:** day 1: Do the paper strip test. Split the pods, take out the seeds, draw one pod half, and put the halves on a sunny windowsill. (15 min); day 3: Look at the dried pod halves. Draw one again and compare the two drawings. (5 min)
 - **s1 (7 min)**  
   *Parent does:* 1. Ask what will happen when a paper strip is laid flat on water. Write the guess and the reason. 2. Lay one strip gently on the water, so that only the lower side gets wet. 3. Watch for ten seconds. 4. Do it again with a new strip.  
@@ -489,24 +489,24 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   - Ask: The strip curled up off the water. Which side got longer, the wet side or the dry side? (good: The wet side. It is on the outside of the curve.; The wet side swelled.)
   - Note: The strip curls upward within a few seconds. Paper fibres swell when wet, so the wet side grows a little longer than the dry side. A strip with one long side and one short side has to bend. After a minute the water soaks through, and the strip goes flat again.
 - **s2 (8 min)**  
-  *Parent does:* 1. Split each pod along the seam and take out the seeds. 2. Your child draws one pod half. 3. Ask what shape the halves will have when they are dry, and why. 4. Put the halves on a plate on a sunny windowsill.  
+  *Parent does:* 1. Split each pod along the seam and take out the seeds. 2. Your child takes a photo of one pod half, or draws it. 3. Ask what shape the halves will have when they are dry, and why. 4. Put the halves on a plate on a sunny windowsill.  
   *Parent says:* A pod wall has layers, like the two sides of the paper strip. What will happen to these halves as they dry? Why do you think so?  
-  *Child mode:* Split the pods. Take out the seeds. Draw one pod half. Guess what shape the halves will have when dry. Put them in the sun.
+  *Child mode:* Split the pods. Take out the seeds. Take a photo of one pod half, or draw it. Guess what shape the halves will have when dry. Put them in the sun.
   - Ask: If one layer of the pod wall shrinks more than the other as it dries, what must the wall do? (good: Bend or curl, like the paper.; Twist.)
   - Note: The seeds can go into dinner. Do not explain yet what will happen.
   - Wait: Leave the pod halves in the sun for 2 days
 - **s3 (5 min)**  
-  *Parent does:* 1. Look at the dry halves. 2. Your child draws the same half again. 3. Ask what they see and why they think it happened. Then read the note below together.  
+  *Parent does:* 1. Look at the dry halves. 2. Your child takes a photo of the same half again and puts it beside the first photo. 3. Ask what they see and why they think it happened. Then read the note below together.  
   *Parent says:* What shape are the halves now? Why do you think a flat pod wall dried into that shape?  
-  *Child mode:* Look at the dry pod halves. Draw one again. What changed? Say why you think that happened.
+  *Child mode:* Look at the dry pod halves. Photograph the same half again. Put the two photos side by side. What changed? Say why you think that happened.
   - Ask: On the plant, the two halves are joined along a seam while they dry. What happens when the seam finally gives way? (good: The halves spring apart and twist.; The seeds are flicked out.)
   - Note: Many pod halves twist into a loose spiral, and some only curl a little. Write down what yours did. The wall of a bean pod has two layers of stiff fibres that lie at a slant to each other. As they dry, each layer shrinks in a different direction, so the wall twists. Shop beans may twist less than wild ones. For thousands of years farmers have chosen plants whose pods stay shut, so that the seeds do not spill before the harvest.
   - Check: A dry pod bursts and throws the seeds. Where did the energy for the throw come from? → **Strain built up as the pod dried**
 ### a3 · The Sock Walk: who rides on your feet? (if you have a park or a field nearby) (30 min)
 - **safety:** A grown-up comes along. Walk only in grass that is lower than your ankle, in a place you know well. Keep away from thorny bushes. Wash hands afterwards.
-- **record:** Tape one seed of each kind onto the white paper. Beside each, draw the part that held on to the sock, as seen through the lens. Write how many kinds you found and how many seeds in all.
+- **record:** Tape one seed of each kind onto the white paper. Beside each, write which part held on to the sock, such as hooks or spikes, or draw it as seen through the lens. Write how many kinds you found and how many seeds in all.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Find a patch of rough grass that has gone to seed. 2. Ask the question below and write the guess. 3. Your child pulls the sock over one shoe.  
+  *Parent does:* 1. Find a patch of rough grass that has gone to seed. 2. Ask how many seeds your child expects, and write the guess. 3. Your child pulls the sock over one shoe.  
   *Parent says:* How many seeds do you think will ride on this sock after fifty steps? How could a seed hold on to wool?  
   *Child mode:* Pull the sock over your shoe. Guess how many seeds will stick after fifty steps. How could a seed hold on?
   - Note: The dry months after the rains are best, when grasses have ripe seeds. A mown lawn gives almost nothing. Try the rough edge of a park, a field path or an empty plot.
@@ -523,7 +523,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   - Note: You may find spear grass with sharp points, burrs with hooks, and seeds with backward-pointing hairs. In 1941 a Swiss engineer, George de Mestral, looked at burrs from his dog's coat under a microscope. He copied their tiny hooks and invented Velcro. To go on, lay the sock in a tray of damp soil and see what comes up in two weeks.
   - Check: A seed has tiny hooks all over. What are the hooks most likely for? → **Catching in an animal's fur**
 ### a4 · Where Did My Dinner Come From? Trace the journeys of ten foods (25 min)
-- **record:** Make a table with three columns: the food, my guess (India or elsewhere), and the home region from the table. Count the foods from each region. If you have a map, draw a line from each home region to where you live.
+- **record:** Make a table with three columns: the food, my guess (India or elsewhere), and the home region from the table. Count the foods from each region. If you have a map, trace a finger from each home region to where you live.
 - **s1 (7 min)**  
   *Parent does:* 1. Your child lists ten plant foods from today's meals. Include spices, dals and grains. 2. For each one they guess: first grown in India, or somewhere else? 3. Write the guesses and one reason.  
   *Parent says:* List ten plant foods we ate today. For each one, guess where people first grew it: in India, or somewhere else? Why?  
@@ -531,9 +531,9 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   - Ask: Which three do you feel most sure are Indian? Why? (good: Chilli, because Indian food is spicy.; Rice, because we eat it every day.; Mango, because there are so many kinds here.)
   - Note: Most children, and most grown-ups, name chilli, tomato and potato as Indian. Do not correct the guesses yet.
 - **s2 (10 min)**  
-  *Parent does:* 1. Look up each food in the table of home regions. 2. Write the home region beside each guess. 3. Count the foods from each region. 4. On a map, draw a line from each region to your home.  
+  *Parent does:* 1. Look up each food in the table of home regions. 2. Write the home region beside each guess. 3. Count the foods from each region. 4. On a map or globe, point to each home region and trace the way to your home with a finger.  
   *Parent says:* Find each food in the table. Where did it first grow? Count how many came from each part of the world.  
-  *Child mode:* Find each food in the table. Write the home region. Count the foods from each region. Draw the journeys on a map.
+  *Child mode:* Find each food in the table. Write the home region. Count the foods from each region. Point to each home region on the map. Trace the way to your home.
   - Ask: Which food surprised you most? Why did you think it was from here? (good: Chilli, because it is in everything.; Tamarind, because it sounds so Indian.; Potato, because we eat it so often.)
   - Note: An example: idli and sambar. Rice, urad, tuvar, drumstick, turmeric and curry leaf are from Asia. Tamarind is from Africa. Onion is from Central Asia. Coriander is from the lands round the Mediterranean Sea. Tomato and chilli are from the Americas.
 - **s3 (8 min)**  
@@ -555,11 +555,11 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 - **s2 (10 min)**  
   *Parent does:* 1. Your child asks an older person the four questions below. 2. They write the answers in a few words. 3. Thank the person.  
   *Parent says:* Ask these four questions. Which kinds did you eat as a child? Which are hard to find now? Who kept the seeds in your family? How were the seeds stored?  
-  *Child mode:* Ask an older person four things. Which kinds did you eat as a child? Which are hard to find now? Who saved the seeds? How did they keep them?
+  *Child mode:* Ask an older person the four questions. Write each answer in a few words. Then say thank you.
   - Note: In many farming families the women chose and stored the seed. Seeds were often kept in clay pots or baskets with dry neem leaves or ash, sealed with clay. If the older person never farmed, ask about fruits and vegetables that tasted different when they were young.
 - **s3 (8 min)**  
   *Parent does:* 1. Compare the older person's list with your child's list. 2. Ask the questions below. 3. Your child makes a card for one variety.  
-  *Parent says:* Which kinds did they know that we do not? Where have those kinds gone? Does it matter if a kind is lost?  
+  *Parent says:* Which kinds did they know that we do not? Why are those kinds hard to find now? Does it matter if a kind is lost?  
   *Child mode:* Compare the two lists. Which kinds are missing from yours? Make a card for one variety. Write what makes that kind special.
   - Ask: If farmers everywhere grew only one kind of rice, what could go wrong? (good: One disease could kill the whole crop.; That kind might not suit a flood or a dry year.; We would lose tastes, and rice for special uses.)
   - Note: Bananas are a useful example to mention. Most bananas sold across the world are one variety, called Cavendish, and a fungus disease is now spreading through those farms. India grows many banana varieties, which makes Indian banana farming safer.
@@ -611,9 +611,9 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 - **general:** A spinner with two wings, like the one in the Fan Lane Test, with the wings made longer or wider.; A parachute: a square of paper with a thread from each corner, and the paper clip hanging below.; A flat glider: a wide sheet with the paper clip at the front edge, so that the model slides forward as it sinks.
 - **creative:** A spinner with three wings, like a drumstick seed or the fruit of the hiptage vine.; A single curved wing with the paper clip at one end, like a mahogany seed.; A wide, thin wing swept back at the tips, like the gliding seed of the Javan cucumber vine.; A paper disc cut into a fringe of thin strips all round, like the hairs on a tridax fruit.
 - **s1 (7 min)**  
-  *Parent does:* 1. Look up the long-wing spinner's mean fall time from the Fan Lane Test, or time it now. 2. Ask your child what makes a thing fall slowly. 3. Your child draws a design and writes a predicted fall time.  
-  *Parent says:* The long-wing spinner took nearly 2 seconds to fall 2 metres. What made the fall slow? Draw a design that could be even slower. How long will yours take?  
-  *Child mode:* What makes a thing fall slowly? Draw your own paper seed. Guess how long your seed will take to fall 2 metres.
+  *Parent does:* 1. Look up the long-wing spinner's mean fall time from the Fan Lane Test, or time it now. 2. Ask your child what makes a thing fall slowly. 3. Your child draws a design, or tells you the plan, and writes a predicted fall time.  
+  *Parent says:* The long-wing spinner took nearly 2 seconds to fall 2 metres. What made the fall slow? Draw a design, or tell me your plan, that could be even slower. How long will yours take?  
+  *Child mode:* What makes a thing fall slowly? Draw your own paper seed, or tell your plan. Guess how long your seed will take to fall 2 metres.
   - Ask: You cannot change the weight of the paper clip. So what can you change? (good: How wide the paper spreads.; The shape, so that it spins or glides.; Where the clip sits.)
 - **s2 (13 min) · grown-up needed**  
   *Parent does:* 1. Your child builds the design. 2. Do one trial drop. 3. Your child changes one thing and tries again. 4. Allow three rounds of changes.  
@@ -621,7 +621,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
   *Child mode:* Build your paper seed. Try one drop. Watch what happens. Change one thing. Try again.
   - Note: Many first designs flip over or dive. A model is steady when the heavy clip is low and in the middle, or at the very front of a glider. Changing one thing at a time shows which change helped.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* 1. Time three falls of the final design from 2 metres. 2. Work out the mean. 3. Compare it with the long-wing spinner. 4. Ask the questions below.  
+  *Parent does:* 1. Time three falls of the final design from 2 metres. 2. Work out the mean: add the three times and divide by 3. 3. Compare it with the long-wing spinner. 4. Ask the questions below.  
   *Parent says:* Time three falls and find the mean. Did you beat the spinner? Which real seed is your design most like?  
   *Child mode:* Time three falls. Find the mean. Did you beat the spinner? Which real seed is your design like?
   - Ask: A slow fall is good for a wind seed. What would be the cost to a real plant of making a very big wing? (good: The wing takes food and material to make.; A big wing could catch in the branches.; The plant could make fewer seeds.)
@@ -633,9 +633,9 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 - **general:** Hooks: thin strips of paper or tape with the tips bent over, stuck all round the bean.; Spikes: broom bristles taped to the bean so that they point outwards.; Stickiness: a ring of tape round the bean with the sticky side facing out.
 - **creative:** Barbs that all point backwards, so that the seed slides into the wool easily but will not slide out.; A great many very small hooks in place of a few big ones, as on a burr.; A seed with sharp points on every side, so that one point always faces up, like the thorny fruit called nerunjil or gokhru.; A long springy tail that wraps round a thread of the sock.
 - **s1 (7 min)**  
-  *Parent does:* 1. Ask how a seed could hold on to fur with no hands. 2. Your child draws a design round a rajma bean. 3. They predict how many steps it will stay on.  
-  *Parent says:* Some seeds travel on the fur of animals. How could a seed hold on? Draw your design. How many steps will it stay on?  
-  *Child mode:* How can a seed hold on to fur? Draw your design round a rajma bean. Guess how many steps it will stay on.
+  *Parent does:* 1. Ask how a seed could hold on to fur with no hands. 2. Your child draws a design round a rajma bean, or tells you the plan. 3. They predict how many steps it will stay on.  
+  *Parent says:* Some seeds travel on the fur of animals. How could a seed hold on? Draw your design, or tell me your plan. How many steps will it stay on?  
+  *Child mode:* Draw your design round a rajma bean, or tell your plan. Guess how many steps it will stay on.
   - Ask: Wool is made of many thin loops and hairs. What shape catches in a loop? (good: A hook.; A barb that points backwards.; Something sticky.)
 - **s2 (13 min)**  
   *Parent does:* 1. Your child builds the model. 2. Lay it on the floor. Brush the socked foot past once. 3. If it catches, walk 20 steps. 4. Change one thing and test again.  
@@ -645,7 +645,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 - **s3 (10 min)**  
   *Parent does:* 1. Do the final test: one brush, 20 steps, then one firm rub on a table leg. 2. Ask the questions below. 3. Your child writes one sentence on how the seed gets off.  
   *Parent says:* Final test. Did it catch, stay on, and come off again? In the wild, how would your seed leave the animal?  
-  *Child mode:* Do the final test. Did your seed catch? Did it stay on? Did it come off with one rub? Write how it would leave an animal.
+  *Child mode:* Do the final test: one brush, 20 steps, then one firm rub. Write one sentence on how your seed would leave an animal.
   - Ask: Why must a hitch-hiker seed be able to come off again? (good: If the seed stays on for ever, the seed never reaches the soil.; Animals rub and groom, and the seed must fall off then.)
   - Ask: The animal gets nothing for carrying a burr. How is that different from a bird who eats a berry? (good: The bird is paid with food.; The burr takes a free ride.)
   - Note: In 1941 the Swiss engineer George de Mestral found burrs in his dog's coat after a walk. Under a microscope he saw hundreds of tiny hooks. He spent years copying them in nylon, and the result was Velcro, which closes many shoes and bags today.

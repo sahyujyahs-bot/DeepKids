@@ -326,24 +326,24 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **s3 (3 min)**  
   *Parent does:* 1. Point to the Sun number column. 2. Say that the bare planet will warm from 8 degrees to 47 degrees. 3. Ask what the planet with daisies will do, and why. 4. Write the guess and the reason in the notebook.  
   *Parent says:* The bare planet goes from 8 degrees to 47 degrees. What do you think the daisy planet will do? Will it warm just as fast, more slowly, or stay about the same? Why do you think so?  
-  *Child mode:* The bare planet warms from 8 to 47 degrees. What will the daisy planet do? Write your guess. Write why you think so.
+  *Child mode:* The bare planet warms from 8 to 47 degrees. What will the daisy planet do? Write your guess.
   - Ask: Why do you think so? (good: It will warm just as fast, because the Sun is the same for both. (A fair guess. The test will show.); It will warm more slowly, because pale daisies cool it.; It will be hotter, because dark daisies warm it. (A fair guess. The test will show.))
   - Note: Do not say which guess is right. Any guess with a reason is a good start.
 - **s4 (18 min)**  
   *Parent does:* 1. Play rounds 2 to 14, one at a time. 2. In each round, count the dark daisies and the pale daisies and write both numbers. 3. Work out the temperature with rule 1 and write it down. 4. Then use rule 2 or rule 3 to change the daisies for the next round. 5. Let your child do the sums and move the beans.  
-  *Parent says:* Count the dark daisies and the pale daisies. Now work out the temperature. Is it below 20, above 25, or in between? So what happens to the daisies?  
+  *Parent says:* Count the dark daisies and the pale daisies. Now work out the temperature. Is it below 20, above 25, or in between?  
   *Child mode:* Play rounds 2 to 14. Each round, count the dark and pale daisies. Work out the temperature. Write it down. Then change the daisies by the rules.
   - Ask: In round 5 the temperature goes above 25 for the first time. What happens to the daisies then? (good: Three dark daisies come off and three pale daisies go on.; The pale daisies start to grow, because the planet is too warm for the dark ones.)
   - Note: The rules always give the same answers, so you can check each round. The daisy planet's temperatures for rounds 1 to 14 are 8, 14, 20, 23, 26, 23, 26, 23, 26, 26, 26, 26, 26 and 27. The dark daisies go 0, 3, 6, 6, 6, 3, 3 and then 0. The pale daisies go 0, 0, 0, 0, 0, 3, 3, 6, 6, 9, 12, 15, 18 and 20. If your numbers differ, look for a slip in that round and carry on from there.
 - **s5 (8 min)**  
   *Parent does:* 1. On squared paper, draw a line across the bottom for rounds 1 to 14. 2. Draw a line up the side for temperature, from 0 to 50 degrees. 3. In one colour, mark the bare planet's temperature for each round, and join the marks. 4. In the other colour, mark the daisy planet's temperature for each round, and join the marks. 5. Shade the band from 20 to 25 degrees lightly with pencil.  
   *Parent says:* Let's draw both planets on one graph. One line is the bare planet, and the other is the planet with daisies. Shade the band where daisies grow best.  
-  *Child mode:* Draw rounds along the bottom. Draw temperature up the side. Mark the bare planet in one colour. Mark the daisy planet in the other colour. Join the marks. Shade from 20 to 25.
+  *Child mode:* Draw rounds along the bottom. Draw temperature up the side. Mark the bare planet in one colour. Mark the daisy planet in the other colour. Join the marks. Shade from 20 to 25. No pencil to hand? Lay a bean at the right height for each round instead.
   - Note: The bare planet's line is straight and steep. The daisy planet's line climbs quickly at first and then runs almost level, just above the shaded band.
 - **s6 (5 min)**  
   *Parent does:* 1. Ask your child what they thought would happen, what they saw, and why it happened. 2. Count the rounds in which each planet was between 20 and 27 degrees. 3. Ask what the model leaves out. 4. Only then read the explanation card called 'The Daisy Planet: what a model can show, and what it cannot'.  
-  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did it happen? Then tell me one thing about a real planet that our paper planet leaves out.  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Then name one thing our paper planet leaves out.
+  *Parent says:* What did you think would happen? What did you see? Why did it happen? Then tell me one thing about a real planet that our paper planet leaves out.  
+  *Child mode:* Look at your table and graph. Tell your grown-up the story of the Daisy Planet.
   - Ask: Why did the daisy planet stay near 26 degrees while the Sun got hotter? (good: Each time it got too warm, more pale daisies grew, and they cooled it.; The daisies changed the temperature, and the temperature changed the daisies, so it kept coming back.)
   - Ask: Did any daisy have to plan to cool the planet? (good: No. Each kind of daisy grew when the warmth suited them.; No. The cooling came from many daisies together.)
   - Ask: What does the paper planet leave out? (good: Rain, clouds, seas, animals and many other kinds of plants.; Real daisies do not grow exactly 3 at a time.; A planet has warm and cold places, not one temperature.)
@@ -354,28 +354,28 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **predict:** Guess first. After 30 minutes in the sun, which tumbler of water will be warmer: the one in black cloth, the one in white cloth, or neither? Why do you think so? Write your guess and your reason.
 - **fair test:** Use two tumblers of the same size and material. Put the same amount of water from the same tap in each. Wrap both in one layer of the same kind of cloth. Stand them side by side in the same sunlight for the same time. Change only the colour of the cloth.
 - **safety:** Do this where direct sunlight falls, but never look at the Sun. Put glass tumblers where they cannot be knocked over.
-- **record:** Draw the two tumblers. Write which one felt warmer, and the two temperatures if you measured them. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **record:** Write which one felt warmer, and the two temperatures if you measured them. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Tumbler | How the water feels at the start | How the water feels after 30 minutes | Temperature after 30 minutes, if you have a thermometer
 - **s1 (5 min)**  
   *Parent does:* 1. Wrap one tumbler in black cloth and the other in white cloth. Cover the sides fully, in one layer. 2. Hold each cloth on with a rubber band. 3. Pour 100 millilitres of tap water into each tumbler. That is about half a small tumbler. 4. Ask your child to dip a finger of each hand into the two tumblers. They should feel the same.  
   *Parent says:* Both tumblers have the same water from the same tap. Dip a finger in each. Do they feel the same now?  
-  *Child mode:* Wrap one tumbler in black cloth. Wrap the other in white cloth. Pour the same water into each. Dip a finger in each. Do they feel the same?
+  *Child mode:* Wrap one tumbler in black cloth. Wrap the other in white cloth. Pour the same water into each. Dip a finger in each.
   - Note: If you have a thermometer, measure both now. They should agree to within one degree.
 - **s2 (3 min)**  
   *Parent does:* 1. Stand both tumblers side by side in direct sunlight. 2. Check that no shadow falls on either one. 3. Ask for a guess and a reason, and write them down. 4. Note the time.  
   *Parent says:* Both will stand in the same sun for 30 minutes. Which water will be warmer at the end? Or will they be the same? Why do you think so?  
-  *Child mode:* Stand both tumblers in the sun. Which water will be warmer after 30 minutes? Write your guess. Write why you think so.
+  *Child mode:* Stand both tumblers in the sun. Which water will be warmer after 30 minutes? Write your guess.
   - Ask: Why do you think so? (good: The black one, because dark clothes feel hotter in the sun.; The same, because the same sun falls on both. (A fair guess. The test will show.))
 - **s3 (30 min) · grown-up needed**  
-  *Parent does:* 1. Leave the tumblers in the sun for 30 minutes. Do not move them. 2. While you wait, lay your hand on a dark thing and a pale thing that are already in the sun. Try a dark and a pale tile, or two parked scooters. 3. Use the rest of the time to draw the two tumblers in the notebook.  
+  *Parent does:* 1. Leave the tumblers in the sun for 30 minutes. Do not move them. 2. While you wait, lay your hand on a dark thing and a pale thing that are already in the sun. Try a dark and a pale tile, or two parked scooters. 3. Use the rest of the time to ask your child again which tumbler they think will be warmer.  
   *Parent says:* While we wait, let's feel things that are already in the sun. Find one dark thing and one pale thing. Which is hotter to touch?  
-  *Child mode:* Leave the tumblers for 30 minutes. Find a dark thing and a pale thing in the sun. Touch each one quickly. Which is hotter? Draw the two tumblers.
+  *Child mode:* Leave the tumblers for 30 minutes. Find a dark thing and a pale thing in the sun. Touch each one quickly. Which is hotter?
   - Note: Metal in strong sun can be hot enough to hurt, so touch it first yourself. You need not stand by the tumblers for the whole 30 minutes.
   - Wait: Leave the tumblers in the sun for 30 minutes.
 - **s4 (7 min)**  
   *Parent does:* 1. After 30 minutes, ask your child to dip a finger of each hand into the two tumblers at the same moment. 2. If you have a thermometer, measure the black one, then the white one. 3. Write the results in the table. 4. Ask your child what they thought would happen, what they saw, and why it happened. 5. Ask how this result fits the Daisy Planet rules.  
-  *Parent says:* Dip a finger in each at the same time. Which is warmer? What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Dip a finger in each tumbler at the same time. Which is warmer? Say what you guessed. Say what you saw. Say why it happened.
+  *Parent says:* Which water is warmer? What did you think would happen? What did you see? Why do you think it happened?  
+  *Child mode:* Dip a finger in each tumbler at the same time. Then tell your grown-up what you guessed, what you saw and why.
   - Ask: Why did the water in the black cloth get warmer? (good: Black cloth takes in more of the sunlight and turns it into heat.; White cloth reflects more of the sunlight away.)
   - Ask: How does this fit the Daisy Planet rules? (good: Dark daisies take in more sunlight, so they warm the ground.; Pale daisies reflect sunlight, so they cool the ground.)
   - Note: In strong sun the black tumbler is usually 3 to 8 degrees warmer, which fingers can feel easily. If the sky was hazy and you feel no difference, leave them for another 30 minutes. On a cloudy day, wait for a sunny one. An LED lamp gives too little heat for this test.
@@ -389,8 +389,8 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **results table:** Where the eyes look | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Middle value (seconds)
 - **s1 (4 min)**  
   *Parent does:* 1. Clear a space. 2. Show how to stand the stick upright on a flat palm, hold it with the other hand, and then let go. 3. Let your child practise for two minutes, looking wherever they like. 4. Ask what their hand does when the stick starts to tip.  
-  *Parent says:* Stand the stick on your palm and let go. Keep it up for as long as you can. What does your hand do when the stick starts to tip?  
-  *Child mode:* Stand the stick on your flat palm. Let go with the other hand. Keep the stick up. What does your hand do when the stick tips?
+  *Parent says:* Stand the stick on your palm and let go. Keep it up for as long as you can.  
+  *Child mode:* Stand the stick on your flat palm. Let go with the other hand. Keep the stick up. Notice what your hand does when the stick tips.
   - Ask: What does your hand do when the stick starts to tip? (good: My hand moves the same way as the tip, to get back under the stick.; I see the stick lean and I move to catch it.)
   - Note: A longer stick is easier, because it tips more slowly. If the stick falls at once, use a longer one.
 - **s2 (2 min)**  
@@ -415,20 +415,20 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 ### a1 · Zoom Out: one living being at five levels (10 min)
 - **record:** Keep the drawing of five circles. Beside each circle, write one thing your living being gets from that level.
 - **s1 (3 min)**  
-  *Parent does:* 1. Look out together and choose one living being. A crow, a pigeon, an ant, a street tree or a potted tulsi will do. 2. Draw five circles on the paper, one inside the next. 3. Draw your being in the smallest circle and write ORGANISM beside it. 4. Ask what this one being needs in order to stay alive and have young.  
-  *Parent says:* Choose one living being you can see. That one being is called an organism. What does this one organism need to stay alive and to have young? What do you notice? What do you wonder?  
-  *Child mode:* Choose one living being outside. Draw five circles, one inside the next. Draw your being in the middle. Write ORGANISM. What does this being need to live?
+  *Parent does:* 1. Look out together and choose one living being. A crow, a pigeon, an ant, a street tree or a potted tulsi will do. 2. Draw five circles on the paper, one inside the next. 3. Write your being's name in the smallest circle, and write ORGANISM beside it. 4. Ask what this one being needs in order to stay alive and have young.  
+  *Parent says:* Choose one living being you can see. One living being on its own is called an organism.  
+  *Child mode:* Choose one living being outside. Draw five circles, one inside the next. Write its name in the middle. Write ORGANISM.
   - Ask: What does this one organism need to stay alive and have young? (good: Food, water and air.; A place to rest or nest.; A mate of the same kind.)
   - Note: If nothing is in sight, your child can choose themself. A person is an organism too.
 - **s2 (4 min)**  
-  *Parent does:* 1. In the second circle, draw more of the same kind, and write POPULATION. 2. In the third circle, add four other kinds of living being from the same place, and write COMMUNITY. 3. In the fourth circle, add four non-living things from the same place, and write ECOSYSTEM. 4. In the biggest circle, draw the Earth, and write BIOSPHERE.  
+  *Parent does:* 1. In the second circle, write how many of the same kind you can see, and write POPULATION. 2. In the third circle, name four other kinds of living being from the same place, and write COMMUNITY. 3. In the fourth circle, name four non-living things from the same place, and write ECOSYSTEM. 4. In the biggest circle, write EARTH, and write BIOSPHERE. Words are enough. Draw a little only if you want to.  
   *Parent says:* Now zoom out. Who else of the same kind lives here? Which other kinds of living being live here? What non-living things are here? The last circle is every living place on the Earth.  
-  *Child mode:* Circle 2: more of the same kind. Write POPULATION. Circle 3: four other kinds. Write COMMUNITY. Circle 4: four non-living things. Write ECOSYSTEM. Circle 5: the Earth. Write BIOSPHERE.
+  *Child mode:* Circle 2: how many of the same kind. Write POPULATION. Circle 3: name four other kinds. Write COMMUNITY. Circle 4: name four non-living things. Write ECOSYSTEM. Circle 5: the Earth. Write BIOSPHERE.
   - Note: Non-living things are water, air, soil, rock, sunlight and warmth. Remind your child that a community includes plants and beings too small to see.
 - **s3 (3 min)**  
   *Parent does:* 1. Point to each circle in turn. 2. Ask what your being gets from that level. 3. Write one thing beside each circle. 4. Ask which circle your being could do without.  
   *Parent says:* What does your being get from each circle? Is there any circle your being could do without?  
-  *Child mode:* Point to each circle. What does your being get from it? Write one thing beside each. Could your being do without any circle?
+  *Child mode:* Point to each circle. Tell what your being gets from it. Write one thing beside it.
   - Ask: What does a crow get from each level? (good: From the population: a mate, and others to warn of danger.; From the community: food, and a tree to nest in.; From the ecosystem: water, air and warmth.; From the biosphere: rain and oxygen that come from far away.)
   - Check: All the house crows of one town, taken together, are which level of life? → **A population**
 ### a2 · Three Planets' Air: which planet is the odd one out? (15 min)
@@ -436,7 +436,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **s1 (3 min)**  
   *Parent does:* 1. Say that Venus, the Earth and Mars are three rocky planets in a row, with the Earth in the middle. 2. Say that the air of Venus and the air of Mars are each about 95 parts carbon dioxide in every 100. 3. Ask what your child would expect the Earth's air to be, and why. 4. Write the guess down.  
   *Parent says:* Venus is on one side of us and Mars is on the other. Their air is almost all carbon dioxide. So what would you expect the Earth's air to be made of? Why?  
-  *Child mode:* Venus and Mars have air that is nearly all carbon dioxide. The Earth is between them. What would you expect our air to be? Write your guess and why.
+  *Child mode:* Venus and Mars have air that is nearly all carbon dioxide. The Earth is between them. Write your guess for our air, and why.
   - Ask: What would you expect the Earth's air to be? (good: Mostly carbon dioxide too, because the Earth is between them. (A sensible guess from the pattern.); Something different, because we can breathe it.)
 - **s2 (7 min)**  
   *Parent does:* 1. Draw three strips, each 20 squares long. Label them Venus, Earth and Mars. 2. Choose a colour for carbon dioxide, one for nitrogen and one for oxygen. 3. Venus: colour 19 squares as carbon dioxide and 1 as nitrogen. 4. Mars: colour 19 squares as carbon dioxide and 1 as nitrogen. 5. Earth: colour 16 squares as nitrogen and 4 as oxygen. 6. Beside the Earth's strip, make one tiny dot for carbon dioxide.  
@@ -446,7 +446,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **s3 (5 min)**  
   *Parent does:* 1. Lay the three strips one under the other. 2. Ask which planet is the odd one out. 3. Remind your child that oxygen reacts easily: it rusts iron and it burns wood. 4. Ask why so much oxygen is surprising, and who could be making it.  
   *Parent says:* Which planet is the odd one out? Oxygen rusts iron and burns wood, so it keeps getting used up. Then why is there still so much oxygen in our air?  
-  *Child mode:* Which strip is the odd one out? Oxygen gets used up by rusting and burning. So why does our air still have so much?
+  *Child mode:* Which strip is the odd one out? Oxygen gets used up by rusting and burning.
   - Ask: Why is there still so much oxygen in the Earth's air? (good: Plants and other green beings keep making it.; Someone must be putting it back all the time.; Venus and Mars have nobody to make it.)
   - Note: This is the reasoning James Lovelock and Dian Hitchcock used in the 1960s. A planet with no life has air in which nothing is left to react. The Earth's air is kept far from that state by living beings.
   - Check: The Earth's air has far more oxygen than the air of Venus or Mars. What is the best explanation? → **Living beings keep making oxygen**
@@ -464,7 +464,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **s3 (3 min)**  
   *Parent does:* 1. Ask where the slope is. Is it in any one grain? 2. Say that a feature of the whole that no part has is called an emergent property. 3. Ask for one emergent property of a population, one of a bee colony, and one of your child's own body.  
   *Parent says:* Both heaps had the same slope, but no grain has a slope. So where does the slope come from? Can you think of something a group of living beings has that one member does not have?  
-  *Child mode:* No grain has a slope, but every heap has one. Where does the slope come from? What can a group of living beings do that one cannot?
+  *Child mode:* No grain has a slope, but every heap has one. Where does the slope come from?
   - Ask: What does a group of living beings have that one member does not? (good: A population has a birth rate.; A bee colony keeps the hive warm.; A forest makes shade and damp air.; I can ride a cycle, but no single cell of my body can.)
   - Check: Which of these is an emergent property of a population of deer? → **The number of fawns born each year**
 ### a4 · When the Daisies Run Out of Room: how far can a system steady itself? (12 min)
@@ -477,12 +477,12 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **s2 (6 min)**  
   *Parent does:* 1. Play rounds 15 to 20 with the same rules as before. 2. Write the temperature each round. 3. In the round when the temperature goes above 40, take off every daisy. 4. Add the six new points to the graph from the Daisy Planet Test.  
   *Parent says:* Work out the temperature. Can any more pale daisies grow? Is it above 40 yet?  
-  *Child mode:* Play rounds 15 to 20. Write the temperature each round. Above 40 degrees, take off all the daisies. Add the new points to your graph.
+  *Child mode:* Play rounds 15 to 20. Write the temperature each round. Above 40 degrees, take off all the daisies. Add the new points to your graph, or just read the numbers out.
   - Note: The temperatures for rounds 15 to 20 are 30, 33, 36, 39, 42 and 65. The daisies die after round 19. In round 20 the planet is bare, so the temperature is the Sun number, 65.
 - **s3 (3 min)**  
   *Parent does:* 1. Look at the graph together. 2. Ask why the temperature began to climb in round 15. 3. Ask why it jumped by 23 degrees between rounds 19 and 20, when the Sun number rose by only 3.  
   *Parent says:* Why did the temperature start to climb after round 14? And why did it jump so far in the last round, when the Sun only got 3 degrees hotter?  
-  *Child mode:* Why did the temperature climb after round 14? Why did it jump so far in the last round?
+  *Child mode:* Look at your graph. Find the round where the line starts to climb. Find the round where it jumps.
   - Ask: Why did the temperature jump by 23 degrees in the last round? (good: The pale daisies had been cooling the planet by 20 degrees. When they died, that cooling was lost all at once.; Losing the daisies made the planet hotter, and a hotter planet cannot grow daisies.)
   - Note: A system that steadies itself can do so only up to a limit. Past the limit, the loss of the living beings makes the change worse. That is reinforcing feedback.
   - Check: A paper planet is full of pale daisies and the Sun keeps getting hotter. What happens to the temperature? → **It starts to rise again**
@@ -506,22 +506,22 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
   - Ask: Where does each statement go, and why? (good: A is agreed. The oxygen in the air is the clearest evidence.; B is argued about. The Earth froze over, and life has caused disasters too.; C depends on what 'alive' means. The Earth keeps steady but has no young.)
   - Check: Which statement do almost all scientists agree with? → **Living beings change the Earth's air, water and soil**
 ### a6 · One Change, Five Levels: follow a change up and down (15 min)
-- **record:** Keep the two ladders. On each rung, write what changed at that level.
+- **record:** Keep the five slips. On the front of each, write what changed in the rain story. On the back, write what changed in the fig tree story.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw a ladder with five rungs. From the bottom, label them organism, population, community, ecosystem and biosphere. 2. Start at the top. Write on the top rung: the monsoon wind brings very little rain one year. 3. Think of a village tank where egrets nest. Egrets are white water birds who eat fish and frogs. 4. Ask what happens on each rung below, one at a time, and write the answers.  
+  *Parent does:* 1. Write the five levels on five paper slips: organism, population, community, ecosystem and biosphere. Lay them in a column as a ladder, organism at the bottom. 2. Start at the top. Write on the top rung: the monsoon wind brings very little rain one year. 3. Think of a village tank (a pond) where egrets nest. Egrets are white water birds who eat fish and frogs. 4. Ask what happens on each rung below, one at a time, and write the answers.  
   *Parent says:* The rain comes from far away, so it belongs to the top rung. One year very little rain comes. What happens to the tank? Then to the beings who live there? Then to the egrets? Then to one egret chick?  
-  *Child mode:* Draw a ladder with five rungs. Label them from organism up to biosphere. Top rung: little rain this year. Now write what happens on each rung below.
+  *Child mode:* Lay the five slips as a ladder, organism at the bottom. Top rung: little rain this year. Say what happens on each rung below. Write a few words on its slip.
   - Ask: What happens on each rung when little rain comes? (good: Ecosystem: the tank shrinks and the mud dries.; Community: there are fewer fish, frogs and water plants.; Population: fewer egrets nest, and fewer chicks are raised.; Organism: one egret chick gets less food.)
 - **s2 (6 min)**  
-  *Parent does:* 1. Draw a second ladder. 2. Start at the bottom. Write on the bottom rung: one big wild fig tree in a forest is cut down. 3. Say that fig trees fruit when few other trees do. Hornbills, macaques and bats all eat the figs and carry the seeds. 4. Ask what happens on each rung above, and write the answers. 5. Ask how far up the ladder this change reaches.  
+  *Parent does:* 1. Turn the five slips over and lay them as a second ladder. 2. Start at the bottom. Write on the bottom rung: one big wild fig tree in a forest is cut down. 3. Say that fig trees fruit when few other trees do. Hornbills, macaques and bats all eat the figs and carry the seeds. 4. Ask what happens on each rung above, and write the answers. 5. Ask how far up the ladder this change reaches.  
   *Parent says:* Now start at the bottom. One big fig tree is cut. Who was eating those figs? What happens to them? What happens to the seeds they used to carry? Does this change reach the top rung?  
-  *Child mode:* Draw a second ladder. Bottom rung: one big fig tree is cut. Write what happens on each rung above. Does the change reach the top?
+  *Child mode:* Turn the slips over for a second ladder. Bottom rung: one big fig tree is cut. Say what happens on each rung above. Write a few words on the back of its slip.
   - Ask: How far up does the loss of one fig tree reach? (good: Population: there is one fig tree fewer, and their fig wasps have nowhere to breed.; Community: hornbills, macaques and bats lose food in the lean months.; Ecosystem: fewer seeds are carried, so fewer young trees grow.; Biosphere: one tree is too small a change to notice.)
   - Note: One tree does not change the biosphere. A change at the bottom reaches the top only when a very great number of organisms do the same thing for a long time.
 - **s3 (4 min)**  
   *Parent does:* 1. Ask what would have to be true for a change at the bottom rung to reach the top. 2. Give two real cases. Bacteria filled the air with oxygen. People burning coal, oil and gas are adding carbon dioxide to the air. 3. Ask what the two cases have in common.  
   *Parent says:* One tree did not change the whole Earth. But bacteria once did, and people are doing so now. What do those two cases have in common?  
-  *Child mode:* One tree did not change the Earth. Bacteria once did. People are doing it now. What do those two have in common?
+  *Child mode:* One tree did not change the Earth. Bacteria once did. People are doing it now.
   - Ask: What do the bacteria and the people have in common? (good: There were a very great number of them, all doing the same thing.; They went on doing it for a long time.; What they gave out spread through the air of the whole Earth.)
   - Check: When can a change made by single organisms reach the whole biosphere? → **When very many do the same for long**
 
@@ -543,21 +543,21 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
   - Ask: Where did the drops on the glass come from? (good: From the damp soil. The water evaporated and then turned back into drops on the cool glass.; From the leaves. Plants give out water vapour.)
   - Wait: Leave the jar for 1 day.
 - **s3 (13 min)**  
-  *Parent does:* 1. On day 4, look at the jar in the morning and again in the afternoon. Note when the glass is misty and when it is clear. 2. On day 7, draw the jar. 3. Look for new leaves, yellow leaves, white threads of mould or tiny animals. 4. Write each one in the jar diary. Do not open the jar.  
+  *Parent does:* 1. On day 4, look at the jar in the morning and again in the afternoon. Note when the glass is misty and when it is clear. 2. On day 7, take a photo of the jar, or draw it. 3. Look for new leaves, yellow leaves, white threads of mould or tiny animals. 4. Write each one in the jar diary. Do not open the jar.  
   *Parent says:* When is the glass misty, and when is it clear? What is the water doing all day? Is anyone living in the jar that we did not put there?  
-  *Child mode:* On day 4, look in the morning and the afternoon. When is the glass misty? On day 7, draw the jar. Look for new leaves, mould or tiny animals.
+  *Child mode:* On day 4, look in the morning and the afternoon. When is the glass misty? On day 7, photograph or draw the jar. Look for new leaves, mould or tiny animals.
   - Note: Mist usually forms when the glass is cooler than the air inside, often at night and in the morning. Mould and tiny soil animals are part of the jar's community. If a leaf dies, leave it there, because decomposers will break it down.
   - Wait: Come back on day 4 and on day 7.
 - **s4 (8 min)**  
-  *Parent does:* 1. On day 14, draw the jar again. 2. Lay the drawing beside the one from day 7. 3. Ask what has changed and what has stayed the same. 4. Ask where the plant is getting carbon dioxide from, now that the jar is sealed.  
-  *Parent says:* Compare the two drawings. The plant needs carbon dioxide to make food. The lid has been shut for two weeks. So where is the carbon dioxide coming from?  
-  *Child mode:* Draw the jar again. Compare it with the day 7 drawing. The lid is shut. So where does the plant get carbon dioxide?
+  *Parent does:* 1. On day 14, take another photo of the jar, or draw it again. 2. Lay it beside the day 7 photo or drawing. 3. Ask what has changed and what has stayed the same. 4. Ask where the plant is getting carbon dioxide from, now that the jar is sealed.  
+  *Parent says:* Compare the two pictures. The plant needs carbon dioxide to make food. The lid has been shut for two weeks. So where is the carbon dioxide coming from?  
+  *Child mode:* Photograph or draw the jar again. Compare it with day 7. What has changed?
   - Ask: Where does the plant's carbon dioxide come from in a sealed jar? (good: From the microbes in the soil, who breathe it out.; From the plant too, because plants respire as well as photosynthesise.; From dead leaves as decomposers break them down.)
   - Wait: Come back on day 14.
 - **s5 (15 min)**  
-  *Parent does:* 1. On day 21, weigh the jar again and compare with day 1. 2. Ask your child what they thought would happen, what they saw, and why. 3. Draw the jar with arrows for the water going round. 4. Add an arrow for light going in and an arrow for heat coming out. 5. Ask how the jar is like the Earth, and how it is different.  
+  *Parent does:* 1. On day 21, weigh the jar again and compare with day 1. 2. Ask your child what they thought would happen, what they saw, and why. 3. Ask your child to trace the water's path round the jar with a finger: up from the soil, onto the glass, down again. 4. Ask them to point to where light goes in and where heat goes out. 5. Ask how the jar is like the Earth, and how it is different.  
   *Parent says:* The weight is the same as on day 1. What does that tell us? What went round and round inside? What crossed the glass? How is this jar like the whole Earth?  
-  *Child mode:* Weigh the jar again. Has the weight changed? Draw arrows for the water going round. Draw light going in and heat coming out. How is the jar like the Earth?
+  *Child mode:* Weigh the jar again. Has the weight changed? Trace the water's path round the jar with your finger. Point to where light goes in and where heat goes out.
   - Ask: How is the sealed jar like the Earth, and how is it different? (good: Like: nothing is added, and the same water and air go round. Only light and heat cross.; Different: the Earth has millions of kinds of living beings, seas and winds.; Different: the jar is tiny, so one mistake can spoil it quickly.)
   - Note: The weight should be the same to within a gram or two, because no matter can cross glass. If the plant has died, the jar is still an ecosystem of microbes and mould, and the water still goes round. You can keep the jar sealed for months.
   - Check: A sealed jar with soil, water and a plant weighs the same after three weeks. What does this show? → **No matter went in or out**
@@ -576,9 +576,9 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
   *Child mode:* Write the Sun numbers: 8, 13, 18, up to 63. Run 12 rounds, changing 3 daisies each round. Count the rounds from 18 to 28 degrees.
   - Note: With 3 daisies a round the temperatures are 8, 16, 24, 29, 28, 27, 29, 31, 33, 35, 38 and 43. Only 3 rounds are in range. The daisies cannot keep up.
 - **s2 (14 min)**  
-  *Parent does:* 1. Ask your child to choose a new number from 1 to 6, and to say why. 2. Run all 12 rounds with that number and count the rounds in range. 3. Try one more number and compare.  
-  *Parent says:* Which number do you want to try? Why that one? Is the biggest number sure to be the best?  
-  *Child mode:* Choose a number from 1 to 6. Say why. Run 12 rounds and count the rounds in range. Then try one more number.
+  *Parent does:* 1. Ask your child to choose a new number from 1 to 6, and to say why. The number is how many daisies to swap each round. The old rule swaps 3. 2. Run all 12 rounds with that number and count the rounds in range. 3. Try one more number and compare.  
+  *Parent says:* Which number do you want to try? Why that one?  
+  *Child mode:* Choose how many daisies to swap each round, from 1 to 6. Say why. Run 12 rounds and count the rounds in range. Then try one more number.
   - Ask: Is the biggest number the best? (good: No. With 6 the planet swings too far each time.; The best number is close to the Sun's own step.)
   - Note: The scores out of 12 are these. With 1 daisy a round: 2. With 2: 3. With 3: 3. With 4: 4. With 5: 8. With 6: 6. Five wins because it matches the Sun's step of 5. Six is too much, so the temperature swings above and below.
 - **s3 (6 min)**  
@@ -595,7 +595,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 - **s1 (8 min)**  
   *Parent does:* 1. Draw one person in the middle of the sheet. 2. Draw three arrows going in: oxygen, water and food. 3. Draw arrows going out: carbon dioxide, water in breath, sweat and urine, and solid waste. 4. Ask what would happen in a sealed room with only this person in it.  
   *Parent says:* Here is one person in a sealed home. What do they take in? What do they give out? What would happen if the room held nothing else?  
-  *Child mode:* Draw one person. Draw arrows in for oxygen, water and food. Draw arrows out for carbon dioxide, water and waste. What happens in a sealed room?
+  *Child mode:* Draw one person. Draw arrows in for oxygen, water and food. Draw arrows out for carbon dioxide, water and waste. Or tell your grown-up what goes in and out.
   - Ask: What happens to one person alone in a sealed room? (good: The oxygen runs down and the carbon dioxide builds up.; The food and water run out, and the waste piles up.)
 - **s2 (15 min)**  
   *Parent does:* 1. Ask your child to add living beings and machines, one at a time. 2. For each one, draw what goes in and what comes out. 3. Join each waste arrow to someone who needs it. 4. Go on until no arrow ends in nothing.  

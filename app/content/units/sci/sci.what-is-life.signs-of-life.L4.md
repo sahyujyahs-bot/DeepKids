@@ -247,7 +247,7 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
   - Note: A test is fooled when it gives the wrong answer about whether something is alive. A thing that passes but is not alive fools the test. A thing that fails but is alive fools it too.
   - Check: A test says a mule is not alive because she makes no young. Is the test fooled or fair? → **Fooled, because a mule is alive**
 - **s4 (5 min)**  
-  *Parent does:* Count how many cards were fooled and how many were fair. Ask your child what they notice about the fooled cards. Then add up the scores.  
+  *Parent does:* Count how many cards were fooled and how many were fair. Ask your child what they notice about the fooled cards.  
   *Parent says:* Count the F marks. How many tests were fooled? Which things fooled the tests most often? What do you notice?  
   *Child mode:* Count the F marks. Which things fooled the tests most? What do you notice?
   - Note: Flames, crystals, seeds, mules and robots fool the tests most. After your child has said what they notice, explain: a single test is not enough. That is why scientists use a bundle of tests together, and why they still argue about the hard cases.
@@ -259,12 +259,12 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 - **predict:** Before you start, guess. Four glasses of water, from icy cold to very hot, will each get beetroot cubes. Which glass will turn the reddest, and which will stay the clearest? Why do you think so?
 - **fair test:** Every glass has the same amount of water, the same number of cubes cut to the same size, the same rinse and the same waiting time. Only the water temperature changes, so any difference in colour comes from the temperature. The cold glass is the control. It shows what whole, unheated cells do.
 - **safety:** A grown-up cuts the beetroot and pours the hot water. Keep children away from the kettle. Pour the just-boiled water into a thick glass or a steel tumbler, or let the kettle rest for one minute first, because thin glass can crack. Beetroot stains hands and clothes, so wear an old shirt.
-- **record:** For each glass, write a colour score at 5 minutes and at 20 minutes. Zero is clear water and four is deep red. Then draw a bar for each glass, using the 20-minute score.
+- **record:** For each glass, write a colour score at 5 minutes and at 20 minutes. Zero is clear water and four is deep red. Then line up the glasses from clearest to reddest and take a photo, or draw a bar for each glass using the 20-minute score.
 - **results table:** Glass | Water | Colour score after 5 minutes (0 to 4) | Colour score after 20 minutes (0 to 4)
 - **s1 (5 min)**  
   *Parent does:* Show your child the beetroot and the four glasses. Ask for a guess and a reason. Write the guess at the top of the table.  
-  *Parent says:* We will put beetroot cubes in four glasses of water, from icy to very hot. Which glass will turn the reddest? Which will stay clearest? Why do you think so?  
-  *Child mode:* Beetroot cubes go into four glasses of water, from cold to hot. Which glass will turn the reddest? Why do you think so?
+  *Parent says:* We will put beetroot cubes in four glasses of water, from icy to very hot. Which glass will turn the reddest? Which will stay clearest?  
+  *Child mode:* Beetroot cubes go into four glasses of water, from cold to hot. Point to the glass you think will turn the reddest.
   - Ask: Why do you think that glass will turn the reddest? (good: Hot water is stronger.; Heat makes things melt.; The red is stuck inside and heat lets it out.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it down so your child can compare it later. With two or more children, each child makes their own guess. Then one child pours with the grown-up, one starts the timer and one scores. Swap jobs for the 20-minute look. Each child scores the glasses separately, and then they compare. With one child, the grown-up only pours the hot water.
 - **s2 (8 min) · grown-up needed**  
@@ -287,9 +287,9 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
   - Note: Hold the white paper behind each glass to judge the colour. Results vary with the beetroot. Usually glasses A and B stay clear or go very pale pink, glass C goes light pink, and glass D goes pink to deep red within minutes. Beetroot is cheap (a kilo is about Rs 40), so if the result is unclear, repeat with fresh cubes. If every glass looks the same, your cubes were too small or not rinsed enough. Start again with bigger cubes and fresh water.
   - Check: Glass A stays clear and glass D turns deep red. What does this suggest? → **Heat damages whatever kept the red colour inside the cells**
 - **s5 (5 min)**  
-  *Parent does:* Draw a bar for each glass, using the 20-minute score. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Ask your child to line up the four glasses from clearest to reddest. Then ask what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each glass. Say what you thought, what you saw, and why.
+  *Child mode:* Line up the glasses from clearest to reddest. Say what you thought, what you saw, and why.
   - Note: A strong answer says that the red is kept inside each cell, and that heat damaged the skin around the cell so the red leaked out. After they have said what they saw, explain: every cell has a thin skin, called the cell membrane, made of fat and protein. Heat shakes it out of shape, and holes open. A living cell keeps its inside different from the outside, and a heated cell cannot.
   - Think: Boiled beetroot turns the cooking water red. Now you know why. What had happened to the cells?
 ### e2 · Staying Warm: who keeps their own temperature? (40 min)
@@ -297,12 +297,12 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 - **predict:** Before you start, guess. Over half an hour, which will cool down the most, and which will cool down the least? Do you think your own temperature will change? Why do you think so?
 - **fair test:** The tumbler and the bottle are filled from the same jug of warm water at the same time, and all three sit in the same room. You measure them at the same times, using the same thermometer. Only what is being measured changes: open water, wrapped water and a living child. The open tumbler is the control.
 - **safety:** Never use a glass thermometer with silver liquid. Use water no hotter than a warm bath, about 42 degrees Celsius at most. A grown-up pours the warm water. Wipe the thermometer tip with a clean tissue between uses, and wash it with soap and water at the end. If the thermometer is used for water and for the armpit, put cling film over the tip for the water, and use a new piece each time. If several children take turns, wash the tip with soap and water between children.
-- **record:** Write the temperature of the tumbler and the bottle every 5 minutes for 30 minutes. Write your child's temperature at the start, at 15 minutes and at 30 minutes. Then draw one line for each.
+- **record:** Write the temperature of the tumbler and the bottle every 5 minutes for 30 minutes. Write your child's temperature at the start, at 15 minutes and at 30 minutes. Then draw one line for each, or just say how each number changed.
 - **results table:** Time | Tumbler (degrees Celsius) | Wrapped bottle (degrees Celsius) | Child (degrees Celsius)
 - **s1 (4 min)**  
   *Parent does:* Show your child the tumbler, the wrapped bottle and the thermometer. Ask for a guess and a reason. Write the guess at the top of the table.  
-  *Parent says:* We will watch warm water and you for half an hour in the same room. Who will cool the most? Who will cool the least? Why do you think so?  
-  *Child mode:* There is warm water in a tumbler. There is warm water in a wrapped bottle. And there is you. Which one will cool the most? Why?
+  *Parent says:* We will watch warm water and you for half an hour in the same room. Who will cool the most? Who will cool the least?  
+  *Child mode:* There is warm water in a tumbler and in a wrapped bottle. And there is you. Which one will cool the most?
   - Ask: Do you think your temperature will go down, up, or stay about the same? Why? (good: It will stay the same because I am alive.; It will go down like the water.; My body makes heat.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min)**  
@@ -329,9 +329,9 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
   - Note: Results vary with the room and the size of the tumbler. In a room near 28 to 30 degrees Celsius, the tumbler usually falls by roughly 4 to 8 degrees, the wrapped bottle by roughly 2 to 4 degrees, and the child changes by half a degree or less. In a very hot room the water falls less, so move to the coolest room, because the test needs a room cooler than your body. If the wrapped bottle and the tumbler fall by almost the same amount, check that the sock is thick and the bottle is closed.
   - Check: In one test, the water went from 41 to 34 degrees, and the child went from 36.6 to 36.7 degrees. What does this show? → **The water drifted towards the room's temperature, and the child's body worked to stay warm**
 - **s6 (6 min)**  
-  *Parent does:* Draw one line each for the tumbler, the bottle and your child, on the same graph. Ask your child to say what they thought, what they saw and why. Then ask the question about the gecko.  
-  *Parent says:* Draw three lines on one graph: one for the tumbler, one for the bottle and one for you. Then tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a line for the tumbler. Draw a line for the bottle. Draw a line for you. Say what you thought, what you saw, and why.
+  *Parent does:* Draw one line each for the tumbler, the bottle and your child on the same graph. Or just let your child say how each number changed. Ask your child to say what they thought, what they saw and why. Then ask the question about the gecko.  
+  *Parent says:* Draw three lines on one graph, or just tell me how each number changed. Then tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
+  *Child mode:* Draw a line for each one, or say how each number changed. Say what you thought, what you saw, and why.
   - Note: A strong answer says the water drifted towards the room's warmth, the sock slowed the drift but did not stop it, and the child stayed steady. After they have said what they saw, explain: a living body burns food to make heat, and uses sweat, shivering and blood flow to keep steady. A gecko, a frog, a fish and a plant mostly match their surroundings, and they are alive. So 'stays warmer than the room' is a test that works for birds and mammals, and gives the wrong answer for many living things. Cold-blooded animals still use energy every second to keep other things steady inside their cells.
   - Think: A gecko on a cold morning is as cold as the wall. If you measured her, what would the thermometer say? Would you call her not alive?
 ### e3 · Waking Up: do older seeds sprout less often? (33 min, 4 days)
@@ -339,14 +339,14 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 - **predict:** Before you start, guess. You will have groups of seeds of different ages. Which group will have the most sprouts, and how many out of 10 will sprout in the oldest group? Why do you think so?
 - **fair test:** Every group has the same kind of whole seed, the same number of seeds, the same plate, the same damp tissue and the same place and time. Only the age of the seeds changes. The youngest seeds are the control. Use the date on the packet for the age.
 - **safety:** Whole seeds are a choking risk for children under five. Throw away any seeds with mould, and do not eat the seeds from this test. A grown-up does the boiling. Wash your hands after touching damp seeds.
-- **record:** Count the sprouts in each group on day 3 and day 4. Then draw a bar for each group.
+- **record:** Count the sprouts in each group on day 3 and day 4. Then show each group as a row of sprouted seeds, or draw a bar for each group.
 - **results table:** Group | Age of the seeds | Sprouted on day 3 (out of 10) | Sprouted on day 4 (out of 10)
 - **schedule:** day 1: Find seeds of different ages, guess, and set up the plates. (18 min); day 3: Count the sprouts on each plate. Keep the tissue damp. (4 min); day 4: Count again, draw the bars, and say what the evidence shows. (11 min)
 - **s1 (8 min)**  
   *Parent does:* Find whole seeds of the same kind in 3 or 4 packets or jars of different ages. Write the date on a label for each. Ask your child for a guess and a reason.  
-  *Parent says:* Look through the kitchen for the same kind of whole seed, bought at different times. Write the date on each label. Which will sprout best? Why do you think so?  
-  *Child mode:* Find seeds of the same kind from different times. Label each. Which will sprout best? Why?
-  - Ask: Why do you think the oldest seeds will do worst? (good: They have been waiting too long.; They are dried out.; They have used up their food.)
+  *Parent says:* Look through the kitchen for the same kind of whole seed, bought at different times. Write the date on each label.  
+  *Child mode:* Find seeds of the same kind bought at different times. Write the date on each label.
+  - Ask: Which seeds do you think will sprout the most, and why? (good: They have been waiting too long.; They are dried out.; They have used up their food.)
   - Note: Use whole seeds, never split dal, because split dal cannot sprout. If you only have one packet, borrow seeds from a neighbour or buy a fresh packet of the same kind. Some shop seeds are heated or treated, so a group may not sprout at all. That is a result too. Write down what you find. Kitchen moong kept sealed and dry often still sprouts well after two or three years, so the groups may look almost the same. That is an honest result. Say so, and say which groups were not very old. If you add a group of boiled seeds, they will not sprout, and they show what a dead seed does. With two or more children, each child looks after one or two plates and counts them, and then everyone compares.
   - Check: Why do all the groups use the same kind of seed? → **So only the age changes**
 - **s2 (10 min)**  
@@ -355,15 +355,15 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
   *Child mode:* Wet the tissue. Put ten seeds on each plate. Label each plate.
   - Note: The tissue should be damp, not soaking. Seeds that sit in water can rot instead of sprouting. Keep the plates in the shade, in the same place, and away from the fridge. Wet the tissue again each day if it dries. In hot weather above about 35 degrees Celsius, cover each plate with another plate to stop the tissue drying out, and lift it once a day to let air in. Moong sprouts in 1 to 2 days in warm weather, so do not worry if some are well up by day 3. Count them anyway.
 - **s3 (4 min)**  
-  *Parent does:* Look at the plates. Count the sprouts on each plate and write the number in the table. Keep the tissue damp.  
+  *Parent does:* On day 3, look at the plates. Count the sprouts on each plate and write the number in the table. Keep the tissue damp.  
   *Parent says:* Look at each plate. A sprout is a seed with a small white root. Count them and write the numbers. Put the plates back.  
   *Child mode:* Count the sprouts on each plate. Write the numbers. Keep the tissue damp.
   - Note: A sprout means a small white root, at least as long as the seed is wide. Do not remove sprouts from the plate.
   - Wait: Day 3
 - **s4 (5 min)**  
-  *Parent does:* Count the sprouts on each plate again. Write the numbers. Draw a bar for each group.  
-  *Parent says:* Count the sprouts again. Draw a bar for each group. Which group did best? Which did worst?  
-  *Child mode:* Count again. Draw a bar for each group. Which did best?
+  *Parent does:* On day 4, count the sprouts on each plate again. Write the numbers. Line up the sprouted seeds from each plate in a row, side by side, or draw a bar for each group.  
+  *Parent says:* Count the sprouts again. Line up the sprouted seeds from each plate in a row. Which group did best? Which did worst?  
+  *Child mode:* Count again. Line up the sprouted seeds from each plate. Which row is longest?
   - Check: The youngest seeds sprouted 9 out of 10 and the oldest only 2 out of 10. What is the best claim? → **In this test, the older seeds sprouted less often**
   - Wait: Day 4
 - **s5 (6 min)**  
@@ -381,7 +381,7 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 - **s1 (5 min)**  
   *Parent does:* Give your child a sheet of paper and a pencil. Ask them to finish the sentence 'Something is alive if it...'. Write their rule at the top.  
   *Parent says:* Finish this sentence in your own words. 'Something is alive if it...'. Write the rule you think is best.  
-  *Child mode:* Finish this sentence. Something is alive if it... Write your best rule.
+  *Child mode:* Think of your best rule for what is alive. Tell it to your grown-up, who will write it down.
   - Ask: Why did you pick that rule? (good: Because living things always do it.; Because it is what animals do.; Because it is what my teacher said.)
   - Note: Take any rule they give. Common rules are 'it moves', 'it grows', 'it eats', 'it breathes' or 'it has babies'. Write the rule exactly as they say it. With two to four children, each child writes their own rule in secret. Then everyone tests all the rules on the same eight cases. The rule that gets the most cases right wins, and everyone mends that rule together. With one child, you can also write a rule and try to break it.
 - **s2 (12 min)**  
@@ -406,9 +406,9 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 - **problem:** Scientists have written several definitions of life, and each one gives a different answer for some cases. In this activity you try three of these definitions on eight cases, and you find where they disagree.
 - **record:** A table with eight rows and three columns. In each box write yes, no or maybe. Then circle the cases where the three tests disagree.
 - **s1 (6 min)**  
-  *Parent does:* Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The rows also include a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.  
-  *Parent says:* We will use three real tests on eight cases. Test one is the seven signs, which you know. Test two is NASA's. Test three is Koshland's seven pillars.  
-  *Child mode:* Draw a table. Three tests go across the top. Eight cases go down the side.
+  *Parent does:* Rule a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The rows also include a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.  
+  *Parent says:* We will use three real tests on eight cases. Test one is the seven signs of life you learned earlier. Test two is NASA's test, which asks if a thing can keep itself going and change over many generations. Test three is a scientist's list called Koshland's seven pillars.  
+  *Child mode:* Make a table. Three tests go across the top. Eight cases go down the side.
   - Note: The three tests in plain words. The seven signs: it feeds, breathes, grows, moves, senses, gets rid of waste and makes young. NASA's test: it is a chemical system that keeps itself going, and its kind can change by Darwin's rules over many generations. Koshland's pillars: it has instructions, it improvises when conditions change, it has a skin that makes compartments, it uses energy, it regenerates, it adapts and it keeps its chemical reactions apart.
 - **s2 (12 min)**  
   *Parent does:* Go down the table one case at a time. For each of the three tests, ask 'does it pass?' and write yes, no or maybe. Use the notes below to help.  
@@ -428,19 +428,19 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 - **s1 (5 min)**  
   *Parent does:* Walk through the house with your child. Find four machines that keep something steady. A fridge keeps its inside cold. A geyser keeps water hot. An iron keeps its heat. A rice cooker clicks off when the rice is done.  
   *Parent says:* Many machines keep one thing steady. A fridge keeps its inside cold. A geyser keeps water hot. Find four machines at home. Write down what each one keeps steady.  
-  *Child mode:* Find four machines that keep something steady. Write what each keeps steady.
+  *Child mode:* Find four machines. For each one, say what it keeps steady.
   - Ask: How does the machine know when to switch on or off? (good: It has a sensor.; It has a dial.; It feels the temperature.)
   - Note: Any machine that holds a temperature works. Nobody opens a machine. Only a grown-up touches plugs, the geyser or the iron. Keep to looking at the dials and the lights. Before the walk, ask your child to guess which machines will have a thermostat. If you have no geyser or AC, use a fridge, an iron, a rice cooker or pressure cooker, an electric kettle that clicks off, or a ceiling fan with a regulator for comparison.
 - **s2 (8 min)**  
   *Parent does:* For each machine, ask three questions. What does it sense? What does it switch on or off? Where does the energy come from? Write the answers in the table.  
-  *Parent says:* For each machine ask three things. What does it sense? What does it switch on or off? Where does its energy come from?  
-  *Child mode:* For each machine: What does it sense? What does it switch? Where does its energy come from?
+  *Parent says:* Sense means to notice, the way your skin notices cold. Take the fridge first. What does it sense? What does it switch on or off? Where does its energy come from?  
+  *Child mode:* Pick a machine. Say what it senses and what it switches. Say where its energy comes from.
   - Note: A fridge senses the temperature inside, switches the cooling on and off, and gets its energy from electricity. A geyser senses the water temperature, switches the heater on and off, and uses electricity. The part that senses the temperature and does the switching is called a thermostat. With two to four children, each child takes one machine and reports to the others. With one child, do two machines yourself and let the child do the rest.
   - Check: Which part of a fridge works like your skin sensing that you are cold? → **The thermostat, which senses the temperature**
 - **s3 (7 min)**  
   *Parent does:* Add a row for your own body. Ask what the body senses, what it switches and where its energy comes from. Then ask what a fridge and a living body can both do, and what only a living body can do.  
-  *Parent says:* Now fill in a row for you. What does your body sense? What does it switch on or off? Where does your energy come from?  
-  *Child mode:* Fill in a row for your body. What does it sense? What does it switch? Where is the energy from?
+  *Parent says:* Now fill in a row for you. What does your body sense? What does it switch on or off? Where does your energy come from? What can a fridge and you both do? What can only you do?  
+  *Child mode:* Now do the same for your own body. Then think of one thing a fridge cannot do.
   - Note: The body senses with skin and nerves, switches sweating, shivering and blood flow, and gets energy from food. After your child has answered, explain: a fridge was built by people and powered from outside. It cannot build its parts from other materials, and it cannot mend itself or make a new fridge. So keeping steady is one of the traits of life, but not enough on its own.
   - Think: A fridge keeps steady as well as you do. So why is a fridge not alive?
 
@@ -448,13 +448,13 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 ### p1 · Cut It Up: which pieces start again? (40 min, 10 days)
 - **problem:** A broken piece of a salt crystal keeps growing. In this project you cut up living things, and find out which pieces can start again and which cannot. Then you work out what a piece of a living thing needs in order to start again.
 - **safety:** A grown-up does all the cutting. Never eat a sprouting or green potato, because it can make you ill. Wash your hands after touching the potato. Throw rotted potato in the dustbin, and do not smell it closely.
-- **record:** A table with one row for each piece: the stem with a node, the leaf alone, the potato piece with an eye, the potato piece without an eye. For each day write what you see, such as roots, sprouts or rot. Draw each piece on day 1 and day 10.
+- **record:** A table with one row for each piece: the stem with a node, the leaf alone, the potato piece with an eye, the potato piece without an eye. For each day write what you see, such as roots, sprouts or rot. Photograph or draw each piece on day 1 and day 10.
 - **schedule:** day 1: Guess, then set up the money plant cuttings in water and the potato pieces on damp tissue in the dabba. (20 min); day 3: Look at everything. Top up the water and wet the tissue. (5 min); day 6: Look again. Measure roots and sprouts, and write what you see. (5 min); day 10: Look at everything one last time, compare, and say what the evidence shows. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Show your child the stem, the single leaf and the potato. Ask which pieces they think will start again, and why. Write the guesses in the table.  
-  *Parent says:* We will cut up a plant and a potato. Which pieces will start growing again? Which will not? Why do you think so?  
-  *Child mode:* Which pieces will start growing again? Which will not? Why do you think so?
-  - Ask: Why do you think the leaf alone will not grow roots? (good: It has no stem.; It has no place to grow from.; It will only dry out.)
+  *Parent says:* We will cut up a plant and a potato. Which pieces will start growing again? Which will not?  
+  *Child mode:* Point to the pieces you think will start growing again.
+  - Ask: Why do you think the leaf alone will, or will not, grow roots? (good: It has no stem.; It has no place to grow from.; It will only dry out.)
   - Note: Do not correct the guesses. A stem with a node usually roots in water in one to three weeks. A leaf alone usually goes yellow without rooting. A potato piece with an eye sprouts in the damp dark in a week or two. A piece without an eye usually does little or goes soft.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* A grown-up cuts the potato into a piece with an eye and a piece without. Put the stem and the leaf in separate glasses of water. Let the cut potato pieces dry in the air for an hour. Lay them on damp tissue in the dabba, and put the lid on loosely.  
@@ -470,14 +470,14 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
   - Wait: Day 3
 - **s4 (5 min)**  
   *Parent does:* Look again. Measure any roots or sprouts with a ruler and write the lengths. Notice which pieces have changed and which have not.  
-  *Parent says:* Look closely. Use a magnifying glass for tiny roots. Which pieces are changing? Which are not?  
+  *Parent says:* Look closely. Use a magnifying glass for tiny roots, if you have one. Which pieces are changing? Which are not?  
   *Child mode:* Look closely. Measure any roots or sprouts. Which pieces are changing?
   - Note: A money plant stem may show small white roots or bumps by now, or only after another week. Roots can take two to three weeks, so on day 10 small white bumps are a good result. If nothing has changed in a piece, keep it going for a few more days. If a potato piece has gone soft and smelly, throw it away and write 'rotted'. That is a result too.
   - Wait: Day 6
 - **s5 (10 min)**  
-  *Parent does:* Look at everything one last time. Draw each piece again. Ask your child to say what they thought, what they saw and why.  
-  *Parent says:* Draw each piece again. Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw each piece again. Say what you thought, what you saw, and why.
+  *Parent does:* Look at everything one last time. Take a photo of each piece, or line them up side by side. Ask your child to say what they thought, what they saw and why.  
+  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
+  *Child mode:* Look at each piece again. Say what you thought, what you saw, and why.
   - Note: A strong answer says that the stem with a node and the potato piece with an eye started again, and that the leaf alone and the potato without an eye did not. After they have said what they saw, explain: a piece can start again if it has a growing point, such as a node or an eye, and enough stored food to live on until new roots or leaves can feed it. This is called regeneration. A piece of crystal needs no growing point. It just keeps stacking.
   - Think: A broken salt crystal grows in every piece. Why do only some pieces of a living thing start again?
   - Wait: Day 10
@@ -485,26 +485,26 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 ## Challenges
 ### c1 · The Faker: design a non-living thing that fools the most tests (40 min)
 - **problem:** Design a pretend creature, or a machine, that is not alive but passes as many tests for life as possible. Then design the opposite: a living thing that fails as many tests as possible but is still alive.
-- **your turn:** Draw your faker and your sleeper. Count how many of the seven signs each one passes. Then say which sign was the hardest to fake, and which test you would add to catch your faker.
+- **your turn:** Build or draw your faker, and choose your sleeper. Count how many of the seven signs each one passes. Then say which sign was the hardest to fake, and which test you would add to catch your faker.
 - **constraints:** Your faker must not be alive. It can be made of fire, crystals, metal, plastic, a computer or anything non-living.; Use the seven signs of life as your tests: feeds, breathes, grows, moves, senses, gets rid of waste, makes young.; Draw or build your faker with a label for each test it passes.; Your sleeper is the living thing that fails the tests. She must be a living thing that really exists.
 - **general:** A candle flame: it uses fuel and air, grows, moves and spreads.; A robot with sensors and wheels that moves, senses and charges itself.; A crystal garden: it grows and copies its pattern.; A forest fire that eats, grows and travels.
 - **creative:** A robot that builds a copy of itself from spare parts, an idea the mathematician John von Neumann worked on in the 1940s.; A pattern in a computer, such as a glider in John Conway's Game of Life, that moves across a grid and makes copies.; A fire that is fed by a machine, kept at a steady heat by a thermostat and made to spread by a fan, so it passes almost every sign of life.; For the sleeper, a seed or a tardigrade that dries up, passes almost none of the signs, and wakes again.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem with your child. List the seven signs of life on paper. Ask for two or three ideas for a faker. Sketch them.  
-  *Parent says:* Your job is to build something that is not alive but passes as many tests as it can. First, list the seven signs. Then sketch some fakers.  
-  *Child mode:* List the seven signs. Sketch some ideas for a faker.
+  *Parent does:* Read the problem with your child. List the seven signs of life on paper. Ask for two or three ideas for a faker, said out loud.  
+  *Parent says:* Your job is to build something that is not alive but passes as many tests as it can. First, list the seven signs. Then tell me some fakers you could make.  
+  *Child mode:* List the seven signs. Tell your grown-up two ideas for a faker.
   - Ask: Which sign of life will be the easiest to fake? Which will be the hardest? (good: Moving is easy.; Growing is easy with a crystal.; Making young is hard.)
   - Note: Let your child work out their own ideas first. Ideas from the lists are for after they have tried.
 - **s2 (15 min)**  
-  *Parent does:* Pick the best idea. Draw it or build it from scrap. Label each of the seven signs it passes. Count how many it passes.  
-  *Parent says:* Pick your best idea. Draw it or build it. Put a label for each sign your faker passes. Count them.  
-  *Child mode:* Pick your best faker. Draw or build it. Label the signs it passes.
+  *Parent does:* Pick the best idea. Build it from scrap, or draw it. Label each of the seven signs it passes. Count how many it passes.  
+  *Parent says:* Pick your best idea. Build it or draw it. Put a label for each sign your faker passes. Count them.  
+  *Child mode:* Pick your best faker. Build or draw it. Label the signs it passes.
   - Note: If the model uses a real candle flame, a grown-up must be there. A drawn flame is enough.
   - Check: Your faker passes six of seven signs. Is it alive? → **No, it is still not alive. Passing signs does not make it alive**
 - **s3 (10 min)**  
-  *Parent does:* Now draw your sleeper: a living thing that fails as many of the signs as possible. Tick the signs your sleeper passes. Count how many she fails.  
-  *Parent says:* Now the opposite. Draw a living thing that fails as many signs as possible. A dry seed is one. Can you find another?  
-  *Child mode:* Now draw a living thing that fails many signs. Tick the signs she passes.
+  *Parent does:* Now choose your sleeper: a living thing that fails as many of the signs as possible. Name it and say why it fails so many signs. Tick the signs your sleeper passes. Count how many she fails.  
+  *Parent says:* Now the opposite. Think of a living thing that fails as many signs as possible. A dry seed is one. Can you find another?  
+  *Child mode:* Now choose a living thing that fails many signs. Tick the signs it passes.
   - Note: A dried tardigrade, a dry seed, a bacterium frozen in ice and a worker bee are all good answers.
 - **s4 (7 min)**  
   *Parent does:* Ask your child which sign was the hardest to fake and what test they would add to catch a faker. Ask them to say what they thought, what they made and why.  

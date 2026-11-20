@@ -321,7 +321,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **s4 (4 min)**  
   *Parent does:* Lay out all eight cards. Sort them into four groups by what the real animals do: both stay, mother stays, father stays, nobody stays. Ask what the cards in each group share.  
   *Parent says:* Let us sort the cards by what the real animals do. What is the same about the cards where both parents stay?  
-  *Child mode:* Sort the cards into four groups. What do the 'both stay' cards share?
+  *Child mode:* Sort the cards into four groups: both stay, mother stays, father stays, nobody stays.
   - Ask: What is the same about the cards where both parents stay? (good: The young get far fewer points with only one parent.; One parent alone cannot do the job.)
   - Ask: On the cards where one parent goes, which parent is it? (good: The one with the bigger bonus for going.; The one the young can manage without.)
   - Check: On the jacana card, why does the mother go and the father stay? → **She gains a lot by going, and he gains nothing**
@@ -338,29 +338,29 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **s1 (4 min)**  
   *Parent does:* Show the three empty tumblers, the lids and the cloths. Explain what will happen to each tumbler. Ask for both guesses and the reason. Write the guesses above the table. Do not say whether you agree.  
   *Parent says:* Each tumbler of warm water is a clutch of eggs. A is covered all the time. B is covered for half the time. C is never covered. Which will end warmest? Will B end nearer to A or nearer to C? Why?  
-  *Child mode:* A is always covered. B is covered half the time. C is bare. Guess the order at the end. Will B end nearer A or C? Say why.
+  *Child mode:* A is always covered. B is covered half the time. C is bare. Guess which one ends warmest and which ends coolest.
   - Ask: Will B end nearer to A, nearer to C, or exactly in the middle? Why do you think so? (good: In the middle, because it is covered half the time.; Nearer to C, because the heat that leaves does not come back.; Nearer to A, because the cloth stays warm.)
   - Note: Any guess with a reason is a good start. Most children get the order right. The second guess is the real question, and nobody at the table knows the answer yet.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* Mix warm water in a jug, about as warm as a nice bath. Fill the three tumblers to one finger-width below the rim. Stand them on the folded newspaper with their slips. Measure each with the thermometer, or feel each with a finger. Write the start in the table.  
+  *Parent does:* Mix warm water in a jug, about as warm as a nice bath. Fill the three tumblers to one finger-width below the rim. Stand them on the folded newspaper with their A, B and C slips. Measure each with the thermometer, or feel each with a finger. Rule a table on paper with rows A, B and C and columns Start and After 20 minutes. Write the start in it.  
   *Parent says:* I will mix the water. You fill the three tumblers to the same level. Now measure each one. Are they the same at the start?  
-  *Child mode:* Fill the three tumblers to the same level. Measure or feel each one. Write it down.
+  *Child mode:* Fill the three tumblers to the same level. Measure or feel each one. Write each start in your table.
   - Note: A fever thermometer reads only from about 32 to 42 degrees. If you use one, start with water at 40 to 42 degrees. Dip only the tip, and wait for the beep. If the three starts differ by more than half a degree, pour them all back into the jug and fill again.
 - **s3 (20 min)**  
-  *Parent does:* Put a lid on A and wrap a cloth around it. Do the same to B. Leave C bare. Start a 20-minute timer. Your child is the timekeeper for B. At 5 minutes they take B's lid and cloth off. At 10 minutes they put them back. At 15 minutes they take them off again. While you wait, your child draws the results table.  
+  *Parent does:* Put a lid on A and wrap a cloth around it. Do the same to B. Leave C bare. Start a 20-minute timer. Your child is the timekeeper for B. At 5 minutes they take B's lid and cloth off. At 10 minutes they put them back. At 15 minutes they take them off again.  
   *Parent says:* You are the parent of tumbler B. At 5 minutes you leave to feed, so take the cover off. At 10 minutes you come back. At 15 minutes you leave again. Do not touch A or C at all.  
-  *Child mode:* Cover A and B. Leave C bare. At 5 minutes uncover B. At 10 cover it. At 15 uncover it again. Draw your table while you wait.
-  - Ask: If these were real eggs, what kind of family would tumbler A be? And B? And C? (good: A has two parents who take turns, so the eggs are never bare.; B has one parent who must leave to find food.; C has nobody sitting.)
+  *Child mode:* Cover A and B. Leave C bare. At 5 minutes uncover B. At 10 cover it. At 15 uncover it again. Watch the timer.
+  - Ask: If these were real eggs, which tumbler has a parent who stays all the time? Which has a parent who leaves half the time? Which has no parent? (good: A has two parents who take turns, so the eggs are never bare.; B has one parent who must leave to find food.; C has nobody sitting.)
   - Note: Keep the room as it is: no fan switched on or off halfway. When B is uncovered, put its lid and cloth down beside it, not on top of another tumbler.
 - **s4 (4 min)**  
   *Parent does:* When the timer rings, take all covers off. Measure A, then B, then C, with the thermometer. With no thermometer, your child shuts their eyes. You slide two tumblers in front of them. They dip one finger of each hand and say which is warmer. Do all three pairs. Write the results.  
-  *Parent says:* Time is up. Measure each one and write it down. Now take each number away from the start. Which lost the most? Which lost the least?  
+  *Parent says:* Time is up. Measure each one and write it down. Now take each end number away from its start number. That is the warmth lost. Which lost the most? Which lost the least?  
   *Child mode:* Measure A, B and C. Write each one down. Work out how much warmth each lost.
   - Note: Measure quickly, because the uncovered tumblers go on cooling. With the finger test, mix up the tumblers so that your child cannot tell which is which. If a fever thermometer shows 'Lo', the water is below about 32 degrees. Write 'below 32'.
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Your child writes three sentences: what I think, what I saw, and why. Only after that, read them the explanation in the parent note.  
-  *Parent says:* Look at your three numbers. Where did B end, nearer to A or nearer to C? Write what you think, what you saw, and why you think it happened.  
-  *Child mode:* Where did B end? Write what you think, what you saw, and why.
+  *Parent says:* Look at your three numbers. Where did B end, nearer to A or nearer to C? Tell me why you think so.  
+  *Child mode:* Write three sentences: what you think, what you saw, and why.
   - Ask: What did B lose in the bare minutes? Did the covered minutes give it back? (good: B lost warmth each time I took the cover off.; The cover only slowed the loss. It did not warm the water again.; B ended between A and C.)
   - Ask: A real bird who sits alone must leave to eat. What could a second parent change? (good: The second parent can sit while the first one feeds.; The eggs would never be bare, like tumbler A.)
   - Note: After your child has answered, explain. A cover does not make warmth. It only slows the loss, so whatever warmth leaves in the bare minutes is gone. Your tumbler B usually ends somewhere between A and C. Whether it is nearer to A or to C depends on your room, and either is a fair result. A real bird does add warmth from her or his own body when sitting, which a cloth cannot do. But the bird must first eat to make that warmth, and must warm the eggs up again after every trip away. This is why two pigeons take turns on one nest, and why a hornbill father feeds the mother while she stays inside. If all three tumblers ended almost the same, your room is very warm. Run the test again for 30 minutes, or near a fan that blows on all three equally.
@@ -391,11 +391,11 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **s4 (5 min)**  
   *Parent does:* Circle the middle number for each layout. Your child writes what I think, what I saw, and why. Only after that, give the explanation in the parent note.  
   *Parent says:* Look at your middle numbers. What changed as the coins moved apart? Write what you think, what you saw, and why.  
-  *Child mode:* Circle the middle numbers. What changed as the coins spread out? Write what you think, what you saw, and why.
+  *Child mode:* Circle the middle number for each layout. Then write what you think, what you saw, and why.
   - Ask: What changed as the coins moved further apart? (good: I kept fewer coins.; My hand could not reach the far ones in time.; The taker went wherever I was not.)
   - Ask: Female seals crowd together on one small beach. Female pigeons nest far apart across a city. Which is like which layout? (good: The seals are like the close layout, so one male can guard many.; The pigeons are like the far layout, so one male cannot guard several.)
   - Note: After your child has answered, explain. Stephen Emlen and Lewis Oring said in 1977 that harems arise where females, or the food and nesting places they need, are gathered closely enough for one animal to guard. Where they are spread out, an animal who tried to guard several partners would lose them all, and does better with one. The coins are a model. Real females are not coins. They move, and they choose, and many female seals also mate with males away from the harem.
-  - Check: Why can one male elephant seal keep a harem, when a male pigeon cannot? → **Female seals gather closely, so one male can guard them**
+  - Check: Why can one male elephant seal keep many females, but a male pigeon cannot? → **Female seals gather closely, so one male can guard them**
   - Think: The coins could not walk away or choose. What would change if they could?
 
 ## Activities
@@ -415,7 +415,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **s3 (3 min)**  
   *Parent does:* Your child counts how many animals fall under mother, father, both, group and nobody. Ask what they notice and what they wonder. They write one question.  
   *Parent says:* Count how many are mother, father, both, group and nobody. What do you notice? What do you wonder? Write one question you want answered.  
-  *Child mode:* Count each kind of answer. What do you notice? Write one question you have.
+  *Child mode:* Count each kind of answer. Then write one question you have.
   - Ask: What do you notice, and what do you wonder? (good: It is not always the mother.; Birds often have both parents.; Why does the father do it in some animals?; Why does nobody look after the turtles?)
   - Note: Do not answer the question yet. The Warm Egg Test and the explanation cards answer it. Keep the page, so your child can come back to their question at the end.
 ### a2 · Size Detective: what does body size say about a family? (15 min)
@@ -423,7 +423,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **s1 (5 min)**  
   *Parent does:* Your child copies the table from the parent note, leaving the 'times as heavy' column empty. Before any sums, ask in which kinds of family they expect males to be much heavier than females, and why.  
   *Parent says:* Copy this table. Before you work anything out, guess. In which families will the males be much heavier than the females? Why?  
-  *Child mode:* Copy the table. Then guess where males will be much heavier. Say why.
+  *Child mode:* Copy the table. Leave the last column empty.
   - Ask: Where do you expect males to be much heavier, and why? (good: Where males fight each other, because the big ones win.; Where one male has many partners.)
   - Note: The table, in kilograms: southern elephant seal, male 3,300, female 600, one male with many females. Gorilla, male 180, female 90, one male with several females. Blackbuck, male 38, female 27, males defend patches. Sarus crane, male 6.7, female 5.3, pair. Spotted hyena, male 68, female 69, big group led by females. Pheasant-tailed jacana, male 0.13, female 0.14, one female with several males. Bronze-winged jacana, male 0.18, female 0.28, one female with several males. These are typical figures from single studies, and animals vary.
 - **s2 (6 min)**  
@@ -434,12 +434,12 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **s3 (4 min)**  
   *Parent does:* Your child reads down the ordered list with the family beside each animal. Ask what pattern they see, and which animal fits least well. Then read the parent note aloud.  
   *Parent says:* Read down your list. What kind of family is at the top? What kind is at the bottom? Which animal does not fit neatly?  
-  *Child mode:* Read down your list. What families are at the top? At the bottom? Who does not fit?
+  *Child mode:* Read down your ordered list. Look at the family beside each animal.
   - Ask: What pattern do you see? (good: Where one male has many females, the male is much heavier.; In pairs, the two are nearly the same.; Where females have several mates, the female is heavier.)
   - Note: The pattern: the sex that fights for many partners is the heavier one. It is a tendency and not a law. Hyena females lead and are only slightly heavier. In many spiders, fish and insects the females are larger because a bigger body can make more eggs, which has nothing to do with fighting.
   - Check: A newly found animal has males three times as heavy as females. Which family is most likely? → **One male with several females**
 ### a3 · Many Hands: who looked after you yesterday? (15 min)
-- **record:** Keep the list of what was done for you and by whom, the tally for each person, and your ring drawing. Write the number of carers at the top.
+- **record:** Keep the list of what was done for you and by whom, the tally for each person, and your ring of names, or a photo of it. Write the number of carers at the top.
 - **s1 (6 min)**  
   *Parent does:* Your child thinks through yesterday from waking to sleeping. They list each thing that someone did for them, and who did it. Include food, washing, travel, teaching, comfort and keeping them safe. Help them to remember, but let them write.  
   *Parent says:* Think through yesterday from waking up to falling asleep. What did someone do for you? Who did it? Write each one down.  
@@ -447,13 +447,13 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
   - Ask: Who helped you without being in your family? (good: My teacher.; The auto driver or bus driver.; Our neighbour.; The person who cooked or sold our food.)
   - Note: Before they start, ask your child to guess how many different people they will list. Most children guess two or three and find six or more.
 - **s2 (5 min)**  
-  *Parent does:* Your child makes a tally mark for each person and counts the carers. Then they draw themselves in the middle of a page, with each carer around them in a ring.  
-  *Parent says:* Give each person a tally mark for each thing they did. How many different people are there? Now draw them in a ring around you.  
-  *Child mode:* Tally each person. Count the carers. Draw them in a ring around you.
+  *Parent does:* Your child makes a tally mark for each person and counts the carers. Then they write their own name on a sheet of paper. They write each carer's name on a scrap and set the scraps in a ring around it.  
+  *Parent says:* Give each person a tally mark for each thing they did. How many different people are there? Now set their names in a ring around yours.  
+  *Child mode:* Tally each person. Count the carers. Set their names in a ring around yours.
   - Note: The tally is not a score of who loves the child most. If your child starts to rank people, say that the count shows who had the time that day.
 - **s3 (4 min)**  
-  *Parent does:* Tell your child who looked after you when you were their age. If a grandparent is near or on the phone, ask them too. Compare the numbers. Then read the context line about Sarah Blaffer Hrdy again.  
-  *Parent says:* When I was your age, these people looked after me. Is that more or fewer than yours? Why do you think a human child needs so many?  
+  *Parent does:* Tell your child who looked after you when you were their age. If a grandparent is near or on the phone, ask them too. Compare the numbers. Then tell them that Sarah Blaffer Hrdy, who studies human families, says people have always raised children together.  
+  *Parent says:* When I was your age, these people looked after me. Is that more or fewer than yours?  
   *Child mode:* Ask a grown-up who looked after them as a child. Compare with your count.
   - Ask: Why might a human child need more carers than a calf does? (good: We take many years to grow up.; There is a lot to learn.; A parent may have another baby before the first child can manage alone.)
   - Think: An elephant calf also has aunts and older sisters. What do elephants and people have in common that might explain it?
@@ -464,9 +464,9 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **record:** Each day write the date, the time, which bird was sitting and anything the two birds did together. On day 4 write what I think, what I saw, and why.
 - **schedule:** day 1: Find a nest. Watch for ten minutes. Draw the bird who is sitting, with every mark you can see. (10 min); day 2: Watch at a different time of day. Is it the same bird? Write the time of any changeover. (10 min); day 3: Watch at a third time of day. Note who sits, who arrives and what they do when they meet. (10 min); day 4: Watch once more. Then write one claim, your evidence and your reasoning. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Find a nest with a sitting bird. Watch for ten minutes from inside. Your child draws the bird and notes marks such as the wing bars, the neck colour, white feathers or a damaged toe.  
-  *Parent says:* Who is on the nest? Draw every mark you can see. We need to know this bird again tomorrow.  
-  *Child mode:* Find a nest. Watch for ten minutes. Draw the sitting bird and their marks.
+  *Parent does:* Find a nest with a sitting bird. Watch for ten minutes from inside. Your child draws the bird's marks, takes a photo, or says them aloud. Look for marks such as the wing bars, the neck colour, white feathers or a damaged toe.  
+  *Parent says:* Who is on the nest? Draw every mark you can see, or tell me what they are. We need to know this bird again tomorrow.  
+  *Child mode:* Find a nest. Watch for ten minutes. Draw the bird's marks. Or take a photo. Or tell them to your grown-up.
   - Note: Pigeons breed in most months of the year in Indian towns. If you find no nest, watch any pair of pigeons, crows or mynas on a ledge instead. Note what the two do together, and whether both carry twigs or food.
 - **s2 (20 min)**  
   *Parent does:* On days 2 and 3, watch for ten minutes at a different time of day from day 1. Your child decides whether the sitting bird is the same one, and writes the evidence. If a second bird comes, note the time and what the two do.  
@@ -484,14 +484,14 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 ## Challenges
 ### c1 · The Parent Is Away: build a nest that keeps an egg warm alone (25 min)
 - **problem:** A parent who sits alone must leave the eggs to find food. Build a nest that keeps a small tumbler of warm water as warm as possible for 15 minutes while the parent is away. Test it against a bare tumbler.
-- **your turn:** Now design a nest for the opposite problem. Some birds lay their eggs on hot open sand, where the eggs could cook. Draw a nest, or a thing the parent could do, that keeps an egg cool for 15 minutes.
+- **your turn:** Now design a nest for the opposite problem. Some birds lay their eggs on hot open sand, where the eggs could cook. Build or sketch a nest, or tell a thing the parent could do, that keeps an egg cool for 15 minutes.
 - **constraints:** Use only things already at home, such as newspaper, cloth scraps, cotton wool, a cardboard box, dry leaves or coconut fibre.; Nothing may heat the tumbler. No hot water bottle, no sunlight and no stove.; The parent must be able to get back in. The top must open in five seconds or less.; The nest must fit on a dinner plate, and you have ten minutes to build it.
 - **general:** Wrap the tumbler in several layers of cloth or newspaper.; Stand it inside a box packed with crumpled paper.; Cover the top, because a lot of warmth leaves with the damp air that rises from the water.
 - **creative:** Line the nest with something fluffy that traps still air, as an eider duck lines her nest with her own down feathers.; Lift the tumbler off the cold floor on a thick pad, as a penguin father keeps the egg on his feet.; Bury the tumbler in a deep heap. The Nicobar megapode, a bird of the Nicobar Islands, buries eggs in a mound and lets the mound keep them warm.; Make the nest small and snug. A big empty space inside lets the air move and carry warmth away.
 - **s1 (4 min)**  
   *Parent does:* Read the problem and the constraints aloud. Ask your child where the warmth of a tumbler goes, and what could slow it down. They sketch a plan.  
-  *Parent says:* Where does the warmth go when a tumbler cools? Up, down or sideways? What could slow it down? Sketch your nest before you build.  
-  *Child mode:* Where does the warmth go? What could slow it? Sketch your nest.
+  *Parent says:* A warm tumbler cools down. What could slow that? Tell me your plan, or sketch your nest, before you build.  
+  *Child mode:* Make a plan for your nest. Sketch it, or tell it to your grown-up.
   - Ask: Where does the warmth of the tumbler go? (good: Up into the air from the top of the water.; Into the table through the bottom.; Out through the steel sides.)
 - **s2 (10 min)**  
   *Parent does:* Your child builds the nest around an empty tumbler in ten minutes. Check that it fits on the plate and that the top opens in five seconds.  
@@ -507,7 +507,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 - **s4 (8 min)**  
   *Parent does:* After 15 minutes, open the nest. Compare the two tumblers with a thermometer, or with one finger in each and eyes shut. Your child says what worked, changes one thing and says what they expect it to do.  
   *Parent says:* Open it. Which is warmer, and by how much? What part of your nest did the most? Change one thing and tell me what you expect.  
-  *Child mode:* Compare the two tumblers. What worked best? Change one thing and say why.
+  *Child mode:* Compare the two tumblers. Then change one thing about your nest and say why.
   - Ask: Which part of your nest did the most to keep the warmth in? (good: The cover on top.; The thick paper all around.; Lifting it off the floor.)
   - Note: If the two tumblers feel the same, the nest is probably open at the top or thin underneath. A good nest keeps the water clearly warmer than the bare tumbler after 15 minutes.
 

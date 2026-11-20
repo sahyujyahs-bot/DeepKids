@@ -463,7 +463,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the normal force. Each card describes a thing with a surface or support under it. You show with a sign card whether the push is bigger than the weight, the same, smaller or zero.",
+   "context": "This is a card game about the normal force, the push a surface gives back to a thing resting on it. Each card describes a thing with a surface or support under it. You show with a sign card whether the push is bigger than the weight, the same, smaller or zero.",
    "printables": [
     {
      "kind": "cards",
@@ -598,7 +598,7 @@
      "mins": 12,
      "do": "1. Read the top card aloud. 2. Count to three. 3. Everyone holds up a sign. 4. Turn the card over and read the reason. 5. Score the points.",
      "say": "Ask yourself two questions. Is the surface touching the thing? And is anything else pushing or pulling the thing up or down?",
-     "kid": "Read the card. Is it touching? Is anything else pushing or pulling? Hold up your sign.",
+     "kid": "Read the card aloud. Count to three. Hold up your sign.",
      "ask": [
       {
        "q": "A lift starts to go up. Why is the floor's push bigger than your weight?",
@@ -755,7 +755,7 @@
      "mins": 5,
      "do": "1. Count your points. 2. Put all 11 cards in order on the table, from the weakest gravity to the strongest. 3. Find the starred cards. 4. Ask which world on the ladder you could really stand on.",
      "say": "Put all eleven cards in one ladder. Where is the Earth on it? Which worlds could you really stand on? Which have no ground?",
-     "kid": "Put all the cards in one ladder. Where is Earth? Which have no ground?",
+     "kid": "Put all 11 cards in one ladder. Find the Earth card.",
      "parent": "The Earth sits near the middle. Many worlds pull less than the Earth. Only Jupiter and the Sun pull far more than the Earth does. The starred worlds have no solid ground to stand on.",
      "check": {
       "t": "mcq",
@@ -779,7 +779,7 @@
    "title": "The Dough Stack: which level of a pile is pushed up the hardest?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you build a pile of eight books with a ball of soft dough at three levels. The dough shows how hard the books above it press down. You measure how wide each ball is squashed.",
+   "context": "In this experiment you find out which level of a pile of books is pressed the hardest. You build a pile of eight books with a ball of soft dough at three levels. The dough shows how hard the books above it press down. You measure how wide each ball is squashed.",
    "question": "In a pile of eight books, which level is pushed up the hardest by what lies under it: the top, the middle or the bottom? And what happens to the bottom dough if someone presses down on the pile?",
    "predict": "Guess first. Which of the three balls of dough will be squashed the widest? Then guess what a hand pressing on the pile will do to the bottom ball. Write both guesses and your reason for each. Why do you think so?",
    "fair_test": "Use balls of dough that are the same size, from the same dough. Put each ball at the same spot on its book. Keep the books on the dough for the same 5 minutes each time. Measure the widest part of each ball with the same ruler. Do the whole test twice with new dough, because one run can be a fluke.",
@@ -931,7 +931,7 @@
      "id": "s6",
      "mins": 7,
      "do": "1. Make 3 new balls of the same size. 2. Build and measure the pile again, for run 2. 3. Write the widths in the table. 4. Find the mean of the two runs for each level.",
-     "say": "One run can be a fluke. So we build the pile again with new dough, and then take the mean of the two runs for each level.",
+     "say": "One run can be a fluke. So we build the pile again with new dough. Then we take the mean, which is the average, of the two runs.",
      "kid": "Make 3 new balls. Build the pile again. Measure again. Find the mean for each level.",
      "parent": "If run 2 gives a different order from run 1, look for the cause. Check that the balls started the same size and that you waited the same time.",
      "context": "This is run 2 of the Dough Stack. Here you repeat the test with new dough."
@@ -949,9 +949,9 @@
     {
      "id": "s8",
      "mins": 5,
-     "do": "1. Draw a bar for each level in your table. 2. Ask your child for the three sentences. 3. Ask them to draw book 8 with its arrows. 4. Only then read the explanation together.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Then draw the bottom book. Which arrows does it need?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why. Draw the bottom book with its arrows.",
+     "do": "1. Draw a bar for each level in your table. 2. Ask your child for the three sentences. 3. Ask them to show with their hands which way book 8 is pushed down, and which way it is pushed up. 4. Only then read the explanation together.",
+     "say": "Say what you thought would happen, what you saw, and why it happened. Then show with your hands which way the bottom book is pushed down, and which way it is pushed up.",
+     "kid": "Say what you thought would happen. Say what you saw. Say why. Show with your hands the pushes on the bottom book.",
      "ask": [
       {
        "q": "Why was the bottom ball squashed the most, when all the books are the same?",
@@ -988,7 +988,7 @@
    "title": "Lift, Press and Tilt: does a scale always read the weight?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment a 1 kilogram packet sits on a kitchen scale. You lift it with a string, press it with a finger and tilt the scale. The reading shows how hard the scale pushes up on the packet each time.",
+   "context": "In this experiment you find out whether a kitchen scale always shows the weight of a packet. A 1 kilogram packet sits on the scale. You lift it with a string, press it with a finger and tilt the scale. The reading shows how hard the scale pushes up on the packet each time.",
    "question": "Does a scale always read the weight of the packet? What happens to its reading when the packet is lifted a little, pressed down, or put on a slope?",
    "predict": "Guess first. Will the reading go up, go down or stay the same when you lift the packet with a string? When you press it with a finger? When you tilt the scale? Write each guess and your reason. Why do you think so?",
    "fair_test": "Use the same packet and the same scale for every part. Press the zero button with nothing on the scale, before each part. Hold each reading steady for 5 seconds before you write it down. Do each part 2 times, because one reading can be a fluke.",
@@ -1106,7 +1106,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Tie the string round the packet in a loop. 2. Zero the scale. 3. Put the packet on the scale. 4. Hold the loop and lift very slowly, until the scale reads about 700 grams. 5. Hold it steady for 5 seconds and write the reading. 6. Try reading 400 grams, and then lift it right off. 7. Work out your pull for each: 1000 minus the reading, divided by 100.",
-     "say": "Lift the packet slowly with the string. The scale now reads less. The packet's weight has not changed. So where did the missing push go? Work out how hard you are pulling.",
+     "say": "Lift the packet slowly with the string. The scale now reads less. The packet's weight has not changed.",
      "kid": "Lift the packet with the string. Stop at 700 grams. Hold it still. Write the reading.",
      "ask": [
       {
@@ -1133,7 +1133,7 @@
      "id": "s5",
      "mins": 12,
      "do": "1. Rest the board on the table with one end on a pile of books 8 centimetres high. 2. Put the scale on the board with sticky tape across its lower edge, to stop it sliding. 3. Press the zero button with the scale empty. 4. Lay the packet on the scale with a strip of tape across its lower edge. 5. Write the reading. 6. Repeat with the board raised 14 centimetres, and then 20 centimetres. Zero the scale each time.",
-     "say": "Now we tilt the scale. Zero it while it is empty and tilted, then put the packet on. The steeper the slope, the more of the packet's weight is held by the tape. What happens to the reading?",
+     "say": "Now we tilt the scale. Zero it while it is empty and tilted, then put the packet on. Watch the reading as the slope gets steeper. What happens to it?",
      "kid": "Tilt the board. Zero the empty scale. Put the packet on. Write the reading. Try 3 heights.",
      "adult": true,
      "parent": "The packet should read about 980 grams at 8 centimetres, about 940 at 14 centimetres and about 870 at 20 centimetres. Some scales are not exact when tilted, so your numbers may differ by a few percent. Keep a hand near the scale. The tape across the lower edge holds the packet against sliding. It is not what the scale measures.",
@@ -1142,17 +1142,17 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "1. Fill in the last column of the table. 2. Draw a bar for each reading. 3. Ask your child for the three sentences.",
+     "do": "1. Fill in the last column of the table. 2. Draw a bar for each reading. A child who does not want to draw can put the readings in order. 3. Ask your child for the three sentences.",
      "say": "Look at your table. In which situations did the reading match the weight? In which was it bigger? In which was it smaller?",
-     "kid": "Fill in the table. Draw a bar for each reading. Which readings matched the weight?",
+     "kid": "Fill in the table. Draw a bar for each reading, or put the readings in order. Which matched the weight?",
      "context": "This step of Lift, Press and Tilt is for the table and the chart. Here you collect all the readings in one place."
     },
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask them to draw the packet on the scale with three arrows for the lifted case. 3. Only then read the explanation together.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Then draw the packet while you lift it. Which three forces act on it?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why. Draw the lifted packet with 3 arrows.",
+     "do": "1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask them to hold the packet by the string and point which way each of the three forces acts: gravity, the push of the scale and the pull of the string. 3. Only then read the explanation together.",
+     "say": "Say what you thought would happen, what you saw, and why it happened. Then hold the packet by the string and point to each of the three forces on it.",
+     "kid": "Say what you thought would happen. Say what you saw. Say why. Point to the 3 forces on the lifted packet.",
      "ask": [
       {
        "q": "The scale read less than the weight when you lifted the packet. Why?",
@@ -1190,7 +1190,7 @@
    "title": "The Spreading Square: why does a pull get weaker with distance?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment a small light shines through a square hole onto a screen. You move the screen further away and measure the lit square. It is a model for how the pull of a world spreads out and gets weaker.",
+   "context": "In this experiment you find out why a pull gets weaker with distance. A small light shines through a square hole onto a screen. You move the light further from the screen and measure the lit square. It is a model for how the pull of a world spreads out and gets weaker.",
    "question": "When the screen is twice as far from the light, how much bigger is the lit square? And how bright is it, compared with before?",
    "predict": "Guess first. At twice the distance, the lit square could be twice as wide, twice the area or four times the area. Which will it be? Write your guess and your reason. Why do you think so?",
    "fair_test": "Keep the card with the square hole 10 centimetres from the light every time. Change only the distance from the light to the screen. Measure each lit square twice, from the same pencil marks, because the edges are a little fuzzy.",
@@ -1271,7 +1271,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. A grown-up cuts a 2 centimetre square hole in the middle of the card. 2. Tape the squared paper flat on a wall. 3. Rest the light on a pile of books so it shines at the paper. 4. Stand the card so that its hole is 10 centimetres from the light. 5. Make the room dark.",
+     "do": "1. A grown-up cuts a 2 centimetre square hole in the middle of the card. 2. Tape the squared paper flat on a wall. This paper is the screen. 3. Rest the light on a pile of books so it shines at the paper. 4. Stand the card upright 10 centimetres in front of the light, so the light shines through the hole. 5. Make the room dark.",
      "say": "The light spreads out in all directions. The card with the square hole lets only a square of light through. We will see how big that square is on the screen.",
      "kid": "A grown-up cuts a square hole in the card. Tape up the paper. Stand the card 10 cm from the light.",
      "adult": true,
@@ -1299,9 +1299,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Put the screen 30 centimetres from the light. 2. Mark the 4 corners of the lit square with a pencil. 3. Measure the side of the square. 4. Move the screen to 60 centimetres and mark the corners. 5. Move it to 90 centimetres and mark the corners. 6. Write the three sides in the table.",
+     "do": "1. Put the light 30 centimetres from the screen. Keep the card 10 centimetres in front of the light. 2. Mark the 4 corners of the lit square with a pencil. 3. Measure the side of the square. 4. Move the light and card back to 60 centimetres from the screen and mark the corners. 5. Move them back to 90 centimetres and mark the corners. 6. Write the three sides in the table.",
      "say": "Measure from the light to the screen with the tape. Mark the four corners of the lit square each time. Measure its side.",
-     "kid": "Put the screen at 30 cm. Mark the lit square. Do the same at 60 and 90 cm.",
+     "kid": "Put the light 30 cm from the screen. Mark the lit square. Do the same at 60 and 90 cm.",
      "parent": "The edges are fuzzy, so mark where the light is clearly bright. At 30, 60 and 90 centimetres the sides should be about 6, 12 and 18 centimetres. Measure each side twice. If the squares are not square, the card is leaning.",
      "context": "This step of the Spreading Square is for measuring. Here you mark the lit square at three distances."
     },
@@ -1318,8 +1318,8 @@
      "id": "s5",
      "mins": 7,
      "do": "1. Ask your child for the three sentences. 2. Ask them to say how bright the light is at 60 centimetres, compared with 30. 3. Ask them how this might show what happens to the pull of a world. 4. Only then read the explanation together.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. If the same light covers 4 times the area, how bright is each part?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why. How bright is each part?",
+     "say": "Say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Say what you thought would happen. Say what you saw. Say why.",
      "ask": [
       {
        "q": "At twice the distance, how bright is each part of the square?",
@@ -1357,7 +1357,7 @@
    "title": "Be the Table: feel the push that holds a book up",
    "mins": 12,
    "days": 1,
-   "context": "In this activity your own hand is the table. You hold books on your palm, add more books, and then someone presses down on them. You feel how a surface pushes up, and how that push has to grow.",
+   "context": "In this activity you find out how a table can hold a book up. Your own hand is the table. You hold books on your palm, add more books, and then someone presses down on them. You feel how a surface pushes up, and how that push has to grow.",
    "materials": [
     {
      "item": "four books or thick notebooks of about the same size",
@@ -1373,7 +1373,7 @@
     }
    ],
    "safety": "Stand beside a bed, so that dropped books land on something soft. Stop when your arm is tired. A grown-up presses only gently.",
-   "record": "Draw your hand with one book on it. Draw one arrow for the push of your hand on the book, and one for the pull of gravity on the book. Say which arrow is longer when three books are on your hand.",
+   "record": "Draw your hand with one book on it. Draw one arrow for the push of your hand on the book, and one for the pull of gravity on the book. Say which arrow is longer when three books are on your hand. If you would rather not draw, say all this out loud.",
    "setup": [
     {
      "art": "A child standing beside a bed with an arm stretched out flat and one book on the palm.",
@@ -1394,7 +1394,7 @@
      "mins": 3,
      "do": "1. Stand beside the bed. 2. Hold one book flat on your open palm, with your arm out straight. 3. Count slowly to 10. 4. Notice which way your hand pushes.",
      "say": "Hold the book on your palm. Your hand is the table. Which way is your hand pushing on the book? Which way is the book pushing on your hand?",
-     "kid": "Hold one book on your palm. Count to 10. Which way does your hand push?",
+     "kid": "Hold one book flat on your palm. Count to 10.",
      "ask": [
       {
        "q": "Which way does your hand push the book?",
@@ -1419,7 +1419,7 @@
      "mins": 3,
      "do": "1. Add a second book, and then a third. 2. Hold for 10 seconds each time. 3. Notice what your arm has to do as the books are added. 4. Put the books down when it feels hard.",
      "say": "Add a second book, then a third. Your hand now has more to hold up. Does your hand have to push harder, or the same?",
-     "kid": "Add two more books, one at a time. Does your hand push harder?",
+     "kid": "Add two more books, one at a time. Feel what your arm has to do.",
      "ask": [
       {
        "q": "What does your hand have to do when you add books?",
@@ -1437,7 +1437,7 @@
      "mins": 3,
      "do": "1. Hold three books on your palm again. 2. A grown-up presses down gently on the top book with one hand. 3. Notice how your palm has to push. 4. The grown-up lets go.",
      "say": "Now a grown-up presses gently on the top book. That is an applied force, a push from a hand. What does your palm have to do?",
-     "kid": "A grown-up presses on the top book. Does your palm push more or less?",
+     "kid": "A grown-up presses on the top book. Feel what your palm has to do.",
      "adult": true,
      "ask": [
       {
@@ -1453,9 +1453,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Put the three books on a table. 2. Ask if the table is pushing up on the books. 3. Ask why the table does not get tired. 4. Draw your hand and the books with two arrows.",
-     "say": "The table holds those same books for hours and does not get tired. Is the table pushing up on them? How can it, when it does not move?",
-     "kid": "Put the books on the table. Is the table pushing up? Why is it not tired?",
+     "do": "1. Put the three books on a table. 2. Ask if the table is pushing up on the books. 3. Ask why the table does not get tired. 4. Lean on the table with your palm and feel it push back up.",
+     "say": "The table holds those same books for hours. Now lean on the table with your palm. Can you feel it push back?",
+     "kid": "Put the books on the table. Lean on the table with your palm.",
      "ask": [
       {
        "q": "Is the table pushing up on the books?",
@@ -1492,7 +1492,7 @@
    "title": "Weigh Yourself on Nine Worlds",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you find your own mass on a bathroom scale. Then you multiply it by the strength of gravity on each world, to find your weight there. You draw the weights as bars.",
+   "context": "In this activity you find your own mass on a bathroom scale. Then you multiply it by the strength of gravity on each world, to find your weight there. You then draw the weights as bars, to find out which world would make you heaviest.",
    "materials": [
     {
      "item": "a bathroom scale that reads in kilograms (or use the mass on a school health card, or use 30 kilograms)",
@@ -1536,8 +1536,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Show the table of the strength of gravity. 2. Moon 1.6, Mercury 3.7, Mars 3.7, Venus 8.9, Uranus 8.9. 3. Earth 9.8, Saturn 10.4, Neptune 11.2, Jupiter 25. 4. Ask which world will make your weight the biggest, and which the smallest.",
-     "say": "These numbers say how many newtons one kilogram weighs on each world. Which world will make you weigh the most? Which the least? Why do you think so?",
-     "kid": "Look at the numbers. Guess which world makes you heaviest. Guess the lightest. Say why.",
+     "say": "These numbers say how many newtons one kilogram weighs on each world. A newton is a unit for measuring a pull or a push. Which world will make you weigh the most? Which the least? Why do you think so?",
+     "kid": "Read the nine numbers aloud, from smallest to biggest.",
      "ask": [
       {
        "q": "Which world do you think will give the biggest weight, and why?",
@@ -1562,9 +1562,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. On squared paper, draw a bar for each world. 2. Let 1 square stand for 20 newtons. 3. Colour the Earth bar. 4. Mark which bars are taller than Earth's, and which are shorter.",
+     "do": "1. On squared paper, draw a bar for each world. A child who does not want to draw can put the nine worlds in order on scraps of paper. 2. Let 1 square stand for 20 newtons. 3. Colour the Earth bar. 4. Mark which bars are taller than Earth's, and which are shorter.",
      "say": "Draw a bar for your weight on each world. Let one square stand for 20 newtons. Colour the Earth bar, so that you can compare.",
-     "kid": "Draw a bar for each world. Colour Earth's bar. Which bars are taller?",
+     "kid": "Draw a bar for each world, or put the worlds in order. Mark Earth. Which are heavier than Earth?",
      "parent": "Saturn's bar is a little taller than Earth's. Uranus and Venus are a little shorter. Jupiter's is the tallest by far, about two and a half times Earth's.",
      "context": "This step of Nine Worlds is for the bar chart. Here you draw your weight on all nine worlds."
     },
@@ -1572,8 +1572,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Ask your child which world surprised them. 2. Ask whether a grown-up's bars would be taller or shorter than theirs. 3. Ask what a bathroom scale in kilograms would read on the Moon. 4. Write one sentence on each answer.",
-     "say": "Which bar surprised you? Would a grown-up's bars be taller or shorter than yours? What would your bathroom scale read on the Moon?",
-     "kid": "Which bar surprised you? What would the bathroom scale read on the Moon?",
+     "say": "Look at your nine bars. Which one surprised you?",
+     "kid": "Look at your nine bars. Tell your grown-up which one surprised you.",
      "ask": [
       {
        "q": "Would a grown-up's bars be taller or shorter?",
@@ -1611,7 +1611,7 @@
    "title": "Hit the Bottles: the same hit on a full and a nearly empty bottle",
    "mins": 20,
    "days": 1,
-   "context": "In this activity a small ball swings into a hanging bottle. First the bottle is full of water, and then it is nearly empty. You see how far each bottle swings, to find out what mass does when no weight needs holding up.",
+   "context": "In this activity a small ball swings into a hanging bottle. First the bottle is full of water, and then it is nearly empty. You find out whether the full bottle is harder to push sideways, even though a string holds up the weight of both.",
    "materials": [
     {
      "item": "a 1 litre plastic bottle with its cap",
@@ -1639,7 +1639,7 @@
     }
    ],
    "safety": "A grown-up checks that the stick cannot slip off the chairs. Stand to the side, not under the bottle. Wipe up any spilt water at once.",
-   "record": "Draw the full bottle with one arrow for the pull of the string and one for gravity. Write how far each bottle swung, and what you think that shows.",
+   "record": "Write how far each bottle swung, and what you think that shows.",
    "setup": [
     {
      "art": "A broom handle resting across two chairs, with a bottle and a ball hanging side by side from short strings so that they just touch.",
@@ -1705,8 +1705,8 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Ask your child to say what they thought would happen, what they saw, and why. 2. Ask what made the full bottle hard to move, since a string held up its weight. 3. Ask what would happen on the Moon. 4. Only then read the explanation together.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. A string held the weight of the bottle. So what made the full one hard to move?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why. What made the full one hard to move?",
+     "say": "Say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Say what you thought would happen. Say what you saw. Say why.",
      "ask": [
       {
        "q": "What made the full bottle hard to move sideways?",
@@ -1743,7 +1743,7 @@
    "title": "Arrows to Scale: weigh it, then draw the forces",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you weigh a packet and a book on a kitchen scale. You turn the grams into newtons and draw force arrows with a scale of 1 centimetre for each newton. You check that the arrows balance.",
+   "context": "In this activity you weigh a packet and a book on a kitchen scale. You turn the grams into newtons and draw force arrows with a scale of 1 centimetre for each newton. You check that the arrows balance, to find out how the forces on a thing at rest add up.",
    "materials": [
     {
      "item": "a kitchen scale in grams",
@@ -1755,11 +1755,11 @@
      "qty": 1
     },
     {
-     "item": "squared paper, a ruler, coloured pencils and a notebook",
+     "item": "squared paper, scissors, a ruler, coloured pencils and a notebook",
      "qty": 1
     }
    ],
-   "record": "Keep your five diagrams on squared paper, with the scale written beside each one. Under each, write the total of the up arrows and the total of the down arrows.",
+   "record": "Keep your drawing and your paper strips, with the scale written beside them. For every case, write the total of the up forces and the total of the down forces.",
    "setup": [
     {
      "art": "A kitchen scale with a 500 gram packet on it and a notebook beside it with the number 5 newtons written.",
@@ -1771,7 +1771,7 @@
     },
     {
      "art": "The same page with a second box where a finger presses down, and the up arrow is longer than the down arrow.",
-     "caption": "3. Draw four more cases. Check that the arrows balance."
+     "caption": "3. Try four more cases with real things. Check that the up and down forces balance."
     }
    ],
    "flow": [
@@ -1787,9 +1787,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. On squared paper, draw the packet as a small box. 2. Draw a gravity arrow down from its middle, as many centimetres long as its newtons. 3. Draw a normal force arrow up from its base, the same length. 4. Label both and write the scale.",
+     "do": "1. On squared paper, draw the packet as a small box. 2. Draw a gravity arrow down from its middle, as many centimetres long as its newtons. 3. Draw a normal force arrow up from its base, the same length. 4. Label both and write the scale. The normal force is the push of the table on the packet. If you prefer, cut paper strips as the arrows instead.",
      "say": "Draw the packet resting on a table. Draw gravity down. Draw the table's push up. How long should each arrow be, with 1 centimetre for each newton?",
-     "kid": "Draw the packet on a table. Draw gravity down. Draw the table's push up, as long.",
+     "kid": "Draw the packet on a table, with gravity down and the table's push up. Or use paper strips for the arrows.",
      "ask": [
       {
        "q": "Why are the two arrows the same length?",
@@ -1805,9 +1805,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Draw the packet again. 2. This time a finger presses down on it with 2 newtons. 3. Draw the finger's arrow 2 centimetres long. 4. Work out the table's push: the weight plus the press. 5. Draw the normal force arrow that long.",
-     "say": "Now a finger presses down with 2 newtons. What must the table push with? Draw the arrows with 1 centimetre for each newton.",
-     "kid": "Draw the packet with a finger pressing down. How long is the table's arrow now?",
+     "do": "1. Cut paper strips as arrows, 1 centimetre for each newton. 2. Lay a 5 centimetre strip pointing down for the packet's weight. 3. A finger now presses down with 2 newtons. Lay a 2 centimetre strip pointing down. 4. Work out the table's push: the weight plus the press. 5. Cut a strip that long and lay it pointing up.",
+     "say": "Now a finger presses down with 2 newtons. What must the table push with? Lay paper strips as arrows, with 1 centimetre for each newton.",
+     "kid": "Lay strips for the packet's weight and the finger's press. Cut the table's strip to the right length.",
      "ask": [
       {
        "q": "How big is the table's push when the finger presses with 2 newtons?",
@@ -1822,9 +1822,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Draw a third diagram, of the packet hanging from a string. 2. Draw gravity down, 5 centimetres. 3. Draw the string's pull up, 5 centimetres. 4. Draw a fourth diagram, of the book on a table. 5. Draw a fifth, of three books in a pile. Draw the forces on the middle book only.",
-     "say": "Draw three more. The hanging packet needs two arrows. The book on the table needs two. The middle book in a pile of three needs three arrows. Which three?",
-     "kid": "Draw the hanging packet. Draw the book on a table. Draw the middle of three books.",
+     "do": "1. Hold the packet still in your hand. Point to gravity and to your hand's push, and say how many newtons each is. 2. Put the book on a table. Point to its two forces. 3. Stack three books. Point to the three forces on the middle book only, and say how big each one is.",
+     "say": "Now try three more cases with real things. The packet in your hand has two forces. The book on the table has two. The middle book in a pile of three has three.",
+     "kid": "Try the packet in your hand. Then the book on a table. Then three books in a pile. Point to the forces.",
      "ask": [
       {
        "q": "What three forces act on the middle book of three?",
@@ -1840,9 +1840,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Check each diagram. 2. Add the up arrows, and add the down arrows. 3. Write both totals under each one. 4. Ask your child what the totals show.",
-     "say": "Add up the arrows going up and the arrows going down in each diagram. What do you notice about the two totals?",
-     "kid": "Add the up arrows and the down arrows. What do you notice about the totals?",
+     "do": "1. Check each case. 2. Add the up arrows, and add the down arrows. 3. Write both totals for each case. 4. Ask your child what the totals show.",
+     "say": "Add up the arrows going up and the arrows going down in each case. What do you notice about the two totals?",
+     "kid": "Add up the forces going up and the forces going down in each case.",
      "ask": [
       {
        "q": "What do the totals show?",
@@ -1873,7 +1873,7 @@
    "title": "Pull Detective: work out the strength of gravity from mass and width",
    "mins": 28,
    "days": 1,
-   "context": "In this activity you use the mass and the width of each world to work out the pull at its surface. Then you check your answers against the table from Nine Worlds.",
+   "context": "In this activity you find out why a huge world does not always pull hardest. You use the mass and the width of each world to work out the pull at its surface. Then you check your answers against the table from Nine Worlds.",
    "materials": [
     {
      "item": "a calculator",
@@ -1903,9 +1903,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw the table with a row for each world. 2. Copy the mass and the width of each world. 3. Moon 0.0123 and 0.273. Mars 0.107 and 0.532. Venus 0.815 and 0.949. Uranus 14.5 and 4.01. 4. Neptune 17.1 and 3.88. Saturn 95.2 and 9.45. Jupiter 318 and 11.2.",
+     "do": "1. Make a table with a row for each world. 2. Copy the mass and the width of each world. 3. Moon 0.0123 and 0.273. Mars 0.107 and 0.532. Venus 0.815 and 0.949. Uranus 14.5 and 4.01. 4. Neptune 17.1 and 3.88. Saturn 95.2 and 9.45. Jupiter 318 and 11.2.",
      "say": "Every world is compared with the Earth. The Earth counts as 1 for its mass and 1 for its width. So Jupiter's mass of 318 means 318 times the Earth's.",
-     "kid": "Draw the table. Copy the masses and widths. The Earth is 1 and 1.",
+     "kid": "Make the table. Copy the masses and widths. The Earth is 1 and 1.",
      "parent": "The numbers say how many times the Earth's mass and width each world has. They are rounded from NASA's planetary fact sheets.",
      "context": "This is the first step of Pull Detective. Here you set up the table of masses and widths."
     },
@@ -1958,8 +1958,8 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Ask your child to say what the sum is doing. 2. Ask what would happen to the pull if a planet kept its mass but became twice as wide. 3. Write the answer.",
-     "say": "If a planet kept its mass but grew twice as wide, what would happen to the pull on its surface? Use the sum to find out.",
-     "kid": "A planet has the same mass but twice the width. What happens to its pull?",
+     "say": "Imagine a planet that kept its mass but grew twice as wide. Use the sum to find out what happens to the pull on its surface.",
+     "kid": "Try the sum with a mass of 1 and a width of 2. Compare the answer with the Earth's 9.8.",
      "ask": [
       {
        "q": "What happens to the pull if the width doubles and the mass stays the same?",
@@ -1991,7 +1991,7 @@
    "title": "The Load on the Pillar: how much weight does a ground-floor pillar carry?",
    "days": 3,
    "mins": 65,
-   "context": "In this three-day project you choose one pillar on the ground floor of a block of flats or another building. You measure the floor it holds up, estimate the mass above it and work out the force the ground must push back with.",
+   "context": "In this three-day project you find out how much weight one pillar holds up. You choose one pillar on the ground floor of a block of flats or another building. You measure the floor it holds up, estimate the mass above it and work out the force the ground must push back with.",
    "materials": [
     {
      "item": "a measuring tape or a long piece of string and a ruler",
@@ -2028,7 +2028,7 @@
      "what": "Compare the load on a ground-floor pillar and a top-floor pillar. Draw the load path and write the three sentences."
     }
    ],
-   "record": "Write the number of floors, the pillar's width, the area it holds up, the mass above it and its weight in newtons. Draw the load path from the roof to the Earth, with arrows that grow longer towards the bottom.",
+   "record": "Write the number of floors, the pillar's width, the area it holds up, the mass above it and its weight in newtons. Draw the load path from the roof to the Earth, with arrows that grow longer towards the bottom. If you would rather not draw, say the load path out loud, floor by floor.",
    "setup": [
     {
      "art": "A child with a notebook and a tape measure beside a concrete pillar in the parking area of a block of flats, looking up at the floors above.",
@@ -2047,7 +2047,7 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Go with a grown-up to the ground floor of a building with at least three floors. 2. Count the floors above the ground, and count the roof as one more floor. 3. Choose one pillar. 4. Measure the pillar's width. 5. Measure the distance to the next pillar on each side. 6. Draw a plan from above and write the numbers on it.",
+     "do": "1. Go with a grown-up to the ground floor of a building with at least three floors. 2. Count the floors above the ground, and count the roof as one more floor. 3. Choose one pillar. 4. Measure the pillar's width. 5. Measure the distance to the next pillar on each side. 6. Take a photo of the pillar, and write the numbers in your notebook.",
      "say": "A pillar holds up all the floors above it. Let's choose one pillar and measure it. We also measure how far it is from its neighbours.",
      "kid": "Count the floors. Choose a pillar. Measure its width. Measure the gaps to the next pillars.",
      "adult": true,
@@ -2058,7 +2058,7 @@
     {
      "id": "s2",
      "mins": 25,
-     "do": "1. Multiply the two gaps to find the floor area the pillar holds up, in square metres. 2. Multiply the area by the number of floors. 3. Multiply by 1,000 kilograms. A rough rule gives one square metre of one floor a mass of about 1,000 kilograms. This counts its walls, furniture and people. 4. Multiply the mass by 10 to get its weight in newtons.",
+     "do": "1. Multiply the two gaps to find the floor area the pillar holds up, in square metres. 2. Multiply the area by the number of floors. 3. Multiply by 1,000 kilograms. A rough rule gives one square metre of one floor a mass of about 1,000 kilograms. This counts the walls, furniture and people. 4. Multiply the mass by 10 to get its weight in newtons.",
      "say": "Engineers use a rough rule. One square metre of one floor has a mass of about 1,000 kilograms. We multiply by the area and the number of floors. This is a guess, but it is a good one.",
      "kid": "Multiply the two gaps for the area. Multiply by the floors. Multiply by 1,000 kilograms. Then by 10 for newtons.",
      "ask": [
@@ -2077,9 +2077,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Work out the load on a top-floor pillar, with only the roof above it. 2. Divide the ground-floor load by the top-floor load. 3. Draw the load path from the roof down to the ground. 4. Draw an arrow at each floor, longer as you go down. 5. Write the three sentences.",
-     "say": "The top-floor pillar has only the roof above it. How many times bigger is the load on the ground-floor pillar? Draw the load path from the roof to the ground.",
-     "kid": "Work out the top pillar's load. How many times bigger is the bottom one? Draw the load path.",
+     "do": "1. Work out the load on a top-floor pillar, with only the roof above it. 2. Divide the ground-floor load by the top-floor load. 3. Show the load path with books: stack one book for each floor above the pillar, and feel the load grow as you add them. 4. Write the three sentences.",
+     "say": "The top-floor pillar has only the roof above it. How many times bigger is the load on the ground-floor pillar? Stack one book for each floor, and feel the load grow.",
+     "kid": "Work out the top pillar's load. How many times bigger is the bottom one? Stack one book for each floor and feel the load grow.",
      "ask": [
       {
        "q": "Where does the load end up?",
@@ -2118,7 +2118,7 @@
    "id": "c1",
    "title": "The Three-Storey Paper Tower: put the strength where the load is",
    "mins": 40,
-   "context": "This is an engineering challenge. In the Dough Stack, the load grew towards the bottom of the pile. Here you build a three-storey tower from paper tubes. Each floor carries a load, so the bottom storey must be the strongest.",
+   "context": "This is an engineering challenge. In the Dough Stack, the load grew towards the bottom of the pile. Here you build a three-storey tower from paper tubes. A storey is one level of a building. Each floor carries a load. You will find out how many tubes each storey needs.",
    "problem": "Build a tower of three storeys from paper tubes and stiff card floors. Every floor must carry one load without the tubes crumpling. Use the fewest tubes you can.",
    "constraints": [
     "Each storey is 8 centimetres tall, and each tube is rolled from one strip of paper, 8 centimetres wide.",
@@ -2141,7 +2141,7 @@
     "Put the tubes at the corners of each floor and the load in the middle, so that the floor does not bend.",
     "Try a different shape for the tubes. A tube rolled into a triangle may hold more than a round tube of the same paper."
    ],
-   "your_turn": "Now design your own tower with four floors and 10 strips. Draw it and say how many tubes go in each storey, and why. Then build it and test it. Did every storey hold? Which storey was nearest to crumpling?",
+   "your_turn": "Now design your own tower with four floors and 10 strips. Show your plan with a drawing or loose tubes, and say how many tubes go in each storey, and why. Then build it and test it. Did every storey hold? Which storey was nearest to crumpling?",
    "setup": [
     {
      "art": "A child rolling a paper strip into a tube and taping it, with several finished tubes beside them.",
@@ -2169,7 +2169,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Build the tower with 3 tubes in every storey, as the general solution says. 2. Put a load on each floor. 3. Watch each storey for 10 seconds. 4. Write which storey, if any, bends or crumples first.",
+     "do": "1. Build the tower with 3 tubes in every storey,. 2. Put a load on each floor. 3. Watch each storey for 10 seconds. 4. Write which storey, if any, bends or crumples first.",
      "say": "Our first tower uses the same number of tubes in every storey. We put one load on each floor. Which storey is under the most strain? Which tubes will crumple first, if any?",
      "kid": "Build the tower with 3 tubes in each storey. Put a load on each floor. Which storey is in trouble?",
      "ask": [
@@ -2207,9 +2207,9 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "1. Plan your own tower with 4 floors and 10 strips. 2. Draw it, and write how many tubes go in each storey. 3. Say why. 4. Build it and test it. 5. Write which storey, if any, crumpled.",
-     "say": "Now plan your own tower with four floors and ten strips. Draw it first. Say how many tubes go in each storey, and why. Then test it.",
-     "kid": "Plan a tower with 4 floors and 10 strips. Draw it. Build it. Test it.",
+     "do": "1. Plan your own tower with 4 floors and 10 strips. 2. Show your plan with a drawing or with loose tubes on the table, and write how many tubes go in each storey. 3. Say why. 4. Build it and test it. 5. Write which storey, if any, crumpled.",
+     "say": "Now plan your own tower with four floors and ten strips. Show your plan first, with a drawing or loose tubes. Say how many tubes go in each storey, and why. Then test it.",
+     "kid": "Plan a tower with 4 floors and 10 strips. Show your plan with a drawing or loose tubes. Build it. Test it.",
      "parent": "The pattern 1, 2, 3 and 4 uses exactly 10 strips. Real buildings do the same in steel and concrete, and engineers also add a safety margin. If you changed the design, ask what you were trying to improve.",
      "context": "This is the last step of the Three-Storey Paper Tower. Here you design, build and test your own tower."
     }
@@ -2219,7 +2219,7 @@
    "id": "c2",
    "title": "The 50-Newton Pack: how much can you carry on each world?",
    "mins": 30,
-   "context": "This is a design challenge. A pack that weighs 50 newtons on Earth has a mass of about 5 kilograms. On another world, the same 50 newtons holds a different mass. You work out what to pack for a trip, and see what does not change.",
+   "context": "This is a design challenge. A pack that weighs 50 newtons on Earth has a mass of about 5 kilograms. On another world, the same 50 newtons holds a different mass. You will find out how much you can pack for a trip to each world, and what does not change.",
    "problem": "You can carry a pack that weighs no more than 50 newtons on the world you visit. Choose what to take from the list. You must take water and a tent. Find the best pack for the Moon and for Mars. Then say whether the trip works at Jupiter's cloud tops.",
    "constraints": [
     "The pack may not weigh more than 50 newtons on that world.",
@@ -2261,7 +2261,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Put 5 one litre bottles of water in a strong bag. 2. Carry it across the room and feel how heavy it is. 3. Check its mass on a kitchen scale if you can. 4. Write it down. This pack weighs about 50 newtons on Earth.",
-     "say": "Carry this bag. Five bottles of water have a mass of about 5 kilograms, and weigh about 50 newtons. That is the pull we can carry for the whole trip.",
+     "say": "Carry this bag. Five bottles of water have a mass of about 5 kilograms, and weigh about 50 newtons. That is the most we can carry on the whole trip.",
      "kid": "Put 5 bottles in a bag. Carry it. This is about 50 newtons.",
      "adult": true,
      "parent": "Use a bag with strong handles. A child of 10 can usually carry 5 kilograms for a few minutes. Stop if it is too heavy.",
@@ -2308,8 +2308,8 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Ask your child what will be hard about turning round with a 31 kilogram pack on the Moon. 2. Ask them to use the Hit the Bottles activity as evidence. 3. Write the answer. 4. Choose a world and do your own pack.",
-     "say": "Your Moon pack feels as light as 5 kilograms when you hold it still. But when you turn round, does it feel light? Think of the full bottle that was hard to move sideways.",
-     "kid": "Your pack feels light when still. Is it easy to turn round with? Why?",
+     "say": "Your Moon pack feels as light as 5 kilograms when you hold it still. But when you turn round, does it feel light? Remember the Hit the Bottles activity. The full bottle was hard to move sideways.",
+     "kid": "Imagine turning round with the Moon pack on your back. Think of the full bottle.",
      "ask": [
       {
        "q": "Is a 31 kilogram pack easy to turn round with on the Moon?",

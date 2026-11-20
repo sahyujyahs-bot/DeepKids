@@ -809,7 +809,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Play the first ten cards. Each player says the group and one body clue, then turns the card over and takes beans. Read the back aloud whenever the group was wrong.",
+     "do": "Play the first ten cards. Each player says the group and one body clue. Then they turn the card over and take 1 bean for the right group and 1 for a right clue. A trap card pays double. Read the back aloud whenever the group was wrong.",
      "say": "Read the card. Which group, and what is your clue? Now turn it over and see.",
      "kid": "Read the top card. Say the group and a clue. Turn it over and take your beans.",
      "context": "In this step of Group Detective you play the first ten cards.",
@@ -863,7 +863,7 @@
    "title": "Boss or Hand? The blind reach test",
    "mins": 35,
    "days": 1,
-   "context": "In this test one person keeps their eyes shut and uses one hand to find a coin hidden among chana on a big plate. Another person can see. You try three ways of sharing the work between the one who sees and the hand that feels, and time each way.",
+   "context": "In this test one person keeps their eyes shut and uses one hand to find a coin hidden among chana on a big plate. Another person can see. You try three ways of sharing the work between the one who sees and the hand that feels, and time each way. You will find out whether orders from the eyes help the hand or slow it down.",
    "question": "A hand has to find a coin among chana without looking. Which is quickest: a boss who can see ordering every move, the hand searching alone by touch, or the boss giving only the aim and the hand doing the rest?",
    "predict": "Guess before you start. Which of the three ways will find the coin in the shortest time, and which will take longest? Say why you think so.",
    "fair_test": "The same person is the hand in every try, and uses the same hand. The plate, the coin and the number of chana stay the same. The boss moves the coin to a new place before every try, while the hand's eyes are shut, so that remembering does not help. Each try starts with the fingers on the near edge of the plate. You do three rounds, and in each round the three ways come in a different order. That way, no one way gets all the benefit of practice. No try goes past 60 seconds.",
@@ -953,7 +953,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Read the question aloud and explain the three ways. Ask your child which way will be quickest and which slowest, and why. Write the guesses above the table. Do not say whether you agree.",
-     "say": "One of us will be the hand, with eyes shut. The other will be the boss, who can see. We will try three ways. Which will find the coin soonest? Which will be slowest? Why?",
+     "say": "One of us will be the hand, with eyes shut. The other will be the boss, who can see. We will try three ways. In Way 1, the boss orders every move. In Way 2, the boss says nothing. In Way 3, the boss says where to aim, once. Which will find the coin soonest? Which will be slowest? Why?",
      "kid": "Which way will find the coin soonest? Which will be slowest? Say why.",
      "context": "This is the first step of the Boss or Hand test. You guess before you test.",
      "ask": [
@@ -971,7 +971,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Draw the results table. Spread the chana on the plate. Agree on the eight orders the boss may use in Way 1: left, right, forward, back, down, pinch, lift and stop. Practise them once with eyes open.",
+     "do": "Make the results table on paper. Spread the chana on the plate. Agree on the eight orders the boss may use in Way 1: left, right, forward, back, down, pinch, lift and stop. Practise them once with eyes open.",
      "say": "In Way 1, I may say only these words: left, right, forward, back, down, pinch, lift, stop. You do exactly what I say, and nothing else.",
      "kid": "Learn the eight orders: left, right, forward, back, down, pinch, lift, stop.",
      "context": "In this step you get the Boss or Hand test ready and learn the eight orders.",
@@ -1060,7 +1060,7 @@
    "title": "Sea Soup: what can a filter catch?",
    "mins": 25,
    "days": 1,
-   "context": "In this test you mix a 'sea soup' of tea leaves, turmeric powder and a little milk in water. You pour it through a tea strainer, then one layer of cloth, then four layers of cloth, and look at what each filter stops. A sponge feeds by filtering, so this shows what a filter can and cannot do.",
+   "context": "In this test you mix a 'sea soup' of tea leaves, turmeric powder and a little milk in water. You pour it through a tea strainer, then one layer of cloth, then four layers of cloth, and look at what each filter stops. A sponge feeds by filtering, so this shows what a filter can and cannot do. You will find out which bits a filter catches and which slip through.",
    "question": "Tea leaves, turmeric powder and milk are mixed in water. Which of them will a tea strainer stop? Which will one layer of cotton cloth stop? Which will four layers stop?",
    "predict": "Guess before you start. For each of the three filters, say which things will be stopped and which will pass through. Say why you think so.",
    "fair_test": "All three filters get the same soup, one after another, so each filter is tested on whatever passed the filter before. You pour slowly each time, without pressing or squeezing the cloth. You look at every tumbler in the same light, standing on the same printed page.",
@@ -1171,7 +1171,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Stretch one layer of cloth over the third tumbler and pour the soup through slowly. Look at the cloth and the water, and fill in the row. Rinse nothing. Fold a clean part of the cloth into four layers, pour through into the fourth tumbler, and fill in the last row.",
+     "do": "Stretch one layer of cloth over the third tumbler and pour the soup through slowly. Look at the cloth and the water, and fill in the row. Do not rinse the cloth. Fold a clean part of the cloth into four layers, pour through into the fourth tumbler, and fill in the last row.",
      "say": "Now one layer of cloth. Pour slowly and watch the cloth. Now four layers. Is this slower? What is on the cloth?",
      "kid": "Pour through one layer of cloth. Then through four layers. Watch the cloth each time.",
      "context": "In this step of the Sea Soup test you use one layer of cloth and then four layers.",
@@ -1221,7 +1221,7 @@
    "title": "The Slow Sieve: why does an octopus have a heart at each gill?",
    "mins": 22,
    "days": 1,
-   "context": "In this test you time how long a tumbler of water takes to run through a funnel when the neck is empty, loosely packed with cotton and firmly packed with cotton. The packed cotton stands for the very fine tubes of a gill. Then you walk the path that blood takes through an octopus's three hearts.",
+   "context": "In this test you time how long a tumbler of water takes to run through a funnel when the neck is empty, loosely packed with cotton and firmly packed with cotton. The packed cotton stands for the very fine tubes of a gill. Then you walk the path that blood takes through an octopus's three hearts. You will find out why an octopus needs an extra heart at each gill.",
    "question": "How much longer does a tumbler of water take to pass through a funnel when the neck is packed loosely with cotton, and when it is packed firmly?",
    "predict": "Guess before you start. Will the water take twice as long through loose cotton, five times as long, or more? What about firm cotton? Say why you think so.",
    "fair_test": "The funnel and the tumbler are the same for all three pours. You pour the same amount of water each time, and pour it all in at once. You start the timer when the water goes in and stop it when the stream turns to single drops. Only the packing in the neck changes.",
@@ -1357,7 +1357,7 @@
    "title": "Fifteen Animals, Five Groups",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you sort fifteen animals without backbones in your own way first. Then you sort them again using five body clues that scientists use, and see which animals end up together.",
+   "context": "In this activity you sort fifteen animals without backbones in your own way first. Then you sort them again using five body clues that scientists use, and see which animals end up together. You will find out which animals are closer relatives than they look.",
    "materials": [
     {
      "item": "small slips of paper",
@@ -1389,7 +1389,7 @@
      "mins": 3,
      "do": "Write these names on fifteen slips: bath sponge, jellyfish, coral, sea anemone, garden snail, mussel, squid, octopus, ant, prawn, spider, crab, starfish, sea urchin, sea cucumber. Ask your child to sort them into groups in any way they like, and to say the rule.",
      "say": "None of these fifteen animals has a backbone. Sort them into groups in any way that makes sense to you. Then tell me your rule.",
-     "kid": "Sort the fifteen animals into groups, your own way. Then say your rule.",
+     "kid": "Sort the fifteen animals into groups, your own way.",
      "context": "This is the first step of Fifteen Animals, Five Groups. You sort the animals in your own way.",
      "ask": [
       {
@@ -1407,7 +1407,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Read the five clues one at a time. After each clue, your child pulls out the animals that fit. Clue 1: a body full of pores, with no mouth. Clue 2: a soft body with one opening and stinging tentacles. Clue 3: a soft body with a mantle, and usually a foot and a shell. Clue 4: a hard outer skeleton and jointed legs. Clue 5: five matching parts and tube feet.",
+     "do": "Read the five clues one at a time. After each clue, your child pulls out the animals that fit. Clue 1: a body full of pores, with no mouth. Clue 2: a soft body with one opening and stinging tentacles. Clue 3: a soft body with a mantle (a flap of skin that wraps the body), and usually a foot and a shell. Clue 4: a hard outer skeleton and jointed legs. Clue 5: five matching parts and tube feet.",
      "say": "Now sort them by how the body is built. Listen to each clue and pull out the animals that fit.",
      "kid": "Listen to each body clue. Pull out the animals that fit that clue.",
      "context": "In this step of Fifteen Animals, Five Groups you sort the animals again by five body clues.",
@@ -1418,7 +1418,7 @@
      "mins": 3,
      "do": "Look at the five groups together. Ask what your child notices and what they wonder. Point to the octopus beside the garden snail and ask what the two could share.",
      "say": "What do you notice about who ended up together? What do you wonder? The octopus is with the snail. What could those two share?",
-     "kid": "What do you notice? What do you wonder? What could an octopus and a snail share?",
+     "kid": "Look at the five groups. What could an octopus and a snail share?",
      "context": "This is the last step of Fifteen Animals, Five Groups. You look at who ended up together and ask why.",
      "ask": [
       {
@@ -1441,7 +1441,7 @@
    "title": "Fifty Beans: where are an octopus's nerve cells?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity fifty beans stand for all the nerve cells of an octopus, and you place them on a drawing of her body. Then you do the same for a human and compare the two pictures.",
+   "context": "In this activity fifty beans stand for all the nerve cells of an octopus, and you place them on a picture of her body. You will see where she keeps most of her nerve cells, the tiny cells that carry messages around the body. Then you do the same for a human and compare the two pictures.",
    "materials": [
     {
      "item": "plain paper",
@@ -1476,7 +1476,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Your child draws a large octopus with eight arms and counts out 50 beans. Say that the beans stand for all her nerve cells, about 500 million. Ask where they think most of the beans should go, and why.",
+     "do": "Your child draws a large octopus with eight arms. Or they make one from a bowl and eight paper strips. Then they count out 50 beans. Say that the beans stand for all her nerve cells, about 500 million. Ask where they think most of the beans should go, and why.",
      "say": "These 50 beans are all the nerve cells of one octopus. Each bean stands for 10 million. Where do you think most of them are? Why?",
      "kid": "The 50 beans are an octopus's nerve cells. Where do you think most belong? Say why.",
      "context": "This is the first step of Fifty Beans. You guess where an octopus's nerve cells are.",
@@ -1505,9 +1505,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Your child draws a person on the second sheet. Say that a human has about 86 billion nerve cells, and almost all are in the brain. They move the 50 beans to show that. Compare the two drawings.",
+     "do": "Your child draws a simple person on the second sheet. A circle for the head and a line for the body is enough. Say that a human has about 86 billion nerve cells, and almost all are in the brain. They move the 50 beans to show that. Compare the two drawings.",
      "say": "A human has far more nerve cells, and almost all are in the brain. Show that with the same 50 beans. How are the two pictures different?",
-     "kid": "Now draw a person. Put almost all the beans in the head. How do the pictures differ?",
+     "kid": "Now make a person: a circle for the head and a line for the body. Put almost all the beans in the head. How do the pictures differ?",
      "context": "This is the last step of Fifty Beans. You compare where a human's nerve cells are with where an octopus's are.",
      "ask": [
       {
@@ -1529,7 +1529,7 @@
    "title": "Feel or Taste? What a fingertip can and cannot tell",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you try to tell sugar water from salt water with a fingertip, and then with your tongue. An octopus's sucker senses touch and chemicals together, and this shows what that would add to a finger.",
+   "context": "In this activity you try to tell sugar water from salt water with a fingertip, and then with your tongue. An octopus's sucker senses touch and chemicals together, and this shows what that would add to a finger. You will find out whether a fingertip alone can tell sweet from salty.",
    "materials": [
     {
      "item": "steel tumblers, each half full of drinking water at room temperature",
@@ -1590,8 +1590,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Now your child dips a finger and touches it to the tongue, twice, and says which is which. Compare the two scores. Ask what the finger could tell and what it could not.",
-     "say": "Now touch your wet finger to your tongue. Which one is this? What could your finger tell you, and what did it miss?",
-     "kid": "Touch the wet finger to your tongue. Which is which? What did your finger miss?",
+     "say": "Now touch your wet finger to your tongue. Which one is this?",
+     "kid": "Touch the wet finger to your tongue. Which is which?",
      "context": "This is the last step of Feel or Taste. You compare what a finger and a tongue can tell.",
      "ask": [
       {
@@ -1613,7 +1613,7 @@
    "title": "The Inside-Out Thread: a model of a stinging cell",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a balloon tucked inside a plastic bottle shoots out when you squeeze the bottle. It is a model of the thread inside a stinging cell of a jellyfish or a coral, which turns inside out as it fires.",
+   "context": "In this activity a balloon tucked inside a plastic bottle shoots out when you squeeze the bottle. It is a model of the thread inside a stinging cell of a jellyfish or a coral, which turns inside out as it fires. You will see how a thread can shoot out by turning inside out.",
    "materials": [
     {
      "item": "a soft empty plastic bottle, about half a litre or one litre",
@@ -1626,7 +1626,7 @@
     }
    ],
    "safety": "A burst or loose balloon can choke a young child. A grown-up fits the balloon, and children under eight do not put balloons in their mouths.",
-   "record": "Draw the model before and after the squeeze. Label the capsule, the thread and what set it off.",
+   "record": "Draw the model before and after the squeeze, or take two photos. Name the capsule, the thread and what set it off.",
    "setup": [
     {
      "art": "An empty soft plastic bottle with the mouth of a balloon stretched over the bottle's mouth and the rest of the balloon hanging outside.",
@@ -1696,7 +1696,7 @@
    "title": "Many Feet, No Boss: carry a plate together without a word",
    "mins": 8,
    "days": 1,
-   "context": "In this activity two people carry a plate with a lemon on it around a chair, once with one person giving every order and once in silence. A starfish has hundreds of tube feet and no brain, and this shows one way that many feet can work together.",
+   "context": "In this activity two people carry a plate with a lemon on it around a chair, once with one person giving every order and once in silence. A starfish has hundreds of tube feet and no brain, and this shows one way that many feet can work together. You will find out whether a team can move well with no one giving orders.",
    "materials": [
     {
      "item": "a steel plate",
@@ -1753,7 +1753,7 @@
      "mins": 3,
      "do": "Compare the two rounds. Ask how each of you knew what the other was doing in the silent round. Then explain how a starfish's tube feet work together.",
      "say": "In the silent round, how did you know which way I was going? What carried the message between us?",
-     "kid": "With no words, how did you know where I was going? What carried the message?",
+     "kid": "With no words, how did you know where I was going?",
      "context": "This is the last step of Many Feet, No Boss. You work out what carried the message in the silent round.",
      "ask": [
       {
@@ -1777,7 +1777,7 @@
    "title": "Five Groups Field Book: who can you find in four days?",
    "days": 4,
    "mins": 45,
-   "context": "In this project you make a small book with one page for each of the five big groups of animals without backbones. Over four days you hunt for a living member, a trace or a picture of each group, at home, in the market and in books.",
+   "context": "In this project you make a small book with one page for each of the five big groups of animals without backbones. Over four days you hunt for a living member, a trace or a picture of each group, at home, in the market and in books. You will find out which groups are easy to meet at home and which are not.",
    "materials": [
     {
      "item": "a notebook, or five sheets of paper stapled together",
@@ -1824,7 +1824,7 @@
     },
     {
      "art": "A child with a magnifying glass looking at an ant on a window sill.",
-     "caption": "2. Hunt at home and in the market. Look, draw, and do not harm."
+     "caption": "2. Hunt at home and in the market. Look, count, and do not harm."
     },
     {
      "art": "A page with a table of five rows and three columns headed 'alive', 'trace' and 'picture only', with tally marks.",
@@ -1835,9 +1835,9 @@
     {
      "id": "s1",
      "mins": 12,
-     "do": "Your child heads five pages with the five groups and writes each body clue. Then they hunt at home for arthropods, such as ants, a mosquito, a house spider or a cockroach. They draw one and count the legs.",
-     "say": "Make a page for each group. Today we hunt for arthropods at home. Find one, look closely, count the legs and draw.",
-     "kid": "Make five pages. Find an arthropod at home. Count the legs and draw.",
+     "do": "Your child heads five pages with the five groups and writes each body clue. Then they hunt at home for arthropods, such as ants, a mosquito, a house spider or a cockroach. They count the legs, and may draw it too.",
+     "say": "Make a page for each group. Today we hunt for arthropods at home. Find one, look closely, count the legs.",
+     "kid": "Make five pages. Find an arthropod at home. Count the legs.",
      "context": "This is day 1 of the Five Groups Field Book. You set up the book and look for arthropods.",
      "parent": "Arthropods are nearly always there: ants on a sill, a spider in a corner, a mosquito at dusk. Dry prawns or a crab from the market count as traces."
     },
@@ -1854,9 +1854,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 3, look for a sponge, a cnidarian and an echinoderm. In most homes these will be pictures in a book or online. Your child draws one of each and writes the body clue they can see in the picture.",
-     "say": "Today we look for the three groups who live almost only in the sea. Find a picture of each. Draw one, and mark the body clue.",
-     "kid": "Find a picture of a sponge, a coral or jellyfish, and a starfish. Draw each one.",
+     "do": "On day 3, look for a sponge, a cnidarian (such as a jellyfish or coral) and an echinoderm (such as a starfish). In most homes these will be pictures in a book or online. Your child names one of each and writes the body clue they can see in the picture. They may draw it too.",
+     "say": "Today we look for the three groups who live almost only in the sea. Find a picture of each. Pick one, and point to the body clue.",
+     "kid": "Find a picture of a sponge, a coral or jellyfish, and a starfish. Say which body clue you can see in each.",
      "context": "This is day 3 of the Five Groups Field Book. You look for the three groups who live mostly in the sea.",
      "wait": "Do this on the next day",
      "parent": "A kitchen sponge is made in a factory and a loofah is a plant, so neither counts. A piece of coral or a dried starfish in someone's showcase is a trace. Do not buy corals, shells or dried sea animals for this, because the trade harms reefs."
@@ -1866,7 +1866,7 @@
      "mins": 11,
      "do": "On day 4, your child counts for each group how many finds were alive, traces or pictures only. Ask why some groups were easy to find at home and others were not. They write one sentence on what the count shows.",
      "say": "Count your finds. Which groups did you see alive? Which only in pictures? Why do you think that is?",
-     "kid": "Count your finds. Which groups did you see alive? Which only in pictures? Why?",
+     "kid": "Count your finds for each group: alive, a trace, or a picture.",
      "context": "This is day 4 of the Five Groups Field Book. You count your finds and say what the count shows.",
      "wait": "Do this on the next day",
      "ask": [
@@ -1929,7 +1929,7 @@
     "Make three cloth 'arms' on one ring of string, so that pulling the ring closes all three round a lemon.",
     "Stretch a wide rubber band round the tumbler, and hook a loop of string under the band as a handle."
    ],
-   "your_turn": "Design a soft gripper for a job a hard hand does badly, such as picking up a ripe tomato, a soap bubble's wand or a sleeping kitten's toy. Draw it and say which part of an octopus arm gave you the idea.",
+   "your_turn": "Design a soft gripper for a job a hard hand does badly, such as picking up a ripe tomato, a raw egg or a soft toy. Draw it or build a small model, and say which part of an octopus arm gave you the idea.",
    "setup": [
     {
      "art": "A pencil, a lemon and a steel tumbler in a row on a table, with a sock, cloth strips, string, rubber bands and two balloons beside them.",
@@ -1966,9 +1966,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Your child draws one or two designs and says how each will hold the pencil, the lemon and the tumbler. Do not suggest a design yet.",
-     "say": "Draw your gripper. Show me how it holds a thin thing, a round thing and a hollow thing.",
-     "kid": "Draw your gripper. How will it hold each of the three things?",
+     "do": "Your child plans one or two designs. They can draw them or lay the soft things out. They say how each will hold the pencil, the lemon and the tumbler. Do not suggest a design yet.",
+     "say": "Plan your gripper. Draw it or lay out the parts. Show me how it holds a thin thing, a round thing and a hollow thing.",
+     "kid": "Plan your gripper. How will it hold each of the three things?",
      "context": "In this step of the Soft Gripper challenge you draw your design.",
      "parent": "The three objects are chosen to be awkward in different ways. A thin pencil slips out of a loose wrap, a lemon rolls, and a tumbler is wide and smooth."
     },

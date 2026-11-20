@@ -266,7 +266,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first twelve cards. After each card, read the back aloud. Ask the question below after card six.  
-  *Parent says:* The reader reads the front. Choose a token and put it face down. Say your reason. Now turn the token over, and the reader reads the back.  
+  *Parent says:* The reader reads the front. Choose a token and put it face down. Say your reason. Now turn the token over, and the reader reads the back. If your token matches the back, you win one point.  
   *Child mode:* Listen to the card. Pick a job token. Say why. Check the back.
   - Ask: How did you decide which job the adaptation does? (good: I asked what problem it solves.; I asked whether the animal eats others or is eaten.; I asked whether the problem was a hunter or the weather.)
   - Note: A useful question for a stuck child is: what would go wrong for this animal without this feature? One child can play alone or with you.
@@ -276,7 +276,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Child mode:* Play twelve more cards. Give your reason before you check.
 - **s4 (4 min)**  
   *Parent does:* Count the points. Then lay out the Catch cards in a row. Under each one, try to put an Escape card that answers it.  
-  *Parent says:* Let us pair the cards. For each Catch card, find an Escape card that works against it. Which Escape card answers the tiger's forward eyes? Which answers the cheetah's speed?  
+  *Parent says:* Let us pair the cards. For each Catch card, find an Escape card that works against it. Which Escape card answers the tiger's forward eyes?  
   *Child mode:* Pair each Catch card with an Escape card. Which answers which?
   - Note: Good pairs are forward eyes against side eyes, stalking against the langurs' watch, and speed against swerving. Any pair your child can explain is a good pair.
   - Check: Which prey adaptation best answers a cheetah's great speed? → **A sharp swerve at the last moment**
@@ -285,22 +285,22 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 - **Printable cards: 24 prey cards: 8 dangerous and 16 harmless:** DANGEROUS. A plain tiger butterfly. She is bitter from the milkweed she ate as a caterpillar.; DANGEROUS. A common rose butterfly. She is poisonous from the birthwort she ate as a caterpillar.; DANGEROUS. A crimson rose butterfly. She is poisonous, like her cousin the common rose.; DANGEROUS. A yellow paper wasp. She stings.; DANGEROUS. A rock bee. She stings, and her sisters come to help.; DANGEROUS. An orange and black blister beetle. Her body fluid burns the mouth.; DANGEROUS. A painted grasshopper. She is poisonous from the milkweed she eats.; DANGEROUS. A banded krait. Her bite is venomous.; HARMLESS. A female danaid eggfly butterfly. In real life she copies the plain tiger.; HARMLESS. A female common mormon butterfly. In real life some copy the common rose.; HARMLESS. A hoverfly. In real life she is striped like a wasp, but she has no sting.; HARMLESS. A common wolf snake. She has pale bands like a krait, but no venom.; HARMLESS. A green grasshopper.; HARMLESS. A field cricket.; HARMLESS. A winged termite.; HARMLESS. A brown house moth.; HARMLESS. A bush cricket.; HARMLESS. An earthworm.; HARMLESS. A rat snake. She has no venom.; HARMLESS. A house gecko.; HARMLESS. A lemon pansy butterfly.; HARMLESS. A dragonfly.; HARMLESS. A mosquito.; HARMLESS. A garden snail.
 - **Printable tokens: 6 warning tokens. Colour them with red and black stripes:** Warning; Warning; Warning; Warning; Warning; Warning
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 24 cards and the 6 tokens. Colour the tokens with red and black stripes. Read the rules together and shuffle the cards.  
+  *Parent does:* Cut out the 24 cards and the 6 tokens. Colour the tokens with red and black stripes, or use six red buttons instead. Read the rules together and shuffle the cards.  
   *Parent says:* In this game a warning token says 'I am dangerous'. A dangerous card must always carry one. A harmless card may carry one too, as a bluff. The hunter must decide whether to believe it.  
-  *Child mode:* Cut out the cards and tokens. Colour the tokens. Shuffle the cards.
+  *Child mode:* Cut out the cards and tokens. Make the tokens red, as a warning. Shuffle the cards.
 - **s2 (6 min)**  
   *Parent does:* Play the first two deals. Your child is the prey first, and then the hunter. Write down each player's points after each deal.  
   *Parent says:* You are the prey first. Put down one card at a time, with a token or without. I am the hunter, and I will say eat or leave.  
   *Child mode:* Play two deals. Be the prey first. Then be the hunter.
   - Note: Do not explain any tactics yet. Let your child find out what happens when they bluff a lot or a little.
 - **s3 (7 min)**  
-  *Parent does:* Play the last two deals. Before you start, ask the first question below. After each deal, turn over the cards that were left and count the bluffs.  
+  *Parent does:* Play the last two deals. Before you start, ask the question below. After each deal, turn over the cards that were left and count the bluffs.  
   *Parent says:* Before we go on, think about the first two deals. How often did the prey bluff? Did the hunter start eating cards with tokens? Now play two more deals and watch for that.  
   *Child mode:* Play two more deals. Count the bluffs after each deal.
   - Ask: What happened when the prey put a token on almost every card? (good: The hunter stopped believing the tokens.; The hunter ate some and found they were harmless.; The tokens stopped working.)
 - **s4 (4 min)**  
   *Parent does:* Add up the points and name the winner. Then talk about the questions below.  
-  *Parent says:* Who won? When did a bluff work best for the prey? In nature, a harmless hoverfly bluffs with a wasp's stripes. What would happen if hoverflies became far more common than wasps?  
+  *Parent says:* Who won? When did a bluff work best for the prey? In nature, a harmless fly called a hoverfly bluffs with a wasp's stripes. What would happen if hoverflies became far more common than wasps?  
   *Child mode:* Add up the points. When did a bluff work best?
   - Note: In the game, a third of the cards are dangerous. A prey player who bluffs on a few cards is usually believed. One who bluffs on every card is soon tested.
   - Check: When does a false warning protect a harmless animal best? → **When most warnings around are true**
@@ -314,8 +314,8 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 - **results table:** Tree shape | Teaspoons of snow that stayed on, try 1 | Teaspoons of snow that stayed on, try 2
 - **s1 (3 min)**  
   *Parent does:* Show your child the paper, the tumbler and the rava. Describe the three trees you will make. Ask for the guess and the reason, and write both down.  
-  *Parent says:* We will make three paper trees: a flat one, a low cone and a steep cone. Rava will be our snow. Which tree will keep the most snow on top, and which the least? Why do you think so?  
-  *Child mode:* Three paper trees get rava snow. Which keeps the most? Which keeps least? Why?
+  *Parent says:* We will make three paper trees: a flat one, a low cone and a steep cone. Rava will be our snow. Which tree will keep the most snow on top, and which the least?  
+  *Child mode:* Guess which paper tree keeps the most rava snow, and which keeps the least.
   - Ask: Why do you think that tree will keep the least snow? (good: The snow will slide down the steep sides.; There is no flat place for it to sit.; It is like a slide in the park.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (7 min)**  
@@ -342,7 +342,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your table. Say what you thought would happen, what you saw, and why it happened. Now think of a real tree. What would a heavy load of snow do to a wide, flat branch?  
-  *Child mode:* Say what you thought would happen, what you saw, and why it happened.
+  *Child mode:* Look at your table. Which tree kept the most rava? Which kept the least?
   - Ask: Why did the steep cone keep so little rava? (good: The slope was too steep for the grains to stay.; Each grain slid or rolled down.; There was nothing flat to hold a heap.)
   - Ask: A banyan grows wide and flat-topped. Why is that shape a good one in Chennai? (good: There is no snow there.; A wide tree catches more sunlight.; Her leaves spread out to the light.)
   - Note: In most homes the flat tree keeps nearly all 10 teaspoons and the steep cone keeps less than 1. The low cone is in between. Write down what you really found. The reason: the paper grips each grain, and the grain's weight drags it down the slope. On a steep slope the weight wins, and the grain slides. Firs, spruces and young deodars on Himalayan slopes are narrow cones, and their branches slope down and bend. Snow slides off before its weight can break them. A wide crown catches more light, so trees in warm places can spread out. Wet snow is stickier than rava, so real trees need bendy branches as well as steep ones.
@@ -355,8 +355,8 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 - **results table:** Hunt | Patterned squares eaten, out of 12 | Copycats eaten | Copycats left alive | Hunter's score
 - **s1 (3 min)**  
   *Parent does:* Explain the hunt. Your child will be the hunter. Tell them the scores, and that one hunt has few copycats and the other has many. Do not say which. Ask for the guess and the reason, and write both down.  
-  *Parent says:* You will be a hungry bird. A tasty square scores plus 1 and a bitter square scores minus 2. Some bitter squares carry a pattern, and some tasty ones copy it. One hunt has few copycats and one has many. In which hunt will more copycats be left alive? Why do you think so?  
-  *Child mode:* You are the hunter. One hunt has few copycats. One has many. Where are copycats safer? Why?
+  *Parent says:* You will be a hungry bird. A tasty square scores plus 1 and a bitter square scores minus 2. Some bitter squares carry a pattern. Tasty squares that copy the pattern are copycats. One hunt has few copycats and one has many. In which hunt will more copycats be left alive? Why do you think so?  
+  *Child mode:* You are the hunter. One hunt has few copycats and one has many. Guess where copycats are safer.
   - Ask: Why do you think copycats will be safer in that hunt? (good: If most patterned ones are bitter, I will stop eating them.; If most are tasty, I will keep eating them.; The copycats hide among the bitter ones.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (7 min) · grown-up needed**  
@@ -365,7 +365,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Child mode:* Draw the results table in another room. A grown-up makes the paper prey.
   - Note: Draw all the patterns first and write the letters afterwards, so that copycats and bitter squares look exactly alike. Write the letters small and in pencil. Lay the hunt 1 squares on the newspaper, pattern side up and well mixed. Keep hunt 2 out of sight.
 - **s3 (4 min)**  
-  *Parent does:* Call your child. Read out the rules. They turn over one square at a time and keep a running score. They may stop whenever they like. Put the eaten squares in a pile.  
+  *Parent does:* Lay the hunt 1 squares pattern side up on the newspaper, well mixed. Call your child. Read out the rules. They turn over one square at a time and keep a running score. They may stop whenever they like. Put the eaten squares in a pile.  
   *Parent says:* Here is the first forest. Turn over one square at a time. T is tasty and scores plus 1. B is bitter and scores minus 2. Stop whenever you like. Try to finish with the highest score you can.  
   *Child mode:* Turn over one square at a time. T scores 1. B loses 2. Stop when you like.
   - Note: A curious child may want to turn over every square. Remind them that the aim is the highest score.
@@ -385,7 +385,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 - **s7 (6 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your two rows. Say what you thought would happen, what you saw, and why it happened. The copycats looked the same as the bitter squares in both hunts. So what made them safe in one hunt and not in the other?  
-  *Child mode:* Say what you thought would happen, what you saw, and why it happened.
+  *Child mode:* Compare your two rows. In which hunt were more copycats left alive?
   - Ask: Why did you stop eating striped squares in the first hunt? (good: The first ones I tried were bitter.; I lost points, so I learned to avoid stripes.; It was not worth the risk.)
   - Ask: What does a copycat need, in order to be left alone? (good: Plenty of really bitter animals with the same pattern.; A hunter who has tasted the bitter kind.; Not too many other copycats.)
   - Note: Most hunters eat only 1 to 3 striped squares in the first hunt, so both striped copycats usually live. In the second hunt most hunters find that dotted squares are nearly all tasty, and eat most of them. Write down what you really found. A careful hunter may stop early in both hunts, and real birds differ in the same way. The reason: a hunter judges a pattern by the meals it has given so far. When most patterned prey are bitter, the hunter avoids the pattern, and the few copycats are protected. When most are harmless, the hunter learns that the pattern is safe. So a copycat depends on the bitter animals whose pattern she copies. Scientists call the copycat a mimic and the bitter animal a model. Jane Brower tested this in 1960 with starlings and bitter mealworms.
@@ -400,9 +400,9 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Child mode:* Look in the mirror. Where do your eyes point? Cover one eye. What changed?
   - Note: With one eye covered, only a strip at the far side disappears. Most of what one eye sees, the other eye sees too.
 - **s2 (4 min)**  
-  *Parent does:* Draw the two columns. Sort these twelve animals: tiger, house cat, owl, bonnet macaque, human, cow, goat, spotted deer, rabbit, pigeon, hen and fish. Beside each one, write what they mostly eat.  
-  *Parent says:* Put each animal in a column: eyes at the front, or eyes at the sides. Use pictures or your memory. Then write what each one mostly eats.  
-  *Child mode:* Sort twelve animals by their eyes. Write what each one eats.
+  *Parent does:* Write these twelve animals on slips of paper, or use pictures: tiger, house cat, owl, bonnet macaque, human, cow, goat, spotted deer, rabbit, pigeon, hen and fish. Lay two columns on the table, 'Eyes at the front' and 'Eyes at the sides', and sort the slips. Then ask what each animal mostly eats, and write the answer on that animal's slip.  
+  *Parent says:* Put each animal in a column: eyes at the front, or eyes at the sides. Use pictures or your memory. Then say what each one mostly eats.  
+  *Child mode:* Sort twelve animals by where their eyes are. Say what each one eats.
   - Note: Front: tiger, house cat, owl, bonnet macaque and human. Sides: cow, goat, spotted deer, rabbit, pigeon, hen and most fish. If your child is unsure about one, look for a picture together.
 - **s3 (3 min)**  
   *Parent does:* Look at the two columns together. Ask the questions below. Then do the check.  
@@ -414,9 +414,9 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 ### a2 · Edge or Middle: where in a herd is the safest place? (15 min)
 - **record:** A tally with three rows: edge, inner ring and centre. Put one stroke each time a chana in that place is caught. Then a second tally for the chana who stands alone.
 - **s1 (4 min)**  
-  *Parent does:* Put 1 chana in the middle of the paper. Put 6 around her, each a finger-width away. Put 12 around those, a finger-width further out. Mark six start points around the herd, each a hand-span from the outer ring. Number them 1 to 6. Ask for a guess.  
+  *Parent does:* Put 1 chana in the middle of the paper. Put 6 around it, each a finger-width away. Put 12 around those, a finger-width further out. Mark six start points around the herd, each a hand-span from the outer ring. Number them 1 to 6. Ask for a guess.  
   *Parent says:* These 19 chana are a herd of deer. The marble is a tiger, who rushes in from any side. Which deer do you think the tiger will catch most often: one at the edge, one in the inner ring, or the one in the centre? Why?  
-  *Child mode:* Arrange the herd in three rings. Where will the tiger catch most? Why?
+  *Child mode:* Arrange the herd in three rings. Guess where the tiger will catch most.
 - **s2 (6 min)**  
   *Parent does:* Roll the dice to choose a start point. Roll the marble from there at the middle of the herd. The first chana the marble touches is caught. Put a stroke in the tally and put the chana back. Do this 12 times.  
   *Parent says:* Roll the dice for the tiger's side. Now roll the marble at the middle of the herd. Which deer did the tiger touch first? Mark it in the tally and put her back in place.  
@@ -448,8 +448,8 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Child mode:* Look for thorns, hairs and tough skin. Who would they keep away?
 - **s4 (4 min)**  
   *Parent does:* Talk about the questions below. Read your child the explanation in the note after they have answered.  
-  *Parent says:* Which part did the plant make pleasant to eat? Which parts did she make unpleasant? What does the plant gain when an animal eats her ripe fruit? Why would an unripe fruit be sour and green?  
-  *Child mode:* Which part is pleasant to eat? What does the plant gain from that?
+  *Parent says:* Look at your scores. Which part did the plant make pleasant to eat? Which parts did she make unpleasant?  
+  *Child mode:* Look at your scores. Which part would an animal come back to?
   - Ask: What does a plant gain when an animal eats her ripe fruit? (good: The animal carries the seeds away.; The seeds come out in droppings somewhere new.)
   - Ask: Why is an unripe fruit sour or bitter, and green? (good: The seeds are not ready yet.; Green hides the fruit among the leaves.; The plant keeps eaters away until the seeds can grow.)
   - Note: Leaves make the plant's food, so many plants defend them with bitter chemicals, hairs or thorns. A ripe fruit is different. It is sweet and brightly coloured, and it invites animals who will carry the seeds away. An unripe fruit is sour and green until the seeds are ready. The chilli is a special case. The burning chemical in a chilli hurts the mouths of rats and other mammals, who would crush the seeds. The sensors in a bird's mouth do not respond to that chemical. Birds swallow the seeds whole and spread them.
@@ -467,8 +467,8 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   - Note: Good finds: the red gas cylinder, the red line on some medicine strips and the danger sign on a meter box. On the street, look for yellow and black road barriers and yellow school buses.
 - **s3 (3 min)**  
   *Parent does:* Tally the colours. Talk about the questions below.  
-  *Parent says:* Which colours came up most? A wasp is yellow and black, and a plain tiger butterfly is orange and black. Why would people and insects end up with the same warning colours? What would happen if every bottle in the house had a red danger mark?  
-  *Child mode:* Tally the colours. Why do wasps and road signs match?
+  *Parent says:* Which colours came up most? A wasp is yellow and black, and a plain tiger butterfly is orange and black. Do those match our danger marks?  
+  *Child mode:* Count how many times each colour came up. Which colour won?
   - Ask: Why are red, yellow and black good for a warning? (good: They stand out against green and brown.; You can see them from far away.; A bold pattern is easy to remember.)
   - Ask: What would happen if every bottle had a red danger mark? (good: Nobody would take the mark seriously.; The mark would stop meaning danger.; It is like too many copycats.)
   - Note: People and insects face the same problem: a warning must be seen from far off and remembered. A warning mark also stops working if it is put on harmless things. In the Copycat Test experiment, the hunter ate the dotted squares once most of them proved harmless.
@@ -485,7 +485,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Child mode:* Run straight to the finish three times. Write tagged or escaped.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Do 3 runs with turns. The runner may swerve sharply whenever the chaser is close, but must still reach the finish. Record each run. Then talk about the questions below.  
-  *Parent says:* Now you may swerve when I get close. Wait until the last moment, and then turn sharply. Ready, go. What happened to me when you turned?  
+  *Parent says:* Now you may swerve when I get close. Wait until the last moment, and then turn sharply. Ready, go.  
   *Child mode:* Now swerve when the chaser is close. Did you escape more often?
   - Ask: What happened to the chaser when you turned sharply? (good: They ran past me.; They could not turn as fast.; They had to slow down first.)
   - Note: A faster and heavier body needs more room to turn, so the chaser overshoots. Most families find more escapes with turns than without. Scientists who put collars on cheetahs and impalas found the same. The prey escaped by slowing a little and turning sharply.
@@ -507,7 +507,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   - Note: Examples of a number: only about 100 to 150 great Indian bustards are left. India lost more than 95 of every 100 vultures.
   - Wait: Do this on day 2
 - **s3 (15 min)**  
-  *Parent does:* Your child makes a poster with four boxes: her place, her adaptations, what changed, and what people can do. Then they give a three-minute talk to the family. The family asks two questions.  
+  *Parent does:* Your child makes a poster with four boxes: her place, her adaptations, what changed, and what people can do. They can use words, pictures cut from old magazines, or drawings. Then they give a three-minute talk to the family. The family asks two questions.  
   *Parent says:* Make your poster with four boxes. Then tell us about her in three minutes. Use your number. Finish with one thing people could do differently.  
   *Child mode:* Make a poster with four boxes. Give a three-minute talk. Use your number.
   - Note: Listen for the link between the adaptation and the change. A strong talk says why a feature that once helped no longer does.
@@ -516,14 +516,14 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 ## Challenges
 ### c1 · Stand in the Mud: build a mangrove that stays up (20 min)
 - **problem:** A mangrove tree grows in soft, wet mud. Deep in the mud there is no air, so her roots cannot go far down. Twice a day the tide pushes and pulls at her. Build a model tree that stands in loose rice. The model must stay up when the tray is slid from side to side 10 times.
-- **your turn:** Now design your own roots. Draw the design first. Test it with 10 slides of the tray, then with 20. Write which roots failed first and what you changed.
+- **your turn:** Now design your own roots. Draw the design first, or lay the sticks out as a plan. Test it with 10 slides of the tray, then with 20. Write which roots failed first and what you changed.
 - **constraints:** The trunk is one pencil with a paper circle 10 centimetres wide taped on top as the crown.; The rice is only 3 centimetres deep.; The trunk may go no more than 2 centimetres into the rice.; You may add up to 8 thin sticks and some tape or thread as roots.; The tree must stay up while the tray is slid 5 centimetres left and right, 10 times.
 - **general:** Tape sticks to the trunk so that they slope outwards into the rice, like stilts.; Lay sticks flat under the rice, tied to the bottom of the trunk, like a wide foot.; Make the crown smaller, so that there is less weight on top.
 - **creative:** Tie three sticks into a tripod halfway up the trunk, so that the tree stands on three legs.; Build two trees side by side and tie their roots together, as mangroves in a forest hold each other.; Use many short roots all the way round in place of a few long ones, and compare.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Fill the tray with rice 3 centimetres deep. Stand the bare pencil tree 2 centimetres deep and slide the tray. Ask why it fell and what might hold it up.  
-  *Parent says:* The tree fell at once. The trunk cannot go deeper, because deep mud has no air for roots. So what else could hold a tree up in soft ground? List every idea.  
-  *Child mode:* The bare tree falls. The trunk cannot go deeper. What else could hold it?
+  *Parent says:* The tree fell at once. The trunk cannot go deeper, because deep mud has no air for roots. List every idea you have.  
+  *Child mode:* Say why the bare tree falls. Then think of ways to hold it up.
   - Ask: What could hold a tree up without going deep? (good: Roots that spread wide.; Props that lean out like stilts.; A wide flat foot under the mud.)
 - **s2 (6 min)**  
   *Parent does:* Your child chooses one idea and builds it with up to 8 sticks and some tape or thread.  
@@ -541,14 +541,14 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   - Note: Praise a clear account of what failed as much as a tree that stays up.
 ### c2 · Shed the Snow, Catch the Sun: design a tree for a snowy hill (25 min)
 - **problem:** A steep cone sheds snow, but it is narrow, so it catches little light from above. A flat tree catches a lot of light and keeps all the snow. Design a paper tree that keeps no more than 2 of 10 teaspoons of rava. The design must also cast the widest shadow you can under a torch.
-- **your turn:** Now design your own tree. Draw it first. Run the snow test and then the light test. Write the two numbers, change one thing, and test again.
+- **your turn:** Now design your own tree. Plan it first: draw it, or tell your grown-up the plan. Run the snow test and then the light test. Write the two numbers, change one thing, and test again.
 - **constraints:** Use no more than 2 sheets of paper, and sticky tape.; The tree stands on an upturned tumbler or a bottle, and is no taller than 20 centimetres above it.; Snow test: pour 10 level teaspoons of rava on the top. No more than 2 teaspoons may stay on.; Light test: hold a phone torch 50 centimetres straight above the tree. Measure the width of the shadow on the table.; Do the snow test first. Only a tree that passes may take the light test.
 - **general:** Make one cone that is steep but as wide at the bottom as the paper allows.; Make a cone with a slope just steep enough for the rava to slide. Find that slope by testing.; Use smooth, shiny paper, so that the rava slides at a gentler slope.
 - **creative:** Stack three or four small sloping skirts down the trunk, like the layers of branches on a real deodar.; Make branches from paper strips that bend down under a load and spring back when it slides off.; Give each branch a narrow tip that points down, so that the rava runs off the end.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Remind your child of the Snow Load Test. There the steep cone shed almost all the rava, and the flat circle kept all of the rava. Ask what a tree needs light for, and list design ideas.  
-  *Parent says:* In the Snow Load Test the steep cone shed the snow, but it was narrow. A tree makes food with light, so a narrow tree makes less food. How could one tree shed snow and still be wide? List every idea.  
-  *Child mode:* A steep cone sheds snow but is narrow. How could a tree do both?
+  *Parent says:* In the Snow Load Test the steep cone shed the snow, but it was narrow. A tree makes food with light, so a narrow tree makes less food. List every idea you have.  
+  *Child mode:* Why does a narrow tree make less food?
   - Ask: How could a tree be wide and still shed snow? (good: Many small slopes in layers.; Branches that bend down when loaded.; A slope that is only just steep enough.)
 - **s2 (8 min)**  
   *Parent does:* Your child chooses one idea and builds it from no more than 2 sheets of paper. Stand it on the tumbler or bottle.  
@@ -560,7 +560,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Child mode:* Pour ten teaspoons. Count what stays. Then measure the shadow.
 - **s4 (5 min)**  
   *Parent does:* Change one thing and test again. Then talk about the question below.  
-  *Parent says:* Which number do you want to improve? Change one thing and test again. Did the other number get worse? A real deodar has layers of sloping branches. What does that design gain?  
+  *Parent says:* Which number do you want to improve? Change one thing and test again. A real deodar has layers of sloping branches. What does that design gain?  
   *Child mode:* Change one thing. Test again. Did the other number get worse?
   - Ask: Why can a tree not be best at shedding snow and best at catching light? (good: A steep shape is narrow.; A wide shape gives snow a place to sit.; Making one better makes the other worse.)
   - Note: The wider the shadow, the more light the tree would catch. Most designs gain on one test and lose on the other. Layers of sloping branches do well on both.

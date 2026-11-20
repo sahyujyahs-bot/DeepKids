@@ -612,7 +612,7 @@
           "id": "s2",
           "mins": 7,
           "do": "Play the first twelve cards. After each card, read the back aloud. Ask the question below after card six.",
-          "say": "The reader reads the front. Choose a token and put it face down. Say your reason. Now turn the token over, and the reader reads the back.",
+          "say": "The reader reads the front. Choose a token and put it face down. Say your reason. Now turn the token over, and the reader reads the back. If your token matches the back, you win one point.",
           "kid": "Listen to the card. Pick a job token. Say why. Check the back.",
           "ask": [
             {
@@ -639,7 +639,7 @@
           "id": "s4",
           "mins": 4,
           "do": "Count the points. Then lay out the Catch cards in a row. Under each one, try to put an Escape card that answers it.",
-          "say": "Let us pair the cards. For each Catch card, find an Escape card that works against it. Which Escape card answers the tiger's forward eyes? Which answers the cheetah's speed?",
+          "say": "Let us pair the cards. For each Catch card, find an Escape card that works against it. Which Escape card answers the tiger's forward eyes?",
           "kid": "Pair each Catch card with an Escape card. Which answers which?",
           "check": {
             "t": "mcq",
@@ -738,9 +738,9 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Cut out the 24 cards and the 6 tokens. Colour the tokens with red and black stripes. Read the rules together and shuffle the cards.",
+          "do": "Cut out the 24 cards and the 6 tokens. Colour the tokens with red and black stripes, or use six red buttons instead. Read the rules together and shuffle the cards.",
           "say": "In this game a warning token says 'I am dangerous'. A dangerous card must always carry one. A harmless card may carry one too, as a bluff. The hunter must decide whether to believe it.",
-          "kid": "Cut out the cards and tokens. Colour the tokens. Shuffle the cards.",
+          "kid": "Cut out the cards and tokens. Make the tokens red, as a warning. Shuffle the cards.",
           "context": "This is the first step of Bitter or Bluff. You make the cards and the warning tokens and learn the rules."
         },
         {
@@ -755,7 +755,7 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Play the last two deals. Before you start, ask the first question below. After each deal, turn over the cards that were left and count the bluffs.",
+          "do": "Play the last two deals. Before you start, ask the question below. After each deal, turn over the cards that were left and count the bluffs.",
           "say": "Before we go on, think about the first two deals. How often did the prey bluff? Did the hunter start eating cards with tokens? Now play two more deals and watch for that.",
           "kid": "Play two more deals. Count the bluffs after each deal.",
           "ask": [
@@ -774,7 +774,7 @@
           "id": "s4",
           "mins": 4,
           "do": "Add up the points and name the winner. Then talk about the questions below.",
-          "say": "Who won? When did a bluff work best for the prey? In nature, a harmless hoverfly bluffs with a wasp's stripes. What would happen if hoverflies became far more common than wasps?",
+          "say": "Who won? When did a bluff work best for the prey? In nature, a harmless fly called a hoverfly bluffs with a wasp's stripes. What would happen if hoverflies became far more common than wasps?",
           "kid": "Add up the points. When did a bluff work best?",
           "check": {
             "t": "mcq",
@@ -891,8 +891,8 @@
           "id": "s1",
           "mins": 3,
           "do": "Show your child the paper, the tumbler and the rava. Describe the three trees you will make. Ask for the guess and the reason, and write both down.",
-          "say": "We will make three paper trees: a flat one, a low cone and a steep cone. Rava will be our snow. Which tree will keep the most snow on top, and which the least? Why do you think so?",
-          "kid": "Three paper trees get rava snow. Which keeps the most? Which keeps least? Why?",
+          "say": "We will make three paper trees: a flat one, a low cone and a steep cone. Rava will be our snow. Which tree will keep the most snow on top, and which the least?",
+          "kid": "Guess which paper tree keeps the most rava snow, and which keeps the least.",
           "ask": [
             {
               "q": "Why do you think that tree will keep the least snow?",
@@ -967,7 +967,7 @@
           "mins": 5,
           "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
           "say": "Look at your table. Say what you thought would happen, what you saw, and why it happened. Now think of a real tree. What would a heavy load of snow do to a wide, flat branch?",
-          "kid": "Say what you thought would happen, what you saw, and why it happened.",
+          "kid": "Look at your table. Which tree kept the most rava? Which kept the least?",
           "ask": [
             {
               "q": "Why did the steep cone keep so little rava?",
@@ -1081,8 +1081,8 @@
           "id": "s1",
           "mins": 3,
           "do": "Explain the hunt. Your child will be the hunter. Tell them the scores, and that one hunt has few copycats and the other has many. Do not say which. Ask for the guess and the reason, and write both down.",
-          "say": "You will be a hungry bird. A tasty square scores plus 1 and a bitter square scores minus 2. Some bitter squares carry a pattern, and some tasty ones copy it. One hunt has few copycats and one has many. In which hunt will more copycats be left alive? Why do you think so?",
-          "kid": "You are the hunter. One hunt has few copycats. One has many. Where are copycats safer? Why?",
+          "say": "You will be a hungry bird. A tasty square scores plus 1 and a bitter square scores minus 2. Some bitter squares carry a pattern. Tasty squares that copy the pattern are copycats. One hunt has few copycats and one has many. In which hunt will more copycats be left alive? Why do you think so?",
+          "kid": "You are the hunter. One hunt has few copycats and one has many. Guess where copycats are safer.",
           "ask": [
             {
               "q": "Why do you think copycats will be safer in that hunt?",
@@ -1109,7 +1109,7 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Call your child. Read out the rules. They turn over one square at a time and keep a running score. They may stop whenever they like. Put the eaten squares in a pile.",
+          "do": "Lay the hunt 1 squares pattern side up on the newspaper, well mixed. Call your child. Read out the rules. They turn over one square at a time and keep a running score. They may stop whenever they like. Put the eaten squares in a pile.",
           "say": "Here is the first forest. Turn over one square at a time. T is tasty and scores plus 1. B is bitter and scores minus 2. Stop whenever you like. Try to finish with the highest score you can.",
           "kid": "Turn over one square at a time. T scores 1. B loses 2. Stop when you like.",
           "check": {
@@ -1155,7 +1155,7 @@
           "mins": 6,
           "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
           "say": "Look at your two rows. Say what you thought would happen, what you saw, and why it happened. The copycats looked the same as the bitter squares in both hunts. So what made them safe in one hunt and not in the other?",
-          "kid": "Say what you thought would happen, what you saw, and why it happened.",
+          "kid": "Compare your two rows. In which hunt were more copycats left alive?",
           "ask": [
             {
               "q": "Why did you stop eating striped squares in the first hunt?",
@@ -1230,9 +1230,9 @@
         {
           "id": "s2",
           "mins": 4,
-          "do": "Draw the two columns. Sort these twelve animals: tiger, house cat, owl, bonnet macaque, human, cow, goat, spotted deer, rabbit, pigeon, hen and fish. Beside each one, write what they mostly eat.",
-          "say": "Put each animal in a column: eyes at the front, or eyes at the sides. Use pictures or your memory. Then write what each one mostly eats.",
-          "kid": "Sort twelve animals by their eyes. Write what each one eats.",
+          "do": "Write these twelve animals on slips of paper, or use pictures: tiger, house cat, owl, bonnet macaque, human, cow, goat, spotted deer, rabbit, pigeon, hen and fish. Lay two columns on the table, 'Eyes at the front' and 'Eyes at the sides', and sort the slips. Then ask what each animal mostly eats, and write the answer on that animal's slip.",
+          "say": "Put each animal in a column: eyes at the front, or eyes at the sides. Use pictures or your memory. Then say what each one mostly eats.",
+          "kid": "Sort twelve animals by where their eyes are. Say what each one eats.",
           "parent": "Front: tiger, house cat, owl, bonnet macaque and human. Sides: cow, goat, spotted deer, rabbit, pigeon, hen and most fish. If your child is unsure about one, look for a picture together.",
           "context": "In this step of Front Eyes or Side Eyes you sort twelve animals by where their eyes are. You also write what each one eats."
         },
@@ -1315,9 +1315,9 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Put 1 chana in the middle of the paper. Put 6 around her, each a finger-width away. Put 12 around those, a finger-width further out. Mark six start points around the herd, each a hand-span from the outer ring. Number them 1 to 6. Ask for a guess.",
+          "do": "Put 1 chana in the middle of the paper. Put 6 around it, each a finger-width away. Put 12 around those, a finger-width further out. Mark six start points around the herd, each a hand-span from the outer ring. Number them 1 to 6. Ask for a guess.",
           "say": "These 19 chana are a herd of deer. The marble is a tiger, who rushes in from any side. Which deer do you think the tiger will catch most often: one at the edge, one in the inner ring, or the one in the centre? Why?",
-          "kid": "Arrange the herd in three rings. Where will the tiger catch most? Why?",
+          "kid": "Arrange the herd in three rings. Guess where the tiger will catch most.",
           "context": "This is the first step of Edge or Middle. You arrange 19 chana as a herd and guess which place is most dangerous."
         },
         {
@@ -1443,8 +1443,8 @@
           "id": "s4",
           "mins": 4,
           "do": "Talk about the questions below. Read your child the explanation in the note after they have answered.",
-          "say": "Which part did the plant make pleasant to eat? Which parts did she make unpleasant? What does the plant gain when an animal eats her ripe fruit? Why would an unripe fruit be sour and green?",
-          "kid": "Which part is pleasant to eat? What does the plant gain from that?",
+          "say": "Look at your scores. Which part did the plant make pleasant to eat? Which parts did she make unpleasant?",
+          "kid": "Look at your scores. Which part would an animal come back to?",
           "ask": [
             {
               "q": "What does a plant gain when an animal eats her ripe fruit?",
@@ -1532,8 +1532,8 @@
           "id": "s3",
           "mins": 3,
           "do": "Tally the colours. Talk about the questions below.",
-          "say": "Which colours came up most? A wasp is yellow and black, and a plain tiger butterfly is orange and black. Why would people and insects end up with the same warning colours? What would happen if every bottle in the house had a red danger mark?",
-          "kid": "Tally the colours. Why do wasps and road signs match?",
+          "say": "Which colours came up most? A wasp is yellow and black, and a plain tiger butterfly is orange and black. Do those match our danger marks?",
+          "kid": "Count how many times each colour came up. Which colour won?",
           "ask": [
             {
               "q": "Why are red, yellow and black good for a warning?",
@@ -1619,7 +1619,7 @@
           "id": "s3",
           "mins": 4,
           "do": "Do 3 runs with turns. The runner may swerve sharply whenever the chaser is close, but must still reach the finish. Record each run. Then talk about the questions below.",
-          "say": "Now you may swerve when I get close. Wait until the last moment, and then turn sharply. Ready, go. What happened to me when you turned?",
+          "say": "Now you may swerve when I get close. Wait until the last moment, and then turn sharply. Ready, go.",
           "kid": "Now swerve when the chaser is close. Did you escape more often?",
           "adult": true,
           "ask": [
@@ -1724,7 +1724,7 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "Your child makes a poster with four boxes: her place, her adaptations, what changed, and what people can do. Then they give a three-minute talk to the family. The family asks two questions.",
+          "do": "Your child makes a poster with four boxes: her place, her adaptations, what changed, and what people can do. They can use words, pictures cut from old magazines, or drawings. Then they give a three-minute talk to the family. The family asks two questions.",
           "say": "Make your poster with four boxes. Then tell us about her in three minutes. Use your number. Finish with one thing people could do differently.",
           "kid": "Make a poster with four boxes. Give a three-minute talk. Use your number.",
           "wait": "Do this on day 3",
@@ -1766,7 +1766,7 @@
         "Build two trees side by side and tie their roots together, as mangroves in a forest hold each other.",
         "Use many short roots all the way round in place of a few long ones, and compare."
       ],
-      "your_turn": "Now design your own roots. Draw the design first. Test it with 10 slides of the tray, then with 20. Write which roots failed first and what you changed.",
+      "your_turn": "Now design your own roots. Draw the design first, or lay the sticks out as a plan. Test it with 10 slides of the tray, then with 20. Write which roots failed first and what you changed.",
       "setup": [
         {
           "art": "A pencil with a paper circle taped on top standing in a tray of rice and leaning over, about to fall.",
@@ -1786,8 +1786,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Read the problem together. Fill the tray with rice 3 centimetres deep. Stand the bare pencil tree 2 centimetres deep and slide the tray. Ask why it fell and what might hold it up.",
-          "say": "The tree fell at once. The trunk cannot go deeper, because deep mud has no air for roots. So what else could hold a tree up in soft ground? List every idea.",
-          "kid": "The bare tree falls. The trunk cannot go deeper. What else could hold it?",
+          "say": "The tree fell at once. The trunk cannot go deeper, because deep mud has no air for roots. List every idea you have.",
+          "kid": "Say why the bare tree falls. Then think of ways to hold it up.",
           "ask": [
             {
               "q": "What could hold a tree up without going deep?",
@@ -1869,7 +1869,7 @@
         "Make branches from paper strips that bend down under a load and spring back when it slides off.",
         "Give each branch a narrow tip that points down, so that the rava runs off the end."
       ],
-      "your_turn": "Now design your own tree. Draw it first. Run the snow test and then the light test. Write the two numbers, change one thing, and test again.",
+      "your_turn": "Now design your own tree. Plan it first: draw it, or tell your grown-up the plan. Run the snow test and then the light test. Write the two numbers, change one thing, and test again.",
       "setup": [
         {
           "art": "A narrow steep paper cone beside a wide flat paper circle, each on an upturned tumbler, with a small heap of rava on the flat one.",
@@ -1889,8 +1889,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Read the problem together. Remind your child of the Snow Load Test. There the steep cone shed almost all the rava, and the flat circle kept all of the rava. Ask what a tree needs light for, and list design ideas.",
-          "say": "In the Snow Load Test the steep cone shed the snow, but it was narrow. A tree makes food with light, so a narrow tree makes less food. How could one tree shed snow and still be wide? List every idea.",
-          "kid": "A steep cone sheds snow but is narrow. How could a tree do both?",
+          "say": "In the Snow Load Test the steep cone shed the snow, but it was narrow. A tree makes food with light, so a narrow tree makes less food. List every idea you have.",
+          "kid": "Why does a narrow tree make less food?",
           "ask": [
             {
               "q": "How could a tree be wide and still shed snow?",
@@ -1923,7 +1923,7 @@
           "id": "s4",
           "mins": 5,
           "do": "Change one thing and test again. Then talk about the question below.",
-          "say": "Which number do you want to improve? Change one thing and test again. Did the other number get worse? A real deodar has layers of sloping branches. What does that design gain?",
+          "say": "Which number do you want to improve? Change one thing and test again. A real deodar has layers of sloping branches. What does that design gain?",
           "kid": "Change one thing. Test again. Did the other number get worse?",
           "ask": [
             {

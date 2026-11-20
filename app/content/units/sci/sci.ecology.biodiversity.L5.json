@@ -507,7 +507,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a paper game about choosing places to protect. A forest map has 9 squares and 12 made-up species. You can keep only 2 squares safe, and the other 7 will be cleared.",
+   "context": "This is a paper game about choosing places to protect. You will find out which two squares save the most species. A forest map has 9 squares and 12 made-up species. You can keep only 2 squares safe, and the other 7 will be cleared.",
    "printables": [
     {
      "kind": "board",
@@ -609,7 +609,7 @@
      "mins": 3,
      "do": "1. Explain that only 2 squares can be protected, and the other 7 will be cleared for farms. 2. Ask which 2 squares your child would protect. 3. Ask for the reason. 4. Write down the guess and the reason.",
      "say": "Only two squares can be kept safe. The other seven will be cleared. Which two will you protect? Why do you think so?",
-     "kid": "You can protect only 2 squares. Which 2 will you pick? Why? Write your guess.",
+     "kid": "You can protect only 2 squares. Which 2 will you pick? Write your guess.",
      "ask": [
       {
        "q": "Why those two squares?",
@@ -625,9 +625,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Take each card in turn. 2. Write a short name for the species in every square where she lives, for example 'babbler' or 'orchid'. 3. Count the names in each square. 4. Circle the square with the most names.",
-     "say": "Let us find out who lives where. Write each species in all the squares where she lives. Then count the names in each square.",
-     "kid": "Take each card. Write her name in every square where she lives. Count the names in each square. Circle the biggest count.",
+     "do": "1. Take each card in turn. 2. Make a tally mark in every square where she lives, as the card shows. 3. Count the marks in each square. 4. Circle the square with the most marks.",
+     "say": "Let us find out who lives where. Make a tally mark in every square where she lives. Then count the marks in each square.",
+     "kid": "Take each card. Make a tally mark in every square where she lives. Count the marks in each square. Circle the biggest count.",
      "parent": "Square D holds 7 species, and three of them (the orchid, the tree lizard and the tiny blue frog) live nowhere else. The other squares hold 2, 3, 3, 2, 3, 4, 2 and 3 species, in the order A, B, C, E, F, G, H, I.",
      "context": "This step of Two Safe Squares maps who lives where. You write each species into her squares and count how many species live in each square."
     },
@@ -801,7 +801,7 @@
      "mins": 3,
      "do": "1. Read this example aloud. A species has 150 adults, all in one forest, and the number is falling. 2. Ask which step she is on, and why. 3. Write down the guess and the reason. 4. Check it with the rules: 3 points for under 250, plus 1 for falling, plus 1 for one place is 5. The top step is 4 points, so she is Critically Endangered.",
      "say": "A species has 150 adults. All of them live in one forest, and the number is falling. Which step of the ladder is she on? Why do you think so?",
-     "kid": "A species has 150 adults. All live in one forest. The number is falling. Which step is she on? Why?",
+     "kid": "A species has 150 adults. All live in one forest. The number is falling. Which step is she on?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -825,9 +825,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Count your score. 2. Look at the hill frog and the mountain goat. The frog has more adults, but both are on the same step. 3. Ask why.",
-     "say": "The hill frog has more adults than the mountain goat. Yet both are on the same step. Why?",
-     "kid": "The hill frog has more adults than the goat. Both are on the same step. Why?",
+     "do": "1. Count your score. 2. Find the hill frog card and the mountain goat card. The frog has more adults, but both are on the same step. 3. Ask why.",
+     "say": "Find the hill frog card and the mountain goat card. Which has more adults? Which step is each on?",
+     "kid": "Find the two cards. Check the step of each.",
      "ask": [
       {
        "q": "The hill frog has 5,000 adults and the mountain goat has 1,800. Why is the frog on the same step?",
@@ -859,7 +859,7 @@
    "title": "The Shrinking Forest Test: how many kinds are left when a forest is cut to half?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment a sheet of newspaper is a forest. Ten kinds of small kitchen pieces are ten species, some common and some rare. You scatter them, then count how many kinds are left on half the sheet, a quarter, an eighth and a sixteenth.",
+   "context": "In this experiment you find out whether cutting a forest in half loses half of its kinds. A sheet of newspaper is the forest. Ten kinds of small kitchen pieces are ten species, some common and some rare. You scatter them, then count how many kinds are left on half the sheet, a quarter, an eighth and a sixteenth.",
    "question": "A forest has 10 species, some common and some rare. When the forest is cut to half its size, how many of the 10 species are still there? How many are there when only a sixteenth is left?",
    "predict": "Guess first. When only half the sheet is kept, how many of the 10 kinds will be on it: about 5, more than 5, or fewer than 5? Why do you think so? Write your guess and your reason.",
    "fair_test": "The parts to keep are marked before the pieces are scattered, so nobody can choose a lucky part. The same 89 pieces are used each time. Scatter and count 3 times, because one scatter can be a fluke.",
@@ -968,7 +968,7 @@
      "mins": 3,
      "do": "1. Explain that the right half of the forest will be cut down, and only the half marked KEEP will stay. 2. Ask how many of the 10 kinds will be found on the half. 3. Ask for the reason. 4. Write down the guess and the reason.",
      "say": "Half the forest will be cut. How many of the 10 kinds will still be found on the half that stays? About 5, more than 5, or fewer than 5? Why do you think so?",
-     "kid": "Half the forest will be cut. How many of the 10 kinds will be left? About 5, more or fewer? Why? Write your guess.",
+     "kid": "Half the forest will be cut. How many of the 10 kinds will be left? About 5, more or fewer? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1001,9 +1001,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. For each part of the sheet, add the 3 numbers and divide by 3. 2. Draw five bars: 10 for the whole sheet, then the four averages. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask which kinds went missing first, and why.",
+     "do": "1. For each part of the sheet, add the 3 numbers and divide by 3. 2. Make five bars: 10 for the whole sheet, then the four averages. Draw them, or build them from rows of rice grains. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask which kinds went missing first, and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why did it happen?",
-     "kid": "Find the average for each part. Draw five bars. Say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Find the average for each part. Make five bars, drawn or built from grains. Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
        "q": "Half the forest was cut. Why were more than half the kinds still there?",
@@ -1059,7 +1059,7 @@
    "title": "The Coin Years Test: can a small group die out by bad luck alone?",
    "mins": 34,
    "days": 1,
-   "context": "In this experiment each coin is one adult animal. A toss decides whether she raises young. One group lives on a small island with room for 4 adults, and the other in a large forest with room for 16. Nobody hunts either group.",
+   "context": "In this experiment you find out whether a small group of animals can die out by bad luck alone. Each coin is one adult animal. A toss decides whether she raises young. One group lives on a small island with room for 4 adults, and the other in a large forest with room for 16. Nobody hunts either group.",
    "question": "Two groups of animals follow the same rule. On average each adult leaves one young. One place has room for 4 adults and the other has room for 16. Does either group die out within 10 generations?",
    "predict": "Guess first. Nobody hunts these animals, and on average each adult leaves one young. Will the group of 4 still be alive after 10 generations? Will the group of 16? Why do you think so? Write your guess and your reason.",
    "fair_test": "Both groups use the same coins and the same rule. Only the room is different: 4 adults or 16. Run the small island 6 times and the large forest 2 times, because one run depends a lot on luck.",
@@ -1176,7 +1176,7 @@
      "mins": 4,
      "do": "1. Put 4 coins in the tumbler. Each coin is one adult animal on a small island. 2. Shake the tumbler and tip the coins onto the plate. 3. A coin showing heads raised 2 young. A coin showing tails raised none. 4. Count the heads and double the number. That is the number of adults in the next generation. 5. The island has food for only 4 adults. If the number is more than 4, write 4. 6. Put that many coins back in the tumbler for the next toss.",
      "say": "Each coin is one adult animal. Heads means she raised two young. Tails means she raised none. Then the old adults die, and the young become the new adults.",
-     "kid": "Each coin is one adult animal. Shake and tip the coins. Heads means two young. Tails means none. Count the heads and double them. Never write more than 4.",
+     "kid": "Each coin is one adult animal. Shake and tip the coins. Heads means two young. Tails means none. Count the heads and double them. The island fits only 4, so never write more than 4.",
      "parent": "Half the coins land heads on average. So on average 4 adults leave 4 young, and the number should stay the same. Say this aloud, because the guess in the next step depends on it.",
      "context": "This is the first step of the Coin Years Test. Here you learn the rule with 4 coins. A coin showing heads is an adult who raised two young, and a coin showing tails raised none."
     },
@@ -1185,7 +1185,7 @@
      "mins": 3,
      "do": "1. Explain the two places. The small island has room for 4 adults. The large forest has room for 16. 2. Ask whether each group will still be alive after 10 generations. 3. Ask for the reason. 4. Write down the guess and the reason.",
      "say": "Nobody hunts these animals. On average each adult leaves one young. Will the group of 4 still be alive after 10 generations? Will the group of 16? Why do you think so?",
-     "kid": "Nobody hunts these animals. Will the group of 4 last 10 generations? Will the group of 16? Why? Write your guess.",
+     "kid": "Nobody hunts these animals. Will the group of 4 last 10 generations? Will the group of 16? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1348,7 +1348,7 @@
      "mins": 3,
      "do": "1. Ask which will dry faster, the whole slice or the 16 squares, or whether they will dry the same. 2. Ask for the reason. 3. Write down the guess and the reason.",
      "say": "Both plates have the same amount of bread and the same fan. Which will dry faster? Or will they dry the same? Why do you think so?",
-     "kid": "Which will dry faster, the whole slice or the 16 squares? Or the same? Why? Write your guess.",
+     "kid": "Which will dry faster, the whole slice or the 16 squares? Or the same? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1414,7 +1414,7 @@
    "title": "Ten Minutes at the Window: how many kinds, and how many of each?",
    "mins": 17,
    "days": 1,
-   "context": "This short activity starts the unit. You watch one place for 10 minutes and count how many kinds of living beings you see, and how many of each kind.",
+   "context": "This short activity starts the unit. You will find out how much life is in one small place. You watch one place for 10 minutes and count how many kinds of living beings you see, and how many of each kind.",
    "materials": [
     {
      "item": "a pencil and a sheet of paper",
@@ -1474,7 +1474,7 @@
        ]
       },
       {
-       "q": "A scientist counting species in a forest has the same problem. What could she miss?",
+       "q": "A scientist counting species in a forest cannot see everything either. What could she miss?",
        "good": [
         "Shy or rare kinds who were not there in that hour.",
         "Kinds who come out only at night."
@@ -1490,7 +1490,7 @@
    "title": "Same Count, Different Forest: why counting kinds is not enough",
    "mins": 24,
    "days": 1,
-   "context": "In this activity two bowls are two forests. Both have 10 kinds of kitchen pieces, but one has an even mix and the other has one kind with almost all the pieces. You take a sample from each and count the kinds you find.",
+   "context": "In this activity you find out why counting kinds can fool you. Two bowls are two forests. Both have 10 kinds of kitchen pieces, but one has an even mix and the other has one kind with almost all the pieces. You take a sample from each and count the kinds you find.",
    "question": "Two forests both have 10 species. In one, every species has 4 members. In the other, one species has 31 and each of the other nine has 1. Which forest shows more species in a small sample?",
    "materials": [
     {
@@ -1536,7 +1536,7 @@
      "mins": 3,
      "do": "1. Ask which bowl will show more kinds in a sample of 8 pieces. 2. Ask for the reason. 3. Write down the guess and the reason.",
      "say": "Both forests have 10 species. You will take 8 pieces from each, with your eyes closed. Which forest will show more kinds? Why do you think so?",
-     "kid": "Both bowls have 10 kinds. You take 8 pieces from each. Which shows more kinds? Why?",
+     "kid": "Both bowls have 10 kinds. You take 8 pieces from each. Which shows more kinds?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1552,7 +1552,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Stir bowl A. With your eyes closed, take 8 pieces one at a time. 2. Lay them out and count the kinds. Write the number. 3. Put the pieces back and stir. 4. Do this 3 times for bowl A and 3 times for bowl B.",
+     "do": "1. Stir bowl A. With your eyes closed, take 8 pieces one at a time. 2. Lay them out and count the kinds. Write the number in a table (bowl, try, kinds). 3. Put the pieces back and stir. 4. Do this 3 times for bowl A and 3 times for bowl B.",
      "say": "Stir the bowl. Close your eyes. Take 8 pieces, one at a time. Now count how many kinds you got.",
      "kid": "Stir the bowl. Close your eyes. Take 8 pieces. Count the kinds. Do this 3 times for each bowl.",
      "parent": "Expect about 6 kinds from bowl A, between 5 and 7. Expect about 3 kinds from bowl B, between 2 and 4. If the two bowls give the same number, mix the bowls better and check that bowl B really holds 31 of one kind.",
@@ -1649,8 +1649,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Count how many species you marked in each place. 2. Find the place with the smallest area. 3. Ask what these places have in common. 4. Ask which species would suffer most if one fire or disease swept through its place.",
-     "say": "Which place has the most species on your list? Which place is the smallest? What do these places have in common?",
-     "kid": "Count the species at each dot. Find the smallest place. What do the places share?",
+     "say": "Which place has the most species on your list? Which place is the smallest?",
+     "kid": "Count the species at each dot. Find the smallest place.",
      "ask": [
       {
        "q": "What do an island, a lake, a hill range and one forest have in common?",
@@ -1732,7 +1732,7 @@
      "mins": 3,
      "do": "1. Ask how much smaller the frog's home will be when the cool zone moves up: a little, half, or a lot. 2. Ask for the reason. 3. Write down the guess and the reason.",
      "say": "The cool zone moves up by only 2 centimetres. How much smaller will the frog's home be: a little, about half, or a lot? Why do you think so?",
-     "kid": "The cool zone moves up 2 centimetres. How much smaller is her home? A little, half or a lot? Why?",
+     "kid": "The cool zone moves up 2 centimetres. How much smaller is her home? A little, half or a lot?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1756,9 +1756,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Now draw a lower hill, 20 centimetres wide and 7 centimetres high. 2. Draw the second line 8 centimetres up. It floats in the air above the hill. 3. Ask where the frog can live on this hill after the air warms. 4. Ask your child to say what they thought would happen, what they saw, and why it happened.",
+     "do": "1. Now make a lower hill. Cover the top of your hill with a sheet of paper, so only the part below 7 centimetres shows. 2. The second line is 8 centimetres up. It is now in the air above the lower hill. 3. Ask where the frog can live on this hill after the air warms. 4. Ask your child to say what they thought would happen, what they saw, and why it happened.",
      "say": "On this lower hill, the cool zone has moved above the top of the hill. Where can the frog live now? Tell me what you thought would happen, what you saw, and why it happened.",
-     "kid": "Draw a lower hill, 7 centimetres high. Where is the second line? Where can the frog live now?",
+     "kid": "Cover the top of your hill so only 7 centimetres show. Is the second line on the hill? Where can the frog live now?",
      "ask": [
       {
        "q": "The cool zone moved up by one fifth of the hill's height, but the frog's home became one quarter as big. Why?",
@@ -1818,9 +1818,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw five columns on the paper. 2. Write these headings: Habitat loss, Taking too many, Brought-in species, Pollution, and Warming. 3. Read the meaning of each aloud. Habitat loss means a place is cleared or cut up. Taking too many means too many are hunted, fished or collected. A brought-in species is carried by people to a new place. Pollution is poison or dirt in the air, water or soil. Warming is a changing climate.",
+     "do": "1. Draw five columns on the paper, or put out five bowls or sheets. 2. Write these headings: Habitat loss, Taking too many, Brought-in species, Pollution, and Warming. 3. Read the meaning of each aloud. Habitat loss means a place is cleared or cut up. Taking too many means too many are hunted, fished or collected. A brought-in species is carried by people to a new place. Pollution is poison or dirt in the air, water or soil. Warming is a changing climate.",
      "say": "Species are in danger today for five main reasons. We will sort ten real cases into them.",
-     "kid": "Draw five columns. Write the five headings. Read what each one means.",
+     "kid": "Draw five columns, or set out five bowls. Write the five headings. Read what each one means.",
      "context": "This is the first step of Five Causes. Here you set up five columns for the five main causes of species loss."
     },
     {
@@ -1865,7 +1865,7 @@
    "title": "The Village Meeting: should people live inside a protected forest?",
    "mins": 20,
    "days": 1,
-   "context": "This is a role-play about a real argument. A forest has been made a protected area, and a village lives inside it. Three speakers each give their view, and then you decide what you think.",
+   "context": "This is a role-play about a real argument. You will find out why sensible people disagree about it. A forest has been made a protected area, and a village lives inside it. Three speakers each give their view, and then you decide what you think.",
    "materials": [
     {
      "item": "three role cards written on paper",
@@ -1915,7 +1915,7 @@
      "mins": 7,
      "do": "1. Everyone steps out of their role. 2. Each person writes what they think: which plan they would choose for one forest, and why. 3. They write one piece of evidence they would want before deciding. 4. They say what they thought would happen in the meeting, what they saw, and why it happened.",
      "say": "Step out of your role. Which plan would you choose for one forest? What evidence would you want first? Tell me what you thought would happen, what you saw, and why it happened.",
-     "kid": "Step out of your role. Write which plan you would choose. Write what evidence you want first.",
+     "kid": "Step out of your role. Say or write which plan you would choose. Say or write what evidence you want first.",
      "ask": [
       {
        "q": "What would you want to know about this one forest before you decide?",
@@ -2013,9 +2013,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Draw her range on the map. 2. Mark any protected area inside it. 3. Write three actions for the plan. For example: make her protected area larger, join two areas with a corridor, start a second group in another place, or reduce one threat. 4. For each action write who must agree. Think of villagers, farmers, officials and visitors.",
-     "say": "Draw where she lives. Now choose three actions that would help her most. Who would need to agree to each one?",
-     "kid": "Draw her range. Choose three actions. Write who must agree to each action.",
+     "do": "1. Mark her range on the map with a colour pencil, or list the places where she lives. 2. Mark any protected area inside it. 3. Write three actions for the plan. For example: make her protected area larger, join two areas with a corridor, start a second group in another place, or reduce one threat. 4. For each action write who must agree. Think of villagers, farmers, officials and visitors.",
+     "say": "Show where she lives on the map. Now choose three actions that would help her most. Who would need to agree to each one?",
+     "kid": "Mark her range on the map, or list the places. Choose three actions. Write who must agree to each action.",
      "wait": "Do the next step tomorrow",
      "ask": [
       {
@@ -2092,18 +2092,18 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Draw a grid of 7 columns and 6 rows, with squares 2 centimetres wide. 2. Fill the squares from the rows below. A is Forest A and B is Forest B. The letter f is a field and S is scrub. R is a road, W is a river and V is a village. 3. Row 1: A f f f S S B. 4. Row 2: A f V V S W B. 5. Row 3: A S S V S W B. 6. Row 4: A S R R R R B. 7. Row 5: A f S S S S B. 8. Row 6: A f f V S S B.",
-     "say": "Here is a map of two forests with fields, scrub, a road, a river and a village between them. Draw it, and look at the costs.",
-     "kid": "Draw a grid with 7 columns and 6 rows. Copy the rows in the list. A is the left forest. B is the right forest.",
+     "do": "1. Draw a grid of 7 columns and 6 rows, with squares 2 centimetres wide. 2. Fill the squares from the rows below. A is Forest A and B is Forest B. The letter f is a field and S is scrub. R is a road, W is a river and V is a village. 3. Row 1: A f f f S S B. 4. Row 2: A f V V S W B. 5. Row 3: A S S V S W B. 6. Row 4: A S R R R R B. 7. Row 5: A f S S S S B. 8. Row 6: A f f V S S B. 9. Costs: a field costs 3, scrub 1, a road 2 and a river 2. A village cannot be used.",
+     "say": "Here is a map of two forests with fields, scrub, a road, a river and a village between them. Draw it. Each square costs points to turn into trees: field 3, scrub 1, road 2, river 2. A village cannot be used.",
+     "kid": "Draw a grid with 7 columns and 6 rows. Copy the rows from your grown-up. A is the left forest. B is the right forest. Costs: field 3, scrub 1, road 2, river 2. No village.",
      "parent": "Costs. A field is 3, scrub is 1, a road is 2 for an underpass, a river is 2 for a bridge. A village cannot be crossed. Forest squares are free.",
      "context": "This is the first step of A Way Through. Here you copy a map with two forests and the land between them."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Colour a strip of squares from any square of Forest A to any square of Forest B. 2. Move up, down, left or right. 3. Write the cost of each square under it. 4. Add up the total. 5. Is it 8 or less? 6. Try to find a cheaper strip.",
+     "do": "1. Colour a strip of squares, or lay a string along them. It runs from Forest A to Forest B. 2. Move up, down, left or right. 3. Write the cost of each square under it. 4. Add up the total. 5. Is it 8 or less? 6. Try to find a cheaper strip.",
      "say": "Colour a strip from one forest to the other. Add up its cost. Can you find one that costs less?",
-     "kid": "Colour a strip from forest A to forest B. Add up the cost. Look for a cheaper strip.",
+     "kid": "Colour a strip, or lay a string, from forest A to forest B. Add up the cost. Look for a cheaper strip.",
      "parent": "The cheapest strip costs 7. There are two routes that cost 7. One goes through row 4 and crosses one road square, then follows the scrub squares of row 5. The other goes along row 5, with one field square at the start, and then four scrub squares.",
      "context": "This step of A Way Through finds a strip that joins the forests and costs 8 points or less."
     },
@@ -2131,7 +2131,7 @@
    "id": "c2",
    "title": "Keep the Last Four Alive: choose a plan with coins",
    "mins": 38,
-   "context": "This is a design challenge. In the Coin Years Test, a group of 4 coins died out in most runs. Here the last 4 birds of a species live on one small island, and you have 6 points to spend on a plan to keep them alive.",
+   "context": "This is a design challenge. In the Coin Years Test, a group of 4 coins often died out. Here the last 4 birds of a species live on one small island, and you have 6 points to spend on a plan to keep them alive.",
    "problem": "Choose a plan that costs 6 points or less. Test it with coins and find out how often the birds die out within 10 generations. Compare it with the other plans.",
    "constraints": [
     "Plan A costs 0. Nothing changes. The birds stay on one island with room for 4.",
@@ -2184,7 +2184,7 @@
      "mins": 3,
      "do": "1. Ask which plan will keep the birds alive the most often, and why. 2. Write down the guess and the reason. 3. Tell your child that you will test Plan B and Plan D, because you already know what Plan A does.",
      "say": "Which plan do you think will keep the birds alive the most often? Why do you think so?",
-     "kid": "Which plan will keep the birds alive most often? Why? Write your guess.",
+     "kid": "Which plan will keep the birds alive most often? Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",

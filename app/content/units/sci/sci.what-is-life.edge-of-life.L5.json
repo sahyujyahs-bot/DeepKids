@@ -767,8 +767,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Cut out the 20 cards and the tokens. 2. Read NASA's definition aloud: life is a self-sustaining chemical system capable of Darwinian evolution. 3. Go through the three tokens with a curd bacterium as the example.",
-     "say": "NASA's definition has three parts. C is for chemical system. S is for self-sustaining. E is for able to evolve. A curd bacterium passes all three. Can you say why?",
-     "kid": "Cut out the cards and tokens. C means chemical. S means keeps itself going. E means its kind can evolve. A curd bacterium passes all three.",
+     "say": "NASA's definition has three parts. C is for chemical system. S is for self-sustaining. E is for able to evolve. A curd bacterium passes all three.",
+     "kid": "Cut out the cards and tokens. C means chemical. S means keeps itself going. E means its kind can evolve.",
      "ask": [
       {
        "q": "Why does a curd bacterium pass all three?",
@@ -786,7 +786,7 @@
      "mins": 15,
      "do": "1. Read the top card aloud. 2. Everyone secretly chooses tokens. 3. Count to three and show. 4. Turn the card and read the back. 5. Give the points, and talk about any 'argue' card.",
      "say": "For each card, ask three questions. Is it made of chemicals acting on each other? Does it keep itself going? Can its kind change over generations?",
-     "kid": "Read the card. Is it chemical? Does it keep itself going? Can its kind evolve? Choose your tokens. Show them on three.",
+     "kid": "Read the card. Choose your tokens in secret. Show them on three.",
      "parent": "The backs give the usual answer, and several cards have no settled answer. Reward a good reason. The cards that pass exactly two parts are the most interesting ones.",
      "context": "This is step 2 of 3 of Three Tokens. Here you play through the 20 cards."
     },
@@ -794,7 +794,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Count the points. 2. Sort the cards into four heaps by how many parts they pass: none, one, two or three. 3. Ask which heap the virus is in, and what else is there.",
-     "say": "Look at the heap that passes two parts. Which part does each one fail? Is it the same part for the flame and for the virus?",
+     "say": "Look at the heap that passes two parts. Which part does each one fail?",
      "kid": "Count your points. Sort the cards by how many parts they pass. Which heap is the virus in? What else is there?",
      "check": {
       "t": "mcq",
@@ -943,7 +943,7 @@
    "title": "The Copying Chain: what happens when copies are copied?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you copy a pencil line by eye, again and again. In one chain, each new line is a copy of the last copy. In part 2 you make three copies each time and keep the longest. You measure how the line changes over the generations.",
+   "context": "In this experiment you copy a pencil line by eye, again and again. In one chain, each new line is a copy of the last copy. In part 2 you make three copies each time and keep the longest. You will find out whether copying mistakes pile up, and how keeping the longest copy can make a line grow.",
    "question": "If a line is copied from copy to copy for ten generations, how far does it change? And what happens if, in every generation, only the longest of three copies is copied again?",
    "predict": "Guess first. After ten copies of copies, will the last line be the same length as the first, a little different or very different? Will the copies made straight from the original end up closer to it, or further away? In part 2, where you keep the longest of three each time, how long will the line be after eight generations? Write your three guesses and the reason for each.",
    "fair_test": "The same person draws every line, with the same pencil, on slips of the same size. Look at the parent line for a slow count of three, turn it face down, and only then draw. Never lay two slips side by side while drawing. In part 1, change only what is copied: the last copy in chain A, and the original in set B. Do not measure any line until all the drawing is finished, so that the numbers cannot guide your hand.",
@@ -1125,7 +1125,7 @@
      "mins": 6,
      "do": "1. Your child draws a line graph of chain A and of part 2. 2. Ask for the three sentences. 3. Ask who did the copying and who did the choosing. 4. Only then read the explanation cards together.",
      "say": "Say what you thought would happen, what you saw, and why. Then tell me this. Did the line copy itself? Who copied it, and who chose the longest?",
-     "kid": "Draw the graph. Say what you thought would happen. Say what you saw. Say why. Did the line copy itself? Who chose the longest?",
+     "kid": "Draw the graph, or lay the strips side by side in order. Say what you thought would happen, what you saw, and why.",
      "ask": [
       {
        "q": "Why did chain A wander further than set B?",
@@ -1319,7 +1319,7 @@
      "mins": 6,
      "do": "1. Ask for the three sentences. 2. Ask what pattern your child sees in the table. 3. Ask what a living cell on a world with oily lakes could not use. 4. Only then read the explanation together.",
      "say": "What did you think would happen, and what did you see? Which things did water dissolve, and which did oil dissolve? Do you see a pattern?",
-     "kid": "Say what you thought would happen. Say what you saw. Which things did water dissolve? Which did oil dissolve? What is the pattern?",
+     "kid": "Say what you thought would happen. Say what you saw. Which things did water dissolve? Which did oil dissolve?",
      "ask": [
       {
        "q": "What pattern do you see?",
@@ -1370,7 +1370,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with three columns: 'live, weakened virus', 'inactivated virus' and 'one part of a virus'. Write each of your vaccines against viruses in the right column.",
+   "record": "Make a table with three columns: 'live, weakened virus', 'inactivated virus' and 'one part of a virus'. Write each of your vaccines against viruses in the right column.",
    "setup": [
     {
      "art": "A child and a mother looking at an open Indian vaccination booklet on a table, with rows of vaccine names and dates.",
@@ -1391,7 +1391,7 @@
      "mins": 5,
      "do": "1. Find the vaccination card. 2. Read the names aloud together. 3. Use this list to sort them. Polio drops, measles and rubella, and rotavirus drops hold live, weakened viruses. The polio injection, the rabies injection and Covaxin hold inactivated viruses. The hepatitis B vaccine holds one protein of the virus. 4. Leave out BCG, DPT and tetanus, which are against bacteria.",
      "say": "A vaccine shows your body a virus safely, so your body learns to recognise them. Let's see which kind each of your vaccines is.",
-     "kid": "Find your vaccination card. Read the names. Sort the virus vaccines into three columns. Use the list to help you.",
+     "kid": "Find your vaccination card. Read the names. Sort the virus vaccines into three groups: live weakened virus, inactivated virus, one part of a virus. Use the list to help you.",
      "parent": "On the card, polio drops are OPV, the polio injection is IPV or fIPV, and measles and rubella is MR or MMR. 'Weakened' means the virus has been changed so that they are copied only a little and cause no illness in a healthy child.",
      "context": "This is the first step of Live, Killed or Inactivated?. Here you read the vaccine names and sort them into three columns."
     },
@@ -1400,7 +1400,7 @@
      "mins": 5,
      "do": "1. Point to the words 'live' and 'killed' or 'inactivated'. 2. Ask your child what they think 'inactivated' means. 3. Ask whether a virus can be killed, and why. 4. Listen to the whole answer before saying anything.",
      "say": "Doctors call some vaccines 'live' and others 'killed' or 'inactivated'. What do you think 'inactivated' means? Can a virus be killed? Why do you think so?",
-     "kid": "Look at the words 'live' and 'inactivated'. What might 'inactivated' mean? Can a virus be killed? Say why you think so.",
+     "kid": "Look at the words 'live' and 'inactivated'. What might 'inactivated' mean?",
      "ask": [
       {
        "q": "Can a virus be killed? Why do you think so?",
@@ -1440,7 +1440,7 @@
    "title": "Walk the Scale: how small is a virus?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you build a paper model in which everything is 10,000 times bigger than in real life. A virus becomes a dot, a bacterium becomes a paper strip, and you become taller than a mountain.",
+   "context": "In this activity you build a paper model in which everything is 10,000 times bigger than in real life. A virus becomes a dot, a bacterium becomes a paper strip, and you become taller than a mountain. You will find out how many flu viruses fit across one of your own cells.",
    "materials": [
     {
      "item": "a sheet of newspaper and a sheet of plain paper",
@@ -1475,7 +1475,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put one grain of salt on a dark plate. 2. Ask how many flu viruses, side by side, would cross it. 3. Write the guess down. 4. Explain the scale: in the model, 1 millimetre stands for 100 nanometres.",
+     "do": "1. Put one grain of salt on a dark plate. 2. Ask how many flu viruses, side by side, would cross it. 3. Write the guess down. 4. Explain the scale: everything in the model is 10,000 times bigger. A flu virus is about 100 nanometres across, and a nanometre is a millionth of a millimetre. So the flu virus becomes a dot 1 millimetre across.",
      "say": "Here is one grain of salt. How many flu viruses in a row would it take to cross it? Make a guess, and say why.",
      "kid": "Look at one grain of salt. How many flu viruses would cross it? Guess, and say why. Write your guess down.",
      "parent": "The answer is about 3,000. Most guesses are far smaller. In the model, everything is 10,000 times its real size.",
@@ -1498,7 +1498,7 @@
      "kid": "Lay the virus on the big cell. Measure 3 metres for the grain of salt. Work out your own height in the model. Name a place that far away.",
      "ask": [
       {
-       "q": "A light microscope shows the bacterium but not the flu virus. Looking at your model, why might that be?",
+       "q": "A school microscope shows a bacterium but not a flu virus. Look at your model. Why might that be?",
        "good": [
         "The virus is twenty times smaller than the bacterium.",
         "The virus is too small for light to show."
@@ -1525,7 +1525,7 @@
    "title": "Pori Rafts: can parts put themselves together?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you scatter puffed rice on a bowl of water and watch the grains pull together into rafts with no help. It is a model of how the coat proteins of a virus join up by themselves inside a cell.",
+   "context": "In this activity you scatter puffed rice on a bowl of water and watch the grains pull together into rafts with no help. It is a model of how the parts of a virus's coat, called coat proteins, join up by themselves inside a cell.",
    "materials": [
     {
      "item": "a wide bowl or a steel plate with a rim, filled with water",
@@ -1540,7 +1540,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the bowl three times: just after scattering, after 1 minute and after 3 minutes. Count the separate rafts and single grains each time.",
+   "record": "Count the separate rafts and single grains just after scattering, after 1 minute and after 3 minutes. Write the three numbers. You can also take a photo of the bowl each time.",
    "setup": [
     {
      "art": "A wide steel bowl of still water with about thirty grains of puffed rice scattered singly across the surface.",
@@ -1568,9 +1568,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Watch without touching the bowl or the table. 2. Count the separate rafts and single grains after 1 minute. 3. Count again after 3 minutes. 4. Your child draws what they see.",
+     "do": "1. Watch without touching the bowl or the table. 2. Count the separate rafts and single grains after 1 minute. 3. Count again after 3 minutes. 4. Your child tells you what they see.",
      "say": "Watch two grains that are close together. What happens when they get near each other? How many separate pieces are there now?",
-     "kid": "Watch without touching. Count the pieces after 1 minute. Count again after 3 minutes. Draw what you see.",
+     "kid": "Watch without touching. Count the pieces after 1 minute. Count again after 3 minutes. Tell your grown-up what you see.",
      "ask": [
       {
        "q": "Nobody pushed the grains. So what brought them together?",
@@ -1634,7 +1634,7 @@
     }
    ],
    "safety": "Do not drink from the bottles. Wipe up any spilt oil or soap, because it makes the floor slippery.",
-   "record": "Draw both bottles just after shaking and again 2 minutes later. Label the oil, the water and the cloudy part.",
+   "record": "Draw both bottles just after shaking and again 2 minutes later, or take a photo each time. Label the oil, the water and the cloudy part.",
    "setup": [
     {
      "art": "Two small clear bottles half full of water, each with a thin golden layer of oil floating on top, labelled A and B.",
@@ -1661,9 +1661,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Close both lids tightly. 2. Shake each bottle 20 times. 3. Stand them side by side. 4. Look at once, after 1 minute and after 2 minutes. 5. Your child draws both bottles.",
+     "do": "1. Close both lids tightly. 2. Shake each bottle 20 times. 3. Stand them side by side. 4. Look at once, after 1 minute and after 2 minutes. 5. Your child points to where the oil is in each bottle and tells you what they see.",
      "say": "Watch the oil in bottle A. Where is it going? Now look at bottle B. Can you find the oil at all?",
-     "kid": "Close the lids. Shake each bottle 20 times. Stand them down. Look now, after 1 minute and after 2 minutes. Draw both.",
+     "kid": "Close the lids. Shake each bottle 20 times. Stand them down. Look now, after 1 minute and after 2 minutes. Point to the oil in each bottle and say what you see.",
      "parent": "In bottle A the oil gathers into drops and floats back to the top within a minute or two. Bottle B stays milky, because the soap has broken the oil into drops too small to see and keeps them apart.",
      "context": "This is step 2 of 3 of Soap and the Fatty Coat. Here you shake both bottles and watch what happens to the oil."
     },
@@ -1706,7 +1706,7 @@
    "context": "In this activity you invent a living being for a world that is not like Earth. You decide what liquid they live in, where their energy comes from and how their instructions are copied. Then you test your being against NASA's definition of life.",
    "materials": [
     {
-     "item": "plain paper and colour pencils",
+     "item": "plain paper and colour pencils, or clay or kitchen things to build with",
      "qty": 1
     },
     {
@@ -1714,7 +1714,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw your being and label four things: the liquid, the energy supply, the boundary and the instructions. Under the drawing, write NASA's three parts and tick the ones your being passes.",
+   "record": "Draw or build your being and label four things: the liquid, the energy supply, the boundary and the instructions. Next to the being, write NASA's three parts and tick the ones your being passes.",
    "setup": [
     {
      "art": "A notebook page with three world cards drawn on it: an orange moon with dark lakes, a white icy moon with a hidden ocean, and a hot cloudy planet.",
@@ -1751,18 +1751,18 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Your child draws their being. 2. They label the liquid the being lives in. 3. They label where the energy comes from. 4. They label the boundary that keeps the inside in. 5. They label how the instructions are stored and copied.",
-     "say": "Draw your being. Then show me four things. What liquid are they in? Where does their energy come from? What keeps their inside in? How are their instructions copied?",
-     "kid": "Draw your being. Label the liquid. Label the energy supply. Label the boundary. Label how the instructions are copied.",
+     "do": "1. Your child draws or builds their being. 2. They label the liquid the being lives in. 3. They label where the energy comes from. 4. They label the boundary that keeps the inside in. 5. They label how the instructions are stored and copied.",
+     "say": "Show me your being, drawn or built. Then show me four things. What liquid are they in? Where does their energy come from? What keeps their inside in? How are their instructions copied?",
+     "kid": "Draw your being, or build it from clay or things from the kitchen. Label the liquid. Label the energy supply. Label the boundary. Label how the instructions are copied.",
      "parent": "There are no wrong beings, but ask for a reason for each label. If your child did Two Liquids, ask what the being's membrane must not dissolve in.",
      "context": "This is step 2 of 3 of A Being for Another World. Here you draw your being and label four things about them."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Write NASA's three parts under the drawing: chemical system, self-sustaining, can evolve. 2. Your child ticks each part the being passes and says why. 3. Ask how a space probe could tell that this being is alive.",
-     "say": "Is your being a chemical system? Do they keep themselves going? Can their kind evolve? How would a probe that has never seen them know they are alive?",
-     "kid": "Write NASA's three parts under your drawing. Tick the ones your being passes. How would a space probe know your being is alive?",
+     "do": "1. Write NASA's three parts next to the being: chemical system, self-sustaining, can evolve. 2. Your child ticks each part the being passes and says why. 3. Ask how a space probe could tell that this being is alive.",
+     "say": "NASA says life is a chemical system that keeps itself going and can evolve, which means their kind can change over generations. Is your being a chemical system? Do they keep themselves going? Can their kind evolve? How would a probe that has never seen them know they are alive?",
+     "kid": "Write NASA's three parts next to your being. Tick the ones your being passes. How would a space probe know your being is alive?",
      "think": "Which part of your being is the same as life on Earth? Could you change that part too?",
      "check": {
       "t": "mcq",
@@ -1823,7 +1823,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Toss a coin for sides. 2. Each side speaks for 1 minute, then answers the other for half a minute. 3. Swap sides and slips. 4. Repeat, with each person now arguing the opposite.",
-     "say": "You must use at least two evidence cards. Then we swap, and you must argue the other side just as well.",
+     "say": "We toss a coin. One of us argues that a virus is alive. The other argues that a virus is not alive. Use at least two evidence cards. Then we swap sides and argue the opposite just as well.",
      "kid": "Toss a coin for sides. Speak for 1 minute. Use two evidence cards. Then swap sides. Argue the opposite just as well.",
      "parent": "Playing alone, your child argues one side aloud to you, then the other. The swap matters most. It is easy to argue for what you already think.",
      "context": "This is step 2 of 3 of Switch Sides. Here you debate for three minutes, then swap sides and debate again."
@@ -1832,8 +1832,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Ask which facts the two sides disagreed about. 2. Ask what they did disagree about. 3. Your child writes the strongest point for each side.",
-     "say": "Did the two sides disagree about any fact? If not, what were they disagreeing about?",
-     "kid": "Did the two sides disagree about any fact? What did they disagree about? Write the best point for each side.",
+     "say": "Did the two sides disagree about any fact?",
+     "kid": "Think about the facts each side used. Then write the best point for each side.",
      "ask": [
       {
        "q": "If both sides agree on every fact, what is the argument about?",
@@ -1897,7 +1897,7 @@
      "what": "Tally the answers, sort the reasons, draw a bar chart and write a short report."
     }
    ],
-   "record": "Keep a table with one row for each person: their name, their answer (alive, not alive or not sure), and their reason in their own words. On day 3, add a bar chart and a report of five sentences.",
+   "record": "Keep a table with one row for each person: their name, their answer (alive, not alive or not sure), and their reason in their own words. On day 3, add a bar chart (or a photo of your coin piles) and a report of five sentences.",
    "setup": [
     {
      "art": "A notebook page with three survey questions written neatly and a blank table with ten rows below.",
@@ -1935,9 +1935,9 @@
     {
      "id": "s3",
      "mins": 25,
-     "do": "1. Your child tallies the three answers and draws a bar chart. 2. They sort the reasons into 'what it does', 'what it is made of', 'it evolves or has genes', and 'other'. 3. They count how many people answered differently for the virus and the seed. 4. They write five sentences about what they found.",
+     "do": "1. Your child tallies the three answers and draws a bar chart, or makes a pile of coins for each answer. 2. They sort the reasons into 'what it does', 'what it is made of', 'it evolves or has genes', and 'other'. 3. They count how many people answered differently for the virus and the seed. 4. They write five sentences about what they found.",
      "say": "Which kind of reason did people give most? Did anyone say a virus is not alive because they do nothing, and then say a dry seed is alive?",
-     "kid": "Tally the answers. Draw a bar chart. Sort the reasons into kinds. Who answered differently for the seed? Write five sentences.",
+     "kid": "Tally the answers. Draw a bar chart, or stack coins in a pile for each answer. Sort the reasons into kinds. Who answered differently for the seed? Write five sentences.",
      "ask": [
       {
        "q": "What does it tell you if someone uses one test for the virus and another for the seed?",
@@ -1991,7 +1991,7 @@
     "Make a cap that fits only the notch pattern on the virus key, so that the friendly key is left alone.",
     "Make a clip that holds two virus keys together, so that neither can turn into the lock."
    ],
-   "your_turn": "Now design your own blocker. Draw it, build it and test it five times. Then ask someone to snip a small piece off the tip of the virus key, so that the key still fits the lock. Does your blocker still fit the key? What would you have to do next?",
+   "your_turn": "Now design your own blocker. Draw it or just build it, and test it five times. Then ask someone to snip a small piece off the tip of the virus key, so that the key still fits the lock. Does your blocker still fit the key? What would you have to do next?",
    "setup": [
     {
      "art": "A square of cardboard with a stepped notch cut into one edge, labelled 'cell receptor', and a cardboard strip whose stepped end fits the notch exactly, labelled 'virus key'.",
@@ -2020,9 +2020,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Read the rules: the lock stays whole and uncovered, and the friendly key must still fit. 2. Your child picks a usual idea, such as a paper cap for the key. 3. They say why it should work. 4. They build it and test it five times with both keys.",
+     "do": "1. Read the rules: the lock stays whole and uncovered, and the friendly key must still fit. 2. Your child picks an ordinary idea, such as a paper cap for the key. 3. They say why it should work. 4. They build it and test it five times with both keys.",
      "say": "Which idea will you try first? Why should it work? Remember to test the friendly key as well.",
-     "kid": "Read the rules. Pick one idea. Say why it should work. Build it. Test both keys five times.",
+     "kid": "Rules: the lock stays whole and uncovered, and the friendly key must still fit. Pick one idea. Say why it should work. Build it. Test both keys five times.",
      "ask": [
       {
        "q": "Why is it better to block the key than to cover the lock?",
@@ -2060,7 +2060,7 @@
    "id": "c2",
    "title": "The Mistake-Proof Message: design a way to copy without errors",
    "mins": 35,
-   "context": "This is a design challenge about copying. In the Copying Chain, copies of copies drifted. Here you copy a message of 24 letters through six copyists, and design a checking system that keeps it free of mistakes. Your cells have such a system. Most RNA viruses do not.",
+   "context": "This is a design challenge about copying. In the Copying Chain, copies of copies drifted. Here you copy a message of 24 letters through six copyists, and design a checking system that keeps it free of mistakes. Your cells have such a system. Most RNA viruses, whose instructions are written in the letters A, U, G and C, do not. You will find out how many mistakes slip in, and whether checking is worth the time.",
    "problem": "A message of 24 letters, made only of A, U, G and C, must be copied six times in a chain, each copy made from the last copy. Each copyist may look at the parent for only 5 seconds at a time. Design a system so that copy 6 matches the original exactly.",
    "constraints": [
     "Only the first copy may be made from the original. After that, each copy is made from the last copy.",
@@ -2129,7 +2129,7 @@
      "mins": 15,
      "do": "1. Your child designs their own system and writes its rules. 2. They run six copies and count the wrong letters. 3. Compare all three runs: mistakes and time. 4. Read the note together and ask whether a virus would want a perfect system.",
      "say": "Your cells check their DNA copies and fix nearly every mistake. Most RNA viruses do no checking. Is that only a weakness? What could a virus gain from mistakes?",
-     "kid": "Design your own system. Write its rules. Run six copies. Count the wrong letters. Could mistakes ever help a virus?",
+     "kid": "Design your own system. Write its rules. Run six copies. Count the wrong letters.",
      "parent": "Your cells proofread and repair their DNA, so only about one letter in a thousand million ends up wrong. Checking costs time and energy. Most RNA viruses skip it and get about one letter wrong in ten thousand to a hundred thousand. Most of those copies fail. But a few have a change that hides them from the body's defences, and that is how such viruses keep ahead.",
      "check": {
       "t": "mcq",

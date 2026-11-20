@@ -523,7 +523,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about which juice cuts which food, and where. Each card names something in a food. You say where it is first cut and what cuts it. Some cards are never cut by your own enzymes.",
+   "context": "This is a card game about which juice cuts which food, and where. You will find out which foods your own body cannot cut. Each card names something in a food. You say where it is first cut and what cuts it. Some cards are never cut by your own enzymes.",
    "printables": [
     {
      "kind": "cards",
@@ -676,9 +676,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Count the points. 2. Lay the cards out in five groups by space. 3. Ask which group is biggest and which enzyme works alone.",
+     "do": "1. Count the points. 2. Lay the cards out in five groups by space. 3. Ask which foods your own enzymes never cut.",
      "say": "Count your points. Now look at the five groups. Which foods did your own enzymes never cut?",
-     "kid": "Count your points. Sort the cards into five groups. Which foods did your enzymes never cut?",
+     "kid": "Count your points. Sort the cards into five groups.",
      "check": {
       "t": "mcq",
       "q": "In Right Juice, Right Place, the four fibre cards go on the large intestine space. Why?",
@@ -797,9 +797,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the 12 cards. 2. Shuffle them and put them in a pile, clue side up. 3. Draw a score sheet.",
+     "do": "1. Cut out the 12 cards. 2. Shuffle them and put them in a pile, clue side up. 3. Make a score sheet with a column for each player, or use counters for points.",
      "say": "Each card gives three clues about an animal's teeth and gut. From the clues, you work out what the animal eats.",
-     "kid": "Cut out the cards. Mix them. Put them clue side up. Draw a score sheet.",
+     "kid": "Cut out the cards. Mix them. Put them clue side up. Make a score sheet, or use counters for points.",
      "context": "This is the first step of Whose Teeth, Whose Gut? You set up the animal clue cards."
     },
     {
@@ -826,7 +826,7 @@
      "mins": 3,
      "do": "1. Count the points. 2. Sort the cards into plant-eaters, meat-eaters and those who eat both. 3. Ask what the plant-eaters share.",
      "say": "Sort the cards by food. What do all the plant-eaters have that the meat-eaters do not?",
-     "kid": "Count your points. Sort the cards by food. What do all the plant-eaters share?",
+     "kid": "Count your points. Sort the cards by food.",
      "check": {
       "t": "mcq",
       "q": "In Whose Teeth, Whose Gut?, why do the plant-eaters have big pouches, large intestines or extra chambers?",
@@ -955,7 +955,7 @@
      "mins": 8,
      "adult": true,
      "do": "1. Stir 2 level tablespoons of cornflour into 1 tumbler of cold water. 2. Heat it, stirring all the time, until it is thick and shiny. 3. Spread it on a steel plate to cool.",
-     "say": "I am cooking a paste that is almost pure starch. It must cool before we use it. Why might hot paste spoil our test?",
+     "say": "I am cooking a paste that is almost pure starch. It must cool first, because hot paste would spoil the saliva.",
      "kid": "Ask a grown-up to cook the starch paste. Spread it on a plate. Let it cool.",
      "parent": "A spoonful of the paste should hold its shape, like thick custard. If it is runny, cook it for two more minutes. It is ready to use when it no longer feels warm on your wrist, after about 15 minutes. Go on to the next two steps while it cools.",
      "context": "This is the first step of the Run Test. A grown-up cooks a thick starch paste and leaves it to cool."
@@ -964,8 +964,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Explain the four cups. 2. Ask for a guess and a reason for each cup. 3. Write the guesses in the results table.",
-     "say": "Cup A gets water. Cup B gets saliva. Cup C gets saliva that has been heated. Cup D gets saliva and lemon juice. Which will turn runny? Why do you think so?",
-     "kid": "Four cups get four different things. Which pastes will turn runny? Why? Write your guess for each cup.",
+     "say": "Cup A gets water. Cup B gets saliva. Cup C gets saliva that has been heated. Cup D gets saliva and lemon juice. Which will turn runny?",
+     "kid": "Guess which cups will turn runny. Write your guess for each cup.",
      "ask": [
       {
        "q": "Why do you think heated saliva will work, or will not work?",
@@ -984,7 +984,7 @@
      "mins": 7,
      "adult": true,
      "do": "1. Your child rinses their mouth and spits saliva into a katori until there is about 1 teaspoon. 2. Stir in 1 teaspoon of water. 3. Put half a teaspoon of this saliva mix into a second katori. 4. Stand that katori in just-boiled water for 5 minutes, covered.",
-     "say": "Rinse your mouth first. Now collect about a teaspoon of saliva. Looking at the cut lemon will help. I will heat a small part of it.",
+     "say": "Rinse your mouth first. Now collect about a teaspoon of saliva. I will heat a small part of it.",
      "kid": "Rinse your mouth. Spit into a katori until you have a teaspoon. A grown-up heats a little of it.",
      "parent": "Collecting a teaspoon takes two or three minutes. The hot water must be just off the boil, so that the saliva in the katori gets very hot. Let the heated saliva cool for 3 minutes before you use it.",
      "context": "In this step of the Run Test, you collect saliva, mix it with water, and heat one small part of it."
@@ -1031,7 +1031,7 @@
      "id": "s7",
      "mins": 5,
      "do": "1. Look at the table together. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Only then, read the explanation card on enzymes.",
-     "say": "Say what you thought would happen, what you saw, and why you think it happened. What does this tell you about saliva in the stomach?",
+     "say": "Say what you thought would happen, what you saw, and why you think it happened.",
      "kid": "Say what you thought would happen. Say what you saw. Say why you think it happened.",
      "ask": [
       {
@@ -1146,8 +1146,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Recall the Run Test, where saliva turned the starch paste runny. 2. Show the isabgol husk and say that it is plant fibre. 3. Ask for a guess and a reason, and write both down.",
-     "say": "In the Run Test, saliva made thick starch paste runny. This husk is plant fibre, and it also makes a thick gel. Will saliva thin the gel too? Why do you think so?",
-     "kid": "Saliva made the starch paste runny. Will saliva thin a fibre gel too? Why? Write your guess.",
+     "say": "In the Run Test, saliva made thick starch paste runny. This husk is plant fibre, and it also makes a thick gel. Will saliva thin the gel too?",
+     "kid": "Guess if saliva will thin the fibre gel. Write your guess.",
      "ask": [
       {
        "q": "Why do you think saliva will thin the gel, or will not?",
@@ -1194,7 +1194,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Compare cup 1 with cup 2, and cup 3 with cup 4. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then read the explanation card on fibre and gut microbes.",
-     "say": "Say what you thought would happen, what you saw, and why you think it happened. If saliva cannot cut fibre, what happens to the fibre you eat?",
+     "say": "Say what you thought would happen, what you saw, and why you think it happened.",
      "kid": "Say what you thought would happen. Say what you saw. Say why you think it happened.",
      "ask": [
       {
@@ -1278,7 +1278,7 @@
      "mins": 4,
      "do": "1. Explain the test. 2. Ask for a guess and a reason. 3. Write both in the notebook.",
      "say": "We will count the sounds a belly makes, before lunch and after lunch. When do you think it will make more sounds? Why do you think so?",
-     "kid": "You will count belly sounds before and after lunch. When will there be more? Why? Write your guess.",
+     "kid": "Guess when there will be more belly sounds. Write your guess.",
      "ask": [
       {
        "q": "Why do you think there will be more sounds before lunch, or after?",
@@ -1349,7 +1349,7 @@
    "title": "Mouth Waters: how fast do your saliva glands wake up?",
    "mins": 10,
    "days": 1,
-   "context": "This is a short activity to try before you learn how saliva works. You time how long a dry lip takes to turn wet, first at rest and then while you look at and smell a cut lemon.",
+   "context": "This is a short activity to try before you learn how saliva works. You will find out if your mouth makes saliva before any food arrives. You time how long a dry lip takes to turn wet, first at rest and then while you look at and smell a cut lemon.",
    "materials": [
     {
      "item": "a lemon cut in half",
@@ -1389,8 +1389,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Ask your child to guess whether their mouth makes more saliva when it only sees and smells food. 2. Ask for the reason. 3. Write both in the notebook.",
-     "say": "Do you think your mouth makes saliva before any food arrives? Why do you think so?",
-     "kid": "Does your mouth make saliva before food arrives? Why do you think so? Write your guess.",
+     "say": "Do you think your mouth makes saliva before any food arrives?",
+     "kid": "Guess if your mouth makes saliva before food arrives. Write your guess.",
      "ask": [
       {
        "q": "Why might a mouth make saliva before any food arrives?",
@@ -1449,7 +1449,7 @@
    "title": "Whole or Crushed: why does chewing help the enzymes?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you dissolve the same amount of kalkandu, which is rock sugar, as one whole lump, in small pieces and as powder. Enzymes work on the outside of food in the same way that water works on the outside of the lump.",
+   "context": "In this activity you dissolve the same amount of kalkandu, which is rock sugar, as one whole lump, in small pieces and as powder. Enzymes work on the outside of food in the same way that water works on the outside of the lump. You will find out why chewing your food well helps.",
    "materials": [
     {
      "item": "3 lumps of kalkandu (rock sugar) of about the same size, each about the size of a peanut. Big crystals of ordinary sugar also work",
@@ -1515,8 +1515,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Ask your child to guess which will vanish first and why. 2. Ask how much faster they expect. 3. Write both guesses in the notebook.",
-     "say": "The same amount of sugar goes in each katori, as one lump, as four pieces and as powder. Which vanishes first? Why do you think so?",
-     "kid": "The same sugar goes in three katoris. Which will vanish first? Why? Write your guess.",
+     "say": "The same amount of sugar goes in each katori, as one lump, as four pieces and as powder. Which vanishes first?",
+     "kid": "Guess which sugar will vanish first. Write your guess.",
      "ask": [
       {
        "q": "Why do you think that one will vanish first?",
@@ -1564,7 +1564,7 @@
      "id": "s4",
      "mins": 2,
      "do": "1. Compare the three times. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then explain surface and chewing.",
-     "say": "Say what you thought would happen, what you saw, and why you think it happened. A swallowed lump of food is like the whole sugar lump. What would chewing have done to it first? What does chewing do to it?",
+     "say": "Say what you thought would happen, what you saw, and why you think it happened. A swallowed lump of food is like the whole sugar lump.",
      "kid": "Say what you thought would happen. Say what you saw. Say why you think it happened.",
      "ask": [
       {
@@ -1700,7 +1700,7 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "1. Cut the strips at 1 centimetre of strip for each 10 centimetres of real intestine: cat 14 centimetres, rabbit 34, human 80 and cow 510. 2. Join strips of newspaper with tape, to make the long ones. 3. Colour the last part of each strip red, for the large intestine: cat 2.5 centimetres, rabbit 15, human 16 and cow 100.",
+     "do": "1. Cut the strips at 1 centimetre of strip for each 10 centimetres of real intestine: cat 14 centimetres, rabbit 34, human 80 and cow 510. 2. Join strips of newspaper with tape, to make the long ones. 3. Colour the last part of each strip red (or stick red paper on it), for the large intestine: cat 2.5 centimetres, rabbit 15, human 16 and cow 100.",
      "say": "Scientists measured real animals. A cat's intestine is about 1.4 metres, a rabbit's about 3.4, a person's about 8 and a cow's about 51. We cut one centimetre of strip for every 10 centimetres of real gut. Work out each strip with me.",
      "kid": "Cut the strips: cat 14 centimetres, rabbit 34, person 80, cow 510. Colour the large intestine red.",
      "parent": "The cow's strip is 5 metres and 10 centimetres, so you need a hallway or a balcony. A string works as well as paper. Your child can do the sums, and you do the cutting. The figures are rounded from published measurements, and real animals vary.",
@@ -1709,9 +1709,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Lay the four gut strips side by side. 2. Lay each body strip beside its gut strip. 3. Ask your child to compare the animals that eat plants with the animal that eats other animals.",
-     "say": "Look at the four strips. Which is longest? Now look at the red parts. Compare the cat and the rabbit, who weigh about the same. What is different?",
-     "kid": "Lay out the four strips. Which is longest? Compare the cat and the rabbit. What is different?",
+     "do": "1. Lay the four gut strips side by side. 2. Ask your child to compare the animals that eat plants with the animal that eats other animals.",
+     "say": "Look at the four strips. Which is longest? Now look at the red parts. Compare the cat and the rabbit, who weigh about the same.",
+     "kid": "Lay out the four strips. Find the longest. Look at the red parts of the cat and the rabbit.",
      "ask": [
       {
        "q": "The cat and the rabbit weigh about the same. Which part of their strips is most different?",
@@ -1771,7 +1771,7 @@
     }
    ],
    "safety": "A grown-up cuts the small shapes with the scissors.",
-   "record": "Draw a table with the three enzymes down the side and the three chains across the top. Write 'cuts' or 'does not fit' in each of the nine boxes.",
+   "record": "Rule a table with the three enzymes down the side and the three chains across the top. Write 'cuts' or 'does not fit' in each of the nine boxes.",
    "setup": [
     {
      "art": "Three paper strips in red, blue and green, each divided into four equal units by pencil lines, with a different small shape cut from the edge at each line: a triangle, a half circle and a square.",
@@ -1791,8 +1791,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Show a red strip, a blue strip and a green strip. 2. Say that the red one is starch, the blue one is protein and the green one is fibre. 3. Ask your child how an enzyme could find the right chain.",
-     "say": "Each strip is a long chain of food units. The joins between the units are different shapes. How could an enzyme tell one chain from another?",
-     "kid": "Each strip is a food chain. The joins have different shapes. How could an enzyme tell them apart?",
+     "say": "Each strip is a long chain of food units. The joins between the units are different shapes.",
+     "kid": "Look at the three strips. Their joins have different shapes.",
      "ask": [
       {
        "q": "How could an enzyme tell one chain from another?",
@@ -1810,7 +1810,7 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "1. Mark each strip into four units of 6 centimetres. 2. At each of the three joins on a strip, cut a small notch from the edge: a triangle on the red strip, a half circle on the blue strip and a square on the green strip. 3. Cut three card tags with a small tooth at one end. 4. Shape the teeth to match a triangle, a half circle and a square. 5. Label the tags amylase, pepsin and microbe enzyme.",
+     "do": "1. Mark each strip into four units of 6 centimetres. 2. At each of the three joins on a strip, cut a small notch from the edge: a triangle on the red strip, a half circle on the blue strip and a square on the green strip. 3. Cut three card tags with a small tooth at one end. 4. Shape the teeth to match a triangle, a half circle and a square. 5. Label the tags on the back: amylase (triangle tooth), pepsin (half circle tooth) and microbe enzyme (square tooth).",
      "say": "The red strip is starch with triangle joins. The blue strip is protein with half-circle joins. The green strip is fibre with square joins. The tags are enzymes. Which tag should fit which strip?",
      "kid": "A grown-up cuts the notches and the tags. The tags are amylase, pepsin and a microbe enzyme.",
      "parent": "The teeth must be about 5 millimetres across, so they fit the notches neatly. The microbe enzyme has the square tooth, because only gut microbes make an enzyme for the joins in fibre.",
@@ -1864,7 +1864,7 @@
    "title": "The Milk Survey: how many people say that milk gives them trouble?",
    "days": 3,
    "mins": 60,
-   "context": "In this three-day project you ask about ten people the same short questions about milk and curd. Then you tally the answers and compare them with what scientists found when they tested people in India.",
+   "context": "In this three-day project you find out how many people get trouble from milk. You ask about ten people the same short questions about milk and curd. Then you tally the answers and compare them with what scientists found when they tested people in India.",
    "materials": [
     {
      "item": "a notebook with a page ruled in columns, and a pencil",
@@ -1916,7 +1916,7 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Day 1. Write these four questions. A: A large tumbler of milk, about 250 millilitres. Does it often give you gas or a stomach ache? B: A small cup of milk, about 100 millilitres. C: Curd or buttermilk. D: Hard cheese or paneer. 2. Answer yes, sometimes or no for each. 3. Write your guess for how many people will say yes to A. 4. Try it on one person at home.",
-     "say": "We will ask four questions about milk, curd and paneer. How many of ten people do you think will say yes to the large tumbler? Why do you think so?",
+     "say": "We will ask four questions about milk, curd and paneer. First we guess, then we ask.",
      "kid": "Write four questions about milk, curd and paneer. Write your guess for the big tumbler. Try it on one person.",
      "ask": [
       {
@@ -1943,9 +1943,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Day 3. Add up the yes answers for each question. 2. Draw a bar chart with four bars. 3. Compare the older people with the children. 4. Write what you found, and what the survey cannot show.",
-     "say": "Count the yes answers for each question. Draw a bar for each one. Which question got the most yes answers? Does milk trouble more people than curd?",
-     "kid": "Add up the yes answers. Draw four bars. Compare milk, curd and paneer.",
+     "do": "1. Day 3. Add up the yes answers for each question. 2. Make a bar chart with four bars: draw it, or stack coins for each yes answer. 3. Compare the older people with the children. 4. Write what you found, and what the survey cannot show.",
+     "say": "Count the yes answers for each question. Make a bar for each one. Does milk trouble more people than curd?",
+     "kid": "Add up the yes answers. Make four bars. Compare milk, curd and paneer.",
      "ask": [
       {
        "q": "Which question had the most yes answers, and which had the fewest?",
@@ -2035,8 +2035,8 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Read the problem. 2. Ask your child to choose one thing to change and to say why it should help. 3. Write the question, the guess and the reason.",
-     "say": "Which one thing will you change to make the enzyme work faster? Why do you think it will help? What will your control cup be?",
-     "kid": "Choose one thing to change. Say why it will help. Say what your control cup is.",
+     "say": "Which one thing will you change to make the enzyme work faster? You could try warmer water, more saliva or more stirring. Why do you think it will help?",
+     "kid": "Choose one thing to change. Say why it will help.",
      "ask": [
       {
        "q": "What will your control cup be?",

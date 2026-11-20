@@ -279,9 +279,9 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 - **Printable board: A pot to draw: 3 rows of 4 squares:** Draw a rectangle with 3 rows of 4 squares, each square about 3 cm wide. This is the pot.; Each square is one particle of water. Leave room in each square for a number.; Write ROUND 1 beside the top row, ROUND 2 beside the middle row and ROUND 3 beside the bottom row.; Draw a cloud shape above the pot and write AIR in it.
 - **Printable score sheet: A score sheet:** My guess: will the average go up, go down or stay the same?; Start: 12 particles. Total of the speeds: ___. Average: ___.; After round 1: particles left ___. Total ___. Average ___.; After round 2: particles left ___. Total ___. Average ___.; After round 3: particles left ___. Total ___. Average ___.; After the Sun round: particles left ___. Total ___. Average ___.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw the pot and the AIR cloud. 2. Roll the die 12 times and write a speed in each square. 3. Add up the speeds and divide by 12. 4. Ask what will happen to the average when the fastest particles leave, and why.  
+  *Parent does:* 1. Draw a big pot with 12 squares inside, in 3 rows of 4. Draw a cloud above it and write AIR in it. 2. Roll the die 12 times and write a speed in each square. 3. Add up the speeds and divide by 12. 4. Ask what will happen to the average when the fastest particles leave, and why.  
   *Parent says:* Each number is the speed of one particle. The average is the temperature of the pot. When the fast ones at the surface leave, what will happen to the average? Why?  
-  *Child mode:* Draw the pot. Roll the die 12 times. Write a speed in each square. Find the average. Guess what will happen to it.
+  *Child mode:* Draw the pot and the cloud. Roll the die 12 times. Write a speed in each square. Find the average. Guess what will happen to it.
   - Note: A phone calculator is fine for the division. For example, a total of 42 gives 42 ÷ 12 = 3.5.
 - **s2 (9 min)**  
   *Parent does:* 1. Play round 1. Cross out every 5 and 6 in the top row and write them in the AIR cloud. 2. Work out the new average. 3. Play round 2 with the middle row and round 3 with the bottom row. 4. Write the average after each round.  
@@ -301,7 +301,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 - **question:** The same amount of water stands in a wide plate, a bowl and a tumbler for one day. Which loses the most? If one surface is 4 times as big as another, does it lose 4 times as much water?
 - **predict:** Guess first, and write your guesses. Put the plate, the bowl, the tumbler and the closed jar in order. Start with the one that will lose the most water. Then guess a number. A plate twice as wide as a bowl has about 4 times the surface. How many times as much water will the plate lose? Why do you think so?
 - **fair test:** Put the same amount of water in every vessel, measured in the same glass. Stand all four side by side, in the same room, under the same fan, out of the sun. Measure them all after the same time. Only the size of the water surface is different. The closed jar shows how much water is lost just by pouring.
-- **record:** Fill in the table. Draw a bar chart with one bar for each vessel, showing the height lost. Then write what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table. Make a bar chart with one bar for each vessel, showing the height lost. Draw it, or build each bar from beans, one bean for each millimetre. Then say what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Vessel | Width of the water surface (cm) | Area of the surface (square cm) | Height in the measuring glass at the start (mm) | Height after one day (mm) | Height lost (mm)
 - **schedule:** day 1: Guess. Measure the same amount of water into the plate, the bowl, the tumbler and the jar. Close the jar. Measure each water surface and work out its area. (24 min); day 2: Pour each vessel's water back into the measuring glass and read the height. Work out the loss, compare it with the area, and explain. (21 min)
 - **s1 (6 min)**  
@@ -331,14 +331,14 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Child mode:* Pour each vessel's water back into the glass. Read the height. Take it away from 50. Write what each one lost.
   - Note: If any water spills into the big bowl, tip it into the glass before you read. Under a fan in dry weather the plate may lose 20 to 40 mm. On a humid day it may lose about 10 mm. Then you can leave the test for a second day. If the jar reads 1 mm low, that water was left behind in pouring. Take 1 mm off the other losses too.
 - **s6 (5 min)**  
-  *Parent does:* 1. Look at the areas and the losses side by side. 2. Ask how many times as big the plate's surface is as the bowl's. 3. Ask how many times as much water the plate lost. 4. Do the same for the bowl and the tumbler. 5. Draw the bar chart.  
+  *Parent does:* 1. Look at the areas and the losses side by side. 2. Ask how many times as big the plate's surface is as the bowl's. 3. Ask how many times as much water the plate lost. 4. Do the same for the bowl and the tumbler.  
   *Parent says:* How many times as big is the plate's surface as the bowl's? About how many times as much water did it lose? Did the tumbler lose as much as its surface suggests?  
   *Child mode:* Compare the plate with the bowl. How many times bigger is its surface? How many times more water did it lose?
   - Note: The plate usually loses about 4 times as much as the bowl. The tumbler often loses less than its area suggests. Its walls stand above the water and shelter it from the fan, so damp air collects there.
 - **s7 (6 min)**  
   *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 2. After they have answered, read them the note below. 3. Ask why the closed jar lost nothing.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then tell me this: the jar had the same water. Why did it lose none?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Why did the closed jar lose no water?
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Why did the plate lose the most? (good: It had the biggest surface, so the most particles were at the surface and could leave.)
   - Ask: Why did the closed jar lose none? (good: Particles still left the water, but they could not get away. As many landed back as left.)
   - Note: Water leaves only from its surface. A surface 4 times as big has about 4 times as many particles on it. So about 4 times as many escape each second. In the closed jar the air soon became saturated. Then as many particles landed back on the water as left it.
@@ -367,7 +367,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Child mode:* A grown-up holds a cold plate above each bowl. Look under the plate. Which bowl made it misty?
   - Note: The plate mists above the open bowl and stays almost clear above the oil. So vapour is leaving bowl A and not bowl B.
 - **s4 (12 min) · grown-up needed**  
-  *Parent does:* 1. Wait until 10 minutes have passed since the pouring. 2. The grown-up touches the outside of each bowl first. 3. Your child puts one hand on each bowl, then swaps hands. 4. Write which bowl feels cooler. 5. With a thermometer, read both bowls every 5 minutes.  
+  *Parent does:* 1. Wait until 10 minutes have passed since the pouring. 2. The grown-up touches the outside of each bowl first. 3. Your child puts one hand on each bowl, then swaps hands. 4. Write which bowl feels cooler. 5. If you have a thermometer, read both bowls every 5 minutes.  
   *Parent says:* Put one hand on each bowl. Now swap your hands. Which bowl is cooler? Is it a small difference or a big one?  
   *Child mode:* Wait 10 minutes. Put one hand on each bowl. Swap hands. Which bowl feels cooler? Write it down.
   - Note: Swapping hands matters. A hand that has just held something warm judges the next thing as cooler. While you wait, your child can draw the two bowls.
@@ -379,7 +379,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 - **s6 (6 min)**  
   *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 2. After they have answered, read them the note below. 3. Ask what the cold plate showed.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Both bowls lost heat through the steel. What else was the open bowl losing?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. What did the cold plate show?
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Both bowls lost heat through the steel. What else was the open bowl losing? (good: Water vapour. The plate misted above it.; Its fastest particles, which escaped from the surface.)
   - Note: The particles of the hot water move at many different speeds. In the open bowl the fastest ones at the surface kept escaping. The particles left behind were slower on average, and slower particles mean cooler water. Under the oil no particle could escape, so that bowl lost heat only through the steel and the oil.
   - Check: In The Oil Lid, the open bowl cooled faster than the bowl under oil. Why? → **Its fastest particles kept escaping**
@@ -388,7 +388,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 - **question:** Three things can speed up drying: spreading the cloth out, moving air and warmth. In your home today, which of the three makes the biggest difference in 8 minutes?
 - **predict:** Guess first, and write your guess. You will run three tests. The first is a spread cloth against a folded cloth. The second is a cloth under the fan against a cloth in still air. The third is a test that you choose. In which test will the two cloths end up most different? Why do you think so?
 - **fair test:** Start each test with two cloths that balance on the hanger, so they hold the same water. In each test change only one thing. In the first test both cloths are under the fan, and only the folding differs. In the second both are spread out, and only the moving air differs. Give both cloths the same 8 minutes.
-- **record:** Fill in the table. Draw a bar chart with one bar for each test, showing how far the lighter cloth's end rose. Then write what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table. Make a bar chart with one bar for each test, showing how far the lighter cloth's end rose. Draw it, or build each bar from clothes clips. Then say what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Test | What was different | Which cloth became lighter? | How many centimetres did its end rise?
 - **s1 (5 min)**  
   *Parent does:* 1. Hang the coat hanger on a door handle or hook, away from the fan. 2. Fix one clothes clip to each end. 3. If one end is lower, stick bits of tape on the higher end until the hanger is level. 4. Tape the paper behind one end and mark where that end sits.  
@@ -396,7 +396,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Child mode:* Hang the hanger on a door handle. Put a clip on each end. Make it level with tape. Mark where one end sits.
 - **s2 (5 min)**  
   *Parent does:* 1. Dip both cloths in the bowl. 2. Hold them together and squeeze until the dripping stops. 3. Bunch each cloth and clip one to each end of the hanger. 4. If one end is lower, drip water from the teaspoon onto the other cloth until the hanger is level. 5. Ask for the guess and its reason.  
-  *Parent says:* Now the two cloths hold the same water. We will dry them in different ways. In which of our three tests will they end up most different? Why?  
+  *Parent says:* Now the two cloths hold the same water. We will dry them in different ways. First spread against folded, then fan against still air, then a test you choose. In which test will they end up most different? Why?  
   *Child mode:* Wet both cloths. Squeeze them together. Clip one to each end. Add drops until the hanger is level. Now guess.
   - Ask: Why do you think so? (good: Spreading, because a folded cloth hides most of its surface.; The fan, because moving air carries the vapour away.; The sun, because warmth makes the particles faster.)
 - **s3 (10 min)**  
@@ -415,7 +415,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Child mode:* Plan your own test. Change one thing only. Say what stays the same. Run it for 8 minutes. Measure the rise.
   - Note: If your child wants to change two things at once, ask how they would know which one made the difference.
 - **s6 (5 min)**  
-  *Parent does:* 1. Put the three results side by side and draw the bar chart. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. After they have answered, read them the note below.  
+  *Parent does:* 1. Put the three results side by side. 2. Ask your child to say what they thought would happen, what they saw, and why they think it happened. 3. After they have answered, read them the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Which change made the biggest difference in our home today?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Which change mattered most today?
   - Ask: Explain each result with particles. (good: Spread out: more of the water is at a surface, so more particles can leave.; Fan: moving air carries escaped particles away, so fewer land back.; Sun: warm particles move faster, so more of them can escape.)
@@ -426,7 +426,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 ## Activities
 ### a1 · Tumbler or Davara: which cools hot water faster? (10 min)
 - **safety:** A grown-up boils, mixes and pours the water. The mixed water is hot, like bath water from a geyser. Touch only the outside of the vessels, and only after the grown-up has tested them.
-- **record:** Draw the tumbler and the davara from above. Shade the water surface of each. Write which one cooled faster.
+- **record:** Look down at the tumbler and the davara from above. Point to the bigger water surface and tell your grown-up which one cooled faster. Or draw both from above and shade the water.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. A grown-up mixes one tumbler of boiling water with two tumblers of tap water in a jug. 2. Pour half a tumbler of this water into the steel tumbler. 3. Pour the same amount into the davara. 4. Ask your child which will be cooler after 4 minutes, and why. 5. Note the time.  
   *Parent says:* Both hold the same hot water. In four minutes, which will be cooler, the tumbler or the davara? Why do you think so?  
@@ -471,24 +471,24 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 ### a3 · Draw the Particles: four changes of state (15 min)
 - **record:** Keep the finished drawing. You use it again in Zoom In on the Water Cycle.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw three boxes of the same size at the corners of a triangle. Label them ice, water and water vapour. 2. Ask your child to draw the particles of each, all the same size. 3. Ask them to add a short arrow to each particle, to show how it moves.  
+  *Parent does:* 1. Draw three boxes of the same size at the corners of a triangle. Label them ice, water and water vapour. 2. Ask your child to draw the particles of each, all the same size. Torn bits of paper work too. 3. Ask them to add a short arrow to each particle, to show how it moves.  
   *Parent says:* Draw the particles of ice, of water and of water vapour. Make every particle the same size. How close are they in each box? How do they move?  
   *Child mode:* Draw three boxes. Label them ice, water and water vapour. Draw the particles in each box. Show how they move.
   - Note: In the ice box, the particles sit in rows, touching, and they only shake in place. In the water box, the particles touch, are jumbled and slide past each other. In the vapour box, there are only one or two particles, far apart, with long arrows. If the vapour box is crowded, ask how much space steam takes.
 - **s2 (5 min)**  
-  *Parent does:* 1. Draw an arrow from ice to water and one from water to ice. 2. Draw an arrow from water to vapour and one from vapour to water. 3. Ask your child to name each arrow: melting, freezing, evaporation, condensation. 4. Colour an arrow red if heat must go in, and blue if heat must come out.  
-  *Parent says:* Name each arrow. For which two changes must heat go in? For which two must heat come out?  
-  *Child mode:* Draw four arrows between the boxes. Name each one. Colour it red if heat goes in. Colour it blue if heat comes out.
+  *Parent does:* 1. Tear four small slips of paper. Write one of these on each: melting, freezing, evaporation, condensation. 2. Ask your child to put each slip between the two boxes it joins. 3. Ask which way each change goes. 4. Lay a red pencil on a slip if heat must go in, and a blue pencil if heat must come out.  
+  *Parent says:* Match each change to its boxes. Then think about heat. Does the water need heat, or give it away?  
+  *Child mode:* Put each slip between the two boxes it joins. Lay a red pencil on it if heat goes in. Lay a blue pencil on it if heat comes out.
   - Ask: Which two arrows are red, and why? (good: Melting and evaporation. The particles need energy to break away from each other.)
   - Ask: Which pairs of arrows undo each other? (good: Melting and freezing.; Evaporation and condensation.)
 - **s3 (5 min)**  
-  *Parent does:* 1. Draw a big circle below the triangle. 2. In it, ask your child to draw the surface of water with about 15 particles. 3. They give each particle a short or a long arrow. 4. They show two long-arrowed particles at the top leaving.  
+  *Parent does:* 1. Draw a big circle below the triangle. 2. In it, ask your child to draw the surface of water with about 15 particles. Torn bits of paper work too. 3. They give each particle a short or a long arrow. 4. They show two long-arrowed particles at the top leaving.  
   *Parent says:* Now zoom in on the surface while the water evaporates. Which particles leave? What is left behind?  
   *Child mode:* Draw a big circle. Draw the top of the water inside it. Give some particles long arrows. Show which ones leave.
   - Check: Which two changes of state happen only when heat goes into the water? → **Melting and evaporation**
 ### a4 · What Is in the Bubbles? Watch water boil (12 min)
 - **safety:** A grown-up works the stove and holds the plate. Children watch from an arm's length away. Steam burns badly, so nobody puts a hand or face over the pan.
-- **record:** Draw the pan twice: when the water is warm, and when it is boiling. Draw the bubbles and write what is inside them.
+- **record:** Tell a grown-up what was inside each kind of bubble, and how you know. Or draw the pan when it is warm and when it is boiling, with the bubbles.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts 2 tumblers of tap water in the pan and lights the stove. 2. Watch from an arm's length. 3. After a minute or two, tiny bubbles appear on the bottom and the walls. 4. Ask your child what is inside them.  
   *Parent says:* The water is only warm, and tiny bubbles have come. What do you think is inside them? Where did it come from?  
@@ -513,7 +513,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Child mode:* Draw the sea, the Sun, hills, a cloud and a river. Add four arrows to show where the water goes.
   - Note: Label the arrows evaporation, wind, precipitation and river. Precipitation means rain, snow or hail.
 - **s2 (8 min)**  
-  *Parent does:* 1. Draw six circles with the tumbler, along the journey. Put one at the sea surface, one in the clear air and one where the cloud forms. Put one under the cloud, one on the hilltop and one in the river. 2. Number them 1 to 6. 3. Ask your child to draw the water particles in each. 4. Add a red arrow where energy goes into the water, and a blue one where it comes out.  
+  *Parent does:* 1. Draw six circles with the tumbler, along the journey. Put one at the sea surface, one in the clear air and one where the cloud forms. Put one under the cloud, one on the hilltop and one in the river. 2. Number them 1 to 6. 3. Ask your child to draw the water particles in each, or to tell you what they are doing. 4. Add a red arrow where energy goes into the water, and a blue one where it comes out.  
   *Parent says:* In each circle, draw what the water particles are doing. Are they close or far apart? Fast or slow? Where does energy go in, and where does it come out?  
   *Child mode:* Draw six circles along the journey. Draw the water particles in each one. Are they close or far apart?
   - Note: In circle 1, fast particles leave the sea, and the salt stays behind. In circle 2, vapour particles are far apart among the particles of air. In circle 3, slowed particles stick to a speck of dust. In circle 4, a raindrop holds many particles together. In circle 5, snow or hail on a cold hilltop has its particles in rows. In circle 6, liquid water is flowing. Draw a red arrow at circle 1 and a blue arrow at circle 3.
@@ -557,9 +557,9 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Child mode:* Ask ten people about each row. Make a tally mark for each yes. Ask them all in the same words.
   - Wait: Draw the chart tomorrow
 - **s3 (20 min)**  
-  *Parent does:* 1. Count the tally marks in each row. 2. Draw a bar chart with one bar for each way. 3. Ask your child to say what they thought would happen, what they found, and why it came out that way. 4. Ask how the survey could be made better.  
+  *Parent does:* 1. Count the tally marks in each row. 2. Make a bar chart with one bar for each way. Stack a bean for each tally mark, or draw the bars. 3. Ask your child to say what they thought would happen, what they found, and why it came out that way. 4. Ask how the survey could be made better.  
   *Parent says:* Say what you thought would happen, what you found, and why you think it came out that way. If you did this again, what would you change?  
-  *Child mode:* Count the tally marks. Draw a bar for each way. Say what you found. How could the survey be better?
+  *Child mode:* Count the tally marks. Make a bar for each way. Say what you found. How could the survey be better?
   - Ask: How could the survey be better? (good: Ask more people, because ten is a small number.; Ask people of different ages and from different places.; Ask about the season, because people dry things differently in the monsoon.)
   - Check: Ten people in one building were asked how they use evaporation. Nine dry clothes on a line. What is the fairest thing to say? → **Most of the people asked dry clothes on a line**
 
@@ -573,7 +573,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 - **creative:** Prop a shiny steel plate behind the bowl, to throw extra sunlight onto it.; Lay a ring of wet cloth round the edge of the film. A cooler film condenses vapour faster.; Hang a strip of black cloth with one end in the salty water. The wet cloth adds more surface for evaporation.
 - **s1 (10 min)**  
   *Parent does:* 1. Stir 1 teaspoon of salt and a spoonful of black tea into 1 tumbler of water. Make two tumblers like this. 2. Stand an empty katori in the middle of each big bowl. 3. Pour one tumbler of the brown water round each katori. 4. Cover each bowl with clear film and tie it. 5. Put a stone on each film, above the katori.  
-  *Parent says:* This is the plain fresh-water maker. Where will the water evaporate? Where will it condense? How will the drops reach the katori?  
+  *Parent says:* This is the plain fresh-water maker. Where will the water evaporate? How will the drops reach the katori?  
   *Child mode:* Make two tumblers of brown, salty water. Stand a katori in each bowl. Pour the water round it. Cover with film. Add a stone.
   - Ask: Where will the water condense? (good: Under the film, because the film is cooler than the warm, damp air inside.)
 - **s2 (10 min)**  
@@ -600,7 +600,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 - **creative:** Rest a large steel plate on a bowl of ice, tilted so that the drops run to one edge.; Stand the design under a fan. Moving air brings fresh vapour particles to the cold surface.; Stir a spoon of salt into the ice and water. Salty ice water is colder than plain ice water.
 - **s1 (8 min)**  
   *Parent does:* 1. Put 12 ice cubes in one steel tumbler, fill it with tap water and stand it on a dry tray. This is the plain design. 2. Read the problem and the ideas together. 3. Ask your child to plan a design for the other 12 ice cubes. Ask why it will catch more water.  
-  *Parent says:* The drops on this tumbler came out of the air. How could 12 ice cubes catch more? What does the vapour need in order to condense?  
+  *Parent says:* The drops on this tumbler came out of the air. How could 12 ice cubes catch more?  
   *Child mode:* Put 12 ice cubes and water in one tumbler. That is the plain design. Plan a better one. Say why it will catch more.
   - Ask: What does the vapour need in order to condense? (good: A surface that is cold enough.; More cold surface means more places for particles to slow down and stick.)
 - **s2 (22 min)**  

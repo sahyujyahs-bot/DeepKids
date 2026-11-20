@@ -292,7 +292,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
   *Parent does:* 1. Read Clue 1 of the top card. 2. Let each player guess once. 3. If nobody is right, read Clue 2, and then Clue 3. 4. Turn the card and read the back. 5. Write the points and pass the pile to the next reader.  
   *Parent says:* Listen to the clue. Which animals could it be? What would you need to know to be sure?  
   *Child mode:* Read one clue. Guess the animal. If you are wrong, read the next clue.
-  - Ask: This animal breeds once and then dies. Which animals could that be? (good: A Pacific salmon, a mayfly, an octopus, an eel or a periodical cicada.; We need another clue to choose between them.)
+  - Ask: A clue says the animal breeds once and then dies. Which animals could that be? (good: A Pacific salmon, a mayfly, an octopus, an eel or a periodical cicada.; We need another clue to choose between them.)
   - Note: A wrong guess is useful. Ask which clue would tell the two animals apart. If a card is new to your child, read all three clues and the back, and put the card back in the pile to meet again.
 - **s3 (4 min)**  
   *Parent does:* 1. Count the points. 2. Spread all 20 cards out, answer side up. 3. Sort them into two heaps: animals who breed once, and animals who breed many times.  
@@ -308,7 +308,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the year chits, the meal chart and the score sheet. 2. Give each player ten rajma and seven chits. 3. Read the rules aloud once.  
   *Parent says:* You are a brood of ten cicadas. You must choose how many years to stay underground. Some years are more dangerous than others.  
-  *Child mode:* Take ten rajma and seven chits. You are a brood of cicadas. Choose your year in secret.
+  *Child mode:* Take ten rajma and seven chits. You are a brood of cicadas.
 - **s2 (12 min)**  
   *Parent does:* 1. Play six rounds by the rules. 2. After each round, every player writes the year they chose and the cicadas they have left. 3. Do not explain the pattern. Let your child find it.  
   *Parent says:* Choose your year. Turn over. How many do the birds eat this year? Who shares that meal?  
@@ -338,7 +338,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 - **s2 (3 min)**  
   *Parent does:* 1. Read out the two plans. 2. Ask for the first guess, with numbers, and the reason. 3. Ask the second guess, about a crowd twice as big. 4. Write both down.  
   *Parent says:* Ten each evening for six evenings, or all sixty on one evening. Which plan leaves more cicadas alive, and how many? Why do you think so?  
-  *Child mode:* Guess which plan saves more cicadas. Guess how many are left. Say why. Write it down.
+  *Child mode:* Guess which plan saves more cicadas, and how many are left. Write your guess down.
   - Ask: Why do you think so? (good: The bird has the same time each evening, so more evenings means more eaten.; In a big crowd the bird cannot get to everyone.)
   - Note: Do not correct the guesses. Many children expect the plans to come out about equal, because the same sixty cicadas come out either way.
 - **s3 (6 min)**  
@@ -356,7 +356,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
   *Child mode:* Test crowds of 5, 10, 20, 40 and 80. Ten seconds each. Write what you ate each time.
   - Ask: What do you expect to eat from a crowd of 80, and why? (good: About the same as from 40, because I cannot pick any faster.; A few more, because they are closer together.)
 - **s6 (4 min)**  
-  *Parent does:* 1. For each row, write the share eaten as a fraction, such as 8 out of 10. 2. Draw a line graph. Put the crowd size along the bottom and the number eaten up the side. 3. Look at the shape of the line.  
+  *Parent does:* 1. For each row, write the share eaten as a fraction, such as 8 out of 10. 2. Draw a line graph, or build a bar of rajma for each crowd size. Put the crowd size along the bottom and the number eaten up the side. 3. Look at the shape of the line.  
   *Parent says:* Let's write each result as a share. Eight out of ten is a big share. Nine out of eighty is a small share. Now draw the graph.  
   *Child mode:* Write each result as a share, like 8 out of 10. Draw the line graph. What shape is the line?
   - Note: The line usually climbs at first and then goes nearly flat. If one point is far off the others, test that crowd size again and say so in the table.
@@ -383,7 +383,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 - **s2 (3 min)**  
   *Parent does:* 1. Let your child smell cup 10 for a few breaths. 2. Tell them this is the smell of their home stream. 3. Ask for their guess and the reason. 4. Write it down.  
   *Parent says:* This is the smell of your home stream. Learn it well. How weak can it get before your nose loses it? Why do you think so?  
-  *Child mode:* Smell the first cup. This is your home stream. Guess the weakest one you can find. Say why.
+  *Child mode:* Smell the first cup. This is your home stream. Guess the weakest cup you can still smell.
   - Ask: Why do you think so? (good: Ten thousand is a lot of water for one spoon of smell.; I can smell food from far away, so maybe my nose is good.)
 - **s3 (12 min)**  
   *Parent does:* 1. Start with the weakest, cup 10,000. Your child turns away. 2. Put 3 teaspoons of the mixture into one katori and 3 teaspoons of plain water into each of the other two. 3. Shuffle the katoris, and remember where the mixture is. 4. Look away while your child smells all three and picks one. 5. Write a tick or a cross. 6. Shuffle and try again, until you have three tries. 7. Rinse the katoris. Do the same for cups 1,000, 100 and 10.  
@@ -405,33 +405,33 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 
 ## Activities
 ### a1 · Life Bars: how much of a life is spent growing up? (12 min)
-- **record:** Keep the drawing. Under it write one sentence: which animal spends the biggest share of life as a youngster, and which the smallest.
+- **record:** Keep the strips. On a paper beside them write one sentence: which animal spends the biggest share of life as a youngster, and which the smallest.
 - **s1 (2 min)**  
   *Parent does:* 1. Name the five animals: a human, an Asian elephant, a hen, a 17-year cicada and a mayfly. 2. Ask which one spends the biggest share of life as a youngster, and why. 3. Write the guess down.  
   *Parent says:* A youngster here means an animal whose body cannot yet have young. Which of these five spends the biggest share of life like that? Why do you think so?  
   *Child mode:* Which animal spends the biggest share of life as a youngster? Guess. Say why.
 - **s2 (3 min)**  
-  *Parent does:* 1. Draw five bars, each 20 centimetres long and 1 centimetre high. 2. Leave a gap between them. 3. Write one animal's name beside each bar.  
-  *Parent says:* Each bar is one whole life, from the start to the end. The lives are different lengths, but we draw every bar the same length. Then we can compare the shares.  
-  *Child mode:* Draw five bars. Make each one 20 cm long. Write an animal's name by each bar.
+  *Parent does:* 1. Cut five paper strips, each 20 centimetres long and 1 centimetre wide. 2. Lay them in a row with a gap between them. 3. Write one animal's name on each strip.  
+  *Parent says:* Each strip is one whole life, from the start to the end. The lives are different lengths, but we cut every strip the same length. Then we can compare the shares.  
+  *Child mode:* Cut five strips. Make each one 20 cm long. Write an animal's name on each strip.
 - **s3 (3 min)**  
   *Parent does:* 1. A human lives about 70 years, and the body can have children from about 14. Ask what fraction 14 is of 70, and how many centimetres of the bar that is. 2. Shade that part. 3. An elephant lives about 60 years and can have her first calf at about 15. Work out and shade her bar.  
   *Parent says:* Fourteen years out of seventy. What fraction is that? How many centimetres of a 20 centimetre bar? Now do the elephant: fifteen out of sixty.  
   *Child mode:* Human: 14 years out of 70. What fraction? Shade it. Elephant: 15 out of 60. Shade it.
   - Note: 14 out of 70 is one fifth, and a fifth of 20 centimetres is 4 centimetres. 15 out of 60 is one quarter, which is 5 centimetres. A human body can have children from about 14, at a stage called puberty. People wisely wait many more years.
 - **s4 (2 min)**  
-  *Parent does:* 1. A hen can lay at 5 months and lives about 6 years. Shade 1.4 centimetres of her bar. 2. A periodical cicada is a nymph for 17 years and an adult for about 4 weeks. Shade all of the bar but the last 1 millimetre. 3. A mayfly is a nymph for about a year and an adult for a day. Shade the whole bar, and draw one thin pencil line at the end for the adult.  
-  *Parent says:* For the last three I will read you the lengths. The hen is 1.4 centimetres. The cicada is everything except the last millimetre. The mayfly is everything except one pencil line.  
+  *Parent does:* 1. A hen can lay at 5 months and lives about 6 years. Shade 1.4 centimetres of her bar. 2. A periodical cicada is a nymph for 17 years and an adult for about 4 weeks. Shade all of the bar but the last 1 millimetre. 3. A mayfly is a nymph for about a year and an adult for a day. Shade the whole bar, and leave one thin pencil line at the end for the adult.  
+  *Parent says:* A nymph is a young insect that is not yet an adult. For the last three I will read you the lengths. The hen is 1.4 centimetres. The cicada is everything except the last millimetre. The mayfly is everything except one pencil line.  
   *Child mode:* Hen: shade 1.4 cm. Cicada: shade all but 1 mm. Mayfly: shade all but one thin line.
 - **s5 (2 min)**  
-  *Parent does:* 1. Ask your child to put the animals in order, from the smallest share of life as a youngster to the biggest. 2. Compare with the guess. 3. Ask how they would draw a bar for a jellyfish who can turn from adult back to young.  
-  *Parent says:* Put them in order. Was your guess right? Now, one small jellyfish can turn from an adult back into a youngster. How would you draw her bar?  
-  *Child mode:* Put the animals in order. Was your guess right? How would you draw a jellyfish who turns young again?
-  - Ask: We call the winged cicada 'the adult' and the nymph 'the young'. Which one is the cicada for most of the time? (good: The nymph, for nearly all of the 17 years.; The winged stage is only the last month.)
+  *Parent does:* 1. Ask your child to put the animals in order, from the smallest share of life as a youngster to the biggest. 2. Compare with the guess. 3. Ask how they would show the strip of a jellyfish who can turn from adult back to young.  
+  *Parent says:* Put them in order. Was your guess right? Now, one small jellyfish can turn from an adult back into a youngster. How would you show her strip?  
+  *Child mode:* Put the animals in order. Was your guess right? How would you show a jellyfish who turns young again?
+  - Ask: Which stage is most of a cicada's life: the young nymph or the winged adult? (good: The nymph, for nearly all of the 17 years.; The winged stage is only the last month.)
   - Note: There is no right way to draw the jellyfish. A bar that loops back on itself is a good answer. So is 'I cannot, because there is no end to measure to'.
   - Check: A periodical cicada lives 17 years. About how long is the winged adult stage? → **About 4 weeks**
 ### a2 · Run It Backwards: a dough model of the immortal jellyfish (15 min)
-- **record:** Draw the jellyfish life cycle as a circle of stages: egg, swimming larva, polyp, young medusa, adult medusa. Then add one more arrow, from the adult medusa back to the polyp. Write one thing the dough model shows well and one thing it leaves out.
+- **record:** Draw the jellyfish life cycle as a circle of stages: egg, swimming larva, polyp, young medusa, adult medusa. Then add one more arrow, from the adult medusa back to the polyp. You can draw it, or tell it to your grown-up. Write one thing the dough model shows well and one thing it leaves out.
 - **s1 (4 min)**  
   *Parent does:* 1. Take two thirds of the dough and shape a bell like a small upturned bowl. 2. Roll eight thin tentacles and press them round the rim. 3. Make a short tube and press it under the middle, as the mouth. 4. Ask what job each part does.  
   *Parent says:* This is a medusa, the adult jellyfish. What do you think the bell does? The tentacles? The tube in the middle?  
@@ -446,9 +446,9 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
   *Parent says:* The ball sinks and sticks to a rock. Now shape the young stage, the polyp, from the same dough. Then let the polyp bud off new little medusae.  
   *Child mode:* Stick the ball down. Pull up a stalk. Add small tentacles. Pinch off two tiny new medusae.
 - **s4 (4 min)**  
-  *Parent does:* 1. Ask where the material for the polyp came from. 2. Ask what the dough model leaves out. 3. Your child draws the life cycle with the extra backward arrow.  
+  *Parent does:* 1. Ask where the material for the polyp came from. 2. Ask what the dough model leaves out. 3. Your child says the five stages in a circle (egg, swimming larva, polyp, young medusa, adult medusa) and points to the extra backward step.  
   *Parent says:* Where did the polyp's body come from? Dough has no cells. So what must happen inside the real jellyfish that our dough cannot show?  
-  *Child mode:* Where did the polyp's body come from? What does dough leave out? Draw the life cycle with a backward arrow.
+  *Child mode:* Where did the polyp's body come from? Then say the five stages in a circle and point to the backward step.
   - Ask: What must happen inside the real jellyfish that dough cannot show? (good: The cells have to change kind, for example a muscle cell into another kind of cell.; The same genes are there, and different ones get switched on.)
   - Note: The model shows that nothing is added: the old body is the material for the new one. It leaves out the cells. In the real animal the change takes about three days, and cells switch some genes off and others on.
   - Check: When the immortal jellyfish turns from a medusa into a polyp, where does the polyp's body come from? → **From the medusa's own cells, which change kind**
@@ -461,7 +461,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 - **s2 (3 min)**  
   *Parent does:* 1. Divide the whole ball into four equal eggs. 2. Put them on a plate. 3. Ask what a baby from a big egg starts life with.  
   *Parent says:* Four big eggs. Each one holds a lot of food. What does a baby from a big egg start life with?  
-  *Child mode:* Make four big eggs from the whole ball. What does a big egg give the baby?
+  *Child mode:* Make four big eggs from the whole ball. Put them on a plate.
   - Ask: What does a baby from a big egg start life with? (good: A big body and a store of food.; A better chance of living through the first days.)
 - **s3 (6 min)**  
   *Parent does:* 1. Roll the four eggs back into one ball. 2. Now pinch off pieces and roll eggs the size of the chana. 3. Keep going until the dough is used up. 4. Count the eggs.  
@@ -491,7 +491,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
   - Note: The fish line drops almost straight down and then runs along the bottom. That is correct. Biologists call the three shapes Type 1, Type 2 and Type 3.
 - **s4 (6 min)**  
   *Parent does:* 1. Ask when most deaths happen on each line. 2. Ask which line fits a human in India today, a sparrow and a salmon. 3. Ask which line fits a mother who lays 300 million eggs. 4. Ask which line humans had 200 years ago, when many children died young.  
-  *Parent says:* On each line, when do most of the hundred die? Which line fits us? Which fits a salmon? And which line do you think fitted humans 200 years ago?  
+  *Parent says:* On each line, when do most of the hundred die? Which line fits us? Which fits a salmon?  
   *Child mode:* When do most die on each line? Which line fits a human? A sparrow? A salmon?
   - Ask: Which line fitted humans 200 years ago, and what changed it? (good: Something between the bird line and the fish line, because many babies and children died.; Clean water, vaccines and medicines moved us to the elephant line.)
   - Note: A survival curve is not fixed for ever. In India around 1900, about one baby in five died before the age of one. Today about 97 in 100 live.
@@ -520,29 +520,29 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 - **s5 (2 min)**  
   *Parent does:* 1. Ask your child for the three sentences. 2. Ask where the water in the limp strip went. 3. Only then read the card 'From fresh water to salt water' together.  
   *Parent says:* Say what you thought, what you saw, and why. Where did the water from the limp strip go? What does that mean for a fish in the sea?  
-  *Child mode:* Say what you guessed and what you saw. Where did the water go? What about a fish in the sea?
+  *Child mode:* Say what you guessed, what you saw, and why. Then say what this means for a fish in the sea.
   - Ask: Where did the water from the limp strip go? (good: Out of the potato cells and into the salty water.; Water moved towards the saltier side.)
   - Check: A potato strip goes limp in very salty water. Why? → **Water moves out of the cells towards the salt**
 
 ## Projects
 ### p1 · The Dal Jar Watch: a whole life cycle inside one seed (if you find pulse beetles) (70 min, 36 days)
 - **safety:** Keep the jar and the cup covered with cloth, and well away from the shelf where food is stored, so that the beetles do not spread to other jars.
-- **record:** Keep a page for each visit, with the date, a drawing and your counts. On the last day write two numbers: the eggs you counted on the 20 seeds, and the holes in those same seeds. Then write the share of eggs that became adults.
+- **record:** Keep a page for each visit, with the date, a photo or drawing and your counts. On the last day write two numbers: the eggs you counted on the 20 seeds, and the holes in those same seeds. Then write the share of eggs that became adults.
 - **schedule:** day 1: Find the beetles. Set up the jar with holed seeds, live beetles and 60 clean seeds. (20 min); day 5: Take out 20 seeds that have eggs on them. Count the eggs with a hand lens. Keep these 20 seeds in the covered cup. (15 min); day 15: Look at the 20 seeds again. Look for eggs that have turned white, and for dark patches under the seed skin. (10 min); day 29: Count the round holes in the 20 seeds, and any adults in the cup. (10 min); day 36: Count the holes again. Work out the share of eggs that became adults. Empty the jar and the cup outdoors. (15 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Look in jars of old whole moong, cowpea or chana for seeds with small round holes, or ask at a grocery shop. 2. Put a handful of these seeds and at least five live beetles in the jar. 3. Add 60 clean seeds of the same kind. 4. Cover the jar with cloth and a rubber band. 5. Stand it in a warm, shaded place away from stored food. 6. Your child draws one beetle and one holed seed.  
-  *Parent says:* These beetles are adults. They will not eat anything now. What do you think the round holes in the seeds are? How do you think the holes got there?  
+  *Parent does:* 1. Look in jars of old whole moong, cowpea or chana for seeds with small round holes, or ask at a grocery shop. 2. Put a handful of these seeds and at least five live beetles in the jar. 3. Add 60 clean seeds of the same kind. 4. Cover the jar with cloth and a rubber band. 5. Stand it in a warm, shaded place away from stored food. 6. Your child looks closely at one beetle and one holed seed with the hand lens.  
+  *Parent says:* These beetles are adults. They will not eat anything now. What do you think made the round holes in the seeds?  
   *Child mode:* Find seeds with round holes and live beetles. Put them in the jar with 60 clean seeds. Cover the jar.
   - Note: If you find holed seeds and no live beetles, keep the seeds in the covered jar for two weeks. Adults often come out of seeds that look whole. If none come, skip this project.
 - **s2 (15 min)**  
   *Parent does:* 1. Tip some seeds onto a plate. 2. With the hand lens, find clean seeds that now have tiny white specks glued on. These are eggs. 3. Pick out 20 seeds with eggs. 4. Count every egg on the 20 seeds and write the total. 5. Put the 20 seeds in the cup and cover it with cloth.  
-  *Parent says:* Each white speck is one egg, glued to the seed by a mother. How many eggs are on our twenty seeds? How many adults do you think will come out of them? Why?  
+  *Parent says:* Each white speck is one egg, glued to the seed by a mother. Let's count every egg on our twenty seeds.  
   *Child mode:* Find 20 seeds with white specks. The specks are eggs. Count all the eggs. Write the number.
   - Ask: How many adults do you think will come out of these eggs, and why? (good: Fewer than the eggs, because some will not hatch.; Maybe only one from each seed, because a seed is small.)
   - Note: A female lays up to about a hundred eggs. Each egg is about half a millimetre long. Do not correct the guess.
   - Wait: Do this on day 5
 - **s3 (10 min)**  
-  *Parent does:* 1. Look at the 20 seeds with the hand lens. 2. Look for eggs that have turned from clear to solid white. 3. Hold a seed up to the light and look for a dark patch under the skin. 4. Draw what you see.  
+  *Parent does:* 1. Look at the 20 seeds with the hand lens. 2. Look for eggs that have turned from clear to solid white. 3. Hold a seed up to the light and look for a dark patch under the skin. 4. Take a photo of what you see, or tell your grown-up what you see.  
   *Parent says:* The young beetle never walks on the outside. So where do you think the young one went when the egg hatched?  
   *Child mode:* Look at the 20 seeds. Which eggs have turned white? Where did the young one go?
   - Note: The young beetle, called a larva, bites straight down through the bottom of the egg into the seed. The larva eats and grows inside the seed. An egg turns white when the larva has hatched and gone in.
@@ -555,8 +555,8 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
   - Wait: Do this on day 29
 - **s5 (15 min)**  
   *Parent does:* 1. Count the holes in the 20 seeds one last time. 2. Write the share: holes out of eggs. 3. Ask why some eggs did not become adults. 4. Take the jar and the cup outdoors. Empty them onto soil well away from the house.  
-  *Parent says:* How many of the eggs became adults? What do you think happened to the others? And why does an adult who lives ten days need no food?  
-  *Child mode:* Count the holes. How many eggs became adults? What happened to the rest?
+  *Parent says:* Let's find out how many of the eggs became adults.  
+  *Child mode:* Count the holes. Say how many eggs became adults.
   - Ask: Why did some eggs not become adults? (good: Some eggs did not hatch.; When several larvae share one small seed, there is not enough food for all.)
   - Ask: Why does the adult not need to eat? (good: The larva stored enough food in the body while inside the seed.; The adult only has to mate and lay eggs, and that takes a few days.)
   - Check: A pulse beetle adult lives about ten days and eats nothing. Which stage did the eating? → **The larva inside the seed**
@@ -565,7 +565,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 ## Challenges
 ### c1 · The Fish Pass: get a hilsa past a barrage (30 min)
 - **problem:** A barrage 12 centimetres high blocks your river. Build a path of pools from the top to the bottom. Water poured into the top pool must flow through every pool in turn. No drop between pools may be higher than 3 centimetres, because hilsa do not leap as salmon do.
-- **your turn:** Now design your own fish pass. Draw it first and label every drop with its height. Build it, pour one tumbler of water in at the top and watch. Where does the water run too fast for a fish? How would you slow it?
+- **your turn:** Now design your own fish pass. Plan it first by laying out the pools and saying each drop's height, or draw it and label every drop. Build it, pour one tumbler of water in at the top and watch. Where does the water run too fast for a fish? How would you slow it?
 - **constraints:** The top pool stands 12 centimetres above the bottom.; No drop from one pool to the next is more than 3 centimetres.; Every pool must hold water at least 1 centimetre deep, so that a fish could rest there.; The water must run from pool to pool, not spill onto the floor.
 - **general:** Make a stair of four or five katoris on piles of books, each one 3 centimetres lower than the last.; Tilt each katori a little towards the next, so that the water leaves from one side.; Fold a small foil spout on the rim of each pool, to guide the water into the next.
 - **creative:** Build one long, gentle channel that winds round the barrage like a side stream, lined with a wet towel. Real 'nature-like' fish passes work this way.; Build a zigzag, so that the stair fits into a small space.; Build a fish lift: a pool that is filled at the bottom, carried up by hand and emptied at the top. Some real dams have fish lifts.
@@ -580,14 +580,14 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
   *Child mode:* Pick an idea. Say why it should work. Build it. Measure each drop. Pour the water.
   - Ask: Why does a real fish pass have pools, and not just one long slope? (good: A fish can rest in each pool before the next climb.; The water slows down in each pool, so the fish is not swept back.)
 - **s3 (12 min)**  
-  *Parent does:* 1. Your child designs a pass of their own and draws it. 2. They build it and test it with one tumbler of water. 3. They check the four rules with the ruler. 4. They change one thing and test again.  
-  *Parent says:* Now design your own. Draw it first. After the test, change one thing to make it better, and say why you chose that thing.  
-  *Child mode:* Design your own fish pass. Draw it. Build it. Test it. Change one thing and test again.
+  *Parent does:* 1. Your child plans a pass of their own by laying out the pools, or by drawing it. 2. They build it and test it with one tumbler of water. 3. They check the rule with the ruler: no drop is more than 3 centimetres, and the water runs through every pool. 4. They change one thing and test again.  
+  *Parent says:* Now design your own. Plan it first. After the test, change one thing to make it better, and say why you chose that thing.  
+  *Child mode:* Design your own fish pass. Plan it, build it and test it. Change one thing and test again.
   - Note: The hard part is making the water leave each pool at one place. A small foil spout or a tilt solves it. Real hilsa are harder to help than this model suggests, and engineers are still testing designs for them.
   - Check: Why does a dam or barrage with no fish pass harm fish like hilsa and salmon? → **They cannot reach the places upstream where they spawn**
 ### c2 · Design a Life Cycle: fit a timetable to a home (25 min)
 - **problem:** Choose one home. Design an animal's timetable for it. Decide how many eggs, how big, how much care, how long the young stage lasts, when to breed and whether to breed once or many times. Give a reason for every choice.
-- **your turn:** Now draw your animal's life as a bar, like the Life Bars. Mark each stage and how long it lasts. Then swap homes: put your animal in one of the other two homes. What goes wrong first?
+- **your turn:** Now show your animal's life as a bar, like the Life Bars. Use a paper strip or a drawing. Mark each stage and how long it lasts. Then swap homes: put your animal in one of the other two homes. What goes wrong first?
 - **constraints:** Home 1: a rain pool that holds water for four months and is dry mud for eight months, every year.; Home 2: a forest full of hungry birds, where the only food for your young is thin sap in tree roots.; Home 3: the deep, cold sea floor, with very little food and very few predators.; Your animal has a fixed egg budget. She can have many small eggs or a few big ones, and not many big ones.
 - **general:** For the pool: grow up fast and breed before the water goes.; For the forest: come out in a big crowd, so that the birds cannot eat everyone.; For the deep sea: lay a few large eggs and guard them.
 - **creative:** For the pool: lay eggs that can wait in dry mud for months. Annual killifish do this.; For the forest: stay underground for many years, so that the birds cannot grow in number on you. Periodical cicadas do this.; For the deep sea: guard the eggs for a very long time. One deep-sea octopus was watched guarding her eggs for 53 months.
@@ -596,9 +596,9 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
   *Parent says:* Which home will you design for? What is the biggest danger there? What is the food like? Those two answers will shape everything.  
   *Child mode:* Choose a home. What is the biggest danger there? What is the food like?
 - **s2 (12 min)**  
-  *Parent does:* 1. Your child decides each part of the timetable and writes a reason beside it. 2. They draw the animal. 3. They draw the life as a bar, with each stage marked.  
+  *Parent does:* 1. Your child decides each part of the timetable and writes a reason beside it. 2. They tell you what the animal looks like. 3. They show the life as a bar on paper, with each stage marked.  
   *Parent says:* How many eggs, and how big? Will you guard them? How long is the young stage? Will you breed once or many times? Give me a reason for each.  
-  *Child mode:* Decide the eggs, the care, the young stage and the breeding. Write a reason for each. Draw the life bar.
+  *Child mode:* Decide the eggs, the care, the young stage and the breeding. Say a reason for each. Show the life as a bar.
   - Ask: Why did you choose to breed once, or many times? (good: Once, because the adult cannot live through the dry months anyway.; Many times, because the deep sea is safe and an adult can live long.)
 - **s3 (8 min)**  
   *Parent does:* 1. Read the usual and the creative solutions for the chosen home. 2. Compare them with your child's design. 3. Ask what would go wrong if the animal moved to one of the other homes.  

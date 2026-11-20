@@ -293,7 +293,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **s1 (4 min)**  
   *Parent does:* 1. Read the seven lines of the rule card aloud. 2. Remind your child of The Shadow That Runs Out. There each dark shadow ended at a fixed length. 3. Say that the Moon's dark shadow is about 375,000 km long. 4. Cut out the cards and give each player a score sheet.  
   *Parent says:* In The Shadow That Runs Out, every dark shadow had an end. The Moon's dark shadow ends about 375,000 kilometres behind it. If the ground is further away than that, what do people see?  
-  *Child mode:* The Moon's dark shadow is about 375,000 km long. If the ground is further away, the shadow misses. Cut out the cards.
+  *Child mode:* The Moon's dark shadow is about 375,000 km long. Think about what happens if the ground is further away. Cut out the cards.
 - **s2 (12 min)**  
   *Parent does:* Play by the rules. Read each card, write the eclipse and the reason, then turn the card over and score. Talk about any card that the players got wrong.  
   *Parent says:* Read the card. Is it Amavasya or Purnima? Is the Moon on the line? Then look at the distance. Write your answer and your reason.  
@@ -384,7 +384,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
   - Check: In sunlight a dark shadow ends about 108 widths behind a thing. Where does a 5 mm peppercorn's dark shadow end? → **About 54 cm behind it**
 - **s6 (6 min) · grown-up needed**  
   *Parent does:* 1. On a sunny day, find a patch of direct sunlight indoors or on a balcony. 2. Hold the paper so that it faces the Sun. 3. Hold the peppercorn on the stick in front of the paper, and move the stick slowly away. 4. Measure the distance from the peppercorn to the paper when the dark middle vanishes. Divide by the peppercorn's width.  
-  *Parent says:* Keep your back to the Sun and look only at the paper. Never look at the Sun. How far does the peppercorn's dark shadow reach in sunlight?  
+  *Parent says:* Never look at the Sun. How far does the peppercorn's dark shadow reach in sunlight?  
   *Child mode:* Do this on a sunny day. Keep your back to the Sun. Look only at the paper. Move the peppercorn away until the dark middle vanishes. Measure.
   - Note: Expect about 45 to 55 cm for a peppercorn, which gives a number near 100. The true value is 108. That number is the Sun's distance divided by the Sun's width. If no direct sunlight reaches your home, skip this step and use the number 108.
   - Wait: Do this on a day when direct sunlight comes into your home or onto your balcony
@@ -402,7 +402,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **s2 (3 min)**  
   *Parent does:* 1. Switch the torch off. 2. Ask your child what colour the viewers will say the card is. 3. Ask what they will say when a white strip is added. 4. Write both guesses and the reasons.  
   *Parent says:* The card is black. In a moment it will be the only thing lit in this room. What colour will people say it is? Why do you think so?  
-  *Child mode:* The card is black. Soon it will be the only lit thing. What colour will people say it is? Say why. Write your guess.
+  *Child mode:* Guess what colour people will say the card is. Say why. Write your guess.
   - Ask: Why do you think so? (good: Black, because the card is black. (A fair guess. The test will check it.); Grey, because the torch makes it brighter.; It might look light, because there is nothing to compare it with.)
 - **s3 (6 min)**  
   *Parent does:* 1. Bring in one viewer in the dark and seat them 2 metres from the card. 2. Switch on the torch. Ask what colour the card is. Write down their exact words. 3. Slide the white strip in front of the lower part of the card, inside the light. Ask again what colour the card is. 4. Take the strip away. Repeat with each viewer, one at a time.  
@@ -425,11 +425,11 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 
 ## Activities
 ### a1 · The Coin Eclipse: can a coin hide a steel plate? (15 min)
-- **record:** Write the width of the plate and of the coin, and the two distances from your eye. Draw what you saw when the coin was near, exactly right, and a little too far.
+- **record:** Write the width of the plate and of the coin, and the two distances from your eye. Draw what you saw when the coin was near, exactly right, and a little too far, or tell your grown-up what you saw.
 - **s1 (3 min)**  
   *Parent does:* 1. Prop the plate upright on a shelf or table, at the height of your child's eyes. 2. Measure 3 metres from the plate and mark the spot. 3. Give your child the coin. Ask if the coin can hide the whole plate, and how.  
   *Parent says:* The plate is about ten times as wide as this coin. Can the coin hide the whole plate from you? How? Why do you think so?  
-  *Child mode:* The plate is far wider than the coin. Can the coin hide the whole plate? Say how. Say why you think so.
+  *Child mode:* Hold the coin in front of you and look at the plate. Try to hide all of the plate.
   - Ask: Why do you think so? (good: Yes, if I hold the coin close to my eye.; A near thing looks bigger than a far thing.)
 - **s2 (5 min)**  
   *Parent does:* 1. Your child stands on the mark, closes one eye and holds the coin in front of the open eye. 2. They move the coin nearer and further until its edge just meets the edge of the plate. 3. The helper measures from the eye to the coin. 4. Divide the plate's width by the coin's width. Divide the plate's distance by the coin's distance.  
@@ -440,12 +440,12 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **s3 (4 min)**  
   *Parent does:* 1. From the matching place, your child moves the coin about 5 cm further from the eye. 2. Ask what they see round the coin. 3. Then they bring the coin 5 cm nearer than the matching place. Ask again.  
   *Parent says:* Move the coin a little further from your eye. What do you see round its edge? Now bring it nearer. What happens to the ring?  
-  *Child mode:* Move the coin a little further away. What shows round it? Now bring it nearer. What happens?
+  *Child mode:* Move the coin a little further away and look round its edge. Then bring it nearer.
   - Ask: What changed when the coin was a little further from your eye? (good: A ring of plate showed all round the coin.; The coin looked smaller, so it could not cover the plate.)
 - **s4 (3 min)**  
   *Parent does:* 1. Tell your child the numbers for the Sun and the Moon. The Sun is about 400 times as wide as the Moon. It is about 390 times as far away. 2. Say that the Moon's distance changes by a few parts in 100 during each month. 3. Ask what people will see when a far Moon passes in front of the Sun.  
   *Parent says:* The Sun is about 400 times as wide as the Moon, and about 390 times as far away. The Moon is sometimes nearer and sometimes further. What will a far Moon leave showing?  
-  *Child mode:* The Sun is 400 times as wide as the Moon. It is about 390 times as far. What will a far Moon leave showing?
+  *Child mode:* Think about the coin held a little too far. What was left showing round it?
   - Note: A near Moon covers the whole Sun, and the eclipse is total. A far Moon leaves a ring of Sun, and the eclipse is annular. Remind your child that this is done with a plate. Nobody should ever try it with the real Sun.
   - Check: The Moon passes exactly in front of the Sun while it is far from the Earth. What do people on the centre line see? → **A ring of Sun round a black Moon**
 ### a2 · Fit the Earth's Shadow: how wide is the Earth, in Moons? (25 min)
@@ -453,7 +453,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **s1 (5 min)**  
   *Parent does:* 1. Open a photograph of a partial lunar eclipse. 2. Ask your child what the dark part is, and what shape its edge has. 3. Ask if the edge belongs to a circle bigger or smaller than the Moon. Ask for a guess of how many Moons wide that circle is.  
   *Parent says:* The dark part is the Earth's shadow falling on the Moon. Look at its edge. Is it straight or curved? If you finished the curve into a full circle, how big would it be? Why do you think so?  
-  *Child mode:* The dark part is the Earth's shadow. Look at its edge. Is it curved? Guess how big the full circle would be. Say why.
+  *Child mode:* Look at the curved edge of the dark part. Guess how many Moons wide the full circle would be.
   - Ask: Why do you think so? (good: The edge is curved, but less sharply than the Moon's own edge. So the circle is bigger than the Moon.; The Earth is bigger than the Moon, so its shadow should be bigger.)
   - Note: Choose a photo where the shadow covers between a third and two-thirds of the Moon. The edge of the shadow is always a little blurred.
 - **s2 (8 min)**  
@@ -478,24 +478,24 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **s1 (6 min)**  
   *Parent does:* 1. Show your child the list of 12 eclipses. 2. Ask them to copy it, with solar eclipses in one colour and lunar eclipses in another. 3. Ask what they notice before they count anything.  
   *Parent says:* Here is every eclipse of three years. Copy the list. Colour the solar and lunar ones differently. What do you notice straight away?  
-  *Child mode:* Copy the list of 12 eclipses. Colour the solar ones and the lunar ones differently. What do you notice?
+  *Child mode:* Copy the list of 12 eclipses. Colour the solar ones and the lunar ones differently.
   - Ask: What do you notice? (good: They come in pairs, close together.; Each pair has one solar and one lunar eclipse.; There are long gaps with no eclipses.)
 - **s2 (8 min)**  
   *Parent does:* 1. Use the calendar to count the days between the two eclipses of each pair. 2. Count the days from the first eclipse of each pair to the first eclipse of the next pair. 3. Write every gap beside the list.  
   *Parent says:* Count the days inside each pair. Then count from one pair to the next. Which numbers keep coming back?  
-  *Child mode:* Count the days inside each pair. Then count from one pair to the next pair. Write every gap. Which numbers repeat?
+  *Child mode:* Count the days inside each pair. Then count from one pair to the next pair. Write every gap.
   - Ask: Which numbers keep coming back? (good: About 14 or 15 days inside a pair.; About 177 days from one pair to the next.)
   - Note: Inside the pairs the gaps are 14, 14, 15, 14, 14 and 16 days. That is half a Moon month, from Purnima to Amavasya or back. Now count from the first eclipse of one pair to the first of the next. The gaps are 177, 177, 177, 163 and 176 days. The gap of 163 days is from 7 September 2025 to 17 February 2026. There the solar eclipse came first, so that pair began half a Moon month early. Count lunar to lunar or solar to solar. Then every gap is 176 to 178 days, except one of 149 days.
 - **s3 (6 min)**  
   *Parent does:* 1. Ask why the pairs are half a Moon month apart. 2. Ask why the pairs come about 177 days apart. 3. Give the reasons in the parent note after your child has tried.  
   *Parent says:* A solar eclipse needs Amavasya, and a lunar eclipse needs Purnima. How far apart are those? And why might the pairs come about every six months?  
-  *Child mode:* A solar eclipse needs Amavasya. A lunar eclipse needs Purnima. How far apart are they? Why do pairs come every six months?
+  *Child mode:* A Moon month is about 30 days. How many days are there from Amavasya to Purnima?
   - Ask: Why do the pairs come about six months apart? (good: The Moon's path crosses the Earth's path at two points. The Sun lines up with one of them about every six months.; Eclipses can happen only in those weeks.)
   - Note: The Moon's path is tilted about 5 degrees. The Sun lines up with one of the two crossing points, the nodes, about every 173 days. Six Moon months are 177 days, which is the nearest whole number of Moon months. Sometimes the gap is five Moon months, or 148 days, to catch up.
 - **s4 (5 min)**  
   *Parent does:* 1. Ask your child to predict the first eclipse of 2027 from the solar eclipse of 12 August 2026. 2. They add 177 days on the calendar. 3. Tell them the real date and kind. 4. Ask what kind should come two weeks later.  
   *Parent says:* Start from the solar eclipse of the twelfth of August 2026. Add 177 days. What date do you reach? What kind of eclipse do you expect two weeks after that?  
-  *Child mode:* Start at 12 August 2026. Add 177 days. What date do you reach? What kind of eclipse comes two weeks later?
+  *Child mode:* Start at 12 August 2026. Count 177 days on the calendar. Write the date you reach.
   - Note: Adding 177 days to 12 August 2026 gives 5 February 2027. The real eclipse is an annular solar eclipse on 6 February 2027. A penumbral lunar eclipse follows on 20 February 2027. Your child has predicted an eclipse to within a day, with a calendar and a pencil.
   - Check: A lunar eclipse happens tonight. When is a solar eclipse most likely? → **About two weeks before or after**
 ### a4 · Aristarchus's Angle: how a small mistake moved the Sun (25 min)
@@ -523,45 +523,45 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
   - Ask: Was the method wrong, or the measurement? (good: The method was right. The angle was too close to 90 degrees to measure by eye.; He also could not tell the exact moment of the half Moon.)
   - Check: Aristarchus's angle was wrong by less than 3 degrees. How wrong was his distance to the Sun? → **About 20 times too small**
 ### a5 · Swap Places: the Earth seen from the Moon (15 min)
-- **record:** Draw the Earth as an astronaut on the Moon sees it at our Amavasya, at our half Moon and at our Purnima. Then draw what the astronaut sees during a total lunar eclipse.
+- **record:** For our Amavasya, our half Moon and our Purnima, write one word for the Earth as the astronaut sees it: full, half or dark. Then say what the astronaut sees during a total lunar eclipse.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand the ball on the tumbler at mark E. It is now the Earth. Turn its bare half to face the Sun wall. 2. Ask your child what the Moon looks like from the Earth when the Moon is at mark 0. 3. Ask what the Earth will look like from the Moon at that moment.  
   *Parent says:* In How Much of the Moon Is Lit, the ball at mark 0 showed no lit part. That was Amavasya. Now the ball is the Earth. What will an astronaut at mark 0 see? Why do you think so?  
-  *Child mode:* The ball is now the Earth. At mark 0 it is Amavasya for us. What does an astronaut there see? Say why.
+  *Child mode:* The ball is now the Earth. Stand it on the tumbler at mark E. Turn its bare half to the Sun wall.
   - Ask: Why do you think so? (good: The astronaut is on the Sun's side, so they look at the Earth's lit half.; It will be a full Earth.)
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child lies at mark 0 with one eye level with the ball and looks back at it. 2. They do the same from mark 90 and from mark 180. 3. They draw the Earth as seen from each mark.  
+  *Parent does:* 1. Your child lies at mark 0 with one eye level with the ball and looks back at it. 2. They do the same from mark 90 and from mark 180. 3. They point to the lit part of the Earth from each mark and say how much it is.  
   *Parent says:* Look back at the Earth from each mark. How much of it is lit? Compare that with what the Moon looked like from the Earth at the same mark.  
-  *Child mode:* Look at the Earth ball from marks 0, 90 and 180. How much is lit each time? Draw what you see.
+  *Child mode:* Look at the Earth ball from marks 0, 90 and 180. Point to the lit part each time.
   - Ask: How do the Earth's phases compare with the Moon's? (good: They are opposite. When we have no Moon, the astronaut has a full Earth.; The two lit shares add up to 100 percent.)
   - Note: From mark 0 your child sees the whole bare half, a full Earth. From mark 90 they see half. From mark 180 they see only the sock. A full Earth lights the Moon's night side. We see that light as earthshine, the faint glow on the dark part of a thin crescent Moon.
 - **s3 (5 min)**  
-  *Parent does:* 1. Ask what the astronaut sees during our total lunar eclipse, when the Moon is at mark 180 exactly in line. 2. Ask what the astronaut sees during our total solar eclipse, at mark 0 exactly in line. 3. Your child draws both. Then read the parent note.  
+  *Parent does:* 1. Ask what the astronaut sees during our total lunar eclipse, when the Moon is at mark 180 exactly in line. 2. Ask what the astronaut sees during our total solar eclipse, at mark 0 exactly in line. 3. Your child shows both with the ball, and says what they see. Then read the parent note.  
   *Parent says:* During our lunar eclipse, the Earth stands between the astronaut and the Sun. What does the astronaut see? During our solar eclipse, the astronaut looks at a full Earth. What is different about it?  
-  *Child mode:* In our lunar eclipse, the Earth hides the Sun from the astronaut. What do they see? In our solar eclipse, what is on the Earth?
+  *Child mode:* Say what the astronaut sees at mark 180, when the Earth hides the Sun. Say what is dark on the Earth at mark 0.
   - Note: In our lunar eclipse the astronaut sees the black Earth cover the Sun. The Earth looks nearly four times as wide as the Sun from there. A thin red ring of air glows all round the Earth. In our solar eclipse the astronaut sees a full Earth with one small dark spot moving across it. The spot is the Moon's shadow, at most about 270 km wide on an Earth 12,742 km wide.
   - Check: It is Purnima on the Earth. What does the Earth look like from the Moon? → **A dark Earth, with no lit part showing**
 
 ## Projects
 ### p1 · The Angle Diary: does the real Moon follow your graph? (62 min, 5 days)
 - **safety:** Never look at the Sun. Start each evening only after the Sun has gone below the horizon or behind the buildings.
-- **record:** Keep a table with the date, the days since Amavasya, and the angle in fists and in degrees. Add a drawing of the Moon and the percent lit that you judged. Plot the five points on your graph of percent lit against degrees.
+- **record:** Keep a table with the date, the days since Amavasya, and the angle in fists and in degrees. Add a photo or drawing of the Moon and the percent lit that you judged. Plot the five points on your graph of percent lit against degrees.
 - **schedule:** day 1: Three days after Amavasya, just after sunset: find out how many degrees your fist covers. Measure the Moon's angle from the sunset point. Draw the Moon and judge the percent lit. (12 min); day 2: Two evenings later: measure the angle, draw the Moon and judge the percent lit. (10 min); day 3: Two evenings later again: measure, draw and judge. (10 min); day 4: Two evenings later again: measure, draw and judge. (10 min); day 5: Two evenings later again: measure, draw and judge. Then plot your five points on the graph and compare. (20 min)
 - **s1 (12 min) · grown-up needed**  
-  *Parent does:* Day 1, three days after Amavasya, just after sunset. 1. Hold your fist at arm's length. Count how many fists fit from the horizon to straight overhead. 2. Divide 90 by that number. That is the number of degrees one fist covers. 3. Find the Moon. Step your fist from the sunset point to the Moon and count. 4. Draw the Moon and judge the percent lit.  
+  *Parent does:* Day 1, three days after Amavasya, just after sunset. 1. Hold your fist at arm's length. Count how many fists fit from the horizon to straight overhead. 2. Divide 90 by that number. That is the number of degrees one fist covers. 3. Find the Moon. Step your fist from the sunset point to the Moon and count. 4. Take a photo of the Moon, or draw it. Judge the percent lit.  
   *Parent says:* First we find out how big your fist is against the sky. Horizon to overhead is ninety degrees. Then we count fists from where the Sun went down to the Moon. How much of the Moon looks lit?  
   *Child mode:* Wait until the Sun has set. Count fists from the horizon to overhead. Divide 90 by that number. Then count fists from the sunset point to the Moon.
   - Ask: From your graph, how much of the Moon should be lit at this angle? (good: At about 35 degrees, about 10 percent.; A thin crescent.)
   - Note: Most people count 9 fists from the horizon to overhead, so one fist covers about 10 degrees. Three days after Amavasya the Moon is about 35 degrees from the Sun. It shows a thin crescent, about 10 percent lit. If clouds hide the Moon, read its angle from the Sun in a free sky program such as Stellarium Web. Carry on the next clear evening.
 - **s2 (30 min) · grown-up needed**  
-  *Parent does:* Days 2, 3 and 4, two evenings apart. 1. Go out just after sunset. 2. Count the fists from the sunset point to the Moon. Change the fists to degrees. 3. Draw the Moon. Judge the percent lit: about 10, 25, 50, 75 or 90. 4. Before you look, use your graph to predict the percent from the angle.  
+  *Parent does:* Days 2, 3 and 4. Each visit is two evenings after the one before. 1. Go out just after sunset. 2. Count the fists from the sunset point to the Moon. Change the fists to degrees. 3. Take a photo of the Moon, or draw it. Judge the percent lit: about 10, 25, 50, 75 or 90. 4. Before you look, use your graph to predict the percent from the angle.  
   *Parent says:* How far has the Moon moved from the Sun in two days? Use your graph to predict how much will be lit. Then look and see.  
-  *Child mode:* Go out after sunset. Count fists from the sunset point to the Moon. Predict the percent lit from your graph. Then look, and draw the Moon.
+  *Child mode:* Go out after sunset. Count fists from the sunset point to the Moon. Predict the percent lit from your graph. Then look, and photograph or draw the Moon.
   - Ask: How many degrees did the Moon move in two days? (good: About 24 degrees, a little over two fists.; About 12 degrees a day.)
   - Note: Expect about 60 degrees and 25 percent on day 5 after Amavasya. Expect about 85 degrees and nearly 50 percent on day 7. Expect about 110 degrees and about 65 percent on day 9. Measuring ten or more fists across the sky is rough. An error of one fist is normal.
   - Wait: Do this every second evening for about a week
 - **s3 (20 min) · grown-up needed**  
-  *Parent does:* Day 5 of the diary. 1. Measure, predict, draw and judge once more. 2. Plot all five evenings as points on the graph from How Much of the Moon Is Lit. 3. Ask your child how well the real Moon follows the line. 4. Ask what could explain the points that are off the line.  
+  *Parent does:* Day 5, two evenings after day 4. 1. Measure, predict, photograph or draw, and judge once more. 2. Plot all five evenings as points on the graph from How Much of the Moon Is Lit. 3. Ask your child how well the real Moon follows the line. 4. Ask what could explain the points that are off the line.  
   *Parent says:* Plot your five evenings on the graph. Do the points follow the line from the sock Moon? Where they do not, what might be the reason?  
   *Child mode:* Plot your five evenings on your graph. Do the points follow the line? Say why some might be off.
   - Ask: What might explain a point that is off the line? (good: My fist is a rough ruler, and I may have miscounted.; Judging the percent lit by eye is hard.; I measured from the sunset point, but the Sun had already moved a little below the horizon.)
@@ -588,7 +588,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **s3 (10 min)**  
   *Parent does:* 1. Compare the test with the sum. 2. Tell your child about the two spacecraft in the parent note. 3. Ask your child to work out the length of the dark shadow of their disc in sunlight.  
   *Parent says:* Did the smallest disc that worked match your sum? In space, engineers have done this with a disc 1.4 metres wide. How long is its dark shadow in sunlight?  
-  *Child mode:* Did your sum match the test? A disc in space is 1.4 metres wide. Multiply by 108. How long is its dark shadow?
+  *Child mode:* Did your sum match the test? A disc in space is 1.4 metres wide. Multiply by 108.
   - Ask: How long is the dark shadow of a disc 1.4 metres wide in sunlight? (good: 1.4 times 108 is about 151 metres.)
   - Note: Proba-3 is a pair of European spacecraft, launched from Sriharikota on an Indian PSLV rocket in December 2024. One carries a disc about 1.4 metres wide. The other flies about 150 metres behind it, just inside the tip of the dark shadow, and photographs the corona. India's Aditya-L1 does the same job with a small disc inside its own telescope.
   - Check: A disc must keep a telescope in full shadow from further away. What must change? → **The disc must be wider**
@@ -606,13 +606,13 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Stand with your back to the Sun, in direct sunlight. 2. Hold the stick with the Moon end towards the Sun. Aim it until the peppercorn's shadow falls on the Earth ball. 3. Look at the shadow on the ball. Is there a dark dot, or only a grey smudge? 4. Tip the stick slowly until the shadow leaves the ball. Measure how far the far end moved.  
   *Parent says:* Keep your back to the Sun. Look only at the Earth ball. Can you land the Moon's shadow on it? What does the shadow look like? How far can you tip the stick before it misses?  
-  *Child mode:* Keep your back to the Sun. Aim the stick. Land the Moon's shadow on the Earth ball. Is it a dark dot or a grey smudge?
+  *Child mode:* Keep your back to the Sun. Aim the stick. Land the Moon's shadow on the Earth ball.
   - Ask: What does the Moon's shadow look like on the Earth ball? (good: A small grey smudge, with hardly any dark middle.; It is tiny, and it is hard to keep on the ball.)
   - Note: A peppercorn's dark shadow in sunlight is 54 to 65 cm long, depending on its width. So at 60 cm you get a pale smudge, or a dark dot smaller than a pinhead. That is true to life. The real dark shadow only just reaches the Earth. The shadow leaves the ball when the far end of the stick moves 1 to 2 cm.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Turn the stick end for end, so that the Earth ball is towards the Sun. 2. Aim it until the Earth ball's shadow covers the peppercorn. 3. Tip the stick slowly until the peppercorn comes out of the dark shadow. Measure how far the far end moved. 4. Ask your child which eclipse was easier to make, and why.  
   *Parent says:* Now let the Earth's shadow fall on the Moon. How much of the peppercorn is covered? Which eclipse was easier to make? Why do you think so?  
-  *Child mode:* Turn the stick round. Let the Earth's shadow cover the peppercorn. Which eclipse was easier to make? Say why.
+  *Child mode:* Turn the stick round. Let the Earth's shadow cover the peppercorn.
   - Ask: Which eclipse was easier to make, and why? (good: The lunar eclipse. The Earth's dark shadow is much wider than the Moon.; For the solar eclipse the dark dot is tiny, so the aim must be nearly perfect.)
   - Note: At 60 cm the Earth ball's dark shadow is about 1.4 cm wide, about 2.6 times the peppercorn. So the whole Moon goes dark, and it stays dark while the stick tips a little. The real Moon's path is tilted 5 degrees. On this model that lifts the Moon about 5 cm above the line, far enough for both shadows to miss.
   - Check: On a true-scale model, why is a lunar eclipse easier to make than a solar eclipse? → **The Earth's dark shadow is much wider than the Moon's**

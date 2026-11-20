@@ -511,7 +511,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a card game about the nine organ systems. You put each organ card on the mat of its system. Ten of the 24 organs belong on two mats, and finding the second mat earns a bonus point.",
+      "context": "This is a card game about the nine organ systems. You will find out that one organ can have more than one job. You put each organ card on the mat of its system. Ten of the 24 organs belong on two mats, and finding the second mat earns a bonus point.",
       "printables": [
         {
           "kind": "cards",
@@ -668,7 +668,7 @@
           "mins": 12,
           "do": "1. Take turns to read the top card. 2. Put it on a system and give a reason. 3. Name a second system if you think there is one. 4. Turn the card over and score.",
           "say": "Read the card aloud. Which system is this organ in? Why? Does it also work for another system?",
-          "kid": "Read the card. Put it on a system. Say why. Name a second system if you can. Turn it over.",
+          "kid": "Put the card on a mat. Then turn it over to check.",
           "ask": [
             {
               "q": "Why does the thigh bone belong to the circulatory system as well as the skeleton?",
@@ -821,7 +821,7 @@
           "mins": 10,
           "do": "1. Turn over an event card and read it aloud. 2. Take turns to name a system and say what it does. 3. Push that token forward. 4. When nobody can add one, read the back. 5. Play six cards.",
           "say": "Read the event. Name one system that helps, and say exactly what it does. Who can add another?",
-          "kid": "Read the event. Name a system that helps. Say what it does. Then the next player goes.",
+          "kid": "Take your turn. Name a system and say what it does. Then the next player goes.",
           "ask": [
             {
               "q": "Which system was named for almost every event? Why?",
@@ -862,7 +862,7 @@
       "title": "One Breath Count: how long can you count aloud on one breath?",
       "mins": 40,
       "days": 1,
-      "context": "In this experiment you time how long you can count aloud on one breath. You do it sitting at rest, straight after one minute of step-ups, and again 1, 2 and 3 minutes later.",
+      "context": "In this experiment you find out whether your breath gets shorter after exercise, and how long it takes to come back. You time how long you can count aloud on one breath. You do it sitting at rest, straight after one minute of step-ups, and again 1, 2 and 3 minutes later.",
       "question": "How long can you count aloud on one breath at rest? Does the time change straight after exercise? If it changes, how quickly does it come back?",
       "predict": "Guess first. You will count aloud on one breath at rest, and again straight after one minute of step-ups. Will the second time be longer, shorter or the same? How many minutes will it take to come back? Why do you think so? Write your guess and your reason.",
       "fair_test": "The same person counts every time, sitting down, in a normal talking voice, at the same speed. Start every count with one full breath in. Do the same step-ups for the same time, one minute, in both runs. Only one thing changes: how long ago the exercise ended. Do three tries at rest and two whole runs, because one try can be a fluke.",
@@ -960,7 +960,7 @@
           "mins": 4,
           "do": "1. Explain the test. 2. Ask for a guess and a reason. 3. Write both in the notebook.",
           "say": "We will time how long you can count aloud on one breath. First you sit still. Then you do step-ups for a minute and count again. Will the time be the same? Why do you think so?",
-          "kid": "You will count aloud on one breath. First at rest, then after step-ups. Will the times be the same? Why? Write your guess.",
+          "kid": "You will count aloud on one breath, first at rest and then after step-ups. Will the times be the same? Write your guess.",
           "ask": [
             {
               "q": "Why do you think the time will change, or stay the same?",
@@ -1092,7 +1092,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw a table with four rows: beans alone, threes alone, beans with threes, and beans with a song. Write the beans moved and the right answers for both tries.",
+      "record": "Make a table with four rows: beans alone, threes alone, beans with threes, and beans with a song. Write the beans moved and the right answers for both tries.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -1369,7 +1369,7 @@
       "title": "Say It While You Swallow: three things to notice in your throat",
       "mins": 10,
       "days": 1,
-      "context": "This is a short activity to notice what your throat does, before you learn about it. You feel a swallow with your fingers and try to make a sound while you swallow. You also hum with your nose pinched.",
+      "context": "In this activity you find out what your throat does when you swallow and when you hum, before you learn why. You feel a swallow with your fingers and try to make a sound while you swallow. You also hum with your nose pinched.",
       "materials": [
         {
           "item": "your own throat, nose and voice",
@@ -1428,7 +1428,7 @@
           "mins": 2,
           "do": "1. Ask what your child noticed and what they wonder. 2. Write two questions in the notebook. 3. Keep them for the end of the unit.",
           "say": "What did you notice in these three tries? What do you wonder about your throat and your voice?",
-          "kid": "What did you notice? What do you wonder? Write two questions.",
+          "kid": "Tell your grown-up one thing you noticed. Then write two questions you wonder about.",
           "ask": [
             {
               "q": "What do you wonder?",
@@ -1449,7 +1449,7 @@
       "title": "The Hundred Beans: where does the blood go when you run?",
       "mins": 20,
       "days": 1,
-      "context": "In this activity each bean stands for one small tumbler of blood pumped in a minute. You share the beans among the organs, first for a body at rest and then for a body running hard.",
+      "context": "In this activity you find out where your blood goes when you run, and which organs get less. Each bean stands for one small tumbler of blood pumped in a minute. You share the beans among the organs, first for a body at rest and then for a body running hard.",
       "materials": [
         {
           "item": "rajma, chana or any large beans",
@@ -1468,7 +1468,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw a table with seven rows, one for each place. Write your guess and the real number of beans, at rest and in hard exercise.",
+      "record": "Make a table with seven rows, one for each place. Write your guess and the real number of beans, at rest and in hard exercise.",
       "example_chart": {
         "type": "table",
         "title": "Blood pumped each minute in a grown-up, in beans. One bean is 200 millilitres",
@@ -1570,7 +1570,7 @@
           "id": "s4",
           "mins": 4,
           "do": "1. Read out the real shares in hard exercise. 2. Your child moves the beans to match. Muscles 80, skin 6, brain 4, heart muscle 4, gut and liver 2, kidneys 2, everything else 2. 3. Write the numbers in the table.",
-          "say": "Here are the real shares. Muscles 80, skin 6, brain 4, heart muscle 4, gut and liver 2, kidneys 2, everything else 2. Compare each bowl with the rest round.",
+          "say": "Here are the real shares. Muscles 80, skin 6, brain 4, heart muscle 4, gut and liver 2, kidneys 2, everything else 2. Compare each bowl with the resting round.",
           "kid": "Move the beans to the real shares. Compare each bowl with before.",
           "context": "In this step of the Hundred Beans, you set out the real shares of blood in hard exercise."
         },
@@ -1601,7 +1601,7 @@
       "title": "Your Largest Organ: measure your skin with one hand",
       "mins": 20,
       "days": 1,
-      "context": "In this activity you find the area of your hand by counting squares. Doctors use the rule that one hand covers about one hundredth of a person's skin. You use the rule to work out how much skin you have.",
+      "context": "In this activity you find out how much skin you have. You find the area of your hand by counting squares. Doctors use the rule that one hand covers about one hundredth of a person's skin. You use the rule to work out how much skin you have.",
       "materials": [
         {
           "item": "plain paper, about A4 size",
@@ -1696,7 +1696,7 @@
       "title": "The Handover Map: draw what each system gives the next",
       "mins": 20,
       "days": 1,
-      "context": "In this activity you draw one job, climbing three floors of stairs, as a map of boxes and arrows. Each arrow shows what one organ hands to another: oxygen, sugar, carbon dioxide, heat or a signal.",
+      "context": "In this activity you find out how many organs work together when you climb stairs. You draw the job as a map of boxes and arrows. Each arrow shows what one organ hands to another: oxygen, sugar, carbon dioxide, heat or a signal.",
       "materials": [
         {
           "item": "a large sheet of paper, such as the back of an old calendar page",
@@ -1726,9 +1726,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "1. Write the job at the top: 'Climb three floors of stairs'. 2. Draw eight boxes in a ring. 3. Label them: Brain and nerves, Leg muscles and bones, Lungs, Heart and blood, Small intestine, Liver, Skin, Kidneys.",
+          "do": "1. Write the job at the top: 'Climb three floors of stairs'. 2. Make eight boxes in a ring: draw them, or lay eight torn paper slips. 3. Label them: Brain and nerves, Leg muscles and bones, Lungs, Heart and blood, Small intestine, Liver, Skin, Kidneys.",
           "say": "We will draw everything your body does to climb three floors. Each box is an organ or a pair of organs.",
-          "kid": "Write the job at the top. Draw eight boxes in a ring. Label them.",
+          "kid": "Write the job at the top. Make eight boxes in a ring. Label them.",
           "context": "This is the first step of the Handover Map. You draw eight boxes for the organs that help you climb stairs."
         },
         {
@@ -1736,7 +1736,7 @@
           "mins": 8,
           "do": "1. Ask your child what the leg muscles need, and where each thing comes from. 2. For each answer, draw an arrow between two boxes. 3. Write on the arrow what is handed over. 4. Use one colour for things carried in the blood, one for nerve signals and one for wastes and heat.",
           "say": "What do your leg muscles need in order to work? Where does each thing come from? What do the muscles give back?",
-          "kid": "What do your leg muscles need? Where does it come from? Draw an arrow for each handover.",
+          "kid": "Find where each thing comes from. Draw an arrow for each handover, or point and say it.",
           "ask": [
             {
               "q": "What do working muscles hand back to the blood?",
@@ -1761,9 +1761,9 @@
         {
           "id": "s4",
           "mins": 3,
-          "do": "1. In a corner of the map, sketch the heart as four boxes: two above and two below. 2. Your child traces the path of the blood with a finger and says each chamber aloud.",
+          "do": "1. In a corner of the map, lay four small torn paper squares as the heart: two above (the atria) and two below (the ventricles). Label the top two 'right atrium' and 'left atrium', and the bottom two 'right ventricle' and 'left ventricle'. The right ones go on the left, as the heart faces you. 2. Your child traces the path of the blood with a finger and says each chamber aloud.",
           "say": "Trace the blood with your finger. Start in the right atrium. Say each chamber and each stop until you are back.",
-          "kid": "Sketch the heart as four boxes. Trace the blood round both loops. Say each chamber.",
+          "kid": "Lay four paper squares as the heart. Trace the blood round both loops. Say each chamber.",
           "check": {
             "t": "mcq",
             "q": "Blood leaves the right ventricle. Where does it go next?",
@@ -1786,7 +1786,7 @@
       "title": "The Layer Book: nine systems on see-through pages",
       "days": 3,
       "mins": 60,
-      "context": "In this three-day project you draw the organ systems on see-through pages, a few systems to a page. Then you stack the pages over one body outline and look for organs that appear on two pages.",
+      "context": "In this three-day project you build the organ systems on see-through pages, a few systems to a page. Simple shapes are fine, and you may cut organs from coloured paper instead of drawing them. Then you stack the pages over one body outline and look for organs that appear on two pages.",
       "materials": [
         {
           "item": "plain paper, about A4 size, for the body outline",
@@ -1865,7 +1865,7 @@
           "id": "s3",
           "mins": 20,
           "do": "1. Day 3. On page 4, draw the kidneys, ureters and bladder, and the reproductive organs. 2. On page 5, draw the brain in three parts, the spinal cord, and the glands: thyroid, adrenals, pancreas, and ovaries or testes. 3. Stack all five pages over the outline and staple them at the top. 4. Look through the stack. Put a star by every organ that appears on two pages.",
-          "say": "Today you finish the book. Hold the stack up to the light. Which organs did you draw twice? Why did you have to?",
+          "say": "Today you finish the book. Hold the stack up to the light and look through it.",
           "kid": "Draw pages 4 and 5. Stack all the pages. Star each organ that you drew on two pages.",
           "wait": "Do this the day after you draw the lungs and the heart",
           "ask": [
@@ -1918,7 +1918,7 @@
         "Build a whale's design: two separate openings and no switch at all. Then say what a whale gives up.",
         "Add a puff test. Blow down the top and check that the air comes out on the lung side."
       ],
-      "your_turn": "Now design a throat that needs no thread. It must sort beans from paper balls with no help from you. Draw it, build it and test it with 10 beans and 10 paper balls. Write how many went the right way.",
+      "your_turn": "Now design a throat that needs no thread. It must sort beans from paper balls with no help from you. Plan it with a quick sketch or by telling your grown-up, then build it and test it with 10 beans and 10 paper balls. Write how many went the right way.",
       "setup": [
         {
           "art": "An upright cardboard tube taped to a sheet of cardboard, with two cups below it side by side, one labelled Stomach and one labelled Lungs.",
@@ -1939,7 +1939,7 @@
           "mins": 5,
           "do": "1. Read the problem together. 2. Recall Say It While You Swallow, where the bump in the throat jumped up at each swallow. 3. Ask what the real throat does to keep food out of the windpipe.",
           "say": "In Say It While You Swallow, your voice box jumped up at every swallow. What was it doing? How could a model do the same job?",
-          "kid": "Your voice box jumped up when you swallowed. Why? How could a model do that job?",
+          "kid": "Think about how a model could do the same job.",
           "ask": [
             {
               "q": "What stops food going down the windpipe?",

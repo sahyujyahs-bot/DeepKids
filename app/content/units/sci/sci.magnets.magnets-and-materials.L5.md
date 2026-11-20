@@ -262,14 +262,14 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 - **Printable cards: 20 alloy cards to cut out (the answer is on the back):** Nail steel. Used for nails, pins and paper clips. Recipe: iron with a little carbon. Will a magnet attract it? (back: Yes. It is nearly all iron, packed as in plain iron.); Cast iron. Used for a tawa or a kadai. Recipe: iron with 2 to 4 parts carbon in 100. Will a magnet attract it? (back: Yes. The carbon makes it hard and brittle, and the iron atoms still line up.); Coin steel. Used for one-rupee and two-rupee coins. Recipe: iron with about one sixth chromium. Will a magnet attract it? (back: Yes. The chromium stops rust and leaves the packing of plain iron.); Kitchen stainless steel. Used for plates, tumblers and tiffin boxes. Recipe: iron, chromium and nickel or manganese. Will a magnet attract it? (back: No, or only faintly. The extra metals change the packing of the iron atoms.); Brass. Used for lamps, bells and keys. Recipe: copper and zinc. Will a magnet attract it? (back: No. Neither copper nor zinc is magnetic, and nor is their alloy.); Bronze. Used for temple bells and statues. Recipe: copper and tin. Will a magnet attract it? (back: No. Neither metal is magnetic, and nor is their alloy.); Cupronickel. Used for the centre of a ten-rupee coin. Recipe: three parts copper and one part nickel. Will a magnet attract it? (back: No. The nickel atoms sit among copper atoms and do not line up.); Nickel-brass. Used for the golden five-rupee coin. Recipe: copper, zinc and a little nickel. Will a magnet attract it? (back: No. It holds far too little nickel, spread among the other atoms.); Aluminium-bronze. Used for the golden ring of a ten-rupee coin. Recipe: copper with a little aluminium. Will a magnet attract it? (back: No. Neither metal is magnetic, and nor is their alloy.); 22-carat gold. Used for bangles and chains. Recipe: 91.6 parts gold in 100, with copper and silver. Will a magnet attract it? (back: No. None of the three is magnetic. A clasp may stick, because of a steel spring.); German silver. Used for trays, zips and some musical instruments. Recipe: copper, zinc and nickel, with no silver at all. Will a magnet attract it? (back: No. The nickel is spread among copper and zinc atoms.); Solder. Used to join wires in a radio or a phone. Recipe: mostly tin, with a little copper or lead. Will a magnet attract it? (back: No. None of these metals is magnetic.); Duralumin. Used for the bodies of aeroplanes. Recipe: aluminium with a little copper. Will a magnet attract it? (back: No. Neither metal is magnetic. It is chosen because it is light and strong.); Alnico. Used in old loudspeakers and guitar pickups. Recipe: iron with aluminium, nickel and cobalt. Will a magnet attract it? (back: Yes, strongly. It is one of the alloys that permanent magnets are made from.); Manganese steel. Used for railway crossings and rock crushers. Recipe: iron with about 13 parts manganese in 100. Will a magnet attract it? (back: Hardly at all. It is mostly iron, but the manganese changes the packing of the atoms.); Heusler's alloy. Made first in 1903, and studied in laboratories. Recipe: copper, manganese and aluminium. Will a magnet attract it? (back: Yes, strongly. None of its metals is magnetic. In this ordered pattern the manganese atoms line up.); Nichrome. Used for the glowing wire in a heater or a toaster. Recipe: four parts nickel and one part chromium. Will a magnet attract it? (back: No. It is mostly nickel, yet the chromium stops the nickel atoms lining up.); Permalloy. Used to shield instruments from magnetic fields. Recipe: four parts nickel and one part iron. Will a magnet attract it? (back: Yes, very easily. Both metals are magnetic, and this mix lines up at the lightest touch of a field.); Neodymium magnet alloy. Used in earphones, motors and hard disks. Recipe: neodymium, iron and boron. Will a magnet attract it? (back: Yes, strongly. It makes the strongest permanent magnets in common use.); Invar. Used in precise clocks and measuring tapes. Recipe: about two parts iron and one part nickel. Will a magnet attract it? (back: Yes. Both metals are magnetic. It is chosen because it hardly grows when warmed.)
 - **Printable tokens: 2 bet mats for each player to copy: YES and NO:** YES: a magnet attracts it; NO: a magnet does not attract it
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the 20 cards. 2. Each player writes YES and NO on two slips of paper. 3. Count 10 beans for each player and 40 for the bank. 4. Shuffle the cards and pile them recipe side up.  
+  *Parent does:* 1. Cut out the 20 cards. 2. Each player writes YES on one slip of paper and NO on another. 3. Count 10 beans for each player and 40 for the bank. 4. Shuffle the cards and pile them recipe side up.  
   *Parent says:* Each card is the recipe of an alloy. We bet on whether a magnet attracts it. Some recipes will trick us.  
-  *Child mode:* Cut out the cards. Make a YES mat and a NO mat. Take 10 beans. Shuffle the cards.
+  *Child mode:* Cut out the cards. Write YES and NO on two slips. Take 10 beans. Shuffle the cards.
 - **s2 (12 min)**  
-  *Parent does:* 1. Read the top card aloud. 2. Each player bets 1 or 2 beans, hidden by a hand. 3. Turn the card and read the reason. 4. Pay the bets from the bank.  
+  *Parent does:* 1. Read the top card aloud. 2. Each player bets 1 or 2 beans, hidden by a hand. 3. Turn the card and read the reason. 4. Pay the bets: a right bet wins the same number of beans from the bank, and a wrong bet pays them to the bank.  
   *Parent says:* Bet 2 beans when you feel sure, and 1 when you are guessing. Listen to the reason on the back each time.  
   *Child mode:* Read the card. Bet 1 or 2 beans on YES or NO. Turn the card. Read the reason.
-  - Ask: Nichrome is mostly nickel, and nickel is magnetic. Why did betting YES lose? (good: The chromium stops the nickel atoms lining up.; You cannot tell from the list of metals.)
+  - Ask: Nichrome is mostly nickel, and nickel is magnetic. But a magnet does not attract nichrome. Why? (good: The chromium stops the nickel atoms lining up.; You cannot tell from the list of metals.)
   - Note: Most players lose beans on nichrome, manganese steel and Heusler's alloy. That is the point of the game. Ask what the recipe made them expect.
 - **s3 (4 min)**  
   *Parent does:* 1. Count the beans. 2. Lay out the cards that tricked the most players. 3. Sort all 20 cards into two heaps: the recipe gave the answer away, and the recipe did not.  
@@ -285,7 +285,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
   *Child mode:* Shuffle the target cards. Cover the bowl of coins. Tie the magnet to the thread. Which coins will it catch?
   - Note: Use the strongest small magnet you have. A thin bendy fridge magnet lifts one coin at most. A round black magnet from a magnet set lifts several.
 - **s2 (9 min)**  
-  *Parent does:* 1. Take turns. 2. Each player takes a target card and dips. 3. Count the catch aloud. 4. Dip again, shake once, or stop.  
+  *Parent does:* 1. Take turns. 2. Each player takes a target card and dips. 3. Count the catch aloud. 4. Dip again, shake once, or stop. 5. A player keeps the card only if the catch adds up exactly to it.  
   *Parent says:* Count your catch aloud. You have 5 rupees and need 7. Will you dip again or shake some off?  
   *Child mode:* Take a card. Dip the magnet. Add up your coins. Dip again or stop.
   - Ask: You need 5 rupees. Can you catch a five-rupee coin with this rod? (good: No. The magnet does not attract the golden five-rupee coin.; I have to make 5 from ones and twos.)
@@ -304,7 +304,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 - **record:** Fill in one row of the table for every coin. Then write three counts: how many coins of each value the magnet lifted, how many of each colour, and the oldest and newest year for 'yes' and for 'no'. Last, write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Value of the coin | Year on the coin | Colour | Does the magnet lift it?
 - **s1 (7 min)**  
-  *Parent does:* 1. Collect coins from purses, a piggy bank and drawers. 2. Sort them into rows by value. 3. Draw the table with four columns. 4. Write the value, the year and the colour of each coin.  
+  *Parent does:* 1. Collect coins from purses, a piggy bank and drawers. 2. Sort them into rows by value. 3. Draw a table with four columns: value, year, colour and magnet (yes or no). 4. Write the value, the year and the colour of each coin.  
   *Parent says:* Let's find every coin in the house. Each coin has a year near its edge. Write the value, the year and the colour.  
   *Child mode:* Collect all the coins. Sort them by value. Write each coin's value, year and colour.
   - Note: The year is small. Use a magnifying glass, or take a phone photo and zoom in. For colour, write 'silver', 'golden' or 'both'. Ask an older relative or a neighbour for old coins, if you can.
@@ -316,7 +316,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
   - Note: Do not correct the guess. In Four Coins and a Magnet your child saw only four coins. Many children now expect value to work every time.
 - **s3 (10 min)**  
   *Parent does:* 1. Lay the first coin flat on the table. 2. Lower the magnet until it touches the coin. 3. Lift the magnet 5 centimetres. 4. Write 'yes' or 'no'. 5. Do the same for every coin.  
-  *Parent says:* Use the same face of the magnet each time. Lift it as high as this mark on the ruler. Write the answer at once.  
+  *Parent says:* Use the same face of the magnet each time. Lift it about as high as three fingers side by side. Write the answer at once.  
   *Child mode:* Lay a coin flat. Touch it with the magnet. Lift the magnet 5 cm. Write yes or no.
   - Note: If the magnet is weak, a coin may lift and then drop. Count a lift of 5 centimetres as yes. On a ten-rupee coin, also touch the edge of the magnet to the ring and to the centre.
 - **s4 (8 min)**  
@@ -346,7 +346,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 - **record:** Fill in the table for all 12 things. Under it, write each clue as a rule and count the things that fit it and the things that break it. Then write three sentences: what you thought would happen, what you saw, and why it happened.
 - **results table:** Metal thing | Silver-coloured? | Shiny? | Called steel? | Magnet: yes, weak or no
 - **s1 (5 min)**  
-  *Parent does:* 1. Collect 12 metal things from the list. 2. Lay them in a row. 3. Draw the table with five columns. 4. Write the name of each thing.  
+  *Parent does:* 1. Collect 12 metal things from the list. 2. Lay them in a row. 3. Draw a table with five columns: name, silver-coloured, shiny, called steel, and magnet. 4. Write the name of each thing.  
   *Parent says:* We need 12 things made of metal. Let's choose some that look alike and some that look very different.  
   *Child mode:* Collect 12 metal things. Lay them in a row. Draw the table. Write each name.
   - Note: Be sure to include a one-rupee coin and a steel plate. They matter in the last step. Any 12 metal things will do for the rest.
@@ -368,13 +368,13 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
   - Note: A steel tumbler may hold faintly near its rim or base. A steel plate usually gives nothing. If every steel vessel holds strongly, your vessels are a different stainless steel. Borrow a plate from a neighbour for the last step.
 - **s5 (7 min)**  
   *Parent does:* 1. Take the rule 'silver-coloured things are magnetic'. 2. Count the things that fit it. 3. Count the things that break it, both ways. 4. Do the same for the other two rules.  
-  *Parent says:* A thing breaks the rule if it is silver-coloured and not attracted. It also breaks the rule if it is attracted and not silver-coloured.  
+  *Parent says:* A thing breaks a rule when its clue and the magnet disagree. For the silver rule, that is a silver thing the magnet leaves. Or it is a thing that is not silver that the magnet holds.  
   *Child mode:* Take one rule. Count the things that fit it. Count the things that break it. Do all three rules.
   - Ask: How many things does it take to show that a rule is wrong? (good: One is enough.; The foil alone breaks the silver rule.)
   - Note: Count 'weak' as not attracted for this step. Expect every rule to be broken at least once. Aluminium foil breaks the colour rule. A brass lamp breaks the shine rule. The steel plate breaks the name rule.
 - **s6 (6 min)**  
   *Parent does:* 1. Put the one-rupee coin beside the steel plate. 2. Ask what is the same about them, and what the magnet found. 3. Ask for the three sentences. 4. Only then read 'Why a magnet attracts coin steel and not kitchen steel' together.  
-  *Parent says:* Look at the one-rupee coin and the steel plate. Both are silver-coloured, both are shiny, and both are called steel. Both are mostly iron. Say what you thought would happen, what you saw, and why it happened.  
+  *Parent says:* Look at the one-rupee coin and the steel plate. Both are silver-coloured, shiny and called steel. Say what you thought would happen, what you saw, and why it happened.  
   *Child mode:* Put the coin beside the plate. What is the same? What did the magnet find? Say why you think so.
   - Ask: The coin and the plate are both mostly iron. What could be different inside them? (good: Other metals are mixed in.; The atoms might be arranged differently.)
   - Note: Let your child offer ideas before you read the explanation. Any idea about what is mixed in, or how the inside is arranged, is a good start.
@@ -413,7 +413,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 
 ## Activities
 ### a1 · Four Coins and a Magnet (12 min)
-- **record:** Draw the four coins in a row. Write 'lifted' or 'not lifted' under each one, and your guess beside it.
+- **record:** Make a list of the four coins. Next to each, write 'lifted' or 'not lifted', and your guess. Or lay the coins in two heaps, lifted and not lifted, and take a photo.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the four coins in a row. 2. Ask which coins the magnet will lift. 3. Write each guess and its reason.  
   *Parent says:* Look at these four coins. All are metal. Which will the magnet lift? Why do you think so?  
@@ -427,12 +427,12 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
   - Note: Expect the one-rupee and two-rupee coins to be lifted. The golden five-rupee and the ten-rupee coin stay on the table. An old coin may differ.
 - **s3 (5 min)**  
   *Parent does:* 1. Compare the results with the guesses. 2. Ask the question below. 3. Say that the next activities find out what is different about the coins.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. All four coins are metal. What is different?  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened.  
   *Child mode:* What did you think would happen? What did you see? Why do you think so?
   - Ask: All four coins are metal. Why did the magnet lift only two? (good: They are made of different metals.; Some coins have iron in them and some do not.)
   - Check: A magnet lifts a one-rupee coin and leaves a five-rupee coin. What does that show? → **The two coins are different metals**
 ### a2 · Two Nails, Then the T Test (20 min)
-- **record:** Draw the T test. Mark which bar was the magnet, and write why the bar's end held on to the other bar's middle.
+- **record:** Write which bar was the magnet, and why that bar's end held on to the other bar's middle. Take a photo of the T test, or draw it.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay two nails side by side, 2 centimetres apart. 2. Push them slowly together. 3. Then touch one nail to the magnet and hold a paper clip to the nail.  
   *Parent says:* First, put two nails side by side. Do they pull on each other? Then put one nail on the magnet. Can that nail lift a paper clip?  
@@ -456,7 +456,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
   *Child mode:* Unwrap the bars. Were you right? Say why the T test works.
   - Check: In a T test, the end of bar A holds firmly to the middle of bar B. Which bar is the magnet? → **Bar A**
 ### a3 · Same Coins, Two Patterns (25 min)
-- **record:** Draw both patterns. Write how many neighbours the middle coin touched in each, and how many coins fitted inside the square.
+- **record:** Take a photo of both patterns, or draw them. Write how many neighbours the middle coin touched in each, and how many coins fitted inside the square.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a square 10 centimetres by 10 centimetres on the paper. 2. Lay coins inside it in straight rows and columns. 3. Count the coins touching one middle coin. 4. Count the coins inside the square.  
   *Parent says:* Pattern A: straight rows and columns. Count the neighbours of one middle coin. Count all the coins inside the square.  
@@ -483,8 +483,8 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 ### a4 · Fool the Magnet Test (20 min)
 - **record:** Make a table of five balls. Write your guess for each ball, the magnet's answer, and what was inside.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Out of your child's sight, wrap the coin, the pin and the pebble each in one sheet of foil. 2. Wrap the golden five-rupee coin in one sheet. 3. Wrap the second one-rupee coin in four sheets, packed tight. 4. Number the five balls.  
-  *Parent says:* I have hidden five things, each wrapped in foil. Ball 1 holds a one-rupee coin and ball 2 holds a golden five-rupee coin. Ball 3 holds a pin and ball 4 holds a pebble. Ball 5 holds a one-rupee coin under many layers of foil. Which balls will the magnet say yes to?  
+  *Parent does:* 1. Out of your child's sight, wrap a one-rupee coin, the pin and the pebble each in one sheet of foil. 2. Wrap the golden five-rupee coin in one sheet. 3. Wrap the second one-rupee coin in four sheets, crumpled into a fat ball with the coin in the middle. 4. Number the five balls.  
+  *Parent says:* I have hidden five things in foil balls: two one-rupee coins, a golden five-rupee coin, a steel pin and a pebble. I will not say which is which. Which balls will the magnet say yes to?  
   *Child mode:* Five things are hidden in foil. Which will stick to the magnet? Guess.
   - Note: You need two one-rupee coins. One goes in ball 1, wrapped in a single sheet of foil. The other goes in ball 5, wrapped in four sheets, until the ball is about as big as a walnut. Keep a note of what is in each ball.
 - **s2 (7 min)**  
@@ -521,14 +521,14 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 - **s4 (5 min)**  
   *Parent does:* 1. Line up the table. 2. Find the vessels where stamp and magnet agree. 3. Find the ones where they seem to disagree. 4. Ask the question below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Where do the stamp and the magnet disagree?  
-  *Child mode:* Where do the stamp and the magnet disagree? Say why you think so.
+  *Child mode:* Line up your table. Which vessels agree, and which seem to disagree?
   - Ask: A vessel is stamped 304 but a magnet clings strongly to it. What could that mean? (good: The stamp may be wrong.; It may be a different steel, such as 430.)
   - Check: A magnet sticks to a steel vessel stamped 304. What is the best conclusion? → **The vessel is probably not the steel it says**
 
 ## Projects
 ### p1 · The Coin Sorter: build a machine that sorts by metal (60 min, 3 days)
 - **safety:** A grown-up cuts the cardboard and the box. Keep small magnets and coins away from children under three.
-- **record:** Draw your machine. Write the run results in a table: the coins run, the coins sorted correctly and the mistakes. Write the percentage correct for each run, and what you changed.
+- **record:** Draw your machine, or take a photo of it. Write the run results in a table: the coins run, the coins sorted correctly and the mistakes. Write the percentage correct for each run, and what you changed.
 - **schedule:** day 1: Build the slope and fix the magnet under it. Test it with 5 coins. (20 min); day 2: Run all 20 coins through twice. Write down every mistake. (20 min); day 3: Fix the biggest problem, run the coins again, and work out the percentage sorted correctly. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* Day 1. 1. A grown-up tapes the slope inside the box at about 30 degrees. 2. Tape the magnet under the slope, halfway down. 3. Put one cup at the bottom of the slope and one at its side. 4. Test it with 5 coins.  
@@ -554,7 +554,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 ## Challenges
 ### c1 · Beat the Cheat: catch a steel washer that looks like a coin (35 min)
 - **problem:** A steel washer, the size of a coin, is dropped into the sorter. The magnet stops it, as it stops a one-rupee coin. Add a second test to the sorter so that real one-rupee and two-rupee coins pass, and the washer or any other steel disc is thrown out.
-- **your turn:** Now invent your own second test. Test it with 10 real coins and the washer. Draw it, and write how many mistakes it made.
+- **your turn:** Now invent your own second test. Test it with 10 real coins and the washer. Draw it or take a photo of it, and write how many mistakes it made.
 - **constraints:** Real one-rupee and two-rupee coins must still pass.; Use only things from home: cardboard, tape, scissors and a ruler.; Measure the width of every coin and the washer, in millimetres, before you design.; Test with 10 real coins and the washer. Write down every mistake.
 - **general:** Cut a slot in the cardboard just wider than a one-rupee coin, so that wider discs cannot pass.; Cut a slot just narrower than a two-rupee coin, so that wider discs fall out.; Put a ruler gap above the slope, and let only discs of the right width roll through.
 - **creative:** Listen: drop each coin on a steel plate, and compare the sound with the sound of the washer.; Weigh: balance each disc against a pile of five other coins on a ruler seesaw, and compare.; Add a ramp so that a disc must roll through a narrow gate on its edge.
@@ -566,7 +566,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
   - Note: Real vending machines check several things at once, such as size, weight, how the coin carries electricity and how it answers a magnet. A washer has a hole, so the hole test is easy. Pick a washer without a hole or a flat steel disc if you can.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Your child chooses one second test. 2. A grown-up helps cut the slot or build the gate. 3. Fit it to the Coin Sorter.  
-  *Parent says:* Choose one second test. Tell me exactly how wide the slot is, and where it goes.  
+  *Parent says:* Choose one second test, for example a slot only a coin can pass through. Tell me how wide it will be and where it goes.  
   *Child mode:* Choose one second test. Build it onto the sorter.
 - **s3 (12 min)**  
   *Parent does:* 1. Run 10 real coins through the sorter. 2. Run the washer. 3. Write down every mistake. 4. Ask the questions below.  

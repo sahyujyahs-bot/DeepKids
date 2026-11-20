@@ -242,20 +242,20 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 - **Printable cards: 24 adaptation cards to cut out (the problem is on the back):** Cactus: spines where other plants have flat leaves (back: Problem: losing water in hot, dry air. A spine has very little surface, so little water escapes. Spines also keep thirsty animals away.); Cactus: a thick green stem with a waxy skin (back: Problem: long months with no rain. The stem stores water and the wax slows its escape. The green stem also makes the food.); Camel: a hump of fat (back: Problem: weeks with little food in the desert. The hump is a food store. It holds fat, not water.); Camel: wide, flat feet (back: Problem: sinking into soft sand. A wide foot spreads the camel's weight over more sand.); Khejri tree of the Thar: roots that go many metres down (back: Problem: no water near the surface. Deep roots reach water far underground.); Lotus: big flat leaves that float (back: Problem: getting sunlight when you grow in a pond. Floating leaves lie on top of the water, in full light.); Lotus: stalks full of air channels (back: Problem: no air in pond mud. The channels carry air down to the roots.); Fish: gills (back: Problem: breathing under water. Gills take in the oxygen that is dissolved in water.); Duck: webbed feet (back: Problem: pushing against water. A webbed foot is a wide paddle.); Mangrove tree of the Sundarbans: roots that stick up out of the mud (back: Problem: airless, salty mud. The upright roots take in air at low tide.); Deodar: a cone shape with sloping branches (back: Problem: heavy snow that breaks branches. Snow slides off the slope.); Fir: thin needles with a waxy coat (back: Problem: frozen ground gives no water in winter. Thin, waxy needles lose very little water.); Snow leopard: thick fur and wide, furry paws (back: Problem: cold, and deep snow. The fur keeps heat in. Wide paws spread her weight on snow.); Yak: a long, thick coat and large lungs (back: Problem: cold and thin air high in Ladakh. The coat holds heat, and large lungs take in more air.); Himalayan marmot: sleeps deeply all winter (back: Problem: no food under the snow. Hibernating uses very little energy until spring.); Tiger: eyes at the front of the head (back: Problem: judging the distance to prey. Two eyes facing the same way let a predator judge distance well.); Tiger: stripes (back: Problem: getting close without being seen. Stripes break up the tiger's outline in tall grass and shade.); Cobra: venom (back: Problem: prey that fights back or runs. Venom stops prey quickly.); Spider: a sticky web (back: Problem: catching insects who fly. The web traps them, so the spider need not chase.); Chital deer: eyes at the sides of the head (back: Problem: a predator may come from any side. Side eyes see almost all the way around.); Chital deer: living in a herd, with alarm calls (back: Problem: one deer cannot watch everywhere. In a herd, many eyes watch and one call warns all.); Indian star tortoise: a hard shell (back: Problem: teeth and claws. The tortoise pulls head and legs inside the shell.); Common mormon butterfly: many females look like the bad-tasting common rose (back: Problem: birds who eat butterflies. Birds who have learned to avoid the common rose avoid the look-alike too. This is mimicry.); Orange oakleaf butterfly: closed wings look like a dry leaf (back: Problem: being seen by birds. On a twig, the butterfly is taken for a dead leaf. This is camouflage.)
 - **Printable score sheet: Score sheet:** One row for each player. Make a mark for every card you keep.
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 24 cards. 2. Shuffle them. 3. Put them in a pile, feature side up. 4. Draw a score row for each player.  
+  *Parent does:* 1. Cut out the 24 cards. 2. Shuffle them. 3. Put them in a pile, feature side up. 4. Give each player a place on paper to keep score with marks.  
   *Parent says:* Every card names one feature. Each feature solves a problem that a place sets, such as heat, cold, deep water or a predator.  
-  *Child mode:* Cut out the cards and mix them. Put them in a pile. Draw a score row.
+  *Child mode:* Cut out the cards and mix them. Put them in a pile. Keep score with marks on paper.
 - **s2 (12 min)**  
   *Parent does:* 1. Take turns to read the top card. 2. Say the problem the feature solves. 3. Turn the card over to check. 4. Ask what would happen without the feature.  
   *Parent says:* Read the card aloud. Which problem does this feature solve? What would happen to this living being without it?  
   *Child mode:* Read the card. Say the problem the feature solves. Then turn the card over.
-  - Ask: A camel's hump holds fat, not water. Why is one big hump better than fat spread all over the body? (good: Fat all over would keep heat in, like a blanket.; With the fat in one place, the rest of the body can lose heat.)
+  - Ask: Why does a camel keep fat in one hump, not all over the body? (good: Fat all over would keep heat in, like a blanket.; With the fat in one place, the rest of the body can lose heat.)
   - Note: A good answer names a problem, not only a place. 'Because the camel lives in a desert' is a start. Ask what the desert does to feet.
 - **s3 (5 min)**  
   *Parent does:* 1. Count the marks. 2. Sort all 24 cards into three piles: features against weather, features for catching, features for escaping. 3. Ask the question below.  
   *Parent says:* Sort the cards into three piles: weather, catching and escaping. Which pile is biggest? Did anyone give these features to the animals and plants?  
   *Child mode:* Count your marks. Sort the cards into three piles. Which pile is biggest?
-  - Check: A chital deer has eyes at the sides of the head. A tiger's eyes face forward. Why the difference? → **Deer must see all around, tigers must judge distance**
+  - Check: A chital deer has eyes at the sides of the head. A tiger's eyes face forward. Why are they different? → **Deer must see all around, tigers must judge distance**
 ### g2 · Partner Pairs: a memory game about living together (15 min)
 - **rules:** Shuffle the 16 cards and lay them face down in four rows of four.; On your turn, turn over two cards and read them aloud.; If the two are partners, say what each gives the other. Then keep the pair and take another turn.; If they are not partners, turn them face down again in the same places.; The game ends when all eight pairs are found. The player with the most pairs wins.; Playing alone: count your turns. Play again and try to finish in fewer turns.
 - **Printable cards: 16 partner cards to cut out:** Fig tree: I give a safe home and food to the young of one tiny wasp.; Fig wasp: I carry pollen from one fig to the next.; Chana plant: I give sugar and a home in small lumps on my roots.; Root bacteria: I turn nitrogen from the air into food the plant can use.; Coral animal: I give a safe home in sunlit water.; Coral algae: I make sugar from sunlight and share it.; Cow: I give a warm stomach and a steady supply of grass.; Stomach microbes: I break down tough grass that the cow cannot digest alone.; Lichen fungus: I hold water and grip the rock or bark.; Lichen alga: I make sugar from sunlight for both of us.; Sea anemone: My stinging arms keep one small fish safe.; Clownfish: I chase away the fish who nibble the anemone.; Pumpkin flower: I give nectar and pollen as food.; Bee: I carry pollen from flower to flower.; Your body cell: I give food and shelter.; Mitochondrion: I release energy from food, using oxygen.
@@ -287,7 +287,7 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the two kinds of beans and the two cloths. 2. Explain the rules of the hunt. 3. Ask for a guess and a reason for each cloth, and write them down.  
   *Parent says:* These beans are a population of animals, and you are their predator. You will hunt them for three generations on each cloth. After three hunts, how many of the 30 beans on the dark cloth will be dark? How many on the pale cloth? Why do you think so?  
-  *Child mode:* Look at the beans and the two cloths. Guess how many dark beans each cloth will have at the end. Say why.
+  *Child mode:* Look at the beans and the two cloths. Guess how many dark beans each cloth will have at the end.
   - Ask: Why do you think the two cloths will end the same, or end differently? (good: Pale beans are easy to see on the dark cloth, so I will catch more of them.; I pick without looking at colour, so they will stay half and half.)
   - Note: Do not correct the guess. Many children say the numbers will stay at 15 and 15. Their reason is that the hunter is not trying to choose a colour.
 - **s2 (5 min)**  
@@ -314,11 +314,11 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 - **s6 (5 min)**  
   *Parent does:* 1. Draw a line chart. Put generations 1 to 4 along the bottom and the number of dark beans, 0 to 30, up the side. 2. Plot the dark cloth as one line and the pale cloth as another. 3. Label each line.  
   *Parent says:* Let's draw both groups on one chart. Each line shows the number of dark beans in one group. Both lines start at fifteen.  
-  *Child mode:* Draw a line chart of the dark beans. Draw one line for each cloth. Both start at 15.
+  *Child mode:* Draw a line chart of the dark beans, with one line for each cloth. Both start at 15. Or just compare the two columns of numbers.
   - Note: A line chart suits these results because each generation follows from the one before.
 - **s7 (5 min)**  
   *Parent does:* 1. Look at the table and the chart together. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your two lines. Say what you thought would happen, what you saw, and why it happened. Did any bean change colour during the test?  
+  *Parent says:* Look at your two lines. Say what you thought would happen, what you saw, and why it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Did any single bean change colour? Then how did the group change? (good: No bean changed.; The easy-to-see beans were caught, and only the survivors had young.; The group changed because its members were replaced.)
   - Ask: The hunter was the same on both cloths. Why did the two groups go opposite ways? (good: The place was different.; On each cloth a different colour was hard to see.)
@@ -350,7 +350,7 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
   *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask what the next generation of beaks would look like after each year. 3. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. If only the survivors have chicks, what beaks will the chicks have after a drought? What about after a wet year?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
-  - Ask: Is one beak the better beak? (good: No. Each is better in one kind of year.; It depends on which seeds there are.)
+  - Ask: Is one beak always the better beak? (good: No. Each is better in one kind of year.; It depends on which seeds there are.)
   - Ask: After many drought years in a row, what would most beaks on the island be like? (good: Big, because the big-beaked birds lived and had chicks.; Deep beaks would become common.)
   - Note: In most homes the tweezers lift 12 to 20 rice grains and the tongs only 3 to 6. With groundnuts the result reverses. So the small beak lives in the wet year and the big beak lives in the drought. The reason: a beak is an adaptation to a food, and which beak is fit depends on the food that year. On Daphne Major in 1977, a drought left only large, hard seeds. Finches with deeper beaks could crack them, and survived more often. After heavy rain in 1983, small seeds were plentiful and smaller beaks did better. Our model is not exact. A real big beak cracks hard seeds, while the tongs only grip big ones.
   - Think: An island has drought years and wet years in turn. Why might it be useful for the finch population to keep both kinds of beak?
@@ -397,44 +397,44 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
   - Check: In One New Bean, the single dark bean stands for a mutation. When does a real mutation appear? → **By chance, when DNA is copied**
 ### a3 · One Wild Plant, Many Vegetables: what did farmers select? (15 min)
 - **safety:** A grown-up does the cutting.
-- **record:** Draw each vegetable and label the part we eat: leaves, flower buds or stem.
+- **record:** Put a slip beside each vegetable that says the part we eat: leaves, flower buds or stem. Take a photo if you like.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the vegetables side by side. 2. Cut each in half. 3. Ask which part of the plant we eat in each one. 4. Crush a small piece of leaf or stalk from each and smell it.  
   *Parent says:* Which part of the plant do we eat in each of these? Leaves, flower buds or stem? Now smell a crushed piece of each. Do you think these plants are related? Why?  
   *Child mode:* Look at each vegetable. Which part do we eat? Smell a crushed piece of each. Are they related?
   - Note: A cabbage is a ball of leaves. A cauliflower and a broccoli are masses of flower buds. A knol khol is a swollen stem. All share the same sharp, mustard-like smell.
 - **s2 (5 min)**  
-  *Parent does:* 1. Tell your child that all these vegetables are one species, bred from a wild cabbage of European sea cliffs. 2. Ask how a farmer could get bigger leaves, using only seeds and patience. 3. Draw the wild plant in the middle of a page, with an arrow to each vegetable.  
-  *Parent says:* These are all one species. Farmers made them from one wild plant with loose leaves. A farmer wants bigger leaves. She cannot change a plant. What can she do each year with her seeds?  
-  *Child mode:* These vegetables are all one species. How could a farmer get bigger leaves, year after year?
+  *Parent does:* 1. Tell your child that all these vegetables are one species, bred from a wild cabbage of European sea cliffs. 2. Ask how a farmer could get bigger leaves, using only seeds and patience. 3. Write 'wild cabbage' on a slip of paper. Put it in the middle and place each vegetable around it.  
+  *Parent says:* These are all one species, which means one kind of plant. Farmers made them from one wild plant with loose leaves. A farmer wants bigger leaves. She cannot change a plant. What can she do each year with her seeds?  
+  *Child mode:* Put the 'wild cabbage' slip in the middle. Place each vegetable around it. They all came from that one plant.
   - Ask: What does the farmer do each year? (good: She keeps seeds only from the plants with the biggest leaves.; She sows those seeds and chooses again next year.)
   - Note: This is selective breeding. The farmer chooses the parents. Other farmers chose plants with thick stems or big flower heads. Over many hundreds of years, one species gave cabbage, cauliflower, broccoli and knol khol.
 - **s3 (5 min)**  
-  *Parent does:* 1. Draw two columns: 'Selective breeding' and 'Natural selection'. 2. For each, ask who or what does the selecting, and what gets selected. 3. Ask which is faster, and why.  
+  *Parent does:* 1. Write 'Selective breeding' and 'Natural selection' on two slips and put them side by side. 2. For each, ask who or what does the selecting, and what gets selected. 3. Ask which is faster, and why.  
   *Parent says:* In selective breeding the farmer chooses the parents. In the Bean Generations Test, who or what chose the parents? What is the same in both, and what is different?  
-  *Child mode:* Draw two columns. Who chooses the parents in each? What is the same? What is different?
+  *Child mode:* Look at the two slips. Who chooses the parents in each one? What is different?
   - Ask: What is the same in selective breeding and natural selection? (good: Both need variation.; In both, only some members become parents.; In both, the features are inherited.)
   - Note: Darwin began his book with pigeon breeders for this reason. People changed a species this much in a few hundred years. So the environment can do much more in millions. Indian farmers bred thousands of kinds of rice and hundreds of kinds of mango the same way.
 ### a4 · One Bird Becomes Two: the Palghat Gap in four drawings (15 min)
-- **record:** Four drawings in four boxes, each with one sentence underneath.
+- **record:** Four boxes, each showing one stage (with beans or a drawing) and one sentence about it.
 - **s1 (4 min)**  
   *Parent does:* 1. Find Coimbatore and Palakkad on the map. 2. Show the Nilgiri hills to the north and the Anamalai hills to the south. 3. Explain that the low land between them is the Palghat Gap, about 30 kilometres wide.  
   *Parent says:* The sholakili is a small bird of cold, misty forests on the hilltops. The land in this gap is low and hot. Could a sholakili live in the gap? What would the gap do to a population spread along the hills?  
   *Child mode:* Find the Palghat Gap on the map. A sholakili lives only on cold hilltops. What does the gap do?
   - Note: The road and the railway from Coimbatore to Palakkad run through this gap. The sholakili stays in cool forests called sholas, high on the hills.
 - **s2 (7 min)**  
-  *Parent does:* 1. Box 1: draw one line of hills with the same bird all along. 2. Box 2: draw the hot gap splitting the birds into two groups. 3. Box 3: draw a different change in each group, such as belly colour or song. 4. Box 4: draw the two species of today.  
-  *Parent says:* Draw the story in four boxes. First, one population. Then the gap. Then each group changing in a different way. Last, two species. Write one sentence under each box.  
-  *Child mode:* Draw four boxes: one population, the gap, two groups changing, two species. Write a sentence under each.
+  *Parent does:* 1. Box 1: show one line of hills with the same bird all along. 2. Box 2: show the hot gap splitting the birds into two groups. 3. Box 3: show a different change in each group, such as belly colour or song. 4. Box 4: show the two species of today. Use beans or coins for the birds, or draw them.  
+  *Parent says:* Tell the story in four boxes. First, one population. Then the gap. Then each group changing in a different way. Last, two species. Say one sentence about each box.  
+  *Child mode:* Fill the four boxes with beans or a drawing: one population, the gap, two groups changing, two species. Say one sentence for each.
   - Note: North of the gap lives the Nilgiri sholakili, with orange-brown sides. South of the gap lives the white-bellied sholakili. Scientists think the two groups have been apart for millions of years. Different mutations appeared on each side, and the two groups could not mix them.
 - **s3 (4 min)**  
-  *Parent does:* 1. Ask how the Bean Generations Test is like this story. 2. Ask how anyone could tell that the two birds are now separate species. 3. Tell your child about the mule.  
+  *Parent does:* 1. Ask how the Bean Generations Test is like this story. 2. Ask how anyone could tell that the two birds are now separate species. 3. Tell your child that a horse and a donkey can have a young one, the mule. But a mule cannot have young. That is why they are two species.  
   *Parent says:* In the Bean Generations Test, what kept the two groups of beans from mixing? What plays that part for the sholakili? How could scientists tell that the two birds are now two species?  
   *Child mode:* What kept the two bean groups apart? What keeps the two birds apart? How do we know they are two species?
   - Note: Scientists compare the birds' DNA, their songs and their looks. A horse and a donkey show where the line lies. They can have a mule together, but a mule cannot have young. So the two stay separate species.
   - Check: What usually has to happen first, before one species can become two? → **The population is split into groups that cannot meet**
 ### a5 · The Lemon in the Dupatta: was a mitochondrion once a free bacterium? (15 min)
-- **record:** Draw the lemon inside the pouch of cloth. Label the two layers around it. Write the four clues and tick the ones that fit.
+- **record:** Take a photo of the lemon inside the cloth, or draw it. Say which two layers are around it. Write the four clues and tick the ones that fit.
 - **s1 (5 min)**  
   *Parent does:* 1. You and your child hold the dupatta loosely between you. 2. Put the lemon on top. 3. Your child pushes the lemon down into the cloth, then twists the cloth closed above it. 4. Count the layers around the inside of the lemon.  
   *Parent says:* The dupatta is the outer skin of a large cell. The lemon is a bacterium, with a skin of their own. Push the bacterium into the cell. How many layers are around the lemon's inside now? Where did each layer come from?  
@@ -464,7 +464,7 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
   - Note: Good choices from the south are the Nilgiri tahr of Tamil Nadu and Kerala, and the lion-tailed macaque of the Western Ghats. From the north and west, try the great Indian bustard of Rajasthan and Gujarat, the gharial of the Chambal river or the Ganges river dolphin. From the east, try the olive ridley turtle of the Odisha coast or the red panda of Sikkim. Use the websites of WWF-India, the Bombay Natural History Society or the IUCN Red List.
 - **s2 (20 min)**  
   *Parent does:* 1. Your child finds the age at which the animal first has young. They also find how many young are born in a year. 2. Write these beside a mosquito, who can lay hundreds of eggs and whose young are adults in about two weeks. 3. Ask whether natural selection can keep up with the change.  
-  *Parent says:* Natural selection needs many young and many generations. A mosquito population met new poisons and adapted in a few years. How long is one generation for your animal? How many young are there to select from?  
+  *Parent says:* Natural selection needs many young and many generations. A mosquito population met new poisons and adapted in a few years. A generation is the time from being born to having young of your own. How long is one generation for your animal? How many young are there to select from?  
   *Child mode:* Find how old your animal is at their first young. Find how many young they have a year. Compare with a mosquito.
   - Ask: Why can a slow breeder not adapt quickly to a sudden change? (good: There are few young to select from.; Each generation takes years, and selection needs many generations.; The change comes within one lifetime.)
   - Note: An example: a great Indian bustard female lays only one egg, and not every year, and fewer than 150 birds are left. Many die by flying into power lines. So few chicks are born each year that selection has almost nothing to work on. A species like this needs people to change what they do.
@@ -472,25 +472,25 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 - **s3 (20 min)**  
   *Parent does:* 1. Your child makes five cards: the animal and their place, their adaptations, what is changing, how fast they breed, what people could do. 2. They practise once with a timer. 3. They give the talk to the family, with one piece of evidence on each card.  
   *Parent says:* Give your talk in three minutes. For each card, tell us one fact or number that supports what you say.  
-  *Child mode:* Make five cards. Practise with a timer. Give your talk in three minutes, with evidence.
+  *Child mode:* Make five cards. Practise with a timer. Give your talk in three minutes. Say one fact from each card.
   - Note: A strong talk uses science to support each point. 'Power lines are bad' is weak. 'A bustard sees poorly straight ahead, so she flies into wires' is strong.
   - Wait: Do this on day 3
 
 ## Challenges
 ### c1 · The Two-Year Beak: build one beak that survives a wet year and a drought (25 min)
 - **problem:** Build one tool that lifts at least 10 seeds in 30 seconds from the wet year plate. The same tool must lift at least 10 from the drought year plate.
-- **your turn:** Now design your own two-year beak. Draw it, build it and test it on both plates. Did it reach 10 seeds on each? Was it as good as the tweezers at rice, or as good as the tongs at groundnuts?
+- **your turn:** Now design your own two-year beak. Plan it, build it and test it on both plates. Did it reach 10 seeds on each? Was it as good as the tweezers at rice, or as good as the tongs at groundnuts?
 - **constraints:** Use one hand only. Lift seeds from the plate into a bowl 30 centimetres away, as in the Drought Year Test.; Seeds must be lifted. Sweeping them off the plate does not count.; Build the beak only from home things: ice cream sticks, spoons, clothes clips, rubber bands, card and tape.; Use the same plates as in the Drought Year Test. The wet year plate has 60 rice grains and 2 groundnuts. The drought year plate has 3 rice grains and 20 groundnuts.
 - **general:** Tie two spoons together at the handles with a rubber band, to make wide tongs with a hollow tip.; Tape two ice cream sticks to the arms of a clothes clip, to make a long beak with narrow tips.; Fold a strip of card into a V, to make a springy beak with flat ends.
 - **creative:** Make a beak with one narrow tip and one spoon tip, and test which seeds each side can grip.; Make a scoop that lifts many rice grains at once, as a duck's bill strains many small things from water.; Make the tips rough with a strip of tape, sticky side out, and test whether grip matters more than size.
 - **s1 (4 min)**  
   *Parent does:* 1. Set out the two plates as in the Drought Year Test. 2. Remind your child of their results with the tweezers and the tongs. 3. Ask what a beak would need to do well in both years.  
   *Parent says:* In the Drought Year Test, each beak did well in only one year. What would one beak need, to lift both rice grains and groundnuts?  
-  *Child mode:* Each beak did well in one year only. What would one beak need for both years?
+  *Child mode:* Think about what one beak needs to lift both rice grains and groundnuts.
 - **s2 (9 min)**  
-  *Parent does:* 1. Your child draws a design. 2. They build it from the home things. 3. They test it for 30 seconds on each plate and write the two counts.  
-  *Parent says:* Draw your beak first, then build it. Test it on both plates. Write both counts.  
-  *Child mode:* Draw your beak. Build it. Test it on both plates and write the counts.
+  *Parent does:* 1. Your child plans a design, with a quick sketch or by laying the parts on the table. 2. They build it from the home things. 3. They test it for 30 seconds on each plate and write the two counts.  
+  *Parent says:* Plan your beak first. Sketch it, or lay the parts on the table. Then build it. Test it on both plates. Write both counts.  
+  *Child mode:* Plan your beak, then build it. Test it on both plates and write the counts.
   - Note: The first design often does well on one plate only. That is useful. Ask which part of the beak caused the problem.
 - **s3 (8 min)**  
   *Parent does:* 1. Your child changes one thing about the beak. 2. They test again on both plates. 3. They write whether the change helped on each plate.  

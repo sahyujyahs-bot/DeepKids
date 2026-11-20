@@ -300,7 +300,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **s3 (4 min)**  
   *Parent does:* Count the cards. Then look at the IN BETWEEN column together and ask the question below.  
   *Parent says:* Look at the waters under IN BETWEEN. What do most of them have in common?  
-  *Child mode:* Count your cards. Look at the IN BETWEEN waters. What do they share?
+  *Child mode:* Count your cards. Then look at the IN BETWEEN column.
   - Ask: What do most of the IN BETWEEN waters have in common? (good: They are places where fresh water and sea water meet.; River water mixes with sea water there.; Some salt was left out or some sea water got in.)
 ### g2 · Sea to Glass: a board game of losing and gaining salt (25 min)
 - **rules:** Lay the 24 squares in a ring, in order. Squares 1 to 8 are the sea. Squares 9 to 24 are the sky and the land.; Each player needs a button for a drop and a grain of rice for the drop's salt. You also need one die and about 12 beans.; Everyone starts on square 1, with the grain of rice beside the button. A drop with rice is salty.; On your turn, roll the die and move forward that many squares. Then do what your square says.; A salty drop cannot leave the sea by moving. If a salty drop would pass square 8, it goes on counting from square 1.; A drop leaves the sea only from square 3, 6 or 7. Leave the rice on that square and jump as the square says.; On a question square, another player reads you the top question card. If you answer well, move 2 more squares. Then put the card under the pile.; Each time your fresh drop reaches or passes square 19, take one bean. A person has had a drink.; When your drop reaches or passes square 24, your move ends there. Take your grain of rice back. Next turn, count on from square 1.; The first player with 3 beans wins.; Playing alone? Count how many turns you need to win 3 beans. Play again and try to need fewer.
@@ -319,8 +319,8 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Check: In Sea to Glass, a drop leaves its salt behind on three squares. What happens on two of them? → **The Sun evaporates the drop**
 - **s3 (4 min)**  
   *Parent does:* After the game, ask the two questions below.  
-  *Parent says:* On which square did your drop wait longest? Where did every fresh drop end up at last?  
-  *Child mode:* Where did your drop wait longest? Where did every fresh drop end up?
+  *Parent says:* The game is over. Now think back over the journey of your drop.  
+  *Child mode:* Remember where your drop waited, and where it ended.
   - Ask: Where did every fresh drop end up at last? (good: Back in the sea.; At the river mouth, where it picked up salt again.)
   - Ask: Where did drops wait a long time? (good: In the sea, going round and round.; On the glacier, as ice.; In the groundwater, moving slowly.)
 
@@ -335,7 +335,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **s1 (8 min)**  
   *Parent does:* 1. Label the bowls A and B. 2. Pour 1 tumbler of water into each. 3. Stir 1 level teaspoon of salt into bowl B until the water is clear. 4. Put 2 tablespoons from bowl B into the katori marked START. 5. Ask for the guesses and the reasons, and write them down.  
   *Parent says:* Bowl B is now nearly as salty as the sea. We will freeze about half of it. Which will taste saltiest: this water, the ice, or the liquid left over? Why do you think so?  
-  *Child mode:* Make bowl B salty. Save two spoons as START. Which will be saltiest? Why?
+  *Child mode:* Make bowl B salty. Save two spoons as START.
   - Ask: Which bowl do you think will show ice first, and why? (good: The plain one, because nothing is in the way.; The salty one will be slower. People put salt on icy roads.; Both at once, because the freezer is equally cold.)
   - Note: Do not correct the guesses. Many children expect the ice to be as salty as the water, because the salt is spread all through it. Keep the START katori covered on the counter.
 - **s2 (6 min)**  
@@ -346,7 +346,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Wait: Look every half hour after the first hour. Go on when about half of bowl B is ice, after 2 to 4 hours.
 - **s3 (8 min)**  
   *Parent does:* 1. Take bowl B out. Break up the ice with a spoon. 2. Pour everything through the strainer into the LEFT OVER katori. 3. Hold the strainer of ice under a thin stream of tap water for 3 seconds. 4. Tip the ice into the ICE katori. Stand the katori in a bowl of warm water until the ice melts.  
-  *Parent says:* The strainer holds the ice, and the katori holds the liquid that did not freeze. We rinse the ice for three seconds only. Why do you think we rinse it?  
+  *Parent says:* The strainer holds the ice, and the katori holds the liquid that did not freeze. We rinse the ice for three seconds only.  
   *Child mode:* Strain off the liquid. Rinse the ice for three seconds. Let the ice melt.
   - Ask: Why do we rinse the ice quickly before melting it? (good: Salty liquid is clinging to the outside of the ice.; We want to taste the ice itself, not the liquid on it.)
   - Note: If bowl B froze solid, do this. Put the whole block in the strainer over the LEFT OVER katori and let it thaw for 15 minutes. The first drips are the saltiest part. Then melt the ice that remains in the ICE katori.
@@ -363,7 +363,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Note: One tumbler holds about 13 tablespoons. Some water is lost in rinsing and straining, so the two parts will not add up exactly.
 - **s6 (6 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they tasted, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. The salt did not leave the bowl. So where is it now?  
+  *Parent says:* The salt did not leave the bowl. So where is it now?  
   *Child mode:* Say what you thought would happen. Say what you tasted. Say why it happened.
   - Ask: The leftover liquid tastes saltier than the water you started with. Where did the extra salt come from? (good: From the water that froze. The ice left its salt behind.; The same salt is now in less water.)
   - Ask: Why does the melted ice still taste a little salty? (good: Some salty liquid was trapped inside the ice.; The rinse did not remove all the salty liquid.)
@@ -374,16 +374,16 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **predict:** Before you start, guess. After one hour, which stick will be stiffest and which will bend most easily? Will any stick get longer or shorter? Why do you think so?
 - **fair test:** Cut all six sticks from one potato, to the same length and thickness. Use the same amount of water in each tumbler, and leave all the sticks in for the same time. Only the amount of salt differs. Put two sticks in each tumbler, because one stick alone could be odd.
 - **safety:** A grown-up does all the cutting. Nobody eats the raw potato sticks or drinks the salty water.
-- **record:** Fill in the table, with one row for each tumbler. Use the average of the two sticks. Draw the three sticks being bent.
+- **record:** Fill in the table, with one row for each tumbler. Use the average of the two sticks. Take a photo of the three sticks being bent, or draw them.
 - **results table:** Tumbler | Length before, in millimetres | Length after, in millimetres | Bend test: snaps, bends a little, or bends into a curve
 - **s1 (4 min)**  
   *Parent does:* Show your child the potato and the three labelled tumblers. Ask for the guess and the reason, and write both down.  
-  *Parent says:* A potato is made of living cells, and each cell is a tiny bag of watery liquid. Which stick will be stiffest after an hour? Which will bend most? Why do you think so?  
-  *Child mode:* Three waters, six potato sticks. Which stick will bend most? Why do you think so?
+  *Parent says:* A potato is made of living cells, and each cell is a tiny bag of watery liquid. We will leave potato sticks in three kinds of water for an hour.  
+  *Child mode:* Which water will make a stick bend the most? Which will keep it stiffest? Why do you think so?
   - Note: Many children expect the salty sticks to swell, because they are sitting in water. Do not correct the guess.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Fill each tumbler with water. 2. Stir 1 level teaspoon of salt into SEA and 4 into VERY SALTY. 3. Peel the potato and cut 6 sticks, each 60 mm long and as thick as a pencil. 4. Your child measures each stick and writes the length. 5. Put 2 sticks in each tumbler and write the time.  
-  *Parent says:* Measure each stick in millimetres before it goes in. Why do we put two sticks in each tumbler, and not one?  
+  *Parent says:* Measure each stick in millimetres before it goes in. Then put two sticks in each tumbler.  
   *Child mode:* Measure each stick in millimetres. Put two sticks in each tumbler.
   - Ask: Why two sticks in each tumbler? (good: One stick could be odd, or cut badly.; If both sticks do the same, we can trust the result more.)
   - Note: Thin sticks matter. A stick as thick as a finger changes too slowly to show much in an hour. If your salt is coarse, stir until no grains are left.
@@ -396,14 +396,14 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Check: In the Potato Test, the stick from very salty water bends like rubber. What has happened inside the stick? → **Water has left the potato's cells**
 - **s4 (6 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Which way did the water move in each tumbler?  
+  *Parent says:* Look at your table. What did the sticks in each tumbler do?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Which way did water move in the very salty tumbler? What is your evidence? (good: Out of the potato. The stick got shorter and limp.; Towards the saltier side.)
   - Note: The reason: each potato cell is a bag of slightly salty liquid inside a thin skin. Water passes through the skin easily, and salt does not. Water moves through the skin towards the saltier side. This is called osmosis. In very salty water, water leaves the cells and they go slack. In plain water, water enters the cells and they swell tight, so the stick is stiff.
 - **s5 (5 min)**  
   *Parent does:* Now link the result to drinking sea water. Ask the question below, and then read the numbers in the note.  
-  *Parent says:* Your body is made of cells too. What do you think happens to your cells if you drink sea water?  
-  *Child mode:* Your body is made of cells too. What would sea water do to them?
+  *Parent says:* Now think about drinking sea water. Your body is made of cells too, just like the potato.  
+  *Child mode:* Your cells are like the potato's cells. Think about the sticks in very salty water.
   - Ask: What happens to a person's cells if they drink sea water? (good: The blood gets saltier, and water leaves the cells.; The cells shrink, like the cells of the potato stick.; The person gets thirstier.)
   - Note: The numbers: blood holds about 9 grams of salt in a litre, and sea water about 35. Human urine can hold only about 20. So the kidneys need more than a litre of water to remove the salt in a litre of sea water. A person who drinks sea water loses water.
   - Think: A sea turtle drinks sea water every day. What must her body be able to do that yours cannot?
@@ -412,16 +412,16 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **predict:** Before you start, guess. After the ice melts, will the water be higher, lower or the same in each tumbler? Why do you think so?
 - **fair test:** Use two clear tumblers of the same size, the same amount of water at the same warmth, and the same number of ice cubes from one tray. Only the place of the ice differs: it floats in tumbler A and sits on a strainer above the water in tumbler B. Mark both water levels before the ice melts.
 - **safety:** Wipe up any spilled water at once, so that nobody slips.
-- **record:** Draw both tumblers before and after, with the water line. Fill in the table. Under it, write one sentence that says which ice raised the water, and one that says why.
+- **record:** Take a photo of both tumblers before and after, with the band, or draw them. Fill in the table. Under it, write one sentence that says which ice raised the water, and one that says why.
 - **results table:** Tumbler | Water level before the ice melted | Water level after the ice melted | Change in millimetres
 - **s1 (4 min)**  
   *Parent does:* Show your child the two tumblers, the strainer and the ice. Ask for the guess and the reason, and write both down.  
   *Parent says:* Ice floats in one tumbler and sits above the water in the other. When all of it has melted, which water will be higher? Why do you think so?  
-  *Child mode:* Ice floats in tumbler A. Ice sits above tumbler B. Which one will rise? Why?
+  *Child mode:* Look at tumbler A. Its ice floats. Look at tumbler B. Its ice sits above the water.
   - Note: Many children say both rise, because melting adds water. Some say neither. Do not correct the guess.
 - **s2 (8 min)**  
   *Parent does:* 1. Pour 150 ml of water into tumbler A. Use lukewarm tap water for both tumblers. 2. Put 4 ice cubes into tumbler A. 3. Put a rubber band round tumbler A at the water line, or mark the line with a pen. 4. Pour water into tumbler B until it reaches the same height as the band on A. 5. Mark B in the same way.  
-  *Parent says:* Tumbler A has ice floating in it. We fill tumbler B to the same height, with no ice in it. Why must both lines start at the same height?  
+  *Parent says:* Tumbler A has ice floating in it. We fill tumbler B to the same height, with no ice in it.  
   *Child mode:* Add 4 cubes to tumbler A. Mark its water line. Fill B to the same height. Mark it.
   - Ask: Why must both water lines start at the same height? (good: So we can tell which one rose and which did not.; To make it a fair test.)
   - Note: The ice in A pushes the water up as it floats, so B needs more water than A to reach the same line. That is why you fill B to the band, and do not pour 150 ml into each. A 150 ml pour reaches about 4 cm in a tumbler 7 cm wide.
@@ -439,7 +439,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Check: In Ice on Land, Ice on Sea, which tumbler's water rose when the ice melted? → **Tumbler B, with the ice above the water**
 - **s5 (8 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Which tumbler is like the sea ice, and which is like an ice sheet on land?  
+  *Parent says:* Which tumbler is like the sea ice, and which is like an ice sheet on land?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Tumbler A is like sea ice. Why did its water not rise? (good: The ice was already in the water, pushing aside water.; The ice turned into just enough water to fill the space it took up.)
   - Ask: Which ice is like the ice on Antarctica, and what would it do to the sea? (good: The ice above the water, in tumbler B.; It would add water to the sea and raise it.)
@@ -448,16 +448,16 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 
 ## Activities
 ### a1 · One Litre Earth: how much of the world's water is fresh? (15 min)
-- **record:** Draw the bottle, the katori and the three heaps on the plate. Write the number of teaspoons or drops under each.
+- **record:** Take a photo of the plate with the three heaps, or draw it. Write the number of teaspoons or drops under each.
 - **s1 (3 min)**  
   *Parent does:* Hold up the full bottle. Say that it stands for all the water on Earth. Ask the question below, and write the guess and the reason.  
   *Parent says:* This bottle is all the water on Earth. How many teaspoons of it are fresh water that people can drink? Why do you think so?  
-  *Child mode:* The bottle is all of Earth's water. How many teaspoons are fresh? Why?
+  *Child mode:* The bottle is all of Earth's water. Guess how much of it is fresh.
   - Ask: Do you think fresh water is a large share or a small share of all the water? (good: Small, because the sea is salty.; A large share, because there are so many rivers.; Any guess with a reason.)
   - Note: Many children guess half a bottle or more, because the Earth looks so wet. Do not correct the guess.
 - **s2 (4 min)**  
   *Parent does:* 1. Use the teaspoon to take 5 level teaspoons from the bottle. 2. Tip them into the katori. 3. Label the katori FRESH. 4. Say that the water left in the bottle is salty.  
-  *Parent says:* These 5 teaspoons are all the fresh water on Earth. Everything left in the bottle is salty. How does that look to you?  
+  *Parent says:* These 5 teaspoons are all the fresh water on Earth. Everything left in the bottle is salty. Is that more or less than you guessed?  
   *Child mode:* Take 5 level teaspoons from the bottle. They are all the fresh water.
   - Note: A level teaspoon holds 5 ml, so 5 teaspoons make 25 ml. The shares are rounded, so a little more or less is fine.
   - Check: In One Litre Earth, how much of the bottle is fresh water? → **5 teaspoons**
@@ -468,24 +468,24 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Note: A few drops stay in the katori. They stand for frozen soil, the water in the air, and the water in living bodies. The drop for lakes and rivers is not exact, because one drop is about a twentieth of a millilitre.
 - **s4 (4 min)**  
   *Parent does:* Look at the plate. Ask the questions below, and listen to the answers before you say anything.  
-  *Parent says:* Look at the three heaps. Which of them can a person reach and drink today? Which is the one that most cities use?  
-  *Child mode:* Look at the plate. Which water can you reach and drink?
+  *Parent says:* Look at the three heaps and the one drop. Which one do most cities use?  
+  *Child mode:* Look at the three heaps and the one drop on the plate.
   - Ask: Which of the three heaps can people reach and drink today? (good: Groundwater, through wells and borewells.; The one drop of lakes and rivers.; Ice is frozen and far from most people.)
   - Ask: Why is it a problem that most cities depend on the one drop? (good: It is so small.; Many people share it, and it can be polluted or dry up.)
   - Note: Many cities also use groundwater, and some use sea water made fresh. Only 25 parts in every 1,000 of Earth's water are fresh, and most of that is hard to reach.
   - Think: The sea is nearly the whole bottle. Why can a person with the sea all around them still run out of water to drink?
 ### a2 · One Bottle, Three Forms: freeze it, melt it and find the same water (25 min, 3 days)
 - **safety:** Use only plastic in the freezer. A grown-up cuts the bottle, if you use one.
-- **record:** Draw the cup three times: full of water, full of ice, and melted. Mark each line, and write the heights in millimetres.
+- **record:** Take a photo of the cup three times: full of water, full of ice, and melted. Or draw it. Mark each line, and write the heights in millimetres.
 - **schedule:** day 1: Fill the cup with water to a line, mark the line, and put the cup in the freezer for the night. (10 min); day 2: Mark and measure where the top of the ice is. Let the ice melt, and mark the water line again. Leave the cup open. (10 min); day 3: Mark the water line a third time. Say where the water that is missing went. (5 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the cup, and ask the question below. Write the guess and the reason.  
   *Parent says:* We will freeze this water. After the night, where will the top of the ice be: above the line, at the line or below it? Why do you think so?  
-  *Child mode:* Water freezes into ice. Will the ice be above the line, at it or below? Why?
+  *Child mode:* Look at the water in the cup. Guess where the top of the ice will be.
   - Note: Many children say the ice will be at the line, because nothing was added. Do not correct the guess.
 - **s2 (6 min)**  
   *Parent does:* 1. Pour water into the cup until it is 8 cm deep. 2. Stick tape on the outside at the water line. 3. Drop an ice cube into a glass of water and watch it. 4. Put the cup in the freezer, upright and level, for 8 hours or overnight.  
-  *Parent says:* Mark the water line with tape. Then put the ice cube in the glass. Does it sink or float? What does that tell you about ice and water?  
+  *Parent says:* Mark the water line with tape. Then put the ice cube in the glass and watch it.  
   *Child mode:* Mark the water line with tape. Drop an ice cube in a glass. Put the cup in the freezer.
   - Ask: Does the ice cube sink or float? What does that say about ice compared with water? (good: It floats, so a cupful of ice must weigh less than a cupful of water.; The same water must take up more room when it is ice.)
   - Note: Do not put the lid on. The cup may bulge or crack a little, which is why you must use plastic.
@@ -504,18 +504,18 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Wait: Leave the open cup for one more day.
 - **s5 (5 min)**  
   *Parent does:* Day 3. Mark the water line a third time and measure the gap below the first tape. Say what you think happened to the missing water.  
-  *Parent says:* Is the water line lower now? You did not pour anything out. Where did the water go?  
-  *Child mode:* Is the water lower than before? Where did it go?
+  *Parent says:* Is the water line lower now? You did not pour anything out.  
+  *Child mode:* Is the water lower than before?
   - Ask: The water line is lower and nobody poured any out. Where did the water go? (good: Into the air as water vapour.; It evaporated, so it is a gas now.)
   - Note: Indoors, an open cup may lose 1 to 3 millimetres in a day, more in a hot dry room. Water vapour is the third form, and the air in the room holds it, invisible.
   - Think: You have now seen one water as ice, as liquid and as vapour. Which of the three do you think is most of Earth's water?
-### a3 · The Island Well: draw water from a jar of two layers (25 min)
+### a3 · The Island Well: take water from a jar of two layers (25 min)
 - **safety:** Nobody drinks the blue salty water.
-- **record:** Draw the jar with its two layers, and mark where you took each straw sample. Colour the sample on the plate. Draw the jar again after stirring.
+- **record:** Take a photo of the jar before and after stirring, and of the samples on the plate. Or draw the jar and mark where you took each sample.
 - **s1 (3 min)**  
   *Parent does:* Show your child the jar, the salt and the clear water. Ask the question below. Write the guess and the reason.  
   *Parent says:* Under a small island, rain soaks into the sand and meets the sea water. If we pour clear fresh water on blue salt water, what will happen? Why?  
-  *Child mode:* Clear water goes on blue salt water. Will they mix or stay apart? Why?
+  *Child mode:* Clear water goes on blue salt water. Guess what will happen.
   - Note: Many children think they will mix at once, as when a drop of ink goes into a glass. Do not correct the guess.
 - **s2 (8 min)**  
   *Parent does:* 1. Stir 1 level teaspoon of salt into 200 ml of water until it is clear. 2. Add 3 drops of food colour. 3. Pour it into the jar. 4. Hold a spoon upside down, touching the glass just above the water. 5. Pour 100 ml of clear water slowly over the back of the spoon.  
@@ -524,18 +524,18 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Note: The two layers should be sharp, with the clear water about 2 to 3 cm deep. If the whole jar goes pale blue, the pouring was too fast. Empty the jar and start again, more slowly.
 - **s3 (6 min)**  
   *Parent does:* 1. Close the top of a straw with your thumb. 2. Lower the straw 1 cm into the clear layer. 3. Lift your thumb, count to 3, and close it again. 4. Lift the straw out and let the sample drop on the white plate. 5. Do the same again at the bottom of the jar.  
-  *Parent says:* Take one sample near the top and one near the bottom. What colour is each one? Which is the water an island family could drink?  
-  *Child mode:* Take a sample from the top. Take one from the bottom. What colour is each?
+  *Parent says:* Take one sample near the top and one near the bottom. Look at the two drops on the plate. Which one could an island family drink?  
+  *Child mode:* Take a sample from the top. Take one from the bottom. Put each on the plate.
   - Note: Do the top sample gently, so that the straw does not drag blue water upward. If the top sample looks blue, the straw went too deep or the layers have mixed.
   - Check: In The Island Well, a straw takes a sample from the clear top layer. What colour is it? → **Clear, because it is fresh water**
 - **s4 (4 min)**  
   *Parent does:* Stir the jar three times with a spoon, like a strong pump. Wait 5 minutes. Look at the jar. Then take one sample from the top and put it on the plate.  
   *Parent says:* Stir the jar three times. This is like a pump that pulls too hard. What does the top sample look like now?  
-  *Child mode:* Stir the jar three times. Wait. Take a top sample. What colour is it?
+  *Child mode:* Stir the jar three times. Wait. Take a top sample.
   - Note: After the stir the whole jar turns pale blue, and it stays that way. The water is mixed, and the fresh water is no longer fresh.
 - **s5 (4 min)**  
   *Parent does:* Look at the jar and the plate together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. How would you take water from an island's fresh layer?  
+  *Parent says:* How would you take water from an island's fresh layer?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Why did the clear water stay on top? (good: It is lighter than salt water.; Salt makes the water heavier.)
   - Ask: What did the stirring do? (good: It mixed the fresh and salt water, and they do not come apart again.; It spoiled the fresh water.)
@@ -544,9 +544,9 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 ### a4 · Pin the Fresh Water: ten places on a map (20 min)
 - **record:** Make a key with five colours. Write the name of each of the ten places beside its colour. Then write which pins are far from where most people live.
 - **s1 (4 min)**  
-  *Parent does:* Show your child the world map. Ask the question below. Write the guess and the reason, and draw a pencil ring where they think most of the fresh water is.  
-  *Parent says:* Most of Earth's fresh water is in a few places. Where on this map do you think it is? Draw a ring. Why there?  
-  *Child mode:* Where is most of Earth's fresh water? Draw a ring. Why there?
+  *Parent does:* Show your child the world map. Ask the question below. Write the guess and the reason, and let them point to where they think most of the fresh water is. They may draw a pencil ring.  
+  *Parent says:* Most of Earth's fresh water is in a few places. Where on this map do you think it is? Point to it, or draw a ring. Why there?  
+  *Child mode:* Look at the map. Where is most of Earth's fresh water?
   - Note: Children often ring rivers or lakes. Most of the fresh water is ice, near the poles and on high mountains. Do not correct the guess yet.
 - **s2 (10 min)**  
   *Parent does:* Find each place on the map and mark it. Mark Antarctica, Greenland and the Gangotri glacier in Uttarakhand in white. Mark Lake Baikal in Russia, the Great Lakes of North America and the Kaveri river in blue. Mark the groundwater under the Ganga plain in green. Mark Chilika lagoon in Odisha in orange. Mark Sambhar Lake in Rajasthan and the Dead Sea in red.  
@@ -556,8 +556,8 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Check: In Pin the Fresh Water, which pin shows the largest store of fresh water? → **White, for the ice on Antarctica**
 - **s3 (6 min)**  
   *Parent does:* Look at the map together. Ask the questions below, and let your child answer from the pins.  
-  *Parent says:* Look at your white pins. Are they close to where most people live? Which pins are in India? Which kind of pin is the most common?  
-  *Child mode:* Look at the white pins. Are they near where people live?
+  *Parent says:* Look at all your pins. Which colour is the most common? Which pins are in India?  
+  *Child mode:* Look at the white pins on the map.
   - Ask: Look at the white pins. Are they near where most people live? (good: No, they are at the poles and high in the mountains.; Most of the ice is far from cities.)
   - Ask: Which pins are in India, and what do they hold? (good: The Gangotri glacier is ice, the Kaveri is fresh, the Ganga plain is groundwater, Chilika is brackish, and Sambhar is salty.)
   - Note: Gangotri and the other Himalayan glaciers feed rivers that millions of people use, so some ice is close to a great many people.
@@ -568,11 +568,11 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **s1 (3 min)**  
   *Parent does:* Say that Chilika is a lagoon where rivers meet the sea. Ask the question below. Write the guess and the reason.  
   *Parent says:* In the monsoon, rivers pour fresh water into Chilika. In summer, the rivers shrink and the sea comes in. When is Chilika saltier? Why?  
-  *Child mode:* When is Chilika saltier, in the monsoon or in summer? Why?
+  *Child mode:* Think about Chilika in the monsoon and in summer. Guess which time is saltier.
   - Note: The answer is summer. Children usually guess it right, and the next steps show by how much.
 - **s2 (6 min)**  
   *Parent does:* 1. Stir 1 level teaspoon of salt into the tumbler of water. Pour 10 tablespoons into the SEA katori. 2. In MONSOON, put 1 tablespoon of sea water and 9 of plain water. 3. In SUMMER, put 5 tablespoons of each. 4. In PLAIN, put 10 tablespoons of plain water.  
-  *Parent says:* SEA is as salty as the sea. MONSOON has 1 part in 10 of sea water. SUMMER has half. How much salt does each hold?  
+  *Parent says:* SEA is as salty as the sea. MONSOON has 1 part in 10 of sea water. SUMMER has half.  
   *Child mode:* Make SEA. Make MONSOON with 1 spoon of sea. Make SUMMER with 5 spoons.
   - Note: One level teaspoon in 200 ml is about 30 grams in a litre. That is close to the sea, which is about 35. Each katori holds 10 tablespoons, which is about 150 ml.
 - **s3 (5 min)**  
@@ -582,8 +582,8 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   - Note: Most tasters can tell PLAIN from MONSOON only with care, because the difference is small. SUMMER and SEA are clearly salty. If two seem alike, taste that pair again.
 - **s4 (6 min)**  
   *Parent does:* Work out the grams of salt in a litre for each katori. SEA holds about 30. MONSOON holds one tenth of that. SUMMER holds half. Write the numbers in the table.  
-  *Parent says:* SEA holds about 30 grams in a litre. MONSOON has one tenth of the sea water, so how many grams? SUMMER has half, so how many?  
-  *Child mode:* SEA has about 30 grams in a litre. Work out MONSOON and SUMMER.
+  *Parent says:* SEA holds about 30 grams in a litre. MONSOON has one tenth of the sea water, so how many grams?  
+  *Child mode:* Work out the grams of salt in a litre for MONSOON and SUMMER.
   - Note: MONSOON works out at 3 grams in a litre. SUMMER works out at 15. Both are brackish, because brackish water is between fresh and the sea. Fresh water has under 1 gram. Real lagoon water changes from place to place and from week to week.
   - Check: In Mix a Lagoon, SUMMER is half sea water and half plain water. About how many grams of salt does a litre of it hold? → **15**
   - Think: A fish that lives in Chilika must cope with water that changes from 3 to 15 grams in a litre in one year. What might her body need to do?
@@ -596,11 +596,11 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **s1 (15 min)**  
   *Parent does:* Day 1. 1. Ask where your tap water comes from, for example a lake, a river, a borewell or a tanker. 2. Find the tank size, or the daily use on the water bill. 3. If you cannot find it, use 135 litres for each person each day. 4. Multiply by the number of people at home.  
   *Parent says:* Where does our tap water come from? How many litres do we use in a day? Guess first. Then we will find out.  
-  *Child mode:* Where does our tap water come from? How many litres do we use each day?
+  *Child mode:* Find where your tap water comes from. Find how many litres you use a day.
   - Ask: Where do you think the water in our tap fell as rain? (good: On a lake or river far away, or on the ground above a borewell.)
   - Note: Day 1 answers set up the sum. A common value for a family of 4 is 135 litres for each person, which is 540 litres a day. The real figure may be lower or higher.
 - **s2 (15 min)**  
-  *Parent does:* Day 2. 1. Measure the length and width of the roof over your home in metres. 2. Multiply length by width to get the area in square metres. 3. Find your town's yearly rain in millimetres. 4. Multiply the area by the rain. The answer is litres.  
+  *Parent does:* Day 2. 1. Measure the length and width of the roof over your home in metres. If you live in a flat, measure the floor of your flat instead. 2. Multiply length by width to get the area in square metres. 3. Find your town's yearly rain in millimetres. 4. Multiply the area by the rain. The answer is litres.  
   *Parent says:* One millimetre of rain on one square metre of roof is exactly one litre. How many square metres is our roof? How many litres of rain fall on it in a year?  
   *Child mode:* Work out the roof area. Multiply it by the yearly rain in millimetres.
   - Note: Why one millimetre on one square metre is one litre: a square metre is 100 cm by 100 cm, which is 10,000 square centimetres. One millimetre is a tenth of a centimetre. 10,000 times 0.1 is 1,000 cubic centimetres, which is 1 litre. In a flat, divide the building's roof area by the number of homes. Rough yearly rain, rounded: Chennai about 1,400 mm, Bengaluru about 900, Mumbai about 2,300, Delhi about 800, Kochi about 3,000, Jaisalmer about 200. Look up your own town if you can.
@@ -615,14 +615,14 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 ## Challenges
 ### c1 · Fresher Ice: use freezing to take more salt out (40 min)
 - **problem:** Start with 1 tumbler of sea-strength water, made with 1 level teaspoon of salt in 200 ml. Use only a freezer, bowls, a strainer and plain water. Make the freshest melted ice you can. You may freeze it more than once, and you may rinse it.
-- **your turn:** Now invent your own way of making fresh ice from salty water. Draw your method, and write the steps. Say how many tablespoons you ended with, and where the salt went.
+- **your turn:** Now invent your own way of making fresh ice from salty water. Write the steps of your method, and draw it if you like. Say how many tablespoons you ended with, and where the salt went.
 - **constraints:** Start with the same sea-strength water as Freeze the Sea.; No boiling. Use only freezing, straining and a quick rinse.; You must end with at least 3 tablespoons of melted ice to taste.; A grown-up tastes your sample and the single-freeze ice from Freeze the Sea without knowing which is which. The fresher one wins.
 - **general:** Freeze a shallow bowl until it is half ice. Pour off the liquid, rinse the ice quickly, and melt it.; Break the ice into small pieces before you rinse it, so that more of the salty liquid washes away.; Freeze slowly, on a low shelf, and stop at half ice, because the last part to freeze holds the most salt.
 - **creative:** Freeze the melted ice a second time, and keep only half of the new ice.; Freeze in a tilted tray, so that the salty liquid runs to one end and can be poured off.; Throw away the first drops and the last drops that come off a thawing block, because they are the saltiest.
 - **s1 (8 min)**  
   *Parent does:* Read the problem together. Remember Freeze the Sea. Ask your child for three ideas, and which one they expect to work best.  
-  *Parent says:* In Freeze the Sea, the ice left most of the salt in the liquid. Some salty liquid stayed in the ice. How could we get rid of more of it? Which idea will work best? Why?  
-  *Child mode:* The ice in Freeze the Sea was still a little salty. How could you get it fresher?
+  *Parent says:* In Freeze the Sea, the melted ice was fresher than the sea water, but still a little salty. Tell me three ways to make it fresher. Which will work best? Why?  
+  *Child mode:* Think of three ways to make the ice fresher.
   - Ask: In Freeze the Sea, why was the melted ice still a little salty? (good: Some salty liquid was trapped in the ice.; Salty liquid clung to the outside of the ice.)
   - Note: The salty liquid is trapped in tiny pockets between the ice crystals. Anything that opens those pockets or drains them, such as breaking the ice, rinsing it or freezing a second time, helps.
 - **s2 (12 min)**  
@@ -640,12 +640,12 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **s4 (8 min)**  
   *Parent does:* Look at the results together. Ask the questions below.  
   *Parent says:* Which design made the freshest ice? How much melted ice was left? What do you give up to get fresher ice?  
-  *Child mode:* Which design was freshest? How much ice was left?
+  *Child mode:* Look at your results together.
   - Ask: What do you give up to get fresher ice? (good: Less water, because some is thrown away each time.; More time, because each freeze takes hours.)
   - Note: A second freezing leaves less water but fresher. This is how freeze desalination works, in plants that use cold to take the salt out of sea water. It costs a great deal of energy.
 ### c2 · A Water Plan for a Small Island (40 min)
 - **problem:** A made-up coral island has 300 people. Each person needs 40 litres a day for drinking, cooking and washing. The island has 3,000 square metres of roof and 1,500 millimetres of rain a year. Plan where the water comes from for the whole year.
-- **your turn:** Now make your own plan for the island. Draw it, and list the litres from the roofs, the wells and the plant. Say how you would keep the wells from turning salty.
+- **your turn:** Now make your own plan for the island. List the litres from the roofs, the wells and the plant. Say how you would keep the wells from turning salty. Draw it if you like.
 - **constraints:** The yearly need is 300 people times 40 litres times 365 days.; Roof tanks catch 7 tenths of the rain that falls on the roofs.; The island's shallow wells can safely give 2,000 litres a day in all. More than that turns the water salty.; A sea-water plant makes fresh water at 2,000 litres a day. It uses fuel, and sends salty water back to the sea.
 - **general:** Collect rain from every roof into tanks, and use the tank water first.; Use the wells for the rest, and never pump more than 2,000 litres a day.; Run the sea-water plant only when the tanks and the wells are not enough.
 - **creative:** Flush toilets with sea water, so that fresh water is used only for drinking, cooking and washing.; Use washing water for the coconut palms and the vegetable beds.; Mend leaking pipes and taps first, because a litre that is saved costs nothing to make.
@@ -655,20 +655,20 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   *Child mode:* 300 people use 40 litres each a day. How many litres is that in a year?
   - Note: 300 times 40 is 12,000 litres a day. 12,000 times 365 is 4,380,000 litres a year.
 - **s2 (12 min)**  
-  *Parent does:* Work out each source. 1. Rain on the roofs: 3,000 times 1,500 litres. 2. Multiply by 7 tenths. 3. Wells: 2,000 times 365. 4. Add the two. How many litres are still missing?  
+  *Parent does:* Work out each source. 1. Rain on the roofs: 3,000 times 1,500 litres. 2. Multiply by 7 tenths. 3. Wells: they can safely give 2,000 litres a day, so 2,000 times 365. 4. Add the two. How many litres are still missing?  
   *Parent says:* One millimetre of rain on one square metre is one litre. How many litres of rain fall on all the roofs in a year? How much do the tanks catch? How much can the wells give?  
   *Child mode:* Work out the rain from the roofs. Work out the wells. How much is still missing?
   - Note: Rain on roofs: 3,000 square metres times 1,500 mm is 4,500,000 litres. Seven tenths of that is 3,150,000. Wells: 2,000 times 365 is 730,000. The gap is 500,000 litres a year, which is about 1,400 litres a day.
   - Check: The island's roofs catch 3,150,000 litres a year, and its wells give 730,000. The need is 4,380,000. Which is true? → **About 500,000 litres a year are still missing**
 - **s3 (10 min)**  
-  *Parent does:* Decide how to fill the gap. The plant makes 2,000 litres a day. How many days a year must it run? Then draw the plan.  
+  *Parent does:* Decide how to fill the gap. The plant turns sea water into drinking water and makes 2,000 litres a day. How many days a year must it run? Then write the plan as a list of sources and litres.  
   *Parent says:* How many litres a year are still missing? The plant makes 2,000 litres a day. How many days must it run? What else could close the gap?  
-  *Child mode:* Find how many days the plant must run. Draw the plan.
+  *Child mode:* Find how many days the plant must run. Write the plan as a list.
   - Note: 500,000 divided by 2,000 is 250 days. The plant would run most of the year. Saving water, as in the creative ideas, can cut that. Tanks must also store rain for the dry months, so the roofs' water is not all available at once.
 - **s4 (10 min)**  
   *Parent does:* Show the plan to a family member. Ask the questions below.  
-  *Parent says:* Explain your plan. Why do the wells have a limit? What would happen if the island pumped more?  
-  *Child mode:* Explain your plan. Why do the wells have a limit?
+  *Parent says:* Explain your plan. What would happen if the island pumped more?  
+  *Child mode:* Explain your plan to a family member.
   - Ask: Why do the wells have a limit of 2,000 litres a day? (good: Pumping harder pulls up the salt water that is under the fresh layer.; The fresh layer is thin, and rain refills it slowly.)
   - Ask: What is the cheapest way to close the gap? (good: Save water first, then use the plant for what is left.; Mend leaks and use water twice.)
   - Note: There is no single right plan. A good plan uses the rain first, keeps the wells below their limit, and runs the plant only for the gap.

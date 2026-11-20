@@ -274,7 +274,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 - **s2 (12 min)**  
   *Parent does:* 1. Take turns to read the top card. 2. Put it on a system and give a reason. 3. Name a second system if you think there is one. 4. Turn the card over and score.  
   *Parent says:* Read the card aloud. Which system is this organ in? Why? Does it also work for another system?  
-  *Child mode:* Read the card. Put it on a system. Say why. Name a second system if you can. Turn it over.
+  *Child mode:* Put the card on a mat. Then turn it over to check.
   - Ask: Why does the thigh bone belong to the circulatory system as well as the skeleton? (good: The marrow inside makes blood cells.; Blood cells are part of the blood.)
   - Note: A good reason names the organ's job: 'the bladder stores urine, so it is excretory'. If your child argues for a system that is not on the back, listen. The tongue or the ribs could fairly be put in two places as well.
 - **s3 (5 min)**  
@@ -293,7 +293,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 - **s2 (10 min)**  
   *Parent does:* 1. Turn over an event card and read it aloud. 2. Take turns to name a system and say what it does. 3. Push that token forward. 4. When nobody can add one, read the back. 5. Play six cards.  
   *Parent says:* Read the event. Name one system that helps, and say exactly what it does. Who can add another?  
-  *Child mode:* Read the event. Name a system that helps. Say what it does. Then the next player goes.
+  *Child mode:* Take your turn. Name a system and say what it does. Then the next player goes.
   - Ask: Which system was named for almost every event? Why? (good: Circulatory, because every working organ needs blood.; Nervous, because something has to sense and signal.)
   - Note: Ask for the job, not only the name. 'Respiratory' alone is not enough. 'The lungs take in more oxygen' is.
 - **s3 (3 min)**  
@@ -313,7 +313,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 - **s1 (4 min)**  
   *Parent does:* 1. Explain the test. 2. Ask for a guess and a reason. 3. Write both in the notebook.  
   *Parent says:* We will time how long you can count aloud on one breath. First you sit still. Then you do step-ups for a minute and count again. Will the time be the same? Why do you think so?  
-  *Child mode:* You will count aloud on one breath. First at rest, then after step-ups. Will the times be the same? Why? Write your guess.
+  *Child mode:* You will count aloud on one breath, first at rest and then after step-ups. Will the times be the same? Write your guess.
   - Ask: Why do you think the time will change, or stay the same? (good: After exercise I am out of breath, so I will need air sooner.; My lungs are the same size, so the time should be the same.; I breathe faster after running, so each breath is shorter.)
   - Note: Do not correct the guess. 'My lungs are the same size' is a sensible reason, and the test will answer it.
 - **s2 (7 min)**  
@@ -351,7 +351,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 - **question:** You move beans and count backwards in threes at the same time. Do you do each job as well as when you do it alone? Is it different if the second job is singing a song you know by heart?
 - **predict:** Guess first. You will move beans alone, count backwards alone, and then do both together. Will you move as many beans when you also count? Will singing a song slow the beans as much as counting does? Why do you think so?
 - **fair test:** Every round lasts 30 seconds. Use the same hand, the same two bowls and the same gap of about 20 centimetres between them. Move one bean at a time. Rest for half a minute between rounds. Do every kind of round twice. The second time, start counting from 101 and not 100, so that the answers are new. Only one thing changes: what else the brain is doing.
-- **record:** Draw a table with four rows: beans alone, threes alone, beans with threes, and beans with a song. Write the beans moved and the right answers for both tries.
+- **record:** Make a table with four rows: beans alone, threes alone, beans with threes, and beans with a song. Write the beans moved and the right answers for both tries.
 - **results table:** The round | Beans moved, try 1 | Beans moved, try 2 | Right answers, try 1 | Right answers, try 2
 - **s1 (3 min)**  
   *Parent does:* 1. Show the bowls and the beans. 2. Explain the four kinds of round. 3. Ask for a guess and a reason, and write both down.  
@@ -431,11 +431,11 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 - **s4 (2 min)**  
   *Parent does:* 1. Ask what your child noticed and what they wonder. 2. Write two questions in the notebook. 3. Keep them for the end of the unit.  
   *Parent says:* What did you notice in these three tries? What do you wonder about your throat and your voice?  
-  *Child mode:* What did you notice? What do you wonder? Write two questions.
+  *Child mode:* Tell your grown-up one thing you noticed. Then write two questions you wonder about.
   - Ask: What do you wonder? (good: Why does my voice stop when I swallow?; Why does the hum need my nose?; What is the bump that moves?)
   - Note: Do not answer the questions yet. The One Breath Count, the Swallow Pause and the cards on shared organs answer them.
 ### a2 · The Hundred Beans: where does the blood go when you run? (20 min)
-- **record:** Draw a table with seven rows, one for each place. Write your guess and the real number of beans, at rest and in hard exercise.
+- **record:** Make a table with seven rows, one for each place. Write your guess and the real number of beans, at rest and in hard exercise.
 - **s1 (4 min)**  
   *Parent does:* 1. Label the seven bowls. 2. Count out 25 beans. 3. Ask your child to share them among the bowls as a guess, and to give a reason.  
   *Parent says:* At rest, a grown-up's heart pumps about 5 litres of blood a minute. Each bean is 200 millilitres, so that is 25 beans. Which organs get the most? Why do you think so?  
@@ -452,7 +452,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
   *Child mode:* Now the body runs hard. Share 100 beans. Does any bowl get fewer than before? Why?
 - **s4 (4 min)**  
   *Parent does:* 1. Read out the real shares in hard exercise. 2. Your child moves the beans to match. Muscles 80, skin 6, brain 4, heart muscle 4, gut and liver 2, kidneys 2, everything else 2. 3. Write the numbers in the table.  
-  *Parent says:* Here are the real shares. Muscles 80, skin 6, brain 4, heart muscle 4, gut and liver 2, kidneys 2, everything else 2. Compare each bowl with the rest round.  
+  *Parent says:* Here are the real shares. Muscles 80, skin 6, brain 4, heart muscle 4, gut and liver 2, kidneys 2, everything else 2. Compare each bowl with the resting round.  
   *Child mode:* Move the beans to the real shares. Compare each bowl with before.
 - **s5 (3 min)**  
   *Parent does:* 1. Ask which bowls got fewer beans, which got the same and which got more. 2. Ask for a reason for each. 3. Read the note below after your child has answered.  
@@ -487,13 +487,13 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 ### a4 · The Handover Map: draw what each system gives the next (20 min)
 - **record:** Keep the finished map. Under it, write which box you think the body could least do without, and why.
 - **s1 (5 min)**  
-  *Parent does:* 1. Write the job at the top: 'Climb three floors of stairs'. 2. Draw eight boxes in a ring. 3. Label them: Brain and nerves, Leg muscles and bones, Lungs, Heart and blood, Small intestine, Liver, Skin, Kidneys.  
+  *Parent does:* 1. Write the job at the top: 'Climb three floors of stairs'. 2. Make eight boxes in a ring: draw them, or lay eight torn paper slips. 3. Label them: Brain and nerves, Leg muscles and bones, Lungs, Heart and blood, Small intestine, Liver, Skin, Kidneys.  
   *Parent says:* We will draw everything your body does to climb three floors. Each box is an organ or a pair of organs.  
-  *Child mode:* Write the job at the top. Draw eight boxes in a ring. Label them.
+  *Child mode:* Write the job at the top. Make eight boxes in a ring. Label them.
 - **s2 (8 min)**  
   *Parent does:* 1. Ask your child what the leg muscles need, and where each thing comes from. 2. For each answer, draw an arrow between two boxes. 3. Write on the arrow what is handed over. 4. Use one colour for things carried in the blood, one for nerve signals and one for wastes and heat.  
   *Parent says:* What do your leg muscles need in order to work? Where does each thing come from? What do the muscles give back?  
-  *Child mode:* What do your leg muscles need? Where does it come from? Draw an arrow for each handover.
+  *Child mode:* Find where each thing comes from. Draw an arrow for each handover, or point and say it.
   - Ask: What do working muscles hand back to the blood? (good: Carbon dioxide.; Heat.; Other wastes.)
   - Note: A full map has at least these arrows. The brain sends signals to the muscles. The lungs pass oxygen to the blood. The small intestine passes sugar from breakfast to the blood. The liver passes stored sugar to the blood. The blood carries oxygen and sugar to the muscles. The muscles hand carbon dioxide and heat back to the blood. The blood carries carbon dioxide to the lungs and heat to the skin. The blood carries urea and spare water to the kidneys. The blood tells the brain how much carbon dioxide there is. The brain then sends signals to the heart and lungs to work faster.
 - **s3 (4 min)**  
@@ -501,9 +501,9 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
   *Parent says:* Cover the lungs with your hand. Follow the arrows. What stops first? Now try the liver, and then the heart.  
   *Child mode:* Cover one box. Follow the arrows. What stops first? Try three boxes.
 - **s4 (3 min)**  
-  *Parent does:* 1. In a corner of the map, sketch the heart as four boxes: two above and two below. 2. Your child traces the path of the blood with a finger and says each chamber aloud.  
+  *Parent does:* 1. In a corner of the map, lay four small torn paper squares as the heart: two above (the atria) and two below (the ventricles). Label the top two 'right atrium' and 'left atrium', and the bottom two 'right ventricle' and 'left ventricle'. The right ones go on the left, as the heart faces you. 2. Your child traces the path of the blood with a finger and says each chamber aloud.  
   *Parent says:* Trace the blood with your finger. Start in the right atrium. Say each chamber and each stop until you are back.  
-  *Child mode:* Sketch the heart as four boxes. Trace the blood round both loops. Say each chamber.
+  *Child mode:* Lay four paper squares as the heart. Trace the blood round both loops. Say each chamber.
   - Check: Blood leaves the right ventricle. Where does it go next? → **To the lungs**
 
 ## Projects
@@ -522,7 +522,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
   - Wait: Do this the day after you draw the bones
 - **s3 (20 min)**  
   *Parent does:* 1. Day 3. On page 4, draw the kidneys, ureters and bladder, and the reproductive organs. 2. On page 5, draw the brain in three parts, the spinal cord, and the glands: thyroid, adrenals, pancreas, and ovaries or testes. 3. Stack all five pages over the outline and staple them at the top. 4. Look through the stack. Put a star by every organ that appears on two pages.  
-  *Parent says:* Today you finish the book. Hold the stack up to the light. Which organs did you draw twice? Why did you have to?  
+  *Parent says:* Today you finish the book. Hold the stack up to the light and look through it.  
   *Child mode:* Draw pages 4 and 5. Stack all the pages. Star each organ that you drew on two pages.
   - Ask: Which organs did you draw on two pages, and why? (good: The throat, because air and food both pass through.; The diaphragm, because it is a muscle and it does the breathing.; The pancreas, because it makes digestive juice and hormones.; The ovaries or testes, because they also make hormones.)
   - Note: Your child may also notice that the ribs help with breathing, and that the marrow in the bones makes blood. Any organ with a reason counts.
@@ -531,14 +531,14 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 ## Challenges
 ### c1 · The Throat Switch: one way in, two ways down (30 min)
 - **problem:** Build a model throat with one opening at the top and two cups below: a stomach cup and a lung cup. Rajma beans are the food, and small paper balls are the air. Every bean must land in the stomach cup, and every paper ball must land in the lung cup.
-- **your turn:** Now design a throat that needs no thread. It must sort beans from paper balls with no help from you. Draw it, build it and test it with 10 beans and 10 paper balls. Write how many went the right way.
+- **your turn:** Now design a throat that needs no thread. It must sort beans from paper balls with no help from you. Plan it with a quick sketch or by telling your grown-up, then build it and test it with 10 beans and 10 paper balls. Write how many went the right way.
 - **constraints:** Everything goes in through the same opening at the top.; Once a bean or a paper ball is dropped, you may not touch either one.; In your first design you may pull one thread to work a flap.; Test with 10 beans and 10 paper balls, dropped in a mixed-up order.
 - **general:** A flap on a tape hinge covers the way to the lung cup. Pull a thread to close it for each bean, as the epiglottis does.; Move the lung tube instead of the flap. Slide it up under a fixed roof for each bean, as your voice box lifts when you swallow.; Use a sloping ramp with a gate that you swing to one side or the other.
 - **creative:** Make the switch work by weight. A light flap lets a heavy bean drop through, but a paper ball rolls across it to the lung cup.; Build a whale's design: two separate openings and no switch at all. Then say what a whale gives up.; Add a puff test. Blow down the top and check that the air comes out on the lung side.
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem together. 2. Recall Say It While You Swallow, where the bump in the throat jumped up at each swallow. 3. Ask what the real throat does to keep food out of the windpipe.  
   *Parent says:* In Say It While You Swallow, your voice box jumped up at every swallow. What was it doing? How could a model do the same job?  
-  *Child mode:* Your voice box jumped up when you swallowed. Why? How could a model do that job?
+  *Child mode:* Think about how a model could do the same job.
   - Ask: What stops food going down the windpipe? (good: A flap covers it.; The voice box lifts up under the flap.; Breathing stops for a moment.)
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Tape the tube upright on the cardboard, above the two cups. 2. Cut a card flap and hinge it with tape below the tube. 3. Tie the thread to the flap. 4. Try a few beans and paper balls, and adjust the flap.  

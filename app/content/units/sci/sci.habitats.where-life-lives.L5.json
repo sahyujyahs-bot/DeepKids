@@ -568,7 +568,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about reaching an island. A new island lies 100 kilometres out to sea. Each card names a living being. You say whether they could get there without people, and how.",
+   "context": "This is a card game about reaching an island. A new island lies 100 kilometres out to sea. Each card names a living being. You say whether they could get there without people, and how. You will find out which kinds of living beings reach a far island, and which do not.",
    "printables": [
     {
      "kind": "cards",
@@ -721,7 +721,7 @@
      "mins": 4,
      "do": "1. Lay all the cards face up. 2. Sort them into two rows: those who cross and those who stay. 3. Ask what the island will be like after a thousand years.",
      "say": "Look at the row who cross. What kinds of living beings will this island have? Who will be missing?",
-     "kid": "Sort the cards into 'cross' and 'stay'. Who will live on the island? Who will be missing?",
+     "kid": "Sort the cards into 'cross' and 'stay'.",
      "check": {
       "t": "mcq",
       "q": "Which group is most likely to be missing from a far island?",
@@ -747,7 +747,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about plants and animals in India. Each card names one. You decide whether they are native to India, introduced by people without harm, or invasive.",
+   "context": "This is a card game about plants and animals in India. Each card names one. You decide whether they are native to India, introduced by people without harm, or invasive. You will find out which newcomers do harm and which do not.",
    "printables": [
     {
      "kind": "cards",
@@ -891,7 +891,7 @@
      "mins": 3,
      "do": "1. Lay the introduced cards and the invasive cards in two rows. 2. Count how many came from the Americas. 3. Ask why so many did.",
      "say": "Count the cards from the Americas. Why did so many newcomers to India come from there, and only in the last 500 years?",
-     "kid": "Count the cards from the Americas. Why so many? Why only in the last 500 years?",
+     "kid": "Count the cards from the Americas.",
      "check": {
       "t": "mcq",
       "q": "Why did plants from the Americas reach India only in the last 500 years?",
@@ -915,7 +915,7 @@
    "title": "The Separated Lines Test: do two families of copies stay alike if they never mix?",
    "mins": 37,
    "days": 1,
-   "context": "In this experiment a line is copied by eye, and then the copy is copied, ten times over. Two families of copies are kept apart. Two other families are mixed at every step. You measure how far apart each pair ends.",
+   "context": "In this experiment a line is copied by eye, and then the copy is copied, ten times over. Two families of copies are kept apart. Two other families are mixed at every step. You measure how far apart each pair ends. You will find out whether copies that never meet drift apart, while copies that mix stay alike.",
    "question": "Two families of lines both start from the same 100 millimetre line. Each new line is copied from the line before. If the two families never see each other, will they stay the same length? What if they are mixed at every step?",
    "predict": "Guess before you draw. After ten copies, how many millimetres apart will the two separated families be? How far apart will the two mixed families be? Why do you think so? Write both guesses and your reasons.",
    "fair_test": "All four families start from a line exactly 100 millimetres long. The same person makes every copy, with the same pencil, after looking for the same 3 seconds. Nobody uses a ruler while copying, and nobody looks back at older lines. Every family gets ten copies. Only one thing differs. Families A and B never see each other. Families C and D are copied from both at once. One run can be a fluke, so the last step tells you how to check your result.",
@@ -1111,7 +1111,7 @@
      "mins": 6,
      "do": "1. Compare the last row: which pair ended further apart? 2. Count the rows in which the A and B gap is the bigger one. 3. Ask your child what they thought, what they saw and why it happened. 4. Then read the note below together.",
      "say": "Which pair ended further apart? In how many rows was the A and B gap bigger? Say what you thought, what you saw, and why you think it happened.",
-     "kid": "Which pair ended further apart? Say what you thought, what you saw and why it happened.",
+     "kid": "Look at the last row. Tell your grown-up what you saw and why you think it happened.",
      "ask": [
       {
        "q": "You tried to copy every line exactly. So where did the difference between A and B come from?",
@@ -1151,7 +1151,7 @@
    "title": "The Far Island Test: do fewer travellers reach a far island than a near one?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment rice grains stand for seeds and small animals blown or washed out to sea. You pour rice onto an upturned bowl so that the grains scatter. You count how many land in bowls placed near, further and furthest away.",
+   "context": "In this experiment rice grains stand for seeds and small animals blown or washed out to sea. You pour rice onto an upturned bowl so that the grains scatter. You count how many land in bowls placed near, further and furthest away. You will find out why far islands get fewer newcomers.",
    "question": "Grains scatter from one spot in all directions. Three bowls of the same size stand at one, two and three steps of distance. How many grains land in each? Does a bowl twice as far away catch half as many? Does a wide plate catch more than a small bowl at the same distance?",
    "predict": "Guess before you pour. If the near bowl catches 30 grains, how many will the bowl twice as far away catch: 30, 15, or fewer than 15? Will a wide plate catch more than a small bowl at the same distance? Why do you think so? Write your guesses and reasons.",
    "fair_test": "Use the same spoon of rice, poured from the same height onto the same spot, for every pour. The three island bowls are the same size, and each has a cloth inside so that grains do not bounce out. Only the distance changes. In the second part, only the size of the island changes. Pour three times and add the counts, because grains bounce differently each time.",
@@ -1285,7 +1285,7 @@
      "mins": 6,
      "do": "1. Look at the totals together. 2. Ask your child what they thought, what they saw and why it happened. 3. Read the note below together. 4. Wash the rice and cook it.",
      "say": "Say what you thought would happen, what you saw, and why you think it happened. Was twice as far half as many?",
-     "kid": "Say what you thought, what you saw and why it happened. Was twice as far half as many?",
+     "kid": "Look at your totals. Say what you saw and why you think it happened.",
      "ask": [
       {
        "q": "Why did the far bowl catch far fewer than half as many grains?",
@@ -1327,7 +1327,7 @@
    "title": "Who Lives Where? Eight animals on a world map",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you place eight animals on a simple world map, each on the land where they live wild. Then you look for anything odd in the pattern.",
+   "context": "In this activity you place eight animals on a simple world map, each on the land where they live wild. Then you look for anything odd in the pattern. You will see that animals are not spread evenly over the Earth, and ask why.",
    "materials": [
     {
      "item": "sheet of plain paper",
@@ -1351,7 +1351,7 @@
    "setup": [
     {
      "art": "A child's rough pencil map of the world on one sheet of paper, with seven blobs for the continents labelled by name.",
-     "caption": "1. Draw a rough world map: seven blobs for the continents, each with a name."
+     "caption": "1. Tear a rough world map from paper: seven blobs for the continents, each with a name."
     },
     {
      "art": "Eight small paper slips with animal names being placed on the hand-drawn map, a penguin slip at the bottom and a polar bear slip at the top.",
@@ -1366,9 +1366,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Look at a world map together. 2. Your child draws seven rough blobs for the continents and names them. 3. Mark the North Pole and the South Pole. 4. Mark Madagascar and India.",
+     "do": "1. Look at a world map together. 2. Your child tears seven rough paper shapes for the continents and writes a name on each. 3. Put a slip for the North Pole and one for the South Pole. 4. Put slips for Madagascar and India.",
      "say": "The shapes can be rough. We only need to know which land is which, and where the two poles are.",
-     "kid": "Draw seven blobs for the continents. Name them. Mark the two poles, Madagascar and India.",
+     "kid": "Tear seven paper shapes for the continents. Name them. Add slips for the two poles, Madagascar and India.",
      "parent": "The seven continents are Asia, Africa, Europe, North America, South America, Australia and Antarctica. Madagascar is the large island beside southern Africa.",
      "context": "This is the first step of Who Lives Where? Here you draw a rough map of the world."
     },
@@ -1386,7 +1386,7 @@
      "mins": 4,
      "do": "1. Ask what your child notices about the map. 2. Ask what they wonder. 3. Ask about the two cold ends of the Earth. 4. Write down one question to answer later.",
      "say": "What do you notice? What do you wonder? Both poles are icy. Why do penguins live at only one, and polar bears at only the other?",
-     "kid": "What do you notice? Both poles are icy. Why are penguins at only one? Write one question.",
+     "kid": "Look at the map. Say one thing you notice. Write one question.",
      "ask": [
       {
        "q": "India has forests full of flowers. Why might there be no hummingbirds in India?",
@@ -1408,7 +1408,7 @@
    "title": "The Gondwana Jigsaw: do the fossils line up?",
    "mins": 22,
    "days": 1,
-   "context": "In this activity you trace the southern continents, cut them out and fit them together into Gondwana. Then you check whether fossil finds on separate continents meet when the pieces are joined.",
+   "context": "In this activity you trace the southern continents, cut them out and fit them together into Gondwana. Then you check whether fossil finds on separate continents meet when the pieces are joined. You will see why the same fossils turn up on lands far apart.",
    "materials": [
     {
      "item": "school atlas, or a world map on a phone or a calendar",
@@ -1459,7 +1459,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. With green, shade part of all six pieces: the Glossopteris plant grew on every one. 2. With orange, mark southern Africa, India and Antarctica: Lystrosaurus fossils lie there. 3. Ask how one land animal could be on three lands.",
-     "say": "Lystrosaurus was a land animal about as long as a goat. Her fossils lie in Africa, India and Antarctica. How could that be?",
+     "say": "Lystrosaurus was a land animal about as long as a goat. Its fossils lie in Africa, India and Antarctica. How could that be?",
      "kid": "Shade all six pieces green for one fossil plant. Mark Africa, India and Antarctica orange for one fossil animal.",
      "ask": [
       {
@@ -1479,7 +1479,7 @@
      "mins": 5,
      "do": "1. Fit South America against the west side of Africa. 2. Put Madagascar and India against the east side of Africa. 3. Put Antarctica below them and Australia beside Antarctica. 4. Look at the coloured patches.",
      "say": "Push the pieces together like a jigsaw. Now look at the orange marks. What has happened to them?",
-     "kid": "Fit the six pieces into one big land. Look at the orange marks. What do you see?",
+     "kid": "Fit the six pieces into one big land. Look at the orange marks.",
      "check": {
       "t": "mcq",
       "q": "When the pieces are joined, the fossil places meet. What does this suggest?",
@@ -1498,9 +1498,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Slide India slowly north, leaving Madagascar behind. 2. Stop when India would meet Asia. 3. Glue the pieces down. 4. Draw an arrow for India's journey.",
-     "say": "India left Madagascar roughly 90 million years ago and met Asia about 50 million years ago. Suppose frogs lived on both pieces. What happened to them?",
-     "kid": "Slide India north, away from Madagascar. Glue the pieces down. Draw an arrow for India's journey.",
+     "do": "1. Slide India slowly north, leaving Madagascar behind. 2. Stop when India would meet Asia. 3. Glue the pieces down. 4. Lay a pencil along India's journey, or draw an arrow.",
+     "say": "India left Madagascar roughly 90 million years ago and met Asia about 50 million years ago.",
+     "kid": "Slide India north, away from Madagascar. Glue the pieces down. Show India's journey with a pencil or an arrow.",
      "ask": [
       {
        "q": "Frogs lived on the land before it split. What happened to the two groups afterwards?",
@@ -1519,7 +1519,7 @@
    "title": "Land Bridge in a Tray: which island could animals walk to?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you build a mainland and two islands from dough in a tray of water. One channel is shallow and one is deep. You lower the water, as an ice age does, and see which island joins the mainland.",
+   "context": "In this activity you build a mainland and two islands from dough in a tray of water. One channel is shallow and one is deep. You lower the water, as an ice age does, and see which island joins the mainland. You will find out why animals could walk to some islands but not others.",
    "materials": [
     {
      "item": "deep tray, a baking dish or a wide steel basin",
@@ -1538,7 +1538,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the tray from the side twice: with high water and with low water. Label the mainland, the two islands, the shallow channel and the deep channel.",
+   "record": "Take two photos of the tray, one with high water and one with low water. Point to the mainland, the two islands, the shallow channel and the deep channel, and say which island joined. Or draw the tray from the side twice and label it.",
    "setup": [
     {
      "art": "A baking dish with a slab of dough along one side as the mainland, two lumps of dough as islands, a thin layer of dough on the floor of the dish between the mainland and the first island, and bare dish floor before the second island.",
@@ -1661,7 +1661,7 @@
      "mins": 6,
      "do": "1. Measure the bare gap between the skin and the line. 2. Multiply by 26 to get the growth in a year. 3. Change it to centimetres. 4. Compare it with 5 centimetres, the Indian plate's yearly movement.",
      "say": "There are 26 two-week stretches in a year, so multiply by 26. Is your nail faster or slower than India?",
-     "kid": "Measure the bare gap in millimetres. Multiply by 26. Is your nail faster or slower than India?",
+     "kid": "Measure the bare gap in millimetres. Multiply it by 26.",
      "wait": "Do this 14 days after painting the line",
      "ask": [
       {
@@ -1682,7 +1682,7 @@
    "title": "Count the Bites: is a newcomer plant eaten less? (if you have a street, a garden or a park nearby)",
    "mins": 20,
    "days": 1,
-   "context": "In this outdoor activity you look at twenty leaves of a plant native to India and twenty leaves of a plant introduced from another continent. You count how many leaves have holes or chewed edges.",
+   "context": "In this outdoor activity you look at twenty leaves of a plant native to India and twenty leaves of a plant introduced from another continent. You count how many leaves have holes or chewed edges. You will test whether a plant from far away is eaten less.",
    "materials": [
     {
      "item": "notebook and pencil",
@@ -1729,7 +1729,7 @@
      "mins": 5,
      "do": "1. Compare the two numbers. 2. Ask what your child thought, what they saw and why it might be so. 3. Ask what else could explain the result.",
      "say": "Say what you thought, what you saw, and why it might be so. What else could explain it, apart from where the plant came from?",
-     "kid": "Compare your two numbers. Say what you thought and what you saw. What else could explain it?",
+     "kid": "Compare your two numbers. Say what you thought and what you saw.",
      "ask": [
       {
        "q": "What else, apart from the plant's homeland, could make one plant less bitten?",
@@ -1790,7 +1790,7 @@
      "what": "Write what is being done, and what you would do. Present the file."
     }
    ],
-   "record": "A three-page file. Page 1: a drawing of the newcomer and a map of the journey. Page 2: a table with two columns, 'who lost' and 'who gained'. Page 3: what is being done, and your own plan with one reason.",
+   "record": "A three-page file. Page 1: a photo or drawing of the newcomer, and the journey on a map. Page 2: a table with two columns, 'who lost' and 'who gained'. Page 3: what is being done, and your own plan with one reason.",
    "setup": [
     {
      "art": "A child drawing a lantana sprig on the first page of a paper file, with an atlas open at a world map and an arrow pencilled from South America to India.",
@@ -1809,9 +1809,9 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Choose one: lantana, water hyacinth, parthenium, the giant African snail, seemai karuvelam, gulmohar, eucalyptus, or the chilli plant. 2. Find the homeland. 3. Draw the journey to India on a map. 4. Find out who brought them, when and why.",
+     "do": "1. Choose one: lantana, water hyacinth, parthenium, the giant African snail, seemai karuvelam, gulmohar, eucalyptus, or the chilli plant. 2. Find the homeland. 3. Show the journey to India on a map: draw it, or lay a thread along it and take a photo. 4. Find out who brought them, when and why.",
      "say": "Choose a newcomer you can see near home, if you can. Where is their homeland? How did they cross the sea, and who wanted them here?",
-     "kid": "Choose one newcomer. Find their homeland. Draw the journey on a map. Find who brought them and why.",
+     "kid": "Choose one newcomer. Find their homeland. Show the journey on a map. Find who brought them and why.",
      "parent": "Some answers are not known for certain, and it is good to write 'nobody is sure'. A harmless newcomer such as chilli or gulmohar is as good a choice as an invasive one.",
      "context": "This is day 1 of A Newcomer's File. Here you choose a plant or animal and trace their journey to India."
     },
@@ -1836,7 +1836,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Find out what is being done: pulling out, a natural enemy, a law, or nothing. 2. Your child writes their own plan and one reason. 3. Your child presents the file to the family.",
+     "do": "1. Find out what is being done: pulling out, a natural enemy, a law, or nothing. 2. Your child tells or writes their own plan and one reason. 3. Your child presents the file to the family.",
      "say": "What are people doing about this newcomer? What would you do, and why? What might go wrong with your plan?",
      "kid": "Find what people are doing. Write your own plan and a reason. Show your file to the family.",
      "wait": "Do this on day 3",
@@ -1939,7 +1939,7 @@
      "mins": 8,
      "do": "1. Read the task under 'Your turn' together. 2. Your child plans how to spend 30 squares of work, starting from 4 beans. 3. Play the plan with the beans. 4. Compare an early plan with a late plan.",
      "say": "You have 30 squares of work, and the weed covers 4 squares. When will you spend the work? Why? Play it and see.",
-     "kid": "You have 30 squares of work. The weed covers 4. Plan when to clear. Play your plan.",
+     "kid": "Plan when to clear. Play your plan with the beans.",
      "parent": "Spending 8 at once wins: 4 doubles to 8, and 8 are cleared. Waiting two rounds means 16 double to 32, which is more than 30. The same work that wins early loses late. Real water hyacinth mats can double in one to two weeks.",
      "context": "This is the last step of Clear the Tank. Here you make your own plan with a fixed amount of work."
     }
@@ -2004,7 +2004,7 @@
      "mins": 7,
      "do": "1. Show the five kinds of cargo and the tools. 2. Your child plans a check for each cargo and says why it should work. 3. Your child lays out the chosen tools.",
      "say": "Seeds could be in any of these. How will you check each one quickly? Why should your way work? Choose your tools now.",
-     "kid": "Look at the five kinds of cargo. Plan a check for each. Say why it should work. Choose your tools.",
+     "kid": "Look at the five kinds of cargo and the tools. Pick the tool you will use for each.",
      "ask": [
       {
        "q": "Which cargo do you expect to be hardest, and why?",

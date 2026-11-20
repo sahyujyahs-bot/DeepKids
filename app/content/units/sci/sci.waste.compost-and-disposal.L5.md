@@ -316,7 +316,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s1 (5 min)**  
   *Parent does:* 1. Copy the city sheet onto paper, with 25 boxes for the landfill. 2. Cut out the 24 waste cards and shuffle them. 3. Read the rules aloud together. 4. Ask what the city should buy first, and why.  
   *Parent says:* You are the city council. The landfill has only 25 spaces, and the city makes 6 cards of waste a year. What will you buy first? Why?  
-  *Child mode:* Copy the city sheet. Draw 25 boxes for the landfill. Shuffle the waste cards. Decide what to buy first.
+  *Child mode:* Copy the city sheet with its 25 landfill boxes. Shuffle the waste cards.
   - Note: With nothing bought, the landfill takes at least 6 boxes a year and is full in the fifth year. Sorting at home must come first. After that, the dry waste centre takes 10 of the 24 cards and the compost plant takes 8. These two matter most.
 - **s2 (15 min)**  
   *Parent does:* 1. Each year, take 3 coins and buy or save. 2. Turn over 6 cards. 3. Send each card to something you have bought, or to the landfill. 4. Tick the landfill boxes. 5. Cross off the year. 6. Play 8 years, or until the landfill is full.  
@@ -327,8 +327,8 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
   - Note: A good order is this. Buy sorting at home in year 1 and save in year 2. Buy the compost plant and the dry waste centre in years 3 and 4. The hazard collection and the packet rule come after. That usually ends with about 20 boxes ticked. Buying the packet rule or the hazard collection before the two big plants often fills the landfill by year 8.
 - **s3 (5 min)**  
   *Parent does:* 1. Count the empty boxes. 2. Ask which purchase saved the most boxes. 3. Ask what the game leaves out. 4. Play again with a different order, and compare the scores.  
-  *Parent says:* How many boxes are still empty? Which thing you bought saved the most space? What does a real city have to think about that this game leaves out?  
-  *Child mode:* Count the empty boxes. Which thing you bought saved the most space? What does the game leave out?
+  *Parent says:* How many boxes are still empty? Which thing you bought saved the most space?  
+  *Child mode:* Count the empty boxes. Find the thing you bought that saved the most space.
   - Ask: What does a real city have to think about that this game leaves out? (good: People have to agree to sort their waste. Coins cannot buy that.; The compost and the recycled things need buyers.; The people who collect and sort the waste need fair pay and safe work.; A real city makes more waste every year.)
   - Check: In The Last Landfill, why must SORTING AT HOME be bought before the compost plant? → **Mixed waste cannot be composted or recycled**
 
@@ -343,7 +343,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s1 (6 min)**  
   *Parent does:* 1. Lay the plastic things on the newspaper. 2. Find the small triangle on each one. It is often on the base. 3. Read the number inside and write it in the table. 4. If a thing has no number, write 'none'.  
   *Parent says:* Every one of these is called plastic. Let's see if they are marked the same. Find the little triangle and read the number inside.  
-  *Child mode:* Find the small triangle on each plastic thing. Read the number inside. Write it in your table. Write 'none' if there is no number.
+  *Child mode:* Find the small triangle on each plastic thing. Read the number inside. Write it in your table, or write 'none'.
   - Note: A drink bottle is marked 1. Caps are usually 2 or 5, and often have no mark. Milk packets are 4. Takeaway boxes and most curd cups are 5. Shampoo bottles are 2. Some disposable cups and spoons are 6.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Cut two squares, about 2 centimetres across, from the wall of the drink bottle. 2. Snip the loose ring from under the cap into two pieces. 3. Cut two squares from each other thing. 4. Put each pair on the newspaper beside the thing it came from.  
@@ -351,9 +351,9 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
   *Child mode:* Ask a grown-up to cut the pieces. You need two small squares from each thing. Keep each pair beside its own thing.
   - Note: Pierce the bottle wall with the scissor tip first, then cut. The ring under the cap is the same plastic as the cap and is much easier to cut. Do not use thermocol, which is full of air.
 - **s3 (4 min)**  
-  *Parent does:* 1. Fill the bowl with about 1 litre of water. 2. Add 2 drops of dish-washing liquid and stir gently, without making foam. 3. Ask for a guess and a reason for each thing. 4. Write the guesses in the table.  
+  *Parent does:* 1. Fill the bowl with about 1 litre of water. 2. Add 2 drops of dish-washing liquid and stir gently, without making foam. This stops air bubbles sticking to the pieces. 3. Ask for a guess and a reason for each thing. 4. Write the guesses in the table.  
   *Parent says:* All of these are plastic. When we push the pieces under water, will they all float, all sink, or will some do each? Why do you think so?  
-  *Child mode:* Look at your pieces. Will they all float? Will they all sink? Or some of each? Say why. Write a guess for each thing.
+  *Child mode:* Look at your pieces. Write 'floats' or 'sinks' as your guess for each thing.
   - Ask: Why do you think so? (good: They will all float, because plastic is light. (A fair guess. The test will show.); The thick ones will sink and the thin ones will float.; They might differ, because they have different numbers.)
   - Note: The soap stops small flat pieces from resting on the skin of the water. Do not correct the guesses.
 - **s4 (10 min)**  
@@ -364,7 +364,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
   - Note: The drink bottle pieces sink. The cap ring, the milk packet, the takeaway box and the shampoo bottle float. A piece marked 6 sinks slowly. If the two pieces of one thing disagree, look for an air bubble. Rub it off and push the piece under again.
 - **s5 (6 min)**  
   *Parent does:* 1. Fill the glass tumbler with 200 millilitres of water. 2. Add 6 level teaspoons of salt and stir for 2 minutes, until almost all of it dissolves. 3. Drop in one piece of each plastic that sank in plain water. 4. Push it under, let go and watch. 5. Write the result in the last column.  
-  *Parent says:* Salt water is denser than plain water. Will a piece that sank in plain water also sink in salt water? Why do you think so?  
+  *Parent says:* Salt water is denser than plain water. That means a cupful of it is heavier than a cupful of plain water. Will a piece that sank in plain water also sink in salt water? Why do you think so?  
   *Child mode:* Stir 6 teaspoons of salt into a tumbler of water. Drop in each piece that sank before. Does it still sink? Write what you see.
   - Note: The drink bottle piece still sinks. A solid piece marked 6 rises to the top, because it is only a little denser than plain water. You may have nothing marked 6 at home. Then the finding is simply that bottle plastic sinks even in salt water.
 - **s6 (8 min) · grown-up needed**  
@@ -375,7 +375,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s7 (5 min)**  
   *Parent does:* 1. Look at the whole table together. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Only then, explain density. 4. Ask what the numbers 1, 2, 4 and 5 turned out to mean.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did it happen?  
-  *Child mode:* Look at your table. Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Tell your grown-up your three answers.
   - Ask: All the pieces were about the same size. So why did some sink and some float? (good: They are different materials. Some are denser than water and some are less dense.; The bottle plastic packs more matter into the same space.)
   - Ask: A factory gets a sack of mixed bottles and caps, all chopped small. How could it separate them? (good: Tip them into a tank of water. The bottle bits sink and the cap bits float.)
   - Note: Density is how much matter is packed into each bit of space. Bottle plastic is about one and a third times as dense as water. Cap, packet and box plastics are a little less dense than water.
@@ -390,7 +390,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s1 (4 min)**  
   *Parent does:* 1. Open each packet flat and wipe it dry. 2. Cut a piece about 10 centimetres across from each. 3. Lay the pieces in a row, shiny side up. 4. Ask which are metal and which are plastic, and why. 5. Write the guesses in the table.  
   *Parent says:* These are all silver and shiny. Which do you think are metal, like the kitchen foil? Which are plastic? Why do you think so?  
-  *Child mode:* Lay the wrappers in a row, shiny side up. Which are metal? Which are plastic? Say why. Write your guesses.
+  *Child mode:* Lay the wrappers in a row, shiny side up. Write 'metal' or 'plastic' as your guess for each one.
   - Ask: Why do you think so? (good: They are all metal, because they are all shiny silver. (A fair guess. The test will show.); The chips packet is plastic, because it stretches before it tears.)
 - **s2 (6 min)**  
   *Parent does:* 1. Squeeze the kitchen foil into a tight ball in one fist and count to 5. 2. Put the ball on the table and count to 10. 3. Write whether it stays a ball or springs open. 4. Do the same with each wrapper.  
@@ -416,7 +416,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s6 (5 min)**  
   *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask why a company would stick three materials together. 3. Ask what that does to recycling.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did it happen?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Tell your grown-up your three answers.
   - Ask: Why would a company stick paper, plastic and metal together? (good: Each layer does a job. Paper makes it stiff, plastic keeps liquid in, and metal keeps light and air out.; It keeps food fresh for months with very little material.)
   - Ask: Why is such a packet hard to recycle? (good: A factory needs one material at a time, and these layers cannot be pulled apart cheaply.)
   - Check: A chips packet is silver inside but springs open after you scrunch it. What is it made of? → **Plastic film with a very thin metal coat**
@@ -435,7 +435,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s2 (3 min)**  
   *Parent does:* 1. Explain that every piece will be flattened and put back. 2. Ask how high the same waste will come then. 3. Ask for the reason. 4. Write the guess as a number of centimetres.  
   *Parent says:* We will flatten every piece and put it all back. How high will it come then? About the same, about half, or less? Why do you think so?  
-  *Child mode:* Every piece will be flattened and put back. How high will the waste come then? Say why. Write your guess in centimetres.
+  *Child mode:* Every piece will be flattened and put back. Look at the full bucket. Write your guess in centimetres.
 - **s3 (10 min)**  
   *Parent does:* 1. Tip the waste out. 2. Take the cap off each bottle, press the bottle flat under a shoe, and screw the cap back on. 3. Open the flaps of each carton and box and fold it flat. 4. Stack the cups inside each other. 5. Fold each packet flat. 6. Lay all the pieces back in the bucket, without pressing down.  
   *Parent says:* Take the cap off first, so the air can get out. Press the bottle flat, then put the cap back so it stays flat.  
@@ -444,27 +444,27 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s4 (4 min)**  
   *Parent does:* 1. Stand the ruler in the bucket again and read the new height. 2. Write it in the table. 3. Divide the first height by the second height. 4. Say the answer as 'so many times lower'.  
   *Parent says:* Read the new height. Now divide the first height by this one. How many times lower is the flattened waste?  
-  *Child mode:* Measure the new height. Write it down. Divide the first height by the new height. How many times lower is it?
+  *Child mode:* Measure the new height. Write it down. Divide the first height by the new height.
   - Note: Most families find the flattened waste is 3 to 5 times lower. With many bottles the difference is larger. With mostly paper it is smaller.
 - **s5 (4 min)**  
   *Parent does:* 1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask what was in the bucket the first time, besides waste. 3. Ask what this means for a waste truck.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did it happen?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. What does this mean for a waste truck?
+  *Child mode:* Look at both heights. Tell your grown-up what you saw and why it happened.
   - Ask: The amount of plastic and card did not change. So what left the bucket? (good: Air. The bottles and boxes were mostly full of air.; The space inside and between the pieces.)
   - Ask: What does this mean for the truck that collects dry waste? (good: A truck full of loose bottles is carrying mostly air.; If people flattened their waste, one truck could do the work of three or four.)
   - Check: In the Crush Test, flattened waste filled far less of the bucket. What changed? → **The space the waste takes up**
 
 ## Activities
 ### a1 · Once Alive or Never Alive: sort twelve things (12 min)
-- **record:** Draw the three groups in your notebook. Circle the things you think decomposers can eat.
+- **record:** Keep the three groups on the table, or take a photo of them. Tell your grown-up which things decomposers can eat.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the twelve things on a table. 2. Write three labels: MADE BY A LIVING BEING, MADE FROM ROCK, SAND OR ORE, and NOT SURE. 3. Ask what your child notices about the things, before any sorting.  
   *Parent says:* Here are twelve things we might throw out. Look at them and touch them. What do you notice? What do you wonder?  
-  *Child mode:* Lay out the twelve things. Look at them and touch them. What do you notice? What do you wonder?
+  *Child mode:* Lay out the twelve things. Look at each one and touch it.
 - **s2 (6 min)**  
   *Parent does:* 1. Ask your child to put each thing behind one label. 2. Ask for a reason each time. 3. Do not correct the choices yet. 4. Then ask which things decomposers could eat, and why.  
   *Parent says:* Where did the material of each thing come from? Did a plant or an animal make it? Or was it made from rock, sand or ore?  
-  *Child mode:* Put each thing behind one label. Say where its material came from. Then say which things decomposers can eat.
+  *Child mode:* Put each thing behind one label. Tell your grown-up where its material came from. Then pick out the things decomposers can eat.
   - Ask: Paper and cotton are dry. Why do they belong with the peel? (good: Paper is made from trees and cotton from a plant.; Decomposers can eat both, so they rot.)
   - Ask: Where did you put the plastic bottle, and why? (good: Not sure, because a factory made it.; With rock and ore, because it does not rot.)
   - Note: These were made by a living being: a peel, newspaper, cotton, a leaf, wood, a coconut shell and an eggshell. These were made from rock, sand or ore: glass, steel and foil. The eggshell is a good puzzle. A hen made it, but it is mostly a mineral, so it breaks down very slowly.
@@ -479,7 +479,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s1 (5 min)**  
   *Parent does:* 1. Write seven materials in a list: aluminium, iron and steel, clear plastic bottles, newspaper, cardboard, glass, chips packets. 2. Ask which one a scrap dealer pays most for. 3. Ask which one the dealer will not take at all. 4. Write the guesses and the reasons.  
   *Parent says:* A scrap dealer buys waste by the kilogram. Which of these do you think earns the most for one kilogram? Which earns nothing? Why?  
-  *Child mode:* Write the seven materials in a list. Which one earns the most for one kilogram? Which earns nothing? Say why.
+  *Child mode:* Write the seven materials in a list. Put a star by the one you think earns the most. Put a cross by the one that earns nothing.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Go with your child to a scrap dealer, or ask the kabadiwala who comes to your street. 2. Ask the price of 1 kilogram of each material. 3. Write each price beside its name. 4. Ask why some things are not bought at all.  
   *Parent says:* Let's ask the person who knows. Ask the price for one kilogram of each thing, and write it down.  
@@ -487,8 +487,8 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
   - Note: If you cannot ask anyone, use these example prices for 1 kilogram. Aluminium is 100 rupees, iron and steel are 25, clear plastic bottles are 15, and newspaper is 12. Cardboard is 6, glass is 2, and chips packets are worth nothing. Real prices change by city and by month.
 - **s3 (7 min)**  
   *Parent does:* 1. Draw a bar chart with one bar for each material. 2. Use 1 centimetre for every 10 rupees. 3. Ask why aluminium is worth so much. 4. Ask why nobody buys chips packets.  
-  *Parent says:* Draw a bar for each price. Now look at the tallest bar and the missing bar. Why is one worth so much and one worth nothing?  
-  *Child mode:* Draw a bar for each price. Find the tallest bar. Find the missing bar. Say why they are so different.
+  *Parent says:* Draw a bar for each price. Now look at the tallest bar and the missing bar.  
+  *Child mode:* Draw a bar for each price, or cut a paper strip for each one. Find the tallest bar and the missing bar.
   - Ask: Why is aluminium worth so much? (good: Making new aluminium from ore takes a great deal of electricity. Melting old aluminium takes very little.; It can be remelted again and again and stays as good.)
   - Ask: Why does nobody buy chips packets? (good: They are layers of plastic and metal stuck together, so no factory can use them as one material.; They are so light that a kilogram would need hundreds of packets.)
   - Check: A scrap dealer pays a lot for aluminium cans and nothing for chips packets. Why? → **Cans are one material that can be remelted**
@@ -497,7 +497,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s1 (5 min)**  
   *Parent does:* 1. Choose six things used in your home today. 2. Make a table with three columns: Thing, Used for, Lasts as waste for. 3. Write how long each thing was used, from opening it to throwing it. 4. For a thing that is not thrown, such as a steel tumbler, write 'still in use'.  
   *Parent says:* How long did we use each of these? Count from the moment we opened it to the moment we threw it out.  
-  *Child mode:* Choose six things you used today. Write how long each one was used. Count from opening it to throwing it.
+  *Child mode:* Choose six things you used today. Write how long each one was used.
   - Note: A milk packet is used for about a day. A toffee wrapper is used for a few minutes, after weeks in the shop. A newspaper is used for a day.
 - **s2 (5 min)**  
   *Parent does:* 1. Ask your child to guess how long each thing will last after it is thrown. 2. Ask for a reason. 3. Write the guesses in pencil in the third column.  
@@ -533,54 +533,54 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s4 (3 min)**  
   *Parent does:* 1. Ask what happened to the amount of paper. 2. Ask what the model says about a plastic bag in a field. 3. Ask what is different about real plastic pieces.  
   *Parent says:* What happened to the number of pieces? What happened to the total amount of paper? What does that tell us about a plastic bag in a field?  
-  *Child mode:* What happened to the number of pieces? What happened to the total amount? What does that say about a plastic bag?
+  *Child mode:* Count your pieces. Compare the paper you have now with the square you started with.
   - Ask: What is harder about many tiny pieces than one big piece? (good: They cannot be picked up again.; Small animals and fish can swallow them.; Wind and water carry them everywhere.)
   - Check: A plastic bag in a field cracks into thousands of tiny pieces. What has happened to the plastic? → **There is the same amount, in smaller pieces**
 ### a5 · Where Did the Peel Go? Follow one banana peel four ways (15 min)
-- **record:** Keep the drawing. Under it, write one sentence that is true of all four boxes.
+- **record:** Keep the sheet, or take a photo of it. Under it, write one sentence that is true of all four boxes.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw a banana peel in the middle of the paper. 2. Draw four boxes round it and label them: COMPOST POT, DEEP IN A DUMP, STREET FIRE, COW. 3. Ask in which box the peel is most completely gone, and why.  
+  *Parent does:* 1. Put a banana peel, or a paper cut-out of one, in the middle of the paper. 2. Write four labels in boxes round it: COMPOST POT, DEEP IN A DUMP, STREET FIRE, COW. 3. Ask in which box the peel is most completely gone, and why.  
   *Parent says:* One peel could end up in any of these four places. In which place is it most completely gone? Why do you think so?  
-  *Child mode:* Draw a peel in the middle. Draw four boxes round it. Label them. In which box is the peel most completely gone? Say why.
+  *Child mode:* Put the peel in the middle. Write the four labels in boxes round it. Point to the box where the peel is most completely gone.
 - **s2 (8 min)**  
   *Parent does:* 1. Take one box at a time. 2. Ask who or what changes the peel there. 3. Ask what the peel turns into. 4. Draw an arrow for each thing that leaves, and write where it goes: AIR, SOIL, WATER or A LIVING BODY.  
   *Parent says:* Who changes the peel in this box? What does the peel turn into? Draw an arrow for each thing, and write where it goes.  
-  *Child mode:* Take one box at a time. Who changes the peel there? What does the peel turn into? Draw an arrow to where each thing goes.
+  *Child mode:* Take one box at a time. Say who changes the peel there and what it turns into. Draw an arrow to where each thing goes, or point and tell.
   - Note: In a compost pot, decomposers work with air. Carbon dioxide and water vapour go to the air, and compost goes to the soil. Deep in a dump, microbes work without air. Methane and carbon dioxide go to the air, and leachate goes to the water under the dump. In a street fire, carbon dioxide, water vapour and smoke go to the air, and ash goes to the soil. A cow uses some of the peel to build her body and her milk. Some leaves in her breath, and the rest leaves as dung, which decomposers eat.
 - **s3 (4 min)**  
   *Parent does:* 1. Look at all four boxes together. 2. Ask in which box any of the peel's matter stopped existing. 3. Ask which box does the most good, and which does the most harm.  
-  *Parent says:* Look at all four boxes. In which one did any of the peel stop existing? Which box does the most good? Which does the most harm?  
-  *Child mode:* Look at all four boxes. Did any of the peel stop existing? Which box does the most good? Which does harm?
+  *Parent says:* Look at all four boxes. Did any of the peel stop existing? Which box does the most good? Which does the most harm?  
+  *Child mode:* Look at all four boxes. Point to the box that does the most good. Point to the box that does the most harm.
   - Ask: In which box did some of the peel's matter stop existing? (good: In none of them. Every bit went somewhere: the air, the soil, the water or a body.)
   - Check: A banana peel is burnt in a street fire. Where is most of its matter afterwards? → **In the air, as gases and smoke**
 
 ## Projects
 ### p1 · The Seven-Day Waste Count: what is our family's waste made of? (75 min, 7 days)
 - **safety:** Never open or sort waste that is already mixed. Wear gloves when you lift the wet waste bag, and keep the bag closed. Wash your hands with soap for 20 seconds afterwards. Hazardous waste and sanitary waste are counted, not weighed or handled.
-- **record:** Keep the daily table, the bar chart and a half-page report. The report says which kind of waste was heaviest and how much each person makes in a day. It also says what the family will change.
+- **record:** Keep the daily table, the bar chart and a short report. The report says which kind of waste was heaviest and how much each person makes in a day. It also says what the family will change.
 - **schedule:** day 1: Label five containers. Weigh each one empty. Learn to weigh with the scale or the hanger balance. (20 min); day 2: In the evening, weigh each container and write the mass of waste. (5 min); day 3: Weigh each container and write the mass of waste. (5 min); day 4: Weigh each container and write the mass of waste. (5 min); day 5: Weigh each container and write the mass of waste. (5 min); day 6: Weigh each container and write the mass of waste. (5 min); day 7: Weigh once more. Add up each kind and draw a bar chart. Find the waste for each person in a day, and choose one kind to cut. (30 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Label five containers: WET, PAPER AND CARD, PLASTIC THAT SELLS, PACKETS AND WRAPPERS, GLASS AND METAL. 2. Weigh each empty container and write its mass on its label. 3. With no scale, hang a hanger on a hook with a carry bag on each end. 4. Put the thing to be weighed in one bag and a bottle in the other. 5. Pour water into the bottle from the measuring cup until the hanger is level. 6. Each millilitre of water is 1 gram.  
-  *Parent says:* For seven days, every bit of our waste goes into one of these five. Each evening we weigh them. What do you think will be heaviest? Why?  
-  *Child mode:* Label five containers. Weigh each one empty. Write its mass on the label. Guess which kind of waste will be heaviest. Say why.
+  *Parent says:* For seven days, every bit of our waste goes into one of these five. Each evening we weigh them.  
+  *Child mode:* Label five containers. Weigh each one empty. Write its mass on the label.
   - Ask: Which kind of waste do you think will be heaviest by the end of the week? Why? (good: Wet waste, because peels and leftovers are full of water.; Plastic, because we see so much of it. (A fair guess. The count will show.))
   - Note: PLASTIC THAT SELLS means bottles, rinsed milk packets and hard plastic. PACKETS AND WRAPPERS means chips packets, sachets and wrappers. If you use the hanger scale, the bottle in one bag has a mass of its own. To cancel it out, put an empty bottle of the same kind in the other bag, beside the waste. Keep sanitary waste and hazardous waste out of the count. Just note how many pieces there are.
 - **s2 (25 min)**  
-  *Parent does:* 1. Each evening, wear gloves and close the wet waste bag. 2. Weigh each container with its waste. 3. Subtract the mass of the empty container. 4. Write the mass of waste in the table. 5. Empty the containers in the usual way and wash your hands with soap. 6. Do this for days 2 to 6, about 5 minutes each evening.  
+  *Parent does:* 1. Each evening, wear gloves and close the wet waste bag. 2. Weigh each container with its waste. 3. Subtract the mass of the empty container. 4. Write the mass of waste in the table. 5. Empty the containers in the usual way and wash your hands with soap. 6. Do this on days 1 to 6, about 5 minutes each evening.  
   *Parent says:* Weigh each one, then take away the mass of the empty container. What is left is the mass of the waste.  
   *Child mode:* Each evening, weigh each container. Take away the mass of the empty container. Write the mass of waste. Wash your hands with soap.
   - Note: Subtracting the empty container is called taking the tare. If a day is missed, weigh two days together and write half for each day.
   - Wait: Do this every evening from day 2 to day 6.
 - **s3 (15 min)**  
   *Parent does:* 1. On day 7, weigh once more. 2. Add up the seven days for each kind of waste. 3. Add the five totals to get the week's waste. 4. Divide by 7, then by the number of people at home. 5. Draw a bar chart with one bar for each kind.  
-  *Parent says:* Add up each kind. Which is the tallest bar? Now divide the week's total by seven, and then by the number of us.  
-  *Child mode:* Add up each kind of waste. Add the five totals. Divide by 7. Divide by the number of people. Draw a bar for each kind.
+  *Parent says:* Add up each kind. Then divide the week's total by seven, and then by the number of us.  
+  *Child mode:* Add up each kind of waste. Add the five totals. Divide by 7. Divide by the number of people. Draw a bar for each kind. Or tell your grown-up which kind is heaviest.
   - Ask: Which kind was heaviest? Which kind took the most room in the bin? (good: Wet waste was heaviest.; Packets and plastic took the most room, though they weighed little.)
   - Note: In many Indian homes wet waste is about half the mass or more. Studies of Indian cities find a few hundred grams of waste for each person in a day. Your number may be lower or higher.
 - **s4 (15 min)**  
-  *Parent does:* 1. Ask which kind of waste the family could cut most easily. 2. Use the waste hierarchy: first refuse or reduce, then reuse, then recycle or compost. 3. Agree on one change for the next week. 4. Write a half-page report with the chart and the plan.  
+  *Parent does:* 1. Ask which kind of waste the family could cut most easily. 2. Use the waste hierarchy: first refuse or reduce, then reuse, then recycle or compost. 3. Agree on one change for the next week. 4. Write a short report with the chart and the plan: two or three sentences, or say it and write it for your child.  
   *Parent says:* Look at the chart. Which bar could we make shorter next week? What exactly will we do differently?  
-  *Child mode:* Look at your chart. Which bar could be shorter next week? Choose one change. Write a half-page report.
+  *Child mode:* Look at your chart. Which bar could be shorter next week? Choose one change. Write two or three sentences about it, or say them aloud.
   - Ask: Which change comes highest on the waste hierarchy? (good: Not buying the thing at all, such as carrying a bottle of water from home.; Buying loose snacks in our own box, so there is no packet.)
   - Check: A bin with waste weighs 1,350 grams. The empty bin weighs 400 grams. What is the mass of the waste? → **950 grams**
 
@@ -588,19 +588,19 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 ### c1 · A Dump That Does Not Leak (35 min)
 - **problem:** Build a model dump that holds 100 millilitres of 'rain' for 10 minutes without one drop leaking out below. Then find a way to take the dirty water out.
 - **safety:** A grown-up cuts the bottle and covers the cut edge with tape. Use only fresh, cooled tea leaves. Put them in the wet waste afterwards and wash your hands with soap.
-- **your turn:** Now design your own liner. Draw it first and label each layer. Build it, pour the rain and time 10 minutes. Then make one pinhole in your plastic layer and test again. Does your design still hold?
+- **your turn:** Now design your own liner. Lay out the layers first and say what each one does. Build it, pour the rain and time 10 minutes. Then make one pinhole in your plastic layer and test again. Does your design still hold?
 - **constraints:** The 'waste' is 2 tablespoons of today's used tea leaves, cooled. Add a pinch of turmeric and a pinch of salt.; The dump is the top half of a plastic bottle, turned upside down with the cap off. It stands in a glass tumbler.; The liner may use newspaper, cloth, a piece of carry bag, or kneaded atta dough, which stands for clay.; Pour the 100 millilitres slowly, over about one minute.
 - **general:** Line the funnel with a piece of plastic carry bag, pressed well into the neck.; Use two layers, so that a hole in one is covered by the other.; Press atta dough into the neck as a plug of 'clay'.
 - **creative:** Put dough under the plastic sheet, so that a pinhole in the plastic still does not leak. Real landfills use clay under plastic for this reason.; Slope the liner so that the dirty water runs to one low corner. Lift it out with a straw, holding a finger over the top end.; Add a 'roof' over the waste so that less rain gets in. Real landfills are covered with soil and a cap when they are full.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Stand the bottle top upside down in a tumbler, with the cap off. 2. Mix the tea leaves, turmeric and salt and put them in the funnel. 3. Ask what will come out when it rains on this dump, and why. 4. Pour 100 millilitres of water slowly over the waste. 5. Look at the water in the tumbler.  
   *Parent says:* This is a dump with nothing under it. If rain falls on it, what will come out at the bottom? Why do you think so?  
-  *Child mode:* Put the tea leaf 'waste' in the funnel. Guess what will drip out when it rains. Say why. Pour the water slowly. Look in the tumbler.
+  *Child mode:* Put the tea leaf 'waste' in the funnel. Pour the water slowly. Look in the tumbler.
   - Note: Yellow-brown water runs into the tumbler. It carries colour from the tea and turmeric, and salt that cannot be seen. This is leachate. Do not taste it.
 - **s2 (10 min)**  
-  *Parent does:* 1. Empty and rinse the funnel and the tumbler. 2. Ask your child to draw a liner design and label the layers. 3. Build the liner inside the funnel. 4. Put fresh tea leaf 'waste' on top of the liner.  
+  *Parent does:* 1. Empty and rinse the funnel and the tumbler. 2. Ask your child to lay out the layers of a liner on the table and say what each one is for. 3. Build the liner inside the funnel. 4. Put fresh tea leaf 'waste' on top of the liner.  
   *Parent says:* Now you are the engineer. What will you put under the waste, so that no dirty water reaches the tumbler? Why that?  
-  *Child mode:* Rinse the funnel. Draw your liner and label each layer. Build it inside the funnel. Put new 'waste' on top.
+  *Child mode:* Rinse the funnel. Lay out your liner layers and say what each one does. Build the liner inside the funnel. Put new 'waste' on top.
   - Note: Newspaper and cloth soak through within a minute. Plastic holds unless there is a gap at its edge. Dough holds well if it is pressed against the sides all the way round.
 - **s3 (10 min)**  
   *Parent does:* 1. Stand the funnel in a clean, dry tumbler. 2. Pour 100 millilitres of water slowly over the waste. 3. Time 10 minutes and count any drops that fall. 4. If it leaks, find where, mend the design and test again.  
@@ -609,28 +609,28 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
   - Ask: If your liner leaked, where did the water get through? (good: At the edge, where the plastic did not reach the side.; Through the newspaper, because paper soaks up water.)
 - **s4 (7 min)**  
   *Parent does:* 1. Look inside the funnel. The dirty water is now sitting in the dump. 2. Ask what should be done with it. 3. Try to take it out with a straw or a spoon, without moving the waste. 4. Compare your model with a real landfill.  
-  *Parent says:* Your liner held. But where is the dirty water now? It has not gone. What would you do with it in a real landfill?  
-  *Child mode:* Look inside the funnel. Where is the dirty water now? Try to take it out with a straw. What would a real landfill do?
+  *Parent says:* If your liner held, where is the dirty water now? It has not gone. What would you do with it in a real landfill?  
+  *Child mode:* Look inside the funnel. Try to take the dirty water out with a straw.
   - Note: A real landfill has pipes at the bottom that carry the leachate to a tank, where it is cleaned. A liner without pipes fills up like a bathtub and overflows.
   - Check: A landfill has a perfect liner but no pipes. It rains for years. What happens to the leachate? → **It collects until it overflows the liner**
 ### c2 · The One-Material Pack: keep a snack crisp for two days (30 min, 3 days)
 - **problem:** Design and build a pack that keeps four pieces of roasted papad crisp for two days. Every part of the pack must be a single material that rots, can be reused or can be recycled.
-- **your turn:** Now design your own pack. Draw it and name the material of every part. Build it, test it against the two controls for two days, and write what you found. Then say honestly what the chips packet did better.
+- **your turn:** Now design your own pack. Choose and name the material of every part. Build it, test it against the two controls for two days, and write what you found. Then say honestly what the chips packet did better.
 - **constraints:** No part may be two materials stuck together.; Test against two controls: papad left open on a plate, and papad in an old chips packet closed with a clip.; After two days, a papad piece passes if it still snaps cleanly when you bend it.; Write down what happens to each part of your pack after the snack is eaten.
 - **general:** Use a steel box with a tight lid, which can be used for many years.; Use a glass jar with a screw lid.; Wrap the papad in paper and tie it with string. This is easy to make, but paper lets damp air through.
 - **creative:** Wrap in paper for the shop shelf, and sell it inside a tin that the shop takes back and refills.; Put a spoon of dry rice in a cloth pouch inside the box, to soak up damp.; Make the pack thicker with many layers of one material, such as paper, and test how many layers are needed.
 - **s1 (8 min)**  
   *Parent does:* 1. Look at an empty chips packet together. 2. Ask what jobs the packet does for the snack. 3. Ask what happens to the packet afterwards. 4. Read the problem and the rules aloud.  
   *Parent says:* A chips packet does several jobs very well. What are they? And what happens to the packet when the chips are finished?  
-  *Child mode:* Look at an empty chips packet. What jobs does it do for the snack? What happens to it afterwards? Read the problem.
+  *Child mode:* Look at an empty chips packet. Read the problem and the rules.
   - Ask: What jobs does the packet do? (good: It keeps damp air out, so the snack stays crisp.; It keeps light out and stops the snack being crushed.; It is very light and very cheap.)
   - Note: Be fair to the packet. It weighs only a few grams and keeps food fresh for months. That is why companies use it. The cost comes afterwards, because nobody can recycle it.
 - **s2 (12 min)**  
-  *Parent does:* 1. Ask your child to draw a pack and name the material of each part. 2. Check that no part is two materials stuck together. 3. Build the pack. 4. Put 4 papad pieces in it, 4 on an open plate and 4 in a clipped chips packet. 5. Put all three on the same shelf.  
-  *Parent says:* Draw your pack first, and tell me what each part is made of. Then build it. All three go on the same shelf, so the test is fair.  
-  *Child mode:* Draw your pack. Name the material of each part. Build it. Put 4 pieces in it. Put 4 on a plate and 4 in a chips packet.
+  *Parent does:* 1. Ask your child to choose a material for each part of the pack and say what it is. 2. Check that no part is two materials stuck together. 3. Build the pack. 4. Put 4 papad pieces in it, 4 on an open plate and 4 in a clipped chips packet. 5. Put all three on the same shelf.  
+  *Parent says:* Choose what each part is made of, and tell me. Then build it. All three go on the same shelf, so the test is fair.  
+  *Child mode:* Choose a material for each part and say what it is. Build the pack. Put 4 pieces in it. Put 4 on a plate and 4 in a chips packet.
 - **s3 (5 min)**  
-  *Parent does:* 1. After two days, take one piece from each of the three. 2. Bend each piece and listen. 3. Write 'snaps' or 'bends' for each. 4. Taste one piece from each, if it was kept clean.  
+  *Parent does:* 1. After two days, take one piece from each of the three. 2. Bend each piece and listen. 3. Write 'snaps' or 'bends' for each.  
   *Parent says:* Bend one piece from each. Does it snap, or does it bend like cloth? Which pack did best?  
   *Child mode:* Take one piece from each. Bend it. Does it snap or bend? Write what you find. Which pack did best?
   - Note: In damp weather, the papad on the open plate goes soft within a day. A tight steel box or glass jar usually matches the chips packet. A paper wrap usually does not.
@@ -638,7 +638,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 - **s4 (5 min)**  
   *Parent does:* 1. For each part of the pack, ask what happens to it next: rot, reuse or recycle. 2. Ask what the chips packet does better than your child's pack. 3. Ask who would have to change for the new pack to be used: the company, the shop or the buyer.  
   *Parent says:* What happens to each part of your pack now? What does the chips packet still do better than yours? Who would have to change to use your pack?  
-  *Child mode:* Say what happens to each part of your pack next. What does the chips packet do better? Who would have to change?
+  *Child mode:* Say what happens to each part of your pack next. Say who would have to change.
   - Ask: What does the chips packet still do better? (good: It is lighter, so a lorry can carry more.; It is cheaper, and it needs nobody to bring it back.; It keeps food for months, and mine was tested for two days.)
   - Check: A steel box keeps a snack as crisp as a chips packet. What is the main cost of using it? → **The box is heavy and must be brought back**
 

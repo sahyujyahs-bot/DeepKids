@@ -298,12 +298,12 @@ Rudi listened until it stopped.
 - **s2 (3 min)**  
   *Parent does:* 1. Explain that only 2 squares can be protected, and the other 7 will be cleared for farms. 2. Ask which 2 squares your child would protect. 3. Ask for the reason. 4. Write down the guess and the reason.  
   *Parent says:* Only two squares can be kept safe. The other seven will be cleared. Which two will you protect? Why do you think so?  
-  *Child mode:* You can protect only 2 squares. Which 2 will you pick? Why? Write your guess.
+  *Child mode:* You can protect only 2 squares. Which 2 will you pick? Write your guess.
   - Ask: Why those two squares? (good: The squares with the most species. (A fair guess. The game will test it.); The squares where rare species live.; I do not know yet. I need to look at the cards.)
 - **s3 (5 min)**  
-  *Parent does:* 1. Take each card in turn. 2. Write a short name for the species in every square where she lives, for example 'babbler' or 'orchid'. 3. Count the names in each square. 4. Circle the square with the most names.  
-  *Parent says:* Let us find out who lives where. Write each species in all the squares where she lives. Then count the names in each square.  
-  *Child mode:* Take each card. Write her name in every square where she lives. Count the names in each square. Circle the biggest count.
+  *Parent does:* 1. Take each card in turn. 2. Make a tally mark in every square where she lives, as the card shows. 3. Count the marks in each square. 4. Circle the square with the most marks.  
+  *Parent says:* Let us find out who lives where. Make a tally mark in every square where she lives. Then count the marks in each square.  
+  *Child mode:* Take each card. Make a tally mark in every square where she lives. Count the marks in each square. Circle the biggest count.
   - Note: Square D holds 7 species, and three of them (the orchid, the tree lizard and the tiny blue frog) live nowhere else. The other squares hold 2, 3, 3, 2, 3, 4, 2 and 3 species, in the order A, B, C, E, F, G, H, I.
 - **s4 (5 min)**  
   *Parent does:* 1. Now choose your 2 squares and write them down. 2. Cross out the other 7 squares. 3. Go through the cards. A species is saved if she lives in at least one protected square. 4. Count your saved species.  
@@ -333,7 +333,7 @@ Rudi listened until it stopped.
 - **s2 (3 min)**  
   *Parent does:* 1. Read this example aloud. A species has 150 adults, all in one forest, and the number is falling. 2. Ask which step she is on, and why. 3. Write down the guess and the reason. 4. Check it with the rules: 3 points for under 250, plus 1 for falling, plus 1 for one place is 5. The top step is 4 points, so she is Critically Endangered.  
   *Parent says:* A species has 150 adults. All of them live in one forest, and the number is falling. Which step of the ladder is she on? Why do you think so?  
-  *Child mode:* A species has 150 adults. All live in one forest. The number is falling. Which step is she on? Why?
+  *Child mode:* A species has 150 adults. All live in one forest. The number is falling. Which step is she on?
   - Ask: Why do you think so? (good: Critically Endangered, because 150 is very few and they are all in one place.; Near the top, because the number is falling.)
 - **s3 (10 min)**  
   *Parent does:* 1. Take the top card. Read it aloud. 2. Add the points with the three rules. 3. Say her step. 4. Turn the card over. Score 1 point if you are right. 5. Go through all 12 cards.  
@@ -341,9 +341,9 @@ Rudi listened until it stopped.
   *Child mode:* Read the card. Add the points. Say her step. Turn the card over. Score 1 if you are right.
   - Note: Answers. River fish: Least Concern. Forest owl and coral fish: Near Threatened. Grassland lark, hill frog and mountain goat: Vulnerable. Forest macaque, island bird and mountain orchid: Endangered. Marsh deer and river crocodile: Critically Endangered. Forest tortoise: Least Concern.
 - **s4 (3 min)**  
-  *Parent does:* 1. Count your score. 2. Look at the hill frog and the mountain goat. The frog has more adults, but both are on the same step. 3. Ask why.  
-  *Parent says:* The hill frog has more adults than the mountain goat. Yet both are on the same step. Why?  
-  *Child mode:* The hill frog has more adults than the goat. Both are on the same step. Why?
+  *Parent does:* 1. Count your score. 2. Find the hill frog card and the mountain goat card. The frog has more adults, but both are on the same step. 3. Ask why.  
+  *Parent says:* Find the hill frog card and the mountain goat card. Which has more adults? Which step is each on?  
+  *Child mode:* Find the two cards. Check the step of each.
   - Ask: The hill frog has 5,000 adults and the mountain goat has 1,800. Why is the frog on the same step? (good: All the frogs live on one hill, so one event could reach all of them.; Living in one place adds a point of risk, even with more adults.)
   - Check: A species has 8,000 adults, and the number is steady. All of them live in one valley. Which step? → **Vulnerable**
 
@@ -362,7 +362,7 @@ Rudi listened until it stopped.
 - **s2 (3 min)**  
   *Parent does:* 1. Explain that the right half of the forest will be cut down, and only the half marked KEEP will stay. 2. Ask how many of the 10 kinds will be found on the half. 3. Ask for the reason. 4. Write down the guess and the reason.  
   *Parent says:* Half the forest will be cut. How many of the 10 kinds will still be found on the half that stays? About 5, more than 5, or fewer than 5? Why do you think so?  
-  *Child mode:* Half the forest will be cut. How many of the 10 kinds will be left? About 5, more or fewer? Why? Write your guess.
+  *Child mode:* Half the forest will be cut. How many of the 10 kinds will be left? About 5, more or fewer? Write your guess.
   - Ask: Why do you think so? (good: About 5, because half the forest should hold half the kinds. (A fair guess. The test will show.); More than 5, because the rice and the dal will fall on both halves.)
 - **s3 (20 min)**  
   *Parent does:* 1. Shake the tumbler to mix the pieces. 2. Hold the tumbler about 30 centimetres above the sheet. Pour slowly, and move your hand over every part of the sheet. 3. Pick up any piece that fell off the sheet. Drop it back on with your eyes closed. 4. Count how many of the 10 kinds lie on the half marked KEEP. 5. Count the kinds on the quarter, the eighth and the sixteenth. 6. Write the four numbers in the table. Write which kinds were missing from the half. 7. Collect all 89 pieces. Do the whole test 3 times.  
@@ -371,9 +371,9 @@ Rudi listened until it stopped.
   - Ask: Which kinds were missing from the half? What do they have in common? (good: The cardamom or the chilli, and sometimes the cloves or the peppercorns.; They are the kinds with only 1 or 2 pieces.)
   - Note: A kind counts if at least one piece of that kind lies on the part. A piece on a line belongs to the part that holds most of the piece. Expect about 8 kinds on the half, 6 on the quarter, 5 on the eighth and 3 on the sixteenth. Your numbers can be 1 or 2 more or less. If the pieces pile up in the middle, pour more slowly and move your hand wider.
 - **s4 (6 min)**  
-  *Parent does:* 1. For each part of the sheet, add the 3 numbers and divide by 3. 2. Draw five bars: 10 for the whole sheet, then the four averages. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask which kinds went missing first, and why.  
+  *Parent does:* 1. For each part of the sheet, add the 3 numbers and divide by 3. 2. Make five bars: 10 for the whole sheet, then the four averages. Draw them, or build them from rows of rice grains. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask which kinds went missing first, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did it happen?  
-  *Child mode:* Find the average for each part. Draw five bars. Say what you thought would happen, what you saw, and why it happened.
+  *Child mode:* Find the average for each part. Make five bars, drawn or built from grains. Say what you thought would happen, what you saw, and why it happened.
   - Ask: Half the forest was cut. Why were more than half the kinds still there? (good: The common kinds fell on every part, so the half still had some of them.; Only the kinds with 1 or 2 pieces could all land on the half that was cut.)
   - Ask: Our pieces fell anywhere on the sheet. How is a real forest different? (good: Real plants and animals live where there is the right food, water or shade.; Some species live in only one corner of a forest.; Animals can move when the trees are cut, if there is somewhere to go.)
   - Check: In the Shrinking Forest Test, which kinds went missing first when the forest was cut? → **The kinds with only 1 or 2 pieces**
@@ -392,12 +392,12 @@ Rudi listened until it stopped.
 - **s1 (4 min)**  
   *Parent does:* 1. Put 4 coins in the tumbler. Each coin is one adult animal on a small island. 2. Shake the tumbler and tip the coins onto the plate. 3. A coin showing heads raised 2 young. A coin showing tails raised none. 4. Count the heads and double the number. That is the number of adults in the next generation. 5. The island has food for only 4 adults. If the number is more than 4, write 4. 6. Put that many coins back in the tumbler for the next toss.  
   *Parent says:* Each coin is one adult animal. Heads means she raised two young. Tails means she raised none. Then the old adults die, and the young become the new adults.  
-  *Child mode:* Each coin is one adult animal. Shake and tip the coins. Heads means two young. Tails means none. Count the heads and double them. Never write more than 4.
+  *Child mode:* Each coin is one adult animal. Shake and tip the coins. Heads means two young. Tails means none. Count the heads and double them. The island fits only 4, so never write more than 4.
   - Note: Half the coins land heads on average. So on average 4 adults leave 4 young, and the number should stay the same. Say this aloud, because the guess in the next step depends on it.
 - **s2 (3 min)**  
   *Parent does:* 1. Explain the two places. The small island has room for 4 adults. The large forest has room for 16. 2. Ask whether each group will still be alive after 10 generations. 3. Ask for the reason. 4. Write down the guess and the reason.  
   *Parent says:* Nobody hunts these animals. On average each adult leaves one young. Will the group of 4 still be alive after 10 generations? Will the group of 16? Why do you think so?  
-  *Child mode:* Nobody hunts these animals. Will the group of 4 last 10 generations? Will the group of 16? Why? Write your guess.
+  *Child mode:* Nobody hunts these animals. Will the group of 4 last 10 generations? Will the group of 16? Write your guess.
   - Ask: Why do you think so? (good: Both will last, because births and deaths match on average. (A fair guess. The test will show.); The small group might die out, because all 4 coins can land tails together.)
 - **s3 (8 min)**  
   *Parent does:* 1. Start with 4 coins. Toss, count the heads, double the number, and write it down. Never write more than 4. 2. Toss again with that many coins. 3. Stop after 10 generations, or when the number reaches 0. 4. Do 6 runs. For each run, write whether the group died out, and in which generation.  
@@ -437,7 +437,7 @@ Rudi listened until it stopped.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask which will dry faster, the whole slice or the 16 squares, or whether they will dry the same. 2. Ask for the reason. 3. Write down the guess and the reason.  
   *Parent says:* Both plates have the same amount of bread and the same fan. Which will dry faster? Or will they dry the same? Why do you think so?  
-  *Child mode:* Which will dry faster, the whole slice or the 16 squares? Or the same? Why? Write your guess.
+  *Child mode:* Which will dry faster, the whole slice or the 16 squares? Or the same? Write your guess.
   - Ask: Why do you think so? (good: The same, because it is the same amount of bread. (A fair guess. The test will show.); The squares, because the air can reach more sides.)
 - **s3 (6 min)**  
   *Parent does:* 1. After 1 hour, press the middle of the whole slice gently with a clean finger. Then press its rim. 2. Press the middle of three small squares. 3. Write soft, leathery or hard for each. 4. Do the same after 2 hours and after 3 hours.  
@@ -471,7 +471,7 @@ Rudi listened until it stopped.
   *Parent says:* How many kinds did you find? How many beings in all? How many kinds did you see only once?  
   *Child mode:* Add the tallies. Count the kinds. Count the kinds seen only once.
   - Ask: If you watched again tomorrow, which kinds would you probably see again? (good: The ones with the most tallies, such as crows or ants.; The kinds seen only once might not come back, so they were harder to find.)
-  - Ask: A scientist counting species in a forest has the same problem. What could she miss? (good: Shy or rare kinds who were not there in that hour.; Kinds who come out only at night.)
+  - Ask: A scientist counting species in a forest cannot see everything either. What could she miss? (good: Shy or rare kinds who were not there in that hour.; Kinds who come out only at night.)
 ### a2 · Same Count, Different Forest: why counting kinds is not enough (24 min)
 - **question:** Two forests both have 10 species. In one, every species has 4 members. In the other, one species has 31 and each of the other nine has 1. Which forest shows more species in a small sample?
 - **record:** Keep the table of kinds found in each sample. Write the average for each bowl.
@@ -483,10 +483,10 @@ Rudi listened until it stopped.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask which bowl will show more kinds in a sample of 8 pieces. 2. Ask for the reason. 3. Write down the guess and the reason.  
   *Parent says:* Both forests have 10 species. You will take 8 pieces from each, with your eyes closed. Which forest will show more kinds? Why do you think so?  
-  *Child mode:* Both bowls have 10 kinds. You take 8 pieces from each. Which shows more kinds? Why?
+  *Child mode:* Both bowls have 10 kinds. You take 8 pieces from each. Which shows more kinds?
   - Ask: Why do you think so? (good: The same, because both have 10 kinds. (A fair guess. The test will show.); Bowl A, because the pieces are shared out evenly.; Bowl B, because it has more rice to pick.)
 - **s3 (10 min)**  
-  *Parent does:* 1. Stir bowl A. With your eyes closed, take 8 pieces one at a time. 2. Lay them out and count the kinds. Write the number. 3. Put the pieces back and stir. 4. Do this 3 times for bowl A and 3 times for bowl B.  
+  *Parent does:* 1. Stir bowl A. With your eyes closed, take 8 pieces one at a time. 2. Lay them out and count the kinds. Write the number in a table (bowl, try, kinds). 3. Put the pieces back and stir. 4. Do this 3 times for bowl A and 3 times for bowl B.  
   *Parent says:* Stir the bowl. Close your eyes. Take 8 pieces, one at a time. Now count how many kinds you got.  
   *Child mode:* Stir the bowl. Close your eyes. Take 8 pieces. Count the kinds. Do this 3 times for each bowl.
   - Note: Expect about 6 kinds from bowl A, between 5 and 7. Expect about 3 kinds from bowl B, between 2 and 4. If the two bowls give the same number, mix the bowls better and check that bowl B really holds 31 of one kind.
@@ -511,8 +511,8 @@ Rudi listened until it stopped.
   - Note: The lion is now found only in and around Gir. The Nilgiri tahr is a wild goat of high grassy cliffs. The purple frog lives underground for most of the year. The Narcondam hornbill lives on an island of about 7 square kilometres. The sangai is a deer who walks on floating mats of grass in Loktak lake.
 - **s3 (4 min)**  
   *Parent does:* 1. Count how many species you marked in each place. 2. Find the place with the smallest area. 3. Ask what these places have in common. 4. Ask which species would suffer most if one fire or disease swept through its place.  
-  *Parent says:* Which place has the most species on your list? Which place is the smallest? What do these places have in common?  
-  *Child mode:* Count the species at each dot. Find the smallest place. What do the places share?
+  *Parent says:* Which place has the most species on your list? Which place is the smallest?  
+  *Child mode:* Count the species at each dot. Find the smallest place.
   - Ask: What do an island, a lake, a hill range and one forest have in common? (good: Each one is cut off from other places like it.; Beings who live there cannot easily move to another place.; Each one has a small area.)
   - Ask: Which species on your map has the smallest range? Why is she at greater risk? (good: The Narcondam hornbill, because her whole range is one small island.; One storm or one disease on the island could reach every bird.)
 ### a4 · The Cold Hilltop: what happens to a mountain species when the air warms? (25 min)
@@ -531,7 +531,7 @@ Rudi listened until it stopped.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask how much smaller the frog's home will be when the cool zone moves up: a little, half, or a lot. 2. Ask for the reason. 3. Write down the guess and the reason.  
   *Parent says:* The cool zone moves up by only 2 centimetres. How much smaller will the frog's home be: a little, about half, or a lot? Why do you think so?  
-  *Child mode:* The cool zone moves up 2 centimetres. How much smaller is her home? A little, half or a lot? Why?
+  *Child mode:* The cool zone moves up 2 centimetres. How much smaller is her home? A little, half or a lot?
   - Ask: Why do you think so? (good: A little, because 2 centimetres is not much. (A fair guess. The drawing will show.); A lot, because the hill gets narrow near the top.)
 - **s4 (7 min)**  
   *Parent does:* 1. Measure the width of the hill along the first line. 2. The height of that top triangle is 4 centimetres. Find its area: width times height, divided by 2. 3. Measure the width along the second line, and find its area in the same way. 4. The whole hill has an area of 100 square centimetres. Find the share of the hill for each line.  
@@ -539,9 +539,9 @@ Rudi listened until it stopped.
   *Child mode:* Measure the width at each line. Find each area. Write the share of the whole hill.
   - Note: The first line gives a triangle 8 centimetres wide and 4 centimetres high, so 8 x 4 ÷ 2 = 16 square centimetres, which is 16 in every 100 of the hill. The second line gives a triangle 4 centimetres wide and 2 centimetres high, so 4 x 2 ÷ 2 = 4 square centimetres, which is 4 in every 100. A move of 2 centimetres cut the home to one quarter of its size.
 - **s5 (5 min)**  
-  *Parent does:* 1. Now draw a lower hill, 20 centimetres wide and 7 centimetres high. 2. Draw the second line 8 centimetres up. It floats in the air above the hill. 3. Ask where the frog can live on this hill after the air warms. 4. Ask your child to say what they thought would happen, what they saw, and why it happened.  
+  *Parent does:* 1. Now make a lower hill. Cover the top of your hill with a sheet of paper, so only the part below 7 centimetres shows. 2. The second line is 8 centimetres up. It is now in the air above the lower hill. 3. Ask where the frog can live on this hill after the air warms. 4. Ask your child to say what they thought would happen, what they saw, and why it happened.  
   *Parent says:* On this lower hill, the cool zone has moved above the top of the hill. Where can the frog live now? Tell me what you thought would happen, what you saw, and why it happened.  
-  *Child mode:* Draw a lower hill, 7 centimetres high. Where is the second line? Where can the frog live now?
+  *Child mode:* Cover the top of your hill so only 7 centimetres show. Is the second line on the hill? Where can the frog live now?
   - Ask: The cool zone moved up by one fifth of the hill's height, but the frog's home became one quarter as big. Why? (good: A hill gets narrower towards the top, so each step up has less land.; The top part of a hill is a small triangle.)
   - Ask: Where could the frog go if the nearest higher hill is far away? (good: Nowhere. She cannot cross the warm valley.; She might live on if another hill is near, which is why corridors and higher ground matter.)
   - Note: A real hill is not a triangle, and animals and plants can sometimes adapt or move to another hill. The drawing shows why a steep, narrow top has the most to lose.
@@ -549,9 +549,9 @@ Rudi listened until it stopped.
 ### a5 · Five Causes: sort ten real cases (18 min)
 - **record:** Keep the sorted sheet with the five headings and the letters of the cases.
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw five columns on the paper. 2. Write these headings: Habitat loss, Taking too many, Brought-in species, Pollution, and Warming. 3. Read the meaning of each aloud. Habitat loss means a place is cleared or cut up. Taking too many means too many are hunted, fished or collected. A brought-in species is carried by people to a new place. Pollution is poison or dirt in the air, water or soil. Warming is a changing climate.  
+  *Parent does:* 1. Draw five columns on the paper, or put out five bowls or sheets. 2. Write these headings: Habitat loss, Taking too many, Brought-in species, Pollution, and Warming. 3. Read the meaning of each aloud. Habitat loss means a place is cleared or cut up. Taking too many means too many are hunted, fished or collected. A brought-in species is carried by people to a new place. Pollution is poison or dirt in the air, water or soil. Warming is a changing climate.  
   *Parent says:* Species are in danger today for five main reasons. We will sort ten real cases into them.  
-  *Child mode:* Draw five columns. Write the five headings. Read what each one means.
+  *Child mode:* Draw five columns, or set out five bowls. Write the five headings. Read what each one means.
 - **s2 (5 min)**  
   *Parent does:* 1. Read cases A to E, one at a time. 2. Write the letter of each case under the cause that fits best. 3. A. A grassland is ploughed for farms. B. Tigers are shot for their skins. C. Rats come off ships and eat birds' eggs on an island. D. A cattle medicine poisons vultures who eat the dead cattle. E. The sea warms and corals turn white.  
   *Parent says:* Read each case. Which cause does it show? Write its letter under that heading.  
@@ -582,7 +582,7 @@ Rudi listened until it stopped.
 - **s3 (7 min)**  
   *Parent does:* 1. Everyone steps out of their role. 2. Each person writes what they think: which plan they would choose for one forest, and why. 3. They write one piece of evidence they would want before deciding. 4. They say what they thought would happen in the meeting, what they saw, and why it happened.  
   *Parent says:* Step out of your role. Which plan would you choose for one forest? What evidence would you want first? Tell me what you thought would happen, what you saw, and why it happened.  
-  *Child mode:* Step out of your role. Write which plan you would choose. Write what evidence you want first.
+  *Child mode:* Step out of your role. Say or write which plan you would choose. Say or write what evidence you want first.
   - Ask: What would you want to know about this one forest before you decide? (good: How many animals live there now, and how many lived there before.; Whether the village has damaged the forest or looked after it.; Whether wild animals and the villagers can live apart without being harmed.)
   - Note: There is no single right answer, and scientists disagree. A strong answer uses evidence and says what is still unknown.
 
@@ -602,9 +602,9 @@ Rudi listened until it stopped.
   - Note: Most species face two or three causes together. If a threat fits no cause, write it down anyway and ask why.
   - Wait: Do the next step tomorrow
 - **s3 (20 min)**  
-  *Parent does:* 1. Draw her range on the map. 2. Mark any protected area inside it. 3. Write three actions for the plan. For example: make her protected area larger, join two areas with a corridor, start a second group in another place, or reduce one threat. 4. For each action write who must agree. Think of villagers, farmers, officials and visitors.  
-  *Parent says:* Draw where she lives. Now choose three actions that would help her most. Who would need to agree to each one?  
-  *Child mode:* Draw her range. Choose three actions. Write who must agree to each action.
+  *Parent does:* 1. Mark her range on the map with a colour pencil, or list the places where she lives. 2. Mark any protected area inside it. 3. Write three actions for the plan. For example: make her protected area larger, join two areas with a corridor, start a second group in another place, or reduce one threat. 4. For each action write who must agree. Think of villagers, farmers, officials and visitors.  
+  *Parent says:* Show where she lives on the map. Now choose three actions that would help her most. Who would need to agree to each one?  
+  *Child mode:* Mark her range on the map, or list the places. Choose three actions. Write who must agree to each action.
   - Ask: Which action helps if one fire or one disease reaches her whole range? (good: A second group in another place.; A corridor that lets her move or be replaced.)
   - Wait: Do the next step tomorrow
 - **s4 (20 min)**  
@@ -622,14 +622,14 @@ Rudi listened until it stopped.
 - **general:** Follow the scrub squares, because each costs only 1.; Cross the road once, at the square where the underpass is cheapest.; Avoid fields, because one field costs as much as three scrub squares.
 - **creative:** Take a longer way round, if it avoids all fields and costs less.; Cross the road in a place where the squares on both sides are scrub.; Find two different strips with the same cost. A second route is a spare if one is blocked.
 - **s1 (8 min)**  
-  *Parent does:* 1. Draw a grid of 7 columns and 6 rows, with squares 2 centimetres wide. 2. Fill the squares from the rows below. A is Forest A and B is Forest B. The letter f is a field and S is scrub. R is a road, W is a river and V is a village. 3. Row 1: A f f f S S B. 4. Row 2: A f V V S W B. 5. Row 3: A S S V S W B. 6. Row 4: A S R R R R B. 7. Row 5: A f S S S S B. 8. Row 6: A f f V S S B.  
-  *Parent says:* Here is a map of two forests with fields, scrub, a road, a river and a village between them. Draw it, and look at the costs.  
-  *Child mode:* Draw a grid with 7 columns and 6 rows. Copy the rows in the list. A is the left forest. B is the right forest.
+  *Parent does:* 1. Draw a grid of 7 columns and 6 rows, with squares 2 centimetres wide. 2. Fill the squares from the rows below. A is Forest A and B is Forest B. The letter f is a field and S is scrub. R is a road, W is a river and V is a village. 3. Row 1: A f f f S S B. 4. Row 2: A f V V S W B. 5. Row 3: A S S V S W B. 6. Row 4: A S R R R R B. 7. Row 5: A f S S S S B. 8. Row 6: A f f V S S B. 9. Costs: a field costs 3, scrub 1, a road 2 and a river 2. A village cannot be used.  
+  *Parent says:* Here is a map of two forests with fields, scrub, a road, a river and a village between them. Draw it. Each square costs points to turn into trees: field 3, scrub 1, road 2, river 2. A village cannot be used.  
+  *Child mode:* Draw a grid with 7 columns and 6 rows. Copy the rows from your grown-up. A is the left forest. B is the right forest. Costs: field 3, scrub 1, road 2, river 2. No village.
   - Note: Costs. A field is 3, scrub is 1, a road is 2 for an underpass, a river is 2 for a bridge. A village cannot be crossed. Forest squares are free.
 - **s2 (10 min)**  
-  *Parent does:* 1. Colour a strip of squares from any square of Forest A to any square of Forest B. 2. Move up, down, left or right. 3. Write the cost of each square under it. 4. Add up the total. 5. Is it 8 or less? 6. Try to find a cheaper strip.  
+  *Parent does:* 1. Colour a strip of squares, or lay a string along them. It runs from Forest A to Forest B. 2. Move up, down, left or right. 3. Write the cost of each square under it. 4. Add up the total. 5. Is it 8 or less? 6. Try to find a cheaper strip.  
   *Parent says:* Colour a strip from one forest to the other. Add up its cost. Can you find one that costs less?  
-  *Child mode:* Colour a strip from forest A to forest B. Add up the cost. Look for a cheaper strip.
+  *Child mode:* Colour a strip, or lay a string, from forest A to forest B. Add up the cost. Look for a cheaper strip.
   - Note: The cheapest strip costs 7. There are two routes that cost 7. One goes through row 4 and crosses one road square, then follows the scrub squares of row 5. The other goes along row 5, with one field square at the start, and then four scrub squares.
 - **s3 (12 min)**  
   *Parent does:* 1. Pick one scrub square on your cheapest strip. 2. Turn that square into a village, and find the new cheapest cost. 3. Try another scrub square. 4. Find which squares, if one became a village, would push the cheapest cost above 8. 5. Ask your child to say what they thought would happen, what they saw, and why it happened.  
@@ -651,7 +651,7 @@ Rudi listened until it stopped.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask which plan will keep the birds alive the most often, and why. 2. Write down the guess and the reason. 3. Tell your child that you will test Plan B and Plan D, because you already know what Plan A does.  
   *Parent says:* Which plan do you think will keep the birds alive the most often? Why do you think so?  
-  *Child mode:* Which plan will keep the birds alive most often? Why? Write your guess.
+  *Child mode:* Which plan will keep the birds alive most often? Write your guess.
   - Ask: Why do you think so? (good: Plan B, because 8 birds are more than 4. (A fair guess. The test will show.); Plan D, because the two islands protect each other.)
 - **s3 (10 min)**  
   *Parent does:* 1. Test Plan B 5 times. 2. Start with 8 coins. Toss them and count the heads. Double the number, and never write more than 8. 3. Toss again with that many coins. 4. Stop after 10 generations, or when the number reaches 0. 5. Write whether each run died out.  

@@ -292,20 +292,20 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 - **Printable cards: 21 cycle cards: what happened on the front, the stage that failed and the reason on the back:** Moong seeds lie in a dry jar for a whole year. (back: GERMINATION. A seed cannot start to grow without water.); Bajra seeds are sown in a field. No rain falls for two months. (back: GERMINATION. The seeds stay dry, so no root or shoot grows out.); A mango stone is dried on a shelf for two months. Then the stone is sown. (back: GERMINATION. A mango seed dies when dried, so the seed never grows.); A goat eats every tomato seedling in a pot, down to the soil. (back: GROWTH. The seedlings germinated, but they were eaten before they could grow up.); Sunflower seedlings come up under a table, where no light reaches them. (back: GROWTH. Without light the leaves cannot make food, so the seedlings stop growing and die.); Brinjal seedlings in a pot get no water after the first week. (back: GROWTH. A plant cannot make food or new leaves without water.); A chrysanthemum plant grows under a street lamp that shines all night. (back: FLOWERING. This plant flowers only when the nights are long. Under the lamp, the leaves never sense a long night.); A mango tree grown from a seed is two years old and healthy. (back: FLOWERING. The tree has not reached the first flowering age, which is about five years.); A gardener pinches off every bud on a rose bush before the bud can open. (back: FLOWERING. With no open flowers, no pollen can be given or received.); A pumpkin vine flowers on a balcony closed in by a fine net. No insect can get in. (back: POLLINATION. Pumpkin pollen must be carried by insects from one flower to another.); Insect spray kills all the bees in an apple orchard in the week the trees flower. (back: POLLINATION. The flowers open, but nobody carries the pollen between them.); A papaya tree with only female flowers stands alone. No other papaya tree grows for many kilometres. (back: POLLINATION. There is no pollen of the same kind to reach the flowers.); Pollen lands on tomato flowers on a day of fierce heat. The pollen dries up on the flower. (back: FERTILISATION. The pollen arrived, but died before a male cell could reach an egg cell.); Pollen lands on paddy flowers on a very cold night. The pollen tubes stop growing half way. (back: FERTILISATION. Pollination happened, but no male cell joined an egg cell.); A bee brings pollen to a bean flower. A tiny grub has already eaten the egg cells inside. (back: FERTILISATION. There is no egg cell for the male cell to join.); A brinjal flower is fertilised. Then the plant gets no water, and the tiny young fruit drops off. (back: FRUIT AND SEED FORMATION. The fruit and the seeds inside did not finish growing.); A parrot bites off the green mangoes while the seed inside is still soft. (back: FRUIT AND SEED FORMATION. The seeds were not yet ripe, so they cannot grow.); A farmer picks every bhindi pod while the pod is tender and the seeds are white. (back: FRUIT AND SEED FORMATION. The seeds were picked before they were ripe. Farmers leave a few pods to dry for seed.); Birds usually carry neem fruits away. This year every fruit falls into the deep shade under the tree. (back: SEED DISPERSAL. Seedlings crowded in the parent's shade get too little light and water.); A banyan tree is covered in ripe figs. All the birds and bats that eat figs have gone from the town. (back: SEED DISPERSAL. Nobody carries the seeds to a wall or a branch where a banyan can start.); A plant whose seeds have tiny hooks grows in a field where no animal ever walks. (back: SEED DISPERSAL. The hooks need fur or cloth to cling to, so the seeds stay where they fall.)
 - **Printable board: 7 stages on a strip: draw one strip for each player:** 1 Germination; 2 Growth; 3 Flowering; 4 Pollination; 5 Fertilisation; 6 Fruit and seed formation; 7 Seed dispersal
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the 21 cards. 2. Each player draws a strip of seven boxes and writes the seven stages in order. 3. Read the seven stage names aloud together.  
+  *Parent does:* 1. Cut out the 21 cards. 2. Each player takes one rajma seed or button. 3. Each player draws a strip of seven boxes and writes the seven stages in order. 4. 3. Read the seven stage names aloud together.  
   *Parent says:* Every flowering plant must get through seven stages to make new seeds. Each card tells of a plant that got stuck. You find the stage where the plant got stuck.  
-  *Child mode:* Cut out the cards. Draw seven boxes in a row. Write the seven stages in order.
+  *Child mode:* Cut out the cards. Take a rajma seed. Draw seven boxes in a row. Write the seven stages in order.
   - Note: The seven stages are germination, growth, flowering, pollination, fertilisation, fruit and seed formation, and seed dispersal.
 - **s2 (8 min)**  
-  *Parent does:* Play the first 10 cards. Read each back aloud. After card 5, ask the question below.  
-  *Parent says:* Listen to the card. How far did this plant get? Which stage came next and failed? Put your rajma there.  
-  *Child mode:* Listen to the card. How far did the plant get? Mark the stage that failed.
+  *Parent does:* Play the first 10 cards. Read each card aloud. After card 5, ask the question below.  
+  *Parent says:* Listen to the card. How far did this plant get? Which stage came next and failed? Put your rajma on that box.  
+  *Child mode:* Listen to the card. Put your rajma on the stage that failed.
   - Ask: How do you tell a pollination card from a fertilisation card? (good: If the pollen never reached the flower, pollination failed.; If the pollen arrived and then something went wrong inside the flower, fertilisation failed.)
   - Note: The hardest pair is pollination and fertilisation. Pollination is the journey of the pollen to the flower. Fertilisation is the joining of the cells afterwards.
 - **s3 (8 min)**  
   *Parent does:* Play the last 11 cards and add up the points. Then each player names the stage they think fails most often in real life, and says why.  
   *Parent says:* Let's finish the pile. Then tell me which stage you think is the most dangerous for a plant, and why.  
-  *Child mode:* Play the rest of the cards. Add up your points. Which stage fails most often?
+  *Child mode:* Play the rest of the cards. Add up your points.
   - Check: Bees carry pollen to a flower, but no seed forms. Which stage most likely failed? → **Fertilisation**
 ### g2 · Longer or Shorter? A guessing game about plant lifespans (15 min)
 - **rules:** Shuffle the 18 cards and put them in a pile with the fronts up.; Take the top card, read the front, turn the card over and read the lifespan. Put this card beside the pile, back up.; The first player reads the front of the new top card. The player says 'longer' or 'shorter' than the card beside the pile.; Turn the new card over. A right guess scores 1 point, and the same player guesses again with the next card.; A wrong guess ends the turn. The next player carries on from the card that was just turned.; Before the card is turned, the player may also say annual, biennial or perennial. A right answer scores 1 bonus point.; Playing alone? Count your longest run of right guesses. Shuffle and try to beat that run.; The game ends when the pile is finished. The player with the most points wins.
@@ -317,13 +317,13 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
   *Child mode:* Cut out the cards. Shuffle them. Turn the first card over. Read the lifespan.
 - **s2 (8 min)**  
   *Parent does:* Play through the pile once. After the game, ask the question below.  
-  *Parent says:* Read the plant. Is this plant an annual, a biennial or a perennial? Will the life be longer or shorter than the last card?  
+  *Parent says:* Read the plant on the card. Will this plant live longer or shorter than the plant before?  
   *Child mode:* Read the plant. Say longer or shorter. Turn the card. Were you right?
   - Ask: Which lifespan surprised you most? Why? (good: The banana stem, because the plant looks like a tree but one stem lives only a year.; The bristlecone pine, because the tree is small but is the oldest.; Neelakurinji, because the shrub waits 12 years and flowers once.)
   - Note: Children often guess that the biggest plant is the oldest. The bristlecone pine and the banana stem both break that rule.
 - **s3 (4 min)**  
   *Parent does:* Lay all 18 cards in a row from the shortest life to the longest. Ask your child to find where the annuals end and where the perennials begin.  
-  *Parent says:* Put all the cards in order, from the shortest life to the longest. Where do the annuals end? Which perennials flower only once?  
+  *Parent says:* Put all the cards in order, from the shortest life to the longest. Where do the annuals end, and where do the perennials begin?  
   *Child mode:* Put the cards in order, shortest life first. Find where the annuals end.
   - Check: Which of these plants has the shortest lifespan? → **A paddy plant**
 
@@ -332,7 +332,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 - **question:** Which plant leaves more seeds in 12 years: an annual or a perennial? Is the answer the same in a place that is rarely cleared and a place that is often cleared?
 - **predict:** Guess before you start. In the old grove, the ground is cleared in about 1 year out of 6. On the riverbank, the ground is cleared in about 3 years out of 6. Which plant will leave more seeds in each place? Why do you think so? Write your two guesses and your reasons.
 - **fair test:** Both plants face the same years, because one die roll decides the year for both. Each run lasts 12 years. Only one variable is changed between the two places: how often the ground is cleared. Luck decides each roll, so one run is not enough. You do three runs in each place and find the average.
-- **record:** Fill in one row of the table for each run: three runs for the old grove and three for the riverbank. Then find the average for each plant in each place: add the three totals and divide by 3. Draw a bar chart with four bars.
+- **record:** Fill in one row of the table for each run: three runs for the old grove and three for the riverbank. Then find the average for each plant in each place: add the three totals and divide by 3. Draw a bar chart with four bars, or build four rows of buttons and take a photo.
 - **results table:** Place | Run | The 12 die rolls | Good years | Annual's seeds | Perennial's seeds
 - **s1 (6 min)**  
   *Parent does:* 1. Read the rules below with your child. 2. Ask which plant will leave more seeds in each place, and why. 3. Write both guesses and reasons.  
@@ -358,9 +358,9 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
   - Ask: What do you notice about the rajma on the riverbank? (good: The rajma keeps going back to the first box.; The perennial hardly ever reaches the last box.)
   - Note: On the riverbank the perennial needs three good years in a row before scoring. With half the years cleared, that is rare.
 - **s5 (10 min)**  
-  *Parent does:* 1. For each place, add each plant's three totals and divide by 3. 2. Draw a bar chart with four bars. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Then read the note below together.  
-  *Parent says:* Find the average for each plant in each place. Draw the four bars. Now say what you thought would happen, what you saw, and why it happened.  
-  *Child mode:* Add the three totals. Divide by 3. Draw four bars. Say what you thought. Say what you saw. Say why it happened.
+  *Parent does:* 1. For each place, add each plant's three totals and divide by 3. 2. Show the four averages as bars. Draw them, or make four rows of rajma or buttons. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Then read the note below together.  
+  *Parent says:* Find the average for each plant in each place. Show the four averages as bars. Now say what you thought would happen, what you saw, and why it happened.  
+  *Child mode:* Add the three totals. Divide by 3. Show the four averages as bars, drawn or built from buttons. Then tell what happened and why.
   - Ask: Which plant left more seeds in the old grove, and which on the riverbank? (good: The perennial in the old grove.; The annual on the riverbank.)
   - Ask: What does a cleared year cost the annual? What does it cost the perennial? (good: The annual loses one year's seeds.; The perennial loses that year and the growing years too, because the plant starts again.)
   - Ask: Was there a run that did not fit the pattern? What happened in that run? (good: Yes. In one grove run a 1 came up three times, and the annual won.; No, all the runs fitted.)
@@ -377,7 +377,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 - **s1 (15 min)**  
   *Parent does:* 1. Choose a potted plant. 2. Ask your child to guess the plant's age and give a reason. 3. Find three stem tips. On each, tie a thread loosely below the youngest leaf that has opened flat. 4. Write the plant's remembered age on a slip of paper, fold it and put it away.  
   *Parent says:* A leaf joint is the place where a leaf joins the stem. A plant adds new leaf joints only at the tip of a stem. How old do you think this plant is? How many new leaf joints will each tip make in three weeks? Why do you think so?  
-  *Child mode:* Guess how old the plant is. Say why. Tie a thread below the youngest open leaf. Do this on three tips.
+  *Child mode:* Guess how old the plant is. Then tie a thread below the youngest open leaf. Do this on three tips.
   - Ask: What makes you think the plant is that old? (good: The plant is big, so they must be old.; The stem is long and has many leaves.; I remember when we bought the plant.)
   - Note: If nobody remembers when the plant arrived, write your best guess and mark it as a guess. A plant with one stem works too. Then use one thread, and say that the result is less sure. If you have no potted plant, sow three rajma in a cup today and use them. Their age will be known exactly.
   - Wait: Leave the plant in the usual place for one week
@@ -389,7 +389,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 - **s3 (5 min)**  
   *Parent does:* Day 15. Count again and write the three numbers. Ask whether the three tips are growing at the same rate.  
   *Parent says:* Count again. Are all three tips making leaves at the same rate? Why might one be slower?  
-  *Child mode:* Count again. Write the numbers. Is one tip slower than the others?
+  *Child mode:* Count again. Write the numbers. Compare the three tips.
   - Ask: Why might one stem tip make leaves more slowly than another? (good: That stem gets less light.; That stem is older or thinner.; It may just be chance.)
   - Wait: Make the final count one week later
 - **s4 (15 min)**  
@@ -403,11 +403,11 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 
 ## Activities
 ### a1 · Stage Lengths: how much of a life passes before the first flower? (25 min)
-- **record:** Write each plant's share as a fraction and as a percent. Then draw the six bars, each 10 centimetres long, with a mark where the first flower opens.
+- **record:** Write each plant's share as a fraction and as a percent. Then draw the six bars, each 10 centimetres long, with a mark where the first flower opens. Or make six paper strips and take a photo.
 - **s1 (6 min)**  
   *Parent does:* 1. Read the table together. 2. Ask which plant spends the biggest share of their life growing before the first flower. 3. Write the guess and the reason.  
   *Parent says:* Look at the table. Which plant spends the biggest share of their life growing before the first flower? Why do you think so?  
-  *Child mode:* Read the table. Guess which plant waits longest, compared with their whole life. Say why.
+  *Child mode:* Read the table. Look at each plant's whole life and the age at their first flower.
   - Ask: Which plant do you think waits longest before flowering? Why? (good: The coconut palm, because 8 years is the longest time.; Paddy, because 90 days is most of 150 days.; I am not sure. I need to divide to compare them.)
   - Note: Many children pick the coconut palm, because 8 years is the biggest number. A share compares a plant with their own life, and not with other plants.
 - **s2 (10 min)**  
@@ -416,9 +416,9 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
   *Child mode:* Divide the first flower age by the whole life. Write a fraction and a percent. Do all six plants.
   - Note: Answers: moong 36 ÷ 90 = 2 fifths, 40 percent. Mustard 1 third, about 33 percent. Paddy 90 ÷ 150 = 3 fifths, 60 percent. Coconut palm 8 ÷ 80 = 1 tenth, 10 percent. Mango 5 ÷ 100 = 1 twentieth, 5 percent. Neelakurinji 12 ÷ 12 = all of the life, 100 percent.
 - **s3 (9 min)**  
-  *Parent does:* 1. Draw six bars, each 10 centimetres long. 2. Mark the share on each bar with a small flower. 3. Ask your child to say what they thought, what they found, and why. 4. Ask the question below.  
-  *Parent says:* Draw each plant's whole life as a bar 10 centimetres long. Put a flower at the place where the first flower opens. Say what you thought, what you found, and why you think the pattern is there.  
-  *Child mode:* Draw six bars, each 10 centimetres long. Mark the first flower on each. Look for a pattern.
+  *Parent does:* 1. Make six bars, each 10 centimetres long. Draw them, or cut six paper strips. 2. Mark the share on each bar with a small flower or a dot. 3. Ask your child to say what they thought, what they found, and why. 4. Ask the question below.  
+  *Parent says:* Show each plant's whole life as a bar 10 centimetres long. Put a flower at the place where the first flower opens. Say what you thought, what you found, and why you think the pattern is there.  
+  *Child mode:* Make six bars, each 10 centimetres long, drawn or cut from paper. Mark the first flower on each. Then compare the bars.
   - Ask: What pattern do you see between the annuals and the trees? (good: The annuals flower after a third or more of their life.; The trees flower after a small share of their life, so most of their life is spent flowering.; Neelakurinji is the odd one, because the shrub flowers only at the very end.)
   - Note: Moong, mustard and paddy flower after 33 to 60 percent of their life. Coconut and mango flower after 5 to 10 percent, so most of their long lives are spent making flowers and fruit. This fits the trade-off: a tree spends years building roots and wood first, and then has many seasons to use them.
   - Check: A tree lives 100 years and first flowers at 5 years. What share of the life passes before the first flower? → **One twentieth**
@@ -432,35 +432,35 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 - **s2 (8 min)**  
   *Parent does:* 1. Check the sort with this key. Annuals: rice, wheat, moong, groundnut. Biennials: carrot, cabbage, onion. Perennials: coconut, tamarind, curry leaf, pepper, banana, ginger, sugarcane. 2. Ask which plants surprised your child.  
   *Parent says:* Here is the true sort. Which plants surprised you? Banana looks like a tree but has no wood. Sugarcane and ginger look like crops that die each year, but both are perennials.  
-  *Child mode:* Check your sort with the key. Which plants surprised you?
+  *Child mode:* Check your sort with the key. Move any slip that was in the wrong group.
   - Ask: Which plant surprised you, and what did you expect? (good: Banana, because I thought a plant with no wood must live a short time.; Ginger, because we buy it fresh each time.; Onion, because I did not know it flowers in the second year.)
   - Note: A banana clump lives for years, because new stems grow from the base. Each stem fruits once and dies. A woody stem is a clue for a perennial but not a sure test.
 - **s3 (6 min)**  
   *Parent does:* 1. Put a star on each plant that farmers grow in a different way from how the plant lives on their own. 2. Check: carrot, cabbage and onion are harvested in the first year, before they flower. Ginger and sugarcane are dug up or cut after a year or so. 3. Ask the question below.  
-  *Parent says:* Farmers often grow a plant differently from how the plant lives on their own. Carrot and onion are biennials, but we eat them in the first year. Why do farmers harvest them before the second year?  
-  *Child mode:* Put a star by plants that are harvested early. Say why farmers do that.
+  *Parent says:* Farmers often grow a plant differently from how the plant lives on their own. Carrot and onion are biennials, but we eat them in the first year.  
+  *Child mode:* Put a star by each plant that farmers harvest early.
   - Ask: Why do farmers harvest a carrot in the first year? (good: The root is full of stored food in year one, which is what we eat.; In year two the carrot spends the food on flowers and the root becomes tough and woody.)
   - Note: A biennial stores food in its root in year one. In year two the plant uses that food to flower. A farmer who wants seed from carrots must leave some plants for a second year.
   - Check: A carrot plant is left in the ground for a second year. What happens to the stored food in the root? → **The plant uses the food to flower and make seed**
 ### a3 · Who Senses the Night? Read the plant experiments (20 min)
-- **record:** Draw a plant with leaves and a bud. Draw an arrow for the signal and write what you think the signal does.
+- **record:** Draw a plant with leaves and a bud. Draw an arrow for the signal and write what you think the signal does. Or tell it out loud to your grown-up.
 - **s1 (5 min)**  
   *Parent does:* 1. Read the table with your child. 2. Explain that a chrysanthemum flowers when nights are long. 3. Ask which part they think senses the night: the leaves or the buds. Ask for a reason.  
   *Parent says:* Chrysanthemums flower when the nights grow long. In these tests, the leaves and the buds sometimes get different nights. Which part do you think senses the night, the leaves or the buds? Why?  
-  *Child mode:* Read the five tests. Guess which part senses the night. Say why.
+  *Child mode:* Read the five tests. Look at which parts get the long night.
   - Ask: Which part do you think senses the night, and why? (good: The buds, because the buds are the part that opens as a flower.; The leaves, because the leaves are the part that faces the sky.)
   - Note: Either guess is fair before the table is read closely. Look for the reason the child gives.
 - **s2 (9 min)**  
   *Parent does:* 1. Compare tests 3 and 4. 2. Ask what changed between them. 3. Ask what test 5 shows. 4. Ask for the claim, the evidence and the reasoning.  
   *Parent says:* Look at tests 3 and 4. In test 3 the buds get long nights and the plant does not flower. In test 4 only the leaves get long nights and the plant flowers. What does that show? What does test 5 add?  
-  *Child mode:* Compare tests 3 and 4. Which part must get the long night? What does test 5 show?
+  *Child mode:* Compare tests 3 and 4. Point to what is different between them.
   - Ask: Which part senses the night, and what is your evidence? (good: The leaves. In test 4 only the leaves got long nights, and the plant flowered.; In test 3 the buds got long nights, but the plant did not flower.)
   - Ask: What does test 5 show? (good: Without leaves, the plant does not flower, even if the buds get long nights.; The leaves are needed.)
   - Note: The leaves sense the night. The buds make the flowers. So something must pass from the leaves to the buds, because the buds open without sensing the night themselves.
 - **s3 (6 min)**  
-  *Parent does:* 1. Draw a plant with leaves and a bud. 2. Draw an arrow from a leaf to the bud and label it 'signal'. 3. Ask your child to predict a new test: a leaf from a flowering plant is joined to a plant on short nights. Will that plant flower? Then read the note.  
+  *Parent does:* 1. Draw a plant with leaves and a bud. Or tell your grown-up where the signal travels, using your finger. 2. Draw an arrow from a leaf to the bud and label it 'signal'. 3. Ask your child to predict a new test: a leaf from a flowering plant is joined to a plant on short nights. Will that plant flower? Then read the note.  
   *Parent says:* Something must travel from the leaves to the buds. Scientists named it florigen. Here is a new test. A leaf from a flowering plant is joined to a plant that has short nights. What do you think happens, and why?  
-  *Child mode:* Draw the plant and the signal arrow. Predict the new test. Say why.
+  *Child mode:* Draw the plant and the signal arrow. Or trace it with your finger. Then guess what happens in the new test.
   - Ask: In the new test, will the plant on short nights flower? Why? (good: Yes, because the joined leaf sends the signal that makes buds flower.; No, because that plant never got long nights.)
   - Note: Real grafts like this made plants flower, which is the evidence that a signal exists. The signal is a small protein, found in 2007, and it is carried in the plant's sap. Not all plants work in the same way. This test describes plants that need long nights, such as chrysanthemum.
   - Check: Only the leaves of a chrysanthemum plant get long nights. The buds get short nights. What does the plant do? → **Flowers, because the leaves sense the night and send a signal**
@@ -478,9 +478,9 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
   - Ask: Which fair point from another side was the hardest to say? (good: That perennial grains give less grain so far.; That deep roots hold soil in heavy rain.; That both crops can share one farm.)
   - Note: Do not pick a winner. A good debate ends with each person naming something fair from another side.
 - **s3 (5 min)**  
-  *Parent does:* 1. Each person writes their final view in two sentences. 2. Ask the question below.  
-  *Parent says:* Write your own view in two sentences. Which part of your view could change if new evidence came?  
-  *Child mode:* Write your own view in two sentences. What evidence would change your mind?
+  *Parent does:* 1. Each person says or writes their final view in two sentences. 2. Ask the question below.  
+  *Parent says:* Say or write your own view in two sentences. Think about what could make you change it.  
+  *Child mode:* Say or write your own view in two sentences.
   - Ask: What evidence would change your mind? (good: A perennial rice that yields as much as annual rice in many places.; A test showing weeds or disease building up in unploughed fields.)
   - Note: The best answers name evidence that could be gathered, such as yields over ten years.
   - Check: Which fact is the strongest reason for growing a perennial grain? → **Roots stay in the soil all year and hold it in heavy rain**
@@ -497,7 +497,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 - **s1 (20 min)**  
   *Parent does:* 1. Fill two pots with soil and label them A and B. 2. Sow 12 seeds in pot A, 1 centimetre deep, 4 centimetres apart. Water gently. 3. Ask your child to predict when pot B will flower, and to say why. 4. Write the prediction in the notebook.  
   *Parent says:* Pot A is sown today. Pot B will be sown in three weeks. Will pot B flower after the same number of days as pot A, or on the same date as pot A? Why do you think so?  
-  *Child mode:* Sow 12 seeds in pot A. Water it. Guess if pot B flowers at the same age or on the same date. Say why.
+  *Child mode:* Sow 12 seeds in pot A, 1 centimetre deep. Water it gently.
   - Ask: Will pot B flower at the same age as pot A, or on the same date? Why? (good: The same age, because each plant counts their own days.; The same date, because the season tells them when to flower.; Somewhere in between, because both age and season matter.)
   - Note: Sow between October and February in most of India. In the rains seeds may rot, and in the hottest months the plants bolt early. Methi seeds germinate in 3 to 5 days in a warm room. Both answers are fair at this stage.
   - Wait: Check the pot every day for 4 days
@@ -509,15 +509,15 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
   - Wait: Wait until day 22
 - **s3 (15 min)**  
   *Parent does:* 1. On day 22, sow pot B in the same way and in the same window. 2. Write pot A's age on that day. 3. Look at pot A. How many leaves has a plant made?  
-  *Parent says:* Now sow pot B in the same way, in the same window. Pot A is 21 days old. What stage is pot A at, and what stage is pot B at?  
-  *Child mode:* Sow pot B in the same way as pot A. Look at pot A. What stage is it in now?
+  *Parent says:* Now sow pot B in the same way, in the same window. Pot A is 21 days old.  
+  *Child mode:* Sow pot B in the same way as pot A. Then look closely at both pots.
   - Ask: Which stage is pot A in now, and which is pot B in? (good: Pot A has leaves, and pot B is just sown.; Pot A is growing, and pot B is germinating.)
   - Note: Pot A should be a small leafy plant by now. Both pots must stand in the same window.
   - Wait: Look at both pots each week
 - **s4 (10 min)**  
   *Parent does:* 1. Look at both pots on days 36, 50 and 64. 2. Each time, write down the stage each pot has reached, with the date and the age in days. 3. Check the soil. Water with one mug if the top centimetre is dry.  
   *Parent says:* Look at both pots. Write the stage each has reached, today's date, and the age of each pot in days. Which pot is further along?  
-  *Child mode:* Look at both pots. Write the stage of each pot. Write the date and the age in days.
+  *Child mode:* Look at both pots. Take a photo of each. Write the stage of each pot, the date and the age in days.
   - Ask: Is pot B catching up with pot A? What do you think is making that happen? (good: Pot B is younger, so maybe the weather is telling both pots when to flower.; Pot B is growing at the same speed as pot A did at that age.)
   - Note: Methi first flowers about 6 to 9 weeks after sowing, with small white flowers. Warm weather makes plants flower sooner. If pot B is warmer than pot A was at that age, pot B may flower at a younger age. That is a real result worth writing down.
   - Wait: Look again on day 78
@@ -538,9 +538,9 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 - **general:** Put the annual in the low field and the perennial in the high field.; Put the annual in both fields, because the annual is steady.; Put the perennial in both fields, because 12 seeds is more than 5.
 - **creative:** Leave part of the high field as perennial and part as annual, and compare the average.; Choose a different plan for each field after a bad run.; Add a third field where the die clears the ground on 1 or 2, and decide which plant fits best.
 - **s1 (6 min)**  
-  *Parent does:* 1. Draw the two fields. 2. Ask your child to choose a plant for each field and to say why. 3. Write the plan.  
+  *Parent does:* 1. Write 'low field' on one paper slip and 'high field' on another. 2. Ask your child to choose a plant for each field and to say why. 3. Write the plan.  
   *Parent says:* The low field floods often. The high field is rarely cleared. Which plant will you put in each field? Why?  
-  *Child mode:* Draw two fields. Pick a plant for each. Say why.
+  *Child mode:* Put the low field slip and the high field slip side by side. Pick a plant for each.
   - Note: In the Bad Year Test the annual left more seeds where clearing is common and the perennial where it is rare. Many children now choose the annual for the low field and the perennial for the high field.
 - **s2 (18 min)**  
   *Parent does:* 1. Roll the die for the low field and the die for the high field, 12 times. 2. Count the seeds for each field by the Bad Year Test rules. 3. Add the two totals. 4. Do three runs and find the average.  

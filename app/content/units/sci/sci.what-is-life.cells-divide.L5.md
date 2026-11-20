@@ -258,14 +258,14 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 - **Printable tokens: 5 answer cards for each player (make one set each):** DIVIDE BY MITOSIS; DIVIDE BY MEIOSIS; SPECIALISE; WAIT; DIE BY PLAN
 - **s1 (5 min)**  
   *Parent does:* 1. Cut out the 24 cell cards. 2. Write the five answers on slips of paper, one set for each player. 3. Shuffle the cell cards.  
-  *Parent says:* Each card describes one cell at one moment. A cell has five choices. Let's read the five answer cards first.  
+  *Parent says:* Each card describes one cell at one moment. A cell has five choices: divide by mitosis, divide by meiosis, specialise, wait, or die by plan. Let's read the five answer slips first.  
   *Child mode:* Cut out the cards. Make five answer slips. Shuffle the cell cards.
   - Note: Read the five answers aloud once. 'Wait' means the cell stays as she is and carries on with her work.
 - **s2 (15 min)**  
   *Parent does:* 1. Read the top card aloud. 2. Count to three. 3. Everyone lays down an answer. 4. Turn the card over and read the reason.  
   *Parent says:* Ask two questions each time. Does the body need more cells here? Would this cell be a danger if she stayed?  
-  *Child mode:* Read the card. Does the body need more cells here? Lay down your answer. Read the back.
-  - Ask: Why does a cell in an anther use meiosis, when a root tip cell uses mitosis? (good: The anther makes pollen, which leads to sex cells, and they need half the chromosomes.; A root only needs more cells of the same kind.)
+  *Child mode:* Read the card. Lay down your answer. Then read the back.
+  - Ask: Why does a pollen-making cell in a flower use meiosis, but a root tip cell uses mitosis? (good: The anther makes pollen, which leads to sex cells, and they need half the chromosomes.; A root only needs more cells of the same kind.)
   - Note: Children often choose 'divide' for every card. If that happens, ask what would go wrong if this cell made more of herself.
 - **s3 (5 min)**  
   *Parent does:* 1. Count the points. 2. Sort all 24 cards into five heaps by their answers. 3. Count the cards in each heap.  
@@ -280,7 +280,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 - **predict:** Guess first. Which of the four kinds of pieces will grow roots, and which will not? Say why you think so. Then guess where on a piece the roots will come out: from the cut end, or from somewhere else. Write your guesses down.
 - **fair test:** Cut all the pieces from the same bunch on the same day. Give every kind the same water and the same bright window, out of hot sun. Change the water for all of them every two days. Use five pieces of each kind, because one piece alone can fail by bad luck.
 - **safety:** A grown-up cuts the stems, or watches closely while the child cuts with small scissors.
-- **record:** Fill in the table on days 3, 5, 7 and 9. Draw one piece of each kind on day 9, and mark where the roots are. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table on days 3, 5, 7 and 9. Draw one piece of each kind on day 9 and mark where the roots are, or take a photo of each. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Kind of piece | Day 3: how many have roots | Day 5 | Day 7 | Day 9 | Where the roots came out
 - **schedule:** day 1: Cut five pieces of each of the four kinds. Stand them in water. Write down your guesses. (25 min); day 3: Change the water. Count the pieces with roots or white bumps. (5 min); day 5: Change the water. Count the pieces with roots. Note where the roots come out. (5 min); day 7: Change the water. Count again and measure the longest root. (5 min); day 9: Make the last count. Fill in the table and explain the result. (15 min)
 - **s1 (5 min)**  
@@ -301,7 +301,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
   - Note: Piece C will be short, perhaps 2 centimetres. That is fine. Look at both ends of C to be sure there is no node on it. Cut with a clean snip and do not crush the stem.
 - **s4 (4 min)**  
   *Parent does:* 1. Stand the five A pieces in a tumbler, with the lower node under 3 centimetres of water. 2. Lay the B, C and D pieces in three katoris, in water 1 centimetre deep. 3. Label each one. 4. Put them all at a bright window, out of hot sun.  
-  *Parent says:* All four kinds get the same water and the same light. Why did we cut five of each, and not one?  
+  *Parent says:* All four kinds get the same water and the same light. That keeps the test fair.  
   *Child mode:* Stand the A pieces in the tumbler. Lay B, C and D in shallow water. Label them. Put them by a bright window.
   - Ask: Why five pieces of each kind? (good: One piece could fail by bad luck.; If four or five of a kind do the same thing, we can trust the result more.)
   - Wait: Leave them for 2 days, then change the water
@@ -312,9 +312,9 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
   - Note: The first white bumps often show by day 3 or 4, at the node. In cool weather everything takes a few days longer, so carry on to day 12. Throw out any piece that turns black and slimy, and write that down as a result.
   - Wait: Do this on days 3, 5 and 7
 - **s6 (15 min)**  
-  *Parent does:* 1. On day 9, count one last time and fill in the table. 2. Ask your child for the three sentences. 3. Ask which two kinds of pieces show whether leaves are needed. 4. Ask your child to draw where the root-making cells must be. 5. Only then read the explanation together.  
+  *Parent does:* 1. On day 9, count one last time and fill in the table. 2. Ask your child for the three sentences. 3. Ask which two kinds of pieces show whether leaves are needed. 4. Ask your child to point to where on the piece the root-making cells must be. 5. Only then read the explanation together.  
   *Parent says:* Say what you thought would happen, what you saw, and why. Now compare B and D. One has a node and no leaf. The other has a leaf and no node.  
-  *Child mode:* Say what you guessed. Say what you saw. Say why. Compare B and D. Draw where the root-making cells are.
+  *Child mode:* Say what you guessed. Say what you saw. Say why. Point to where the root-making cells are.
   - Ask: Piece B had no leaves and piece D was only a leaf. What do those two tell us? (good: B grew roots without leaves, so leaves are not what makes roots.; D had a leaf and no node and grew no roots, so the node is what matters.)
   - Ask: The roots came out at the node, not at the cut end. What does that tell us about the cells there? (good: Cells that can start dividing again are at the node.; The rest of the stem is finished and does not make new parts.)
   - Note: The usual result is that A and B grow roots at the node, and C and D do not. B is often slower than A, because leaves supply food. If a C piece does grow a root, look again for a node hidden at one end. Plant the rooted A pieces in a pot of soil, and they will grow into pudina plants.
@@ -327,7 +327,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 - **results table:** Egg number | Coin 1 | Coin 2 | Coin 3 | Seen before? (yes or no)
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the three coins in a row and call them pair 1, pair 2 and pair 3. 2. Explain that heads is M and tails is F. 3. Draw the table with 24 rows.  
-  *Parent says:* A mother has two of each chromosome, one from her mother and one from her father. An egg gets only one of each pair. The coin decides which.  
+  *Parent says:* A mother has two of each chromosome, one from her mother and one from her father. An egg gets only one of each pair. The coin decides which. Heads, M, is the chromosome she got from her own mother. Tails, F, is the one from her own father.  
   *Child mode:* Lay out three coins. Each coin is one pair. Heads is M. Tails is F. Draw a table with 24 rows.
   - Note: M stands for the chromosome this mother got from her own mother. F is the one she got from her father. Always read the coins in the same order: 1 rupee, 2 rupees, 5 rupees.
 - **s2 (3 min)**  
@@ -357,7 +357,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 
 ## Activities
 ### a1 · Paddle to Hand: how do you get fingers out of a paddle? (12 min)
-- **record:** Draw the paddle and the finished hand. Shade the parts of the paddle that had to go.
+- **record:** Take a photo of both dough hands. Say which parts of the paddle had to go. Or draw the paddle and shade those parts.
 - **s1 (5 min)**  
   *Parent does:* 1. Give your child both balls of dough. 2. With the first, roll a palm and five fingers and stick the fingers on. 3. With the second, flatten a paddle shaped like a mitten. 4. Cut four thin wedges out of the paddle to leave five fingers.  
   *Parent says:* Make one hand by adding fingers. Make the other by starting with a paddle and taking dough away.  
@@ -370,7 +370,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
   - Ask: If the body started with a paddle, what must happen to the cells between the fingers? (good: They have to go.; They have to die and be cleared away.)
   - Note: Most children say 'adding', because growing seems to mean adding. Do not correct it yet.
 - **s3 (4 min)**  
-  *Parent does:* 1. Tell your child that a hand begins as a flat paddle, when the embryo is about five weeks old. 2. Finger bones form inside the paddle, and the cells between them die by plan. 3. Both spread your fingers and find the small web at the base. 4. Compare with a duck's foot.  
+  *Parent does:* 1. Tell your child that a hand begins as a flat paddle, when the embryo is about five weeks old. 2. Finger bones form inside the paddle, and the cells between them die by plan. 3. Have your child spread their fingers and find the small web at the base. 4. Tell them a duck's foot keeps its web.  
   *Parent says:* Your hand began as a paddle. Finger bones formed inside. Then the cells in between died on time. Spread your fingers. Can you find a little web left over?  
   *Child mode:* Your hand began as a paddle. The cells between the fingers died on time. Spread your fingers. Find the little web.
   - Note: The full picture uses both ways. The fingers do grow longer, and the cells between them die. In a duck embryo the cells between the toes get a signal that blocks the dying, so the web stays.
@@ -396,13 +396,13 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
   - Note: A random seven almost never has one of each number. The chance is about 1 in 27. If your child is lucky the first time, pick again.
 - **s4 (4 min)**  
   *Parent does:* 1. Ask your child to invent a way of sharing that always gives one of each number. 2. Try it: lay the slips in pairs, 1 with 1 and 2 with 2, then send one of each pair each way. 3. Say that this pairing up is what a cell does in meiosis.  
-  *Parent says:* Design a way to share them so that each side always gets one of every number. Show me how it works.  
-  *Child mode:* Find a way to share the slips. Each side must get one of every number. Show how.
+  *Parent says:* Can you find a way to share them so that each side always gets one of every number? Try it, and show me.  
+  *Child mode:* Invent a way to share the slips. Test it, and show your grown-up.
   - Note: The answer is to pair the slips first and then separate each pair. Whether red or blue goes left is free, and that freedom is the shuffle.
   - Check: A pea plant has 14 chromosomes, in 7 matching pairs. Which chromosomes does a pea egg cell get? → **One from each of the 7 pairs**
 ### a3 · Two Dances: mitosis and meiosis with paper chromosomes (25 min)
 - **safety:** Take care with the scissors when you cut the strips.
-- **record:** Draw the two cells that mitosis made and the four cells that meiosis made. Under each cell write how many chromosomes are in it.
+- **record:** Take a photo of the two cells that mitosis made and the four that meiosis made, or draw them. Next to each cell, write how many chromosomes are in it.
 - **s1 (5 min)**  
   *Parent does:* 1. Colour one long and one short strip red, and one long and one short strip blue. 2. Lay the string in a loop and put these four strips inside. 3. Make a copy of each strip with the spare strips, and clip each copy to its original to make an X.  
   *Parent says:* This cell has four chromosomes, in two pairs. Before any division, the cell copies every chromosome. The copies stay clipped together.  
@@ -410,7 +410,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
   - Note: The two long strips are a matching pair, and so are the two short ones. A clipped X is one chromosome with its copy, not two different chromosomes.
 - **s2 (6 min)**  
   *Parent does:* 1. Line the four X shapes up one below another across the middle of the loop. 2. Unclip each X and slide one strip to the left and its copy to the right. 3. Pinch the string loop into two loops. 4. Count and name the strips in each new cell.  
-  *Parent says:* This is mitosis. One copy of every chromosome goes each way. What does each new cell have? How does it compare with the first cell?  
+  *Parent says:* This is mitosis. One copy of every chromosome goes each way. Count the strips in each new cell.  
   *Child mode:* Line up the four X shapes. Unclip them. Send one copy each way. Count the strips in each new cell.
   - Ask: How do the two new cells compare with the cell you started with? (good: Each has the same four chromosomes: long red, long blue, short red, short blue.; They are copies of the first cell.)
 - **s3 (9 min)**  
@@ -419,17 +419,17 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
   *Child mode:* Lay partners side by side. Swap two tips. First send whole X shapes apart. Then unclip and divide again.
   - Note: At the first division, toss a coin for each pair to decide whether red goes left or right. That is the chance sharing from the Shuffle Test. You should end with four small loops, each holding one long strip and one short strip.
 - **s4 (5 min)**  
-  *Parent does:* 1. Lay the two mitosis cells and the four meiosis cells side by side. 2. Count the strips in each. 3. Ask your child what is the same and what is different. 4. Draw both results.  
-  *Parent says:* Look at both results. How many cells? How many chromosomes in each? Are the meiosis cells the same as each other?  
-  *Child mode:* Put both results side by side. Count the cells. Count the strips. Are the four cells the same?
-  - Ask: Why is at least one meiosis cell different from all the others? (good: The swapped tips made a strip that is part red and part blue.; Each cell got a different mix of red and blue.)
+  *Parent does:* 1. Lay the two mitosis cells and the four meiosis cells side by side. 2. Count the strips in each. 3. Ask your child what is the same and what is different. 4. Take a photo of both results.  
+  *Parent says:* Look at both results. How many cells? How many chromosomes in each?  
+  *Child mode:* Put both results side by side. Count the cells. Count the strips in each.
+  - Ask: Why are the four meiosis cells not all the same? (good: The swapped tips made a strip that is part red and part blue.; Each cell got a different mix of red and blue.)
   - Check: A cell with 4 chromosomes divides by meiosis. What does she make? → **4 cells with 2 chromosomes each**
 ### a4 · The Dead on Purpose Hunt: find cells that finished their work by dying (15 min)
 - **record:** Make a list with three columns: the thing, the living being it came from, and the job the dead cells do.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask whether any part of your child's body is made of dead cells, and how they could tell. 2. Wait for ideas. 3. Test them: which parts can be cut with no pain and no bleeding?  
   *Parent says:* Is any part of your body made of dead cells? How could you tell? Which parts can be cut without any pain?  
-  *Child mode:* Which parts of your body are dead cells? Think: which parts can you cut with no pain?
+  *Child mode:* Which parts of your body can be cut with no pain? Point to them.
   - Ask: Why does cutting a nail or a hair not hurt? (good: The cells there are already dead.; They filled up with a tough protein, and then died by plan.)
   - Note: Hair, nails and the top layer of skin are cells that filled with a tough protein called keratin and then died by plan. The living part is at the root.
 - **s2 (7 min)**  
@@ -440,30 +440,30 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 - **s3 (4 min)**  
   *Parent does:* 1. Count the items on the list. 2. Ask what the tree would lose if the pipe cells refused to die. 3. Ask your child to finish the sentence: 'These cells were useful because…'  
   *Parent says:* A tree's water pipes work only because the cells inside died and emptied. What would happen if they stayed alive and full?  
-  *Child mode:* Count your list. What if a tree's pipe cells stayed alive and full? Finish the sentence.
+  *Child mode:* Count your list. Finish the sentence: 'These cells were useful because…'
   - Check: A tree's water-carrying cells die when they are fully built. Why does that help the tree? → **The empty cells become open pipes for water**
 
 ## Projects
 ### p1 · Kitchen Regrowers: where does a vegetable keep the cells that can still divide? (50 min, 10 days)
 - **safety:** A grown-up does all the cutting with the knife.
-- **record:** Draw each piece on day 1 and on day 10. Circle the place where new growth started. Write one sentence for each piece: did it regrow, and from where?
+- **record:** Take a photo of each piece on day 1 and on day 10, or draw it. Mark the place where new growth started. Write one sentence for each piece: did it regrow, and from where?
 - **schedule:** day 1: Cut the pieces, guess which will regrow, and stand them in shallow water. (20 min); day 4: Change the water. Look for the first new growth and mark where it starts. (10 min); day 7: Change the water. Measure the new shoots and roots. (5 min); day 10: Make the last drawing of each piece and explain where the growing cells were. (15 min)
 - **s1 (20 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts the bottom 2 centimetres off the onion, with the root plate. 2. Cut a slice from the onion's middle. 3. Cut the top 2 centimetres off the carrot. 4. Cut two potato pieces, one with an eye and one with plain skin. 5. Ask which pieces will regrow, and why. 6. Stand all six pieces in water half a centimetre deep, at a bright window.  
+  *Parent does:* 1. A grown-up cuts the bottom 2 centimetres off the onion, with the root plate. 2. Cut a slice from the onion's middle. 3. Cut the top 2 centimetres off the carrot. 4. Cut two potato pieces, one with an eye and one with plain skin. 5. Add one whole garlic clove. 6. Ask which pieces will regrow, and why. 7. Stand all six pieces in water half a centimetre deep, at a bright window.  
   *Parent says:* Here are six pieces. Which ones will grow again, and which will not? Why do you think so?  
   *Child mode:* Look at the six pieces. Guess which will grow again. Say why. Stand them in shallow water.
   - Note: Stand the garlic clove with the flat end down. Keep the water shallow, so the pieces do not rot. Choose a potato whose eyes have begun to swell, or the potato pieces will need two or three weeks.
 - **s2 (15 min)**  
-  *Parent does:* 1. On day 4 and day 7, change the water. 2. Look for new green, white or purple growth. 3. Mark on the drawing where it starts. 4. On day 7, measure the longest shoot and root.  
+  *Parent does:* 1. On day 4 and day 7, change the water. 2. Look for new green, white or purple growth. 3. Note where it starts on each piece. 4. On day 7, measure the longest shoot and root.  
   *Parent says:* Where exactly is the new growth coming from? The cut face, the skin, or one special place?  
-  *Child mode:* Change the water. Find the new growth. Where does it start? Mark it on your drawing.
+  *Child mode:* Change the water. Find the new growth. Where does it start? Show your grown-up.
   - Ask: The onion base regrows from its centre and the middle slice does not. What does the base have? (good: The base has the growing point, at the flat plate where the roots join.; The middle slice is only leaf, with no growing point.)
   - Note: The onion base and the garlic usually show green within three or four days. The carrot top grows new leaves, but not a new carrot. Throw out any piece that goes slimy, and note it down.
   - Wait: Do this on day 4 and day 7
 - **s3 (15 min)**  
-  *Parent does:* 1. On day 10, draw each piece again. 2. Circle the growing place on each. 3. Ask what the growing places have in common. 4. Compare with the Pudina Pieces Test, if you have done it.  
-  *Parent says:* Look at all the circles. What do the growing places have in common? What did the pieces that stayed the same lack?  
-  *Child mode:* Draw each piece again. Circle where it grew. What do the circles have in common?
+  *Parent does:* 1. On day 10, lay the pieces in a row. 2. Put a small paper slip beside the growing place on each. 3. Ask what the growing places have in common. 4. Compare with the Pudina Pieces Test, if you have done it.  
+  *Parent says:* Look at all the marked places. What did the pieces that stayed the same lack?  
+  *Child mode:* Mark where each piece grew with a paper slip. Compare the places.
   - Ask: What do the regrowing pieces all have? (good: A bud or growing point: the onion's centre, the potato's eye, the top of the carrot.; Cells that can still divide.)
   - Note: Every regrowing piece has a bud. The onion's bud is in the centre of the base, the carrot's is at the top, and the potato's eye is a bud. The onion slice and the plain potato piece have none.
   - Check: A potato piece with an 'eye' sprouts, and a piece with plain skin does not. Why? → **The eye is a bud with cells that still divide**
@@ -482,14 +482,14 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
   *Child mode:* Mix the slips. Put on the blindfold. Put eight in each bag. Count the mistakes.
   - Note: A mistake is a number that is twice in one bag and missing from the other. A blind share from a heap nearly always has several.
 - **s2 (12 min)**  
-  *Parent does:* 1. Look at the usual ideas: clip the pairs, or lay them in a row. 2. Your child chooses one and says why it should work. 3. Test it three times, blindfolded. 4. Count the mistakes each time.  
+  *Parent does:* 1. Offer two starting ideas: clip each pair together, or lay the slips in a row. 2. Your child chooses one and says why it should work. 3. Test it three times, blindfolded. 4. Count the mistakes each time.  
   *Parent says:* Which idea do you want to test first? Why should it stop the mistakes? Try it three times.  
   *Child mode:* Pick one idea. Say why it should work. Test it three times. Count the mistakes.
   - Ask: Why does holding each pair together until the last moment help? (good: You always know which two slips are partners.; You only have to send one each way, and you can feel that.)
 - **s3 (12 min)**  
-  *Parent does:* 1. Your child designs a new method, or improves the first. 2. Test it three times. 3. Read how a cell does it: copies stay joined, threads from both sides take hold, a checkpoint waits, then the join is cut. 4. Ask which parts the two methods share.  
-  *Parent says:* Now make your own method, and test it three times. Then let's compare it with the way a cell shares her chromosomes.  
-  *Child mode:* Design your own method. Test it three times. Then compare it with how a cell does it.
+  *Parent does:* 1. Your child designs a new method, or improves the first. 2. Test it three times. 3. Read how a cell does it: copies stay joined, thin threads from both sides take hold, a checkpoint waits until all are held, then the join is cut. 4. Ask which parts the two methods share.  
+  *Parent says:* Now I will read how a cell shares her chromosomes. Then we will see which parts your method shares with her.  
+  *Child mode:* Design your own method. Test it three times.
   - Ask: A cell waits until every chromosome is held from both sides. Which part of your method does the same job? (good: The helper who says 'go'.; Checking that every pair is clipped before starting.)
   - Note: A real cell uses all four ideas. The copies are held together, they line up in the middle, threads pull from both sides, and a checkpoint stops everything until each one is attached.
 

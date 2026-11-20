@@ -283,14 +283,14 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **Printable board: 7 mats: write each name on a sheet of paper:** Bacteria; Archaea; Protists; Fungi; Plants; Animals; No single mat fits
 - **Printable tokens: One token for each player: a coin, a seed or a button:** Token for player 1; Token for player 2; Token for player 3; Token for player 4
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the 24 cards. 2. Write the seven mat names on seven sheets of paper. 3. Shuffle the cards and put them in a pile, clue side up. 4. Give each player a token.  
+  *Parent does:* 1. Cut out the 24 cards. 2. Write the seven mat names on seven sheets of paper: Bacteria, Archaea, Protists, Fungi, Plants, Animals and 'No single mat fits'. 3. Shuffle the cards and put them in a pile, clue side up. 4. Give each player a token.  
   *Parent says:* Each card describes one living being. We will decide which big group they belong to, using only the clues.  
   *Child mode:* Cut out the cards. Write the seven mat names on seven sheets. Shuffle the cards. Take a token.
 - **s2 (14 min)**  
   *Parent does:* 1. Read the top card aloud. 2. Count to three. 3. Everyone puts a token on a mat. 4. Turn the card and read the back. 5. A player who was right names the clue that decided it.  
   *Parent says:* Ask two things first. Do the cells have a nucleus? How does this being get their food?  
   *Child mode:* Read the clues. Is there a nucleus? How do they get food? Put your token on a mat. Turn the card.
-  - Ask: A cyanobacterium photosynthesises. Why are they not a plant? (good: Their cell has no nucleus, and every plant cell has one.; They are bacteria. Chloroplasts in plants came from their relatives.)
+  - Ask: A cyanobacterium makes food from light, as a plant does. Why are they not a plant? (good: Their cell has no nucleus, and every plant cell has one.; They are bacteria. Chloroplasts in plants came from their relatives.)
   - Note: The two questions in the 'say' line settle most cards. No nucleus means bacteria or archaea. With a nucleus, look at how the being feeds and whether they have many cells. Do not correct a wrong token before the card is turned.
 - **s3 (4 min)**  
   *Parent does:* 1. Count the points. 2. Lay out the cards that most players got wrong. 3. Ask what made each one hard.  
@@ -321,7 +321,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **question:** Four beings each carry a message of twelve letters, copied from one first message. Can the number of differing letters show who is whose sister? And if the bodies say one thing and the letters say another, which is right?
 - **predict:** Guess first. Look at the four beings and the bodies drawn on their slips. Which two are sisters, copied from the same parent message? Write your guess and the reason for it. Then guess again: will counting the letters that differ give the same sisters as the bodies do? Why do you think so?
 - **fair test:** Every copy gets exactly 2 changed letters, so every line of the family changes at the same speed. A chit is never put back in the tumbler, so no place in the message is changed twice. The person who counts must not see the hidden slips until the tree is drawn. The bodies are given by a fixed rule: one still body and one swimming body on each side of the tree. That is done on purpose, to find out what happens when looks and letters disagree.
-- **record:** Fill in the table for all six pairs. Draw the family tree that the numbers give. After the hidden slips are shown, write three sentences: what you thought would happen, what you saw, and why you think it happened.
+- **record:** Fill in the table for all six pairs. Draw the family tree that the numbers give, or lay out the slips and take a photo. After the hidden slips are shown, say or write three sentences: what you thought would happen, what you saw, and why you think it happened.
 - **results table:** Pair of beings | Do their bodies look alike? | Number of letters that differ
 - **s1 (5 min)**  
   *Parent does:* 1. Your child cuts 12 small chits and numbers them 1 to 12. 2. They put the chits in the tumbler. 3. They cut 7 paper slips, each about 15 centimetres long. 4. They rule a table with three columns and six rows.  
@@ -336,7 +336,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **s3 (4 min)**  
   *Parent does:* 1. Give your child the four slips, Being 1 to Being 4. 2. Ask which two are sisters, and why. 3. Ask whether counting letters will agree with the bodies, and why. 4. Write both guesses down.  
   *Parent says:* Here are four beings. Two pairs of them are sisters. Which two do you think are sisters? Why do you think so?  
-  *Child mode:* Look at the four beings. Guess which two are sisters. Say why. Guess if the letters will agree. Write it down.
+  *Child mode:* Look at the four beings. Guess which two are sisters. Then guess if counting letters will pick the same two. Tell your grown-up, or write it down.
   - Ask: Why do you think so? (good: Beings 1 and 2 both stand still, so they look like sisters.; I am not sure the bodies tell us, because the message is what was copied.)
   - Note: Do not correct the guess. Most children pair the beings by their bodies.
 - **s4 (10 min)**  
@@ -345,9 +345,9 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
   *Child mode:* Lay one slip under another. Line up the letters. Dot each place where they differ. Count the dots. Do all six pairs.
   - Note: With the ready-made set, the counts are 8, 4, 8, 8, 4 and 8, in the order of the table rows. With your own tree, two pairs differ in 4 letters and four pairs differ in 8. Rub the dots out between pairs, or use a fresh strip of paper under the slips.
 - **s5 (5 min)**  
-  *Parent does:* 1. Ask which pairs have the fewest differences. 2. Your child joins each of those pairs with a small fork on paper. 3. They join the two forks lower down to make one tree. 4. They write the number of differences beside each fork.  
+  *Parent does:* 1. Ask which pairs have the fewest differences. 2. Your child joins each of those pairs with a small fork on paper. 3. They join the two forks lower down to make one tree. They can draw it, or lay the slips out in a tree shape. 4. They write the number of differences beside each fork.  
   *Parent says:* Which pairs differ least? Join each of those pairs with a fork. Then join the two forks into one tree.  
-  *Child mode:* Find the two pairs with the fewest differences. Join each pair with a fork. Join the two forks into one tree.
+  *Child mode:* Find the two pairs with the fewest differences. Join each pair with a fork. Join the two forks into one tree. Draw it, or lay the slips out in a tree shape.
   - Ask: Why should the pair with the fewest differences be joined first? (good: They have had the least time to change since they were one message.; Fewer copyings separate them.)
 - **s6 (4 min)**  
   *Parent does:* 1. Bring out the hidden slips First, A and B. 2. Lay all seven slips on the floor as the real tree. 3. Your child compares it with the tree they drew. 4. Explain how the bodies were given.  
@@ -358,7 +358,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **s7 (6 min)**  
   *Parent does:* 1. Your child writes three sentences: what they thought, what they saw and why it happened. 2. Ask why counting worked without seeing the parents. 3. Ask what would go wrong if one place changed twice.  
   *Parent says:* Write your claim, your evidence and your reason. You never saw the parent messages. So how could the letters show you the tree?  
-  *Child mode:* Write what you thought. Write what you saw. Write why it happened. How did letters show a tree you never saw?
+  *Child mode:* Write what you thought. Write what you saw. Write why it happened.
   - Ask: You could count differences between these messages. Could you count differences between two messages that were never copies of one message? (good: No, because nothing would line up.; You can only count differences from something that started the same.)
   - Note: A strong answer says that each copy carries the parent's changes plus two new ones. So sisters share the parent's changes and differ only in their own. Scientists do this with a real gene that every cell has.
   - Think: Over a very long time, the same place in a gene can change twice. How would that spoil the count?
@@ -372,7 +372,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **schedule:** day 1: Set up two chapati pouches and two saucers of seeds. Put one of each in the light and one of each under the box. Write your guesses. (20 min); day 3: Look at all four quickly. Write what you see. Add a teaspoon of water to each seed pad. (5 min); day 5: Look again and write what you see. Add a teaspoon of water to each seed pad. (5 min); day 7: Judge the mould on each chapati. Measure five seedlings from each saucer. Write what you found and why. (15 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Cut the chapati into two equal pieces. 2. Sprinkle one teaspoon of water over each piece. 3. Leave them open on a plate for 30 minutes. 4. Seal each piece in a clear pouch. 5. Label them 'light' and 'dark'.  
-  *Parent says:* Mould spores are floating in the air of every room. We leave the chapati open so that some spores can land on it.  
+  *Parent says:* Mould spores, the tiny seeds of mould, are floating in the air of every room. We leave the chapati open so that some can land on it.  
   *Child mode:* Cut the chapati in two. Sprinkle a teaspoon of water on each piece. Leave them open for 30 minutes. Seal each piece in a pouch.
   - Note: Do the seed step while the chapati lies open. The chapati should be damp and not dripping. A spore is a single cell that a fungus sends out to start a new fungus.
 - **s2 (6 min)**  
@@ -405,56 +405,56 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **s7 (7 min)**  
   *Parent does:* 1. Your child writes three sentences: what they thought, what they saw and why it happened. 2. Ask where the mould got food in the dark. 3. Ask where the dark seedlings got food to grow so tall. 4. Move the yellow seedlings into the light for two days.  
   *Parent says:* Write your claim, your evidence and your reason. The mould grew with no light at all. So where did their food come from?  
-  *Child mode:* Write what you thought. Write what you saw. Write why it happened. Where did the mould get food in the dark?
+  *Child mode:* Write what you thought. Write what you saw. Write why it happened.
   - Ask: The dark seedlings grew taller than the light ones. Does that show that plants do not need light? (good: No. They were using up the food stored in the seed.; They were yellow and thin. They grew tall to search for light, and they made no new food.)
   - Note: The mould's food was the chapati. The seedlings in the dark were spending the food packed in the seed, and making none. Kept in the dark, they would run out and die in about two weeks. In the light, the yellow seedlings turn green within a day or two.
   - Check: A mould grew as well in the dark as in the light. What does that show about how a mould feeds? → **A mould does not make food from light**
 
 ## Activities
 ### a1 · The Two-Box Problem: can everything alive at home be a plant or an animal? (10 min)
-- **record:** Draw the two boxes and write each being's name where you put them. Draw a ring round every being who did not fit either box.
+- **record:** Write each being's name in the box you put it in, and ring every being who did not fit either box. Or take a photo of your sorted slips.
 - **s1 (3 min)**  
   *Parent does:* 1. Write ten names on ten slips. 2. The first five are a potted plant, coriander leaves, an ant, a house gecko or a crow, and yourself. 3. Three more are the bacteria in curd, the yeast in bread and a mushroom. 4. The last two are the mould on old fruit and the green film in a flowerpot saucer. 5. Ask how many of the ten will fit into 'plants' or 'animals'.  
   *Parent says:* All ten of these are alive, or were alive when they came into our kitchen. How many of them are plants or animals? Guess a number.  
-  *Child mode:* Write ten living beings from your home on slips. Use the list. Guess how many are plants or animals.
+  *Child mode:* Write on slips the ten names your grown-up reads out. Guess how many of the ten are plants or animals.
   - Note: Change the list to fit your home, but keep the curd bacteria, the yeast, the mushroom and the mould. If there is no mushroom in the house, write the slip anyway.
 - **s2 (4 min)**  
   *Parent does:* 1. Draw a line down a sheet of paper. 2. Head one half 'Plants' and the other 'Animals'. 3. Your child places each slip and gives a reason. 4. Slips that fit neither half go on the line.  
   *Parent says:* Put each slip in a box and tell me your rule. If a being fits neither box, put that slip on the line.  
-  *Child mode:* Draw two boxes: Plants and Animals. Put each slip in a box. Say your rule. Put the ones who do not fit on the line.
+  *Child mode:* Divide a sheet in two: Plants and Animals. Put each slip in a half. Say your rule. Put the ones who do not fit on the line.
   - Ask: What is your rule for 'plant'? Does the mushroom pass it? (good: A plant is green and makes food from light. The mushroom is not green.; A plant stays still. But that would make the mushroom a plant, and I am not sure.)
   - Note: Do not settle the hard slips. Usually the curd bacteria, the yeast, the mushroom and the mould end up on the line or cause an argument. The green film is mostly algae and cyanobacteria.
 - **s3 (3 min)**  
   *Parent does:* 1. Count the slips on the line. 2. Ask what you would need to find out about each one to place them. 3. Write the questions down and keep them.  
   *Parent says:* Some beings did not fit. What would we need to know about them? Let's write our questions and keep them.  
-  *Child mode:* Count the slips on the line. What would you need to know about them? Write your questions.
+  *Child mode:* Count the slips on the line. Say or write one question you would need answered for each.
   - Think: People used only these two boxes for two thousand years. What do you think made them add more?
 ### a2 · Four Maps of Life: sort the same twelve beings in 1735, 1866, 1969 and today (20 min)
 - **record:** Make a table with twelve rows, one for each being, and four columns, one for each year. Write the group each being was in. In a last column, count how many times that being changed group.
 - **s1 (5 min)**  
-  *Parent does:* 1. Write these on 12 slips: human, gecko, sponge, coconut palm, moss, mushroom, yeast, amoeba, Euglena, brown seaweed, curd bacterium, methane-maker. 2. Head the first sheet '1735' and divide it into Plants and Animals. 3. Your child sorts the slips and writes the result in the table.  
+  *Parent does:* 1. Write these on 12 slips: human, gecko, sponge, coconut palm, moss, mushroom, yeast, amoeba, Euglena, brown seaweed, curd bacterium, methane-maker (a tiny being that makes methane gas). 2. Head the first sheet '1735' and divide it into Plants and Animals. 3. Your child sorts the slips and writes the result in the table.  
   *Parent says:* It is 1735. There are two kingdoms, plants and animals. Nobody has a microscope good enough to see inside a cell. Where does each being go?  
-  *Child mode:* Write the twelve beings on slips. Draw the 1735 map: Plants and Animals. Sort the slips. Write where each one went.
+  *Child mode:* Write the twelve beings on slips. Make the 1735 map: Plants and Animals. Sort the slips. Write where each one went.
   - Note: Under the two kingdoms, the mushroom, yeast, seaweed, moss and palm were plants. The amoeba, once people had seen one, was called an animal. Bacteria were put with the plants. Euglena was claimed by both sides. The sponge was argued over, and settled as an animal in the 1800s.
 - **s2 (4 min)**  
   *Parent does:* 1. Head the second sheet '1866'. 2. Divide it into Plants, Animals and Protists. 3. Explain that Protists were the tiny beings who were neither plant nor animal. 4. Your child sorts again and writes the result.  
   *Parent says:* It is 1866. Microscopes are good, and Ernst Haeckel adds a third kingdom for tiny beings who are neither plant nor animal. Who moves?  
-  *Child mode:* Draw the 1866 map: Plants, Animals and Protists. Sort the slips again. Write who moved.
+  *Child mode:* Make the 1866 map: Plants, Animals and Protists. Sort the slips again. Write who moved.
   - Note: The amoeba, Euglena and both microbes move to Protists. Haeckel counted bacteria among the protists. The mushroom and the yeast stayed with the plants in most books.
 - **s3 (4 min)**  
   *Parent does:* 1. Head the third sheet '1969'. 2. Divide it into five: Monera, Protists, Fungi, Plants and Animals. 3. Explain that Monera means every cell with no nucleus. 4. Your child sorts again and writes the result.  
   *Parent says:* It is 1969. The electron microscope has shown the nucleus clearly, and Robert Whittaker has looked at how each being feeds. Who moves now?  
-  *Child mode:* Draw the 1969 map with five kingdoms. Sort the slips again. Write who moved.
+  *Child mode:* Make the 1969 map with five kingdoms. Sort the slips again. Write who moved.
   - Note: The curd bacterium and the methane-maker go to Monera. The mushroom and the yeast go to Fungi. The amoeba and Euglena stay in Protists. Whittaker left the brown seaweed in Plants.
 - **s4 (4 min)**  
-  *Parent does:* 1. Head the fourth sheet 'Today'. 2. Divide it into Bacteria, Archaea and Eukarya. 3. Inside Eukarya, draw rings for Animals, Fungi, Plants and 'other branches'. 4. Your child sorts again and writes the result.  
+  *Parent does:* 1. Head the fourth sheet 'Today'. 2. Divide it into Bacteria, Archaea and Eukarya. 3. Explain that Archaea are a separate group of tiny cells with no nucleus. Eukarya means every being whose cells have a nucleus. 4. Inside Eukarya, make rings for Animals, Fungi, Plants and 'other branches', with string or drawn on the sheet. 5. Your child sorts again and writes the result.  
   *Parent says:* Today scientists can read genes. Carl Woese found that the methane-makers are not bacteria at all. Where does everyone go now?  
-  *Child mode:* Draw today's map: Bacteria, Archaea and Eukarya. Add rings inside Eukarya. Sort the slips again. Write who moved.
+  *Child mode:* Make today's map: Bacteria, Archaea and Eukarya. Add rings inside Eukarya. Sort the slips again. Write who moved.
   - Note: The curd bacterium goes to Bacteria and the methane-maker to Archaea. All ten others go to Eukarya. The amoeba, Euglena and the brown seaweed go in 'other branches', each on a different branch.
 - **s5 (3 min)**  
   *Parent does:* 1. Your child counts how many times each being changed group. 2. Ask who never moved and who moved most. 3. Ask what new tool came before each new map.  
   *Parent says:* Who never moved in three hundred years? Who moved nearly every time? What was different about the ones who moved?  
-  *Child mode:* Count each being's moves. Who never moved? Who moved most? What do the movers share?
+  *Child mode:* Count each being's moves on your table. Then answer your grown-up's questions.
   - Ask: Why did the human, the gecko, the palm and the moss never move? (good: People could always see them clearly.; The beings who moved were small or hard to see inside, so each new tool showed something new.)
   - Think: What tool might redraw the map next?
 ### a3 · Six Questions: build a key for the big groups of life (15 min)
@@ -462,7 +462,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **s1 (5 min)**  
   *Parent does:* 1. Write at the top of the sheet: 'Do the cells have a nucleus?' 2. Draw a 'no' line and a 'yes' line. 3. Your child adds questions until every line ends at one group. 4. The groups are Bacteria, Archaea, Protists, Fungi, Plants and Animals.  
   *Parent says:* A key is a chain of yes-or-no questions. Each answer sends you down one line. What question would you ask next on the 'yes' side?  
-  *Child mode:* Start with: do the cells have a nucleus? Draw a yes line and a no line. Add questions until each line ends at one group.
+  *Child mode:* Start with: do the cells have a nucleus? Draw a yes line and a no line, or use two slips. Add questions until each line ends at one group.
   - Note: One key that works: no nucleus, then 'Do they make methane, or have the unusual membrane fats?' gives Archaea or Bacteria. With a nucleus: 'Many cells, no cell walls, food taken inside?' gives Animals. 'Chitin walls, soaks up food?' gives Fungi. 'Cellulose walls and green chloroplasts?' gives Plants. Everyone else is a Protist. Let your child find their own questions first.
 - **s2 (6 min)**  
   *Parent does:* 1. Shuffle the being cards. 2. Your child takes eight cards, one at a time. 3. For each, they follow the key using only the clues, then turn the card. 4. They mark each result right or wrong.  
@@ -483,9 +483,9 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
   *Child mode:* Put the six groups in order, heaviest first. Say why. Write your guess.
   - Note: Do not correct the guess. Many children put animals near the top.
 - **s2 (10 min)**  
-  *Parent does:* 1. Cut strips 3 centimetres wide and tape them into one strip 55 centimetres long. 2. From one end, mark 450 millimetres for plants. 3. Then mark 70 for bacteria, 12 for fungi, 7 for archaea, 4 for protists and 2 for animals. 4. Colour and label each part. 5. Leave the last 5 millimetres blank.  
-  *Parent says:* One millimetre stands for one billion tonnes of carbon in living beings. Plants get 450 millimetres. Measure each group in turn.  
-  *Child mode:* Make a strip 55 cm long. Mark 450 mm for plants. Then 70, 12, 7, 4 and 2. Colour and label each part.
+  *Parent does:* 1. Cut strips 3 centimetres wide and tape them into one strip 55 centimetres long. 2. From one end, mark 450 millimetres for plants. 3. Then mark 70 for bacteria, 12 for fungi, 7 for archaea, 4 for protists and 2 for animals. 4. Label each part, and colour it if you like. 5. Leave the last 5 millimetres blank.  
+  *Parent says:* One millimetre stands for one billion tonnes of living matter, counted as carbon. Plants get 450 millimetres. Measure each group in turn.  
+  *Child mode:* Make a strip 55 cm long. Mark 450 mm for plants. Then 70, 12, 7, 4 and 2. Label each part. Colour it if you like.
   - Note: The figures come from a study of 2018 and are rounded estimates, so they add up to 545 and not 550. The blank 5 millimetres stand for that rounding. The figures for microbes are the least certain.
 - **s3 (4 min)**  
   *Parent does:* 1. Find the 2 millimetres for animals. 2. Explain that all humans together are 0.06 of a millimetre. 3. Your child draws the thinnest line they can inside the animal part.  
@@ -495,7 +495,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **s4 (3 min)**  
   *Parent does:* 1. Compare the strip with the first guess. 2. Ask which result was the biggest surprise. 3. Ask why plants weigh so much.  
   *Parent says:* How close was your guess? Trees hold most of the weight of life. What are trees mostly made of, that lets them be so heavy?  
-  *Child mode:* Compare the strip with your guess. What surprised you most? Why do plants weigh so much?
+  *Child mode:* Compare the strip with your guess. What surprised you most?
   - Note: Most plant weight is wood: the cellulose walls of cells in tree trunks, much of it no longer living. By variety, microbes have the most branches on the tree of life. By weight, plants are far ahead. Animals are small on both counts.
   - Think: Plants have the most weight. Microbes have the most kinds. Which is the better way to measure a group's share of life?
 ### a5 · Tree or Web? Draw the places where branches join (15 min)
@@ -507,7 +507,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
   - Note: Put the animal twig and the fungus twig on one small fork, to show that they are nearest relatives.
 - **s2 (4 min)**  
   *Parent does:* 1. With red, draw a line from the middle of the Bacteria branch across to the base of the Eukarya branch. 2. Label it 'became mitochondria'. 3. With green, draw a line from the cyanobacteria twig across to the base of the plant twig. 4. Label it 'became chloroplasts'.  
-  *Parent says:* About two billion years ago, a bacterium began living inside another cell and stayed. Later, a cyanobacterium did the same in the ancestor of plants.  
+  *Parent says:* About two billion years ago, a bacterium began living inside another cell and stayed. That bacterium became the mitochondria, the part of our cells that releases energy. Later, a cyanobacterium did the same in the ancestor of plants. That cyanobacterium became the chloroplasts, the parts of a leaf cell that catch light.  
   *Child mode:* Draw a red line from Bacteria to the base of Eukarya. Draw a green line from cyanobacteria to the plants. Label both.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child puts a finger on a curd bacterium on the Bacteria branch and traces back to the root. 2. They do the same from the animal twig, following every line that leads in. 3. They do the same from the plant twig. 4. They count the paths each time.  
@@ -516,9 +516,9 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
   - Ask: How many paths lead back from one of your cells? How many from a leaf cell? (good: Two from mine: the cell itself and the mitochondria.; Three from a leaf cell: the cell, the mitochondria and the chloroplasts.)
   - Check: A neem leaf cell has a nucleus, mitochondria and chloroplasts. How many lines of ancestors meet in that cell? → **Three**
 - **s4 (2 min)**  
-  *Parent does:* 1. Ask whether the drawing is still a tree. 2. Ask what else could cross between branches. 3. Your child adds three thin dotted lines between microbe branches for single genes passed sideways.  
-  *Parent says:* Is this still a tree? Bacteria also pass single genes to their neighbours. Add a few thin dotted lines for those.  
-  *Child mode:* Is it still a tree? Add three thin dotted lines between the microbe branches. They stand for genes passed sideways.
+  *Parent does:* 1. Ask whether the drawing is still a tree. 2. Ask what else could cross between branches. 3. Your child points to three places between microbe branches where genes could pass sideways. They can draw a dotted line at each.  
+  *Parent says:* Is this still a tree? Bacteria also pass single genes to their neighbours. Where could that happen on our drawing?  
+  *Child mode:* Is it still a tree? Point to three places between the microbe branches where genes could pass sideways. Draw a thin dotted line there if you like.
   - Think: If you had to choose one word for this drawing, would it be 'tree', 'web' or something else?
 
 ## Projects
@@ -556,16 +556,16 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **s1 (8 min)**  
   *Parent does:* 1. Your child draws the usual chart: six boxes, one for each group. 2. Write the three discoveries on three slips. 3. Your child tries to add the first one to the box chart.  
   *Parent says:* Here is the first discovery: a new cell with a nucleus, who is not an animal, a plant, a fungus or like any known protist. Where do they go?  
-  *Child mode:* Draw six boxes, one for each group. Read the first discovery slip. Try to add them to your chart.
+  *Child mode:* Make six boxes, one for each group: draw them, or use six slips. Read the first discovery slip. Try to add them to your chart.
   - Note: The three slips are: 'a new cell with a nucleus who fits no kingdom', 'archaea who are nearer relatives of us than of other archaea', and 'a giant virus with a thousand genes'. All three are real discoveries of the last twenty-five years.
 - **s2 (12 min)**  
   *Parent does:* 1. Your child tries the second and third slips on the box chart. 2. Ask what had to be redrawn each time. 3. Look together at the usual ideas and the creative ideas. 4. Your child sketches a new design.  
   *Parent says:* What broke when you added the second discovery? What kind of chart would have bent and not broken?  
-  *Child mode:* Try the other two slips. What had to be redrawn? Look at the ideas. Sketch a better chart.
+  *Child mode:* Try the other two slips. What had to be redrawn? Look at the ideas. Sketch a better chart, or build one from slips and thread.
   - Ask: Why does a box chart break more easily than a tree? (good: Boxes show no links between groups, so a being who sits between two groups has no place.; On a tree you can add a twig. In a table you must add or split a whole box.)
 - **s3 (10 min)**  
   *Parent does:* 1. Your child builds the new chart. 2. They add all three discoveries, counting the changes each one needs. 3. They mark the 'protists' label so that it looks different from a real branch.  
-  *Parent says:* Add the three discoveries to your new chart. Count the changes. Did any one of them need more than a single line or label?  
+  *Parent says:* Add the three discoveries to your new chart. Count the changes. Did any one of them need more than a single line or label? Protists is not one family. It is a label for everything left over, so mark it differently.  
   *Child mode:* Build your new chart. Add the three discoveries. Count the changes each one needs. Make 'protists' look different from a branch.
   - Note: There is no perfect answer. Real scientists disagree about how to draw this. A good design makes it easy to see what is known, what is a label of convenience and what is still open.
 ### c2 · A Fair Tree for the Wall (30 min)
@@ -581,7 +581,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - **s2 (14 min)**  
   *Parent does:* 1. Your child writes the rule at the top of the chart paper. 2. They work out the share for each group. 3. They draw the tree with three domains, giving each group their share. 4. They mark the human.  
   *Parent says:* Work out each group's share by your rule first. Then draw. Keep to the rule, even where the result looks odd.  
-  *Child mode:* Write your rule at the top. Work out each group's share. Draw the tree. Mark the human.
+  *Child mode:* Write your rule at the top. Work out each group's share. Draw the tree, or build it from paper strips cut to each share. Mark the human.
   - Note: For the weight rule, the figures are plants 450, bacteria 70, fungi 12, archaea 7, protists 4 and animals 2. For the age rule, bacteria and archaea split more than 3.5 billion years ago, cells with a nucleus appeared about 2 billion years ago, and animals about 600 million years ago. These dates are rough and still argued over.
 - **s3 (10 min)**  
   *Parent does:* 1. Your child shows the poster to someone who has not seen it. 2. That person finds the human and says which group looks most important. 3. Your child explains the rule. 4. Together, name one thing the rule hides.  

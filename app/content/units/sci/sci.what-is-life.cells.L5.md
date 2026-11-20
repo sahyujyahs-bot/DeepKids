@@ -287,13 +287,13 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **s2 (12 min)**  
   *Parent does:* 1. Take turns to read a card. 2. Place it under a label and give a reason. 3. Turn it over and score. 4. Stop and talk whenever a card says 'Argue it'.  
   *Parent says:* Ask two questions each time. Is it alive now? And did it grow from the one cell that you began as?  
-  *Child mode:* Read a card. Is it alive now? Did it grow from your first cell? Choose a pile. Say why.
+  *Child mode:* Read a card. Choose a pile. Say why.
   - Ask: A hair is part of you, but it is not alive. How can both be true? (good: Living cells in the root made it, and then those cells died and hardened.; It is something my cells built, like a shell.)
   - Note: The two questions sort most cards. The argue cards are the ones where the two answers pull apart, or where scientists themselves disagree. Let your child hold their own view if they give a reason.
 - **s3 (5 min)**  
   *Parent does:* 1. Count the points. 2. Lay out the six argue cards. 3. Each player picks one and says which pile they would choose and why.  
   *Parent says:* Look at the six argue cards. Choose one. Which pile would you put it in, and what is your best reason?  
-  *Child mode:* Count your points. Pick one argue card. Choose a pile for it. Give your best reason.
+  *Child mode:* Count your points. Then pick one argue card and choose its pile.
   - Check: Which of these is one of your own living cells? → **A red blood cell**
 
 ## Experiments
@@ -306,9 +306,9 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **results table:** Tooth (upper 1 to 6, lower 1 to 6) | Score just after brushing (0 to 3) | Score at the clean start (0 to 3) | Score next morning (0 to 3)
 - **schedule:** day 1: At bedtime: guess, brush, stain, score, then brush to a clean start. Only water until morning. (26 min); day 2: Before brushing and before breakfast: stain and score again, compare the two charts and explain. (14 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the food colour, teaspoon, katori, mirror and torch by the basin. 2. Draw a tooth chart: two rows of six tooth shapes. 3. Ask for the two guesses and the reasons. 4. Write them down.  
+  *Parent does:* 1. Put the food colour, teaspoon, katori, mirror and torch by the basin. 2. Ask for the two guesses and the reasons. 3. Write them down.  
   *Parent says:* Tonight you will brush your teeth clean. How much colour will they take tomorrow morning? Where will it show first? Why do you think so?  
-  *Child mode:* Draw two rows of six teeth. Guess how much colour shows tomorrow. Guess where. Say why. Write it down.
+  *Child mode:* Guess how much colour shows tomorrow. Guess where. Write both guesses down.
   - Ask: Why do you think so? (good: No colour, because I brushed and I will not eat anything.; A little near the gums, because some bacteria are always left.)
   - Note: Do not correct the guesses. Many children say 'no colour, because I brushed and ate nothing'. That is a reasonable guess, and the test will answer it.
 - **s2 (10 min)**  
@@ -317,9 +317,9 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
   *Child mode:* Brush for two minutes. Oil your lips. Swish the coloured water for 20 seconds. Spit it out. Rinse once.
   - Note: The oil keeps the colour off the lips. The tongue takes colour whatever you do, because its surface is rough. The colour fades from the tongue in a few hours.
 - **s3 (7 min)**  
-  *Parent does:* 1. Your child looks at their 12 front teeth in the mirror, with the torch. 2. They give each tooth a score from 0 to 3. 3. They shade the same places on the tooth chart. 4. Add up the 12 scores.  
+  *Parent does:* 1. Your child looks at their 12 front teeth in the mirror, with the torch. 2. They give each tooth a score from 0 to 3. 3. They shade the same places on a tooth chart: two rows of six teeth. Or they only write the scores in the table. 4. Add up the 12 scores.  
   *Parent says:* Look for patches that are clearly darker. Score 0 for none. Score 1 for a thin line by the gum. Score 2 for up to half the tooth. Score 3 for more than half.  
-  *Child mode:* Look at each front tooth. Score it 0, 1, 2 or 3. Shade your chart to match. Add up the scores.
+  *Child mode:* Look at each front tooth. Score it 0, 1, 2 or 3. Shade a tooth chart to match, or just write the scores. Add up the scores.
   - Note: A very pale tint over a whole tooth is not plaque. The thin film from saliva takes a little colour too. Count only patches that are clearly darker. Most children find colour along the gums and between the teeth, even after careful brushing.
 - **s4 (4 min)**  
   *Parent does:* 1. Your child brushes again, aiming at the coloured places, until no dark patches are left. 2. Check in the mirror. 3. Write the clean start score, which should be 0 or close to it. 4. From now on, only water until morning.  
@@ -334,7 +334,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **s6 (6 min)**  
   *Parent does:* 1. Lay the two charts side by side. 2. Ask your child for three sentences: what I thought, what I saw, and why I think it happened. 3. Ask the two questions below. 4. Only then read the explanation of plaque together. 5. Your child brushes the colour away.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Where did the coat grow back first?  
-  *Child mode:* Put the charts side by side. Say what you thought. Say what you saw. Say why. Then brush the colour away.
+  *Child mode:* Put the charts side by side. Tell your grown-up your three sentences. Then brush the colour away.
   - Ask: You ate nothing in the night. So where did the new coat come from? (good: A few bacteria were left on my teeth and tongue, and they divided.; They fed on things in my saliva.)
   - Ask: Why did the coat grow back first near the gums and between the teeth? (good: The brush and the tongue reach those places least, so more bacteria were left there.; Those places are sheltered, so nothing rubs the bacteria off.)
   - Note: Let your child finish their own explanation before you add anything. The idea to reach is that the coat is alive. A few bacteria stay in every mouth after brushing, and each one divides into two again and again.
@@ -353,7 +353,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **s2 (8 min)**  
   *Parent does:* 1. Fill the spoon from the tumbler and level it with a finger. 2. Tip it onto a plate and count the chana. 3. Put them back and mix. 4. Do this three times. 5. Add the three counts and divide by 3 to find the mean.  
   *Parent says:* This spoonful is our sample. Level it the same way each time. Count it, put it back, and take a fresh one. We do three.  
-  *Child mode:* Level the spoon with a finger. Count the chana. Put them back. Do it three times. Find the mean.
+  *Child mode:* Level the spoon with a finger. Count the chana. Put them back. Do it three times. Find the mean, which is the usual count for one spoon.
   - Note: The three counts will differ by one to four chana. That spread is worth noticing. It is the reason scientists never trust a single sample.
 - **s3 (5 min)**  
   *Parent does:* 1. Empty the tumbler onto a plate. 2. Fill it again, one level spoon at a time, and tally each spoon. 3. If the last spoon is only part used, count it as a half. 4. Multiply the mean by the number of spoons.  
@@ -373,7 +373,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **s6 (7 min)**  
   *Parent does:* 1. Count the rice grains in one level teaspoon. 2. A tumbler of 200 millilitres holds 40 teaspoons, and a kilogram of rice fills about 6 tumblers. 3. Multiply the grains by 40, then by 6. 4. Ask your child for their three sentences.  
   *Parent says:* Nobody would count a kilogram of rice. But now you trust the method. Count one teaspoon and multiply. Then tell me why the method works.  
-  *Child mode:* Count the rice in one level teaspoon. Multiply by 40. Multiply by 6. Say why the method works.
+  *Child mode:* Count the rice in one level teaspoon. Multiply by 40. Multiply by 6.
   - Ask: Why does counting a small sample work? (good: Because the rest is like the sample, so each spoon holds about the same number.; It only works if the sample is fair and the multiplying is right.)
   - Note: A level teaspoon holds roughly 200 to 250 grains of rice, so a kilogram comes to about 50,000 or 60,000. Small-grained rice gives a bigger number. To count the teaspoon quickly, spread the grains and count in groups of ten.
   - Check: Scientists say a ten-year-old has about 17 trillion cells. How did they get that number? → **They counted small samples and multiplied**
@@ -381,7 +381,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 ## Activities
 ### a1 · Pink Again: does blood reach a cold fingertip as fast as a warm one? (15 min)
 - **safety:** Use warm water that is comfortable to the hand, not hot. Keep the hand in cold water for one minute only.
-- **record:** Write the seconds it took for the pink to come back in the warm hand and in the cold hand. Draw a fingertip and show where you think the blood goes.
+- **record:** Write the seconds it took for the pink to come back in the warm hand and in the cold hand. Draw a fingertip and show where you think the blood goes, or tell your grown-up.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child presses hard on one thumbnail for 5 seconds. 2. They let go and count the seconds until the nail is pink again. 3. Do it three times and write the times.  
   *Parent says:* Press your thumbnail until it goes pale. Let go, and count 'one-and-two-and'. How long until it is pink again? What do you think the pink is?  
@@ -390,7 +390,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **s2 (3 min)**  
   *Parent does:* 1. Show the two mugs. 2. Ask whether a cold finger will turn pink faster, slower or the same as a warm one. 3. Ask for the reason and write it down.  
   *Parent says:* One hand will go in cold water and one in warm. Which thumbnail will turn pink again sooner? Why do you think so?  
-  *Child mode:* Guess which thumb turns pink sooner, the cold one or the warm one. Say why. Write it down.
+  *Child mode:* Guess which thumb turns pink sooner, the cold one or the warm one. Write it down.
   - Ask: Why do you think so? (good: The cold one is slower, because cold makes things slow down.; The same, because the heart pumps to both hands.)
 - **s3 (5 min)**  
   *Parent does:* 1. Your child holds one hand in the cold water and the other in the warm water for one minute. 2. Dry both hands quickly. 3. Press and time the cold thumbnail, then the warm one. 4. Write both times.  
@@ -398,9 +398,9 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
   *Child mode:* Hold one hand in cold water and one in warm. Wait one minute. Dry them. Time each thumbnail.
   - Note: The cold nail usually takes clearly longer, often three seconds or more. If you see no difference, the water was not cold enough. Add ice, or use water from the fridge.
 - **s4 (3 min)**  
-  *Parent does:* 1. Ask your child what they saw and why they think it happened. 2. Then explain what the skin does in the cold. 3. Your child draws a fingertip with its blood tubes.  
+  *Parent does:* 1. Ask your child what they saw and why they think it happened. 2. Then explain what the skin does in the cold. 3. Your child points to where the blood tubes run in their own fingertip.  
   *Parent says:* What did you see? Why do you think it happened? In the cold, the thin blood tubes in the skin become narrower. That saves heat for the rest of the body.  
-  *Child mode:* Say what you saw. Say why you think it happened. Draw a fingertip and its tiny blood tubes.
+  *Child mode:* Say what you saw. Say why you think it happened. Point to where the tiny blood tubes run in your fingertip.
   - Note: With narrower tubes, less blood reaches the fingertip, and its cells get less food and oxygen for a while. That is why very cold fingers become numb and clumsy. The cells are alive and they are short of supplies.
   - Check: Why does every part of your body need blood to reach it? → **Every cell is alive and needs food and oxygen**
 ### a2 · Count the Doublings: from one cell to seventeen trillion (20 min)
@@ -418,7 +418,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **s3 (5 min)**  
   *Parent does:* 1. Count the tally marks. 2. Compare with the guess. 3. Ask the question below and let your child think aloud. 4. Read the explanation of growing together only after that.  
   *Parent says:* It took 44 doublings. If a cell divided once a day, that is 44 days. But you took ten years to reach this size. What could explain that?  
-  *Child mode:* Count your tally marks. Was your guess close? Why did growing take you ten years, not 44 days?
+  *Child mode:* Count your tally marks. Was your guess close?
   - Ask: Why did growing take years, when 44 doublings would be enough? (good: Not every cell keeps dividing. Many take up a job and stop.; Many cells die and have to be replaced.; Each new cell must be built from food, and that takes time.)
 - **s4 (3 min)**  
   *Parent does:* 1. Your child copies the table of doublings into the notebook. 2. Ask the check question.  
@@ -428,9 +428,9 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 ### a3 · Where Would You Live? A microbe map of your own body (20 min)
 - **record:** Keep the finished body map. Write one sentence on which guess was right and which one surprised you.
 - **s1 (5 min)**  
-  *Parent does:* 1. Your child draws a body outline. 2. Ask what a bacterium needs to live: water, food, warmth and shelter. 3. They mark three places where they expect the most microbes and three with the fewest. 4. They say why.  
+  *Parent does:* 1. Ask what a bacterium needs to live: water, food, warmth and shelter. 2. Your child points to three places on their own body where they expect the most microbes, and three with the fewest. 3. They say why. 4. Draw a simple body outline on the big paper.  
   *Parent says:* Think like a bacterium. You need water, food, warmth and a place where nothing rubs you off. Where on a body would you settle? Where would you never settle? Why?  
-  *Child mode:* Draw a body outline. Mark three places with the most microbes. Mark three with the fewest. Say why.
+  *Child mode:* Point to three places on your body with the most microbes. Point to three with the fewest.
   - Ask: Why would a bacterium choose that place? (good: It is damp and warm there.; Nothing rubs it clean, and there is sweat or oil to feed on.)
 - **s2 (7 min)**  
   *Parent does:* 1. Your child presses a piece of tissue paper on their forehead for 10 seconds, and another on their forearm. 2. Hold both to the light and compare. 3. They feel which places on their body are damp. 4. Colour damp places blue, oily places yellow and dry places brown.  
@@ -438,14 +438,14 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
   *Child mode:* Press tissue on your forehead and on your arm. Compare them at the window. Colour damp, oily and dry places.
   - Note: The forehead paper usually shows a see-through oily mark, and the forearm paper does not. Damp places are the armpits, the inside of the elbows, behind the knees and between the toes. Oily places are the forehead, the sides of the nose and the upper back. Forearms, shins and palms are dry. Just after a bath the oily mark may be faint.
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child colours the mouth and the large intestine red. 2. They write 'most of all' on the large intestine. 3. They write 'none, normally' on the heart, the muscles and the brain. 4. Compare the map with the first guesses.  
+  *Parent does:* 1. Your child colours the mouth and the large intestine red. 2. They write 'most of all' on the large intestine. 3. They write 'none, normally' on the heart, the muscles and the brain. 4. Compare the map with the guesses your child made.  
   *Parent says:* Now the inside. The mouth has many. The large intestine has more than everywhere else put together. Blood, muscles and the brain normally have none. How close were your guesses?  
   *Child mode:* Colour the mouth and large intestine red. Write 'none' on the heart, muscles and brain. Check your guesses.
   - Note: Damp skin carries many bacteria of a few kinds. Dry skin, such as the forearm, carries fewer bacteria but the most kinds. Julie Segre and Elizabeth Grice found this in 2009, by reading the instructions of bacteria from 20 places on the skin.
 - **s4 (3 min)**  
   *Parent does:* 1. Ask the check question. 2. Your child writes one sentence on what surprised them.  
   *Parent says:* Which place surprised you? Why do you think the inside of the gut suits bacteria so well?  
-  *Child mode:* Write what surprised you. Why does the gut suit bacteria so well?
+  *Child mode:* Write one sentence on what surprised you.
   - Check: Where do most of the bacteria in a human body live? → **In the large intestine**
 ### a4 · A Day as One Cell: a comic in six boxes (20 min)
 - **record:** Keep the comic. Under it, write one way in which the cell's life is like yours and one way in which it is different.
@@ -455,9 +455,9 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
   *Child mode:* Choose one cell. Fold your paper into six boxes. Write a heading in each box.
   - Note: Red blood cell: born in bone marrow. She pushes out her nucleus before she leaves. She takes in oxygen in the lungs, goes round the body about once a minute and lives about 120 days. The spleen and liver take her apart and the iron is used again. White blood cell (neutrophil): born in bone marrow. She lives about a day in the blood. She senses chemicals from bacteria, crawls after them and swallows them. Dead ones make up much of the pus in a wound. Gut lining cell: born at the bottom of a tiny pit in the gut wall. She moves up a finger-shaped fold over three to five days, taking in food, and is shed from the tip. Gut bacterium: she lives in the large intestine, without oxygen. She feeds on fibre and divides every few hours when food is plentiful. Many leave with the stool, and a large part of stool is bacteria.
 - **s2 (12 min)**  
-  *Parent does:* 1. Your child draws one picture in each box. 2. They add one short sentence in the cell's own words under each picture.  
-  *Parent says:* Draw what your cell would see and do. Under each picture, write one thing she might say. Keep to the facts you heard.  
-  *Child mode:* Draw one picture in each box. Write what your cell says under each one.
+  *Parent does:* 1. Your child draws a picture in boxes 1, 3 and 5. 2. For boxes 2, 4 and 6 they act out the scene for you instead. 3. They write one short sentence in the cell's own words in each box.  
+  *Parent says:* Draw boxes 1, 3 and 5. Act out boxes 2, 4 and 6. Under each box, write one thing she might say. Keep to the facts you heard.  
+  *Child mode:* Draw boxes 1, 3 and 5. Act out boxes 2, 4 and 6. Write what your cell says in each box.
   - Ask: What does your cell need from the rest of the body, and what does she give? (good: She needs food and oxygen from the blood.; She gives her work, such as carrying oxygen or taking in food.)
 - **s3 (4 min)**  
   *Parent does:* 1. Your child reads the comic aloud. 2. Ask the question below. 3. They write the two sentences under the comic.  
@@ -488,9 +488,9 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
   *Child mode:* Measure both gaps again. Write them down. Which line has gone further?
   - Wait: Leave it for 7 days.
 - **s4 (15 min)**  
-  *Parent does:* 1. Measure both gaps. 2. Divide each gap by 21 to find the growth in one day. 3. Draw the line graph. 4. Ask for the three sentences. 5. Then read the parent note together.  
+  *Parent does:* 1. Measure both gaps. 2. Divide each gap by 21 to find the growth in one day. 3. Draw the line graph, or just keep the table. 4. Ask for the three sentences. 5. Then read the parent note together.  
   *Parent says:* Measure for the last time. How far did each nail grow in 21 days? Say what you thought, what you saw, and why you think the two differ.  
-  *Child mode:* Measure both gaps. Draw your graph. Say what you thought, what you saw, and why.
+  *Child mode:* Measure both gaps. Draw your graph, or keep the table. Say what you thought, what you saw, and why.
   - Note: A thumbnail usually grows about 2 millimetres in three weeks, and a big toenail about 1. Fingernails grow about twice as fast as toenails. Scientists are not sure why. One idea is that the hands get a better blood supply. Cells at the root of the nail divide, fill up with a tough material and die. So the nail you can see is made of dead cells.
   - Check: A painted line on a nail moves away from the skin as weeks pass. What does that show? → **New nail is made at the root and pushes the old nail out**
 
@@ -502,7 +502,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 - **general:** Stripes: colour rows 2, 5 and 8 red, and join them down the left edge. This feeds every cell and uses 31 red squares.; A comb: one red column down the middle, with red rows branching off it.; A spiral that winds in from the edge.
 - **creative:** Branch like a tree, as real blood tubes do: one thick trunk that splits into thinner and thinner twigs.; Add a few loops, so that there are two routes to each part. Real capillaries form a net with many loops.; Leave the tubes thin at the far ends and count how far each cell is from the heart. In a real body, no cell can be far along a blocked road.
 - **s1 (8 min)**  
-  *Parent does:* 1. Draw a 9 by 9 grid and mark the heart square. 2. Colour rows 2, 5 and 8 red. 3. Join them with red squares on the left edge. 4. Check that every white square shares a side with a red one. 5. Count the red squares.  
+  *Parent does:* 1. Draw a 9 by 9 grid and mark the heart square on the left edge. 2. Colour rows 2, 5 and 8 red. 3. Join them with red squares on the left edge. 4. Check that every white square shares a side with a red one. 5. Count the red squares.  
   *Parent says:* Each white square is a living cell. Each one must touch a blood tube along a side. Let's try stripes first, and count what the tubes cost us.  
   *Child mode:* Draw a 9 by 9 grid. Colour rows 2, 5 and 8 red. Join them at the left. Count the red squares.
   - Note: The stripes design uses 31 red squares and leaves 50 working cells. Check a few white squares together, to be sure of the side-touching rule.

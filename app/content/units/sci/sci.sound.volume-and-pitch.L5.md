@@ -259,8 +259,8 @@ Kathir looked at his violin. Then he looked at the bowl.
   - Note: If a player is unsure, ask what the action changes: the size of the vibration or the number of vibrations each second. A player may choose a card that does not help them, just to answer it.
 - **s3 (4 min)**  
   *Parent does:* 1. Play until one player has both coins on their target numbers. 2. Ask the question below. 3. If there is time, swap target cards and play again.  
-  *Parent says:* You reached your target. Which cards did you need most? Was there a card that could have moved both coins at once?  
-  *Child mode:* Play until someone reaches their target. Which cards did you need most?
+  *Parent says:* You reached your target. Which cards did you need most?  
+  *Child mode:* Play until someone has both coins on their target.
   - Ask: Did any card move both the volume and the pitch? (good: No. Each action changed only one.; Volume and pitch are changed by different things.)
   - Note: No card moves both dials. That is the point of the game: the things that set volume are different from the things that set pitch.
 ### g2 · Hertz Line: put eighteen sounds in order of frequency (20 min)
@@ -278,8 +278,8 @@ Kathir looked at his violin. Then he looked at the bowl.
   - Note: The numbers are rounded, and living voices vary a great deal. Cards with close numbers are hard to order. The cat's purr and the lowest sound a person hears are one such pair. Praise a good reason even when the place is wrong.
 - **s3 (4 min)**  
   *Parent does:* 1. When the game ends, look at the whole line. 2. Find the two cards that mark the range of human hearing. 3. Ask the question below.  
-  *Parent says:* Look at the finished line. Find 20 hertz and 20,000 hertz. Everything between them, a young person can hear. Which sounds lie outside?  
-  *Child mode:* Look at the whole line. Find 20 hertz and 20,000 hertz. Which sounds are outside them?
+  *Parent says:* Look at the finished line. Find 20 hertz and 20,000 hertz. Everything between them, a young person can hear.  
+  *Child mode:* Look at the whole line. Find 20 hertz and 20,000 hertz.
   - Ask: Which sounds on the cards are outside human hearing? (good: The elephant's rumble, which is below 20 hertz.; The highest sounds that dogs, cats, bats and dolphins hear, above 20,000 hertz.)
   - Note: Sounds below 20 hertz are called infrasound, and sounds above 20,000 hertz are called ultrasound. Other animals live with sounds that humans miss.
 
@@ -299,7 +299,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 - **s2 (4 min)**  
   *Parent does:* 1. Fill the bottle to the top. Pour it out equally into the four tumblers. Each tumbler now holds a quarter of the bottle. 2. Pour one tumbler back. The bottle is a quarter full. 3. Put the bottle in the bag and pluck the string once. 4. Ask for a guess and a reason, and write both down.  
   *Parent says:* This bottle is a quarter full. Later it will be half full, and then full. Will the note go up or down? Will the full bottle give four times the frequency? Why do you think so?  
-  *Child mode:* The bottle is a quarter full. Later it will be full. Will the note go up or down? By how much? Why?
+  *Child mode:* The bottle is a quarter full. Later it will be full. Will the note go up or down? By how much?
   - Ask: Why do you think so? (good: More water pulls the string tighter, so it should go up.; Four times the water should give four times the frequency.; A tight rubber band sounds higher than a loose one.)
   - Note: Do not correct the guess. Many children expect four times the water to give four times the frequency. The test will answer it.
 - **s3 (10 min)**  
@@ -321,7 +321,7 @@ Kathir looked at his violin. Then he looked at the bowl.
   - Note: A grown-up cuts the string. The second strand carries none of the pull. It only adds weight. Expect a clearly lower note. If the wound string buzzes, wind it more closely and press the tape down.
 - **s6 (6 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they thought would happen, what they measured, and why they think it happened. 3. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your table. Say what you thought would happen, what you measured, and why you think it happened. Which three changes made the note higher?  
+  *Parent says:* Look at your table. Say what you thought would happen, what you measured, and why you think it happened.  
   *Child mode:* Say what you thought would happen. Say what you measured. Say why you think it happened.
   - Ask: Which three changes made the string's note higher? (good: More water, which means more tension.; A shorter length between the pencils.; Taking away the second strand, so that the string is lighter.)
   - Ask: Did twice the water give twice the frequency? (good: No. It gave only about 1.4 times the frequency.; It took four times the water to double the frequency.)
@@ -336,12 +336,12 @@ Kathir looked at his violin. Then he looked at the bowl.
 - **s1 (4 min)**  
   *Parent does:* 1. Check that the bottle is half full and the pencils are 40 cm apart. 2. Lay the ruler flat on the table under the middle of the string, across it. The string should lie over the zero mark. 3. Put the phone 10 cm from the string and open the sound meter. 4. Ask for a guess and a reason, and write both down.  
   *Parent says:* You will pull the string aside by half a centimetre, then 1, then 2. Which will be loudest? Will the note change? Why do you think so?  
-  *Child mode:* You will pull the string a little, then more. Which pull is loudest? Will the note change? Why?
+  *Child mode:* You will pull the string a little, then more. Which pull is loudest? Will the note change?
   - Ask: Why do you think so? (good: A bigger pull gives the string more energy, so it will be louder.; A hard pluck sounds sharper, so the note might be higher.; The string is the same, so the note should be the same.)
   - Note: Do not correct the guess. Many children, and many adults, expect a harder pluck to give a higher note.
 - **s2 (7 min)**  
   *Parent does:* 1. Pull the middle of the string sideways to the half-centimetre mark and let go. 2. Read the highest number on the sound meter. Do this three times. 3. Do the same for 1 cm and for 2 cm. 4. Each time, count the seconds until you cannot hear the note.  
-  *Parent says:* Pull to the mark, let go, and watch the meter. Tell me the highest number it reaches. Look at the string too. How wide is the blur?  
+  *Parent says:* Pull to the mark, let go, and watch the meter. Tell me the highest number it reaches. Look at the string too. It looks like a blur. How wide is the blur?  
   *Child mode:* Pull the string to the mark. Let go. Read the highest number. Count how long you hear it.
   - Note: Keep the room quiet. The readings should rise by roughly 6 decibels each time the pull doubles. Phone microphones are rough, so look at the order and not at the exact numbers. Without an app, a listener one metre away gives each pluck a score of 1, 2 or 3.
 - **s3 (5 min)**  
@@ -354,7 +354,7 @@ Kathir looked at his violin. Then he looked at the bowl.
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they thought would happen, what they measured, and why they think it happened. 3. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your table. Say what you thought would happen, what you measured, and why you think it happened. What does a harder pluck change?  
   *Child mode:* Say what you thought would happen. Say what you measured. Say why you think it happened.
-  - Ask: As the sound faded, the blur got narrower. What happened to the note? (good: It stayed the same.; It got quieter, and it did not get lower.)
+  - Ask: As the sound faded, the string's wiggle got smaller. What happened to the note? (good: It stayed the same.; It got quieter, and it did not get lower.)
   - Note: Your finger does more work to pull the string further. So the string starts with more energy and a bigger amplitude. It pushes the air harder, and the sound is louder. The frequency does not change. The string makes wider trips in the same time, by moving faster. So volume comes from amplitude, and pitch comes from frequency. As the sound dies, the string loses amplitude and keeps its frequency.
   - Think: A singer holds one note and lets it fade away. What is her voice box changing, and what is it keeping the same?
 ### e3 · The Muffle Test: what makes a ringing phone quietest? (30 min)
@@ -371,7 +371,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 - **s2 (3 min)**  
   *Parent does:* 1. Show the covers: one towel, the same towel folded into four layers, and the steel dabba. 2. Say that the dabba will be tested closed, and then with its lid open by one finger-width. 3. Ask for an order, from loudest to quietest, and a reason. Write both down.  
   *Parent says:* Here are the covers. Put them in order, from the loudest reading to the quietest. Will any of them change the tune itself? Why do you think so?  
-  *Child mode:* Look at the covers. Which will be loudest? Which will be quietest? Will the tune change? Why?
+  *Child mode:* Look at the covers. Which will be loudest? Which will be quietest? Will the tune change?
   - Ask: Why do you think so? (good: More layers should soak up more sound.; Steel is hard, so sound might bounce around inside and come out.; The gap will let sound out.)
   - Note: Do not correct the guess. The order of the towel and the dabba is not obvious, and homes differ.
 - **s3 (8 min)**  
@@ -401,7 +401,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 
 ## Activities
 ### a1 · Four Hums: can you change loudness and pitch separately? (10 min)
-- **record:** Draw a square and divide it into four boxes: quiet and low, loud and low, quiet and high, loud and high. Write two sounds from your home in each box.
+- **record:** Fold a sheet of paper into four boxes: quiet and low, loud and low, quiet and high, loud and high. Write two sounds from your home in each box.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child rests one hand lightly on the front of their throat. 2. They hum a low note softly, then the same note strongly. 3. They hum a high note softly, then the same note strongly. A strong hum is enough. Nobody needs to shout.  
   *Parent says:* Hum a low note softly. Now the same note, stronger. Now a high note softly, and then stronger. What do you notice in your throat? What do you wonder?  
@@ -409,14 +409,14 @@ Kathir looked at his violin. Then he looked at the bowl.
   - Ask: What changed when the hum got stronger? What changed when it got higher? (good: The buzz under my hand got bigger when it was stronger.; Something in my throat tightened or moved up when it was higher.; I could change one without the other.)
   - Note: Do not explain yet. Write down what your child notices and wonders. Most children feel a bigger buzz for the strong hum and a tightening or a lift for the high hum.
 - **s2 (4 min)**  
-  *Parent does:* 1. Draw a square and divide it into four boxes. 2. Label them: quiet and low, loud and low, quiet and high, loud and high. 3. Together, think of eight sounds in your home and street. 4. Your child writes each one in a box.  
+  *Parent does:* 1. Fold a sheet of paper into four boxes. 2. Label them: quiet and low, loud and low, quiet and high, loud and high. 3. Together, think of eight sounds in your home and street. 4. Your child says which box each one goes in. Write each name there, or let your child write it.  
   *Parent says:* Here are four boxes. Where does the fridge's hum go? The doorbell? A crow? A spoon dropped on the floor? Find two sounds for every box.  
-  *Child mode:* Draw four boxes. Think of eight sounds at home. Write each one in the box where it fits.
+  *Child mode:* Think of eight sounds at home. Say which box each one fits in.
   - Note: There is no single right box for some sounds, and the talk matters more than the answer. A fridge is quiet and low. A mixie is loud. A sparrow is quiet and high. If a box stays empty, listen at the window for a minute.
 - **s3 (2 min)**  
   *Parent does:* 1. Ask the question below. 2. Take any answer, and write it down to look at again later.  
-  *Parent says:* You made a hum louder without making it higher. You made it higher without making it louder. So are loud and high the same thing? What might each one be?  
-  *Child mode:* You changed loud without changing high. Are loud and high the same thing? What do you think?
+  *Parent says:* You made a hum louder without making it higher. You made it higher without making it louder. What do you think about that?  
+  *Child mode:* Think about your four hums. You changed one thing at a time.
   - Ask: Are loud and high the same thing? (good: No. I can change one and keep the other.; Loud is how strong it is. High is something else, maybe how fast it shakes.)
   - Note: Any reasoned answer is good. The experiments that follow measure the two things separately.
 ### a2 · The Sound Grid: eight home sounds, two numbers (20 min)
@@ -434,22 +434,22 @@ Kathir looked at his violin. Then he looked at the bowl.
   - Note: Phone meters are rough, and two phones can differ by several decibels. The order of the sounds is what matters. Some sounds, such as a fan, have no clear pitch. Write 'low' if the sound is mostly a deep hum. Write 'high' if it is mostly a hiss or a ring. Without an app, score each sound from 1 for very quiet to 5 for very loud.
 - **s3 (5 min)**  
   *Parent does:* 1. Draw a grid. Write low, middle and high along the bottom. 2. Mark decibels up the side, from 20 to 100 in steps of 10. 3. Draw a red line across at 85. 4. Your child puts a dot and a name on the grid for each sound.  
-  *Parent says:* Each sound gets one dot. Its place along the bottom shows its pitch, and its height shows its volume. Is any dot above the red line?  
-  *Child mode:* Draw the grid. Put a dot for each sound. Pitch goes along, and decibels go up.
+  *Parent says:* Each sound gets one dot. Its place along the bottom shows its pitch, and its height shows its volume. The red line is 85 decibels, where long, loud sound can hurt ears. Is any dot above it?  
+  *Child mode:* Draw the grid, or use a sheet of squared paper. Put a dot for each sound. Pitch goes along, and decibels go up.
   - Note: Sounds above 85 decibels can harm hearing over hours. A mixie is near the line, and it runs for only a minute or two at a time.
 - **s4 (3 min)**  
   *Parent does:* 1. Look at the finished grid together. 2. Ask the questions below.  
-  *Parent says:* Look at your grid. Are the loud sounds all high? Are the quiet sounds all low? What does that tell you about volume and pitch?  
-  *Child mode:* Look at your dots. Are loud sounds always high? Are quiet sounds always low?
+  *Parent says:* Look at your grid. What does it tell you about volume and pitch?  
+  *Child mode:* Look at your dots. Where are the loud sounds? Where are the quiet ones?
   - Ask: Are the loud sounds all high-pitched? (good: No. The dots are spread over the whole grid.; A sound can be loud and low, or quiet and high.)
-  - Ask: Which sound was 10 decibels more than another? How much more energy does it carry? (good: Ten times as much.)
+  - Ask: One sound reads 10 decibels more than another. How much more energy does it carry? (good: Ten times as much.)
   - Note: The dots spread over the grid because volume and pitch are separate measures. Knowing one tells you nothing about the other.
 ### a3 · The Filling Bottle: hear an air column get shorter (15 min)
-- **record:** Draw the bottle three times: nearly empty, half full and nearly full. Shade the air column in each. Write its length in centimetres, and write 'lowest', 'middle' or 'highest' note beside it.
+- **record:** Make a table with three rows: nearly empty, half full and nearly full. In each row write the length of the air column in centimetres, and write 'lowest', 'middle' or 'highest' for the note. You can also take a photo of each bottle.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand the bottle in the sink or the bucket. 2. Pour water in from the jug in a thin, steady stream, until the bottle is full. 3. Your child listens with eyes open. 4. Empty the bottle.  
   *Parent says:* Listen to the sound the water makes inside the bottle while I pour. What do you notice? What do you wonder?  
-  *Child mode:* Listen while the water pours in. What happens to the sound? What do you wonder?
+  *Child mode:* Listen closely while the water pours in.
   - Ask: What happened to the sound as the bottle filled? (good: It got higher and higher.; It rose fastest near the end.)
   - Note: The sound rises in pitch as the bottle fills. Keep the stream thin and steady, and aim it at the middle, not down the side. Do not explain yet.
 - **s2 (5 min)**  
@@ -460,7 +460,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 - **s3 (6 min)**  
   *Parent does:* 1. Fill the bottle a quarter full. Measure the air column, from the water up to the mouth. 2. Do the same half full and three-quarters full. 3. Ask the question below before you explain. 4. Then read the note to your child.  
   *Parent says:* The water is not what sings. Something else in the bottle is getting shorter as the water rises. What is it? What does a shorter one do to the note?  
-  *Child mode:* Measure the air above the water three times. What gets shorter as the bottle fills? What happens to the note?
+  *Child mode:* Measure the air above the water at three levels.
   - Ask: What is getting shorter as the bottle fills? (good: The air above the water.; The air column.)
   - Note: The falling water sets the air column in the bottle vibrating. As the bottle fills, the air column gets shorter. A shorter air column vibrates faster, so the note rises. A bansuri works in the same way: opening a hole makes the air column shorter.
   - Think: A short bansuri and a long bansuri are played with every hole covered. Which gives the lower note?
@@ -476,7 +476,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 - **s2 (5 min)**  
   *Parent does:* 1. Hold the band at 22 cm. 2. A partner pinches the band firmly, exactly halfway along. 3. Your child plucks one half. 4. Let go of the pinch and pluck the whole band again.  
   *Parent says:* Now the stretch stays the same. My pinch makes the vibrating part half as long. Guess first. What will the note do?  
-  *Child mode:* Keep the band at 22 cm. A partner pinches the middle. Pluck one half. What happens to the note?
+  *Child mode:* Keep the band at 22 cm. A partner pinches the middle. Pluck one half.
   - Ask: What did the pinch do to the note? (good: It went up a lot.; Half the length gave a much higher note.)
   - Note: The pinch changes one thing only, the length. The note jumps up clearly. This is a fair test.
 - **s3 (5 min)**  
@@ -495,9 +495,9 @@ Kathir looked at his violin. Then he looked at the bowl.
   *Child mode:* Pick three instruments: one with strings, one you blow, one you strike. Find a picture or a video.
   - Note: A harmonium is a wind instrument, because air from its bellows makes its metal reeds vibrate. Search for a concert clip by the instrument's name. Watch it first yourself.
 - **s2 (9 min)**  
-  *Parent does:* 1. Your child looks at each instrument or watches it being played for two minutes. 2. For each one they answer three questions and fill in a row of the table. 3. Do not show the answer table yet.  
+  *Parent does:* 1. Your child looks at each instrument or watches it being played for two minutes. 2. For each one they answer three questions and fill in a row of their own table. 3. Do not show the answer table yet.  
   *Parent says:* Watch the player's hands. What is vibrating? What does the player do to get a higher note? What does the player do to get a louder note?  
-  *Child mode:* Watch the player's hands. What vibrates? How does the note go higher? How does it get louder?
+  *Child mode:* Watch the player's hands. Fill in one row of your table for each instrument.
   - Ask: What does the player do to get a higher note? (good: The player makes the string shorter with a finger.; The player opens a hole, so that the air column is shorter.; A drum's note is set before playing, by tightening the skin.)
   - Note: Use what the Water-Bottle String and the Filling Bottle showed. A shorter or tighter string is higher. A shorter air column is higher. A tighter skin is higher.
 - **s3 (4 min)**  
@@ -508,7 +508,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 - **s4 (3 min)**  
   *Parent does:* 1. Ask the question below. 2. Let your child test the answer by humming a slide from a low note to a high note.  
   *Parent says:* Some instruments can slide smoothly from one note to the next, and some cannot. Which of your three can slide? What lets them do it?  
-  *Child mode:* Which of your instruments can slide from one note to the next? Why can they?
+  *Child mode:* Hum a slide from a low note to a high note. Can any of your instruments do that?
   - Ask: Which instruments can slide between notes, and why? (good: A veena or a violin can, because a finger can stop the string anywhere.; A harmonium cannot, because each reed has one pitch.; A voice can, because the vocal folds can tighten smoothly.)
   - Note: Sliding needs a pitch control that changes smoothly: the length or the tension of a string, or the tightness of the vocal folds. A bansuri player slides by uncovering a hole a little at a time.
 
@@ -543,24 +543,24 @@ Kathir looked at his violin. Then he looked at the bowl.
 ## Challenges
 ### c1 · One String, Five Notes: an instrument heard across the room (30 min)
 - **problem:** Build an instrument with one string that can play five different notes, going up in order. A listener four big steps away must be able to hear each note clearly. You have 30 minutes and things from around your home.
-- **your turn:** Now design your own instrument. Draw it first and mark how you will get five notes. Build it and test it with a listener four big steps away. Write which idea changed the pitch, which idea changed the volume, and what you would change next time.
+- **your turn:** Now design your own instrument. Draw it first, or tell your grown-up your plan, and say how you will get five notes. Build it and test it with a listener four big steps away. Write which idea changed the pitch, which idea changed the volume, and what you would change next time.
 - **constraints:** Only one string, or one rubber band, may vibrate.; The five notes must go up in order. You must be able to play them again in the same order.; No phone, speaker or amplifier may be used to make it louder.; A listener four big steps away must hear every note.
 - **general:** Stretch the string over a hollow box, with a pencil under each end as a bridge. The box is the soundboard.; Mark five places along the string. Press the string down at each mark, or slide a pencil to it, to make the vibrating part shorter.; Tie one end of the string to a pencil. Turn the pencil like a peg to tighten the string for each note.
 - **creative:** Turn a plastic bucket upside down. Thread the string through a small hole in its base and knot it inside. Tie the other end to the top of a stick that stands on the bucket. Lean the stick back to tighten the string.; Slide a steel tumbler along the string as you pluck. A chitravina player slides a smooth block along the strings in this way.; Thread the string through the bottom of a paper cup, so that the cup pushes the air.
 - **s1 (6 min)**  
   *Parent does:* 1. Read the problem and the four rules aloud. 2. Your child plucks the bare string, held tight between two hands by a helper. 3. The listener stands four big steps away and says whether they can hear it. 4. Ask the questions below.  
-  *Parent says:* Here is the problem. One string, five notes, heard from four steps away. A bare string is very quiet. Why? And what could change its note?  
-  *Child mode:* Read the problem. Pluck the bare string. Can the listener hear it? What must you change?
+  *Parent says:* Here is the problem. One string, five notes, heard from four steps away. A bare string is very quiet. Why?  
+  *Child mode:* Read the problem. Pluck the bare string. Can the listener hear it?
   - Ask: What will you change to get five different notes? (good: The length of the string.; How tight the string is.)
   - Ask: What will you change to make it louder? (good: Put it on a hollow box.; Pluck it harder.)
   - Note: A thin string pushes very little air, so it is quiet without a soundboard. Pitch and volume need two separate fixes.
 - **s2 (16 min) · grown-up needed**  
-  *Parent does:* 1. Read the usual ideas together: a box, marks along the string, and a pencil as a peg. 2. Your child chooses, draws a plan and builds it. 3. They test the five notes with the listener. 4. They change one thing at a time and test again.  
+  *Parent does:* 1. Read the usual ideas together: a box, marks along the string, and a pencil as a peg. 2. Your child chooses and builds it. A quick plan on paper helps, or they can tell you the plan. 3. They test the five notes with the listener. 4. They change one thing at a time and test again.  
   *Parent says:* Which idea will you use for the notes, and which for the loudness? Why do you think it will work? Change one thing at a time, so you know what helped.  
   *Child mode:* Pick an idea for the notes. Pick an idea for the loudness. Build it. Test it. Change one thing.
   - Note: A grown-up makes any hole in a box or a bucket. If the notes are too close together to tell apart, make the steps in length bigger.
 - **s3 (8 min)**  
-  *Parent does:* 1. Read the creative ideas together. 2. Your child tries one, or adds it to their instrument. 3. They play the five notes for the listener, up and then down. 4. They write what changed the pitch and what changed the volume.  
+  *Parent does:* 1. Read the creative ideas together. 2. Your child tries one, or adds it to their instrument. 3. They play the five notes for the listener, up and then down. 4. They say, or write, what changed the pitch and what changed the volume.  
   *Parent says:* Here are three unusual ideas. Which one would you like to try? When you have finished, play me your five notes, up and then down.  
   *Child mode:* Read the unusual ideas. Try one. Play your five notes up and down. Write what you changed.
   - Ask: In your instrument, what sets the pitch, and what sets the volume? (good: The length or the tension of the string sets the pitch.; The box or the bucket, and how hard I pluck, set the volume.)

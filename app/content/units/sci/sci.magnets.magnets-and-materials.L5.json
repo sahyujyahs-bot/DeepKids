@@ -602,20 +602,20 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the 20 cards. 2. Each player writes YES and NO on two slips of paper. 3. Count 10 beans for each player and 40 for the bank. 4. Shuffle the cards and pile them recipe side up.",
+     "do": "1. Cut out the 20 cards. 2. Each player writes YES on one slip of paper and NO on another. 3. Count 10 beans for each player and 40 for the bank. 4. Shuffle the cards and pile them recipe side up.",
      "say": "Each card is the recipe of an alloy. We bet on whether a magnet attracts it. Some recipes will trick us.",
-     "kid": "Cut out the cards. Make a YES mat and a NO mat. Take 10 beans. Shuffle the cards.",
+     "kid": "Cut out the cards. Write YES and NO on two slips. Take 10 beans. Shuffle the cards.",
      "context": "This is the first step of Alloy Bets. Here you set up the cards, the mats and the beans."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Read the top card aloud. 2. Each player bets 1 or 2 beans, hidden by a hand. 3. Turn the card and read the reason. 4. Pay the bets from the bank.",
+     "do": "1. Read the top card aloud. 2. Each player bets 1 or 2 beans, hidden by a hand. 3. Turn the card and read the reason. 4. Pay the bets: a right bet wins the same number of beans from the bank, and a wrong bet pays them to the bank.",
      "say": "Bet 2 beans when you feel sure, and 1 when you are guessing. Listen to the reason on the back each time.",
      "kid": "Read the card. Bet 1 or 2 beans on YES or NO. Turn the card. Read the reason.",
      "ask": [
       {
-       "q": "Nichrome is mostly nickel, and nickel is magnetic. Why did betting YES lose?",
+       "q": "Nichrome is mostly nickel, and nickel is magnetic. But a magnet does not attract nichrome. Why?",
        "good": [
         "The chromium stops the nickel atoms lining up.",
         "You cannot tell from the list of metals."
@@ -711,7 +711,7 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Take turns. 2. Each player takes a target card and dips. 3. Count the catch aloud. 4. Dip again, shake once, or stop.",
+     "do": "1. Take turns. 2. Each player takes a target card and dips. 3. Count the catch aloud. 4. Dip again, shake once, or stop. 5. A player keeps the card only if the catch adds up exactly to it.",
      "say": "Count your catch aloud. You have 5 rupees and need 7. Will you dip again or shake some off?",
      "kid": "Take a card. Dip the magnet. Add up your coins. Dip again or stop.",
      "ask": [
@@ -753,7 +753,7 @@
    "title": "The Coin Year Test: which coins does a magnet attract?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you test every coin in the house with a magnet. You write down each coin's value, colour and year. Then you find out which of the three tells you whether a magnet attracts the coin.",
+   "context": "In this experiment you test every coin in the house with a magnet. You write down each coin's value, colour and year. Then you find out which of the three, if any, tells you whether a magnet attracts a coin, before you even test it.",
    "question": "Which coins does a magnet attract? Does the value, the colour or the year of a coin tell you the answer before you test it?",
    "predict": "Guess first. Which will tell you whether a magnet attracts a coin: its value, its colour, its year, or none of them? Write your guess and your reason.",
    "fair_test": "Change only the coin. Use the same magnet and the same face of the magnet every time. Lay each coin flat on the table. Lower the magnet until it touches the coin, then lift it 5 centimetres. Write 'yes' only if the coin comes up with the magnet. Test every coin, even when you feel sure of the answer.",
@@ -835,7 +835,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Collect coins from purses, a piggy bank and drawers. 2. Sort them into rows by value. 3. Draw the table with four columns. 4. Write the value, the year and the colour of each coin.",
+     "do": "1. Collect coins from purses, a piggy bank and drawers. 2. Sort them into rows by value. 3. Draw a table with four columns: value, year, colour and magnet (yes or no). 4. Write the value, the year and the colour of each coin.",
      "say": "Let's find every coin in the house. Each coin has a year near its edge. Write the value, the year and the colour.",
      "kid": "Collect all the coins. Sort them by value. Write each coin's value, year and colour.",
      "parent": "The year is small. Use a magnifying glass, or take a phone photo and zoom in. For colour, write 'silver', 'golden' or 'both'. Ask an older relative or a neighbour for old coins, if you can.",
@@ -863,7 +863,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Lay the first coin flat on the table. 2. Lower the magnet until it touches the coin. 3. Lift the magnet 5 centimetres. 4. Write 'yes' or 'no'. 5. Do the same for every coin.",
-     "say": "Use the same face of the magnet each time. Lift it as high as this mark on the ruler. Write the answer at once.",
+     "say": "Use the same face of the magnet each time. Lift it about as high as three fingers side by side. Write the answer at once.",
      "kid": "Lay a coin flat. Touch it with the magnet. Lift the magnet 5 cm. Write yes or no.",
      "parent": "If the magnet is weak, a coin may lift and then drop. Count a lift of 5 centimetres as yes. On a ten-rupee coin, also touch the edge of the magnet to the ring and to the centre.",
      "context": "This step of the Coin Year Test is the test itself. Here you try the magnet on every coin."
@@ -1033,7 +1033,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Collect 12 metal things from the list. 2. Lay them in a row. 3. Draw the table with five columns. 4. Write the name of each thing.",
+     "do": "1. Collect 12 metal things from the list. 2. Lay them in a row. 3. Draw a table with five columns: name, silver-coloured, shiny, called steel, and magnet. 4. Write the name of each thing.",
      "say": "We need 12 things made of metal. Let's choose some that look alike and some that look very different.",
      "kid": "Collect 12 metal things. Lay them in a row. Draw the table. Write each name.",
      "parent": "Be sure to include a one-rupee coin and a steel plate. They matter in the last step. Any 12 metal things will do for the rest.",
@@ -1079,7 +1079,7 @@
      "id": "s5",
      "mins": 7,
      "do": "1. Take the rule 'silver-coloured things are magnetic'. 2. Count the things that fit it. 3. Count the things that break it, both ways. 4. Do the same for the other two rules.",
-     "say": "A thing breaks the rule if it is silver-coloured and not attracted. It also breaks the rule if it is attracted and not silver-coloured.",
+     "say": "A thing breaks a rule when its clue and the magnet disagree. For the silver rule, that is a silver thing the magnet leaves. Or it is a thing that is not silver that the magnet holds.",
      "kid": "Take one rule. Count the things that fit it. Count the things that break it. Do all three rules.",
      "ask": [
       {
@@ -1097,7 +1097,7 @@
      "id": "s6",
      "mins": 6,
      "do": "1. Put the one-rupee coin beside the steel plate. 2. Ask what is the same about them, and what the magnet found. 3. Ask for the three sentences. 4. Only then read 'Why a magnet attracts coin steel and not kitchen steel' together.",
-     "say": "Look at the one-rupee coin and the steel plate. Both are silver-coloured, both are shiny, and both are called steel. Both are mostly iron. Say what you thought would happen, what you saw, and why it happened.",
+     "say": "Look at the one-rupee coin and the steel plate. Both are silver-coloured, shiny and called steel. Say what you thought would happen, what you saw, and why it happened.",
      "kid": "Put the coin beside the plate. What is the same? What did the magnet find? Say why you think so.",
      "ask": [
       {
@@ -1294,7 +1294,7 @@
    "title": "Four Coins and a Magnet",
    "mins": 12,
    "days": 1,
-   "context": "This is a short activity to start the unit. You guess which of four Indian coins a magnet will lift, and then test them.",
+   "context": "This is a short activity to start the unit. You guess which of four Indian coins a magnet will lift, and then test them. You will find out whether coins that look alike answer a magnet alike.",
    "materials": [
     {
      "item": "a one-rupee, a two-rupee, a golden five-rupee and a ten-rupee coin",
@@ -1310,7 +1310,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the four coins in a row. Write 'lifted' or 'not lifted' under each one, and your guess beside it.",
+   "record": "Make a list of the four coins. Next to each, write 'lifted' or 'not lifted', and your guess. Or lay the coins in two heaps, lifted and not lifted, and take a photo.",
    "setup": [
     {
      "art": "Four Indian coins in a row on a table: a one-rupee, a two-rupee, a golden five-rupee and a ten-rupee coin, with a pencil guess written under each.",
@@ -1354,7 +1354,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Compare the results with the guesses. 2. Ask the question below. 3. Say that the next activities find out what is different about the coins.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. All four coins are metal. What is different?",
+     "say": "Say what you thought would happen, what you saw, and why it happened.",
      "kid": "What did you think would happen? What did you see? Why do you think so?",
      "ask": [
       {
@@ -1405,7 +1405,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the T test. Mark which bar was the magnet, and write why the bar's end held on to the other bar's middle.",
+   "record": "Write which bar was the magnet, and why that bar's end held on to the other bar's middle. Take a photo of the T test, or draw it.",
    "setup": [
     {
      "art": "Two steel nails lying side by side on a table, not touching, with a small gap between them.",
@@ -1489,7 +1489,7 @@
    "title": "Same Coins, Two Patterns",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you use coins as atoms. You lay the same coins in two patterns and count the neighbours. Then you try a rule that works in one pattern and fails in the other.",
+   "context": "In this activity you use coins as atoms. Atoms are the tiny pieces that all metal is made of. You lay the same coins in two patterns and count the neighbours, to find out why the same pieces can act differently when they are packed differently. Then you try a rule that works in one pattern and fails in the other.",
    "materials": [
     {
      "item": "20 coins of the same size, such as one-rupee coins",
@@ -1508,7 +1508,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw both patterns. Write how many neighbours the middle coin touched in each, and how many coins fitted inside the square.",
+   "record": "Take a photo of both patterns, or draw them. Write how many neighbours the middle coin touched in each, and how many coins fitted inside the square.",
    "setup": [
     {
      "art": "Sixteen coins laid in four neat rows and four columns, like squares on graph paper, with one middle coin touching four others.",
@@ -1603,7 +1603,7 @@
    "context": "In this activity a grown-up hides five things in balls of foil. You use a magnet to guess what is inside each ball. You find out what a yes and a no from a magnet can and cannot tell you.",
    "materials": [
     {
-     "item": "aluminium foil, 6 sheets each about 30 centimetres square",
+     "item": "aluminium foil, 8 sheets each about 30 centimetres square",
      "qty": 6
     },
     {
@@ -1635,8 +1635,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Out of your child's sight, wrap the coin, the pin and the pebble each in one sheet of foil. 2. Wrap the golden five-rupee coin in one sheet. 3. Wrap the second one-rupee coin in four sheets, packed tight. 4. Number the five balls.",
-     "say": "I have hidden five things, each wrapped in foil. Ball 1 holds a one-rupee coin and ball 2 holds a golden five-rupee coin. Ball 3 holds a pin and ball 4 holds a pebble. Ball 5 holds a one-rupee coin under many layers of foil. Which balls will the magnet say yes to?",
+     "do": "1. Out of your child's sight, wrap a one-rupee coin, the pin and the pebble each in one sheet of foil. 2. Wrap the golden five-rupee coin in one sheet. 3. Wrap the second one-rupee coin in four sheets, crumpled into a fat ball with the coin in the middle. 4. Number the five balls.",
+     "say": "I have hidden five things in foil balls: two one-rupee coins, a golden five-rupee coin, a steel pin and a pebble. I will not say which is which. Which balls will the magnet say yes to?",
      "kid": "Five things are hidden in foil. Which will stick to the magnet? Guess.",
      "adult": true,
      "parent": "You need two one-rupee coins. One goes in ball 1, wrapped in a single sheet of foil. The other goes in ball 5, wrapped in four sheets, until the ball is about as big as a walnut. Keep a note of what is in each ball.",
@@ -1776,7 +1776,7 @@
      "mins": 5,
      "do": "1. Line up the table. 2. Find the vessels where stamp and magnet agree. 3. Find the ones where they seem to disagree. 4. Ask the question below.",
      "say": "Say what you thought would happen, what you saw, and why it happened. Where do the stamp and the magnet disagree?",
-     "kid": "Where do the stamp and the magnet disagree? Say why you think so.",
+     "kid": "Line up your table. Which vessels agree, and which seem to disagree?",
      "ask": [
       {
        "q": "A vessel is stamped 304 but a magnet clings strongly to it. What could that mean?",
@@ -1808,7 +1808,7 @@
    "title": "The Coin Sorter: build a machine that sorts by metal",
    "days": 3,
    "mins": 60,
-   "context": "In this three-day project you build a coin sorter from a shoe box, like the machine in the story The Coin That Went the Wrong Way. You test how well it sorts, and write down every mistake.",
+   "context": "In this three-day project you build a coin sorter from a shoe box, like the machine in the story The Coin That Went the Wrong Way. You test how well it sorts, and write down every mistake. You will find out how well a magnet alone can sort coins.",
    "materials": [
     {
      "item": "a shoe box with a lid",
@@ -1854,7 +1854,7 @@
      "what": "Fix the biggest problem, run the coins again, and work out the percentage sorted correctly."
     }
    ],
-   "record": "Draw your machine. Write the run results in a table: the coins run, the coins sorted correctly and the mistakes. Write the percentage correct for each run, and what you changed.",
+   "record": "Draw your machine, or take a photo of it. Write the run results in a table: the coins run, the coins sorted correctly and the mistakes. Write the percentage correct for each run, and what you changed.",
    "setup": [
     {
      "art": "A shoe box lying on its side with a cardboard slope taped inside, a round magnet taped under the slope halfway down, and two cups at the bottom.",
@@ -1962,7 +1962,7 @@
     "Weigh: balance each disc against a pile of five other coins on a ruler seesaw, and compare.",
     "Add a ramp so that a disc must roll through a narrow gate on its edge."
    ],
-   "your_turn": "Now invent your own second test. Test it with 10 real coins and the washer. Draw it, and write how many mistakes it made.",
+   "your_turn": "Now invent your own second test. Test it with 10 real coins and the washer. Draw it or take a photo of it, and write how many mistakes it made.",
    "setup": [
     {
      "art": "A cardboard slot with a ruler beside it and a one-rupee coin passing through it while a larger washer is stopped at the slot.",
@@ -1998,7 +1998,7 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Your child chooses one second test. 2. A grown-up helps cut the slot or build the gate. 3. Fit it to the Coin Sorter.",
-     "say": "Choose one second test. Tell me exactly how wide the slot is, and where it goes.",
+     "say": "Choose one second test, for example a slot only a coin can pass through. Tell me how wide it will be and where it goes.",
      "kid": "Choose one second test. Build it onto the sorter.",
      "adult": true,
      "context": "In this step of Beat the Cheat a grown-up helps you build the second test."

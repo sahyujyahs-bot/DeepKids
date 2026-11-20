@@ -310,7 +310,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
   *Child mode:* Shuffle the cards. Read the clue sheet. Say each group's clue in your own words.
   - Note: If you have no printer, write the 30 names on slips of paper and keep this list of answers beside you. Dry beans can choke a child under five, so keep them out of reach of very young children.
 - **s2 (6 min)**  
-  *Parent does:* Play the first ten cards. Each player says the group and one body clue, then turns the card over and takes beans. Read the back aloud whenever the group was wrong.  
+  *Parent does:* Play the first ten cards. Each player says the group and one body clue. Then they turn the card over and take 1 bean for the right group and 1 for a right clue. A trap card pays double. Read the back aloud whenever the group was wrong.  
   *Parent says:* Read the card. Which group, and what is your clue? Now turn it over and see.  
   *Child mode:* Read the top card. Say the group and a clue. Turn it over and take your beans.
   - Ask: What do you look for first when you decide on a group? (good: Whether the body is hard or soft.; Whether it has legs with joints.; Whether it has five parts or tube feet.)
@@ -337,12 +337,12 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 - **results table:** Round | Way 1: every move ordered (seconds) | Number of orders in Way 1 | Way 2: hand alone (seconds) | Way 3: aim only (seconds)
 - **s1 (4 min)**  
   *Parent does:* Read the question aloud and explain the three ways. Ask your child which way will be quickest and which slowest, and why. Write the guesses above the table. Do not say whether you agree.  
-  *Parent says:* One of us will be the hand, with eyes shut. The other will be the boss, who can see. We will try three ways. Which will find the coin soonest? Which will be slowest? Why?  
+  *Parent says:* One of us will be the hand, with eyes shut. The other will be the boss, who can see. We will try three ways. In Way 1, the boss orders every move. In Way 2, the boss says nothing. In Way 3, the boss says where to aim, once. Which will find the coin soonest? Which will be slowest? Why?  
   *Child mode:* Which way will find the coin soonest? Which will be slowest? Say why.
   - Ask: What can the boss do that the hand cannot? What can the hand do that the boss cannot? (good: The boss can see where the coin is.; The hand can feel the coin and the chana.; The boss does not know when the fingers touch something.)
   - Note: Any guess with a reason is a good start. Many children are sure that the boss who can see will be quickest.
 - **s2 (4 min)**  
-  *Parent does:* Draw the results table. Spread the chana on the plate. Agree on the eight orders the boss may use in Way 1: left, right, forward, back, down, pinch, lift and stop. Practise them once with eyes open.  
+  *Parent does:* Make the results table on paper. Spread the chana on the plate. Agree on the eight orders the boss may use in Way 1: left, right, forward, back, down, pinch, lift and stop. Practise them once with eyes open.  
   *Parent says:* In Way 1, I may say only these words: left, right, forward, back, down, pinch, lift, stop. You do exactly what I say, and nothing else.  
   *Child mode:* Learn the eight orders: left, right, forward, back, down, pinch, lift, stop.
   - Note: Your child is the hand for all nine tries. The honest rule for Way 1 matters most. The hand must wait for an order even when the fingers can feel the coin. Explain that this is what we are testing.
@@ -394,7 +394,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
   *Child mode:* Pour the soup through the strainer. What stayed behind? Write it down.
   - Note: The tea leaves stay in the strainer. The water stays yellow and cloudy, because the turmeric grains and the milk are much smaller than the holes.
 - **s4 (7 min)**  
-  *Parent does:* Stretch one layer of cloth over the third tumbler and pour the soup through slowly. Look at the cloth and the water, and fill in the row. Rinse nothing. Fold a clean part of the cloth into four layers, pour through into the fourth tumbler, and fill in the last row.  
+  *Parent does:* Stretch one layer of cloth over the third tumbler and pour the soup through slowly. Look at the cloth and the water, and fill in the row. Do not rinse the cloth. Fold a clean part of the cloth into four layers, pour through into the fourth tumbler, and fill in the last row.  
   *Parent says:* Now one layer of cloth. Pour slowly and watch the cloth. Now four layers. Is this slower? What is on the cloth?  
   *Child mode:* Pour through one layer of cloth. Then through four layers. Watch the cloth each time.
   - Note: The cloth catches a yellow patch of turmeric, and four layers catch more. The water that passes is paler but still cloudy and a little yellow. The cloudiness is the milk, which gets through every time. If your cloth is very thin, fold it once for the 'one layer' pour.
@@ -444,18 +444,18 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 - **s1 (3 min)**  
   *Parent does:* Write these names on fifteen slips: bath sponge, jellyfish, coral, sea anemone, garden snail, mussel, squid, octopus, ant, prawn, spider, crab, starfish, sea urchin, sea cucumber. Ask your child to sort them into groups in any way they like, and to say the rule.  
   *Parent says:* None of these fifteen animals has a backbone. Sort them into groups in any way that makes sense to you. Then tell me your rule.  
-  *Child mode:* Sort the fifteen animals into groups, your own way. Then say your rule.
+  *Child mode:* Sort the fifteen animals into groups, your own way.
   - Ask: What rule did you use? (good: Where they live.; Whether they have legs.; Hard ones and soft ones.; Any clear rule is a good answer.)
   - Note: There is no wrong sort here. Children often sort by home, such as sea and land, or by legs. Note the rule, because you will compare it with the scientists' rule.
 - **s2 (6 min)**  
-  *Parent does:* Read the five clues one at a time. After each clue, your child pulls out the animals that fit. Clue 1: a body full of pores, with no mouth. Clue 2: a soft body with one opening and stinging tentacles. Clue 3: a soft body with a mantle, and usually a foot and a shell. Clue 4: a hard outer skeleton and jointed legs. Clue 5: five matching parts and tube feet.  
+  *Parent does:* Read the five clues one at a time. After each clue, your child pulls out the animals that fit. Clue 1: a body full of pores, with no mouth. Clue 2: a soft body with one opening and stinging tentacles. Clue 3: a soft body with a mantle (a flap of skin that wraps the body), and usually a foot and a shell. Clue 4: a hard outer skeleton and jointed legs. Clue 5: five matching parts and tube feet.  
   *Parent says:* Now sort them by how the body is built. Listen to each clue and pull out the animals that fit.  
   *Child mode:* Listen to each body clue. Pull out the animals that fit that clue.
   - Note: The answers are: sponges, 1 (bath sponge). Cnidarians, 3 (jellyfish, coral, sea anemone). Molluscs, 4 (garden snail, mussel, squid, octopus). Arthropods, 4 (ant, prawn, spider, crab). Echinoderms, 3 (starfish, sea urchin, sea cucumber). If your child does not know an animal, look at a picture together before deciding.
 - **s3 (3 min)**  
   *Parent does:* Look at the five groups together. Ask what your child notices and what they wonder. Point to the octopus beside the garden snail and ask what the two could share.  
   *Parent says:* What do you notice about who ended up together? What do you wonder? The octopus is with the snail. What could those two share?  
-  *Child mode:* What do you notice? What do you wonder? What could an octopus and a snail share?
+  *Child mode:* Look at the five groups. What could an octopus and a snail share?
   - Ask: What do you notice, and what do you wonder? (good: The octopus and the snail are in one group.; The ant and the crab are together though one lives on land.; Why is a sea cucumber with a starfish?; Which group has the most animals in the world?)
   - Note: Do not explain yet. The explanations and the Boss or Hand test come next. Keep the question about the octopus and the snail open.
   - Think: An octopus is in the snail's group. A snail has a tiny brain. So how did the octopus come to be so clever?
@@ -463,7 +463,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 - **safety:** Dry beans can choke a child under five, so keep them out of reach of very young children.
 - **record:** Keep the two drawings. On each, write how many beans went in the head and how many went elsewhere.
 - **s1 (3 min)**  
-  *Parent does:* Your child draws a large octopus with eight arms and counts out 50 beans. Say that the beans stand for all her nerve cells, about 500 million. Ask where they think most of the beans should go, and why.  
+  *Parent does:* Your child draws a large octopus with eight arms. Or they make one from a bowl and eight paper strips. Then they count out 50 beans. Say that the beans stand for all her nerve cells, about 500 million. Ask where they think most of the beans should go, and why.  
   *Parent says:* These 50 beans are all the nerve cells of one octopus. Each bean stands for 10 million. Where do you think most of them are? Why?  
   *Child mode:* The 50 beans are an octopus's nerve cells. Where do you think most belong? Say why.
   - Note: Most children put nearly all the beans in the head, because that is where our own are.
@@ -474,9 +474,9 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
   - Note: The real share is a rough figure, about two thirds. Of the beans in the head, most stand for the two large parts behind the eyes that deal with seeing.
   - Check: Each arm has 4 beans, and there are 8 arms. How many of the 50 beans are in the arms? → **32**
 - **s3 (3 min)**  
-  *Parent does:* Your child draws a person on the second sheet. Say that a human has about 86 billion nerve cells, and almost all are in the brain. They move the 50 beans to show that. Compare the two drawings.  
+  *Parent does:* Your child draws a simple person on the second sheet. A circle for the head and a line for the body is enough. Say that a human has about 86 billion nerve cells, and almost all are in the brain. They move the 50 beans to show that. Compare the two drawings.  
   *Parent says:* A human has far more nerve cells, and almost all are in the brain. Show that with the same 50 beans. How are the two pictures different?  
-  *Child mode:* Now draw a person. Put almost all the beans in the head. How do the pictures differ?
+  *Child mode:* Now make a person: a circle for the head and a line for the body. Put almost all the beans in the head. How do the pictures differ?
   - Ask: What might an animal gain by keeping most nerve cells in the arms? (good: The arm can act fast without waiting for the brain.; The brain has fewer orders to give.; Each arm can do its own job.)
   - Note: For a true scale, a human would need 8,600 beans for every 50 of the octopus. The point here is where the cells are, not how many.
   - Think: If you had to draw where 'you' are in your body, where would you draw it? Where would an octopus draw it?
@@ -494,14 +494,14 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
   - Note: By guessing alone, a person gets about 3 right out of 6. A score of 2, 3 or 4 means the finger could not tell. Use each tumbler three times so the test is even.
 - **s3 (3 min)**  
   *Parent does:* Now your child dips a finger and touches it to the tongue, twice, and says which is which. Compare the two scores. Ask what the finger could tell and what it could not.  
-  *Parent says:* Now touch your wet finger to your tongue. Which one is this? What could your finger tell you, and what did it miss?  
-  *Child mode:* Touch the wet finger to your tongue. Which is which? What did your finger miss?
+  *Parent says:* Now touch your wet finger to your tongue. Which one is this?  
+  *Child mode:* Touch the wet finger to your tongue. Which is which?
   - Ask: What did your fingertip know about the water, and what did it not know? (good: It knew the water was wet and cool.; It did not know what was dissolved in it.; The tongue knew at once.)
   - Note: After your child answers, explain. Your fingertip has cells that sense touch, pressure and warmth, but none that sense sugar or salt. Your tongue has both kinds. In 2020, Lena van Giesen's team found both kinds in the skin of an octopus's suckers. So an arm in a dark crack can sense that it has touched a crab.
   - Think: If your fingers could taste, what would you know about a mango before you ever lifted it to your mouth?
 ### a4 · The Inside-Out Thread: a model of a stinging cell (10 min)
 - **safety:** A burst or loose balloon can choke a young child. A grown-up fits the balloon, and children under eight do not put balloons in their mouths.
-- **record:** Draw the model before and after the squeeze. Label the capsule, the thread and what set it off.
+- **record:** Draw the model before and after the squeeze, or take two photos. Name the capsule, the thread and what set it off.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Stretch the mouth of the balloon over the mouth of the bottle. Push the rest of the balloon down inside the bottle with a finger. Ask your child what will happen when the bottle is squeezed hard, and why.  
   *Parent says:* The balloon is tucked inside. What will happen when you squeeze the bottle hard and fast? Why?  
@@ -532,7 +532,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 - **s3 (3 min)**  
   *Parent does:* Compare the two rounds. Ask how each of you knew what the other was doing in the silent round. Then explain how a starfish's tube feet work together.  
   *Parent says:* In the silent round, how did you know which way I was going? What carried the message between us?  
-  *Child mode:* With no words, how did you know where I was going? What carried the message?
+  *Child mode:* With no words, how did you know where I was going?
   - Ask: What carried the message between you when nobody spoke? (good: The plate. I felt it tilt and pull.; I watched the lemon.; I felt which way you were moving.)
   - Note: After your child answers, explain. The plate carried the message. Each of you felt its pull and tilt and adjusted. A starfish's tube feet are all joined to one body. When some feet pull the body one way, the others feel that pull and step the same way. A ring of nerves and a nerve in each arm help to settle which arm leads. Scientists are still working out how much is done by the nerves and how much by the pull of the body.
   - Think: Where else do many workers move together with nobody giving orders?
@@ -543,9 +543,9 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 - **record:** On each page write the group, the body clue, what you found, where, and whether it was alive, a trace such as a shell, or a picture. On the last page write the count for each group and one sentence on what it shows.
 - **schedule:** day 1: Head five pages with the five groups and their body clues. Hunt at home for arthropods. (12 min); day 2: Hunt for molluscs: a snail after rain, or shells in the house, in a board game or at a fish stall. (12 min); day 3: Find pictures of a sponge, a cnidarian and an echinoderm in a book or with a grown-up online. Draw one of each. (10 min); day 4: Count what you found alive, as a trace and only as a picture. Write what the count shows. (11 min)
 - **s1 (12 min)**  
-  *Parent does:* Your child heads five pages with the five groups and writes each body clue. Then they hunt at home for arthropods, such as ants, a mosquito, a house spider or a cockroach. They draw one and count the legs.  
-  *Parent says:* Make a page for each group. Today we hunt for arthropods at home. Find one, look closely, count the legs and draw.  
-  *Child mode:* Make five pages. Find an arthropod at home. Count the legs and draw.
+  *Parent does:* Your child heads five pages with the five groups and writes each body clue. Then they hunt at home for arthropods, such as ants, a mosquito, a house spider or a cockroach. They count the legs, and may draw it too.  
+  *Parent says:* Make a page for each group. Today we hunt for arthropods at home. Find one, look closely, count the legs.  
+  *Child mode:* Make five pages. Find an arthropod at home. Count the legs.
   - Note: Arthropods are nearly always there: ants on a sill, a spider in a corner, a mosquito at dusk. Dry prawns or a crab from the market count as traces.
 - **s2 (12 min)**  
   *Parent does:* On day 2, hunt for molluscs. Look for a snail or a slug on a wall after rain. Look for shells in the house, such as cowries in a board game or a conch on a shelf. If your family buys from a fish stall, look for mussels, clams or squid.  
@@ -554,15 +554,15 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
   - Note: A shell is a trace, not a living animal, so mark it as a trace. Cowrie shells are used in games such as chowka bara and pallanguzhi.
   - Wait: Do this on the next day
 - **s3 (10 min)**  
-  *Parent does:* On day 3, look for a sponge, a cnidarian and an echinoderm. In most homes these will be pictures in a book or online. Your child draws one of each and writes the body clue they can see in the picture.  
-  *Parent says:* Today we look for the three groups who live almost only in the sea. Find a picture of each. Draw one, and mark the body clue.  
-  *Child mode:* Find a picture of a sponge, a coral or jellyfish, and a starfish. Draw each one.
+  *Parent does:* On day 3, look for a sponge, a cnidarian (such as a jellyfish or coral) and an echinoderm (such as a starfish). In most homes these will be pictures in a book or online. Your child names one of each and writes the body clue they can see in the picture. They may draw it too.  
+  *Parent says:* Today we look for the three groups who live almost only in the sea. Find a picture of each. Pick one, and point to the body clue.  
+  *Child mode:* Find a picture of a sponge, a coral or jellyfish, and a starfish. Say which body clue you can see in each.
   - Note: A kitchen sponge is made in a factory and a loofah is a plant, so neither counts. A piece of coral or a dried starfish in someone's showcase is a trace. Do not buy corals, shells or dried sea animals for this, because the trade harms reefs.
   - Wait: Do this on the next day
 - **s4 (11 min)**  
   *Parent does:* On day 4, your child counts for each group how many finds were alive, traces or pictures only. Ask why some groups were easy to find at home and others were not. They write one sentence on what the count shows.  
   *Parent says:* Count your finds. Which groups did you see alive? Which only in pictures? Why do you think that is?  
-  *Child mode:* Count your finds. Which groups did you see alive? Which only in pictures? Why?
+  *Child mode:* Count your finds for each group: alive, a trace, or a picture.
   - Ask: Why did you find arthropods alive at home, but echinoderms only in pictures? (good: Echinoderms live only in the sea.; Arthropods can live on dry land because the hard skeleton keeps water in.; There are far more kinds of arthropod.)
   - Note: Most city families find living arthropods, perhaps a snail, and only pictures of the other three. That result is the finding. Sponges, cnidarians and echinoderms live in water, nearly all of them in the sea, and only arthropods and some molluscs have spread widely over land.
   - Wait: Do this on the next day
@@ -571,7 +571,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 ### c1 · The Soft Gripper: lift things with no hard fingers (30 min)
 - **problem:** An octopus picks up shells, crabs and jars with arms that have no bones. Design and build a gripper made only of soft, bendy things. It must lift a pencil, a lemon and an empty steel tumbler off a table and hold each for five seconds. Your fingers may hold the gripper but may not touch the object.
 - **safety:** A burst balloon can choke a young child. Keep balloons and rubber bands away from children under five.
-- **your turn:** Design a soft gripper for a job a hard hand does badly, such as picking up a ripe tomato, a soap bubble's wand or a sleeping kitten's toy. Draw it and say which part of an octopus arm gave you the idea.
+- **your turn:** Design a soft gripper for a job a hard hand does badly, such as picking up a ripe tomato, a raw egg or a soft toy. Draw it or build a small model, and say which part of an octopus arm gave you the idea.
 - **constraints:** Only soft or bendy materials may touch the object: cloth, string, rubber bands, balloons, paper, tape or a sock.; No spoons, tongs, sticks or bare fingers on the object.; The same gripper, or two at most, must lift all three objects.; You have 30 minutes, and each object must stay up for a count of five.
 - **general:** Wrap a strip of cloth once round the object and twist the two ends together until it grips.; Make a loop of string, drop it over the object and pull it tight.; Lay the object on a cloth and lift the corners, like a bundle.
 - **creative:** Push a balloon into the tumbler and blow it up inside. The balloon presses on the wall, and lifting the balloon lifts the tumbler.; Roll sticky tape into a ring with the sticky side out and wind it round a sock on your hand.; Make three cloth 'arms' on one ring of string, so that pulling the ring closes all three round a lemon.; Stretch a wide rubber band round the tumbler, and hook a loop of string under the band as a handle.
@@ -581,9 +581,9 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
   *Child mode:* How does an arm with no bones hold a shell? What could you copy?
   - Ask: What are the ways a soft arm can hold something? (good: Wrapping right round it.; Sticking on with suckers.; Stiffening after it has wrapped.)
 - **s2 (7 min)**  
-  *Parent does:* Your child draws one or two designs and says how each will hold the pencil, the lemon and the tumbler. Do not suggest a design yet.  
-  *Parent says:* Draw your gripper. Show me how it holds a thin thing, a round thing and a hollow thing.  
-  *Child mode:* Draw your gripper. How will it hold each of the three things?
+  *Parent does:* Your child plans one or two designs. They can draw them or lay the soft things out. They say how each will hold the pencil, the lemon and the tumbler. Do not suggest a design yet.  
+  *Parent says:* Plan your gripper. Draw it or lay out the parts. Show me how it holds a thin thing, a round thing and a hollow thing.  
+  *Child mode:* Plan your gripper. How will it hold each of the three things?
   - Note: The three objects are chosen to be awkward in different ways. A thin pencil slips out of a loose wrap, a lemon rolls, and a tumbler is wide and smooth.
 - **s3 (13 min) · grown-up needed**  
   *Parent does:* Your child builds the gripper and tests it on each object. Each lift must last a count of five. After each failure, ask what slipped and why, and let them change one thing and test again.  

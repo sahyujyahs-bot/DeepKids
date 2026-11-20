@@ -800,7 +800,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the 24 cards. 2. Write the seven mat names on seven sheets of paper. 3. Shuffle the cards and put them in a pile, clue side up. 4. Give each player a token.",
+     "do": "1. Cut out the 24 cards. 2. Write the seven mat names on seven sheets of paper: Bacteria, Archaea, Protists, Fungi, Plants, Animals and 'No single mat fits'. 3. Shuffle the cards and put them in a pile, clue side up. 4. Give each player a token.",
      "say": "Each card describes one living being. We will decide which big group they belong to, using only the clues.",
      "kid": "Cut out the cards. Write the seven mat names on seven sheets. Shuffle the cards. Take a token.",
      "context": "This is the first step of Which Kingdom? Here you make the mats and set out the cards."
@@ -813,7 +813,7 @@
      "kid": "Read the clues. Is there a nucleus? How do they get food? Put your token on a mat. Turn the card.",
      "ask": [
       {
-       "q": "A cyanobacterium photosynthesises. Why are they not a plant?",
+       "q": "A cyanobacterium makes food from light, as a plant does. Why are they not a plant?",
        "good": [
         "Their cell has no nucleus, and every plant cell has one.",
         "They are bacteria. Chloroplasts in plants came from their relatives."
@@ -999,7 +999,7 @@
    "title": "The Hidden Tree Test: can counting letters rebuild a family tree that nobody shows you?",
    "mins": 42,
    "days": 1,
-   "context": "In this experiment a grown-up secretly builds a small family tree of copied messages, with a few letters changed at each copying. You are given only the four last messages. You count the letters that differ and try to rebuild the hidden tree.",
+   "context": "In this experiment a grown-up secretly builds a small family tree of copied messages, with a few letters changed at each copying. You are given only the four last messages. You count the letters that differ and try to rebuild the hidden tree. You will find out whether counting changed letters can show who is closest family, even when nobody tells you.",
    "question": "Four beings each carry a message of twelve letters, copied from one first message. Can the number of differing letters show who is whose sister? And if the bodies say one thing and the letters say another, which is right?",
    "predict": "Guess first. Look at the four beings and the bodies drawn on their slips. Which two are sisters, copied from the same parent message? Write your guess and the reason for it. Then guess again: will counting the letters that differ give the same sisters as the bodies do? Why do you think so?",
    "fair_test": "Every copy gets exactly 2 changed letters, so every line of the family changes at the same speed. A chit is never put back in the tumbler, so no place in the message is changed twice. The person who counts must not see the hidden slips until the tree is drawn. The bodies are given by a fixed rule: one still body and one swimming body on each side of the tree. That is done on purpose, to find out what happens when looks and letters disagree.",
@@ -1037,7 +1037,7 @@
      "what": "Make the chits. A grown-up builds the hidden tree. Guess the sisters, count the differing letters for six pairs, draw the tree and compare it with the hidden one."
     }
    ],
-   "record": "Fill in the table for all six pairs. Draw the family tree that the numbers give. After the hidden slips are shown, write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table for all six pairs. Draw the family tree that the numbers give, or lay out the slips and take a photo. After the hidden slips are shown, say or write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "setup": [
     {
      "art": "Twelve small paper chits numbered 1 to 12 in a steel tumbler, beside a paper slip with the letters ACGTACGTACGT written in boxes.",
@@ -1080,7 +1080,7 @@
      "mins": 4,
      "do": "1. Give your child the four slips, Being 1 to Being 4. 2. Ask which two are sisters, and why. 3. Ask whether counting letters will agree with the bodies, and why. 4. Write both guesses down.",
      "say": "Here are four beings. Two pairs of them are sisters. Which two do you think are sisters? Why do you think so?",
-     "kid": "Look at the four beings. Guess which two are sisters. Say why. Guess if the letters will agree. Write it down.",
+     "kid": "Look at the four beings. Guess which two are sisters. Then guess if counting letters will pick the same two. Tell your grown-up, or write it down.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1105,9 +1105,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Ask which pairs have the fewest differences. 2. Your child joins each of those pairs with a small fork on paper. 3. They join the two forks lower down to make one tree. 4. They write the number of differences beside each fork.",
+     "do": "1. Ask which pairs have the fewest differences. 2. Your child joins each of those pairs with a small fork on paper. 3. They join the two forks lower down to make one tree. They can draw it, or lay the slips out in a tree shape. 4. They write the number of differences beside each fork.",
      "say": "Which pairs differ least? Join each of those pairs with a fork. Then join the two forks into one tree.",
-     "kid": "Find the two pairs with the fewest differences. Join each pair with a fork. Join the two forks into one tree.",
+     "kid": "Find the two pairs with the fewest differences. Join each pair with a fork. Join the two forks into one tree. Draw it, or lay the slips out in a tree shape.",
      "ask": [
       {
        "q": "Why should the pair with the fewest differences be joined first?",
@@ -1144,7 +1144,7 @@
      "mins": 6,
      "do": "1. Your child writes three sentences: what they thought, what they saw and why it happened. 2. Ask why counting worked without seeing the parents. 3. Ask what would go wrong if one place changed twice.",
      "say": "Write your claim, your evidence and your reason. You never saw the parent messages. So how could the letters show you the tree?",
-     "kid": "Write what you thought. Write what you saw. Write why it happened. How did letters show a tree you never saw?",
+     "kid": "Write what you thought. Write what you saw. Write why it happened.",
      "ask": [
       {
        "q": "You could count differences between these messages. Could you count differences between two messages that were never copies of one message?",
@@ -1276,7 +1276,7 @@
      "id": "s1",
      "mins": 10,
      "do": "1. Cut the chapati into two equal pieces. 2. Sprinkle one teaspoon of water over each piece. 3. Leave them open on a plate for 30 minutes. 4. Seal each piece in a clear pouch. 5. Label them 'light' and 'dark'.",
-     "say": "Mould spores are floating in the air of every room. We leave the chapati open so that some spores can land on it.",
+     "say": "Mould spores, the tiny seeds of mould, are floating in the air of every room. We leave the chapati open so that some can land on it.",
      "kid": "Cut the chapati in two. Sprinkle a teaspoon of water on each piece. Leave them open for 30 minutes. Seal each piece in a pouch.",
      "parent": "Do the seed step while the chapati lies open. The chapati should be damp and not dripping. A spore is a single cell that a fungus sends out to start a new fungus.",
      "context": "This is the first step of Light or Dark. Here you prepare two damp pieces of chapati and seal them in clear pouches."
@@ -1341,7 +1341,7 @@
      "mins": 7,
      "do": "1. Your child writes three sentences: what they thought, what they saw and why it happened. 2. Ask where the mould got food in the dark. 3. Ask where the dark seedlings got food to grow so tall. 4. Move the yellow seedlings into the light for two days.",
      "say": "Write your claim, your evidence and your reason. The mould grew with no light at all. So where did their food come from?",
-     "kid": "Write what you thought. Write what you saw. Write why it happened. Where did the mould get food in the dark?",
+     "kid": "Write what you thought. Write what you saw. Write why it happened.",
      "ask": [
       {
        "q": "The dark seedlings grew taller than the light ones. Does that show that plants do not need light?",
@@ -1374,7 +1374,7 @@
    "title": "The Two-Box Problem: can everything alive at home be a plant or an animal?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you name ten living beings who share your home, and try to sort them all into two boxes, plants and animals. You find out who does not fit.",
+   "context": "In this activity you name ten living beings who share your home, and try to sort them all into two boxes, plants and animals. You will find out whether every living being really fits into one of those two boxes.",
    "materials": [
     {
      "item": "a sheet of paper cut into 10 slips",
@@ -1385,7 +1385,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the two boxes and write each being's name where you put them. Draw a ring round every being who did not fit either box.",
+   "record": "Write each being's name in the box you put it in, and ring every being who did not fit either box. Or take a photo of your sorted slips.",
    "setup": [
     {
      "art": "Ten paper slips on a table with names written on them, among them 'tulsi plant', 'ant', 'me', 'curd bacteria', 'yeast in bread' and 'mould on a lemon'.",
@@ -1402,7 +1402,7 @@
      "mins": 3,
      "do": "1. Write ten names on ten slips. 2. The first five are a potted plant, coriander leaves, an ant, a house gecko or a crow, and yourself. 3. Three more are the bacteria in curd, the yeast in bread and a mushroom. 4. The last two are the mould on old fruit and the green film in a flowerpot saucer. 5. Ask how many of the ten will fit into 'plants' or 'animals'.",
      "say": "All ten of these are alive, or were alive when they came into our kitchen. How many of them are plants or animals? Guess a number.",
-     "kid": "Write ten living beings from your home on slips. Use the list. Guess how many are plants or animals.",
+     "kid": "Write on slips the ten names your grown-up reads out. Guess how many of the ten are plants or animals.",
      "parent": "Change the list to fit your home, but keep the curd bacteria, the yeast, the mushroom and the mould. If there is no mushroom in the house, write the slip anyway.",
      "context": "This is the first step of the Two-Box Problem. Here you write ten living beings from your home on slips of paper."
     },
@@ -1411,7 +1411,7 @@
      "mins": 4,
      "do": "1. Draw a line down a sheet of paper. 2. Head one half 'Plants' and the other 'Animals'. 3. Your child places each slip and gives a reason. 4. Slips that fit neither half go on the line.",
      "say": "Put each slip in a box and tell me your rule. If a being fits neither box, put that slip on the line.",
-     "kid": "Draw two boxes: Plants and Animals. Put each slip in a box. Say your rule. Put the ones who do not fit on the line.",
+     "kid": "Divide a sheet in two: Plants and Animals. Put each slip in a half. Say your rule. Put the ones who do not fit on the line.",
      "ask": [
       {
        "q": "What is your rule for 'plant'? Does the mushroom pass it?",
@@ -1429,7 +1429,7 @@
      "mins": 3,
      "do": "1. Count the slips on the line. 2. Ask what you would need to find out about each one to place them. 3. Write the questions down and keep them.",
      "say": "Some beings did not fit. What would we need to know about them? Let's write our questions and keep them.",
-     "kid": "Count the slips on the line. What would you need to know about them? Write your questions.",
+     "kid": "Count the slips on the line. Say or write one question you would need answered for each.",
      "think": "People used only these two boxes for two thousand years. What do you think made them add more?",
      "context": "This is the last step of the Two-Box Problem. Here you count who did not fit, and write down what you would need to find out."
     }
@@ -1474,9 +1474,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Write these on 12 slips: human, gecko, sponge, coconut palm, moss, mushroom, yeast, amoeba, Euglena, brown seaweed, curd bacterium, methane-maker. 2. Head the first sheet '1735' and divide it into Plants and Animals. 3. Your child sorts the slips and writes the result in the table.",
+     "do": "1. Write these on 12 slips: human, gecko, sponge, coconut palm, moss, mushroom, yeast, amoeba, Euglena, brown seaweed, curd bacterium, methane-maker (a tiny being that makes methane gas). 2. Head the first sheet '1735' and divide it into Plants and Animals. 3. Your child sorts the slips and writes the result in the table.",
      "say": "It is 1735. There are two kingdoms, plants and animals. Nobody has a microscope good enough to see inside a cell. Where does each being go?",
-     "kid": "Write the twelve beings on slips. Draw the 1735 map: Plants and Animals. Sort the slips. Write where each one went.",
+     "kid": "Write the twelve beings on slips. Make the 1735 map: Plants and Animals. Sort the slips. Write where each one went.",
      "parent": "Under the two kingdoms, the mushroom, yeast, seaweed, moss and palm were plants. The amoeba, once people had seen one, was called an animal. Bacteria were put with the plants. Euglena was claimed by both sides. The sponge was argued over, and settled as an animal in the 1800s.",
      "context": "This is the first step of Four Maps of Life. Here you sort twelve living beings the way people did in 1735."
     },
@@ -1485,7 +1485,7 @@
      "mins": 4,
      "do": "1. Head the second sheet '1866'. 2. Divide it into Plants, Animals and Protists. 3. Explain that Protists were the tiny beings who were neither plant nor animal. 4. Your child sorts again and writes the result.",
      "say": "It is 1866. Microscopes are good, and Ernst Haeckel adds a third kingdom for tiny beings who are neither plant nor animal. Who moves?",
-     "kid": "Draw the 1866 map: Plants, Animals and Protists. Sort the slips again. Write who moved.",
+     "kid": "Make the 1866 map: Plants, Animals and Protists. Sort the slips again. Write who moved.",
      "parent": "The amoeba, Euglena and both microbes move to Protists. Haeckel counted bacteria among the protists. The mushroom and the yeast stayed with the plants in most books.",
      "context": "This step of Four Maps of Life sorts the twelve beings the way Ernst Haeckel did in 1866."
     },
@@ -1494,16 +1494,16 @@
      "mins": 4,
      "do": "1. Head the third sheet '1969'. 2. Divide it into five: Monera, Protists, Fungi, Plants and Animals. 3. Explain that Monera means every cell with no nucleus. 4. Your child sorts again and writes the result.",
      "say": "It is 1969. The electron microscope has shown the nucleus clearly, and Robert Whittaker has looked at how each being feeds. Who moves now?",
-     "kid": "Draw the 1969 map with five kingdoms. Sort the slips again. Write who moved.",
+     "kid": "Make the 1969 map with five kingdoms. Sort the slips again. Write who moved.",
      "parent": "The curd bacterium and the methane-maker go to Monera. The mushroom and the yeast go to Fungi. The amoeba and Euglena stay in Protists. Whittaker left the brown seaweed in Plants.",
      "context": "This step of Four Maps of Life sorts the twelve beings into Robert Whittaker's five kingdoms of 1969."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Head the fourth sheet 'Today'. 2. Divide it into Bacteria, Archaea and Eukarya. 3. Inside Eukarya, draw rings for Animals, Fungi, Plants and 'other branches'. 4. Your child sorts again and writes the result.",
+     "do": "1. Head the fourth sheet 'Today'. 2. Divide it into Bacteria, Archaea and Eukarya. 3. Explain that Archaea are a separate group of tiny cells with no nucleus. Eukarya means every being whose cells have a nucleus. 4. Inside Eukarya, make rings for Animals, Fungi, Plants and 'other branches', with string or drawn on the sheet. 5. Your child sorts again and writes the result.",
      "say": "Today scientists can read genes. Carl Woese found that the methane-makers are not bacteria at all. Where does everyone go now?",
-     "kid": "Draw today's map: Bacteria, Archaea and Eukarya. Add rings inside Eukarya. Sort the slips again. Write who moved.",
+     "kid": "Make today's map: Bacteria, Archaea and Eukarya. Add rings inside Eukarya. Sort the slips again. Write who moved.",
      "parent": "The curd bacterium goes to Bacteria and the methane-maker to Archaea. All ten others go to Eukarya. The amoeba, Euglena and the brown seaweed go in 'other branches', each on a different branch.",
      "context": "This step of Four Maps of Life sorts the twelve beings into the three domains used today."
     },
@@ -1512,7 +1512,7 @@
      "mins": 3,
      "do": "1. Your child counts how many times each being changed group. 2. Ask who never moved and who moved most. 3. Ask what new tool came before each new map.",
      "say": "Who never moved in three hundred years? Who moved nearly every time? What was different about the ones who moved?",
-     "kid": "Count each being's moves. Who never moved? Who moved most? What do the movers share?",
+     "kid": "Count each being's moves on your table. Then answer your grown-up's questions.",
      "ask": [
       {
        "q": "Why did the human, the gecko, the palm and the moss never move?",
@@ -1564,7 +1564,7 @@
      "mins": 5,
      "do": "1. Write at the top of the sheet: 'Do the cells have a nucleus?' 2. Draw a 'no' line and a 'yes' line. 3. Your child adds questions until every line ends at one group. 4. The groups are Bacteria, Archaea, Protists, Fungi, Plants and Animals.",
      "say": "A key is a chain of yes-or-no questions. Each answer sends you down one line. What question would you ask next on the 'yes' side?",
-     "kid": "Start with: do the cells have a nucleus? Draw a yes line and a no line. Add questions until each line ends at one group.",
+     "kid": "Start with: do the cells have a nucleus? Draw a yes line and a no line, or use two slips. Add questions until each line ends at one group.",
      "parent": "One key that works: no nucleus, then 'Do they make methane, or have the unusual membrane fats?' gives Archaea or Bacteria. With a nucleus: 'Many cells, no cell walls, food taken inside?' gives Animals. 'Chitin walls, soaks up food?' gives Fungi. 'Cellulose walls and green chloroplasts?' gives Plants. Everyone else is a Protist. Let your child find their own questions first.",
      "context": "This is the first step of Six Questions. Here you write a key of yes-or-no questions for the big groups of life."
     },
@@ -1649,9 +1649,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Cut strips 3 centimetres wide and tape them into one strip 55 centimetres long. 2. From one end, mark 450 millimetres for plants. 3. Then mark 70 for bacteria, 12 for fungi, 7 for archaea, 4 for protists and 2 for animals. 4. Colour and label each part. 5. Leave the last 5 millimetres blank.",
-     "say": "One millimetre stands for one billion tonnes of carbon in living beings. Plants get 450 millimetres. Measure each group in turn.",
-     "kid": "Make a strip 55 cm long. Mark 450 mm for plants. Then 70, 12, 7, 4 and 2. Colour and label each part.",
+     "do": "1. Cut strips 3 centimetres wide and tape them into one strip 55 centimetres long. 2. From one end, mark 450 millimetres for plants. 3. Then mark 70 for bacteria, 12 for fungi, 7 for archaea, 4 for protists and 2 for animals. 4. Label each part, and colour it if you like. 5. Leave the last 5 millimetres blank.",
+     "say": "One millimetre stands for one billion tonnes of living matter, counted as carbon. Plants get 450 millimetres. Measure each group in turn.",
+     "kid": "Make a strip 55 cm long. Mark 450 mm for plants. Then 70, 12, 7, 4 and 2. Label each part. Colour it if you like.",
      "parent": "The figures come from a study of 2018 and are rounded estimates, so they add up to 545 and not 550. The blank 5 millimetres stand for that rounding. The figures for microbes are the least certain.",
      "context": "This step of the Weight of Life marks off a length of the paper strip for each big group."
     },
@@ -1677,7 +1677,7 @@
      "mins": 3,
      "do": "1. Compare the strip with the first guess. 2. Ask which result was the biggest surprise. 3. Ask why plants weigh so much.",
      "say": "How close was your guess? Trees hold most of the weight of life. What are trees mostly made of, that lets them be so heavy?",
-     "kid": "Compare the strip with your guess. What surprised you most? Why do plants weigh so much?",
+     "kid": "Compare the strip with your guess. What surprised you most?",
      "parent": "Most plant weight is wood: the cellulose walls of cells in tree trunks, much of it no longer living. By variety, microbes have the most branches on the tree of life. By weight, plants are far ahead. Animals are small on both counts.",
      "think": "Plants have the most weight. Microbes have the most kinds. Which is the better way to measure a group's share of life?",
      "context": "This is the last step of the Weight of Life. Here you compare the finished strip with your first guess."
@@ -1729,7 +1729,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. With red, draw a line from the middle of the Bacteria branch across to the base of the Eukarya branch. 2. Label it 'became mitochondria'. 3. With green, draw a line from the cyanobacteria twig across to the base of the plant twig. 4. Label it 'became chloroplasts'.",
-     "say": "About two billion years ago, a bacterium began living inside another cell and stayed. Later, a cyanobacterium did the same in the ancestor of plants.",
+     "say": "About two billion years ago, a bacterium began living inside another cell and stayed. That bacterium became the mitochondria, the part of our cells that releases energy. Later, a cyanobacterium did the same in the ancestor of plants. That cyanobacterium became the chloroplasts, the parts of a leaf cell that catch light.",
      "kid": "Draw a red line from Bacteria to the base of Eukarya. Draw a green line from cyanobacteria to the plants. Label both.",
      "context": "This step of Tree or Web? adds the two great joins: mitochondria and chloroplasts."
     },
@@ -1764,9 +1764,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "1. Ask whether the drawing is still a tree. 2. Ask what else could cross between branches. 3. Your child adds three thin dotted lines between microbe branches for single genes passed sideways.",
-     "say": "Is this still a tree? Bacteria also pass single genes to their neighbours. Add a few thin dotted lines for those.",
-     "kid": "Is it still a tree? Add three thin dotted lines between the microbe branches. They stand for genes passed sideways.",
+     "do": "1. Ask whether the drawing is still a tree. 2. Ask what else could cross between branches. 3. Your child points to three places between microbe branches where genes could pass sideways. They can draw a dotted line at each.",
+     "say": "Is this still a tree? Bacteria also pass single genes to their neighbours. Where could that happen on our drawing?",
+     "kid": "Is it still a tree? Point to three places between the microbe branches where genes could pass sideways. Draw a thin dotted line there if you like.",
      "think": "If you had to choose one word for this drawing, would it be 'tree', 'web' or something else?",
      "context": "This is the last step of Tree or Web? Here you add genes passed sideways and decide what to call the drawing."
     }
@@ -1935,7 +1935,7 @@
      "mins": 8,
      "do": "1. Your child draws the usual chart: six boxes, one for each group. 2. Write the three discoveries on three slips. 3. Your child tries to add the first one to the box chart.",
      "say": "Here is the first discovery: a new cell with a nucleus, who is not an animal, a plant, a fungus or like any known protist. Where do they go?",
-     "kid": "Draw six boxes, one for each group. Read the first discovery slip. Try to add them to your chart.",
+     "kid": "Make six boxes, one for each group: draw them, or use six slips. Read the first discovery slip. Try to add them to your chart.",
      "parent": "The three slips are: 'a new cell with a nucleus who fits no kingdom', 'archaea who are nearer relatives of us than of other archaea', and 'a giant virus with a thousand genes'. All three are real discoveries of the last twenty-five years.",
      "context": "This is the first step of A Chart That Survives a New Discovery. Here you draw the usual box chart and try to add a new being to it."
     },
@@ -1944,7 +1944,7 @@
      "mins": 12,
      "do": "1. Your child tries the second and third slips on the box chart. 2. Ask what had to be redrawn each time. 3. Look together at the usual ideas and the creative ideas. 4. Your child sketches a new design.",
      "say": "What broke when you added the second discovery? What kind of chart would have bent and not broken?",
-     "kid": "Try the other two slips. What had to be redrawn? Look at the ideas. Sketch a better chart.",
+     "kid": "Try the other two slips. What had to be redrawn? Look at the ideas. Sketch a better chart, or build one from slips and thread.",
      "ask": [
       {
        "q": "Why does a box chart break more easily than a tree?",
@@ -1960,7 +1960,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Your child builds the new chart. 2. They add all three discoveries, counting the changes each one needs. 3. They mark the 'protists' label so that it looks different from a real branch.",
-     "say": "Add the three discoveries to your new chart. Count the changes. Did any one of them need more than a single line or label?",
+     "say": "Add the three discoveries to your new chart. Count the changes. Did any one of them need more than a single line or label? Protists is not one family. It is a label for everything left over, so mark it differently.",
      "kid": "Build your new chart. Add the three discoveries. Count the changes each one needs. Make 'protists' look different from a branch.",
      "parent": "There is no perfect answer. Real scientists disagree about how to draw this. A good design makes it easy to see what is known, what is a label of convenience and what is still open.",
      "context": "This is the last step of A Chart That Survives a New Discovery. Here you build your new chart and test it with all three discoveries."
@@ -2022,7 +2022,7 @@
      "mins": 14,
      "do": "1. Your child writes the rule at the top of the chart paper. 2. They work out the share for each group. 3. They draw the tree with three domains, giving each group their share. 4. They mark the human.",
      "say": "Work out each group's share by your rule first. Then draw. Keep to the rule, even where the result looks odd.",
-     "kid": "Write your rule at the top. Work out each group's share. Draw the tree. Mark the human.",
+     "kid": "Write your rule at the top. Work out each group's share. Draw the tree, or build it from paper strips cut to each share. Mark the human.",
      "parent": "For the weight rule, the figures are plants 450, bacteria 70, fungi 12, archaea 7, protists 4 and animals 2. For the age rule, bacteria and archaea split more than 3.5 billion years ago, cells with a nucleus appeared about 2 billion years ago, and animals about 600 million years ago. These dates are rough and still argued over.",
      "context": "This step of A Fair Tree for the Wall draws the tree of life by the rule you chose."
     },

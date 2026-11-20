@@ -630,7 +630,7 @@
    "setup": [
     {
      "art": "A long strip of paper with 21 numbered squares, a small tree drawn at square 0, and bands of grey, green, blue and red-brown.",
-     "caption": "1. Draw the board: 21 squares, from the mother tree to the bare hill."
+     "caption": "1. Make the board: 21 squares, from the mother tree to the bare hill."
     },
     {
      "art": "A hand holding three chana and three moong seeds over the board, beside a die.",
@@ -645,9 +645,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw the board and copy what the die means. 2. Each player chooses a mix of 6 seeds. 3. Ask why each player chose that mix.",
+     "do": "1. Make the board: 21 squares in a row, from your tree at square 0 to the bare hill. Draw it, or lay out 21 coins or paper squares. Copy what the die means. 2. Each player chooses a mix of 6 seeds. 3. Ask why each player chose that mix.",
      "say": "This board is a hillside. Your tree stands on square 0. Which seeds will you make, nuts or winged seeds? Why?",
-     "kid": "Draw the board. Choose 6 seeds. Chana are nuts. Moong are winged seeds. Say why you chose your mix.",
+     "kid": "Make the board. Choose 6 seeds to play with. Chana are nuts. Moong are winged seeds. Say why you chose your mix.",
      "ask": [
       {
        "q": "Why does a winged seed get 6 rolls and a nut only 2?",
@@ -822,7 +822,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 16 cards. 2. Read the rules together. 3. Play one card as practice, with no score.",
-     "say": "Each card is a seed speaking. The first clue is the hardest. Listen for the shape, the weight and the covering.",
+     "say": "Each card gives three clues about one seed or fruit. The first clue is the hardest. Listen for the shape, the weight and the covering.",
      "kid": "Cut out the cards. Read the rules. Try one card for practice.",
      "context": "This is the first step of Who Carried Me? You make the cards and try one."
     },
@@ -882,7 +882,7 @@
    "title": "The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you make three paper fliers from strips of the same size, each with one paper clip. One is packed tight, one has short wings and one has long wings. You time how long each takes to fall in still air. Then you let each go in front of a fan and measure how far away they land.",
+   "context": "You will find out whether the shape of a seed changes how far the wind carries it. In this experiment you make three paper fliers from strips of the same size, each with one paper clip. One is packed tight, one has short wings and one has long wings. You time how long each takes to fall in still air. Then you let each go in front of a fan and measure how far away they land.",
    "question": "Three fliers weigh the same and meet the same wind. Does the shape change how far they travel? Does the one that falls slowest also travel farthest?",
    "predict": "Guess before any drop. Which flier will take longest to fall in still air? Which will land farthest from the fan, and about how far? Why do you think so? Write your guesses and your reasons.",
    "fair_test": "All three fliers are cut from the same sheet, to the same size, and each carries one paper clip of the same size. So they weigh the same, and only the shape differs. Each one is let go from the same spot, with no push, in the same wind. You repeat every drop, because moving air is never perfectly steady. A fan's wind is narrow and gets weaker farther away. So this is a model of a windy day, and not a copy of one.",
@@ -931,7 +931,7 @@
    ],
    "safety": "Keep fingers, hair and paper away from the fan blades. A grown-up holds the fliers up for the 2-metre drops. Nobody stands on a chair alone.",
    "schedule": [],
-   "record": "Fill in one row of the table for each flier. Work out the mean fall time and the mean distance. Draw a bar chart of the three mean distances. Then write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+   "record": "Fill in one row of the table for each flier. Work out the mean fall time and the mean distance. Lay out a thread for each mean distance, or draw a bar chart of the three. Then write three sentences: what I thought would happen, what I saw, and why I think it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: mean distance from the start mark in the fan lane",
@@ -1060,8 +1060,8 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. For each flier, add the three fall times and divide by 3. 2. Add the five distances and divide by 5. 3. Write the fliers in order of fall time. Write them in order of distance. 4. Draw a bar for each mean distance.",
-     "say": "Work out the mean fall time and the mean distance for each flier. Put them in order both ways. Are the two orders the same?",
+     "do": "1. For each flier, add the three fall times and divide by 3. 2. Add the five distances and divide by 5. 3. Write the fliers in order of fall time. Write them in order of distance. 4. Cut a piece of thread as long as each mean distance. Lay the three threads side by side.",
+     "say": "The mean is the typical result: add the numbers, then divide by how many there are. Work out the mean fall time and the mean distance for each flier. Put them in order both ways. Are the two orders the same?",
      "kid": "Find the mean fall time for each flier. Find the mean distance. Put the fliers in order of time. Put them in order of distance. Are the orders the same?",
      "parent": "A worked example: distances of 150, 190, 160, 210 and 140 centimetres add up to 850. Then 850 ÷ 5 = 170 centimetres. A calculator is fine.",
      "context": "In this step of the Fan Lane Test you work out the means and compare fall time with distance."
@@ -1100,9 +1100,9 @@
    "title": "The Seed Shadow Test: where do 30 drops of the same spinner land?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you let the same long-wing paper spinner go 30 times in front of a fan, from the same spot each time. You record how far away each drop lands, and draw the pattern. Scientists call the pattern of where a plant's seeds land a seed shadow.",
+   "context": "You will find out whether the same seed, let go in the same wind, always lands in the same place. In this experiment you let the same long-wing paper spinner go 30 times in front of a fan, from the same spot each time. You record how far away each drop lands, and draw the pattern. Scientists call the pattern of where a plant's seeds land a seed shadow.",
    "question": "When the same spinner is let go 30 times in the same wind, do all 30 land in the same place? If not, what is the shape of the pattern?",
-   "predict": "Guess before you start. Will all 30 drops land in about the same place? Draw the pattern of 30 landing spots that you expect. Why do you think so? Write your reason.",
+   "predict": "Guess before you start. Will all 30 drops land in about the same place? Point to where you expect the 30 landing spots to be. Why do you think so? Write your reason.",
    "fair_test": "The same spinner is used for all 30 drops. The same person lets go, from the same spot, with no push. The fan stays at one speed and points one way. Nothing is changed on purpose, so any spread in the landings comes from the small changes in the moving air and in the letting go.",
    "results_table": [
     "Distance band",
@@ -1134,7 +1134,7 @@
    ],
    "safety": "Keep fingers, hair and paper away from the fan blades.",
    "schedule": [],
-   "record": "Make a tally for six bands: 0 to 50 centimetres, 50 to 100, 100 to 150, 150 to 200, 200 to 250, and beyond 250. Count the landings in each band. Draw a bar chart with one bar for each band. Write which band had the most landings, and how far the farthest drop went.",
+   "record": "Make a tally for six bands: 0 to 50 centimetres, 50 to 100, 100 to 150, 150 to 200, 200 to 250, and beyond 250. Count the landings in each band. Build or draw a bar chart with one bar for each band. Write which band had the most landings, and how far the farthest drop went.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: where 30 drops of one spinner landed",
@@ -1179,16 +1179,16 @@
     },
     {
      "art": "A child's bar chart on squared paper with six bars, the tallest in the middle and a very short bar at the far right.",
-     "caption": "3. Draw a bar for each band. Look at the shape of the pattern."
+     "caption": "3. Build a bar for each band. Look at the shape of the pattern."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Set up the fan and the start mark as in the Fan Lane Test. 2. Mark a line across the floor every 50 centimetres, up to 250 centimetres. 3. Ask for the prediction and the reason. Your child draws the pattern they expect.",
-     "say": "We will let the same spinner go 30 times. Nothing will change. Will all 30 land in the same place? Draw the pattern you expect. Why do you think so?",
-     "kid": "Mark a line every 50 centimetres. You will drop one spinner 30 times. Will all the drops land together? Draw what you expect. Say why.",
+     "do": "1. Set up the fan and the start mark as in the Fan Lane Test: fan on full speed, start mark on the floor 50 centimetres in front of it. 2. Mark a line across the floor every 50 centimetres, up to 250 centimetres. 3. Ask for the prediction and the reason. Your child points to where on the floor they expect the 30 landings to be.",
+     "say": "We will let the same spinner go 30 times. Nothing will change. Will all 30 land in the same place? Point to where you think they will land. Why do you think so?",
+     "kid": "Mark a line every 50 centimetres. You will drop one spinner 30 times. Will all the drops land together? Point to where you expect them to land. Say why.",
      "ask": [
       {
        "q": "If nothing is changed, why might the landings still differ?",
@@ -1213,9 +1213,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Count the tally marks in each band. 2. Draw a bar for each band. 3. Find the band with the most landings, and the farthest landing of all.",
-     "say": "Count each band and draw the bars. Which band has the most? How far did the farthest drop go?",
-     "kid": "Count your tally marks. Draw a bar for each band. Which band has the most? How far was the farthest drop?",
+     "do": "1. Count the tally marks in each band. 2. Build a bar for each band: put one dal grain or coin in a column for each landing. 3. Find the band with the most landings, and the farthest landing of all.",
+     "say": "Count each band and build the bars. Which band has the most? How far did the farthest drop go?",
+     "kid": "Count your tally marks. Build a bar for each band. Use one dal grain or coin for each landing. Which band has the most? How far was the farthest drop?",
      "context": "In this step of the Seed Shadow Test you draw a bar chart of the 30 landings."
     },
     {
@@ -1262,7 +1262,7 @@
    "title": "Darwin's Jar: do seeds still sprout after a day and a night in sea water?",
    "mins": 35,
    "days": 4,
-   "context": "In this experiment you repeat a test that Charles Darwin did in 1855. You soak ten moong seeds in salt water as strong as the sea, and ten in plain water, for one day and one night. Then you rinse both lots, keep them damp, and count how many of each sprout.",
+   "context": "You will find out whether seeds can live through a day in sea water, and so whether the sea could carry them to new land. In this experiment you repeat a test that Charles Darwin did in 1855. You soak ten moong seeds in salt water as strong as the sea, and ten in plain water, for one day and one night. Then you rinse both lots, keep them damp, and count how many of each sprout.",
    "question": "Does a day and a night in sea water kill seeds? Which kitchen seeds and fruits could float across water at all?",
    "predict": "Guess before you start. Out of 10 moong seeds soaked in salt water, how many will sprout? Out of 10 soaked in plain water, how many? Why do you think so? Write both numbers and your reasons.",
    "fair_test": "Both lots of seeds come from the same packet. Both soak for the same time, and then sit on the same kind of damp cloth in the same place. Only one thing differs: salt in the soaking water. Ten seeds in each lot is a small number, so a difference of one or two seeds could be chance.",
@@ -1422,7 +1422,7 @@
    "title": "Read the Shape: how would these kitchen seeds travel with no person to carry them?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you look closely at five or six fruits and seeds from the kitchen. From the shape, weight and covering of each one, you work out how the seeds would leave the parent plant if no person carried them. Three quick tests help: a drop, a float and a cling.",
+   "context": "You will find out how a plant's seeds travel just by looking at them, before anyone tells you. In this activity you look closely at five or six fruits and seeds from the kitchen. From the shape, weight and covering of each one, you work out how the seeds would leave the parent plant if no person carried them. Three quick tests help: a drop, a float and a cling.",
    "materials": [
     {
      "item": "drumstick, as fresh or as ripe as you can find",
@@ -1458,7 +1458,7 @@
     }
    ],
    "safety": "A grown-up does the cutting. Wash hands after touching the chilli, and keep fingers away from eyes.",
-   "record": "Make a table with five columns: the fruit or seed, my guess, the drop test, the float test, and how I now think the seeds travel. Draw the drumstick seed with the wings.",
+   "record": "Make a table with five columns: the fruit or seed, my guess, the drop test, the float test, and how I now think the seeds travel. Look at the drumstick seed's wings. Draw them, or tell your grown-up what you see.",
    "example_chart": {
     "type": "table",
     "title": "What the shape of each kitchen fruit shows",
@@ -1540,7 +1540,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. A grown-up cuts open the drumstick, the tomato or chilli, and the tamarind. Shell one groundnut. 2. For each seed or fruit, do three tests. Drop each one from above your head and watch the fall. Put each one in the tumbler of water. Rub each one on a sleeve and see what clings. 3. Write what you see.",
-     "say": "Look at what is round each seed. Now test each one. Which fall slowly? Which float? Which cling to cloth?",
+     "say": "Look at what covers each seed. Now test each one. Which fall slowly? Which float? Which cling to cloth?",
      "kid": "A grown-up cuts each one open. Look at the seeds. Drop each one. Float each one. Rub each one on your sleeve. Write what you see.",
      "adult": true,
      "ask": [
@@ -1630,7 +1630,7 @@
      "what": "Look at the dried pod halves. Draw one again and compare the two drawings."
     }
    ],
-   "record": "Draw a paper strip before and after wetting, and mark the wet side. Draw one pod half on day 1 and the same half on day 3. Write one sentence saying what drying did to the shape.",
+   "record": "Take a photo of the paper strip curled on the water, or draw it, and mark the wet side. Put the day 1 and day 3 photos of the pod half side by side. Write one sentence saying what drying did to the shape.",
    "setup": [
     {
      "art": "A hand laying a thin strip of paper flat on the surface of water in a saucer, and a second strip beside it already curled into a hoop.",
@@ -1667,9 +1667,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Split each pod along the seam and take out the seeds. 2. Your child draws one pod half. 3. Ask what shape the halves will have when they are dry, and why. 4. Put the halves on a plate on a sunny windowsill.",
+     "do": "1. Split each pod along the seam and take out the seeds. 2. Your child takes a photo of one pod half, or draws it. 3. Ask what shape the halves will have when they are dry, and why. 4. Put the halves on a plate on a sunny windowsill.",
      "say": "A pod wall has layers, like the two sides of the paper strip. What will happen to these halves as they dry? Why do you think so?",
-     "kid": "Split the pods. Take out the seeds. Draw one pod half. Guess what shape the halves will have when dry. Put them in the sun.",
+     "kid": "Split the pods. Take out the seeds. Take a photo of one pod half, or draw it. Guess what shape the halves will have when dry. Put them in the sun.",
      "ask": [
       {
        "q": "If one layer of the pod wall shrinks more than the other as it dries, what must the wall do?",
@@ -1686,9 +1686,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Look at the dry halves. 2. Your child draws the same half again. 3. Ask what they see and why they think it happened. Then read the note below together.",
+     "do": "1. Look at the dry halves. 2. Your child takes a photo of the same half again and puts it beside the first photo. 3. Ask what they see and why they think it happened. Then read the note below together.",
      "say": "What shape are the halves now? Why do you think a flat pod wall dried into that shape?",
-     "kid": "Look at the dry pod halves. Draw one again. What changed? Say why you think that happened.",
+     "kid": "Look at the dry pod halves. Photograph the same half again. Put the two photos side by side. What changed? Say why you think that happened.",
      "ask": [
       {
        "q": "On the plant, the two halves are joined along a seam while they dry. What happens when the seam finally gives way?",
@@ -1719,7 +1719,7 @@
    "title": "The Sock Walk: who rides on your feet? (if you have a park or a field nearby)",
    "mins": 30,
    "days": 1,
-   "context": "In this activity you pull an old sock over one shoe and walk through rough grass at the edge of a park or a field. Then you pick off the seeds that have caught in the sock, and look at how each one holds on.",
+   "context": "You will find out how seeds hitch a ride on a sock, and which part of each seed holds on. In this activity you pull an old sock over one shoe and walk through rough grass at the edge of a park or a field. Then you pick off the seeds that have caught in the sock, and look at how each one holds on.",
    "materials": [
     {
      "item": "old woollen or fluffy sock, big enough to pull over a shoe",
@@ -1740,7 +1740,7 @@
     }
    ],
    "safety": "A grown-up comes along. Walk only in grass that is lower than your ankle, in a place you know well. Keep away from thorny bushes. Wash hands afterwards.",
-   "record": "Tape one seed of each kind onto the white paper. Beside each, draw the part that held on to the sock, as seen through the lens. Write how many kinds you found and how many seeds in all.",
+   "record": "Tape one seed of each kind onto the white paper. Beside each, write which part held on to the sock, such as hooks or spikes, or draw it as seen through the lens. Write how many kinds you found and how many seeds in all.",
    "setup": [
     {
      "art": "A child's foot in a shoe with a large fluffy grey sock pulled over the shoe, at the edge of a patch of rough grass.",
@@ -1759,7 +1759,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Find a patch of rough grass that has gone to seed. 2. Ask the question below and write the guess. 3. Your child pulls the sock over one shoe.",
+     "do": "1. Find a patch of rough grass that has gone to seed. 2. Ask how many seeds your child expects, and write the guess. 3. Your child pulls the sock over one shoe.",
      "say": "How many seeds do you think will ride on this sock after fifty steps? How could a seed hold on to wool?",
      "kid": "Pull the sock over your shoe. Guess how many seeds will stick after fifty steps. How could a seed hold on?",
      "adult": true,
@@ -1833,7 +1833,7 @@
      "qty": 1
     }
    ],
-   "record": "Make a table with three columns: the food, my guess (India or elsewhere), and the home region from the table. Count the foods from each region. If you have a map, draw a line from each home region to where you live.",
+   "record": "Make a table with three columns: the food, my guess (India or elsewhere), and the home region from the table. Count the foods from each region. If you have a map, trace a finger from each home region to where you live.",
    "example_chart": {
     "type": "table",
     "title": "Where some common Indian foods were first grown",
@@ -1885,7 +1885,7 @@
     },
     {
      "art": "A hand-drawn outline map of the world with pencil lines running from South America, Africa and Central Asia to the tip of India.",
-     "caption": "3. Look up each food in the table. Draw the journeys on a map."
+     "caption": "3. Look up each food in the table. Trace the journeys on a map."
     }
    ],
    "flow": [
@@ -1911,9 +1911,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Look up each food in the table of home regions. 2. Write the home region beside each guess. 3. Count the foods from each region. 4. On a map, draw a line from each region to your home.",
+     "do": "1. Look up each food in the table of home regions. 2. Write the home region beside each guess. 3. Count the foods from each region. 4. On a map or globe, point to each home region and trace the way to your home with a finger.",
      "say": "Find each food in the table. Where did it first grow? Count how many came from each part of the world.",
-     "kid": "Find each food in the table. Write the home region. Count the foods from each region. Draw the journeys on a map.",
+     "kid": "Find each food in the table. Write the home region. Count the foods from each region. Point to each home region on the map. Trace the way to your home.",
      "ask": [
       {
        "q": "Which food surprised you most? Why did you think it was from here?",
@@ -2025,7 +2025,7 @@
      "mins": 10,
      "do": "1. Your child asks an older person the four questions below. 2. They write the answers in a few words. 3. Thank the person.",
      "say": "Ask these four questions. Which kinds did you eat as a child? Which are hard to find now? Who kept the seeds in your family? How were the seeds stored?",
-     "kid": "Ask an older person four things. Which kinds did you eat as a child? Which are hard to find now? Who saved the seeds? How did they keep them?",
+     "kid": "Ask an older person the four questions. Write each answer in a few words. Then say thank you.",
      "parent": "In many farming families the women chose and stored the seed. Seeds were often kept in clay pots or baskets with dry neem leaves or ash, sealed with clay. If the older person never farmed, ask about fruits and vegetables that tasted different when they were young.",
      "context": "In this step of the Variety Count you ask an older person about the varieties they knew as a child."
     },
@@ -2033,7 +2033,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Compare the older person's list with your child's list. 2. Ask the questions below. 3. Your child makes a card for one variety.",
-     "say": "Which kinds did they know that we do not? Where have those kinds gone? Does it matter if a kind is lost?",
+     "say": "Which kinds did they know that we do not? Why are those kinds hard to find now? Does it matter if a kind is lost?",
      "kid": "Compare the two lists. Which kinds are missing from yours? Make a card for one variety. Write what makes that kind special.",
      "ask": [
       {
@@ -2280,9 +2280,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Look up the long-wing spinner's mean fall time from the Fan Lane Test, or time it now. 2. Ask your child what makes a thing fall slowly. 3. Your child draws a design and writes a predicted fall time.",
-     "say": "The long-wing spinner took nearly 2 seconds to fall 2 metres. What made the fall slow? Draw a design that could be even slower. How long will yours take?",
-     "kid": "What makes a thing fall slowly? Draw your own paper seed. Guess how long your seed will take to fall 2 metres.",
+     "do": "1. Look up the long-wing spinner's mean fall time from the Fan Lane Test, or time it now. 2. Ask your child what makes a thing fall slowly. 3. Your child draws a design, or tells you the plan, and writes a predicted fall time.",
+     "say": "The long-wing spinner took nearly 2 seconds to fall 2 metres. What made the fall slow? Draw a design, or tell me your plan, that could be even slower. How long will yours take?",
+     "kid": "What makes a thing fall slowly? Draw your own paper seed, or tell your plan. Guess how long your seed will take to fall 2 metres.",
      "ask": [
       {
        "q": "You cannot change the weight of the paper clip. So what can you change?",
@@ -2308,7 +2308,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Time three falls of the final design from 2 metres. 2. Work out the mean. 3. Compare it with the long-wing spinner. 4. Ask the questions below.",
+     "do": "1. Time three falls of the final design from 2 metres. 2. Work out the mean: add the three times and divide by 3. 3. Compare it with the long-wing spinner. 4. Ask the questions below.",
      "say": "Time three falls and find the mean. Did you beat the spinner? Which real seed is your design most like?",
      "kid": "Time three falls. Find the mean. Did you beat the spinner? Which real seed is your design like?",
      "adult": true,
@@ -2377,9 +2377,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Ask how a seed could hold on to fur with no hands. 2. Your child draws a design round a rajma bean. 3. They predict how many steps it will stay on.",
-     "say": "Some seeds travel on the fur of animals. How could a seed hold on? Draw your design. How many steps will it stay on?",
-     "kid": "How can a seed hold on to fur? Draw your design round a rajma bean. Guess how many steps it will stay on.",
+     "do": "1. Ask how a seed could hold on to fur with no hands. 2. Your child draws a design round a rajma bean, or tells you the plan. 3. They predict how many steps it will stay on.",
+     "say": "Some seeds travel on the fur of animals. How could a seed hold on? Draw your design, or tell me your plan. How many steps will it stay on?",
+     "kid": "Draw your design round a rajma bean, or tell your plan. Guess how many steps it will stay on.",
      "ask": [
       {
        "q": "Wool is made of many thin loops and hairs. What shape catches in a loop?",
@@ -2406,7 +2406,7 @@
      "mins": 10,
      "do": "1. Do the final test: one brush, 20 steps, then one firm rub on a table leg. 2. Ask the questions below. 3. Your child writes one sentence on how the seed gets off.",
      "say": "Final test. Did it catch, stay on, and come off again? In the wild, how would your seed leave the animal?",
-     "kid": "Do the final test. Did your seed catch? Did it stay on? Did it come off with one rub? Write how it would leave an animal.",
+     "kid": "Do the final test: one brush, 20 steps, then one firm rub. Write one sentence on how your seed would leave an animal.",
      "ask": [
       {
        "q": "Why must a hitch-hiker seed be able to come off again?",

@@ -687,7 +687,7 @@
      "mins": 12,
      "do": "1. Play by the rules until the pile is finished. 2. After each card, ask what clue gave the answer. 3. Keep the score on a slip of paper.",
      "say": "Which word on the card told you the box? Was the pattern made before the weaving, during it or after it?",
-     "kid": "Take a card. Read it aloud. Say its box, and its state if you can. Turn it over.",
+     "kid": "Take a card. Read it aloud. Say its box, and the state of India it comes from if you can. Turn it over.",
      "parent": "Ikat and bandhani are the pair most often mixed up. In ikat the loose threads are tied and dyed. In bandhani the finished cloth is tied and dyed.",
      "context": "In this step of Woven, Dyed, Printed or Stitched you play the game, sorting each cloth by how its pattern is made."
     },
@@ -951,7 +951,7 @@
      "mins": 5,
      "do": "1. Lay the woven cloth and the T-shirt side by side. 2. Let your child pull each one gently in both directions. 3. Ask for the guesses and the reasons. 4. Write them above the table.",
      "say": "Both of these are cotton. Which will stretch more under the same bottle? Will the T-shirt stretch the same both ways? Why do you think so?",
-     "kid": "Pull each cloth gently, both ways. Which will stretch more under the bottle? Why? Write your guess.",
+     "kid": "Pull each cloth gently, both ways. Feel which one gives more. Write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -987,7 +987,7 @@
      "mins": 8,
      "do": "1. Do the same with the knitted strip marked 'along'. 2. Do the same with the knitted strip marked 'across'. 3. For each strip, take away 20 from the length with the bottle. That is the stretch. 4. Write all the numbers in the table.",
      "say": "Now the two knitted strips. Which one stretches more? Does each strip go back when the bottle comes out?",
-     "kid": "Test the 'along' strip. Then test the 'across' strip. Write each stretch. Does each strip go back afterwards?",
+     "kid": "Test the 'along' strip. Then test the 'across' strip. Write each stretch in the table.",
      "ask": [
       {
        "q": "What did the knitted strips do that the woven strip did not?",
@@ -1148,7 +1148,7 @@
      "mins": 5,
      "do": "1. On three pieces of cloth, draw a line 1 cm from one long edge. Start and end the line 1 cm from the short edges, so it is 8 cm long. 2. On piece A, mark a dot every 1 cm along the line. 3. On pieces B and C, mark a dot every half centimetre. 4. Ask for the guesses and the reasons, and write them down.",
      "say": "Seam A will have stitches 1 cm long. Seam B will have half that. Seam C will have a quarter. Which seam will leak the most seeds? Why do you think so?",
-     "kid": "Draw a line on three pieces. Mark the dots. Which seam will leak the most seeds? Why? Write your guess.",
+     "kid": "Draw the line on three pieces and mark the dots. Then write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1203,7 +1203,7 @@
      "mins": 5,
      "do": "1. Ask your child to guess what rice will do. 2. Repeat the test on all three seams with 1 level teaspoon of raw rice. 3. Write the counts in the table.",
      "say": "A rice grain is longer than a mustard seed. Will more rice get through, or less? Why do you think so?",
-     "kid": "Now try rice. Guess first: will more get through, or less? Why? Test all three seams.",
+     "kid": "Now try rice on all three seams. Guess first, then test.",
      "parent": "Rice usually gets through far less than mustard, because a long grain must meet the gap end on. Whatever you find is a real result. Write it down as it is.",
      "context": "This step of the Leaky Seam Test repeats the test with rice, to see whether the size and shape of a grain matter."
     },
@@ -1332,7 +1332,7 @@
      "mins": 4,
      "do": "1. Show your child the thin cloth and find its selvedge, the firm edge that was never cut. 2. Explain the three cuts you will make. 3. Ask for the guesses and the reasons, and write them down.",
      "say": "We will cut this cloth straight, on the slant and in zigzags. Which edge will fray most in the wash? Which will not fray at all? Why do you think so?",
-     "kid": "Find the firm edge of the cloth. Which cut edge will fray the most? Which will not fray? Why? Write your guess.",
+     "kid": "Find the firm edge of the cloth, called the selvedge. Then write your guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1408,7 +1408,7 @@
    "title": "Thread Paths: three cloths under the phone camera",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you look very closely at a handkerchief, a T-shirt and a pair of jeans with a phone camera. You draw the path one thread takes in each cloth. It leads to the question of the unit: why does one cotton cloth stretch and another not?",
+   "context": "In this activity you look very closely at a handkerchief, a T-shirt and a pair of jeans with a phone camera. You find out how the threads in each cloth are put together. It leads to the question of the unit: why does one cotton cloth stretch and another not?",
    "materials": [
     {
      "item": "a woven cotton handkerchief, or a cotton shirt or pillow cover",
@@ -1431,7 +1431,7 @@
      "qty": "1 sheet"
     }
    ],
-   "record": "Draw three boxes. In each, draw the threads of one cloth as you see them on the screen, and colour the path of one thread in red.",
+   "record": "For each cloth, take a photo, or draw its threads in a box. Then show how one thread runs: colour it red on your drawing, or trace it with a finger on the screen and tell your grown-up.",
    "setup": [
     {
      "art": "A phone held a few centimetres above a checked handkerchief on a table, its screen showing the threads crossing over and under.",
@@ -1439,16 +1439,16 @@
     },
     {
      "art": "A sheet of paper with three boxes: crossed lines in the first, rows of loops in the second and slanting lines in the third, with one thread coloured red in each.",
-     "caption": "2. Draw the path of one thread in each cloth."
+     "caption": "2. Show the path of one thread in each cloth."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Lay the handkerchief flat in good light. 2. Hold the phone camera about 5 cm above it. Zoom in and touch the screen to focus. 3. Ask your child to follow one thread across the screen with a fingertip. 4. Draw what you see in the first box.",
+     "do": "1. Lay the handkerchief flat in good light. 2. Hold the phone camera about 5 cm above it. Zoom in and touch the screen to focus. 3. Ask your child to follow one thread across the screen with a fingertip. 4. Take a photo of the screen, or draw what you see in the first box.",
      "say": "Look at the screen. Follow one thread with your finger. Where does it go when it meets another thread?",
-     "kid": "Zoom in on the handkerchief. Follow one thread with your finger. Where does it go? Draw it.",
+     "kid": "Zoom in on the handkerchief. Follow one thread with your finger. Take a photo, or draw it.",
      "ask": [
       {
        "q": "What does the thread do when it meets another thread?",
@@ -1464,9 +1464,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Look at the T-shirt in the same way. Draw it in the second box. 2. Look at the outside of the jeans, then the inside. Draw the outside in the third box.",
+     "do": "1. Look at the T-shirt in the same way. Take a photo, or draw it in the second box. 2. Look at the outside of the jeans, then the inside. Take a photo, or draw the outside in the third box.",
      "say": "Now the T-shirt. Are the threads crossing, or doing something else? Then look at the jeans. Which way do the lines run?",
-     "kid": "Zoom in on the T-shirt. Are the threads crossing? Draw them. Then look at the jeans, outside and inside.",
+     "kid": "Zoom in on the T-shirt. Take a photo, or draw it. Then look at the jeans, outside and inside.",
      "ask": [
       {
        "q": "How is the T-shirt different from the handkerchief?",
@@ -1518,7 +1518,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the thread, one ply and one fibre side by side. Write the length of each beside it.",
+   "record": "Lay the thread, one ply and one fibre side by side and take a photo. Write the length of each.",
    "setup": [
     {
      "art": "Two hands holding a short piece of thick white thread, one hand rolling the end so that the thread opens into three thinner strands.",
@@ -1539,7 +1539,7 @@
      "mins": 5,
      "do": "1. Hold the thick thread between two hands, about 5 cm apart. 2. Roll one end between finger and thumb until the thread opens. 3. Count the thinner strands. Each one is a ply. 4. Let go, and watch what the thread does.",
      "say": "Roll the end until the thread opens. How many strands is it made of? What happens when you let go?",
-     "kid": "Roll one end of the thread until it opens. Count the strands. Let go. What happens?",
+     "kid": "Roll one end of the thread until it opens. Count the strands. Then let go and watch.",
      "ask": [
       {
        "q": "What did the thread do when you let go?",
@@ -1787,7 +1787,7 @@
     }
    ],
    "safety": "A grown-up does the snipping in step 2.",
-   "record": "Draw the life of the silk moth as a circle with four stages and arrows. Under it, write how many pieces of thread each model cocoon gave.",
+   "record": "Take a photo of your circle of four cards, or draw it with arrows. Under it, write how many pieces of thread each model cocoon gave.",
    "setup": [
     {
      "art": "Four small paper cards in a circle joined by arrows, labelled egg, caterpillar, pupa in a cocoon and moth.",
@@ -1807,8 +1807,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Write one stage on each piece of paper: egg, caterpillar, pupa in a cocoon, moth. 2. Mix them up. 3. Ask your child to lay them in order in a circle, and to say what happens at each stage.",
-     "say": "Put the four stages in order. Why is it a circle and not a line?",
-     "kid": "Put the four cards in order, in a circle. Say what happens at each stage.",
+     "say": "Here are the four stages of a silk moth's life. Put them in order, in a circle.",
+     "kid": "Lay the cards in a circle. Tell what happens at each stage.",
      "ask": [
       {
        "q": "Why is the life of a moth drawn as a circle?",
@@ -1823,7 +1823,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Wind 3 metres of thread round each groundnut, crossing the turns in a figure of eight. Tuck in the end. 2. On the first, find the end and unwind it without breaking the thread. 3. On the second, a grown-up snips a small hole through the turns at one end. 4. Unwind the second one and count the pieces.",
-     "say": "A caterpillar winds one unbroken filament round their own body. Unwind the first cocoon whole. The second has a hole, as if the moth had come out. Count its pieces.",
+     "say": "A caterpillar winds one long unbroken thread, called a filament, round its own body. Unwind the first cocoon whole. The second has a hole, as if the moth had come out. Count its pieces.",
      "kid": "Wind thread round both groundnuts. Unwind the first in one piece. A grown-up snips a hole in the second. Unwind it and count the pieces.",
      "adult": true,
      "parent": "A real moth does not cut the silk. She or he wets it with a liquid and pushes through, and that breaks the one filament into many short lengths.",
@@ -1833,8 +1833,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Lay the long thread beside the short pieces. 2. Explain that long filament is unwound and used as it is, and short pieces must be spun like cotton. 3. Ask the questions below.",
-     "say": "Most silk makers heat the cocoons before the moths come out. Now you can see why. What do you think about that?",
-     "kid": "Look at the long thread and the short pieces. Why do silk makers stop the moth coming out? What do you think about it?",
+     "say": "Most silk makers heat the cocoons before the moths come out. Look at the long thread and the short pieces. Which would you rather use?",
+     "kid": "Lay the long thread beside the short pieces. Point to the one that is ready to use.",
      "ask": [
       {
        "q": "Eri silk is made after the moths have left. What must be done with the broken cocoons?",
@@ -1911,8 +1911,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Say the needle rules together. 2. Lay one square on the other. Draw three lines across the top square, each 12 cm long and 4 cm apart. 3. Mark a dot every half centimetre along each line. 4. Thread the needle, double the thread and knot the end.",
-     "say": "The needle lives in the soap when it is not in your hand. Now thread it, double the thread and tie a knot at the end.",
+     "do": "1. Say the needle rules together: the needle lives in the soap when it is not in your hand, and its point always faces away from you. 2. Lay one square on the other. Draw three lines across the top square, each 12 cm long and 4 cm apart. 3. Mark a dot every half centimetre along each line. 4. Thread the needle, double the thread and knot the end.",
+     "say": "Now thread the needle, double the thread and tie a knot at the end.",
      "kid": "Say the needle rules. Draw three lines with dots. Thread the needle and knot the end.",
      "adult": true,
      "context": "This is the first step of Stitch Sampler. Here you learn the needle rules and mark two layers of cloth for three lines of stitches."
@@ -2132,7 +2132,7 @@
      "id": "s1",
      "mins": 15,
      "do": "1. A grown-up cuts 10 notches, each 1 cm deep and 1 cm apart, along the top edge of the card. Start 1.5 cm from the side. Cut 10 more along the bottom edge. 2. Tape one end of the string to the back. Bring it through the first bottom notch and up the front to the first top notch. 3. Take it behind the card to the second top notch and down the front to the second bottom notch. 4. Carry on until 10 strings cross the front. Tape the end at the back. 5. Cut rings 1.5 cm wide from the body of the T-shirt. Cut each ring open to make a long strip.",
-     "say": "This string is the warp. It must be tight, like the strings of a veena. How many warp threads can you count on the front?",
+     "say": "This string is the warp. It must be tight. How many warp threads can you count on the front?",
      "kid": "A grown-up cuts the notches. Wind the string up and down the front. Count 10 warp threads. Cut the T-shirt into strips.",
      "adult": true,
      "parent": "Pull each T-shirt strip gently and its edges curl in, so it becomes a soft round yarn. T-shirt cloth is knitted, so the cut edges do not fray.",
@@ -2142,7 +2142,7 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Fix one end of a strip in the hair pin. 2. Weave the first row: over one string, under the next, right across. Leave a tail of 3 cm at the start. 3. Weave back the other way: under where the last row went over. 4. Push each row down with the comb. 5. Do not pull the strip tight at the edges. 6. To join a new strip, lay its end over the old end for 3 cm and weave them together. 7. Weave 8 rows.",
-     "say": "Weave the strip over one string, then under the next, and keep going. On the way back, do the opposite. Go under the strings that you went over. What would happen if two rows went the same way?",
+     "say": "Weave the strip over one string, then under the next, and keep going. On the way back, do the opposite. Go under the strings that you went over.",
      "kid": "Weave over one string and under the next. Go back the opposite way. Push each row down. Weave 8 rows.",
      "wait": "Carry on tomorrow",
      "ask": [
@@ -2220,7 +2220,7 @@
     "Sew a running stitch with one backstitch after every third stitch.",
     "Sew over and over the two edges, so the thread wraps round them like a spring."
    ],
-   "your_turn": "Now design your own seam. Draw it from the side, sew it, time it and test it. Did it pass? Was it faster than seam C in the Leaky Seam Test?",
+   "your_turn": "Now design your own seam. Draw it from the side or describe it, then sew it, time it and test it. Did it pass? Was it faster than seam C in the Leaky Seam Test?",
    "setup": [
     {
      "art": "Two small cloth pieces being sewn together with two rows of stitches, a phone timer running beside them.",
@@ -2252,9 +2252,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Design a seam of your own and draw it from the side. 2. Sew it, time it and test it. 3. Compare all your seams in one table.",
+     "do": "1. Design a seam of your own and draw it from the side, or show it with your hands. 2. Sew it, time it and test it. 3. Compare all your seams in one table.",
      "say": "Which seam passed the test in the least time? What made it work?",
-     "kid": "Design your own seam. Draw it. Sew it and test it. Which seam is best?",
+     "kid": "Design your own seam. Draw it or show it with your hands. Sew it and test it. Which seam is best?",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2298,7 +2298,7 @@
     "Twist one end of the cloth into a rope and use it as the belt for the rest.",
     "Cross two corners over the chest and knot them behind the neck."
    ],
-   "your_turn": "Now design your own way to wear the cloth. Test it with 10 jumps and a walk across the room. Draw it, and write what holds it up.",
+   "your_turn": "Now design your own way to wear the cloth. Test it with 10 jumps and a walk across the room. Take a photo, or draw it, and say what holds it up.",
    "setup": [
     {
      "art": "A child wrapping a striped towel round her waist over her clothes and rolling its top edge down.",
@@ -2339,9 +2339,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Design your own way. 2. Test it with 10 jumps, a walk, sitting down and lifting both arms. 3. Draw it and label what holds it up.",
-     "say": "Now invent your own. What will hold it up when you jump? Draw it and mark the place where friction or a knot does the work.",
-     "kid": "Invent your own way. Test it: jump, walk, sit and lift your arms. Draw it.",
+     "do": "1. Design your own way. 2. Test it with 10 jumps, a walk, sitting down and lifting both arms. 3. Take a photo of it, or draw it, and tell what holds it up.",
+     "say": "Now invent your own. What will hold it up when you jump? Show me the place where friction, the grip between two things that touch, or a knot does the work.",
+     "kid": "Invent your own way. Test it: jump, walk, sit and lift your arms. Take a photo of it.",
      "check": {
       "t": "mcq",
       "q": "Why does a sari waste no cloth, when a shirt cut from the same cloth does?",

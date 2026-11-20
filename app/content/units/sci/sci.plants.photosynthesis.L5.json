@@ -625,16 +625,16 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 20 cards. 2. Shuffle them. 3. Put them in a pile, food side up. 4. Keep a paper and pencil for the points.",
-     "say": "Each card names a food. We follow the food backwards, one living being at a time, until we reach the Sun.",
+     "say": "Each card names a food. We will find out what every food starts with. We follow the food backwards, one living being at a time, until we reach the Sun.",
      "kid": "Cut out the cards. Shuffle them. Put them in a pile. Get a pencil for the points.",
      "context": "This is the first step of Back to the Sun. Here you set up the cards."
     },
     {
      "id": "s2",
      "mins": 13,
-     "do": "1. Read the top card aloud. 2. Say the chain from the Sun to you. 3. Say how many eaters come before you. 4. Turn the card over and check. 5. Write down the points.",
-     "say": "Ask the same question at every step. Who made this, and what did they eat? Stop when you reach a living being who makes food from light.",
-     "kid": "Read the card. Ask who made this food. Ask what they ate. Stop at the Sun. Then check.",
+     "do": "1. Read the top card aloud. 2. Say the chain from the Sun to you. 3. Say how many living beings ate something along the way. 4. Turn the card over and check. 5. Write down the points.",
+     "say": "Who made this food, and what did they eat? Ask it again for each living being. Stop when you reach one who makes food from light.",
+     "kid": "Read the card. Say the chain from the Sun to you. Then turn the card and check.",
      "ask": [
       {
        "q": "Curd has two eaters before you. Who are they?",
@@ -650,7 +650,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Count the points. 2. Lay all 20 cards face down, chains showing. 3. Sort them into three heaps: a plant or alga first, no chain from the Sun, and no sunlight at all.",
+     "do": "1. Count the points. 2. Lay all 20 cards out with the chain side up. 3. Sort them into three heaps: a plant or alga first, no chain from the Sun, and no sunlight at all.",
      "say": "Look at the heaps. What comes first in nearly every chain? Which cards were different, and why?",
      "kid": "Count your points. Sort the cards into three heaps. What starts nearly every chain?",
      "check": {
@@ -740,7 +740,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 12 night cards, shuffle them and lay them face down. 2. Copy the score sheet for each player. 3. Put the beans in a bowl.",
-     "say": "You are a plant. By day you make starch. At night you live on it. Your job is to make it last until dawn.",
+     "say": "You are a plant. By day you make starch. At night you live on it. Each night card shows how many parts the night has. Your job is to make your beans last until dawn.",
      "kid": "Cut out the night cards. Shuffle them. Copy the score sheet. Put the beans in a bowl.",
      "context": "This is the first step of Starch Bank. Here you set up the cards, the beans and the score sheet."
     },
@@ -799,7 +799,7 @@
    "title": "Dawn Leaf, Dusk Leaf: does a leaf hold the same starch at sunrise and at sunset?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you pick two leaves from one plant early in the morning, and two more late in the afternoon. You test all four for starch with iodine, to see whether the time of day changes how much starch a leaf holds.",
+   "context": "In this experiment you pick two leaves from one plant early in the morning, and two more late in the afternoon. You test all four for starch with iodine, to see whether the time of day changes how much starch a leaf holds. You will find out whether a leaf stores food in the day and uses it up at night.",
    "question": "Does a leaf hold more starch at the end of the day, at the end of the night, or the same at both times?",
    "predict": "Guess first. Two leaves are picked at sunrise and two at sunset, from the same plant. Which pair will go darker with iodine: the sunrise pair, the sunset pair, or both the same? Write your guess and your reason for it.",
    "fair_test": "Change only the time of picking. Use one plant. Pick leaves of the same size from the same sunny side. Treat all four leaves in the same tumbler of spirit for the same time, and use the same iodine. Test two leaves from each time, because one leaf alone can be odd.",
@@ -846,7 +846,7 @@
      "what": "Late afternoon of the same sunny day: pick two dusk leaves, test all four leaves and score them."
     }
    ],
-   "record": "Fill in the table for all four leaves. Draw each leaf and colour it as it looks after the iodine. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "record": "Fill in the table for all four leaves. Take a photo of each leaf after the iodine, or draw and colour it. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: starch score of each leaf",
@@ -968,7 +968,7 @@
      "mins": 8,
      "do": "1. Your child fills in the table. 2. Ask for the three sentences. 3. Ask where the starch went in the night. 4. Only then read the card 'How a leaf makes the day's starch last all night' together.",
      "say": "Say what you thought would happen, what you saw, and why you think it happened. The dawn leaves had all night. So where did their starch go?",
-     "kid": "Fill in the table. Say what you thought. Say what you saw. Say why. Where did the starch go?",
+     "kid": "Fill in the table. Say what you thought, what you saw, and why.",
      "ask": [
       {
        "q": "Where did the dawn leaves' starch go during the night?",
@@ -1005,7 +1005,7 @@
    "title": "The White Patch: does a leaf make starch where it is not green?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you test a leaf that has green parts and white parts. You draw a map of the colours first, then do the iodine test, to see where the leaf made starch.",
+   "context": "In this experiment you test a leaf that has green parts and white parts. You draw a map of the colours first, then do the iodine test. You will find out whether a leaf needs chlorophyll to make starch.",
    "question": "Does a leaf make starch in its white parts as well as its green parts? And what about a red or purple leaf?",
    "predict": "Guess first. After the iodine test, which parts of a green and white leaf will be blue-black: the green parts, the white parts, or all of the leaf? If you have a red leaf too, guess for that one. Write your guesses and the reason for each.",
    "fair_test": "The green and the white parts are on one leaf. So they had the same light, the same water and the same air. The only difference between them is the chlorophyll. Pick the leaf in the afternoon of a sunny day, when a leaf holds the most starch.",
@@ -1051,7 +1051,7 @@
      "what": "On the afternoon of a sunny day: draw the leaf map, guess, do the iodine test and compare the leaf with the map."
     }
    ],
-   "record": "Keep the leaf map. Beside it, draw the leaf after the iodine test. Fill in the table. Then write what you thought, what you saw and why you think it happened.",
+   "record": "Keep the leaf map. Beside it, put the leaf after the iodine test and take a photo, or draw it. Fill in the table. Then write what you thought, what you saw and why you think it happened.",
    "setup": [
     {
      "art": "A green and white leaf lying on paper while a child traces round it and shades the green parts with a crayon.",
@@ -1100,7 +1100,7 @@
      "mins": 6,
      "do": "1. Ask for the three sentences. 2. Ask how the white patch stays alive. 3. Only then read the card 'No chlorophyll, no starch' together.",
      "say": "Say what you thought, what you saw and why. The white part makes no starch. So how does it stay alive?",
-     "kid": "Say what you thought. Say what you saw. Say why. How does the white part stay alive?",
+     "kid": "Say what you thought, what you saw, and why. Then think about the white part.",
      "ask": [
       {
        "q": "How does the white part of the leaf stay alive?",
@@ -1132,48 +1132,48 @@
    "title": "Plate to Sun: follow your meal backwards",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you take a real meal and follow each food on it backwards, one living being at a time. You find out where every trail ends.",
+   "context": "In this activity you take a real meal and follow each food on it backwards, one living being at a time. You find out where every trail ends, and what nearly every trail has in common.",
    "materials": [
     {
      "item": "today's lunch or dinner, or a list of what you ate yesterday",
      "qty": 1
     },
     {
-     "item": "a large sheet of paper and a pencil",
+     "item": "a large sheet of paper, a few small paper slips and a pencil",
      "qty": 1
     }
    ],
-   "record": "Keep the drawing of the plate with its trails. Under it, write the one thing that nearly every trail passes through.",
+   "record": "Take a photo of your trails. Then write the one thing that nearly every trail passes through.",
    "setup": [
     {
      "art": "A sheet of paper with a circle for a plate in the middle and the names of five foods written inside it.",
-     "caption": "1. Draw your plate and write each food on it."
+     "caption": "1. Write each food on its own slip and lay the slips in a ring."
     },
     {
      "art": "The same sheet with arrows leading out from each food to a cow, a hen, a paddy plant and a fish, and on to grass and tiny sea algae.",
-     "caption": "2. From each food, draw the trail back: who made it, and what did they eat?"
+     "caption": "2. From each food, lay slips back along the trail: who made it, and what did they eat?"
     },
     {
      "art": "The finished sheet with every trail ending at a small Sun in one corner, and salt and water circled with no trail.",
-     "caption": "3. See where the trails end. Circle anything with no trail."
+     "caption": "3. See where the trails end. Put aside anything with no trail."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw a big circle for the plate in the middle of the paper. 2. Write each food of the meal inside it, with salt and water too. 3. Ask the opening question.",
+     "do": "1. Write each food of the meal on its own paper slip, with salt and water too. 2. Lay the slips in a ring on the big paper, like a plate. 3. Ask the opening question.",
      "say": "Here is our meal. Is there one food here that did not need sunlight? Which one, and why do you think so?",
-     "kid": "Draw your plate. Write every food on it. Is there one that did not need sunlight? Say why.",
+     "kid": "Write each food on a slip. Lay them in a ring. Is there one that did not need sunlight? Say why.",
      "parent": "Do not correct the guess. Many children pick egg, fish, milk or mushroom.",
      "context": "This is the first step of Plate to Sun. Here you draw your meal and make a guess."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Take one food at a time. 2. Ask who made it, and draw an arrow to that living being. 3. Ask what they ate, and draw the next arrow. 4. Go on until you reach a being who makes food from light. 5. Draw the Sun there.",
-     "say": "Who made this food? And what did they eat? Keep asking until you reach someone who eats nothing at all.",
-     "kid": "Pick one food. Who made it? What did they eat? Draw arrows back until you reach the Sun.",
+     "do": "1. Take one food at a time. 2. Ask who made it, and lay a slip with that living being next to it. 3. Ask what they ate, and add the next slip. 4. Go on until you reach a being who makes food from light. 5. Add a slip that says Sun.",
+     "say": "Who made this food? And what did they eat? Keep asking until you reach the Sun.",
+     "kid": "Pick one food. Who made it? What did they eat? Add slips until you reach the Sun.",
      "ask": [
       {
        "q": "Who in the trail eats nothing at all?",
@@ -1190,9 +1190,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Count how many trails end at the Sun. 2. Circle anything that has no trail. 3. Ask what nearly every trail passed through just before the Sun.",
+     "do": "1. Count how many trails end at the Sun. 2. Put aside anything that has no trail. 3. Ask what nearly every trail passed through just before the Sun.",
      "say": "Where did the trails end? What is the last living being on each trail before the Sun? What do those beings share?",
-     "kid": "Count the trails that reach the Sun. Circle anything with no trail. What comes just before the Sun?",
+     "kid": "Count the trails that reach the Sun. Put aside anything with no trail. What comes just before the Sun?",
      "check": {
       "t": "mcq",
       "q": "A boiled egg is on your plate. Where does the egg's trail lead?",
@@ -1230,7 +1230,7 @@
     }
    ],
    "safety": "Do not eat any slice that iodine has touched. Taste only clean slices. A grown-up cuts the raw banana, which is hard.",
-   "record": "Draw the three slices as they look after the iodine. Under each, write how sweet a clean slice of that banana tasted, from 0 to 3.",
+   "record": "Take a photo of the three slices after the iodine, or draw them. Under each, write how sweet a clean slice of that banana tasted, from 0 to 3.",
    "setup": [
     {
      "art": "Three bananas in a row on a kitchen counter: one green, one yellow, one yellow with brown spots.",
@@ -1259,16 +1259,16 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Mix 10 drops of iodine with about 50 drops of water in the cup. 2. Spoon the mix over the three slices on the plate. 3. Wait 2 minutes. 4. Your child draws the three slices.",
+     "do": "1. Mix 10 drops of iodine with about 50 drops of water in the cup. 2. Spoon the mix over the three slices on the plate. 3. Wait 2 minutes. 4. Your child puts the three slices in order, darkest first.",
      "say": "Watch the three slices. Where does the dark colour show first? Is it the same all over each slice?",
-     "kid": "Pour iodine on the three slices. Wait 2 minutes. Draw what you see.",
+     "kid": "Pour iodine on the three slices. Wait 2 minutes. Put them in order, darkest first.",
      "parent": "The raw slice goes blue-black all over. The just-ripe slice is patchy. The very ripe slice stays mostly yellow-brown. Throw the tested slices away.",
      "context": "This is the main step of the Banana Clock. Here you do the iodine test on three slices."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Lay the sweetness scores beside the drawings. 2. Ask what happened to the starch as the banana ripened. 3. Then read the card 'Sugar for now, starch for later, sucrose for travel'.",
+     "do": "1. Lay the sweetness scores beside the slices. 2. Ask what happened to the starch as the banana ripened. 3. Then read the card 'Sugar for now, starch for later, sucrose for travel'.",
      "say": "The sweetest banana had the least starch. What do you think the banana did with the starch?",
      "kid": "Compare sweetness with darkness. Where did the starch go as the banana got ripe?",
      "ask": [
@@ -1322,7 +1322,7 @@
     }
    ],
    "safety": "Surgical spirit catches fire easily, so keep it away from any flame, and let only a grown-up pour it. Never shine an ultraviolet torch into anyone's eyes. Do not drink the green liquid.",
-   "record": "Draw the glass in the dark with the torch beam passing through it. Colour the beam as you saw it. Write one sentence on what the chlorophyll did with the light.",
+   "record": "Say what colour the beam was in each glass, or draw the glass in the dark and colour the beam. Write one sentence on what the chlorophyll did with the light.",
    "setup": [
     {
      "art": "A child crushing torn palak leaves with the back of a spoon in a steel bowl with a little clear liquid.",
@@ -1342,7 +1342,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Tear the leaves into small bits in the steel bowl. 2. A grown-up adds 4 tablespoons of spirit. 3. Crush the leaves hard with the back of the spoon for 3 minutes. 4. Strain the liquid through the cloth into a clear glass.",
-     "say": "We are taking the chlorophyll out of the leaves. Why are we using spirit, and not water?",
+     "say": "We are taking the chlorophyll out of the leaves. We will use spirit, not water.",
      "kid": "Tear the leaves. A grown-up adds spirit. Crush hard for 3 minutes. Strain the green liquid.",
      "adult": true,
      "ask": [
@@ -1409,7 +1409,7 @@
     }
    ],
    "safety": "A grown-up pours the just-boiled water and lifts the leaves out.",
-   "record": "Draw a leaf before and after the hot water. Draw the water too, and colour it. Write where each pigment went.",
+   "record": "Lay the leaf you kept aside beside the leaf from the hot water and take a photo, or draw both. Write where each pigment went.",
    "setup": [
     {
      "art": "Four red amaranth leaves on a white plate beside a cup of steaming water.",
@@ -1448,7 +1448,7 @@
      "mins": 5,
      "do": "1. A grown-up lifts one leaf out onto the plate. 2. Put it beside the leaf you kept aside. 3. Ask where the red went, and why the green stayed.",
      "say": "Where is the red now? Where is the green? One pigment went into the water and one did not. What does that tell you about each?",
-     "kid": "Compare the two leaves. Where did the red go? Why did the green stay in the leaf?",
+     "kid": "Compare the two leaves. Look at the colour of each one.",
      "ask": [
       {
        "q": "Why did the red leave and the green stay?",
@@ -1478,7 +1478,7 @@
    "title": "Measure the Sun Catcher: how much leaf does one plant hold out?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you measure the area of a few leaves on squared paper. Then you work out the area of all the leaves on one potted plant, and compare it with the area of the pot.",
+   "context": "In this activity you measure the area of a few leaves on squared paper. Then you work out the area of all the leaves on one potted plant, and compare it with the area of the pot. You will find out how many times more leaf than pot a plant holds out to the light.",
    "materials": [
     {
      "item": "a potted plant with fewer than about 60 leaves",
@@ -1521,7 +1521,7 @@
      "id": "s2",
      "mins": 12,
      "do": "1. Choose a small, a middle and a big leaf. 2. Hold each one flat on the squared paper, still on the plant, and trace round it. 3. Count the whole squares inside. 4. Count a part square as 1 if it is half or more, and as 0 if it is less. 5. Add the three areas and divide by 3.",
-     "say": "Each square is one square centimetre. Count the squares inside each outline. Then find the mean of the three leaves.",
+     "say": "Each square is one square centimetre. Count the squares inside each outline. The mean is the three areas added up, then divided by 3.",
      "kid": "Trace three leaves. Count the squares in each. Add the three numbers. Divide by 3.",
      "parent": "Counting part squares this way is an estimate, and that is fine. The mean of a small, a middle and a big leaf stands for all the leaves.",
      "context": "This is the main step of Measure the Sun Catcher. Here you measure three leaves on squared paper."
@@ -1580,7 +1580,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Rule the paper into six boxes. 2. Ask your child to tell the journey aloud first, in their own words. 3. Write six short titles together, one for each box.",
-     "say": "Tell me the journey first. A photon leaves the Sun. What happens to its energy, step by step, until someone eats it?",
+     "say": "A photon is one tiny packet of light. Tell me the journey first. A photon leaves the Sun. What happens to its energy, step by step, until someone eats it?",
      "kid": "Rule six boxes. Tell the journey aloud first. Write a short title in each box.",
      "parent": "One good plan: 1 leaving the Sun, 2 caught by chlorophyll, 3 sugar is built, 4 stored as starch at dusk, 5 sent as sucrose at night, 6 eaten.",
      "context": "This is the first step of A Photon's Journey. Here you plan the six boxes of the comic."
@@ -1588,9 +1588,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Your child draws the six boxes. 2. In box 2, they draw what they think happens inside the chloroplast, including what cannot be seen. 3. They add one sentence under each box.",
-     "say": "Draw what you think happens, even the parts nobody can see. A drawing that explains is called a model.",
-     "kid": "Draw all six boxes. Show the parts nobody can see too. Write one sentence under each.",
+     "do": "1. Your child makes the six boxes. They draw each one. Or they lay out small things in it, such as a torch for the Sun, a leaf, or a bean for starch. 2. In box 2, they show what they think happens inside the chloroplast, including what cannot be seen. 3. They add one sentence under each box.",
+     "say": "Show what you think happens, even the parts nobody can see. A drawing or an arrangement that explains an idea is called a model.",
+     "kid": "Make all six boxes, by drawing or with small things. Show the parts nobody can see too. Write one sentence under each.",
      "context": "This is the main step of A Photon's Journey. Here you draw the comic strip."
     },
     {
@@ -1696,7 +1696,7 @@
      "mins": 15,
      "do": "1. Take off both covers. 2. Lay the two prints side by side. 3. Your child says which half changed most. 4. Ask why a living leaf in the same window stays green.",
      "say": "Which half faded most? A leaf on a plant sits in the sun for months and stays green. So what is different about a living leaf?",
-     "kid": "Take off the covers. Which half faded most? Why does a living leaf stay green?",
+     "kid": "Take off the covers. Lay the prints side by side. Which half faded most?",
      "wait": "Do this on day 5",
      "ask": [
       {
@@ -1753,7 +1753,7 @@
     "Fix the leaves in pairs, and turn each pair a quarter turn from the pair below, as a tulsi plant does.",
     "Make each leaf point a little downward, so that light slips past it to the leaf below."
    ],
-   "your_turn": "Now design your own leaf tower. Draw it, build it and score it from above. Then move the lamp to one side, as the Sun is in the morning, and score it again from where the lamp is. Which design was best for both?",
+   "your_turn": "Now design your own leaf tower. Plan it on paper or with loose leaves, build it and score it from above. Then move the lamp to one side, as the Sun is in the morning, and score it again from where the lamp is. Which design was best for both?",
    "setup": [
     {
      "art": "A stick standing upright in a lump of dough, with twelve cut-out paper leaves on toothpick stalks lying beside it.",
@@ -1797,9 +1797,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Your child designs a tower of their own and draws it from above. 2. They build it and score it. 3. Move the lamp, or your eye, to one side and score it again. 4. Look at a real plant from above and compare.",
+     "do": "1. Your child plans a tower of their own, on paper or by laying the loose leaves out as seen from above. 2. They build it and score it. 3. Move the lamp, or your eye, to one side and score it again. 4. Look at a real plant from above and compare.",
      "say": "Now design your own. What will you change, and why? Then look down on a real plant. What has the plant done about shade?",
-     "kid": "Design your own tower. Draw it. Build it. Score it. Then look down on a real plant.",
+     "kid": "Design your own tower. Plan it on paper or with loose leaves. Build it. Score it. Then look down on a real plant.",
      "parent": "Look down on a tulsi, a hibiscus or a papaya plant from above. You will see very little overlap between the leaves.",
      "check": {
       "t": "mcq",

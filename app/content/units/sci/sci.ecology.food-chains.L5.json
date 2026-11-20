@@ -589,7 +589,7 @@
      "mins": 5,
      "do": "1. Count the points. 2. Look again at the cards that were got wrong. 3. Ask which true story on the cards was the most surprising.",
      "say": "Which card fooled us? Which true story surprised you most?",
-     "kid": "Count your points. Which card fooled you? Which true story surprised you most?",
+     "kid": "Count your points. Pick the card that fooled you most.",
      "check": {
       "t": "mcq",
       "q": "Snakes eat rats and frogs. Rats eat paddy. Frogs eat grasshoppers, who eat paddy. The snakes are killed. What happens to the paddy?",
@@ -741,7 +741,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the 20 cards and the mat. 2. Shuffle the cards. 3. Read the five box names aloud.",
-     "say": "There are five ways to get food. Let's see where each of these beings belongs.",
+     "say": "There are five boxes. Herbivores eat plants. Carnivores eat animals. Omnivores eat both. Scavengers eat animals that are already dead. Decomposers break down dead things. Let's see where each being belongs.",
      "kid": "Cut out the cards and the mat. Mix the cards. Read the five box names.",
      "context": "This is the first step of Which Box? Here you set up the cards and the mat with five boxes."
     },
@@ -759,7 +759,7 @@
      "mins": 3,
      "do": "1. Count the points. 2. Look at the cards lying across two boxes. 3. Ask why some animals do not fit in one box.",
      "say": "Three cards lie across two boxes. Why don't these animals fit in one?",
-     "kid": "Count your points. Look at the cards across two boxes. Why don't they fit in one?",
+     "kid": "Count your points. Find the cards that lie across two boxes.",
      "ask": [
       {
        "q": "Why do some animals fit two boxes?",
@@ -791,7 +791,7 @@
    "title": "The Two Webs Test: which web loses more when three beings go?",
    "mins": 44,
    "days": 1,
-   "context": "In this experiment you draw two paper food webs of the same forest. In the narrow web each animal eats one food. In the wide web most animals eat several. You take the same three beings out of both and count who is left.",
+   "context": "In this experiment you find out which food web copes better when three beings disappear. You make two paper webs of the same forest. In the narrow web each animal eats one food. In the wide web most animals eat several. You take the same three beings out of both and count who is left.",
    "question": "Two webs have the same 10 beings. When the same 3 beings disappear from both, which web has more beings left: the one with 7 links or the one with 18 links?",
    "predict": "Guess first. Three beings will be taken from both webs. Will the narrow web or the wide web have more beings left, or will they be the same? Why do you think so? Write your guess and your reason.",
    "fair_test": "Both webs have the same 10 beings. In each round, the same 3 beings are taken from both webs. Only the number of arrows is different. Play 6 rounds, because one draw of cards can be a fluke.",
@@ -830,7 +830,7 @@
      "what": "Draw the narrow web and the wide web. Guess. Play 6 rounds of taking 3 beings away. Find the averages and explain them."
     }
    ],
-   "record": "Fill in the table for 6 rounds. Find the average number left in each web, and draw two bars. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
+   "record": "Fill in the table for 6 rounds. Find the average number left in each web, and show them as two coin towers. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: average number of beings left out of 10",
@@ -879,7 +879,7 @@
      "mins": 3,
      "do": "1. Put one token on every name on both sheets. 2. Write the 10 names on 10 slips of paper and fold them. 3. Explain that 3 beings will be taken from both webs. 4. Ask for a guess and a reason, and write them down.",
      "say": "We will take the same three beings away from both webs. Which web will have more beings left afterwards? Or will they be the same? Why do you think so?",
-     "kid": "Put a token on every name. Three beings will be taken from both webs. Which web will have more left? Why? Write your guess.",
+     "kid": "Put a token on every name. Three beings will be taken from both webs. Guess which web will have more left.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -921,9 +921,9 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. Add up the 6 numbers for the narrow web and divide by 6. Do the same for the wide web. 2. Draw two bars to compare the averages. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask what the paper model leaves out.",
+     "do": "1. Add up the 6 numbers for the narrow web and divide by 6. Do the same for the wide web. 2. Stack coins into two towers, as tall as the two averages (round to a whole number). 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Ask what the paper model leaves out.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why did it happen?",
-     "kid": "Find the average for each web. Draw two bars. Say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Find the average for each web. Stack two coin towers. Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
        "q": "Why did the wide web lose fewer beings?",
@@ -970,7 +970,7 @@
    "title": "The Leaky Bottle: what keeps a level steady?",
    "mins": 34,
    "days": 1,
-   "context": "In this experiment a thin stream of tap water runs into a bottle with a hole near the base. It is a model of a population, where births add and deaths take away. You find out what the water level does.",
+   "context": "In this experiment a thin stream of tap water runs into a bottle with a hole near the base. The bottle is a model of a herd of animals, where births add and deaths take away. You find out why the water level stops rising even though water keeps coming in.",
    "question": "Water runs into a bottle and out through a hole at the same time. Does the level keep rising, keep falling, or stop at one height? What does a second hole do?",
    "predict": "Guess first. When water runs in at the top and out at the hole, what will the level do? Then guess what will happen to the level if you open a second hole of the same size. Why do you think so? Write both guesses and your reasons.",
    "fair_test": "Use the same bottle and the same tap all through. Once the stream is set, do not touch the tap again. Only one thing changes at a time: first a finger over the hole for a count of 30, then a second hole.",
@@ -1017,7 +1017,7 @@
      "what": "Make the bottle. Guess. Let the level settle with one hole. Cover the hole for a count of 30 and watch the level return. Open the second hole and find the new level."
     }
    ],
-   "record": "Write the level every minute in the table. Draw a line graph of level against minutes. Mark where you covered the hole and where you opened the second hole. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
+   "record": "Write the level every minute in the table. Draw a line graph of level against minutes, or just read the numbers aloud and say where the level stopped changing. Mark where you covered the hole and where you opened the second hole. Then write three sentences: what you thought would happen, what you saw, and why it happened.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example results: water level in the Leaky Bottle",
@@ -1137,7 +1137,7 @@
      "mins": 3,
      "do": "1. Show how the test will work, without turning on the tap. 2. Ask what the level will do when water runs in and out together. 3. Ask what a second hole will do to the level. 4. Write down both guesses and the reasons.",
      "say": "Water will run in at the top and out at the hole. What will the level do? Later we will open a second hole. What will the level do then? Why do you think so?",
-     "kid": "Water will run in and out together. What will the level do? What will a second hole do? Say why. Write your guesses.",
+     "kid": "Guess what the level will do. Then guess what a second hole will do. Write your guesses.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1233,9 +1233,9 @@
    "title": "Ants and the Sugar Drop: how fast do eaters follow their food?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you put a drop of sugar water where ants walk. You count the ants every 2 minutes as they gather. Then you take the sugar away and keep counting.",
+   "context": "In this experiment you put a drop of sugar water where ants walk. You find out how fast ants gather at food, and how fast they leave when it is gone. You count the ants every 2 minutes.",
    "question": "When food appears, how quickly does the number of ants rise? When the food is taken away, how quickly does the number fall?",
-   "predict": "Guess first. Sketch how you think the number of ants will change over 16 minutes. Then guess how many minutes the ants will stay after the sugar is taken away. Why do you think so? Write your guesses and your reasons.",
+   "predict": "Guess first. How many ants will you count after 16 minutes? Will the number rise steadily, or slowly at first? Then guess how many minutes the ants will stay after the sugar is taken away. Why do you think so? Write your guesses and your reasons.",
    "fair_test": "Count only the ants inside the circle. Count every 2 minutes by the clock. Do not move the paper, blow on the ants or add more sugar during the test.",
    "results_table": [
     "Minutes since the first ant arrived",
@@ -1364,9 +1364,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. While you wait for the first ant, ask for a guess. 2. Ask your child to sketch how the number of ants will change over 16 minutes. 3. Ask how long the ants will stay once the sugar is gone, and why.",
+     "do": "1. While you wait for the first ant, ask for a guess. 2. Ask your child to guess how many ants there will be after 16 minutes. Will the number rise steadily, or slowly at first? 3. Ask how long the ants will stay once the sugar is gone, and why.",
      "say": "How do you think the number of ants will change? Will it rise steadily, or slowly at first? When we take the sugar away, how soon will they leave? Why do you think so?",
-     "kid": "Sketch how the number of ants will change. When the sugar goes, how soon will they leave? Say why.",
+     "kid": "Guess how many ants will come. When the sugar goes, how soon will they leave?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1407,9 +1407,9 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. Draw a line graph of the number of ants against minutes. 2. Mark the minute when the sugar was taken away. 3. Ask your child to say what they thought would happen, what they saw, and why it happened.",
+     "do": "1. Draw a line graph of ants against minutes, or read the counts aloud and say where the jump was biggest. 2. Mark the minute when the sugar was taken away. 3. Ask your child to say what they thought would happen, what they saw, and why it happened.",
      "say": "Look at your graph. What did you think would happen? What did you see? Why did it happen?",
-     "kid": "Draw your line graph. Mark when the sugar went. Say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Draw your line graph (or say where the biggest jump was). Mark when the sugar went. Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
        "q": "Owls and snakes eat rats. If rats suddenly had far more food, would the owls and snakes multiply at once?",
@@ -1441,7 +1441,7 @@
    "title": "Chain to Web: count the arrows",
    "mins": 12,
    "days": 1,
-   "context": "This short activity starts the unit. You take one food chain and add what each animal really eats, until the chain becomes a food web. Then you count the links.",
+   "context": "This short activity starts the unit. You take one food chain and add what each animal really eats, until the chain becomes a food web. You will see how many more links the animals really have than the chain shows.",
    "materials": [
     {
      "item": "a sheet of paper",
@@ -1476,7 +1476,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Point to each animal in turn. Ask what else she eats, and who else eats her. 2. Write each new being on the paper. 3. Draw every new arrow in colour, from the food to the eater. 4. Add at least 5 new beings.",
+     "do": "1. Point to each animal in turn. Ask what else she eats, and who else eats her. 2. Write each new being on the paper. 3. Draw every new arrow in colour, from the food to the eater. 4. Add at least 5 new beings. If your child would rather not draw, they can point and tell you each new link while you draw it.",
      "say": "Does a frog eat only grasshoppers? Does a snake eat only frogs? Let's add what each one really eats.",
      "kid": "Look at each animal. What else does she eat? Who else eats her? Add 5 new beings. Draw the new arrows in colour.",
      "parent": "Some true links to offer if your child is stuck: a frog also eats flies. A snake also eats rats and lizards. An eagle also eats rats and lizards. A rat eats grass seeds and paddy. A lizard and a myna eat grasshoppers. A grasshopper also eats paddy leaves.",
@@ -1485,9 +1485,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Count all the beings and all the arrows now. 2. Divide the arrows by the beings. 3. Ask what the web shows that the chain did not.",
+     "do": "1. Count all the beings and all the arrows now. 2. Divide the arrows by the beings, to find how many links each being has on average. 3. Ask what the web shows that the chain did not.",
      "say": "How many arrows are there now? What can you see in the web that the chain was hiding?",
-     "kid": "Count the beings. Count the arrows. Divide arrows by beings. What does the web show that the chain hid?",
+     "kid": "Count the beings. Count the arrows. Divide arrows by beings.",
      "ask": [
       {
        "q": "What does the web show that the chain did not?",
@@ -1507,7 +1507,7 @@
    "title": "Take the Snakes Away: follow a change through a web",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw a small food web of a paddy field. You take the rat snakes away and follow the change step by step. Coins show who becomes more and who becomes fewer.",
+   "context": "In this activity you draw a small food web of a paddy field. You find out how taking away one animal, the rat snake, changes many others, one step at a time. Coins show who becomes more and who becomes fewer.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -1590,7 +1590,7 @@
      "qty": 1
     },
     {
-     "item": "a pencil, a ruler and two colour pencils",
+     "item": "a pencil, a ruler and two colour pencils, and, if you like, 100 dry chana or beans",
      "qty": 1
     }
    ],
@@ -1618,7 +1618,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Draw a box 10 squares wide and 10 squares tall. It holds 100 squares, for 100 eggs. 2. Work out how many such boxes make 4,000 eggs. 3. Colour 2 squares for the young who live. 4. Next to it, draw 12 squares for the cubs a tigress may have in her life. Colour 2.",
+     "do": "1. Draw a box 10 squares wide and 10 squares tall. It holds 100 squares, for 100 eggs. 2. Work out how many such boxes make 4,000 eggs. 3. Colour 2 squares for the young who live. Or lay out 100 chana as eggs and move 98 away. 4. Next to it, draw 12 squares for the cubs a tigress may have in her life. Colour 2.",
      "say": "One box is 100 eggs. How many boxes would we need for 4,000? Only two squares in all those boxes get coloured.",
      "kid": "Draw a box of 100 squares. You would need 40 boxes for 4,000 eggs. Colour 2 squares. Now draw 12 squares for a tigress. Colour 2.",
      "ask": [
@@ -1637,7 +1637,7 @@
      "mins": 4,
      "do": "1. Ask where the other 3,998 went. 2. Ask who was fed by them. 3. Ask why a frog needs so many young and a tigress needs so few.",
      "say": "Where did the other 3,998 go? Who ate them? Why does a frog lay thousands of eggs, when a tigress has two or three cubs?",
-     "kid": "Where did the other 3,998 go? Who ate them? Why does a frog need so many young?",
+     "kid": "Tell your grown-up where the other 3,998 went and who ate them.",
      "check": {
       "t": "mcq",
       "q": "Why do animals who are eaten often have many young?",
@@ -1658,7 +1658,7 @@
    "title": "The Ten-Year Wave: draw two lines and find the delay",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you plot the numbers of hares and of lynx over 20 years on one graph. A lynx is a wild cat who hunts hares. The numbers are made up, but they are shaped like real records kept by fur traders in Canada.",
+   "context": "In this activity you plot the numbers of hares and of lynx over 20 years on one graph. You find out whether the lynx rise at the same time as the hares, or later. A lynx is a wild cat who hunts hares. The numbers are made up, but they are shaped like real records kept by fur traders in Canada.",
    "materials": [
     {
      "item": "a sheet of squared or graph paper",
@@ -1797,7 +1797,7 @@
      "mins": 5,
      "do": "1. Draw a line along the bottom of the paper and mark years 1 to 20. 2. Draw a line up the side and mark 0 to 100 in tens. 3. Before plotting, ask for a guess. When hares become many, what will happen to the lynx, and when?",
      "say": "A lynx eats hares. When there are many hares, what will happen to the number of lynx? Will it happen in the same year, or later? Why?",
-     "kid": "Draw the two axes. Mark years 1 to 20 along the bottom. Mark 0 to 100 up the side. When hares are many, what happens to the lynx? When?",
+     "kid": "Draw the two axes. Mark years 1 to 20 along the bottom. Mark 0 to 100 up the side. Then make your guess.",
      "parent": "Hares in thousands, year 1 to 20: 20, 40, 70, 100, 80, 40, 15, 10, 10, 15, 25, 45, 75, 100, 75, 35, 15, 10, 10, 20. Lynx in thousands, year 1 to 20: 5, 8, 15, 30, 45, 50, 30, 12, 6, 4, 5, 9, 16, 32, 46, 50, 28, 12, 6, 4.",
      "context": "This is the first step of the Ten-Year Wave. Here you draw the axes of a graph and guess how lynx numbers will follow hare numbers."
     },
@@ -1814,7 +1814,7 @@
      "mins": 5,
      "do": "1. Count the years from one hare peak to the next. 2. Count the years from a hare peak to the lynx peak that follows. 3. Ask why the lynx peak comes later, and why the hares crash.",
      "say": "How many years is it from one hare peak to the next? How long after the hares do the lynx reach their peak? Why are they late?",
-     "kid": "Count the years between two hare peaks. Count how late the lynx peak is. Why are the lynx late?",
+     "kid": "Count the years between two hare peaks. Count how late the lynx peak is.",
      "ask": [
       {
        "q": "Why does the lynx peak come after the hare peak?",
@@ -1901,7 +1901,7 @@
      "mins": 4,
      "do": "1. Ask why lantana spreads so fast in India. 2. Ask what could hold lantana back. 3. Tell your child what people do: in some forests, teams pull the bushes out by the root, and grass returns.",
      "say": "In the Americas, lantana does not take over like this. What might be missing here?",
-     "kid": "Why does lantana spread so fast here? What is missing? What could hold lantana back?",
+     "kid": "In its old home, something holds lantana back. What could do that here?",
      "ask": [
       {
        "q": "Why does lantana spread so fast in India?",
@@ -1931,7 +1931,7 @@
    "title": "If the Forest Is Cut: a map of what follows",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you start from one change, a forest being cut down, and map everything that follows from it. Each slip of paper holds one result, and each result leads to more.",
+   "context": "In this activity you find out how one change, a forest being cut down, spreads to animals, soil and even people far away. You map everything that follows from it. Each slip of paper holds one result, and each result leads to more.",
    "materials": [
     {
      "item": "a large sheet of paper or a clear patch of floor",
@@ -1946,7 +1946,7 @@
      "qty": 1
     }
    ],
-   "record": "Copy the finished map into your notebook, with an arrow from each cause to its result.",
+   "record": "Take a photo of the finished map, or copy it into your notebook, with an arrow from each cause to its result.",
    "setup": [
     {
      "art": "A slip of paper in the middle of a floor that reads 'The forest is cut', with three slips around it: 'No leaves or fruit', 'No shade or nests', 'Bare soil'.",
@@ -1981,7 +1981,7 @@
      "mins": 4,
      "do": "1. Ask your child to find the longest chain of arrows on the map. 2. Ask which results reach people. 3. Ask what could be done to stop each chain early.",
      "say": "Which chain is the longest? Which of these results would reach a family in a town far away?",
-     "kid": "Find the longest chain on your map. Which results reach people in towns? What could stop the chain early?",
+     "kid": "Trace the longest chain with your finger. Then find a result that reaches people far away.",
      "check": {
       "t": "mcq",
       "q": "A forest is cut down. Why do the carnivores there suffer, though they never eat plants?",
@@ -2049,7 +2049,7 @@
      "what": "Take one being out and follow the change. Write a short report."
     }
    ],
-   "record": "Keep the list, the web drawing and a half-page report. The report says which being you removed, who changed, and how sure you are.",
+   "record": "Keep the list, the web drawing and the report (spoken, or half a page). The report says which being you removed, who changed, and how sure you are.",
    "setup": [
     {
      "art": "A child at a window with a notebook, listing beings seen in a neem tree outside: a crow, a squirrel, ants, a garden lizard.",
@@ -2093,9 +2093,9 @@
      "id": "s4",
      "mins": 20,
      "wait": "Do the next step tomorrow",
-     "do": "1. Put a coin on every being. 2. Choose one being to remove, and guess who will change. 3. Use the hunger rule and the two rules to follow the change. 4. Write a half-page report. Say who changed, and how sure you are.",
+     "do": "1. Put a coin on every being. 2. Choose one being to remove, and guess who will change. 3. Follow the change with the rules. An animal with no food left is lost. Fewer eaters means more of their food. Less food means fewer eaters. 4. Give a short report, spoken or half a page. Say who changed, and how sure you are.",
      "say": "Which being shall we take out? Who do you think will change, and why? Let's follow it through the web.",
-     "kid": "Put a coin on every being. Take one being out. Who goes hungry? Who becomes more? Write a short report.",
+     "kid": "Put a coin on every being. Take one being out. Who goes hungry? Who becomes more? Tell or write a short report.",
      "ask": [
       {
        "q": "How sure are you of your result? What would make you more sure?",
@@ -2163,7 +2163,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Put a coin on every being. 2. Shake the cards and draw 2. Remove those coins. 3. Use the hunger rule until nobody else is lost. 4. Count who is left and write it down. 5. Do this 5 times and find the average.",
+     "do": "1. Put a coin on every being. 2. Shake the cards and draw 2. Remove those coins. 3. Use the hunger rule (an animal with no food left is lost) until nobody else is lost. 4. Count who is left and write it down. 5. Do this 5 times and find the average.",
      "say": "Two beings are gone. Does anyone have no food left? Check again after each loss.",
      "kid": "Put a coin on every being. Draw 2 cards. Remove those coins. Remove any animal with no food left. Count who is left. Do it 5 times.",
      "parent": "The best possible score is 6 left. A web where every animal has two different foods scores 5 or 6 in nearly every draw.",
@@ -2174,7 +2174,7 @@
      "mins": 10,
      "do": "1. Find the animal who was lost most often. 2. Move one arrow to help that animal. 3. Test 5 more times. 4. Compare the two averages.",
      "say": "Who was lost most often? Why? Which arrow would you move to help?",
-     "kid": "Who was lost most often? Move one arrow to help. Test 5 more times. Compare your averages.",
+     "kid": "Move one arrow to help that animal. Test 5 more times. Compare your two averages.",
      "check": {
       "t": "mcq",
       "q": "You have a fixed number of arrows. Which design loses the fewest animals to hunger?",
@@ -2194,7 +2194,7 @@
    "id": "c2",
    "title": "An Owl Perch for the Paddy Field",
    "mins": 35,
-   "context": "This is an engineering challenge. Farmers in Tamil Nadu put T-shaped perches in paddy fields. Owls sit on them at night and watch for rats. Here you build a model perch from newspaper.",
+   "context": "This is an engineering challenge. Farmers in Tamil Nadu put T-shaped perches in paddy fields. Owls sit on them at night and watch for rats. Here you build a model perch from newspaper. A potato stands in for the owl.",
    "problem": "Build a T-shaped perch from newspaper. It must stand in a pot of soil with its bar at least 30 cm above the soil. It must hold a potato on the bar for one minute.",
    "constraints": [
     "Use only 4 sheets of newspaper, sticky tape and thread.",
@@ -2219,7 +2219,7 @@
     "Use two poles with the bar across both, like a goalpost.",
     "Make the bar from two tubes side by side, so the potato does not roll off."
    ],
-   "your_turn": "Now design your own perch. Draw it, build it and test it with the potato for one minute. Then try to make it taller. How tall can it be and still hold the potato?",
+   "your_turn": "Now design your own perch. Plan it, build it and test it with the potato for one minute. Then try to make it taller. How tall can it be and still hold the potato?",
    "setup": [
     {
      "art": "Hands rolling a sheet of newspaper tightly from one corner into a thin tube, with tape nearby.",
@@ -2234,9 +2234,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Talk about why a farmer wants owls in her field. 2. Ask what an owl needs from a perch. 3. Ask your child to sketch a design before building.",
-     "say": "An owl hunts by sitting still and listening. What does she need from a perch? Sketch your idea first.",
-     "kid": "Why does a farmer want owls? What does an owl need from a perch? Sketch your design.",
+     "do": "1. Talk about why a farmer wants owls in her field. 2. Ask what an owl needs from a perch. 3. Ask your child to tell you the plan before building: how tall it will be, and how the bar will stay up.",
+     "say": "An owl hunts by sitting still and listening. What does she need from a perch? Tell me your idea first.",
+     "kid": "Why does a farmer want owls? What does an owl need from a perch? Tell your plan for the perch.",
      "ask": [
       {
        "q": "What does the farmer gain from the owl, and the owl from the farmer?",
@@ -2262,7 +2262,7 @@
      "mins": 10,
      "do": "1. Improve the weakest part and test again. 2. Ask what poison put out for the rats would do to an owl on this perch. 3. Ask which lasts longer, a perch or a packet of poison.",
      "say": "What was the weakest part? How did you fix it? Now think about the real field. What would rat poison do to the owl?",
-     "kid": "Fix the weakest part. Test again. What would rat poison do to the owl?",
+     "kid": "Fix the weakest part. Test again.",
      "check": {
       "t": "mcq",
       "q": "A farmer puts out rat poison in a field where owls hunt. What can happen to the owls?",

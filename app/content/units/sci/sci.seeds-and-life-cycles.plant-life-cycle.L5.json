@@ -721,18 +721,18 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "1. Cut out the 21 cards. 2. Each player draws a strip of seven boxes and writes the seven stages in order. 3. Read the seven stage names aloud together.",
+          "do": "1. Cut out the 21 cards. 2. Each player takes one rajma seed or button. 3. Each player draws a strip of seven boxes and writes the seven stages in order. 4. 3. Read the seven stage names aloud together.",
           "say": "Every flowering plant must get through seven stages to make new seeds. Each card tells of a plant that got stuck. You find the stage where the plant got stuck.",
-          "kid": "Cut out the cards. Draw seven boxes in a row. Write the seven stages in order.",
+          "kid": "Cut out the cards. Take a rajma seed. Draw seven boxes in a row. Write the seven stages in order.",
           "parent": "The seven stages are germination, growth, flowering, pollination, fertilisation, fruit and seed formation, and seed dispersal.",
           "context": "This is the first step of Where Did the Cycle Stop. You make the cards and the stage strips."
         },
         {
           "id": "s2",
           "mins": 8,
-          "do": "Play the first 10 cards. Read each back aloud. After card 5, ask the question below.",
-          "say": "Listen to the card. How far did this plant get? Which stage came next and failed? Put your rajma there.",
-          "kid": "Listen to the card. How far did the plant get? Mark the stage that failed.",
+          "do": "Play the first 10 cards. Read each card aloud. After card 5, ask the question below.",
+          "say": "Listen to the card. How far did this plant get? Which stage came next and failed? Put your rajma on that box.",
+          "kid": "Listen to the card. Put your rajma on the stage that failed.",
           "ask": [
             {
               "q": "How do you tell a pollination card from a fertilisation card?",
@@ -750,7 +750,7 @@
           "mins": 8,
           "do": "Play the last 11 cards and add up the points. Then each player names the stage they think fails most often in real life, and says why.",
           "say": "Let's finish the pile. Then tell me which stage you think is the most dangerous for a plant, and why.",
-          "kid": "Play the rest of the cards. Add up your points. Which stage fails most often?",
+          "kid": "Play the rest of the cards. Add up your points.",
           "check": {
             "t": "mcq",
             "q": "Bees carry pollen to a flower, but no seed forms. Which stage most likely failed?",
@@ -903,7 +903,7 @@
           "id": "s2",
           "mins": 8,
           "do": "Play through the pile once. After the game, ask the question below.",
-          "say": "Read the plant. Is this plant an annual, a biennial or a perennial? Will the life be longer or shorter than the last card?",
+          "say": "Read the plant on the card. Will this plant live longer or shorter than the plant before?",
           "kid": "Read the plant. Say longer or shorter. Turn the card. Were you right?",
           "ask": [
             {
@@ -922,7 +922,7 @@
           "id": "s3",
           "mins": 4,
           "do": "Lay all 18 cards in a row from the shortest life to the longest. Ask your child to find where the annuals end and where the perennials begin.",
-          "say": "Put all the cards in order, from the shortest life to the longest. Where do the annuals end? Which perennials flower only once?",
+          "say": "Put all the cards in order, from the shortest life to the longest. Where do the annuals end, and where do the perennials begin?",
           "kid": "Put the cards in order, shortest life first. Find where the annuals end.",
           "check": {
             "t": "mcq",
@@ -978,7 +978,7 @@
         }
       ],
       "schedule": [],
-      "record": "Fill in one row of the table for each run: three runs for the old grove and three for the riverbank. Then find the average for each plant in each place: add the three totals and divide by 3. Draw a bar chart with four bars.",
+      "record": "Fill in one row of the table for each run: three runs for the old grove and three for the riverbank. Then find the average for each plant in each place: add the three totals and divide by 3. Draw a bar chart with four bars, or build four rows of buttons and take a photo.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: average seeds left in 12 years, over three runs",
@@ -1100,9 +1100,9 @@
         {
           "id": "s5",
           "mins": 10,
-          "do": "1. For each place, add each plant's three totals and divide by 3. 2. Draw a bar chart with four bars. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Then read the note below together.",
-          "say": "Find the average for each plant in each place. Draw the four bars. Now say what you thought would happen, what you saw, and why it happened.",
-          "kid": "Add the three totals. Divide by 3. Draw four bars. Say what you thought. Say what you saw. Say why it happened.",
+          "do": "1. For each place, add each plant's three totals and divide by 3. 2. Show the four averages as bars. Draw them, or make four rows of rajma or buttons. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Then read the note below together.",
+          "say": "Find the average for each plant in each place. Show the four averages as bars. Now say what you thought would happen, what you saw, and why it happened.",
+          "kid": "Add the three totals. Divide by 3. Show the four averages as bars, drawn or built from buttons. Then tell what happened and why.",
           "ask": [
             {
               "q": "Which plant left more seeds in the old grove, and which on the riverbank?",
@@ -1245,7 +1245,7 @@
           "mins": 15,
           "do": "1. Choose a potted plant. 2. Ask your child to guess the plant's age and give a reason. 3. Find three stem tips. On each, tie a thread loosely below the youngest leaf that has opened flat. 4. Write the plant's remembered age on a slip of paper, fold it and put it away.",
           "say": "A leaf joint is the place where a leaf joins the stem. A plant adds new leaf joints only at the tip of a stem. How old do you think this plant is? How many new leaf joints will each tip make in three weeks? Why do you think so?",
-          "kid": "Guess how old the plant is. Say why. Tie a thread below the youngest open leaf. Do this on three tips.",
+          "kid": "Guess how old the plant is. Then tie a thread below the youngest open leaf. Do this on three tips.",
           "ask": [
             {
               "q": "What makes you think the plant is that old?",
@@ -1274,7 +1274,7 @@
           "mins": 5,
           "do": "Day 15. Count again and write the three numbers. Ask whether the three tips are growing at the same rate.",
           "say": "Count again. Are all three tips making leaves at the same rate? Why might one be slower?",
-          "kid": "Count again. Write the numbers. Is one tip slower than the others?",
+          "kid": "Count again. Write the numbers. Compare the three tips.",
           "ask": [
             {
               "q": "Why might one stem tip make leaves more slowly than another?",
@@ -1337,7 +1337,7 @@
           "qty": 1
         }
       ],
-      "record": "Write each plant's share as a fraction and as a percent. Then draw the six bars, each 10 centimetres long, with a mark where the first flower opens.",
+      "record": "Write each plant's share as a fraction and as a percent. Then draw the six bars, each 10 centimetres long, with a mark where the first flower opens. Or make six paper strips and take a photo.",
       "example_chart": {
         "type": "table",
         "title": "Typical lifespans and first flowering ages (rounded)",
@@ -1401,7 +1401,7 @@
           "mins": 6,
           "do": "1. Read the table together. 2. Ask which plant spends the biggest share of their life growing before the first flower. 3. Write the guess and the reason.",
           "say": "Look at the table. Which plant spends the biggest share of their life growing before the first flower? Why do you think so?",
-          "kid": "Read the table. Guess which plant waits longest, compared with their whole life. Say why.",
+          "kid": "Read the table. Look at each plant's whole life and the age at their first flower.",
           "ask": [
             {
               "q": "Which plant do you think waits longest before flowering? Why?",
@@ -1427,9 +1427,9 @@
         {
           "id": "s3",
           "mins": 9,
-          "do": "1. Draw six bars, each 10 centimetres long. 2. Mark the share on each bar with a small flower. 3. Ask your child to say what they thought, what they found, and why. 4. Ask the question below.",
-          "say": "Draw each plant's whole life as a bar 10 centimetres long. Put a flower at the place where the first flower opens. Say what you thought, what you found, and why you think the pattern is there.",
-          "kid": "Draw six bars, each 10 centimetres long. Mark the first flower on each. Look for a pattern.",
+          "do": "1. Make six bars, each 10 centimetres long. Draw them, or cut six paper strips. 2. Mark the share on each bar with a small flower or a dot. 3. Ask your child to say what they thought, what they found, and why. 4. Ask the question below.",
+          "say": "Show each plant's whole life as a bar 10 centimetres long. Put a flower at the place where the first flower opens. Say what you thought, what you found, and why you think the pattern is there.",
+          "kid": "Make six bars, each 10 centimetres long, drawn or cut from paper. Mark the first flower on each. Then compare the bars.",
           "ask": [
             {
               "q": "What pattern do you see between the annuals and the trees?",
@@ -1506,7 +1506,7 @@
           "mins": 8,
           "do": "1. Check the sort with this key. Annuals: rice, wheat, moong, groundnut. Biennials: carrot, cabbage, onion. Perennials: coconut, tamarind, curry leaf, pepper, banana, ginger, sugarcane. 2. Ask which plants surprised your child.",
           "say": "Here is the true sort. Which plants surprised you? Banana looks like a tree but has no wood. Sugarcane and ginger look like crops that die each year, but both are perennials.",
-          "kid": "Check your sort with the key. Which plants surprised you?",
+          "kid": "Check your sort with the key. Move any slip that was in the wrong group.",
           "ask": [
             {
               "q": "Which plant surprised you, and what did you expect?",
@@ -1524,8 +1524,8 @@
           "id": "s3",
           "mins": 6,
           "do": "1. Put a star on each plant that farmers grow in a different way from how the plant lives on their own. 2. Check: carrot, cabbage and onion are harvested in the first year, before they flower. Ginger and sugarcane are dug up or cut after a year or so. 3. Ask the question below.",
-          "say": "Farmers often grow a plant differently from how the plant lives on their own. Carrot and onion are biennials, but we eat them in the first year. Why do farmers harvest them before the second year?",
-          "kid": "Put a star by plants that are harvested early. Say why farmers do that.",
+          "say": "Farmers often grow a plant differently from how the plant lives on their own. Carrot and onion are biennials, but we eat them in the first year.",
+          "kid": "Put a star by each plant that farmers harvest early.",
           "ask": [
             {
               "q": "Why do farmers harvest a carrot in the first year?",
@@ -1567,7 +1567,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw a plant with leaves and a bud. Draw an arrow for the signal and write what you think the signal does.",
+      "record": "Draw a plant with leaves and a bud. Draw an arrow for the signal and write what you think the signal does. Or tell it out loud to your grown-up.",
       "example_chart": {
         "type": "table",
         "title": "Simplified results from experiments on chrysanthemum plants",
@@ -1632,7 +1632,7 @@
           "mins": 5,
           "do": "1. Read the table with your child. 2. Explain that a chrysanthemum flowers when nights are long. 3. Ask which part they think senses the night: the leaves or the buds. Ask for a reason.",
           "say": "Chrysanthemums flower when the nights grow long. In these tests, the leaves and the buds sometimes get different nights. Which part do you think senses the night, the leaves or the buds? Why?",
-          "kid": "Read the five tests. Guess which part senses the night. Say why.",
+          "kid": "Read the five tests. Look at which parts get the long night.",
           "ask": [
             {
               "q": "Which part do you think senses the night, and why?",
@@ -1650,7 +1650,7 @@
           "mins": 9,
           "do": "1. Compare tests 3 and 4. 2. Ask what changed between them. 3. Ask what test 5 shows. 4. Ask for the claim, the evidence and the reasoning.",
           "say": "Look at tests 3 and 4. In test 3 the buds get long nights and the plant does not flower. In test 4 only the leaves get long nights and the plant flowers. What does that show? What does test 5 add?",
-          "kid": "Compare tests 3 and 4. Which part must get the long night? What does test 5 show?",
+          "kid": "Compare tests 3 and 4. Point to what is different between them.",
           "ask": [
             {
               "q": "Which part senses the night, and what is your evidence?",
@@ -1673,9 +1673,9 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "1. Draw a plant with leaves and a bud. 2. Draw an arrow from a leaf to the bud and label it 'signal'. 3. Ask your child to predict a new test: a leaf from a flowering plant is joined to a plant on short nights. Will that plant flower? Then read the note.",
+          "do": "1. Draw a plant with leaves and a bud. Or tell your grown-up where the signal travels, using your finger. 2. Draw an arrow from a leaf to the bud and label it 'signal'. 3. Ask your child to predict a new test: a leaf from a flowering plant is joined to a plant on short nights. Will that plant flower? Then read the note.",
           "say": "Something must travel from the leaves to the buds. Scientists named it florigen. Here is a new test. A leaf from a flowering plant is joined to a plant that has short nights. What do you think happens, and why?",
-          "kid": "Draw the plant and the signal arrow. Predict the new test. Say why.",
+          "kid": "Draw the plant and the signal arrow. Or trace it with your finger. Then guess what happens in the new test.",
           "ask": [
             {
               "q": "In the new test, will the plant on short nights flower? Why?",
@@ -1764,9 +1764,9 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "1. Each person writes their final view in two sentences. 2. Ask the question below.",
-          "say": "Write your own view in two sentences. Which part of your view could change if new evidence came?",
-          "kid": "Write your own view in two sentences. What evidence would change your mind?",
+          "do": "1. Each person says or writes their final view in two sentences. 2. Ask the question below.",
+          "say": "Say or write your own view in two sentences. Think about what could make you change it.",
+          "kid": "Say or write your own view in two sentences.",
           "ask": [
             {
               "q": "What evidence would change your mind?",
@@ -1910,7 +1910,7 @@
           "mins": 20,
           "do": "1. Fill two pots with soil and label them A and B. 2. Sow 12 seeds in pot A, 1 centimetre deep, 4 centimetres apart. Water gently. 3. Ask your child to predict when pot B will flower, and to say why. 4. Write the prediction in the notebook.",
           "say": "Pot A is sown today. Pot B will be sown in three weeks. Will pot B flower after the same number of days as pot A, or on the same date as pot A? Why do you think so?",
-          "kid": "Sow 12 seeds in pot A. Water it. Guess if pot B flowers at the same age or on the same date. Say why.",
+          "kid": "Sow 12 seeds in pot A, 1 centimetre deep. Water it gently.",
           "ask": [
             {
               "q": "Will pot B flower at the same age as pot A, or on the same date? Why?",
@@ -1939,8 +1939,8 @@
           "id": "s3",
           "mins": 15,
           "do": "1. On day 22, sow pot B in the same way and in the same window. 2. Write pot A's age on that day. 3. Look at pot A. How many leaves has a plant made?",
-          "say": "Now sow pot B in the same way, in the same window. Pot A is 21 days old. What stage is pot A at, and what stage is pot B at?",
-          "kid": "Sow pot B in the same way as pot A. Look at pot A. What stage is it in now?",
+          "say": "Now sow pot B in the same way, in the same window. Pot A is 21 days old.",
+          "kid": "Sow pot B in the same way as pot A. Then look closely at both pots.",
           "ask": [
             {
               "q": "Which stage is pot A in now, and which is pot B in?",
@@ -1959,7 +1959,7 @@
           "mins": 10,
           "do": "1. Look at both pots on days 36, 50 and 64. 2. Each time, write down the stage each pot has reached, with the date and the age in days. 3. Check the soil. Water with one mug if the top centimetre is dry.",
           "say": "Look at both pots. Write the stage each has reached, today's date, and the age of each pot in days. Which pot is further along?",
-          "kid": "Look at both pots. Write the stage of each pot. Write the date and the age in days.",
+          "kid": "Look at both pots. Take a photo of each. Write the stage of each pot, the date and the age in days.",
           "ask": [
             {
               "q": "Is pot B catching up with pot A? What do you think is making that happen?",
@@ -2036,7 +2036,7 @@
       "setup": [
         {
           "art": "Two small drawn fields on paper, the low one marked with a wavy river line and the high one marked with a tree.",
-          "caption": "1. Draw the low field and the high field."
+          "caption": "1. Label the low field and the high field."
         },
         {
           "art": "Two dice in front of the fields, one for each field, with a rajma on each three-box strip.",
@@ -2051,9 +2051,9 @@
         {
           "id": "s1",
           "mins": 6,
-          "do": "1. Draw the two fields. 2. Ask your child to choose a plant for each field and to say why. 3. Write the plan.",
+          "do": "1. Write 'low field' on one paper slip and 'high field' on another. 2. Ask your child to choose a plant for each field and to say why. 3. Write the plan.",
           "say": "The low field floods often. The high field is rarely cleared. Which plant will you put in each field? Why?",
-          "kid": "Draw two fields. Pick a plant for each. Say why.",
+          "kid": "Put the low field slip and the high field slip side by side. Pick a plant for each.",
           "parent": "In the Bad Year Test the annual left more seeds where clearing is common and the perennial where it is rare. Many children now choose the annual for the low field and the perennial for the high field.",
           "context": "This is the first step of the Fit the Plant to the Field challenge. You choose a plant for each field."
         },

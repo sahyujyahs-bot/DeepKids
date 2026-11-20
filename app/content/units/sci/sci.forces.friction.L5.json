@@ -567,7 +567,7 @@
           "mins": 12,
           "do": "1. Read the top card aloud. 2. Count to three. 3. Everyone lays down an arrow. 4. Turn the card over and read the reason.",
           "say": "Ask yourself one question. Which way would this thing slide if there were no friction? Friction pushes the other way.",
-          "kid": "Read the card. Which way would it slide with no friction? Point your arrow the other way.",
+          "kid": "Listen to the card. On three, lay down your arrow.",
           "ask": [
             {
               "q": "A lorry speeds up with a box on its back. Why does friction on the box point forward?",
@@ -671,7 +671,7 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "1. Play round 1 on the bare table, five shoves each. 2. Write down the points. 3. Ask how hard the shove had to be.",
+          "do": "1. Play round 1 on the bare table, five shoves each. 2. Write down the points: 3 for touching the line, 2 for within one hand-width, 1 for within two hand-widths, 0 for the rest. 3. Ask how hard the shove had to be.",
           "say": "Round 1 is on the bare table. How hard a shove gets the coin to the line and no further?",
           "kid": "Play round 1. Shove the coin five times. Write your points.",
           "ask": [
@@ -722,7 +722,7 @@
       "title": "The Stopping Distance Test: how far does a marble roll before it stops?",
       "mins": 40,
       "days": 1,
-      "context": "In this experiment a marble rolls down a cardboard channel onto a cloth on the floor. You measure how far the marble rolls before it stops. First you change the cloth, and then you change how high the marble starts.",
+      "context": "In this experiment a marble rolls down a cardboard channel onto a cloth on the floor. You measure how far the marble rolls before it stops. First you change the cloth, and then you change how high the marble starts. You will find out how the cloth, and the starting height, change how far the marble rolls.",
       "question": "How does the surface change the distance a rolling marble needs to stop? And if the marble starts twice as high up the ramp, how much further does it roll?",
       "predict": "Guess first. On which will the marble stop sooner, a bath towel or a cotton bedsheet? Then guess again. If the marble starts twice as far up the ramp, how far will it roll? Choose the same distance, twice as far, or more than twice as far. Write both guesses and your reason for each.",
       "fair_test": "In part 1, change only the surface. Start the marble at the 20 centimetre mark every time. In part 2, change only the start mark, and keep the towel. Always let go of the marble without a push. Use the same marble, the same ramp and the same pile of books. Do every run 3 times and find the mean, because one run can be a fluke.",
@@ -853,7 +853,7 @@
         {
           "id": "s4",
           "mins": 9,
-          "do": "1. Start the marble at the 20 centimetre mark. 2. Measure from the end of the channel to the marble. 3. Do 3 runs on the towel and write each one down. 4. Lay the bedsheet flat in place of the towel and do 3 runs. 5. Do 3 runs on your third surface.",
+          "do": "1. Start the marble at the 20 centimetre mark. 2. Measure from the end of the channel to the marble. 3. Do 3 runs on the towel and write each one down. 4. Lay the bedsheet flat in place of the towel and do 3 runs. 5. Do 3 runs on the extra surface you chose, such as the mat or blanket.",
           "say": "Part 1 changes only the surface. Start at the 20 centimetre mark every time. Measure in a straight line from the end of the channel.",
           "kid": "Start at the 20 cm mark each time. Do 3 runs on the towel. Do 3 on the bedsheet. Do 3 on your own surface.",
           "parent": "Pull the bedsheet smooth and hold its corners down with books. If the marble rolls off the end of the sheet, write 'more than' and the length of the sheet.",
@@ -863,8 +863,8 @@
           "id": "s5",
           "mins": 8,
           "do": "1. Put the towel back. 2. Ask your child to guess the distances from the 10 and the 30 centimetre marks. They can use the result from the 20 centimetre mark. 3. Do 3 runs from the 10 centimetre mark. 4. Do 3 runs from the 30 centimetre mark.",
-          "say": "Part 2 changes only the start mark. From the 20 centimetre mark you already have a mean. What do you expect from 10 and from 30? Why?",
-          "kid": "Put the towel back. Guess the distance from the 10 cm mark. Guess for the 30 cm mark. Do 3 runs from each.",
+          "say": "Part 2 changes only the start mark. You already have three runs from the 20 centimetre mark. Will the marble roll less or more from the 10 mark? And from the 30 mark? Why?",
+          "kid": "Put the towel back. Think about the 10 and the 30 cm marks. Then do 3 runs from each.",
           "ask": [
             {
               "q": "What do you expect from the 10 centimetre mark, and why?",
@@ -879,8 +879,8 @@
         {
           "id": "s6",
           "mins": 5,
-          "do": "1. For each row, add the three runs and divide by 3. 2. Draw a bar chart of the three surfaces. 3. Draw a line graph of stopping distance against start mark for the towel.",
-          "say": "Let's find the mean for each row. Then we draw one bar for each surface, and one point for each start mark.",
+          "do": "1. For each row, add the three runs and divide by 3. 2. Draw a bar chart of the three surfaces, or just tell your grown-up which surface gave the longest roll. 3. Draw a line graph of stopping distance against start mark for the towel.",
+          "say": "Let's find the mean for each row. The mean is the usual distance: add the three runs and divide by 3. Then we draw one bar for each surface, and one point for each start mark.",
           "kid": "Add the three runs. Divide by 3. Draw a bar for each surface. Draw a point for each start mark.",
           "parent": "If one run is very different from the other two, ask what happened. Roll it again and say so in the table. A mean hides a mistake, so look at the three runs first.",
           "context": "This step of the Stopping Distance Test is for the means and the two charts."
@@ -888,9 +888,9 @@
         {
           "id": "s7",
           "mins": 5,
-          "do": "1. Ask your child for the three sentences. 2. Ask them to draw the marble on the towel with a friction arrow. 3. Only then read the explanation together.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. Then draw the marble on the towel. Which way does the friction arrow point?",
-          "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Draw the marble and a friction arrow.",
+          "do": "1. Ask your child for the three sentences. 2. Ask them to lay a pencil on the towel to point the way friction pushes the marble. 3. Only then read the explanation together.",
+          "say": "Say what you thought would happen, what you saw, and why it happened. Then lay a pencil on the towel to show which way friction pushes the marble.",
+          "kid": "Say what you thought would happen. Say what you saw. Say why it happened. Lay a pencil on the towel to show which way friction pushes the marble.",
           "ask": [
             {
               "q": "The marble had the same speed at the bottom each time in part 1. Why did it stop sooner on the towel?",
@@ -928,7 +928,7 @@
       "title": "The Warm Coin Test: what makes friction make more heat?",
       "mins": 30,
       "days": 1,
-      "context": "In this experiment one person rubs a coin on cardboard. A second person, with eyes closed, judges how warm the coin is. You change the number of strokes, and then how hard you press.",
+      "context": "In this experiment one person rubs a coin on cardboard. A second person, with eyes closed, judges how warm the coin is. You change the number of strokes, and then how hard you press. You will find out whether more rubbing, or a harder press, makes the coin hotter.",
       "question": "Does a coin get warmer if you rub it for more strokes? Does it get warmer if you press harder? And can a judge tell without being told what was done?",
       "predict": "Guess first. Which will be warmest: a coin rubbed for 20 strokes, 40 strokes or 80 strokes? Will a firm press or a light press make the coin warmer? Write your guesses and the reason for each.",
       "fair_test": "Use coins of the same kind, and start each test with a cool coin. Rub between the same two lines, 20 centimetres apart, at the same speed. In the first test change only the number of strokes. In the second test change only the press. The judge keeps their eyes closed and is not told what was done. Then the judge's guess cannot change the score.",
@@ -1056,7 +1056,7 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "1. The judge closes their eyes and holds out a wrist. 2. The rubber picks 20, 40 or 80 strokes in secret and rubs with a firm press. 3. The rubber touches the coin to the judge's wrist for one second. 4. The judge gives a score. 5. Repeat with a cool coin until all three numbers are done.",
+          "do": "1. The judge closes their eyes and holds out a wrist. 2. The person rubbing picks 20, 40 or 80 strokes in secret and rubs with a firm press. 3. The rubber touches the coin to the judge's wrist for one second. 4. The judge gives a score. 5. Repeat with a cool coin until all three numbers are done.",
           "say": "Close your eyes. I will not tell you how many strokes I did. Tell me the score when you feel the coin.",
           "kid": "The judge closes their eyes. Rub the coin 20, 40 or 80 strokes. Touch the judge's wrist for one second. Write the score.",
           "parent": "Take turns as rubber and judge. Put each used coin back on the steel plate for two minutes, because the plate cools it. If nothing feels warm, rub faster and press harder, or double every number of strokes.",
@@ -1065,7 +1065,7 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "1. Take a cool coin. 2. Rub it for 40 strokes with a light press, as if you might tear the cardboard. 3. The judge scores it. 4. Rub a cool coin for 40 strokes with a firm press. 5. The judge scores it. Do the two in a secret order.",
+          "do": "1. Take a cool coin. 2. Rub it for 40 strokes with a very light press, as if you were stroking a cat. 3. The judge scores it. 4. Rub a cool coin for 40 strokes with a firm press. 5. The judge scores it. Do the two in a secret order.",
           "say": "Now the strokes stay the same and only the press changes. I will do the light press and the firm press in a secret order.",
           "kid": "Rub 40 strokes with a light press. Then rub 40 strokes with a firm press. The judge scores each one.",
           "context": "This is the press test of the Warm Coin Test. Here the number of strokes stays at 40 and only the press changes."
@@ -1083,7 +1083,7 @@
           "id": "s6",
           "mins": 4,
           "do": "1. Look at the table together. 2. Ask your child for the three sentences. 3. Only then read the explanation together.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. Where did the heat in the coin come from?",
+          "say": "Say what you thought would happen, what you saw, and why it happened.",
           "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
           "ask": [
             {
@@ -1143,7 +1143,7 @@
         }
       ],
       "safety": "Do the foot test sitting on a chair. Do not stand or run on loose paper, because it slips.",
-      "record": "Draw the walking fingers and the paper. Add one arrow for the push of the fingers on the paper, and one for the friction on the fingers.",
+      "record": "Draw the walking fingers and the paper. Add one arrow for the push of the fingers on the paper, and one for the friction on the fingers. If you do not want to draw, tell a grown-up about both pushes.",
       "setup": [
         {
           "art": "Two fingers of a child's hand walking like legs across a loose sheet of paper on a smooth table, with the paper sliding backward.",
@@ -1188,9 +1188,9 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "1. Tape the corners of the plain paper to the table. 2. Your child walks two fingers forward again. 3. Ask what pushes the fingers forward now. 4. Your child draws the fingers with two arrows.",
+          "do": "1. Tape the corners of the plain paper to the table. 2. Your child walks two fingers forward again. 3. Ask what pushes the fingers forward now. 4. Your child points the way the fingers push the paper, then the way the paper pushes the fingers.",
           "say": "Now the paper cannot slide. Your fingers push it backward as before. So what pushes your fingers forward?",
-          "kid": "Tape the paper down. Walk your fingers again. What pushes them forward now? Draw two arrows.",
+          "kid": "Tape the paper down. Walk your fingers again. Point the way your fingers push the paper. Point the way the paper pushes your fingers.",
           "parent": "One arrow shows the fingers pushing the paper backward. The other shows friction from the paper pushing the fingers forward. The two arrows are the same length.",
           "check": {
             "t": "mcq",
@@ -1203,7 +1203,7 @@
             "a": 1,
             "why": "The paper moved the way it was pushed, which was backward. So walking fingers push backward on what is under them. Friction from the paper pushes the fingers forward. Choosing 'friction pushes the fingers backward' usually means using the rule 'friction is against the movement'."
           },
-          "context": "This is the last step of Finger Walk. Here the paper is taped down, and you draw the forces."
+          "context": "This is the last step of Finger Walk. Here the paper is taped down, and you point out the forces."
         }
       ]
     },
@@ -1212,7 +1212,7 @@
       "title": "The Riding Katori: can friction start a thing moving?",
       "mins": 15,
       "days": 1,
-      "context": "In this activity a katori, a small steel bowl, stands on a cloth. You pull the cloth slowly, stop it suddenly, and then pull it very fast. Each time you work out which way friction pushed the katori.",
+      "context": "In this activity a katori, a small steel bowl, stands on a cloth. You pull the cloth slowly, stop it suddenly, and then pull it very fast. Each time you work out which way friction pushed the katori. You will find out that friction can start a thing moving, not only stop it.",
       "materials": [
         {
           "item": "an empty steel katori (a small steel bowl)",
@@ -1231,7 +1231,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw the katori three times: for the slow pull, the sudden stop and the fast pull. Add a friction arrow to each drawing.",
+      "record": "Draw the katori three times: for the slow pull, the sudden stop and the fast pull. Add a friction arrow to each drawing. Or take a photo of each pull, with a pencil beside the katori pointing the way friction pushed it.",
       "setup": [
         {
           "art": "An empty steel katori standing on a cotton napkin spread on a table, with a child's hands holding the near edge of the napkin.",
@@ -1270,7 +1270,7 @@
           "mins": 4,
           "do": "1. Your child pulls the cloth steadily, then stops it suddenly. 2. Watch the katori. 3. Ask which way friction pushed the katori this time.",
           "say": "Pull steadily, then stop the cloth all at once. Watch the katori. Which way did friction push it just now?",
-          "kid": "Pull steadily. Stop the cloth suddenly. Watch the katori. Which way did friction push it?",
+          "kid": "Pull steadily. Stop the cloth suddenly. Watch the katori.",
           "parent": "The katori slides forward a little over the stopped cloth and then stops. Now friction pushes it backward. In both steps, friction worked to make the katori and the cloth move together.",
           "context": "This step of the Riding Katori stops the cloth suddenly, to see what friction does to the moving bowl."
         },
@@ -1286,9 +1286,9 @@
         {
           "id": "s4",
           "mins": 3,
-          "do": "1. Your child draws the katori for all three pulls. 2. They add a friction arrow to each drawing. 3. Ask what is the same about all three.",
-          "say": "Draw the three pulls and the friction arrow for each. Friction pointed a different way each time. What was it doing every time?",
-          "kid": "Draw the three pulls. Add a friction arrow to each. What did friction do every time?",
+          "do": "1. Do each pull again. After each one, your child lays a pencil beside the katori, pointing the way friction pushed it. 2. Ask what is the same about all three.",
+          "say": "Do each pull again. Lay the pencil beside the katori to show which way friction pushed it. Friction did not point the same way each time. What was it doing every time?",
+          "kid": "Do each pull again. Lay a pencil beside the katori to show which way friction pushed it.",
           "check": {
             "t": "mcq",
             "q": "A katori stands on a cloth. The cloth is pulled slowly and the katori moves with it. Which force moved the katori?",
@@ -1300,7 +1300,7 @@
             "a": 1,
             "why": "Only the cloth touched the katori, and friction is the force between touching surfaces. Friction from the cloth pushed the katori the way the cloth moved. Gravity pulls down, not sideways, and the air hardly pushes at all."
           },
-          "context": "This is the last step of the Riding Katori. Here you draw the friction arrows and find the rule."
+          "context": "This is the last step of the Riding Katori. Here you show the friction in each pull and find the rule."
         }
       ]
     },
@@ -1309,51 +1309,51 @@
       "title": "Green and Red: a friction map of one machine",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you draw one machine, such as a bicycle. You mark where friction is wanted in green, and where it is unwanted in red.",
+      "context": "In this activity you look closely at one machine, such as a bicycle. You tag places where grip is wanted in green, and places where easy sliding is wanted in red. You will find out why one machine needs both.",
       "materials": [
         {
           "item": "a bicycle. If you have none, use a door with its hinges, handle and bolt, and a pair of chappals",
           "qty": 1
         },
         {
-          "item": "a green and a red sketch pen or crayon",
+          "item": "a green and a red pen or crayon, to colour small paper tags",
           "qty": 1
         },
         {
-          "item": "a sheet of paper and a pencil",
+          "item": "a sheet of paper cut into about ten small tags, sticky tape and a pencil",
           "qty": 1
         }
       ],
       "safety": "Keep fingers away from the chain and the spokes while a wheel is turning.",
-      "record": "Keep the drawing with its green and red marks. Under it write one sentence for each mark, saying what the friction does there.",
+      "record": "Keep the tags in a row, or take a photo of the bicycle with its tags. Write one sentence for each tag, saying what the friction does there. You may also draw the machine with its green and red marks.",
       "setup": [
         {
           "art": "A child's pencil drawing of a bicycle seen from the side, lying next to a real bicycle on its stand.",
-          "caption": "1. Draw the machine from the side."
+          "caption": "1. Stand the machine up and name its parts."
         },
         {
           "art": "The same drawing with green marks on the tyres, brake pads, pedals and handle grips, and red marks on the axles and the chain.",
-          "caption": "2. Mark green where friction is wanted and red where it is unwanted."
+          "caption": "2. Tag each touching place green for grip or red for easy sliding."
         }
       ],
       "flow": [
         {
           "id": "s1",
           "mins": 5,
-          "do": "1. Stand the bicycle safely. 2. Your child draws it from the side, big enough to fill the page. 3. Together, name the parts: tyres, brake pads, rim, pedals, chain, axles, handle grips and seat.",
-          "say": "Let's draw the cycle and name its parts. Then we will hunt for every place where two surfaces touch.",
-          "kid": "Draw the cycle from the side. Fill the page. Name each part.",
-          "context": "This is the first step of Green and Red. Here you draw one machine and name its parts."
+          "do": "1. Stand the bicycle safely. 2. Together, name the parts: tyres, brake pads, rim, pedals, chain, axles, handle grips and seat. 3. Your child touches each part as you name it.",
+          "say": "Let's name the parts of the cycle. Then we will hunt for every place where two surfaces touch.",
+          "kid": "Touch each part of the cycle. Say its name.",
+          "context": "This is the first step of Green and Red. Here you name the parts of one machine."
         },
         {
           "id": "s2",
           "mins": 6,
-          "do": "1. Your child touches each place where two surfaces meet. 2. For each place ask: do we want these to slide, or to grip? 3. Mark green for grip wanted and red for sliding wanted. 4. Find at least four green places and three red ones.",
+          "do": "1. Your child touches each place where two surfaces meet. 2. For each place ask: do we want these to slide, or to grip? 3. Tape a green tag where grip is wanted and a red tag where easy sliding is wanted. 4. Find at least four green places and three red ones.",
           "say": "Touch each place where two surfaces meet. Do we want them to grip here, or to slide easily? Why?",
-          "kid": "Touch each place where two surfaces meet. Grip wanted is green. Sliding wanted is red. Find seven places.",
+          "kid": "Touch each place where two surfaces meet. Tape a green tag for grip. Tape a red tag for easy sliding. Find seven places.",
           "ask": [
             {
-              "q": "The brake pad and the axle are a hand's width apart. Why does one need friction and the other need oil?",
+              "q": "Why does the brake pad need friction, but the axle needs oil?",
               "good": [
                 "The pad must grip the rim to stop the wheel.",
                 "The axle must turn easily, or the rider's effort is wasted as heat."
@@ -1389,7 +1389,7 @@
       "title": "Hand in the Bucket: water resistance and upthrust",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you sweep your hand through a bucket of water in different ways. Then you push an empty bottle under the water. You feel two forces from water: water resistance and upthrust.",
+      "context": "In this activity you sweep your hand through a bucket of water in different ways. Then you push an empty bottle under the water. You feel two forces from water. Water resistance is the water pushing against a thing that moves through it. Upthrust is the water pushing up on a thing that is in it.",
       "materials": [
         {
           "item": "a bucket at least half full of water, in the bathroom or on a balcony",
@@ -1409,7 +1409,7 @@
         }
       ],
       "safety": "Wipe up any water on the floor at once, because a wet floor has little friction. Use the water for mopping or for plants afterwards.",
-      "record": "Write which sweep was hardest and which was easiest. Draw the bottle under water with an arrow for upthrust.",
+      "record": "Say or write which sweep was hardest and which was easiest. Draw the bottle under water with an arrow for upthrust, or just push it under again and point the way upthrust pushes.",
       "setup": [
         {
           "art": "A child's hand held flat like a paddle, sweeping through the water in a bucket.",
@@ -1452,14 +1452,14 @@
           "mins": 4,
           "do": "1. Your child pushes the closed empty bottle down into the water. 2. They hold it still under the water. 3. They let go and watch.",
           "say": "Push the bottle under and hold it still. Do you feel a force now, though nothing is moving? Which way does it push?",
-          "kid": "Push the bottle under the water. Hold it still. Which way does the water push it? Let go.",
+          "kid": "Push the bottle under the water. Hold it still. Then let go.",
           "parent": "The water pushes the bottle up even when the bottle is still. That is upthrust. Water resistance acts only on a moving thing, and it points against the movement.",
           "context": "This step of Hand in the Bucket pushes an empty bottle under water, to feel upthrust."
         },
         {
           "id": "s4",
           "mins": 4,
-          "do": "1. Your child waves the steel plate flat-on through the air, then edge-on. 2. Ask what the air did. 3. They write down how water resistance, air resistance and upthrust differ.",
+          "do": "1. Your child waves the steel plate flat-on through the air, then edge-on. 2. Ask what the air did. 3. They tell you how upthrust differs from water resistance.",
           "say": "Wave the plate flat-on, then edge-on. Air does the same as water, only more weakly. Now tell me how upthrust is different from water resistance.",
           "kid": "Wave the plate flat-on. Wave it edge-on. What did the air do? How is upthrust different?",
           "check": {
@@ -1479,10 +1479,10 @@
     },
     {
       "id": "a5",
-      "title": "Friction Arrows: draw the forces on five things",
+      "title": "Friction Arrows: show the friction on five things",
       "mins": 20,
       "days": 1,
-      "context": "In this activity you set up five small scenes with a book, a board and a katori. For each one you draw a force diagram with a friction arrow.",
+      "context": "In this activity you set up five small scenes with a book, a tray and a katori. For each one you lay a pencil to show which way friction pushes. You will find one rule that fits all five.",
       "materials": [
         {
           "item": "a hardback book",
@@ -1501,7 +1501,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw five force diagrams, one for each scene. Label the friction arrow in each. Under the last one, write the rule for the direction of friction.",
+      "record": "Draw one of the five scenes as a box with a labelled friction arrow, or take a photo of it with the pencil. Then write the rule for the direction of friction.",
       "setup": [
         {
           "art": "A hardback book sliding across a table after a push, with a pencil arrow drawn in a notebook beside it.",
@@ -1509,25 +1509,25 @@
         },
         {
           "art": "A notebook page with five small force diagrams: a sliding book, a book on a slope, a book against a wall, walking fingers and a katori on a cloth.",
-          "caption": "2. Draw each thing as a box with a labelled friction arrow."
+          "caption": "2. Lay a pencil to show which way friction pushes each thing."
         }
       ],
       "flow": [
         {
           "id": "s1",
           "mins": 4,
-          "do": "1. Your child pushes the book across the table and lets go. 2. They draw the book as a box, with an arrow showing which way it moves. 3. They add the friction arrow and label it.",
-          "say": "Push the book and let go. It slows down. Draw the book, and draw the friction arrow. Which way does it point, and why?",
-          "kid": "Push the book and let go. Draw it as a box. Add the friction arrow. Say why.",
+          "do": "1. Your child pushes the book across the table and lets go. 2. They lay the pencil on the table, pointing the way the book moves. 3. They turn the pencil to point the way friction pushes the book.",
+          "say": "Push the book and let go. It slows down. Lay the pencil to show which way friction pushes the book. Why does it point that way?",
+          "kid": "Push the book and let go. Lay the pencil to show the friction. Say why.",
           "parent": "The friction arrow lies along the table and points against the slide. It starts where the book touches the table.",
-          "context": "This is the first step of Friction Arrows. Here you draw the friction on a book sliding across a table."
+          "context": "This is the first step of Friction Arrows. Here you show the friction on a book sliding across a table."
         },
         {
           "id": "s2",
           "mins": 4,
-          "do": "1. Rest the book on the tray. 2. Lift one end of the tray a little, so the book stays put. 3. Ask which way the book would slide with no friction. 4. Your child draws the book and the friction arrow.",
+          "do": "1. Rest the book on the tray. 2. Lift one end of the tray a little, so the book stays put. 3. Ask which way the book would slide with no friction. 4. Your child lays the pencil on the tray to show the friction.",
           "say": "The book is not moving. Is there friction on it? Which way would the book slide if the tray were perfectly slippery?",
-          "kid": "Rest the book on the tilted tray. Which way would it slide? Draw the friction arrow.",
+          "kid": "Rest the book on the tilted tray. Which way would it slide? Lay the pencil to show the friction.",
           "ask": [
             {
               "q": "The book is still. How do you know friction is acting on it?",
@@ -1537,31 +1537,31 @@
               ]
             }
           ],
-          "context": "This step of Friction Arrows draws the friction on a book resting on a slope."
+          "context": "This step of Friction Arrows shows the friction on a book resting on a slope."
         },
         {
           "id": "s3",
           "mins": 4,
-          "do": "1. Your child presses the book flat against a wall with one hand. 2. They ease the press until the book starts to slip, then press again. 3. They draw the book and the friction arrow.",
+          "do": "1. Your child presses the book flat against a wall with one hand. 2. They ease the press until the book starts to slip, then press again. 3. They hold the pencil up beside the book to show the friction.",
           "say": "Hold the book against the wall with a flat hand. Gravity pulls it down. What holds it up? Which way does that force point?",
-          "kid": "Press the book on the wall. Ease off until it slips. Press again. Draw the friction arrow.",
+          "kid": "Press the book on the wall. Ease off until it slips. Press again. Hold up the pencil to show the friction.",
           "parent": "Friction from the wall and from the hand points up. A lighter press gives less friction, so the book slips.",
-          "context": "This step of Friction Arrows draws the friction on a book pressed against a wall."
+          "context": "This step of Friction Arrows shows the friction on a book pressed against a wall."
         },
         {
           "id": "s4",
           "mins": 4,
-          "do": "1. Your child walks two fingers on a taped sheet of paper and draws the friction on the fingers. 2. They pull a cloth slowly with the katori on it and draw the friction on the katori.",
-          "say": "Now draw two things that friction pushes forward: your walking fingers and the katori on the moving cloth.",
-          "kid": "Walk your fingers on taped paper. Pull the cloth with the katori on it. Draw both friction arrows.",
-          "context": "This step of Friction Arrows draws two cases where friction points the way the thing moves."
+          "do": "1. Your child walks two fingers on a taped sheet of paper and lays the pencil to show the friction on the fingers. 2. They pull a cloth slowly with the katori on it and lay the pencil to show the friction on the katori.",
+          "say": "Now show two things that friction pushes forward: your walking fingers and the katori on the moving cloth.",
+          "kid": "Walk your fingers on taped paper. Pull the cloth with the katori on it. Lay the pencil to show each friction.",
+          "context": "This step of Friction Arrows shows two cases where friction points the way the thing moves."
         },
         {
           "id": "s5",
           "mins": 4,
-          "do": "1. Lay the five drawings side by side. 2. Ask what one rule gives the direction of friction in all five. 3. Your child writes the rule in their own words.",
-          "say": "Look at all five arrows. They point backward, up a slope, straight up and forward. What one rule fits them all?",
-          "kid": "Look at your five arrows. What one rule fits them all? Write it down.",
+          "do": "1. Name the five scenes together, and the way friction pointed in each. 2. Ask what one rule gives the direction of friction in all five. 3. Your child says the rule in their own words, and you write it down.",
+          "say": "Think of all five scenes. Friction pointed backward, up a slope, straight up and forward. What one rule fits them all?",
+          "kid": "Say the one rule that fits all five scenes, in your own words.",
           "parent": "A good rule: friction on a thing points against the way that thing slides, or would slide, over the surface it touches.",
           "check": {
             "t": "mcq",
@@ -1583,7 +1583,7 @@
       "title": "Pencil, Eraser, Match: three frictions we use on purpose",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you write with a pencil, rub the mark out and watch a grown-up strike a match. Each one uses friction on purpose: two use wear, and one uses heat.",
+      "context": "In this activity you write with a pencil, rub the mark out and watch a grown-up strike a match. Each one uses friction on purpose: two use wear, which means tiny bits are rubbed off, and one uses heat. You will find out how friction helps us write, rub out and light a flame.",
       "materials": [
         {
           "item": "a soft, dark pencil and an eraser",
@@ -1750,7 +1750,7 @@
           "mins": 20,
           "do": "1. For a hinge or a bolt, a grown-up adds one drop of oil with a cotton bud. 2. For a drawer or a zip, rub the candle or dry soap along the sliding parts. 3. For a jar lid or a hanger, wind a rubber band round it. 4. For a chopping board or a rug, put a damp cloth or a rubber mat underneath.",
           "say": "For each place, ask one question. Do we want less friction here, or more? Then choose the fix and say why it should work.",
-          "kid": "For each place, ask: less friction or more? Choose a fix. Say why it should work. Then do it.",
+          "kid": "Choose a fix for each place. Say why it should work. Then do it.",
           "adult": true,
           "wait": "Do this on day 2",
           "ask": [
@@ -1793,7 +1793,7 @@
       "id": "c1",
       "title": "The Escape Lane: stop a runaway marble in 20 centimetres",
       "mins": 30,
-      "context": "This is an engineering challenge. In the Stopping Distance Test, a marble rolled off a ramp and a long way across a bedsheet. Here you design a surface that stops the same marble in a very short distance.",
+      "context": "This is an engineering challenge. In the Stopping Distance Test, a marble rolled off a ramp and a long way across a bedsheet. Here you design a surface that stops the same marble in a very short distance. You will find out what real escape lanes do.",
       "problem": "Let a marble go from the 30 centimetre mark of the Stopping Distance ramp. It must stop within 20 centimetres of the end of the channel. Only the surface under the marble may stop it.",
       "constraints": [
         "Nothing may stand in the marble's way: no walls, bumps or holes.",
@@ -1818,7 +1818,7 @@
         "Lay a damp cloth, so the wet fibres hold the marble.",
         "Make the lane from several different strips, with the softest one last."
       ],
-      "your_turn": "Now design your own escape lane. Draw it, build it and test it 3 times. What was the mean stopping distance? Which idea from real roads does your lane use?",
+      "your_turn": "Now design your own escape lane. Build it and test it 3 times. What was the mean stopping distance? Which idea from real roads does your lane use?",
       "setup": [
         {
           "art": "The cardboard ramp from the Stopping Distance Test with a marble held at the top mark, and a ruler marking a line 20 centimetres beyond the end of the channel.",
@@ -1833,7 +1833,7 @@
         {
           "id": "s1",
           "mins": 6,
-          "do": "1. Set up the ramp as in the Stopping Distance Test, with a bedsheet at the bottom. 2. Roll the marble from the 30 centimetre mark 3 times. 3. Find the mean distance. 4. Mark a line 20 centimetres from the end of the channel.",
+          "do": "1. Set up the ramp as in the Stopping Distance Test, with a bedsheet at the bottom. 2. Roll the marble from the 30 centimetre mark 3 times. 3. Find the mean distance: add the three runs and divide by 3. 4. Mark a line 20 centimetres from the end of the channel.",
           "say": "First we need the number to beat. How far does the marble roll on the bedsheet from the top mark?",
           "kid": "Roll the marble from the top mark 3 times. Find the mean. Mark a line at 20 cm.",
           "context": "This is the first step of the Escape Lane. Here you measure how far the marble rolls on a bedsheet."
@@ -1858,9 +1858,9 @@
         {
           "id": "s3",
           "mins": 12,
-          "do": "1. Your child designs a lane of their own and draws it. 2. They build it and test it 3 times. 3. They compare the mean with the 20 centimetre line and with the bedsheet.",
+          "do": "1. Your child plans a lane of their own and says what each part is for. 2. They build it and test it 3 times. 3. They compare the mean with the 20 centimetre line and with the bedsheet.",
           "say": "Now design your own lane. What will you change, and why? Did it stop the marble before the line?",
-          "kid": "Design your own lane. Draw it. Build it. Test it 3 times. Did the marble stop in time?",
+          "kid": "Plan your own lane. Build it. Test it 3 times. Did the marble stop in time?",
           "parent": "A tray of rice usually stops the marble within a few centimetres. The marble must stop before the far rim, or the rim counts as a wall. Wash the rice before cooking it.",
           "check": {
             "t": "mcq",
@@ -1931,7 +1931,7 @@
           "id": "s2",
           "mins": 10,
           "do": "1. Look at the usual ideas: oil, powder and wax. 2. Your child chooses one and says why it should work. 3. Rub a cool coin for 80 firm strokes and get the score.",
-          "say": "Which lubricant do you want to try first? Why should it keep the coin cooler?",
+          "say": "Oil, powder and wax are lubricants. They make things slippery. Which one do you want to try first? Why should it keep the coin cooler?",
           "kid": "Pick oil, powder or wax. Say why it should work. Rub 80 strokes. Get the score.",
           "ask": [
             {

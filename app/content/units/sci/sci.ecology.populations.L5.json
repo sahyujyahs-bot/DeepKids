@@ -623,8 +623,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Play one year together as practice. 2. Add the fawns. 3. Ask each player how many chital they will send away, and why. 4. Roll the die and read the year card.",
-     "say": "Before you roll, decide how many to send away. A big herd has more fawns. But what could go wrong for a big herd? Why?",
-     "kid": "Add 1 fawn for every 2 chital. Choose how many to send away. Say why. Then roll.",
+     "say": "Before you roll, decide how many to send away. A big herd has more fawns. But a herd that is too big has trouble.",
+     "kid": "Add 1 fawn for every 2 chital. Choose how many to send away. Then roll.",
      "ask": [
       {
        "q": "What could go wrong for a herd of 12?",
@@ -663,8 +663,8 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Add up each player's circle and meadow. 2. Compare the tables. 3. Ask what size of herd sent out the most chital. 4. Ask why a full meadow did not do best.",
-     "say": "Whose herd sent out the most? Was it the biggest herd, the smallest, or one in between? Why do you think that happened?",
-     "kid": "Add up your beans. Which herd size sent out the most? Say why.",
+     "say": "Whose herd sent out the most? Was it the biggest herd, the smallest, or one in between?",
+     "kid": "Add up the beans in your circle and on your meadow. Which herd size sent out the most?",
      "ask": [
       {
        "q": "Why did a herd kept near the middle send out the most chital?",
@@ -798,7 +798,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the four curves on four pieces of paper. 2. Lay them in a row. 3. Cut out the 16 story cards and shuffle them.",
+     "do": "1. Draw one curve on each of four pieces of paper: a J, an S, an overshoot and crash, and a rise and fall. A quick sketch is fine. 2. Lay them in a row. 3. Cut out the 16 story cards and shuffle them.",
      "say": "Here are four shapes that a population's graph can take. Each card tells a true kind of story. We will match the story to its shape.",
      "kid": "Draw the four curves. Lay them in a row. Shuffle the story cards.",
      "context": "This is the first step of Which Curve? Here you draw the four curves and get the cards ready."
@@ -808,7 +808,7 @@
      "mins": 9,
      "do": "1. Read the top card aloud. 2. Count to three. 3. Everyone points to a curve. 4. Turn the card and read the answer. 5. Ask what set the limit or caused the fall.",
      "say": "Ask yourself two things. Did the number stop rising? And if it fell, did it rise again?",
-     "kid": "Read the card. Did the number stop rising? Did it fall and rise again? Point to a curve.",
+     "kid": "Read the card. Count to three, then point to the curve that fits.",
      "ask": [
       {
        "q": "How do you tell an S from an overshoot and crash?",
@@ -826,7 +826,7 @@
      "mins": 3,
      "do": "1. Count the beans. 2. Lay the four J cards together. 3. Ask what each of these populations will do later, and why.",
      "say": "These four are all J curves. Can a J go on for ever? What do you think each one turns into later? Why?",
-     "kid": "Count your beans. Find the four J cards. What will each one become later? Say why.",
+     "kid": "Count your beans. Then lay the four J cards together.",
      "check": {
       "t": "mcq",
       "q": "A population is growing on a J-shaped curve. What must happen in the end?",
@@ -850,7 +850,7 @@
    "title": "The Full Island Test: does a forest keep doubling for ever?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment a paper grid of 36 squares is an island, and each bean is a tree. In every round each tree drops one seed on a square chosen by dice. You count the trees round by round to see how the forest grows.",
+   "context": "In this experiment a paper grid of 36 squares is an island, and each bean is a tree. In every round each tree drops one seed on a square chosen by dice. You count the trees round by round. You will find out whether a forest can keep doubling on a small island.",
    "question": "If every tree drops one seed in every round, does the forest keep doubling? And what happens to the forest if the island is half the size?",
    "predict": "Guess first. You start with 2 trees and play 9 rounds. Will you end with about 18 trees, about 36, or more than 1,000? In which rounds will the forest add the most trees: the first rounds, the middle rounds or the last? Write both guesses and the reason for each.",
    "fair_test": "Use the same rule in every round: one roll of the dice for each tree that stood at the start of the round. In part 2, change only the size of the island. Start with 2 trees both times. Dice are chance, so no two games are the same. The shape of the graph is what you compare, not the exact numbers.",
@@ -964,7 +964,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw a square 18 centimetres wide on the paper. 2. Divide it into 6 columns and 6 rows, each 3 centimetres wide. 3. Number the columns 1 to 6 along the top and the rows 1 to 6 down the side. 4. Put a bean on any two squares. 5. Draw the results table.",
+     "do": "1. Draw a square 18 centimetres wide on the paper. 2. Divide it into 6 columns and 6 rows, each 3 centimetres wide. 3. Number the columns 1 to 6 along the top and the rows 1 to 6 down the side. 4. Put a bean on any two squares. 5. Draw the results table with columns for the round, trees at the start, seeds that died and trees at the end.",
      "say": "This grid is an island with room for 36 trees, one on each square. Two trees have arrived. Let's draw the table before we start.",
      "kid": "Draw 6 columns and 6 rows. Number them 1 to 6. Put a bean on any two squares. Draw the table.",
      "parent": "If you have one die, roll it twice: the first roll is the column and the second is the row. Decide which die is 'column' before you start, and keep to it.",
@@ -975,7 +975,7 @@
      "mins": 3,
      "do": "1. Explain the rule: each tree drops one seed in every round. 2. Ask for the first guess and its reason. 3. Ask for the second guess and its reason. 4. Write both down.",
      "say": "Two trees, and each drops a seed every round, for 9 rounds. How many trees will there be at the end? In which rounds will the forest grow fastest? Why do you think so?",
-     "kid": "Guess how many trees after 9 rounds. Guess which rounds add the most. Say why. Write it down.",
+     "kid": "Guess how many trees you will have after 9 rounds. Guess which rounds add the most. Write both guesses down.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -992,7 +992,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Count the trees and write the number under 'Trees at the start'. 2. Roll the dice once for each of those trees. 3. If the square is empty, put a new bean there. 4. If the square has a bean, the seed dies: make a tally mark. 5. Play rounds 1 to 3 this way.",
+     "do": "1. Count the trees and write the number under 'Trees at the start'. 2. Roll the two dice once for each of those trees: one die gives the column and the other gives the row. 3. If the square is empty, put a new bean there. 4. If the square has a bean, the seed dies: make a tally mark. 5. Play rounds 1 to 3 this way.",
      "say": "Roll once for each tree that was here when the round began. A seed needs light. A seed that lands under a grown tree gets too little light and dies.",
      "kid": "Count the trees. Roll once for each one. Empty square: add a bean. Full square: the seed dies. Play 3 rounds.",
      "parent": "A seed that lands on a square filled earlier in the same round also dies. In these first rounds almost every seed lives, so the forest nearly doubles.",
@@ -1023,8 +1023,8 @@
      "id": "s5",
      "mins": 6,
      "do": "1. On squared paper, mark rounds 0 to 9 along the bottom. 2. Mark trees from 0 to 40 up the side. 3. Plot the trees at the end of each round and join the points. 4. In the table, find the round that added the most trees.",
-     "say": "Now let's turn the table into a picture. Then find the round where the forest added the most trees. How many trees stood at the start of that round?",
-     "kid": "Draw the graph. Rounds go along the bottom, trees up the side. Find the round that added the most.",
+     "say": "Now let's turn the table into a picture. Look at the table first. How many trees did the forest add in each round?",
+     "kid": "Draw the graph. Rounds go along the bottom, trees up the side.",
      "ask": [
       {
        "q": "What shape is the line?",
@@ -1048,7 +1048,7 @@
      "mins": 7,
      "do": "1. Fold the paper so that only rows 1 to 3 show. 2. Change the row rule: a roll of 1 or 2 means row 1, 3 or 4 means row 2, and 5 or 6 means row 3. 3. Ask for a guess and a reason. 4. Start with 2 trees and play 8 rounds. 5. Plot this forest on the same graph in another colour.",
      "say": "Half the island has gone under the sea. The trees are the same and the rule is the same. Where will this forest stop? Why do you think so?",
-     "kid": "Fold the island in half. Guess where the forest will stop. Say why. Play 8 rounds. Plot it in a new colour.",
+     "kid": "Fold the island in half. Play 8 rounds. Plot this forest in a new colour.",
      "parent": "This part is quick, about 85 rolls in all. The forest levels off at or just under 18 trees.",
      "context": "This is part 2 of the Full Island Test. Here you grow the same forest on an island of only 18 squares."
     },
@@ -1057,7 +1057,7 @@
      "mins": 5,
      "do": "1. Lay the graph and the table side by side. 2. Ask your child to say what they thought, what they saw, and why it happened. 3. Your child writes the three sentences. 4. Only then share the note below.",
      "say": "Tell me three things. What did you think would happen? What did you see? And why did the forest stop where it did?",
-     "kid": "Say what you thought. Say what you saw. Say why the forest stopped. Then write the three sentences.",
+     "kid": "Answer the three questions out loud. Then write your three sentences.",
      "ask": [
       {
        "q": "Each tree did the same thing in every round. So why did the forest stop growing?",
@@ -1083,7 +1083,7 @@
      "mins": 2,
      "do": "1. Ask what one change would raise the limit of the paper island. 2. Ask what one change would lower it. 3. If there is time, test one idea for 5 rounds.",
      "say": "You are in charge of the island now. What one change would let it hold more trees? What change would make it hold fewer? Why?",
-     "kid": "Think of one change that raises the limit. Think of one that lowers it. Say why.",
+     "kid": "Pick one change and test it for 5 rounds, if there is time.",
      "think": "Real trees die of age and storms. If two trees fell in every round, would the forest stay at 36?",
      "context": "This is the last step of the Full Island Test. Here you think of your own change to the island and what it would do."
     }
@@ -1094,9 +1094,9 @@
    "title": "The Rats and Snakes Game: what happens to hunters and hunted over many rounds?",
    "mins": 55,
    "days": 1,
-   "context": "In this experiment beans are field rats and cardboard squares are rat snakes. You scatter the rats on a cloth and toss the snakes onto them. Rats who are touched are eaten. You count both for 14 rounds and draw two lines on one graph.",
+   "context": "In this experiment beans are field rats and cardboard squares are rat snakes. You scatter the rats on a cloth and toss the snakes onto them. Rats who are touched are eaten. You count both for 14 rounds and draw two lines on one graph. You will find out which number peaks first, and why.",
    "question": "When snakes eat rats and both have young, what happens to the two numbers over 14 rounds?",
-   "predict": "Guess first. Draw what you think the rat line and the snake line will look like over 14 rounds. Will the two lines rise together, or one after the other? Which will reach its peak first? Write the reason for your guess.",
+   "predict": "Guess first. Say what you think the rat numbers and the snake numbers will do over 14 rounds. You can sketch it too. Will the two lines rise together, or one after the other? Which will reach its peak first? Write the reason for your guess.",
    "fair_test": "Keep the same cloth, folded to the same size. Stand at the same place for every toss, and toss each card once. Count carefully and use the same rules in every round. Tosses are chance, so every game is different. This is a model of a field. Real fields also have owls, weather and other food.",
    "results_table": [
     "Round",
@@ -1240,7 +1240,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Cut 16 squares of thin cardboard, each 10 centimetres wide. 2. Fold the cloth to about 40 by 30 centimetres and lay it flat on the floor. 3. Count out 80 beans into a bowl. 4. Draw the results table with 14 rows.",
+     "do": "1. Cut 16 squares of thin cardboard, each 10 centimetres wide. 2. Fold the cloth to about 40 by 30 centimetres and lay it flat on the floor. 3. Count out 80 beans into a bowl. You will only use 12 at the start. 4. Draw the results table with 14 rows and columns for the round, the rats and the snakes.",
      "say": "The cloth is a paddy field. The beans are field rats and the cards are rat snakes. Let's get everything ready and draw the table.",
      "kid": "Cut 16 cardboard squares. Fold the cloth and lay it flat. Count 80 beans. Draw the table.",
      "adult": true,
@@ -1250,9 +1250,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Read the rules aloud. 2. Ask your child to draw the two lines they expect, and to say why. 3. Keep the drawing.",
-     "say": "A snake must catch 3 rats to live and have a young one. The rats that are left double. What will the two lines look like? Why?",
-     "kid": "Draw the rat line and the snake line you expect. Say why. Keep your drawing.",
+     "do": "1. Read the rules aloud. 2. Ask your child to tell you what the rat numbers and the snake numbers will do, and why. A quick sketch is fine too. 3. Write the guess down.",
+     "say": "A snake must catch 3 rats to live and have a young one. The rats that are left double.",
+     "kid": "Tell your grown-up what the rats and the snakes will do. You can sketch it too.",
      "ask": [
       {
        "q": "Which will peak first, and why?",
@@ -1300,8 +1300,8 @@
      "id": "s5",
      "mins": 8,
      "do": "1. On squared paper, mark rounds 1 to 14 along the bottom. 2. Mark 0 to 80 up the side. 3. Plot the rats in one colour and join the points. 4. Plot the snakes in another colour. 5. Circle the highest point of each line.",
-     "say": "Let's draw both lines on one graph. Circle the highest point of the rat line and the highest point of the snake line. Which came first?",
-     "kid": "Draw both lines on one graph. Circle the top of each line. Which came first?",
+     "say": "Let's draw both lines on one graph. Circle the highest point of each line.",
+     "kid": "Draw both lines on one graph. Circle the top of each line.",
      "ask": [
       {
        "q": "How many rounds after the rats' peak did the snakes peak?",
@@ -1316,9 +1316,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "1. Put the guess drawing beside the real graph. 2. Ask your child to say what they thought, what they saw, and why. 3. Your child writes the three sentences. 4. Only then share the note below.",
+     "do": "1. Put the written guess beside the real graph. 2. Ask your child to say what they thought, what they saw, and why. 3. Your child writes the three sentences. 4. Only then share the note below.",
      "say": "Tell me three things. What did you think would happen? What did you see? And why did the snakes' peak come after the rats' peak?",
-     "kid": "Say what you thought. Say what you saw. Say why the snakes peaked later. Write it down.",
+     "kid": "Answer the three questions out loud. Then write your three sentences.",
      "ask": [
       {
        "q": "Why did the snakes rise only after the rats?",
@@ -1385,9 +1385,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw 16 squares on the paper, in 4 rows of 4. Make each square 5 centimetres wide. 2. Number them 1 to 16. 3. Ask the question below and write down the guess.",
+     "do": "1. Draw 16 squares on the paper, in 4 rows of 4. Make each square 5 centimetres wide. 2. Number them 1 to 16. 3. Ask which square will be the first too small for its rice, and write down the guess.",
      "say": "Square 1 gets one grain. Each next square gets double. Which square will be the first that the grains do not fit on, in one flat layer? Why do you think so?",
-     "kid": "Draw 16 squares and number them. Guess which square will be too small for its rice. Say why.",
+     "kid": "Draw 16 squares and number them. Then make your guess.",
      "context": "This is the first step of Doubling Rice. Here you draw the grid and guess where the rice stops fitting."
     },
     {
@@ -1478,7 +1478,7 @@
      "mins": 3,
      "do": "1. Pour 3 or 4 big handfuls of beans into the bowl. Do not count them. 2. Ask your child to guess the number by looking, and write it down. 3. Ask how they could find out without counting every bean.",
      "say": "How many beans are in this bowl? Guess by looking. Now, how could we find out without counting them all? What is your idea?",
-     "kid": "Guess how many beans are in the bowl. Write it down. Think of a way to find out without counting all.",
+     "kid": "Write down your guess. Then think of a way to find out without counting all the beans.",
      "parent": "Any idea is welcome: weighing a few, counting one cupful, measuring the depth. Each is a kind of sampling.",
      "context": "This is the first step of Count Without Counting. Here you guess the number of beans in a bowl by eye."
     },
@@ -1493,9 +1493,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. With eyes closed, scoop beans out with the cup until you have 40. 2. Count how many of the 40 are marked. 3. Put them all back, stir, and do this twice more. 4. Find the mean number of marked beans. 5. Divide 1,600 by that mean.",
+     "do": "1. With eyes closed, scoop beans out with the cup until you have 40. 2. Count how many of the 40 are marked. 3. Put them all back, stir, and do this twice more. 4. Add the three counts and divide by 3. This is the average, also called the mean. 5. Divide 1,600 (that is 40 × 40) by the average.",
      "say": "If 8 of your 40 are marked, that is one fifth. So our 40 marked beans are about one fifth of the bowl. What does that make the whole bowl?",
-     "kid": "Scoop 40 beans with eyes closed. Count the marked ones. Do it three times. Find the mean. Divide 1,600 by it.",
+     "kid": "Scoop 40 beans with eyes closed. Count the marked ones. Do it three times. Find the average of your three counts. Divide 1,600 by it.",
      "ask": [
       {
        "q": "Why do we divide 1,600 by the number marked?",
@@ -1513,7 +1513,7 @@
      "mins": 8,
      "do": "1. Now count every bean in the bowl, in heaps of ten. 2. Compare the real number with the estimate and with the first guess. 3. Ask why the estimate was not exact. 4. Ask how this could work for tigers.",
      "say": "Now we count them all, to check. How close was the estimate? How close was your first guess? Why was the estimate not exactly right?",
-     "kid": "Count all the beans in tens. Compare with your estimate and your guess. Say why they differ.",
+     "kid": "Count all the beans in tens. Compare the real number with your estimate and your first guess.",
      "check": {
       "t": "mcq",
       "q": "You marked 40 beans. A new sample of 40 has 10 marked. About how many beans are in the bowl?",
@@ -1537,7 +1537,7 @@
    "title": "The Island Graph: plot the reindeer of St Matthew Island",
    "mins": 18,
    "days": 1,
-   "context": "In this activity you plot four real counts of reindeer on St Matthew Island, off Alaska. In 1944 people put 29 reindeer there. The island had plenty of lichen to eat and no predators. You guess the end of the graph before you draw it.",
+   "context": "In this activity you plot four real counts of reindeer on St Matthew Island, off Alaska. In 1944 people put 29 reindeer there. The island had plenty of lichen to eat and no predators. You guess the end of the graph before you draw it. You will find out what happens when a herd has everything it needs.",
    "materials": [
     {
      "item": "a sheet of squared or graph paper",
@@ -1599,9 +1599,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Ask your child to draw, with a dotted line, where the graph goes after 1963. 2. Ask for the reason. 3. Write the guess beside the graph.",
-     "say": "The island is small, and lichen grows back very slowly. What do you think the count was three years later, in 1966? Draw your guess. Why do you think so?",
-     "kid": "Draw a dotted line for what you think happens after 1963. Say why.",
+     "do": "1. Ask your child to draw a dotted line for where the graph goes after 1963, or to say a number for 1966. 2. Ask for the reason. 3. Write the guess beside the graph.",
+     "say": "The island is small, and lichen grows back very slowly. What do you think the count was three years later, in 1966? Draw your guess, or just say a number.",
+     "kid": "Draw a dotted line after 1963, or say a number for 1966.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1619,8 +1619,8 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Show the 1966 count: 42. 2. Plot it and join the line. 3. Ask what could explain the fall. 4. Ask how this differs from the Full Island Test.",
-     "say": "In 1966 a scientist found 42 reindeer and thousands of skeletons. What do you think happened? Why did the number not level off gently?",
-     "kid": "Plot 42 for 1966. Join the line. Say what you think happened, and why.",
+     "say": "In 1966 a scientist found 42 reindeer and many skeletons. What do you think happened?",
+     "kid": "Plot 42 for 1966. Join the line.",
      "check": {
       "t": "mcq",
       "q": "A herd grows far past what its island can feed. What usually follows?",
@@ -1679,7 +1679,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Go to a window, balcony or doorstep. 2. Choose three beings you can see or often see. 3. Good choices are a house crow, a pigeon, a street dog, a squirrel, ants, mosquitoes or a weed in a crack. 4. Draw the table.",
+     "do": "1. Go to a window, balcony or doorstep. 2. Choose three beings you can see or often see. 3. Good choices are a house crow, a pigeon, a street dog, a squirrel, ants, mosquitoes or a weed in a crack. 4. Draw a table with a row for each being. Add columns for what they eat, where they breed or nest, who eats them, and the limiting factor.",
      "say": "Pick three living beings who live near us. For each one, ask a detective's question. Why are there not ten times as many of them here?",
      "kid": "Choose three living beings near home. Draw a table with a row for each.",
      "context": "This is the first step of Limit Detective. Here you choose three living beings near your home."
@@ -1689,7 +1689,7 @@
      "mins": 7,
      "do": "1. For each being, fill in what they eat and where the food comes from. 2. Fill in where they nest or breed. 3. Fill in who eats them or what kills them. 4. Circle the one need that looks hardest to get.",
      "say": "What do they eat here? Where do they raise their young? What kills them? Now, which of these is hardest for them to get on our street? Why do you think so?",
-     "kid": "Fill in food, breeding place and enemies. Circle the need that is hardest to get. Say why.",
+     "kid": "Fill in food, breeding place and enemies. Circle the need that is hardest to get.",
      "ask": [
       {
        "q": "What limits the pigeons here?",
@@ -1714,7 +1714,7 @@
      "mins": 4,
      "do": "1. For one being, ask how the number would change if the limiting factor doubled. 2. Ask how you could test the idea without harming anyone. 3. Write the test in the notebook.",
      "say": "Suppose the limiting thing doubled. What would happen to their number? How could we check your idea just by watching and counting?",
-     "kid": "Choose one being. What happens if their limit doubles? Think of a test by watching and counting.",
+     "kid": "Pick one being. Think of a test you could do by watching and counting.",
      "check": {
       "t": "mcq",
       "q": "A street has plenty of food for crows but only two tall trees. What most likely limits the crows who nest there?",
@@ -1763,9 +1763,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Tell your child that a forest holds 1,000 deer, pigs and gaur. A gaur is a wild cattle. 2. Ask how many tigers can live there, and why. 3. Write the guess.",
+     "do": "1. Tell your child that a forest holds 1,000 deer, pigs and gaur. A gaur is a huge wild ox. 2. Ask how many tigers can live there, and why. 3. Write the guess.",
      "say": "A forest has 1,000 large prey animals. One tiger eats about 50 of them a year. How many tigers can live there, year after year? Why?",
-     "kid": "A forest has 1,000 prey animals. A tiger eats 50 a year. Guess how many tigers can live there. Say why.",
+     "kid": "A forest has 1,000 prey animals. A tiger eats 50 a year. Make your guess and write it down.",
      "parent": "Most children divide 1,000 by 50 and say 20. That is a good first step. The next step shows what it leaves out.",
      "context": "This is the first step of How Many Tigers Can a Forest Feed? Here you guess the number of tigers for a forest with 1,000 prey."
     },
@@ -1774,7 +1774,7 @@
      "mins": 6,
      "do": "1. Ask what the forest would look like after one year with 20 tigers. 2. Lay out 10 beans as the prey. 3. Explain that tigers can take only about 1 bean in 10 each year. 4. Work out how many prey one tiger needs, and how many tigers 1,000 prey can feed.",
      "say": "If 20 tigers ate all 1,000 this year, what would they eat next year? The prey must have young, and leopards, wild dogs and illness take some too. Tigers can take about 1 in 10.",
-     "kid": "Twenty tigers would eat every deer in one year. Tigers can take 1 in 10. Work out the real number.",
+     "kid": "Twenty tigers would eat all 1,000 prey in one year. Tigers can safely take only 1 in 10. Work out the real number.",
      "ask": [
       {
        "q": "How many prey animals must a forest hold for one tiger?",
@@ -1890,7 +1890,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Mark the years 1800 to 2100 along the bottom, in steps of 25. 2. Mark 0 to 11 billion up the side. 3. Plot the eight points from the table. 4. Join them with a smooth line.",
-     "say": "This is the population graph of our own species. Plot the eight points. What shape is the line so far?",
+     "say": "This is the population graph of our own species. Plot the eight points.",
      "kid": "Mark the years along the bottom. Mark billions up the side. Plot the eight points and join them.",
      "ask": [
       {
@@ -1907,7 +1907,7 @@
      "mins": 5,
      "do": "1. Work out the years between each point and the next. 2. Write them in a row. 3. Ask which billion was added fastest. 4. Ask whether the gaps are still shrinking.",
      "say": "How many years did each new billion take? Which one was fastest? Is each billion still coming faster than the one before?",
-     "kid": "Find the years between each billion. Which was fastest? Are the gaps still getting smaller?",
+     "kid": "Work out how many years each new billion took.",
      "parent": "The gaps are about 123, 33, 14, 13, 12, 12 and 11 years. They stopped shrinking in the 1970s. The United Nations expects the ninth billion to take about 15 years.",
      "context": "This is the working step of the Human Curve. Here you find how many years each billion took."
     },
@@ -1916,7 +1916,7 @@
      "mins": 4,
      "do": "1. Tell your child that the United Nations expects a peak of about 10.3 billion in the 2080s. 2. Add that point with a dotted line. 3. Ask what shape the whole curve is becoming. 4. Ask what is slowing it.",
      "say": "The United Nations expects about 10.3 billion people in the 2080s, and then a slow fall. Draw that with a dotted line. What shape is the curve becoming? What could be slowing it?",
-     "kid": "Add 10.3 billion in the 2080s with a dotted line. What shape is the curve now? What is slowing it?",
+     "kid": "Add 10.3 billion in the 2080s with a dotted line.",
      "check": {
       "t": "mcq",
       "q": "The world's population is still growing, but more slowly. What is the main reason?",
@@ -2013,7 +2013,7 @@
      "mins": 15,
      "do": "1. Poke three small holes in the bottom of each paper cup and stand the cups on a plate. 2. Fill each cup three-quarters full of soil. 3. Label them 5, 25 and 100. 4. Count out the seeds and spread them evenly on the soil. 5. Cover them with a thin layer of soil and give each cup 2 tablespoons of water. 6. Ask for a guess and write it down.",
      "say": "The third cup has 20 times as many seeds as the first. Will it grow 20 times as much methi? What will the plants in each cup look like? Why do you think so?",
-     "kid": "Sow 5, 25 and 100 seeds in three cups. Water them. Will 100 seeds give 20 times the methi? Say why.",
+     "kid": "Sow 5, 25 and 100 seeds in three cups. Water them.",
      "adult": true,
      "parent": "Steel tumblers have no holes, so give them only 1 tablespoon of water a day. Water all three cups the same, every day or two, so the soil is damp but not soaked.",
      "context": "This is day 1 of Crowded Cups. Here you sow three cups with different numbers of seeds and write your guess."
@@ -2032,7 +2032,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Count and measure again. 2. Look at the lowest leaves: are they green or yellow? 3. Count the plants that have fallen over. 4. Look for white fuzz, which is mould.",
-     "say": "It is day 14. The food stored in the seeds is used up. Now each plant must get light, water and soil food for herself. What has changed?",
+     "say": "It is day 14. The food stored in the seeds is used up. Now each plant must get light, water and soil food for itself. What has changed?",
      "kid": "Count and measure again. Check the leaf colour. Count the fallen plants. Look for white fuzz.",
      "wait": "Leave the cups for 7 more days, watering them the same.",
      "parent": "Crowded seedlings are usually taller, thinner and paler, because they stretch for light and share the soil. Mould in the crowded cup is a result too. Disease spreads fastest where plants touch.",
@@ -2043,7 +2043,7 @@
      "mins": 25,
      "do": "1. Count and measure for the last time. 2. Cut each cup's plants at the soil with scissors. 3. Lay the three harvests side by side, or weigh them. 4. Compare the harvest from 100 seeds with the harvest from 5. 5. Ask your child to say what they thought, what they saw and why.",
      "say": "The third cup had 20 times the seeds. Did it give 20 times the harvest? Tell me what you thought, what you saw, and why it came out that way.",
-     "kid": "Cut the plants in each cup. Compare the three harvests. Say what you thought, what you saw and why.",
+     "kid": "Cut the plants in each cup. Lay the three harvests side by side.",
      "adult": true,
      "ask": [
       {
@@ -2143,7 +2143,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Read the growth table together: 6 fish add 5, 12 add 8, 18 add 9, 24 add 8, 30 add 5, and 36 add 0. 2. Ask where it comes from: the Full Island Test, where the forest grew fastest when half full. 3. Ask why a full pond adds no fish. 4. Draw a table with columns for fish at the start, new fish, catch, and fish at the end.",
-     "say": "Look at the table. A pond of 36 adds nothing, and a pond of 6 adds 5. Where does the pond add the most? Why would a full pond add none?",
+     "say": "Look at the table. A pond of 36 adds nothing, and a pond of 6 adds 5. Where does the pond add the most?",
      "kid": "Read the growth table. Find where the pond adds the most fish. Draw your ten-year table.",
      "ask": [
       {
@@ -2158,7 +2158,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Ask your child to choose a first rule and say why. 2. Run it for 10 years in the table. 3. Add up the total catch. 4. Check the last rule in the list of constraints.",
+     "do": "1. Ask your child to choose a first rule and say why. 2. Run it for 10 years in the table. 3. Add up the total catch. 4. Check the last constraint: at the end of year 10 the pond must hold at least as many fish as at the end of year 9.",
      "say": "Choose your first rule. How many will you catch each year? Why that number? Let's run it for ten years and add up the catch.",
      "kid": "Choose a rule and say why. Run it for 10 years. Add up your catch.",
      "parent": "A common first rule is 'catch 10 every year'. It gives 100 fish in 10 years, which looks best. But the pond shrinks every year, from 36 to 13, so it fails the last constraint. No row of the table adds 10.",
@@ -2190,7 +2190,7 @@
      "mins": 5,
      "do": "1. Your child writes their own rule in one sentence. 2. They run it for 10 years. 3. Ask what would happen in a year when the real pond added fewer fish than the table says.",
      "say": "Write your own rule and test it. Then think about this. Real ponds have bad years. What would your rule do in a year when only 5 new fish came?",
-     "kid": "Write your own rule. Test it for 10 years. What happens to it in a bad year?",
+     "kid": "Write your own rule. Test it for 10 years.",
      "think": "Real fishers cannot see how many fish are in the sea. How could they find out?",
      "context": "This is the last step of the Fishing Rule. Here you write and test your own rule, and think about a bad year."
     }
@@ -2230,7 +2230,7 @@
     },
     {
      "art": "A hand-drawn plan of a flat and its balcony with crosses marked at a plant saucer, a bucket, a cooler and a covered drum.",
-     "caption": "2. Mark each place on a plan. Write what you will do there, and how often."
+     "caption": "2. Write down each place. Write what you will do there, and how often."
     }
    ],
    "flow": [
@@ -2238,8 +2238,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Ask what mosquitoes need in order to multiply. 2. Explain that the eggs are laid in still water, and that the young live in the water for about a week. 3. Ask which is easier to change: the mosquitoes, or the water.",
-     "say": "Killing mosquitoes lowers the number for a day or two. Then more grow up. What do they need that we could take away? Why would that last longer?",
-     "kid": "Mosquito young grow in still water for about a week. What could we take away? Say why it would last.",
+     "say": "Killing mosquitoes lowers the number for a day or two. Then more grow up. What do they need that we could take away?",
+     "kid": "Mosquito young grow in still water for about a week. What could we take away?",
      "ask": [
       {
        "q": "Why does taking away still water last longer than killing mosquitoes?",
@@ -2254,9 +2254,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Walk round the home with a torch. 2. Look at plant saucers, buckets, drums, coolers, the fridge tray, the roof and the area outside. 3. Mark each place with still water on a drawn plan. 4. Look in the water for tiny wrigglers.",
+     "do": "1. Walk round the home with a torch. 2. Look at plant saucers, buckets, drums, coolers, the fridge tray, the roof and the area outside. 3. Write down each place with still water, or take a photo of it. 4. Look in the water for tiny wrigglers.",
      "say": "Let's hunt for still water. Check anything that could hold water for a week. If you see tiny wrigglers that jerk when the water is tapped, those are mosquito young.",
-     "kid": "Walk round with a torch. Find every place with still water. Mark each one on your plan.",
+     "kid": "Walk round with a torch. Find every place with still water. Write each one down or take a photo.",
      "adult": true,
      "parent": "A grown-up checks the roof, overhead tanks and anything outdoors. Common places people miss are the tray behind the fridge, air cooler tanks and the saucers under pots.",
      "context": "This is the hunting step of Fewer Mosquitoes Without Spray. Here you find and map the still water at your home."
@@ -2265,7 +2265,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. For each marked place, choose an action: empty weekly, cover, turn over or throw away. 2. Write who will do it, and on which day. 3. Check the plan against the three constraints.",
-     "say": "For each place, what will we do, and how often? Remember, the young take about a week to grow. So how often must we empty the water?",
+     "say": "For each place, what will we do, and how often? Remember, the young take about a week to grow.",
      "kid": "Write an action for each place. Write the day and who does it. Check the three rules.",
      "check": {
       "t": "mcq",

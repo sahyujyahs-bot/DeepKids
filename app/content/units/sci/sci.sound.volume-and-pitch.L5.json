@@ -713,8 +713,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Play until one player has both coins on their target numbers. 2. Ask the question below. 3. If there is time, swap target cards and play again.",
-     "say": "You reached your target. Which cards did you need most? Was there a card that could have moved both coins at once?",
-     "kid": "Play until someone reaches their target. Which cards did you need most?",
+     "say": "You reached your target. Which cards did you need most?",
+     "kid": "Play until someone has both coins on their target.",
      "ask": [
       {
        "q": "Did any card move both the volume and the pitch?",
@@ -738,7 +738,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about frequency. Each card names a sound, and its frequency in hertz is on the back. Players build one line of cards, from the lowest frequency to the highest.",
+   "context": "This is a card game about frequency. Each card names a sound, and its frequency in hertz is on the back. Players build one line of cards, from the lowest frequency to the highest. You will find out which sounds a person cannot hear.",
    "printables": [
     {
      "kind": "cards",
@@ -874,8 +874,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. When the game ends, look at the whole line. 2. Find the two cards that mark the range of human hearing. 3. Ask the question below.",
-     "say": "Look at the finished line. Find 20 hertz and 20,000 hertz. Everything between them, a young person can hear. Which sounds lie outside?",
-     "kid": "Look at the whole line. Find 20 hertz and 20,000 hertz. Which sounds are outside them?",
+     "say": "Look at the finished line. Find 20 hertz and 20,000 hertz. Everything between them, a young person can hear.",
+     "kid": "Look at the whole line. Find 20 hertz and 20,000 hertz.",
      "ask": [
       {
        "q": "Which sounds on the cards are outside human hearing?",
@@ -897,7 +897,7 @@
    "title": "The Water-Bottle String: does twice the pull give twice the frequency?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you stretch one string across a table and hang a bottle of water from its end. You change the amount of water, then the length of the string, then its thickness. Each time you measure the note with a tuner app.",
+   "context": "In this experiment you stretch one string across a table and hang a bottle of water from its end. You change the amount of water, then the length of the string, then its thickness. Each time you measure the note with a tuner app. You will find out which changes make the note higher. The tuner gives the frequency in hertz: how many times the string wiggles each second.",
    "question": "How does the pull on a string change its pitch? Does twice the pull give twice the frequency? What do a shorter string and a thicker string do?",
    "predict": "Guess first. The bottle will hang a quarter full, then half full, then full. Will the note go up or down? Will the full bottle give four times the frequency of the quarter-full bottle? Why do you think so?",
    "fair_test": "In the first test, change only the amount of water. That is the independent variable. Keep the same string, the same 40 centimetres between the pencils, and pluck at the middle each time. These are the control variables. Measure the frequency in hertz. That is the dependent variable. Pluck three times for each amount of water, because one reading can be a fluke. In the second test, keep the water the same and change only the length. In the third test, change only the thickness.",
@@ -1050,7 +1050,7 @@
      "mins": 4,
      "do": "1. Fill the bottle to the top. Pour it out equally into the four tumblers. Each tumbler now holds a quarter of the bottle. 2. Pour one tumbler back. The bottle is a quarter full. 3. Put the bottle in the bag and pluck the string once. 4. Ask for a guess and a reason, and write both down.",
      "say": "This bottle is a quarter full. Later it will be half full, and then full. Will the note go up or down? Will the full bottle give four times the frequency? Why do you think so?",
-     "kid": "The bottle is a quarter full. Later it will be full. Will the note go up or down? By how much? Why?",
+     "kid": "The bottle is a quarter full. Later it will be full. Will the note go up or down? By how much?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1116,7 +1116,7 @@
      "id": "s6",
      "mins": 6,
      "do": "1. Look at the table together. 2. Ask your child to say what they thought would happen, what they measured, and why they think it happened. 3. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your table. Say what you thought would happen, what you measured, and why you think it happened. Which three changes made the note higher?",
+     "say": "Look at your table. Say what you thought would happen, what you measured, and why you think it happened.",
      "kid": "Say what you thought would happen. Say what you measured. Say why you think it happened.",
      "ask": [
       {
@@ -1146,7 +1146,7 @@
    "title": "Gentle Pluck, Hard Pluck: does a bigger vibration change the note?",
    "mins": 20,
    "days": 1,
-   "context": "This experiment uses the Water-Bottle String: a string stretched across a table, with a half-full bottle hanging from its end. You pull the string aside by three measured distances and let go. You measure the loudness and the note each time.",
+   "context": "This experiment uses the Water-Bottle String: a string stretched across a table, with a half-full bottle hanging from its end. You pull the string aside by three measured distances and let go. You measure the loudness and the note each time. You will find out whether a harder pluck makes the note louder, higher or both.",
    "question": "When a string is pulled further aside and let go, what changes: the volume, the pitch, or both?",
    "predict": "Guess first. You will pull the string aside by half a centimetre, 1 centimetre and 2 centimetres. Which pull will be loudest? Will the note be higher, lower or the same? Why do you think so?",
    "fair_test": "Change only how far you pull the string aside. That is the independent variable. Keep the same string, the same half-full bottle and the same 40 centimetres between the pencils. Keep the phone in the same place. Measure two things, one at a time: the loudness in decibels and the frequency in hertz. Do each pull three times.",
@@ -1233,7 +1233,7 @@
      "mins": 4,
      "do": "1. Check that the bottle is half full and the pencils are 40 cm apart. 2. Lay the ruler flat on the table under the middle of the string, across it. The string should lie over the zero mark. 3. Put the phone 10 cm from the string and open the sound meter. 4. Ask for a guess and a reason, and write both down.",
      "say": "You will pull the string aside by half a centimetre, then 1, then 2. Which will be loudest? Will the note change? Why do you think so?",
-     "kid": "You will pull the string a little, then more. Which pull is loudest? Will the note change? Why?",
+     "kid": "You will pull the string a little, then more. Which pull is loudest? Will the note change?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1251,7 +1251,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Pull the middle of the string sideways to the half-centimetre mark and let go. 2. Read the highest number on the sound meter. Do this three times. 3. Do the same for 1 cm and for 2 cm. 4. Each time, count the seconds until you cannot hear the note.",
-     "say": "Pull to the mark, let go, and watch the meter. Tell me the highest number it reaches. Look at the string too. How wide is the blur?",
+     "say": "Pull to the mark, let go, and watch the meter. Tell me the highest number it reaches. Look at the string too. It looks like a blur. How wide is the blur?",
      "kid": "Pull the string to the mark. Let go. Read the highest number. Count how long you hear it.",
      "parent": "Keep the room quiet. The readings should rise by roughly 6 decibels each time the pull doubles. Phone microphones are rough, so look at the order and not at the exact numbers. Without an app, a listener one metre away gives each pluck a score of 1, 2 or 3.",
      "context": "In this step of Gentle Pluck, Hard Pluck you pull the Water-Bottle String aside by three distances. You measure the loudness of each in decibels."
@@ -1284,7 +1284,7 @@
      "kid": "Say what you thought would happen. Say what you measured. Say why you think it happened.",
      "ask": [
       {
-       "q": "As the sound faded, the blur got narrower. What happened to the note?",
+       "q": "As the sound faded, the string's wiggle got smaller. What happened to the note?",
        "good": [
         "It stayed the same.",
         "It got quieter, and it did not get lower."
@@ -1302,7 +1302,7 @@
    "title": "The Muffle Test: what makes a ringing phone quietest?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment a phone plays the same tune under five different covers. A second phone measures the volume from 50 centimetres away. You find which cover muffles best, and you listen for any change in the tune.",
+   "context": "In this experiment a phone plays the same tune under five different covers. A second phone measures the volume from 50 centimetres away. You will find out which cover muffles best, and whether any cover changes the tune.",
    "question": "Which cover makes a ringing phone quietest: one layer of towel, four layers, or a closed steel dabba? What does a small gap do? Does any cover change the pitch of the tune?",
    "predict": "Guess first. Put the five covers in order, from the loudest reading to the quietest. Will any cover make the tune sound lower or higher? Why do you think so?",
    "fair_test": "Change only the cover. That is the independent variable. Use the same phone, the same tune from its start, and the same volume setting, at about half. Keep both phones on the same marks, 50 centimetres apart. Measure the highest reading in decibels in 10 seconds. That is the dependent variable. Test each cover twice. Keep the room as quiet as you can for every test.",
@@ -1422,7 +1422,7 @@
      "mins": 3,
      "do": "1. Show the covers: one towel, the same towel folded into four layers, and the steel dabba. 2. Say that the dabba will be tested closed, and then with its lid open by one finger-width. 3. Ask for an order, from loudest to quietest, and a reason. Write both down.",
      "say": "Here are the covers. Put them in order, from the loudest reading to the quietest. Will any of them change the tune itself? Why do you think so?",
-     "kid": "Look at the covers. Which will be loudest? Which will be quietest? Will the tune change? Why?",
+     "kid": "Look at the covers. Which will be loudest? Which will be quietest? Will the tune change?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1509,7 +1509,7 @@
    "title": "Four Hums: can you change loudness and pitch separately?",
    "mins": 10,
    "days": 1,
-   "context": "This is a short activity to start the unit. You hum in four ways with a hand on your throat. Then you sort the sounds of your home into four boxes.",
+   "context": "This is a short activity to start the unit. You hum in four ways with a hand on your throat. Then you sort the sounds of your home into four boxes. You will find out whether loud and high are the same thing.",
    "materials": [
     {
      "item": "your own voice",
@@ -1527,7 +1527,7 @@
      "what": "Hum soft and low, strong and low, soft and high, strong and high. Then sort eight home sounds into four boxes."
     }
    ],
-   "record": "Draw a square and divide it into four boxes: quiet and low, loud and low, quiet and high, loud and high. Write two sounds from your home in each box.",
+   "record": "Fold a sheet of paper into four boxes: quiet and low, loud and low, quiet and high, loud and high. Write two sounds from your home in each box.",
    "setup": [
     {
      "art": "A child sitting with one hand resting lightly on the front of her throat, humming with closed lips.",
@@ -1539,7 +1539,7 @@
     },
     {
      "art": "A square on paper divided into four boxes labelled quiet and low, loud and low, quiet and high, loud and high.",
-     "caption": "3. Draw four boxes. Write two home sounds in each."
+     "caption": "3. Fold a paper into four boxes. Put two home sounds in each."
     }
    ],
    "flow": [
@@ -1565,9 +1565,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Draw a square and divide it into four boxes. 2. Label them: quiet and low, loud and low, quiet and high, loud and high. 3. Together, think of eight sounds in your home and street. 4. Your child writes each one in a box.",
+     "do": "1. Fold a sheet of paper into four boxes. 2. Label them: quiet and low, loud and low, quiet and high, loud and high. 3. Together, think of eight sounds in your home and street. 4. Your child says which box each one goes in. Write each name there, or let your child write it.",
      "say": "Here are four boxes. Where does the fridge's hum go? The doorbell? A crow? A spoon dropped on the floor? Find two sounds for every box.",
-     "kid": "Draw four boxes. Think of eight sounds at home. Write each one in the box where it fits.",
+     "kid": "Think of eight sounds at home. Say which box each one fits in.",
      "parent": "There is no single right box for some sounds, and the talk matters more than the answer. A fridge is quiet and low. A mixie is loud. A sparrow is quiet and high. If a box stays empty, listen at the window for a minute.",
      "context": "In this step of Four Hums you sort eight sounds from your home into four boxes: quiet or loud, and low or high."
     },
@@ -1575,8 +1575,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Ask the question below. 2. Take any answer, and write it down to look at again later.",
-     "say": "You made a hum louder without making it higher. You made it higher without making it louder. So are loud and high the same thing? What might each one be?",
-     "kid": "You changed loud without changing high. Are loud and high the same thing? What do you think?",
+     "say": "You made a hum louder without making it higher. You made it higher without making it louder. What do you think about that?",
+     "kid": "Think about your four hums. You changed one thing at a time.",
      "ask": [
       {
        "q": "Are loud and high the same thing?",
@@ -1596,7 +1596,7 @@
    "title": "The Sound Grid: eight home sounds, two numbers",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you measure the volume of eight sounds in your home with a sound meter app. You judge the pitch of each by ear. Then you place all eight on one grid.",
+   "context": "In this activity you measure the volume of eight sounds in your home with a sound meter app. Decibels measure how loud a sound is. You judge the pitch of each by ear. Then you place all eight on one grid. You will find out whether loud sounds are always high.",
    "materials": [
     {
      "item": "a phone with a free sound meter app",
@@ -1714,8 +1714,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Draw a grid. Write low, middle and high along the bottom. 2. Mark decibels up the side, from 20 to 100 in steps of 10. 3. Draw a red line across at 85. 4. Your child puts a dot and a name on the grid for each sound.",
-     "say": "Each sound gets one dot. Its place along the bottom shows its pitch, and its height shows its volume. Is any dot above the red line?",
-     "kid": "Draw the grid. Put a dot for each sound. Pitch goes along, and decibels go up.",
+     "say": "Each sound gets one dot. Its place along the bottom shows its pitch, and its height shows its volume. The red line is 85 decibels, where long, loud sound can hurt ears. Is any dot above it?",
+     "kid": "Draw the grid, or use a sheet of squared paper. Put a dot for each sound. Pitch goes along, and decibels go up.",
      "parent": "Sounds above 85 decibels can harm hearing over hours. A mixie is near the line, and it runs for only a minute or two at a time.",
      "context": "In this step of the Sound Grid you place your eight sounds on a grid. Pitch runs along the bottom and volume runs up the side."
     },
@@ -1723,8 +1723,8 @@
      "id": "s4",
      "mins": 3,
      "do": "1. Look at the finished grid together. 2. Ask the questions below.",
-     "say": "Look at your grid. Are the loud sounds all high? Are the quiet sounds all low? What does that tell you about volume and pitch?",
-     "kid": "Look at your dots. Are loud sounds always high? Are quiet sounds always low?",
+     "say": "Look at your grid. What does it tell you about volume and pitch?",
+     "kid": "Look at your dots. Where are the loud sounds? Where are the quiet ones?",
      "ask": [
       {
        "q": "Are the loud sounds all high-pitched?",
@@ -1734,7 +1734,7 @@
        ]
       },
       {
-       "q": "Which sound was 10 decibels more than another? How much more energy does it carry?",
+       "q": "One sound reads 10 decibels more than another. How much more energy does it carry?",
        "good": [
         "Ten times as much."
        ]
@@ -1750,7 +1750,7 @@
    "title": "The Filling Bottle: hear an air column get shorter",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you pour water into a tall bottle and listen. The sound of the pouring changes as the bottle fills. You use that change to tell how full the bottle is with your eyes shut.",
+   "context": "In this activity you pour water into a tall bottle and listen. The sound of the pouring changes as the bottle fills. You will find out why the note goes up as the bottle fills. You use that change to tell how full the bottle is with your eyes shut.",
    "materials": [
     {
      "item": "a tall, narrow bottle of about 1 litre",
@@ -1776,7 +1776,7 @@
      "what": "Pour water into a tall bottle and listen to the note rise. Then tell by ear, with eyes shut, when the bottle is nearly full."
     }
    ],
-   "record": "Draw the bottle three times: nearly empty, half full and nearly full. Shade the air column in each. Write its length in centimetres, and write 'lowest', 'middle' or 'highest' note beside it.",
+   "record": "Make a table with three rows: nearly empty, half full and nearly full. In each row write the length of the air column in centimetres, and write 'lowest', 'middle' or 'highest' for the note. You can also take a photo of each bottle.",
    "setup": [
     {
      "art": "A tall plastic bottle standing in a sink while a thin stream of water pours into it from a jug.",
@@ -1797,7 +1797,7 @@
      "mins": 4,
      "do": "1. Stand the bottle in the sink or the bucket. 2. Pour water in from the jug in a thin, steady stream, until the bottle is full. 3. Your child listens with eyes open. 4. Empty the bottle.",
      "say": "Listen to the sound the water makes inside the bottle while I pour. What do you notice? What do you wonder?",
-     "kid": "Listen while the water pours in. What happens to the sound? What do you wonder?",
+     "kid": "Listen closely while the water pours in.",
      "ask": [
       {
        "q": "What happened to the sound as the bottle filled?",
@@ -1824,7 +1824,7 @@
      "mins": 6,
      "do": "1. Fill the bottle a quarter full. Measure the air column, from the water up to the mouth. 2. Do the same half full and three-quarters full. 3. Ask the question below before you explain. 4. Then read the note to your child.",
      "say": "The water is not what sings. Something else in the bottle is getting shorter as the water rises. What is it? What does a shorter one do to the note?",
-     "kid": "Measure the air above the water three times. What gets shorter as the bottle fills? What happens to the note?",
+     "kid": "Measure the air above the water at three levels.",
      "ask": [
       {
        "q": "What is getting shorter as the bottle fills?",
@@ -1907,7 +1907,7 @@
      "mins": 5,
      "do": "1. Hold the band at 22 cm. 2. A partner pinches the band firmly, exactly halfway along. 3. Your child plucks one half. 4. Let go of the pinch and pluck the whole band again.",
      "say": "Now the stretch stays the same. My pinch makes the vibrating part half as long. Guess first. What will the note do?",
-     "kid": "Keep the band at 22 cm. A partner pinches the middle. Pluck one half. What happens to the note?",
+     "kid": "Keep the band at 22 cm. A partner pinches the middle. Pluck one half.",
      "ask": [
       {
        "q": "What did the pinch do to the note?",
@@ -2061,9 +2061,9 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Your child looks at each instrument or watches it being played for two minutes. 2. For each one they answer three questions and fill in a row of the table. 3. Do not show the answer table yet.",
+     "do": "1. Your child looks at each instrument or watches it being played for two minutes. 2. For each one they answer three questions and fill in a row of their own table. 3. Do not show the answer table yet.",
      "say": "Watch the player's hands. What is vibrating? What does the player do to get a higher note? What does the player do to get a louder note?",
-     "kid": "Watch the player's hands. What vibrates? How does the note go higher? How does it get louder?",
+     "kid": "Watch the player's hands. Fill in one row of your table for each instrument.",
      "ask": [
       {
        "q": "What does the player do to get a higher note?",
@@ -2091,7 +2091,7 @@
      "mins": 3,
      "do": "1. Ask the question below. 2. Let your child test the answer by humming a slide from a low note to a high note.",
      "say": "Some instruments can slide smoothly from one note to the next, and some cannot. Which of your three can slide? What lets them do it?",
-     "kid": "Which of your instruments can slide from one note to the next? Why can they?",
+     "kid": "Hum a slide from a low note to a high note. Can any of your instruments do that?",
      "ask": [
       {
        "q": "Which instruments can slide between notes, and why?",
@@ -2114,7 +2114,7 @@
    "title": "Two Instruments, One Tune: match a string to three bottles",
    "days": 2,
    "mins": 50,
-   "context": "In this two-day project you tune three bottles of water to three notes by blowing across them. The Water-Bottle String is a string stretched across a table and pulled tight by a hanging bottle. You find the three lengths of it that give the same notes. Then you play one tune on both.",
+   "context": "In this two-day project you tune three bottles of water to three notes by blowing across them. The Water-Bottle String is a string stretched across a table and pulled tight by a hanging bottle. You find the three lengths of it that give the same notes. Then you play one tune on both, and find out whether they sound the same.",
    "materials": [
     {
      "item": "bottles of the same size and shape, glass or hard plastic, of 500 ml to 1 litre",
@@ -2255,7 +2255,7 @@
     "Slide a steel tumbler along the string as you pluck. A chitravina player slides a smooth block along the strings in this way.",
     "Thread the string through the bottom of a paper cup, so that the cup pushes the air."
    ],
-   "your_turn": "Now design your own instrument. Draw it first and mark how you will get five notes. Build it and test it with a listener four big steps away. Write which idea changed the pitch, which idea changed the volume, and what you would change next time.",
+   "your_turn": "Now design your own instrument. Draw it first, or tell your grown-up your plan, and say how you will get five notes. Build it and test it with a listener four big steps away. Write which idea changed the pitch, which idea changed the volume, and what you would change next time.",
    "setup": [
     {
      "art": "A single string lying on a table beside an empty shoe box, a bucket, two pencils and a bottle of water.",
@@ -2275,8 +2275,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Read the problem and the four rules aloud. 2. Your child plucks the bare string, held tight between two hands by a helper. 3. The listener stands four big steps away and says whether they can hear it. 4. Ask the questions below.",
-     "say": "Here is the problem. One string, five notes, heard from four steps away. A bare string is very quiet. Why? And what could change its note?",
-     "kid": "Read the problem. Pluck the bare string. Can the listener hear it? What must you change?",
+     "say": "Here is the problem. One string, five notes, heard from four steps away. A bare string is very quiet. Why?",
+     "kid": "Read the problem. Pluck the bare string. Can the listener hear it?",
      "ask": [
       {
        "q": "What will you change to get five different notes?",
@@ -2299,7 +2299,7 @@
     {
      "id": "s2",
      "mins": 16,
-     "do": "1. Read the usual ideas together: a box, marks along the string, and a pencil as a peg. 2. Your child chooses, draws a plan and builds it. 3. They test the five notes with the listener. 4. They change one thing at a time and test again.",
+     "do": "1. Read the usual ideas together: a box, marks along the string, and a pencil as a peg. 2. Your child chooses and builds it. A quick plan on paper helps, or they can tell you the plan. 3. They test the five notes with the listener. 4. They change one thing at a time and test again.",
      "say": "Which idea will you use for the notes, and which for the loudness? Why do you think it will work? Change one thing at a time, so you know what helped.",
      "kid": "Pick an idea for the notes. Pick an idea for the loudness. Build it. Test it. Change one thing.",
      "adult": true,
@@ -2309,7 +2309,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Read the creative ideas together. 2. Your child tries one, or adds it to their instrument. 3. They play the five notes for the listener, up and then down. 4. They write what changed the pitch and what changed the volume.",
+     "do": "1. Read the creative ideas together. 2. Your child tries one, or adds it to their instrument. 3. They play the five notes for the listener, up and then down. 4. They say, or write, what changed the pitch and what changed the volume.",
      "say": "Here are three unusual ideas. Which one would you like to try? When you have finished, play me your five notes, up and then down.",
      "kid": "Read the unusual ideas. Try one. Play your five notes up and down. Write what you changed.",
      "ask": [

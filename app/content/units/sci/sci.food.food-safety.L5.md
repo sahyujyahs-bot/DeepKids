@@ -283,14 +283,14 @@ Mallika did not look up from the fire.
   *Child mode:* Cut out the cards. One finger is serve. Two is change. Three is stop.
 - **s2 (13 min)**  
   *Parent does:* Play through the pile. After each answer, ask the player which clue on the card decided it.  
-  *Parent says:* Read the card and wait ten seconds. Then say go. After the answer, tell us which clue decided it: the food, the hours, the warmth or the person.  
+  *Parent says:* Read the card and wait ten seconds. Then say go.  
   *Child mode:* Hold up your fingers on go. Say what you would change, or why you stop.
   - Ask: Which clue decided this card: the food, the hours, the warmth or the person? (good: The hours: it was warm for too long.; The person: a baby needs more care.; The food: it is wet and not sour.; The warmth: the fridge had warmed up.)
   - Note: Many cards turn on one clue. A baby and honey, a swollen tin and mould on soft food are always stop. Leftovers that were chilled fast are change: reheat until steaming.
 - **s3 (4 min)**  
   *Parent does:* Count the points. Lay out all the STOP cards together and ask the question below.  
   *Parent says:* Look at the stop cards. Could you have seen or smelled the problem in every one of them? Which ones give no sign at all?  
-  *Child mode:* Count your points. Which stop cards give no sign you can see or smell?
+  *Child mode:* Count your points. Look at the stop cards.
   - Check: Rice was kept warm for twelve hours and then reheated until it steamed. Why is it still a STOP? → **The toxin stays after heating**
 ### g2 · The Keep Line: which food keeps longer? (20 min)
 - **rules:** Shuffle the 20 cards with the food side up. Deal 4 cards to each player, food side up on the table. Nobody looks at the backs.; Put one card from the pile in the middle and turn it over. This card starts the Keep Line.; On your turn, choose one of your cards. Put it in the line where you think it belongs: to the left if it keeps for a shorter time, to the right if longer.; Turn your card over. If it is in the right place, it stays. If it is wrong, move it to its right place and take a new card from the pile.; Read the reason on the back aloud each time.; The first player with no cards left wins. If the pile runs out, the player with the fewest cards wins.; Playing alone? Lay all 20 cards in one line by your best guess. Then turn them over, and count how many are out of order.; The times are careful rules of thumb for a warm Indian kitchen at about 30 degrees Celsius.
@@ -298,7 +298,7 @@ Mallika did not look up from the fire.
 - **s1 (3 min)**  
   *Parent does:* Cut out the cards and read the rules. Before you deal, ask which food in the kitchen your child thinks keeps longest, and why.  
   *Parent says:* Which food in our kitchen do you think keeps the longest? Which spoils the fastest? What makes you think so?  
-  *Child mode:* Which food keeps longest? Which spoils fastest? Say why you think so.
+  *Child mode:* Guess which food keeps longest and which spoils fastest.
 - **s2 (13 min)**  
   *Parent does:* Play until one player has no cards. Each time a card is turned, the player reads the reason aloud.  
   *Parent says:* Place your card, then turn it over and read the reason. Listen for what protects each food: dryness, sourness, salt, sugar, cold or a seal.  
@@ -306,8 +306,8 @@ Mallika did not look up from the fire.
   - Note: Children often place fridge foods too far to the right. Cold only slows microbes. Dry, sealed and very sweet foods keep far longer than chilled ones.
 - **s3 (4 min)**  
   *Parent does:* Look at the finished line together. Ask the questions below.  
-  *Parent says:* Look at the left end and the right end of the line. What are the foods on the left like? What are the foods on the right like?  
-  *Child mode:* Look at both ends of the line. How are the two ends different?
+  *Parent says:* Look at the left end and the right end of the line.  
+  *Child mode:* Compare the two ends of the line.
   - Ask: What do the foods at the left end have in common? (good: They are wet.; They are not sour, salty or very sweet.; They are warm.; Some are still alive, like the leaves.)
   - Ask: What do the foods at the right end have in common? (good: They are dry.; They are sealed.; They are full of salt or sugar.; Microbes cannot get water from them.)
   - Check: Curd in the fridge keeps a week. Dry rice in a bin keeps two years. What does that show? → **Dryness protects food longer than cold does**
@@ -323,13 +323,13 @@ Mallika did not look up from the fire.
 - **s1 (5 min)**  
   *Parent does:* Check the thermometer in a cup of hot tap water. Most digital fever thermometers show HI or H above about 43 degrees Celsius. Then ask for the guess and the reason, and write both down.  
   *Parent says:* I will put the same hot rice in this bowl and on this plate. Which will cool first, and by how many minutes? Will the edge of the bowl cool with the middle? Why do you think so?  
-  *Child mode:* Hot rice goes in a bowl and on a plate. Which cools first? Why do you think so?
+  *Child mode:* Guess which one cools first, and say why.
   - Ask: Where does the heat of the rice go when the rice cools? (good: Into the air.; Into the plate and the table.; It leaves from the outside of the rice.)
   - Note: Do not correct the guess. If your thermometer shows a number in hot tap water, read its leaflet for the highest temperature it can show. No thermometer at home? Use the steam test in the note of step 3.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Take the rice straight from the cooker. 2. Press 2 cups into the deep bowl, up to the top. 3. Spread 2 cups on the plate, about as thick as your finger. 4. Start the clock.  
   *Parent says:* I am filling the bowl to the top and pressing the rice down. Now I am spreading the same amount on the plate, as thick as a finger. The clock starts now.  
-  *Child mode:* A grown-up fills the bowl and spreads the plate. Start the clock.
+  *Child mode:* Watch the grown-up fill the bowl and spread the plate. Press start on the clock.
   - Note: Work fast, so that both lots start equally hot. Keep them side by side, away from a fan.
 - **s3 (20 min) · grown-up needed**  
   *Parent does:* At 5, 10, 15 and 20 minutes, push the tip 1 centimetre into the plate rice. Write HI or the number. The bowl is still too hot for a fever thermometer, so write 'too hot'. At 20 minutes, take the first reading at the edge of the bowl, 3 centimetres deep.  
@@ -349,8 +349,8 @@ Mallika did not look up from the fire.
   - Note: The test rice is still safe, because one hour is inside the two-hour rule. Eat it now, or put it out for the crows. Do not put it back in the family pot, because it has been handled.
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your three columns. Say what you thought would happen, what you saw, and why you think it happened. Why was the middle of the bowl the last place to cool?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Parent says:* Look at your three columns. Say what you thought would happen, what you saw, and why you think it happened.  
+  *Child mode:* Point to the first number in each column. Tell your grown-up what you saw.
   - Ask: Why did the middle of the bowl stay hot the longest? (good: The heat had to travel through all the rice around it.; The middle is far from the air.; Heat only leaves from the outside.)
   - Ask: A wedding pot is five times as wide as your bowl. What happens in its middle overnight? (good: It stays warm for many hours.; It stays in the danger zone all night.; Microbes can multiply in it.)
   - Note: The reason: heat leaves food only through its surface. On the plate, every grain is near the surface. In the bowl, heat from the middle must pass from grain to grain to reach the outside. That is slow. Bacteria multiply between about 5 and 60 degrees Celsius, and fastest between 20 and 45. So the middle of a deep pot spends the longest time at the temperatures bacteria like best. Thick food in a pot twice as wide takes about four times as long to cool.
@@ -360,26 +360,26 @@ Mallika did not look up from the fire.
 - **predict:** Before you start, guess. Which bag will change first, and which last? What will each food look like when it spoils: fuzzy, slimy, or something else? Why do you think so?
 - **fair test:** Use four bags of the same kind and size. Leave all four foods open on one plate for the same 30 minutes, so the same air reaches them. Keep the sealed bags side by side in the same warm, shaded place. Look at the same time each day. Only one thing changes: the food in the bag.
 - **safety:** Once the bags are sealed, never open them again. Do not smell or taste anything from them. On the last day, throw the sealed bags into the dustbin. A child who has asthma or a mould allergy watches, and a grown-up handles the bags. Wash your hands after touching the bags.
-- **record:** Make a page for each day. Draw the four bags. Beside each write what you see: no change, wet, slimy, a coloured patch, fuzz, or a puffed bag. Note the day of the first change for each bag.
+- **record:** Make a page for each day. List the four bags, A to D. Beside each write what you see: no change, wet, slimy, a coloured patch, fuzz, or a puffed bag. Note the day of the first change for each bag.
 - **results table:** Bag | Day of the first change | What I saw: slime, liquid, fuzz, colour or a puffed bag
 - **schedule:** day 1: Guess, set out the four foods, and seal them in four labelled bags. (15 min); day 2: Look at each bag without opening it. Draw or write any change. (5 min); day 3: Look again. Use the magnifying glass on any spot. (5 min); day 4: Look again, and record. (5 min); day 5: Look again, and record. (5 min); day 6: Make the last record. Say what the bags show, and throw them away sealed. (10 min)
 - **s1 (15 min)**  
   *Parent does:* Day 1. Ask for the guess and the reasons, and write them down. Sprinkle half a teaspoon of water on the bread and one teaspoon on the rice. Leave the four foods open for 30 minutes. Then seal each in a labelled bag and tape it shut. Keep the bags in a warm, shaded place.  
   *Parent says:* We will seal four foods in four bags. Which will change first? What will each look like when it spoils? Why do you think so?  
-  *Child mode:* Four foods go in four bags. Which spoils first? What will it look like? Why?
+  *Child mode:* Guess which bag spoils first, what it will look like, and why.
   - Ask: We add no microbes. Where will the microbes in the bags come from? (good: From the air.; They are already on the food.; From our hands and the plate.)
   - Note: Leave a little air in each bag, because moulds need air. Keep the bags out of direct sun, which would cook the food. Do not correct the guess.
 - **s2 (20 min)**  
-  *Parent does:* Days 2 to 5. Look at each bag at the same time each day, without opening it. Hold the magnifying glass to any spot. Your child draws or writes what they see.  
+  *Parent does:* Days 2 to 5. Look at each bag at the same time each day, without opening it. Hold the magnifying glass to any spot. Your child tells you what they see, or writes it.  
   *Parent says:* Look closely through the bag. Is anything wet, shiny, coloured or fuzzy? Has the bag puffed up? Write down what you see, even if nothing has changed.  
-  *Child mode:* Look through each bag. Do you see slime, colour, fuzz or a puffed bag? Write it down.
+  *Child mode:* Look through each bag. Do you see slime, colour, fuzz or a puffed bag? Tell your grown-up, or write it down.
   - Note: In warm weather the wet rice usually changes first, within one or two days. It turns shiny, slimy and watery, often with yellow, orange or pink patches. The bread grows fuzzy spots after three to five days. The lemon often shows nothing for a week. In winter, everything takes about twice as long.
   - Check: In Three Sealed Bags, why is one bag filled with dry toast? → **To test a food with no free water**
   - Wait: Look once a day for the next four days
 - **s3 (10 min)**  
   *Parent does:* Day 6. Make the last record. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below. Then throw the sealed bags into the dustbin.  
   *Parent says:* Look at your six days of records. Say what you thought would happen, what you saw, and why you think it happened. Why did the rice and the bread not spoil in the same way?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look through your six days of records. Point to the first change in each bag.
   - Ask: The rice turned slimy and the bread turned fuzzy. What does that tell you? (good: Different microbes grew on them.; Bacteria grew on the wet rice.; Moulds grew on the drier bread.)
   - Ask: Why did the lemon change last, or not at all? (good: Lemon is very sour.; Bacteria cannot grow in so much acid.; Only some moulds can, and they are slow.)
   - Note: The reason: bacteria multiply fastest, but they need plenty of free water and little acid. The wet rice suits them, and they make slime, liquid and gas. Bread is too dry for most bacteria, so slower moulds get the bread. A mould looks fuzzy because they grow as fine threads called hyphae. The coloured dots hold their spores. Lemon is too sour for almost all bacteria, so only a few slow moulds can use it. Dry toast gives no microbe enough water. If your lemon shows nothing by day 6, keep that bag sealed for another week and look again.
@@ -390,7 +390,7 @@ Mallika did not look up from the fire.
 - **predict:** Before you start, guess. After the wetted rice looks dry again, will it behave like the dabba rice? What will the salt do in each jar? Why do you think so?
 - **fair test:** Use three jars of the same size, all completely dry. Put the same amount of rice, half a cup, and the same amount of salt, one tablespoon, in each. Shake each jar for the same time and wait the same time. Only one thing changes: the rice in the jar.
 - **safety:** A grown-up roasts the salt and lets the pan cool. Do not put the test rice back in the dabba. Wash it and cook it the same day.
-- **record:** Draw the three jars. Under each write what is in it, and what the salt did: ran freely, formed lumps, or stuck to the glass.
+- **record:** Write A, B and C. Beside each write what is in the jar, and what the salt did: ran freely, formed lumps, or stuck to the glass.
 - **results table:** Jar | What is in it | The salt after 15 minutes: runs freely, forms lumps, or sticks to the glass
 - **s1 (6 min)**  
   *Parent does:* 1. Stir 1 teaspoon of water into half a cup of rice. 2. Spread the rice on a plate. 3. Leave it for 45 minutes, until no grain looks wet. Ask for the guess and the reason, and write them down.  
@@ -410,7 +410,7 @@ Mallika did not look up from the fire.
 - **s4 (15 min)**  
   *Parent does:* Stand the jars for 15 minutes. Then tilt and turn each jar slowly. Look at the salt on the glass and among the grains. Write what you see. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read the note below.  
   *Parent says:* Tilt each jar slowly. Does the salt run like dry sand, or does it stick to the glass? Say what you thought would happen, what you saw, and why you think it happened.  
-  *Child mode:* Tilt each jar. Does the salt run or stick? Say what you thought, what you saw, and why.
+  *Child mode:* Tilt each jar slowly. Watch what the salt does.
   - Ask: The wetted rice looked dry. What did the salt show? (good: It still held extra water inside.; Water came out of the rice into the air of the jar.; Looking dry is not the same as being dry.)
   - Ask: Why does a farmer need this test before filling a grain bin? (good: Damp grain grows mould in the bin.; Some moulds make a poison.; A whole year's grain could be lost.)
   - Note: The reason: grain is always passing water to the air around it, and taking water back. In a closed jar, damp grain makes the air damp. Dry salt takes water out of damp air, turns sticky and clings to the glass. If the salt runs freely, the grain holds less than about 14 or 15 parts of water in 100. That is dry enough to store. Above that, moulds can grow on grain that looks perfectly dry. Wash the test rice and cook it today.
@@ -433,7 +433,7 @@ Mallika did not look up from the fire.
 - **s3 (3 min)**  
   *Parent does:* Read the list together. Sort the foods into groups by what happened to them. Then read out the five ways in the note below, and match each group to one.  
   *Parent says:* Sort your foods into groups. Which ones were lost in the same way? How many ways have you found?  
-  *Child mode:* Sort your foods into groups. How many ways of being lost did you find?
+  *Child mode:* Put the foods that were lost in the same way together.
   - Note: The five ways: microbes eat the food. The food's own life goes on, as in sprouting, ripening and wilting. Pests get in. Air, light and warmth change the food, as in rancid oil. Water moves in or out, as in a soft biscuit or a hard chapati.
   - Check: An onion in the basket has grown a green shoot. In which way was this onion lost? → **The onion's own life went on**
 ### a2 · Three Clocks: ten bacteria at three temperatures (20 min)
@@ -459,7 +459,7 @@ Mallika did not look up from the fire.
 ### a3 · Tiffin Timeline: how many hours does one meal spend warm? (15 min)
 - **record:** Draw the time line with one mark for each hour. Mark when the food was cooked, packed or served, and eaten. Colour the warm hours red and write how many there are.
 - **s1 (5 min)**  
-  *Parent does:* Choose one real meal: a school or office lunch box, food for a journey, or dinner leftovers eaten the next day. Draw the line and mark the three times.  
+  *Parent does:* Choose one real meal: a school or office lunch box, food for a journey, or dinner leftovers eaten the next day. Draw the line, or lay out a row of coins, one for each hour. Mark the three times.  
   *Parent says:* Think of one meal that was not eaten straight after cooking. When was it cooked? When was it packed or put away? When was it eaten?  
   *Child mode:* Choose a meal that waited before it was eaten. Mark when it was cooked and eaten.
 - **s2 (5 min)**  
@@ -469,13 +469,13 @@ Mallika did not look up from the fire.
   - Note: A lunch box packed at 7 and eaten at 1 has six red hours. Most children are surprised. Do not frighten them. The next step shows why most lunch boxes are still fine.
 - **s3 (5 min)**  
   *Parent does:* Ask what protected the food during the red hours. Then ask your child for two changes that would cut the red hours or protect the food better.  
-  *Parent says:* Your lunch spent many hours warm, and you were not ill. What protected it? Now think of two changes that would make it safer still.  
-  *Child mode:* What protected your food in the warm hours? Think of two changes to make it safer.
+  *Parent says:* Look at the red hours. What protected the food while it was warm? Now think of two changes that would make it safer.  
+  *Child mode:* Tell your grown-up two changes that would make the food safer.
   - Ask: What can protect food that must spend hours warm? (good: It is dry, like chapati or roasted sabzi.; It is sour, like lemon rice, tamarind rice or curd rice.; It was cooked fresh that morning, so it started with very few microbes.; The lag time gives an hour or more.)
   - Ask: What two changes would cut the red hours? (good: A cold pack in the bag.; A flask that keeps food hotter than 60 degrees.; Cook in the morning, not the night before.; Cool the food before closing the lid, so the box is not wet inside.)
   - Check: Which lunch is the best choice for a box that must wait six hours on a hot day? → **Lemon rice cooked that morning**
 ### a4 · Two Milks: why one needs the fridge and one does not (15 min)
-- **record:** Make a table with two columns, pouch and carton. Write how each was heated, where it is kept, and how long it keeps before and after opening. Under the table, draw the cold chain as a row of linked boxes.
+- **record:** Make a table with two columns, pouch and carton. Write how each was heated, where it is kept, and how long it keeps before and after opening. Under the table, write the cold chain as a row of seven names, or take a photo of your row of slips.
 - **s1 (5 min)**  
   *Parent does:* Put the two packs side by side. Your child finds on each: the words pasteurised or UHT, the storage instruction and the use-by or best-before date. Ask the question below first.  
   *Parent says:* Both of these are milk. One must stay in the fridge and lasts two days. The other sits on a shelf for months. What could make them so different? Why do you think so?  
@@ -483,15 +483,15 @@ Mallika did not look up from the fire.
   - Note: No carton at home? A UHT carton usually says to store it in a cool, dry place, with a best-before date of 120 or 180 days. It also says that once opened, it must be kept in the fridge and used within 2 days. Many children guess that a chemical is added. None is.
 - **s2 (5 min)**  
   *Parent does:* Fill in the table together, using the note below. Then ask what happens to each milk once it is opened.  
-  *Parent says:* The pouch milk was heated to 72 degrees for 15 seconds. The carton milk was heated to about 140 degrees for a few seconds. Which heating would kill tough spores? What changes when the carton is opened?  
-  *Child mode:* Pouch milk was heated to 72 degrees. Carton milk was heated to 140. Which kills spores?
+  *Parent says:* The pouch milk was heated to 72 degrees for 15 seconds. The carton milk was heated to about 140 degrees for a few seconds. Spores are tough bacteria that survive ordinary heat. Which heating would kill them? What changes when the carton is opened?  
+  *Child mode:* Fill in the table for both milks.
   - Ask: Why does an opened carton need the fridge? (good: Microbes from the air and the spout get in.; It is now like any other milk.; The seal was what protected it.)
   - Note: Pasteurising at 72 degrees Celsius for 15 seconds kills the microbes that cause disease. Some harmless microbes and spores survive, so the milk needs cold. UHT heating at about 140 degrees for a few seconds kills the spores too.
   - Check: Why does unopened UHT milk keep for months without a fridge? → **Nothing alive is inside the sealed carton**
 - **s3 (5 min)**  
-  *Parent does:* Your child draws the cold chain of the pouch as linked boxes: the animal, the village cooler, the tanker, the dairy, the delivery van, the shop and the home fridge. Ask which link is most likely to break.  
-  *Parent says:* Draw every cold place the pouch passed through, from the cow or buffalo to our fridge. Which link do you think is the weakest? Why?  
-  *Child mode:* Draw every cold place the milk passed through. Which link is the weakest?
+  *Parent does:* Your child lays out the cold chain of the pouch as a row of seven slips of paper, one for each link: the animal, the village cooler, the tanker, the dairy, the delivery van, the shop and the home fridge. Ask which link is most likely to break.  
+  *Parent says:* Name every cold place the pouch passed through, from the cow or buffalo to our fridge. Lay them in a row.  
+  *Child mode:* Put the cold places in order, from the animal to the fridge.
   - Ask: Which link in the cold chain is most likely to break? (good: The crate outside the shop in the morning sun.; The bag on our doorstep.; The walk home from the shop.)
   - Note: If you can, ask the person who sells your milk how the packets are kept cold on the way. Milk left on a doorstep for two hours in summer has used up its two hours.
 ### a5 · Five at the Table: who needs extra care? (20 min)
@@ -499,7 +499,7 @@ Mallika did not look up from the fire.
 - **s1 (5 min)**  
   *Parent does:* Draw the table. The five people: a baby of 8 months, a pregnant aunt, a grandmother of 80, a cousin recovering from typhoid, and your child. Ask the question below.  
   *Parent says:* Five people will eat at our table. Who do you think is most easily harmed by unsafe food? What is it about their body that makes you think so?  
-  *Child mode:* Five people come to eat. Who is harmed most easily by unsafe food? Why?
+  *Child mode:* Look at the five people. Point to the one you think is harmed most easily.
   - Note: The eight dishes: hot idli with sambar. Honey on a dosa. Raw sprouted moong salad. Yesterday's rice from the fridge. Fruit cut at a street stall. Milk that has not been boiled. A soft-boiled egg. Curd rice made this morning.
 - **s2 (10 min)**  
   *Parent does:* Your child fills in the table, one dish at a time. For each cross or change, they say the reason. Use the note below to check.  
@@ -531,9 +531,9 @@ Mallika did not look up from the fire.
   - Note: Do not change your family's habits this week, or the record will not be true. Half a katori is fine as a measure. A whole fruit or vegetable counts as one katori.
   - Wait: Do this each day for the next five days
 - **s3 (20 min)**  
-  *Parent does:* Day 7. Add up the katoris. Add them up again for each reason, and draw a bar chart. Compare the total with the guess. Then your child chooses one change to try, and says why it should work.  
+  *Parent does:* Day 7. Add up the katoris. Add them up again for each reason, and draw a bar chart, or make a tally for each reason. Compare the total with the guess. Then your child chooses one change to try, and says why it should work.  
   *Parent says:* Add up the week. Which reason has the tallest bar? Was your guess close? Now choose one change in how we store or cook food, and tell me why it should work.  
-  *Child mode:* Add up the week. Draw the bars. Which is tallest? Choose one change to try.
+  *Child mode:* Add up the katoris. Draw the bars. Choose one change to try.
   - Ask: Which change fits your tallest bar? (good: Forgotten food: an eat-me-first shelf in the fridge.; Cooked too much: measure the rice for each person.; Stored in the wrong place: move it to where it keeps.; Left out too long: chill leftovers within two hours.)
   - Note: In many homes the tallest bars are 'forgotten' and 'cooked too much', and microbes only finish the job. The challenge The Eat-Me-First Shelf builds one answer. You can keep the sheet up for a second week to see whether the change worked.
   - Wait: Do this on day 7
@@ -541,7 +541,7 @@ Mallika did not look up from the fire.
 ## Challenges
 ### c1 · Cool the Feast Pot: thick hot food below 43 degrees in 15 minutes (35 min)
 - **problem:** A cook has thick, hot food that must be kept for tomorrow. The middle must fall below 43 degrees Celsius within 15 minutes, so that it can go into the fridge quickly. Design a way to cool 2 cups of hot cooked rice, or thick upma, that fast.
-- **your turn:** Now invent your own way and test it. Draw your design, write the time it took, and say which part of the design carried the most heat away.
+- **your turn:** Now invent your own way and test it. Show your design (draw it, or take a photo), write the time it took, and say which part of the design carried the most heat away.
 - **constraints:** Start with 2 cups of food straight from the stove, as in Deep or Shallow.; Nothing may be added to the food: no water and no ice.; The food must stay covered from flies and dust with a clean cloth or a mesh.; Use only things from your kitchen. No fridge and no freezer.; Measure the thickest part with the thermometer at 10 and at 15 minutes. A number on the screen means it is below about 43 degrees Celsius.
 - **general:** Spread the food in two or three wide plates, no thicker than a finger.; Stand the plate or vessel in a tub of cold water. Water carries heat away much faster than air.; Stir the food every minute, so that the hot middle keeps coming to the surface.
 - **creative:** Use steel and not plastic, because steel passes heat on quickly. Then set the steel plate on a second plate filled with cold water.; Fill a clean steel tumbler with cold water and stand it in the middle of the food. Change the water when it warms.; Press the food into a ring with a hole in the middle. Then no part is far from a surface.
@@ -561,30 +561,30 @@ Mallika did not look up from the fire.
   - Note: A grown-up handles the hot rice for the first five minutes. Water must not splash into the food. If the screen shows a number at 10 minutes, the design has done very well.
 - **s4 (7 min)**  
   *Parent does:* Compare the time with Deep or Shallow. Ask the questions below. If there is time, change one thing and try again.  
-  *Parent says:* Did the thickest part fall below 43 degrees in fifteen minutes? Which part of your design carried the most heat away? What would you change for a pot of thirty kilos?  
-  *Child mode:* Did you beat fifteen minutes? What carried the most heat away? What would you change?
+  *Parent says:* Did the thickest part fall below 43 degrees in fifteen minutes? Which part of your design carried the most heat away?  
+  *Child mode:* Compare your time with fifteen minutes.
   - Ask: How would a wedding cook use your idea for 30 kilograms of dal? (good: Divide it into many shallow trays.; Stand the trays in a trough of cold water.; Stir it with a clean paddle.)
   - Note: Kitchens that cook for hundreds do exactly these things: shallow trays, cold water baths and stirring. The cooled rice is safe to eat, since far less than two hours have passed.
 ### c2 · The Eat-Me-First Shelf: make sure no food is forgotten (30 min)
 - **problem:** Food gets pushed to the back when new food arrives, and it is found again when it has spoiled. Shops solve this with a rule called first in, first out: the oldest stock is sold first. Design a system for your own fridge and shelves. It must lead everyone at home to eat the oldest and most perishable food first.
-- **your turn:** Now design your own system and set it up. Draw it, explain it to your family in three sentences, and run it for one week.
+- **your turn:** Now design your own system and set it up. Explain it to your family in three sentences, and run it for one week.
 - **constraints:** It must work for everyone at home, including someone who was not told about it.; It must take less than one minute a day to keep going.; It must show the date on every leftover.; It must use only things you have: boxes, paper, tape, a marker pen, rubber bands.; Raw fish, meat and eggs stay on the lowest shelf, below cooked food, whatever the system.
 - **general:** Mark one box or one shelf 'Eat me first', at eye level, and put leftovers and opened packets there.; Write the date on a piece of tape on every leftover box.; When new food comes, move the older food to the front and put the new food behind.
 - **creative:** Put a red rubber band on anything that must be eaten today. Take the band off when it is eaten.; Keep a dated list on the fridge door of what is inside. Cross food off as it is eaten.; Plan one 'clear the fridge' meal each week, such as a mixed vegetable kootu or fried rice.
 - **s1 (8 min)**  
   *Parent does:* Open the fridge and one shelf together. Your child finds the three oldest foods, and the places where food is hard to see. Ask the question below.  
   *Parent says:* Find the three oldest foods here. How did you know they were the oldest? Where does food hide in our kitchen?  
-  *Child mode:* Find the three oldest foods. How do you know? Where does food hide?
+  *Child mode:* Find the three oldest foods. Point to where food hides.
   - Ask: Why is the oldest food usually at the back? (good: New food is put in front of it.; Nobody moves the old food forward.; Small boxes hide behind big ones.)
 - **s2 (15 min)**  
-  *Parent does:* Your child designs the system on paper, then builds it: a marked box or shelf, dates on tape, and a rule for where new food goes. Check it against the five limits in the problem.  
-  *Parent says:* Draw your system first. Then build it. I will check it against the five limits. Would a visitor understand it without being told?  
-  *Child mode:* Draw your system. Build it. Would a visitor understand it?
+  *Parent does:* Your child plans the system out loud or on paper, then builds it: a marked box or shelf, dates on tape, and a rule for where new food goes. Check it against the five limits in the problem.  
+  *Parent says:* Tell me your plan first. Then build it. I will check it against the five limits. Would a visitor understand it without being told?  
+  *Child mode:* Plan your system. Then build it.
   - Note: Keep raw fish, meat and eggs on the lowest shelf even if they are the oldest. A note on the eat-me-first box can point to them.
 - **s3 (7 min)**  
   *Parent does:* Your child explains the system to someone else at home in three sentences. Then ask the question below, and agree a day next week to check how it worked.  
   *Parent says:* Explain your system to the family in three sentences. How will we know in a week whether it worked?  
-  *Child mode:* Explain your system in three sentences. How will you know it worked?
+  *Child mode:* Explain your system in three sentences.
   - Ask: How will you know whether the system worked? (good: Less food is thrown away than in One Week of Lost Food.; Nothing in the fridge is older than two days without a date.; People use the box without being reminded.)
   - Check: The fridge holds half a packet of older milk. Where does a new packet of milk go? → **Behind the older packet**
 

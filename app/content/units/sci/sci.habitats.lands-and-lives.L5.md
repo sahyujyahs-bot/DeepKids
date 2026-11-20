@@ -320,7 +320,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **s3 (10 min)**  
   *Parent does:* Play the game. Each time a set is laid down, check the region with the key. Then listen to the 'because' sentence, and score it.  
   *Parent says:* Lay down your set and name the region. Now join two of the cards with 'because'. Does the land on one card explain what is on the other?  
-  *Child mode:* Play the game. Lay down sets of three. Say a 'because' sentence for each set.
+  *Child mode:* Play the game. Lay down sets of three and name the region.
   - Ask: Give a 'because' sentence for your set. (good: The roof is flat because almost no rain falls in Ladakh.; The tree has breathing roots because the mud has no air.; The bridge is grown because cut wood rots in the wet hills.)
 - **s4 (3 min)**  
   *Parent does:* After the game, lay the six 'land' cards in a row. Ask which region's cards were hardest to place, and which two regions were easiest to mix up.  
@@ -332,13 +332,13 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **Printable cards: 16 moving-idea cards: the move on the front, the verdict and the reason on the back:** A flat mud roof from Ladakh, built in Cherrapunji in Meghalaya. (back: BAD IDEA. Leh, in Ladakh, gets about 4 centimetres of rain a year. Cherrapunji gets more than 1,000. The mud would wash away.); A living root bridge from Meghalaya, grown in the Thar desert. (back: BAD IDEA. The rubber fig needs wet air all year. The Thar gets less than 50 centimetres of rain.); A stilt house from the Assam flood plain, built beside the Kerala backwaters. (back: GOOD IDEA. Both lands flood in the monsoon, and the water passes under the floor.); A kund from the Thar, dug in Kutch in Gujarat. (back: GOOD IDEA. Kutch also gets little rain, in a few storms. A wide saucer of ground catches it.); Short, heavy-yielding rice from a canal field in Punjab, sown in a tidal field near Kochi. (back: BAD IDEA. The tidal field floods deep and turns salty. Tall Pokkali rice stands there, and short rice drowns.); Pokkali rice from the Kerala coast, sown in a canal field in Punjab. (back: BAD IDEA. Pokkali would grow, but would give less than half the grain of the local rice. Nothing there needs a tall rice who can stand salt.); A steep tiled roof from the Kerala hills, built in Mawsynram in Meghalaya. (back: GOOD IDEA. Both places get very heavy rain, and a steep roof sheds it fast.); A thick woollen robe from Ladakh, worn in Chennai in May. (back: BAD IDEA. Wool keeps body heat in. Chennai in May is hot and damp, above 35 degrees.); Mangrove trees from the Sundarbans, planted on a Himalayan slope at 3,000 metres. (back: BAD IDEA. Mangroves are trees of warm tidal mud. Frost would kill them.); Wattle trees from Australia, planted on the high grassland of the Nilgiris. (back: BAD IDEA. The trees grew well, and that was the trouble. They spread over the grass that the Nilgiri tahr needs.); Bamboo pipes that drip stream water onto pepper plants in Meghalaya, tried in a hill garden in the Western Ghats. (back: GOOD IDEA. Both places have streams above the gardens and plenty of bamboo.); A deep borewell and a green lawn, in Jaisalmer. (back: BAD IDEA. About 25 centimetres of rain refill the ground each year. The well would take water out faster than rain puts it back.); Mangrove trees planted along a muddy creek near Mumbai. (back: GOOD IDEA. Mangroves grow wild on this coast. Their roots hold the mud and slow storm waves.); Fish raised in flooded rice fields, as the Apatani do in Arunachal Pradesh, tried in Kuttanad in Kerala. (back: GOOD IDEA. Both have water standing in the fields for months. Farmers in Kuttanad do raise fish after the rice.); A house with large glass windows on every side, built in Leh. (back: BAD IDEA. Glass lets warmth out on winter nights. Ladakhi houses have thick walls, and their big windows face south, towards the Sun.); The warning 'when the sea pulls far back, run to high ground', taught in a fishing village in Tamil Nadu. (back: GOOD IDEA. The sea drew back on the Tamil Nadu coast before the giant waves of 2004. The warning fits any low shore near undersea earthquakes.)
 - **Printable tokens: 2 verdict tokens: Good idea, Bad idea. Print one set for each player:** Good idea; Bad idea
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 16 cards and the tokens. Shuffle the cards and stack them with the fronts up. Give each player one set of two tokens. Remind your child of the Two Lands Test. There the tall tower fell when it was moved to the windy land.  
+  *Parent does:* Cut out the 16 cards and the tokens. Shuffle the cards and stack them with the fronts up. Give each player one set of two tokens.  
   *Parent says:* In the Two Lands Test, the tall tower won in still air and fell in the wind. Each card here moves a real idea to a new land. You decide whether it will still work there.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take two tokens.
 - **s2 (5 min)**  
   *Parent does:* Play the first eight cards. For each card, ask which fact about the new land decides the answer before the tokens are turned.  
   *Parent says:* Listen to the card. Where is the idea from, and where is it going? What is different about the new land: the rain, the height, the cold, the salt or the floods? Put down your token.  
-  *Child mode:* Listen to each card. What is different about the new land? Put down your token.
+  *Child mode:* Listen to each card. Put down your token.
   - Ask: What is different about the new land on this card? (good: It rains a hundred times as much there.; The water there is salty.; Nothing important differs, so the idea should work.)
 - **s3 (5 min)**  
   *Parent does:* Play the last eight cards the same way. Keep the score on a piece of paper.  
@@ -359,8 +359,8 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **results table:** Tree | Which way the buttresses point | Height of the board's high end when the tree fell: try 1, try 2 and try 3 (centimetres) | The middle one of the three heights
 - **s1 (3 min)**  
   *Parent does:* Show your child the paper, the card and the board. Say that you will make three paper trees and tilt the ground under each. Ask for the guess and the reason, and write both down.  
-  *Parent says:* A rainforest tree is very tall, and her roots are shallow. We will make three paper trees. One has no buttress roots, one has two and one has four. Then we tilt the ground. Which tree will stand on the steepest tilt? Does it matter which way the buttresses point? Why do you think so?  
-  *Child mode:* Three paper trees stand on a board. We tilt the board. Which tree stands longest? Does the direction matter? Why?
+  *Parent says:* A rainforest tree is very tall, and her roots are shallow. Buttress roots are wide, flat roots that spread out from the trunk like walls. We will make three paper trees. One has no buttress roots, one has two and one has four. Then we tilt the ground. Which tree will stand on the steepest tilt? Does it matter which way the buttresses point? Why do you think so?  
+  *Child mode:* Three paper trees stand on a board. We tilt the board. Guess which tree stands longest, and whether the direction of the buttresses matters.
   - Ask: Why do you think that tree will stand longest? (good: She has a wider bottom.; The fins prop her up.; It is like standing with your feet apart.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (8 min)**  
@@ -404,7 +404,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **s1 (4 min)**  
   *Parent does:* Explain the two lands. A Still Land tower must stand for 10 seconds. A Wind Land tower must stand through 5 hard fans from a notebook, one big step away. Your child builds for the Still Land and you build for the Wind Land. Ask for the guess and the reason, and write both down.  
   *Parent says:* We are two villages. Yours is in the Still Land, and mine is in the Wind Land. Each village builds three towers, and each tower learns from the one before. A tower that passes its test scores its height in centimetres. After three towers, will our villages build the same kind of tower? What will happen when we swap? Why do you think so?  
-  *Child mode:* You build for the Still Land. A grown-up builds for the Wind Land. Will the towers end up alike? Why?
+  *Child mode:* You build for the Still Land. A grown-up builds for the Wind Land. Will the towers end up alike?
   - Ask: Why do you think the towers will be alike, or different? (good: Wind knocks tall things over.; In still air you can go as high as you like.; Each village only sees its own test.)
   - Note: Do not correct the guess. A child working alone builds all three Still Land towers first, and then all three Wind Land towers. Allow about 50 minutes.
 - **s2 (7 min)**  
@@ -429,7 +429,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Note: If your Wind Land tower also beat the Still Land tower in still air, your wind was too gentle. Fan from half a step away, and build one more tower in each land.
 - **s6 (7 min)**  
   *Parent does:* Look at both tables together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at the four scores. Say what you thought would happen, what you saw, and why it happened. Which tower is the better tower? What would you need to know before you answered?  
+  *Parent says:* Look at the four scores. Say what you thought would happen, what you saw, and why it happened. What would you need to know before you could say one tower is the best?  
   *Child mode:* Say what you thought would happen, what you saw, and why it happened.
   - Ask: Which tower is the better tower? (good: It depends on the land.; The tall one in still air, the wide one in wind.; You have to ask where it will stand.)
   - Ask: Where in India do people build differently because of what their land tests? (good: Stilt houses where the river floods.; Flat mud roofs in Ladakh, where it hardly rains.; Steep roofs in Kerala and Meghalaya, where it pours.)
@@ -441,13 +441,13 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **predict:** Before you set up, guess. Will the roots at the top of the strip follow the slope to the other bank, or leave the strip? How many days will they take? Why do you think so?
 - **fair test:** Use seeds from the same packet, soaked for the same night. Put 3 seeds at the top of the strip and 3 seeds on the same bank away from the strip. Both groups get the same wet cotton, the same box and the same light. Use three seeds in each group, because one seed may not sprout. Only the strip differs.
 - **safety:** A grown-up cuts the strip from the plastic bottle, and trims any sharp corners.
-- **record:** Draw a table with one row for each day from day 3 to day 7. Write the length of the longest guided root along the strip. Write yes or no for whether an unguided root has reached the low bank. On day 7, draw the box from the side and show where every root went.
+- **record:** Draw a table with one row for each day from day 3 to day 7. Write the length of the longest guided root along the strip. Write yes or no for whether an unguided root has reached the low bank. On day 7, draw the box from the side and show where every root went, or take a photo and tell your grown-up what you see.
 - **results table:** Day | Length of the longest guided root along the strip (centimetres) | Has any unguided root reached the low bank?
 - **schedule:** day 1: Guess what the roots will do. Soak 8 moong seeds in water overnight. (5 min); day 2: Build the two banks and the sloping strip in the box. Place 3 guided seeds and 3 unguided seeds. Close the lid. (12 min); day 3: Measure the longest guided root along the strip. Add a few drops of water. Close the lid. (3 min); day 4: Measure, add a few drops of water, and close the lid. (3 min); day 5: Measure, add a few drops of water, and close the lid. (3 min); day 6: Measure, add a few drops of water, and close the lid. (3 min); day 7: Measure for the last time. Work out how fast the roots grew, and explain what you found. (8 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the box, the bowl and the strip. Explain that seeds will sprout on a high bank, with a sloping strip leading to a low bank. Ask for the guess and the reason, and write both down. Then put 8 moong seeds in a small bowl of water for the night.  
   *Parent says:* A root grows downwards. We will give some roots a wet sloping path that leads away to one side. Will they follow the path to the other bank, or leave it? How many days will it take? Why do you think so?  
-  *Child mode:* Roots grow down. Will a sloping path lead them sideways? Guess, and say why. Then soak eight moong seeds.
+  *Child mode:* Roots grow down. Soak eight moong seeds in water for the night. Then guess whether roots will follow a sloping path.
   - Ask: Why do you think the roots will follow the strip, or leave it? (good: They cannot go through the plastic, so they will slide along it.; Roots go where the water is.; They might fall off the side.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
   - Wait: Leave the seeds in water overnight
@@ -467,7 +467,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Wait: Come back at the same time each day until day 7
 - **s4 (8 min)**  
   *Parent does:* On day 7 measure for the last time. Subtract the day 3 length from the day 7 length. Divide the answer by 4, to find the growth in one day. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below. Then plant the seedlings in a pot.  
-  *Parent says:* This is the last measurement. How many centimetres did the root grow in one day? Now say what you thought would happen, what you saw, and why it happened. How is our strip like the hollow palm trunk that Khasi builders use?  
+  *Parent says:* This is the last measurement. How many centimetres did the root grow in one day? Now say what you thought would happen, what you saw, and why it happened. In Meghalaya, builders guide fig roots across streams through a hollow palm trunk. How is our strip like that trunk?  
   *Child mode:* Measure one last time. Work out the growth in one day. Say what you thought, what you saw, and why.
   - Ask: Why did the guided roots cross the gap? (good: They grew downwards, and the strip turned that downward growth into growth along the slope.; The wet tissue gave them water all the way.; They could not go through the plastic.)
   - Ask: A fig root in Meghalaya must cross 20 metres. Why does a bridge take up to 15 years? (good: The roots must cross first, and that alone takes years.; Then they have to grow thick enough to carry people.; New roots are added every year.)
@@ -484,18 +484,18 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Ask: What makes one kind of land different from another? (good: How much it rains.; How high and cold the land is.; Whether the sea reaches the land.)
   - Note: Most children name four or five: mountains, desert, plains, coast and forest. Keep the list to compare at the end.
 - **s2 (6 min)**  
-  *Parent does:* Open the map of India. Your child copies the outline onto plain paper, about as big as the page. A rough shape is fine. Mark the Himalaya as a curved band across the top. Mark the Ganga and the west coast.  
+  *Parent does:* Open the map of India. Your child copies or traces the outline onto plain paper, about as big as the page. A rough shape is fine. Mark the Himalaya as a curved band across the top. Mark the Ganga and the west coast.  
   *Parent says:* Draw the outline of India as large as the page. It does not have to be exact. Now draw the Himalaya as a curved band along the top. Draw the Ganga, and run your finger down the west coast.  
   *Child mode:* Copy the outline of India. Draw the Himalaya along the top. Draw the Ganga.
 - **s3 (7 min)**  
-  *Parent does:* Read the table of ten regions together, one row at a time. For each row, your child finds the place on the real map and colours that part of their own map. They write the region's name and colour in a key.  
+  *Parent does:* Read the table of ten regions together, one row at a time. For each row, your child finds the place on the real map and colours that part of their own map. They write the region's name and colour in a key. A child who does not like colouring can lay a scrap of coloured paper on each region instead.  
   *Parent says:* Scientists divide India into ten regions. We will colour them one at a time. Find each one on the real map first. Then colour that part of your map, and add the name to your key.  
   *Child mode:* Read one region at a time. Find it on the real map. Colour it on yours. Add it to the key.
   - Note: The edges of the regions are not sharp in real life, so rough edges on the drawing are honest. The Deccan Peninsula should come out as the largest patch by far.
 - **s4 (4 min)**  
-  *Parent does:* Your child marks five places with a dot and a name: Indira Point in the Nicobar Islands, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Then they put a star where you live. Ask which region your home is in, and compare the map with the list from the first step.  
-  *Parent says:* Mark five unique places: Indira Point, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Which one is the southern tip of India? Now put a star on our home. Which region do we live in?  
-  *Child mode:* Mark the five unique places. Put a star on your home. Which region do you live in?
+  *Parent does:* Your child marks five special places with a dot and a name: Indira Point in the Nicobar Islands, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Then they put a star where you live. Ask which region your home is in, and compare the map with the list from the first step.  
+  *Parent says:* Mark five special places: Indira Point, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari. Which one is the southern tip of India? Now put a star on our home. Which region do we live in?  
+  *Child mode:* Mark the five special places. Put a star on your home. Which region do you live in?
   - Note: Most city children live in the Deccan Peninsula, the Gangetic Plain, the Semi-arid zone or the Coasts. Chennai is on the Coasts. Bengaluru and Hyderabad are in the Deccan Peninsula. Kolkata and Patna are in the Gangetic Plain. Delhi is in the Semi-arid zone. On the west coast, the Coasts and the Western Ghats lie side by side.
   - Check: Where is the southernmost point of India? → **Indira Point, on Great Nicobar Island**
 ### a2 · Two Sides of One Hill: compare the rain on both sides of the Western Ghats (20 min)
@@ -503,7 +503,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **s1 (3 min)**  
   *Parent does:* Your child holds the steel tumbler near their mouth and breathes out slowly with the mouth wide open. Look at the steel. Then ask where the mist came from.  
   *Parent says:* Breathe a slow 'haa' onto the steel. What do you see? Your breath is warm and carries water as an invisible gas. The steel is cooler. What happened to the water when your breath touched the cool steel?  
-  *Child mode:* Breathe a slow 'haa' onto the steel tumbler. What appears? Where did it come from?
+  *Child mode:* Breathe a slow 'haa' onto the steel tumbler. Look at the steel. What appears?
   - Ask: Where did the mist come from? (good: From the water in my breath.; The breath cooled on the steel and its water turned into drops.)
   - Note: In a hill range the air is not cooled by touching anything. It cools because it rises. But the result is the same: cooled air gives up water as drops.
 - **s2 (4 min)**  
@@ -511,14 +511,14 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   *Parent says:* The monsoon wind blows in from the Arabian Sea. It meets the Western Ghats and has to climb. Here are three pairs of towns. One of each pair is on the sea side, and one is behind the hills. Which town of each pair gets more rain? Why do you think so?  
   *Child mode:* Find the three pairs of towns. Which town of each pair gets more rain? Why?
 - **s3 (8 min)**  
-  *Parent does:* Read out the six rain figures from the chart. Your child draws a bar for each town, in pairs. One small square stands for 25 centimetres. They use one colour for the sea side and another for the far side.  
-  *Parent says:* Mangaluru gets about 375 centimetres of rain a year, and Bengaluru about 110. Kozhikode gets about 300, and Coimbatore about 60. Mumbai gets about 250, and Pune about 85. Draw the six bars in pairs.  
-  *Child mode:* Draw six bars, in pairs. One small square is 25 centimetres of rain. Use two colours.
+  *Parent does:* Read out the six rain figures from the chart. Your child makes a bar for each town, in pairs. One small square stands for 25 centimetres. They use one colour for the sea side and another for the far side. Bars can be drawn, or built from dal grains, one grain for each 25 centimetres.  
+  *Parent says:* Mangaluru gets about 375 centimetres of rain a year, and Bengaluru about 110. Kozhikode gets about 300, and Coimbatore about 60. Mumbai gets about 250, and Pune about 85. Make the six bars in pairs.  
+  *Child mode:* Make six bars, in pairs. One small square or one grain is 25 centimetres of rain. Use two colours.
   - Note: At one square for 25 centimetres, the Mangaluru bar is 15 squares tall and the Coimbatore bar is about 2 and a half.
 - **s4 (5 min)**  
   *Parent does:* Look at the chart together. Ask what pattern the three pairs share, and what could explain it. Read the explanation in the note after your child has answered.  
   *Parent says:* Look at your three pairs. What is the same in every pair? The wind brought the same wet air to both towns. So where did the water go before the air reached the second town?  
-  *Child mode:* What is the same in every pair? Where did the water go?
+  *Child mode:* Look at your three pairs. What is the same in every pair?
   - Ask: Where did the water go before the air reached the second town? (good: It fell as rain on the sea side of the hills.; The air cooled as it climbed and dropped its water.)
   - Note: Air rising up a slope spreads out and cools, as the breath cooled on the steel. The vapour turns into drops and falls on the sea side. The air that sinks on the far side has less water and warms up again. That dry side is the rain shadow. The same thing on a larger scale makes Ladakh a desert behind the Himalaya.
   - Check: Why is the land behind the Western Ghats drier than the coast? → **The air drops its rain while climbing the hills**
@@ -543,7 +543,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **s4 (4 min)**  
   *Parent does:* Compare the two numbers. Ask where the air went, and what a root would find in soil that stays full of water. Read the explanation in the note after your child has answered.  
   *Parent says:* The loose soil took all those spoons of water. What was in that space before? Where is that air now? A root needs air as well as water. What would a root find in mud that the sea covers twice a day?  
-  *Child mode:* What was in the soil before the water? Where is it now? What would a root find there?
+  *Child mode:* What was in the soil before the water? Where is it now?
   - Ask: What would a root find in mud that is always full of water? (good: No air.; Water in every space where air used to be.)
   - Note: Nearly half of a tumbler of loose soil is air, in the spaces between the bits of soil. Roots and soil animals breathe that air. Water fills the spaces and pushes the air out as bubbles. In the Sundarbans the tide refills the mud twice a day, so air never returns. Most trees would die there. Mangroves grow breathing roots that stand above the mud like pencils. Each one has tiny openings that take in air at low tide. Rice has another answer: air tubes inside her stems carry air down to her roots.
   - Check: Why do many mangrove trees grow roots that stick up out of the mud? → **To take in air above the wet mud**
@@ -565,7 +565,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **s4 (4 min)**  
   *Parent does:* Count the varieties. Compare the count with the guess. Ask why farmers in different places kept different varieties, and what would be lost if only one were grown.  
   *Parent says:* How many did we find? Why do you think farmers in each place kept their own variety? If every farmer in India grew only one variety, what could go wrong in a year of flood or drought?  
-  *Child mode:* Count the varieties. Why did each place keep its own? What if only one were grown?
+  *Child mode:* Count the varieties. What could go wrong if only one were grown?
   - Ask: Why did farmers in each place keep their own variety? (good: It grew well in their soil and rain.; It stood up to their floods, salt or dry months.; They liked its taste for their own dishes.)
   - Note: India's farmers once grew many thousands of varieties of rice alone. Each was chosen, year after year, by saving seed from the plants that did best on that land. So a variety carries the choices of generations of farmers. Debal Deb is a scientist and farmer in Odisha. He keeps more than 1,000 old rice varieties alive by growing each of them every year. When all farmers grow one variety, one bad year or one disease can harm all the fields at once.
   - Check: Farmers on a salty coast saved seed each year from the rice plants that survived. What happened over many years? → **Their rice became better at standing salt**
@@ -579,7 +579,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **s2 (4 min)**  
   *Parent does:* Ask your child to read across rows A and B again. They list every difference between the two villages, and not only the trees.  
   *Parent says:* Read the two rows again, slowly. How many things are different between village A and village B? Could any of the other differences explain the damage?  
-  *Child mode:* List every difference between A and B. Could another difference explain the damage?
+  *Child mode:* List every difference between A and B, not only the trees.
   - Ask: What else differs between villages A and B? (good: A is five times as far from the sea.; A stands 2 metres higher.; Three things differ at once, so we cannot tell which one mattered.)
 - **s3 (5 min)**  
   *Parent does:* Uncover rows C and D. Ask your child to find two villages that differ only in having mangroves. There are two such pairs. For each pair, work out the difference in damage.  
@@ -595,18 +595,18 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 
 ## Projects
 ### p1 · My Region File: the land I live on (80 min, 4 days)
-- **record:** A four-page file. Page 1: the land, with rain, height and a small map. Page 2: living beings, with three drawings. Page 3: one piece of local knowledge, and why it fits. Page 4: a table comparing your region with a very different one.
+- **record:** A four-page file. Page 1: the land, with rain, height and a small map. Page 2: living beings, with drawings or pictures. Page 3: one piece of local knowledge, and why it fits. Page 4: a table comparing your region with a very different one.
 - **schedule:** day 1: Name your region. Find its yearly rain, its height above the sea and its hottest and coldest months. (15 min); day 2: Find three plants or animals who lived in your region before the city. Find one who is endemic or rare in your state. (20 min); day 3: Interview an older person about one piece of local knowledge. Ask why it suits this land. (20 min); day 4: Finish the four pages. Compare your region with one very different region, and present the file. (25 min)
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* Use the map from Ten Regions on One Map, or an atlas, to name your region. With your child, look up the yearly rain in your town and its height above the sea. Look up its hottest and coldest months. Your child writes these on page 1 and draws a small map.  
+  *Parent does:* Use the map from Ten Regions on One Map, or an atlas, to name your region. With your child, look up the yearly rain in your town and its height above the sea. Look up its hottest and coldest months. Your child writes these on page 1 and draws a small map, or sticks in a map picture.  
   *Parent says:* Which of the ten regions do we live in? How much rain falls here in a year? How high are we above the sea? Which month is hottest, and which is coolest? Write these on page 1.  
   *Child mode:* Name your region. Find your town's yearly rain and height. Write them on page one.
   - Note: The India Meteorological Department and Wikipedia both give the yearly rain and the height of most Indian towns. Sit with your child while they search.
   - Wait: Carry on tomorrow
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* Help your child find three plants or animals who lived in your region before the city was built. Local trees and birds are easiest. Then find one living being who is endemic or rare in your state. Your child draws all four on page 2, with names.  
-  *Parent says:* Before the city, what grew here? Which trees and birds belong to this land? Find three. Then find one living being who is endemic or rare in our state. Draw them and name them.  
-  *Child mode:* Find three plants or animals who belong to your region. Find one rare one. Draw them.
+  *Parent does:* Help your child find three plants or animals who lived in your region before the city was built. Local trees and birds are easiest. Then find one living being that is rare, or found only in your state. Your child draws all four on page 2, with names, or pastes in pictures.  
+  *Parent says:* Before the city, what grew here? Which trees and birds belong to this land? Find three. Then find one living being that is rare, or found only in our state. Draw them or paste in pictures, and name them.  
+  *Child mode:* Find three plants or animals who belong to your region. Find one rare one. Draw them, or paste in pictures.
   - Note: Ask which street trees were here before planting began: neem, banyan, peepal, palmyra and tamarind are native to much of India. Gulmohar and eucalyptus were brought from other countries. Your state's forest department website lists the state animal, bird and tree.
   - Wait: Carry on tomorrow
 - **s3 (20 min)**  
@@ -618,7 +618,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Wait: Carry on tomorrow
 - **s4 (25 min)**  
   *Parent does:* Your child chooses one very different region from this unit, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.  
-  *Parent says:* Choose a region as different from ours as you can. Fill in the table for both. Then tell us about our own land in three minutes. Would the local knowledge on page 3 work in the other region? Why, or why not?  
+  *Parent says:* Choose a region as different from ours as you can. Fill in the table for both. Then tell us about our own land in three minutes.  
   *Child mode:* Choose a very different region. Fill in the table. Present your file in three minutes.
   - Ask: Would the local knowledge on page 3 work in the other region? (good: No. A clay pot would not cool water in the damp Sundarbans air.; Yes. Both places flood, so stilts would help in both.)
   - Note: Praise a clear reason more than a neat page. The last question links the project to the Two Lands Test. There each tower fitted only the land that had tested it.
@@ -626,14 +626,14 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 ## Challenges
 ### c1 · Split the Stream: water three plants from one trickle (30 min)
 - **problem:** In the Jaintia hills of Meghalaya, farmers lead water from a hill stream to their pepper and betel plants. The water runs along split bamboo. They divide the flow again and again, until each plant gets only a few drops a minute. Build a set of channels that takes one thin stream of water and shares it between three tumblers standing apart.
-- **your turn:** Now design your own channels. Draw the plan first, with the cup, the three tumblers and every gutter. Test with 300 millilitres. Measure the depth in each tumbler, change one thing, and test again.
+- **your turn:** Now design your own channels. Make the plan first, with the cup, the three tumblers and every gutter. Draw it or lay it out with the real things. Test with 300 millilitres. Measure the depth in each tumbler, change one thing, and test again.
 - **constraints:** The water starts from one plastic cup with a single small hole in the bottom.; The channels are made only from kitchen foil or from strips cut from plastic bottles. Books, clothes pegs and tape may hold them up.; The three tumblers are the same size and stand at least 15 centimetres apart from one another.; Pour 300 millilitres of water through the cup, a little at a time. Nobody may touch the channels while the water runs.; Every tumbler must end with water at least 1 centimetre deep. The deepest must be no more than twice as deep as the shallowest.
 - **general:** Fold a strip of foil along the middle to make a V-shaped gutter. Give every gutter a gentle slope, about one finger-width down for each hand-length.; Let the end of one gutter pour onto the place where two lower gutters meet. The stream then splits in two.; Split the stream in two first. Then split one of the halves again, and make up the difference by widening or narrowing a gutter.
 - **creative:** Cut a small notch in the side of a gutter, so that part of the water leaves early. Bamboo farmers cut holes in their pipes in the same way.; Hang a strip of wet cloth over the edge of a gutter as a wick. It leads a slow, steady share of water away.; Pinch a gutter narrower further down, so that less water passes. The farmers use thinner bamboo as the pipes get near the plants.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Read the problem together. A grown-up makes one hole in the bottom of the cup with the point of a compass or a nail. Hold the cup over one tumbler and pour in a little water, to see the thin stream. Ask how one stream could be shared between three tumblers.  
-  *Parent says:* Farmers in Meghalaya share one stream between hundreds of plants, using split bamboo. We have one stream and three tumblers. How could we split a stream of water? List every idea. Then draw your plan.  
-  *Child mode:* One stream must fill three tumblers. How can a stream be split? List ideas. Draw a plan.
+  *Parent says:* Farmers in Meghalaya share one stream between hundreds of plants, using split bamboo. We have one stream and three tumblers. List every idea you have. Then show your plan: draw it, or lay it out with pencils and foil.  
+  *Child mode:* One stream must fill three tumblers. How can a stream be split? List ideas. Show a plan.
   - Ask: How could one stream be split into two? (good: Let it fall on a ridge where two gutters meet.; Cut a hole in the side of a gutter.; Lead some away along a strip of cloth.)
 - **s2 (10 min)**  
   *Parent does:* Your child builds the channels on a tray or on the bathroom floor. Stand the cup on two pencils laid across a gap between two piles of books. Help to hold things while tape is put on, but let your child decide the design.  
@@ -646,7 +646,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Note: A first design often sends most of the water one way. That is normal. A split is very sensitive to which way the gutter leans.
 - **s4 (7 min)**  
   *Parent does:* Your child changes one thing to make the shares more equal, and tests again. Then compare the design with the bamboo system of Meghalaya, using the note below.  
-  *Parent says:* Which tumbler got too little? Change one thing to send more water there. Test again. In Meghalaya, about 20 litres a minute enter the bamboo. How do you think that becomes a few drops at each plant?  
+  *Parent says:* Which tumbler got too little? Change one thing to send more water there. Test again. In Meghalaya, about 20 litres a minute enter the bamboo.  
   *Child mode:* Which tumbler got too little? Change one thing. Test again.
   - Ask: How does a big stream become a few drops at each plant? (good: It is split again and again.; The pipes get thinner each time.; A little water leaves at every plant along the way.)
   - Note: Praise a clear account of what went wrong as much as equal shares. In the bamboo systems of Meghalaya, about 18 to 20 litres a minute enter the first pipe. The water travels hundreds of metres, and the flow is divided at every stage. By the end, each plant receives between 20 and 80 drops a minute. The system needs no pump, because the stream starts above the garden.
@@ -658,12 +658,12 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 - **creative:** Make up a rhyme of four lines that holds the key steps in order. A rhyme is hard to forget and easy to pass on again.; Add a list of two things never to do, taken from the towers of yours that failed.; Leave one finished part, such as a base, for the builder to study. It works like a seed saved from a good plant.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Remind your child of their best tower in the Two Lands Test. Ask what they changed between tower 1 and tower 3. Ask how people pass on what they know, and list the ways.  
-  *Parent says:* In the Two Lands Test, your third tower was better than your first, because you kept what worked. Now someone else must build it without you. How do people pass on what they know? List every way you can think of.  
-  *Child mode:* Your best tower must be built by someone else. How do people pass on what they know?
+  *Parent says:* In the Two Lands Test, your third tower was better than your first, because you kept what worked. Now someone else must build it without you. List every way you can think of to pass on what you know.  
+  *Child mode:* Your best tower must be built by someone else. List ways to pass on what you know.
   - Ask: How do people pass on what they know? (good: By showing, and letting the learner try.; By stories, songs and sayings.; By writing and drawing.; By handing on a seed, a tool or a sample.)
 - **s2 (10 min)**  
   *Parent does:* Your child chooses up to two kinds of message and prepares them in 10 minutes. Do not help with the content. Keep the new builder out of the room.  
-  *Parent says:* You have ten minutes. Which two kinds of message will you use? Think about which steps mattered most, and which mistakes cost you a tower.  
+  *Parent says:* You have ten minutes. Which two kinds of message will you use? It could be written steps, a drawing or a small model made from half a sheet. Think about which steps mattered most, and which mistakes cost you a tower.  
   *Child mode:* Choose up to two kinds of message. Prepare them in ten minutes.
 - **s3 (8 min)**  
   *Parent does:* Bring in the new builder. Give them the message, 2 sheets of newspaper and 30 centimetres of tape. Set the timer for 6 minutes. Your child watches in silence. Then test the tower in your child's land and measure it.  
@@ -672,8 +672,8 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Note: Three quarters of 100 centimetres is 75 centimetres. Work out the target from your child's own best score before the test.
 - **s4 (5 min)**  
   *Parent does:* Ask the new builder which part of the message was unclear. Ask your child what the builder did differently, and what the message left out. Then talk about the questions below.  
-  *Parent says:* Builder, which part was hard to follow? What did they do differently from you? Which thing that you knew was not in the message? How do you think the people of Meghalaya pass on how to grow a bridge?  
-  *Child mode:* What did the builder do differently? What did your message leave out?
+  *Parent says:* Builder, which part was hard to follow? What did they do differently from you?  
+  *Child mode:* What did the builder do differently from you?
   - Ask: What did your message leave out? (good: How tightly to roll the tube.; Things my hands knew that I never put into words.; What to do when it starts to lean.)
   - Ask: How is knowledge about a root bridge passed on? (good: Children help the grown-ups and learn by doing.; Each village looks after its own bridges year after year.)
   - Note: Much of what a builder knows is in the hands, and is hard to write down. That is why traditional knowledge is mostly taught by working beside someone. It is also why such knowledge can be lost in one generation, if nobody learns it. Since 2002, Indian villages can record what they know about local plants and animals in a People's Biodiversity Register.
