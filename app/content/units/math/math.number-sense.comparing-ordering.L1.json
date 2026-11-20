@@ -1252,7 +1252,26 @@
       "a": 1,
       "why": "12 is bigger. 12 is a full ten and 2 more. 9 does not fill one ten. Picking 9 usually means looking at the numerals: 9 is bigger than 1 and 2, but 12 means one ten and two."
      },
-     "context": "This is step 2 of Two Ten-Frames. You build 9 and 12 and see that only one of them fills its box of ten."
+     "context": "This is step 2 of Two Ten-Frames. You build 9 and 12 and see that only one of them fills its box of ten.",
+     "chart": {
+      "type": "dots",
+      "title": "9 and 12 on the frames",
+      "rows": [
+       {
+        "label": "9",
+        "n": 9,
+        "more": 1
+       },
+       {
+        "label": "12: ten",
+        "n": 10
+       },
+       {
+        "label": "12: more",
+        "n": 2
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -1369,7 +1388,21 @@
       }
      ],
      "parent": "The beans left over are the winning margin. Cricket reports say it the same way: 'won by 3 runs'. If nothing is left over, the match is a tie.",
-     "context": "This is step 2 of mini hand cricket, where beans keep the score. Here you play a match and compare the two scores by partnering the beans."
+     "context": "This is step 2 of mini hand cricket, where beans keep the score. Here you play a match and compare the two scores by partnering the beans.",
+     "chart": {
+      "type": "dots",
+      "title": "An example: partner the run-beans",
+      "rows": [
+       {
+        "label": "you",
+        "n": 8
+       },
+       {
+        "label": "grown-up",
+        "n": 5
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -1703,7 +1736,21 @@
       "a": 1,
       "why": "8 wins. On tails the smaller number wins, and 8 is less than 13. Picking 13 means forgetting what the coin said. 13 is the bigger number, and it would win on heads."
      },
-     "context": "This is step 2 of Bigger or Smaller, a card game with the numbers 1 to 20 and a coin. Here you play one practice round."
+     "context": "This is step 2 of Bigger or Smaller, a card game with the numbers 1 to 20 and a coin. Here you play one practice round.",
+     "chart": {
+      "type": "dots",
+      "title": "A practice round: the backs of 13 and 8",
+      "rows": [
+       {
+        "label": "13",
+        "n": 13
+       },
+       {
+        "label": "8",
+        "n": 8
+       }
+      ]
+     }
     },
     {
      "id": "s3",
@@ -1826,7 +1873,15 @@
       "a": 2,
       "why": "15. Only 15 is more than 12. 9 is less than 12. Picking 12 means forgetting that more than 12 does not include 12 itself."
      },
-     "context": "This is step 2 of Secret Number, a guessing game on a strip of numbers from 0 to 20. Here you practise using the clue 'more' or 'less'."
+     "context": "This is step 2 of Secret Number, a guessing game on a strip of numbers from 0 to 20. Here you practise using the clue 'more' or 'less'.",
+     "chart": {
+      "type": "scale",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "value": 12,
+      "title": "The guess was 12. The secret number is more."
+     }
     },
     {
      "id": "s3",

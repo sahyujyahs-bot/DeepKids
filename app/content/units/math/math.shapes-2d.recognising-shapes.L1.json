@@ -393,6 +393,10 @@
   {
    "text": "A small male pufferfish near Japan makes a circle about 2 metres wide in the sand, as a nest.",
    "evidence": "Divers had seen these circles on the sea floor without knowing who made them. In 2013, Hiroshi Kawase and two other scientists reported watching the fish build them over 7 to 9 days."
+  },
+  {
+   "text": "More than 2,500 years ago, builders in India marked out exact squares, rectangles and circles on the ground with ropes and pegs.",
+   "evidence": "Their rules are written in old texts called the Sulba Sutras. The word sulba means rope. The oldest of them is linked to the name Baudhayana."
   }
  ],
  "challenging": [
@@ -1552,7 +1556,7 @@
    "title": "Shape pictures: build an auto from shapes",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you make pictures from cut-out circles, triangles, squares and rectangles. Then you count how many of each shape your picture used.",
+   "context": "In this activity you make pictures from cut-out circles, triangles, squares and rectangles. Then you count how many of each shape your picture used. It shows that a big picture can be built from a few simple shapes.",
    "problem": "Can you build an auto-rickshaw, a house or a fish using only the four shapes?",
    "materials": [
     {
@@ -2674,7 +2678,7 @@
     },
     {
      "t": "write",
-     "p": "Say your answer aloud. A grown-up writes it. A round dosa is cut from the middle into slices. Is one slice a triangle? Why?",
+     "p": "Say aloud: a round dosa is cut from the middle into slices. Is one slice a triangle? Why?",
      "lines": 2,
      "a": "No. The outside edge of the slice is curved.",
      "why": "A strong answer says that a triangle needs 3 straight sides, and that the edge of the dosa is curved."
@@ -2895,14 +2899,14 @@
     },
     {
      "t": "write",
-     "p": "Say your answer aloud. A grown-up writes it. Is the full Moon a circle or a ball? Why does it look the way it does?",
+     "p": "Say aloud: is the full Moon a circle or a ball? Why?",
      "lines": 2,
      "a": "The Moon is a ball. From far away we see only its outline, which is a circle.",
      "why": "A strong answer says the Moon is round like a ball, and that a ball looks like a flat circle from far away."
     },
     {
      "t": "write",
-     "p": "Say your answer aloud. A grown-up writes it. You have 6 sticks of the same length. Can all 6 make a square? Why?",
+     "p": "Say aloud: can 6 sticks of the same length make a square? Why?",
      "lines": 2,
      "how": "c1",
      "a": "No. A square has 4 equal sides, and 6 sticks cannot be shared equally among 4 sides.",
@@ -3133,11 +3137,11 @@
    "art": "A carrom board seen from above with round coins set in the middle."
   },
   {
-   "text": "Look at the gopuram of a South Indian temple from the front. Its outline gets narrower floor by floor towards the top.",
+   "text": "From the front, a temple gopuram looks a little like a tall triangle. But its top is cut off flat, so the outline has 4 sides, not 3.",
    "art": "The front of a tall temple gopuram, wide at the bottom and narrow at the top, against the sky."
   },
   {
-   "text": "Cut a ladies' finger across. The slice is not a circle. Count its corners. Most have five.",
+   "text": "Cut a ladies' finger across. The slice is not a circle. Count its corners. Many have five.",
    "art": "Round slices of ladies' finger on a chopping board, each showing a five-cornered outline."
   },
   {
@@ -3405,7 +3409,7 @@
    "url": "",
    "kind": "place",
    "where": "Jaipur",
-   "why": "A park of huge stone instruments for watching the Sun and stars, finished in the 1730s. Look for the giant triangle of the big sundial and the curved scales beside it."
+   "why": "A park of huge stone instruments for watching the Sun and stars, built in the early 1700s. Look for the giant triangle of the big sundial and the curved scales beside it."
   }
  ],
  "buy": [
@@ -3548,8 +3552,8 @@
     "link": "Shape names work the other way round. A clay plate, a steel plate and a dosa are made of different things, and we give them one name, circle. A name picks out the part we choose to look at."
    },
    {
-    "source": "Seventh Letter 342b to 343a, a Greek letter said to be by Plato (scholars are not sure he wrote it)",
-    "teaching": "The letter says that every circle drawn by hand or made on a turning tool is a little bit wrong somewhere. The true circle is none of these.",
+    "source": "Plato, Seventh Letter 342b-343a",
+    "teaching": "This old Greek letter is said to be by Plato, though scholars are not sure he wrote it. It says that every circle drawn by hand or made on a turning tool is a little bit wrong somewhere. The true circle is none of these.",
     "link": "The circle you drew round a bangle is very close, but it is not perfect. The letter says the perfect circle is real all the same. Others say it is an idea that minds make."
    }
   ],
@@ -3600,10 +3604,11 @@
    "Dehaene, S., Izard, V., Pica, P. and Spelke, E. (2006). Core knowledge of geometry in an Amazonian indigene group. Science 311, 381-384. (14 children and 30 adults, 43 sets of six pictures, about 67 in 100 right.)",
    "Karihaloo, B. L., Zhang, K. and Wang, J. (2013). Honeybee combs: how the circular cells transform into rounded hexagons. Journal of the Royal Society Interface 10. The opposing view is by Bauer and Bienefeld (2013). A 2016 review in Scientific Reports called the question still open.",
    "Euclid, Elements, Book I, Definition 22: the square and the oblong are listed as separate four-sided figures.",
+   "The Sulba Sutras: rope rules for laying out squares, rectangles and circles for fire altars. The oldest, linked to Baudhayana, is dated to about 800 to 500 BCE (MacTutor History of Mathematics archive).",
    "Indian Roads Congress, IRC 67, Code of Practice for Road Signs: mandatory signs are mostly circular, cautionary signs triangular, informatory signs rectangular. Stop is an octagon and Give Way is a triangle pointing down.",
    "Hopscotch in India: Paandi (Tamil Nadu), Kunte Bille (Karnataka), Tokkudu Billa (Andhra Pradesh and Telangana), from encyclopedia entries on the traditional games.",
    "Tamil mukkonam (three, and konam for corner or angle). Hindi trikon (three corners) and tribhuj (three arms). Dictionary meanings were checked, but no etymological dictionary was consulted."
   ]
  },
- "playtest": "Walked through every flow as a family of two in a flat. The Triangle Test needs about 5 minutes of cutting by a grown-up. The tiny triangle must be at least matchbox size, or three beans will not fit on it. Beans and a finger give 3 and 3 for all five triangles, 3 corners with 2 straight sides for the cake slice, and 4 and 4 for the piece with its top cut off. In the Turn Test a hand-cut oval fits its outline once or twice, depending on how evenly it is cut, and the table says so. Fill the Shape Mat was played in the head with 1 and 2 players: about 12 rolls each, and nobody can get stuck because 5 and 6 are free choices. The sticks challenge was checked by counting: only 4, 8 and 12 sticks make a square, and sides of 3, 2 and 1 sticks fall flat. Paandi needs a floor you can chalk or tape, so it is outside the core path. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 1999 study of 97 children, the van Hiele theses of 1957, the pufferfish paper of 2013, the Mundurukú study of 2006, the honeycomb debate, Euclid's definition of the oblong, Chandogya Upanishad 6.1.4, the circle passage in the Seventh Letter, the shapes of Indian road signs, the regional names of hopscotch and the date of the Baudhayana rope rules. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The shapes in the puzzles are drawn with text symbols such as ▲ and ■. Look at them once on your own phone to see that they show clearly."
+ "playtest": "Walked through every flow as a family of two in a flat. The Triangle Test needs about 5 minutes of cutting by a grown-up. The tiny triangle must be at least matchbox size, or three beans will not fit on it. Beans and a finger give 3 and 3 for all five triangles, 3 corners with 2 straight sides for the cake slice, and 4 and 4 for the piece with its top cut off. In the Turn Test a hand-cut oval fits its outline once or twice, depending on how evenly it is cut, and the table says so. Fill the Shape Mat was played in the head with 1 and 2 players: about 12 rolls each, and nobody can get stuck because 5 and 6 are free choices. The sticks challenge was checked by counting: only 4, 8 and 12 sticks make a square, and sides of 3, 2 and 1 sticks fall flat. Paandi needs a floor you can chalk or tape, so it is outside the core path. Step minutes add up to each activity's minutes. Facts looked up on the web while writing: the 1999 study of 97 children, the van Hiele theses of 1957, the pufferfish paper of 2013, the Mundurukú study of 2006, the honeycomb debate, Euclid's definition of the oblong, Chandogya Upanishad 6.1.4, the circle passage in the Seventh Letter, the shapes of Indian road signs, the regional names of hopscotch and the age of the Sulba Sutras. The three videos were confirmed by title and channel only, not watched, so watch each one before showing it. The shapes in the puzzles are drawn with text symbols such as ▲ and ■. Look at them once on your own phone to see that they show clearly."
 }
