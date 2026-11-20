@@ -4888,6 +4888,22 @@ dialog .fxfab {
 .fxstripbar i.on {
   background: var(--sun);
 }
+.fxshape {
+  width: 44px;
+  height: 44px;
+}
+.fxbeam {
+  stroke: var(--ink);
+  stroke-width: 3;
+  stroke-linecap: round;
+}
+.fxbean {
+  fill: var(--sun);
+}
+.fxbtxt {
+  font: 700 var(--fs-1) var(--body);
+  fill: var(--muted);
+}
 .fxwork {
   display: inline-block;
   min-width: 120px;

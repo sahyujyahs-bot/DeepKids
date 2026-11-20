@@ -7118,6 +7118,21 @@ function fxImg(u, key, brief, cls) {
   return `<div class="fximg ${cls || ""}${p?.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="fxImgBad(this)" onload="this.parentNode.classList.remove('broken')">${p?.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
+/* one shape for a "row" chart: "circle:red", "square", "triangle:blue", "rectangle", or "?" for the gap to fill */
+const FXSHAPE = { red: "#d7372b", blue: "#2f6fb5", yellow: "#e8a317", green: "#3c8a3f", ink: "#1f2440" };
+function fxShape(cell) {
+  const [name, col] = String(cell).split(":"),
+    f = FXSHAPE[col] || FXSHAPE.ink,
+    body =
+      {
+        circle: `<circle cx="22" cy="22" r="17" fill="${f}"/>`,
+        square: `<rect x="6" y="6" width="32" height="32" fill="${f}"/>`,
+        rectangle: `<rect x="3" y="11" width="38" height="22" fill="${f}"/>`,
+        triangle: `<path d="M22 5 L40 38 L4 38 Z" fill="${f}"/>`,
+      }[name] ||
+      `<rect x="5" y="5" width="34" height="34" rx="8" fill="none" stroke="${FXSHAPE.ink}" stroke-width="3" stroke-dasharray="5 4"/><text x="22" y="30" font-size="22" font-weight="700" text-anchor="middle" fill="${FXSHAPE.ink}">?</text>`;
+  return `<svg class="fxshape" viewBox="0 0 44 44" role="img" aria-label="${esc(name)}">${body}</svg>`;
+}
 /* a round whole cut into equal parts (a laddu, a dosa, a roti), some parts shaded */
 function fxDisc(r) {
   const n = r.parts,
@@ -7164,6 +7179,17 @@ function fxChart(c) {
     return `<figure class="fxchart">${T}<div class="fxcount">${(c.rows || []).map((r) => `<div class="fxcrow"><span class="fxclab">${esc(r.label || "")}</span><span class="fxcdots">${Array.from({ length: r.n }, (_, i) => `<i class="${i % 5 === 4 ? "gap" : ""}"></i>`).join("")}${Array.from({ length: r.more || 0 }, (_, i) => `<i class="more${(r.n + i) % 5 === 4 ? " gap" : ""}"></i>`).join("")}</span></div>`).join("")}</div></figure>`;
   if (c.type === "strip")
     return `<figure class="fxchart">${T}<div class="fxstrips">${(c.rows || []).map((r) => `<div class="fxstrip"><span class="fxclab">${esc(r.label || "")}</span>${r.round ? fxDisc(r) : `<span class="fxstripbar" style="width:${r.width || 100}%">${Array.from({ length: r.parts }, (_, i) => `<i class="${i < (r.shaded || 0) ? "on" : ""}"></i>`).join("")}</span>`}</div>`).join("")}</div></figure>`;
+  if (c.type === "row")
+    return `<figure class="fxchart">${T}<div class="fxcount">${(c.rows || []).map((r) => `<div class="fxcrow"><span class="fxclab">${esc(r.label || "")}</span><span class="fxcdots">${(r.cells || []).map(fxShape).join("")}</span></div>`).join("")}</div></figure>`;
+  if (c.type === "balance") {
+    const side = (b, x) =>
+        `<g transform="translate(${x} ${54 + b.dy})"><line x1="-34" x2="34" y1="0" y2="0" class="fxbeam"/>${Array.from({ length: b.n }, (_, i) => `<circle cx="${-30 + (i % 6) * 12}" cy="${-8 - Math.floor(i / 6) * 12}" r="5" class="fxbean"/>`).join("")}<text x="0" y="16" text-anchor="middle" class="fxbtxt">${esc(b.label || "")}</text></g>`,
+      lo = c.tilt === "left" ? [15, -15] : c.tilt === "right" ? [-15, 15] : [0, 0],
+      a = { ...c.left, dy: lo[0] },
+      z = { ...c.right, dy: lo[1] },
+      ang = c.tilt === "left" ? -8 : c.tilt === "right" ? 8 : 0;
+    return `<figure class="fxchart">${T}<svg viewBox="0 0 300 110" role="img" aria-label="${esc(c.title || "balance")}"><line x1="150" y1="30" x2="150" y2="104" class="fxbeam"/><line x1="40" y1="30" x2="260" y2="30" class="fxbeam" transform="rotate(${ang} 150 30)"/>${side(a, 70)}${side(z, 230)}</svg></figure>`;
+  }
   if (c.type === "sum")
     return `<figure class="fxchart">${T}<div class="fxwork">${(c.rows || []).map((r) => `<div>${esc(r)}</div>`).join("")}<div class="fxworkans">${esc(c.answer || "?")}</div></div></figure>`;
   if (c.type === "scale") {
