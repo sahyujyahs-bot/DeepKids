@@ -3,7 +3,7 @@
 
 **Summary.** If you spread 13 beans out in a long line, are there more beans than before? And can one heap of chappals be 8 and 4 at the same time? You will count beans, chappals, kolam dots and claps to find out. You will learn the three rules of counting, how to count on and back, and how to count in twos. You will also find out that before anyone counts, someone has to choose what 'one' is.
 
-**Intro.** *Put a handful of beans or chana on the floor. Look at them for two seconds, then cover them with a plate. How many were there? Are you sure?* A quick look tells you 'a few' or 'a lot'. It does not tell you if there were 12 or 13. To know exactly, you have to count. Counting looks easy, but it has rules, and small children break them all the time. In this unit you will find the rules yourself, with beans.
+**Intro.** *Which row has more beans, A or B? Look, guess, then count to check.* A is 13 and B is 12. A quick look cannot tell you that. To know exactly, you have to count. Counting looks easy, but it has rules, and small children break them all the time. In this unit you will find the rules yourself, with beans.
 
 ## Learning outcomes
 0. I can count things up to 20 and beyond, with one number for each thing.

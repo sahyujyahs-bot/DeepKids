@@ -4812,6 +4812,59 @@ dialog .fxfab {
   min-height: 120px;
   font-size: var(--fs-4);
 }
+.fxcount {
+  display: grid;
+  gap: 10px;
+}
+.fxcrow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.fxclab {
+  min-width: 64px;
+  font: 700 var(--fs-3) var(--body);
+  color: var(--muted);
+}
+.fxcdots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.fxcdots i {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--sun);
+}
+.fxcdots i.more {
+  background: none;
+  border: 2px dashed var(--tang);
+}
+.fxcdots i.gap {
+  margin-right: 10px;
+}
+.fxsum {
+  display: inline-block;
+  min-width: 120px;
+  padding: 10px 18px;
+  text-align: right;
+  font:
+    700 var(--fs-8) ui-monospace,
+    "SFMono-Regular",
+    Menlo,
+    monospace;
+  letter-spacing: 0.12em;
+  background: var(--sunk);
+  border-radius: var(--r-lg);
+}
+.fxsumans {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 3px solid var(--ink);
+  color: var(--good);
+}
 .fxct {
   font: 700 var(--fs-4) var(--display) !important;
   margin-bottom: 6px;

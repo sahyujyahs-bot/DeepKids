@@ -8,9 +8,22 @@
   "art": "A girl kneeling on a kitchen floor moving rajma beans one at a time across a pencil line, with a heap of chappals by the door behind her."
  },
  "intro": {
-  "hook": "Put a handful of beans or chana on the floor. Look at them for two seconds, then cover them with a plate. How many were there? Are you sure?",
-  "text": "A quick look tells you 'a few' or 'a lot'. It does not tell you if there were 12 or 13. To know exactly, you have to count. Counting looks easy, but it has rules, and small children break them all the time. In this unit you will find the rules yourself, with beans.",
-  "art": "A steel plate half covering a small scatter of beans on a floor, with a child peeking under the edge."
+  "hook": "Which row has more beans, A or B? Look, guess, then count to check.",
+  "text": "A is 13 and B is 12. A quick look cannot tell you that. To know exactly, you have to count. Counting looks easy, but it has rules, and small children break them all the time. In this unit you will find the rules yourself, with beans.",
+  "art": "A steel plate half covering a small scatter of beans on a floor, with a child peeking under the edge.",
+  "chart": {
+   "type": "dots",
+   "rows": [
+    {
+     "label": "A",
+     "n": 13
+    },
+    {
+     "label": "B",
+     "n": 12
+    }
+   ]
+  }
  },
  "outcomes": [
   "I can count things up to 20 and beyond, with one number for each thing.",
@@ -2312,7 +2325,26 @@
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "a2",
    "context": "On the Floor Number Line you hopped forward from a number without starting again from 1. This uses the same idea in the kitchen.",
-   "why_maths": "Counting on is the first way to add. It saves you from counting all the idlis again."
+   "why_maths": "Counting on is the first way to add. It saves you from counting all the idlis again.",
+   "chart": {
+    "type": "dots",
+    "title": "The plate",
+    "rows": [
+     {
+      "label": "on the plate",
+      "n": 9,
+      "more": 3
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "9",
+     "+ 3"
+    ],
+    "answer": "12"
+   }
   },
   {
    "problem": "There are 14 people on a bus. At the next stop 2 people get off. How many are still on the bus?",
@@ -2321,7 +2353,23 @@
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "a2",
    "context": "On the Floor Number Line you hopped backward to count back. This uses the same idea on a bus.",
-   "why_maths": "Counting back is the first way to take away. The conductor does not need to count everyone again."
+   "why_maths": "Counting back is the first way to take away. The conductor does not need to count everyone again.",
+   "chart": {
+    "type": "sum",
+    "rows": [
+     "14",
+     "− 2"
+    ],
+    "answer": "?"
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "14",
+     "− 2"
+    ],
+    "answer": "12"
+   }
   },
   {
    "problem": "Six people take off their chappals at the door. How many chappals are at the door? Then one more person comes. How many now?",
@@ -2348,7 +2396,28 @@
    "math_unit": "math.number-sense.place-value.L1",
    "how": "a3",
    "context": "In the Ten-Frame activity you filled a box of ten spaces with beans and put more beside it. This asks what the written number means.",
-   "why_maths": "Seeing a number as one ten and some ones is how our way of writing numbers works."
+   "why_maths": "Seeing a number as one ten and some ones is how our way of writing numbers works.",
+   "chart": {
+    "type": "dots",
+    "rows": [
+     {
+      "label": "ten-frame",
+      "n": 10
+     },
+     {
+      "label": "loose",
+      "n": 6
+     }
+    ]
+   },
+   "answer_chart": {
+    "type": "sum",
+    "rows": [
+     "10",
+     "+ 6"
+    ],
+    "answer": "16"
+   }
   }
  ],
  "song": {

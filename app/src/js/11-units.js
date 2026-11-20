@@ -90,6 +90,10 @@ function fxChart(c) {
     }).join("");
     return `<figure class="fxchart">${T}<div class="fxpie"><svg viewBox="0 0 120 120" role="img" aria-label="${esc(c.title || "pie chart")}">${seg}<circle cx="60" cy="60" r="24" fill="var(--bg)"/></svg><ul>${D.map((d, i) => `<li><i style="background:${FXPAL[i % 8]}"></i>${esc(d.label)} <b>${esc(d.value)}${c.unit || "%"}</b></li>`).join("")}</ul></div></figure>`;
   }
+  if (c.type === "dots")
+    return `<figure class="fxchart">${T}<div class="fxcount">${(c.rows || []).map((r) => `<div class="fxcrow"><span class="fxclab">${esc(r.label || "")}</span><span class="fxcdots">${Array.from({ length: r.n }, (_, i) => `<i class="${i % 5 === 4 ? "gap" : ""}"></i>`).join("")}${Array.from({ length: r.more || 0 }, (_, i) => `<i class="more${(r.n + i) % 5 === 4 ? " gap" : ""}"></i>`).join("")}</span></div>`).join("")}</div></figure>`;
+  if (c.type === "sum")
+    return `<figure class="fxchart">${T}<div class="fxsum">${(c.rows || []).map((r) => `<div>${esc(r)}</div>`).join("")}<div class="fxsumans">${esc(c.answer || "?")}</div></div></figure>`;
   if (c.type === "scale") {
     const mn = c.min ?? 0,
       mx = c.max ?? 10,
@@ -516,7 +520,7 @@ function fxCards(u) {
       case "intro":
         add(
           "intro",
-          `${fxImg(u, "intro", u.intro.art)}<div class="fxtxt"><span class="fxeb">👀 Before we begin</span><h2>${esc(u.intro.hook)}</h2><p>${esc(u.intro.text)}</p></div>`,
+          `${fxImg(u, "intro", u.intro.art)}<div class="fxtxt"><span class="fxeb">${u.id.startsWith("math.") ? "🧩 Puzzle · try it first" : "👀 Before we begin"}</span><h2>${esc(u.intro.hook)}</h2>${u.intro.chart ? fxChart(u.intro.chart) : ""}${u.id.startsWith("math.") ? `<details class="fxask"><summary>What is this about?</summary><p>${esc(u.intro.text)}</p></details>` : `<p>${esc(u.intro.text)}</p>`}</div>`,
           u.intro.hook + " " + u.intro.text,
         );
         break;

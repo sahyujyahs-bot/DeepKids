@@ -33,3 +33,9 @@ Sessions are shorter than in science: about 20 to 30 minutes, with a daily short
 - Without AI first: practice, answer checking and hints work on the phone for every family.
 - 60 percent South Indian examples; the Indian and the international number systems both shown where numbers get big.
 - Pictures: public domain, CC0 or CC BY with credit, or our own drawn pictures. Never copy non-commercial or share-alike text.
+
+## Look like maths, not like a page of words
+- The opening puzzle is a real puzzle: a short question plus a picture made of counters, a number line or a sum (`intro.chart`). The explanation sits under "What is this about?".
+- Sums look like sums (chart type `sum`: rows and an answer, written one under the other). Counting and grouping look like counters (chart type `dots`: rows of dots, with `more` for dots still to come). Number lines (`scale`), bars, tables and pies also work.
+- Every problem in `maths` and every question in worksheets carries a chart where one helps. A card that is only sentences is a sign to add one.
+- Roots, explanations and facts are short and plain; the child can read them alone at the unit's level.

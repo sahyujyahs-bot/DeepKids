@@ -4830,6 +4830,59 @@ dialog .fxfab {
   min-height: 120px;
   font-size: var(--fs-4);
 }
+.fxcount {
+  display: grid;
+  gap: 10px;
+}
+.fxcrow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.fxclab {
+  min-width: 64px;
+  font: 700 var(--fs-3) var(--body);
+  color: var(--muted);
+}
+.fxcdots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.fxcdots i {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--sun);
+}
+.fxcdots i.more {
+  background: none;
+  border: 2px dashed var(--tang);
+}
+.fxcdots i.gap {
+  margin-right: 10px;
+}
+.fxsum {
+  display: inline-block;
+  min-width: 120px;
+  padding: 10px 18px;
+  text-align: right;
+  font:
+    700 var(--fs-8) ui-monospace,
+    "SFMono-Regular",
+    Menlo,
+    monospace;
+  letter-spacing: 0.12em;
+  background: var(--sunk);
+  border-radius: var(--r-lg);
+}
+.fxsumans {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 3px solid var(--ink);
+  color: var(--good);
+}
 .fxct {
   font: 700 var(--fs-4) var(--display) !important;
   margin-bottom: 6px;
@@ -7493,9 +7546,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="932460b2d335a6c979";window.DK_APPV="932460b2d3";window.DK_DATAV="35a6e6cc91"</script>
-<script src="/config.js?v=932460b2d335a6c979"></script>
+<script>window.DK_BUILD="0a0cc53e56bc36c979";window.DK_APPV="0a0cc53e56";window.DK_DATAV="bc3651798e"</script>
+<script src="/config.js?v=0a0cc53e56bc36c979"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=932460b2d335a6c979"></script>
+<script src="/platform.js?v=0a0cc53e56bc36c979"></script>
 </body>
 </html>
