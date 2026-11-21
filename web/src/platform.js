@@ -44,7 +44,7 @@
    @media(prefers-reduced-motion:reduce){.dkg .pic *,.dkg .pic>img{animation:none!important}}
    .dkg .intro,.dkg .show{display:grid;gap:16px}.dkg .gbtn{display:flex;justify-content:center}
    @media(max-width:899px){.dkg .intro,.dkg .show{display:contents}.dkg h1,.dkg .lead,.dkg .who{order:1}.dkg .show>*{order:2}.dkg .dkgo,.dkg .err,.dkg small{order:3}}
-   @media(min-width:900px){.dkg .box{max-width:1080px;grid-template-columns:minmax(0,1fr) minmax(0,1.25fr);column-gap:64px;align-items:center;text-align:left}.dkg h1{font-size:44px;line-height:1.1}.dkg .lead{font-size:21px;margin-top:0}.dkg .who{font-size:16px;margin-top:0}.dkg .dkgo{max-width:340px}.dkg .gbtn{justify-content:flex-start}.dkg .show{gap:12px}.dkg .swipe{margin:0;padding:0}}`;
+   @media(min-width:900px){.dkg{padding:40px 5vw}.dkg .box{max-width:1800px;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);column-gap:6vw;align-items:center;text-align:left}.dkg h1{font-size:clamp(44px,4.4vw,72px);line-height:1.1}.dkg .lead{font-size:clamp(21px,1.9vw,30px);margin-top:0}.dkg .who{font-size:clamp(16px,1.3vw,20px);margin-top:0}.dkg .dkgo{max-width:420px}.dkg .gbtn{justify-content:flex-start}.dkg .show{gap:12px}.dkg .swipe{margin:0;padding:0}}`;
   /* what DeepKids does: one picture and its words per slide, swiped by hand */
   // the welcome slides before log-in: one list in app/content/welcome.json, which the app uses too.
   // [picture, heading, one line, two points, optional tag]
