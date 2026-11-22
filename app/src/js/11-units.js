@@ -1004,9 +1004,21 @@ async function fxOpen(id, straightIn) {
     T[k] = (T[k] || 0) + 5;
     const Dy = (F.day[u.id] = F.day[u.id] || {});
     Dy[today] = (Dy[today] || 0) + 5;
+    fxTickProject(u.id, FXALL.sections[FXSI]);
     addMins(unitBy("unit|" + u.id)?.subj, 5);
     if (T[k] % 30 === 0) fxLogSession(u.id);
   }, 5000);
+}
+// Today's project row ticks itself once the family has worked 10 minutes on a project today
+function fxTickProject(id, sec) {
+  if (sec.kind !== "projects") return;
+  const D = (fxSt().done[id] = fxSt().done[id] || {}),
+    k = "pday:" + sec.id + "|" + today;
+  D[k] = (D[k] || 0) + 5;
+  if (D[k] >= 600 && !S.tl[today + "|project"]) {
+    S.tl[today + "|project"] = Date.now();
+    save();
+  }
 }
 const fxMin = (s) => (s < 60 ? (s ? "under a minute" : "not started") : Math.round(s / 60) + " min");
 function fxSecState(u, s) {
