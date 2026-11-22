@@ -7,6 +7,18 @@ const { chromium } = require("playwright");
     p = await ctx.newPage(),
     out = [],
     check = (name, ok, extra) => out.push({ name, ok: !!ok, extra });
+  await p.addInitScript(() => {
+    const T = new Date("2026-11-23T10:00:00+05:30").getTime(),
+      D = Date;
+    globalThis.Date = class extends D {
+      constructor(...a) {
+        super(...(a.length ? a : [T]));
+      }
+      static now() {
+        return T;
+      }
+    };
+  });
   await p.goto(URL);
   await p.waitForTimeout(400);
   await p.fill("#lgPhone", "81234 56789");

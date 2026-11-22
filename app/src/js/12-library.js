@@ -27,6 +27,7 @@ function combinedTopicList(sj) {
 function combinedCard(e) {
   const u = unitByK(e.k),
     s = statusOf(u.k),
+    nu = (e.units || []).length,
     n = u.c?.p?.days?.length;
   return unitCard({
     act: `data-act="chapter" data-k="${esc(u.k)}"`,
@@ -34,7 +35,11 @@ function combinedCard(e) {
     title: u.title,
     gist: firstSentence(u.c?.p?.summary),
     tag: shortRef(e.boards || []),
-    facts: [n ? `About ${n} session${n === 1 ? "" : "s"}` : "", s === "none" ? "" : `<b>${STATUS[s]}</b>`],
+    // a topic with units is its units; one without is its own lesson
+    facts: [
+      nu ? `${nu} unit${nu === 1 ? "" : "s"}` : n ? `About ${n} session${n === 1 ? "" : "s"}` : "",
+      s === "none" ? "" : `<b>${STATUS[s]}</b>`,
+    ],
   });
 }
 // DeepKids track in the Library: per subject, the written units and topic ladder

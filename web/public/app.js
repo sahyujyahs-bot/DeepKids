@@ -4275,14 +4275,20 @@ function chapterPage() {
     h += `<section class="card" style="gap:0">${[`${u.book}${chNo(u) ? ", " + chNo(u) : ""}`, ...(c.links || []), ...(c.read || [])].map((r) => `<div class="res"><b>${esc(r)}</b></div>`).join("")}</section>`;
   return h;
 }
+// On the DeepKids track a topic that has units is its units: they are its lessons, so nothing else is shown. A board
+// chapter keeps its own lesson (it follows the book's pages), with the DeepKids units as the way to go deeper
 function chapterView() {
   const u = unitBy(ui.sheet.k),
     U = u?.c?.units || [],
     M = u?.c?.more || [],
-    h = chapterPage() + (M.length ? moreFromOtherSites(M) : "");
-  return U.length
-    ? `<section class="card fxnew"><span class="eyebrow">Go deeper: subtopic feeds</span>${fxUnitBtns(U)}</section>` + h
-    : h;
+    more = M.length ? moreFromOtherSites(M) : "";
+  if (!U.length) return chapterPage() + more;
+  const own = u.board === "combined";
+  return (
+    `<section class="card fxnew"><span class="eyebrow">${own ? "Units in this topic" : "Go deeper: DeepKids units for this chapter"}</span><p class="sm">${own ? "Each unit is a full lesson: parts to read and watch, activities, worksheets and a quiz. Start with the first." : "Each unit goes deeper into one part of this chapter. The chapter's own lesson follows below."}</p>${fxUnitBtns(U)}</section>` +
+    (own ? "" : chapterPage()) +
+    more
+  );
 }
 // free sheets made by others for this chapter, as links to their own sites (content/curriculum/free_worksheets.json)
 const moreFromOtherSites = (M) =>
@@ -9251,6 +9257,7 @@ function combinedTopicList(sj) {
 function combinedCard(e) {
   const u = unitByK(e.k),
     s = statusOf(u.k),
+    nu = (e.units || []).length,
     n = u.c?.p?.days?.length;
   return unitCard({
     act: `data-act="chapter" data-k="${esc(u.k)}"`,
@@ -9258,7 +9265,11 @@ function combinedCard(e) {
     title: u.title,
     gist: firstSentence(u.c?.p?.summary),
     tag: shortRef(e.boards || []),
-    facts: [n ? `About ${n} session${n === 1 ? "" : "s"}` : "", s === "none" ? "" : `<b>${STATUS[s]}</b>`],
+    // a topic with units is its units; one without is its own lesson
+    facts: [
+      nu ? `${nu} unit${nu === 1 ? "" : "s"}` : n ? `About ${n} session${n === 1 ? "" : "s"}` : "",
+      s === "none" ? "" : `<b>${STATUS[s]}</b>`,
+    ],
   });
 }
 // DeepKids track in the Library: per subject, the written units and topic ladder

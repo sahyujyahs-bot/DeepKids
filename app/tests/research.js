@@ -109,8 +109,9 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
   await p.waitForTimeout(300);
   await p.click(".rsdots button:last-child");
   await p.waitForTimeout(300);
-  await p.click('[data-act="rsdone"]');
-  await p.waitForTimeout(300);
+  // reaching the last card already marks the paper read, so the button is only a label by now
+  const markedAtEnd = await p.evaluate(() => !!S.rs.read.ants);
+  const btnDisabled = await p.$eval('[data-act="rsdone"]', (x) => x.disabled);
   const after = await p.evaluate(() => ({
     read: S.rs.read,
     like: S.rs.like,
@@ -119,6 +120,6 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
       .map((i) => i.title + " done=" + i.done),
     forYou: rsForYou().map((x) => x.id),
   }));
-  console.log(JSON.stringify({ todayItem, order, after, errs }, null, 1));
+  console.log(JSON.stringify({ todayItem, order, markedAtEnd, btnDisabled, after, errs }, null, 1));
   await b.close();
 })();
