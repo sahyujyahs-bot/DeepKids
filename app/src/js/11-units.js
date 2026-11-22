@@ -357,7 +357,7 @@ function fxOpenSong(id) {
 function fxFlowCards(u, kind, x) {
   const C = [],
     n = x.flow.length,
-    // a picture for every step: each step shows its own, and the row of all of them is not needed
+    // a picture for every step: each step shows its own, and the row of all of them is not needed. With no pictures at all the row would only repeat the steps, so it is left out
     own = Array.isArray(x.setup) && x.setup.length === n && fxHasPics(u, x),
     why = x.context || x.problem || x.question || x.flow[0]?.context || "";
   C.push({
@@ -378,7 +378,7 @@ function fxFlowCards(u, kind, x) {
         : ""
     }
     ${x.safety && !/^(none|no special|not needed|nothing)\b/i.test(x.safety) ? `<p class="fxsm">⚠️ ${esc(x.safety)}</p>` : ""}${x.days > 1 && x.schedule ? `<p class="fxsm"><b>Over ${x.days} days:</b> ${x.schedule.map((s) => `Day ${s.day}: ${esc(s.what)}`).join(" · ")}</p>` : ""}
-    ${own ? "" : fxSetup(u, x)}${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">${x.printables ? "The game pieces, then " : ""}${n} step${n === 1 ? "" : "s"}, one at a time ↓</p></div>`,
+    ${own || !fxHasPics(u, x) ? "" : fxSetup(u, x)}${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">${x.printables ? "The game pieces, then " : ""}${n} step${n === 1 ? "" : "s"}, one at a time ↓</p></div>`,
   });
   if (x.printables)
     C.push({

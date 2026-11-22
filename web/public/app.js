@@ -7406,7 +7406,7 @@ function fxOpenSong(id) {
 function fxFlowCards(u, kind, x) {
   const C = [],
     n = x.flow.length,
-    // a picture for every step: each step shows its own, and the row of all of them is not needed
+    // a picture for every step: each step shows its own, and the row of all of them is not needed. With no pictures at all the row would only repeat the steps, so it is left out
     own = Array.isArray(x.setup) && x.setup.length === n && fxHasPics(u, x),
     why = x.context || x.problem || x.question || x.flow[0]?.context || "";
   C.push({
@@ -7427,7 +7427,7 @@ function fxFlowCards(u, kind, x) {
         : ""
     }
     ${x.safety && !/^(none|no special|not needed|nothing)\b/i.test(x.safety) ? `<p class="fxsm">⚠️ ${esc(x.safety)}</p>` : ""}${x.days > 1 && x.schedule ? `<p class="fxsm"><b>Over ${x.days} days:</b> ${x.schedule.map((s) => `Day ${s.day}: ${esc(s.what)}`).join(" · ")}</p>` : ""}
-    ${own ? "" : fxSetup(u, x)}${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">${x.printables ? "The game pieces, then " : ""}${n} step${n === 1 ? "" : "s"}, one at a time ↓</p></div>`,
+    ${own || !fxHasPics(u, x) ? "" : fxSetup(u, x)}${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">${x.printables ? "The game pieces, then " : ""}${n} step${n === 1 ? "" : "s"}, one at a time ↓</p></div>`,
   });
   if (x.printables)
     C.push({
@@ -10723,6 +10723,15 @@ function researchTab() {
    <div class="row">${chip("you", "Picked for you")}${chip("all", "All " + rsAll().length)}${chip("read", "Read already")}</div>
    ${L.length ? `<div class="rsgrid">${L.map(rsCard).join("")}</div>` : `<p class="sm muted">${f === "read" ? "Nothing read yet. Pick one above." : "You've read them all. New ones come every week."}</p>`}</section>`;
 }
+// marks a paper read (once); true when it was new
+function rsMarkRead(id) {
+  const st = rsSt();
+  if (st.read[id]) return false;
+  st.read[id] = today;
+  celebrate();
+  toast("Lovely. Your next one will be ready next week.");
+  return true;
+}
 function paperView() {
   const p = rsBy(ui.sheet.p);
   if (!p) return "";
@@ -10767,6 +10776,8 @@ Object.assign(ACT, {
   rsgo(b, e, a, k) {
     ui.sheet.i = Math.max(0, +b.dataset.i);
     sfx("flip");
+    // reaching the last card counts as reading the paper
+    if (ui.sheet.i === rsBy(ui.sheet.p).cards.length && rsMarkRead(ui.sheet.p)) commit();
     renderSheet(true);
   },
   rsf(b, e, a, k) {
@@ -10787,11 +10798,7 @@ Object.assign(ACT, {
     const st = rsSt(),
       id = b.dataset.p;
     if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
-    else if (!st.read[id]) {
-      st.read[id] = today;
-      celebrate();
-      toast("Lovely. Your next one will be ready next week.");
-    }
+    else rsMarkRead(id);
     if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
     commit();
     if (ui.sheet) renderSheet();
