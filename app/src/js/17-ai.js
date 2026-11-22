@@ -374,7 +374,7 @@ let SAMPLE = null,
   ASSETS = null,
   IMGOK = false;
 let FXCHAT = [];
-function fxChat(about, photo, at = null) {
+function fxChat(about, photo, at = null, think = "") {
   let d = document.getElementById("fxChat");
   if (!d) {
     d = document.createElement("dialog");
@@ -409,6 +409,8 @@ function fxChat(about, photo, at = null) {
     return;
   }
   d.dataset.about = about || "";
+  d.dataset.think = think;
+  if (think) FXCHAT = [];
   d.dataset.where = at?.where || "";
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null;
   d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>IAm</b><span class="fxsm">${u ? "About: " + esc(u.title) : at ? "On " + esc(at.where) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
@@ -421,6 +423,10 @@ function fxChat(about, photo, at = null) {
   if (!d.open) d.showModal();
   d.querySelector("textarea").focus();
   if (photo) d.querySelector("input[type=file]").click();
+  if (think) {
+    d.querySelector("textarea").value = `Let's think it through: ${think}`;
+    fxSend();
+  }
 }
 // how IAm thinks and talks, from app/content/PHILOSOPHY.md and WRITING.md, so he speaks the same language as the lessons
 const IAM_VOICE = `How you think and speak, always:
@@ -457,7 +463,7 @@ async function fxSend() {
     age = S.age || 7;
   const input = `You are IAm, the Guru in DeepKids Gurukul, a homeschool app for an Indian family. IAm is a calm, kind lion-man from a world beyond ours where everyone is called IAm; he asks as much as he tells, and never pretends: if asked, say you are an AI speaking as IAm. Be a warm, honest science and learning guide. ${IAM_VOICE}
 Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
-${u ? `They are studying: ${u.title} (${u.id}). Unit summary: ${u.summary.text}${u.roots?.deep_truth ? `\nThe deep truth of this unit: ${u.roots.deep_truth.truth}` : ""}${u.open_questions?.length ? `\nStill unknown: ${u.open_questions.map((o) => o.q).join(" ")}` : ""}${u.challenging?.length ? `\nStill argued about: ${u.challenging.map((c) => c.claim).join("; ")}` : ""}` : ""}${d.dataset.where ? `\nThey opened you from ${d.dataset.where} in the app.` : ""}${d.dataset.about ? `\nThe card on their screen says: ${d.dataset.about.slice(0, 1500)}` : ""}${pic ? "\nThey sent a photo of finished work. Mark it kindly: say what is right, what to fix, and why." : ""}
+${u ? `They are studying: ${u.title} (${u.id}). Unit summary: ${u.summary.text}${u.roots?.deep_truth ? `\nThe deep truth of this unit: ${u.roots.deep_truth.truth}` : ""}${u.open_questions?.length ? `\nStill unknown: ${u.open_questions.map((o) => o.q).join(" ")}` : ""}${u.challenging?.length ? `\nStill argued about: ${u.challenging.map((c) => c.claim).join("; ")}` : ""}` : ""}${d.dataset.where ? `\nThey opened you from ${d.dataset.where} in the app.` : ""}${d.dataset.about ? `\nThe card on their screen says: ${d.dataset.about.slice(0, 1500)}` : ""}${d.dataset.think ? `\nThey tapped "Think it through" on this big question: "${d.dataset.think}". Do not give the answer. Guide them to it in their own words: ask ONE short, concrete question that makes them look at something they know (the beans, the chappals, what they did in the unit). When they reply, respond to exactly what they said, then ask the next small question. If they are stuck, give a smaller step, not the answer. When they reach the idea, say it back in one plain sentence and ask one deeper question.` : ""}${pic ? "\nThey sent a photo of finished work. Mark it kindly: say what is right, what to fix, and why." : ""}
 Conversation so far:\n${FXCHAT.slice(-8)
     .map((m) => (m.r === "me" ? "Them: " : "You: ") + m.t)
     .join("\n")}`;

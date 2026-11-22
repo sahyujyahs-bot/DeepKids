@@ -655,7 +655,7 @@ function fxCards(u) {
         u.big_questions.forEach((q, i) =>
           add(
             "bq." + i,
-            `${fxImg(u, "bq." + i, "")}<div class="fxtxt fxbig ${q.kind}"><span class="fxeb">${q.kind === "deep" ? "🕳️ Deep think" : "🌌 Big think"}</span><h1>${esc(q.q)}</h1><details class="fxask"><summary>A hint</summary><p>${esc(q.hint)}</p></details><button class="fxb" data-fx="askcard">💬 Think it through with DeepKids AI</button></div>`,
+            `${fxImg(u, "bq." + i, "")}<div class="fxtxt fxbig ${q.kind}"><span class="fxeb">${q.kind === "deep" ? "🕳️ Deep think" : "🌌 Big think"}</span><h1>${esc(q.q)}</h1><details class="fxask"><summary>A hint</summary><p>${esc(q.hint)}</p></details><button class="fxb" data-fx="thinkcard" data-q="${esc(q.q)}">💬 Think it through with DeepKids AI</button></div>`,
             q.q,
           ),
         );
@@ -1547,6 +1547,7 @@ function fxClick(e) {
   if (a === "print") return fxPrint(b.dataset.id);
   if (a === "sheet") return fxSheet(b);
   if (a === "askcard") return fxChat(sec ? fxCardText(sec) : "");
+  if (a === "thinkcard") return fxChat(sec ? fxCardText(sec) : "", false, null, b.dataset.q);
   if (a === "photo") return fxChat("", true);
 }
 const fxSongBtns = () => {
