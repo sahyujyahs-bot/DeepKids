@@ -871,18 +871,20 @@ function chapterPage() {
     h += `<section class="card" style="gap:0">${[`${u.book}${chNo(u) ? ", " + chNo(u) : ""}`, ...(c.links || []), ...(c.read || [])].map((r) => `<div class="res"><b>${esc(r)}</b></div>`).join("")}</section>`;
   return h;
 }
-// On the DeepKids track a topic that has units is its units: they are its lessons, so nothing else is shown. A board
-// chapter keeps its own lesson (it follows the book's pages), with the DeepKids units as the way to go deeper
+// A topic page has two parts, said plainly: the topic's own lesson (short parts that cover the whole topic) first, then
+// the units that go deeper into single ideas
 function chapterView() {
   const u = unitBy(ui.sheet.k),
     U = u?.c?.units || [],
     M = u?.c?.more || [],
     more = M.length ? moreFromOtherSites(M) : "";
   if (!U.length) return chapterPage() + more;
-  const own = u.board === "combined";
+  const n = u.c?.p?.days?.length,
+    own = u.board === "combined";
   return (
-    `<section class="card fxnew"><span class="eyebrow">${own ? "Units in this topic" : "Go deeper: DeepKids units for this chapter"}</span><p class="sm">${own ? "Each unit is a full lesson: parts to read and watch, activities, worksheets and a quiz. Start with the first." : "Each unit goes deeper into one part of this chapter. The chapter's own lesson follows below."}</p>${fxUnitBtns(U)}</section>` +
-    (own ? "" : chapterPage()) +
+    `<section class="card fxnew"><span class="eyebrow">How this topic works</span><p class="sm"><b>1. The topic lesson</b>${n ? ` (${n} short parts)` : ""}: ${own ? "our own lesson that covers the whole topic" : "follows the book's chapter"}. Start here.</p><p class="sm"><b>2. Units</b> (${U.length}): each one goes deep into a single idea from this topic. Do them after the lesson, or whenever you want more.</p></section>` +
+    chapterPage() +
+    `<section class="card fxnew"><span class="eyebrow">2 · Units: go deeper</span>${fxUnitBtns(U)}</section>` +
     more
   );
 }

@@ -35,9 +35,10 @@ function combinedCard(e) {
     title: u.title,
     gist: firstSentence(u.c?.p?.summary),
     tag: shortRef(e.boards || []),
-    // a topic with units is its units; one without is its own lesson
     facts: [
-      nu ? `${nu} unit${nu === 1 ? "" : "s"}` : n ? `About ${n} session${n === 1 ? "" : "s"}` : "",
+      [n ? `Lesson: ${n} session${n === 1 ? "" : "s"}` : "", nu ? `${nu} unit${nu === 1 ? "" : "s"}` : ""]
+        .filter(Boolean)
+        .join(" · "),
       s === "none" ? "" : `<b>${STATUS[s]}</b>`,
     ],
   });
