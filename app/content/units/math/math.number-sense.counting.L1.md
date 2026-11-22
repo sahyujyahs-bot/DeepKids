@@ -399,32 +399,40 @@ So they sat in the doorway while the rain came down, and counted the pebbles tog
   - Ask: Why do you think singers count on their hands and not aloud? (good: Their mouth is busy singing.; So they do not get lost in the song.)
   - Note: There are 3 claps in one round, on beats 1, 5 and 7.
   - Check: In Adi tala you count 8 beats, then start again. Which beat comes after beat 8? → **Beat 1**
-### a5 · Maths in kolam: count the dots first (15 min)
-- **problem:** A dot kolam goes wrong if one row has a dot too many or too few. So the person drawing counts each row.
-- **record:** Keep your paper, or take a photo of the floor. Write the number of dots beside each pattern.
+### a5 · Maths in kolam: pick the dots, count them, draw your kolam (18 min)
+- **problem:** The person who draws a kolam counts the dots first. If one row has a dot too many or too few, the lines will not meet.
+- **record:** Keep your kolam drawing, or take a photo of the floor. Write how many dots it had.
 - **s1 (4 min)**  
-  *Parent does:* 1. Ask your child to put down 4 dots in a row, about a hand-width apart. 2. Add 3 more rows of 4 below. 3. Ask how many dots there are in all. 4. Let your child count in their own way.  
-  *Parent says:* Put four dots in a row. Now three more rows just like it. How many dots in all?  
-  *Child mode:* Make 4 rows of 4 dots. Count all the dots. Touch each one.
-  - Ask: How did you make sure you did not count a dot twice? (good: I went row by row.; I touched each one.; I started at the top.)
-  - Note: There are 16 dots. Dots cannot be slid aside like beans, so your child needs another way to keep track. Going row by row is one.
+  *Parent does:* 1. Show your child the three dot patterns in the picture. 2. Let them pick one. 3. They put the dots on the floor with chalk, or on paper, about a hand-width apart. They can lay beans first and draw dots after.  
+  *Parent says:* Pick one dot pattern: A, B or C. Put down the dots the same way.  
+  *Child mode:* Pick A, B or C. Put down the dots just like in the picture.
+  - Ask: Which pattern did you pick? Why that one? (good: I like the triangle.; It looked easy.; I wanted the most dots.)
+  - Note: A has 9 dots, B has 10 and C has 10. You do not need to tell your child these numbers yet. They will count them in the next step.
 - **s2 (3 min)**  
-  *Parent does:* 1. Ask your child to count the same dots in twos, two dots at a time along each row. 2. Compare with the first count.  
-  *Parent says:* Now count the same dots two at a time. Do you think you will get the same number? Why?  
-  *Child mode:* Count the same dots in twos: 2, 4, 6. Do you get the same number?
-  - Ask: Did you get the same number? Why? (good: Yes, 16.; They are the same dots.; Twos is just a faster way.)
-- **s3 (5 min)**  
-  *Parent does:* 1. Put down a new pattern: a row of 1 dot, then 3, then 5, then 3, then 1, each row centred. 2. Ask for a guess of how many dots. 3. Your child counts by drawing a small loop around each dot.  
-  *Parent says:* Here is a new shape. Guess how many dots. Now draw one loop around each dot as you count.  
-  *Child mode:* Guess how many dots. Then draw a loop around each dot as you count.
-  - Ask: Why does a loop around each dot help? (good: I can see which dots are done.; No dot gets counted twice.; One loop for one dot.)
-  - Note: There are 13 dots: 1 and 3 and 5 and 3 and 1. The loop does the job that sliding did for the beans. One loop for one dot.
+  *Parent does:* 1. Ask your child to touch each dot once and say a number for each, going row by row. 2. Ask how many dots there are. 3. Ask how they kept track.  
+  *Parent says:* Touch every dot once and say a number for each. The last number tells how many dots.  
+  *Child mode:* Touch each dot once. Say 1, 2, 3 and so on. Go row by row. How many dots?
+  - Ask: How did you make sure you did not count a dot twice? (good: I went row by row.; I touched each one.; I started at the top.)
+  - Note: Dots on the floor cannot be slid aside like beans, so your child needs another way to keep track. Going row by row is one way. Marking each dot as it is counted is another.
   - Check: You count dots on the floor. You cannot move them. How can you avoid counting one twice? → **Mark each dot as you count it**
-- **s4 (3 min)**  
+- **s3 (3 min)**  
+  *Parent does:* 1. Ask your child to draw a ring around every 2 dots, in pairs. 2. Count the rings. 3. Ask if any dot is left alone.  
+  *Parent says:* Draw a ring round every two dots. How many rings? Is any dot left alone?  
+  *Child mode:* Ring the dots in pairs. Count the rings. Is any dot left alone?
+  - Ask: Is any dot left alone? What does that tell you? (good: Yes, one is left. I could not make a pair.; No. All the dots have a partner.)
+  - Note: Pattern A has 9 dots: 4 rings and 1 dot left alone. B and C have 10 dots: 5 rings and none left alone. This is the idea of pairs with one left over from the card on even and odd numbers.
+  - Check: A pattern has 9 dots. You ring them in pairs. What happens? → **There are 4 rings and 1 dot is left alone**
+- **s4 (5 min)**  
+  *Parent does:* 1. Ask your child to draw their kolam: curved lines that go around the dots, or loops that go around two dots and join up. It does not need to be neat. 2. They can lay string, beans or rangoli powder along the lines instead of drawing. 3. If they would rather not draw, they tell you where the lines go and you draw.  
+  *Parent says:* Now make it a kolam. Draw a curved line around the dots. You can draw it, make it with string, or tell a grown-up where to draw.  
+  *Child mode:* Make a kolam around your dots. Draw it, make it with string, or tell a grown-up where to draw.
+  - Ask: How many dots does your kolam have? How do you know? (good: 9. I counted row by row.; 10. I counted them and made pairs.)
+  - Note: Many kolams are drawn with one line that goes around the dots without lifting the hand. Your child does not need to do that. Any lines around the dots make a kolam here.
+- **s5 (3 min)**  
   *Parent does:* 1. Look for a kolam near your home, or find a photo of a dot kolam. 2. Count the dots in the longest row. 3. If someone at home or next door draws kolams, ask how they count the dots.  
   *Parent says:* Let us find a real kolam and count the dots in the longest row.  
   *Child mode:* Find a real kolam, or a photo of one. Count the dots in the longest row.
-  - Note: If no kolam is nearby, your child can join the dots of their own diamond with curved lines instead.
+  - Note: If no kolam is nearby, your child can count the dots in the kolam they drew.
 
 ## Projects
 ### p1 · The Counting Jar: five days, five secret numbers (25 min, 5 days)

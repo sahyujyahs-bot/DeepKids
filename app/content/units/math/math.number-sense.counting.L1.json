@@ -1158,46 +1158,115 @@
   },
   {
    "id": "a5",
-   "title": "Maths in kolam: count the dots first",
-   "mins": 15,
+   "title": "Maths in kolam: pick the dots, count them, draw your kolam",
+   "mins": 18,
    "days": 1,
-   "context": "In this activity you put down the dots for a kolam and count them. A kolam is a pattern drawn on the ground with rice flour, common in South India. A dot kolam starts with rows of dots, and the dots are counted before any line is drawn.",
-   "problem": "A dot kolam goes wrong if one row has a dot too many or too few. So the person drawing counts each row.",
+   "context": "A dot kolam (pulli kolam) starts with dots on the floor, and the lines go around the dots. In this activity you pick a dot pattern, count the dots, and draw your own kolam around them.",
+   "problem": "The person who draws a kolam counts the dots first. If one row has a dot too many or too few, the lines will not meet.",
    "materials": [
     {
      "item": "chalk or rice flour on the floor, or a pencil and paper",
+     "qty": 1
+    },
+    {
+     "item": "a piece of string, if you want to make the kolam lines with it",
      "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Put down a square of dots and a diamond of dots. Count them in different ways. Loop a line around each dot."
+     "mins": 18,
+     "what": "Pick a dot pattern and put the dots down. Count them. Ring them in pairs. Draw your kolam around the dots."
     }
    ],
-   "record": "Keep your paper, or take a photo of the floor. Write the number of dots beside each pattern.",
+   "record": "Keep your kolam drawing, or take a photo of the floor. Write how many dots it had.",
    "setup": [
     {
-     "art": "A hand putting down chalk dots in neat rows of four on a floor.",
-     "caption": "1. Put down 4 rows of 4 dots. Keep the gaps the same."
+     "art": "Three small dot patterns side by side: A is 3 rows of 3 dots, B is a triangle of 1, 2, 3 and 4 dots, C is 2 rows of 5 dots.",
+     "caption": "1. Pick pattern A, B or C and put its dots on the floor."
     },
     {
-     "art": "A diamond of dots: rows of 1, 3, 5, 3 and 1 dots, each row centred.",
-     "caption": "2. Put down rows of 1, 3, 5, 3 and 1 dots."
+     "art": "A child's finger touching one dot of a 3 by 3 dot square, with the finger going row by row.",
+     "caption": "2. Touch each dot once, row by row. Say a number for each."
     },
     {
-     "art": "The diamond of dots with a small chalk loop drawn around each dot, half of them done.",
-     "caption": "3. Draw one small loop around each dot as you count it."
+     "art": "The 3 by 3 dots with a chalk ring around each pair of dots and one dot left alone.",
+     "caption": "3. Draw a ring round every 2 dots. Is one dot left alone?"
+    },
+    {
+     "art": "A simple kolam: curved chalk lines looping around a 3 by 3 square of dots.",
+     "caption": "4. Draw curved lines around the dots to make your kolam."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Ask your child to put down 4 dots in a row, about a hand-width apart. 2. Add 3 more rows of 4 below. 3. Ask how many dots there are in all. 4. Let your child count in their own way.",
-     "say": "Put four dots in a row. Now three more rows just like it. How many dots in all?",
-     "kid": "Make 4 rows of 4 dots. Count all the dots. Touch each one.",
+     "do": "1. Show your child the three dot patterns in the picture. 2. Let them pick one. 3. They put the dots on the floor with chalk, or on paper, about a hand-width apart. They can lay beans first and draw dots after.",
+     "say": "Pick one dot pattern: A, B or C. Put down the dots the same way.",
+     "kid": "Pick A, B or C. Put down the dots just like in the picture.",
+     "ask": [
+      {
+       "q": "Which pattern did you pick? Why that one?",
+       "good": [
+        "I like the triangle.",
+        "It looked easy.",
+        "I wanted the most dots."
+       ]
+      }
+     ],
+     "parent": "A has 9 dots, B has 10 and C has 10. You do not need to tell your child these numbers yet. They will count them in the next step.",
+     "context": "This is the first step. You pick a dot pattern and put the dots on the floor, the way a dot kolam begins.",
+     "chart": {
+      "type": "dots",
+      "title": "Three dot patterns: A, B and C",
+      "rows": [
+       {
+        "label": "A",
+        "n": 3
+       },
+       {
+        "label": "",
+        "n": 3
+       },
+       {
+        "label": "",
+        "n": 3
+       },
+       {
+        "label": "B",
+        "n": 1
+       },
+       {
+        "label": "",
+        "n": 2
+       },
+       {
+        "label": "",
+        "n": 3
+       },
+       {
+        "label": "",
+        "n": 4
+       },
+       {
+        "label": "C",
+        "n": 5
+       },
+       {
+        "label": "",
+        "n": 5
+       }
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Ask your child to touch each dot once and say a number for each, going row by row. 2. Ask how many dots there are. 3. Ask how they kept track.",
+     "say": "Touch every dot once and say a number for each. The last number tells how many dots.",
+     "kid": "Touch each dot once. Say 1, 2, 3 and so on. Go row by row. How many dots?",
      "ask": [
       {
        "q": "How did you make sure you did not count a dot twice?",
@@ -1208,53 +1277,7 @@
        ]
       }
      ],
-     "parent": "There are 16 dots. Dots cannot be slid aside like beans, so your child needs another way to keep track. Going row by row is one.",
-     "context": "This is the first step of Maths in Kolam. You put down 4 rows of 4 dots, the way a dot kolam begins, and count them.",
-     "chart": {
-      "type": "dots",
-      "rows": [
-       {
-        "label": "row of 4",
-        "n": 4
-       }
-      ]
-     }
-    },
-    {
-     "id": "s2",
-     "mins": 3,
-     "do": "1. Ask your child to count the same dots in twos, two dots at a time along each row. 2. Compare with the first count.",
-     "say": "Now count the same dots two at a time. Do you think you will get the same number? Why?",
-     "kid": "Count the same dots in twos: 2, 4, 6. Do you get the same number?",
-     "ask": [
-      {
-       "q": "Did you get the same number? Why?",
-       "good": [
-        "Yes, 16.",
-        "They are the same dots.",
-        "Twos is just a faster way."
-       ]
-      }
-     ],
-     "context": "This is step 2 of Maths in Kolam. You count the same square of 16 dots again, this time in twos."
-    },
-    {
-     "id": "s3",
-     "mins": 5,
-     "do": "1. Put down a new pattern: a row of 1 dot, then 3, then 5, then 3, then 1, each row centred. 2. Ask for a guess of how many dots. 3. Your child counts by drawing a small loop around each dot.",
-     "say": "Here is a new shape. Guess how many dots. Now draw one loop around each dot as you count.",
-     "kid": "Guess how many dots. Then draw a loop around each dot as you count.",
-     "ask": [
-      {
-       "q": "Why does a loop around each dot help?",
-       "good": [
-        "I can see which dots are done.",
-        "No dot gets counted twice.",
-        "One loop for one dot."
-       ]
-      }
-     ],
-     "parent": "There are 13 dots: 1 and 3 and 5 and 3 and 1. The loop does the job that sliding did for the beans. One loop for one dot.",
+     "parent": "Dots on the floor cannot be slid aside like beans, so your child needs another way to keep track. Going row by row is one way. Marking each dot as it is counted is another.",
      "check": {
       "t": "mcq",
       "q": "You count dots on the floor. You cannot move them. How can you avoid counting one twice?",
@@ -1266,37 +1289,63 @@
       "a": 1,
       "why": "Marking each dot shows which dots already have a number. Counting fast makes it easier to miss a dot or count one twice."
      },
-     "context": "This is step 3 of Maths in Kolam. You put down a diamond of dots and count them by looping a line around each dot.",
-     "chart": {
-      "type": "dots",
-      "rows": [
-       {
-        "label": "1 dot",
-        "n": 1
-       },
-       {
-        "label": "3 dots",
-        "n": 3
-       },
-       {
-        "label": "5 dots",
-        "n": 5
-       },
-       {
-        "label": "7 dots",
-        "n": 7
-       }
-      ]
-     }
+     "context": "This is step 2. You count the dots in your pattern."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Ask your child to draw a ring around every 2 dots, in pairs. 2. Count the rings. 3. Ask if any dot is left alone.",
+     "say": "Draw a ring round every two dots. How many rings? Is any dot left alone?",
+     "kid": "Ring the dots in pairs. Count the rings. Is any dot left alone?",
+     "ask": [
+      {
+       "q": "Is any dot left alone? What does that tell you?",
+       "good": [
+        "Yes, one is left. I could not make a pair.",
+        "No. All the dots have a partner."
+       ]
+      }
+     ],
+     "parent": "Pattern A has 9 dots: 4 rings and 1 dot left alone. B and C have 10 dots: 5 rings and none left alone. This is the idea of pairs with one left over from the card on even and odd numbers.",
+     "check": {
+      "t": "mcq",
+      "q": "A pattern has 9 dots. You ring them in pairs. What happens?",
+      "options": [
+       "All the dots are in pairs",
+       "There are 4 rings and 1 dot is left alone",
+       "There are 5 rings and 1 dot is left alone"
+      ],
+      "a": 1,
+      "why": "4 pairs use 8 dots, so 1 dot is left alone."
+     },
+     "context": "This is step 3. You ring the same dots in pairs and see if one is left over."
     },
     {
      "id": "s4",
+     "mins": 5,
+     "do": "1. Ask your child to draw their kolam: curved lines that go around the dots, or loops that go around two dots and join up. It does not need to be neat. 2. They can lay string, beans or rangoli powder along the lines instead of drawing. 3. If they would rather not draw, they tell you where the lines go and you draw.",
+     "say": "Now make it a kolam. Draw a curved line around the dots. You can draw it, make it with string, or tell a grown-up where to draw.",
+     "kid": "Make a kolam around your dots. Draw it, make it with string, or tell a grown-up where to draw.",
+     "ask": [
+      {
+       "q": "How many dots does your kolam have? How do you know?",
+       "good": [
+        "9. I counted row by row.",
+        "10. I counted them and made pairs."
+       ]
+      }
+     ],
+     "parent": "Many kolams are drawn with one line that goes around the dots without lifting the hand. Your child does not need to do that. Any lines around the dots make a kolam here.",
+     "context": "This is step 4. You draw your own kolam around the dots you counted."
+    },
+    {
+     "id": "s5",
      "mins": 3,
      "do": "1. Look for a kolam near your home, or find a photo of a dot kolam. 2. Count the dots in the longest row. 3. If someone at home or next door draws kolams, ask how they count the dots.",
      "say": "Let us find a real kolam and count the dots in the longest row.",
      "kid": "Find a real kolam, or a photo of one. Count the dots in the longest row.",
-     "parent": "If no kolam is nearby, your child can join the dots of their own diamond with curved lines instead.",
-     "context": "This is the last step of Maths in Kolam. You find a real dot kolam and count the dots in the longest row."
+     "parent": "If no kolam is nearby, your child can count the dots in the kolam they drew.",
+     "context": "This is the last step. You find a real dot kolam and count the dots in its longest row."
     }
    ]
   }
