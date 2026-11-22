@@ -8070,9 +8070,16 @@ const fxStar = () =>
    index `open` is unfolded in place, with `cards` stacked under its heading; nothing ever moves to another screen */
 // the unit's learning points as short bullets: "By the end I can say…" becomes "Say…"
 function fxLearn(u) {
-  const L = (u.outcomes || []).map((x) =>
-    x.replace(/^(by the end )?i can /i, "").replace(/^./, (c) => c.toUpperCase()),
-  );
+  // each outcome is written "I can say that…" for the checker; the child sees the plain learning ("Why more equal parts make each part smaller")
+  const L = (u.outcomes || [])
+    .flatMap((x) => x.replace(/^by the end /i, "").split(/(?<=[.!?])\s+(?=i can )/i))
+    .map((x) =>
+      x
+        .replace(/^i can /i, "")
+        .replace(/^(?:explain|say|tell|describe|show|know) that /i, "")
+        .replace(/^(?:explain|say|tell|describe|show) (why|how|what|which|where|when|who) /i, "$1 ")
+        .replace(/^./, (c) => c.toUpperCase()),
+    );
   return L.length
     ? `<section class="fxlearn"><h2>What you will learn</h2><ul>${L.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></section>`
     : "";
