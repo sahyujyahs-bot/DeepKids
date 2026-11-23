@@ -6210,44 +6210,6 @@ header.top #backTop {
   object-position: right center;
   border-radius: 24px;
 }
-/* Today's side cards: tomorrow, and the week */
-.sidecard {
-  display: grid;
-  gap: 8px;
-  align-content: start;
-}
-.srow {
-  display: flex;
-  gap: 8px;
-  align-items: center;
-}
-.wkstrip {
-  display: grid;
-  grid-template-columns: repeat(7, minmax(0, 1fr));
-  gap: 6px;
-}
-.wkd {
-  display: grid;
-  justify-items: center;
-  gap: 2px;
-  padding: 6px 0;
-  border-radius: 12px;
-  background: var(--sunk);
-}
-.wkd i {
-  font-style: normal;
-  font-size: var(--fs-1);
-  color: var(--muted);
-}
-.wkd b {
-  font: 700 var(--fs-4) var(--body);
-}
-.wkd.on {
-  background: color-mix(in srgb, var(--forest) 20%, var(--surface));
-}
-.wkd.now {
-  outline: 2px solid var(--ink);
-}
 /* a settings card that opens: the arrow turns down */
 .planfold {
   margin-top: 12px;
@@ -7314,9 +7276,28 @@ header.top #backTop {
     gap: 8px;
     justify-items: start;
     padding: 16px;
-    border-radius: 18px;
+    border-radius: var(--r-card);
     background: var(--surface);
     box-shadow: var(--lift);
+  }
+  .orbitcard {
+    display: grid;
+    gap: 8px;
+    justify-items: start;
+    width: 100%;
+  }
+  .oimg {
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    border-radius: var(--r-lg);
+    overflow: hidden;
+    background: color-mix(in srgb, var(--c) 18%, var(--surface));
+  }
+  .oimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
   }
   #paceSec {
     column-count: 2;
@@ -7331,20 +7312,6 @@ header.top #backTop {
     grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
     gap: 0 24px;
     align-items: start;
-  }
-  /* Today on a big screen: the day on the left, the rest of the screen's cards in a column beside it */
-  .todaygrid {
-    display: grid;
-    grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
-    gap: 0 24px;
-    align-items: start;
-  }
-  .todaygrid > .cal {
-    grid-column: 1;
-    grid-row: 1 / span 8;
-  }
-  .todaygrid > :not(.cal) {
-    grid-column: 2;
   }
 }
 @media (min-width: 1400px) {
@@ -7622,9 +7589,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 class="fs6">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" class="col"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="ef064d6e7b42ed0ad5";window.DK_APPV="ef064d6e7b";window.DK_DATAV="42edda8551"</script>
-<script src="/config.js?v=ef064d6e7b42ed0ad5"></script>
+<script>window.DK_BUILD="06e69b93d242ed0ad5";window.DK_APPV="06e69b93d2";window.DK_DATAV="42edda8551"</script>
+<script src="/config.js?v=06e69b93d242ed0ad5"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=ef064d6e7b42ed0ad5"></script>
+<script src="/platform.js?v=06e69b93d242ed0ad5"></script>
 </body>
 </html>

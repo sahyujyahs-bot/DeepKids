@@ -996,7 +996,7 @@ function plPart(p) {
   if (p === "asks") {
     const Q = askList();
     if (Q.length)
-      h += `<section class="sec"><div class="sech"><h3>DeepKids asks</h3></div><div class="col" style="gap:8px">${Q.map(([q, a]) => `<button class="askq" data-act="askq" data-a="${esc(a)}">${blob("var(--sun)", 8, "wow", "", 'width="34" height="34"')}<span>${q}</span>${icon("next")}</button>`).join("")}</div></section>`;
+      h += `<section class="sec"><div class="sech"><h3>DeepKids asks</h3></div><div class="col" style="gap:8px">${Q.map(([q, id, kind]) => `<div class="askitem"><button class="askq" data-act="askq" data-a="${id}" data-k="${kind}" aria-expanded="${ui.askOpen === id}">${blob("var(--sun)", 8, "wow", "", 'width="34" height="34"')}<span>${q}</span>${icon("next")}</button>${ui.askOpen === id ? `<div class="askbox">${askAnswer(id, kind)}</div>` : ""}</div>`).join("")}</div></section>`;
   }
   if (p === "events") {
     const evs = S.events || [],
@@ -1131,11 +1131,13 @@ function yearOrbit() {
   return `<div class="orbitwide"><div><div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div>${calLegend()}<p class="xs muted center">Each ring is a subject; each bead is a topic, in the month it starts. The red line is today. Tap a bead to open it.</p></div><aside class="orbitinfo" id="orbitInfo">${orbitInfo(null)}</aside></div>${yearList(m0)}`;
 }
 // the box beside the year picture: the unit under the pointer, on a wide screen
+// the unit under the pointer on the year's rings: its picture, subject, first line, when it starts, and how to open it
 function orbitInfo(k) {
   const u = k && unitByK(k);
-  if (!u) return `<p class="sm muted">Point at a dot to see the unit.</p>`;
-  const d = firstDates()[k];
-  return `<span class="${subjClass(u.subj)} pill">${esc(SUBJ[u.subj] || "")}</span><h3 class="fs6">${esc(chT(u))}</h3><p class="sm">${STATUS[statusOf(k)]}${d ? ` · starts ${fmt(d)}` : ""}</p><button class="btn sm" data-act="chapter" data-k="${esc(k)}">Open</button>`;
+  if (!u) return `<p class="sm muted">Point at a dot to see the unit here, with its picture.</p>`;
+  const d = firstDates()[k],
+    n = sessionsFor(u);
+  return `<div class="orbitcard ${subjClass(u.subj)}"><span class="oimg"><img src="${esc(lessonPic(u))}" alt="" loading="lazy"></span><span class="stag">${esc(SUBJ[u.subj] || "")}</span><h3 class="fs6">${esc(chT(u))}</h3><p class="sm muted">${esc(firstSentence(summaryOf(u)))}</p><p class="xs">${STATUS[statusOf(k)]}${d ? ` · starts ${fmt(d)}` : ""} · ${n} session${n === 1 ? "" : "s"}</p><button class="btn sm" data-act="chapter" data-k="${esc(k)}">Open</button></div>`;
 }
 function orbitHover(e) {
   const g = e.target.closest?.(".bead[data-k]"),
@@ -1207,19 +1209,29 @@ function dayView() {
   const d = ui.pday || today;
   return `${ui.pv === "day" ? `<button class="link sm" data-act="pv" data-v="month">‹ Back to the month</button>` : ""}<div class="pager"><button class="iconbtn" data-act="pdd" data-d="-1" aria-label="Previous day">${icon("back")}</button><h3 class="fs6">${d === today ? "Today" : fmt(d)}</h3><button class="iconbtn" data-act="pdd" data-d="1" aria-label="Next day">${icon("next")}</button></div>${timeline(d)}`;
 }
+// questions DeepKids asks: [text, id, what answering opens]. Each is answered right under it, then it goes away
 function askList() {
-  const Q = [];
-  if (!S.parent?.name) Q.push(["What should we call you?", "parent"]);
+  const Q = [],
+    done = S.asked || {},
+    add = (q, id, kind) => done[id] || Q.push([q, id, kind]);
+  if (!S.parent?.name) add("What should we call you?", "name", "parent");
   if (!(S.events || []).some((e) => e.kind === "class" || e.kind === "online"))
-    Q.push([
+    add(
       `Does ${esc(S.child || "your child")} go to any classes or tuitions? Tell us the days and times.`,
-      "kind:class",
-    ]);
-  if (!(S.alarm || {}).time) Q.push(["When do you usually wake up?", "parent"]);
-  Q.push(["Any holidays, trips or family events coming up this month?", "kind:outing"]);
-  if (boardsOn().includes("nios")) Q.push(["Are you planning to register for NIOS exams this year?", "kind:remind"]);
-  Q.push([`What does ${esc(S.child || "your child")} love doing these days?`, "kind:interest"]);
+      "classes",
+      "class",
+    );
+  if (!(S.alarm || {}).time) add("When do you usually wake up?", "wake", "parent");
+  add("Any holidays, trips or family events coming up this month?", "trips", "outing");
+  if (boardsOn().includes("nios")) add("Are you planning to register for NIOS exams this year?", "nios", "remind");
+  add(`What does ${esc(S.child || "your child")} love doing these days?`, "loves", "interest");
   return Q.slice(0, 3);
+}
+// the answer, under the question: a form for the kind of thing it asks about
+function askAnswer(id, kind) {
+  if (kind === "remind" && !ui.askYes)
+    return `<div class="row"><button class="btn sm" data-act="askyes">Yes, remind me</button><button class="btn soft sm" data-act="askskip" data-a="${id}">Not this year</button></div>`;
+  return `${quickAdd(today, true)}<button class="link xs" data-act="askskip" data-a="${id}">Not now</button>`;
 }
 // "Type or speak": write plans in a sentence or send a photo of a timetable, and DeepKids sorts them into the plan
 function dumpCard() {
@@ -1289,7 +1301,9 @@ function planPart(k) {
           ([m, n]) =>
             `<button aria-pressed="${(ui.addmode || "pick") === m}" data-act="addmode" data-m="${m}">${n}</button>`,
         )
-        .join("")}</div>${ui.addmode === "say" ? dumpCard() : quickAdd(ui.pday || today)}</div></section>` +
+        .join(
+          "",
+        )}</div>${ui.addmode === "say" ? dumpCard() : ui.askOpen ? `<p class="xs muted">Answering a question below.</p>` : quickAdd(ui.pday || today)}</div></section>` +
       `<div class="plancol">${Q.length ? plPart("asks") : ""}${ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`}</div></div>`
     );
   }
@@ -1676,19 +1690,26 @@ Object.assign(ACT, {
     ui.dump = {};
     render();
   },
-  // each question opens the "Add to your plan" form on the kind of thing that answers it, ready to type
+  // a question opens its answer right under it; parent questions open the parent sheet
   askq(b, e, a, k) {
-    const v = b.dataset.a;
-    if (v === "parent") return openSheet({ mode: "parent" });
-    if (sheet.open) sheet.close();
-    ui.addmode = "pick";
-    ui.qkind = v.slice(5);
+    const id = b.dataset.a,
+      kind = b.dataset.k;
+    if (kind === "parent") return openSheet({ mode: "parent" });
+    ui.askOpen = ui.askOpen === id ? null : id;
+    ui.askYes = false;
+    ui.qkind = kind;
+    ui.qdraft = kind === "remind" ? { t: "Register for NIOS exams" } : null;
+    sfx("tap");
     render();
-    setTimeout(() => {
-      const t = document.getElementById("qa-t");
-      t?.scrollIntoView({ behavior: "smooth", block: "center" });
-      t?.focus({ preventScroll: true });
-    }, 250);
+  },
+  askyes(b, e, a, k) {
+    ui.askYes = true;
+    render();
+  },
+  askskip(b, e, a, k) {
+    S.asked = { ...(S.asked || {}), [b.dataset.a]: 1 };
+    ui.askOpen = null;
+    commit();
   },
   ted(b, e, a, k) {
     ui.ted = b.dataset.id;
