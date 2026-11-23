@@ -658,7 +658,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 - You study the spread-out list at 8:00 am, and then again every 90 minutes. Write the times of the four sittings. How long is it from the first to the last? **8:00 am, 9:30 am, 11:00 am and 12:30 pm. It is 4 hours and 30 minutes.**. 8:00 plus 90 minutes is 9:30. 9:30 plus 90 minutes is 11:00. 11:00 plus 90 minutes is 12:30. From 8:00 to 12:30 is 4 hours and 30 minutes. (queues `math.time.telling-time.L4`)
 
 ## Song
-Learning Is a Path in the Brain (sci.animal-behaviour.L4): Topic-level song
+Learning Is a Path That Gets Stronger (sci.animal-behaviour.L4): Topic-level song
 
 ## Links
 - [Habituation (Wikipedia)](https://en.wikipedia.org/wiki/Habituation) · interactive: For the parent: a clear overview of habituation, how it is tested and where it is found.
