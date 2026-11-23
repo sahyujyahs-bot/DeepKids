@@ -90,7 +90,7 @@ Every living being notices their world in their own way. An ant notices the smel
   Against: Other animals play, feel pain and learn. In 2024, many scientists signed the New York Declaration, saying there is strong evidence that mammals and birds are aware.
 - **Awareness needs a brain.** (Most brain scientists; *debated*)  
   For: Medicines and injuries that change the brain change a person's awareness.  
-  Against: Plants sense, remember and choose. The medicines that make people unaware also stop a touch-me-not folding, though she has no brain.
+  Against: Plants sense, remember and choose. The medicines that make people unaware also stop a touch-me-not folding, though she works by chemical signals, not a brain.
 
 ## Roots
 In the sound test, we counted the sounds we noticed when busy and when sitting still. In the lemon test, we found out what the same lemon is like for each of us. Now we ask what these two tests tell us about being aware.
