@@ -4595,31 +4595,22 @@ body.ai-locked .fxfab .iam::after {
   justify-self: center;
   margin: 8px 0 4px;
 }
-/* small sizes show only his face, in a round frame */
-.iam.big,
+/* the small sizes show all of him too, just smaller */
+.iam.big {
+  width: 44px;
+}
 .iam.mini {
-  width: 48px;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  background: var(--sun);
+  width: 28px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+.iam.big .iamfig,
+.iam.mini .iamfig {
+  animation: none;
 }
 .iamframe {
   position: absolute;
   inset: 0;
-  border-radius: inherit;
-  overflow: hidden;
-}
-.iam.big .iamfig,
-.iam.mini .iamfig {
-  width: 230%;
-  left: -64%;
-  top: -5%;
-  animation: none;
-}
-.iam.mini {
-  width: 26px;
-  margin-right: 6px;
-  vertical-align: middle;
 }
 @media (prefers-reduced-motion: reduce) {
   .iamfig,
