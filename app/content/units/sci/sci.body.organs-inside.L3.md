@@ -123,7 +123,7 @@ Scientists agree that in people the brain does much of the thinking and feeling,
 Octopuses have three hearts. Two pump blood through the gills and one pumps blood round the body. They also have a brain, but most of their nerve cells are in the eight arms. A cow's stomach has four parts. A cow brings grass back up to chew again, which is called chewing the cud. Fish have no lungs. They breathe with gills. But many fish have an air bag inside called a swim bladder, and scientists have found that lungs and swim bladders come from the same ancient beginning. Starfish can push their stomach out of their mouth to digest a mussel outside the body. And sponges, among the oldest kinds of animals, have no organs at all. Every cell does its own breathing and eating.
 - e.g. Cows and buffaloes chewing slowly while resting are chewing the cud.
 - e.g. Earthworms have five pairs of pumping tubes near the front end, often called five hearts.
-- e.g. Jellyfish have no brain. They have a net of nerves spread all through the body.
+- e.g. Jellyfish have no brain, and they sense and decide with a net of nerves. They have a net of nerves spread all through the body.
 ### How we found out what is inside · *defined*
 **Definition:** People learned about organs by looking carefully inside bodies, by testing ideas, and later by using X-rays and scanners.
 
@@ -141,7 +141,7 @@ Scientists can now grow tiny bits of organs in a dish, from a person's own cells
 - The heart is in the middle of the chest, tipped a little to the left, and it pumps blood around the body. *How we know:* Doctors can see it beating with ultrasound. In 1628, William Harvey measured how much blood the heart pushes out and showed that blood goes round and round.
 - The lungs take oxygen from the air into the blood and send carbon dioxide out. *How we know:* The air you breathe out has less oxygen and more carbon dioxide than the air you breathe in. Scientists have measured this many times.
 - The stomach holds food and breaks it down with churning muscles and strong juices. *How we know:* In the 1820s, a doctor called William Beaumont watched digestion through a hole that a gunshot left in a man's stomach. Today, doctors look inside with a tiny camera on a tube.
-- In people, the brain controls the body and does much of the thinking, feeling and remembering. *How we know:* When a part of the brain is hurt, the job of that part changes or stops. Scanners show parts of the brain becoming busy during different tasks.
+- In people, the brain is one kind of hardware that helps control the body and does much of the thinking, feeling and remembering. *How we know:* When a part of the brain is hurt, the job of that part changes or stops. Scanners show parts of the brain becoming busy during different tasks.
 - Organs are made of cells, and every organ depends on the others. *How we know:* Microscopes show cells in every organ. When one organ fails, doctors see other organs struggle too.
 
 ## How we found out
@@ -575,7 +575,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   - Check: How many hearts does an octopus have? → **Three**
 - **s3 (4 min)**  
   *Parent does:* Talk about sponges: animals with no organs.  
-  *Parent says:* Sponges are among the oldest kinds of animal. They have no heart, no stomach and no brain. So how do they stay alive?  
+  *Parent says:* Sponges are among the oldest kinds of animal. They have no heart, no stomach and no brain, and they sense and decide with a net of nerves. So how do they stay alive?  
   *Child mode:* Sponges have no heart, stomach or brain. How do they stay alive?
   - Ask: How do sponges eat and breathe without organs? (good: Each cell does it alone.; Water flows through them and every cell takes what it needs.)
 - **s4 (6 min)**  
@@ -749,7 +749,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 15. (sort) Does this job happen in your chest or in your belly? Swapping air with the blood, pumping blood, churning food, soaking food into the blood.  
    **Answer:** swapping air with the blood → Chest; pumping blood → Chest; churning food → Belly; soaking food into the blood → Belly. *Why:* The lungs and heart are in the chest. The stomach churns food, and the intestines soak the broken-down food into the blood. Both are in the belly.
 ### Body Puzzles and Arguments (challenge) (challenge, 15 questions)
-1. (mcq) Sponges are animals that live in the sea. They have no heart, no stomach and no brain. How do sponges stay alive?  
+1. (mcq) Sponges are animals that live in the sea. They have no heart, no stomach and no brain, and they sense and decide with a net of nerves. How do sponges stay alive?  
    Options: They do not need oxygen or food / Water flows through them, and their cells take oxygen and food straight from the water / They borrow organs from fish / They only live for one day  
    **Answer:** Water flows through them, and their cells take oxygen and food straight from the water. *Why:* Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. Sponges grow, feed and have babies, so they are alive. Organs are what happens when cells share out jobs in a bigger body.
 2. (mcq) Scientists put some heart muscle cells in a dish, away from any brain. The cells start to beat by themselves. What does this show?  

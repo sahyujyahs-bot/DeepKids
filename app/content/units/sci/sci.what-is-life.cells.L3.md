@@ -658,7 +658,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
    **Answer:** False. *Why:* False. The skin cells around the cut split again and again, and the new cells fill the gap. Every new cell comes from a cell.
 5. (sort) Sort these into single-celled or many-celled living things.  
    **Answer:** a bacterium in idli batter → Single-celled; a mushroom → Many-celled; a yeast cell in bread dough → Single-celled; an earthworm → Many-celled; an amoeba → Single-celled; a tulsi plant → Many-celled. *Why:* Yeast, bacteria and amoebas are each one cell. Mushrooms, worms and plants are made of many cells working together.
-6. (fill) Your brain thinks. It is made of about 86 billion nerve cells called ____, and many helper cells.  
+6. (fill) Your brain is one kind of hardware for thinking. It is made of about 86 billion nerve cells called ____, and many helper cells.  
    **Answer:** ['neurons', 'neuron', 'nerve cells']. *Why:* Neurons pass tiny signals to each other. Thinking happens when billions of these cells signal together. So even your thoughts happen in living cells.
 7. (mcq) Which is the fairest way to compare three magnifiers?  
    Options: Use a new onion for each magnifier / Use the same onion skin and the same light for every magnifier / Use the best light for the weakest magnifier / Look for a different time with each one  

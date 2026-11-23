@@ -346,7 +346,7 @@
         },
         {
           "who": "Galen, a Greek doctor working in Rome about 1,850 years ago, and most scientists today",
-          "explanation": "Thinking and feeling happen in the brain. The heart is a pump. A person with a new heart from a donor is still the same person, with the same memories and loves."
+          "explanation": "Brains are one kind of hardware for thinking and feeling, and yours does a lot of it. The heart is a pump. A person with a new heart from a donor is still the same person, with the same memories and loves."
         },
         {
           "who": "Scientists studying how we sense our insides, since about the 2000s",
@@ -2492,7 +2492,7 @@
             },
             {
               "who": "A brain scientist",
-              "says": "Feelings are made in the brain. The heart only speeds up when the brain tells it to."
+              "says": "In people, a lot of feeling is made in the brain, which is one kind of hardware for feeling. The heart only speeds up when the brain tells it to."
             },
             {
               "who": "A heart scientist",
@@ -2503,7 +2503,7 @@
           "lines": 5,
           "how": "a5",
           "a": "A strong answer picks a view and gives evidence, such as 'when I breathed slowly, my heart slowed and I felt calmer, so the body and the feeling are linked'. It then admits a fair point from another side.",
-          "why": "Scientists agree the brain makes thoughts and feelings. New studies show the heart and brain keep sending messages to each other. So the pounding the child feels is real, even if the feeling is made in the brain."
+          "why": "Scientists agree the brain makes thoughts and feelings. New studies show the heart and brain keep sending messages to each other. So the pounding the child feels is real, even if the brain helps make the feeling."
         },
         {
           "t": "sort",

@@ -79,17 +79,17 @@ Here is the quickest way to tell them apart. Count the legs. Six legs means an i
 - e.g. An ant has 6 legs, so they are an insect.
 - e.g. A spider has 8 legs, so they are not an insect. They are an arachnid.
 - e.g. A woodlouse, the small grey animal that rolls into a ball, has 14 legs. They are a land cousin of crabs and prawns.
-### Starfish: five arms and no brain · *defined*
-**Definition:** A starfish is an invertebrate that lives in the sea. They have a body with five matching parts around a middle, hundreds of tube feet, and no brain. Scientists prefer to call them a sea star, because they are not a fish.
+### Starfish: five arms and a ring of nerves instead of a brain · *defined*
+**Definition:** A starfish is an invertebrate that lives in the sea. They have a body with five matching parts around a middle, hundreds of tube feet, and a ring of nerves instead of a brain. Scientists prefer to call them a sea star, because they are not a fish.
 
-Most animals you know have a front and a back, and a left side that matches the right side. A starfish is different. They have five arms around a middle, like the spokes of a wheel. Their mouth is underneath, in the centre. Under each arm are rows of tiny tube feet. They are filled with seawater and can grip like little suckers. The starfish walks on them slowly, and pulls open clam shells with them. They have no brain. Instead, a ring of nerves runs around their mouth and a nerve runs down each arm. The arms pass messages around the ring and settle on one direction to go. There is a tiny eye at the tip of each arm. It sees light, dark and rough shapes, like a dark rock against the bright water. If a starfish loses an arm, they can slowly grow a new one.
+Most animals you know have a front and a back, and a left side that matches the right side. A starfish is different. They have five arms around a middle, like the spokes of a wheel. Their mouth is underneath, in the centre. Under each arm are rows of tiny tube feet. They are filled with seawater and can grip like little suckers. The starfish walks on them slowly, and pulls open clam shells with them. They have no brain, and they sense and decide in their own way, with nerves spread through the body. Instead, a ring of nerves runs around their mouth and a nerve runs down each arm. The arms pass messages around the ring and settle on one direction to go. There is a tiny eye at the tip of each arm. It sees light, dark and rough shapes, like a dark rock against the bright water. If a starfish loses an arm, they can slowly grow a new one.
 - e.g. On rocky beaches in India, like the reef at Narara in Gujarat, you can see sea stars in pools at low tide.
 - e.g. A starfish eats a clam by pushing their own stomach out of their mouth and into the clam's shell.
 - e.g. Sea urchins and sea cucumbers are cousins of the starfish. They also have tube feet and parts in fives.
 ### Jellyfish: a body made mostly of water · *defined*
-**Definition:** A jellyfish is an invertebrate with a soft body that is about 95 parts in 100 water. They have no bones, no brain, no heart and no blood. They catch food with stinging tentacles.
+**Definition:** A jellyfish is an invertebrate with a soft body that is about 95 parts in 100 water. They have no bones, no heart and no blood, and their nerves are spread through the body instead of gathered in a brain. They catch food with stinging tentacles.
 
-A jellyfish's body is a soft bell made mostly of water. The sea holds them up. If a jellyfish is washed onto the beach, they collapse into a flat blob, because nothing holds their shape out of water. They swim by squeezing their bell, which pushes water out behind them. Their tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches the tentacle, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.
+A jellyfish's body is a soft bell made mostly of water. The sea holds them up. If a jellyfish is washed onto the beach, they collapse into a flat blob, because nothing holds their shape out of water. They swim by squeezing their bell, which pushes water out behind them. Their tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches the tentacle, the threads fire, and their venom stuns the fish. Jellyfish have a net of nerves spread through the whole body instead of a brain. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.
 - e.g. Never touch a jellyfish on the beach, even one that looks dead. Their stinging cells can still fire.
 - e.g. Corals and sea anemones are close cousins of jellyfish. They have stinging tentacles too.
 - e.g. Some jellyfish glow in the dark sea. The glowing green material from one jellyfish is now used by scientists all over the world to light up cells.
@@ -123,11 +123,11 @@ For most of the history of animals, there were no backbones at all. The first an
 - e.g. Trilobites were armoured sea invertebrates that lived for about 270 million years and then all died out.
 - e.g. Sponges are invertebrates so simple that they have no muscles or nerves at all.
 ### Which animal branched off first? · *debated*
-All animals share one ancestor, which lived in the sea long ago. Scientists agree on that. But they still argue about which living group branched off the animal family tree first. Was it the sponges, simple animals with no nerves or muscles? Or was it the comb jellies, see-through sea animals that do have nerves and muscles? The answer matters. It tells us whether nerves and muscles were invented once, or more than once.
+All animals share one ancestor, which lived in the sea long ago. Scientists agree on that. But they still argue about which living group branched off the animal family tree first. Was it the sponges, animals with no nerves or muscles? Or was it the comb jellies, see-through sea animals that do have nerves and muscles? The answer matters. It tells us whether nerves and muscles were invented once, or more than once.
 - e.g. Sponges filter food out of seawater through tiny holes. A natural bath sponge is the dried skeleton of a real sponge animal.
 - e.g. Comb jellies swim with rows of tiny beating hairs that flash rainbow colours in light.
 - e.g. Both are invertebrates, and both are older branches than worms, snails or insects.
-- **Sponges first (many scientists):** Sponges are the simplest animals. They have no nerves or muscles. So it makes sense that they branched off first, before nerves and muscles appeared. Some studies of genes agree.
+- **Sponges first (many scientists):** Sponges are the simplest animals. They have no nerves or muscles, and they sense and respond with chemical signals and ion flow. So it makes sense that they branched off first, before nerves and muscles appeared. Some studies of genes agree.
 - **Comb jellies first (other scientists):** Several large studies of genes put comb jellies at the very bottom of the tree. If they are right, then nerves and muscles may have appeared twice, or sponges lost theirs.
 ### Small animals feel, remember and decide · *debated*
 Animals without backbones feel, remember and decide. A worm pulls back from a sharp stick. A crab rubs and guards a hurt leg. A bee remembers which flowers had sweet nectar and flies back to them. Each of these animals senses their world and chooses what to do next. In 2021, a team of scientists led by Jonathan Birch looked at more than 300 studies for the government of the United Kingdom. They found strong evidence that crabs, lobsters, octopuses and squid feel pain. In 2022, a law in the United Kingdom began to protect them as animals that feel. Some scientists still say these are only reflexes and learning. Their view is given below.
@@ -187,18 +187,18 @@ All animals come from soft animals that lived in the sea more than 550 million y
 - Ask: If an ant named all the animals, what do you think they would call us?
 - Ask: What else in your home is firm only because something is held in tight?
 - Ask: A crab guards their hurt leg. How could you tell if an ant was hurt?
-- Ask: A starfish has no brain, yet they decide which way to go. Where in their body might the deciding happen?
+- Ask: A starfish has a ring of nerves instead of a brain, and they decide which way to go. Where in their body might the deciding happen?
 
 ## Deep and big questions
 - *big:* If an ant could name all the animals, would they call us 'the animals with no armour'? Who decides what is normal? (hint: We named animals by comparing them to ourselves. What would an ant compare us to?)
 - *deep:* How can a worm push through hard soil with no bones at all? (hint: Squeeze the middle of an open bottle of water. Where does the water go? What if the cap is on?)
 - *deep:* Why does a crab have to break out of their own armour to grow? (hint: Can a steel tumbler grow bigger? What would you do if your clothes could not stretch?)
 - *big:* Is a worm less important than a tiger? What would happen to a forest without worms? (hint: Think about where fallen leaves go, and who mixes the soil.)
-- *deep:* A starfish has no brain. How do they know where to go? (hint: Their nerves run along every arm and meet in a ring. Could deciding happen all through a body, and not in one place?)
+- *deep:* A starfish has no brain, and senses and decides with a ring of nerves and a nerve along each arm. How do they know where to go? (hint: Their nerves run along every arm and meet in a ring. Could deciding happen all through a body, and not in one place?)
 - *big:* Most animals on Earth are small and have no bones. What can a small, boneless body do that a big body with bones cannot? (hint: Think of a crack in a wall, a single leaf, or a drop of water. Who could live there?)
 - *deep:* Why do you think the first animals had no bones? (hint: What would an animal need before they could build bones? Where did the first animals live?)
 - *big:* Is it fair to squash an ant just because they are small? What about a mosquito that bites? (hint: Ants feel and remember. A mosquito can carry dengue. There is no single right answer. What reasons would you give either way?)
-- *deep:* If a jellyfish has no brain, can they be awake or asleep? (hint: Scientists found that one kind of jellyfish does something like sleeping at night. What could sleep be for?)
+- *deep:* Jellyfish think with a net of nerves, not a brain. Can they be awake or asleep? (hint: Scientists found that one kind of jellyfish does something like sleeping at night. What could sleep be for?)
 - *big:* A starfish is a closer cousin of yours than a snail is. How does that change the way you look at a starfish? (hint: Who are your cousins? Do cousins have to look like you?)
 
 ## Story: The Shell Nobody Lent
@@ -755,7 +755,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    Options: They find an empty one / Their body makes it and adds to it as they grow / They are born with a full-size shell / Other snails build it  
    **Answer:** Their body makes it and adds to it as they grow. *Why:* A snail's mantle, a thin layer of their body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, who really do borrow shells.
 6. (match) Match each starfish part to what it does.  
-   **Answer:** Tube feet → walking and gripping; Mouth underneath → eating; Eye at each arm tip → seeing light, dark and rough shapes; Ring of nerves → sending messages, with no brain. *Why:* A starfish has no brain. A ring of nerves around their mouth and a nerve in each arm carry their messages.
+   **Answer:** Tube feet → walking and gripping; Mouth underneath → eating; Eye at each arm tip → seeing light, dark and rough shapes; Ring of nerves → sending messages, with a net of nerves instead of a brain. *Why:* A starfish has no brain, and senses and decides with a ring of nerves and a nerve along each arm. A ring of nerves around their mouth and a nerve in each arm carry their messages.
 7. (write) A jellyfish lying on the sand looks like a flat blob. In the sea, the same jellyfish is round and spread out. Explain the difference. Use what you saw in Jellyfish in a Bottle, where the plastic bag jellyfish spread out in the water and flopped when you lifted it out.  
    **Answer:** A jellyfish is mostly water, with no bones, no shell and no armour. In the sea, the water around them holds their body up and in shape. On the sand nothing holds them up, so they flop flat, like the plastic bag jellyfish lifted out of the bottle.. *Why:* A strong answer says the jellyfish has no skeleton, and that the sea itself does the job of holding them in shape.
 8. (truefalse) If you cut an earthworm in two, you always get two worms.  
@@ -802,7 +802,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 10. (mcq) A key is a set of yes or no questions that leads you to an animal's group. Which question is best to add to a key, so that it separates a spider from a scorpion?  
    Options: Do they have 8 legs? / Do they have a long tail with a sting? / Are they small? / Do they live on land?  
    **Answer:** Do they have a long tail with a sting?. *Why:* Spiders and scorpions both have 8 legs and live on land, so those questions do not split them. A scorpion has a long tail with a sting and big pincers. Picking '8 legs' is a good question for finding arachnids, but it does not split these two.
-11. (write) A jellyfish has no brain, but they can swim, catch food and even do something like sleeping. What does that make you wonder about brains?  
+11. (write) A jellyfish has a net of nerves instead of a brain, and they can swim, catch food and even do something like sleeping. What does that make you wonder about brains?  
    **Answer:** It makes me wonder whether you need a brain to be alive and busy. Maybe nerves spread out through the body can do many of the jobs a brain does.. *Why:* There is no single right answer. Jellyfish have a net of nerves through the body. One kind, the upside-down jellyfish, was found to have sleep-like rest at night.
 12. (write) If you could design an animal with no backbone that could live on land and be as big as a dog, how would they hold themself up and breathe? Explain your design.  
    **Answer:** Any well-reasoned answer. For example: they would have thick armour made of tubes, like a crab, with air holes all along their body and lungs inside. They would moult in a safe burrow.. *Why:* Big land animals need a strong frame and a way to get oxygen deep inside. Good answers deal with both problems.
@@ -888,7 +888,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **Which group branched off the animal family tree first: sponges or comb jellies?** Different studies of genes give different answers. Scientists are still arguing.
 - **What is it like to be an ant, a worm or a jellyfish?** They sense, feel and react, and we can watch what they do. But nobody knows how to look at a feeling from the inside of another body.
 - **Why are there no giant insects on land today?** Oxygen in the air, heavy armour and hungry birds may all play a part. Nobody knows which matters most.
-- **How can a starfish, with no brain, decide which way to go?** Scientists are studying how their arms share messages, but they do not fully understand it yet.
+- **How does a starfish, with a ring of nerves instead of a brain, decide which way to go?** Scientists are studying how their arms share messages, but they do not fully understand it yet.
 - **How does a tardigrade survive drying out, freezing and even space?** Scientists have found special proteins that help, but they do not yet know the whole story.
 - **Why can some animals, like flatworms and starfish, regrow whole body parts, while we cannot?** Scientists are finding some of the genes involved, but nobody knows the full answer.
 
@@ -899,7 +899,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - What holds that snail up? What holds you up?
 - If you were a crab, what would it feel like to moult?
 - Who is the most important animal in the garden? Why?
-- A starfish has no brain. How do you think they find food?
+- A starfish has no brain, and senses and decides with a ring of nerves and a nerve along each arm. How do you think they find food?
 - Where do you think all the fallen leaves go?
 - Would you rather have a backbone or armour? Why?
 - Ants smell with their feelers. What might an ant notice about you first?

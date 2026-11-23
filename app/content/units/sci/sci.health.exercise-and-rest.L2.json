@@ -153,7 +153,7 @@
    "concept": "Do all animals sleep?",
    "status": "debated",
    "context": "This card is about sleep in humans and other animals. Scientists still argue about which living things really sleep.",
-   "description": "Every mammal and bird that scientists have studied sleeps. But they sleep in very different ways. In a 2017 study, Nadine Gravett and her team in South Africa tracked two wild elephant mothers in Botswana. The elephants slept only about 2 hours a day, mostly standing up. A little brown bat sleeps about 20 hours a day. A dolphin sleeps with half of her brain at a time, so she can keep swimming and come up to breathe. In 2017, scientists in America found that upside-down jellyfish have a sleep-like rest at night. These jellyfish have no brain at all.",
+   "description": "Every mammal and bird that scientists have studied sleeps. But they sleep in very different ways. In a 2017 study, Nadine Gravett and her team in South Africa tracked two wild elephant mothers in Botswana. The elephants slept only about 2 hours a day, mostly standing up. A little brown bat sleeps about 20 hours a day. A dolphin sleeps with half of her brain at a time, so she can keep swimming and come up to breathe. In 2017, scientists in America found that upside-down jellyfish have a sleep-like rest at night. These jellyfish have a net of nerves instead of a brain.",
    "examples": [
     "A house cat sleeps about 12 to 15 hours a day.",
     "A crow sleeps at night in a tree with many other crows.",
@@ -2247,7 +2247,7 @@
     "status": "settled"
    },
    {
-    "text": "Every animal that scientists have carefully studied rests or sleeps, even upside-down jellyfish, who have no brain. Why sleep is needed is still not fully known.",
+    "text": "Every animal that scientists have carefully studied rests or sleeps, even upside-down jellyfish, who have a net of nerves instead of a brain. Why sleep is needed is still not fully known.",
     "status": "open"
    }
   ],

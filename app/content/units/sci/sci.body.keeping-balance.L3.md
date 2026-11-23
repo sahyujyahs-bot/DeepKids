@@ -9,7 +9,7 @@
 0. I can say what homeostasis means: my body keeping things like warmth and water just right.
 1. I can explain how sweating cools me down and how shivering warms me up.
 2. I can explain why I feel thirsty, and how my body keeps its water balanced.
-3. I can describe a feedback loop: something notices a change, the brain decides, and the body acts to undo it.
+3. I can describe a feedback loop: something notices a change, a control centre (often the brain) decides, and the body acts to undo it.
 4. I can run a fair test with two tumblers and a thermometer, and show my results in a table and a chart.
 5. I can give examples of balance-keeping in animals, plants, the Earth and machines at home.
 6. I can say what scientists agree on, and what they still do not know, like why we are about 37 degrees and how hot is too hot.

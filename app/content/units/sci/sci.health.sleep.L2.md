@@ -41,7 +41,7 @@ Soon after you fall asleep, you go into deep sleep. In deep sleep your body make
 Nearly every animal that scientists have studied sleeps, or rests in a way like sleep. A sleeping animal is easier to catch, so sleep must matter a lot. But scientists still argue about its main job. Here are three ideas. Each one may be part of the answer.
 - e.g. Crows fly to big trees at dusk and sleep there together.
 - e.g. A fruit fly kept awake at night rests more the next day.
-- e.g. An upside-down jellyfish, who has no brain, pulses more slowly at night.
+- e.g. An upside-down jellyfish, who has a net of nerves instead of a brain, pulses more slowly at night.
 - **Chiara Cirelli and Giulio Tononi, sleep scientists in the USA:** During the day, the brain makes many new links between its cells as you learn. Sleep trims back the weak links and keeps the strong ones, so the brain is ready to learn again.
 - **Maiken Nedergaard, Lulu Xie and their team, in 2013:** In sleeping mice, fluid washed waste out of the brain much faster than in mice that were awake. So sleep may be a time for the brain to clean itself. In 2024, another team found the opposite in mice, so scientists now argue about this idea.
 - **Scientists who study animals in the wild:** Sleep keeps an animal still and safe at the time of day when they cannot find food well, and it saves energy.
@@ -67,7 +67,7 @@ Humans are animals, and like most other animals we sleep every day. But each kin
 - Too little sleep makes it harder for the body to fight germs. *How we know:* In a study in 2015, grown-ups who slept less than 6 hours a night were more likely to catch a cold when given the cold germ than those who slept 7 hours or more.
 
 ## How we found out
-**Claire Bedbrook, Ravi Nath and Michael Abrams, students at the California Institute of Technology (Caltech), with Viviana Gradinaru, Lea Goentoro and Paul Sternberg, 2016 (the tests) and 2017 (published in the journal Current Biology).** For a long time, many scientists thought sleep was something brains do. Sleep had been found in mammals, birds, fish, fruit flies and tiny worms, and all of them have a brain or a knot of nerve cells that works like one. Upside-down jellyfish, called Cassiopea, have no brain at all. They have only a loose net of nerve cells across their body. They rest upside down on the sand and pulse their bell to move water. In 2016, three students at Caltech, a university in the USA, wondered whether these jellyfish sleep. They were Claire Bedbrook, Ravi Nath and Michael Abrams. They filmed the jellyfish day and night. At night, the jellyfish pulsed about a third less. When the students gently moved a resting jellyfish at night, the jellyfish was slower to respond than in the day. And when the students squirted water at them through the night to keep them awake, the jellyfish were less active the next day, like a tired child. Their teachers, Viviana Gradinaru, Lea Goentoro and Paul Sternberg, helped them publish the work in 2017. It showed that sleep does not need a brain.  
+**Claire Bedbrook, Ravi Nath and Michael Abrams, students at the California Institute of Technology (Caltech), with Viviana Gradinaru, Lea Goentoro and Paul Sternberg, 2016 (the tests) and 2017 (published in the journal Current Biology).** For a long time, many scientists thought sleep was something brains do. Sleep had been found in mammals, birds, fish, fruit flies and tiny worms, and all of them have a brain or a knot of nerve cells that works like one. Upside-down jellyfish, called Cassiopea, have a net of nerves instead of a brain. They have only a loose net of nerve cells across their body. They rest upside down on the sand and pulse their bell to move water. In 2016, three students at Caltech, a university in the USA, wondered whether these jellyfish sleep. They were Claire Bedbrook, Ravi Nath and Michael Abrams. They filmed the jellyfish day and night. At night, the jellyfish pulsed about a third less. When the students gently moved a resting jellyfish at night, the jellyfish was slower to respond than in the day. And when the students squirted water at them through the night to keep them awake, the jellyfish were less active the next day, like a tired child. Their teachers, Viviana Gradinaru, Lea Goentoro and Paul Sternberg, helped them publish the work in 2017. It showed that sleep does not need a brain.  
 *What people believed before:* Sleep needs a brain, so only animals with a brain or a knot of nerve cells can sleep.
 
 ## Challenging perspectives
@@ -82,7 +82,7 @@ Humans are animals, and like most other animals we sleep every day. But each kin
   Against: Sleeping very late in the morning moves your body clock later, so Sunday night's sleep comes late. Studies find that sleeping late helps a little, but does not undo a whole week of short nights.
 
 ## Roots
-We have tested what a night of sleep does to picture pairs, and met humans and other animals that sleep, even a jellyfish with no brain. Now we ask what sleep tells us about ourselves and the world.
+We have tested what a night of sleep does to picture pairs, and met humans and other animals that sleep, even a jellyfish, who has a net of nerves instead of a brain. Now we ask what sleep tells us about ourselves and the world.
 
 **Deep truth.** In the Sleep on It test, you learned eight picture pairs at bedtime. Then you slept, and you noticed nothing all night. In the morning, most pairs were still there. You did not keep them on purpose, because you were asleep. So part of your mind keeps working while you are not aware of it.  
 *Habit it breaks:* We think of 'me' as the part that is awake and noticing, and of sleep as a blank where nothing happens. But your mind went on keeping what you learned all night, while you noticed nothing at all.  
@@ -92,21 +92,21 @@ We have tested what a night of sleep does to picture pairs, and met humans and o
 - *what is life:* Every living being rests and works by turns. Crows, bats, bees, jellyfish and you all sleep and wake each day.
 - *what is this world:* The world takes turns too: day and night, light and dark. Humans and other animals sleep and wake in time with it.
 
-Sleep looks like stopping, but it is a different kind of working. In the picture-pairs test, your mind kept what you learned while you were not aware of anything. Upside-down jellyfish have no brain, yet they rest every night, and they are sleepy after a night kept awake. So some of the work that a mind does can happen without a brain, and without us being awake to watch it. Some scientists ask whether a rest without a brain should be called sleep.
+Sleep looks like stopping, but it is a different kind of working. In the picture-pairs test, your mind kept what you learned while you were not aware of anything. Upside-down jellyfish have a net of nerves instead of a brain, and they rest every night, and they are sleepy after a night kept awake. So some of the work that a mind does can happen without a brain, and without us being awake to watch it. Some scientists ask whether a rest without a brain should be called sleep.
 
 - **Yoga Sutras of Patanjali 1.6 and 1.10:** “प्रमाणविपर्ययविकल्पनिद्रास्मृतयः / अभावप्रत्ययालम्बना वृत्तिर्निद्रा” Patanjali lists five kinds of activity of the mind: right knowing, mistaken knowing, imagining, sleep and memory. He says sleep is the mind's activity when there is nothing else for it to hold. (Patanjali counts sleep as something the mind does, not as the mind being gone. The picture-pairs test shows the mind keeping memories during sleep.)
 - **Chandogya Upanishad 6.8.1:** “यत्रैतत्पुरुषः स्वपिति नाम सता सोम्य तदा संपन्नो भवति / स्वमपीतो भवति / तस्मादेनं स्वपितीत्याचक्षते” Uddalaka tells his son Shvetaketu that when a person is in deep sleep, they become one with pure being. They have gone back to their own self. That is why, the Upanishad says, we call it sleeping. (The Upanishad says a sleeper has 'gone to their own self'. In deep sleep you notice nothing, yet you are still there, and your body and mind keep working.)
 - Science (settled): Sleep helps the brain keep what was learned in the day. Children who sleep after learning remember more than children who stay awake for the same hours.
-- Science (debated): Upside-down jellyfish, who have no brain, show a sleep-like state. Some scientists say true sleep should also show certain brain signals, so they argue about whether to call it sleep.
+- Science (debated): Upside-down jellyfish, who have a net of nerves instead of a brain, show a sleep-like state. Some scientists say true sleep should also show certain brain signals, so they argue about whether to call it sleep.
 - Other view, Many neuroscientists: They say that what happens in sleep is the brain's chemistry and signals at work, with no one 'there'. Remembering in sleep is a process in nerve cells, and calling it the mind's work adds nothing to the explanation.
 - Practice, Notice the edge of sleep (3 min): Tonight, after lights off, lie on your back. Breathe in slowly, and out slowly, five times. Feel your arms get heavy. Feel your legs get heavy. Notice your thoughts going slow and fuzzy. Try to notice the very moment you fall asleep. In the morning, tell me if you caught it.
 - Ask: In the picture-pairs test, who kept the pairs safe while you were asleep?
 - Ask: When you are in deep sleep and not dreaming, are you still there?
-- Ask: A jellyfish with no brain still sleeps. What else might be doing a mind's work without a brain?
+- Ask: A jellyfish, with a net of nerves instead of a brain, still sleeps. What else might be doing a mind's work without a brain?
 
 ## Deep and big questions
 - *deep:* In the Sleep on It test, you learned picture pairs at bedtime. In the morning they were still in your head. Who was keeping them while you slept? (hint: Think about this: can your mind work on something while you are not noticing it?)
-- *deep:* An upside-down jellyfish has no brain, but has a rest like sleep every night. If sleep is not only for brains, what else might it be for? (hint: Think about the jellyfish's whole body, which senses light, food and touch.)
+- *deep:* An upside-down jellyfish has a net of nerves instead of a brain, and has a rest like sleep every night. If sleep is not only for brains, what else might it be for? (hint: Think about the jellyfish's whole body, which senses light, food and touch.)
 - *big:* When you are in deep sleep and not dreaming, where are you? (hint: Think about what you remember of the night, and what was still going on in your body.)
 - *big:* Why do you think nearly every animal sleeps, even though a sleeping animal is easier to catch? (hint: Think about how crows sleep together in one big tree, and bats in a dark cave.)
 - *big:* Does everyone in your home need the same amount of sleep? (hint: Think about a baby, a child, a parent and a grandparent.)
@@ -144,7 +144,7 @@ At half past eight, Amma turned off the TV in the hall. Nila washed and brushed 
 
 'Tell me a story,' said Nila.
 
-So Chithi told her a true one. 'Some years ago, three students in America looked at jellyfish in a tank at night. These jellyfish rest upside down on the sand and pulse to move water. A jellyfish has no brain at all. Many people thought only animals with a brain could sleep. But at night the jellyfish pulsed more slowly. They were slow to notice when they were moved. And when the students kept them awake all night, the jellyfish were sleepy the next day.'
+So Chithi told her a true one. 'Some years ago, three students in America looked at jellyfish in a tank at night. These jellyfish rest upside down on the sand and pulse to move water. A jellyfish has a net of nerves spread through the body instead of a brain. Many people thought only animals with a brain could sleep. But at night the jellyfish pulsed more slowly. They were slow to notice when they were moved. And when the students kept them awake all night, the jellyfish were sleepy the next day.'
 
 'Jellyfish sleep?' said Nila, and her eyes were already closing.
 
@@ -174,7 +174,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 ### g1 · Who Sleeps How? A matching pairs game (15 min)
 - **rules:** Cut out all 16 cards. Mix them and lay them face down in 4 rows of 4.; Take turns. Turn over two cards and read them aloud. A grown-up can read for a child who cannot read them yet.; If one card is an animal and the other says how that animal sleeps, keep the pair and have another go.; If they do not match, turn them face down again in the same places. Try to remember where they are.; When all the pairs are found, the player with the most pairs wins. If you tie, you both win.; Play again tomorrow morning. Do you remember more places after a night's sleep?
 - **Printable cards: 8 animal cards to cut out:** Bat [picture]; House crow [picture]; Cat [picture]; Honeybee [picture]; Upside-down jellyfish; Parrot [picture]; Newborn baby; Fish [picture]
-- **Printable cards: 8 sleep cards to cut out:** I sleep in the day, hanging upside down by my feet.; At dusk I fly to a big tree and sleep in a crowd.; I curl up for many naps in the day, and my ears prick up at a sound.; At night I keep very still and my antennae droop.; I have no brain, but at night I pulse slowly and rest.; I turn my head round and tuck my beak into my back feathers.; I am a human baby. I sleep about 14 to 17 hours a day, in short bits.; Like most fish, I have no eyelids, so I rest with my eyes open.
+- **Printable cards: 8 sleep cards to cut out:** I sleep in the day, hanging upside down by my feet.; At dusk I fly to a big tree and sleep in a crowd.; I curl up for many naps in the day, and my ears prick up at a sound.; At night I keep very still and my antennae droop.; I have a net of nerves instead of a brain, and at night I pulse slowly and rest.; I turn my head round and tuck my beak into my back feathers.; I am a human baby. I sleep about 14 to 17 hours a day, in short bits.; Like most fish, I have no eyelids, so I rest with my eyes open.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Read each card aloud once with your child. 3. Mix them and lay them face down in 4 rows of 4.  
   *Parent says:* These cards show how humans and other animals sleep. Let's read them all once. Then we hide them and look for pairs.  
@@ -405,7 +405,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 ### Sleep in humans and other animals, and a routine that works (stretch, 10 questions)
 1. (match) Draw a line from each animal to how they sleep.  
    **Answer:** Bat → Upside down by the feet; House crow → In a crowd in a big tree; Parrot → Beak tucked into back feathers; Fish → With eyes open. *Why:* Each animal sleeps in their own way. Most fish have no eyelids, so their eyes stay open as they rest.
-2. (write) Upside-down jellyfish have no brain. How could scientists find out whether they still have a sleep-like rest? Name two things they could watch for. A grown-up can write your answer.  
+2. (write) Upside-down jellyfish have a net of nerves instead of a brain. How could scientists find out whether they still have a sleep-like rest? Name two things they could watch for. A grown-up can write your answer.  
    **Answer:** Whether they pulse more slowly at night. Whether they are slower to respond when moved. Whether, after a night kept awake, they are sleepy the next day.. *Why:* A strong answer gives at least two signs. Each one is a sign of sleep that can be watched without looking at a brain.
 3. (draw) Some plants fold their leaves at night. Draw a tamarind or touch-me-not branch in the day, and the same branch at night.  
    **Answer:** The day branch has leaves spread open. The night branch has the leaves folded together.. *Why:* Darwin called this 'sleep movements'. A strong drawing shows the same branch twice, open and then folded.
@@ -453,7 +453,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 7. (mcq) At night, a honeybee rests very still. What happens to her antennae?  
    Options: They droop / They stand straight up / They fall off  
    **Answer:** They droop. *Why:* Honeybees that are resting or asleep keep still and their antennae droop. Scientists first noticed this in the 1980s.
-8. (mcq) Upside-down jellyfish have no brain. At night they pulse more slowly and are slower to respond. After being kept awake all night, they are sleepy the next day. What does this suggest?  
+8. (mcq) Upside-down jellyfish have a net of nerves instead of a brain. At night they pulse more slowly and are slower to respond. After being kept awake all night, they are sleepy the next day. What does this suggest?  
    Options: The jellyfish never rests / Something like sleep does not need a brain / The jellyfish sleeps only in winter  
    **Answer:** Something like sleep does not need a brain. *Why:* Slowing down at night, responding slowly, and being sleepy after a night kept awake are all signs of sleep. So a sleep-like rest does not need a brain.
 9. (mcq) Which bedtime step helps your body clock most?  

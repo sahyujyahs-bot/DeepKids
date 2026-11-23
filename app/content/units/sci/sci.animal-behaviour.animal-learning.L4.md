@@ -512,8 +512,8 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 10. (draw) A bee gets nectar from 6 of the first 8 flowers. The paying colour then changes, and she gets nectar from 2 of the next 8. She then gets nectar from 6 of the last 8. Draw a line graph with three points.  
    **Answer:** A line that starts at 6, dips to 2, and rises back to 6.. *Why:* The dip shows the bee still picking the old colour just after the change. The rise shows she learned the new colour.
 11. (mcq) Why is it interesting that slime moulds get used to a harmless bitter bridge?  
-   Options: They have no nerve cells, so a learning-like change can happen without them / They are the biggest animals alive / They move faster than any other living thing  
-   **Answer:** They have no nerve cells, so a learning-like change can happen without them. *Why:* Slime moulds are single giant cells that sense with chemicals, not nerve cells. A change that is kept and belongs to one substance happens in them too. Scientists argue about whether to call it learning.
+   Options: They have no nerve cells, so the change happens through ion flow and chemical signals instead. / They are the biggest animals alive / They move faster than any other living thing  
+   **Answer:** They have no nerve cells, so the change happens through ion flow and chemical signals instead.. *Why:* Slime moulds are single giant cells that sense with chemicals, not nerve cells. A change that is kept and belongs to one substance happens in them too. Scientists argue about whether to call it learning.
 12. (count) A person gets 3 of 8 words right from a crammed list and 6 of 8 from a list learned in spaced sittings. How many more words did the spaced list give?  
    **Answer:** 3. *Why:* 6 minus 3 is 3. The spaced list gave 3 more words, which is twice as many.
 13. (perspective) Slime moulds get used to a harmless bitter bridge after some days, using chemical signals instead of nerve cells.  

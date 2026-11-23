@@ -174,7 +174,7 @@
   {
    "concept": "How a sponge acts as one body without nerve cells",
    "status": "idea",
-   "description": "A sponge acts as one body, with no nerve cells to carry messages. Dirt that is too big to eat gets trapped in slime on the sponge's surface. Every few hours the whole sponge slowly squeezes and relaxes, and the slime comes loose with the dirt. In 2022, Niklas Kornder and his team filmed tube sponges in the Caribbean doing this. Each squeeze took about half an hour, and they called it a sneeze. How do cells far apart act together? Scientists think one cell lets out a chemical, the next cell senses that chemical and lets out more, and so the signal spreads slowly from cell to cell. The details are still being worked out. Sponge cells also know their own body. In 1907, Henry Van Peters Wilson pressed a red sponge through fine cloth until the sponge was a cloud of loose cells. The cells crawled together into clumps, and in a few weeks the clumps had grown into small working sponges. When he mixed the cells of two kinds of sponge, the cells sorted themselves out by kind.",
+   "description": "A sponge acts as one body, passing messages with chemical signals and ion flow instead of nerve cells. Dirt that is too big to eat gets trapped in slime on the sponge's surface. Every few hours the whole sponge slowly squeezes and relaxes, and the slime comes loose with the dirt. In 2022, Niklas Kornder and his team filmed tube sponges in the Caribbean doing this. Each squeeze took about half an hour, and they called it a sneeze. How do cells far apart act together? Scientists think one cell lets out a chemical, the next cell senses that chemical and lets out more, and so the signal spreads slowly from cell to cell. The details are still being worked out. Sponge cells also know their own body. In 1907, Henry Van Peters Wilson pressed a red sponge through fine cloth until the sponge was a cloud of loose cells. The cells crawled together into clumps, and in a few weeks the clumps had grown into small working sponges. When he mixed the cells of two kinds of sponge, the cells sorted themselves out by kind.",
    "examples": [
     "A sponge sneeze starts every three to eight hours and lasts about half an hour.",
     "Sally Leys and her students in Canada filmed a small freshwater sponge doing the same slow squeeze in a dish in the laboratory.",
@@ -247,7 +247,7 @@
   {
    "concept": "Echinoderms: five parts and feet that work by water power",
    "status": "defined",
-   "description": "Starfish, brittle stars, sea urchins, sand dollars, sea cucumbers and feather stars are echinoderms. About 7,000 kinds are alive today, and every one lives in the sea. No echinoderm lives in fresh water or on land. Their plan has two special features. The first is five matching parts around a centre. You can see five arms on a starfish and five bands of tube feet on a sea urchin's shell. The second is the water vascular system. Sea water enters through a small sieve plate on the body and fills a ring canal and five side canals. Each tube foot is joined to a small bulb. When muscles squeeze the bulb, water is pushed into the foot and the foot stretches out. A starfish has hundreds of tube feet and no brain. A ring of nerves runs round the mouth, and one nerve runs down each arm. The arm that is in front for the moment leads, and the others follow.",
+   "description": "Starfish, brittle stars, sea urchins, sand dollars, sea cucumbers and feather stars are echinoderms. About 7,000 kinds are alive today, and every one lives in the sea. No echinoderm lives in fresh water or on land. Their plan has two special features. The first is five matching parts around a centre. You can see five arms on a starfish and five bands of tube feet on a sea urchin's shell. The second is the water vascular system. Sea water enters through a small sieve plate on the body and fills a ring canal and five side canals. Each tube foot is joined to a small bulb. When muscles squeeze the bulb, water is pushed into the foot and the foot stretches out. A starfish has hundreds of tube feet and a ring of nerves instead of a brain. A ring of nerves runs round the mouth, and one nerve runs down each arm. The arm that is in front for the moment leads, and the others follow.",
    "examples": [
     "A sea cucumber is an echinoderm lying on one side. The five bands run along the body.",
     "In India, all sea cucumbers have been protected by law since 2001, and nobody may collect them.",
@@ -273,7 +273,7 @@
   {
    "concept": "Five ways to carry messages: none, a net, a ring, a chain of knots, and a brain with eight arm cords",
    "status": "defined",
-   "description": "A nerve cell is a long cell that passes a fast electrical signal to the next cell. The five phyla arrange their nerve cells very differently. A sponge has no nerve cells. Signals pass slowly from cell to cell as chemicals. A cnidarian has a nerve net spread through the body, with no centre. An echinoderm has a ring of nerves around the mouth and one nerve along each arm, with no brain. An arthropod has a brain in the head and a chain of ganglia along the body, one or more for each segment. Much of an insect's walking is run by the ganglia nearest the legs. A mollusc has several ganglia. In a snail these are small. In an octopus they have grown and joined into a large brain wrapped around the food pipe, and a thick nerve cord runs down each arm. So a brain in a head is one arrangement among several. Each arrangement fits a way of living: fixed in one place, drifting, creeping in any direction, or hunting.",
+   "description": "A nerve cell is a long cell that passes a fast electrical signal to the next cell. The five phyla arrange their nerve cells very differently. A sponge has no nerve cells. Signals pass slowly from cell to cell as chemicals. A cnidarian has a nerve net spread through the body, with no centre. An echinoderm has a ring of nerves around the mouth and one nerve along each arm, instead of a brain. An arthropod has a brain in the head and a chain of ganglia along the body, one or more for each segment. Much of an insect's walking is run by the ganglia nearest the legs. A mollusc has several ganglia. In a snail these are small. In an octopus they have grown and joined into a large brain wrapped around the food pipe, and a thick nerve cord runs down each arm. So a brain in a head is one arrangement among several. Each arrangement fits a way of living: fixed in one place, drifting, creeping in any direction, or hunting.",
    "examples": [
     "An ant's brain is smaller than a mustard seed, yet she finds her way home across a courtyard.",
     "A jellyfish swims with steady beats, and no brain sets the beat. Small clusters of nerve cells around the rim of the bell set it.",
@@ -437,7 +437,7 @@
    "claim": "An animal needs a brain to learn.",
    "who": "A common assumption.",
    "for": "The animals we see learning tricks, such as dogs and parrots, all have large brains.",
-   "against": "Box jellyfish have no brain. In 2023, Jan Bielecki and his team showed that they learn to steer around obstacles after a few bumps.",
+   "against": "Box jellyfish have no brain, but they have a ring of nerves and eyes that do the same job. In 2023, Jan Bielecki and his team showed that they learn to steer around obstacles after a few bumps.",
    "status": "rejected",
    "context": "The box jellyfish has only small clusters of nerve cells beside the eyes."
   },
@@ -551,7 +551,7 @@
   "deep_truth": {
    "truth": "In the Boss or Hand test, giving an order for every small move was slow. The coin came up sooner when the boss gave only the aim and the hand worked out the rest by touch. An octopus shares the work this way too. About two thirds of her nerve cells are in her arms, and each arm works out its own bends. So in an octopus, deciding is spread through the body, and much of it happens where the touching happens.",
    "habit": "We say 'the brain' for the place where an animal decides, as if every body were run from one control room in the head. That fits a human fairly well, so we treat it as the rule. Then an animal with no brain, or with most of her nerve cells in her arms, looks like a lesser animal, when she is only arranged differently.",
-   "evidence": "In 2001, octopus arms with the link to the brain cut still reached out in the normal wave when the arm's nerve cord was given a signal. A sucker tells crab from stone by touch. A starfish walks with hundreds of tube feet and no brain. A sponge with no nerve cells squeezes the whole body to clear dirt."
+   "evidence": "In 2001, octopus arms with the link to the brain cut still reached out in the normal wave when the arm's nerve cord was given a signal. A sucker tells crab from stone by touch. A starfish walks with hundreds of tube feet, run by a ring of nerves instead of a brain. A sponge with no nerve cells squeezes the whole body to clear dirt."
   },
   "three": {
    "who_am_i": "You are also run from more than one place. Your backbone's nerve cells pull your hand off a hot tawa, and your gut's nerve cells run your digestion, and neither waits for your brain.",
@@ -1696,7 +1696,7 @@
    "title": "Many Feet, No Boss: carry a plate together without a word",
    "mins": 8,
    "days": 1,
-   "context": "In this activity two people carry a plate with a lemon on it around a chair, once with one person giving every order and once in silence. A starfish has hundreds of tube feet and no brain, and this shows one way that many feet can work together. You will find out whether a team can move well with no one giving orders.",
+   "context": "In this activity two people carry a plate with a lemon on it around a chair, once with one person giving every order and once in silence. A starfish has hundreds of tube feet and a ring of nerves instead of a brain, and this shows one way that many feet can work together. You will find out whether a team can move well with no one giving orders.",
    "materials": [
     {
      "item": "a steel plate",
@@ -2551,7 +2551,7 @@
      "t": "write",
      "p": "'An animal needs a brain to learn.' Give one piece of evidence against this claim.",
      "lines": 3,
-     "a": "Box jellyfish have no brain, yet in a 2023 study they learned to steer round obstacles after a few bumps. A sponge has no nerve cells and still squeezes when the water is dirty.",
+     "a": "Box jellyfish have a ring of nerves instead of a brain, and in a 2023 study they learned to steer round obstacles after a few bumps. A sponge has no nerve cells and still squeezes when the water is dirty.",
      "why": "A strong answer names an animal with no brain and says what that animal did that shows learning or a fitting response.",
      "outcome": 7
     },
@@ -2755,7 +2755,7 @@
    "channel": "Deep Look",
    "youtube": "9rxf_2EgwfE",
    "mins": 4,
-   "why": "Close-up film of a starfish's tube feet working together with no brain to direct them.",
+   "why": "Close-up film of a starfish's tube feet working together, directed by a ring of nerves and not a brain.",
    "check": "Id confirmed with YouTube on 18 November 2026 (title and channel match). Length not checked. A parent should preview it first."
   },
   {

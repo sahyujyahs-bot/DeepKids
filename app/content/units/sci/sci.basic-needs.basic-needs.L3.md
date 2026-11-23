@@ -55,7 +55,7 @@ Your body loses water all day. It leaves in urine, in sweat, in every breath, an
 ### Why we need food · *defined*
 **Definition:** Food gives the body energy to move, think and stay warm. It also gives the materials to grow and to mend cuts, bones and muscles.
 
-Your cells use food for energy all the time, even while you sleep. Your heart beats, your brain thinks and your body stays at about 37 degrees Celsius, and all of that needs energy. Food also gives building materials. A child grows taller because food becomes new bone and muscle. The body can store some food as fat, so a person can live for weeks without eating. But they become weak and ill, and a growing child stops growing well.
+Your cells use food for energy all the time, even while you sleep. Your heart beats, your brain does a lot of your thinking and your body stays at about 37 degrees Celsius, and all of that needs energy. Food also gives building materials. A child grows taller because food becomes new bone and muscle. The body can store some food as fat, so a person can live for weeks without eating. But they become weak and ill, and a growing child stops growing well.
 - e.g. A cut on your knee heals in a week. The new skin is built from food you ate.
 - e.g. Ragi, rice, bajra and wheat give energy. Dal, eggs, fish and milk give materials for growing.
 - e.g. When you are ill and cannot eat much, you feel weak, because your body is short of energy.

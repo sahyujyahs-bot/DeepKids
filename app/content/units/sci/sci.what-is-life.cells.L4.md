@@ -175,7 +175,7 @@ A cell has an inside only because she has a skin, and she stays alive only by tr
 - *deep:* Why are there no cells as big as a mango? (hint: In the Ice Race, crushed ice melted faster than a whole cube because it had more surface. What happens to the surface, compared with the inside, when something gets bigger?)
 - *big:* A cell's skin keeps choosing what comes in and what goes out, for as long as she lives. What do you think would happen to the cell if the skin stopped choosing for one minute? (hint: A stone stays a stone even when nothing is happening to it. Would a cell stay a cell if nothing went in or out?)
 - *big:* You are about 30 trillion cells, and each one is alive. Are you one living being, or a crowd of living beings that live together? (hint: Think about the cells in your gut, skin and blood. Which of them could live on their own, and for how long?)
-- *big:* An amoeba has no brain, yet she finds food and moves away from danger. What would you have to see an amoeba do to say that she thinks? (hint: Think about how you decide that your friend, or a crow, is thinking.)
+- *big:* An amoeba has no brain, and she finds food and moves away from danger with sensors and chemical signals. What would you have to see an amoeba do to say that she thinks? (hint: Think about how you decide that your friend, or a crow, is thinking.)
 - *big:* If life began on another planet, would the first cells there also need a skin? Why or why not? (hint: Think about what a skin does for the chemistry inside it.)
 
 ## Story: The Thirsty Seedlings
@@ -713,7 +713,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 - Where in the kitchen do you see water moving out of food when salt is added?
 - Why is a fresh cucumber crisp, while a day-old one is soft?
 - A nerve cell in your leg can be more than a metre long. How can a cell be that long and still get food to every part of her?
-- An amoeba finds food and moves away from danger, and she has no brain. What does that tell you about what one cell can do?
+- An amoeba finds food and moves away from danger with sensors and chemical signals, instead of a brain. What does that tell you about what one cell can do?
 - Why do you think plants are green but mushrooms are not?
 - If you looked at a cell under a microscope, how could you tell whether she is a plant cell or an animal cell?
 

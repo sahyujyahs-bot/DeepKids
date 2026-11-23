@@ -203,7 +203,7 @@ One gas, made by one ripe fruit, spreads through a whole bunch of fruit, and the
 - *big:* Bristlecone pines grow very slowly in poor soil and live for thousands of years. How do you think growing slowly helps them live so long? (hint: Think about wood that is dense, and about rot and insects.)
 - *big:* Almost every banana we eat is a copy of one kind. What would we lose if that kind caught a disease, and what could we do? (hint: Why do seeds give variety? Why can seedless bananas not use it?)
 - *big:* A tree's rings record how good each year was for the tree. What can the rings tell us that no book can? (hint: A tree that is 300 years old has a ring for each of 300 years of rain. Did anyone write all those years down?)
-- *deep:* A bamboo clump flowers after about 48 years. A bamboo has no brain. Can we still say that the bamboo is waiting? (hint: What would you need to see in a bamboo to say that they are counting?)
+- *deep:* A bamboo clump flowers after about 48 years. A bamboo has no brain, and she senses and decides with chemical signals and ion flow. Can we still say that the bamboo is waiting? (hint: What would you need to see in a bamboo to say that they are counting?)
 
 ## Story: Four Days to Sunday
 *Anjana, her family and the mango cart are made up. The science is real. A ripe banana gives off ethylene, which speeds the ripening of raw mangoes nearby. Fruit also need fresh air, and a sealed box can spoil them. Ripening mangoes in rice or straw is a real traditional method. Calcium carbide is not allowed for ripening fruit in India. The times in the story are typical, but real ripening depends on the fruit and the weather.*

@@ -51,7 +51,7 @@ When a bag pulls on your fingers, your skin is pressed and stretched. Tiny senso
 - e.g. In the Secret Packet test, the packet is usually easy to feel in the empty bag.
 - e.g. In the Secret Packet test, with the heavy bag you may get only about half your answers right. That is what guessing gives.
 - e.g. You notice your school bag when you first put it on. After a while, you stop noticing it.
-- **Many brain scientists:** The nerves in your hand carry signals, like wires. The feeling of 'heavy', and the comparing, happen in the brain.
+- **Many brain scientists:** The nerves in your hand carry signals, like wires. In people, much of the feeling of 'heavy', and the comparing, happens in the brain, one kind of hardware for this.
 - **Another view:** Sensing happens all along the way. The nerve cells in your skin notice the pull themselves, and they send fewer signals when a pull stays the same for a while. Your body as a whole feels the bag, not only your brain.
 
 ## Mostly agreed

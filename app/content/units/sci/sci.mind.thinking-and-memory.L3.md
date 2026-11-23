@@ -1,4 +1,4 @@
-# Thinking and memory: how your brain learns and remembers
+# Thinking and memory: how brains and other living beings learn and remember
 `sci.mind.thinking-and-memory.L3`
 
 **Summary.** Can a story help you remember a list better? In this unit you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.

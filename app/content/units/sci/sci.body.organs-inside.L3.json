@@ -331,7 +331,7 @@
    "examples": [
     "Cows and buffaloes chewing slowly while resting are chewing the cud.",
     "Earthworms have five pairs of pumping tubes near the front end, often called five hearts.",
-    "Jellyfish have no brain. They have a net of nerves spread all through the body."
+    "Jellyfish have no brain, and they sense and decide with a net of nerves. They have a net of nerves spread all through the body."
    ],
    "perspectives": [],
    "art": "Four small panels: an octopus with three hearts glowing, a cow with a four-part stomach, a fish with gills and a swim bladder, a sponge full of holes.",
@@ -379,7 +379,7 @@
    "evidence": "In the 1820s, a doctor called William Beaumont watched digestion through a hole that a gunshot left in a man's stomach. Today, doctors look inside with a tiny camera on a tube."
   },
   {
-   "text": "In people, the brain controls the body and does much of the thinking, feeling and remembering.",
+   "text": "In people, the brain is one kind of hardware that helps control the body and does much of the thinking, feeling and remembering.",
    "evidence": "When a part of the brain is hurt, the job of that part changes or stops. Scanners show parts of the brain becoming busy during different tasks."
   },
   {
@@ -1340,7 +1340,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Sponges are animals that live in the sea. They have no heart, no stomach and no brain. How do sponges stay alive?",
+     "p": "Sponges are animals that live in the sea. They have no heart, no stomach and no brain, and they sense and decide with a net of nerves. How do sponges stay alive?",
      "opts": [
       "They do not need oxygen or food",
       "Water flows through them, and their cells take oxygen and food straight from the water",
@@ -2393,7 +2393,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Talk about sponges: animals with no organs.",
-     "say": "Sponges are among the oldest kinds of animal. They have no heart, no stomach and no brain. So how do they stay alive?",
+     "say": "Sponges are among the oldest kinds of animal. They have no heart, no stomach and no brain, and they sense and decide with a net of nerves. So how do they stay alive?",
      "kid": "Sponges have no heart, stomach or brain. How do they stay alive?",
      "ask": [
       {

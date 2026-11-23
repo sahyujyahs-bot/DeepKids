@@ -15,7 +15,7 @@
   "I can say what homeostasis means: my body keeping things like warmth and water just right.",
   "I can explain how sweating cools me down and how shivering warms me up.",
   "I can explain why I feel thirsty, and how my body keeps its water balanced.",
-  "I can describe a feedback loop: something notices a change, the brain decides, and the body acts to undo it.",
+  "I can describe a feedback loop: something notices a change, a control centre (often the brain) decides, and the body acts to undo it.",
   "I can run a fair test with two tumblers and a thermometer, and show my results in a table and a chart.",
   "I can give examples of balance-keeping in animals, plants, the Earth and machines at home.",
   "I can say what scientists agree on, and what they still do not know, like why we are about 37 degrees and how hot is too hot."
@@ -2080,7 +2080,7 @@
        "Your skin's colour"
       ],
       "a": 0,
-      "why": "The hypothalamus compares your warmth with 'just right' and decides what to do. Sweat glands are the actors: they do what the brain decides. Picking sweat glands is close, because they are part of the loop. Their job in this loop is to act on the brain's message."
+      "why": "The hypothalamus compares your warmth with 'just right' and decides what to do. Sweat glands are the actors: they do what the brain signals them to do. Picking sweat glands is close, because they are part of the loop. Their job in this loop is to act on the brain's message."
      },
      "context": "This is the last step of the Thermostat Hunt. You draw a feedback loop for a machine and for your body."
     }

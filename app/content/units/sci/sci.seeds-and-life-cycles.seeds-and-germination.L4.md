@@ -129,7 +129,7 @@ Moong, chana and rice are dry-keeping seeds. They finish growing, dry out on pur
 Seed scientists find that the behaviour of a seed depends on the past. Seeds that were soaked a little, then dried again, often wake faster when they are soaked the second time. Farmers and seed companies use this trick, which is called priming. Seeds from a plant that grew in a cold summer may be more dormant than seeds from the same kind of plant grown in a hot summer. So a seed carries something from their mother plant's weather. Scientists are studying how this happens. One idea is that chemical marks on the genes change how they switch on and off. But does carrying marks from the past count as remembering? The question depends on what we mean by the word.
 - e.g. Farmers in some places soak seed overnight and dry the seed in the shade before sowing, so that the plants come up faster.
 - e.g. Seeds from a plant that grew in a cool summer can stay dormant longer than seeds from a plant that grew in a hot summer.
-- **Many seed scientists:** Priming and the mother's weather are chemical changes that last. They are a kind of memory in a loose sense, but they are not the same as a brain remembering.
+- **Many seed scientists:** Priming and the mother's weather are chemical changes that last. They are a kind of memory, kept in different hardware from a brain.
 - **Some plant scientists:** Any living thing that keeps a trace of the past and uses it later is remembering. A seed that is primed or marked by their mother plant's weather remembers in their own way.
 
 ## Mostly agreed
