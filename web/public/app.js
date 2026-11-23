@@ -16570,6 +16570,8 @@ function startOnboarding() {
         plus: S.plus,
         subjects: S.subjects,
         levels: S.levels,
+        // a family changing its set-up has already chosen each subject's class, so pressing Build my plan must not reset them to the age's class
+        picked: S.setup ? Object.fromEntries(S.subjects.map((x) => [x, 1])) : {},
         hpd: S.hpd || DEF_HPD,
         mode: S.mode || (S.plus ? "booksplus" : "books"),
       }),
