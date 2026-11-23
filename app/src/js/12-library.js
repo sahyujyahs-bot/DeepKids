@@ -18,7 +18,7 @@ function combinedTopicList(sj) {
           .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`)
           .join(""),
       ),
-    sum: ["Class plan", `Class ${lv}`],
+    sum: ["Topics by class", `Class ${lv}`],
     count: `${L.length} topics`,
     body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every ${SUBJ[sj].toLowerCase()} topic any board teaches in Class ${lv}.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
   };
@@ -64,7 +64,7 @@ function dkTrackBrowse() {
   const c = combinedBrowse(sj);
   return { ...c, ctl: chips + c.ctl, sum: [SUBJ[sj], ...c.sum] };
 }
-// a DeepKids subject two ways, picked under View: the class plan (only where the subject has one), or every topic with its levels 1 to 5
+// a DeepKids subject two ways, picked under View: every unit by level 1 to 5 (the default), or the topics of a class (only where the subject has them)
 const hasClassPlan = (sj) => !!DATA.combined?.[sj];
 const dkViewPick = (sj) =>
   hasClassPlan(sj)
@@ -72,17 +72,17 @@ const dkViewPick = (sj) =>
         "v",
         "View",
         [
-          ["class", "Class plan"],
-          ["topic", "All topics and levels"],
+          ["topic", "DeepKids units"],
+          ["class", "Topics by class"],
         ]
           .map(
             ([k, n]) =>
-              `<button class="chip" aria-pressed="${(ui.dkview === "topic" ? "topic" : "class") === k}" data-act="dkv" data-v="${k}">${n}</button>`,
+              `<button class="chip" aria-pressed="${(ui.dkview === "class" ? "class" : "topic") === k}" data-act="dkv" data-v="${k}">${n}</button>`,
           )
           .join(""),
       )
     : "";
-const combinedBrowse = (sj) => (ui.dkview === "topic" || !hasClassPlan(sj) ? fxTopicLadder(sj) : combinedTopicList(sj));
+const combinedBrowse = (sj) => (ui.dkview === "class" && hasClassPlan(sj) ? combinedTopicList(sj) : fxTopicLadder(sj));
 // every unit of a subject, one level at a time: pick a level, see its units by strand; any open unit can be added to the
 // plan alongside the class plan, and a count says how many more are coming
 function fxTopicLadder(sj) {
@@ -113,7 +113,7 @@ function fxTopicLadder(sj) {
           .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Level ${l}</button>`)
           .join(""),
       ),
-    sum: ["All topics", `Level ${lv}`],
+    sum: ["Units", `Level ${lv}`],
     count: `${have.length} units`,
     body,
   };

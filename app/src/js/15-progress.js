@@ -265,7 +265,7 @@ function viewJourneyTabs() {
         '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
       )
       .match(/^([\s\S]*?<\/section>)([\s\S]*)$/);
-    h += `<div class="progrid">${onTrackView()}${subjects}</div>${rest}`;
+    h += `<div class="progrid">${subjects}${onTrackView()}</div>${rest}`;
   } else if (k === "time") h += `<section class="sec">${trackView()}</section>`;
   else if (k === "life") h += lifeTab();
   else if (k === "work")
