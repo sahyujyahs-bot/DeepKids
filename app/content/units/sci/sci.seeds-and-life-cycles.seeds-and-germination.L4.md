@@ -75,7 +75,7 @@ Inside a seed, two plant hormones pull in opposite directions. Abscisic acid tel
 - e.g. When a barley grain wakes, the gibberellin goes from the baby plant to the food store, and the food store starts to work.
 - e.g. Gardeners sometimes soak stubborn seeds in a weak gibberellin solution, because it works as a wake message.
 - **Most plant scientists:** The balance of the two messengers is the main switch. It is a chemical sum, and the seed's own chemistry does it.
-- **Some plant biologists:** The seed is deciding. The seed senses many signs, remembers the cold, and acts at the right time. These biologists say this counts as a simple kind of thinking without a brain.
+- **Some plant biologists:** The seed is deciding. The seed senses many signs, remembers the cold, and acts at the right time. These biologists say this counts as a simple kind of thinking. Brains are one kind of hardware for thinking, and a seed uses chemical signals.
 ### How deep can a seed be sown? The food store sets the limit · *defined*
 **Definition:** A shoot has to push up through the soil before the shoot can see light. The shoot lives on the food in the seed all that time. So the bigger the seed's food store, the deeper the seed can be sown.
 

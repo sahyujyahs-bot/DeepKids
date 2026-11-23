@@ -686,7 +686,7 @@
    "title": "Run and Tumble: be a bacterium",
    "mins": 15,
    "players": "2 or more: one 'bacterium' and one 'food hider'",
-   "context": "This is a moving game. A real bacterium has no eyes and no brain. They sense the chemicals of food in the water, a little like smelling. They swim straight, then check: is the smell stronger now than a moment ago? If yes, they keep going. If no, they tumble and pick a new direction. You play the bacterium.",
+   "context": "This is a moving game. A real bacterium senses and decides, like any living being. They sense the chemicals of food in the water with sensors on the cell, a little like smelling. They swim straight, then check: is the smell stronger now than a moment ago? If yes, they keep going. If no, they tumble and pick a new direction. You play the bacterium.",
    "printables": [
     {
      "kind": "score sheet",
@@ -1905,7 +1905,7 @@
        "Railway builders copied slime moulds"
       ],
       "a": 0,
-      "why": "The slime mould grew tubes everywhere at first. Then the tubes that carried the most flow grew thicker, and the others faded away. With no brain, one cell found a network nearly as good as the one engineers had built. There was no map in the dish: they found the paths by growing and testing. The experiment was done in 2010, long after the railway was built, so the builders did not copy it."
+      "why": "The slime mould grew tubes everywhere at first. Then the tubes that carried the most flow grew thicker, and the others faded away. One cell, working with chemical flow instead of nerves, found a network nearly as good as the one engineers had built. There was no map in the dish: they found the paths by growing and testing. The experiment was done in 2010, long after the railway was built, so the builders did not copy it."
      }
     },
     {

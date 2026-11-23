@@ -62,7 +62,7 @@ Ethylene is one gas that plants send into the air, and many plants release other
 - e.g. A raw fruit senses ethylene from a ripe fruit nearby and starts to ripen.
 - e.g. Cut grass gives out a fresh smell, which is a chemical alarm that other plants nearby can sense.
 - e.g. Sagebrush near a damaged sagebrush was chewed less by insects.
-- **Many plant ecologists:** Plants release chemicals when they are damaged, and neighbours sense them and prepare. This is a form of communication, even though no plant has a brain. The messages are real, and they change what the receiving plant does.
+- **Many plant ecologists:** Plants release chemicals when they are damaged, and neighbours sense them and prepare. This is a form of communication, with chemical signals doing the work that nerves do in an animal. The messages are real, and they change what the receiving plant does.
 - **Some other scientists:** The damaged plant releases chemicals as a by-product of the damage, and the neighbours happen to overhear. Calling it a warning puts a purpose where there may be none, and some experiments have been hard to repeat.
 ### A leaf's last job: senescence · *defined*
 **Definition:** Senescence is the planned ageing of a leaf. The plant takes the leaf apart in order and moves the useful materials to the stem, the roots or the seeds.

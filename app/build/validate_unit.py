@@ -240,6 +240,10 @@ def check(path):
     deny = sorted({m.group(0).lower() for m in DENY.finditer(json.dumps(u, ensure_ascii=False))})
     # a person must read these: "scales can't feel tiny forces" is fine, "a plant can't think" is not
     if deny: W.append(f"check these don't deny a mind to anything ({', '.join(deny)}): PHILOSOPHY.md 'Everything is conscious'")
+    # WRITING.md rule 28: "no brain" must not mark a being as lacking thought. Brains and neurons are one kind of hardware for
+    # thinking; bacteria, plants and fungi sense, decide and remember with ion flow, signals and genetic switches
+    nb = sorted({m.group(0)[:80] for m in re.finditer(r"(?:bacteri|plant|seed|fung|mould|mold|yeast|cell|microb)[^.!?\"]{0,60}?\b(?:no|without|lack\w*)\s+(?:a\s+)?(?:brain|neuron|nerve|nervous)", json.dumps(u, ensure_ascii=False), re.I)})
+    if nb: W.append(f"'no brain' next to a bacterium, plant or cell reads as 'cannot think' ({len(nb)}); say how the being senses and decides (WRITING.md rule 28): " + " | ".join(nb[:3]))
     # WRITING.md rule 26: a living being is she, he or they, never "it"
     LIVE = r"(?:plant|seed|seedling|tree|bean|sprout|animal|bird|crow|sparrow|pigeon|parrot|hen|chick|insect|ant|bee|butterfly|caterpillar|spider|worm|earthworm|snail|frog|tadpole|fish|cow|dog|cat|goat|elephant|lion|tiger|monkey|bat|lizard|gecko|snake|turtle|whale|dolphin|bacteri(?:um|a)|germ|microbe|virus|fungus|mushroom|mould|yeast|baby|kitten|puppy|calf)"
     its = sorted({m.group(0)[:70] for m in re.finditer(r"\b" + LIVE + r"\b[^.!?\"]{0,40}?\b(?:it|its|itself)\b", json.dumps(u, ensure_ascii=False), re.I)})

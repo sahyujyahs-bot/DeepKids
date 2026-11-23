@@ -67,7 +67,7 @@ Every mammal and bird that scientists have studied sleeps. But they sleep in ver
 - e.g. A house cat sleeps about 12 to 15 hours a day.
 - e.g. A crow sleeps at night in a tree with many other crows.
 - e.g. Rajma plants lower their leaves at night and lift them in the morning.
-- **Many sleep scientists:** Sleep is found in every animal that has been carefully studied, even ones with no brain. So sleep probably began a very long time ago, and every living body made of cells may need it.
+- **Many sleep scientists:** Sleep is found in every animal that has been carefully studied, from jellyfish to humans. So sleep probably began a very long time ago, and every living body made of cells may need it.
 - **Other scientists:** Real sleep is something brains do. A jellyfish or a plant has a daily rhythm of rest, but we should not call it sleep until we know more.
 - **Scientists who study plants:** Plants like the rajma bean have a daily rhythm of moving their leaves. Some call these 'sleep movements'. Whether plants sleep the way we do is still an open question.
 

@@ -122,7 +122,7 @@ Some seeds wake as soon as they are wet. Others wait for a sign that the time is
 - e.g. Some plants of Australia and South Africa sprout in great numbers after a bush fire.
 - e.g. Gardeners rub very hard seeds with sandpaper, or nick them, so that water can get in.
 - **Most seed scientists:** A seed has sensors for water, warmth, light and some chemicals. The seed's hormones, which are chemical messages, add up these signals, a bit like a set of switches.
-- **Some plant scientists:** This adding up of signals is a simple kind of decision-making without a brain. Others say 'decision' is the wrong word for chemistry. Scientists still argue about it.
+- **Some plant scientists:** This adding up of signals is a simple kind of decision-making. A brain is one kind of hardware for it, and a seed does it with chemical switches. Others say 'decision' is the wrong word for chemistry. Scientists still argue about it.
 ### Seeds in space and on the Moon · *defined*
 **Definition:** Seeds have travelled into space and come back able to sprout. Seeds have even sprouted on the Moon, inside a sealed box.
 

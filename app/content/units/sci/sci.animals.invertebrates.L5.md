@@ -615,7 +615,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    **Answer:** So the used water travels far away. *Why:* A strong jet carries the used water away, so the sponge does not pull the same water in again. A sponge stays fixed in one place and does not swim.
 7. (mcq) What sets off a stinging cell?  
    Options: A touch on the cell's trigger / An order from a brain / Bright sunlight  
-   **Answer:** A touch on the cell's trigger. *Why:* Each stinging cell fires by itself when the trigger is touched. A jellyfish has no brain to give the order, and even a tentacle washed up on a beach can still sting.
+   **Answer:** A touch on the cell's trigger. *Why:* Each stinging cell fires by itself when the trigger is touched. No order comes from a brain or from anywhere else, and even a tentacle washed up on a beach can still sting.
 8. (truefalse) A coral is a rock that small animals live on.  
    **Answer:** False. *Why:* False. The coral is the animals. Each polyp builds a cup of limestone under their body, and the cups of many polyps make the rock.
 9. (order) Put in order the path of blood in an octopus, starting when it comes back from the body.  
