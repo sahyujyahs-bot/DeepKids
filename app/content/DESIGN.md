@@ -10,30 +10,76 @@ Fredoka and Nunito (the default rounded "kids app" pair), a cream background, a 
 - **The Indian school notebook:** cool white paper, faint blue rule lines, the red margin line down the left, handwriting in the margins.
 - **Indian type foundries:** typefaces made in India, which also set Hindi properly.
 
-## Tokens
-| Name | Hex | Use |
+## The one design language
+Every screen is the same family: calm paper, white cards, one red action. The rules below are the whole language. Each thing is defined once in `app/src/styles.css` (tokens in `:root`, components under "Shared components"); a screen never restyles them.
+
+### Colour roles
+| Role | Token | Hex | Use |
+|---|---|---|---|
+| Paper | `--bg` | #FCFCF8 | the page (cool white, not cream) |
+| Card | `--surface` | #FFFFFF | cards, fields, chips |
+| Track | `--track` | #EFECE2 | the soft bed under tabs and notes |
+| Ink | `--ink` | #1F2440 | text, outlines, the chosen chip (indigo, never grey-black) |
+| Muted | `--muted` | #646985 | second-line text and small labels |
+| Rule | `--rule` | #DCE0EA | thin lines between rows, field and chip outlines |
+| Margin red | `--margin` | #D7372B | the one main action on a screen, "now", today's ring |
+| Turmeric | `--sun`, `--sunbg`, `--sunink` | #E8A317 | today, highlights, the big-ideas note |
+| Peacock | `--aqua`, `--good` | #0F6E6B | links, done, progress |
+| Night | `--night` | #1E1436 | the one dark band: the Today picture at night, the Games and Research headers |
+| Wrong | `--bad` | #C2271D | errors and wrong answers only |
+
+**Subject colours** (`subjClass(subject)` sets `--c`): Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, DeepKids turmeric. A subject colour is used softly: a small icon square or number square (14% tint with the colour as text), a left line, a progress bar, the stars on a Progress card, the tint of the subject banner. Never white or dark text on a full block of subject colour.
+
+**Status**: not started = grey pill, in progress = turmeric, done = peacock.
+
+### Type
+Rozha One (`--poster`) for page and unit titles only; Mukta (`--body`) for everything else. Sizes are the steps `--fs-1` to `--fs-8` only (`check_type_scale.py`).
+
+| Role | Step | Notes |
 |---|---|---|
-| Ink | #1F2440 | text (an indigo ink, never grey-black) |
-| Paper | #FCFCF8 | page (cool white, not cream) |
-| Rule | #DCE0EA | lines between rows, like a copybook |
-| Margin red | #D7372B | primary actions, the margin line, "now" |
-| Turmeric | #E8A317 | highlights and today |
-| Peacock | #0F6E6B | links, progress, science of growing things |
-| Night | #1E1436 | the one dark band: the Today header (the violet night of www.deepkids.in) |
-| Muted | #646985 | secondary text |
+| Page title (`.pagetop h1`, unit title) | `--fs-7` 28px | Rozha One |
+| Section heading (`.sech h3`) | `--fs-5` 18px | Mukta 700 |
+| Card title (`b`, `.h5`) | `--fs-5` 18px, `.h4` 16px in tight rows | Mukta 700 |
+| Body | `--fs-5` 18px, `.sm` 14px for helper text | Mukta 400 |
+| Small label (`.xs`) | `--fs-2` 12px | muted |
+| Eyebrow (`.eyebrow`) | `--fs-3` 14px | Mukta 600, muted, sentence case |
 
-Subjects: Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, DeepKids turmeric.
+### Space, corners, shadow
+- Space: 4, 8, 12, 16, 20, 30. Inside a card 18; between cards 12; between sections 30 (`.sec`); page gutter 16.
+- Corners: cards `--r-card` 20px; buttons and toasts `--r-btn` 14px; fields `--r` 8px; chips, pills and round buttons fully round.
+- Shadow: one, `--shadow`, on cards only. No borders around cards, no hard offset shadows. A ring (2px, red or ink, outside the card) marks "today" or "chosen".
+- Anything you tap is at least 44px tall on a phone (small buttons and chips 40px). The focus ring is turmeric, everywhere. Motion stops under `prefers-reduced-motion`.
+- Pages, sheets and units end with 200px of room, so the last row clears the bottom bar and IAm's button.
 
-**Type**
-- **Rozha One** (Indian Type Foundry): big headlines only. High-contrast poster letters, like old Indian print.
-- **Mukta** (Ek Type): everything you read and tap. Clean, Latin and Devanagari.
-- **Kalam** (Indian Type Foundry): handwriting for notes in the margin: labels, parent tips, deep truths.
+### Components (one definition each)
+| Component | Class | Look |
+|---|---|---|
+| Page header | `.sec.pagetop` (`pageHead()`) | Rozha title, then the page's tabs |
+| Section heading | `.sech` with `h3` | heading left, a small count or link right |
+| Card | `.card` (also `.menurow`, `.tile`, `.libcard`, `.pzcard`, `.wday`, `.skyt`) | white, 20px corners, the one shadow |
+| List row | `.tcard` on Today, `.trow`/`.unit` for topics, `.fxpart` in a unit, `.res` inside a card | small tinted icon or number square, name, one muted line; dashed rule between rows inside one card |
+| Chip | `.chip` | a round pill for one choice among several; chosen = ink |
+| Pill | `.pill` | a status word, not tappable |
+| Tabs (segmented switch) | `.seg` | soft track, chosen = white tab. A page's own tabs add `.segmain`: on a phone they stay on one line, scroll sideways and fade at the edges |
+| Main button | `.btn` | filled margin red; one per screen or card |
+| Second button | `.btn.line` (`.soft` is the same) | ink outline |
+| Quiet button | `.link` | peacock underlined text |
+| Done button | `.btn.green` | the one green |
+| Button sizes | `.btn.sm` 44px, `.btn.xs` 40px | |
+| Icon button | `.iconbtn` | 44px round, white |
+| Tick | `.ck`, `.ckb` | round ring; peacock when done |
+| Progress bar | `.bar` | soft track, fill in the subject colour |
+| Note and empty state | `.note` | one quiet line on the track colour; an empty list says so in a note |
+| Subject banner | `.chero` | soft tint of the subject colour, ink text, the subject's blob |
+| Big-ideas note | `.oneness` | turmeric tint, ink text |
+| Form field | `.inp`, `.field` | white, rule outline, 50px tall |
+| Sheet | `dialog.sheet` with `.shead` | back arrow, title, read-aloud; cards on paper below |
+| Toast | `.toast` | ink, 14px corners, above the bottom bar |
 
-**Shape** (the calm look the founder approved in November 2026, everywhere, units included; tokens `--r-card`, `--r-btn`, `--shadow`, `--track` in `:root`)
-- White cards with round corners (20px) and one very soft shadow on the paper; no borders or grey lines around them.
-- Buttons: the one main action is filled margin red; a second action is an ink outline; choices are round pills (chosen = ink).
-- Two choices side by side are a segmented switch: a soft track with the chosen one as a white tab.
-- Pictures lead: Today opens on a time-of-day picture with the greeting on it, a unit opens on its cover picture.
+**Retired** (do not bring back): the purple page tabs and coloured chosen chips (`.libtabs`, `.trackseg`, `.pick.b/.s/.c`), full-colour and gradient cards (old `.chero`, `.oneness`, `.skyt`, `.libcard`, `.optcard` tints), hard offset shadows and ink outlines on cards and buttons (`.pzcard`, `.ages`, `.ck`), square icon buttons, the grey bold note.
+
+### Shape in one line
+White cards with round corners and one very soft shadow on paper; one red button; a second action is an ink outline; choices are round pills (chosen = ink); tabs are a soft track with a white tab. Pictures lead: Today opens on a time-of-day picture, a unit on its cover.
 
 ## Principles
 1. **One bold thing per screen.** On Today it is the picture with the greeting, then one Next card with one big button. Everything else is quiet paper.

@@ -70,8 +70,7 @@ function segBar(k) {
     L = SEGS[k];
   return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
-const pageHead = (t, extra = "") =>
-  `<section class="sec pagetop"><div class="sech"><h1>${t}</h1>${extra}</div>`;
+const pageHead = (t, extra = "") => `<section class="sec pagetop"><div class="sech"><h1>${t}</h1>${extra}</div>`;
 const navSnap = () => ({
   tab,
   lt: ui.lt,

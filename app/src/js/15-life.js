@@ -247,7 +247,7 @@ function lifeTab() {
    <section class="sec"><div class="sech"><h3>Learning from life</h3><span class="xs muted">${M.length}</span></div>${
      M.length
        ? `<div class="card" style="gap:0">${M.map((m) => `<button class="menurow" data-act="lifeopen" data-id="${m.id}"><span class="fs6">${LIFEK[m.kind][0]}</span><span><b>${esc(m.title)}</b><br><span class="xs muted">${esc(fmt(m.date))}${m.mins ? " · " + hmin(m.mins) : ""}${m.links.length ? ` · ${m.links.length} topic${m.links.length === 1 ? "" : "s"}` : ""}</span></span>${icon("next")}</button>`).join("")}</div>`
-       : `<p class="sm muted">Nothing yet. Cooking, gardening, a trip, a big question: add it and see what it teaches.</p>`
+       : `<p class="note">Nothing yet. Cooking, gardening, a trip, a big question: add it and see what it teaches.</p>`
    }</section>`;
 }
 // books, games and kits from the home shelf, ticked off next to the lesson they went with (07-day-plan)

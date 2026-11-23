@@ -235,7 +235,19 @@ function onTrackView() {
         exp = Math.min(schoolExp, pace),
         gap = done - exp,
         catchUp = U.filter((u) => !isDone(u)).slice(0, Math.max(0, -gap)),
-        extras = all.filter((u) => isDone(u) && !U.includes(u));
+        // topics done at any level count as extras, whatever level the family chose for the subject
+        extras = [
+          ...new Map(
+            [
+              ...everyUnit(),
+              ...Object.keys(DATA.units || {})
+                .filter((id) => id.split(".")[0] === s)
+                .map((id) => unitBy("unit|" + id)),
+            ]
+              .filter((u) => u && u.subj === s && isDone(u) && !U.includes(u))
+              .map((u) => [u.k, u]),
+          ).values(),
+        ];
       const pc = (n) => Math.round((100 * n) / U.length),
         bar = (cls, label, n) =>
           `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
@@ -465,7 +477,7 @@ function examView() {
     <div class="exdots">${X.qs.map((_, i) => `<button class="${i === E.qi ? "on" : ""} ${t.ans[s + "|" + i] !== undefined ? "ans" : ""}" data-act="tjump" data-i="${i}" aria-label="Question ${i + 1}"></button>`).join("")}</div>
     ${q.passage ? `<div class="ask exp"><span class="eyebrow">${q.passage === prevP ? "Same passage" : "Read this"}</span>${esc(q.passage)}</div>` : ""}
     <p class="exqt">${esc(q.q)}</p><div class="col" style="gap:10px">${q.opts.map((o, i) => `<button class="exopt" aria-pressed="${v === i}" data-act="tans" data-i="${i}"><b>${ABCD[i]}</b><span>${esc(o)}</span></button>`).join("")}</div>
-    <div class="row" style="justify-content:space-between;margin-top:14px"><button class="btn line sm" data-act="tmove" data-d="-1" ${E.qi ? "" : "disabled"}>Back</button>${last ? `<button class="btn green sm" data-act="tfin">${un ? `Finish ${esc(SUBJ[s])} (${un} not answered)` : `Finish ${esc(SUBJ[s])}`}</button>` : `<button class="btn sm" data-act="tmove" data-d="1">${v === undefined ? "Skip" : "Next"}</button>`}</div></div>`;
+    <div class="row between mt14"><button class="btn line sm" data-act="tmove" data-d="-1" ${E.qi ? "" : "disabled"}>Back</button>${last ? `<button class="btn green sm" data-act="tfin">${un ? `Finish ${esc(SUBJ[s])} (${un} not answered)` : `Finish ${esc(SUBJ[s])}`}</button>` : `<button class="btn sm" data-act="tmove" data-d="1">${v === undefined ? "Skip" : "Next"}</button>`}</div></div>`;
 }
 const DOCCSS = `body{font:14px/1.5 system-ui,sans-serif;color:#222;max-width:820px;margin:24px auto;padding:0 16px}h1{font-size:22px;margin:0}h2{font-size:17px;margin:24px 0 6px;border-bottom:2px solid #333;padding-bottom:3px}table{border-collapse:collapse;width:100%;margin:6px 0}th,td{border:1px solid #bbb;padding:5px 8px;text-align:left;vertical-align:top}th{background:#f2f2f2}.muted{color:#666}.sm{font-size:12px}ol{padding-left:22px}li{margin:10px 0;break-inside:avoid}.op{display:block;margin:2px 0 2px 6px}.ok{color:#1e7a3c;font-weight:700}.no{color:#b03a2e;font-weight:700}.pass{border-left:3px solid #999;padding:4px 10px;margin:6px 0;background:#f7f7f7}.sig{display:flex;gap:40px;margin-top:40px}.sig div{flex:1;border-top:1px solid #333;padding-top:4px;font-size:12px}.cert{border:6px double #555;padding:28px;text-align:center}.cert h1{font-size:26px}.big{font-size:34px;font-weight:800;margin:6px 0}.tw{overflow-x:auto}@media(max-width:520px){.cert{padding:14px}.big{font-size:26px}th,td{padding:4px 5px;font-size:12.5px}}@media print{body{margin:0}h2{break-after:avoid}}`;
 const docWrap = (title, body) =>
@@ -1152,7 +1164,7 @@ function trackView() {
               `<div class="hbar"><span class="sm"><b>${esc(SUBJ[s])}</b> · ${hmin(sub[s].m)} on ${sub[s].days} day${sub[s].days === 1 ? "" : "s"}</span><div class="hb"><i style="width:${(sub[s].m / smax) * 100}%;background:${CHC[s]}"></i></div></div>`,
           )
           .join("")}</div>`
-      : `<p class="xs muted">Nothing yet.</p>`
+      : `<p class="note">Nothing yet.</p>`
   }</section>`;
   return h;
 }

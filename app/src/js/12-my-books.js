@@ -47,7 +47,7 @@ function myBooksTab() {
       ${(b.lessons || [])
         .map(
           (u) =>
-            `<div class="row" style="justify-content:space-between;flex-wrap:nowrap;gap:8px"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br>${(u.c.with || []).length ? `<span class="xs">Goes with: ${u.c.with.map((k) => esc(chT(unitByK(k)) || k)).join(", ")}</span><br>` : ""}<span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
+            `<div class="row between nowrap"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br>${(u.c.with || []).length ? `<span class="xs">Goes with: ${u.c.with.map((k) => esc(chT(unitByK(k)) || k)).join(", ")}</span><br>` : ""}<span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
               (S.extra?.[u.subj] || []).includes(u.k)
                 ? `<span class="xs">✓ In the plan</span>`
                 : `<button class="btn soft sm" data-act="mbplan" data-k="${esc(u.k)}">＋ Plan</button>`
@@ -56,7 +56,7 @@ function myBooksTab() {
         .join("")}
       <button class="link xs self-start" data-act="mbdel" data-id="${esc(b.id)}">Remove this</button></section>`,
       ).join("")
-    : `<p class="sm muted">Nothing here yet. Add notes you've written, a study guide or a workbook chapter.</p>`;
+    : `<p class="note">Nothing here yet. Add notes you've written, a study guide or a workbook chapter.</p>`;
   return `<section class="sec">${form}${list}</section>`;
 }
 function onMyBookFiles(files) {

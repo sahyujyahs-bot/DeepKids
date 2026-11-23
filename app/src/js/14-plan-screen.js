@@ -42,7 +42,7 @@ function dayTimesCard() {
   };
   const n = Object.keys(ov).length;
   return `<section class="sec"><div class="sech"><h3>Day times</h3><span class="xs muted">Your usual day, and changes for some days</span></div>
-   <div class="row chips"><button class="chip" aria-pressed="${sc === "all"}" data-act="dts" data-s="all">Usual</button>${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip" aria-pressed="${wd === d}" data-act="dts" data-s="w${d}">${DAYN[d]}${Object.keys((S.dayW || {})[d] || {}).length ? " ✱" : ""}</button>`).join("")}<label class="chip pointer" aria-pressed="${isD}">📅 ${isD ? esc(fmt(dt)) : "A date"}<input type="date" id="dtDate" value="${dt || today}" style="width:1px;height:1px;opacity:0;position:absolute"></label></div>
+   <div class="row chips"><button class="chip" aria-pressed="${sc === "all"}" data-act="dts" data-s="all">Usual</button>${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip" aria-pressed="${wd === d}" data-act="dts" data-s="w${d}">${DAYN[d]}${Object.keys((S.dayW || {})[d] || {}).length ? " ✱" : ""}</button>`).join("")}<label class="chip pointer" aria-pressed="${isD}">📅 ${isD ? esc(fmt(dt)) : "A date"}<input type="date" id="dtDate" value="${dt || today}" class="unseen"></label></div>
    <div class="card"><p class="xs muted">${sc === "all" ? "Your usual times, every day." : wd != null ? `Every ${DAYFULL[wd]}. Change only what's different; the rest stays as usual.` : `Only on ${esc(fmt(dt))}. This beats the usual and the weekday times.`}</p>
     <div class="fgrid">${DTF.map(field).join("")}</div>${sc === "all" ? fxWeekRow() : ""}${n ? `<button class="link xs self-start" data-act="dtreset">Back to usual times${wd != null ? " for " + DAYN[wd] : isD ? " for this date" : ""} (${n} changed)</button>` : ""}</div>
    ${
@@ -199,7 +199,7 @@ function todoTab() {
       `<div class="taskrow ${t.done ? "done" : ""}"><button class="ckb" data-act="tdtick" data-t="${t.id}" aria-label="Done: ${esc(t.title)}">${icon("check")}</button><div style="flex:1;min-width:0"><b style="font-weight:800">${esc(t.title)}</b><p class="xs muted">${t.done ? "Done today" : t.date < today ? "From " + fmt(t.date) + " · still open" : when(t.date)}${t.who && ROLE[t.who] ? " · " + esc(ROLE[t.who]) : ""}</p></div>${t.done ? "" : `<button class="link xs" data-act="todomove" data-t="${t.id}">Tomorrow</button><button class="link xs" data-act="tododel" data-t="${t.id}">Remove</button>`}</div>`;
   const byDay = {};
   open.forEach((p) => (byDay[p.due] = byDay[p.due] || []).push(p));
-  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="xs muted">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}</section>`;
+  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="note">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3>Get ready for lessons</h3><span class="pill">${open.length}</span></div><p class="xs muted">Prep and things to gather for the next 7 days of lessons. Ticking here also ticks it on Today.</p>
     ${
       open.length
@@ -621,6 +621,13 @@ const upList = (t) => {
 };
 // the one project Today shows: the one already started, else one you queued, else the next in the plan; when it is
 // finished the next one takes its place
+// the project row counts as done on the day the family started the project (a project that runs several days) or finished it
+function projectDoneOn(pj, date) {
+  if (!pj.ref?.startsWith("fx:")) return false;
+  const [id, pid] = pj.ref.slice(3).split("|"),
+    D = fxSt().done[id] || {};
+  return D["start:" + pid] === date || D["at:" + pid] === date;
+}
 function nextProject() {
   if (_planMemo && "proj" in _planMemo) return _planMemo.proj;
   const L = workItems(true).filter((x) => x.ty === "proj"),
@@ -808,9 +815,9 @@ function toldView() {
           )}</div><div class="row"><button class="btn sm" data-act="ted" data-id="">Done</button><button class="link sm err" data-act="evdel" data-id="${e.id}">Remove</button></div></div>`
       : `<div class="pk ${e.start ? "" : "warn"}"><span class="eyebrow">${esc(EVK[e.kind] || "Plan")}${e.src === "gcal" ? " · Google Calendar" : ""}</span><b>${esc(e.title)}</b><p class="sm">${esc(evLine(e))}${e.who === "kid" ? ` · ${esc(S.child || "child")} alone` : e.who === "both" ? " · together" : ""}</p>${e.start ? "" : `<p class="xs err">Add a time so the day plan can work around it.</p>`}${e.src === "gcal" ? "" : `<div class="row"><button class="link sm" data-act="ted" data-id="${e.id}">Change</button></div>`}</div>`;
   let h = `<p class="sm muted">Everything you've added: by typing, chatting, photos or by hand. Change or remove anything here, and the plan follows.</p>`;
-  h += `<section class="sec"><div class="sech"><h3 class="fs5">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm self-start" data-act="toplan">+ Add or change plans</button></section>`;
-  h += `<section class="sec"><div class="sech"><h3 class="fs5">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm err" data-act="tddel" data-id="${t.id}">Remove</button></div></div>`).join("") : `<p class="xs muted">No open to-dos.</p>`}</section>`;
-  h += `<section class="sec"><div class="sech"><h3 class="fs5">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm err" data-act="notedel" data-id="${n.id}">Remove</button></div></div>`).join("") : `<p class="xs muted">No notes.</p>`}</section>`;
+  h += `<section class="sec"><div class="sech"><h3 class="fs5">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="note">Nothing yet.</p>`}<button class="btn soft sm self-start" data-act="toplan">+ Add or change plans</button></section>`;
+  h += `<section class="sec"><div class="sech"><h3 class="fs5">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm err" data-act="tddel" data-id="${t.id}">Remove</button></div></div>`).join("") : `<p class="note">No open to-dos.</p>`}</section>`;
+  h += `<section class="sec"><div class="sech"><h3 class="fs5">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm err" data-act="notedel" data-id="${n.id}">Remove</button></div></div>`).join("") : `<p class="note">No notes.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3 class="fs5">What you said</h3><span class="pill">${L.length}</span></div>${L.length ? L.map((x) => `<details class="card"><summary><b class="sm">${esc(fmt(x.date))} · ${esc(new Date(x.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }))}</b><br><span class="sm">${esc(x.text.split("\n")[0].slice(0, 120))}</span></summary><div class="chat mt8"><div class="bub me">${esc(x.text).replace(/\n/g, "<br>")}</div>${(x.chat || []).map((c) => `<div class="bub cl">${esc(c.q)}</div><div class="bub me">${esc(c.a)}</div>`).join("")}</div>${x.added?.length ? `<p class="xs muted">Added to the plan:</p><ul class="sm">${x.added.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : ""}</details>`).join("") : `<p class="xs muted">Messages you send in the Planner are kept here from now on.</p>`}</section>`;
   return h;
 }
@@ -1106,7 +1113,7 @@ function yearOrbit() {
   }
   S.subjects.forEach((s, i) => {
     const r = 66 + i * 24;
-    o += `<circle class="${subjClass(s)}" cx="${c}" cy="${c}" r="${r}" fill="none" style="stroke:color-mix(in srgb,var(--c) 30%,transparent)" stroke-width="10"/>`;
+    o += `<circle class="ringbg ${subjClass(s)}" cx="${c}" cy="${c}" r="${r}" fill="none" stroke-width="10"/>`;
     plannedUnits(s).forEach((u) => {
       const d = fd[u.k];
       if (!d) return;
@@ -1149,7 +1156,7 @@ function sessMap() {
 }
 // the same key under every calendar view: one colour per subject, everywhere in the app
 const calLegend = () =>
-  `<div class="callegend">${S.subjects.map((s) => `<span class="${subjClass(s)}"><i></i>${SUBJ[s]}</span>`).join("")}<span><i class="todo" style="--c:var(--muted)"></i>planned</span><span><i style="--c:var(--muted)"></i>done</span><span><i style="--c:var(--gum);border-radius:2px;transform:rotate(45deg)"></i>class or outing</span></div>`;
+  `<div class="callegend">${S.subjects.map((s) => `<span class="${subjClass(s)}"><i></i>${SUBJ[s]}</span>`).join("")}<span><i class="todo" style="--c:var(--muted)"></i>planned</span><span><i style="--c:var(--muted)"></i>done</span><span><i class="dia"></i>class or outing</span></div>`;
 function monthView() {
   const by = sessMap(),
     b = new Date(parse(today));
@@ -1355,7 +1362,7 @@ function shopView() {
      L.length
        ? `${buy.length ? `<h3>To buy · ${buy.filter((g) => !g.got).length} left</h3><div class="card" style="gap:0">${buy.map(row).join("")}</div>` : ""}${home.length ? `<h3>From home · ${home.filter((g) => !g.got).length} left</h3><div class="card" style="gap:0">${home.map(row).join("")}</div>` : ""}
    ${left.length ? `<div class="row"><button class="btn sm" data-act="shopcopy" data-r="${r}">Copy the list</button></div><p class="xs muted">Paste it into WhatsApp, BigBasket or Amazon. Each 🛒 opens that item on Amazon, to add to your cart.</p>` : `<p class="sm">You have everything for ${SHOPR[r][0].toLowerCase()}.</p>`}`
-       : `<p class="sm muted">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
+       : `<p class="note">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
    }</section>`;
 }
 // Plan: Calendar, Up next, To finish, Shopping, Refresher, and Plan settings

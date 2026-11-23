@@ -376,7 +376,7 @@ function buildDayPlan(date) {
         title: "Project: " + pj.title,
         sub: `${chT(pj.u)} · ${SUBJ[pj.u.subj]}`,
         pj,
-        done: !!S.tl[date + "|project"],
+        done: !!S.tl[date + "|project"] || projectDoneOn(pj, date),
       });
     const open = [...S.exps.filter((e) => !e.closed && e.start <= date), ...fxOngoing(date)];
     if (open.length)
@@ -1814,7 +1814,7 @@ function prepView() {
         const u = x.u,
           g = u.c?.p?.summary || u.c?.x?.guide || DATA.prepgen.guide[u.subj];
         return `<section class="card ${subjClass(x.subj)}" style="gap:0"><div class="row" style="gap:8px;margin-bottom:4px"><span class="dotc"></span><span class="eyebrow">${SUBJ[x.subj]} · ${fmt(x.date)} · Part ${x.n} of ${x.tot}</span></div><h3 style="font-size:var(--fs-5);margin-bottom:8px">${esc(u.title)}</h3>
-   ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary style="cursor:pointer;font-weight:500;color:var(--plum)">Parent guide</summary><p class="sm mt6">${esc(g)}</p></details>` : ""}
+   ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary class="pointer">Parent guide</summary><p class="sm mt6">${esc(g)}</p></details>` : ""}
    ${items.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Done: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:500">${esc(p.task)}</b>${p.early ? ` <span class="pill learning">start early for ${fmt(x.date)}</span>` : ""}<p class="xs muted" style="margin-top:3px">From: ${esc(p.where)}</p></div></div>`).join("")}
    <div class="row mt8">${u.c?.x ? `<button class="btn xs soft" data-act="chapter" data-k="${u.k}" data-t="questions">Big questions</button><button class="btn xs soft" data-act="ws" data-k="${u.k}">Worksheet</button>` : ""}<button class="btn xs soft" data-act="chapter" data-k="${u.k}">Chapter</button></div></section>`;
       })

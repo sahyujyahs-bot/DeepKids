@@ -547,7 +547,7 @@ function topicOverview(u, packed) {
     ${packed ? "" : `<span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p>`}</section>`;
   // the placeholder line is not content; the real big ideas of a combined topic sit under "Think deeper"
   if (I.sum || I.ideas.some((i) => !/^placeholder/i.test(i)))
-    h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
+    h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul>${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
     h += `<section class="card r-you tint"><b class="h4">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
   if (u.board !== "gen" && m === "plus")
@@ -622,7 +622,7 @@ function topicsTab() {
       .slice()
       .sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0))
       .slice(0, 8);
-  let h = `<section class="sec"><div class="card"><div class="row" style="flex-wrap:nowrap"><input class="inp" id="tq" placeholder="Search any topic: volcanoes, fractions, Akbar…" value="${esc(q)}" maxlength="80"><button class="btn sm" data-act="tfind">Search</button></div>
+  let h = `<section class="sec"><div class="card"><div class="row nowrap"><input class="inp" id="tq" placeholder="Search any topic: volcanoes, fractions, Akbar…" value="${esc(q)}" maxlength="80"><button class="btn sm" data-act="tfind">Search</button></div>
     <p class="xs muted">${q ? `${hits.length} found in the syllabuses and DeepKids topics.` : "Search, or browse every chapter of every board below."}</p></div>`;
   if (q) {
     h +=
@@ -631,7 +631,7 @@ function topicsTab() {
     return h;
   }
   const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
-    trackSeg = `<div class="pick t"><span class="pickl">Track</span><div class="seg trackseg">${[
+    trackSeg = `<div class="pick t"><span class="pickl">Track</span><div class="seg">${[
       ["dk", "DeepKids track"],
       ["board", "Board track"],
     ]
@@ -785,7 +785,7 @@ function swapView() {
      .map(({ u, need }, i) => {
        const isCur = cur && cur.u.k === u.k,
          ok = !need.length;
-       return `<div class="taskrow ${subjClass(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 var(--fs-4) var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b class="h4">${esc(u.title)}</b><p class="xs muted">${statusOf(u.k) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
+       return `<div class="taskrow ${subjClass(u.subj)}"><span class="unit" style="all:unset"><span class="no">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b class="h4">${esc(u.title)}</b><p class="xs muted">${statusOf(u.k) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
          ok
            ? ""
            : ` · first: ${need
