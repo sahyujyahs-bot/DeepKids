@@ -4328,24 +4328,16 @@ html:has(.fxdlg[open]) {
 .fxflip p {
   font-size: var(--fs-5);
 }
-.fxcar {
-  display: flex;
+.fxlistv {
+  display: grid;
   gap: 12px;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  margin: 0-20px;
-  padding: 4px 20px 8px;
-  scrollbar-width: none;
 }
-.fxcar::-webkit-scrollbar {
-  display: none;
-}
-.fxstack .fxslide {
+.fxslide {
   flex: none;
 }
 .fxslide {
-  flex: 0 0 88%;
-  scroll-snap-align: center;
+  min-width: 0;
+  overflow-wrap: anywhere;
   background: var(--surface);
   border-radius: 20px;
   padding: 16px;

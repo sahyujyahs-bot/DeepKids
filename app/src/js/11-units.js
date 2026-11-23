@@ -470,7 +470,7 @@ function fxItem(u, key, it, i, n) {
   );
 }
 function fxCarousel(u, pre, items, title) {
-  return `<div class="fxcar fxstack">${items.map((it, i) => `<div class="fxslide">${fxItem(u, `${pre}.${i}`, it, i, items.length)}</div>`).join("")}</div>`;
+  return `<div class="fxstack">${items.map((it, i) => `<div class="fxslide">${fxItem(u, `${pre}.${i}`, it, i, items.length)}</div>`).join("")}</div>`;
 }
 const FXORDER = [
   "intro",
@@ -714,7 +714,7 @@ function fxCards(u) {
       case "jokes":
         add(
           "jokes",
-          `${fxImg(u, "jokes", "")}<div class="fxtxt"><span class="fxeb">😂 Jokes</span><div class="fxcar">${u.jokes.map((j) => `<div class="fxslide fxjoke" data-fx="flip"><h2>${esc(j.j)}</h2><p class="fxbk2">${esc(j.a)}</p><p class="fxhint">Tap for the answer</p></div>`).join("")}</div><p class="fxhint">Swipe →</p></div>`,
+          `${fxImg(u, "jokes", "")}<div class="fxtxt"><span class="fxeb">😂 Jokes</span><div class="fxlistv">${u.jokes.map((j) => `<div class="fxslide fxjoke" data-fx="flip"><h2>${esc(j.j)}</h2><p class="fxbk2">${esc(j.a)}</p><p class="fxhint">Tap for the answer</p></div>`).join("")}</div></div>`,
           "",
           { wide: 1 },
         );
@@ -739,7 +739,7 @@ function fxCards(u) {
         if (u.photos?.length)
           add(
             "photos",
-            `<div class="fxtxt"><span class="fxeb">📷 Real pictures</span><div class="fxcar">${u.photos.map((p) => `<div class="fxslide"><img class="fximg" loading="lazy" src="${esc(p.src)}" alt="${esc(p.caption)}"><p>${esc(p.caption)}</p><p class="fxcredit">${esc(p.credit)}</p></div>`).join("")}</div><p class="fxhint">Swipe →</p></div>`,
+            `<div class="fxtxt"><span class="fxeb">📷 Real pictures</span><div class="fxlistv">${u.photos.map((p) => `<div class="fxslide"><img class="fximg" loading="lazy" src="${esc(p.src)}" alt="${esc(p.caption)}"><p>${esc(p.caption)}</p><p class="fxcredit">${esc(p.credit)}</p></div>`).join("")}</div></div>`,
             u.photos.map((p) => p.caption).join(" "),
             { wide: 1 },
           );
@@ -749,7 +749,7 @@ function fxCards(u) {
         if (u.models?.length)
           add(
             "models",
-            `<div class="fxtxt"><span class="fxeb">🧊 Turn it around in 3D</span><div class="fxcar">${u.models.map((m) => `<div class="fxslide"><div class="fxvid fx3d" data-sk="${esc(m.uid)}" style="background-image:url('${esc(m.thumb)}')"><button class="fxb" data-fx="m3d">🧊 Open in 3D</button></div><p><b>${esc(m.title)}</b>${m.why ? " " + esc(m.why) : ""}</p><p class="fxcredit">${esc(m.credit)}</p></div>`).join("")}</div>${u.models.length > 1 ? `<p class="fxhint">Swipe →</p>` : ""}<p class="fxsm">Drag to turn it, pinch to zoom.</p></div>`,
+            `<div class="fxtxt"><span class="fxeb">🧊 Turn it around in 3D</span><div class="fxlistv">${u.models.map((m) => `<div class="fxslide"><div class="fxvid fx3d" data-sk="${esc(m.uid)}" style="background-image:url('${esc(m.thumb)}')"><button class="fxb" data-fx="m3d">🧊 Open in 3D</button></div><p><b>${esc(m.title)}</b>${m.why ? " " + esc(m.why) : ""}</p><p class="fxcredit">${esc(m.credit)}</p></div>`).join("")}</div>${u.models.length > 1 ? `` : ""}<p class="fxsm">Drag to turn it, pinch to zoom.</p></div>`,
             u.models.map((m) => m.title).join(". "),
             { wide: 1 },
           );
@@ -757,7 +757,7 @@ function fxCards(u) {
       case "spotted":
         add(
           "spot",
-          `<div class="fxtxt"><span class="fxeb">🔍 Spot it around you</span><div class="fxcar">${u.spotted.map((s, i) => `<div class="fxslide">${fxImg(u, "spot." + i, s.art)}<p>${esc(s.text)}</p></div>`).join("")}</div><p class="fxhint">Swipe →</p></div>`,
+          `<div class="fxtxt"><span class="fxeb">🔍 Spot it around you</span><div class="fxlistv">${u.spotted.map((s, i) => `<div class="fxslide">${fxImg(u, "spot." + i, s.art)}<p>${esc(s.text)}</p></div>`).join("")}</div></div>`,
           u.spotted.map((s) => s.text).join(" "),
           { wide: 1 },
         );
