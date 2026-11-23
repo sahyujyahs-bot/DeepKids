@@ -477,6 +477,18 @@ function setOrder(ty, s, refs) {
   commit();
 }
 /* add to the front or the end of a line-up; returns its place */
+// topics linked from something the family did go to the front of their subject's queue, so they come up on the next
+// lesson day; the message says which day
+function qLinked(units) {
+  [...units].reverse().forEach((u) => qPut("les", u.subj, "les:" + u.k, "first"));
+  _sess = null;
+  const days = units
+    .map((u) => schedule(u.subj, 60).find((x) => x.u.k === u.k)?.date)
+    .filter(Boolean)
+    .sort();
+  const first = days[0];
+  return `${units.length === 1 ? "Added to the queue" : `${units.length} topics added to the queue`}${first ? `. First lesson: ${first === today ? "today" : fmt(first)}` : ""}`;
+}
 function qPut(ty, s, r, where) {
   // a lesson from a subject that isn't in the plan yet brings the subject in
   if (ty === "les" && s && !S.subjects.includes(s)) {
@@ -638,11 +650,14 @@ function queuesView() {
   }
   h += `<div class="seg">${S.subjects.map((x) => `<button aria-pressed="${x === s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>`;
   const L = qItems("les", s),
+    first = {},
     mv = (x, d, on, lab, ch) =>
       `<button class="iconbtn qb" data-act="qmv" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" data-d="${d}" ${on ? "" : "disabled"} aria-label="${lab}">${ch}</button>`;
+  schedule(s, 400).forEach((x) => (first[x.u.k] = first[x.u.k] || x.date));
+  L.forEach((x) => (x.when = first[x.u.k]));
   h += `<div class="row"><button class="btn soft sm" data-act="qshuf" data-ty="les" data-s="${s}">${icon("spark")}Shuffle</button></div>`;
   h += L.length
-    ? `<div class="qlist" data-ty="les" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i + 1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty && x.ty !== "les" ? " " + stPills(x).replace(/ <span class="pill st-queued"[^]*$/, "") : ""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div>`).join("")}</div>`
+    ? `<div class="qlist" data-ty="les" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="qn">${i + 1}</span><button class="plain qtitle" ${x.open}><b>${esc(x.title)}</b><br><span class="xs muted">${esc(x.sub)}</span></button><div class="qfoot"><span class="chip qwhen">${x.when ? (x.when === today ? "Starts today" : "Starts " + fmt(x.when)) : "Later"}</span><span class="row qacts"><span class="dh" aria-hidden="true">⠿</span>${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div></div>`).join("")}</div>`
     : `<p class="note">No chapters waiting.</p>`;
   const all = plannedUnits(s).filter((u) => rank[statusOf(u.k)] < 2).length;
   if (all > 12)

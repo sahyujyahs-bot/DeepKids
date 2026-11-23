@@ -1,9 +1,9 @@
 /* IAm, the DeepKids Guru: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
    States are classes on any parent: .iamthink (waiting for an answer: his eyes close), .iamtalk (answering: he speaks).
    The small sizes (big, mini) show his face in a round frame. The one on screen (no size) also has poses, data-pose:
-   he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). Between two poses
-   he passes through a middle frame (glance, reach, lift), so he moves rather than jumps. */
-const IAM_POSES = ["read", "page", "shift", "glance", "reach", "lift"];
+   he reads, turns a page (the reach frame) and shifts on his own (iamIdle), and looks up at the family (iamLook). Between two poses
+   he passes through a middle frame (glance, lift), so he moves rather than jumps. */
+const IAM_POSES = ["read", "shift", "glance", "reach", "lift"];
 function iamFace(cls = "") {
   const poses = cls
     ? ""
@@ -13,17 +13,13 @@ function iamFace(cls = "") {
 // what he does on his own, and for how long (ms); the short ones are the middle frames
 const IAM_IDLE = [
   ["read", 6000],
-  ["reach", 220],
-  ["page", 900],
-  ["reach", 220],
+  ["reach", 1300],
   ["read", 7000],
   ["lift", 260],
   ["shift", 8000],
   ["lift", 260],
   ["read", 5000],
-  ["reach", 220],
-  ["page", 900],
-  ["reach", 220],
+  ["reach", 1300],
 ];
 let iamStep = 0,
   iamTimer = 0;

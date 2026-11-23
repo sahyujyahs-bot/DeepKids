@@ -9250,7 +9250,7 @@ function combinedTopicList(sj) {
           .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`)
           .join(""),
       ),
-    sum: ["Class plan", `Class ${lv}`],
+    sum: ["Topics by class", `Class ${lv}`],
     count: `${L.length} topics`,
     body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every ${SUBJ[sj].toLowerCase()} topic any board teaches in Class ${lv}.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
   };
@@ -9296,7 +9296,7 @@ function dkTrackBrowse() {
   const c = combinedBrowse(sj);
   return { ...c, ctl: chips + c.ctl, sum: [SUBJ[sj], ...c.sum] };
 }
-// a DeepKids subject two ways, picked under View: the class plan (only where the subject has one), or every topic with its levels 1 to 5
+// a DeepKids subject two ways, picked under View: every unit by level 1 to 5 (the default), or the topics of a class (only where the subject has them)
 const hasClassPlan = (sj) => !!DATA.combined?.[sj];
 const dkViewPick = (sj) =>
   hasClassPlan(sj)
@@ -9304,17 +9304,17 @@ const dkViewPick = (sj) =>
         "v",
         "View",
         [
-          ["class", "Class plan"],
-          ["topic", "All topics and levels"],
+          ["topic", "DeepKids units"],
+          ["class", "Topics by class"],
         ]
           .map(
             ([k, n]) =>
-              `<button class="chip" aria-pressed="${(ui.dkview === "topic" ? "topic" : "class") === k}" data-act="dkv" data-v="${k}">${n}</button>`,
+              `<button class="chip" aria-pressed="${(ui.dkview === "class" ? "class" : "topic") === k}" data-act="dkv" data-v="${k}">${n}</button>`,
           )
           .join(""),
       )
     : "";
-const combinedBrowse = (sj) => (ui.dkview === "topic" || !hasClassPlan(sj) ? fxTopicLadder(sj) : combinedTopicList(sj));
+const combinedBrowse = (sj) => (ui.dkview === "class" && hasClassPlan(sj) ? combinedTopicList(sj) : fxTopicLadder(sj));
 // every unit of a subject, one level at a time: pick a level, see its units by strand; any open unit can be added to the
 // plan alongside the class plan, and a count says how many more are coming
 function fxTopicLadder(sj) {
@@ -9345,7 +9345,7 @@ function fxTopicLadder(sj) {
           .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Level ${l}</button>`)
           .join(""),
       ),
-    sum: ["All topics", `Level ${lv}`],
+    sum: ["Units", `Level ${lv}`],
     count: `${have.length} units`,
     body,
   };
@@ -10816,10 +10816,10 @@ Object.assign(ACT, {
   },
   rsq(b, e, a, k) {
     const L = rsUnits(rsBy(b.dataset.p));
-    L.forEach((u) => qPut("les", u.subj, "les:" + u.k, "end"));
+    const msg = qLinked(L);
     rsSt().queued = { ...(rsSt().queued || {}), [b.dataset.p]: today };
     sfx("ok");
-    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    toast(msg, 4500);
     commit();
     renderSheet();
   },
@@ -12396,6 +12396,18 @@ function setOrder(ty, s, refs) {
   commit();
 }
 /* add to the front or the end of a line-up; returns its place */
+// topics linked from something the family did go to the front of their subject's queue, so they come up on the next
+// lesson day; the message says which day
+function qLinked(units) {
+  [...units].reverse().forEach((u) => qPut("les", u.subj, "les:" + u.k, "first"));
+  _sess = null;
+  const days = units
+    .map((u) => schedule(u.subj, 60).find((x) => x.u.k === u.k)?.date)
+    .filter(Boolean)
+    .sort();
+  const first = days[0];
+  return `${units.length === 1 ? "Added to the queue" : `${units.length} topics added to the queue`}${first ? `. First lesson: ${first === today ? "today" : fmt(first)}` : ""}`;
+}
 function qPut(ty, s, r, where) {
   // a lesson from a subject that isn't in the plan yet brings the subject in
   if (ty === "les" && s && !S.subjects.includes(s)) {
@@ -12557,11 +12569,14 @@ function queuesView() {
   }
   h += `<div class="seg">${S.subjects.map((x) => `<button aria-pressed="${x === s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>`;
   const L = qItems("les", s),
+    first = {},
     mv = (x, d, on, lab, ch) =>
       `<button class="iconbtn qb" data-act="qmv" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" data-d="${d}" ${on ? "" : "disabled"} aria-label="${lab}">${ch}</button>`;
+  schedule(s, 400).forEach((x) => (first[x.u.k] = first[x.u.k] || x.date));
+  L.forEach((x) => (x.when = first[x.u.k]));
   h += `<div class="row"><button class="btn soft sm" data-act="qshuf" data-ty="les" data-s="${s}">${icon("spark")}Shuffle</button></div>`;
   h += L.length
-    ? `<div class="qlist" data-ty="les" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i + 1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty && x.ty !== "les" ? " " + stPills(x).replace(/ <span class="pill st-queued"[^]*$/, "") : ""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div>`).join("")}</div>`
+    ? `<div class="qlist" data-ty="les" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="qn">${i + 1}</span><button class="plain qtitle" ${x.open}><b>${esc(x.title)}</b><br><span class="xs muted">${esc(x.sub)}</span></button><div class="qfoot"><span class="chip qwhen">${x.when ? (x.when === today ? "Starts today" : "Starts " + fmt(x.when)) : "Later"}</span><span class="row qacts"><span class="dh" aria-hidden="true">⠿</span>${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div></div>`).join("")}</div>`
     : `<p class="note">No chapters waiting.</p>`;
   const all = plannedUnits(s).filter((u) => rank[statusOf(u.k)] < 2).length;
   if (all > 12)
@@ -14084,13 +14099,10 @@ function lifeQueue(id) {
   const m = lifeBy(id);
   if (!m) return;
   const L = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
-  L.forEach((l) => {
-    const u = lifeTarget(l.k).u;
-    qPut("les", u.subj, "les:" + u.k, "end");
-  });
+  const msg = qLinked(L.map((l) => lifeTarget(l.k).u));
   m.queued = [...m.queued, ...L.map((l) => l.k)];
   sfx("ok");
-  toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+  toast(msg, 4500);
   commit();
   renderSheet();
 }
@@ -14185,10 +14197,10 @@ Object.assign(ACT, {
   intq(b, e, a, k) {
     const x = intSt().find((y) => y.id === b.dataset.id),
       L = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
-    L.forEach((l) => qPut("les", lifeTarget(l.k).u.subj, "les:" + lifeTarget(l.k).u.k, "end"));
+    const msg = qLinked(L.map((l) => lifeTarget(l.k).u));
     x.queued = [...x.queued, ...L.map((l) => l.k)];
     sfx("ok");
-    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    toast(msg, 4500);
     commit();
   },
   intx(b, e, a, k) {
@@ -14473,7 +14485,7 @@ function viewJourneyTabs() {
         '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
       )
       .match(/^([\s\S]*?<\/section>)([\s\S]*)$/);
-    h += `<div class="progrid">${onTrackView()}${subjects}</div>${rest}`;
+    h += `<div class="progrid">${subjects}${onTrackView()}</div>${rest}`;
   } else if (k === "time") h += `<section class="sec">${trackView()}</section>`;
   else if (k === "life") h += lifeTab();
   else if (k === "work")
@@ -17227,9 +17239,9 @@ Object.assign(ACT, {
 /* IAm, the DeepKids Guru: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
    States are classes on any parent: .iamthink (waiting for an answer: his eyes close), .iamtalk (answering: he speaks).
    The small sizes (big, mini) show his face in a round frame. The one on screen (no size) also has poses, data-pose:
-   he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). Between two poses
-   he passes through a middle frame (glance, reach, lift), so he moves rather than jumps. */
-const IAM_POSES = ["read", "page", "shift", "glance", "reach", "lift"];
+   he reads, turns a page (the reach frame) and shifts on his own (iamIdle), and looks up at the family (iamLook). Between two poses
+   he passes through a middle frame (glance, lift), so he moves rather than jumps. */
+const IAM_POSES = ["read", "shift", "glance", "reach", "lift"];
 function iamFace(cls = "") {
   const poses = cls
     ? ""
@@ -17239,17 +17251,13 @@ function iamFace(cls = "") {
 // what he does on his own, and for how long (ms); the short ones are the middle frames
 const IAM_IDLE = [
   ["read", 6000],
-  ["reach", 220],
-  ["page", 900],
-  ["reach", 220],
+  ["reach", 1300],
   ["read", 7000],
   ["lift", 260],
   ["shift", 8000],
   ["lift", 260],
   ["read", 5000],
-  ["reach", 220],
-  ["page", 900],
-  ["reach", 220],
+  ["reach", 1300],
 ];
 let iamStep = 0,
   iamTimer = 0;

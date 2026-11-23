@@ -123,10 +123,10 @@ Object.assign(ACT, {
   },
   rsq(b, e, a, k) {
     const L = rsUnits(rsBy(b.dataset.p));
-    L.forEach((u) => qPut("les", u.subj, "les:" + u.k, "end"));
+    const msg = qLinked(L);
     rsSt().queued = { ...(rsSt().queued || {}), [b.dataset.p]: today };
     sfx("ok");
-    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    toast(msg, 4500);
     commit();
     renderSheet();
   },

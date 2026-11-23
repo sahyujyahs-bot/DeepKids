@@ -3746,16 +3746,34 @@ a.btn {
   gap: 8px;
 }
 .qrow2 {
-  display: flex;
-  gap: 8px;
-  align-items: center;
-  padding: 10px 10px 10px 4px;
+  display: grid;
+  grid-template-columns: 28px minmax(0, 1fr);
+  gap: 6px 10px;
+  align-items: start;
+  padding: 12px 12px 8px;
   border-radius: 16px;
   background: var(--surface);
   transition: box-shadow 0.15s;
 }
 .qrow2 b {
   font: 600 var(--fs-4) var(--display);
+}
+.qtitle {
+  min-width: 0;
+  text-align: left;
+}
+.qfoot {
+  grid-column: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.qacts {
+  gap: 4px;
+  flex-wrap: nowrap;
+  align-items: center;
 }
 .qrow2.drag {
   box-shadow: 0 8px 22px rgba(43, 35, 64, 0.22);
@@ -4558,7 +4576,6 @@ body.ai-locked .fxfab .iam::after {
   opacity: 0;
 }
 .iam[data-pose="read"] .iampose[data-p="read"],
-.iam[data-pose="page"] .iampose[data-p="page"],
 .iam[data-pose="shift"] .iampose[data-p="shift"],
 .iam[data-pose="glance"] .iampose[data-p="glance"],
 .iam[data-pose="reach"] .iampose[data-p="reach"],

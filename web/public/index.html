@@ -3764,16 +3764,34 @@ a.btn {
   gap: 8px;
 }
 .qrow2 {
-  display: flex;
-  gap: 8px;
-  align-items: center;
-  padding: 10px 10px 10px 4px;
+  display: grid;
+  grid-template-columns: 28px minmax(0, 1fr);
+  gap: 6px 10px;
+  align-items: start;
+  padding: 12px 12px 8px;
   border-radius: 16px;
   background: var(--surface);
   transition: box-shadow 0.15s;
 }
 .qrow2 b {
   font: 600 var(--fs-4) var(--display);
+}
+.qtitle {
+  min-width: 0;
+  text-align: left;
+}
+.qfoot {
+  grid-column: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.qacts {
+  gap: 4px;
+  flex-wrap: nowrap;
+  align-items: center;
 }
 .qrow2.drag {
   box-shadow: 0 8px 22px rgba(43, 35, 64, 0.22);
@@ -4576,7 +4594,6 @@ body.ai-locked .fxfab .iam::after {
   opacity: 0;
 }
 .iam[data-pose="read"] .iampose[data-p="read"],
-.iam[data-pose="page"] .iampose[data-p="page"],
 .iam[data-pose="shift"] .iampose[data-p="shift"],
 .iam[data-pose="glance"] .iampose[data-p="glance"],
 .iam[data-pose="reach"] .iampose[data-p="reach"],
@@ -7610,9 +7627,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="c0440e5c6b7a60dd4c";window.DK_APPV="c0440e5c6b";window.DK_DATAV="7a6086be01"</script>
-<script src="/config.js?v=c0440e5c6b7a60dd4c"></script>
+<script>window.DK_BUILD="66631e50097a60dd4c";window.DK_APPV="66631e5009";window.DK_DATAV="7a6086be01"</script>
+<script src="/config.js?v=66631e50097a60dd4c"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=c0440e5c6b7a60dd4c"></script>
+<script src="/platform.js?v=66631e50097a60dd4c"></script>
 </body>
 </html>

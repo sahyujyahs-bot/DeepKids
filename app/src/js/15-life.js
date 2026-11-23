@@ -214,13 +214,10 @@ function lifeQueue(id) {
   const m = lifeBy(id);
   if (!m) return;
   const L = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
-  L.forEach((l) => {
-    const u = lifeTarget(l.k).u;
-    qPut("les", u.subj, "les:" + u.k, "end");
-  });
+  const msg = qLinked(L.map((l) => lifeTarget(l.k).u));
   m.queued = [...m.queued, ...L.map((l) => l.k)];
   sfx("ok");
-  toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+  toast(msg, 4500);
   commit();
   renderSheet();
 }
@@ -315,10 +312,10 @@ Object.assign(ACT, {
   intq(b, e, a, k) {
     const x = intSt().find((y) => y.id === b.dataset.id),
       L = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
-    L.forEach((l) => qPut("les", lifeTarget(l.k).u.subj, "les:" + lifeTarget(l.k).u.k, "end"));
+    const msg = qLinked(L.map((l) => lifeTarget(l.k).u));
     x.queued = [...x.queued, ...L.map((l) => l.k)];
     sfx("ok");
-    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    toast(msg, 4500);
     commit();
   },
   intx(b, e, a, k) {
