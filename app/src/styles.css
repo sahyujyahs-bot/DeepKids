@@ -6183,11 +6183,73 @@ header.top #backTop {
   object-position: right center;
   border-radius: 24px;
 }
-.lotusline {
-  height: 34px;
-  margin: 18px 0 6px;
-  border-radius: 10px;
-  background: url(media/ui/lotus-line.webp) repeat-x left center / auto 34px;
+/* Today's side cards: tomorrow, and the week */
+.sidecard {
+  display: grid;
+  gap: 8px;
+  align-content: start;
+}
+.srow {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.wkstrip {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+}
+.wkd {
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+  padding: 6px 0;
+  border-radius: 12px;
+  background: var(--sunk);
+}
+.wkd i {
+  font-style: normal;
+  font-size: var(--fs-1);
+  color: var(--muted);
+}
+.wkd b {
+  font: 700 var(--fs-4) var(--body);
+}
+.wkd.on {
+  background: color-mix(in srgb, var(--forest) 20%, var(--surface));
+}
+.wkd.now {
+  outline: 2px solid var(--ink);
+}
+/* a settings card that opens: the arrow turns down */
+.planfold {
+  margin-top: 12px;
+}
+.planfold > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  cursor: pointer;
+  list-style: none;
+}
+.planfold > summary::-webkit-details-marker {
+  display: none;
+}
+.planfold > summary span {
+  display: grid;
+  gap: 2px;
+}
+.planfold > summary .ico {
+  flex: none;
+  transform: rotate(90deg);
+  color: var(--muted);
+}
+.planfold[open] > summary .ico {
+  transform: rotate(-90deg);
+}
+.planfold[open] > summary {
+  margin-bottom: 12px;
 }
 /* each picture has open sky at the top: the greeting sits on it */
 .therotxt {

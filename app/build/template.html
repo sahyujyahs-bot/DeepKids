@@ -6189,11 +6189,73 @@ header.top #backTop {
   object-position: right center;
   border-radius: 24px;
 }
-.lotusline {
-  height: 34px;
-  margin: 18px 0 6px;
-  border-radius: 10px;
-  background: url(media/ui/lotus-line.webp) repeat-x left center / auto 34px;
+/* Today's side cards: tomorrow, and the week */
+.sidecard {
+  display: grid;
+  gap: 8px;
+  align-content: start;
+}
+.srow {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.wkstrip {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+}
+.wkd {
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+  padding: 6px 0;
+  border-radius: 12px;
+  background: var(--sunk);
+}
+.wkd i {
+  font-style: normal;
+  font-size: var(--fs-1);
+  color: var(--muted);
+}
+.wkd b {
+  font: 700 var(--fs-4) var(--body);
+}
+.wkd.on {
+  background: color-mix(in srgb, var(--forest) 20%, var(--surface));
+}
+.wkd.now {
+  outline: 2px solid var(--ink);
+}
+/* a settings card that opens: the arrow turns down */
+.planfold {
+  margin-top: 12px;
+}
+.planfold > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  cursor: pointer;
+  list-style: none;
+}
+.planfold > summary::-webkit-details-marker {
+  display: none;
+}
+.planfold > summary span {
+  display: grid;
+  gap: 2px;
+}
+.planfold > summary .ico {
+  flex: none;
+  transform: rotate(90deg);
+  color: var(--muted);
+}
+.planfold[open] > summary .ico {
+  transform: rotate(-90deg);
+}
+.planfold[open] > summary {
+  margin-bottom: 12px;
 }
 /* each picture has open sky at the top: the greeting sits on it */
 .therotxt {
@@ -19085,6 +19147,36 @@ function firstWeekCard() {
   return `<section class="card wk1">${head(v)}<div class="row wk1t">${blob("var(--sun)", 6 + v, done ? "happy" : "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
    <div class="row">${show}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
 }
+// beside the day on a big screen, below it on a phone: what tomorrow holds, and how the week is going
+function tomorrowCard() {
+  const d = addDays(today, 1),
+    L = dayPlan(d).filter((i) => i.kind === "lesson");
+  return `<section class="card sidecard"><span class="eyebrow">Tomorrow · ${parse(d).toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" })}</span>${
+    L.length
+      ? L.slice(0, 5)
+          .map(
+            (i) =>
+              `<div class="srow"><span class="stag ${subjClass(i.s)}">${esc(SUBJ[i.s])}</span><span class="sm">${esc(chT(i.u))}</span></div>`,
+          )
+          .join("")
+      : `<p class="xs muted">No lessons planned.</p>`
+  }<button class="link xs self-start" data-act="tday" data-d="1">See tomorrow</button></section>`;
+}
+function weekCard() {
+  const mon = addDays(today, -((parse(today).getDay() + 6) % 7));
+  return `<section class="card sidecard"><span class="eyebrow">This week</span><div class="wkstrip">${[
+    0, 1, 2, 3, 4, 5, 6,
+  ]
+    .map((k) => {
+      const d = addDays(mon, k),
+        n =
+          d > today
+            ? dayPlan(d).filter((x) => x.kind === "lesson").length
+            : S.log.filter((l) => l.date === d && l.kind !== "skipped").length;
+      return `<span class="wkd${d === today ? " now" : ""}${d <= today && n ? " on" : ""}"><i>${"MTWTFSS"[k]}</i><b>${n || "·"}</b></span>`;
+    })
+    .join("")}</div><p class="xs muted">Lessons done each day. Coming days show lessons planned.</p></section>`;
+}
 function viewToday() {
   const items = dayPlan(today),
     real = items.filter(isTask),
@@ -19105,7 +19197,7 @@ function viewToday() {
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (real.length) h += `<div class="tt compact daydrag">${real.map((i) => tRow(i, today, f)).join("")}</div>`;
-  h += `</section><div class="lotusline" aria-hidden="true"></div>${real.some((i) => !i.done) ? "" : fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends; "Continue learning" only comes once everything planned is done (it animates in the first time only)
+  h += `</section>${tomorrowCard()}${weekCard()}${real.some((i) => !i.done) ? "" : fxTodayTop(!window.FXANIMED)}`; // "Continue learning" only comes once everything planned is done
   window.FXANIMED = 1;
   h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button></div>`;
   return h;
@@ -19667,9 +19759,9 @@ function stateCtl(ty, u, id) {
       `<button class="link xs" data-act="ist" data-ty="${ty}" data-k="${u.k}" data-id="${id}" data-to="${to}">${l}</button>`;
   return `<div class="wkctl ${cls}"><span class="xs"><b>${lab}${s === "done" ? " ✓" : ""}</b>${qTag(ty, u, id, s)}</span><div class="row" style="gap:8px;flex-wrap:wrap">${qCtl(ty, u, id, s)}${s === "none" && ui.qpick !== ty + ":" + u.k + "|" + id ? b("skip", "Not doing this") : s === "skip" ? b("none", "Undo") : s === "done" && ty === "ws" ? b("undo", "Undo finished") : ""}</div></div>`;
 }
-// a settings block that stays closed until it is needed, with one line on what is inside
+// a settings block that stays closed until it is opened: a card with a line on what is inside, and an arrow
 const planFold = (title, note, html) =>
-  `<details class="sec"><summary class="menurow"><span><b>${title}</b><br><span class="xs muted">${note}</span></span></summary>${html}</details>`;
+  `<details class="card planfold"><summary><span><b>${title}</b><span class="xs muted">${note}</span></span>${icon("next")}</summary>${html}</details>`;
 // which track the family chose, and the way to change it
 function trackCard() {
   const b = S.board;
@@ -20819,7 +20911,7 @@ function planPart(k) {
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
   if (k === "tell")
-    return `<div id="paceSec">${trackCard()}${dayFitNote()}${subjCard()}${planFold("Day times", "Prep, lessons start, lunch, free days", dayTimesCard())}${planFold("Hours and days for each subject", "How long, and on which days", plPart("pace"))}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
+    return `<div id="paceSec">${trackCard()}${dayFitNote()}${subjCard()}${planFold("Daily timetable", "Morning prep, when lessons start, lunch, and which days are free", dayTimesCard())}${planFold("Hours and days for each subject", "How long each subject takes a day, and on which days", plPart("pace"))}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PLAN_VIEWS)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)

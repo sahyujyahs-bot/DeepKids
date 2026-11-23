@@ -651,6 +651,36 @@ function firstWeekCard() {
   return `<section class="card wk1">${head(v)}<div class="row wk1t">${blob("var(--sun)", 6 + v, done ? "happy" : "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
    <div class="row">${show}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
 }
+// beside the day on a big screen, below it on a phone: what tomorrow holds, and how the week is going
+function tomorrowCard() {
+  const d = addDays(today, 1),
+    L = dayPlan(d).filter((i) => i.kind === "lesson");
+  return `<section class="card sidecard"><span class="eyebrow">Tomorrow · ${parse(d).toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" })}</span>${
+    L.length
+      ? L.slice(0, 5)
+          .map(
+            (i) =>
+              `<div class="srow"><span class="stag ${subjClass(i.s)}">${esc(SUBJ[i.s])}</span><span class="sm">${esc(chT(i.u))}</span></div>`,
+          )
+          .join("")
+      : `<p class="xs muted">No lessons planned.</p>`
+  }<button class="link xs self-start" data-act="tday" data-d="1">See tomorrow</button></section>`;
+}
+function weekCard() {
+  const mon = addDays(today, -((parse(today).getDay() + 6) % 7));
+  return `<section class="card sidecard"><span class="eyebrow">This week</span><div class="wkstrip">${[
+    0, 1, 2, 3, 4, 5, 6,
+  ]
+    .map((k) => {
+      const d = addDays(mon, k),
+        n =
+          d > today
+            ? dayPlan(d).filter((x) => x.kind === "lesson").length
+            : S.log.filter((l) => l.date === d && l.kind !== "skipped").length;
+      return `<span class="wkd${d === today ? " now" : ""}${d <= today && n ? " on" : ""}"><i>${"MTWTFSS"[k]}</i><b>${n || "·"}</b></span>`;
+    })
+    .join("")}</div><p class="xs muted">Lessons done each day. Coming days show lessons planned.</p></section>`;
+}
 function viewToday() {
   const items = dayPlan(today),
     real = items.filter(isTask),
@@ -671,7 +701,7 @@ function viewToday() {
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (real.length) h += `<div class="tt compact daydrag">${real.map((i) => tRow(i, today, f)).join("")}</div>`;
-  h += `</section><div class="lotusline" aria-hidden="true"></div>${real.some((i) => !i.done) ? "" : fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends; "Continue learning" only comes once everything planned is done (it animates in the first time only)
+  h += `</section>${tomorrowCard()}${weekCard()}${real.some((i) => !i.done) ? "" : fxTodayTop(!window.FXANIMED)}`; // "Continue learning" only comes once everything planned is done
   window.FXANIMED = 1;
   h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button></div>`;
   return h;
