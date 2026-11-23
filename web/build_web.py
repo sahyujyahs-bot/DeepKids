@@ -105,6 +105,7 @@ index = f'''<!doctype html>
 <meta property="og:image" content="https://app.deepkids.in/icons/icon-512.png">
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="icon" href="/icons/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/icons/favicon-48.png" type="image/png" sizes="48x48">
 <link rel="icon" href="/icons/icon-192.png" type="image/png" sizes="192x192">
 <link rel="apple-touch-icon" href="/icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -139,13 +140,10 @@ open(os.path.join(PUB, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitem
 open(os.path.join(PUB, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://app.deepkids.in/</loc></url><url><loc>https://app.deepkids.in/privacy.html</loc></url></urlset>\n')
 open(os.path.join(PUB, 'manifest.webmanifest'), 'w').write(json.dumps(manifest, indent=1))
 
-# Icons: the favicon is IAm's face (app/content/media/ui/iam-icon.png, no background, readable at 32 px);
-# the home-screen and loading-screen icons show all of IAm (iam.webp, seated with the book), centred with room
+# Icons: every icon, the tab icon included, shows all of IAm (iam.webp, seated with the book), centred with room
 # round it so the phone's rounded mask never cuts him
 from PIL import Image
-_face = Image.open(os.path.join(ROOT, 'app', 'content', 'media', 'ui', 'iam-icon.png')).convert('RGBA')
 _full = Image.open(os.path.join(ROOT, 'app', 'content', 'media', 'ui', 'iam.webp')).convert('RGBA')
-_face.resize((32, 32), Image.LANCZOS).save(os.path.join(PUB, 'icons', 'favicon-32.png'))
 def _tile(size, fit, background):
     t = Image.new('RGBA', (size, size), background)
     k = fit * size / max(_full.size)
@@ -155,6 +153,8 @@ def _tile(size, fit, background):
 for size, name in ((192, 'icon-192.png'), (512, 'icon-512.png')):
     _tile(size, 0.86, (255, 255, 255, 0)).save(os.path.join(PUB, 'icons', name))
 _tile(512, 0.68, (255, 246, 236, 255)).save(os.path.join(PUB, 'icons', 'maskable-512.png'))
+for size in (32, 48):
+    _tile(size, 1.0, (255, 255, 255, 0)).save(os.path.join(PUB, 'icons', f'favicon-{size}.png'))
 
 open(os.path.join(PUB, '_headers'), 'w').write('''/*
   X-Content-Type-Options: nosniff
