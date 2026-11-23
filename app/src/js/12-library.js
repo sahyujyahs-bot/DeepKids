@@ -529,15 +529,18 @@ function relatedOf(u) {
 }
 const uchip = (v) =>
   `<button class="chip ${subjClass(v.subj)}" data-act="chapter" data-k="${v.k}"><span class="dotc"></span>${esc(v.title)}</button>`;
-function topicOverview(u) {
+// packed: the topic's own lesson already shows the summary above, so it is not said twice
+function topicOverview(u, packed) {
   const m = modeOf(),
     T = tagsOf(u),
     I = ideasOf(u),
     R = relatedOf(u),
     sub = subjectsOf(u);
   let h = `<section class="card"><span class="eyebrow">Where this topic sits</span><div class="row">${T.length ? T.map((t) => `<span class="chip">${esc(t.txt)}</span>`).join("") : `<span class="chip">Not in a board syllabus · DeepKids topic</span>`}${sub.length > 1 ? sub.map((s) => `<span class="chip ${subjClass(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("") : ""}</div>
-    <span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p></section>`;
-  h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
+    ${packed ? "" : `<span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p>`}</section>`;
+  // the placeholder line is not content; the real big ideas of a combined topic sit under "Think deeper"
+  if (I.sum || I.ideas.some((i) => !/^placeholder/i.test(i)))
+    h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
     h += `<section class="card r-you tint"><b class="h4">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
   if (u.board !== "gen" && m === "plus")

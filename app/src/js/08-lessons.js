@@ -35,7 +35,7 @@ function combTabBasic(u, t) {
   if (!P?.big) return "";
   if (t === "overview")
     return `<section class="card"><span class="eyebrow">Builds on</span><p class="sm">${esc(P.builds_on)}</p>
-    <span class="eyebrow mt6">Ready for every board</span><p class="xs muted">This covers what these boards teach in Class ${u.level}:</p>${(u.c.boards || []).map((x) => `<div class="sm"><b>${CBN[x.b] || x.b}</b> ${esc(x.ref)} · ${esc(x.title)}</div>`).join("")}</section>`;
+    <details class="mt6"><summary class="sm"><b>What each board teaches in this topic</b></summary><p class="xs muted">This covers what these boards teach in Class ${u.level}:</p>${(u.c.boards || []).map((x) => `<div class="sm"><b>${CBN[x.b] || x.b}</b> ${esc(x.ref)} · ${esc(x.title)}</div>`).join("")}</details></section>`;
   if (t === "think")
     return `<section class="card"><span class="eyebrow">Big questions</span>${P.big.map((q) => `<p class="sm">• ${esc(q)}</p>`).join("")}<p class="xs muted">No right answers. Ask "How could we find out?"</p></section>
     <section class="card"><span class="eyebrow">Is the usual story right?</span>${P.challenge.map((c) => `<details><summary class="sm"><b>${esc(c.q)}</b></summary><p class="sm">${esc(c.hint)}</p></details>`).join("")}</section>
@@ -500,8 +500,8 @@ function packPrep(u, n) {
 }
 function packOverview(u) {
   const P = u.c.p;
-  return `<section class="card ${subjClass(u.subj)}"><span class="eyebrow">${esc(P.source)}</span><p>${esc(P.summary)}</p>${P.goals?.length ? `<span class="eyebrow mt6">By the end your child can</span>${pkList(P.goals.map((g) => g.replace(/^By the end your child can\s*/i, "")))}` : ""}</section>
-   ${P.words?.length ? `<section class="card"><span class="eyebrow">Key words</span><div class="kv">${P.words.map(([w, m]) => `<span>${esc(w)}</span><b style="font-weight:400">${esc(m)}</b>`).join("")}</div></section>` : ""}
+  return `<section class="card ${subjClass(u.subj)}"><p class="sm">${esc(P.summary)}</p>${P.goals?.length ? `<span class="eyebrow mt6">By the end your child can</span>${pkList(P.goals.map((g) => g.replace(/^By the end your child can\s*/i, "")))}` : ""}<p class="xs muted mt6">${esc(P.source)}</p></section>
+   ${P.words?.length ? `<details class="card"><summary><b>Key words</b> <span class="xs muted">${P.words.length} words</span></summary><div class="kv">${P.words.map(([w, m]) => `<span>${esc(w)}</span><b style="font-weight:400">${esc(m)}</b>`).join("")}</div></details>` : ""}
    ${P.check?.length ? `<details class="card"><summary><b>End-of-chapter check</b> <span class="xs muted">${P.check.length} questions</span></summary><ol class="sm">${P.check.map((c) => `<li>${esc(c.q)}<details><summary class="xs muted">Answer</summary><p class="sm">${esc(c.a)}</p></details></li>`).join("")}</ol></details>` : ""}`;
 }
 function packTab(u, t) {
@@ -816,7 +816,7 @@ function chapterPage() {
       if (sh.length)
         h += `<section class="card"><span class="eyebrow">From your shelf</span>${sh.map((i) => `<div class="sm"><b>${esc(i.name)}</b>${i.note ? ` · <span class="muted">${esc(i.note)}</span>` : ""}</div>`).join("")}</section>`;
     }
-    h += topicOverview(u);
+    h += topicOverview(u, !!c?.p);
     if (x && m !== "books")
       h += `<section class="card ${subjClass(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l, i) => `<div class="idea"><span class="k">${i + 1}</span><p>${esc(l)}</p></div>`).join("")}</section>`;
     if (m === "books" && c?.x?.cur)
