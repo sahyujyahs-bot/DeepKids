@@ -147,6 +147,44 @@ p {
 .r-free {
   --c: var(--line);
 }
+/* a day's rows: one colour for each kind of thing that is not a lesson (lessons take their subject's colour) */
+.k-prep {
+  --c: var(--peri);
+}
+.k-warm {
+  --c: var(--sun);
+}
+.k-refresh {
+  --c: var(--aqua);
+}
+.k-finish {
+  --c: var(--soil);
+}
+.k-project {
+  --c: var(--forest);
+}
+.k-exps {
+  --c: var(--sky);
+}
+.k-paper {
+  --c: var(--gum);
+}
+.k-todo,
+.k-mynote {
+  --c: var(--tang);
+}
+.k-tuition {
+  --c: color-mix(in srgb, var(--sky) 55%, var(--peri));
+}
+.k-sport {
+  --c: color-mix(in srgb, var(--forest) 60%, var(--sun));
+}
+.k-games {
+  --c: color-mix(in srgb, var(--tang) 55%, var(--sun));
+}
+.k-event {
+  --c: var(--muted);
+}
 .tint {
   background: color-mix(in srgb, var(--c) 22%, var(--surface));
 }
@@ -402,7 +440,7 @@ main {
 }
 .tr {
   display: grid;
-  grid-template-columns: 52px 1fr;
+  grid-template-columns: 70px 1fr;
   gap: 10px;
   align-items: center;
 }
@@ -411,10 +449,10 @@ main {
   color: var(--muted);
   text-align: right;
   line-height: 1.1;
-  width: 46px;
+  white-space: nowrap;
 }
 .tr .t small {
-  display: block;
+  margin-left: 3px;
   font-size: var(--fs-1);
 }
 .r-both .tcard .ic,
@@ -6240,7 +6278,8 @@ header.top #backTop {
 }
 .tt.compact .tr {
   position: relative;
-  gap: 26px;
+  grid-template-columns: 74px 1fr;
+  gap: 12px;
   margin: 3px 0;
 }
 .tt.compact .tr .t {

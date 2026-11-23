@@ -262,8 +262,15 @@ function lessonLines(it) {
     ok = st.filter((x) => x.ok);
   return { last: ok.length ? ok[ok.length - 1].title : "", next: st.find((x) => !x.ok)?.title || "" };
 }
+// the colour of a row that is not a lesson: one for each kind of thing, so a day reads at a glance; things the family adds
+// (a class, a sport, a game) take the colour of what they are
+function kindClass(it) {
+  if (it.kind === "event" || it.kind === "shelf") return "k-" + (evPic(it.title) || "event");
+  return DAYKIND.has(it.kind) ? "k-" + it.kind : "r-" + it.who;
+}
+const DAYKIND = new Set(["prep", "warm", "refresh", "finish", "project", "exps", "paper", "todo", "mynote"]);
 function tRow(it, date, focus) {
-  const col = it.kind === "lesson" ? subjClass(it.s) : "r-" + it.who,
+  const col = it.kind === "lesson" ? subjClass(it.s) : kindClass(it),
     [hh, ap] = it.anytime ? ["Any", "time"] : it.done && it.doneNoTime ? ["Done", ""] : clock(it.at).split(" ");
   if (it.kind === "brk" || it.kind === "rest")
     return `<div class="tr brk ${it.kind === "rest" ? "rest " + col : ""}"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur / 60)}</span></div>`;

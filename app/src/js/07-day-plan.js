@@ -580,6 +580,35 @@ function buildDayPlan(date) {
       prep: pm,
       done: pm.every((p) => S.prep[p.id]),
     });
+  // a day that has gone shows what was done on it, even for things that are no longer planned
+  if (date < today) {
+    const have = new Set(items.map((i) => i.id)),
+      add = (id, title, dur, extra = {}) => {
+        if (have.has(id)) return;
+        have.add(id);
+        items.push({
+          id,
+          at: 9 * 60,
+          dur,
+          who: "both",
+          kind: id.split("-")[0],
+          title,
+          sub: "Done ✓",
+          done: true,
+          ...extra,
+        });
+      };
+    Object.entries({
+      warm: ["Warm-up: jokes and Word of the Day", 15],
+      refresh: ["Refresher", 10],
+      finish: ["Finish what's started", 45],
+      project: ["Project", 30],
+    }).forEach(([id, [t, d]]) => S.tl[date + "|" + id] && add(id, t, d));
+    Object.entries(S.rs?.read || {}).forEach(([id, d]) => {
+      const p = d === date && rsBy(id);
+      if (p) add("paper", "Research paper made easy: " + p.title, 6, { p, kind: "paper" });
+    });
+  }
   items.forEach((it) => {
     if (!it.done || it.kind === "event" || it.kind === "lesson") return;
     const v = S.tl[date + "|" + it.id];

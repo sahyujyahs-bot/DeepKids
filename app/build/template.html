@@ -153,6 +153,44 @@ p {
 .r-free {
   --c: var(--line);
 }
+/* a day's rows: one colour for each kind of thing that is not a lesson (lessons take their subject's colour) */
+.k-prep {
+  --c: var(--peri);
+}
+.k-warm {
+  --c: var(--sun);
+}
+.k-refresh {
+  --c: var(--aqua);
+}
+.k-finish {
+  --c: var(--soil);
+}
+.k-project {
+  --c: var(--forest);
+}
+.k-exps {
+  --c: var(--sky);
+}
+.k-paper {
+  --c: var(--gum);
+}
+.k-todo,
+.k-mynote {
+  --c: var(--tang);
+}
+.k-tuition {
+  --c: color-mix(in srgb, var(--sky) 55%, var(--peri));
+}
+.k-sport {
+  --c: color-mix(in srgb, var(--forest) 60%, var(--sun));
+}
+.k-games {
+  --c: color-mix(in srgb, var(--tang) 55%, var(--sun));
+}
+.k-event {
+  --c: var(--muted);
+}
 .tint {
   background: color-mix(in srgb, var(--c) 22%, var(--surface));
 }
@@ -408,7 +446,7 @@ main {
 }
 .tr {
   display: grid;
-  grid-template-columns: 52px 1fr;
+  grid-template-columns: 70px 1fr;
   gap: 10px;
   align-items: center;
 }
@@ -417,10 +455,10 @@ main {
   color: var(--muted);
   text-align: right;
   line-height: 1.1;
-  width: 46px;
+  white-space: nowrap;
 }
 .tr .t small {
-  display: block;
+  margin-left: 3px;
   font-size: var(--fs-1);
 }
 .r-both .tcard .ic,
@@ -6246,7 +6284,8 @@ header.top #backTop {
 }
 .tt.compact .tr {
   position: relative;
-  gap: 26px;
+  grid-template-columns: 74px 1fr;
+  gap: 12px;
   margin: 3px 0;
 }
 .tt.compact .tr .t {
@@ -9455,6 +9494,35 @@ function buildDayPlan(date) {
       prep: pm,
       done: pm.every((p) => S.prep[p.id]),
     });
+  // a day that has gone shows what was done on it, even for things that are no longer planned
+  if (date < today) {
+    const have = new Set(items.map((i) => i.id)),
+      add = (id, title, dur, extra = {}) => {
+        if (have.has(id)) return;
+        have.add(id);
+        items.push({
+          id,
+          at: 9 * 60,
+          dur,
+          who: "both",
+          kind: id.split("-")[0],
+          title,
+          sub: "Done ✓",
+          done: true,
+          ...extra,
+        });
+      };
+    Object.entries({
+      warm: ["Warm-up: jokes and Word of the Day", 15],
+      refresh: ["Refresher", 10],
+      finish: ["Finish what's started", 45],
+      project: ["Project", 30],
+    }).forEach(([id, [t, d]]) => S.tl[date + "|" + id] && add(id, t, d));
+    Object.entries(S.rs?.read || {}).forEach(([id, d]) => {
+      const p = d === date && rsBy(id);
+      if (p) add("paper", "Research paper made easy: " + p.title, 6, { p, kind: "paper" });
+    });
+  }
   items.forEach((it) => {
     if (!it.done || it.kind === "event" || it.kind === "lesson") return;
     const v = S.tl[date + "|" + it.id];
@@ -11612,10 +11680,15 @@ function chapterPage() {
               ...(resourcesFor(u).length ? { res: "Free resources" } : {}),
             };
   const t = tabs[ui.ctab[u.k]] ? ui.ctab[u.k] : "overview",
-    inPlan = everyUnit().some((z) => z.k === u.k) && plannedUnits(u.subj).some((z) => z.k === u.k);
+    inPlan = everyUnit().some((z) => z.k === u.k) && plannedUnits(u.subj).some((z) => z.k === u.k),
+    // a DeepKids-track topic is in the plan through its units, which are what Today schedules
+    viaUnits =
+      !inPlan &&
+      u.board === "combined" &&
+      (c?.units || []).some((x) => plannedUnits(u.subj).some((z) => z.k === "unit|" + x.id));
   let h = `<section class="chero ${subjClass(u.subj)}"><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs} self-start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fmtHours(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fmtHours(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
    ${u.board === "gen" && !u.gen.reviewed ? `<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>` : ""}
-   <div class="row">${inPlan ? `<span class="pill completed" style="align-self:center">✓ ${isNextUp(u) ? "Next up" : "In the plan · no. " + qPos(u)} in ${SUBJ[u.subj]}</span>${isNextUp(u) ? "" : `<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}<button class="btn line sm" data-act="gotab" data-tab="week" data-seg="next" data-qs="${u.subj}">See the queue</button>` : u.board === "unit" && !dkUnitOpen(u.c?.unit) ? `<span class="xs muted">🔒 On the DeepKids track</span>` : qPick("les", u.subj, "les:" + u.k, icon("plus") + "Add to the plan")}</div>
+   <div class="row">${inPlan ? `<span class="pill completed" style="align-self:center">✓ ${isNextUp(u) ? "Next up" : "In the plan · no. " + qPos(u)} in ${SUBJ[u.subj]}</span>${isNextUp(u) ? "" : `<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}<button class="btn line sm" data-act="gotab" data-tab="week" data-seg="next" data-qs="${u.subj}">See the queue</button>` : viaUnits ? `<span class="pill completed" style="align-self:center">✓ In your plan, through its units</span><button class="btn line sm" data-act="gotab" data-tab="week" data-seg="next" data-qs="${u.subj}">See the queue</button>` : u.board === "unit" && !dkUnitOpen(u.c?.unit) ? `<span class="xs muted">🔒 On the DeepKids track</span>` : qPick("les", u.subj, "les:" + u.k, icon("plus") + "Add to the plan")}</div>
    
    ${
      Object.keys(tabs).length > 1
@@ -18526,8 +18599,15 @@ function lessonLines(it) {
     ok = st.filter((x) => x.ok);
   return { last: ok.length ? ok[ok.length - 1].title : "", next: st.find((x) => !x.ok)?.title || "" };
 }
+// the colour of a row that is not a lesson: one for each kind of thing, so a day reads at a glance; things the family adds
+// (a class, a sport, a game) take the colour of what they are
+function kindClass(it) {
+  if (it.kind === "event" || it.kind === "shelf") return "k-" + (evPic(it.title) || "event");
+  return DAYKIND.has(it.kind) ? "k-" + it.kind : "r-" + it.who;
+}
+const DAYKIND = new Set(["prep", "warm", "refresh", "finish", "project", "exps", "paper", "todo", "mynote"]);
 function tRow(it, date, focus) {
-  const col = it.kind === "lesson" ? subjClass(it.s) : "r-" + it.who,
+  const col = it.kind === "lesson" ? subjClass(it.s) : kindClass(it),
     [hh, ap] = it.anytime ? ["Any", "time"] : it.done && it.doneNoTime ? ["Done", ""] : clock(it.at).split(" ");
   if (it.kind === "brk" || it.kind === "rest")
     return `<div class="tr brk ${it.kind === "rest" ? "rest " + col : ""}"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur / 60)}</span></div>`;

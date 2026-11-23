@@ -20,6 +20,7 @@
 /* DeepKids: the one stylesheet for the app. Design tokens are in :root (see app/content/DESIGN.md). */
 :root {
   /* the type scale: every text size in the app is one of these (app/build/check_type_scale.py checks it) */
+  --tap: 44px;
   --fs-1: 11px;
   --fs-2: 12px;
   --fs-3: 14px;
@@ -79,6 +80,7 @@
 html,
 body {
   background: var(--bg);
+  overflow-x: hidden;
 }
 body::before {
   content: "";
@@ -163,6 +165,44 @@ p {
 }
 .r-free {
   --c: var(--line);
+}
+/* a day's rows: one colour for each kind of thing that is not a lesson (lessons take their subject's colour) */
+.k-prep {
+  --c: var(--peri);
+}
+.k-warm {
+  --c: var(--sun);
+}
+.k-refresh {
+  --c: var(--aqua);
+}
+.k-finish {
+  --c: var(--soil);
+}
+.k-project {
+  --c: var(--forest);
+}
+.k-exps {
+  --c: var(--sky);
+}
+.k-paper {
+  --c: var(--gum);
+}
+.k-todo,
+.k-mynote {
+  --c: var(--tang);
+}
+.k-tuition {
+  --c: color-mix(in srgb, var(--sky) 55%, var(--peri));
+}
+.k-sport {
+  --c: color-mix(in srgb, var(--forest) 60%, var(--sun));
+}
+.k-games {
+  --c: color-mix(in srgb, var(--tang) 55%, var(--sun));
+}
+.k-event {
+  --c: var(--muted);
 }
 .tint {
   background: color-mix(in srgb, var(--c) 22%, var(--surface));
@@ -419,7 +459,7 @@ main {
 }
 .tr {
   display: grid;
-  grid-template-columns: 52px 1fr;
+  grid-template-columns: 70px 1fr;
   gap: 10px;
   align-items: center;
 }
@@ -428,9 +468,10 @@ main {
   color: var(--muted);
   text-align: right;
   line-height: 1.1;
+  white-space: nowrap;
 }
 .tr .t small {
-  display: block;
+  margin-left: 3px;
   font-size: var(--fs-1);
 }
 .r-both .tcard .ic,
@@ -1301,7 +1342,7 @@ dialog.sheet::backdrop {
 }
 .dpick button {
   min-width: 44px;
-  height: 40px;
+  height: var(--tap);
   border-radius: 12px;
   border: 0;
   background: var(--sunk);
@@ -1510,6 +1551,8 @@ dialog.sheet::backdrop {
 }
 .choice b {
   display: block;
+  font: 700 var(--fs-5) var(--body) !important;
+  color: var(--ink) !important;
 }
 .choice span {
   font-size: var(--fs-3);
@@ -1630,9 +1673,10 @@ dialog.mini::backdrop {
   display: grid;
   gap: 12px;
   padding: 6px 2px 4px;
-  border-top: 2px dashed color-mix(in srgb, var(--c) 40%, transparent);
+  border-top: 1px solid var(--rule);
   margin-top: 4px;
   animation: rise2 0.25s;
+  overflow-wrap: anywhere;
 }
 @keyframes rise2 {
   0% {
@@ -1644,6 +1688,7 @@ dialog.mini::backdrop {
   box-shadow:
     0 0 0 3px var(--c),
     0 12px 26px -12px color-mix(in srgb, var(--c) 80%, transparent);
+  animation: glow 2.6s ease-in-out infinite;
 }
 .tr.focus .tcard .ic {
   animation: pop 1.2s ease-in-out infinite;
@@ -2173,7 +2218,9 @@ dialog.mini::backdrop {
   color: var(--ink);
 }
 .tt.compact {
-  gap: 8px;
+  gap: 0;
+  position: relative;
+  padding: 4px 0;
 }
 .tt.compact .tcard .ic .ico {
   width: 18px;
@@ -2234,9 +2281,6 @@ dialog.mini::backdrop {
   animation: glow 2.6s ease-in-out infinite;
   --c: var(--peri);
 }
-.tr.focus .tcard {
-  animation: glow 2.6s ease-in-out infinite;
-}
 .tt.compact .tr.missed .tcard {
   background: var(--surface);
   box-shadow: inset 0 0 0 2px var(--line);
@@ -2245,8 +2289,8 @@ dialog.mini::backdrop {
   display: none !important;
 }
 .iconbtn.sm {
-  width: 34px;
-  height: 34px;
+  width: var(--tap);
+  height: var(--tap);
 }
 .iconbtn.sm .ico {
   width: 18px;
@@ -3319,7 +3363,7 @@ a.btn {
 .composer .send {
   flex: none;
   width: 40px;
-  height: 40px;
+  height: var(--tap);
   border-radius: 50%;
   display: grid;
   place-items: center;
@@ -3725,8 +3769,8 @@ a.btn {
   -webkit-user-select: none;
 }
 .iconbtn.qb {
-  width: 34px;
-  height: 34px;
+  width: var(--tap);
+  height: var(--tap);
   font-size: var(--fs-2);
 }
 .qpick {
@@ -3971,7 +4015,7 @@ a.btn {
 .topic .chip {
   white-space: normal;
   height: auto;
-  min-height: 32px;
+  min-height: var(--tap);
   text-align: left;
 }
 .sbody > *,
@@ -5187,7 +5231,7 @@ strong {
   font-size: var(--fs-4) !important;
 }
 .btn.xs {
-  min-height: 40px;
+  min-height: var(--tap);
   padding: 4px 12px;
   font-size: var(--fs-3) !important;
 }
@@ -5229,7 +5273,7 @@ strong {
   background: var(--surface) !important;
   border: 1.5px solid var(--rule);
   color: var(--ink);
-  height: 40px;
+  height: var(--tap);
   padding: 0 14px;
 }
 .pill {
@@ -5306,6 +5350,9 @@ header.top .xs {
 }
 header.top .iconbtn {
   color: #fff !important;
+  box-shadow: none !important;
+  background: 0 0 !important;
+  border: 0 !important;
 }
 .nav {
   background: var(--surface) !important;
@@ -5358,10 +5405,10 @@ header.top .hello b {
   font: 700 var(--fs-5) / 1.25 var(--body) !important;
 }
 .menurow .ic {
-  background: 0 0 !important;
-  border: 1.5px solid var(--ink) !important;
+  background: var(--sunbg) !important;
+  border: 0 !important;
   color: var(--ink) !important;
-  border-radius: 6px !important;
+  border-radius: 12px !important;
 }
 .menurow .ic .ico {
   stroke: var(--ink) !important;
@@ -5382,10 +5429,6 @@ header.top .hello b {
   border-color: var(--ink) !important;
   box-shadow: 4px 4px 0 var(--ink) !important;
   background: #fff !important;
-}
-.choice b {
-  font: 700 var(--fs-5) var(--body) !important;
-  color: var(--ink) !important;
 }
 .fxtoday {
   gap: 14px;
@@ -5503,19 +5546,17 @@ header.top::after {
 header.top #snd {
   display: none !important;
 }
-header.top .iconbtn {
-  box-shadow: none !important;
-}
 .fxempty img {
-  width: 100%;
-  height: 180px;
+  width: 72px;
+  height: 72px;
   object-fit: cover;
   display: block;
 }
 .fxempty p {
   margin: 0;
   padding: 10px 12px;
-  font: 400 var(--fs-5) var(--hand);
+  font: 500 var(--fs-3) var(--body) !important;
+  color: var(--muted);
 }
 .ob .choice {
   flex-direction: column;
@@ -5614,10 +5655,6 @@ header.top {
 header.top .hello {
   display: none !important;
 }
-header.top .iconbtn {
-  background: 0 0 !important;
-  border: 0 !important;
-}
 header.top .iconbtn .ico {
   stroke: var(--ink) !important;
 }
@@ -5628,10 +5665,6 @@ header.top .wrap {
   justify-content: space-between;
   display: flex;
   align-items: center;
-}
-.fxempty p {
-  font: 500 var(--fs-3) var(--body) !important;
-  color: var(--muted);
 }
 /* section tabs (the Library's Syllabus, Research Papers, Games; the Plan tabs): a soft violet track, the chosen tab filled */
 /* the track switch: DeepKids track in DeepKids red, Board track in blue */
@@ -5719,10 +5752,6 @@ header.top .wrap {
 }
 header.top #backTop {
   order: -1;
-}
-html,
-body {
-  overflow-x: hidden;
 }
 .acctload {
   margin-top: 40px;
@@ -5842,7 +5871,7 @@ body {
   top: 8px;
   right: 8px;
   width: 40px;
-  height: 40px;
+  height: var(--tap);
   border: 0;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.92);
@@ -6266,18 +6295,10 @@ body {
 .tr.missed .tcard {
   box-shadow: none;
 }
-.tr .t {
-  width: 46px;
-}
-/* the day as a timeline: one line down the side, a dot in each row's colour, each row a soft card of its colour */
-.tt.compact {
-  gap: 0;
-  position: relative;
-  padding: 4px 0;
-}
 .tt.compact .tr {
   position: relative;
-  gap: 26px;
+  grid-template-columns: 74px 1fr;
+  gap: 12px;
   margin: 3px 0;
 }
 .tt.compact .tr .t {
@@ -6322,10 +6343,6 @@ body {
 .tt.compact .dh {
   opacity: 0.35;
 }
-.tcard .tdet {
-  border-top: 1px solid var(--rule);
-  overflow-wrap: anywhere;
-}
 .fxcont {
   display: grid;
   grid-template-columns: 72px 1fr;
@@ -6349,19 +6366,10 @@ body {
   border-radius: var(--r-card);
   box-shadow: var(--shadow);
 }
-.fxempty img {
-  width: 72px;
-  height: 72px;
-}
 .wk1 {
   display: grid;
   gap: 10px;
   margin-top: 24px;
-}
-.menurow .ic {
-  border: 0 !important;
-  border-radius: 12px !important;
-  background: var(--sunbg) !important;
 }
 .morebtn {
   margin-top: 24px;
@@ -6526,7 +6534,7 @@ body {
 }
 .fxadd {
   width: 40px;
-  height: 40px;
+  height: var(--tap);
   border: 0;
   border-radius: 50%;
   background: var(--margin);
@@ -6881,7 +6889,7 @@ body {
   display: flex;
   align-items: center;
   gap: 2px;
-  min-height: 40px;
+  min-height: var(--tap);
   padding: 2px 4px 2px 18px;
 }
 .fxch .fxmeta {
@@ -7541,9 +7549,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 class="fs6">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" class="col"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="bf12920afd7a601173";window.DK_APPV="bf12920afd";window.DK_DATAV="7a6086be01"</script>
-<script src="/config.js?v=bf12920afd7a601173"></script>
+<script>window.DK_BUILD="10963bf2867a601173";window.DK_APPV="10963bf286";window.DK_DATAV="7a6086be01"</script>
+<script src="/config.js?v=10963bf2867a601173"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=bf12920afd7a601173"></script>
+<script src="/platform.js?v=10963bf2867a601173"></script>
 </body>
 </html>
