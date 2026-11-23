@@ -13202,13 +13202,12 @@ function askList() {
   if (!(S.events || []).some((e) => e.kind === "class" || e.kind === "online"))
     Q.push([
       `Does ${esc(S.child || "your child")} go to any classes or tuitions? Tell us the days and times.`,
-      "say:Classes and tuitions: ",
+      "kind:class",
     ]);
   if (!(S.alarm || {}).time) Q.push(["When do you usually wake up?", "parent"]);
-  Q.push(["Any holidays, trips or family events coming up this month?", "say:Coming up this month: "]);
-  if (boardsOn().includes("nios"))
-    Q.push(["Are you planning to register for NIOS exams this year?", "say:About exams: "]);
-  Q.push([`What does ${esc(S.child || "your child")} love doing these days?`, "say:These days they love: "]);
+  Q.push(["Any holidays, trips or family events coming up this month?", "kind:outing"]);
+  if (boardsOn().includes("nios")) Q.push(["Are you planning to register for NIOS exams this year?", "kind:remind"]);
+  Q.push([`What does ${esc(S.child || "your child")} love doing these days?`, "kind:interest"]);
   return Q.slice(0, 3);
 }
 // "Type or speak": write plans in a sentence or send a photo of a timetable, and DeepKids sorts them into the plan
@@ -13666,16 +13665,19 @@ Object.assign(ACT, {
     ui.dump = {};
     render();
   },
+  // each question opens the "Add to your plan" form on the kind of thing that answers it, ready to type
   askq(b, e, a, k) {
     const v = b.dataset.a;
     if (v === "parent") return openSheet({ mode: "parent" });
     if (sheet.open) sheet.close();
-    const ta = document.getElementById("dumpText");
-    if (ta) {
-      ta.value = (ta.value ? ta.value + "\n" : "") + v.slice(4);
-      ta.focus();
-      ta.scrollIntoView({ behavior: "smooth", block: "center" });
-    }
+    ui.addmode = "pick";
+    ui.qkind = v.slice(5);
+    render();
+    setTimeout(() => {
+      const t = document.getElementById("qa-t");
+      t?.scrollIntoView({ behavior: "smooth", block: "center" });
+      t?.focus({ preventScroll: true });
+    }, 250);
   },
   ted(b, e, a, k) {
     ui.ted = b.dataset.id;
