@@ -22172,7 +22172,7 @@ function onTrackView() {
         bar = (cls, label, n) =>
           `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
       return `<div class="trow2 ${subjClass(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]} · Class ${DATA.levels[S.levels[s]].cls}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind` : gap > 0 ? `${gap} ahead` : "On track"}</span></div>
-       ${bar("done", `${esc(S.child || "Your child")} has done`, done)}${bar("school", exp < schoolExp ? "Expected by now at your pace" : "A school would have done by now", exp)}
+       ${bar("done", `${esc(S.child || "Your child")} has done`, done)}${bar("school", "A school would have done by now", schoolExp)}${exp < schoolExp ? bar("school", `Counted since you started (${fmt(S.start)})`, exp) : ""}
        ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<div class="row catchrow"><button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button><button class="btn xs soft" data-act="catchup" data-s="${s}" data-ks="${u.k}">Do next</button></div>`).join("")}<button class="btn sm" data-act="catchup" data-s="${s}" data-ks="${esc(catchUp.map((u) => u.k).join("~"))}">Put all ${catchUp.length} at the front of the queue</button></details>` : ""}
        ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
     })
@@ -23061,33 +23061,16 @@ function trackView() {
     fin =
       Object.keys(S.progress || {}).filter((k) => statusOf(k) === "completed").length +
       Object.keys({ ...F.done, ...F.time }).filter((id) => ["completed", "mastered"].includes(statusOf("unit|" + id)))
-        .length,
-    sub = {};
-  study.forEach((d) =>
-    SUBJ_KEYS.forEach((s) => {
-      const m = (T[d].m[s] || 0) + (T[d].e[s] || 0);
-      if (m || T[d].did.some((x) => x.s === s)) {
-        sub[s] = sub[s] || { m: 0, days: 0 };
-        sub[s].m += m;
-        sub[s].days++;
-      }
-    }),
-  );
-  const smax = Math.max(1, ...Object.values(sub).map((x) => x.m));
+        .length;
   let h = `<div class="tiles"><div class="tile"><b>${hmin(all)}</b><span>studied in all</span></div><div class="tile"><b>${study.length}</b><span>study days</span></div><div class="tile"><b>${hmin(study.length ? all / study.length : 0)}</b><span>a study day, on average</span></div><div class="tile"><b>${hmin(wk)}</b><span>in the last 7 days</span></div><div class="tile"><b>${fin}</b><span>topics finished</span></div></div>`;
   h += trackPeriod(T);
-  h += `<section class="sec"><div class="sech"><h3 class="fs5">By subject</h3><span class="xs muted">all time</span></div>${
-    Object.keys(sub).length
-      ? `<div class="col" style="gap:10px">${SUBJ_KEYS.filter((s) => sub[s])
-          .map(
-            (s) =>
-              `<div class="hbar"><span class="sm"><b>${esc(SUBJ[s])}</b> · ${hmin(sub[s].m)} on ${sub[s].days} day${sub[s].days === 1 ? "" : "s"}</span><div class="hb"><i style="width:${(sub[s].m / smax) * 100}%;background:${CHC[s]}"></i></div></div>`,
-          )
-          .join("")}</div>`
-      : `<p class="note">Nothing yet.</p>`
-  }</section>`;
   return h;
 }
+// subjects with timed study on a day but no lesson line of their own
+const timeOnly = (x) =>
+  SUBJ_KEYS.filter((s) => (x.m[s] || 0) + (x.e[s] || 0) > 0 && !x.did.some((z) => z.s === s))
+    .map((s) => `<li>${esc(SUBJ[s])} <span class="xs muted">${hmin((x.m[s] || 0) + (x.e[s] || 0))}</span></li>`)
+    .join("");
 // one day, week or month: how much time, by subject, and everything done in it, day by day
 function trackPeriod(T) {
   const P = ui.tp || "week",
@@ -23123,7 +23106,7 @@ function trackPeriod(T) {
     did = past
       .slice()
       .reverse()
-      .filter((d) => T[d]?.did.length);
+      .filter((d) => T[d]?.did.length || dTot(T[d] || { m: {}, e: {} }) > 0);
   return `<section class="sec"><div class="seg">${[
     ["day", "Day"],
     ["week", "Week"],
@@ -23157,7 +23140,7 @@ function trackPeriod(T) {
                  .map(didLine)
                  .join(
                    "",
-                 )}${T[d].did.some((z) => z.t === "up") ? `<li>${T[d].did.filter((z) => z.t === "up").length} photo or file uploaded</li>` : ""}</ul></details>`,
+                 )}${timeOnly(T[d])}${T[d].did.some((z) => z.t === "up") ? `<li>${T[d].did.filter((z) => z.t === "up").length} photo or file uploaded</li>` : ""}</ul></details>`,
            )
            .join("")
        : `<p class="note">Nothing done in this ${P} yet.</p>`
