@@ -7148,18 +7148,32 @@ header.top #backTop {
 .orbnow {
   pointer-events: none;
 }
-@media (max-width: 899px) {
-  /* a page's tabs stay on one line on a phone: they scroll sideways, and the fading right edge shows there are more */
-  .segmain {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    scrollbar-width: none;
-    padding-right: 44px;
-    mask-image: linear-gradient(to right, transparent, #000 14px, #000 calc(100% - 44px), transparent);
-  }
+/* a page's tabs stay on one line at every width: when they do not all fit they scroll sideways, and the fading right edge
+   shows there are more */
+.segmain {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-right: 44px;
+  mask-image: linear-gradient(to right, transparent, #000 14px, #000 calc(100% - 44px), transparent);
+}
+.segmain button {
+  flex: 0 0 auto;
+}
+@media (min-width: 900px) {
   .segmain button {
-    flex: 0 0 auto;
+    flex: 1 0 auto;
+    padding: 0 12px;
+    font-size: var(--fs-3) !important;
   }
+}
+@media (min-width: 1300px) {
+  .segmain {
+    padding-right: 4px;
+    mask-image: none;
+  }
+}
+@media (max-width: 899px) {
   .monthday,
   .orbitinfo,
   .libpanel:not(.open) {
