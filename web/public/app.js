@@ -12009,6 +12009,9 @@ function stateCtl(ty, u, id) {
       `<button class="link xs" data-act="ist" data-ty="${ty}" data-k="${u.k}" data-id="${id}" data-to="${to}">${l}</button>`;
   return `<div class="wkctl ${cls}"><span class="xs"><b>${lab}${s === "done" ? " ✓" : ""}</b>${qTag(ty, u, id, s)}</span><div class="row" style="gap:8px;flex-wrap:wrap">${qCtl(ty, u, id, s)}${s === "none" && ui.qpick !== ty + ":" + u.k + "|" + id ? b("skip", "Not doing this") : s === "skip" ? b("none", "Undo") : s === "done" && ty === "ws" ? b("undo", "Undo finished") : ""}</div></div>`;
 }
+// a settings block that stays closed until it is needed, with one line on what is inside
+const planFold = (title, note, html) =>
+  `<details class="sec"><summary class="menurow"><span><b>${title}</b><br><span class="xs muted">${note}</span></span></summary>${html}</details>`;
 // which track the family chose, and the way to change it
 function trackCard() {
   const b = S.board;
@@ -13152,7 +13155,7 @@ function planPart(k) {
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
   if (k === "tell")
-    return `<div id="paceSec">${trackCard()}${dayFitNote()}${dayTimesCard()}${subjCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
+    return `<div id="paceSec">${trackCard()}${dayFitNote()}${subjCard()}${planFold("Day times", "Prep, lessons start, lunch, free days", dayTimesCard())}${planFold("Hours and days for each subject", "How long, and on which days", plPart("pace"))}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PLAN_VIEWS)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)
