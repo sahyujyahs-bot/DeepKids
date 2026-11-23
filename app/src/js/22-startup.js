@@ -22,6 +22,7 @@ document.addEventListener("change", (e) => {
   }
 });
 document.addEventListener("change", (e) => {
+  if (e.target.dataset?.invpic && e.target.files[0]) invPicture(e.target.dataset.invpic, e.target.files[0]);
   if (e.target.id === "wsPhoto") {
     aiCheckPhoto(e.target.dataset.k, [...e.target.files].slice(0, 4));
   }

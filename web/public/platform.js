@@ -13,7 +13,7 @@
   const plusOn=()=>!!plus.until&&new Date(plus.until)>new Date();
 
   /* ---------- sign-in screen ---------- */
-  const css=`.dkg{min-height:100vh;display:grid;place-items:center;padding:24px 18px;background:#FFF6EC;font-family:system-ui,sans-serif;color:#2B2340}
+  const css=`.dkg{min-height:100vh;min-height:100dvh;display:grid;place-items:center;padding:24px 18px;background:#FFF6EC;font-family:system-ui,sans-serif;color:#2B2340}
    .dkg .box{max-width:400px;width:100%;display:grid;gap:16px;text-align:center}.dkg p{margin:0;line-height:1.5;color:#5d5670}
    .dkg h1{font-size:28px;margin:0}.dkg .lead{font-size:clamp(11px,calc((100vw - 36px)/22.5),19px);white-space:nowrap;font-weight:600;color:#2B2340;margin-top:-8px}.dkg .who{font-size:14.5px;margin-top:-10px}
    .dkg button{display:flex;gap:10px;align-items:center;justify-content:center;width:100%;padding:14px 18px;border-radius:16px;border:2px solid rgba(43,35,64,.15);background:#fff;font:600 17px system-ui,sans-serif;cursor:pointer;color:#2B2340}
@@ -43,7 +43,7 @@
    @keyframes dkpulse{from{transform:translate(-50%,-50%) scale(.9);opacity:.55}to{transform:translate(-50%,-50%) scale(1.14);opacity:1}}@keyframes dktwinkle{0%,100%{opacity:.15;transform:scale(.7)}50%{opacity:1;transform:scale(1.5)}}@keyframes dkshoot{0%{opacity:0;transform:translate(0,0) rotate(28deg)}3%{opacity:1}12%{opacity:0;transform:translate(160px,85px) rotate(28deg)}100%{opacity:0}}
    @media(prefers-reduced-motion:reduce){.dkg .pic *,.dkg .pic>img{animation:none!important}}
    .dkg .intro,.dkg .show{display:grid;gap:16px}.dkg .gbtn{display:flex;justify-content:center}
-   @media(max-width:899px){.dkg .intro,.dkg .show{display:contents}.dkg h1,.dkg .lead,.dkg .who{order:1}.dkg .show>*{order:2}.dkg .dkgo,.dkg .err,.dkg small{order:3}}
+   @media(max-width:899px){.dkg{min-height:100dvh;padding:10px 18px 12px}.dkg .box{gap:8px}.dkg h1{font-size:clamp(22px,3.6dvh,28px)}.dkg .pic{height:clamp(110px,26dvh,300px)}.dkg .pic>img{height:100%;object-fit:cover}.dkg .iamstage{height:100%;aspect-ratio:auto}.dkg .slide{gap:6px}.dkg .slide p{font-size:clamp(12.5px,1.9dvh,15px)}.dkg .slide b{font-size:clamp(14px,2.2dvh,17px);margin-bottom:2px}.dkg .pts{font-size:clamp(11.5px,1.7dvh,13px);gap:8px;padding-top:6px}.dkg small{font-size:11.5px}}@media(max-width:899px) and (max-height:620px){.dkg small,.dkg .tag{display:none}}@media(max-width:899px){.dkg .intro,.dkg .show{display:contents}.dkg h1,.dkg .lead,.dkg .who{order:1}.dkg .show>*{order:2}.dkg .dkgo,.dkg .err,.dkg small{order:3}}
    @media(min-width:900px){.dkg{padding:40px 5vw}.dkg .box{max-width:1800px;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);column-gap:6vw;align-items:center;text-align:left}.dkg h1{font-size:clamp(44px,4.4vw,72px);line-height:1.1}.dkg .lead{font-size:clamp(13px,1.5vw,28px);margin-top:0}.dkg .who{font-size:clamp(16px,1.3vw,20px);margin-top:0}.dkg .dkgo{max-width:420px}.dkg .gbtn{justify-content:flex-start}.dkg .show{gap:12px}.dkg .swipe{margin:0;padding:0}}`;
   /* what DeepKids does: one picture and its words per slide, swiped by hand */
   // the welcome slides before log-in: one list in app/content/welcome.json, which the app uses too.
@@ -84,7 +84,7 @@
   function googleButton(b){
     load("https://accounts.google.com/gsi/client").then(()=>{const g=window.google?.accounts?.id;if(!g)return;
       g.initialize({client_id:C.googleClientId,ux_mode:"popup",callback:async r=>{const {error}=await sb.auth.signInWithIdToken({provider:"google",token:r.credential});if(error)return signInScreen("Couldn't sign in with Google. Try again.");location.reload()}});
-      const d=document.createElement("div");d.className="dkgo gbtn";b.replaceWith(d);g.renderButton(d,{theme:"outline",size:"large",shape:"pill",text:"continue_with",width:320})}).catch(()=>{})}
+      const d=document.createElement("div");d.className="dkgo gbtn";b.replaceWith(d);g.renderButton(d,{theme:"outline",size:"large",shape:"pill",text:"continue_with",width:Math.max(200,Math.min(320,innerWidth-40))})}).catch(()=>{})}
 
   /* ---------- helpers ---------- */
   const err=(code,message)=>Object.assign(new Error(message||code),{code});

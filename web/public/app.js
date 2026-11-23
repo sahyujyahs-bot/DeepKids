@@ -9560,20 +9560,98 @@ Message:
   D_.busy = false;
   render();
 }
-// one thing on the shelf: a book stands as a spine, a game is a box, anything else a small block
-function shelfThing(i) {
+/* the home shelf: each thing a family has is a card with its picture, and tapping it shows the lessons in the plan that use it */
+const SHELFEMOJI = { book: "📚", game: "🎲", electronics: "🔌", equipment: "🧰", tool: "🔧", other: "✨" };
+// item id -> the planned lessons it goes with
+function shelfUse() {
+  const M = {};
+  S.subjects
+    .flatMap((s) => plannedUnits(s))
+    .forEach((u) => shelfFor(u).forEach((i) => (M[i.id] = [...(M[i.id] || []), u])));
+  return M;
+}
+function thingCover(i) {
   const h = [...i.name].reduce((a, c) => a + c.charCodeAt(0), 0),
     col = ["var(--tang)", "var(--aqua)", "var(--peri)", "var(--sun)", "var(--forest)", "var(--sky)", "var(--soil)"][
       h % 7
-    ],
-    cls = i.cat === "book" ? "spine" : i.cat === "game" ? "gbox" : "kit",
-    size = i.cat === "book" ? `height:${78 + (h % 26)}px;width:${26 + (h % 12)}px` : "";
-  return `<button class="sthing" data-act="invsel" data-i="${esc(i.id)}" aria-pressed="${ui.invSel === i.id}" title="${esc(i.name)}"><span class="${cls}" style="background:${col};${size}">${esc(i.name)}</span></button>`;
+    ];
+  return `<span class="cover" style="--c:${col}">${i.img ? `<img src="${esc(i.img)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : `<span class="cemo">${SHELFEMOJI[i.cat] || "✨"}</span>`}</span>`;
 }
-function invItem(i) {
-  // the planned lessons it goes into
-  const ch = S.subjects.flatMap((s) => plannedUnits(s)).filter((u) => shelfFor(u).includes(i));
-  return `<div class="invi"><div style="min-width:0"><b>${esc(i.name)}</b>${i.by || i.kind ? `<span class="xs muted"> · ${esc([i.by, i.kind].filter(Boolean).join(" · "))}</span>` : ""}${i.note ? `<p class="xs muted">${esc(i.note)}</p>` : ""}${ch.length ? `<p class="xs muted">Goes into the plan with:</p><div class="row chips">${ch.slice(0, 3).map(chipK).join("")}</div>` : `<p class="xs muted">Not matched to a lesson in this year's plan yet.</p>`}</div><button class="plain" data-act="invdel" data-i="${i.id}" aria-label="Remove ${esc(i.name)}">${icon("close")}</button></div>`;
+function shelfThing(i, use) {
+  const n = (use[i.id] || []).length;
+  return `<button class="thing" data-act="invsel" data-i="${esc(i.id)}" aria-pressed="${ui.invSel === i.id}">${thingCover(i)}<b>${esc(i.name)}</b><span class="xs muted">${esc(CATS[i.cat] || "Other")}${n ? ` · in ${n} lesson${n > 1 ? "s" : ""}` : ""}</span></button>`;
+}
+function invItem(i, use) {
+  const L = use[i.id] || [];
+  return `<div class="thingd">${thingCover(i)}<div class="thingm"><b class="h4">${esc(i.name)}</b><span class="xs muted">${esc([CATS[i.cat], i.by, i.kind].filter(Boolean).join(" · "))}</span>${i.note ? `<p class="xs muted">${esc(i.note)}</p>` : ""}<div class="row"><label class="btn soft sm pointer">${icon("plus")}${i.img ? "Change picture" : "Add a picture"}<input type="file" accept="image/*" data-invpic="${esc(i.id)}" hidden></label><button class="btn line sm" data-act="invdel" data-i="${esc(i.id)}">Remove</button></div></div>
+    <div class="thingl"><span class="eyebrow">Lessons in your plan that use it</span>${
+      L.length
+        ? L.slice(0, 6)
+            .map(
+              (u) =>
+                `<button class="plain irow" data-act="chapter" data-k="${esc(u.k)}"><b>${esc(chT(u))}</b><span class="xs muted">${esc(SUBJ[u.subj])}</span></button>`,
+            )
+            .join("")
+        : `<p class="xs muted">None yet. When a lesson in your plan uses something like this, it shows here.</p>`
+    }</div></div>`;
+}
+// a picture for something the family added, found without AI: a book's cover from Open Library, anything else from its Wikipedia page
+async function invFindPicture(id) {
+  const find = () => (S.inv || []).find((x) => x.id === id),
+    i = find();
+  if (!i || i.img || i.noimg) return;
+  const words = (t) =>
+      String(t)
+        .toLowerCase()
+        .replace(/[^a-z0-9 ]/g, " ")
+        .split(/\s+/)
+        .filter((w) => w.length > 2),
+    mine = words(i.name),
+    fits = (title) => {
+      const t = new Set(words(title));
+      return mine.filter((w) => t.has(w)).length >= Math.max(1, Math.ceil(mine.length / 2));
+    };
+  let url = "";
+  try {
+    if (i.cat === "book") {
+      const r = await (
+        await fetch(
+          `https://openlibrary.org/search.json?title=${encodeURIComponent(i.name)}${i.by ? `&author=${encodeURIComponent(i.by)}` : ""}&limit=3&fields=title,cover_i`,
+        )
+      ).json();
+      const d = (r.docs || []).find((x) => x.cover_i && fits(x.title));
+      if (d) url = `https://covers.openlibrary.org/b/id/${d.cover_i}-M.jpg`;
+    }
+    if (!url) {
+      const r = await (
+        await fetch(
+          `https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrsearch=${encodeURIComponent(i.name + (i.cat === "game" ? " game" : ""))}&gsrlimit=3&prop=pageimages&piprop=thumbnail&pithumbsize=300`,
+        )
+      ).json();
+      const p = Object.values(r.query?.pages || {})
+        .sort((a, b) => a.index - b.index)
+        .find((x) => x.thumbnail && fits(x.title));
+      if (p) url = p.thumbnail.source;
+    }
+  } catch (e) {}
+  const j = find();
+  if (!j) return;
+  if (url) j.img = url;
+  else j.noimg = 1;
+  commit();
+}
+// the family's own photo of a thing, shrunk to a small square-ish picture kept with it
+async function invPicture(id, file) {
+  const b = await createImageBitmap(file),
+    k = Math.min(1, 320 / Math.max(b.width, b.height)),
+    c = document.createElement("canvas");
+  c.width = Math.round(b.width * k);
+  c.height = Math.round(b.height * k);
+  c.getContext("2d").drawImage(b, 0, 0, c.width, c.height);
+  const i = (S.inv || []).find((x) => x.id === id);
+  if (!i) return;
+  i.img = c.toDataURL("image/jpeg", 0.7);
+  commit();
 }
 const RTYPE = {
   sim: "Simulation",
@@ -10194,16 +10272,21 @@ function viewLibrary() {
     PREP_KW.forEach((k) => {
       if (doneTasks.some((x) => x.toLowerCase().includes(k.toLowerCase())) && !seen.has(k.toLowerCase())) kw.add(k);
     });
-    const sel = inv.find((i) => i.id === ui.invSel);
-    h += `<section class="sec">${invCard()}${inv.length ? `<div class="shelfwall">${["book", "game", "electronics", "equipment", "tool", "other"].flatMap((c) => inv.filter((i) => (CATS[i.cat] ? i.cat : "other") === c).map(shelfThing)).join("")}</div><p class="xs muted">Tap one to see which lessons it goes with.</p>${sel ? `<div class="card">${invItem(sel)}</div>` : ""}` : ""}
-     ${kw.size ? `<div class="card r-you tint"><span class="eyebrow">From your lesson prep</span><p class="sm">You gathered these for lessons. Add them to your home shelf?</p><div class="row">${[...kw].map((k) => `<button class="chip" data-act="invadd" data-n="${esc(k)}" data-c="equipment">${icon("plus")}${esc(k)}</button>`).join("")}</div></div>` : ""}
-     <details class="card"><summary class="link pointer">Add one thing by hand</summary><div class="row" style="flex-wrap:nowrap;margin-top:10px"><input class="inp" id="invName" maxlength="60" placeholder="Add something you have"><select class="inp" id="invCat" style="width:auto">${Object.entries(
+    const sel = inv.find((i) => i.id === ui.invSel),
+      use = shelfUse(),
+      cat = CATS[ui.invCat] ? ui.invCat : "book";
+    h += `<section class="sec"><div class="card"><h3 class="fs5">What you have at home</h3><p class="sm muted">Books, games and things you own. We match them to the lessons in your plan, so you can see which lesson uses what.</p>
+     <input class="inp" id="invName" maxlength="60" placeholder="Name, for example Ludo or The Blue Umbrella"><div class="row chips">${Object.entries(
        CATS,
      )
-       .map(([k, n]) => `<option value="${k}">${n}</option>`)
-       .join(
-         "",
-       )}</select></div><button class="btn sm" data-act="invnew" style="justify-self:start;margin-top:8px">Add</button></details></section>`;
+       .map(
+         ([k, n]) => `<button class="chip" aria-pressed="${cat === k}" data-act="invcat" data-c="${k}">${n}</button>`,
+       )
+       .join("")}</div><button class="btn self-start" data-act="invnew">Add</button></div>
+     ${sel ? `<div class="card">${invItem(sel, use)}</div>` : ""}
+     ${inv.length ? `<div class="shelfgrid">${inv.map((i) => shelfThing(i, use)).join("")}</div>` : `<p class="note">Nothing added yet. Add the first thing above.</p>`}
+     ${kw.size ? `<div class="card r-you tint"><span class="eyebrow">From your lesson prep</span><p class="sm">You gathered these for lessons. Add them to your home shelf?</p><div class="row">${[...kw].map((k) => `<button class="chip" data-act="invadd" data-n="${esc(k)}" data-c="equipment">${icon("plus")}${esc(k)}</button>`).join("")}</div></div>` : ""}
+     <details class="card"><summary class="link pointer">Add a whole list at once</summary>${invCard()}</details></section>`;
   }
   if (t === "suggest") {
     const have = new Set(inv.map((i) => i.name.toLowerCase()));
@@ -10358,7 +10441,9 @@ Object.assign(ACT, {
   },
   iadd(b, e, a, k) {
     const L = (ui.idump?.items || []).filter((x) => x.keep);
-    S.inv = [...(S.inv || []), ...L.map(({ keep, ...x }) => ({ id: newId(), ...x, from: "sorted" }))];
+    const added = L.map(({ keep, ...x }) => ({ id: newId(), ...x, from: "sorted" }));
+    S.inv = [...(S.inv || []), ...added];
+    added.forEach((x) => invFindPicture(x.id));
     ui.idump = {};
     clearIn("invText");
     sfx("win");
@@ -10372,18 +10457,27 @@ Object.assign(ACT, {
     render();
   },
   invadd(b, e, a, k) {
-    S.inv = [...(S.inv || []), { id: newId(), name: b.dataset.n, cat: b.dataset.c || "other", from: "tap" }];
+    const id = newId();
+    S.inv = [...(S.inv || []), { id, name: b.dataset.n, cat: b.dataset.c || "other", from: "tap" }];
     sfx("ok");
     toast("Added to what we have");
     commit();
+    invFindPicture(id);
   },
   invnew(b, e, a, k) {
     const n = document.getElementById("invName").value.trim();
     if (!n) return;
-    S.inv = [...(S.inv || []), { id: newId(), name: n, cat: document.getElementById("invCat").value }];
+    const id = newId();
+    S.inv = [...(S.inv || []), { id, name: n, cat: CATS[ui.invCat] ? ui.invCat : "book" }];
     sfx("ok");
     commit();
     clearIn("invName");
+    invFindPicture(id);
+  },
+  invcat(b, e, a, k) {
+    ui.invCat = b.dataset.c;
+    sfx("tap");
+    render();
   },
   invsel(b, e, a, k) {
     ui.invSel = ui.invSel === b.dataset.i ? null : b.dataset.i;
@@ -18662,6 +18756,7 @@ document.addEventListener("change", (e) => {
   }
 });
 document.addEventListener("change", (e) => {
+  if (e.target.dataset?.invpic && e.target.files[0]) invPicture(e.target.dataset.invpic, e.target.files[0]);
   if (e.target.id === "wsPhoto") {
     aiCheckPhoto(e.target.dataset.k, [...e.target.files].slice(0, 4));
   }

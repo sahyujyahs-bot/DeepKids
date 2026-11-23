@@ -2393,17 +2393,6 @@ dialog.mini::backdrop {
   text-align: left;
   line-height: 1.25;
 }
-.invi {
-  display: flex;
-  gap: 8px;
-  justify-content: space-between;
-  align-items: flex-start;
-  padding: 10px 0;
-  border-top: 1px solid var(--line);
-}
-.invi b {
-  font: 600 var(--fs-4) var(--display);
-}
 .extras {
   display: grid;
   gap: 6px;
@@ -3501,57 +3490,73 @@ a.btn {
 .segmain {
   margin-top: 6px;
 }
-/* the home shelf: things stand on wooden shelves, a plank under every row */
-.shelfwall {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: flex-start;
-  gap: 0 6px;
-  padding: 10px 12px 0;
-  border-radius: var(--r-lg);
-  background: repeating-linear-gradient(to bottom, #f6efe2 0 112px, #a7764a 112px 122px) #f6efe2;
+/* the home shelf: a card for each thing, with its picture */
+.shelfgrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
 }
-.sthing {
-  height: 122px;
-  padding: 0 0 10px;
+.thing {
+  display: grid;
+  gap: 6px;
+  align-content: start;
+  padding: 10px;
   border: 0;
-  background: 0 0;
-  display: flex;
-  align-items: flex-end;
+  border-radius: var(--r-card);
+  background: var(--surface);
+  box-shadow: var(--lift);
+  text-align: left;
 }
-.sthing > span {
-  display: block;
-  overflow: hidden;
-  color: #fff;
-  font: 700 var(--fs-1) / 1.15 var(--body);
-  border: 1.5px solid #0003;
-  box-shadow: inset -3px 0 #0002;
-}
-.sthing[aria-pressed="true"] > span {
+.thing[aria-pressed="true"] {
   outline: 3px solid var(--ink);
-  transform: translateY(-6px);
 }
-.sthing .spine {
-  writing-mode: vertical-rl;
-  transform: rotate(180deg);
-  padding: 6px 4px;
-  border-radius: 3px;
-  text-align: center;
+.thing b {
+  font: 600 var(--fs-4) var(--display);
+  overflow-wrap: anywhere;
 }
-.sthing[aria-pressed="true"] .spine {
-  transform: rotate(180deg) translateY(6px);
+.cover {
+  aspect-ratio: 1;
+  border-radius: var(--r-lg);
+  background: color-mix(in srgb, var(--c) 18%, var(--surface));
+  display: grid;
+  place-items: center;
+  overflow: hidden;
 }
-.sthing .gbox {
-  width: 74px;
-  height: 58px;
-  padding: 6px;
-  border-radius: 5px;
+.cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
-.sthing .kit {
-  width: 54px;
-  height: 46px;
-  padding: 5px;
-  border-radius: 12px;
+.cemo {
+  font-size: var(--fs-8);
+}
+.thingd {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 12px;
+}
+.thingm {
+  display: grid;
+  gap: 6px;
+  align-content: start;
+  min-width: 0;
+}
+.thingl {
+  grid-column: 1 / -1;
+  display: grid;
+  gap: 6px;
+}
+.irow {
+  display: grid;
+  gap: 2px;
+  text-align: left;
+  padding: 8px 0;
+  border-top: 1px solid var(--line);
+}
+@media (min-width: 700px) {
+  .shelfgrid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }
 /* uploads, three to a row like a photo feed */
 .upgrid {
