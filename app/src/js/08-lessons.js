@@ -784,7 +784,7 @@ function chapterPage() {
           ? {
               overview: "Overview",
               plans: "Lesson plans",
-              tasks: "Tasks",
+              ...(c.game && c.exp && c.act && c.proj ? { tasks: "Tasks" } : {}),
               read: "Read more",
               ...(resourcesFor(u).length ? { res: "Free resources" } : {}),
             }

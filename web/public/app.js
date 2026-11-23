@@ -1758,7 +1758,7 @@ function buildDayPlan(date) {
         title: "Project: " + pj.title,
         sub: `${chT(pj.u)} · ${SUBJ[pj.u.subj]}`,
         pj,
-        done: !!S.tl[date + "|project"],
+        done: !!S.tl[date + "|project"] || projectDoneOn(pj, date),
       });
     const open = [...S.exps.filter((e) => !e.closed && e.start <= date), ...fxOngoing(date)];
     if (open.length)
@@ -3196,7 +3196,7 @@ function prepView() {
         const u = x.u,
           g = u.c?.p?.summary || u.c?.x?.guide || DATA.prepgen.guide[u.subj];
         return `<section class="card ${subjClass(x.subj)}" style="gap:0"><div class="row" style="gap:8px;margin-bottom:4px"><span class="dotc"></span><span class="eyebrow">${SUBJ[x.subj]} · ${fmt(x.date)} · Part ${x.n} of ${x.tot}</span></div><h3 style="font-size:var(--fs-5);margin-bottom:8px">${esc(u.title)}</h3>
-   ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary style="cursor:pointer;font-weight:500;color:var(--plum)">Parent guide</summary><p class="sm mt6">${esc(g)}</p></details>` : ""}
+   ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary class="pointer">Parent guide</summary><p class="sm mt6">${esc(g)}</p></details>` : ""}
    ${items.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Done: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:500">${esc(p.task)}</b>${p.early ? ` <span class="pill learning">start early for ${fmt(x.date)}</span>` : ""}<p class="xs muted" style="margin-top:3px">From: ${esc(p.where)}</p></div></div>`).join("")}
    <div class="row mt8">${u.c?.x ? `<button class="btn xs soft" data-act="chapter" data-k="${u.k}" data-t="questions">Big questions</button><button class="btn xs soft" data-act="ws" data-k="${u.k}">Worksheet</button>` : ""}<button class="btn xs soft" data-act="chapter" data-k="${u.k}">Chapter</button></div></section>`;
       })
@@ -4109,7 +4109,7 @@ function chapterPage() {
           ? {
               overview: "Overview",
               plans: "Lesson plans",
-              tasks: "Tasks",
+              ...(c.game && c.exp && c.act && c.proj ? { tasks: "Tasks" } : {}),
               read: "Read more",
               ...(resourcesFor(u).length ? { res: "Free resources" } : {}),
             }
@@ -4120,7 +4120,7 @@ function chapterPage() {
             };
   const t = tabs[ui.ctab[u.k]] ? ui.ctab[u.k] : "overview",
     inPlan = everyUnit().some((z) => z.k === u.k) && plannedUnits(u.subj).some((z) => z.k === u.k);
-  let h = `<section class="chero ${subjClass(u.subj)}"><span class="n">${u.board === "combined" ? "" : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs} self-start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fmtHours(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fmtHours(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
+  let h = `<section class="chero ${subjClass(u.subj)}"><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs} self-start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fmtHours(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fmtHours(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
    ${u.board === "gen" && !u.gen.reviewed ? `<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>` : ""}
    <div class="row">${inPlan ? `<span class="pill completed" style="align-self:center">✓ ${isNextUp(u) ? "Next up" : "In the plan · no. " + qPos(u)} in ${SUBJ[u.subj]}</span>${isNextUp(u) ? "" : `<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}<button class="btn line sm" data-act="gotab" data-tab="week" data-seg="next" data-qs="${u.subj}">See the queue</button>` : u.board === "unit" && !dkUnitOpen(u.c?.unit) ? `<span class="xs muted">🔒 On the DeepKids track</span>` : qPick("les", u.subj, "les:" + u.k, icon("plus") + "Add to the plan")}</div>
    
@@ -6533,7 +6533,7 @@ function rfsetBody() {
       `<section class="card"><div class="sech"><b class="h5">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
     mastered = [...new Set(Object.values(S.rfq || {}).map((x) => x.k))].filter((k) => rfRight(k) >= RF_PER);
   if (!Q.length && !mastered.length)
-    return `<p class="xs muted">No finished units to revise yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p>`;
+    return `<p class="note">No finished units to revise yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p>`;
   return `<p class="sm">Every unit your child completes comes back until they answer ${RF_PER} of its questions right. A day's refresher is at most ${RF_MAX} questions, ${RF_PER} from each of up to ${RF_MAX / RF_PER} units, taking turns across all subjects.</p>
    ${box(
      "Not finished",
@@ -6699,7 +6699,7 @@ function wordGame(u) {
         .join("")}</div>`;
     })
     .join("");
-  return `<p class="sm muted center">A five-letter word from “${esc(u.title)}”. Green is the right place, yellow is in the word.</p><div class="wgrid">${rows}</div>${over ? `<p style="text-align:center;font:600 var(--fs-5) var(--display)">${won ? "You got it: " : "The word was "}${word}</p>` : `<div class="kb">${["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"].map((r, i) => `<div>${i === 2 ? `<button class="w" data-act="wk" data-key="ENTER">Enter</button>` : ""}${[...r].map((c) => `<button class="${keys[c] || ""}" data-act="wk" data-key="${c}">${c}</button>`).join("")}${i === 2 ? `<button class="w" data-act="wk" data-key="DEL" aria-label="Delete">Del</button>` : ""}</div>`).join("")}</div>`}`;
+  return `<p class="sm muted center">A five-letter word from “${esc(u.title)}”. Green is the right place, yellow is in the word.</p><div class="wgrid">${rows}</div>${over ? `<p class="center h5">${won ? "You got it: " : "The word was "}${word}</p>` : `<div class="kb">${["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"].map((r, i) => `<div>${i === 2 ? `<button class="w" data-act="wk" data-key="ENTER">Enter</button>` : ""}${[...r].map((c) => `<button class="${keys[c] || ""}" data-act="wk" data-key="${c}">${c}</button>`).join("")}${i === 2 ? `<button class="w" data-act="wk" data-key="DEL" aria-label="Delete">Del</button>` : ""}</div>`).join("")}</div>`}`;
 }
 function tfGame(u) {
   const g = gamesToday(),
@@ -7983,21 +7983,9 @@ async function fxOpen(id, straightIn) {
     T[k] = (T[k] || 0) + 5;
     const Dy = (F.day[u.id] = F.day[u.id] || {});
     Dy[today] = (Dy[today] || 0) + 5;
-    fxTickProject(u.id, FXALL.sections[FXSI]);
     addMins(unitBy("unit|" + u.id)?.subj, 5);
     if (T[k] % 30 === 0) fxLogSession(u.id);
   }, 5000);
-}
-// Today's project row ticks itself once the family has worked 10 minutes on a project today
-function fxTickProject(id, sec) {
-  if (sec.kind !== "projects") return;
-  const D = (fxSt().done[id] = fxSt().done[id] || {}),
-    k = "pday:" + sec.id + "|" + today;
-  D[k] = (D[k] || 0) + 5;
-  if (D[k] >= 600 && !S.tl[today + "|project"]) {
-    S.tl[today + "|project"] = Date.now();
-    save();
-  }
 }
 const fxMin = (s) => (s < 60 ? (s ? "under a minute" : "not started") : Math.round(s / 60) + " min");
 function fxSecState(u, s) {
@@ -9586,7 +9574,7 @@ function resCard(r, i) {
   const ch = resChapters(r),
     show = ch.slice(0, 3),
     more = ch.length - show.length;
-  return `<div class="libcard rescard" style="--c:${PAL[i % PAL.length]}"><span class="row" style="gap:6px;flex-wrap:wrap"><span class="pill">${RTYPE[r.type] || esc(r.type)}</span><span class="xs muted">Ages ${r.ages[0]}–${r.ages[1]} · ${RACC[r.access] || ""}${(r.lang || []).filter((l) => l !== "en").length ? " · " + r.lang.map((l) => l.toUpperCase()).join(", ") : ""}</span></span>
+  return `<div class="libcard rescard"><span class="row" style="gap:6px;flex-wrap:wrap"><span class="pill">${RTYPE[r.type] || esc(r.type)}</span><span class="xs muted">Ages ${r.ages[0]}–${r.ages[1]} · ${RACC[r.access] || ""}${(r.lang || []).filter((l) => l !== "en").length ? " · " + r.lang.map((l) => l.toUpperCase()).join(", ") : ""}</span></span>
    <a href="${esc(r.url)}" target="_blank" rel="noopener" style="color:inherit"><b>${esc(r.title)} ↗</b></a><span class="xs muted">${esc(r.source)}</span><span class="sm">${esc(r.desc)}</span>${r.how ? `<span class="xs"><b>How to use:</b> ${esc(r.how)}</span>` : ""}
    <span class="xs"><b>${r.concepts.length ? "Idea" : "Area"}:</b> ${(r.concepts.length ? r.concepts.map((c) => esc(RCON[c]?.concept || c)) : r.strands.map((s) => esc(STRN[s] || s))).join(" · ")}</span>
    ${show.length ? `<span class="xs"><b>Fits:</b></span><div class="row chips">${show.map(chipK).join("")}${more > 0 ? `<span class="xs muted">+${more} more</span>` : ""}</div>` : ""}</div>`;
@@ -9719,7 +9707,7 @@ function topicOverview(u, packed) {
     ${packed ? "" : `<span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p>`}</section>`;
   // the placeholder line is not content; the real big ideas of a combined topic sit under "Think deeper"
   if (I.sum || I.ideas.some((i) => !/^placeholder/i.test(i)))
-    h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
+    h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul>${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
     h += `<section class="card r-you tint"><b class="h4">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
   if (u.board !== "gen" && m === "plus")
@@ -9755,7 +9743,7 @@ function plansTab(u) {
   const O = planOptions(u),
     pk = ((S.planPick || {})[u.k] || {}).full || O.full[0]?.id,
     card = (o, i) =>
-      `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b class="h5">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm self-start" data-act="ppick" data-k="${u.k}" data-o="${o.id}">Use this plan</button>` : ""}</section>`;
+      `<section class="card optcard ${o.id === pk ? "chosen" : ""}"><div class="sech"><b class="h5">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm line self-start" data-act="ppick" data-k="${u.k}" data-o="${o.id}">Use this plan</button>` : ""}</section>`;
   return `<p class="xs muted">Pick one way to teach this chapter. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
    <h3>Full plans</h3>${O.full.map(card).join("")}
    <h3>Short plans · about 30 minutes</h3>${O.busy.map((o, i) => card(o, i + 3)).join("")}`;
@@ -9794,7 +9782,7 @@ function topicsTab() {
       .slice()
       .sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0))
       .slice(0, 8);
-  let h = `<section class="sec"><div class="card"><div class="row" style="flex-wrap:nowrap"><input class="inp" id="tq" placeholder="Search any topic: volcanoes, fractions, Akbar…" value="${esc(q)}" maxlength="80"><button class="btn sm" data-act="tfind">Search</button></div>
+  let h = `<section class="sec"><div class="card"><div class="row nowrap"><input class="inp" id="tq" placeholder="Search any topic: volcanoes, fractions, Akbar…" value="${esc(q)}" maxlength="80"><button class="btn sm" data-act="tfind">Search</button></div>
     <p class="xs muted">${q ? `${hits.length} found in the syllabuses and DeepKids topics.` : "Search, or browse every chapter of every board below."}</p></div>`;
   if (q) {
     h +=
@@ -9803,7 +9791,7 @@ function topicsTab() {
     return h;
   }
   const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
-    trackSeg = `<div class="pick t"><span class="pickl">Track</span><div class="seg trackseg">${[
+    trackSeg = `<div class="pick t"><span class="pickl">Track</span><div class="seg">${[
       ["dk", "DeepKids track"],
       ["board", "Board track"],
     ]
@@ -9957,7 +9945,7 @@ function swapView() {
      .map(({ u, need }, i) => {
        const isCur = cur && cur.u.k === u.k,
          ok = !need.length;
-       return `<div class="taskrow ${subjClass(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 var(--fs-4) var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b class="h4">${esc(u.title)}</b><p class="xs muted">${statusOf(u.k) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
+       return `<div class="taskrow ${subjClass(u.subj)}"><span class="unit" style="all:unset"><span class="no">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b class="h4">${esc(u.title)}</b><p class="xs muted">${statusOf(u.k) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
          ok
            ? ""
            : ` · first: ${need
@@ -10159,7 +10147,7 @@ const CATS = {
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
-  let h = `<section class="sec libtop"><h1>Library</h1><div class="seg libtabs">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
+  let h = `<section class="sec pagetop"><h1>Library</h1><div class="seg segmain">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "research") h += researchTab();
   else if (t === "games") h += gamesTab();
@@ -10191,7 +10179,7 @@ function viewLibrary() {
       .map((c) => {
         const L = LIB.suggest.filter((x) => x[0] === c);
         return L.length
-          ? `<div class="sech"><h3 class="fs5">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url], i) => `<div class="libcard" style="--c:${PAL[i % PAL.length]}"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
+          ? `<div class="sech"><h3 class="fs5">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url]) => `<div class="libcard"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs line" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
           : "";
       })
       .join("")}</section>`;
@@ -10214,7 +10202,7 @@ function viewLibrary() {
     ]
       .map(
         ([k, n]) =>
-          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u], i) => `<a class="libcard" style="--c:${PAL[(i + 2) % PAL.length]};text-decoration:none;color:inherit" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
+          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u]) => `<a class="libcard" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
       )
       .join("")}</section>`;
   return h;
@@ -10424,7 +10412,7 @@ function myBooksTab() {
       ${(b.lessons || [])
         .map(
           (u) =>
-            `<div class="row" style="justify-content:space-between;flex-wrap:nowrap;gap:8px"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br>${(u.c.with || []).length ? `<span class="xs">Goes with: ${u.c.with.map((k) => esc(chT(unitByK(k)) || k)).join(", ")}</span><br>` : ""}<span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
+            `<div class="row between nowrap"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br>${(u.c.with || []).length ? `<span class="xs">Goes with: ${u.c.with.map((k) => esc(chT(unitByK(k)) || k)).join(", ")}</span><br>` : ""}<span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
               (S.extra?.[u.subj] || []).includes(u.k)
                 ? `<span class="xs">✓ In the plan</span>`
                 : `<button class="btn soft sm" data-act="mbplan" data-k="${esc(u.k)}">＋ Plan</button>`
@@ -10433,7 +10421,7 @@ function myBooksTab() {
         .join("")}
       <button class="link xs self-start" data-act="mbdel" data-id="${esc(b.id)}">Remove this</button></section>`,
       ).join("")
-    : `<p class="sm muted">Nothing here yet. Add notes you've written, a study guide or a workbook chapter.</p>`;
+    : `<p class="note">Nothing here yet. Add notes you've written, a study guide or a workbook chapter.</p>`;
   return `<section class="sec">${form}${list}</section>`;
 }
 function onMyBookFiles(files) {
@@ -10917,7 +10905,7 @@ function moreView() {
         return `<div class="expi ${c ? "done" : ""}" style="box-shadow:none;padding:6px 0"><span class="daybadge"><span><small>DAY</small>${day}</span></span><span style="min-width:0"><b class="h4">${esc(e.title)}</b><br><span class="xs muted"><button class="link xs" data-act="close" data-e="${e.id}">finish</button></span></span><button class="ck" data-act="check" data-e="${e.id}" aria-label="Checked today: ${esc(e.title)}">${icon("check")}</button></div>`;
       })
       .join("") || `<p class="sm"><b>Nothing running yet. Try one of these:</b></p>${ideasHtml()}`
-  }<div class="row" style="flex-wrap:nowrap"><input class="inp" id="newExp" placeholder="Add your own" maxlength="80"><button class="btn sm" data-act="addexp">Add</button></div></section>`;
+  }<div class="row nowrap"><input class="inp" id="newExp" placeholder="Add your own" maxlength="80"><button class="btn sm" data-act="addexp">Add</button></div></section>`;
   h += `<button class="btn soft sm self-start" data-act="free">We explored something else</button>`;
   return h;
 }
@@ -10994,7 +10982,7 @@ function itemDetail(it, date) {
       .filter((e) => !e.closed && e.start <= date)
       .map(
         (e) =>
-          `<div class="row" style="justify-content:space-between;flex-wrap:nowrap"><span class="sm" style="font-weight:800">${esc(e.title)}</span><button class="btn xs ${e.checks.includes(today) ? "soft" : ""}" data-act="check" data-e="${e.id}">${e.checks.includes(today) ? "Checked" : "Check"}</button></div>`,
+          `<div class="row between nowrap"><span class="sm" style="font-weight:800">${esc(e.title)}</span><button class="btn xs ${e.checks.includes(today) ? "soft" : ""}" data-act="check" data-e="${e.id}">${e.checks.includes(today) ? "Checked" : "Check"}</button></div>`,
       )
       .join("")}</div>`;
   if (it.kind === "event") {
@@ -11116,8 +11104,8 @@ function nightView() {
     d = daySettings(tm),
     al = S.alarm || { on: false, time: "06:30" };
   setSheetTitle("Tomorrow · " + fmt(tm));
-  return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="sm muted">Nothing to get ready tonight.</p>`}</section>
-   <section class="card"><h3 class="fs5">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? subjClass(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="sm muted">Nothing planned yet.</p>`}</section>
+  return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="note">Nothing to get ready tonight.</p>`}</section>
+   <section class="card"><h3 class="fs5">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? subjClass(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="note">Nothing planned yet.</p>`}</section>
    <section class="card"><h3 class="fs5">Your morning</h3><div class="fgrid"><div class="field"><label for="nWake">I'll wake up at</label><input class="inp" id="nWake" type="time" value="${al.time}" data-alarm="time"></div><div class="field"><label for="nStart">Start learning with ${esc(S.child || "my child")} at</label><input class="inp" id="nStart" type="time" value="${d.start}" data-over="${tm}"></div></div>
      <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="nAlarm" ${al.on ? "checked" : ""} data-alarm="on"><span><b class="h4">Wake-up alarm</b><br><span class="xs muted">Rings only while DeepKids is open on this phone. For a sure wake-up, also set your phone's alarm for ${clock(toMins(al.time))}.</span></span></label></section>
    <section class="card"><h3 class="fs5">Any other plans tomorrow?</h3>${quickAdd(tm)}</section>
@@ -11908,7 +11896,7 @@ function dayTimesCard() {
   };
   const n = Object.keys(ov).length;
   return `<section class="sec"><div class="sech"><h3>Day times</h3><span class="xs muted">Your usual day, and changes for some days</span></div>
-   <div class="row chips"><button class="chip" aria-pressed="${sc === "all"}" data-act="dts" data-s="all">Usual</button>${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip" aria-pressed="${wd === d}" data-act="dts" data-s="w${d}">${DAYN[d]}${Object.keys((S.dayW || {})[d] || {}).length ? " ✱" : ""}</button>`).join("")}<label class="chip pointer" aria-pressed="${isD}">📅 ${isD ? esc(fmt(dt)) : "A date"}<input type="date" id="dtDate" value="${dt || today}" style="width:1px;height:1px;opacity:0;position:absolute"></label></div>
+   <div class="row chips"><button class="chip" aria-pressed="${sc === "all"}" data-act="dts" data-s="all">Usual</button>${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip" aria-pressed="${wd === d}" data-act="dts" data-s="w${d}">${DAYN[d]}${Object.keys((S.dayW || {})[d] || {}).length ? " ✱" : ""}</button>`).join("")}<label class="chip pointer" aria-pressed="${isD}">📅 ${isD ? esc(fmt(dt)) : "A date"}<input type="date" id="dtDate" value="${dt || today}" class="unseen"></label></div>
    <div class="card"><p class="xs muted">${sc === "all" ? "Your usual times, every day." : wd != null ? `Every ${DAYFULL[wd]}. Change only what's different; the rest stays as usual.` : `Only on ${esc(fmt(dt))}. This beats the usual and the weekday times.`}</p>
     <div class="fgrid">${DTF.map(field).join("")}</div>${sc === "all" ? fxWeekRow() : ""}${n ? `<button class="link xs self-start" data-act="dtreset">Back to usual times${wd != null ? " for " + DAYN[wd] : isD ? " for this date" : ""} (${n} changed)</button>` : ""}</div>
    ${
@@ -12065,7 +12053,7 @@ function todoTab() {
       `<div class="taskrow ${t.done ? "done" : ""}"><button class="ckb" data-act="tdtick" data-t="${t.id}" aria-label="Done: ${esc(t.title)}">${icon("check")}</button><div style="flex:1;min-width:0"><b style="font-weight:800">${esc(t.title)}</b><p class="xs muted">${t.done ? "Done today" : t.date < today ? "From " + fmt(t.date) + " · still open" : when(t.date)}${t.who && ROLE[t.who] ? " · " + esc(ROLE[t.who]) : ""}</p></div>${t.done ? "" : `<button class="link xs" data-act="todomove" data-t="${t.id}">Tomorrow</button><button class="link xs" data-act="tododel" data-t="${t.id}">Remove</button>`}</div>`;
   const byDay = {};
   open.forEach((p) => (byDay[p.due] = byDay[p.due] || []).push(p));
-  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="xs muted">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}</section>`;
+  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="note">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3>Get ready for lessons</h3><span class="pill">${open.length}</span></div><p class="xs muted">Prep and things to gather for the next 7 days of lessons. Ticking here also ticks it on Today.</p>
     ${
       open.length
@@ -12487,6 +12475,13 @@ const upList = (t) => {
 };
 // the one project Today shows: the one already started, else one you queued, else the next in the plan; when it is
 // finished the next one takes its place
+// the project row counts as done on the day the family started the project (a project that runs several days) or finished it
+function projectDoneOn(pj, date) {
+  if (!pj.ref?.startsWith("fx:")) return false;
+  const [id, pid] = pj.ref.slice(3).split("|"),
+    D = fxSt().done[id] || {};
+  return D["start:" + pid] === date || D["at:" + pid] === date;
+}
 function nextProject() {
   if (_planMemo && "proj" in _planMemo) return _planMemo.proj;
   const L = workItems(true).filter((x) => x.ty === "proj"),
@@ -12674,9 +12669,9 @@ function toldView() {
           )}</div><div class="row"><button class="btn sm" data-act="ted" data-id="">Done</button><button class="link sm err" data-act="evdel" data-id="${e.id}">Remove</button></div></div>`
       : `<div class="pk ${e.start ? "" : "warn"}"><span class="eyebrow">${esc(EVK[e.kind] || "Plan")}${e.src === "gcal" ? " · Google Calendar" : ""}</span><b>${esc(e.title)}</b><p class="sm">${esc(evLine(e))}${e.who === "kid" ? ` · ${esc(S.child || "child")} alone` : e.who === "both" ? " · together" : ""}</p>${e.start ? "" : `<p class="xs err">Add a time so the day plan can work around it.</p>`}${e.src === "gcal" ? "" : `<div class="row"><button class="link sm" data-act="ted" data-id="${e.id}">Change</button></div>`}</div>`;
   let h = `<p class="sm muted">Everything you've added: by typing, chatting, photos or by hand. Change or remove anything here, and the plan follows.</p>`;
-  h += `<section class="sec"><div class="sech"><h3 class="fs5">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm self-start" data-act="toplan">+ Add or change plans</button></section>`;
-  h += `<section class="sec"><div class="sech"><h3 class="fs5">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm err" data-act="tddel" data-id="${t.id}">Remove</button></div></div>`).join("") : `<p class="xs muted">No open to-dos.</p>`}</section>`;
-  h += `<section class="sec"><div class="sech"><h3 class="fs5">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm err" data-act="notedel" data-id="${n.id}">Remove</button></div></div>`).join("") : `<p class="xs muted">No notes.</p>`}</section>`;
+  h += `<section class="sec"><div class="sech"><h3 class="fs5">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="note">Nothing yet.</p>`}<button class="btn soft sm self-start" data-act="toplan">+ Add or change plans</button></section>`;
+  h += `<section class="sec"><div class="sech"><h3 class="fs5">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm err" data-act="tddel" data-id="${t.id}">Remove</button></div></div>`).join("") : `<p class="note">No open to-dos.</p>`}</section>`;
+  h += `<section class="sec"><div class="sech"><h3 class="fs5">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm err" data-act="notedel" data-id="${n.id}">Remove</button></div></div>`).join("") : `<p class="note">No notes.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3 class="fs5">What you said</h3><span class="pill">${L.length}</span></div>${L.length ? L.map((x) => `<details class="card"><summary><b class="sm">${esc(fmt(x.date))} · ${esc(new Date(x.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }))}</b><br><span class="sm">${esc(x.text.split("\n")[0].slice(0, 120))}</span></summary><div class="chat mt8"><div class="bub me">${esc(x.text).replace(/\n/g, "<br>")}</div>${(x.chat || []).map((c) => `<div class="bub cl">${esc(c.q)}</div><div class="bub me">${esc(c.a)}</div>`).join("")}</div>${x.added?.length ? `<p class="xs muted">Added to the plan:</p><ul class="sm">${x.added.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : ""}</details>`).join("") : `<p class="xs muted">Messages you send in the Planner are kept here from now on.</p>`}</section>`;
   return h;
 }
@@ -12972,7 +12967,7 @@ function yearOrbit() {
   }
   S.subjects.forEach((s, i) => {
     const r = 66 + i * 24;
-    o += `<circle class="${subjClass(s)}" cx="${c}" cy="${c}" r="${r}" fill="none" style="stroke:color-mix(in srgb,var(--c) 30%,transparent)" stroke-width="10"/>`;
+    o += `<circle class="ringbg ${subjClass(s)}" cx="${c}" cy="${c}" r="${r}" fill="none" stroke-width="10"/>`;
     plannedUnits(s).forEach((u) => {
       const d = fd[u.k];
       if (!d) return;
@@ -13015,7 +13010,7 @@ function sessMap() {
 }
 // the same key under every calendar view: one colour per subject, everywhere in the app
 const calLegend = () =>
-  `<div class="callegend">${S.subjects.map((s) => `<span class="${subjClass(s)}"><i></i>${SUBJ[s]}</span>`).join("")}<span><i class="todo" style="--c:var(--muted)"></i>planned</span><span><i style="--c:var(--muted)"></i>done</span><span><i style="--c:var(--gum);border-radius:2px;transform:rotate(45deg)"></i>class or outing</span></div>`;
+  `<div class="callegend">${S.subjects.map((s) => `<span class="${subjClass(s)}"><i></i>${SUBJ[s]}</span>`).join("")}<span><i class="todo" style="--c:var(--muted)"></i>planned</span><span><i style="--c:var(--muted)"></i>done</span><span><i class="dia"></i>class or outing</span></div>`;
 function monthView() {
   const by = sessMap(),
     b = new Date(parse(today));
@@ -13221,7 +13216,7 @@ function shopView() {
      L.length
        ? `${buy.length ? `<h3>To buy · ${buy.filter((g) => !g.got).length} left</h3><div class="card" style="gap:0">${buy.map(row).join("")}</div>` : ""}${home.length ? `<h3>From home · ${home.filter((g) => !g.got).length} left</h3><div class="card" style="gap:0">${home.map(row).join("")}</div>` : ""}
    ${left.length ? `<div class="row"><button class="btn sm" data-act="shopcopy" data-r="${r}">Copy the list</button></div><p class="xs muted">Paste it into WhatsApp, BigBasket or Amazon. Each 🛒 opens that item on Amazon, to add to your cart.</p>` : `<p class="sm">You have everything for ${SHOPR[r][0].toLowerCase()}.</p>`}`
-       : `<p class="sm muted">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
+       : `<p class="note">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
    }</section>`;
 }
 // Plan: Calendar, Up next, To finish, Shopping, Refresher, and Plan settings
@@ -14101,7 +14096,7 @@ function lifeTab() {
    <section class="sec"><div class="sech"><h3>Learning from life</h3><span class="xs muted">${M.length}</span></div>${
      M.length
        ? `<div class="card" style="gap:0">${M.map((m) => `<button class="menurow" data-act="lifeopen" data-id="${m.id}"><span class="fs6">${LIFEK[m.kind][0]}</span><span><b>${esc(m.title)}</b><br><span class="xs muted">${esc(fmt(m.date))}${m.mins ? " · " + hmin(m.mins) : ""}${m.links.length ? ` · ${m.links.length} topic${m.links.length === 1 ? "" : "s"}` : ""}</span></span>${icon("next")}</button>`).join("")}</div>`
-       : `<p class="sm muted">Nothing yet. Cooking, gardening, a trip, a big question: add it and see what it teaches.</p>`
+       : `<p class="note">Nothing yet. Cooking, gardening, a trip, a big question: add it and see what it teaches.</p>`
    }</section>`;
 }
 // books, games and kits from the home shelf, ticked off next to the lesson they went with (07-day-plan)
@@ -14424,7 +14419,19 @@ function onTrackView() {
         exp = Math.min(schoolExp, pace),
         gap = done - exp,
         catchUp = U.filter((u) => !isDone(u)).slice(0, Math.max(0, -gap)),
-        extras = all.filter((u) => isDone(u) && !U.includes(u));
+        // topics done at any level count as extras, whatever level the family chose for the subject
+        extras = [
+          ...new Map(
+            [
+              ...everyUnit(),
+              ...Object.keys(DATA.units || {})
+                .filter((id) => id.split(".")[0] === s)
+                .map((id) => unitBy("unit|" + id)),
+            ]
+              .filter((u) => u && u.subj === s && isDone(u) && !U.includes(u))
+              .map((u) => [u.k, u]),
+          ).values(),
+        ];
       const pc = (n) => Math.round((100 * n) / U.length),
         bar = (cls, label, n) =>
           `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
@@ -14450,7 +14457,7 @@ function viewJourneyTabs() {
     );
     const [, subjects, rest] = o
       .replace(
-        /^<section class="sec mt8"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
+        /^<section class="sec pagetop"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
         '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
       )
       .match(/^([\s\S]*?<\/section>)([\s\S]*)$/);
@@ -14654,7 +14661,7 @@ function examView() {
     <div class="exdots">${X.qs.map((_, i) => `<button class="${i === E.qi ? "on" : ""} ${t.ans[s + "|" + i] !== undefined ? "ans" : ""}" data-act="tjump" data-i="${i}" aria-label="Question ${i + 1}"></button>`).join("")}</div>
     ${q.passage ? `<div class="ask exp"><span class="eyebrow">${q.passage === prevP ? "Same passage" : "Read this"}</span>${esc(q.passage)}</div>` : ""}
     <p class="exqt">${esc(q.q)}</p><div class="col" style="gap:10px">${q.opts.map((o, i) => `<button class="exopt" aria-pressed="${v === i}" data-act="tans" data-i="${i}"><b>${ABCD[i]}</b><span>${esc(o)}</span></button>`).join("")}</div>
-    <div class="row" style="justify-content:space-between;margin-top:14px"><button class="btn line sm" data-act="tmove" data-d="-1" ${E.qi ? "" : "disabled"}>Back</button>${last ? `<button class="btn green sm" data-act="tfin">${un ? `Finish ${esc(SUBJ[s])} (${un} not answered)` : `Finish ${esc(SUBJ[s])}`}</button>` : `<button class="btn sm" data-act="tmove" data-d="1">${v === undefined ? "Skip" : "Next"}</button>`}</div></div>`;
+    <div class="row between mt14"><button class="btn line sm" data-act="tmove" data-d="-1" ${E.qi ? "" : "disabled"}>Back</button>${last ? `<button class="btn green sm" data-act="tfin">${un ? `Finish ${esc(SUBJ[s])} (${un} not answered)` : `Finish ${esc(SUBJ[s])}`}</button>` : `<button class="btn sm" data-act="tmove" data-d="1">${v === undefined ? "Skip" : "Next"}</button>`}</div></div>`;
 }
 const DOCCSS = `body{font:14px/1.5 system-ui,sans-serif;color:#222;max-width:820px;margin:24px auto;padding:0 16px}h1{font-size:22px;margin:0}h2{font-size:17px;margin:24px 0 6px;border-bottom:2px solid #333;padding-bottom:3px}table{border-collapse:collapse;width:100%;margin:6px 0}th,td{border:1px solid #bbb;padding:5px 8px;text-align:left;vertical-align:top}th{background:#f2f2f2}.muted{color:#666}.sm{font-size:12px}ol{padding-left:22px}li{margin:10px 0;break-inside:avoid}.op{display:block;margin:2px 0 2px 6px}.ok{color:#1e7a3c;font-weight:700}.no{color:#b03a2e;font-weight:700}.pass{border-left:3px solid #999;padding:4px 10px;margin:6px 0;background:#f7f7f7}.sig{display:flex;gap:40px;margin-top:40px}.sig div{flex:1;border-top:1px solid #333;padding-top:4px;font-size:12px}.cert{border:6px double #555;padding:28px;text-align:center}.cert h1{font-size:26px}.big{font-size:34px;font-weight:800;margin:6px 0}.tw{overflow-x:auto}@media(max-width:520px){.cert{padding:14px}.big{font-size:26px}th,td{padding:4px 5px;font-size:12.5px}}@media print{body{margin:0}h2{break-after:avoid}}`;
 const docWrap = (title, body) =>
@@ -15341,7 +15348,7 @@ function trackView() {
               `<div class="hbar"><span class="sm"><b>${esc(SUBJ[s])}</b> · ${hmin(sub[s].m)} on ${sub[s].days} day${sub[s].days === 1 ? "" : "s"}</span><div class="hb"><i style="width:${(sub[s].m / smax) * 100}%;background:${CHC[s]}"></i></div></div>`,
           )
           .join("")}</div>`
-      : `<p class="xs muted">Nothing yet.</p>`
+      : `<p class="note">Nothing yet.</p>`
   }</section>`;
   return h;
 }
@@ -16012,7 +16019,7 @@ function jsubView() {
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),
     W = workOf().filter((w) => unitBy(w.k)?.subj === s);
-  let h = `<section class="chero ${subjClass(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
+  let h = `<section class="chero ${subjClass(s)}" style="min-height:140px"><span class="eyebrow">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
   h += `<section class="card"><h3 class="fs5">How well</h3>${(() => {
     let ans = 0,
       tot = 0,
@@ -16148,7 +16155,7 @@ function viewJourney0() {
     Qn = quotes().length,
     W = workOf().length,
     bs = boardsOn();
-  let h = `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
+  let h = `<section class="sec pagetop"><div class="sech"><h1>${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
   const rows = [
     [
       "high",
@@ -16339,7 +16346,7 @@ function loginView() {
   const intro = `<div class="fxintro" id="fxintro">${DATA.welcome.map(([img, t, p, pts, tag]) => `<div class="fxslide2"><img src="media/ui/${img}.jpg" alt=""><h2>${t}</h2><p>${p}</p><div class="fxpts">${pts.map(([b, x]) => `<div><b>${b}</b><span>${x}</span></div>`).join("")}</div>${tag ? `<span class="fxtag">${tag}</span>` : ""}</div>`).join("")}</div><div class="fxdots">${DATA.welcome.map((_, i) => `<i class="${i ? "" : "on"}"></i>`).join("")}</div>`;
   return `<div class="ob">${intro}<div><span class="eyebrow">DeepKids Gurukul</span><h1 class="mt6">Log in</h1><p class="muted mt6">Testing mode, so no OTP yet. The same number always brings back the same family. You stay logged in until you log out.</p></div>
    ${known.length ? `<div class="col" style="gap:8px"><span class="eyebrow">Used on this phone</span>${known.map((k) => `<button class="menurow" data-act="loginas" data-a="${esc(k.acct)}">${youBlob("", "happy", 'width="40" height="40"')}<span><b>${esc(k.name || "Parent")}</b><br><span class="xs muted">+91 ${esc(String(k.acct).slice(2))}${k.child ? " · " + esc(k.child) + "'s family" : ""}</span></span>${icon("next")}</button>`).join("")}</div><span class="eyebrow">Or a different number</span>` : ""}
-   <div class="field"><label for="lgPhone">Phone number</label><div class="row" style="flex-wrap:nowrap"><span class="chip" style="height:50px;padding:0 14px;font-size:var(--fs-4)">+91</span><input class="inp" id="lgPhone" type="tel" inputmode="numeric" autocomplete="tel-national" maxlength="16" placeholder="98765 43210"></div></div>
+   <div class="field"><label for="lgPhone">Phone number</label><div class="row nowrap"><span class="chip cc">+91</span><input class="inp" id="lgPhone" type="tel" inputmode="numeric" autocomplete="tel-national" maxlength="16" placeholder="98765 43210"></div></div>
    <div class="field"><label for="lgName">Your name</label><input class="inp" id="lgName" maxlength="40" autocomplete="given-name" placeholder="Your name"></div>
    <p class="sm err" id="lgErr" ${ui.lgErr ? "" : "hidden"}>${esc(ui.lgErr || "")}</p>
    <button class="btn" data-act="login" ${ui.lgBusy ? "disabled" : ""}>${ui.lgBusy ? "Logging in…" : "Log in"}${icon("next")}</button></div>`;
@@ -17746,7 +17753,7 @@ function openEditor(node) {
   d.id = "dkEditDlg";
   d.innerHTML = `<form method="dialog" class="dked"><b>Edit this text</b><textarea rows="${Math.min(14, Math.max(3, Math.ceil(cur.length / 38)))}"></textarea>
     <p class="xs muted">Changes it everywhere it appears in the app, for every family${editPlaces(k) > 1 ? ` (${editPlaces(k)} places on this screen)` : ""}.</p>${edited ? `<details><summary class="xs">Original text</summary><p class="xs">${esc(k)}</p></details>` : ""}
-    <div class="row" style="justify-content:flex-end;gap:8px;flex-wrap:wrap">${edited ? `<button value="reset" class="btn soft sm">Back to original</button>` : ""}<button value="cancel" class="btn line sm">Cancel</button><button value="save" class="btn accent sm">Save</button></div>
+    <div class="row end">${edited ? `<button value="reset" class="btn soft sm">Back to original</button>` : ""}<button value="cancel" class="btn line sm">Cancel</button><button value="save" class="btn accent sm">Save</button></div>
     <button value="all" class="link xs self-start">All my edits (${Object.keys(EDITS).length}) · download</button></form>`;
   d.querySelector("textarea").value = cur;
   document.body.appendChild(d);
@@ -18065,8 +18072,7 @@ function segBar(k) {
     L = SEGS[k];
   return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
-const pageHead = (t, extra = "") =>
-  `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${t}</h1>${extra}</div>`;
+const pageHead = (t, extra = "") => `<section class="sec pagetop"><div class="sech"><h1>${t}</h1>${extra}</div>`;
 const navSnap = () => ({
   tab,
   lt: ui.lt,
