@@ -17,7 +17,7 @@
    .dkg .box{max-width:400px;width:100%;display:grid;gap:16px;text-align:center}.dkg p{margin:0;line-height:1.5;color:#5d5670}
    .dkg h1{font-size:28px;margin:0}.dkg .lead{font-size:17px;font-weight:600;color:#2B2340;margin-top:-8px}.dkg .who{font-size:14.5px;margin-top:-10px}
    .dkg button{display:flex;gap:10px;align-items:center;justify-content:center;width:100%;padding:14px 18px;border-radius:16px;border:2px solid rgba(43,35,64,.15);background:#fff;font:600 17px system-ui,sans-serif;cursor:pointer;color:#2B2340}
-   .dkg button:active{transform:scale(.98)}.dkg .err{color:#b03a2e;font-size:14px}.dkg small{color:#776f8a;font-size:12.5px;line-height:1.5}
+   .dkg button:active{transform:scale(.98)}.dkg .dkalt{border:0;background:none;color:#776f8a;font:500 13px system-ui,sans-serif;text-decoration:underline;padding:6px;width:auto;justify-self:center}.dkg .err{color:#b03a2e;font-size:14px}.dkg small{color:#776f8a;font-size:12.5px;line-height:1.5}
    .dkg .swipe{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;margin:0 -18px;padding:0 18px}.dkg .swipe::-webkit-scrollbar{display:none}
    .dkg .slide{flex:0 0 100%;scroll-snap-align:center;display:grid;gap:12px;align-content:start}
    .dkg .slide img{width:100%;height:auto;border-radius:24px;background:#e9dcc8;display:block}
@@ -75,8 +75,10 @@
     const b=$("#dkGoogle");
     // Google's own button signs in through a pop-up, which comes back blank on phones (most of all from the home-screen
     // app), so phones use the plain button: the whole page goes to Google and comes back signed in
-    const phone=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||matchMedia("(display-mode: standalone)").matches;
-    if(b&&C.googleClientId&&!phone)googleButton(b)}
+    // Android in the browser can use Google's button too (so Google shows "DeepKids", not the database's address); iPhones and
+    // the installed home-screen app keep the plain button. A small link under Google's button gives the plain way as a way out.
+    const plainOnly=/iPhone|iPad|iPod/i.test(navigator.userAgent)||matchMedia("(display-mode: standalone)").matches;
+    if(b&&C.googleClientId&&!plainOnly){googleButton(b);if(/Android/i.test(navigator.userAgent)){const a=document.createElement("button");a.className="dkalt";a.textContent="Button not working? Sign in the other way";a.onclick=()=>sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}});document.querySelector(".dkg .gbtn,.dkg .dkgo")?.after(a)}}}
   /* With our own Google client id, Google's own button signs in on this page, so Google shows "DeepKids"
      instead of the database's address. Without it (or if Google's script can't load) the plain button above is used. */
   function googleButton(b){
