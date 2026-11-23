@@ -8915,74 +8915,14 @@ const sticker = (s) => `<span class="sticker ${s}">${STATUS[s]}</span>`;
 const PLV = ["gentle", "core", "stretch"],
   PLN = { gentle: "Gentle", core: "Core", stretch: "Stretch" },
   PDN = { explore: "Explore", deep: "Deep", challenge: "Challenge" };
-const PLD = {
-  gentle: "More pictures, fewer words, one step at a time",
-  core: "Right for the class: practice and a little thinking",
-  stretch: "Harder puzzles, more writing and reasoning",
-};
-const PDD = {
-  explore: "Hands-on and playful first",
-  deep: "A balance of doing and thinking",
-  challenge: "Lots of big questions and design tasks",
-};
 const defLvl = (s) => {
   const l = S.levels?.[s] || 1;
   return l <= 2 ? "gentle" : l >= 5 ? "stretch" : "core";
 };
+// how worksheets are picked for a subject: from the level of its class, unless a saved choice says otherwise
 function profOf(s) {
   const p = (S.prof || {})[s] || {};
-  return {
-    lvl: p.lvl || defLvl(s),
-    depth: p.depth || "deep",
-    auto: p.auto !== false,
-    why: p.why || "",
-    at: p.at || "",
-  };
-}
-/* recent answers in a subject: raise the level when it's easy, lower it when it's hard (at most once a week) */
-function profAuto() {
-  if (!S.setup) return;
-  const M = Object.values(lastAnswers()).filter((x) => x.d);
-  let ch = false;
-  S.subjects.forEach((s) => {
-    const p = profOf(s);
-    if (!p.auto || (p.at && (parse(today) - parse(p.at)) / 864e5 < 7)) return;
-    const A = M.filter((x) => unitByK(x.k)?.subj === s)
-      .sort((a, b) => (a.d < b.d ? 1 : -1))
-      .slice(0, 20);
-    if (A.length < 8) return;
-    const acc = A.filter((x) => x.r).length / A.length,
-      i = PLV.indexOf(p.lvl);
-    let to = null,
-      why = "";
-    if (acc >= 0.85 && A.length >= 10 && i < 2) {
-      to = PLV[i + 1];
-      why = `${Math.round(acc * 100)}% right in the last ${A.length} answers`;
-    } else if (acc <= 0.5 && i > 0) {
-      to = PLV[i - 1];
-      why = `${Math.round(acc * 100)}% right in the last ${A.length} answers`;
-    }
-    if (to) {
-      S.prof = { ...(S.prof || {}), [s]: { ...((S.prof || {})[s] || {}), lvl: to, why, at: today } };
-      ch = true;
-    }
-  });
-  if (ch) save();
-}
-function profCard() {
-  return `<section class="sec"><div class="sech"><h3>Learning profile</h3><span class="xs muted">${esc(S.child || "Your child")}'s level and depth in each subject</span></div>
-  ${S.subjects
-    .map((s) => {
-      const p = profOf(s);
-      return `<div class="card ${subjClass(s)}" style="gap:6px"><div class="sech"><b class="h4">${SUBJ[s]}</b><label class="xs"><input type="checkbox" data-pauto="${s}" ${p.auto ? "checked" : ""}> Adjust by itself</label></div>
-   <div class="seg">${PLV.map((l) => `<button aria-pressed="${p.lvl === l}" data-act="plv" data-s="${s}" data-v="${l}">${PLN[l]}</button>`).join("")}</div><p class="xs muted">${PLD[p.lvl]}${p.why ? ` · changed on ${esc(fmt(p.at))}: ${esc(p.why)}` : ""}</p>
-   <div class="seg">${Object.keys(PDN)
-     .map(
-       (d) => `<button aria-pressed="${p.depth === d}" data-act="pdep" data-s="${s}" data-v="${d}">${PDN[d]}</button>`,
-     )
-     .join("")}</div><p class="xs muted">${PDD[p.depth]}</p></div>`;
-    })
-    .join("")}</section>`;
+  return { lvl: p.lvl || defLvl(s), depth: p.depth || "deep" };
 }
 const BNAME = {
   combined: "Combined",
@@ -9050,25 +8990,6 @@ const MODES = {
     "var(--gum)",
   ],
 };
-
-/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
-Object.assign(ACT, {
-  pdep(b, e, a, k) {
-    const s = b.dataset.s,
-      f = a === "plv" ? "lvl" : "depth";
-    S.prof = {
-      ...(S.prof || {}),
-      [s]: {
-        ...((S.prof || {})[s] || {}),
-        [f]: b.dataset.v,
-        ...(a === "plv" ? { why: "set by you", at: today } : {}),
-      },
-    };
-    sfx("tick");
-    save();
-    render();
-  },
-});
 
 /* The day's plan: lessons, routines, classes and outings, calendars, reminders, prep */
 const HINT = {
@@ -14209,9 +14130,10 @@ function quizPastView() {
   return `<button class="link" data-act="qzback">← Quick quiz</button><h3>${r.score} of ${r.items.length} right · ${esc(fmt(r.date))}</h3><ol class="sm">${r.items.map((x) => `<li><b>${esc(x.q)}</b> ${x.r ? "✓" : "✗"}<br>${esc(x.a)} <span class="xs muted">· ${esc(chT(unitByK(x.k)))}</span></li>`).join("")}</ol>`;
 }
 /* lists and refresher settings */
+const quizBtn = `<button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz: choose your own questions</button>`;
 function rfsetView() {
   setSheetTitle("Refresher");
-  return rfsetBody() + rfTiming();
+  return rfsetBody() + quizBtn + rfTiming();
 }
 // the refresher: what is unfinished, what is completed but not mastered, and what is mastered
 function rfsetBody() {
@@ -14222,7 +14144,7 @@ function rfsetBody() {
       `<section class="card"><div class="sech"><b class="h5">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
     mastered = [...new Set(Object.values(S.rfq || {}).map((x) => x.k))].filter((k) => rfRight(k) >= RF_PER);
   if (!Q.length && !mastered.length)
-    return `<p class="note">Nothing to refresh yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p><button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz</button>`;
+    return `<p class="xs muted">No finished units to revise yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p>`;
   return `<p class="sm">Every unit your child completes comes back until they answer ${RF_PER} of its questions right. A day's refresher is at most ${RF_MAX} questions, ${RF_PER} from each of up to ${RF_MAX / RF_PER} units, taking turns across all subjects.</p>
    ${box(
      "Not finished",
@@ -14239,7 +14161,7 @@ function rfsetBody() {
      `5 questions answered right. They come back every ${RFS().mastered.every} days to keep fresh.`,
      mastered.map((k) => row(k, (rfIsDk(k) ? k.slice(5).split(".")[0] : unitByK(k)?.subj) || "", rfRight(k))),
    )}
-   <button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz</button>`;
+`;
 }
 // how long the daily refresher is, on which days, and how often mastered units come back (Plan → Plan settings)
 function rfTiming() {
@@ -15748,6 +15670,7 @@ function fxDraw(open, cards) {
     <div class="fxtitle"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><span class="fxlab">About this unit</span><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
     <div class="fxtiles"><span><b>${SD}</b>${it ? "session" : "day"}${SD === 1 ? "" : "s"}</span><span><b>${SL.length}</b>parts</span><span><b>${done}</b>done</span>${fxStar()}</div>${ref ? `<p class="fxmeta">${esc(ref)}</p>` : ""}</div></header>
     <div class="fxcols"><div class="fxcol">${fxLearn(u)}${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
+    <p class="fxsm">${rank[fxUnitSt("unit|" + u.id)] >= 2 ? "✓ This unit counts as done and comes back in the refresher. " : ""}<button class="link xs" data-fx="unitdone">${fxSt().done[u.id]?.["unit:man"] ? "Undo mark as done" : "Already know this? Mark the unit done"}</button></p>
     ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${fxKC(SL[cont].kind)[0]}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
     <div class="fxjump">${groups.map((g) => `<button data-fx="jump" data-g="${g}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}${FXKC[g][4]}</button>`).join("")}</div>
     ${groups
@@ -16160,6 +16083,17 @@ function fxClick(e) {
     F = fxSt(),
     d = document.getElementById("fxDlg");
   if (a === "close") return fxClose();
+  if (a === "unitdone") {
+    const D = (F.done[u.id] = F.done[u.id] || {});
+    if (D["unit:man"]) delete D["unit:man"];
+    else {
+      D["unit:man"] = today;
+      sfx("ok");
+      toast("Marked done. It comes back in the refresher.");
+    }
+    commit();
+    return fxDraw(-1, "");
+  }
   if (a === "map") return fxMap();
   if (a === "sec") return fxGo(+b.dataset.s, +(b.dataset.c || 0));
   if (a === "jump") return fxScrollTo([...d.querySelectorAll(".fxgroup")].find((x) => x.dataset.g === b.dataset.g));
@@ -16456,7 +16390,13 @@ function fxUnitSt(k) {
     X = fxStates(id),
     sp = new Set(fxCoreOf(P).map((p) => p[0]));
   if (X.length && X.every((x) => x === "done")) return "mastered";
-  if (P.every((p, i) => !sp.has(p[0]) || X[i] === "done")) return "completed";
+  // done: marked by the family, or four in five of the main parts finished (the extras are optional)
+  const core = P.map((p, i) => [p, X[i]]).filter(([p]) => sp.has(p[0]));
+  if (
+    fxSt().done[id]?.["unit:man"] ||
+    (core.length && core.filter(([, x]) => x === "done").length / core.length >= 0.8)
+  )
+    return "completed";
   return X.some((x) => x !== "none") ? "learning" : "none";
 }
 // Today ticks a unit's lesson done when its day's parts are all done, or the day's time is used up, whichever comes first
@@ -16648,11 +16588,11 @@ function fxPractiseAll() {
     return last ? addDays(last, FXGAP[Math.min(r.n, 3)]) : today;
   };
   const w = U.length
-    ? `<p class="xs"><b>Questions you got wrong</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try them</button></div>`).join("")}`
+    ? `<p class="xs"><b>Questions to try again</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try ${x.n === 1 ? "it" : x.n}</button></div>`).join("")}`
     : "";
   const d =
     done.length || L.length
-      ? `<p class="xs" style="margin-top:10px"><b>Finished, to keep fresh</b></p>${done
+      ? `<p class="xs" style="margin-top:10px"><b>Finished units, to keep fresh</b></p>${done
           .map((id) => {
             const dd = due(id);
             return `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[id].title)} · <span class="muted">${dd <= today ? "due now" : "next review " + fmt(dd)}</span></span><button class="btn soft sm" data-act="fxpart" data-fxrev="${esc(id)}" data-u="${esc(id)}" data-p="quiz">Review</button></div>`;
@@ -16936,16 +16876,23 @@ function fxTopicLadder(sj) {
     at = (t) => t.levels.find(([l]) => +l === lv)?.[1] || [],
     all = T.flatMap(at),
     have = all.filter(([id]) => DATA.units?.[id]),
+    // units already begun come first, the most finished on top; the rest keep the order of the topic ladder
+    parts = (id) => fxStates(id).filter((x) => x === "done").length,
+    begun = have
+      .filter(([id]) => fxStates(id).some((x) => x !== "none"))
+      .map((x, i) => [x, parts(x[0]), i])
+      .sort((a, b) => b[1] - a[1] || a[2] - b[2])
+      .map(([x]) => x),
     strands = [...new Set(T.map((t) => t.strand))]
       .map((st) => [
         st,
         T.filter((t) => t.strand === st)
           .flatMap(at)
-          .filter(([id]) => DATA.units?.[id]),
+          .filter(([id]) => DATA.units?.[id] && !begun.some(([b]) => b === id)),
       ])
       .filter(([, L]) => L.length);
   const body = `<p class="xs muted">Level ${lv} is about Class ${DATA.levels?.[lv]?.cls || lv}. Add any unit to your plan, alongside your class plan.${["combined", "none"].includes(S.board) ? "" : " Units with a 🔒 open on the DeepKids track."}</p>
-   <section class="fxnew">${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
+   <section class="fxnew">${begun.length ? `<h3 class="fxsh">Started</h3>${fxUnitBtns(begun.map(([id]) => DATA.units[id]))}` : ""}${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
   return {
     ctl:
       dkViewPick(sj) +
@@ -19673,6 +19620,19 @@ function stateCtl(ty, u, id) {
       `<button class="link xs" data-act="ist" data-ty="${ty}" data-k="${u.k}" data-id="${id}" data-to="${to}">${l}</button>`;
   return `<div class="wkctl ${cls}"><span class="xs"><b>${lab}${s === "done" ? " ✓" : ""}</b>${qTag(ty, u, id, s)}</span><div class="row" style="gap:8px;flex-wrap:wrap">${qCtl(ty, u, id, s)}${s === "none" && ui.qpick !== ty + ":" + u.k + "|" + id ? b("skip", "Not doing this") : s === "skip" ? b("none", "Undo") : s === "done" && ty === "ws" ? b("undo", "Undo finished") : ""}</div></div>`;
 }
+// which track the family chose, and the way to change it
+function trackCard() {
+  const b = S.board;
+  return `<section class="sec"><div class="sech"><h3>Your track</h3></div><div class="card"><b>${
+    b === "combined" || b === "waldorf"
+      ? BOARDN[b]
+      : "Board track · " +
+        (boardsOn()
+          .map((x) => BOARDN[x])
+          .filter(Boolean)
+          .join(", ") || BOARDN[b])
+  }</b><p class="xs muted">${b === "combined" ? "Led by topics: every topic NCERT, Cambridge and NIOS teach in a class, and much more." : b === "waldorf" ? "A way of teaching, not a board." : "Led by your textbook, chapter by chapter, with the DeepKids layer."}</p><button class="btn soft sm self-start" data-act="redo">Change track or subjects</button></div></section>`;
+}
 function subjCard() {
   return `<section class="sec"><div class="sech"><h3>Subjects</h3><span class="xs muted">Tap to add or leave out</span></div><div class="row chips">${visSubj(
     S.board,
@@ -20803,7 +20763,7 @@ function planPart(k) {
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
   if (k === "tell")
-    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
+    return `<div id="paceSec">${trackCard()}${dayFitNote()}${dayTimesCard()}${subjCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PLAN_VIEWS)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)
@@ -20891,7 +20851,13 @@ function viewPlanner() {
   if (k === "next") return head + planPart("queue");
   // To finish: one subject filter, then the two lists one after the other
   if (k === "finish") return head + finishView();
-  if (k === "refresh") return head + `<section class="sec">${rfsetBody()}</section>` + fxPractiseAll();
+  if (k === "refresh")
+    return (
+      head +
+      `<section class="sec"><div class="sech"><h3>Today's refresher</h3></div>${rfsetBody()}</section>` +
+      fxPractiseAll() +
+      `<section class="sec">${quizBtn}</section>`
+    );
   if (k === "shop") return head + shopView();
   return head + planPart("tell");
 }
@@ -25916,12 +25882,6 @@ function render() {
   }
 }
 function drawAll() {
-  if (ui.profDay !== today) {
-    ui.profDay = today;
-    try {
-      profAuto();
-    } catch (e) {}
-  }
   sciMerge();
   const main = document.getElementById("main"),
     place = scrollSnap(main);
@@ -26222,7 +26182,6 @@ ACT.ioskip = ACT.ioskipday;
 ACT.iosnz = ACT.ioskipday;
 ACT.iodone = ACT.ioskipday;
 ACT.rslike = ACT.rsdone;
-ACT.plv = ACT.pdep;
 /* event dialog */
 const pick = document.getElementById("pick");
 function openPicker() {
@@ -26267,14 +26226,6 @@ document.addEventListener("change", (e) => {
   if (e.target.id === "wsPhoto") {
     aiCheckPhoto(e.target.dataset.k, [...e.target.files].slice(0, 4));
   }
-});
-/* re-check the profile once a day */
-document.addEventListener("change", (e) => {
-  const s = e.target.dataset?.pauto;
-  if (!s) return;
-  S.prof = { ...(S.prof || {}), [s]: { ...((S.prof || {})[s] || {}), auto: e.target.checked } };
-  save();
-  render();
 });
 document.addEventListener("visibilitychange", () => {
   if (document.hidden) {

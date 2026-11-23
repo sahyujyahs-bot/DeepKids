@@ -1080,6 +1080,7 @@ function fxDraw(open, cards) {
     <div class="fxtitle"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><span class="fxlab">About this unit</span><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
     <div class="fxtiles"><span><b>${SD}</b>${it ? "session" : "day"}${SD === 1 ? "" : "s"}</span><span><b>${SL.length}</b>parts</span><span><b>${done}</b>done</span>${fxStar()}</div>${ref ? `<p class="fxmeta">${esc(ref)}</p>` : ""}</div></header>
     <div class="fxcols"><div class="fxcol">${fxLearn(u)}${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
+    <p class="fxsm">${rank[fxUnitSt("unit|" + u.id)] >= 2 ? "✓ This unit counts as done and comes back in the refresher. " : ""}<button class="link xs" data-fx="unitdone">${fxSt().done[u.id]?.["unit:man"] ? "Undo mark as done" : "Already know this? Mark the unit done"}</button></p>
     ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${fxKC(SL[cont].kind)[0]}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
     <div class="fxjump">${groups.map((g) => `<button data-fx="jump" data-g="${g}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}${FXKC[g][4]}</button>`).join("")}</div>
     ${groups
@@ -1492,6 +1493,17 @@ function fxClick(e) {
     F = fxSt(),
     d = document.getElementById("fxDlg");
   if (a === "close") return fxClose();
+  if (a === "unitdone") {
+    const D = (F.done[u.id] = F.done[u.id] || {});
+    if (D["unit:man"]) delete D["unit:man"];
+    else {
+      D["unit:man"] = today;
+      sfx("ok");
+      toast("Marked done. It comes back in the refresher.");
+    }
+    commit();
+    return fxDraw(-1, "");
+  }
   if (a === "map") return fxMap();
   if (a === "sec") return fxGo(+b.dataset.s, +(b.dataset.c || 0));
   if (a === "jump") return fxScrollTo([...d.querySelectorAll(".fxgroup")].find((x) => x.dataset.g === b.dataset.g));
@@ -1788,7 +1800,13 @@ function fxUnitSt(k) {
     X = fxStates(id),
     sp = new Set(fxCoreOf(P).map((p) => p[0]));
   if (X.length && X.every((x) => x === "done")) return "mastered";
-  if (P.every((p, i) => !sp.has(p[0]) || X[i] === "done")) return "completed";
+  // done: marked by the family, or four in five of the main parts finished (the extras are optional)
+  const core = P.map((p, i) => [p, X[i]]).filter(([p]) => sp.has(p[0]));
+  if (
+    fxSt().done[id]?.["unit:man"] ||
+    (core.length && core.filter(([, x]) => x === "done").length / core.length >= 0.8)
+  )
+    return "completed";
   return X.some((x) => x !== "none") ? "learning" : "none";
 }
 // Today ticks a unit's lesson done when its day's parts are all done, or the day's time is used up, whichever comes first
@@ -1980,11 +1998,11 @@ function fxPractiseAll() {
     return last ? addDays(last, FXGAP[Math.min(r.n, 3)]) : today;
   };
   const w = U.length
-    ? `<p class="xs"><b>Questions you got wrong</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try them</button></div>`).join("")}`
+    ? `<p class="xs"><b>Questions to try again</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try ${x.n === 1 ? "it" : x.n}</button></div>`).join("")}`
     : "";
   const d =
     done.length || L.length
-      ? `<p class="xs" style="margin-top:10px"><b>Finished, to keep fresh</b></p>${done
+      ? `<p class="xs" style="margin-top:10px"><b>Finished units, to keep fresh</b></p>${done
           .map((id) => {
             const dd = due(id);
             return `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[id].title)} · <span class="muted">${dd <= today ? "due now" : "next review " + fmt(dd)}</span></span><button class="btn soft sm" data-act="fxpart" data-fxrev="${esc(id)}" data-u="${esc(id)}" data-p="quiz">Review</button></div>`;

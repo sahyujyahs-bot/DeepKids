@@ -279,12 +279,6 @@ function render() {
   }
 }
 function drawAll() {
-  if (ui.profDay !== today) {
-    ui.profDay = today;
-    try {
-      profAuto();
-    } catch (e) {}
-  }
   sciMerge();
   const main = document.getElementById("main"),
     place = scrollSnap(main);

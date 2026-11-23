@@ -93,16 +93,23 @@ function fxTopicLadder(sj) {
     at = (t) => t.levels.find(([l]) => +l === lv)?.[1] || [],
     all = T.flatMap(at),
     have = all.filter(([id]) => DATA.units?.[id]),
+    // units already begun come first, the most finished on top; the rest keep the order of the topic ladder
+    parts = (id) => fxStates(id).filter((x) => x === "done").length,
+    begun = have
+      .filter(([id]) => fxStates(id).some((x) => x !== "none"))
+      .map((x, i) => [x, parts(x[0]), i])
+      .sort((a, b) => b[1] - a[1] || a[2] - b[2])
+      .map(([x]) => x),
     strands = [...new Set(T.map((t) => t.strand))]
       .map((st) => [
         st,
         T.filter((t) => t.strand === st)
           .flatMap(at)
-          .filter(([id]) => DATA.units?.[id]),
+          .filter(([id]) => DATA.units?.[id] && !begun.some(([b]) => b === id)),
       ])
       .filter(([, L]) => L.length);
   const body = `<p class="xs muted">Level ${lv} is about Class ${DATA.levels?.[lv]?.cls || lv}. Add any unit to your plan, alongside your class plan.${["combined", "none"].includes(S.board) ? "" : " Units with a 🔒 open on the DeepKids track."}</p>
-   <section class="fxnew">${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
+   <section class="fxnew">${begun.length ? `<h3 class="fxsh">Started</h3>${fxUnitBtns(begun.map(([id]) => DATA.units[id]))}` : ""}${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
   return {
     ctl:
       dkViewPick(sj) +

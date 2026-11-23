@@ -126,7 +126,6 @@ ACT.ioskip = ACT.ioskipday;
 ACT.iosnz = ACT.ioskipday;
 ACT.iodone = ACT.ioskipday;
 ACT.rslike = ACT.rsdone;
-ACT.plv = ACT.pdep;
 /* event dialog */
 const pick = document.getElementById("pick");
 function openPicker() {

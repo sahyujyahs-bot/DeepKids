@@ -26,14 +26,6 @@ document.addEventListener("change", (e) => {
     aiCheckPhoto(e.target.dataset.k, [...e.target.files].slice(0, 4));
   }
 });
-/* re-check the profile once a day */
-document.addEventListener("change", (e) => {
-  const s = e.target.dataset?.pauto;
-  if (!s) return;
-  S.prof = { ...(S.prof || {}), [s]: { ...((S.prof || {})[s] || {}), auto: e.target.checked } };
-  save();
-  render();
-});
 document.addEventListener("visibilitychange", () => {
   if (document.hidden) {
     hiddenAt = Date.now();

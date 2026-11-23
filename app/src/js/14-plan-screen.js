@@ -143,6 +143,19 @@ function stateCtl(ty, u, id) {
       `<button class="link xs" data-act="ist" data-ty="${ty}" data-k="${u.k}" data-id="${id}" data-to="${to}">${l}</button>`;
   return `<div class="wkctl ${cls}"><span class="xs"><b>${lab}${s === "done" ? " ✓" : ""}</b>${qTag(ty, u, id, s)}</span><div class="row" style="gap:8px;flex-wrap:wrap">${qCtl(ty, u, id, s)}${s === "none" && ui.qpick !== ty + ":" + u.k + "|" + id ? b("skip", "Not doing this") : s === "skip" ? b("none", "Undo") : s === "done" && ty === "ws" ? b("undo", "Undo finished") : ""}</div></div>`;
 }
+// which track the family chose, and the way to change it
+function trackCard() {
+  const b = S.board;
+  return `<section class="sec"><div class="sech"><h3>Your track</h3></div><div class="card"><b>${
+    b === "combined" || b === "waldorf"
+      ? BOARDN[b]
+      : "Board track · " +
+        (boardsOn()
+          .map((x) => BOARDN[x])
+          .filter(Boolean)
+          .join(", ") || BOARDN[b])
+  }</b><p class="xs muted">${b === "combined" ? "Led by topics: every topic NCERT, Cambridge and NIOS teach in a class, and much more." : b === "waldorf" ? "A way of teaching, not a board." : "Led by your textbook, chapter by chapter, with the DeepKids layer."}</p><button class="btn soft sm self-start" data-act="redo">Change track or subjects</button></div></section>`;
+}
 function subjCard() {
   return `<section class="sec"><div class="sech"><h3>Subjects</h3><span class="xs muted">Tap to add or leave out</span></div><div class="row chips">${visSubj(
     S.board,
@@ -1273,7 +1286,7 @@ function planPart(k) {
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
   if (k === "tell")
-    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
+    return `<div id="paceSec">${trackCard()}${dayFitNote()}${dayTimesCard()}${subjCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PLAN_VIEWS)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)
@@ -1361,7 +1374,13 @@ function viewPlanner() {
   if (k === "next") return head + planPart("queue");
   // To finish: one subject filter, then the two lists one after the other
   if (k === "finish") return head + finishView();
-  if (k === "refresh") return head + `<section class="sec">${rfsetBody()}</section>` + fxPractiseAll();
+  if (k === "refresh")
+    return (
+      head +
+      `<section class="sec"><div class="sech"><h3>Today's refresher</h3></div>${rfsetBody()}</section>` +
+      fxPractiseAll() +
+      `<section class="sec">${quizBtn}</section>`
+    );
   if (k === "shop") return head + shopView();
   return head + planPart("tell");
 }

@@ -399,9 +399,10 @@ function quizPastView() {
   return `<button class="link" data-act="qzback">← Quick quiz</button><h3>${r.score} of ${r.items.length} right · ${esc(fmt(r.date))}</h3><ol class="sm">${r.items.map((x) => `<li><b>${esc(x.q)}</b> ${x.r ? "✓" : "✗"}<br>${esc(x.a)} <span class="xs muted">· ${esc(chT(unitByK(x.k)))}</span></li>`).join("")}</ol>`;
 }
 /* lists and refresher settings */
+const quizBtn = `<button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz: choose your own questions</button>`;
 function rfsetView() {
   setSheetTitle("Refresher");
-  return rfsetBody() + rfTiming();
+  return rfsetBody() + quizBtn + rfTiming();
 }
 // the refresher: what is unfinished, what is completed but not mastered, and what is mastered
 function rfsetBody() {
@@ -412,7 +413,7 @@ function rfsetBody() {
       `<section class="card"><div class="sech"><b class="h5">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
     mastered = [...new Set(Object.values(S.rfq || {}).map((x) => x.k))].filter((k) => rfRight(k) >= RF_PER);
   if (!Q.length && !mastered.length)
-    return `<p class="note">Nothing to refresh yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p><button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz</button>`;
+    return `<p class="xs muted">No finished units to revise yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p>`;
   return `<p class="sm">Every unit your child completes comes back until they answer ${RF_PER} of its questions right. A day's refresher is at most ${RF_MAX} questions, ${RF_PER} from each of up to ${RF_MAX / RF_PER} units, taking turns across all subjects.</p>
    ${box(
      "Not finished",
@@ -429,7 +430,7 @@ function rfsetBody() {
      `5 questions answered right. They come back every ${RFS().mastered.every} days to keep fresh.`,
      mastered.map((k) => row(k, (rfIsDk(k) ? k.slice(5).split(".")[0] : unitByK(k)?.subj) || "", rfRight(k))),
    )}
-   <button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz</button>`;
+`;
 }
 // how long the daily refresher is, on which days, and how often mastered units come back (Plan → Plan settings)
 function rfTiming() {
