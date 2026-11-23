@@ -414,7 +414,7 @@ function resCard(r, i) {
   const ch = resChapters(r),
     show = ch.slice(0, 3),
     more = ch.length - show.length;
-  return `<div class="libcard rescard" style="--c:${PAL[i % PAL.length]}"><span class="row" style="gap:6px;flex-wrap:wrap"><span class="pill">${RTYPE[r.type] || esc(r.type)}</span><span class="xs muted">Ages ${r.ages[0]}–${r.ages[1]} · ${RACC[r.access] || ""}${(r.lang || []).filter((l) => l !== "en").length ? " · " + r.lang.map((l) => l.toUpperCase()).join(", ") : ""}</span></span>
+  return `<div class="libcard rescard"><span class="row" style="gap:6px;flex-wrap:wrap"><span class="pill">${RTYPE[r.type] || esc(r.type)}</span><span class="xs muted">Ages ${r.ages[0]}–${r.ages[1]} · ${RACC[r.access] || ""}${(r.lang || []).filter((l) => l !== "en").length ? " · " + r.lang.map((l) => l.toUpperCase()).join(", ") : ""}</span></span>
    <a href="${esc(r.url)}" target="_blank" rel="noopener" style="color:inherit"><b>${esc(r.title)} ↗</b></a><span class="xs muted">${esc(r.source)}</span><span class="sm">${esc(r.desc)}</span>${r.how ? `<span class="xs"><b>How to use:</b> ${esc(r.how)}</span>` : ""}
    <span class="xs"><b>${r.concepts.length ? "Idea" : "Area"}:</b> ${(r.concepts.length ? r.concepts.map((c) => esc(RCON[c]?.concept || c)) : r.strands.map((s) => esc(STRN[s] || s))).join(" · ")}</span>
    ${show.length ? `<span class="xs"><b>Fits:</b></span><div class="row chips">${show.map(chipK).join("")}${more > 0 ? `<span class="xs muted">+${more} more</span>` : ""}</div>` : ""}</div>`;
@@ -583,7 +583,7 @@ function plansTab(u) {
   const O = planOptions(u),
     pk = ((S.planPick || {})[u.k] || {}).full || O.full[0]?.id,
     card = (o, i) =>
-      `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b class="h5">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm self-start" data-act="ppick" data-k="${u.k}" data-o="${o.id}">Use this plan</button>` : ""}</section>`;
+      `<section class="card optcard ${o.id === pk ? "chosen" : ""}"><div class="sech"><b class="h5">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm line self-start" data-act="ppick" data-k="${u.k}" data-o="${o.id}">Use this plan</button>` : ""}</section>`;
   return `<p class="xs muted">Pick one way to teach this chapter. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
    <h3>Full plans</h3>${O.full.map(card).join("")}
    <h3>Short plans · about 30 minutes</h3>${O.busy.map((o, i) => card(o, i + 3)).join("")}`;
@@ -987,7 +987,7 @@ const CATS = {
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
-  let h = `<section class="sec libtop"><h1>Library</h1><div class="seg libtabs">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
+  let h = `<section class="sec pagetop"><h1>Library</h1><div class="seg segmain">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "research") h += researchTab();
   else if (t === "games") h += gamesTab();
@@ -1019,7 +1019,7 @@ function viewLibrary() {
       .map((c) => {
         const L = LIB.suggest.filter((x) => x[0] === c);
         return L.length
-          ? `<div class="sech"><h3 class="fs5">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url], i) => `<div class="libcard" style="--c:${PAL[i % PAL.length]}"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
+          ? `<div class="sech"><h3 class="fs5">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url]) => `<div class="libcard"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs line" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
           : "";
       })
       .join("")}</section>`;
@@ -1042,7 +1042,7 @@ function viewLibrary() {
     ]
       .map(
         ([k, n]) =>
-          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u], i) => `<a class="libcard" style="--c:${PAL[(i + 2) % PAL.length]};text-decoration:none;color:inherit" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
+          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u]) => `<a class="libcard" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
       )
       .join("")}</section>`;
   return h;

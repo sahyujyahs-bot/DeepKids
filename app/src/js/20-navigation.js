@@ -71,7 +71,7 @@ function segBar(k) {
   return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
 const pageHead = (t, extra = "") =>
-  `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${t}</h1>${extra}</div>`;
+  `<section class="sec pagetop"><div class="sech"><h1>${t}</h1>${extra}</div>`;
 const navSnap = () => ({
   tab,
   lt: ui.lt,

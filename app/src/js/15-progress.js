@@ -261,7 +261,7 @@ function viewJourneyTabs() {
     );
     const [, subjects, rest] = o
       .replace(
-        /^<section class="sec mt8"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
+        /^<section class="sec pagetop"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
         '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
       )
       .match(/^([\s\S]*?<\/section>)([\s\S]*)$/);
@@ -1823,7 +1823,7 @@ function jsubView() {
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),
     W = workOf().filter((w) => unitBy(w.k)?.subj === s);
-  let h = `<section class="chero ${subjClass(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
+  let h = `<section class="chero ${subjClass(s)}" style="min-height:140px"><span class="eyebrow">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
   h += `<section class="card"><h3 class="fs5">How well</h3>${(() => {
     let ans = 0,
       tot = 0,
@@ -1959,7 +1959,7 @@ function viewJourney0() {
     Qn = quotes().length,
     W = workOf().length,
     bs = boardsOn();
-  let h = `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
+  let h = `<section class="sec pagetop"><div class="sech"><h1>${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
   const rows = [
     [
       "high",

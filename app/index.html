@@ -154,67 +154,16 @@ p {
 .tint {
   background: color-mix(in srgb, var(--c) 22%, var(--surface));
 }
-.btn:active {
-  box-shadow: 0 1px 0 var(--tangD);
-}
-.btn.green {
-  background: var(--forest);
-  box-shadow: 0 4px 0 var(--forestD);
-}
-.btn.green:active {
-  box-shadow: 0 1px 0 var(--forestD);
-}
-.btn.soft {
-  box-shadow:
-    0 4px 0 var(--line),
-    inset 0 0 0 2px var(--line);
-}
-.btn.soft:active {
-  box-shadow:
-    0 1px 0 var(--line),
-    inset 0 0 0 2px var(--line);
-}
-.btn.line {
-  background: 0 0;
-  color: var(--ink);
-  box-shadow: inset 0 0 0 2px color-mix(in srgb, var(--ink) 18%, transparent);
-}
-.btn.sm {
-  min-height: 40px;
-  padding: 5px 16px;
-  font-size: var(--fs-4);
-  border-radius: 14px;
-}
-.btn.xs {
-  min-height: 34px;
-  padding: 4px 12px;
-  font-size: var(--fs-3);
-  border-radius: 12px;
-  box-shadow: 0 3px 0 var(--tangD);
-}
-.btn.xs.soft {
-  box-shadow:
-    0 3px 0 var(--line),
-    inset 0 0 0 2px var(--line);
-}
-.btn.wide {
-  flex: 1;
-}
-.btn:disabled {
-  opacity: 0.4;
-  cursor: default;
-}
 .iconbtn {
   width: 44px;
   height: 44px;
-  border-radius: 15px;
+  border-radius: 50%;
   border: 0;
   background: var(--surface);
   display: grid;
   place-items: center;
   flex: none;
   color: var(--ink);
-  box-shadow: var(--lift);
 }
 .dotc {
   width: 10px;
@@ -456,9 +405,6 @@ main {
   justify-content: space-between;
   gap: 10px;
 }
-.sech h3 {
-  font-size: var(--fs-6);
-}
 .tr {
   display: grid;
   grid-template-columns: 52px 1fr;
@@ -666,8 +612,9 @@ dialog.sheet::backdrop {
   flex: 1;
   min-width: 0;
 }
+/* room at the end of a sheet for IAm's floating button */
 .sbody {
-  padding-bottom: calc(40px + env(safe-area-inset-bottom, 0));
+  padding-bottom: calc(150px + env(safe-area-inset-bottom, 0));
 }
 .sbody > .wrap {
   display: grid;
@@ -788,31 +735,10 @@ dialog.sheet::backdrop {
   width: 130px;
   height: 130px;
 }
-.chero h1 {
-  font-size: clamp(25px, 6.4vw, 33px);
-  max-width: 72%;
-}
 .chero p {
   font-size: var(--fs-3);
-  font-weight: 700;
+  font-weight: 500;
   max-width: 68%;
-  opacity: 0.85;
-}
-.seg button {
-  flex: 0 0 auto;
-  height: 40px;
-  padding: 0 16px;
-  white-space: nowrap;
-  color: var(--muted);
-  box-shadow: inset 0 0 0 2px var(--line);
-}
-.card {
-  background: var(--surface);
-  border-radius: var(--r-lg);
-  box-shadow: var(--lift);
-  padding: 18px;
-  display: grid;
-  gap: 12px;
 }
 .idea {
   display: grid;
@@ -1482,49 +1408,23 @@ dialog.sheet::backdrop {
   gap: 2px;
   justify-items: start;
   text-align: left;
-  padding: 12px 14px 14px;
+  padding: 14px 16px 16px;
   border: 0;
-  border-radius: 22px;
+  border-radius: var(--r-card);
   font: inherit;
-  color: #fff;
+  color: var(--ink);
   cursor: pointer;
-  background:
-    radial-gradient(circle at 20% 30%, #fff8 0.6px, transparent 1.2px) 0 0 / 23px 29px,
-    radial-gradient(circle at 70% 60%, #fff6 0.6px, transparent 1.2px) 0 0 / 31px 37px,
-    radial-gradient(120% 100% at 70% 0%, var(--c), color-mix(in srgb, var(--c) 35%, #120a2a));
+  background: var(--surface);
+  box-shadow: var(--shadow);
 }
 /* the light tiles: ink stars on a sunlit sky */
-.skyt[data-s="eng"],
-.skyt[data-s="hin"] {
-  color: var(--ink);
-  background:
-    radial-gradient(circle at 20% 30%, #1f244033 0.7px, transparent 1.3px) 0 0 / 23px 29px,
-    radial-gradient(circle at 70% 60%, #1f244026 0.7px, transparent 1.3px) 0 0 / 31px 37px,
-    radial-gradient(120% 100% at 70% 0%, color-mix(in srgb, var(--c) 70%, #fff), var(--c));
-}
-.skyt:is([data-s="eng"], [data-s="hin"]) :is(.on, .off, .half) {
-  fill: var(--ink);
-}
-.skyt:is([data-s="eng"], [data-s="hin"]) .glow {
-  fill: #fff;
-  opacity: 0.7;
-}
-.skyt:is([data-s="eng"], [data-s="hin"]) .ln line {
-  stroke: var(--ink);
-  stroke-opacity: 0.5;
-}
-.skyt:nth-child(odd) {
-  transform: rotate(-1.2deg);
-}
-.skyt:nth-child(even) {
-  transform: rotate(1.2deg);
-}
 .skyt b {
   font: 600 var(--fs-5) var(--display);
 }
 .skyt em {
   font: 700 var(--fs-7) / 1 var(--display);
   font-style: normal;
+  color: color-mix(in srgb, var(--c) 75%, #000);
 }
 .skyt svg,
 .skyt span,
@@ -1541,27 +1441,26 @@ dialog.sheet::backdrop {
 }
 .skyt small {
   font: 500 var(--fs-2) / 1.3 var(--body);
-  opacity: 0.85;
+  color: var(--muted);
 }
 .skyt .ln line {
-  stroke: color-mix(in srgb, var(--c) 30%, #fff);
-  stroke-opacity: 0.6;
+  stroke: var(--c);
+  stroke-opacity: 0.35;
   stroke-width: 1;
 }
 .skyt .glow {
-  fill: color-mix(in srgb, var(--c) 30%, #fff);
-  opacity: 0.3;
+  fill: var(--c);
+  opacity: 0.18;
 }
 .skyt .on {
-  fill: #fff;
+  fill: var(--c);
 }
 .skyt .half {
-  fill: #fff;
-  opacity: 0.6;
+  fill: var(--c);
+  opacity: 0.55;
 }
 .skyt .off {
-  fill: #fff;
-  opacity: 0.3;
+  fill: var(--rule);
 }
 .ring {
   width: 70px;
@@ -1651,8 +1550,8 @@ dialog.mini::backdrop {
   background: var(--ink);
   color: var(--bg);
   padding: 12px 20px;
-  border-radius: 18px;
-  font: 600 var(--fs-4) var(--display);
+  border-radius: var(--r-btn);
+  font: 600 var(--fs-4) var(--body);
   text-align: center;
   animation: rise 0.25s;
   max-width: calc(100% - 32px);
@@ -1672,13 +1571,13 @@ dialog.mini::backdrop {
   pointer-events: none;
   z-index: 999;
 }
+/* a note: one quiet line on a soft track. Also what an empty list says */
 .note {
-  font-size: var(--fs-3);
+  font: 500 var(--fs-3) / 1.45 var(--body);
   color: var(--muted);
   padding: 12px 14px;
-  border-radius: 16px;
-  background: var(--sunk);
-  font-weight: 700;
+  border-radius: 14px;
+  background: var(--track);
 }
 @media (max-width: 400px) {
   .wgrid .wordrow {
@@ -1897,13 +1796,15 @@ dialog.mini::backdrop {
 .wday {
   display: grid;
   gap: 4px;
-  padding: 10px 14px;
+  padding: 14px 16px;
   background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: var(--r-lg);
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow);
 }
 .wday.today {
-  border: 2px solid var(--tang);
+  box-shadow:
+    0 0 0 2px var(--tang),
+    var(--shadow);
 }
 .wdayh {
   text-align: left;
@@ -2159,13 +2060,15 @@ dialog.mini::backdrop {
   font-weight: 700;
 }
 .libcard {
-  border-radius: 22px;
+  border-radius: var(--r-card);
   padding: 16px;
-  background: color-mix(in srgb, var(--c) 26%, var(--surface));
+  background: var(--surface);
   display: grid;
   gap: 6px;
   align-content: start;
-  box-shadow: var(--lift);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: inherit;
 }
 .libcard b {
   font: 600 var(--fs-5) var(--display);
@@ -2183,13 +2086,25 @@ dialog.mini::backdrop {
   width: 14px;
   height: 14px;
 }
-.optcard {
-  background: color-mix(in srgb, var(--c) 20%, var(--surface));
+.dsteps {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 4px;
+  font-size: var(--fs-3);
+}
+.dsteps li span,
+.dsteps li i {
+  color: var(--muted);
+  font-style: normal;
+}
+.dsteps li b {
+  margin: 0 6px;
 }
 .optcard.chosen {
   box-shadow:
-    0 0 0 3px var(--good),
-    var(--lift);
+    0 0 0 2px var(--good),
+    var(--shadow) !important;
 }
 .qrow {
   display: grid;
@@ -2312,7 +2227,6 @@ dialog.mini::backdrop {
 .iconbtn.sm {
   width: 34px;
   height: 34px;
-  border-radius: 12px;
 }
 .iconbtn.sm .ico {
   width: 18px;
@@ -2692,11 +2606,6 @@ dialog #voxbar {
   border-radius: 10px;
   background: #e3f3ec;
   color: #24553a;
-}
-.chip[aria-pressed="true"] {
-  background: var(--ink);
-  color: #fff;
-  box-shadow: none;
 }
 .wkctl {
   display: grid;
@@ -3483,17 +3392,8 @@ a.btn {
 }
 .seg.addmode {
   margin: 8px 0 12px;
-  background: color-mix(in srgb, var(--peri) 12%, #fff);
 }
 /* the two ways to add: the form in green, typing or speaking in violet */
-.addmode button[aria-pressed="true"][data-m="pick"] {
-  background: var(--forest) !important;
-  color: #fff !important;
-}
-.addmode button[aria-pressed="true"][data-m="say"] {
-  background: var(--peri) !important;
-  color: #fff !important;
-}
 .addform {
   display: grid;
   gap: 10px;
@@ -3665,6 +3565,7 @@ a.btn {
 }
 .sgrp {
   position: relative;
+  display: block;
 }
 .sgrp[open] summary::after {
   transform: rotate(90deg);
@@ -4020,34 +3921,29 @@ a.btn {
   min-width: 0;
   overflow-wrap: anywhere;
 }
-.eyebrow {
-  font: 600 var(--fs-2) var(--display);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--muted);
-  overflow-wrap: anywhere;
-}
 #sheet .row {
   flex-wrap: wrap;
 }
+/* the subject banner: a soft tint of the subject's colour with ink text, never text on a full colour */
 .chero {
   position: relative;
-  border-radius: var(--r-xl);
+  border-radius: var(--r-card);
   padding: 20px;
-  background: var(--c);
-  color: #2b2340;
+  background: color-mix(in srgb, var(--c) 14%, var(--surface));
+  color: var(--ink);
   display: grid;
   gap: 6px;
   min-height: 170px;
   overflow: hidden;
   min-width: 0;
   max-width: 100%;
-  box-sizing: border-box;
 }
 .chero > * {
   min-width: 0;
 }
 .chero h1 {
+  font-size: var(--fs-7);
+  max-width: 72%;
   overflow-wrap: anywhere;
 }
 #sheet .row .pill {
@@ -4228,12 +4124,6 @@ html:has(.fxdlg[open]) {
   padding-left: 20px;
   display: grid;
   gap: 6px;
-}
-.fxeb {
-  font: 700 var(--fs-2) var(--display);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--tangD);
 }
 .fxsm,
 .fxtxt .fxsm,
@@ -5194,6 +5084,7 @@ strong {
   letter-spacing: 0 !important;
   text-transform: none !important;
   color: var(--muted) !important;
+  overflow-wrap: anywhere;
 }
 /* on a coloured card the label takes the card's own text colour, never grey on colour */
 .joke .eyebrow,
@@ -5207,6 +5098,11 @@ strong {
   border: 0 !important;
   border-radius: var(--r-card) !important;
   background: var(--surface);
+}
+.card {
+  padding: 18px;
+  display: grid;
+  gap: 12px;
 }
 .sec {
   display: grid;
@@ -5246,6 +5142,8 @@ strong {
   font: 500 var(--fs-3) var(--body) !important;
   color: var(--muted);
 }
+/* ---- Shared components: each one is defined once, here (app/content/DESIGN.md, "Components") ---- */
+/* buttons: red = the one main action, .line = a second action, .green = done, .sm and .xs = sizes */
 .btn {
   display: inline-flex;
   align-items: center;
@@ -5257,14 +5155,31 @@ strong {
   text-align: center;
   border: 0;
   color: #fff;
-  transition:
-    transform 0.08s,
-    box-shadow 0.08s;
   border-radius: var(--r-btn) !important;
   box-shadow: none !important;
   font: 700 var(--fs-5) var(--body) !important;
   letter-spacing: 0.01em;
   background: var(--margin);
+}
+.btn.green {
+  background: var(--forest);
+}
+.btn.sm {
+  min-height: 44px;
+  padding: 5px 16px;
+  font-size: var(--fs-4) !important;
+}
+.btn.xs {
+  min-height: 40px;
+  padding: 4px 12px;
+  font-size: var(--fs-3) !important;
+}
+.btn.wide {
+  flex: 1;
+}
+.btn:disabled {
+  opacity: 0.4;
+  cursor: default;
 }
 .btn.soft,
 .btn.line {
@@ -5285,12 +5200,11 @@ strong {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+/* a chip is one choice among several: a round pill, the chosen one is ink */
 .chip {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  font-size: var(--fs-3);
-  font-weight: 700;
   white-space: nowrap;
   max-width: 100%;
   border-radius: 999px !important;
@@ -5298,7 +5212,7 @@ strong {
   background: var(--surface) !important;
   border: 1.5px solid var(--rule);
   color: var(--ink);
-  height: 34px;
+  height: 40px;
   padding: 0 14px;
 }
 .pill {
@@ -5322,7 +5236,6 @@ strong {
 .seg {
   display: flex;
   flex-wrap: wrap;
-  scrollbar-width: none;
   background: var(--track);
   border-radius: 14px;
   padding: 4px;
@@ -5330,6 +5243,9 @@ strong {
 }
 .seg button {
   flex: 1 0 auto;
+  min-height: 44px;
+  padding: 0 16px;
+  white-space: nowrap;
   border-radius: 11px !important;
   font: 600 var(--fs-4) var(--body) !important;
   border: 0 !important;
@@ -5414,12 +5330,6 @@ header.top .iconbtn {
 }
 .fxtruth h2 {
   font-family: var(--poster);
-}
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation: none !important;
-    transition: none !important;
-  }
 }
 header.top .hello b {
   font-family: var(--poster) !important;
@@ -5706,31 +5616,7 @@ header.top .wrap {
   font: 500 var(--fs-3) var(--body) !important;
   color: var(--muted);
 }
-.chero .n {
-  position: absolute;
-  right: 18px;
-  top: 10px;
-  font: 700 64px/1 var(--display);
-  opacity: 0.25;
-  display: none !important;
-}
-.segmain button {
-  font-size: var(--fs-4) !important;
-  height: 44px !important;
-  padding: 0 16px !important;
-}
 /* section tabs (the Library's Syllabus, Research Papers, Games; the Plan tabs): a soft violet track, the chosen tab filled */
-.segmain,
-.libtabs {
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  background: color-mix(in srgb, var(--peri) 12%, #fff);
-}
-.segmain button[aria-pressed="true"],
-.libtabs button[aria-pressed="true"] {
-  background: var(--peri) !important;
-  color: #fff !important;
-}
 /* the track switch: DeepKids track in DeepKids red, Board track in blue */
 .trackseg button[aria-pressed="true"][data-v="dk"] {
   background: var(--tang) !important;
@@ -5755,18 +5641,6 @@ header.top .wrap {
 }
 .pick .pickl {
   margin-top: 0;
-}
-.pick.b .chip[aria-pressed="true"] {
-  background: var(--sky) !important;
-  border-color: var(--sky) !important;
-}
-.pick.s .chip[aria-pressed="true"] {
-  background: var(--peri) !important;
-  border-color: var(--peri) !important;
-}
-.pick.c .chip[aria-pressed="true"] {
-  background: var(--forest) !important;
-  border-color: var(--forest) !important;
 }
 .fxsh {
   font: 700 var(--fs-5) var(--body);
@@ -6171,10 +6045,10 @@ body {
   gap: 4px;
   text-align: left;
   padding: 14px;
-  border: 1.5px solid var(--ink);
-  border-radius: var(--r-lg);
+  border: 0;
+  border-radius: var(--r-card);
   background: var(--surface);
-  box-shadow: 3px 3px 0 var(--ink);
+  box-shadow: var(--shadow);
   color: var(--ink);
   cursor: pointer;
 }
@@ -6531,22 +6405,24 @@ body {
   color: var(--margin);
 }
 /* Library: a big picture on the left, a short title and line, the board chapter as a small tag, and a round + to add */
-.libtop {
+.pagetop {
   margin-top: 8px;
 }
-.libtop h1 {
-  font-size: var(--fs-8);
+.pagetop h1 {
+  font-size: var(--fs-7);
 }
 .libfilt {
   display: flex;
   align-items: center;
   gap: 10px;
   width: 100%;
+  min-height: 56px;
   margin: 8px 0;
-  padding: 10px 12px;
-  border: 1.5px solid var(--line);
-  border-radius: 14px;
-  background: var(--card);
+  padding: 10px 14px;
+  border: 0;
+  border-radius: var(--r-card);
+  background: var(--surface);
+  box-shadow: var(--shadow);
   color: var(--ink);
   font: inherit;
   text-align: left;
@@ -6558,7 +6434,9 @@ body {
   flex: none;
 }
 .libfilt[aria-expanded="true"] {
-  border-color: var(--tang);
+  box-shadow:
+    0 0 0 2px var(--ink),
+    var(--shadow);
 }
 .libfiltt {
   display: grid;
@@ -6569,10 +6447,10 @@ body {
   display: grid;
   gap: 4px;
   margin-bottom: 12px;
-  padding: 4px 12px 12px;
-  border: 1.5px solid var(--line);
-  border-radius: 14px;
-  background: var(--card);
+  padding: 4px 14px 14px;
+  border-radius: var(--r-card);
+  background: var(--surface);
+  box-shadow: var(--shadow);
 }
 .fxucard {
   display: grid;
@@ -11731,7 +11609,7 @@ function chapterPage() {
             };
   const t = tabs[ui.ctab[u.k]] ? ui.ctab[u.k] : "overview",
     inPlan = everyUnit().some((z) => z.k === u.k) && plannedUnits(u.subj).some((z) => z.k === u.k);
-  let h = `<section class="chero ${subjClass(u.subj)}"><span class="n">${u.board === "combined" ? "" : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs} self-start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fmtHours(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fmtHours(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
+  let h = `<section class="chero ${subjClass(u.subj)}"><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs} self-start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fmtHours(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fmtHours(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
    ${u.board === "gen" && !u.gen.reviewed ? `<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>` : ""}
    <div class="row">${inPlan ? `<span class="pill completed" style="align-self:center">✓ ${isNextUp(u) ? "Next up" : "In the plan · no. " + qPos(u)} in ${SUBJ[u.subj]}</span>${isNextUp(u) ? "" : `<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}<button class="btn line sm" data-act="gotab" data-tab="week" data-seg="next" data-qs="${u.subj}">See the queue</button>` : u.board === "unit" && !dkUnitOpen(u.c?.unit) ? `<span class="xs muted">🔒 On the DeepKids track</span>` : qPick("les", u.subj, "les:" + u.k, icon("plus") + "Add to the plan")}</div>
    
@@ -17197,7 +17075,7 @@ function resCard(r, i) {
   const ch = resChapters(r),
     show = ch.slice(0, 3),
     more = ch.length - show.length;
-  return `<div class="libcard rescard" style="--c:${PAL[i % PAL.length]}"><span class="row" style="gap:6px;flex-wrap:wrap"><span class="pill">${RTYPE[r.type] || esc(r.type)}</span><span class="xs muted">Ages ${r.ages[0]}–${r.ages[1]} · ${RACC[r.access] || ""}${(r.lang || []).filter((l) => l !== "en").length ? " · " + r.lang.map((l) => l.toUpperCase()).join(", ") : ""}</span></span>
+  return `<div class="libcard rescard"><span class="row" style="gap:6px;flex-wrap:wrap"><span class="pill">${RTYPE[r.type] || esc(r.type)}</span><span class="xs muted">Ages ${r.ages[0]}–${r.ages[1]} · ${RACC[r.access] || ""}${(r.lang || []).filter((l) => l !== "en").length ? " · " + r.lang.map((l) => l.toUpperCase()).join(", ") : ""}</span></span>
    <a href="${esc(r.url)}" target="_blank" rel="noopener" style="color:inherit"><b>${esc(r.title)} ↗</b></a><span class="xs muted">${esc(r.source)}</span><span class="sm">${esc(r.desc)}</span>${r.how ? `<span class="xs"><b>How to use:</b> ${esc(r.how)}</span>` : ""}
    <span class="xs"><b>${r.concepts.length ? "Idea" : "Area"}:</b> ${(r.concepts.length ? r.concepts.map((c) => esc(RCON[c]?.concept || c)) : r.strands.map((s) => esc(STRN[s] || s))).join(" · ")}</span>
    ${show.length ? `<span class="xs"><b>Fits:</b></span><div class="row chips">${show.map(chipK).join("")}${more > 0 ? `<span class="xs muted">+${more} more</span>` : ""}</div>` : ""}</div>`;
@@ -17366,7 +17244,7 @@ function plansTab(u) {
   const O = planOptions(u),
     pk = ((S.planPick || {})[u.k] || {}).full || O.full[0]?.id,
     card = (o, i) =>
-      `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b class="h5">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm self-start" data-act="ppick" data-k="${u.k}" data-o="${o.id}">Use this plan</button>` : ""}</section>`;
+      `<section class="card optcard ${o.id === pk ? "chosen" : ""}"><div class="sech"><b class="h5">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm line self-start" data-act="ppick" data-k="${u.k}" data-o="${o.id}">Use this plan</button>` : ""}</section>`;
   return `<p class="xs muted">Pick one way to teach this chapter. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
    <h3>Full plans</h3>${O.full.map(card).join("")}
    <h3>Short plans · about 30 minutes</h3>${O.busy.map((o, i) => card(o, i + 3)).join("")}`;
@@ -17770,7 +17648,7 @@ const CATS = {
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
-  let h = `<section class="sec libtop"><h1>Library</h1><div class="seg libtabs">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
+  let h = `<section class="sec pagetop"><h1>Library</h1><div class="seg segmain">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "research") h += researchTab();
   else if (t === "games") h += gamesTab();
@@ -17802,7 +17680,7 @@ function viewLibrary() {
       .map((c) => {
         const L = LIB.suggest.filter((x) => x[0] === c);
         return L.length
-          ? `<div class="sech"><h3 class="fs5">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url], i) => `<div class="libcard" style="--c:${PAL[i % PAL.length]}"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
+          ? `<div class="sech"><h3 class="fs5">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url]) => `<div class="libcard"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs line" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
           : "";
       })
       .join("")}</section>`;
@@ -17825,7 +17703,7 @@ function viewLibrary() {
     ]
       .map(
         ([k, n]) =>
-          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u], i) => `<a class="libcard" style="--c:${PAL[(i + 2) % PAL.length]};text-decoration:none;color:inherit" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
+          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u]) => `<a class="libcard" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
       )
       .join("")}</section>`;
   return h;
@@ -22061,7 +21939,7 @@ function viewJourneyTabs() {
     );
     const [, subjects, rest] = o
       .replace(
-        /^<section class="sec mt8"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
+        /^<section class="sec pagetop"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
         '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
       )
       .match(/^([\s\S]*?<\/section>)([\s\S]*)$/);
@@ -23623,7 +23501,7 @@ function jsubView() {
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),
     W = workOf().filter((w) => unitBy(w.k)?.subj === s);
-  let h = `<section class="chero ${subjClass(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
+  let h = `<section class="chero ${subjClass(s)}" style="min-height:140px"><span class="eyebrow">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
   h += `<section class="card"><h3 class="fs5">How well</h3>${(() => {
     let ans = 0,
       tot = 0,
@@ -23759,7 +23637,7 @@ function viewJourney0() {
     Qn = quotes().length,
     W = workOf().length,
     bs = boardsOn();
-  let h = `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
+  let h = `<section class="sec pagetop"><div class="sech"><h1>${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
   const rows = [
     [
       "high",
@@ -25677,7 +25555,7 @@ function segBar(k) {
   return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
 const pageHead = (t, extra = "") =>
-  `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${t}</h1>${extra}</div>`;
+  `<section class="sec pagetop"><div class="sech"><h1>${t}</h1>${extra}</div>`;
 const navSnap = () => ({
   tab,
   lt: ui.lt,
