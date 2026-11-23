@@ -15,9 +15,9 @@
   /* ---------- sign-in screen ---------- */
   const css=`.dkg{min-height:100vh;display:grid;place-items:center;padding:24px 18px;background:#FFF6EC;font-family:system-ui,sans-serif;color:#2B2340}
    .dkg .box{max-width:400px;width:100%;display:grid;gap:16px;text-align:center}.dkg p{margin:0;line-height:1.5;color:#5d5670}
-   .dkg h1{font-size:28px;margin:0}.dkg .lead{font-size:17px;font-weight:600;color:#2B2340;margin-top:-8px}.dkg .who{font-size:14.5px;margin-top:-10px}
+   .dkg h1{font-size:28px;margin:0}.dkg .lead{font-size:clamp(11px,calc((100vw - 36px)/22.5),19px);white-space:nowrap;font-weight:600;color:#2B2340;margin-top:-8px}.dkg .who{font-size:14.5px;margin-top:-10px}
    .dkg button{display:flex;gap:10px;align-items:center;justify-content:center;width:100%;padding:14px 18px;border-radius:16px;border:2px solid rgba(43,35,64,.15);background:#fff;font:600 17px system-ui,sans-serif;cursor:pointer;color:#2B2340}
-   .dkg button:active{transform:scale(.98)}.dkg .dkalt{border:0;background:none;color:#776f8a;font:500 13px system-ui,sans-serif;text-decoration:underline;padding:6px;width:auto;justify-self:center}.dkg .err{color:#b03a2e;font-size:14px}.dkg small{color:#776f8a;font-size:12.5px;line-height:1.5}
+   .dkg button:active{transform:scale(.98)}.dkg .err{color:#b03a2e;font-size:14px}.dkg small{color:#776f8a;font-size:12.5px;line-height:1.5}
    .dkg .swipe{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;margin:0 -18px;padding:0 18px}.dkg .swipe::-webkit-scrollbar{display:none}
    .dkg .slide{flex:0 0 100%;scroll-snap-align:center;display:grid;gap:12px;align-content:start}
    .dkg .slide img{width:100%;height:auto;border-radius:24px;background:#e9dcc8;display:block}
@@ -25,7 +25,7 @@
    .dkg .slide p{font-size:15px;padding:0 4px}.dkg .slide b{display:block;font-size:17px;margin-bottom:4px;color:#2B2340}
    .dkg .dots{display:flex;align-items:center;gap:7px;justify-content:center;margin-top:-4px}.dkg .dots i{width:7px;height:7px;border-radius:50%;background:rgba(43,35,64,.2)}.dkg .dots i.on{background:#2B2340;width:20px;border-radius:4px}
    .dkg .pic{position:relative;overflow:hidden;border-radius:24px;background:#e9dcc8;line-height:0}.dkg .pic>img{border-radius:0;width:100%;height:auto;display:block}
-   .dkg .iamstage{position:relative;aspect-ratio:1200/780;background:linear-gradient(#f9ebdb,#fbf1e6);overflow:hidden}.dkg .iamstage::before{content:"";position:absolute;left:50%;top:50%;width:55%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;background:#ffe2a8}.dkg .iamfig{position:absolute;left:50%;bottom:3%;height:92%;aspect-ratio:343/404;transform:translateX(-50%);transform-origin:50% 100%;animation:dkbreathe 4.5s ease-in-out infinite}.dkg .iamfig img{position:absolute;background:none;border-radius:0;display:block}.dkg .iamnow{inset:0;width:100%;height:100%}.dkg .iamblink{left:40.46%;top:12.24%;width:18.68%;height:auto;opacity:0;animation:dkblink 5s steps(1) infinite}@keyframes dkbreathe{50%{transform:translateX(-50%) scale(1.012,1.018)}}@keyframes dkblink{0%,95%{opacity:0}96%{opacity:1}}
+   .dkg .iamstage{position:relative;aspect-ratio:1200/780;background:linear-gradient(#f9ebdb,#fbf1e6);overflow:hidden}.dkg .iamstage::before{content:"";position:absolute;left:50%;top:50%;width:55%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;background:#ffe2a8}.dkg .iamfig{position:absolute;left:50%;bottom:3%;height:92%;aspect-ratio:343/404;transform:translateX(-50%);transform-origin:50% 100%;animation:dkbreathe 4.5s ease-in-out infinite}.dkg .iamfig img{position:absolute;background:none;border-radius:0;display:block}.dkg .iamf{inset:0;width:100%;height:100%;opacity:0}.dkg .iamf.on{opacity:1}.dkg .iamblink{left:40.46%;top:12.24%;width:18.68%;height:auto;opacity:0;animation:dkblink 5s steps(1) infinite}@keyframes dkbreathe{50%{transform:translateX(-50%) scale(1.012,1.018)}}@keyframes dkblink{0%,95%{opacity:0}96%{opacity:1}}
    .dkg .p-intro-eye>img{animation:dkdeep 11s ease-in-out infinite alternate;transform-origin:50% 47%}
    .dkg .eyeglow{position:absolute;left:50%;top:47%;width:30%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;background:conic-gradient(rgba(255,238,160,0),rgba(255,238,160,.7) 10%,rgba(255,238,160,0) 22%,rgba(255,238,160,0) 50%,rgba(255,238,160,.6) 60%,rgba(255,238,160,0) 72%);-webkit-mask:radial-gradient(circle,#000 35%,transparent 70%);mask:radial-gradient(circle,#000 35%,transparent 70%);mix-blend-mode:screen;animation:dkspin 7s linear infinite}
    .dkg .eyering{position:absolute;left:50%;top:47%;width:26%;aspect-ratio:1;border-radius:50%;border:3px solid rgba(255,220,120,.9);transform:translate(-50%,-50%) scale(.3);opacity:0;animation:dkring 3.6s ease-out infinite}.dkg .eyering.r2{animation-delay:1.8s}
@@ -44,7 +44,7 @@
    @media(prefers-reduced-motion:reduce){.dkg .pic *,.dkg .pic>img{animation:none!important}}
    .dkg .intro,.dkg .show{display:grid;gap:16px}.dkg .gbtn{display:flex;justify-content:center}
    @media(max-width:899px){.dkg .intro,.dkg .show{display:contents}.dkg h1,.dkg .lead,.dkg .who{order:1}.dkg .show>*{order:2}.dkg .dkgo,.dkg .err,.dkg small{order:3}}
-   @media(min-width:900px){.dkg{padding:40px 5vw}.dkg .box{max-width:1800px;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);column-gap:6vw;align-items:center;text-align:left}.dkg h1{font-size:clamp(44px,4.4vw,72px);line-height:1.1}.dkg .lead{font-size:clamp(21px,1.9vw,30px);margin-top:0}.dkg .who{font-size:clamp(16px,1.3vw,20px);margin-top:0}.dkg .dkgo{max-width:420px}.dkg .gbtn{justify-content:flex-start}.dkg .show{gap:12px}.dkg .swipe{margin:0;padding:0}}`;
+   @media(min-width:900px){.dkg{padding:40px 5vw}.dkg .box{max-width:1800px;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);column-gap:6vw;align-items:center;text-align:left}.dkg h1{font-size:clamp(44px,4.4vw,72px);line-height:1.1}.dkg .lead{font-size:clamp(13px,1.5vw,28px);margin-top:0}.dkg .who{font-size:clamp(16px,1.3vw,20px);margin-top:0}.dkg .dkgo{max-width:420px}.dkg .gbtn{justify-content:flex-start}.dkg .show{gap:12px}.dkg .swipe{margin:0;padding:0}}`;
   /* what DeepKids does: one picture and its words per slide, swiped by hand */
   // the welcome slides before log-in: one list in app/content/welcome.json, which the app uses too.
   // [picture, heading, one line, two points, optional tag]
@@ -59,15 +59,15 @@
     "intro-calm":`<i class="moonglow"></i><i class="star t1"></i><i class="star t2"></i><i class="star t3"></i><i class="star t4"></i><i class="star t5"></i><i class="star t6"></i><i class="shoot"></i>`
   };
   /* IAm looks straight at the viewer, then glances up, reads and turns a page, and looks back */
-  const IAMSEQ=[["iam",3000],["iam-glance",1000],["iam",2000],["iam-read",1800]];
-  function iamLife(){const im=document.querySelector(".iamnow");if(!im)return;IAMSEQ.forEach(([f])=>{new Image().src="/media/ui/"+f+".webp"});let k=0;(function step(){if(!document.body.contains(im))return;const [f,ms]=IAMSEQ[k++%IAMSEQ.length];im.src="/media/ui/"+f+".webp";setTimeout(step,ms)})()}
+  const IAMSEQ=[["",3000],["glance",1000],["",2000],["read",1800]];
+  function iamLife(){const fr=[...document.querySelectorAll(".iamfig .iamf")];if(!fr.length)return;let k=0;(function step(){if(!document.body.contains(fr[0]))return;const [f,ms]=IAMSEQ[k++%IAMSEQ.length];fr.forEach(x=>x.classList.toggle("on",(x.dataset.f||"")===f));setTimeout(step,ms)})()}
   async function signInScreen(msg){
     const FEATS=await slides();
     document.body.innerHTML=`<style>${css}</style><div class="dkg"><div class="box"><div class="intro"><h1>DeepKids Gurukul</h1><p class="lead">The only app homeschooling parents need.</p><p class="who">For Indian families with children aged 6 to 10.</p>
       ${ready?`<button id="dkGoogle" class="dkgo">${GOOGLE}</button>`:`<p class="err">This site isn't connected to its database yet. Fill in web/public/config.js (see web/SETUP.md).</p>`}
       ${msg?`<p class="err">${msg}</p>`:""}
       <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you.</small></div>
-      <div class="show"><div class="swipe">${FEATS.map(([n,t,d,pts,tag])=>`<div class="slide"><div class="pic p-${n}">${n==="intro-iam"?`<div class="iamstage"><span class="iamfig"><img class="iamnow" src="/media/ui/iam.webp" alt=""><img class="iamblink" src="/media/ui/iam-blink.webp" alt=""></span></div>`:`<img src="/media/ui/${n}.jpg" alt="">`}${MOVE[n]||""}</div><div><b>${t}</b><p>${d}</p></div><div class="pts">${pts.map(([l,x])=>`<div><i>${l}</i>${x}</div>`).join("")}</div>${tag?`<span class="tag">${tag}</span>`:""}</div>`).join("")}</div>
+      <div class="show"><div class="swipe">${FEATS.map(([n,t,d,pts,tag])=>`<div class="slide"><div class="pic p-${n}">${n==="intro-iam"?`<div class="iamstage"><span class="iamfig"><img class="iamf on" src="/media/ui/iam.webp" alt=""><img class="iamf" data-f="glance" src="/media/ui/iam-glance.webp" alt=""><img class="iamf" data-f="read" src="/media/ui/iam-read.webp" alt=""><img class="iamblink" src="/media/ui/iam-blink.webp" alt=""></span></div>`:`<img src="/media/ui/${n}.jpg" alt="">`}${MOVE[n]||""}</div><div><b>${t}</b><p>${d}</p></div><div class="pts">${pts.map(([l,x])=>`<div><i>${l}</i>${x}</div>`).join("")}</div>${tag?`<span class="tag">${tag}</span>`:""}</div>`).join("")}</div>
       <div class="dots">${FEATS.map((f,i)=>`<i${i?"":' class="on"'}></i>`).join("")}</div></div></div></div>`;
     iamLife();
     const sw=$(".swipe");sw.onscroll=()=>{const k=Math.round(sw.scrollLeft/sw.clientWidth);document.querySelectorAll(".dots i").forEach((d,i)=>d.classList.toggle("on",i===k))};
@@ -75,10 +75,10 @@
     const b=$("#dkGoogle");
     // Google's own button signs in through a pop-up, which comes back blank on phones (most of all from the home-screen
     // app), so phones use the plain button: the whole page goes to Google and comes back signed in
-    // Android in the browser can use Google's button too (so Google shows "DeepKids", not the database's address); iPhones and
-    // the installed home-screen app keep the plain button. A small link under Google's button gives the plain way as a way out.
+    // Phones in the browser use Google's own button too, so Google shows "DeepKids" and not the database's address; iPhones and
+    // the installed home-screen app keep the plain button
     const plainOnly=/iPhone|iPad|iPod/i.test(navigator.userAgent)||matchMedia("(display-mode: standalone)").matches;
-    if(b&&C.googleClientId&&!plainOnly){googleButton(b);if(/Android/i.test(navigator.userAgent)){const a=document.createElement("button");a.className="dkalt";a.textContent="Button not working? Sign in the other way";a.onclick=()=>sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}});document.querySelector(".dkg .gbtn,.dkg .dkgo")?.after(a)}}}
+    if(b&&C.googleClientId&&!plainOnly)googleButton(b)}
   /* With our own Google client id, Google's own button signs in on this page, so Google shows "DeepKids"
      instead of the database's address. Without it (or if Google's script can't load) the plain button above is used. */
   function googleButton(b){

@@ -96,6 +96,13 @@ index = f'''<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#FFF6EC">
 <meta name="description" content="DeepKids Gurukul, THE homeschooling app: a planner and lesson guide for Indian families with children aged 6 to 10. NCERT, Cambridge and NIOS.">
+<link rel="canonical" href="https://app.deepkids.in/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="DeepKids Gurukul">
+<meta property="og:title" content="DeepKids Gurukul: the homeschooling app for Indian families">
+<meta property="og:description" content="A planner and lesson guide for children aged 6 to 10: NCERT, Cambridge and NIOS, and the DeepKids track.">
+<meta property="og:url" content="https://app.deepkids.in/">
+<meta property="og:image" content="https://app.deepkids.in/icons/icon-512.png">
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="icon" href="/icons/favicon-32.png" type="image/png" sizes="32x32">
 <link rel="icon" href="/icons/icon-192.png" type="image/png" sizes="192x192">
@@ -128,6 +135,8 @@ manifest = {
         {"src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
     ],
 }
+open(os.path.join(PUB, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitemap: https://app.deepkids.in/sitemap.xml\n')
+open(os.path.join(PUB, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://app.deepkids.in/</loc></url><url><loc>https://app.deepkids.in/privacy.html</loc></url></urlset>\n')
 open(os.path.join(PUB, 'manifest.webmanifest'), 'w').write(json.dumps(manifest, indent=1))
 
 # Icons: the favicon is IAm's face (app/content/media/ui/iam-icon.png, no background, readable at 32 px);
