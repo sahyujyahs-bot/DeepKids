@@ -7,7 +7,7 @@
   "art": "A young maize plant with a ragged hole in one leaf, a faint trail of smell drifting from the hole on the wind, and two tiny black wasps flying along the trail towards the plant."
  },
  "intro": {
-  "hook": "A caterpillar bites one leaf of a plant. Two minutes later, leaves on the far side of the plant begin to switch on their defences. No caterpillar has touched those leaves. A plant has no nerves. So how did the far leaves get the news?",
+  "hook": "A caterpillar bites one leaf of a plant. Two minutes later, leaves on the far side of the plant begin to switch on their defences. No caterpillar has touched those leaves. Nerves are one kind of wiring, and a plant has her own kind. So how did the far leaves get the news?",
   "text": "Scientists filmed the answer in 2018, and you will read it in this unit. The news travelled inside the plant as a wave of electric charge and chemicals. A plant also sends news out of their body. Some goes into the air as smells, and some goes into the soil from the roots. Other living beings receive that news: neighbouring plants, insects, fungi and you. You start with your own nose. In the first activity, the Torn Leaf Test, you find out whether a leaf gives off something new when it is damaged.",
   "art": "A small plant drawn in outline with one leaf bitten by a caterpillar, and a glowing wave travelling along the leaf veins towards a leaf on the other side."
  },
@@ -373,7 +373,7 @@
    "claim": "Only a being with a brain can feel.",
    "who": "Many scientists who study brains and plants",
    "for": "In animals, feeling changes when the brain is hurt or put to sleep. No part of a plant looks like a brain.",
-   "against": "Plants sense, signal, choose and keep information without a brain, and the gases that put animals to sleep work on plants as well. Nobody has shown that a brain is the only kind of body that can feel.",
+   "against": "Plants sense, signal, choose and keep information with chemical signals, not a brain, and the gases that put animals to sleep work on plants as well. Nobody has shown that a brain is the only kind of body that can feel.",
    "status": "debated",
    "context": "This card is about the common view that feeling needs a brain."
   }
@@ -1662,7 +1662,7 @@
      "do": "1. Label the chairs: 'Yes, plants feel', 'These are responses, and feeling needs a brain', and 'Nobody can test this yet'. 2. Your child writes five facts from this unit on five slips, one fact on each. 3. Read the slips aloud.",
      "say": "A debate needs evidence. Write five things that plants have been shown to do. We will use the same facts in every chair.",
      "kid": "Label three chairs. Write five facts about what plants do, one on each slip.",
-     "parent": "Useful facts: a plant sends electrical signals. A plant tells a bite from a cut. A touch-me-not stops folding for harmless drops. Sleeping gases stop a touch-me-not from folding. A plant has no brain or nerve cells.",
+     "parent": "Useful facts: a plant sends electrical signals. A plant tells a bite from a cut. A touch-me-not stops folding for harmless drops. Sleeping gases stop a touch-me-not from folding. A plant sends signals with electrical and chemical wiring of her own, not with a brain or nerve cells.",
      "context": "This is the first step of Three Chairs. Here you label the chairs and write down five facts."
     },
     {
@@ -2113,7 +2113,7 @@
      "t": "truefalse",
      "p": "True or false: a plant needs nerves to send news from one leaf to another.",
      "a": false,
-     "why": "False. Plants have no nerves. News travels as waves of electric charge from cell to cell, and as hormones in the sap.",
+     "why": "False. Nerves are one kind of wiring, and plants use another. News travels as waves of electric charge from cell to cell, and as hormones in the sap.",
      "outcome": 1
     },
     {
@@ -2249,7 +2249,7 @@
      "t": "odd",
      "p": "Three of these are real paths for plant signals. Which one is not?",
      "a": 3,
-     "why": "Plants have no nerves. They send news through the air, inside their bodies as electrical and chemical signals, and from their roots into the soil.",
+     "why": "Nerves are animal wiring. Plants send news through the air, inside their bodies as electrical and chemical signals, and from their roots into the soil.",
      "opts": [
       "Through the air as a smell",
       "Inside the plant as an electrical signal",
@@ -2697,7 +2697,7 @@
     "Along fungal threads"
    ],
    "a": 2,
-   "why": "A wave of electric charge and calcium passes from cell to cell along the veins. Plants have no nerves, though the signal is partly electrical, as a nerve signal is.",
+   "why": "A wave of electric charge and calcium passes from cell to cell along the veins. Plants use other cells than nerves, though the signal is partly electrical, as a nerve signal is.",
    "outcome": 1
   },
   {
@@ -3114,7 +3114,7 @@
    "a": "A sender, a carrier and a receiver."
   },
   {
-   "q": "A plant has no nerves. How does news cross from leaf to leaf?",
+   "q": "A plant uses other wiring than nerves. How does news cross from leaf to leaf?",
    "a": "As a wave of electric charge from cell to cell, and as hormones in the sap."
   },
   {
@@ -3211,7 +3211,7 @@
      "Along nerves"
     ],
     "Along nerves",
-    "Plants send signals by the first three paths, but they have no nerves."
+    "Plants send signals by the first three paths. Nerves are an animal path, and plants use other cells."
    ],
    [
     [

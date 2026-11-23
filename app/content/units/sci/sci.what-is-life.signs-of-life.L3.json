@@ -388,7 +388,7 @@
    "claim": "Plants are less alive than animals.",
    "who": "Aristotle, a Greek thinker about 2,350 years ago, said plants have only a feeding and growing kind of life, with no feeling. Many people still feel this.",
    "for": "Plants have no eyes, ears, brains or nerves. They do not run from danger.",
-   "against": "Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. Plants feel, in their own way, without nerves.",
+   "against": "Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. Plants feel, in their own way, using signals instead of nerves.",
    "status": "rejected",
    "context": "This card is about the old idea that plants are less alive than animals."
   },
@@ -3219,7 +3219,7 @@
    "why_open": "Plants sense touch and respond to it. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows whether the touch is felt at all, or how to measure that."
   },
   {
-   "q": "How does a plant remember, with no brain?",
+   "q": "How does a plant remember, using signals instead of a brain?",
    "why_open": "The dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way."
   },
   {

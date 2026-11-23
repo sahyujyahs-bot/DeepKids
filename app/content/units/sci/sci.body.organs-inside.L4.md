@@ -555,7 +555,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    Options: The diaphragm moving down adds room that the tape cannot see / The lungs do not grow when you breathe in / The tape is too long  
    **Answer:** The diaphragm moving down adds room that the tape cannot see. *Why:* When the diaphragm moves down, it pushes the belly out and gives the lungs much of their new room. A tape round the chest only sees the ribs.
 15. (truefalse) A transplanted heart, whose nerves have been cut, still beats.  
-   **Answer:** True. *Why:* True. The pacemaker cells start each beat themselves, so a heart with no nerves still beats. It beats faster at rest than a normal heart, because the nerve brake is missing.
+   **Answer:** True. *Why:* True. The pacemaker cells start each beat themselves, so a heart still beats when its nerves are cut. It beats faster at rest than a normal heart, because the nerve brake is missing.
 ### Brake, Gas and Other Bodies (stretch) (stretch, 16 questions)
 1. (mcq) What does the vagus nerve do to the heart?  
    Options: It sends signals that slow the pacemaker down / It makes the heart beat faster / It starts the first beat of the heart  

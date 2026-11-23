@@ -140,11 +140,11 @@
    "perspectives": [
     {
      "who": "Many scientists who study plant behaviour",
-     "explanation": "Plants sense, remember and decide. They pick where to grow, using what they sense, much as animals pick where to go."
+     "explanation": "Plants sense, remember and decide. They pick where to grow, using what they sense, much as animals pick where to go. A brain is one kind of hardware for this, and plants use signals between cells."
     },
     {
      "who": "Many other scientists",
-     "explanation": "Plants have no brain, so their actions are automatic, like a door that opens when you step near it."
+     "explanation": "They say feeling needs a brain, which plants do not have, so their actions are automatic, like a door that opens when you step near it."
     }
    ],
    "art": "A shoebox cut open to show a pale potato shoot winding round two card walls towards a hole of light."
@@ -193,7 +193,7 @@
    "claim": "Plants feel and choose, just as animals do.",
    "who": "Some plant scientists, and many traditions in India",
    "for": "Plants sense light, touch, water and sound, remember what happened before, and change what they do.",
-   "against": "Other scientists call these actions automatic. They point out that plants have no brain or nerves, so they do not count this as feeling.",
+   "against": "Other scientists call these actions automatic. They say feeling needs a brain and nerves, which plants do not have, so they do not count this as feeling.",
    "status": "debated",
    "context": "This card is about whether plants feel and choose."
   }
@@ -2034,7 +2034,7 @@
  "open_questions": [
   {
    "q": "Do plants feel anything, the way we feel?",
-   "why_open": "Plants clearly sense light, touch, water and even sound, and they change what they do. Many scientists say plants feel and decide in their own way. Others say plants only react automatically, because plants have no brain. The argument is not settled."
+   "why_open": "Plants clearly sense light, touch, water and even sound, and they change what they do. Many scientists say plants feel and decide in their own way. Others say plants only react automatically, because feeling needs a brain. We see brains as one kind of hardware for feeling and deciding. The argument is not settled."
   },
   {
    "q": "How long can a resting seed stay alive?",
@@ -2318,7 +2318,7 @@
   ],
   "other_view": {
    "who": "Aristotle, a Greek thinker, and many scientists today",
-   "view": "Aristotle taught that plants feed, grow and make seeds, but have no senses at all. Many scientists today agree that plants sense the world, but they say plants react automatically, because plants have no brain."
+   "view": "Aristotle taught that plants feed, grow and make seeds, but have no senses at all. Many scientists today agree that plants sense the world, but they say plants react automatically, because they think feeling needs a brain."
   },
   "practice": {
    "title": "Still as a seed, breathing",

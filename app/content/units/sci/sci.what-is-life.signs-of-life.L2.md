@@ -57,8 +57,8 @@ Plants sense light, touch, water and warmth, and they act on what they sense. A 
 - e.g. A potato shoot in a box grows round corners to reach a hole of light.
 - e.g. A karela tendril that touches nothing stays straight. A tendril that touches a string coils round it.
 - e.g. Roots grow towards wet soil and away from dry soil.
-- **Many scientists who study plant behaviour:** Plants sense, remember and decide. They pick where to grow, using what they sense, much as animals pick where to go.
-- **Many other scientists:** Plants have no brain, so their actions are automatic, like a door that opens when you step near it.
+- **Many scientists who study plant behaviour:** Plants sense, remember and decide. They pick where to grow, using what they sense, much as animals pick where to go. A brain is one kind of hardware for this, and plants use signals between cells.
+- **Many other scientists:** They say feeling needs a brain, which plants do not have, so their actions are automatic, like a door that opens when you step near it.
 
 ## Mostly agreed
 - Plants breathe all the time, day and night. *How we know:* Scientists measure the gases around plants in light and in the dark. Plants always give out carbon dioxide from breathing. In sunlight, their leaves also take in carbon dioxide to make food, so we do not notice the breathing then.
@@ -81,7 +81,7 @@ Plants sense light, touch, water and warmth, and they act on what they sense. A 
   Against: A phone never eats, grows or makes baby phones. A phone runs on electricity from a charger, and stops when the battery is empty.
 - **Plants feel and choose, just as animals do.** (Some plant scientists, and many traditions in India; *debated*)  
   For: Plants sense light, touch, water and sound, remember what happened before, and change what they do.  
-  Against: Other scientists call these actions automatic. They point out that plants have no brain or nerves, so they do not count this as feeling.
+  Against: Other scientists call these actions automatic. They say feeling needs a brain and nerves, which plants do not have, so they do not count this as feeling.
 
 ## Roots
 We have tested sprouts, potatoes, curd and tricky cases for the signs of life. The sprouts lay still but kept breathing. Now we ask what that tells us about being alive.
@@ -100,7 +100,7 @@ Your breath and the sprouts' breath both turned chuna water milky. The same gas,
 - **Mahabharata, Shanti Parva, the talk between the sages Bhrigu and Bharadvaja:** Bhrigu teaches that trees are alive and sense the world. Their leaves and flowers fade in heat, so they feel warmth. A creeper finds a tree to climb, so the creeper senses the way. Trees drink water through their roots. (In the story The Potato in the Dark Cupboard, the potato shoots grew towards the crack of light. A karela tendril curls round a string. Plants sense the world and act on it, though they seem still.)
 - Science (settled): All living beings breathe, plants included, day and night. Moong sprouts in a shut dabba give out enough carbon dioxide to turn chuna water milky in a few hours.
 - Science (debated): Plants sense light, touch, water and warmth and change what they do. Whether plants also feel what happens to them is still argued about.
-- Other view, Aristotle, a Greek thinker, and many scientists today: Aristotle taught that plants feed, grow and make seeds, but have no senses at all. Many scientists today agree that plants sense the world, but they say plants react automatically, because plants have no brain.
+- Other view, Aristotle, a Greek thinker, and many scientists today: Aristotle taught that plants feed, grow and make seeds, but have no senses at all. Many scientists today agree that plants sense the world, but they say plants react automatically, because they think feeling needs a brain.
 - Practice, Still as a seed, breathing (3 min): Sit very still, like a seed in a packet. Hold your palm in front of your mouth. Breathe out slowly and feel the warm air on your hand. Breathe in slowly and feel the air go in. You are not moving, but your breath is. Now look at a plant or a sprout near you. Plants are breathing quietly too.
 - Ask: If breathing never stops, is anything in a living body ever really still?
 - Ask: The air you breathe out goes into a plant. Is part of you now in the plant?
@@ -570,7 +570,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - A coconut lying in a backyard in Kerala or Goa, with a green shoot growing out of the husk.
 
 ## Open questions
-- **Do plants feel anything, the way we feel?** Plants clearly sense light, touch, water and even sound, and they change what they do. Many scientists say plants feel and decide in their own way. Others say plants only react automatically, because plants have no brain. The argument is not settled.
+- **Do plants feel anything, the way we feel?** Plants clearly sense light, touch, water and even sound, and they change what they do. Many scientists say plants feel and decide in their own way. Others say plants only react automatically, because feeling needs a brain. We see brains as one kind of hardware for feeling and deciding. The argument is not settled.
 - **How long can a resting seed stay alive?** Date palm seeds about 2,000 years old were found in Israel. They were planted in 2005, and one grew into a tree. Nobody knows the longest a seed can rest and still wake up.
 - **If there is life on other planets, would we know it when we saw it?** Our seven signs come from life on Earth. Life somewhere else might be very different, and might not show the signs in a way we would notice.
 

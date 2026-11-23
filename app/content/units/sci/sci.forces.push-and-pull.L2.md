@@ -75,7 +75,7 @@ When a bag pulls on your fingers, your skin is pressed and stretched. Tiny senso
   Against: No force can be seen, not even a hand's push. We see what the wind does: kites rise, clothes flap and boats with sails move. That is how we know the wind pushes.
 - **Only beings with a brain can sense a push.** (Many people; *debated*)  
   For: We feel a push through our nerves and brain, and so do other animals like dogs and crows.  
-  Against: A touch-me-not plant has no brain, yet she senses a finger's touch and folds her leaves within seconds. So a plant can sense a touch without a brain. Some scientists say this is an automatic response, not a feeling.
+  Against: A touch-me-not plant senses a finger's touch with the cells in her leaves and folds them within seconds. Brains and nerves are one kind of hardware for sensing, and she uses another. Some scientists say this is an automatic response, not a feeling.
 
 ## Roots
 We hunted for forces at home, felt pushes and pulls with our eyes shut, and did the Secret Packet test. Now we ask what the Secret Packet test tells us about ourselves and the world.

@@ -100,7 +100,7 @@ Here is what happens to one breath of air and one bite of food. Your lungs take 
 Look at a cell in your toe. This cell is far from your lungs, but still uses oxygen. Tiny parts inside the cell, called mitochondria, use oxygen and food to make energy. They give out carbon dioxide, which the blood carries back to the lungs. The cell also has tiny bags of strong juice that break down food and worn-out parts, a little like a tiny stomach. And the cell has sensors on the outside that notice chemicals and pass on signals. Organs are what happens when huge numbers of cells share out the work. Heart cells are very good at squeezing. Nerve cells are very good at carrying messages. But almost all cells still use oxygen, break down food and sense things, each in a small way of their own. The first living things, long ago, were single cells, and each one did every job alone.
 - e.g. Amoebas in pond water have no stomach. They wrap themselves around food and break it down inside a little bubble.
 - e.g. Heart muscle cells grown in a dish in a lab start to twitch and beat by themselves.
-- e.g. Bacteria have no brain, but they can sense food and swim towards it.
+- e.g. Bacteria sense food with sensors on the cell and decide to swim towards it.
 ### Does the gut have a mind of its own? · *debated*
 Your stomach and intestines are wrapped in a net of about 500 million nerve cells. This net can run the squeezing of the gut by itself, even if the nerves to the brain are cut. Some scientists call it the 'second brain'. The gut also sends many messages up to the brain. Scientists are now studying how the gut, and the germs that live in it, may affect our feelings. But they still argue about how much the gut and its germs change how we feel.
 - e.g. People talk about 'butterflies in the tummy' when they are nervous. The brain and the gut are talking to each other.
@@ -110,7 +110,7 @@ Your stomach and intestines are wrapped in a net of about 500 million nerve cell
 - **Many brain scientists:** The gut's nerve net runs digestion very well. But it is much smaller and simpler than the brain, so calling it a brain can confuse people.
 - **Scientists studying gut germs:** The trillions of germs in our gut seem to send signals that reach the brain. In mice, they change behaviour. Whether they change human feelings much is still being tested.
 ### Is the brain where 'you' are? · *debated*
-Scientists agree the brain is needed for thinking and feeling. If part of the brain is hurt, a person can lose words or memories, or even feel differently. But nobody knows how a lump of nerve cells makes the feeling of being you. People have argued about this for thousands of years. Here are the main ideas.
+Scientists agree that in people the brain does much of the thinking and feeling, and it is one kind of hardware for this: bacteria and plants sense and decide with other kinds. If part of the brain is hurt, a person can lose words or memories, or even feel differently. But nobody knows how a lump of nerve cells makes the feeling of being you. People have argued about this for thousands of years. Here are the main ideas.
 - e.g. People with an artificial heart pump still think, love and laugh as before. That shows the heart is not where thinking happens.
 - e.g. When you dream, your brain makes a whole world that is not really there.
 - e.g. Brain scans show different parts of the brain lighting up when you read, sing or feel scared.
@@ -141,7 +141,7 @@ Scientists can now grow tiny bits of organs in a dish, from a person's own cells
 - The heart is in the middle of the chest, tipped a little to the left, and it pumps blood around the body. *How we know:* Doctors can see it beating with ultrasound. In 1628, William Harvey measured how much blood the heart pushes out and showed that blood goes round and round.
 - The lungs take oxygen from the air into the blood and send carbon dioxide out. *How we know:* The air you breathe out has less oxygen and more carbon dioxide than the air you breathe in. Scientists have measured this many times.
 - The stomach holds food and breaks it down with churning muscles and strong juices. *How we know:* In the 1820s, a doctor called William Beaumont watched digestion through a hole that a gunshot left in a man's stomach. Today, doctors look inside with a tiny camera on a tube.
-- The brain controls the body and is needed for thinking, feeling and remembering. *How we know:* When a part of the brain is hurt, the job of that part changes or stops. Scanners show parts of the brain becoming busy during different tasks.
+- In people, the brain controls the body and does much of the thinking, feeling and remembering. *How we know:* When a part of the brain is hurt, the job of that part changes or stops. Scanners show parts of the brain becoming busy during different tasks.
 - Organs are made of cells, and every organ depends on the others. *How we know:* Microscopes show cells in every organ. When one organ fails, doctors see other organs struggle too.
 
 ## How we found out
@@ -752,7 +752,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 1. (mcq) Sponges are animals that live in the sea. They have no heart, no stomach and no brain. How do sponges stay alive?  
    Options: They do not need oxygen or food / Water flows through them, and their cells take oxygen and food straight from the water / They borrow organs from fish / They only live for one day  
    **Answer:** Water flows through them, and their cells take oxygen and food straight from the water. *Why:* Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. Sponges grow, feed and have babies, so they are alive. Organs are what happens when cells share out jobs in a bigger body.
-2. (mcq) Scientists put some heart muscle cells in a dish, with no brain anywhere. The cells start to beat by themselves. What does this show?  
+2. (mcq) Scientists put some heart muscle cells in a dish, away from any brain. The cells start to beat by themselves. What does this show?  
    Options: The heart needs the brain to start every beat / Heart cells have their own beat built in / The dish is shaking / The cells are copying each other's colour  
    **Answer:** Heart cells have their own beat built in. *Why:* Heart cells beat on their own. The brain only speeds them up or slows them down. Most people guess the brain starts every beat. This test shows that guess is only half true.
 3. (write) In the 1980s, most doctors thought stomach ulcers, painful sores inside the stomach, came from worry and spicy food. Barry Marshall drank a cup of germs and his stomach became sore. Why did this convince people more than arguing? Why should nobody copy him?  

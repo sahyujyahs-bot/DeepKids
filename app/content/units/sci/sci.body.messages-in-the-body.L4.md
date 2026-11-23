@@ -92,8 +92,8 @@ A dog barks suddenly behind you. Nerves act first. You jump and turn within a fr
 - e.g. A sudden fright: nerves make you jump, and adrenaline keeps your heart pounding.
 - e.g. Evening: your eyes tell your brain that the light is fading. A gland in the brain then releases the sleep hormone melatonin.
 - e.g. A drink of water: sensors in the brain notice the change in the blood. The pituitary gland then releases less ADH.
-### Plants send messages without nerves · *debated*
-Plants have no neurons. Yet plants sense, decide and send messages through their bodies. They use hormones. A hormone called auxin gathers on the shady side of a shoot, and the shoot bends towards the light. A ripe banana gives off a gas hormone that tells nearby fruit to ripen. Plants also send electrical signals. Touch a touch-me-not, and an electrical signal travels along the leaf at about 2 centimetres per second. The leaflets fold as it passes. In 2018 scientists filmed a signal spreading from a bitten leaf to other leaves within a few minutes. Scientists agree on these findings. They disagree about what to call them.
+### Plants send messages in their own way · *debated*
+Plants do not use neurons, which are one kind of hardware for sending signals. Plants sense, decide and send messages through their bodies in their own way. They use hormones. A hormone called auxin gathers on the shady side of a shoot, and the shoot bends towards the light. A ripe banana gives off a gas hormone that tells nearby fruit to ripen. Plants also send electrical signals. Touch a touch-me-not, and an electrical signal travels along the leaf at about 2 centimetres per second. The leaflets fold as it passes. In 2018 scientists filmed a signal spreading from a bitten leaf to other leaves within a few minutes. Scientists agree on these findings. They disagree about what to call them.
 - e.g. A touch-me-not folds their leaflets one pair after another, as the signal passes along.
 - e.g. A money plant in a dim room bends their shoots towards the window.
 - e.g. A raw mango ripens sooner in a bag with a ripe banana.
@@ -166,7 +166,7 @@ You began as one cell. That cell divided again and again, and the cells became d
 - *deep:* After a fright your heart pounds for minutes. Is the fear in your brain, in your blood, or in both? (hint: In 1884 the thinker William James asked whether we feel afraid because our heart pounds.)
 - *big:* Your kidneys, your heart and your gut each answer messages without asking your brain. Where in your body are you? (hint: There may be more than one good answer.)
 - *big:* Hormones were found by tests on dogs. In one test, the dog was put to sleep with a drug and did not wake up again. The finding has helped millions of people. Was the test right? (hint: People argued about this in London at the time. Laws on such tests are much stricter now.)
-- *big:* A plant has no nerves, yet a bitten leaf sends a signal to the other leaves. What does a body need in order to send a message? (hint: Think about a sender, a path and a receiver that can answer.)
+- *big:* A bitten leaf warns the other leaves, and the plant uses other cells than nerves. What does a body need in order to send a message? (hint: Think about a sender, a path and a receiver that can answer.)
 
 ## Story: The Last Line of the Kolam
 *Yazhini, Malar Chithi and their Pongal morning are made up. These facts are real. A hand pulls back from a hot thing by a reflex through the spinal cord. The feeling of pain comes a moment later. A fright makes the adrenal glands above the kidneys put adrenaline into the blood. Adrenaline makes the heart beat hard and the hands tremble, and the body clears it in some minutes. Cool running water is the right first aid for a small burn.*
@@ -602,7 +602,7 @@ That evening the border was still there. One hand's length of it shook like a be
 4. (mcq) Some asthma medicines fit the adrenaline receptors of the airways. What do they do there?  
    Options: Make the airways widen / Make the heart stop / Make the bones grow / Make the kidneys save water  
    **Answer:** Make the airways widen. *Why:* Adrenaline tells the muscle round the airways to relax, so the airways widen. A medicine that fits the same receptor gives the same order.
-5. (truefalse) Plants send signals from leaf to leaf, although they have no neurons.  
+5. (truefalse) Plants send signals from leaf to leaf without using neurons.  
    **Answer:** True. *Why:* True. Plants carry electrical signals and use hormones. A touch-me-not folds as an electrical signal passes along the leaf.
 6. (truefalse) A signal in a nerve travels about as fast as electricity in a copper wire.  
    **Answer:** False. *Why:* False. The fastest nerve signals travel at about 100 metres per second. Electricity in a wire is millions of times faster.
@@ -689,7 +689,7 @@ That evening the border was still there. One hand's length of it shook like a be
 - **How do billions of nerve signals add up to one thought or one feeling?** Scientists can record signals from single neurons and from whole brains. Nobody can yet explain how the signals become what a being feels.
 - **How many hormones does a body make?** New hormones are still being found. A hormone from fat cells was found in 1994, and one from the stomach in 1999. Fat, bone and muscle are now known to act as glands.
 - **Do the microbes in the gut send messages that change how we feel?** Gut microbes make chemicals that reach the blood and the gut's nerves. In mice these change behaviour. In people the evidence is still thin.
-- **How does a plant carry a fast signal from leaf to leaf without nerves?** The signals were filmed in 2018, and they use a chemical that neurons also use. Scientists are still working out which cells carry them and how.
+- **How does a plant carry a fast signal from leaf to leaf along cells that are not nerves?** The signals were filmed in 2018, and they use a chemical that neurons also use. Scientists are still working out which cells carry them and how.
 - **Can a spinal cord that has been cut be helped to carry messages again?** Nerve fibres in the spinal cord hardly grow back by themselves. Since 2018 a few people with injuries have walked again with the help of electrical signals from a small device. It does not yet work for everyone.
 
 ## Questions to ask kids

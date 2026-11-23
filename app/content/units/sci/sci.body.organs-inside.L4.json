@@ -1864,7 +1864,7 @@
           "t": "truefalse",
           "p": "A transplanted heart, whose nerves have been cut, still beats.",
           "a": true,
-          "why": "True. The pacemaker cells start each beat themselves, so a heart with no nerves still beats. It beats faster at rest than a normal heart, because the nerve brake is missing.",
+          "why": "True. The pacemaker cells start each beat themselves, so a heart still beats when its nerves are cut. It beats faster at rest than a normal heart, because the nerve brake is missing.",
           "outcome": 2
         }
       ]

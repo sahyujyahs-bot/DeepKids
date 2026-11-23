@@ -106,7 +106,7 @@ When you think, remember or feel, cells in your brain are sending signals. A neu
 - e.g. Learning to ride a cycle makes some links between your neurons stronger.
 - e.g. An ant's tiny brain has about a quarter of a million neurons.
 ### Can a single cell think? · *debated*
-A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. They do this by remembering, for a few seconds, how much sugar they sensed before. If there is more now, they keep swimming. If there is less, they tumble and try a new direction. In an experiment, scientists squirted tiny specks at a trumpet-shaped single cell called Stentor, about one millimetre long. They tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.
+A single cell senses with sensors and chemical signals instead of nerves and a brain, which are one kind of hardware for the same job. Scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. They do this by remembering, for a few seconds, how much sugar they sensed before. If there is more now, they keep swimming. If there is less, they tumble and try a new direction. In an experiment, scientists squirted tiny specks at a trumpet-shaped single cell called Stentor, about one millimetre long. They tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.
 - e.g. E. coli bacteria swim towards food by comparing now with a few seconds ago.
 - e.g. Stentor tried bending away, then closing up, then swimming off when specks kept landing on them.
 - e.g. A slime mould in Japan joined oat flakes in a pattern much like Tokyo's railway map.
@@ -153,7 +153,7 @@ All cells come from cells. So where did the very first cell come from? Nobody kn
   Against: He made hundreds of lenses, tested again and again, and wrote careful letters for 50 years. When the Royal Society in London doubted him, he sent signed letters from respected people in Delft who had seen the creatures too. Then the Society saw them for itself in 1677.
 - **Plants can sense and respond, almost like animals, using electrical signals.** (Jagadish Chandra Bose, an Indian scientist, about 120 years ago, and some plant scientists today.; *debated*)  
   For: Bose measured electrical signals in plants that looked like signals in animal muscles. Today we know plant cells do send electrical and chemical signals.  
-  Against: Plants have no nerves or brain. Many scientists say calling plants 'clever' or 'feeling' goes beyond the evidence.
+  Against: Plants do not have nerves or a brain like animals do. Many scientists say calling plants 'clever' or 'feeling' goes beyond the evidence.
 
 ## Roots
 We have been learning that every living thing is made of cells, and that new cells come only from living cells. Now we ask what that tells us about ourselves and the world.
@@ -184,11 +184,11 @@ Every cell in you came from a cell, and that one from another, back to the first
 - *big:* If you are made of trillions of living cells, is each cell a little 'you'? Or is 'you' something all of them make together? (hint: Can one of your cheek cells feel happy? Can you, without your cells?)
 - *big:* You began as one single cell. Where were 'you' before that? (hint: That first cell came from your mother's and father's cells. And theirs came from cells too.)
 - *deep:* Why are cells so small? Why not one giant cell the size of an elephant? (hint: Food gets into a cell through their membrane, their thin skin. Would food reach the middle of a huge cell quickly?)
-- *deep:* A bacterium has no brain, but they swim towards food. Is that choosing? (hint: When you walk towards the smell of food, what are you doing?)
+- *deep:* A bacterium senses food with sensors on her cell and swims towards it. Is that choosing? (hint: When you walk towards the smell of food, what are you doing?)
 - *deep:* Every cell comes from a cell. So how did the first cell begin? (hint: Think of a soap bubble: a thin skin with something inside. Could a tiny bubble like that be a start?)
 - *deep:* A wooden chair is made of cells that were once alive. Is it more like a stone, or more like a tree? (hint: What can a tree do that a chair cannot? What do a chair and a tree share?)
 - *big:* Leeuwenhoek was a cloth-seller with no degree, and people doubted him. What makes us believe someone? (hint: What did he do to show others he was right?)
-- *deep:* A slime mould is one cell, and they can remember. Where is a memory kept when there is no brain? (hint: The slime mould leaves a trail behind them. Could the trail be a kind of memory?)
+- *deep:* A slime mould is one cell, and they can remember. Where is a memory kept in a single cell? (hint: The slime mould leaves a trail behind them. Could the trail be a kind of memory?)
 - *big:* All living things are made of cells. Does that make a mango tree, an ant and you a family? (hint: Scientists think all cells come from one first cell, long ago.)
 - *big:* The tiny energy-makers inside your cells, called mitochondria, were once bacteria who lived on their own. Are they part of you, or guests who moved in long ago? (hint: Long ago, one cell took in a bacterium, and the two lived on together. Today neither can live without the other. When two lives join like that, are they one being or two?)
 
@@ -225,7 +225,7 @@ The drop was a city. Clear slipper-shaped creatures zoomed past, spinning as the
 
 Their wide mouth was fringed with hairs, beating so fast they blurred into a shimmer. Specks of mud swirled into the trumpet, like leaves into a whirlpool. Kavya looked at the sheet her teacher had given her. There they were, drawn in pencil. 'Stentor. One single cell. Almost big enough to see with your eyes.'
 
-One cell. No brain, no eyes, no hands. Just one cell, standing on a weed and eating.
+One cell, with no eyes and no hands, standing on a weed and eating.
 
 Rohan came to look, because Kavya would not stop squeaking. He watched for a whole minute. 'They're like a pump,' he said. 'They just suck things in. A machine.'
 
@@ -259,7 +259,7 @@ Kavya thought of the pale bricks of the onion, and the blue fried eggs from her 
 
 Rohan held out his hand for the paper microscope. Kavya gave it to him. He put his eye to the bead and stayed there a long time, looking for the trumpet in the clear water, as if they might come back to tell him more.
 
-**For the parent:** A single cell, with no brain at all, sensed the specks, tried one thing, then another, and chose to leave. Brains are made of cells, so thinking may be older than brains.
+**For the parent:** A single cell sensed the specks, tried one thing, then another, and chose to leave. Brains are made of cells, so thinking may be older than brains.
 
 - Ask: What did the onion skin look like to Kavya? What were the bricks really?
 - Ask: Rohan said cells are just bricks that don't do anything. What did the trumpet cell do that changed his mind?
@@ -304,7 +304,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **Printable score sheet: Runs to reach the food:** Game 1 runs: ___; Game 2 runs: ___; Game 3 runs: ___
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height (a lemon works well). 3. Gently cover the bacterium's eyes, or ask them to keep them shut.  
-  *Parent says:* A bacterium is one tiny cell. They have no eyes and no brain. Yet they find food. Let's find out how, by being one.  
+  *Parent says:* A bacterium is one tiny cell. They have no eyes, but sensors on the cell tell them where food is. Let's find out how, by being one.  
   *Child mode:* You are a bacterium. You are one cell. You have no eyes. Can you find the food?
   - Note: Move chairs and sharp corners away, and walk beside the child. A slow spin is enough for the tumble.
 - **s2 (8 min)**  
@@ -596,18 +596,18 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **creative:** Add one or two meeting points between cities. Sometimes three roads meeting at a point saves string.; Think like the slime mould: start with string everywhere, then remove the strings that are not needed.; Ask: what if one road breaks? The slime mould kept a few extra links, so the network still worked.
 - **s1 (5 min)**  
   *Parent does:* Place the six cups across the floor, about one big step apart.  
-  *Parent says:* A slime mould is one giant cell, with no brain. Here are six cups. They are the cities. Can you join them with the least string?  
+  *Parent says:* A slime mould is one giant cell that senses with chemical signals. Here are six cups. They are the cities. Can you join them with the least string?  
   *Child mode:* Put out 6 cups. They are cities. Join them with as little string as you can.
 - **s2 (15 min)**  
   *Parent does:* Try three designs. Measure the string each time and write it down.  
   *Parent says:* Which design used the least string? Can you still travel from any city to any other?  
   *Child mode:* Try 3 ways to join the cities. Measure the string each time.
-  - Check: A slime mould joined food in a pattern like Tokyo's railway. What does this show? → **One cell with no brain can find good paths**
+  - Check: A slime mould joined food in a pattern like Tokyo's railway. What does this show? → **One cell can find good paths**
 - **s3 (10 min)**  
   *Parent does:* Your child explains their best design, then sets out six towns they know, using bottle caps, and joins them with string.  
   *Parent says:* How did you decide which strings to keep? How do you think the slime mould decided?  
   *Child mode:* Explain your best design. Then set out six towns with bottle caps. Join them with string.
-  - Think: The slime mould has no brain. How could they still choose the best tubes?
+  - Think: The slime mould is one cell with no eyes and no map. How could she still choose the best tubes?
 
 ## Worksheets
 ### Cell Spotter (core) (core, 15 questions)
@@ -699,7 +699,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 7. (mcq) Which of these is an idea that scientists are still testing, not a settled fact?  
    Options: All living things are made of cells / New cells come from cells / The first cells began as tiny fatty bubbles holding molecules that could copy themselves / Plant cells have walls  
    **Answer:** The first cells began as tiny fatty bubbles holding molecules that could copy themselves. *Why:* How the first cell began is still an open question. The fatty-bubble idea is one of the best guesses. The other three have been checked by millions of observations.
-8. (mcq) A Stentor is a trumpet-shaped single cell with no brain. Drop chalk specks onto one, and it bends away, then reverses its hairs, then shrinks, then swims off. Which answer best describes this?  
+8. (mcq) A Stentor is a trumpet-shaped single cell. Drop chalk specks onto one, and it bends away, then reverses its hairs, then shrinks, then swims off. Which answer best describes this?  
    Options: Being pushed by the water / Doing exactly one thing for ever / Trying different responses, one after another / Sleeping  
    **Answer:** Trying different responses, one after another. *Why:* Stentor tries a series of different responses. In 2019, scientists repeated this experiment and found that most Stentors did try different things, though not always in the same order. Being pushed by the water would not explain why they changed what they did.
 9. (perspective) Scientists watch a bacterium smell food, remember for a few seconds and turn towards the food. They disagree about what to call it.  
@@ -786,7 +786,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **How did the very first cell begin?** Nobody was there, and no fossils of the first cells survive. Scientists test ideas in labs, like tiny fatty bubbles holding copying molecules, but no one has made a living cell from non-living matter.
 - **Can a single cell feel anything?** We can see what a cell does, but not what, if anything, it is like to be that cell. Nobody knows how to test it.
 - **Should we call what a single cell does 'thinking'?** Scientists agree cells sense, choose and remember a little. They disagree about where to draw the line for the word 'thinking'.
-- **How does a slime mould, with no brain, decide which tubes to keep?** Scientists have good models: tubes that carry more flow grow thicker, and the rest fade. But the full story of how one cell coordinates all their tubes is still being studied.
+- **How does a slime mould, a single cell, decide which tubes to keep?** Scientists have good models: tubes that carry more flow grow thicker, and the rest fade. But the full story of how one cell coordinates all their tubes is still being studied.
 - **Could there be life on other worlds that is not made of cells?** All life we know is made of cells. We have only ever studied life on Earth.
 - **How many kinds of single-celled life are there on Earth?** Most have never been grown in a lab or named. Scientists find new ones in soil, seas and even clouds.
 - **Exactly how many cells are in your body right now?** Careful estimates say about 30 trillion for a grown-up, but bodies differ and cells are always dying and being replaced.

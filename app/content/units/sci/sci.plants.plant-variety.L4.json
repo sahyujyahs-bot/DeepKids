@@ -415,7 +415,7 @@
   },
   {
    "claim": "A plant responds to a bite only where they are bitten.",
-   "who": "A common idea, because plants have no nerves like ours.",
+   "who": "A common idea, because plants send signals in a different way from our nerves.",
    "for": "The leaf that is bitten does change first and most.",
    "against": "Scientists have measured signals travelling from a bitten leaf to the plant's other leaves within minutes. Some plants also give off smells that warn nearby plants. A plant responds as a whole.",
    "status": "rejected"
@@ -435,7 +435,7 @@
   {
    "q": "When a plant makes more bitter chemicals after a bite, are they choosing to do it?",
    "kind": "deep",
-   "hint": "What would choosing look like in a body without a brain? What does your body do on its own when you get a cut?"
+   "hint": "How might a body choose using chemical signals instead of a brain? What does your body do on its own when you get a cut?"
   },
   {
    "q": "A Kani guide shares the secret of a forest fruit. A company makes money from it. Who should get what?",

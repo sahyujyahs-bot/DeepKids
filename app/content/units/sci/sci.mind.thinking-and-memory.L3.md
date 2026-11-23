@@ -34,7 +34,7 @@
 ### What the brain does · *defined*
 **Definition:** The brain is the organ that senses the world, thinks, remembers, feels and controls the body.
 
-Your brain sits inside your skull, floating in a liquid that protects it. A grown-up's brain weighs about 1.3 kilograms, a little more than a full one-litre bottle of water. Messages come in from your eyes, ears, nose, tongue and skin. Your brain puts them together, works out what they mean, and decides what to do. It sends messages out to your muscles to move you. It also runs things you never notice, like your breathing and your heartbeat. Your brain is only about 2% of your body's weight, but it uses about one fifth of the energy from your food.
+Your brain sits inside your skull, floating in a liquid that protects it. A grown-up's brain weighs about 1.3 kilograms, a little more than a full one-litre bottle of water. Messages come in from your eyes, ears, nose, tongue and skin. Your brain puts them together, works out what they mean, and decides what to do. It sends messages out to your muscles to move you. It also runs things you never notice, like your breathing and your heartbeat. Your brain is only about 2% of your body's weight, but it uses about one fifth of the energy from your food. A brain is one kind of hardware for sensing, deciding and remembering. Plants and single cells do the same jobs with other hardware.
 - e.g. When an auto honks behind you, your brain hears it, works out where it is, and makes you step aside, all in under a second.
 - e.g. While you sleep, your brain keeps your heart beating and your lungs breathing.
 - e.g. When you read a word, your brain turns black marks on paper into a meaning.
@@ -127,17 +127,17 @@ Every human brain starts from the same plan, with the same kinds of neurons. The
 - **Aristotle, Nicomachean Ethics, Book 2, chapter 1:** “ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί· / οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα” We become builders by building, and lyre players by playing the lyre, a small kind of harp. In the same way, we become fair by doing fair things. (Aristotle saw that what we do again and again shapes what we become. Brain science now shows one way it happens: practice changes the links in the brain.)
 - Science (settled): Synapses that are used again and again grow stronger, and this is one way the brain stores memories and skills.
 - Science (open): How signals between neurons become the experience of remembering is not known.
-- Science (debated): Plants and single-celled beings learn and remember without neurons. Scientists are still working out how, and some argue about whether to call it learning.
+- Science (debated): Plants and single-celled beings learn and remember with chemical signals, not neurons. Scientists are still working out how, and some argue about whether to call it learning.
 - Other view, Many neuroscientists: A memory is a pattern of strengthened links between neurons, and nothing more. There is no awareness that holds on to experiences. The brain is all there is to memory, and talk of a mind beyond it adds nothing.
 - Practice, Call a memory back (3 min): Sit still and close your eyes. Breathe in slowly, and out slowly, three times. Now think of the smell of your favourite food. Wait for it. Notice the moment it comes back. Did you make it come, or did it come by itself? Now let it go. Breathe once more and open your eyes.
 - Ask: When a memory comes back, where was it while you were not thinking of it?
 - Ask: If practice changes your brain, what would you like to practise, to grow into who you want to be?
-- Ask: A touch-me-not plant remembered without a brain. What do you think a memory really is?
+- Ask: A touch-me-not plant remembered with chemical signals, not a brain. What do you think a memory really is?
 
 ## Deep and big questions
 - *big:* If your brain changes every time you learn something, are you the same person you were last year? (hint: Think about what has stayed the same about you, and what has changed.)
 - *deep:* You can hum a song you heard a year ago, but you forget ten words heard yesterday. Why? (hint: Think about the tune, the rhythm, and how often you heard the song.)
-- *deep:* A touch-me-not plant has no brain, yet learned that being dropped was harmless. So what is a memory made of? (hint: Think about what the plant changed, and what your brain changes.)
+- *deep:* A touch-me-not plant learned that being dropped was harmless, using chemical signals, not a brain. So what is a memory made of? (hint: Think about what the plant changed, and what your brain changes.)
 - *big:* If you could never forget anything, would that be a good thing? (hint: Think about the things you are glad to forget, and what it would be like to remember every lunch you ever ate.)
 - *deep:* When you remember the voice of someone you love, where is that voice? (hint: Think about whether there is a sound in your head, or something else.)
 - *deep:* Is a skill in your hands or in your brain? (hint: Think about your other hand, which has the same muscles but not the same practice.)
@@ -634,7 +634,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 13. (mcq) Mary Calkins found that colours shown three times were remembered better than colours shown once. What is the best explanation?  
    Options: Each time you meet a pair, the link between them gets stronger / Colours shown three times are brighter / The numbers with them were easier  
    **Answer:** Each time you meet a pair, the link between them gets stronger. *Why:* Seeing a pair again and again strengthens the link between the colour and the number. The colours and numbers were the same kind for every pair, so brightness or easy numbers do not explain it.
-14. (mcq) A slime mould has no brain and no neurons, yet finds the shortest way through a maze to food. What does this suggest?  
+14. (mcq) A slime mould finds the shortest way through a maze to food, using one cell and chemical signals, not neurons. What does this suggest?  
    Options: Finding a way and leaving a trail does not need neurons / Slime moulds secretly have brains / Mazes are easy for every living being  
    **Answer:** Finding a way and leaving a trail does not need neurons. *Why:* Scientists have seen slime moulds, which are single cells, find short ways through mazes. This suggests that a brain is not needed for every kind of finding the way. Whether to call this memory is still argued about.
 15. (truefalse) If two people remember the same festival differently, one of them must be lying.  
@@ -703,7 +703,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 ## Open questions
 - **How do signals between neurons become the experience of remembering?** Scientists can see which neurons send signals when we remember, but nobody knows how that becomes the feeling of seeing a loved one's face in your mind.
 - **Why do we sleep, and exactly what does sleep do to memories?** Sleep clearly helps memories settle, and memory areas replay the day in sleep. But scientists still argue about exactly how this works and why it needs sleep.
-- **How do plants and single-celled beings keep memories without neurons?** Experiments show they learn and remember, but scientists are only beginning to find out what inside them holds the memory.
+- **How do plants and single-celled beings keep memories with other hardware than neurons?** Experiments show they learn and remember, but scientists are only beginning to find out what inside them holds the memory.
 - **Why do we forget almost everything from before the age of three?** Young children learn huge amounts, but most grown-ups remember nothing from their first years. There are several ideas, and none is proven.
 
 ## Questions to ask kids

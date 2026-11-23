@@ -172,7 +172,7 @@ Most medicine plants sold in India are still collected from the wild, not grown 
 - **Traditional plant knowledge should be free for everyone, including companies.** (People who believe knowledge belongs to all, and some companies.; *debated*)  
   For: Knowledge spreads and helps more people when it is free, like a public library.  
   Against: Communities kept this knowledge alive and protected the plants. If a company makes money from it without asking or sharing, that is unfair to the people who found it.
-- **A plant responds to a bite only where they are bitten.** (A common idea, because plants have no nerves like ours.; *rejected*)  
+- **A plant responds to a bite only where they are bitten.** (A common idea, because plants send signals in a different way from our nerves.; *rejected*)  
   For: The leaf that is bitten does change first and most.  
   Against: Scientists have measured signals travelling from a bitten leaf to the plant's other leaves within minutes. Some plants also give off smells that warn nearby plants. A plant responds as a whole.
 
@@ -203,7 +203,7 @@ Plants, moulds, insects and people all come from shared ancestors. Over millions
 ## Deep and big questions
 - *big:* A clove tree makes eugenol, a strong-smelling chemical, to protect their buds. Is it fair for us to take it? (hint: Think about whether the clove tree loses anything when people pick the buds. Then think about what people give back by planting clove trees.)
 - *deep:* Why are so many medicines bitter? (hint: Bitter is often a warning taste. Think about what a bitter chemical is for, in the plant.)
-- *deep:* When a plant makes more bitter chemicals after a bite, are they choosing to do it? (hint: What would choosing look like in a body without a brain? What does your body do on its own when you get a cut?)
+- *deep:* When a plant makes more bitter chemicals after a bite, are they choosing to do it? (hint: How might a body choose using chemical signals instead of a brain? What does your body do on its own when you get a cut?)
 - *big:* A Kani guide shares the secret of a forest fruit. A company makes money from it. Who should get what? (hint: Think of the guide, the scientists who tested it, the company and the forest itself.)
 - *big:* Is a plant brought from another country still a visitor after 500 years? (hint: Chilli came to India about 500 years ago. Is chilli Indian now? What makes a plant belong somewhere?)
 - *deep:* How does a neelakurinji plant count to 12 years? (hint: Nobody knows. Think of the things that change every year: rain, heat, day length. Could a plant count those?)

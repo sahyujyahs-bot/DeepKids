@@ -669,7 +669,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 7. (write) In the bread test, you touched slices of bread with dirty hands, with hands washed in water only, and with hands washed with soap. Which slice grew the most spots by day 6? Why do you think that slice grew the most?  
    **Answer:** For example: the dirty-hands slice grew the most spots. My hands had touched door handles and shoes, so they carried many germs and mould spores. Each one landed on the damp bread and grew into a spot.. *Why:* A strong answer says what the child really saw, with numbers if they counted, and links the spots to germs carried on the hands.
 8. (fill) The hair you can see, the tips of your nails and the top layer of skin are made of ____ cells. That is why cutting hair and nails does not hurt.  
-   **Answer:** ['dead']. *Why:* Living cells at the root keep making new cells and pushing them out. By the time they reach the surface, they are dead. Dead cells have no nerves, so cutting them does not hurt.
+   **Answer:** ['dead']. *Why:* Living cells at the root keep making new cells and pushing them out. By the time they reach the surface, they are dead. Dead cells cannot send signals, so cutting them does not hurt.
 9. (truefalse) Milk teeth do not need brushing, because they fall out anyway.  
    **Answer:** False. *Why:* False. Many people think this. But a milk tooth with a hole can hurt and get infected for years before it falls out. Milk teeth also keep the space for the big teeth growing underneath.
 10. (mcq) You sneeze into your hand. Then you open the fridge door. Why is this a problem?  

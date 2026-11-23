@@ -2466,9 +2466,9 @@
     },
     {
      "t": "write",
-     "p": "A friend says: 'Plants cannot sense anything because they have no brain.' Using what you know about pulses, write a reply.",
+     "p": "A friend says: 'Only a brain can sense, so plants cannot sense anything.' Using what you know about pulses, write a reply.",
      "lines": 4,
-     "a": "Sensing does not need a brain. A Venus flytrap uses electrical pulses, and counts two touches within about 20 seconds before she closes. Plants sense light, touch and chemicals, and they respond.",
+     "a": "Sensing does not need a brain, which is one kind of hardware for it. A Venus flytrap uses electrical pulses, and counts two touches within about 20 seconds before she closes. Plants sense light, touch and chemicals, and they respond.",
      "why": "A strong answer uses a plant example, such as the Venus flytrap counting pulses, and says that sensing means detecting and responding, which plants do.",
      "outcome": 0
     },

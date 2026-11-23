@@ -598,8 +598,8 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 10. (mcq) When a rubber hand and a hidden hand are stroked out of step, most people feel nothing special about the rubber hand. What does that show?  
    Options: The feeling needs the sight and the touch to match in time / The rubber hand is too heavy / The brain ignores the eyes / The hidden hand is numb  
    **Answer:** The feeling needs the sight and the touch to match in time. *Why:* When the touch and the sight match, the brain's best guess is that the hand it can see is yours. Out of step, the guess fails.
-11. (write) A friend says: 'Plants cannot sense anything because they have no brain.' Using what you know about pulses, write a reply.  
-   **Answer:** Sensing does not need a brain. A Venus flytrap uses electrical pulses, and counts two touches within about 20 seconds before she closes. Plants sense light, touch and chemicals, and they respond.. *Why:* A strong answer uses a plant example, such as the Venus flytrap counting pulses, and says that sensing means detecting and responding, which plants do.
+11. (write) A friend says: 'Only a brain can sense, so plants cannot sense anything.' Using what you know about pulses, write a reply.  
+   **Answer:** Sensing does not need a brain, which is one kind of hardware for it. A Venus flytrap uses electrical pulses, and counts two touches within about 20 seconds before she closes. Plants sense light, touch and chemicals, and they respond.. *Why:* A strong answer uses a plant example, such as the Venus flytrap counting pulses, and says that sensing means detecting and responding, which plants do.
 12. (truefalse) A cook who has been in a smelly kitchen all day is more likely to miss a gas leak than someone who has just walked in. True or false?  
    **Answer:** True. *Why:* True. The cook's smell receptors have adapted and send fewer pulses. A newcomer's receptors are fresh. That is why you should step outside and come back in if you suspect a smell.
 13. (perspective) Should a sense show what is true, or what is useful? Scientists give different answers.  

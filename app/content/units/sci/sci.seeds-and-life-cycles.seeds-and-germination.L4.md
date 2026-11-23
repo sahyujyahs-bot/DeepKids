@@ -75,7 +75,7 @@ Inside a seed, two plant hormones pull in opposite directions. Abscisic acid tel
 - e.g. When a barley grain wakes, the gibberellin goes from the baby plant to the food store, and the food store starts to work.
 - e.g. Gardeners sometimes soak stubborn seeds in a weak gibberellin solution, because it works as a wake message.
 - **Most plant scientists:** The balance of the two messengers is the main switch. It is a chemical sum, and the seed's own chemistry does it.
-- **Some plant biologists:** The seed is deciding. The seed senses many signs, remembers the cold, and acts at the right time. These biologists say this counts as a simple kind of thinking. Brains are one kind of hardware for thinking, and a seed uses chemical signals.
+- **Some plant biologists:** The seed is deciding. The seed senses many signs, remembers the cold, and acts at the right time. these biologists say this counts as a kind of thinking. Brains are one kind of hardware for thinking, and a seed uses chemical signals.
 ### How deep can a seed be sown? The food store sets the limit · *defined*
 **Definition:** A shoot has to push up through the soil before the shoot can see light. The shoot lives on the food in the seed all that time. So the bigger the seed's food store, the deeper the seed can be sown.
 
@@ -110,7 +110,7 @@ A seedling has light sensors, which are proteins that change shape when light hi
 - e.g. A seedling under the shade of a bigger plant stretches taller, as if she senses the shade.
 - e.g. A seedling in a window leans towards the glass.
 - **Most plant biologists:** A seedling has sensors and chemical switches that respond to light. The pale search is a built-in programme, and light turns off the pale search programme and turns on the green programme.
-- **Some plant scientists:** A seedling senses shade, light and direction, and then changes how they grow. These scientists say that this is making a choice. They call it a simple kind of thinking, done by cells without a brain.
+- **Some plant scientists:** A seedling senses shade, light and direction, and then changes how they grow. These scientists say that this is making a choice. They call it a kind of thinking, done by cells with chemical signals, not a brain.
 ### How seeds keep for years: dry and cold slow the ageing · *defined*
 **Definition:** Seeds slowly age and get damaged inside, even when they are asleep. Dry and cold slow the damage. A drier, colder seed lives longer.
 

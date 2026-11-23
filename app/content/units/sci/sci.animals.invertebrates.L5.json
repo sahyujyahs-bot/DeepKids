@@ -79,7 +79,7 @@
   },
   {
    "term": "Nerve net",
-   "meaning": "Nerve cells spread through a body like a net, with no brain.",
+   "meaning": "Nerve cells spread through a body like a net, doing the job a brain does in other animals.",
    "example": "A jellyfish and a sea anemone each have a nerve net.",
    "art": "The outline of a sea anemone with a fine net of lines running all through the body."
   },
@@ -183,7 +183,7 @@
    "perspectives": [
     {
      "who": "Sally Leys and other sponge scientists",
-     "explanation": "Sponge cells pass chemical signals to their neighbours, and that is enough to make the whole body squeeze together. Sponges have many of the genes that other animals use in nerve cells, although they have no nerve cells."
+     "explanation": "Sponge cells pass chemical signals to their neighbours, and that is enough to make the whole body squeeze together. Sponges have many of the genes that other animals use in nerve cells, and they pass signals between cells as chemicals instead."
     },
     {
      "who": "A question still open",
@@ -195,7 +195,7 @@
   {
    "concept": "Cnidarians: two layers, one opening and stinging cells",
    "status": "defined",
-   "description": "Jellyfish, sea anemones, corals and the tiny freshwater hydra are cnidarians. More than 10,000 kinds have been named. Unlike a sponge, a cnidarian has true tissues, a mouth and a stomach space. Food goes in through the one opening, and what cannot be digested comes out the same way. A cnidarian also has muscle cells and nerve cells. The nerve cells are spread through the body as a nerve net, with no brain. So a touch on one side of a sea anemone spreads through the net, and the whole animal closes. What sets this phylum apart is the stinging cell. Each one holds a capsule called a nematocyst, with a hollow thread coiled inside and squeezed under very high pressure. A touch opens the lid. The thread turns inside out and shoots into the prey. In 2006, Timm Nüchter and his team in Germany filmed this in a hydra. It took about 700 billionths of a second, which is one of the fastest movements known in any animal.",
+   "description": "Jellyfish, sea anemones, corals and the tiny freshwater hydra are cnidarians. More than 10,000 kinds have been named. Unlike a sponge, a cnidarian has true tissues, a mouth and a stomach space. Food goes in through the one opening, and what cannot be digested comes out the same way. A cnidarian also has muscle cells and nerve cells. The nerve cells are spread through the body as a nerve net, a different arrangement from a brain, for the same job. So a touch on one side of a sea anemone spreads through the net, and the whole animal closes. What sets this phylum apart is the stinging cell. Each one holds a capsule called a nematocyst, with a hollow thread coiled inside and squeezed under very high pressure. A touch opens the lid. The thread turns inside out and shoots into the prey. In 2006, Timm Nüchter and his team in Germany filmed this in a hydra. It took about 700 billionths of a second, which is one of the fastest movements known in any animal.",
    "examples": [
     "A bluebottle on a beach in Mumbai or Goa can still sting after being washed up, because each nematocyst fires by itself when touched.",
     "A sea anemone and a jellyfish have the same plan. The anemone sits mouth up, and the jellyfish swims mouth down.",
@@ -547,7 +547,7 @@
   ]
  },
  "roots": {
-  "context": "In the Boss or Hand test you compared ordering every move with giving only the aim. You also met a sponge with no nerve cells, a starfish with no brain, and an octopus with most of her nerve cells in her arms. Now we ask what this tells us about where deciding happens, in them and in you.",
+  "context": "In the Boss or Hand test you compared ordering every move with giving only the aim. You also met a sponge that signals with chemicals, a starfish with a ring of nerves, and an octopus with most of her nerve cells in her arms. Now we ask what this tells us about where deciding happens, in them and in you.",
   "deep_truth": {
    "truth": "In the Boss or Hand test, giving an order for every small move was slow. The coin came up sooner when the boss gave only the aim and the hand worked out the rest by touch. An octopus shares the work this way too. About two thirds of her nerve cells are in her arms, and each arm works out its own bends. So in an octopus, deciding is spread through the body, and much of it happens where the touching happens.",
    "habit": "We say 'the brain' for the place where an animal decides, as if every body were run from one control room in the head. That fits a human fairly well, so we treat it as the rule. Then an animal with no brain, or with most of her nerve cells in her arms, looks like a lesser animal, when she is only arranged differently.",
@@ -558,7 +558,7 @@
    "what_is_life": "Every living body has to sense and act. A sponge does it with chemicals passed from cell to cell, a starfish with a ring of nerves, an octopus with a brain and eight arm cords.",
    "what_is_this_world": "The world an arm meets in a dark crack is made of touches and tastes. The world an eye meets is made of light. One octopus lives in both at once."
   },
-  "thread": "Every animal began as single cells that divided and stayed together. In a sponge, those cells still sense and answer each other with no nerve cells at all. In a jellyfish the sensing runs through a net, in a starfish through a ring, and in an octopus through a brain and eight arm cords. These are five arrangements of one activity, which is sensing and answering. That activity was there in the single cells before any body was built, and it is there in every part of a body now. A brain gathers a great deal of it into one place, and the rest of it goes on in the arms, the gut and the skin.",
+  "thread": "Every animal began as single cells that divided and stayed together. In a sponge, those cells still sense and answer each other with chemical signals instead of nerve cells. In a jellyfish the sensing runs through a net, in a starfish through a ring, and in an octopus through a brain and eight arm cords. These are five arrangements of one activity, which is sensing and answering. That activity was there in the single cells before any body was built, and it is there in every part of a body now. A brain gathers a great deal of it into one place, and the rest of it goes on in the arms, the gut and the skin.",
   "teachings": [
    {
     "source": "Kena Upanishad 1.1 (paraphrased)",
@@ -3165,7 +3165,7 @@
  "sources": {
   "founder": [
    "Notebook item bio:177, 'Invertebrates (sponges, cnidarians, worms, mollusks, arthropods, echinoderms)', used as the list of groups to cover",
-   "ideas/by_topic/evolution-the-tree-of-life.md, the sections 'The First Animal - Sponge', 'Cnidarians', 'Protostomes - Mollusks, Annelids, Arthropods' and 'Cephalopods': sponge cells signalling without nerves, the sponge's filter and sense of self, the cnidarian stinging organelle, blood of different colours, and the cephalopod's closed circulation, several hearts and enlarged brain, all used in the explanations",
+   "ideas/by_topic/evolution-the-tree-of-life.md, the sections 'The First Animal - Sponge', 'Cnidarians', 'Protostomes - Mollusks, Annelids, Arthropods' and 'Cephalopods': sponge cells signalling by chemicals instead of nerves, the sponge's filter and sense of self, the cnidarian stinging organelle, blood of different colours, and the cephalopod's closed circulation, several hearts and enlarged brain, all used in the explanations",
    "The same notes' remark that intelligence is not unique to humans, used for the roots card and the debate on who is in charge",
    "combined/sci-C4-kinds-of-living-things-and-sorting-them.json: the arthropod definition (jointed legs and an exoskeleton), built on here. None of its experiments or its story is reused",
    "The Level 3 and Level 4 units of this subtopic, and the Level 4 units on body plans and animal bodies, read so that nothing is repeated: this unit adds the five phyla as body plans, the family tree, the nervous systems, and the octopus's hearts and arms",

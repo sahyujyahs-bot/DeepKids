@@ -169,7 +169,7 @@ If there are plants on planets around other stars, what would they look like? Th
   For: Both grow in the soil, both are fat, and both are dug up.  
   Against: A potato has eyes, which are buds, and buds grow on stems. Put an old potato in a dark basket and its eyes sprout shoots. A carrot has no eyes along its sides. Where a part grows does not tell you what it is. Its clues do.
 - **Plants are simple, because they cannot move.** (A common way of thinking; *rejected*)  
-  For: Plants have no muscles and no brain. They stay in one place all their lives.  
+  For: Plants have no muscles. They stay in one place all their lives.  
   Against: Plants move, just slowly. Shoot tips sweep round in circles. Tendrils coil round a stick within hours, sometimes minutes. Leaves turn to face the light. Speed up a film of a growing bean and they look like they are searching.
 - **Fat roots grow big so that people and animals can eat them.** (A way of thinking many of us have without noticing; *rejected*)  
   For: We grow carrots and radishes for food, and farmers choose the biggest ones.  

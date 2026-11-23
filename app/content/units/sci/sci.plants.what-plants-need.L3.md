@@ -903,7 +903,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **How will India's crops cope as summers get hotter?** In 2022, an early heat wave in March shrank India's wheat harvest. Scientists are breeding crops that cope better with heat, but nobody knows yet how well they will keep up.
 - **Could we grow food in the soil of the Moon or Mars?** In 2022, small plants grew in real Moon soil, but slowly, and they showed signs of stress. Mars soil contains harmful salts. Scientists are still testing ways to make these soils safe for plants.
 - **Do plants respond to sound in useful ways?** Some experiments show plants react to the vibrations of chewing insects, or of running water. Others find nothing. It is hard to test fairly, and scientists still argue.
-- **How does a seedling decide how to share their stored food between roots, stem and leaves?** Scientists know that light, water and minerals all change the decision, through plant hormones. How a plant, without a brain like ours, balances all of these is still being studied.
+- **How does a seedling decide how to share their stored food between roots, stem and leaves?** Scientists know that light, water and minerals all change the decision, through plant hormones. How a plant balances all of these, with hormones and signals instead of a brain, is still being studied.
 
 ## Questions to ask kids
 - That plant is leaning. Which way? What are they reaching for?

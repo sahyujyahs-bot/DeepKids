@@ -146,8 +146,8 @@ Phloem carries more than food. Plants sense, remember and decide, and to do so t
 - e.g. Touch one leaflet of a touch-me-not plant firmly and the folding spreads along the whole leaf, as a signal travels from part to part.
 - e.g. A bitten tomato leaf sets off defences in leaves the caterpillar has not reached yet.
 - **Jagadish Chandra Bose, and today Stefano Mancuso, František Baluška and others:** Plants have a signalling system that does the work of a nervous system. They sense, pass on signals, remember and choose. The phloem is one of its main pathways.
-- **Lincoln Taiz and many other plant scientists:** The signals are real, but plants have no nerve cells and no brain. Words like 'nerve' and 'think' belong to animals and mislead when used for plants. The responses can be explained by chemistry.
-- **Scientists in between:** Plants plainly process information in their own way. It is better to study how they do it than to argue about whether animal words fit.
+- **Lincoln Taiz and many other plant scientists:** The signals are real, but plants do not have nerve cells or a brain. Words like 'nerve' and 'think' belong to animals and mislead when used for plants. The responses can be explained by chemistry.
+- **Scientists in between:** Plants plainly sense, decide and remember in their own way, with ion flow, chemical signals and genetic switches. Nerve cells and a brain are one kind of hardware for that job. It is better to study how they do it than to argue about whether animal words fit.
 
 ## Mostly agreed
 - Plants with veins have two transport tissues. Xylem carries water and minerals upward. Phloem carries sugar from sources to sinks. *How we know:* Dye in water shows up only in the xylem. Sugar marked with traceable carbon, fed to one leaf, is later found in the phloem and in roots, fruits and young leaves.
@@ -176,7 +176,7 @@ Phloem carries more than food. Plants sense, remember and decide, and to do so t
   Against: Heartwood adds stiffness, and it is filled with substances that slow rot, which protects the trunk. Some engineers who study trees argue that a hollow trunk with a thick enough shell is nearly as strong as a solid one. Others find that hollow trees fail more often in storms.
 - **The phloem is the nervous system of a plant.** (Jagadish Chandra Bose in 1926, and some plant scientists today; *minority*)  
   For: Electric signals and chemical signals do travel through the phloem, quickly and over long distances. Plants use them to respond to wounds, touch and day length.  
-  Against: Plants have no nerve cells, no synapses and no brain. Many plant scientists say that calling phloem a nervous system stretches the word too far. They agree that the signals are real.
+  Against: Plants do not have nerve cells, synapses or a brain, which are one kind of hardware for signalling. Many plant scientists say that calling phloem a nervous system stretches the word too far. They agree that the signals are real.
 
 ## Roots
 We have learned that a plant has dead pipes for water and living pipes for food, and that a tree trunk is mostly dead wood inside a thin living layer. Now we ask what that tells us about ourselves and the world.
@@ -652,7 +652,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 1. (write) In early spring, sweet sap is tapped from the wood of sugar maples. Why is that surprising? Suggest an explanation.  
    **Answer:** It is surprising because wood is xylem, which usually carries water with very little sugar. In early spring the maple has no leaves yet. The tree turns starch stored in the wood into sugar and sends it up in the xylem sap to the buds.. *Why:* A strong answer sees that the rule 'xylem carries water, phloem carries sugar' has exceptions, and reasons from the season: no leaves, so no working source in the crown.
 2. (perspective) Scientists agree that signals travel through the phloem. They disagree about what to call this.  
-   **Answer:** A strong answer uses evidence: signals from a bitten leaf reach far leaves within minutes, and a touch-me-not folds leaflets far from the touch. It also grants that plants have no nerve cells or brain. It may say the plant does the same job in a different way.. *Why:* Scientists agree on the measurements and disagree on the words. Plants sense, signal and respond through their whole body.
+   **Answer:** A strong answer uses evidence: signals from a bitten leaf reach far leaves within minutes, and a touch-me-not folds leaflets far from the touch. It also grants that plants do not have nerve cells or a brain. It may say the plant does the same job in a different way.. *Why:* Scientists agree on the measurements and disagree on the words. Plants sense, signal and respond through their whole body.
 3. (mcq) An aphid's mouth tube is cut while she feeds, and sap keeps dripping from it. What does this show?  
    Options: Phloem sap is under pressure / Aphids pump the sap out / Xylem pipes leak / The plant is dying  
    **Answer:** Phloem sap is under pressure. *Why:* The aphid is gone, so nothing is sucking. The sap must be pushed out by pressure inside the sieve tube. This is strong evidence for pressure flow.
@@ -835,7 +835,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - Corbesier, L. and others, Science 2007, and Tamaki, S. and others, Science 2007 (the flowering signal travels in the phloem)
 - Toyota, M. and others, 'Glutamate triggers long-distance, calcium-based plant defense signaling', Science 2018
 - Bose, J. C., The Nervous Mechanism of Plants, 1926
-- Alpi, A. and others, 'Plant neurobiology: no brain, no gain?', Trends in Plant Science 2007 (the other view, signed by Lincoln Taiz and others)
+- Alpi, A. and others, 'Plant neurobiology: ...', Trends in Plant Science 2007 (the other view, signed by Lincoln Taiz and others)
 - Douglass, A. E., 'The secret of the Southwest solved by talkative tree rings', National Geographic 1929
 - Borgaonkar, H. P. and others, 'El Niño and related monsoon drought signals in 523-year-long ring width records of teak trees from south India', Palaeogeography, Palaeoclimatology, Palaeoecology 2010
 - Yadav, R. R. and colleagues, Birbal Sahni Institute of Palaeosciences: ring chronologies of Himalayan cedar (deodar) going back to the 1300s

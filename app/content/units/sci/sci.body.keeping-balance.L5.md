@@ -99,7 +99,7 @@ An iron's heater is either on or off. So the iron heats past the set point, swit
 - e.g. In the Blind Pencil, 'left' and 'right' calls give a zigzag line. 'A little left' gives a smoother one.
 - e.g. Shivering can be a small tremble or a strong shake, depending on how cold you are.
 ### Loops inside one cell · *defined*
-**Definition:** A single cell runs feedback loops with no nerves and no brain. Molecules do the sensing, the comparing and the acting.
+**Definition:** A single cell runs feedback loops with molecules instead of nerves, one more kind of hardware for the same job. Molecules do the sensing, the comparing and the acting.
 
 The bacterium Escherichia coli lives in the gut of humans and other animals. They swim towards food such as sugar. To do this they compare the amount of sugar now with the amount a few seconds ago. If things are getting better, they keep swimming straight. If not, they tumble and try a new direction. To compare, they must reset their sensors to each new background level. In 2000, Tau-Mu Yi, Yun Huang, Melvin Simon and John Doyle showed that this resetting is a kind of feedback that engineers already knew and used in machines, called integral feedback. Cells also control their own genes by feedback. In 1961, François Jacob and Jacques Monod showed how E. coli switch on the genes for digesting milk sugar only when milk sugar is present. So homeostasis did not begin with brains. Cells were running loops for billions of years before any animal had a nerve.
 - e.g. E. coli reset their sugar sensors again and again, so they can detect small changes at any background level.
@@ -137,7 +137,7 @@ The Sun has grown brighter over billions of years, yet the Earth has had liquid 
 - A feedback loop needs sensing, comparing and acting, and it fails if any of the three is missing. *How we know:* You can test it yourself. In the Stick Test, closing your eyes removes the main sensor, and the stick falls within a second or two.
 - Stretch sensors in the neck arteries and the large artery from the heart report blood pressure to the brainstem. *How we know:* Heinrich Hering showed the reflex from the neck artery in 1923 and found the nerve that carries the signal. Corneille Heymans received the 1938 Nobel Prize for work on these sensors.
 - A loop with a long delay tends to overshoot and swing. *How we know:* Early steam engine governors made engines speed up and slow down again and again. James Clerk Maxwell explained why with mathematics in 1868, in a paper called 'On Governors'.
-- Single cells run feedback loops without nerves. *How we know:* The loop by which E. coli reset their sugar sensors has been worked out molecule by molecule and matched to an engineer's integral feedback (Yi, Huang, Simon and Doyle, 2000).
+- Single cells run feedback loops with molecules instead of nerves. *How we know:* The loop by which E. coli reset their sugar sensors has been worked out molecule by molecule and matched to an engineer's integral feedback (Yi, Huang, Simon and Doyle, 2000).
 - The same rules of feedback describe bodies and machines. *How we know:* The mathematics Maxwell wrote for governors is used today for artificial pancreas systems, aircraft autopilots and models of the blood pressure loop.
 
 ## How we found out

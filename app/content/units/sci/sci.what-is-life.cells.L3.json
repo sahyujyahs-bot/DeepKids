@@ -270,7 +270,7 @@
   {
    "concept": "Can a single cell think?",
    "status": "debated",
-   "description": "A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. They do this by remembering, for a few seconds, how much sugar they sensed before. If there is more now, they keep swimming. If there is less, they tumble and try a new direction. In an experiment, scientists squirted tiny specks at a trumpet-shaped single cell called Stentor, about one millimetre long. They tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.",
+   "description": "A single cell senses with sensors and chemical signals instead of nerves and a brain, which are one kind of hardware for the same job. Scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. They do this by remembering, for a few seconds, how much sugar they sensed before. If there is more now, they keep swimming. If there is less, they tumble and try a new direction. In an experiment, scientists squirted tiny specks at a trumpet-shaped single cell called Stentor, about one millimetre long. They tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.",
    "examples": [
     "E. coli bacteria swim towards food by comparing now with a few seconds ago.",
     "Stentor tried bending away, then closing up, then swimming off when specks kept landing on them.",
@@ -295,7 +295,7 @@
     }
    ],
    "art": "A small trumpet-shaped Stentor cell bending away from a cloud of specks, with thought-bubble arrows showing their next tries.",
-   "context": "This card asks whether one cell, with no brain at all, can think. Scientists argue about this."
+   "context": "This card asks whether one cell, using sensors and signals instead of a brain, can think. Scientists argue about this."
   },
   {
    "concept": "Wood, cotton and cork: cells that were once alive",
@@ -384,7 +384,7 @@
    "claim": "Plants can sense and respond, almost like animals, using electrical signals.",
    "who": "Jagadish Chandra Bose, an Indian scientist, about 120 years ago, and some plant scientists today.",
    "for": "Bose measured electrical signals in plants that looked like signals in animal muscles. Today we know plant cells do send electrical and chemical signals.",
-   "against": "Plants have no nerves or brain. Many scientists say calling plants 'clever' or 'feeling' goes beyond the evidence.",
+   "against": "Plants do not have nerves or a brain like animals do. Many scientists say calling plants 'clever' or 'feeling' goes beyond the evidence.",
    "status": "debated",
    "context": "This card is about whether plant cells sense and respond like animal cells do."
   }
@@ -406,7 +406,7 @@
    "hint": "Food gets into a cell through their membrane, their thin skin. Would food reach the middle of a huge cell quickly?"
   },
   {
-   "q": "A bacterium has no brain, but they swim towards food. Is that choosing?",
+   "q": "A bacterium senses food with sensors on her cell and swims towards it. Is that choosing?",
    "kind": "deep",
    "hint": "When you walk towards the smell of food, what are you doing?"
   },
@@ -426,7 +426,7 @@
    "hint": "What did he do to show others he was right?"
   },
   {
-   "q": "A slime mould is one cell, and they can remember. Where is a memory kept when there is no brain?",
+   "q": "A slime mould is one cell, and they can remember. Where is a memory kept in a single cell?",
    "kind": "deep",
    "hint": "The slime mould leaves a trail behind them. Could the trail be a kind of memory?"
   },
@@ -462,7 +462,7 @@
    "Early next morning, her mother walked with her to the temple tank. The steps were cool and green at the edges. Kavya dipped an empty jam jar and lifted out water, a few threads of green weed, and a little brown cloud of mud. At home she put one drop on a slide and looked.",
    "The drop was a city. Clear slipper-shaped creatures zoomed past, spinning as they went. A grey blob crept along, pushing out a soft arm and then flowing into it. Tiny green beads rolled by. And on a thread of weed, holding on with a narrow foot, stood a pale blue-green trumpet.",
    "Their wide mouth was fringed with hairs, beating so fast they blurred into a shimmer. Specks of mud swirled into the trumpet, like leaves into a whirlpool. Kavya looked at the sheet her teacher had given her. There they were, drawn in pencil. 'Stentor. One single cell. Almost big enough to see with your eyes.'",
-   "One cell. No brain, no eyes, no hands. Just one cell, standing on a weed and eating.",
+   "One cell, with no eyes and no hands, standing on a weed and eating.",
    "Rohan came to look, because Kavya would not stop squeaking. He watched for a whole minute. 'They're like a pump,' he said. 'They just suck things in. A machine.'",
    "Kavya remembered her teacher's other words, written at the bottom of the sheet. 'If you want to know what something can do, ask it a question. Then wait.'",
    "How do you ask a cell a question? Kavya thought about it. Then she took a single straw from the broom, dipped its tip in a pinch of powdered chalk, and held it over the slide. She tapped it once. Fine white specks drifted down into the drop, right over the trumpet.",
@@ -480,7 +480,7 @@
    "Kavya thought of the pale bricks of the onion, and the blue fried eggs from her cheek. 'Your brain is made of cells, isn't it?' she said. 'Who taught them how to choose? Maybe they learned it from cells like this one. A long, long time ago.'",
    "Rohan held out his hand for the paper microscope. Kavya gave it to him. He put his eye to the bead and stayed there a long time, looking for the trumpet in the clear water, as if they might come back to tell him more."
   ],
-  "epiphany": "A single cell, with no brain at all, sensed the specks, tried one thing, then another, and chose to leave. Brains are made of cells, so thinking may be older than brains.",
+  "epiphany": "A single cell sensed the specks, tried one thing, then another, and chose to leave. Brains are made of cells, so thinking may be older than brains.",
   "ask": [
    "What did the onion skin look like to Kavya? What were the bricks really?",
    "Rohan said cells are just bricks that don't do anything. What did the trumpet cell do that changed his mind?",
@@ -725,7 +725,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height (a lemon works well). 3. Gently cover the bacterium's eyes, or ask them to keep them shut.",
-     "say": "A bacterium is one tiny cell. They have no eyes and no brain. Yet they find food. Let's find out how, by being one.",
+     "say": "A bacterium is one tiny cell. They have no eyes, but sensors on the cell tell them where food is. Let's find out how, by being one.",
      "kid": "You are a bacterium. You are one cell. You have no eyes. Can you find the food?",
      "adult": true,
      "parent": "Move chairs and sharp corners away, and walk beside the child. A slow spin is enough for the tumble.",
@@ -1843,7 +1843,7 @@
    "id": "c2",
    "title": "Slime Mould Railway: join the cities",
    "mins": 30,
-   "context": "A slime mould is one giant yellow cell with no brain. In a famous experiment, a slime mould joined oat flakes placed like cities around Tokyo in a pattern much like the real railway. In this challenge you design a network to join cities, using as little string as you can.",
+   "context": "A slime mould is one giant yellow cell that senses and decides with chemical signals. In a famous experiment, a slime mould joined oat flakes placed like cities around Tokyo in a pattern much like the real railway. In this challenge you design a network to join cities, using as little string as you can.",
    "problem": "Six 'cities' (steel cups) sit on the floor. Join them all with string, so you can travel from any city to any other, using as little string as possible.",
    "constraints": [
     "Every city must be joined to the network.",
@@ -1886,7 +1886,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Place the six cups across the floor, about one big step apart.",
-     "say": "A slime mould is one giant cell, with no brain. Here are six cups. They are the cities. Can you join them with the least string?",
+     "say": "A slime mould is one giant cell that senses with chemical signals. Here are six cups. They are the cities. Can you join them with the least string?",
      "kid": "Put out 6 cups. They are cities. Join them with as little string as you can.",
      "context": "This is the first step of Slime Mould Railway, a challenge to design a network like a slime mould does."
     },
@@ -1900,7 +1900,7 @@
       "t": "mcq",
       "q": "A slime mould joined food in a pattern like Tokyo's railway. What does this show?",
       "options": [
-       "One cell with no brain can find good paths",
+       "One cell can find good paths",
        "Slime moulds read maps",
        "Railway builders copied slime moulds"
       ],
@@ -1914,7 +1914,7 @@
      "do": "Your child explains their best design, then sets out six towns they know, using bottle caps, and joins them with string.",
      "say": "How did you decide which strings to keep? How do you think the slime mould decided?",
      "kid": "Explain your best design. Then set out six towns with bottle caps. Join them with string.",
-     "think": "The slime mould has no brain. How could they still choose the best tubes?"
+     "think": "The slime mould is one cell with no eyes and no map. How could she still choose the best tubes?"
     }
    ]
   }
@@ -2374,7 +2374,7 @@
     },
     {
      "t": "mcq",
-     "p": "A Stentor is a trumpet-shaped single cell with no brain. Drop chalk specks onto one, and it bends away, then reverses its hairs, then shrinks, then swims off. Which answer best describes this?",
+     "p": "A Stentor is a trumpet-shaped single cell. Drop chalk specks onto one, and it bends away, then reverses its hairs, then shrinks, then swims off. Which answer best describes this?",
      "opts": [
       "Being pushed by the water",
       "Doing exactly one thing for ever",
@@ -2698,7 +2698,7 @@
    "why_open": "Scientists agree cells sense, choose and remember a little. They disagree about where to draw the line for the word 'thinking'."
   },
   {
-   "q": "How does a slime mould, with no brain, decide which tubes to keep?",
+   "q": "How does a slime mould, a single cell, decide which tubes to keep?",
    "why_open": "Scientists have good models: tubes that carry more flow grow thicker, and the rest fade. But the full story of how one cell coordinates all their tubes is still being studied."
   },
   {

@@ -149,7 +149,7 @@ The oldest signs of life on Earth are more than 3,500 million years old. Before 
   Against: Cars, rivers and wind move, and are not alive. Trees and dry seeds hardly move, and are alive. Movement is only one of seven signs.
 - **Plants are less alive than animals.** (Aristotle, a Greek thinker about 2,350 years ago, said plants have only a feeding and growing kind of life, with no feeling. Many people still feel this.; *rejected*)  
   For: Plants have no eyes, ears, brains or nerves. They do not run from danger.  
-  Against: Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. Plants feel, in their own way, without nerves.
+  Against: Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. Plants feel, in their own way, using signals instead of nerves.
 - **Living things contain a special life force that non-living things lack.** (This idea is called vitalism. Many scientists believed it until the 1800s.; *rejected*)  
   For: Living things seem so different from stones and water. It feels as if something extra must be inside them.  
   Against: Scientists found that living things are made of ordinary atoms, the same ones in air and rock. In 1897, Eduard Buchner, a German scientist, crushed yeast cells and used just their juice. It still turned sugar into gas, with no living cells at all. He won a Nobel Prize for it in 1907.
@@ -828,7 +828,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **Is there life anywhere else in the universe?** We have only ever found life on Earth. Scientists are searching on Mars and planning missions to icy moons like Europa and Enceladus, which have hidden oceans.
 - **Is there a sharp line between living and non-living, or a gentle slope?** Most things are easy to sort, but some, like viruses and dormant seeds, are not. Scientists do not agree on one definition of life.
 - **What is it like for a plant to feel a touch?** Plants sense touch and respond to it. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows whether the touch is felt at all, or how to measure that.
-- **How does a plant remember, with no brain?** The dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way.
+- **How does a plant remember, using signals instead of a brain?** The dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way.
 - **Could people one day build a living cell from scratch?** Scientists have built a full set of instructions, DNA, and put it into a bacterium, where the DNA worked. But building a whole living cell from non-living parts has not been done.
 - **Why does all life on Earth use the same code?** It points to one shared ancestor. But why this code, and not another, is still not understood.
 

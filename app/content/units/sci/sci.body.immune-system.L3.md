@@ -198,7 +198,7 @@ The first living things were single cells, each wrapped in a thin skin called a 
 - *deep:* Why might it be good, not bad, that a cut goes red and sore? (hint: What would happen if you never felt it, and never noticed the cut?)
 - *deep:* Your skin keeps germs out, but it lets sweat out. What else must the body's walls let through? (hint: Think about your nose and mouth. What must come in through them every minute?)
 - *deep:* Why does a fever make you feel cold at first, when your body is getting hotter? (hint: Think of the brain's heat knob being turned up. What does 37 degrees feel like then?)
-- *big:* Plants and even bacteria defend themselves. Does that mean they, in some way, know what they are? (hint: A bacterium has no brain. But bacteria can tell their own self from a virus.)
+- *big:* Plants and even bacteria defend themselves. Does that mean they, in some way, know what they are? (hint: A bacterium senses and decides with signals on her cell, which is a different hardware from a brain. Bacteria can tell their own self from a virus.)
 - *big:* If germs are living things too, is it fair that we kill them? (hint: Germs are not bad on purpose. They are trying to live, like us.)
 - *big:* When you are ill, you say 'I am sick'. When you cut a finger, you say 'my finger hurts'. Are 'I' and 'my body' the same thing? (hint: Your body heals a cut without you deciding to. Who is doing the healing: you, your body, or is there no difference?)
 

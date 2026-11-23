@@ -954,7 +954,7 @@
           "a": [
             "dead"
           ],
-          "why": "Living cells at the root keep making new cells and pushing them out. By the time they reach the surface, they are dead. Dead cells have no nerves, so cutting them does not hurt."
+          "why": "Living cells at the root keep making new cells and pushing them out. By the time they reach the surface, they are dead. Dead cells cannot send signals, so cutting them does not hurt."
         },
         {
           "t": "truefalse",

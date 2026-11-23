@@ -276,7 +276,7 @@
   {
    "concept": "Loops inside one cell",
    "status": "defined",
-   "definition": "A single cell runs feedback loops with no nerves and no brain. Molecules do the sensing, the comparing and the acting.",
+   "definition": "A single cell runs feedback loops with molecules instead of nerves, one more kind of hardware for the same job. Molecules do the sensing, the comparing and the acting.",
    "description": "The bacterium Escherichia coli lives in the gut of humans and other animals. They swim towards food such as sugar. To do this they compare the amount of sugar now with the amount a few seconds ago. If things are getting better, they keep swimming straight. If not, they tumble and try a new direction. To compare, they must reset their sensors to each new background level. In 2000, Tau-Mu Yi, Yun Huang, Melvin Simon and John Doyle showed that this resetting is a kind of feedback that engineers already knew and used in machines, called integral feedback. Cells also control their own genes by feedback. In 1961, François Jacob and Jacques Monod showed how E. coli switch on the genes for digesting milk sugar only when milk sugar is present. So homeostasis did not begin with brains. Cells were running loops for billions of years before any animal had a nerve.",
    "examples": [
     "E. coli reset their sugar sensors again and again, so they can detect small changes at any background level.",
@@ -385,7 +385,7 @@
    "evidence": "Early steam engine governors made engines speed up and slow down again and again. James Clerk Maxwell explained why with mathematics in 1868, in a paper called 'On Governors'."
   },
   {
-   "text": "Single cells run feedback loops without nerves.",
+   "text": "Single cells run feedback loops with molecules instead of nerves.",
    "evidence": "The loop by which E. coli reset their sugar sensors has been worked out molecule by molecule and matched to an engineer's integral feedback (Yi, Huang, Simon and Doyle, 2000)."
   },
   {

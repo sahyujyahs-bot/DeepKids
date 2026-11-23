@@ -3,7 +3,7 @@
 
 **Summary.** A sparrow runs from a new scarecrow on Monday and sits on its head by Friday. Has she become careless, or has she learned? In this unit you will run the Spoon Test on two volunteers, play a bee game about which flower pays, and see how meerkats teach.
 
-**Intro.** *Stop and listen for ten seconds. Is a fan whirring, a fridge humming or a clock ticking? Ten minutes ago, you were not hearing it. Where did the sound go?* The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould with no nerve cells at all.
+**Intro.** *Stop and listen for ten seconds. Is a fan whirring, a fridge humming or a clock ticking? Ten minutes ago, you were not hearing it. Where did the sound go?* The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould, one giant cell that senses with chemical signals instead of nerve cells.
 
 ## Learning outcomes
 0. I can say what learning is, and tell it apart from instinct, growing up and tiredness.
@@ -77,7 +77,7 @@ A bacterium swimming towards food compares how much food there is now with how m
 - e.g. A touch-me-not plant stops folding the leaves at a harmless drop.
 - e.g. Stentor stops contracting after many puffs of particles.
 - **Scientists who link learning to nervous systems:** Learning needs nerve cells that change their connections. In a one-celled animal or a plant, the change may be the cell's chemistry simply adjusting, and a different word would be clearer.
-- **Scientists who study simple living things:** If a change is kept, grows with repeats and belongs to one stimulus, it passes the same tests as habituation in a sea slug. Nerve cells are one way to learn, but not the only way.
+- **Scientists who study single-celled living things:** If a change is kept, grows with repeats and belongs to one stimulus, it passes the same tests as habituation in a sea slug. Nerve cells are one way to learn, but not the only way.
 - **Plant scientists who ask for more tests:** The Mimosa result is striking. Other laboratories want to repeat it, and to make sure that the cells that move the leaf were not simply tired.
 ### Where the learning is kept: connections between nerve cells · *defined*
 **Definition:** A synapse is the tiny gap where one nerve cell passes a chemical message to the next, and learning changes how strongly synapses pass the message.
@@ -145,7 +145,7 @@ In the Spoon Test, we tested whether a person gets used to a sound. We also look
 - *what is life:* A sea slug, a one-celled swimmer and a slime mould all get used to harmless things. So a change like learning is older than brains. Living things could do this before any of them had a brain.
 - *what is this world:* The world sends signals all the time. Every living being sorts them into the ones that matter and the ones that do not.
 
-A sea slug touched again and again sends less chemical across one connection. A one-celled swimmer and a slime mould change in a similar way, with no nerve cells at all. In each case, something happens to a living being, the being changes, and the change is kept. That is what learning is. The change can be as small as one connection between two nerve cells, or as large as a whole way of living, such as a bee knowing the time of day.
+A sea slug touched again and again sends less chemical across one connection. A one-celled swimmer and a slime mould change in a similar way, using chemical signals instead of nerve cells. In each case, something happens to a living being, the being changes, and the change is kept. That is what learning is. The change can be as small as one connection between two nerve cells, or as large as a whole way of living, such as a bee knowing the time of day.
 
 - **Bhagavad Gita 6.35:** “असंशयं महाबाहो मनो दुर्निग्रहं चलं। / अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।” Krishna tells Arjuna that the mind is restless and hard to hold, but it can be trained by practice and by letting go of attachment. (Practice changes how a mind reacts. Getting used to a harmless sound is a small, early case of a being letting go of a reaction.)
 - **Yoga Sutras of Patanjali 1.14:** “स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः” Practice becomes firmly rooted when it is kept up for a long time, without a break, and with care. (Spread-out practice lasted longer than cramming in the sea slug and, perhaps, in your own lists of words in Crammed or Spread Out.)
@@ -156,11 +156,11 @@ A sea slug touched again and again sends less chemical across one connection. A 
 - Practice, Hearing the hum (3 min): Sit still and close your eyes. Listen for a sound that has been there all along, such as a fan or a fridge. Breathe in and out three times. Hear the sound as if it were new. Then ask yourself where the sound was a minute ago.
 - Ask: When you stop hearing the fan, has the sound gone, or has your attention moved?
 - Ask: Is a being who ignores a harmless sound less aware, or more aware?
-- Ask: If a slime mould with no brain can get used to a bitter bridge, where is that learning kept?
+- Ask: If a slime mould, a single cell, can get used to a bitter bridge, where is that learning kept?
 
 ## Deep and big questions
 - *deep:* A sparrow ignores a scarecrow but flies from a hawk. Is she paying less attention, or is she better at noticing what matters? (hint: Think of the Spoon Test. The person ignored the spoon but jumped at the rice tin.)
-- *deep:* A slime mould has no nerve cells, yet gets used to a bitter bridge. Does learning need a mind? (hint: What do you think learning is: a change that is kept, or something that needs a brain?)
+- *deep:* A slime mould is one cell and uses chemical signals, not nerve cells. She gets used to a bitter bridge. Is that learning? (hint: What do you think learning is: a change that is kept, or something only nerve cells can do?)
 - *deep:* Is a memory kept in one place, or is it a way that many cells are connected? (hint: Karl Lashley cut away parts of rats' brains and never found one spot where a memory lived. Eric Kandel traced a simple memory in a sea slug to a single connection between cells.)
 - *deep:* A person gets sick once from a food, and avoids it for years. Is that learning too fast, or learning well? (hint: In nature, a food that once made you ill may do it again.)
 - *big:* If a being gets used to everything harmless, what is left for her to notice? (hint: In the story The Hat on the Scarecrow, the sparrows ignored the scarecrow but noticed the hawk. What kinds of things are worth noticing?)
@@ -513,10 +513,10 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
    **Answer:** A line that starts at 6, dips to 2, and rises back to 6.. *Why:* The dip shows the bee still picking the old colour just after the change. The rise shows she learned the new colour.
 11. (mcq) Why is it interesting that slime moulds get used to a harmless bitter bridge?  
    Options: They have no nerve cells, so a learning-like change can happen without them / They are the biggest animals alive / They move faster than any other living thing  
-   **Answer:** They have no nerve cells, so a learning-like change can happen without them. *Why:* Slime moulds are single giant cells with no nerve cells. A change that is kept and belongs to one substance happens in them too. Scientists argue about whether to call it learning.
+   **Answer:** They have no nerve cells, so a learning-like change can happen without them. *Why:* Slime moulds are single giant cells that sense with chemicals, not nerve cells. A change that is kept and belongs to one substance happens in them too. Scientists argue about whether to call it learning.
 12. (count) A person gets 3 of 8 words right from a crammed list and 6 of 8 from a list learned in spaced sittings. How many more words did the spaced list give?  
    **Answer:** 3. *Why:* 6 minus 3 is 3. The spaced list gave 3 more words, which is twice as many.
-13. (perspective) Slime moulds get used to a harmless bitter bridge after some days, and no nerve cells are involved.  
+13. (perspective) Slime moulds get used to a harmless bitter bridge after some days, using chemical signals instead of nerve cells.  
    **Answer:** Answers vary. A strong answer picks a side or a middle path and gives a reason. It may suggest testing whether the change is kept for days and belongs to one substance.. *Why:* Both views agree on what the slime mould does. They differ on the word learning. If the slime mould passes the same tests as a sea slug, the first view gets stronger.
 14. (write) A farm uses a bird scarer that booms exactly every ten minutes. Say what will happen after a week, and why.  
    **Answer:** The birds will get used to it and come back to the field. The boom is always the same and never hurts them, so they learn it does not matter.. *Why:* A strong answer says the sound is repeated and harmless, so birds get used to it. It may suggest that a random or changing sound would last longer.
@@ -585,8 +585,8 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 6. (fill) Honeybees can learn flower colours, smells and the ____ of day when food appears.  
    **Answer:** ['time']. *Why:* Honeybees fed at the same time each day come at that time on later days, even with no food.
 7. (mcq) Which living thing has been shown to get used to a harmless bitter bridge?  
-   Options: A slime mould, which has no nerve cells / A stone / A dead leaf  
-   **Answer:** A slime mould, which has no nerve cells. *Why:* Slime moulds are single giant cells, and they can stop avoiding a harmless bitter bridge. Only living things can do this.
+   Options: A slime mould, a single cell that senses with chemicals / A stone / A dead leaf  
+   **Answer:** A slime mould, a single cell that senses with chemicals. *Why:* Slime moulds are single giant cells, and they can stop avoiding a harmless bitter bridge. Only living things can do this.
 8. (mcq) Which way of learning a list of words usually lasts longer?  
    Options: Short sittings spread over a day or more / One long sitting / A sitting just before the test  
    **Answer:** Short sittings spread over a day or more. *Why:* Spaced practice gives the body time to build a lasting change. Sea slugs, bees and people all show this.

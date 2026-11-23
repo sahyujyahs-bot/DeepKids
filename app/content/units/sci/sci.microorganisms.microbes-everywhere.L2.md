@@ -58,7 +58,7 @@ Microbes sense, decide and act. A bacterium senses food in the water and swims t
 - e.g. Bacteria swim towards sugar and away from things that harm them.
 - e.g. Some sea bacteria glow only when enough of them are together, as Bonnie Bassler and other scientists have shown.
 - e.g. Mould threads grow towards food and away from dry places.
-- **Many scientists who study single cells:** Microbes sense their world, remember a little of what just happened, and choose what to do next. This is a simple kind of thinking, done by one cell without a brain.
+- **Many scientists who study single cells:** Microbes sense their world, remember a little of what just happened, and choose what to do next. This is thinking done by one cell, with sensors and chemical signals instead of a brain.
 - **Many other biologists:** Microbes react to chemicals the way the thermostat in an iron box reacts to heat. The thermostat switches the heat off by itself, without any thinking. These are automatic responses, and calling them thinking says too much.
 ### Most microbes are harmless or helpful · *defined*
 **Definition:** Most microbes do not make anyone ill. Many are helpful. Only a few, called germs, can make humans and other animals ill.

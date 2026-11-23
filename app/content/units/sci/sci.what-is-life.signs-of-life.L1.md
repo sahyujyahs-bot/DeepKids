@@ -49,7 +49,7 @@ A leaf picked from a plant does not die at once. In the Droopy Mint experiment, 
 - **Many plant scientists:** The leaf is still alive for some days, because the tiny parts inside the leaf are still living. That is why the droopy mint could fill up with water again.
 - **Some other scientists:** A picked leaf is a living part, not a whole living plant. The leaf cannot live on for long unless it grows roots of its own.
 ### Do plants feel? · *debated*
-Plants feel light, touch, water and warmth, and they act on what they feel. Roots grow towards water. Leaves turn towards light. Some scientists say these actions are automatic, because plants have no brain.
+Plants feel light, touch, water and warmth, and they act on what they feel. Roots grow towards water. Leaves turn towards light. Some scientists say these actions are automatic, because brains do the feeling. Others say a brain is one kind of hardware, and plants feel and decide with chemical signals.
 - e.g. A plant on a window turns their leaves to the light.
 - e.g. Roots grow down and towards wet soil.
 - e.g. A droopy plant stands up again after a drink of water.

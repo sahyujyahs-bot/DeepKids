@@ -218,10 +218,10 @@
    "art": "A child jumping as a dog barks behind her, with a yellow line from ear to brain to legs marked 'first', and red dots spreading from glands above the kidneys marked 'second'."
   },
   {
-   "concept": "Plants send messages without nerves",
+   "concept": "Plants send messages in their own way",
    "status": "debated",
    "definition": "",
-   "description": "Plants have no neurons. Yet plants sense, decide and send messages through their bodies. They use hormones. A hormone called auxin gathers on the shady side of a shoot, and the shoot bends towards the light. A ripe banana gives off a gas hormone that tells nearby fruit to ripen. Plants also send electrical signals. Touch a touch-me-not, and an electrical signal travels along the leaf at about 2 centimetres per second. The leaflets fold as it passes. In 2018 scientists filmed a signal spreading from a bitten leaf to other leaves within a few minutes. Scientists agree on these findings. They disagree about what to call them.",
+   "description": "Plants do not use neurons, which are one kind of hardware for sending signals. Plants sense, decide and send messages through their bodies in their own way. They use hormones. A hormone called auxin gathers on the shady side of a shoot, and the shoot bends towards the light. A ripe banana gives off a gas hormone that tells nearby fruit to ripen. Plants also send electrical signals. Touch a touch-me-not, and an electrical signal travels along the leaf at about 2 centimetres per second. The leaflets fold as it passes. In 2018 scientists filmed a signal spreading from a bitten leaf to other leaves within a few minutes. Scientists agree on these findings. They disagree about what to call them.",
    "examples": [
     "A touch-me-not folds their leaflets one pair after another, as the signal passes along.",
     "A money plant in a dim room bends their shoots towards the window.",
@@ -350,7 +350,7 @@
    "hint": "People argued about this in London at the time. Laws on such tests are much stricter now."
   },
   {
-   "q": "A plant has no nerves, yet a bitten leaf sends a signal to the other leaves. What does a body need in order to send a message?",
+   "q": "A bitten leaf warns the other leaves, and the plant uses other cells than nerves. What does a body need in order to send a message?",
    "kind": "big",
    "hint": "Think about a sender, a path and a receiver that can answer."
   }
@@ -2264,7 +2264,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Plants send signals from leaf to leaf, although they have no neurons.",
+     "p": "Plants send signals from leaf to leaf without using neurons.",
      "a": true,
      "why": "True. Plants carry electrical signals and use hormones. A touch-me-not folds as an electrical signal passes along the leaf.",
      "outcome": 2
@@ -2614,7 +2614,7 @@
    "why_open": "Gut microbes make chemicals that reach the blood and the gut's nerves. In mice these change behaviour. In people the evidence is still thin."
   },
   {
-   "q": "How does a plant carry a fast signal from leaf to leaf without nerves?",
+   "q": "How does a plant carry a fast signal from leaf to leaf along cells that are not nerves?",
    "why_open": "The signals were filmed in 2018, and they use a chemical that neurons also use. Scientists are still working out which cells carry them and how."
   },
   {
@@ -2896,7 +2896,7 @@
    [
     "Plants have no way of sending signals through their bodies.",
     false,
-    "Plants use hormones and electrical signals, though they have no neurons."
+    "Plants use hormones and electrical signals instead of neurons."
    ]
   ],
   "odd": [

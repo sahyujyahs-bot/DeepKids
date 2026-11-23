@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Stop and listen for ten seconds. Is a fan whirring, a fridge humming or a clock ticking? Ten minutes ago, you were not hearing it. Where did the sound go?",
-  "text": "The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould with no nerve cells at all.",
+  "text": "The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould, one giant cell that senses with chemical signals instead of nerve cells.",
   "art": "A child sitting very still in a living room with a ceiling fan, a fridge and a wall clock, each with faint sound waves that the child has stopped noticing."
  },
  "outcomes": [
@@ -189,7 +189,7 @@
      "explanation": "Learning needs nerve cells that change their connections. In a one-celled animal or a plant, the change may be the cell's chemistry simply adjusting, and a different word would be clearer."
     },
     {
-     "who": "Scientists who study simple living things",
+     "who": "Scientists who study single-celled living things",
      "explanation": "If a change is kept, grows with repeats and belongs to one stimulus, it passes the same tests as habituation in a sea slug. Nerve cells are one way to learn, but not the only way."
     },
     {
@@ -323,9 +323,9 @@
    "hint": "Think of the Spoon Test. The person ignored the spoon but jumped at the rice tin."
   },
   {
-   "q": "A slime mould has no nerve cells, yet gets used to a bitter bridge. Does learning need a mind?",
+   "q": "A slime mould is one cell and uses chemical signals, not nerve cells. She gets used to a bitter bridge. Is that learning?",
    "kind": "deep",
-   "hint": "What do you think learning is: a change that is kept, or something that needs a brain?"
+   "hint": "What do you think learning is: a change that is kept, or something only nerve cells can do?"
   },
   {
    "q": "Is a memory kept in one place, or is it a way that many cells are connected?",
@@ -1527,7 +1527,7 @@
    "t": "mcq",
    "p": "Which living thing has been shown to get used to a harmless bitter bridge?",
    "opts": [
-    "A slime mould, which has no nerve cells",
+    "A slime mould, a single cell that senses with chemicals",
     "A stone",
     "A dead leaf"
    ],
@@ -1961,7 +1961,7 @@
       "They move faster than any other living thing"
      ],
      "a": 0,
-     "why": "Slime moulds are single giant cells with no nerve cells. A change that is kept and belongs to one substance happens in them too. Scientists argue about whether to call it learning.",
+     "why": "Slime moulds are single giant cells that sense with chemicals, not nerve cells. A change that is kept and belongs to one substance happens in them too. Scientists argue about whether to call it learning.",
      "outcome": 3
     },
     {
@@ -1973,7 +1973,7 @@
     },
     {
      "t": "perspective",
-     "p": "Slime moulds get used to a harmless bitter bridge after some days, and no nerve cells are involved.",
+     "p": "Slime moulds get used to a harmless bitter bridge after some days, using chemical signals instead of nerve cells.",
      "views": [
       {
        "who": "One scientist (an imagined view)",
@@ -2740,7 +2740,7 @@
    "what_is_life": "A sea slug, a one-celled swimmer and a slime mould all get used to harmless things. So a change like learning is older than brains. Living things could do this before any of them had a brain.",
    "what_is_this_world": "The world sends signals all the time. Every living being sorts them into the ones that matter and the ones that do not."
   },
-  "thread": "A sea slug touched again and again sends less chemical across one connection. A one-celled swimmer and a slime mould change in a similar way, with no nerve cells at all. In each case, something happens to a living being, the being changes, and the change is kept. That is what learning is. The change can be as small as one connection between two nerve cells, or as large as a whole way of living, such as a bee knowing the time of day.",
+  "thread": "A sea slug touched again and again sends less chemical across one connection. A one-celled swimmer and a slime mould change in a similar way, using chemical signals instead of nerve cells. In each case, something happens to a living being, the being changes, and the change is kept. That is what learning is. The change can be as small as one connection between two nerve cells, or as large as a whole way of living, such as a bee knowing the time of day.",
   "teachings": [
    {
     "source": "Bhagavad Gita 6.35",
@@ -2785,7 +2785,7 @@
   "ask": [
    "When you stop hearing the fan, has the sound gone, or has your attention moved?",
    "Is a being who ignores a harmless sound less aware, or more aware?",
-   "If a slime mould with no brain can get used to a bitter bridge, where is that learning kept?"
+   "If a slime mould, a single cell, can get used to a bitter bridge, where is that learning kept?"
   ],
   "art": "A child sitting cross-legged on a floor with eyes closed, a ceiling fan above, and faint ripples of sound drawn around the room."
  },

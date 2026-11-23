@@ -3,7 +3,7 @@
 
 **Summary.** When a caterpillar chews a maize leaf, tiny wasps arrive and lay eggs in it, though nobody can see it. How do the wasps find it? In this unit you will sniff for a torn leaf, stroke moong seedlings every day to see if they grow differently, and trace how plant signals travel.
 
-**Intro.** *A caterpillar bites one leaf of a plant. Two minutes later, leaves on the far side of the plant begin to switch on their defences. No caterpillar has touched those leaves. A plant has no nerves. So how did the far leaves get the news?* Scientists filmed the answer in 2018, and you will read it in this unit. The news travelled inside the plant as a wave of electric charge and chemicals. A plant also sends news out of their body. Some goes into the air as smells, and some goes into the soil from the roots. Other living beings receive that news: neighbouring plants, insects, fungi and you. You start with your own nose. In the first activity, the Torn Leaf Test, you find out whether a leaf gives off something new when it is damaged.
+**Intro.** *A caterpillar bites one leaf of a plant. Two minutes later, leaves on the far side of the plant begin to switch on their defences. No caterpillar has touched those leaves. Nerves are one kind of wiring, and a plant has her own kind. So how did the far leaves get the news?* Scientists filmed the answer in 2018, and you will read it in this unit. The news travelled inside the plant as a wave of electric charge and chemicals. A plant also sends news out of their body. Some goes into the air as smells, and some goes into the soil from the roots. Other living beings receive that news: neighbouring plants, insects, fungi and you. You start with your own nose. In the first activity, the Torn Leaf Test, you find out whether a leaf gives off something new when it is damaged.
 
 ## Learning outcomes
 0. By the end I can say what a signal is, and name the sender, the carrier and the receiver in a plant example.
@@ -149,7 +149,7 @@ Follow a signal down to the smallest scale and it is made of atoms carrying elec
   Against: In 2020 Kasey Markel repeated the test with more seedlings and measured without knowing which group each seedling was in. The effect did not appear.
 - **Only a being with a brain can feel.** (Many scientists who study brains and plants; *debated*)  
   For: In animals, feeling changes when the brain is hurt or put to sleep. No part of a plant looks like a brain.  
-  Against: Plants sense, signal, choose and keep information without a brain, and the gases that put animals to sleep work on plants as well. Nobody has shown that a brain is the only kind of body that can feel.
+  Against: Plants sense, signal, choose and keep information with chemical signals, not a brain, and the gases that put animals to sleep work on plants as well. Nobody has shown that a brain is the only kind of body that can feel.
 
 ## Roots
 We have learned that plants send signals through their bodies, through the air and through the soil, and that many other beings receive them. Now we ask what this tells us about ourselves and the world.
@@ -485,7 +485,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
   *Parent does:* 1. Label the chairs: 'Yes, plants feel', 'These are responses, and feeling needs a brain', and 'Nobody can test this yet'. 2. Your child writes five facts from this unit on five slips, one fact on each. 3. Read the slips aloud.  
   *Parent says:* A debate needs evidence. Write five things that plants have been shown to do. We will use the same facts in every chair.  
   *Child mode:* Label three chairs. Write five facts about what plants do, one on each slip.
-  - Note: Useful facts: a plant sends electrical signals. A plant tells a bite from a cut. A touch-me-not stops folding for harmless drops. Sleeping gases stop a touch-me-not from folding. A plant has no brain or nerve cells.
+  - Note: Useful facts: a plant sends electrical signals. A plant tells a bite from a cut. A touch-me-not stops folding for harmless drops. Sleeping gases stop a touch-me-not from folding. A plant sends signals with electrical and chemical wiring of her own, not with a brain or nerve cells.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child sits in the first chair for two minutes and argues for that view, using the slips. 2. You sit in another chair and answer back. 3. Your child moves to the second chair, and then the third, and does the same.  
   *Parent says:* In each chair, argue as if you held that view. Use the facts. I will argue against you from another chair.  
@@ -589,7 +589,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 3. (match) Match each path to an example of news that travels that way.  
    **Answer:** Inside the plant → a bitten leaf warns a far leaf of the same plant; Through the air → a ripe banana makes a raw mango ripen; Through the soil from roots → a witchweed seed senses a jowar root; Along fungal threads → a ghost plant gets sugar that a tree made. *Why:* Each path has a different carrier: the plant's own veins, the air, the soil water or a fungus.
 4. (truefalse) True or false: a plant needs nerves to send news from one leaf to another.  
-   **Answer:** False. *Why:* False. Plants have no nerves. News travels as waves of electric charge from cell to cell, and as hormones in the sap.
+   **Answer:** False. *Why:* False. Nerves are one kind of wiring, and plants use another. News travels as waves of electric charge from cell to cell, and as hormones in the sap.
 5. (fill) A partnership between a plant's roots and a fungus is called a ____.  
    **Answer:** ['mycorrhiza']. *Why:* Mycorrhiza means 'fungus-root'. More than eight of every ten kinds of land plant have one.
 6. (sort) In a mycorrhiza, sort these by who gives them.  
@@ -614,7 +614,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
    **Answer:** The plant's body keeps a record of the cold. Something changed during the winter and stayed changed, so the plant flowers months later.. *Why:* A strong answer says that the response today depends on something that happened long before.
 15. (odd) Three of these are real paths for plant signals. Which one is not?  
    Options: Through the air as a smell / Inside the plant as an electrical signal / Through the soil from the roots / Along the plant's nerves  
-   **Answer:** 3. *Why:* Plants have no nerves. They send news through the air, inside their bodies as electrical and chemical signals, and from their roots into the soil.
+   **Answer:** 3. *Why:* Nerves are animal wiring. Plants send news through the air, inside their bodies as electrical and chemical signals, and from their roots into the soil.
 ### Evidence and controls in plant experiments (stretch) (stretch, 15 questions)
 1. (mcq) Wasps come to maize chewed by caterpillars, but not to maize torn by hand. What does that show?  
    Options: Wasps look for holes in leaves / Torn leaves have no smell / The plant tells a bite from a tear / Caterpillars call the wasps  
@@ -695,7 +695,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
    **Answer:** The air. *Why:* The banana is the sender and the mango is the receiver. The gas travels through the air, so the air is the carrier.
 2. (mcq) How does news travel from a bitten leaf to a far leaf of the same plant?  
    Options: Along nerves / As sound / As electrical and chemical signals in the veins / Along fungal threads  
-   **Answer:** As electrical and chemical signals in the veins. *Why:* A wave of electric charge and calcium passes from cell to cell along the veins. Plants have no nerves, though the signal is partly electrical, as a nerve signal is.
+   **Answer:** As electrical and chemical signals in the veins. *Why:* A wave of electric charge and calcium passes from cell to cell along the veins. Plants use other cells than nerves, though the signal is partly electrical, as a nerve signal is.
 3. (mcq) Wasps arrive at a plant that caterpillars are chewing. What led them there?  
    Options: A smell the chewed plant gave off / The colour of the holes / The warmth of the plant / A call from the caterpillars  
    **Answer:** A smell the chewed plant gave off. *Why:* A chewed plant gives off volatiles, and the wasps have receptors for them. The caterpillars are often hidden, so the wasps are not using their eyes.
@@ -796,7 +796,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 
 ## Warm-up
 - Name the three parts of every signal. → A sender, a carrier and a receiver.
-- A plant has no nerves. How does news cross from leaf to leaf? → As a wave of electric charge from cell to cell, and as hormones in the sap.
+- A plant uses other wiring than nerves. How does news cross from leaf to leaf? → As a wave of electric charge from cell to cell, and as hormones in the sap.
 - What is the smell of cut grass? → Chemicals that grass leaves make when they are damaged.
 - What is a mycorrhiza? → A partnership between a plant's roots and a fungus.
 - What does the plant give the fungus? → Sugars and fats.

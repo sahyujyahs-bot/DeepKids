@@ -377,11 +377,11 @@
     },
     {
      "who": "Lincoln Taiz and many other plant scientists",
-     "explanation": "The signals are real, but plants have no nerve cells and no brain. Words like 'nerve' and 'think' belong to animals and mislead when used for plants. The responses can be explained by chemistry."
+     "explanation": "The signals are real, but plants do not have nerve cells or a brain. Words like 'nerve' and 'think' belong to animals and mislead when used for plants. The responses can be explained by chemistry."
     },
     {
      "who": "Scientists in between",
-     "explanation": "Plants plainly process information in their own way. It is better to study how they do it than to argue about whether animal words fit."
+     "explanation": "Plants plainly sense, decide and remember in their own way, with ion flow, chemical signals and genetic switches. Nerve cells and a brain are one kind of hardware for that job. It is better to study how they do it than to argue about whether animal words fit."
     }
    ],
    "art": "A plant with a caterpillar on one leaf and a wave of light travelling along the veins to a far leaf."
@@ -450,7 +450,7 @@
    "claim": "The phloem is the nervous system of a plant.",
    "who": "Jagadish Chandra Bose in 1926, and some plant scientists today",
    "for": "Electric signals and chemical signals do travel through the phloem, quickly and over long distances. Plants use them to respond to wounds, touch and day length.",
-   "against": "Plants have no nerve cells, no synapses and no brain. Many plant scientists say that calling phloem a nervous system stretches the word too far. They agree that the signals are real.",
+   "against": "Plants do not have nerve cells, synapses or a brain, which are one kind of hardware for signalling. Many plant scientists say that calling phloem a nervous system stretches the word too far. They agree that the signals are real.",
    "status": "minority",
    "context": "This card is about a bold claim: that a plant's food pipes also work like nerves."
   }
@@ -1256,7 +1256,7 @@
     {
      "t": "perspective",
      "p": "Scientists agree that signals travel through the phloem. They disagree about what to call this.",
-     "a": "A strong answer uses evidence: signals from a bitten leaf reach far leaves within minutes, and a touch-me-not folds leaflets far from the touch. It also grants that plants have no nerve cells or brain. It may say the plant does the same job in a different way.",
+     "a": "A strong answer uses evidence: signals from a bitten leaf reach far leaves within minutes, and a touch-me-not folds leaflets far from the touch. It also grants that plants do not have nerve cells or a brain. It may say the plant does the same job in a different way.",
      "why": "Scientists agree on the measurements and disagree on the words. Plants sense, signal and respond through their whole body.",
      "views": [
       {
@@ -1265,7 +1265,7 @@
       },
       {
        "who": "Lincoln Taiz, a plant scientist",
-       "says": "The signals are real. But plants have no nerve cells and no brain, so the word 'nervous system' misleads."
+       "says": "The signals are real. But plants do not have nerve cells or a brain, so the word 'nervous system' misleads."
       }
      ],
      "ask": "Which view do you find stronger? Give one piece of evidence. Then say what the other side has right.",
@@ -3526,7 +3526,7 @@
    "Corbesier, L. and others, Science 2007, and Tamaki, S. and others, Science 2007 (the flowering signal travels in the phloem)",
    "Toyota, M. and others, 'Glutamate triggers long-distance, calcium-based plant defense signaling', Science 2018",
    "Bose, J. C., The Nervous Mechanism of Plants, 1926",
-   "Alpi, A. and others, 'Plant neurobiology: no brain, no gain?', Trends in Plant Science 2007 (the other view, signed by Lincoln Taiz and others)",
+   "Alpi, A. and others, 'Plant neurobiology: ...', Trends in Plant Science 2007 (the other view, signed by Lincoln Taiz and others)",
    "Douglass, A. E., 'The secret of the Southwest solved by talkative tree rings', National Geographic 1929",
    "Borgaonkar, H. P. and others, 'El Niño and related monsoon drought signals in 523-year-long ring width records of teak trees from south India', Palaeogeography, Palaeoclimatology, Palaeoecology 2010",
    "Yadav, R. R. and colleagues, Birbal Sahni Institute of Palaeosciences: ring chronologies of Himalayan cedar (deodar) going back to the 1300s",
