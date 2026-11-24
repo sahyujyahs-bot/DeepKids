@@ -58,7 +58,16 @@
     "A fisher family at sea near Kochi takes drinking water on the boat. Sea water is too salty to drink.",
     "A woman soldier in the snow of Ladakh needs thick clothes and a warm tent."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Scientists",
+     "explanation": "Every living human needs air, water and food. Clothes and homes are needed in many places, but people in warm places live with little of both."
+    },
+    {
+     "who": "Indian saying",
+     "explanation": "'Roti, kapda aur makaan': food, clothing, shelter. Many families add health and school to this list."
+    }
+   ],
    "art": "A child's open hand with one need drawn on each finger: air, water, food, clothes and a home."
   },
   {
@@ -73,7 +82,8 @@
     "After a long game of kho-kho, you feel hungry."
    ],
    "perspectives": [],
-   "art": "Three clocks side by side: a breath every few seconds, a tumbler of water a few times a day, a plate of food at breakfast, lunch and dinner."
+   "art": "Three clocks side by side: a breath every few seconds, a tumbler of water a few times a day, a plate of food at breakfast, lunch and dinner.",
+   "one_view": "\"We need air, water and food again and again\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Clothes and a home keep us safe",
@@ -87,7 +97,8 @@
     "Houses in rainy Kerala often have sloping roofs, so rain runs off."
    ],
    "perspectives": [],
-   "art": "A house cut open like a doll's house, with arrows showing rain sliding off the roof, wind stopped by a wall, and fresh air coming in at a window."
+   "art": "A house cut open like a doll's house, with arrows showing rain sliding off the roof, wind stopped by a wall, and fresh air coming in at a window.",
+   "one_view": "\"Clothes and a home keep us safe\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A wall makes calm air behind it",
@@ -101,7 +112,8 @@
     "A pigeon sits beside a water tank, on the side away from the wind."
    ],
    "perspectives": [],
-   "art": "A box seen from above, with arrows of wind from a fan curving around both sides of the box, and a still tissue flag inside the open side away from the fan."
+   "art": "A box seen from above, with arrows of wind from a fan curving around both sides of the box, and a still tissue flag inside the open side away from the fan.",
+   "one_view": "\"A wall makes calm air behind it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Other living beings have needs too",
@@ -115,7 +127,8 @@
     "Ants carry their young to a drier place when their nest gets wet."
    ],
    "perspectives": [],
-   "art": "A balcony with a crow drinking from a steel bowl, a line of ants carrying crumbs, a pigeon on a ledge and a tulsi plant in a pot."
+   "art": "A balcony with a crow drinking from a steel bowl, a line of ants carrying crumbs, a pigeon on a ledge and a tulsi plant in a pot.",
+   "one_view": "\"Other living beings have needs too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1663,21 +1676,31 @@
     "source": "Tao Te Ching 11",
     "teaching": "We cut out doors and windows to make a room. It is the empty space inside that makes the room useful.",
     "link": "In the wind box, the box gave the tissue flag a calm space. The walls and the door were useful because of the space they made inside.",
-    "verse": ["鑿戶牖以為室，當其無，有室之用。"],
+    "verse": [
+     "鑿戶牖以為室，當其無，有室之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "Food is the source of life. From food beings are born, by food they live, and into food they go back.",
     "link": "We need food again and again, because our body keeps using it to live and grow.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 11",
     "teaching": "Rain keeps the world alive, so rain is called the nectar that gives life.",
     "link": "Every person, crow and plant needs water. The water in our taps and wells came first as rain.",
-    "verse": ["வான்நின்று உலகம் வழங்கி வருதலால்", "தான்அமிழ்தம் என்றுணரற் பாற்று."],
+    "verse": [
+     "வான்நின்று உலகம் வழங்கி வருதலால்",
+     "தான்அமிழ்தம் என்றுணரற் பாற்று."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -1717,5 +1740,117 @@
   "art": "A woman in a long dress and white cap holding a lamp, writing numbers in a notebook beside rows of beds in a long hospital ward."
  },
  "playtest": "Walked every game, experiment, activity, project and challenge as a parent and child in a flat. Fixed: the four-player weather game now says how many cards each caller shows; the box experiment now lists the cardboard it needs; the calm-spots walk says to lift the flag out of the tumbler; the bedsheet tent steps now give a door that works; the stretch answer used the wrong name (Joy for Joyita); two quiz and worksheet questions that repeated each other were replaced; a nonsense joke was swapped; the fisherwoman and ant-eggs examples were made accurate; the maths wording was made clear; the mind-denying wording in the other view was reworded. Removed three videos whose ids were never found and checked, with the internal notes that came with them.",
- "warm": {"words": ["WATER", "CLOTH", "WINDY", "FRESH", "WALLS"], "quiz": [["We need air sooner than we need water or food.", true, "A person can live only a few minutes without air, but days without water and weeks without food."], ["Once we eat a big meal, we do not need food again.", false, "Our body keeps using up food, so we must eat again and again."], ["A wall in the wind makes a place with calmer air behind it.", true, "Moving air cannot go through a wall, so it flows around and over it."], ["A home must be shut on every side to keep out the wind.", false, "A wall facing the wind is what matters. The open side can face away from the wind."], ["Clothes help keep our bodies safe from sun, cold and insects.", true, "Clothes cover the skin and protect it from sun, rain, cold, wind, insects and dirt."], ["Only people need water. Animals and plants can live without it.", false, "Every living thing needs water, including crows, cats, ants and plants."], ["We breathe all the time, but eat only a few times a day.", true, "Our body uses up air very fast, so we need it again every few seconds."], ["We can live longer without air than without food.", false, "Without air we live only minutes. Without food a person can live some weeks."], ["Humans are animals, so we share needs like air, water and food with other animals.", true, "All animals need air, water and food, and many need a shelter too."], ["Plants do not need air. They need only water and light.", false, "Plants need air, water and light. They use all three to make their own food."]], "odd": [[["Air", "Water", "Food", "Toy"], "Toy", "Air, water and food are needs we cannot live without. A toy is nice to have but not a need."], [["Tent", "Hut", "House", "Fan"], "Fan", "A tent, a hut and a house are shelters that keep us safe from sun and rain. A fan is not a shelter."], [["Wall", "Box", "Hill", "Wind"], "Wind", "A wall, a box and a hill can block moving air. Wind is the moving air itself."], [["Pigeon", "Ant", "Cat", "Stone"], "Stone", "A pigeon, an ant and a cat are living beings that need water. A stone is not alive."], [["Sun", "Rain", "Cold", "Cloth"], "Cloth", "Sun, rain and cold are things we need protection from. Cloth is what protects us."]]}
+ "warm": {
+  "words": [
+   "WATER",
+   "CLOTH",
+   "WINDY",
+   "FRESH",
+   "WALLS"
+  ],
+  "quiz": [
+   [
+    "We need air sooner than we need water or food.",
+    true,
+    "A person can live only a few minutes without air, but days without water and weeks without food."
+   ],
+   [
+    "Once we eat a big meal, we do not need food again.",
+    false,
+    "Our body keeps using up food, so we must eat again and again."
+   ],
+   [
+    "A wall in the wind makes a place with calmer air behind it.",
+    true,
+    "Moving air cannot go through a wall, so it flows around and over it."
+   ],
+   [
+    "A home must be shut on every side to keep out the wind.",
+    false,
+    "A wall facing the wind is what matters. The open side can face away from the wind."
+   ],
+   [
+    "Clothes help keep our bodies safe from sun, cold and insects.",
+    true,
+    "Clothes cover the skin and protect it from sun, rain, cold, wind, insects and dirt."
+   ],
+   [
+    "Only people need water. Animals and plants can live without it.",
+    false,
+    "Every living thing needs water, including crows, cats, ants and plants."
+   ],
+   [
+    "We breathe all the time, but eat only a few times a day.",
+    true,
+    "Our body uses up air very fast, so we need it again every few seconds."
+   ],
+   [
+    "We can live longer without air than without food.",
+    false,
+    "Without air we live only minutes. Without food a person can live some weeks."
+   ],
+   [
+    "Humans are animals, so we share needs like air, water and food with other animals.",
+    true,
+    "All animals need air, water and food, and many need a shelter too."
+   ],
+   [
+    "Plants do not need air. They need only water and light.",
+    false,
+    "Plants need air, water and light. They use all three to make their own food."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Air",
+     "Water",
+     "Food",
+     "Toy"
+    ],
+    "Toy",
+    "Air, water and food are needs we cannot live without. A toy is nice to have but not a need."
+   ],
+   [
+    [
+     "Tent",
+     "Hut",
+     "House",
+     "Fan"
+    ],
+    "Fan",
+    "A tent, a hut and a house are shelters that keep us safe from sun and rain. A fan is not a shelter."
+   ],
+   [
+    [
+     "Wall",
+     "Box",
+     "Hill",
+     "Wind"
+    ],
+    "Wind",
+    "A wall, a box and a hill can block moving air. Wind is the moving air itself."
+   ],
+   [
+    [
+     "Pigeon",
+     "Ant",
+     "Cat",
+     "Stone"
+    ],
+    "Stone",
+    "A pigeon, an ant and a cat are living beings that need water. A stone is not alive."
+   ],
+   [
+    [
+     "Sun",
+     "Rain",
+     "Cold",
+     "Cloth"
+    ],
+    "Cloth",
+    "Sun, rain and cold are things we need protection from. Cloth is what protects us."
+   ]
+  ]
+ }
 }

@@ -81,7 +81,16 @@
     "Runny dosa batter on a hot tawa turns into a firm dosa in a few minutes.",
     "Hard maize kernels pop into fluffy popcorn in a hot pan."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Richard Wrangham",
+     "explanation": "Cooking made food softer and richer, and helped human brains grow."
+    },
+    {
+     "who": "Other researchers",
+     "explanation": "Say meat-eating, tools and cooperation also mattered. When humans began to cook is still debated."
+    }
+   ],
    "context": "This card says what cooking does to food.",
    "art": "Three before-and-after pairs in a row: raw rice and cooked rice, dosa batter and a dosa, maize kernels and popcorn."
   },
@@ -97,7 +106,8 @@
    ],
    "perspectives": [],
    "context": "This card explains what happens in the Ten Grains in a Line experiment, where boiled rice grains make a longer line than dry or soaked grains.",
-   "art": "A zoom-in of one rice grain: on the left, tightly packed starch grains; on the right, the same grains swollen and loose, with water drops between them."
+   "art": "A zoom-in of one rice grain: on the left, tightly packed starch grains; on the right, the same grains swollen and loose, with water drops between them.",
+   "one_view": "\"Rice absorbs water when it cooks\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Butter melts and sets again, but ghee stays ghee",
@@ -111,7 +121,8 @@
    ],
    "perspectives": [],
    "context": "This card explains the Melt It or Make Ghee? activity, where one spoon of butter melts and sets again, and another spoon becomes ghee.",
-   "art": "Two steel katoris: one of pale yellow butter that has set again, and one of golden ghee with tiny brown bits at the bottom."
+   "art": "Two steel katoris: one of pale yellow butter that has set again, and one of golden ghee with tiny brown bits at the bottom.",
+   "one_view": "\"Butter melts and sets again, but ghee stays ghee\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Bacteria set the curd",
@@ -123,7 +134,16 @@
     "Curd rice in Tamil Nadu, mishti doi in Bengal and chaas in Gujarat all start with bacteria working on milk.",
     "Idli and dosa batter rise overnight because tiny living beings work in the batter too."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Households in India and other places",
+     "explanation": "Set curd by adding a spoon of old curd (jaman) to warm milk. They knew a little of the old curd starts the new."
+    },
+    {
+     "who": "Pasteur, Metchnikoff and later microbiologists",
+     "explanation": "Showed that living bacteria are what change the milk."
+    }
+   ],
    "context": "This card is about how milk becomes curd.",
    "art": "A katori of milk at night and the same katori of thick curd in the morning, with a moon and a sun above them."
   },
@@ -137,7 +157,16 @@
     "Stays changed: a chapati cooked on a tawa cannot become dough again.",
     "Goes back: steam from a pressure cooker turns into water drops on a cold lid."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Some changes can be undone and some cannot."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Nothing is perfectly reversible. Every change spreads energy out a little, so the world never returns exactly to how it was. This is the idea of entropy."
+    }
+   ],
    "context": "This card helps you sort kitchen changes into ones that can go back and ones that stay changed.",
    "art": "A two-sided chart: on the left a circle of arrows between ice and water, on the right a one-way arrow from dosa batter to a dosa."
   }
@@ -2180,14 +2209,22 @@
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Food, when it is eaten, is split three ways. The roughest part leaves the body, the middle part becomes flesh, and the finest part becomes mind.",
     "link": "Cooking is the first change food goes through. In the body it keeps changing, until it becomes part of you.",
-    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse": [
+     "अन्नमशितं त्रेधा विधीयते",
+     "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति",
+     "यो मध्यमस्तन्मांसम्",
+     "योऽणिष्ठस्तन्मनः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 15.14",
     "teaching": "Krishna says he becomes the fire inside living bodies that digests their food.",
     "link": "Outside, the fire of the stove changes rice. Inside you, the body goes on changing it, and the Gita speaks of that as a fire too.",
-    "verse": ["अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।", "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"],
+    "verse": [
+     "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।",
+     "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"
+    ],
     "verse_lang": "sa"
    }
   ],

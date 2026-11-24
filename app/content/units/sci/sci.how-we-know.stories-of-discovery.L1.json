@@ -57,7 +57,20 @@
     "C. V. Raman, a scientist from India, saw the deep blue sea from a ship in 1921. He asked why the sea is so blue. He spent years finding out.",
     "Babies are curious too. When a toy does something surprising, babies pick it up and test it again."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Karl Popper",
+     "explanation": "Scientists make ideas that could be shown wrong, and test them."
+    },
+    {
+     "who": "Thomas Kuhn",
+     "explanation": "Scientists work inside a shared way of thinking until too many surprises force a change."
+    },
+    {
+     "who": "Indian Nyaya school",
+     "explanation": "Listed ways of knowing: perception, inference, comparison and trusted word."
+    }
+   ],
    "art": "Four simple pictures in a circle: an eye (notice), a question mark (ask), a hand holding a cup (try), and a mouth speaking (tell)."
   },
   {
@@ -71,7 +84,16 @@
     "Janaki Ammal, from Thalassery in Kerala, grew new kinds of sugarcane that grow well in Indian fields.",
     "Tu Youyou, from China, found a malaria medicine by reading old books and testing."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Anyone who looks closely and asks questions is doing science."
+    },
+    {
+     "who": "Professional science",
+     "explanation": "Adds tools, training and sharing of results so others can check. Many 'citizen scientists' now help with real research."
+    }
+   ],
    "art": "A girl on a pebbly beach brushing sand from a long fossil skeleton, with cliffs behind her and a small dog at her side."
   },
   {
@@ -86,7 +108,8 @@
     "A drop of lemon juice on the red spot turns it yellow again."
    ],
    "perspectives": [],
-   "art": "Three squares of yellow haldi paper: one with a red spot labelled 'soap', one still yellow labelled 'lemon', and one where a red spot is turning back to yellow."
+   "art": "Three squares of yellow haldi paper: one with a red spot labelled 'soap', one still yellow labelled 'lemon', and one where a red spot is turning back to yellow.",
+   "one_view": "\"Why soap turns haldi red\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Discoveries come from everywhere",
@@ -99,7 +122,16 @@
     "In the year 499, Aryabhata, in India, wrote that the Earth spins.",
     "Ronald Ross, working in Secunderabad, near Hyderabad, found in 1897 that mosquitoes carry malaria."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Older histories",
+     "explanation": "Told science as a story of a few European men."
+    },
+    {
+     "who": "Historians such as Joseph Needham",
+     "explanation": "Show that Indian, Chinese, Arab, African and American peoples made many key discoveries, such as zero, paper and the compass."
+    }
+   ],
    "art": "A round world with small pictures on it: a woman with old books in China, a man on a ship near India, an old astronomer in India looking at stars, and a girl on a beach in England."
   }
  ],
@@ -1801,21 +1833,29 @@
     "source": "Plato, Theaetetus 155d",
     "teaching": "Socrates, a thinker in ancient Greece, said that philosophy, the love of wisdom, begins with wonder. He said it has no other beginning.",
     "link": "Your haldi test began with wonder: why did the stain go red? The wondering came first, and the test came next.",
-    "verse": ["μάλα γὰρ φιλοσόφου τοῦτο τὸ πάθος, τὸ θαυμάζειν· οὐ γὰρ ἄλλη ἀρχὴ φιλοσοφίας ἢ αὕτη"],
+    "verse": [
+     "μάλα γὰρ φιλοσόφου τοῦτο τὸ πάθος, τὸ θαυμάζειν· οὐ γὰρ ἄλλη ἀρχὴ φιλοσοφίας ἢ αὕτη"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Kena Upanishad 1.1",
     "teaching": "The Kena Upanishad, an old Indian teaching, begins with a question: 'By whom is the mind sent out?' It is even named after its first word, 'kena', which means 'by whom'. Asking is where it starts.",
     "link": "The Kena Upanishad starts with a question, the way a scientist does. You started with a question too, and the question led you to the answer.",
-    "verse": ["ॐ केनेषितं पतति प्रेषितं मनः", "केन प्राणः प्रथमः प्रैति युक्तः"],
+    "verse": [
+     "ॐ केनेषितं पतति प्रेषितं मनः",
+     "केन प्राणः प्रथमः प्रैति युक्तः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.129.7 (the Nasadiya Sukta)",
     "teaching": "This very old hymn from the Rig Veda, called the Nasadiya Sukta, asks how the world began. It ends by saying that perhaps even the highest one does not know. It is honest about not knowing.",
     "link": "Scientists also say 'we don't know yet' when they don't. Not knowing is where every new question, and every discovery, begins.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -1854,5 +1894,117 @@
   "art": "A woman scientist in a 1970s laboratory in Beijing, with a very old book open beside glass jars of green plant juice."
  },
  "playtest": "Walked through the haldi test, the back-to-yellow test, the secret message, the clue hunt and the hidden card as a parent and child in a flat, with only kitchen things; they all work, and the soap and cooking soda reds and the lemon yellow are what turmeric really does. Both games were played through in my head with two players and with four. The True or False game now scores with tally marks, so cards no longer need to be 'kept' by several players, and the board game says what happens when a roll goes past Finish. I also removed repeated questions, a needless safety line, family members assumed in steps and art, and the unclear names in the maths, and made the Tu Youyou clue cards and acting use the leaf and cup. The three videos still need to be found and watched before they reach families. I also added the missing step that mixes the haldi water in the secret message and the card challenge, made the game scoring and the dice slips work for two or four players, made the second haldi test's drops agree with its steps, and swapped a project idea that could not be tested in a day for one that can. The unit stays short for age 6; the validator's minimums were met without padding.",
- "warm": {"words": ["LEMON", "ASKED", "GUESS", "TRIES", "LEARN"], "quiz": [["Soap can turn a yellow haldi stain red.", true, "Soap changes the yellow colour in haldi to red."], ["Lemon juice makes a haldi stain redder.", false, "Lemon juice turns the red back to yellow."], ["Only people who are born very clever can be scientists.", false, "Anyone who looks closely, asks questions and tests ideas can find out new things."], ["A guess becomes knowledge only after someone tests it.", true, "Testing shows whether the guess is right or wrong."], ["An old medicine book always gives the right answer.", false, "Most old recipes did not work when tested. Testing showed which one did."], ["A strange new idea can sometimes turn out to be right.", true, "Some ideas that sounded strange were tested and found true."], ["Everyone who sees a haldi stain turn red asks why.", false, "Many people saw it and few asked why. Asking a question starts a discovery."], ["Cooking soda turns haldi red, just like soap does.", true, "Both soap and cooking soda change the yellow colour to red."], ["Only people in one country can make discoveries.", false, "People in every part of the world have made discoveries."], ["A discovery can start when someone asks why about something everyone sees.", true, "Asking about something ordinary is the first step to finding out."]], "odd": [[["Soap water", "Cooking soda water", "Washing soap", "Lemon juice"], "Lemon juice", "The first three turn haldi red. Lemon juice turns it back to yellow."], [["A kitchen stain", "A seashell", "An old book", "A guess nobody tests"], "A guess nobody tests", "The first three have started discoveries. A guess nobody tests finds out nothing."], [["I think soap turns it red", "I think lemon turns it yellow", "I think milk turns it blue", "I tried it and it turned red"], "I tried it and it turned red", "The first three are guesses. The last is what really happened when someone tried it."], [["Why did haldi go red?", "Why is the sky blue?", "Why do seeds grow?", "Where is my bag?"], "Where is my bag?", "The first three ask how the world works. The last only asks where a thing is."], [["Try each liquid", "Look at what happens", "Tell others what you found", "Keep it secret"], "Keep it secret", "The first three are what scientists do. They tell others, so that others can try it too."]]}
+ "warm": {
+  "words": [
+   "LEMON",
+   "ASKED",
+   "GUESS",
+   "TRIES",
+   "LEARN"
+  ],
+  "quiz": [
+   [
+    "Soap can turn a yellow haldi stain red.",
+    true,
+    "Soap changes the yellow colour in haldi to red."
+   ],
+   [
+    "Lemon juice makes a haldi stain redder.",
+    false,
+    "Lemon juice turns the red back to yellow."
+   ],
+   [
+    "Only people who are born very clever can be scientists.",
+    false,
+    "Anyone who looks closely, asks questions and tests ideas can find out new things."
+   ],
+   [
+    "A guess becomes knowledge only after someone tests it.",
+    true,
+    "Testing shows whether the guess is right or wrong."
+   ],
+   [
+    "An old medicine book always gives the right answer.",
+    false,
+    "Most old recipes did not work when tested. Testing showed which one did."
+   ],
+   [
+    "A strange new idea can sometimes turn out to be right.",
+    true,
+    "Some ideas that sounded strange were tested and found true."
+   ],
+   [
+    "Everyone who sees a haldi stain turn red asks why.",
+    false,
+    "Many people saw it and few asked why. Asking a question starts a discovery."
+   ],
+   [
+    "Cooking soda turns haldi red, just like soap does.",
+    true,
+    "Both soap and cooking soda change the yellow colour to red."
+   ],
+   [
+    "Only people in one country can make discoveries.",
+    false,
+    "People in every part of the world have made discoveries."
+   ],
+   [
+    "A discovery can start when someone asks why about something everyone sees.",
+    true,
+    "Asking about something ordinary is the first step to finding out."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Soap water",
+     "Cooking soda water",
+     "Washing soap",
+     "Lemon juice"
+    ],
+    "Lemon juice",
+    "The first three turn haldi red. Lemon juice turns it back to yellow."
+   ],
+   [
+    [
+     "A kitchen stain",
+     "A seashell",
+     "An old book",
+     "A guess nobody tests"
+    ],
+    "A guess nobody tests",
+    "The first three have started discoveries. A guess nobody tests finds out nothing."
+   ],
+   [
+    [
+     "I think soap turns it red",
+     "I think lemon turns it yellow",
+     "I think milk turns it blue",
+     "I tried it and it turned red"
+    ],
+    "I tried it and it turned red",
+    "The first three are guesses. The last is what really happened when someone tried it."
+   ],
+   [
+    [
+     "Why did haldi go red?",
+     "Why is the sky blue?",
+     "Why do seeds grow?",
+     "Where is my bag?"
+    ],
+    "Where is my bag?",
+    "The first three ask how the world works. The last only asks where a thing is."
+   ],
+   [
+    [
+     "Try each liquid",
+     "Look at what happens",
+     "Tell others what you found",
+     "Keep it secret"
+    ],
+    "Keep it secret",
+    "The first three are what scientists do. They tell others, so that others can try it too."
+   ]
+  ]
+ }
 }

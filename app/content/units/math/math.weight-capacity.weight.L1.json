@@ -100,7 +100,16 @@
     "A full tumbler is heavier than an empty tumbler.",
     "A feather is lighter than a pencil."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Heavier things fall faster and are 'more earthy'."
+    },
+    {
+     "who": "Galileo and physicists today",
+     "explanation": "Weight is the pull of the Earth. Mass is how much matter a thing has, and it stays the same on the Moon. Without air, a heavy and a light thing fall together."
+    }
+   ],
    "art": "A child holding a steel spoon in one open hand and a pencil in the other, the spoon hand a little lower.",
    "chart": {
     "type": "balance",
@@ -141,7 +150,8 @@
     },
     "tilt": "left",
     "title": "Down means heavier"
-   }
+   },
+   "one_view": "\"How to read a balance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "As heavy as: a level balance",
@@ -168,7 +178,8 @@
     },
     "tilt": "level",
     "title": "Level means as heavy as"
-   }
+   },
+   "one_view": "\"As heavy as: a level balance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Bigger is not always heavier",
@@ -195,7 +206,8 @@
     },
     "tilt": "right",
     "title": "The small one is heavier"
-   }
+   },
+   "one_view": "\"Bigger is not always heavier\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "More things is not always heavier",
@@ -223,7 +235,8 @@
       "n": 10
      }
     ]
-   }
+   },
+   "one_view": "\"More things is not always heavier\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A new shape, the same weight",
@@ -250,7 +263,8 @@
     },
     "tilt": "level",
     "title": "The same dough, two shapes"
-   }
+   },
+   "one_view": "\"A new shape, the same weight\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Your hands can be fooled",
@@ -277,7 +291,8 @@
     },
     "tilt": "level",
     "title": "Level on the hanger"
-   }
+   },
+   "one_view": "\"Your hands can be fooled\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Squirrels and crows judge weight too",
@@ -291,7 +306,8 @@
     "A person choosing a coconut lifts and shakes each one."
    ],
    "perspectives": [],
-   "art": "A squirrel sitting upright with a nut in her mouth, and beside her a crow watching two small objects swinging on strings."
+   "art": "A squirrel sitting upright with a nut in her mouth, and beside her a crow watching two small objects swinging on strings.",
+   "one_view": "\"Squirrels and crows judge weight too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "On the Moon, a level balance stays level",
@@ -304,7 +320,16 @@
     "A heavier thing is still heavier on the Moon. A coconut still beats a lemon.",
     "A level balance would stay level on Mars too, where the pull is also weaker than on the Earth."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A pan balance",
+     "explanation": "Compares two masses, so it stays level on the Moon, because both sides are pulled less."
+    },
+    {
+     "who": "A spring scale",
+     "explanation": "Measures the pull itself, so it would read about one sixth on the Moon. Physicists use the word mass for the first and weight for the second."
+    }
+   ],
    "art": "An astronaut on the grey surface of the Moon holding up a small balance that hangs level, with the Earth in the black sky.",
    "chart": {
     "type": "balance",

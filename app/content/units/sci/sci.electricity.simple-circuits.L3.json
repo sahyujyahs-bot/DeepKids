@@ -130,7 +130,16 @@
     "A phone runs on its own battery, so it keeps working in a power cut until the battery runs down.",
     "An inverter keeps a few lights and fans on in a power cut, using big batteries charged earlier."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday words",
+     "explanation": "Electricity is a kind of energy."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Electricity is the flow or the presence of electric charge. Energy is what the flow carries from the cell to the bulb."
+    }
+   ],
    "art": "A home with labels on its appliances: a tube light for light, a TV for sound, an iron for heat, a fridge for cold and a fan for movement.",
    "context": "This card is about the many ways a home uses electricity, and what still works in a power cut."
   },
@@ -144,7 +153,16 @@
     "A wall clock uses one AA cell for many months.",
     "A big solar panel on a roof makes electricity from sunlight."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Thomas Edison",
+     "explanation": "Supported direct current (DC), the steady flow a cell gives."
+    },
+    {
+     "who": "Nikola Tesla and George Westinghouse",
+     "explanation": "Backed alternating current (AC), which reverses many times a second and is easier to send far. Mains is AC in India, and a cell gives DC."
+    }
+   ],
    "art": "On one side, a power station by a river with tall towers carrying wires towards a town. On the other side, a child's hand holding a single AA cell.",
    "context": "Where does the electricity in your home come from? And how is it different from the electricity in a cell? This card explains."
   },
@@ -160,7 +178,8 @@
    ],
    "perspectives": [],
    "art": "A child drying their hands on a towel before a grown-up switches on a light, and a kite caught on a power line with a red cross beside it.",
-   "context": "This card gives the safety rules for electricity, and the reason behind each rule."
+   "context": "This card gives the safety rules for electricity, and the reason behind each rule.",
+   "one_view": "\"Staying safe with electricity\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A complete circuit",
@@ -174,7 +193,8 @@
    ],
    "perspectives": [],
    "art": "A torch bulb on an AA cell, with a dotted path drawn from the cell's top through the bulb's tip, round the filament, out of its side, down a wire and into the cell's bottom.",
-   "context": "Why does one wire to a bulb not light it? This card shows the full loop the electricity takes."
+   "context": "Why does one wire to a bulb not light it? This card shows the full loop the electricity takes.",
+   "one_view": "\"A complete circuit\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why a broken circuit stops everything",
@@ -188,7 +208,8 @@
    ],
    "perspectives": [],
    "art": "Three loops, each with a dark bulb and a gap in a different place: next to the cell, next to the bulb, and in the middle of a wire.",
-   "context": "This card explains why a gap anywhere in a circuit stops the bulb, and how to find the gap."
+   "context": "This card explains why a gap anywhere in a circuit stops the bulb, and how to find the gap.",
+   "one_view": "\"Why a broken circuit stops everything\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Conductors and insulators",
@@ -202,7 +223,8 @@
    ],
    "perspectives": [],
    "art": "A plug cut in half lengthwise, showing copper wires and brass pins inside, wrapped in plastic.",
-   "context": "Why are wires made of copper with plastic around them? This card explains which materials let electricity through and which do not."
+   "context": "Why are wires made of copper with plastic around them? This card explains which materials let electricity through and which do not.",
+   "one_view": "\"Conductors and insulators\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How a switch works",
@@ -216,7 +238,8 @@
    ],
    "perspectives": [],
    "art": "A paper clip switch on cardboard, shown twice: open, with a dark bulb, and closed, with a glowing bulb.",
-   "context": "How does a switch turn a light on and off? This card shows what happens inside it, and how to make one."
+   "context": "How does a switch turn a light on and off? This card shows what happens inside it, and how to make one.",
+   "one_view": "\"How a switch works\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What is moving in the wire",
@@ -228,7 +251,16 @@
     "A tube full of marbles: push one in at one end, and one pops out at the other end at once.",
     "The arrows on circuit drawings go from plus to minus. People drew them that way before electrons were found in 1897. The electrons actually move from minus to plus."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Franklin's old rule",
+     "explanation": "Charge flows from plus to minus."
+    },
+    {
+     "who": "Modern physics",
+     "explanation": "In a metal wire the electrons move from minus to plus, only slowly, while the push travels fast."
+    }
+   ],
    "art": "A zoomed-in circle on a copper wire, showing tiny dots spread all along it, all drifting the same way, next to a cycle chain going round its gears.",
    "context": "When a bulb lights, what is actually moving inside the wire? This card explains."
   },
@@ -242,7 +274,16 @@
     "The leaves of a touch-me-not fold within a second or two of a touch.",
     "An electric eel uses shocks to stun the fish they hunt."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Luigi Galvani (1780s)",
+     "explanation": "Saw a frog's leg twitch and said animals carry their own 'animal electricity'."
+    },
+    {
+     "who": "Alessandro Volta",
+     "explanation": "Said the twitch came from the two metals touching, and built the first battery. Later work showed both were partly right: nerves do carry electric signals, and metals can make current."
+    }
+   ],
    "art": "A touch-me-not plant folding their leaves as a finger touches them, with a faint zig-zag line running along the stem, next to an ECG line on a screen.",
    "context": "Wires and cells are not the only places with electricity. This card is about the electricity inside living things."
   }
@@ -3196,14 +3237,23 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes share one hub. It is the empty space at the centre that makes the wheel useful. We shape clay into a pot, and it is the empty inside that holds what we want.",
     "link": "A switch is useful because of its gap. The air gap is what lets us turn a light off. The metal carries the electricity, but the gap is what lets us control it.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka tells his son Shvetaketu to put salt in water overnight. In the morning the boy cannot see the salt. But he tastes the water from the top, the middle and the bottom, and it is salty everywhere.",
     "link": "The electrons were in every part of the wire before you joined the cell, though you could not see them. The bulb lighting at once is how you could tell, the way the taste told Shvetaketu the salt was there.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3245,5 +3295,117 @@
   "when": "1791 (Galvani's book on animal electricity) and 1799 to 1800 (Volta's pile)",
   "wrong_idea": "Galvani thought the electricity that made the frog legs twitch was stored in the frog's body. Volta showed that two different metals with something salty and wet between them make electricity on their own, with no frog. Galvani was still right that nerves use electricity."
  },
- "warm": {"words": ["BULBS", "METAL", "WIRES", "LIGHT", "CELLS"], "quiz": [["A bulb lights only when electricity has a complete loop back to the cell.", true, "Electricity must flow from one end of the cell, through the bulb, and back to the other end."], ["One wire from the cell to the bulb is enough to light it.", false, "Without a second wire back to the other end of the cell, there is no loop, so the bulb stays dark."], ["A gap anywhere in a circuit stops the electricity everywhere in it.", true, "Electricity cannot cross the gap, so nothing in the loop can keep flowing."], ["A bulb uses up the electricity, so less flows back to the cell.", false, "The same flow comes back to the cell. What runs out is the energy stored in the cell."], ["A paper clip with a plastic coat will light a bulb because it is metal.", false, "Plastic is an insulator, so the coat blocks electricity until you scrape a little off."], ["A switch works by opening and closing a gap in the circuit.", true, "When the switch is open, the gap stops the electricity. When it is closed, the gap is gone and the electricity can flow."], ["A wall socket is safe for experiments because it works like a small cell.", false, "A socket gives 230 volts and can kill, so we use only small 1.5 volt cells."], ["Wet skin lets electricity pass through the body more easily than dry skin.", true, "Water on the skin carries electricity, so a wet person is in more danger from a shock."], ["Any small cell is safe for children, even if it is swallowed.", false, "A swallowed button cell can badly burn a child's food pipe in as little as two hours."], ["Rubber, wood and glass do not let electricity flow through them.", true, "These are insulators. Metals are conductors, so they let electricity flow easily."]], "odd": [[["Copper wire", "Iron nail", "Steel spoon", "Wooden ruler"], "Wooden ruler", "Copper, iron and steel are metals that let electricity flow, but wood is an insulator that blocks it."], [["Closed switch", "Wire joined at both ends", "Scraped metal clip joining wires", "Open switch"], "Open switch", "The first three leave a path for electricity to flow, but an open switch makes a gap that stops it."], [["Torch cell", "Clock cell", "Remote cell", "Wall socket"], "Wall socket", "The cells give about 1.5 volts and are safe to test, but a wall socket gives 230 volts that can kill."], [["Loose wire", "Burnt-out bulb", "Open switch", "Fresh cell"], "Fresh cell", "A loose wire, a burnt-out bulb and an open switch all make a gap, but a fresh cell pushes electricity round."], [["Nerves", "Muscles", "Touch-me-not plant", "Stone"], "Stone", "Living things send tiny electric signals to do their jobs, but a stone is not alive and sends none."]]}
+ "warm": {
+  "words": [
+   "BULBS",
+   "METAL",
+   "WIRES",
+   "LIGHT",
+   "CELLS"
+  ],
+  "quiz": [
+   [
+    "A bulb lights only when electricity has a complete loop back to the cell.",
+    true,
+    "Electricity must flow from one end of the cell, through the bulb, and back to the other end."
+   ],
+   [
+    "One wire from the cell to the bulb is enough to light it.",
+    false,
+    "Without a second wire back to the other end of the cell, there is no loop, so the bulb stays dark."
+   ],
+   [
+    "A gap anywhere in a circuit stops the electricity everywhere in it.",
+    true,
+    "Electricity cannot cross the gap, so nothing in the loop can keep flowing."
+   ],
+   [
+    "A bulb uses up the electricity, so less flows back to the cell.",
+    false,
+    "The same flow comes back to the cell. What runs out is the energy stored in the cell."
+   ],
+   [
+    "A paper clip with a plastic coat will light a bulb because it is metal.",
+    false,
+    "Plastic is an insulator, so the coat blocks electricity until you scrape a little off."
+   ],
+   [
+    "A switch works by opening and closing a gap in the circuit.",
+    true,
+    "When the switch is open, the gap stops the electricity. When it is closed, the gap is gone and the electricity can flow."
+   ],
+   [
+    "A wall socket is safe for experiments because it works like a small cell.",
+    false,
+    "A socket gives 230 volts and can kill, so we use only small 1.5 volt cells."
+   ],
+   [
+    "Wet skin lets electricity pass through the body more easily than dry skin.",
+    true,
+    "Water on the skin carries electricity, so a wet person is in more danger from a shock."
+   ],
+   [
+    "Any small cell is safe for children, even if it is swallowed.",
+    false,
+    "A swallowed button cell can badly burn a child's food pipe in as little as two hours."
+   ],
+   [
+    "Rubber, wood and glass do not let electricity flow through them.",
+    true,
+    "These are insulators. Metals are conductors, so they let electricity flow easily."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Copper wire",
+     "Iron nail",
+     "Steel spoon",
+     "Wooden ruler"
+    ],
+    "Wooden ruler",
+    "Copper, iron and steel are metals that let electricity flow, but wood is an insulator that blocks it."
+   ],
+   [
+    [
+     "Closed switch",
+     "Wire joined at both ends",
+     "Scraped metal clip joining wires",
+     "Open switch"
+    ],
+    "Open switch",
+    "The first three leave a path for electricity to flow, but an open switch makes a gap that stops it."
+   ],
+   [
+    [
+     "Torch cell",
+     "Clock cell",
+     "Remote cell",
+     "Wall socket"
+    ],
+    "Wall socket",
+    "The cells give about 1.5 volts and are safe to test, but a wall socket gives 230 volts that can kill."
+   ],
+   [
+    [
+     "Loose wire",
+     "Burnt-out bulb",
+     "Open switch",
+     "Fresh cell"
+    ],
+    "Fresh cell",
+    "A loose wire, a burnt-out bulb and an open switch all make a gap, but a fresh cell pushes electricity round."
+   ],
+   [
+    [
+     "Nerves",
+     "Muscles",
+     "Touch-me-not plant",
+     "Stone"
+    ],
+    "Stone",
+    "Living things send tiny electric signals to do their jobs, but a stone is not alive and sends none."
+   ]
+  ]
+ }
 }

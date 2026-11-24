@@ -152,7 +152,8 @@
      ]
     ],
     "title": "Flat and solid"
-   }
+   },
+   "one_view": "\"A solid shape is a shape you can hold\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Flat faces and curved surfaces",
@@ -189,7 +190,8 @@
      }
     ],
     "title": "Count the flat faces"
-   }
+   },
+   "one_view": "\"Flat faces and curved surfaces\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A curved surface rolls. A flat face slides.",
@@ -224,7 +226,8 @@
      ]
     ],
     "title": "What happened on the slope"
-   }
+   },
+   "one_view": "\"A curved surface rolls. A flat face slides.\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "One tin, two ways",
@@ -259,7 +262,8 @@
      ]
     ],
     "title": "One tin, two ways"
-   }
+   },
+   "one_view": "\"One tin, two ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Four families: balls, boxes, tins and cones",
@@ -307,7 +311,8 @@
      }
     ],
     "title": "Four families"
-   }
+   },
+   "one_view": "\"Four families: balls, boxes, tins and cones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Flat faces stack",
@@ -347,7 +352,8 @@
      ]
     ],
     "title": "Can it stack?"
-   }
+   },
+   "one_view": "\"Flat faces stack\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why a cone rolls in a curve",
@@ -379,7 +385,8 @@
       "width": 6
      }
     ]
-   }
+   },
+   "one_view": "\"Why a cone rolls in a curve\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Who chose the names?",
@@ -419,7 +426,8 @@
      ]
     ],
     "title": "One shape, three words"
-   }
+   },
+   "one_view": "\"Who chose the names?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Is a coin flat or solid?",
@@ -432,7 +440,16 @@
     "A sheet of paper is a very thin box shape.",
     "A dosa is a short, wide tin shape, more or less."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A coin is flat, so we call a circle on paper its shape."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "A flat circle has no thickness. A real coin always has some thickness, so it is a very short solid tin shape."
+    }
+   ],
    "art": "A coin seen from the side, showing its thin edge, next to a tall round tin for comparison.",
    "chart": {
     "type": "dots",
@@ -468,7 +485,16 @@
     "An antlion digs a cone-shaped pit in dry sand.",
     "An Indian pangolin curls up into a ball when they are in danger."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Charles Darwin and many naturalists",
+     "explanation": "Honeybees build six-sided wax tubes so well that it looks like clever design that saves wax."
+    },
+    {
+     "who": "D'Arcy Thompson and later physicists",
+     "explanation": "The wax warms and flows into hexagons by itself, like soap bubbles, so the bees do not need to calculate. Scientists still discuss how much is bee and how much is physics."
+    }
+   ],
    "art": "A dung beetle pushing a ball of dung backwards across dry ground, with a small cone-shaped pit in the sand nearby.",
    "chart": {
     "type": "table",
@@ -529,7 +555,8 @@
       "curved surface rolls"
      ]
     ]
-   }
+   },
+   "one_view": "\"Balls in the sky, boxes in the wall, tins under the bus\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [

@@ -1,0 +1,1486 @@
+{
+ "math.algebra.balance-and-missing-numbers.L1": {
+  "A balance compares two sides": {
+   "one_view": "\"A balance compares two sides\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The sign = means 'is the same as'": {
+   "perspectives": [
+    {
+     "who": "Robert Recorde, who first wrote the sign in 1557",
+     "explanation": "He drew two short parallel lines and said no two things could be more equal. For him = meant 'is the same amount as'."
+    },
+    {
+     "who": "Many children, and many calculators",
+     "explanation": "Read = as 'now give the answer'. A mathematician reads it as 'both sides are the same amount', which also works when the answer is on the left."
+    }
+   ]
+  },
+  "Many sums can make the same number": {
+   "one_view": "\"Many sums can make the same number\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "True and false number sentences": {
+   "one_view": "\"True and false number sentences\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How to make a tilted balance level": {
+   "one_view": "\"How to make a tilted balance level\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Do the same to both sides, and it stays level": {
+   "one_view": "\"Do the same to both sides, and it stays level\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Equal in what way?": {
+   "perspectives": [
+    {
+     "who": "Everyday speech",
+     "explanation": "'The same' usually means they look alike or are alike in the way we care about right now."
+    },
+    {
+     "who": "Mathematicians and scientists",
+     "explanation": "Two things are equal only in one chosen way, such as number, weight or length. They can be equal in that way and different in every other."
+    }
+   ]
+  },
+  "Honeybees can learn 'the same'": {
+   "one_view": "\"Honeybees can learn 'the same'\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Equal days and equal nights": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "On the equinox, day and night are exactly equal, twelve hours each."
+    },
+    {
+     "who": "Closer measurement",
+     "explanation": "Day is a little longer, because the Sun is a disc and not a point, and air bends its light over the horizon. Indian astronomers name the two days of nearly equal day and night 'vishuva'."
+    }
+   ]
+  }
+ },
+ "math.data.sorting-and-tallies.L1": {
+  "Sorting puts like with like": {
+   "one_view": "\"Sorting puts like with like\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Count each group: most and fewest": {
+   "one_view": "\"Count each group: most and fewest\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "One heap can be sorted in many ways": {
+   "one_view": "\"One heap can be sorted in many ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Sorting does not change how many there are in all": {
+   "one_view": "\"Sorting does not change how many there are in all\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "One mark for each thing": {
+   "one_view": "\"One mark for each thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "When a thing is hard to place": {
+   "one_view": "\"When a thing is hard to place\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Ants sort too": {
+   "perspectives": [
+    {
+     "who": "A person watching the nest",
+     "explanation": "It looks as if the ants plan their rings, like someone tidying a room."
+    },
+    {
+     "who": "Researchers who study these ants (Franks and Deneubourg)",
+     "explanation": "No ant needs a plan. Each ant follows simple local rules, and the rings come out of many ants doing this together."
+    }
+   ]
+  },
+  "Sorting helps us understand the world": {
+   "one_view": "\"Sorting helps us understand the world\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "math.length.comparing-length.L1": {
+  "What is length?": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A thing has one length, and moving it does not change it."
+    },
+    {
+     "who": "Einstein's physics",
+     "explanation": "Length depends on how fast you move compared with the thing. At speeds near the speed of light, a moving thing is measured shorter. At everyday speeds the change is far too small to notice."
+    }
+   ]
+  },
+  "Longer, shorter, the same length": {
+   "one_view": "\"Longer, shorter, the same length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The start-line rule": {
+   "one_view": "\"The start-line rule\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Moving a thing does not change its length": {
+   "one_view": "\"Moving a thing does not change its length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A bend hides length": {
+   "one_view": "\"A bend hides length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Tall, long and high": {
+   "one_view": "\"Tall, long and high\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Shortest to longest: putting things in order": {
+   "one_view": "\"Shortest to longest: putting things in order\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Long compared with what?": {
+   "perspectives": [
+    {
+     "who": "Everyday speech",
+     "explanation": "Long and short depend on what you compare with: a pencil is long next to a pin and short next to a ruler."
+    },
+    {
+     "who": "People who made measuring units",
+     "explanation": "Many cultures measured with the body, such as the hand-width, the forearm (hasta in India) and the finger-width (angula). Today we agree on the metre, so a length means the same to everyone."
+    }
+   ]
+  },
+  "A string can carry a length": {
+   "one_view": "\"A string can carry a length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Your eyes can be fooled": {
+   "perspectives": [
+    {
+     "who": "Some vision scientists",
+     "explanation": "The upright line looks longer because the brain reads up and down as depth or distance, and stretches it."
+    },
+    {
+     "who": "Other vision scientists",
+     "explanation": "The cause is the shape of our field of view and the way our eyes move. Scientists do not yet agree which explanation is right, or whether several work together."
+    }
+   ]
+  },
+  "Other animals keep track of length too": {
+   "perspectives": [
+    {
+     "who": "Researchers Wittlinger, Wehner and Wolf",
+     "explanation": "Desert ants measure distance by counting their own steps. Ants with longer legs on stilts walked too far, and ants with shortened legs stopped short."
+    },
+    {
+     "who": "Human measuring",
+     "explanation": "We use a ruler outside the body that is the same for everyone. The ant's ruler is inside its body."
+    }
+   ]
+  }
+ },
+ "math.number-sense.place-value.L1": {
+  "Ten ones make one ten": {
+   "one_view": "\"Ten ones make one ten\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Ten and some more: the numbers from 11 to 19": {
+   "one_view": "\"Ten and some more: the numbers from 11 to 19\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Counting in tens": {
+   "one_view": "\"Counting in tens\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Two digits: tens on the left, ones on the right": {
+   "perspectives": [
+    {
+     "who": "The Indian-Arabic system we use",
+     "explanation": "The value of a digit depends on its place, and the left place is worth the most."
+    },
+    {
+     "who": "Roman numerals and Babylonian numbers",
+     "explanation": "Roman numerals have no place value: X is ten wherever it stands. Babylonian numbers counted in sixties with place value, but with no sign for an empty place at first."
+    }
+   ]
+  },
+  "Zero means no loose ones": {
+   "perspectives": [
+    {
+     "who": "Babylonian and Mayan scribes",
+     "explanation": "Used a mark to hold an empty place in a number, but it was not a number you could add."
+    },
+    {
+     "who": "Indian mathematicians (Aryabhata's place value, Brahmagupta's rules for zero)",
+     "explanation": "Made zero a number in its own right, with rules for using it. This is the zero in every school today."
+    }
+   ]
+  },
+  "12 and 21: the same digits, different numbers": {
+   "one_view": "\"12 and 21: the same digits, different numbers\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Nine loose and one more: a new ten": {
+   "one_view": "\"Nine loose and one more: a new ten\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why ten? People chose it": {
+   "perspectives": [
+    {
+     "who": "The body-counting view",
+     "explanation": "People bundle in tens because we have ten fingers."
+    },
+    {
+     "who": "Other peoples",
+     "explanation": "Babylonians counted in sixty, the Maya in twenty, and some people in twelves. Indian mathematicians made the ten-digit place-value system with zero, which spread to the Arab world and then everywhere."
+    }
+   ]
+  },
+  "Other living beings keep track of amounts too": {
+   "perspectives": [
+    {
+     "who": "Researchers who study desert ants",
+     "explanation": "The ants keep a running count of their steps, which works like a tally."
+    },
+    {
+     "who": "Careful scientists",
+     "explanation": "Some say this is an inner step-counter, and not counting with numbers as people do. Whether animals 'count' is still debated."
+    }
+   ]
+  },
+  "Stretch: ten tens make one hundred": {
+   "one_view": "\"Stretch: ten tens make one hundred\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "math.position.position-words.L1": {
+  "A position word needs two things": {
+   "one_view": "\"A position word needs two things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Top, bottom, above, below, on, under": {
+   "one_view": "\"Top, bottom, above, below, on, under\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Inside and outside": {
+   "one_view": "\"Inside and outside\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Near and far": {
+   "one_view": "\"Near and far\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Left and right go with you": {
+   "one_view": "\"Left and right go with you\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "In front, behind, between, next to": {
+   "one_view": "\"In front, behind, between, next to\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Which words change when you move?": {
+   "one_view": "\"Which words change when you move?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Down is toward the middle of the Earth": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Down is just where things fall."
+    },
+    {
+     "who": "Aristotle",
+     "explanation": "Heavy things fall because they seek their natural place at the centre of the world."
+    },
+    {
+     "who": "Newton and Einstein",
+     "explanation": "Newton said the Earth pulls everything toward its centre. Einstein described gravity as the bending of space and time by mass."
+    }
+   ]
+  },
+  "Everyone does maths: the bee's dance and the root": {
+   "perspectives": [
+    {
+     "who": "Karl von Frisch",
+     "explanation": "A honeybee's waggle dance tells her sisters the direction and the distance of food, using the Sun as a guide."
+    },
+    {
+     "who": "Adrian Wenner and others",
+     "explanation": "Said the bees follow the smell of the flowers and not the dance. Radar tracking in 2005 showed bees do fly where the dance points."
+    }
+   ]
+  },
+  "People agree on left and right, and some do without them": {
+   "perspectives": [
+    {
+     "who": "People who use left and right",
+     "explanation": "Left and right are about your body. A thing is 'left of the tree' from where you stand."
+    },
+    {
+     "who": "The Guugu Yimithirr people of Australia",
+     "explanation": "They give directions in north, south, east and west for everything, even small things, so they do not need left and right."
+    }
+   ]
+  }
+ },
+ "math.shapes-3d.solid-shapes.L1": {
+  "A solid shape is a shape you can hold": {
+   "one_view": "\"A solid shape is a shape you can hold\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Flat faces and curved surfaces": {
+   "one_view": "\"Flat faces and curved surfaces\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A curved surface rolls. A flat face slides.": {
+   "one_view": "\"A curved surface rolls. A flat face slides.\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "One tin, two ways": {
+   "one_view": "\"One tin, two ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Four families: balls, boxes, tins and cones": {
+   "one_view": "\"Four families: balls, boxes, tins and cones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Flat faces stack": {
+   "one_view": "\"Flat faces stack\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why a cone rolls in a curve": {
+   "one_view": "\"Why a cone rolls in a curve\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Who chose the names?": {
+   "one_view": "\"Who chose the names?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Is a coin flat or solid?": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A coin is flat, so we call a circle on paper its shape."
+    },
+    {
+     "who": "Mathematicians",
+     "explanation": "A flat circle has no thickness. A real coin always has some thickness, so it is a very short solid tin shape."
+    }
+   ]
+  },
+  "Other living beings use solid shapes too": {
+   "perspectives": [
+    {
+     "who": "Charles Darwin and many naturalists",
+     "explanation": "Honeybees build six-sided wax tubes so well that it looks like clever design that saves wax."
+    },
+    {
+     "who": "D'Arcy Thompson and later physicists",
+     "explanation": "The wax warms and flows into hexagons by itself, like soap bubbles, so the bees do not need to calculate. Scientists still discuss how much is bee and how much is physics."
+    }
+   ]
+  },
+  "Balls in the sky, boxes in the wall, tins under the bus": {
+   "one_view": "\"Balls in the sky, boxes in the wall, tins under the bus\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "math.weight-capacity.weight.L1": {
+  "Heavier and lighter": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Heavier things fall faster and are 'more earthy'."
+    },
+    {
+     "who": "Galileo and physicists today",
+     "explanation": "Weight is the pull of the Earth. Mass is how much matter a thing has, and it stays the same on the Moon. Without air, a heavy and a light thing fall together."
+    }
+   ]
+  },
+  "How to read a balance": {
+   "one_view": "\"How to read a balance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "As heavy as: a level balance": {
+   "one_view": "\"As heavy as: a level balance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Bigger is not always heavier": {
+   "one_view": "\"Bigger is not always heavier\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "More things is not always heavier": {
+   "one_view": "\"More things is not always heavier\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A new shape, the same weight": {
+   "one_view": "\"A new shape, the same weight\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Your hands can be fooled": {
+   "one_view": "\"Your hands can be fooled\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Squirrels and crows judge weight too": {
+   "one_view": "\"Squirrels and crows judge weight too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "On the Moon, a level balance stays level": {
+   "perspectives": [
+    {
+     "who": "A pan balance",
+     "explanation": "Compares two masses, so it stays level on the Moon, because both sides are pulled less."
+    },
+    {
+     "who": "A spring scale",
+     "explanation": "Measures the pull itself, so it would read about one sixth on the Moon. Physicists use the word mass for the first and weight for the second."
+    }
+   ]
+  }
+ },
+ "sci.air.air-around-us.L1": {
+  "Air is all around us": {
+   "perspectives": [
+    {
+     "who": "Vedic and Indian traditions",
+     "explanation": "Vayu, air, is one of the five basic elements (mahabhuta)."
+    },
+    {
+     "who": "Ancient Greek thinkers",
+     "explanation": "Aer, air, was one of four elements, and some said air is the breath of life."
+    },
+    {
+     "who": "Chemistry since Lavoisier",
+     "explanation": "Air is a mixture of gases, mainly nitrogen and oxygen."
+    }
+   ]
+  },
+  "Why we cannot see air": {
+   "perspectives": [
+    {
+     "who": "Vaisheshika school of India",
+     "explanation": "Air cannot be seen but is known by touch, as the wind on the skin."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Air is clear because light passes straight through it. Over many kilometres, air does scatter light, and that makes the sky blue."
+    }
+   ]
+  },
+  "We feel air when it moves": {
+   "one_view": "\"We feel air when it moves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Moving air pushes things": {
+   "one_view": "\"Moving air pushes things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Living beings need air": {
+   "one_view": "\"Living beings need air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.air.air-around-us.L3": {
+  "Air takes up space": {
+   "one_view": "\"Air takes up space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Air can be squashed": {
+   "one_view": "\"Air can be squashed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Air has weight": {
+   "perspectives": [
+    {
+     "who": "Aristotle and many after him",
+     "explanation": "Taught that air has no weight of its own, and said a blown-up bladder weighs the same as an empty one."
+    },
+    {
+     "who": "Galileo, Torricelli and later scientists",
+     "explanation": "Weighed air in a bottle and showed it has weight. Torricelli's barometer showed the weight of air pressing on everything."
+    }
+   ]
+  },
+  "What air is made of": {
+   "perspectives": [
+    {
+     "who": "Ancient traditions",
+     "explanation": "Air is one of the basic elements, a single thing."
+    },
+    {
+     "who": "Priestley, Scheele and Lavoisier (1770s)",
+     "explanation": "Air is a mixture of different gases. One of them, oxygen, supports burning and breathing."
+    }
+   ]
+  },
+  "Why we breathe": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Breathing is how the body cools the heart, which he thought was the seat of heat."
+    },
+    {
+     "who": "Indian traditions",
+     "explanation": "Prana, the life-breath, enters the body with each breath."
+    },
+    {
+     "who": "Lavoisier and modern biology",
+     "explanation": "Cells use oxygen to release energy from food, and breathing carries away the carbon dioxide made."
+    }
+   ]
+  },
+  "Plants and air": {
+   "perspectives": [
+    {
+     "who": "Jan van Helmont (1600s)",
+     "explanation": "Thought a willow tree grew mostly from the water it was given."
+    },
+    {
+     "who": "Priestley and Ingenhousz (1770s)",
+     "explanation": "Showed plants change the air, and that they need light to do it. Plants make their food from air, water and light."
+    }
+   ]
+  },
+  "Plants whose roots live in mud": {
+   "one_view": "\"Plants whose roots live in mud\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Where the oxygen in the air came from": {
+   "perspectives": [
+    {
+     "who": "Most geologists",
+     "explanation": "Tiny bacteria that use light (cyanobacteria) made oxygen. It built up in the air about 2.4 billion years ago."
+    },
+    {
+     "who": "Some researchers",
+     "explanation": "Found hints that small amounts of oxygen appeared earlier, and that it rose in steps. The exact timing is still being studied."
+    }
+   ]
+  }
+ },
+ "sci.basic-needs.basic-needs.L1": {
+  "The five basic needs": {
+   "perspectives": [
+    {
+     "who": "Scientists",
+     "explanation": "Every living human needs air, water and food. Clothes and homes are needed in many places, but people in warm places live with little of both."
+    },
+    {
+     "who": "Indian saying",
+     "explanation": "'Roti, kapda aur makaan': food, clothing, shelter. Many families add health and school to this list."
+    }
+   ]
+  },
+  "We need air, water and food again and again": {
+   "one_view": "\"We need air, water and food again and again\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Clothes and a home keep us safe": {
+   "one_view": "\"Clothes and a home keep us safe\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A wall makes calm air behind it": {
+   "one_view": "\"A wall makes calm air behind it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Other living beings have needs too": {
+   "one_view": "\"Other living beings have needs too\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.body.skeleton.L2": {
+  "We have bones inside us": {
+   "one_view": "\"We have bones inside us\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What bones do for us": {
+   "one_view": "\"What bones do for us\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Joints are where bones meet": {
+   "one_view": "\"Joints are where bones meet\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Hinge joints and ball and socket joints": {
+   "one_view": "\"Hinge joints and ball and socket joints\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Muscles pull bones": {
+   "one_view": "\"Muscles pull bones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Bones are alive": {
+   "one_view": "\"Bones are alive\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Children have more bones than grown-ups": {
+   "one_view": "\"Children have more bones than grown-ups\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Skeletons in other animals": {
+   "perspectives": [
+    {
+     "who": "Animals with a bony skeleton inside",
+     "explanation": "Fish, frogs, lizards, birds and mammals, including humans, have bones and a backbone."
+    },
+    {
+     "who": "Insects, crabs and spiders",
+     "explanation": "Wear their skeleton on the outside, as a hard shell they shed as they grow."
+    },
+    {
+     "who": "Worms and jellyfish",
+     "explanation": "Have no bones at all. Water inside their bodies holds them up and gives their muscles something to push on."
+    }
+   ]
+  }
+ },
+ "sci.changes.chemical-reactions.L4": {
+  "A chemical reaction makes new substances": {
+   "perspectives": [
+    {
+     "who": "Indian rasashastra (alchemy) and early chemists",
+     "explanation": "Studied how mercury, metals and minerals turn into new substances, and wrote down careful methods."
+    },
+    {
+     "who": "Lavoisier and modern chemistry",
+     "explanation": "A reaction is atoms regrouped into new substances, and the total mass stays the same."
+    }
+   ]
+  },
+  "A physical change keeps the same substance": {
+   "perspectives": [
+    {
+     "who": "Most school books",
+     "explanation": "Dissolving salt in water is a physical change, because you can get the salt back."
+    },
+    {
+     "who": "Mendeleev's view in the 1800s",
+     "explanation": "Thought dissolving is partly chemical, as salt joins with water. Arrhenius and van't Hoff said it is a physical split into charged particles. The line between physical and chemical is not always sharp."
+    }
+   ]
+  },
+  "What the fizz of vinegar and baking soda makes": {
+   "one_view": "\"What the fizz of vinegar and baking soda makes\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Five signs of a reaction, and why a sign is only a clue": {
+   "one_view": "\"Five signs of a reaction, and why a sign is only a clue\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Rusting: iron reacts with oxygen and water": {
+   "one_view": "\"Rusting: iron reacts with oxygen and water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A reaction rearranges atoms. It does not make or destroy them": {
+   "perspectives": [
+    {
+     "who": "Kanada (Vaisheshika) and Democritus",
+     "explanation": "Taught long ago that everything is made of tiny parts (paramanu, atoms) that join and part."
+    },
+    {
+     "who": "John Dalton, 1800s",
+     "explanation": "Showed in numbers that atoms combine in fixed amounts and are not made or destroyed."
+    }
+   ]
+  },
+  "A new substance behaves unlike the substances that made it": {
+   "one_view": "\"A new substance behaves unlike the substances that made it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Reactions give out heat or take heat in": {
+   "one_view": "\"Reactions give out heat or take heat in\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Living bodies run on chemical reactions": {
+   "perspectives": [
+    {
+     "who": "Vitalism, held by Berzelius and others",
+     "explanation": "A living body has a special life force that ordinary chemistry cannot make."
+    },
+    {
+     "who": "Friedrich Wöhler (1828) and later chemists",
+     "explanation": "Made urea, a substance of the body, from non-living chemicals. Biochemistry then showed that life is made of chemical reactions, though how the whole becomes alive is still asked."
+    }
+   ]
+  },
+  "Reactions on the Earth and far beyond it": {
+   "one_view": "\"Reactions on the Earth and far beyond it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.changes.kitchen-science.L2": {
+  "Cooking changes food": {
+   "perspectives": [
+    {
+     "who": "Richard Wrangham",
+     "explanation": "Cooking made food softer and richer, and helped human brains grow."
+    },
+    {
+     "who": "Other researchers",
+     "explanation": "Say meat-eating, tools and cooperation also mattered. When humans began to cook is still debated."
+    }
+   ]
+  },
+  "Rice absorbs water when it cooks": {
+   "one_view": "\"Rice absorbs water when it cooks\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Butter melts and sets again, but ghee stays ghee": {
+   "one_view": "\"Butter melts and sets again, but ghee stays ghee\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Bacteria set the curd": {
+   "perspectives": [
+    {
+     "who": "Households in India and other places",
+     "explanation": "Set curd by adding a spoon of old curd (jaman) to warm milk. They knew a little of the old curd starts the new."
+    },
+    {
+     "who": "Pasteur, Metchnikoff and later microbiologists",
+     "explanation": "Showed that living bacteria are what change the milk."
+    }
+   ]
+  },
+  "Some changes go back, and some stay changed": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Some changes can be undone and some cannot."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Nothing is perfectly reversible. Every change spreads energy out a little, so the world never returns exactly to how it was. This is the idea of entropy."
+    }
+   ]
+  }
+ },
+ "sci.chemistry-detectives.finding-out-whats-inside.L3": {
+  "Mixtures and pure substances": {
+   "perspectives": [
+    {
+     "who": "Everyday and market use",
+     "explanation": "'Pure' means not mixed with anything bad: pure ghee, pure water."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "'Pure' means one single substance. A glass of clear spring water is a mixture, with salts and gases in it."
+    }
+   ]
+  },
+  "Why black ink splits into colours": {
+   "one_view": "\"Why black ink splits into colours\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why some dyes travel further": {
+   "one_view": "\"Why some dyes travel further\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Some inks do not move in water": {
+   "one_view": "\"Some inks do not move in water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Chromatography in labs today": {
+   "one_view": "\"Chromatography in labs today\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Every element has its own flame colour": {
+   "one_view": "\"Every element has its own flame colour\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why heat makes coloured light": {
+   "perspectives": [
+    {
+     "who": "Niels Bohr (1913)",
+     "explanation": "Electrons circle the atom's centre on set orbits, and give out light when they jump down."
+    },
+    {
+     "who": "Quantum physics today",
+     "explanation": "Electrons are not on orbits. They have fixed energy levels, and light of one exact colour comes out when an electron drops between levels."
+    }
+   ]
+  },
+  "Reading what the Sun is made of": {
+   "perspectives": [
+    {
+     "who": "Auguste Comte (1835)",
+     "explanation": "Said we would never know what the stars are made of."
+    },
+    {
+     "who": "Kirchhoff, Bunsen, then Cecilia Payne (1925)",
+     "explanation": "Found that light's dark lines tell the elements. Payne showed the Sun is mostly hydrogen. Other astronomers first doubted her."
+    }
+   ]
+  },
+  "Is anything perfectly pure?": {
+   "perspectives": [
+    {
+     "who": "Market view",
+     "explanation": "'Pure' gold or 'pure' water is a thing you can buy."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Perfect purity is a goal that is never fully reached. Even 99.9999 percent pure silicon has a few foreign atoms."
+    }
+   ]
+  }
+ },
+ "sci.chemistry.acids-and-bases.L3": {
+  "What an acid is": {
+   "perspectives": [
+    {
+     "who": "Lavoisier (1770s)",
+     "explanation": "Thought oxygen is what makes a substance an acid. Later this was shown wrong."
+    },
+    {
+     "who": "Arrhenius (1884), Brønsted and Lowry (1923), and Lewis (1923)",
+     "explanation": "Gave three growing meanings of acid: gives hydrogen ions in water; gives a hydrogen ion to something; takes a pair of electrons. Chemists use whichever fits the job."
+    }
+   ]
+  },
+  "What a base is": {
+   "perspectives": [
+    {
+     "who": "Ayurveda and Sushruta",
+     "explanation": "Used kshara, an alkali made from the ash of plants, to treat wounds and growths."
+    },
+    {
+     "who": "Modern chemistry",
+     "explanation": "A base takes a hydrogen ion from an acid, which is why the two cancel each other."
+    }
+   ]
+  },
+  "How red cabbage water shows acids and bases": {
+   "one_view": "\"How red cabbage water shows acids and bases\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "One line from sour to soapy: the pH scale": {
+   "one_view": "\"One line from sour to soapy: the pH scale\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "When an acid meets a base": {
+   "one_view": "\"When an acid meets a base\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Living beings that make acids": {
+   "one_view": "\"Living beings that make acids\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why red cabbage is purple": {
+   "perspectives": [
+    {
+     "who": "Sun-protection idea",
+     "explanation": "The purple pigments (anthocyanins) shield the leaves from strong light and cold."
+    },
+    {
+     "who": "Other ideas",
+     "explanation": "The colour may warn off insects, attract helpers, or act as antioxidant. Scientists have not settled which job matters most."
+    }
+   ]
+  }
+ },
+ "sci.chemistry.polymers.L3": {
+  "What a polymer is": {
+   "perspectives": [
+    {
+     "who": "Many chemists before the 1920s",
+     "explanation": "Believed rubber and starch were small molecules clumped together."
+    },
+    {
+     "who": "Hermann Staudinger (1920s)",
+     "explanation": "Said they are truly very long molecules. Many chemists opposed him for years until the evidence won."
+    }
+   ]
+  },
+  "Why long chains tangle": {
+   "one_view": "\"Why long chains tangle\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How borax turns glue into slime": {
+   "one_view": "\"How borax turns glue into slime\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Polymers that living beings make": {
+   "one_view": "\"Polymers that living beings make\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Plastics: polymers people make": {
+   "one_view": "\"Plastics: polymers people make\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Tying rubber's chains: vulcanised rubber": {
+   "perspectives": [
+    {
+     "who": "Charles Goodyear (1839)",
+     "explanation": "Found that heating rubber with sulfur makes it strong and springy."
+    },
+    {
+     "who": "Peoples of Mexico and Central America",
+     "explanation": "Mixed rubber latex with the juice of morning glory vines centuries earlier to make strong rubber for balls and shoes."
+    }
+   ]
+  }
+ },
+ "sci.chemistry.reaction-speed.L4": {
+  "A reaction is a meeting of particles": {
+   "one_view": "\"A reaction is a meeting of particles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Reaction rate: how fast a change goes": {
+   "one_view": "\"Reaction rate: how fast a change goes\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A reaction starts fast and then slows down": {
+   "one_view": "\"A reaction starts fast and then slows down\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Warmth speeds up almost every reaction": {
+   "one_view": "\"Warmth speeds up almost every reaction\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Stirring and moving: bringing fresh particles together": {
+   "one_view": "\"Stirring and moving: bringing fresh particles together\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Smaller pieces mean more surface and faster reactions": {
+   "one_view": "\"Smaller pieces mean more surface and faster reactions\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Crowding: more particles in the same space": {
+   "one_view": "\"Crowding: more particles in the same space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A catalyst makes one reaction faster and is not used up": {
+   "one_view": "\"A catalyst makes one reaction faster and is not used up\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Enzymes: living catalysts that work at body warmth": {
+   "perspectives": [
+    {
+     "who": "Louis Pasteur",
+     "explanation": "Thought fermentation needs the living yeast cell, with its life force."
+    },
+    {
+     "who": "Eduard Buchner (1897)",
+     "explanation": "Showed that juice pressed from dead yeast still ferments. Enzymes are chemicals, and cells make them."
+    }
+   ]
+  },
+  "Slowing a change down on purpose": {
+   "one_view": "\"Slowing a change down on purpose\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Some changes are so slow that we never see them": {
+   "one_view": "\"Some changes are so slow that we never see them\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Not every bump makes a reaction": {
+   "perspectives": [
+    {
+     "who": "Collision theory",
+     "explanation": "A reaction needs particles to hit with enough energy and the right way round."
+    },
+    {
+     "who": "Transition-state theory",
+     "explanation": "Looks at the short-lived half-formed shape that particles pass through. Chemists use both views."
+    }
+   ]
+  }
+ },
+ "sci.classification.sorting-living-things.L1": {
+  "Sorting puts together beings who share a feature": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Grouped animals by whether they have blood and how they live."
+    },
+    {
+     "who": "Linnaeus (1700s)",
+     "explanation": "Grouped them by body features, such as hair or feathers."
+    },
+    {
+     "who": "Modern biologists",
+     "explanation": "Group by shared ancestors, found with DNA, so birds sit inside the dinosaur family."
+    }
+   ]
+  },
+  "A good rule is one everyone can check": {
+   "one_view": "\"A good rule is one everyone can check\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "No two living beings are exactly the same": {
+   "one_view": "\"No two living beings are exactly the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Humans are animals, and we share groups with other animals": {
+   "perspectives": [
+    {
+     "who": "Aristotle and Descartes",
+     "explanation": "Placed humans above animals because of reason."
+    },
+    {
+     "who": "Linnaeus (1758) and Darwin",
+     "explanation": "Placed humans among the primates, in the animal group, and Darwin showed we share ancestors with other apes. Yet many cultures also stress the difference."
+    }
+   ]
+  }
+ },
+ "sci.ecology.cycles-and-decomposers.L3": {
+  "What decomposers are": {
+   "one_view": "\"What decomposers are\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A mould is a fungus, and grows from spores": {
+   "perspectives": [
+    {
+     "who": "Old classifications",
+     "explanation": "Put fungi with the plants, because they stay in one place."
+    },
+    {
+     "who": "Modern biology",
+     "explanation": "Fungi form their own kingdom, and are closer relatives of animals than of plants."
+    }
+   ]
+  },
+  "How a fungus eats: digesting outside the body": {
+   "one_view": "\"How a fungus eats: digesting outside the body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What decomposers need: food, water, warmth and air": {
+   "one_view": "\"What decomposers need: food, water, warmth and air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How people keep food from rotting": {
+   "one_view": "\"How people keep food from rotting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How earthworms help to make soil": {
+   "one_view": "\"How earthworms help to make soil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Nature's recycling: from a dead leaf to a new plant": {
+   "one_view": "\"Nature's recycling: from a dead leaf to a new plant\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Decomposers sense and choose": {
+   "perspectives": [
+    {
+     "who": "Many biologists",
+     "explanation": "These responses are automatic chemistry in the body."
+    },
+    {
+     "who": "Charles Darwin (1881)",
+     "explanation": "Watched earthworms choose leaves, shape their burrows and plug holes, and said they act with something like intelligence. Whether to call it choice is still argued."
+    }
+   ]
+  },
+  "How long things take to decompose": {
+   "perspectives": [
+    {
+     "who": "Label and brochure estimates",
+     "explanation": "Often give a single number, such as hundreds of years for a plastic bottle."
+    },
+    {
+     "who": "Scientists measuring in soil, sea and landfills",
+     "explanation": "Find the time depends on warmth, wetness, air and living beings, and can vary hugely. Many estimates are guesses."
+    }
+   ]
+  }
+ },
+ "sci.electricity.circuits.L2": {
+  "A circuit is a complete ring": {
+   "perspectives": [
+    {
+     "who": "Benjamin Franklin and the old rule",
+     "explanation": "Said electricity flows from the plus end to the minus end. Engineers still draw it this way."
+    },
+    {
+     "who": "Physics since J.J. Thomson (1897)",
+     "explanation": "The moving charges in a wire are electrons, and they flow the other way, from minus to plus."
+    }
+   ]
+  },
+  "Both ends of the cell must be joined": {
+   "one_view": "\"Both ends of the cell must be joined\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The shape of the wires does not matter": {
+   "one_view": "\"The shape of the wires does not matter\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why the bulb glows": {
+   "one_view": "\"Why the bulb glows\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What moves in the wire": {
+   "perspectives": [
+    {
+     "who": "Everyday picture",
+     "explanation": "Electrons rush round the wire at the speed of the light switching on."
+    },
+    {
+     "who": "Closer look",
+     "explanation": "Electrons drift only slowly, as fast as a snail. The push travels through the wire almost at once, like water already in a pipe. Some physicists say the energy travels in the space around the wire."
+    }
+   ]
+  }
+ },
+ "sci.electricity.electrical-safety.L2": {
+  "Why the wall is dangerous and a cell is not": {
+   "one_view": "\"Why the wall is dangerous and a cell is not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Electricity travels through some things and not others": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Plastic, rubber and dry wood keep electricity out."
+    },
+    {
+     "who": "Physics",
+     "explanation": "No insulator is perfect. With enough push, such as lightning, even air carries a current."
+    }
+   ]
+  },
+  "Why water and electricity are a dangerous pair": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Water carries electricity, so we keep wet hands away from switches."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Pure water is a very poor conductor. Tap water, rain and sweat carry current because of the salts dissolved in them."
+    }
+   ]
+  },
+  "Why a bird can sit on a wire": {
+   "one_view": "\"Why a bird can sit on a wire\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What a shock does to a body": {
+   "one_view": "\"What a shock does to a body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.electricity.simple-circuits.L3": {
+  "Where we use electricity": {
+   "perspectives": [
+    {
+     "who": "Everyday words",
+     "explanation": "Electricity is a kind of energy."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Electricity is the flow or the presence of electric charge. Energy is what the flow carries from the cell to the bulb."
+    }
+   ]
+  },
+  "Mains electricity and cells": {
+   "perspectives": [
+    {
+     "who": "Thomas Edison",
+     "explanation": "Supported direct current (DC), the steady flow a cell gives."
+    },
+    {
+     "who": "Nikola Tesla and George Westinghouse",
+     "explanation": "Backed alternating current (AC), which reverses many times a second and is easier to send far. Mains is AC in India, and a cell gives DC."
+    }
+   ]
+  },
+  "Staying safe with electricity": {
+   "one_view": "\"Staying safe with electricity\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A complete circuit": {
+   "one_view": "\"A complete circuit\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why a broken circuit stops everything": {
+   "one_view": "\"Why a broken circuit stops everything\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Conductors and insulators": {
+   "one_view": "\"Conductors and insulators\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "How a switch works": {
+   "one_view": "\"How a switch works\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "What is moving in the wire": {
+   "perspectives": [
+    {
+     "who": "Franklin's old rule",
+     "explanation": "Charge flows from plus to minus."
+    },
+    {
+     "who": "Modern physics",
+     "explanation": "In a metal wire the electrons move from minus to plus, only slowly, while the push travels fast."
+    }
+   ]
+  },
+  "Electricity in living things": {
+   "perspectives": [
+    {
+     "who": "Luigi Galvani (1780s)",
+     "explanation": "Saw a frog's leg twitch and said animals carry their own 'animal electricity'."
+    },
+    {
+     "who": "Alessandro Volta",
+     "explanation": "Said the twitch came from the two metals touching, and built the first battery. Later work showed both were partly right: nerves do carry electric signals, and metals can make current."
+    }
+   ]
+  }
+ },
+ "sci.energy.heat-moves.L3": {
+  "Heat moves from hotter to cooler": {
+   "perspectives": [
+    {
+     "who": "Everyday and classroom view",
+     "explanation": "Heat always goes from hot to cold."
+    },
+    {
+     "who": "Ludwig Boltzmann",
+     "explanation": "It is a matter of huge numbers. Heat going the other way is possible but so unlikely with so many particles that it never happens in practice."
+    }
+   ]
+  },
+  "Conduction: heat passed from part to part": {
+   "one_view": "\"Conduction: heat passed from part to part\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why heat reaches far parts late, or not at all": {
+   "one_view": "\"Why heat reaches far parts late, or not at all\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Conductors and insulators of heat": {
+   "one_view": "\"Conductors and insulators of heat\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why metals are such good conductors": {
+   "one_view": "\"Why metals are such good conductors\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Two more ways heat moves": {
+   "one_view": "\"Two more ways heat moves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.energy.heat.L3": {
+  "Temperature, and the Celsius scale": {
+   "perspectives": [
+    {
+     "who": "Anders Celsius (1742)",
+     "explanation": "Set 0 and 100 between freezing and boiling water, at first the other way round."
+    },
+    {
+     "who": "Fahrenheit and Kelvin",
+     "explanation": "Fahrenheit's scale is still used in some countries. The Kelvin scale starts at the lowest possible temperature, which scientists use."
+    }
+   ]
+  },
+  "How a liquid thermometer works": {
+   "one_view": "\"How a liquid thermometer works\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Two kinds of thermometer": {
+   "one_view": "\"Two kinds of thermometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Heat moves from warmer to cooler": {
+   "one_view": "\"Heat moves from warmer to cooler\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Cold is less heat": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Cold is a real quality, opposite to hot."
+    },
+    {
+     "who": "Modern physics",
+     "explanation": "There is only more or less heat energy. Cold is just less of it."
+    }
+   ]
+  },
+  "What heat really is: jiggling particles": {
+   "perspectives": [
+    {
+     "who": "Caloric theory (Lavoisier)",
+     "explanation": "Heat is a weightless fluid that flows from hot to cold things."
+    },
+    {
+     "who": "Rumford, Joule and later physicists",
+     "explanation": "Rumford saw drilling cannons make endless heat, and Joule measured it. Heat is the motion of particles, and the fluid does not exist."
+    }
+   ]
+  },
+  "Heat and temperature are not the same": {
+   "one_view": "\"Heat and temperature are not the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why your hand is not a thermometer": {
+   "one_view": "\"Why your hand is not a thermometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.evolution.inheritance.L1": {
+  "We are similar, and we are different": {
+   "one_view": "\"We are similar, and we are different\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Children inherit features from both parents": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "The father gives the form and the mother only the material."
+    },
+    {
+     "who": "Charaka and Sushruta (Ayurveda)",
+     "explanation": "Said both parents give to the child, and described features coming from both."
+    },
+    {
+     "who": "Mendel and later geneticists",
+     "explanation": "Showed in peas, then in DNA, that each parent gives one half of the instructions."
+    }
+   ]
+  },
+  "Why children of the same parents are not the same": {
+   "perspectives": [
+    {
+     "who": "Mendel's idea",
+     "explanation": "Each child gets a different shuffle of the parents' instructions."
+    },
+    {
+     "who": "Researchers on nature and nurture",
+     "explanation": "Growing, food, sickness and learning also shape a person. How much comes from instructions and how much from life is still argued."
+    }
+   ]
+  },
+  "A seed carries the parent plant's features": {
+   "one_view": "\"A seed carries the parent plant's features\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.forces.changing-motion.L1": {
+  "A push or a pull starts a thing, and a push or a pull stops it": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Things move only while something keeps pushing them."
+    },
+    {
+     "who": "Galileo and Newton",
+     "explanation": "A moving thing keeps moving by itself until a force changes it. Force is what changes motion."
+    }
+   ]
+  },
+  "The side of the push decides: faster or slower": {
+   "one_view": "\"The side of the push decides: faster or slower\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A bigger push makes a bigger change": {
+   "one_view": "\"A bigger push makes a bigger change\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why a rolling ball stops on its own": {
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "A thrown thing stops because its push runs out."
+    },
+    {
+     "who": "Buridan, Galileo and Newton",
+     "explanation": "The ball slows because floor and air push against it. With no friction, it would roll on for ever."
+    }
+   ]
+  }
+ },
+ "sci.forces.how-toys-work.L1": {
+  "Round things roll": {
+   "one_view": "\"Round things roll\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A rolling thing's shape steers it": {
+   "one_view": "\"A rolling thing's shape steers it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A bounce is a squash and a spring back": {
+   "one_view": "\"A bounce is a squash and a spring back\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A top stands up only while it spins": {
+   "one_view": "\"A top stands up only while it spins\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Winding stores your push": {
+   "one_view": "\"Winding stores your push\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.forces.push-and-pull.L1": {
+  "A push or a pull makes a still thing move": {
+   "one_view": "\"A push or a pull makes a still thing move\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Push means away, pull means towards": {
+   "one_view": "\"Push means away, pull means towards\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A bigger push sends a thing further": {
+   "one_view": "\"A bigger push sends a thing further\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A heavy thing needs a bigger push or pull": {
+   "one_view": "\"A heavy thing needs a bigger push or pull\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  }
+ },
+ "sci.forces.simple-machines.L4": {
+  "The fixed pulley: it only turns the pull round": {
+   "one_view": "\"The fixed pulley: it only turns the pull round\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The moving pulley and counting the ropes": {
+   "one_view": "\"The moving pulley and counting the ropes\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Work: force times distance stays the same": {
+   "one_view": "\"Work: force times distance stays the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Where the missing effort goes: friction and efficiency": {
+   "one_view": "\"Where the missing effort goes: friction and efficiency\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Gears: trading turning strength for speed": {
+   "one_view": "\"Gears: trading turning strength for speed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The screw: a ramp wound round a rod": {
+   "one_view": "\"The screw: a ramp wound round a rod\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The wedge: two ramps that push things apart": {
+   "one_view": "\"The wedge: two ramps that push things apart\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Six machines, two ideas": {
+   "perspectives": [
+    {
+     "who": "Hero of Alexandria",
+     "explanation": "Listed five simple machines: the lever, wheel and axle, pulley, wedge and screw."
+    },
+    {
+     "who": "Renaissance thinkers, Galileo",
+     "explanation": "Listed six. Physicists today say they are really two ideas: the lever and the ramp."
+    }
+   ]
+  },
+  "Compound machines: machines made from machines": {
+   "one_view": "\"Compound machines: machines made from machines\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Machines smaller than a speck: motors inside living cells": {
+   "one_view": "\"Machines smaller than a speck: motors inside living cells\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Why machines can never give out more: energy and time": {
+   "perspectives": [
+    {
+     "who": "Bhaskara II (12th century)",
+     "explanation": "Described a wheel with weights on its rim that he hoped would turn for ever."
+    },
+    {
+     "who": "Emmy Noether and modern physics",
+     "explanation": "Energy is never made from nothing. Noether showed this comes from the laws of nature being the same at all times, so no machine can run for ever without a source."
+    }
+   ]
+  },
+  "Who made the first wheels, pulleys and gears?": {
+   "perspectives": [
+    {
+     "who": "Archaeologists who favour Mesopotamia",
+     "explanation": "Point to the oldest known wheels from about 3500 BCE in Mesopotamia."
+    },
+    {
+     "who": "Archaeologists who favour central Europe",
+     "explanation": "Point to old wagon models and wheels there from about the same time. Wheeled carts also appear in the Indus Valley. We do not know where it began."
+    }
+   ]
+  }
+ },
+ "sci.how-we-know.stories-of-discovery.L1": {
+  "What a scientist does": {
+   "perspectives": [
+    {
+     "who": "Karl Popper",
+     "explanation": "Scientists make ideas that could be shown wrong, and test them."
+    },
+    {
+     "who": "Thomas Kuhn",
+     "explanation": "Scientists work inside a shared way of thinking until too many surprises force a change."
+    },
+    {
+     "who": "Indian Nyaya school",
+     "explanation": "Listed ways of knowing: perception, inference, comparison and trusted word."
+    }
+   ]
+  },
+  "Anyone curious can be a scientist": {
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Anyone who looks closely and asks questions is doing science."
+    },
+    {
+     "who": "Professional science",
+     "explanation": "Adds tools, training and sharing of results so others can check. Many 'citizen scientists' now help with real research."
+    }
+   ]
+  },
+  "Why soap turns haldi red": {
+   "one_view": "\"Why soap turns haldi red\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Discoveries come from everywhere": {
+   "perspectives": [
+    {
+     "who": "Older histories",
+     "explanation": "Told science as a story of a few European men."
+    },
+    {
+     "who": "Historians such as Joseph Needham",
+     "explanation": "Show that Indian, Chinese, Arab, African and American peoples made many key discoveries, such as zero, paper and the compass."
+    }
+   ]
+  }
+ },
+ "sci.light.colour.L1": {
+  "Two paints make a new colour": {
+   "perspectives": [
+    {
+     "who": "Painters' tradition",
+     "explanation": "Red, yellow and blue are the paint primaries."
+    },
+    {
+     "who": "Printers and colour scientists",
+     "explanation": "Cyan, magenta and yellow mix a wider range of colours, which is why printers use them."
+    }
+   ]
+  },
+  "Primary colours: the three you start with": {
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Sunlight holds all the colours, and a prism sorts them."
+    },
+    {
+     "who": "Goethe",
+     "explanation": "Colours arise where light meets darkness. Scientists today follow Newton on light and note that Goethe studied how colours look to us."
+    }
+   ]
+  },
+  "Why mixing paints makes colours darker": {
+   "one_view": "\"Why mixing paints makes colours darker\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "Colours around us, and colours on living beings": {
+   "perspectives": [
+    {
+     "who": "Pigment colour",
+     "explanation": "Most paints and flowers are coloured by pigments that soak up some light."
+    },
+    {
+     "who": "Structural colour",
+     "explanation": "A peacock's blue and a butterfly's shine come from tiny layers that bend light. They have no blue pigment at all."
+    }
+   ]
+  }
+ },
+ "sci.light.light-sources.L1": {
+  "A light source makes its own light": {
+   "perspectives": [
+    {
+     "who": "Euclid and Ptolemy",
+     "explanation": "Taught that rays go out from the eye and touch the things we see."
+    },
+    {
+     "who": "Ibn al-Haytham (about 1020)",
+     "explanation": "Showed by experiments that light comes into the eye from things. Light sources make the light, and other things send it back."
+    }
+   ]
+  },
+  "Shiny things only send back light": {
+   "one_view": "\"Shiny things only send back light\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "A lamp makes light only while it is working": {
+   "one_view": "\"A lamp makes light only while it is working\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+  },
+  "The Sun is a star, and our biggest light source": {
+   "perspectives": [
+    {
+     "who": "Many Indian traditions",
+     "explanation": "Surya is a god who gives life, and is worshipped each day."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "The Sun is a star, a ball of gas about 150 million kilometres away, and the stars at night are other suns."
+    }
+   ]
+  }
+ }
+}

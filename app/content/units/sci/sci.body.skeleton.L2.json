@@ -107,7 +107,8 @@
     "Each hand has 27 bones, and each foot has 26."
    ],
    "perspectives": [],
-   "art": "A child's outline with the main bones drawn faintly inside: skull, ribs, backbone, arm bones and leg bones."
+   "art": "A child's outline with the main bones drawn faintly inside: skull, ribs, backbone, arm bones and leg bones.",
+   "one_view": "\"We have bones inside us\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What bones do for us",
@@ -122,7 +123,8 @@
     "Leg bones carry your weight when you walk."
    ],
    "perspectives": [],
-   "art": "Three small pictures side by side: a skull round a brain, ribs round a heart and lungs, and leg bones holding up a standing child."
+   "art": "Three small pictures side by side: a skull round a brain, ribs round a heart and lungs, and leg bones holding up a standing child.",
+   "one_view": "\"What bones do for us\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Joints are where bones meet",
@@ -136,7 +138,8 @@
     "Your skull is made of many bones that joined together. Those joints do not move."
    ],
    "perspectives": [],
-   "art": "A close-up drawing of one finger with its three bones shown inside, and small circles at the three joints."
+   "art": "A close-up drawing of one finger with its three bones shown inside, and small circles at the three joints.",
+   "one_view": "\"Joints are where bones meet\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Hinge joints and ball and socket joints",
@@ -150,7 +153,8 @@
     "In between: wrist, ankle, and the big knuckles where your fingers join your hand."
    ],
    "perspectives": [],
-   "art": "Two drawings side by side: an elbow with an arrow going up and down in a line, and a shoulder with an arrow going round in a circle."
+   "art": "Two drawings side by side: an elbow with an arrow going up and down in a line, and a shoulder with an arrow going round in a circle.",
+   "one_view": "\"Hinge joints and ball and socket joints\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Muscles pull bones",
@@ -164,7 +168,8 @@
     "Your heart is a muscle too. It squeezes blood round your body."
    ],
    "perspectives": [],
-   "art": "An arm bending at the elbow, with the upper arm muscle drawn short and fat, and a tendon joining the muscle to the forearm bone."
+   "art": "An arm bending at the elbow, with the upper arm muscle drawn short and fat, and a tendon joining the muscle to the forearm bone.",
+   "one_view": "\"Muscles pull bones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Bones are alive",
@@ -178,7 +183,8 @@
     "Astronauts in space lose some bone, because nothing presses on their bones there."
    ],
    "perspectives": [],
-   "art": "Two X-ray pictures of the same arm bone: one with a dark crack across it, and one some weeks later with a slightly thicker white patch where the crack has joined."
+   "art": "Two X-ray pictures of the same arm bone: one with a dark crack across it, and one some weeks later with a slightly thicker white patch where the crack has joined.",
+   "one_view": "\"Bones are alive\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Children have more bones than grown-ups",
@@ -192,7 +198,8 @@
     "The bones at the bottom of the backbone join together by the time a person is grown up."
    ],
    "perspectives": [],
-   "art": "A baby lying on a mat with a grown-up's hand gently resting on the top of the baby's head."
+   "art": "A baby lying on a mat with a grown-up's hand gently resting on the top of the baby's head.",
+   "one_view": "\"Children have more bones than grown-ups\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Skeletons in other animals",
@@ -205,7 +212,20 @@
     "A bird's leg seems to bend backwards. That bend is really the ankle. The knee is hidden up in the feathers.",
     "An ant's hard skeleton is on the outside of their body."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Animals with a bony skeleton inside",
+     "explanation": "Fish, frogs, lizards, birds and mammals, including humans, have bones and a backbone."
+    },
+    {
+     "who": "Insects, crabs and spiders",
+     "explanation": "Wear their skeleton on the outside, as a hard shell they shed as they grow."
+    },
+    {
+     "who": "Worms and jellyfish",
+     "explanation": "Have no bones at all. Water inside their bodies holds them up and gives their muscles something to push on."
+    }
+   ],
    "art": "A row of skeletons drawn side by side: a human child, a cat, a crow and a fish, with the backbone of each one coloured the same."
   }
  ],
@@ -2215,7 +2235,11 @@
     "source": "Tao Te Ching, chapter 76",
     "teaching": "The Tao Te Ching, an old Chinese book, says that a living person is soft and bending, and a dead body is stiff and hard. A living plant is soft and bends, and a dead one is dry and breaks.",
     "link": "This lesson says something similar: life goes with moving and changing. A living body bends at its joints, and living bone is always being rebuilt. A museum skeleton is hard and still, because its living cells have died.",
-    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse": [
+     "人之生也柔弱，其死也堅強。",
+     "萬物草木之生也柔脆，其死也枯槁。",
+     "故堅強者死之徒，柔弱者生之徒。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2254,5 +2278,117 @@
   "art": "A woman in a long 1890s dress resting her hand on a photographic plate, and beside it the grey X-ray picture of her hand bones with a ring on one finger."
  },
  "playtest": "Walked through every experiment, activity, game, project and the paper-finger challenge as a parent and child in a flat. Fixed the skeleton game so each player prints their own 12 cards, added a tie rule to the first game, and put the 14 Bone Hunt places in the step itself. Removed repeated questions from the worksheets, quiz and open questions, made the challenge sheet fit a child who talks while a grown-up writes, introduced the cousins and the aunt, stopped using the story as proof, and trimmed the jokes to 8.",
- "warm": {"words": ["JOINT", "BONES", "HINGE", "SKULL", "ELBOW"], "quiz": [["A muscle can pull a bone, but it cannot push it.", true, "A muscle only gets shorter and pulls, so bones are moved by pulling."], ["Bones are dead, like stones, once you stop growing.", false, "Bones have blood and living cells, so they can mend when they break."], ["A baby has more bones and bits of bone than a grown-up.", true, "Many pieces join together as a child grows."], ["Every single person has exactly 206 bones.", false, "206 is the usual number, but some people have an extra rib or small extra bones."], ["A ball and socket joint can move in almost every direction.", true, "The round end of one bone turns inside a cup in the other bone."], ["A hinge joint can move every way, like your shoulder.", false, "A hinge moves one way and back, like a door. Your shoulder is a ball and socket."], ["Your ribs help keep your heart and lungs safe.", true, "They are curved bones that make a cage around your chest."], ["Cracking your knuckles gives you joint illness when you are old.", false, "A doctor cracked the knuckles of only one hand for about 60 years, and both hands were just as healthy."], ["Your body can bend because bones meet at joints.", true, "The bones stay hard, and the bending happens where two bones meet."], ["Only people have a skeleton of bone inside; frogs and birds do not.", false, "Frogs, lizards, birds and mammals, including people, all have a backbone and bones inside."]], "odd": [[["Elbow", "Knee", "Finger joint", "Shoulder"], "Shoulder", "The other three are hinges that move one way and back; the shoulder is a ball and socket."], [["Skull", "Ribs", "Backbone", "Muscle"], "Muscle", "The other three are hard bones; a muscle is soft and pulls the bones."], [["Bone", "Muscle", "Skin", "Pebble"], "Pebble", "The other three are living parts of the body that can mend; a pebble is not alive."], [["Frog", "Bird", "Lizard", "Earthworm"], "Earthworm", "The other three have a backbone and bones inside; an earthworm has no bones."], [["Elbow", "Knee", "Wrist", "Thigh bone"], "Thigh bone", "The other three are joints, places where two bones meet; the thigh bone is one single bone."]]}
+ "warm": {
+  "words": [
+   "JOINT",
+   "BONES",
+   "HINGE",
+   "SKULL",
+   "ELBOW"
+  ],
+  "quiz": [
+   [
+    "A muscle can pull a bone, but it cannot push it.",
+    true,
+    "A muscle only gets shorter and pulls, so bones are moved by pulling."
+   ],
+   [
+    "Bones are dead, like stones, once you stop growing.",
+    false,
+    "Bones have blood and living cells, so they can mend when they break."
+   ],
+   [
+    "A baby has more bones and bits of bone than a grown-up.",
+    true,
+    "Many pieces join together as a child grows."
+   ],
+   [
+    "Every single person has exactly 206 bones.",
+    false,
+    "206 is the usual number, but some people have an extra rib or small extra bones."
+   ],
+   [
+    "A ball and socket joint can move in almost every direction.",
+    true,
+    "The round end of one bone turns inside a cup in the other bone."
+   ],
+   [
+    "A hinge joint can move every way, like your shoulder.",
+    false,
+    "A hinge moves one way and back, like a door. Your shoulder is a ball and socket."
+   ],
+   [
+    "Your ribs help keep your heart and lungs safe.",
+    true,
+    "They are curved bones that make a cage around your chest."
+   ],
+   [
+    "Cracking your knuckles gives you joint illness when you are old.",
+    false,
+    "A doctor cracked the knuckles of only one hand for about 60 years, and both hands were just as healthy."
+   ],
+   [
+    "Your body can bend because bones meet at joints.",
+    true,
+    "The bones stay hard, and the bending happens where two bones meet."
+   ],
+   [
+    "Only people have a skeleton of bone inside; frogs and birds do not.",
+    false,
+    "Frogs, lizards, birds and mammals, including people, all have a backbone and bones inside."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Elbow",
+     "Knee",
+     "Finger joint",
+     "Shoulder"
+    ],
+    "Shoulder",
+    "The other three are hinges that move one way and back; the shoulder is a ball and socket."
+   ],
+   [
+    [
+     "Skull",
+     "Ribs",
+     "Backbone",
+     "Muscle"
+    ],
+    "Muscle",
+    "The other three are hard bones; a muscle is soft and pulls the bones."
+   ],
+   [
+    [
+     "Bone",
+     "Muscle",
+     "Skin",
+     "Pebble"
+    ],
+    "Pebble",
+    "The other three are living parts of the body that can mend; a pebble is not alive."
+   ],
+   [
+    [
+     "Frog",
+     "Bird",
+     "Lizard",
+     "Earthworm"
+    ],
+    "Earthworm",
+    "The other three have a backbone and bones inside; an earthworm has no bones."
+   ],
+   [
+    [
+     "Elbow",
+     "Knee",
+     "Wrist",
+     "Thigh bone"
+    ],
+    "Thigh bone",
+    "The other three are joints, places where two bones meet; the thigh bone is one single bone."
+   ]
+  ]
+ }
 }

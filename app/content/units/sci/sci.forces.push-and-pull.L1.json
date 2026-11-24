@@ -58,7 +58,8 @@
    ],
    "perspectives": [],
    "context": "This card says what starts a still thing moving.",
-   "art": "Three pictures in a row: a still ball and a finger, a still swing and two hands, a still toy car and a string being pulled."
+   "art": "Three pictures in a row: a still ball and a finger, a still swing and two hands, a still toy car and a string being pulled.",
+   "one_view": "\"A push or a pull makes a still thing move\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Push means away, pull means towards",
@@ -72,7 +73,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the Two-Sided Door test, where you pushed and pulled the same door.",
-   "art": "A door seen from above, with a girl on one side pushing it and a boy on the other side pulling the handle, and the door swinging the same way."
+   "art": "A door seen from above, with a girl on one side pushing it and a boy on the other side pulling the handle, and the door swinging the same way.",
+   "one_view": "\"Push means away, pull means towards\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A bigger push sends a thing further",
@@ -86,7 +88,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the Little Push, Big Push test, where you gave a box a gentle push and a big push.",
-   "art": "Two lunch boxes on a tiled floor: one stopped close to a start line after a gentle push, and one far away after a big push, each with a chappal beside it as a marker."
+   "art": "Two lunch boxes on a tiled floor: one stopped close to a start line after a gentle push, and one far away after a big push, each with a chappal beside it as a marker.",
+   "one_view": "\"A bigger push sends a thing further\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A heavy thing needs a bigger push or pull",
@@ -100,7 +103,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the Little Push, Big Push test and the Pull-Along Train, where heavy things needed bigger pushes and pulls.",
-   "art": "A child pulling a train of three cardboard boxes on a string, with a rubber band in the string stretched long."
+   "art": "A child pulling a train of three cardboard boxes on a string, with a rubber band in the string stretched long.",
+   "one_view": "\"A heavy thing needs a bigger push or pull\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1932,14 +1936,20 @@
     "source": "Tao Te Ching 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow each other.",
     "link": "Push and pull are a pair like front and back. The same force on the same door is called a push from one side and a pull from the other.",
-    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse": [
+     "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Udana 6.4 (a Buddhist text)",
     "teaching": "Some people who could not see touched an elephant, each at a different part. The one who felt the head said an elephant is like a pot. The one who felt the ear said it is like a winnowing basket. The one who felt a leg said it is like a post. Each told the truth about their own part.",
     "link": "A child inside the room says 'I pushed the door'. A friend outside says 'I pulled it'. Each is right about the same door, from where they stand.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2034,7 +2044,8 @@
    "Cambridge Primary Science Stage 1, Unit 5 (In the playground, How toys work, Pushes and pulls around us): the playground pushes and pulls, the pull-along toy, the push or pull hunt, machines that push and pull, and the idea that a heavy thing needs a bigger push."
   ],
   "science": [
-   "Émilie du Châtelet, Principes mathématiques de la philosophie naturelle, 1759 (her French translation of the Principia with her own commentary).", "Newton's first law of motion (Principia, 1687): a body at rest stays at rest, and a moving body keeps moving in a straight line, unless a force acts on it.",
+   "Émilie du Châtelet, Principes mathématiques de la philosophie naturelle, 1759 (her French translation of the Principia with her own commentary).",
+   "Newton's first law of motion (Principia, 1687): a body at rest stays at rest, and a moving body keeps moving in a straight line, unless a force acts on it.",
    "Aristotle's account of projectile motion, in which the air moved by the thrower carries the projectile on (Physics, Book 8).",
    "John Philoponus (6th century, Alexandria), commentary on Aristotle's Physics: his argument against air carrying projectiles, and his idea of an impressed force.",
    "Ibn Sina (980-1037), Kitab al-Shifa: mayl, an inclination given to a projectile, which the resistance of the air wears away.",
@@ -2044,5 +2055,117 @@
   ]
  },
  "playtest": "Played every game, experiment and activity through as a parent and child in a flat, and the card game and Sock Ball Golf with 2 and with 4 players. The card game now passes the caller role every 3 cards, so 2 or 4 players all get a turn to call and the winner is clear. The lunch-box test was cut to 15 minutes with steps adding up, the teddy challenge moved to a table (a made bed will not let the sheet slide) and speaks to the family without a made-up name, and the project check now matches its push-stick step. Playground labels no longer print the answer, and the repeated drawer, kick and door questions were swapped for new ones. Answer positions in the quiz were mixed, two jokes were replaced, and the video clips are still to be found, so they are not yet in the lesson.",
- "warm": {"words": ["FORCE", "HEAVY", "SLIDE", "MOVES", "STILL"], "quiz": [["A ball on the floor stays still until a push or a pull moves it.", true, "A still thing starts to move only when a force acts on it."], ["Only people and animals can push and pull.", false, "Wind pushes boats, magnets pull pins, and the Earth pulls mangoes down."], ["A heavy thing can never be moved.", false, "A bigger push or pull can move it, from many people or from a machine."], ["A bigger push sends a ball further.", true, "A big push makes a thing move fast, so it goes further."], ["A heavy box needs a bigger push than a light box.", true, "Heavy things are harder to start moving, so they need a bigger push or pull."], ["After you throw a ball, the air behind it keeps pushing it along.", false, "The air rubs on the ball and slows it down. The ball keeps going by itself."], ["The Earth pulling a mango down is not a force, because nobody touches the mango.", false, "Every push and every pull is a force, even the Earth's pull on a mango."], ["Whether you call it a push or a pull depends on where you stand.", true, "A push moves a thing away from you, and a pull moves it towards you."], ["A machine cannot help you push or pull.", false, "People make machines to help them push or pull."], ["A push or a pull can make a moving thing stop.", true, "A force can start a thing moving, and a force can also stop it."]], "odd": [[["Push", "Pull", "Gravity", "Mango"], "Mango", "Push, pull and gravity are forces. A mango is a thing that gets pulled by a force."], [["Pushing a box", "Kicking a ball", "Pushing a door", "Pulling a wagon"], "Pulling a wagon", "The first three move a thing away from you. A pull brings it towards you."], [["Heavy sack", "Big rock", "Full water bucket", "Feather"], "Feather", "Heavy things need a big push to move. A feather needs only a tiny one."], [["Wind blowing a boat", "Hand pushing a swing", "Magnet pulling a pin", "Stone sitting still"], "Stone sitting still", "The first three are pushes or pulls making things move. Nothing is pushing or pulling the still stone."], [["Crowbar", "Wheelbarrow", "Pulley", "Wind"], "Wind", "The first three are machines people make to help them push or pull. Wind is not made by people."]]}
+ "warm": {
+  "words": [
+   "FORCE",
+   "HEAVY",
+   "SLIDE",
+   "MOVES",
+   "STILL"
+  ],
+  "quiz": [
+   [
+    "A ball on the floor stays still until a push or a pull moves it.",
+    true,
+    "A still thing starts to move only when a force acts on it."
+   ],
+   [
+    "Only people and animals can push and pull.",
+    false,
+    "Wind pushes boats, magnets pull pins, and the Earth pulls mangoes down."
+   ],
+   [
+    "A heavy thing can never be moved.",
+    false,
+    "A bigger push or pull can move it, from many people or from a machine."
+   ],
+   [
+    "A bigger push sends a ball further.",
+    true,
+    "A big push makes a thing move fast, so it goes further."
+   ],
+   [
+    "A heavy box needs a bigger push than a light box.",
+    true,
+    "Heavy things are harder to start moving, so they need a bigger push or pull."
+   ],
+   [
+    "After you throw a ball, the air behind it keeps pushing it along.",
+    false,
+    "The air rubs on the ball and slows it down. The ball keeps going by itself."
+   ],
+   [
+    "The Earth pulling a mango down is not a force, because nobody touches the mango.",
+    false,
+    "Every push and every pull is a force, even the Earth's pull on a mango."
+   ],
+   [
+    "Whether you call it a push or a pull depends on where you stand.",
+    true,
+    "A push moves a thing away from you, and a pull moves it towards you."
+   ],
+   [
+    "A machine cannot help you push or pull.",
+    false,
+    "People make machines to help them push or pull."
+   ],
+   [
+    "A push or a pull can make a moving thing stop.",
+    true,
+    "A force can start a thing moving, and a force can also stop it."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Push",
+     "Pull",
+     "Gravity",
+     "Mango"
+    ],
+    "Mango",
+    "Push, pull and gravity are forces. A mango is a thing that gets pulled by a force."
+   ],
+   [
+    [
+     "Pushing a box",
+     "Kicking a ball",
+     "Pushing a door",
+     "Pulling a wagon"
+    ],
+    "Pulling a wagon",
+    "The first three move a thing away from you. A pull brings it towards you."
+   ],
+   [
+    [
+     "Heavy sack",
+     "Big rock",
+     "Full water bucket",
+     "Feather"
+    ],
+    "Feather",
+    "Heavy things need a big push to move. A feather needs only a tiny one."
+   ],
+   [
+    [
+     "Wind blowing a boat",
+     "Hand pushing a swing",
+     "Magnet pulling a pin",
+     "Stone sitting still"
+    ],
+    "Stone sitting still",
+    "The first three are pushes or pulls making things move. Nothing is pushing or pulling the still stone."
+   ],
+   [
+    [
+     "Crowbar",
+     "Wheelbarrow",
+     "Pulley",
+     "Wind"
+    ],
+    "Wind",
+    "The first three are machines people make to help them push or pull. Wind is not made by people."
+   ]
+  ]
+ }
 }

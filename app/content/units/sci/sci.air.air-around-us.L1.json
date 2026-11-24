@@ -58,7 +58,20 @@
     "An empty bottle with no cap is full of air.",
     "Mountain climbers on very high mountains carry extra oxygen in cylinders to breathe, because the air up there is thin."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Vedic and Indian traditions",
+     "explanation": "Vayu, air, is one of the five basic elements (mahabhuta)."
+    },
+    {
+     "who": "Ancient Greek thinkers",
+     "explanation": "Aer, air, was one of four elements, and some said air is the breath of life."
+    },
+    {
+     "who": "Chemistry since Lavoisier",
+     "explanation": "Air is a mixture of gases, mainly nitrogen and oxygen."
+    }
+   ],
    "art": "A cut-away drawing of a flat, with tiny dots of air filling every room, under the bed and inside the cupboards, and the Earth wrapped in a thin blue layer in a small circle in the corner."
   },
   {
@@ -72,7 +85,16 @@
     "Hills far away look a little blue, because there is a lot of air between you and them.",
     "The sky is blue in the day. Where there is no air, out in space, the sky is black."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Vaisheshika school of India",
+     "explanation": "Air cannot be seen but is known by touch, as the wind on the skin."
+    },
+    {
+     "who": "Physics",
+     "explanation": "Air is clear because light passes straight through it. Over many kilometres, air does scatter light, and that makes the sky blue."
+    }
+   ],
    "art": "A child looking up at a bright blue sky, with a faint drawing of tiny air bits high up sending blue light down to her eyes."
   },
   {
@@ -87,7 +109,8 @@
     "A hand fan, like a palm-leaf visari in Kerala, pushes air onto your face."
    ],
    "perspectives": [],
-   "art": "A child's arm with tiny hairs bending as wavy wind lines pass over it, and a hand fan beside it."
+   "art": "A child's arm with tiny hairs bending as wavy wind lines pass over it, and a hand fan beside it.",
+   "one_view": "\"We feel air when it moves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Moving air pushes things",
@@ -101,7 +124,8 @@
     "A puff of breath pushes a soap bubble across the room."
    ],
    "perspectives": [],
-   "art": "A row of pictures: a curtain swaying, a kite in the sky, a windmill turning, and a soap bubble drifting."
+   "art": "A row of pictures: a curtain swaying, a kite in the sky, a windmill turning, and a soap bubble drifting.",
+   "one_view": "\"Moving air pushes things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Living beings need air",
@@ -115,7 +139,8 @@
     "A tulsi plant on the balcony takes in air through tiny holes under the leaves."
    ],
    "perspectives": [],
-   "art": "A child, a cat, a crow, a fish in a bowl and a potted tulsi plant, each with a soft curl of air going in."
+   "art": "A child, a cat, a crow, a fish in a bowl and a potted tulsi plant, each with a soft curl of air going in.",
+   "one_view": "\"Living beings need air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1785,14 +1810,19 @@
     "source": "Vaisheshika Sutra of Kanada, 2.1.9 to 2.1.10",
     "teaching": "Kanada, a thinker in ancient India, said that touch is the sign of air. The touch we feel in a wind does not belong to anything we can see. So, he said, air is a real thing of its own, known by touch and not by sight.",
     "link": "This is what you found in Catch the Air too. Your eyes could not find the air. Your cheek and your hands could.",
-    "verse": ["स्पर्शश्च वायोः", "न च दृष्टानां स्पर्श इत्यदृष्टलिङ्गो वायुः"],
+    "verse": [
+     "स्पर्शश्च वायोः",
+     "न च दृष्टानां स्पर्श इत्यदृष्टलिङ्गो वायुः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 5",
     "teaching": "The space between sky and earth is like a bellows. It is empty, yet it never runs out. The more it moves, the more comes out.",
     "link": "A bellows is a bag that pushes out air when you squeeze it, like the bag of air in Catch the Air. The room looked empty, but each time you swept the bag through it, the bag came back full.",
-    "verse": ["天地之間，其猶橐籥乎？虛而不屈，動而愈出。"],
+    "verse": [
+     "天地之間，其猶橐籥乎？虛而不屈，動而愈出。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -1832,5 +1862,117 @@
   "art": "A man on a ship's deck looking at a deep blue sea under a blue sky."
  },
  "playtest": "Walked the whole unit as a parent and a six-year-old in a Kochi-style flat: both games with 2 and 4 players (all 12 cards and 3 mats listed; game 2 now says what a tied round means and to catch the bag of air first), the bag, skin, paint, bubble and boat activities (minutes add up; the bag test now says 'scoop' in the fair test and the steps, no contradiction), the 3-day air book (the child shows and tells instead of reading), and the quiz (one repeat of the bag test replaced by a new question about guesses). Removed the internal note on the song (the three videos still need checked addresses; the validator requires exactly 3), shortened the Rayleigh and Raman story, and made the mountain climbers' cylinders oxygen.",
- "warm": {"words": ["WINDY", "SPACE", "LIGHT", "LUNGS", "BLOWN"], "quiz": [["A bottle that looks empty is really full of air.", true, "We cannot see air, but it fills every space that looks empty."], ["Trees make the wind by waving their branches.", false, "Wind is moving air. The branches wave because the wind pushes them."], ["There is air only outside, where the wind blows.", false, "Air is indoors too. It is just not moving, so we do not feel it."], ["A fan can make wind in a room that has no trees.", true, "Wind is air that is moving, and a fan makes air move."], ["We cannot see air because light goes straight through it.", true, "No light bounces back to our eyes, so we see nothing where the air is."], ["If you cannot feel any air on your skin, there is no air near you.", false, "Still air is not moving against your skin, but it is still there."], ["Fast moving air pushes harder than slow moving air.", true, "The faster air moves, the harder it pushes whatever is in its way."], ["Only people need air to live.", false, "All animals breathe air too, and plants take air in as well."], ["The wind stops being air when it stops blowing.", false, "Wind is just air that is moving. When it stops, the air is still there."], ["A kite flies high because moving air pushes on it.", true, "Moving air pushes on things, so we can see what the wind does."]], "odd": [[["Air", "Wind", "Smell", "Stone"], "Stone", "We cannot see air, wind or a smell, but we can see a stone."], [["Kite", "Dry leaf", "Paper boat", "Big rock"], "Big rock", "Wind easily pushes light things, but a big heavy rock is too heavy for wind to move."], [["Child", "Crow", "Goat", "Toy car"], "Toy car", "A child, a crow and a goat breathe air to stay alive, but a toy car does not."], [["Empty bottle", "Puffed-up bag", "Pumped football", "Glass full of water"], "Glass full of water", "The first three are full of air. The glass is full of water, so there is no room for air."], [["Fan breeze", "Sea breeze", "Storm wind", "Still room air"], "Still room air", "Fan breeze, sea breeze and storm wind are moving air we can feel. Still room air is not moving."]]}
+ "warm": {
+  "words": [
+   "WINDY",
+   "SPACE",
+   "LIGHT",
+   "LUNGS",
+   "BLOWN"
+  ],
+  "quiz": [
+   [
+    "A bottle that looks empty is really full of air.",
+    true,
+    "We cannot see air, but it fills every space that looks empty."
+   ],
+   [
+    "Trees make the wind by waving their branches.",
+    false,
+    "Wind is moving air. The branches wave because the wind pushes them."
+   ],
+   [
+    "There is air only outside, where the wind blows.",
+    false,
+    "Air is indoors too. It is just not moving, so we do not feel it."
+   ],
+   [
+    "A fan can make wind in a room that has no trees.",
+    true,
+    "Wind is air that is moving, and a fan makes air move."
+   ],
+   [
+    "We cannot see air because light goes straight through it.",
+    true,
+    "No light bounces back to our eyes, so we see nothing where the air is."
+   ],
+   [
+    "If you cannot feel any air on your skin, there is no air near you.",
+    false,
+    "Still air is not moving against your skin, but it is still there."
+   ],
+   [
+    "Fast moving air pushes harder than slow moving air.",
+    true,
+    "The faster air moves, the harder it pushes whatever is in its way."
+   ],
+   [
+    "Only people need air to live.",
+    false,
+    "All animals breathe air too, and plants take air in as well."
+   ],
+   [
+    "The wind stops being air when it stops blowing.",
+    false,
+    "Wind is just air that is moving. When it stops, the air is still there."
+   ],
+   [
+    "A kite flies high because moving air pushes on it.",
+    true,
+    "Moving air pushes on things, so we can see what the wind does."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Air",
+     "Wind",
+     "Smell",
+     "Stone"
+    ],
+    "Stone",
+    "We cannot see air, wind or a smell, but we can see a stone."
+   ],
+   [
+    [
+     "Kite",
+     "Dry leaf",
+     "Paper boat",
+     "Big rock"
+    ],
+    "Big rock",
+    "Wind easily pushes light things, but a big heavy rock is too heavy for wind to move."
+   ],
+   [
+    [
+     "Child",
+     "Crow",
+     "Goat",
+     "Toy car"
+    ],
+    "Toy car",
+    "A child, a crow and a goat breathe air to stay alive, but a toy car does not."
+   ],
+   [
+    [
+     "Empty bottle",
+     "Puffed-up bag",
+     "Pumped football",
+     "Glass full of water"
+    ],
+    "Glass full of water",
+    "The first three are full of air. The glass is full of water, so there is no room for air."
+   ],
+   [
+    [
+     "Fan breeze",
+     "Sea breeze",
+     "Storm wind",
+     "Still room air"
+    ],
+    "Still room air",
+    "Fan breeze, sea breeze and storm wind are moving air we can feel. Still room air is not moving."
+   ]
+  ]
+ }
 }

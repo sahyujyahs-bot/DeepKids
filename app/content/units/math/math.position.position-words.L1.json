@@ -130,7 +130,8 @@
       ]
      }
     ]
-   }
+   },
+   "one_view": "\"A position word needs two things\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Top, bottom, above, below, on, under",
@@ -168,7 +169,8 @@
      }
     ],
     "title": "Three shelves"
-   }
+   },
+   "one_view": "\"Top, bottom, above, below, on, under\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Inside and outside",
@@ -202,7 +204,8 @@
       ]
      }
     ]
-   }
+   },
+   "one_view": "\"Inside and outside\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Near and far",
@@ -224,7 +227,8 @@
     "step": 1,
     "title": "Steps from the door. The mat is at 2.",
     "value": 2
-   }
+   },
+   "one_view": "\"Near and far\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Left and right go with you",
@@ -258,7 +262,8 @@
      }
     ],
     "title": "Same two shapes, seen from two sides"
-   }
+   },
+   "one_view": "\"Left and right go with you\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "In front, behind, between, next to",
@@ -286,7 +291,8 @@
       ]
      }
     ]
-   }
+   },
+   "one_view": "\"In front, behind, between, next to\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Which words change when you move?",
@@ -330,7 +336,8 @@
      ]
     ],
     "title": "What the test showed"
-   }
+   },
+   "one_view": "\"Which words change when you move?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Down is toward the middle of the Earth",
@@ -343,7 +350,20 @@
     "Water in a tumbler always settles at the bottom.",
     "A root grows down, toward the middle of the Earth."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Down is just where things fall."
+    },
+    {
+     "who": "Aristotle",
+     "explanation": "Heavy things fall because they seek their natural place at the centre of the world."
+    },
+    {
+     "who": "Newton and Einstein",
+     "explanation": "Newton said the Earth pulls everything toward its centre. Einstein described gravity as the bending of space and time by mass."
+    }
+   ],
    "art": "A round Earth with four small children standing on it at different places, each with feet toward the centre and an arrow labelled 'down' pointing to the centre."
   },
   {
@@ -357,7 +377,16 @@
     "A run that points straight up on the comb means: fly toward the Sun.",
     "Lay a sprouting seed sideways. The tip of the root bends to grow down again."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Karl von Frisch",
+     "explanation": "A honeybee's waggle dance tells her sisters the direction and the distance of food, using the Sun as a guide."
+    },
+    {
+     "who": "Adrian Wenner and others",
+     "explanation": "Said the bees follow the smell of the flowers and not the dance. Radar tracking in 2005 showed bees do fly where the dance points."
+    }
+   ],
    "art": "A honeybee on a honeycomb making a figure-of-eight dance with a wavy line through its middle, while other bees crowd round her.",
    "chart": {
     "type": "table",
@@ -393,7 +422,16 @@
     "The narrow tip of a banana leaf is often placed on the eater's left. Families chose that.",
     "'The pot is by the east wall' works for everyone in the room."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "People who use left and right",
+     "explanation": "Left and right are about your body. A thing is 'left of the tree' from where you stand."
+    },
+    {
+     "who": "The Guugu Yimithirr people of Australia",
+     "explanation": "They give directions in north, south, east and west for everything, even small things, so they do not need left and right."
+    }
+   ],
    "art": "A road in an Indian town with an auto and a bus keeping to the left, and beside it a small picture of a road in another country with cars keeping to the right.",
    "chart": {
     "type": "table",

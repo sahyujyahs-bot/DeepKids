@@ -57,7 +57,16 @@
     "Red and yellow make orange, the colour of a marigold or a carrot.",
     "Red and blue make purple, the colour of a brinjal or a jamun."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Painters' tradition",
+     "explanation": "Red, yellow and blue are the paint primaries."
+    },
+    {
+     "who": "Printers and colour scientists",
+     "explanation": "Cyan, magenta and yellow mix a wider range of colours, which is why printers use them."
+    }
+   ],
    "context": "This card says what you found in the Colour Mixing Test, when you mixed two paints at a time.",
    "art": "Three colour sums painted on paper: a yellow blob plus a blue blob equals a green blob, red plus yellow equals orange, and red plus blue equals purple."
   },
@@ -71,7 +80,16 @@
    ],
    "context": "This card is about the three paints you started with in the Colour Mixing Test.",
    "art": "A child's paint box with red, yellow and blue cakes, and beside it a colour printer's three ink cartridges in yellow, magenta and cyan.",
-   "perspectives": []
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Sunlight holds all the colours, and a prism sorts them."
+    },
+    {
+     "who": "Goethe",
+     "explanation": "Colours arise where light meets darkness. Scientists today follow Newton on light and note that Goethe studied how colours look to us."
+    }
+   ]
   },
   {
    "concept": "Why mixing paints makes colours darker",
@@ -85,7 +103,8 @@
    ],
    "perspectives": [],
    "context": "This card says why the mixes in the Colour Mixing Test came out darker, and why all three paints made brown.",
-   "art": "A simple drawing of a torch shining on a yellow paint patch, a blue paint patch and a green patch, with fewer and fewer little arrows of light bouncing back, and almost none from a brown patch."
+   "art": "A simple drawing of a torch shining on a yellow paint patch, a blue paint patch and a green patch, with fewer and fewer little arrows of light bouncing back, and almost none from a brown patch.",
+   "one_view": "\"Why mixing paints makes colours darker\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Colours around us, and colours on living beings",
@@ -97,7 +116,16 @@
     "A pigeon's neck changes from green to purple as they turn.",
     "A green parrot's feathers are yellow and blue together."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Pigment colour",
+     "explanation": "Most paints and flowers are coloured by pigments that soak up some light."
+    },
+    {
+     "who": "Structural colour",
+     "explanation": "A peacock's blue and a butterfly's shine come from tiny layers that bend light. They have no blue pigment at all."
+    }
+   ],
    "context": "This card is about the colours you found in the Colour Hunt and in Colour at the Window.",
    "art": "A pigeon on a window ledge with a shining green and purple neck, a green parrot on a neem branch, and a bee landing on an orange marigold."
   }

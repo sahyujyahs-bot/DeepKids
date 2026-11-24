@@ -65,7 +65,8 @@
     "A lumpy potato rolls a little, stops on a flat bit, then rolls again."
    ],
    "perspectives": [],
-   "art": "Two pictures side by side: a ball rolling down a slope, and a book sitting still on the same slope."
+   "art": "Two pictures side by side: a ball rolling down a slope, and a book sitting still on the same slope.",
+   "one_view": "\"Round things roll\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A rolling thing's shape steers it",
@@ -79,7 +80,8 @@
     "A steel tumbler that is wider at the top also curves when it rolls, but in a bigger circle."
    ],
    "perspectives": [],
-   "art": "A paper cup rolling in a curve on the floor, its wide end leaving a long dotted track and its narrow end a short one."
+   "art": "A paper cup rolling in a curve on the floor, its wide end leaving a long dotted track and its narrow end a short one.",
+   "one_view": "\"A rolling thing's shape steers it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A bounce is a squash and a spring back",
@@ -93,7 +95,8 @@
     "A ball bounces well on hard tiles, and hardly at all on a soft pillow."
    ],
    "perspectives": [],
-   "art": "Three pictures of one ball: falling, squashed flat against the floor, and round again going up."
+   "art": "Three pictures of one ball: falling, squashed flat against the floor, and round again going up.",
+   "one_view": "\"A bounce is a squash and a spring back\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A top stands up only while it spins",
@@ -107,7 +110,8 @@
     "A spinning coin stands on its edge, then wobbles and falls flat as it slows."
    ],
    "perspectives": [],
-   "art": "Two tops: one still and fallen on its side, and one spinning upright on its point."
+   "art": "Two tops: one still and fallen on its side, and one spinning upright on its point.",
+   "one_view": "\"A top stands up only while it spins\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Winding stores your push",
@@ -121,7 +125,8 @@
     "An old wall clock stops if nobody winds its key."
    ],
    "perspectives": [],
-   "art": "A hand turning the key of a wind-up toy, and a cut-away picture of the spring coiling up tight inside."
+   "art": "A hand turning the key of a wind-up toy, and a cut-away picture of the spring coiling up tight inside.",
+   "one_view": "\"Winding stores your push\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1975,14 +1980,18 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at one hub. It is the empty hole in the middle that makes the wheel useful.",
     "link": "A wheel and a top both turn round their middle. In Make a Colour Top, the top spun round the pencil at its centre. The middle of a spinning top hardly moves, while its edge races round.",
-    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Dhammacakkappavattana Sutta, Samyutta Nikaya 56.11 (a Buddhist text)",
     "teaching": "The Buddha's first teaching is called setting the wheel rolling. The text says that once the wheel was set rolling, nobody could stop it.",
     "link": "People chose a rolling wheel as a picture of something that, once started, keeps going. In our tests, a push started each thing, and its own shape and the floor decided how far and which way it went.",
-    "verse": ["etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin."],
+    "verse": [
+     "etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2086,5 +2095,117 @@
   ]
  },
  "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a flat. Fixed the slope test so the paper sorting sheet is made first and the bottle and cup are tried twice as the fair test says (still 20 minutes). Stopped the story from giving away the cup challenge, and swapped repeated cup and twist questions for new ones. Let a grown-up write scores and help add in Skittles, added a fix for a slipping top card, removed a glass bangle, made made-up children mostly girls with each introduced, replaced weak jokes, and cleaned the roots thread.",
- "warm": {"words": ["ROUND", "BALLS", "TWIST", "SLIDE", "SPINS"], "quiz": [["A ball rolls because it is round where it touches the floor.", true, "Round things can turn over and over. That is what rolling is."], ["A flat book rolls down a gentle slope like a ball.", false, "A thing with a flat side stays still. It only slides if the slope is steep."], ["A paper cup that is wider at one end rolls round in a curve.", true, "The cup turns towards its narrow end, so its own shape steers it."], ["A bottle that is the same width all along rolls in a curve.", false, "A thing with the same width all along rolls straight."], ["A ball squashes a little when it hits the floor, then springs back up.", true, "Springing back into its round shape pushes the ball up again."], ["The heavier the ball, the higher it bounces.", false, "A light rubber ball bounces high. A heavy ball of wet dough does not bounce. What it is made of matters."], ["A top stands up on its point only while it spins fast.", true, "When the top slows down and stops spinning, it falls over."], ["A spinning top stays up because the air holds it.", false, "It stays up because it spins. Spinning wheels keep spacecraft steady in space, where there is no air."], ["A wind-up toy moves all by itself, with no push at all.", false, "You give it a push when you wind it. The spring keeps that push until it unwinds."], ["Rubbing against the floor and air slows down every rolling and spinning thing.", true, "This rubbing is called friction. It is why a rolling ball stops."]], "odd": [[["Ball", "Marble", "Wheel", "Flat book"], "Flat book", "Ball, marble and wheel are round where they touch the ground, so they roll. A flat book cannot roll."], [["Rubber ball", "Spring", "Sponge", "Stone"], "Stone", "Rubber balls, springs and sponges squash and then spring back. A stone does not squash."], [["Wound-up spring", "Twisted string", "Stretched rubber band", "Stone on the table"], "Stone on the table", "The first three keep your push stored in a twist or stretch. A stone on a table stores nothing."], [["Spinning top", "Spinning coin", "Moving cycle", "Cup on a table"], "Cup on a table", "The first three stay up only while they are moving. A cup stands up even when it is still."], [["Bottle", "Pencil", "Tin can", "Paper cup"], "Paper cup", "Bottle, pencil and tin can are the same width all along, so they roll straight. A cup rolls in a curve."]]}
+ "warm": {
+  "words": [
+   "ROUND",
+   "BALLS",
+   "TWIST",
+   "SLIDE",
+   "SPINS"
+  ],
+  "quiz": [
+   [
+    "A ball rolls because it is round where it touches the floor.",
+    true,
+    "Round things can turn over and over. That is what rolling is."
+   ],
+   [
+    "A flat book rolls down a gentle slope like a ball.",
+    false,
+    "A thing with a flat side stays still. It only slides if the slope is steep."
+   ],
+   [
+    "A paper cup that is wider at one end rolls round in a curve.",
+    true,
+    "The cup turns towards its narrow end, so its own shape steers it."
+   ],
+   [
+    "A bottle that is the same width all along rolls in a curve.",
+    false,
+    "A thing with the same width all along rolls straight."
+   ],
+   [
+    "A ball squashes a little when it hits the floor, then springs back up.",
+    true,
+    "Springing back into its round shape pushes the ball up again."
+   ],
+   [
+    "The heavier the ball, the higher it bounces.",
+    false,
+    "A light rubber ball bounces high. A heavy ball of wet dough does not bounce. What it is made of matters."
+   ],
+   [
+    "A top stands up on its point only while it spins fast.",
+    true,
+    "When the top slows down and stops spinning, it falls over."
+   ],
+   [
+    "A spinning top stays up because the air holds it.",
+    false,
+    "It stays up because it spins. Spinning wheels keep spacecraft steady in space, where there is no air."
+   ],
+   [
+    "A wind-up toy moves all by itself, with no push at all.",
+    false,
+    "You give it a push when you wind it. The spring keeps that push until it unwinds."
+   ],
+   [
+    "Rubbing against the floor and air slows down every rolling and spinning thing.",
+    true,
+    "This rubbing is called friction. It is why a rolling ball stops."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Ball",
+     "Marble",
+     "Wheel",
+     "Flat book"
+    ],
+    "Flat book",
+    "Ball, marble and wheel are round where they touch the ground, so they roll. A flat book cannot roll."
+   ],
+   [
+    [
+     "Rubber ball",
+     "Spring",
+     "Sponge",
+     "Stone"
+    ],
+    "Stone",
+    "Rubber balls, springs and sponges squash and then spring back. A stone does not squash."
+   ],
+   [
+    [
+     "Wound-up spring",
+     "Twisted string",
+     "Stretched rubber band",
+     "Stone on the table"
+    ],
+    "Stone on the table",
+    "The first three keep your push stored in a twist or stretch. A stone on a table stores nothing."
+   ],
+   [
+    [
+     "Spinning top",
+     "Spinning coin",
+     "Moving cycle",
+     "Cup on a table"
+    ],
+    "Cup on a table",
+    "The first three stay up only while they are moving. A cup stands up even when it is still."
+   ],
+   [
+    [
+     "Bottle",
+     "Pencil",
+     "Tin can",
+     "Paper cup"
+    ],
+    "Paper cup",
+    "Bottle, pencil and tin can are the same width all along, so they roll straight. A cup rolls in a curve."
+   ]
+  ]
+ }
 }

@@ -125,7 +125,8 @@
     "Dry baking soda and dry lime powder can sit together in a jar. Add a few drops of water and they fizz."
    ],
    "art": "Dry grains of two colours sitting still, then dissolved in water with dots of both colours moving and meeting, and a bubble forming.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"A reaction is a meeting of particles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Reaction rate: how fast a change goes",
@@ -138,7 +139,8 @@
     "A banana skin spotting has a middle rate. It takes a few days."
    ],
    "art": "A long line from 'a cracker bang' on the left to 'diamond becoming graphite' on the right, with a kitchen fizz and a rusting gate placed along it.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Reaction rate: how fast a change goes\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A reaction starts fast and then slows down",
@@ -151,7 +153,8 @@
     "Lemon juice poured on baking soda foams hard in the first moments, then the foam dies down as the powder is used up."
    ],
    "art": "A graph with seconds along the bottom and amount of gas up the side, with a curve that rises steeply and then flattens, and three glasses drawn under the start, the middle and the end.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"A reaction starts fast and then slows down\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Warmth speeds up almost every reaction",
@@ -164,7 +167,8 @@
     "Sugar dissolves faster in hot tea than in cold water."
    ],
    "art": "Two glasses of water with the same dots, short arrows on the dots in the cold glass and long arrows on the dots in the warm glass, with more bumps marked in the warm one.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Warmth speeds up almost every reaction\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Stirring and moving: bringing fresh particles together",
@@ -177,7 +181,8 @@
     "A washing machine keeps tossing clothes so that fresh detergent water reaches the dirt."
    ],
    "art": "A spoon swirling in one glass with arrows bringing in fresh water to a lump, and another still glass with a ring of used-up water sitting around the lump.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Stirring and moving: bringing fresh particles together\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Smaller pieces mean more surface and faster reactions",
@@ -190,7 +195,8 @@
     "Flour mills and grain stores have a risk of dust explosions, because fine dust burns almost instantly in the air."
    ],
    "art": "One large cube with its faces coloured, and next to it the same cube cut into eight small cubes with every new face coloured too, showing the doubled surface.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Smaller pieces mean more surface and faster reactions\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Crowding: more particles in the same space",
@@ -203,7 +209,8 @@
     "Deep inside the Sun, hydrogen particles are squashed so tightly that they sometimes join. Even there, an average particle waits billions of years for its turn. This is a different kind of change, but speed still depends on how often particles meet."
    ],
    "art": "Two identical boxes, one with a few dots spread far apart and one with many dots packed close, with more bump stars marked in the packed box.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Crowding: more particles in the same space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A catalyst makes one reaction faster and is not used up",
@@ -216,7 +223,8 @@
     "In factories, iron helps nitrogen from the air join with hydrogen to make ammonia for fertiliser. Somewhere between four and five in every ten people alive eat food grown with fertiliser made this way."
    ],
    "art": "A mountain with a high path labelled 'no catalyst' and a low tunnel labelled 'with catalyst', and the same walker figures coming out of both ends.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"A catalyst makes one reaction faster and is not used up\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Enzymes: living catalysts that work at body warmth",
@@ -229,7 +237,16 @@
     "Many washing powders contain enzymes that break down stains of food and sweat. Check the label."
    ],
    "art": "A big folded enzyme shape holding a food particle in a hollow, then releasing two smaller particles, with a flame icon showing the enzyme coming apart in heat.",
-   "perspectives": []
+   "perspectives": [
+    {
+     "who": "Louis Pasteur",
+     "explanation": "Thought fermentation needs the living yeast cell, with its life force."
+    },
+    {
+     "who": "Eduard Buchner (1897)",
+     "explanation": "Showed that juice pressed from dead yeast still ferments. Enzymes are chemicals, and cells make them."
+    }
+   ]
   },
   {
    "concept": "Slowing a change down on purpose",
@@ -242,7 +259,8 @@
     "Hydrogen peroxide is sold in brown bottles, because light speeds up its breakdown."
    ],
    "art": "Four small pictures: a fridge, a sealed jar, a painted gate and a pickle jar, each with a slow-down arrow.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Slowing a change down on purpose\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Some changes are so slow that we never see them",
@@ -255,7 +273,8 @@
     "Old paper turns yellow over decades."
    ],
    "art": "A diamond ring on the left and a pencil lead on the right, with a very long thin arrow between them marked 'longer than a lifetime'.",
-   "perspectives": []
+   "perspectives": [],
+   "one_view": "\"Some changes are so slow that we never see them\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Not every bump makes a reaction",
@@ -268,7 +287,16 @@
     "An enzyme lowers the hill, so many more bumps work at body warmth."
    ],
    "art": "Two dots bumping and bouncing apart with an arrow saying 'no change', and another pair bumping hard, flashing and turning into new shapes, with a small hill drawn under the path.",
-   "perspectives": []
+   "perspectives": [
+    {
+     "who": "Collision theory",
+     "explanation": "A reaction needs particles to hit with enough energy and the right way round."
+    },
+    {
+     "who": "Transition-state theory",
+     "explanation": "Looks at the short-lived half-formed shape that particles pass through. Chemists use both views."
+    }
+   ]
   }
  ],
  "agreed": [
@@ -440,21 +468,29 @@
     "source": "Heraclitus, as reported by Plato in Cratylus 402a",
     "teaching": "Heraclitus, a Greek thinker, is said to have taught that everything flows, and that you cannot step into the same river twice. The water keeps moving, so the river is never the same.",
     "link": "A rusting nail, a ripening banana and a fizzing glass are all flowing in a way. They look still, but their particles are always meeting and changing.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,",
+     "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha is recorded as teaching that all made things are impermanent. Nothing made of parts stays the same.",
     "link": "The Delhi Iron Pillar looks as if it will last forever. But a very slow reaction is working on it all the time. Slow is not the same as still.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 1",
     "teaching": "Nagarjuna, a Buddhist teacher in India about 1,800 years ago, argued that nothing happens by itself. Every event depends on causes and conditions meeting.",
     "link": "A fizz needs the powders, the water and enough warmth to come together. Take one away, and nothing happens.",
-    "verse": ["न स्वतो नापि परतो न द्वाभ्यां नाप्यहेतुतः", "उत्पन्ना जातु विद्यन्ते भावाः क्व चन के चन"],
+    "verse": [
+     "न स्वतो नापि परतो न द्वाभ्यां नाप्यहेतुतः",
+     "उत्पन्ना जातु विद्यन्ते भावाः क्व चन के चन"
+    ],
     "verse_lang": "sa"
    }
   ],

@@ -124,7 +124,8 @@
      }
     ],
     "title": "Which pan goes down?"
-   }
+   },
+   "one_view": "\"A balance compares two sides\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The sign = means 'is the same as'",
@@ -137,7 +138,16 @@
     "5 = 3 + 2. The single number is on the left this time, and the sentence is still true.",
     "3 + 2 = 4 + 1. Neither side is 'the answer'. Both sides are five."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Robert Recorde, who first wrote the sign in 1557",
+     "explanation": "He drew two short parallel lines and said no two things could be more equal. For him = meant 'is the same amount as'."
+    },
+    {
+     "who": "Many children, and many calculators",
+     "explanation": "Read = as 'now give the answer'. A mathematician reads it as 'both sides are the same amount', which also works when the answer is on the left."
+    }
+   ],
    "art": "A level balance with '3 + 2' written over the left pan, '4 + 1' over the right pan and a large = sign on the post in the middle.",
    "chart": {
     "type": "dots",
@@ -197,7 +207,8 @@
      ]
     ],
     "title": "All of these are level"
-   }
+   },
+   "one_view": "\"Many sums can make the same number\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "True and false number sentences",
@@ -225,7 +236,8 @@
      }
     ],
     "title": "Is 2 + 2 = 5 true?"
-   }
+   },
+   "one_view": "\"True and false number sentences\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How to make a tilted balance level",
@@ -254,7 +266,8 @@
      }
     ],
     "title": "Add 2 to the light side"
-   }
+   },
+   "one_view": "\"How to make a tilted balance level\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Do the same to both sides, and it stays level",
@@ -284,7 +297,8 @@
      }
     ],
     "title": "One more on each side"
-   }
+   },
+   "one_view": "\"Do the same to both sides, and it stays level\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Equal in what way?",
@@ -297,7 +311,16 @@
     "A ₹10 note and ten ₹1 coins: equal in what they buy, not equal in weight.",
     "Two children can be equal in age and not equal in height."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday speech",
+     "explanation": "'The same' usually means they look alike or are alike in the way we care about right now."
+    },
+    {
+     "who": "Mathematicians and scientists",
+     "explanation": "Two things are equal only in one chosen way, such as number, weight or length. They can be equal in that way and different in every other."
+    }
+   ],
    "art": "A balance with three coins in the low pan and three groundnuts in the high pan, and the numeral 3 written under each pan.",
    "chart": {
     "type": "table",
@@ -337,7 +360,8 @@
     "On the new patterns the bees chose the matching arm far more often than luck alone would give. They were not right every time."
    ],
    "perspectives": [],
-   "art": "A honeybee flying into a Y-shaped tunnel with a blue patch at the entrance, a blue patch on one arm and a yellow patch on the other."
+   "art": "A honeybee flying into a Y-shaped tunnel with a blue patch at the entrance, a blue patch on one arm and a yellow patch on the other.",
+   "one_view": "\"Honeybees can learn 'the same'\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Equal days and equal nights",
@@ -350,7 +374,16 @@
     "On the same day, they are about 12 hours apart in Delhi, in London and in Sydney too.",
     "In June, a day in Delhi is almost 14 hours long, and the night is only about 10 hours."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "On the equinox, day and night are exactly equal, twelve hours each."
+    },
+    {
+     "who": "Closer measurement",
+     "explanation": "Day is a little longer, because the Sun is a disc and not a point, and air bends its light over the horizon. Indian astronomers name the two days of nearly equal day and night 'vishuva'."
+    }
+   ],
    "art": "The Earth lit by the Sun from the side, with the line between day and night passing straight through the North Pole and the South Pole.",
    "chart": {
     "type": "strip",

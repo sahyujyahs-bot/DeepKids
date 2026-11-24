@@ -115,7 +115,8 @@
     "Earthworms pulling dead leaves into the soil."
    ],
    "perspectives": [],
-   "art": "A fallen tree trunk with mushrooms on it, termites inside a crack, an earthworm in the soil below and a magnified circle of bacteria."
+   "art": "A fallen tree trunk with mushrooms on it, termites inside a crack, an earthworm in the soil below and a magnified circle of bacteria.",
+   "one_view": "\"What decomposers are\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A mould is a fungus, and grows from spores",
@@ -127,7 +128,16 @@
     "Black bread mould first grows white fuzz, then tiny black dots. Each dot is a little round case full of spores.",
     "The blue-green powder on an old orange is millions of spores of a mould called Penicillium."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Old classifications",
+     "explanation": "Put fungi with the plants, because they stay in one place."
+    },
+    {
+     "who": "Modern biology",
+     "explanation": "Fungi form their own kingdom, and are closer relatives of animals than of plants."
+    }
+   ],
    "art": "Three stages of mould on a chapati: a tiny spore landing, white threads spreading, and a fuzzy patch with black spore dots."
   },
   {
@@ -141,7 +151,8 @@
     "A dry rusk on the shelf stays hard and clean for weeks."
    ],
    "perspectives": [],
-   "art": "A close-up of mould threads on a slice of tomato, with arrows showing enzymes going out of the threads and watery food coming back in."
+   "art": "A close-up of mould threads on a slice of tomato, with arrows showing enzymes going out of the threads and watery food coming back in.",
+   "one_view": "\"How a fungus eats: digesting outside the body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "What decomposers need: food, water, warmth and air",
@@ -154,7 +165,8 @@
     "A cut onion in the fridge keeps for days, and on a warm kitchen shelf it goes bad sooner."
    ],
    "perspectives": [],
-   "art": "Four small icons in a row, a leaf for food, a drop for water, a sun for warmth and a swirl for air, with a mould patch growing where all four meet."
+   "art": "Four small icons in a row, a leaf for food, a drop for water, a sun for warmth and a swirl for air, with a mould patch growing where all four meet.",
+   "one_view": "\"What decomposers need: food, water, warmth and air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How people keep food from rotting",
@@ -168,7 +180,8 @@
     "Boiled milk keeps for longer than milk that has not been boiled."
    ],
    "perspectives": [],
-   "art": "A kitchen shelf with a glass jar of mango pickle, a tin of vadam, a string of dried chillies and a bowl of salt."
+   "art": "A kitchen shelf with a glass jar of mango pickle, a tin of vadam, a string of dried chillies and a bowl of salt.",
+   "one_view": "\"How people keep food from rotting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "How earthworms help to make soil",
@@ -181,7 +194,8 @@
     "Farmers across India use vermicompost, compost made by earthworms."
    ],
    "perspectives": [],
-   "art": "A cut-away of soil with an earthworm's burrow, a leaf being pulled down into it, and a curly heap of casts at the top."
+   "art": "A cut-away of soil with an earthworm's burrow, a leaf being pulled down into it, and a curly heap of casts at the top.",
+   "one_view": "\"How earthworms help to make soil\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Nature's recycling: from a dead leaf to a new plant",
@@ -194,7 +208,8 @@
     "Compost made from vegetable peels helps a balcony tomato plant grow."
    ],
    "perspectives": [],
-   "art": "A circle of arrows: a green leaf on a tree, the leaf falling, decomposers eating it in the soil, nutrients going into roots, and a new green leaf."
+   "art": "A circle of arrows: a green leaf on a tree, the leaf falling, decomposers eating it in the soil, nutrients going into roots, and a new green leaf.",
+   "one_view": "\"Nature's recycling: from a dead leaf to a new plant\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Decomposers sense and choose",
@@ -206,7 +221,16 @@
     "Mould threads on a chapati spread out over the food, not onto the dry steel of the box.",
     "Earthworms pull some kinds of leaves into their burrows more often than others."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Many biologists",
+     "explanation": "These responses are automatic chemistry in the body."
+    },
+    {
+     "who": "Charles Darwin (1881)",
+     "explanation": "Watched earthworms choose leaves, shape their burrows and plug holes, and said they act with something like intelligence. Whether to call it choice is still argued."
+    }
+   ],
    "art": "An earthworm at the mouth of a burrow, holding a leaf by the pointed tip."
   },
   {
@@ -219,7 +243,16 @@
     "A papaya peel in a compost pot is gone in about a week or two in warm weather.",
     "A coconut shell can stay in the soil for years."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Label and brochure estimates",
+     "explanation": "Often give a single number, such as hundreds of years for a plastic bottle."
+    },
+    {
+     "who": "Scientists measuring in soil, sea and landfills",
+     "explanation": "Find the time depends on warmth, wetness, air and living beings, and can vary hugely. Many estimates are guesses."
+    }
+   ],
    "art": "A row of things in soil: a papaya peel, a leaf, a twig and a coconut shell, each with a small clock showing a longer time."
   }
  ],
@@ -1857,7 +1890,7 @@
      "do": "Think about what decomposers need: food, water, warmth and air.",
      "say": "Which of these can we take away from a tomato without ruining it?",
      "kid": "Pick one thing to take away. Tell your grown-up how you will do it.",
-    "parent": "Good answers: keep the tomato cool, and keep it dry. The tomato is the food, so that cannot be taken away. Accept any answer that gives a reason.",
+     "parent": "Good answers: keep the tomato cool, and keep it dry. The tomato is the food, so that cannot be taken away. Accept any answer that gives a reason.",
      "context": "This is a challenge to keep a tomato fresh the old way, without a fridge."
     },
     {
@@ -2966,21 +2999,32 @@
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "From food all beings are born. By food they live. Into food they go when they depart.",
     "link": "A leaf grows from the soil, lives by the food it makes, and when it falls it becomes food for decomposers, and then for new plants.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Ecclesiastes 3:20",
     "teaching": "All go to one place. All are of the dust, and all turn to dust again.",
     "link": "Decomposers turn every dead body, of a leaf, a worm or a person, back into soil.",
-    "verse": ["הַכֹּל הוֹלֵךְ אֶל־מָקוֹם אֶחָד", "הַכֹּל הָיָה מִן־הֶעָפָר וְהַכֹּל שָׁב אֶל־הֶעָפָר"],
+    "verse": [
+     "הַכֹּל הוֹלֵךְ אֶל־מָקוֹם אֶחָד",
+     "הַכֹּל הָיָה מִן־הֶעָפָר וְהַכֹּל שָׁב אֶל־הֶעָפָר"
+    ],
     "verse_lang": "he"
    },
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and each one returns to its root.",
     "link": "A fallen leaf really does return to the roots: decomposers turn it into nutrients that the tree's roots take in again.",
-    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse": [
+     "夫物芸芸，各復歸其根。",
+     "歸根曰靜，是謂復命。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3018,5 +3062,117 @@
   "when": "1837 (Darwin's first talk on worms) to 1881 (his book on worms)",
   "wrong_idea": "People thought worms were garden pests, far too small and weak to change the land. Darwin's measurements of casts and buried layers showed that worms slowly turn over and build the topsoil."
  },
- "warm": {"words": ["MOULD", "WORMS", "WATER", "DECAY", "FUNGI"], "quiz": [["A fungus digests food outside the body, then soaks up the watery result.", true, "Their threads give out chemicals that break the food down, so the threads can soak it up."], ["Fungi are plants that make their own food from sunlight.", false, "Fungi are not plants. They feed by digesting food around them, not by using sunlight."], ["Drying, salt and sugar keep food from rotting because they take away water.", true, "Decomposers need water, so food without usable water lasts for a long time."], ["Mould grows inside food by itself, with no spores needed.", false, "Mould grows from spores floating in the air that land on damp food."], ["A ripe papaya rots in days, but dry wood takes months or years.", true, "Soft, wet things are easy for decomposers to eat. Dry, tough things are slow to break down."], ["Earthworms harm gardens by eating living roots.", false, "Worms eat dead leaves, their burrows let in air and water, and their casts feed plants."], ["Earthworms, millipedes and termites help decomposers by chewing dead things into small pieces.", true, "Small pieces are easier for fungi and bacteria to break down."], ["If you cut off the mouldy part of a chapati, the rest is safe to eat.", false, "Mould threads spread far inside soft food before you see them, and some make harmful chemicals."], ["Without decomposers, dead leaves would pile up and plants would run short of nutrients.", true, "Decomposers return the materials in dead things to the soil, where plants can use them."], ["Mould needs light to grow, so food kept in the dark stays fresh.", false, "Mould needs food, water, warmth and air. Mould does not need light."]], "odd": [[["Earthworm", "Bread mould", "Mushroom", "Neem tree"], "Neem tree", "Earthworms, moulds and mushrooms feed on dead things; a neem tree makes their own food from sunlight."], [["Dried chillies", "Salted fish", "Sugary jam", "Fresh cut papaya"], "Fresh cut papaya", "The first three keep well because water is removed or held by salt or sugar; fresh papaya is full of water."], [["Ripe papaya", "Cooked rice", "Cut banana", "Coconut shell"], "Coconut shell", "The first three are soft and wet, so they rot fast; a coconut shell is dry and tough, so it takes years."], [["Food", "Water", "Warmth", "Bright light"], "Bright light", "Decomposers need food, water and warmth; they can grow well in the dark."], [["Spore", "Hypha", "Mycelium", "Gizzard"], "Gizzard", "Spores, hyphae and mycelium are parts of a fungus; the gizzard is the part of an earthworm that grinds food."]]}
+ "warm": {
+  "words": [
+   "MOULD",
+   "WORMS",
+   "WATER",
+   "DECAY",
+   "FUNGI"
+  ],
+  "quiz": [
+   [
+    "A fungus digests food outside the body, then soaks up the watery result.",
+    true,
+    "Their threads give out chemicals that break the food down, so the threads can soak it up."
+   ],
+   [
+    "Fungi are plants that make their own food from sunlight.",
+    false,
+    "Fungi are not plants. They feed by digesting food around them, not by using sunlight."
+   ],
+   [
+    "Drying, salt and sugar keep food from rotting because they take away water.",
+    true,
+    "Decomposers need water, so food without usable water lasts for a long time."
+   ],
+   [
+    "Mould grows inside food by itself, with no spores needed.",
+    false,
+    "Mould grows from spores floating in the air that land on damp food."
+   ],
+   [
+    "A ripe papaya rots in days, but dry wood takes months or years.",
+    true,
+    "Soft, wet things are easy for decomposers to eat. Dry, tough things are slow to break down."
+   ],
+   [
+    "Earthworms harm gardens by eating living roots.",
+    false,
+    "Worms eat dead leaves, their burrows let in air and water, and their casts feed plants."
+   ],
+   [
+    "Earthworms, millipedes and termites help decomposers by chewing dead things into small pieces.",
+    true,
+    "Small pieces are easier for fungi and bacteria to break down."
+   ],
+   [
+    "If you cut off the mouldy part of a chapati, the rest is safe to eat.",
+    false,
+    "Mould threads spread far inside soft food before you see them, and some make harmful chemicals."
+   ],
+   [
+    "Without decomposers, dead leaves would pile up and plants would run short of nutrients.",
+    true,
+    "Decomposers return the materials in dead things to the soil, where plants can use them."
+   ],
+   [
+    "Mould needs light to grow, so food kept in the dark stays fresh.",
+    false,
+    "Mould needs food, water, warmth and air. Mould does not need light."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Earthworm",
+     "Bread mould",
+     "Mushroom",
+     "Neem tree"
+    ],
+    "Neem tree",
+    "Earthworms, moulds and mushrooms feed on dead things; a neem tree makes their own food from sunlight."
+   ],
+   [
+    [
+     "Dried chillies",
+     "Salted fish",
+     "Sugary jam",
+     "Fresh cut papaya"
+    ],
+    "Fresh cut papaya",
+    "The first three keep well because water is removed or held by salt or sugar; fresh papaya is full of water."
+   ],
+   [
+    [
+     "Ripe papaya",
+     "Cooked rice",
+     "Cut banana",
+     "Coconut shell"
+    ],
+    "Coconut shell",
+    "The first three are soft and wet, so they rot fast; a coconut shell is dry and tough, so it takes years."
+   ],
+   [
+    [
+     "Food",
+     "Water",
+     "Warmth",
+     "Bright light"
+    ],
+    "Bright light",
+    "Decomposers need food, water and warmth; they can grow well in the dark."
+   ],
+   [
+    [
+     "Spore",
+     "Hypha",
+     "Mycelium",
+     "Gizzard"
+    ],
+    "Gizzard",
+    "Spores, hyphae and mycelium are parts of a fungus; the gizzard is the part of an earthworm that grinds food."
+   ]
+  ]
+ }
 }

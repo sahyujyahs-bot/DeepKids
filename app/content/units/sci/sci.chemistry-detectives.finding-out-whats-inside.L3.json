@@ -117,7 +117,16 @@
     "Rice with small stones: people spread it on a plate and pick the stones out by hand.",
     "Salt water: let the water dry up, and the salt is left."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday and market use",
+     "explanation": "'Pure' means not mixed with anything bad: pure ghee, pure water."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "'Pure' means one single substance. A glass of clear spring water is a mixture, with salts and gases in it."
+    }
+   ],
    "art": "Three ways to separate a mixture side by side: a sieve over a bowl, a magnet over a plate of iron filings and sand, and a paper strip in a tumbler with colour bands.",
    "context": "This card explains what a mixture is, and why a mixture can be separated again."
   },
@@ -133,7 +142,8 @@
    ],
    "perspectives": [],
    "art": "A black dot on a wet strip with arrows showing blue, purple and yellow dyes moving up the paper at different speeds.",
-   "context": "This card explains why a black dot turns into other colours on wet paper."
+   "context": "This card explains why a black dot turns into other colours on wet paper.",
+   "one_view": "\"Why black ink splits into colours\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why some dyes travel further",
@@ -146,7 +156,8 @@
    ],
    "perspectives": [],
    "art": "A tall strip with the water line at the top and two bands, one high and one low, with a ruler beside it.",
-   "context": "This card explains why each dye stops at its own height on the strip."
+   "context": "This card explains why each dye stops at its own height on the strip.",
+   "one_view": "\"Why some dyes travel further\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Some inks do not move in water",
@@ -159,7 +170,8 @@
    ],
    "perspectives": [],
    "art": "Two strips side by side: a sketch pen dot spread into colour bands, and a ballpoint dot still a small dark dot.",
-   "context": "This card explains why some pens give no colour bands at all."
+   "context": "This card explains why some pens give no colour bands at all.",
+   "one_view": "\"Some inks do not move in water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Chromatography in labs today",
@@ -172,7 +184,8 @@
    ],
    "perspectives": [],
    "art": "A modern lab with a long thin coiled tube in a machine and a screen showing a line with peaks, next to a child's paper strip.",
-   "context": "This card shows how the paper strip idea is used in real labs."
+   "context": "This card shows how the paper strip idea is used in real labs.",
+   "one_view": "\"Chromatography in labs today\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Every element has its own flame colour",
@@ -186,7 +199,8 @@
    ],
    "perspectives": [],
    "art": "A row of five flames: blue gas flame, yellow-orange with sodium, green with copper, red with strontium and pale lilac with potassium.",
-   "context": "This card explains why salt changes the colour of a flame, and what other colours elements make."
+   "context": "This card explains why salt changes the colour of a flame, and what other colours elements make.",
+   "one_view": "\"Every element has its own flame colour\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why heat makes coloured light",
@@ -197,7 +211,16 @@
     "Sodium always gives the same yellow-orange, whether it comes from table salt, rasam or seawater.",
     "A prism is a piece of glass that splits light into its colours. It splits sodium's light into two very thin yellow lines, close together."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Niels Bohr (1913)",
+     "explanation": "Electrons circle the atom's centre on set orbits, and give out light when they jump down."
+    },
+    {
+     "who": "Quantum physics today",
+     "explanation": "Electrons are not on orbits. They have fixed energy levels, and light of one exact colour comes out when an electron drops between levels."
+    }
+   ],
    "art": "A sodium atom drawn as a small centre with electrons around it, giving out a yellow-orange ray of light.",
    "context": "This card looks inside the atom, to see where a flame's colour comes from."
   },
@@ -210,7 +233,16 @@
     "Iron, calcium and sodium have all been found in the Sun from its light.",
     "The Sun is about 15 crore kilometres away, and nobody has ever taken a sample of it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Auguste Comte (1835)",
+     "explanation": "Said we would never know what the stars are made of."
+    },
+    {
+     "who": "Kirchhoff, Bunsen, then Cecilia Payne (1925)",
+     "explanation": "Found that light's dark lines tell the elements. Payne showed the Sun is mostly hydrogen. Other astronomers first doubted her."
+    }
+   ],
    "art": "A band of rainbow colours with thin dark lines in it, and a matching set of bright yellow lines from a salt flame below.",
    "context": "This card shows how flame colours let scientists find out what the Sun is made of."
   },
@@ -223,7 +255,16 @@
     "Bottled water lists the salts dissolved in it on the label.",
     "A medicine packet says how pure the medicine must be."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Market view",
+     "explanation": "'Pure' gold or 'pure' water is a thing you can buy."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Perfect purity is a goal that is never fully reached. Even 99.9999 percent pure silicon has a few foreign atoms."
+    }
+   ],
    "art": "A glass of tap water with a magnifier showing a few tiny dots of other substances among the water.",
    "context": "This card asks whether anything is ever made of only one substance."
   }
@@ -2774,7 +2815,7 @@
    "Kirchhoff, G. and Bunsen, R., 'Chemische Analyse durch Spectralbeobachtungen', Annalen der Physik und Chemie 110, 1860 (each element's lines; caesium)",
    "Kirchhoff, G., 'Ueber die Fraunhofer'schen Linien', Monatsberichte der Berliner Akademie, October 1859 (sodium in the Sun)",
    "Payne, C. H., Stellar Atmospheres, Harvard Observatory Monographs, 1925 (the stars are mostly hydrogen and helium)",
-"Comte, A., Cours de philosophie positive, volume 2, 1835 (that the chemical make-up of stars could never be known)",
+   "Comte, A., Cours de philosophie positive, volume 2, 1835 (that the chemical make-up of stars could never be known)",
    "Raman, C.V. and Krishnan, K.S., 'A new type of secondary radiation', Nature 121, 1928",
    "Flame colours of sodium, potassium, lithium, copper, strontium and barium: standard school chemistry, for example the Royal Society of Chemistry's flame test resources"
   ]
@@ -2797,14 +2838,18 @@
     "source": "Nyaya Sutra 1.1.3 and 1.1.6, by Gautama (also called Akshapada), an Indian book on how we know",
     "teaching": "There are four ways of knowing: seeing for yourself, working it out from signs, comparing with something already known, and the word of a trustworthy person. Comparing means knowing a new thing by its likeness to a thing you know well.",
     "link": "In the Which Pen test you used two of these. You worked out from signs, the coloured bands, which pen was used. You compared the secret strip with strips whose pens you already knew.",
-    "verse": ["प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि"],
+    "verse": [
+     "प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment 123 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "Nature loves to hide.",
     "link": "The blue and purple in black ink, and the sodium in clear salt water, could not be seen. A test made them show themselves.",
-    "verse": ["φύσις κρύπτεσθαι φιλεῖ"],
+    "verse": [
+     "φύσις κρύπτεσθαι φιλεῖ"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2843,5 +2888,117 @@
   "when": "1835 (Comte's claim), 1859 (sodium in the Sun) and 1860 (caesium)",
   "wrong_idea": "We can never know what the stars are made of, because we cannot go there. Bunsen and Kirchhoff showed that each element's light has its own pattern, and found sodium's pattern in sunlight. In 1925 Cecilia Payne used the same method to show that stars are mostly hydrogen and helium."
  },
- "warm": {"words": ["PAPER", "WATER", "BLACK", "FLAME", "STARS"], "quiz": [["Black sketch pen ink is often made of several dyes mixed together.", true, "Together the dyes look black, but wet paper pulls them apart into blue, purple and yellow."], ["Black is one colour, so black ink must be one substance.", false, "A colour that looks single can be a mixture. Most black sketch pen inks split into several colours."], ["On a paper strip, a dye that holds weakly to the paper travels further.", true, "Water carries it easily, while a dye that clings to the paper stays near the dot."], ["Ballpoint ink spreads up wet paper just like sketch pen ink.", false, "Ballpoint ink does not dissolve in water, so water cannot carry it up the paper."], ["The colour of a flame can show which element is in it.", true, "Each element gives out light of its own colours when it is heated in a flame."], ["A flame's colour shows only how hot the flame is.", false, "What is in the flame matters too. A blue gas flame turns yellow-orange with salt and green with copper."], ["Starlight can show which elements the stars are made of.", true, "Each element gives out its own pattern of colours, and starlight carries those patterns all the way to us."], ["A paper strip test tells you the name of each dye.", false, "It shows how many dyes there are and how far each goes. Naming one needs a known dye beside it."], ["Two substances that look the same can still be told apart by tests.", true, "Two different substances can look alike, but a test such as a flame colour can show the difference."], ["A mixture is two substances joined together into one new substance.", false, "In a mixture the substances are only mixed, not joined, so it can often be separated again."]], "odd": [[["Sugar", "Salt", "Water", "Black sketch pen ink"], "Black sketch pen ink", "Sugar, salt and water are each one substance all the way through. Black ink is a mixture of dyes."], [["Sketch pen ink", "Food colour", "Washable marker ink", "Permanent marker ink"], "Permanent marker ink", "The first three dissolve in water, so water can carry them up the paper. Permanent marker ink does not dissolve."], [["Sodium", "Copper", "Hydrogen", "Salt"], "Salt", "The first three are elements, made of one kind of atom. Salt has sodium joined to another element."], [["Flame test", "Sunlight split into colours", "Starlight lines", "Paper chromatography"], "Paper chromatography", "The first three find what is inside by looking at light. Chromatography uses a liquid moving up paper."], [["Paper towel", "Cotton cloth", "Sponge", "Glass plate"], "Glass plate", "The first three have tiny gaps that let water creep up. Glass has no gaps, so water does not climb."]]}
+ "warm": {
+  "words": [
+   "PAPER",
+   "WATER",
+   "BLACK",
+   "FLAME",
+   "STARS"
+  ],
+  "quiz": [
+   [
+    "Black sketch pen ink is often made of several dyes mixed together.",
+    true,
+    "Together the dyes look black, but wet paper pulls them apart into blue, purple and yellow."
+   ],
+   [
+    "Black is one colour, so black ink must be one substance.",
+    false,
+    "A colour that looks single can be a mixture. Most black sketch pen inks split into several colours."
+   ],
+   [
+    "On a paper strip, a dye that holds weakly to the paper travels further.",
+    true,
+    "Water carries it easily, while a dye that clings to the paper stays near the dot."
+   ],
+   [
+    "Ballpoint ink spreads up wet paper just like sketch pen ink.",
+    false,
+    "Ballpoint ink does not dissolve in water, so water cannot carry it up the paper."
+   ],
+   [
+    "The colour of a flame can show which element is in it.",
+    true,
+    "Each element gives out light of its own colours when it is heated in a flame."
+   ],
+   [
+    "A flame's colour shows only how hot the flame is.",
+    false,
+    "What is in the flame matters too. A blue gas flame turns yellow-orange with salt and green with copper."
+   ],
+   [
+    "Starlight can show which elements the stars are made of.",
+    true,
+    "Each element gives out its own pattern of colours, and starlight carries those patterns all the way to us."
+   ],
+   [
+    "A paper strip test tells you the name of each dye.",
+    false,
+    "It shows how many dyes there are and how far each goes. Naming one needs a known dye beside it."
+   ],
+   [
+    "Two substances that look the same can still be told apart by tests.",
+    true,
+    "Two different substances can look alike, but a test such as a flame colour can show the difference."
+   ],
+   [
+    "A mixture is two substances joined together into one new substance.",
+    false,
+    "In a mixture the substances are only mixed, not joined, so it can often be separated again."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Sugar",
+     "Salt",
+     "Water",
+     "Black sketch pen ink"
+    ],
+    "Black sketch pen ink",
+    "Sugar, salt and water are each one substance all the way through. Black ink is a mixture of dyes."
+   ],
+   [
+    [
+     "Sketch pen ink",
+     "Food colour",
+     "Washable marker ink",
+     "Permanent marker ink"
+    ],
+    "Permanent marker ink",
+    "The first three dissolve in water, so water can carry them up the paper. Permanent marker ink does not dissolve."
+   ],
+   [
+    [
+     "Sodium",
+     "Copper",
+     "Hydrogen",
+     "Salt"
+    ],
+    "Salt",
+    "The first three are elements, made of one kind of atom. Salt has sodium joined to another element."
+   ],
+   [
+    [
+     "Flame test",
+     "Sunlight split into colours",
+     "Starlight lines",
+     "Paper chromatography"
+    ],
+    "Paper chromatography",
+    "The first three find what is inside by looking at light. Chromatography uses a liquid moving up paper."
+   ],
+   [
+    [
+     "Paper towel",
+     "Cotton cloth",
+     "Sponge",
+     "Glass plate"
+    ],
+    "Glass plate",
+    "The first three have tiny gaps that let water creep up. Glass has no gaps, so water does not climb."
+   ]
+  ]
+ }
 }

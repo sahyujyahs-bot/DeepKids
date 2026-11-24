@@ -125,7 +125,8 @@
       "n": 10
      }
     ]
-   }
+   },
+   "one_view": "\"Ten ones make one ten\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Ten and some more: the numbers from 11 to 19",
@@ -152,7 +153,8 @@
       "n": 6
      }
     ]
-   }
+   },
+   "one_view": "\"Ten and some more: the numbers from 11 to 19\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Counting in tens",
@@ -173,7 +175,8 @@
     "max": 90,
     "step": 10,
     "title": "Counting in tens"
-   }
+   },
+   "one_view": "\"Counting in tens\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Two digits: tens on the left, ones on the right",
@@ -186,7 +189,16 @@
     "61 is 6 tens and 1 one.",
     "A soap that costs 34 rupees can be paid for with 3 ten-rupee notes and 4 one-rupee coins."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "The Indian-Arabic system we use",
+     "explanation": "The value of a digit depends on its place, and the left place is worth the most."
+    },
+    {
+     "who": "Roman numerals and Babylonian numbers",
+     "explanation": "Roman numerals have no place value: X is ten wherever it stands. Babylonian numbers counted in sixties with place value, but with no sign for an empty place at first."
+    }
+   ],
    "art": "The number 34 above a small table with two columns named Tens and Ones, holding three bundles and four loose sticks.",
    "chart": {
     "type": "table",
@@ -213,7 +225,16 @@
     "90 is 9 tens and 0 ones.",
     "A ten-rupee note with no coins is 10 rupees: 1 ten and 0 ones."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Babylonian and Mayan scribes",
+     "explanation": "Used a mark to hold an empty place in a number, but it was not a number you could add."
+    },
+    {
+     "who": "Indian mathematicians (Aryabhata's place value, Brahmagupta's rules for zero)",
+     "explanation": "Made zero a number in its own right, with rules for using it. This is the zero in every school today."
+    }
+   ],
    "art": "Four bundles of ten on the left labelled 40, and four loose sticks on the right labelled 4.",
    "chart": {
     "type": "dots",
@@ -278,7 +299,8 @@
       "n": 1
      }
     ]
-   }
+   },
+   "one_view": "\"12 and 21: the same digits, different numbers\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Nine loose and one more: a new ten",
@@ -310,7 +332,8 @@
       "more": 1
      }
     ]
-   }
+   },
+   "one_view": "\"Nine loose and one more: a new ten\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why ten? People chose it",
@@ -323,7 +346,16 @@
     "Two overs are 12 balls: two groups of six.",
     "Sixty minutes make one hour. That group of sixty comes from ancient Babylon, in the land that is now Iraq."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "The body-counting view",
+     "explanation": "People bundle in tens because we have ten fingers."
+    },
+    {
+     "who": "Other peoples",
+     "explanation": "Babylonians counted in sixty, the Maya in twenty, and some people in twelves. Indian mathematicians made the ten-digit place-value system with zero, which spread to the Arab world and then everywhere."
+    }
+   ],
    "art": "The same twelve bananas drawn twice: once as a group of ten and two more, once as one bunch labelled 'one dozen'.",
    "chart": {
     "type": "dots",
@@ -353,7 +385,16 @@
     "An ant on stilts walked past her nest, because each of her steps was longer.",
     "A honeybee shows her sisters how far away the flowers are by how long she dances."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Researchers who study desert ants",
+     "explanation": "The ants keep a running count of their steps, which works like a tally."
+    },
+    {
+     "who": "Careful scientists",
+     "explanation": "Some say this is an inner step-counter, and not counting with numbers as people do. Whether animals 'count' is still debated."
+    }
+   ],
    "art": "A desert ant on tiny stilts walking along a sandy track past a small nest hole.",
    "chart": {
     "type": "scale",
@@ -390,7 +431,8 @@
       "0"
      ]
     ]
-   }
+   },
+   "one_view": "\"Stretch: ten tens make one hundred\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [

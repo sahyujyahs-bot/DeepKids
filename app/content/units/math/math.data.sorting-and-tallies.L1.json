@@ -142,7 +142,8 @@
      }
     ],
     "title": "The opening puzzle, sorted by shape"
-   }
+   },
+   "one_view": "\"Sorting puts like with like\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Count each group: most and fewest",
@@ -173,7 +174,8 @@
       "n": 5
      }
     ]
-   }
+   },
+   "one_view": "\"Count each group: most and fewest\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "One heap can be sorted in many ways",
@@ -214,7 +216,8 @@
      }
     ],
     "title": "The same shapes, sorted by colour"
-   }
+   },
+   "one_view": "\"One heap can be sorted in many ways\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Sorting does not change how many there are in all",
@@ -238,7 +241,8 @@
     ],
     "answer": "15",
     "title": "Three groups, one heap"
-   }
+   },
+   "one_view": "\"Sorting does not change how many there are in all\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "One mark for each thing",
@@ -278,7 +282,8 @@
       "4"
      ]
     ]
-   }
+   },
+   "one_view": "\"One mark for each thing\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "When a thing is hard to place",
@@ -319,7 +324,8 @@
      }
     ],
     "title": "A yellow one turns up. The rule needs a new group."
-   }
+   },
+   "one_view": "\"When a thing is hard to place\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Ants sort too",
@@ -332,7 +338,16 @@
     "Fox squirrels in America, given four kinds of nuts at one spot, buried each kind in its own area.",
     "Watch the ants at home. Do they carry one kind of food and leave another?"
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "A person watching the nest",
+     "explanation": "It looks as if the ants plan their rings, like someone tidying a room."
+    },
+    {
+     "who": "Researchers who study these ants (Franks and Deneubourg)",
+     "explanation": "No ant needs a plan. Each ant follows simple local rules, and the rings come out of many ants doing this together."
+    }
+   ],
    "art": "A top view of an ant nest in a flat crack: tiny eggs in the middle, small larvae in a ring around them and large larvae in an outer ring, with worker ants walking between.",
    "chart": {
     "type": "dots",
@@ -396,7 +411,8 @@
      }
     ],
     "title": "Stars sorted by their light (a simple picture, not real numbers)"
-   }
+   },
+   "one_view": "\"Sorting helps us understand the world\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [

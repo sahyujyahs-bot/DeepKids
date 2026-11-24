@@ -90,7 +90,16 @@
     "Toilet cleaners often contain a strong acid. They are kept high up, away from children.",
     "Kokum, which is used in Konkan curries and sol kadhi, tastes sour too."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Lavoisier (1770s)",
+     "explanation": "Thought oxygen is what makes a substance an acid. Later this was shown wrong."
+    },
+    {
+     "who": "Arrhenius (1884), Brønsted and Lowry (1923), and Lewis (1923)",
+     "explanation": "Gave three growing meanings of acid: gives hydrogen ions in water; gives a hydrogen ion to something; takes a pair of electrons. Chemists use whichever fits the job."
+    }
+   ],
    "art": "A banana leaf with rasam, a slice of lemon, a piece of raw mango and a small bowl of curd, each with a small label saying which acid it has."
   },
   {
@@ -105,7 +114,16 @@
     "Chuna in a paan shop is a strong base. It can burn the mouth and eyes if it is used carelessly.",
     "In Assam, khar is cooked with the ashy water from burnt banana peel, which is an alkali."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Ayurveda and Sushruta",
+     "explanation": "Used kshara, an alkali made from the ash of plants, to treat wounds and growths."
+    },
+    {
+     "who": "Modern chemistry",
+     "explanation": "A base takes a hydrogen ion from an acid, which is why the two cancel each other."
+    }
+   ],
    "art": "A bar of soap, a bowl of detergent water with foam, a small box of cooking soda, and a small tin of white chuna with a red 'grown-ups only' tag."
   },
   {
@@ -120,7 +138,8 @@
     "Detergent water turns cabbage water green."
    ],
    "perspectives": [],
-   "art": "Seven small glasses of cabbage water in a row: red, pink, purple, blue, blue-green, green and yellow."
+   "art": "Seven small glasses of cabbage water in a row: red, pink, purple, blue, blue-green, green and yellow.",
+   "one_view": "\"How red cabbage water shows acids and bases\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "One line from sour to soapy: the pH scale",
@@ -134,7 +153,8 @@
     "Your blood stays very close to 7.4, whatever you eat."
    ],
    "perspectives": [],
-   "art": "A long coloured strip from red at 0 to purple at 7 to yellow at 14, with a lemon at 2, a cup of buttermilk at 4, a glass of water at 7, a box of cooking soda at 8 and a bar of soap at 10."
+   "art": "A long coloured strip from red at 0 to purple at 7 to yellow at 14, with a lemon at 2, a cup of buttermilk at 4, a glass of water at 7, a box of cooking soda at 8 and a bar of soap at 10.",
+   "one_view": "\"One line from sour to soapy: the pH scale\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "When an acid meets a base",
@@ -147,7 +167,8 @@
     "Dosa and idli batter sometimes get a pinch of cooking soda. It reacts with the sour batter and makes extra bubbles of gas, so the idlis come out light."
    ],
    "perspectives": [],
-   "art": "Two glasses side by side: in the first, pink cabbage water with lemon, and in the second, the same water after soda water is added, purple with tiny bubbles."
+   "art": "Two glasses side by side: in the first, pink cabbage water with lemon, and in the second, the same water after soda water is added, purple with tiny bubbles.",
+   "one_view": "\"When an acid meets a base\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Living beings that make acids",
@@ -161,7 +182,8 @@
     "Idli, dosa and white dhokla batter turn sour as the batter ferments, because the bacteria in the batter make acid."
    ],
    "perspectives": [],
-   "art": "Three panels: a bowl of curd with tiny rod-shaped bacteria drawn large beside the bowl, a weaver ant on a mango leaf nest, and a simple outline of a child with the stomach shaded."
+   "art": "Three panels: a bowl of curd with tiny rod-shaped bacteria drawn large beside the bowl, a weaver ant on a mango leaf nest, and a simple outline of a child with the stomach shaded.",
+   "one_view": "\"Living beings that make acids\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why red cabbage is purple",
@@ -173,7 +195,16 @@
     "Young mango leaves are often reddish-brown before they turn green. Scientists think the red pigment shades the soft new leaf.",
     "Jamun fruit stains your tongue purple with anthocyanin."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Sun-protection idea",
+     "explanation": "The purple pigments (anthocyanins) shield the leaves from strong light and cold."
+    },
+    {
+     "who": "Other ideas",
+     "explanation": "The colour may warn off insects, attract helpers, or act as antioxidant. Scientists have not settled which job matters most."
+    }
+   ],
    "art": "A red cabbage plant in a field in bright winter sun, with a zoomed-in circle showing a purple layer at the top of a leaf."
   }
  ],
@@ -2753,14 +2784,18 @@
     "source": "Charaka Samhita, Sutrasthana 26",
     "teaching": "In this chapter of the old Ayurveda book called the Charaka Samhita, sages argue about how many tastes there are. They agree on six: sweet, sour, salty, pungent, bitter and astringent. The Sanskrit word for sour is amla.",
     "link": "Long before chemistry, people knew that sour was a taste of its own. The Latin word acidus also means sour, and that is where the word acid comes from. Bases often taste bitter, and bitter is another of the six tastes. So people were using their tongues as a simple tester for acids long before indicators were found.",
-    "verse": ["षडेव रसा इत्युवाच भगवानात्रेयः पुनर्वसुः मधुराम्ललवणकटुतिक्तकषायाः"],
+    "verse": [
+     "षडेव रसा इत्युवाच भगवानात्रेयः पुनर्वसुः मधुराम्ललवणकटुतिक्तकषायाः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, a Greek thinker of about 500 BCE, fragment 60 (Diels-Kranz numbering)",
     "teaching": "The road up and the road down are one and the same road.",
     "link": "Spoons of lemon move cabbage water towards pink. Spoons of soda move it towards green. It is the same line, travelled in two directions.",
-    "verse": ["ὁδὸς ἄνω κάτω μία καὶ ωὑτή"],
+    "verse": [
+     "ὁδὸς ἄνω κάτω μία καὶ ωὑτή"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2798,5 +2833,117 @@
   "when": "1675 (Lémery's Cours de Chymie) and 1884 (Arrhenius's work on charged particles in water)",
   "wrong_idea": "Lémery thought acids taste sour because their particles have sharp spikes, and that acids and alkalis fizz because the spikes break in the alkali's holes. Chemists found instead that all acids contain hydrogen, and Arrhenius showed that acids give out charged hydrogen particles in water, which join with a base's particles to make water."
  },
- "warm": {"words": ["ACIDS", "BASES", "LEMON", "SOAPY", "TASTE"], "quiz": [["Lemon and vinegar taste sour because they contain acids.", true, "Sour foods hold acids, such as citric acid in lemon and acetic acid in vinegar."], ["All acids are dangerous to touch or eat.", false, "We eat weak acids every day in curd, tamarind and tomato. Only strong acids burn."], ["Strong bases can burn skin as badly as strong acids.", true, "Chuna and drain cleaner are strong bases and can hurt skin and eyes."], ["Tasting a liquid is a safe way to tell an acid from a base.", false, "Strong acids and bases burn the mouth. Red cabbage water is a safe way to tell them apart."], ["Plain water leaves red cabbage water purple.", true, "Plain water is neutral, neither acid nor base, so the colour does not change."], ["Red cabbage water turns pink in soap solution.", false, "Soap is a base, so it turns the cabbage water blue or green. Pink means an acid."], ["Mixing an acid and a base uses up some of each and moves the mixture towards neutral.", true, "The acid and the base react with each other, which is called neutralising."], ["On the pH scale, 7 is the strongest acid.", false, "Seven is neutral. Lower numbers are stronger acids and higher numbers are stronger bases."], ["Drinking lemon water does not change how acidic your blood is.", true, "The body keeps blood very close to pH 7.4, whatever a person eats or drinks."], ["Acids taste sour because their particles have sharp spikes that prick the tongue.", false, "No spikes were ever found. Every acid gives out tiny charged hydrogen particles in water."]], "odd": [[["Lemon", "Vinegar", "Tamarind", "Soap"], "Soap", "Lemon, vinegar and tamarind are sour because of acids. Soap is a base and feels slippery."], [["Red cabbage water", "pH paper", "Universal indicator", "Lemon juice"], "Lemon juice", "The first three change colour to show acid or base. Lemon juice is something being tested, not a tester."], [["Drain cleaner", "Chuna", "Battery acid", "Curd"], "Curd", "The first three are strong and can burn skin. Curd holds only a weak acid and is safe to eat."], [["pH 2", "pH 4", "pH 6", "pH 9"], "pH 9", "Numbers below 7 are acids. Nine is above 7, so it is a base."], [["Soap and vinegar", "Cooking soda and lemon", "Chuna and tamarind", "Salt and water"], "Salt and water", "The first three mix an acid with a base, so they use each other up. Salt and water are neither."]]}
+ "warm": {
+  "words": [
+   "ACIDS",
+   "BASES",
+   "LEMON",
+   "SOAPY",
+   "TASTE"
+  ],
+  "quiz": [
+   [
+    "Lemon and vinegar taste sour because they contain acids.",
+    true,
+    "Sour foods hold acids, such as citric acid in lemon and acetic acid in vinegar."
+   ],
+   [
+    "All acids are dangerous to touch or eat.",
+    false,
+    "We eat weak acids every day in curd, tamarind and tomato. Only strong acids burn."
+   ],
+   [
+    "Strong bases can burn skin as badly as strong acids.",
+    true,
+    "Chuna and drain cleaner are strong bases and can hurt skin and eyes."
+   ],
+   [
+    "Tasting a liquid is a safe way to tell an acid from a base.",
+    false,
+    "Strong acids and bases burn the mouth. Red cabbage water is a safe way to tell them apart."
+   ],
+   [
+    "Plain water leaves red cabbage water purple.",
+    true,
+    "Plain water is neutral, neither acid nor base, so the colour does not change."
+   ],
+   [
+    "Red cabbage water turns pink in soap solution.",
+    false,
+    "Soap is a base, so it turns the cabbage water blue or green. Pink means an acid."
+   ],
+   [
+    "Mixing an acid and a base uses up some of each and moves the mixture towards neutral.",
+    true,
+    "The acid and the base react with each other, which is called neutralising."
+   ],
+   [
+    "On the pH scale, 7 is the strongest acid.",
+    false,
+    "Seven is neutral. Lower numbers are stronger acids and higher numbers are stronger bases."
+   ],
+   [
+    "Drinking lemon water does not change how acidic your blood is.",
+    true,
+    "The body keeps blood very close to pH 7.4, whatever a person eats or drinks."
+   ],
+   [
+    "Acids taste sour because their particles have sharp spikes that prick the tongue.",
+    false,
+    "No spikes were ever found. Every acid gives out tiny charged hydrogen particles in water."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Lemon",
+     "Vinegar",
+     "Tamarind",
+     "Soap"
+    ],
+    "Soap",
+    "Lemon, vinegar and tamarind are sour because of acids. Soap is a base and feels slippery."
+   ],
+   [
+    [
+     "Red cabbage water",
+     "pH paper",
+     "Universal indicator",
+     "Lemon juice"
+    ],
+    "Lemon juice",
+    "The first three change colour to show acid or base. Lemon juice is something being tested, not a tester."
+   ],
+   [
+    [
+     "Drain cleaner",
+     "Chuna",
+     "Battery acid",
+     "Curd"
+    ],
+    "Curd",
+    "The first three are strong and can burn skin. Curd holds only a weak acid and is safe to eat."
+   ],
+   [
+    [
+     "pH 2",
+     "pH 4",
+     "pH 6",
+     "pH 9"
+    ],
+    "pH 9",
+    "Numbers below 7 are acids. Nine is above 7, so it is a base."
+   ],
+   [
+    [
+     "Soap and vinegar",
+     "Cooking soda and lemon",
+     "Chuna and tamarind",
+     "Salt and water"
+    ],
+    "Salt and water",
+    "The first three mix an acid with a base, so they use each other up. Salt and water are neither."
+   ]
+  ]
+ }
 }

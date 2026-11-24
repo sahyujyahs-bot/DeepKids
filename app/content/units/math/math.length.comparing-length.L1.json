@@ -113,7 +113,16 @@
     "A train has a great length. A matchstick has a small length.",
     "The length of a string is from one tip to the other tip, when the string is pulled straight."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A thing has one length, and moving it does not change it."
+    },
+    {
+     "who": "Einstein's physics",
+     "explanation": "Length depends on how fast you move compared with the thing. At speeds near the speed of light, a moving thing is measured shorter. At everyday speeds the change is far too small to notice."
+    }
+   ],
    "art": "A child's finger sliding along a pencil from the flat end to the tip, with a dotted line showing the path.",
    "chart": {
     "type": "strip",
@@ -159,7 +168,8 @@
       "width": 60
      }
     ]
-   }
+   },
+   "one_view": "\"Longer, shorter, the same length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "The start-line rule",
@@ -189,7 +199,8 @@
      }
     ],
     "title": "Both start at the same line"
-   }
+   },
+   "one_view": "\"The start-line rule\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Moving a thing does not change its length",
@@ -218,7 +229,8 @@
      }
     ],
     "title": "The two straws, lined up again"
-   }
+   },
+   "one_view": "\"Moving a thing does not change its length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A bend hides length",
@@ -248,7 +260,8 @@
      }
     ],
     "title": "After the string is pulled straight"
-   }
+   },
+   "one_view": "\"A bend hides length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Tall, long and high",
@@ -278,7 +291,8 @@
      }
     ],
     "title": "One pencil, standing up and lying down"
-   }
+   },
+   "one_view": "\"Tall, long and high\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Shortest to longest: putting things in order",
@@ -323,7 +337,8 @@
      }
     ],
     "title": "A staircase, shortest to longest"
-   }
+   },
+   "one_view": "\"Shortest to longest: putting things in order\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Long compared with what?",
@@ -336,7 +351,16 @@
     "An old story is told about Birbal. He was asked to make a line shorter without touching it. He drew a longer line beside it.",
     "A long plait for a child of six would be a short plait for her grandmother."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday speech",
+     "explanation": "Long and short depend on what you compare with: a pencil is long next to a pin and short next to a ruler."
+    },
+    {
+     "who": "People who made measuring units",
+     "explanation": "Many cultures measured with the body, such as the hand-width, the forearm (hasta in India) and the finger-width (angula). Today we agree on the metre, so a length means the same to everyone."
+    }
+   ],
    "art": "A pencil lying between a small eraser on one side and a long broom on the other.",
    "chart": {
     "type": "strip",
@@ -392,7 +416,8 @@
      }
     ],
     "title": "The string matches the table"
-   }
+   },
+   "one_view": "\"A string can carry a length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Your eyes can be fooled",
@@ -405,7 +430,16 @@
     "The way round the rim of a tumbler is longer than the tumbler is tall. Most people guess the other way.",
     "This is why a carpenter measures and does not trust a look."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Some vision scientists",
+     "explanation": "The upright line looks longer because the brain reads up and down as depth or distance, and stretches it."
+    },
+    {
+     "who": "Other vision scientists",
+     "explanation": "The cause is the shape of our field of view and the way our eyes move. Scientists do not yet agree which explanation is right, or whether several work together."
+    }
+   ],
    "art": "An upside-down T drawn on paper, with a piece of string lying along the standing line and another along the flat line.",
    "chart": {
     "type": "strip",
@@ -435,7 +469,16 @@
     "With stilts, the same number of steps took the ants about 15 metres.",
     "Later, ants who had walked out and back on stilts found the nest correctly."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Researchers Wittlinger, Wehner and Wolf",
+     "explanation": "Desert ants measure distance by counting their own steps. Ants with longer legs on stilts walked too far, and ants with shortened legs stopped short."
+    },
+    {
+     "who": "Human measuring",
+     "explanation": "We use a ruler outside the body that is the same for everyone. The ant's ruler is inside its body."
+    }
+   ],
    "art": "A long-legged desert ant on tiny stilts walking along a sandy channel past a small hole marked as her nest.",
    "chart": {
     "type": "strip",

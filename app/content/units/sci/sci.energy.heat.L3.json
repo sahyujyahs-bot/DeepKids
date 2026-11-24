@@ -94,7 +94,16 @@
     "A healthy body is about 37 °C inside.",
     "Hot tea or filter coffee is often about 60 to 65 °C."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Anders Celsius (1742)",
+     "explanation": "Set 0 and 100 between freezing and boiling water, at first the other way round."
+    },
+    {
+     "who": "Fahrenheit and Kelvin",
+     "explanation": "Fahrenheit's scale is still used in some countries. The Kelvin scale starts at the lowest possible temperature, which scientists use."
+    }
+   ],
    "art": "A tall thermometer with labels beside it: a freezer at minus 18, ice at 0, a fridge at 4, a room at 30, a child at 37, tea at 60, boiling water at 100.",
    "context": "This card explains what a temperature number means."
   },
@@ -110,7 +119,8 @@
    ],
    "perspectives": [],
    "art": "A thermometer bulb in hot water, with a zoomed-in picture of the narrow tube and the red liquid creeping up it.",
-   "context": "This card explains why the red line moves, and why you must wait before reading it."
+   "context": "This card explains why the red line moves, and why you must wait before reading it.",
+   "one_view": "\"How a liquid thermometer works\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Two kinds of thermometer",
@@ -124,7 +134,8 @@
    ],
    "perspectives": [],
    "art": "A short white digital fever thermometer and a long glass laboratory thermometer lying side by side, with their ranges written underneath.",
-   "context": "This card explains why a fever thermometer will not work for the experiments in this lesson."
+   "context": "This card explains why a fever thermometer will not work for the experiments in this lesson.",
+   "one_view": "\"Two kinds of thermometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Heat moves from warmer to cooler",
@@ -138,7 +149,8 @@
    ],
    "perspectives": [],
    "art": "A table with a hot tumbler and a cold tumbler, red arrows going out of the hot one into the air and from the air into the cold one, and a thermometer on the wall.",
-   "context": "This card explains the hot and cold tumbler test: why both tumblers end up at room temperature."
+   "context": "This card explains the hot and cold tumbler test: why both tumblers end up at room temperature.",
+   "one_view": "\"Heat moves from warmer to cooler\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Cold is less heat",
@@ -150,7 +162,16 @@
     "A room gets cold on a winter night because its heat leaks out through windows and walls.",
     "A steel tumbler of fridge water feels cold because heat is leaving your fingers."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Cold is a real quality, opposite to hot."
+    },
+    {
+     "who": "Modern physics",
+     "explanation": "There is only more or less heat energy. Cold is just less of it."
+    }
+   ],
    "art": "A child holding an ice cube, with red arrows going from the palm into the ice, and a drop running down the wrist.",
    "context": "This card explains why there is no such thing as cold flowing into something."
   },
@@ -164,7 +185,16 @@
     "Rubbing your palms makes their particles jiggle faster, so they get warm.",
     "The smell of hot sambar spreads faster than the smell of cold curd."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Caloric theory (Lavoisier)",
+     "explanation": "Heat is a weightless fluid that flows from hot to cold things."
+    },
+    {
+     "who": "Rumford, Joule and later physicists",
+     "explanation": "Rumford saw drilling cannons make endless heat, and Joule measured it. Heat is the motion of particles, and the fluid does not exist."
+    }
+   ],
    "art": "A zoomed-in circle where a hot water particle with long wiggle lines bumps a steel particle with short wiggle lines, and the steel particle starts to wiggle more.",
    "context": "This card explains what is happening inside a thing when it gets hotter, and when heat moves."
   },
@@ -180,7 +210,8 @@
    ],
    "perspectives": [],
    "art": "A small katori of hot water with a big ice cube still mostly there, next to a big bucket of warm water where the same ice cube has melted away.",
-   "context": "This card explains why 'hot' and 'a lot of heat' are different."
+   "context": "This card explains why 'hot' and 'a lot of heat' are different.",
+   "one_view": "\"Heat and temperature are not the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why your hand is not a thermometer",
@@ -194,7 +225,8 @@
    ],
    "perspectives": [],
    "art": "Two hands in the same middle bowl, one with a little blue 'cold?' bubble and one with a little red 'warm?' bubble, and a thermometer in the bowl showing one number.",
-   "context": "This card explains the two-hands bowl test, and why we need a thermometer."
+   "context": "This card explains the two-hands bowl test, and why we need a thermometer.",
+   "one_view": "\"Why your hand is not a thermometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -2703,14 +2735,19 @@
     "source": "Bhagavad Gita 2.14",
     "teaching": "Krishna tells Arjuna that cold and heat, pleasure and pain, come from the senses touching things. They come and go, and do not last, so bear them calmly.",
     "link": "In the two-hands bowl test, the feeling of warm or cold came from your skin touching the water, and it changed when your hands changed. The thermometer gave one steady number.",
-    "verse": ["मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।", "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"],
+    "verse": [
+     "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।",
+     "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 77",
     "teaching": "The way of heaven takes from what has too much and gives to what has too little.",
     "link": "Heat does exactly this. It moves from the hotter thing to the cooler one until neither has more. Laozi wrote that people often do the opposite.",
-    "verse": ["天之道，損有餘而補不足。"],
+    "verse": [
+     "天之道，損有餘而補不足。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2747,5 +2784,117 @@
   "when": "1790 (Pictet's mirrors and snow) and 1791 (Prévost's explanation)",
   "wrong_idea": "When snow in front of a mirror made a distant thermometer fall, it seemed that cold was a thing that could travel. Prévost showed that the thermometer was simply losing more heat to the snow than it got back."
  },
- "warm": {"words": ["WATER", "WARMS", "COOLS", "BOILS", "STEAM"], "quiz": [["Two things that touch for long enough end up at the same temperature.", true, "Heat keeps moving until both things are equally warm."], ["Heat can move by itself from a cooler thing to a warmer thing.", false, "By itself, heat only moves from warmer things to cooler ones."], ["The hotter a thing is, the faster its tiny particles jiggle.", true, "Temperature tells how fast the particles jiggle, on average."], ["A clinical thermometer is good for measuring boiling water.", false, "It reads only about 32 to 42 degrees Celsius, so it is made for bodies."], ["A cold thing is a thing that has less heat.", true, "Cold is not something that flows; it just means less heat."], ["A cup of hot water holds more heat than a whole bucket of warm water.", false, "How much heat water holds depends on how much water there is, as well as how hot it is. A bucket of warm water holds more than a cup of hot water."], ["The liquid in a thermometer climbs the tube because it expands when it warms.", true, "Warmer liquid takes up more space, so it rises in the narrow tube."], ["A tumbler of cold water in a warm room stays as cold as it began.", false, "Heat moves from the warm room into the water until both are at room temperature."], ["The same water can feel warm to one hand and cold to the other.", true, "Skin feels warming or cooling, so a hand is not a fair thermometer."], ["To measure water, the thermometer bulb can hang in the air above it.", false, "The bulb must touch the water so heat can move between them."]], "odd": [[["hot tea", "fresh roti", "boiling water", "ice cube"], "ice cube", "Hot tea, roti and boiling water cool in a room; an ice cube gains heat and warms."], [["body temperature", "fever", "37 degrees", "boiling water"], "boiling water", "A clinical thermometer reads about 32 to 42 degrees, so it cannot read boiling water."], [["bulb", "narrow tube", "liquid", "battery"], "battery", "A liquid thermometer has a bulb, a narrow tube and liquid; no battery is needed."], [["liquid thermometer", "clinical thermometer", "lab thermometer", "your hand"], "your hand", "The first three give a number for temperature; a hand only feels warming or cooling."], [["heat leaving tea", "heat entering ice", "heat reaching air", "cold entering hand"], "cold entering hand", "Heat moves from warm to cool things; cold does not flow, a cold thing just has less heat."]]}
+ "warm": {
+  "words": [
+   "WATER",
+   "WARMS",
+   "COOLS",
+   "BOILS",
+   "STEAM"
+  ],
+  "quiz": [
+   [
+    "Two things that touch for long enough end up at the same temperature.",
+    true,
+    "Heat keeps moving until both things are equally warm."
+   ],
+   [
+    "Heat can move by itself from a cooler thing to a warmer thing.",
+    false,
+    "By itself, heat only moves from warmer things to cooler ones."
+   ],
+   [
+    "The hotter a thing is, the faster its tiny particles jiggle.",
+    true,
+    "Temperature tells how fast the particles jiggle, on average."
+   ],
+   [
+    "A clinical thermometer is good for measuring boiling water.",
+    false,
+    "It reads only about 32 to 42 degrees Celsius, so it is made for bodies."
+   ],
+   [
+    "A cold thing is a thing that has less heat.",
+    true,
+    "Cold is not something that flows; it just means less heat."
+   ],
+   [
+    "A cup of hot water holds more heat than a whole bucket of warm water.",
+    false,
+    "How much heat water holds depends on how much water there is, as well as how hot it is. A bucket of warm water holds more than a cup of hot water."
+   ],
+   [
+    "The liquid in a thermometer climbs the tube because it expands when it warms.",
+    true,
+    "Warmer liquid takes up more space, so it rises in the narrow tube."
+   ],
+   [
+    "A tumbler of cold water in a warm room stays as cold as it began.",
+    false,
+    "Heat moves from the warm room into the water until both are at room temperature."
+   ],
+   [
+    "The same water can feel warm to one hand and cold to the other.",
+    true,
+    "Skin feels warming or cooling, so a hand is not a fair thermometer."
+   ],
+   [
+    "To measure water, the thermometer bulb can hang in the air above it.",
+    false,
+    "The bulb must touch the water so heat can move between them."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "hot tea",
+     "fresh roti",
+     "boiling water",
+     "ice cube"
+    ],
+    "ice cube",
+    "Hot tea, roti and boiling water cool in a room; an ice cube gains heat and warms."
+   ],
+   [
+    [
+     "body temperature",
+     "fever",
+     "37 degrees",
+     "boiling water"
+    ],
+    "boiling water",
+    "A clinical thermometer reads about 32 to 42 degrees, so it cannot read boiling water."
+   ],
+   [
+    [
+     "bulb",
+     "narrow tube",
+     "liquid",
+     "battery"
+    ],
+    "battery",
+    "A liquid thermometer has a bulb, a narrow tube and liquid; no battery is needed."
+   ],
+   [
+    [
+     "liquid thermometer",
+     "clinical thermometer",
+     "lab thermometer",
+     "your hand"
+    ],
+    "your hand",
+    "The first three give a number for temperature; a hand only feels warming or cooling."
+   ],
+   [
+    [
+     "heat leaving tea",
+     "heat entering ice",
+     "heat reaching air",
+     "cold entering hand"
+    ],
+    "cold entering hand",
+    "Heat moves from warm to cool things; cold does not flow, a cold thing just has less heat."
+   ]
+  ]
+ }
 }

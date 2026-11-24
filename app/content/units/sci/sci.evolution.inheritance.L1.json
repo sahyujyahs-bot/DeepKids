@@ -58,7 +58,8 @@
    ],
    "perspectives": [],
    "context": "This card says that all people are alike in many ways, and that each person is also different.",
-   "art": "A row of five children of different heights, skin colours and hair, all holding hands and laughing."
+   "art": "A row of five children of different heights, skin colours and hair, all holding hands and laughing.",
+   "one_view": "\"We are similar, and we are different\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Children inherit features from both parents",
@@ -70,7 +71,20 @@
     "A boy with curly hair may have two parents with straight hair, and a grandmother with curls.",
     "A mango stone grows into a mango tree, never a neem tree."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "The father gives the form and the mother only the material."
+    },
+    {
+     "who": "Charaka and Sushruta (Ayurveda)",
+     "explanation": "Said both parents give to the child, and described features coming from both."
+    },
+    {
+     "who": "Mendel and later geneticists",
+     "explanation": "Showed in peas, then in DNA, that each parent gives one half of the instructions."
+    }
+   ],
    "context": "This card says how children get features from their parents.",
    "art": "A mother, a father and a daughter in a row. A dotted line joins the mother's dimple to the girl's dimple, and another joins the father's eyebrows to the girl's eyebrows."
   },
@@ -84,7 +98,16 @@
     "Kittens from one mother cat can be black, ginger, white or patchy.",
     "Twin sisters who look the same can have a different number of moles, and different favourite foods."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Mendel's idea",
+     "explanation": "Each child gets a different shuffle of the parents' instructions."
+    },
+    {
+     "who": "Researchers on nature and nurture",
+     "explanation": "Growing, food, sickness and learning also shape a person. How much comes from instructions and how much from life is still argued."
+    }
+   ],
    "context": "This card says why brothers and sisters, and peas from one pod, are not exactly the same.",
    "art": "A mother cat lying with four kittens of different colours: one black, one ginger, one white and one patchy."
   },
@@ -100,7 +123,8 @@
    ],
    "perspectives": [],
    "context": "This card says how a seed or a cut stem grows into a plant like the parent.",
-   "art": "A pea plant with white flowers and green pods climbing a stick in a pot, with a split pea beside the pot showing the tiny baby plant inside."
+   "art": "A pea plant with white flowers and green pods climbing a stick in a pot, with a split pea beside the pot showing the tiny baby plant inside.",
+   "one_view": "\"A seed carries the parent plant's features\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [
@@ -1700,14 +1724,20 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Shvetaketu sees nothing inside. Uddalaka tells him that the whole great banyan tree grows from that fine, unseen thing.",
     "link": "A pea looks small and plain. Yet everything needed to grow a whole pea plant, like the parent, is inside that one pea.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 68",
     "teaching": "When children grow wiser than their parents, it brings joy to everyone in the world.",
     "link": "A child is not only a copy of the parents. Each child is someone new, who may one day know more than their parents do.",
-    "verse": ["தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து", "மன்னுயிர்க் கெல்லாம் இனிது."],
+    "verse": [
+     "தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து",
+     "மன்னுயிர்க் கெல்லாம் இனிது."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -1747,5 +1777,117 @@
   "art": "A monk in a dark robe in a walled garden, gently brushing pollen onto a pea flower, with rows of tall and short pea plants on sticks behind him."
  },
  "playtest": "Walked through as a parent and child in a flat. The pod test needs only five fresh pea or bean pods, paper and a pencil, and the 25 minutes add up; the mint project's 18 minutes and four day-visits match its schedule. I counted every printable (5 feature cards, 2 parents, 4 baby boxes, 16 call cards) and played both games with 2 players and with 4. Fixed: a brand-name creature renamed Gumbi, coin and crayons added to the game materials, a safety line about a bottle that was never used removed, mint compared with the same bunch, the garbled how-we-found-out heading, the unfinished video notes and song note, a file path in the sources, a fourth repeat of the haircut question (now humans are animals), and the claim that pea size comes from food, now said as 'may'.",
- "warm": {"words": ["CHILD", "ALIKE", "SEEDS", "CURLS", "TWINS"], "quiz": [["A child gets features from both the mother and the father.", true, "Features come from both parents, so a child can be like each of them."], ["A child is always in the middle, like two paints mixed together.", false, "Features do not blend, and a child can be tall like one parent."], ["A child can only look like their mother or their father.", false, "A feature can hide in a parent and show up in a child, like a grandmother's curls."], ["A mango seed grows into a mango tree, never a neem tree.", true, "A seed grows into the same kind of plant as the parent plant."], ["Brothers and sisters get exactly the same mix from their parents.", false, "Each gets a different mix, so they are alike in some ways and different in others."], ["No two people are exactly the same, not even twins.", true, "Everyone grows in their own way, so each person is someone new."], ["Peas from one pod are all exactly the same size.", false, "They come from one plant, but each pea grows in their own way."], ["All people are alike in some ways and different in others.", true, "We all have two eyes, but each face is different."], ["A kitten can be born to a dog mother.", false, "A living being always comes from parents of the same kind."], ["You get your features from your parents before you are born.", true, "Inheriting means getting a feature from your parents before birth."]], "odd": [[["Eye colour", "Curly hair", "Nose shape", "Scar from a fall"], "Scar from a fall", "The first three are features you get from your parents; a scar comes from something that happens to you later."], [["Green colour", "Round shape", "Same parent plant", "Same size"], "Same size", "Peas from one pod share colour, shape and parent plant, but each pea grows to their own size."], [["Two eyes", "Two ears", "A nose", "Curly hair"], "Curly hair", "All people have eyes, ears and a nose, but only some people have curly hair."], [["Cow and calf", "Hen and chick", "Dog and puppy", "Cat and chick"], "Cat and chick", "A baby always comes from parents of the same kind, and a chick is not a cat's baby."], [["Mango seed", "Pea seed", "Rice grain", "Small pebble"], "Small pebble", "A seed holds what grows into a plant like the parent plant, but a pebble is not alive."]]}
+ "warm": {
+  "words": [
+   "CHILD",
+   "ALIKE",
+   "SEEDS",
+   "CURLS",
+   "TWINS"
+  ],
+  "quiz": [
+   [
+    "A child gets features from both the mother and the father.",
+    true,
+    "Features come from both parents, so a child can be like each of them."
+   ],
+   [
+    "A child is always in the middle, like two paints mixed together.",
+    false,
+    "Features do not blend, and a child can be tall like one parent."
+   ],
+   [
+    "A child can only look like their mother or their father.",
+    false,
+    "A feature can hide in a parent and show up in a child, like a grandmother's curls."
+   ],
+   [
+    "A mango seed grows into a mango tree, never a neem tree.",
+    true,
+    "A seed grows into the same kind of plant as the parent plant."
+   ],
+   [
+    "Brothers and sisters get exactly the same mix from their parents.",
+    false,
+    "Each gets a different mix, so they are alike in some ways and different in others."
+   ],
+   [
+    "No two people are exactly the same, not even twins.",
+    true,
+    "Everyone grows in their own way, so each person is someone new."
+   ],
+   [
+    "Peas from one pod are all exactly the same size.",
+    false,
+    "They come from one plant, but each pea grows in their own way."
+   ],
+   [
+    "All people are alike in some ways and different in others.",
+    true,
+    "We all have two eyes, but each face is different."
+   ],
+   [
+    "A kitten can be born to a dog mother.",
+    false,
+    "A living being always comes from parents of the same kind."
+   ],
+   [
+    "You get your features from your parents before you are born.",
+    true,
+    "Inheriting means getting a feature from your parents before birth."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Eye colour",
+     "Curly hair",
+     "Nose shape",
+     "Scar from a fall"
+    ],
+    "Scar from a fall",
+    "The first three are features you get from your parents; a scar comes from something that happens to you later."
+   ],
+   [
+    [
+     "Green colour",
+     "Round shape",
+     "Same parent plant",
+     "Same size"
+    ],
+    "Same size",
+    "Peas from one pod share colour, shape and parent plant, but each pea grows to their own size."
+   ],
+   [
+    [
+     "Two eyes",
+     "Two ears",
+     "A nose",
+     "Curly hair"
+    ],
+    "Curly hair",
+    "All people have eyes, ears and a nose, but only some people have curly hair."
+   ],
+   [
+    [
+     "Cow and calf",
+     "Hen and chick",
+     "Dog and puppy",
+     "Cat and chick"
+    ],
+    "Cat and chick",
+    "A baby always comes from parents of the same kind, and a chick is not a cat's baby."
+   ],
+   [
+    [
+     "Mango seed",
+     "Pea seed",
+     "Rice grain",
+     "Small pebble"
+    ],
+    "Small pebble",
+    "A seed holds what grows into a plant like the parent plant, but a pebble is not alive."
+   ]
+  ]
+ }
 }

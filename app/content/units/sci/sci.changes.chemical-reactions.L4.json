@@ -120,7 +120,16 @@
     "Candle wax + oxygen → carbon dioxide + water.",
     "Milk turns to curd when bacteria change the milk sugar into an acid."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Indian rasashastra (alchemy) and early chemists",
+     "explanation": "Studied how mercury, metals and minerals turn into new substances, and wrote down careful methods."
+    },
+    {
+     "who": "Lavoisier and modern chemistry",
+     "explanation": "A reaction is atoms regrouped into new substances, and the total mass stays the same."
+    }
+   ],
    "art": "A word equation drawn with pictures: a nail, a cloud labelled oxygen and a water drop on the left of an arrow, and a heap of brown rust on the right."
   },
   {
@@ -134,7 +143,16 @@
     "A sheet of paper torn into pieces is still paper.",
     "Water boils into steam, and steam turns back into water on a cool lid."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Most school books",
+     "explanation": "Dissolving salt in water is a physical change, because you can get the salt back."
+    },
+    {
+     "who": "Mendeleev's view in the 1800s",
+     "explanation": "Thought dissolving is partly chemical, as salt joins with water. Arrhenius and van't Hoff said it is a physical split into charged particles. The line between physical and chemical is not always sharp."
+    }
+   ],
    "art": "An ice cube, a puddle and a wisp of steam in a row, all labelled 'water'."
   },
   {
@@ -148,7 +166,8 @@
     "Fruit salt fizzes in water because it holds baking soda and a dry acid together."
    ],
    "perspectives": [],
-   "art": "A tumbler of fizzing liquid with three labelled arrows coming out: bubbles labelled carbon dioxide, a drop labelled water and a few crystals labelled sodium acetate."
+   "art": "A tumbler of fizzing liquid with three labelled arrows coming out: bubbles labelled carbon dioxide, a drop labelled water and a few crystals labelled sodium acetate.",
+   "one_view": "\"What the fizz of vinegar and baking soda makes\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Five signs of a reaction, and why a sign is only a clue",
@@ -162,7 +181,8 @@
     "Heat and light: a sparkler at Deepavali glows and gets very hot."
    ],
    "perspectives": [],
-   "art": "Five numbered pictures in a row: a fizzing cup, a cup of tea in two shades, a cup of milk with white lumps, a hand feeling a cool tumbler and a glowing sparkler."
+   "art": "Five numbered pictures in a row: a fizzing cup, a cup of tea in two shades, a cup of milk with white lumps, a hand feeling a cool tumbler and a glowing sparkler.",
+   "one_view": "\"Five signs of a reaction, and why a sign is only a clue\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Rusting: iron reacts with oxygen and water",
@@ -176,7 +196,8 @@
     "A stainless steel tumbler does not rust in the kitchen."
    ],
    "perspectives": [],
-   "art": "A cut-away drawing of a painted iron bar with a scratch in the paint, a water drop on the scratch and a patch of rust swelling up under the paint."
+   "art": "A cut-away drawing of a painted iron bar with a scratch in the paint, a water drop on the scratch and a patch of rust swelling up under the paint.",
+   "one_view": "\"Rusting: iron reacts with oxygen and water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A reaction rearranges atoms. It does not make or destroy them",
@@ -188,7 +209,16 @@
     "A bowl of vinegar and baking soda weighs a little less after the fizz, because carbon dioxide has left.",
     "Rust weighs more than the iron did, because oxygen atoms from the air have joined it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Kanada (Vaisheshika) and Democritus",
+     "explanation": "Taught long ago that everything is made of tiny parts (paramanu, atoms) that join and part."
+    },
+    {
+     "who": "John Dalton, 1800s",
+     "explanation": "Showed in numbers that atoms combine in fixed amounts and are not made or destroyed."
+    }
+   ],
    "art": "Two pairs of small balls and one pair of large balls on the left of an arrow, and on the right two groups, each of one large ball joined to two small balls."
   },
   {
@@ -203,7 +233,8 @@
     "Sour vinegar + baking soda → a gas, water and a salt that does not fizz."
    ],
    "perspectives": [],
-   "art": "A piece of silvery metal and a jar of green gas on the left of an arrow, and a small bowl of white table salt on the right."
+   "art": "A piece of silvery metal and a jar of green gas on the left of an arrow, and a small bowl of white table salt on the right.",
+   "one_view": "\"A new substance behaves unlike the substances that made it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Reactions give out heat or take heat in",
@@ -217,7 +248,8 @@
     "A leaf takes in sunlight to make sugar from carbon dioxide and water."
    ],
    "perspectives": [],
-   "art": "Two steel tumblers side by side, one fizzing with a small blue arrow pointing in and one still, with a child's hands reaching for both."
+   "art": "Two steel tumblers side by side, one fizzing with a small blue arrow pointing in and one still, with a child's hands reaching for both.",
+   "one_view": "\"Reactions give out heat or take heat in\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Living bodies run on chemical reactions",
@@ -229,7 +261,16 @@
     "Carbon dioxide + water → sugar + oxygen, in a leaf in sunlight.",
     "Idli batter rises overnight because tiny living beings in the batter make carbon dioxide."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Vitalism, held by Berzelius and others",
+     "explanation": "A living body has a special life force that ordinary chemistry cannot make."
+    },
+    {
+     "who": "Friedrich Wöhler (1828) and later chemists",
+     "explanation": "Made urea, a substance of the body, from non-living chemicals. Biochemistry then showed that life is made of chemical reactions, though how the whole becomes alive is still asked."
+    }
+   ],
    "art": "A child breathing out beside a potted tulsi in sunlight, with a small arrow labelled carbon dioxide going from the child to the leaves and one labelled oxygen coming back."
   },
   {
@@ -243,7 +284,8 @@
     "Water molecules have been found in clouds of gas between the stars."
    ],
    "perspectives": [],
-   "art": "The red planet Mars in a dark sky, with a small inset picture of a rusty nail lying on red-brown dust."
+   "art": "The red planet Mars in a dark sky, with a small inset picture of a rusty nail lying on red-brown dust.",
+   "one_view": "\"Reactions on the Earth and far beyond it\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   }
  ],
  "agreed": [

@@ -120,7 +120,8 @@
    ],
    "perspectives": [],
    "art": "A sequence of three bottles: a balloon that will not grow inside a sealed bottle, a small hole being made, and the balloon now filling the bottle.",
-   "context": "This card is about the first big idea of the unit: an 'empty' bottle or a 'full' glass of grain is full of air."
+   "context": "This card is about the first big idea of the unit: an 'empty' bottle or a 'full' glass of grain is full of air.",
+   "one_view": "\"Air takes up space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Air can be squashed",
@@ -134,7 +135,8 @@
    ],
    "perspectives": [],
    "art": "Two syringes side by side, with zoom-in circles: one with air particles far apart being pushed closer, one with water particles touching.",
-   "context": "This card is about why air can be squashed but water cannot."
+   "context": "This card is about why air can be squashed but water cannot.",
+   "one_view": "\"Air can be squashed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Air has weight",
@@ -146,7 +148,16 @@
     "A bottle of soda water gets a few grams lighter after it goes flat, because the gas has escaped.",
     "The column of air above every square centimetre of the ground, from the ground up to the top of the sky, weighs about 1 kilogram."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle and many after him",
+     "explanation": "Taught that air has no weight of its own, and said a blown-up bladder weighs the same as an empty one."
+    },
+    {
+     "who": "Galileo, Torricelli and later scientists",
+     "explanation": "Weighed air in a bottle and showed it has weight. Torricelli's barometer showed the weight of air pressing on everything."
+    }
+   ],
    "art": "A small bedroom drawn as a box, with a weighing scale beside it showing that the air inside weighs about the same as a child standing on another scale.",
    "context": "This card is about the weight of air: very light in a bottle, but heavy in a whole room."
   },
@@ -160,7 +171,16 @@
     "On a smoky day after Deepavali crackers, the air carries tiny bits of smoke as well as its gases.",
     "Divers carry air in tanks because they need its oxygen under water."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Ancient traditions",
+     "explanation": "Air is one of the basic elements, a single thing."
+    },
+    {
+     "who": "Priestley, Scheele and Lavoisier (1770s)",
+     "explanation": "Air is a mixture of different gases. One of them, oxygen, supports burning and breathing."
+    }
+   ],
    "art": "A pie chart of air with a large blue part for nitrogen, a smaller green part for oxygen, and a thin slice for argon, carbon dioxide and water vapour.",
    "context": "This card is about the gases that air is made of."
   },
@@ -174,7 +194,20 @@
     "You can stop eating for a day, but you can stop breathing only for a minute or so.",
     "Fish also need oxygen. Their gills take it from air that has dissolved in the water."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Breathing is how the body cools the heart, which he thought was the seat of heat."
+    },
+    {
+     "who": "Indian traditions",
+     "explanation": "Prana, the life-breath, enters the body with each breath."
+    },
+    {
+     "who": "Lavoisier and modern biology",
+     "explanation": "Cells use oxygen to release energy from food, and breathing carries away the carbon dioxide made."
+    }
+   ],
    "art": "A child with a see-through chest showing the windpipe and two lungs, arrows of air going in and out, and red blood vessels carrying oxygen to the arms and legs.",
    "context": "This card is about why we breathe, and what happens to the air inside us."
   },
@@ -188,7 +221,16 @@
     "Seeds need air to sprout. Seeds kept deep under water for days often fail to sprout.",
     "Gardeners make holes in the bottom of pots so that extra water drains away and air gets back into the soil."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Jan van Helmont (1600s)",
+     "explanation": "Thought a willow tree grew mostly from the water it was given."
+    },
+    {
+     "who": "Priestley and Ingenhousz (1770s)",
+     "explanation": "Showed plants change the air, and that they need light to do it. Plants make their food from air, water and light."
+    }
+   ],
    "art": "A potted plant drawn twice: in the day with big arrows of carbon dioxide going in and oxygen coming out, and at night with a small arrow of oxygen going in.",
    "context": "This card is about how plants take from and give to the air."
   },
@@ -204,7 +246,8 @@
    ],
    "perspectives": [],
    "art": "A cut-away drawing of a lotus plant in a pond, showing air moving down hollow tubes from the leaf, through the stalk, to the stem in the mud.",
-   "context": "This card is about plants whose roots live in mud, and how they get the air their roots need."
+   "context": "This card is about plants whose roots live in mud, and how they get the air their roots need.",
+   "one_view": "\"Plants whose roots live in mud\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Where the oxygen in the air came from",
@@ -214,7 +257,16 @@
     "Old rocks called banded iron formations have stripes of iron rust. Many of them formed when oxygen from tiny sea beings met iron in the sea water.",
     "Every breath you take holds oxygen that a plant or a tiny sea being once gave out."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Most geologists",
+     "explanation": "Tiny bacteria that use light (cyanobacteria) made oxygen. It built up in the air about 2.4 billion years ago."
+    },
+    {
+     "who": "Some researchers",
+     "explanation": "Found hints that small amounts of oxygen appeared earlier, and that it rose in steps. The exact timing is still being studied."
+    }
+   ],
    "art": "A timeline from an early Earth with orange skies and green mats of tiny sea life, to today's blue sky with forests and the sea full of plankton.",
    "context": "This card is about how the air came to have oxygen in it. The main story is agreed, but some numbers are still being worked out."
   }
@@ -2697,14 +2749,21 @@
     "source": "Tao Te Ching 11",
     "teaching": "Clay is shaped into a pot. But it is the empty space inside that makes the pot useful.",
     "link": "Lao Tzu called the inside of a pot empty. Our tests show that this space is filled with air. When we pour water in, the air must make way. In the Full Glass test, we saw the air come out as bubbles.",
-    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 4.3, the teaching of Raikva",
     "teaching": "Among the forces of the world, air takes everything into itself: when a fire goes out, it goes into the air. In a person, breath does the same.",
     "link": "The Upanishad sees air outside and breath inside as two forms of one thing. Science agrees that the air of the room and the air in our lungs are the same air, moving in and out.",
-    "verse": ["वायुर्वाव संवर्गः", "यदा वा अग्निरुद्वायति वायुमेवाप्येति", "यदा सूर्योऽस्तमेति वायुमेवाप्येति", "यदा चन्द्रोऽस्तमेति वायुमेवाप्येति"],
+    "verse": [
+     "वायुर्वाव संवर्गः",
+     "यदा वा अग्निरुद्वायति वायुमेवाप्येति",
+     "यदा सूर्योऽस्तमेति वायुमेवाप्येति",
+     "यदा चन्द्रोऽस्तमेति वायुमेवाप्येति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2751,5 +2810,117 @@
   "when": "About 450 BCE (the wine bags and the water thief), and the first century CE (Hero's book Pneumatica)",
   "wrong_idea": "Many people thought that a pot holding only air was empty, because air seemed to be nothing. The squeezed wine bags and the water thief showed that air is a real thing that takes up space and pushes back. The philosopher Aristotle wrote about these tests in his book Physics."
  },
- "warm": {"words": ["GASES", "SPACE", "PLANT", "LUNGS", "WEIGH"], "quiz": [["A balloon inside a sealed bottle cannot grow, because the bottle is already full of air.", true, "Air takes up space, so there is no room for the balloon until the air moves out."], ["Air weighs nothing, so a pumped football weighs the same as a flat one.", false, "Air has weight. One litre weighs about 1.2 grams, so a pumped football is a little heavier."], ["Air is a single gas called oxygen.", false, "Air is a mixture of gases. About four-fifths is nitrogen and about one-fifth is oxygen."], ["Air can be squashed into less space, but water hardly can.", true, "Air particles are far apart, so there is room to push them closer together."], ["A leaf has tiny holes called stomata that let air in and out.", true, "Plants need to take in air, and these holes are the doors for it."], ["Plants take in only carbon dioxide and never use any oxygen.", false, "Every living part of a plant uses oxygen to get energy from food, day and night."], ["The oxygen in our air was made by living things over a very long time.", true, "Tiny sea beings called cyanobacteria were the first to give out oxygen while making food."], ["A few pot plants can clean all the air in a room.", false, "Air leaks in and out of a room all the time, so far more plants would be needed."], ["Some water plants have hollow tubes that carry air down to roots in mud.", true, "Wet mud has very little air, so these plants bring air down to their roots."], ["The air we breathe out is exactly the same as the air we breathe in.", false, "Our cells use up oxygen and make carbon dioxide, so breathed-out air has less oxygen."]], "odd": [[["Air", "Oxygen", "Carbon dioxide", "Water"], "Water", "Air, oxygen and carbon dioxide are gases that squash easily. Water is a liquid and hardly squashes."], [["Air", "Water", "Stone", "Shadow"], "Shadow", "Air, water and stone are matter, so they take up space and have weight. A shadow is not matter."], [["Carbon dioxide", "Water", "Light", "Oxygen"], "Oxygen", "Plants use carbon dioxide, water and light to make food. They give out oxygen while doing it."], [["Lungs", "Leaf stomata", "Water-plant air tubes", "Stomach"], "Stomach", "Lungs, stomata and air tubes bring air into living things. The stomach deals with food."], [["Cyanobacteria", "Plants", "Algae", "Volcanoes"], "Volcanoes", "Cyanobacteria, plants and algae are living things that make food and give out oxygen. Volcanoes are not alive."]]}
+ "warm": {
+  "words": [
+   "GASES",
+   "SPACE",
+   "PLANT",
+   "LUNGS",
+   "WEIGH"
+  ],
+  "quiz": [
+   [
+    "A balloon inside a sealed bottle cannot grow, because the bottle is already full of air.",
+    true,
+    "Air takes up space, so there is no room for the balloon until the air moves out."
+   ],
+   [
+    "Air weighs nothing, so a pumped football weighs the same as a flat one.",
+    false,
+    "Air has weight. One litre weighs about 1.2 grams, so a pumped football is a little heavier."
+   ],
+   [
+    "Air is a single gas called oxygen.",
+    false,
+    "Air is a mixture of gases. About four-fifths is nitrogen and about one-fifth is oxygen."
+   ],
+   [
+    "Air can be squashed into less space, but water hardly can.",
+    true,
+    "Air particles are far apart, so there is room to push them closer together."
+   ],
+   [
+    "A leaf has tiny holes called stomata that let air in and out.",
+    true,
+    "Plants need to take in air, and these holes are the doors for it."
+   ],
+   [
+    "Plants take in only carbon dioxide and never use any oxygen.",
+    false,
+    "Every living part of a plant uses oxygen to get energy from food, day and night."
+   ],
+   [
+    "The oxygen in our air was made by living things over a very long time.",
+    true,
+    "Tiny sea beings called cyanobacteria were the first to give out oxygen while making food."
+   ],
+   [
+    "A few pot plants can clean all the air in a room.",
+    false,
+    "Air leaks in and out of a room all the time, so far more plants would be needed."
+   ],
+   [
+    "Some water plants have hollow tubes that carry air down to roots in mud.",
+    true,
+    "Wet mud has very little air, so these plants bring air down to their roots."
+   ],
+   [
+    "The air we breathe out is exactly the same as the air we breathe in.",
+    false,
+    "Our cells use up oxygen and make carbon dioxide, so breathed-out air has less oxygen."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Air",
+     "Oxygen",
+     "Carbon dioxide",
+     "Water"
+    ],
+    "Water",
+    "Air, oxygen and carbon dioxide are gases that squash easily. Water is a liquid and hardly squashes."
+   ],
+   [
+    [
+     "Air",
+     "Water",
+     "Stone",
+     "Shadow"
+    ],
+    "Shadow",
+    "Air, water and stone are matter, so they take up space and have weight. A shadow is not matter."
+   ],
+   [
+    [
+     "Carbon dioxide",
+     "Water",
+     "Light",
+     "Oxygen"
+    ],
+    "Oxygen",
+    "Plants use carbon dioxide, water and light to make food. They give out oxygen while doing it."
+   ],
+   [
+    [
+     "Lungs",
+     "Leaf stomata",
+     "Water-plant air tubes",
+     "Stomach"
+    ],
+    "Stomach",
+    "Lungs, stomata and air tubes bring air into living things. The stomach deals with food."
+   ],
+   [
+    [
+     "Cyanobacteria",
+     "Plants",
+     "Algae",
+     "Volcanoes"
+    ],
+    "Volcanoes",
+    "Cyanobacteria, plants and algae are living things that make food and give out oxygen. Volcanoes are not alive."
+   ]
+  ]
+ }
 }

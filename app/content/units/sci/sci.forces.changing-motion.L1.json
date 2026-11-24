@@ -57,7 +57,16 @@
     "A goalkeeper stops a ball by pushing against it with her hands.",
     "An auto starts when its engine pushes it, and stops when its brakes push against the turning wheels."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Things move only while something keeps pushing them."
+    },
+    {
+     "who": "Galileo and Newton",
+     "explanation": "A moving thing keeps moving by itself until a force changes it. Force is what changes motion."
+    }
+   ],
    "context": "This card is about the Tap Test, where you tapped a still ball and a rolling ball.",
    "art": "A still ball with a hand tapping it, and next to it a rolling ball meeting a flat hand that stops it."
   },
@@ -73,7 +82,8 @@
    ],
    "perspectives": [],
    "context": "This card says what you found in the Tap Test, when you tapped from behind and from the front.",
-   "art": "Two pictures: a ball with a tap from behind and a long arrow ahead, and a ball with a tap from the front and a short arrow ahead."
+   "art": "Two pictures: a ball with a tap from behind and a long arrow ahead, and a ball with a tap from the front and a short arrow ahead.",
+   "one_view": "\"The side of the push decides: faster or slower\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "A bigger push makes a bigger change",
@@ -87,7 +97,8 @@
    ],
    "perspectives": [],
    "context": "This card is about the Flick Test, where you flicked a bottle cap gently and hard.",
-   "art": "A tiled floor with a bottle cap near a child's fingers after a small flick, and another bottle cap far away after a big flick."
+   "art": "A tiled floor with a bottle cap near a child's fingers after a small flick, and another bottle cap far away after a big flick.",
+   "one_view": "\"A bigger push makes a bigger change\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
   },
   {
    "concept": "Why a rolling ball stops on its own",
@@ -99,7 +110,16 @@
     "A ceiling fan keeps turning for a while after you switch it off, then slowly stops.",
     "Out in space, far from air and floors, a moving thing keeps going for a very long time."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "A thrown thing stops because its push runs out."
+    },
+    {
+     "who": "Buridan, Galileo and Newton",
+     "explanation": "The ball slows because floor and air push against it. With no friction, it would roll on for ever."
+    }
+   ],
    "context": "This card answers why a ball stops when nobody touches it.",
    "art": "A ball rolling from shiny tiles onto a folded towel, and stopping on the towel."
   }
@@ -1853,7 +1873,9 @@
     "source": "Tao Te Ching 15",
     "teaching": "Who can make muddy water clear? Let it be still, and slowly it becomes clear. Who can bring stillness to life? Let it move, and slowly it comes alive.",
     "link": "In our tests, a rolling ball slowly became still, and a still ball began to roll with one tap.",
-    "verse": ["孰能濁以靜之徐清？"],
+    "verse": [
+     "孰能濁以靜之徐清？"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -1955,5 +1977,117 @@
   ]
  },
  "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a flat. Made both games finish with 2 or 4 players (a winner in Which Way to Push, caller turns in Cheetah, Snail, Statue) and moved the child out from under the ceiling fan. Added tile-size and uneven-flick notes to the Flick Test, and a balcony warning to Window Watch. Removed repeated worksheet and quiz questions and extra jokes, and introduced every made-up child at first mention. Second pass: took the extra duck out of the story to keep it short, made the pillow stand up so it can stop a ball, said what to do if the ball stops short of the line, wrote the game ending for ties and for two people, made the game picture match the text-only cards, replaced two applications and a mountain-road claim I could not check, made Lakshmi and Farhan friends, and swapped four weak jokes.",
- "warm": {"words": ["FORCE", "PULLS", "SPEED", "ROLLS", "STOPS"], "quiz": [["A push the same way a ball is moving makes it go faster.", true, "A push the same way adds to the movement, so the ball speeds up."], ["Hitting a moving ball always makes it go faster.", false, "A hit from the front slows the ball or stops it. Only a push the same way speeds it up."], ["A still ball starts moving only when something pushes or pulls it.", true, "A still thing needs a force, a push or a pull, to start moving."], ["A ball rolls further on a thick towel than on smooth tiles.", false, "The towel pushes against the ball more, so the ball slows down and stops sooner."], ["A bigger push makes a bigger change in speed.", true, "A small push changes the speed a little, and a big push changes it a lot."], ["A force can start a thing moving, but it cannot stop one.", false, "A force can start, stop, speed up or slow down a thing."], ["The floor and the air push against a rolling ball all the time.", true, "These small pushes are why a rolling ball slows down slowly."], ["Pulling a moving cart forward makes it slow down.", false, "A pull the same way the cart moves makes it go faster."], ["A pull is a force, just like a push.", true, "A force is a push or a pull, and both can change how things move."], ["A rolling ball stops all by itself, with nothing slowing it.", false, "Something outside the ball, the floor and the air, pushes against it and slows it."]], "odd": [[["Kick", "Rope pull", "Strong wind", "Shadow"], "Shadow", "A kick, a pull on a rope and a strong wind are pushes or pulls that can move things. A shadow cannot move anything."], [["Push from the front", "Push against the movement", "Tap from the front", "Push from behind"], "Push from behind", "The first three push against the movement and slow a ball down. A push from behind speeds it up."], [["Kick", "Pull", "Push", "Waiting"], "Waiting", "A kick, a pull and a push are forces that can start a still thing. Waiting is not a force."], [["Cheetah", "Jet plane", "Racing car", "Snail"], "Snail", "A cheetah, a jet plane and a racing car have a high speed. A snail has a very low speed."], [["Thick towel", "Grass", "Sand", "Smooth tile"], "Smooth tile", "A towel, grass and sand push hard against a rolling ball and stop it soon. Smooth tiles push only a little."]]}
+ "warm": {
+  "words": [
+   "FORCE",
+   "PULLS",
+   "SPEED",
+   "ROLLS",
+   "STOPS"
+  ],
+  "quiz": [
+   [
+    "A push the same way a ball is moving makes it go faster.",
+    true,
+    "A push the same way adds to the movement, so the ball speeds up."
+   ],
+   [
+    "Hitting a moving ball always makes it go faster.",
+    false,
+    "A hit from the front slows the ball or stops it. Only a push the same way speeds it up."
+   ],
+   [
+    "A still ball starts moving only when something pushes or pulls it.",
+    true,
+    "A still thing needs a force, a push or a pull, to start moving."
+   ],
+   [
+    "A ball rolls further on a thick towel than on smooth tiles.",
+    false,
+    "The towel pushes against the ball more, so the ball slows down and stops sooner."
+   ],
+   [
+    "A bigger push makes a bigger change in speed.",
+    true,
+    "A small push changes the speed a little, and a big push changes it a lot."
+   ],
+   [
+    "A force can start a thing moving, but it cannot stop one.",
+    false,
+    "A force can start, stop, speed up or slow down a thing."
+   ],
+   [
+    "The floor and the air push against a rolling ball all the time.",
+    true,
+    "These small pushes are why a rolling ball slows down slowly."
+   ],
+   [
+    "Pulling a moving cart forward makes it slow down.",
+    false,
+    "A pull the same way the cart moves makes it go faster."
+   ],
+   [
+    "A pull is a force, just like a push.",
+    true,
+    "A force is a push or a pull, and both can change how things move."
+   ],
+   [
+    "A rolling ball stops all by itself, with nothing slowing it.",
+    false,
+    "Something outside the ball, the floor and the air, pushes against it and slows it."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Kick",
+     "Rope pull",
+     "Strong wind",
+     "Shadow"
+    ],
+    "Shadow",
+    "A kick, a pull on a rope and a strong wind are pushes or pulls that can move things. A shadow cannot move anything."
+   ],
+   [
+    [
+     "Push from the front",
+     "Push against the movement",
+     "Tap from the front",
+     "Push from behind"
+    ],
+    "Push from behind",
+    "The first three push against the movement and slow a ball down. A push from behind speeds it up."
+   ],
+   [
+    [
+     "Kick",
+     "Pull",
+     "Push",
+     "Waiting"
+    ],
+    "Waiting",
+    "A kick, a pull and a push are forces that can start a still thing. Waiting is not a force."
+   ],
+   [
+    [
+     "Cheetah",
+     "Jet plane",
+     "Racing car",
+     "Snail"
+    ],
+    "Snail",
+    "A cheetah, a jet plane and a racing car have a high speed. A snail has a very low speed."
+   ],
+   [
+    [
+     "Thick towel",
+     "Grass",
+     "Sand",
+     "Smooth tile"
+    ],
+    "Smooth tile",
+    "A towel, grass and sand push hard against a rolling ball and stop it soon. Smooth tiles push only a little."
+   ]
+  ]
+ }
 }
