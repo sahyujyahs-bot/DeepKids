@@ -19,7 +19,7 @@ for uid, per in D.items():
             if len(ps) != len(d["perspectives"]): print("skipped a thin perspective in", uid, "/", x.get("concept"))
             if len(ps) >= 2: x["perspectives"] = ps; x.pop("one_view", None); n += 1; pv += 1
             else: print("fewer than 2 good perspectives, left alone:", uid, "/", x.get("concept"))
-        elif len(str(d.get("one_view", "")).split()) >= 6: x["one_view"] = d["one_view"].strip(); n += 1; ov += 1
+        elif len(str(d.get("one_view", "")).split()) >= 12 and "is a plain meaning, a rule people agreed on" not in str(d.get("one_view")): x["one_view"] = d["one_view"].strip(); n += 1; ov += 1
         else: print("thin one_view, left alone:", uid, "/", x.get("concept"))
     if n: json.dump(u, open(paths[uid], "w"), ensure_ascii=False, indent=1); changed += 1
 print(f"lessons changed {changed}, with perspectives {pv}, with one_view {ov}")
