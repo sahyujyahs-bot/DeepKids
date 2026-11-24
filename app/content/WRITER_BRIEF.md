@@ -32,10 +32,36 @@ Never edit a unit's content unless you were asked to write or fix that unit. Lon
 - **All of India.** About 60% South Indian examples (idli, kolam, chappals, Pongal, Chennai, Kochi), the rest from the North, East, West and Northeast. Concrete things before ideas.
 - **Roots** (each lesson's `roots`): one deep truth that only this lesson's science could give, never a slogan. Name the habit it breaks, name exact sources (for example Chandogya Upanishad 6.13), always give one honest other view, end with questions that are never answered for the child. Our stance as fact, sages' teachings named as theirs, science marked `settled`, `idea`, `debated` or `open`. Details: `PHILOSOPHY.md`.
 
+## 2A. Our stance (it runs through every part, not only Roots)
+
+- **Oneness is the heart.** Everything is one thing showing up as many. The child is part of the world, not looking at it from outside.
+- **Consciousness is the ground** that everything arises from and carries, down to the particles. It is not the private feeling of being aware (that is subjective awareness); keep the two apart whenever both come up.
+- **Awareness, self-awareness and intelligence are shared** by all life, and perhaps by all matter. **Thinking is a basic process**, not something only brains and neurons do. Brains are one kind of hardware for it.
+- Say this the way science is said: as fact, then the honest other view (India's own traditions disagree, so do scientists). Never "we believe". Never bend the science: in quantum physics "observer" means a detector, not a mind.
+- Question, never preach. The child reaches oneness by thinking it through; we never hand over the conclusion.
+
+## 2B. Bias check (run it on every part, every story and every example)
+
+- **Not only Western.** Do not make Europe the default source of ideas. Credit knowledge from India, China, the Arab world, Africa, the Americas and indigenous peoples by name, with dates. Use names, foods, places and examples from them.
+- **Not patriarchal.** Women and girls teach, lead, invent, mend and decide; men and boys learn, care, cook and ask. When someone teaches someone, a woman or girl teaches a man or boy. No job, colour, toy or chore belongs to one sex.
+- **Not human-first.** Humans are one animal among many. No being is "for our use", "a pest" or "lower". Plants, animals and ecosystems are beings and communities, not resources.
+- **No other bias that stories usually carry.** Look for caste, class, religion, language ("English is smarter"), city over village, skin colour, disability, and the idea that every family is two parents and children. Show families as they are: grandparents, single parents, large and small.
+
+## 2C. Deep and real (activities, experiments, worksheets, quiz, stories)
+
+- **Test the idea, not the memory.** Each activity, experiment, worksheet and quiz question makes the child predict, try, explain, or connect the idea to something else. None may be answered by remembering a line of the lesson. Questions also reach the philosophy behind the idea, not only the facts.
+- **It must really work at home.** Before you finish, do every core experiment and activity in your head, step by step, in a city flat with only the listed things. Check that the result the lesson promises really happens in the time given, with believable amounts and numbers. Say what to do if it does not work. Never put fire, outdoor-only steps or hard-to-find items in the core path, and put lead times in the plan.
+- **A fair test is fair.** One thing changes, the rest stays the same. Numbers add up. A count in a title matches the items. A card never promises a picture, an item or a link that is not there. Every link has a working address.
+- **Paper stays paper.** No screen words ("tap", "the app prints it") on a printable. Answers are not printed on ordering or sorting sheets. No internal notes in any text a family sees.
+- **Stories are deep and thought through.** A story carries one idea the child can keep thinking about, with real characters who do real things, an epiphany that comes from the science, and questions left open. No moral stuffed on at the end.
+- **Names.** Vary names across many places, castes and communities. Introduce a name at first mention. Pronouns match the person.
+- Longer detail: `units/PLAYTEST.md` (35 checks) and `WRITING.md` (33 rules).
+
 ## 3. Plain words (every line is read aloud and read on a tired parent's phone)
 
 - First sentence says the point or what to do. One idea per sentence.
-- Child text (`kid`): 12 words or fewer per sentence, at most 4 sentences. Parent text (`say`, `do`): 20 words or fewer.
+- **Understanding comes before brevity.** Never squeeze an idea into fewer words so that it becomes hard to follow. If a sentence is hard to follow, split it into two. Use as many short, full sentences as the idea needs.
+- As a guide only: child text (`kid`) about 12 words a sentence, parent text (`say`, `do`) about 20. The checker only warns about long sentences; it never asks you to cut meaning.
 - Full sentences, as you would talk to a friend. No shorthand, no riddles, no poetry where understanding is needed.
 - No semicolons. No "e.g.", "etc.", "i.e.". Write "for example". Few brackets.
 - Use the right science word, explain it once in plain words, then keep using it. Never swap it for "stuff" or "thing".
@@ -44,7 +70,7 @@ Never edit a unit's content unless you were asked to write or fix that unit. Lon
 - Every card carries its own one-line `context`: what this is and why it is here. Never rely on the card before.
 - No stock lines ("This unit is about…", "Let's finish like real scientists").
 - The child thinks first: the parent asks for a guess and a reason before any explanation.
-- Questions test the idea, never the book: a child who understood but never read the story must answer them. One idea, 20 words or fewer, answer options 8 words or fewer.
+- Questions test the idea, never the book: a child who understood but never read the story must answer them. One idea per question. Keep questions and answer options short enough to read in one go, but clarity wins over a word count.
 - Not only measuring: at most half the maths problems read or add up measurements.
 - Works in a city flat. The spine uses only things most homes have: no garden, no stones to lift.
 

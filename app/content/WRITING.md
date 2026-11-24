@@ -10,7 +10,7 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
 ## The rules
 
 1. **Lead with the point.** The first sentence says what this is, or what to do. Background comes after, if at all.
-2. **One idea per sentence.** Child text: 12 words or fewer per sentence. Parent text: 20 words or fewer. Split anything longer.
+2. **One idea per sentence.** Understanding comes before brevity: never squeeze an idea into fewer words so that it is harder to follow. As a guide, child text about 12 words a sentence and parent text about 20. If a sentence is hard to follow, split it into two; use as many short sentences as the idea needs.
 3. **Full sentences, never shorthand. Write the way you would talk to a friend.** Not "Predict, test, record." Write "First, guess what will happen. Then try it. Then write down what happened." Never squeeze an idea into a clipped comparison such as "two grains hold a day's iodine". Say it in as many full sentences as the idea needs: "The iodine your body needs for a whole day is a tiny amount. It weighs about as much as two grains of table salt. Even so, if you get none of it for a long time, you fall ill." Use as many sentences as it takes for the point to be clear. Natural, plain language: not flowery, not poetic, not clever.
 4. **No reader is assumed to know anything.** Explain every science word the first time it appears, in plain words, with an everyday example: "Friction is the grip between two things that touch. It is why your chappal doesn't slip on the road."
 5. **Never point at something the reader hasn't seen.** Don't write "like Hapu" or "Mery's first try" unless the story has just been read; if in doubt, say who Hapu is in a few words.

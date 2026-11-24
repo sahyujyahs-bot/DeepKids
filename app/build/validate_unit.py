@@ -44,7 +44,7 @@ def plain(u, P):
     for k in ("games", "experiments", "activities", "projects", "challenges"):
         walk(u.get(k, []))
     walk(u.get("roots", {}).get("practice", {}))
-    if long_: P(f"{len(long_)} sentences too long for who reads them (child 12 words, parent 20; WRITING.md rule 2), for example " + " | ".join(long_[:3]))
+    if long_: W.append(f"{len(long_)} sentences may be hard to follow (child about 12 words, parent about 20; WRITING.md rule 2). Split each into two if it is hard, but never cut meaning for the count: " + " | ".join(long_[:3]))
 NUMW = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "eight": 8, "ten": 10, "twelve": 12}
 LEAK = re.compile(r"title checked automatically|video id|recalled, not opened|still being written|used in [gaepc]\d|can replace the first|deepkids list|the founder|founder's|app/content|\.json\b", re.I)
 STOCKL = re.compile(r"the story also quietly asks|one source,? showing up in many forms", re.I)
