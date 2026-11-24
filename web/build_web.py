@@ -49,6 +49,8 @@ open(os.path.join(PUB, 'data.json'), 'w').write(DATA)  # plain JSON: the browser
 shutil.copy(os.path.join(WEB, 'src/platform.js'), os.path.join(PUB, 'platform.js'))
 shutil.copy(os.path.join(ROOT, 'app/content/welcome.json'), os.path.join(PUB, 'welcome.json'))  # the sign-in page's slides: the same list the app uses
 shutil.copy(os.path.join(WEB, 'src/about.html'), os.path.join(PUB, 'about.html'))  # a public page that says what the app is, for search engines and people
+shutil.copy(os.path.join(WEB, 'src/faq.html'), os.path.join(PUB, 'faq.html'))  # the questions parents ask, answered in plain text
+shutil.copy(os.path.join(WEB, 'src/llms.txt'), os.path.join(PUB, 'llms.txt'))  # a plain summary of the site for AI tools
 shutil.copy(os.path.join(WEB, 'src/privacy.html'), os.path.join(PUB, 'privacy.html'))  # linked from Google sign-in's consent screen
 # lesson media (explainer videos) are served as files next to the app
 MED = os.path.join(os.path.dirname(WEB), 'app', 'content', 'media')
@@ -139,7 +141,7 @@ manifest = {
     ],
 }
 open(os.path.join(PUB, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitemap: https://app.deepkids.in/sitemap.xml\n')
-open(os.path.join(PUB, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://app.deepkids.in/</loc></url><url><loc>https://app.deepkids.in/about.html</loc></url><url><loc>https://app.deepkids.in/privacy.html</loc></url></urlset>\n')
+open(os.path.join(PUB, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://app.deepkids.in/</loc></url><url><loc>https://app.deepkids.in/about.html</loc></url><url><loc>https://app.deepkids.in/faq.html</loc></url><url><loc>https://app.deepkids.in/privacy.html</loc></url></urlset>\n')
 open(os.path.join(PUB, 'manifest.webmanifest'), 'w').write(json.dumps(manifest, indent=1))
 
 # Icons: every icon, the tab icon included, shows all of IAm (iam.webp, seated with the book), centred with room
