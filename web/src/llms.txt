@@ -1,6 +1,6 @@
 # DeepKids Gurukul
 
-> DeepKids Gurukul is a homeschooling app for Indian families with children aged 6 to 10 (about Class 1 to Class 5). It plans each day, guides the parent through every lesson, and tracks progress. It follows NCERT, Cambridge Primary or NIOS chapter by chapter, or the DeepKids track, which is led by topics instead of a textbook. Every feature works without AI. It runs in a phone or computer browser, and can be tried without signing in.
+> DeepKids Gurukul is a homeschooling app for Indian families with children aged 6 to 10 (about Class 1 to Class 5). It plans each day, guides the parent through every lesson, and tracks progress. It follows NCERT, Cambridge Primary or NIOS chapter by chapter, or the DeepKids track, our own curriculum with no textbook, where no idea is held back for being "too advanced" and every idea comes with the different ways people think about it. Every feature works without AI. It runs in a phone or computer browser, and can be tried without signing in.
 
 ## Pages
 

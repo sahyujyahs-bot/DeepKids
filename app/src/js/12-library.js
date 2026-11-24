@@ -20,7 +20,7 @@ function combinedTopicList(sj) {
       ),
     sum: ["Topics by class", `Class ${lv}`],
     count: `${L.length} topics`,
-    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every ${SUBJ[sj].toLowerCase()} topic any board teaches in Class ${lv}.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
+    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: everything any board teaches in ${SUBJ[sj].toLowerCase()} in Class ${lv}, and more.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
   };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to

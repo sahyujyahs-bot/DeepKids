@@ -157,7 +157,7 @@ function trackCard() {
           .map((x) => BOARDN[x])
           .filter(Boolean)
           .join(", ") || BOARDN[b])
-  }</b><p class="xs muted">${b === "combined" ? "Led by topics: every topic NCERT, Cambridge and NIOS teach in a class, and much more." : b === "waldorf" ? "A way of teaching, not a board." : "Led by your textbook, chapter by chapter, with the DeepKids layer."}</p><button class="btn soft sm self-start" data-act="redo">Change track or subjects</button></div></section>`;
+  }</b><p class="xs muted">${TRACK_SAY[b === "combined" || b === "waldorf" ? b : "board"]}</p><button class="btn soft sm self-start" data-act="redo">Change track or subjects</button></div></section>`;
 }
 function subjCard() {
   return `<section class="sec"><div class="sech"><h3>Subjects</h3><span class="xs muted">Tap to add or leave out</span></div><div class="row chips">${visSubj(

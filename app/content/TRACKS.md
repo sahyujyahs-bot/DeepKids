@@ -14,6 +14,10 @@ DeepKids has exactly two tracks. Older names in the code and docs map onto them 
 
 **How the board track uses the units.** When a board chapter teaches the same idea as a DeepKids unit, the chapter links to it ("Go deeper with the DeepKids unit"). The board family keeps the book's order and borrows any part of the unit: the song, games, worksheets, story, or the Roots card.
 
+## What families are told about the DeepKids track
+
+Families are not told about "units" or "topics": those are our own filing words. They are told what the track is: our own curriculum, with no textbook. No idea is held back for being "too advanced" (a child meets gravity the first time they fall, so we do not wait until Class 7); each idea is told truthfully for the child's age, with no half-truths used to simplify (for example, not "five senses" or "six senses", because the body has thousands of sensors); and each idea comes with the different ways people think about it, the open debates, and questions that let a child form their own view. The one wording used in the app is `TRACK_SAY` in `app/src/js/16-onboarding.js`; the website pages say the same.
+
 ## The DeepKids layer (both tracks)
 
 Every board chapter and every DeepKids unit carries all of these:

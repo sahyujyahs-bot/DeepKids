@@ -91,14 +91,16 @@ function obKeepName() {
   if (n) ob.d.child = n.value;
 }
 // the whole set-up is one small form: who is learning and how, with subjects and levels already chosen for the age
+const TRACK_SAY = {
+  combined:
+    "Our own curriculum, with no textbook. Every big idea, told truthfully for your child's age, with every side of the debate and questions that let them think for themselves.",
+  board: "Follows your textbook chapter by chapter, with the DeepKids add-ons alongside.",
+  waldorf: "A way of teaching, not a board: stories, arts and handwork, the Indian way.",
+};
 const obTrack = (d) => {
   const isB = ["ncert", "cambridge", "nios"].includes(d.board),
     cur = isB ? "board" : d.board,
-    say = {
-      combined: "Led by topics: every topic NCERT, Cambridge and NIOS teach in a class, and much more. Recommended.",
-      board: "Led by your textbook, chapter by chapter, with our quizzes and worksheets alongside.",
-      waldorf: "A way of teaching, not a board: stories, arts and handwork, the Indian way.",
-    }[cur];
+    say = cur === "combined" ? TRACK_SAY.combined + " Recommended." : TRACK_SAY[cur];
   return `<div class="field"><span>How do you want to learn?</span><div class="seg">${[
     ["combined", 'data-b="combined"', "DeepKids"],
     ["board", 'data-obtrack="board"', "Board"],
