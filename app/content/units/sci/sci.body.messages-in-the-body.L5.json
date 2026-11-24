@@ -2812,39 +2812,39 @@
  ],
  "spotted": [
   {
-   "text": "The word 'iodised' on a packet of salt in a provision shop in Madurai, Guwahati or Jaipur.",
+   "text": "The word 'iodised' on a packet of salt in a provision shop.",
    "art": "A shelf in a small provision shop with packets of salt, one turned to show the word 'iodised'."
   },
   {
-   "text": "A fruit seller in a Chennai market wrapping raw mangoes in newspaper with a few ripe ones, so that the plant hormone ethylene builds up and ripens them.",
+   "text": "A fruit seller in a market wrapping raw mangoes in newspaper with a few ripe ones, so that the plant hormone ethylene builds up and ripens them.",
    "art": "A fruit seller's stall with raw green mangoes being wrapped in newspaper beside a few ripe yellow ones."
   },
   {
-   "text": "Your own heart before you walk on stage for a school function in Kochi. It is beating fast, and your palms are damp, while you stand still.",
+   "text": "Your own heart before you walk on stage for a school function. It is beating fast, and your palms are damp, while you stand still.",
    "art": "A girl in a dance costume waiting in the wings of a school stage with one hand on her chest."
   },
   {
-   "text": "Pencil marks climbing a door frame in a grandmother's house in Mysuru, each with a name and a date. The gaps between them show a growth curve.",
+   "text": "Pencil marks climbing a door frame in a grandmother's house, each with a name and a date. The gaps between them show a growth curve.",
    "art": "A wooden door frame with a ladder of dated pencil marks and children's names beside them."
   },
   {
-   "text": "A touch-me-not plant by a path in Kerala folding their leaves at dusk and opening them in the morning, on their own daily clock.",
+   "text": "A touch-me-not plant by a path folding its leaves at dusk and opening them in the morning, on its own daily clock.",
    "art": "A touch-me-not plant at dusk with their small leaves folded shut, beside the same plant in morning light with their leaves open."
   },
   {
-   "text": "Passengers yawning at noon in the arrivals hall of Bengaluru airport after a flight from America. Their body clocks say it is the middle of the night.",
+   "text": "Passengers yawning at noon in an airport arrivals hall after a long flight. Their body clocks say it is the middle of the night.",
    "art": "Tired travellers with trolleys yawning in a bright airport hall, with a wall clock showing twelve noon."
   },
   {
-   "text": "A child's health card at a clinic in Pune, with a curved growth chart and a dot for each visit.",
+   "text": "A child's health card at a clinic, with a curved growth chart and a dot for each visit.",
    "art": "A child's health card open on a clinic desk showing a curved growth chart with a row of dots."
   },
   {
-   "text": "Hens in a poultry shed near Namakkal in Tamil Nadu under electric light before dawn. Farmers lengthen the hens' day with lamps, because long days keep the hens' egg-laying hormones high.",
+   "text": "Hens in a poultry shed under electric light before dawn. Farmers lengthen the hens' day with lamps, because long days keep the hens' egg-laying hormones high.",
    "art": "A long poultry shed before dawn with rows of hens under hanging electric bulbs."
   },
   {
-   "text": "Tadpoles with new back legs in a rain puddle in July, anywhere in India. Thyroid hormone is turning them into frogs or toads.",
+   "text": "Tadpoles with new back legs in a rain puddle in July. Thyroid hormone is turning them into frogs or toads.",
    "art": "A shallow roadside rain puddle with small dark tadpoles, some showing thin back legs."
   }
  ],
@@ -3328,14 +3328,20 @@
     "source": "Thirukkural 423",
     "teaching": "Whatever is heard, and from whoever's lips, wisdom is to find its true meaning.",
     "link": "Valluvar puts the work of meaning with the one who hears. A cell does this with a hormone. The same adrenaline arrives at the heart and at the gut, and each works out what it means there.",
-    "verse": ["எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்", "மெய்ப்பொருள் காண்ப தறிவு."],
+    "verse": [
+     "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்",
+     "மெய்ப்பொருள் காண்ப தறிவு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching 11",
     "teaching": "Clay is shaped into a pot, and it is the empty space inside that makes the pot useful.",
     "link": "A receptor is a shaped hollow, and a hormone does nothing until it meets one. And the pineal gland's signal is made by an absence. It is the lack of light that says 'night'.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    },
    {

@@ -2543,7 +2543,7 @@
    "art": "A printed notice on the wall of a small clinic waiting room, with a pregnant woman and her mother sitting on a bench below it."
   },
   {
-   "text": "A hibiscus flower on a balcony in Chennai or Kochi. The yellow dust is pollen, which carries the plant's sperm cells. The egg cells are in the green base.",
+   "text": "A hibiscus flower on a balcony. The yellow dust is pollen, which carries the plant's sperm cells. The egg cells are in the green base.",
    "art": "A red hibiscus flower in a pot, cut open to show yellow pollen at the tip and tiny pale ovules in the green base."
   },
   {
@@ -2551,7 +2551,7 @@
    "art": "A raw egg broken into a steel bowl, with the round yellow yolk whole in the middle."
   },
   {
-   "text": "Twins in your school or street. Kodinhi village in Malappuram, Kerala, has hundreds of pairs, and nobody knows why.",
+   "text": "Twins in your school or street. Look for how alike they are, and how they are different.",
    "art": "Several pairs of twin children of different ages standing together in a village lane lined with coconut palms."
   },
   {
@@ -3058,7 +3058,9 @@
     "source": "Tao Te Ching 6",
     "teaching": "The spirit of the valley never dies. It is called the mysterious female. Her gateway is the root of heaven and earth. It goes on and on, and using it never wears it out.",
     "link": "Laozi pictured the source of everything as a mother who never stops giving birth. The science of this lesson found something close to it in every body: a line of living cells, and of mothers, that has not stopped.",
-    "verse": ["谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。"],
+    "verse": [
+     "谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。"
+    ],
     "verse_lang": "zh"
    },
    {

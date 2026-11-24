@@ -1,0 +1,662 @@
+{
+ "math.addition-subtraction.number-facts.L1": {
+  "4": "A boat race. The paddlers sit in two rows, with the same number on each side."
+ },
+ "math.algebra.balance-and-missing-numbers.L1": {
+  "1": "A giant balance at a temple, with a person in one pan. Bananas, jaggery or coconuts are heaped in the other pan until the two sides are level."
+ },
+ "math.logic.puzzles.L1": {
+  "4": "A maze-like spiral pattern carved in stone on an old temple wall, or drawn as a rangoli."
+ },
+ "math.maths-and-world.maths-in-nature.L1": {
+  "5": "Spotted deer, called chital, in a zoo or a forest. They keep their white spots all their life."
+ },
+ "math.money.money-in-life.L1": {
+  "3": "The back of a ₹50 note. It shows a stone chariot."
+ },
+ "math.patterns.repeating-patterns.L1": {
+  "2": "Painted floor tiles in an old house. A few handmade tiles repeat across the whole room."
+ },
+ "sci.air.air-around-us.L1": {
+  "0": "Coconut palms swaying in the breeze near the sea.",
+  "2": "The sky full of kites on a windy day in January."
+ },
+ "sci.air.air-around-us.L3": {
+  "4": "The breathing roots of mangrove trees sticking up out of the mud, in a zoo or by the sea.",
+  "5": "Your breath making a cloud on a cold morning."
+ },
+ "sci.animal-behaviour.animal-communication.L2": {
+  "0": "Male koels calling 'ku-oo, ku-oo' again and again from trees in the hot months before the monsoon.",
+  "1": "House crows gathering and cawing loudly at a cat on a wall, until the cat walks away.",
+  "2": "A house gecko going 'tchk-tchk-tchk' on a wall near a tube light at night.",
+  "3": "Street dogs howling together when an ambulance siren goes past.",
+  "4": "A peacock giving his loud 'may-awe' call from a rooftop during the rains.",
+  "5": "Pigeons on a balcony, a male puffing up his neck, bowing and cooing at a female.",
+  "6": "Crickets chirping at night from potted plants and drains after rain."
+ },
+ "sci.animal-behaviour.animal-learning.L3": {
+  "1": "Pigeons flying down to a grain seller who feeds them at the same spot each morning."
+ },
+ "sci.animal-behaviour.animal-societies.L3": {
+  "2": "Weaver ant nests made of leaves pulled together, in mango or cashew trees.",
+  "5": "Elephant families in a forest or a zoo, walking behind an old female."
+ },
+ "sci.animal-behaviour.born-knowing.L2": {
+  "0": "Round spider webs on balcony grills and between plant pots, spun fresh at dusk.",
+  "1": "Hanging grass nests of baya weaver birds on palm trees beside fields and wells.",
+  "2": "Baby sea turtles crawling to the sea straight after hatching, in a video or on a beach.",
+  "3": "A newborn calf standing up beside her mother in a cowshed.",
+  "4": "A cat in a lane teaching her kittens to pounce on a moving leaf.",
+  "5": "Children in a park learning to cycle, wobbling and falling, then riding off a week later."
+ },
+ "sci.animal-behaviour.born-knowing.L4": {
+  "0": "A line of ducklings hurrying after a mother duck beside a pond or a paddy field.",
+  "5": "Geese on a lake or in a park, following a person or their mother in a line. Lorenz studied how baby geese follow the first moving thing they see."
+ },
+ "sci.animal-behaviour.migration.L3": {
+  "2": "Flamingos on the mudflats by the sea in the cooler months.",
+  "3": "Thousands of cranes landing in a field in winter.",
+  "4": "Clouds of butterflies passing by before and after the monsoon.",
+  "5": "Sea turtles coming ashore in huge numbers to lay eggs, in a video or on a beach."
+ },
+ "sci.animal-behaviour.migration.L4": {
+  "0": "Barn swallows sitting in rows on wires or sheltering under a bridge in winter, from October to March.",
+  "2": "V-shaped lines of cranes or geese flying at dusk in winter.",
+  "4": "Flamingos in shallow water along the coast in winter."
+ },
+ "sci.animals.animal-babies.L2": {
+  "0": "House sparrows carrying grass into a gap behind a meter box or an AC pipe.",
+  "1": "A hen in a village or a backyard, with chicks tucked under her wings.",
+  "2": "Langur mothers and aunts on a wall, passing a dark-faced baby between them.",
+  "3": "A street dog feeding her puppies under a parked car.",
+  "4": "A baby on her grandmother's lap at a wedding, gripping the grandmother's finger."
+ },
+ "sci.animals.animal-bodies.L2": {
+  "0": "Pigeons bending their legs and jumping off the air-conditioner boxes outside flats.",
+  "1": "Ducks paddling in a pond or a canal. Look at their webbed feet.",
+  "2": "Black kites circling high in the sky, hardly flapping their wings."
+ },
+ "sci.animals.animal-bodies.L3": {
+  "5": "Mudskippers hopping on the mud of a mangrove shore."
+ },
+ "sci.animals.animal-bodies.L4": {
+  "3": "A camel's wide pad spread on the ground, in a picture or at a fair.",
+  "6": "An octopus at a fish market, with her suckers and soft body."
+ },
+ "sci.animals.animal-life-cycles.L3": {
+  "3": "Hens with a row of chicks scratching in a courtyard.",
+  "5": "Silk cocoons and silk saris in a shop or a market."
+ },
+ "sci.animals.animal-life-cycles.L5": {
+  "1": "An empty brown cicada skin gripping a tree trunk in summer, in any park with old trees.",
+  "3": "Big river fish in a fish market in the monsoon.",
+  "5": "Jellyfish washed up on a beach after rough weather. Look, and do not touch.",
+  "7": "Sea turtles nesting on a beach on the same nights, usually in February or March. Watch a video of this if you are far from the sea."
+ },
+ "sci.animals.animal-minds.L3": {
+  "6": "An elephant at a temple or a forest camp who answers her mahout's call."
+ },
+ "sci.animals.animal-minds.L5": {
+  "0": "A huge rock bee comb hanging under a flyover, a water tank or a tall building ledge. The dancers are on its surface.",
+  "2": "A temple elephant whose forehead flutters for a moment. She may be rumbling.",
+  "5": "A hermit crab on a beach, trying out an empty shell for size."
+ },
+ "sci.animals.animals-around-us.L1": {
+  "0": "A crow taking a ball of rice from a window ledge.",
+  "1": "A cow on a city street, chewing slowly for a long time. Grass is tough, so a cow chews a lot.",
+  "2": "Pigeons walking and nodding on the steps of a railway station.",
+  "3": "A squirrel running along an electric wire.",
+  "4": "A gecko on the wall beside a street lamp at a tea stall."
+ },
+ "sci.animals.animals-around-us.L2": {
+  "0": "Pigeons sitting on the air-conditioner boxes of flats.",
+  "2": "Fish with shining scales on ice at a fish market.",
+  "4": "Cows and buffaloes walking calmly down a street in a town."
+ },
+ "sci.animals.birds.L1": {
+  "1": "A koel calling 'ku-oo' louder and louder from a tree in April and May.",
+  "2": "Pigeons fluffed up into round balls on a ledge on a winter morning.",
+  "3": "A purple sunbird sipping from hibiscus flowers on a balcony.",
+  "4": "A big crowd of parakeets and mynas calling in a tree before dark.",
+  "5": "A big stork or heron nesting in a tall tree. Look at the long legs and the big beak."
+ },
+ "sci.animals.body-plans.L4": {
+  "2": "The six rings on the tail part of a prawn at a fish market.",
+  "5": "Sea anemones and starfish in rock pools at low tide."
+ },
+ "sci.animals.body-plans.L5": {
+  "4": "Barnacles on a fishing boat, a jetty post or a rock at the beach. They look like tiny shells, but they are relatives of crabs."
+ },
+ "sci.animals.courtship-and-mates.L4": {
+  "3": "Peacocks calling and displaying as the monsoon begins.",
+  "4": "Bright yellow frogs calling in rain pools after the first heavy rain."
+ },
+ "sci.animals.courtship-and-mates.L5": {
+  "2": "A herd of elephants in a forest or a zoo. Look for the old female at the front. Any big male is usually off to one side or alone.",
+  "3": "Male blackbuck with long twisted horns, in a park or a zoo. The fawn-coloured females usually have no horns.",
+  "7": "People walking a beach at night between January and March, moving sea turtle eggs to safe hatcheries. Watch a video of this if you are far from the sea."
+ },
+ "sci.animals.insects.L2": {
+  "0": "Huge hanging honeycombs of rock bees under water tanks and balconies of tall buildings.",
+  "1": "Weaver ants' nests of leaves, stitched together with silk, in mango and cashew trees.",
+  "2": "Red weaver ants on a mango or cashew tree. Some families make a chutney from them.",
+  "3": "Earthworms on the road after the first heavy monsoon rain.",
+  "4": "Plain tiger butterflies drinking from flowers in a park.",
+  "5": "Long webs of giant wood spiders, with golden silk, strung between trees in a forest.",
+  "6": "A small jumping spider on a window frame, turning to look at you."
+ },
+ "sci.animals.invertebrates.L3": {
+  "4": "Crabs running sideways into holes on a beach at low tide.",
+  "6": "Prawns, crabs and clams at a fish market.",
+  "7": "Starfish and sea anemones in rock pools at low tide."
+ },
+ "sci.animals.invertebrates.L5": {
+  "4": "Prawns, crabs, squid and mussels side by side at a fish market. Two phyla are on one table.",
+  "5": "Barnacles on rocks, jetty legs and boat hulls at low tide, or on any sea shore. Each small cone holds an arthropod."
+ },
+ "sci.animals.vertebrate-groups.L2": {
+  "0": "A crow, a bird, on a window ledge, with feathers and a strong black beak.",
+  "1": "A house gecko, a reptile, waiting for insects beside a tube light.",
+  "2": "A common toad, an amphibian, hopping across a wet road on a monsoon night.",
+  "3": "Fish swimming in a village pond.",
+  "4": "Big bats, who are mammals, hanging upside down in a banyan tree.",
+  "5": "Sea turtles, reptiles, coming up a beach to lay eggs in the sand. Watch a video of this if you are far from the sea."
+ },
+ "sci.animals.vertebrate-groups.L3": {
+  "5": "Crocodiles basking with open mouths on a riverbank, or in a crocodile park.",
+  "6": "Sea turtles coming ashore in their thousands to lay eggs, in a video or on a beach.",
+  "8": "Mudskippers, fish that hop about on the mud of mangroves."
+ },
+ "sci.animals.vertebrate-groups.L5": {
+  "2": "Mudskippers hopping on the wet mud at low tide in a mangrove creek."
+ },
+ "sci.body.body-parts.L1": {
+  "4": "A boatwoman pulling an oar, her elbows and shoulders bending with each stroke."
+ },
+ "sci.body.energy-from-food.L5": {
+  "5": "Your own breath showing as mist on a cold morning. It carries water and carbon dioxide from your cells."
+ },
+ "sci.body.growing.L2": {
+  "1": "Pencil marks with names and dates on a door frame, where a family measures the children every year.",
+  "3": "Children's clothes in a shop labelled by age: 5 to 6 years, 7 to 8 years."
+ },
+ "sci.body.heart-blood-breath.L3": {
+  "3": "Your breath making a little cloud on a cold winter morning."
+ },
+ "sci.body.heart-blood-breath.L5": {
+  "6": "Mudskippers on the mud of a mangrove shore. They are fish who walk on land with their gill chambers full of water, and they also take in oxygen through wet skin."
+ },
+ "sci.body.how-babies-grow.L5": {
+  "1": "A hibiscus flower on a balcony. The yellow dust is pollen, which carries the plant's sperm cells. The egg cells are in the green base.",
+  "3": "Twins in your school or street. Look for how alike they are, and how they are different."
+ },
+ "sci.body.immune-system.L3": {
+  "4": "A scab on a footballer's knee after a muddy match, or a cricketer's knee after a slide on the ground."
+ },
+ "sci.body.immune-system.L5": {
+  "1": "The line 'Contains wheat, milk' on a biscuit packet in a provision shop.",
+  "0": "The small round scar high on the left arm of most people. It is from the BCG vaccine against tuberculosis, given soon after birth."
+ },
+ "sci.body.keeping-balance.L5": {
+  "0": "A float valve inside the black plastic water tank on a terrace. It shuts the inlet when the tank is full.",
+  "4": "A street dog panting in the shade on a May afternoon. Panting is the dog's effector for losing heat.",
+  "5": "A person steering a round boat across a river, turning the paddle a little at a time as the current pushes.",
+  "8": "A kite flyer on a rooftop, pulling and letting out string as the kite dips and climbs."
+ },
+ "sci.body.kidneys-and-waste.L4": {
+  "5": "A dog panting on a hot afternoon. Dogs have few sweat glands, so they lose heat and water from the tongue."
+ },
+ "sci.body.kidneys-and-waste.L5": {
+  "0": "A house gecko's dropping below a tube light: a dark pellet with a white cap of nitrogen waste.",
+  "2": "Rows of salted fish drying in the sun. The salt has drawn the water out.",
+  "3": "Salt pans by the sea, where the sun dries sea water until the salt is left.",
+  "4": "Salt crystals on the leaves of mangrove trees."
+ },
+ "sci.body.messages-in-the-body.L5": {
+  "0": "The word 'iodised' on a packet of salt in a provision shop.",
+  "1": "A fruit seller in a market wrapping raw mangoes in newspaper with a few ripe ones, so that the plant hormone ethylene builds up and ripens them.",
+  "2": "Your own heart before you walk on stage for a school function. It is beating fast, and your palms are damp, while you stand still.",
+  "3": "Pencil marks climbing a door frame in a grandmother's house, each with a name and a date. The gaps between them show a growth curve.",
+  "4": "A touch-me-not plant by a path folding its leaves at dusk and opening them in the morning, on its own daily clock.",
+  "5": "Passengers yawning at noon in an airport arrivals hall after a long flight. Their body clocks say it is the middle of the night.",
+  "6": "A child's health card at a clinic, with a curved growth chart and a dot for each visit.",
+  "7": "Hens in a poultry shed under electric light before dawn. Farmers lengthen the hens' day with lamps, because long days keep the hens' egg-laying hormones high.",
+  "8": "Tadpoles with new back legs in a rain puddle in July. Thyroid hormone is turning them into frogs or toads."
+ },
+ "sci.body.skeleton.L2": {
+  "5": "A martial arts student doing deep stretches and kicks that swing the leg round from the hip."
+ },
+ "sci.body.skeleton.L5": {
+  "2": "A big fishing net hung from a wooden frame by the shore. The crew's weight pulls the net down, and stones on ropes pull it up again.",
+  "5": "Crabs running sideways on a beach. Their leg joints are hinges that swing mostly one way."
+ },
+ "sci.body.teeth.L2": {
+  "0": "A child with a gap-toothed smile at a school assembly. Almost every Class 2 has one."
+ },
+ "sci.changes.chemical-reactions.L4": {
+  "1": "A window grill or a gate near the sea. Rust shows at every chip in the paint."
+ },
+ "sci.changes.fire.L3": {
+  "1": "Rows of clay lamps at Karthigai Deepam and at Deepavali.",
+  "5": "The bonfires of mid-January, such as Bhogi, Lohri and Meji.",
+  "7": "On 14 April, Fire Service Day, fire stations remember the firefighters who died fighting a great fire at the docks in 1944."
+ },
+ "sci.changes.kitchen-science.L2": {
+  "1": "Curd setting overnight in a covered steel or clay pot.",
+  "3": "A sweet set curd sold in clay pots at a sweet shop."
+ },
+ "sci.changes.reversible-and-irreversible.L2": {
+  "0": "A potter at a pottery market, with soft grey clay on one side and red fired pots on the other."
+ },
+ "sci.chemistry.acids-and-bases.L3": {
+  "0": "The lemon squeezed over poriyal, a plate of bhel or a plate of biryani."
+ },
+ "sci.chemistry.acids-and-bases.L4": {
+  "3": "A bright pink and a deep blue hydrangea side by side in a garden, showing that the soil is different."
+ },
+ "sci.chemistry.bonds.L4": {
+  "0": "White heaps of salt beside salt pans by the sea. The sun dries sea water, and the ions pack back into crystals.",
+  "2": "A bronze idol or a bell-metal pot. Both are alloys of copper and tin."
+ },
+ "sci.chemistry.chemistry-in-industry.L4": {
+  "5": "Black sand on a beach. Some of it is the mineral from which the white pigment of paint is made."
+ },
+ "sci.chemistry.chemistry-of-earth-and-space.L4": {
+  "1": "White heaps of salt beside square pans on a coast road.",
+  "3": "Red soil and red laterite stone walls. The red is iron oxide that the rain left behind."
+ },
+ "sci.chemistry.electrochemistry.L4": {
+  "4": "An old iron pillar or iron gate standing in the open with very little rust, while a newer iron rod nearby is rusty."
+ },
+ "sci.chemistry.elements.L2": {
+  "0": "Silver anklets, toe rings and Diwali coins that have gone grey or black in a drawer.",
+  "1": "Brass and copper lamps being cleaned with tamarind before a festival.",
+  "2": "Gold jewellery in a shop window. The gold stays shiny.",
+  "4": "Copper water pots in many kitchens."
+ },
+ "sci.chemistry.kinds-of-reactions.L4": {
+  "0": "A sweet shop where cooks split hot milk with sour whey to make chhena for rasgulla and sandesh.",
+  "3": "A doctor's plaster cast on an arm, or a plaster Ganesha drying before Ganesh Chaturthi.",
+  "4": "The blue flame of a gas stove in any kitchen. The yellow flames of oil lamps at Karthigai Deepam.",
+  "5": "Stalactites hanging in a cave. Each one is a precipitate that grew drop by drop."
+ },
+ "sci.chemistry.polymers.L3": {
+  "0": "A rubber tree with a cup tied to its trunk to catch latex.",
+  "1": "Silk sarees in a silk shop."
+ },
+ "sci.classification.keys-and-kingdoms.L5": {
+  "4": "Salt pans by the sea, which sometimes turn pink before the salt is gathered."
+ },
+ "sci.classification.sorting-living-things.L1": {
+  "0": "Fish sellers at a market sort the morning's catch into baskets: rohu, hilsa, prawns and crabs.",
+  "1": "A vegetable seller keeps her greens in separate bundles: curry leaves, coriander, palak and drumstick leaves.",
+  "2": "Crows and pigeons on the same balcony rail: both have feathers and beaks, but they look and walk differently.",
+  "3": "A flower seller sorts jasmine, marigold and rose into heaps before making garlands.",
+  "4": "Tea pickers pick only the top two leaves and a bud, and leave the older leaves on the bush."
+ },
+ "sci.classification.sorting-living-things.L2": {
+  "1": "At a fish market, you can see the shiny scales on rohu and hilsa, and the hard shells of crabs.",
+  "2": "Goats on a lane nibble leaves from a hedge. They are plant-eaters."
+ },
+ "sci.classification.sorting-living-things.L3": {
+  "3": "Bamboo clumps. Bamboo is a giant grass, like rice and sugarcane.",
+  "4": "Monkeys near a temple: primates, like you.",
+  "8": "Paddy fields seen from a train. Rice is a grass, like the lawn."
+ },
+ "sci.community.community-and-helpers.L3": {
+  "0": "A blue water lorry at an apartment gate in summer, filling the building's sump."
+ },
+ "sci.community.festivals.L3": {
+  "3": "Kites over rooftops at Sankranti."
+ },
+ "sci.community.transport-and-communication.L3": {
+  "6": "Long racing boats paddled by many people together, in a boat race or in a picture."
+ },
+ "sci.day-night-seasons.day-and-night.L3": {
+  "2": "A big stone sundial in a park, as tall as a tall building, or any sundial you can find.",
+  "3": "Your own shadow at noon in late April or mid-August. On Zero Shadow Day, the Sun is straight overhead and shadows nearly vanish.",
+  "6": "The Sun rising out of the sea, or setting into it, if you live near the coast."
+ },
+ "sci.day-night-seasons.rhythms-of-nature.L3": {
+  "6": "Rain tree leaves folded along the road in the evening.",
+  "8": "Night jasmine flowers scattered on the ground at dawn, in the weeks before Durga Puja."
+ },
+ "sci.day-night-seasons.seasons.L2": {
+  "0": "In summer, look for stalls that give out free cool buttermilk to anyone walking by.",
+  "2": "In January, the sky fills with kites for Uttarayan.",
+  "4": "In April and May, look for gulmohar trees covered in red flowers along city roads."
+ },
+ "sci.day-night-seasons.seasons.L3": {
+  "8": "Kites filling the sky on 14 January, for Uttarayan."
+ },
+ "sci.day-night-seasons.sun-appears-to-move.L2": {
+  "1": "On a terrace, papad and vadam drying in the sun are moved to the sunny side after lunch.",
+  "2": "During an evening walk, the long shadows of buildings stretch across the road towards the east.",
+  "3": "At noon in a school yard, children's shadows shrink to small dark puddles round their feet.",
+  "4": "A giant stone sundial. The shadow of its wall creeps along a curved scale to show the time.",
+  "5": "On a sunny morning, the auto-rickshaws parked along one side of the road are in shade. By evening, the ones on the other side are in shade instead."
+ },
+ "sci.ecology.biodiversity.L5": {
+  "1": "A sacred grove or a small patch of old trees by a temple, with a different kind of forest inside.",
+  "3": "A road sign that warns of animals crossing, on a highway through a forest."
+ },
+ "sci.ecology.food-chains.L4": {
+  "7": "A big fishing net lowered into the water from the shore, with gulls and kites waiting for the catch."
+ },
+ "sci.ecology.food-chains.L5": {
+  "2": "A black kite circling over a market or a rubbish heap, looking for scraps.",
+  "3": "A T-shaped perch or a scarecrow standing in a paddy field.",
+  "4": "Water hyacinth covering a lake or a canal."
+ },
+ "sci.ecology.how-ecosystems-change.L5": {
+  "2": "A dried tank bed in summer. Within weeks of drying it is covered in short grass, and cattle graze there.",
+  "3": "A landslide scar beside a hill road, a few years old, now green with grass, ferns and young trees.",
+  "4": "A hill where dark patches of forest sit in the folds and grassland covers the slopes.",
+  "6": "Mangroves along a creek, with their breathing roots standing out of the mud at low tide."
+ },
+ "sci.ecology.interdependence.L3": {
+  "5": "Bee boxes along mustard fields or in fruit orchards."
+ },
+ "sci.ecology.interdependence.L5": {
+  "1": "Grey-green, yellow or orange patches of lichen on old tree trunks, temple walls and rocks, most of all in cool hill towns.",
+  "3": "Tiny black stingless bees going in and out of a small wax tube in a wall or a tree hollow.",
+  "6": "Orchids growing on the branches of trees. Each one began as a dust-like seed fed by a fungus."
+ },
+ "sci.ecology.levels-of-life.L5": {
+  "2": "Mist rising from a forested hill after rain is water that the trees are sending back to the air.",
+  "6": "A termite mound by a roadside is built and cooled by a whole colony. No single termite could build one."
+ },
+ "sci.ecology.populations.L5": {
+  "0": "Pigeons gathered where someone scatters grain each morning, at a temple tank or a market square. Food sets their number.",
+  "2": "Water hyacinth covering a lake from bank to bank. The surface is full.",
+  "4": "A signboard at a wildlife park giving the estimated number of tigers and of deer.",
+  "7": "Fishing boats tied up at the harbour during the yearly fishing ban in the monsoon, when many fish breed."
+ },
+ "sci.electricity.circuits.L2": {
+  "0": "Homes light up their golu dolls with strings of tiny bulbs for Navaratri. Each string is one long circuit.",
+  "1": "At Durga Puja, pandals glow with thousands of small lights, joined by wires that run behind the cloth.",
+  "2": "At night markets, many fruit sellers' handcarts have a small light that runs on a battery.",
+  "3": "A cycle rickshaw may have a small light at the front, joined by wires to a battery.",
+  "4": "A lighthouse by the sea shines its light far out over the water at night."
+ },
+ "sci.electricity.electrical-safety.L2": {
+  "0": "Crows, pigeons and mynas sitting in rows on electric wires.",
+  "2": "Kites caught on electric wires after Makar Sankranti and Uttarayan.",
+  "3": "Lineworkers on electric poles in the monsoon, wearing helmets and rubber gloves."
+ },
+ "sci.electricity.static-and-charge.L3": {
+  "4": "Lightning over the sea, seen from a beach before the monsoon."
+ },
+ "sci.electricity.uses-of-electricity.L2": {
+  "0": "Tall windmills turning in the wind and making electricity.",
+  "1": "A dam, where water falling from the reservoir makes electricity for homes.",
+  "2": "Solar lamps shining at night in a village home, or a solar panel on a roof.",
+  "3": "On a city street, thick black wires run from poles into every building."
+ },
+ "sci.energy.energy-around-us.L3": {
+  "0": "Rows of tall wind turbines turning in the wind that blows through the hills.",
+  "1": "Blue solar panels on the roofs of flats, schools and temples, or in big solar parks.",
+  "3": "A dam, where water falling from high up spins turbines to make electricity."
+ },
+ "sci.energy.energy-around-us.L4": {
+  "2": "The star label on a fridge or air conditioner in a shop, with its units of electricity a year.",
+  "4": "A solar water heater on a roof, collecting sunlight at about 1,000 watts for each square metre."
+ },
+ "sci.energy.energy-around-us.L5": {
+  "0": "A ceiling fan whose motor feels warm after an hour.",
+  "1": "Clothes drying on a line in sunshine and wind.",
+  "4": "Tall wind turbines turning on a ridge.",
+  "7": "A kite rising on the wind at a kite festival."
+ },
+ "sci.energy.heat-moves.L3": {
+  "2": "A coconut-shell ladle in a kitchen, cool to hold in hot curry.",
+  "5": "An ice gola melting in a child's hand on a beach."
+ },
+ "sci.energy.heat-moves.L4": {
+  "4": "The afternoon sea breeze on a beach.",
+  "6": "White-painted terraces and roofs in hot cities."
+ },
+ "sci.energy.heat.L2": {
+  "1": "Cooked rice and curry kept warm in a heavy pot with its lid on.",
+  "2": "On winter mornings, families sit around a small fire or in the sunshine, wrapped in shawls.",
+  "4": "People wear loose white or light cotton clothes and turbans in the summer heat, which keep the Sun off them."
+ },
+ "sci.energy.heat.L3": {
+  "3": "The temperature shown on the TV weather report or a phone."
+ },
+ "sci.energy.heat.L4": {
+  "4": "Hot sand and cool sea at a beach at noon."
+ },
+ "sci.energy.stored-energy.L3": {
+  "6": "A dam on a river, holding a huge lake high up."
+ },
+ "sci.environment.caring.L1": {
+  "1": "Green and blue bins for wet and dry waste, outside homes and shops.",
+  "2": "Clay pots of water for birds on balconies in the hot months.",
+  "3": "Cloth bags and banana-leaf packing at vegetable markets.",
+  "4": "A shop that gives out cloth or paper bags instead of plastic ones."
+ },
+ "sci.environment.caring.L2": {
+  "0": "Kite string hanging from trees and wires after the kite festivals.",
+  "3": "A row of banyan trees planted along a road, now giant trees.",
+  "4": "A big stork nesting in a village tree. People who guard the nests help the stork's family."
+ },
+ "sci.environment.caring.L3": {
+  "5": "White froth on a lake, made by sewage and soap that flowed into the lake.",
+  "7": "A rainwater harvesting pit in the compound of a flat, with a pipe from the terrace."
+ },
+ "sci.environment.conservation.L3": {
+  "4": "Painted horns and garlands on cattle at Mattu Pongal.",
+  "7": "Temple tanks and old village tanks full after the monsoon."
+ },
+ "sci.environment.pollution.L3": {
+  "3": "Foam floating on a city lake, from sewage with soap in it."
+ },
+ "sci.evolution.closest-cousins.L2": {
+  "2": "Mothers carry babies in a saree or a cloth sling, so their hands are free to work.",
+  "4": "Gibbons in a zoo, hanging by their long arms from a branch. Look at their hands."
+ },
+ "sci.evolution.closest-cousins.L5": {
+  "0": "Monkeys sit on temple walls and bus stands. They are monkeys and not apes: look for the tail.",
+  "5": "Gibbons in a zoo or in a video, singing loud duets. Gibbons are apes, and they have no tail.",
+  "6": "Gorillas and orangutans in a zoo or in a video. Watch their hands.",
+  "7": "A monkey with a tail crossing a road. Monkeys have tails, and apes do not."
+ },
+ "sci.evolution.family-tree-of-life.L5": {
+  "3": "Dugongs grazing on seagrass, in a video or an aquarium. Their nearest living relatives are elephants.",
+  "5": "Frogs coming out in the first rains of the monsoon. Some frogs come up from underground for just a few days.",
+  "6": "A picture of an early whale fossil. Early whales lived beside a warm, shallow sea when whales were first taking to the water."
+ },
+ "sci.evolution.fossils-and-extinction.L2": {
+  "3": "Dinosaur models and real fossils at a science museum."
+ },
+ "sci.evolution.fossils-and-extinction.L5": {
+  "1": "Hills that look like giant steps, seen from a train window. Each step can be one flow of old lava.",
+  "2": "Old forts built of dark basalt, the lava rock from the time of the last dinosaurs.",
+  "4": "A rock with shells of sea animals in it, from the time of the dinosaurs. A sea covered that land then.",
+  "5": "A tree trunk turned to stone, in a museum or a fossil park.",
+  "8": "News about cheetahs brought from Africa, and how they are doing in a park."
+ },
+ "sci.evolution.human-origins.L5": {
+  "1": "In a museum, look for stone hand axes made long ago.",
+  "2": "A stone hand axe in a museum picture. People made hand axes about 1.5 million years ago. No bones were found with them, so nobody knows which kind of human made them.",
+  "3": "The top of an ancient human skull, found in 1982 on a river bank, in a museum picture.",
+  "4": "Paintings of animals and dancers on rock walls, painted by people of our own species thousands of years ago.",
+  "5": "Food left out in a summer kitchen spoils in hours, and the same food lasts for days in the fridge. Cold slows chemical reactions, and that is also why DNA lasts in cold caves.",
+  "7": "Tibetan families living in the mountains. Many Tibetan people carry a gene version for thin mountain air that came from Denisovans."
+ },
+ "sci.evolution.inheritance.L5": {
+  "6": "Bee boxes standing among coffee and pepper plants. In each box, the queen and the workers grew from the same kind of egg.",
+  "7": "Sea turtles burying their eggs in beach sand, in a video or on a beach. The warmth of each nest settles whether the hatchlings are female or male."
+ },
+ "sci.evolution.natural-selection.L5": {
+  "5": "Grey-green lichen patches grow on old tree trunks and rocks in cool hill towns. Each patch is a fungus and an alga living as one.",
+  "7": "Lotus leaves floating on temple tanks. Cut a lotus stalk, sold as a vegetable, and you see the air channels."
+ },
+ "sci.evolution.population-change.L5": {
+  "6": "A mule carrying loads on a hill path is a hybrid of a horse and a donkey."
+ },
+ "sci.evolution.story-of-life.L2": {
+  "1": "A fish market with prawns, crabs, squid and many kinds of fish. They are a few of the many kinds that still live in the sea.",
+  "2": "A tree trunk that turned to stone millions of years ago, in a museum or a fossil park.",
+  "4": "Old stromatolites, layered lumps in rock. They are among the oldest signs of life."
+ },
+ "sci.evolution.story-of-life.L3": {
+  "2": "Red, orange and grey striped rocks, used as building stone or seen on hillsides where iron ore is mined.",
+  "4": "The sea at a beach. Life lived only in water for most of the Earth's story."
+ },
+ "sci.evolution.story-of-life.L5": {
+  "0": "Bath soap makes very little lather in sea water. Try it with a cup of sea water at a beach.",
+  "2": "At salt pans, sea water dries in the sun. The salt is left crowded together as crystals.",
+  "3": "A hot spring, where water heated inside the rock comes up, as at a vent."
+ },
+ "sci.food.food-safety.L3": {
+  "4": "A fish seller keeping fish on crushed ice."
+ },
+ "sci.food.healthy-food.L1": {
+  "2": "Buttermilk given out free at street stalls in summer."
+ },
+ "sci.food.healthy-food.L2": {
+  "0": "Banana-leaf meals at an Onam sadya or in a restaurant, with rice, sambar, vegetables and a small payasam.",
+  "2": "Ragi mudde served with soppu saaru, a greens curry."
+ },
+ "sci.food.nutrients.L3": {
+  "4": "Ragi mudde, ragi dosa or ragi kanji, a calcium-rich food."
+ },
+ "sci.food.where-food-comes-from.L1": {
+  "0": "A huge rock bee comb hanging under a ledge or a water tank on a tall building. Watch from far away and never disturb it.",
+  "2": "Green rice fields from a train window.",
+  "3": "A fish market, with fish just brought in from the sea or the river."
+ },
+ "sci.food.where-food-comes-from.L3": {
+  "3": "Bee boxes beside yellow mustard fields in winter, or beside sunflower fields.",
+  "4": "White heaps of salt at salt pans by the sea."
+ },
+ "sci.forces.air-water-resistance.L5": {
+  "2": "A ferry tied to the jetty with thick ropes.",
+  "7": "A round boat carrying people across a river. A round boat meets more water resistance than a long, narrow one, so a round boat is slow."
+ },
+ "sci.forces.changing-motion.L1": {
+  "0": "A local train slowing down as it comes into a station, and speeding up as it leaves.",
+  "1": "A pambaram, a wooden spinning top, slowing down and wobbling to a stop on a floor.",
+  "2": "A rowing boat gliding to a river bank, the rower pushing the oar forward to stop.",
+  "3": "A cyclist squeezing her brakes on a steep road.",
+  "4": "A kite at Uttarayan climbing when the flyer pulls the string, and drifting down when she lets it go slack."
+ },
+ "sci.forces.changing-motion.L2": {
+  "1": "On a curve in a train, you sway to the side. Your body tries to go straight while the train turns.",
+  "2": "In a kitchen, a cook presses balls of dough flat to make luchis.",
+  "3": "On Uttarayan, a flier pulls the kite string, and the kite swoops and turns.",
+  "4": "At a temple car festival, thousands of people pull thick ropes together to start a huge wooden chariot rolling."
+ },
+ "sci.forces.flight.L3": {
+  "1": "The sky full of kites on Makar Sankranti, on Vishwakarma Puja or on Independence Day."
+ },
+ "sci.forces.friction.L5": {
+  "0": "Stone steps worn into a dip in the middle, at an old temple or a river ghat.",
+  "4": "The sign 'Use low gear' at the top of a steep hill road."
+ },
+ "sci.forces.how-toys-work.L1": {
+  "0": "Wooden tops and rolling toys for sale at a fair.",
+  "1": "Children playing with a string top, a pambaram, on a flat terrace.",
+  "3": "A child rolling an old cycle tyre along a lane with a stick.",
+  "4": "The giant wheel at a mela, spinning round its middle."
+ },
+ "sci.forces.push-and-pull.L1": {
+  "0": "A tractor pulling a trolley piled high with sugarcane.",
+  "1": "A vegetable seller pushing a cart on wheels down the street.",
+  "2": "Fishers on a beach pulling in a long net together.",
+  "3": "A temple chariot festival, where huge crowds pull giant wooden chariots with long ropes.",
+  "4": "A metro or lift door that slides open and shut, pushed and pulled by a motor."
+ },
+ "sci.forces.push-and-pull.L2": {
+  "0": "At a chariot festival, thousands of people pull huge wooden chariots with long ropes.",
+  "1": "In a boat race, long lines of rowers push the water back with their oars, and the boat shoots forward.",
+  "2": "At a kite festival, the wind pushes kites up and the flyers pull on their strings.",
+  "3": "At a railway station, porters carry heavy suitcases on their heads. The Earth pulls the load down, and their necks and backs push up.",
+  "4": "At a vegetable market, a seller weighs onions on a two-pan balance."
+ },
+ "sci.forces.push-and-pull.L3": {
+  "0": "A dabbawala pushing a handcart of tiffin boxes through a street.",
+  "1": "A bullock cart in a village, or a hand-pulled rickshaw, pulled along by an animal or a person.",
+  "3": "A tug of war at a school sports day, or vadamvali at Onam.",
+  "4": "Kites on Makar Sankranti, each string pulling its kite towards a rooftop.",
+  "5": "A woman poling a boat on a river or a canal, pushing against the bed."
+ },
+ "sci.forces.simple-machines.L3": {
+  "5": "A dhenki, the foot-worked rice pounder, in a village."
+ },
+ "sci.forces.stretching-springs.L3": {
+  "3": "Rubber trees, with cups catching the white milky latex that becomes rubber.",
+  "7": "A rope bridge over a stream, swaying and springing back as people cross."
+ },
+ "sci.genetics.dna-and-rna.L3": {
+  "4": "A family photo, where children share looks with their parents. DNA fingerprinting is a test that uses DNA to tell people apart."
+ },
+ "sci.gravity.falling.L1": {
+  "0": "Monsoon rain falling from the sky and running down the window glass.",
+  "1": "A waterfall, where a river falls down a tall cliff.",
+  "2": "Shiuli flowers, which fall from the tree in the early morning and cover the ground.",
+  "3": "Dahi Handi, where a pot of curd hangs on a rope high above the street until someone breaks it.",
+  "4": "A coconut falling from a tall palm."
+ },
+ "sci.gravity.falling.L3": {
+  "4": "Waterfalls, where water falls and speeds up.",
+  "6": "Monsoon rain falling straight down when there is no wind."
+ },
+ "sci.gravity.weight-and-mass.L4": {
+  "3": "A dancing doll with a round bottom, which rocks and stands up straight again."
+ },
+ "sci.habitats.adaptations.L2": {
+  "0": "Silver mathi and striped bangda on ice at a fish market, with red gills under their flaps.",
+  "1": "Camels kneeling on their chest pads, at a fair or in a picture.",
+  "2": "An aloe plant in a pot on a sunny balcony, with thick, juicy leaves.",
+  "4": "Mudskippers hopping on the mud of a mangrove shore.",
+  "5": "Pigeons nesting on window ledges, the way their family once nested on cliffs."
+ },
+ "sci.habitats.adaptations.L3": {
+  "8": "Mangrove trees with breathing roots, by a creek or the sea.",
+  "9": "Camels in the desert, and yaks in the mountains, in a picture or a zoo."
+ },
+ "sci.habitats.city-nature.L2": {
+  "0": "Black kites circling high over the city, hundreds at a time, on hot afternoons.",
+  "1": "Big bats called flying foxes hanging from big trees in the daytime.",
+  "2": "Rock bee hives hanging under the ledges of tall buildings and water tanks.",
+  "3": "Spotted deer and blackbuck in a park in the middle of a city.",
+  "4": "Rose-ringed parakeets flying in noisy flocks over the city in the evening."
+ },
+ "sci.habitats.habitats.L2": {
+  "0": "Green moss and small ferns on old stone walls during the monsoon.",
+  "1": "Rock agama lizards sunning themselves on big boulders.",
+  "2": "Mangrove trees standing in salty mud.",
+  "3": "Camels and thorny trees in the desert, in a picture or a zoo.",
+  "4": "Lotus and water hyacinth on village ponds."
+ },
+ "sci.habitats.habitats.L3": {
+  "4": "Mangroves with roots sticking up from the mud, by a creek or the sea.",
+  "5": "Sea turtles on a beach in their nesting season, in a video or on a beach.",
+  "6": "A sacred grove, a patch of forest where trees are never cut."
+ },
+ "sci.habitats.lands-and-lives.L5": {
+  "1": "A sloping tiled roof on an old house, beside a flat concrete roof.",
+  "6": "Clouds piled against the hills on a hill road, and clear sky beyond.",
+  "7": "Mangrove trees along a creek, with roots standing out of the mud."
+ },
+ "sci.habitats.local-environments.L1": {
+  "0": "Fish and turtles living in a temple tank.",
+  "2": "Green moss on walls and tree trunks during the monsoon.",
+  "3": "Egrets walking beside cows in a field, catching the insects the cows stir up.",
+  "4": "Lotus leaves covering a village pond."
+ },
+ "sci.habitats.water-habitats.L5": {
+  "2": "Paddle wheels on a prawn or fish pond. They splash water into the air to stir oxygen in."
+ },
+ "sci.habitats.where-life-lives.L5": {
+  "3": "Giant African snails on a garden wall after rain.",
+  "5": "Dark, layered rock on a hillside, seen from a train. It is lava that flowed long ago, while our land was crossing the sea.",
+  "6": "A tall mountain range on a clear day, or in a picture. Mountains like the Himalaya are still rising, because our land is still pushing north."
+ },
+ "math.probability.likely-and-unlikely.L1": {
+  "1": "A game of snakes and ladders. Each roll of the dice is a might: a ladder, a snake or neither."
+ }
+}

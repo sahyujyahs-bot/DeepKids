@@ -1794,7 +1794,7 @@
  ],
  "spotted": [
   {
-   "text": "A huge rock bee comb hanging under a ledge or a water tank on a tall building, in Bengaluru, Hyderabad or Chennai. Watch from far away and never disturb it.",
+   "text": "A huge rock bee comb hanging under a ledge or a water tank on a tall building. Watch from far away and never disturb it.",
    "art": "A large brown rock bee comb hanging under the ledge of a city building, seen from a distance."
   },
   {
@@ -1802,11 +1802,11 @@
    "art": "A small milk booth at dawn with crates of milk packets and a woman buying milk."
   },
   {
-   "text": "Green rice fields from a train window, in Thanjavur, Kerala, Bengal or Assam.",
+   "text": "Green rice fields from a train window.",
    "art": "Bright green rice fields with coconut palms beside them, seen from a train window."
   },
   {
-   "text": "A fish market in Kochi or Kolkata, with fish just brought in from the sea or the river.",
+   "text": "A fish market, with fish just brought in from the sea or the river.",
    "art": "A busy fish market with women selling fish laid out on ice in steel trays."
   },
   {
@@ -2037,14 +2037,22 @@
     "source": "Brihadaranyaka Upanishad 2.5.1 (the Madhu Vidya, the teaching of honey)",
     "teaching": "This earth is honey for all beings, and all beings are honey for this earth.",
     "link": "To make honey, a flower feeds the bees, and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says.",
-    "verse": ["इयं पृथिवी सर्वेषां भूतानां मधु", "अस्यै पृथिव्यै सर्वाणि भूतानि मधु"],
+    "verse": [
+     "इयं पृथिवी सर्वेषां भूतानां मधु",
+     "अस्यै पृथिव्यै सर्वाणि भूतानि मधु"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Dhammapada, verse 49",
     "teaching": "A bee gathers nectar from a flower without harming the flower's colour or smell, and flies away. A wise person moves through the village in the same way.",
     "link": "A bee takes nectar but leaves the flower whole, and carries the flower's pollen on. Taking food does not have to mean harming.",
-    "verse": ["Yathāpi bhamaro pupphaṁ,", "vaṇṇagandhamaheṭhayaṁ;", "Paleti rasamādāya,", "evaṁ gāme munī care."],
+    "verse": [
+     "Yathāpi bhamaro pupphaṁ,",
+     "vaṇṇagandhamaheṭhayaṁ;",
+     "Paleti rasamādāya,",
+     "evaṁ gāme munī care."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2084,5 +2092,117 @@
   "art": "An old wooden table with a microscope, a large bee on a glass slide, and a drawing of a honeycomb beside it."
  },
  "playtest": "Walked through the sugar water test, the lunch sort, the feely bag, the ants' menu, the food week, both games and the bee tongue challenge as a parent and a six-year-old in a city flat would. Fixed: the sorting game scored two ways (cards kept versus cards left on plates), so wrong guesses now move the card and right guesses earn a mark; the bee challenge listed five tools but said four caps and four tools; the feely bag could have no animal food, so paneer is the swap for families without eggs; the sugar water step said to leave plates until morning but the evening look came first; 'was never alive' lines for salt and water now say what is true without denying anything; the story note lost its internal wording; video titles lost their working notes; the food week question no longer assumes sambar; and repeated sugar water questions in the sheets and quiz were replaced with new ones. The sugar water test needs only sugar, water, two steel plates, a katori and a fan, and is checked the next morning. Both games have every card written out.",
- "warm": {"words": ["PLANT", "HONEY", "GRASS", "MANGO", "SEEDS"], "quiz": [["Green plants make their own food from sunlight, air and water.", true, "Leaves use sunlight, air and water to make food, so a plant does not need to eat."], ["Honey falls from the sky like dew, and bees only pick it up.", false, "Bees drink nectar from flowers and dry it into honey in their hive."], ["Every animal eats plants, or other animals, or both.", true, "Animals cannot make food from sunlight, so they must eat something."], ["Everything we eat comes from a plant or an animal.", false, "Salt and water are also things we take in. They come from the Earth, not from a plant or an animal."], ["Honey is thick because water goes out of the nectar into the air.", true, "Nectar is thin and watery. Bees dry it, and the water leaves into the air as tiny bits too small to see."], ["A lion that eats only meat does not depend on plants at all.", false, "The animals a lion eats ate plants, so plants feed the lion too."], ["Palak is food from a leaf, and carrot is food from a root.", true, "We eat different parts of plants: seeds, fruits, leaves, roots and stems."], ["Bees choose flowers at random and never remember them.", false, "Bees choose flowers, remember where the best ones are, and can tell other bees by dancing."], ["Milk is made by a cow, buffalo or goat from the plants she eats.", true, "The shop only sells milk. The animal's body makes the milk from the food she ate."], ["People can make food from sunlight, the way plants do.", false, "Only green plants can do that, so people must eat plants or animals."]], "odd": [[["Rice", "Coconut", "Palak", "Milk"], "Milk", "Rice, coconut and palak are parts of plants. Milk is made by an animal."], [["Mango tree", "Tulsi", "Grass", "Cow"], "Cow", "Mango tree, tulsi and grass make their own food from sunlight. A cow must eat."], [["Cow", "Goat", "Rabbit", "Tiger"], "Tiger", "Cow, goat and rabbit eat only plants. A tiger eats other animals."], [["Carrot", "Radish", "Beetroot", "Spinach"], "Spinach", "Carrot, radish and beetroot are roots we eat. Spinach is a leaf."], [["Bee", "Butterfly", "Sunbird", "Buffalo"], "Buffalo", "Bee, butterfly and sunbird drink flower nectar. A buffalo eats grass and does not drink nectar."]]}
+ "warm": {
+  "words": [
+   "PLANT",
+   "HONEY",
+   "GRASS",
+   "MANGO",
+   "SEEDS"
+  ],
+  "quiz": [
+   [
+    "Green plants make their own food from sunlight, air and water.",
+    true,
+    "Leaves use sunlight, air and water to make food, so a plant does not need to eat."
+   ],
+   [
+    "Honey falls from the sky like dew, and bees only pick it up.",
+    false,
+    "Bees drink nectar from flowers and dry it into honey in their hive."
+   ],
+   [
+    "Every animal eats plants, or other animals, or both.",
+    true,
+    "Animals cannot make food from sunlight, so they must eat something."
+   ],
+   [
+    "Everything we eat comes from a plant or an animal.",
+    false,
+    "Salt and water are also things we take in. They come from the Earth, not from a plant or an animal."
+   ],
+   [
+    "Honey is thick because water goes out of the nectar into the air.",
+    true,
+    "Nectar is thin and watery. Bees dry it, and the water leaves into the air as tiny bits too small to see."
+   ],
+   [
+    "A lion that eats only meat does not depend on plants at all.",
+    false,
+    "The animals a lion eats ate plants, so plants feed the lion too."
+   ],
+   [
+    "Palak is food from a leaf, and carrot is food from a root.",
+    true,
+    "We eat different parts of plants: seeds, fruits, leaves, roots and stems."
+   ],
+   [
+    "Bees choose flowers at random and never remember them.",
+    false,
+    "Bees choose flowers, remember where the best ones are, and can tell other bees by dancing."
+   ],
+   [
+    "Milk is made by a cow, buffalo or goat from the plants she eats.",
+    true,
+    "The shop only sells milk. The animal's body makes the milk from the food she ate."
+   ],
+   [
+    "People can make food from sunlight, the way plants do.",
+    false,
+    "Only green plants can do that, so people must eat plants or animals."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Rice",
+     "Coconut",
+     "Palak",
+     "Milk"
+    ],
+    "Milk",
+    "Rice, coconut and palak are parts of plants. Milk is made by an animal."
+   ],
+   [
+    [
+     "Mango tree",
+     "Tulsi",
+     "Grass",
+     "Cow"
+    ],
+    "Cow",
+    "Mango tree, tulsi and grass make their own food from sunlight. A cow must eat."
+   ],
+   [
+    [
+     "Cow",
+     "Goat",
+     "Rabbit",
+     "Tiger"
+    ],
+    "Tiger",
+    "Cow, goat and rabbit eat only plants. A tiger eats other animals."
+   ],
+   [
+    [
+     "Carrot",
+     "Radish",
+     "Beetroot",
+     "Spinach"
+    ],
+    "Spinach",
+    "Carrot, radish and beetroot are roots we eat. Spinach is a leaf."
+   ],
+   [
+    [
+     "Bee",
+     "Butterfly",
+     "Sunbird",
+     "Buffalo"
+    ],
+    "Buffalo",
+    "Bee, butterfly and sunbird drink flower nectar. A buffalo eats grass and does not drink nectar."
+   ]
+  ]
+ }
 }

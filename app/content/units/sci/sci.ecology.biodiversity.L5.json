@@ -3045,7 +3045,7 @@
    "art": "Two crows on a wall, one with a grey neck and one all black."
   },
   {
-   "text": "A sacred grove, a kavu in Kerala or a small patch of old trees by a temple, with a different kind of forest inside.",
+   "text": "A sacred grove or a small patch of old trees by a temple, with a different kind of forest inside.",
    "art": "A small dense patch of old trees with a shrine, in the middle of open fields."
   },
   {
@@ -3053,7 +3053,7 @@
    "art": "A forest gate with a painted board reading National Park and a guard's hut."
   },
   {
-   "text": "A road sign that warns of animals crossing, on a highway through a forest, for example near Bandipur or Mudumalai.",
+   "text": "A road sign that warns of animals crossing, on a highway through a forest.",
    "art": "A yellow road sign with a deer on it, beside a road running through a forest."
   },
   {
@@ -3512,14 +3512,22 @@
     "source": "Chandogya Upanishad 6.11, where Uddalaka teaches his son Shvetaketu with a great tree",
     "teaching": "If life leaves one branch of a great tree, that branch dries up. If life leaves a second branch, that one dries up too. If life leaves the whole tree, the whole tree dries up.",
     "link": "The tree of life works in the same way. When a species is lost from one place, a part of the tree dries, and when her last place is lost, the whole branch is gone.",
-    "verse": ["अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति", "द्वितीयां जहात्यथ सा शुष्यति", "तृतीयां जहात्यथ सा शुष्यति", "सर्वं जहाति सर्वः शुष्यति"],
+    "verse": [
+     "अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति",
+     "द्वितीयां जहात्यथ सा शुष्यति",
+     "तृतीयां जहात्यथ सा शुष्यति",
+     "सर्वं जहाति सर्वः शुष्यति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this changing world is held within the One. Enjoy what is given, and do not covet what belongs to another.",
     "link": "Taking too many is one of the five causes of extinction. Taking only what is needed leaves something for the other beings and for those who come after.",
-    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse": [
+     "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्",
+     "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"
+    ],
     "verse_lang": "sa"
    },
    {

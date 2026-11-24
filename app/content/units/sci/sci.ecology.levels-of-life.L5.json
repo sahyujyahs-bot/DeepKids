@@ -521,21 +521,30 @@
     "source": "Atharva Veda 12.1.12",
     "teaching": "The Earth is my mother, and I am her son.",
     "link": "This hymn was sung long before anyone could measure the air. The science agrees with the plain part of it. Every atom of your body, and every breath, came to you from the Earth and the living beings on the Earth.",
-    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse": [
+     "यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।",
+     "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Marcus Aurelius, Meditations 4.40",
     "teaching": "Always think of the universe as one living being, with one substance and one soul. See how all things work together to cause all that happens.",
     "link": "Marcus Aurelius was a Roman emperor who wrote this about 1,850 years ago. The Gaia hypothesis asks a smaller question about just one planet: do the living and the non-living parts of the Earth work together as one system?",
-    "verse": ["Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν", "καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια"],
+    "verse": [
+     "Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν",
+     "καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Thirukkural 20",
     "teaching": "If the world cannot go on without water, then water cannot go on without rain.",
     "link": "Thiruvalluvar saw that life depends on something far above any one field or village. Today we can add a step. Part of the rain depends on forests, so the rain also depends on life.",
-    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse": [
+     "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+     "வான்இன்று அமையாது ஒழுக்கு."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -3170,7 +3179,7 @@
    "art": "A stone-stepped temple tank with lotus leaves, fish near the steps and an egret on the edge."
   },
   {
-   "text": "Mist rising from a forested hill after rain, in Munnar, Coorg or Cherrapunji, is water that the trees are sending back to the air.",
+   "text": "Mist rising from a forested hill after rain is water that the trees are sending back to the air.",
    "art": "A green hill range with white mist lifting off the treetops after rain."
   },
   {
@@ -3186,7 +3195,7 @@
    "art": "A compost heap on a cool morning with thin steam rising from the top."
   },
   {
-   "text": "A termite mound by a roadside in Telangana or Karnataka is built and cooled by a whole colony. No single termite could build one.",
+   "text": "A termite mound by a roadside is built and cooled by a whole colony. No single termite could build one.",
    "art": "A tall red termite mound beside a dry road, with tiny termites at one opening."
   },
   {

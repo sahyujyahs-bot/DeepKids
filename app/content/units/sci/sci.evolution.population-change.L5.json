@@ -2786,7 +2786,7 @@
    "art": "A raised road on pillars passing through forest, with deer grazing beneath."
   },
   {
-   "text": "A mule carrying loads on a hill path in the Himalayas or the Nilgiris is a hybrid of a horse and a donkey.",
+   "text": "A mule carrying loads on a hill path is a hybrid of a horse and a donkey.",
    "art": "A mule with packs on a narrow hill path."
   },
   {
@@ -3334,7 +3334,9 @@
     "source": "Zhuangzi, chapter 4 (the oak at the village shrine)",
     "teaching": "A carpenter passes a huge old oak and calls the oak useless, because the wood is good for nothing. That night the oak speaks to him in a dream. The fruit trees are stripped and broken because they are useful, says the oak. Being useless is what let me grow old.",
     "link": "The carpenter judged the oak by what the wood could do for him. This lesson's science shows that a feature needs no use to be there. 'What is it for?' is our question, and nature does not always have an answer to it.",
-    "verse": ["散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"],
+    "verse": [
+     "散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"
+    ],
     "verse_lang": "zh"
    },
    {

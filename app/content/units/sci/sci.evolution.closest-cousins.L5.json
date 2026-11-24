@@ -2664,7 +2664,7 @@
  ],
  "spotted": [
   {
-   "text": "Bonnet macaques sit on temple walls and bus stands across South India. They are monkeys and not apes: look for the tail.",
+   "text": "Monkeys sit on temple walls and bus stands. They are monkeys and not apes: look for the tail.",
    "art": "Three bonnet macaques on a temple wall, their long tails hanging down."
   },
   {
@@ -2684,15 +2684,15 @@
    "art": "Two doorsteps side by side with two different kolam patterns."
   },
   {
-   "text": "In the forests of Assam, hoolock gibbons sing loud duets at dawn. They are India's only apes.",
+   "text": "Gibbons in a zoo or in a video, singing loud duets. Gibbons are apes, and they have no tail.",
    "art": "Two hoolock gibbons, one dark and one pale, calling from the top of a tall tree at sunrise."
   },
   {
-   "text": "Mysuru Zoo is the only zoo in India with gorillas. Orangutans live there too. Watch their hands.",
+   "text": "Gorillas and orangutans in a zoo or in a video. Watch their hands.",
    "art": "A gorilla sitting behind glass, carefully peeling a fruit with thick fingers."
   },
   {
-   "text": "Lion-tailed macaques cross the road at Valparai in Tamil Nadu. They are monkeys who live only in the Western Ghats.",
+   "text": "A monkey with a tail crossing a road. Monkeys have tails, and apes do not.",
    "art": "A black macaque with a silver mane walking along a rope bridge above a hill road."
   },
   {
@@ -3201,14 +3201,20 @@
     "source": "Thirukkural 972",
     "teaching": "All living beings are alike in birth. What sets them apart is what they do.",
     "link": "The Tamil words are 'ella uyirkkum', which means 'for all lives'. Many translators write 'all people'. Read in the wider way, the couplet says what this lesson found. We and the other apes begin from the same birth and the same family. The differences are in what each does.",
-    "verse": ["பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா", "செய்தொழில் வேற்றுமை யான்."],
+    "verse": [
+     "பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா",
+     "செய்தொழில் வேற்றுமை யான்."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 5.18 (paraphrased)",
     "teaching": "The wise look with the same eye on a learned person, a cow, an elephant, a dog and a person whom others look down on.",
     "link": "The verse asks for one way of seeing across kinds of beings and across ranks among people. The science here removes the reasons people gave for ranking humans above the other apes.",
-    "verse": ["विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि।", "शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।"],
+    "verse": [
+     "विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि।",
+     "शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।"
+    ],
     "verse_lang": "sa"
    },
    {

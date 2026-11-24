@@ -1683,23 +1683,23 @@
  ],
  "spotted": [
   {
-   "text": "Black kites circling high over Delhi, hundreds at a time, on hot afternoons.",
+   "text": "Black kites circling high over the city, hundreds at a time, on hot afternoons.",
    "art": "Many black kites soaring in circles over the rooftops of a big city."
   },
   {
-   "text": "Indian flying foxes hanging from big trees in many towns, such as in Kerala and Karnataka, in the daytime.",
+   "text": "Big bats called flying foxes hanging from big trees in the daytime.",
    "art": "Dozens of large fruit bats hanging upside down from the branches of a big tree."
   },
   {
-   "text": "Rock bee hives hanging under the ledges of tall buildings and water tanks in Bengaluru and other cities.",
+   "text": "Rock bee hives hanging under the ledges of tall buildings and water tanks.",
    "art": "A big dark half-moon hive of rock bees under the ledge of a tall building."
   },
   {
-   "text": "Spotted deer and blackbuck in Guindy National Park, in the middle of Chennai.",
+   "text": "Spotted deer and blackbuck in a park in the middle of a city.",
    "art": "Spotted deer grazing under trees, with city buildings in the distance."
   },
   {
-   "text": "Rose-ringed parakeets flying in noisy flocks over Kolkata and Mumbai in the evening.",
+   "text": "Rose-ringed parakeets flying in noisy flocks over the city in the evening.",
    "art": "A flock of green parakeets flying over city rooftops at sunset."
   }
  ],
@@ -1950,14 +1950,20 @@
     "source": "Purananuru 192, by the Tamil poet Kaniyan Pungundranar",
     "teaching": "Every town is our town. Everyone is our kin.",
     "link": "The Tamil poet Kaniyan Pungundranar was speaking about people. Our street shows that the crow, the koel, the dog and the neem tree also call our town their home. They are our neighbours in it.",
-    "verse": ["யாதும் ஊரே; யாவரும் கேளிர்"],
+    "verse": [
+     "யாதும் ஊரே; யாவரும் கேளிர்"
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant",
     "teaching": "Some men who cannot see each touch one part of an elephant. One feels the trunk, one the ear, one the leg. Each says the elephant is only what he touched, and they argue.",
     "link": "A dog knows our street mostly by smell, a bat by echoes at night, a koel by sound, and you mostly by sight. Each being meets a different part of the same street.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],

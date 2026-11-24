@@ -2707,7 +2707,7 @@
    "art": "A blue fighting fish in a round bowl with her mouth touching the surface."
   },
   {
-   "text": "Mudskippers hopping on the wet mud at low tide in a mangrove creek, such as at Point Calimere in Tamil Nadu or Coringa in Andhra Pradesh.",
+   "text": "Mudskippers hopping on the wet mud at low tide in a mangrove creek.",
    "art": "Several small goggle-eyed fish propped on their front fins on shining mud among mangrove roots."
   },
   {
@@ -3209,7 +3209,10 @@
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "By knowing one lump of clay, everything made of clay is known. The different shapes are names that come from speech. What is real is the clay.",
     "link": "A pot and a plate differ in shape and are one in their clay. A crow and a crocodile differ in shape and are one in their family. 'Bird' and 'reptile' are names we gave to shapes.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3221,7 +3224,9 @@
     "source": "Tao Te Ching 1 (paraphrased)",
     "teaching": "The name that can be spoken is not the lasting name. Naming is the mother of the ten thousand things.",
     "link": "We named five groups, and then the platypus did not fit. The animals were never divided as sharply as our names for them.",
-    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse": [
+     "道可道，非常道，名可名，非常名。"
+    ],
     "verse_lang": "zh"
    }
   ],

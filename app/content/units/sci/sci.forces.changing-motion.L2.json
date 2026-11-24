@@ -1909,19 +1909,19 @@
    "art": "An auto-rickshaw turning a corner on a busy street, with a curved arrow showing its path."
   },
   {
-   "text": "On a curve in a Mumbai local train, you sway to the side. Your body tries to go straight while the train turns.",
+   "text": "On a curve in a train, you sway to the side. Your body tries to go straight while the train turns.",
    "art": "Passengers in a Mumbai local train holding the handles and swaying to one side as the train goes round a curve."
   },
   {
-   "text": "In a kitchen in Kolkata, a cook presses balls of dough flat to make luchis.",
+   "text": "In a kitchen, a cook presses balls of dough flat to make luchis.",
    "art": "A woman's hands pressing a small ball of dough flat with a rolling pin on a round board."
   },
   {
-   "text": "On Uttarayan in Gujarat, a flier pulls the kite string, and the kite swoops and turns.",
+   "text": "On Uttarayan, a flier pulls the kite string, and the kite swoops and turns.",
    "art": "A sky full of colourful kites over the rooftops of Ahmedabad, with a girl on a terrace pulling a kite string."
   },
   {
-   "text": "At the Thiruvarur temple car festival in Tamil Nadu, thousands of people pull thick ropes together to start the huge wooden chariot rolling.",
+   "text": "At a temple car festival, thousands of people pull thick ropes together to start a huge wooden chariot rolling.",
    "art": "Crowds of people pulling long thick ropes in front of a tall decorated wooden temple chariot."
   }
  ],
@@ -2125,7 +2125,9 @@
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change.",
     "link": "In every test in this lesson, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.",
-    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2261,5 +2263,117 @@
    "check": "Found by search: \"Why Doesn't the Moon Fall to Earth? Exploring Orbits and Gravity\" by NASA Night Sky Network, 5 min 27 s. A parent may preview it."
   }
  ],
- "warm": {"words": ["FORCE", "SHAPE", "SPEED", "TWIST", "CURVE"], "quiz": [["A space probe far from any planet keeps going straight at the same speed.", true, "With almost no force on it, a moving thing keeps going straight at the same speed."], ["A marble keeps curving after the curved wall ends.", false, "With no wall pushing it sideways, the marble goes off in a straight line."], ["Turning a corner needs no force if the speed stays the same.", false, "Direction is part of motion, so a sideways push or pull is needed to turn."], ["A steel spoon changes shape if you push it hard enough.", true, "Hard things change shape too, but they need a much bigger force than soft things."], ["A ball rolling down a ramp speeds up because gravity pulls it down the slope.", true, "Gravity pulls things down a slope, so they go faster as they roll."], ["Foil springs back to its old shape, just like a rubber band.", false, "Foil stays crumpled, while a rubber band springs back by itself."], ["The Moon goes round the Earth with nothing pulling it.", false, "The Earth's gravity pulls the Moon all the time, which keeps bending its path."], ["Squashing, stretching and twisting are all ways a force changes shape.", true, "Each one is a push or a pull that changes the outline of a thing."], ["You can see a force itself, the way you can see a ball.", false, "We cannot see a force, only what it does to things."], ["A rubber band goes back to its old shape after you stretch it.", true, "When the pull stops, the rubber band springs back to its old shape by itself."]], "odd": [[["Squash", "Stretch", "Twist", "Speed up"], "Speed up", "Squash, stretch and twist change a thing's shape; speeding up changes how fast it moves."], [["Rubber band", "Sponge", "Spring", "Foil"], "Foil", "Rubber band, sponge and spring spring back after a push; foil stays in its new shape."], [["Marble on a curved wall", "Moon going round Earth", "Car turning a corner", "Probe in empty space"], "Probe in empty space", "The first three are pushed or pulled sideways, so they turn; the probe has no sideways push and goes straight."], [["Ball down a ramp", "Dropped stone", "Falling coconut", "Ball on a thick rug"], "Ball on a thick rug", "Gravity pulls the first three the way they are going, so they speed up; a rug slows a ball down."], [["Gravity", "Push", "Pull", "Rubber band"], "Rubber band", "Gravity, push and pull are forces; a rubber band is a thing that a force can change."]]}
+ "warm": {
+  "words": [
+   "FORCE",
+   "SHAPE",
+   "SPEED",
+   "TWIST",
+   "CURVE"
+  ],
+  "quiz": [
+   [
+    "A space probe far from any planet keeps going straight at the same speed.",
+    true,
+    "With almost no force on it, a moving thing keeps going straight at the same speed."
+   ],
+   [
+    "A marble keeps curving after the curved wall ends.",
+    false,
+    "With no wall pushing it sideways, the marble goes off in a straight line."
+   ],
+   [
+    "Turning a corner needs no force if the speed stays the same.",
+    false,
+    "Direction is part of motion, so a sideways push or pull is needed to turn."
+   ],
+   [
+    "A steel spoon changes shape if you push it hard enough.",
+    true,
+    "Hard things change shape too, but they need a much bigger force than soft things."
+   ],
+   [
+    "A ball rolling down a ramp speeds up because gravity pulls it down the slope.",
+    true,
+    "Gravity pulls things down a slope, so they go faster as they roll."
+   ],
+   [
+    "Foil springs back to its old shape, just like a rubber band.",
+    false,
+    "Foil stays crumpled, while a rubber band springs back by itself."
+   ],
+   [
+    "The Moon goes round the Earth with nothing pulling it.",
+    false,
+    "The Earth's gravity pulls the Moon all the time, which keeps bending its path."
+   ],
+   [
+    "Squashing, stretching and twisting are all ways a force changes shape.",
+    true,
+    "Each one is a push or a pull that changes the outline of a thing."
+   ],
+   [
+    "You can see a force itself, the way you can see a ball.",
+    false,
+    "We cannot see a force, only what it does to things."
+   ],
+   [
+    "A rubber band goes back to its old shape after you stretch it.",
+    true,
+    "When the pull stops, the rubber band springs back to its old shape by itself."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Squash",
+     "Stretch",
+     "Twist",
+     "Speed up"
+    ],
+    "Speed up",
+    "Squash, stretch and twist change a thing's shape; speeding up changes how fast it moves."
+   ],
+   [
+    [
+     "Rubber band",
+     "Sponge",
+     "Spring",
+     "Foil"
+    ],
+    "Foil",
+    "Rubber band, sponge and spring spring back after a push; foil stays in its new shape."
+   ],
+   [
+    [
+     "Marble on a curved wall",
+     "Moon going round Earth",
+     "Car turning a corner",
+     "Probe in empty space"
+    ],
+    "Probe in empty space",
+    "The first three are pushed or pulled sideways, so they turn; the probe has no sideways push and goes straight."
+   ],
+   [
+    [
+     "Ball down a ramp",
+     "Dropped stone",
+     "Falling coconut",
+     "Ball on a thick rug"
+    ],
+    "Ball on a thick rug",
+    "Gravity pulls the first three the way they are going, so they speed up; a rug slows a ball down."
+   ],
+   [
+    [
+     "Gravity",
+     "Push",
+     "Pull",
+     "Rubber band"
+    ],
+    "Rubber band",
+    "Gravity, push and pull are forces; a rubber band is a thing that a force can change."
+   ]
+  ]
+ }
 }

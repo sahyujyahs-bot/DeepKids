@@ -1860,15 +1860,15 @@
  ],
  "spotted": [
   {
-   "text": "Silver anklets, toe rings and Diwali coins that have gone grey or black in a drawer, in homes all over India.",
+   "text": "Silver anklets, toe rings and Diwali coins that have gone grey or black in a drawer.",
    "art": "An open steel box with grey silver anklets, a toe ring and a dark silver coin."
   },
   {
-   "text": "Brass and copper lamps being cleaned with tamarind before a festival, like the nilavilakku lamps of Kerala before Onam.",
+   "text": "Brass and copper lamps being cleaned with tamarind before a festival.",
    "art": "A woman rubbing a tall brass lamp with tamarind pulp on a verandah, with one half shining."
   },
   {
-   "text": "Gold jewellery shops in Thrissur, Chennai and Kolkata, with gold that stays shiny in every window.",
+   "text": "Gold jewellery in a shop window. The gold stays shiny.",
    "art": "A row of gold necklaces and bangles shining behind a shop window."
   },
   {
@@ -1876,7 +1876,7 @@
    "art": "A balcony grill with a patch of orange rust where the paint has peeled."
   },
   {
-   "text": "Copper water pots, called kudam in Tamil Nadu and tambya in Maharashtra, in many kitchens.",
+   "text": "Copper water pots in many kitchens.",
    "art": "A round copper pot of water on a kitchen shelf, with a steel tumbler on top."
   }
  ],
@@ -2127,7 +2127,12 @@
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay. By knowing one nugget of gold, you know everything made of gold. By knowing one iron nail-cutter, you know everything made of iron. The shapes are only names. The clay, the gold and the iron are what is real.",
     "link": "A kolusu, a coin and a spoon are different shapes, but if they are silver, they are all the same element. Even the black tarnish still held the same silver.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्", "यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात्", "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्",
+     "यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात्",
+     "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्"
+    ],
     "verse_lang": "sa"
    },
    {

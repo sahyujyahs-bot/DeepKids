@@ -2838,15 +2838,15 @@
    "art": "A fenced empty city plot between two buildings, thick with tall weeds, a few bushes and one young tree."
   },
   {
-   "text": "A dried tank bed in summer, in Tamil Nadu or Telangana. Within weeks of drying it is covered in short grass, and cattle graze there.",
+   "text": "A dried tank bed in summer. Within weeks of drying it is covered in short grass, and cattle graze there.",
    "art": "A wide dry tank bed with a carpet of new grass, cattle grazing and the tank bund behind."
   },
   {
-   "text": "A landslide scar beside a hill road in Kerala or Uttarakhand, a few years old, now green with grass, ferns and young trees.",
+   "text": "A landslide scar beside a hill road, a few years old, now green with grass, ferns and young trees.",
    "art": "A steep hill slope with a pale scar down it, the scar dotted with ferns, grass and thin saplings."
   },
   {
-   "text": "The hills above Munnar, Ooty or Kodaikanal, where dark shola forest sits in the folds and grassland covers the slopes.",
+   "text": "A hill where dark patches of forest sit in the folds and grassland covers the slopes.",
    "art": "Rolling high hills with dark green forest in the valleys and golden grassland on the rounded tops."
   },
   {
@@ -2854,7 +2854,7 @@
    "art": "A fallen tree trunk in a park with a ring of bright young plants and creepers growing in the sunny gap around it."
   },
   {
-   "text": "Mangroves along a creek in Mumbai, Kochi or Pichavaram, with their breathing roots standing out of the mud at low tide.",
+   "text": "Mangroves along a creek, with their breathing roots standing out of the mud at low tide.",
    "art": "A muddy creek at low tide lined with mangrove trees, pencil-like roots sticking up from the mud."
   },
   {
@@ -3384,21 +3384,31 @@
     "source": "Thirukkural 15 (paraphrased)",
     "teaching": "It is rain that ruins people, and it is rain again that lifts up those who were ruined.",
     "link": "Valluvar saw that the same thing can clear and restore. A flood strips a river bank, and the silt it leaves grows the next forest. At Pichavaram, standing sea water killed the mangroves and flowing sea water brought them back.",
-    "verse": ["கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே", "எடுப்பதூஉம் எல்லாம் மழை."],
+    "verse": [
+     "கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே",
+     "எடுப்பதூஉம் எல்லாம் மழை."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Heraclitus, fragment B12 (Diels-Kranz)",
     "teaching": "On those who step into the same rivers, different and again different waters flow.",
     "link": "The river stays the same river because its water keeps changing. The forest in the Patchwork Test stayed the same forest because its patches kept changing.",
-    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse": [
+     "ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Dhammapada 277 (paraphrased)",
     "teaching": "Everything that is put together from parts keeps changing. Seeing this clearly is the path to freedom from sorrow.",
     "link": "The Buddha taught this about all things. Ecologists found it of forests: even the oldest one is being taken apart and put together all the time.",
-    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,",
+     "yadā paññāya passati;",
+     "Atha nibbindati dukkhe,",
+     "esa maggo visuddhiyā."
+    ],
     "verse_lang": "pi"
    }
   ],

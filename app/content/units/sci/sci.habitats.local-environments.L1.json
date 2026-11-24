@@ -369,7 +369,7 @@
      "mins": 2,
      "do": "Count the pairs. Lay all the place cards in a row. Put each living being card under the place where they live.",
      "say": "Look at all the homes in the row. Think about which one gets no sun and keeps the water in.",
-    "kid": "Count your pairs. Then look at all the homes.",
+     "kid": "Count your pairs. Then look at all the homes.",
      "check": {
       "t": "mcq",
       "q": "Which home is dark, damp and cool?",
@@ -1562,7 +1562,7 @@
  ],
  "spotted": [
   {
-   "text": "Fish and turtles living in a temple tank, in towns across Tamil Nadu and Kerala.",
+   "text": "Fish and turtles living in a temple tank.",
    "art": "A temple tank with stone steps, fish under the water and a turtle resting on a step."
   },
   {
@@ -1570,15 +1570,15 @@
    "art": "A peepal sapling with heart-shaped leaves growing from the top of an old wall."
   },
   {
-   "text": "Green moss on walls and tree trunks during the Kerala and Konkan monsoon.",
+   "text": "Green moss on walls and tree trunks during the monsoon.",
    "art": "A wet compound wall covered in bright green moss in the rain."
   },
   {
-   "text": "Egrets walking beside cows in a field, catching the insects the cows stir up, from Assam to Karnataka.",
+   "text": "Egrets walking beside cows in a field, catching the insects the cows stir up.",
    "art": "A white egret walking beside a grazing cow in a green field."
   },
   {
-   "text": "Lotus leaves covering a village pond in Odisha or West Bengal.",
+   "text": "Lotus leaves covering a village pond.",
    "art": "A pond covered in round lotus leaves, with one pink lotus flower."
   }
  ],
@@ -1819,14 +1819,26 @@
     "source": "Tolkappiyam, Porulatikaram (Akattinaiyiyal)",
     "teaching": "The Tolkappiyam is a very old Tamil book about language and poems. It sorts the land into kinds, such as hills, forest, farmland and seashore. Each kind of land has its own trees, flowers, birds and animals.",
     "link": "In the plate test, the damp soil under the plate and the dry soil in the open were two different homes, a hand's width apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has its own living beings.",
-    "verse": ["மாயோன் மேய காடுறை உலகமுஞ்", "சேயோன் மேய மைவரை உலகமும்", "வேந்தன் மேய தீம்புனல் உலகமும்", "வருணன் மேய பெருமணல் உலகமும்", "முல்லை குறிஞ்சி மருத நெய்தலெனச்", "சொல்லிய முறையாற் சொல்லவும் படுமே."],
+    "verse": [
+     "மாயோன் மேய காடுறை உலகமுஞ்",
+     "சேயோன் மேய மைவரை உலகமும்",
+     "வேந்தன் மேய தீம்புனல் உலகமும்",
+     "வருணன் மேய பெருமணல் உலகமும்",
+     "முல்லை குறிஞ்சி மருத நெய்தலெனச்",
+     "சொல்லிய முறையாற் சொல்லவும் படுமே."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 4, Lesson 1",
     "teaching": "This old Jain teaching says that no breathing, living being should be killed, hurt or driven away. Many Jain monks and nuns carry a soft brush to move tiny beings gently out of their path.",
     "link": "When we lift a stone, the beings underneath lose their roof. Putting the stone back gently gives them their home again.",
-    "verse": ["सव्वे पाणा सव्वे भूया सव्वे जीवा सव्वे सत्ता", "न हन्तव्वा न अज्जावेयव्वा न परिघेत्तव्वा", "न परियावेयव्वा न उद्दवेयव्वा", "एस धम्मे सुद्धे नितिए सासए"],
+    "verse": [
+     "सव्वे पाणा सव्वे भूया सव्वे जीवा सव्वे सत्ता",
+     "न हन्तव्वा न अज्जावेयव्वा न परिघेत्तव्वा",
+     "न परियावेयव्वा न उद्दवेयव्वा",
+     "एस धम्मे सुद्धे नितिए सासए"
+    ],
     "verse_lang": "pra"
    }
   ],
@@ -1865,5 +1877,117 @@
   "art": "A woman in a long dress of the 1600s at a table, painting a caterpillar and a butterfly on a leafy branch, with a box of caterpillars on leaves beside her."
  },
  "playtest": "Walked through both games, the plate test, the four activities, the stone-home project and the bird-water challenge as a parent and a child would in a flat, and checked minutes, step ids, schedules and counts. Earlier fixes: game 1 prints 12 plain cards with an ending rule; repeated questions, an overnight step, assumed family members and weak jokes were cut; safety lines were added where real. This pass: game 2 now uses the cloth it asks for and says who taps the shoulder, game 1 says whose turn comes next, the project maths now matches the two lifts in the project, and three repeated questions (plate cooler, ants moving their young, pill bug not an insect) were replaced.",
- "warm": {"words": ["WORMS", "STONE", "WATER", "GRASS", "SHADE"], "quiz": [["The ground under a stone is dark, damp and cool.", true, "The stone keeps off the sun and holds the water in."], ["It is hotter under a stone than on top of the stone in the sun.", false, "The stone keeps off the sun, so under it is cool."], ["An earthworm needs damp skin to breathe.", true, "A worm stays in damp soil because dry skin cannot take in air."], ["Pill bugs gather under stones and pots, where it is damp and dark.", true, "Pill bugs like damp, dark places, so we find them there."], ["Most small animals under a stone will hurt you.", false, "Earthworms, pill bugs and ants do not hurt people, though a centipede or scorpion can bite or sting."], ["A pond with green water is always a dead pond.", false, "The green colour comes from tiny living algae, which many pond animals eat."], ["Wild habitats are only in forests, far away from cities.", false, "A city tree, a lake and the soil under a pot are habitats for crows, squirrels, frogs and ants."], ["One tree gives homes and food to many living beings at once.", true, "Birds, squirrels, ants and many more can live in or eat from one tree."], ["A park is one habitat, with the same living beings everywhere.", false, "Grass, flowers and soil are different habitats, each with their own living beings."], ["A pond is still water where water plants and water animals live.", true, "A pond is a home in water for living beings who need to stay wet."]], "odd": [[["Wet soil", "Under a flower pot", "Under a stone", "Hot dry road"], "Hot dry road", "The other three are damp places where small animals live. A hot dry road is not damp."], [["Fish", "Water plant", "Tadpole", "Squirrel"], "Squirrel", "Fish, water plants and tadpoles live in a pond; a squirrel lives on land and in trees."], [["Hot sun", "Heavy rain", "Hungry animal", "Tree hole"], "Tree hole", "A shelter keeps a living being safe from the sun, rain and danger; the tree hole is a shelter."], [["Grass", "Moss", "Lotus", "Earthworm"], "Earthworm", "Grass, moss and lotus are plants that stay in one place; an earthworm is an animal that moves."], [["Earthworm", "Pill bug", "Ant", "Scorpion"], "Scorpion", "Earthworms, pill bugs and ants do not hurt people; a scorpion can sting."]]}
+ "warm": {
+  "words": [
+   "WORMS",
+   "STONE",
+   "WATER",
+   "GRASS",
+   "SHADE"
+  ],
+  "quiz": [
+   [
+    "The ground under a stone is dark, damp and cool.",
+    true,
+    "The stone keeps off the sun and holds the water in."
+   ],
+   [
+    "It is hotter under a stone than on top of the stone in the sun.",
+    false,
+    "The stone keeps off the sun, so under it is cool."
+   ],
+   [
+    "An earthworm needs damp skin to breathe.",
+    true,
+    "A worm stays in damp soil because dry skin cannot take in air."
+   ],
+   [
+    "Pill bugs gather under stones and pots, where it is damp and dark.",
+    true,
+    "Pill bugs like damp, dark places, so we find them there."
+   ],
+   [
+    "Most small animals under a stone will hurt you.",
+    false,
+    "Earthworms, pill bugs and ants do not hurt people, though a centipede or scorpion can bite or sting."
+   ],
+   [
+    "A pond with green water is always a dead pond.",
+    false,
+    "The green colour comes from tiny living algae, which many pond animals eat."
+   ],
+   [
+    "Wild habitats are only in forests, far away from cities.",
+    false,
+    "A city tree, a lake and the soil under a pot are habitats for crows, squirrels, frogs and ants."
+   ],
+   [
+    "One tree gives homes and food to many living beings at once.",
+    true,
+    "Birds, squirrels, ants and many more can live in or eat from one tree."
+   ],
+   [
+    "A park is one habitat, with the same living beings everywhere.",
+    false,
+    "Grass, flowers and soil are different habitats, each with their own living beings."
+   ],
+   [
+    "A pond is still water where water plants and water animals live.",
+    true,
+    "A pond is a home in water for living beings who need to stay wet."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Wet soil",
+     "Under a flower pot",
+     "Under a stone",
+     "Hot dry road"
+    ],
+    "Hot dry road",
+    "The other three are damp places where small animals live. A hot dry road is not damp."
+   ],
+   [
+    [
+     "Fish",
+     "Water plant",
+     "Tadpole",
+     "Squirrel"
+    ],
+    "Squirrel",
+    "Fish, water plants and tadpoles live in a pond; a squirrel lives on land and in trees."
+   ],
+   [
+    [
+     "Hot sun",
+     "Heavy rain",
+     "Hungry animal",
+     "Tree hole"
+    ],
+    "Tree hole",
+    "A shelter keeps a living being safe from the sun, rain and danger; the tree hole is a shelter."
+   ],
+   [
+    [
+     "Grass",
+     "Moss",
+     "Lotus",
+     "Earthworm"
+    ],
+    "Earthworm",
+    "Grass, moss and lotus are plants that stay in one place; an earthworm is an animal that moves."
+   ],
+   [
+    [
+     "Earthworm",
+     "Pill bug",
+     "Ant",
+     "Scorpion"
+    ],
+    "Scorpion",
+    "Earthworms, pill bugs and ants do not hurt people; a scorpion can sting."
+   ]
+  ]
+ }
 }

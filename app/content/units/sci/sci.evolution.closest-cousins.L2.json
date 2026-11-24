@@ -1938,7 +1938,7 @@
    "art": "A grandmother oiling a girl's hair on a verandah, a steel bowl of coconut oil beside them."
   },
   {
-   "text": "Mothers across India carry babies in a saree or a cloth sling, so their hands are free to work.",
+   "text": "Mothers carry babies in a saree or a cloth sling, so their hands are free to work.",
    "art": "A mother in a market in Guwahati carrying a sleeping baby in a cloth sling on her back while she weighs vegetables."
   },
   {
@@ -1946,7 +1946,7 @@
    "art": "A tiny baby's hand wrapped tightly round an adult's finger."
   },
   {
-   "text": "In the Hollongapar Gibbon Sanctuary near Jorhat, in Assam, hoolock gibbons sing in the trees in the early morning.",
+   "text": "Gibbons in a zoo, hanging by their long arms from a branch. Look at their hands.",
    "art": "A hoolock gibbon pair high in tall trees at dawn, with mist below."
   }
  ],
@@ -2134,14 +2134,22 @@
     "source": "Taittiriya Upanishad 3.6",
     "teaching": "Bhrigu learned that joy, ananda, is the ground of all things. From joy beings are born, by joy they live, and into joy they return.",
     "link": "The laugh test showed that the joy of play has a sound, in us and in every great ape. Joy did not begin with people.",
-    "verse": ["आनन्दो ब्रह्मेति व्यजानात्", "आनन्दाध्येव खल्विमानि भूतानि जायन्ते", "आनन्देन जातानि जीवन्ति", "आनन्दं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "आनन्दो ब्रह्मेति व्यजानात्",
+     "आनन्दाध्येव खल्विमानि भूतानि जायन्ते",
+     "आनन्देन जातानि जीवन्ति",
+     "आनन्दं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 6",
     "teaching": "One who sees all beings in their own self, and their own self in all beings, does not turn away from anyone.",
     "link": "When you see your own laugh in a chimpanzee's pant, and your Sunday hair oiling in a chimpanzee's grooming, an ape is no longer a stranger.",
-    "verse": ["यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति", "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"],
+    "verse": [
+     "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति",
+     "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2250,5 +2258,117 @@
   ]
  },
  "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a flat. The laugh test and hands-free test work with a tissue, a pencil and a packet of atta, and their minutes add up. Fixed the 12-card ape guessing game (removed the draw-on-the-back step the cards did not need, so the pile now ends and ties are settled) and the 10-card act-out game (sounds allowed, ties settled), and the carrying test now says what to do if all 20 things are moved early. Removed family members assumed in art, example results and maths questions, an unneeded safety line, duplicate flag, sling, nest and gorilla questions, two weak jokes (added two real ones), a wrong weight comparison, and the map question that wrongly said which ape lives nearest.",
- "warm": {"words": ["LAUGH", "GROOM", "NESTS", "FRUIT", "TREES"], "quiz": [["Chimpanzees and humans are both apes.", true, "Apes are a family with no tail, and humans belong to it too."], ["Humans came from chimpanzees.", false, "Humans and chimpanzees both come from the same ancestors who lived millions of years ago."], ["Young apes laugh when they are tickled.", true, "Their laugh sounds like soft panting, but it comes in play, just like ours."], ["Only humans can laugh.", false, "Young chimpanzees and other apes laugh when they play or are tickled."], ["Apes groom each other to stay clean and to stay friends.", true, "Grooming picks out dirt and tiny insects, and it also calms them down."], ["Orangutans live in big groups, just like chimpanzees do.", false, "Orangutans mostly live alone, except for mothers with their young."], ["Ape mothers feed, carry and teach their babies for years.", true, "Ape babies need a long time to grow up and learn."], ["Bonobos are always peaceful and never fight.", false, "Scientists have counted small fights among wild bonobos, as well as among chimpanzees."], ["Some apes live wild in India: the hoolock gibbons of the north-east.", true, "Gibbons are apes, and hoolock gibbons live in the forests of north-east India."], ["Great apes sleep wherever they are, and never build a bed.", false, "Great apes bend branches and leaves to make a nest nearly every night."]], "odd": [[["Chimpanzee", "Gorilla", "Orangutan", "Langur"], "Langur", "Chimpanzees, gorillas and orangutans are apes with no tail; a langur is a monkey with a long tail."], [["Chimpanzee", "Bonobo", "Gorilla", "Orangutan"], "Orangutan", "The first three live in the forests of Africa; orangutans live in the forests of Asia."], [["Feeds baby milk", "Carries baby", "Teaches for years", "Leaves baby alone at birth"], "Leaves baby alone at birth", "Ape mothers feed and teach their babies for years. They do not leave a baby alone at birth."], [["To keep clean", "To stay friends", "To calm down", "To find water"], "To find water", "Apes groom to keep clean, stay friends and calm down, but grooming does not help them find water."], [["Monkey", "Loris", "Chimpanzee", "Peacock"], "Peacock", "Monkeys, lorises and chimpanzees are all primates with gripping hands; a peacock is a bird."]]}
+ "warm": {
+  "words": [
+   "LAUGH",
+   "GROOM",
+   "NESTS",
+   "FRUIT",
+   "TREES"
+  ],
+  "quiz": [
+   [
+    "Chimpanzees and humans are both apes.",
+    true,
+    "Apes are a family with no tail, and humans belong to it too."
+   ],
+   [
+    "Humans came from chimpanzees.",
+    false,
+    "Humans and chimpanzees both come from the same ancestors who lived millions of years ago."
+   ],
+   [
+    "Young apes laugh when they are tickled.",
+    true,
+    "Their laugh sounds like soft panting, but it comes in play, just like ours."
+   ],
+   [
+    "Only humans can laugh.",
+    false,
+    "Young chimpanzees and other apes laugh when they play or are tickled."
+   ],
+   [
+    "Apes groom each other to stay clean and to stay friends.",
+    true,
+    "Grooming picks out dirt and tiny insects, and it also calms them down."
+   ],
+   [
+    "Orangutans live in big groups, just like chimpanzees do.",
+    false,
+    "Orangutans mostly live alone, except for mothers with their young."
+   ],
+   [
+    "Ape mothers feed, carry and teach their babies for years.",
+    true,
+    "Ape babies need a long time to grow up and learn."
+   ],
+   [
+    "Bonobos are always peaceful and never fight.",
+    false,
+    "Scientists have counted small fights among wild bonobos, as well as among chimpanzees."
+   ],
+   [
+    "Some apes live wild in India: the hoolock gibbons of the north-east.",
+    true,
+    "Gibbons are apes, and hoolock gibbons live in the forests of north-east India."
+   ],
+   [
+    "Great apes sleep wherever they are, and never build a bed.",
+    false,
+    "Great apes bend branches and leaves to make a nest nearly every night."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Chimpanzee",
+     "Gorilla",
+     "Orangutan",
+     "Langur"
+    ],
+    "Langur",
+    "Chimpanzees, gorillas and orangutans are apes with no tail; a langur is a monkey with a long tail."
+   ],
+   [
+    [
+     "Chimpanzee",
+     "Bonobo",
+     "Gorilla",
+     "Orangutan"
+    ],
+    "Orangutan",
+    "The first three live in the forests of Africa; orangutans live in the forests of Asia."
+   ],
+   [
+    [
+     "Feeds baby milk",
+     "Carries baby",
+     "Teaches for years",
+     "Leaves baby alone at birth"
+    ],
+    "Leaves baby alone at birth",
+    "Ape mothers feed and teach their babies for years. They do not leave a baby alone at birth."
+   ],
+   [
+    [
+     "To keep clean",
+     "To stay friends",
+     "To calm down",
+     "To find water"
+    ],
+    "To find water",
+    "Apes groom to keep clean, stay friends and calm down, but grooming does not help them find water."
+   ],
+   [
+    [
+     "Monkey",
+     "Loris",
+     "Chimpanzee",
+     "Peacock"
+    ],
+    "Peacock",
+    "Monkeys, lorises and chimpanzees are all primates with gripping hands; a peacock is a bird."
+   ]
+  ]
+ }
 }

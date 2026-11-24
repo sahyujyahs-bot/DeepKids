@@ -555,14 +555,22 @@
     "source": "Dhammapada, verse 129",
     "teaching": "As paraphrased: all beings tremble at violence, and all fear death. Put yourself in the place of another, and do not harm or cause harm.",
     "link": "The verse asks you to work out another's feeling from your own. Scientists do the same when they compare a crab's trade-off with a person's. The verse simply does not wait for the experiment.",
-    "verse": ["Sabbe tasanti daṇḍassa,", "sabbe bhāyanti maccuno;", "Attānaṁ upamaṁ katvā,", "na haneyya na ghātaye."],
+    "verse": [
+     "Sabbe tasanti daṇḍassa,",
+     "sabbe bhāyanti maccuno;",
+     "Attānaṁ upamaṁ katvā,",
+     "na haneyya na ghātaye."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tattvartha Sutra, chapter 2 (sutras 22 to 24 in most editions), a Jain text by Umasvati",
     "teaching": "Living beings are grouped by how many senses they have. Plants have one sense, touch. Worms have two, ants three, bees four, and humans and other large animals five.",
     "link": "This old list draws no line between beings who feel and beings who do not. It says they differ in how many ways they sense. Today's scientists also find that feeling is hard to switch off at any one kind of animal.",
-    "verse": ["पृथिव्यप्तेजोवायुवनस्पतयः स्थावराः", "वनस्पत्यन्तानामेकम्"],
+    "verse": [
+     "पृथिव्यप्तेजोवायुवनस्पतयः स्थावराः",
+     "वनस्पत्यन्तानामेकम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2523,7 +2531,7 @@
  ],
  "spotted": [
   {
-   "text": "A huge rock bee comb hanging under a flyover, a water tank or a tall building ledge in Bengaluru, Chennai or Hyderabad. The dancers are on its surface.",
+   "text": "A huge rock bee comb hanging under a flyover, a water tank or a tall building ledge. The dancers are on its surface.",
    "art": "A large half-moon honeycomb covered in bees hanging under the edge of a concrete water tank."
   },
   {
@@ -2531,7 +2539,7 @@
    "art": "A palm-sized comb around a thin branch of a curry leaf plant, covered with small bees."
   },
   {
-   "text": "A temple elephant in Kerala or Tamil Nadu whose forehead flutters for a moment. She may be rumbling.",
+   "text": "A temple elephant whose forehead flutters for a moment. She may be rumbling.",
    "art": "A decorated temple elephant with a mahout beside her, small wavy lines drawn above her forehead."
   },
   {
@@ -2543,7 +2551,7 @@
    "art": "A house crow stepping back from a piece of vada as a larger jungle crow lands."
   },
   {
-   "text": "A hermit crab on a beach at Rameswaram, Gokarna or the Andamans, trying out an empty shell for size.",
+   "text": "A hermit crab on a beach, trying out an empty shell for size.",
    "art": "A small hermit crab on wet sand with her claws inside an empty sea shell."
   },
   {

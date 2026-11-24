@@ -2777,11 +2777,11 @@
  ],
  "spotted": [
   {
-   "text": "A ceiling fan whose motor feels warm after an hour, in any home in India.",
+   "text": "A ceiling fan whose motor feels warm after an hour.",
    "art": "A ceiling fan turning above a bed, with a small wavy line of warmth rising from the motor."
   },
   {
-   "text": "Clothes drying on a line in sunshine and wind in a Chennai flat.",
+   "text": "Clothes drying on a line in sunshine and wind.",
    "art": "Colourful clothes on a line on a balcony, with sunshine and a breeze moving them."
   },
   {
@@ -2793,7 +2793,7 @@
    "art": "A flat school roof with rows of shiny solar panels and a water tank."
   },
   {
-   "text": "Tall wind turbines turning on a ridge near Kanyakumari or Muppandal in Tamil Nadu.",
+   "text": "Tall wind turbines turning on a ridge.",
    "art": "Tall white wind turbines on a hill near the sea with their blades turning."
   },
   {
@@ -2805,7 +2805,7 @@
    "art": "A fridge pulled slightly from a kitchen wall, with a child's hand held near the back panel."
   },
   {
-   "text": "A kite rising on the wind at the Uttarayan festival in Gujarat.",
+   "text": "A kite rising on the wind at a kite festival.",
    "art": "Many colourful kites high in a blue sky above a rooftop of children."
   }
  ],
@@ -3253,14 +3253,23 @@
     "source": "Tao Te Ching, chapter 16",
     "teaching": "Reach the greatest emptiness and hold to stillness. Everything rises and moves, and everything returns to its root, which is stillness.",
     "link": "A still table is quiet on the outside. Inside, its particles never stop shaking. Stillness is a balance of many small movements, and movement begins when the balance is broken.",
-    "verse": ["致虛極，守靜篤。", "萬物並作，吾以觀復。", "夫物芸芸，各復歸其根。歸根曰靜，是謂復命。"],
+    "verse": [
+     "致虛極，守靜篤。",
+     "萬物並作，吾以觀復。",
+     "夫物芸芸，各復歸其根。歸根曰靜，是謂復命。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "Beings are born from food. By food they live. When they die, they enter into food.",
     "link": "An energy chain from rice to a rider's muscles to the heat of her body shows this. Plants store sunlight as food, and every body spends that food as movement and heat.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    }
   ],

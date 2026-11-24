@@ -1846,11 +1846,11 @@
    "art": "A steel tumbler of water fizzing on a kitchen counter, with a torn sachet beside it."
   },
   {
-   "text": "A fish market in Kochi, Kolkata, Visakhapatnam or Mumbai, with prawns, crabs, squid and many kinds of fish. They are a few of the many kinds that still live in the sea.",
+   "text": "A fish market with prawns, crabs, squid and many kinds of fish. They are a few of the many kinds that still live in the sea.",
    "art": "A busy fish market with women selling prawns, crabs and silver fish from baskets."
   },
   {
-   "text": "Tree trunks that turned to stone millions of years ago, at the National Fossil Wood Park in Tiruvakkarai, near Puducherry.",
+   "text": "A tree trunk that turned to stone millions of years ago, in a museum or a fossil park.",
    "art": "A long grey stone tree trunk lying on red earth, with visitors looking at its bark pattern."
   },
   {
@@ -1858,7 +1858,7 @@
    "art": "A green film on the wet side of a water tank on a terrace after rain."
   },
   {
-   "text": "Old stromatolites in the rocks at Jhamarkotra, near Udaipur in Rajasthan.",
+   "text": "Old stromatolites, layered lumps in rock. They are among the oldest signs of life.",
    "art": "A flat rock face with wavy, stacked layers, like many curved lines drawn one inside another."
   }
  ],
@@ -2105,21 +2105,32 @@
     "source": "Rig Veda 10.129.3 (the Nasadiya Sukta, the hymn of creation)",
     "teaching": "In the beginning, darkness was hidden by darkness. All this was water, with nothing to tell one thing from another.",
     "link": "The old hymn pictures the beginning as water. Science also finds that life began in water. The same hymn later asks who really knows how it all began. Scientists still ask that about the first cell.",
-    "verse": ["तम आसीत्तमसा गूळ्हमग्रेऽप्रकेतं सलिलं सर्वमा इदम्।", "तुच्छ्येनाभ्वपिहितं यदासीत्तपसस्तन्महिनाजायतैकम्"],
+    "verse": [
+     "तम आसीत्तमसा गूळ्हमग्रेऽप्रकेतं सलिलं सर्वमा इदम्।",
+     "तुच्छ्येनाभ्वपिहितं यदासीत्तपसस्तन्महिनाजायतैकम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Taittiriya Upanishad 2.1",
     "teaching": "From space came air. From air came fire, from fire water, and from water the earth. From the earth came plants, from plants food, and from food the person.",
     "link": "This is a story of beginnings in order, like the Year of Life calendar. The order science finds is different in places: the rocky Earth came before the oceans. But both put a person at the end of a long line that runs through water and plants.",
-    "verse": ["तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः", "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी", "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"],
+    "verse": [
+     "तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः",
+     "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी",
+     "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thales of Miletus, as told by Aristotle in Metaphysics, Book 1, chapter 3",
     "teaching": "Thales, a Greek thinker, said that water is where all things come from. Aristotle guessed Thales thought this because food and seeds are always moist.",
     "link": "Thales was wrong that everything is made of water. But he noticed something true: living things need water, and life did begin in it.",
-    "verse": ["Θαλῆς μὲν ὁ τῆς τοιαύτης ἀρχηγὸς φιλοσοφίας ὕδωρ φησὶν εἶναι", "λαβὼν ἴσως τὴν ὑπόληψιν ταύτην ἐκ τοῦ πάντων ὁρᾶν τὴν τροφὴν ὑγρὰν οὖσαν", "διὰ τὸ πάντων τὰ σπέρματα τὴν φύσιν ὑγρὰν ἔχειν"],
+    "verse": [
+     "Θαλῆς μὲν ὁ τῆς τοιαύτης ἀρχηγὸς φιλοσοφίας ὕδωρ φησὶν εἶναι",
+     "λαβὼν ἴσως τὴν ὑπόληψιν ταύτην ἐκ τοῦ πάντων ὁρᾶν τὴν τροφὴν ὑγρὰν οὖσαν",
+     "διὰ τὸ πάντων τὰ σπέρματα τὴν φύσιν ὑγρὰν ἔχειν"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2170,5 +2181,117 @@
   ]
  },
  "playtest": "Walked through every experiment, game, activity, project and challenge as a parent and child would in a flat. Fixed the sea-water cup in the moong test (it got double water), the game rules (tie endings, a longer score sheet, no sketching 12 cards), the crab count, and the fizz-later challenge, which now says honestly that results differ. Removed repeated questions and a family assumption, and replaced one weak joke.",
- "warm": {"words": ["WATER", "CELLS", "OCEAN", "ROCKS", "FIRST"], "quiz": [["Dry baking soda and dry citric acid do not react until water lets them meet.", true, "Chemicals react when their tiny pieces meet, and water dissolves them so they can move and meet."], ["Scientists know exactly which water life began in.", false, "Scientists agree life began in water, but they do not agree on which water. Nobody has found out yet."], ["The first living beings were each one single tiny cell.", true, "A cell is the smallest living unit, and the first living beings were just one cell each."], ["Humans came from monkeys that slowly turned into people.", false, "Humans and monkeys are cousins. They come from the same ancestors who lived millions of years ago."], ["Every living being today comes from the first cells, through parents going far back in time.", true, "Every living being has parents, and they had parents, all the way back to the first cells."], ["The Earth and its life are only a few thousand years old.", false, "Rocks are billions of years old, and layers of rock with fossils took a very long time to build."], ["Living beings today still need water inside their bodies, as the first cells did.", true, "The chemicals of life move about, meet and react in water, so every living being still needs it."], ["Scientists have found living beings inside meteorites, so life came from space.", false, "No living being has been found in a meteorite. And the idea does not explain how life began in the place it came from."], ["Sugar seems to vanish in tea because it spreads out in pieces too small to see.", true, "Dissolving means spreading out into a liquid in pieces too small to see. The sugar is still there."], ["For most of life's story, most living beings were big animals and plants.", false, "For most of the story, almost all life was tiny cells. Big animals came very late."]], "odd": [[["Baking soda in water", "Sugar in tea", "Salt in water", "Stone in water"], "Stone in water", "The first three dissolve into pieces too small to see; a stone stays whole in water."], [["Bacterium", "Yeast", "Amoeba", "Elephant"], "Elephant", "The first three are a single cell; an elephant is made of a huge number of cells."], [["Grandmother", "Great-grandmother", "Mother", "Cousin"], "Cousin", "The first three are ancestors you come from; a cousin is a relative, but not someone you come from."], [["Fossil", "Stromatolite", "Footprint in old rock", "Fresh flower"], "Fresh flower", "The first three are marks of living beings from long ago kept in rock; a fresh flower is not."], [["Seed waiting to grow", "Dry spore", "Egg", "Dry baking soda"], "Dry baking soda", "The first three are living beings that wait and then grow; baking soda is a chemical, not alive."]]}
+ "warm": {
+  "words": [
+   "WATER",
+   "CELLS",
+   "OCEAN",
+   "ROCKS",
+   "FIRST"
+  ],
+  "quiz": [
+   [
+    "Dry baking soda and dry citric acid do not react until water lets them meet.",
+    true,
+    "Chemicals react when their tiny pieces meet, and water dissolves them so they can move and meet."
+   ],
+   [
+    "Scientists know exactly which water life began in.",
+    false,
+    "Scientists agree life began in water, but they do not agree on which water. Nobody has found out yet."
+   ],
+   [
+    "The first living beings were each one single tiny cell.",
+    true,
+    "A cell is the smallest living unit, and the first living beings were just one cell each."
+   ],
+   [
+    "Humans came from monkeys that slowly turned into people.",
+    false,
+    "Humans and monkeys are cousins. They come from the same ancestors who lived millions of years ago."
+   ],
+   [
+    "Every living being today comes from the first cells, through parents going far back in time.",
+    true,
+    "Every living being has parents, and they had parents, all the way back to the first cells."
+   ],
+   [
+    "The Earth and its life are only a few thousand years old.",
+    false,
+    "Rocks are billions of years old, and layers of rock with fossils took a very long time to build."
+   ],
+   [
+    "Living beings today still need water inside their bodies, as the first cells did.",
+    true,
+    "The chemicals of life move about, meet and react in water, so every living being still needs it."
+   ],
+   [
+    "Scientists have found living beings inside meteorites, so life came from space.",
+    false,
+    "No living being has been found in a meteorite. And the idea does not explain how life began in the place it came from."
+   ],
+   [
+    "Sugar seems to vanish in tea because it spreads out in pieces too small to see.",
+    true,
+    "Dissolving means spreading out into a liquid in pieces too small to see. The sugar is still there."
+   ],
+   [
+    "For most of life's story, most living beings were big animals and plants.",
+    false,
+    "For most of the story, almost all life was tiny cells. Big animals came very late."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Baking soda in water",
+     "Sugar in tea",
+     "Salt in water",
+     "Stone in water"
+    ],
+    "Stone in water",
+    "The first three dissolve into pieces too small to see; a stone stays whole in water."
+   ],
+   [
+    [
+     "Bacterium",
+     "Yeast",
+     "Amoeba",
+     "Elephant"
+    ],
+    "Elephant",
+    "The first three are a single cell; an elephant is made of a huge number of cells."
+   ],
+   [
+    [
+     "Grandmother",
+     "Great-grandmother",
+     "Mother",
+     "Cousin"
+    ],
+    "Cousin",
+    "The first three are ancestors you come from; a cousin is a relative, but not someone you come from."
+   ],
+   [
+    [
+     "Fossil",
+     "Stromatolite",
+     "Footprint in old rock",
+     "Fresh flower"
+    ],
+    "Fresh flower",
+    "The first three are marks of living beings from long ago kept in rock; a fresh flower is not."
+   ],
+   [
+    [
+     "Seed waiting to grow",
+     "Dry spore",
+     "Egg",
+     "Dry baking soda"
+    ],
+    "Dry baking soda",
+    "The first three are living beings that wait and then grow; baking soda is a chemical, not alive."
+   ]
+  ]
+ }
 }

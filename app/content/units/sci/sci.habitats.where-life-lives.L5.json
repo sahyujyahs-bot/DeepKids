@@ -2897,7 +2897,7 @@
    "art": "A vacant plot beside a railway line filled with knee-high weeds with tiny white flowers."
   },
   {
-   "text": "Giant African snails on a garden wall after rain, in Kerala, Bengaluru, Chennai and many other places.",
+   "text": "Giant African snails on a garden wall after rain.",
    "art": "Two large brown snails with pointed striped shells climbing a wet garden wall."
   },
   {
@@ -2905,11 +2905,11 @@
    "art": "A road shaded by a spreading rain tree, and a gulmohar in red flower next to the rain tree."
   },
   {
-   "text": "The dark, layered rock of the Western Ghats in Maharashtra, seen from the train between Mumbai and Pune. It is lava that flowed while India was crossing the sea.",
+   "text": "Dark, layered rock on a hillside, seen from a train. It is lava that flowed long ago, while our land was crossing the sea.",
    "art": "Flat-topped hills of dark rock in steps like a staircase, seen from a train window."
   },
   {
-   "text": "The Himalaya on a clear day from Darjeeling, Shimla or Kausani. They are still rising, because India is still pushing north.",
+   "text": "A tall mountain range on a clear day, or in a picture. Mountains like the Himalaya are still rising, because our land is still pushing north.",
    "art": "A long line of snow peaks seen across green hills in early morning light."
   },
   {
@@ -3423,14 +3423,21 @@
     "source": "Purananuru 192, by Kaniyan Pungundranar (Tamil, about 2,000 years old)",
     "teaching": "The poet says that every town is his town and every person is his kin. He says life makes its way like a raft on a great river in flood, carried where the water takes it.",
     "link": "The poet was speaking of people. It meets this lesson's science in two plain ways. Many living beings are where they are because a current, a wind or a moving land carried their ancestors there. And all living beings are one family, so each one is kin to the rest.",
-    "verse": ["யாதும் ஊரே; யாவரும் கேளிர்"],
+    "verse": [
+     "யாதும் ஊரே; யாவரும் கேளிர்"
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha says that all things that are put together pass away, and that seeing this clearly leads to peace.",
     "link": "A continent seems the most lasting thing there is. Yet Gondwana broke into pieces, and the sea between India and Sri Lanka was dry land 7,000 years ago. Here the science agrees with the verse: lands, seas and kinds of living beings all change.",
-    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,",
+     "yadā paññāya passati;",
+     "Atha nibbindati dukkhe,",
+     "esa maggo visuddhiyā."
+    ],
     "verse_lang": "pi"
    }
   ],

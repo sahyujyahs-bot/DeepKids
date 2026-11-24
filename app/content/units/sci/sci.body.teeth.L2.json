@@ -2353,7 +2353,7 @@
  ],
  "spotted": [
   {
-   "text": "A child with a gap-toothed smile at a school assembly. Almost every Class 2 in India has one.",
+   "text": "A child with a gap-toothed smile at a school assembly. Almost every Class 2 has one.",
    "art": "A row of smiling children in school uniform, two of them with gaps in their front teeth."
   },
   {
@@ -2644,14 +2644,22 @@
     "source": "Shuo Yuan (Garden of Stories), compiled by Liu Xiang in China in the 1st century BCE: the story of Chang Cong and Laozi",
     "teaching": "An old teacher, Chang Cong, was dying. He opened his mouth and asked his student Laozi, 'Is my tongue still there?' 'Yes,' said Laozi. 'Are my teeth still there?' 'No.' 'Do you know why?' Laozi said, 'The tongue stays because it is soft. The teeth are gone because they are hard.'",
     "link": "The Eggshell Test showed the same surprise. The hardest thing does not always last longest. A hard shell went soft in vinegar, a liquid that is not hard at all.",
-    "verse": ["張其口而示老子曰：「吾舌存乎？」", "老子曰：「然。」「吾齒存乎？」老子曰：「亡。」", "常摐曰：「子知之乎？」", "老子曰：「夫舌之存也，豈非以其柔耶？齒之亡也，豈非以其剛耶？」"],
+    "verse": [
+     "張其口而示老子曰：「吾舌存乎？」",
+     "老子曰：「然。」「吾齒存乎？」老子曰：「亡。」",
+     "常摐曰：「子知之乎？」",
+     "老子曰：「夫舌之存也，豈非以其柔耶？齒之亡也，豈非以其剛耶？」"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Anguttara Nikaya 5.208, the Dantakattha Sutta (the Buddha's teaching on tooth-sticks)",
     "teaching": "The Buddha named five good things that come from cleaning the teeth with a chewing stick, among them a mouth that does not smell bad and food that tastes good.",
     "link": "Long before anyone knew about bacteria or acid, people noticed that cleaning the teeth every day changes the mouth. Today we know one reason: cleaning takes away plaque, where the acid-making bacteria live.",
-    "verse": ["Pañcime, bhikkhave, ānisaṁsā dantakaṭṭhassa khādane.", "Cakkhussaṁ, mukhaṁ na duggandhaṁ hoti, rasaharaṇiyo visujjhanti, pittaṁ semhaṁ bhattaṁ na pariyonandhati, bhattamassa chādeti."],
+    "verse": [
+     "Pañcime, bhikkhave, ānisaṁsā dantakaṭṭhassa khādane.",
+     "Cakkhussaṁ, mukhaṁ na duggandhaṁ hoti, rasaharaṇiyo visujjhanti, pittaṁ semhaṁ bhattaṁ na pariyonandhati, bhattamassa chādeti."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2691,5 +2699,117 @@
   "art": "A woman scientist in a 1930s laboratory coat holding up a glass bottle of water to the window, with small cages of rats on the bench behind her."
  },
  "playtest": "Walked the unit as a parent and child in a flat. Counted every printed card (4 tooth cards, 12 food cards, 16 moment cards) and played both games with 2 and with 4 players. Followed the eggshell test and the dough root test step by step, with their minutes and day schedules. Made the root test fair by tapping both pencils at the same height, stopped it at 20 taps, and said honestly that lemon juice and soured milk may also soften the shell. Removed a joke that did not work, repeated worksheet questions, an unneeded safety line, and family members the steps assumed. Fixed an ambiguous order question and added a line saying a grown-up writes the answers.",
- "warm": {"words": ["TEETH", "MOLAR", "BRUSH", "SUGAR", "ROOTS"], "quiz": [["Sour drinks can slowly wear away the hard outside of a tooth.", true, "Acid dissolves things made with calcium, such as eggshell and tooth enamel."], ["Sugar eats holes in teeth all by itself.", false, "Bacteria in plaque eat the sugar and make the acid that wears the tooth."], ["A milk tooth wobbles when the body dissolves its root as the adult tooth grows up below it.", true, "With almost no root left, the milk tooth has nothing to hold it in the jaw."], ["Milk teeth do not matter, because they fall out anyway.", false, "Children chew and speak with them for years, and a deep hole can hurt."], ["Saliva in your mouth helps to wash acid away.", true, "Saliva also puts minerals back into the enamel."], ["Brushing as hard as you can cleans teeth best.", false, "Plaque is soft and comes off with gentle brushing. Hard brushing can hurt the gums."], ["A little fluoride makes enamel harder for acid to wear away.", true, "Too much while teeth are forming leaves spots, so a small amount is best."], ["Your front teeth and back teeth all do the same job.", false, "Front teeth bite and cut, canines tear, and the back teeth crush and grind."], ["Eggshell is a fair test for teeth, because both are made with calcium.", true, "Acid that wears away eggshell can also wear away enamel."], ["A hole in the enamel grows back by itself if you wait.", false, "Enamel is the hardest part of the body, but a hole in it does not grow back."]], "odd": [[["Lemon juice", "Vinegar", "Sour fruit drink", "Plain water"], "Plain water", "The other three are sour and have acid that wears teeth; plain water is not sour."], [["Enamel", "Dentine", "Pulp", "Saliva"], "Saliva", "The other three are parts inside a tooth; saliva is the liquid in the mouth."], [["Saliva", "Fluoride", "Gentle brushing", "Plaque"], "Plaque", "The other three protect teeth; plaque is full of bacteria that make acid."], [["Enamel", "Eggshell", "Bone", "Gum"], "Gum", "The other three are hard and made with calcium; the gum is soft skin."], [["Incisors", "Canines", "Molars", "Premolars"], "Premolars", "Children have the other three kinds in their milk teeth; premolars come only with adult teeth."]]}
+ "warm": {
+  "words": [
+   "TEETH",
+   "MOLAR",
+   "BRUSH",
+   "SUGAR",
+   "ROOTS"
+  ],
+  "quiz": [
+   [
+    "Sour drinks can slowly wear away the hard outside of a tooth.",
+    true,
+    "Acid dissolves things made with calcium, such as eggshell and tooth enamel."
+   ],
+   [
+    "Sugar eats holes in teeth all by itself.",
+    false,
+    "Bacteria in plaque eat the sugar and make the acid that wears the tooth."
+   ],
+   [
+    "A milk tooth wobbles when the body dissolves its root as the adult tooth grows up below it.",
+    true,
+    "With almost no root left, the milk tooth has nothing to hold it in the jaw."
+   ],
+   [
+    "Milk teeth do not matter, because they fall out anyway.",
+    false,
+    "Children chew and speak with them for years, and a deep hole can hurt."
+   ],
+   [
+    "Saliva in your mouth helps to wash acid away.",
+    true,
+    "Saliva also puts minerals back into the enamel."
+   ],
+   [
+    "Brushing as hard as you can cleans teeth best.",
+    false,
+    "Plaque is soft and comes off with gentle brushing. Hard brushing can hurt the gums."
+   ],
+   [
+    "A little fluoride makes enamel harder for acid to wear away.",
+    true,
+    "Too much while teeth are forming leaves spots, so a small amount is best."
+   ],
+   [
+    "Your front teeth and back teeth all do the same job.",
+    false,
+    "Front teeth bite and cut, canines tear, and the back teeth crush and grind."
+   ],
+   [
+    "Eggshell is a fair test for teeth, because both are made with calcium.",
+    true,
+    "Acid that wears away eggshell can also wear away enamel."
+   ],
+   [
+    "A hole in the enamel grows back by itself if you wait.",
+    false,
+    "Enamel is the hardest part of the body, but a hole in it does not grow back."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Lemon juice",
+     "Vinegar",
+     "Sour fruit drink",
+     "Plain water"
+    ],
+    "Plain water",
+    "The other three are sour and have acid that wears teeth; plain water is not sour."
+   ],
+   [
+    [
+     "Enamel",
+     "Dentine",
+     "Pulp",
+     "Saliva"
+    ],
+    "Saliva",
+    "The other three are parts inside a tooth; saliva is the liquid in the mouth."
+   ],
+   [
+    [
+     "Saliva",
+     "Fluoride",
+     "Gentle brushing",
+     "Plaque"
+    ],
+    "Plaque",
+    "The other three protect teeth; plaque is full of bacteria that make acid."
+   ],
+   [
+    [
+     "Enamel",
+     "Eggshell",
+     "Bone",
+     "Gum"
+    ],
+    "Gum",
+    "The other three are hard and made with calcium; the gum is soft skin."
+   ],
+   [
+    [
+     "Incisors",
+     "Canines",
+     "Molars",
+     "Premolars"
+    ],
+    "Premolars",
+    "Children have the other three kinds in their milk teeth; premolars come only with adult teeth."
+   ]
+  ]
+ }
 }

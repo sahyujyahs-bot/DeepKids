@@ -1602,7 +1602,7 @@
    "art": "A white conch shell and a few cowrie shells on a wooden shelf."
   },
   {
-   "text": "Dinosaur models and real fossils at a science museum, like the Government Museum in Chennai or the Indroda park in Gandhinagar.",
+   "text": "Dinosaur models and real fossils at a science museum.",
    "art": "A family walking past a big model of a long-necked dinosaur in a park."
   }
  ],
@@ -1847,21 +1847,32 @@
     "source": "Dhammapada 277",
     "teaching": "The Buddha taught that everything that is made will change and pass away. Seeing this clearly helps us suffer less.",
     "link": "Kinds of animals pass too. Ammonites and the big dinosaurs lived for millions of years, and then they were gone.",
-    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,",
+     "yadā paññāya passati;",
+     "Atha nibbindati dukkhe,",
+     "esa maggo visuddhiyā."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "A few men who cannot see touch an elephant. Each one touches a different part. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right.",
     "link": "Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed that the spike belonged on the thumb. Like the men touching the elephant, he judged a whole animal from only one part.",
-    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Rig Veda 10.129.7, the Nasadiya Sukta",
     "teaching": "The hymn asks where all of creation came from, and ends: perhaps the one who watches from the highest heaven knows, or perhaps even that one does not know.",
     "link": "Honest not-knowing is part of science too. Nobody knows for sure yet what ended the big dinosaurs.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -1900,5 +1911,117 @@
   "wrong_idea": "The wrong idea was that no kind of animal could ever die out, so huge fossil bones must belong to animals still living somewhere unexplored. Cuvier showed the mammoth was a different kind from any living elephant, and far too big to stay hidden."
  },
  "playtest": "Played both games with 2 and with 4 players and found that game 1 never ended and game 2 had a contradicting rule about keeping cards, so I rewrote the rules and removed the score sheet. Followed the Print Test, Newspaper Pile, Footprint Detective, salt dough project and the Footprint challenge step by step in a flat: fixed the footprint paper (two lines, not one reused), the plaster of Paris idea, the drying time for the dough prints, and a food-safety note about reusing dough. Fixed the story ending that put off what the unit teaches, made-up people (Arjun was a baby brother in the story and a classmate on a worksheet), repeated questions about footprints, and cut one weak joke.",
- "warm": {"words": ["BONES", "SHELL", "LAYER", "ROCKS", "TEETH"], "quiz": [["A seashell fossil on a high hill shows the land was once under the sea.", true, "Sea mud turned into rock with shells in it, and later the land rose up."], ["Soft parts like skin become fossils more often than hard bones.", false, "Hard parts like bones, teeth and shells last long enough to turn into fossils."], ["In a pile of layers, the layer at the bottom is the oldest.", true, "It was laid down first, and newer layers piled on top of it."], ["Dinosaurs and humans lived at the same time.", false, "The big dinosaurs died out about 66 million years ago, and people came much later."], ["A footprint in rock is a fossil, even though it is not a body.", true, "A footprint is a trace fossil, a mark a living being left behind."], ["A kind of animal can never die out completely.", false, "When the last one dies, that kind is extinct and never comes back, like mammoths."], ["Birds come from dinosaurs.", true, "Some small dinosaurs had feathers, and birds are their family still living today."], ["Most dinosaurs dragged their tails along the ground as they walked.", false, "Lines of dinosaur footprints show no tail marks, so many dinosaurs walked tall and fast."], ["After the big dinosaurs died out, mammals and birds spread into many new kinds.", true, "Many places and foods were free for them, so new kinds of animals appeared."], ["All dinosaurs were as big as buses.", false, "Some dinosaurs were huge, and some were as small as a hen."]], "odd": [[["Footprint", "Nest", "Burrow", "Bone"], "Bone", "A footprint, a nest and a burrow are marks left behind, but a bone is part of a body."], [["Tooth", "Shell", "Bone", "Soft jellyfish"], "Soft jellyfish", "Hard parts often become fossils, but a soft body usually rots away before it can."], [["Cat", "Elephant", "Whale", "Hen"], "Hen", "Cats, elephants and whales are mammals, who have hair and feed their babies milk; a hen is a bird."], [["Woolly mammoth", "Ammonite", "Tyrannosaurus", "Crow"], "Crow", "The first three kinds are extinct for ever; crows are alive today and come from dinosaurs."], [["Humans", "New kinds of mammals", "New kinds of birds", "Long-necked dinosaurs"], "Long-necked dinosaurs", "The first three came or spread after the big dinosaurs died out; long-necked dinosaurs died out then."]]}
+ "warm": {
+  "words": [
+   "BONES",
+   "SHELL",
+   "LAYER",
+   "ROCKS",
+   "TEETH"
+  ],
+  "quiz": [
+   [
+    "A seashell fossil on a high hill shows the land was once under the sea.",
+    true,
+    "Sea mud turned into rock with shells in it, and later the land rose up."
+   ],
+   [
+    "Soft parts like skin become fossils more often than hard bones.",
+    false,
+    "Hard parts like bones, teeth and shells last long enough to turn into fossils."
+   ],
+   [
+    "In a pile of layers, the layer at the bottom is the oldest.",
+    true,
+    "It was laid down first, and newer layers piled on top of it."
+   ],
+   [
+    "Dinosaurs and humans lived at the same time.",
+    false,
+    "The big dinosaurs died out about 66 million years ago, and people came much later."
+   ],
+   [
+    "A footprint in rock is a fossil, even though it is not a body.",
+    true,
+    "A footprint is a trace fossil, a mark a living being left behind."
+   ],
+   [
+    "A kind of animal can never die out completely.",
+    false,
+    "When the last one dies, that kind is extinct and never comes back, like mammoths."
+   ],
+   [
+    "Birds come from dinosaurs.",
+    true,
+    "Some small dinosaurs had feathers, and birds are their family still living today."
+   ],
+   [
+    "Most dinosaurs dragged their tails along the ground as they walked.",
+    false,
+    "Lines of dinosaur footprints show no tail marks, so many dinosaurs walked tall and fast."
+   ],
+   [
+    "After the big dinosaurs died out, mammals and birds spread into many new kinds.",
+    true,
+    "Many places and foods were free for them, so new kinds of animals appeared."
+   ],
+   [
+    "All dinosaurs were as big as buses.",
+    false,
+    "Some dinosaurs were huge, and some were as small as a hen."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Footprint",
+     "Nest",
+     "Burrow",
+     "Bone"
+    ],
+    "Bone",
+    "A footprint, a nest and a burrow are marks left behind, but a bone is part of a body."
+   ],
+   [
+    [
+     "Tooth",
+     "Shell",
+     "Bone",
+     "Soft jellyfish"
+    ],
+    "Soft jellyfish",
+    "Hard parts often become fossils, but a soft body usually rots away before it can."
+   ],
+   [
+    [
+     "Cat",
+     "Elephant",
+     "Whale",
+     "Hen"
+    ],
+    "Hen",
+    "Cats, elephants and whales are mammals, who have hair and feed their babies milk; a hen is a bird."
+   ],
+   [
+    [
+     "Woolly mammoth",
+     "Ammonite",
+     "Tyrannosaurus",
+     "Crow"
+    ],
+    "Crow",
+    "The first three kinds are extinct for ever; crows are alive today and come from dinosaurs."
+   ],
+   [
+    [
+     "Humans",
+     "New kinds of mammals",
+     "New kinds of birds",
+     "Long-necked dinosaurs"
+    ],
+    "Long-necked dinosaurs",
+    "The first three came or spread after the big dinosaurs died out; long-necked dinosaurs died out then."
+   ]
+  ]
+ }
 }

@@ -2811,11 +2811,11 @@
    "art": "A school identity card with a blood group printed in one corner."
   },
   {
-   "text": "Bee boxes stand among coffee and pepper in Kodagu in Karnataka. In each box, the queen and the workers grew from the same kind of egg.",
+   "text": "Bee boxes standing among coffee and pepper plants. In each box, the queen and the workers grew from the same kind of egg.",
    "art": "Wooden bee boxes on stands among coffee bushes."
   },
   {
-   "text": "On the beaches of Odisha, olive ridley turtles bury their eggs in the sand. The warmth of each nest settles whether the hatchlings are female or male.",
+   "text": "Sea turtles burying their eggs in beach sand, in a video or on a beach. The warmth of each nest settles whether the hatchlings are female or male.",
    "art": "Tiny turtle hatchlings crawling from a sandy nest towards the sea."
   },
   {
@@ -3471,14 +3471,20 @@
     "source": "Thirukkural 373",
     "teaching": "Valluvar says that a person may study many fine and subtle books, and yet the understanding they were born with still shows through.",
     "link": "This is a view from the side of nature. Science agrees in part. Identical twins who grow up apart are still alike in many ways.",
-    "verse": ["நுண்ணிய நூல்பல கற்பினும் மற்றுந்தன்", "உண்மை யறிவே மிகும்."],
+    "verse": [
+     "நுண்ணிய நூல்பல கற்பினும் மற்றுந்தன்",
+     "உண்மை யறிவே மிகும்."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Thirukkural 396",
     "teaching": "Valluvar says that a well dug in sand gives more water the deeper it is dug. In the same way, a person's understanding grows the more they learn.",
     "link": "This is a view from the side of nurture, in the same book. Valluvar held both. The garlic cloves show why both are needed: the same DNA grew long shoots in one home and short ones in another.",
-    "verse": ["தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்", "கற்றனைத் தூறும் அறிவு."],
+    "verse": [
+     "தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்",
+     "கற்றனைத் தூறும் அறிவு."
+    ],
     "verse_lang": "ta"
    },
    {

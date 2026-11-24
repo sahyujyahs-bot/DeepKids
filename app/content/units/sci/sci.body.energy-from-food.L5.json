@@ -2753,7 +2753,7 @@
    "art": "A large python lying coiled and still with a bulge in the middle of the body."
   },
   {
-   "text": "Your own breath showing as mist on a cold morning in Ooty, Munnar or Shimla. It carries water and carbon dioxide from your cells.",
+   "text": "Your own breath showing as mist on a cold morning. It carries water and carbon dioxide from your cells.",
    "art": "A child in a sweater on a misty hill road breathing out a small cloud."
   },
   {
@@ -3248,14 +3248,23 @@
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "Bhrigu's father tells him to find out for himself what all beings come from. Bhrigu thinks hard, and his first answer is food. Beings are born from food, they live by food, and when they die they go back into food. His father sends him to think further.",
     "link": "The science of metabolism says the same about the body. It is built from food, kept alive by food, and returns to the food of other beings. The Upanishad treats this as a true first answer, and then asks what lies beyond it.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment B30 (Diels-Kranz)",
     "teaching": "The Greek thinker Heraclitus said that this world was made by no god and no person. It always was and will be an ever-living fire, being kindled in measures and going out in measures.",
     "link": "A living body is like this in a plain way. Breaking down and building up go on together, in measured amounts, and the body keeps its form only while both continue.",
-    "verse": ["κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,", "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον", "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"],
+    "verse": [
+     "κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,",
+     "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον",
+     "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"
+    ],
     "verse_lang": "grc"
    },
    {

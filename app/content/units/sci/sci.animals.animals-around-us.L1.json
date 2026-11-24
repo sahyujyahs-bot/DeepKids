@@ -1647,23 +1647,23 @@
  ],
  "spotted": [
   {
-   "text": "A crow taking a ball of rice from a window ledge, a sight in many homes across Tamil Nadu and beyond.",
+   "text": "A crow taking a ball of rice from a window ledge.",
    "art": "A crow on a window ledge with a ball of rice, and a hand putting it out."
   },
   {
-   "text": "A cow on a city street in Varanasi or Madurai, chewing slowly for a long time. Grass is tough, so a cow chews a lot.",
+   "text": "A cow on a city street, chewing slowly for a long time. Grass is tough, so a cow chews a lot.",
    "art": "A cow sitting on a street corner, chewing, with her eyes half closed."
   },
   {
-   "text": "Pigeons walking and nodding on the steps of a railway station in Kolkata.",
+   "text": "Pigeons walking and nodding on the steps of a railway station.",
    "art": "A group of pigeons walking on station steps, heads bobbing."
   },
   {
-   "text": "A squirrel running along an electric wire in Bengaluru.",
+   "text": "A squirrel running along an electric wire.",
    "art": "An Indian palm squirrel with three stripes running along a wire."
   },
   {
-   "text": "A gecko on the wall beside a street lamp at a tea stall in Guwahati.",
+   "text": "A gecko on the wall beside a street lamp at a tea stall.",
    "art": "A tea stall at night with a lamp, moths around it and a gecko on the wall."
   }
  ],
@@ -1895,14 +1895,19 @@
     "source": "Zhuangzi, chapter 2 (Discussion on Making All Things Equal)",
     "teaching": "Zhuangzi, a Chinese thinker, wrote that people eat the meat of farm animals, deer eat grass, centipedes eat snakes, and owls and crows eat mice. Then he asked: which of them knows the right taste?",
     "link": "The animals in our home show the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone.",
-    "verse": ["民食芻豢，麋鹿食薦，蝍蛆甘帶，鴟鴉嗜鼠，四者孰知正味？"],
+    "verse": [
+     "民食芻豢，麋鹿食薦，蝍蛆甘帶，鴟鴉嗜鼠，四者孰知正味？"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Thirukkural 322, by Thiruvalluvar",
     "teaching": "To share your food and to care for all living beings is the best of all the teachings.",
     "link": "Every animal in our home needs food, as we do. Many families share a little rice with the crows each day.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse": [
+     "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்",
+     "தொகுத்தவற்றுள் எல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -1942,5 +1947,117 @@
   "art": "A woman in a long dress and bonnet on a rocky beach, breaking open a round stone to show tiny fish bones, with a fossil skeleton in the cliff behind her."
  },
  "playtest": "Walked through the unit as a parent and a six-year-old in a city flat. Played both card games with 2 and with 4 players: all 8 animal cards, 16 food cards and 10 hiding cards are written out, with a score and a winner. Checked the chewing test (five foods, minutes add to 25, fair pieces), home hunt, gecko watch, bird watch, puppet show and invent-an-animal steps against their minutes and materials. Fixed a crow called 'he' in the story, made the bird-watch rice go out an hour before, moved the puppet 'come back tomorrow' to day 1, listed exactly what to cut for the chewing test, replaced a repeated true-or-false and a repeated joke, corrected Mary Anning's age, and removed three video entries with no address that carried internal notes.",
- "warm": {"words": ["TEETH", "MOUTH", "GECKO", "HOMES", "CROWS"], "quiz": [["People are animals too.", true, "People eat, breathe, grow and have babies, like other animals."], ["A cow and a crow eat their food with the same kind of mouth.", false, "A mouth fits the food: the crow has a beak, and the cow has teeth for grass."], ["The house geckos in Indian homes are poisonous.", false, "House geckos have no poison and do not harm people."], ["A gecko waits by the tube light because moths come there.", true, "Moths come to the light, so the gecko finds food there."], ["Animals make their own food from light, like plants do.", false, "Plants make food from light, but animals must find food and eat it."], ["Crows do not belong in cities.", false, "Crows eat scraps and keep streets clean, and birds lived there before the buildings."], ["Animals move to find food and to get away from danger.", true, "Moving takes an animal to food and a home, and away from danger."], ["Birds have teeth to chew their food.", false, "Birds have no teeth; the beak picks up and breaks the food."], ["Animals live where they can find food and stay safe.", true, "Food and a safe place are what every animal needs."], ["The shape of an animal's mouth fits the food they eat.", true, "A beak, teeth or tongue each suits a certain food."]], "odd": [[["Cow's teeth", "Goat's teeth", "Your teeth", "Crow's beak"], "Crow's beak", "The others are teeth that bite and chew, but a bird has a beak and no teeth."], [["Ant", "Gecko", "Crow", "Tree"], "Tree", "The others are animals that must find and eat food; a tree makes its own food."], [["Cow", "Goat", "Buffalo", "Cat"], "Cat", "The other three eat plants, but a cat eats meat."], [["Crow", "Pigeon", "Moth", "Gecko"], "Gecko", "The others fly with wings; a gecko walks on legs."], [["Ants", "House gecko", "Spider", "Tiger"], "Tiger", "The others often live in our houses, but a tiger lives in the forest."]]}
+ "warm": {
+  "words": [
+   "TEETH",
+   "MOUTH",
+   "GECKO",
+   "HOMES",
+   "CROWS"
+  ],
+  "quiz": [
+   [
+    "People are animals too.",
+    true,
+    "People eat, breathe, grow and have babies, like other animals."
+   ],
+   [
+    "A cow and a crow eat their food with the same kind of mouth.",
+    false,
+    "A mouth fits the food: the crow has a beak, and the cow has teeth for grass."
+   ],
+   [
+    "The house geckos in Indian homes are poisonous.",
+    false,
+    "House geckos have no poison and do not harm people."
+   ],
+   [
+    "A gecko waits by the tube light because moths come there.",
+    true,
+    "Moths come to the light, so the gecko finds food there."
+   ],
+   [
+    "Animals make their own food from light, like plants do.",
+    false,
+    "Plants make food from light, but animals must find food and eat it."
+   ],
+   [
+    "Crows do not belong in cities.",
+    false,
+    "Crows eat scraps and keep streets clean, and birds lived there before the buildings."
+   ],
+   [
+    "Animals move to find food and to get away from danger.",
+    true,
+    "Moving takes an animal to food and a home, and away from danger."
+   ],
+   [
+    "Birds have teeth to chew their food.",
+    false,
+    "Birds have no teeth; the beak picks up and breaks the food."
+   ],
+   [
+    "Animals live where they can find food and stay safe.",
+    true,
+    "Food and a safe place are what every animal needs."
+   ],
+   [
+    "The shape of an animal's mouth fits the food they eat.",
+    true,
+    "A beak, teeth or tongue each suits a certain food."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Cow's teeth",
+     "Goat's teeth",
+     "Your teeth",
+     "Crow's beak"
+    ],
+    "Crow's beak",
+    "The others are teeth that bite and chew, but a bird has a beak and no teeth."
+   ],
+   [
+    [
+     "Ant",
+     "Gecko",
+     "Crow",
+     "Tree"
+    ],
+    "Tree",
+    "The others are animals that must find and eat food; a tree makes its own food."
+   ],
+   [
+    [
+     "Cow",
+     "Goat",
+     "Buffalo",
+     "Cat"
+    ],
+    "Cat",
+    "The other three eat plants, but a cat eats meat."
+   ],
+   [
+    [
+     "Crow",
+     "Pigeon",
+     "Moth",
+     "Gecko"
+    ],
+    "Gecko",
+    "The others fly with wings; a gecko walks on legs."
+   ],
+   [
+    [
+     "Ants",
+     "House gecko",
+     "Spider",
+     "Tiger"
+    ],
+    "Tiger",
+    "The others often live in our houses, but a tiger lives in the forest."
+   ]
+  ]
+ }
 }

@@ -3342,7 +3342,7 @@
    "art": "An old banyan tree beside a road with brown roots hanging down from her branches."
   },
   {
-   "text": "A sloping tiled roof on an old house in Kerala or coastal Karnataka, beside a flat concrete roof.",
+   "text": "A sloping tiled roof on an old house, beside a flat concrete roof.",
    "art": "An old house with a steep red tiled roof next to a new house with a flat roof, in heavy rain."
   },
   {
@@ -3362,11 +3362,11 @@
    "art": "A hand holding a steel tumbler with a round patch of mist on its side."
   },
   {
-   "text": "Clouds piled against the hills on the road up to Munnar, Ooty or Mahabaleshwar, and clear sky beyond.",
+   "text": "Clouds piled against the hills on a hill road, and clear sky beyond.",
    "art": "A winding hill road with thick cloud on the green slope below and blue sky over the plateau above."
   },
   {
-   "text": "Mangrove trees along a creek in Mumbai, Chennai, Kochi or Kolkata, with roots standing out of the mud.",
+   "text": "Mangrove trees along a creek, with roots standing out of the mud.",
    "art": "A city creek at low tide with mangrove trees on the bank and buildings behind them."
   }
  ],
@@ -3925,14 +3925,27 @@
     "source": "Tolkappiyam, Porulatikaram, the chapter Akattinaiyiyal (Tamil, about 2,000 years old, though scholars disagree on the exact date)",
     "teaching": "The Tolkappiyam divides the Tamil country into five landscapes: hills, forest, farmland, seashore and dry land. Each landscape has its own flower, tree, animals, work and way of life. The hills are named kurinji, after the flower that blooms there.",
     "link": "This is close to the idea of an ecological region. The poets saw that the land, the living beings and the people's lives go together. They used it to write poems, and scientists use it to plan protected areas.",
-    "verse": ["மாயோன் மேய காடுறை உலகமுஞ்", "சேயோன் மேய மைவரை உலகமும்", "வேந்தன் மேய தீம்புனல் உலகமும்", "வருணன் மேய பெருமணல் உலகமும்", "முல்லை குறிஞ்சி மருத நெய்தலெனச்", "சொல்லிய முறையாற் சொல்லவும் படுமே."],
+    "verse": [
+     "மாயோன் மேய காடுறை உலகமுஞ்",
+     "சேயோன் மேய மைவரை உலகமும்",
+     "வேந்தன் மேய தீம்புனல் உலகமும்",
+     "வருணன் மேய பெருமணல் உலகமும்",
+     "முல்லை குறிஞ்சி மருத நெய்தலெனச்",
+     "சொல்லிய முறையாற் சொல்லவும் படுமே."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Udana 6.4, the Buddha's story of the blind men and the elephant",
     "teaching": "Several men who had been blind from birth each touched one part of an elephant. One said an elephant is like a pot, another like a pillar, another like a broom. Each was sure, and they quarrelled.",
     "link": "The Buddha told this story about people who argue over what is true. It fits this lesson in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi thūṇo.", "ediso, deva, hatthī seyyathāpi sammajjanī."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi thūṇo.",
+     "ediso, deva, hatthī seyyathāpi sammajjanī."
+    ],
     "verse_lang": "pi"
    }
   ],

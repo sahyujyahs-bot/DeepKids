@@ -2620,7 +2620,7 @@
    "art": "An open steel masala box with a compartment of grey-green and black kalpasi among other whole spices."
   },
   {
-   "text": "Grey-green, yellow or orange patches of lichen on old tree trunks, temple walls and rocks, most of all in hill towns such as Kodaikanal, Munnar and Shillong.",
+   "text": "Grey-green, yellow or orange patches of lichen on old tree trunks, temple walls and rocks, most of all in cool hill towns.",
    "art": "An old stone wall of a hill-town temple with round grey-green and orange lichen patches."
   },
   {
@@ -2628,7 +2628,7 @@
    "art": "A large black carpenter bee hovering beside a purple tube-shaped flower on a garden fence."
   },
   {
-   "text": "Tiny black stingless bees going in and out of a small wax tube in a wall or a tree hollow, common in Kerala and Tamil Nadu.",
+   "text": "Tiny black stingless bees going in and out of a small wax tube in a wall or a tree hollow.",
    "art": "A small wax tube sticking out of a crack in a house wall with tiny black bees at its mouth."
   },
   {
@@ -2640,7 +2640,7 @@
    "art": "A ring of small brown mushrooms in wet leaf litter at the foot of a large tree after rain."
   },
   {
-   "text": "Orchids growing on the branches of trees in Kodagu, Wayanad and Sikkim. Each one began as a dust-like seed fed by a fungus.",
+   "text": "Orchids growing on the branches of trees. Each one began as a dust-like seed fed by a fungus.",
    "art": "A spray of pink orchid flowers hanging from a mossy branch in a rainy forest."
   },
   {
@@ -3167,14 +3167,19 @@
     "source": "Bhagavad Gita 3.11",
     "teaching": "Nourish the gods with this, and may the gods nourish you. By nourishing one another, you will reach the highest good.",
     "link": "The verse is about people and the gods, not about plants. But it describes the same pattern as a root and a fungus: each side feeds the other, and both do better than either could alone.",
-    "verse": ["देवान्भावयतानेन ते देवा भावयन्तु वः।", "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ।।"],
+    "verse": [
+     "देवान्भावयतानेन ते देवा भावयन्तु वः।",
+     "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 2",
     "teaching": "Being and non-being give rise to each other. Long and short shape each other. High and low rest on each other.",
     "link": "The verse says that opposites need each other. In a lichen, the one who can make sugar and the one who cannot are opposites in this way, and that is why each has a use for the other. The verse is about ideas, so the likeness is in the pattern only.",
-    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse": [
+     "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    ],
     "verse_lang": "zh"
    }
   ],

@@ -2686,7 +2686,7 @@
    "art": "Large fruit bats hanging in a banyan tree at dusk, with a street dog lying under the tree."
   },
   {
-   "text": "Dugongs graze on seagrass in Palk Bay, off Thanjavur and Pudukkottai. Tamil Nadu made part of the bay a dugong reserve in 2022. Their nearest living relatives are elephants.",
+   "text": "Dugongs grazing on seagrass, in a video or an aquarium. Their nearest living relatives are elephants.",
    "art": "A dugong grazing on a seagrass bed in shallow green water, with a small fishing boat above."
   },
   {
@@ -2694,11 +2694,11 @@
    "art": "A glossy black langur with a golden-brown head in a misty hill forest, and a grey langur sitting on a temple wall."
   },
   {
-   "text": "In the first rains of the monsoon in Kerala, the purple frog comes up from underground for a few days. Their nearest relatives live on the Seychelles islands.",
+   "text": "Frogs coming out in the first rains of the monsoon. Some frogs come up from underground for just a few days.",
    "art": "A plump purple frog with a small pointed snout on wet leaf litter beside a forest stream in the rain."
   },
   {
-   "text": "Fossils of early whales have been found in Kutch in Gujarat and in Kashmir. Parts of India lay beside a warm, shallow sea when whales were first taking to the water.",
+   "text": "A picture of an early whale fossil. Early whales lived beside a warm, shallow sea when whales were first taking to the water.",
    "art": "A dry rocky landscape in Kutch with a scientist brushing sand from a long fossil backbone."
   },
   {
@@ -3233,7 +3233,10 @@
     "source": "Isha Upanishad 6",
     "teaching": "The one who sees all beings in the self, and the self in all beings, does not turn away from anyone.",
     "link": "The Upanishad speaks of seeing, and gives no evidence of the kind a scientist uses. The tree of life gives a plain fact that sits beside it: every being you meet shares an ancestor with you, and the shared history is written in the cells of both.",
-    "verse": ["यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति", "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"],
+    "verse": [
+     "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति",
+     "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"
+    ],
     "verse_lang": "sa"
    },
    {

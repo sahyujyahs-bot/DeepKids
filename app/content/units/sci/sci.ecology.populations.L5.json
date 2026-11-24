@@ -3093,7 +3093,7 @@
  ],
  "spotted": [
   {
-   "text": "Pigeons gathered where someone scatters grain each morning, at a temple tank in Chennai or a chowk in Jaipur. Food sets their number.",
+   "text": "Pigeons gathered where someone scatters grain each morning, at a temple tank or a market square. Food sets their number.",
    "art": "A flock of pigeons crowding round scattered grain on stone steps beside a temple tank."
   },
   {
@@ -3101,7 +3101,7 @@
    "art": "An old tyre holding rainwater with tiny wriggling larvae visible near the surface."
   },
   {
-   "text": "Water hyacinth covering a lake from bank to bank, as on parts of Vembanad in Kerala or Ulsoor in Bengaluru. The surface is full.",
+   "text": "Water hyacinth covering a lake from bank to bank. The surface is full.",
    "art": "A lake completely covered by green floating plants with purple flowers, and a boat pushing through."
   },
   {
@@ -3109,7 +3109,7 @@
    "art": "Dozens of thin pale seedlings in the deep shade under a large banyan tree."
   },
   {
-   "text": "A signboard at a tiger reserve such as Nagarahole, Bandipur or Kanha, giving the estimated number of tigers and of deer.",
+   "text": "A signboard at a wildlife park giving the estimated number of tigers and of deer.",
    "art": "A painted forest department signboard at a park gate listing animal numbers, with chital grazing behind it."
   },
   {
@@ -3121,7 +3121,7 @@
    "art": "House crows and two street dogs picking through an open rubbish heap at a street corner."
   },
   {
-   "text": "Fishing boats tied up at harbours on India's coasts during the yearly fishing ban in the monsoon, when many fish breed.",
+   "text": "Fishing boats tied up at the harbour during the yearly fishing ban in the monsoon, when many fish breed.",
    "art": "Rows of painted fishing boats tied up in a harbour under monsoon clouds, with nets drying."
   }
  ],
@@ -3647,14 +3647,19 @@
     "source": "Thirukkural 479 (paraphrased)",
     "teaching": "The life of a person who lives without knowing their measure may look as if it is doing well. Then it is gone, and nothing is left to show for it.",
     "link": "Valluvar wrote this about a person's wealth. The reindeer of St Matthew Island lived it. The herd looked as if it was thriving until the year it vanished, because it had gone past the measure of the island.",
-    "verse": ["அளவறிந்து வாழாதான் வாழ்க்கை உளபோல", "இல்லாகித் தோன்றாக் கெடும்."],
+    "verse": [
+     "அளவறிந்து வாழாதான் வாழ்க்கை உளபோல",
+     "இல்லாகித் தோன்றாக் கெடும்."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching 77 (paraphrased)",
     "teaching": "The way of nature is like the bending of a bow. The high end is brought down and the low end is raised. What has too much is reduced, and what has too little is added to.",
     "link": "This is how a crowded population and a sparse one behave. In a crowd, deaths rise and births fall. Where members are few, each has plenty and the number grows. Both are pulled toward the carrying capacity.",
-    "verse": ["天之道，損有餘而補不足。"],
+    "verse": [
+     "天之道，損有餘而補不足。"
+    ],
     "verse_lang": "zh"
    }
   ],

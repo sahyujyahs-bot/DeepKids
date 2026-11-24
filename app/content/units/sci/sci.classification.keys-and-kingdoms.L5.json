@@ -592,7 +592,10 @@
     "source": "Thirukkural 972",
     "teaching": "All living beings are alike in birth. What sets them apart is what each one does.",
     "link": "Valluvar was writing about people, and saying that nobody is born higher than anybody else. The tree of life says something close to this about every living being. All of us come from one birth, the first cells. The kingdoms differ in what their cells came to do: make food, swallow it or soak it up.",
-    "verse": ["பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா", "செய்தொழில் வேற்றுமை யான்."],
+    "verse": [
+     "பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா",
+     "செய்தொழில் வேற்றுமை யான்."
+    ],
     "verse_lang": "ta"
    },
    {
@@ -2906,7 +2909,7 @@
    "art": "A round concrete biogas dome beside a village cowshed, with a pipe leading to a kitchen."
   },
   {
-   "text": "Salt pans at Marakkanam in Tamil Nadu or at Ribandar in Goa, which sometimes turn pink before the salt is gathered.",
+   "text": "Salt pans by the sea, which sometimes turn pink before the salt is gathered.",
    "art": "Square salt pans with pale pink water and heaps of white salt along the edges."
   },
   {

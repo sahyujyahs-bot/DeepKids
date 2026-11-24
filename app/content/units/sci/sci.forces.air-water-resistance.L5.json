@@ -3093,7 +3093,7 @@
    "art": "A shuttlecock at the top of its path above a badminton net, with its skirt of feathers trailing behind."
   },
   {
-   "text": "A ferry tied to the jetty with thick ropes at Fort Kochi or at Mumbai's ferry wharf.",
+   "text": "A ferry tied to the jetty with thick ropes.",
    "art": "A passenger ferry beside a jetty with two thick ropes looped round iron posts."
   },
   {
@@ -3113,7 +3113,7 @@
    "art": "A duck swimming on a pond with a V-shaped pattern of ripples spreading behind her."
   },
   {
-   "text": "A round coracle carrying people across the Kaveri at Hogenakkal. A round boat meets more water resistance than a long, narrow one, so a coracle is slow.",
+   "text": "A round boat carrying people across a river. A round boat meets more water resistance than a long, narrow one, so a round boat is slow.",
    "art": "A round basket boat with four people in it on a wide river between rocky banks, with a boatman using one paddle."
   }
  ],
@@ -3637,14 +3637,19 @@
     "source": "Tao Te Ching, chapter 78",
     "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at wearing down what is hard and strong.",
     "link": "Water gives way to the smallest slow push. One paper clip moved the loaded box in Table or Tub. Yet the same water pushes back hard on anything that moves fast.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Zhuangzi, chapter 19, the swimmer at the waterfall",
     "teaching": "An old man swims safely in a wild river. He says that he goes under with the swirls and comes out with them. He follows the way of the water and does not force his own way.",
     "link": "Water resists a swimmer only as much as she moves through it. A swimmer carried along with a current meets almost no resistance from that current.",
-    "verse": ["吾始乎故，長乎性，成乎命。", "與齊俱入，與汩偕出，從水之道，而不爲私焉。"],
+    "verse": [
+     "吾始乎故，長乎性，成乎命。",
+     "與齊俱入，與汩偕出，從水之道，而不爲私焉。"
+    ],
     "verse_lang": "zh"
    }
   ],

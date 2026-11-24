@@ -2726,11 +2726,11 @@
  ],
  "spotted": [
   {
-   "text": "The small round scar high on the left arm of most people in India. It is from the BCG vaccine against tuberculosis, given soon after birth.",
+   "text": "The small round scar high on the left arm of most people. It is from the BCG vaccine against tuberculosis, given soon after birth.",
    "art": "A child's left upper arm with a small round pale scar, and the child looking down at it."
   },
   {
-   "text": "The line 'Contains wheat, milk' on a biscuit packet in a provision shop in Coimbatore, Kochi or Indore.",
+   "text": "The line 'Contains wheat, milk' on a biscuit packet in a provision shop.",
    "art": "The back of a biscuit packet on a shop shelf with the allergen line printed in bold."
   },
   {
@@ -3264,21 +3264,33 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son to put salt in water at night. In the morning the salt cannot be seen. But a sip from the top, the middle and the bottom all taste of salt. What cannot be seen is still there, all through.",
     "link": "In the Titre Test the washing powder could not be seen in the water, and the turmeric showed that it was there. An antibody test does the same for a past infection.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 948 (paraphrased)",
     "teaching": "Find out the disease. Then find its cause. Then find what will ease it. Only then act, and act with skill.",
     "link": "Valluvar puts careful finding-out before any action. A blood test for antibodies is one way of finding out. Nirmala and Dr Solomon looked before anyone else in India thought there was anything to find.",
-    "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."],
+    "verse": [
+     "நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்",
+     "வாய்நாடி வாய்ப்பச் செயல்."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching 71 (paraphrased)",
     "teaching": "To know that you do not know is best. To think that you know when you do not is a sickness.",
     "link": "A yellow katori means 'not enough to find', which is different from 'none'. A careful scientist knows what a test cannot tell, and tests again after the window period.",
-    "verse": ["知不知上，不知知病。", "夫唯病病，是以不病。聖人不病，以其病病，是以不病。"],
+    "verse": [
+     "知不知上，不知知病。",
+     "夫唯病病，是以不病。聖人不病，以其病病，是以不病。"
+    ],
     "verse_lang": "zh"
    }
   ],

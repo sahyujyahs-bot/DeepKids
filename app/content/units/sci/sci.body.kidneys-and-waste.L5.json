@@ -2788,7 +2788,7 @@
  ],
  "spotted": [
   {
-   "text": "A house gecko's dropping below a tube light, anywhere in India: a dark pellet with a white cap of nitrogen waste.",
+   "text": "A house gecko's dropping below a tube light: a dark pellet with a white cap of nitrogen waste.",
    "art": "A small dark dropping with a white tip on a tiled floor below a wall where a gecko waits near a tube light."
   },
   {
@@ -2796,15 +2796,15 @@
    "art": "A steel bowl of sliced cucumber and onion salad tilted to show a pool of clear liquid at the bottom."
   },
   {
-   "text": "Rows of salted fish drying in the sun at Kasimedu in Chennai or on the beach at Rameswaram. The salt has drawn the water out.",
+   "text": "Rows of salted fish drying in the sun. The salt has drawn the water out.",
    "art": "Split fish laid out in rows on mats on a sandy beach, with a woman turning them over."
   },
   {
-   "text": "Salt pans at Thoothukudi in Tamil Nadu or in the Little Rann of Kutch in Gujarat, where the sun dries sea water until the salt is left.",
+   "text": "Salt pans by the sea, where the sun dries sea water until the salt is left.",
    "art": "Flat square pans of shallow water with white heaps of salt along their edges and a worker raking under a bright sky."
   },
   {
-   "text": "Salt crystals on the leaves of grey mangrove trees at Pichavaram in Tamil Nadu or in the Sundarbans of West Bengal.",
+   "text": "Salt crystals on the leaves of mangrove trees.",
    "art": "A close view of a grey-green mangrove leaf with tiny white salt crystals on its surface, with a creek behind."
   },
   {
@@ -3329,21 +3329,33 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son to put a lump of salt in water. By morning the salt cannot be seen or picked out, yet every sip of the water tastes of it.",
     "link": "The salt in the cucumber bowl also vanished from sight. But the salt you could no longer see decided where the water went. What is dissolved and unseen is doing the work.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 8",
     "teaching": "The highest good is like water. Water benefits all things and does not strive. It settles in the low places that people avoid.",
     "link": "In a body, water is never forced. It goes wherever the difference in salt leads it, through doors that are simply left open.",
-    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse": [
+     "上善若水。",
+     "水善利萬物而不爭，處眾人之所惡，故幾於道。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Thirukkural 20 (paraphrased)",
     "teaching": "Without water, the world cannot go on for anyone, however great they are. And without rain, there is no flow of water.",
     "link": "A kangaroo rat who never drinks still lives on water, which her cells make from seeds that grew after rain. No body has found a way to do without water. Bodies only differ in how little they can lose.",
-    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse": [
+     "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+     "வான்இன்று அமையாது ஒழுக்கு."
+    ],
     "verse_lang": "ta"
    }
   ],

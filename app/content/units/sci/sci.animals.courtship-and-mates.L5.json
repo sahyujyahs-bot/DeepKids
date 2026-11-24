@@ -611,21 +611,33 @@
     "source": "Brihadaranyaka Upanishad 1.4.3",
     "teaching": "As paraphrased: in the beginning the Self was alone, and was as large as a woman and a man holding each other. The Self divided into two, and from the two halves came wife and husband.",
     "link": "The Upanishad says female and male came from one being who was both. Science says the two sizes of sex cell came from one earlier size. The two accounts are different kinds of statement, but both begin with one and arrive at two.",
-    "verse": ["स वै नैव रेमे । तस्मादेकाकी न रमते । स द्वितीयमैच्छत्।", "स हैतावानास यथा स्त्रीपुमांसौ सम्परिष्वक्तौ । स इममेवात्मानं द्वेधापातयत्।", "ततः पतिश्च पत्नी चाभवताम्"],
+    "verse": [
+     "स वै नैव रेमे । तस्मादेकाकी न रमते । स द्वितीयमैच्छत्।",
+     "स हैतावानास यथा स्त्रीपुमांसौ सम्परिष्वक्तौ । स इममेवात्मानं द्वेधापातयत्।",
+     "ततः पतिश्च पत्नी चाभवताम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 28",
     "teaching": "As paraphrased: know the male, but keep to the female, and be like a valley that all the streams of the world run into.",
     "link": "Lao Tzu asks one person to hold both. A jacana father who guards his patch and also warms the eggs does both jobs in one body, and so does a clownfish who is father one year and mother the next.",
-    "verse": ["知其雄，守其雌，為天下谿。", "為天下谿，常德不離，復歸於嬰兒。"],
+    "verse": [
+     "知其雄，守其雌，為天下谿。",
+     "為天下谿，常德不離，復歸於嬰兒。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Sutta Nipata 1.8, the Metta Sutta (verse 149)",
     "teaching": "As paraphrased: as a mother would guard her only child with her life, so let a person grow a heart without limit towards all beings.",
     "link": "The Buddha takes a mother's care as the model, and then asks everyone to give it. In nature too, care is given by fathers, aunts, sisters and helpers, and is not the mother's alone.",
-    "verse": ["Mātā yathā niyaṁ puttam", "Āyusā ekaputtamanurakkhe;", "Evampi sabbabhūtesu,", "Mānasaṁ bhāvaye aparimāṇaṁ."],
+    "verse": [
+     "Mātā yathā niyaṁ puttam",
+     "Āyusā ekaputtamanurakkhe;",
+     "Evampi sabbabhūtesu,",
+     "Mānasaṁ bhāvaye aparimāṇaṁ."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2407,11 +2419,11 @@
    "art": "A jacana with very long toes walking across round lotus leaves on a pond."
   },
   {
-   "text": "A herd of elephants at Mudumalai, Bandipur or Nagarhole. Look for the old female at the front. Any big male is usually off to one side or alone.",
+   "text": "A herd of elephants in a forest or a zoo. Look for the old female at the front. Any big male is usually off to one side or alone.",
    "art": "A line of female elephants and calves crossing a forest road, led by an old female, with a lone tusker in the far background."
   },
   {
-   "text": "Male blackbuck with long twisted horns at Guindy National Park in Chennai or at Point Calimere. The fawn-coloured females usually have no horns.",
+   "text": "Male blackbuck with long twisted horns, in a park or a zoo. The fawn-coloured females usually have no horns.",
    "art": "A dark male blackbuck with spiral horns standing on open ground with several paler hornless females."
   },
   {
@@ -2427,7 +2439,7 @@
    "art": "An earthworm on wet soil at the edge of a clay flowerpot."
   },
   {
-   "text": "People walking the beaches of Chennai and Odisha at night between January and March, moving olive ridley turtle eggs to safe hatcheries.",
+   "text": "People walking a beach at night between January and March, moving sea turtle eggs to safe hatcheries. Watch a video of this if you are far from the sea.",
    "art": "Volunteers with dim torches kneeling beside a turtle nest in beach sand at night, lifting round white eggs into a bag."
   }
  ],
