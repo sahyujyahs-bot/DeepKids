@@ -46,7 +46,10 @@ const SFX = {
   win: () => [523, 659, 784, 1046, 1318].forEach((f, i) => tone(f, i * 0.08, 0.22, "triangle", 0.1)),
   key: () => tone(900, 0, 0.03, "square", 0.03),
 };
+// counts every sound asked for, so onAct can tell a tap that made none
+let sfxCount = 0;
 function sfx(k) {
+  sfxCount++;
   if (!soundOn || !SFX[k]) return;
   try {
     audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)();

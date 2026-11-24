@@ -75,7 +75,10 @@ function onAct(e) {
   if (!b) return;
   const a = b.dataset.act,
     k = b.dataset.k;
+  // every tap answers: a handler that plays no sound of its own gets the soft tap
+  const heard = sfxCount;
   ACT[a]?.(b, e, a, k);
+  if (ACT[a] && sfxCount === heard) sfx("tap");
 }
 /* Buttons whose data-act is built at run time, so they have no one home file */
 Object.assign(ACT, {

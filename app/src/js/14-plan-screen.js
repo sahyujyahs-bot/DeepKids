@@ -1586,12 +1586,14 @@ Object.assign(ACT, {
     S.shuffle = { ...(S.shuffle || {}), [s]: !(S.shuffle || {})[s] };
     S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
     sfx("flip");
+    toast(S.shuffle[s] ? "Topics will now come in a mixed order" : "Topics are back in book order");
     commit();
   },
   reshuffle(b, e, a, k) {
     const s = b.dataset.s;
     S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
     sfx("flip");
+    toast("Mixed up again");
     commit();
   },
   qlater(b, e, a, k) {
@@ -1599,6 +1601,7 @@ Object.assign(ACT, {
     S.later = { ...(S.later || {}), [s]: [...((S.later || {})[s] || []).filter((x) => x !== k), k] };
     S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
     sfx("flip");
+    toast("Taken out of Up next");
     toast("Moved to later");
     commit();
   },
@@ -1637,6 +1640,7 @@ Object.assign(ACT, {
   tododel(b, e, a, k) {
     S.todos = (S.todos || []).filter((z) => z.id !== b.dataset.t);
     sfx("flip");
+    toast("Removed from your list");
     commit();
   },
   pv(b, e, a, k) {
@@ -1710,6 +1714,7 @@ Object.assign(ACT, {
   askskip(b, e, a, k) {
     S.asked = { ...(S.asked || {}), [b.dataset.a]: 1 };
     ui.askOpen = null;
+    toast("Okay, we won't ask about this again");
     commit();
   },
   ted(b, e, a, k) {
@@ -1756,11 +1761,13 @@ Object.assign(ACT, {
   tddel(b, e, a, k) {
     S.todos = (S.todos || []).filter((x) => x.id !== b.dataset.id);
     sfx("flip");
+    toast("Removed from your list");
     commit();
   },
   notedel(b, e, a, k) {
     S.notes = (S.notes || []).filter((x) => x.id !== b.dataset.id);
     sfx("flip");
+    toast("Note deleted");
     commit();
   },
   toplan(b, e, a, k) {
@@ -1971,6 +1978,7 @@ Object.assign(ACT, {
       S.dayOver = o;
     }
     sfx("flip");
+    toast("Back to the usual plan");
     commit();
   },
   wfguide(b, e, a, k) {

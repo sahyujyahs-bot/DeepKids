@@ -1293,6 +1293,7 @@ Object.assign(ACT, {
   invdel(b, e, a, k) {
     S.inv = (S.inv || []).filter((i) => i.id !== b.dataset.i);
     sfx("flip");
+    toast("Taken off the shelf");
     commit();
   },
 });

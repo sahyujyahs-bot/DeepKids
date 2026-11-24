@@ -916,8 +916,9 @@ dialog.sheet::backdrop {
   min-width: 0;
   overflow-wrap: anywhere;
 }
-.taskrow .pill {
-  white-space: normal;
+.taskrow b {
+  font-size: var(--fs-4);
+  line-height: 1.3;
 }
 .taskrow.done b {
   text-decoration: line-through;

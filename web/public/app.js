@@ -219,7 +219,10 @@ const SFX = {
   win: () => [523, 659, 784, 1046, 1318].forEach((f, i) => tone(f, i * 0.08, 0.22, "triangle", 0.1)),
   key: () => tone(900, 0, 0.03, "square", 0.03),
 };
+// counts every sound asked for, so onAct can tell a tap that made none
+let sfxCount = 0;
 function sfx(k) {
+  sfxCount++;
   if (!soundOn || !SFX[k]) return;
   try {
     audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)();
@@ -3292,6 +3295,7 @@ Object.assign(ACT, {
     delete o[b.dataset.date + "|" + b.dataset.id];
     S.evoff = o;
     sfx("tap");
+    toast("Put back on the plan");
     commit();
   },
   evf(b, e, a, k) {
@@ -10498,6 +10502,7 @@ Object.assign(ACT, {
   invdel(b, e, a, k) {
     S.inv = (S.inv || []).filter((i) => i.id !== b.dataset.i);
     sfx("flip");
+    toast("Taken off the shelf");
     commit();
   },
 });
@@ -11107,11 +11112,11 @@ function itemDetail(it, date, upNext) {
       .slice(0, 4)
       .map(
         (p) =>
-          `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b>${p.early ? ` <span class="pill learning">early start for ${fmt(p.x.date)}</span>` : ""}<p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`,
+          `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b>${esc(p.task)}</b><p class="xs muted">${p.early ? `Needed ${fmt(p.x.date)} · ` : ""}${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`,
       )
       .join(
         "",
-      )}</div><div class="row">${more > 0 ? `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">See all ${it.prep.length}</button>` : ""}${it.id === "pm" ? `<button class="btn" data-act="night">Get ready for tomorrow</button>` : `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">Parent guides</button>`}</div>`;
+      )}</div><div class="row">${it.id === "pm" ? `${more > 0 ? `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">See all ${it.prep.length}</button>` : ""}<button class="btn" data-act="night">Get ready for tomorrow</button>` : `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">${more > 0 ? `See all ${it.prep.length}` : "Parent guides"}</button>`}</div>`;
   }
   if (it.kind === "warm") {
     const j = dayJokes()[0];
@@ -11253,7 +11258,7 @@ function nightView() {
     d = daySettings(tm),
     al = S.alarm || { on: false, time: "06:30" };
   setSheetTitle("Tomorrow · " + fmt(tm));
-  return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="note">Nothing to get ready tonight.</p>`}</section>
+  return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b>${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="note">Nothing to get ready tonight.</p>`}</section>
    <section class="card"><h3 class="fs5">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? subjClass(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="note">Nothing planned yet.</p>`}</section>
    <section class="card"><h3 class="fs5">Your morning</h3><div class="fgrid"><div class="field"><label for="nWake">I'll wake up at</label><input class="inp" id="nWake" type="time" value="${al.time}" data-alarm="time"></div><div class="field"><label for="nStart">Start learning with ${esc(S.child || "my child")} at</label><input class="inp" id="nStart" type="time" value="${d.start}" data-over="${tm}"></div></div>
      <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="nAlarm" ${al.on ? "checked" : ""} data-alarm="on"><span><b class="h4">Wake-up alarm</b><br><span class="xs muted">Rings only while DeepKids is open on this phone. For a sure wake-up, also set your phone's alarm for ${clock(toMins(al.time))}.</span></span></label></section>
@@ -11650,6 +11655,7 @@ Object.assign(ACT, {
   less(b, e, a, k) {
     ui.more[b.dataset.s] = false;
     sfx("flip");
+    toast("Okay, the extra lesson is hidden for today. You can bring it back with More for today.", 4500);
     render();
   },
   skip(b, e, a, k) {
@@ -11890,9 +11896,10 @@ Object.assign(ACT, {
   },
   delev(b, e, a, k) {
     const ev = (S.events || []).find((x) => x.id === b.dataset.e);
-    if (ev?.rep === "weekly" && !confirm(`Stop "${ev.title}" for good? It will no longer show on any day.`)) return;
+    if (ev?.rep === "weekly" && !confirm(`Stop ${ev.title} for good? It will no longer show on any day.`)) return;
     S.events = (S.events || []).filter((x) => x.id !== b.dataset.e);
     sfx("flip");
+    toast(ev ? `Removed ${ev.title}` : "Removed");
     commit();
   },
   refresh(b, e, a, k) {
@@ -13605,12 +13612,14 @@ Object.assign(ACT, {
     S.shuffle = { ...(S.shuffle || {}), [s]: !(S.shuffle || {})[s] };
     S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
     sfx("flip");
+    toast(S.shuffle[s] ? "Topics will now come in a mixed order" : "Topics are back in book order");
     commit();
   },
   reshuffle(b, e, a, k) {
     const s = b.dataset.s;
     S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
     sfx("flip");
+    toast("Mixed up again");
     commit();
   },
   qlater(b, e, a, k) {
@@ -13618,6 +13627,7 @@ Object.assign(ACT, {
     S.later = { ...(S.later || {}), [s]: [...((S.later || {})[s] || []).filter((x) => x !== k), k] };
     S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
     sfx("flip");
+    toast("Taken out of Up next");
     toast("Moved to later");
     commit();
   },
@@ -13656,6 +13666,7 @@ Object.assign(ACT, {
   tododel(b, e, a, k) {
     S.todos = (S.todos || []).filter((z) => z.id !== b.dataset.t);
     sfx("flip");
+    toast("Removed from your list");
     commit();
   },
   pv(b, e, a, k) {
@@ -13729,6 +13740,7 @@ Object.assign(ACT, {
   askskip(b, e, a, k) {
     S.asked = { ...(S.asked || {}), [b.dataset.a]: 1 };
     ui.askOpen = null;
+    toast("Okay, we won't ask about this again");
     commit();
   },
   ted(b, e, a, k) {
@@ -13775,11 +13787,13 @@ Object.assign(ACT, {
   tddel(b, e, a, k) {
     S.todos = (S.todos || []).filter((x) => x.id !== b.dataset.id);
     sfx("flip");
+    toast("Removed from your list");
     commit();
   },
   notedel(b, e, a, k) {
     S.notes = (S.notes || []).filter((x) => x.id !== b.dataset.id);
     sfx("flip");
+    toast("Note deleted");
     commit();
   },
   toplan(b, e, a, k) {
@@ -13990,6 +14004,7 @@ Object.assign(ACT, {
       S.dayOver = o;
     }
     sfx("flip");
+    toast("Back to the usual plan");
     commit();
   },
   wfguide(b, e, a, k) {
@@ -14358,6 +14373,8 @@ Object.assign(ACT, {
   },
   intx(b, e, a, k) {
     S.interests = intSt().filter((y) => y.id !== b.dataset.id);
+    sfx("flip");
+    toast("Removed");
     commit();
   },
   lifeq(b, e, a, k) {
@@ -14366,6 +14383,8 @@ Object.assign(ACT, {
   lifex(b, e, a, k) {
     const m = lifeBy(b.dataset.id);
     if (m) m.links.splice(+b.dataset.i, 1);
+    sfx("flip");
+    toast("Link removed");
     commit();
     renderSheet();
   },
@@ -18698,7 +18717,10 @@ function onAct(e) {
   if (!b) return;
   const a = b.dataset.act,
     k = b.dataset.k;
+  // every tap answers: a handler that plays no sound of its own gets the soft tap
+  const heard = sfxCount;
   ACT[a]?.(b, e, a, k);
+  if (ACT[a] && sfxCount === heard) sfx("tap");
 }
 /* Buttons whose data-act is built at run time, so they have no one home file */
 Object.assign(ACT, {

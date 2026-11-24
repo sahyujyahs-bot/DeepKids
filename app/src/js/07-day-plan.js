@@ -1910,6 +1910,7 @@ Object.assign(ACT, {
     delete o[b.dataset.date + "|" + b.dataset.id];
     S.evoff = o;
     sfx("tap");
+    toast("Put back on the plan");
     commit();
   },
   evf(b, e, a, k) {

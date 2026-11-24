@@ -320,6 +320,8 @@ Object.assign(ACT, {
   },
   intx(b, e, a, k) {
     S.interests = intSt().filter((y) => y.id !== b.dataset.id);
+    sfx("flip");
+    toast("Removed");
     commit();
   },
   lifeq(b, e, a, k) {
@@ -328,6 +330,8 @@ Object.assign(ACT, {
   lifex(b, e, a, k) {
     const m = lifeBy(b.dataset.id);
     if (m) m.links.splice(+b.dataset.i, 1);
+    sfx("flip");
+    toast("Link removed");
     commit();
     renderSheet();
   },

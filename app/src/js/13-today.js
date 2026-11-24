@@ -197,11 +197,11 @@ function itemDetail(it, date, upNext) {
       .slice(0, 4)
       .map(
         (p) =>
-          `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b>${p.early ? ` <span class="pill learning">early start for ${fmt(p.x.date)}</span>` : ""}<p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`,
+          `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b>${esc(p.task)}</b><p class="xs muted">${p.early ? `Needed ${fmt(p.x.date)} · ` : ""}${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`,
       )
       .join(
         "",
-      )}</div><div class="row">${more > 0 ? `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">See all ${it.prep.length}</button>` : ""}${it.id === "pm" ? `<button class="btn" data-act="night">Get ready for tomorrow</button>` : `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">Parent guides</button>`}</div>`;
+      )}</div><div class="row">${it.id === "pm" ? `${more > 0 ? `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">See all ${it.prep.length}</button>` : ""}<button class="btn" data-act="night">Get ready for tomorrow</button>` : `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">${more > 0 ? `See all ${it.prep.length}` : "Parent guides"}</button>`}</div>`;
   }
   if (it.kind === "warm") {
     const j = dayJokes()[0];
@@ -343,7 +343,7 @@ function nightView() {
     d = daySettings(tm),
     al = S.alarm || { on: false, time: "06:30" };
   setSheetTitle("Tomorrow · " + fmt(tm));
-  return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="note">Nothing to get ready tonight.</p>`}</section>
+  return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b>${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="note">Nothing to get ready tonight.</p>`}</section>
    <section class="card"><h3 class="fs5">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? subjClass(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="note">Nothing planned yet.</p>`}</section>
    <section class="card"><h3 class="fs5">Your morning</h3><div class="fgrid"><div class="field"><label for="nWake">I'll wake up at</label><input class="inp" id="nWake" type="time" value="${al.time}" data-alarm="time"></div><div class="field"><label for="nStart">Start learning with ${esc(S.child || "my child")} at</label><input class="inp" id="nStart" type="time" value="${d.start}" data-over="${tm}"></div></div>
      <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="nAlarm" ${al.on ? "checked" : ""} data-alarm="on"><span><b class="h4">Wake-up alarm</b><br><span class="xs muted">Rings only while DeepKids is open on this phone. For a sure wake-up, also set your phone's alarm for ${clock(toMins(al.time))}.</span></span></label></section>
@@ -740,6 +740,7 @@ Object.assign(ACT, {
   less(b, e, a, k) {
     ui.more[b.dataset.s] = false;
     sfx("flip");
+    toast("Okay, the extra lesson is hidden for today. You can bring it back with More for today.", 4500);
     render();
   },
   skip(b, e, a, k) {
@@ -980,9 +981,10 @@ Object.assign(ACT, {
   },
   delev(b, e, a, k) {
     const ev = (S.events || []).find((x) => x.id === b.dataset.e);
-    if (ev?.rep === "weekly" && !confirm(`Stop "${ev.title}" for good? It will no longer show on any day.`)) return;
+    if (ev?.rep === "weekly" && !confirm(`Stop ${ev.title} for good? It will no longer show on any day.`)) return;
     S.events = (S.events || []).filter((x) => x.id !== b.dataset.e);
     sfx("flip");
+    toast(ev ? `Removed ${ev.title}` : "Removed");
     commit();
   },
   refresh(b, e, a, k) {
