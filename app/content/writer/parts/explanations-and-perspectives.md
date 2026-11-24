@@ -13,7 +13,7 @@ Read `app/content/WRITER_BRIEF.md` first. This card covers `explanations`, `agre
 ## Rules
 - **No idea held back for age.** The big idea of the lesson appears at Level 1 too: told with fewer words and more things to touch, not left out. Never "too advanced", "when you are older".
 - **Truthful.** Never teach something wrong to simplify. Not "five senses" or "six senses" (thousands of kinds of sensors: balance, body position, temperature, chemical sensing). Not "just a theory". When you must simplify, say "Here is what we know so far", and say what is missing.
-- **Perspectives for at least 2 big ideas.** Each perspective has a real `who` (a scientist, a tradition, a way of thinking) and a plain `explanation`. Give the strongest version of each, not a straw man. A `debated` card needs 2 or more.
+- **Perspectives only where they really exist.** Never invent a view to fill a count; an idea with one honest view needs none. Each perspective has a real `who` (a scientist, a tradition, a way of thinking) and a plain `explanation`. Give the strongest version of each, not a straw man. A `debated` card needs 2 or more.
 - **Do not present one theory as the truth.** Say what the evidence is, what it cannot show, and who disagrees.
 - **Open debates, including among scientists.** `challenging` has at least 2 views, with at least one still `debated` or `minority`. Give evidence `for` and `against`, fairly. A rejected claim is named with why it was given up.
 - **Questions that let the child form their own view.** `big_questions`: 4 or more, both kinds, each ends with "?" and has a `hint` that helps a child start thinking and never gives the answer. `open_questions`: 3 or more, each says why it is still open.
@@ -27,7 +27,7 @@ Read `app/content/WRITER_BRIEF.md` first. This card covers `explanations`, `agre
 - **Show it.** If an idea cannot be seen (atoms, tides), give an `art` brief for a zoom-in picture.
 
 ## Common mistakes
-- A `perspectives` list left empty on every card.
+- A `perspectives` list left empty on every card, when some of the ideas really are argued about. Or a made-up "view" added only to fill the list.
 - A perspective with `who: "Some people"` and a vague view.
 - `challenging` that only lists wrong ideas, never a live debate.
 - A `big_question` that a yes or no answers, or a hint that gives the answer.

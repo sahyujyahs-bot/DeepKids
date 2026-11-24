@@ -83,7 +83,7 @@ Never edit a unit's content unless you were asked to write or fix that unit. Lon
 ## 5. Sizes and counts (the validator checks these)
 
 - `summary` 3 to 5 sentences. `outcomes` 4 to 8. `big_questions` 4 or more, both kinds (`deep`, `big`), each with a `hint`. `open_questions` 3 or more, each with `why_open`.
-- `explanations`: every one has `status` (defined, idea, debated), `examples`, a `context` line. Give `perspectives` (2 or more, each with `who` and `explanation`) for at least 2 big ideas. A `debated` one needs 2 or more.
+- `explanations`: every one has `status` (defined, idea, debated), `examples`, a `context` line. Give `perspectives` (each with a real `who` and an `explanation`) wherever an idea really has more than one view: scientists who disagree, other traditions, how thinking changed over time. Never invent a view to fill a count. An idea with one honest view has none, and that is fine. A `debated` one needs 2 or more.
 - `challenging`: 2 or more views, each with `who`, `for`, `against`, `status`. At least one still debated or minority.
 - `story` 450 to 1400 words. `how_we_found_out` 80 to 200 words, with an idea people once held that was wrong, and how it was shown wrong.
 - `worksheets`: 15 or more items each (10 for Levels 1 and 2), mixed forms, 3 or more thinking questions, one pick-a-side (`perspective`). `quiz` 10 or more, each tagged to an outcome, every outcome covered.

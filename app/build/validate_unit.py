@@ -125,7 +125,7 @@ def writers_kit(u, path):
     # 5. many perspectives, open debates, open questions
     ex = u.get("explanations", [])
     with_p = [x for x in ex if len(x.get("perspectives", [])) >= 2]
-    if len(with_p) < 2: T.append(f"only {len(with_p)} explanations give 2+ perspectives ({{who, explanation}}); give the different ways of thinking for at least 2 big ideas (WRITER_BRIEF.md 'Perspectives')")
+    if not with_p and not any(x.get("status") == "debated" for x in ex): T.append("no explanation gives different views: fine if every idea here really has one honest view; add perspectives only where people or traditions genuinely differ (WRITER_BRIEF.md 'Perspectives')")
     for x in ex:
         for p in x.get("perspectives", []):
             if not (p.get("who") and p.get("explanation")): T.append(f"perspective in '{x.get('concept', '')[:40]}' needs who and explanation")
