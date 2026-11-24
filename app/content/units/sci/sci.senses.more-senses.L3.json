@@ -2897,14 +2897,19 @@
     "source": "Bhagavad Gita 2.14",
     "teaching": "Krishna tells Arjuna that the touch of the senses with things brings cold and heat, pleasure and pain. These come and go, and do not last. He asks Arjuna to bear them steadily.",
     "link": "The Gita calls cold and heat a meeting of the senses with things. The Ice Race showed the same. The steel plate felt cold because heat was moving between your hand and the steel. The cold was in that meeting, and it changed when the meeting changed.",
-    "verse": ["मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।", "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"],
+    "verse": [
+     "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।",
+     "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Satipatthana Sutta, Majjhima Nikaya 10",
     "teaching": "The Buddha teaches that when walking, one knows 'I am walking'. When standing, sitting or lying down, one knows that too. One stays aware of the body as it moves.",
     "link": "Knowing how your body is placed, without looking, is the sense of body position. The Buddha asked people to notice this sense, which works quietly all day.",
-    "verse": ["Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā gacchāmī pajānāti, ṭhito vā ṭhitomhī pajānāti, nisinno vā nisinnomhī pajānāti, sayāno vā sayānomhī pajānāti."],
+    "verse": [
+     "Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā gacchāmī pajānāti, ṭhito vā ṭhitomhī pajānāti, nisinno vā nisinnomhī pajānāti, sayāno vā sayānomhī pajānāti."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2944,6 +2949,7 @@
   "story": "For thousands of years, people believed that leprosy itself made fingers and toes rot and fall off. People with leprosy lost parts of their hands and feet, and many were pushed out of their towns. In the late 1940s, Paul Brand, a British surgeon at the Christian Medical College in Vellore, began to look closely. He noticed that his patients often hurt their hands while working, and did not seem to notice. He tested the hands of many patients. Their flesh was healthy, but the nerves had stopped carrying pain. So their hands were being hurt in daily life. A patient could hold a hot cooking pot, walk all day with a sharp stone in a shoe, or keep using a cut hand, and never notice it. The wounds got worse because nobody rested them. His wife, Margaret Brand, an eye doctor, found that the same thing harmed the eyes. Patients who could not feel their eyes did not blink enough to protect them. With soft shoes, careful habits and checking hands and feet every day, people with leprosy kept their fingers and toes. Leprosy can now be cured with medicines that are free in India.",
   "who": "Paul Brand, a surgeon, and Margaret Brand, an eye doctor, at the Christian Medical College, Vellore",
   "when": "The late 1940s to the 1960s",
-  "wrong_idea": "People thought the disease itself ate away fingers and toes. Paul Brand showed that leprosy damages the nerves, so people stop feeling pain, and the injuries come from everyday use that nobody feels."
+  "wrong_idea": "People thought the disease itself ate away fingers and toes. Paul Brand showed that leprosy damages the nerves, so people stop feeling pain, and the injuries come from everyday use that nobody feels.",
+  "context": "Why do people with leprosy lose their fingers and toes? This card tells the true story of two doctors at a hospital in Vellore who found out."
  }
 }

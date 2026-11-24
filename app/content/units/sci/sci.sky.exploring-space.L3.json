@@ -2817,7 +2817,13 @@
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The senses argued about which of them mattered most. Speech left the body for a year, then sight, then hearing, then the mind. Each time, the body lived on. Then breath began to leave, and all the others were pulled out with it, like pegs pulled up by a horse. So they agreed that breath was the greatest.",
     "link": "An astronaut can go without many comforts for a while. But without air for a few minutes, nothing else matters. That is why every spacecraft and spacesuit is built first of all to hold air.",
-    "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+    "verse": [
+     "सा ह वागुच्चक्राम",
+     "सा संवत्सरं प्रोष्य पर्येत्योवाच",
+     "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्",
+     "भगवन्नेधि",
+     "त्वं नः श्रेष्ठोऽसि"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2857,6 +2863,7 @@
   "story": "Between 1969 and 1972, astronauts brought back about 380 kilograms of rock and dust from the Moon. Scientists tested it for water and found almost none. They did find a few traces, but they thought these came from damp air from Earth getting into the boxes. So for nearly 40 years, most scientists believed the Moon was completely dry. On 22 October 2008, India launched its first Moon mission, Chandrayaan-1, from Sriharikota. It carried an instrument from NASA called the Moon Mineralogy Mapper, led by the American scientist Carle Pieters. It measured the sunlight bouncing off the Moon. Water soaks up some kinds of light that our eyes cannot see, and this leaves a gap in the reflected light. The Mapper found that gap over large parts of the Moon, strongest near the poles. In September 2009, Pieters and her team reported thin traces of water in the Moon's dust. Two other spacecraft had seen the same. In 2008, scientists also found tiny amounts of water inside glass beads in the old Apollo rocks. In 2018, a study of Chandrayaan-1's data found ice in dark craters at both poles. The dry Moon idea was wrong.",
   "who": "ISRO's Chandrayaan-1 team, and Carle Pieters, an American scientist who led NASA's Moon Mineralogy Mapper on board",
   "when": "1969 to 1972 (Moon rocks brought back), 2008 (Chandrayaan-1 launched), 2009 (water traces reported) and 2018 (polar ice found in its data)",
-  "wrong_idea": "Most scientists thought the Moon was completely dry, because the Apollo rocks seemed to have no water. Chandrayaan-1 measured the light reflected by the Moon and found the gap that water leaves, over much of the surface. Later its data showed ice in the dark polar craters."
+  "wrong_idea": "Most scientists thought the Moon was completely dry, because the Apollo rocks seemed to have no water. Chandrayaan-1 measured the light reflected by the Moon and found the gap that water leaves, over much of the surface. Later its data showed ice in the dark polar craters.",
+  "context": "Is there water on the Moon? This card tells the true story of a space team from India who searched for it."
  }
 }

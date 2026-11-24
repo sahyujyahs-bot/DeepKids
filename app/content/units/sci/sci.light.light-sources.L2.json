@@ -1956,14 +1956,21 @@
     "source": "Katha Upanishad 5.15 (also numbered 2.2.15)",
     "teaching": "There the Sun does not shine, nor the Moon and the stars. Everything shines only after that one light shines. By its light, all this is lit.",
     "link": "In the Paper Moon test, the paper shone only after the torch shone. In the sky, the Moon shines only after the Sun. The Upanishad speaks of one light behind all lights. The paper and the Moon are a small everyday example of this, because each one shines only by another light.",
-    "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
+    "verse": [
+     "न तत्र सूर्यो भाति न चन्द्रतारकं",
+     "नेमा विद्युतो भान्ति कुतोऽयमग्निः",
+     "तमेव भान्तमनुभाति सर्वं",
+     "तस्य भासा सर्वमिदं विभाति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 11",
     "teaching": "We shape clay into a pot, but it is the empty space inside that makes it useful.",
     "link": "Darkness is an absence of light, in the same way that the inside of a pot is an empty space. An empty space is useful, because you can fill it. Darkness is useful too. We need it to sleep, and to see the stars.",
-    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -1997,7 +2004,8 @@
   "story": "Long ago, some thinkers said the Moon works like a smooth, polished mirror, sending sunlight straight back to us. About a thousand years ago, in Cairo, the scientist Ibn al-Haytham, who was born in Basra in what is now Iraq, wrote a book called On the Light of the Moon. He pointed out a problem. A mirror lit by the Sun shows only one small, dazzling spot. But the Moon glows over its whole face. So he argued that every part of the Moon sends sunlight out in all directions, not like a mirror at all. Many people also thought the faint glow on the dark part of a thin crescent Moon was the Moon's own light. Around 1510, Leonardo da Vinci in Italy wrote that this glow is sunlight bounced off the Earth, and then off the Moon. In 1610, Galileo Galilei looked at the Moon through his telescope. He saw bright points in the dark part, just beyond the edge of the light. He worked out that they were mountain tops catching sunlight first, like hilltops on Earth at sunrise. So the Moon is rough rock, lit by the Sun.",
   "who": "Ibn al-Haytham, a scientist born in Basra who worked in Cairo; Leonardo da Vinci, an Italian artist and inventor; Galileo Galilei, an Italian scientist",
   "when": "About 1020 to 1610",
-  "wrong_idea": "People thought the Moon was a smooth mirror, and that it gave some faint light of its own. Ibn al-Haytham showed it is not a mirror, and Leonardo and Galileo showed that all its light comes from the Sun."
+  "wrong_idea": "People thought the Moon was a smooth mirror, and that it gave some faint light of its own. Ibn al-Haytham showed it is not a mirror, and Leonardo and Galileo showed that all its light comes from the Sun.",
+  "context": "Does the Moon make its own light, or does it shine some other way? This card tells the true story of thinkers who looked closely at the Moon over hundreds of years."
  },
  "plan": {
   "start_options": [
@@ -2067,5 +2075,117 @@
   ]
  },
  "playtest": "Walked through every step as a parent and child in a flat. Both card games now work with two players: Trace It Back has turns, a reader and an ending, and Sun and Moons has 6 cards that all do something, one Sun and any number of Moons. The Paper Moon test now uses a thick pen so the pictures can be seen, and says honestly that foil held flat may send the beam straight back. The Moon-watching schedule matches its steps (day 1 and day 3), the creative idea that moved the torch was removed, names are introduced, repeated questions and one inaccurate joke were cut, and family assumptions and a stock line were taken out.",
- "warm": {"words": ["LIGHT", "SHINE", "WHITE", "BLACK", "TORCH"], "quiz": [["The Moon shines because sunlight bounces off it.", true, "The Moon makes no light of its own. It sends back light from the Sun."], ["The Moon makes its own light, like a lamp.", false, "The Moon is grey rock. The light we see is sunlight bouncing off it."], ["White paper sends back more light than black paper.", true, "White things reflect most of the light that falls on them. Black things take most in."], ["Darkness is a thing that comes into a room and pushes the light out.", false, "Darkness is only the place where no light is arriving. Nothing comes in."], ["If you wait long enough in a room with no light, you will start to see.", false, "Eyes can get used to a little light, but with no light nothing reaches them."], ["In a dim room, your eyes can get used to the little light.", true, "Dim means a little light is there, so your eyes can slowly see more."], ["We see a chair because light bounces off the chair into our eyes.", true, "Most things make no light. We see them by the light that bounces off them."], ["The Moon looks bright because it sends back most of the sunlight that falls on it.", false, "It sends back only about one tenth. It looks bright because the sky around it is dark."], ["A piece of white paper glows by itself in a dark room.", false, "Paper makes no light. It shines only while a torch lights it."], ["In a fair test, you change only one thing and keep the rest the same.", true, "Then you know that the one thing you changed made the difference."]], "odd": [[["Sun", "Candle flame", "Torch", "Moon"], "Moon", "The Sun, a candle flame and a torch make their own light. The Moon only sends back sunlight."], [["White paper", "Silver foil", "White wall", "Black cloth"], "Black cloth", "White and shiny things send back most light. Black cloth takes in most light and sends back little."], [["Room with one candle", "Dusk outside", "Dim corridor", "Shut cupboard"], "Shut cupboard", "In the first three a little light arrives, so eyes can adjust. A shut cupboard has none."], [["Same torch", "Same distance", "Same dark room", "Colour of paper"], "Colour of paper", "A fair test keeps the torch, distance and room the same and changes only the paper colour."], [["The Sun", "A welder's spark", "A laser pointer", "The Moon"], "The Moon", "Looking straight at the Sun, a welding spark or a laser can hurt your eyes. Moonlight is gentle."]]}
+ "warm": {
+  "words": [
+   "LIGHT",
+   "SHINE",
+   "WHITE",
+   "BLACK",
+   "TORCH"
+  ],
+  "quiz": [
+   [
+    "The Moon shines because sunlight bounces off it.",
+    true,
+    "The Moon makes no light of its own. It sends back light from the Sun."
+   ],
+   [
+    "The Moon makes its own light, like a lamp.",
+    false,
+    "The Moon is grey rock. The light we see is sunlight bouncing off it."
+   ],
+   [
+    "White paper sends back more light than black paper.",
+    true,
+    "White things reflect most of the light that falls on them. Black things take most in."
+   ],
+   [
+    "Darkness is a thing that comes into a room and pushes the light out.",
+    false,
+    "Darkness is only the place where no light is arriving. Nothing comes in."
+   ],
+   [
+    "If you wait long enough in a room with no light, you will start to see.",
+    false,
+    "Eyes can get used to a little light, but with no light nothing reaches them."
+   ],
+   [
+    "In a dim room, your eyes can get used to the little light.",
+    true,
+    "Dim means a little light is there, so your eyes can slowly see more."
+   ],
+   [
+    "We see a chair because light bounces off the chair into our eyes.",
+    true,
+    "Most things make no light. We see them by the light that bounces off them."
+   ],
+   [
+    "The Moon looks bright because it sends back most of the sunlight that falls on it.",
+    false,
+    "It sends back only about one tenth. It looks bright because the sky around it is dark."
+   ],
+   [
+    "A piece of white paper glows by itself in a dark room.",
+    false,
+    "Paper makes no light. It shines only while a torch lights it."
+   ],
+   [
+    "In a fair test, you change only one thing and keep the rest the same.",
+    true,
+    "Then you know that the one thing you changed made the difference."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Sun",
+     "Candle flame",
+     "Torch",
+     "Moon"
+    ],
+    "Moon",
+    "The Sun, a candle flame and a torch make their own light. The Moon only sends back sunlight."
+   ],
+   [
+    [
+     "White paper",
+     "Silver foil",
+     "White wall",
+     "Black cloth"
+    ],
+    "Black cloth",
+    "White and shiny things send back most light. Black cloth takes in most light and sends back little."
+   ],
+   [
+    [
+     "Room with one candle",
+     "Dusk outside",
+     "Dim corridor",
+     "Shut cupboard"
+    ],
+    "Shut cupboard",
+    "In the first three a little light arrives, so eyes can adjust. A shut cupboard has none."
+   ],
+   [
+    [
+     "Same torch",
+     "Same distance",
+     "Same dark room",
+     "Colour of paper"
+    ],
+    "Colour of paper",
+    "A fair test keeps the torch, distance and room the same and changes only the paper colour."
+   ],
+   [
+    [
+     "The Sun",
+     "A welder's spark",
+     "A laser pointer",
+     "The Moon"
+    ],
+    "The Moon",
+    "Looking straight at the Sun, a welding spark or a laser can hurt your eyes. Moonlight is gentle."
+   ]
+  ]
+ }
 }

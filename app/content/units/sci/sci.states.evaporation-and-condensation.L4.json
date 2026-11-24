@@ -429,7 +429,8 @@
   "story": "A wet cloth feels cold, and a clay pot of water stays cool. People knew this for ages. But why? Many thought that cold was something that flowed in from cold air or from a cold thing nearby. Around 1748 (some accounts say 1756), William Cullen, a Scottish doctor who taught at the University of Glasgow, tried a test. He put a dish of ether, a liquid that evaporates very fast, in a jar, and a pump took the air out. With the air gone, the ether boiled away quickly, and the dish and the water around it got so cold that a little of the water froze. No cold air and no cold thing had been brought near. The cold came from the liquid leaving. In the 1800s, inventors used this idea to build the first machines that make ice. Every fridge today works by letting a liquid evaporate.",
   "who": "William Cullen, a Scottish doctor and teacher at the University of Glasgow",
   "when": "About 1748 (some accounts say 1756)",
-  "wrong_idea": "People thought that cold was something that flowed in from cold air or cold things. Cullen showed that a liquid can make its own cold, just by evaporating, even when almost all the air has been pumped out."
+  "wrong_idea": "People thought that cold was something that flowed in from cold air or cold things. Cullen showed that a liquid can make its own cold, just by evaporating, even when almost all the air has been pumped out.",
+  "context": "Why does a wet cloth feel cold? This card tells the true story of a Scottish doctor who tested where the cold comes from."
  },
  "story": {
   "title": "The Salt That Knew",
@@ -500,14 +501,20 @@
     "source": "Bhagavad Gita 9.19",
     "teaching": "Krishna says to Arjuna: 'I give heat. I hold back the rain and I send it forth.' The verse speaks of heat and rain together, as two parts of one act of giving and holding back.",
     "link": "In the monsoon, the Sun's heat lifts water from the sea. Later, that same water falls as rain. So the heat and the rain are connected, because both are part of one journey of the water.",
-    "verse": ["तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च।", "अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन।।"],
+    "verse": [
+     "तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च।",
+     "अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 20, in the chapter on the excellence of rain",
     "teaching": "Thiruvalluvar says that as the world cannot go on without water, so no one's way of life can go on without rain.",
     "link": "Water that evaporated from the sea and condensed in clouds is what fills every river, tank and well. The cycle of leaving and returning is what keeps everything going.",
-    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse": [
+     "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+     "வான்இன்று அமையாது ஒழுக்கு."
+    ],
     "verse_lang": "ta"
    }
   ],

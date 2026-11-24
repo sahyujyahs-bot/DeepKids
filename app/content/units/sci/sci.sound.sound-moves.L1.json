@@ -1846,7 +1846,8 @@
   "story": "For a very long time, people knew that thunder comes after lightning. But many thought a sound reaches us the moment it is made. Writers in the school of the Greek thinker Aristotle also taught that high, sharp sounds travel faster than deep ones. In the 1630s, two French scientists, Marin Mersenne and Pierre Gassendi, tested these ideas. They stood far away from someone firing a gun. They saw the flash and smoke at once. The bang came later. They timed the wait. The further away they stood, the longer the wait. So a sound takes time to travel. Gassendi also compared a big gun, with a deep boom, and a small gun, with a sharp crack. From far away, both bangs arrived after the same wait. So high and deep sounds travel at the same speed. That old teaching was wrong. You can test the same idea in any monsoon storm: count from the flash to the thunder.",
   "who": "Marin Mersenne (1588 to 1648) and Pierre Gassendi (1592 to 1655), French scientists",
   "when": "The 1630s",
-  "wrong_idea": "Writers in Aristotle's school taught that high sounds travel faster than deep sounds. Gassendi timed a deep boom and a sharp crack from far away, and both arrived after the same wait."
+  "wrong_idea": "Writers in Aristotle's school taught that high sounds travel faster than deep sounds. Gassendi timed a deep boom and a sharp crack from far away, and both arrived after the same wait.",
+  "context": "Do high sounds travel faster than low sounds? This card tells the true story of French scientists who timed sounds from far away."
  },
  "plan": {
   "start_options": [

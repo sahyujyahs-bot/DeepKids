@@ -2647,21 +2647,32 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at one hub, but it is the empty centre that makes the wheel useful. Shape clay into a pot, and it is the empty space inside that makes the pot useful.",
     "link": "The empty tens place in 205 is like the hole in the hub. It holds nothing, but without it the number does not work.",
-    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。",
+     "埏埴以為器，當其無，有器之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "Taking something away from the whole still leaves the whole. This is a little like taking zero away from a number, which leaves it the same. The verse is about the whole of everything, not about numbers, so this is only a comparison.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta (the hymn of creation)",
     "teaching": "Then there was neither being nor non-being. Who really knows how it all began?",
     "link": "The hymn asks what was there before anything. Scientists also ask whether any place can be truly empty, and nobody knows yet.",
-    "verse": ["नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्।", "किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम्", "को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।", "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव"],
+    "verse": [
+     "नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्।",
+     "किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम्",
+     "को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।",
+     "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2701,6 +2712,7 @@
   "story": "For a long time, people used zero only as a mark for an empty place. Nobody added or multiplied with it. In the year 628, an Indian astronomer called Brahmagupta, who lived in Bhillamala in what is now Rajasthan, wrote a book called the Brahmasphutasiddhanta. In it he gave zero rules of its own. A number plus zero stays the same. A number minus zero stays the same. A number times zero is zero. These rules are still used today. But Brahmagupta also wrote that zero divided by zero is zero. In 1150, the Indian mathematician Bhaskara wrote that a number divided by zero is endless. His famous arithmetic book is called Lilavati. A well-known story says he named it after his daughter, but historians say there is no sure proof. Later mathematicians showed that both ideas fail a simple check. Division undoes multiplication: 6 ÷ 2 = 3 because 3 × 2 = 6. So 6 ÷ 0 needs a number that gives 6 when multiplied by 0. No number does, because anything times 0 is 0. And for 0 ÷ 0, every number works, so there is no one answer. Today mathematicians say dividing by zero has no answer.",
   "who": "Brahmagupta, an Indian astronomer and mathematician, and Bhaskara, who came about 500 years later",
   "when": "628 (Brahmagupta's book) and 1150 (Bhaskara's book)",
-  "wrong_idea": "Brahmagupta thought 0 ÷ 0 = 0, and Bhaskara thought a number divided by zero is endless. Checking division against multiplication shows that no number can be the answer, so dividing by zero is undefined."
+  "wrong_idea": "Brahmagupta thought 0 ÷ 0 = 0, and Bhaskara thought a number divided by zero is endless. Checking division against multiplication shows that no number can be the answer, so dividing by zero is undefined.",
+  "context": "What happens when we divide a number by zero? This card tells the true story of two mathematicians in India who tried to answer it, hundreds of years apart."
  }
 }

@@ -2773,7 +2773,9 @@
     "source": "Plato, Timaeus (the passage on the five regular solids)",
     "teaching": "Plato taught that fire, air, water and earth are made of tiny perfectly regular shapes, such as cubes and pyramids.",
     "link": "Plato's shapes were wrong. But he was right that the smallest parts of matter sit in regular patterns: in ice, water molecules really do join in rings of six.",
-    "verse": ["γῇ μὲν δὴ τὸ κυβικὸν εἶδος δῶμεν· ἀκινητοτάτη γὰρ τῶν τεττάρων γενῶν γῆ καὶ τῶν σωμάτων πλαστικωτάτη"],
+    "verse": [
+     "γῇ μὲν δὴ τὸ κυβικὸν εἶδος δῶμεν· ἀκινητοτάτη γὰρ τῶν τεττάρων γενῶν γῆ καὶ τῶν σωμάτων πλαστικωτάτη"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -2809,6 +2811,7 @@
   "story": "In 1555, a Swedish writer, Olaus Magnus, printed the first known pictures of snowflakes in Europe. Most of his snowflakes were odd shapes, such as a bell, a hand and an arrow. People did not yet look closely enough to see that snowflakes have six arms. In 1611, the astronomer Johannes Kepler noticed that every snowflake he saw had six corners. He wrote a little book about it as a New Year's gift for a friend, and asked why. He guessed that it had to do with how tiny pieces of matter pack together, but he could not prove it. In 1665, Robert Hooke looked at snowflakes through a microscope and drew their six arms in detail. In 1885, Wilson Bentley, a farmer in America, took the first photographs of single snowflakes. In the 1930s, Ukichiro Nakaya in Japan grew snowflakes in a cold room and showed how the air shapes their arms. Later, scientists shone X-rays through ice and found that water molecules join in rings of six. Kepler's guess about packing had been close.",
   "who": "Olaus Magnus, Johannes Kepler, Robert Hooke, Wilson Bentley and Ukichiro Nakaya",
   "when": "1555 to the 1930s",
-  "wrong_idea": "The first printed pictures showed snowflakes in many shapes, such as a bell, a hand and an arrow. Careful looking, first with the eye, then with a microscope and a camera, showed that snowflakes always grow six arms."
+  "wrong_idea": "The first printed pictures showed snowflakes in many shapes, such as a bell, a hand and an arrow. Careful looking, first with the eye, then with a microscope and a camera, showed that snowflakes always grow six arms.",
+  "context": "What shape is a snowflake? This card tells the true story of people who looked at snowflakes for hundreds of years, first with the eye, and then with a camera."
  }
 }

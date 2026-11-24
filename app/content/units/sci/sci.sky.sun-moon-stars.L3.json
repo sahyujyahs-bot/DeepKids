@@ -3396,14 +3396,22 @@
     "source": "Katha Upanishad 2.2.15 (in some editions numbered 5.15)",
     "teaching": "There, the Sun does not shine, nor the Moon and the stars. When that shines, everything shines after it. By its light, all this is lit.",
     "link": "The Moon shines only with the Sun's light. The Upanishad goes one step further. It says that even the Sun is known only by the light of awareness, the light by which we know anything at all. This is a teaching, not a science finding.",
-    "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
+    "verse": [
+     "न तत्र सूर्यो भाति न चन्द्रतारकं",
+     "नेमा विद्युतो भान्ति कुतोऽयमग्निः",
+     "तमेव भान्तमनुभाति सर्वं",
+     "तस्य भासा सर्वमिदं विभाति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad 16",
     "teaching": "A seeker speaks to the Sun: gather your dazzling rays, so I can see your most beautiful form. The person who is there, in the Sun, that am I.",
     "link": "Science finds that the atoms of your body were made in stars. The Upanishad goes further and says that the one in the Sun and the one in you are the same. That is a belief, not a measurement.",
-    "verse": ["पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः", "यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि"],
+    "verse": [
+     "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः",
+     "यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3444,7 +3452,8 @@
   "story": "For about two thousand years, most people believed the stars were small lights fixed to a great ball round the Earth, not far beyond the planets. Some Greek thinkers reasoned like this. If the Earth really went round the Sun, a nearby star should seem to shift a little over a year, as the Earth moved from one side of its path to the other. Nobody could see any shift, so most people decided the Earth must stand still. The real reason was that the stars are far too distant for the shift to be seen by eye. In 1838 Friedrich Bessel, a German astronomer, used a very fine telescope to watch a faint star called 61 Cygni for over a year. It shifted by a tiny amount, about as much as a coin seen from 15 kilometres away. From that shift he worked out that its light takes about 10 years to reach us. A star that far away can only be seen at all if it shines like a sun. So the stars are suns.",
   "who": "Friedrich Bessel, a German astronomer",
   "when": "1838",
-  "wrong_idea": "The stars are small lights fixed just beyond the planets, and since no star seemed to shift, the Earth must stand still. Bessel measured a star's tiny yearly shift and showed it is so far away that it must be a sun."
+  "wrong_idea": "The stars are small lights fixed just beyond the planets, and since no star seemed to shift, the Earth must stand still. Bessel measured a star's tiny yearly shift and showed it is so far away that it must be a sun.",
+  "context": "How far away are the stars, and is the Sun a star too? This card tells the true story of an astronomer who measured the tiny shift of a star."
  },
  "playtest": "Walked the unit as a parent and child in a city flat. Both games were printed out item by item and played in my head with 2 and with 4 players: Light Source or Reflector has 24 listed cards, two mats and 20 tokens, and the two TEST IT cards that needed the night sky or a ball were replaced by tests that finish at once in a dark room (white wall, hand in front of a phone screen), so the game ends with a winner on the same day. In Spot the Wanderer the mover now scores a point if nobody spots the moved wanderer, so a two-player game is fair, and the sky is drawn by hand as the step says. Experiments: the torch test no longer carries a pointless eye warning; the pinhole Sun experiment needs direct sunshine, so it now says so and was moved out of the core list; the card size is given. Activities: the Planet Dance works with two people (the planet swings a toy as the Moon), the mustard-seed model says what to do without 24 metres, the sky diary says what to do on cloudy nights and no longer promises a planet, and the yellow dupatta became any yellow cloth. Shoebox Night Sky now says how to draw Orion and the Saptarishi without a map and that the dots are faint, and it calls the planet a torch dot, not a bead. Challenges: the Sun viewer notes the 2 metre picture is faint; the dark-sky lamp uses Odisha's Olive Ridley turtles. Removed the two storybooks from the buy list (no step needs them), the internal oEmbed notes from the video checks, and four repeated worksheet questions (torch bar chart, football Sun, 8 minutes, planet word) because the maths section or other cards already ask them. Three new questions (dark-room visibility, the Moon's spin, hooded street lamps) keep each sheet at 15 items. The lighthouse question now introduces Sai and says the story is made up. Safety fields are only for real hazards (candle, Sun, pins, roof edges). Jokes: nine kept. Not changed: facts were left as they were, and I did not check the planetarium web addresses or the YouTube ids."
 }

@@ -2043,7 +2043,8 @@
   "story": "For a long time, people thought rocks were simply opaque. Light could not get through them, so the only way to study a rock was to look at its outside. In the 1830s, William Nicol in Scotland found a way to grind fossil wood so thin that light shone through it. Around 1850, Henry Clifton Sorby, a scientist in Sheffield, England, did the same with rocks. He glued a chip of rock to glass and ground it down until it was thinner than paper. Held up to the light, most of the rock was not opaque at all. It glowed, and under a microscope he could see the tiny grains inside it. His method spread. In the 1890s, Florence Bascom, one of the first women geologists in the USA, became an expert at reading rock slices like these. Geologists all over the world, in India too, still study thin rock slices today.",
   "who": "William Nicol, a Scottish scientist; Henry Clifton Sorby, an English scientist; Florence Bascom, an American geologist",
   "when": "About 1830 to the 1890s",
-  "wrong_idea": "People thought a rock could only be studied from the outside, because rock is opaque. Sorby ground rocks thinner than paper and showed that most of them let light through."
+  "wrong_idea": "People thought a rock could only be studied from the outside, because rock is opaque. Sorby ground rocks thinner than paper and showed that most of them let light through.",
+  "context": "Can we look inside a rock, when light does not pass through it? This card tells the true story of scientists who ground rocks very thin."
  },
  "plan": {
   "start_options": [

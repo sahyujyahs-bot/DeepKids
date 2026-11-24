@@ -3930,7 +3930,12 @@
     "source": "Mundaka Upanishad 1.1.7",
     "teaching": "A spider spins a thread out of her own body. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source.",
     "link": "In this lesson, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.",
-    "verse": ["यथोर्णनाभिः सृजते गृह्णते च", "यथा पृथिव्यामोषधयः संभवन्ति", "यथा सतः पुरुषात् केशलोमानि", "तथाऽक्षरात् संभवतीह विश्वम्"],
+    "verse": [
+     "यथोर्णनाभिः सृजते गृह्णते च",
+     "यथा पृथिव्यामोषधयः संभवन्ति",
+     "यथा सतः पुरुषात् केशलोमानि",
+     "तथाऽक्षरात् संभवतीह विश्वम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3970,7 +3975,8 @@
   "story": "For a long time, many people believed that water could slowly turn into earth. When water was boiled for many days in a glass pot, a little white powder appeared at the bottom. Where else could it come from? In 1768, a young French chemist, Antoine Lavoisier, decided to test the idea by weighing. He used a closed glass vessel called a pelican. He weighed it empty, then filled it with very pure water and sealed it. Then he kept the water hot, just below boiling, for 101 days. The powder did appear. But when he weighed everything again, the total weight had not changed. The empty vessel was now lighter, by about the weight of the powder. So the powder had not been made from water. It was glass, slowly worn away from the inside of the vessel. He reported this in 1770. Nothing new had been made. The material had only moved from one place to another.",
   "who": "Antoine Lavoisier",
   "when": "1768 to 1770",
-  "wrong_idea": "Water can be turned into earth by boiling it for a long time. Lavoisier's weighing showed that the powder came from the glass vessel, not from the water."
+  "wrong_idea": "Water can be turned into earth by boiling it for a long time. Lavoisier's weighing showed that the powder came from the glass vessel, not from the water.",
+  "context": "Can water turn into earth if we boil it for a long time? This card tells the true story of a scientist who weighed everything to find out."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family would, with 2 and with 4 players, in a city flat. Counted the printables: Back to the Earth has 36 journey cards (12 sets of 3) and 6 HOW cards, and the Tricky Court has 20 cases; both match their titles, and no card hides an answer, so none needed a back. Fixed the card game so nobody is stuck when the pile runs out, removed the claim that the app can play, and made the setup pictures match the text-only cards. Colours from the Kitchen: the washed halves must dry before they are compared, so a drying wait was added; the dye pans, cooling time and wetting the cloth were made explicit. Milk plastic: the 2-day drying step was listed twice, now once. Soil to Diya: pulling clay out of soil is slow and may fail, so the parent note says so and gives the potter's clay fallback. Replaced three repeats of the same natural-or-made check (dyed cloth, cotton thread) with new questions about fair testing and twisting, and removed a duplicate glass quiz question and a duplicate sorting question (it repeated the Tricky Court). Cut the jokes to 8, removed references to other units that a family cannot open, renamed the salt experiment and the interview activity so no made-up name or family member is assumed, added a note about wax safety, and added South Indian examples (banana leaf, sadya, coffee, Nilgiris tea, coconut-leaf pins). Kept all ids, the deep truth and the plan. Not checked: the three YouTube videos could not be opened from here and should be previewed by a person before release; plan and buy lists were left as they were."
 }

@@ -3896,14 +3896,19 @@
     "source": "Purananuru 192, a Tamil poem by Kaniyan Pungundranar from the Sangam age",
     "teaching": "Every town is our town. Everyone is our kin.",
     "link": "Fruit in one bag act like kin. What one fruit does for itself spreads to all the rest.",
-    "verse": ["யாதும் ஊரே; யாவரும் கேளிர்"],
+    "verse": [
+     "யாதும் ஊரே; யாவரும் கேளிர்"
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flower, and each returns to its root. Returning to the root is stillness.",
     "link": "A plant flowers, makes seeds, yellows and falls. What was in the leaves goes into the seeds and back to the soil. The ending carries on into the next beginning.",
-    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse": [
+     "夫物芸芸，各復歸其根。",
+     "歸根曰靜，是謂復命。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3938,6 +3943,7 @@
   "story": "For years, citrus growers in the United States noticed that lemons turned yellow sooner in sheds heated with kerosene stoves. Everyone thought that the warmth of the stove did the work. In the 1920s, an American plant scientist, F. E. Denny, tested this. Other scientists had already found that a gas in the shed air, not the warmth, seemed to do the work. Denny reported that the active gas in the stove fumes was ethylene, and that even a tiny amount turned green lemons yellow. So the warmth was not the cause. A gas in the smoke was. In 1934, an English plant scientist, Richard Gane, showed that ripening fruit make ethylene themselves. A fruit does not need a stove at all. A ripe fruit makes the gas, and the gas ripens the fruit nearby.",
   "who": "F. E. Denny, an American plant scientist, and Richard Gane, an English plant scientist",
   "when": "The 1920s and 1934",
-  "wrong_idea": "Growers believed that the heat of the stoves coloured the lemons. Tests that kept the temperature the same and changed only the gas showed that the gas alone made the difference."
+  "wrong_idea": "Growers believed that the heat of the stoves coloured the lemons. Tests that kept the temperature the same and changed only the gas showed that the gas alone made the difference.",
+  "context": "What makes fruit change colour as it ripens? This card tells the true story of growers who noticed that lemons ripened faster in some sheds."
  }
 }

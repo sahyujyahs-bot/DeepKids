@@ -3544,14 +3544,21 @@
     "source": "Heraclitus, fragment 30 (Diels-Kranz numbering)",
     "teaching": "The Greek thinker Heraclitus, about 2,500 years ago, said the world is an ever-living fire, always being lit and going out in measures, yet keeping its pattern.",
     "link": "A flame keeps its shape while new wax and air pass through it. Your body keeps its shape while food and air pass through it, and its warmth comes from the same kind of change as a flame's.",
-    "verse": ["κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,", "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον", "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"],
+    "verse": [
+     "κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,",
+     "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον",
+     "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn of creation asks how everything began, and ends with an honest question: perhaps even the one who watches from the highest heaven does not know.",
     "link": "Scientists still do not know how the first life came from non-living chemicals. Saying 'we do not know' is part of being honest.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3587,7 +3594,8 @@
   "story": "For a long time, people thought that when something burns, it gives off a hidden substance called phlogiston. A candle in a closed jar went out, they said, because the air had filled up with phlogiston. In the 1770s, the French chemist Antoine Lavoisier weighed things carefully before and after burning. Metals got heavier when they burned, not lighter. So burning was not losing something. It was joining with a part of the air, which Lavoisier named oxygen. Marie-Anne Paulze Lavoisier worked beside him. She translated English papers for him, kept records and drew the equipment. Then Lavoisier asked whether breathing was the same. In 1782 and 1783, with Pierre-Simon Laplace, he put a guinea pig in a box packed with ice, and measured how much ice their body heat melted. He compared this with burning charcoal that made the same amount of carbon dioxide. The two amounts of heat were close. So breathing is a slow burning. Lavoisier thought this burning happened in the lungs. About a hundred years later, scientists showed that it happens inside every cell.",
   "who": "Antoine Lavoisier and Marie-Anne Paulze Lavoisier, with Pierre-Simon Laplace",
   "when": "The 1770s to 1783",
-  "wrong_idea": "That burning gives off a hidden substance called phlogiston. Weighing showed that burning metals get heavier, because they join with oxygen from the air. Lavoisier's own wrong idea, that breathing burns food in the lungs, was corrected later: it happens in every cell."
+  "wrong_idea": "That burning gives off a hidden substance called phlogiston. Weighing showed that burning metals get heavier, because they join with oxygen from the air. Lavoisier's own wrong idea, that breathing burns food in the lungs, was corrected later: it happens in every cell.",
+  "context": "What happens when something burns, and what does breathing have to do with it? This card tells the true story of a scientist in Paris who weighed everything to find out."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge in order as a family would, with 2 players and with 4. Games: g1 has 20 mystery cards, 3 mats, 9 sign cards and 30 tokens, all listed; I added a stop-early rule, the candle flame to the answer notes, and a tie rule plus a 'can't do it' pile for g2, and dropped the 'one child with the app' option because it is a paper game. Experiments: e1 now asks the dry-seed check on day 6 after the family has seen plate 3 swell, and e3 now has the guess its schedule promised; I trimmed the Safety lines to real hazards (small parts, balloons, glass, hot soil and pan for c1) and added a hot-pan line to c1, and removed the b-ruler buy item because every home has a ruler. The core worksheet no longer depends on the optional candle trial (fire is outside the core path), and the deep truth now says 'if you did the candle trial'. I deleted five repeated worksheet questions (oxygen fill-in, dry-seed true/false, water bear true/false, heated-soil prediction, lotus seed) and added three new ones (cells fill-in, picked mango, one sign of life) to keep each sheet at 15 and reworded the Maria question so the question does not use her imagined tests as fact. Jokes cut to 9. A few foods and festivals were swapped for South Indian ones (filter coffee, Karthigai Deepam, kallu uppu, appalam). The balloon example numbers (30, 14, 10 cm) are made up and may be a little high for a real 30-minute test; the parent notes say what to do if the balloon stays small. Not checked: whether the water bear hunt (a3) finds anything in a given city, which is why it stays optional."
 }

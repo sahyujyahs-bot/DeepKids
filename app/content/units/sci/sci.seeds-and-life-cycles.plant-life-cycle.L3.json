@@ -4172,7 +4172,10 @@
     "source": "Katha Upanishad 1.1.6",
     "teaching": "The boy Nachiketa says to his father: look at those who came before us, and those who are here now. Like grain, a person ripens and falls. Like grain, a person is born again.",
     "link": "Long ago, teachers in India looked at grain in the field and saw a circle: ripening, falling and sprouting again. You can watch the same circle in a pot of moong.",
-    "verse": ["अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे", "सस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः"],
+    "verse": [
+     "अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे",
+     "सस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -4184,7 +4187,11 @@
     "source": "Ecclesiastes 3:1-2, in the Hebrew Bible",
     "teaching": "For everything there is a season. There is a time to be born and a time to die, a time to plant and a time to pull up what is planted.",
     "link": "Plants keep to their seasons. Many flower only when the nights are the right length, and annuals die once their seeds are ready.",
-    "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם", "עֵת לָלֶדֶת וְעֵת לָמוּת", "עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ"],
+    "verse": [
+     "לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם",
+     "עֵת לָלֶדֶת וְעֵת לָמוּת",
+     "עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ"
+    ],
     "verse_lang": "he"
    }
   ],
@@ -4219,6 +4226,7 @@
   "story": "For a long time, most scholars in Europe did not believe that a flower needs pollen to make seeds. Farmers in ancient Iraq already knew that a date palm gives good dates only if pollen from a male tree reaches their flowers. But scholars did not think this was true of all plants. In Tübingen, in Germany, a doctor and botanist named Rudolf Jakob Camerarius tested it. He grew plants such as mulberry, maize and a small weed called annual mercury. He kept pollen away from the flowers that make seeds. A female mulberry tree with no male tree nearby made fruit, but their seeds were empty. Plants that got no pollen made no good seeds. Plants that got pollen did. In 1694 he wrote that pollen must reach a flower before it can make seeds. Other botanists argued against him for more than 30 years. Later tests, like a palm pollinated by hand in Berlin in 1749, showed he was right.",
   "who": "Rudolf Jakob Camerarius",
   "when": "1694 (his letter on the sex of plants, published in Tübingen)",
-  "wrong_idea": "That plants make seeds without pollen, and have nothing like male and female parts. Camerarius kept pollen away from mulberry, maize and annual mercury, and they made no good seeds."
+  "wrong_idea": "That plants make seeds without pollen, and have nothing like male and female parts. Camerarius kept pollen away from mulberry, maize and annual mercury, and they made no good seeds.",
+  "context": "Do plants need pollen to make seeds? This card tells the true story of a scientist who kept pollen away from plants to find out."
  }
 }

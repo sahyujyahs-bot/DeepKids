@@ -2715,7 +2715,9 @@
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer and weaker than water. Yet nothing is better at wearing down what is hard and strong.",
     "link": "Water gives way to your finger. Yet water passing on the energy of an undersea earthquake broke sea walls in 2004. Water carries energy by giving way, each part passing it to the next.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2751,6 +2753,7 @@
   "story": "In the 1920s, earth scientists studied the waves that big earthquakes send right through the Earth. One kind of earthquake wave cannot pass through liquid, and it never came through the Earth's core. So many scientists thought the whole core was liquid metal. Inge Lehmann, a scientist in Denmark, looked closely at the records of a big earthquake in New Zealand in 1929. Machines far away, on the other side of the Earth, had picked up faint waves in places where a fully liquid core should leave none. She had no computer. She wrote the arrival times on cards and sorted them in boxes, by hand. In 1936 she published a short paper with a title of just two characters, P′. She showed that the faint waves made sense if the liquid core had a solid ball inside it. Waves travel faster in that solid ball, so their paths bend, and some reach places they could not reach otherwise. Other scientists soon agreed with her. In 1970, more sensitive machines picked up waves bouncing off the solid inner core. Inge Lehmann lived to be 104.",
   "who": "Inge Lehmann (1888 to 1993), a Danish seismologist, a scientist who studies earthquakes",
   "when": "1929 (the New Zealand earthquake), 1936 (her paper on the inner core) and 1970 (the confirmation)",
-  "wrong_idea": "Many scientists thought the Earth's core was liquid all the way through. Lehmann showed that faint waves arriving where a fully liquid core would leave none were explained by a solid inner core, and later measurements confirmed it."
+  "wrong_idea": "Many scientists thought the Earth's core was liquid all the way through. Lehmann showed that faint waves arriving where a fully liquid core would leave none were explained by a solid inner core, and later measurements confirmed it.",
+  "context": "What is inside the Earth, and how can waves tell us? This card tells the true story of a scientist who studied faint waves from earthquakes."
  }
 }

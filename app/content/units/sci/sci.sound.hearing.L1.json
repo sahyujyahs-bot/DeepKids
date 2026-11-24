@@ -1859,7 +1859,10 @@
     "source": "Tirukkural 411, in the chapter on listening (Kelvi)",
     "teaching": "Thiruvalluvar wrote that the wealth you gain through your ears is the greatest wealth of all.",
     "link": "Your ears bring you news from near and far, from behind you and from the next street, even in the dark. In the Near or Far test, your ears told you a great deal with your eyes covered.",
-    "verse": ["செல்வத்துட் செல்வஞ் செவிச்செல்வம் அச்செல்வம்", "செல்வத்து ளெல்லாந் தலை."],
+    "verse": [
+     "செல்வத்துட் செல்வஞ் செவிச்செல்வம் அச்செல்வம்",
+     "செல்வத்து ளெல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    },
    {
@@ -1898,7 +1901,8 @@
   "story": "In 1984, an American scientist named Katy Payne was watching Asian elephants at a zoo in Portland, in the United States. She stood beside their cage for hours. Now and then she felt a throbbing in the air, though she heard almost nothing. It reminded her of standing next to the biggest pipes of a church organ, which make notes so low you feel them. Katy Payne wondered if the elephants were calling to each other with sounds too low for people to hear. Nobody had yet shown that elephant families far apart used sound to keep in touch. She came back with machines that could record very low sounds. When the recordings were played faster, the low rumbles became easy to hear. She and her team showed that elephants call with deep rumbles, and that other elephants can hear them from far away. Later, in Namibia, elephants responded to calls played from loudspeakers far away.",
   "who": "Katy Payne, an American scientist, with William Langbauer and Elizabeth Marshall Thomas",
   "when": "1984 to 1991",
-  "wrong_idea": "Elephant families far apart cannot keep in touch by sound."
+  "wrong_idea": "Elephant families far apart cannot keep in touch by sound.",
+  "context": "Can elephants far apart keep in touch by sound? This card tells the true story of a scientist who stood quietly near elephants at a zoo."
  },
  "playtest": "Walked through every game, experiment, activity, project, challenge and worksheet as a parent and a Class 1 child in a flat. Fixed: the Near, Middle, Far rules and steps now agree on swapping after 7 cards and on 4 players; unchecked claims were softened (counts of sounds children hear, newborn hearing checks, the Namibia elephant distance, the month of Katy Payne's zoo visit); the confusing first big question was reworded; two stock lines in the animals card and roots were made plain. The three video entries still have no checked clip; the validator needs exactly 3, so they stay as to-do. Step minutes, chits, example results and schedules agree."
 }

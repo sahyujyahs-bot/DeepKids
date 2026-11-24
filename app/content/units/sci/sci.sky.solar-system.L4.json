@@ -445,21 +445,32 @@
     "source": "Tirukkural 336",
     "teaching": "The greatness of this world is that someone who was here yesterday is gone today.",
     "link": "The Earth wipes out its craters as it wipes out everything, and keeps changing. Only a world that stays still can keep its past.",
-    "verse": ["நெருநல் உளனொருவன் இன்றில்லை என்னும்", "பெருமை உடைத்துஇவ் வுலகு."],
+    "verse": [
+     "நெருநல் உளனொருவன் இன்றில்லை என்னும்",
+     "பெருமை உடைத்துஇவ் வுலகு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "All conditioned things are impermanent. When one sees this with wisdom, one turns away from suffering.",
     "link": "Even a planet is not permanent. The Moon's craters last a long time, but the Sun, the planets and the Moon itself had a beginning, and will have an end.",
-    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,",
+     "yadā paññāya passati;",
+     "Atha nibbindati dukkhe,",
+     "esa maggo visuddhiyā."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Rig Veda 10.129.6",
     "teaching": "Who really knows, and who can say here, where this creation came from?",
     "link": "Scientists have a good idea of how the planets formed, but they still argue about the details, such as how the giants grew. The hymn asks the question in the same spirit.",
-    "verse": ["को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।", "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव"],
+    "verse": [
+     "को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।",
+     "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3070,7 +3081,8 @@
   "story": "Nobody has ever dug to the middle of the Earth, so for a long time people could only guess what was there. In 1906 an English geologist, Richard Oldham, noticed that waves from earthquakes were blocked or bent deep inside the Earth. That showed there was a core. Scientists soon decided the whole core was a single ball of liquid metal. Then Inge Lehmann, a Danish scientist who looked after earthquake records in Copenhagen, studied a large earthquake from New Zealand in 1929. Some faint waves turned up in a place where a completely liquid core should have left none. In 1936 she published a very short paper with a bold idea: inside the liquid core there is a solid ball, and it bounces the waves. At first not everyone agreed. Better instruments later showed she was right.",
   "who": "Inge Lehmann, a Danish seismologist (1888 to 1993), building on the work of Richard Oldham",
   "when": "1936",
-  "wrong_idea": "That the Earth's whole core was one ball of liquid metal. Lehmann showed that faint waves, which turned up where a completely liquid core should have left none, could only come from a solid ball in the middle of the liquid."
+  "wrong_idea": "That the Earth's whole core was one ball of liquid metal. Lehmann showed that faint waves, which turned up where a completely liquid core should have left none, could only come from a solid ball in the middle of the liquid.",
+  "context": "How do we know what is inside the Earth, when nobody has dug to the middle? This card tells the true story of a scientist who read the answer in earthquake waves."
  },
  "playtest": "Walked through as a parent and child in a city flat would use it, but not yet tried at home. Crater Tray: the flour must be dry and 3 centimetres deep, and the surface smooth. With a 1.5 centimetre marble, expect craters about 3 centimetres wide from 10 centimetres and about 4.5 from 80 centimetres. Widths grow slowly, so the step tells the parent not to expect a big change. The drops should be measured against a metre scale, and the child must not throw. The overlapping craters game works only if the grown-up keeps the order secret. Two Tumblers in the Sun needs direct sunshine and is outside the spine. The difference may be only a few minutes, and the step says so and gives what to do if there is none. It is a model: a lid stops warm air from flowing away, while on Venus the gas carbon dioxide slows heat rays, and the step says this honestly. Planet in a Jar: a clear jar, steel nuts, sand, water and oil. The oil takes a few minutes to join into a layer. Walk the Solar System needs about 25 metres for the inner planets. The outer four are worked out from the numbers or walked on an open ground. Drive a Rover is done with eyes closed, so the floor must be clear and a grown-up must stay close. Land on Mars uses a cherry tomato, dropped from 1.5 metres by a grown-up. The planet data used in the data detective were rounded from the NASA fact sheet. Facts a reader should check before publishing: the 12-minute signal delay in the Mangalyaan story, the ages given for Lonar crater, the exact words of the Tirukkural and Dhammapada lines, and the description of Jupiter's interior as an idea. The spine is the intro, the Crater Tray, Planet in a Jar, the explanations, roots and the quiz, about 95 minutes over two sessions."
 }

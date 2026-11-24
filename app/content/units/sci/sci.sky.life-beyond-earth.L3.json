@@ -2721,7 +2721,10 @@
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn asks how the world began, and ends: who really knows? Perhaps the one who watches from the highest heaven knows, or perhaps even that one does not know.",
     "link": "Whether life exists beyond Earth is still unknown. The hymn shows that saying 'nobody knows yet' honestly is very old. Scientists keep the question open and go and look.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2771,6 +2774,7 @@
   "story": "In the early 1960s, many biologists thought nothing could live in water much hotter than about 73 degrees Celsius. Thomas Brock, an American microbiologist, began studying the hot springs of Yellowstone National Park in 1965. In the water flowing out of one spring, Octopus Spring, he saw pink threads growing in water above 80 degrees. They were bacteria. In 1966, Brock and his student Hudson Freeze took water from another spring, Mushroom Spring, and grew a new bacterium from the water in the laboratory. They named this kind of bacterium Thermus aquaticus, and described them in 1969. Brock kept looking, and found bacteria in springs that were boiling. Yellowstone is high up, so water there boils at about 93 degrees. The old limit had come from not looking in hot enough places. Later, scientists found microbes beside deep-sea vents growing above 110 degrees. A heat-proof chemical from Thermus aquaticus is now used in laboratories all over the world to copy DNA.",
   "who": "Thomas Brock, an American microbiologist, and his student Hudson Freeze",
   "when": "1965 to 1969, at Yellowstone National Park in the United States",
-  "wrong_idea": "Biologists thought no life could survive in water much hotter than about 73 degrees. Brock found bacteria growing in springs above 80 degrees, and even in boiling springs. Microbes have since been found growing above 110 degrees."
+  "wrong_idea": "Biologists thought no life could survive in water much hotter than about 73 degrees. Brock found bacteria growing in springs above 80 degrees, and even in boiling springs. Microbes have since been found growing above 110 degrees.",
+  "context": "Can any living thing survive in very hot water? This card tells the true story of a scientist who looked in the hot springs of a national park."
  }
 }

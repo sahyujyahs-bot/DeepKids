@@ -3552,14 +3552,19 @@
     "source": "Zhuangzi, chapter 2, the Inner Chapters, about the 4th century BCE",
     "teaching": "Zhuangzi, an ancient Chinese thinker, said that a road is made by people walking on it, and things are so because we call them so.",
     "link": "The words magnetic and non-magnetic are made by people, for the answer to one test. They are useful, but they do not say everything about the material.",
-    "verse": ["道，行之而成；物，謂之而然。"],
+    "verse": [
+     "道，行之而成；物，謂之而然。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.164.46",
     "teaching": "A hymn says that truth is one, and the wise speak of it in many ways.",
     "link": "One piece of aluminium answers a still magnet with nothing, a moving magnet with a push, and a very strong magnet with a tiny pull. Each is one answer from the same material.",
-    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse": [
+     "इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।",
+     "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3599,7 +3604,8 @@
   "story": "In 1824, the French scientist Francois Arago spun a copper disc under a compass needle. The needle turned, though copper is not magnetic and nothing touched it. People called it magnetism of rotation, and many thought that spinning made copper magnetic. In 1831, Michael Faraday showed that a moving magnet makes electric currents in a nearby conductor. Heinrich Lenz showed in 1834 that these currents push against the movement that makes them. In 1855, Leon Foucault found that a copper disc spun between the poles of a strong magnet gets hot. The swirling currents have been called eddy currents ever since. The same swirls are used in induction stoves, metal detectors and recycling centres.",
   "who": "Francois Arago, Michael Faraday, Heinrich Lenz and Leon Foucault",
   "when": "1824 to 1855",
-  "wrong_idea": "Many people thought spinning made copper magnetic, in the way iron is magnetic, and called it magnetism of rotation. Faraday's work showed that moving copper has swirling electric currents made in it. These currents make a magnetic field of their own, and it was this field that turned the needle."
+  "wrong_idea": "Many people thought spinning made copper magnetic, in the way iron is magnetic, and called it magnetism of rotation. Faraday's work showed that moving copper has swirling electric currents made in it. These currents make a magnetic field of their own, and it was this field that turned the needle.",
+  "context": "Why does a spinning copper disc turn a compass needle, when copper is not a magnet? This card tells the true story of scientists who worked out what was going on."
  },
  "sources": {
   "founder": [

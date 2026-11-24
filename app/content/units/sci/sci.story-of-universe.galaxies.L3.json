@@ -2410,7 +2410,10 @@
     "source": "Bhagavad Gita 11.12",
     "teaching": "If the light of a thousand suns blazed out together in the sky, it might be like the splendour of that great being.",
     "link": "The pale band of the Milky Way really is the light of countless suns shining together. Each is too far and too faint to see alone. Together they make a glow you can see from a dark hill.",
-    "verse": ["दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता।", "यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः।।"],
+    "verse": [
+     "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता।",
+     "यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः।।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2446,6 +2449,7 @@
   "story": "A hundred years ago, most astronomers thought the Milky Way was the whole universe. Telescopes showed faint spiral clouds, called nebulae. Many thought they were clouds of gas inside our galaxy. Others said they were separate galaxies, far outside. Nobody could measure how far away they were. The answer came from Henrietta Leavitt, who worked at Harvard College Observatory studying photographs of stars. She looked at stars that grow brighter and dimmer again and again, called Cepheids. In 1912 she showed that the brighter a Cepheid really is, the more slowly it pulses. So a Cepheid's pulse tells how bright it really is, and how faint it looks tells how far away it is. In October 1923, Edwin Hubble photographed the Andromeda nebula with the big telescope on Mount Wilson in California and found a Cepheid in it. Using Leavitt's rule, he worked out that it was nearly a million light-years away, far outside the Milky Way. Today we know Andromeda is about 2 and a half million light-years away. Andromeda was a whole galaxy, and the Milky Way was one of many. Leavitt had died in 1921, so she never knew.",
   "who": "Henrietta Swan Leavitt, an American astronomer at Harvard College Observatory, and Edwin Hubble, an American astronomer at Mount Wilson Observatory",
   "when": "1912 (Leavitt's rule) and 1923 (Hubble's Cepheid in Andromeda), announced in 1925",
-  "wrong_idea": "Most astronomers thought the Milky Way was the whole universe and the spiral nebulae were clouds inside it. Hubble used Leavitt's pulsing stars to show that Andromeda is far outside the Milky Way, a galaxy of its own."
+  "wrong_idea": "Most astronomers thought the Milky Way was the whole universe and the spiral nebulae were clouds inside it. Hubble used Leavitt's pulsing stars to show that Andromeda is far outside the Milky Way, a galaxy of its own.",
+  "context": "Is the Milky Way the whole universe? This card tells the true story of two astronomers who measured how far away a faint spiral cloud is."
  }
 }

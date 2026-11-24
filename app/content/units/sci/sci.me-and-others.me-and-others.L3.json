@@ -2311,14 +2311,22 @@
     "source": "Udana 6.4, a Buddhist text, and the Jain teaching of anekantavada",
     "teaching": "A king asks some blind men to touch an elephant. One touches the trunk and says an elephant is like a pipe. One touches the ear and says it is like a fan. One touches the leg and says it is like a pillar. They quarrel, each sure he is right. The Jains call the lesson anekantavada, many-sidedness: each view holds part of the truth.",
     "link": "In the Other Chair Test, each drawing was right about what that chair could see, and none showed the whole table. Like the elephant, the table was known only by putting the views together.",
-    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso dhammo, nediso dhammo;",
+     "nediso dhammo, ediso dhammo.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 788",
     "teaching": "As a hand moves at once to catch a slipping garment, a true friend moves at once to remove a friend's trouble.",
     "link": "To help in time, a friend must notice the trouble. That means seeing from the other person's place, the way Meenu did in the story 'The Monster Under Meenu's Cot' when she lay on the floor to see what Kombu saw.",
-    "verse": ["உடுக்கை இழந்தவன் கைபோல ஆங்கே", "இடுக்கண் களைவதாம் நட்பு."],
+    "verse": [
+     "உடுக்கை இழந்தவன் கைபோல ஆங்கே",
+     "இடுக்கண் களைவதாம் நட்பு."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -2354,6 +2362,7 @@
   "story": "In the 1940s in Geneva, Jean Piaget and Bärbel Inhelder made a model of three mountains. A child sat on one side, and a doll was put on another. The child was asked to choose, from a set of pictures, the one showing what the doll could see. Many children under about seven chose the picture of their own view. Piaget and Inhelder decided that young children cannot picture another person's view. They called this egocentrism. In 1975, Martin Hughes, working in Edinburgh, tried a game that made more sense to children. He crossed two walls to make four spaces, and placed two policeman dolls looking for a boy doll. Children of three and four had to hide the boy where neither policeman could see him. About nine in ten did it right. The psychologist Margaret Donaldson made this study famous in her book Children's Minds in 1978. She argued that the mountains task was hard because it did not make human sense to a small child, not because the child could not see from another place.",
   "who": "Jean Piaget and Bärbel Inhelder in Geneva, Martin Hughes and Margaret Donaldson in Edinburgh",
   "when": "1940s (the three mountains task) and 1975 (Hughes's policeman doll game)",
-  "wrong_idea": "Piaget and Inhelder thought children under about seven could not picture what someone else sees. Hughes's hiding game, which made sense to children, showed that most children of three and four could."
+  "wrong_idea": "Piaget and Inhelder thought children under about seven could not picture what someone else sees. Hughes's hiding game, which made sense to children, showed that most children of three and four could.",
+  "context": "Can a young child imagine what someone else sees? This card tells the true story of scientists who tested it with a model of mountains and a hiding game."
  }
 }

@@ -2127,21 +2127,31 @@
     "source": "Karaniya Metta Sutta (Sutta Nipata 1.8), a Buddhist teaching",
     "teaching": "Just as a mother would protect her only child with her life, let your heart be kind to all beings, without limit.",
     "link": "In this teaching, kindness is not only for people who are like us. It is for every being, however different they look or feel.",
-    "verse": ["Mātā yathā niyaṁ puttam", "Āyusā ekaputtamanurakkhe;", "Evampi sabbabhūtesu,", "Mānasaṁ bhāvaye aparimāṇaṁ."],
+    "verse": [
+     "Mātā yathā niyaṁ puttam",
+     "Āyusā ekaputtamanurakkhe;",
+     "Evampi sabbabhūtesu,",
+     "Mānasaṁ bhāvaye aparimāṇaṁ."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 315",
     "teaching": "What use is wisdom to someone who will not treat another's pain as their own, and try to stop it?",
     "link": "In the Feelings Faces activity, you learned to see how someone else feels. The Tirukkural, from Tamil Nadu, says that knowing things is of little use without caring about other people's pain.",
-    "verse": ["அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்", "தந்நோய்போல் போற்றாக் கடை."],
+    "verse": [
+     "அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்",
+     "தந்நோய்போல் போற்றாக் கடை."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Tattvartha Sutra 5.21, a Jain text",
     "teaching": "Living beings help one another.",
     "link": "People help each other, and so do elephants and rats. This Jain teaching says that helping each other is what living beings do.",
-    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse": [
+     "परस्परोपग्रहो जीवानाम्"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2177,6 +2187,7 @@
   "story": "In 1931, Arthur Fox, a chemist in the USA, was pouring a white powder into a bottle. Some of the powder flew up into the air. The man working next to him said the dust tasted very bitter. Fox was surprised. He tasted nothing at all, even when he put some powder on his tongue. Until then, most people thought a food or a chemical tastes the same to everyone. Fox gave the powder to his friends and family. Some found it horribly bitter. Others tasted nothing. Other scientists tested many families, and found that tasting this powder runs in families, like the shape of your nose. In the 1990s, Linda Bartoshuk, an American taste scientist, found that some people taste bitter things much more strongly than most. She called them supertasters. So when your family makes different faces at karela, they may really be tasting it differently.",
   "who": "Arthur Fox, a chemist in the USA, and later Linda Bartoshuk, an American taste scientist",
   "when": "1931 (Fox's powder) and the 1990s (Bartoshuk's supertasters)",
-  "wrong_idea": "That a food or a chemical tastes the same to every person."
+  "wrong_idea": "That a food or a chemical tastes the same to every person.",
+  "context": "Does a food or a chemical taste the same to everyone? This card tells the true story of a chemist and a white powder that tasted different to different people."
  }
 }

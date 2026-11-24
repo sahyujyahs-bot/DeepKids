@@ -1128,8 +1128,8 @@
      "qty": 1
     },
     {
-    "item": "glue or tape, to stick things in",
-    "qty": 1
+     "item": "glue or tape, to stick things in",
+     "qty": 1
     }
    ],
    "schedule": [
@@ -2036,21 +2036,32 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "A teacher, Uddalaka, asks his son to put salt in water overnight. In the morning the salt cannot be seen. But when the son sips from the top, the middle and the bottom, the water is salty everywhere.",
     "link": "The son's eyes could not see the salt, but his tongue found it. In the Smell Steps test, your eyes could not see the bits of orange in the air, but your nose found them.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Kabir, a doha often quoted as 'Kasturi kundal basai'",
     "teaching": "The musk deer smells the sweet smell of musk and runs through the forest looking for it. But the musk is in the deer's own body.",
     "link": "The deer thinks the smell is far away, but it comes from his own body. In the Smell Steps test, you also found that a smell is tiny bits of a thing, carried through the air to your nose.",
-    "verse": ["कस्तूरी कुन्डल बसे, म्रग ढ़ूंढ़े बन माहिं", "ऐसे घट-घट राम है, दुनिया देखे नाहिं"],
+    "verse": [
+     "कस्तूरी कुन्डल बसे, म्रग ढ़ूंढ़े बन माहिं",
+     "ऐसे घट-घट राम है, दुनिया देखे नाहिं"
+    ],
     "verse_lang": "hi"
    },
    {
     "source": "Buddhist teaching of the six sense bases (Salayatana Samyutta, Samyutta Nikaya 35)",
     "teaching": "The Buddha spoke of six senses: seeing, hearing, smelling, tasting, touching, and the mind, which knows thoughts.",
     "link": "We found five best-known senses with sense organs. This teaching adds the mind as a sixth sense, which knows what the other five bring.",
-    "verse": ["Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca"],
+    "verse": [
+     "Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2085,7 +2096,8 @@
   "story": "In the late 1800s, a French doctor named Paul Broca studied the brains of humans and other animals. He saw that the part of the human brain used for smell is small next to the rest of the brain. So he put humans in a group of animals with a weak sense of smell. For more than a hundred years, books repeated that people smell poorly. In 2007, scientists at the University of California, Berkeley, tested this. They laid a trail of chocolate smell across a grassy field. People wore blindfolds and earmuffs, and crawled with their noses near the ground, like dogs. Most of them followed the trail, and they got faster with practice. In 2017, the scientist John McGann looked at all the evidence and called the weak human nose a myth. Earlier, in 1991, Linda Buck and Richard Axel had found the genes for the smell catchers inside the nose. Humans have about 400 kinds. Buck and Axel won the Nobel Prize for this in 2004.",
   "who": "Paul Broca, a French doctor; a team at the University of California, Berkeley; John McGann, an American brain scientist; Linda Buck and Richard Axel, American scientists",
   "when": "From the late 1800s to 2017",
-  "wrong_idea": "People have a poor sense of smell."
+  "wrong_idea": "People have a poor sense of smell.",
+  "context": "Do people really have a poor sense of smell? This card tells the true story of a doctor and of scientists who tested it later."
  },
  "playtest": "Walked through the unit as a parent and a child in a flat, step by step. Minutes and schedules agree, the Smell Steps test is fair (same line, empty-plate round, fan off) and says honestly what a child may or may not smell. Fixed: the sound game ran out of cards with 4 players, so cards are now put back and shuffled for each sound maker; the project wait line no longer repeats the day steps; a worksheet drawing that repeated the smell-travel idea is now about an ant's trail; one silly quiz option is replaced. The three video ids are still to be found."
 }

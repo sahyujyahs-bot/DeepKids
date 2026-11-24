@@ -547,7 +547,10 @@
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "An ancient hymn asks who really knows how the world began and where it all came from. It ends by saying that perhaps the one who watches from the highest heaven knows, or perhaps even that one does not.",
     "link": "The farther we look, the older the light we see. A telescope shows us how far our knowledge reaches. The hymn reminds us to say honestly where it stops.",
-    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3509,7 +3512,8 @@
   "story": "More than 2,300 years ago, the Greek thinker Aristotle taught that the sky and the Earth follow different rules. Things on Earth fall to the ground. Things in the sky are made of a perfect stuff and move in circles by their own nature, so they never fall. For about 2,000 years most scholars agreed. Then Isaac Newton asked whether the pull that drops an apple might also reach the Moon. The Moon is about 60 times farther from the Earth's centre than an apple. So he worked out that the pull there should be 60 times 60, or 3,600 times, weaker. It would make the Moon fall only about a millimetre and a half each second. He compared this with the Moon's sideways speed, about one kilometre a second, and the numbers matched the curve of the Moon's path. He also imagined a cannon on a mountain, firing faster and faster. In 1687 he published this in his book, the Principia. The Moon was falling too. The sky followed the same rule as the apple.",
   "who": "Isaac Newton, an English scientist (1643 to 1727)",
   "when": "About 1666 to 1687",
-  "wrong_idea": "Aristotle taught that the heavens follow different rules from the Earth, so the Moon and the stars never fall. Newton showed that the Moon falls like an apple, only it moves sideways so fast that it keeps missing."
+  "wrong_idea": "Aristotle taught that the heavens follow different rules from the Earth, so the Moon and the stars never fall. Newton showed that the Moon falls like an apple, only it moves sideways so fast that it keeps missing.",
+  "context": "Why does the Moon not fall down to the Earth, and how does a satellite stay up? This card tells the true story of a scientist who worked it out with a thought about a falling apple."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Falling Sideways needs a table at least 70 centimetres high, a hard floor and a wet marble, and the example numbers are worked out from the ramp heights, so real numbers may be smaller because of friction. The loaded balloon rocket needs a smooth string and balloons of the same kind. If 30 paper clips stall the rocket, use fewer. The two-lens telescope needs weak reading glasses and a pocket magnifier, and takes patience, because the picture is upside down and a little blurry. The whispering dishes work best with smooth, deep bowls. Facts for a grown-up to check: the dates of the Chandrayaan-3 burns (1 and 5 August 2023), the Mangalyaan cost, the Aditya-L1 arrival date, and the numbers of tracked space junk objects."
 }

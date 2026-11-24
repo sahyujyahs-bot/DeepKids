@@ -3674,21 +3674,31 @@
     "source": "Rig Veda 10.191.2, the hymn of coming together (Samjnana Sukta)",
     "teaching": "Come together. Speak together. Let your minds be in agreement.",
     "link": "Tiny magnets that each point their own way cancel out. When they all point the same way, together they make a magnetic force that none of them has alone.",
-    "verse": ["सं गच्छध्वं सं वदध्वं सं वो मनांसि जानताम् ।", "देवा भागं यथा पूर्वे संजानाना उपासते"],
+    "verse": [
+     "सं गच्छध्वं सं वदध्वं सं वो मनांसि जानताम् ।",
+     "देवा भागं यथा पूर्वे संजानाना उपासते"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 42",
     "teaching": "All things carry yin on their backs and hold yang in their arms. By blending the two, they reach harmony.",
     "link": "Every magnet has two poles, north and south, and nobody has ever found one without the other. In a plain nail, the forces of the tiny magnets balance out exactly.",
-    "verse": ["萬物負陰而抱陽，沖氣以為和。"],
+    "verse": [
+     "萬物負陰而抱陽，沖氣以為和。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Empedocles, fragment 17 (Diels-Kranz numbering), about 450 BCE",
     "teaching": "Sometimes all things come together into one through Love. Sometimes they are carried apart by Strife.",
     "link": "Magnets attract and repel, a little like Love and Strife. The old names for magnets, 'the one that kisses' and 'the loving stone', describe the pulling together.",
-    "verse": ["δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι", "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι", "Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι,", "καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·"],
+    "verse": [
+     "δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι",
+     "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι",
+     "Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι,",
+     "καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3728,6 +3738,7 @@
   "story": "For hundreds of years, people knew that a compass points north, but not why. Some said the Pole Star attracted the needle. Others said there was a giant magnetic mountain far in the north. In 1581, Robert Norman, a compass maker in London, noticed something new. He balanced a magnetised needle so it could tilt up and down. It did not lie flat. Its north end dipped down towards the ground. Then William Gilbert, an English doctor, tested the idea that the Earth is a magnet. He carved a ball out of lodestone and called it a terrella, which means 'little Earth'. He moved a tiny needle over it. Near the middle of the ball, the needle lay flat. Near the poles of the ball, it tipped down, just as Norman's needle did in London. In 1600 Gilbert wrote a book, De Magnete, saying that the Earth itself is a giant magnet. That is why a compass points north. Gilbert thought the inside of the Earth was solid lodestone. That part was wrong. The core is far too hot to stay a magnet. Today we know the Earth's magnetic field is made by moving liquid iron.",
   "who": "Robert Norman, a London compass maker, and William Gilbert, an English doctor",
   "when": "1581 (Norman's dipping needle) and 1600 (Gilbert's book De Magnete)",
-  "wrong_idea": "People thought a compass was attracted by the Pole Star, or by a magnetic mountain in the far north. Gilbert's lodestone ball showed that the Earth itself is a magnet. Gilbert in turn thought the Earth's inside was solid lodestone. That was wrong too: the core is too hot, and the field comes from moving liquid iron."
+  "wrong_idea": "People thought a compass was attracted by the Pole Star, or by a magnetic mountain in the far north. Gilbert's lodestone ball showed that the Earth itself is a magnet. Gilbert in turn thought the Earth's inside was solid lodestone. That was wrong too: the core is too hot, and the field comes from moving liquid iron.",
+  "context": "Why does a compass needle point north? This card tells the true story of a compass maker and a doctor in England who worked it out."
  }
 }

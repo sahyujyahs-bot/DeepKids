@@ -2496,14 +2496,20 @@
     "source": "Tirukkural 467, chapter 47 (acting after careful thought), by Thiruvalluvar",
     "teaching": "Think first, then begin the work. To begin first and say 'we will think about it later' is a mistake.",
     "link": "In the foil boat test, planning and drawing your boat before folding it saved foil and time. But the test still showed weak spots your plan missed. Thinking first and testing after work together.",
-    "verse": ["எண்ணித் துணிக கருமம் துணிந்தபின்", "எண்ணுவம் என்பது இழுக்கு."],
+    "verse": [
+     "எண்ணித் துணிக கருமம் துணிந்தபின்",
+     "எண்ணுவம் என்பது இழுக்கு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "A doha (couplet) attributed to Kabir",
     "teaching": "The clay says to the potter: why do you press and knead me? One day will come when I will knead you.",
     "link": "The potter shapes the clay, but the clay also shapes the potter's work, by how it bends, cracks and holds. In the foil boat test, the foil and the water shaped your design too.",
-    "verse": ["माटी कहे कुम्हार से, तु क्या रौंदे मोय", "एक दिन ऐसा आएगा, मैं रौंदूंगी तोय"],
+    "verse": [
+     "माटी कहे कुम्हार से, तु क्या रौंदे मोय",
+     "एक दिन ऐसा आएगा, मैं रौंदूंगी तोय"
+    ],
     "verse_lang": "hi"
    }
   ],
@@ -2543,6 +2549,7 @@
   "story": "In 1965, Stephanie Kwolek was a chemist at the DuPont company in the USA. Her team wanted a light, very strong fibre, a thin thread that could be woven into strong cloth. One day she made a liquid that looked wrong. Good liquids for making fibre were usually clear and thick, like honey. Hers was cloudy and runny. People at the time expected a liquid like that to be useless, and such liquids were usually thrown away. The worker who ran the spinning machine did not want to try it at first. He was afraid the cloudy liquid would block the machine's tiny holes. Kwolek did not trust the guess. She wanted a test. She persuaded him to spin it. The fibre that came out was stiffer and stronger than anything they had made before. She tested it again and again to be sure. DuPont later called the fibre Kevlar. It is used today in helmets, cut-proof gloves, ropes and vests that protect police officers. A test, not a guess, showed what the liquid could do.",
   "who": "Stephanie Kwolek, a chemist at the DuPont company",
   "when": "1965",
-  "wrong_idea": "People expected that a cloudy, runny liquid could not make a good fibre, so such liquids were usually thrown away. Kwolek insisted on testing it, and it made one of the strongest fibres ever made."
+  "wrong_idea": "People expected that a cloudy, runny liquid could not make a good fibre, so such liquids were usually thrown away. Kwolek insisted on testing it, and it made one of the strongest fibres ever made.",
+  "context": "Can a cloudy, runny liquid make a very strong fibre? This card tells the true story of a chemist who would not throw it away."
  }
 }

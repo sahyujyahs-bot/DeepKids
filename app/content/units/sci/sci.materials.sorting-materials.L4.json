@@ -3199,21 +3199,33 @@
     "source": "Udana 6.4",
     "teaching": "In this Buddhist text, blind men each touch a different part of an elephant and say what an elephant is. One touches the head, one the tail, one the leg. They argue, and each is right about the part they touched.",
     "link": "One number is like one part of the elephant. A second number shows more, and neither one alone tells you what the whole heap is.",
-    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi kumbho.",
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Zhuangzi, chapter 2",
     "teaching": "Zhuangzi says that 'this' and 'that' give birth to each other. Without a 'that' there is no 'this'.",
     "link": "When you draw a cut-off, the groups 'heavy' and 'light' both come into being at the same moment. Neither group exists before the line is drawn.",
-    "verse": ["物无非彼，物无非是，自彼則不見，自知則知之。", "故曰：「彼出於是，是亦因彼。」彼是，方生之說也。"],
+    "verse": [
+     "物无非彼，物无非是，自彼則不見，自知則知之。",
+     "故曰：「彼出於是，是亦因彼。」彼是，方生之說也。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.10.1-2",
     "teaching": "Rivers that flow east and rivers that flow west all go to the sea and become the sea. Once they are in the sea, they do not know 'I am this river, I am that river'.",
     "link": "The names we give to groups are like the names of rivers. The names are useful while we are sorting, but all the groups are still part of one heap.",
-    "verse": ["इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः", "ताः समुद्रात्समुद्रमेवापियन्ति", "स समुद्र एव भवति", "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"],
+    "verse": [
+     "इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः",
+     "ताः समुद्रात्समुद्रमेवापियन्ति",
+     "स समुद्र एव भवति",
+     "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3248,7 +3260,8 @@
   "story": "About 1900, astronomers at Harvard College Observatory sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. That gave astronomers two ladders: one of type, and one of brightness. Around 1905, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed brightness against type for many stars on one map. The stars were not scattered everywhere. Most lay along a long band, with bright giants above it and faint white dwarfs below. For a while, many thought the map showed the path that every star travels as it ages. That turned out to be wrong. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. One map had shown the families before anybody knew why they existed.",
   "who": "Ejnar Hertzsprung (Danish) and Henry Norris Russell (American), using the sorting by Annie Jump Cannon and Antonia Maury",
   "when": "About 1905 to 1914",
-  "wrong_idea": "Many thought that the band of stars on the map was a path that every star follows as it ages, from giant to dwarf. Later work showed that stars of different masses sit at different places on the band, and that each star stays near one place for most of its life."
+  "wrong_idea": "Many thought that the band of stars on the map was a path that every star follows as it ages, from giant to dwarf. Later work showed that stars of different masses sit at different places on the band, and that each star stays near one place for most of its life.",
+  "context": "What can we learn by drawing stars on a map with two numbers? This card tells the true story of two astronomers who sorted thousands of stars."
  },
  "see_also": [
   {

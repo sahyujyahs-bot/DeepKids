@@ -528,14 +528,20 @@
     "source": "Brihadaranyaka Upanishad 2.4.7",
     "teaching": "The Upanishad says that when a drum is beaten, one cannot grasp the sounds that go out from it, but by grasping the drum or the drummer, one grasps the sound.",
     "link": "You cannot get hold of a sound by itself. You find it through the drum, the air and the listener together.",
-    "verse": ["स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय", "दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः"],
+    "verse": [
+     "स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय",
+     "दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 2 (the piping of earth)",
     "teaching": "Zhuangzi, an ancient Chinese thinker, described the wind blowing across ten thousand hollows in the earth, each one making its own sound. He asked who makes them sound, when the wind is the same.",
     "link": "The same wave sounds different in each ear and in each hollow, because the one who receives it shapes what is heard.",
-    "verse": ["夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。", "夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？"],
+    "verse": [
+     "夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。",
+     "夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -570,7 +576,8 @@
   "story": "In 1863 the great German scientist Hermann von Helmholtz suggested that the inner ear works like a piano. He thought stretched fibres lay across the cochlea, short ones at one end and long ones at the other, and that each shook for one pitch like a string. It was a clever idea, and part of it was right: different places do answer to different pitches. In the 1920s and 1940s, a Hungarian scientist named Georg von Békésy looked at real ears. He studied ears from people who had died, because living ears are too small to look into. Under a microscope, he found no stretched strings. The membrane was soft. When he played a sound, he saw a wave travel along the membrane and rise to a peak at one place. High sounds peaked near the entrance, and low sounds near the far end. So the ear sorts pitches by where a wave peaks, not by strings. Békésy won the Nobel Prize in 1961.",
   "who": "Georg von Békésy (1899 to 1972), a Hungarian scientist",
   "when": "1863 (Helmholtz's idea), the 1940s (Békésy's work), 1961 (the Nobel Prize)",
-  "wrong_idea": "Helmholtz thought the cochlea had stretched fibres like piano strings, each shaking for one pitch. Békésy showed there were no stretched strings. A wave travels along a soft membrane and peaks at a place that depends on the pitch."
+  "wrong_idea": "Helmholtz thought the cochlea had stretched fibres like piano strings, each shaking for one pitch. Békésy showed there were no stretched strings. A wave travels along a soft membrane and peaks at a place that depends on the pitch.",
+  "context": "How does the inner ear sort the pitch of a sound? This card tells the true story of a scientist who looked inside real ears to test an old idea."
  },
  "games": [
   {

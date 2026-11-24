@@ -3752,14 +3752,19 @@
     "source": "Bhagavad Gita 5.10",
     "teaching": "A person who works without clinging, offering the work to something greater, is not stained by wrong, just as a lotus leaf is not wetted by water.",
     "link": "The Gita used the lotus leaf as its picture long before microscopes showed why water rolls off it. The leaf lives on the pond, yet the water does not wet it, and the mud does not stay on it.",
-    "verse": ["ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।", "लिप्यते न स पापेन पद्मपत्रमिवाम्भसा।।"],
+    "verse": [
+     "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।",
+     "लिप्यते न स पापेन पद्मपत्रमिवाम्भसा।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 25",
     "teaching": "People follow the ways of the Earth. The Earth follows the ways of Heaven. Heaven follows the Tao, the Way. The Way follows what is natural.",
     "link": "Biomimicry is people learning from the ways of the Earth, quite literally: an engineer watching a kingfisher to learn how to build a train.",
-    "verse": ["人法地，地法天，天法道，道法自然。"],
+    "verse": [
+     "人法地，地法天，天法道，道法自然。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -3799,6 +3804,7 @@
   "story": "For a long time, people thought they knew how termite mounds stay fresh inside. In 1961, a Swiss scientist, Martin Lüscher, wrote about mounds in Africa. He said the warmth of millions of termites and their fungus garden heats the air in the middle. The warm air rises up a central chimney, like smoke, and pulls fresh air in from below. Books repeated this for decades, and an architect copied the idea for a building in Zimbabwe. But nobody had measured the air inside a living mound through a whole day and night. In 2015, Hunter King, Samuel Ocko and L. Mahadevan of Harvard University did. They put tiny sensors into mounds of the termite Odontotermes obesus near Bengaluru. By day, the sun warmed the thin outer ridges of the mound faster than its thick middle, and the air moved one way. At night, the outer ridges cooled first, and the air moved the other way. The termites' own warmth was not what drove the air. The mound breathes with the day and the night.",
   "who": "Martin Lüscher (the old idea), and Hunter King, Samuel Ocko and L. Mahadevan (the measurements near Bengaluru)",
   "when": "1961, and 2015",
-  "wrong_idea": "The termites' own warmth heats the air, which rises up a chimney and pulls fresh air in. Sensors in real mounds near Bengaluru showed that the sun's warming by day and the cooling at night move the air instead."
+  "wrong_idea": "The termites' own warmth heats the air, which rises up a chimney and pulls fresh air in. Sensors in real mounds near Bengaluru showed that the sun's warming by day and the cooling at night move the air instead.",
+  "context": "How does a termite mound stay fresh inside? This card tells the true story of scientists who put sensors inside real mounds near Bengaluru."
  }
 }

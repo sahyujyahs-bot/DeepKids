@@ -3251,21 +3251,30 @@
     "source": "Tao Te Ching 76",
     "teaching": "People are born soft and bendy, and they die stiff and hard. Green plants are soft and full of sap, and they die dry and brittle. So the stiff and hard belong to death, and the soft and yielding belong to life. A tree that cannot bend is easily broken.",
     "link": "Bamboo bends a long way in a storm and springs back, because its fibres run unbroken. In the Grain Hunt, the stiff sticks snapped when we bent them across.",
-    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse": [
+     "人之生也柔弱，其死也堅強。",
+     "萬物草木之生也柔脆，其死也枯槁。",
+     "故堅強者死之徒，柔弱者生之徒。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka teaches his son that when you know one lump of clay, you know everything made of clay. The pots and plates are only names, and the truth of each is clay.",
     "link": "A spoon, a tumbler and a bowl of steel are one material in different shapes. In Paper Bridges, the same paper made a floppy flat bridge and a stiff folded one. The shape changes how stiff a thing is, and the material stays the same.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 4",
     "teaching": "A carpenter walks past a huge old oak and calls it useless, because its wood is twisted and cannot be sawn into planks. That night the oak speaks to the carpenter in a dream and says that this is why they have lived so long.",
     "link": "A carpenter reads the grain of wood before cutting. Twisted grain gives crooked planks, so the carpenter left the oak alone.",
-    "verse": ["散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"],
+    "verse": [
+     "散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -3300,7 +3309,8 @@
   "story": "In the 1800s, trains carried more and more people. The iron axles under the carriages sometimes snapped, even though they had been tested with loads far above what they carried. Many engineers thought the shaking changed the iron inside, turning it from long fibres into brittle crystals. The broken ends did look bright and grainy, which seemed to prove it. A German railway engineer named August Wöhler did not accept this. From the 1850s, he built machines that spun axles under a fixed load for millions of turns, and counted the turns until each one broke. He found that an axle lasted more turns when the load was smaller, and that below a certain load it might not break at all. The grainy look was simply what a fresh break looks like in iron. The iron had not changed. A small crack had grown a little with every turn. Counting the turns to failure is still how engineers test materials today.",
   "who": "August Wöhler, a German railway engineer (1819 to 1914)",
   "when": "From the 1850s to about 1870",
-  "wrong_idea": "Many engineers thought that shaking turned iron into brittle crystals. Wöhler showed that tiny cracks grow a little with each repeated load, and that a smaller load means more turns before the break."
+  "wrong_idea": "Many engineers thought that shaking turned iron into brittle crystals. Wöhler showed that tiny cracks grow a little with each repeated load, and that a smaller load means more turns before the break.",
+  "context": "Why did iron train axles snap, even when they were strong enough for the load? This card tells the true story of a railway engineer who tested them over and over."
  },
  "see_also": [
   {

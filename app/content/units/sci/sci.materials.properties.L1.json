@@ -1945,7 +1945,8 @@
   "story": "For about 200 years, the best telescopes used mirrors made of thick discs of metal. Isaac Newton made one of the first, in 1668. In England, in the 1770s and 1780s, Caroline Herschel helped her brother William make many more. Polishing one mirror could take many hours without a break, so Caroline fed William by hand while he polished. She also found comets, and became one of the first women ever paid to do science. But metal mirrors had a problem. In damp air they slowly went dull, and had to be polished all over again. In 1835, the German chemist Justus von Liebig found a way to lay a very thin layer of silver onto glass. In 1856 and 1857, Carl August von Steinheil in Germany and Léon Foucault in France made telescope mirrors this way. A smooth glass disc with a thin silver skin shone better than solid metal. Today, big telescope mirrors are glass with a layer of aluminium far thinner than a hair. The shine is all in the surface.",
   "who": "Isaac Newton, an English scientist; Caroline Herschel, a German-born astronomer in England, and her brother William; Justus von Liebig, a German chemist; Carl August von Steinheil, a German scientist; Léon Foucault, a French scientist",
   "when": "From 1668 to 1857",
-  "wrong_idea": "People thought a good telescope mirror had to be a thick disc of solid metal. In fact, thin silver on smooth glass shone better."
+  "wrong_idea": "People thought a good telescope mirror had to be a thick disc of solid metal. In fact, thin silver on smooth glass shone better.",
+  "context": "What makes a telescope mirror shine well? This card tells the true story of astronomers who built mirrors for hundreds of years."
  },
  "plan": {
   "start_options": [

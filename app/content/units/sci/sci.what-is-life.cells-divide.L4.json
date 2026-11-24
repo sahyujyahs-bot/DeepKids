@@ -445,7 +445,12 @@
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka teaches his son Shvetaketu about a great tree. If the life leaves one branch, that branch dries up. If it leaves the whole tree, the whole tree dries up. The same life is in all of it.",
     "link": "A root grows only at the tip, but the tip is fed by the whole tree. The growing tip and the older, finished part behind it belong to one living tree.",
-    "verse": ["अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति", "द्वितीयां जहात्यथ सा शुष्यति", "तृतीयां जहात्यथ सा शुष्यति", "सर्वं जहाति सर्वः शुष्यति"],
+    "verse": [
+     "अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति",
+     "द्वितीयां जहात्यथ सा शुष्यति",
+     "तृतीयां जहात्यथ सा शुष्यति",
+     "सर्वं जहाति सर्वः शुष्यति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -457,7 +462,11 @@
     "source": "Tao Te Ching 76",
     "teaching": "A person is born soft and flexible, and at death is hard and stiff. Green plants are soft and full of sap, and when dead they are dry and brittle. The soft and yielding belongs to life.",
     "link": "The root tip is the softest, palest, wettest part of the plant. That is also the part that grows.",
-    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse": [
+     "人之生也柔弱，其死也堅強。",
+     "萬物草木之生也柔脆，其死也枯槁。",
+     "故堅強者死之徒，柔弱者生之徒。"
+    ],
     "verse_lang": "zh"
    }
   ],
@@ -2821,7 +2830,8 @@
   "story": "For about thirty years, textbooks said that a human cell has 48 chromosomes. An American scientist, Theophilus Painter, counted 48 in the 1920s, and everyone trusted him. Counting is hard, because the chromosomes of a dividing cell lie piled on top of one another like a tangle of thread. In 1952, in Texas, a scientist named T. C. Hsu found that dividing cells soaked in weak salt water swell up, and their chromosomes spread out. The story goes that this began as a mistake in the lab. In 1955, in Sweden, Joe Hin Tjio, who was born in Java, tried this with Albert Levan on cells from human embryos. The chromosomes lay apart and could be counted clearly. There were 46, not 48. Other labs soon counted 46 as well.",
   "who": "Joe Hin Tjio and Albert Levan in Sweden, using a method found by T. C. Hsu",
   "when": "1952 to 1956",
-  "wrong_idea": "For about thirty years scientists believed that humans have 48 chromosomes. Better preparation of the cells, so that the chromosomes spread apart, showed that the real number is 46."
+  "wrong_idea": "For about thirty years scientists believed that humans have 48 chromosomes. Better preparation of the cells, so that the chromosomes spread apart, showed that the real number is 46.",
+  "context": "How many chromosomes does a human cell have? This card tells the true story of scientists who counted them for years and then found a mistake."
  },
  "playtest": "Read through step by step as a parent and child in a city flat would use it, but not yet cooked or tested at home. Cut the Tip uses moong that most kitchens have. The usual result is that roots with the cut tip grow far less than the untouched roots, but the part just behind the cut can stretch a little on the first day, and the steps say what to do if the results are unclear or the sprouts grow fuzz. The root lengths in the notes (about 10 to 25 millimetres a day for uncut roots in warm weather) are what such tests usually give, so a family's own numbers may differ. Dots on a Root is the fussiest activity, because ink does not always stay on a damp root, and the steps give a kajal fallback. Skin Flakes shows a cloudy patch and small flakes, not single cells. Pinch the Tulsi takes two weeks and works with any tulsi, mint or chilli plant. The games and paper activities use only paper, pens and household things, and the Replacement Race can be played alone. The videos have no address yet. Facts to check by a person before the unit goes live: the Hsu laboratory mistake as the story tells it, the figure of about 10 years for fat cells and bones, the Khasi names and the details of the living root bridges in the story, and the claim in the applications that banana tissue culture is used on farms in Tamil Nadu and Maharashtra."
 }

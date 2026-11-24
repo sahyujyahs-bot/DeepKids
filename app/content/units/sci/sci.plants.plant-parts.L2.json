@@ -211,7 +211,8 @@
   "who": "John Dacey; Mevi-Schütz and Wolfgang Grosse in Germany",
   "when": "1980 for the water lily; 1988 for the lotus",
   "wrong_idea": "Scientists thought that air reaches the stems of pond plants only by creeping slowly down the stalks. Dacey showed that warm young leaves push air down, so it flows through the plant like a wind.",
-  "art": "A cut-away drawing of a pond: lotus leaves on top in the sun, arrows showing air going down one stalk, through the stem in the mud, and up another stalk."
+  "art": "A cut-away drawing of a pond: lotus leaves on top in the sun, arrows showing air going down one stalk, through the stem in the mud, and up another stalk.",
+  "context": "How do the stems of pond plants get air from the mud? This card tells the true story of scientists who measured the air inside lotus plants."
  },
  "story": {
   "title": "The Brinjal That Would Not Sink",
@@ -2332,14 +2333,20 @@
     "source": "Tirukkural 595",
     "teaching": "A lotus stalk grows as long as the water is deep. In the same way, how high a person rises depends on how strong their will is.",
     "link": "A lotus grows their leaf stalks long enough to reach the top of the water. The Tirukkural, from Tamil Nadu, noticed this. A plant's parts grow to fit the place where the plant lives.",
-    "verse": ["வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்", "உள்ளத் தனையது உயர்வு."],
+    "verse": [
+     "வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்",
+     "உள்ளத் தனையது உயர்வு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 5.10",
     "teaching": "A wise person acts in the world but is not stained by it, like a lotus leaf that sits on water and stays dry.",
     "link": "A lotus leaf rests on the water, and water rolls off in drops. The top of the leaf is waxy, so it stays dry.",
-    "verse": ["ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।", "लिप्यते न स पापेन पद्मपत्रमिवाम्भसा।।"],
+    "verse": [
+     "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।",
+     "लिप्यते न स पापेन पद्मपत्रमिवाम्भसा।।"
+    ],
     "verse_lang": "sa"
    }
   ],

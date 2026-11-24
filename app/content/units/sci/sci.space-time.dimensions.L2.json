@@ -2138,14 +2138,21 @@
     "source": "Plato, the Republic, Book 7: the story of the cave",
     "teaching": "Plato told of prisoners chained in a cave, facing a wall. All their lives they see only flat shadows of things moving behind them. They think the shadows are the real things.",
     "link": "Pulli sees only lines and slices of our solid world, and takes them for everything there is. Plato asked whether we too might see only part of what is real.",
-    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς."],
+    "verse": [
+     "ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει",
+     "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;",
+     "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς."
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant (also told in the Buddhist Udana, 6.4)",
     "teaching": "Each blind man touches one part of an elephant: a leg, an ear, the trunk. Each says the elephant is like a pillar, a fan or a snake. Each is partly right, and none knows the whole.",
     "link": "In the slice and trace test, each slice showed one true flat shape of the potato, but no single slice showed the whole potato. To know the solid, you need all the slices together.",
-    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse": [
+     "ediso, deva, hatthī seyyathāpi suppo.",
+     "ediso, deva, hatthī seyyathāpi thūṇo."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2186,6 +2193,7 @@
   "who": "Aristotle, a thinker in ancient Greece. Aryabhata, an astronomer in India.",
   "when": "Aristotle wrote about the round shadow about 2,350 years ago. Aryabhata wrote the Aryabhatiya in 499 CE.",
   "wrong_idea": "That the Earth is flat, like a plate. The round shadow of the Earth on the Moon, and the different stars seen by travellers, showed that the Earth is a ball.",
-  "art": "The Moon in an eclipse with the curved edge of the Earth's shadow across it, and a man in ancient Greek clothes pointing up at it."
+  "art": "The Moon in an eclipse with the curved edge of the Earth's shadow across it, and a man in ancient Greek clothes pointing up at it.",
+  "context": "Is the Earth flat? This card tells the true story of thinkers who looked at shadows and at the stars to find the answer."
  }
 }

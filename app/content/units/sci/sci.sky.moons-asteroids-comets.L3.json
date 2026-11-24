@@ -2995,21 +2995,31 @@
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu: by knowing one lump of clay, you know everything made of clay. A pot or a cup is a name given to a new shape. What is real is the clay.",
     "link": "Comet, tail, meteor and space dust are names for one material at different moments, as pot and cup are names for clay in different shapes.",
-    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse": [
+     "यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्",
+     "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "Everything that is put together changes and does not last. A person who sees this clearly suffers less.",
     "link": "A comet loses some of itself every time it passes the Sun, like the ice comet in the sun in the Ice Comet experiment. In the end, its ice runs out.",
-    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse": [
+     "Sabbe saṅkhārā aniccā,",
+     "yadā paññāya passati;",
+     "Atha nibbindati dukkhe,",
+     "esa maggo visuddhiyā."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "People step into the same river again and again, but the water flowing over them is different each time.",
     "link": "Halley's Comet keeps its name and its path, but each time it returns it has lost some ice and dust. It is the same comet and not quite the same.",
-    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse": [
+     "ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3045,6 +3055,7 @@
   "story": "For a long time, most scientists in Europe did not believe that stones could fall from the sky. Farmers told of hot stones landing in their fields after a bright flash and a bang. Learned men said these were mistakes. The stones, they said, had been struck by lightning or thrown out of volcanoes, and fireballs were a kind of weather high in the air. In 1794, the German scientist Ernst Chladni wrote a book saying the opposite. Fireballs, he said, were lumps of rock and iron coming in from space, glowing as they rushed through the air. Many scientists laughed at him. Then, on 26 April 1803, thousands of stones fell around the town of L'Aigle in France. The young scientist Jean-Baptiste Biot was sent to find out what had happened. He visited many villages, talked to the people who had seen and heard the fall, and collected stones. He mapped where they had landed, in an oval area several kilometres long. The stones were unlike any rock found nearby. After his report, scientists accepted that stones really do fall from space. Today we call them meteorites.",
   "who": "Ernst Chladni, a German scientist, and Jean-Baptiste Biot, a French scientist",
   "when": "1794 (Chladni's book) and 1803 (the fall at L'Aigle and Biot's report)",
-  "wrong_idea": "Most scientists thought stones could not fall from the sky, and that fireballs were a kind of weather. Biot's careful study of the L'Aigle fall showed that the stones came from space."
+  "wrong_idea": "Most scientists thought stones could not fall from the sky, and that fireballs were a kind of weather. Biot's careful study of the L'Aigle fall showed that the stones came from space.",
+  "context": "Can stones really fall from the sky? This card tells the true story of scientists who did not believe it, until a shower of stones landed in France."
  }
 }

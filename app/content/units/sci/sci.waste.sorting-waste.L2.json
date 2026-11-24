@@ -1863,7 +1863,10 @@
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each one goes back to its root.",
     "link": "A peel goes back to the soil it came from, when decomposers eat it. That is what the green bin is for.",
-    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse": [
+     "夫物芸芸，各復歸其根。",
+     "歸根曰靜，是謂復命。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -1908,7 +1911,8 @@
   "who": "Almitra Patel, scientist and campaigner, near Bengaluru; the Supreme Court of India and its committee",
   "when": "1996 (court case); 2000 (first national rules); 2016 (newer rules)",
   "wrong_idea": "That taking mixed garbage out of town and dumping it solved the problem. Almitra Patel showed that dumps poison air, soil and water, and that sorting at home, collecting every day and composting wet waste work better.",
-  "art": "A woman in her sixties with short grey hair and a notebook, standing at the edge of a smoking garbage dump outside a town, writing down what she sees."
+  "art": "A woman in her sixties with short grey hair and a notebook, standing at the edge of a smoking garbage dump outside a town, writing down what she sees.",
+  "context": "Does dumping mixed garbage outside a town solve the problem? This card tells the true story of a campaigner near Bengaluru who showed what dumps do."
  },
  "playtest": "Every experiment, activity, game and challenge was walked through as if in a city flat today, with the materials listed. The Napkin Press Test uses only kitchen scraps, napkins and a heavy book, and the damp patches from peel, rice and tea leaves are easy to see within 10 minutes. The pieces are coin-sized so a single book presses all eight. The Hanger Balance works with an ordinary hanger on a door handle. The step tells the parent to level the empty hanger first, and says that homes may get different results. Watching the collector needs a grown-up at the door, and offers another way if the collector is busy. Cutting the milk packet is done by a grown-up. No item needs to be bought."
 }

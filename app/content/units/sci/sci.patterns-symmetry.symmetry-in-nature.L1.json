@@ -1800,7 +1800,8 @@
   "story": "Long ago, many people in Europe believed that small creatures, like caterpillars, flies and worms, grew out of mud or rotting food. In 1668, an Italian doctor, Francesco Redi, kept meat in jars. Flies laid eggs only on meat they could reach, and maggots came only from those eggs. A German girl named Maria Sibylla Merian looked for herself too. From the age of thirteen, she raised silkworms and other caterpillars and fed them leaves. She watched each caterpillar eat, grow and make a hard case around their body, called a chrysalis. Weeks later, a butterfly or moth came out. Merian painted every step: the egg, the caterpillar, the chrysalis and the grown butterfly, with matching wings on both sides. In 1679 she printed her first book about caterpillars. In 1699, she sailed to Suriname in South America with her daughter Dorothea to study insects there. Women could not study at universities then, but her careful paintings helped show that every butterfly grows from an egg laid by another butterfly.",
   "who": "Maria Sibylla Merian, a German painter who studied insects, and Francesco Redi, an Italian doctor",
   "when": "1660 to 1705",
-  "wrong_idea": "Small creatures like caterpillars and flies grow out of mud or rotting food. Redi's jars and Merian's caterpillars showed that they hatch from eggs laid by their parents."
+  "wrong_idea": "Small creatures like caterpillars and flies grow out of mud or rotting food. Redi's jars and Merian's caterpillars showed that they hatch from eggs laid by their parents.",
+  "context": "Where do small creatures like caterpillars and flies come from? This card tells the true story of a doctor and a painter who watched them closely."
  },
  "plan": {
   "start_options": [

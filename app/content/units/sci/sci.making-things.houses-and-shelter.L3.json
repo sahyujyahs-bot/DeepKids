@@ -2743,14 +2743,21 @@
     "source": "Tao Te Ching 11",
     "teaching": "We cut out doors and windows to make a room. It is the empty space inside that makes the room useful.",
     "link": "A frame and a house's walls hold their shape so that an empty space can stay open inside. We build the walls, but we live in the space they hold.",
-    "verse": ["鑿戶牖以為室，當其無，有室之用。"],
+    "verse": [
+     "鑿戶牖以為室，當其無，有室之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Dhammapada 153 to 154",
     "teaching": "The Buddha spoke of looking for the builder of a house. He said that its rafters, the sloping poles of the roof, were broken, and its ridge-pole, the pole along the top of the roof, was shattered. So that house would not be built again.",
     "link": "The Buddha used a house of rafters and a ridge-pole as a picture of the self. A house is only parts held together at their joints. When the joints and beams fail, there is no house left, only poles.",
-    "verse": ["Gahakāraka diṭṭhosi,", "puna gehaṁ na kāhasi;", "Sabbā te phāsukā bhaggā,", "gahakūṭaṁ visaṅkhataṁ;"],
+    "verse": [
+     "Gahakāraka diṭṭhosi,",
+     "puna gehaṁ na kāhasi;",
+     "Sabbā te phāsukā bhaggā,",
+     "gahakūṭaṁ visaṅkhataṁ;"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -2786,6 +2793,7 @@
   "story": "In the 1960s, buildings were getting taller, and engineers had a problem. A tall building is pushed sideways by the wind, like a tree. Most engineers thought the answer was a thick skeleton of columns and beams with very stiff joints. But each extra floor then needed more and more steel, so very tall buildings cost far too much. Fazlur Rahman Khan, an engineer born in Dhaka in 1929, thought about it differently. He worked in Chicago, in the United States, with the architect Bruce Graham. Khan saw that the outside walls could work like one stiff hollow tube. For the John Hancock Center, a 100-storey tower finished in 1969, he put huge diagonal steel braces across the outside, making giant triangles. The triangles stopped the building leaning in the wind. The tower used about as much steel for each floor as an ordinary 50-storey building. The old idea, that a taller building always needed a thicker skeleton, was shown to be wrong. Triangles, placed well, did the work instead.",
   "who": "Fazlur Rahman Khan, an engineer born in Dhaka, with the architect Bruce Graham, in Chicago",
   "when": "the 1960s",
-  "wrong_idea": "Engineers thought that a taller building needed a thicker and heavier skeleton of columns and stiff joints, so very tall towers would cost too much steel. Khan showed that big diagonal braces making triangles on the outside could hold the building firm against wind with far less steel."
+  "wrong_idea": "Engineers thought that a taller building needed a thicker and heavier skeleton of columns and stiff joints, so very tall towers would cost too much steel. Khan showed that big diagonal braces making triangles on the outside could hold the building firm against wind with far less steel.",
+  "context": "How can a very tall building stand up to the wind without too much steel? This card tells the true story of an engineer who found a clever way."
  }
 }

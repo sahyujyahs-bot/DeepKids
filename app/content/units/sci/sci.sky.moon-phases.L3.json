@@ -3467,7 +3467,10 @@
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "Purnima comes from purna, whole. The Moon is whole on every night of the month, even on Amavasya. Only the part we see grows and shrinks.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3512,6 +3515,7 @@
   "story": "Long ago, many people thought the Moon made its own light. Old stories said it really wasted away and grew back each month. In India, a story said an eclipse happened when the demon Rahu swallowed the Sun or the Moon. Careful sky-watchers noticed something those ideas could not explain. The bright side of the Moon always points towards the Sun. A thin crescent is always close to the Sun in the sky, and a full Moon is always opposite it. About 2,450 years ago in Greece, Anaxagoras said the Moon shines with the Sun's light. In 499 CE, the Indian astronomer Aryabhata wrote in the Aryabhatiya that the half of the Moon facing the Sun is bright, and the other half is dark. He wrote that in a solar eclipse the Moon covers the Sun, and in a lunar eclipse the Earth's shadow covers the Moon. With this idea, astronomers could work out the day and time of an eclipse long before it came. A demon could not be predicted, but shadows could be calculated. Indian astronomers kept the names Rahu and Ketu, but used them for the two points in the sky where eclipses can happen.",
   "who": "Anaxagoras (Greece, about 450 BCE) and Aryabhata (India, 499 CE)",
   "when": "About 450 BCE to 499 CE",
-  "wrong_idea": "The Moon makes its own light and really grows and shrinks, and a demon swallows it in an eclipse. Two things showed these ideas were wrong: the Moon's lit side always faces the Sun, and eclipses could be worked out in advance from shadows."
+  "wrong_idea": "The Moon makes its own light and really grows and shrinks, and a demon swallows it in an eclipse. Two things showed these ideas were wrong: the Moon's lit side always faces the Sun, and eclipses could be worked out in advance from shadows.",
+  "context": "Why does the Moon seem to change shape, and what happens in an eclipse? This card tells the true story of two thinkers, far apart, who worked out the answer."
  }
 }

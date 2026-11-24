@@ -2590,7 +2590,14 @@
     "source": "Rig Veda 10.129, the Nasadiya Sukta (the hymn of creation)",
     "teaching": "Then there was neither being nor non-being. Who really knows where this world came from? The one who watches over it from the highest heaven perhaps knows, or perhaps does not know.",
     "link": "Science has traced the universe back 13.8 billion years, to a hot, packed beginning. It does not know what came before that. This hymn, the Nasadiya Sukta in the Rig Veda, asks the same question, and is just as honest about not knowing.",
-    "verse": ["नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्।", "किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम्", "को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।", "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव", "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse": [
+     "नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्।",
+     "किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम्",
+     "को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।",
+     "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव",
+     "इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।",
+     "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -2634,6 +2641,7 @@
   "story": "In 1917, Albert Einstein used his new theory of gravity to describe the whole universe. Like almost everyone then, he thought the universe had always been the same size. His equations said it should grow or shrink, so he added an extra part to hold it still. In 1927, Georges Lemaître, a Belgian physicist and priest, showed that the equations allowed a growing universe, and that measured galaxy speeds suggested it really was growing. In 1929, Edwin Hubble showed that far galaxies move away faster than near ones. Lemaître said that a growing universe must once have been tiny and hot. Many astronomers disliked the idea of a beginning. In 1948, Fred Hoyle, Hermann Bondi and Thomas Gold said new matter keeps appearing as galaxies move apart, so the universe never really changes. The same year, Ralph Alpher and Robert Herman worked out that a hot beginning would leave a faint glow everywhere. In 1965, Arno Penzias and Robert Wilson found a hiss in their radio antenna that came from every direction. They even cleaned pigeon droppings out of the antenna, but the hiss stayed. It was the leftover glow, and the never-changing universe could not explain it.",
   "who": "Georges Lemaître, a Belgian physicist and priest, Edwin Hubble, an American astronomer, and Arno Penzias and Robert Wilson, American radio astronomers. Albert Einstein and Fred Hoyle held the older idea.",
   "when": "1917 (Einstein's still universe), 1927 and 1929 (the growing universe), 1948 (the steady state idea and the predicted glow), 1965 (the glow is found)",
-  "wrong_idea": "Most scientists, Einstein among them at first, thought the universe had always existed and stayed the same. The steady state idea kept this even after galaxies were found to move apart. The leftover glow, found in 1965, showed the universe really had a hot beginning."
+  "wrong_idea": "Most scientists, Einstein among them at first, thought the universe had always existed and stayed the same. The steady state idea kept this even after galaxies were found to move apart. The leftover glow, found in 1965, showed the universe really had a hot beginning.",
+  "context": "Has the universe always been the same, or did it have a beginning? This card tells the true story of scientists who changed their minds over many years."
  }
 }

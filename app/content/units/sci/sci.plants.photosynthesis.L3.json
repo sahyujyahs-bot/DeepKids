@@ -3941,14 +3941,21 @@
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "The boy Bhrigu searches for what everything comes from. First he finds: food. From food all beings are born, by food they live, and into food they return.",
     "link": "Almost all food begins as sugar made in a leaf. Food links the Sun, the plant and you in one chain.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Tattvartha Sutra 5.21",
     "teaching": "This Jain teaching says that living beings support one another.",
     "link": "Plants give us oxygen and food. We give them carbon dioxide to build with. We keep each other alive.",
-    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse": [
+     "परस्परोपग्रहो जीवानाम्"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3988,7 +3995,8 @@
   "story": "For about 2,000 years, most people believed that plants eat soil. In the first half of the 1600s, Jan Baptist van Helmont, a doctor in what is now Belgium, tested this. He dried and weighed 200 pounds of soil, about 91 kilograms, and planted a willow that weighed about 2 kilograms. For five years he gave the tree only rainwater, and covered the pot so that dust could not fall in. The willow grew to about 77 kilograms. The soil had lost only about 60 grams. So the tree was not made of soil. Van Helmont decided that the willow was made of water. That was only partly right, because he did not know that air holds a gas plants can use. In 1771, Joseph Priestley in England found that a sprig of mint could make used-up air fit for a candle again. In 1779, Jan Ingenhousz showed that only the green parts of a plant do this, and only in light. In 1804, Nicolas-Théodore de Saussure weighed plants and the air around them with great care. He showed that plants gain weight by taking in carbon dioxide as well as water.",
   "who": "Jan Baptist van Helmont; Joseph Priestley; Jan Ingenhousz; Nicolas-Théodore de Saussure",
   "when": "The first half of the 1600s (the willow, published in 1648); 1771 (Priestley's mint); 1779 (Ingenhousz); 1804 (de Saussure)",
-  "wrong_idea": "Plants are made of the soil they grow in. Van Helmont's weighed pot showed that the soil hardly changed. His own idea, that the tree was made only of water, was shown wrong when de Saussure found that plants also build with carbon dioxide from the air."
+  "wrong_idea": "Plants are made of the soil they grow in. Van Helmont's weighed pot showed that the soil hardly changed. His own idea, that the tree was made only of water, was shown wrong when de Saussure found that plants also build with carbon dioxide from the air.",
+  "context": "What are plants made of, and where does it come from? This card tells the true story of scientists who spent over two hundred years finding out."
  },
  "playtest": "Walked through as a parent and child would, in a city flat. Games: Leaf Kitchen has all 48 ingredient cards and 20 weather and life cards written out; I made the NEW LEAF card do something (a leaf for 1 sugar, as it did nothing before), made NIGHT stop trading as well as cost sugar, said what happens when a pile or the sugar runs out, fixed the coin count to 7 per player, and made the win end on a full round. Photon Relay needed too many people and a stuck ending: the rules now say who plays what with 2, 3 or more players, a round ends when all its batons are in the warmth bucket, the 15 batons are split into a 9-baton round and a 6-baton cloud round, the mongoose sits down and the fungus returns the carbon, and the energy sheet no longer asks a question whose answer is always the same. Experiments: The Rising Leaf Discs had a duplicate glasses line, no straw, uneven piles of discs (20 and 10 instead of 10, 10, 10) and no top-up so the cups were nearly empty; The Starch Picture now cuts two matching shapes, one for each side of the leaf, and lists the sugar, salt and small cup used in the practice; Count the Bubbles uses a box for the dark count instead of curtains. Fire and outdoor work stays outside the core path (Burn It Back to Air is an extra). Cut two weak jokes (8 remain), two quiz questions that repeated the experiment checks word for word, and replaced the bubble-count maths question that repeated the experiment's own bar chart with a rate question. A second Kavya became Meena. The story clue is now called made up wherever it was used as evidence. Added a Bengal fish meal, a Gujarati thepla, poha and bamboo for rule 28 and fixed the one sentence that called a fungus \"it\". The three video check notes and the sources list are internal and not shown to families; I could not open the videos again, so they are as the earlier checker left them."
 }

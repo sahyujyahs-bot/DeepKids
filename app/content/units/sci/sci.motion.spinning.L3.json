@@ -2807,14 +2807,18 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at one hub. It is the empty space in the middle that makes the wheel useful.",
     "link": "A wheel's hub is where the axle goes. The middle of a wheel hardly moves, yet the whole wheel turns around it.",
-    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.164.11",
     "teaching": "The wheel of order, with twelve spokes, rolls round the sky and never wears out.",
     "link": "The old poets saw the turning of the year as a wheel. Today we know the Earth itself spins and circles the Sun, and it has kept turning for billions of years because almost nothing in space rubs it to a stop.",
-    "verse": ["द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"],
+    "verse": [
+     "द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2859,6 +2863,7 @@
   "story": "For about two thousand years, many teachers in Europe and the Middle East followed Aristotle, a Greek thinker. He taught that a moving thing needs something pushing it all the time. So why does a thrown stone keep flying after it leaves your hand? Many of his followers said the air rushes round behind it and pushes it along. Around 1350, Jean Buridan, a teacher at the University of Paris, asked a simple question about a spinning top and a smith's grinding wheel. Both keep turning for a long time after the push. Yet neither one moves from its place. There is no gap behind them for air to rush into. So the air cannot be what keeps them going. Buridan said the push puts something into the moving thing itself. He called it impetus. He said it would last for ever, if the air and the rubbing did not slowly take it away. About 300 years later, Isaac Newton made this into his first law of motion: a moving thing keeps moving until a force changes it.",
   "who": "Jean Buridan, a French teacher at the University of Paris, and later Isaac Newton, an English scientist",
   "when": "Around 1350 (Buridan) and 1687 (Newton's laws of motion)",
-  "wrong_idea": "People thought moving things need a push all the time, and that the air pushes a thrown stone along. Buridan pointed out that a spinning top keeps turning in one place, where air cannot rush in behind it. So the motion must be carried by the top itself."
+  "wrong_idea": "People thought moving things need a push all the time, and that the air pushes a thrown stone along. Buridan pointed out that a spinning top keeps turning in one place, where air cannot rush in behind it. So the motion must be carried by the top itself.",
+  "context": "Why does a spinning top keep spinning, and why does anything keep moving? This card tells the true story of a teacher in Paris who questioned an old idea."
  }
 }

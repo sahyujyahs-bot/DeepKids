@@ -490,21 +490,30 @@
     "source": "Tao Te Ching 42",
     "teaching": "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
     "link": "One even start splits into two sides, and the many things come after. A flat strip becomes a bend to one side, and a ball of cells becomes a body with a left and a right.",
-    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse": [
+     "道生一，一生二，二生三，三生萬物。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.2.1 to 6.2.3",
     "teaching": "In the beginning there was only Being, one without a second. Being thought, 'May I become many.'",
     "link": "An even beginning is one. The many different shapes and sides come later. Symmetry breaking is the science of how one even start can become many different things.",
-    "verse": ["सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम्", "तदैक्षत", "बहु स्यां प्रजायेयेति"],
+    "verse": [
+     "सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम्",
+     "तदैक्षत",
+     "बहु स्यां प्रजायेयेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Aristotle, On the Heavens 2.13, reporting the thinker Anaximander",
     "teaching": "Anaximander is reported to have said that the Earth stays still because it is equally far from everything, so it has no reason to move one way rather than another.",
     "link": "Anaximander argued from symmetry: with no reason to go one way, nothing moves. In the Pushed Strip experiment the pushes were equal, yet the strip still bent, because a tiny difference decided the side.",
-    "verse": ["εἰσὶ δέ τινες οἳ διὰ τὴν ὁμοιότητά φασιν αὐτὴν μένειν, ὥσπερ τῶν ἀρχαίων Ἀναξίμανδρος", "μᾶλλον μὲν γὰρ οὐθὲν ἄνω ἢ κάτω ἢ εἰς τὰ πλάγια φέρεσθαι προσήκειν τὸ ἐπὶ τοῦ μέσου ἱδρυμένον καὶ ὁμοίως πρὸς τὰ ἔσχατα ἔχον"],
+    "verse": [
+     "εἰσὶ δέ τινες οἳ διὰ τὴν ὁμοιότητά φασιν αὐτὴν μένειν, ὥσπερ τῶν ἀρχαίων Ἀναξίμανδρος",
+     "μᾶλλον μὲν γὰρ οὐθὲν ἄνω ἢ κάτω ἢ εἰς τὰ πλάγια φέρεσθαι προσήκειν τὸ ἐπὶ τοῦ μέσου ἱδρυμένον καὶ ὁμοίως πρὸς τὰ ἔσχατα ἔχον"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3229,7 +3238,8 @@
   "story": "For decades, almost every physicist believed that no law of nature could tell left from right. If you filmed any experiment in a mirror, they thought, the mirror film would obey the same laws. This was true for gravity, electricity and magnetism. In 1956, two theorists, Tsung-Dao Lee and Chen-Ning Yang, noticed that nobody had ever tested it for the weak force. The weak force is the force behind some atoms slowly falling apart and throwing out tiny particles. They needed an experimenter. Chien-Shiung Wu, working with a team at the United States National Bureau of Standards, cooled radioactive cobalt almost to absolute zero, the coldest temperature there can be. She did this inside a magnet, so the atoms lined up. Then the team counted the electrons thrown out in each direction. More came out one way than the other. A mirror film of the experiment would show the opposite, so the mirror world was not the same as ours. The result was published in 1957. Lee and Yang received the Nobel Prize that year. Wu was not included.",
   "who": "Chien-Shiung Wu, an experimental physicist (1912 to 1997), with Ernest Ambler and colleagues, testing an idea of Tsung-Dao Lee and Chen-Ning Yang",
   "when": "1956 to 1957",
-  "wrong_idea": "Physicists believed that every law of nature looks the same in a mirror. Wu's experiment showed that the weak force does not."
+  "wrong_idea": "Physicists believed that every law of nature looks the same in a mirror. Wu's experiment showed that the weak force does not.",
+  "context": "Do the laws of nature look the same in a mirror? This card tells the true story of a scientist who did an experiment to find out."
  },
  "playtest": "Walked through as a parent and child in a city flat would do it, but not yet tried at home. Fit-Back Count: the six shapes need only card, scissors, a ruler and a protractor or thread. The equal-sided triangle is the fiddly one, so a grown-up should make it. Letters must be written on both sides so a flip can be told from a turn. Expected counts: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. Pushed Strip: card from a cereal box, 20 centimetres long and 2 centimetres wide, buckles easily. A flattened strip often goes mostly one way, and that is a good result, not a failure. Turning strip A over shows whether the strip or the hands decide. Two Mirrors needs two flat mirrors with the edges taped. Counting at small angles is hard, so count the clear ones. To verify before use: the years and names in the Noether, Wu, Shechtman and Fedorov and Polya parts, the claim about the flounder and barn owl, the Murchison meteorite excess, and the 2007 Islamic tiling paper. The YouTube ids marked find-id still need to be found."
 }

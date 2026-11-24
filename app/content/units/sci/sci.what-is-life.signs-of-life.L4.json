@@ -476,14 +476,23 @@
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "The Upanishad says that beings are born from food, live by food, and in the end return to food.",
     "link": "A sprout, a coconut palm and a child all build their bodies from what they take in, and one day their bodies become food and soil for others.",
-    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse": [
+     "अन्नं ब्रह्मेति व्यजानात्",
+     "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते",
+     "अन्नेन जातानि जीवन्ति",
+     "अन्नं प्रयन्त्यभिसंविशन्तीति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment 30 (Diels and Kranz numbering)",
     "teaching": "Heraclitus, a Greek thinker of about 500 BCE, said that the world has always been an ever-living fire, kindling in measures and going out in measures.",
     "link": "A flame keeps its shape while its fuel keeps changing. A living body does this too, and she also rebuilds herself while she does it.",
-    "verse": ["κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,", "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον", "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"],
+    "verse": [
+     "κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,",
+     "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον",
+     "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"
+    ],
     "verse_lang": "grc"
    },
    {
@@ -2976,7 +2985,8 @@
   "story": "In 1892, a Russian scientist named Dmitri Ivanovsky was studying a disease of tobacco plants. At that time, everyone believed that all germs were bacteria, small living cells that a fine porcelain filter could catch. Ivanovsky squeezed the sap of sick plants through such a filter. The clear sap that came through still made healthy plants sick. In 1898, a Dutch scientist, Martinus Beijerinck, repeated this and said the cause was a new kind of tiny thing, a 'living liquid'. Then, in 1935, an American, Wendell Stanley, ground up about a tonne of sick leaves and purified the juice until it formed needle-shaped crystals. When he dissolved the crystals and rubbed them on healthy leaves, the leaves got sick. A crystal can infect a leaf. In the 1950s, Rosalind Franklin used X-rays in London to show that the virus is a hollow rod of protein, with the virus's instructions wound inside. So germs did not have to be bacteria, and a thing could be both a crystal and a source of disease.",
   "who": "Dmitri Ivanovsky, Martinus Beijerinck, Wendell Stanley and Rosalind Franklin",
   "when": "1892, 1898, 1935 and the 1950s",
-  "wrong_idea": "That every germ must be a bacterium, a small living cell big enough to be caught in a fine filter, and that a crystal could never also be a source of disease."
+  "wrong_idea": "That every germ must be a bacterium, a small living cell big enough to be caught in a fine filter, and that a crystal could never also be a source of disease.",
+  "context": "Is a germ always a living cell, and can something that looks like a crystal cause illness? This card tells the true story of scientists who studied a disease of tobacco plants."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Beetroot Bleed (spine): the colours are the usual result in school practicals. Glasses A and B stay clear to very pale pink, glass C goes pink, and glass D goes deep red within minutes. A grown-up must pour the hot water and cut the beetroot. If every glass looks alike, the cubes were too small or not rinsed, and the steps say what to do. Staying Warm: it needs a room cooler than the child, around 28 to 30 degrees Celsius. In a very hot room the water falls less, so the steps say to find the coolest room. A fever thermometer reads only about 32 to 43 degrees, so the water must be a warm bath and no hotter. Wrap the tip in cling film if it is not made for water. The sock slows the cooling by a few degrees but does not stop it. Waking Up: it needs seeds of a few different ages. A shop's old stock may have been heated, so a group may not sprout at all, and the steps say that is a result too. Cut It Up: money plant cuttings usually root in one to three weeks, so the day 10 look may show only the first white roots. A sprouting potato is poisonous to eat, and the project says so. Fool the Test is a card game that can be played alone, and each card was checked against the text of the explanations. Facts to check before the unit goes live: that Wendell Stanley used about a tonne of tobacco leaves in 1935, that Rosalind Franklin's tobacco mosaic virus papers are 1955 and 1956, that the sacred lotus seed is about 1,300 years old, the 30-year tardigrade, the 473 and 149 gene numbers for the minimal cell, that the NASA definition came from a 1990s group reported by Gerald Joyce, the fragment number for Heraclitus, and the exact passage number of the Taittiriya Upanishad. The videos have no address yet, and the National Gene Bank and museum links need an address check. Not repeated from the Class 3 unit: the seed and boiled seed test, the yeast balloon, the shy plant, the seven signs trial, Bose's story and the Redi and Pasteur story."
 }

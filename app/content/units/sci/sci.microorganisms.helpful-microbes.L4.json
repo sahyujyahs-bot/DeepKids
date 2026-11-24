@@ -434,7 +434,13 @@
     "source": "Chandogya Upanishad 6.13",
     "teaching": "A father asks his son to put salt in water, and to bring the water back the next morning. The salt cannot be seen. But the father asks the son to taste the water from the top, the middle and the bottom, and it is salty everywhere. The father teaches that something unseen can be in everything.",
     "link": "You cannot see the microbes in batter, but you know they are there because of what they do: the bubbles, the sour smell and the rise. Something you cannot see can still be there.",
-    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse": [
+     "लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति",
+     "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति",
+     "तद्धावमृश्य न विवेद",
+     "मध्यादाचामेति । कथमिति । लवणमिति",
+     "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -2804,7 +2810,8 @@
   "story": "For thousands of years, people made bread, curd and wine without knowing how it worked. In the 1830s, many scientists, including the famous German chemist Justus von Liebig, taught that fermentation was just chemistry. They said sugar fell apart as it rotted, and no living thing was needed. Louis Pasteur, a French chemist, did not agree. In 1857 he looked at fermenting milk under a microscope and saw tiny living things, which he said made the acid. In 1860 he showed that yeast cells grew and multiplied as sugar fermented. Then he boiled a sugar broth in a flask with a long, curved neck. Dust and microbes could not climb in, and the broth stayed clear for months. When he tipped the neck, microbes arrived and the broth turned cloudy. This showed that fermentation needs living microbes.",
   "who": "Louis Pasteur, a French chemist (1822 to 1895)",
   "when": "1857 to 1861",
-  "wrong_idea": "Many scientists thought fermentation was only chemistry, a kind of rotting with nothing alive in it. Pasteur showed that it stopped when the microbes were killed, and began again when they were let back in."
+  "wrong_idea": "Many scientists thought fermentation was only chemistry, a kind of rotting with nothing alive in it. Pasteur showed that it stopped when the microbes were killed, and began again when they were let back in.",
+  "context": "What really happens when batter ferments and bread rises? This card tells the true story of a scientist in France who found out that tiny living things are doing the work."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Yeast Balloon: the cold bottle stays in the fridge, because a bottle left on the counter would warm up and catch up. The quantities (200 millilitres, one teaspoon of yeast and two of sugar) and the 40 minutes are from the usual home version of this test, and the balloon sizes in the maths question are a made-up example, not measured. Curd Test: in a hot kitchen cups A and B may look alike, so the steps say to write exactly what you see. Cup D is never tasted. Make Idli: the soak, grind, rest and steam times follow a standard home recipe. The batter must be ground at least 8 hours before steaming. The videos have no address yet. Feasibility review: balloon sizes and the time to start swelling (about 15 to 20 minutes) are typical and not promised; family trials are still needed for the yeast quantities, the oven-light warmth and the curd timings. Facts were read against the sources list, and two details should be checked by a person before the unit goes live: that the oven light alone keeps a typical home oven near 35 to 40 degrees, and the Hindustan Antibiotics start year (1954)."
 }

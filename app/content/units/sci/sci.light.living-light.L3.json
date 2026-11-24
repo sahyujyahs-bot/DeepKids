@@ -3387,14 +3387,21 @@
     "source": "Katha Upanishad 2.2.15 (also Mundaka Upanishad 2.2.10)",
     "teaching": "There the Sun does not shine, nor the Moon and stars, nor lightning, let alone this fire. When That shines, everything shines after it. By its light, all this is lit.",
     "link": "The verse says every light we see shines by a light behind it. In this lesson, a firefly's flash is energy that came from the Sun, through plants and food. Science can follow that chain back to the Sun. The verse asks what lights even the Sun.",
-    "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
+    "verse": [
+     "न तत्र सूर्यो भाति न चन्द्रतारकं",
+     "नेमा विद्युतो भान्ति कुतोऽयमग्निः",
+     "तमेव भान्तमनुभाति सर्वं",
+     "तस्य भासा सर्वमिदं विभाति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "The Buddha, speaking to Ananda near the end of his life, in the Mahaparinibbana Sutta (Digha Nikaya 16)",
     "teaching": "Be a lamp for yourselves. Be a refuge for yourselves. The Pali word 'dipa' can mean both lamp and island, and scholars translate it both ways.",
     "link": "A firefly does not borrow their light from the Sun or the Moon. They make it in their own body. The Buddha asked people to find their way by their own understanding, not by leaning on others.",
-    "verse": ["Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā."],
+    "verse": [
+     "Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā."
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -3429,7 +3436,8 @@
   "story": "For thousands of years, people saw rotting wood and old fish glowing in the dark. Many thought the glow was a slow, cool kind of fire, or sunlight the wood had stored. In the 1660s, the English scientist Robert Boyle tested it. He put glowing wood inside a glass jar and pumped the air out. The glow faded away. When he let the air back in, the glow came back. So the light needed air, as a flame does. But the wood stayed cold, and nothing was burning. Later, scientists found that the glow came from fungi living in the wood. In the 1880s, the French scientist Raphael Dubois took the glowing parts of a click beetle. He soaked some in cold water. That liquid glowed for a while, then went dark. He soaked others in very hot water, which stopped the glow at once. Then he mixed the two dark liquids, and the light came back. The heat had destroyed a helper chemical but left the fuel unharmed. He named the fuel luciferin and the helper luciferase. Living light was chemistry.",
   "who": "Robert Boyle, then Raphael Dubois",
   "when": "the 1660s and the 1880s",
-  "wrong_idea": "Glowing wood was burning with a slow fire, or giving back stored sunlight. Boyle showed the glow needed air but gave no heat, and Dubois showed it came from two chemicals that make light together with oxygen."
+  "wrong_idea": "Glowing wood was burning with a slow fire, or giving back stored sunlight. Boyle showed the glow needed air but gave no heat, and Dubois showed it came from two chemicals that make light together with oxygen.",
+  "context": "How can a living thing glow in the dark, like a firefly or rotting wood? This card tells the true story of scientists who tested glowing things to find out."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family would, with 2 players and with 4 for the games. Flash and Answer was rebuilt: the old 2-player set could deal two tricksters and leave nobody to flash, tricksters had no way to know the flash code, and 2 event cards could not cover 2 rounds. Now each trickster card prints the flash it copies, the 2-player set is A, A, B, B and one trickster, there are 3 rounds with the event cards reshuffled, 30 tokens, and every card is front and back. Deep Dark Sea cards now hide the job on the back so guessing the job is the game, the pile is reshuffled once, and the game stops when it runs out a second time, so a 4-player game cannot stall; the duplicate hatchetfish check in its step was dropped because The Vanishing Fish already asks that question. The glow stick test was split so day 1 and day 2 match the schedule minutes (16 and 7), with the overnight look as its own step; the fridge result is marked as usual, not certain. Star test now says to wait an hour. Shoebox Deep Sea uses black paper (paint cannot dry in 8 minutes) and glow stars first. The Vanishing Fish depends on thin paper over a dim screen, so a tip says what to change if it does not vanish. Deep Sea Theatre notes that a glow stick is too bright to really hide. Light the Path points the open torch at the ceiling, because a torch beam alone does not flood a room. In the firefly count project the ask-an-elder step now comes on day 2, before the chart on day 3, and the minutes add up to 65 with the nightly count repeated. Removed internal notes (the buy why lines), two buy books that no step uses, two weak jokes (8 left), and repeated questions: anglerfish lure, hatchetfish hiding, glow stick in warm water, Dubois, Brazilian mushrooms, mushrooms plain by day, and the Meghalaya discovery question, each kept in one place. Added Hindi and Tamil names for the firefly. Opened the three videos on YouTube; their titles were updated to match. Not checked: the Nehru Science Centre and Visvesvaraya museum descriptions were shortened because their galleries were not verified, and the glow-in-the-dark star and fridge glow stick results depend on the brand.",
  "warm": {
