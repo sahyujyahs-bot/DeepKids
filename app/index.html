@@ -6583,6 +6583,18 @@ header.top #backTop {
 .fxpage:has(.fxpart.open) {
   padding-bottom: 45dvh;
 }
+.fxclock {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  padding: 6px 12px;
+  text-align: center;
+  font-size: var(--fs-2);
+  font-weight: 700;
+  color: var(--muted);
+  background: var(--surface);
+  border-bottom: 1px solid var(--rule);
+}
 .fxhd {
   position: relative;
   max-width: 1180px;
@@ -6913,16 +6925,6 @@ header.top #backTop {
 .fxbige {
   font-size: 84px;
   line-height: 1;
-}
-.fxnext {
-  display: grid;
-  gap: 4px;
-  width: 100%;
-  padding: 12px 16px;
-  text-align: left;
-  background: var(--surface);
-  border-radius: 16px;
-  box-shadow: var(--shadow);
 }
 .fxgo {
   background: var(--forest);
@@ -15249,7 +15251,7 @@ function fxCards(u) {
         const h = u.how_we_found_out;
         add(
           "how_we_found_out",
-          `<div class="fxtxt"><span class="fxeb">🕰️ How we found out</span><p>${esc(h.story)}</p><p class="fxsm"><b>What people believed before:</b> ${esc(h.wrong_idea)}</p></div>`,
+          `<div class="fxtxt"><span class="fxeb">🕰️ How we found out</span><p class="fxsm">${esc(h.context || `This is about: ${u.title}`)}</p><p>${esc(h.story)}</p><p class="fxsm"><b>What people believed before:</b> ${esc(h.wrong_idea)}</p></div>`,
           h.story,
         );
         break;
@@ -15551,10 +15553,6 @@ const fxGroup = (k) =>
     roots: "roots",
   })[k] || "extra";
 const fxKC = (k) => FXKC[fxGroup(k)];
-const fxPill = (k) => {
-  const [n, e, c] = fxKC(k);
-  return `<span class="fxkp" style="--kc:${c}">${e} ${n}</span>`;
-};
 let FXSI = -1,
   FXALL = [],
   FXTICK = null;
@@ -15618,7 +15616,17 @@ async function fxOpen(id, straightIn) {
     Dy[today] = (Dy[today] || 0) + 5;
     addMins(unitBy("unit|" + u.id)?.subj, 5);
     if (T[k] % 30 === 0) fxLogSession(u.id);
+    const c = d.querySelector(".fxclock");
+    if (c) c.textContent = fxClock(u);
   }, 5000);
+}
+// the unit's clock, always on screen at the top of the unit: time spent, parts done, time planned
+function fxClock(u) {
+  const SL = FXALL.sections,
+    T = fxSt().time[u.id] || {},
+    spent = Object.values(T).reduce((a, b) => a + b, 0),
+    done = SL.filter((s) => fxSecState(u, s) === "done").length;
+  return `⏱️ ${fxMin(spent)} · ${done} of ${SL.length} parts done · ${SL.reduce((a, s) => a + s.mins, 0)} min planned`;
 }
 const fxMin = (s) => (s < 60 ? (s ? "under a minute" : "not started") : Math.round(s / 60) + " min");
 function fxSecState(u, s) {
@@ -15676,7 +15684,7 @@ function fxDraw(open, cards) {
       : `<li class="fxpart ${st}" data-s="${i}" style="--kc:${kc}"><button class="fxph" data-fx="sec" data-s="${i}" aria-expanded="false">${head}</button></li>`;
   };
   const d =
-    fxShow(`<div class="fxpage"><header class="fxhd"><button class="fxround" data-fx="close" aria-label="Close this unit">${icon("close")}</button><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}</div>
+    fxShow(`<div class="fxpage"><div class="fxclock" role="status">${fxClock(u)}</div><header class="fxhd"><button class="fxround" data-fx="close" aria-label="Close this unit">${icon("close")}</button><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}</div>
     <div class="fxtitle"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><span class="fxlab">About this unit</span><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
     <div class="fxtiles"><span><b>${SD}</b>${it ? "session" : "day"}${SD === 1 ? "" : "s"}</span><span><b>${SL.length}</b>parts</span><span><b>${done}</b>done</span>${fxStar()}</div>${ref ? `<p class="fxmeta">${esc(ref)}</p>` : ""}</div></header>
     <div class="fxcols"><div class="fxcol">${fxLearn(u)}${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
@@ -15700,14 +15708,27 @@ function fxUnwatch() {
   FXOBS = [];
   clearTimeout(FXENDT);
 }
-// the unit's page with every part folded; after folding a part away, its row stays in view
+// where a part's row sits on screen, so a redraw of the page can put it back in the same place and nothing jumps
+function fxRowTop(si) {
+  const pg = document.querySelector(".fxpage"),
+    r = pg?.querySelector(`.fxpart[data-s="${si}"]`);
+  return pg && r ? r.getBoundingClientRect().top - pg.getBoundingClientRect().top : null;
+}
+// after a redraw, move the page so the row is where it was (place); with no earlier place, bring it to the top
+function fxHoldRow(row, place) {
+  const pg = row.closest(".fxpage");
+  if (place == null) row.scrollIntoView({ block: "start" });
+  else pg.scrollTop += row.getBoundingClientRect().top - pg.getBoundingClientRect().top - place;
+}
+// the unit's page with every part folded; after folding a part away, its row stays where it was
 function fxMap() {
-  const was = FXSI;
+  const was = FXSI,
+    place = fxRowTop(was);
   FXSI = -1;
   fxUnwatch();
   voxCtl("stop");
   const d = fxDraw(-1, "");
-  if (was >= 0) d.querySelector(`.fxpart[data-s="${was}"]`)?.scrollIntoView({ block: "center" });
+  if (was >= 0) fxHoldRow(d.querySelector(`.fxpart[data-s="${was}"]`), place);
   else d.querySelector(".fxpage").scrollTop = 0;
 }
 // unfold part `si` in place, with its cards in one column, and go to card `ci`
@@ -15717,16 +15738,15 @@ function fxShowSection(si, ci) {
   const u = FXU,
     F = fxSt(),
     SL = FXALL.sections,
-    s = SL[si];
+    s = SL[si],
+    place = fxRowTop(si);
   if (!s) return fxMap();
   FXSI = si;
   fxUnwatch();
-  const T = F.time[u.id]?.[s.id] || 0,
-    nx = SL[si + 1],
-    body = FXALL.filter((c) => c.sec === s.id);
+  const body = FXALL.filter((c) => c.sec === s.id);
   const end = {
     key: "end." + s.id,
-    html: `<div class="fxtxt fxlead">${fxStar()}<h2>${FXDO.includes(s.kind) ? "Did you do it" : "Done"}: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ ${T ? `You took ${fxMin(T)} (planned ${s.mins} min)` : `Planned: ${s.mins} min`}</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow">${FXDO.includes(s.kind) ? `<button class="fxb fxgo" data-fx="did" data-id="${esc(s.id)}">✔ We did it</button>` : ""}<button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
+    html: `<div class="fxtxt fxlead">${fxStar()}<h2>${FXDO.includes(s.kind) ? "Did you do it" : "Done"}: ${esc(s.title)}</h2>${SL[si + 1] ? "" : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow">${FXDO.includes(s.kind) ? `<button class="fxb fxgo" data-fx="did" data-id="${esc(s.id)}">✔ We did it</button>` : ""}<button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
   };
   FXCARDS = [...body, end];
   const last = FXCARDS.length - 1,
@@ -15759,13 +15779,12 @@ function fxShowSection(si, ci) {
       if (!e.isIntersecting || FXDO.includes(s.kind)) return;
       FXENDT = setTimeout(() => {
         const F2 = fxSt(),
-          D = (F2.done[u.id] = F2.done[u.id] || {}),
-          t = e.target.querySelector("[data-fx-time]");
+          D = (F2.done[u.id] = F2.done[u.id] || {});
         at(last);
-        if (t) t.textContent = `⏱️ You took ${fxMin(F2.time[u.id]?.[s.id] || 0)} (planned ${s.mins} min)`;
         if (!D["sec:" + s.id]) sfx?.("chime");
         D["sec:" + s.id] = 1;
         li.classList.add("done");
+        document.querySelector("#fxDlg .fxclock").textContent = fxClock(u);
         save();
       }, 1500);
     },
@@ -15774,7 +15793,7 @@ function fxShowSection(si, ci) {
   ending.observe(li.querySelector(`.fxc[data-i="${last}"]`));
   FXOBS = [reading, ending];
   if (ci > 0) li.querySelector(`.fxc[data-i="${Math.min(ci, last)}"]`)?.scrollIntoView({ block: "start" });
-  else fxScrollTo(li);
+  else fxHoldRow(li, place);
 }
 function fxGo(si, ci) {
   const r = fxShowSection(si, ci),

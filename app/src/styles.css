@@ -6577,6 +6577,18 @@ header.top #backTop {
 .fxpage:has(.fxpart.open) {
   padding-bottom: 45dvh;
 }
+.fxclock {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  padding: 6px 12px;
+  text-align: center;
+  font-size: var(--fs-2);
+  font-weight: 700;
+  color: var(--muted);
+  background: var(--surface);
+  border-bottom: 1px solid var(--rule);
+}
 .fxhd {
   position: relative;
   max-width: 1180px;
@@ -6907,16 +6919,6 @@ header.top #backTop {
 .fxbige {
   font-size: 84px;
   line-height: 1;
-}
-.fxnext {
-  display: grid;
-  gap: 4px;
-  width: 100%;
-  padding: 12px 16px;
-  text-align: left;
-  background: var(--surface);
-  border-radius: 16px;
-  box-shadow: var(--shadow);
 }
 .fxgo {
   background: var(--forest);
