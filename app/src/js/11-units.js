@@ -637,7 +637,7 @@ function fxCards(u) {
         const h = u.how_we_found_out;
         add(
           "how_we_found_out",
-          `<div class="fxtxt"><span class="fxeb">🕰️ How we found out</span><p class="fxsm">${esc(h.context || `This is about: ${u.title}`)}</p><p>${esc(h.story)}</p><p class="fxsm"><b>What people believed before:</b> ${esc(h.wrong_idea)}</p></div>`,
+          `<div class="fxtxt"><span class="fxeb">🕰️ How we found out</span><p class="fxsm">${esc(h.context || `This is about: ${u.title}`)}</p><p>${esc(h.story)}</p>${fxFresh(h.wrong_idea, h.story) ? `<p class="fxsm"><b>What people believed before:</b> ${esc(fxFresh(h.wrong_idea, h.story))}</p>` : ""}</div>`,
           h.story,
         );
         break;
@@ -646,7 +646,7 @@ function fxCards(u) {
         u.challenging.forEach((c, i) =>
           add(
             "chal." + i,
-            `${fxImg(u, "chal." + i, "")}<div class="fxtxt"><span class="fxeb">⚖️ Is this true?</span><h2>“${esc(c.claim)}”</h2>${c.context ? `<p>${esc(c.context)}</p>` : ""}<p class="fxsm">Said by: ${esc(c.who)}</p><p class="fxsm">What do you think?</p><div class="fxrow"><button class="fxb" data-fx="vote">I agree</button><button class="fxb" data-fx="vote">Not sure</button><button class="fxb" data-fx="vote">I disagree</button></div><div class="fxreveal" hidden><div class="fxvoice"><b>For</b><p>${esc(c.for)}</p></div><div class="fxvoice"><b>Against</b><p>${esc(c.against)}</p></div><p class="fxbadge">Most scientists today: ${{ accepted: "accepted", debated: "still debated", minority: "a minority view", rejected: "not true" }[c.status]}</p></div></div>`,
+            `${fxImg(u, "chal." + i, "")}<div class="fxtxt"><span class="fxeb">⚖️ Is this true?</span><h2>“${esc(c.claim)}”</h2>${c.context && !c.context.startsWith("This card is about") ? `<p>${esc(c.context)}</p>` : ""}<p class="fxsm">Said by: ${esc(c.who)}</p><p class="fxsm">What do you think?</p><div class="fxrow"><button class="fxb" data-fx="vote">I agree</button><button class="fxb" data-fx="vote">Not sure</button><button class="fxb" data-fx="vote">I disagree</button></div><div class="fxreveal" hidden><div class="fxvoice"><b>For</b><p>${esc(c.for)}</p></div><div class="fxvoice"><b>Against</b><p>${esc(c.against)}</p></div><p class="fxbadge">${{ accepted: "Most scientists today say this is right.", debated: "Scientists still argue about this.", minority: "A few scientists hold this view. Most do not.", rejected: "Most scientists today say this is wrong." }[c.status]}</p></div></div>`,
             c.claim,
           ),
         );
@@ -731,7 +731,7 @@ function fxCards(u) {
       case "applications":
         add(
           "apps",
-          `${fxImg(u, "apps", "")}<div class="fxtxt"><span class="fxeb">⚙️ Where people use it</span><ul>${u.applications.map((a) => `<li>${esc(a)}</li>`).join("")}</ul></div>`,
+          `${fxImg(u, "apps", "")}<div class="fxtxt"><span class="fxeb">⚙️ Where knowing about ${esc(fxIdeaName(u))} is used</span><ul>${u.applications.map((a) => `<li>${esc(a)}</li>`).join("")}</ul></div>`,
           u.applications.join(". "),
         );
         break;
@@ -853,7 +853,7 @@ const FXS = {
   ],
   jokes: ["Jokes", "😂", "A laugh before we go on."],
   maths: ["Maths time", "➗", "Real problems from our experiments. Each one brings its maths idea into your queue."],
-  applications: ["Where it's used", "⚙️", "Where people put this idea to work."],
+  applications: ["Real-life uses", "⚙️", "Where people put this idea to work."],
   photos: ["Real pictures", "📷", "Real photos and old drawings from free books, with who made them."],
   spotted: ["Spot it around you", "🔍", "Look for these at home and outside this week."],
   ask_kids: ["Questions for the day", "🗣️", "For the parent: drop these in at meals and on walks."],
@@ -1006,6 +1006,32 @@ async function fxOpen(id, straightIn) {
     if (c) c.textContent = fxClock(u);
   }, 5000);
 }
+// the lesson's idea in a few words, for a sentence: the title before its colon, with a small first letter ("friction", not "DNA")
+const fxIdeaName = (u) => {
+  const t = u.title.split(":")[0].trim();
+  return /^[A-Z][a-z]/.test(t) ? t[0].toLowerCase() + t.slice(1) : t;
+};
+// the sentences of `text` that tell something the other text has not already said (a card never repeats itself)
+function fxFresh(text, against) {
+  const w = (t) =>
+      new Set(
+        (
+          String(t)
+            .toLowerCase()
+            .match(/[a-z]+/g) || []
+        ).filter((x) => x.length > 2 && !FXSMALLW.test(x)),
+      ),
+    seen = w(against);
+  return String(text || "")
+    .split(/(?<=[.!?])\s+/)
+    .filter((x) => {
+      const mine = w(x);
+      return mine.size && [...mine].filter((y) => seen.has(y)).length / mine.size < 0.65;
+    })
+    .join(" ");
+}
+const FXSMALLW =
+  /^(the|and|for|that|this|with|they|them|were|was|are|had|has|but|not|you|their|there|from|when|then|than|into)$/;
 // the unit's clock, always on screen at the top of the unit: time spent, parts done, time planned
 function fxClock(u) {
   const SL = FXALL.sections,
