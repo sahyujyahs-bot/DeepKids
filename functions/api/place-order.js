@@ -77,7 +77,7 @@ export async function onRequestPost(context) {
       /* Told apart on purpose: "off" means no seller number is set, and
          is not a failure. Reporting that as false once already sent
          someone hunting for a broken send that was never attempted. */
-      whatsapp_seller: env.SELLER_WHATSAPP ? ok(waSeller) : 'off'
+      whatsapp_seller: (env.SELLER_WHATSAPP || SELLER_DEFAULT) ? ok(waSeller) : 'off'
     };
     /* Kept as well as returned, because the browser throws the response
        away and the next question is always "which bit failed?". */
@@ -173,13 +173,26 @@ async function emailSeller(env, o) {
   form.append('_captcha', 'false');
 
   const site = env.SITE_ORIGIN || 'https://deepkids.in';
+  const headers = { Origin: site, Referer: site + '/' };
+
   const res = await fetch('https://formsubmit.co/ajax/' + encodeURIComponent(to), {
-    method: 'POST',
-    headers: { Accept: 'application/json', Origin: site, Referer: site + '/' },
+    method: 'POST', headers: Object.assign({ Accept: 'application/json' }, headers),
     body: form });
   if (res.ok) return true;
   const why = await res.text().catch(() => '');
-  throw new Error('formsubmit ' + res.status + ' ' + why.slice(0, 160));
+
+  /* The /ajax/ endpoint is the one meant to be called from a page's own
+     script, and it is the fussier of the two about where a request came
+     from. The plain endpoint answers with a redirect or a page rather
+     than JSON, which is no use to a browser but perfectly fine here,
+     and it still sends the mail. Worth a second try before giving up on
+     the only channel that tells the seller anything. */
+  const plain = await fetch('https://formsubmit.co/' + encodeURIComponent(to), {
+    method: 'POST', headers: headers, body: form, redirect: 'manual' });
+  if (plain.status < 400) return true;
+
+  throw new Error('formsubmit ajax ' + res.status + ' ' + why.slice(0, 120) +
+                  ' | plain ' + plain.status);
 }
 
 /* ── The messages ────────────────────────────────────────────── */
@@ -221,10 +234,40 @@ async function sendTemplate(env, phone, params) {
 
 function whatsappCustomer(env, o) { return sendTemplate(env, o.phone, [o.name, o.ref]); }
 
-function whatsappSeller(env, o) {
-  const seller = env.SELLER_WHATSAPP;
+const SELLER_DEFAULT = '+919739815506';
+
+async function whatsappSeller(env, o) {
+  const seller = env.SELLER_WHATSAPP || SELLER_DEFAULT;
   if (!seller) return false;          // reported as 'off', not as a failure
-  return sendTemplate(env, seller, [o.name, o.ref]);
+  try {
+    return await sendTemplate(env, seller, [o.name, o.ref]);
+  } catch (err) {
+    /* The likeliest reason by far, and one Meta reports obscurely: this
+       is the same number the API sends FROM, and WhatsApp will not
+       deliver a message from a number to itself. Worth naming, rather
+       than leaving an error code to be puzzled over. One extra request,
+       and only ever on the failing path. */
+    const mine = await businessNumber(env);
+    if (mine && digits(mine) === digits(seller)) {
+      throw new Error('seller number ' + seller + ' is the WhatsApp Business ' +
+        'number this sends from; WhatsApp will not deliver a message from a ' +
+        'number to itself. A different number is needed.');
+    }
+    throw err;
+  }
+}
+
+const digits = (s) => String(s).replace(/[^\d]/g, '');
+
+async function businessNumber(env) {
+  try {
+    const res = await fetch('https://graph.facebook.com/v25.0/' +
+      env.WHATSAPP_PHONE_NUMBER_ID + '?fields=display_phone_number',
+      { headers: { Authorization: 'Bearer ' + env.WHATSAPP_ACCESS_TOKEN } });
+    if (!res.ok) return null;
+    const j = await res.json();
+    return j && j.display_phone_number;
+  } catch (e) { return null; }
 }
 
 /* ── Razorpay ────────────────────────────────────────────────── */

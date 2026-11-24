@@ -87,9 +87,38 @@ console.log('  success    ', r.success, '(order still placed)');
 console.log('  delivered  ', JSON.stringify(r.delivered));
 console.log('  why        ', JSON.stringify(r.why));
 
-/* 8. No seller number configured reads as off, not as a failure */
-head('No SELLER_WHATSAPP set');
+/* 8. With no env var set, the built-in seller number is used */
+head('No SELLER_WHATSAPP set — falls back to the number in code');
 globalThis.fetch = async () => ({ ok: true, status: 200, text: async () => '', json: async () => ({}) });
 delete env.SELLER_WHATSAPP;
 r = await (await post({ ...customer, payment: 'cod', items: [{ sku: 'EG-001', qty: 1 }] })).json();
+console.log('  delivered  ', JSON.stringify(r.delivered), '(seller still notified)');
+
+/* 9. The seller number being the business number is named, not left as a code */
+head('Seller number is the number WhatsApp sends from');
+env.SELLER_WHATSAPP = '+919739815506';
+globalThis.fetch = async (url) => {
+  const u = String(url);
+  if (u.includes('/messages')) {
+    // Meta refuses the seller send; the customer send is the first call
+    return seen++ === 0
+      ? { ok: true, status: 200, text: async () => '', json: async () => ({}) }
+      : { ok: false, status: 400, text: async () => '{"error":{"code":131021}}', json: async () => ({}) };
+  }
+  if (u.includes('display_phone_number'))
+    return { ok: true, status: 200, json: async () => ({ display_phone_number: '+91 97398 15506' }) };
+  return { ok: true, status: 200, text: async () => '', json: async () => ({}) };
+};
+let seen = 0;
+r = await (await post({ ...customer, payment: 'cod', items: [{ sku: 'EG-001', qty: 1 }] })).json();
 console.log('  delivered  ', JSON.stringify(r.delivered));
+console.log('  why        ', (r.why && r.why.whatsapp_seller || '').slice(0, 120));
+
+/* 10. FormSubmit's ajax endpoint refusing falls back to the plain one */
+head('FormSubmit /ajax/ refuses, plain endpoint accepts');
+globalThis.fetch = async (url) => String(url).includes('formsubmit.co/ajax/')
+  ? { ok: false, status: 403, text: async () => 'nope', json: async () => ({}) }
+  : { ok: true, status: 302, text: async () => '', json: async () => ({}) };
+r = await (await post({ ...customer, payment: 'cod', items: [{ sku: 'EG-001', qty: 1 }] })).json();
+console.log('  email      ', r.delivered.email, '(expect true — sent via the fallback)');
+console.log('  why        ', JSON.stringify(r.why));
