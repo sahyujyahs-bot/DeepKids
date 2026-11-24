@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+# Internal tools and dead ends — no reason for a crawler to spend
+# its budget here.
+Disallow: /inbox
+Disallow: /order-confirmed
+
 Sitemap: https://deepkids.in/sitemap.xml
