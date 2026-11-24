@@ -72,9 +72,9 @@ SUBI = {x['id']: i for i, x in enumerate(SUBL)}   # curriculum order
 data['units'] = {}
 import re, importlib.util as _iu
 _sp = _iu.spec_from_file_location('c3d', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'c3_daily.py')); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); C3D = _m.X   # NCERT Class 3 chapter extras (jokes and more)
-FXORDER = ("intro", "activities", "experiments", "terms", "explanations", "videos", "how_we_found_out", "story", "games", "worksheets", "quiz", "agreed", "applications", "maths", "projects", "challenges", "challenging", "big_questions", "open_questions", "roots", "spotted", "ask_kids", "photos", "models", "jokes", "song", "links", "buy")
+FXORDER = ("intro", "activities", "experiments", "terms", "explanations", "videos", "how_we_found_out", "story", "games", "worksheets", "quiz", "applications", "maths", "projects", "challenges", "big_questions", "open_questions", "challenging", "roots", "spotted", "ask_kids", "photos", "models", "jokes", "song", "links", "buy")
 FLOWK = ("games", "experiments", "activities", "projects", "challenges")
-PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "agreed": "What we know for sure", "how_we_found_out": "How we found out",
+PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "how_we_found_out": "How we found out",
         "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
         "jokes": "Jokes", "maths": "Maths", "applications": "Where people use it", "photos": "Real pictures", "spotted": "Spot it around you",
         "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "Things that help"}
@@ -86,7 +86,7 @@ CHECK_T = ("mcq", "truefalse", "fill")   # the item types the app checks and rec
 def unit_parts(u):
     """The unit's parts in the order the app's feed shows them (mirrors fxCards/fxSecMeta in the app), each as
     [id, title, kind, minutes, questions the app checks, days it runs, key prefix of those questions]."""
-    order = list(u['plan']['default_order'])
+    order = [o for o in u['plan']['default_order'] if o != 'agreed']   # what we know for sure is folded into how it really works
     if u.get('roots') and 'roots' not in order: order.append('roots')
     if u.get('how_we_found_out') and 'how_we_found_out' not in order: order.append('how_we_found_out')
     for k in ("videos", "jokes", "maths", "applications", "photos", "spotted", "ask_kids", "song", "links", "buy"):
@@ -107,7 +107,7 @@ def unit_parts(u):
             mats = [[m, '', ''] if isinstance(m, str) else [m.get('item', ''), str(m.get('qty', '')), bl.get(m.get('buy'), '')] for m in x.get('materials', [])]
             out.append([o, x['title'], k, x.get('mins') or 10, req, x.get('days') or 1, pre, links, sched, mats]); continue
         if o not in PLAB or not u.get(o): continue
-        m = {"story": u['story'].get('mins', 10), "terms": round(u.get('cards_mins', 20) / 2), "explanations": 12, "quiz": len(u['quiz']), "big_questions": 10,
+        m = {"story": u['story'].get('mins', 10), "terms": round(u.get('cards_mins', 20) / 2), "explanations": 15 if u.get('agreed') else 12, "quiz": len(u['quiz']), "big_questions": 10,
              "challenging": 8, "videos": sum(v.get('mins', 0) for v in u['videos']), "roots": (u['roots'].get('practice', {}).get('mins') or 3) + 8}.get(o, 5)
         req, pre = (sum(1 for i in u['quiz'] if i.get('t') in CHECK_T), "quiz.") if o == 'quiz' else (0, "")
         links = [mm['math_unit'] for mm in u.get('maths', []) if mm.get('math_unit')] if o == 'maths' else []

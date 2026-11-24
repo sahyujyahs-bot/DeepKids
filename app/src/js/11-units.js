@@ -6,7 +6,6 @@ const FXE = {
   story: "📖",
   terms: "🔤",
   explanations: "💡",
-  agreed: "🤝",
   how_we_found_out: "🕰️",
   challenging: "⚖️",
   big_questions: "🌌",
@@ -484,14 +483,13 @@ const FXORDER = [
   "games",
   "worksheets",
   "quiz",
-  "agreed",
   "applications",
   "maths",
   "projects",
   "challenges",
-  "challenging",
   "big_questions",
   "open_questions",
+  "challenging",
   "roots",
   "spotted",
   "ask_kids",
@@ -512,7 +510,8 @@ function fxCards(u) {
     SL = [],
     add = (key, html, say, extra) => C.push({ key, html, say, ...(extra || {}) }),
     st = u.story;
-  const order = [...u.plan.default_order];
+  const order = u.plan.default_order.filter((o) => o !== "agreed"), // what we know for sure is part of how it really works
+    folded = fxFoldAgreed(u);
   if (u.roots && !order.includes("roots")) order.push("roots");
   if (u.how_we_found_out && !order.includes("how_we_found_out")) order.push("how_we_found_out");
   for (const k of [
@@ -621,17 +620,16 @@ function fxCards(u) {
         u.explanations.forEach((x, i) =>
           add(
             "expl." + i,
-            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${fxChart(x.chart)}${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>`,
+            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${fxChart(x.chart)}${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul>${(folded.of[i] || []).map((a) => `<p class="fxsm"><b>How we know:</b> ${esc(a.evidence)}</p>${fxChart(a.chart)}`).join("")}</div>`,
             x.concept + ". " + (x.definition || "") + " " + (x.description || ""),
           ),
         );
-        break;
-      case "agreed":
-        add(
-          "agreed",
-          `${fxImg(u, "agreed", "")}<div class="fxtxt"><span class="fxeb">🤝 What most ${fxWho(u)[1]} agree on</span>${u.agreed.map((a) => `<div class="fxvoice"><b>${esc(a.text)}</b><p class="fxsm">How we know: ${esc(a.evidence)}</p>${fxChart(a.chart)}</div>`).join("")}</div>`,
-          u.agreed.map((a) => a.text).join(" "),
-        );
+        if (folded.rest.length)
+          add(
+            "agreed",
+            `${fxImg(u, "agreed", "")}<div class="fxtxt"><span class="fxeb">🤝 What most ${fxWho(u)[1]} agree on</span>${folded.rest.map((a) => `<div class="fxvoice"><b>${esc(a.text)}</b><p class="fxsm">How we know: ${esc(a.evidence)}</p>${fxChart(a.chart)}</div>`).join("")}</div>`,
+            folded.rest.map((a) => a.text).join(" "),
+          );
         break;
       case "how_we_found_out": {
         const h = u.how_we_found_out;
@@ -827,7 +825,6 @@ const FXS = {
     "💡",
     "Now we go deep: from your shoe, down to atoms, out to the Moon. Some answers are agreed; some scientists still argue about.",
   ],
-  agreed: ["What we know for sure", "🤝", "The things nearly every scientist agrees on, and how they know."],
   how_we_found_out: ["How we found out", "🕰️", "Who worked this out, when, and the wrong idea people believed before."],
   challenging: [
     "Is this true?",
@@ -888,7 +885,7 @@ function fxSecMeta(u, o, ent) {
       {
         story: u.story.mins,
         terms: Math.round((u.cards_mins || 20) / 2),
-        explanations: 12,
+        explanations: u.agreed?.length ? 15 : 12,
         videos: u.videos.reduce((a, v) => a + v.mins, 0),
         quiz: u.quiz.length,
         big_questions: 10,
@@ -900,42 +897,75 @@ function fxSecMeta(u, o, ent) {
 /* colour coding: every kind of part has one colour, label, emoji and line icon (and a name for its tile on the unit's
    first screen), used on the first screen, the opening card and every card */
 const FXKC = {
-  story: ["Story", "📖", "#8C93C7", "read", "Story"],
   idea: ["Learn", "💡", "#6DB4F2", "learn", "Learn"],
-  words: ["Words", "🔤", "#E0A800", "words", "Words"],
-  games: ["Game", "🎲", "#E2559A", "game", "Games"],
-  experiments: ["Experiment", "🧪", "#3F8F5F", "exp", "Experiments"],
+  think: ["Think", "🤔", "#7C6BD6", "quiz", "Think"],
+  story: ["Story", "📖", "#8C93C7", "read", "Story"],
   activities: ["Activity", "🤸", "#1FA89D", "act", "Activities"],
-  projects: ["Project", "🛠️", "#E8741C", "proj", "Projects"],
-  challenges: ["Challenge", "🧩", "#9A5BD0", "puzzle", "Challenges"],
+  experiments: ["Experiment", "🧪", "#3F8F5F", "exp", "Experiments"],
   worksheets: ["Worksheet", "📝", "#3B7DD8", "ws", "Worksheets"],
   quiz: ["Quiz", "❓", "#E24B4E", "quiz", "Quiz"],
-  videos: ["Watch", "▶️", "#5A5470", "play", "Videos"],
+  games: ["Game", "🎲", "#E2559A", "game", "Games"],
+  projects: ["Project", "🛠️", "#E8741C", "proj", "Projects"],
+  challenges: ["Challenge", "🧩", "#9A5BD0", "puzzle", "Challenges"],
   maths: ["Maths", "➗", "#0F8A7E", "maths", "Maths"],
-  song: ["Song", "🎵", "#C25B9E", "song", "Song"],
   roots: ["Roots", "🪷", "#B0638C", "roots", "Roots"],
-  extra: ["More", "✨", "#8A9A3B", "spark", "More"],
+  extra: ["Extra", "✨", "#8A9A3B", "spark", "Extras"],
+};
+// the order the parts are shown in, group by group; teaching order (FXORDER) is a different thing and decides the days
+const FXSHOW = [
+  "intro",
+  "explanations",
+  "terms",
+  "how_we_found_out",
+  "applications",
+  "big_questions",
+  "open_questions",
+  "challenging",
+  "ask_kids",
+  "story",
+  "activities",
+  "spotted",
+  "experiments",
+  "worksheets",
+  "quiz",
+  "games",
+  "projects",
+  "challenges",
+  "maths",
+  "roots",
+  "jokes",
+  "videos",
+  "links",
+  "song",
+  "photos",
+  "models",
+  "buy",
+];
+const fxRank = (s) => {
+  const i = FXSHOW.indexOf(s.kind);
+  return i < 0 ? FXSHOW.length : i;
 };
 const fxGroup = (k) =>
   ({
-    story: "story",
     intro: "idea",
     explanations: "idea",
-    agreed: "idea",
-    challenging: "idea",
-    big_questions: "idea",
-    open_questions: "idea",
-    terms: "words",
-    games: "games",
-    experiments: "experiments",
+    terms: "idea",
+    how_we_found_out: "idea",
+    applications: "idea",
+    big_questions: "think",
+    open_questions: "think",
+    challenging: "think",
+    ask_kids: "think",
+    story: "story",
     activities: "activities",
-    projects: "projects",
-    challenges: "challenges",
+    spotted: "activities",
+    experiments: "experiments",
     worksheets: "worksheets",
     quiz: "quiz",
-    videos: "videos",
+    games: "games",
+    projects: "projects",
+    challenges: "challenges",
     maths: "maths",
-    song: "song",
     roots: "roots",
   })[k] || "extra";
 const fxKC = (k) => FXKC[fxGroup(k)];
@@ -1011,6 +1041,28 @@ const fxIdeaName = (u) => {
   const t = u.title.split(":")[0].trim();
   return /^[A-Z][a-z]/.test(t) ? t[0].toLowerCase() + t.slice(1) : t;
 };
+// "what we know for sure" folded into the explanations: a statement an explanation already says (most of them) gives that
+// explanation its "how we know" line; a statement no explanation says stays, as one card at the end of the same part
+function fxFoldAgreed(u) {
+  const words = (t) =>
+      new Set(
+        (
+          String(t)
+            .toLowerCase()
+            .match(/[a-z]+/g) || []
+        ).filter((x) => x.length > 2 && !FXSMALLW.test(x)),
+      ),
+    ex = (u.explanations || []).map((x) => words(`${x.concept} ${x.definition || ""} ${x.description || ""}`)),
+    out = { of: {}, rest: [] };
+  (u.agreed || []).forEach((a) => {
+    const aw = words(a.text),
+      share = ex.map((e) => (aw.size ? [...aw].filter((y) => e.has(y)).length / aw.size : 0)),
+      best = share.indexOf(Math.max(...share, 0));
+    if (best >= 0 && share[best] >= 0.6) (out.of[best] = out.of[best] || []).push(a);
+    else out.rest.push(a);
+  });
+  return out;
+}
 // the sentences of `text` that tell something the other text has not already said (a card never repeats itself)
 function fxFresh(text, against) {
   const w = (t) =>
@@ -1084,13 +1136,19 @@ function fxDraw(open, cards) {
     it = unitBy("unit|" + u.id),
     SD = (it ? sessionsFor(it) : 0) || Math.max(1, Math.round(tot / day)),
     ref = unitRef(u.id),
-    groups = [...new Set(SL.map((s) => fxGroup(s.kind)))],
+    groups = [
+      ...new Set(
+        SL.slice()
+          .sort((a, b) => fxRank(a) - fxRank(b))
+          .map((s) => fxGroup(s.kind)),
+      ),
+    ],
     meta = (s) => `${s.mins} min${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}`;
   const part = (s) => {
     const i = SL.indexOf(s),
       st = fxSecState(u, s),
-      [kn, , kc, ki] = fxKC(s.kind),
-      head = `<span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span class="fxpt"><b>${esc(s.title)}</b><span class="fxmeta">${kn === s.title ? "" : kn + " · "}${meta(s)}</span></span>${icon("next")}`;
+      [, , kc, ki] = fxKC(s.kind),
+      head = `<span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span class="fxpt"><b>${esc(s.title)}</b><span class="fxmeta">${meta(s)}</span></span>${icon("next")}`;
     return i === open
       ? `<li class="fxpart open ${st}" data-s="${i}" style="--kc:${kc}"><div class="fxpbar"><button class="fxph" data-fx="map" aria-expanded="true">${head}</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxstack">${cards}</div></li>`
       : `<li class="fxpart ${st}" data-s="${i}" style="--kc:${kc}"><button class="fxph" data-fx="sec" data-s="${i}" aria-expanded="false">${head}</button></li>`;
@@ -1105,7 +1163,7 @@ function fxDraw(open, cards) {
     <div class="fxjump">${groups.map((g) => `<button data-fx="jump" data-g="${g}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}${FXKC[g][4]}</button>`).join("")}</div>
     ${groups
       .map((g) => {
-        const L = SL.filter((s) => fxGroup(s.kind) === g),
+        const L = SL.filter((s) => fxGroup(s.kind) === g).sort((a, b) => fxRank(a) - fxRank(b)),
           n = L.filter((s) => fxSecState(u, s) === "done").length;
         return `<section class="fxgroup" data-g="${g}" style="--kc:${FXKC[g][2]}"><h2>${icon(FXKC[g][3])}${FXKC[g][4]}<span>${n ? `${n} of ${L.length} done` : `${L.length} part${L.length === 1 ? "" : "s"}`}</span></h2><ol class="fxparts">${L.map(part).join("")}</ol></section>`;
       })
@@ -1162,11 +1220,17 @@ function fxShowSection(si, ci) {
   };
   FXCARDS = [...body, end];
   const last = FXCARDS.length - 1,
+    // a card's label that only repeats the part's own name is left out (the header above it says it)
+    same = (t) =>
+      t
+        .replace(/^\P{L}+/u, "")
+        .trim()
+        .toLowerCase() === s.title.trim().toLowerCase(),
     d = fxDraw(
       si,
       FXCARDS.map(
         (c, i) =>
-          `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}">${i < last ? `<div class="fxch"><span class="fxmeta">${c.label || (last > 1 ? `${i + 1} of ${last}` : "")}</span><button data-fx="save" aria-label="Save this card" aria-pressed="${!!F.saved[u.id]?.[c.key]}">${F.saved[u.id]?.[c.key] ? "❤️" : "🤍"}</button><button data-fx="read" aria-label="Read this card aloud">🔊</button></div>` : ""}${c.html}</section>`,
+          `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}">${i < last ? `<div class="fxch"><span class="fxmeta">${c.label || (last > 1 ? `${i + 1} of ${last}` : "")}</span><button data-fx="save" aria-label="Save this card" aria-pressed="${!!F.saved[u.id]?.[c.key]}">${F.saved[u.id]?.[c.key] ? "❤️" : "🤍"}</button><button data-fx="read" aria-label="Read this card aloud">🔊</button></div>` : ""}${c.html.replace(/<span class="fxeb">([^<]*)<\/span>/, (m, t) => (same(t) ? "" : m))}</section>`,
       ).join(""),
     ),
     page = d.querySelector(".fxpage"),

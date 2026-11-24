@@ -125,6 +125,10 @@ def writers_kit(u, path):
     # 5. many perspectives, open debates, open questions
     ex = u.get("explanations", [])
     stock = lambda t: "is a plain meaning, a rule people agreed on" in str(t)
+    sw = lambda t: {w for w in re.findall(r"[a-z]+", str(t).lower()) if len(w) > 2 and w not in SMALL}
+    exw = [sw(f"{x.get('concept')} {x.get('definition')} {x.get('description')}") for x in ex]
+    dup = [a for a in u.get("agreed", []) if sw(a.get("text")) and any(len(sw(a["text"]) & e) / len(sw(a["text"])) >= 0.6 for e in exw)]
+    if len(dup) * 2 >= len(u.get("agreed", [])) > 0: T.append(f"{len(dup)} of {len(u['agreed'])} `agreed` statements mostly repeat an explanation: the app folds each into that explanation as its 'how we know' line, so write `agreed` as new evidence, not as the same idea again (WRITER_BRIEF.md)")
     undecided = [x.get("concept", "?") for x in ex if len(x.get("perspectives", [])) < 2 and (len(str(x.get("one_view", "")).split()) < 6 or stock(x.get("one_view")))]
     if undecided: T.append(f"{len(undecided)} explanations have neither 2+ perspectives nor a `one_view` note saying why only one view exists (WRITER_BRIEF.md 'Look again'), for example: {undecided[0]}")
     for x in ex:

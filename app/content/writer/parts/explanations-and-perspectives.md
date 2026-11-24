@@ -4,7 +4,7 @@ Read `app/content/WRITER_BRIEF.md` first. This card covers `explanations`, `agre
 
 ## What they hold
 - **explanations:** `{concept, status, definition, description, examples[], perspectives:[{who, explanation}], art, context}`. `status`: `defined` (an agreed definition exists), `idea` (we only have ideas: say so), `debated` (give every explanation in `perspectives`).
-- **agreed:** `{text, evidence}`: what most scientists agree on, and how we know.
+- **agreed:** `{text, evidence}`: what most scientists agree on, and how we know. The app folds each statement into the explanation it matches as its "how we know" line, so write only NEW things here, with the evidence. Never restate an explanation in other words (the checker warns when half or more repeat).
 - **challenging:** `{claim, who, for, against, status, context}`. `status`: `accepted`, `debated`, `minority`, `rejected`.
 - **big_questions:** `{q, kind, hint}`. `kind` is `deep` (down into the idea) or `big` (out to life and the universe). Open-ended.
 - **open_questions:** `{q, why_open}`: what nobody knows yet.
