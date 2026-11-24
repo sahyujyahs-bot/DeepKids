@@ -177,7 +177,8 @@ function itemAction(it, a) {
     }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"]
   );
 }
-function itemDetail(it, date) {
+// upNext: the card already shows its main button, so the detail does not repeat it
+function itemDetail(it, date, upNext) {
   const isT = date === today;
   if (it.kind === "refresh")
     return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">About ${it.dur} minutes, going back over ${(it.rf.topics || []).length ? esc(it.rf.topics.map((t) => chT(unitByK(t.k)) || t.k).join(", ")) : "past lessons"} with quick questions${it.rf.sub ? " · " + esc(it.rf.sub) : ""}.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
@@ -222,7 +223,7 @@ function itemDetail(it, date) {
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn soft sm" data-act="todomove" data-t="${it.td.id}">Move to tomorrow</button><button class="btn line sm" data-act="tododel" data-t="${it.td.id}">Remove</button></div>`;
   // anything else: what it is, and its main button
   const A = itemAction(it, `data-id="${it.id}" data-date="${date}"`);
-  return `${it.sub ? `<p class="sm" style="font-weight:700">${esc(it.sub)}</p>` : ""}<div class="row"><button class="btn sm" ${A[0]}>${it.done ? "Done ✓" : A[1]}</button></div>`;
+  return `${it.sub ? `<p class="sm" style="font-weight:700">${esc(it.sub)}</p>` : ""}${upNext ? "" : `<div class="row"><button class="btn sm" ${A[0]}>${it.done ? "Done ✓" : A[1]}</button></div>`}`;
 }
 // each row's picture: a lesson shows its unit's picture (or its subject's), a research paper its cover, some kinds one
 // of the founder's drawings; the rest keep an icon until they have an illustration that fits
@@ -295,7 +296,9 @@ function tRow(it, date, focus) {
     mid = L
       ? `<div class="lmid"><div class="ltags"><span class="stag">${esc(SUBJ[it.s])}</span>${it.n ? `<span class="stag soft">Session ${it.n}${it.tot ? ` of ${it.tot}` : ""}</span>` : ""}<span class="stag soft">${mins(it.dur / 60)}</span>${tag}</div><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(chT(it.u))}</b></button>${!open ? "" : it.done ? `<p class="lline"><b>Done</b> ${it.doneAt != null ? "at " + clock(it.doneAt) : "today"}</p>` : `${L.last ? `<p class="lline"><b>Last done</b> ${esc(L.last)}</p>` : ""}${L.next ? `<p class="lline"><b>Next up</b> ${esc(L.next)}</p>` : ""}`}</div>`
       : "";
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : esc(ROLE[it.who])) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${(it === focus ? it.kind !== "lesson" || open : it.kind === "lesson" && open) && date === today && !it.done ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
+  const upNext =
+    (it === focus ? it.kind !== "lesson" || open : it.kind === "lesson" && open) && date === today && !it.done;
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : esc(ROLE[it.who])) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${upNext ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date, upNext)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),
