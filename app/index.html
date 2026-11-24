@@ -8137,6 +8137,7 @@ let ACC = null,
   DBR = null,
   UIDR = null,
   unsub = null;
+const LSK_GUEST = "dk-state-guest";
 const LSK = () => "dk-state-" + (ACC || "guest");
 const lsGet = (k) => {
     try {
@@ -8156,7 +8157,14 @@ const lsGet = (k) => {
     } catch (e) {}
   };
 async function boot() {
-  ACC = lsGet("dk-acct");
+  // without signing in the family is always "guest"; signed in, a leftover guest log-in is dropped (its plan is brought
+  // into the Google account when that opens)
+  const P = window.DK_PLATFORM;
+  ACC = P?.guest ? "guest" : lsGet("dk-acct");
+  if (ACC === "guest" && P && !P.guest) {
+    ACC = null;
+    lsDel("dk-acct");
+  }
   if (ACC) {
     try {
       const ls = lsGet(LSK());
@@ -8198,6 +8206,17 @@ async function openAccount(acct, name) {
     const ls = lsGet(LSK());
     if (ls) local = JSON.parse(ls);
   } catch (e) {}
+  // the first Google sign-in after using the app without one keeps the family made as a guest
+  if (!local && acct.startsWith("g") && acct !== "guest") {
+    const gs = lsGet(LSK_GUEST);
+    if (gs) {
+      try {
+        local = JSON.parse(gs);
+        lsSet(LSK_GUEST + "-kept", gs);
+        lsDel(LSK_GUEST);
+      } catch (e) {}
+    }
+  }
   if (!local) {
     const v2 = lsGet("dk-state-v2");
     if (v2 && !lsGet("dk-v2-migrated")) {
@@ -22849,7 +22868,7 @@ Return JSON only: {"items":[{"i":1,"k":"<candidate key or empty>","kind":"${UPK.
 }
 async function upFiles(files) {
   if (!ASSETS) {
-    toast("Files can be saved when DeepKids is open in claude.ai.");
+    toast(NOFILES);
     return;
   }
   ui.up = { n: files.length, i: 0, fail: 0, step: "save" };
@@ -22943,7 +22962,7 @@ function uploadsView() {
   const U = (S.work || []).slice().sort((a, b) => ((b.date || "") < (a.date || "") ? -1 : 1)),
     P = ui.up;
   let h = `<label class="drop ${P ? "busy" : ""}">${blob("var(--leaf)", 5, "wow", "", 'width="48" height="48"')}<b>${P ? (P.step === "tag" ? "Reading and filing…" : `Saving ${P.i} of ${P.n}…`) : "Add photos, videos and files"}</b><span class="xs muted">${P ? "Keep this open for a moment." : "Pick as many as you like: worksheets, drawings, notebook pages, experiments, outings. DeepKids matches each to the day and chapter. Nothing to fill in."}</span><input type="file" id="upFiles" multiple accept="image/*,application/pdf,video/*,.doc,.docx,.ppt,.pptx" hidden ${P ? "disabled" : ""}></label>
-  ${ASSETS ? "" : `<p class="xs muted">Saving files works when DeepKids is open in claude.ai.</p>`}`;
+  ${ASSETS ? "" : `<p class="xs muted">${NOFILES}</p>`}`;
   const need = U.filter((w) => !w.k);
   if (need.length)
     h += `<section class="sec"><div class="sech"><h3 class="fs5">Need a chapter</h3><span class="pill">${need.length}</span></div><p class="xs muted">Pick one, or leave it as a general memory.</p><div class="col" style="gap:8px">${need.map(upCard).join("")}</div></section>`;
@@ -24151,6 +24170,9 @@ function accountCard() {
       ? "+91 " + ACC.slice(2, 7) + " " + ACC.slice(7)
       : window.DK_PLATFORM?.user?.()?.email || "";
   const d = ui.saved;
+  if (window.DK_PLATFORM?.guest)
+    return `<section class="card"><div class="sech"><span><span class="eyebrow">Not signed in</span><br><b class="h5">Saved on this phone only</b></span><button class="btn sm" data-act="logout">Sign in with Google</button></div>
+   <p class="xs muted">If this phone is lost or cleared, the plan goes with it. Signing in keeps it safe and brings your plan along.</p></section>`;
   return `<section class="card"><div class="sech"><span><span class="eyebrow">Logged in</span><br><b class="h5">${esc(ph)}</b></span><button class="btn soft sm" data-act="logout">Log out</button></div>
    <button class="btn line sm self-start" data-act="checksaved">${ui.savedBusy ? "Reading…" : "Check what's saved"}</button>
    ${
@@ -24289,6 +24311,11 @@ function obNext() {
           8000,
         ),
       1200,
+    );
+  if (window.DK_PLATFORM?.guest)
+    setTimeout(
+      () => toast("Your plan is saved on this phone only. Sign in any time from App settings to keep it safe.", 7000),
+      f.n && f.need > f.have ? 9800 : 1800,
     );
 }
 const FXPQ = {
@@ -24549,10 +24576,14 @@ function plusView() {
   ${plusList()}
   ${pend ? `<div class="ask"><span class="eyebrow">Your message is kept</span>“${esc(pend.text.slice(0, 160))}${pend.text.length > 160 ? "…" : ""}”<br><span class="xs muted">As soon as Plus is on, DeepKids reads it. No need to type it again.</span></div>` : ""}
   <div class="col" style="gap:10px;margin-top:12px"><button class="btn accent" data-act="plusgo" ${waiting && !window.DK_PLATFORM?.upgrade ? "disabled" : ""}>${waiting && !window.DK_PLATFORM?.upgrade ? "You're on the list ✓" : "Upgrade to Plus"}</button><button class="btn line sm" data-act="texit">Not now</button></div>
-  ${waiting && !window.DK_PLATFORM?.upgrade ? `<p class="xs muted center">Plus opens soon. We'll let you know here as soon as it does.</p>` : ""}`;
+  ${waiting && !window.DK_PLATFORM?.upgrade ? `<p class="xs muted center">${window.DK_PLATFORM?.guest ? "Sign in with Google to use Plus." : "Plus opens soon. We'll let you know here as soon as it does."}</p>` : ""}`;
 }
 async function plusGo() {
   const P = window.DK_PLATFORM;
+  if (P?.guest) {
+    toast("Sign in with Google first, then you can upgrade to Plus.");
+    return;
+  }
   if (P?.upgrade) {
     let ok = false;
     try {
@@ -24834,6 +24865,7 @@ function qSend() {
   D_.questions = [];
   runDump();
 }
+const NOFILES = "Saving photos and files needs you to sign in with Google. You can do that any time from App settings.";
 let SAMPLE = null,
   ASSETS = null,
   IMGOK = false;
@@ -26718,7 +26750,7 @@ document.addEventListener("change", async (e) => {
   }
   if (t.dataset.upload && t.files?.length) {
     if (!ASSETS) {
-      toast("Photos can't be saved in this view");
+      toast(NOFILES);
       return;
     }
     const k = t.dataset.upload,

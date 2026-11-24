@@ -3,6 +3,7 @@ let ACC = null,
   DBR = null,
   UIDR = null,
   unsub = null;
+const LSK_GUEST = "dk-state-guest";
 const LSK = () => "dk-state-" + (ACC || "guest");
 const lsGet = (k) => {
     try {
@@ -22,7 +23,14 @@ const lsGet = (k) => {
     } catch (e) {}
   };
 async function boot() {
-  ACC = lsGet("dk-acct");
+  // without signing in the family is always "guest"; signed in, a leftover guest log-in is dropped (its plan is brought
+  // into the Google account when that opens)
+  const P = window.DK_PLATFORM;
+  ACC = P?.guest ? "guest" : lsGet("dk-acct");
+  if (ACC === "guest" && P && !P.guest) {
+    ACC = null;
+    lsDel("dk-acct");
+  }
   if (ACC) {
     try {
       const ls = lsGet(LSK());
@@ -64,6 +72,17 @@ async function openAccount(acct, name) {
     const ls = lsGet(LSK());
     if (ls) local = JSON.parse(ls);
   } catch (e) {}
+  // the first Google sign-in after using the app without one keeps the family made as a guest
+  if (!local && acct.startsWith("g") && acct !== "guest") {
+    const gs = lsGet(LSK_GUEST);
+    if (gs) {
+      try {
+        local = JSON.parse(gs);
+        lsSet(LSK_GUEST + "-kept", gs);
+        lsDel(LSK_GUEST);
+      } catch (e) {}
+    }
+  }
   if (!local) {
     const v2 = lsGet("dk-state-v2");
     if (v2 && !lsGet("dk-v2-migrated")) {

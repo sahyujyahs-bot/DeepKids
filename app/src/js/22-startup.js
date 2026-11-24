@@ -336,7 +336,7 @@ document.addEventListener("change", async (e) => {
   }
   if (t.dataset.upload && t.files?.length) {
     if (!ASSETS) {
-      toast("Photos can't be saved in this view");
+      toast(NOFILES);
       return;
     }
     const k = t.dataset.upload,

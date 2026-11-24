@@ -34,6 +34,9 @@ function accountCard() {
       ? "+91 " + ACC.slice(2, 7) + " " + ACC.slice(7)
       : window.DK_PLATFORM?.user?.()?.email || "";
   const d = ui.saved;
+  if (window.DK_PLATFORM?.guest)
+    return `<section class="card"><div class="sech"><span><span class="eyebrow">Not signed in</span><br><b class="h5">Saved on this phone only</b></span><button class="btn sm" data-act="logout">Sign in with Google</button></div>
+   <p class="xs muted">If this phone is lost or cleared, the plan goes with it. Signing in keeps it safe and brings your plan along.</p></section>`;
   return `<section class="card"><div class="sech"><span><span class="eyebrow">Logged in</span><br><b class="h5">${esc(ph)}</b></span><button class="btn soft sm" data-act="logout">Log out</button></div>
    <button class="btn line sm self-start" data-act="checksaved">${ui.savedBusy ? "Reading…" : "Check what's saved"}</button>
    ${
@@ -172,6 +175,11 @@ function obNext() {
           8000,
         ),
       1200,
+    );
+  if (window.DK_PLATFORM?.guest)
+    setTimeout(
+      () => toast("Your plan is saved on this phone only. Sign in any time from App settings to keep it safe.", 7000),
+      f.n && f.need > f.have ? 9800 : 1800,
     );
 }
 const FXPQ = {

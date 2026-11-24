@@ -866,7 +866,7 @@ Return JSON only: {"items":[{"i":1,"k":"<candidate key or empty>","kind":"${UPK.
 }
 async function upFiles(files) {
   if (!ASSETS) {
-    toast("Files can be saved when DeepKids is open in claude.ai.");
+    toast(NOFILES);
     return;
   }
   ui.up = { n: files.length, i: 0, fail: 0, step: "save" };
@@ -960,7 +960,7 @@ function uploadsView() {
   const U = (S.work || []).slice().sort((a, b) => ((b.date || "") < (a.date || "") ? -1 : 1)),
     P = ui.up;
   let h = `<label class="drop ${P ? "busy" : ""}">${blob("var(--leaf)", 5, "wow", "", 'width="48" height="48"')}<b>${P ? (P.step === "tag" ? "Reading and filing…" : `Saving ${P.i} of ${P.n}…`) : "Add photos, videos and files"}</b><span class="xs muted">${P ? "Keep this open for a moment." : "Pick as many as you like: worksheets, drawings, notebook pages, experiments, outings. DeepKids matches each to the day and chapter. Nothing to fill in."}</span><input type="file" id="upFiles" multiple accept="image/*,application/pdf,video/*,.doc,.docx,.ppt,.pptx" hidden ${P ? "disabled" : ""}></label>
-  ${ASSETS ? "" : `<p class="xs muted">Saving files works when DeepKids is open in claude.ai.</p>`}`;
+  ${ASSETS ? "" : `<p class="xs muted">${NOFILES}</p>`}`;
   const need = U.filter((w) => !w.k);
   if (need.length)
     h += `<section class="sec"><div class="sech"><h3 class="fs5">Need a chapter</h3><span class="pill">${need.length}</span></div><p class="xs muted">Pick one, or leave it as a general memory.</p><div class="col" style="gap:8px">${need.map(upCard).join("")}</div></section>`;

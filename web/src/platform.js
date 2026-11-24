@@ -7,7 +7,7 @@
   const C=window.DK_CONFIG||{},T=window.DK_TEST||null;
   const $=s=>document.querySelector(s);
   const ready=!!(C.supabaseUrl&&C.supabaseAnonKey)||!!T;
-  let sb=null,session=null,uid=null,plus={until:null,prices:[],payments:false};
+  let sb=null,session=null,uid=null,GUEST=false,plus={until:null,prices:[],payments:false};
   /* config ai: false = Claude off; "plus" = only families with DeepKids Plus; true = every signed-in family */
   const AI=T?(T.ai??true):C.ai;
   const plusOn=()=>!!plus.until&&new Date(plus.until)>new Date();
@@ -17,7 +17,7 @@
    .dkg .box{max-width:400px;width:100%;display:grid;gap:16px;text-align:center}.dkg p{margin:0;line-height:1.5;color:#5d5670}
    .dkg h1{font-size:28px;margin:0}.dkg .lead{font-size:clamp(11px,calc((100vw - 36px)/22.5),19px);white-space:nowrap;font-weight:600;color:#2B2340;margin-top:-8px}.dkg .who{font-size:14.5px;margin-top:-10px}
    .dkg button{display:flex;gap:10px;align-items:center;justify-content:center;width:100%;padding:14px 18px;border-radius:16px;border:2px solid rgba(43,35,64,.15);background:#fff;font:600 17px system-ui,sans-serif;cursor:pointer;color:#2B2340}
-   .dkg button:active{transform:scale(.98)}.dkg .err{color:#b03a2e;font-size:14px}.dkg small{color:#776f8a;font-size:12.5px;line-height:1.5}
+   .dkg .dkguest{border:0;background:none;color:#5d5670;font:600 15px system-ui,sans-serif;text-decoration:underline;padding:6px;margin-top:-6px}.dkg button:active{transform:scale(.98)}.dkg .err{color:#b03a2e;font-size:14px}.dkg small{color:#776f8a;font-size:12.5px;line-height:1.5}
    .dkg .swipe{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;margin:0 -18px;padding:0 18px}.dkg .swipe::-webkit-scrollbar{display:none}
    .dkg .slide{flex:0 0 100%;scroll-snap-align:center;display:grid;gap:12px;align-content:start}
    .dkg .slide img{width:100%;height:auto;border-radius:24px;background:#e9dcc8;display:block}
@@ -43,7 +43,7 @@
    @keyframes dkpulse{from{transform:translate(-50%,-50%) scale(.9);opacity:.55}to{transform:translate(-50%,-50%) scale(1.14);opacity:1}}@keyframes dktwinkle{0%,100%{opacity:.15;transform:scale(.7)}50%{opacity:1;transform:scale(1.5)}}@keyframes dkshoot{0%{opacity:0;transform:translate(0,0) rotate(28deg)}3%{opacity:1}12%{opacity:0;transform:translate(160px,85px) rotate(28deg)}100%{opacity:0}}
    @media(prefers-reduced-motion:reduce){.dkg .pic *,.dkg .pic>img{animation:none!important}}
    .dkg .intro,.dkg .show{display:grid;gap:16px}.dkg .gbtn{display:flex;justify-content:center}
-   @media(max-width:899px){.dkg{min-height:100dvh;padding:10px 18px 12px}.dkg .box{gap:8px}.dkg h1{font-size:clamp(22px,3.6dvh,28px)}.dkg .pic{height:clamp(110px,26dvh,300px)}.dkg .pic>img{height:100%;object-fit:cover}.dkg .iamstage{height:100%;aspect-ratio:auto}.dkg .slide{gap:6px}.dkg .slide p{font-size:clamp(12.5px,1.9dvh,15px)}.dkg .slide b{font-size:clamp(14px,2.2dvh,17px);margin-bottom:2px}.dkg .pts{font-size:clamp(11.5px,1.7dvh,13px);gap:8px;padding-top:6px}.dkg small{font-size:11.5px}}@media(max-width:899px) and (max-height:620px){.dkg small,.dkg .tag{display:none}}@media(max-width:899px){.dkg .intro,.dkg .show{display:contents}.dkg h1,.dkg .lead,.dkg .who{order:1}.dkg .show>*{order:2}.dkg .dkgo,.dkg .err,.dkg small{order:3}}
+   @media(max-width:899px){.dkg{min-height:100dvh;padding:10px 18px 12px}.dkg .box{gap:8px}.dkg h1{font-size:clamp(22px,3.6dvh,28px)}.dkg .pic{height:clamp(110px,26dvh,300px)}.dkg .pic>img{height:100%;object-fit:cover}.dkg .iamstage{height:100%;aspect-ratio:auto}.dkg .slide{gap:6px}.dkg .slide p{font-size:clamp(12.5px,1.9dvh,15px)}.dkg .slide b{font-size:clamp(14px,2.2dvh,17px);margin-bottom:2px}.dkg .pts{font-size:clamp(11.5px,1.7dvh,13px);gap:8px;padding-top:6px}.dkg small{font-size:11.5px}}@media(max-width:899px) and (max-height:620px){.dkg small,.dkg .tag{display:none}}@media(max-width:899px){.dkg .intro,.dkg .show{display:contents}.dkg h1,.dkg .lead,.dkg .who{order:1}.dkg .show>*{order:2}.dkg .dkgo,.dkg .dkguest,.dkg .err,.dkg small{order:3}}
    @media(min-width:900px){.dkg{padding:40px 5vw}.dkg .box{max-width:1800px;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);column-gap:6vw;align-items:center;text-align:left}.dkg h1{font-size:clamp(44px,4.4vw,72px);line-height:1.1}.dkg .lead{font-size:clamp(13px,1.5vw,28px);margin-top:0}.dkg .who{font-size:clamp(16px,1.3vw,20px);margin-top:0}.dkg .dkgo{max-width:420px}.dkg .gbtn{justify-content:flex-start}.dkg .show{gap:12px}.dkg .swipe{margin:0;padding:0}}`;
   /* what DeepKids does: one picture and its words per slide, swiped by hand */
   // the welcome slides before log-in: one list in app/content/welcome.json, which the app uses too.
@@ -65,13 +65,15 @@
     const FEATS=await slides();
     document.body.innerHTML=`<style>${css}</style><div class="dkg"><div class="box"><div class="intro"><h1>DeepKids Gurukul</h1><p class="lead">The only app homeschooling parents need.</p><p class="who">For Indian families with children aged 6 to 10.</p>
       ${ready?`<button id="dkGoogle" class="dkgo">${GOOGLE}</button>`:`<p class="err">This site isn't connected to its database yet. Fill in web/public/config.js (see web/SETUP.md).</p>`}
+      <button id="dkGuest" class="dkguest">Continue without signing in</button>
       ${msg?`<p class="err">${msg}</p>`:""}
-      <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you.</small></div>
+      <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you. Without signing in, your plan stays on this phone only.</small></div>
       <div class="show"><div class="swipe">${FEATS.map(([n,t,d,pts,tag])=>`<div class="slide"><div class="pic p-${n}">${n==="intro-iam"?`<div class="iamstage"><span class="iamfig"><img class="iamf on" src="/media/ui/iam.webp" alt=""><img class="iamf" data-f="glance" src="/media/ui/iam-glance.webp" alt=""><img class="iamf" data-f="read" src="/media/ui/iam-read.webp" alt=""><img class="iamblink" src="/media/ui/iam-blink.webp" alt=""></span></div>`:`<img src="/media/ui/${n}.jpg" alt="">`}${MOVE[n]||""}</div><div><b>${t}</b><p>${d}</p></div><div class="pts">${pts.map(([l,x])=>`<div><i>${l}</i>${x}</div>`).join("")}</div>${tag?`<span class="tag">${tag}</span>`:""}</div>`).join("")}</div>
       <div class="dots">${FEATS.map((f,i)=>`<i${i?"":' class="on"'}></i>`).join("")}</div></div></div></div>`;
     iamLife();
     const sw=$(".swipe");sw.onscroll=()=>{const k=Math.round(sw.scrollLeft/sw.clientWidth);document.querySelectorAll(".dots i").forEach((d,i)=>d.classList.toggle("on",i===k))};
     document.querySelectorAll(".dkgo").forEach(x=>x.onclick=async()=>{x.disabled=true;try{await sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}})}catch(e){signInScreen("Couldn't start Google sign-in. Try again.")}});
+    $("#dkGuest").onclick=()=>{try{localStorage.setItem("dk-guest","1")}catch(e){}location.reload()};
     const b=$("#dkGoogle");
     // Google's own button signs in through a pop-up, which comes back blank on phones (most of all from the home-screen
     // app), so phones use the plain button: the whole page goes to Google and comes back signed in
@@ -181,6 +183,11 @@
     window.DK_PLATFORM={name:"web",edits:makeEdits(),signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null,plus:()=>({...plus,on:plusOn()})};
     if(AI==="plus"&&plus.payments)window.DK_PLATFORM.upgrade=upgrade}
 
+  /* ---------- without signing in: the family's plan stays on this phone; no database, photos or AI ---------- */
+  function installGuest(){Object.assign(caps,{db:null,user:null,sample:null,assets:null,downloads});
+    window.claude=Object.freeze({use:async name=>caps[name]||null});
+    window.DK_PLATFORM={name:"web",guest:true,edits:{list:async()=>[],canEdit:async()=>false},signOut:async()=>{try{localStorage.removeItem("dk-guest")}catch(e){}location.reload()},user:()=>null,plus:()=>({on:false})}}
+
   /* ---------- DeepKids Plus: status and Razorpay checkout ---------- */
   async function plusStatus(){if(AI!=="plus")return;try{const j=await Promise.race([fn("plus",{action:"status"}),new Promise((_,rej)=>setTimeout(()=>rej(err("timeout")),6000))]);plus={until:j.valid_until||null,prices:j.prices||[],payments:!!j.payments}}catch(e){console.warn("plus status",e)}}
   const inr=n=>"₹"+Number(n).toLocaleString("en-IN");
@@ -206,7 +213,7 @@
       rzp.open()})}
 
   /* ---------- service worker: serves /_blob/ photos from private storage, caches the app ---------- */
-  async function startSW(){if(!("serviceWorker" in navigator)||T)return;try{
+  async function startSW(){if(!("serviceWorker" in navigator)||T)return;if(GUEST){navigator.serviceWorker.register("/sw.js").catch(()=>{});return}try{
     const reg=await navigator.serviceWorker.register("/sw.js");
     navigator.serviceWorker.addEventListener("message",async e=>{if(e.data?.type==="token?"&&e.ports[0])e.ports[0].postMessage({token:await token(),base:C.supabaseUrl,key:C.supabaseAnonKey})});
     const send=async()=>{const t=await token();(navigator.serviceWorker.controller||reg.active)?.postMessage({type:"token",token:t,base:C.supabaseUrl,key:C.supabaseAnonKey})};
@@ -220,12 +227,15 @@
     // lessons change, so after the first visit it comes from the phone's cache
     const content=fetch("/data.json?v="+(window.DK_DATAV||window.DK_BUILD||"")).then(r=>{if(!r.ok)throw new Error("load data");return r.json()}).then(d=>{window.DK_DATA=d});content.catch(()=>{});
     if(T){sb=T.supabase;session=T.session;uid=session.user.id}
-    else{if(!ready)return signInScreen();sb=window.supabase.createClient(C.supabaseUrl,C.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:"pkce"}});
-      const {data}=await sb.auth.getSession();session=data?.session;
-      if(!session)return signInScreen(new URLSearchParams(location.search).get("error_description")||"");
-      uid=session.user.id;if(location.search.includes("code="))history.replaceState(null,"",location.pathname);
-      sb.auth.onAuthStateChange((ev,s)=>{if(ev==="SIGNED_OUT")location.reload();if(s)session=s})}
-    await plusStatus();install();await startSW();
+    else{let wantGuest=false;try{wantGuest=localStorage.getItem("dk-guest")==="1"}catch(e){}
+      if(ready){sb=window.supabase.createClient(C.supabaseUrl,C.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:"pkce"}});
+        const {data}=await sb.auth.getSession();session=data?.session}
+      if(session){try{localStorage.removeItem("dk-guest")}catch(e){}
+        uid=session.user.id;if(location.search.includes("code="))history.replaceState(null,"",location.pathname);
+        sb.auth.onAuthStateChange((ev,s)=>{if(ev==="SIGNED_OUT")location.reload();if(s)session=s})}
+      else if(wantGuest)GUEST=true;
+      else return signInScreen(new URLSearchParams(location.search).get("error_description")||"")}
+    if(GUEST)installGuest();else{await plusStatus();install()}await startSW();
     const wait=document.getElementById("dkLoading");if(wait)wait.textContent="Getting your lessons ready…";
     await content;await load("/app.js?v="+(window.DK_APPV||window.DK_BUILD||""));wait?.remove()}
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",boot);else boot();
