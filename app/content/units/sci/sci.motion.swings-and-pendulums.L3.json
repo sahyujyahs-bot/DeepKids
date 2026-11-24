@@ -124,9 +124,17 @@
     "A playground swing stops for a moment at the highest point on each side, before it comes back.",
     "A bag of coins on a thread comes back almost to the same height it started from."
    ],
-   "perspectives": [],
-   "art": "A pendulum drawn at five points of a swing, with long speed arrows at the bottom and no arrow at the two ends.",
-   "one_view": "\"Why a pendulum swings back and forth\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Is said to have watched a lamp swing in the cathedral of Pisa in the 1580s and timed it with his pulse. He noticed that the time seemed to stay the same."
+    },
+    {
+     "who": "Physicists after Newton",
+     "explanation": "Describe the pull of gravity as a restoring force, which always points back to the middle. The bob overshoots because of its speed, so it swings."
+    }
+   ],
+   "art": "A pendulum drawn at five points of a swing, with long speed arrows at the bottom and no arrow at the two ends."
   },
   {
    "concept": "What changes the swing time: the length",
@@ -139,9 +147,17 @@
     "A small child and a grown-up on the same swing take about the same time for each swing.",
     "The swing for little children, with short ropes, swings back and forth quicker than a tall swing."
    ],
-   "perspectives": [],
-   "art": "Three pendulums side by side: a long one swinging slowly, a short one swinging quickly, and a long one with a heavier bob swinging at the same pace as the first.",
-   "one_view": "\"What changes the swing time: the length\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Found that the length of the string sets the time of a swing, while the weight of the bob does not."
+    },
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1656 built the first pendulum clock. In 1673 he showed that the time is only nearly constant, and that wide swings take slightly longer."
+    }
+   ],
+   "art": "Three pendulums side by side: a long one swinging slowly, a short one swinging quickly, and a long one with a heavier bob swinging at the same pace as the first."
   },
   {
    "concept": "Very wide swings take a little longer",
@@ -175,9 +191,17 @@
     "A swing in a park stops on its own after a minute or two if nobody pushes it.",
     "A bag of coins on a thread swings for minutes. The same bag with a postcard taped on it stops in under a minute."
    ],
-   "perspectives": [],
-   "art": "A pendulum with a flat card swinging, with tiny air lines pushing against the card, and a smaller and smaller arc drawn behind it.",
-   "one_view": "\"Why a swing slows down and stops\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say the energy of the swing turns slowly into warmth in the air and at the pivot."
+    },
+    {
+     "who": "Clockmakers",
+     "explanation": "Use an escapement, a part that gives the pendulum a tiny push every swing. It replaces what is lost so the clock keeps going."
+    }
+   ],
+   "art": "A pendulum with a flat card swinging, with tiny air lines pushing against the card, and a smaller and smaller arc drawn behind it."
   },
   {
    "concept": "Pushing at the right moment: resonance",
@@ -190,9 +214,17 @@
     "Children on an Onam oonjal swing higher by leaning and pulling in time with each swing.",
     "Soldiers stop marching in step when they cross a bridge, so their steps don't add up to shake it."
    ],
-   "perspectives": [],
-   "art": "A child pushing a swing just as it reaches the back of its path, with a small push arrow and a growing curved path drawn above.",
-   "one_view": "\"Pushing at the right moment: resonance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1665 he saw two pendulum clocks on one wall swing in step, because tiny shakes in the wall passed from one to the other."
+    },
+    {
+     "who": "Bridge engineers",
+     "explanation": "When London's Millennium Bridge opened in 2000, people's steps made it sway, and the sway made people step in time with it. The bridge had to be fixed with dampers."
+    }
+   ],
+   "art": "A child pushing a swing just as it reaches the back of its path, with a small push arrow and a growing curved path drawn above."
   },
   {
    "concept": "How pendulums keep time in clocks",
@@ -227,9 +259,17 @@
     "A gibbon swinging from branch to branch, one arm at a time.",
     "A child walking next to a grown-up takes more steps to cover the same path."
    ],
-   "perspectives": [],
-   "art": "A hoolock gibbon hanging from a branch by one long arm, swinging forward towards the next branch, with a curved arrow showing the swing.",
-   "one_view": "\"Living things that swing like pendulums\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "The Weber brothers",
+     "explanation": "In 1836 two German scientists described a walking leg as a pendulum that swings with little effort."
+    },
+    {
+     "who": "Gibbon researchers",
+     "explanation": "Find that gibbons swing arm over arm through trees like a pendulum, saving energy. Different animals discovered the same swing."
+    }
+   ],
+   "art": "A hoolock gibbon hanging from a branch by one long arm, swinging forward towards the next branch, with a curved arrow showing the swing."
   }
  ],
  "agreed": [

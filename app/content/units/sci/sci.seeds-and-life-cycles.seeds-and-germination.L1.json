@@ -64,9 +64,17 @@
     "Rice, wheat, chana and dal are seeds that people eat.",
     "A mango stone has the mango tree's seed inside."
    ],
-   "perspectives": [],
-   "art": "A big drawing of a chana seed opened up, with the seed coat, a tiny baby plant at one edge, and the two big halves full of food.",
-   "one_view": "\"A seed is a tiny living plant\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Botanists",
+     "explanation": "Say that a seed holds a plant embryo and a store of food, asleep until it has water and warmth."
+    },
+    {
+     "who": "Seed-saving farmers of India",
+     "explanation": "In groups such as Navdanya, farmers keep and share old seeds as a living inheritance of their villages. A seed is the memory of generations of care."
+    }
+   ],
+   "art": "A big drawing of a chana seed opened up, with the seed coat, a tiny baby plant at one edge, and the two big halves full of food."
   },
   {
    "concept": "The root comes out first",
@@ -102,9 +110,17 @@
     "A tamarind seed grows into a tamarind tree.",
     "A mango stone grows into a mango tree, never a coconut palm."
    ],
-   "perspectives": [],
-   "art": "Three pairs side by side: a pumpkin seed and a pumpkin plant, a tamarind seed and a tamarind tree, and a mango stone and a mango tree.",
-   "one_view": "\"A seed grows into the same kind of plant as the plant that made the seed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Gregor Mendel",
+     "explanation": "Showed that plants pass on features by rules, so a pea seed grows into a pea."
+    },
+    {
+     "who": "Farmers with hybrid seed",
+     "explanation": "Know that seeds saved from a hybrid crop do not grow true. They give plants unlike the parent, so the same kind of plant is not always the same."
+    }
+   ],
+   "art": "Three pairs side by side: a pumpkin seed and a pumpkin plant, a tamarind seed and a tamarind tree, and a mango stone and a mango tree."
   }
  ],
  "agreed": [

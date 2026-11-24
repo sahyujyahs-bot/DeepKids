@@ -153,8 +153,16 @@
     "Cooking oil is about nine tenths as dense as water, so oil floats on water."
    ],
    "art": "A bar chart of density: cork, wood, oil, ice, water, aluminium and iron, with a line marking water, and bars below the line labelled floats, above labelled sinks.",
-   "perspectives": [],
-   "one_view": "\"Density: how much stuff is packed into a space\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The old story says he found out whether a crown was pure by testing how much water it pushed aside compared with gold."
+    },
+    {
+     "who": "Ernest Rutherford",
+     "explanation": "In 1911 showed that an atom is almost all empty space with a tiny, dense centre. The nucleus is about a hundred million million times denser than water."
+    }
+   ]
   },
   {
    "concept": "Upthrust: the water pushes up",
@@ -167,8 +175,16 @@
     "A person feels almost weightless in a swimming pool."
    ],
    "art": "A boat floating on water with a downward arrow labelled weight and an upward arrow labelled upthrust, both the same length.",
-   "perspectives": [],
-   "one_view": "\"Upthrust: the water pushes up\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "The push on a thing equals the weight of the water it pushes aside."
+    },
+    {
+     "who": "Fluid scientists",
+     "explanation": "Explain that the push comes from pressure that grows with depth. It is the same fact seen from the side of the water's pressure."
+    }
+   ]
   },
   {
    "concept": "Why shape matters: a hollow boat holds air",
@@ -181,8 +197,16 @@
     "A steel ship floats because most of its hull is air."
    ],
    "art": "Two drawings side by side: a solid steel block sinking and a hollow steel boat floating, with the hollow part drawn as a pocket of air.",
-   "perspectives": [],
-   "one_view": "\"Why shape matters: a hollow boat holds air\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Beypore boat builders of Kerala",
+     "explanation": "Build large wooden ships, the uru, by skill handed down for centuries, using no drawings. Their hulls are shaped to push aside enough water."
+    },
+    {
+     "who": "Pierre Bouguer",
+     "explanation": "In 1746 he explained how a ship stays upright, with a point he called the metacentre. Calculation joined craft in designing ships."
+    }
+   ]
   },
   {
    "concept": "Salt water holds things up better",
@@ -195,8 +219,16 @@
     "A ship sits higher in the sea than in a river."
    ],
    "art": "Two glasses side by side, one with plain water and a potato at the bottom, and one with very salty water and the potato floating at the top.",
-   "perspectives": [],
-   "one_view": "\"Salt water holds things up better\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Dead Sea bathers",
+     "explanation": "Float without effort because the water is about a third salt by weight, and denser than the human body."
+    },
+    {
+     "who": "Sailors in river ports",
+     "explanation": "Know that a ship loaded in fresh water sinks lower than it does in the sea, and so its allowed load differs for different waters."
+    }
+   ]
   },
   {
    "concept": "Why ice floats, and why oil floats",
@@ -209,8 +241,16 @@
     "Ponds in cold places freeze from the top, and fish live under the ice."
    ],
    "art": "An iceberg with one tenth above the water and nine tenths below, with a label at the waterline.",
-   "perspectives": [],
-   "one_view": "\"Why ice floats, and why oil floats\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that ice floats because of its flat shape."
+    },
+    {
+     "who": "Galileo",
+     "explanation": "Argued in 1612 that ice floats because it is lighter for its size than water, 'rarefied water'. Chemists later explained it with the open, six-sided pattern of the molecules in ice."
+    }
+   ]
   },
   {
    "concept": "Liquid layers: the density tower",
@@ -223,8 +263,16 @@
     "Shake oil and water together in a bottle and then leave it still. The oil floats back up and forms a layer on top."
    ],
    "art": "A tall glass with three layers: dark syrup at the bottom, yellow water in the middle, and clear oil at the top.",
-   "perspectives": [],
-   "one_view": "\"Liquid layers: the density tower\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Make rainbow density towers in a glass from honey, soap, water and oil."
+    },
+    {
+     "who": "Oceanographers",
+     "explanation": "Find the same layering in the sea. Warm or fresh water floats above cold or salty water, and layers can stay apart for a long time. It shapes the way fish and nutrients move."
+    }
+   ]
   },
   {
    "concept": "Fish, submarines and balloons change how dense they are",
@@ -237,8 +285,16 @@
     "A hot air balloon rises when the burner heats the air inside it."
    ],
    "art": "A cut-away of a submarine with ballast tanks full of water, and next to it a fish with a gas-filled bladder drawn in silver.",
-   "perspectives": [],
-   "one_view": "\"Fish, submarines and balloons change how dense they are\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Biologists",
+     "explanation": "Explain that a fish changes its density with a gas bag, and a nautilus changes the gas and liquid in the chambers of its shell."
+    },
+    {
+     "who": "Submarine designers",
+     "explanation": "Copy the same idea. In 1620 Cornelis Drebbel built a rowing boat that travelled under the Thames. Modern submarines fill tanks with water to sink and blow them out with air to rise."
+    }
+   ]
   },
   {
    "concept": "Boats of India and the load line",
@@ -251,8 +307,16 @@
     "A ship's load line sits lower on the hull for sea water than for fresh river water."
    ],
    "art": "A coracle with two people crossing a wide river, and next to it a ship's hull with a painted load line.",
-   "perspectives": [],
-   "one_view": "\"Boats of India and the load line\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Samuel Plimsoll",
+     "explanation": "A British politician who led a law in 1876 that marked a line on every ship's side showing how deeply it could sit. It was meant to stop overloaded ships from sinking."
+    },
+    {
+     "who": "Indian Ocean boat builders",
+     "explanation": "Gujarat and Kerala shipwrights have long known how deep a loaded boat may sit, by experience and by marks on the hull, long before written laws."
+    }
+   ]
   },
   {
    "concept": "Measuring density: the hydrometer",
@@ -265,8 +329,16 @@
     "The same tube floats higher in salty water."
    ],
    "art": "A tall glass tube with a scale on it floating upright in a jar of liquid, with a second tube floating higher in a jar of salty water.",
-   "perspectives": [],
-   "one_view": "\"Measuring density: the hydrometer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Hypatia of Alexandria",
+     "explanation": "A letter from her student Synesius, about 400 CE, describes a hydrometer, a weighted tube that floats in a liquid, and tradition credits her with its design."
+    },
+    {
+     "who": "Modern laboratories",
+     "explanation": "Use a thin glass tube filled with liquid that is made to hum. The pitch of the hum changes with the liquid's density, and a machine reads it with no need for floating."
+    }
+   ]
   }
  ],
  "agreed": [

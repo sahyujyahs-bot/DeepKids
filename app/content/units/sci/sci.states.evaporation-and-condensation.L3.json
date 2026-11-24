@@ -100,10 +100,18 @@
     "Sweat on your skin evaporates, and that cools you down.",
     "Vadams and papads dry on a sunny terrace because the water in them evaporates."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "In his Meteorologica he taught that the Sun draws up a moist 'exhalation' from water and the earth, which makes clouds and rain."
+    },
+    {
+     "who": "Modern physicists",
+     "explanation": "Explain that water molecules at the surface move fast enough to escape as a gas. No exhalation is needed, only motion."
+    }
+   ],
    "art": "A zoomed-in water surface with particles drawn as dots, a few fast ones flying up out of it into the air.",
-   "context": "This card says what evaporation is and why it happens even when water is not boiling.",
-   "one_view": "\"What evaporation is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card says what evaporation is and why it happens even when water is not boiling."
   },
   {
    "concept": "Where the water goes",
@@ -137,10 +145,18 @@
     "Spectacles mist up when you step out of an air-conditioned room into a hot, damp street.",
     "A bathroom mirror mists over during a hot bath."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Old belief",
+     "explanation": "Many people thought dew fell from the sky or rose from the ground."
+    },
+    {
+     "who": "William Charles Wells",
+     "explanation": "In 1814 he showed that dew forms when objects cool at night and water vapour in the air touches them. He used careful tests with wool and the cold of clear nights."
+    }
+   ],
    "art": "A cold steel tumbler of ice water with drops on its outside, and dots in the air slowing down and joining into drops on its surface.",
-   "context": "This card says what condensation is, and why drops appear on cold things.",
-   "one_view": "\"What condensation is\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card says what condensation is, and why drops appear on cold things."
   },
   {
    "concept": "Leaving and landing back, at the same time",
@@ -151,10 +167,18 @@
     "A wet cloth in a closed box stays wet for days.",
     "A towel left folded in a heap stays damp inside, where the air cannot move."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A wet cloth dries and gives water to the air. Nothing seems to come back."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Explain that molecules leave and return all the time. A cloth dries when more leave than return, and a bathroom mirror mists when more return than leave."
+    }
+   ],
    "art": "Two boxes side by side, each with a wet cloth: the open one with many arrows going up and away and few coming back, the closed one with equal arrows up and down.",
-   "context": "This card explains the Closed Box Test: why the cloth in the closed box stayed wet.",
-   "one_view": "\"Leaving and landing back, at the same time\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the Closed Box Test: why the cloth in the closed box stayed wet."
   },
   {
    "concept": "What makes things dry faster",
@@ -166,10 +190,18 @@
     "A sari dries faster spread along the line than bunched up.",
     "Clothes dry fast in hot, dry May and slowly in the damp of the northeast monsoon."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Name warmth, moving air, a spread surface and dry air as the helpers of drying."
+    },
+    {
+     "who": "Indian potters and households",
+     "explanation": "Use the matka, an unglazed clay pot. Water seeps to the outside and evaporates, taking heat from the water inside, so the water in it stays cool."
+    }
+   ],
    "art": "Four drawings in a row: a sun, a fan blowing, a towel spread wide, and a dry desert wind, each with a cloth drying fast.",
-   "context": "This card lists what speeds up drying, and why each one works.",
-   "one_view": "\"What makes things dry faster\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card lists what speeds up drying, and why each one works."
   },
   {
    "concept": "Boiling, and the white cloud above a pan",
@@ -180,10 +212,18 @@
     "Watch a kettle spout: there is a clear gap, then a white cloud, then nothing.",
     "On top of Mount Everest, water boils at only about 70 degrees Celsius, because the air presses on it less."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Cooks",
+     "explanation": "Call the white cloud above a pan steam."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say true steam is a clear gas that cannot be seen. The white cloud is tiny drops of water formed as the steam cools. Denis Papin showed in 1679 that raising the pressure raises the boiling point, as in a pressure cooker."
+    }
+   ],
    "art": "A kettle spout with a clear gap just in front of it, then a white cloud of drops, then clear air again, each part labelled.",
-   "context": "This card explains boiling, and what the white cloud above a boiling pan really is.",
-   "one_view": "\"Boiling, and the white cloud above a pan\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains boiling, and what the white cloud above a boiling pan really is."
   },
   {
    "concept": "Dew and fog",
@@ -216,10 +256,18 @@
     "Fog-basking beetles in the Namib Desert.",
     "People in some dry, foggy places hang large nets that catch fog drops and drip them into tanks."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "The Namib beetle",
+     "explanation": "This beetle stands on a dune with its back to the foggy wind, and drops form on its bumpy shell and roll to its mouth."
+    },
+    {
+     "who": "Coast redwood trees",
+     "explanation": "Trees in California take in water through their leaves from fog. Researchers found in 2004 that fog can give a redwood a good share of its water in summer."
+    }
+   ],
    "art": "A black beetle standing head-down on the top of an orange sand dune in morning fog, with water drops running down their back to their mouth.",
-   "context": "This card is about a beetle who lives where it almost never rains, and drinks the fog.",
-   "one_view": "\"Living things that drink the fog\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about a beetle who lives where it almost never rains, and drinks the fog."
   }
  ],
  "agreed": [

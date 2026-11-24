@@ -92,10 +92,18 @@
     "A suitcase with wheels is easy to pull. Without wheels, it scrapes and is hard to drag.",
     "Gas cylinders are tipped onto their round edge and rolled, not dragged."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Egyptian builders",
+     "explanation": "A wall painting from about 1900 BCE shows a man pouring water on sand in front of a huge statue on a sledge. Modern tests found that wet sand makes sliding much easier."
+    },
+    {
+     "who": "Leonardo da Vinci",
+     "explanation": "Studied friction around 1500 and noticed that rollers and wheels needed much less force than dragging. He wrote and drew machines using rolling parts."
+    }
+   ],
    "context": "This card is about the Roll or Slide Test, where you pushed the same dabba lying on its side and standing flat.",
-   "art": "One dabba rolling on its side with a long arrow, and the same dabba standing flat with a short arrow and rub lines under it.",
-   "one_view": "\"Rolling goes further than sliding\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "One dabba rolling on its side with a long arrow, and the same dabba standing flat with a short arrow and rub lines under it."
   },
   {
    "concept": "Bouncing is squashing and springing back",
@@ -107,10 +115,18 @@
     "A crumpled paper ball bounced a little, because the paper springs back only a little.",
     "Your knees bend and straighten when you bounce on the spot."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "The ancient Maya and Aztec",
+     "explanation": "Played a ball game with balls of rubber made from the latex of trees, more than 3,000 years ago. Their balls were far bouncier than anything in Europe."
+    },
+    {
+     "who": "Kangaroos",
+     "explanation": "Hop by storing energy in the springy tendons of their legs, as in a bouncing ball. Much of each hop's energy is given back by the squashed tendon."
+    }
+   ],
    "context": "This card is about the Bounce Test, where you dropped different balls from the same height.",
-   "art": "A rubber ball bouncing high next to a flat, squashed ball of dough on the floor.",
-   "one_view": "\"Bouncing is squashing and springing back\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A rubber ball bouncing high next to a flat, squashed ball of dough on the floor."
   },
   {
    "concept": "Spinning and swinging go round a still point",
@@ -122,10 +138,18 @@
     "A bag on a door handle swings back and forth under the handle.",
     "The whole Earth spins round once every day, carrying us with it."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "A swing's hook or a top's point seems to stay still."
+    },
+    {
+     "who": "Leon Foucault",
+     "explanation": "In 1851 he hung a long pendulum in Paris and showed that its swing slowly turned round. The floor was turning beneath it: the Earth spins, so no pivot is truly still."
+    }
+   ],
    "context": "This card is about the Spin It and Swing It activities, where you spun a plate and swung a bag.",
-   "art": "A ceiling fan with a dot at its still middle, next to a cloth bag swinging on a door handle with a dot at the handle.",
-   "one_view": "\"Spinning and swinging go round a still point\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A ceiling fan with a dot at its still middle, next to a cloth bag swinging on a door handle with a dot at the handle."
   }
  ],
  "agreed": [

@@ -153,10 +153,18 @@
     "The window that gets the red evening Sun faces roughly west.",
     "A compass on a table points north whichever way you turn the table."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Vastu Shastra",
+     "explanation": "The old Indian tradition of building lays a house along the four directions, using the Sun's rise to find east."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Say the Sun rises exactly in the east only on two days a year. In summer it rises north of east and in winter south of east, so a home's direction should be checked with a compass."
+    }
+   ],
    "art": "A child in a living room with the right arm pointing at a sunny window and facing a wall labelled N.",
-   "context": "This card tells you how to find north, south, east and west inside your flat, without going out.",
-   "one_view": "\"Finding the directions in your own home\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card tells you how to find north, south, east and west inside your flat, without going out."
   },
   {
    "concept": "Left and right, or north and south?",
@@ -168,10 +176,18 @@
     "In the Guugu Yimithirr language of north-east Australia, people say \"the cup is north of the plate\" instead of left or right.",
     "Bus drivers in a city still say \"take the second left\", because they know which way you face."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Sanskrit",
+     "explanation": "The word dakshina means both south and right. The speaker faces east, so the right hand points south."
+    },
+    {
+     "who": "Guugu Yimithirr speakers",
+     "explanation": "In Australia use compass directions for everything, such as 'a spider by your north foot'. For them, left and right are not in the language at all."
+    }
+   ],
    "art": "Two girls on the same tile, facing different walls, with dotted arrows showing that 'forward then right' leads them to different places.",
-   "context": "This card explains why maps use north, south, east and west instead of left and right.",
-   "one_view": "\"Left and right, or north and south?\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why maps use north, south, east and west instead of left and right."
   },
   {
    "concept": "Symbols, a key and a north arrow",
@@ -183,10 +199,18 @@
     "On a map of a temple, a small drawn tower can mark each gopuram.",
     "In a phone map, the blue dot is a symbol for you."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Al-Idrisi",
+     "explanation": "In 1154 this scholar of Sicily made a world map with south at the top. A map's top is a choice."
+    },
+    {
+     "who": "Ptolemy and the mapmakers after him",
+     "explanation": "Put north at the top, and this became the custom. A north arrow tells the reader which choice was made."
+    }
+   ],
    "art": "A hand-drawn map of a flat with a key box listing a door, a window, a bed and a tap, and an N arrow.",
-   "context": "This card is about the three things that make a map easy for anyone to read.",
-   "one_view": "\"Symbols, a key and a north arrow\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about the three things that make a map easy for anyone to read."
   },
   {
    "concept": "Scale: keeping distances right",
@@ -198,10 +222,18 @@
     "A map of India in an atlas may say 1 centimetre stands for 100 kilometres.",
     "Nain Singh Rawat mapped the road to Lhasa by counting his steps on a string of 100 beads."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Gerardus Mercator",
+     "explanation": "In 1569 made a map useful for sailors, but it makes regions near the poles look huge. Greenland looks as big as Africa."
+    },
+    {
+     "who": "Carl Friedrich Gauss",
+     "explanation": "In 1827 proved that a curved surface like the Earth cannot be shown flat without stretching something. Every flat map keeps some things and bends others."
+    }
+   ],
    "art": "A tiled floor with a bed and a cupboard, and next to it a squared-paper map where each tile is one square.",
-   "context": "This card explains scale, and why counting tiles makes a map that someone else can trust.",
-   "one_view": "\"Scale: keeping distances right\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains scale, and why counting tiles makes a map that someone else can trust."
   },
   {
    "concept": "How a desert ant finds her way home",

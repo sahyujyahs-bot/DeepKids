@@ -104,9 +104,17 @@
     "Crack a lump of rock salt (sendha namak) and the pieces have flat sides that meet in square corners.",
     "A diamond cutter finds the directions in which a diamond splits most easily, and uses them."
    ],
-   "perspectives": [],
-   "art": "A brick wall being built, with a finished flat side, beside a salt cube with its rows of particles drawn on one face.",
-   "one_view": "\"Why a crystal has flat faces\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Rene Just Hauy",
+     "explanation": "In 1784 he broke a crystal and saw that the pieces had the same shape, so he guessed that crystals are stacks of tiny identical blocks."
+    },
+    {
+     "who": "Max von Laue",
+     "explanation": "In 1912 he sent X-rays through a crystal and saw a pattern of spots. It proved that the atoms sit in regular rows. Hauy's blocks were a good guess."
+    }
+   ],
+   "art": "A brick wall being built, with a finished flat side, beside a salt cube with its rows of particles drawn on one face."
   },
   {
    "context": "This card explains why salt, sugar and phitkari look different.",
@@ -119,9 +127,17 @@
     "Kalkandu from a shop and sugar grains from the dabba have the same slanted faces.",
     "Phitkari grown in your glass has triangle faces, like the phitkari crystals in a museum."
    ],
-   "perspectives": [],
-   "art": "Three crystals side by side, labelled: a salt cube, a phitkari double pyramid, and a slanted sugar block.",
-   "one_view": "\"Each substance grows its own shape\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Hauy and early mineralogists",
+     "explanation": "Described each mineral by its crystal shape, such as salt as cubes, and used it to name them."
+    },
+    {
+     "who": "Modern crystallographers",
+     "explanation": "Find that one substance can have more than one shape. Carbon makes soft graphite and hard diamond, and the same chemical can form different crystals in different conditions."
+    }
+   ],
+   "art": "Three crystals side by side, labelled: a salt cube, a phitkari double pyramid, and a slanted sugar block."
   },
   {
    "context": "This card explains why some crystals grow big and others tiny.",
@@ -134,9 +150,17 @@
     "Kalkandu makers leave their syrup still for days, so the crystals grow big. Stirring and fast cooling give fine sugar instead.",
     "The biggest crystals ever found, in the Cave of the Crystals in Mexico, grew in warm water that changed very slowly for hundreds of thousands of years."
    ],
-   "perspectives": [],
-   "art": "Two panels: a plate with hundreds of tiny white specks, labelled 'fast', and a glass with three big cubes, labelled 'slow'.",
-   "one_view": "\"Slow growth makes bigger crystals\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Naica cave scientists",
+     "explanation": "In a cave in Mexico, crystals of gypsum grew as long as trees, up to 11 metres, over hundreds of thousands of years in warm water. Time makes size."
+    },
+    {
+     "who": "Indian sweet makers",
+     "explanation": "Make mishri, rock sugar, by letting sugar syrup cool slowly on strings so that big crystals form. Faster cooling gives fine powder."
+    }
+   ],
+   "art": "Two panels: a plate with hundreds of tiny white specks, labelled 'fast', and a glass with three big cubes, labelled 'slow'."
   },
   {
    "context": "This card says which solids are not crystals.",
@@ -148,9 +172,17 @@
     "A glass bangle is not a crystal. When it breaks, the broken edges are curved, not flat.",
     "A clear boiled sweet is sugar that is not a crystal. Kalkandu is sugar that is a crystal."
    ],
-   "perspectives": [],
-   "art": "Two zoomed-in circles: neat rows of particles labelled 'kalkandu, a crystal', and a jumble of particles labelled 'boiled sweet, not a crystal'.",
-   "one_view": "\"Not every solid is a crystal\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Classical view",
+     "explanation": "Until the 1980s a solid was thought to be either a crystal with a repeating pattern or a jumble with no pattern."
+    },
+    {
+     "who": "Dan Shechtman",
+     "explanation": "In 1982 he found a metal with a pattern that is ordered but never repeats. Many experts, including Linus Pauling, doubted it. He won the Nobel Prize in 2011."
+    }
+   ],
+   "art": "Two zoomed-in circles: neat rows of particles labelled 'kalkandu, a crystal', and a jumble of particles labelled 'boiled sweet, not a crystal'."
   },
   {
    "context": "This card is about how a crystal first begins.",

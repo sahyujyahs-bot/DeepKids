@@ -76,9 +76,17 @@
     "A steel spoon stays at the bottom, so it sinks.",
     "An ice cube floats, but most of it stays under the water."
    ],
-   "perspectives": [],
-   "art": "A bucket cut away to show a bottle cap floating high, an ice cube floating low, and a spoon on the bottom.",
-   "one_view": "\"Floating and sinking\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Aristotle",
+     "explanation": "Taught that the shape of a thing decides if it floats, and that a thin flat piece floats because it cannot cut through water."
+    },
+    {
+     "who": "Galileo",
+     "explanation": "In 1612 he argued against this, and showed that what matters is how heavy a thing is for its size, not its shape. His view agreed with Archimedes."
+    }
+   ],
+   "art": "A bucket cut away to show a bottle cap floating high, an ice cube floating low, and a spoon on the bottom."
   },
   {
    "concept": "Weight alone does not decide",
@@ -91,9 +99,17 @@
     "A one-rupee coin is light and sinks.",
     "A whole coconut is heavy and floats."
    ],
-   "perspectives": [],
-   "art": "A balance with a rolling pin on the heavy, low side and a coin on the light, high side, and beside it a bucket with the rolling pin floating and the coin on the bottom.",
-   "one_view": "\"Weight alone does not decide\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Heavy things sink and light things float. It is what our hands tell us."
+    },
+    {
+     "who": "Archimedes",
+     "explanation": "Showed that what matters is how heavy a thing is compared with the water it pushes aside. A huge ship floats and a small pebble sinks."
+    }
+   ],
+   "art": "A balance with a rolling pin on the heavy, low side and a coin on the light, high side, and beside it a bucket with the rolling pin floating and the coin on the bottom."
   },
   {
    "concept": "What it is made of decides",
@@ -129,9 +145,17 @@
     "You can feel the water push up on a lemon when you press it down.",
     "A coin gets a tiny push up, but not enough, so it sinks."
    ],
-   "perspectives": [],
-   "art": "A ball held under water in a bucket by two small hands, with a big arrow under the ball pointing up.",
-   "one_view": "\"Water pushes up: upthrust\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Archimedes",
+     "explanation": "In the 200s BCE he stated that the upward push equals the weight of the water pushed aside."
+    },
+    {
+     "who": "Simon Stevin and Blaise Pascal",
+     "explanation": "In the 1500s and 1600s showed that pressure in water grows with depth. The bottom of an object is pushed up harder than the top is pushed down, and the difference is the upthrust."
+    }
+   ],
+   "art": "A ball held under water in a bucket by two small hands, with a big arrow under the ball pointing up."
   },
   {
    "concept": "Air inside helps things float",
@@ -144,9 +168,17 @@
     "An apple floats because of the air spaces inside it.",
     "Thermocol is mostly air, and it floats high."
    ],
-   "perspectives": [],
-   "art": "An orange with its peel floating, and a peeled orange on the bottom of a glass bowl of water, with a zoom circle showing air pockets in the peel.",
-   "one_view": "\"Air inside helps things float\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "River people of Punjab and Sindh",
+     "explanation": "Cross rivers on the mashak, a sealed animal skin filled with air, and make rafts of them. The air in the skin carries the load."
+    },
+    {
+     "who": "Fish biologists",
+     "explanation": "Find that many fish have a swim bladder, a bag of gas. By adding or removing gas, a fish can float or sink without effort."
+    }
+   ],
+   "art": "An orange with its peel floating, and a peeled orange on the bottom of a glass bowl of water, with a zoom circle showing air pockets in the peel."
   },
   {
    "concept": "Another way to stay on top: the skin of water",
@@ -159,9 +191,17 @@
     "Pond skaters, insects that walk on ponds, stand on the skin of the water.",
     "Pushed under, the pin sinks."
    ],
-   "perspectives": [],
-   "art": "A steel pin resting on the surface of water in a steel bowl, with the water surface dipping a little under it.",
-   "one_view": "\"Another way to stay on top: the skin of water\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Explain that water molecules pull on each other, so the surface acts like a stretched skin. It is called surface tension."
+    },
+    {
+     "who": "Water strider researchers",
+     "explanation": "Found in 2003 that the insect's long legs are covered in tiny hairs that trap air and dent the surface, so the insect does not break through. It walks on water by using its legs as small oars."
+    }
+   ],
+   "art": "A steel pin resting on the surface of water in a steel bowl, with the water surface dipping a little under it."
   }
  ],
  "agreed": [

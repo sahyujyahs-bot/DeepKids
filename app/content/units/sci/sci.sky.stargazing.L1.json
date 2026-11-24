@@ -56,10 +56,18 @@
     "From a moving train, the poles by the track flash past, far hills move slowly, and the Moon seems to keep up.",
     "In the tumbler test, the near tumbler jumped across the far wall when you took two steps."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Indian lullabies",
+     "explanation": "Call the Moon chanda mama, uncle Moon, who walks along with the child. It is how the Moon looks and feels."
+    },
+    {
+     "who": "Astronomers",
+     "explanation": "Explain that near things slide past quickly and far things hardly move, which is parallax. The Moon is about 384,000 kilometres away, so it seems to follow us."
+    }
+   ],
    "context": "This card explains why the Moon seems to follow you.",
-   "art": "A child walking past a window with three paper strips on the glass, the strips sliding past while the Moon stays in the same place.",
-   "one_view": "\"The Moon seems to follow you because it is very far away\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A child walking past a window with three paper strips on the glass, the strips sliding past while the Moon stays in the same place."
   },
   {
    "concept": "The Moon and the planets shine with sunlight",
@@ -117,10 +125,18 @@
     "Jupiter usually shines steadily, like a calm lamp.",
     "Astronauts in space see the stars shine steadily, with no twinkle."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Isaac Newton",
+     "explanation": "Wrote in his Opticks in 1704 that stars twinkle because the air shakes, and said that telescopes should be set on the highest mountains."
+    },
+    {
+     "who": "Modern astronomers",
+     "explanation": "Launch telescopes, like the Hubble, above the air, and also use mirrors that change shape hundreds of times a second, called adaptive optics, to cancel the shaking."
+    }
+   ],
    "context": "This card explains why stars twinkle.",
-   "art": "A star with flicker marks and a steady planet dot in the sky, and wavy lines of moving air between them and a child below.",
-   "one_view": "\"Stars twinkle, and planets usually shine steadily\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A star with flicker marks and a steady planet dot in the sky, and wavy lines of moving air between them and a child below."
   }
  ],
  "agreed": [

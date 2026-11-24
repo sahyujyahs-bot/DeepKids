@@ -127,10 +127,18 @@
     "A folded leaf has two edges that almost meet, but not all the way round.",
     "Your heart sits a little to the left of the middle."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Mathematicians",
+     "explanation": "Think of a shape with perfect mirror symmetry, a thing that nature only comes near."
+    },
+    {
+     "who": "Biologists",
+     "explanation": "Find tiny differences between the two sides of every living being. Called fluctuating asymmetry, it is bigger when a being has been stressed by heat, hunger or illness. Even our insides are not mirror images, such as the heart."
+    }
+   ],
    "context": "This card is about the surprise in the Mirror Test, when the mirror face did not quite look like the real person.",
-   "art": "A photo of a smiling woman's face, and beside it two mirror-made faces, one a little wider and one a little narrower, both looking almost like her.",
-   "one_view": "\"Nearly, never exactly\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "art": "A photo of a smiling woman's face, and beside it two mirror-made faces, one a little wider and one a little narrower, both looking almost like her."
   }
  ],
  "agreed": [

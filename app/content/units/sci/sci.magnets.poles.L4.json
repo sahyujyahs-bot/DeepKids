@@ -177,9 +177,17 @@
     "The lines of a bar magnet look like a pair of loops, one on each side of the magnet.",
     "Near a pole the lines bunch together, and far away they spread out."
    ],
-   "perspectives": [],
-   "art": "A bar magnet with smooth curved lines leaving the north end and entering the south end, bunched near the poles and spread out far away.",
-   "one_view": "\"Field lines: how we draw the field\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Michael Faraday",
+     "explanation": "In the 1830s he pictured lines in the space around a magnet, which he thought were real and pulled like stretched rubber."
+    },
+    {
+     "who": "James Clerk Maxwell",
+     "explanation": "In the 1860s turned Faraday's lines into mathematics. He treated the field as something with a strength and a direction at every point, and the lines as a way to draw it."
+    }
+   ],
+   "art": "A bar magnet with smooth curved lines leaving the north end and entering the south end, bunched near the poles and spread out far away."
   },
   {
    "concept": "What a compass shows",
@@ -215,9 +223,17 @@
     "A horseshoe magnet holds a clip across both poles much better than one pole alone.",
     "The middle of a bar magnet's long side picks up almost nothing."
    ],
-   "perspectives": [],
-   "art": "A bar magnet dipped in a heap of paper clips, with clusters at both ends and none in the middle.",
-   "one_view": "\"Why a magnet is strongest at its poles\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Bar magnet",
+     "explanation": "Is strongest at its two ends, where the lines crowd together."
+    },
+    {
+     "who": "The Earth",
+     "explanation": "Is also a magnet. Its field is about twice as strong near its poles as at the equator, which is why compasses point steeply downward near the poles."
+    }
+   ],
+   "art": "A bar magnet dipped in a heap of paper clips, with clusters at both ends and none in the middle."
   },
   {
    "concept": "How quickly the pull fades with distance",
@@ -230,9 +246,17 @@
     "A clip that jumps to a magnet from 3 centimetres might not move at all from 6 centimetres.",
     "Two bar magnets held side by side reach a little further than one, not twice as far."
    ],
-   "perspectives": [],
-   "art": "A chart of pull against distance, a steep curve that falls quickly at first and then flattens, with a magnet drawn at the left.",
-   "one_view": "\"How quickly the pull fades with distance\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Charles Coulomb",
+     "explanation": "In 1785 he measured the force between long magnetised needles and found that it falls with the square of the distance, for a single pole."
+    },
+    {
+     "who": "Modern physicists",
+     "explanation": "Find that a whole magnet has two poles that partly cancel, so its field falls faster, with the cube of the distance for a small magnet. The shape of the magnet matters."
+    }
+   ],
+   "art": "A chart of pull against distance, a steep curve that falls quickly at first and then flattens, with a magnet drawn at the left."
   },
   {
    "concept": "Fields add and cancel",
@@ -245,9 +269,17 @@
     "A pair of magnets with a steel keeper across the ends will not disturb a nearby compass.",
     "The speaker in a headphone has a magnet whose field can disturb a compass placed near it."
    ],
-   "perspectives": [],
-   "art": "Two pairs of bar magnets side by side, one pair with north next to north and arrows adding, one with north next to south and arrows cancelling.",
-   "one_view": "\"Fields add and cancel\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Say that fields add like arrows at every point, so two magnets can strengthen or cancel each other."
+    },
+    {
+     "who": "Ship compass makers",
+     "explanation": "In 1838 George Airy placed iron and small magnets near ship compasses so that the ship's own magnetism cancelled out. It is the same adding of fields."
+    }
+   ],
+   "art": "Two pairs of bar magnets side by side, one pair with north next to north and arrows adding, one with north next to south and arrows cancelling."
   },
   {
    "concept": "What blocks a magnetic field and what does not",
@@ -260,9 +292,17 @@
     "A thick iron lid between a magnet and a clip stops the clip from moving.",
     "A tin box shields a compass inside it from a magnet outside."
    ],
-   "perspectives": [],
-   "art": "A magnet, a thick iron lid and a paper clip, with field lines running into the lid and not reaching the clip.",
-   "one_view": "\"What blocks a magnetic field and what does not\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Most people think that no wall can stop a magnet, apart from iron."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Say that a layer of soft iron, or mu-metal, carries the field through itself and so shields what is inside. Superconductors push magnetic fields out completely, which is called the Meissner effect, found in 1933."
+    }
+   ],
+   "art": "A magnet, a thick iron lid and a paper clip, with field lines running into the lid and not reaching the clip."
   },
   {
    "concept": "One picture that explains both attract and repel",

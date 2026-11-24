@@ -156,9 +156,17 @@
     "A marble rolled in a bowl climbs the far side to nearly the same height.",
     "A skateboarder in a half-pipe rises to nearly the same height on both sides."
    ],
-   "perspectives": [],
-   "art": "A pendulum drawn at five points of a swing, with a bar chart beside each showing height energy falling and movement energy rising, then the reverse.",
-   "one_view": "\"The swap: how a swing trades height for speed\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Showed that a ball that swings down rises to nearly the same height. Height seems to be kept."
+    },
+    {
+     "who": "Hermann von Helmholtz",
+     "explanation": "In 1847 stated that energy is never lost, only changed from one form to another. Height energy and motion energy are two forms."
+    }
+   ],
+   "art": "A pendulum drawn at five points of a swing, with a bar chart beside each showing height energy falling and movement energy rising, then the reverse."
   },
   {
    "concept": "The peg: the path can change but the height stays",
@@ -171,9 +179,17 @@
     "A ball let go at the top of a curved slide rises to the same height up a steeper slide on the other side.",
     "A bob on a thread with a peg swings faster around the short part but rises to the same height."
    ],
-   "perspectives": [],
-   "art": "A pendulum released from the left with a peg halfway down the thread, and a dotted horizontal line showing the bob reaching the same height on the right.",
-   "one_view": "\"The peg: the path can change but the height stays\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "In his book Two New Sciences he describes a pendulum catching on a nail. It rises to the same height whichever way it goes."
+    },
+    {
+     "who": "Roller coaster designers",
+     "explanation": "Rely on the same fact. A car rolling down one hill can climb the next hill only up to the height it started at, less what friction takes."
+    }
+   ],
+   "art": "A pendulum released from the left with a peg halfway down the thread, and a dotted horizontal line showing the bob reaching the same height on the right."
   },
   {
    "concept": "How long a swing takes: the rule for the period",
@@ -186,9 +202,17 @@
     "A clock pendulum that ticks once a second each way is about 1 metre long.",
     "A long swing on 4 metre chains takes about 4 seconds for a full swing."
    ],
-   "perspectives": [],
-   "art": "A table showing lengths of 25 centimetres, 100 centimetres and 400 centimetres next to periods of 1, 2 and 4 seconds, with a pendulum drawn beside each.",
-   "one_view": "\"How long a swing takes: the rule for the period\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1673 he proved the rule for the time of a swing, which depends on the length and on gravity."
+    },
+    {
+     "who": "Jean Richer",
+     "explanation": "In 1672 he took a clock from Paris to Cayenne near the equator and found that it ran slow. Gravity is a little weaker there, so the pendulum took longer."
+    }
+   ],
+   "art": "A table showing lengths of 25 centimetres, 100 centimetres and 400 centimetres next to periods of 1, 2 and 4 seconds, with a pendulum drawn beside each."
   },
   {
    "concept": "The Earth's pull sets the beat",
@@ -224,9 +248,17 @@
     "An old wall clock needs winding every day or every week, depending on the clock, to keep its pendulum going.",
     "A pendulum swung in water stops after a few swings, because water pushes back far harder than air."
    ],
-   "perspectives": [],
-   "art": "A pendulum with smaller and smaller arcs drawn behind it, and an escapement above giving a small push at the bottom of each swing.",
-   "one_view": "\"Why a swing dies down but keeps its beat\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Believed the time of a swing stayed the same however wide it was."
+    },
+    {
+     "who": "Huygens",
+     "explanation": "Found that this is only close to true for small swings. The beat stays the same as the swing dies down only when it is small."
+    }
+   ],
+   "art": "A pendulum with smaller and smaller arcs drawn behind it, and an escapement above giving a small push at the bottom of each swing."
   },
   {
    "concept": "Pumping a swing: adding energy with your body",
@@ -239,9 +271,17 @@
     "A trapeze artist leaning at the right moments of each swing.",
     "In the cathedral of Santiago de Compostela in Spain, a team of men pull the rope of a huge incense burner in time with its swing, to make it fly very high."
    ],
-   "perspectives": [],
-   "art": "Three pictures of a child on a swing: crouching at the highest point, standing at the lowest point, and crouching again at the other end.",
-   "one_view": "\"Pumping a swing: adding energy with your body\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Describe pumping as a way to change the length of the pendulum at the right moments, called parametric pumping, rather than a push."
+    },
+    {
+     "who": "The monks of Santiago de Compostela",
+     "explanation": "Swing a huge incense burner, the botafumeiro, by pulling the rope at the right moments. It travels in a wide arc, high in the church, by this same trick."
+    }
+   ],
+   "art": "Three pictures of a child on a swing: crouching at the highest point, standing at the lowest point, and crouching again at the other end."
   },
   {
    "concept": "Resonance in bigger things: pushes that add up",
@@ -277,9 +317,17 @@
     "A gibbon hanging from a branch swings her whole body like a stiff pendulum.",
     "Your arm swings freely when you walk, at about the same beat as your legs."
    ],
-   "perspectives": [],
-   "art": "A ruler hung from a pencil by a hole at its end, next to a coin pendulum two thirds as long, both labelled with the same swing time.",
-   "one_view": "\"Stiff pendulums: when the whole thing swings\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Christiaan Huygens",
+     "explanation": "In 1673 worked out where a stiff pendulum acts as if all its weight sat at one point."
+    },
+    {
+     "who": "Henry Kater",
+     "explanation": "In 1817 used a stiff pendulum with two pivots to measure gravity very exactly. The shape of the pendulum was part of the result."
+    }
+   ],
+   "art": "A ruler hung from a pencil by a hole at its end, next to a coin pendulum two thirds as long, both labelled with the same swing time."
   },
   {
    "concept": "Timing many swings gives a better answer",
@@ -292,9 +340,17 @@
     "A runner's lap time is more trustworthy if you time ten laps and divide by ten.",
     "Scientists who keep the exact second today count the beats of atoms, billions of them, for the same reason: the more beats you count, the smaller the share of the mistake."
    ],
-   "perspectives": [],
-   "art": "Two stopwatch faces, one showing a short time with a big red uncertainty bar and one showing a long time with a tiny red bar.",
-   "one_view": "\"Timing many swings gives a better answer\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Galileo",
+     "explanation": "Used his pulse as a clock to time swings. A body is not exact, but it served."
+    },
+    {
+     "who": "Statisticians",
+     "explanation": "Say that errors of timing go up and down, so many measures averaged give a better answer than any one. Timing many swings spreads the error of start and stop."
+    }
+   ],
+   "art": "Two stopwatch faces, one showing a short time with a big red uncertainty bar and one showing a long time with a tiny red bar."
   }
  ],
  "agreed": [

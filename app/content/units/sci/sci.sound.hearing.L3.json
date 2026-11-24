@@ -146,10 +146,18 @@
     "A pressure cooker whistle makes the steam and the air vibrate. The vibration then passes through your eardrum, the three tiny bones, the cochlea, the hair cells and the nerve, and your brain hears the whistle.",
     "Your mother calling you from the kitchen reaches your brain through the same chain in much less than one second."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Hermann von Helmholtz",
+     "explanation": "In 1863 he proposed that each part of the cochlea is tuned to one pitch, like the strings of a piano."
+    },
+    {
+     "who": "Georg von Bekesy",
+     "explanation": "In the 1940s and 50s he saw through a microscope that sound makes a wave that travels along the cochlea and peaks at different places for different pitches. He won the Nobel Prize in 1961."
+    }
+   ],
    "art": "A cut-away ear in labelled steps: ear flap, ear canal, eardrum, three tiny bones, snail-shaped cochlea and the nerve going to the brain, with a bell ringing outside.",
-   "context": "This card follows one sound through the ear, part by part.",
-   "one_view": "\"How the ear turns a sound into a signal\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card follows one sound through the ear, part by part."
   },
   {
    "concept": "The quietest sound you can hear",
@@ -160,10 +168,18 @@
     "At night the road is quiet, so you can hear a wall clock tick. In the day the road is noisy, and the tick is too soft to hear.",
     "A child may hear a whisper from 3 metres away. A grandparent may need the speaker to come closer."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Audiologists",
+     "explanation": "Measure the quietest sound a person can hear, and find that it is near the limit set by the random jiggling of air itself."
+    },
+    {
+     "who": "Barn owl researchers",
+     "explanation": "Found that owls can hear sounds quieter than people can. They hunt mice in darkness by sound, with a face shaped like a dish to gather it."
+    }
+   ],
    "art": "A phone volume bar with grey steps at the bottom and a child's raised hand at the step where the song is first heard.",
-   "context": "This card explains what you found in the Quietest Sound experiment, where you turned a phone up step by step until you heard it.",
-   "one_view": "\"The quietest sound you can hear\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains what you found in the Quietest Sound experiment, where you turned a phone up step by step until you heard it."
   },
   {
    "concept": "Pitch, and the band of sounds people hear",
@@ -174,10 +190,18 @@
     "A mosquito's whine is a few hundred hertz. You hear it well.",
     "A dog whistle is above 20,000 hertz. A dog hears the whistle, and you hear nothing."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Physicists",
+     "explanation": "Count vibrations each second, called hertz, and say people hear about 20 to 20,000 of them."
+    },
+    {
+     "who": "Indian music theory",
+     "explanation": "The old text Natya Shastra divides the octave into 22 steps, called shrutis. Singers and players can tell very small differences in pitch, and keep them as part of raga."
+    }
+   ],
    "art": "A long band of colour from low to high pitch, with a person's ear covering the middle, an elephant at the low end and a bat at the high end.",
-   "context": "This card explains pitch, and why some sounds are too high or too low for us.",
-   "one_view": "\"Pitch, and the band of sounds people hear\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains pitch, and why some sounds are too high or too low for us."
   },
   {
    "concept": "Why the highest sounds go first as we grow older",
@@ -188,10 +212,18 @@
     "A grandmother may hear the low temple drum well, but miss the high beep of the microwave.",
     "In the family pitch test, a tone rises higher and higher. The children usually keep hearing it after the parents have stopped."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Audiologists",
+     "explanation": "Say that the hair cells for the highest pitch sit at the start of the cochlea and take the most wear."
+    },
+    {
+     "who": "Researchers of the Mabaan people",
+     "explanation": "In 1962 a study in Sudan found that elders who lived in a very quiet place kept good hearing into old age. It suggests that much of hearing loss is caused by noise, not age alone."
+    }
+   ],
    "art": "Three family members in a row, a girl, her mother and her grandfather, each with a band of colour above them that is a little shorter at the high end than the one before.",
-   "context": "This card explains why people of different ages hear different sounds.",
-   "one_view": "\"Why the highest sounds go first as we grow older\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why people of different ages hear different sounds."
   },
   {
    "concept": "Loud sound and hair cells",
@@ -202,10 +234,18 @@
     "If you must shout to be heard by someone an arm's length away, the place is loud enough to harm hearing over time.",
     "Earphones at full volume for hours each day can cause hearing loss that lasts."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Human doctors",
+     "explanation": "Find that broken hair cells in people do not grow back, so hearing loss from noise is permanent."
+    },
+    {
+     "who": "Bird and fish researchers",
+     "explanation": "Showed in the 1980s that birds regrow their hair cells and hear again within weeks. Scientists study them hoping to find a way to heal human ears."
+    }
+   ],
    "art": "A row of upright hair cell tufts, and next to it a row with some tufts bent flat after a loud noise.",
-   "context": "This card explains why loud sound can harm hearing for ever.",
-   "one_view": "\"Loud sound and hair cells\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains why loud sound can harm hearing for ever."
   },
   {
    "concept": "Keeping your ears safe",
@@ -216,10 +256,18 @@
     "At Deepavali, stand far back from the crackers and press your ear flaps shut when they burst.",
     "After a bath, wipe only the outside of your ear with a cloth."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Public health scientists",
+     "explanation": "Advise that sound over about 85 decibels for hours can harm ears, and give limits. Ear plugs, distance and short times protect."
+    },
+    {
+     "who": "Indian traditions of silence",
+     "explanation": "Value mauna, a time of silence, for calm and clear thought. Resting the ears, as well as the voice, is an old practice."
+    }
+   ],
    "art": "A child at a Deepavali evening standing well back from bursting crackers, with fingertips pressing the small flaps over the ear holes.",
-   "context": "This card is about protecting your hearing.",
-   "one_view": "\"Keeping your ears safe\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about protecting your hearing."
   },
   {
    "concept": "Hearing through your bones",
@@ -230,10 +278,18 @@
     "Your recorded voice sounds higher and thinner than the voice you hear when you talk.",
     "Bhramari, the humming bee breath of yoga, is done with the ears shut, and the hum fills your head."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Audiologists",
+     "explanation": "Use the fact that sound reaches the cochlea through the skull to test hearing, and to make hearing aids that sit on the bone."
+    },
+    {
+     "who": "Evelyn Glennie",
+     "explanation": "This Scottish percussionist has been deaf since childhood and plays by feeling sound through her whole body, with bare feet on the floor. Hearing is wider than the ear."
+    }
+   ],
    "art": "A child humming with thumbs closing the ear flaps, with wavy lines going through the jaw and skull straight to the cochlea.",
-   "context": "This card explains the humming test, where your hum got louder with your ears shut.",
-   "one_view": "\"Hearing through your bones\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card explains the humming test, where your hum got louder with your ears shut."
   },
   {
    "concept": "Animals that hear what we can't",
@@ -244,10 +300,18 @@
     "A dog hears a dog whistle that people cannot.",
     "Pigeons hear infrasound, far below the lowest sound we can hear."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Lazzaro Spallanzani and Donald Griffin",
+     "explanation": "Spallanzani in 1793 found that blinded bats could still fly. In 1938 Griffin showed that bats make and hear sounds above our range, called ultrasound."
+    },
+    {
+     "who": "Katy Payne",
+     "explanation": "In 1984 she found that elephants call in sounds below our hearing, called infrasound, which can travel for kilometres across the ground and air."
+    }
+   ],
    "art": "A night scene: a bat calling, a moth diving away, a cat with ears turned, and in the distance an elephant herd with long slow waves between them.",
-   "context": "This card is about animals whose hearing goes beyond ours, and how it helps them live.",
-   "one_view": "\"Animals that hear what we can't\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "context": "This card is about animals whose hearing goes beyond ours, and how it helps them live."
   },
   {
    "concept": "What does a bat hear when the echoes come back?",

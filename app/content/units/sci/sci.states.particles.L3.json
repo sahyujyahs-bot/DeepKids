@@ -114,9 +114,17 @@
     "Sugar in a glass of lemon juice dissolves in about a minute if you stir it.",
     "Salt dissolves in sambar, so you taste it everywhere but cannot see it."
    ],
-   "perspectives": [],
-   "art": "A sugar grain drawn as a block of tiny particles, with water particles pulling particles off its corners and edges and carrying them away.",
-   "one_view": "\"How sugar dissolves\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday view",
+     "explanation": "Sugar vanishes in tea. It seems to be gone."
+    },
+    {
+     "who": "Albert Einstein and Jean Perrin",
+     "explanation": "Showed in 1905 to 1908 that dissolved particles are real and keep moving, jostled by water molecules. The sugar is spread through the tea as separate molecules."
+    }
+   ],
+   "art": "A sugar grain drawn as a block of tiny particles, with water particles pulling particles off its corners and edges and carrying them away."
   },
   {
    "context": "This card is about the balance test, where you weighed sugar before and after it dissolved.",
@@ -128,9 +136,17 @@
     "100 grams of water and 16 grams of sugar make 116 grams of sugar water.",
     "An ice cube in a closed box weighs the same after it melts."
    ],
-   "perspectives": [],
-   "art": "A bottle of water and a paper packet of sugar on one pan of a balance, and the same bottle of clear sugar water with the empty paper on the same pan, both balanced level.",
-   "one_view": "\"Dissolved sugar still weighs the same\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Young children",
+     "explanation": "Often say that sugar that is dissolved weighs nothing, as Jean Piaget's studies found. It is something we cannot see, and so we think it has gone."
+    },
+    {
+     "who": "Antoine Lavoisier",
+     "explanation": "In the 1780s he showed by weighing that matter is never lost in any change. The sugar and the water together weigh what they weighed before."
+    }
+   ],
+   "art": "A bottle of water and a paper packet of sugar on one pan of a balance, and the same bottle of clear sugar water with the empty paper on the same pan, both balanced level."
   },
   {
    "context": "This card sorts out two words people often mix up.",
@@ -142,9 +158,17 @@
     "Ice melts into water on a hot day. Nothing else is needed.",
     "Sugar dissolves in cold water from the fridge. No heat is needed."
    ],
-   "perspectives": [],
-   "art": "Two pictures side by side: sugar grains in a dry pan on a flame turning brown and runny, and sugar in a glass of cold water disappearing.",
-   "one_view": "\"Dissolving is not melting\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Everyday speech",
+     "explanation": "Says sugar melts in tea. We use the word for anything that turns into a liquid."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Keep two words. Melting needs heat to loosen a solid by itself. Dissolving needs a liquid to pull the particles away, and works in the cold."
+    }
+   ],
+   "art": "Two pictures side by side: sugar grains in a dry pan on a flame turning brown and runny, and sugar in a glass of cold water disappearing."
   },
   {
    "context": "This card is about the race between a kalkandu lump, sugar grains and powdered sugar.",
@@ -156,9 +180,17 @@
     "Powdered sugar vanishes in seconds. A lump of kalkandu can take many minutes.",
     "Jaggery is grated or crushed before it goes into panakam, the South Indian jaggery drink."
    ],
-   "perspectives": [],
-   "art": "One big sugar cube beside the same cube crushed into many small pieces, with arrows showing water reaching every small piece from all sides.",
-   "one_view": "\"Why some sugar dissolves faster\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Arthur Noyes and Willis Whitney",
+     "explanation": "In 1897 they gave a rule for how fast a solid dissolves: it depends on the surface that touches the liquid and on how close the solution is to full."
+    },
+    {
+     "who": "Medicine makers",
+     "explanation": "Use the same rule to design tablets, so that they dissolve in the stomach at just the right speed, some fast and some slowly over hours."
+    }
+   ],
+   "art": "One big sugar cube beside the same cube crushed into many small pieces, with arrows showing water reaching every small piece from all sides."
   },
   {
    "context": "This card is about the tall glass test, where sugar lay at the bottom without stirring.",
@@ -170,9 +202,17 @@
     "Unstirred sugar in tea makes the last sip the sweetest.",
     "The smell of jasmine flowers spreads across a room in a few minutes, carried by moving air."
    ],
-   "perspectives": [],
-   "art": "A tall glass of water with a thick, clear, shimmering layer at the bottom, and a straw dipping into it.",
-   "one_view": "\"Particles move, but spread slowly on their own\" is a plain meaning, a rule people agreed on, or a fact anyone can check, so only one honest view exists."
+   "perspectives": [
+    {
+     "who": "Thomas Graham and Adolf Fick",
+     "explanation": "Graham measured how fast gases and dissolved things spread in the 1830s and 1850s, and Fick wrote the law of diffusion in 1855. Spreading is steady but slow."
+    },
+    {
+     "who": "Cooks and tea drinkers",
+     "explanation": "Know by stirring that mixing is much faster than waiting. Stirring carries the liquid itself, and waiting depends on slow spreading."
+    }
+   ],
+   "art": "A tall glass of water with a thick, clear, shimmering layer at the bottom, and a straw dipping into it."
   },
   {
    "context": "This card asks what particles are made of, which goes beyond this lesson.",
