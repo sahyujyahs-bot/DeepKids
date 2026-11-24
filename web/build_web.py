@@ -48,6 +48,7 @@ open(os.path.join(PUB, 'app.js'), 'w').write(script)
 open(os.path.join(PUB, 'data.json'), 'w').write(DATA)  # plain JSON: the browser reads it about three times faster than the same thing as script
 shutil.copy(os.path.join(WEB, 'src/platform.js'), os.path.join(PUB, 'platform.js'))
 shutil.copy(os.path.join(ROOT, 'app/content/welcome.json'), os.path.join(PUB, 'welcome.json'))  # the sign-in page's slides: the same list the app uses
+shutil.copy(os.path.join(WEB, 'src/about.html'), os.path.join(PUB, 'about.html'))  # a public page that says what the app is, for search engines and people
 shutil.copy(os.path.join(WEB, 'src/privacy.html'), os.path.join(PUB, 'privacy.html'))  # linked from Google sign-in's consent screen
 # lesson media (explainer videos) are served as files next to the app
 MED = os.path.join(os.path.dirname(WEB), 'app', 'content', 'media')
@@ -103,6 +104,7 @@ index = f'''<!doctype html>
 <meta property="og:description" content="A planner and lesson guide for children aged 6 to 10: NCERT, Cambridge and NIOS, and the DeepKids track.">
 <meta property="og:url" content="https://app.deepkids.in/">
 <meta property="og:image" content="https://app.deepkids.in/icons/icon-512.png">
+<script type="application/ld+json">{{"@context":"https://schema.org","@type":"WebApplication","name":"DeepKids Gurukul","url":"https://app.deepkids.in/","description":"A homeschooling app for Indian families with children aged 6 to 10: a daily plan, lessons and activities for NCERT, Cambridge and NIOS, and the DeepKids topic track.","applicationCategory":"EducationalApplication","operatingSystem":"Any (web browser)","inLanguage":"en-IN","publisher":{{"@type":"Organization","name":"DeepKids","url":"https://www.deepkids.in/"}}}}</script>
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="icon" href="/icons/favicon-32.png" type="image/png" sizes="32x32">
 <link rel="icon" href="/icons/favicon-48.png" type="image/png" sizes="48x48">
@@ -137,7 +139,7 @@ manifest = {
     ],
 }
 open(os.path.join(PUB, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitemap: https://app.deepkids.in/sitemap.xml\n')
-open(os.path.join(PUB, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://app.deepkids.in/</loc></url><url><loc>https://app.deepkids.in/privacy.html</loc></url></urlset>\n')
+open(os.path.join(PUB, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://app.deepkids.in/</loc></url><url><loc>https://app.deepkids.in/about.html</loc></url><url><loc>https://app.deepkids.in/privacy.html</loc></url></urlset>\n')
 open(os.path.join(PUB, 'manifest.webmanifest'), 'w').write(json.dumps(manifest, indent=1))
 
 # Icons: every icon, the tab icon included, shows all of IAm (iam.webp, seated with the book), centred with room
